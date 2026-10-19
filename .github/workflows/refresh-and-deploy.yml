@@ -60,7 +60,13 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # The refresh job pushes a NEW commit on top of the triggering SHA, so the
+      # deploy job must check out the branch tip (ref: main), not github.sha —
+      # otherwise it ships the data from before the refresh.
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
       - name: Assemble site
         run: |
           mkdir -p _site
