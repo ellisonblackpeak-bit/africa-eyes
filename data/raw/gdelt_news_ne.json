@@ -1,0 +1,44 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "ActuNiger | Cours damitié Niger – Russie : à Niamey , un voyage au cœur de lhistoire et du patrimoine russes",
+   "url": "https://www.actuniger.com/societe/22468-cours-damitie-niger-russie-a-niamey-un-voyage-au-coeur-de-lhistoire-et-du-patrimoine-russes",
+   "content": "",
+   "published_date": "2026-10-19T04:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "ActuNiger | Marchés publics : la Nigérienne Des Eaux lance un appel doffres pour lacquisition dengins d  élévation et de manutention et dun tractopelle",
+   "url": "https://www.actuniger.com/societe/22467-marches-publics-la-nigerienne-des-eaux-lance-un-appel-doffres-pour-lacquisition-dengins-delevation-et-de-manutention-et-dun-tractopelle",
+   "content": "",
+   "published_date": "2026-10-19T04:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Genève : le Mali célèbre le 66e anniversaire de son indépendance . ",
+   "url": "https://malijet.com/actualite_de_la_nation_malienne/312409-geneve-le-mali-celebre-le-66e-anniversaire-de-son-independ.html",
+   "content": "",
+   "published_date": "2026-10-19T16:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "ActuNiger | Santé oculaire : lONG EMMNR sensibilise aux moyens de prévenir la conjonctivite",
+   "url": "https://www.actuniger.com/societe/22462-sante-oculaire-long-emmnr-sensibilise-aux-moyens-de-prevenir-la-conjonctivite",
+   "content": "",
+   "published_date": "2026-10-16T23:45:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ne",
+ "_query": "Niger OR Niamey OR uranium OR junta",
+ "_domains": [
+  "actuniger.com",
+  "lesahel.org",
+  "airinfo.org",
+  "malijet.com",
+  "maliweb.net"
+ ],
+ "_days": 3
+}
