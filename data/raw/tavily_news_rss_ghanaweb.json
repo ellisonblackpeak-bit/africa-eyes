@@ -1,0 +1,11 @@
+{
+ "success": true,
+ "results": [],
+ "engine": "rss",
+ "_tag": "rss_ghanaweb",
+ "_query": "https://www.ghanaweb.com/GhanaHomePage/rss/news.xml",
+ "_domains": [
+  "ghanaweb.com"
+ ],
+ "_days": 3
+}

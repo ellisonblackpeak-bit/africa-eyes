@@ -1,0 +1,73 @@
+name: refresh-and-deploy
+
+# 07:00 / 10:00 / 13:00 / 16:00 / 19:00 / 22:00 / 01:00 / 04:00 (Beijing, UTC+8)
+# GitHub Actions cron is UTC, hence the -8h shift: 23,02,05,08,11,14,17,20.
+on:
+  schedule:
+    - cron: "0 23,2,5,8,11,14,17,20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: africa-eyes
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Refresh data
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          PYTHONIOENCODING: utf-8
+        run: |
+          # keep the article cache bounded so the repo does not grow forever
+          find data/raw -type f -mtime +7 -delete 2>/dev/null || true
+          python fetch_news.py || echo "::warning::fetch_news failed"
+          python fetch_articles.py || echo "::warning::fetch_articles failed"
+          python fetch_social_x.py || echo "::warning::fetch_social_x failed"
+          python build_data.py
+          python translate_xai.py --limit 220 || echo "::warning::translate failed"
+          python build_data.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "africa-eyes-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data data.js
+          if git diff --cached --quiet; then
+            echo "no data change"
+          else
+            git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp index.html data.js manifest.json _site/
+          cp *.png _site/ 2>/dev/null || true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,17 @@
+{
+ "tavily": {
+  "ok": true,
+  "detail": "ok",
+  "at": "2026-10-19T07:06:07+00:00"
+ },
+ "gdelt": {
+  "ok": false,
+  "detail": "Expecting value: line 1 column 1 (char 0)",
+  "at": "2026-10-19T03:35:02+00:00"
+ },
+ "xai": {
+  "ok": true,
+  "detail": "ok",
+  "at": "2026-10-19T03:53:03+00:00"
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "query": "Nigeria NNPC refinery oil gas pipeline electricity",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/nnpclimited/status/2111195327113859225",
+     "title": "PRESS RELEASE NNPC Activates Emergency Response to Eleme Pipeline Incident The Nigerian National Petroleum Company Limited (NNPC Limited) co",
+     "description": "PRESS RELEASE\n\nNNPC Activates Emergency Response to Eleme Pipeline Incident\n\nThe Nigerian National Petroleum Company Limited (NNPC Limited) confirms that an explosion occurred on Thursday, 15 October 2026, on a gas pipeline belonging to its subsidiary, NNPC Gas Infrastructure Company Limited (NGIC), in Aleto community, Eleme Local Government Area of Rivers State.\n\nWe are deeply concerned by reports of injuries and damage to homes and businesses. Our thoughts are with those affected and their families. Protecting lives and preventing further harm are our immediate priorities.\n\nRead the full press release when you visit",
+     "snippet": "PRESS RELEASE\n\nNNPC Activates Emergency Response to Eleme Pipeline Incident\n\nThe Nigerian National Petroleum Company Limited (NNPC Limited) confirms that an explosion occurred on Thursday, 15 October 2026, on a gas pipeline belonging to its subsidiary, NNPC Gas Infrastructure Company Limited (NGIC), in Aleto community, Eleme Local Government Area of Rivers State.\n\nWe are deeply concerned by reports of injuries and damage to homes and businesses. Our thoughts are with those affected and their families. Protecting lives and preventing further harm are our immediate priorities.\n\nRead the full press release when you visit",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NNPC Limited",
+     "handle": "@nnpclimited"
+    },
+    {
+     "url": "https://x.com/EleluAyoola/status/2111404247736598547",
+     "title": "NNPC Weekly Highlights for October 11 to 16, 2026, was packed with major milestones for NNPC Limited, from strong financial performance to g",
+     "description": "NNPC Weekly Highlights for October 11 to 16, 2026, was packed with major milestones for NNPC Limited, from strong financial performance to global transparency recognition and customer-focused innovations.\n\nKicking off the week on October 11, NNPC Limited announced the extension of its popular N66 discount promo until 31st October 2026. Based on popular demand, the promo now covers both PMS and AGO, giving customers more opportunity to save at NNPC Retail stations nationwide.\n\nOn October 12, Group Chief Executive Officer, Engr. Bashir Bayo Ojulari, presented the Company's 2025 Audited Financial Statement to President Bola Ahmed Tinubu at the Presidential Villa, Abuja. The statement highlighted N7.2 trillion Profit After Tax, N8.8 trillion dividend and N34.5 trillion revenue, underscoring NNPC's strong financial health and value to the Federation.\n\nOn the same day, the Company released its Monthly Report Summary for August 2026, reporting strong performance. Crude Oil and Condensate Production stood at 1.69 mmbopd, Natural Gas Production at 7,680 mmscf/d, Revenue at N3.737 trillion, Profit After Tax at N431 billion, and Statutory Payments at N9.487 trillion. Upstream Pipeline Availability was 100 percent, OB3 Completion at 100 percent, and AKK Completion at 95 percent. The report also noted that Profit Tax surged by 54.6 percent to N631 billion, with cumulative revenue rising to N7.4 trillion and statutory payments reaching N49 trillion for January to August.\n\nAlso on October 12, NNPC announced it will host the 2026 Contractors and Partners CEO HSE Conference on 21st and 22nd October 2026 in Abuja. Themed Strengthening HSE Excellence Through Partnership and Operational Excellence, the conference will hold at the TY Danjuma Foundation. On October 15, the Company confirmed that GCEO Engr. Bashir Bayo Ojulari will deliver the keynote address.\n\nAt the 2026 EITI Global Conference in Brussels, NNPC reaffirmed its commitment to openness. On October 14, Head of Global Compliance, Murjanatu Gamawa, reaffirmed the Company's commitment to full disclosure and accountable governance. On October 16, that commitment received global validation when Mark Robinson, Executive Director of the Extractive Industries Transparency Initiative, received NNPC Ltd's 2025 Audited Financial Statement on the sidelines of the conference and lauded the Company's progress on transparency.",
+     "snippet": "NNPC Weekly Highlights for October 11 to 16, 2026, was packed with major milestones for NNPC Limited, from strong financial performance to global transparency recognition and customer-focused innovations.\n\nKicking off the week on October 11, NNPC Limited announced the extension of its popular N66 discount promo until 31st October 2026. Based on popular demand, the promo now covers both PMS and AGO, giving customers more opportunity to save at NNPC Retail stations nationwide.\n\nOn October 12, Group Chief Executive Officer, Engr. Bashir Bayo Ojulari, presented the Company's 2025 Audited Financial Statement to President Bola Ahmed Tinubu at the Presidential Villa, Abuja. The statement highlighted N7.2 trillion Profit After Tax, N8.8 trillion dividend and N34.5 trillion revenue, underscoring NNPC's strong financial health and value to the Federation.\n\nOn the same day, the Company released its Monthly Report Summary for August 2026, reporting strong performance. Crude Oil and Condensate Production stood at 1.69 mmbopd, Natural Gas Production at 7,680 mmscf/d, Revenue at N3.737 trillion, Profit After Tax at N431 billion, and Statutory Payments at N9.487 trillion. Upstream Pipeline Availability was 100 percent, OB3 Completion at 100 percent, and AKK Completion at 95 percent. The report also noted that Profit Tax surged by 54.6 percent to N631 billion, with cumulative revenue rising to N7.4 trillion and statutory payments reaching N49 trillion for January to August.\n\nAlso on October 12, NNPC announced it will host the 2026 Contractors and Partners CEO HSE Conference on 21st and 22nd October 2026 in Abuja. Themed Strengthening HSE Excellence Through Partnership and Operational Excellence, the conference will hold at the TY Danjuma Foundation. On October 15, the Company confirmed that GCEO Engr. Bashir Bayo Ojulari will deliver the keynote address.\n\nAt the 2026 EITI Global Conference in Brussels, NNPC reaffirmed its commitment to openness. On October 14, Head of Global Compliance, Murjanatu Gamawa, reaffirmed the Company's commitment to full disclosure and accountable governance. On October 16, that commitment received global validation when Mark Robinson, Executive Director of the Extractive Industries Transparency Initiative, received NNPC Ltd's 2025 Audited Financial Statement on the sidelines of the conference and lauded the Company's progress on transparency.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Elelu Ayoola",
+     "handle": "@EleluAyoola"
+    },
+    {
+     "url": "https://x.com/KawuGarba/status/2111777662280569155",
+     "title": "NNPC Weekly Highlights: @nnpclimited continues to advance Nigeria’s energy sector through strategic gas projects and transparency.",
+     "description": "NNPC Weekly Highlights: @nnpclimited continues to advance Nigeria’s energy sector through strategic gas projects and transparency. Key milestones include presenting the 2025 Audited Financial Statements to President Tinubu and earning recognition from EITI. Thank you to GCEO Engineer Bashir Bayo Ojulari (@BBOjulari) for driving efficiency and sustainable growth.\n\n#EnergyForToday #EnergyForTomorrow",
+     "snippet": "NNPC Weekly Highlights: @nnpclimited continues to advance Nigeria’s energy sector through strategic gas projects and transparency. Key milestones include presenting the 2025 Audited Financial Statements to President Tinubu and earning recognition from EITI. Thank you to GCEO Engineer Bashir Bayo Ojulari (@BBOjulari) for driving efficiency and sustainable growth.\n\n#EnergyForToday #EnergyForTomorrow",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kawu Garba",
+     "handle": "@KawuGarba"
+    },
+    {
+     "url": "https://x.com/thecompasshub/status/2111482156765597915",
+     "title": "NNPC begins emergency response after Rivers gas pipeline explosion The Nigerian National Petroleum Company (NNPC) Limited says it has commen",
+     "description": "NNPC begins emergency response after Rivers gas pipeline explosion\n\nThe Nigerian National Petroleum Company (NNPC) Limited says it has commenced emergency response procedures following an explosion on a gas pipeline belonging to its subsidiary, NNPC Gas Infrastructure Company Limited (NGIC), in Aleto community, Eleme LGA of Rivers state.\n\nIn a statement on Friday Andy Odeh, NNPC spokesperson, confirmed the incident which occurred on October 15.",
+     "snippet": "NNPC begins emergency response after Rivers gas pipeline explosion\n\nThe Nigerian National Petroleum Company (NNPC) Limited says it has commenced emergency response procedures following an explosion on a gas pipeline belonging to its subsidiary, NNPC Gas Infrastructure Company Limited (NGIC), in Aleto community, Eleme LGA of Rivers state.\n\nIn a statement on Friday Andy Odeh, NNPC spokesperson, confirmed the incident which occurred on October 15.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Compass Hub",
+     "handle": "@thecompasshub"
+    },
+    {
+     "url": "https://x.com/KlickNewsLive/status/2111322253543506378",
+     "title": "PORT HARCOURT, Nigeria — The Nigerian National Petroleum Company Limited (NNPC Limited) has activated emergency response protocols following",
+     "description": "PORT HARCOURT, Nigeria — The Nigerian National Petroleum Company Limited (NNPC Limited) has activated emergency response protocols following a major gas pipeline explosion in Rivers State.\n\nThe incident, which occurred on Thursday, 15 October 2026, involves a pipeline operated by the NNPC Gas Infrastructure Company Limited (NGIC), a subsidiary of the state oil firm. The blast took place in the Aleto community within the Eleme Local Government Area.\n\nAccording to a press statement released on Friday by Andy Odeh, the Chief Corporate Communications Officer of NNPC Limited, the explosion resulted in injuries to residents and caused widespread damage to local businesses and residential buildings.\n\nRead more: https://t.co/brtnp2hA1q\n\n#NNPCL #riversstate #ElemeLGA #NigeriaNews #KlickNews",
+     "snippet": "PORT HARCOURT, Nigeria — The Nigerian National Petroleum Company Limited (NNPC Limited) has activated emergency response protocols following a major gas pipeline explosion in Rivers State.\n\nThe incident, which occurred on Thursday, 15 October 2026, involves a pipeline operated by the NNPC Gas Infrastructure Company Limited (NGIC), a subsidiary of the state oil firm. The blast took place in the Aleto community within the Eleme Local Government Area.\n\nAccording to a press statement released on Friday by Andy Odeh, the Chief Corporate Communications Officer of NNPC Limited, the explosion resulted in injuries to residents and caused widespread damage to local businesses and residential buildings.\n\nRead more: https://t.co/brtnp2hA1q\n\n#NNPCL #riversstate #ElemeLGA #NigeriaNews #KlickNews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Klick News",
+     "handle": "@KlickNewsLive"
+    },
+    {
+     "url": "https://x.com/BusinessDayNg/status/2111450961785114863",
+     "title": "The Nigerian National Petroleum Company (NNPC) Limited has announced the activation of emergency containment protocols following a gas pipel",
+     "description": "The Nigerian National Petroleum Company (NNPC) Limited has announced the activation of emergency containment protocols following a gas pipeline explosion in the Aleto community, Eleme Local Government Area of Rivers State...\n\nhttps://businessday.ng/energy/oilandgas/article/nnpc-isolates-pipeline-after-rivers-explosion-destroys-properties/",
+     "snippet": "The Nigerian National Petroleum Company (NNPC) Limited has announced the activation of emergency containment protocols following a gas pipeline explosion in the Aleto community, Eleme Local Government Area of Rivers State...\n\nhttps://businessday.ng/energy/oilandgas/article/nnpc-isolates-pipeline-after-rivers-explosion-destroys-properties/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BusinessDayNG",
+     "handle": "@BusinessDayNg"
+    },
+    {
+     "url": "https://x.com/NigNewsDirect/status/2111127631097741338",
+     "title": "The Extractive Industries Transparency Initiative has commended NNPC Ltd for its progress in financial disclosure and anti-corruption measur",
+     "description": "The Extractive Industries Transparency Initiative has commended NNPC Ltd for its progress in financial disclosure and anti-corruption measures, describing its efforts as a potential model for other national oil companies.\n\nThe recognition followed the presentation of NNPC’s 2025 audited financial statement at the 2026 EITI Global Conference in Brussels. Both organisations also agreed to continue collaborating on corporate governance, transparency and peer learning across the oil and gas sector.\n\nRead full story here 👇🏽\nhttps://t.co/Xhr3MOkaua\n\n#nigeriannewsdirect #nigeriannews #newsdirect #nnpc #transparency",
+     "snippet": "The Extractive Industries Transparency Initiative has commended NNPC Ltd for its progress in financial disclosure and anti-corruption measures, describing its efforts as a potential model for other national oil companies.\n\nThe recognition followed the presentation of NNPC’s 2025 audited financial statement at the 2026 EITI Global Conference in Brussels. Both organisations also agreed to continue collaborating on corporate governance, transparency and peer learning across the oil and gas sector.\n\nRead full story here 👇🏽\nhttps://t.co/Xhr3MOkaua\n\n#nigeriannewsdirect #nigeriannews #newsdirect #nnpc #transparency",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nigerian NewsDirect",
+     "handle": "@NigNewsDirect"
+    },
+    {
+     "url": "https://x.com/ReportsNG_/status/2111510180781269131",
+     "title": "NNPC isolates gas pipeline after Rivers explosion injures 20 https://www.reportsng.com/nnpc-isolates-gas-pipeline-after-rivers-explosion-inj",
+     "description": "NNPC isolates gas pipeline after Rivers explosion injures 20 https://www.reportsng.com/nnpc-isolates-gas-pipeline-after-rivers-explosion-injures-20/",
+     "snippet": "NNPC isolates gas pipeline after Rivers explosion injures 20 https://www.reportsng.com/nnpc-isolates-gas-pipeline-after-rivers-explosion-injures-20/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ReportsNG",
+     "handle": "@ReportsNG_"
+    },
+    {
+     "url": "https://x.com/Gopexly/status/2111810312303223103",
+     "title": "NNPC has raised its petrol pump price to ₦1,405 from ₦1,370.",
+     "description": "NNPC has raised its petrol pump price to ₦1,405 from ₦1,370. App users pay ₦1,339, but many motorists across the states are paying ₦1,400 to ₦1,470. Dangote's gantry price is ₦1,325. Full breakdown: https://www.gopexly.com/trending/nnpc-petrol-price-n1405-app-discount-october-2026",
+     "snippet": "NNPC has raised its petrol pump price to ₦1,405 from ₦1,370. App users pay ₦1,339, but many motorists across the states are paying ₦1,400 to ₦1,470. Dangote's gantry price is ₦1,325. Full breakdown: https://www.gopexly.com/trending/nnpc-petrol-price-n1405-app-discount-october-2026",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gopexly",
+     "handle": "@Gopexly"
+    },
+    {
+     "url": "https://x.com/grok/status/2111506391257026617",
+     "title": "None of the NNPC government refineries (Port Harcourt old/new, Warri, or Kaduna) have been consistently working since the 2023 reforms.",
+     "description": "None of the NNPC government refineries (Port Harcourt old/new, Warri, or Kaduna) have been consistently working since the 2023 reforms. They briefly restarted in late 2024/early 2025 but shut down again by mid-2025 over losses and technical issues. As of October 2026 they remain offline while NNPC seeks Chinese partners to restart Port Harcourt and Warri.",
+     "snippet": "None of the NNPC government refineries (Port Harcourt old/new, Warri, or Kaduna) have been consistently working since the 2023 reforms. They briefly restarted in late 2024/early 2025 but shut down again by mid-2025 over losses and technical issues. As of October 2026 they remain offline while NNPC seeks Chinese partners to restart Port Harcourt and Warri.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0F3D5C">
+<title>Africa Eyes · 西非动态监测台</title>
+<!-- Add-to-home-screen: Android Chrome reads manifest.json (any + maskable);
+     iOS Safari reads apple-touch-icon (and the -precomposed variant disables
+     its built-in gloss/round-corner overlay). All icons are OPAQUE PNGs so
+     the eye graphic is preserved on install. -->
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon" sizes="192x192" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Africa Eyes">
+<meta name="application-name" content="Africa Eyes">
+<style>
+:root{
+  --bg:#eef2f6; --card:#ffffff; --ink:#14212e; --ink2:#4a5c6e; --ink3:#7b8b9c;
+  --line:#dde5ec; --line2:#eaf0f5;
+  --accent:#0F3D5C; --accent2:#17628F; --teal:#12756A;
+  --pol:#2F5D8C; --eco:#12756A; --sec:#B4351F; --ene:#A87418; --min:#6B4E9E;
+  --shadow:0 1px 2px rgba(16,42,64,.06),0 6px 18px rgba(16,42,64,.07);
+  --r:14px;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans SC",sans-serif;
+  font-size:15px; line-height:1.62; -webkit-font-smoothing:antialiased;
+}
+a{color:var(--accent2);text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* ---------- shell ---------- */
+.wrap{max-width:780px;margin:0 auto;padding:0 14px 96px}
+
+header.top{
+  background:linear-gradient(160deg,#0F3D5C 0%,#164E73 55%,#12756A 140%);
+  color:#fff;padding:calc(env(safe-area-inset-top) + 22px) 0 20px;
+  margin-bottom:-14px;padding-bottom:34px;
+}
+header.top .inner{max-width:780px;margin:0 auto;padding:0 16px}
+.brand{display:flex;align-items:center;gap:9px;font-size:12.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:#9fc6de;font-weight:600}
+.brand .dot{width:7px;height:7px;border-radius:50%;background:#4fd1a5;box-shadow:0 0 0 4px rgba(79,209,165,.22)}
+h1{margin:8px 0 4px;font-size:23px;font-weight:700;letter-spacing:.01em}
+.sub{font-size:12.5px;color:#b9d5e8}
+.stats{display:flex;gap:22px;margin-top:16px;flex-wrap:wrap}
+.stat b{display:block;font-size:20px;font-weight:700;line-height:1.1}
+.stat span{font-size:11px;color:#9fc6de;letter-spacing:.04em}
+
+/* ---------- tabs ---------- */
+nav.tabs{
+  position:sticky;top:0;z-index:40;background:rgba(255,255,255,.94);
+  backdrop-filter:saturate(160%) blur(10px);border-bottom:1px solid var(--line);
+  margin:0 -14px 14px;
+}
+nav.tabs .row{display:flex;overflow-x:auto;scrollbar-width:none;max-width:780px;margin:0 auto;padding:0 8px}
+nav.tabs .row::-webkit-scrollbar{display:none}
+nav.tabs button{
+  flex:0 0 auto;background:none;border:0;font:inherit;font-size:13.5px;font-weight:600;
+  color:var(--ink3);padding:13px 13px 11px;border-bottom:2.5px solid transparent;cursor:pointer}
+nav.tabs button.on{color:var(--accent);border-bottom-color:var(--accent)}
+nav.tabs button .n{font-size:10.5px;color:var(--ink3);font-weight:500;margin-left:3px}
+
+/* ---------- filters ---------- */
+.filters{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:9px}
+.chip{
+  border:1px solid var(--line);background:#fff;border-radius:999px;padding:5px 12px;
+  font-size:12.5px;color:var(--ink2);cursor:pointer;font-weight:500;transition:.15s}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip .c{opacity:.6;font-size:11px;margin-left:2px}
+/* label for the sort row, so "排序" reads as a label rather than a chip */
+.flabel{align-self:center;font-size:11.5px;color:var(--ink3);font-weight:600;
+  letter-spacing:.06em;margin-right:1px}
+/* the "data updated N minutes ago" stamp, refreshed on every poll */
+.fresh{color:var(--accent2);font-weight:600}
+.searchrow{display:flex;gap:8px;margin-bottom:14px}
+.searchrow input{
+  flex:1;border:1px solid var(--line);background:#fff;border-radius:10px;padding:9px 13px;
+  font:inherit;font-size:14px;color:var(--ink);min-width:0}
+.searchrow input:focus{outline:none;border-color:var(--accent2);box-shadow:0 0 0 3px rgba(23,98,143,.1)}
+
+/* ---------- cards ---------- */
+.card{
+  background:var(--card);border:1px solid var(--line);border-radius:var(--r);
+  padding:14px 15px;margin-bottom:11px;box-shadow:var(--shadow)}
+.card h3{margin:0 0 7px;font-size:15.5px;line-height:1.45;font-weight:650;letter-spacing:-.005em}
+.card h3 a{color:var(--ink)}
+.card h3 a:hover{color:var(--accent2)}
+.meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:11.5px;color:var(--ink3);margin-bottom:8px}
+.badge{display:inline-block;padding:1.5px 7px;border-radius:5px;font-size:10.5px;font-weight:650;letter-spacing:.02em}
+.b-pol{background:#e7eff8;color:var(--pol)} .b-eco{background:#e2f2ef;color:var(--eco)}
+.b-sec{background:#fbe9e5;color:var(--sec)} .b-ene{background:#faf1dd;color:var(--ene)}
+.b-min{background:#efeaf8;color:var(--min)} .b-gen{background:#eef1f4;color:var(--ink2)}
+.cty{display:inline-block;padding:1.5px 7px;border-radius:5px;background:#f1f5f8;color:var(--ink2);font-size:10.5px;font-weight:600}
+.sum{font-size:13.5px;color:var(--ink2);margin:0 0 9px}
+.src{display:flex;justify-content:space-between;align-items:center;gap:10px;
+  font-size:11.5px;color:var(--ink3);border-top:1px dashed var(--line2);padding-top:8px;margin-top:2px}
+.src .dom{font-weight:600;color:var(--accent2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.note{font-size:11.5px;color:var(--ene);background:#fdf8ec;border-left:2.5px solid #e8c67a;
+  padding:6px 9px;border-radius:0 6px 6px 0;margin:8px 0 0}
+.note.grey{color:var(--ink3);background:#f4f7f9;border-left-color:#c8d5df}
+.pf{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:650;
+  border-radius:6px;padding:2.5px 8px;border:1px solid var(--line);color:var(--ink2);background:#fafcfd}
+.pf-x{border-color:#cfe0ec;color:#22506f;background:#f2f8fc}
+.pf-li{border-color:#c9d8ea;color:#0a4f8f;background:#f1f6fd}
+.pf-fb{border-color:#ccd9e8;color:#1f4f96;background:#f2f6fc}
+.pf-ig{border-color:#ecd0d8;color:#9c3b60;background:#fdf3f6}
+
+/* ---------- people table ---------- */
+.person{background:var(--card);border:1px solid var(--line);border-radius:var(--r);
+  padding:13px 15px;margin-bottom:10px;box-shadow:var(--shadow)}
+.person .pn{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.person .nm{font-size:15px;font-weight:650}
+.person .rl{font-size:12.5px;color:var(--ink2);margin:3px 0 0}
+.person .og{font-size:12.5px;color:var(--accent2);font-weight:600}
+.kv{display:grid;grid-template-columns:64px 1fr;gap:4px 10px;font-size:12.5px;margin-top:9px;
+  border-top:1px dashed var(--line2);padding-top:9px}
+.kv dt{color:var(--ink3);font-weight:600}
+.kv dd{margin:0;color:var(--ink2);word-break:break-word}
+.duty{font-size:12.5px;color:var(--ink2);line-height:1.65;background:#f6f9fb;
+  border:1px solid var(--line2);border-radius:9px;padding:9px 11px;margin-top:9px}
+.duty-lb{display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--accent2);
+  border-radius:4px;padding:1px 6px;margin-right:7px;vertical-align:1.5px;letter-spacing:.04em}
+.vok{color:var(--eco);font-weight:650;font-size:11px}
+.vno{color:var(--ene);font-weight:650;font-size:11px}
+.ttype{display:inline-block;font-size:10px;font-weight:650;padding:1px 6px;border-radius:5px;
+  vertical-align:1.5px;margin-left:4px;letter-spacing:.02em}
+.t-news{background:#e7eff8;color:var(--pol)} .t-org{background:#e2f2ef;color:var(--eco)}
+.t-per{background:#faf1dd;color:var(--ene)} .t-unk{background:#eef1f4;color:var(--ink3)}
+.grp{font-size:11.5px;font-weight:700;color:var(--ink3);letter-spacing:.08em;
+  margin:16px 0 8px;display:flex;align-items:center;gap:8px}
+.grp:before{content:"";width:14px;height:2px;background:var(--line);display:block}
+
+/* priority tiers */
+.tier-hd{display:flex;align-items:center;gap:9px;margin:20px 0 4px;padding:9px 13px;
+  border-radius:11px;font-weight:700;font-size:14px;letter-spacing:.02em}
+.tier-hd .cnt{font-weight:600;font-size:11.5px;opacity:.75;margin-left:auto}
+.tier-hd .ico{width:20px;height:20px;border-radius:6px;display:flex;align-items:center;
+  justify-content:center;font-size:11px;font-weight:800;color:#fff;flex:0 0 auto}
+.t1{background:linear-gradient(96deg,#fdece9,#fbf5f2);color:#9E2A18}
+.t1 .ico{background:#C0392B}
+.t2{background:linear-gradient(96deg,#e9f0f9,#f4f7fb);color:#24476E}
+.t2 .ico{background:#2F5D8C}
+.t3{background:linear-gradient(96deg,#e8f2ec,#f5faf7);color:#1F5E3C}
+.t3 .ico{background:#217A4B}
+.t4{background:linear-gradient(96deg,#eef1f4,#f7f9fa);color:#465768}
+.t4 .ico{background:#6B7C8C}
+.tier-desc{font-size:11.5px;color:var(--ink3);margin:0 0 10px;padding-left:2px;line-height:1.6}
+.tb{display:inline-block;padding:1.5px 7px;border-radius:5px;font-size:10px;font-weight:700;
+  letter-spacing:.02em}
+.tb1{background:#fbe3de;color:#9E2A18} .tb2{background:#e3ecf7;color:#24476E}
+.tb3{background:#dff0e6;color:#1F5E3C}
+.tb4{background:#e9edf1;color:#465768}
+
+/* bilingual */
+.en-orig{font-size:11.5px;color:var(--ink3);line-height:1.5;margin:5px 0 0;
+  padding-left:8px;border-left:2px solid var(--line2);word-break:break-word}
+.tl-pending{display:inline-block;font-size:9.5px;font-weight:700;padding:1px 5px;border-radius:4px;
+  background:#fdf3e3;color:#9A6A12;margin-left:5px;vertical-align:1.5px;letter-spacing:.02em}
+.tl-stat{font-size:11.5px;color:var(--ink3);background:#fff;border:1px solid var(--line);
+  border-radius:10px;padding:9px 13px;margin-bottom:12px;line-height:1.65}
+
+/* ---------- misc ---------- */
+.sec-title{font-size:13px;font-weight:700;color:var(--accent);letter-spacing:.02em;
+  margin:20px 0 9px;padding-bottom:6px;border-bottom:1.5px solid var(--line)}
+.sec-title:first-child{margin-top:4px}
+.callout{background:#fff;border:1px solid var(--line);border-left:3px solid var(--accent);
+  border-radius:0 10px 10px 0;padding:12px 15px;margin-bottom:12px;box-shadow:var(--shadow)}
+.callout h4{margin:0 0 6px;font-size:13px;color:var(--accent)}
+.callout ul{margin:0;padding-left:18px;font-size:12.5px;color:var(--ink2)}
+.callout li{margin-bottom:3px}
+.empty{text-align:center;color:var(--ink3);padding:40px 10px;font-size:13.5px}
+.pager{display:flex;justify-content:center;gap:10px;align-items:center;margin:16px 0 6px}
+.pager button{border:1px solid var(--line);background:#fff;border-radius:9px;padding:8px 16px;
+  font:inherit;font-size:13px;color:var(--ink2);cursor:pointer;font-weight:600}
+.pager button:disabled{opacity:.4}
+footer{max-width:780px;margin:26px auto 0;padding:0 16px;font-size:11px;color:var(--ink3);line-height:1.7}
+details.ft{margin-top:8px;border-top:1px dashed var(--line);padding-top:8px}
+details.ft summary{cursor:pointer;color:var(--accent2);font-weight:600;font-size:13px;list-style:none;-webkit-tap-highlight-color:transparent}
+details.ft summary::-webkit-details-marker{display:none}
+details.ft summary::before{content:'▸ ';color:var(--ink3)}
+details.ft[open] summary::before{content:'▾ '}
+.ft-body{margin-top:8px;font-size:14px;line-height:1.78;color:var(--ink);white-space:pre-wrap;word-break:break-word}
+.ft-note{margin-top:8px;font-size:12px;line-height:1.6;color:var(--ink3);background:#f4f7f9;border-radius:8px;padding:7px 9px}
+/* ---------- interactive person lookup ---------- */
+.ps-search{display:flex;gap:8px;margin:2px 0 8px}
+.ps-search input{flex:1;min-width:0;padding:11px 12px;border:1px solid var(--line);border-radius:10px;
+  font-size:15px;background:#fff;color:var(--ink);-webkit-appearance:none}
+.ps-search button{flex:0 0 auto;padding:0 18px;border:0;border-radius:10px;background:var(--accent);
+  color:#fff;font-size:14px;font-weight:700;cursor:pointer}
+.ps-hint{font-size:12px;line-height:1.65;color:var(--ink3);margin:2px 0 10px}
+.ps-space{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-size:12px;color:var(--ink2);
+  background:#f4f7f9;border:1px solid var(--line2);border-radius:9px;padding:7px 10px;margin:0 0 10px}
+.ps-space code{font-family:ui-monospace,Menlo,Consolas,monospace;background:#fff;border:1px solid var(--line2);
+  border-radius:5px;padding:1px 6px;color:var(--accent);font-size:12px}
+.ps-space .ps-note{flex:1 1 100%;color:var(--ink3);line-height:1.55}
+.ps-space .ps-clear{margin-left:auto;color:var(--ink3);border-bottom:1px dashed var(--line);
+  cursor:pointer;white-space:nowrap}
+.ps-space .ps-clear:hover{color:#b3261e;border-color:#b3261e}
+.chip em{font-style:normal;font-size:10px;font-weight:700;color:#fff;background:var(--accent2);
+  border-radius:4px;padding:1px 4px;margin-right:5px;vertical-align:1px}
+.chip i{font-style:normal;font-size:10px;color:var(--ink3);margin-left:5px}
+.ps-run{background:#f4f7f9;border-left:3px solid var(--accent2);border-radius:8px;padding:10px 12px;
+  font-size:13px;color:var(--ink2);margin-bottom:10px}
+.ps-bar{height:5px;background:#dfe8ef;border-radius:99px;overflow:hidden;margin:9px 0 6px}
+.ps-bar i{display:block;height:100%;background:var(--accent2);border-radius:99px;transition:width .6s ease}
+.ps-err{background:#fdeeee;border-left:3px solid #c0392b;color:#8e2b20;border-radius:8px;
+  padding:10px 12px;font-size:13px;line-height:1.65;margin-bottom:10px}
+.ps-card h3{margin-top:2px}
+.ps-post{border-top:1px dashed var(--line);padding:9px 0 2px;margin-top:6px}
+.ps-post-hd{font-size:11.5px;color:var(--ink3);font-weight:600;letter-spacing:.02em}
+.caps{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 8px}
+.cap{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;padding:3px 8px;border-radius:999px;
+  background:#f4f7f9;color:var(--ink3);border:1px solid var(--line2)}
+.cap i{width:6px;height:6px;border-radius:50%;background:#b7c4cf;display:inline-block}
+.cap.on{background:#eef7f2;color:#1c6b4b;border-color:#cfe7da}
+.cap.on i{background:#2e9e6b}
+.cap.off{opacity:.72}
+.ft-src{margin-top:8px;font-size:12px}
+.plist{margin:4px 0 0;padding-left:18px;font-size:13px;line-height:1.9}
+.plist li a{color:var(--accent2)}
+.hide{display:none!important}
+
+@media(max-width:520px){
+  h1{font-size:20px} .stats{gap:18px} .stat b{font-size:18px}
+  nav.tabs button{padding:12px 11px 10px;font-size:13px}
+  .kv{grid-template-columns:56px 1fr}
+}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="inner">
+    <div class="brand"><span class="dot"></span>AFRICA EYES · 每日更新</div>
+    <h1>Africa Eyes</h1>
+    <div class="sub" id="scope">尼日利亚 · 尼日尔 · 马里 · 加纳 ｜ 政治 · 经济 · 安全 · 能源 · 矿产</div>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <nav class="tabs"><div class="row" id="tabs"></div></nav>
+  <div id="view"></div>
+</div>
+
+<footer id="foot"></footer>
+
+<script src="data.js" onerror="window.__DATA_MISSING__=1"></script>
+<script>
+(function(){
+  var D = window.SITE_DATA || null;
+  var PAGE = 12;
+  /* Static snapshot mode. The library-hosted build inlines the data and has no
+     backend, so the poll loop and the two live-search tabs are switched off
+     instead of firing requests that can only 404. */
+  var STATIC = !!window.__STATIC__;
+
+  /* ── my own search space ────────────────────────────────────────────────
+     "Give everyone who opens this link their own space, so my records are
+     invisible to others." The browser mints a random id once and keeps it in
+     localStorage + a first-party cookie; every API call carries it, and the
+     server stores that visitor's history and caches under it. No account, no
+     password. Clearing site data gives you a brand-new empty space. */
+  var CID = (function(){
+    var k = 'ae_cid', v = '';
+    try { v = localStorage.getItem(k) || ''; } catch(e){}
+    if(!v || !/^[0-9a-f]{16,32}$/.test(v)){
+      var a = new Uint8Array(10);
+      (window.crypto && crypto.getRandomValues) ? crypto.getRandomValues(a)
+        : a.forEach(function(_,i){ a[i] = Math.floor(Math.random()*256); });
+      v = Array.prototype.map.call(a, function(b){ return ('0'+b.toString(16)).slice(-2); }).join('');
+      try { localStorage.setItem(k, v); } catch(e){}
+    }
+    try { document.cookie = k+'='+v+';path=/;max-age=31536000;SameSite=Lax'; } catch(e){}
+    return v;
+  })();
+  function api(u){
+    return u + (u.indexOf('?')>=0 ? '&' : '?') + 'cid=' + CID;
+  }
+  // sort: 'tier' = China → US → government → other grouping (v9 default, the
+  // reader's preferred reading order); 'time' = strict reverse-chronological.
+  // Either way, within each tier (or in 'time' mode globally) items are
+  // ordered newest-first by their own publish time.
+  var state = {view:'overview', cty:'all', topic:'all', tier:'all', q:'', page:1, sort:'tier'};
+  var TOPICS = [['pol','政治'],['eco','经济'],['sec','安全'],['ene','能源'],['min','矿产'],['cor','战略通道']];
+  var CNAMES = {ng:'尼日利亚', ne:'尼日尔', ml:'马里', gh:'加纳', wa:'西非区域', af:'非洲'};
+  var PNAMES = {x:'X', linkedin:'LinkedIn', facebook:'Facebook', instagram:'Instagram', news:'新闻', web:'网页'};
+
+  function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function host(u){try{return new URL(u).hostname.replace(/^www\./,'');}catch(e){return '';}}
+  function badge(t){var nm={pol:'政治',eco:'经济',sec:'安全',ene:'能源',min:'矿产'}[t]||t;
+    return '<span class="badge b-'+t+'">'+nm+'</span>';}
+  function ctys(list){return (list||[]).map(function(c){
+    return '<span class="cty">'+(CNAMES[c]||c)+'</span>';}).join('');}
+  function fmtDate(s){if(!s)return '';var d=new Date(s);if(isNaN(d))return s;
+    return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+
+  if(!D){
+    document.getElementById('view').innerHTML =
+      '<div class="empty">数据文件 <b>data.js</b> 未加载。<br>请确认与 index.html 同目录。</div>';
+    return;
+  }
+
+  // ---------- stats + header + tabs ----------
+  // Rendered by a function rather than inline, because the live refresh re-runs
+  // it: after new data lands, the counts and the "updated N minutes ago" stamp
+  // have to move in step with the list underneath them.
+  function peopleCount(){ return (D.people||[]).length; }
+
+  function freshText(){
+    var g=D.generatedAt?new Date(D.generatedAt):null;
+    if(!g||isNaN(g)) return '数据更新：—';
+    var mins=Math.max(0,Math.round((Date.now()-g.getTime())/60000));
+    var ago = mins<1?'刚刚':ageText(mins)+'前';
+    return '数据更新：'+g.toLocaleString('zh-CN',{hour12:false})+'（'+ago+'）';
+  }
+
+  function chrome(){
+    var st=[['news','新闻条目'],['social','社交动态'],['people','人物'],['sources','信源']];
+    var counts={news:(D.news||[]).length,social:(D.social||[]).length,people:peopleCount(),
+      sources:new Set((D.news||[]).map(function(n){return n.domain;})).size};
+    document.getElementById('stats').innerHTML = st.map(function(x){
+      return '<div class="stat"><b>'+counts[x[0]]+'</b><span>'+x[1]+'</span></div>';}).join('');
+    document.getElementById('scope').innerHTML =
+      '尼日利亚 · 尼日尔 · 马里 · 加纳　｜　政治 · 经济 · 安全 · 能源 · 矿产'
+      + '<br><span class="fresh">'+esc(freshText())+'</span>'
+      + '　·　窗口：'+esc(D.window||'近 5 日')
+      + (STATIC ? '　·　长期托管版，链接固定不变'
+                : '　·　后台定时重建，本页每 60 秒自动检查');
+    var TABS=[['overview','概览'],['news','新闻媒体'],['social','社交动态'],
+              ['people','人员索引'],['search','全网检索'],['profiles','人物检索']];
+    document.getElementById('tabs').innerHTML = TABS.map(function(t){
+      var n = t[0]==='news'?(D.news||[]).length : t[0]==='social'?(D.social||[]).length
+            : t[0]==='people'?peopleCount() : '';
+      return '<button data-v="'+t[0]+'"'+(state.view===t[0]?' class="on"':'')+'>'+t[1]
+        +(n!==''?'<span class="n">'+n+'</span>':'')+'</button>';
+    }).join('');
+    document.getElementById('foot').innerHTML =
+      '<b>Africa Eyes</b>　·　西非四国（尼日利亚、尼日尔、马里、加纳）每日动态监测，移动端优先。'
+      +'数据来源：四国主流媒体、国际通讯社、全球矿业媒体，以及 LinkedIn / X / Facebook / Instagram 公开页面。<br>'
+      +'默认按层级分组阅读（涉华 → 美国 → 四国政府 → 其他），每层内按发布时间倒序；窗口近 5 日。'
+      +(STATIC
+        ? '本页为长期托管的静态快照版，链接不会失效；内容截至下方生成时间，更新由维护者定期重建。'
+        : '后台每 3 小时重建一次，页面每 60 秒自动检查并就地替换内容。')
+      +'<br><b>装到手机</b>：iPhone 用 Safari「分享 → 添加到主屏幕」；Android 用 Chrome「⋮ → 安装应用 / 添加到主屏幕」，'
+      +'图标为眼睛形状，与浏览器访问同一份数据。'
+      +'<br>仅供研判参考；所有条目以原始链接为准。生成时间：<span id="genstamp">'+esc(D.generatedAt||'—')+'</span>'
+      +(STATIC
+        ? '<br><span id="sched">静态快照版：链接长期有效，不会出现「无效地址」。数据更新时间见上一行。</span>'
+        : '<br><span id="sched">自动更新：每天 07:00 首更，此后每 3 小时一次（北京时间），由云端服务器执行，不需要开电脑。</span>');
+  }
+
+  document.getElementById('tabs').addEventListener('click',function(e){
+    var b=e.target.closest('button'); if(!b)return;
+    state.view=b.dataset.v; state.page=1; state.cty='all'; state.topic='all'; state.tier='all'; state.q='';
+    render();
+  });
+
+  // ---------- filtering ----------
+  function match(it){
+    if(state.cty!=='all' && (it.country||[]).indexOf(state.cty)<0) return false;
+    if(state.topic!=='all' && (it.topic||[]).indexOf(state.topic)<0) return false;
+    if(state.tier!=='all' && String(it.tier)!==String(state.tier)) return false;
+    if(state.q){
+      var hay=[it.title,it.title_zh,it.summary,it.summary_zh,it.snippet,it.snippet_zh,it.body,it.body_zh,
+               it.source,it.author,it.handle,it.actor,
+               (it.topic||[]).join(' '),(it.country||[]).join(' ')].join(' ').toLowerCase();
+      if(hay.indexOf(state.q.toLowerCase())<0) return false;
+    }
+    return true;
+  }
+  /* China coverage is intermittent in the West African English press: across a
+     3-day window tier 1 is often empty. The toggle reveals 30-day backfill items,
+     which are labelled with their real date rather than passed off as current. */
+  /* The China tier can legitimately be empty: the West African English press
+     carries China-specific coverage only intermittently, and the window is held
+     strictly at 3 days at refresh time. Rather than pad the tier with older
+     items, the emptiness is stated along with the reason. */
+  function emptyTierNote(t){
+    var pool=(D.news||[]).filter(function(i){return i.tier===t;});
+    if(pool.length) return '';
+    var why={'1':'本批信源在近 '+(D.windowDays||3)+' 日内没有出现涉华报道。西非英语媒体对涉华议题的报道是间歇性的；平台不会用更旧的条目来填充这一层级。',
+             '2':'本批信源在近 '+(D.windowDays||3)+' 日内没有出现美国在该国活动的报道。',
+             '3':'本批信源在近 '+(D.windowDays||3)+' 日内没有检索到四国政府自身发布的动态。'}[t];
+    if(!why) return '';
+    return '<div class="empty" style="padding:20px 12px;text-align:left;line-height:1.7">'
+      +'<b>本层级本期为空。</b><br>'+esc(why)+'</div>';
+  }
+  /* Timestamp of an item, whichever feed it came from. build_data.py emits
+     _dt (news) and _ts (social) as Unix seconds; the string dates are only a
+     fallback for data built before those fields existed. */
+  function stamp(it){
+    if(typeof it._dt==='number') return it._dt;
+    if(typeof it._ts==='number') return it._ts;
+    var d=new Date(it.published||it.postedAt||0);
+    return isNaN(d)?0:d.getTime()/1000;
+  }
+  function ordered(items){
+    var a=items.slice();
+    if(state.sort==='tier'){
+      a.sort(function(x,y){ return (x.tier-y.tier) || (stamp(y)-stamp(x)); });
+    }else{
+      a.sort(function(x,y){ return stamp(y)-stamp(x); });
+    }
+    return a;
+  }
+  function sortBar(){
+    var opts=[['time','按时间（最新在上）'],['tier','按层级分组']];
+    return '<div class="filters"><span class="flabel">排序</span>'
+      +opts.map(function(o){
+        return '<span class="chip'+(state.sort===o[0]?' on':'')+'" data-k="sort" data-v="'
+          +o[0]+'">'+o[1]+'</span>';}).join('')+'</div>';
+  }
+  /* Stable short key for a card, used to hold the reader's place when the live
+     refresh replaces the list under them. Derived from the URL so the same
+     story keeps the same key across rebuilds. */
+  function keyOf(s){
+    var h=0; s=String(s||'');
+    for(var i=0;i<s.length;i++) h=(h*31+s.charCodeAt(i))|0;
+    return 'k'+(h>>>0).toString(36);
+  }
+  function tierBar(items){
+    var c={'1':0,'2':0,'3':0,'4':0};
+    items.forEach(function(i){ if(c[i.tier]!==undefined)c[i.tier]++; });
+    var h='<div class="filters"><span class="chip'+(state.tier==='all'?' on':'')+'" data-k="tier" data-v="all">全部层级<span class="c">'+items.length+'</span></span>';
+    [['1','涉华动态'],['2','美国活动'],['3','四国政府'],['4','其他报道']].forEach(function(t){
+      h+='<span class="chip'+(String(state.tier)===t[0]?' on':'')+'" data-k="tier" data-v="'+t[0]+'">'+t[1]+'<span class="c">'+c[t[0]]+'</span></span>';});
+    return h+'</div>';
+  }
+  /* Renders the list. In time mode it is a plain reverse-chronological feed with
+     the tier carried on each card as a badge; in tier mode a header is
+     re-inserted whenever the priority group changes. */
+  function cardList(items, cardFn){
+    var tot=Math.ceil(items.length/PAGE);
+    if(tot<1)tot=1;
+    if(state.page>tot)state.page=tot;
+    var slice=items.slice((state.page-1)*PAGE,(state.page-1)*PAGE+PAGE);
+    if(!slice.length) return '<div class="empty">当前筛选条件下没有条目。请放宽层级、国家或领域筛选。</div>';
+    var h='',last=null,counts={};
+    items.forEach(function(i){counts[i.tier]=(counts[i.tier]||0)+1;});
+    slice.forEach(function(i){
+      if(state.sort==='tier' && i.tier!==last){
+        h+=tierHead(i.tier,counts[i.tier]||0); last=i.tier; }
+      h+=cardFn(i);
+    });
+    if(tot>1){
+      h+='<div class="pager"><button data-p="'+(state.page-1)+'"'+(state.page<=1?' disabled':'')+'>上一页</button>'
+       +'<span style="font-size:12px;color:var(--ink3)">'+state.page+' / '+tot+'　共 '+items.length+' 条</span>'
+       +'<button data-p="'+(state.page+1)+'"'+(state.page>=tot?' disabled':'')+'>下一页</button></div>';
+    }
+    return h;
+  }
+  function filterBar(items){
+    var cs={}, ts={};
+    items.forEach(function(it){(it.country||[]).forEach(function(c){cs[c]=(cs[c]||0)+1;});
+      (it.topic||[]).forEach(function(t){ts[t]=(ts[t]||0)+1;});});
+    var order=['ng','ne','ml','gh','wa'];
+    var h='<div class="filters"><span class="chip'+(state.cty==='all'?' on':'')+'" data-k="cty" data-v="all">全部国家<span class="c">'+items.length+'</span></span>';
+    order.forEach(function(c){ if(!cs[c])return;
+      h+='<span class="chip'+(state.cty===c?' on':'')+'" data-k="cty" data-v="'+c+'">'+CNAMES[c]+'<span class="c">'+cs[c]+'</span></span>';});
+    h+='</div><div class="filters"><span class="chip'+(state.topic==='all'?' on':'')+'" data-k="topic" data-v="all">全部领域</span>';
+    TOPICS.forEach(function(t){ if(!ts[t[0]])return;
+      h+='<span class="chip'+(state.topic===t[0]?' on':'')+'" data-k="topic" data-v="'+t[0]+'">'+t[1]+'<span class="c">'+ts[t[0]]+'</span></span>';});
+    h+='</div>';
+    h+='<div class="searchrow"><input id="q" type="search" placeholder="搜索关键词、机构、人物…" value="'+esc(state.q)+'"></div>';
+    return h;
+  }
+  function tb(t){ if(!t)return '';
+    var nm={'1':'涉华','2':'美国','3':'四国政府','4':'其他'}[t];
+    return nm?'<span class="tb tb'+t+'">'+nm+'</span>':''; }
+  function tierHead(t,n){
+    var meta=D.tierLabel&&D.tierLabel[t]||'';
+    var ico={'1':'华','2':'美','3':'府','4':'他'}[t]||'·';
+    return '<div class="tier-hd t'+t+'"><span class="ico">'+ico+'</span>'+esc(meta)
+      +'<span class="cnt">'+n+' 条</span></div>'
+      +'<div class="tier-desc">'+esc((D.tierDesc&&D.tierDesc[t])||'')+'</div>';
+  }
+  /* Chinese-primary: show the translation as the headline, keep the English
+     original underneath for verification, and mark anything untranslated. */
+  function head(it,titleField,zhField){
+    var en=it[titleField]||'', zh=it[zhField]||'';
+    var main=zh||en, pend=(!zh&&en)?'<span class="tl-pending">待译</span>':'';
+    var alt=(zh&&en)?'<p class="en-orig">'+esc(en)+'</p>':'';
+    return '<h3><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(main)+'</a>'+pend+'</h3>'+alt;
+  }
+  function body(it,fEn,fZh){
+    var en=it[fEn]||'', zh=it[fZh]||'';
+    var txt=zh||en;
+    return txt?'<p class="sum">'+esc(txt)+'</p>':'';
+  }
+  /* Collapsible full text — present on EVERY card, without exception.
+     The reader asked for a 展开翻译全文 + 打开原文 pair on every news item and
+     every social post, so this never returns ''. When a source refuses body
+     extraction (paywall, bot wall, RSS-only) build_data fills `body` with the
+     fullest text it could obtain and marks bodyLevel='excerpt'; the fold then
+     says so instead of quietly disappearing. */
+  function fulltext(it){
+    var en=it.body||'', zh=it.body_zh||'';
+    if(!en && !zh) return '';
+    var txt=zh||en;
+    var lbl=zh?'展开全文译文'
+      :(en?'展开全文（译文生成中，暂显示原文）':'展开全文译文');
+    var note='';
+    if(it.bodyLevel==='excerpt')
+      note='<div class="ft-note">该来源未开放正文抓取（付费墙或反爬限制），以上为可获得的完整文本；更多内容请打开原文。</div>';
+    else if(it.bodyLevel==='post' && it.platform && it.platform!=='x')
+      note='<div class="ft-note">平台接口仅返回标题与摘要，以上为该帖可获得的全部文字。</div>';
+    return '<details class="ft"><summary>'+lbl+'</summary>'
+      +'<div class="ft-body">'+esc(txt)+'</div>'+note
+      +'<div class="ft-src"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">打开原文链接 →</a></div></details>';
+  }
+  function cardNews(it){
+    return '<div class="card" data-k="'+keyOf(it.url)+'">'+head(it,'title','title_zh')
+      +'<div class="meta">'+tb(it.tier)+(it.actor?'<span class="cty">'+esc(it.actor)+'</span>':'')
+      +(it.topic||[]).map(badge).join('')+ctys(it.country)
+      +'<span>'+(fmtDate(it.published)||'日期未标注')+'</span>'
+      +'<span>距今 '+it.ageDays+' 天</span></div>'
+      +body(it,'summary','summary_zh')
+      +fulltext(it)
+      +'<div class="src"><span class="dom">'+esc(it.source||host(it.url))+'</span>'
+      +'<a href="'+esc(it.url)+'" target="_blank" rel="noopener">打开原文 →</a></div>'
+      +(it.note?'<div class="note grey">'+esc(it.note)+'</div>':'')+'</div>';
+  }
+  function cardSocial(it){
+    var pf='pf-'+({x:'x',linkedin:'li',facebook:'fb',instagram:'ig'}[it.platform]||'x');
+    return '<div class="card" data-k="'+keyOf(it.url)+'">'
+      +'<div class="meta" style="margin-bottom:6px">'
+      +'<span class="pf '+pf+'">'+(PNAMES[it.platform]||it.platform)+'</span>'
+      +(it.grokSummary?'<span class="pf" style="background:#fef0e6;color:#a55a17">Grok 摘要</span>':'')
+      +tb(it.tier)+(it.actor?'<span class="cty">'+esc(it.actor)+'</span>':'')
+      +(it.topic||[]).map(badge).join('')+ctys(it.country)
+      +(it.postedAt?'<span>'+esc(it.postedAt)+'</span>':'')
+      +(typeof it.ageDays==='number'?'<span>距今 '+it.ageDays+' 天</span>':'')+'</div>'
+      +head(it,'title','title_zh')
+      +body(it,'snippet','snippet_zh')
+      +fulltext(it)
+      +(it.author||it.handle?'<div class="meta">发布者：<b style="color:var(--ink2)">'+esc(it.author||it.handle)+'</b>'
+        +(it.handle&&it.author?'　'+esc(it.handle):'')+'</div>':'')
+      +'<div class="src"><span class="dom">'+esc(host(it.url))+'</span>'
+      +'<a href="'+esc(it.url)+'" target="_blank" rel="noopener">查看原帖 →</a></div>'
+      +(it.note?'<div class="note">'+esc(it.note)+'</div>':'')+'</div>';
+  }
+  function cardPerson(p){
+    var links=(p.profiles||[]).map(function(q){
+      if(!q.url)return '';
+      if(q.platform==='news') return '<a class="pf" href="'+esc(q.url)+'" target="_blank" rel="noopener">机构联络页</a>';
+      var pf='pf-'+({x:'x',linkedin:'li',facebook:'fb',instagram:'ig'}[q.platform]||'x');
+      return '<a class="pf '+pf+'" href="'+esc(q.url)+'" target="_blank" rel="noopener">'+(PNAMES[q.platform]||q.platform)+(q.handle?' '+esc(q.handle):'')+'</a>';
+    }).join(' ');
+    var tcls={'媒体机构':'t-news','机构':'t-org','个人':'t-per','未确定':'t-unk'}[p.type]||'t-unk';
+    return '<div class="person"><div class="pn"><div style="min-width:0">'
+      +'<div class="nm">'+esc(p.name)+' <span class="ttype '+tcls+'">'+esc(p.type)+'</span></div>'
+      +(p.role?'<div class="rl">'+esc(p.role)+'</div>':'')
+      +(p.org?'<div class="og">'+esc(p.org)+'</div>':'')+'</div>'
+      +'<div style="flex:0 0 auto">'+ctys(p.country)+'</div></div>'
+      +(p.duty?'<div class="duty"><span class="duty-lb">做什么</span>'+esc(p.duty)+'</div>':'')
+      +'<dl class="kv">'
+      +(p.roleHint?'<dt>职务</dt><dd>'+esc(p.roleHint)+'　<span style="color:var(--ink3)">（原文出现的职务表述）</span></dd>':'')
+      +'<dt>发布情况</dt><dd>'+esc(p.basis||'')+'</dd>'
+      +(p.contact?'<dt>联络渠道</dt><dd>'+esc(p.contact)+'</dd>':'')
+      +(links?'<dt>公开档案</dt><dd>'+links+'</dd>':'')
+      +'<dt>核验状态</dt><dd>'+(p.verified
+        ?'<span class="vok">已核验</span>　'+esc(p.verifiedNote||'')
+        :'<span class="vno">仅线索</span>　'+esc(p.verifiedNote||''))+'</dd>'
+      +'</dl></div>';
+  }
+
+  /* X people profile card: discovery note + Grok-written portrait + dated
+     representative posts. Everything is derived from public posts only. */
+  function cardProfile(p){
+    var posts=(p.posts||[]).map(function(x){
+      return '<li><a href="'+esc(x.url)+'" target="_blank" rel="noopener">'
+        +(x.date?esc(x.date)+' · ':'')+'查看帖文 →</a></li>';
+    }).join('');
+    return '<div class="card">'
+      +'<div class="meta" style="margin-bottom:6px">'
+      +'<span class="pf pf-x">X</span>'
+      +(p.topicLabel?'<span class="cty">'+esc(p.topicLabel)+'</span>':'')
+      +'<span class="pf" style="background:#fef0e6;color:#a55a17">Grok 画像</span></div>'
+      +'<h3><a href="https://x.com/'+esc((p.handle||'').replace(/^@/,''))+'" target="_blank" rel="noopener">'
+      +esc(p.name||p.handle)+'</a></h3>'
+      +(p.name&&p.handle?'<p class="en-orig">'+esc(p.handle)+'</p>':'')
+      +(p.roleGuess?'<div class="meta">角色判断：<b style="color:var(--ink2)">'+esc(p.roleGuess)+'</b></div>':'')
+      +((p.topics||[]).length?'<div class="meta">'+p.topics.map(function(t){
+          return '<span class="badge">'+esc(t)+'</span>';}).join('')+'</div>':'')
+      +(p.discoveryNote?'<p class="sum"><b>发现理由：</b>'+esc(p.discoveryNote)+'</p>':'')
+      +(p.summaryZh?'<details class="ft"><summary>展开画像分析</summary><div class="ft-body">'+esc(p.summaryZh)+'</div></details>':'')
+      +(posts?'<div class="duty" style="margin-top:8px"><span class="duty-lb">代表帖文</span></div><ul class="plist">'+posts+'</ul>':'')
+      +'</div>';
+  }
+
+  /* ── interactive X person lookup ────────────────────────────────────────
+     The reader's correction: the watchlist was only ever an example. What is
+     wanted is a search box — type a name whenever you like and get
+     姓名 / 所属领域 / 发帖概括 / 画像分析, plus every relevant post with a
+     Chinese summary, an unfoldable translation and the original link.
+     The lookup runs server-side (two Grok x_search calls, 60-180s), so the
+     page starts a job and polls it rather than holding one long request open. */
+  var PS={q:'',job:'',state:'idle',err:'',res:null,handle:'',t0:0,timer:null,elapsed:0,recent:null,history:null};
+
+  function psStart(q,handle,fresh){
+    q=(q||'').trim(); if(q.length<2){PS.state='error';PS.err='请输入至少 2 个字符的姓名或关键词';render();return;}
+    if(STATIC){PS.state='error';PS.err='这是长期托管的静态快照版，实时人物检索需要云端服务，暂不可用。';render();return;}
+    clearTimeout(PS.timer);
+    PS.q=q; PS.handle=handle||''; PS.state='running'; PS.err=''; PS.res=null; PS.elapsed=0;
+    PS.t0=Date.now(); render();
+    var url=api('/api/person?q='+encodeURIComponent(q)
+      +(handle?'&handle='+encodeURIComponent(handle):'')+(fresh?'&fresh=1':''));
+    fetch(url,{cache:'no-store'}).then(function(r){
+      if(!r.ok) throw new Error('http '+r.status);
+      return r.json();
+    }).then(function(d){
+      if(d.error){PS.state='error';PS.err=d.error;render();return;}
+      PS.job=d.job; PS.history=null; psPoll();
+    }).catch(function(){
+      PS.state='error';
+      PS.err='检索服务未响应。当前页面若是静态快照，人物检索需要云端服务版（会自动刷新数据的那一版）。';
+      render();
+    });
+  }
+  function psPoll(){
+    if(!PS.job) return;
+    clearTimeout(PS.timer);
+    fetch(api('/api/person/result?job='+encodeURIComponent(PS.job)),{cache:'no-store'})
+      .then(function(r){return r.json();})
+      .then(function(d){
+        if(d.state==='done'){PS.state='done';PS.res=d.result;PS.elapsed=d.elapsed||0;render();return;}
+        if(d.state==='error'||d.state==='unknown'){
+          PS.state='error';PS.err=d.error||'检索失败';render();return;}
+        PS.elapsed=Math.round((Date.now()-PS.t0)/1000);
+        render();
+        PS.timer=setTimeout(psPoll,2500);
+      })
+      .catch(function(){PS.timer=setTimeout(psPoll,4000);});
+  }
+  function psPost(x){
+    var sum=x.summaryZh?'<p class="sum">'+esc(x.summaryZh)+'</p>':'';
+    var body=x.textZh||'';
+    var raw=x.text||'';
+    var folds='';
+    if(body) folds+='<details class="ft"><summary>展开全文译文</summary><div class="ft-body">'+esc(body)+'</div></details>';
+    if(raw)  folds+='<details class="ft"><summary>展开英文原文</summary><div class="ft-body">'+esc(raw)+'</div></details>';
+    if(!body&&!raw) folds+='<div class="ft-note">该帖正文未能取得，请打开原帖查看。</div>';
+    return '<div class="ps-post"><div class="ps-post-hd">'+(x.date?esc(x.date):'日期未标注')+'</div>'
+      +sum+folds
+      +'<div class="ft-src"><a href="'+esc(x.url)+'" target="_blank" rel="noopener">打开原文链接 →</a></div></div>';
+  }
+  function psProfile(p){
+    var posts=(p.posts||[]);
+    var h='<div class="card ps-card">'
+      +'<div class="meta" style="margin-bottom:6px"><span class="pf pf-x">X</span>'
+      +'<span class="cty">Grok 实时检索</span>'
+      +'<span>素材窗口 近 '+(PS.res.lookbackDays||45)+' 日</span></div>'
+      +'<h3><a href="https://x.com/'+esc((p.handle||'').replace(/^@/,''))+'" target="_blank" rel="noopener">'
+      +esc(p.name||p.handle)+'</a></h3>'
+      +(p.handle?'<p class="en-orig">'+esc(p.handle)+(p.org?'　·　'+esc(p.org):'')+'</p>':'')
+      +'<dl class="kv">'
+      +(p.role?'<dt>身份</dt><dd>'+esc(p.role)+'</dd>':'')
+      +(p.domain?'<dt>所属领域</dt><dd>'+esc(p.domain)+'</dd>':'')
+      +((p.topics||[]).length?'<dt>关注议题</dt><dd>'+p.topics.map(function(t){
+          return '<span class="badge">'+esc(t)+'</span>';}).join(' ')+'</dd>':'')
+      +'</dl>'
+      +(p.postSummary?'<div class="duty" style="margin-top:8px"><span class="duty-lb">发帖概括</span>'+esc(p.postSummary)+'</div>':'')
+      +(p.analysis?'<details class="ft" open><summary>画像分析</summary><div class="ft-body">'+esc(p.analysis)+'</div></details>':'')
+      +'<div class="sec-title" style="margin-top:14px">相关帖文（'+posts.length+' 条）</div>'
+      +(posts.length?posts.map(psPost).join('')
+        :'<div class="empty">该账号在素材窗口内没有检索到可核验的帖文。可换用账号全名、英文名，或加长检索窗口后重试。</div>')
+      +'</div>';
+    return h;
+  }
+  function profilesView(){
+    var h='<div class="ps-search">'
+      +'<input id="pq" type="search" placeholder="输入 X 账号或姓名，如 Bulama Bukarti、@bakary_sambe" value="'+esc(PS.q)+'">'
+      +'<button id="pgo">检索</button></div>'
+      +'<div class="ps-hint">按需检索任意人物：返回<b>姓名、所属领域、发帖概括、画像分析</b>，'
+      +'并逐条给出相关帖文的中文摘要、全文译文与原文链接。'
+      +'检索由 Grok 实时读取 X 公开帖文完成，通常需要 60—180 秒；结果缓存 12 小时，重复检索不再计费。</div>';
+
+    h+='<div class="ps-space">你的检索空间 <code>'+CID.slice(0,6)+'</code>'
+      +'<span class="ps-note">记录只写在这个标识下，别人打开同一链接看不到，也不会混进你的结果</span>'
+      +'<span class="ps-clear" id="pclear">清空记录</span></div>';
+    if(PS.history&&PS.history.length){
+      h+='<div class="filters">'+PS.history.slice(0,10).map(function(r){
+        return '<span class="chip" data-pq="'+esc(r.q)+'" data-pk="'+esc(r.kind||'person')+'">'
+          +'<em>'+(r.kind==='query'?'全网':'人物')+'</em>'
+          +esc(r.q)+'<i>'+esc((r.at||'').slice(5))+'</i></span>';}).join('')+'</div>';
+    }
+
+    if(PS.state==='running'){
+      var sec=PS.elapsed||Math.round((Date.now()-PS.t0)/1000);
+      h+='<div class="ps-run"><b>正在检索「'+esc(PS.q)+'」</b>　已用 '+sec+' 秒'
+        +'<div class="ps-bar"><i style="width:'+Math.min(96,8+sec*0.6)+'%"></i></div>'
+        +'<div class="ps-hint">第一步识别账号，第二步读取其近期帖文并生成画像与译文。请稍候，不要关闭页面。</div></div>';
+    }
+    if(PS.state==='error'){
+      h+='<div class="ps-err">'+esc(PS.err)+'</div>'
+        +'<div class="filters"><span class="chip" id="pretry">重新检索</span></div>';
+    }
+    if(PS.state==='done'&&PS.res){
+      var r=PS.res, cands=r.candidates||[];
+      if(cands.length>1){
+        h+='<div class="filters">'+cands.map(function(c){
+          var on=(r.profile&&r.profile.handle||'').toLowerCase()===c.handle.toLowerCase();
+          return '<span class="chip'+(on?' on':'')+'" data-ph="'+esc(c.handle)+'">'
+            +esc(c.name||c.handle)+'<span class="c">'+esc(c.handle)+'</span></span>';}).join('')+'</div>';
+      }
+      if(r.profile) h+=psProfile(r.profile);
+      else h+='<div class="empty">'+esc(r.note||'未找到匹配账号。')+'</div>';
+      h+='<div class="filters"><span class="chip" id="prefresh">重新检索（刷新缓存）</span></div>';
+    }
+    if(PS.state==='idle'){
+      h+='<div class="note grey">检索示例：某国安全事务记者、某研究机构负责人、某武装团体发言人。'
+        +'输入英文名或 @账号命中率最高。人物画像基于公开帖文推断，仅供参考；'
+        +'私人联系方式不采集、不展示。</div>';
+    }
+    // daily watchlist portraits stay available underneath, collapsed
+    var profs=D.profiles||[];
+    if(profs.length){
+      h+='<details class="ft" style="margin-top:18px"><summary>本期固定观察主题的画像（每日更新，'+profs.length+' 个账号）</summary>'
+        +'<div class="ft-body">'+profs.map(function(p){
+          return '<div style="margin:10px 0;padding:10px 0;border-bottom:1px dashed var(--line2)">'
+            +'<b>'+esc(p.name||p.handle)+'</b>　<span style="color:var(--ink3)">'+esc(p.handle||'')+'</span><br>'
+            +'<span style="color:var(--ink3)">'+esc(p.topicLabel||'')+'</span>'
+            +(p.summaryZh?'<div style="margin-top:6px">'+esc(p.summaryZh.slice(0,300))+'</div>':'')
+            +'</div>';}).join('')+'</div></details>';
+    }
+    return h;
+  }
+  function wireProfiles(V){
+    var inp=V.querySelector('#pq'), go=V.querySelector('#pgo');
+    function submit(){ if(inp) psStart(inp.value,'',false); }
+    if(go) go.addEventListener('click',submit);
+    if(inp) inp.addEventListener('keydown',function(e){if(e.key==='Enter'){e.preventDefault();submit();}});
+    V.querySelectorAll('[data-pq]').forEach(function(c){
+      c.addEventListener('click',function(){
+        // A history chip replays the search it came from: a multi-source query
+        // goes back to the 全网检索 tab, a person lookup stays here.
+        if(c.dataset.pk==='query'){
+          state.view='search'; render(); qStart(c.dataset.pq);
+        } else {
+          psStart(c.dataset.pq,'',false);
+        }
+      });});
+    V.querySelectorAll('[data-ph]').forEach(function(c){
+      c.addEventListener('click',function(){psStart(PS.q,c.dataset.ph,false);});});
+    var rt=V.querySelector('#pretry'); if(rt) rt.addEventListener('click',function(){psStart(PS.q,PS.handle,false);});
+    var rf=V.querySelector('#prefresh'); if(rf) rf.addEventListener('click',function(){psStart(PS.q,PS.handle,true);});
+    var cl=V.querySelector('#pclear');
+    if(cl) cl.addEventListener('click',function(){
+      fetch(api('/api/history?clear=1'),{cache:'no-store'})
+        .then(function(r){return r.json();})
+        .then(function(){PS.history=[];PS.recent=null;render();})
+        .catch(function(){});
+    });
+    if(PS.history===null){
+      fetch(api('/api/history'),{cache:'no-store'}).then(function(r){return r.json();})
+        .then(function(d){PS.history=d.history||[];render();}).catch(function(){PS.history=[];});
+    }
+  }
+
+  /* ── unified multi-source search ────────────────────────────────────────
+     Every provider the project holds credentials for — xAI (X 实时讨论),
+     Tavily (新闻), GDELT (事件库，免密钥), Bright Data (LinkedIn) — is called
+     from the server in parallel and returned grouped by source. The capability
+     row above the box is live, so it is obvious which ones are configured. */
+  var QS={q:'',job:'',state:'idle',err:'',res:null,t0:0,timer:null,elapsed:0,caps:null};
+
+  function capsRow(){
+    if(!QS.caps) return '<div class="ps-hint">正在读取数据源状态…</div>';
+    return '<div class="caps">'+QS.caps.map(function(c){
+      return '<span class="cap '+(c.ok?'on':'off')+'" title="'+esc(c.detail+(c.note?'；'+c.note:''))+'">'
+        +'<i></i>'+esc(c.name)+'</span>';}).join('')+'</div>';
+  }
+  function qStart(q){
+    q=(q||'').trim();
+    if(q.length<2){QS.state='error';QS.err='请输入至少 2 个字符的检索词';render();return;}
+    if(STATIC){QS.state='error';QS.err='这是长期托管的静态快照版，全网实时检索需要云端服务，暂不可用。';render();return;}
+    clearTimeout(QS.timer);
+    QS.q=q; QS.state='running'; QS.err=''; QS.res=null; QS.elapsed=0; QS.t0=Date.now(); render();
+    fetch(api('/api/query?q='+encodeURIComponent(q)),{cache:'no-store'}).then(function(r){
+      if(!r.ok) throw new Error('http '+r.status);
+      return r.json();
+    }).then(function(d){
+      if(d.error){QS.state='error';QS.err=d.error;render();return;}
+      QS.job=d.job; PS.history=null; qPoll();
+    }).catch(function(){
+      QS.state='error';
+      QS.err='检索服务未响应。当前页面若是静态快照，多源检索需要云端服务版。';
+      render();
+    });
+  }
+  function qPoll(){
+    if(!QS.job) return;
+    clearTimeout(QS.timer);
+    fetch(api('/api/query/result?job='+encodeURIComponent(QS.job)),{cache:'no-store'})
+      .then(function(r){return r.json();})
+      .then(function(d){
+        if(d.state==='done'){QS.state='done';QS.res=d.result;QS.elapsed=d.elapsed||0;render();return;}
+        if(d.state==='error'||d.state==='unknown'){
+          QS.state='error';QS.err=d.error||'检索失败';render();return;}
+        QS.elapsed=Math.round((Date.now()-QS.t0)/1000); render();
+        QS.timer=setTimeout(qPoll,2500);
+      })
+      .catch(function(){QS.timer=setTimeout(qPoll,4000);});
+  }
+  function qItem(it){
+    var body=it.textZh||it.text||'';
+    var sum=it.summaryZh?'<p class="sum">'+esc(it.summaryZh)+'</p>':'';
+    var folds='';
+    if(it.textZh) folds+='<details class="ft"><summary>展开全文译文</summary><div class="ft-body">'+esc(it.textZh)+'</div></details>';
+    if(it.text)   folds+='<details class="ft"><summary>展开原文</summary><div class="ft-body">'+esc(it.text)+'</div></details>';
+    return '<div class="ps-post"><div class="ps-post-hd">'
+      +(it.date?esc(it.date):(it.published?esc(it.published):''))
+      +(it.author?'　'+esc(it.author):'')+(it.handle?'　'+esc(it.handle):'')
+      +(it.source?'　·　'+esc(it.source):'')+'</div>'
+      +sum+folds
+      +'<div class="ft-src"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">打开原文链接 →</a></div></div>';
+  }
+  function queryView(){
+    var h='<div class="ps-search">'
+      +'<input id="qq" type="search" placeholder="检索任意主题，如 Nigeria lithium、Niger uranium、Sahel security" value="'+esc(QS.q)+'">'
+      +'<button id="qgo">检索</button></div>'
+      +capsRow()
+      +'<div class="ps-hint">一次检索同时调用所有已配置的数据源：Tavily 新闻、GDELT 事件库、'
+      +'xAI 实时读取 X 帖文（含中文译文）、Bright Data 的 LinkedIn 数据。'
+      +'任一来源失败不影响其他来源，失败原因会在结果末尾列出。</div>';
+    if(QS.state==='running'){
+      var sec=QS.elapsed||Math.round((Date.now()-QS.t0)/1000);
+      h+='<div class="ps-run"><b>正在检索「'+esc(QS.q)+'」</b>　已用 '+sec+' 秒'
+        +'<div class="ps-bar"><i style="width:'+Math.min(95,10+sec*1.2)+'%"></i></div>'
+        +'<div class="ps-hint">新闻与事件库通常数秒返回，X 实时检索需要 30—90 秒。</div></div>';
+    }
+    if(QS.state==='error'){
+      h+='<div class="ps-err">'+esc(QS.err)+'</div><div class="filters"><span class="chip" id="qretry">重新检索</span></div>';
+    }
+    if(QS.state==='done'&&QS.res){
+      var r=QS.res;
+      if(!(r.groups||[]).length) h+='<div class="empty">各数据源均未返回结果。可换用更短的关键词或英文名称。</div>';
+      (r.groups||[]).forEach(function(g){
+        h+='<div class="sec-title">'+esc(g.label)+'（'+g.items.length+' 条）'
+          +'<span style="font-weight:400;color:var(--ink3);font-size:11.5px">　来源：'+esc((g.providers||[]).join(' / '))+'</span></div>';
+        if(g.id==='news'){
+          h+=g.items.map(function(it){
+            return '<div class="card"><h3><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(it.title||it.url)+'</a></h3>'
+              +(it.snippet?'<p class="sum">'+esc(it.snippet)+'</p>':'')
+              +'<div class="meta"><span>'+esc(it.published||'日期未标注')+'</span>'
+              +'<span class="dom">'+esc(it.source||host(it.url))+'</span></div></div>';}).join('');
+        } else {
+          h+=g.items.map(qItem).join('');
+        }
+      });
+      if((r.errors||[]).length){
+        h+='<div class="note grey" style="margin-top:10px"><b>部分来源未返回：</b><br>'
+          +r.errors.map(function(e){return esc(e.provider)+'：'+esc(e.error);}).join('<br>')+'</div>';
+      }
+      h+='<div class="ps-hint" style="margin-top:8px">本次检索用时 '+esc(String(r.elapsed||0))+' 秒，结果缓存 15 分钟。</div>';
+    }
+    if(QS.state==='idle'){
+      h+='<div class="note grey">这个入口把项目已接入的外部能力都放在同一处：'
+        +'xAI（Grok 读取 X）、Tavily（新闻检索）、GDELT（全球事件库）、Bright Data（LinkedIn）。'
+        +'灰色标记的来源表示当前未配置或额度受限，详情见鼠标悬停提示。</div>';
+    }
+    return h;
+  }
+  function wireQuery(V){
+    var inp=V.querySelector('#qq'), go=V.querySelector('#qgo');
+    function submit(){ if(inp) qStart(inp.value); }
+    if(go) go.addEventListener('click',submit);
+    if(inp) inp.addEventListener('keydown',function(e){if(e.key==='Enter'){e.preventDefault();submit();}});
+    var rt=V.querySelector('#qretry'); if(rt) rt.addEventListener('click',function(){qStart(QS.q);});
+    if(QS.caps===null){
+      fetch('/api/capabilities',{cache:'no-store'}).then(function(r){return r.json();})
+        .then(function(d){QS.caps=d.providers||[];render();}).catch(function(){QS.caps=[];});
+    }
+  }
+
+  function tlStat(){
+    var t=D.translation||{};
+    if(!t.pending && t.newsTitles===(t.newsTotal||0)) return '';
+    return '<div class="tl-stat">译文进度：媒体标题 '+(t.newsTitles||0)+'/'+(t.newsTotal||0)
+      +'　社交标题 '+(t.socialTitles||0)+'/'+(t.socialTotal||0)
+      +'　待译字串 '+(t.pending||0)+'　<span style="color:var(--ink3)">（标「待译」的条目暂显示英文原文，下一轮更新补齐）</span></div>';
+  }
+
+  function render(){
+    [].forEach.call(document.querySelectorAll('#tabs button'),function(b){
+      b.classList.toggle('on', b.dataset.v===state.view);});
+    var V=document.getElementById('view'), h='';
+    if(state.view==='overview'){
+      h+='<div class="callout"><h4>本期要点（按涉华 → 美国 → 四国政府排序）</h4><ul>'
+        +((D.highlights||[]).map(function(x){return '<li>'+esc(x)+'</li>';}).join('')
+          ||'<li>本期要点待生成。</li>')+'</ul></div>'
+        + tlStat();
+      h+='<div class="sec-title">新闻媒体报道 · 最新 6 条（默认按层级分组）</div>';
+      h+=ordered(D.news||[]).slice(0,6).map(cardNews).join('')
+        ||'<div class="empty">本期没有符合窗口条件的新闻条目。</div>';
+      h+='<div class="sec-title">社交平台动态 · 最新 4 条（严格 5 日内）</div>';
+      h+=ordered(D.social||[]).slice(0,4).map(cardSocial).join('');
+      h+='<div class="sec-title">发布者人员索引 · 摘要</div>';
+      h+=(D.people||[]).slice(0,5).map(cardPerson).join('');
+      h+='<div class="note grey" style="margin-top:12px">完整清单请切换上方标签页。'
+        +'默认按层级分组阅读：涉华 → 美国 → 四国政府 → 其他；每层内按发布时间倒序排列。'
+        +'可在「排序」处切回纯时间流视图。'
+        +'所有列表均已去除重复条目。</div>';
+      V.innerHTML=h; return;
+    }
+    if(state.view==='news'){
+      var items=(D.news||[]).filter(match);
+      var pool=D.news||[];
+      V.innerHTML = tierBar(pool) + sortBar() + filterBar(pool)
+        + '<div class="sec-title">新闻媒体报道（媒体与通讯社公开报道）</div>'
+        + (state.tier!=='all'
+            ? emptyTierNote(state.tier)
+            : ((D.news||[]).length
+               ? '<div class="note grey">默认按层级分组：涉华 → 美国 → 四国政府 → 其他；'
+                 +'每层内按发布时间倒序排列。可在「排序」处切回纯时间流视图。</div>'
+               : emptyTierNote(1)+emptyTierNote(2)))
+        + cardList(ordered(items),cardNews);
+    } else if(state.view==='social'){
+      var s=(D.social||[]).filter(match);
+      V.innerHTML = tierBar(D.social||[]) + sortBar() + filterBar(D.social||[])
+        + '<div class="sec-title">社交平台公开动态</div>'
+        + tlStat() + cardList(ordered(s),cardSocial)
+        + '<div class="note">平台可得性：X 可获取帖文正文；LinkedIn / Facebook / Instagram 上游仅返回标题与摘要（约 140 字符），无法取得正文，请点击原帖查看完整内容。</div>';
+    } else if(state.view==='people'){
+      var all=D.people||[];
+      var ppl=all.filter(function(p){
+        if(state.cty!=='all' && (p.country||[]).indexOf(state.cty)<0) return false;
+        if(state.q){
+          var hay=[p.name,p.role,p.org,p.basis,p.contact,p.roleHint,(p.profiles||[]).map(function(q){return q.handle;}).join(' ')].join(' ').toLowerCase();
+          if(hay.indexOf(state.q.toLowerCase())<0) return false;}
+        return true;});
+      var hh='<div class="filters"><span class="chip'+(state.cty==='all'?' on':'')+'" data-k="cty" data-v="all">全部国家<span class="c">'+all.length+'</span></span>';
+      ['ng','ne','ml','gh'].forEach(function(c){
+        var n=all.filter(function(p){return (p.country||[]).indexOf(c)>=0;}).length;
+        if(!n)return;
+        hh+='<span class="chip'+(state.cty===c?' on':'')+'" data-k="cty" data-v="'+c+'">'+CNAMES[c]+'<span class="c">'+n+'</span></span>';});
+      hh+='</div><div class="searchrow"><input id="q" type="search" placeholder="搜索姓名、机构、职务…" value="'+esc(state.q)+'"></div>';
+      var gt={媒体机构:'媒体机构 · 报道发布方',机构:'机构与组织账号',个人:'个人账号',未确定:'主体性质待核验'};
+      var body='';
+      ['媒体机构','机构','个人','未确定'].forEach(function(t){
+        var sub=ppl.filter(function(p){return p.type===t;});
+        if(!sub.length)return;
+        body+='<div class="grp">'+gt[t]+'（'+sub.length+'）</div>'+sub.map(cardPerson).join('');
+      });
+      V.innerHTML = hh + '<div class="sec-title">公开信息发布者索引</div>'
+        + (body || '<div class="empty">没有匹配的人员或机构条目。</div>')
+        + '<div class="note grey">收录口径：只收录在公开渠道以职务或公开账号身份发布相关信息的个人与机构，字段限于姓名／账号、职务或身份、所属机构、公开档案链接与机构对外联络页。'
+        + '个人私人联系方式（手机号、私人邮箱、住址）不采集、不展示、不推断；需要联系时请经由其所属机构公开的对外联络渠道。'
+        + '「机构／个人」由账号名称特征规则区分，少数条目可能归错，请以公开档案页为准。</div>';
+    } else if(state.view==='profiles'){
+      V.innerHTML=profilesView();
+      wireProfiles(V);
+    } else if(state.view==='search'){
+      V.innerHTML=queryView();
+      wireQuery(V);
+    }
+    // chips + search wiring
+    V.querySelectorAll('.chip').forEach(function(c){
+      if(!c.dataset.k) return;      // action chips (retry / recent query) wire themselves
+      c.addEventListener('click',function(){
+        state[c.dataset.k]=c.dataset.v; state.page=1; render();});});
+    var qi=V.querySelector('#q');
+    if(qi){var t;qi.addEventListener('input',function(){clearTimeout(t);
+      t=setTimeout(function(){state.q=qi.value;state.page=1;
+        var v=document.getElementById('view');render();
+        var n=document.getElementById('q');if(n){n.focus();n.setSelectionRange(n.value.length,n.value.length);}},320);});}
+    V.querySelectorAll('.pager button').forEach(function(b){
+      b.addEventListener('click',function(){if(b.disabled)return;state.page=+b.dataset.p;render();
+        window.scrollTo({top:0,behavior:'smooth'});});});
+  }
+
+  chrome();
+  render();
+
+  // ── live refresh ──────────────────────────────────────────────────────────
+  // Re-read data.js on a short timer so a rebuild reaches the phone by itself.
+  // This is a plain file fetch — it costs no API credits.
+  //
+  // The earlier version called location.reload(), which threw away the reader's
+  // scroll position and any open filter every time new data landed — so on a
+  // page that refreshes often it felt like the site was fighting them. This one
+  // swaps the data in place and puts the reader back on the card they were
+  // looking at.
+  var LIVE_MS=60*1000;
+  var lastGen=D.generatedAt||'';
+
+  function parseData(t){
+    var i=t.indexOf('{'), j=t.lastIndexOf('}');
+    if(i<0||j<=i) return null;
+    try{ return JSON.parse(t.slice(i,j+1)); }catch(e){ return null; }
+  }
+  // The topmost card still substantially on screen — the reader's place.
+  function anchorKey(){
+    var cards=document.querySelectorAll('#view .card');
+    for(var i=0;i<cards.length;i++){
+      if(cards[i].getBoundingClientRect().bottom>72)
+        return cards[i].getAttribute('data-k');
+    }
+    return '';
+  }
+  function restoreAnchor(k){
+    if(!k) return;
+    var el=document.querySelector('#view .card[data-k="'+k+'"]');
+    if(!el) return;
+    window.scrollTo(0,Math.max(0,el.getBoundingClientRect().top+window.pageYOffset-72));
+  }
+  function refreshFresh(){
+    var el=document.querySelector('.fresh');
+    if(el) el.textContent=freshText();
+  }
+
+  /* Cheap check first: /version returns a few dozen bytes, so a minute-by-minute
+     poll costs almost nothing even on mobile data. Only when the build stamp
+     actually moves does the full data.js get pulled — it carries every article
+     body and is a few hundred KB. Falls back to the old whole-file poll when
+     /version is unavailable (e.g. a plain static host). */
+  /* "3 分钟" / "2 小时 10 分" / "1 天 4 小时" — a raw minute count reads badly
+     once the sandbox has been asleep overnight. */
+  function ageText(m){
+    m=Math.max(0,Math.round(m||0));
+    if(m<60) return m+' 分钟';
+    if(m<1440){
+      var h=Math.floor(m/60), r=m%60;
+      return h+' 小时'+(r?' '+r+' 分':'');
+    }
+    var d=Math.floor(m/1440), hh=Math.floor((m%1440)/60);
+    return d+' 天'+(hh?' '+hh+' 小时':'');
+  }
+
+  function poll(){
+    if(STATIC||document.hidden) return;
+    fetch('version?_='+Date.now(),{cache:'no-store'})
+      .then(function(r){
+        if(!r.ok) throw new Error('no version endpoint');
+        return r.json();
+      })
+      .then(function(v){
+        if(v && v.nextRefresh){
+          var s=document.getElementById('sched');
+          if(s) s.textContent='自动更新：每天 07:00 首更，此后每 3 小时一次（北京时间）。'
+            +'下次 '+v.nextRefresh+'　·　当前数据 '+ageText(v.ageMinutes)+'前生成'
+            +(v.lastRefresh?'　·　上次重建 '+v.lastRefresh:'')
+            +(v.running?'　·　正在补抓最新一期（约 3 分钟）':'')
+            +'　·　云端服务器执行，不需要开电脑。';
+        }
+        if(v && v.generatedAt){
+          if(v.generatedAt===lastGen){ refreshFresh(); return; }
+          pullFull();
+          return;
+        }
+        pullFull();
+      })
+      .catch(function(){ pullFull(); });
+  }
+  function pullFull(){
+    fetch('data.js?_='+Date.now(),{cache:'no-store'})
+      .then(function(r){return r.text();})
+      .then(function(t){
+        var m=t.match(/"generatedAt":\s*"([^"]+)"/);
+        if(!m) return;
+        if(m[1]===lastGen){ refreshFresh(); return; }   // same build: just re-age the stamp
+        var nd=parseData(t);
+        if(!nd) return;
+        var wasTop=window.pageYOffset<80, key=anchorKey();
+        D=nd; lastGen=m[1];
+        chrome(); render();
+        if(!wasTop) restoreAnchor(key);
+      }).catch(function(){});
+  }
+
+  setInterval(poll, LIVE_MS);
+  // Coming back to a backgrounded tab should show current data immediately
+  // rather than after the next tick.
+  document.addEventListener('visibilitychange',function(){ if(!document.hidden) poll(); });
+  poll();
+})();
+</script>
+</body>
+</html>

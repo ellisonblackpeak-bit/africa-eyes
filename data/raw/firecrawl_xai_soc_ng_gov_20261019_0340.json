@@ -1,0 +1,115 @@
+{
+ "query": "Nigeria Federal Government ministry announcement policy",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/thenationpost_/status/2111760496487481496",
+     "title": "Federal universities in Nigeria are set to have greater freedom to recruit staff following the Federal Government’s decision to remove the r",
+     "description": "Federal universities in Nigeria are set to have greater freedom to recruit staff following the Federal Government’s decision to remove the requirement for recruitment waivers, President Bola Tinubu has said.\n\nTinubu disclosed the policy change on Saturday through Sunny Echono, Executive Secretary of the Tertiary Education Trust Fund (TETFund), who represented him at the maiden convocation ceremony of the Federal University of Health Sciences, Azare, in Bauchi State.\n\nAccording to the President, the reform is intended to strengthen institutional autonomy and enable universities to recruit academic and non-academic staff according to their manpower needs without seeking approval from the Office of the Head of the Civil Service of the Federation.\n\nHe also said the government was working towards a payroll system better suited to the needs of universities, with the aim of helping them attract and retain qualified personnel.\n\nTinubu’s address also highlighted education funding and research. He disclosed that 1,798 FUHSA students benefited from the Nigerian Education Loan Fund during the 2025/2026 academic session, representing 43 per cent of the university’s student population.\n\nHe further announced that the Federal Government had provided ₦10 billion for the National Research Fund in 2026 through TETFund, urging universities, particularly those specialising in health sciences, to pursue research that addresses Nigeria’s health challenges.\n\nThe President also pledged continued attention to staff welfare, professional development and campus security, including through the Safe School Initiative.\n\nAt the ceremony, FUHSA Vice-Chancellor, Professor Bala Mohammed Audu, said the university had established 22 academic programmes in fewer than five years. Of the 13 programmes that had reached the accreditation stage, 11 received full accreditation while two received interim accreditation.\n\nAudu also announced that the university had graduated 50 pioneer students from its Human Nutrition and Dietetics department, including three first-class graduates. He said the students developed more than 34 value-added nutritional products during their training, some with commercial potential.\n\nThe vice-chancellor called for a review of the decision to extend the nutrition programme from four years to five under the Core Curriculum Minimum Academic Standards.",
+     "snippet": "Federal universities in Nigeria are set to have greater freedom to recruit staff following the Federal Government’s decision to remove the requirement for recruitment waivers, President Bola Tinubu has said.\n\nTinubu disclosed the policy change on Saturday through Sunny Echono, Executive Secretary of the Tertiary Education Trust Fund (TETFund), who represented him at the maiden convocation ceremony of the Federal University of Health Sciences, Azare, in Bauchi State.\n\nAccording to the President, the reform is intended to strengthen institutional autonomy and enable universities to recruit academic and non-academic staff according to their manpower needs without seeking approval from the Office of the Head of the Civil Service of the Federation.\n\nHe also said the government was working towards a payroll system better suited to the needs of universities, with the aim of helping them attract and retain qualified personnel.\n\nTinubu’s address also highlighted education funding and research. He disclosed that 1,798 FUHSA students benefited from the Nigerian Education Loan Fund during the 2025/2026 academic session, representing 43 per cent of the university’s student population.\n\nHe further announced that the Federal Government had provided ₦10 billion for the National Research Fund in 2026 through TETFund, urging universities, particularly those specialising in health sciences, to pursue research that addresses Nigeria’s health challenges.\n\nThe President also pledged continued attention to staff welfare, professional development and campus security, including through the Safe School Initiative.\n\nAt the ceremony, FUHSA Vice-Chancellor, Professor Bala Mohammed Audu, said the university had established 22 academic programmes in fewer than five years. Of the 13 programmes that had reached the accreditation stage, 11 received full accreditation while two received interim accreditation.\n\nAudu also announced that the university had graduated 50 pioneer students from its Human Nutrition and Dietetics department, including three first-class graduates. He said the students developed more than 34 value-added nutritional products during their training, some with commercial potential.\n\nThe vice-chancellor called for a review of the decision to extend the nutrition programme from four years to five under the Core Curriculum Minimum Academic Standards.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Nation Post",
+     "handle": "@thenationpost_"
+    },
+    {
+     "url": "https://x.com/DailyCircularNg/status/2111590765327765976",
+     "title": "President Bola Tinubu @officialABAT has exempted federal universities from obtaining recruitment waivers from the Office of the Head of the",
+     "description": "President Bola Tinubu @officialABAT has exempted federal universities from obtaining recruitment waivers from the Office of the Head of the Civil Service of the Federation (OHCSF), giving university governing councils greater control over staff hiring. \n\nHe also announced plans to move tertiary institutions from Integrated Personnel and Payroll Information System (IPPIS) to Government Integrated Financial Management Information System (GIFMIS) and confirmed ₦10 billion for the National Research Fund in 2026.\n\nRead more:",
+     "snippet": "President Bola Tinubu @officialABAT has exempted federal universities from obtaining recruitment waivers from the Office of the Head of the Civil Service of the Federation (OHCSF), giving university governing councils greater control over staff hiring. \n\nHe also announced plans to move tertiary institutions from Integrated Personnel and Payroll Information System (IPPIS) to Government Integrated Financial Management Information System (GIFMIS) and confirmed ₦10 billion for the National Research Fund in 2026.\n\nRead more:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Daily Circular",
+     "handle": "@DailyCircularNg"
+    },
+    {
+     "url": "https://x.com/TheNGCorridor/status/2111850087328411944",
+     "title": "For context.. -this policy simply means the federal government is cutting out the middleman so public universities can hire staff much faste",
+     "description": "For context..\n-this policy simply means the federal government is cutting out the middleman so public universities can hire staff much faster.\n\nBEFORE NOW, if a federal university needed to hire a lecturer or replace someone who retired, they had to apply and wait for approval from the Office of the Head of the Civil Service in Abuja. \n\nthat clearance process, known as a waiver\n...it could take months or even years, leaving many departments severely short-staffed!\n\nUnder the new arrangement...Vice-Chancellors and University Governing Councils can advertise and recruit staff directly through the Ministry of Education. \n\nAnd while this speeds up hiring and restores local control to schools, the main worry now is whether university boards will maintain strict merit or open the door to nepotism without central civil service oversight!\n\n@TheNGCorridor",
+     "snippet": "For context..\n-this policy simply means the federal government is cutting out the middleman so public universities can hire staff much faster.\n\nBEFORE NOW, if a federal university needed to hire a lecturer or replace someone who retired, they had to apply and wait for approval from the Office of the Head of the Civil Service in Abuja. \n\nthat clearance process, known as a waiver\n...it could take months or even years, leaving many departments severely short-staffed!\n\nUnder the new arrangement...Vice-Chancellors and University Governing Councils can advertise and recruit staff directly through the Ministry of Education. \n\nAnd while this speeds up hiring and restores local control to schools, the main worry now is whether university boards will maintain strict merit or open the door to nepotism without central civil service oversight!\n\n@TheNGCorridor",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Nigerian Corridor",
+     "handle": "@TheNGCorridor"
+    },
+    {
+     "url": "https://x.com/GuardianNigeria/status/2111131938329108721",
+     "title": "BREAKING: The Federal Government has approved ₦40.76 billion for the third quarter of 2026 under the Basic Health Care Provision Fund (BHCPF",
+     "description": "BREAKING: The Federal Government has approved ₦40.76 billion for the third quarter of 2026 under the Basic Health Care Provision Fund (BHCPF), while extending health insurance coverage to about 90,000 inmates in correctional facilities nationwide.\nhttps://guardian.ng/breakingnews/fg-approves-%e2%82%a640-76bn-health-fund-extends-insurance-to-90000-inmates/?utm_source=news-flash&utm_medium=web",
+     "snippet": "BREAKING: The Federal Government has approved ₦40.76 billion for the third quarter of 2026 under the Basic Health Care Provision Fund (BHCPF), while extending health insurance coverage to about 90,000 inmates in correctional facilities nationwide.\nhttps://guardian.ng/breakingnews/fg-approves-%e2%82%a640-76bn-health-fund-extends-insurance-to-90000-inmates/?utm_source=news-flash&utm_medium=web",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Guardian Nigeria",
+     "handle": "@GuardianNigeria"
+    },
+    {
+     "url": "https://x.com/starnewsngr/status/2111160969527173375",
+     "title": "The Federal Government has approved ₦40.76 billion for the third-quarter 2026 disbursement under the Basic Health Care Provision Fund (BHCPF",
+     "description": "The Federal Government has approved ₦40.76 billion for the third-quarter 2026 disbursement under the Basic Health Care Provision Fund (BHCPF), while extending health insurance coverage to approximately 90,000 inmates in correctional facilities nationwide.\n\nThe decisions were announced by the Coordinating Minister of Health and Social Welfare, Professor Muhammad Ali Pate, following the 16th meeting of the BHCPF Ministerial Oversight Committee in Abuja.\n\nAccording to the Federal Ministry of...\n\nRead more 👇 \nhttps://t.co/xQf15DHCGf\n\nBy Starnews NG, October 16, 2026\n\nJoin Our Whatsapp Channel",
+     "snippet": "The Federal Government has approved ₦40.76 billion for the third-quarter 2026 disbursement under the Basic Health Care Provision Fund (BHCPF), while extending health insurance coverage to approximately 90,000 inmates in correctional facilities nationwide.\n\nThe decisions were announced by the Coordinating Minister of Health and Social Welfare, Professor Muhammad Ali Pate, following the 16th meeting of the BHCPF Ministerial Oversight Committee in Abuja.\n\nAccording to the Federal Ministry of...\n\nRead more 👇 \nhttps://t.co/xQf15DHCGf\n\nBy Starnews NG, October 16, 2026\n\nJoin Our Whatsapp Channel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Starnews Nigeria",
+     "handle": "@starnewsngr"
+    },
+    {
+     "url": "https://x.com/NGProjectLedger/status/2111196417650004220",
+     "title": "NIGERIA | SOCIAL HOUSING 🇳🇬 Imagine 100 affordable homes in every local government area in Nigeria!",
+     "description": "NIGERIA | SOCIAL HOUSING\n🇳🇬 Imagine 100 affordable homes in every local government area in Nigeria!\n\nThe Federal Government has announced a plan targeting 77,400 social housing units across the country's 774 LGAs.\nBeyond shelter, housing construction could stimulate local demand for cement, roofing materials, transportation and skilled labour.\nHowever, this remains a proposed target, not 77,400 homes under construction.\n\nThe next milestone is identifying funded locations, contractors and actual construction schedules.\n#NGProjectLedger",
+     "snippet": "NIGERIA | SOCIAL HOUSING\n🇳🇬 Imagine 100 affordable homes in every local government area in Nigeria!\n\nThe Federal Government has announced a plan targeting 77,400 social housing units across the country's 774 LGAs.\nBeyond shelter, housing construction could stimulate local demand for cement, roofing materials, transportation and skilled labour.\nHowever, this remains a proposed target, not 77,400 homes under construction.\n\nThe next milestone is identifying funded locations, contractors and actual construction schedules.\n#NGProjectLedger",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Project Ledger",
+     "handle": "@NGProjectLedger"
+    },
+    {
+     "url": "https://x.com/infowithbytes/status/2111819520025518367",
+     "title": "4. Free Educational Data Pipeline for Tertiary Students Underway What’s Happening: Nigeria’s Education Ministry announced plans to collabora",
+     "description": "4. Free Educational Data Pipeline for Tertiary Students Underway\n\nWhat’s Happening:\n\nNigeria’s Education Ministry announced plans to collaborate with major telecom operators to roll out zero-rated educational data access for students across tertiary institutions.",
+     "snippet": "4. Free Educational Data Pipeline for Tertiary Students Underway\n\nWhat’s Happening:\n\nNigeria’s Education Ministry announced plans to collaborate with major telecom operators to roll out zero-rated educational data access for students across tertiary institutions.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "infowithbytes",
+     "handle": "@infowithbytes"
+    },
+    {
+     "url": "https://x.com/voiceofnigeria/status/2111149594008506677",
+     "title": "Nigeria’s Minister of Information and National Orientation, Mohammed Idris, has called for stronger grassroots communication to improve publ",
+     "description": "Nigeria’s Minister of Information and National Orientation, Mohammed Idris, has called for stronger grassroots communication to improve public understanding of President Bola Ahmed Tinubu’s reforms. \n\nReceiving Friends of Tinubu Reforms Director-General Agbor Ebipade in Abuja, Idris said partnerships with civil society and support groups were vital to explaining government policies and their expected benefits. \n\nHe commended the group’s plan to publish a compendium of reforms, citing measures including petrol subsidy removal, foreign exchange unification, student loans and infrastructure projects.\n\n#MohammedIdris #RenewedHopeAgenda #TinubuReforms #PublicEngagement #Nigeria",
+     "snippet": "Nigeria’s Minister of Information and National Orientation, Mohammed Idris, has called for stronger grassroots communication to improve public understanding of President Bola Ahmed Tinubu’s reforms. \n\nReceiving Friends of Tinubu Reforms Director-General Agbor Ebipade in Abuja, Idris said partnerships with civil society and support groups were vital to explaining government policies and their expected benefits. \n\nHe commended the group’s plan to publish a compendium of reforms, citing measures including petrol subsidy removal, foreign exchange unification, student loans and infrastructure projects.\n\n#MohammedIdris #RenewedHopeAgenda #TinubuReforms #PublicEngagement #Nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Voice of Nigeria",
+     "handle": "@voiceofnigeria"
+    },
+    {
+     "url": "https://x.com/OllaAfeez/status/2111505257431785825",
+     "title": "🚨🇳🇬 NIGERIA MAY BE LOSING BILLIONS IN AGRICULTURAL OPPORTUNITIES! WHO IS ACCOUNTABLE?",
+     "description": "🚨🇳🇬 NIGERIA MAY BE LOSING BILLIONS IN AGRICULTURAL OPPORTUNITIES! WHO IS ACCOUNTABLE?\n\nNigeria's agricultural policy document estimates US$10 BILLION in annual export opportunities across groundnut, palm oil, cocoa and cotton.\n\nThe Federal Government has also reported approximately ₦3.5 TRILLION in annual post-harvest losses and inefficiencies.\n\nThese are different figures, and they do not mean all the losses were caused by bad policies alone.\n\nBut @NGfmafs @NigeriaGov @NGRPresident, Nigerians deserve answers!\n\nWhy are farmers still struggling with financing, storage, quality control, transportation and access to markets?\n\nAs someone involved in agricultural commodities, I believe Nigeria must move beyond policy announcements and start measuring real results.\n\nHow much are farmers earning? How much are we processing locally? How many jobs are we creating? How much are we earning from agricultural exports?\n\nIf I had the opportunity to change one thing, I would prioritise policies that help farmers produce profitably, process locally and compete in international markets.\n\nWhat ONE agricultural policy would you change first if you had the opportunity?\n\nLet's talk solutions. 🇳🇬\n\n#Nigeria #Agriculture #FoodSecurity #GoodGovernance",
+     "snippet": "🚨🇳🇬 NIGERIA MAY BE LOSING BILLIONS IN AGRICULTURAL OPPORTUNITIES! WHO IS ACCOUNTABLE?\n\nNigeria's agricultural policy document estimates US$10 BILLION in annual export opportunities across groundnut, palm oil, cocoa and cotton.\n\nThe Federal Government has also reported approximately ₦3.5 TRILLION in annual post-harvest losses and inefficiencies.\n\nThese are different figures, and they do not mean all the losses were caused by bad policies alone.\n\nBut @NGfmafs @NigeriaGov @NGRPresident, Nigerians deserve answers!\n\nWhy are farmers still struggling with financing, storage, quality control, transportation and access to markets?\n\nAs someone involved in agricultural commodities, I believe Nigeria must move beyond policy announcements and start measuring real results.\n\nHow much are farmers earning? How much are we processing locally? How many jobs are we creating? How much are we earning from agricultural exports?\n\nIf I had the opportunity to change one thing, I would prioritise policies that help farmers produce profitably, process locally and compete in international markets.\n\nWhat ONE agricultural policy would you change first if you had the opportunity?\n\nLet's talk solutions. 🇳🇬\n\n#Nigeria #Agriculture #FoodSecurity #GoodGovernance",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "iam_Ollasgreen",
+     "handle": "@OllaAfeez"
+    },
+    {
+     "url": "https://x.com/skyhighnewshub/status/2111742208042795375",
+     "title": "Nigeria could face renewed pressure on the naira and significant capital withdrawals if the Federal Government reverses its fuel subsidy rem",
+     "description": "Nigeria could face renewed pressure on the naira and significant capital withdrawals if the Federal Government reverses its fuel subsidy removal policy.\nhttps://skyhighnewshub.com/article/fuel-subsidy-reversal-could-weaken-naira-drive-investors-away-oyedele",
+     "snippet": "Nigeria could face renewed pressure on the naira and significant capital withdrawals if the Federal Government reverses its fuel subsidy removal policy.\nhttps://skyhighnewshub.com/article/fuel-subsidy-reversal-could-weaken-naira-drive-investors-away-oyedele",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Skyhighnewshub",
+     "handle": "@skyhighnewshub"
+    }
+   ]
+  }
+ ]
+}

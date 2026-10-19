@@ -1,0 +1,115 @@
+{
+ "query": "Nigeria security politics government",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/9jaDailyUpdates/status/2110997923555135966",
+     "title": "🇳🇬 Daily summary: Regional security force legislation, president's emergency intervention directive, wage negotiation updates, and additiona",
+     "description": "🇳🇬 Daily summary: Regional security force legislation, president's emergency intervention directive, wage negotiation updates, and additional major developments\n\nThe Nigerian political and economic landscape remains turbulent as three major issues dominate the news cycle. First, lawmakers continue deliberating the State Police Bill, a proposal that has sparked considerable debate about decentralizing security architecture across the federation. Second, President Tinubu has ordered security agencies nationwide to intensify rescue operations for kidnapped citizens, signaling renewed urgency on the abduction crisis that has plagued the country. Additionally, negotiations between the Nigeria Labour Congress and the Federal Government regarding a new national minimum wage remain stalled, with both parties yet to settle on when formal talks will commence. The Bureau of Statistics has also released fresh economic data, though specifics were not detailed in available reports.\n\n📰 Source: Punch\n🔗 https://t.co/WKerct0Rt9\n\nVia @9jaDailyUpdates\n\n#NaijaNews #Nigeria #BreakingNews #Politics #Bandits #Insecurity #NigerianArmy #Election #News #Africa",
+     "snippet": "🇳🇬 Daily summary: Regional security force legislation, president's emergency intervention directive, wage negotiation updates, and additional major developments\n\nThe Nigerian political and economic landscape remains turbulent as three major issues dominate the news cycle. First, lawmakers continue deliberating the State Police Bill, a proposal that has sparked considerable debate about decentralizing security architecture across the federation. Second, President Tinubu has ordered security agencies nationwide to intensify rescue operations for kidnapped citizens, signaling renewed urgency on the abduction crisis that has plagued the country. Additionally, negotiations between the Nigeria Labour Congress and the Federal Government regarding a new national minimum wage remain stalled, with both parties yet to settle on when formal talks will commence. The Bureau of Statistics has also released fresh economic data, though specifics were not detailed in available reports.\n\n📰 Source: Punch\n🔗 https://t.co/WKerct0Rt9\n\nVia @9jaDailyUpdates\n\n#NaijaNews #Nigeria #BreakingNews #Politics #Bandits #Insecurity #NigerianArmy #Election #News #Africa",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Naija Daily Update",
+     "handle": "@9jaDailyUpdates"
+    },
+    {
+     "url": "https://x.com/DawnHeraldNG/status/2111033763719168492",
+     "title": "The proposed constitutional amendment seeking to decentralise the security architecture of Nigeria and establish state police has encountere",
+     "description": "The proposed constitutional amendment seeking to decentralise the security architecture of Nigeria and establish state police has encountered a legislative hurdle. \n\nRead more 🔗 https://dawnherald.ng/2026/10/16/state-police-suffers-setback-as-31-states-miss-deadline/",
+     "snippet": "The proposed constitutional amendment seeking to decentralise the security architecture of Nigeria and establish state police has encountered a legislative hurdle. \n\nRead more 🔗 https://dawnherald.ng/2026/10/16/state-police-suffers-setback-as-31-states-miss-deadline/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dawn Herald News",
+     "handle": "@DawnHeraldNG"
+    },
+    {
+     "url": "https://x.com/grok/status/2111219227721974255",
+     "title": "Insecurity remains a core concern.",
+     "description": "Insecurity remains a core concern. Independent data shows 7,825 abductions and N7.78bn in ransoms paid from July 2025 to June 2026, with persistent mass incidents. The government reports thousands of terrorists neutralised, large-scale rescues, expanded recruitment and a record N5.41tn security budget. Voters will judge whether these steps produce lasting reductions in attacks and safer communities.",
+     "snippet": "Insecurity remains a core concern. Independent data shows 7,825 abductions and N7.78bn in ransoms paid from July 2025 to June 2026, with persistent mass incidents. The government reports thousands of terrorists neutralised, large-scale rescues, expanded recruitment and a record N5.41tn security budget. Voters will judge whether these steps produce lasting reductions in attacks and safer communities.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/Timbuktuacps/status/2111285672266936409",
+     "title": "🇳🇬 #Nigeria | Distinct armed threats on several fronts at once: 🔸 North-west: 23 hostages freed in Sokoto, cattle rustling near the Niger bo",
+     "description": "🇳🇬 #Nigeria | Distinct armed threats on several fronts at once:\n🔸 North-west: 23 hostages freed in Sokoto, cattle rustling near the Niger border\n🔸 North-east: attacks repelled in Borno, insurgency persists\n🔸 Organised crime: meth labs dismantled\n👉 https://timbuktu-institute.org/media/attachments/2026/10/15/fragility-alert-sept-oct-2026-ang.pdf\n #FORWARD",
+     "snippet": "🇳🇬 #Nigeria | Distinct armed threats on several fronts at once:\n🔸 North-west: 23 hostages freed in Sokoto, cattle rustling near the Niger border\n🔸 North-east: attacks repelled in Borno, insurgency persists\n🔸 Organised crime: meth labs dismantled\n👉 https://timbuktu-institute.org/media/attachments/2026/10/15/fragility-alert-sept-oct-2026-ang.pdf\n #FORWARD",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Timbuktu Institute",
+     "handle": "@Timbuktuacps"
+    },
+    {
+     "url": "https://x.com/favour_nora/status/2111563694417313845",
+     "title": "Look at who holds power. This is the Presidency’s own list: 🔹 1 of 22 security agency heads is from the South-East 🔹 5 ministerial nominees,",
+     "description": "Look at who holds power. This is the Presidency’s own list:\n\n🔹 1 of 22 security agency heads is from the South-East\n🔹 5 ministerial nominees, against 9 or 10 for every other zone\n🔹 16 appointees, last among all six zones\n\nTheir numbers, not ours.https://t.co/qtNlrFxZgu",
+     "snippet": "Look at who holds power. This is the Presidency’s own list:\n\n🔹 1 of 22 security agency heads is from the South-East\n🔹 5 ministerial nominees, against 9 or 10 for every other zone\n🔹 16 appointees, last among all six zones\n\nTheir numbers, not ours.https://t.co/qtNlrFxZgu",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Chivalrous Kristina 🇳🇬",
+     "handle": "@favour_nora"
+    },
+    {
+     "url": "https://x.com/SonofChuks/status/2111766250770543080",
+     "title": "You'd agree with me that the Nigeria’s security strategy looks completely different depending on which part of the country you look at, and",
+     "description": "You'd agree with me that the Nigeria’s security strategy looks completely different depending on which part of the country you look at, and this unfairness is tearing national unity apart. \n\nIn the South West and South South, the federal government works with local security groups and cuts deals with regional leaders to keep the peace and protect oil. \n\nIn the North, the government uses soft approaches like rehabilitation programs to bring former bandits and insurgents back into society and recruiting them into the same Army—a move that many citizens strongly question. \n\nBut in the South East, the strategy completely flips. Instead of cutting deals or supporting local security setups, the government relies almost entirely on heavy military force. When you combine this aggressive stance with the fact that the South East is constantly left out of key government positions, it is easy to see cordinated marginalisation. \n\nIf the military wants everyone to trust and respect it, the government must stop treating different regions with different rules. True security can only happen when there is equal justice for all.",
+     "snippet": "You'd agree with me that the Nigeria’s security strategy looks completely different depending on which part of the country you look at, and this unfairness is tearing national unity apart. \n\nIn the South West and South South, the federal government works with local security groups and cuts deals with regional leaders to keep the peace and protect oil. \n\nIn the North, the government uses soft approaches like rehabilitation programs to bring former bandits and insurgents back into society and recruiting them into the same Army—a move that many citizens strongly question. \n\nBut in the South East, the strategy completely flips. Instead of cutting deals or supporting local security setups, the government relies almost entirely on heavy military force. When you combine this aggressive stance with the fact that the South East is constantly left out of key government positions, it is easy to see cordinated marginalisation. \n\nIf the military wants everyone to trust and respect it, the government must stop treating different regions with different rules. True security can only happen when there is equal justice for all.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SonofChuks",
+     "handle": "@SonofChuks"
+    },
+    {
+     "url": "https://x.com/KKenttimo/status/2111806530928402452",
+     "title": "Let me break it down for you..",
+     "description": "Let me break it down for you..\nSecurity...The FG is working with States to get State Police activated\nThe FG as it is cannot police the whole of Nigeria,serious states will step up\n\nEconomy..This is a 2 edged sword\nThe biggest impediment to our Development today include...1/2",
+     "snippet": "Let me break it down for you..\nSecurity...The FG is working with States to get State Police activated\nThe FG as it is cannot police the whole of Nigeria,serious states will step up\n\nEconomy..This is a 2 edged sword\nThe biggest impediment to our Development today include...1/2",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kenochi Kenttimo",
+     "handle": "@KKenttimo"
+    },
+    {
+     "url": "https://x.com/channelstv/status/2111853518512349292",
+     "title": "Five Things to Know Today Today’s big picture: Nigeria faces fresh questions about security-sector accountability as an inquiry into the dea",
+     "description": "Five Things to Know Today\n\nToday’s big picture: Nigeria faces fresh questions about security-sector accountability as an inquiry into the deaths of 37 detainees produces significant testimony. \nMeanwhile, the World Bank is mobilising private investment for Nigeria’s digital infrastructure, agriculture and small businesses. \nSecurity preparations for the 2027 elections remain in focus. Internationally, Egypt is considering military support for Saudi Arabia, while China’s proposed restrictions on advanced technology exports could affect global AI and renewable-energy supply chains.",
+     "snippet": "Five Things to Know Today\n\nToday’s big picture: Nigeria faces fresh questions about security-sector accountability as an inquiry into the deaths of 37 detainees produces significant testimony. \nMeanwhile, the World Bank is mobilising private investment for Nigeria’s digital infrastructure, agriculture and small businesses. \nSecurity preparations for the 2027 elections remain in focus. Internationally, Egypt is considering military support for Saudi Arabia, while China’s proposed restrictions on advanced technology exports could affect global AI and renewable-energy supply chains.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Channels Television",
+     "handle": "@channelstv"
+    },
+    {
+     "url": "https://x.com/ARISEtv/status/2111936331815551008",
+     "title": "Tinubu’s Limited Campaign Visits Reflect Politics Of Entitlement — Yusuf The APC’s actions reflect a politics of entitlement.",
+     "description": "Tinubu’s Limited Campaign Visits Reflect Politics Of Entitlement — Yusuf\n\nThe APC’s actions reflect a politics of entitlement. At a time when Nigeria is grappling with high insecurity and poverty, the incumbent’s decision to spend 65% of his time in the Presidential Villa is telling. I find comparisons with Donald Trump’s campaign during the last US election uncharitable because Nigeria’s current situation is different from that of the United States.\n\nBaba Yusuf\nPolitical Analyst",
+     "snippet": "Tinubu’s Limited Campaign Visits Reflect Politics Of Entitlement — Yusuf\n\nThe APC’s actions reflect a politics of entitlement. At a time when Nigeria is grappling with high insecurity and poverty, the incumbent’s decision to spend 65% of his time in the Presidential Villa is telling. I find comparisons with Donald Trump’s campaign during the last US election uncharitable because Nigeria’s current situation is different from that of the United States.\n\nBaba Yusuf\nPolitical Analyst",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ARISE NEWS",
+     "handle": "@ARISEtv"
+    },
+    {
+     "url": "https://x.com/Neuton0001/status/2111949663641182429",
+     "title": "#Breaking 💔🥺 IS THIS THE FATE OF A NIGERIAN SOLDIER IN THE HANDS OF BANDITS?",
+     "description": "#Breaking 💔🥺 IS THIS THE FATE OF A NIGERIAN SOLDIER IN THE HANDS OF BANDITS?\nCaptured in nets \nA video circulating online, reportedly showing a Nigerian soldier captured by armed bandits, raises heartbreaking questions that the Nigerian military and the Federal Government must urgently answer.\n\nWhere did this happen? When was he captured? Is he alive, and what is being done to secure his safe release?\n\nBehind that uniform is a human being—a son, perhaps a husband, a father, and someone’s brother. A family may be waiting anxiously, praying for a loved one whose fate remains uncertain.\n\nThe man who risks his life to defend Nigeria deserves to know that Nigeria will not abandon him.\n\nOur soldiers deserve protection, dignity, and accountability from those entrusted with their safety. The Nigerian military must clarify the circumstances surrounding this incident and explain what steps are being taken to protect the soldier and bring him home safely.\n\nHow can a nation ask its citizens to trust its security system when images like these leave so many questions unanswered?\n\n🇳🇬 Nigeria must not remain silent. His family deserves answers. Our soldiers deserve better. Every Nigerian life matters.\n\n#Nigeria #NigerianArmy #NigerianMilitary #Banditry #Insecurity #BringOurSoldiersHome #SecurityCrisis #Accountability #ProtectOurTroops",
+     "snippet": "#Breaking 💔🥺 IS THIS THE FATE OF A NIGERIAN SOLDIER IN THE HANDS OF BANDITS?\nCaptured in nets \nA video circulating online, reportedly showing a Nigerian soldier captured by armed bandits, raises heartbreaking questions that the Nigerian military and the Federal Government must urgently answer.\n\nWhere did this happen? When was he captured? Is he alive, and what is being done to secure his safe release?\n\nBehind that uniform is a human being—a son, perhaps a husband, a father, and someone’s brother. A family may be waiting anxiously, praying for a loved one whose fate remains uncertain.\n\nThe man who risks his life to defend Nigeria deserves to know that Nigeria will not abandon him.\n\nOur soldiers deserve protection, dignity, and accountability from those entrusted with their safety. The Nigerian military must clarify the circumstances surrounding this incident and explain what steps are being taken to protect the soldier and bring him home safely.\n\nHow can a nation ask its citizens to trust its security system when images like these leave so many questions unanswered?\n\n🇳🇬 Nigeria must not remain silent. His family deserves answers. Our soldiers deserve better. Every Nigerian life matters.\n\n#Nigeria #NigerianArmy #NigerianMilitary #Banditry #Insecurity #BringOurSoldiersHome #SecurityCrisis #Accountability #ProtectOurTroops",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nelson Collins",
+     "handle": "@Neuton0001"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "query": "Sahel attack ECOWAS force security operations",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "results": [
+    {
+     "url": "https://x.com/PakistanUN_NY/status/1990873943792570844",
+     "title": "Permanent Mission of Pakistan to the UN",
+     "description": "The deteriorating security situation in the Sahel is deeply alarming. According to Global Terrorism Index 2025, five of the ten countries worst ...",
+     "position": 1,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/stanleynkwocha_/status/2078943969820676290",
+     "title": "Stanley Nkwocha on X",
+     "description": "ECOWAS and countries of the West African mission and the Sahel towards fighting terrorism in the region.",
+     "position": 2,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/Ojukwu_Bianca/status/2081796285460336705",
+     "title": "Bianca Odumegwu-Ojukwu",
+     "description": "regional security situations in West Africa and the Sahel, Nigeria's regional role in the evolving geopolitical dynamics and the challenges ...",
+     "position": 3,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/ZagazOlaMakama/status/2016877300361404736",
+     "title": "What Niamey's Airport attack means for Niger, ...",
+     "description": "The Sahel's security architecture looks more fragile. Niger, Mali and Burkina Faso have positioned themselves as a new security bloc after ...",
+     "position": 4,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/ZagazOlaMakama/status/2075867882785742887?lang=bg",
+     "title": "Gen. Tukur Yusuf Buratai, has called for African-led ...",
+     "description": "Buratai described the Sahel as the global epicentre of terrorism, noting that the region now accounts for nearly half of all terror-related ...",
+     "position": 5,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/UNDPPA",
+     "title": "UN Political and Peacebuilding Affairs (@UNDPPA) ...",
+     "description": "We discussed the root causes of instability in West Africa and the Sahel ... “Security operations alone will not be sufficient to produce sustainable ...",
+     "position": 6,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/sierraeyesalone/status/2049167132445794641",
+     "title": "sierraeyesalone",
+     "description": "At the Munich Security Conference in February, he framed the Sahel crisis as a test of genuine, undistracted engagement rather than geopolitical ...",
+     "position": 7,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/DicarloRosemary",
+     "title": "Rosemary A. DiCarlo (@DicarloRosemary) ...",
+     "description": "President of the ECOWAS Commission. We discussed the root causes of instability in West Africa and the Sahel",
+     "position": 8,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/SierraLeoneUN",
+     "title": "SierraLeone@UN (@SierraLeoneUN) ...",
+     "description": "The 100th member of the UN, committed to promote international co-operation to maintain international peace & security, human rights & sustainable development.",
+     "position": 9,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/ZagazOlaMakama/status/2071161140562768301",
+     "title": "Zagazola",
+     "description": "The latest video purportedly released by ISIS following the attack on the Nigerien military base at Inates should concern every security ...",
+     "position": 10,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/UNDPPA",
+     "title": "UN Political and Peacebuilding Affairs (@UNDPPA) ...",
+     "description": "“Security operations alone will not be sufficient to produce sustainable security gains,” @CGRuizMassieu told the Security Council on #Haiti. Security ...",
+     "position": 11,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/DefenseNigeria/status/1560274988531593218",
+     "title": "Defense News Nigeria",
+     "description": "In response the Malian government announced its decision to withdraw from all the organs and bodies of the G5 Sahel, including the joint force.",
+     "position": 12,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/StratStability",
+     "title": "Strategic Stabilization Advisors (@StratStability) ...",
+     "description": "For years, counterterrorism in the Sahel has focused overwhelmingly on military force alone, with limited long-term success. What we're doing in Benin is ...",
+     "position": 13,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/DicarloRosemary",
+     "title": "Rosemary A. DiCarlo (@DicarloRosemary) ...",
+     "description": "We discussed the root causes of instability in West Africa and the Sahel and agreed to strengthen cooperation on preventive diplomacy, ensuring that youth and ...",
+     "position": 14,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    }
+   ],
+   "credits": 4
+  },
+  {
+   "name": "linkedin",
+   "label": "LinkedIn",
+   "kind": "social",
+   "fulltext": false,
+   "results": [
+    {
+     "url": "https://www.linkedin.com/posts/fola-aina-ph-d-4838066a_yesterday-i-spoke-on-france-24s-eye-on-africa-activity-7435272420451745792-BiIe",
+     "title": "ECOWAS' new anti-jihadist force in West Africa amidst shifting global ...",
+     "description": "West Africa is stepping up its fight against jihadist violence. Over the weekend, ECOWAS met to discuss forming a new regional force to counter ...",
+     "position": 1,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/institute-for-security-studies_%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%B0-%F0%9D%90%84%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%80%F0%9D%90%92-%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%A4%F0%9D%90%9E-%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AC-activity-7442676925434675200-Ul9i",
+     "title": "ECOWAS Establishes Counter-Terrorism Brigade | Institute for ...",
+     "description": "Ghana and the European Union signed their first formal defence partnership on Tuesday, aiming to deepen cooperation in counterterrorism, intelligence ...",
+     "position": 2,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/oluwole-ojewale-ph-d-01621531_sahel-mali-niger-activity-7438156189529649153-4unD",
+     "title": "New Security Order Emerges in Sahel Region: Mali, Niger, Burkinafaso",
+     "description": "Sahel Joint Force? can a security project rooted in political rupture with ECOWAS and heavy reliance on a narrow set of external partners",
+     "position": 3,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/fidel-amakye-owusu-8158b6149_security-stability-africa-activity-7368943689194250240-hS44",
+     "title": "ECOWAS to deploy 260,000 troops against terrorism in frontier ...",
+     "description": "What are the “frontier states” against terrorism? In its latest push to combat terrorism, ECOWAS has announced plans to establish a 260,000-strong coalition ...",
+     "position": 4,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/oluwole-ojewale-ph-d-01621531_regional-organised-crime-observatory-coordinator-activity-7096138075751231489-6yBe?trk=public_profile_share_view",
+     "title": "Oluwole Ojewale, Ph.D's Post - LinkedIn",
+     "description": "ECOWAS maintains a significant military edge in the case of invasion. can complicate the fragile security environment in the entire Sahel. ...",
+     "position": 5,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/niccola-milnes-51b39234_in-the-sahel-we-underestimate-the-use-of-activity-7482466707760947202-ct9Z",
+     "title": "AI in Counter-Terrorism: Sahel Region at Risk | Niccola Milnes posted on ...",
+     "description": "The attack killed Malian soldiers and mercenaries with Russia's Africa Corps. JNIM also appears to be using AI to compose propaganda it posts to ...",
+     "position": 6,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/pulse/sahel-crisis-what-happening-niger-qhrwe",
+     "title": "The Sahel Crisis - What is Happening in Niger? A First Look - LinkedIn",
+     "description": "a rocky security environment have plagued Central Sahel; a succession of military coups, increased jihadist threats, and recurrent inter- ...",
+     "position": 7,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/businessinsiderssa_ecowas-down-to-12-nations-following-exit-activity-7274368695332724736-cbWE",
+     "title": "Business Insider Africa's Post - LinkedIn",
+     "description": "The newly formed Alliance of Sahel States aims to provide mutual support against external threats and internal security challenges ECOWAS down ...",
+     "position": 8,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/hem-kaur-saroya-30ba837a_niger-nigercoup-internationalaffairs-activity-7094705620095836160-1ntX",
+     "title": "niger #nigercoup #internationalaffairs #sahel #internationaldevelopment",
+     "description": "ECOWAS has lost the window that it it could intervene because of course it did not have a standby force 24 hours just after the crew.",
+     "position": 9,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/palaciosintl_sahelian-governments-encouraging-civilian-activity-7475228212684312576-FctL",
+     "title": "Sahelian Governments Misunderstand JNIM Strategy Endangering ...",
+     "description": "Sahelian governments encouraging civilian kinetic defense suggests a complete misunderstanding of JNIM operational strategy and grossly endangers all ...",
+     "position": 10,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/africaviewfacts_economic-community-of-west-african-states-activity-7434636946779496449-LKO3",
+     "title": "ECOWAS Deploys 2000-Strong Force to Combat West Africa Violence",
+     "description": "Economic Community of West African States ( ECOWAS ) will deploy a 2,000-strong regional standby force by the end of 2026 to tackle rising ...",
+     "position": 11,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/mark-anthony-johnson-55615926_sahel-economiccommunityofwestafricanstates-activity-7434540816947130368-Rgvb",
+     "title": "Mark-Anthony Johnson's Post - LinkedIn",
+     "description": "Here's what to know: The security situation in the hashtag #Sahel is critical as of March 2026, with the region accounting for more than half of ...",
+     "position": 12,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/crisis24_crisis24dailyintelligencebrief-middleeastsecurity-activity-7439664860939964417-ViLn",
+     "title": "Middle East Security Brief: Gulf Disruptions, Iraq Targeting ... - LinkedIn",
+     "description": "The UA temporarily closed its airspace for several hours early this morning following missile threats following debris killed one person in Abu Dhabi and Qatar.",
+     "position": 13,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/oluwole-ojewale-ph-d-01621531_terrorism-allegations-ecowas-defends-nigeria-activity-7280834273387900928-Q3Bh",
+     "title": "ECOWAS Defends Nigeria Against Niger | Oluwole Ojewale, Ph.D",
+     "description": "I recently shared my insights on TVC News regarding the ongoing diplomatic tensions between Nigeria and Niger.",
+     "position": 14,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    }
+   ],
+   "credits": 4
+  },
+  {
+   "name": "facebook",
+   "label": "facebook",
+   "kind": "social",
+   "fulltext": false,
+   "error": "no results",
+   "results": []
+  },
+  {
+   "name": "instagram",
+   "label": "Instagram",
+   "kind": "social",
+   "fulltext": false,
+   "results": [
+    {
+     "url": "https://www.instagram.com/p/DUKnfd2EtAL/",
+     "title": "\"Whether ECOWAS can reclaim ownership of its security agenda ...",
+     "description": "Now ECOWAS says it is preparing to deploy a regional stabilisation force by July 2027, with equipment and logistics arrangements already being ...",
+     "position": 1,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DY6Z37xDvUj/",
+     "title": "The Foundation for Peace Professionals has raised the alarm ...",
+     "description": "The warning comes amid a deteriorating security environment in the Sahel and West Africa, where jihadist groups linked to both the Islamic ...",
+     "position": 2,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/reel/DQrFyXdk_Qz/",
+     "title": "ECOWAS HOSTS DIALOGUE TO STRENGTHEN FAITH, SECURITY ...",
+     "description": "ECOWAS and the African Union have signed a Memorandum of Understanding to strengthen coordination on the African Standby Force Link in bio",
+     "position": 3,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DXo-6rjiD88/",
+     "title": "Mali is experiencing an escalation in its security crisis following attacks ...",
+     "description": "Mali is experiencing an escalation in its security crisis following attacks by armed groups that began on April 25, 2026.",
+     "position": 4,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DDnPortNHKa/ecowas-gives-burkina-faso-mali-and-niger-six-months-to-reconsider-withdrawal/",
+     "title": "ECOWAS gives Burkina Faso, Mali and Niger six months to reconsider ...",
+     "description": "MORE THAN 70 DISCIPLINARY CASES have been opened against police and gendarmerie personnel, according to Burkina Faso's Security Minister ...",
+     "position": 5,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DZmiwF0tvpE/",
+     "title": "Prominent Nigerians, including former INEC Chairman Attahiru ... - Instagram",
+     "description": "Security analysts have warned that divisions between ECOWAS and the AES could weaken intelligence sharing and coordinated military operations ...",
+     "position": 6,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DSHotLjjIQy/",
+     "title": "The Federal Government has stepped in after Burkina Faso ... - Instagram",
+     "description": "Officials say Burkina Faso, Mali, and Niger may be using the situation to hit back at Nigeria over its role in ECOWAS actions against their ...",
+     "position": 7,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DUVIaroEcKJ/",
+     "title": "The United States Africa Command has identified Nigeria as a key ...",
+     "description": "Nigeria has called for closer security cooperation between the Economic Community of West African States (ECOWAS) and the Alliance of Sahel ...",
+     "position": 8,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/reel/Dc6lz06BDeF/",
+     "title": "A dramatic midnight mutiny in Niamey just pushed Niger to the brink of ...",
+     "description": "Niger's General Tiani wants to grow the force to 18,000 troops. But the last joint force collapsed after 25 operations — broke and badly run.",
+     "position": 9,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DcqKDHYDJPJ/",
+     "title": "The Alliance of Sahel States (AES) has expressed solidarity with Niger ...",
+     "description": "The Alliance of Sahel States (AES) has expressed full solidarity with Niger after mutinous soldiers attacked Air Base 101 and other sensitive ...",
+     "position": 10,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DSer2RNDv1L/",
+     "title": "The Nigerian Air Force has confirmed that its C-130 aircraft carrying 11 ...",
+     "description": "The operation included the movement of troops, operational equipment ... security operations under the ECOWAS Mission in Gambia (ECOMIG).",
+     "position": 11,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/Dbc3f3zsnlw/",
+     "title": "The #Secretary_General Strongly Condemns the Drone ... - Instagram",
+     "description": "Instead, the crisis deepened divisions between the bloc and the military governments in the Sahel. Security has also remained a major challenge.",
+     "position": 12,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/reel/Db-I3phTptM/",
+     "title": "Nigeria has reaffirmed its commitment to building an integrated, well ...",
+     "description": "Nigeria's Minister of Defence, General Christopher Musa (Rtd), has called for closer security cooperation between ECOWAS and the Alliance of ...",
+     "position": 13,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DaptcfbtEjo/",
+     "title": "Former Chief of Army Staff, retired Lt.-Gen. Tukur Yusuf Buratai, has ...",
+     "description": "He said intensified military operations in early 2026 reportedly eliminated at least 400 militants, but fresh attacks by jihadist groups, ...",
+     "position": 14,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    }
+   ],
+   "credits": 4
+  }
+ ]
+}

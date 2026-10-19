@@ -1,0 +1,10 @@
+{
+  "_readme": "X 人物画像观察清单。fetch_people_x.py 每日按此清单发现活跃账号并生成画像。要新增主题：往 topics 数组加一条 {id, label, query}；query 用英文写给 Grok 的检索任务，说明要找哪类账号（记者/分析师/机构）以及围绕什么议题。每个主题每日成本约 $0.6-0.9（xai x_search 工具调用）。",
+  "topics": [
+    {
+      "id": "mplj_fpl_security",
+      "label": "MPLJ／FPL 相关安全风险",
+      "query": "MPLJ FPL Niger Agadez security risk — find the journalists, analysts and researchers who post about this most often"
+    }
+  ]
+}

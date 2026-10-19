@@ -1,0 +1,47 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria’s growth must mean more for the people doing the work",
+   "url": "https://businessday.ng/life/article/nigerias-growth-must-mean-more-for-the-people-doing-the-work-2/",
+   "content": "Many Nigerians spend their days working and still struggle to cover their basic needs. Some combine several jobs. Others run",
+   "published_date": "Mon, 19 Oct 2026 08:54:02 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "TETFund earmarks N10bn for polytechnic skills centres in 2026",
+   "url": "https://businessday.ng/education/article/tetfund-earmarks-n10bn-for-polytechnic-skills-centres-in-2026/",
+   "content": "… approves N48bn for engineering upgrades, N6.09bn for research grants The Tertiary Education Trust Fund (TETFund) has set aside N10",
+   "published_date": "Mon, 19 Oct 2026 08:51:48 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Afreximbank targets bankable state projects to unlock African investment",
+   "url": "https://businessday.ng/news/article/afreximbank-targets-bankable-state-projects-to-unlock-african-investment/",
+   "content": "Afreximbank is stepping up efforts to help African subnational governments turn investment opportunities into bankable projects, as the lender seeks",
+   "published_date": "Mon, 19 Oct 2026 08:50:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Lessons from Aliko Dangote’s lecture on Africa’s industrialisation (Part 2 )",
+   "url": "https://businessday.ng/life/article/lessons-from-aliko-dangotes-lecture-on-africas-industrialisation-part-2/",
+   "content": "Stating the brutal facts on national industrialization he explained that strategies alone are insufficient, as industrialization requires scale, scale requires",
+   "published_date": "Mon, 19 Oct 2026 08:50:10 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Aimpexx Is Now Global: How a Nigerian Trade Company Is Building the Future of Importation Across Africa",
+   "url": "https://businessday.ng/sponsored/article/aimpexx-is-now-global-how-a-nigerian-trade-company-is-building-the-future-of-importation-across-africa/",
+   "content": "Over the past few months, Aimpexx Worldwide has been quietly making moves that are changing the way businesses in Africa",
+   "published_date": "Mon, 19 Oct 2026 08:49:21 +0000",
+   "score": 0.6
+  }
+ ],
+ "engine": "rss",
+ "_tag": "rss_businessday",
+ "_query": "https://businessday.ng/feed/",
+ "_domains": [
+  "businessday.ng"
+ ],
+ "_days": 3
+}

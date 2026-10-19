@@ -1,0 +1,25 @@
+# ── secrets: never commit ────────────────────────────────────────────────
+keys.json
+tavily_keys.txt
+brightdata.json
+*.env
+.env
+
+# ── local tooling / internal notes: not for a public repo ────────────────
+.workbuddy-ai/
+.workbuddy/
+.wbapp_*.genie
+
+# ── caches / build output ────────────────────────────────────────────────
+__pycache__/
+*.pyc
+dist/
+digest/
+data/spaces/
+*.log
+
+# ── scratch ──────────────────────────────────────────────────────────────
+zh_batch*.json
+zh_daily.json
+_check.js
+_fetch_news_quick.py

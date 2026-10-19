@@ -1,0 +1,297 @@
+{
+ "query": "Ghana economy mining gold energy",
+ "platforms": [
+  {
+   "name": "linkedin",
+   "label": "LinkedIn",
+   "kind": "social",
+   "fulltext": false,
+   "results": [
+    {
+     "url": "https://www.linkedin.com/posts/omeralvie_ghana-has-risen-to-become-the-worlds-sixth-largest-activity-7508086504615821312-kgIg",
+     "title": "Ghana surpasses US as world's 6th largest gold producer - LinkedIn",
+     "description": "According to the Ghana Chamber of Mines, the country produced a record 185 tonnes of gold in 2025, equivalent to approximately 5.94 million ...",
+     "position": 1,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/pieter-borsje-28156185_ghana-top7-gold-producer-with-scale-activity-7358300732380352513-s92E",
+     "title": "Ghana's Gold Production: A Balance of Pros and Cons - LinkedIn",
+     "description": "Ghana remains the largest gold producer in Africa. Inside Ghana's Mining Sector • Major operators: Newmont (Ahafo & Akyem), Gold Fields (Tarkwa ...",
+     "position": 2,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/pulse/does-ghanas-gold-still-glisten-leon-louw",
+     "title": "Does Ghana's gold still glisten - LinkedIn",
+     "description": "Minerals make up 37% of total exports, of which gold contributes more than 90% of the total mineral exports. Ghana's mining industry had a less ...",
+     "position": 3,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/africa-center_galamsey-is-the-local-ghanaian-term-for-illegal-activity-7494461895735791616-ZAzD",
+     "title": "Ghana's Unregulated Gold Mining Threatens Water and Economy",
+     "description": "Gold is extracted with toxic chemicals which are released into rivers endangering drinking water, fisheries, cocoa production, and other ...",
+     "position": 4,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/businessinsiderssa_ghanas-gold-board-has-bought-up-to-54-metric-activity-7483099077405138946-lt5n",
+     "title": "Ghana buys 54 tonnes of gold from artisanal miners in record year",
+     "description": "Small-scale mining has become Ghana's largest source of gold output, overtaking industrial mining for the first time. Gold exports continue to ...",
+     "position": 5,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/pieter-borsje-28156185_ghanas-gold-output-is-rising-but-the-activity-7334470664541671424-rGAM",
+     "title": "Ghana's gold output is rising. | Pieter Borsje - LinkedIn",
+     "description": "Ghana's gold production is expected to grow by 6.25% to reach approximately 5.1 million ounces in 2025, according to the Chamber of Mines.",
+     "position": 6,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64"
+    }
+   ],
+   "credits": 2
+  },
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "results": [
+    {
+     "url": "https://x.com/ArmahKofiBuah/status/1919694617080959231?lang=bg",
+     "title": "Emmanuel Armah-Kofi Buah в X: „I led Ghana's delegation to the 18th ...",
+     "description": "Ghana is strategically positioning itself as a key player in the critical minerals value chain, with a focused emphasis on manganese, lithium, ...",
+     "position": 1,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/ArmahKofiBuah/status/1927864740866576445",
+     "title": "Emmanuel Armah-Kofi Buah on X",
+     "description": "Under the leadership of President John Mahama, we are committed to ensuring that Ghana, as Africa's largest gold producer and a key player in ...",
+     "position": 2,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/BBSimons/status/1966035676173922375",
+     "title": "Bright Simons on X",
+     "description": "The Energy Minister was spotted in Lombardy trying to convince investors to pile into Ghana's offshore oil basin.",
+     "position": 3,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/GhanaGOLDBOD/with_replies",
+     "title": "Replies by Ghana Gold Board (GoldBod) (@GhanaGOLDBOD) / X",
+     "description": "The Ghana Gold Board (GoldBod) is the sole authority with exclusive rights to buy, sell, weigh, grade, assay, value and export gold and other precious minerals.",
+     "position": 4,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/BBSimons/status/2092967287481413655",
+     "title": "Bright Simons on X: \"1. Africa's mining industries and minerals should be ...",
+     "description": "Last year, Ghana exported more than $10 billion of gold from small-scale mines in purities ranging from 85% to 95%. 9. How much ADDITIONAL ...",
+     "position": 5,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    },
+    {
+     "url": "https://x.com/MoFA_ZW/status/2039022073159303476",
+     "title": "Ministry of Foreign Affairs and Int Trade on X: \"Today, Prof. dr. Amon ...",
+     "description": "Ghana's leadership in cocoa production, gold exports, and its growing industrial base aligns well with Zimbabwe's rich mineral resources and strong agricultural ...",
+     "position": 6,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=x.com&sz=64"
+    }
+   ],
+   "credits": 2
+  },
+  {
+   "name": "facebook",
+   "label": "Facebook",
+   "kind": "social",
+   "fulltext": false,
+   "results": [
+    {
+     "url": "https://www.facebook.com/dw.africa/posts/ghana-has-banned-the-export-of-unrefined-gold-as-it-seeks-to-capture-more-value-/1489386033225284/",
+     "title": "Ghana has banned the export of unrefined gold, as it seeks to ...",
+     "description": "Africa's top gold producer is taking back control. Ghana is forcing the world's biggest miners to put Ghanaians in charge of the ground. Ghana ...",
+     "position": 1,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64"
+    },
+    {
+     "url": "https://www.facebook.com/trtafrika/posts/ghanas-gold-production-surged-by-2341-percent-in-2025-reaching-594-million-ounce/984858184332984/",
+     "title": "Ghana's gold production surged by 23.41 percent in 2025, reaching ...",
+     "description": "Ghana's gold production surged by 23.41 percent in 2025, reaching 5.94 million ounces from 4.82 million ounces the previous year, ...",
+     "position": 2,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64"
+    },
+    {
+     "url": "https://www.facebook.com/firstpostin/videos/from-gold-to-salt-ghana-eyes-new-billion-dollar-industry-firstpost-africa/2065403081060141/",
+     "title": "From Gold to Salt: Ghana Eyes New Billion-Dollar Industry | Firstpost Africa",
+     "description": "Reports claim Ghana earned $10 billion in 2025 by exporting 100 tons of small- scale gold, highlighting the economic weight of artisanal mining.",
+     "position": 3,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64"
+    },
+    {
+     "url": "https://www.facebook.com/Ghanagoldbodofficial/posts/a-delegation-from-namibias-ministry-of-industries-mines-and-energy-has-visited-t/1563382039139436/",
+     "title": "Namibia's Ministry of Industries, Mines and Energy visits Ghana Gold ...",
+     "description": "The engagement covered key areas including licensing and regulation, gold purchasing and sales, responsible mining and sustainability, financial ...",
+     "position": 4,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64"
+    },
+    {
+     "url": "https://www.facebook.com/zambiabusinesstimes/posts/ghana-earns-over-10bn-from-local-gold-miners-in-10-monthsby-tyndale-muchiya-whil/1554223960043416/",
+     "title": "Ghana earns over $10bn from local gold miners in 10 ... - Facebook",
+     "description": "Ghana has generated approximately $10 billion in revenue from the export of 100 tonnes of gold produced by small-scale miners in 2025,",
+     "position": 5,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64"
+    },
+    {
+     "url": "https://www.facebook.com/firstpostin/posts/ghana-is-aggressively-tightening-control-over-its-gold-industry-as-accra-pushes-/1501081128719536/",
+     "title": "Ghana is aggressively tightening control over its gold industry as ...",
+     "description": "Ghana is aggressively tightening control over its gold industry as Accra pushes a wider resource nationalism agenda across Africa's mining ...",
+     "position": 6,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64"
+    }
+   ],
+   "credits": 2
+  },
+  {
+   "name": "instagram",
+   "label": "Instagram",
+   "kind": "social",
+   "fulltext": false,
+   "results": [
+    {
+     "url": "https://www.instagram.com/p/Da1BRBKOTjp/",
+     "title": "Ghana's Gold Boom: Small-Scale Miners Power an $11 Billion Export ...",
+     "description": "Small-scale miners now account for a significant share of the country's gold output, generating thousands of jobs, boosting foreign exchange ...",
+     "position": 1,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DWkrZGUCqqp/",
+     "title": "ImNews: Ghana blocks sale of Africa's largest gold mine to foreign firms ...",
+     "description": "ImNews: Ghana plans to ban gold exports by 2030 to diversify economy & focus on value-added sectors. #Ghana #Mining #Economy #Africa #Breaking # ...",
+     "position": 2,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/reel/DV5rj_zjgeG/",
+     "title": "Ghana says our gold, our rules!! Africa is watching. For decades Ghana ...",
+     "description": "The latest figures place Ghana's production at 185 tonnes. Source: @sandrababuBoateng · #Ghana #Gold #GoldProduction #Mining #PressPlay ...",
+     "position": 3,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DaIWfokopNR/",
+     "title": "Ghana has announced that, beginning July 1, large-scale gold mining ...",
+     "description": "Ghana has announced that, beginning July 1, large-scale gold mining companies will be required to sell 30% of their gold production to the state ...",
+     "position": 4,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/reel/DdGP9uFxGeA/",
+     "title": "Egypt Oil & Gas on Instagram: \"AFRICA'S RESOURCE TRADE | #3",
+     "description": "Burkina Faso ranks first with $10 billion in gold exports, narrowly ahead of Ghana at $9.6 billion, while Egypt follows at $7.6 billion. The ...",
+     "position": 5,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/reel/Dd8xft1sh03/",
+     "title": "Ghana wants to keep more of the money its gold generates. One ...",
+     "description": "Ghana wants to keep more of the money its gold generates. One mining company just paid the government $35 million, up from $5 million last ...",
+     "position": 6,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DVyAzR2DMSY/",
+     "title": "Ghana, Africa's biggest gold producer, wants to change its ...",
+     "description": "The latest figures highlight the growing importance of the mining sector as a major contributor to Ghana's economic growth and export revenue.",
+     "position": 7,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/reel/DcVr0SBM70w/",
+     "title": "Ghana just overtook the United States in gold production But ... - Instagram",
+     "description": "Due to illegal mining and lack of accountability Ghana more than likely have produced more than America and several other countries. It's just ...",
+     "position": 8,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DcBVN4TMUed/",
+     "title": "Ghana's growing reliance on gold as a source of foreign exchange ...",
+     "description": "Ghana's growing reliance on gold as a source of foreign exchange and reserve accumulation represents an important shift in the country's economic strategy.",
+     "position": 9,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DUDzmcljOkH/",
+     "title": "now producing more gold than any other country on the continent ...",
+     "description": "Ghana remains the largest gold producer in Africa, producing more gold than any other country on the continent and outpacing competitors like ...",
+     "position": 10,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DaDEGgwlXXV/",
+     "title": "Ghana will require large-scale mining companies to sell 30% of their gold ...",
+     "description": "The figures highlight the growing importance of Ghana's small-scale mining industry and its contribution to the country's gold economy.",
+     "position": 11,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DTxEozXiLEQ/",
+     "title": "GoldBod Transforms Ghana's Gold Sector as Tanzania ... - Instagram",
+     "description": "✓ Ghana recorded about US$20 billion in gold export earnings. ✓ Gold became Ghana's biggest export earner. ✓ Ghana produced about 6 million ...",
+     "position": 12,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DbGueZzlevj/",
+     "title": "The World Gold Council and Ghana signed an agreement to create a ...",
+     "description": "The World Gold Council and Ghana signed an agreement to create a formal framework for artisanal and small-scale gold mining (ASGM), aiming to ...",
+     "position": 13,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    },
+    {
+     "url": "https://www.instagram.com/p/DVrBkQJiBX6/",
+     "title": "Ghana is moving to transform a long standing gold smuggling problem ...",
+     "description": "The government has created the Ghana Gold Board to purchase gold directly from licensed miners and channel it through official export systems.",
+     "position": 14,
+     "_source": "web",
+     "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64"
+    }
+   ],
+   "credits": 4
+  }
+ ]
+}

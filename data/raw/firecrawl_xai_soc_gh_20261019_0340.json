@@ -1,0 +1,115 @@
+{
+ "query": "Ghana government GoldBod mining gold economy policy",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/GhanaGOLDBOD/status/2111124367060918751",
+     "title": "The Ghana cedi has recorded four consecutive trading days of appreciation, closing at GH¢11.65 to the US dollar on Thursday, 15 October 2026.",
+     "description": "The Ghana cedi has recorded four consecutive trading days of appreciation, closing at GH¢11.65 to the US dollar on Thursday, 15 October 2026. This represents a 1.5% gain since 7 October 2026.\n\nThe recovery reflects improved dollar liquidity in the foreign exchange market, supported by the Ghana Gold Board's direct supply of foreign exchange to commercial banks.\n\nA stronger cedi helps reduce the cost of imports, including petroleum products, and provides relief to businesses and consumers at a time of rising pressure on fuel prices.\n\nThe GoldBod remains committed to sustaining foreign exchange supply to the market in support of currency stability and Ghana's broader economic resilience.\n\n#GoldBod #GhanaGold",
+     "snippet": "The Ghana cedi has recorded four consecutive trading days of appreciation, closing at GH¢11.65 to the US dollar on Thursday, 15 October 2026. This represents a 1.5% gain since 7 October 2026.\n\nThe recovery reflects improved dollar liquidity in the foreign exchange market, supported by the Ghana Gold Board's direct supply of foreign exchange to commercial banks.\n\nA stronger cedi helps reduce the cost of imports, including petroleum products, and provides relief to businesses and consumers at a time of rising pressure on fuel prices.\n\nThe GoldBod remains committed to sustaining foreign exchange supply to the market in support of currency stability and Ghana's broader economic resilience.\n\n#GoldBod #GhanaGold",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ghana Gold Board (GoldBod)",
+     "handle": "@GhanaGOLDBOD"
+    },
+    {
+     "url": "https://x.com/_moneyguide/status/2111469227953848740",
+     "title": "Ghana has a gold-to-dollar-to-gold loop.",
+     "description": "Ghana has a gold-to-dollar-to-gold loop. \n\nGoldBod sold $282m to commercial banks last week.\n\nThe dollars help meet demand for foreign currency. The cedis GoldBod receives help finance more gold purchases.\n\nGold isn't just an export. It also helps supply the dollars Ghana needs",
+     "snippet": "Ghana has a gold-to-dollar-to-gold loop. \n\nGoldBod sold $282m to commercial banks last week.\n\nThe dollars help meet demand for foreign currency. The cedis GoldBod receives help finance more gold purchases.\n\nGold isn't just an export. It also helps supply the dollars Ghana needs",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Money Guide",
+     "handle": "@_moneyguide"
+    },
+    {
+     "url": "https://x.com/thecindyyy_/status/2111732605733274014",
+     "title": "Two quiet but important shifts in how Ghana is financing itself.",
+     "description": "Two quiet but important shifts in how Ghana is financing itself. COCOBOD is raising money locally on the stock exchange to buy cocoa this season instead of leaning as heavily on external loans. At the same time, GoldBod has been selling hundreds of millions of dollars from gold operations into the banking system, giving banks more foreign exchange and offering the cedi some breathing room.\nNeither of these is magic. Farmers still need to be paid properly, and businesses still need dollars at reasonable rates. But they are examples of trying to manage with more of our own resources. The question for ordinary people is whether the stability reaches the market, the farmgate and the shop shelf.\n#SocietyAndDiplomacy",
+     "snippet": "Two quiet but important shifts in how Ghana is financing itself. COCOBOD is raising money locally on the stock exchange to buy cocoa this season instead of leaning as heavily on external loans. At the same time, GoldBod has been selling hundreds of millions of dollars from gold operations into the banking system, giving banks more foreign exchange and offering the cedi some breathing room.\nNeither of these is magic. Farmers still need to be paid properly, and businesses still need dollars at reasonable rates. But they are examples of trying to manage with more of our own resources. The question for ordinary people is whether the stability reaches the market, the farmgate and the shop shelf.\n#SocietyAndDiplomacy",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Halima Abdullah (Cindy Official)",
+     "handle": "@thecindyyy_"
+    },
+    {
+     "url": "https://x.com/JerryXhandle/status/2110937937097499005",
+     "title": "🤣A TENSE EXCHANGE BETWEEN PAC CHAIR ABENA OSEI-ASARE (NPP MP) & GOLDBOD CEO SAMMY GYAMFI October 13, 2026 Public Accounts Committee hearing",
+     "description": "🤣A TENSE EXCHANGE BETWEEN PAC CHAIR ABENA OSEI-ASARE (NPP MP) & GOLDBOD CEO SAMMY GYAMFI\n\nOctober 13, 2026 Public Accounts Committee hearing featuring a tense exchange between PAC Chair Abena Osei-Asare (NPP MP) and GoldBod CEO Sammy Gyamfi over alleged $1.7 billion losses tied to the Bank of Ghana's Domestic Gold Purchase Programme.\n\nGoldBod, created in 2025 under the GoldBod Act to formalize small-scale gold trading, generate foreign exchange, and support reserves, reported operational and overall surpluses in 2025.",
+     "snippet": "🤣A TENSE EXCHANGE BETWEEN PAC CHAIR ABENA OSEI-ASARE (NPP MP) & GOLDBOD CEO SAMMY GYAMFI\n\nOctober 13, 2026 Public Accounts Committee hearing featuring a tense exchange between PAC Chair Abena Osei-Asare (NPP MP) and GoldBod CEO Sammy Gyamfi over alleged $1.7 billion losses tied to the Bank of Ghana's Domestic Gold Purchase Programme.\n\nGoldBod, created in 2025 under the GoldBod Act to formalize small-scale gold trading, generate foreign exchange, and support reserves, reported operational and overall surpluses in 2025.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "JerryXHub💫",
+     "handle": "@JerryXhandle"
+    },
+    {
+     "url": "https://x.com/thomasjeff007/status/2111869166034579888",
+     "title": "His government is sleepwalking into a serious economic crisis.",
+     "description": "His government is sleepwalking into a serious economic crisis. The fundamental mistake was abandoning the GH¢16-to-the-dollar exchange rate he inherited and pursuing a currency policy that appears increasingly costly to sustain. He is now reportedly committing roughly $1.2 billion a month in gold-related foreign exchange interventions to keep the cedi around GH¢11 to the dollar, while the economy struggles to create jobs for an estimated 500,000 people entering the labour market every year.\n\nWhat is the point of defending the cedi at such a high cost if the economy is not generating enough productive jobs, expanding exports, and building sustainable sources of foreign exchange? A stronger currency means little if it rests on costly interventions rather than stronger fundamentals.\n\nThis is precisely the kind of economic strategy that demands urgent scrutiny. The government must explain the true cost of these interventions, their sustainability, and the measurable benefits they deliver to ordinary Ghanaians. What is even more troubling is the apparent absence of an urgent push from those closest to the president for a fundamental policy reassessment. Ghana cannot afford to confuse short-term currency stability with genuine economic recovery. The country needs a credible course correction before the costs become even harder to reverse.",
+     "snippet": "His government is sleepwalking into a serious economic crisis. The fundamental mistake was abandoning the GH¢16-to-the-dollar exchange rate he inherited and pursuing a currency policy that appears increasingly costly to sustain. He is now reportedly committing roughly $1.2 billion a month in gold-related foreign exchange interventions to keep the cedi around GH¢11 to the dollar, while the economy struggles to create jobs for an estimated 500,000 people entering the labour market every year.\n\nWhat is the point of defending the cedi at such a high cost if the economy is not generating enough productive jobs, expanding exports, and building sustainable sources of foreign exchange? A stronger currency means little if it rests on costly interventions rather than stronger fundamentals.\n\nThis is precisely the kind of economic strategy that demands urgent scrutiny. The government must explain the true cost of these interventions, their sustainability, and the measurable benefits they deliver to ordinary Ghanaians. What is even more troubling is the apparent absence of an urgent push from those closest to the president for a fundamental policy reassessment. Ghana cannot afford to confuse short-term currency stability with genuine economic recovery. The country needs a credible course correction before the costs become even harder to reverse.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "thomas jefferson",
+     "handle": "@thomasjeff007"
+    },
+    {
+     "url": "https://x.com/tv3_ghana/status/2111797355691307209",
+     "title": "Galamsey Fight: The Ghana Gold Board (GoldBod) partnered with the Ghana Armed Forces Engineer Regiment to undertake a GH¢35 million land rec",
+     "description": "Galamsey Fight: The Ghana Gold Board (GoldBod) partnered with the Ghana Armed Forces Engineer Regiment to undertake a GH¢35 million land reclamation project aimed at restoring portions of the Tano Nimri Forest Reserve devastated by illegal mining.\n\n- Felix Kwakye-Ofosu, Minister in charge of Government Communications\n\n#TheKeyPoints #TV3GH",
+     "snippet": "Galamsey Fight: The Ghana Gold Board (GoldBod) partnered with the Ghana Armed Forces Engineer Regiment to undertake a GH¢35 million land reclamation project aimed at restoring portions of the Tano Nimri Forest Reserve devastated by illegal mining.\n\n- Felix Kwakye-Ofosu, Minister in charge of Government Communications\n\n#TheKeyPoints #TV3GH",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#TV3GH",
+     "handle": "@tv3_ghana"
+    },
+    {
+     "url": "https://x.com/thevaultznews_/status/2111096050219921408",
+     "title": "The intervention highlights GoldBod’s active role in channeling earnings from the country’s precious mineral resources directly into the dom",
+     "description": "The intervention highlights GoldBod’s active role in channeling earnings from the country’s precious mineral resources directly into the domestic banking ecosystem.\nhttps://thevaultznews.com/2026/10/16/goldbod-sells-282m-weekly-fx-to-commercial-banks/\n#GhanaNews #energynews #thevaultznews #extractives #ghana #InvestInGhana",
+     "snippet": "The intervention highlights GoldBod’s active role in channeling earnings from the country’s precious mineral resources directly into the domestic banking ecosystem.\nhttps://thevaultznews.com/2026/10/16/goldbod-sells-282m-weekly-fx-to-commercial-banks/\n#GhanaNews #energynews #thevaultznews #extractives #ghana #InvestInGhana",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "THE VAULTZ NEWS - OFFICIAL",
+     "handle": "@thevaultznews_"
+    },
+    {
+     "url": "https://x.com/JerryXhandle/status/2111353560948433100",
+     "title": "🤣HON. ABENA OSEI-ASARE OF PAC VS GOLDBOD & SAMMY GYAMFI The confrontation between Hon. Abena Osei-Asare (Chairperson of Parliament's Public",
+     "description": "🤣HON. ABENA OSEI-ASARE OF PAC VS GOLDBOD & SAMMY GYAMFI\n\nThe confrontation between Hon. Abena Osei-Asare (Chairperson of Parliament's Public Accounts Committee - PAC) and Sammy Gyamfi (CEO of the Ghana Gold Board / GoldBod).\n\n🦾Sammy Gyamfi reiterated that the cited $1.7 billion figure does not feature in GoldBod’s financial ledgers, noting that Bank of Ghana representatives would need to clarify central bank-level figures.",
+     "snippet": "🤣HON. ABENA OSEI-ASARE OF PAC VS GOLDBOD & SAMMY GYAMFI\n\nThe confrontation between Hon. Abena Osei-Asare (Chairperson of Parliament's Public Accounts Committee - PAC) and Sammy Gyamfi (CEO of the Ghana Gold Board / GoldBod).\n\n🦾Sammy Gyamfi reiterated that the cited $1.7 billion figure does not feature in GoldBod’s financial ledgers, noting that Bank of Ghana representatives would need to clarify central bank-level figures.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "JerryXHub💫",
+     "handle": "@JerryXhandle"
+    },
+    {
+     "url": "https://x.com/Mic_ky6/status/2111934497075695975",
+     "title": "GoldBod Resumes Major Gold Exports, Boosting Ghana’s Foreign Reserves Read on Wallflake: https://wallflake.com/news/goldbod-resumes-major-go",
+     "description": "GoldBod Resumes Major Gold Exports, Boosting Ghana’s Foreign Reserves\n\nRead on Wallflake: https://wallflake.com/news/goldbod-resumes-major-gold-exports-boosting-ghanas-foreign-reserves",
+     "snippet": "GoldBod Resumes Major Gold Exports, Boosting Ghana’s Foreign Reserves\n\nRead on Wallflake: https://wallflake.com/news/goldbod-resumes-major-gold-exports-boosting-ghanas-foreign-reserves",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mic_ky",
+     "handle": "@Mic_ky6"
+    },
+    {
+     "url": "https://x.com/ObourKingsley/status/2111186404650750071",
+     "title": "\"The NDC and the current Bank of Ghana Governor, while in opposition, said Dr.",
+     "description": "\"The NDC and the current Bank of Ghana Governor, while in opposition, said Dr. Bawumia's Gold Purchase Programme wasn't sustainable, yet they have now changed its name to GoldBod.\"",
+     "snippet": "\"The NDC and the current Bank of Ghana Governor, while in opposition, said Dr. Bawumia's Gold Purchase Programme wasn't sustainable, yet they have now changed its name to GoldBod.\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "LIL KAY",
+     "handle": "@ObourKingsley"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "query": "Nigeria mining lithium gold minerals policy",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AJEnglish/status/2111141667210416520",
+     "title": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the global clean energy race.",
+     "description": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the global clean energy race. But as investment grows, they say they face unsafe working conditions, child labour concerns and communities still waiting to see the benefits.",
+     "snippet": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the global clean energy race. But as investment grows, they say they face unsafe working conditions, child labour concerns and communities still waiting to see the benefits.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Al Jazeera English",
+     "handle": "@AJEnglish"
+    },
+    {
+     "url": "https://x.com/MikeArnoldTruth/status/2111206160028070294",
+     "title": "Terms of the Nigeria-US Critical Minerals Framework have been released.",
+     "description": "Terms of the Nigeria-US Critical Minerals Framework have been released. Signed September 23 at the UN, it is non-binding. No money committed. No rights transferred. Just an expression of shared intent.\n\nWhat it does enable is the shift Nigeria actually needs: processing minerals inside the country instead of shipping out raw ore and letting others capture the value.\n\nThe framework covers cooperation on geological data, exploration, mineral development and processing, infrastructure, and technical capacity building.\n\nI have long stated that Nigeria must be in the business of mineral processing. This agreement drives local processing, skills development, and jobs for Nigerians—so that Nigeria doesn't remain merely a raw-materials supplier.\n\nThat matters. Chinese operators have largely brought their own nationals for skilled work. A US-aligned push toward domestic processing creates Nigerian jobs and business opportunities instead of just extraction for export.\n\nRight now the dominant model is to massacre a community then illegally strip-mine their land. The river of blood money from that looting keeps the violence going. I’ve stood in Bokkos and seen the mounds left behind.\n\nThis framework is so much better -- transparent, legal, nonviolent, environmentally clean, and benefitting the people who live on the land -- and it creates the conditions for Nigeria to keep more of the value at home.\n\nIt also gives the US a concrete national interest in stability. So it's not an unsustainable \"foreign adventure\" for the US to fight the jihadis and protect the innocent; rather, it's in our national interest. This makes all the difference when it comes to being able to do the needful to establish peace and justice.\n\nAny real alternative is better to the existing blood mineral economy. \n\n#EarthShaker",
+     "snippet": "Terms of the Nigeria-US Critical Minerals Framework have been released. Signed September 23 at the UN, it is non-binding. No money committed. No rights transferred. Just an expression of shared intent.\n\nWhat it does enable is the shift Nigeria actually needs: processing minerals inside the country instead of shipping out raw ore and letting others capture the value.\n\nThe framework covers cooperation on geological data, exploration, mineral development and processing, infrastructure, and technical capacity building.\n\nI have long stated that Nigeria must be in the business of mineral processing. This agreement drives local processing, skills development, and jobs for Nigerians—so that Nigeria doesn't remain merely a raw-materials supplier.\n\nThat matters. Chinese operators have largely brought their own nationals for skilled work. A US-aligned push toward domestic processing creates Nigerian jobs and business opportunities instead of just extraction for export.\n\nRight now the dominant model is to massacre a community then illegally strip-mine their land. The river of blood money from that looting keeps the violence going. I’ve stood in Bokkos and seen the mounds left behind.\n\nThis framework is so much better -- transparent, legal, nonviolent, environmentally clean, and benefitting the people who live on the land -- and it creates the conditions for Nigeria to keep more of the value at home.\n\nIt also gives the US a concrete national interest in stability. So it's not an unsustainable \"foreign adventure\" for the US to fight the jihadis and protect the innocent; rather, it's in our national interest. This makes all the difference when it comes to being able to do the needful to establish peace and justice.\n\nAny real alternative is better to the existing blood mineral economy. \n\n#EarthShaker",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mike Arnold",
+     "handle": "@MikeArnoldTruth"
+    },
+    {
+     "url": "https://x.com/ruffydfire/status/2111068363644403971",
+     "title": "*Lawyers for Civil Liberties* recently submitted a Freedom of Information request seeking documents relating to the Nigeria-United States Cr",
+     "description": "*Lawyers for Civil Liberties*  recently submitted a Freedom of Information request seeking documents relating to the Nigeria-United States Critical Minerals Framework Agreement.\n\nThe government has responded, providing a copy of the signed framework and explanations concerning its non-binding nature and the widely cited $700 billion valuation of Nigeria’s mineral resources.\n\nGiven the public interest in Nigeria’s critical minerals and  the implications of the agreement, we believe Nigerians should have access to the government’s response and the documents provided.\n\n*We are therefore sharing the response for public information and scrutiny.*",
+     "snippet": "*Lawyers for Civil Liberties*  recently submitted a Freedom of Information request seeking documents relating to the Nigeria-United States Critical Minerals Framework Agreement.\n\nThe government has responded, providing a copy of the signed framework and explanations concerning its non-binding nature and the widely cited $700 billion valuation of Nigeria’s mineral resources.\n\nGiven the public interest in Nigeria’s critical minerals and  the implications of the agreement, we believe Nigerians should have access to the government’s response and the documents provided.\n\n*We are therefore sharing the response for public information and scrutiny.*",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "oseni rufai",
+     "handle": "@ruffydfire"
+    },
+    {
+     "url": "https://x.com/grok/status/2111115842804941033",
+     "title": "The Nigeria-US Critical Minerals Framework (signed 23 Sept 2026) is a non-binding policy plan for cooperation on mining, processing, investm",
+     "description": "The Nigeria-US Critical Minerals Framework (signed 23 Sept 2026) is a non-binding policy plan for cooperation on mining, processing, investment, geological mapping, recycling and supply-chain security for critical minerals and rare earths. No legal obligations or fixed funding.\n\nFor Nigeria: attracts US capital and expertise for local processing, jobs, skills and value addition beyond raw exports; aids resource mapping.\n\nFor USA: diversifies secure supplies for tech, defence and industry; first-look investment options in Nigerian assets; reduces reliance on other sources.\n\nThe $700bn figure is Nigeria’s preliminary mineral-wealth estimate, not committed money.",
+     "snippet": "The Nigeria-US Critical Minerals Framework (signed 23 Sept 2026) is a non-binding policy plan for cooperation on mining, processing, investment, geological mapping, recycling and supply-chain security for critical minerals and rare earths. No legal obligations or fixed funding.\n\nFor Nigeria: attracts US capital and expertise for local processing, jobs, skills and value addition beyond raw exports; aids resource mapping.\n\nFor USA: diversifies secure supplies for tech, defence and industry; first-look investment options in Nigerian assets; reduces reliance on other sources.\n\nThe $700bn figure is Nigeria’s preliminary mineral-wealth estimate, not committed money.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/Milatrud11/status/2111939028580995463",
+     "title": "Nigeria: A military-backed operation has shut down a major illegal gold mining operation in Gashaka-Gumti National Park(Taraba & Adamawa sta",
+     "description": "Nigeria: A military-backed operation has shut down a major illegal gold mining operation in Gashaka-Gumti National Park(Taraba & Adamawa states)\n4,000+ miners left the site,according to the Africa Nature Investors (ANI)Foundation.\nBut can it keep them out? https://news.mongabay.com/2026/10/nigeria-drove-thousands-of-gold-miners-from-a-national-park-but-can-it-keep-them-out/amp/",
+     "snippet": "Nigeria: A military-backed operation has shut down a major illegal gold mining operation in Gashaka-Gumti National Park(Taraba & Adamawa states)\n4,000+ miners left the site,according to the Africa Nature Investors (ANI)Foundation.\nBut can it keep them out? https://news.mongabay.com/2026/10/nigeria-drove-thousands-of-gold-miners-from-a-national-park-but-can-it-keep-them-out/amp/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mila",
+     "handle": "@Milatrud11"
+    },
+    {
+     "url": "https://x.com/WorldBriefDaily/status/2111907790046269489",
+     "title": "A military-backed operation shut down the Kila gold-mining site in Nigeria’s Gashaka-Gumti National Park in July, driving more than 4,000 mi",
+     "description": "A military-backed operation shut down the Kila gold-mining site in Nigeria’s Gashaka-Gumti National Park in July, driving more than 4,000 miners out, according to the Africa Nature Investors Foundation. Bulldozers filled the pits and shafts, but park officials warn the miners could return as economic pressures persist.",
+     "snippet": "A military-backed operation shut down the Kila gold-mining site in Nigeria’s Gashaka-Gumti National Park in July, driving more than 4,000 miners out, according to the Africa Nature Investors Foundation. Bulldozers filled the pits and shafts, but park officials warn the miners could return as economic pressures persist.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WorldBriefDaily",
+     "handle": "@WorldBriefDaily"
+    },
+    {
+     "url": "https://x.com/lagoswhitelion/status/2111536365905277415",
+     "title": "Lithium in Nassarawa state, Nigeria.",
+     "description": "Lithium in Nassarawa state, Nigeria.\n\nA mineral resource under the exclusive legislative control of the Federal Government.\n\nNigeria’s journey to producing finished lithium batteries, vehicles, & solar panels entirely within Nigeria is bleaker than ever.\n\n#WeCantContinueLikeThis",
+     "snippet": "Lithium in Nassarawa state, Nigeria.\n\nA mineral resource under the exclusive legislative control of the Federal Government.\n\nNigeria’s journey to producing finished lithium batteries, vehicles, & solar panels entirely within Nigeria is bleaker than ever.\n\n#WeCantContinueLikeThis",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Adebisi Ismail",
+     "handle": "@lagoswhitelion"
+    },
+    {
+     "url": "https://x.com/mindaffairss/status/2111410900213060086",
+     "title": "America and Europe are not our problem; our own leaders are.",
+     "description": "America and Europe are not our problem; our own leaders are.\n\nNigeria sits on vast verified deposits of high-grade Lithium, Gold, and Uranium—the exact critical minerals driving the global energy transition and the AI hardware race.\n\nYet, our economic architecture remains completely frozen in the past. \n\nWe maintain a centralized national board to manage and share crude oil revenues, while these trillion-dollar future assets are left largely unindustrialized or lost to informal, unregulated extraction.\n\nThose funding the insecurity are doing so to keep extracting it.",
+     "snippet": "America and Europe are not our problem; our own leaders are.\n\nNigeria sits on vast verified deposits of high-grade Lithium, Gold, and Uranium—the exact critical minerals driving the global energy transition and the AI hardware race.\n\nYet, our economic architecture remains completely frozen in the past. \n\nWe maintain a centralized national board to manage and share crude oil revenues, while these trillion-dollar future assets are left largely unindustrialized or lost to informal, unregulated extraction.\n\nThose funding the insecurity are doing so to keep extracting it.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ifeanyi Chukwuani",
+     "handle": "@mindaffairss"
+    },
+    {
+     "url": "https://x.com/chukavigi/status/2111387532978221319",
+     "title": "I work in one of the mines here, it's clearly the heart of lithium in Nigeria.",
+     "description": "I work in one of the mines here, it's clearly the heart of lithium in Nigeria.  \n\nMining is majorly artisanal with Chinese firms quarrying underground. The communities receive except they too are heavily involved in the mining process.",
+     "snippet": "I work in one of the mines here, it's clearly the heart of lithium in Nigeria.  \n\nMining is majorly artisanal with Chinese firms quarrying underground. The communities receive except they too are heavily involved in the mining process.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Neph!!",
+     "handle": "@chukavigi"
+    },
+    {
+     "url": "https://x.com/mydeji247/status/2111352178182951200",
+     "title": "As it was in the Colonial Economy, so is it in 2026.",
+     "description": "As it was in the Colonial Economy, so is it in 2026. Are we cursed? \n\nAttract and Incentivise Industries that need Lithium to establish companies in Nasarawa State: No. \n\nAttract Gold Refining Companies to Ilesha and Zamfara, we don't need to export raw gold: NoO\n\nNa wa for us.",
+     "snippet": "As it was in the Colonial Economy, so is it in 2026. Are we cursed? \n\nAttract and Incentivise Industries that need Lithium to establish companies in Nasarawa State: No. \n\nAttract Gold Refining Companies to Ilesha and Zamfara, we don't need to export raw gold: NoO\n\nNa wa for us.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Deji Teye",
+     "handle": "@mydeji247"
+    }
+   ]
+  }
+ ]
+}

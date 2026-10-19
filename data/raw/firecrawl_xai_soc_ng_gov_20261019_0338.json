@@ -1,0 +1,115 @@
+{
+ "query": "Nigeria Federal Government ministry announcement policy",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/thenationpost_/status/2111760496487481496",
+     "title": "Federal universities in Nigeria are set to have greater freedom to recruit staff following the Federal Government’s decision to remove the r",
+     "description": "Federal universities in Nigeria are set to have greater freedom to recruit staff following the Federal Government’s decision to remove the requirement for recruitment waivers, President Bola Tinubu has said.\n\nTinubu disclosed the policy change on Saturday through Sunny Echono, Executive Secretary of the Tertiary Education Trust Fund (TETFund), who represented him at the maiden convocation ceremony of the Federal University of Health Sciences, Azare, in Bauchi State.\n\nAccording to the President, the reform is intended to strengthen institutional autonomy and enable universities to recruit academic and non-academic staff according to their manpower needs without seeking approval from the Office of the Head of the Civil Service of the Federation.\n\nHe also said the government was working towards a payroll system better suited to the needs of universities, with the aim of helping them attract and retain qualified personnel.\n\nTinubu’s address also highlighted education funding and research. He disclosed that 1,798 FUHSA students benefited from the Nigerian Education Loan Fund during the 2025/2026 academic session, representing 43 per cent of the university’s student population.\n\nHe further announced that the Federal Government had provided ₦10 billion for the National Research Fund in 2026 through TETFund, urging universities, particularly those specialising in health sciences, to pursue research that addresses Nigeria’s health challenges.\n\nThe President also pledged continued attention to staff welfare, professional development and campus security, including through the Safe School Initiative.\n\nAt the ceremony, FUHSA Vice-Chancellor, Professor Bala Mohammed Audu, said the university had established 22 academic programmes in fewer than five years. Of the 13 programmes that had reached the accreditation stage, 11 received full accreditation while two received interim accreditation.\n\nAudu also announced that the university had graduated 50 pioneer students from its Human Nutrition and Dietetics department, including three first-class graduates. He said the students developed more than 34 value-added nutritional products during their training, some with commercial potential.\n\nThe vice-chancellor called for a review of the decision to extend the nutrition programme from four years to five under the Core Curriculum Minimum Academic Standards.",
+     "snippet": "Federal universities in Nigeria are set to have greater freedom to recruit staff following the Federal Government’s decision to remove the requirement for recruitment waivers, President Bola Tinubu has said.\n\nTinubu disclosed the policy change on Saturday through Sunny Echono, Executive Secretary of the Tertiary Education Trust Fund (TETFund), who represented him at the maiden convocation ceremony of the Federal University of Health Sciences, Azare, in Bauchi State.\n\nAccording to the President, the reform is intended to strengthen institutional autonomy and enable universities to recruit academic and non-academic staff according to their manpower needs without seeking approval from the Office of the Head of the Civil Service of the Federation.\n\nHe also said the government was working towards a payroll system better suited to the needs of universities, with the aim of helping them attract and retain qualified personnel.\n\nTinubu’s address also highlighted education funding and research. He disclosed that 1,798 FUHSA students benefited from the Nigerian Education Loan Fund during the 2025/2026 academic session, representing 43 per cent of the university’s student population.\n\nHe further announced that the Federal Government had provided ₦10 billion for the National Research Fund in 2026 through TETFund, urging universities, particularly those specialising in health sciences, to pursue research that addresses Nigeria’s health challenges.\n\nThe President also pledged continued attention to staff welfare, professional development and campus security, including through the Safe School Initiative.\n\nAt the ceremony, FUHSA Vice-Chancellor, Professor Bala Mohammed Audu, said the university had established 22 academic programmes in fewer than five years. Of the 13 programmes that had reached the accreditation stage, 11 received full accreditation while two received interim accreditation.\n\nAudu also announced that the university had graduated 50 pioneer students from its Human Nutrition and Dietetics department, including three first-class graduates. He said the students developed more than 34 value-added nutritional products during their training, some with commercial potential.\n\nThe vice-chancellor called for a review of the decision to extend the nutrition programme from four years to five under the Core Curriculum Minimum Academic Standards.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Nation Post",
+     "handle": "@thenationpost_"
+    },
+    {
+     "url": "https://x.com/DailyCircularNg/status/2111590765327765976",
+     "title": "President Bola Tinubu @officialABAT has exempted federal universities from obtaining recruitment waivers from the Office of the Head of the",
+     "description": "President Bola Tinubu @officialABAT has exempted federal universities from obtaining recruitment waivers from the Office of the Head of the Civil Service of the Federation (OHCSF), giving university governing councils greater control over staff hiring. \n\nHe also announced plans to move tertiary institutions from Integrated Personnel and Payroll Information System (IPPIS) to Government Integrated Financial Management Information System (GIFMIS) and confirmed ₦10 billion for the National Research Fund in 2026.\n\nRead more:",
+     "snippet": "President Bola Tinubu @officialABAT has exempted federal universities from obtaining recruitment waivers from the Office of the Head of the Civil Service of the Federation (OHCSF), giving university governing councils greater control over staff hiring. \n\nHe also announced plans to move tertiary institutions from Integrated Personnel and Payroll Information System (IPPIS) to Government Integrated Financial Management Information System (GIFMIS) and confirmed ₦10 billion for the National Research Fund in 2026.\n\nRead more:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Daily Circular",
+     "handle": "@DailyCircularNg"
+    },
+    {
+     "url": "https://x.com/thecableng/status/2111764262997626999",
+     "title": "EU to provide €20m in defence support to Nigerian military The European Union (EU) has pledged €20 million in defence support to the Armed F",
+     "description": "EU to provide €20m in defence support to Nigerian military\n\nThe European Union (EU) has pledged €20 million in defence support to the Armed Forces of Nigeria (AFN).\n\nLeah Katung-Babatunde, special assistant on media to the minister of defence, announced the development in a statement on Saturday.",
+     "snippet": "EU to provide €20m in defence support to Nigerian military\n\nThe European Union (EU) has pledged €20 million in defence support to the Armed Forces of Nigeria (AFN).\n\nLeah Katung-Babatunde, special assistant on media to the minister of defence, announced the development in a statement on Saturday.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TheCable",
+     "handle": "@thecableng"
+    },
+    {
+     "url": "https://x.com/nsem360/status/2111735473899221178",
+     "title": "Nigeria’s Minister of Defence, retired General Christopher Musa, has announced that the European Union (EU) will provide €20 million in defe",
+     "description": "Nigeria’s Minister of Defence, retired General Christopher Musa, has announced that the European Union (EU) will provide €20 million in defence assistance to support the country’s armed forces in combating insecurity.\n\nTo read more: https://nsem360.com/2026/10/18/eu-pledges-e20m-defence-support-to-nigeria/",
+     "snippet": "Nigeria’s Minister of Defence, retired General Christopher Musa, has announced that the European Union (EU) will provide €20 million in defence assistance to support the country’s armed forces in combating insecurity.\n\nTo read more: https://nsem360.com/2026/10/18/eu-pledges-e20m-defence-support-to-nigeria/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nsem360",
+     "handle": "@nsem360"
+    },
+    {
+     "url": "https://x.com/NGProjectLedger/status/2111196417650004220",
+     "title": "NIGERIA | SOCIAL HOUSING 🇳🇬 Imagine 100 affordable homes in every local government area in Nigeria!",
+     "description": "NIGERIA | SOCIAL HOUSING\n🇳🇬 Imagine 100 affordable homes in every local government area in Nigeria!\n\nThe Federal Government has announced a plan targeting 77,400 social housing units across the country's 774 LGAs.\nBeyond shelter, housing construction could stimulate local demand for cement, roofing materials, transportation and skilled labour.\nHowever, this remains a proposed target, not 77,400 homes under construction.\n\nThe next milestone is identifying funded locations, contractors and actual construction schedules.\n#NGProjectLedger",
+     "snippet": "NIGERIA | SOCIAL HOUSING\n🇳🇬 Imagine 100 affordable homes in every local government area in Nigeria!\n\nThe Federal Government has announced a plan targeting 77,400 social housing units across the country's 774 LGAs.\nBeyond shelter, housing construction could stimulate local demand for cement, roofing materials, transportation and skilled labour.\nHowever, this remains a proposed target, not 77,400 homes under construction.\n\nThe next milestone is identifying funded locations, contractors and actual construction schedules.\n#NGProjectLedger",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Project Ledger",
+     "handle": "@NGProjectLedger"
+    },
+    {
+     "url": "https://x.com/IndependentNGR/status/2111043448891425048",
+     "title": "As the Federal Government has directed ministries, departments and agencies to prioritise locally assembled vehicles in their procurement, q",
+     "description": "As the Federal Government has directed ministries, departments and agencies to prioritise locally assembled vehicles in their procurement, questions remain about whether the policy will deliver on its promises since assembly plants are operating far below capacity, used-vehi­cle imports rising and key procurement figures remain unpublished.\n\nThe Federal Government wants ministries, departments and agencies (MDAs) to buy Nigerian-assembled ve­hicles rather than spend public funds on foreign-built alternatives. The directive is clear, the penalties for non-compliance are severe, and officials say the policy could create jobs, attract investment and revive the country’s struggling automo­tive industry.",
+     "snippet": "As the Federal Government has directed ministries, departments and agencies to prioritise locally assembled vehicles in their procurement, questions remain about whether the policy will deliver on its promises since assembly plants are operating far below capacity, used-vehi­cle imports rising and key procurement figures remain unpublished.\n\nThe Federal Government wants ministries, departments and agencies (MDAs) to buy Nigerian-assembled ve­hicles rather than spend public funds on foreign-built alternatives. The directive is clear, the penalties for non-compliance are severe, and officials say the policy could create jobs, attract investment and revive the country’s struggling automo­tive industry.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Independent Nigeria",
+     "handle": "@IndependentNGR"
+    },
+    {
+     "url": "https://x.com/voiceofnigeria/status/2111149594008506677",
+     "title": "Nigeria’s Minister of Information and National Orientation, Mohammed Idris, has called for stronger grassroots communication to improve publ",
+     "description": "Nigeria’s Minister of Information and National Orientation, Mohammed Idris, has called for stronger grassroots communication to improve public understanding of President Bola Ahmed Tinubu’s reforms. \n\nReceiving Friends of Tinubu Reforms Director-General Agbor Ebipade in Abuja, Idris said partnerships with civil society and support groups were vital to explaining government policies and their expected benefits. \n\nHe commended the group’s plan to publish a compendium of reforms, citing measures including petrol subsidy removal, foreign exchange unification, student loans and infrastructure projects.\n\n#MohammedIdris #RenewedHopeAgenda #TinubuReforms #PublicEngagement #Nigeria",
+     "snippet": "Nigeria’s Minister of Information and National Orientation, Mohammed Idris, has called for stronger grassroots communication to improve public understanding of President Bola Ahmed Tinubu’s reforms. \n\nReceiving Friends of Tinubu Reforms Director-General Agbor Ebipade in Abuja, Idris said partnerships with civil society and support groups were vital to explaining government policies and their expected benefits. \n\nHe commended the group’s plan to publish a compendium of reforms, citing measures including petrol subsidy removal, foreign exchange unification, student loans and infrastructure projects.\n\n#MohammedIdris #RenewedHopeAgenda #TinubuReforms #PublicEngagement #Nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Voice of Nigeria",
+     "handle": "@voiceofnigeria"
+    },
+    {
+     "url": "https://x.com/starnewsngr/status/2111000673303122149",
+     "title": "The Federal Government has reopened the First Niger Bridge linking Onitsha, Anambra State, to Asaba, Delta State, after about 38 days of clo",
+     "description": "The Federal Government has reopened the First Niger Bridge linking Onitsha, Anambra State, to Asaba, Delta State, after about 38 days of closure for emergency rehabilitation works.\n\nThe Minister of Works, David Umahi, announced the reopening on Thursday, October 15, at a ceremony attended by federal and state officials, as well as traditional rulers from the two states.\n\nThe bridge was closed to vehicular traffic on September 7 after the discovery of...\n\nRead more 👇 \nhttps://t.co/VLjHTkfIAf\n\nBy Starnews NG, October 16, 2026\n\nJoin Our Whatsapp Channel",
+     "snippet": "The Federal Government has reopened the First Niger Bridge linking Onitsha, Anambra State, to Asaba, Delta State, after about 38 days of closure for emergency rehabilitation works.\n\nThe Minister of Works, David Umahi, announced the reopening on Thursday, October 15, at a ceremony attended by federal and state officials, as well as traditional rulers from the two states.\n\nThe bridge was closed to vehicular traffic on September 7 after the discovery of...\n\nRead more 👇 \nhttps://t.co/VLjHTkfIAf\n\nBy Starnews NG, October 16, 2026\n\nJoin Our Whatsapp Channel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Starnews Nigeria",
+     "handle": "@starnewsngr"
+    },
+    {
+     "url": "https://x.com/nigerianports/status/2111092639990775914",
+     "title": "The Managing Director, Dr.",
+     "description": "The Managing Director, Dr. @AbuDantsoho, today joined the Honourable Minister of Marine and Blue Economy, Dr. Adegboyega Oyetola, heads of sister agencies, and industry experts to commemorate World Maritime Day.\n\nSpeaking on this year’s theme, “From Policy to Practice: Powering Maritime Excellence,” the Managing Director noted that while sea transport is among the most environmentally friendly modes, the real test lies in the continuous implementation of protective policies. He highlighted how the Nigerian Ports Authority, under his stewardship, has moved from policy to practice by consistently promoting port eco-friendliness.\n\nHe further emphasised the critical role of Nigerian ports in national trade, noting that a greater percentage of export transactions contributing to Nigeria’s ₦12 trillion trade surplus in the second quarter of 2026 passed through the country’s ports.\n\nAs part of the celebration, the Nigerian Ports Authority also presented awards to secondary school students who participated in a quiz competition.\n\n#WorldMaritimeDay2026",
+     "snippet": "The Managing Director, Dr. @AbuDantsoho, today joined the Honourable Minister of Marine and Blue Economy, Dr. Adegboyega Oyetola, heads of sister agencies, and industry experts to commemorate World Maritime Day.\n\nSpeaking on this year’s theme, “From Policy to Practice: Powering Maritime Excellence,” the Managing Director noted that while sea transport is among the most environmentally friendly modes, the real test lies in the continuous implementation of protective policies. He highlighted how the Nigerian Ports Authority, under his stewardship, has moved from policy to practice by consistently promoting port eco-friendliness.\n\nHe further emphasised the critical role of Nigerian ports in national trade, noting that a greater percentage of export transactions contributing to Nigeria’s ₦12 trillion trade surplus in the second quarter of 2026 passed through the country’s ports.\n\nAs part of the celebration, the Nigerian Ports Authority also presented awards to secondary school students who participated in a quiz competition.\n\n#WorldMaritimeDay2026",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nigerian Ports",
+     "handle": "@nigerianports"
+    },
+    {
+     "url": "https://x.com/thesunnigeria/status/2111053344290541639",
+     "title": "The Independent Media and Policy Initiative argues that the Federal Government’s fuel price modulation plan, including a 30-day discount at",
+     "description": "The Independent Media and Policy Initiative argues that the Federal Government’s fuel price modulation plan, including a 30-day discount at NNPCL outlets, is distinct from Atiku Abubakar’s subsidy proposal. https://thesun.ng/impi-fgs-fuel-price-plan-differs-from-atikus-subsidy-proposal/",
+     "snippet": "The Independent Media and Policy Initiative argues that the Federal Government’s fuel price modulation plan, including a 30-day discount at NNPCL outlets, is distinct from Atiku Abubakar’s subsidy proposal. https://thesun.ng/impi-fgs-fuel-price-plan-differs-from-atikus-subsidy-proposal/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Sun Nigeria",
+     "handle": "@thesunnigeria"
+    }
+   ]
+  }
+ ]
+}
