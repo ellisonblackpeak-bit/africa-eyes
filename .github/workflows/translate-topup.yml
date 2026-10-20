@@ -53,10 +53,15 @@ jobs:
           git add -A data data.js
           if git diff --cached --quiet; then
             echo "no change"
-          else
-            git commit -m "data: translation top-up $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "data: translation top-up $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Same race as the refresh workflow: a code commit can land mid-run.
+          git -c rebase.autoStash=true pull --rebase -X ours origin main || {
+            git rebase --abort 2>/dev/null || true
+            git pull --no-rebase -X ours origin main
+          }
+          git push
 
   deploy:
     needs: translate

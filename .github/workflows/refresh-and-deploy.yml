@@ -61,10 +61,19 @@ jobs:
           git add -A data data.js
           if git diff --cached --quiet; then
             echo "no data change"
-          else
-            git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          # A code commit may have landed while this 40-minute job was running
+          # (a manual push, another workflow). A plain `git push` would then be
+          # rejected as non-fast-forward and the freshly fetched data — the whole
+          # point of the run — would be thrown away, as happened on 2026-10-20.
+          # Rebase onto the branch tip and keep OUR data files on conflict.
+          git -c rebase.autoStash=true pull --rebase -X ours origin main || {
+            git rebase --abort 2>/dev/null || true
+            git pull --no-rebase -X ours origin main
+          }
+          git push
 
   deploy:
     needs: refresh
