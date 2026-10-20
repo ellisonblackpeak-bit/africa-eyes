@@ -16,10 +16,10 @@
    "source": "tavily"
   },
   {
-   "title": "GDP (current US$) - Korea, Rep., Mali",
-   "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?most_recent_value_desc=false&locations=KR-ML",
-   "snippet": "GDP (current US$) - Korea, Rep., Mali. Country official statistics ... Yemen, Rep. 2018. 21,606.16. Niger. 2025. 21,646.19. Nicaragua. 2025. 22,237.17.",
-   "published": "Fri, 16 Oct 2026 11:00:00 GMT",
+   "title": "GDP (current US$) - Mali, Brazil",
+   "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ML-BR",
+   "snippet": "GDP (current US$) - Mali, Brazil. Country official statistics, National ... Niger. 2025. 21,646.19. Nigeria. 2025. 290,794.36. North Macedonia. 2025. 19,101.20.",
+   "published": "Mon, 19 Oct 2026 11:00:00 GMT",
    "source": "tavily"
   },
   {
