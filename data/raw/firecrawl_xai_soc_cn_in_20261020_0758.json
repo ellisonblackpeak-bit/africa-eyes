@@ -1,0 +1,115 @@
+{
+ "query": "China India Chinese company border LAC",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/TheMinuend/status/2112206615260893315",
+     "title": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.",
+     "description": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "snippet": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roy",
+     "handle": "@TheMinuend"
+    },
+    {
+     "url": "https://x.com/globaltimesnews/status/2112086460874793052",
+     "title": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet sho",
+     "description": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "snippet": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Times",
+     "handle": "@globaltimesnews"
+    },
+    {
+     "url": "https://x.com/ITGGlobal/status/2111881179200884737",
+     "title": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the",
+     "description": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the 2020 India-China border standoff.\n\nChina called the move “illegal and invalid”, while India reiterated that Ladakh is an integral and inalienable part of the country.\n\nWatch Dragon Diaries only on India Today Global: https://t.co/K2qvaRHpvI\n\n#IndiaChina #Ladakh #IndiaChinaBorder #DragonDiaries #IndiaTodayGlobal",
+     "snippet": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the 2020 India-China border standoff.\n\nChina called the move “illegal and invalid”, while India reiterated that Ladakh is an integral and inalienable part of the country.\n\nWatch Dragon Diaries only on India Today Global: https://t.co/K2qvaRHpvI\n\n#IndiaChina #Ladakh #IndiaChinaBorder #DragonDiaries #IndiaTodayGlobal",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "India Today Global",
+     "handle": "@ITGGlobal"
+    },
+    {
+     "url": "https://x.com/NDTVWorld/status/2111710820615049443",
+     "title": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "description": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "snippet": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NDTV World",
+     "handle": "@NDTVWorld"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2111547929089503632",
+     "title": "China’s expanding footprint around Ladakh and the Wakhan Corridor exposes the stakes of the India-China border dispute, where maps, infrastr",
+     "description": "China’s expanding footprint around Ladakh and the Wakhan Corridor exposes the stakes of the India-China border dispute, where maps, infrastructure and territorial claims are becoming instruments of power.\n\nhttps://chinaglobalsouth.com/2026/10/14/india-china-ladakh-border-dispute-map-wakhan-corridor/",
+     "snippet": "China’s expanding footprint around Ladakh and the Wakhan Corridor exposes the stakes of the India-China border dispute, where maps, infrastructure and territorial claims are becoming instruments of power.\n\nhttps://chinaglobalsouth.com/2026/10/14/india-china-ladakh-border-dispute-map-wakhan-corridor/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/ians_india/status/2112197842483970086",
+     "title": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv.",
+     "description": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv. Tashi Gyalson says, \"Regarding the statement, we have simply put forward the truth. We strongly condemn and criticise the remarks made by Chinese Foreign Ministry spokesperson Mao Ning in the strongest possible terms. Aksai Chin belongs to India and has been illegally occupied by China. Therefore, the land she is referring to does not belong to them. I believe the time has come for us to firmly present our stance and clearly assert our claim in strong terms. The region should no longer be referred to as ‘Aksai Chin’, but as ‘Aksai Bharat’ or ‘Aksai Hind’. It is ours...\"",
+     "snippet": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv. Tashi Gyalson says, \"Regarding the statement, we have simply put forward the truth. We strongly condemn and criticise the remarks made by Chinese Foreign Ministry spokesperson Mao Ning in the strongest possible terms. Aksai Chin belongs to India and has been illegally occupied by China. Therefore, the land she is referring to does not belong to them. I believe the time has come for us to firmly present our stance and clearly assert our claim in strong terms. The region should no longer be referred to as ‘Aksai Chin’, but as ‘Aksai Bharat’ or ‘Aksai Hind’. It is ours...\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "IANS",
+     "handle": "@ians_india"
+    },
+    {
+     "url": "https://x.com/thefirstindia/status/2111356288286519714",
+     "title": "Diplomatic friction flares up as China strongly opposes India's move to standardise the names of 28 strategic locations in Ladakh.",
+     "description": "Diplomatic friction flares up as China strongly opposes India's move to standardise the names of 28 strategic locations in Ladakh.\nFor more :https://firstindia.co.in/epapers/jaipur/17102026\n\n#IndiaChinaRelations #Ladakh #BorderDispute #Geopolitics #LineOfActualControl #MEAIndia #Diplomacy #BreakingNews",
+     "snippet": "Diplomatic friction flares up as China strongly opposes India's move to standardise the names of 28 strategic locations in Ladakh.\nFor more :https://firstindia.co.in/epapers/jaipur/17102026\n\n#IndiaChinaRelations #Ladakh #BorderDispute #Geopolitics #LineOfActualControl #MEAIndia #Diplomacy #BreakingNews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First India",
+     "handle": "@thefirstindia"
+    },
+    {
+     "url": "https://x.com/Dragonobserwer/status/2111741056387842371",
+     "title": "On how India manages to treat China as a hostile country every day, openly teaches how to divide and confront China, forms cliques everywher",
+     "description": "On how India manages to treat China as a hostile country every day, openly teaches how to divide and confront China, forms cliques everywhere in geopolitics to contain China, creates conflicts and terrorist attacks at the border, and deceives Chinese companies by deceiving and deceiving Chinese companies to shout for replacing China's N+1 with the final look of frustration: Why is China unwilling to transfer technology to India and instead send engineers to teach India?\n\nWhy doesn't India give China everything north of Henghe?\n\nOr maybe we're just too kind. When Western countries first mastered the selection technology, whatever they said was accepted. Countries in Asia, Africa, and Latin America would honestly pay and endure a lot of frustration. When we endure hardships and master advanced technology, some confused countries always jump in to share with us. Isn't that bullying honest people? 7/n \n@5623_vikram",
+     "snippet": "On how India manages to treat China as a hostile country every day, openly teaches how to divide and confront China, forms cliques everywhere in geopolitics to contain China, creates conflicts and terrorist attacks at the border, and deceives Chinese companies by deceiving and deceiving Chinese companies to shout for replacing China's N+1 with the final look of frustration: Why is China unwilling to transfer technology to India and instead send engineers to teach India?\n\nWhy doesn't India give China everything north of Henghe?\n\nOr maybe we're just too kind. When Western countries first mastered the selection technology, whatever they said was accepted. Countries in Asia, Africa, and Latin America would honestly pay and endure a lot of frustration. When we endure hardships and master advanced technology, some confused countries always jump in to share with us. Isn't that bullying honest people? 7/n \n@5623_vikram",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DRAGON OBSERVER",
+     "handle": "@Dragonobserwer"
+    },
+    {
+     "url": "https://x.com/odishabashi/status/2112183380901318895",
+     "title": "Even State wise (Odisha) Everystep Self-reliance on technologies and hardcore mfg.",
+     "description": "Even State wise (Odisha)\nEverystep Self-reliance on technologies and hardcore mfg. Capabilities matters !!\n👇 \nChina imposes export controls on tunnel-boring machines sought by India, citing ‘national security’ - The Hindu https://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece/amp/",
+     "snippet": "Even State wise (Odisha)\nEverystep Self-reliance on technologies and hardcore mfg. Capabilities matters !!\n👇 \nChina imposes export controls on tunnel-boring machines sought by India, citing ‘national security’ - The Hindu https://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece/amp/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Odimaa",
+     "handle": "@odishabashi"
+    },
+    {
+     "url": "https://x.com/ITGGlobal/status/2112191981355184474",
+     "title": "India’s Zorawar light tank faces a crucial design dilemma as the Army seeks stronger armour without compromising the speed and agility neede",
+     "description": "India’s Zorawar light tank faces a crucial design dilemma as the Army seeks stronger armour without compromising the speed and agility needed along the China border.\n\nDeveloped for high-altitude warfare after the 2020 Ladakh standoff, the tank could gain weight, require a more powerful engine and face delays if protection upgrades go ahead.\n\nWith China’s Type 15 offering a key comparison, can India strengthen Zorawar’s survivability without sacrificing its biggest advantage, mobility?\n\nWatch: https://t.co/MEWZcSLKDG\n\n#DragonDiaries #Zorawar #IndianArmy #China #IndiaTodayGlobal\n\n@JournoPranay",
+     "snippet": "India’s Zorawar light tank faces a crucial design dilemma as the Army seeks stronger armour without compromising the speed and agility needed along the China border.\n\nDeveloped for high-altitude warfare after the 2020 Ladakh standoff, the tank could gain weight, require a more powerful engine and face delays if protection upgrades go ahead.\n\nWith China’s Type 15 offering a key comparison, can India strengthen Zorawar’s survivability without sacrificing its biggest advantage, mobility?\n\nWatch: https://t.co/MEWZcSLKDG\n\n#DragonDiaries #Zorawar #IndianArmy #China #IndiaTodayGlobal\n\n@JournoPranay",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "India Today Global",
+     "handle": "@ITGGlobal"
+    }
+   ]
+  }
+ ]
+}

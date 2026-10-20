@@ -1,36 +1,51 @@
 {
  "success": true,
- "results": [],
- "_tag": "cn_ml",
- "_query": "Mali China deal Chinese company agreement",
- "_domains": [
-  "premiumtimesng.com",
-  "punchng.com",
-  "vanguardng.com",
-  "saharareporters.com",
-  "businessday.ng",
-  "thecable.ng",
-  "myjoyonline.com",
-  "graphic.com.gh",
-  "citinewsroom.com",
-  "thenationonlineng.net",
-  "dailytrust.com",
-  "guardian.ng",
-  "thisdaylive.com",
-  "leadership.ng",
-  "tribuneonlineng.com",
-  "sunnewsonline.com",
-  "ghanaweb.com",
-  "3news.com",
-  "adomonline.com",
-  "peacefmonline.com",
-  "actuniger.com",
-  "lesahel.org",
-  "airinfo.org",
-  "malijet.com",
-  "maliweb.net",
-  "aouaga.com",
-  "africanews.com"
+ "results": [
+  {
+   "title": "Africa: Why China Won't Build Its Own Wagner in Africa - allAfrica.com",
+   "url": "https://allafrica.com/stories/202610160002.html",
+   "snippet": "On 12 May, the Chinese embassy in Bamako published a warning urging Chinese nationals to leave several mining districts, citing armed attacks and the government's campaign against unlicensed mining. The incidents occurred in different parts of Mali, but both exposed the limits of state protection beyond Bamako. A second notice in July reported attacks on foreigners around Kenieba, Bougouni and Fou",
+   "published": "Fri, 16 Oct 2026 04:51:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China beats the US in Africa’s critical minerals race, but Congo arrests 300 Chinese nationals in illegal mining crackdown | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/china-beats-the-us-in-africas-critical-minerals-race-but-congo-arrests-300-chinese/h72g29b",
+   "snippet": "Within 20 years, Beijing channeled approximately $24 billion in transition mineral loans and credit to African nations, acquiring major mining assets in countries like Botswana, Mali, Tanzania, and the Democratic Republic of the Congo.\n\nIn the Democratic Republic of the Congo, which is the world's primary producer of cobalt, 24 of the 33 exporting mining firms are Chinese-owned. [...] China curren",
+   "published": "Mon, 19 Oct 2026 13:51:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Guinea • China's Wenfeng ready to testify against ex-mines minister Ahmed Kanté",
+   "url": "https://www.africaintelligence.com/west-africa/2026/10/20/china-s-wenfeng-ready-to-testify-against-ex-mines-minister-ahmed-kante,110903942-bre",
+   "snippet": "In the absence of an operational gold refinery, the reallocation of the licences that were revoked in May 2025, and effective control of the border with Mali, legal small-scale mining has virtually ground to a halt.\n\nLogoSubscribers only Mining 14.10.2026\n\n## Guinea DEA intelligence lies behind the arrest of two American pilots in Conakry [...] LogoSubscribers only Mining 02.04.2026\n\n## Guinea Sil",
+   "published": "Tue, 20 Oct 2026 04:40:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana’s Lithium Promise: A fading dream? - MyJoyOnline",
+   "url": "https://www.myjoyonline.com/ghanas-lithium-promise-a-fading-dream",
+   "snippet": "| Mali | Commercial lithium production commenced | Rapid mine development despite higher political risk | Speed and project execution matter | [...] While Ghana stalled, other African lithium companies moved ahead. Zimbabwe has become a leading African lithium producer and is attempting to move further into processed products. Mali has also entered lithium production. Ghana’s comparative advantage",
+   "published": "Mon, 19 Oct 2026 12:22:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Article: Ghana’s Lithium Promise: A Fading Dream?",
+   "url": "https://asaaseradio.com/article-ghanas-lithium-promise-a-fading-dream",
+   "snippet": "For the first time, Ghana saw the prospect of real value addition across the value chain of a very important mineral including lithium.",
+   "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Spodumene shipments triple as battery boom creates new dry bulk trades",
+   "url": "https://splash247.com/spodumene-shipments-triple-as-battery-boom-creates-new-dry-bulk-trades",
+   "snippet": "The seaborne trade in spodumene, a lithium-bearing mineral essential for battery production, is emerging as one of dry bulk shipping's fastest-growing niche",
+   "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  }
  ],
+ "_tag": "cn_ml",
+ "_query": "China Mali mining",
+ "_domains": [],
  "_days": 3
 }

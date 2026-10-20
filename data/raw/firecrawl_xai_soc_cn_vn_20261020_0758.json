@@ -1,0 +1,95 @@
+{
+ "query": "China Vietnam Chinese company railway South China Sea",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/nguyens32401884/status/2111738821352271994",
+     "title": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be comp",
+     "description": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "snippet": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Digital Assets Holder",
+     "handle": "@nguyens32401884"
+    },
+    {
+     "url": "https://x.com/nguyen_alex2517/status/2111747526143668488",
+     "title": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ h",
+     "description": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "snippet": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alex Nguyen",
+     "handle": "@nguyen_alex2517"
+    },
+    {
+     "url": "https://x.com/rw888/status/2111492192283828487",
+     "title": "that's not true anymore, Vietnam is now welcoming Chinese high speed rail (HSR) investment, even adopting the same railway gauge as China.",
+     "description": "that's not true anymore, Vietnam is now welcoming Chinese high speed rail (HSR) investment, even adopting the same railway gauge as China.  In geopolitical terms, Vietnam has pivoted towards China in an unprecedented way, specifically because how erratic US has been.",
+     "snippet": "that's not true anymore, Vietnam is now welcoming Chinese high speed rail (HSR) investment, even adopting the same railway gauge as China.  In geopolitical terms, Vietnam has pivoted towards China in an unprecedented way, specifically because how erratic US has been.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roger W.",
+     "handle": "@rw888"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2112091628596854991",
+     "title": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime ac",
+     "description": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China are colliding with Hanoi’s efforts to protect its strategic interests in the Gulf of Thailand.",
+     "snippet": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China are colliding with Hanoi’s efforts to protect its strategic interests in the Gulf of Thailand.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/Maytechummia/status/2112097076787953773",
+     "title": "China is that expansionist.",
+     "description": "China is that expansionist. Just think of the 9 dash line grabbing approximately 90% of the SCS. The line loops hundreds of miles away from mainland China, cutting directly into the internationally recognised EEZs of Vietnam, the Philippines, Malaysia, Brunei, and Indonesia.",
+     "snippet": "China is that expansionist. Just think of the 9 dash line grabbing approximately 90% of the SCS. The line loops hundreds of miles away from mainland China, cutting directly into the internationally recognised EEZs of Vietnam, the Philippines, Malaysia, Brunei, and Indonesia.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mayte Chummia",
+     "handle": "@Maytechummia"
+    },
+    {
+     "url": "https://x.com/Ignis_Rex/status/2112188822025019481",
+     "title": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.",
+     "description": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.\n\nVietnam and the Philippines cannot buy the dredging components above a certain specs for building islands in South China Sea.",
+     "snippet": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.\n\nVietnam and the Philippines cannot buy the dredging components above a certain specs for building islands in South China Sea.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ignis Rex",
+     "handle": "@Ignis_Rex"
+    },
+    {
+     "url": "https://x.com/AustJIA/status/2111969565840396299",
+     "title": "New online: Chubb et al analyse Chinese public opinion about the South China Sea dispute and what role this plays in policy decisions of Vie",
+     "description": "New online: Chubb et al analyse Chinese public opinion about the South China Sea dispute and what role this plays in policy decisions of Vietnam, the Philippines, and the U.S. Part of an upcoming special section. ⬇️\nhttps://www.tandfonline.com/doi/full/10.1080/10357718.2026.2721503",
+     "snippet": "New online: Chubb et al analyse Chinese public opinion about the South China Sea dispute and what role this plays in policy decisions of Vietnam, the Philippines, and the U.S. Part of an upcoming special section. ⬇️\nhttps://www.tandfonline.com/doi/full/10.1080/10357718.2026.2721503",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Australian Journal of International Affairs.",
+     "handle": "@AustJIA"
+    },
+    {
+     "url": "https://x.com/joequant/status/2111454804333695126",
+     "title": "One thing that suggests that China has a point is that there are not major issues with any of the claimants outside of PH.",
+     "description": "One thing that suggests that China has a point is that there are not major issues with any of the claimants outside of PH.  Vietnam and China have agreed to SCS and it's not an active issue.  The issue is not with the PH, it's with the US.",
+     "snippet": "One thing that suggests that China has a point is that there are not major issues with any of the claimants outside of PH.  Vietnam and China have agreed to SCS and it's not an active issue.  The issue is not with the PH, it's with the US.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Joequant",
+     "handle": "@joequant"
+    }
+   ]
+  }
+ ]
+}

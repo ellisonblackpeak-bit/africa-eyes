@@ -1,29 +1,79 @@
 {
  "success": true,
- "results": [],
- "_tag": "cor_rail_road",
- "_query": "railway corridor port project Nigeria Ghana",
- "_domains": [
-  "premiumtimesng.com",
-  "punchng.com",
-  "vanguardng.com",
-  "saharareporters.com",
-  "businessday.ng",
-  "thecable.ng",
-  "myjoyonline.com",
-  "graphic.com.gh",
-  "citinewsroom.com",
-  "thenationonlineng.net",
-  "dailytrust.com",
-  "guardian.ng",
-  "thisdaylive.com",
-  "leadership.ng",
-  "tribuneonlineng.com",
-  "sunnewsonline.com",
-  "ghanaweb.com",
-  "3news.com",
-  "adomonline.com",
-  "peacefmonline.com"
+ "results": [
+  {
+   "title": "Railway quality assurance: FG insists on durability, three-year capacity building before handover",
+   "url": "https://thesun.ng/railway-quality-assurance-fg-insists-on-durability-three-year-capacity-building-before-handover",
+   "snippet": "The Federal Government of Nigeria, through the Ministry of Transportation, has directed contractors handling railway projects across the country to ensure quality, durable, sustainable maintenance and comprehensive local capacity building of young Nigerian engineers before handing over rail and terminal infrastructure to the Nigerian Railway Corporation (NRC). [...] Tuesday, October 20, 2026\n\nThe ",
+   "published": "Sun, 18 Oct 2026 11:09:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Federal Government Approves Procurement Of Surveillance Equipment, Additional Railway Coaches - Federal Ministry of Information and National Orientation",
+   "url": "https://fmino.gov.ng/federal-government-approves-procurement-of-surveillance-equipment-additional-railway-coaches",
+   "snippet": "Earlier, the Senior Special Assistant to the President on Transportation and Mobility, Prince Adetokunbo Ademola Ade-John, commended the progress recorded on the Kano–Maradi Railway Project, describing it as tangible evidence of the Federal Government’s commitment to revitalising Nigeria’s transportation infrastructure under President Tinubu’s Renewed Hope Agenda. [...] Engr. Adebiyi explained tha",
+   "published": "Fri, 16 Oct 2026 01:26:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dorman Long Engineering: Advancing Nigeria's Local Content Agenda Through Industrial Capability",
+   "url": "https://www.prnewswire.com/news-releases/dorman-long-engineering-advancing-nigerias-local-content-agenda-through-industrial-capability-302911224.html",
+   "snippet": "From Engineering Heritage to Industrial Capability\n\nDorman Long Engineering's history offers a useful perspective on Nigeria's industrial development. Established in 1949, the company has been involved in some of the country's major infrastructure and industrial projects over more than seven decades. Its historical work has included railway projects, warehouses for companies such as UAC and PZ, an",
+   "published": "Fri, 16 Oct 2026 11:56:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Budapest railway project attracts Hungarian antitrust probe",
+   "url": "https://www.mlex.com/mlex/articles/2537633/budapest-railway-project-attracts-hungarian-antitrust-probe",
+   "snippet": "MLex Summary: The Budapest Southern Circular Railway project is under investigation over possible breaches of competition rules, Hungary's antitrust",
+   "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "S-Line Passenger Rail Project Moves Forward",
+   "url": "https://www.railwayage.com/regulatory/s-line-passenger-rail-project-moves-forward",
+   "snippet": "The Federal Railroad Administration (FRA) is obligating $550 million in Federal-State Partnership funding to advance the S-Line Raleigh (N.C.) to Richmond",
+   "published": "Sat, 17 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Shell and Nigeria sever ties in domestic gas as energy giant pulls out after 25 years - Mjengo Hub",
+   "url": "https://mjengohub.co.ke/articles/industry-insights/shell-and-nigeria-sever-ties-in-domestic-gas-as-energy-giant-pulls-out-after-25-years",
+   "snippet": "✦ Mjengo Hub AI\n\nSign in to Chat with Mjengo Hub AI and save your conversations. Sign in →\n\nTry asking or searching news, projects & intelligence:\n\nReply to Chat Sign in to Chat\n\nMjengo Hub Logo 🏗️ Mjengo Hub\n\nSign In\n\nHome News and Articles Infrastructure Tracker Private Projects Africa & World Built History Site Safety Media & Feed Sign in\n\nIndustry Insights   News   Africa\n\n# Shell and Nigeria ",
+   "published": "Thu, 15 Oct 2026 15:04:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump administration releases $550M for NC passenger rail project | Regional | carolinacoastonline.com",
+   "url": "https://www.carolinacoastonline.com/regional/article_2d5a51a9-5d85-42e5-8a6b-166311329c9d.html",
+   "snippet": "Train\n\nThe Trump administration has obligated $550 million in previously awarded federal funds to advance North Carolina’s long-planned S-Line passenger rail project, which aims to connect Raleigh and Richmond, Virginia, with faster, more frequent service. [...] #### Latest e-Edition\n\nNews Times\n\n### News Times\n\n#### Most Popular\n\n#### Articles\n\n#### Images\n\nTruncated event shortened\nA load of lob",
+   "published": "Mon, 19 Oct 2026 15:56:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US S-Line project receives funding boost",
+   "url": "https://www.railjournal.com/passenger/main-line/us-s-line-project-receives-funding-boost",
+   "snippet": "The US Federal Railroad Administration has announced $US 550m in federal-state funding to reopen the 260km S-Line from Richmond to Raleigh.",
+   "published": "Mon, 19 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu Don Approve Security Equipment to Protect Trains From Bandits",
+   "url": "https://www.nigeriainfo.fm/news/homepage/tinubu-don-approve-security-equipment-to-protect-trains-from-bandits",
+   "snippet": "President Bola Tinubu don approve make dem buy more train coaches and security equipment to protect train services from bandits, kidnapping and people wey",
+   "published": "Mon, 19 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Navigating NEPA Requirements at Light & Heavy Passenger Rail 2026",
+   "url": "https://www.rtands.com/news/news-news/navigating-nepa-requirements-at-light-heavy-passenger-rail-2026",
+   "snippet": "The Light & Heavy Passenger Rail Conference, presented by Railway Age and Railway Track & Structures on Nov. 4-5, is designed to enable urban transit",
+   "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  }
  ],
+ "_tag": "cor_rail_road",
+ "_query": "railway project Nigeria",
+ "_domains": [],
  "_days": 3
 }

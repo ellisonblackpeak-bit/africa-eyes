@@ -1,0 +1,85 @@
+{
+ "query": "China North Korea South Korea Chinese embassy deal",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/monarchreport25/status/2111425339792798095",
+     "title": "North Korean hacker who tried to defect to South Korea was imprisoned in the basement of the North Korean embassy in China.",
+     "description": "North Korean hacker who tried to defect to South Korea was imprisoned in the basement of the North Korean embassy in China.\n\nHe was forcibly repatriated to North Korea disguised as a patient, with his entire body cast in plaster.\n\nHe passed away in North Korea after being forcibly returned.\n\nThere are no words.\n\nSource: Weekly Chosun",
+     "snippet": "North Korean hacker who tried to defect to South Korea was imprisoned in the basement of the North Korean embassy in China.\n\nHe was forcibly repatriated to North Korea disguised as a patient, with his entire body cast in plaster.\n\nHe passed away in North Korea after being forcibly returned.\n\nThere are no words.\n\nSource: Weekly Chosun",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Monarch Report",
+     "handle": "@monarchreport25"
+    },
+    {
+     "url": "https://x.com/ORF_CNED/status/2112061180475023717",
+     "title": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026.",
+     "description": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026. The timing was no accident: it was a calculated signal to the US and its allies that North Korea remains China's closest strategic partner: @AVIRAL96 https://www.orfonline.org/expert-speak/from-burden-to-asset-china-s-recalibration-of-north-korea #China #NorthKorea",
+     "snippet": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026. The timing was no accident: it was a calculated signal to the US and its allies that North Korea remains China's closest strategic partner: @AVIRAL96 https://www.orfonline.org/expert-speak/from-burden-to-asset-china-s-recalibration-of-north-korea #China #NorthKorea",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Centre for New Economic Diplomacy",
+     "handle": "@ORF_CNED"
+    },
+    {
+     "url": "https://x.com/AndrewW66619812/status/2111761742741004558",
+     "title": "“A UN Security Council resolution in 2017 made it unlawful for member states — including China — to allow the employment of North Korean wor",
+     "description": "“A UN Security Council resolution in 2017 made it unlawful for member states — including China — to allow the employment of North Korean workers in their jurisdictions.\n\nBut it's clearly happening here in Dandong, on the China-North Korea border.”\n\nhttps://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=other",
+     "snippet": "“A UN Security Council resolution in 2017 made it unlawful for member states — including China — to allow the employment of North Korean workers in their jurisdictions.\n\nBut it's clearly happening here in Dandong, on the China-North Korea border.”\n\nhttps://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=other",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andy_Weeble_Weaver😷⚫🦋andy-weaver.bsky.social🗿",
+     "handle": "@AndrewW66619812"
+    },
+    {
+     "url": "https://x.com/PCz911/status/2111835201500332537",
+     "title": "Inside the Chinese city helping sustain the hermit kingdom of North Korea.",
+     "description": "Inside the Chinese city helping sustain the hermit kingdom of North Korea. China accounts for about 95 per cent of North Korea's official trade\n\nhttps://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web via @ABCaustralia",
+     "snippet": "Inside the Chinese city helping sustain the hermit kingdom of North Korea. China accounts for about 95 per cent of North Korea's official trade\n\nhttps://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web via @ABCaustralia",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "paul czaplicki",
+     "handle": "@PCz911"
+    },
+    {
+     "url": "https://x.com/notvikiwalker/status/2111469292621545631",
+     "title": "김정은 뒤졌다고 한부분은 모르겠고 급한 신의주행 대교 통행을 허락한 시진핑의 의도는 중공군의 신속 보급로 혹은 이동통로 확보 라는 해석이 있는 포스팅 \"allow the Chinese military to quickly reinforce its tro",
+     "description": "김정은 뒤졌다고 한부분은 모르겠고 급한 신의주행 대교 통행을 허락한 시진핑의 의도는 중공군의 신속 보급로 혹은 이동통로 확보 라는 해석이 있는 포스팅\n\n\"allow the Chinese military to quickly reinforce its troops in North Korea\"",
+     "snippet": "김정은 뒤졌다고 한부분은 모르겠고 급한 신의주행 대교 통행을 허락한 시진핑의 의도는 중공군의 신속 보급로 혹은 이동통로 확보 라는 해석이 있는 포스팅\n\n\"allow the Chinese military to quickly reinforce its troops in North Korea\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "⁠𝙽𝚘𝚝 𝚅𝚒𝚔𝚒 𝚆𝚊𝚕𝚔𝚎𝚛",
+     "handle": "@notvikiwalker"
+    },
+    {
+     "url": "https://x.com/eric_hawkins9/status/2111769373245378715",
+     "title": "Beijing opened 2 bridges to cross into Nth Korea 10 yrs ago.",
+     "description": "Beijing opened 2 bridges to cross into Nth Korea 10 yrs ago. Only now have the roads been built on the Korean side to complete it. Beijing now sees Nth Korea as a trading partner along with Russia. Big dangers ahead. No worries, keep buying Chinese made cars, but remember failure",
+     "snippet": "Beijing opened 2 bridges to cross into Nth Korea 10 yrs ago. Only now have the roads been built on the Korean side to complete it. Beijing now sees Nth Korea as a trading partner along with Russia. Big dangers ahead. No worries, keep buying Chinese made cars, but remember failure",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eric Hawkins",
+     "handle": "@eric_hawkins9"
+    },
+    {
+     "url": "https://x.com/GRipper1964/status/2112272791852716118",
+     "title": "I hope Russia, China, U.S., Japan and South Korea have talked about a plan to deal w/North Korea if he assumes room temperature or becomes p",
+     "description": "I hope Russia, China, U.S., Japan and South Korea have talked about a plan to deal w/North Korea if he assumes room temperature or becomes politically unstable.",
+     "snippet": "I hope Russia, China, U.S., Japan and South Korea have talked about a plan to deal w/North Korea if he assumes room temperature or becomes politically unstable.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "General Ripper1964",
+     "handle": "@GRipper1964"
+    }
+   ]
+  }
+ ]
+}

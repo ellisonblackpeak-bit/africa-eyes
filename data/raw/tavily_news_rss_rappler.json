@@ -2,10 +2,38 @@
  "success": true,
  "results": [
   {
+   "title": "FACT CHECK: Posts promising cash aid, rice subsidy for all national ID holders are fake",
+   "url": "https://www.rappler.com/newsbreak/fact-check/fake-posts-promising-cash-aid-rice-subsidy-for-all-national-id-holders/",
+   "content": "The links to the alleged list of areas covered by the supposed nationwide program lead to a third-party blog site to trick social media users into typing in sensitive personal information",
+   "published_date": "Tue, 20 Oct 2026 14:56:37 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "China sends naval forces to monitor US warship near disputed shoal",
+   "url": "https://www.rappler.com/world/asia-pacific/china-sends-naval-forces-monitor-us-warship-near-disputed-shoal/",
+   "content": "The Chinese military's Southern Theater Command asserts that the US warship 'illegally intruded' into waters adjacent to a shoal in the Spratly Islands",
+   "published_date": "Tue, 20 Oct 2026 14:39:13 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Indoor bouldering 101: Sending your first climb",
+   "url": "https://www.rappler.com/culture-desk/first-time-indoor-bouldering-tips-gear/",
+   "content": "Chalk, shoes, technique, and everything in between",
+   "published_date": "Tue, 20 Oct 2026 14:01:47 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Adamson’s strong start surprises Nash Racela, adds to La Salle’s woes",
+   "url": "https://www.rappler.com/people/athletes/uaap-adamson-strong-start-la-salle-woes-2026/",
+   "content": "‘I apologize to my players because they really surprised me, the whole team,’ says Adamson coach Nash Racela as his Falcons cap the UAAP first round strong with an upset of defending champion La Salle",
+   "published_date": "Tue, 20 Oct 2026 14:00:14 +0800",
+   "score": 0.6
+  },
+  {
    "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
    "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
    "content": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-   "published_date": "Tue, 20 Oct 2026 12:28:03 +0800",
+   "published_date": "Tue, 20 Oct 2026 13:12:31 +0800",
    "score": 0.6
   },
   {
@@ -41,34 +69,6 @@
    "url": "https://www.rappler.com/technology/features/hacker-used-ai-agents-break-into-websites-norforge-report/",
    "content": "Snorre Fagerland of NorForge says instances of bad actors using AI agents to perform hacks is evidence these agents could pull off complex intrusions from start to finish without human intervention",
    "published_date": "Tue, 20 Oct 2026 11:18:30 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "DENR: 1 in 3 barangays nationwide highly vulnerable to El Niño",
-   "url": "https://www.rappler.com/philippines/denr-barangays-nationwide-highly-vulnerable-el-nino-2026/",
-   "content": "Priority areas include Masbate City, Calapan City in Oriental Mindoro, and seven localities in Isabela",
-   "published_date": "Tue, 20 Oct 2026 10:56:35 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "GCash debuts on stock market with record P60.9-B IPO",
-   "url": "https://www.rappler.com/business/gcash-mynt-stock-market-debut-pse-listing-october-20-2026/",
-   "content": "The homegrown e-wallet giant now holds the title of the largest initial public offering in Philippine history, beating the more than P55 billion set by Monde Nissin in 2021",
-   "published_date": "Tue, 20 Oct 2026 10:44:20 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "[The Laylo Lens] What a stranded container is really costing us",
-   "url": "https://www.rappler.com/voices/thought-leaders/laylo-lens-stranded-container-costing-us/",
-   "content": "Government should implement a 100-day plan to enhance container movement reliability, ensure transparency in port charges, and separate regulatory and operational roles to prevent conflicts of interest",
-   "published_date": "Tue, 20 Oct 2026 10:30:12 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Notarization is finally available online. Here’s how it works.",
-   "url": "https://www.rappler.com/philippines/online-notarization-rules-things-to-know/",
-   "content": "eNotarization makes the service more accessible to the public because under the 2004 Rules on Notarial Practice, traditional notary publics can only perform notarizations within their respective territorial jurisdictions",
-   "published_date": "Tue, 20 Oct 2026 09:51:27 +0800",
    "score": 0.6
   }
  ],

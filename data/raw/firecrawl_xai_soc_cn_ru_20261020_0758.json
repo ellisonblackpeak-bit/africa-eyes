@@ -1,0 +1,115 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/FirstSquawk/status/2111976989699788999",
+     "title": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY.",
+     "description": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY. MOSCOW AND BEIJING HAVE AGREED TO INCREASE ANNUAL DELIVERIES TO 44 BCM, WITH NO TIMELINE CONFIRMED.",
+     "snippet": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY. MOSCOW AND BEIJING HAVE AGREED TO INCREASE ANNUAL DELIVERIES TO 44 BCM, WITH NO TIMELINE CONFIRMED.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2111976991633317926",
+     "title": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR.",
+     "description": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR. NEGOTIATIONS ON POWER OF SIBERIA 2, WHICH COULD SUPPLY UP TO 50 BCM ANNUALLY, CONTINUE AS RUSSIA SEEKS TO REPLACE LOST EUROPEAN MARKETS AND DEEPENS ITS ENERGY RELIANCE ON CHINA.",
+     "snippet": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR. NEGOTIATIONS ON POWER OF SIBERIA 2, WHICH COULD SUPPLY UP TO 50 BCM ANNUALLY, CONTINUE AS RUSSIA SEEKS TO REPLACE LOST EUROPEAN MARKETS AND DEEPENS ITS ENERGY RELIANCE ON CHINA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/num1_ch/status/2111908702257324447",
+     "title": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.",
+     "description": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.\n\nOn Oct 21, he will hold talks with Mishustin.\n\nKey topic: energy, including **gas**.\n\nWill Beijing finally sign off on Power of Siberia 2?",
+     "snippet": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.\n\nOn Oct 21, he will hold talks with Mishustin.\n\nKey topic: energy, including **gas**.\n\nWill Beijing finally sign off on Power of Siberia 2?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "N1 Channel",
+     "handle": "@num1_ch"
+    },
+    {
+     "url": "https://x.com/KevinMorr1s/status/2111908291810857347",
+     "title": "❗️🛢🇨🇳🇷🇺 #GAZP #event Oct 20-22: Chinese Premier Li Qiang will visit Russia.",
+     "description": "❗️🛢🇨🇳🇷🇺 #GAZP #event\nOct 20-22: Chinese Premier Li Qiang will visit Russia. On Oct 21 he'll hold talks with Mishustin.\n\nKey topic: energy, including gas.\n\nWatch for Power of Siberia 2 headlines: any progress on pricing would be a real catalyst for Gazprom.",
+     "snippet": "❗️🛢🇨🇳🇷🇺 #GAZP #event\nOct 20-22: Chinese Premier Li Qiang will visit Russia. On Oct 21 he'll hold talks with Mishustin.\n\nKey topic: energy, including gas.\n\nWatch for Power of Siberia 2 headlines: any progress on pricing would be a real catalyst for Gazprom.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kevin Morris",
+     "handle": "@KevinMorr1s"
+    },
+    {
+     "url": "https://x.com/Talagatto/status/2111354878727737375",
+     "title": "CNOOC (China) 10% CNPC (China) 10% Yamal LNG → Novatek + CNPC + Silk Road Fund Amur Gas Chemical Complex → SIBUR + Sinopec Udmurtneft → Rosn",
+     "description": "CNOOC (China) 10%\nCNPC (China) 10%\nYamal LNG → Novatek + CNPC + Silk Road Fund\nAmur Gas Chemical Complex → SIBUR + Sinopec\nUdmurtneft → Rosneft + Sinopec\n👉 Arctic LNG 2 ang best example. At kung banking pressure naman:👉 Heihe Rural Commercial Bank / Heilongjiang Suifenhe Rural Commercial Bank\nRussia project gets sanctioned\n→ Russian company suffers\n→ Chinese shareholder suffers\n→ Chinese bank becomes cautious\n→ payments get harder\n→ Beijing suddenly has skin in the game",
+     "snippet": "CNOOC (China) 10%\nCNPC (China) 10%\nYamal LNG → Novatek + CNPC + Silk Road Fund\nAmur Gas Chemical Complex → SIBUR + Sinopec\nUdmurtneft → Rosneft + Sinopec\n👉 Arctic LNG 2 ang best example. At kung banking pressure naman:👉 Heihe Rural Commercial Bank / Heilongjiang Suifenhe Rural Commercial Bank\nRussia project gets sanctioned\n→ Russian company suffers\n→ Chinese shareholder suffers\n→ Chinese bank becomes cautious\n→ payments get harder\n→ Beijing suddenly has skin in the game",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🌸⁠(¬‿¬✿)✨️Immaculate✨️ ( •̀ᴗ•́ )و⁠👑🌸",
+     "handle": "@Talagatto"
+    },
+    {
+     "url": "https://x.com/myopiniondog/status/2111720307064963466",
+     "title": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels.",
+     "description": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "snippet": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eudaemon",
+     "handle": "@myopiniondog"
+    },
+    {
+     "url": "https://x.com/MayaTBasil/status/2111956284068995078",
+     "title": "You are day dreaming. It does it matter if Singapore stands with Ukraine if the big players are buying Russian. September 2026 data confirms",
+     "description": "You are day dreaming. It does it matter if Singapore stands with Ukraine if the big players are buying Russian.\nSeptember 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
+     "snippet": "You are day dreaming. It does it matter if Singapore stands with Ukraine if the big players are buying Russian.\nSeptember 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Maya Tallie",
+     "handle": "@MayaTBasil"
+    },
+    {
+     "url": "https://x.com/grok/status/2112186826664423911",
+     "title": "In September 2026, China was the top buyer of Russian oil and gas (EUR 9.1 bn total fossil fuels, mostly crude), followed by India (EUR 4.1",
+     "description": "In September 2026, China was the top buyer of Russian oil and gas (EUR 9.1 bn total fossil fuels, mostly crude), followed by India (EUR 4.1 bn, mostly crude). The EU ranked third (EUR 1.7 bn, mainly pipeline gas and LNG, plus some crude to Hungary/Slovakia). Türkiye was fourth (EUR 1.0 bn, oil products and gas). Other buyers included Japan, South Korea (LNG), Saudi Arabia, Brazil and Singapore (oil products). Data from CREA.",
+     "snippet": "In September 2026, China was the top buyer of Russian oil and gas (EUR 9.1 bn total fossil fuels, mostly crude), followed by India (EUR 4.1 bn, mostly crude). The EU ranked third (EUR 1.7 bn, mainly pipeline gas and LNG, plus some crude to Hungary/Slovakia). Türkiye was fourth (EUR 1.0 bn, oil products and gas). Other buyers included Japan, South Korea (LNG), Saudi Arabia, Brazil and Singapore (oil products). Data from CREA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/AKaszon/status/2112074734963655028",
+     "title": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China.",
+     "description": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "snippet": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andre Viktor Baron Thyssen Bornemissza von Kaszon",
+     "handle": "@AKaszon"
+    },
+    {
+     "url": "https://x.com/Elsazhou018/status/2111992649498714285",
+     "title": "Hebei Yanshan Dianli #Pipe #Fitting Co.,Ltd.",
+     "description": "Hebei Yanshan Dianli #Pipe #Fitting Co.,Ltd. | Manufacturer of #Oil & Gas #Pipe #Fittings\n✅ DN700 PN10.0 Gas Header\n✅ China-Russia East Route Hot Induction #Bend φ1422×25.7, R=5D, X80\nWe specialize in long-distance oil & gas #pipeline",
+     "snippet": "Hebei Yanshan Dianli #Pipe #Fitting Co.,Ltd. | Manufacturer of #Oil & Gas #Pipe #Fittings\n✅ DN700 PN10.0 Gas Header\n✅ China-Russia East Route Hot Induction #Bend φ1422×25.7, R=5D, X80\nWe specialize in long-distance oil & gas #pipeline",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Elsa.zhou",
+     "handle": "@Elsazhou018"
+    }
+   ]
+  }
+ ]
+}

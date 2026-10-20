@@ -1,0 +1,115 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2111823791613497351",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 17 October, #JNIM claimed an IED strike on a Malian army infantry patrol in the village of Goma, north of Diaba",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 17 October, #JNIM claimed an IED strike on a Malian army infantry patrol in the village of Goma, north of Diabaly, in the #Ségou region, in the morning.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 17 October, #JNIM claimed an IED strike on a Malian army infantry patrol in the village of Goma, north of Diabaly, in the #Ségou region, in the morning.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112110067868733656",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Kouliko",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112160885095674030",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112169892178800978",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quart",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quarter of Sikasso, in the #Sikasso region.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quarter of Sikasso, in the #Sikasso region.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/SaurabhAshutos3/status/2112322593315541139",
+     "title": "Gunmen kill at least 40 civilians in Mali: security and community sources The assailants reportedly rode in on motorcycles, targeting camps",
+     "description": "Gunmen kill at least 40 civilians in Mali: security and community sources\nThe assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community",
+     "snippet": "Gunmen kill at least 40 civilians in Mali: security and community sources\nThe assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saurabh Yadav",
+     "handle": "@SaurabhAshutos3"
+    },
+    {
+     "url": "https://x.com/CurrentTre/status/2112173367390253546",
+     "title": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à",
+     "description": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à Tabrichat, dans la région de Gao, après l’attaque d’un convoi militaire en juillet dernier.",
+     "snippet": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à Tabrichat, dans la région de Gao, après l’attaque d’un convoi militaire en juillet dernier.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Current Trends",
+     "handle": "@CurrentTre"
+    },
+    {
+     "url": "https://x.com/SahelAlerte/status/2112159395765248148",
+     "title": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris.",
+     "description": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris. Il y a quelques jours, des mercenaires affiliés à la junte de Bamako et des Russes ont attaqué et incendié un village arabe affilié à l’État Islamique (EIGS).\nEn 2022, environ un millier de civils Touaregs, en majorité Daoussahak, avaient été tués par l'EIGS. Après des semaines de violences, un calme partiel était revenu grâce à des tractations communautaires, permettant le retour de nombreux civils dans leurs villages.\nIl y a quelques semaines, Moussa Ag Acharatoumane, mobilisé pour le compte de la junte de Bamako et des Russes, a réuni ses miliciens pour attaquer ce village arabe affilié à l’EIGS. En représailles, l’EIGS a lancé depuis hier une contre-opération ciblant les civils Touaregs Daoussahak.\nLa méthode de l’EIGS : faire sortir les femmes, brûler les campements, exécuter les jeunes hommes et piller le bétail aux alentours de la ville de Ménaka.\nPendant ce temps, les Russes, les militaires maliens et leurs miliciens restent barricadés dans la ville de Ménaka. Les seuls qui tirent leur épingle du jeu sont Moussa Ag Acharatoumane et la junte, qui ont besoin d'animer la galerie.",
+     "snippet": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris. Il y a quelques jours, des mercenaires affiliés à la junte de Bamako et des Russes ont attaqué et incendié un village arabe affilié à l’État Islamique (EIGS).\nEn 2022, environ un millier de civils Touaregs, en majorité Daoussahak, avaient été tués par l'EIGS. Après des semaines de violences, un calme partiel était revenu grâce à des tractations communautaires, permettant le retour de nombreux civils dans leurs villages.\nIl y a quelques semaines, Moussa Ag Acharatoumane, mobilisé pour le compte de la junte de Bamako et des Russes, a réuni ses miliciens pour attaquer ce village arabe affilié à l’EIGS. En représailles, l’EIGS a lancé depuis hier une contre-opération ciblant les civils Touaregs Daoussahak.\nLa méthode de l’EIGS : faire sortir les femmes, brûler les campements, exécuter les jeunes hommes et piller le bétail aux alentours de la ville de Ménaka.\nPendant ce temps, les Russes, les militaires maliens et leurs miliciens restent barricadés dans la ville de Ménaka. Les seuls qui tirent leur épingle du jeu sont Moussa Ag Acharatoumane et la junte, qui ont besoin d'animer la galerie.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/waslnew/status/2112259615006294364",
+     "title": "More Than 110 Civilians Killed in Attacks Attributed to the Islamic State (ISIS) Near the City of Menaka in the Desert Region of Azawad More",
+     "description": "More Than 110 Civilians Killed in Attacks Attributed to the Islamic State (ISIS) Near the City of Menaka in the Desert Region of Azawad\n\nMore than 110 civilians from the Idaksahak community were killed in attacks carried out by fighters believed to be affiliated with the Islamic State (ISIS) in the Sahel, targeting nomadic camps in the Tagadiet area, south of the city of Menaka in Azawad, according to local media.\n\nLocal reports stated that the attacks came in retaliation for an operation carried out by the Azawad Liberation Movement in the Inarabane area, targeting a house belonging to a leader of the organization. The operation resulted in the house being burned down and his wife being captured and taken to the city of Menaka.\n\nIn a subsequent development, fighters from the organization attacked the home of Moussa Ag Acharatoumane, head of the Azawad Liberation Movement, inside the city of Menaka, resulting in the deaths of several movement members, without confirmation that its leader had been killed.\n\n#Mali",
+     "snippet": "More Than 110 Civilians Killed in Attacks Attributed to the Islamic State (ISIS) Near the City of Menaka in the Desert Region of Azawad\n\nMore than 110 civilians from the Idaksahak community were killed in attacks carried out by fighters believed to be affiliated with the Islamic State (ISIS) in the Sahel, targeting nomadic camps in the Tagadiet area, south of the city of Menaka in Azawad, according to local media.\n\nLocal reports stated that the attacks came in retaliation for an operation carried out by the Azawad Liberation Movement in the Inarabane area, targeting a house belonging to a leader of the organization. The operation resulted in the house being burned down and his wife being captured and taken to the city of Menaka.\n\nIn a subsequent development, fighters from the organization attacked the home of Moussa Ag Acharatoumane, head of the Azawad Liberation Movement, inside the city of Menaka, resulting in the deaths of several movement members, without confirmation that its leader had been killed.\n\n#Mali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "وصل للأخبار",
+     "handle": "@waslnew"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2112290348856717650",
+     "title": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA.",
+     "description": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA. Les deux groupes armés sont des alliés de la junte Russafricaine de Bamako.",
+     "snippet": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA. Les deux groupes armés sont des alliés de la junte Russafricaine de Bamako.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    }
+   ]
+  }
+ ]
+}

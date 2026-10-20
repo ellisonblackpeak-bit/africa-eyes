@@ -1,0 +1,65 @@
+{
+ "query": "Mali China Chinese company agreement Bamako",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/OrNoirAfrica/status/2112257676692406637",
+     "title": "Mali : Jinko ESS annonce 34 systèmes de stockage, soit 18 MWh, pour les télécoms.",
+     "description": "Mali : Jinko ESS annonce 34 systèmes de stockage, soit 18 MWh, pour les télécoms. Enjeu : réduire la dépendance au diesel. Sites et calendrier restent à préciser.\n\n#Mali #Batteries\nhttps://ornoir.africa/mali-jinko-ess-fournira-18-mwh-de-batteries-pour-les-telecommunications/",
+     "snippet": "Mali : Jinko ESS annonce 34 systèmes de stockage, soit 18 MWh, pour les télécoms. Enjeu : réduire la dépendance au diesel. Sites et calendrier restent à préciser.\n\n#Mali #Batteries\nhttps://ornoir.africa/mali-jinko-ess-fournira-18-mwh-de-batteries-pour-les-telecommunications/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Or Noir Africa - Pétrole, Gaz & Énergie - Afrique",
+     "handle": "@OrNoirAfrica"
+    },
+    {
+     "url": "https://x.com/_africabusiness/status/2112073640208380188",
+     "title": "China’s Jinko ESS has signed an agreement to supply 18 megawatt-hours of battery storage for a telecommunications project in Mali… Read more",
+     "description": "China’s Jinko ESS has signed an agreement to supply 18 megawatt-hours of battery storage for a telecommunications project in Mali…\n\nRead more; https://africabusinessinsight.com/malis-push-to-cut-diesel-use-in-telecoms-opens-market-for-energy-storage/\n\n#AfricaBusinessInsight #AfricaBusinessInsightNews",
+     "snippet": "China’s Jinko ESS has signed an agreement to supply 18 megawatt-hours of battery storage for a telecommunications project in Mali…\n\nRead more; https://africabusinessinsight.com/malis-push-to-cut-diesel-use-in-telecoms-opens-market-for-energy-storage/\n\n#AfricaBusinessInsight #AfricaBusinessInsightNews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Africa Business Insight",
+     "handle": "@_africabusiness"
+    },
+    {
+     "url": "https://x.com/ecofinagency/status/2112045727673122960",
+     "title": "China’s Jinko ESS Signs Deal to Supply 18 MWh of Batteries for Mali’s Telecom Sector https://www.ecofinagency.com/news-infrastructures/1910-",
+     "description": "China’s Jinko ESS Signs Deal to Supply 18 MWh of Batteries for Mali’s Telecom Sector https://www.ecofinagency.com/news-infrastructures/1910-59889-china-s-jinko-ess-signs-deal-to-supply-18-mwh-of-batteries-for-mali-s-telecom-sector",
+     "snippet": "China’s Jinko ESS Signs Deal to Supply 18 MWh of Batteries for Mali’s Telecom Sector https://www.ecofinagency.com/news-infrastructures/1910-59889-china-s-jinko-ess-signs-deal-to-supply-18-mwh-of-batteries-for-mali-s-telecom-sector",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ecofin Agency",
+     "handle": "@ecofinagency"
+    },
+    {
+     "url": "https://x.com/agenceecofin/status/2111833514320543868",
+     "title": "Le chinois Jinko ESS signe un accord pour livrer 18 MWh de batteries pour les télécoms au Mali https://www.agenceecofin.com/actualites-infra",
+     "description": "Le chinois Jinko ESS signe un accord pour livrer 18 MWh de batteries pour les télécoms au Mali https://www.agenceecofin.com/actualites-infrastructures/1810-142528-le-chinois-jinko-ess-signe-un-accord-pour-livrer-18-mwh-de-batteries-pour-les-telecoms-au-mali",
+     "snippet": "Le chinois Jinko ESS signe un accord pour livrer 18 MWh de batteries pour les télécoms au Mali https://www.agenceecofin.com/actualites-infrastructures/1810-142528-le-chinois-jinko-ess-signe-un-accord-pour-livrer-18-mwh-de-batteries-pour-les-telecoms-au-mali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Agence Ecofin",
+     "handle": "@agenceecofin"
+    },
+    {
+     "url": "https://x.com/MonsieurBernaps/status/2111415747755098227",
+     "title": "🇲🇱🇨🇳 | Renforcement de la Formation professionnelle au Mali à travers un partenaire sincère et fiable : La Chine 🇨🇳 Qui a hissé son partenar",
+     "description": "🇲🇱🇨🇳 | Renforcement de la Formation professionnelle au Mali à travers un partenaire sincère et fiable : La Chine 🇨🇳\nQui a hissé son partenariat au rang de stratégique avec Bamako ✍🏽 @AbdoulayeDiop8 \n\n@Gouvernememali \n\nMadame Oumou Sall Seck, Ministre de l’Entrepreneuriat et de la Formation professionnelle a participé à une rencontre avec le vice Ministre chinois de l’Education en charge de la formation : Monsieur Ren Youqun ✅🔍 \n\nRenforcer la coopération en matière de formation et trouver des nouveaux axes de collaboration ✍🏽\nTrouver des solutions pour former la jeunesse et lui éviter la perdition, l’exode, ou les stupéfiants @GoitaAssimi ‼️ \n\nBernaps 🫡",
+     "snippet": "🇲🇱🇨🇳 | Renforcement de la Formation professionnelle au Mali à travers un partenaire sincère et fiable : La Chine 🇨🇳\nQui a hissé son partenariat au rang de stratégique avec Bamako ✍🏽 @AbdoulayeDiop8 \n\n@Gouvernememali \n\nMadame Oumou Sall Seck, Ministre de l’Entrepreneuriat et de la Formation professionnelle a participé à une rencontre avec le vice Ministre chinois de l’Education en charge de la formation : Monsieur Ren Youqun ✅🔍 \n\nRenforcer la coopération en matière de formation et trouver des nouveaux axes de collaboration ✍🏽\nTrouver des solutions pour former la jeunesse et lui éviter la perdition, l’exode, ou les stupéfiants @GoitaAssimi ‼️ \n\nBernaps 🫡",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MonsieurBernaps 🎬",
+     "handle": "@MonsieurBernaps"
+    }
+   ]
+  }
+ ]
+}

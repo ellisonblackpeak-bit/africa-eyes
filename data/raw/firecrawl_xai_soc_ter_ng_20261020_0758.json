@@ -1,0 +1,115 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/NigeriaArmyInfo/status/2112204751580369178",
+     "title": "TROOPS OF OPERATION FANSAN YAMMA RESCUE KIDNAPPED VICTIM, RECOVER 18 RUSTLED CATTLE, ARREST 4 DRUG PEDDLERS IN KEBBI STATE Troops of Joint T",
+     "description": "TROOPS OF OPERATION FANSAN YAMMA RESCUE KIDNAPPED VICTIM, RECOVER 18 RUSTLED CATTLE, ARREST 4 DRUG PEDDLERS IN KEBBI STATE\n\nTroops of Joint Task Force North West, Operation FANSAN YAMMA, have rescued a kidnapped victim, recovered 18 rustled cattle and arrested four suspected drug peddlers during separate operations in Kebbi State.\n\nOn 18 October 2026, troops of Sector 2, in conjunction with local vigilantes, swiftly responded to a distress call over the activities of terrorists who had invaded Rambo Village in Danko-Wasagu Local Government Area with the intention of kidnapping residents and rustling cattle.\n\nActing on the information, the troops immediately mobilised to the community, made contact with the terrorists and engaged in a firefight. The decisive intervention by the troops resulted in the successful rescue of a 40-year-old resident, Suleiman Maiyaki Ikara, and the recovery of 18 rustled cattle. The rescued victim and recovered livestock were subsequently handed over to the District Head of Rambo Village for further action.\n\nSimilarly, on the same day, troops of Sector 2, in collaboration with personnel of the National Drug Law Enforcement Agency, conducted coordinated raids on suspected drug trafficking locations in Dakin Kowa, Karaye and Gubba communities of Maiyama Local Government Area of Kebbi State.\n\nThe joint operation led to the arrest of four suspects and the recovery of substances suspected to be illicit drugs. The suspects and recovered substances are currently in the custody of the NDLEA Command in Maiyama for further investigation and necessary action.\n\nThe Joint Task Force remains resolute in sustaining offensive operations against terrorists and other criminal elements across the Joint Operations Area. The Theatre Command also appreciates the continued support and cooperation of local communities and urges members of the public to provide timely and credible information to security agencies to enhance ongoing operations.\n\nALIYU DANJA\nLieutenant Colonel \nMedia Information Officer \nJoint Task Force (North West) Operation FANSAN YAMMA \n19 October 2026",
+     "snippet": "TROOPS OF OPERATION FANSAN YAMMA RESCUE KIDNAPPED VICTIM, RECOVER 18 RUSTLED CATTLE, ARREST 4 DRUG PEDDLERS IN KEBBI STATE\n\nTroops of Joint Task Force North West, Operation FANSAN YAMMA, have rescued a kidnapped victim, recovered 18 rustled cattle and arrested four suspected drug peddlers during separate operations in Kebbi State.\n\nOn 18 October 2026, troops of Sector 2, in conjunction with local vigilantes, swiftly responded to a distress call over the activities of terrorists who had invaded Rambo Village in Danko-Wasagu Local Government Area with the intention of kidnapping residents and rustling cattle.\n\nActing on the information, the troops immediately mobilised to the community, made contact with the terrorists and engaged in a firefight. The decisive intervention by the troops resulted in the successful rescue of a 40-year-old resident, Suleiman Maiyaki Ikara, and the recovery of 18 rustled cattle. The rescued victim and recovered livestock were subsequently handed over to the District Head of Rambo Village for further action.\n\nSimilarly, on the same day, troops of Sector 2, in collaboration with personnel of the National Drug Law Enforcement Agency, conducted coordinated raids on suspected drug trafficking locations in Dakin Kowa, Karaye and Gubba communities of Maiyama Local Government Area of Kebbi State.\n\nThe joint operation led to the arrest of four suspects and the recovery of substances suspected to be illicit drugs. The suspects and recovered substances are currently in the custody of the NDLEA Command in Maiyama for further investigation and necessary action.\n\nThe Joint Task Force remains resolute in sustaining offensive operations against terrorists and other criminal elements across the Joint Operations Area. The Theatre Command also appreciates the continued support and cooperation of local communities and urges members of the public to provide timely and credible information to security agencies to enhance ongoing operations.\n\nALIYU DANJA\nLieutenant Colonel \nMedia Information Officer \nJoint Task Force (North West) Operation FANSAN YAMMA \n19 October 2026",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NigerianArmyInfo",
+     "handle": "@NigeriaArmyInfo"
+    },
+    {
+     "url": "https://x.com/Sokoto_Affairs/status/2111489696610005403",
+     "title": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO Troops of Operation Fansan Yamma killed two suspected Lakurawa terrorists",
+     "description": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO\n\nTroops of Operation Fansan Yamma killed two suspected Lakurawa terrorists during clearance operations at Waria Forest and Sarma Village in Sokoto on October 15. The operation also yielded four AK-47 rifles, eight motorcycles, ammunition, four magazines and communication equipment.",
+     "snippet": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO\n\nTroops of Operation Fansan Yamma killed two suspected Lakurawa terrorists during clearance operations at Waria Forest and Sarma Village in Sokoto on October 15. The operation also yielded four AK-47 rifles, eight motorcycles, ammunition, four magazines and communication equipment.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sokoto State Affairs",
+     "handle": "@Sokoto_Affairs"
+    },
+    {
+     "url": "https://x.com/westernpost_ng/status/2111797460196610489",
+     "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-",
+     "description": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Western Post Nigeria",
+     "handle": "@westernpost_ng"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112314103784259771",
+     "title": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State.",
+     "description": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "snippet": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112248213050663047",
+     "title": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.",
+     "description": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "snippet": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/NgrImpact/status/2111853693049950671",
+     "title": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives Bandits on Saturday evening",
+     "description": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "snippet": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Impact_Ngr",
+     "handle": "@NgrImpact"
+    },
+    {
+     "url": "https://x.com/openwatchng/status/2111865374270513479",
+     "title": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.",
+     "description": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "snippet": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "OpenWatch",
+     "handle": "@openwatchng"
+    },
+    {
+     "url": "https://x.com/lsiafrica/status/2112312083786137993",
+     "title": "🚨Nigeria 🇳🇬: l’armée de l’air nigériane a mené, le 19 octobre 2026, une frappe contre une position du groupe djihadiste État islamique en Af",
+     "description": "🚨Nigeria 🇳🇬: l’armée de l’air nigériane a mené, le 19 octobre 2026, une frappe contre une position du groupe djihadiste État islamique en Afrique de l’Ouest (ISWAP), dans la région du lac Tchad. Selon les informations communiquées, plusieurs cadres de l’organisation ont été tués, notamment Jindullah, chargé de la sécurité et proche d’Abu Saleem, ainsi qu’Abul Kissa, membre du conseil consultatif de l’ISWAP.",
+     "snippet": "🚨Nigeria 🇳🇬: l’armée de l’air nigériane a mené, le 19 octobre 2026, une frappe contre une position du groupe djihadiste État islamique en Afrique de l’Ouest (ISWAP), dans la région du lac Tchad. Selon les informations communiquées, plusieurs cadres de l’organisation ont été tués, notamment Jindullah, chargé de la sécurité et proche d’Abu Saleem, ainsi qu’Abul Kissa, membre du conseil consultatif de l’ISWAP.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "LSI AFRICA",
+     "handle": "@lsiafrica"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2112292299648405952",
+     "title": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "description": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "snippet": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/abdulbaqee2/status/2111882051339088123",
+     "title": "Road attacks. Bandits attack commuters along Kaura-Birnin Magaji road, Manyaci-Anka road and Adabka-Duhuwa road, Zamfara State. Two bandits",
+     "description": "Road attacks.\n\nBandits attack commuters along Kaura-Birnin Magaji road, Manyaci-Anka road and Adabka-Duhuwa road, Zamfara State. Two bandits were killed during the Kaura-Birnin Magaji attack. Three people were abducted along the Anka-Manyaci road.",
+     "snippet": "Road attacks.\n\nBandits attack commuters along Kaura-Birnin Magaji road, Manyaci-Anka road and Adabka-Duhuwa road, Zamfara State. Two bandits were killed during the Kaura-Birnin Magaji attack. Three people were abducted along the Anka-Manyaci road.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdulbaqee",
+     "handle": "@abdulbaqee2"
+    }
+   ]
+  }
+ ]
+}
