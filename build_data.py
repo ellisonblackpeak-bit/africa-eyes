@@ -271,6 +271,24 @@ def actor_tier(title, summary, min_hits=3, is_gov_publisher=False, topics=()):
     return 4, "第三方", False
 
 
+def subject_hits(title, summary, min_hits=3):
+    """(china, us) — non-exclusive.
+
+    `actor_tier` is single-valued by design (one priority band per item), and the
+    page used to decide module membership from it too. That dropped stories from
+    the modules they belong to: "Trump says he may meet Xi on North Korea" is
+    tier 1, so it never appeared in 涉美 even though it is squarely a US move;
+    "US sanctions Chinese firms over Niger" likewise. The two axes are genuinely
+    independent, so they are now reported separately and `inModule()` uses these
+    flags while `tier` keeps its ranking/filter role.
+    """
+    t = title or ""
+    s = summary or ""
+    cn = bool(CN_RX.search(t)) or len(CN_RX.findall(s)) >= min_hits
+    us = has_us(t) or us_hits(s) >= min_hits
+    return cn, us
+
+
 # ─────────────── topic / country vocabulary ───────────────
 TOPIC_MARKERS = {
     "sec": ["security", "insecurity", "attack", "attacks", "killed", "killings", "kidnap",
@@ -343,8 +361,9 @@ CTY_MARKERS = {
            "马里", "巴马科", "通布图", "加奥", "基达尔", "戈伊塔"],
     "gh": ["ghana", "ghanaian", "ghanaians", "accra", "kumasi", "cedi", "mahama", "galamsey",
            "akufo", "tema", "obuasi", "ashanti", "volta", "ecg", "newmont", "goldfields",
-           "tamale", "takoradi", "ghanian",
-           "加纳", "阿克拉", "库马西", "马哈马", "加纳塞地", "非法采金"],
+           "tamale", "takoradi", "ghanian", "asantehene", "otumfuo", "goldbod",
+           "bagbin", "ndc ghana", "nhc ghana", "trades union congress ghana",
+           "加纳", "阿克拉", "库马西", "马哈马", "加纳塞地", "非法采金", "加纳黄金局"],
     "wa": ["ecowas", "sahel", "west africa", "west african", "regional bloc",
            "alliance of sahel", "aes states", "gulf of guinea", "burkina faso", "benin",
            "togo", "ivory coast", "cote d'ivoire", "sierra leone", "liberia",
@@ -353,13 +372,19 @@ CTY_MARKERS = {
     # only the four African countries but also the eight neighbours — Chinese
     # activities there are the second axis. Country codes match index.html's
     # AFRICA_CTYS/PERIPHERY_CTYS lists so the 周边国家 module filter lines up.
-    "kr": ["north korea", "south korea", "pyongyang", "seoul", "korean peninsula",
+    # Adjective forms matter: "South Korean IPO", "Philippine coast guard",
+    # "Laotian railway" name the country without using its exact name, and the
+    # noun-only lists missed them — which is how "AI data center stock Elice
+    # plunges in South Korean IPO" ended up in 泛非洲 and out of 周边国家.
+    "kr": ["north korea", "south korea", "north korean", "south korean", "korean",
+           "pyongyang", "seoul", "korean peninsula",
            "dprk", "rok", "kim jong", "kpa", "Korean war", "korean dmz",
-           "Korean nuclear", "朝鲜", "韩国", "平壤", "首尔", "韩半岛", "朝鲜半岛"],
-    "ph": ["philippines", "filipino", "manila", "marcos", "duterte", "philippine navy",
+           "Korean nuclear", "朝鲜", "韩国", "平壤", "首尔", "韩半岛", "朝鲜半岛", "韩方"],
+    "ph": ["philippines", "philippine", "filipino", "manila", "marcos", "duterte",
+           "philippine navy",
            "south china sea", "west philippine sea", "scarborough", "spratly",
            "palawan", "philippine coast guard", "bfar", "菲律宾", "马尼拉",
-           "马科斯", "杜特尔特", "南海"],
+           "马科斯", "杜特尔特", "南海", "菲方"],
     "mm": ["myanmar", "burma", "burmese", "naypyidaw", "yangon", "mandalay", "rangoon",
            "junta", "tatmadaw", "min aung hlaing", "nug", "pdf myanmar",
            "rohingya", "wa state army", "kokang", "缅甸", "仰光", "内比都",
@@ -371,16 +396,16 @@ CTY_MARKERS = {
            "indian army", "lac", "line of actual control", "arunachal pradesh",
            "indian navy", "balakot", "印度", "新德里", "莫迪", "印度人民党",
            "实控线", "拉达克"],
-    "np": ["nepal", "kathmandu", "nepali", "kp oli", "kp sharma", "prachanda",
-           "nepal congress", "bipin ledra", "everest", "himalayan",
-           "尼泊尔", "加德满都", "奥利", "普拉昌达"],
+    "np": ["nepal", "nepali", "nepalese", "kathmandu", "kp oli", "kp sharma",
+           "prachanda", "nepal congress", "bipin ledra", "everest", "himalayan",
+           "尼泊尔", "加德满都", "奥利", "普拉昌达", "尼方"],
     "vn": ["vietnam", "vietnamese", "hanoi", "ho chi minh city", "hcmc", "saigon",
            "to lam", "vietnam communist party", "vietnam navy", "south china sea",
            "paracel", "spratly", "brics vietnam", "vietnam rail",
            "越南", "河内", "胡志明市", "苏林", "越共"],
-    "la": ["laos", "lao", "vientiane", "lprp", "sonexay", "lao army",
+    "la": ["laos", "lao", "laotian", "vientiane", "lprp", "sonexay", "lao army",
            "lao pdr", "lao chinese railway", "boten", "laos china railway",
-           "laos vietnam", "mekong laos", "老挝", "万象", "中老铁路", "磨憨"],
+           "laos vietnam", "mekong laos", "老挝", "万象", "中老铁路", "磨憨", "老方"],
 }
 NE_ONLY = re.compile(r"\bniger\b(?!\s*(?:state|delta|river|basin|company|insurance))", re.I)
 NG_RE = re.compile(r"\bnigeri", re.I)
@@ -393,20 +418,55 @@ NG_RE = re.compile(r"\bnigeri", re.I)
 # Used only as a fallback after the keyword classifier failed to find any
 # country, so it never overrides an explicit match.
 DOMAIN_CTY = {
-    # KR / Korea
-    "koreaherald.com": "kr", "koreatimes.co.kr": "kr",
-    # PH / Philippines
+    # ── KR / Korea ────────────────────────────────────────────────────────
+    "koreaherald.com": "kr", "koreatimes.co.kr": "kr", "yna.co.kr": "kr",
+    "koreajoongangdaily.joins.com": "kr", "joongangdaily.joins.com": "kr",
+    "hani.co.kr": "kr", "chosun.com": "kr", "donga.com": "kr",
+    "mk.co.kr": "kr", "biz.chosun.com": "kr", "sedaily.com": "kr",
+    "korea.net": "kr", "yonhapnews.co.kr": "kr",
+    # ── PH / Philippines ──────────────────────────────────────────────────
     "rappler.com": "ph", "inquirer.net": "ph", "gmanetwork.com": "ph",
-    # MM / Myanmar
+    "philstar.com": "ph", "mb.com.ph": "ph", "manilatimes.net": "ph",
+    "businessmirror.com.ph": "ph", "pna.gov.ph": "ph", "abs-cbn.com": "ph",
+    "news.abs-cbn.com": "ph", "sunstar.com.ph": "ph", "bworldonline.com": "ph",
+    # ── MM / Myanmar ──────────────────────────────────────────────────────
     "irrawaddy.com": "mm", "frontiermyanmar.net": "mm", "mizzima.com": "mm",
-    # RU / Russia
-    "themoscowtimes.com": "ru",
-    # IN / India
-    "thehindu.com": "in", "hindustantimes.com": "in",
-    # NP / Nepal
-    "kathmandupost.com": "np",
-    # VN / Vietnam
-    "vnexpress.net": "vn", "tuoitre.vn": "vn",
+    "elevenmyanmar.com": "mm", "myanmarnow.com": "mm", "dvb.no": "mm",
+    "burmanet.org": "mm", "mmtimes.com": "mm", "myanmar-now.org": "mm",
+    # ── RU / Russia ───────────────────────────────────────────────────────
+    "themoscowtimes.com": "ru", "meduza.io": "ru", "rferl.org": "ru",
+    "tass.com": "ru", "rt.com": "ru", "sputniknews.com": "ru",
+    "kommersant.ru": "ru", "rbc.ru": "ru", "kyivindependent.com": "ru",
+    "novayagazeta.eu": "ru",
+    # ── IN / India ────────────────────────────────────────────────────────
+    "thehindu.com": "in", "hindustantimes.com": "in", "indianexpress.com": "in",
+    "timesofindia.indiatimes.com": "in", "economictimes.indiatimes.com": "in",
+    "theprint.in": "in", "thewire.in": "in", "scroll.in": "in",
+    "ndtv.com": "in", "livemint.com": "in", "business-standard.com": "in",
+    "deccanherald.com": "in", "telegraphindia.com": "in", "firstpost.com": "in",
+    "thebetterindia.com": "in", "moneycontrol.com": "in",
+    # ── NP / Nepal ────────────────────────────────────────────────────────
+    "kathmandupost.com": "np", "thehimalayantimes.com": "np",
+    "myrepublica.nagariknetwork.com": "np", "onlinekhabar.com": "np",
+    "setopati.com": "np", "nepalnews.com": "np", "recordnepal.com": "np",
+    # ── VN / Vietnam ──────────────────────────────────────────────────────
+    "vnexpress.net": "vn", "tuoitre.vn": "vn", "thanhnien.vn": "vn",
+    "vietnamnews.vn": "vn", "vir.com.vn": "vn", "vietnamnet.vn": "vn",
+    "baodautu.vn": "vn", "nhandan.vn": "vn", "dtinews.vn": "vn",
+    "saigontimes.vn": "vn",
+    # ── LA / Laos ─────────────────────────────────────────────────────────
+    "vientianetimes.org.la": "la", "kpl.gov.la": "la", "laotiantimes.com": "la",
+}
+
+# Multi-country desks: they cover the whole neighbourhood, so a fixed country
+# would be wrong. They are tracked separately and only used to relax the
+# relevance gate (a regional outlet writing about China + a neighbour without
+# naming the country is still in scope); they never set `country`.
+REGIONAL_DOMAINS = {
+    "scmp.com", "thediplomat.com", "channelnewsasia.com", "straitstimes.com",
+    "bangkokpost.com", "japantimes.co.jp", "nikkei.com", "asia.nikkei.com",
+    "benarnews.org", "rfa.org", "voanews.com", "asiasociety.org",
+    "lowyinstitute.org", "cfr.org", "brookings.edu", "csis.org",
 }
 
 
@@ -454,6 +514,21 @@ TAG_CTY = {
     "cn_ml": "ml", "ml_extra": "ml",
     "cn_kr": "kr", "cn_ph": "ph", "cn_mm": "mm", "cn_ru": "ru",
     "cn_in": "in", "cn_np": "np", "cn_vn": "vn", "cn_la": "la",
+}
+# The social collector uses its own soc_* tags, written into the filename
+# (firecrawl_xai_<tag>_<stamp>.json) rather than the payload. Same purpose:
+# last-resort country anchor for a post that names no place.
+SOC_TAG_CTY = {
+    "soc_cn_ng": "ng", "soc_us_ng": "ng", "soc_ter_ng": "ng",
+    "soc_cn_gh": "gh", "soc_cn_ne": "ne", "soc_cn_ml": "ml",
+    "soc_ter_ne": "ne", "soc_ter_ml": "ml",
+    "soc_cn_kr": "kr", "soc_cn_ph": "ph", "soc_cn_mm": "mm",
+    "soc_cn_ru": "ru", "soc_cn_in": "in", "soc_cn_np": "np",
+    "soc_cn_vn": "vn", "soc_cn_la": "la",
+    # Earlier single-country sweeps still present in the raw cache.
+    "soc_ng": "ng", "soc_gh": "gh",
+    "soc_ng_gov": "ng", "soc_ng_energy": "ng", "soc_ng_mining": "ng",
+    "soc_ng_security": "ng",
 }
 
 
@@ -1205,19 +1280,31 @@ for fn in news_files:
         # in the headline, and this is what keeps the priority tiers on topic.
         cty_title = classify_cty(title, "", dom)
         if cty_title == ["af"]:
-            # Scoped exceptions, both requiring a West African publisher so the
-            # tier cannot fill with wire-service world news:
-            #  a) China-related headline — West-Africa-relevant by construction
-            #     even without a country name ("Ecobank, CIPS partner on
-            #     China-Africa financial corridor", punchng.com);
+            # Scoped exceptions, both requiring a publisher that actually covers
+            # the monitored regions so the tier cannot fill with wire-service
+            # world news:
+            #  a) China- or US-related headline — in scope by construction even
+            #     without a country name ("Ecobank, CIPS partner on China-Africa
+            #     financial corridor", punchng.com). The US half is new: a story
+            #     like "US and China square off over Pacific islands" names no
+            #     single country but is squarely what this monitor is for.
             #  b) the country/region is named in the BODY while the source is a
             #     West African outlet — local outlets run such headlines routinely.
             body_cty = classify_cty(title, body[:1200], dom)
-            if dom in WA_DOMAINS and (CN_RX.search(title) or body_cty != ["af"]):
+            in_scope_source = dom in WA_DOMAINS or dom in REGIONAL_DOMAINS
+            if in_scope_source and (CN_RX.search(title) or has_us(title)
+                                    or body_cty != ["af"]):
                 cty_title = body_cty if body_cty != ["af"] else ["wa"]
             else:
-                dropped_offtopic += 1
-                continue
+                _tag_cty0 = TAG_CTY.get(doc.get("_tag") or "")
+                if _tag_cty0:
+                    # The angle that found it was country-specific, so the tag is
+                    # a better anchor than "unknown" — and dropping the item here
+                    # is what made modules look thin.
+                    cty_title = [_tag_cty0]
+                else:
+                    dropped_offtopic += 1
+                    continue
         # Full classification uses the body too; the relaxed gate result is merged
         # in so a China story recovered above stays tagged to the region.
         cty = classify_cty(title, body[:1500], dom)
@@ -1241,6 +1328,7 @@ for fn in news_files:
         tier, actor, also_us = actor_tier(
             title, summary, is_gov_publisher=(dom in GOV_DOMAINS),
             topics=classify_topic(title, body[:1500]))
+        cn_hit, us_hit = subject_hits(title, summary)
         age_days = max(0.0, (now_utc - dt).total_seconds() / 86400.0)
         # Full body for the collapsible reader. Only emitted when the article
         # backfill actually retrieved the page (fulltext) — the search index's
@@ -1285,6 +1373,8 @@ for fn in news_files:
             "tier": tier,
             "actor": actor,
             "alsoUS": also_us,
+            "cnHit": cn_hit,
+            "usHit": us_hit,
             "score": float(it.get("score") or 0),
             "tag": doc.get("_tag", ""),
         })
@@ -1318,6 +1408,30 @@ for _k, _item in _pool_in.items():
     # Re-age against THIS run's clock; the stored value came from an older one.
     _item["ageDays"] = round(max(0.0, (now_utc - _dt).total_seconds() / 86400.0), 2)
     _item["fromPool"] = True
+    # Re-classify carried-over items whose geography is still unresolvable.
+    #
+    # A pooled record keeps the country list computed when it was first fetched,
+    # so any classifier improvement never reaches the items already in the window
+    # — they simply sit in 泛非洲 for their remaining days and appear in no
+    # geographic module. That is the "some stories are missing" symptom. Only
+    # items with NO concrete country are re-run, so a correct earlier result is
+    # never disturbed.
+    _pc = _item.get("country") or []
+    if not (set(_pc) & ALL_CTYS):
+        _pct = classify_cty(_item.get("title") or "",
+                            (_item.get("body") or "")[:1500])
+        _ptag = TAG_CTY.get(_item.get("tag") or "")
+        if set(_pct) & ALL_CTYS:
+            _item["country"] = _pct
+        elif _ptag:
+            _item["country"] = [_ptag]
+        # cnHit / usHit were added after the pool was first written; recompute so
+        # 涉华 / 涉美 membership is right for older items too.
+    if "cnHit" not in _item or "usHit" not in _item:
+        _c, _u = subject_hits(_item.get("title") or "",
+                              _item.get("summary") or _item.get("snippet") or "")
+        _item["cnHit"] = _c
+        _item["usHit"] = _u
     news.append(_item)
     seen.add(_k)
     added_from_pool += 1
@@ -1497,6 +1611,14 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
     except Exception as exc:
         print("skip unreadable raw file %s (%s)" % (os.path.basename(fn), type(exc).__name__))
         continue
+    # The collector's tag lives in the FILENAME (firecrawl_xai_<tag>_<stamp>.json),
+    # not in the payload, so parse it here — it is the last-resort country anchor
+    # for posts that name no place.
+    _query_tag = ""
+    _m_tag = re.search(r"firecrawl_xai_([a-z0-9_]+?)_\d{8}_\d{4}\.json$",
+                       os.path.basename(fn))
+    if _m_tag:
+        _query_tag = _m_tag.group(1)
     for plat in doc.get("platforms", []):
         pname = plat.get("name")
         for it in plat.get("results") or []:
@@ -1557,6 +1679,17 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
                 title, snip, min_hits=2,
                 is_gov_publisher=((handle or "").lower() in GOV_HANDLES),
                 topics=classify_topic(title + " " + author, snip))
+            cn_hit, us_hit = subject_hits(title + " " + author, snip, min_hits=2)
+            # Country attribution: author text matters here (an account name often
+            # names its country where the post copy does not), and the query tag
+            # is the last resort — a post surfaced by "China Ghana investment"
+            # that mentions no place name at all was previously filed as
+            # 泛非洲 and therefore appeared in no geographic module.
+            _scty = classify_cty(title + " " + author, snip)
+            if not (set(_scty) & ALL_CTYS):
+                _stag = SOC_TAG_CTY.get(_query_tag) or TAG_CTY.get(_query_tag)
+                if _stag:
+                    _scty = [_stag]
             social.append({
                 "platform": pname,
                 "title": title,
@@ -1570,11 +1703,13 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
                 "bodyLevel": "post" if pname == "x" else "excerpt",
                 "author": author,
                 "handle": ("@" + handle) if handle and pname in ("x", "facebook") else "",
-                "country": classify_cty(title + " " + author, snip),
+                "country": _scty,
                 "topic": classify_topic(title + " " + author, snip),
                 "tier": tier,
                 "actor": actor,
                 "alsoUS": also_us,
+                "cnHit": cn_hit,
+                "usHit": us_hit,
                 "ageDays": round(age_days, 2),
                 "_ts": ts.timestamp(),
                 "postedAt": ts.astimezone(CST).strftime("%Y-%m-%d %H:%M"),
@@ -1585,7 +1720,7 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
                 "note": ("本卡片为 Grok 综合摘要，非原帖全文；点击查看原帖。" if it.get("grok_summary")
                          else ("" if pname == "x" else
                                "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。")),
-                "tag": doc.get("query", ""),
+                "tag": doc.get("_tag") or doc.get("query", ""),
             })
 
 # Same rule as the news feed: newest first, straight down the page.
@@ -1610,6 +1745,24 @@ for _k, _item in _pool_in_s.items():
         continue
     _item["ageDays"] = round(max(0.0, _age), 2)
     _item["fromPool"] = True
+    # Same re-classification as the news pool: carry-overs keep the country list
+    # from the run that first fetched them, so classifier fixes never reach them.
+    _pc = _item.get("country") or []
+    if not (set(_pc) & ALL_CTYS):
+        _pct = classify_cty(_item.get("title") or "",
+                            _item.get("snippet") or _item.get("body") or "")
+        if set(_pct) & ALL_CTYS:
+            _item["country"] = _pct
+        else:
+            _ptag = (SOC_TAG_CTY.get(_item.get("tag") or "")
+                     or TAG_CTY.get(_item.get("tag") or ""))
+            if _ptag:
+                _item["country"] = [_ptag]
+    if "cnHit" not in _item or "usHit" not in _item:
+        _c, _u = subject_hits(_item.get("title") or "",
+                              _item.get("snippet") or "", min_hits=2)
+        _item["cnHit"] = _c
+        _item["usHit"] = _u
     social.append(_item)
     see_s.add(_k)
     added_s += 1

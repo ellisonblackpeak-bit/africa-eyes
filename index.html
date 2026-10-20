@@ -322,11 +322,17 @@ details.ft[open] summary::before{content:'▾ '}
   var US_RX = /\bamericans?\b|\bamerican\b|\bpentagon\b|\btrump\b|\bbiden\b|\busaid\b|\bafricom\b|\bexxon\b|\bchevron\b|\boccidental\b|\bunited\s+states\b|\bwashington\b|\bstate\s+department\b|\bwhite\s+house\b|\bwall\s+street\b|\bsilicon\s+valley\b|\bmillennium\s+challenge\b/i;
   function inModule(it, mod){
     var c = it.country || [];
-    /* tier 1 / 2 are decided by build_data.py (it is the authoritative
-       classifier: title match OR ≥3 mentions in summary). Country lists
-       here are the geography buckets the reader asked for. */
-    if(mod==='china')    return it.tier===1;
-    if(mod==='us')       return it.tier===2;
+    /* tier 1 / 2 are single-valued (one priority band per item), so using them
+       as module membership DROPPED stories from the module they belong to: a
+       tier-1 item like "Trump says he may meet Xi on North Korea" never showed
+       up in 涉美, and "US sanctions Chinese firms over Niger" was tier 1 only.
+       build_data now emits cnHit / usHit — two independent, non-exclusive flags
+       — and those decide membership. `tier` keeps its ranking/filter role only.
+       Fallback to tier for payloads built before the flags existed. */
+    var cn = (typeof it.cnHit==='boolean') ? it.cnHit : (it.tier===1);
+    var us = (typeof it.usHit==='boolean') ? it.usHit : (it.tier===2||!!it.alsoUS);
+    if(mod==='china')    return cn;
+    if(mod==='us')       return us;
     if(mod==='africa')   return c.some(function(x){return AFRICA_CTYS.indexOf(x)>=0;});
     if(mod==='periphery')return c.some(function(x){return PERIPHERY_CTYS.indexOf(x)>=0;});
     return false;

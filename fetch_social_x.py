@@ -141,6 +141,10 @@ def main():
             print("  -- %s: no posts" % tag)
             continue
         doc = {"query": q,
+               # Carried into build_data as the last-resort country anchor
+               # (SOC_TAG_CTY); the filename also encodes it, but keeping it in
+               # the payload makes the raw file self-describing.
+               "_tag": tag,
                "platforms": [{
                    "name": "x", "label": "X", "kind": "social", "fulltext": True,
                    "engine": "xai-xsearch", "model": os.environ.get("XAI_SEARCH_MODEL", "grok-4.7"),
