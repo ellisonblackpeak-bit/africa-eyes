@@ -1,0 +1,82 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Notarization is finally available online. Here’s how it works.",
+   "url": "https://www.rappler.com/philippines/e-notarization-how-works/",
+   "content": "eNotarization makes the service more accessible to the public because under the 2004 Rules on Notarial Practice, traditional notary publics can only perform notarizations within their respective territorial jurisdictions",
+   "published_date": "Tue, 20 Oct 2026 09:51:27 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Pope Leo to hold Wednesday audience for first time since cancer surgery",
+   "url": "https://www.rappler.com/world/europe/pope-leo-hold-wednesday-audience-first-time-cancer-surgery/",
+   "content": "Pope Leo pledges that he would slowly resume his usual activities as the leader of the world's 1.4 billion Catholics",
+   "published_date": "Tue, 20 Oct 2026 08:13:25 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "France in turmoil: What might follow a weekend of riots?",
+   "url": "https://www.rappler.com/world/europe/france-turmoil-what-might-follow-weekend-riots/",
+   "content": "Elections next year will see President Emmanuel Macron step down after a decade in power. The unrest is likely to give a boost to far-right presidential candidate Marine Le Pen, the frontrunner in polls who has long talked tough on law and order.",
+   "published_date": "Tue, 20 Oct 2026 07:52:12 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Alex Eala kicks off Ningbo Open campaign with win over Diane Parry",
+   "url": "https://www.rappler.com/people/athletes/alex-eala-diane-parry-tennis-ningbo-open-october-19-2026/",
+   "content": "Filipina tennis star Alex Eala advances to the round of 16 at the Ningbo Open after defeating France's Diane Parry in straight sets",
+   "published_date": "Mon, 19 Oct 2026 22:20:42 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Sandiganbayan suspends Marcoleta as senator | The wRap",
+   "url": "https://www.rappler.com/video/daily-wrap/october-19-2026/",
+   "content": "Today’s headlines: Rodante Marcoleta, Erwin Tulfo, DFA",
+   "published_date": "Mon, 19 Oct 2026 22:00:00 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Gawilan bags Philippines’ first gold at 2026 Asian Para Games",
+   "url": "https://www.rappler.com/sports/ernie-gawilan-philippines-swimming-gold-asian-para-games-2026/",
+   "content": "Veteran para swimmer Ernie Gawilan delivers for the Philippines anew, winning the country’s first gold at the 2026 Asian Para Games in Japan",
+   "published_date": "Mon, 19 Oct 2026 21:34:50 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "League-leading NU wants to prove doubters wrong this time",
+   "url": "https://www.rappler.com/people/athletes/uaap-league-leading-nu-bulldogs-prove-doubters-wrong/",
+   "content": "NU looks driven to turn its early dominance into a championship after last year’s heartbreak, but UP remains close behind at the end of the UAAP men’s basketball first round",
+   "published_date": "Mon, 19 Oct 2026 20:30:07 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Senate resolution seeks to declare Chinese envoy ‘persona non grata’",
+   "url": "https://www.rappler.com/philippines/senate-resolution-seeks-declare-china-jing-quan-persona-non-grata/",
+   "content": "The resolution also expresses the Senate’s 'serious concern' over Chinese Ambassador Jing Quan's controversial remarks",
+   "published_date": "Mon, 19 Oct 2026 20:05:02 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Champi now a super typhoon again ahead of entry into PAR",
+   "url": "https://www.rappler.com/philippines/weather/super-typhoon-champi-itcz-update-pagasa-forecast-october-19-2026-5pm/",
+   "content": "The trough or extension of Super Typhoon Champi may already trigger scattered rain and thunderstorms in Catanduanes, Northern Samar, and Eastern Samar, says PAGASA on Monday afternoon, October 19",
+   "published_date": "Mon, 19 Oct 2026 18:45:00 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "[Rappler’s Best] And our jaws dropped",
+   "url": "https://www.rappler.com/voices/newsletters/best-impeachment-trial-sara-duterte-recess-defense-counter-move/",
+   "content": "The impeachment court is on recess until November 9, when it’s the defense’s turn to present its case. What would the defense’s counter move be?",
+   "published_date": "Mon, 19 Oct 2026 18:00:00 +0800",
+   "score": 0.6
+  }
+ ],
+ "engine": "rss",
+ "_tag": "rss_rappler",
+ "_query": "https://www.rappler.com/feed/",
+ "_domains": [
+  "rappler.com"
+ ],
+ "_days": 3
+}

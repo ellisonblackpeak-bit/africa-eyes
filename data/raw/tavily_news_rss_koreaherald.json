@@ -1,0 +1,11 @@
+{
+ "success": true,
+ "results": [],
+ "engine": "rss",
+ "_tag": "rss_koreaherald",
+ "_query": "https://www.koreaherald.com/rss",
+ "_domains": [
+  "koreaherald.com"
+ ],
+ "_days": 3
+}
