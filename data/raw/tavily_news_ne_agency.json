@@ -1,0 +1,23 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Severe environmental incident declared in Niger after oil blowout | Africanews",
+   "url": "https://www.africanews.com/2026/10/13/severe-environmental-incident-declared-in-niger-after-oil-blowout",
+   "snippet": "#### \n\n### Damaged Russian tanker adrift in Mediterranean to be towed to Libyan port\n\nNiger military government to sue French uranium giant over environment\n\n#### \n\n### Niger military government to sue French uranium giant over environment\n\nAcid spill devastates Zambia’s Kafue River\n\n#### \n\n### Acid spill devastates Zambia’s Kafue River\n\n## From the same country\n\nNiger signs deal with Australian g",
+   "published": "Tue, 13 Oct 2026 13:49:03 GMT",
+   "source": "tavily"
+  }
+ ],
+ "_tag": "ne_agency",
+ "_query": "Niger Niamey junta uranium army government",
+ "_domains": [
+  "reuters.com",
+  "africanews.com",
+  "theafricareport.com",
+  "allafrica.com",
+  "bbc.com",
+  "ecofinagency.com"
+ ],
+ "_days": 3
+}

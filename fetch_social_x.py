@@ -26,17 +26,32 @@ OUT = os.path.join(HERE, "data", "raw")
 os.makedirs(OUT, exist_ok=True)
 
 EVERY_MIN = int(os.environ.get("SOCIAL_X_EVERY_MIN", "180"))
-MAX_QUERIES = int(os.environ.get("SOCIAL_X_QUERIES", "6"))
+MAX_QUERIES = int(os.environ.get("SOCIAL_X_QUERIES", "12"))
 
 QUERIES = [
-    ("soc_ng_gov", "Nigeria Federal Government ministry announcement policy"),
-    ("soc_ng_security", "Nigeria security politics government"),
-    ("soc_ng_energy", "Nigeria NNPC refinery oil gas pipeline electricity"),
-    ("soc_ng_mining", "Nigeria mining lithium gold minerals policy"),
-    ("soc_sahel", "Niger Mali Sahel junta uranium military"),
-    ("soc_gh", "Ghana government GoldBod mining gold economy policy"),
+    # ── Africa four — China angle (covers 涉华 module for the 4 African countries)
+    ("soc_cn_ng", "Nigeria China Chinese company project investment embassy"),
+    ("soc_cn_gh", "Ghana China Chinese company investment mining embassy"),
+    ("soc_cn_ne", "Niger China Chinese company uranium agreement"),
+    ("soc_cn_ml", "Mali China Chinese company agreement Bamako"),
+    # ── Africa four — US angle
+    ("soc_us_ng", "United States Nigeria AFRICOM ambassador cooperation"),
+    ("soc_us_sahel", "United States Niger Mali Sahel AFRICOM cooperation sanctions"),
+    # ── Africa four — terror groups
+    ("soc_ter_ne", "MPLJ FPL JNIM EIGS Niger jihadist attack Agadez Tillaberi"),
+    ("soc_ter_ml", "Mali JNIM EIGS Bamako Gao Kidal jihadist attack"),
+    ("soc_ter_ng", "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara"),
+    # ── China periphery — China angle only (per the reader's spec)
+    ("soc_cn_kr", "China North Korea South Korea Chinese embassy deal"),
+    ("soc_cn_ph", "China Philippines Chinese company South China Sea"),
+    ("soc_cn_mm", "China Myanmar Chinese company Kachin Rakhine investment"),
+    ("soc_cn_ru", "China Russia Chinese company energy cooperation"),
+    ("soc_cn_in", "China India Chinese company border LAC"),
+    ("soc_cn_np", "China Nepal Chinese company BRI Belt Road"),
+    ("soc_cn_vn", "China Vietnam Chinese company railway South China Sea"),
+    ("soc_cn_la", "China Laos Chinese company railway Boten"),
+    # ── Strategic corridors (kept as a 涉华-leaning tail)
     ("soc_corridor", "Nigeria Morocco gas pipeline West Africa corridor project"),
-    ("soc_china", "Nigeria Ghana China Chinese company project investment"),
 ]
 
 

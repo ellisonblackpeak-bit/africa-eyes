@@ -1,0 +1,51 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Mahama approves Integrated Basic Education Model, with funding expected in 2027 under GETFund formula",
+   "url": "https://www.myjoyonline.com/mahama-approves-integrated-basic-education-model-with-funding-expected-in-2027-under-getfund-formula",
+   "snippet": "Education Minister Haruna Iddrisu says President John Dramani Mahama has approved plans to introduce an Integrated Basic Education Model that will bring",
+   "published": "Wed, 14 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asantehene endorses Mahama’s reset agenda, backs local mineral processing",
+   "url": "https://www.adomonline.com/asantehene-endorses-mahamas-reset-agenda-backs-local-mineral-processing",
+   "snippet": "The Asantehene, Otumfuo Osei Tutu II, has endorsed President John Dramani Mahama's reset agenda, describing the government's push to process Ghana's",
+   "published": "Mon, 19 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Hassan Ayariga challenges Mahama over BRICS move, demands parliamentary consultation",
+   "url": "https://www.myjoyonline.com/hassan-ayariga-challenges-mahama-over-brics-move-demands-parliamentary-consultation",
+   "snippet": "The Founder and Leader of the All People's Congress (APC), Dr Hassan Ayariga, has challenged President John Dramani Mahama over the government's plan to",
+   "published": "Sun, 18 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
+ "_tag": "gov_gh",
+ "_query": "Ghana government ministry approves policy statement Mahama",
+ "_domains": [
+  "premiumtimesng.com",
+  "punchng.com",
+  "vanguardng.com",
+  "saharareporters.com",
+  "businessday.ng",
+  "thecable.ng",
+  "myjoyonline.com",
+  "graphic.com.gh",
+  "citinewsroom.com",
+  "thenationonlineng.net",
+  "dailytrust.com",
+  "guardian.ng",
+  "thisdaylive.com",
+  "leadership.ng",
+  "tribuneonlineng.com",
+  "sunnewsonline.com",
+  "ghanaweb.com",
+  "3news.com",
+  "adomonline.com",
+  "peacefmonline.com"
+ ],
+ "_days": 3
+}

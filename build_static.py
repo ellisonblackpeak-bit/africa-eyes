@@ -3,14 +3,16 @@
 
 The published preview link (workbuddy_sites_deploy) mints a new public domain on
 every deploy and the old one starts answering 400 / 12803 within the hour, so it
-cannot be handed to readers as a daily-use address. A library-hosted page keeps
-the same link indefinitely. That page has no backend, hence:
+cannot be handed to readers as a daily-use address. GitHub Pages serves the
+repo root statically and keeps the URL permanent; this file is what the
+GitHub-Actions deploy step uploads.
 
   * data is inlined instead of fetched from data.js;
-  * window.__STATIC__ is set so index.html skips the /version poll and the two
-    live-search tabs (they would only ever 404).
+  * window.__STATIC__ is set so index.html skips the /version poll loop (the
+    library/iframe render path is the live GitHub Pages one, polled by a thin
+    client-side check).
 
-Output: dist/africa-eyes.html
+Output: dist/china-eyes.html
 """
 import io
 import os
@@ -21,7 +23,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 INDEX = os.path.join(HERE, "index.html")
 DATA = os.path.join(HERE, "data.js")
 OUTDIR = os.path.join(HERE, "dist")
-OUT = os.path.join(OUTDIR, "africa-eyes.html")
+OUT = os.path.join(OUTDIR, "china-eyes.html")
 
 TAG = '<script src="data.js" onerror="window.__DATA_MISSING__=1"></script>'
 

@@ -1,0 +1,51 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Atiku and the politics of disrespect to the office of the president | TheCable",
+   "url": "https://www.thecable.ng/atiku-and-the-politics-of-disrespect-to-the-office-of-the-president",
+   "snippet": "There is nothing undemocratic about Atiku challenging Tinubu’s policies. Indeed, Atiku has recently criticised the Tinubu administration over the cost of living, economic reforms, fuel prices and the government’s claim that Nigeria has entered an “age of prosperity.” Those are legitimate subjects for political debate, and his arguments should be examined on their merits. [...] The same standard sh",
+   "published": "Fri, 16 Oct 2026 13:35:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "President Tinubu, the Democratic Opposition Ecosystem and 2027 General Election – THISDAYLIVE",
+   "url": "https://www.thisdaylive.com/2026/10/05/president-tinubu-the-democratic-opposition-ecosystem-and-2027-general-election",
+   "snippet": "Two, this situation has fundamentally left the Tinubu administration’s governance and development policies bereft of a clear and ideological challenge, even if the opposition is already partisan. When the ADC is unable to bury the personal interests of its gladiators under the need to challenge the incumbent government and its policy architecture, it becomes near impossible for the new party to ar",
+   "published": "Mon, 19 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2027: APC will campaign on Tinubu’s performance, says Betta Edu",
+   "url": "https://guardian.ng/politics/2027-apc-will-campaign-on-tinubus-performance-says-betta-edu",
+   "snippet": "Betta Edu says APC's 2027 presidential campaign will focus on Tinubu's record, including economic reforms, education and grassroots mobilisation.",
+   "published": "Wed, 14 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
+ "_tag": "ng_politics",
+ "_query": "Nigeria politics government policy Tinubu",
+ "_domains": [
+  "premiumtimesng.com",
+  "punchng.com",
+  "vanguardng.com",
+  "saharareporters.com",
+  "businessday.ng",
+  "thecable.ng",
+  "myjoyonline.com",
+  "graphic.com.gh",
+  "citinewsroom.com",
+  "thenationonlineng.net",
+  "dailytrust.com",
+  "guardian.ng",
+  "thisdaylive.com",
+  "leadership.ng",
+  "tribuneonlineng.com",
+  "sunnewsonline.com",
+  "ghanaweb.com",
+  "3news.com",
+  "adomonline.com",
+  "peacefmonline.com"
+ ],
+ "_days": 3
+}

@@ -1,0 +1,30 @@
+{
+ "success": true,
+ "results": [],
+ "_tag": "gov_ne_ml",
+ "_query": "Niger Mali government council of ministers communique decree",
+ "_domains": [
+  "premiumtimesng.com",
+  "punchng.com",
+  "vanguardng.com",
+  "saharareporters.com",
+  "businessday.ng",
+  "thecable.ng",
+  "myjoyonline.com",
+  "graphic.com.gh",
+  "citinewsroom.com",
+  "thenationonlineng.net",
+  "dailytrust.com",
+  "guardian.ng",
+  "thisdaylive.com",
+  "leadership.ng",
+  "tribuneonlineng.com",
+  "sunnewsonline.com",
+  "ghanaweb.com",
+  "3news.com",
+  "adomonline.com",
+  "peacefmonline.com",
+  "africanews.com"
+ ],
+ "_days": 3
+}

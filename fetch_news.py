@@ -116,62 +116,44 @@ AGENCY = ["reuters.com", "africanews.com", "theafricareport.com", "allafrica.com
 MINING = ["mining.com", "mining-journal.com", "mining-technology.com", "im-mining.com"]
 
 PLAN = [
-    # Country-anchored, and pointed at West African outlets: a 3-day window on a
-    # global wire service returns recent world news that merely shares a token
-    # ("oil", "security"), which then pollutes the priority tiers.
-    ("ng_politics", "Nigeria politics government policy Tinubu", WA, 10),
-    ("ng_economy", "Nigeria economy naira inflation budget oil revenue", WA, 10),
-    ("ng_security", "Nigeria security attack bandits kidnapping Boko Haram military", WA, 10),
-    ("ng_energy", "Nigeria oil gas refinery NNPC power sector petrol", WA + MINING, 10),
-    ("ng_mining", "Nigeria mining solid minerals licence gold lithium policy", WA + MINING, 10),
-    ("ne_politics_security", "Niger junta security military transition Niamey", WA + FR + ["africanews.com"], 10),
-    ("ne_energy_mining", "Niger uranium mining licence Orano Somair energy", WA + FR + MINING + ["africanews.com"], 10),
-    ("ml_politics_security", "Mali junta security jihadist attack army Bamako", WA + FR + ["africanews.com"], 10),
-    ("ml_mining_economy", "Mali gold mining economy Barrick tax dispute", WA + FR + MINING, 10),
-    ("gh_politics_economy", "Ghana government politics economy cedi budget IMF", WA, 10),
-    ("gh_mining_energy", "Ghana gold mining galamsey small scale electricity energy", WA + MINING, 10),
-    # Tier 2
-    ("us_wa", "United States Nigeria Niger cooperation", WA, 10),
-    ("us_wa2", "US military aid child soldiers sanctions Nigeria Washington", WA, 10),
-    ("us_business", "American company investment Nigeria Ghana oil gas energy", WA, 10),
-    ("regional_security", "West Africa Sahel JNIM ISWAP attack ECOWAS coastal states",
-     ["reuters.com", "africanews.com", "allafrica.com"], 10),
-    # Tier 3: the four governments' own announcements, plus the strategic-corridor
-    # axis (pipelines / rail / roads / ports) the reader asked to track.
-    ("gov_ng", "Nigeria Federal Government ministry approves policy statement", WA, 10),
-    ("gov_ng2", "Nigeria president Tinubu signs approves budget reform", WA, 10),
-    ("gov_gh", "Ghana government ministry approves policy statement Mahama", WA, 10),
-    ("gov_ne_ml", "Niger Mali government council of ministers communique decree", WA + ["africanews.com"], 10),
+    # ─── Africa four — China angle (the largest yield axis) ────────────────
+    ("cn_ng", "Nigeria Chinese company investment project deal", WA, 10),
+    ("cn_ng_emb", "Chinese embassy Nigeria ambassador consulate", WA, 10),
+    ("cn_ng_gov", "China Nigeria government deal agreement cooperation", WA + ["africanews.com"], 10),
+    ("cn_gh", "Ghana Chinese company firm investment deal mining galamsey", WA, 10),
+    ("cn_ne", "Niger China deal Chinese company uranium", WA + FR + ["africanews.com"], 10),
+    ("cn_ml", "Mali China deal Chinese company agreement", WA + FR + ["africanews.com"], 10),
+    # ─── Africa four — US angle ─────────────────────────────────────────────
+    ("us_ng", "United States Nigeria cooperation embassy military AFRICOM", WA, 10),
+    ("us_gh", "United States Ghana cooperation embassy military AFRICOM", WA, 10),
+    ("us_ne_ml", "United States Niger Mali sanctions military cooperation AES", WA + FR + AGENCY, 10),
+    ("us_biz", "American company investment Nigeria Ghana oil gas energy", WA, 10),
+    # ─── Africa four — terror groups (MPLJ / FPL / JNIM / EIGS / ISIS / Lakurawa)
+    ("ter_ne_ml", "MPLJ FPL JNIM EIGS jihadist attack Niger Mali Sahel", WA + FR + AGENCY, 10),
+    ("ter_ng", "Lakurawa ISWAP Boko Haram bandit terrorist attack Nigeria", WA, 10),
+    ("ter_wide", "JNIM EIGS ISWAP Lakurawa attack Mali Niger Nigeria Burkina", AGENCY, 10),
+    # ─── Africa four — government / corridor (kept for tier 3 / tier 4)
+    ("gov_ng", "Nigeria Federal Government ministry approves policy statement Tinubu", WA, 10),
+    ("gov_gh", "Ghana government ministry Mahama approves policy", WA, 10),
+    ("gov_ne_ml", "Niger Mali government council of ministers communique decree", WA + AGENCY, 10),
     ("cor_pipeline", "Nigeria Morocco gas pipeline corridor ECOWAS", WA + ["africanews.com"], 10),
     ("cor_rail_road", "railway corridor highway port project Nigeria Ghana West Africa", WA, 10),
-    ("cor_ports", "seaport Lagos Tema Abidjan corridor trade route infrastructure", WA, 10),
-    # Tier 1. Every one of these is inside the SAME 3-day window as everything
-    # else — there is no backfill, because stale items presented as current are
-    # worse than a gap. A wide set of angles is used deliberately: the West
-    # African English press carries China coverage only intermittently, and
-    # measured on this index the same query returns different result sets on
-    # successive calls, so several phrasings materially raise the in-window yield.
-    ("cn_ng_1", "Nigeria China deal contract agreement project", WA, 10),
-    ("cn_ng_2", "Nigeria Chinese company firm investment", WA, 10),
-    ("cn_ng_3", "Chinese embassy Nigeria cooperation ambassador", WA, 10),
-    ("cn_gh_1", "Ghana Chinese company firm investment deal", WA, 10),
-    ("cn_gh_2", "Ghana China galamsey Chinese miners illegal", WA, 10),
-    ("cn_ne_1", "Niger China deal agreement Chinese company", WA + ["africanews.com"], 10),
-    ("cn_ml_1", "Mali China deal agreement Chinese company", WA + ["africanews.com"], 10),
-    ("cn_wa_1", "China West Africa Chinese investment Africa", WA + ["africanews.com"], 10),
-    # Niger / Mali. Measured: the francophone African press is effectively ABSENT
-    # from this news index — dedicated queries against rfi.fr, jeuneafrique.com,
-    # ecofinagency.com and the local outlets (actuniger, malijet, maliweb,
-    # lesahel, airinfo) all return 0 results. So these two countries have to be
-    # reached through the English-language agencies that cover the Sahel.
-    ("ne_agency", "Niger Niamey junta uranium army government", AGENCY, 10),
-    ("ne_agency2", "Niger coup transition sanctions ECOWAS AES", AGENCY, 10),
-    ("ml_agency", "Mali Bamako army jihadist attack gold mining", AGENCY, 10),
-    ("ml_agency2", "Mali junta AES Russia security transition", AGENCY, 10),
-    # Breadth sweeps: the roster is wide now, so plain "latest news" queries across
-    # it recover in-window items that keyword-specific angles miss.
+    # ─── China periphery — 8 countries × China focus (per the reader's spec,
+    #   "涉及中国人、中国企业、中国项目的新闻" only; no terror or US lens).
+    ("cn_kr", "China North Korea South Korea Chinese company investment deal embassy", AGENCY, 10),
+    ("cn_ph", "China Philippines Chinese company investment South China Sea", AGENCY, 10),
+    ("cn_mm", "China Myanmar Chinese company investment Belt Road Kachin", AGENCY, 10),
+    ("cn_ru", "China Russia Chinese company investment cooperation Moscow", AGENCY, 10),
+    ("cn_in", "China India Chinese company border LAC Arunachal Ladakh", AGENCY, 10),
+    ("cn_np", "China Nepal Chinese company investment Belt Road KPN", AGENCY, 10),
+    ("cn_vn", "China Vietnam Chinese company investment railway South China Sea", AGENCY, 10),
+    ("cn_la", "China Laos Chinese company investment railway Boten", AGENCY, 10),
+    # ─── Breadth sweeps: a plain "latest news" against each domain cluster
+    #    recovers in-window items that keyword-specific angles miss.
     ("ng_extra", "Nigeria latest news today", WA, 10),
     ("gh_extra", "Ghana latest news today", WA, 10),
+    ("ne_extra", "Niger Niamey latest news today junta", AGENCY, 10),
+    ("ml_extra", "Mali Bamako latest news today junta jihadist", AGENCY, 10),
 ]
 
 client = TavilyClient(api_key=KEY) if TavilyClient else None
@@ -433,6 +415,18 @@ RSS_FEEDS = [
     ("myjoyonline", "https://www.myjoyonline.com/feed/",              "myjoyonline.com"),
     ("citinews",    "https://citinewsroom.com/feed/",                 "citinewsroom.com"),
     ("ghanaweb",    "https://www.ghanaweb.com/GhanaHomePage/rss/news.xml", "ghanaweb.com"),
+    # China periphery RSS (added 2026-10-20): English / cheap-channels that
+    # cover China activity in the eight neighbouring countries. Picked for
+    # published-feed reliability rather than breadth — these are the outlets
+    # Tavily returns the fewest duplicates for, so they don't waste credits.
+    ("irrawaddy",   "https://www.irrawaddy.com/rss.xml",              "irrawaddy.com"),
+    ("rappler",     "https://www.rappler.com/feed/",                  "rappler.com"),
+    ("moscowtimes", "https://www.themoscowtimes.com/rss/news",        "themoscowtimes.com"),
+    ("koreaherald", "https://www.koreaherald.com/rss",                "koreaherald.com"),
+    ("thehindu",    "https://www.thehindu.com/feeder/default.rss",    "thehindu.com"),
+    ("vnexpress",   "https://vnexpress.net/rss/tin-moi-nhat.rss",     "vnexpress.net"),
+    ("kathmandupost", "https://kathmandupost.com/rss",                "kathmandupost.com"),
+    ("rfa_chinese", "https://www.rfa.org/mandarin/rssfeed.xml",       "rfa.org"),
 ]
 _RSS_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")

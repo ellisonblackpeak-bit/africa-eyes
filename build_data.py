@@ -47,14 +47,16 @@ CST = timezone(timedelta(hours=8))
 #   FETCH_DAYS  — what the collectors reach for on each run (fetch_news.py and
 #                 fetch_social.py use their own 3-day setting). Only fresh copy
 #                 enters the pipeline.
-#   WINDOW_DAYS — how long a *processed* item stays on the page. The reader asked
-#                 for 5 here: an item collected on its third day should still be
-#                 readable two days later, instead of vanishing the moment the
-#                 fetch window slides past it.
+#   WINDOW_DAYS — how long a *processed* item stays on the page. The reader
+#                 (2026-10-20) asked for ≤ 3 days between publication and
+#                 collection, so the display window is the same: anything past
+#                 WINDOW_DAYS is dropped before it reaches the page. The pool
+#                     carries items across runs but ages them at this same bound,
+#                     so a stale piece presented as fresh is impossible.
 # The bridge between them is data/pool.json — items are carried across runs and
 # aged out at WINDOW_DAYS. Without the pool the page would empty out every run.
 FETCH_DAYS = 3
-WINDOW_DAYS = 5
+WINDOW_DAYS = 3
 
 # ─────────────── outlet registry (contact = publicly published page) ───────────
 OUTLETS = {
@@ -174,12 +176,12 @@ THIRD = [
 ]
 THIRD_RX = [(nm, re.compile(rx, re.I)) for nm, rx in THIRD]
 
-TIER_LABEL = {1: "涉华动态", 2: "美国活动", 3: "四国政府动态", 4: "其他报道"}
+TIER_LABEL = {1: "涉华动态", 2: "涉美动态", 3: "当地政府动态", 4: "其他报道"}
 TIER_DESC = {
-    1: "报道涉及中国人员、中国企业或中国项目",
-    2: "报道涉及美国在该国的活动（政府、军方、企业或援助机构）",
-    3: "尼日利亚、尼日尔、马里、加纳等国政府自身发布的动态，涵盖政治、经济、能源、矿产与战略通道（管道、铁路、公路、港口）等议题",
-    4: "上述三类以外的公开报道（非政府、非中美）。此组为本平台附加保留，如不需要可告知删除",
+    1: "报道涉及中国人员、中国企业或中国项目（覆盖非洲四国 + 中国周边共 12 个监测国）",
+    2: "报道涉及美国在监测区域的活动（政府、军方、企业或援助机构）",
+    3: "尼日利亚、尼日尔、马里、加纳等四国政府自身发布的动态，涵盖政治、经济、能源、矿产与战略通道（管道、铁路、公路、港口）等议题",
+    4: "上述三类以外的公开报道（非中美亦非四国政府），含 MPLJ/FPL/JNIM/EIGS/ISIS/Lakurawa 等恐怖组织的活动报道",
 }
 
 # Actors that ARE a government of one of the four countries. Used to decide
@@ -258,7 +260,16 @@ TOPIC_MARKERS = {
             "boko haram", "militant", "militants", "gunmen", "clash", "clashes", "conflict",
             "ceasefire", "defence", "defense", "troops", "violent", "violence", "extremist",
             "hostage", "coup", "coups", "security forces", "raid", "raids",
-            "insurgency", "counterterrorism", "counter-terrorism"],
+            "insurgency", "counterterrorism", "counter-terrorism",
+            # Sahel / Nigeria militant groups (added 2026-10-20):
+            # MPLJ = Mouvement Patriotique de Libération du Djado (Niger Tuareg)
+            # FPL  = Front Patriotique de Libération (Niger armed faction)
+            # JNIM = Jama'at Nusrat al-Islam wal-Muslimin (Sahel jihadist coalition)
+            # EIGS = État Islamique dans le Grand Sahara (IS Sahel province)
+            # ISIS = Islamic State (used here as the umbrella; sub-affiliates handled
+            #        through ISWAP, EIGS, Lakurawa, etc.)
+            # Lakurawa = Nigerian IS-aligned group in NW Nigeria / Sokoto / Kebbi
+            "mplj", "fpl", "eigs", "isis", "isgs", "lakurawa"],
     "pol": ["election", "elections", "electoral", "president", "presidential", "parliament",
             "parliamentary", "minister", "ministry", "senate", "senator", "governor",
             "governance", "policy", "reform", "reforms", "diplomacy", "diplomatic",
@@ -309,6 +320,38 @@ CTY_MARKERS = {
            "alliance of sahel", "aes states", "gulf of guinea", "burkina faso", "benin",
            "togo", "ivory coast", "cote d'ivoire", "sierra leone", "liberia",
            "guinea-bissau", "senegal", "coastal states", "sahelian", "economic community"],
+    # China periphery (added 2026-10-20): the reader asked the page to cover not
+    # only the four African countries but also the eight neighbours — Chinese
+    # activities there are the second axis. Country codes match index.html's
+    # AFRICA_CTYS/PERIPHERY_CTYS lists so the 周边国家 module filter lines up.
+    "kr": ["north korea", "south korea", "pyongyang", "seoul", "korean peninsula",
+           "dprk", "rok", "kim jong", "kpa", "Korean war", "korean dmz",
+           "Korean nuclear", "朝鲜", "韩国", "平壤", "首尔", "韩半岛", "朝鲜半岛"],
+    "ph": ["philippines", "filipino", "manila", "marcos", "duterte", "philippine navy",
+           "south china sea", "west philippine sea", "scarborough", "spratly",
+           "palawan", "philippine coast guard", "bfar", "菲律宾", "马尼拉",
+           "马科斯", "杜特尔特", "南海"],
+    "mm": ["myanmar", "burma", "burmese", "naypyidaw", "yangon", "mandalay", "rangoon",
+           "junta", "tatmadaw", "min aung hlaing", "nug", "pdf myanmar",
+           "rohingya", "wa state army", "kokang", "缅甸", "仰光", "内比都",
+           "敏昂莱", "若开军", "果敢"],
+    "ru": ["russia", "russian", "moscow", "kremlin", "putin", "lavrov", "fsb", "gru",
+           "wagner", "russian army", "donbas", "crimea", "russian oil", "gazprom",
+           "rosatom", "俄罗斯", "莫斯科", "克里姆林宫", "普京", "瓦格纳"],
+    "in": ["india", "indian", "delhi", "new delhi", "modi", "bjp", "congress india",
+           "indian army", "lac", "line of actual control", "arunachal pradesh",
+           "ladakh", "indian navy", "bala" "印度", "新德里", "莫迪", "印度人民党",
+           "实控线", "拉达克"],
+    "np": ["nepal", "kathmandu", "nepali", "kp oli", "kp sharma", "prachanda",
+           "nepal congress", "bipin ledra", "everest", "himalayan",
+           "尼泊尔", "加德满都", "奥利", "普拉昌达"],
+    "vn": ["vietnam", "vietnamese", "hanoi", "ho chi minh city", "hcmc", "saigon",
+           "to lam", "vietnam communist party", "vietnam navy", "south china sea",
+           "paracel", "spratly", "brics vietnam", "vietnam rail",
+           "越南", "河内", "胡志明市", "苏林", "越共"],
+    "la": ["laos", "lao", "vientiane", "lprp", "sonexay", "lao army",
+           "lao pdr", "lao chinese railway", "boten", "laos china railway",
+           "laos vietnam", "mekong laos", "老挝", "万象", "中老铁路", "磨憨"],
 }
 NE_ONLY = re.compile(r"\bniger\b(?!\s*(?:state|delta|river|basin|company|insurance))", re.I)
 NG_RE = re.compile(r"\bnigeri", re.I)

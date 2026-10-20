@@ -1,0 +1,51 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Deutsche Bank bets on Naira, adds Nigeria to frontier FX monitor – Businessday NG",
+   "url": "https://businessday.ng/business-economy/article/deutsche-bank-bets-on-naira-adds-nigeria-to-frontier-fx-monitor?amp=",
+   "snippet": "Foreign investors considering Nigerian bonds must weigh the attraction of high yields against the possibility of currency losses. A stronger naira would improve dollar-denominated returns, while a reversal in the exchange rate could quickly reduce them.\n\nThe outlook will depend on several factors, including oil revenue, foreign exchange liquidity, inflation, monetary policy and the scale of govern",
+   "published": "Mon, 19 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "IMF urges Nigeria to raise non-oil revenue",
+   "url": "https://thenationonlineng.net/imf-urges-nigeria-to-raise-non-oil-revenue",
+   "snippet": "Fund backs CBN's rate reset The International Monetary Fund (IMF) has urged the Federal Government to increase revenue from non-oil sources to create.",
+   "published": "Mon, 19 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "IMF backs CBN’s rate reset, urges Nigeria to raise non-oil revenue",
+   "url": "https://thenationonlineng.net/imf-backs-cbns-rate-reset-urges-nigeria-to-raise-non-oil-revenue",
+   "snippet": "The International Monetary Fund (IMF) has backed the Central Bank of Nigeria's gradual reduction of interest rates, saying the move is appropriate after.",
+   "published": "Fri, 16 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
+ "_tag": "ng_economy",
+ "_query": "Nigeria economy naira inflation budget oil revenue",
+ "_domains": [
+  "premiumtimesng.com",
+  "punchng.com",
+  "vanguardng.com",
+  "saharareporters.com",
+  "businessday.ng",
+  "thecable.ng",
+  "myjoyonline.com",
+  "graphic.com.gh",
+  "citinewsroom.com",
+  "thenationonlineng.net",
+  "dailytrust.com",
+  "guardian.ng",
+  "thisdaylive.com",
+  "leadership.ng",
+  "tribuneonlineng.com",
+  "sunnewsonline.com",
+  "ghanaweb.com",
+  "3news.com",
+  "adomonline.com",
+  "peacefmonline.com"
+ ],
+ "_days": 3
+}
