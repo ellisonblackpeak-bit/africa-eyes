@@ -149,9 +149,22 @@ PLAN = [
     ("us_ne_ml", "US Niger Mali", [], 12),
     ("us_biz",   "American company Nigeria energy", [], 12),
     # ─── Africa four — terror groups (MPLJ / FPL / JNIM / EIGS / ISIS / Lakurawa)
-    ("ter_ne_ml", "JNIM EIGS attack Niger Mali", [], 12),
-    ("ter_ng", "Lakurawa ISWAP Boko Haram attack Nigeria", [], 12),
-    ("ter_wide", "MPLJ FPL jihadist Sahel attack", [], 12),
+    # ONE GROUP PER ANGLE, each with a short query. The old combined strings
+    # ("JNIM EIGS attack Niger Mali", "MPLJ FPL jihadist Sahel attack") returned a
+    # handful of hits at best, and the FPL one returned Premier League FANTASY
+    # FOOTBALL ("FPL player price changes — risers, fallers and top transfers"):
+    # in a search index "FPL" is the fantasy game far more often than it is the
+    # Front Patriotique de Libération. Measured 2026-10-20, per-group queries give
+    # JNIM Niger 8 / MPLJ Niger 7 / EIGS 7 / Lakurawa 8 / Boko Haram 6 /
+    # ISWAP 8 / Sahel jihadist 8 — roughly 50 usable items instead of 16.
+    ("ter_jnim_ml", "JNIM Mali attack", [], 10),
+    ("ter_jnim_ne", "JNIM Niger", [], 10),
+    ("ter_eigs", "EIGS Islamic State Sahel", [], 10),
+    ("ter_mplj", "MPLJ Niger", [], 10),
+    ("ter_lakurawa", "Lakurawa Nigeria", [], 10),
+    ("ter_boko", "Boko Haram attack", [], 10),
+    ("ter_iswap", "ISWAP Nigeria", [], 10),
+    ("ter_sahel", "Sahel jihadist attack", [], 10),
     # ─── Africa four — government / corridor (kept for tier 3 / tier 4)
     ("gov_ng", "Nigeria government approves", [], 12),
     ("gov_gh", "Ghana government policy", [], 12),

@@ -505,7 +505,8 @@ details.ft[open] summary::before{content:'▾ '}
   function match(it){
     if(state.cty!=='all' && (it.country||[]).indexOf(state.cty)<0) return false;
     if(state.topic!=='all' && (it.topic||[]).indexOf(state.topic)<0) return false;
-    if(state.tier!=='all' && String(it.tier)!==String(state.tier)) return false;
+    if(state.tier!=='all' && state.tier!=='terror' && String(it.tier)!==String(state.tier)) return false;
+    if(state.tier==='terror' && !it.terrHit) return false;
     if(state.q){
       var hay=[it.title,it.title_zh,it.summary,it.summary_zh,it.snippet,it.snippet_zh,it.body,it.body_zh,
                it.source,it.author,it.handle,it.actor,
@@ -570,9 +571,15 @@ details.ft[open] summary::before{content:'▾ '}
   function tierBar(items){
     var c={'1':0,'2':0,'3':0,'4':0};
     items.forEach(function(i){ if(c[i.tier]!==undefined)c[i.tier]++; });
+    /* 涉恐 is a separate axis, not a tier: a JNIM/EIGS story is tier 4 (no
+       China/US/government actor) and used to be capped out of the page entirely.
+       The chip makes the designated-group coverage reachable in one tap. */
+    var terr=items.filter(function(i){return i.terrHit;}).length;
     var h='<div class="filters"><span class="chip'+(state.tier==='all'?' on':'')+'" data-k="tier" data-v="all">全部层级<span class="c">'+items.length+'</span></span>';
     [['1','涉华动态'],['2','美国活动'],['3','当事国政府'],['4','其他报道']].forEach(function(t){
       h+='<span class="chip'+(String(state.tier)===t[0]?' on':'')+'" data-k="tier" data-v="'+t[0]+'">'+t[1]+'<span class="c">'+c[t[0]]+'</span></span>';});
+    if(terr)
+      h+='<span class="chip'+(state.tier==='terror'?' on':'')+'" data-k="tier" data-v="terror" style="border-color:#d9a3a3">涉恐（JNIM/EIGS/MPLJ…）<span class="c">'+terr+'</span></span>';
     return h+'</div>';
   }
   /* Renders the list. In time mode it is a plain reverse-chronological feed with

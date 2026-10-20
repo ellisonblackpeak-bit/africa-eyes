@@ -58,6 +58,17 @@ CST = timezone(timedelta(hours=8))
 FETCH_DAYS = 3
 WINDOW_DAYS = 3
 
+# Ceiling for the unfoldable article body, in characters. 4000 cut long-form
+# stories roughly in half, so the 展开全文 panel ended mid-article; 12000 holds a
+# full wire story or feature. Only the truly enormous pieces are still trimmed,
+# and that trim is labelled in the panel.
+BODY_LIMIT = int(os.environ.get("BODY_LIMIT", "12000"))
+# Summary length. The reader wants the summary readable in full on the card
+# without unfolding, so it stays at three sentences / ~520 chars rather than
+# becoming a second article — but it must never end mid-sentence (see
+# _cut_at_sentence).
+SUMMARY_CHARS = int(os.environ.get("SUMMARY_CHARS", "520"))
+
 # ─────────────── outlet registry (contact = publicly published page) ───────────
 OUTLETS = {
     "reuters.com": ("路透社", "af", "https://www.reuters.com/world/africa/"),
@@ -289,6 +300,69 @@ def subject_hits(title, summary, min_hits=3):
     return cn, us
 
 
+# ─────────────── designated terrorist organisations ───────────────
+# The reader asked specifically for MPLJ / FPL / JNIM / EIGS / ISIS / Lakurawa
+# activity. Those items were almost entirely MISSING from the page, for three
+# compounding reasons once fixed here:
+#   1. VOLUME CAP — such a story has no China/US/government actor, so it is tier 4
+#      and the tier-4 cap (30) discarded it ("volume cap: dropped 62 oldest
+#      tier-4 items"). Terror coverage was the first thing thrown away.
+#   2. GEOGRAPHY — "Rival Sahel jihadists clash" names no single country, so it
+#      was tagged `wa` and appeared in NO module (非洲四国 needs ng/ne/ml/gh).
+#   3. QUERY — the old angle "MPLJ FPL jihadist Sahel attack" matched Premier
+#      League FANTASY FOOTBALL for "FPL". Replaced with per-group short queries.
+# `FPL` in particular must be disambiguated: in a search index it is the fantasy
+# game far more often than the Front Patriotique de Libération.
+TERROR_RX = re.compile(
+    r"\bjnim\b|\bjama'?at\s+nusrat|\bmplj\b|\beigs\b|\bisgs\b|\bisis\b|\bisil\b|"
+    r"\biswap\b|\blakurawa\b|\bboko\s+haram\b|\bansaru\b|\biscap\b|\bisc-sp\b|"
+    r"\bdan\s+na\s+ambassagou\b|\bmacina\b|\bkatiba\b|\bserma\b|"
+    r"\bfront\s+patriotique|\bmouvement\s+patriotique|"
+    r"支持伊斯兰与穆斯林组织|伊斯兰国西非省|伊斯兰国|博科圣地|恐怖组织|圣战", re.I)
+# Weak signal: an explicit jihad/terror word, accepted only when the copy also
+# names a Sahel theatre. Without the region guard a US political story calling
+# someone a "jihadist" would qualify.
+JIHAD_RX = re.compile(r"\bjihad\w*|\bdjihad\w*|\bterror(?:ist|ism)?\b|\binsurgen\w+", re.I)
+SAHEL_RX = re.compile(
+    r"\bsahel\b|\bniger\b|\bnigeria\b|\bmali\b|\bburkina\b|\bchad\b|\bcameroon\b|"
+    r"\btillaberi\b|\bagadez\b|\bmopti\b|\bsokoto\b|\bborno\b|\byobe\b|\bzamfara\b|"
+    r"\bkatsina\b|\blake\s+chad\b|\bliptako\b|\bmacina\b|\btimbuktu\b|\bgao\b",
+    re.I)
+# "FPL" is only the Nigerien Front Patriotique de Libération when the copy also
+# talks about Niger / armed activity. Otherwise it is Fantasy Premier League.
+FPL_GUARD_RX = re.compile(
+    r"\bfpl\b(?!\s*(?:player|price|gameweek|deadline|chip|wildcard|transfer\s+news|"
+    r"lessons|review|tips|team|league|fixtures|scout|draft))", re.I)
+FPL_CONTEXT_RX = re.compile(
+    r"\bniger\b|\bsahel\b|\barmed\b|\bmilitant|\bjihad|\bfront\b|\blib(?:é|e)ration\b|"
+    r"\brebels?\b|\battack", re.I)
+FOOTBALL_RX = re.compile(
+    r"\bpremier\s+league\b|\bfootball\b|\bsoccer\b|\bgameweek\b|\bfpl\s+(?:player|price|"
+    r"lessons|review|tips)|\bfantasy\b", re.I)
+
+
+def terror_hit(title, summary=""):
+    """True when the item is about one of the designated groups, or about
+    jihadist/insurgent activity inside a Sahel theatre.
+
+    The group has to be named in the HEADLINE — a passing mention deep in an
+    article about something else is not a terror story. "FPL" and the spelled-out
+    French names get extra guards because "FPL" is usually the Fantasy Premier
+    League and "front" alone appears in ordinary political copy.
+    """
+    t = title or ""
+    if not t:
+        return False
+    if FOOTBALL_RX.search(t) and not re.search(r"\bmplj\b|\bjnim\b|\beigs\b", t, re.I):
+        return False
+    if TERROR_RX.search(t):
+        return True
+    if FPL_GUARD_RX.search(t) and FPL_CONTEXT_RX.search(t + " " + (summary or "")):
+        return True
+    # Generic jihad/insurgency prose: only inside the Sahel theatre.
+    return bool(JIHAD_RX.search(t) and SAHEL_RX.search(t))
+
+
 # ─────────────── topic / country vocabulary ───────────────
 TOPIC_MARKERS = {
     "sec": ["security", "insecurity", "attack", "attacks", "killed", "killings", "kidnap",
@@ -514,6 +588,15 @@ TAG_CTY = {
     "cn_ml": "ml", "ml_extra": "ml",
     "cn_kr": "kr", "cn_ph": "ph", "cn_mm": "mm", "cn_ru": "ru",
     "cn_in": "in", "cn_np": "np", "cn_vn": "vn", "cn_la": "la",
+    # ── designated terror groups ───────────────────────────────────────────
+    # A JNIM / EIGS / MPLJ story frequently names the group and the region
+    # ("Sahel", "Tillaberi") but no state, so it landed in no module at all.
+    # Values are LISTS where the angle spans two countries.
+    "ter_jnim_ml": ["ml"], "ter_jnim_ne": ["ne"],
+    "ter_eigs": ["ne", "ml"], "ter_mplj": ["ne"],
+    "ter_lakurawa": ["ng"], "ter_boko": ["ng"], "ter_iswap": ["ng"],
+    "ter_sahel": ["ne", "ml"], "ter_wide": ["ne", "ml"], "ter_ne_ml": ["ne", "ml"],
+    "ter_ng": ["ng"],
 }
 # The social collector uses its own soc_* tags, written into the filename
 # (firecrawl_xai_<tag>_<stamp>.json) rather than the payload. Same purpose:
@@ -1024,16 +1107,33 @@ def split_sentences(text):
 
 
 def _cut_at_sentence(s, limit):
-    """Trim to `limit` without ever ending mid-word or mid-sentence."""
+    """Trim near `limit`, always ending on a complete sentence where possible.
+
+    The reader's requirement is that the title and summary read as finished text
+    on the card, never as a dangling fragment. The old version gave up as soon as
+    no sentence end fell inside the window and appended " …", so a summary could
+    end mid-thought with an ellipsis. Now the window is allowed to run PAST the
+    limit (up to 1.35x) to reach the next full stop — a slightly longer summary
+    that reads completely beats a shorter one that does not.
+    """
+    if not s:
+        return ""
+    s = s.strip()
     if len(s) <= limit:
-        return s.strip()
+        return s
+    # 1) last sentence end inside the window
     window = s[:limit]
     m = None
-    for m in re.finditer(r"[.?!](?=\s|$)", window):
+    for m in re.finditer(r"[.?!](?=\s|$)|[。！？]", window):
         pass
-    if m and m.end() >= limit * 0.55:
+    if m and m.end() >= limit * 0.5:
         return window[:m.end()].strip()
-    # No sentence boundary far enough in: fall back to the last word break.
+    # 2) look a little further ahead for the next full stop
+    hard = min(len(s), int(limit * 1.35))
+    m2 = re.search(r"[.?!](?=\s|$)|[。！？]", s[limit:hard])
+    if m2:
+        return s[:limit + m2.end()].strip()
+    # 3) genuinely no sentence end (a list, a table, a rail): cut at a word break
     sp = window.rfind(" ")
     return (window[:sp] if sp > limit * 0.6 else window).strip() + " …"
 
@@ -1079,13 +1179,22 @@ def summary_of(content, title, max_chars=520, max_sents=3):
         pos = 1.0 if i == 0 else 1.0 / (1 + i * 0.35)
         scored.append((ov * 2.0 + pos, ov, i, s))
     scored.sort(key=lambda x: (-x[0], x[1]))
-    # A sentence with ZERO vocabulary overlap with the headline is not part of
-    # this story — on a page whose body is a sidebar rail it is the next story
-    # along ("Remi Surutu celebrates Seyi Tinubu on his birthday…"). Requiring
-    # overlap is what keeps the summary on-topic; if nothing qualifies, the card
-    # is better with no summary than with someone else's headline.
+    # A sentence with ZERO vocabulary overlap with the headline is usually not
+    # part of this story — on a page whose body is a sidebar rail it is the next
+    # story along ("Remi Surutu celebrates Seyi Tinubu on his birthday…").
+    # BUT requiring overlap from every sentence was too strict: a report whose
+    # lead paraphrases the headline ("The committee approved the sum on Tuesday")
+    # has no shared words, so the whole summary came back empty and the card
+    # showed a placeholder instead of the opening of a perfectly good article.
+    # Now: prefer overlapping sentences; if none qualify, use the LEAD sentences
+    # (position 0, 1) because the first sentences of an article are its summary
+    # by construction.
     qual = [x for x in scored if x[1] >= 1]
-    chosen = sorted(qual[:max_sents], key=lambda x: x[2])
+    if qual:
+        chosen = sorted(qual[:max_sents], key=lambda x: x[2])
+    else:
+        chosen = [x for x in scored if x[2] < max_sents]
+        chosen.sort(key=lambda x: x[2])
 
     out = ""
     for _, _, _, s in chosen:
@@ -1256,22 +1365,26 @@ for fn in news_files:
         src_full = article_text(u) or it.get("content") or ""
         body = strip_body(src_full, title)
         title = polish_title(title, src_full, u) or title
-        summary = summary_of(src_full, title)
+        summary = summary_of(src_full, title, max_chars=SUMMARY_CHARS)
         # Fallback when the page is paywalled / behind a thin nav-chrome stub
         # (e.g. Businessday NG landing pages return only the header to Tavily).
-        # A blank summary hides the whole story; better an honest one-liner.
+        # The OLD code computed `c0` — the search index's own description of the
+        # story — and then threw it away, writing a fixed "仅返回导航摘要" sentence
+        # instead. That is why 22 cards had a summary that told the reader nothing.
+        # The index text is a real, on-topic description, so it becomes the
+        # summary; the "could not fetch the full text" note is appended after it
+        # rather than replacing it.
         summary_zh = ""
         if not summary and it.get("content"):
-            c0 = " ".join((it.get("content") or "").split())[:240]
-            if c0:
-                summary = "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。"
-                summary_zh = summary   # the fallback is already Chinese; do not queue it for translation
+            c0 = " ".join((it.get("content") or "").split())
+            c0 = _cut_at_sentence(c0, SUMMARY_CHARS) if c0 else ""
+            if len(c0) >= 40:
+                summary = c0
         if not summary:
-            # Last resort: an item with a title but no extractable summary would
-            # render as an empty card. Use the title itself so every card keeps
-            # its 摘要 line, and say so rather than pretending it is a digest.
-            summary = title
-            summary_zh = ""
+            # Nothing usable at all: keep the card honest about that instead of
+            # presenting the headline as if it were a digest.
+            summary = "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+            summary_zh = summary
         cty = classify_cty(title, body[:1500], dom)
         # Relevance gate. A wire service will happily return a global story that
         # merely shares a token ("oil", "security", "Trump"), and a story page
@@ -1301,7 +1414,8 @@ for fn in news_files:
                     # The angle that found it was country-specific, so the tag is
                     # a better anchor than "unknown" — and dropping the item here
                     # is what made modules look thin.
-                    cty_title = [_tag_cty0]
+                    cty_title = (list(_tag_cty0)
+                                 if isinstance(_tag_cty0, (list, tuple)) else [_tag_cty0])
                 else:
                     dropped_offtopic += 1
                     continue
@@ -1322,9 +1436,15 @@ for fn in news_files:
         # It is applied only when NOTHING more specific was found, so it can never
         # override a real keyword hit, and it does not loosen the relevance gate
         # above (the item must still have passed that).
+        # Designated-group flag, computed here because the country anchor below
+        # needs it. A JNIM / EIGS story has no China, US or government actor, so
+        # it is tier 4 — the band the volume cap used to empty first — and its
+        # headline usually names the region ("Sahel") rather than the state.
+        ter_hit = terror_hit(title, summary)
         _tag_cty = TAG_CTY.get(doc.get("_tag") or "")
-        if _tag_cty and not (set(cty) & ALL_CTYS):
-            cty = [_tag_cty]
+        _has_real = bool(set(cty) & ALL_CTYS)
+        if _tag_cty and not _has_real:
+            cty = list(_tag_cty) if isinstance(_tag_cty, (list, tuple)) else [_tag_cty]
         tier, actor, also_us = actor_tier(
             title, summary, is_gov_publisher=(dom in GOV_DOMAINS),
             topics=classify_topic(title, body[:1500]))
@@ -1342,13 +1462,19 @@ for fn in news_files:
         # longest clean text we do have — the search-index excerpt or the RSS
         # description — and label it as an excerpt instead of silently dropping
         # the button.
+        # The reader asked for the 展开全文 panel to hold the COMPLETE article, so
+        # the ceiling is now BODY_LIMIT (12000) instead of 4000: at 4000 every
+        # long-form piece was cut roughly in half, and the panel ended on "…"
+        # which is exactly what "点击全文阅读完整" is asking us to fix. 12000
+        # characters covers a full wire story or feature; anything longer still
+        # continues at the original link, and the cut is labelled.
         full_body, body_level = "", "fulltext"
         if article_text(u):
-            fb = _cut_at_sentence(clean(body), 4000)
-            if len(fb) >= 400:
+            fb = _cut_at_sentence(clean(body), BODY_LIMIT)
+            if len(fb) >= 150:
                 full_body = fb
         if not full_body:
-            fb = _cut_at_sentence(clean(body), 4000)
+            fb = _cut_at_sentence(clean(body), BODY_LIMIT)
             if len(fb) < len(summary):
                 fb = summary
             full_body = fb
@@ -1375,6 +1501,7 @@ for fn in news_files:
             "alsoUS": also_us,
             "cnHit": cn_hit,
             "usHit": us_hit,
+            "terrHit": ter_hit,
             "score": float(it.get("score") or 0),
             "tag": doc.get("_tag", ""),
         })
@@ -1432,6 +1559,9 @@ for _k, _item in _pool_in.items():
                               _item.get("summary") or _item.get("snippet") or "")
         _item["cnHit"] = _c
         _item["usHit"] = _u
+    if "terrHit" not in _item:
+        _item["terrHit"] = terror_hit(_item.get("title") or "",
+                                      _item.get("summary") or "")
     news.append(_item)
     seen.add(_k)
     added_from_pool += 1
@@ -1464,6 +1594,34 @@ for _n in news:
 if _promo_fixed:
     print("promo blocks removed from %d article body/bodies" % _promo_fixed)
 
+# Repair placeholder summaries on pool-carried items.
+#
+# Older builds wrote a fixed sentence ("摘要：原文页面仅返回导航摘要…") whenever body
+# extraction had failed. Those strings are frozen in the pool and would otherwise
+# stay on the page for the rest of the 3-day window, telling the reader nothing
+# even when a real body had since become available. Rebuild the summary from
+# whatever text the item actually has.
+_PLACEHOLDER_RX = re.compile(
+    r"仅返回导航摘要|未返回可读摘要|该来源未返回|原文页面仅返回", re.I)
+_sum_fixed = 0
+for _n in news:
+    if not _PLACEHOLDER_RX.search(_n.get("summary") or ""):
+        continue
+    _cand = ""
+    for _src in (_n.get("body") or "", _n.get("summary") or ""):
+        _src = _src.strip()
+        if len(_src) >= 80 and not _PLACEHOLDER_RX.search(_src):
+            _cand = summary_of(_src, _n.get("title") or "") or ""
+            if len(_cand) >= 60:
+                break
+            _cand = ""
+    if _cand:
+        _n["summary"] = _cand
+        _n["summary_zh"] = ""      # force re-translation of the better text
+        _sum_fixed += 1
+if _sum_fixed:
+    print("placeholder summaries rebuilt from body: %d" % _sum_fixed)
+
 # ─────────────── volume cap ───────────────
 # A WordPress RSS feed publishes everything its newsroom writes, so a free-source
 # pass can return 200+ in-window items — mostly routine copy that buries the
@@ -1472,8 +1630,17 @@ if _promo_fixed:
 # the page readable and keeps the hourly translation bill bounded, without ever
 # dropping a China / US / government item.
 TIER4_CAP = 30
+# Designated-group items bypass the tier-4 cap entirely.
+#
+# JNIM / EIGS / MPLJ / ISWAP / Boko Haram / Lakurawa stories have no China, US or
+# government actor, so they are tier 4 — and the 30-item cap threw them away
+# first, which is why the page showed essentially no terror coverage even though
+# the fetch had it. They are the reader's explicit requirement, so they are never
+# capped; the cap now only trims routine regional copy.
+_t4_terror = [n for n in news if n["tier"] == 4 and n.get("terrHit")]
+_t4_other = [n for n in news if n["tier"] == 4 and not n.get("terrHit")]
 _keep_t1_3 = [n for n in news if n["tier"] != 4]
-_keep_t4 = [n for n in news if n["tier"] == 4][:TIER4_CAP]
+_keep_t4 = _t4_terror + _t4_other[:TIER4_CAP]
 capped_off = len(news) - len(_keep_t1_3) - len(_keep_t4)
 news = _keep_t1_3 + _keep_t4
 news.sort(key=lambda n: (-n["_dt"], -n["score"]))
@@ -1680,6 +1847,7 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
                 is_gov_publisher=((handle or "").lower() in GOV_HANDLES),
                 topics=classify_topic(title + " " + author, snip))
             cn_hit, us_hit = subject_hits(title + " " + author, snip, min_hits=2)
+            ter_hit_s = terror_hit(title + " " + author, snip)
             # Country attribution: author text matters here (an account name often
             # names its country where the post copy does not), and the query tag
             # is the last resort — a post surfaced by "China Ghana investment"
@@ -1689,7 +1857,7 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
             if not (set(_scty) & ALL_CTYS):
                 _stag = SOC_TAG_CTY.get(_query_tag) or TAG_CTY.get(_query_tag)
                 if _stag:
-                    _scty = [_stag]
+                    _scty = list(_stag) if isinstance(_stag, (list, tuple)) else [_stag]
             social.append({
                 "platform": pname,
                 "title": title,
@@ -1710,6 +1878,7 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
                 "alsoUS": also_us,
                 "cnHit": cn_hit,
                 "usHit": us_hit,
+                "terrHit": ter_hit_s,
                 "ageDays": round(age_days, 2),
                 "_ts": ts.timestamp(),
                 "postedAt": ts.astimezone(CST).strftime("%Y-%m-%d %H:%M"),
@@ -1763,6 +1932,9 @@ for _k, _item in _pool_in_s.items():
                               _item.get("snippet") or "", min_hits=2)
         _item["cnHit"] = _c
         _item["usHit"] = _u
+    if "terrHit" not in _item:
+        _item["terrHit"] = terror_hit(_item.get("title") or "",
+                                      _item.get("snippet") or "")
     social.append(_item)
     see_s.add(_k)
     added_s += 1

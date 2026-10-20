@@ -52,7 +52,16 @@ RAW = os.path.join(ROOT, "data", "raw")
 WINDOW_DAYS = 3
 BATCH = 5                 # URLs per extract call (keeps each call under the 120 s cap)
 DEPTH = "advanced"        # 2 credits / 5 URLs, materially better prose extraction
-MAX_URLS = 60             # hard ceiling per run, so a runaway index cannot bill us
+# Raised from 60 after the reader reported that many 展开全文 panels were a single
+# 35-character line: a 3-hour round carries 130-210 in-window articles, so a
+# 60-URL ceiling left two thirds of the page with no body at all. Extraction is
+# cached per URL, so the recurring cost is only the NEW articles each round.
+MAX_URLS = int(os.environ.get("ARTICLE_MAX_URLS", "200"))
+# A body shorter than this is treated as a failed extraction (nav chrome, paywall
+# stub). 400 was too strict: a news brief is legitimately 200-350 characters, and
+# rejecting those meant the story fell back to the search-index one-liner even
+# though the full text had been fetched successfully.
+MIN_CHARS = int(os.environ.get("ARTICLE_MIN_CHARS", "150"))
 TIMEOUT = 115
 
 # Same article-URL test the aggregator uses: skip section fronts and category
@@ -125,10 +134,16 @@ for fn in news_files:
         u = it.get("url")
         if not u or not is_article_url(u):
             continue
-        dom = re.sub(r"^www\.", "", re.sub(r"^https?://", "", u).split("/")[0])
-        if roster and dom not in roster:
-            continue
-        dt = parse_pub(it.get("published_date") or "")
+        # No domain allow-list here.
+        #
+        # The old `if roster and dom not in roster: continue` excluded everything
+        # outside the `_domains` field of the snapshots — but that field is only
+        # populated by newer fetchers, so a cache holding a few older files gave a
+        # roster of six domains and silently rejected every other publisher. The
+        # candidates already come exclusively from these snapshots, which are
+        # themselves the output of the news step, so re-filtering by domain added
+        # nothing and cost most of the corpus. Deduplication is by normalised URL.
+        dt = parse_pub(it.get("published_date") or it.get("published") or "")
         if dt is None or dt < cutoff:
             continue
         cands.setdefault(norm_url(u), (u, dt, it.get("content") or ""))
@@ -141,6 +156,7 @@ def cache_path(url):
 
 
 cached = set()
+_failed_before = 0
 for p in glob.glob(os.path.join(RAW, "article_*.json")):
     try:
         with io.open(p, encoding="utf-8") as fh:
@@ -148,8 +164,20 @@ for p in glob.glob(os.path.join(RAW, "article_*.json")):
     except Exception:
         continue
     u = rec.get("url")
-    if u:
+    # A FAILED record must not count as cached.
+    #
+    # The cache used to admit every article_*.json regardless of `ok`, so a single
+    # failed extraction blacklisted that URL forever — the pool still carried the
+    # story for three days, but its 展开全文 panel stayed a one-line excerpt with
+    # no retry. "FDI: Plateau, Chinese firm ink $500m deal" (a $500m Chinese
+    # investment in Nigeria) sat in that state. Failed URLs now fall through to
+    # the retry queue below.
+    if u and rec.get("ok"):
         cached.add(norm_url(u))
+    elif u:
+        _failed_before += 1
+if _failed_before:
+    print("previous failures being retried: %d" % _failed_before)
 
 todo = [u for u in cands if u not in cached]
 todo.sort(key=lambda u: cands[u][1], reverse=True)   # newest first
@@ -192,7 +220,7 @@ for i in range(0, len(todo), BATCH):
     for u in chunk:
         text = by_url.get(u)
         rec = {"url": cands[u][0], "fetchedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-               "chars": len(text or ""), "ok": bool(text and len(text) > 400)}
+               "chars": len(text or ""), "ok": bool(text and len(text) > MIN_CHARS)}
         if text:
             rec["text"] = text
         with io.open(cache_path(u), "w", encoding="utf-8") as fh:
@@ -320,7 +348,7 @@ if retry:
                 continue
             rec = {"url": cands[u][0], "source": "firecrawl",
                    "fetchedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-                   "chars": len(md), "ok": bool(md and len(md) > 400)}
+                   "chars": len(md), "ok": bool(md and len(md) > MIN_CHARS)}
             if md:
                 rec["text"] = md
             with io.open(cache_path(u), "w", encoding="utf-8") as fh:
@@ -417,7 +445,7 @@ if d_retry:
         text = direct_scrape(cands[u][0])
         rec = {"url": cands[u][0], "source": "direct",
                "fetchedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-               "chars": len(text), "ok": bool(text and len(text) > 400)}
+               "chars": len(text), "ok": bool(text and len(text) > MIN_CHARS)}
         if text:
             rec["text"] = text
         with io.open(cache_path(u), "w", encoding="utf-8") as fh:
