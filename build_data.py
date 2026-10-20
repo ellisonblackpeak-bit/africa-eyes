@@ -1603,6 +1603,21 @@ if _promo_fixed:
 # whatever text the item actually has.
 _PLACEHOLDER_RX = re.compile(
     r"仅返回导航摘要|未返回可读摘要|该来源未返回|原文页面仅返回", re.I)
+# The same placeholder also ended up inside `body` (the old code fell back to
+# `body = summary` when extraction failed), so 64 cards showed "摘要：原文页面仅
+# 返回导航摘要…" as if it were the article text. Clear those: the fold then shows
+# the Chinese summary and says the full text is still being fetched, and the
+# retry queue in fetch_articles fills the real body on the next round.
+_body_cleared = 0
+for _n in news:
+    if _PLACEHOLDER_RX.search(_n.get("body") or ""):
+        _n["body"] = ""
+        _n["body_zh"] = ""
+        _n["bodyLevel"] = "excerpt"
+        _body_cleared += 1
+if _body_cleared:
+    print("placeholder bodies cleared: %d (awaiting re-fetch)" % _body_cleared)
+
 _sum_fixed = 0
 for _n in news:
     if not _PLACEHOLDER_RX.search(_n.get("summary") or ""):

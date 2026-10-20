@@ -56,7 +56,7 @@ DEPTH = "advanced"        # 2 credits / 5 URLs, materially better prose extracti
 # 35-character line: a 3-hour round carries 130-210 in-window articles, so a
 # 60-URL ceiling left two thirds of the page with no body at all. Extraction is
 # cached per URL, so the recurring cost is only the NEW articles each round.
-MAX_URLS = int(os.environ.get("ARTICLE_MAX_URLS", "200"))
+MAX_URLS = int(os.environ.get("ARTICLE_MAX_URLS", "600"))
 # A body shorter than this is treated as a failed extraction (nav chrome, paywall
 # stub). 400 was too strict: a news brief is legitimately 200-350 characters, and
 # rejecting those meant the story fell back to the search-index one-liner even
