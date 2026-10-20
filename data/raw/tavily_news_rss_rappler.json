@@ -2,9 +2,23 @@
  "success": true,
  "results": [
   {
+   "title": "Super Typhoon Rosal slightly strengthens over Philippine Sea",
+   "url": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-20-2026-5pm/",
+   "content": "The trough or extension of Super Typhoon Rosal (Champi) may cause scattered rain and thunderstorms in Bicol and Eastern Visayas on Tuesday evening, October 20",
+   "published_date": "Tue, 20 Oct 2026 19:00:19 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Big IPO, big bonus: GCash employees get their own payday",
+   "url": "https://www.rappler.com/newsbreak/inside-track/ipo-gcash-employee-bonus/",
+   "content": "From first-time investors to the country's business elite and the President himself, everyone turned out for GCash. Now, can its record-breaking IPO wake up the sleepy PSE?",
+   "published_date": "Tue, 20 Oct 2026 18:57:12 +0800",
+   "score": 0.6
+  },
+  {
    "title": "Supreme Court declares 2024, 2025 budgets unconstitutional",
    "url": "https://www.rappler.com/philippines/supreme-court-declares-2024-2025-budgets-unconstitutional/",
-   "content": "The SC rules that in so far as the 2024 and 2025 budgets are concerned, the doctrine of operative fact applies. This recognizes the validity of an assailed act prior to the determination of its unconstitutionality.",
+   "content": "(1st UPDATE) The SC rules that in so far as the 2024 and 2025 budgets are concerned, the doctrine of operative fact applies. This recognizes the validity of an assailed act prior to the determination of its unconstitutionality.",
    "published_date": "Tue, 20 Oct 2026 18:11:12 +0800",
    "score": 0.6
   },
@@ -55,20 +69,6 @@
    "url": "https://www.rappler.com/culture-desk/first-time-indoor-bouldering-tips-gear/",
    "content": "Chalk, shoes, technique, and everything in between",
    "published_date": "Tue, 20 Oct 2026 14:01:47 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Adamson’s strong start surprises Nash Racela, adds to La Salle’s woes",
-   "url": "https://www.rappler.com/people/athletes/uaap-adamson-strong-start-la-salle-woes-2026/",
-   "content": "‘I apologize to my players because they really surprised me, the whole team,’ says Adamson coach Nash Racela as his Falcons cap the UAAP first round strong with an upset of defending champion La Salle",
-   "published_date": "Tue, 20 Oct 2026 14:00:14 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-   "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-   "content": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-   "published_date": "Tue, 20 Oct 2026 13:12:31 +0800",
    "score": 0.6
   }
  ],
