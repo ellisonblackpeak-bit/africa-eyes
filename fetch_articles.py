@@ -56,7 +56,10 @@ DEPTH = "advanced"        # 2 credits / 5 URLs, materially better prose extracti
 # 35-character line: a 3-hour round carries 130-210 in-window articles, so a
 # 60-URL ceiling left two thirds of the page with no body at all. Extraction is
 # cached per URL, so the recurring cost is only the NEW articles each round.
-MAX_URLS = int(os.environ.get("ARTICLE_MAX_URLS", "600"))
+# Raised 600 → 900: the candidate set below now also includes pool carry-overs,
+# which pushed the in-window count past 600 and left the tail unfetched. Every URL
+# is cached permanently, so the only recurring cost is genuinely new articles.
+MAX_URLS = int(os.environ.get("ARTICLE_MAX_URLS", "900"))
 # A body shorter than this is treated as a failed extraction (nav chrome, paywall
 # stub). 400 was too strict: a news brief is legitimately 200-350 characters, and
 # rejecting those meant the story fell back to the search-index one-liner even
@@ -149,6 +152,40 @@ for fn in news_files:
         cands.setdefault(norm_url(u), (u, dt, it.get("content") or ""))
 
 print("roster domains:", len(roster), "| in-window candidate URLs:", len(cands))
+
+# ── pool carry-overs are candidates too ──
+# A story stays on the page for WINDOW_DAYS, but Tavily stops returning it after a
+# day or two. Its URL therefore dropped out of `cands`, and if its body had never
+# been fetched the 展开全文 panel stayed stuck on "该来源未开放正文" for the whole
+# remaining life of the card — no retry was ever scheduled, because this step only
+# ever looked at the current round's snapshots. Adding the pool closes that hole.
+_pool_p = os.path.join(ROOT, "data", "pool.json")
+_added = 0
+try:
+    with io.open(_pool_p, encoding="utf-8") as fh:
+        _pool = json.load(fh)
+    _items = _pool.get("news") if isinstance(_pool, dict) else _pool
+    for it in (_items or []):
+        if not isinstance(it, dict):
+            continue
+        u = it.get("url")
+        if not u or not is_article_url(u):
+            continue
+        # Only items that still need a body — a pool entry that already has one
+        # would just burn a cache lookup.
+        if (it.get("body") or "").strip():
+            continue
+        dt = parse_pub(it.get("published") or "")
+        if dt is None or dt < cutoff:
+            continue
+        k = norm_url(u)
+        if k not in cands:
+            cands[k] = (u, dt, "")
+            _added += 1
+except Exception as _e:
+    print("pool scan skipped:", _e)
+if _added:
+    print("pool carry-overs needing a body: %d | candidates now %d" % (_added, len(cands)))
 
 # ── cache ──
 def cache_path(url):

@@ -921,6 +921,45 @@ MASTHEAD_RX = re.compile(r"""(
 SEP_RX = re.compile(r"(\s+[|–—]\s+|\s+-\s+|\s+»\s+|\s+·\s+)")
 
 
+# ── links inside headlines ──
+# A search result's title field is frequently the page title *plus its own URL*:
+# "尼日利亚-美国卫生协议：… https://sciencenigeria.com/nigeria-us-health-deal".
+# It arrives that way from the social index (which concatenates title + link) and
+# the translation step then faithfully keeps the link in the Chinese title, so the
+# card shows a raw URL in the headline. 19 live items had one. A headline is not
+# a place for a link — the card already has 打开原文 — so every link is cut here.
+_LINK_IN_TITLE_RX = re.compile(r"(?:https?://|ftp://|www\.)\S+", re.I)
+_BARE_LINK_RX = re.compile(
+    r"(?<![\w.@/-])(?:[a-z0-9][a-z0-9\-]{0,30}\.){1,4}"
+    r"(?:com|org|net|info|news|press|media|tv|me|io|co|gov|edu|africa|"
+    r"ng|gh|ke|za|cn|ru|in|fr|de|uk|us|ca|au|jp|kr|vn|np|mm|ph|la)"
+    r"(?:\.[a-z]{2})?(?:/[^\s，。；、）)\]】]*)?", re.I)
+# Reading lead-ins the summariser bolts onto a title ("… 请在 Wallflake 上阅读：").
+_TITLE_TAIL_RX = re.compile(
+    r"[\s，,；;:：\-–—|·]*(?:请在\s*\S{0,24}\s*上阅读|阅读全文|点击(?:此处|这里|查看)|详见|参见|来源[:：])\s*[:：]?\s*$",
+    re.I)
+
+
+def strip_links(t):
+    """Remove URLs, bare domains and reading lead-ins from a headline."""
+    if not t:
+        return t
+    s = _LINK_IN_TITLE_RX.sub(" ", t)
+    s = _BARE_LINK_RX.sub(" ", s)
+    for _ in range(3):                       # stacked tails are common
+        s2 = _TITLE_TAIL_RX.sub("", s)
+        if s2 == s:
+            break
+        s = s2
+    s = re.sub(r"[\s\u3000]+", " ", s)
+    s = re.sub(r"\s+([，。；：、！？）》])", r"\1", s)
+    s = re.sub(r"([（《])\s+", r"\1", s)
+    s = re.sub(r"[\s，,；;:：\-–—|·]+$", "", s).strip()
+    # A title that was nothing but a link keeps its original form rather than
+    # becoming an empty string the card cannot render.
+    return s if len(s) >= 6 else t.strip()
+
+
 def polish_title(title, body="", url=""):
     """Return the headline the way a reader would write it.
 
@@ -935,7 +974,7 @@ def polish_title(title, body="", url=""):
       usually contains the complete headline — re-build it from the slug;
     * remove the leading zero-width/bidi marks the index sometimes injects.
     """
-    t = clean(title)
+    t = strip_links(clean(title))
     if not t:
         return t
 
@@ -1904,7 +1943,7 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
             u = it.get("url")
             if not u or norm_url(u) in see_s:
                 continue
-            title = clean(it.get("title")).replace(" - LinkedIn", "").replace(" / X", "")
+            title = strip_links(clean(it.get("title")).replace(" - LinkedIn", "").replace(" / X", ""))
             snip = clean(it.get("description"))
             # Social platforms often return the post's first ~80 chars as
             # the "title" and a fuller ~140 chars as the "description". When
@@ -2106,6 +2145,95 @@ def zh_ok(en, zh):
     # Source with no Latin letters (pure digits, symbols, URLs) needs no work.
     return not re.search(r"[A-Za-z]", en or "")
 
+
+# ─────────────── link-free headlines, then collapse near-duplicates ───────────────
+# Two defects the reader sees immediately, both handled here so that everything
+# downstream — the translation queue, the carry-over pool, the coverage stats —
+# already works on the cleaned, de-duplicated lists.
+#
+# 1. A headline carrying its own URL. The social index concatenates the page
+#    title and the link, and the translation step keeps the link, so 19 cards
+#    showed a raw URL as part of the headline. Stripped from both the original
+#    and the translated field.
+# 2. The same story arriving twice: two outlets, a news article plus a post that
+#    quotes it, or the same post returned by two queries. Compared on character
+#    3-grams, which is the only measure that works for Chinese (no word breaks).
+#    Threshold 0.68 with at least 8 shared trigrams: measured on the live corpus,
+#    every pair above 0.66 was a genuine duplicate and nothing below 0.60 was.
+for _it in news + social:
+    for _f in ("title", "title_zh"):
+        if _it.get(_f):
+            _it[_f] = strip_links(_it[_f])
+
+
+def _shingles(s, n=3):
+    s = re.sub(r"https?://\S+", "", (s or "").lower())
+    s = re.sub(r"[^0-9a-z\u4e00-\u9fa5]+", "", s)
+    if not s:
+        return set()
+    if len(s) <= n:
+        return {s}
+    return {s[i:i + n] for i in range(len(s) - n + 1)}
+
+
+def _title_key(it):
+    return (it.get("title_zh") or it.get("title") or "").strip()
+
+
+def _dup_hit(key, sh, kept, th=0.68, floor=8):
+    """Index in `kept` of the first record that duplicates this headline."""
+    if not key or not sh:
+        return None
+    for j, (pk, ps) in enumerate(kept):
+        if pk == key:
+            return j
+        if not ps:
+            continue
+        inter = len(sh & ps)
+        if inter >= floor and inter / float(len(sh | ps)) >= th:
+            return j
+    return None
+
+
+def _worth_keeping(it):
+    """Which of two near-identical records to keep: the one with more to read."""
+    return (1 if not it.get("platform") else 0,      # a news article beats a post
+            len(it.get("body") or ""),
+            len(it.get("summary") or it.get("snippet") or ""))
+
+
+def collapse_near_dups(items, th=0.68, floor=8):
+    kept, out, dropped = [], [], 0
+    for it in items:
+        k, sh = _title_key(it), _shingles(_title_key(it))
+        j = _dup_hit(k, sh, kept, th, floor)
+        if j is None:
+            kept.append((k, sh))
+            out.append(it)
+            continue
+        dropped += 1
+        if _worth_keeping(it) > _worth_keeping(out[j]):
+            out[j] = it
+            kept[j] = (k, sh)
+    return out, dropped
+
+
+news, _dup_news = collapse_near_dups(news)
+social, _dup_soc = collapse_near_dups(social)
+# Cross-channel: a post that merely restates a headline already on the page reads
+# as a repeat, not as a second source. Slightly stricter than within a channel,
+# because a post and an article legitimately frame the same event differently.
+_news_kept = [(_title_key(n), _shingles(_title_key(n))) for n in news]
+_soc_out, _dup_cross = [], 0
+for _s in social:
+    _k, _sh = _title_key(_s), _shingles(_title_key(_s))
+    if _dup_hit(_k, _sh, _news_kept, 0.74, 8) is not None:
+        _dup_cross += 1
+        continue
+    _soc_out.append(_s)
+social = _soc_out
+print("near-duplicates collapsed: news %d, social %d, social-vs-news %d"
+      % (_dup_news, _dup_soc, _dup_cross))
 
 queue = {}
 for coll, fields, group in ((news, ("title", "summary", "body"), "news"),
