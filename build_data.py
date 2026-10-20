@@ -137,13 +137,33 @@ CN_RX = re.compile(r"""(
  \bchinese-?(?:built|funded|backed)\b
 )""", re.I | re.X)
 
+# NOTE: the country abbreviation must be matched CASE-SENSITIVELY and separately
+# from the word list. `\bu\.?s\.?\b` under re.I also matches the English pronoun
+# "us", so a line like "it lets us refine our own products" made a purely local
+# Nigerian story look US-related and pushed it into the US tier — which is how
+# Dangote-refinery and Ghana-GoldBod items ended up ranked as 涉美.
+# The `(?!\s*\$)` guard keeps "US$1 billion" (a currency amount) out of it: that
+# is how "GoldBod terminates US$1 billion Goldstream deal in Ghana" was read as a
+# US story when it is purely a Ghanaian transaction.
+US_ABBR = re.compile(r"\bU\.S\.(?:A\.)?|\bUSA\b|\bUS\b(?!\s*\$)|(?<![A-Z])U\.S\b")
 US_RX = re.compile(r"""(
- \bu\.?s\.?(?:a\.?)?\b|\bamericans?\b|\bamerican\b|\bpentagon\b|\btrump\b|\bbiden\b|
+ \bamericans?\b|\bamerican\b|\bpentagon\b|\btrump\b|\bbiden\b|
  \busaid\b|\bafricom\b|\bexxon\b|\bchevron\b|\boccidental\b|
  \bunited\s+states\b|\bwashington\b|\bstate\s+department\b|\bwhite\s+house\b|
  \bwall\s+street\b|\bsilicon\s+valley\b|\bmillennium\s+challenge\b|
  \bu\.?s\.?\s+(?:aid|troops|military|sanctions|embassy|dollar|firms|companies)\b
 )""", re.I | re.X)
+
+
+def us_hits(text):
+    """US mentions in a string, counting the case-sensitive abbreviation too."""
+    text = text or ""
+    return len(US_RX.findall(text)) + len(US_ABBR.findall(text))
+
+
+def has_us(text):
+    text = text or ""
+    return bool(US_RX.search(text) or US_ABBR.search(text))
 
 THIRD = [
     ("法国", r"\bfrance\b|\bfrench\b|\bparis\b|\belysee\b"),
@@ -242,8 +262,8 @@ def actor_tier(title, summary, min_hits=3, is_gov_publisher=False, topics=()):
     t = title or ""
     s = summary or ""
     if CN_RX.search(t) or len(CN_RX.findall(s)) >= min_hits:
-        return 1, "中国", bool(US_RX.search(t) or len(US_RX.findall(s)) >= min_hits)
-    if US_RX.search(t) or len(US_RX.findall(s)) >= min_hits:
+        return 1, "中国", bool(has_us(t) or us_hits(s) >= min_hits)
+    if has_us(t) or us_hits(s) >= min_hits:
         return 2, "美国", False
     # Tier 3: the four governments' own dynamics.
     if is_gov_publisher or (is_gov_actor(t, s) and (set(topics) & GOV_TOPICS)):

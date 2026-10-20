@@ -154,6 +154,11 @@ nav.tabs button .n{font-size:10.5px;color:var(--ink3);font-weight:500;margin-lef
 .t3 .ico{background:#217A4B}
 .t4{background:linear-gradient(96deg,#eef1f4,#f7f9fa);color:#465768}
 .t4 .ico{background:#6B7C8C}
+/* per-module priority groups (see rankOf). p0 = 优先关注, p1 = 其他 */
+.p0{background:linear-gradient(96deg,#fdece9,#fbf5f2);color:#9E2A18}
+.p0 .ico{background:#C0392B}
+.p1{background:linear-gradient(96deg,#eef1f4,#f7f9fa);color:#465768}
+.p1 .ico{background:#8B9AA8}
 .tier-desc{font-size:11.5px;color:var(--ink3);margin:0 0 10px;padding-left:2px;line-height:1.6}
 .tb{display:inline-block;padding:1.5px 7px;border-radius:5px;font-size:10px;font-weight:700;
   letter-spacing:.02em}
@@ -287,11 +292,11 @@ details.ft[open] summary::before{content:'▾ '}
   function api(u){
     return u + (u.indexOf('?')>=0 ? '&' : '?') + 'cid=' + CID;
   }
-  // sort: 'tier' = China → US → government → other grouping (v9 default, the
-  // reader's preferred reading order); 'time' = strict reverse-chronological.
-  // Either way, within each tier (or in 'time' mode globally) items are
-  // ordered newest-first by their own publish time.
-  var state = {view:'overview', cty:'all', topic:'all', tier:'all', q:'', page:1, sort:'time'};
+  // sort: 'prio' = per-module priority (default in the four module views, see
+  // rankOf); 'tier' = China → US → government → other grouping; 'time' = strict
+  // reverse-chronological. In every mode items inside a group stay newest-first,
+  // so "最新排最前" always holds.
+  var state = {view:'overview', cty:'all', topic:'all', tier:'all', q:'', page:1, sort:'prio'};
   var TOPICS = [['pol','政治'],['eco','经济'],['sec','安全'],['ene','能源'],['min','矿产'],['cor','战略通道']];
   var CNAMES = {
     ng:'尼日利亚', ne:'尼日尔', ml:'马里', gh:'加纳', wa:'西非区域', af:'非洲',
@@ -310,7 +315,11 @@ details.ft[open] summary::before{content:'▾ '}
      critical gotchas (re.X skips literal spaces; \b…\b needs explicit chars) are
      reproduced verbatim to stay aligned. */
   var CN_RX = /\bchina\b|\bchinese\b|\bbeijing\b|\bprc\b|\bsino[\s-]|\bcnpc\b|\bcnooc\b|\bsinopec\b|\bsinochem\b|\bchinalco\b|\bcmoc\b|\bzijin\b|\bhuawei\b|\bzte\b|\bchec\b|\bccecc\b|\bcrcc\b|\bgezhouba\b|\bwanbao\b|\bhuayou\b|\bcatl\b|\bbyd\b|\bshandong\b|\bcnmc\b|\bchinese[-\s](?:owned|company|companies|firm|firms|miner|miners|investment|national)/i;
-  var US_RX = /\bu\.?s\.?(?:a\.?)?\b|\bamericans?\b|\bamerican\b|\bpentagon\b|\btrump\b|\bbiden\b|\busaid\b|\bafricom\b|\bexxon\b|\bchevron\b|\boccidental\b|\bunited\s+states\b|\bwashington\b|\bstate\s+department\b|\bwhite\s+house\b|\bwall\s+street\b|\bsilicon\s+valley\b|\bmillennium\s+challenge\b/i;
+  /* The country abbreviation is matched case-sensitively and separately: /\bu\.?s\.?\b/i
+     also matches the English pronoun "us", which made purely local stories such as
+     "it lets us refine our own products" look US-related. */
+  var US_ABBR = /\bU\.S\.(?:A\.)?|\bUSA\b|\bUS\b(?!\s*\$)/;
+  var US_RX = /\bamericans?\b|\bamerican\b|\bpentagon\b|\btrump\b|\bbiden\b|\busaid\b|\bafricom\b|\bexxon\b|\bchevron\b|\boccidental\b|\bunited\s+states\b|\bwashington\b|\bstate\s+department\b|\bwhite\s+house\b|\bwall\s+street\b|\bsilicon\s+valley\b|\bmillennium\s+challenge\b/i;
   function inModule(it, mod){
     var c = it.country || [];
     /* tier 1 / 2 are decided by build_data.py (it is the authoritative
@@ -321,6 +330,96 @@ details.ft[open] summary::before{content:'▾ '}
     if(mod==='africa')   return c.some(function(x){return AFRICA_CTYS.indexOf(x)>=0;});
     if(mod==='periphery')return c.some(function(x){return PERIPHERY_CTYS.indexOf(x)>=0;});
     return false;
+  }
+
+  /* ── per-module priority ────────────────────────────────────────────────
+     The reader asked for a specific reading order inside each module: what
+     bears on Chinese people / companies / projects first, everything else
+     after. Rank 0 is promoted, rank 1 stays below — nothing is hidden, and
+     inside each rank the feed is still strictly newest-first, so the
+     "最新排最前" rule is untouched.
+
+       china      涉华主体 → 其余
+       us         美国 × 四国互动 → 美国其他活动
+       africa     涉华 + 美方负面「小动作」 → 其余
+       periphery  涉华 / 涉美互动 → 其余
+
+     The Chinese-side regexes are needed because every card shows a translated
+     headline: matching only the English CN_RX would demote items whose English
+     text no longer exists in the payload (social snippets are already zh). */
+  var CN_ZH_RX = /中国|中方|中企|中资|华人|华企|北京|华为|中兴|中石油|中石化|中海油|中化|中铝|五矿|紫金|洛阳钼业|华友|宁德时代|比亚迪|中铁|中交|中电建|中能建|万宝|葛洲坝|中国有色|中非|中尼|中俄|中印|中菲|中缅|中越|中老|中韩|中朝|一带一路/;
+  var US_ZH_RX = /美国|美方|美军|华盛顿|白宫|五角大楼|特朗普|拜登|美国国务院|非洲司令部|埃克森|雪佛龙|世纪挑战|美非/;
+  /* 综述类标题（今日要闻、早报、周报…）什么都提一句，靠一句顺带提及就会蹿到
+     模块最前，反而把真正的单条报道压下去。这类条目统一降到第二组。 */
+  var ROUNDUP_RX = /今日要闻|今日大局|五件要闻|要闻速览|早报|晚报|简报|周报|综述|盘点|\broundup\b|\bbriefing\b|\bwhat you need to know\b|\bfive things\b|\btop stories\b|\brecap\b|\bweekly\b/i;
+  /* 涉华「主体」判定：标题里的中国必须是行为主体（企业、项目、人员、官方），
+     而不是地点或陪衬。像「特朗普下月在中国会见…」只是地点，「女足世界杯…
+     西班牙和中国获胜」只是并列提及，都不该占住模块首位。 */
+  var CN_SUBJ_RX = /中国企业|中国公司|中国项目|中国投资|中国贷款|中国工人|中国公民|中国商人|中国承包商|中国银行|进出口银行|中国政府|中国官方|中国代表团|中国大使|中国外交部|中国商务部|中国海军|中国军队|中国[\u4e00-\u9fa5]{0,6}(?:公司|企业|集团|矿业|石油|建筑|银行|工程)|中方|中资|中企|华人|华企|华裔|对华|访华|赴华|涉华|与中国|中国与|中非|中尼|中俄|中印|中菲|中缅|中越|中老|中韩|中朝|人民币|一带一路|习近平|李克强|王毅/;
+  /* Named Chinese companies are the strongest possible subject signal, so they
+     count even when the country name never appears in the headline. */
+  var CN_FIRM_RX = /\bcnpc\b|\bcnooc\b|\bsinopec\b|\bsinochem\b|\bchinalco\b|\bcmoc\b|\bzijin\b|\bhuawei\b|\bzte\b|\bchec\b|\bccecc\b|\bcrcc\b|\bgezhouba\b|\bwanbao\b|\bhuayou\b|\bcatl\b|\bbyd\b|\bcnmc\b|\bdeepseek\b|\btiktok\b|\balibaba\b|\btencent\b|\bdatang\b|\bsinosure\b|\bchina\s+(?:railway|rail|communications|construction|gezhouba|national|southern|northern|energy|petroleum|harbour|merchants|development\s+bank|exim)/i;
+  /* 文化／娱乐／体育类不构成「与美国的互动」：即便标题里出现美国，也不该排到
+     涉美、周边两个模块的最前面。只降序，不隐藏。 */
+  var SOFT_RX = /奖|颁奖|展览|艺术|音乐|电影|影视|演唱会|体育|足球|奥运|赛事|综艺|明星|\baward|\bprize|\bfestival|\bexhibit|\bconcert|\bfilm\b|\bmovie|\balbum|\bsports?\b|\bfootball|\bolympic|\bcelebrity/i;
+  /* 「美国 × 四国的互动」要求美国出现在标题里。仅靠正文或摘要里一句顺带提到
+     美国，不足以把一条尼日利亚本地新闻抬到模块首位。 */
+  var US_TTL_RX = /\bamerican\b|\bamericans\b|\bpentagon\b|\btrump\b|\bbiden\b|\busaid\b|\bafricom\b|\bunited\s+states\b|\bwashington\b|\bstate\s+department\b|\bwhite\s+house\b|\bexxon\b|\bchevron\b|\bmillennium\s+challenge\b/i;
+  var US_TTL_ZH_RX = /美国|美方|美军|华盛顿|白宫|五角大楼|特朗普|拜登|美国国务院|非洲司令部|美国国际开发署|世纪挑战/;
+  /* 美方「小动作」：带压制、排挤、军事化或规则性排斥意味的动作。词表刻意
+     保守——命中只影响排序，不改变条目本身的层级，也不会隐藏任何内容。 */
+  var US_MOVE_RX = /\bafricom\b|\bmilitary\s+(?:base|cooperation|presence|exercise|drill|pact|deal|tie)|\bdrone\b|\bairstrike|\bair\s+strike|\bsanction|\bembargo|\bexport\s+control|\btariff|\bentity\s+list|\bblacklist|\bcounter(?:ing)?\s+(?:china|chinese)|\bcheck\s+(?:china|chinese)|\bcontain(?:ing)?\s+china|\brival(?:ry|s)?\b|\brace\s+to\s+china|\bdebt\s+trap|\bpredatory|\bcritical\s+minerals?\b|\brare\s+earth|\bexim\b|\bdfc\b|\bmillennium\s+challenge|\bintelligence|\barms\s+sale|\bweapons?\s+sale|\bexpel|\bdeport|\bseiz(?:e|ed|ure)|\bconfiscat|\brevok|\bterminat|\bsuspend|\bcancel|\bcut\s+(?:aid|funding|assistance)|\bwithdraw/;
+  var US_MOVE_ZH_RX = /制裁|禁令|出口管制|关税|实体清单|黑名单|遏制|制衡|抗衡|竞争|对抗|军事基地|驻军|联合演习|军演|无人机|空袭|情报|军售|施压|警告|威胁|驱逐|冻结|没收|撤销|终止|暂停|取消|削减援助|撤军/;
+  /* Headers shown above each rank group. Keeping them short matters on a phone. */
+  var MOD_RANK_LABEL = {
+    china:     ['涉华主体：中国人 / 企业 / 项目', '其他涉华相关'],
+    us:        ['美国 × 尼日利亚·尼日尔·马里·加纳', '美国其他活动'],
+    africa:    ['涉华主体 + 美方负面动作', '其他动态'],
+    periphery: ['涉华 / 涉美互动', '其他动态']
+  };
+  /* Only headline + summary text is scored. Scanning the full body would let a
+     single passing mention inside a long article promote a story that is not
+     actually about China or the US. */
+  function txtOf(it){
+    return [it.title,it.title_zh,it.summary,it.summary_zh,it.snippet,it.snippet_zh,it.actor]
+      .join(' ');
+  }
+  function rankOf(it, mod){
+    var s = txtOf(it);
+    var ttl = [it.title,it.title_zh].join(' ');
+    /* cnSubj — 中国在标题里是行为主体，而不是地点或并列提及。 */
+    var cnSubj = CN_SUBJ_RX.test(ttl) || CN_FIRM_RX.test(ttl);
+    var usTtl  = US_TTL_RX.test(ttl) || US_ABBR.test(ttl) || US_TTL_ZH_RX.test(ttl);
+    var us = usTtl || US_RX.test(s) || US_ZH_RX.test(s) || it.actor==='美国' || it.tier===2 || !!it.alsoUS;
+    var af = (it.country||[]).some(function(x){return AFRICA_CTYS.indexOf(x)>=0;});
+    var digest = ROUNDUP_RX.test(ttl);
+    var soft = SOFT_RX.test(ttl);
+    if(mod==='china')     return (cnSubj && !digest && !soft) ? 0 : 1;
+    if(mod==='us')        return (usTtl && af && !digest && !soft) ? 0 : 1;
+    if(mod==='africa')    return (!digest && (cnSubj || (usTtl && (US_MOVE_RX.test(s) || US_MOVE_ZH_RX.test(s))))) ? 0 : 1;
+    if(mod==='periphery') return (!digest && !soft && (cnSubj || usTtl)) ? 0 : 1;
+    return 0;
+  }
+  /* Orders a module feed. Falls back to the two legacy modes when the reader
+     picks 按时间 or 按层级 from the sort bar. */
+  function orderModule(items, mod){
+    var a = items.slice();
+    if(state.sort==='time'){
+      a.sort(function(x,y){return stamp(y)-stamp(x);});
+      return a;
+    }
+    if(state.sort==='tier'){
+      a.sort(function(x,y){return (x.tier-y.tier)||(stamp(y)-stamp(x));});
+      return a;
+    }
+    a.forEach(function(it){ it._rk = rankOf(it, mod); });
+    a.sort(function(x,y){return (x._rk-y._rk)||(stamp(y)-stamp(x));});
+    return a;
+  }
+  function rankHead(mod, rk, n){
+    var lb = (MOD_RANK_LABEL[mod]||[])[rk] || '其他';
+    return '<div class="tier-hd '+(rk===0?'p0':'p1')+'"><span class="ico">'
+      +(rk===0?'★':'·')+'</span>'+esc(lb)+'<span class="cnt">'+n+' 条</span></div>';
   }
   var PNAMES = {x:'X', linkedin:'LinkedIn', facebook:'Facebook', instagram:'Instagram', news:'新闻', web:'网页'};
 
@@ -376,9 +475,9 @@ details.ft[open] summary::before{content:'▾ '}
         +(n!==''?'<span class="n">'+n+'</span>':'')+'</button>';
     }).join('');
     document.getElementById('foot').innerHTML =
-      '<b>Africa Eyes</b>　·　西非四国（尼日利亚、尼日尔、马里、加纳）每日动态监测，移动端优先。'
-      +'数据来源：四国主流媒体、国际通讯社、全球矿业媒体，以及 LinkedIn / X / Facebook / Instagram 公开页面。<br>'
-      +'默认按层级分组阅读（涉华 → 美国 → 当事国政府 → 其他），每层内按发布时间倒序；窗口近 3 日。'
+      '<b>China Eyes</b>　·　涉华 / 涉美 / 非洲四国（尼日利亚、尼日尔、马里、加纳）/ 中国周边，每日动态监测，移动端优先。'
+      +'数据来源：四国主流媒体、周边国家媒体、国际通讯社、全球矿业媒体，以及 X / LinkedIn / Facebook / Instagram 公开页面。<br>'
+      +'四个模块各自按优先级分组阅读（涉华主体与美方负面动作在前，其余在后），组内按发布时间倒序；条目保留 '+(D.windowDays||3)+' 天，超期由新内容覆盖。'
       +(STATIC
         ? '本页为长期托管的静态快照版，链接不会失效；内容截至下方生成时间，更新由维护者定期重建。'
         : '后台每 3 小时重建一次，页面每 60 秒自动检查并就地替换内容。')
@@ -445,7 +544,10 @@ details.ft[open] summary::before{content:'▾ '}
     return a;
   }
   function sortBar(){
-    var opts=[['time','按时间（最新在上）'],['tier','按层级分组']];
+    /* 'prio' is the default: it is the per-module reading order the reader
+       specified. 按时间 gives a plain reverse-chronological feed; 按层级 keeps
+       the global China→US→government→other grouping. */
+    var opts=[['prio','按模块优先级'],['time','按时间（最新在上）'],['tier','按层级分组']];
     return '<div class="filters"><span class="flabel">排序</span>'
       +opts.map(function(o){
         return '<span class="chip'+(state.sort===o[0]?' on':'')+'" data-k="sort" data-v="'
@@ -476,11 +578,17 @@ details.ft[open] summary::before{content:'▾ '}
     if(state.page>tot)state.page=tot;
     var slice=items.slice((state.page-1)*PAGE,(state.page-1)*PAGE+PAGE);
     if(!slice.length) return '<div class="empty">当前筛选条件下没有条目。请放宽层级、国家或领域筛选。</div>';
-    var h='',last=null,counts={};
-    items.forEach(function(i){counts[i.tier]=(counts[i.tier]||0)+1;});
+    var h='',last=null,counts={},lastRk=null,rkCounts={};
+    items.forEach(function(i){
+      counts[i.tier]=(counts[i.tier]||0)+1;
+      if(typeof i._rk==='number') rkCounts[i._rk]=(rkCounts[i._rk]||0)+1;
+    });
+    var usePrio = (state.sort!=='time' && state.sort!=='tier' && MOD_RANK_LABEL[state.view]);
     slice.forEach(function(i){
       if(state.sort==='tier' && i.tier!==last){
         h+=tierHead(i.tier,counts[i.tier]||0); last=i.tier; }
+      else if(usePrio && typeof i._rk==='number' && i._rk!==lastRk){
+        h+=rankHead(state.view, i._rk, rkCounts[i._rk]||0); lastRk=i._rk; }
       h+=cardFn(i);
     });
     if(tot>1){
@@ -657,10 +765,22 @@ details.ft[open] summary::before{content:'▾ '}
                           'africa':'发生在尼日利亚、尼日尔、马里、加纳的报道与社交动态，含各政府、中国、美国、恐怖组织及其他各方。',
                           'periphery':'发生在中国周边国家（朝鲜/韩国、菲律宾、缅甸、俄罗斯、印度、尼泊尔、越南、老挝）的报道与社交动态。'}[mod];
       var unifiedCard = function(it){ return it.platform ? cardSocial(it) : cardNews(it); };
-      var merged = newsFiltered.concat(socFiltered);
-      merged.sort(function(a,b){return stamp(b)-stamp(a);});
-      var section = '<div class="sec-title">'+moduleLabel+'　·　'+newsFiltered.length+' 条新闻 + '+socFiltered.length+' 条动态</div>'
+      /* Per-module priority ordering (see rankOf). Within each rank the feed is
+         newest-first, so the reader's "最新排最前" rule still applies. */
+      var merged = orderModule(newsFiltered.concat(socFiltered), mod);
+      var prioN  = state.sort==='prio'
+        ? merged.filter(function(i){return i._rk===0;}).length : 0;
+      var prioHint = {'china':'涉华主体优先：中国人、中国企业、中国项目在前，其他涉华报道在后。',
+                      'us':'美国 × 尼日利亚·尼日尔·马里·加纳的互动在前，美国在其他方向的活动在后。',
+                      'africa':'涉华主体、以及美方在四国可能带来负面影响的「小动作」在前，其余在后。',
+                      'periphery':'涉华、涉美的互动在前，其余周边动态在后。'}[mod];
+      var section = '<div class="sec-title">'+moduleLabel+'　·　'+newsFiltered.length+' 条新闻 + '+socFiltered.length+' 条动态'
+        +(prioN?'　·　<span style="color:var(--accent2)">优先 '+prioN+' 条</span>':'')+'</div>'
         + '<div class="note grey">'+moduleNote+'</div>'
+        + (state.sort==='prio'
+            ? '<div class="note grey" style="color:var(--ink2)"><b>阅读顺序：</b>'+prioHint
+              + '每组内部按发布时间倒序，最新在上；条目自发布起保留 '+(D.windowDays||3)+' 天，超期即被新内容替换。</div>'
+            : '')
         + (merged.length
             ? cardList(merged, unifiedCard)
             : '<div class="empty">本模块近 '+(D.windowDays||3)+' 日内没有匹配条目。可放宽国家、领域筛选或更换关键词。</div>');
