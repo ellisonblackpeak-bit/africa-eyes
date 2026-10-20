@@ -2218,23 +2218,6 @@ def collapse_near_dups(items, th=0.68, floor=8):
     return out, dropped
 
 
-news, _dup_news = collapse_near_dups(news)
-social, _dup_soc = collapse_near_dups(social)
-# Cross-channel: a post that merely restates a headline already on the page reads
-# as a repeat, not as a second source. Slightly stricter than within a channel,
-# because a post and an article legitimately frame the same event differently.
-_news_kept = [(_title_key(n), _shingles(_title_key(n))) for n in news]
-_soc_out, _dup_cross = [], 0
-for _s in social:
-    _k, _sh = _title_key(_s), _shingles(_title_key(_s))
-    if _dup_hit(_k, _sh, _news_kept, 0.74, 8) is not None:
-        _dup_cross += 1
-        continue
-    _soc_out.append(_s)
-social = _soc_out
-print("near-duplicates collapsed: news %d, social %d, social-vs-news %d"
-      % (_dup_news, _dup_soc, _dup_cross))
-
 queue = {}
 for coll, fields, group in ((news, ("title", "summary", "body"), "news"),
                             (social, ("title", "snippet", "body"), "social")):
@@ -2254,6 +2237,34 @@ for coll, fields, group in ((news, ("title", "summary", "body"), "news"),
             it[field + "_zh"] = zh if zh_ok(en, zh) else ""
             if not it[field + "_zh"]:
                 queue.setdefault(ck, {"key": ck, "group": group, "field": field, "en": en})
+
+news, _dup_news = collapse_near_dups(news)
+social, _dup_soc = collapse_near_dups(social)
+# Cross-channel: a post that merely restates a headline already on the page reads
+# as a repeat, not as a second source. Slightly stricter than within a channel,
+# because a post and an article legitimately frame the same event differently.
+_news_kept = [(_title_key(n), _shingles(_title_key(n))) for n in news]
+_soc_out, _dup_cross = [], 0
+for _s in social:
+    _k, _sh = _title_key(_s), _shingles(_title_key(_s))
+    if _dup_hit(_k, _sh, _news_kept, 0.74, 8) is not None:
+        _dup_cross += 1
+        continue
+    _soc_out.append(_s)
+social = _soc_out
+print("near-duplicates collapsed: news %d, social %d, social-vs-news %d"
+      % (_dup_news, _dup_soc, _dup_cross))
+
+# The queue was filled before the collapse, so it still holds strings belonging
+# to the records just dropped. Prune it — otherwise every dropped duplicate is
+# paid for in translation credits on this run and the next.
+_live_en = set()
+for _it in news + social:
+    for _f in ("title", "summary", "body", "snippet"):
+        _v = _it.get(_f)
+        if _v:
+            _live_en.add(tkey(_v))
+queue = {_k: _v for _k, _v in queue.items() if _k in _live_en}
 
 need = len(queue)
 # Coverage is measured in Chinese characters, not in "field is non-empty".
