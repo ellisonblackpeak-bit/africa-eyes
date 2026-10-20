@@ -84,7 +84,7 @@ def main():
     profiles = d.get("profiles") or []
 
     out = []
-    out.append("# Africa Eyes 西非四国动态日报 · %s\n" % day)
+    out.append("# China Eyes 每日动态简报 · %s\n" % day)
     out.append("> 监测范围：尼日利亚、尼日尔、马里、加纳（含西非／萨赫勒区域）。"
                "领域：政治、经济、安全、能源、矿产、战略通道。\n")
     out.append("> 抓取窗口 %s，页面显示窗口 %s。本期共 %d 条媒体条目、%d 条社交动态、%d 个 X 人物画像。\n"
@@ -140,7 +140,7 @@ def main():
                                   post["url"]))
             out.append("")
 
-    out.append("\n---\n\n*本文件由 Africa Eyes 自动生成，可直接导入 IMA 知识库。"
+    out.append("\n---\n\n*本文件由 China Eyes 自动生成，可直接导入 IMA 知识库。"
                "生成时间：%s*\n" % d.get("generatedAt", day))
 
     text = "\n".join(out)

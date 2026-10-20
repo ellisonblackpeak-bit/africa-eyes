@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Aggregate raw collection into data.js for the Africa Eyes monitor.
+"""Aggregate raw collection into data.js for the China Eyes monitor.
 
 Inputs  : data/raw/tavily_news_*.json  (media reporting)
           data/raw/firecrawl_*.json    (LinkedIn / X / Facebook / Instagram)
@@ -2181,7 +2181,7 @@ hl.append("本期归集：媒体条目 %d 条（涉华 %d、美国 %d、当事�
 
 data = {
     "generatedAt": datetime.now(CST).isoformat(timespec="seconds"),
-    "appName": "Africa Eyes",
+    "appName": "China Eyes",
     "window": "近 %d 日" % WINDOW_DAYS,
     "windowDays": WINDOW_DAYS,
     "translation": {"newsTitles": have_news, "newsTotal": len(news),
