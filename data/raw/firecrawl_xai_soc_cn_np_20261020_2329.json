@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/kathmandupost/status/2111278469128794164",
+     "title": "Beijing’s security concerns cloud Nepal’s push to reopen Tatopani Flood damage to Rasuwagadhi and the high cost of Korala leave the Sindhupa",
+     "description": "Beijing’s security concerns cloud Nepal’s push to reopen Tatopani\n\nFlood damage to Rasuwagadhi and the high cost of Korala leave the Sindhupalchok crossing vital to Nepal’s trade with China, but Beijing remains reluctant to reopen it over concerns about Tibet.\n\nhttps://t.co/c7yosaxNsS —by Gaurav Pokharel & @SeemaTamang15",
+     "snippet": "Beijing’s security concerns cloud Nepal’s push to reopen Tatopani\n\nFlood damage to Rasuwagadhi and the high cost of Korala leave the Sindhupalchok crossing vital to Nepal’s trade with China, but Beijing remains reluctant to reopen it over concerns about Tibet.\n\nhttps://t.co/c7yosaxNsS —by Gaurav Pokharel & @SeemaTamang15",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Kathmandu Post",
+     "handle": "@kathmandupost"
+    },
+    {
+     "url": "https://x.com/TibetanReview/status/2112232589734113295",
+     "title": "Tatopani remains #Nepal’s key trade route with #China through #Tibet.",
+     "description": "Tatopani remains #Nepal’s key trade route with #China through #Tibet. Despite Kathmandu’s intensified diplomatic efforts, Beijing has yet to reopen it for regular trade, citing unsubstantiated concerns about Tibetan refugee activities.\nhttps://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/",
+     "snippet": "Tatopani remains #Nepal’s key trade route with #China through #Tibet. Despite Kathmandu’s intensified diplomatic efforts, Beijing has yet to reopen it for regular trade, citing unsubstantiated concerns about Tibetan refugee activities.\nhttps://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TibetanReview",
+     "handle": "@TibetanReview"
+    },
+    {
+     "url": "https://x.com/NepalBolcha/status/2111348753034776894",
+     "title": "Tatopani border crossing will operate temporarily from October 18–20 for Dashain supply management.",
+     "description": "Tatopani border crossing will operate temporarily from October 18–20 for Dashain supply management. Only cargo trucks will be allowed. Minister Deepak Kumar Sah said China agreed after Nepal’s request. #NepalBolcha #Tatopani #NepalChina",
+     "snippet": "Tatopani border crossing will operate temporarily from October 18–20 for Dashain supply management. Only cargo trucks will be allowed. Minister Deepak Kumar Sah said China agreed after Nepal’s request. #NepalBolcha #Tatopani #NepalChina",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nepal Bolcha",
+     "handle": "@NepalBolcha"
+    },
+    {
+     "url": "https://x.com/townpostoffcl/status/2111555960183369960",
+     "title": "Nepal Balances Immigration Enforcement With Investment Protection in Chinese-Funded Meat Project https://townpost.net/2026/10/18/nepal-balan",
+     "description": "Nepal Balances Immigration Enforcement With Investment Protection in Chinese-Funded Meat Project https://townpost.net/2026/10/18/nepal-balances-immigration-enforcement-chinese-investment-meat-plant/",
+     "snippet": "Nepal Balances Immigration Enforcement With Investment Protection in Chinese-Funded Meat Project https://townpost.net/2026/10/18/nepal-balances-immigration-enforcement-chinese-investment-meat-plant/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Town Post",
+     "handle": "@townpostoffcl"
+    },
+    {
+     "url": "https://x.com/SinghRaunab/status/2112195441911849374",
+     "title": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China.",
+     "description": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China. Rising wages, gov preference on high-end electronics, manufacturing have also shifted patterns of Chinese exports to Nepal. \n\nRead it here at The Araniko Project!! Link in cmt",
+     "snippet": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China. Rising wages, gov preference on high-end electronics, manufacturing have also shifted patterns of Chinese exports to Nepal. \n\nRead it here at The Araniko Project!! Link in cmt",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Raunab Singh Khatri 孔仁星",
+     "handle": "@SinghRaunab"
+    },
+    {
+     "url": "https://x.com/KoiralaBrief/status/2112112015246602257",
+     "title": "With #Dashain nearing, Tatopani’s reopening offers hope, but 45+ containers remain stuck in #China.",
+     "description": "With #Dashain nearing, Tatopani’s reopening offers hope, but 45+ containers remain stuck in #China. Behind every delay are #Nepali traders & families waiting for festival goods. Nepal needs reliable trade routes, not another season of uncertainty.\nhttps://kathmandupost.com/national/2026/10/18/traders-race-to-bring-in-dashain-goods-as-tatopani-border-reopens",
+     "snippet": "With #Dashain nearing, Tatopani’s reopening offers hope, but 45+ containers remain stuck in #China. Behind every delay are #Nepali traders & families waiting for festival goods. Nepal needs reliable trade routes, not another season of uncertainty.\nhttps://kathmandupost.com/national/2026/10/18/traders-race-to-bring-in-dashain-goods-as-tatopani-border-reopens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Rishav Koirala",
+     "handle": "@KoiralaBrief"
+    },
+    {
+     "url": "https://x.com/KGPOSTupdates/status/2111789402037026856",
+     "title": "China has opened the Tatopani border crossing for three days ahead of Dashain.",
+     "description": "China has opened the Tatopani border crossing for three days ahead of Dashain. Cargo vehicles began entering Nepal early in the morning following the reopening. \n\n#TatopaniBorder #NepalChina",
+     "snippet": "China has opened the Tatopani border crossing for three days ahead of Dashain. Cargo vehicles began entering Nepal early in the morning following the reopening. \n\n#TatopaniBorder #NepalChina",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Koligram Post",
+     "handle": "@KGPOSTupdates"
+    },
+    {
+     "url": "https://x.com/VisaHQ/status/2112183289708503251",
+     "title": "Tatopani border between Nepal and China reopens for three days to unblock festival cargo https://www.visahq.news/2026-10-18/cn/tatopani-bord",
+     "description": "Tatopani border between Nepal and China reopens for three days to unblock festival cargo https://www.visahq.news/2026-10-18/cn/tatopani-border-between-nepal-and-china-reopens-for-three-days-to-unblock-festival-cargo/ #VisaNews #Travel #Immigration",
+     "snippet": "Tatopani border between Nepal and China reopens for three days to unblock festival cargo https://www.visahq.news/2026-10-18/cn/tatopani-border-between-nepal-and-china-reopens-for-three-days-to-unblock-festival-cargo/ #VisaNews #Travel #Immigration",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "VisaHQ",
+     "handle": "@VisaHQ"
+    },
+    {
+     "url": "https://x.com/Pemadorji04/status/2112145694651736395",
+     "title": "In #Nepal, Dashain goods are stuck.",
+     "description": "In #Nepal, Dashain goods are stuck.\nNepal-China trade points: Rasuwagadhi washed out, Korala crippled, Tatopani still shut on #China’s terms.\n#BalenShah’s govt can only “urge” & wait while traders bleed.\nChinese dependency always has a price.\n@Huanusa",
+     "snippet": "In #Nepal, Dashain goods are stuck.\nNepal-China trade points: Rasuwagadhi washed out, Korala crippled, Tatopani still shut on #China’s terms.\n#BalenShah’s govt can only “urge” & wait while traders bleed.\nChinese dependency always has a price.\n@Huanusa",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pema dorji",
+     "handle": "@Pemadorji04"
+    },
+    {
+     "url": "https://x.com/sabaqureshi457/status/2112160041272762394",
+     "title": "🇵🇰 #Pakistan lived the #China dream: #CPEC delays, debt pressure, trade terms that favour them.",
+     "description": "🇵🇰 #Pakistan lived the #China dream: #CPEC delays, debt pressure, trade terms that favour them.\nNow #Nepal chases Tatopani reopening while #Beijing stalls on “security.”\nLearn from Pakistan.\nDon’t walk the same lane.\n@jenniferzeng97",
+     "snippet": "🇵🇰 #Pakistan lived the #China dream: #CPEC delays, debt pressure, trade terms that favour them.\nNow #Nepal chases Tatopani reopening while #Beijing stalls on “security.”\nLearn from Pakistan.\nDon’t walk the same lane.\n@jenniferzeng97",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saba Qureshi",
+     "handle": "@sabaqureshi457"
+    }
+   ]
+  }
+ ]
+}

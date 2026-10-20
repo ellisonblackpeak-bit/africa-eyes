@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SahelAlerte/status/2112159395765248148",
+     "title": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris.",
+     "description": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris. Il y a quelques jours, des mercenaires affiliés à la junte de Bamako et des Russes ont attaqué et incendié un village arabe affilié à l’État Islamique (EIGS).\nEn 2022, environ un millier de civils Touaregs, en majorité Daoussahak, avaient été tués par l'EIGS. Après des semaines de violences, un calme partiel était revenu grâce à des tractations communautaires, permettant le retour de nombreux civils dans leurs villages.\nIl y a quelques semaines, Moussa Ag Acharatoumane, mobilisé pour le compte de la junte de Bamako et des Russes, a réuni ses miliciens pour attaquer ce village arabe affilié à l’EIGS. En représailles, l’EIGS a lancé depuis hier une contre-opération ciblant les civils Touaregs Daoussahak.\nLa méthode de l’EIGS : faire sortir les femmes, brûler les campements, exécuter les jeunes hommes et piller le bétail aux alentours de la ville de Ménaka.\nPendant ce temps, les Russes, les militaires maliens et leurs miliciens restent barricadés dans la ville de Ménaka. Les seuls qui tirent leur épingle du jeu sont Moussa Ag Acharatoumane et la junte, qui ont besoin d'animer la galerie.",
+     "snippet": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris. Il y a quelques jours, des mercenaires affiliés à la junte de Bamako et des Russes ont attaqué et incendié un village arabe affilié à l’État Islamique (EIGS).\nEn 2022, environ un millier de civils Touaregs, en majorité Daoussahak, avaient été tués par l'EIGS. Après des semaines de violences, un calme partiel était revenu grâce à des tractations communautaires, permettant le retour de nombreux civils dans leurs villages.\nIl y a quelques semaines, Moussa Ag Acharatoumane, mobilisé pour le compte de la junte de Bamako et des Russes, a réuni ses miliciens pour attaquer ce village arabe affilié à l’EIGS. En représailles, l’EIGS a lancé depuis hier une contre-opération ciblant les civils Touaregs Daoussahak.\nLa méthode de l’EIGS : faire sortir les femmes, brûler les campements, exécuter les jeunes hommes et piller le bétail aux alentours de la ville de Ménaka.\nPendant ce temps, les Russes, les militaires maliens et leurs miliciens restent barricadés dans la ville de Ménaka. Les seuls qui tirent leur épingle du jeu sont Moussa Ag Acharatoumane et la junte, qui ont besoin d'animer la galerie.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2112265622101045667",
+     "title": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris.",
+     "description": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris. La route nationale 20 reliant à Ansongo est coupée. Le domicile d'un commandant de milice msa @Mossa_ag a été pris pour cible lors de l'offensive de l'État islamique dans la région \n#Mali\n#Sahel",
+     "snippet": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris. La route nationale 20 reliant à Ansongo est coupée. Le domicile d'un commandant de milice msa @Mossa_ag a été pris pour cible lors de l'offensive de l'État islamique dans la région \n#Mali\n#Sahel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112160885095674030",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112169892178800978",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quart",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quarter of Sikasso, in the #Sikasso region.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quarter of Sikasso, in the #Sikasso region.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2112295880267333938",
+     "title": "Attaque à Sikasso : Bina Diarra se signale déjà L'attaque menée par le JNIM hier Dimanche 18 Octobre aux abords de Sikasso, est un mauvais p",
+     "description": "Attaque à Sikasso : Bina Diarra se signale déjà\n\nL'attaque menée par le JNIM hier Dimanche 18 Octobre aux abords de Sikasso, est un mauvais présage pour la junte terroriste de Bamako. \n\nAlors que le groupe djihadiste semble affaibli après plusieurs semaines d'intenses affrontements contre son rival de l'EIGS désormais allié de la junte Russafricaine de Bamako, le mouvement pourrait faire démentir les supputations autour de son éventuel incapacité à mener une action d'envergure contre la junte terroriste au pouvoir à Bamako.\n\nCertaines sources rapportent même que le valet de Poutine, Assimi Goita aurait dépêché auprès du mouvement djihadiste, des émissaires afin de s'assurer qu'aucune attaque massive ne serait menée en direction de Bamako pendant son absence du fait du sommet Russie-Afrique prévue en fin Octobre. \n\nLe JNIM pourrait-il profiter de l'absence de Goita pour attaquer Bamako? Le scénario semble envisagé.",
+     "snippet": "Attaque à Sikasso : Bina Diarra se signale déjà\n\nL'attaque menée par le JNIM hier Dimanche 18 Octobre aux abords de Sikasso, est un mauvais présage pour la junte terroriste de Bamako. \n\nAlors que le groupe djihadiste semble affaibli après plusieurs semaines d'intenses affrontements contre son rival de l'EIGS désormais allié de la junte Russafricaine de Bamako, le mouvement pourrait faire démentir les supputations autour de son éventuel incapacité à mener une action d'envergure contre la junte terroriste au pouvoir à Bamako.\n\nCertaines sources rapportent même que le valet de Poutine, Assimi Goita aurait dépêché auprès du mouvement djihadiste, des émissaires afin de s'assurer qu'aucune attaque massive ne serait menée en direction de Bamako pendant son absence du fait du sommet Russie-Afrique prévue en fin Octobre. \n\nLe JNIM pourrait-il profiter de l'absence de Goita pour attaquer Bamako? Le scénario semble envisagé.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/CurrentTre/status/2112173367390253546",
+     "title": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à",
+     "description": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à Tabrichat, dans la région de Gao, après l’attaque d’un convoi militaire en juillet dernier.",
+     "snippet": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à Tabrichat, dans la région de Gao, après l’attaque d’un convoi militaire en juillet dernier.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Current Trends",
+     "handle": "@CurrentTre"
+    },
+    {
+     "url": "https://x.com/SaurabhAshutos3/status/2112322593315541139",
+     "title": "Gunmen kill at least 40 civilians in Mali: security and community sources The assailants reportedly rode in on motorcycles, targeting camps",
+     "description": "Gunmen kill at least 40 civilians in Mali: security and community sources\nThe assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community",
+     "snippet": "Gunmen kill at least 40 civilians in Mali: security and community sources\nThe assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saurabh Yadav",
+     "handle": "@SaurabhAshutos3"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2112290348856717650",
+     "title": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA.",
+     "description": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA. Les deux groupes armés sont des alliés de la junte Russafricaine de Bamako.",
+     "snippet": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA. Les deux groupes armés sont des alliés de la junte Russafricaine de Bamako.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/WW3Watchtower/status/2112304667505885601",
+     "title": "Mali's armed forces and the Afrika Corps entered the Intahaka area and its gold mines on Oct 18, completing the Sevare-Gao supply route afte",
+     "description": "Mali's armed forces and the Afrika Corps entered the Intahaka area and its gold mines on Oct 18, completing the Sevare-Gao supply route after months of garrison reinforcements as counterterrorism operations have weakened JNIM. #Mali",
+     "snippet": "Mali's armed forces and the Afrika Corps entered the Intahaka area and its gold mines on Oct 18, completing the Sevare-Gao supply route after months of garrison reinforcements as counterterrorism operations have weakened JNIM. #Mali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WW3 Watchtower",
+     "handle": "@WW3Watchtower"
+    }
+   ]
+  }
+ ]
+}

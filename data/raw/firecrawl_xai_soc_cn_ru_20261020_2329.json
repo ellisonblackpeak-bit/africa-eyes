@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SavchenkoReview/status/2112234205639811406",
+     "title": "🇨🇳‼️ Kremlin has increased the gas discount for China to 56%.",
+     "description": "🇨🇳‼️ Kremlin has increased the gas discount for China to 56%.\n\nThe discount on Russian gas purchased by China via the Power of Siberia pipeline, launched seven years ago, will reach an unprecedented level this year, according to budget law materials published in the State Duma database.\n\nGazprom's average annual price for the Chinese market will be $247.9 per thousand cubic meters. Meanwhile, the company's other customers abroad will pay $562. This brings the discount to $315 per thousand cubic meters, or 56%.\n\nCompared to last year, the discount for China will increase by 15%: then, China purchased gas for $240.3 per thousand cubic meters, compared to $406.5 from Gazprom's other customers abroad (a 41% discount).\n\nNext year, according to budget documents, the Kremlin will continue to sell gas to Beijing at practically half price: $251.3 per thousand cubic meters, 46% lower than other foreign supplies ($450).\n\nFor 2028, the Ministry of Economic Development is projecting a reduction in discounts to 32% ($247.8 versus $361.9), and for 2029, to 24% ($246.4 versus $323.2).",
+     "snippet": "🇨🇳‼️ Kremlin has increased the gas discount for China to 56%.\n\nThe discount on Russian gas purchased by China via the Power of Siberia pipeline, launched seven years ago, will reach an unprecedented level this year, according to budget law materials published in the State Duma database.\n\nGazprom's average annual price for the Chinese market will be $247.9 per thousand cubic meters. Meanwhile, the company's other customers abroad will pay $562. This brings the discount to $315 per thousand cubic meters, or 56%.\n\nCompared to last year, the discount for China will increase by 15%: then, China purchased gas for $240.3 per thousand cubic meters, compared to $406.5 from Gazprom's other customers abroad (a 41% discount).\n\nNext year, according to budget documents, the Kremlin will continue to sell gas to Beijing at practically half price: $251.3 per thousand cubic meters, 46% lower than other foreign supplies ($450).\n\nFor 2028, the Ministry of Economic Development is projecting a reduction in discounts to 32% ($247.8 versus $361.9), and for 2029, to 24% ($246.4 versus $323.2).",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Savchenko Volodymyr",
+     "handle": "@SavchenkoReview"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2111976989699788999",
+     "title": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY.",
+     "description": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY. MOSCOW AND BEIJING HAVE AGREED TO INCREASE ANNUAL DELIVERIES TO 44 BCM, WITH NO TIMELINE CONFIRMED.",
+     "snippet": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY. MOSCOW AND BEIJING HAVE AGREED TO INCREASE ANNUAL DELIVERIES TO 44 BCM, WITH NO TIMELINE CONFIRMED.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2111976991633317926",
+     "title": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR.",
+     "description": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR. NEGOTIATIONS ON POWER OF SIBERIA 2, WHICH COULD SUPPLY UP TO 50 BCM ANNUALLY, CONTINUE AS RUSSIA SEEKS TO REPLACE LOST EUROPEAN MARKETS AND DEEPENS ITS ENERGY RELIANCE ON CHINA.",
+     "snippet": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR. NEGOTIATIONS ON POWER OF SIBERIA 2, WHICH COULD SUPPLY UP TO 50 BCM ANNUALLY, CONTINUE AS RUSSIA SEEKS TO REPLACE LOST EUROPEAN MARKETS AND DEEPENS ITS ENERGY RELIANCE ON CHINA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/num1_ch/status/2111908702257324447",
+     "title": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.",
+     "description": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.\n\nOn Oct 21, he will hold talks with Mishustin.\n\nKey topic: energy, including **gas**.\n\nWill Beijing finally sign off on Power of Siberia 2?",
+     "snippet": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.\n\nOn Oct 21, he will hold talks with Mishustin.\n\nKey topic: energy, including **gas**.\n\nWill Beijing finally sign off on Power of Siberia 2?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "N1 Channel",
+     "handle": "@num1_ch"
+    },
+    {
+     "url": "https://x.com/jackprandelli/status/2111832757043102199",
+     "title": "China has bought about €290bn of Russian fossil fuels since the EU bans.",
+     "description": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "snippet": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jack Prandelli",
+     "handle": "@jackprandelli"
+    },
+    {
+     "url": "https://x.com/Talagatto/status/2111354878727737375",
+     "title": "CNOOC (China) 10% CNPC (China) 10% Yamal LNG → Novatek + CNPC + Silk Road Fund Amur Gas Chemical Complex → SIBUR + Sinopec Udmurtneft → Rosn",
+     "description": "CNOOC (China) 10%\nCNPC (China) 10%\nYamal LNG → Novatek + CNPC + Silk Road Fund\nAmur Gas Chemical Complex → SIBUR + Sinopec\nUdmurtneft → Rosneft + Sinopec\n👉 Arctic LNG 2 ang best example. At kung banking pressure naman:👉 Heihe Rural Commercial Bank / Heilongjiang Suifenhe Rural Commercial Bank\nRussia project gets sanctioned\n→ Russian company suffers\n→ Chinese shareholder suffers\n→ Chinese bank becomes cautious\n→ payments get harder\n→ Beijing suddenly has skin in the game",
+     "snippet": "CNOOC (China) 10%\nCNPC (China) 10%\nYamal LNG → Novatek + CNPC + Silk Road Fund\nAmur Gas Chemical Complex → SIBUR + Sinopec\nUdmurtneft → Rosneft + Sinopec\n👉 Arctic LNG 2 ang best example. At kung banking pressure naman:👉 Heihe Rural Commercial Bank / Heilongjiang Suifenhe Rural Commercial Bank\nRussia project gets sanctioned\n→ Russian company suffers\n→ Chinese shareholder suffers\n→ Chinese bank becomes cautious\n→ payments get harder\n→ Beijing suddenly has skin in the game",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🌸⁠(¬‿¬✿)✨️Immaculate✨️ ( •̀ᴗ•́ )و⁠👑🌸",
+     "handle": "@Talagatto"
+    },
+    {
+     "url": "https://x.com/myopiniondog/status/2111720307064963466",
+     "title": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels.",
+     "description": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "snippet": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eudaemon",
+     "handle": "@myopiniondog"
+    },
+    {
+     "url": "https://x.com/kmpfreight/status/2112217522699472910",
+     "title": "Russia has nearly shipped 20 million barrels of oil to Asia through the Northern Sea Route in 2025.",
+     "description": "Russia has nearly shipped 20 million barrels of oil to Asia through the Northern Sea Route in 2025. Disruptions to traditional shipping routes have prompted traders to favor the Arctic route. Indian imports of Russian crude have fallen significantly as Chinese refiners increased their purchases. Gazprom Neft is planning to increase Arctic shipments by 35% this year compared to 2025. (Credit: Times of India)\n#Cargo #Shipping #SupplyChain",
+     "snippet": "Russia has nearly shipped 20 million barrels of oil to Asia through the Northern Sea Route in 2025. Disruptions to traditional shipping routes have prompted traders to favor the Arctic route. Indian imports of Russian crude have fallen significantly as Chinese refiners increased their purchases. Gazprom Neft is planning to increase Arctic shipments by 35% this year compared to 2025. (Credit: Times of India)\n#Cargo #Shipping #SupplyChain",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "KMP Freight Private Limited",
+     "handle": "@kmpfreight"
+    },
+    {
+     "url": "https://x.com/ValeriiKarivets/status/2111995930136158469",
+     "title": "Yes, of course, China is incredibly interested in ending the war.",
+     "description": "Yes, of course, China is incredibly interested in ending the war. So interested, in fact, that Chinese companies are taking advantage of discounted Russian energy resources due to sanctions and Russia's loss of much of the European market. You have to be incredibly naive to ignore China's economic interests. There is a big difference between those who claim to want peace and those who benefit economically from the current situation.",
+     "snippet": "Yes, of course, China is incredibly interested in ending the war. So interested, in fact, that Chinese companies are taking advantage of discounted Russian energy resources due to sanctions and Russia's loss of much of the European market. You have to be incredibly naive to ignore China's economic interests. There is a big difference between those who claim to want peace and those who benefit economically from the current situation.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Valerii Karivets",
+     "handle": "@ValeriiKarivets"
+    },
+    {
+     "url": "https://x.com/AKaszon/status/2112074734963655028",
+     "title": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China.",
+     "description": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "snippet": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andre Viktor Baron Thyssen Bornemissza von Kaszon",
+     "handle": "@AKaszon"
+    }
+   ]
+  }
+ ]
+}
