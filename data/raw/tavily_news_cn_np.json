@@ -2,23 +2,23 @@
  "success": true,
  "results": [
   {
+   "title": "Investment Board Nepal decides to facilitate construction of ...",
+   "url": "https://www.facebook.com/kathmandupost/posts/investment-board-nepal-decides-to-facilitate-construction-of-the-900mw-project-a/1550204493807466",
+   "snippet": "China's Exim Bank has approved a $175.25 million loan for the Manang Marsyangdi Hydro-electric Project (MMHEP), a $323 million venture poised to generate 766",
+   "published": "",
+   "source": "tavily"
+  },
+  {
    "title": "Can Nepal's hydropower boom withstand a changing Himalaya?",
    "url": "https://globalnation.inquirer.net/342487/can-nepals-hydropower-boom-withstand-a-changing-himalaya",
-   "snippet": "Yet India has restricted purchases from some Chinese-backed projects in Nepal, and its demand for Nepali electricity is a tiny share of its total consumption.",
-   "published": "Sun, 18 Oct 2026 07:00:00 GMT",
+   "snippet": "Nepal now has 197 hydropower projects in operation, India has restricted purchases from some Chinese-backed projects in Nepal, Nepal depends on hydropower for",
+   "published": "Sun, 18 Oct 2026 09:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "China's state-owned enterprises promise development, but ...",
    "url": "https://www.facebook.com/heritagefoundation/posts/chinas-state-owned-enterprises-promise-development-but-deliver-corruption-shoddy/1559420792893297",
    "snippet": "Last year, it pulled the plug on a $2.5 billion hydropower plant being built by a Chinese firm because of the lack of a competitive bidding process.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "United Idi-Mardi is finally getting some breathing room. ...",
-   "url": "https://www.facebook.com/ansuinv/posts/united-idi-mardi-is-finally-getting-some-breathing-room-with-grid-problems-resol/1723774509749768",
-   "snippet": "The project's contracted plant load factor (PLF) of 69% surpasses that of comparable hydropower projects in Nepal, promising enhanced revenue potential.",
    "published": "",
    "source": "tavily"
   },
@@ -47,7 +47,14 @@
    "title": "ADB Signs $60 Million Private Sector Deal to Build ...",
    "url": "https://www.adb.org/news/adb-signs-60-million-private-sector-deal-build-hydropower-plant-nepal",
    "snippet": "ADB has signed a $60 million financing package with NWEDC to help build and operate a 216-megawatt run-of-the-river hydropower plant on the Trishuli River",
-   "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "published": "Fri, 16 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "#MohanBhagwat's indirect jibe at #China: One-sided ...",
+   "url": "https://www.facebook.com/EconomicTimes/posts/mohanbhagwats-indirect-jibe-at-china-one-sided-development-causing-instability-i/1622267973262438",
+   "snippet": "MohanBhagwat's indirect jibe at #China: One-sided development causing #instability in #Himalayas https://tinyl.co/5CTE.",
+   "published": "",
    "source": "tavily"
   }
  ],

@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "FACT CHECK: Video of people panic-buying water drums for Super El Niño is AI-generated",
+   "url": "https://www.rappler.com/newsbreak/fact-check/panic-buying-water-drums-super-el-nino-ai-generated/",
+   "content": "Multiple satirical videos surfaced online after Marcos advised people to buy buckets to store water amid concerns over Super El Niño",
+   "published_date": "Tue, 20 Oct 2026 16:00:00 +0800",
+   "score": 0.6
+  },
+  {
    "title": "FACT CHECK: Posts promising cash aid, rice subsidy for all national ID holders are fake",
    "url": "https://www.rappler.com/newsbreak/fact-check/fake-posts-promising-cash-aid-rice-subsidy-for-all-national-id-holders/",
    "content": "The links to the alleged list of areas covered by the supposed nationwide program lead to a third-party blog site to trick social media users into typing in sensitive personal information",
@@ -10,8 +17,8 @@
   },
   {
    "title": "China sends naval forces to monitor US warship near disputed shoal",
-   "url": "https://www.rappler.com/world/asia-pacific/china-sends-naval-forces-monitor-us-warship-near-disputed-shoal/",
-   "content": "The Chinese military's Southern Theater Command asserts that the US warship 'illegally intruded' into waters adjacent to a shoal in the Spratly Islands",
+   "url": "https://www.rappler.com/world/asia-pacific/china-naval-forces-monitor-us-warship-escoda-shoal-south-sea/",
+   "content": "(1st UPDATE) A Philippine military spokesperson says the US ship 'did not trespass into \"Chinese territory,\"' adding that no nation has the authority to require prior permission for 'lawful transit through international waters'",
    "published_date": "Tue, 20 Oct 2026 14:39:13 +0800",
    "score": 0.6
   },
@@ -62,13 +69,6 @@
    "url": "https://www.rappler.com/people/newsmakers/christiane-amanpour-exit-cnn/",
    "content": "'After many months of thought and a few sleepless nights, I have decided to separate from CNN, my partner of 43 fantastic years!' Amanpour says in a statement to USA TODAY",
    "published_date": "Tue, 20 Oct 2026 11:18:37 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
-   "url": "https://www.rappler.com/technology/features/hacker-used-ai-agents-break-into-websites-norforge-report/",
-   "content": "Snorre Fagerland of NorForge says instances of bad actors using AI agents to perform hacks is evidence these agents could pull off complex intrusions from start to finish without human intervention",
-   "published_date": "Tue, 20 Oct 2026 11:18:30 +0800",
    "score": 0.6
   }
  ],
