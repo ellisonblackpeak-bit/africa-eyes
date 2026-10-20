@@ -1,13 +1,18 @@
 window.SITE_DATA = {
 <<<<<<< HEAD
+<<<<<<< HEAD
  "generatedAt": "2026-10-20T07:35:14+08:00",
 =======
  "generatedAt": "2026-10-20T10:01:42+08:00",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+ "generatedAt": "2026-10-20T10:06:35+08:00",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
  "appName": "Africa Eyes",
  "window": "近 3 日",
  "windowDays": 3,
  "translation": {
+<<<<<<< HEAD
 <<<<<<< HEAD
   "newsTitles": 165,
   "newsTotal": 165,
@@ -27,16 +32,19 @@ window.SITE_DATA = {
   "3": 97,
 =======
   "newsTitles": 69,
+=======
+  "newsTitles": 106,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
   "newsTotal": 106,
   "socialTitles": 53,
   "socialTotal": 53,
   "newsBodies": 106,
-  "newsBodiesZh": 96,
-  "newsSummariesZh": 96,
+  "newsBodiesZh": 106,
+  "newsSummariesZh": 106,
   "socialBodies": 53,
   "socialBodiesZh": 53,
   "socialSnippetsZh": 53,
-  "pending": 57
+  "pending": 0
  },
  "tierCounts": {
   "1": 11,
@@ -91,7 +99,7 @@ window.SITE_DATA = {
    "_dt": 1792459047.0,
    "ageDays": 0.03,
    "summary": "And so here we are, in the past few days, in the communications and ideas community, mourning the passing of Patrick Dele Cole, known variously as P.D.",
-   "summary_zh": "",
+   "summary_zh": "就这样，在过去几天，在传播和思想界，我们正在哀悼帕特里克·德莱·科尔去世，他以P.D.等各种名称为人所知",
    "summarySource": "fulltext",
    "body": "Death is a fact of life, no living thing exists forever, not even nature itself, for it is written that even the best and the brightest, shall pass to the Great Beyond, to become one with Nature and the Grand Architect, to be remembered on this side of the Divide, thereafter by their deeds. And so here we are, in the past few days, in the communications and ideas community, mourning the passing of Patrick Dele Cole, known variously as P.D. Cole, or PDC, 1940 -2026, who died in London on October 17, 2026, at the ripe age of 86. He was a historian, administrator, newspaper columnist, an author, politician, a manager of resources, and one of the most outstanding figures in contemporary Nigerian journalism who lived a life of impact and influence and has now left behind a legacy and a leverage that shine luminously upon him beyond his own humble beginnings. His death coincides perhaps by accident with two other moments of remembrance in our industry: the death recently of Professor Idowu Sobowale on October 8, a retired Professor of Mass Communications at the University of Lagos, who along with other distinguished scholars at the University of Lagos, including Professor Alfred Opubor, Professor Frank Ugboaja, Professor Onuora Nwuneli, Dr. Dele Ogunade, Professor Olatunji Dare, and Professor Ralph Akinfeleye, over the years trained generations of journalism and public relations practitioners in Nigeria. PD Cole also passed away two days to the 40th anniversary of the mysterious death of Dele Giwa, whose writings were celebrated yesterday in Lagos with the publication of a collection of his writings titled “Dele Giwa’s Granite Journalism”, edited by Mr. Ray Ekpu, another icon of the profession, the last surviving member of the famous quartet that established the Newswatch magazine. Dr. Patrick Dele Cole stood at the intersection between scholarship, journalism practice, and public intellectualism, and accordingly, some of the most important developments in Nigerian journalism for over three decades had his fingerprints directly or in the shadows, either by direct participation or by proxy or association. He was associated with both The Daily Times (1975 – 1979) and The Guardian Newspapers (from 1983 – 2026), two major organizations that formed the tap roots for much of everything else in the Nigerian media system. Dr. Dele Cole will be remembered for the quality of his associations, his deep commitment to the institutions he served, and his contributions to deepening that essential interface between media, business, society and public service. I met him at The Guardian Newspapers where I practised journalism for over 21 years serving as member, editorial board and columnist, editorialist, essayist, deputy editorial page editor, deputy editorial board chairman, and eventually as Editorial Page Editor/ Chairman, Editorial Board. Dr. Cole was one of the father figures at The Guardian and a towering presence. He was a friend of the publisher, Mr. Alex Uruemu Ibru and a consultant to The Guardian Editorial Board in which capacity he was a regular presence and contributor to the newspaper’s editorial choices. When Mr. Ibru chose to set up a newspaper company in 1982, he had sought the advice of two of his friends – Chief Olusegun Osoba, a seasoned journalist, who had been editor of The Daily Times , and General Manager of The Herald Newspaper and Dr. Dele Cole, former Managing Director of The Daily Times who had also served in Nigeria’s Cabinet Office. Ibru had been advised by his elder brother, the wealthy and influential Chief Michael Ibru not to venture into a business that will throw him into conflict with authority and the firing range of Nigeria’s intolerant military government, but Ibru was motivated by the passion to publish a newspaper that would give voice to the downtrodden and the voiceless people of Nigeria. Osoba and P.D Cole encouraged him, and thus, The Guardian was born. Mr. Ibru had the resources to fulfil his dream.",
    "bodyLevel": "fulltext",
@@ -106,8 +114,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_thisday",
-   "title_zh": "",
-   "body_zh": ""
+   "title_zh": "一位公共知识分子的逝世：帕特里克·德莱·科尔，1940–2026",
+   "body_zh": "死亡是生命的事实，没有任何生物能永远存在，即使自然本身也不能，因为据记载，即使是最优秀和最杰出的人，也将前往伟大的彼岸，与自然和伟大的建筑师合而为一，在此岸的分界线这边被人们铭记，此后则通过他们的功绩被记住。因此，在过去几天里，在传播和思想界，我们正在哀悼帕特里克·德莱·科尔（Patrick Dele Cole）的逝世，他也被称为P.D. Cole或PDC，1940-2026，于2026年10月17日在伦敦去世，享年86岁。他是一位历史学家、行政人员、报纸专栏作家、作家、政治家、资源管理者，以及当代尼日利亚新闻界最杰出的人物之一，他度过了充满影响力和影响的一生，现在留下了超越他自己卑微出身的遗产和影响力。他的去世或许偶然地与我们行业中另外两个纪念时刻重合：最近于10月8日去世的伊多武·索博瓦莱教授（Professor Idowu Sobowale），他是拉各斯大学退休的大众传播学教授，他与拉各斯大学其他杰出学者一起，包括阿尔弗雷德·奥普博教授（Professor Alfred Opubor）、弗兰克·乌博阿贾教授（Professor Frank Ugboaja）、奥诺拉·恩温尼利教授（Professor Onuora Nwuneli）、德莱·奥古纳德博士（Dr. Dele Ogunade）、奥拉通吉·达雷教授（Professor Olatunji Dare）和拉尔夫·阿金费莱耶教授（Professor Ralph Akinfeleye），多年来为尼日利亚培养了几代新闻和公共关系从业者。PD科尔也在神秘死亡的德莱·吉瓦（Dele Giwa）40周年纪念日前两天去世，昨天在拉各斯，人们通过出版一本名为《德莱·吉瓦的花岗岩新闻》（Dele Giwa’s Granite Journalism）的他的作品集来纪念他的著作，该书由雷·埃克普先生（Mr. Ray Ekpu）编辑，他是该行业的另一位偶像，是创立《新闻观察》杂志的著名四人组中最后一位在世的成员。帕特里克·德莱·科尔博士站在学术、新闻实践和公共知识分子主义的交叉点上，因此，尼日利亚新闻界三十多年来一些最重要的进展都有他的直接或间接指纹，要么通过直接参与，要么通过代理或关联。他与《每日时报》（The Daily Times，1975-1979）和《卫报》（The Guardian Newspapers，从1983年至2026年）这两家主要机构有关，这两家机构构成了尼日利亚媒体系统中其他一切事物的根基。德莱·科尔博士将因其关联的质量、他对自己所服务机构的深切承诺，以及他对深化媒体、商业、社会和公共服务之间基本接口的贡献而被铭记。我在《卫报》认识他，我在那里从事新闻工作超过21年，担任编辑委员会成员和专栏作家、社论作者、散文家、副社论版编辑、副编辑委员会主席，并最终担任社论版编辑/编辑委员会主席。科尔博士是《卫报》的父亲般人物之一，是一位高大的存在。他是出版人亚历克斯·乌鲁埃穆·伊布鲁先生（Mr. Alex Uruemu Ibru）的朋友，也是《卫报》编辑委员会的顾问，在此职位上他是报纸编辑选择的定期参与者和贡献者。当伊布鲁先生在1982年决定成立一家报纸公司时，他征求了他的两位朋友的意见——资深记者奥卢塞贡·奥索巴酋长（Chief Olusegun Osoba），他曾担任《每日时报》的编辑和《先驱报》（The Herald Newspaper）的总经理，以及德莱·科尔博士，他是《每日时报》前常务董事，也曾在尼日利亚内阁办公室任职。伊布鲁曾被他的哥哥、富有且有影响力的迈克尔·伊布鲁酋长（Chief Michael Ibru）劝告不要涉足一项会让他与当局以及尼日利亚不容忍的军政府火力范围发生冲突的业务，但伊布鲁受到激情驱使，要出版一份能为尼日利亚受压迫者和无声者发声的报纸。奥索巴和P.D.科尔鼓励了他，于是《卫报》诞生了。伊布鲁先生有资源来实现他的梦想。"
   },
   {
    "title": "Market Cap Drops Below N160tn on Profit-taking in Dangote Cement, Others",
@@ -116,9 +124,9 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 01:13:49 +0000",
    "_dt": 1792458829.0,
-   "ageDays": 0.03,
+   "ageDays": 0.04,
    "summary": "The Nigerian stock market began the new week on a downward momemtum, as investors profit-taking in Dangote Cement Plc and 38 ithers dragged market capitalization below the N160 trillion mark. Consequently, equity market capitalisation fell by N1.47 trillion to close at N159.257 trillion. Looking ahead, Cowry Assets Management Limited stated that bargain-hunting could support a near-term recovery, although persistent profit-taking may constrain market gains.",
-   "summary_zh": "",
+   "summary_zh": "尼日利亚股市在新的一周开始时呈向下势头，因为投资者在 Dangote Cement Plc 和其他38只股票上获利了结，将市值拖至低于N160万亿大关。因此，股票市场资本化下降了N1.47万亿，收于N159.257万亿。展望未来，Cowry Assets Management Limited 表示，逢低买入可能支持短期反弹，尽管持续的获利了结可能限制市场涨幅。",
    "summarySource": "fulltext",
    "body": "The Nigerian stock market began the new week on a downward momemtum, as investors profit-taking in Dangote Cement Plc and 38 ithers dragged market capitalization below the N160 trillion mark. The Nigerian Exchange Limited All-Share Index (NGX ASI) declined by 2,261.39 basis or 0.91 per cent to close at 245,278.34 basis points. Consequently, equity market capitalisation fell by N1.47 trillion to close at N159.257 trillion. Market sentiment remained bearish, with 39 decliners, outweighing 15 advancers. Multi Trex Integrated Foods emerged the highest price gainer of 10 per cent to close at 66 kobo, per share. Critical Minerals Financing Corporation (CMFC) followed with a gain of 9.97 per cent to close at N3.64, while Austin Laz & Company advanced by 9.93 per cent to close at N3.21, per share. Thomas Wyatt Nigeria increased by 9.92 per cent to close at N2.66, while Neimeth International Pharmaceuticals added 5.88 per cent to close at N8.10, per share. On the other side, Vitafoam Nigeria led others on the losers’ chart with10 per cent to close at N174.60, per share. Cutix followed with a decline of 9.79 per cent to close at N2.12, while Omatek Venture shed 9.38 per cent to close at N1.45, per share. International Energy Insurance declined by 6.48 per cent to close at N2.02, while Linkage Assurance declined by 6.29 per cent to close at N1.64, per share. The total volume traded advanced by 35.5 per cent to 349.34 million units, valued at N17.99 billion, and exchanged in 43,115 deals. Transactions in the shares of Access Holdings led the activity with 23.439 million shares worth N658.348 million. Livestock Feeds followed with account of 23.143 million shares valued at N403.202 million, while United Bank for Africa (UBA) traded 22.818 million shares valued at N959.123 million. Honeywell Flour Mills traded 22.238 million shares worth N393.646 million, while GTCO traded 14.433 million shares worth N1.777 billion. Analysts noted that the session was characterized by bearish sentiment and stronger trading activity, as increased market participation failed to offset sustained selling pressure. Looking ahead, Cowry Assets Management Limited stated that bargain-hunting could support a near-term recovery, although persistent profit-taking may constrain market gains. Founded on January 22, 1995, THISDAY is published by THISDAY NEWSPAPERS LTD., 35 Creek Road Apapa, Lagos, Nigeria with offices in 36 states of Nigeria , the Federal Capital Territory and around the world. It is Nigeria’s most authoritative news media available on all platforms for the political, business, professional and diplomatic elite and broader middle classes while serving as the meeting point of new ideas, culture and technology for the aspirationals and millennials. The newspaper is a public trust dedicated to the pursuit of truth and reason covering a range of issues from breaking news to politics, business, the markets, the arts, sports and community to the crossroads of people and society. You can email us at: hello@thisdaylive.com or visit our contact us page",
    "bodyLevel": "fulltext",
@@ -134,8 +142,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_thisday",
-   "title_zh": "",
-   "body_zh": ""
+   "title_zh": "市值因丹戈特水泥等公司获利回吐而跌破160万亿奈拉",
+   "body_zh": "尼日利亚股市在新的一周开始时呈下跌势头，投资者在 Dangote Cement Plc 和其他 38 只股票获利了结，将市值拖至低于 160 万亿奈拉大关。尼日利亚交易所全股指数 (NGX ASI) 下跌 2,261.39 点或 0.91% ，收于 245,278.34 点。因此，股票市场市值下跌 1.47 万亿奈拉，收于 159.257 万亿奈拉。市场情绪仍为看跌，39 只股票下跌，超过 15 只上涨。多特雷克斯综合食品 (Multi Trex Integrated Foods) 涨幅最高，上涨 10% ，收于每股 66 科博。关键矿产融资公司 (Critical Minerals Financing Corporation, CMFC) 涨幅 9.97% ，收于 3.64 奈拉，而 Austin Laz & Company 上涨 9.93% ，收于每股 3.21 奈拉。Thomas Wyatt Nigeria 上涨 9.92% ，收于 2.66 奈拉，而 Neimeth International Pharmaceuticals 上涨 5.88% ，收于每股 8.10 奈拉。另一方面，Vitafoam Nigeria 在下跌股中领跌，下跌 10% ，收于每股 174.60 奈拉。Cutix 下跌 9.79% ，收于 2.12 奈拉，而 Omatek Venture 下跌 9.38% ，收于每股 1.45 奈拉。International Energy Insurance 下跌 6.48% ，收于 2.02 奈拉，而 Linkage Assurance 下跌 6.29% ，收于每股 1.64 奈拉。总成交量上升 35.5% 至 3.4934 亿股，价值 179.9 亿奈拉，共成交 43,115 笔。Access Holdings 股票交易领跑，成交 2,343.9 万股，价值 6.58348 亿奈拉。Livestock Feeds 成交 2,314.3 万股，价值 4.03202 亿奈拉，而非洲联合银行 (United Bank for Africa, UBA) 成交 2,281.8 万股，价值 9.59123 亿奈拉。Honeywell Flour Mills 成交 2,223.8 万股，价值 3.93646 亿奈拉，而 GTCO 成交 1,443.3 万股，价值 17.77 亿奈拉。分析师指出，当日交易以看跌情绪和更强的交易活动为特征，尽管市场参与度增加，但未能抵消持续的卖压。展望未来，Cowry Assets Management Limited 表示，抄底可能支持短期反弹，尽管持续获利了结可能限制市场涨幅。该报于 1995 年 1 月 22 日创立，由 THISDAY NEWSPAPERS LTD. 出版，地址为尼日利亚拉各斯阿帕帕克里克路 35 号，在尼日利亚 36 个州、联邦首都特区及世界各地设有办事处。它是尼日利亚最具权威性的新闻媒体，在所有平台上为政治、商业、专业和外交精英以及更广泛的中产阶级提供服务，同时作为新思想、文化和技术与有抱负者和千禧一代的交汇点。该报纸是一种公共信托，致力于追求真相和理性，报道从突发新闻到政治、商业、市场、艺术、体育和社区以及人与社会交汇点的一系列问题。您可以通过 hello@thisdaylive.com 给我们发邮件或访问我们的联系页面。"
   },
   {
    "title": "Road safety collective responsibility – Special Marshal",
@@ -163,6 +171,7 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_punchng",
 <<<<<<< HEAD
+<<<<<<< HEAD
    "title_zh": "发音 hot、hut 和 hurt",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
@@ -176,6 +185,9 @@ window.SITE_DATA = {
    "ageDays": 0.0,
 =======
    "title_zh": "",
+=======
+   "title_zh": "道路安全是集体责任——特别警长",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -185,8 +197,12 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 01:00:52 +0000",
    "_dt": 1792458052.0,
+<<<<<<< HEAD
    "ageDays": 0.04,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.05,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -204,6 +220,7 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_punchng",
 <<<<<<< HEAD
+<<<<<<< HEAD
    "title_zh": "伊洛林大学、JABU和Chrisland培养517名一等毕业生",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
@@ -217,6 +234,9 @@ window.SITE_DATA = {
    "ageDays": 0.0,
 =======
    "title_zh": "",
+=======
+   "title_zh": "2027年：恩迪格博团体依靠基层动员支持蒂努布",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -226,7 +246,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 01:00:51 +0000",
    "_dt": 1792458051.0,
-   "ageDays": 0.04,
+   "ageDays": 0.05,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -244,7 +264,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "阿比亚州PDP候选人承诺恢复油井和工业化",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -254,8 +274,12 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 01:00:40 +0000",
    "_dt": 1792458040.0,
+<<<<<<< HEAD
    "ageDays": 0.04,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.05,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -273,6 +297,7 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_punchng",
 <<<<<<< HEAD
+<<<<<<< HEAD
    "title_zh": "药物滥用正在摧毁尼日利亚青年，副校长警告",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
@@ -286,6 +311,9 @@ window.SITE_DATA = {
    "ageDays": 0.0,
 =======
    "title_zh": "",
+=======
+   "title_zh": "阿贾伊·埃莱比雷营地在拉各斯筛选活动中选出40名球员",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -295,8 +323,12 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 01:00:21 +0000",
    "_dt": 1792458021.0,
+<<<<<<< HEAD
    "ageDays": 0.04,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.05,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -319,7 +351,11 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_punchng",
 <<<<<<< HEAD
+<<<<<<< HEAD
    "title_zh": "AI生成的论文让大学考试面临考验——加纳副校长",
+=======
+   "title_zh": "尼日尔州PDP州长候选人誓言恢复农村妇女尊严",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -327,9 +363,205 @@ window.SITE_DATA = {
    "url": "https://punchng.com/bandits-attack-zamfara-residents-flee-cp-laments-duty-officers-asleep/",
    "domain": "punchng.com",
    "source": "Punch（尼日利亚）",
+<<<<<<< HEAD
    "published": "Tue, 20 Oct 2026 00:01:58 +0000",
    "_dt": 1792454518.0,
    "ageDays": 0.0,
+=======
+   "published": "Tue, 20 Oct 2026 01:00:08 +0000",
+   "_dt": 1792458008.0,
+   "ageDays": 0.05,
+   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summarySource": "fulltext",
+   "body": "NEWS UPDATE: Nigerians can now earn as much as $15,000- $25,000 with premium domains. You decide if you want payment in Naira or US Dollars. Be sure to ask for evidence and proof of people benefitting daily from this. CLICK HERE TO START. ATTENTION NIGERIANS: You can now comfortably earn US Dollars when you acquire premium domains for as low as $3000 and profit $15,000-$35,000. Ideal for professionals like Entrepreneurs, Doctors, Civil/Public servants, IT Experts, Accountants ETC. CLICK HERE TO START. Stay in the know—fast. Get instant alerts, breaking headlines, and exclusive stories with the Punch News App . Download now and never miss a beat",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "score": 0.6,
+   "tag": "rss_punchng",
+   "title_zh": "包奇州NDC州长候选人退出政党",
+   "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
+  },
+  {
+   "title": "2027: Ogun Igbo group backs Tinubu, Yayi",
+   "url": "https://punchng.com/2027-ogun-igbo-group-backs-tinubu-yayi/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 00:48:37 +0000",
+   "_dt": 1792457317.0,
+   "ageDays": 0.05,
+   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summarySource": "fulltext",
+   "body": "NEWS UPDATE: Nigerians can now earn as much as $15,000- $25,000 with premium domains. You decide if you want payment in Naira or US Dollars. Be sure to ask for evidence and proof of people benefitting daily from this. CLICK HERE TO START. ATTENTION NIGERIANS: You can now comfortably earn US Dollars when you acquire premium domains for as low as $3000 and profit $15,000-$35,000. Ideal for professionals like Entrepreneurs, Doctors, Civil/Public servants, IT Experts, Accountants ETC. CLICK HERE TO START. Stay in the know—fast. Get instant alerts, breaking headlines, and exclusive stories with the Punch News App . Download now and never miss a beat",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "score": 0.6,
+   "tag": "rss_punchng",
+   "title_zh": "2027年：奥贡伊博团体支持蒂努布和亚伊",
+   "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
+  },
+  {
+   "title": "Tinubu extends tenures of Correctional, Immigration chiefs",
+   "url": "https://punchng.com/tinubu-extends-tenures-of-correctional-immigration-chiefs/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 00:47:35 +0000",
+   "_dt": 1792457255.0,
+   "ageDays": 0.05,
+   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summarySource": "fulltext",
+   "body": "NEWS UPDATE: Nigerians can now earn as much as $15,000- $25,000 with premium domains. You decide if you want payment in Naira or US Dollars. Be sure to ask for evidence and proof of people benefitting daily from this. CLICK HERE TO START. ATTENTION NIGERIANS: You can now comfortably earn US Dollars when you acquire premium domains for as low as $3000 and profit $15,000-$35,000. Ideal for professionals like Entrepreneurs, Doctors, Civil/Public servants, IT Experts, Accountants ETC. CLICK HERE TO START. Stay in the know—fast. Get instant alerts, breaking headlines, and exclusive stories with the Punch News App . Download now and never miss a beat",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "score": 0.6,
+   "tag": "rss_punchng",
+   "title_zh": "蒂努布延长惩教局和移民局负责人的任期",
+   "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
+  },
+  {
+   "title": "Manpower shortage stalls railway police transfers",
+   "url": "https://punchng.com/manpower-shortage-stalls-railway-police-transfers/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 00:34:52 +0000",
+   "_dt": 1792456492.0,
+   "ageDays": 0.06,
+   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summarySource": "fulltext",
+   "body": "NEWS UPDATE: Nigerians can now earn as much as $15,000- $25,000 with premium domains. You decide if you want payment in Naira or US Dollars. Be sure to ask for evidence and proof of people benefitting daily from this. CLICK HERE TO START. ATTENTION NIGERIANS: You can now comfortably earn US Dollars when you acquire premium domains for as low as $3000 and profit $15,000-$35,000. Ideal for professionals like Entrepreneurs, Doctors, Civil/Public servants, IT Experts, Accountants ETC. CLICK HERE TO START. Stay in the know—fast. Get instant alerts, breaking headlines, and exclusive stories with the Punch News App . Download now and never miss a beat",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "cor",
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "score": 0.6,
+   "tag": "rss_punchng",
+   "title_zh": "人力短缺阻碍铁路警察调动",
+   "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
+  },
+  {
+   "title": "Telehealth conference to address funding, infrastructure gaps",
+   "url": "https://punchng.com/telehealth-conference-to-address-funding-infrastructure-gaps/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 00:33:49 +0000",
+   "_dt": 1792456429.0,
+   "ageDays": 0.06,
+   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summarySource": "fulltext",
+   "body": "NEWS UPDATE: Nigerians can now earn as much as $15,000- $25,000 with premium domains. You decide if you want payment in Naira or US Dollars. Be sure to ask for evidence and proof of people benefitting daily from this. CLICK HERE TO START. ATTENTION NIGERIANS: You can now comfortably earn US Dollars when you acquire premium domains for as low as $3000 and profit $15,000-$35,000. Ideal for professionals like Entrepreneurs, Doctors, Civil/Public servants, IT Experts, Accountants ETC. CLICK HERE TO START. Stay in the know—fast. Get instant alerts, breaking headlines, and exclusive stories with the Punch News App . Download now and never miss a beat",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "score": 0.6,
+   "tag": "rss_punchng",
+   "title_zh": "远程医疗会议旨在解决资金和基础设施差距",
+   "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
+  },
+  {
+   "title": "Subsidy: No regrets, won’t return to Egypt — Tinubu",
+   "url": "https://punchng.com/subsidy-no-regrets-wont-return-to-egypt-tinubu/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 00:33:08 +0000",
+   "_dt": 1792456388.0,
+   "ageDays": 0.06,
+   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summarySource": "fulltext",
+   "body": "NEWS UPDATE: Nigerians can now earn as much as $15,000- $25,000 with premium domains. You decide if you want payment in Naira or US Dollars. Be sure to ask for evidence and proof of people benefitting daily from this. CLICK HERE TO START. ATTENTION NIGERIANS: You can now comfortably earn US Dollars when you acquire premium domains for as low as $3000 and profit $15,000-$35,000. Ideal for professionals like Entrepreneurs, Doctors, Civil/Public servants, IT Experts, Accountants ETC. CLICK HERE TO START. Stay in the know—fast. Get instant alerts, breaking headlines, and exclusive stories with the Punch News App . Download now and never miss a beat",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "score": 0.6,
+   "tag": "rss_punchng",
+   "title_zh": "补贴：没有遗憾，不会回到埃及——蒂努布",
+   "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
+  },
+  {
+   "title": "Abuja medical centre earns green building certification",
+   "url": "https://punchng.com/abuja-medical-centre-earns-green-building-certification/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 00:30:50 +0000",
+   "_dt": 1792456250.0,
+   "ageDays": 0.07,
+   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summarySource": "fulltext",
+   "body": "NEWS UPDATE: Nigerians can now earn as much as $15,000- $25,000 with premium domains. You decide if you want payment in Naira or US Dollars. Be sure to ask for evidence and proof of people benefitting daily from this. CLICK HERE TO START. ATTENTION NIGERIANS: You can now comfortably earn US Dollars when you acquire premium domains for as low as $3000 and profit $15,000-$35,000. Ideal for professionals like Entrepreneurs, Doctors, Civil/Public servants, IT Experts, Accountants ETC. CLICK HERE TO START. Stay in the know—fast. Get instant alerts, breaking headlines, and exclusive stories with the Punch News App . Download now and never miss a beat",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "score": 0.6,
+   "tag": "rss_punchng",
+   "title_zh": "阿布贾医疗中心获得绿色建筑认证",
+   "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
+  },
+  {
+   "title": "How Kwara police nabbed child abuse, murder, kidnap suspects",
+   "url": "https://punchng.com/how-kwara-police-nabbed-child-abuse-murder-kidnap-suspects/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 00:30:14 +0000",
+   "_dt": 1792456214.0,
+   "ageDays": 0.07,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -347,6 +579,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
+<<<<<<< HEAD
    "title_zh": "土匪袭击：赞法拉居民逃离，CP哀叹值班人员睡觉",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
@@ -360,6 +593,9 @@ window.SITE_DATA = {
    "ageDays": 0.0,
 =======
    "title_zh": "",
+=======
+   "title_zh": "夸拉州警方如何逮捕虐待儿童、谋杀和绑架嫌疑人",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -367,10 +603,16 @@ window.SITE_DATA = {
    "url": "https://punchng.com/bauchi-ndc-gov-candidate-dumps-party/",
    "domain": "punchng.com",
    "source": "Punch（尼日利亚）",
+<<<<<<< HEAD
    "published": "Tue, 20 Oct 2026 01:00:08 +0000",
    "_dt": 1792458008.0,
    "ageDays": 0.04,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "published": "Tue, 20 Oct 2026 00:29:54 +0000",
+   "_dt": 1792456194.0,
+   "ageDays": 0.07,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -387,6 +629,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
+<<<<<<< HEAD
 <<<<<<< HEAD
    "title_zh": "包奇法院判处八名暴徒监禁",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
@@ -841,6 +1084,9 @@ window.SITE_DATA = {
 =======
    "tag": "rss_punchng",
    "title_zh": "",
+=======
+   "title_zh": "NASENI开设卡杜纳无人机中心，着眼技术独立",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -850,7 +1096,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 00:29:40 +0000",
    "_dt": 1792456180.0,
-   "ageDays": 0.06,
+   "ageDays": 0.07,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -893,7 +1139,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "2027年：福拉林捐弃前嫌，支持阿利竞选奥约州州长",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -903,7 +1149,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 00:28:46 +0000",
    "_dt": 1792456126.0,
-   "ageDays": 0.06,
+   "ageDays": 0.07,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -920,7 +1166,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "河流州议会召回三名富巴拉忠实者在道歉后",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -947,7 +1193,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "警方解救贝努埃州天主教神父及其他七人，逮捕两人",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -974,7 +1220,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "奥贡邪教分子据称杀死一名男子，并在病毒视频中割下其头颅",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -1002,7 +1248,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "居民在高原州采矿现场救出被遗弃的新生婴儿",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -1029,7 +1275,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "火灾烧毁奥约州15家商店",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -1056,7 +1302,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "NAFDAC发现涉嫌价值5亿奈拉的阿比亚假酒工厂",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -1083,7 +1329,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "赫尔戈维奇称约书亚和富里已完，推荐伊陶马争夺无可争议的冠军",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -1110,7 +1356,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "抢劫者割下拉各斯摩托车手的耳朵，受害者死亡",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -1138,7 +1384,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "奥贡社区在致命车祸后寻求人行天桥和减速带",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -1148,7 +1394,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 00:18:22 +0000",
    "_dt": 1792455502.0,
-   "ageDays": 0.07,
+   "ageDays": 0.08,
    "summary": "Ideal for professionals like Entrepreneurs, Doctors, Civil/Public servants, IT Experts, Accountants ETC. CLICK HERE TO START.",
    "summary_zh": "非常适合企业家、医生、公务员、IT专家、会计师等专业人士。点击此处开始。",
    "summarySource": "fulltext",
@@ -1165,7 +1411,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "",
+   "title_zh": "加图索赞扬德莱-巴希鲁，拉齐奥良好开局",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态"
   },
   {
@@ -1175,9 +1421,9 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Tue, 20 Oct 2026 00:15:00 +0000",
    "_dt": 1792455300.0,
-   "ageDays": 0.07,
+   "ageDays": 0.08,
    "summary": "Rapper Sarkodie has stated that Nigerian artists receive substantial financial support from billionaires and business executives in the country, unlike their Ghanaian counterparts. In a recent episode of the When We Sit podcast, the Azonto crooner said Ghanaian artists often make music on their own, without any financial assistance from fellow Ghanaians. He said Nigerian businessmen love to support and invest in talent, giving Nigerian artists a financial advantage in Africa.",
-   "summary_zh": "",
+   "summary_zh": "说唱歌手Sarkodie表示，尼日利亚艺术家从该国的亿万富翁和企业高管那里获得大量资金支持，这与他们的加纳同行不同。在最近一期When We Sit播客中，这位Azonto歌手说，加纳艺术家通常靠自己制作音乐，没有来自加纳同胞的任何资金援助。他说尼日利亚商人喜欢支持和投资人才，这给了尼日利亚艺术家在非洲的资金优势。",
    "summarySource": "fulltext",
    "body": "Rapper Sarkodie has stated that Nigerian artists receive substantial financial support from billionaires and business executives in the country, unlike their Ghanaian counterparts. In a recent episode of the When We Sit podcast, the Azonto crooner said Ghanaian artists often make music on their own, without any financial assistance from fellow Ghanaians. He said Nigerian businessmen love to support and invest in talent, giving Nigerian artists a financial advantage in Africa. \"What Ghanaian artists do is organic. I give a business plan; even with that, it is hard to get some people to come in. But in Nigeria, I think they take a lot of risks; most rich people take a lot of risks to put their people on. If I break down what it takes to do the O2 Arena, you will freak out, but then we still have to do it,\" he said. He recalled meeting Nigerian billionaire Tony Elumelu and being shocked by the amount he told him he was investing in a Nigerian artist, whom he believes is the future of Afrobeats. Sarkodie urged Ghanaian business executives and rich folks to emulate Nigerian business leaders by financially supporting their artists",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
@@ -1194,6 +1440,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_myjoyonline",
+<<<<<<< HEAD
 <<<<<<< HEAD
    "title_zh": "Isaac Opoku在伦敦以英联邦荣誉高举加纳国旗",
    "body_zh": "加纳青年领袖艾萨克·奥普库在伦敦受到了加纳驻英国高级专员和英联邦秘书长接见，他正在庆祝自己被评为QECT 100位2026年青年领袖之一。艾萨克是星光基金会的创始人，他与另外两名加纳获奖者一起拜访了加纳驻英国高级专员萨巴赫·齐塔·本森阁下和英联邦秘书长雪莉·阿约尔科·博奇韦阁下。在访问期间，他分享了自己的个人故事，解释了他为什么创立基金会，并谈到了基金会与加纳各地儿童和家庭开展的工作。三位青年领袖还展示了他们获得的奖牌。高级专员表示，她对他们的工作印象深刻，并为他们在英联邦内高高举起加纳的旗帜感到自豪。博奇韦女士作为首位担任英联邦秘书长的加纳人和非洲女性，谈到了看到加纳青年在这一层面获得认可时的自豪感，以及她对他们正在从事的工作的信念。“坐在两位处于最高领导位置的加纳女性面前，听她们说为我们感到骄傲，这是我将铭记很久的事情，”艾萨克说。“这个奖项是颁给加纳每一个被告知梦想太大的孩子的。”QECT 100位青年领袖奖由伊丽莎白二世英联邦信托基金颁发，标志着已故伊丽莎白二世女王本该迎来的100岁诞辰。艾萨克于2026年4月21日首次被提名为获奖者，并于今年10月在伦敦梅费尔Asprey举行的仪式上亲自领奖。作为获奖者，他还受邀参加在圣詹姆斯宫举行的招待会，在那里他与国王查尔斯三世陛下和卡米拉王后陛下交谈，并会见了格洛斯特公爵夫人殿下。对艾萨克来说，这一认可回到了这一切开始的地方。他在阿克拉由单亲母亲抚养长大，于2018年创立星光基金会，以支持生活在街头和工作的儿童及其家庭。通过50多项举措，该基金会此后已惠及超过4万人。其位于阿克拉的设计与创新中心为弱势社区提供了一种STEAM模式，其关于经期卫生、个人安全、数字素养和儿童权利的学习资源目前在加纳各地的学校中使用。其旗舰项目Menso Meka Ho Bi，意思是“我也有特权”，与整个家庭合作，这样儿童就不会孤立地得到支持，而是在能够维持其进步的家庭中得到支持。该基金会还为联合国儿童权利委员会第27号一般性意见做出了贡献，让加纳的声音参与塑造全球儿童权利政策。今年，应国家青年局邀请，它向加纳首份《青年、和平与安全国家行动计划》提交了书面意见。QECT的荣誉为艾萨克和星光基金会不断增加的认可名单增添了新成员。2023年，艾萨克在加纳商业与企业家奖上被评为慈善卓越人物。2024年，他获得社区影响光明未来奖，并被全球人道主义奖评为年度青年慈善家。星光基金会被英国Acquisition International评为2025年领先青年领导教育非政府组织，今年在英国AI Global Media主办的第九届非洲卓越奖上被评为2026年加纳最佳儿童福利与赋权非营利组织。该基金会的Let Her Know倡议已被加纳国家教科文组织委员会提名角逐2026年联合国教科文组织女童和妇女教育奖。此外，星光基金会已获得YOUNGO LCOY工作组批准，将于2026年在加纳主办一次青年地方会议（LCOY），加入联合国YOUNGO框架下获得认可的全球青年主导气候会议网络。"
@@ -1541,6 +1788,10 @@ window.SITE_DATA = {
 =======
    "title_zh": "",
    "body_zh": ""
+=======
+   "title_zh": "亿万富翁资助尼日利亚艺术家——萨科迪",
+   "body_zh": "说唱歌手萨科迪表示，尼日利亚艺术家从该国的亿万富翁和企业高管那里获得大量财务支持，这与他们的加纳同行不同。在最近一期《When We Sit》播客中，这位Azonto歌手说，加纳艺术家通常靠自己制作音乐，没有来自其他加纳人的任何财务援助。他说尼日利亚商人喜欢支持和投资人才，这让尼日利亚艺术家在非洲拥有财务优势。“加纳艺术家所做的是有机创作。我给出一个商业计划；即使这样，也很难让一些人参与进来。但在尼日利亚，我认为他们承担很多风险；大多数有钱人承担很多风险来推他们的艺人。如果我详细说明在O2 Arena演出的成本，你会吓坏，但我们还是得去做，”他说。他回忆起见到尼日利亚亿万富翁托尼·埃卢梅卢，并对他告诉自己的投资金额感到震惊，他相信这名尼日利亚艺术家是Afrobeats的未来。萨科迪敦促加纳企业高管和富人效仿尼日利亚商界领袖，在财务上支持他们的艺术家"
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
   },
   {
    "title": "Obuasi SHTS sexual abuse: Big insult to victims and Ghanaians if headmaster claims GES exonerated him",
@@ -1549,9 +1800,9 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Tue, 20 Oct 2026 00:02:00 +0000",
    "_dt": 1792454520.0,
-   "ageDays": 0.08,
+   "ageDays": 0.09,
    "summary": "Investigative journalist Manasseh Azure Awuni has challenged reports that the Ashanti Regional office of the Ghana Education Service (GES) has exonerated the headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, over allegations of sexual abuse involving female students. “I think it's the biggest insult to the victims and Ghanaians to say that the GES exonerated him,” he said. It examines alleged sexual abuse involving female students at Obuasi Senior High Technical School.",
-   "summary_zh": "",
+   "summary_zh": "调查记者马纳塞·阿祖尔·阿武尼对加纳教育服务局（GES）阿散蒂地区办公室已为奥布阿西高级技术学校（SHTS）校长扎卡里亚·阿卜杜拉伊洗脱涉及女学生的性虐待指控的报道提出质疑。他说，“我认为说GES为他洗脱罪名是对受害者和加纳人的最大侮辱。”它调查了奥布阿西高级技术学校涉及女学生的所谓性虐待。",
    "summarySource": "fulltext",
    "body": "Investigative journalist Manasseh Azure Awuni has challenged reports that the Ashanti Regional office of the Ghana Education Service (GES) has exonerated the headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, over allegations of sexual abuse involving female students. He has questioned the regional education authorities’ capacity to determine allegations involving rape, arguing that the matter requires a criminal investigation by the police. Speaking on Joy News’ PM Express on Monday, October 19, Mr Azure said any claim that the headmaster had been cleared by the regional office was deeply troubling, particularly given reports that complaints had previously been made to school authorities. “I think it's the biggest insult to the victims and Ghanaians to say that the GES exonerated him,” he said. “This GES is within the enclave. These are the people who should have acted when reports upon reports went out.\" The journalist said the committee that reportedly examined the matter was chaired by the Obuasi East Director of Education, raising questions about the process and its ability to address allegations of a criminal nature. He also referred to concerns he said had been expressed by people in the Obuasi area about the response of school management and regional education authorities to the alleged incidents. “Obuasi East and Obuasi West are so close. And if you go to that enclave, there are people who say that from the school's management to the regional GES looked away when these things happened,” he said. Mr Azure questioned whether the committee had the expertise and mandate to investigate allegations of rape, insisting that such claims should be handled through the criminal justice system. “So if those same people come out to say they have cleared him, they have exonerated him, these are allegations of rape,” he said. “Which of them on that committee is equipped to investigate rape? This is a police, a criminal matter.” The allegations are the subject of Manasseh Azure Awuni’s documentary, Inside the Dreaded Headmaster’s Bungalow . It examines alleged sexual abuse involving female students at Obuasi Senior High Technical School. Mr Azure’s comments come amid public concern over reports that female students had made allegations of rape, sexual harassment, sexual assault and other forms of abuse involving the headmaster. The allegations, which have attracted attention following the report by Mr Azure, have also prompted calls for the affected students to be protected from intimidation and for their complaints to be investigated independently. A GES administrative inquiry and a police criminal investigation serve different purposes. Any determination of criminal responsibility must follow the applicable legal process. The claims against Mr Abdulai remain allegations and must be established through a fair and credible investigation. The matter has raised broader questions about how schools handle complaints of sexual abuse, the protection available to students who report alleged misconduct and the accountability of education authorities when concerns are brought to their attention",
    "bodyLevel": "fulltext",
@@ -1566,8 +1817,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_myjoyonline",
-   "title_zh": "",
-   "body_zh": ""
+   "title_zh": "奥布阿西SHTS性虐待事件：如果校长声称GES已证明他无罪，对受害者和加纳人来说是巨大侮辱",
+   "body_zh": "调查记者Manasseh Azure Awuni质疑了加纳教育服务局（GES）阿散蒂地区办公室关于奥布阿西高级技术学校（SHTS）校长Zakaria Abdulai在涉及女学生的性虐待指控中已被免责的报道。他质疑地区教育当局是否有能力判定涉及强奸的指控，认为此事需要警方进行刑事调查。在10月19日星期一的Joy News《PM Express》节目中，Azure先生表示，任何声称校长已被地区办公室洗清的说法都令人深感不安，尤其是此前已有报告称学校当局曾收到投诉。“我认为说GES为他免责是对受害者和加纳人的最大侮辱，”他说。“这个GES就在那个圈子里。这些是当一份又一份报告出来时本应采取行动的人。”这位记者说，据称审查此事的委员会由奥布阿西东区教育主任主持，这引发了对该程序及其处理刑事性质指控能力的质疑。他还提到他所说奥布阿西地区民众对学校管理和地区教育当局对所谓事件的回应所表达的担忧。“奥布阿西东和奥布阿西西非常近。如果你去那个圈子里，有人说从学校管理层到地区GES，当这些事情发生时都视而不见，”他说。Azure先生质疑该委员会是否具备调查强奸指控的专业知识和授权，坚持认为此类指控应通过刑事司法系统处理。“所以如果那些同样的人出来说他们已经为他洗清，他们已经为他免责，这些是强奸指控，”他说。“那个委员会里的哪个人有能力调查强奸？这是一起警方刑事案件。”这些指控是Manasseh Azure Awuni的纪录片《Inside the Dreaded Headmaster’s Bungalow》的主题。它调查了奥布阿西高级技术学校涉及女学生的所谓性虐待。Azure先生的评论是在公众对女学生指控校长强奸、性骚扰、性侵犯和其他形式虐待的报道感到担忧的背景下发表的。这些指控在Azure先生的报道后引起关注，也促使人们呼吁保护受影响的学生免受恐吓，并对其投诉进行独立调查。GES的行政调查和警方的刑事调查服务于不同目的。任何刑事责任的判定都必须遵循适用的法律程序。对Abdulai先生的指控仍是指控，必须通过公平和可信的调查来确立。此事引发了关于学校如何处理性虐待投诉、举报所谓不当行为的学生可获得的保护以及教育当局在收到关注时问责的更广泛问题。"
   },
   {
    "title": "PDP aspirant threatens to sue INEC over exclusion from list",
@@ -1576,9 +1827,9 @@ window.SITE_DATA = {
    "source": "Daily Trust（尼日利亚）",
    "published": "Tue, 20 Oct 2026 00:01:56 +0000",
    "_dt": 1792454516.0,
-   "ageDays": 0.08,
+   "ageDays": 0.09,
    "summary": "A governorship aspirant on the platform of Peoples Democratic Party (PDP) in Ogun State, Topa Olusegun Peter, has threatened to sue the Independent National Electoral Commission (INEC) over alleged exclusion of his name from the final list. Reacting in a letter dated October 14, 2026, and addressed to the INEC chairman in Abuja, a copy of which was sighted by Daily Trust on Monday, Peter said there is no lawful basis for his exclusion.",
-   "summary_zh": "",
+   "summary_zh": "奥贡州人民民主党（PDP）平台上的州长候选人托帕·奥卢塞贡·彼得威胁要起诉独立国家选举委员会（INEC），因为他的名字被排除在最终名单之外。在10月14日写给阿布贾INEC主席的一封信中作出反应，该信的副本于周一被Daily Trust看到，彼得说他的排除没有任何法律依据。",
    "summarySource": "fulltext",
    "body": "A governorship aspirant on the platform of Peoples Democratic Party (PDP) in Ogun State, Topa Olusegun Peter, has threatened to sue the Independent National Electoral Commission (INEC) over alleged exclusion of his name from the final list. Peter, through his lawyers, Neplus Ultra Attorneys, also asked the commission to verify his nomination records and publish his name as the PDP candidate if its records confirm that he was duly nominated. The recent action of the Commission to enforce the Supreme Court judgement on Electoral Act has equally generated a lot of actions and reactions from some political parties. Reacting in a letter dated October 14, 2026, and addressed to the INEC chairman in Abuja, a copy of which was sighted by Daily Trust on Monday, Peter said there is no lawful basis for his exclusion. The lawyers argued on his behalf that INEC’s final list of candidates, published on October 10, did not contain Peter’s name, claiming he is the party’s duly nominated candidate saying Peter obtained the party’s expression of interest and nomination forms on May 12, 2026, and participated in its governorship primary held on May 27. The lawyers further claimed that the PDP forwarded his nomination particulars to INEC and that his name appeared as entry number 15,783 on the party’s membership register submitted to the commission. They said the client had not been given written reasons for the omission or notified of any objection that could explain the decision. The lawyers asked INEC to complete its verification within 48 hours of receiving the letter, correct the published list where the records establish Peter’s nomination and eligibility, and communicate the outcome of its review in writing. Nigerians can now invest ₦2.5 million on premium domains and profit about ₦17-₦25 million . All earnings paid in US Dollars . Rather than wonder, click here to find out how it works . Join Daily Trust WhatsApp Community For Quick Access To News and Happenings Around You",
    "bodyLevel": "fulltext",
@@ -1593,8 +1844,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_dailytrust",
-   "title_zh": "",
-   "body_zh": ""
+   "title_zh": "PDP有志者威胁就排除在名单之外起诉INEC",
+   "body_zh": "奥贡州人民民主党（PDP）州长职位竞选人托帕·奥卢塞贡·彼得威胁要起诉独立国家选举委员会（INEC），理由是其姓名被排除在最终名单之外。彼得通过其律师Neplus Ultra Attorneys，还要求该委员会核实他的提名记录，如果记录确认他已正式获得提名，则公布他的姓名作为PDP候选人。该委员会最近为执行最高法院关于选举法的判决而采取的行动，同样在一些政党中引发了大量行动和反应。在一封日期为2026年10月14日、致阿布贾INEC主席的信中作出回应，该信的副本于周一被Daily Trust看到，彼得表示他的排除没有任何合法依据。律师代表他辩称，INEC于10月10日公布的最终候选人名单中没有包含彼得的姓名，声称他是该党正式提名的候选人，并说彼得于2026年5月12日获得了该党的兴趣表达和提名表格，并参加了5月27日举行的州长初选。律师进一步声称，PDP已将他的提名细节转发给INEC，并且他的姓名作为条目编号15,783出现在提交给该委员会的该党成员登记册上。他们表示，客户没有收到关于遗漏的书面理由，也没有被通知任何可能解释该决定的反对意见。律师要求INEC在收到信件后48小时内完成其核实，如果记录确立彼得的提名和资格，则更正已公布的名单，并以书面形式传达其审查结果。尼日利亚人现在可以投资₦250万购买优质域名并获利约₦1700万-₦2500万。所有收益以美元支付。不要只是好奇，点击这里了解它是如何运作的。加入Daily Trust WhatsApp社区以快速获取您周围的新闻和动态"
   },
   {
    "title": "Ekiti Names High Court Complex after Omoleye, JCA on Retirement",
@@ -1605,7 +1856,7 @@ window.SITE_DATA = {
    "_dt": 1792454220.0,
    "ageDays": 0.09,
    "summary": "Justice Oyebisi Omoleye, JCA, reached a fitting climax last Tuesday, as the Ekiti State Government announced that the new High Court Complex under construction in the State would be named after the retiring Presiding Justice of the Court of Appeal, Ekiti Division, Justice Omoleye. In addition to immortalising her name, the Governor presented Justice Omoleye with a mini bus ,and disclosed that she would return to officially commission the court complex upon its completion.",
-   "summary_zh": "",
+   "summary_zh": "上周二，法官奥耶比西·奥莫莱耶，JCA，达到了一个恰当的高潮，因为埃基蒂州政府宣布正在该州建设的新高等法院综合大楼将以即将退休的上诉法院院长、埃基蒂分庭法官奥莫莱耶的名字命名。除了让她的名字永垂不朽之外，州长向法官奥莫莱耶赠送了一辆小型巴士，并透露她将在法院综合大楼完工后返回正式启用它。",
    "summarySource": "fulltext",
    "body": "After nearly 48 years of distinguished service in the legal profession and Judiciary, the career of Hon. Justice Oyebisi Omoleye, JCA, reached a fitting climax last Tuesday, as the Ekiti State Government announced that the new High Court Complex under construction in the State would be named after the retiring Presiding Justice of the Court of Appeal, Ekiti Division, Justice Omoleye. The announcement by Governor Biodun Oyebanji came at a valedictory court session organised in honour of the Jurist, who bowed out of active judicial service on attaining the mandatory retirement age of 70. In addition to immortalising her name, the Governor presented Justice Omoleye with a mini bus ,and disclosed that she would return to officially commission the court complex upon its completion. The ceremony, held at the Court of Appeal, Ado-Ekiti, drew serving and retired judicial officers, Senior Advocates of Nigeria (SANs), government officials, family members and members of the legal profession in celebration of a woman widely acknowledged for her contributions to Nigeria’s justice system. A special Police March parade was also staged in her honour, symbolising the nation’s appreciation for her decades of service to justice and public administration. Paying tribute on behalf of the President of the Court of Appeal, Hon. Justice Monica Dongban-Mensem, CFR, Justice Ali Gumel of the Kano Division described Justice Omoleye as a distinguished Jurist whose career had enriched Nigeria’s jurisprudence, and strengthened the administration of justice. He recalled that she was called to the Nigerian Bar in July 1978, and began her legal career at the Ondo State Ministry of Justice in Akure, where she rose through the ranks to become Director of Public Prosecutions. Her career later took her to the Ekiti State House of Assembly, where she served as Clerk and Director-General, before her appointment to the High Court Bench in 1998. She became the Chief Judge of Ekiti State in 2003, and was elevated to the Court of Appeal in June 2006, eventually becoming Presiding Justice of the appellate court in September 2013. Justice Dongban-Mensem commended her unwavering commitment to justice, noting that she brought integrity, wisdom and exceptional legal knowledge to every division of the Court of Appeal where she served. In an emotional valedictory address, Justice Omoleye reflected on her journey from Ikole-Ekiti to one of the highest judicial offices in the country, saying the Bench had taught her that judicial office was a sacred trust and never a personal possession. According to her, Judges are merely custodians of institutions that existed long before them, and will continue long after they leave office. She also spoke candidly about one of the darkest moments of her life – the death of her husband in 1990, when she was just 34 years old. Justice Omoleye said the painful experience left her with the responsibility of raising her children alone, while pursuing an increasingly demanding judicial career. The retired Jurist urged members of the Bench to uphold fairness, restraint, humility and integrity in the discharge of their constitutional responsibilities. She expressed gratitude to God, her colleagues, members of the Bar, judicial staff, family and friends for standing by her throughout her career. Ekiti State Attorney-General and Commissioner for Justice, Mr Dayo Apata, described Justice Omoleye as an accomplished Jurist whose professional life was defined by diligence, courage, discipline and excellence. Founded on January 22, 1995, THISDAY is published by THISDAY NEWSPAPERS LTD., 35 Creek Road Apapa, Lagos, Nigeria with offices in 36 states of Nigeria , the Federal Capital Territory and around the world.",
    "bodyLevel": "fulltext",
@@ -1620,8 +1871,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_thisday",
-   "title_zh": "",
-   "body_zh": ""
+   "title_zh": "埃基蒂州以奥莫莱耶和JCA的名字命名高等法院大楼以纪念其退休",
+   "body_zh": "在法律界和司法系统近48年的卓越服务后，尊敬的奥耶比西·奥莫莱耶法官（JCA）的职业生涯在上周二达到了圆满的巅峰，当时埃基蒂州政府宣布，该州正在建设的新高等法院综合大楼将以即将退休的埃基蒂分庭上诉法院首席法官奥莫莱耶法官的名字命名。州长比奥敦·奥耶班吉在为这位法学家组织的告别法庭会议上宣布了这一消息，她在达到强制退休年龄70岁后退出了活跃的司法服务。除了让她的名字永存之外，州长还向奥莫莱耶法官赠送了一辆小型巴士，并透露她将在法院综合大楼完工后回来正式启用它。该仪式在阿多-埃基蒂上诉法院举行，吸引了在职和退休的司法官员、尼日利亚高级律师（SANs）、政府官员、家庭成员和法律界人士，共同庆祝这位因对尼日利亚司法系统贡献而广受认可的女性。还为她举行了特别的警察游行仪式，象征着国家对她数十年来为司法和公共行政服务的感激之情。代表上诉法院院长尊敬的莫妮卡·东班-门塞姆法官（CFR），卡诺分庭的阿里·古梅尔法官在致敬时将奥莫莱耶法官描述为一位杰出的法学家，她的职业生涯丰富了尼日利亚的法理学，并加强了司法管理。他回忆说，她于1978年7月获得尼日利亚律师资格，并在阿库雷的翁多州司法部开始她的法律职业生涯，在那里她逐步晋升为公诉主任。她的职业生涯后来将她带到埃基蒂州议会，她在那里担任书记官和总干事，然后于1998年被任命到高等法院法官席。她于2003年成为埃基蒂州首席法官，并于2006年6月晋升至上诉法院，最终于2013年9月成为该上诉法院的首席法官。东班-门塞姆法官赞扬了她对司法的不懈承诺，指出她在上诉法院服务的每个分庭都带来了正直、智慧和卓越的法律知识。在感人的告别致辞中，奥莫莱耶法官回顾了她从伊科莱-埃基蒂到国家最高司法职位之一的历程，她说法官席教会她司法职位是一种神圣的信托，绝不是个人财产。据她所说，法官只是那些早在他们之前就存在的机构的保管人，并且在他们离任后很久还会继续存在。她还坦率地谈到了她生命中最黑暗的时刻之一——1990年她丈夫的去世，当时她只有34岁。奥莫莱耶法官说，这段痛苦的经历让她独自承担起抚养孩子的责任，同时追求日益 demanding 的司法职业。这位退休的法学家敦促法官席成员在履行其宪法职责时坚持公平、克制、谦逊和正直。她对上帝、她的同事、律师界成员、司法工作人员、家人和朋友在整个职业生涯中支持她表示感谢。埃基蒂州总检察长兼司法专员达约·阿帕塔先生将奥莫莱耶法官描述为一位成就卓著的法学家，她的职业生涯以勤奋、勇气、纪律和卓越为特征。THISDAY 成立于1995年1月22日，由THISDAY NEWSPAPERS LTD.出版，地址为尼日利亚拉各斯阿帕帕克里克路35号，在尼日利亚36个州、联邦首都特区和世界各地设有办事处。"
   },
   {
    "title": "Proposed NARE bill poses risk to electricity market – REA CEO",
@@ -1632,7 +1883,7 @@ window.SITE_DATA = {
    "_dt": 1792453794.0,
    "ageDays": 0.09,
    "summary": "The Managing Director/Chief Executive Officer of the Rural Electrification Agency, REA, Dr. Abba Aliyu, has cautioned that the Electricity Act (Amendment) Bill, 2025, which seeks to establish the National Authority for Renewable Energy, NARE, constitutes serious risks to Nigeria’s electricity market. In an article on Monday made available to Daily Trust, Aliyu said the Bill currently before the National Assembly would create regulatory confusion and scare investors away from the sector.",
-   "summary_zh": "",
+   "summary_zh": "农村电气化署署长兼首席执行官REA的Abba Aliyu博士警告称，旨在建立国家可再生能源管理局NARE的2025年电力法（修正）法案对尼日利亚电力市场构成严重风险。在周一提供给Daily Trust的一篇文章中，Aliyu表示，目前在国民议会面前的该法案将造成监管混乱，并吓跑该行业的投资者。",
    "summarySource": "fulltext",
    "body": "The Managing Director/Chief Executive Officer of the Rural Electrification Agency, REA, Dr. Abba Aliyu, has cautioned that the Electricity Act (Amendment) Bill, 2025, which seeks to establish the National Authority for Renewable Energy, NARE, constitutes serious risks to Nigeria’s electricity market. In an article on Monday made available to Daily Trust, Aliyu said the Bill currently before the National Assembly would create regulatory confusion and scare investors away from the sector. According to him, the bill which also seeks to transfer renewable-energy functions from NERC, REA and the Rural Electrification Fund to a new authority, and allocate 40 percent of the Rural Electrification Fund to it, will cause fragmentation to a market with a viable market. Sixteen states, he said, have already received regulatory oversight from NERC under the Electricity Act 2023, stressing that bringing another federal regulator organised around technology will create a new axis of jurisdiction. He said: “We could end up with NERC, State commissions, NARE, NEMSA and other institutions interacting with different aspects of the same project. That is not simplification. It is fragmentation.” He hinted that Nigeria’s distributed-energy market is beginning to show results, with over 1,000 mini-grids under development and $750 million DARES programme targeting 17.5 million Nigerians, 1,225 mini-grids and 465MW. He announced that REA has secured N350 billion potential domestic financing commitments – FCMB N100bn, Lotus Bank N100bn, Alpha Morgan N50bn and Stanbic IBTC N100bn. Aliyu maintained that investors need predictable rules for 15 to 20-year investments, warning that ambiguity increases cost of capital and e tariffs. He added that diverting the Rural Electrification Fund to fund a new institution confuses instrument with objective, stressing that every naira should be judged by how many Nigerians it connects. The National Assembly, he advised, should conduct regulatory-impact analysis and get feedback from states, investors and development partners before taking a decision. Nigerians can now invest ₦2.5 million on premium domains and profit about ₦17-₦25 million . All earnings paid in US Dollars . Rather than wonder, click here to find out how it works . Join Daily Trust WhatsApp Community For Quick Access To News and Happenings Around You",
    "bodyLevel": "fulltext",
@@ -1648,8 +1899,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_dailytrust",
-   "title_zh": "",
-   "body_zh": ""
+   "title_zh": "拟议的NARE法案对电力市场构成风险——REA首席执行官",
+   "body_zh": "农村电气化署署长/首席执行官阿巴·阿利尤博士警告称，旨在设立国家可再生能源管理局 NARE 的《2025年电力法（修正）法案》对尼日利亚电力市场构成严重风险。在周一提供给 Daily Trust 的一篇文章中，阿利尤表示，目前摆在国民议会面前的该法案将造成监管混乱，并吓跑该行业的投资者。据他介绍，该法案还寻求将可再生能源职能从 NERC、REA 和农村电气化基金转移到一个新机构，并将其分配农村电气化基金的 40%，这将导致一个具有可行市场的市场出现碎片化。他说，已有 16 个州根据 2023 年电力法从 NERC 获得监管监督，并强调引入另一个围绕技术组织的联邦监管机构将创造一个新的管辖权轴心。他说：“我们最终可能会让 NERC、州委员会、NARE、NEMSA 和其他机构与同一项目的不同方面互动。这不是简化。这是碎片化。”他暗示尼日利亚分布式能源市场正开始显现成果，有超过 1000 个微电网正在开发中，7.5 亿美元的 DARES 方案目标覆盖 1750 万尼日利亚人、1225 个微电网和 465MW。他宣布 REA 已获得 3500 亿奈拉的潜在国内融资承诺——FCMB 1000 亿奈拉、Lotus Bank 1000 亿奈拉、Alpha Morgan 500 亿奈拉和 Stanbic IBTC 1000 亿奈拉。阿利尤坚持认为，投资者需要可预测的规则来进行 15 到 20 年的投资，并警告说模糊性会增加资本成本和电价。他补充说，将农村电气化基金转用于资助一个新机构是将工具与目标混淆，并强调每一奈拉都应根据它连接了多少尼日利亚人来判断。他建议国民议会应进行监管影响分析，并在做出决定前从各州、投资者和发展伙伴那里获得反馈。尼日利亚人现在可以投资 250 万奈拉购买优质域名并获利约 1700 万至 2500 万奈拉。所有收益以美元支付。不要疑惑，点击此处了解它如何运作。加入 Daily Trust WhatsApp 社区以快速获取您周围的新闻和动态"
   },
   {
    "title": "FG delivers 240 urban renewal projects nationwide – Minister",
@@ -1658,9 +1909,9 @@ window.SITE_DATA = {
    "source": "Daily Trust（尼日利亚）",
    "published": "Mon, 19 Oct 2026 23:48:57 +0000",
    "_dt": 1792453737.0,
-   "ageDays": 0.09,
+   "ageDays": 0.1,
    "summary": "The federal government has reported the delivery of more than 240 urban renewal and slum-upgrading projects nationwide, with over 100 others at various stages of implementation, as it intensifies efforts to tackle Nigeria’s housing crisis and regenerate deteriorating cities. The minister of Housing and Urban Development, Muttaqha Rabe Darma, disclosed this on Monday in Abuja at the combined commemoration of the 2026 World Habitat Day and World Cities Day, held under the global observance of Urban October.",
-   "summary_zh": "",
+   "summary_zh": "联邦政府报告称全国已交付超过240个城市更新和贫民窟改造项目，另外100多个项目处于不同实施阶段，因为它正在加大力度解决尼日利亚的住房危机并重振不断恶化的城市。住房和城市发展部长Muttaqha Rabe Darma周一在阿布贾披露了这一信息，当时正在全球城市十月活动框架下联合纪念2026年世界人居日和世界城市日。",
    "summarySource": "fulltext",
    "body": "The federal government has reported the delivery of more than 240 urban renewal and slum-upgrading projects nationwide, with over 100 others at various stages of implementation, as it intensifies efforts to tackle Nigeria’s housing crisis and regenerate deteriorating cities. The minister of Housing and Urban Development, Muttaqha Rabe Darma, disclosed this on Monday in Abuja at the combined commemoration of the 2026 World Habitat Day and World Cities Day, held under the global observance of Urban October. Darma said the government was implementing reforms to expand access to decent and affordable housing, improve urban infrastructure and promote sustainable human settlements under President Bola Tinubu’s Renewed Hope Agenda. He explained that the reforms included strengthening housing institutions, improving land administration, promoting physical planning and establishing local building-materials manufacturing hubs to reduce construction costs, stimulate domestic production and create employment. The minister said the Renewed Hope Cities and Estates Programme was targeting 100,000 housing units across the 36 states and the Federal Capital Territory, with projects in Abuja, Lagos, Kano and other states. He cited the groundbreaking of the 250-unit Renewed Hope Civil Service Estate at Dukpa, Gwagwalada, in August as part of the government’s homeownership drive. However, he acknowledged that high interest rates, limited long-term funding, stringent eligibility requirements and low mortgage penetration remained major obstacles to homeownership. He said the ministry was strengthening housing finance institutions, promoting rent-to-own arrangements and public-private partnerships, and advancing the National Urban Development Policy and other planning frameworks. Darma also called for stronger enforcement of building standards, including the modernisation of the National Building Code, and the development of a reliable National Housing Data Bank to guide investment and policy decisions. The Chief Technical Adviser and Head of the UN-Habitat Nigeria Country Office, Niina Rinne, said Nigeria must look beyond constructing houses to planning better neighbourhoods and cities. Rinne warned that poorly located housing could increase transportation costs, strain infrastructure and expose communities to environmental risks, stressing the need for integrated urban planning, effective land management and clear land-tenure arrangements. She said existing neighbourhoods and informal settlements should also benefit from improved drainage, safer streets, public spaces and climate-resilient infrastructure, adding that communities must participate in decisions affecting their homes and livelihoods. The Managing Director and Chief Executive of the Federal Mortgage Bank of Nigeria, Shehu Usman Osidi, said the bank financed 6,911 affordable housing units in 2025, representing 96 per cent of its annual target of 7,200 units. Osidi disclosed that more than N208 billion in housing and mortgage loans was approved during the period, with over N120 billion disbursed to support housing construction, mortgage financing, home renovation, cooperative housing and rent-to-own initiatives. He said the bank would commence implementation of its non-interest mortgage product and rent assistance scheme before the end of October, adding that the initiatives were designed to expand housing finance options and ease the burden of rent payments for federal civil servants. Osidi also highlighted the National Housing Fund Diaspora Mortgage Loan, which enables Nigerians living abroad to invest in housing back home, saying the bank would continue working with the ministry and other stakeholders to make homeownership more accessible. Nigerians can now invest ₦2.5 million on premium domains and profit about ₦17-₦25 million . All earnings paid in US Dollars . Rather than wonder, click here to find out how it works .",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
@@ -2137,8 +2388,8 @@ window.SITE_DATA = {
    "body": "To achieve this the Dangote Petroleum Refinery and Petrochemicals is engaging the Nigerian Content Development and Monitoring Board (NCDMB), for stronger local capacity to maintain and operate refineries, as industry stakeholders seek to reduce dependence on imported technology and services. Both parties urged a decisive transition from mere regulatory compliance to a stronger national commitment anchored on technological innovation and sustainable financing. They emphasized that these pillars are critical to deepening Nigerian content and driving accelerated industrial growth. The retreat convened key stakeholders from the oil and gas sector alongside representatives of relevant government institutions, fostering collaboration to tackle operational challenges and broaden indigenous participation across Nigeria’s energy value chain. At the heart of the discussions was a shared imperative: to ensure that Nigerian content transcends statutory obligations and becomes a sustainable national economic strategy that creates jobs, develops technical expertise, strengthens local supply chains and retains greater value within the country. In his keynote address, the Executive Secretary of NCDMB, Engr. Felix Omatsola Ogbe, represented by the Senior Technical Adviser and Director of the Project Certification and Authorisation Director (PCAD), Engr. Austin Uzoka, identified commitment, technology and financing as three fundamental requirements for building a resilient Nigerian content ecosystem. He challenged stakeholders to look beyond compliance and confront the deeper questions of industrial sustainability, particularly how Nigeria could maintain its major industrial assets, strengthen domestic supply chains and ensure that investments in critical infrastructure deliver lasting economic value. Drawing attention to the challenges associated with the country’s publicly owned refineries, Ogbe, emphasised the need to safeguard the sustainability of the Dangote Refinery by developing the goods, works, services and supply-chain capabilities required to support its continuous operations. The central message was clear: constructing world-class industrial facilities is only part of the task; building and maintaining the indigenous capabilities that sustain them is equally important. He stressed the need for credible supply chains capable of supporting industrial facilities, developing local capabilities and ensuring that such expertise remains resident in Nigeria. Without reliable domestic supply chains, he warned, the economic benefits of industrial investments could continue to flow outside the country, limiting local value creation and value addition. On technology, the Executive Secretary underscored the importance of developing Nigerian expertise to operate, maintain and sustain industrial facilities, rather than relying indefinitely on external capabilities. He also highlighted access to financing as a major constraint facing indigenous businesses. High interest rates and delays in accessing funds, he noted, can prevent Nigerian enterprises from executing projects, expanding operations and competing effectively within the oil and gas value chain. Ogbe further challenged stakeholders to consider how Nigeria could nurture the next generation of large-scale indigenous industrialists and support other Nigerian investors seeking to establish refineries and related facilities. Acknowledging Dangote Group’s pioneering contribution to industrial development, he urged the industry to help emerging indigenous investors succeed, noting that a stronger domestic refining sector would position Nigeria as a major oil and gas hub. Beyond its regulatory responsibilities, NCDMB used the retreat to reiterate its commitment to creating an enabling environment in which Nigerian businesses can participate meaningfully, build technical competence and compete for opportunities across the oil and gas industry.",
 =======
    "tag": "rss_dailytrust",
-   "title_zh": "",
-   "body_zh": ""
+   "title_zh": "联邦政府在全国交付240个城市更新项目——部长",
+   "body_zh": "联邦政府报告称，已在全国交付了超过240个城市更新和贫民窟改造项目，另外还有100多个项目处于不同实施阶段，这是政府加大力度解决尼日利亚住房危机和改造衰败城市努力的一部分。住房和城市发展部长穆塔哈·拉贝·达尔马周一在阿布贾举行的2026年世界人居日和世界城市日合并纪念活动上披露了这一信息，该活动是在全球城市十月观察框架下举办的。达尔马表示，政府正在实施改革，以扩大获得体面且负担得起的住房的机会，改善城市基础设施，并在博拉·蒂努布总统的‘ renewed Hope Agenda’下促进可持续人类住区建设。他解释说，这些改革包括加强住房机构、改善土地管理、推广实体规划以及建立本地建筑材料制造中心，以降低建设成本、刺激国内生产并创造就业。部长表示，Renewed Hope Cities and Estates Programme的目标是在36个州和联邦首都特区建设10万套住房单元，项目位于阿布贾、拉各斯、卡诺和其他州。他提到了8月份在瓜瓜拉达Dukpa破土动工的250套Renewed Hope Civil Service Estate，作为政府自有住房驱动的一部分。然而，他承认高利率、长期资金有限、严格的资格要求和低抵押贷款渗透率仍是实现住房所有权的主要障碍。他说，该部正在加强住房融资机构、推广租购安排和公私伙伴关系，并推进国家城市发展政策和其他规划框架。达尔马还呼吁加强建筑标准的执行，包括更新国家建筑规范，并建立可靠的国家住房数据库以指导投资和政策决策。联合国人居署尼日利亚国家办事处首席技术顾问兼负责人Niina Rinne表示，尼日利亚必须超越单纯建造房屋，转向规划更好的社区和城市。Rinne警告说，位置不当的住房可能会增加交通成本、给基础设施带来压力并使社区面临环境风险，她强调需要综合城市规划、有效的土地管理和明确的土地保有权安排。她说，现有的社区和非正规住区也应受益于改善的排水系统、更安全的街道、公共空间和气候适应型基础设施，并补充说社区必须参与影响其住房和生计的决策。尼日利亚联邦抵押银行董事总经理兼首席执行官Shehu Usman Osidi表示，该银行在2025年为6911套负担得起的住房单元提供了融资，占其年度目标7200套的96%。Osidi披露，在此期间批准了超过2080亿奈拉的住房和抵押贷款，其中超过1200亿奈拉已拨付，用于支持住房建设、抵押融资、房屋翻新、合作住房和租购计划。他说，该银行将在10月底前开始实施其非利息抵押产品和租金援助计划，并补充说这些举措旨在扩大住房融资选择并减轻联邦公务员的租金支付负担。Osidi还强调了国家住房基金侨民抵押贷款，该贷款使居住在国外的尼日利亚人能够在家乡投资住房，他表示银行将继续与该部和其他利益相关者合作，使住房所有权变得更加容易。尼日利亚人现在可以投资250万奈拉购买优质域名并获利约1700万至2500万奈拉。所有收益以美元支付。不要犹豫，点击这里了解它是如何运作的。"
   },
   {
    "title": "Minister, IOCs to Chart Path to Additional Barrels at NAPE Meeting",
@@ -2147,9 +2398,9 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 23:33:00 +0000",
    "_dt": 1792452780.0,
-   "ageDays": 0.1,
+   "ageDays": 0.11,
    "summary": "The Minister of State for Petroleum Resources (Oil), Senator Heineken Lokpobiri, regulators, international and indigenous operators will converge next month to deliberate on how Nigeria can increase oil and gas production and unlock more reserves. The conference is organised by the Nigerian Association of Petroleum Explorationists (NAPE) at its 44th Annual International Conference and Exhibition, scheduled for November 8 to 12, 2026, in Lagos.",
-   "summary_zh": "",
+   "summary_zh": "石油资源国务部长（石油）参议员海内肯·洛克波比里、监管机构、国际和本土运营商将于下个月汇聚一堂，讨论尼日利亚如何增加石油和天然气产量并解锁更多储量。该会议由尼日利亚石油勘探者协会（NAPE）在其第44届年度国际会议和展览会上组织，定于2026年11月8日至12日在拉各斯举行。",
    "summarySource": "fulltext",
    "body": "The Minister of State for Petroleum Resources (Oil), Senator Heineken Lokpobiri, regulators, international and indigenous operators will converge next month to deliberate on how Nigeria can increase oil and gas production and unlock more reserves. The conference is organised by the Nigerian Association of Petroleum Explorationists (NAPE) at its 44th Annual International Conference and Exhibition, scheduled for November 8 to 12, 2026, in Lagos. It is themed: “Unlocking More Barrels: Driving Reserves Growth through Exploration, Local Capabilities and Adaptive Technologies.” President of NAPE, Mrs Olajumoke Ajayi, announced the programme at a press conference in Lagos, saying this year’s edition comes at a critical juncture as Nigeria seeks to increase hydrocarbon reserves and production, strengthen energy security, attract new investments and maximise value from its petroleum resources. Ajayi said the theme was built around three interconnected priorities that must align to deliver growth. She said Nigeria has substantial hydrocarbon potential, but translating potential into reserves requires renewed exploration beyond existing discoveries, deployment of appropriate technologies and an operating environment that attracts and retains capital. Founded on January 22, 1995, THISDAY is published by THISDAY NEWSPAPERS LTD., 35 Creek Road Apapa, Lagos, Nigeria with offices in 36 states of Nigeria , the Federal Capital Territory and around the world. It is Nigeria’s most authoritative news media available on all platforms for the political, business, professional and diplomatic elite and broader middle classes while serving as the meeting point of new ideas, culture and technology for the aspirationals and millennials. The newspaper is a public trust dedicated to the pursuit of truth and reason covering a range of issues from breaking news to politics, business, the markets, the arts, sports and community to the crossroads of people and society. You can email us at: hello@thisdaylive.com or visit our contact us page",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
@@ -2289,8 +2540,8 @@ window.SITE_DATA = {
    "ageDays": 0.32,
 =======
    "tag": "rss_thisday",
-   "title_zh": "",
-   "body_zh": ""
+   "title_zh": "部长和国际石油公司将在NAPE会议上规划增加桶数的路径",
+   "body_zh": "石油资源（石油）国务部长、海尼肯·洛克波比里参议员、监管机构、国际和本土运营商将于下个月齐聚一堂，讨论尼日利亚如何增加石油和天然气产量并解锁更多储量。本次会议由尼日利亚石油勘探者协会（NAPE）在其第44届年度国际会议和展览会上组织，定于2026年11月8日至12日在拉各斯举行。其主题为：“解锁更多桶：通过勘探、本地能力和适应性技术驱动储量增长。”NAPE主席奥拉朱莫克·阿贾伊夫人在拉各斯的一次新闻发布会上宣布了该计划，她表示，今年的会议正值关键时刻，因为尼日利亚寻求增加碳氢化合物储量和产量、加强能源安全、吸引新投资并从其石油资源中实现价值最大化。阿贾伊说，该主题围绕三个相互关联的优先事项构建，这些优先事项必须协同一致才能实现增长。她说，尼日利亚拥有巨大的碳氢化合物潜力，但将潜力转化为储量需要超越现有发现的新的勘探、部署适当的技术以及一个能够吸引和留住资本的经营环境。THISDAY成立于1995年1月22日，由THISDAY NEWSPAPERS LTD.出版，地址为尼日利亚拉各斯阿帕帕克里克路35号，在尼日利亚36个州、联邦首都区及世界各地设有办事处。它是尼日利亚最具权威性的新闻媒体，可在所有平台上为政治、商业、专业和外交精英以及更广泛的中产阶级提供服务，同时作为新思想、文化和技术与有抱负者和千禧一代的交汇点。该报纸是一种公共信托，致力于追求真理和理性，涵盖从突发新闻到政治、商业、市场、艺术、体育和社区以及人与社会交汇点的一系列问题。您可以通过hello@thisdaylive.com与我们联系，或访问我们的联系页面"
   },
   {
    "title": "NNPC Activates Emergency Response on Eleme Pipeline Incident",
@@ -2299,8 +2550,12 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 23:32:00 +0000",
    "_dt": 1792452720.0,
+<<<<<<< HEAD
    "ageDays": 0.1,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.11,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
@@ -2406,6 +2661,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_thisday",
+<<<<<<< HEAD
 <<<<<<< HEAD
    "title_zh": "教育部长赞扬丹戈特炼油厂IPO和学生股份赠款倡议",
    "body_zh": "Kuni Tyessi在阿布贾 教育部长Tunji Alausa博士赞扬Aliko Dangote Foundation推出共享补助金计划，该计划旨在鼓励尼日利亚高等院校学生"
@@ -2590,6 +2846,9 @@ window.SITE_DATA = {
    "body": "Twenty people were reportedly injured, and more than 50 houses and shops were damaged in a Rivers gas pipeline explosion, as survivors allege that warnings of a leak were ignored. The post appeared first on Premium Times Nigeria",
 =======
    "title_zh": "",
+=======
+   "title_zh": "NNPC启动埃莱梅管道事件应急响应",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "body_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。"
   },
   {
@@ -2599,7 +2858,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 23:17:00 +0000",
    "_dt": 1792451820.0,
-   "ageDays": 0.11,
+   "ageDays": 0.12,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
@@ -2696,7 +2955,7 @@ window.SITE_DATA = {
    "bodyLevel": "fulltext",
 =======
    "tag": "rss_thisday",
-   "title_zh": "",
+   "title_zh": "NNPC将勘探支出削减87%，天然气燃烧账单降至4990亿奈拉",
    "body_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。"
   },
   {
@@ -2708,7 +2967,7 @@ window.SITE_DATA = {
    "_dt": 1792437567.0,
    "ageDays": 0.28,
    "summary": "The Ministry of Food and Agriculture has announced that Japan Motors Trading Company Limited has donated five branded motorcycles towards the 42nd National Farmers’ Day celebration. In a press release issued on Monday, October 19, 2026, the Ministry said the donation qualified the company as a silver sponsor of the annual event, which recognises the contributions of farmers and fishers to Ghana’s development.",
-   "summary_zh": "",
+   "summary_zh": "粮食和农业部宣布，日本汽车贸易有限公司捐赠了五辆品牌摩托车，用于第42届全国农民日庆祝活动。在2026年10月19日星期一发布的新闻稿中，该部表示，此捐赠使该公司有资格成为年度活动的白银赞助商，该活动表彰农民和渔民对加纳发展的贡献。",
    "summarySource": "index",
    "body": "The Ministry of Food and Agriculture has announced that Japan Motors Trading Company Limited has donated five branded motorcycles towards the 42nd National Farmers’ Day celebration. In a press release issued on Monday, October 19, 2026, the Ministry said the donation qualified the company as a silver sponsor of the annual event, which recognises the contributions of farmers and fishers to Ghana’s development. “The Ministry remains deeply grateful to the Company for its dedicated commitment to support the celebration and the promotion of agricultural development in Ghana,” the statement, signed by the Ministry’s Public Relations Unit, said",
    "bodyLevel": "excerpt",
@@ -2792,9 +3051,14 @@ window.SITE_DATA = {
    "alsoUS": false,
    "score": 0.6,
    "tag": "rss_myjoyonline",
+<<<<<<< HEAD
    "title_zh": "",
    "body_zh": ""
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "title_zh": "日本汽车公司捐赠五辆摩托车支持第42届全国农民日",
+   "body_zh": "粮食和农业部宣布，日本汽车贸易有限公司捐赠了五辆品牌摩托车，用于第42届全国农民日庆祝活动。在2026年10月19日星期一发布的一份新闻稿中，该部表示，此项捐赠使该公司有资格成为这一年度活动的白银赞助商，该活动旨在表彰农民和渔民对加纳发展的贡献。“该部对该公司致力于支持庆祝活动和促进加纳农业发展的坚定承诺深表感谢，”由该部公共关系部门签署的声明说"
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
   },
   {
    "title": "Rubio says no pause in US intel sharing with Ukraine",
@@ -2804,10 +3068,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 09:50:16 +0000",
    "_dt": 1792403416.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.57,
 =======
    "ageDays": 0.67,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.68,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -2867,10 +3135,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 08:53:12 +0000",
    "_dt": 1792399992.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.61,
 =======
    "ageDays": 0.71,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.72,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "The federal government, through the Bank of Industry (BOI) and the Federal Ministry of Youth Development (FMYD), has launched a pilot empowerment programme offering free vocational and entrepreneurial training to 500 young Nigerians. The BOI Youth Empowerment Pilot Programme, announced in Lagos will be delivered by Sapphital, a Pan-African digital learning and technology company based in Abuja.",
    "summary_zh": "联邦政府通过工业银行（BOI）和联邦青年发展部（FMYD）启动了一项试点赋权计划，为500名尼日利亚青年提供免费职业和创业培训。该BOI青年赋权试点计划在拉各斯宣布，将由Sapphital交付，这是一家总部位于阿布贾的泛非数字学习和技术公司。",
    "summarySource": "fulltext",
@@ -2899,10 +3171,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 08:52:35 +0000",
    "_dt": 1792399955.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.61,
 =======
    "ageDays": 0.71,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.72,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "Frank, in an open letter addressed to Trump and other international leaders on Monday, expressed concern over reports of alleged plans to intimidate, arrest, detain or otherwise undermine Atiku’s participation in the forthcoming electoral process.",
    "summary_zh": "弗兰克周一在一封致特朗普和其他国际领导人的公开信中，对有关据称计划恐吓、逮捕、拘留或以其他方式破坏阿蒂库参与即将到来的选举进程的报道表示担忧。",
    "summarySource": "fulltext",
@@ -2963,10 +3239,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 07:42:23 +0000",
    "_dt": 1792395743.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.66,
 =======
    "ageDays": 0.76,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.77,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -2994,10 +3274,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 07:30:26 +0000",
    "_dt": 1792395026.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.67,
 =======
    "ageDays": 0.77,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.78,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "Ekpo said the government must ensure that its autogas policy delivers tangible benefits to Nigerians, particularly by reducing transport fares following the removal of the petrol subsidy in 2023. However, the extent to which it can reduce transport fares depends on the availability of refuelling stations, affordable vehicle conversions, reliable gas supply and whether operators pass their fuel savings on to passengers.",
    "summary_zh": "埃克波说，政府必须确保其汽车燃气政策为尼日利亚人带来切实利益，特别是在2023年取消汽油补贴后降低交通费用。然而，它能在多大程度上降低交通费用取决于加油站的可用性、负担得起的车辆改装、可靠的燃气供应以及运营商是否将他们的燃料节省传递给乘客。",
    "summarySource": "fulltext",
@@ -3026,10 +3310,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 07:15:14 +0000",
    "_dt": 1792394114.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.68,
 =======
    "ageDays": 0.78,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.79,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -3057,10 +3345,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 07:13:56 +0000",
    "_dt": 1792394036.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.68,
 =======
    "ageDays": 0.78,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.79,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "In a statement issued by the State House on Sunday, the Special Adviser to President Bola Tinubu on Information and Strategy, Bayo Onanuga, urged Nigerians to disregard the claim, arguing that the amount involved was inconsistent with NLNG’s historical dividend payments to the Federation. However, the Presidency rejected the allegation, insisting that the amount claimed could not be supported by the established revenue-sharing formula and NLNG’s dividend payment history.",
    "summary_zh": "周日由总统府发布的声明中，博拉·蒂努布总统的信息和战略特别顾问巴约·奥纳努加敦促尼日利亚人无视这一说法，认为所涉金额与尼日利亚液化天然气公司历史上向联邦支付的股息不一致。然而，总统府驳斥了这一指控，坚持认为所声称的金额无法得到既定收入分享公式和尼日利亚液化天然气公司股息支付历史的支撑。",
    "summarySource": "fulltext",
@@ -3120,10 +3412,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 06:43:50 +0000",
    "_dt": 1792392230.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.7,
 =======
    "ageDays": 0.8,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.81,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "P olitical calculations in many states have been altered with the recognition of the Rainbow Coalition championed by the Minister of the Federal Capital Territory (FCT), Nyesom Wike, as a result of his inclusion in the President Bola Ahmed Tinubu/APC 2027 Presidential Campaign Council. In Edo State, the Rainbow Coalition remains active despite the death of its leader, late Chief Dan Orbih, Daily Trust learnt.",
    "summary_zh": "许多州的的政治算计因联邦首都区 (FCT) 部长 Nyesom Wike 所倡导的彩虹联盟获得认可而发生改变，这是由于他被纳入总统 Bola Ahmed Tinubu/APC 2027 年总统竞选委员会的结果。在埃多州，尽管其领导人已故 Chief Dan Orbih 去世，彩虹联盟仍保持活跃，《每日信托报》获悉。",
    "summarySource": "fulltext",
@@ -3248,10 +3544,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 04:52:00 +0000",
    "_dt": 1792385520.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.78,
 =======
    "ageDays": 0.88,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 0.89,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "Emmanuel Armah-Kofi Buah, Minister of Lands and Natural Resources, has announced that District Mining Committee’s will begin to issue mining licenses at the local levels under the new Mining and Minerals Act. Speaking at the launch of Ellembelle Cooperative Mining Societies at Nkroful, Mr Armah-Kofi Buah, who is also the Member of Parliament (MP) for Ellembelle, explained that acquisition of mining licenses would start from the district where the mining company wants to operate.",
    "summary_zh": "土地和自然资源部长 Emmanuel Armah-Kofi Buah 宣布，根据新的《采矿和矿产法》，地区采矿委员会将开始在地方层面颁发采矿许可证。在 Nkroful 举行的 Ellembelle 合作采矿协会启动仪式上，同时担任 Ellembelle 国会议员的 Armah-Kofi Buah 先生解释说，获取采矿许可证将从采矿公司希望运营的地区开始。",
    "summarySource": "fulltext",
@@ -3598,10 +3898,14 @@ window.SITE_DATA = {
    "published": "Mon, 19 Oct 2026 01:15:00 +0000",
    "_dt": 1792372500.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 0.93,
 =======
    "ageDays": 1.03,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.04,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "The Minister of Marine and Blue Economy, Adegboyega Oyetola, will attend the 2026 Summit of the Shipping Correspondents Association of Nigeria (SCAN) as Special Guest of Honour, with stakeholders expected to explore solutions to the financial and regulatory challenges confronting indigenous shipowners. Oyetola’s participation comes amid growing calls for improved access to funding and a more enabling regulatory environment to support Nigerian shipowners and expand the capacity of the country’s indigenous fleet.",
    "summary_zh": "海洋和蓝色经济部长阿德格博耶加·奥耶托拉将作为特别贵宾出席2026年尼日利亚航运记者协会（SCAN）峰会，利益相关者预计将探讨解决本土船东面临的财务和监管挑战的方案。奥耶托拉的参与正值各方日益呼吁改善融资渠道并创造更有利的监管环境，以支持尼日利亚船东并扩大该国本土船队的产能。",
    "summarySource": "fulltext",
@@ -3724,10 +4028,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 23:05:00 +0000",
    "_dt": 1792364700.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.02,
 =======
    "ageDays": 1.12,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.13,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "The boss of one of Ukraine's biggest steel companies has called on the European Union to drop import restrictions on products made in the country, arguing that they have been \"bundled together\" with measures aimed at curbing cheap imports from the likes of China. Yuriy Ryzhenkov, chief executive of Metinvest, told the BBC the recently imposed tariffs on imported steel to the EU were \"unfair\" and had been put in place \"without any consideration for the situation Ukraine is in\".",
    "summary_zh": "乌克兰最大钢铁公司之一的老板呼吁欧盟取消对该国生产的产品的进口限制，认为这些限制与旨在遏制来自中国等国的廉价进口的措施“捆绑在一起”。Metinvest首席执行官Yuriy Ryzhenkov告诉BBC，最近对进口到欧盟的钢铁征收的关税“不公平”，并且“在没有考虑乌克兰所处的情况的情况下”实施。",
    "summarySource": "fulltext",
@@ -3757,10 +4065,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 23:01:48 GMT",
    "_dt": 1792364508.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.02,
 =======
    "ageDays": 1.12,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.13,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "fulltext",
@@ -3788,10 +4100,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 21:09:45 +0000",
    "_dt": 1792357785.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.1,
 =======
    "ageDays": 1.2,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.21,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "The New Patriotic Party (NPP) says more than half of the money spent on evacuating Ghanaians from South Africa is not supported by invoices in documents released by the Ministry of Foreign Affairs.",
    "summary_zh": "新爱国党 (NPP) 表示，在外交部公布的文件中，用于从南非撤离加纳人的资金中超过一半没有发票支持。",
    "summarySource": "fulltext",
@@ -3851,10 +4167,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 20:53:42 +0000",
    "_dt": 1792356822.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.11,
 =======
    "ageDays": 1.21,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.22,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "Minister of the Federal Capital Territory, Chief Nyesom Wike and Rivers State Governor, Sir Siminalayi Fubara met in Port Harcourt in a strategic close door meeting ahead of the 2027 general election. Although details of the meeting, which was attended by supporters and loyalists of Fubara and Wike, were not made public, LEADERSHIP gathered that the gathering was part of efforts to strengthen the reconciliation within the Rainbow Coalition in the state.",
    "summary_zh": "联邦首都区部长Chief Nyesom Wike和河流州州长Sir Siminalayi Fubara在哈科特港举行了一次战略闭门会议，为2027年大选做准备。虽然这次由Fubara和Wike的支持者和忠实拥护者参加的会议细节并未公开，但LEADERSHIP gathered that the gathering was part of efforts to strengthen the reconciliation within the Rainbow Coalition in the state.",
    "summarySource": "fulltext",
@@ -3883,10 +4203,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 20:38:32 +0000",
    "_dt": 1792355912.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.12,
 =======
    "ageDays": 1.22,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.23,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "“NLNG has never paid $25 billion in dividends to the Federation Account in a single payout.” Mr Onanuga urged the public to disregard the claim. He argued that for the states’ combined share to reach N9 trillion, the total NLNG dividends paid into the Federation Account would have to exceed N33.68 trillion ($25 billion), in a single declaration. “NLNG has never paid $25 billion in dividends to the Federation Account in a single payout,” the presidency’s statement read.",
    "summary_zh": "“NLNG 从未一次性向联邦账户支付 250 亿美元的股息。”Onanuga 先生敦促公众忽视这一说法。他认为，要使各州的总份额达到 9 万亿奈拉，注入联邦账户的 NLNG 股息总额必须超过 33.68 万亿奈拉（250 亿美元），一次性申报。“NLNG 从未一次性向联邦账户支付 250 亿美元的股息，”总统府的声明写道。",
    "summarySource": "fulltext",
@@ -3978,10 +4302,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 19:57:05 +0000",
    "_dt": 1792353425.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.15,
 =======
    "ageDays": 1.25,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.26,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "The Nigerian Content Development and Monitoring Board (NCDMB), in partnership with Heritage Energy Operational Services Limited (HEOSL) and Global Oceon Engineers Nigeria Limited, has launched a Human Capacity Development programme to train 48 Nigerians in subsea engineering. The programme combines six months of classroom instruction with six months of structured on-the-job training, giving participants specialised knowledge and practical experience in subsea engineering.",
    "summary_zh": "尼日利亚内容开发与监督委员会（NCDMB）与Heritage Energy Operational Services Limited（HEOSL）和Global Oceon Engineers Nigeria Limited合作，启动了一项人力能力开发计划，以培训48名尼日利亚人从事海底工程。该计划将六个月的课堂教学与六个月的结构化在职培训相结合，为参与者提供海底工程的专业知识和实践经验。",
    "summarySource": "fulltext",
@@ -4169,10 +4497,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 14:54:03 GMT",
    "_dt": 1792335243.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.36,
 =======
    "ageDays": 1.46,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.47,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "“The Federal Ministry of Finance has noted recent analysis and public commentary which, citing the World Bank’s October 2026 Nigeria Development Update, claims that Federal Government interest payments reached 124% of revenue in the first half of 2026.",
    "summary_zh": "联邦财政部注意到最近的分析和公众评论，这些评论引用世界银行2026年10月《尼日利亚发展更新》，声称联邦政府利息支付在2026年上半年达到收入的124%。",
    "summarySource": "index",
@@ -4233,10 +4565,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 12:31:42 GMT",
    "_dt": 1792326702.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.46,
 =======
    "ageDays": 1.56,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.57,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "The Federal Government has pledged to strengthen security and economic cooperation with Niger, Mali and Burkina Faso as part of efforts to address terrorism, poverty, food insecurity and other shared challenges across West Africa.",
    "summary_zh": "联邦政府承诺加强与尼日尔、马里和布基纳法索的安全与经济合作，以此作为应对恐怖主义、贫困、粮食不安全以及西非其他共同挑战的努力的一部分。",
    "summarySource": "index",
@@ -4267,10 +4603,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 12:00:00 GMT",
    "_dt": 1792324800.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.48,
 =======
    "ageDays": 1.58,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.59,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "Listen to this article Share Advertisement The Chinese Embassy in Nigeria, the Federal Radio Corporation of Nigeria (FRCN), have called for expanded content, stronger digital engagement and increased youth participation in the *Ni Hao! China* radio programme to deepen cultural exchanges between Nigeria and China.",
    "summary_zh": "收听本文 分享 广告 中国驻尼日利亚大使馆、尼日利亚联邦广播公司（FRCN）呼吁扩大内容、加强数字互动并增加青年参与《你好！中国》广播节目，以深化尼日利亚与中国的文化交流。",
    "summarySource": "fulltext",
@@ -4426,10 +4766,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 08:52:58 GMT",
    "_dt": 1792313578.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.61,
 =======
    "ageDays": 1.71,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.72,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "Nigeria’s Minister of State for Foreign Affairs, Ambassador Sola Enikanolaiye, is leading the Nigerian Delegation in Dakar, Senegal for this strategic discussion, a statement issued on Friday by the Spokesman of the Ministry of Foreign Affairs, Oluwafemi Adeniyi said.",
    "summary_zh": "尼日利亚外交部部长级官员、大使Sola Enikanolaiye正率领尼日利亚代表团在塞内加尔达喀尔参加此次战略讨论，外交部发言人Oluwafemi Adeniyi周五发表的声明说。",
    "summarySource": "fulltext",
@@ -4586,10 +4930,14 @@ window.SITE_DATA = {
    "published": "Sun, 18 Oct 2026 04:21:36 GMT",
    "_dt": 1792297296.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.8,
 =======
    "ageDays": 1.9,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.91,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "Cardoso said Nigeria was particularly interested in attracting Chinese investors into its financial instruments, noting that despite China’s enormous financial resources, its participation in Nigeria’s financial markets had remained limited. The CBN’s engagement with China is expected to explore opportunities for greater participation by Chinese financial institutions in Nigeria’s markets, alongside improved payment systems and financing arrangements that could facilitate trade and investment.",
    "summary_zh": "Cardoso表示，尼日利亚特别有兴趣吸引中国投资者进入其金融工具，他指出尽管中国拥有庞大的金融资源，但其在尼日利亚金融市场的参与仍然有限。CBN与中国的接触预计将探索中国金融机构更多参与尼日利亚市场的机会，以及可能促进贸易和投资的改善支付系统和融资安排。",
    "summarySource": "fulltext",
@@ -4810,10 +5158,14 @@ window.SITE_DATA = {
    "published": "Sat, 17 Oct 2026 19:12:37 GMT",
    "_dt": 1792264357.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.18,
 =======
    "ageDays": 2.28,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.29,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
@@ -5764,6 +6116,7 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
    "ageDays": 1.0,
+<<<<<<< HEAD
    "_ts": 1792366513.213604,
    "postedAt": "2026-10-19 07:35",
    "hasBody": false,
@@ -5894,6 +6247,10 @@ window.SITE_DATA = {
    "ageDays": 1.0,
    "_ts": 1792375300.843779,
    "postedAt": "2026-10-19 10:01",
+=======
+   "_ts": 1792375593.95118,
+   "postedAt": "2026-10-19 10:06",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -5922,8 +6279,8 @@ window.SITE_DATA = {
    "actor": "美国",
    "alsoUS": false,
    "ageDays": 1.0,
-   "_ts": 1792375300.843779,
-   "postedAt": "2026-10-19 10:01",
+   "_ts": 1792375593.95118,
+   "postedAt": "2026-10-19 10:06",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -5953,8 +6310,8 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
    "ageDays": 1.0,
-   "_ts": 1792375300.843779,
-   "postedAt": "2026-10-19 10:01",
+   "_ts": 1792375593.95118,
+   "postedAt": "2026-10-19 10:06",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -5984,8 +6341,8 @@ window.SITE_DATA = {
    "actor": "第三方",
    "alsoUS": false,
    "ageDays": 1.0,
-   "_ts": 1792375300.843779,
-   "postedAt": "2026-10-19 10:01",
+   "_ts": 1792375593.95118,
+   "postedAt": "2026-10-19 10:06",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -6014,10 +6371,14 @@ window.SITE_DATA = {
    "actor": "第三方",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.04,
 =======
    "ageDays": 1.14,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.15,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792363012.596,
    "postedAt": "2026-10-19 06:36",
    "hasBody": true,
@@ -6119,10 +6480,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.08,
 =======
    "ageDays": 1.18,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.19,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792359396.605,
    "postedAt": "2026-10-19 05:36",
    "hasBody": true,
@@ -6225,10 +6590,14 @@ window.SITE_DATA = {
    "actor": "第三方",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.26,
 =======
    "ageDays": 1.36,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.37,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792343820.471,
    "postedAt": "2026-10-19 01:17",
    "hasBody": true,
@@ -6469,10 +6838,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.46,
 =======
    "ageDays": 1.56,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.57,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792326699.551,
    "postedAt": "2026-10-18 20:31",
    "hasBody": true,
@@ -6609,10 +6982,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.55,
 =======
    "ageDays": 1.65,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.66,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792318809.638,
    "postedAt": "2026-10-18 18:20",
    "hasBody": true,
@@ -6644,10 +7021,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.56,
 =======
    "ageDays": 1.66,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.67,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792317911.632,
    "postedAt": "2026-10-18 18:05",
    "hasBody": true,
@@ -6714,10 +7095,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.61,
 =======
    "ageDays": 1.71,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.72,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792313551.327,
    "postedAt": "2026-10-18 16:52",
    "hasBody": true,
@@ -6749,10 +7134,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 1.63,
 =======
    "ageDays": 1.73,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 1.74,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792311945.782,
    "postedAt": "2026-10-18 16:25",
    "hasBody": true,
@@ -6925,12 +7314,17 @@ window.SITE_DATA = {
    "alsoUS": false,
    "ageDays": 2.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "_ts": 1792280113.213604,
    "postedAt": "2026-10-18 07:35",
 =======
    "_ts": 1792288900.843779,
    "postedAt": "2026-10-18 10:01",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "_ts": 1792289193.95118,
+   "postedAt": "2026-10-18 10:06",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -6960,12 +7354,17 @@ window.SITE_DATA = {
    "alsoUS": false,
    "ageDays": 2.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "_ts": 1792280113.213604,
    "postedAt": "2026-10-18 07:35",
 =======
    "_ts": 1792288900.843779,
    "postedAt": "2026-10-18 10:01",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "_ts": 1792289193.95118,
+   "postedAt": "2026-10-18 10:06",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -6995,12 +7394,17 @@ window.SITE_DATA = {
    "alsoUS": false,
    "ageDays": 2.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "_ts": 1792280113.213604,
    "postedAt": "2026-10-18 07:35",
 =======
    "_ts": 1792288900.843779,
    "postedAt": "2026-10-18 10:01",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "_ts": 1792289193.95118,
+   "postedAt": "2026-10-18 10:06",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -7031,12 +7435,17 @@ window.SITE_DATA = {
    "alsoUS": false,
    "ageDays": 2.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "_ts": 1792280113.213604,
    "postedAt": "2026-10-18 07:35",
 =======
    "_ts": 1792288900.843779,
    "postedAt": "2026-10-18 10:01",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "_ts": 1792289193.95118,
+   "postedAt": "2026-10-18 10:06",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -7067,12 +7476,17 @@ window.SITE_DATA = {
    "alsoUS": false,
    "ageDays": 2.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "_ts": 1792280113.213604,
    "postedAt": "2026-10-18 07:35",
 =======
    "_ts": 1792288900.843779,
    "postedAt": "2026-10-18 10:01",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "_ts": 1792289193.95118,
+   "postedAt": "2026-10-18 10:06",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -7101,10 +7515,14 @@ window.SITE_DATA = {
    "actor": "第三方",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.03,
 =======
    "ageDays": 2.13,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.14,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792277444.57,
    "postedAt": "2026-10-18 06:50",
    "hasBody": true,
@@ -7170,10 +7588,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.18,
 =======
    "ageDays": 2.28,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.29,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792264474.737,
    "postedAt": "2026-10-18 03:14",
    "hasBody": true,
@@ -7204,10 +7626,14 @@ window.SITE_DATA = {
    "actor": "第三方",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.24,
 =======
    "ageDays": 2.34,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.35,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792259205.424,
    "postedAt": "2026-10-18 01:46",
    "hasBody": true,
@@ -7239,10 +7665,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.25,
 =======
    "ageDays": 2.35,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.36,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792258231.717,
    "postedAt": "2026-10-18 01:30",
    "hasBody": true,
@@ -7344,10 +7774,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.33,
 =======
    "ageDays": 2.43,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.44,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792251550.271,
    "postedAt": "2026-10-17 23:39",
    "hasBody": true,
@@ -7518,10 +7952,14 @@ window.SITE_DATA = {
    "actor": "第三方",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.59,
 =======
    "ageDays": 2.69,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.7,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792228990.202,
    "postedAt": "2026-10-17 17:23",
    "hasBody": true,
@@ -7623,10 +8061,14 @@ window.SITE_DATA = {
    "actor": "四国政府",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.77,
 =======
    "ageDays": 2.87,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.88,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792213426.372,
    "postedAt": "2026-10-17 13:03",
    "hasBody": true,
@@ -7659,10 +8101,14 @@ window.SITE_DATA = {
    "actor": "第三方",
    "alsoUS": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "ageDays": 2.87,
 =======
    "ageDays": 2.97,
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "ageDays": 2.98,
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "_ts": 1792204704.716,
    "postedAt": "2026-10-17 10:38",
    "hasBody": true,
@@ -7694,12 +8140,17 @@ window.SITE_DATA = {
    "alsoUS": false,
    "ageDays": 3.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
    "_ts": 1792193713.213604,
    "postedAt": "2026-10-17 07:35",
 =======
    "_ts": 1792202500.843779,
    "postedAt": "2026-10-17 10:01",
 >>>>>>> 1b9d840 (China Eyes: reframe to 4 modules (涉华/涉美/非洲四国/周边国家), 8 neighbour countries, terror groups, 3-day window)
+=======
+   "_ts": 1792202793.95118,
+   "postedAt": "2026-10-17 10:06",
+>>>>>>> 7384de9 (data: 3-day window, regenerate from old queries (new fetches after deploy))
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
