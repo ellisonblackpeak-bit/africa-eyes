@@ -1,0 +1,82 @@
+name: translate-topup
+
+# Fills in Chinese for whatever the regular refresh left untranslated.
+#
+# Why a separate workflow: the full refresh is a ~40-minute chain (30 Tavily
+# angles, 28 RSS feeds, 18 xAI searches, two builds). Translation is capped at
+# 220 strings per run so one round cannot bill an unbounded amount, which leaves
+# a tail of untranslated summaries and bodies. Re-running the whole chain just to
+# clear that tail wastes 40 minutes; this job only translates, rebuilds, deploys.
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max strings to translate in this run"
+        required: false
+        default: "400"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: africa-eyes
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Translate and rebuild
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          PYTHONIOENCODING: utf-8
+        run: |
+          python build_data.py
+          python translate_xai.py --limit ${{ github.event.inputs.limit || 400 }} || echo "::warning::translate failed"
+          python build_data.py
+
+      - name: Commit
+        run: |
+          git config user.name  "africa-eyes-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data data.js
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "data: translation top-up $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+  deploy:
+    needs: translate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp index.html data.js manifest.json _site/ 2>/dev/null || true
+          cp -r assets _site/ 2>/dev/null || true
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
