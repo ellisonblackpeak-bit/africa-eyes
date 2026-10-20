@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
+<<<<<<< HEAD
    "title": "INEC and neutrality test",
    "url": "https://dailytrust.com/inec-and-neutrality-test/",
    "content": "By Musa Luka Musa, Baba Martins & Seun Adeuyi Fresh controversies have resurfaced over the redeployment of key personnel of the Independent National Electoral Commission (INEC) ahead of the 2027 general elections. In the recent changes at INEC, Mrs Oluyemi Titilayo Adeyemi-Showunmi, formerly the Administrative Secretary of the commission’s Lagos State office, was redeployed […]",
    "published_date": "Tue, 20 Oct 2026 01:41:31 +0000",
+=======
+   "title": "Subsidy Removal: Moses Can’t Go Back to Egypt, Says Tinubu",
+   "url": "https://dailytrust.com/subsidy-removal-moses-cant-go-back-to-egypt-says-tinubu/",
+   "content": "President Bola Tinubu has ruled out a return to fuel subsidy, saying his administration’s decision to remove it is irreversible. Tinubu, who drew a comparison between the policy and the biblical account of Moses leading the Israelites out of Egypt, said those advocating a return to subsidy were asking the country to reverse a decision […]",
+   "published_date": "Mon, 19 Oct 2026 21:20:34 +0000",
+>>>>>>> b50f49c (force Tavily per-cycle + 8 periphery RSS fallbacks (kathmandupost succeeded))
    "score": 0.6
   },
   {
@@ -93,11 +100,18 @@
    "score": 0.6
   },
   {
+<<<<<<< HEAD
    "title": "Witchcraft claim: 17 suspects nabbed over alleged attack on man",
    "url": "https://dailytrust.com/witchcraft-claim-17-suspects-nabbed-over-alleged-attack-on-man/",
    "content": "The Bauchi State Police Command has arrested 17 suspects over an alleged attack on a 60-year-old man and his family following accusations of witchcraft in Gobirawa village, Alkaleri Local Government Area of the state. The attack, which reportedly involved the use of machetes and sticks, occurred at about 1am on October 18, according to a […]",
    "published_date": "Tue, 20 Oct 2026 00:45:56 +0000",
    "score": 0.6
+=======
+   "title": "5 killed in Kogi road crash",
+   "url": "https://dailytrust.com/5-killed-in-kogi-road-crash/",
+   "content": "Five persons were reportedly killed and one other seriously injured in a ghastly accident along the Obajana-Lokoja highway in Kogi State. Eyewitnesses said the incident occurred in the early hours of Sunday when three trucks lost control while on top speed and rammed into each other. According to locals, the impact of the incident triggered […]",
+   "published_date": "Mon, 19 Oct 2026 18:05:07 +0000",   "score": 0.6
+>>>>>>> b50f49c (force Tavily per-cycle + 8 periphery RSS fallbacks (kathmandupost succeeded))
   }
  ],
  "engine": "rss",

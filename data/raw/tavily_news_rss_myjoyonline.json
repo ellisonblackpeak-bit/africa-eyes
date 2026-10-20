@@ -2,6 +2,7 @@
  "success": true,
  "results": [
   {
+<<<<<<< HEAD
    "title": "Survivors feel a sense of guilt for failing to protect themselves from sexual abuse – Advocate",
    "url": "https://www.myjoyonline.com/survivors-feel-a-sense-of-guilt-for-failing-to-protect-themselves-from-sexual-abuse-advocate/",
    "content": "Survivors of sexual abuse often grapple with guilt and emotional distress, sometimes blaming themselves for failing to prevent the abuse, a survivor advocate, Amtu Akumfi-Ameyaw, has said.",
@@ -72,6 +73,15 @@
    "score": 0.6
   },
   {
+=======
+   "title": "Isaac Opoku raises Ghana’s flag high in London with Commonwealth honour",
+   "url": "https://www.myjoyonline.com/isaac-opoku-raises-ghanas-flag-high-in-london-with-commonwealth-honour/",
+   "content": "Ghanaian youth leader Isaac Opoku has been received by the Ghana High Commissioner to the United Kingdom and the Commonwealth Secretary General in London, as he celebrates being named one of the QECT 100 Young Leaders 2026. Isaac, founder of the Starlight Foundation, visited Her Excellency Mrs Sabah Zita Benson, Ghana’s High Commissioner to the United Kingdom, and Her Excellency Shirley Ayorkor Botchwey, Secretary-General of the Commonwealth, alongside two fellow Ghanaian awardees. During the visit, he shared his personal story, explained why he started the Foundation, and spoke about its work with children and families across Ghana. The three young leaders also presented the award plaques they had received. The High Commissioner said she was impressed by their work and proud that they had raised the flag of Ghana high within the Commonwealth. Madam Botchwey, the first Ghanaian and the f",
+   "published_date": "Mon, 19 Oct 2026 23:05:07 +0000",
+   "score": 0.6
+  },
+  {
+>>>>>>> b50f49c (force Tavily per-cycle + 8 periphery RSS fallbacks (kathmandupost succeeded))
    "title": "‘An unacceptable breach’ – Hawa Koomson warns over alleged failure to act on Obuasi SHTS abuse complaints",
    "url": "https://www.myjoyonline.com/an-unacceptable-breach-hawa-koomson-warns-over-alleged-failure-to-act-on-obuasi-shts-abuse-complaints/",
    "content": "NPP National Women’s Organiser has warned that school authorities’ alleged failure to act on sexual abuse complaints at Obuasi Senior High Technical School would amount to “an unacceptable breach” of their responsibility to protect students, if established.",
@@ -350,6 +360,71 @@
    "content": "Cristiano Ronaldo has received a 30-day suspension and a €255 fine from the Portuguese football federation after leaving the Portugal squad during the most recent international break. The forward is 41. In late September, Ronaldo clashed with national team coach Jorge Jesus after spending the 2-1 international win over Norway on the bench. Ronaldo said […]",
    "published_date": "Mon, 19 Oct 2026 18:05:22 +0000",
    "score": 0.6
+<<<<<<< HEAD
+=======
+  },
+  {
+   "title": "Kenya’s Fintech growth story: The challenge of scaling beyond success",
+   "url": "https://www.myjoyonline.com/kenyas-fintech-growth-story-the-challenge-of-scaling-beyond-success/",
+   "content": "Following my address at the Africa Fintech and Banking Summit in Nairobi on 8th October 2026, it is clear that while Kenya remains Africa's undisputed fintech capital, the market narrative is fundamentally shifting. Widespread mobile money adoption, a vibrant innovation infrastructure, and a growing pipeline of technology-enabled financial services firms have turned Nairobi into a global launchpad. From digital lending and smart asset financing to embedded wealth solutions, fintech platforms are redrawing economic boundaries. Yet, initial market validation is merely step one; the true test lies in long-term execution. As tech scale-ups expand, they face complex regulatory frameworks, highly sophisticated cybersecurity threat landscapes, and rising consumer expectations. At the same time, institutional investors have turned away from the era of 'growth at all costs,' placing a premium on ",
+   "published_date": "Mon, 19 Oct 2026 18:01:57 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Dr Jasaw calls for national agriculture development fund to strengthen climate resilience",
+   "url": "https://www.myjoyonline.com/dr-jasaw-calls-for-national-agriculture-development-fund-to-strengthen-climate-resilience/",
+   "content": "The Wa East MP and Chairman of Parliament’s Food and Agriculture Committee, Dr Godfred Seidu Jasaw has called for the establishment of a National Agriculture Development Fund to strengthen agricultural financing, improve climate resilience and ensure that resources reach farmers and communities exposed to climate-related risks.",
+   "published_date": "Mon, 19 Oct 2026 17:55:19 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Uber wins bid to throw out £200m black cab claims",
+   "url": "https://www.myjoyonline.com/uber-wins-bid-to-throw-out-200m-black-cab-claims/",
+   "content": "Uber has won its bid to throw out claims worth about £340m brought by thousands of London black cab drivers and two former private hire firms.",
+   "published_date": "Mon, 19 Oct 2026 17:53:34 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "GES releases November 2026 Teachers’ Promotion Examination timetable; Check dates, syllabus and centres nationwide",
+   "url": "https://www.myjoyonline.com/ges-releases-november-2026-teachers-promotion-examination-timetable-check-dates-syllabus-and-centres-nationwide/",
+   "content": "The Ghana Education Service has scheduled its November 2026 Teachers’ Promotion Examinations for November 2–4, with candidates in six rank categories expected to sit the examinations according to a designated timetable. The Service has also outlined the examination formats, syllabus, identification requirements and centres across the country. The Ghana Education Service (GES) has outlined the […]",
+   "published_date": "Mon, 19 Oct 2026 17:52:43 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Mamponghene warns against galamsey, destructive sand winning at Akrofonso",
+   "url": "https://www.myjoyonline.com/mamponghene-warns-against-galamsey-destructive-sand-winning-at-akrofonso/",
+   "content": "The Paramount Chief of Asante Mampong, Daasebre Osei Bonsu III, has cautioned against illegal mining and improper sand winning at Mampong Akrofonso, warning that the community’s lands and water bodies must be protected for sustainable development.",
+   "published_date": "Mon, 19 Oct 2026 17:52:03 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Obuasi SHTS has become a crime scene – Salaga South MP",
+   "url": "https://www.myjoyonline.com/obuasi-shts-has-become-a-crime-scene-salaga-south-mp/",
+   "content": "Member of Parliament for Salaga South and Vice-Chairperson of Parliament’s Gender, Children and Social Welfare Committee, Zuwera Mohammed Ibrahimah, has described Obuasi Senior High Technical School (SHTS) as a “big crime scene” following allegations of sexual abuse involving the school’s headteacher.",
+   "published_date": "Mon, 19 Oct 2026 17:51:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Obuasi SHTS abuse: PTA association calls for action against alleged perpetrators",
+   "url": "https://www.myjoyonline.com/obuasi-shts-abuse-pta-association-calls-for-action-against-alleged-perpetrators/",
+   "content": "The General Secretary of the National Council of Parent-Teacher Associations, Gapson Kofi Raphael, has called for legal action against persons implicated in the alleged sexual abuse of students at Obuasi Senior High Technical School (SHTS) and those suspected of covering up the incidents.",
+   "published_date": "Mon, 19 Oct 2026 17:49:14 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Jeneral Ntatia recalls how his father’s death changed his life",
+   "url": "https://www.myjoyonline.com/jeneral-ntatia-recalls-how-his-fathers-death-changed-his-life/",
+   "content": "Comedian Jeneral Ntatia has opened up about the painful loss of his father, revealing how the experience transformed his life and thrust him into the difficult reality of carrying family responsibilities as the firstborn son. The comedian became emotional as he recounted the events surrounding his father’s death, describing how a day that began with […]",
+   "published_date": "Mon, 19 Oct 2026 17:49:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ghana Publishing Company launches online bookshop for Acts of Parliament, Constitution",
+   "url": "https://www.myjoyonline.com/ghana-publishing-company-launches-online-bookshop-for-acts-of-parliament-constitution/",
+   "content": "Ghanaians can now order Acts of Parliament, copies of the Constitution and other official publications online and have them delivered to their locations without travelling to Accra. The service follows the introduction of an online bookshop by the Ghana Publishing Company Limited (GPCL) to improve public access to government publications. Speaking at a press conference in Accra on Monday, October 19, 2026, GPCL Managing Director, Nana Kwasi Boatey, Esq., said the initiative was designed to address the difficulties people face in obtaining copies of Ghana’s laws. He explained that people living outside Accra often had to travel long distances to purchase Acts of Parliament and other publications, sometimes spending more on transportation than on the documents themselves.",
+   "published_date": "Mon, 19 Oct 2026 17:44:55 +0000",   "score": 0.6
+>>>>>>> b50f49c (force Tavily per-cycle + 8 periphery RSS fallbacks (kathmandupost succeeded))
   }
  ],
  "engine": "rss",

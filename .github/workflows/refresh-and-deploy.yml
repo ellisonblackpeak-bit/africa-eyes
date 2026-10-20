@@ -30,10 +30,18 @@ jobs:
         env:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          # Allow Tavily to run on every 3-hour cycle (matches the cron below).
+          # The persistent _tav_mark would otherwise skip it for 6 hours after the
+          # first hit, leaving the 8-periphery-country queries uncovered.
+          TAVILY_MIN_INTERVAL: "30"
           PYTHONIOENCODING: utf-8
         run: |
           # keep the article cache bounded so the repo does not grow forever
           find data/raw -type f -mtime +7 -delete 2>/dev/null || true
+          # The persistent Tavily cooldown mark would block this very first
+          # build of a fresh checkout; clear it so the fetch_news pass actually
+          # executes on the first run after a deploy.
+          rm -f data/raw/_tav_mark data/raw/_tavily_quota_dead || true
           python fetch_news.py || echo "::warning::fetch_news failed"
           python fetch_articles.py || echo "::warning::fetch_articles failed"
           python fetch_social_x.py || echo "::warning::fetch_social_x failed"

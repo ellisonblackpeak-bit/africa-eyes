@@ -416,15 +416,23 @@ RSS_FEEDS = [
     ("citinews",    "https://citinewsroom.com/feed/",                 "citinewsroom.com"),
     ("ghanaweb",    "https://www.ghanaweb.com/GhanaHomePage/rss/news.xml", "ghanaweb.com"),
     # China periphery RSS (added 2026-10-20): English / cheap-channels that
-    # cover China activity in the eight neighbouring countries. Picked for
-    # published-feed reliability rather than breadth — these are the outlets
-    # Tavily returns the fewest duplicates for, so they don't waste credits.
+    # cover China activity in the eight neighbouring countries. Multiple
+    # candidates per country because some outlets (Irrawaddy, The Hindu, etc.)
+    # block the cloud sandbox's egress IP — having a fallback means the
+    # country still produces content if the primary feed 404s or 000s.
     ("irrawaddy",   "https://www.irrawaddy.com/rss.xml",              "irrawaddy.com"),
+    ("frontier_mm", "https://www.frontiermyanmar.net/feed/",          "frontiermyanmar.net"),
+    ("mizzima",     "https://www.mizzima.com/rss.xml",                "mizzima.com"),
     ("rappler",     "https://www.rappler.com/feed/",                  "rappler.com"),
+    ("inquirer",    "https://www.inquirer.net/feed/",                 "inquirer.net"),
+    ("gmanews",     "https://www.gmanetwork.com/news/rss/",           "gmanetwork.com"),
     ("moscowtimes", "https://www.themoscowtimes.com/rss/news",        "themoscowtimes.com"),
     ("koreaherald", "https://www.koreaherald.com/rss",                "koreaherald.com"),
+    ("koreatimes",  "https://www.koreatimes.co.kr/www/rss/rss.xml",   "koreatimes.co.kr"),
     ("thehindu",    "https://www.thehindu.com/feeder/default.rss",    "thehindu.com"),
+    ("htrss",       "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml", "hindustantimes.com"),
     ("vnexpress",   "https://vnexpress.net/rss/tin-moi-nhat.rss",     "vnexpress.net"),
+    ("tuoitre",     "https://tuoitre.vn/rss/tin-moi-nhat.rss",        "tuoitre.vn"),
     ("kathmandupost", "https://kathmandupost.com/rss",                "kathmandupost.com"),
     ("rfa_chinese", "https://www.rfa.org/mandarin/rssfeed.xml",       "rfa.org"),
 ]

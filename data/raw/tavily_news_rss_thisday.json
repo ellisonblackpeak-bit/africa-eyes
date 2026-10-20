@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
+<<<<<<< HEAD
    "title": "THE MATH OF INDEPENDENCE",
    "url": "https://www.thisdaylive.com/2026/10/20/the-math-of-independence/",
    "content": "DAMILOLA BAKARE argues against the overwhelming vestiges of colonialism On October 1st, 2026, Nigeria turns 66. Sixty-six years of owning a flag, a constitution, and a seat at the UN.",
    "published_date": "Tue, 20 Oct 2026 02:08:37 +0000",
+=======
+   "title": "NNPC Cuts Exploration Spending by 87%, Gas Flare Bill Falls to N499bn",
+   "url": "https://www.thisdaylive.com/2026/10/20/nnpc-cuts-exploration-spending-by-87-gas-flare-bill-falls-to-n499bn/",
+   "content": "Emmanuel Addeh in Abuja The Nigerian National Petroleum Company Limited (NNPC) slashed additions to its exploration and evaluation assets by 87.7 per cent to N78.8 billion in 2025, from N640.5",
+   "published_date": "Mon, 19 Oct 2026 23:17:00 +0000",
+>>>>>>> b50f49c (force Tavily per-cycle + 8 periphery RSS fallbacks (kathmandupost succeeded))
    "score": 0.6
   },
   {
@@ -100,6 +107,7 @@
    "score": 0.6
   },
   {
+<<<<<<< HEAD
    "title": "The Death of A Public Intellectual: Patrick Dele Cole, 1940 – 2026",
    "url": "https://www.thisdaylive.com/2026/10/20/the-death-of-a-public-intellectual-patrick-dele-cole-1940-2026/",
    "content": "By REUBEN ABATI Death is a fact of life, no living thing exists forever, not even nature itself, for it is written that even the best and the brightest, shall",
@@ -175,6 +183,82 @@
    "content": "Peter Uzoho The Minister of State for Petroleum Resources (Oil), Senator Heineken Lokpobiri, regulators, international and indigenous operators will converge next month to deliberate on how Nigeria can increase oil",
    "published_date": "Mon, 19 Oct 2026 23:33:00 +0000",
    "score": 0.6
+=======
+   "title": "Uduaghan Was a Detribalised Leader, Says Oborevwori",
+   "url": "https://www.thisdaylive.com/2026/10/19/uduaghan-was-a-detribalised-leader-says-oborevwori/",
+   "content": "Gov. Sheriff Oborevwori of Delta has expressed sadness over the death of former Gov. Emmanuel Uduaghan. Oborevwori in a condolence statement on Monday by his Chief Press Secretary, Mr Festus",
+   "published_date": "Mon, 19 Oct 2026 18:20:35 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ochei Mourns Former Gov Uduaghan",
+   "url": "https://www.thisdaylive.com/2026/10/19/ochei-mourns-former-gov-uduaghan/",
+   "content": "Mr Victor Ochei, Former Speaker of the Delta House of Assembly, and the the Delta North Senatorial candidate of the Nigeria Democratic Congress (NDC) has mourned former Gov. Emmanuel Uduaghan,",
+   "published_date": "Mon, 19 Oct 2026 18:19:15 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Q3 2026: Transcorp Hotels Widens Margins, Grows Profit Before Tax to ₦22.5bn",
+   "url": "https://www.thisdaylive.com/2026/10/19/q3-2026-transcorp-hotels-widens-margins-grows-profit-before-tax-to-%e2%82%a622-5bn/",
+   "content": "Transcorp Hotels Plc (NGX: TRANSCOHOT), the hospitality subsidiary of Transnational Corporation Plc (Transcorp Group), has announced its unaudited financial results for the third quarter ended September 30, 2026, reporting a",
+   "published_date": "Mon, 19 Oct 2026 18:17:15 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "COAS: Rwandan Genocide Offers Profound Lessons for Nigeria",
+   "url": "https://www.thisdaylive.com/2026/10/19/coas-rwandan-genocide-offers-profound-lessons-for-nigeria/",
+   "content": "Linus Aleke in Abuja The Chief of Army Staff (COAS), Lieutenant General Waidi Shaibu has said that the Rwandan genocide offers profound lessons for Nigeria on the importance of national",
+   "published_date": "Mon, 19 Oct 2026 18:14:33 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Alleged Wiretapping: El-Rufai Loses N120m Right Enforcement Suit against DSS, Others",
+   "url": "https://www.thisdaylive.com/2026/10/19/alleged-wiretapping-el-rufai-loses-n120m-right-enforcement-suit-against-dss-others-2/",
+   "content": "Alex Enumah in Abuja A High Court of the Federal Capital Territory (FCT) on Monday, dismissed the fundamental rights suit filed by the immediate past governor of Kaduna State, Nasir",
+   "published_date": "Mon, 19 Oct 2026 18:12:11 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "NDC Shifts Campaign Council Inauguration to October 26",
+   "url": "https://www.thisdaylive.com/2026/10/19/ndc-shifts-campaign-council-inauguration-to-october-26/",
+   "content": "*Party cites Obi’s overseas engagement for postponement Sunday Aborisade in Abuja The Nigeria Democratic Congress (NDC) has rescheduled the unveiling and inauguration of its National Campaign Council (NCC) from Tuesday,",
+   "published_date": "Mon, 19 Oct 2026 18:09:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Tinubu Mourns Ex-Delta Gov Uduaghan, Lauds His Laudable Service to State, Nation",
+   "url": "https://www.thisdaylive.com/2026/10/19/tinubu-mourns-ex-delta-gov-uduaghan-lauds-his-laudable-service-to-state-nation/",
+   "content": "Deji Elumoye in Abuja President Bola Tinubu has mourned former Governor of Delta State, Dr Emmanuel Uduaghan, who died aged 71.In a condolence message issued on Monday, the President extended",
+   "published_date": "Mon, 19 Oct 2026 18:07:22 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FORCEPA: A Timely Initiative to Strengthen Tinubu’s Re-election Campaign",
+   "url": "https://www.thisdaylive.com/2026/10/19/forcepa-a-timely-initiative-to-strengthen-tinubus-re-election-campaign/",
+   "content": "By Ademola Adedoyin There is a compelling argument for the Forum of Chief Executives of Federal Parastatals (FORCEPA), not merely as another political support group ahead of the 2027 general",
+   "published_date": "Mon, 19 Oct 2026 18:06:45 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Nigeria’s Democratic Challenges Offer Lessons for World, Researcher Says",
+   "url": "https://www.thisdaylive.com/2026/10/19/nigerias-democratic-challenges-offer-lessons-for-world-researcher-says/",
+   "content": "Michael Olugbode in Abuja Nigeria’s political complexity, institutional challenges and evolving democratic experience offer important lessons for understanding political systems globally, a researcher, Valentin Bianki has said. The researcher, who",
+   "published_date": "Mon, 19 Oct 2026 17:59:06 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Court Orders Interior Minister, Tunji-Ojo, to Respond to Suit Seeking Release of his NYSC Records",
+   "url": "https://www.thisdaylive.com/2026/10/19/court-orders-interior-minister-tunji-ojo-to-respond-to-suit-seeking-release-of-his-nysc-records/",
+   "content": "Alex Enumah in Abuja Justice Salim Ibrahim of a Federal High Court, Abuja has directed the Minister of Interior, Hon. Olubunmi Tunji-Ojo, to file his response to the suit seeking",
+   "published_date": "Mon, 19 Oct 2026 17:53:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "YABATECH Transition: Afolabi Calls for Urgent Reforms, Stronger Security",
+   "url": "https://www.thisdaylive.com/2026/10/19/yabatech-transition-afolabi-calls-for-urgent-reforms-stronger-security/",
+   "content": "Funmi Ogundare The Chairman of the Governing Council of Yaba College of Technology (YABATECH), Prof. Funso Isolaowa Afolabi, has called for urgent institutional reforms and the establishment of a super",
+   "published_date": "Mon, 19 Oct 2026 17:51:38 +0000",   "score": 0.6
+>>>>>>> b50f49c (force Tavily per-cycle + 8 periphery RSS fallbacks (kathmandupost succeeded))
   }
  ],
  "engine": "rss",
