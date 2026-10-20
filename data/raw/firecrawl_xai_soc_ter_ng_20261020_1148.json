@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Sokoto_Affairs/status/2111489696610005403",
+     "title": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO Troops of Operation Fansan Yamma killed two suspected Lakurawa terrorists",
+     "description": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO\n\nTroops of Operation Fansan Yamma killed two suspected Lakurawa terrorists during clearance operations at Waria Forest and Sarma Village in Sokoto on October 15. The operation also yielded four AK-47 rifles, eight motorcycles, ammunition, four magazines and communication equipment.",
+     "snippet": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO\n\nTroops of Operation Fansan Yamma killed two suspected Lakurawa terrorists during clearance operations at Waria Forest and Sarma Village in Sokoto on October 15. The operation also yielded four AK-47 rifles, eight motorcycles, ammunition, four magazines and communication equipment.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sokoto State Affairs",
+     "handle": "@Sokoto_Affairs"
+    },
+    {
+     "url": "https://x.com/westernpost_ng/status/2111797460196610489",
+     "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-",
+     "description": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Western Post Nigeria",
+     "handle": "@westernpost_ng"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112076621335101821",
+     "title": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandi",
+     "description": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandit leader Kachallah Dogo Baldu was killed by Aleru’s men alongside several of his fighters.\n\nReports from the area suggest the fighting was still ongoing as at this morning, raising concerns about further casualties as the two groups continue to battle each other.",
+     "snippet": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandit leader Kachallah Dogo Baldu was killed by Aleru’s men alongside several of his fighters.\n\nReports from the area suggest the fighting was still ongoing as at this morning, raising concerns about further casualties as the two groups continue to battle each other.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112173438471119030",
+     "title": "GOOD NEWS: Yesterday evening, troops of Operation FANSAN YAMMA rescued a kidnapped resident, recovered 18 stolen cattle and arrested four su",
+     "description": "GOOD NEWS: Yesterday evening, troops of Operation FANSAN YAMMA rescued a kidnapped resident, recovered 18 stolen cattle and arrested four suspected drug peddlers in separate operations in Kebbi State.\n\nIn Rambo Village, Danko-Wasagu LGA, troops working alongside local vigilantes responded to a distress call, engaged the terrorists in a gunfight and rescued 40-year-old Suleiman Maiyaki Ikara. The 18 recovered cattle were also handed over to the district head.\n\nIn a separate operation with the NDLEA, troops arrested four suspected drug peddlers in Dakin Kowa, Karaye and Gubba communities in Maiyama LGA, recovering suspected illicit drugs.\n\nKudos to the troops of Operation FANSAN YAMMA and the local vigilantes for their swift response and efforts to protect lives and property.",
+     "snippet": "GOOD NEWS: Yesterday evening, troops of Operation FANSAN YAMMA rescued a kidnapped resident, recovered 18 stolen cattle and arrested four suspected drug peddlers in separate operations in Kebbi State.\n\nIn Rambo Village, Danko-Wasagu LGA, troops working alongside local vigilantes responded to a distress call, engaged the terrorists in a gunfight and rescued 40-year-old Suleiman Maiyaki Ikara. The 18 recovered cattle were also handed over to the district head.\n\nIn a separate operation with the NDLEA, troops arrested four suspected drug peddlers in Dakin Kowa, Karaye and Gubba communities in Maiyama LGA, recovering suspected illicit drugs.\n\nKudos to the troops of Operation FANSAN YAMMA and the local vigilantes for their swift response and efforts to protect lives and property.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112248213050663047",
+     "title": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.",
+     "description": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "snippet": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112314103784259771",
+     "title": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State.",
+     "description": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "snippet": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2111899908991279579",
+     "title": "BREAKING: Today, youths in Gwashi, Bukkuyum LGA of Zamfara State, chased Deputy Governor Mani Malam Mummuni and his entourage during a visit",
+     "description": "BREAKING: Today, youths in Gwashi, Bukkuyum LGA of Zamfara State, chased Deputy Governor Mani Malam Mummuni and his entourage during a visit to commiserate with the community over bandit attacks and aid victims.\n\nThe youths, angered by the continued atrocities in Gwashi and neighbouring communities, reportedly protested the persistent insecurity. His security personnel also fled and leave their vehicle behind as tensions escalated.\n\nPhotos of the incident are also in the comment section.\n\nThe incident reflects the growing frustration of residents who continue to live in fear of bandit attacks.\n\nNB: Below is the short video of the incident",
+     "snippet": "BREAKING: Today, youths in Gwashi, Bukkuyum LGA of Zamfara State, chased Deputy Governor Mani Malam Mummuni and his entourage during a visit to commiserate with the community over bandit attacks and aid victims.\n\nThe youths, angered by the continued atrocities in Gwashi and neighbouring communities, reportedly protested the persistent insecurity. His security personnel also fled and leave their vehicle behind as tensions escalated.\n\nPhotos of the incident are also in the comment section.\n\nThe incident reflects the growing frustration of residents who continue to live in fear of bandit attacks.\n\nNB: Below is the short video of the incident",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/NgrImpact/status/2111853693049950671",
+     "title": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives Bandits on Saturday evening",
+     "description": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "snippet": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Impact_Ngr",
+     "handle": "@NgrImpact"
+    },
+    {
+     "url": "https://x.com/lsiafrica/status/2112312083786137993",
+     "title": "🚨Nigeria 🇳🇬: l’armée de l’air nigériane a mené, le 19 octobre 2026, une frappe contre une position du groupe djihadiste État islamique en Af",
+     "description": "🚨Nigeria 🇳🇬: l’armée de l’air nigériane a mené, le 19 octobre 2026, une frappe contre une position du groupe djihadiste État islamique en Afrique de l’Ouest (ISWAP), dans la région du lac Tchad. Selon les informations communiquées, plusieurs cadres de l’organisation ont été tués, notamment Jindullah, chargé de la sécurité et proche d’Abu Saleem, ainsi qu’Abul Kissa, membre du conseil consultatif de l’ISWAP.",
+     "snippet": "🚨Nigeria 🇳🇬: l’armée de l’air nigériane a mené, le 19 octobre 2026, une frappe contre une position du groupe djihadiste État islamique en Afrique de l’Ouest (ISWAP), dans la région du lac Tchad. Selon les informations communiquées, plusieurs cadres de l’organisation ont été tués, notamment Jindullah, chargé de la sécurité et proche d’Abu Saleem, ainsi qu’Abul Kissa, membre du conseil consultatif de l’ISWAP.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "LSI AFRICA",
+     "handle": "@lsiafrica"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2112292299648405952",
+     "title": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "description": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "snippet": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    }
+   ]
+  }
+ ]
+}

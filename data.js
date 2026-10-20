@@ -268,10 +268,10 @@ window.SITE_DATA = {
    "summary": "Kano-based entertainer, Jamilu Garko, has rejected his appointment to Governor Abba Kabir Yusuf’s campaign council, stating he was not consulted first. Read More: https://punchng.com/kano-entertainer-rejects-yusufs-campaign-council-appointment/",
    "summary_zh": "卡诺的艺人贾米卢·加尔科拒绝了对他进入州长阿巴·卡比尔·优素福竞选委员会的任命，称事先没有征求他的意见。阅读更多：https://punchng.com/kano-entertainer-rejects-yusufs-campaign-council-appointment/",
    "summarySource": "fulltext",
-   "body": "Kano-based entertainer, Jamilu Garko, has rejected his appointment to Governor Abba Kabir Yusuf’s campaign council, stating he was not consulted first. Read More: https://punchng.com/kano-entertainer-rejects-yusufs-campaign-council-appointment/",
-   "bodyLevel": "excerpt",
+   "body": "Account subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription MBBS and BDS interns stage a protest demanding an increase in their monthly stipend in Jammu on Tuesday. Hundreds of medical interns at government-run hospitals in Jammu and Kashmir went on strike on Tuesday (October 20, 2026) over the government’s alleged failure to implement a promised stipend hike, despite a written assurance a month ago. They also alleged that officials had attempted to “intimidate the protesters”. The interns resumed their strike a day after talks between their representatives and the government failed to resolve their demand to raise the monthly stipend from ₹12,300 to ₹30,000. The meeting was held with the Officer on Special Duty (OSD) to Health Minister Sakina Masood Itoo and the Director-General of Finance. “We have seen ‘approvals’ and ‘assurances’ before. This time, J&K MBBS (Bachelor of Medicine and Bachelor of Surgery) and BDS interns will not call off the strike on verbal claims or media reports. We will end our agitation only after the official government order is issued and implemented immediately,” Mohammad Tasadduk Kawser, joint secretary of the Jammu and Kashmir chapter of the All India Medical Students Association, said in a post on X. “Instead of a concrete resolution, we were met with humiliating remarks. The OSD reportedly told us that the government was doing us a favour by providing free medical education. Since when has public expenditure become anyone’s personal charity? The money belongs to the taxpayers of J&K, not to Ministers or bureaucrats,” said Mr. Kawser. In September, Ms. Itoo had asked the protesting interns to call off their strike and assured them that their demands would be looked into within a month. “Thirty days of written assurance, another week of waiting, repeated meetings—and still no implementation order. Calling doctors beneficiaries of government generosity while dismissing their legitimate concerns is an insult to the entire medical profession. If the government cannot fulfil its commitments, it must take responsibility for the consequences of its continued inaction. We will not trade our dignity for another hollow assurance,” said Mr. Kawser. Meanwhile, MBBS and BDS interns staged protests at all government-run medical colleges across Jammu and Kashmir. Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments. We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle",
+   "bodyLevel": "fulltext",
    "country": [
-    "ng"
+    "in"
    ],
    "topic": [
     "pol"
@@ -283,9 +283,9 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "score": 0.6,
-   "tag": "rss_punchng",
-   "title_zh": "卡诺艺人拒绝优素福的竞选委员会任命",
-   "body_zh": "卡诺的艺人贾米卢·加尔科拒绝了对他进入州长阿巴·卡比尔·优素福竞选委员会的任命，称事先没有征求他的意见。阅读更多：https://punchng.com/kano-entertainer-rejects-yusufs-campaign-council-appointment/"
+   "tag": "rss_thehindu",
+   "title_zh": "医学实习生在查谟和克什米尔邦政府医院恢复罢工，要求提高津贴",
+   "body_zh": "订阅账户福利以及 Premium Stories、Editorials、Opinions 等内容。通过订阅解锁这些内容。MBBS 和 BDS 实习生举行抗议，要求增加他们的月度津贴，周二在查谟发生。数百名在查谟和克什米尔政府运营医院工作的医科实习生于周二（2026 年 10 月 20 日）举行罢工，原因是政府据称未能兑现承诺的津贴上调，尽管一个月前曾作出书面保证。他们还指称官员试图“恐吓抗议者”。实习生在他们的代表与政府之间的会谈未能解决将月度津贴从 ₹12,300 提高到 ₹30,000 的要求后一天恢复了罢工。会议是与卫生部长 Sakina Masood Itoo 的特别职务官员（OSD）和财务总监举行的。“我们以前见过‘批准’和‘保证’。这一次，J&K MBBS（医学学士和外科学士）和 BDS 实习生不会因为口头声明或媒体报道而取消罢工。我们只有在官方政府命令发布并立即执行后才会结束我们的抗议，”全印度医学生协会查谟和克什米尔分会的联合秘书 Mohammad Tasadduk Kawser 在 X 上的一篇帖子中说。“我们没有得到具体解决方案，而是遇到了羞辱性的言论。据称 OSD 告诉我们，政府为我们提供免费医学教育是在帮我们的忙。公共支出什么时候变成了任何人的个人慈善？这些钱属于 J&K 的纳税人，而不是部长或官僚，”Kawser 先生说。9 月份，Itoo 女士曾要求抗议的实习生取消罢工，并向他们保证他们的要求将在一个月内得到研究。“三十天的书面保证，又一个星期的等待，反复的会议——仍然没有执行命令。将医生称为政府慷慨的受益者，同时驳回他们合理的关切，是对整个医学专业的侮辱。如果政府无法履行其承诺，它必须为其持续不作为的后果承担责任。我们不会用我们的尊严去换取另一个空洞的保证，”Kawser 先生说。与此同时，MBBS 和 BDS 实习生在查谟和克什米尔所有政府运营的医学院举行了抗议。评论必须用英语，并使用完整的句子。它们不能是辱骂性的或针对个人的。请遵守我们的社区准则来发布您的评论。我们已迁移到一个新的评论平台。如果您已经是 The Hindu 的注册用户并已登录，您可以继续与我们的文章互动。如果您没有账户，请注册并登录以发布评论。用户可以通过登录他们在 Vuukle 上的账户来访问他们以前的评论。"
   },
   {
    "title": "US envoys Witkoff, Kushner to take part in Ukraine talks in Oslo: Norway",
@@ -4858,6 +4858,35 @@ window.SITE_DATA = {
    "terrHit": false
   },
   {
+   "title": "U.S. Signs a Mining Agreement with Nigeria",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/u-s-signs-a-mining-agreement-with-nigeria",
+   "domain": "instituteforenergyresearch.org",
+   "source": "instituteforenergyresearch.org",
+   "published": "Mon, 19 Oct 2026 21:00:00 GMT",
+   "_dt": 1792443600.0,
+   "ageDays": 0.64,
+   "summary": "据 instituteforenergyresearch.org 报道：U.S. Signs a Mining Agreement with Nigeria。该来源未开放正文与摘要，点击下方原文可查看完整内容。",
+   "summary_zh": "据 instituteforenergyresearch.org 报道：美国与尼日利亚签署采矿协议。该来源未开放正文与摘要，点击下方原文可查看完整内容。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "min"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_kr",
+   "title_zh": "美国与尼日利亚签署采矿协议"
+  },
+  {
    "title": "Why the US embassy is 'concerned' over China's Manila",
    "url": "https://www.rappler.com/philippines/why-united-states-embassy-concerned-china-company-manila-bay-reclamation-project",
    "domain": "rappler.com",
@@ -7721,6 +7750,74 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "3. TRUMP WAIVES GRAHAM ACT TARIFFS AS TRILATERAL ENERGY DIPLOMACY PAUSES SANCTIONS Washington suspended secondary tariffs under the Graham A",
+   "url": "https://x.com/Shipsnapxx/status/2112326485118009368",
+   "snippet": "3. TRUMP WAIVES GRAHAM ACT TARIFFS AS TRILATERAL ENERGY DIPLOMACY PAUSES SANCTIONS\n\nWashington suspended secondary tariffs under the Graham Act, waiving duties up to 100% on major Russian energy buyers, including China and India. The move follows trilateral energy negotiations between Washington, Moscow, and Beijing, facilitating a 300,000-ton Russian diesel export release alongside an energy infrastructure ceasefire. However, Black Sea transit risks persist: Russian Geran-3 drone strikes damaged bulk grain ships near Danube anchorages, prompting NATO counter-drone requests while underwriters hold war-risk surcharges at 2% of hull value.",
+   "body": "3. TRUMP WAIVES GRAHAM ACT TARIFFS AS TRILATERAL ENERGY DIPLOMACY PAUSES SANCTIONS\n\nWashington suspended secondary tariffs under the Graham Act, waiving duties up to 100% on major Russian energy buyers, including China and India. The move follows trilateral energy negotiations between Washington, Moscow, and Beijing, facilitating a 300,000-ton Russian diesel export release alongside an energy infrastructure ceasefire. However, Black Sea transit risks persist: Russian Geran-3 drone strikes damaged bulk grain ships near Danube anchorages, prompting NATO counter-drone requests while underwriters hold war-risk surcharges at 2% of hull value.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@Shipsnapxx",
+   "country": [
+    "ru",
+    "in"
+   ],
+   "topic": [
+    "pol",
+    "ene"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": true,
+   "cnHit": true,
+   "usHit": true,
+   "terrHit": false,
+   "ageDays": 0.53,
+   "_ts": 1792452853.837,
+   "postedAt": "2026-10-20 07:34",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ru",
+   "title_zh": "3. 特朗普豁免格雷厄姆法案关税，三边能源外交暂停制裁 华盛顿暂停了格雷厄姆法案下的二级关税",
+   "snippet_zh": "3. 特朗普暂停格雷厄姆法案关税 三边能源外交暂停制裁\n\n华盛顿暂停了格雷厄姆法案下的二级关税，免除了对包括中国和印度在内的主要俄罗斯能源买家高达100%的关税。此举是在华盛顿、莫斯科和北京之间的三边能源谈判之后进行的，促进了30万吨俄罗斯柴油出口的放行，同时达成了能源基础设施停火协议。然而，黑海过境风险依然存在：俄罗斯Geran-3无人机袭击在多瑙河锚地附近损坏了散装谷物船只，促使北约提出反无人机请求，而保险商将战争风险附加费维持在船体价值的2%。",
+   "body_zh": "3. 特朗普暂停格雷厄姆法案关税 三边能源外交暂停制裁\n\n华盛顿暂停了格雷厄姆法案下的二级关税，免除了对包括中国和印度在内的主要俄罗斯能源买家高达100%的关税。此举是在华盛顿、莫斯科和北京之间的三边能源谈判之后进行的，促进了30万吨俄罗斯柴油出口的放行，同时达成了能源基础设施停火协议。然而，黑海过境风险依然存在：俄罗斯Geran-3无人机袭击在多瑙河锚地附近损坏了散装谷物船只，促使北约提出反无人机请求，而保险商将战争风险附加费维持在船体价值的2%。"
+  },
+  {
+   "platform": "x",
+   "title": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria.",
+   "url": "https://x.com/BreikaBeiba/status/2111431770902073548",
+   "snippet": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria. \n\n#SaharaOccidental #WesternSahara \nSahara Occidental / Western Sahara \n#SaharaMarocain #IngérenceÄlgérienne…depuis 1975! \n\n#الصحراء_الغربية 🇲🇦 \n#UNGA #UNGA81 #AGNU #AGNU81 \n#HRC63 #CDH63\n#UN #ONU #UNSC #UNSG",
+   "body": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria. \n\n#SaharaOccidental #WesternSahara \nSahara Occidental / Western Sahara \n#SaharaMarocain #IngérenceÄlgérienne…depuis 1975! \n\n#الصحراء_الغربية 🇲🇦 \n#UNGA #UNGA81 #AGNU #AGNU81 \n#HRC63 #CDH63\n#UN #ONU #UNSC #UNSG",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@BreikaBeiba",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 3.0,
+   "_ts": 1792239537.345,
+   "postedAt": "2026-10-17 20:18",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_corridor",
+   "title_zh": "关于摩洛哥-尼日利亚天然气管道项目严肃、可信且现实的情况需要了解什么。",
+   "snippet_zh": "关于摩洛哥-尼日利亚天然气管道项目严肃、可信且现实的情况需要了解什么。\n\n#SaharaOccidental #WesternSahara\n撒哈拉西部 / Western Sahara\n#SaharaMarocain #IngérenceÄlgérienne…自1975年以来！\n\n#الصحراء_الغربية 🇲🇦\n#UNGA #UNGA81 #AGNU #AGNU81\n#HRC63 #CDH63\n#UN #ONU #UNSC #UNSG",
+   "body_zh": "关于摩洛哥-尼日利亚天然气管道项目严肃、可信且现实的情况需要了解什么。\n\n#SaharaOccidental #WesternSahara\n撒哈拉西部 / Western Sahara\n#SaharaMarocain #IngérenceÄlgérienne…自1975年以来！\n\n#الصحراء_الغربية 🇲🇦\n#UNGA #UNGA81 #AGNU #AGNU81\n#HRC63 #CDH63\n#UN #ONU #UNSC #UNSG"
+  },
+  {
+   "platform": "x",
    "title": "Per CREA for September 2026, the EU bought EUR 1.7 bn in Russian fossil fuels (third-largest after China and India), mainly pipeline gas (EU",
    "url": "https://x.com/grok/status/2112322847150424158",
    "snippet": "Per CREA for September 2026, the EU bought EUR 1.7 bn in Russian fossil fuels (third-largest after China and India), mainly pipeline gas (EUR 817 mn) and LNG (EUR 615 mn), plus EUR 290 mn crude via Druzhba. \n\nTrump announced a deal for Russia to supply over 300k tons of diesel immediately, plus 500k in November, 1 mn thereafter, and potentially 3 mn more (up to ~4.8 mn tons total), with a temporary sanctions waiver until April 2027.",
@@ -8389,6 +8486,39 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "China cites non-existent Tibetan refugee threats to refuse reopening Nepal border trade post",
+   "url": "https://x.com/BAFoTTibet/status/2112264600477675740",
+   "snippet": "China cites non-existent Tibetan refugee threats to refuse reopening Nepal border trade post https://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/ via @Tibetan Review",
+   "body": "China cites non-existent Tibetan refugee threats to refuse reopening Nepal border trade post https://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/ via @Tibetan Review",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@BAFoTTibet",
+   "country": [
+    "np"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.7,
+   "_ts": 1792438099.389,
+   "postedAt": "2026-10-20 03:28",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_np",
+   "title_zh": "中国以不存在的西藏难民威胁为由拒绝重新开放尼泊尔边境贸易站",
+   "snippet_zh": "中国以不存在的西藏难民威胁为由拒绝重新开放尼泊尔边境贸易站 https://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/ via @Tibetan Review",
+   "body_zh": "中国以不存在的西藏难民威胁为由拒绝重新开放尼泊尔边境贸易站 https://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/ via @Tibetan Review"
+  },
+  {
+   "platform": "x",
    "title": "Nigerian Troops Working with Vigilantes Rescued a 40-Year-Old Kidnapped Resident after a Firefight with #Bandits at Rambo Village, Danko-Was",
    "url": "https://x.com/TracTerrorism/status/2112262747945877995",
    "snippet": "Nigerian Troops Working with Vigilantes Rescued a 40-Year-Old Kidnapped Resident after a Firefight with #Bandits at Rambo Village, Danko-Wasagu LGA, #Kebbi State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/nigerian-troops-working-with-vigilantes-trac/",
@@ -8519,6 +8649,39 @@ window.SITE_DATA = {
    "title_zh": "马里：Jinko ESS宣布为电信提供34个储能系统，即18 MWh。",
    "snippet_zh": "马里：Jinko ESS宣布34个储能系统，即18 MWh，用于电信。关键在于：减少对柴油的依赖。地点和时间表仍有待明确。\n\n#Mali #Batteries\nhttps://ornoir.africa/mali-jinko-ess-fournira-18-mwh-de-batteries-pour-les-telecommunications/",
    "body_zh": "马里：Jinko ESS宣布34个储能系统，即18 MWh，用于电信。关键在于：减少对柴油的依赖。地点和时间表仍有待明确。\n\n#Mali #Batteries\nhttps://ornoir.africa/mali-jinko-ess-fournira-18-mwh-de-batteries-pour-les-telecommunications/"
+  },
+  {
+   "platform": "x",
+   "title": "China is putting pressure on Putin.",
+   "url": "https://x.com/Russie__France/status/2112250509386301947",
+   "snippet": "China is putting pressure on Putin. He brought this on himself. Chinese industry will receive very cheap natural gas, at a 56 percent discount.",
+   "body": "China is putting pressure on Putin. He brought this on himself. Chinese industry will receive very cheap natural gas, at a 56 percent discount.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@Russie__France",
+   "country": [
+    "ru"
+   ],
+   "topic": [
+    "ene"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.74,
+   "_ts": 1792434739.811,
+   "postedAt": "2026-10-20 02:32",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ru",
+   "title_zh": "中国正在向普京施压。",
+   "snippet_zh": "中国正在向普京施压。他自己招致了这一切。中国工业将获得非常廉价的天然气，折扣达56%。",
+   "body_zh": "中国正在向普京施压。他自己招致了这一切。中国工业将获得非常廉价的天然气，折扣达56%。"
   },
   {
    "platform": "x",
@@ -8721,6 +8884,40 @@ window.SITE_DATA = {
    "title_zh": ". 中国喷气燃料炼厂绕过制裁，缅甸血木材流向中国，以及更多 缅甸军政府已重启",
    "snippet_zh": "中国喷气燃料炼油厂绕过制裁、缅甸血木材流向中国，以及更多\n缅甸军政府已重新启动仰光附近的 Thanlyin No.1 炼油厂，使其能够绕过喷气燃料制裁并维持对平民人口的致命空袭。\n据 Nikkei Asia 报道，第一阶段设计为每年生产 150,000 公吨喷气燃料，大致等于缅甸去年的进口量。",
    "body_zh": "中国喷气燃料炼油厂绕过制裁、缅甸血木材流向中国，以及更多\n缅甸军政府已重新启动仰光附近的 Thanlyin No.1 炼油厂，使其能够绕过喷气燃料制裁并维持对平民人口的致命空袭。\n据 Nikkei Asia 报道，第一阶段设计为每年生产 150,000 公吨喷气燃料，大致等于缅甸去年的进口量。"
+  },
+  {
+   "platform": "x",
+   "title": "🚨 #BREAKING China has imposed export restrictions on tunnel-boring machines sought by India, citing national security concerns.",
+   "url": "https://x.com/thegeo_sync/status/2112233825350943146",
+   "snippet": "🚨 #BREAKING \n\nChina has imposed export restrictions on tunnel-boring machines sought by India, citing national security concerns. The restrictions will take effect on November 18.\n\nThe move could impact India’s major infrastructure projects, including metro networks, railway lines and strategic border tunnels. India relies partly on imported machines, and sourcing them from China has already faced delays.\n\nThe restrictions could create further challenges for India’s infrastructure push.",
+   "body": "🚨 #BREAKING \n\nChina has imposed export restrictions on tunnel-boring machines sought by India, citing national security concerns. The restrictions will take effect on November 18.\n\nThe move could impact India’s major infrastructure projects, including metro networks, railway lines and strategic border tunnels. India relies partly on imported machines, and sourcing them from China has already faced delays.\n\nThe restrictions could create further challenges for India’s infrastructure push.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@thegeo_sync",
+   "country": [
+    "in"
+   ],
+   "topic": [
+    "sec",
+    "eco"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.79,
+   "_ts": 1792430762.027,
+   "postedAt": "2026-10-20 01:26",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_in",
+   "title_zh": "🚨 #BREAKING 中国已对印度寻求的隧道掘进机实施出口限制，理由是国家安全担忧。",
+   "snippet_zh": "🚨 #BREAKING \n\n中国已对印度寻求的隧道掘进机实施出口限制，理由是国家安全问题。该限制将于11月18日生效。\n\n此举可能影响印度的主要基础设施项目，包括地铁网络、铁路线和战略边境隧道。印度部分依赖进口机器，从中国采购这些机器已经面临延误。\n\n这些限制可能为印度的基础设施推进带来进一步挑战。",
+   "body_zh": "🚨 #BREAKING \n\n中国已对印度寻求的隧道掘进机实施出口限制，理由是国家安全问题。该限制将于11月18日生效。\n\n此举可能影响印度的主要基础设施项目，包括地铁网络、铁路线和战略边境隧道。印度部分依赖进口机器，从中国采购这些机器已经面临延误。\n\n这些限制可能为印度的基础设施推进带来进一步挑战。"
   },
   {
    "platform": "x",
@@ -9469,6 +9666,40 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "China trials its export controls on India bc it's a market where blowback is limited.",
+   "url": "https://x.com/Satvik_Pen/status/2112192250121744505",
+   "snippet": "China trials its export controls on India bc it's a market where blowback is limited. Then if it seems to work there, it can expand it further.\n\nWe're seeing TBM controls expand now, but in future expect to see restrictions on Chinese personnel going abroad to train factories",
+   "body": "China trials its export controls on India bc it's a market where blowback is limited. Then if it seems to work there, it can expand it further.\n\nWe're seeing TBM controls expand now, but in future expect to see restrictions on Chinese personnel going abroad to train factories",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@Satvik_Pen",
+   "country": [
+    "in"
+   ],
+   "topic": [
+    "eco",
+    "cor"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.9,
+   "_ts": 1792420849.72,
+   "postedAt": "2026-10-19 22:40",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_in",
+   "title_zh": "中国对印度试行出口管制，因为这是一个反噬有限的市场。",
+   "snippet_zh": "中国在印度试行出口管制，因为这是一个反击有限的市场。然后如果在那里似乎有效，它就可以进一步扩大。我们现在看到TBM管制在扩大，但未来预计会看到对中国人员出国培训工厂的限制",
+   "body_zh": "中国在印度试行出口管制，因为这是一个反击有限的市场。然后如果在那里似乎有效，它就可以进一步扩大。我们现在看到TBM管制在扩大，但未来预计会看到对中国人员出国培训工厂的限制"
+  },
+  {
+   "platform": "x",
    "title": "India’s Zorawar light tank faces a crucial design dilemma as the Army seeks stronger armour without compromising the speed and agility neede",
    "url": "https://x.com/ITGGlobal/status/2112191981355184474",
    "snippet": "India’s Zorawar light tank faces a crucial design dilemma as the Army seeks stronger armour without compromising the speed and agility needed along the China border.\n\nDeveloped for high-altitude warfare after the 2020 Ladakh standoff, the tank could gain weight, require a more powerful engine and face delays if protection upgrades go ahead.\n\nWith China’s Type 15 offering a key comparison, can India strengthen Zorawar’s survivability without sacrificing its biggest advantage, mobility?\n\nWatch: https://t.co/MEWZcSLKDG\n\n#DragonDiaries #Zorawar #IndianArmy #China #IndiaTodayGlobal\n\n@JournoPranay",
@@ -9874,6 +10105,73 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam Leading media publications have cover",
+   "url": "https://x.com/vocpa_tuticorin/status/2112173611398398006",
+   "snippet": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam\n\nLeading media publications have covered V.O. Chidambaranar Port Authority’s latest milestone in strengthening maritime connectivity with South China and Vietnam, highlighting the arrival of the mainline container vessel M.V. Nawata Bhum at Dakshin Bharat Gateway Terminal (DBGT) on 18 October 2026.\n\nOperated by Regional Container Line (RCL), the Singapore-flagged vessel has a container capacity of approximately 1,100 TEUs. The new shipping service offers transit times of 13 days from Qinzhou, China, and 12 days from Haiphong, Vietnam, to Thoothukudi.\n\nConnecting Qinzhou, Haiphong, Thoothukudi, Kattupalli and Chu Lai, the service expands shipping options and creates new trade opportunities for exporters, importers and industries across southern Tamil Nadu.",
+   "body": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam\n\nLeading media publications have covered V.O. Chidambaranar Port Authority’s latest milestone in strengthening maritime connectivity with South China and Vietnam, highlighting the arrival of the mainline container vessel M.V. Nawata Bhum at Dakshin Bharat Gateway Terminal (DBGT) on 18 October 2026.\n\nOperated by Regional Container Line (RCL), the Singapore-flagged vessel has a container capacity of approximately 1,100 TEUs. The new shipping service offers transit times of 13 days from Qinzhou, China, and 12 days from Haiphong, Vietnam, to Thoothukudi.\n\nConnecting Qinzhou, Haiphong, Thoothukudi, Kattupalli and Chu Lai, the service expands shipping options and creates new trade opportunities for exporters, importers and industries across southern Tamil Nadu.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@vocpa_tuticorin",
+   "country": [
+    "vn"
+   ],
+   "topic": [
+    "cor",
+    "eco"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.95,
+   "_ts": 1792416405.902,
+   "postedAt": "2026-10-19 21:26",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_vn",
+   "title_zh": "VOC港口新闻 | VOC港口接收干线船舶，提升与中国南方和越南的连通性 主要媒体出版物已报道",
+   "snippet_zh": "VOC 港口新闻 | VOC 港口接收干线船舶，提升与中国南方和越南的连通性\n\n主流媒体刊物报道了 V.O. Chidambaranar 港口管理局在加强与中国南方和越南海上连通性方面的最新里程碑，重点介绍了 2026 年 10 月 18 日主线集装箱船 M.V. Nawata Bhum 抵达 Dakshin Bharat Gateway Terminal (DBGT)。\n\n该船由 Regional Container Line (RCL) 运营，悬挂新加坡国旗，集装箱容量约为 1,100 TEU。新航运服务从中国钦州出发的过境时间为 13 天，从越南海防出发为 12 天，至图图科林。\n\n连接钦州、海防、图图科林、Kattupalli 和 Chu Lai，该服务扩大了航运选择，并为南泰米尔纳德邦的出口商、进口商和工业创造了新的贸易机会。",
+   "body_zh": "VOC 港口新闻 | VOC 港口接收干线船舶，提升与中国南方和越南的连通性\n\n主流媒体刊物报道了 V.O. Chidambaranar 港口管理局在加强与中国南方和越南海上连通性方面的最新里程碑，重点介绍了 2026 年 10 月 18 日主线集装箱船 M.V. Nawata Bhum 抵达 Dakshin Bharat Gateway Terminal (DBGT)。\n\n该船由 Regional Container Line (RCL) 运营，悬挂新加坡国旗，集装箱容量约为 1,100 TEU。新航运服务从中国钦州出发的过境时间为 13 天，从越南海防出发为 12 天，至图图科林。\n\n连接钦州、海防、图图科林、Kattupalli 和 Chu Lai，该服务扩大了航运选择，并为南泰米尔纳德邦的出口商、进口商和工业创造了新的贸易机会。"
+  },
+  {
+   "platform": "x",
+   "title": "GOOD NEWS: Yesterday evening, troops of Operation FANSAN YAMMA rescued a kidnapped resident, recovered 18 stolen cattle and arrested four su",
+   "url": "https://x.com/DanKatsina50/status/2112173438471119030",
+   "snippet": "GOOD NEWS: Yesterday evening, troops of Operation FANSAN YAMMA rescued a kidnapped resident, recovered 18 stolen cattle and arrested four suspected drug peddlers in separate operations in Kebbi State.\n\nIn Rambo Village, Danko-Wasagu LGA, troops working alongside local vigilantes responded to a distress call, engaged the terrorists in a gunfight and rescued 40-year-old Suleiman Maiyaki Ikara. The 18 recovered cattle were also handed over to the district head.\n\nIn a separate operation with the NDLEA, troops arrested four suspected drug peddlers in Dakin Kowa, Karaye and Gubba communities in Maiyama LGA, recovering suspected illicit drugs.\n\nKudos to the troops of Operation FANSAN YAMMA and the local vigilantes for their swift response and efforts to protect lives and property.",
+   "body": "GOOD NEWS: Yesterday evening, troops of Operation FANSAN YAMMA rescued a kidnapped resident, recovered 18 stolen cattle and arrested four suspected drug peddlers in separate operations in Kebbi State.\n\nIn Rambo Village, Danko-Wasagu LGA, troops working alongside local vigilantes responded to a distress call, engaged the terrorists in a gunfight and rescued 40-year-old Suleiman Maiyaki Ikara. The 18 recovered cattle were also handed over to the district head.\n\nIn a separate operation with the NDLEA, troops arrested four suspected drug peddlers in Dakin Kowa, Karaye and Gubba communities in Maiyama LGA, recovering suspected illicit drugs.\n\nKudos to the troops of Operation FANSAN YAMMA and the local vigilantes for their swift response and efforts to protect lives and property.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@DanKatsina50",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.95,
+   "_ts": 1792416364.673,
+   "postedAt": "2026-10-19 21:26",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_ter_ng",
+   "title_zh": "好消息：昨晚，FANSAN YAMMA 行动的部队解救了一名被绑架的居民，追回 18 头被盗牛并逮捕了四名嫌疑人",
+   "snippet_zh": "好消息：昨天晚上，FANSAN YAMMA行动的部队解救了一名被绑架的居民，追回18头被盗牛，并在凯比州分别开展的行动中逮捕了四名涉嫌贩毒者。\n\n在Danko-Wasagu地方政府的Rambo村，与当地治安队协同作战的部队响应求救电话，与恐怖分子交火，解救了40岁的Suleiman Maiyaki Ikara。追回的18头牛也移交给了区长。\n\n在与NDLEA的另一次行动中，部队在Maiyama地方政府的Dakin Kowa、Karaye和Gubba社区逮捕了四名涉嫌贩毒者，缴获了疑似非法毒品。\n\n赞扬FANSAN YAMMA行动的部队和当地治安队，他们迅速响应并努力保护生命和财产。",
+   "body_zh": "好消息：昨天晚上，FANSAN YAMMA行动的部队解救了一名被绑架的居民，追回18头被盗牛，并在凯比州分别开展的行动中逮捕了四名涉嫌贩毒者。\n\n在Danko-Wasagu地方政府的Rambo村，与当地治安队协同作战的部队响应求救电话，与恐怖分子交火，解救了40岁的Suleiman Maiyaki Ikara。追回的18头牛也移交给了区长。\n\n在与NDLEA的另一次行动中，部队在Maiyama地方政府的Dakin Kowa、Karaye和Gubba社区逮捕了四名涉嫌贩毒者，缴获了疑似非法毒品。\n\n赞扬FANSAN YAMMA行动的部队和当地治安队，他们迅速响应并努力保护生命和财产。"
+  },
+  {
+   "platform": "x",
    "title": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à",
    "url": "https://x.com/CurrentTre/status/2112173367390253546",
    "snippet": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à Tabrichat, dans la région de Gao, après l’attaque d’un convoi militaire en juillet dernier.",
@@ -9937,6 +10235,74 @@ window.SITE_DATA = {
    "title_zh": "🇲🇱 #信息 #马里 #紧急 🇲🇱 10月18日至19日夜间，#支持伊斯兰与穆斯林组织 声称完全控制了马里军队在马马索尼区的总部",
    "snippet_zh": "🇲🇱 #信息 #马里 #紧急 🇲🇱\n\n10月18日至19日夜间，#JNIM声称完全控制了#锡卡索地区锡卡索市马马索尼区的马里军队总部。",
    "body_zh": "🇲🇱 #信息 #马里 #紧急 🇲🇱\n\n10月18日至19日夜间，#JNIM声称完全控制了#锡卡索地区锡卡索市马马索尼区的马里军队总部。"
+  },
+  {
+   "platform": "x",
+   "title": "China's tunnel boring machine export controls been in effect wrt India.",
+   "url": "https://x.com/tanvi_madan/status/2112167892485804374",
+   "snippet": "China's tunnel boring machine export controls been in effect wrt India. This seems to make it more explicit (Tho TBMs also used for mining so maybe targeted wider too)\n\nGerman co. trying to get those to India said they'd explore manufacturing more there; dunno re status of that",
+   "body": "China's tunnel boring machine export controls been in effect wrt India. This seems to make it more explicit (Tho TBMs also used for mining so maybe targeted wider too)\n\nGerman co. trying to get those to India said they'd explore manufacturing more there; dunno re status of that",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@tanvi_madan",
+   "country": [
+    "in"
+   ],
+   "topic": [
+    "eco",
+    "min"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.97,
+   "_ts": 1792415042.407,
+   "postedAt": "2026-10-19 21:04",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_in",
+   "title_zh": "中国的隧道掘进机出口管制已对印度生效。",
+   "snippet_zh": "中国的隧道掘进机出口管制已经对印度生效。这似乎使其更加明确（尽管隧道掘进机也用于采矿，因此可能针对范围更广）\n\n试图将这些设备运往印度的德国公司表示，他们将探索在当地更多地进行制造；不知道该计划的现状如何",
+   "body_zh": "中国的隧道掘进机出口管制已经对印度生效。这似乎使其更加明确（尽管隧道掘进机也用于采矿，因此可能针对范围更广）\n\n试图将这些设备运往印度的德国公司表示，他们将探索在当地更多地进行制造；不知道该计划的现状如何"
+  },
+  {
+   "platform": "x",
+   "title": "China announces export controls for tunnel boring machines (TBMs)",
+   "url": "https://x.com/prasannavishy/status/2112161556322767307",
+   "snippet": "China announces export controls for tunnel boring machines (TBMs)\n\nFrom Nov 18, exporting TBMs will require a licence. These are the machines fuelling India’s infrastructurebooming especially metros and highway tunnels. \n\nBeijing is classifying them as “dual-use” items, which gives the move a security label, but in effect it is economic coercion. \n\nThis has happened before. In 2024, China began delaying customs clearances for TBM shipments to India, and in August 2025 it told India it had lifted the curbs on TBMs. With this licence rule, the delays become a formal mechanism that Beijing can tighten or loosen whenever relations change.\n\nIndia’s dependence here is real, but it is narrower than it might look. TBM imports from China had already dropped sharply, from $18 million in 2022-23 to $3 million in 2023-24, and most self-propelled TBMs have come from outside China. The serious risk is deayed metro timelines and cost escalation if suppliers’ Chinese plants or components get stuck in licensing.\n\nIndia’s response has to be to make these machines itself, and that work has started. The government is preparing a $1.2 billion incentive scheme to make tunnel boring machines, firefighting equipment and elevators in India. It is expected to bring in about $1.8 billion in investment over seven years. \n\nBEML is preparing to manufacture TBMs locally, and L&T could also benefit. Building this capacity will take years, but each round of export controls from China makes the case for it stronger.",
+   "body": "China announces export controls for tunnel boring machines (TBMs)\n\nFrom Nov 18, exporting TBMs will require a licence. These are the machines fuelling India’s infrastructurebooming especially metros and highway tunnels. \n\nBeijing is classifying them as “dual-use” items, which gives the move a security label, but in effect it is economic coercion. \n\nThis has happened before. In 2024, China began delaying customs clearances for TBM shipments to India, and in August 2025 it told India it had lifted the curbs on TBMs. With this licence rule, the delays become a formal mechanism that Beijing can tighten or loosen whenever relations change.\n\nIndia’s dependence here is real, but it is narrower than it might look. TBM imports from China had already dropped sharply, from $18 million in 2022-23 to $3 million in 2023-24, and most self-propelled TBMs have come from outside China. The serious risk is deayed metro timelines and cost escalation if suppliers’ Chinese plants or components get stuck in licensing.\n\nIndia’s response has to be to make these machines itself, and that work has started. The government is preparing a $1.2 billion incentive scheme to make tunnel boring machines, firefighting equipment and elevators in India. It is expected to bring in about $1.8 billion in investment over seven years. \n\nBEML is preparing to manufacture TBMs locally, and L&T could also benefit. Building this capacity will take years, but each round of export controls from China makes the case for it stronger.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@prasannavishy",
+   "country": [
+    "in"
+   ],
+   "topic": [
+    "eco",
+    "sec"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.98,
+   "_ts": 1792413531.748,
+   "postedAt": "2026-10-19 20:38",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_in",
+   "title_zh": "中国宣布对隧道掘进机（TBM）实施出口管制",
+   "snippet_zh": "中国宣布对隧道掘进机（TBM）实施出口管制\n从11月18日起，出口TBM将需要许可证。这些机器正在推动印度的基础设施繁荣，特别是地铁和公路隧道。\n北京将其归类为“双重用途”物品，这给这一举措贴上了安全标签，但实际上是经济胁迫。\n这种情况以前发生过。2024年，中国开始延迟对印度的TBM出货清关，并在2025年8月告诉印度它已取消对TBM的限制。有了这项许可证规则，这些延迟成为北京可以根据关系变化随时收紧或放松的正式机制。\n印度在这方面的依赖是真实的，但比看起来要窄。从中国的TBM进口已经大幅下降，从2022-23年的1800万美元降至2023-24年的300万美元，而且大多数自推进TBM来自中国以外。严重风险是如果供应商的中国工厂或部件被卡在许可中，地铁时间表会延迟和成本上升。\n印度的回应必须是自己制造这些机器，这项工作已经开始。政府正在准备一项12亿美元的激励计划，在印度制造隧道掘进机、消防设备和电梯。预计将在七年内带来约18亿美元的投资。\nBEML正在准备本地制造TBM，L&T也可能受益。建立这种能力需要数年时间，但每一轮来自中国的出口管制都使这一理由更有力。",
+   "body_zh": "中国宣布对隧道掘进机（TBM）实施出口管制\n从11月18日起，出口TBM将需要许可证。这些机器正在推动印度的基础设施繁荣，特别是地铁和公路隧道。\n北京将其归类为“双重用途”物品，这给这一举措贴上了安全标签，但实际上是经济胁迫。\n这种情况以前发生过。2024年，中国开始延迟对印度的TBM出货清关，并在2025年8月告诉印度它已取消对TBM的限制。有了这项许可证规则，这些延迟成为北京可以根据关系变化随时收紧或放松的正式机制。\n印度在这方面的依赖是真实的，但比看起来要窄。从中国的TBM进口已经大幅下降，从2022-23年的1800万美元降至2023-24年的300万美元，而且大多数自推进TBM来自中国以外。严重风险是如果供应商的中国工厂或部件被卡在许可中，地铁时间表会延迟和成本上升。\n印度的回应必须是自己制造这些机器，这项工作已经开始。政府正在准备一项12亿美元的激励计划，在印度制造隧道掘进机、消防设备和电梯。预计将在七年内带来约18亿美元的投资。\nBEML正在准备本地制造TBM，L&T也可能受益。建立这种能力需要数年时间，但每一轮来自中国的出口管制都使这一理由更有力。"
   },
   {
    "platform": "x",
@@ -10072,6 +10438,141 @@ window.SITE_DATA = {
    "title_zh": "参议员敦促特朗普撤销与普京的柴油交易",
    "snippet_zh": "参议员敦促特朗普逆转与普京的柴油交易 https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html?smid=tw-share \n\n2026年林赛·格雷厄姆法案：特朗普削弱自己的法律\n\n（通过阻断石油销售扼杀俄罗斯经济的热情被证明徒劳无功。对中国和印度购买俄罗斯石油征收100%关税的臭名昭著的林赛·格雷厄姆法案已被暂停。随着这一变化，美国将进口俄罗斯柴油，这可能意味着乌克兰战争的结束。）\n\n在2026年林赛·格雷厄姆法案在国会获得两党支持后仅一个月，总统唐纳德·特朗普实际上已削弱了它。该法律威胁对从印度和中国等国进口的商品征收100%关税，如果这些国家继续购买俄罗斯石油。特朗普的行政命令现在已将这些关税条款搁置。\n\n如果这一情况持续，这对全球经济来说是好消息。\n\n该法律仍保留在册，废除它可能很困难。但实施取决于特朗普政府，后者选择不执行其最具破坏性的条款——目前如此。特朗普在国会两院批准后签署了该立法，现在却从其核心目标上后退。\n\n华盛顿正在成为政治矛盾的剧场。林赛·格雷厄姆花了两年时间推动对俄罗斯采取更严厉措施，认为切断莫斯科的石油收入对于结束乌克兰战争至关重要。然而，他提议的对印度和中国的100%关税有可能扰乱全球贸易、提高消费者价格并破坏数十年的经济一体化。中国将受到最大影响，可能破坏稳定美中贸易的努力。印度也将遭受不必要的损失。\n\n格雷厄姆现在可能后悔他对特朗普MAGA议程的坚定支持。他的制裁策略忽略了一个基本的经济现实：惩罚主要石油买家并不会自动结束战争。它反而可能 destabilize 市场并伤害实施惩罚的国家。\n\n石油危机已使这一现实无法忽视。随着霍尔木兹海峡关闭，数百万桶俄罗斯石油可能面临威胁，世界无法承受供应方面的另一场重大中断。据报道，美国汽油价格已飙升，而柴油短缺已严重到足以让华盛顿考虑进口俄罗斯柴油。\n\n这种矛盾令人震惊。据报道，特朗普已敦促乌克兰总统沃洛迪米尔·泽连斯基停止攻击俄罗斯炼油厂，这些炼油厂供应俄罗斯大部分柴油。泽连斯基的持续打击有可能与莫斯科进一步升级，即使燃料短缺威胁美国经济。\n\n政治后果可能很严重。汽油和柴油价格上涨威胁共和党在中期选举中的前景，将外交政策变成国内负担。经济现实、选举考量以及贸易战的风险显然超过了格雷厄姆的惩罚性野心。\n\n俄罗斯、中国、印度和更广泛的全球经济可以稍微松一口气。格雷厄姆立法的支持者可能抗议特朗普恢复俄罗斯燃料进口的意愿，但政府面临在意识形态姿态和实际必要性之间的选择。\n\n特朗普选择了必要性——目前如此。这一事件暴露了一项政策的弱点，该政策威胁进行全面经济惩罚而没有充分考虑其后果。\n\n制裁在政治上可能具有吸引力，但当它们危及能源供应、贸易和选民的钱包时，即使是最坚定的倡导者也可能不得不后退。",
    "body_zh": "参议员敦促特朗普逆转与普京的柴油交易 https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html?smid=tw-share \n\n2026年林赛·格雷厄姆法案：特朗普削弱自己的法律\n\n（通过阻断石油销售扼杀俄罗斯经济的热情被证明徒劳无功。对中国和印度购买俄罗斯石油征收100%关税的臭名昭著的林赛·格雷厄姆法案已被暂停。随着这一变化，美国将进口俄罗斯柴油，这可能意味着乌克兰战争的结束。）\n\n在2026年林赛·格雷厄姆法案在国会获得两党支持后仅一个月，总统唐纳德·特朗普实际上已削弱了它。该法律威胁对从印度和中国等国进口的商品征收100%关税，如果这些国家继续购买俄罗斯石油。特朗普的行政命令现在已将这些关税条款搁置。\n\n如果这一情况持续，这对全球经济来说是好消息。\n\n该法律仍保留在册，废除它可能很困难。但实施取决于特朗普政府，后者选择不执行其最具破坏性的条款——目前如此。特朗普在国会两院批准后签署了该立法，现在却从其核心目标上后退。\n\n华盛顿正在成为政治矛盾的剧场。林赛·格雷厄姆花了两年时间推动对俄罗斯采取更严厉措施，认为切断莫斯科的石油收入对于结束乌克兰战争至关重要。然而，他提议的对印度和中国的100%关税有可能扰乱全球贸易、提高消费者价格并破坏数十年的经济一体化。中国将受到最大影响，可能破坏稳定美中贸易的努力。印度也将遭受不必要的损失。\n\n格雷厄姆现在可能后悔他对特朗普MAGA议程的坚定支持。他的制裁策略忽略了一个基本的经济现实：惩罚主要石油买家并不会自动结束战争。它反而可能 destabilize 市场并伤害实施惩罚的国家。\n\n石油危机已使这一现实无法忽视。随着霍尔木兹海峡关闭，数百万桶俄罗斯石油可能面临威胁，世界无法承受供应方面的另一场重大中断。据报道，美国汽油价格已飙升，而柴油短缺已严重到足以让华盛顿考虑进口俄罗斯柴油。\n\n这种矛盾令人震惊。据报道，特朗普已敦促乌克兰总统沃洛迪米尔·泽连斯基停止攻击俄罗斯炼油厂，这些炼油厂供应俄罗斯大部分柴油。泽连斯基的持续打击有可能与莫斯科进一步升级，即使燃料短缺威胁美国经济。\n\n政治后果可能很严重。汽油和柴油价格上涨威胁共和党在中期选举中的前景，将外交政策变成国内负担。经济现实、选举考量以及贸易战的风险显然超过了格雷厄姆的惩罚性野心。\n\n俄罗斯、中国、印度和更广泛的全球经济可以稍微松一口气。格雷厄姆立法的支持者可能抗议特朗普恢复俄罗斯燃料进口的意愿，但政府面临在意识形态姿态和实际必要性之间的选择。\n\n特朗普选择了必要性——目前如此。这一事件暴露了一项政策的弱点，该政策威胁进行全面经济惩罚而没有充分考虑其后果。\n\n制裁在政治上可能具有吸引力，但当它们危及能源供应、贸易和选民的钱包时，即使是最坚定的倡导者也可能不得不后退。"
+  },
+  {
+   "platform": "facebook",
+   "title": "Ghana Gold Board - GoldBod - Facebook",
+   "url": "https://www.facebook.com/Ghanagoldbodofficial/videos/the-ghana-gold-board-goldbod-in-partnership-with-the-ghana-armed-forces-and-the-/1800867471116174/",
+   "snippet": "1 day ago · Gold must create value for Ghana without destroying the land on which our communities depend, and we remain committed to building a gold economy ...",
+   "body": "1 day ago · Gold must create value for Ghana without destroying the land on which our communities depend, and we remain committed to building a gold economy ...",
+   "bodyLevel": "excerpt",
+   "author": "Ghanagoldbodofficial",
+   "handle": "@Ghanagoldbodofficial",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "min",
+    "eco"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.0,
+   "_ts": 1792412210.34954,
+   "postedAt": "2026-10-19 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government GoldBod mining gold economy policy",
+   "title_zh": "加纳黄金局 - GoldBod - Facebook",
+   "snippet_zh": "1天前 · 黄金必须在不破坏我们社区所依赖的土地的情况下为加纳创造价值，我们仍然致力于建设一个黄金经济体……",
+   "body_zh": "1天前 · 黄金必须在不破坏我们社区所依赖的土地的情况下为加纳创造价值，我们仍然致力于建设一个黄金经济体……"
+  },
+  {
+   "platform": "facebook",
+   "title": "The Dangote Refinery is a national milestone - one that many Nigerians are proud of, as it positions us to refine our own products and reduce .",
+   "url": "https://www.facebook.com/NewsCentralAfrica/posts/energy-expert-jide-pratt-says-nigerias-proposed-fuel-price-modulation-system-cou/1706857281454031/",
+   "snippet": "12 hours ago · The Dangote Refinery is a national milestone - one that many Nigerians are proud of, as it positions us to refine our own products and reduce ...",
+   "body": "12 hours ago · The Dangote Refinery is a national milestone - one that many Nigerians are proud of, as it positions us to refine our own products and reduce ...",
+   "bodyLevel": "excerpt",
+   "author": "NewsCentralAfrica",
+   "handle": "@NewsCentralAfrica",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "ene"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.0,
+   "_ts": 1792412210.34954,
+   "postedAt": "2026-10-19 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Nigeria NNPC refinery petrol electricity grid",
+   "title_zh": "丹戈特炼油厂是一个国家里程碑——许多尼日利亚人为此感到自豪，因为它使我们能够提炼自己的产品并减少。",
+   "snippet_zh": "12小时前 · 丹戈特炼油厂是一个国家里程碑——许多尼日利亚人为此感到自豪，因为它使我们能够提炼自己的产品并减少……",
+   "body_zh": "12小时前 · 丹戈特炼油厂是一个国家里程碑——许多尼日利亚人为此感到自豪，因为它使我们能够提炼自己的产品并减少……"
+  },
+  {
+   "platform": "facebook",
+   "title": "President Mahama says GoldBod's strong progress shows Ghana is taking control of its natural resources.",
+   "url": "https://www.facebook.com/gtvghana/posts/the-ghana-goldbod-is-on-track-and-more-importantly-we-are-changing-the-value-add/1146503497987373/",
+   "snippet": "1 day ago · President Mahama says GoldBod's strong progress shows Ghana is taking control of its natural resources. He notes that gold earnings have risen ...",
+   "body": "1 day ago · President Mahama says GoldBod's strong progress shows Ghana is taking control of its natural resources. He notes that gold earnings have risen ...",
+   "bodyLevel": "excerpt",
+   "author": "gtvghana",
+   "handle": "@gtvghana",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "pol",
+    "min"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.0,
+   "_ts": 1792412210.34954,
+   "postedAt": "2026-10-19 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "马哈马总统表示，加纳黄金局的强劲进展表明加纳正在掌控其自然资源。",
+   "snippet_zh": "1天前 · 马哈马总统表示，GoldBod取得的重大进展表明加纳正在掌控其自然资源。他指出黄金收入已经上升……",
+   "body_zh": "1天前 · 马哈马总统表示，GoldBod取得的重大进展表明加纳正在掌控其自然资源。他指出黄金收入已经上升……"
+  },
+  {
+   "platform": "facebook",
+   "title": "President Mahama says government is working to address the economic challenges driving young people into illegal mining by creating .",
+   "url": "https://www.facebook.com/TV3GH/posts/president-mahama-says-government-is-working-to-address-the-economic-challenges-d/1601967238631751/",
+   "snippet": "19 hours ago · President Mahama says government is working to address the economic challenges driving young people into illegal mining by creating ...",
+   "body": "19 hours ago · President Mahama says government is working to address the economic challenges driving young people into illegal mining by creating ...",
+   "bodyLevel": "excerpt",
+   "author": "TV3GH",
+   "handle": "@TV3GH",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "pol",
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.0,
+   "_ts": 1792412210.34954,
+   "postedAt": "2026-10-19 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，通过创造。",
+   "snippet_zh": "19小时前 · 马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，方法是创造……",
+   "body_zh": "19小时前 · 马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，方法是创造……"
   },
   {
    "platform": "x",
@@ -10277,6 +10778,40 @@ window.SITE_DATA = {
    "title_zh": "马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，通过创造。",
    "snippet_zh": "19小时前 · 马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，方法是创造……",
    "body_zh": "19小时前 · 马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，方法是创造……"
+  },
+  {
+   "platform": "x",
+   "title": "India might be the focus of China's new export controls on construction machinery.",
+   "url": "https://x.com/kyleichan/status/2112149514354045074",
+   "snippet": "India might be the focus of China's new export controls on construction machinery.\n\nIndia is not called out explicitly, but China is now prohibiting certain machinery to \"sensitive countries and regions that have disputes with China\" 与中国存在争议的敏感国家和地区.\n\nThese include:\nTunnel-boring machines, which China has appeared to limit to India in the past\nHigh-altitude concrete spraying machines (above 3,000 m altitude), which might be about military construction in the Himalayas",
+   "body": "India might be the focus of China's new export controls on construction machinery.\n\nIndia is not called out explicitly, but China is now prohibiting certain machinery to \"sensitive countries and regions that have disputes with China\" 与中国存在争议的敏感国家和地区.\n\nThese include:\nTunnel-boring machines, which China has appeared to limit to India in the past\nHigh-altitude concrete spraying machines (above 3,000 m altitude), which might be about military construction in the Himalayas",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@kyleichan",
+   "country": [
+    "in"
+   ],
+   "topic": [
+    "eco",
+    "sec"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.02,
+   "_ts": 1792410660.719,
+   "postedAt": "2026-10-19 19:51",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_in",
+   "title_zh": "印度可能是中国对建筑机械实施新出口管制的重点。",
+   "snippet_zh": "印度可能是中国对建筑机械实施新出口管制的重点。\n\n印度并未被明确点名，但中国现在禁止向“与中国存在争议的敏感国家和地区”出口某些机械。\n\n这些包括：\n隧道掘进机，中国过去似乎已限制其出口至印度\n高海拔混凝土喷射机（海拔3000米以上），这可能与喜马拉雅山的军事建设有关",
+   "body_zh": "印度可能是中国对建筑机械实施新出口管制的重点。\n\n印度并未被明确点名，但中国现在禁止向“与中国存在争议的敏感国家和地区”出口某些机械。\n\n这些包括：\n隧道掘进机，中国过去似乎已限制其出口至印度\n高海拔混凝土喷射机（海拔3000米以上），这可能与喜马拉雅山的军事建设有关"
   },
   {
    "platform": "x",
@@ -10582,6 +11117,39 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện",
+   "url": "https://x.com/jacknamok/status/2112122988816695757",
+   "snippet": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện tại em quan sát được là một đội Trung Quốc rất đông đang đổ bộ Hải Phòng",
+   "body": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện tại em quan sát được là một đội Trung Quốc rất đông đang đổ bộ Hải Phòng",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@jacknamok",
+   "country": [
+    "vn"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.09,
+   "_ts": 1792404336.538,
+   "postedAt": "2026-10-19 18:05",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_vn",
+   "title_zh": "目前国内外专家都清楚看到越南是众多中国公司为规避美国关税而跑去开设工厂的地方，目前",
+   "snippet_zh": "目前国内外专家都清楚看到越南是中国公司跑来开设工厂以避开美国关税的地方，目前我观察到一大队中国人正在涌入海防",
+   "body_zh": "目前国内外专家都清楚看到越南是中国公司跑来开设工厂以避开美国关税的地方，目前我观察到一大队中国人正在涌入海防"
+  },
+  {
+   "platform": "x",
    "title": "HIRING HR Assistant | Avatar New Energy Materials Co.",
    "url": "https://x.com/Jobnetworkng/status/2112117848898162936",
    "snippet": "HIRING\n\nHR Assistant | Avatar New Energy Materials Co. Limited\n\n📍 Location: Nasarawa State\nJob Type: Full-time\nCompensation: ₦130,000–₦160,000 monthly\n\nAbout the Role\n\nAvatar New Energy Materials Co. Limited, a Chinese company specialising in lithium exploration, mining, and processing in Nigeria, is seeking an entry-level HR Assistant to support recruitment, employee records, staff welfare, and daily HR operations in a mining and industrial environment.\n\nKey Responsibilities\n\n• Assist with recruitment activities, including job postings, CV screening, interview scheduling, and onboarding.\n• Maintain and update employee files, records, and HR databases.\n• Support employee onboarding and orientation.\n• Assist with attendance tracking, leave management, and basic payroll documentation.\n• Handle employee inquiries and escalate issues when necessary.\n• Support the implementation of HR policies, procedures, and company rules.\n• Coordinate training programmes, meetings, and staff activities.\n• Assist with employee welfare and disciplinary documentation.\n• Maintain the confidentiality of employee information.\n\n• Perform other HR and administrative duties as assigned.\n\nRequirements\n\n• Bachelor’s Degree in Human Resources, Business Administration, Public Relations, or a related field.\n• 1–2 years of experience is an advantage.\n• Basic knowledge of HR practices and Nigerian labour laws.\n• Good written and verbal communication skills.\n• Strong organisational and record-keeping skills.\n• High level of integrity and professionalism.\n• Proficiency in Microsoft Office applications.\n• Willingness to work in a mining or site environment.\n• Open to male and female candidates aged 23–27.\n\nSkills & Competencies\n\n• Attention to detail.\n• Time management and multitasking ability.\n• Strong interpersonal and communication skills.\n• Ability to handle sensitive information confidentially.\n• Team-oriented mindset.\n\nHow to Apply\n\n📧 Apply via: Send your CV to hr@avtne.com using “HR ASSISTANT” as the email subject.\n\nApplication Deadline: 16 November 2026.",
@@ -10849,6 +11417,40 @@ window.SITE_DATA = {
    "title_zh": "中国大使称北京可以“轻松赢得”与菲律宾的战争，现在马尼拉因这一威胁召见了他，随着南海……",
    "snippet_zh": "中国大使表示北京可以“轻松赢得”与菲律宾的战争，现在马尼拉已就这一威胁召见他，而南海紧张局势暴露了外交辞令可能多么迅速地将该地区推向冲突。\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/",
    "body_zh": "中国大使表示北京可以“轻松赢得”与菲律宾的战争，现在马尼拉已就这一威胁召见他，而南海紧张局势暴露了外交辞令可能多么迅速地将该地区推向冲突。\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/"
+  },
+  {
+   "platform": "x",
+   "title": "CBN wants to make payments to Chinese suppliers easier for Nigerian businesses.",
+   "url": "https://x.com/techsomaafrica/status/2112102558433222890",
+   "snippet": "CBN wants to make payments to Chinese suppliers easier for Nigerian businesses.\n\nGovernor Olayemi Cardoso plans Beijing talks to improve cross-border transactions, but no agreement has been signed yet.\n\nRead more: https://techsoma.africa/cbn-nigeria-china-payments-cardoso-beijing/",
+   "body": "CBN wants to make payments to Chinese suppliers easier for Nigerian businesses.\n\nGovernor Olayemi Cardoso plans Beijing talks to improve cross-border transactions, but no agreement has been signed yet.\n\nRead more: https://techsoma.africa/cbn-nigeria-china-payments-cardoso-beijing/",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@techsomaafrica",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "eco",
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.15,
+   "_ts": 1792399465.555,
+   "postedAt": "2026-10-19 16:44",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ng",
+   "title_zh": "CBN希望让尼日利亚企业更容易向中国供应商付款。",
+   "snippet_zh": "尼日利亚中央银行希望让尼日利亚企业更容易向中国供应商付款。\n\n奥拉耶米·卡多索行长计划在北京举行会谈以改善跨境交易，但目前尚未签署任何协议。\n\n阅读更多：https://techsoma.africa/cbn-nigeria-china-payments-cardoso-beijing/",
+   "body_zh": "尼日利亚中央银行希望让尼日利亚企业更容易向中国供应商付款。\n\n奥拉耶米·卡多索行长计划在北京举行会谈以改善跨境交易，但目前尚未签署任何协议。\n\n阅读更多：https://techsoma.africa/cbn-nigeria-china-payments-cardoso-beijing/"
   },
   {
    "platform": "x",
@@ -11123,6 +11725,40 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "Nigeria’s health partnership with the US: National sovereignty and domestic financing By Muhammad Ali Pate, Nigeria's Coordinating Minister",
+   "url": "https://x.com/donlaz4u/status/2112086159752888382",
+   "snippet": "Nigeria’s health partnership with the US: National sovereignty and domestic financing\n\nBy Muhammad Ali Pate, Nigeria's Coordinating Minister of Health and Social Welfare \n\n_The destination is clear: a health system financed increasingly by Nigeria, governed through Nigerian institutions and able to sustain better outcomes for Nigerians._\n\nFor more than two decades, Nigeria and the United States have worked together on major public-health challenges. Through the US President’s Emergency Plan for AIDS Relief (PEPFAR), the President’s Malaria Initiative, polio eradication, laboratory development, disease surveillance, health security, and contributions through the Global Fund and Gavi, that partnership has saved lives and strengthened institutions on which millions of Nigerians depend.\n\nNigeria values this record of cooperation, but the next phase must serve a clear national purpose. No country of our size can indefinitely finance essential health services through external assistance. Our responsibility is to preserve the gains built with partners, while expanding domestic financing, strengthening Nigerian institutions and ensuring that critical services remain available as the international financing environment changes.\n\n*A National Framework for Transition*\nThat direction was established before the current bilateral arrangement. In December 2023, President Bola Ahmed Tinubu presciently launched the Nigeria Health Sector Renewal Investment Initiative and the Health Sector Renewal Compact, bringing the Federal Government, the 36 states, the Federal Capital Territory and development partners behind a common reform agenda. Through the Sector-Wide Approach, fragmentation and duplication are being reduced, while public and partner resources are, for the first time, being aligned behind one plan, one budget and one report, with clearer responsibility for results and a deliberate transition towards national ownership.\n\nWhen the United States revised its global health approach in 2025 under the then new administration of President Donald Trump, its emphasis on country ownership, country systems, and government-to-government cooperation converged with reforms that Nigeria had already begun. The immediate task was to protect the continuity of treatment and prevent reversals in HIV, tuberculosis, malaria and other essential services, while strengthening the domestic foundations on which those services must ultimately rest.\n\nThe health MoU signed by Nigeria and the United States on 19 December 2025 was negotiated within that policy framework and should be understood in that context. Covering April 2026 to December 2030, it provides a managed transition from externally financed implementation towards stronger use of Nigerian institutions, government systems and domestic resources, while preserving essential services as Nigeria assumes a larger share of their financing and management.\n\n*Financing the Transition* \nThe financing structure under the MoU makes this purpose clear. The planned United States support is nearly $2 billion over five years and declines over the period, while Nigeria plans nearly $3 billion in additional domestic health financing. Nigeria’s contribution is not transferred to the United States; it remains in Nigeria and is applied to priorities determined by Nigeria, including HIV, tuberculosis, malaria, maternal and child health, laboratories, health workers, surveillance, commodities, primary healthcare and health information systems. There is no credible path out of aid dependency that does not require Nigeria to invest more of its own resources in the health of its people.\n\nThe Federal Government had already begun to translate this commitment into the budget. The 2025 federal health budget rose by nearly 60 per cent, increasing health’s share of the national budget to 5.2 per cent from just over 3 per cent. \n.....1/3",
+   "body": "Nigeria’s health partnership with the US: National sovereignty and domestic financing\n\nBy Muhammad Ali Pate, Nigeria's Coordinating Minister of Health and Social Welfare \n\n_The destination is clear: a health system financed increasingly by Nigeria, governed through Nigerian institutions and able to sustain better outcomes for Nigerians._\n\nFor more than two decades, Nigeria and the United States have worked together on major public-health challenges. Through the US President’s Emergency Plan for AIDS Relief (PEPFAR), the President’s Malaria Initiative, polio eradication, laboratory development, disease surveillance, health security, and contributions through the Global Fund and Gavi, that partnership has saved lives and strengthened institutions on which millions of Nigerians depend.\n\nNigeria values this record of cooperation, but the next phase must serve a clear national purpose. No country of our size can indefinitely finance essential health services through external assistance. Our responsibility is to preserve the gains built with partners, while expanding domestic financing, strengthening Nigerian institutions and ensuring that critical services remain available as the international financing environment changes.\n\n*A National Framework for Transition*\nThat direction was established before the current bilateral arrangement. In December 2023, President Bola Ahmed Tinubu presciently launched the Nigeria Health Sector Renewal Investment Initiative and the Health Sector Renewal Compact, bringing the Federal Government, the 36 states, the Federal Capital Territory and development partners behind a common reform agenda. Through the Sector-Wide Approach, fragmentation and duplication are being reduced, while public and partner resources are, for the first time, being aligned behind one plan, one budget and one report, with clearer responsibility for results and a deliberate transition towards national ownership.\n\nWhen the United States revised its global health approach in 2025 under the then new administration of President Donald Trump, its emphasis on country ownership, country systems, and government-to-government cooperation converged with reforms that Nigeria had already begun. The immediate task was to protect the continuity of treatment and prevent reversals in HIV, tuberculosis, malaria and other essential services, while strengthening the domestic foundations on which those services must ultimately rest.\n\nThe health MoU signed by Nigeria and the United States on 19 December 2025 was negotiated within that policy framework and should be understood in that context. Covering April 2026 to December 2030, it provides a managed transition from externally financed implementation towards stronger use of Nigerian institutions, government systems and domestic resources, while preserving essential services as Nigeria assumes a larger share of their financing and management.\n\n*Financing the Transition* \nThe financing structure under the MoU makes this purpose clear. The planned United States support is nearly $2 billion over five years and declines over the period, while Nigeria plans nearly $3 billion in additional domestic health financing. Nigeria’s contribution is not transferred to the United States; it remains in Nigeria and is applied to priorities determined by Nigeria, including HIV, tuberculosis, malaria, maternal and child health, laboratories, health workers, surveillance, commodities, primary healthcare and health information systems. There is no credible path out of aid dependency that does not require Nigeria to invest more of its own resources in the health of its people.\n\nThe Federal Government had already begun to translate this commitment into the budget. The 2025 federal health budget rose by nearly 60 per cent, increasing health’s share of the national budget to 5.2 per cent from just over 3 per cent. \n.....1/3",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@donlaz4u",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "pol",
+    "eco"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "ageDays": 1.19,
+   "_ts": 1792395555.805,
+   "postedAt": "2026-10-19 15:39",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "United States Nigeria AFRICOM ambassador cooperation",
+   "title_zh": "尼日利亚与美国的卫生伙伴关系：国家主权和国内融资 作者：穆罕默德·阿里·帕特，尼日利亚协调部长",
+   "snippet_zh": "尼日利亚与美国的卫生伙伴关系：国家主权和国内融资\n\n穆罕默德·阿里·帕特，尼日利亚卫生和社会福利协调部长\n\n_目标很明确：一个越来越多由尼日利亚融资、通过尼日利亚机构治理、能够为尼日利亚人维持更好结果的卫生系统。_\n\n二十多年来，尼日利亚和美国在重大公共卫生挑战上共同努力。通过美国总统艾滋病紧急救援计划（PEPFAR）、总统疟疾倡议、脊髓灰质炎根除、实验室发展、疾病监测、卫生安全以及通过全球基金和Gavi的贡献，这种伙伴关系挽救了生命，并加强了数百万尼日利亚人所依赖的机构。\n\n尼日利亚重视这一合作记录，但下一阶段必须服务于明确的国家目标。像我们这样规模的国家不能无限期地通过外部援助来资助基本卫生服务。我们的责任是与伙伴共同维护已取得的成果，同时扩大国内融资，加强尼日利亚机构，并确保在国际融资环境发生变化时，关键服务仍然可用。\n\n*国家转型框架*\n这一方向在当前双边安排之前就已经确立。2023年12月，博拉·艾哈迈德·蒂努布总统富有远见地启动了尼日利亚卫生部门更新投资倡议和卫生部门更新契约，将联邦政府、36个州、联邦首都区和发展伙伴团结在一个共同的改革议程背后。通过全部门方法，碎片化和重复正在减少，而公共和伙伴资源首次被统一到一个计划、一个预算和一个报告背后，责任更加明确，并有意识地向国家自主权过渡。\n\n当美国在2025年新政府唐纳德·特朗普总统领导下修订其全球卫生方法时，其对国家自主权、国家系统和政府间合作的强调与尼日利亚已经开始的改革相契合。紧迫任务是保护治疗的连续性，防止艾滋病毒、结核病、疟疾和其他基本服务的倒退，同时加强这些服务最终必须依赖的国内基础。\n\n尼日利亚和美国于2025年12月19日签署的卫生谅解备忘录是在该政策框架内谈判达成的，应在这一背景下理解。它涵盖2026年4月至2030年12月，提供了一个从外部融资实施向更多使用尼日利亚机构、政府系统和国内资源的有序过渡，同时在尼日利亚承担更大融资和管理份额的情况下，维护基本服务。\n\n*为转型融资*\n谅解备忘录下的融资结构明确了这一目标。美国计划的支持在五年内接近20亿美元，并在该期间逐步减少，而尼日利亚计划增加近30亿美元的国内卫生融资。尼日利亚的贡献不会转移给美国；它留在尼日利亚，并用于尼日利亚确定的优先事项，包括艾滋病毒、结核病、疟疾、母婴健康、实验室、卫生工作者、监测、商品、初级卫生保健和卫生信息系统。不要求尼日利亚为其人民的健康投入更多自身资源，就不存在摆脱援助依赖的可信途径。\n\n联邦政府已经开始将这一承诺转化为预算。2025年联邦卫生预算增长了近60%，使卫生在国家预算中的份额从刚刚超过3%提高到5.2%。\n.....1/3",
+   "body_zh": "尼日利亚与美国的卫生伙伴关系：国家主权和国内融资\n\n穆罕默德·阿里·帕特，尼日利亚卫生和社会福利协调部长\n\n_目标很明确：一个越来越多由尼日利亚融资、通过尼日利亚机构治理、能够为尼日利亚人维持更好结果的卫生系统。_\n\n二十多年来，尼日利亚和美国在重大公共卫生挑战上共同努力。通过美国总统艾滋病紧急救援计划（PEPFAR）、总统疟疾倡议、脊髓灰质炎根除、实验室发展、疾病监测、卫生安全以及通过全球基金和Gavi的贡献，这种伙伴关系挽救了生命，并加强了数百万尼日利亚人所依赖的机构。\n\n尼日利亚重视这一合作记录，但下一阶段必须服务于明确的国家目标。像我们这样规模的国家不能无限期地通过外部援助来资助基本卫生服务。我们的责任是与伙伴共同维护已取得的成果，同时扩大国内融资，加强尼日利亚机构，并确保在国际融资环境发生变化时，关键服务仍然可用。\n\n*国家转型框架*\n这一方向在当前双边安排之前就已经确立。2023年12月，博拉·艾哈迈德·蒂努布总统富有远见地启动了尼日利亚卫生部门更新投资倡议和卫生部门更新契约，将联邦政府、36个州、联邦首都区和发展伙伴团结在一个共同的改革议程背后。通过全部门方法，碎片化和重复正在减少，而公共和伙伴资源首次被统一到一个计划、一个预算和一个报告背后，责任更加明确，并有意识地向国家自主权过渡。\n\n当美国在2025年新政府唐纳德·特朗普总统领导下修订其全球卫生方法时，其对国家自主权、国家系统和政府间合作的强调与尼日利亚已经开始的改革相契合。紧迫任务是保护治疗的连续性，防止艾滋病毒、结核病、疟疾和其他基本服务的倒退，同时加强这些服务最终必须依赖的国内基础。\n\n尼日利亚和美国于2025年12月19日签署的卫生谅解备忘录是在该政策框架内谈判达成的，应在这一背景下理解。它涵盖2026年4月至2030年12月，提供了一个从外部融资实施向更多使用尼日利亚机构、政府系统和国内资源的有序过渡，同时在尼日利亚承担更大融资和管理份额的情况下，维护基本服务。\n\n*为转型融资*\n谅解备忘录下的融资结构明确了这一目标。美国计划的支持在五年内接近20亿美元，并在该期间逐步减少，而尼日利亚计划增加近30亿美元的国内卫生融资。尼日利亚的贡献不会转移给美国；它留在尼日利亚，并用于尼日利亚确定的优先事项，包括艾滋病毒、结核病、疟疾、母婴健康、实验室、卫生工作者、监测、商品、初级卫生保健和卫生信息系统。不要求尼日利亚为其人民的健康投入更多自身资源，就不存在摆脱援助依赖的可信途径。\n\n联邦政府已经开始将这一承诺转化为预算。2025年联邦卫生预算增长了近60%，使卫生在国家预算中的份额从刚刚超过3%提高到5.2%。\n.....1/3"
+  },
+  {
+   "platform": "x",
    "title": "AES states (Mali, Burkina Faso, Niger) expelled all French troops by end-2023, ambassadors and diplomats, suspended French media, barred Air",
    "url": "https://x.com/grok/status/2112082455087685723",
    "snippet": "AES states (Mali, Burkina Faso, Niger) expelled all French troops by end-2023, ambassadors and diplomats, suspended French media, barred Air France, and withdrew from the Francophonie. Burkina fully severed diplomatic ties in June 2026. They formed a mutual-defense pact, left ECOWAS, launched a 5,000-troop joint force with Russian support, and created shared institutions including a development bank.\n\nSecurity has deteriorated overall, with higher jihadist violence, more fatalities and displacement per ACLED and other trackers, despite joint operations. Economic growth continues in places amid ongoing instability.",
@@ -11189,6 +11825,39 @@ window.SITE_DATA = {
    "title_zh": "#匪首Adu Aleru在#Zamfara州#Mada的领土交火中杀死对手#头目Kachallah Dogo Baldu，#尼日利亚 阅读",
    "snippet_zh": "#匪徒头目阿杜·阿莱鲁在马达的领土争夺战中击毙对手#头目卡查拉·多戈·巴尔杜，#赞法拉州，#尼日利亚\n阅读更多：https://trackingterrorism.org/chatter/adu-aleru-killed-rival-kingpin-kachallah-dogo-baldu-trac/",
    "body_zh": "#匪徒头目阿杜·阿莱鲁在马达的领土争夺战中击毙对手#头目卡查拉·多戈·巴尔杜，#赞法拉州，#尼日利亚\n阅读更多：https://trackingterrorism.org/chatter/adu-aleru-killed-rival-kingpin-kachallah-dogo-baldu-trac/"
+  },
+  {
+   "platform": "x",
+   "title": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandi",
+   "url": "https://x.com/DanKatsina50/status/2112076621335101821",
+   "snippet": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandit leader Kachallah Dogo Baldu was killed by Aleru’s men alongside several of his fighters.\n\nReports from the area suggest the fighting was still ongoing as at this morning, raising concerns about further casualties as the two groups continue to battle each other.",
+   "body": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandit leader Kachallah Dogo Baldu was killed by Aleru’s men alongside several of his fighters.\n\nReports from the area suggest the fighting was still ongoing as at this morning, raising concerns about further casualties as the two groups continue to battle each other.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@DanKatsina50",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.22,
+   "_ts": 1792393281.669,
+   "postedAt": "2026-10-19 15:01",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_ter_ng",
+   "title_zh": "突发：昨天下午，敌对土匪团伙在扎姆法拉州古绍地方政府区的马达发生冲突，据报道臭名昭著的土匪",
+   "snippet_zh": "突发：昨天下午，敌对的匪帮团体在Zamfara州Gusau地方政府的Mada发生冲突，据报道，臭名昭著的匪首Kachallah Dogo Baldu被Aleru的手下连同他的几名战士一起杀死。\n\n来自该地区的报道表明，战斗截至今天上午仍在继续，这引发了人们对进一步伤亡的担忧，因为两个团体继续相互交战。",
+   "body_zh": "突发：昨天下午，敌对的匪帮团体在Zamfara州Gusau地方政府的Mada发生冲突，据报道，臭名昭著的匪首Kachallah Dogo Baldu被Aleru的手下连同他的几名战士一起杀死。\n\n来自该地区的报道表明，战斗截至今天上午仍在继续，这引发了人们对进一步伤亡的担忧，因为两个团体继续相互交战。"
   },
   {
    "platform": "x",
@@ -11662,6 +12331,39 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "🚨 URGENT | Ménaka Ce dimanche 18 octobre 2026, des individus affiliés à l’État islamique (EI) ont enlevé un véhicule appartenant à des membr",
+   "url": "https://x.com/SahelAlerte/status/2111966863567507673",
+   "snippet": "🚨 URGENT | Ménaka \n\nCe dimanche 18 octobre 2026, des individus affiliés à l’État islamique (EI) ont enlevé un véhicule appartenant à des membres de la communauté Idaksahak, près de Ménaka. \n\nDes tentes de cette communauté ont également été la cible d’actes hostiles au sud de la ville, faisant plusieurs morts parmi les civils.\n\nDepuis 2023, la région de Ménaka connaît une situation sécuritaire relativement plus stable que les autres régions de l’Azawad, grâce à des accords locaux conclus à la suite des massacres de l’EI, qui ont fait plus de 2 000 victimes civiles entre mars 2022 et 2023.\n\nCes dernières semaines, Le chef des Miliciens du MSA cherche à relancer son projet : tuer des civils en échange d’argent et de notoriété.\n\nCette semaine, des éléments de la milice locale MSA d’Inaraban sont arrivés au quartier général de Youssef Ould Choghayb, émir de la zone de Ménaka au sein de l’EI au Sahel. Ils ont attendu qu’il s’enfuie, avant d’incendier sa maison ainsi que plusieurs autres habitations du village, puis sont retournés en ville en proclamant leur victoire.\n\nMais ne se souviennent-ils pas qu’en 2023, leurs comportements puérils, motivés par le vol de bétail, ont contribué aux massacres de civils perpétrés par l’EI ?",
+   "body": "🚨 URGENT | Ménaka \n\nCe dimanche 18 octobre 2026, des individus affiliés à l’État islamique (EI) ont enlevé un véhicule appartenant à des membres de la communauté Idaksahak, près de Ménaka. \n\nDes tentes de cette communauté ont également été la cible d’actes hostiles au sud de la ville, faisant plusieurs morts parmi les civils.\n\nDepuis 2023, la région de Ménaka connaît une situation sécuritaire relativement plus stable que les autres régions de l’Azawad, grâce à des accords locaux conclus à la suite des massacres de l’EI, qui ont fait plus de 2 000 victimes civiles entre mars 2022 et 2023.\n\nCes dernières semaines, Le chef des Miliciens du MSA cherche à relancer son projet : tuer des civils en échange d’argent et de notoriété.\n\nCette semaine, des éléments de la milice locale MSA d’Inaraban sont arrivés au quartier général de Youssef Ould Choghayb, émir de la zone de Ménaka au sein de l’EI au Sahel. Ils ont attendu qu’il s’enfuie, avant d’incendier sa maison ainsi que plusieurs autres habitations du village, puis sont retournés en ville en proclamant leur victoire.\n\nMais ne se souviennent-ils pas qu’en 2023, leurs comportements puérils, motivés par le vol de bétail, ont contribué aux massacres de civils perpétrés par l’EI ?",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@SahelAlerte",
+   "country": [
+    "ml"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.52,
+   "_ts": 1792367113.378,
+   "postedAt": "2026-10-19 07:45",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_ter_ml",
+   "title_zh": "🚨 紧急 | 梅纳卡 本周日 2026 年 10 月 18 日，一些隶属于伊斯兰国（EI）的个人劫持了一辆属于成员的车辆",
+   "snippet_zh": "🚨 URGENT | 梅纳卡 \n\n本周日2026年10月18日，一些隶属于伊斯兰国（EI）的个人在梅纳卡附近绑架了一辆属于Idaksahak社区成员的车辆。\n\n该社区的帐篷也在城市南部成为敌对行为的袭击目标，导致多名平民死亡。\n\n自2023年以来，梅纳卡地区的安全局势相对比阿扎瓦德其他地区更稳定，这得益于在EI大屠杀之后达成的当地协议，那些屠杀在2022年3月至2023年间造成超过2000名平民受害。\n\n最近几周，MSA民兵首领试图重启他的项目：以杀害平民来换取金钱和知名度。\n\n本周，来自Inaraban的当地MSA民兵成员抵达了EI在萨赫勒地区梅纳卡区域埃米尔Youssef Ould Choghayb的总部。他们等到他逃跑后，焚烧了他的房子以及村里的几处其他住宅，然后返回城里宣称胜利。\n\n但他们难道不记得2023年，他们那些受偷盗牲畜驱动的幼稚行为，促成了EI对平民实施的大屠杀吗？",
+   "body_zh": "🚨 URGENT | 梅纳卡 \n\n本周日2026年10月18日，一些隶属于伊斯兰国（EI）的个人在梅纳卡附近绑架了一辆属于Idaksahak社区成员的车辆。\n\n该社区的帐篷也在城市南部成为敌对行为的袭击目标，导致多名平民死亡。\n\n自2023年以来，梅纳卡地区的安全局势相对比阿扎瓦德其他地区更稳定，这得益于在EI大屠杀之后达成的当地协议，那些屠杀在2022年3月至2023年间造成超过2000名平民受害。\n\n最近几周，MSA民兵首领试图重启他的项目：以杀害平民来换取金钱和知名度。\n\n本周，来自Inaraban的当地MSA民兵成员抵达了EI在萨赫勒地区梅纳卡区域埃米尔Youssef Ould Choghayb的总部。他们等到他逃跑后，焚烧了他的房子以及村里的几处其他住宅，然后返回城里宣称胜利。\n\n但他们难道不记得2023年，他们那些受偷盗牲畜驱动的幼稚行为，促成了EI对平民实施的大屠杀吗？"
+  },
+  {
+   "platform": "x",
    "title": "September 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the",
    "url": "https://x.com/MayaTBasil/status/2111956460145979830",
    "snippet": "September 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
@@ -12100,6 +12802,40 @@ window.SITE_DATA = {
    "title_zh": "法国与撒哈拉以南非洲的贸易约为每年240亿欧元（占总量的不到2%）。",
    "snippet_zh": "法国与撒哈拉以南非洲的贸易额约为每年240亿欧元（占其总额不到2%）。核电占其发电量的68%；尼日尔历史上提供15-25%的铀（按价值计算仍占2024年9.75亿美元进口的约25%），但在萨赫勒国家联盟成立后欧安诺失去了控制。萨赫勒国家联盟由马里、布基纳法索、尼日尔于2023年9月16日成立；驱逐了法国部队并没收了矿山。法国面临2026年0.4%的增长，债务约占国内生产总值的119%，以及2026年10月的抗议（55万人，骚乱）。萨赫勒国家联盟切断了战略通道和影响力，加剧了能源和财政压力。",
    "body_zh": "法国与撒哈拉以南非洲的贸易额约为每年240亿欧元（占其总额不到2%）。核电占其发电量的68%；尼日尔历史上提供15-25%的铀（按价值计算仍占2024年9.75亿美元进口的约25%），但在萨赫勒国家联盟成立后欧安诺失去了控制。萨赫勒国家联盟由马里、布基纳法索、尼日尔于2023年9月16日成立；驱逐了法国部队并没收了矿山。法国面临2026年0.4%的增长，债务约占国内生产总值的119%，以及2026年10月的抗议（55万人，骚乱）。萨赫勒国家联盟切断了战略通道和影响力，加剧了能源和财政压力。"
+  },
+  {
+   "platform": "x",
+   "title": "BREAKING: Today, youths in Gwashi, Bukkuyum LGA of Zamfara State, chased Deputy Governor Mani Malam Mummuni and his entourage during a visit",
+   "url": "https://x.com/DanKatsina50/status/2111899908991279579",
+   "snippet": "BREAKING: Today, youths in Gwashi, Bukkuyum LGA of Zamfara State, chased Deputy Governor Mani Malam Mummuni and his entourage during a visit to commiserate with the community over bandit attacks and aid victims.\n\nThe youths, angered by the continued atrocities in Gwashi and neighbouring communities, reportedly protested the persistent insecurity. His security personnel also fled and leave their vehicle behind as tensions escalated.\n\nPhotos of the incident are also in the comment section.\n\nThe incident reflects the growing frustration of residents who continue to live in fear of bandit attacks.\n\nNB: Below is the short video of the incident",
+   "body": "BREAKING: Today, youths in Gwashi, Bukkuyum LGA of Zamfara State, chased Deputy Governor Mani Malam Mummuni and his entourage during a visit to commiserate with the community over bandit attacks and aid victims.\n\nThe youths, angered by the continued atrocities in Gwashi and neighbouring communities, reportedly protested the persistent insecurity. His security personnel also fled and leave their vehicle behind as tensions escalated.\n\nPhotos of the incident are also in the comment section.\n\nThe incident reflects the growing frustration of residents who continue to live in fear of bandit attacks.\n\nNB: Below is the short video of the incident",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@DanKatsina50",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "sec",
+    "pol"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.71,
+   "_ts": 1792351150.163,
+   "postedAt": "2026-10-19 03:19",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_ter_ng",
+   "title_zh": "突发：今天，赞法拉州布库尤姆地方政府区的瓜希青年在副州长马尼·马拉姆·穆穆尼及其随行人员访问期间追赶他们",
+   "snippet_zh": "突发：今天，赞法拉州布库尤姆地方政府区域 Gwashi 的青年，在副州长 Mani Malam Mummuni 慰问社区因匪徒袭击并援助受害者期间，追赶了他及其随行人员。\n\n这些青年对 Gwashi 及邻近社区持续发生的暴行感到愤怒，据称他们抗议持续存在的不安全局势。他的安保人员也逃离并留下他们的车辆，因为紧张局势升级。\n\n事件的照片也在评论区。\n\n该事件反映了居民日益增长的挫败感，他们继续生活在对匪徒袭击的恐惧中。\n\n注意：以下是事件的短视频",
+   "body_zh": "突发：今天，赞法拉州布库尤姆地方政府区域 Gwashi 的青年，在副州长 Mani Malam Mummuni 慰问社区因匪徒袭击并援助受害者期间，追赶了他及其随行人员。\n\n这些青年对 Gwashi 及邻近社区持续发生的暴行感到愤怒，据称他们抗议持续存在的不安全局势。他的安保人员也逃离并留下他们的车辆，因为紧张局势升级。\n\n事件的照片也在评论区。\n\n该事件反映了居民日益增长的挫败感，他们继续生活在对匪徒袭击的恐惧中。\n\n注意：以下是事件的短视频"
   },
   {
    "platform": "x",
@@ -12740,6 +13476,40 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "💥Pay attention: who benefits from the Three Seas Crisis: China and Russia are quietly advancing Arctic maritime cooperation after Nikolai Pa",
+   "url": "https://x.com/anasalhajji/status/2111821404094025791",
+   "snippet": "💥Pay attention: who benefits from the Three Seas Crisis: \n\nChina and Russia are quietly advancing Arctic maritime cooperation after Nikolai Patrushev’s recent China visit. \n\nProposals include linking the Maritime Silk Road with Russia’s Trans-Arctic Transport Corridor, developing ports, sharing automation technology, and joint research. The goal is an alternative Northern Sea Route network to reduce chokepoint risks at Suez, Malacca, and elsewhere while supporting energy and goods trade. Though still mostly plans facing ice, costs, and infrastructure limits, the effort could build strategic resilience and further fragment global shipping into rival systems.",
+   "body": "💥Pay attention: who benefits from the Three Seas Crisis: \n\nChina and Russia are quietly advancing Arctic maritime cooperation after Nikolai Patrushev’s recent China visit. \n\nProposals include linking the Maritime Silk Road with Russia’s Trans-Arctic Transport Corridor, developing ports, sharing automation technology, and joint research. The goal is an alternative Northern Sea Route network to reduce chokepoint risks at Suez, Malacca, and elsewhere while supporting energy and goods trade. Though still mostly plans facing ice, costs, and infrastructure limits, the effort could build strategic resilience and further fragment global shipping into rival systems.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@anasalhajji",
+   "country": [
+    "ru"
+   ],
+   "topic": [
+    "eco",
+    "ene"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.92,
+   "_ts": 1792332433.137,
+   "postedAt": "2026-10-18 22:07",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ru",
+   "title_zh": "💥注意：谁从三海危机中受益：在中国和俄罗斯在尼古拉·帕夫洛夫之后悄悄推进北极海上合作",
+   "snippet_zh": "💥请注意：谁从三海危机中受益：\n\n在中国访问后，尼古拉·帕特鲁舍夫最近访华，中国和俄罗斯正在 quietly 推进北极海上合作。\n\n提议包括将海上丝绸之路与俄罗斯的跨北极运输走廊连接起来，开发港口，共享自动化技术，以及联合研究。目标是建立一个替代的北方海路线网络，以减少苏伊士、马六甲和其他地方的咽喉风险，同时支持能源和货物贸易。虽然仍主要是计划，面临冰层、成本和基础设施限制，但这一努力可能建立战略韧性，并进一步将全球航运分裂成对立的系统。",
+   "body_zh": "💥请注意：谁从三海危机中受益：\n\n在中国访问后，尼古拉·帕特鲁舍夫最近访华，中国和俄罗斯正在 quietly 推进北极海上合作。\n\n提议包括将海上丝绸之路与俄罗斯的跨北极运输走廊连接起来，开发港口，共享自动化技术，以及联合研究。目标是建立一个替代的北方海路线网络，以减少苏伊士、马六甲和其他地方的咽喉风险，同时支持能源和货物贸易。虽然仍主要是计划，面临冰层、成本和基础设施限制，但这一努力可能建立战略韧性，并进一步将全球航运分裂成对立的系统。"
+  },
+  {
+   "platform": "x",
    "title": "Kasi yun consumer goods na gawa sa china ay gawa ng chinese company at control yun ng chinese government.",
    "url": "https://x.com/dream_elephant/status/2111821252776366394",
    "snippet": "Kasi yun consumer goods na gawa sa china ay gawa ng chinese company at control yun ng chinese government. If philippine and china relation deteriorate, kayang diktahan ng chinese gov ang mga companya, at sabihin wag ibenta sa philipines. And that's 1 economic power na meron nila",
@@ -12975,6 +13745,40 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "🚨 GEOPOLITICS 101 | REALITY CHECK 🇷🇺🇨🇳 🤣 So your argument is that because China hasn't finalized one gas pipeline deal, Putin is finished an",
+   "url": "https://x.com/AgenticSignal/status/2111802892499681454",
+   "snippet": "🚨 GEOPOLITICS 101 | REALITY CHECK 🇷🇺🇨🇳\n🤣 So your argument is that because China hasn't finalized one gas pipeline deal, Putin is finished and Beijing is preparing to grab Russian territory?\n\nThat's some Olympic-level mental gymnastics.\n\n💰 Europe is a bigger trading partner for China. Nobody needs to pretend otherwise.\n\nBut trade volume isn't the whole geopolitical picture. Russia supplies energy, shares a strategic relationship with Beijing, and already has an operating gas pipeline into China.\n\n⛽ Power of Siberia 2 is stuck on pricing negotiations. That's called negotiating, genius.\n\n🗺️ And your grand theory about China grabbing Russian territory? The two countries formally settled their border decades ago.\n\n🔥 You've confused a commercial negotiation with a geopolitical collapse.\n\n#Russia #China #Geopolitics #Energy #RealityCheck",
+   "body": "🚨 GEOPOLITICS 101 | REALITY CHECK 🇷🇺🇨🇳\n🤣 So your argument is that because China hasn't finalized one gas pipeline deal, Putin is finished and Beijing is preparing to grab Russian territory?\n\nThat's some Olympic-level mental gymnastics.\n\n💰 Europe is a bigger trading partner for China. Nobody needs to pretend otherwise.\n\nBut trade volume isn't the whole geopolitical picture. Russia supplies energy, shares a strategic relationship with Beijing, and already has an operating gas pipeline into China.\n\n⛽ Power of Siberia 2 is stuck on pricing negotiations. That's called negotiating, genius.\n\n🗺️ And your grand theory about China grabbing Russian territory? The two countries formally settled their border decades ago.\n\n🔥 You've confused a commercial negotiation with a geopolitical collapse.\n\n#Russia #China #Geopolitics #Energy #RealityCheck",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@AgenticSignal",
+   "country": [
+    "ru"
+   ],
+   "topic": [
+    "ene",
+    "cor"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.97,
+   "_ts": 1792328019.629,
+   "postedAt": "2026-10-18 20:53",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ru",
+   "title_zh": "🚨 地缘政治101 | 现实检查 🇷🇺🇨🇳 🤣 所以你的论点是，因为中国尚未敲定一项天然气管道协议，普京就完蛋了",
+   "snippet_zh": "🚨 地缘政治101 | 现实检查 🇷🇺🇨🇳\n🤣 所以你的论点是，因为中国尚未敲定一项天然气管道协议，普京就完蛋了，北京正准备夺取俄罗斯领土？\n\n这简直是奥运级别的思维体操。\n\n💰 欧洲对中国来说是更大的贸易伙伴。没有人需要假装不是这样。\n\n但贸易量并不是整个地缘政治图景的全部。俄罗斯供应能源，与北京保持战略关系，并且已经有一条运营中的天然气管道通往中国。\n\n⛽ 西伯利亚力量2号管道困在定价谈判上。这叫做谈判，天才。\n\n🗺️ 而你关于中国夺取俄罗斯领土的宏大理论？两国几十年前就正式解决了边界问题。\n\n🔥 你把商业谈判与地缘政治崩溃混为一谈了。\n\n#Russia #China #Geopolitics #Energy #RealityCheck",
+   "body_zh": "🚨 地缘政治101 | 现实检查 🇷🇺🇨🇳\n🤣 所以你的论点是，因为中国尚未敲定一项天然气管道协议，普京就完蛋了，北京正准备夺取俄罗斯领土？\n\n这简直是奥运级别的思维体操。\n\n💰 欧洲对中国来说是更大的贸易伙伴。没有人需要假装不是这样。\n\n但贸易量并不是整个地缘政治图景的全部。俄罗斯供应能源，与北京保持战略关系，并且已经有一条运营中的天然气管道通往中国。\n\n⛽ 西伯利亚力量2号管道困在定价谈判上。这叫做谈判，天才。\n\n🗺️ 而你关于中国夺取俄罗斯领土的宏大理论？两国几十年前就正式解决了边界问题。\n\n🔥 你把商业谈判与地缘政治崩溃混为一谈了。\n\n#Russia #China #Geopolitics #Energy #RealityCheck"
+  },
+  {
+   "platform": "x",
    "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto",
    "url": "https://x.com/westernpost_ng/status/2111797460196610489",
    "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
@@ -13073,6 +13877,174 @@ window.SITE_DATA = {
    "title_zh": "中国正从各个角度扼杀缅甸。",
    "snippet_zh": "中国正从各个角度扼制缅甸。在中国支持的公司悄悄重建炼油厂以确保军政府战机有燃料进行空袭的同时，中国也在吸走缅甸近80%的“血木”来满足其工业需求。",
    "body_zh": "中国正从各个角度扼制缅甸。在中国支持的公司悄悄重建炼油厂以确保军政府战机有燃料进行空袭的同时，中国也在吸走缅甸近80%的“血木”来满足其工业需求。"
+  },
+  {
+   "platform": "facebook",
+   "title": "This policy aims to boost earnings from the sector and combat illegal activities.",
+   "url": "https://www.facebook.com/asaase99.5/posts/goldbods-reforms-in-ghanas-gold-sector-have-directly-generated-over-1300-jobs-im/1476986961308949/",
+   "snippet": "2 days ago · This policy aims to boost earnings from the sector and combat illegal activities. Further reinforcing the sector's growth, Gyamfi pointed to the ...",
+   "body": "2 days ago · This policy aims to boost earnings from the sector and combat illegal activities. Further reinforcing the sector's growth, Gyamfi pointed to the ...",
+   "bodyLevel": "excerpt",
+   "author": "asaase99.5",
+   "handle": "@asaase99.5",
+   "country": [
+    "af"
+   ],
+   "topic": [
+    "pol",
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 2.0,
+   "_ts": 1792325810.34954,
+   "postedAt": "2026-10-18 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government GoldBod mining gold economy policy",
+   "title_zh": "这项政策旨在增加该行业的收入并打击非法活动。",
+   "snippet_zh": "2天前 · 这项政策旨在提高该部门的收入并打击非法活动。进一步加强该部门的增长，贾姆菲指出……",
+   "body_zh": "2天前 · 这项政策旨在提高该部门的收入并打击非法活动。进一步加强该部门的增长，贾姆菲指出……"
+  },
+  {
+   "platform": "facebook",
+   "title": "NPP's silence on economic indicators suggests Mahama is doing better",
+   "url": "https://www.facebook.com/JoyNewsOnTV/posts/npps-silence-on-economic-indicators-suggests-mahama-is-doing-better-haruna-iddri/1466491702341891/",
+   "snippet": "2 days ago · Reflecting on Mahama's tenure, Opare-Ansah noted that the economy experienced an annual growth rate of 8.8% from 2012 but dropped to 3.4% by the ...",
+   "body": "2 days ago · Reflecting on Mahama's tenure, Opare-Ansah noted that the economy experienced an annual growth rate of 8.8% from 2012 but dropped to 3.4% by the ...",
+   "bodyLevel": "excerpt",
+   "author": "JoyNewsOnTV",
+   "handle": "@JoyNewsOnTV",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 2.0,
+   "_ts": 1792325810.34954,
+   "postedAt": "2026-10-18 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "NPP 对经济指标的沉默表明马哈马做得更好",
+   "snippet_zh": "2天前 · 回顾马哈马的任期，奥帕雷-安萨指出，经济从2012年起经历了8.8%的年增长率，但到……",
+   "body_zh": "2天前 · 回顾马哈马的任期，奥帕雷-安萨指出，经济从2012年起经历了8.8%的年增长率，但到……"
+  },
+  {
+   "platform": "facebook",
+   "title": "Kojo Oppong Nkrumah filed a formal motion in Parliament.",
+   "url": "https://www.facebook.com/Channel1tvgh/posts/goldbod-ceo-sammy-gyamfi-has-explained-that-the-establishment-costs-captured-in-/1640495621450007/",
+   "snippet": "2 days ago · Kojo Oppong Nkrumah filed a formal motion in Parliament. He called for a bipartisan probe to investigate exactly where these millions went and ...",
+   "body": "2 days ago · Kojo Oppong Nkrumah filed a formal motion in Parliament. He called for a bipartisan probe to investigate exactly where these millions went and ...",
+   "bodyLevel": "excerpt",
+   "author": "Channel1tvgh",
+   "handle": "@Channel1tvgh",
+   "country": [
+    "af"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 2.0,
+   "_ts": 1792325810.34954,
+   "postedAt": "2026-10-18 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "科乔·奥蓬·恩克鲁玛在议会提交了一项正式动议。",
+   "snippet_zh": "2天前 · Kojo Oppong Nkrumah在议会提交了一项正式动议。他呼吁进行两党调查，以确切查明这些数百万资金的去向和……",
+   "body_zh": "2天前 · Kojo Oppong Nkrumah在议会提交了一项正式动议。他呼吁进行两党调查，以确切查明这些数百万资金的去向和……"
+  },
+  {
+   "platform": "facebook",
+   "title": "GoldBod terminates US$1 billion Goldstream deal in Ghana - Facebook",
+   "url": "https://www.facebook.com/gomashie.wisdomfaraday/posts/the-africa-policy-lens-on-the-matters-of-ghana-gold-board-goldbod-dealings-with-/28121184304225648/",
+   "snippet": "2 days ago · The post criticizes the Gold Board of Ghana, Sammy Gyamfi, and John Dramani Mahama for abandoning the first national refinery, questioning the ...",
+   "body": "2 days ago · The post criticizes the Gold Board of Ghana, Sammy Gyamfi, and John Dramani Mahama for abandoning the first national refinery, questioning the ...",
+   "bodyLevel": "excerpt",
+   "author": "gomashie.wisdomfaraday",
+   "handle": "@gomashie.wisdomfaraday",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "ene",
+    "min"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 2.0,
+   "_ts": 1792325810.34954,
+   "postedAt": "2026-10-18 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "加纳黄金局终止在加纳的10亿美元Goldstream交易 - Facebook",
+   "snippet_zh": "2天前·该帖子批评加纳黄金局、萨米·贾姆菲和约翰·德拉马尼·马哈马放弃了第一个国家炼油厂，对……提出质疑……",
+   "body_zh": "2天前·该帖子批评加纳黄金局、萨米·贾姆菲和约翰·德拉马尼·马哈马放弃了第一个国家炼油厂，对……提出质疑……"
+  },
+  {
+   "platform": "facebook",
+   "title": "This move is designed to stabilize the cedi and strengthen Ghana's gold reserves.",
+   "url": "https://www.facebook.com/JoyNewsOnTV/posts/public-accounts-committee-hearing-goldbod-is-on-track-8090-of-gold-mined-in-ghan/1466526112338450/",
+   "snippet": "2 days ago · This move is designed to stabilize the cedi and strengthen Ghana's gold reserves. Under Gyamfi's leadership, GoldBod has earned praise from ...",
+   "body": "2 days ago · This move is designed to stabilize the cedi and strengthen Ghana's gold reserves. Under Gyamfi's leadership, GoldBod has earned praise from ...",
+   "bodyLevel": "excerpt",
+   "author": "JoyNewsOnTV",
+   "handle": "@JoyNewsOnTV",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "eco",
+    "min"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 2.0,
+   "_ts": 1792325810.34954,
+   "postedAt": "2026-10-18 20:16",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "此举旨在稳定塞地并加强加纳的黄金储备。",
+   "snippet_zh": "2天前 · 此举旨在稳定塞地并加强加纳的黄金储备。在Gyamfi的领导下，GoldBod获得了……的赞扬",
+   "body_zh": "2天前 · 此举旨在稳定塞地并加强加纳的黄金储备。在Gyamfi的领导下，GoldBod获得了……的赞扬"
   },
   {
    "platform": "x",
@@ -14258,6 +15230,39 @@ window.SITE_DATA = {
   },
   {
    "platform": "x",
+   "title": "Nepal Balances Immigration Enforcement With Investment Protection in Chinese-Funded Meat Project",
+   "url": "https://x.com/townpostoffcl/status/2111555960183369960",
+   "snippet": "Nepal Balances Immigration Enforcement With Investment Protection in Chinese-Funded Meat Project https://townpost.net/2026/10/18/nepal-balances-immigration-enforcement-chinese-investment-meat-plant/",
+   "body": "Nepal Balances Immigration Enforcement With Investment Protection in Chinese-Funded Meat Project https://townpost.net/2026/10/18/nepal-balances-immigration-enforcement-chinese-investment-meat-plant/",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@townpostoffcl",
+   "country": [
+    "np"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 2.66,
+   "_ts": 1792269146.377,
+   "postedAt": "2026-10-18 04:32",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_np",
+   "title_zh": "尼泊尔在中国资助的肉类项目中平衡移民执法与投资保护",
+   "snippet_zh": "尼泊尔在中国资助的肉类项目中平衡移民执法与投资保护 https://townpost.net/2026/10/18/nepal-balances-immigration-enforcement-chinese-investment-meat-plant/",
+   "body_zh": "尼泊尔在中国资助的肉类项目中平衡移民执法与投资保护 https://townpost.net/2026/10/18/nepal-balances-immigration-enforcement-chinese-investment-meat-plant/"
+  },
+  {
+   "platform": "x",
    "title": "China’s expanding footprint around Ladakh and the Wakhan Corridor exposes the stakes of the India-China border dispute, where maps, infrastr",
    "url": "https://x.com/ChinaGSProject/status/2111547929089503632",
    "snippet": "China’s expanding footprint around Ladakh and the Wakhan Corridor exposes the stakes of the India-China border dispute, where maps, infrastructure and territorial claims are becoming instruments of power.\n\nhttps://chinaglobalsouth.com/2026/10/14/india-china-ladakh-border-dispute-map-wakhan-corridor/",
@@ -14964,7 +15969,7 @@ window.SITE_DATA = {
  ],
  "people": [
   {
-   "name": "Brucezhbing",
+   "name": "Shipsnapxx",
    "type": "个人",
    "role": "个人账号 / 公开帖文发布者",
    "org": "",
@@ -15017,6 +16022,33 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "个人账号。发布内容聚焦西非／萨赫勒区域的经济、政治议题，主要涉及🇧🇫🇲🇱🇳🇪 呼吁对#AES实施新的美国制裁引发了一个更大的问题：#经济压力真的。其职务与所属机构以本人公开档案页为准。"
+  },
+  {
+   "name": "Satvik_Pen",
+   "type": "个人",
+   "role": "个人账号 / 公开帖文发布者",
+   "org": "",
+   "country": [
+    "in"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Satvik_Pen",
+     "handle": "@Satvik_Pen"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "cor",
+    "eco"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "个人账号。发布内容聚焦西非地区的经济议题，主要涉及中国对印度试行出口管制，因为这是一个反噬有限的市场。。其职务与所属机构以本人公开档案页为准。"
   },
   {
    "name": "Ignis_Rex",
@@ -15106,8 +16138,8 @@ window.SITE_DATA = {
    "role": "个人账号 / 公开帖文发布者",
    "org": "",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -15325,6 +16357,33 @@ window.SITE_DATA = {
    "duty": "机构账号，关注尼日利亚、尼日尔、马里、西非／萨赫勒区域、非洲整体的经济、能源、矿产、政治、安全议题，主要涉及横跨撒哈拉铁路正在切实推进：工程已于2026年6月在阿尔及利亚启动，尼日尔的技术。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "DanKatsina50",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "DanKatsina50",
+   "country": [
+    "ng"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/DanKatsina50",
+     "handle": "@DanKatsina50"
+    }
+   ],
+   "items": 5,
+   "topics": [
+    "pol",
+    "sec"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 5 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注尼日利亚的政治、安全议题，主要涉及悲伤消息：据报道，今天上午，土匪在赞法拉州布库尤姆地方政府区的 Adafka–D。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "ChinaGSProject",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -15442,32 +16501,6 @@ window.SITE_DATA = {
    "duty": "机构账号，关注加纳的经济、矿产议题，主要涉及加纳与中国关系：加纳希望其与中国的商业关系带来互利，并有支持的投资机会。其发布内容可作为该机构对外表态的参考。"
   },
   {
-   "name": "DanKatsina50",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "DanKatsina50",
-   "country": [
-    "ng"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/DanKatsina50",
-     "handle": "@DanKatsina50"
-    }
-   ],
-   "items": 2,
-   "topics": [
-    "sec"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 2 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注尼日利亚的安全议题，主要涉及悲伤消息：据报道，今天上午，土匪在赞法拉州布库尤姆地方政府区的 Adafka–D。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
    "name": "WW3Watchtower",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -15574,6 +16607,33 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 2 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注西非地区的政治、安全议题，主要涉及印度在印度官方测量局地图上绘制了拉达克的28个地点，包括Gogra和Hot Sp。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "SahelAlerte",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "SahelAlerte",
+   "country": [
+    "ml"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/SahelAlerte",
+     "handle": "@SahelAlerte"
+    }
+   ],
+   "items": 2,
+   "topics": [
+    "pol",
+    "sec"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 2 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注马里的政治、安全议题，主要涉及🚨 紧急 | 梅纳卡 本周日 2026 年 10 月 18 日，一些隶属于伊斯兰。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "gtvghana",
@@ -15825,6 +16885,32 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注马里的安全议题，主要涉及多个一致消息来源报告称，#伊斯兰国西非省 在过去24小时内在多个村庄屠杀了数十名。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "BreikaBeiba",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "BreikaBeiba",
+   "country": [
+    "ng"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/BreikaBeiba",
+     "handle": "@BreikaBeiba"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注尼日利亚的政治议题，主要涉及关于摩洛哥-尼日利亚天然气管道项目严肃、可信且现实的情况需要了解什么。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "SaurabhAshutos3",
@@ -16144,6 +17230,32 @@ window.SITE_DATA = {
    "duty": "机构账号，关注马里的安全议题，主要涉及愿真主怜悯这些可怜的同胞。。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "BAFoTTibet",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "BAFoTTibet",
+   "country": [
+    "np"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/BAFoTTibet",
+     "handle": "@BAFoTTibet"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济议题，主要涉及中国以不存在的西藏难民威胁为由拒绝重新开放尼泊尔边境贸易站。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "ABCouncil_ng",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -16329,6 +17441,33 @@ window.SITE_DATA = {
    "duty": "机构账号，关注西非地区的能源、安全议题，主要涉及中国喷气燃料炼厂绕过制裁，缅甸血木材流向中国，以及更多 缅甸军政府已重启。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "thegeo_sync",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "thegeo_sync",
+   "country": [
+    "in"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/thegeo_sync",
+     "handle": "@thegeo_sync"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco",
+    "sec"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济、安全议题，主要涉及🚨 #BREAKING 中国已对印度寻求的隧道掘进机实施出口限制，理由是国家安全。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "TibetanReview",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -16387,8 +17526,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "loong_of",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -16894,8 +18033,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "sun_jun69301",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -17021,6 +18160,33 @@ window.SITE_DATA = {
    "duty": "机构账号，关注西非地区的经济议题，主要涉及中国将从 11 月起对隧道掘进机出口进行许可。。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "vocpa_tuticorin",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "vocpa_tuticorin",
+   "country": [
+    "vn"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/vocpa_tuticorin",
+     "handle": "@vocpa_tuticorin"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "cor",
+    "eco"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济议题，主要涉及VOC港口新闻 | VOC港口接收干线船舶，提升与中国南方和越南的连通性 主要媒。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "CurrentTre",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -17045,6 +18211,60 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注马里的安全议题，主要涉及人权观察（HRW）在本周一（10月19日）发布的一份报告中称，JNIM 已承认在。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "tanvi_madan",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "tanvi_madan",
+   "country": [
+    "in"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/tanvi_madan",
+     "handle": "@tanvi_madan"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco",
+    "min"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济、矿产议题，主要涉及中国的隧道掘进机出口管制已对印度生效。。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "prasannavishy",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "prasannavishy",
+   "country": [
+    "in"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/prasannavishy",
+     "handle": "@prasannavishy"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco",
+    "sec"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济、安全议题，主要涉及中国宣布对隧道掘进机（TBM）实施出口管制。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "sabaqureshi457",
@@ -17072,32 +18292,6 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注西非地区的经济、安全议题，主要涉及🇵🇰 #巴基斯坦经历了#中国梦：#CPEC延误、债务压力、有利于他们的贸易条款。。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "SahelAlerte",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "SahelAlerte",
-   "country": [
-    "ml"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/SahelAlerte",
-     "handle": "@SahelAlerte"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "sec"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注马里的安全议题，主要涉及在梅纳卡，经过一段暂停和地方安排后，针对图阿雷格族 Daoussahak 平民的。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "HariSud2",
@@ -17423,6 +18617,32 @@ window.SITE_DATA = {
    "duty": "机构账号，关注加纳的经济、政治议题，主要涉及副总统教授 Naana Jane Opoku-Agyemang 敦促中国投资者在。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "jacknamok",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "jacknamok",
+   "country": [
+    "vn"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/jacknamok",
+     "handle": "@jacknamok"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的政治议题，主要涉及目前国内外专家都清楚看到越南是众多中国公司为规避美国关税而跑去开设工厂的地方，目。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "Ddmoni247",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -17454,8 +18674,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "NewsTongueX",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -17529,6 +18749,33 @@ window.SITE_DATA = {
    "duty": "机构账号，关注西非地区的经济议题，主要涉及随着#Dashain临近，Tatopani重新开放带来希望，但仍有45多个集装箱。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "techsomaafrica",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "techsomaafrica",
+   "country": [
+    "ng"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/techsomaafrica",
+     "handle": "@techsomaafrica"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco",
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注尼日利亚的经济、政治议题，主要涉及CBN希望让尼日利亚企业更容易向中国供应商付款。。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "nepalherald",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -17560,8 +18807,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "business",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -17634,6 +18881,33 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注西非地区的经济、安全议题，主要涉及中国决定对与隧道掘进机、步行式挖掘机和高原型湿式喷射设备相关的相关物品实施出口管。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "donlaz4u",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "donlaz4u",
+   "country": [
+    "ng"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/donlaz4u",
+     "handle": "@donlaz4u"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco",
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注尼日利亚的经济、政治议题，主要涉及尼日利亚与美国的卫生伙伴关系：国家主权和国内融资 作者：穆罕默德·阿里·帕特，尼。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "AKaszon",
@@ -17799,8 +19073,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "AustJIA",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -18033,32 +19307,6 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注西非地区的能源、政治议题，主要涉及🚨🛢️🇨🇳🇷🇺 中国总理李强将于10月20日至22日访问#俄罗斯。。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "num1_ch",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "num1_ch",
-   "country": [
-    "ru"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/num1_ch",
-     "handle": "@num1_ch"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "ene"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的能源议题，主要涉及🔥🛢️🇨🇳🇷🇺 中国总理李强将于10月20-22日访问俄罗斯。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "KevinMorr1s",
@@ -18487,6 +19735,33 @@ window.SITE_DATA = {
    "duty": "机构账号，关注西非地区的能源、政治议题，主要涉及自欧盟禁令以来，中国已购买约2900亿欧元俄罗斯化石燃料。。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "anasalhajji",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "anasalhajji",
+   "country": [
+    "ru"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/anasalhajji",
+     "handle": "@anasalhajji"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco",
+    "ene"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济、能源议题，主要涉及💥注意：谁从三海危机中受益：在中国和俄罗斯在尼古拉·帕夫洛夫之后悄悄推进北极海上。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "dream_elephant",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -18595,6 +19870,33 @@ window.SITE_DATA = {
    "duty": "机构账号，关注尼日利亚的经济、安全议题。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "AgenticSignal",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "AgenticSignal",
+   "country": [
+    "ru"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AgenticSignal",
+     "handle": "@AgenticSignal"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "cor",
+    "ene"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的能源议题，主要涉及🚨 地缘政治101 | 现实检查 🇷🇺🇨🇳 🤣 所以你的论点是，因为中国尚未敲定。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "westernpost_ng",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -18675,32 +19977,6 @@ window.SITE_DATA = {
    "duty": "机构账号，关注西非地区的能源、安全议题，主要涉及中国正从各个角度扼杀缅甸。。其发布内容可作为该机构对外表态的参考。"
   },
   {
-   "name": "KGPOSTupdates",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "KGPOSTupdates",
-   "country": [
-    "np"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/KGPOSTupdates",
-     "handle": "@KGPOSTupdates"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "pol"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的政治议题，主要涉及中国在Dashain前开放了Tatopani边境口岸三天。。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
    "name": "asaase99.5",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -18779,6 +20055,32 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（Facebook）",
    "contact": "经 Facebook 公开主页联络",
    "duty": "机构账号，关注加纳的能源、矿产议题，主要涉及加纳黄金局终止在加纳的10亿美元Goldstream交易。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "KGPOSTupdates",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "KGPOSTupdates",
+   "country": [
+    "np"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/KGPOSTupdates",
+     "handle": "@KGPOSTupdates"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的政治议题，主要涉及中国在Dashain前开放了Tatopani边境口岸三天。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "KawuGarba",
@@ -19394,6 +20696,32 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注尼日利亚的安全议题，主要涉及看看谁掌握权力。这是总统府自己的名单：🔹 22名安全机构负责人中只有1名来自东南。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "townpostoffcl",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "townpostoffcl",
+   "country": [
+    "np"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/townpostoffcl",
+     "handle": "@townpostoffcl"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济议题，主要涉及尼泊尔在中国资助的肉类项目中平衡移民执法与投资保护。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "MERICAxFIRST",
@@ -20012,30 +21340,6 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责加纳等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "rappler.com 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "rappler.com",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://rappler.com",
-     "handle": ""
-    }
-   ],
-   "items": 6,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 6 条",
-   "contact": "https://rappler.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
    "name": "hindustantimes.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -20057,6 +21361,30 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 5 条",
    "contact": "https://hindustantimes.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "rappler.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "rappler.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://rappler.com",
+     "handle": ""
+    }
+   ],
+   "items": 5,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 5 条",
+   "contact": "https://rappler.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -20684,30 +22012,6 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "instituteforenergyresearch.org 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "instituteforenergyresearch.org",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://instituteforenergyresearch.org",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://instituteforenergyresearch.org（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
    "name": "instagram.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -20729,6 +22033,30 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://instagram.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "instituteforenergyresearch.org 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "instituteforenergyresearch.org",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://instituteforenergyresearch.org",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://instituteforenergyresearch.org（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -20993,30 +22321,6 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://jpost.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "africa.businessinsider.com 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "africa.businessinsider.com",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://africa.businessinsider.com",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://africa.businessinsider.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -21593,30 +22897,6 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://pressreader.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "english.www.gov.cn 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "english.www.gov.cn",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://english.www.gov.cn",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://english.www.gov.cn（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {

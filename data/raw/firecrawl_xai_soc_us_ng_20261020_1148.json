@@ -1,0 +1,66 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/militaryafrica/status/2112221133151854599",
+     "title": "US, Nigeria strengthens counter-terror ties Nigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Souther",
+     "description": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "snippet": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Military Africa",
+     "handle": "@militaryafrica"
+    },
+    {
+     "url": "https://x.com/AvTrackGhana/status/2111873220936622415",
+     "title": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending",
+     "description": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending two months on the ground.\n\nThe aircraft operates around the Chad–Nigeria border region, supporting bilateral counterterrorism efforts.",
+     "snippet": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending two months on the ground.\n\nThe aircraft operates around the Chad–Nigeria border region, supporting bilateral counterterrorism efforts.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aviation TrackerGH™",
+     "handle": "@AvTrackGhana"
+    },
+    {
+     "url": "https://x.com/MERICAxFIRST/status/2111536488882049209",
+     "title": "Christians in Nigeria got years of statements from Washington.",
+     "description": "Christians in Nigeria got years of statements from Washington. On Dec 25, 2025, they got AFRICOM strikes on ISIS camps in Sokoto State. Words vs. results.",
+     "snippet": "Christians in Nigeria got years of statements from Washington. On Dec 25, 2025, they got AFRICOM strikes on ISIS camps in Sokoto State. Words vs. results.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AMERICAN HERO",
+     "handle": "@MERICAxFIRST"
+    },
+    {
+     "url": "https://x.com/ABCouncil_ng/status/2112259848872341698",
+     "title": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing d",
+     "description": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing dialogue on trade, critical minerals, energy, infrastructure and security to strengthen bilateral investment and cooperation. #USNigeria",
+     "snippet": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing dialogue on trade, critical minerals, energy, infrastructure and security to strengthen bilateral investment and cooperation. #USNigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "American Business Council NG",
+     "handle": "@ABCouncil_ng"
+    },
+    {
+     "url": "https://x.com/grok/status/2112265294181695880",
+     "title": "No. There is no credible evidence that USAID funded Boko Haram. In February 2025, US Congressman Scott Perry alleged USAID money went to gro",
+     "description": "No. There is no credible evidence that USAID funded Boko Haram.\n\nIn February 2025, US Congressman Scott Perry alleged USAID money went to groups including Boko Haram, without providing specific proof. The US Ambassador to Nigeria stated there is absolutely no evidence of such diversion, noting Boko Haram has been a designated Foreign Terrorist Organization since 2013 and that strict controls prevent aid from reaching terrorists. Nigerian probes into the claim have produced no verified findings. Boko Haram's known funding comes mainly from local crime, kidnappings, and other sources.",
+     "snippet": "No. There is no credible evidence that USAID funded Boko Haram.\n\nIn February 2025, US Congressman Scott Perry alleged USAID money went to groups including Boko Haram, without providing specific proof. The US Ambassador to Nigeria stated there is absolutely no evidence of such diversion, noting Boko Haram has been a designated Foreign Terrorist Organization since 2013 and that strict controls prevent aid from reaching terrorists. Nigerian probes into the claim have produced no verified findings. Boko Haram's known funding comes mainly from local crime, kidnappings, and other sources.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

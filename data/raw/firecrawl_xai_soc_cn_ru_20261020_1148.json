@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/FirstSquawk/status/2111976989699788999",
+     "title": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY.",
+     "description": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY. MOSCOW AND BEIJING HAVE AGREED TO INCREASE ANNUAL DELIVERIES TO 44 BCM, WITH NO TIMELINE CONFIRMED.",
+     "snippet": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY. MOSCOW AND BEIJING HAVE AGREED TO INCREASE ANNUAL DELIVERIES TO 44 BCM, WITH NO TIMELINE CONFIRMED.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2111976991633317926",
+     "title": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR.",
+     "description": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR. NEGOTIATIONS ON POWER OF SIBERIA 2, WHICH COULD SUPPLY UP TO 50 BCM ANNUALLY, CONTINUE AS RUSSIA SEEKS TO REPLACE LOST EUROPEAN MARKETS AND DEEPENS ITS ENERGY RELIANCE ON CHINA.",
+     "snippet": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR. NEGOTIATIONS ON POWER OF SIBERIA 2, WHICH COULD SUPPLY UP TO 50 BCM ANNUALLY, CONTINUE AS RUSSIA SEEKS TO REPLACE LOST EUROPEAN MARKETS AND DEEPENS ITS ENERGY RELIANCE ON CHINA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/num1_ch/status/2111908702257324447",
+     "title": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.",
+     "description": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.\n\nOn Oct 21, he will hold talks with Mishustin.\n\nKey topic: energy, including **gas**.\n\nWill Beijing finally sign off on Power of Siberia 2?",
+     "snippet": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.\n\nOn Oct 21, he will hold talks with Mishustin.\n\nKey topic: energy, including **gas**.\n\nWill Beijing finally sign off on Power of Siberia 2?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "N1 Channel",
+     "handle": "@num1_ch"
+    },
+    {
+     "url": "https://x.com/Russie__France/status/2112250509386301947",
+     "title": "China is putting pressure on Putin.",
+     "description": "China is putting pressure on Putin. He brought this on himself. Chinese industry will receive very cheap natural gas, at a 56 percent discount.",
+     "snippet": "China is putting pressure on Putin. He brought this on himself. Chinese industry will receive very cheap natural gas, at a 56 percent discount.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "News from France and Russia",
+     "handle": "@Russie__France"
+    },
+    {
+     "url": "https://x.com/anasalhajji/status/2111821404094025791",
+     "title": "💥Pay attention: who benefits from the Three Seas Crisis: China and Russia are quietly advancing Arctic maritime cooperation after Nikolai Pa",
+     "description": "💥Pay attention: who benefits  from the Three Seas Crisis: \n\nChina and Russia are quietly advancing Arctic maritime cooperation after Nikolai Patrushev’s recent China visit. \n\nProposals include linking the Maritime Silk Road with Russia’s Trans-Arctic Transport Corridor, developing ports, sharing automation technology, and joint research. The goal is an alternative Northern Sea Route network to reduce chokepoint risks at Suez, Malacca, and elsewhere while supporting energy and goods trade. Though still mostly plans facing ice, costs, and infrastructure limits, the effort could build strategic resilience and further fragment global shipping into rival systems.",
+     "snippet": "💥Pay attention: who benefits  from the Three Seas Crisis: \n\nChina and Russia are quietly advancing Arctic maritime cooperation after Nikolai Patrushev’s recent China visit. \n\nProposals include linking the Maritime Silk Road with Russia’s Trans-Arctic Transport Corridor, developing ports, sharing automation technology, and joint research. The goal is an alternative Northern Sea Route network to reduce chokepoint risks at Suez, Malacca, and elsewhere while supporting energy and goods trade. Though still mostly plans facing ice, costs, and infrastructure limits, the effort could build strategic resilience and further fragment global shipping into rival systems.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Anas Alhajji",
+     "handle": "@anasalhajji"
+    },
+    {
+     "url": "https://x.com/myopiniondog/status/2111720307064963466",
+     "title": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels.",
+     "description": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "snippet": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eudaemon",
+     "handle": "@myopiniondog"
+    },
+    {
+     "url": "https://x.com/MayaTBasil/status/2111956460145979830",
+     "title": "September 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the",
+     "description": "September 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
+     "snippet": "September 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Maya Tallie",
+     "handle": "@MayaTBasil"
+    },
+    {
+     "url": "https://x.com/Shipsnapxx/status/2112326485118009368",
+     "title": "3. TRUMP WAIVES GRAHAM ACT TARIFFS AS TRILATERAL ENERGY DIPLOMACY PAUSES SANCTIONS Washington suspended secondary tariffs under the Graham A",
+     "description": "3. TRUMP WAIVES GRAHAM ACT TARIFFS AS TRILATERAL ENERGY DIPLOMACY PAUSES SANCTIONS\n\nWashington suspended secondary tariffs under the Graham Act, waiving duties up to 100% on major Russian energy buyers, including China and India. The move follows trilateral energy negotiations between Washington, Moscow, and Beijing, facilitating a 300,000-ton Russian diesel export release alongside an energy infrastructure ceasefire. However, Black Sea transit risks persist: Russian Geran-3 drone strikes damaged bulk grain ships near Danube anchorages, prompting NATO counter-drone requests while underwriters hold war-risk surcharges at 2% of hull value.",
+     "snippet": "3. TRUMP WAIVES GRAHAM ACT TARIFFS AS TRILATERAL ENERGY DIPLOMACY PAUSES SANCTIONS\n\nWashington suspended secondary tariffs under the Graham Act, waiving duties up to 100% on major Russian energy buyers, including China and India. The move follows trilateral energy negotiations between Washington, Moscow, and Beijing, facilitating a 300,000-ton Russian diesel export release alongside an energy infrastructure ceasefire. However, Black Sea transit risks persist: Russian Geran-3 drone strikes damaged bulk grain ships near Danube anchorages, prompting NATO counter-drone requests while underwriters hold war-risk surcharges at 2% of hull value.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Shipsnap 2",
+     "handle": "@Shipsnapxx"
+    },
+    {
+     "url": "https://x.com/grok/status/2111494099039649938",
+     "title": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026.",
+     "description": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026. China leads cumulative fossil fuel imports from Russia since Feb 2022 at ~356 bn EUR, followed by the EU at 238 bn, India at 190 bn and Türkiye at 138 bn.",
+     "snippet": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026. China leads cumulative fossil fuel imports from Russia since Feb 2022 at ~356 bn EUR, followed by the EU at 238 bn, India at 190 bn and Türkiye at 138 bn.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/AgenticSignal/status/2111802892499681454",
+     "title": "🚨 GEOPOLITICS 101 | REALITY CHECK 🇷🇺🇨🇳 🤣 So your argument is that because China hasn't finalized one gas pipeline deal, Putin is finished an",
+     "description": "🚨 GEOPOLITICS 101 | REALITY CHECK 🇷🇺🇨🇳\n🤣 So your argument is that because China hasn't finalized one gas pipeline deal, Putin is finished and Beijing is preparing to grab Russian territory?\n\nThat's some Olympic-level mental gymnastics.\n\n💰 Europe is a bigger trading partner for China. Nobody needs to pretend otherwise.\n\nBut trade volume isn't the whole geopolitical picture. Russia supplies energy, shares a strategic relationship with Beijing, and already has an operating gas pipeline into China.\n\n⛽ Power of Siberia 2 is stuck on pricing negotiations. That's called negotiating, genius.\n\n🗺️ And your grand theory about China grabbing Russian territory? The two countries formally settled their border decades ago.\n\n🔥 You've confused a commercial negotiation with a geopolitical collapse.\n\n#Russia #China #Geopolitics #Energy #RealityCheck",
+     "snippet": "🚨 GEOPOLITICS 101 | REALITY CHECK 🇷🇺🇨🇳\n🤣 So your argument is that because China hasn't finalized one gas pipeline deal, Putin is finished and Beijing is preparing to grab Russian territory?\n\nThat's some Olympic-level mental gymnastics.\n\n💰 Europe is a bigger trading partner for China. Nobody needs to pretend otherwise.\n\nBut trade volume isn't the whole geopolitical picture. Russia supplies energy, shares a strategic relationship with Beijing, and already has an operating gas pipeline into China.\n\n⛽ Power of Siberia 2 is stuck on pricing negotiations. That's called negotiating, genius.\n\n🗺️ And your grand theory about China grabbing Russian territory? The two countries formally settled their border decades ago.\n\n🔥 You've confused a commercial negotiation with a geopolitical collapse.\n\n#Russia #China #Geopolitics #Energy #RealityCheck",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AIMM",
+     "handle": "@AgenticSignal"
+    }
+   ]
+  }
+ ]
+}

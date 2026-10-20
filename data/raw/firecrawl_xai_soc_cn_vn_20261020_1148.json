@@ -1,0 +1,116 @@
+{
+ "query": "China Vietnam Chinese company railway South China Sea",
+ "_tag": "soc_cn_vn",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/nguyens32401884/status/2111738821352271994",
+     "title": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be comp",
+     "description": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "snippet": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Digital Assets Holder",
+     "handle": "@nguyens32401884"
+    },
+    {
+     "url": "https://x.com/nguyen_alex2517/status/2111747526143668488",
+     "title": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ h",
+     "description": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "snippet": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alex Nguyen",
+     "handle": "@nguyen_alex2517"
+    },
+    {
+     "url": "https://x.com/rw888/status/2111492192283828487",
+     "title": "that's not true anymore, Vietnam is now welcoming Chinese high speed rail (HSR) investment, even adopting the same railway gauge as China.",
+     "description": "that's not true anymore, Vietnam is now welcoming Chinese high speed rail (HSR) investment, even adopting the same railway gauge as China.  In geopolitical terms, Vietnam has pivoted towards China in an unprecedented way, specifically because how erratic US has been.",
+     "snippet": "that's not true anymore, Vietnam is now welcoming Chinese high speed rail (HSR) investment, even adopting the same railway gauge as China.  In geopolitical terms, Vietnam has pivoted towards China in an unprecedented way, specifically because how erratic US has been.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roger W.",
+     "handle": "@rw888"
+    },
+    {
+     "url": "https://x.com/jacknamok/status/2112122988816695757",
+     "title": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện",
+     "description": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện tại em quan sát  được là một đội Trung Quốc rất đông đang đổ bộ Hải Phòng",
+     "snippet": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện tại em quan sát  được là một đội Trung Quốc rất đông đang đổ bộ Hải Phòng",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CSM Nam",
+     "handle": "@jacknamok"
+    },
+    {
+     "url": "https://x.com/Maytechummia/status/2112097076787953773",
+     "title": "China is that expansionist.",
+     "description": "China is that expansionist. Just think of the 9 dash line grabbing approximately 90% of the SCS. The line loops hundreds of miles away from mainland China, cutting directly into the internationally recognised EEZs of Vietnam, the Philippines, Malaysia, Brunei, and Indonesia.",
+     "snippet": "China is that expansionist. Just think of the 9 dash line grabbing approximately 90% of the SCS. The line loops hundreds of miles away from mainland China, cutting directly into the internationally recognised EEZs of Vietnam, the Philippines, Malaysia, Brunei, and Indonesia.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mayte Chummia",
+     "handle": "@Maytechummia"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2112091628596854991",
+     "title": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime ac",
+     "description": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China are colliding with Hanoi’s efforts to protect its strategic interests in the Gulf of Thailand.",
+     "snippet": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China are colliding with Hanoi’s efforts to protect its strategic interests in the Gulf of Thailand.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/vocpa_tuticorin/status/2112173611398398006",
+     "title": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam Leading media publications have cover",
+     "description": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam\n\nLeading media publications have covered V.O. Chidambaranar Port Authority’s latest milestone in strengthening maritime connectivity with South China and Vietnam, highlighting the arrival of the mainline container vessel M.V. Nawata Bhum at Dakshin Bharat Gateway Terminal (DBGT) on 18 October 2026.\n\nOperated by Regional Container Line (RCL), the Singapore-flagged vessel has a container capacity of approximately 1,100 TEUs. The new shipping service offers transit times of 13 days from Qinzhou, China, and 12 days from Haiphong, Vietnam, to Thoothukudi.\n\nConnecting Qinzhou, Haiphong, Thoothukudi, Kattupalli and Chu Lai, the service expands shipping options and creates new trade opportunities for exporters, importers and industries across southern Tamil Nadu.",
+     "snippet": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam\n\nLeading media publications have covered V.O. Chidambaranar Port Authority’s latest milestone in strengthening maritime connectivity with South China and Vietnam, highlighting the arrival of the mainline container vessel M.V. Nawata Bhum at Dakshin Bharat Gateway Terminal (DBGT) on 18 October 2026.\n\nOperated by Regional Container Line (RCL), the Singapore-flagged vessel has a container capacity of approximately 1,100 TEUs. The new shipping service offers transit times of 13 days from Qinzhou, China, and 12 days from Haiphong, Vietnam, to Thoothukudi.\n\nConnecting Qinzhou, Haiphong, Thoothukudi, Kattupalli and Chu Lai, the service expands shipping options and creates new trade opportunities for exporters, importers and industries across southern Tamil Nadu.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "V.O.Chidambaranar Port Authority, Tuticorin",
+     "handle": "@vocpa_tuticorin"
+    },
+    {
+     "url": "https://x.com/Ignis_Rex/status/2112188822025019481",
+     "title": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.",
+     "description": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.\n\nVietnam and the Philippines cannot buy the dredging components above a certain specs for building islands in South China Sea.",
+     "snippet": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.\n\nVietnam and the Philippines cannot buy the dredging components above a certain specs for building islands in South China Sea.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ignis Rex",
+     "handle": "@Ignis_Rex"
+    },
+    {
+     "url": "https://x.com/joequant/status/2111454804333695126",
+     "title": "One thing that suggests that China has a point is that there are not major issues with any of the claimants outside of PH.",
+     "description": "One thing that suggests that China has a point is that there are not major issues with any of the claimants outside of PH.  Vietnam and China have agreed to SCS and it's not an active issue.  The issue is not with the PH, it's with the US.",
+     "snippet": "One thing that suggests that China has a point is that there are not major issues with any of the claimants outside of PH.  Vietnam and China have agreed to SCS and it's not an active issue.  The issue is not with the PH, it's with the US.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Joequant",
+     "handle": "@joequant"
+    },
+    {
+     "url": "https://x.com/9DashLine/status/2112005061358293031",
+     "title": "Money, not China’s new base, is Vietnam’s real worry in Laos https://www.lowyinstitute.org/the-interpreter/money-not-china-s-new-base-is-vie",
+     "description": "Money, not China’s new base, is Vietnam’s real worry in Laos https://www.lowyinstitute.org/the-interpreter/money-not-china-s-new-base-is-vietnam-s-real-worry-in-laos A Chinese facility and a reshuffle in Vientiane are testing old loyalties – Hanoi must now compete on economics, not history.",
+     "snippet": "Money, not China’s new base, is Vietnam’s real worry in Laos https://www.lowyinstitute.org/the-interpreter/money-not-china-s-new-base-is-vietnam-s-real-worry-in-laos A Chinese facility and a reshuffle in Vientiane are testing old loyalties – Hanoi must now compete on economics, not history.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "9DASHLINE",
+     "handle": "@9DashLine"
+    }
+   ]
+  }
+ ]
+}

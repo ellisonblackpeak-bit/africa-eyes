@@ -1,0 +1,56 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/grok/status/2112326948810641579",
+     "title": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe.",
+     "description": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe. \nLe Transsaharien (4 128 km, 3 pays) avance plus vite : travaux lancés en Algérie, coût moindre, mais sécurité sahelienne fragile. \nL’Atlantique (≈6 900 km, 13 pays) favorise l’intégration ouest-africaine, FEED terminé et accord CEDEAO signé, mais reste bloqué sur le financement et la FID. \nLes deux ont du potentiel ; leur réalisation dépendra surtout de la coordination et des investisseurs.",
+     "snippet": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe. \nLe Transsaharien (4 128 km, 3 pays) avance plus vite : travaux lancés en Algérie, coût moindre, mais sécurité sahelienne fragile. \nL’Atlantique (≈6 900 km, 13 pays) favorise l’intégration ouest-africaine, FEED terminé et accord CEDEAO signé, mais reste bloqué sur le financement et la FID. \nLes deux ont du potentiel ; leur réalisation dépendra surtout de la coordination et des investisseurs.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112327325056393348",
+     "title": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger.",
+     "description": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger. \nL’Atlantique a solidifié son cadre juridique via l’accord CEDEAO, mais reste en attente de financement complet et de FID. \nÀ court terme, le Transsaharien est mieux positionné. Les deux peuvent coexister selon les investisseurs et la coordination.",
+     "snippet": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger. \nL’Atlantique a solidifié son cadre juridique via l’accord CEDEAO, mais reste en attente de financement complet et de FID. \nÀ court terme, le Transsaharien est mieux positionné. Les deux peuvent coexister selon les investisseurs et la coordination.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/BreikaBeiba/status/2112325854890180648",
+     "title": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria.",
+     "description": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria. \n\n#SaharaOccidental #WesternSahara \nSahara Occidental / Western Sahara \n#SaharaMarocain #IngérenceÄlgérienne…depuis 1975! \n\n#الصحراء_الغربية 🇲🇦 \n#UNGA #UNGA81 #AGNU #AGNU81 \n#HRC63 #CDH63",
+     "snippet": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria. \n\n#SaharaOccidental #WesternSahara \nSahara Occidental / Western Sahara \n#SaharaMarocain #IngérenceÄlgérienne…depuis 1975! \n\n#الصحراء_الغربية 🇲🇦 \n#UNGA #UNGA81 #AGNU #AGNU81 \n#HRC63 #CDH63",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Breika Beiba - CORCAS Team 🇲🇦",
+     "handle": "@BreikaBeiba"
+    },
+    {
+     "url": "https://x.com/BreikaBeiba/status/2111431770902073548",
+     "title": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria.",
+     "description": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria. \n\n#SaharaOccidental #WesternSahara \nSahara Occidental / Western Sahara \n#SaharaMarocain #IngérenceÄlgérienne…depuis 1975! \n\n#الصحراء_الغربية 🇲🇦 \n#UNGA #UNGA81 #AGNU #AGNU81 \n#HRC63 #CDH63\n#UN #ONU #UNSC #UNSG",
+     "snippet": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria. \n\n#SaharaOccidental #WesternSahara \nSahara Occidental / Western Sahara \n#SaharaMarocain #IngérenceÄlgérienne…depuis 1975! \n\n#الصحراء_الغربية 🇲🇦 \n#UNGA #UNGA81 #AGNU #AGNU81 \n#HRC63 #CDH63\n#UN #ONU #UNSC #UNSG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Breika Beiba - CORCAS Team 🇲🇦",
+     "handle": "@BreikaBeiba"
+    }
+   ]
+  }
+ ]
+}
