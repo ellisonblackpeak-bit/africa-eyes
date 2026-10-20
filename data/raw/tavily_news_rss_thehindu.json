@@ -2,6 +2,69 @@
  "success": true,
  "results": [
   {
+   "title": "Kering is betting big on India",
+   "url": "https://www.thehindu.com/life-and-style/fashion/kering-betting-big-india-kering-generation-award-ashita-singhal-anish-malpani-chandni-batra/article71603701.ece",
+   "content": "As it works to make its portfolio more environmentally conscious, the parent company of Gucci and Saint Laurent has backed three young Indian startups",
+   "published_date": "Tue, 20 Oct 2026 14:55:41 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "What’s driving the wave of unrest across Europe?",
+   "url": "https://www.thehindu.com/videos/what-driving-the-wave-of-unrest-across-europe/article71603967.ece",
+   "content": "Crowds have taken to the streets for weeks in major cities, resulting in arrests, looting, injuries, and violence across France, Italy and Albania.",
+   "published_date": "Tue, 20 Oct 2026 14:54:22 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Watch: Tiger Shroff firing case: Suspect’s mother alleges son was lured and trapped",
+   "url": "https://www.thehindu.com/videos/shorts/watch-tiger-shroff-firing-case-suspects-mother-alleges-son-was-lured-and-trapped/article71603962.ece",
+   "content": "",
+   "published_date": "Tue, 20 Oct 2026 14:54:11 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "2026 Economics Nobel Prize: Putting the humanity in macroeconomics",
+   "url": "https://www.thehindu.com/business/Economy/2026-economics-nobel-prize-putting-the-humanity-in-macroeconomics/article71586737.ece",
+   "content": "Robert E. Hall and Michael Woodford provided the theoretical and empirical underpinnings to a basic but powerful idea for policymakers: the economy is made out of the people in it.",
+   "published_date": "Tue, 20 Oct 2026 14:53:16 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Two Bay of Bengal systems likely to bring widespread rain to Keralam; yellow alert for 7 districts on October 20",
+   "url": "https://www.thehindu.com/news/national/kerala/two-bay-of-bengal-systems-likely-to-bring-widespread-rain-to-keralam-yellow-alert-for-7-districts-on-october-20/article71603885.ece",
+   "content": "Yellow alert for seven districts from Thiruvananthapuram to Ernakulam on Tuesday, where isolated heavy showers are expected during the next 24 hours",
+   "published_date": "Tue, 20 Oct 2026 14:52:53 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Tarique Rahman visits Durga Puja pavilions in Bangladesh",
+   "url": "https://www.thehindu.com/news/international/tarique-rahman-visits-durga-puja-pavilions-in-bangladesh/article71603934.ece",
+   "content": "The Bangladesh Government said it raised its Durga Puja grant from 4 crore taka to 5 crore taka",
+   "published_date": "Tue, 20 Oct 2026 14:52:19 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Greens see red over Keralam government move to permit sand extraction in 17 rivers",
+   "url": "https://www.thehindu.com/news/national/kerala/greens-see-red-over-keralam-govts-move-to-permit-sand-mining-in-17-rivers/article71603504.ece",
+   "content": "Society for the Protection of the Environment, Kerala (SPEK) says though the govt decision has been presented as a flood mitigation step, no environmental impact assessment appears to have been conducted. Activists also point out that this may serve as a pretext for indiscriminate extraction of sand from all rivers and streams",
+   "published_date": "Tue, 20 Oct 2026 14:45:55 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Anbumani Ramadoss discharged from hospital after undergoing elective knee procedure",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-ramadoss-undergoes-elective-knee-procedure/article71602121.ece",
+   "content": "As per a medical bulletin, Dr. Ramadoss underwent the procedure at Chennai’s Apollo Hospitals, Greams Road",
+   "published_date": "Tue, 20 Oct 2026 14:44:46 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Netflix faces mounting challenges in keeping users engaged",
+   "url": "https://www.thehindu.com/sci-tech/technology/netflix-faces-mounting-challenges-in-keeping-users-engaged/article71603891.ece",
+   "content": "Layoffs and leadership changes have not yielded the levels of user engagement and growth that the streaming giant was seeking",
+   "published_date": "Tue, 20 Oct 2026 14:43:29 +0530",
+   "score": 0.6
+  },
+  {
    "title": "U.P. Panchayat poll: Is BJP looking to bypass the semi final?",
    "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-panchayat-poll-is-bjp-looking-to-bypass-the-semi-final/article71603618.ece",
    "content": "The Allahabad High Court’s directive to the Uttar Pradesh government and the State Election Commission (SEC) to complete the three-tier panchayat elections within three months has sparked conversations in village chaupals",
@@ -104,13 +167,6 @@
    "url": "https://www.thehindu.com/news/cities/chennai/youth-arrested-for-theft-at-army-officer-house-in-chennai-fort-st-george/article71603418.ece",
    "content": "",
    "published_date": "Tue, 20 Oct 2026 13:59:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Greens see red over Keralam govt’s move to permit sand mining in 17 rivers",
-   "url": "https://www.thehindu.com/news/national/kerala/greens-see-red-over-keralam-govts-move-to-permit-sand-mining-in-17-rivers/article71603504.ece",
-   "content": "Society for the Protection of the Environment, Kerala (SPEK) says though the govt decision has been presented as a flood mitigation step, no environmental impact assessment appears to have been conducted. Activists also point out that this may serve as a pretext for indiscriminate extraction of sand from all rivers and streams",
-   "published_date": "Tue, 20 Oct 2026 13:54:59 +0530",
    "score": 0.6
   },
   {
@@ -363,62 +419,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/ramesh-chennithala-assures-job-for-pothundy-murder-victims-daughter/article71603499.ece",
    "content": "Trial court had directed Keralam government to provide employment to one of the children. Chennithala said he would discuss the matter with Chief Minister V.D. Satheesan and ensure that an appointment order was issued soon",
    "published_date": "Tue, 20 Oct 2026 11:57:23 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "MBBS student found dead in hostel room in Muzaffarnagar medical college",
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/mbbs-student-found-dead-in-hostel-room-in-muzaffarnagar-medical-college/article71603398.ece",
-   "content": "Superintendent of Police (City) Amrit Jain said no note was found and the reason has not yet been ascertained",
-   "published_date": "Tue, 20 Oct 2026 11:54:58 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Chinese Navy says U.S. ship near Sabina Shoal jeopardised maritime security",
-   "url": "https://www.thehindu.com/news/international/chinese-navy-says-us-ship-near-sabina-shoal-jeopardised-maritime-security/article71603400.ece",
-   "content": "China and the ‌Philippines, which shares a mutual defence treaty with the U.S., both contest sovereignty over ‌Sabina Shoal and the ​entire Spratly Islands archipelago",
-   "published_date": "Tue, 20 Oct 2026 11:49:30 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Bengaluru’s luxury label Advaya reworks paisley for the modern heirloom",
-   "url": "https://www.thehindu.com/life-and-style/fashion/bengalurus-luxury-label-advaya-reworks-paisley-for-the-modern-heirloom/article71587002.ece",
-   "content": "In Eternal Series II, House of Angadi’s luxury design label Advaya brings the paisley motif to Kanjeevaram saris, embroidered blouses and menswear, exploring cross-cultural design and the idea of clothing as a modern heirloom",
-   "published_date": "Tue, 20 Oct 2026 11:48:07 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Supreme Court bars mid-term fee hikes in professional courses except in extraordinary circumstances",
-   "url": "https://www.thehindu.com/news/national/supreme-court-bars-mid-term-fee-hikes-in-professional-courses-except-in-extraordinary-circumstances/article71600054.ece",
-   "content": "For the overwhelming majority of households, the fee payable for a professional course constitutes a substantial part of the family’s income and savings, the court observes",
-   "published_date": "Tue, 20 Oct 2026 11:41:12 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "CPI(M) holds night march in Keralam’s Malappuram, seeks Gyanesh Kumar’s resignation over 'denial of voting rights’",
-   "url": "https://www.thehindu.com/news/national/kerala/cpim-holds-night-march-in-keralams-malappuram-seeks-gyanesh-kumars-resignation-over-denial-of-voting-rights/article71603436.ece",
-   "content": "March expresses solidarity with Jantar Mantar protesters",
-   "published_date": "Tue, 20 Oct 2026 11:38:15 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Two tribal rights activists held over Odisha clash, civil society group condemns arrests",
-   "url": "https://www.thehindu.com/news/national/odisha/two-tribal-rights-activists-held-over-odisha-clash-civil-society-group-condemns-arrests/article71603399.ece",
-   "content": "South Western Range DIG Akhileshvar Singh said Dr. Randall Sequeira and Laxman Naik had instigated tribals to attack police during an April protest against mining in Kantamal village",
-   "published_date": "Tue, 20 Oct 2026 11:33:41 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Cardiologists from across the globe discuss angioplasty complications at meet in Chennai",
-   "url": "https://www.thehindu.com/news/cities/chennai/cardiologists-from-across-the-globe-discuss-angioplasty-complications-at-meet-in-chennai/article71603283.ece",
-   "content": "",
-   "published_date": "Tue, 20 Oct 2026 11:17:01 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "US banning Chinese AI DeepSeek from government agency IT systems",
-   "url": "https://www.thehindu.com/sci-tech/technology/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/article71603294.ece",
-   "content": "In a July ‌memo made public Monday, DHS told federal agencies to monitor flows of traffic in and out of government websites to address potential risks from DeepSeek",
-   "published_date": "Tue, 20 Oct 2026 11:15:17 +0530",
    "score": 0.6
   }
  ],

@@ -30,13 +30,6 @@
    "source": "tavily"
   },
   {
-   "title": "ISWAP: We Killed 21 Soldiers and Militiamen in Army Base Attack",
-   "url": "https://www.memri.org/jttm/islamic-state-west-africa-province-iswap-claims-killing-nigerian-officer-20-soldiers-and",
-   "snippet": "ISWAP claims killing an officer, 15 soldiers, and five militiamen and burning 18 vehicles in an attack on a Nigerian army base in Borno state.",
-   "published": "Mon, 19 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "US places Nigeria on child soldiers blacklist, putting military assistance at risk ‎",
    "url": "https://www.modernghana.com/news/1535645/us-places-nigeria-on-child-soldiers-blacklist.html",
    "snippet": "The report cited the continued recruitment and use of children by Boko Haram and the Islamic State West Africa Province (ISWAP). Nigeria joins 13 other countries on the list, including Russia, Iran, Somalia and South Sudan, and the report said it had failed minimum anti-trafficking standards for 15 consecutive years. [...] Analysis angle  \nThe listing blames Boko Haram and ISWAP, not the Nigerian ",
@@ -58,17 +51,24 @@
    "source": "tavily"
   },
   {
-   "title": "Nigerian sojas , 25 terrorists die during ISWAP attack for Borno",
-   "url": "https://www.trtafrika.com/nigerian-pidgin/article/9e79bec7dccc",
-   "snippet": "For one statement wey dem issue on Wednesday, Mohammed Goni, acting military information officer for di headquarters of di joint task force (north-east)",
-   "published": "Wed, 14 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "NAF Airstrike Kills Top ISWAP Commanders In Lake Chad Region • Channels Television",
    "url": "https://www.channelstv.com/2026/10/19/naf-airstrike-kills-top-iswap-commanders-in-lake-chad-region",
    "snippet": "“The Nigerian Air Force remains committed to working closely with sister Services and other security agencies to consolidate operational gains, protect vulnerable communities and advance efforts towards lasting peace and security in the North-East,” the statement added.\n\nAdvertisement\n\nSTAY INFORMED \n\n### NAIJA CONNECT\n\nEvery week, discover the stories of progress at home and excellence around the",
    "published": "Mon, 19 Oct 2026 19:41:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ISWAP: We Killed 21 Soldiers and Militiamen in Army Base Attack",
+   "url": "https://www.memri.org/jttm/islamic-state-west-africa-province-iswap-claims-killing-nigerian-officer-20-soldiers-and",
+   "snippet": "ISWAP claims killing an officer, 15 soldiers, and five militiamen and burning 18 vehicles in an attack on a Nigerian army base in Borno state.",
+   "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian sojas , 25 terrorists die during ISWAP attack for Borno",
+   "url": "https://www.trtafrika.com/nigerian-pidgin/article/9e79bec7dccc",
+   "snippet": "For one statement wey dem issue on Wednesday, Mohammed Goni, acting military information officer for di headquarters of di joint task force (north-east)",
+   "published": "Wed, 14 Oct 2026 09:00:00 GMT",
    "source": "tavily"
   }
  ],

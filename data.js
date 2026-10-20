@@ -1,26 +1,26 @@
 window.SITE_DATA = {
- "generatedAt": "2026-10-20T17:27:08+08:00",
+ "generatedAt": "2026-10-20T17:41:40+08:00",
  "appName": "China Eyes",
  "window": "近 3 日",
  "windowDays": 3,
  "translation": {
-  "newsTitles": 182,
-  "newsTotal": 182,
-  "socialTitles": 205,
-  "socialTotal": 205,
-  "newsBodies": 182,
-  "newsBodiesZh": 182,
-  "newsSummariesZh": 182,
-  "socialBodies": 205,
-  "socialBodiesZh": 205,
-  "socialSnippetsZh": 205,
+  "newsTitles": 194,
+  "newsTotal": 194,
+  "socialTitles": 229,
+  "socialTotal": 229,
+  "newsBodies": 138,
+  "newsBodiesZh": 138,
+  "newsSummariesZh": 194,
+  "socialBodies": 229,
+  "socialBodiesZh": 229,
+  "socialSnippetsZh": 229,
   "pending": 0
  },
  "tierCounts": {
-  "1": 50,
-  "2": 39,
-  "3": 56,
-  "4": 37
+  "1": 54,
+  "2": 41,
+  "3": 61,
+  "4": 38
  },
  "tierLabel": {
   "1": "涉华动态",
@@ -38,9 +38,9 @@ window.SITE_DATA = {
  "orderMode": "tier_first",
  "highlights": [
   "涉华动态｜China opposes US ban on govt agencies from using DeepSeek（Punch（尼日利亚），Tue, 20 Oct 2026）",
-  "涉美动态｜US judge denies Saudi engineer held in OpenAI case bail（Punch（尼日利亚），Tue, 20 Oct 2026）",
+  "涉美动态｜US envoys Witkoff, Kushner to take part in Ukraine talks in Os（koreatimes.co.kr，Tue, 20 Oct 2026）",
   "当地政府动态｜Microsoft-IITP program helps Korean AI talents tap into global（koreatimes.co.kr，Tue, 20 Oct 2026）",
-  "本期归集：媒体条目 182 条（涉华 50、美国 39、当事国政府 56、其他报道 37；来自 58 家媒体）、社交平台动态 205 条、可追溯发布主体 228 个。时间窗口：近 3 日。"
+  "本期归集：媒体条目 194 条（涉华 54、美国 41、当事国政府 61、其他报道 38；来自 64 家媒体）、社交平台动态 229 条、可追溯发布主体 253 个。时间窗口：近 3 日。"
  ],
  "news": [
   {
@@ -67,48 +67,49 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_inquirer",
    "title_zh": "Comelec开始为巴丹群岛特别选举和那加公民投票印刷选票",
    "body_zh": "Comelec正在监督位于奎松市的国家印刷局（NPO）的选票印刷过程。根据Comelec早些时候的公告，最初定于10月14日进行的选票印刷被推迟至10月19日。阅读：Comelec推迟纳加市公民投票和巴坦群岛特别选举的选票印刷 根据公告，纳加市公民投票所需的选票数量需要根据分配委员会的建议进行修订。与此同时，巴坦群岛的选票印刷也被推迟，因为NPO的报价仍未确定，导致单位成本无法确定。由于最终确定纳加市选票布局出现延误，印刷再次被重新安排至10月20日。Comelec选票生产小组表示，NPO将为纳加市公民投票印刷120,720张选票，为巴坦群岛特别选举印刷13,138张选票。鉴于要生产的选票数量较少，选票印刷预计将在周二前完成，前提是过程顺利。11月28日的巴坦群岛特别选举将决定该省唯一国会选区的代表，此前该省众议员Ciriaco Gato Jr.上个月去世。四名候选人正在争夺这个空缺席位：Luis Andres Abad、John Gato、Marilou Cayco和Edward Ike De Sagon。阅读：4名候选人在巴坦群岛特别选举中争夺空缺国会席位 与此同时，纳加市将于11月21日举行公民投票，以决定它是否将成为高度城市化城市。您的订阅无法保存。请重试。您的订阅已成功。只有纳加市的注册选民才能参与公民投票。该市约有160,000名注册选民。/gsg"
   },
   {
-   "title": "US judge denies Saudi engineer held in OpenAI case bail",
-   "url": "https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
+   "title": "Soldiers rescue 27 kidnapped victims in Katsina, recover motorcycle",
+   "url": "https://punchng.com/soldiers-rescue-27-kidnapped-victims-in-katsina-recover-motorcycle/",
    "domain": "punchng.com",
    "source": "Punch（尼日利亚）",
-   "published": "Tue, 20 Oct 2026 09:22:01 +0000",
-   "_dt": 1792488121.0,
+   "published": "Tue, 20 Oct 2026 10:24:20 +0000",
+   "_dt": 1792491860.0,
    "ageDays": 0.0,
-   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
-   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "summary": "Troops of Operation Fansan Yamma have rescued 27 kidnapped victims in Sabuwa LGA, Katsina State, after a gun battle with terrorists on October 16, 2026. Read More: https://punchng.com/soldiers-rescue-27-kidnapped-victims-in-katsina-recover-motorcycle/",
+   "summary_zh": "2026年10月16日，Fansan Yamma行动部队在与恐怖分子发生枪战后，在卡齐纳州萨布瓦地方政府区解救了27名被绑架受害者。阅读更多：https://punchng.com/soldiers-rescue-27-kidnapped-victims-in-katsina-recover-motorcycle/",
    "summarySource": "fulltext",
-   "body": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body": "Troops of Operation Fansan Yamma have rescued 27 kidnapped victims in Sabuwa LGA, Katsina State, after a gun battle with terrorists on October 16, 2026. Read More: https://punchng.com/soldiers-rescue-27-kidnapped-victims-in-katsina-recover-motorcycle/",
    "bodyLevel": "excerpt",
    "country": [
-    "af",
-    "wa"
+    "ng"
    ],
    "topic": [
-    "pol"
+    "sec"
    ],
-   "tier": 2,
-   "actor": "美国",
+   "tier": 4,
+   "actor": "第三方",
    "alsoUS": false,
    "cnHit": false,
-   "usHit": true,
+   "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_punchng",
-   "title_zh": "美国法官拒绝为OpenAI案中被拘留的沙特工程师提供保释",
-   "body_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。"
+   "title_zh": "士兵在 Katsina 解救27名被绑架受害者，缴获摩托车",
+   "body_zh": "2026年10月16日，Fansan Yamma行动部队在与恐怖分子发生枪战后，在卡齐纳州萨布瓦地方政府区解救了27名被绑架受害者。阅读更多：https://punchng.com/soldiers-rescue-27-kidnapped-victims-in-katsina-recover-motorcycle/"
   },
   {
-   "title": "Iqbal welcomes Palace vow not to meddle in BARMM chief selection",
-   "url": "https://www.inquirer.net/493452/iqbal-welcomes-palace-vow-not-to-meddle-in-barmm-chief-selection/",
-   "domain": "inquirer.net",
-   "source": "inquirer.net",
-   "published": "Tue, 20 Oct 2026 09:10:36 +0000",
-   "_dt": 1792487436.0,
+   "title": "China opposes US ban on govt agencies from using DeepSeek",
+   "url": "https://punchng.com/china-opposes-us-ban-on-govt-agencies-from-using-deepseek/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 10:02:31 +0000",
+   "_dt": 1792490551.0,
    "ageDays": 0.0,
    "summary": "Beijing has opposed a US government ban on its agencies using AI tools from Chinese startup DeepSeek, calling the move an overstretch of national security. Read More: https://punchng.com/china-opposes-us-ban-on-govt-agencies-from-using-deepseek/",
    "summary_zh": "北京反对美国政府禁止其机构使用中国初创公司DeepSeek的人工智能工具，称此举过度扩展国家安全。阅读更多：https://punchng.com/china-opposes-us-ban-on-govt-agencies-from-using-deepseek/",
@@ -122,83 +123,24 @@ window.SITE_DATA = {
    "topic": [
     "pol"
    ],
-   "tier": 4,
-   "actor": "第三方",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
-   "score": 0.6,
-   "tag": "rss_inquirer",
-   "title_zh": "Iqbal欢迎总统府誓言不干预BARMM首席遴选",
-   "body_zh": "伊克巴尔，一名当选的国会议员（MP），感谢费迪南德·小马科斯总统对他所称的“明确且毫不含糊的承诺”表示感谢，该承诺尊重议会根据《邦萨摩洛有机法》（BOL）选择自身领导人的权力。阅读：政府不干预BARMM议会领导层投票 “这一保证触及我们人民为之奋斗的核心，”伊克巴尔在回应萨缅托的声明时表示。伊克巴尔说，《邦萨摩洛全面协议》（CAB）和BOL旨在赋予邦萨摩洛人民自决权以实质内容，包括通过他们选出的代表选择领导人的权利。“当议员们在10月30日宣誓后聚集起来选举首席部长时，这一选择必须是他们自己的，而且只能是他们自己的，”他说。伊克巴尔曾担任摩洛伊斯兰解放阵线（MILF）在导致CAB谈判中的首席谈判代表，他表示总统的承诺不仅尊重“法律的文字，而且尊重菲律宾政府和MILF本着诚意签署的和平协议的精神”。在其声明中，OPAPRU引用了马科斯10月14日的言论，这些言论是在宣布80席议会中46名多数联盟之后发表的，总统在其中表示他尊重议会决定其领导层的权力，并期待与它所组成的政府合作。萨缅托表示，一旦议会选出其领导人并组建了当日政府，总统将与该地区所有政党接触。“它包括我们前战斗人员及其社区的社会经济转型、过渡正义与和解，以及将使我们人民能够和平而有尊严地生活的安全安排，”他说。您的订阅无法保存。请重试。您的订阅已成功。他还呼吁他的议员同僚“无论党派如何”，都要表现出“邦萨摩洛有能力以智慧、团结和正直的方式管理自己。” /jpv"
-  },
-  {
-   "title": "NASENI, Kaduna give 500 residents solar kits, cookstoves",
-   "url": "https://punchng.com/naseni-kaduna-give-500-residents-solar-kits-cookstoves/",
-   "domain": "punchng.com",
-   "source": "Punch（尼日利亚）",
-   "published": "Tue, 20 Oct 2026 08:44:18 +0000",
-   "_dt": 1792485858.0,
-   "ageDays": 0.0,
-   "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
-   "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
-   "summarySource": "fulltext",
-   "body": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
-   "bodyLevel": "excerpt",
-   "country": [
-    "ne"
-   ],
-   "topic": [
-    "ene"
-   ],
-   "tier": 4,
-   "actor": "第三方",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": true,
+   "cnHit": true,
+   "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_punchng",
    "title_zh": "中国反对美国禁止政府机构使用DeepSeek",
    "body_zh": "北京反对美国政府禁止其机构使用中国初创公司DeepSeek的人工智能工具，称此举过度扩展国家安全。阅读更多：https://punchng.com/china-opposes-us-ban-on-govt-agencies-from-using-deepseek/"
   },
   {
-   "title": "US judge denies Saudi engineer held in OpenAI case bail",
-   "url": "https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
-   "domain": "punchng.com",
-   "source": "Punch（尼日利亚）",
-   "published": "Tue, 20 Oct 2026 09:22:01 +0000",
-   "_dt": 1792488121.0,
-   "ageDays": 0.0,
-   "summary": "A US judge has denied bail for a former OpenAI employee, Abdulrahman Alfozan, deeming the Saudi engineer a flight risk in a case involving a recording devi Read More: https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
-   "summary_zh": "一位美国法官拒绝为前OpenAI员工Abdulrahman Alfozan提供保释，认为这名沙特工程师在涉及录音的案件中有潜逃风险 阅读更多：https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
-   "summarySource": "fulltext",
-   "body": "A US judge has denied bail for a former OpenAI employee, Abdulrahman Alfozan, deeming the Saudi engineer a flight risk in a case involving a recording devi Read More: https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
-   "bodyLevel": "excerpt",
-   "country": [
-    "af",
-    "wa"
-   ],
-   "topic": [
-    "pol"
-   ],
-   "tier": 2,
-   "actor": "美国",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": true,
-   "terrHit": false,
-   "score": 0.6,
-   "tag": "rss_punchng",
-   "title_zh": "美国法官拒绝为OpenAI案中被拘留的沙特工程师提供保释",
-   "body_zh": "一位美国法官拒绝为前OpenAI员工Abdulrahman Alfozan提供保释，认为这名沙特工程师在涉及录音的案件中有潜逃风险 阅读更多：https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/"
-  },
-  {
    "title": "US envoys Witkoff, Kushner to take part in Ukraine talks in Oslo: Norway",
    "url": "https://www.koreatimes.co.kr/world/20261020/us-envoys-witkoff-kushner-to-take-part-in-ukraine-talks-in-oslo-norway",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "OSLO — U.S. envoys Steve Witkoff and Jared Kushner will take part in talks in Oslo Tuesday with Ukraine President Volodymyr Zelenskyyy and the leaders of Norway and Finland, Norway's government said. Witkoff will travel to Oslo and take part in person while Kushner will participate remotely, Norway said. Store and Finnish President Alexander Stubb will also take part in the talks.",
    "summary_zh": "奥斯陆——美国特使史蒂夫·威特科夫和贾里德·库什纳将于周二在奥斯陆与乌克兰总统沃洛迪米尔·泽连斯基以及挪威和芬兰领导人进行会谈，挪威政府表示。挪威表示，威特科夫将前往奥斯陆并亲自参加，而库什纳将远程参与。挪威首相和芬兰总统亚历山大·斯图布也将参加会谈。",
@@ -228,8 +170,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/economy/20261020/korea-us-strategic-investment-corp-grilled-over-risk-management",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Korea-U.S. Strategic Investment Corp. was grilled by lawmakers from both ruling and opposition parties Tuesday during a National Assembly audit over its ability to manage risks associated with Korea's $350 billion U.S. investment commitment. The audit marked the first since the corporation's launch in June, as Korea has begun making payments under the investment agreement.",
    "summary_zh": "韩美战略投资公司周二在国会审计期间受到执政党和反对党议员的质询，焦点是其管理与韩国3500亿美元美国投资承诺相关的风险的能力。此次审计是该公司自6月成立以来的首次，因为韩国已开始根据投资协议付款。",
@@ -259,8 +201,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261020/trumps-i-dont-know-clouds-prospect-of-meeting-kim-jong-un-at-apec",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Chances are slim, but doors are still open, experts say U.S. President Donald Trump cast doubt Monday on whether he would meet North Korean leader Kim Jong-un during next month’s Asia-Pacific Economic Cooperation (APEC) summit in China, but experts say the possibility has not been ruled out and a surprise encounter remains within reach. Asked whether he expected to secure a meeting with Kim on the sidelines of the APEC summit, scheduled for Nov.",
    "summary_zh": "专家称机会渺茫，但大门仍敞开 美国总统唐纳德·特朗普周一对下个月在中国举行的亚太经济合作组织（APEC）峰会期间是否会见朝鲜领导人金正恩表示怀疑，但专家表示可能性并未被排除，意外会面仍有可能。被问及是否预计在定于11月举行的APEC峰会期间与金正恩举行会晤时",
@@ -291,8 +233,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/tech-science/20261020/microsoft-iitp-program-helps-korean-ai-talents-tap-into-global-research-resources",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Microsoft, IITP and the Ministry of Science and ICT jointly held the 2026 Korea Day presentation event at Microsoft Korea Office in central Seoul, Tuesday, with over 100 students, mentors and officials from Microsoft Research Asia (MSRA) and IITP attending. “By embracing interdisciplinary and cross-boundary research rooted in Asia Pacific, we aim to define the new paradigm of computing and AI for the better,” Microsoft Research Accelerator Director Lee Mi-ran said.",
    "summary_zh": "微软、IITP和科学技术信息通信部周二在首尔市中心的微软韩国办公室联合举办了2026年韩国日演示活动，来自微软亚洲研究院（MSRA）和IITP的100多名学生、导师和官员出席。“通过拥抱植根于亚太地区的跨学科和跨界研究，我们旨在定义计算和人工智能的新范式以实现更好，”微软研究加速器主任李美兰表示。",
@@ -321,8 +263,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/chinese-ai-tool-behind-cyberattacks-in-japan-security-firm",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "TOKYO — A Chinese AI cybersecurity tool called Artex was used in a spate of recent hacks of Japanese companies, the subsidiary of a major Tokyo-based internet company said Tuesday. The information security arm of GMO Internet Group said it had \"confirmed Artex was used\" having investigated the attacks in collaboration with external organizations.",
    "summary_zh": "东京——一家总部位于东京的大型互联网公司的子公司周二表示，一款名为Artex的中国人工智能网络安全工具被用于最近一系列针对日本公司的黑客攻击。GMO Internet Group的信息安全部门表示，在与外部组织合作调查这些攻击后，它已“确认Artex被使用”。",
@@ -351,8 +293,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/20261020/korea-to-launch-military-satellites-aboard-homegrown-nuri-rocket-in-2031",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Korea plans to launch military reconnaissance satellites aboard its homegrown Nuri rocket in 2031 to bolster its space surveillance capabilities, the aerospace agency said Tuesday. Oh Tae-seok, administrator of the Korea AeroSpace Administration (KASA), unveiled the plan during a Cabinet meeting following Nuri's successful fifth launch earlier this month, which placed five Earth observation microsatellites into orbit. Korea has previously relied on foreign launch vehicles to deploy its military satellites.",
    "summary_zh": "韩国计划在2031年使用国产努里火箭发射军事侦察卫星，以增强其太空监视能力，航天局周二表示。韩国航空航天局（KASA）局长吴泰锡在本月早些时候努里火箭成功第五次发射后举行的内阁会议上公布了该计划，此次发射将五颗地球观测微型卫星送入轨道。韩国此前一直依赖外国运载火箭来部署其军事卫星。",
@@ -371,6 +313,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "韩国计划2031年在国产Nuri火箭上发射军事卫星",
@@ -381,8 +324,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/20261020/govt-to-promote-pay-transparency-in-job-ads-under-nation-normalization-project",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "The government will seek to promote pay transparency in job ads, crack down on illegal street structures and root out the practice of disguising imported goods as locally made or laundering their country of origin as part of its \"nation normalization project,\" officials said Tuesday.",
    "summary_zh": "政府官员周二表示，政府将寻求在招聘广告中促进薪酬透明度，打击非法街头建筑，并根除将进口商品伪装成本地制造或洗白原产国的做法，作为其“国家正常化项目”的一部分。",
@@ -401,6 +344,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "政府将在“国家正常化项目”下推动招聘广告中的薪酬透明度",
@@ -411,8 +355,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/companies/20261020/innoceans-overseas-units-win-7-honors-at-us-middle-east-ad-awards",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Innocean, the advertising affiliate of Hyundai Motor Group, said Tuesday its overseas units have won seven honors at advertising awards in the United States and the Middle East. The company’s Middle East and Africa unit won in three categories for Kia campaigns at the Middle East Digital Marketing Excellence Awards and was named best digital agency of the year, its first award since its establishment.",
    "summary_zh": "现代汽车集团的广告附属公司Innocean周二表示，其海外单位在美国和中东的广告奖项中赢得了七项荣誉。该公司的中东和非洲单位在“中东数字营销卓越奖”中为起亚活动赢得了三个类别的奖项，并被评为年度最佳数字代理，这是其自成立以来的第一个奖项。",
@@ -430,6 +374,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "Innocean海外单位在美国、中东广告奖中赢得7个荣誉",
@@ -440,8 +385,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/economy/20261020/finance-minister-pledges-support-for-global-ai-basic-society",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "South Korea will help build a global \"artificial intelligence (AI) basic society\" in which no country is left behind in the AI transformation, the finance minister said Tuesday. Finance Minister Lee Hyoung-il made the remarks during a speech at the Global AI and Digital Summit, a three-day event co-hosted by the science ministry and the World Bank, which opened in Seoul on Tuesday.",
    "summary_zh": "韩国财政部长周二表示，韩国将帮助建立全球“人工智能（AI）基础社会”，让任何国家都不会在人工智能转型中掉队。财政部长Lee Hyoung-il在全球人工智能和数字峰会上发表演讲时发表了上述言论，该为期三天的活动由科学部和世界银行共同主办，周二在首尔开幕。",
@@ -460,6 +405,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "财政部长承诺支持全球‘人工智能基础社会’",
@@ -470,8 +416,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/politics/20261020/inaugural-scia-chief-attends-cabinet-meeting-amid-political-neutrality-concerns",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Kim Ji-yong, the inaugural chief of the Serious Crime Investigation Agency (SCIA), attended a Cabinet meeting presided over by President Lee Jae Myung for the first time Tuesday, sparking controversy over the agency's political neutrality. Kim emphasized the agency's political neutrality and independence before his appointment, saying he would decide whether to attend the Cabinet meeting after reviewing relevant laws and consulting with concerned agencies.",
    "summary_zh": "金智勇作为严重犯罪调查局（SCIA）的首任局长，周二首次出席了由总统李在明主持的内阁会议，这引发了关于该机构政治中立性的争议。金智勇在任命前强调了该机构的政治中立性和独立性，表示他将在审查相关法律并与有关机构协商后决定是否出席内阁会议。",
@@ -489,6 +435,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "首任SCIA首席在政治中立担忧中出席内阁会议",
@@ -499,8 +446,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/20261020/president-lee-calls-for-all-out-efforts-to-boost-housing-supply",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "President Lee Jae Myung on Tuesday stressed the need to cut the time required for administrative procedures in building homes, calling for all-out efforts to boost housing supply. The president made the call during a Cabinet meeting as runaway housing prices persist despite the government's efforts to cool the market.",
    "summary_zh": "李在明总统周二强调需要缩短建造房屋的行政程序所需时间，呼吁全力以赴增加住房供应。总统是在内阁会议上发出这一呼吁的，尽管政府努力冷却市场，但房价仍在失控上涨。",
@@ -518,6 +465,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "李总统呼吁全力以赴增加住房供应",
@@ -528,8 +476,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20261020/seoul-exhibition-brings-6-decades-of-american-artist-lynn-hershman-leeson",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Works by American artist Lynn Hershman Leeson, a pioneer of media art, will be shown in Seoul in her first solo exhibition in Asia, the Seoul Museum of Art (SeMA) said Tuesday. Titled \"Lynn Hershman Leeson: First Person Plural,\" the exhibition, which begins Wednesday, will bring together some 200 pieces of her work spanning painting, photography, sculpture and media installation, according to SeMA.",
    "summary_zh": "美国艺术家林恩·赫什曼·利森的作品是媒体艺术的先驱，将在首尔展出，这是她在亚洲的首次个展，首尔美术馆（SeMA）周二表示。展览标题为“林恩·赫什曼·利森：第一人称复数”，将于周三开幕，将汇集她约200件跨越绘画、摄影、雕塑和媒体装置的作品，据SeMA称。",
@@ -547,6 +495,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "首尔展览呈现美国艺术家林恩·赫什曼·利森 60 年创作",
@@ -557,8 +506,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/opinion/20261020/trump-throws-a-lifeline-to-vladimir-putin",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "The easing of existing sanctions less than 10 days before additional sanctions are scheduled to go into effect is a sign of weakness and only will embolden Russian President Vladimir Putin. Despite the clear mandate of the Lindsey Graham Act, Trump has given up whatever leverage he might have had to bring the war to an end with stiff sanctions under the new law by rewarding Putin with the easing of existing sanctions.",
    "summary_zh": "在额外制裁计划生效前不到10天放松现有制裁是软弱的迹象，只会使俄罗斯总统弗拉基米尔·普京更加胆大妄为。尽管有林赛·格雷厄姆法案的明确授权，特朗普还是放弃了他可能拥有的通过新法律下的严厉制裁结束战争的任何杠杆，转而通过放松现有制裁来奖励普京。",
@@ -577,6 +526,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "特朗普向弗拉基米尔·普京抛出救命稻草",
@@ -587,8 +537,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/us-ties-with-ukraine-hit-new-low-as-trump-slights-zelenskyy-and-eases-up-on-russia",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "WASHINGTON — The U.S.-Ukraine alliance is careening toward a possible breaking point, with Moscow strengthened by President Donald Trump's recent rejection of new Russia sanctions and Kyiv undermined by disruptions in satellite support for its drones during the war. Trump has been lobbing insults at Zelenskyy for over a week and turning to policies that benefit Putin, while Ukraine's president has said he feels betrayed and worries for his country's future.",
    "summary_zh": "华盛顿——美乌联盟正朝着可能破裂的方向急转直下，莫斯科因唐纳德·特朗普总统最近拒绝新的对俄制裁而得到加强，基辅则因战争期间无人机卫星支持中断而受到削弱。特朗普一周多来一直对泽连斯基进行侮辱，并转向有利于普京的政策，而乌克兰总统表示他感到被背叛，并为他的国家未来担忧。",
@@ -607,6 +557,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "美国与乌克兰关系创下新低，特朗普轻视泽连斯基并放松对俄罗斯的立场",
@@ -617,8 +568,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/trump-approval-falls-to-record-low-of-31-as-midterms-near-reutersipsos-poll-finds",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Some 31% of Americans approve of Trump's performance in office, down a percentage point from two weeks earlier and the lowest level in either of his presidential terms, the four-day poll showed. Asked which party they would vote for if the congressional elections were held today in what is known as a \"generic ballot\" question, some 47% of registered voters in the nationwide poll picked Democrats and 35% chose Republicans.",
    "summary_zh": "四天民调显示，美国约31%的人认可特朗普在任期间的表现，比两周前下降1个百分点，是他两次总统任期内的最低水平。在被称为“通用选票”的问题中，如果国会选举今天举行，全国民调中约47%的登记选民选择民主党人，35%选择共和党人。",
@@ -637,6 +588,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "路透社/益普索民调发现，随着中期选举临近，特朗普支持率降至创纪录的31%低点",
@@ -647,8 +599,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/sports/20261020/us-local-tour-stars-to-converge-for-lpga-event-in-s-korea",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Stars from the top U.S. and domestic women's golf tours will converge for an LPGA Tour event in South Korea this week, with a hometown favorite looking to defend her title. The LPGA Tour will bring its annual Asian swing to Haenam, some 330 kilometers south of Seoul in Jeonnam-Gwangju, for the BMW Ladies Championship at Pine Beach Golf Links. This week will also see 15 players from the Korea LPGA (KLPGA) Tour, including its two best players this year -- Kim Min-sol and Seo Kyo-rim.",
    "summary_zh": "来自美国顶级和国内女子高尔夫巡回赛的明星本周将齐聚韩国参加LPGA巡回赛赛事，一位本土最受欢迎的选手希望卫冕。LPGA巡回赛将把其年度亚洲巡回赛带到全南光州以南约330公里的海南，在Pine Beach Golf Links举行宝马女子锦标赛。本周还将有15名来自韩国LPGA（KLPGA）巡回赛的选手，包括今年两位最佳选手——金敏率和徐教林。",
@@ -666,6 +618,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "美国和当地巡回赛明星将齐聚韩国参加LPGA赛事",
@@ -676,8 +629,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/us-orders-removal-of-chinas-deepseek-products-from-federal-civilian-agencies",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "WASHINGTON — The U.S. Department of Homeland Security (DHS) has ordered federal civilian agencies to remove products developed by Chinese artificial intelligence (AI) startup DeepSeek from their information technology systems and barred them from procuring such products, according to a federal notice released Monday.",
    "summary_zh": "华盛顿——根据周一发布的一份联邦通知，美国国土安全部（DHS）已命令联邦民事机构从其信息技术系统中移除由中国人工智能（AI）初创公司DeepSeek开发的产品，并禁止它们采购此类产品。",
@@ -696,6 +649,7 @@ window.SITE_DATA = {
    "alsoUS": true,
    "cnHit": true,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "美国命令从联邦民事机构移除中国的DeepSeek产品",
@@ -706,8 +660,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/defense/20261020/cover-story-should-women-serve-koreas-female-conscription-debate-is-back-as-troop-pool-shrinks",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "South Korea’s decade-old debate over female conscription resurfaced during a National Assembly audit this month, amid growing concerns that a shrinking draft-eligible population could undermine military readiness. Female conscription has periodically resurfaced as a political issue, but it has rarely been debated publicly amid documented cases of sexual abuse within the military, concerns over crimes against women in service and deep gender divisions in Korean society.",
    "summary_zh": "韩国关于女性征兵的十年辩论本月在国会审计期间重新浮出水面，因为人们越来越担心适龄服役人口减少可能削弱军事准备。女性征兵周期性地作为政治问题重新出现，但由于军队内有记录的性虐待案件、对服役女性犯罪的担忧以及韩国社会深刻的性别分歧，它很少被公开辩论。",
@@ -726,6 +680,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "[封面故事] 女性应该服役吗？随着兵源减少，韩国女性征兵辩论回归",
@@ -736,8 +691,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/trump-signals-uncertainty-about-meeting-n-korean-leader-in-china-next-month",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "WASHINGTON — U.S. President Donald Trump on Monday expressed uncertainty about the possibility of meeting North Korean leader Kim Jong-un in China next month, saying he was not sure whether anyone had requested such a meeting. Trump made the remarks when asked by a reporter whether he expected to secure a meeting with Kim during his planned attendance at the Asia-Pacific Economic Cooperation summit in China, scheduled for November 18-19 in Shenzhen.",
    "summary_zh": "华盛顿——美国总统唐纳德·特朗普周一对下个月在中国会见朝鲜领导人金正恩的可能性表示不确定，称他不确定是否有人提出过这样的会晤。特朗普是在被记者问及是否期望在计划出席于11月18日至19日在中国深圳举行的亚太经合组织峰会期间与金正恩举行会晤时发表上述言论的。",
@@ -757,6 +712,7 @@ window.SITE_DATA = {
    "alsoUS": true,
    "cnHit": true,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "特朗普对中国下月会见朝鲜领导人表示不确定",
@@ -767,8 +723,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/trump-says-he-is-open-to-joining-trilateral-meeting-with-xi-putin",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "WASHINGTON —U.S. President Donald Trump said on Monday he is open to participating in a trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin and that it could be focused on denuclearization. \"We would have it to talk about nuclear weapons and denuclearization,\" Trump told reporters outside the White House.",
    "summary_zh": "华盛顿——美国总统唐纳德·特朗普周一表示，他对参加与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京的三边会议持开放态度，该会议可能重点讨论无核化。“我们将讨论核武器和无核化，”特朗普在白宫外告诉记者。",
@@ -787,6 +743,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "特朗普称他愿意参加与习近平、普京的三边会议",
@@ -797,8 +754,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/netanyahu-basks-in-trump-endorsement-week-before-election",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "JERUSALEM — Israeli Prime Minister Benjamin Netanyahu on Monday basked in Donald Trump's endorsement days before close-fought elections, airing a call in which the U.S. president predicted he would win and suggested they may again attack Iran together. A day after Trump publicly endorsed Netanyahu for the October 27 vote, Netanyahu put out a video of a telephone call in which the two right-wing leaders lavish praise on each other.",
    "summary_zh": "耶路撒冷——以色列总理本雅明·内塔尼亚胡周一在势均力敌的选举前几天沉浸在唐纳德·特朗普的支持中，他播放了一通电话录音，美国总统在其中预测他将获胜，并暗示他们可能再次共同攻击伊朗。在特朗普公开支持内塔尼亚胡参加10月27日投票一天后，内塔尼亚胡发布了一段电话通话视频，两位右翼领导人在视频中互相大加赞扬。",
@@ -817,6 +774,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "内塔尼亚胡在选举前一周沐浴在特朗普支持中",
@@ -827,8 +785,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/us-highlights-quantum-technology-cooperation-with-s-korea-other-partners",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "WASHINGTON — The U.S. State Department on Monday highlighted cooperation with South Korea and other partners on quantum technology, underscoring the importance of joint research, secure supply chains and international standards in the emerging strategic industry.",
    "summary_zh": "华盛顿——美国国务院周一强调与韩国和其他伙伴在量子技术方面的合作，突出了在这一新兴战略产业中联合研究、安全供应链和国际标准的重要性。",
@@ -847,6 +805,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "美国强调与韩国和其他伙伴的量子技术合作",
@@ -857,8 +816,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/rare-photos-of-myanmars-ex-leader-suu-kyi-show-her-receiving-books-sent-by-king-charles-iii",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "BANGKOK — Myanmar’s military-backed government said Monday that it had delivered two books sent by King Charles III to detained former leader Aung San Suu Kyi , along with a sealed envelope and diplomatic correspondence. Charles, who has long championed environmental protection and sustainable agriculture, met Suu Kyi in London in 2017, when he was Prince of Wales and she was Myanmar’s state counselor.",
    "summary_zh": "曼谷——缅甸军政府周一表示，已将英国国王查尔斯三世寄给被拘留的前领导人昂山素季的两本书连同一封密封信封和外交信函转交。长期倡导环境保护和可持续农业的查尔斯于2017年在伦敦会见了昂山素季，当时他是威尔士亲王，而她是缅甸国务资政。",
@@ -888,8 +847,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/entertainment/20261020/son-ye-jins-japan-vacation-look-sparks-unexpected-fashion-debate",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Actor Son Ye-jin's laid-back vacation photos from Japan have sparked an unexpected online debate, with some criticizing her casual fashion choices while others questioned why a celebrity's private wardrobe should matter at all. Son paired a shirtdress with jeans in one look and wore an oversized sweatshirt with loose-fitting white pants in another.",
    "summary_zh": "演员孙艺珍在日本悠闲度假的照片引发了意外的网络辩论，一些人批评她随意的时尚选择，而其他人则质疑为什么名人的私人衣橱会重要。孙艺珍在一个造型中将衬衫裙与牛仔裤搭配，在另一个造型中穿着超大号运动衫搭配宽松的白色裤子。",
@@ -919,8 +878,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/20261020/police-apprehend-arson-suspect-behind-2-building-fires-in-southern-seoul",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Police on Tuesday apprehended a man in connection with suspected arson at two buildings in southern Seoul that left 19 people injured, officials said. The man in his 70s is accused of starting a fire on the third floor of a building in Seoul's southern ward of Gangnam at 11:54 a.m. before starting another fire on the fourth floor of a nearby building at 12:01 p.m. The fire at the first building forced some 60 people to evacuate and left 11 injured, including one in a state of cardiac arrest.",
    "summary_zh": "警方周二逮捕了一名男子，他涉嫌在首尔南部两栋建筑纵火，导致19人受伤，官员说。这名70多岁的男子被指控于上午11:54在首尔江南区一栋建筑的三楼纵火，随后于中午12:01在附近另一栋建筑的四楼再次纵火。第一栋建筑的火灾迫使约60人疏散，并造成11人受伤，其中一人处于心脏骤停状态。",
@@ -938,6 +897,67 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
+   "score": 0.6,
+   "tag": "rss_koreatimes",
+   "title_zh": "警方逮捕了首尔南部两起建筑物火灾背后的纵火嫌疑人",
+   "body_zh": "官员表示，警方周二逮捕了一名与首尔南部两栋建筑涉嫌纵火有关的男子，该事件造成19人受伤。这名70多岁的男子被指控于上午11:54在首尔江南区一栋建筑的三楼纵火，随后于中午12:01在附近一栋建筑的四楼再次纵火。第一栋建筑的火灾迫使约60人疏散，并造成11人受伤，其中一人处于心脏骤停状态。消防员于下午2:20扑灭了大火。第二栋建筑的火灾造成8人受伤，随后于中午12:35被扑灭。警方于下午4:16在首尔中央的东庙站附近将嫌疑人拘捕，此前他乘坐地铁逃跑。一名警方官员拒绝提供细节，因为调查正在进行中。当局在收到有人纵火的报告后，派遣了115名消防员灭火"
+  },
+  {
+   "title": "Wiz slugger Hilliard voted KBO's top player for final month of reg. season",
+   "url": "https://www.koreatimes.co.kr/sports/20261020/wiz-slugger-hilliard-voted-kbos-top-player-for-final-month-of-reg-season",
+   "domain": "koreatimes.co.kr",
+   "source": "koreatimes.co.kr",
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
+   "ageDays": 0.01,
+   "summary": "KT Wiz outfielder Sam Hilliard was named Korean baseball's top player for the final month of the regular season Tuesday. The Korea Baseball Organization (KBO) said Hilliard won the voting for the Player of the Month honor for the September-October period. With Hilliard leading the offense down the stretch, the Wiz cruised to the best record in the regular season at 90-49-5 (wins-losses-ties), and won their final 10 games.",
+   "summary_zh": "KT Wiz外野手Sam Hilliard周二被评为韩国棒球常规赛最后一个月的最佳球员。韩国棒球组织（KBO）表示，Hilliard赢得了9月至10月期间月度最佳球员的投票。在Hilliard带领进攻走完最后阶段的情况下，Wiz以90胜49负5平（胜-负-平）的成绩轻松获得常规赛最佳战绩，并赢得了最后10场比赛。",
+   "summarySource": "fulltext",
+   "body": "KT Wiz outfielder Sam Hilliard was named Korean baseball's top player for the final month of the regular season Tuesday. The Korea Baseball Organization (KBO) said Hilliard won the voting for the Player of the Month honor for the September-October period. The regular season ended Oct. 12. In 32 games during that period, Hilliard led the KBO with 14 home runs and 40 RBIs, while ranking second with 33 runs scored and a .697 slugging percentage. He had the third-most hits with 43. For the season, Hilliard won the RBI title with 139 and finished second with 44 home runs. Hilliard earned 11 out of 35 votes from the media, and 271,145 out of 460,484 votes cast by fans online, for total voting points of 45.16. SSG Landers starting pitcher Pedro Avila finished second with 24.88 points. With Hilliard leading the offense down the stretch, the Wiz cruised to the best record in the regular season at 90-49-5 (wins-losses-ties), and won their final 10 games. Hilliard was also the Player of the Month for July. The American slugger is the first foreign player to win the top monthly award twice in the same season since the KBO started handing out these prizes in 2010. Hilliard will receive 3 million won ($2,260) in prize money along with a trophy",
+   "bodyLevel": "fulltext",
+   "country": [
+    "kr"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.6,
+   "tag": "rss_koreatimes",
+   "title_zh": "巫师强击手Hilliard被评为KBO常规赛最后一个月的最佳球员",
+   "body_zh": "KT Wiz外野手萨姆·希利亚德周二被评为韩国棒球常规赛最后一个月的顶级球员。韩国棒球组织（KBO）表示，希利亚德赢得了9月至10月期间月度最佳球员的投票。该常规赛于10月12日结束。在该期间的32场比赛中，希利亚德以14记全垒打和40记打点领跑KBO，同时以33次得分和0.697的长打率排名第二。他的安打数为43次，排名第三。本赛季，希利亚德以139记打点赢得打点王，并以44记全垒打排名第二。希利亚德获得了媒体35票中的11票，以及球迷在线投票460484票中的271145票，总投票得分为45.16。SSG Landers先发投手佩德罗·阿维拉以24.88分获得第二。在希利亚德的进攻带领下，Wiz以90胜49负5平（胜-负-平）的最佳战绩轻松赢得常规赛，并赢得了最后10场比赛。希利亚德也是7月的月度最佳球员。这位美国强打者是自KBO于2010年开始颁发这些奖项以来，第一位在同一赛季两次赢得月度最佳奖项的外籍球员。希利亚德将获得300万韩元（2260美元）的奖金以及一座奖杯"
+  },
+  {
+   "title": "Academics explore how entrepreneurs can navigate AI disruption at Jinju forum",
+   "url": "https://www.koreatimes.co.kr/business/companies/20261020/academics-explore-how-entrepreneurs-can-navigate-ai-disruption-at-jinju-forum",
+   "domain": "koreatimes.co.kr",
+   "source": "koreatimes.co.kr",
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
+   "ageDays": 0.01,
+   "summary": "JINJU, South Gyeongsang Province — Academics explored how entrepreneurs can turn artificial intelligence (AI)-driven disruption into business opportunities and solutions to social challenges at the 2026 Jinju K-Entrepreneurship International Forum. The fourth session, held Tuesday, the second day of the forum, examined how individuals and organizations can navigate uncertainty and turn technological disruption into opportunities through experimentation, resilience and practical problem-solving.",
+   "summary_zh": "庆尚南道晋州——学者们在2026年晋州K-创业国际论坛上探讨了企业家如何将人工智能（AI）驱动的颠覆转化为商业机会和社会挑战的解决方案。论坛第二天即周二举行的第四场会议探讨了个人和组织如何通过实验、韧性和实际问题解决来驾驭不确定性并将技术颠覆转化为机会。",
+   "summarySource": "fulltext",
+   "body": "JINJU, South Gyeongsang Province — Academics explored how entrepreneurs can turn artificial intelligence (AI)-driven disruption into business opportunities and solutions to social challenges at the 2026 Jinju K-Entrepreneurship International Forum. The fourth session, held Tuesday, the second day of the forum, examined how individuals and organizations can navigate uncertainty and turn technological disruption into opportunities through experimentation, resilience and practical problem-solving. Erkko Autio, chair in technology transfer and entrepreneurship at Imperial College London, pointed out that AI has dramatically lowered the technical and financial barriers to developing products, making the products themselves less effective as a source of competitive advantage. “The bottleneck in entrepreneurship was that it required engineering capacity and money. But now AI has collapsed that constraint because anyone can now build whatever they desire,” Autio said. He noted entrepreneurs must validate customer needs before investing in product development, adding that identifying meaningful problems and applying technology to solve them will become increasingly important as AI capabilities evolve rapidly. Arham bin Abdullah, vice-chancellor of Universiti Malaysia Kelantan, advocated a similar approach, urging entrepreneurs to start small, learn from feedback and adapt rather than attempt to predict every outcome. He cited university research projects that turned local resources into commercial products and generated opportunities for farmers and industry. “I believe universities cannot work alone. We need industry and communities. University brings knowledge, industry brings real problems, entrepreneurs bring new ideas and communities bring humanness,” he said. Yonam Institute of Technology President Ahn Seung-kwon said technological disruption creates opportunities only when people can learn, adjust and develop new sources of value. “Our purpose stays the same, but the way to reach it can change,” he said, emphasizing that workplace cultures should also support this change. “People should be able to ask questions, share bad news and learn from other teams. We may allow failure, but that does not mean lowering goals or reducing accountability. It means reporting problems early enough to have time to fix them.” Yoshimoto Koji, an economics professor at Soka University, called for promoting K-entrepreneurship overseas through educational exchanges, joint environmental, social and governance projects and public outreach, saying its emphasis on human dignity and community responsibility offers an alternative to short-term profit-driven business models. Lee Dae-woo, an associate professor at Columbus State University, highlighted international exchanges as a way to develop students' adaptability and judgment. He noted immersion in unfamiliar cultural settings encourages students to seek help, question assumptions and collaborate across cultural and disciplinary boundaries. The last session brought together international academics to discuss how universities and businesses can promote entrepreneurship that drives not only economic growth but also human well-being, social inclusion and meaningful work. Orpha Jane, a political science professor at Indonesia's Parahyangan Catholic University, argued that universities should build innovation ecosystems that bring together students, businesses and communities to tackle social challenges, rather than focus solely on producing startups. “As academic institutions, we must ask ourselves: Are we simply building startup factories or are we developing human beings who can transform society?” she said. “We can no longer be passive; higher education institutions must become the primary transformation institutions of our country.” Noorshella Che Nawi, dean of the Malaysian Graduate School of Entrepreneurship and Business at Universiti Malaysia Kelantan, said universities should combine academic knowledge with empathy and practical action to address real-world problems. Yao Xin, secretary-general of the China Council for the Promotion of International Trade, called for international cooperation to develop practical guidelines for human-centered entrepreneurship, saying companies should equip employees with the skills and resources to contribute and expand opportunities for young people and small businesses. “Standards cooperation can helpfully translate entrepreneurship into practical management actions, meaningful opportunities for young people and shared practices across countries,” he said",
+   "bodyLevel": "fulltext",
+   "country": [
+    "kr"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "学者在晋州论坛探讨企业家如何应对人工智能颠覆",
@@ -948,41 +968,11 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261020/unverified-rumors-of-nk-leaders-death-spread-on-overseas-social-media",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Unverified claims that North Korean leader Kim Jong-un had died after suffering a brain hemorrhage have spread on overseas social media, while North Korean state media reported his visit to a public exhibition. The rumors were reported Tuesday by the British tabloid The Sun, the New York Post and India's Economic Times, which cited social media posts that had claimed Kim suffered a severe brain hemorrhage, fell into a coma and was rushed to a hospital in Beijing.",
    "summary_zh": "海外社交媒体上流传着未经证实的说法，称朝鲜领导人金正恩在脑出血后死亡，而朝鲜官方媒体报道了他参观一个公共展览。这些传闻由英国小报《太阳报》、纽约邮报和印度《经济时报》在周二报道，它们援引社交媒体帖子，声称金正恩遭受严重脑出血、陷入昏迷并被紧急送往北京的一家医院。",
-   "summarySource": "fulltext",
-   "body": "Unverified claims that North Korean leader Kim Jong-un had died after suffering a brain hemorrhage have spread on overseas social media, while North Korean state media reported his visit to a public exhibition. The rumors were reported Tuesday by the British tabloid The Sun, the New York Post and India's Economic Times, which cited social media posts that had claimed Kim suffered a severe brain hemorrhage, fell into a coma and was rushed to a hospital in Beijing. The claims reportedly originated from a post on X by Wanjun Xie, a Chinese dissident based in the United States. In a post Monday, Xie claimed that Kim had suffered a severe brain hemorrhage, lost consciousness and been transferred to Peking Union Medical College Hospital in Beijing because of North Korea's poor medical facilities but died. He also claimed Kim's body had been secretly returned to North Korea and his death was being kept under wraps. Xie identifies himself as chairman of the Chinese Democratic Party, an organization banned by Chinese authorities, and has circulated other unverified claims on social media, including speculation about Chinese President Xi Jinping's death and the alleged use of a body double. North Korean state media did not directly address the speculation but reported Tuesday that Kim visited a garment and footwear exhibition in Pyongyang the previous day. Photos released by state media showed Kim touring it with his daughter Ju-ae. South Korean diplomatic and security officials said they had heard \"nothing\" to support the claims",
-   "bodyLevel": "fulltext",
-   "country": [
-    "kr",
-    "in"
-   ],
-   "topic": [
-    "pol"
-   ],
-   "tier": 4,
-   "actor": "第三方",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
-   "score": 0.6,
-   "tag": "rss_koreatimes",
-   "title_zh": "学者在晋州论坛上探讨企业家如何应对人工智能颠覆",
-   "body_zh": "学者呼吁大学、企业与社区建立更紧密联系 庆尚南道晋州——学者们在2026年晋州K-创业国际论坛上探讨了企业家如何将人工智能（AI）驱动的颠覆转化为商业机会和社会挑战的解决方案。论坛第二天即周二举行的第四场会议探讨了个人和组织如何通过实验、韧性和实际问题解决来驾驭不确定性，并将技术颠覆转化为机会。伦敦帝国学院技术转移与创业学教授埃尔科·奥蒂奥指出，人工智能已大幅降低开发产品的技术和财务门槛，使得产品本身作为竞争优势来源的效力减弱。“创业的瓶颈在于它需要工程能力和资金。但现在人工智能已经打破了这一限制，因为任何人现在都可以构建他们想要的任何东西，”奥蒂奥说。他指出，企业家必须在投资产品开发前验证客户需求，并补充说，随着人工智能能力快速演进，识别有意义的问题并应用技术来解决它们将变得越来越重要。马来西亚吉兰丹大学副校长阿尔哈姆·宾·阿卜杜拉提倡类似方法，敦促企业家从小处开始，从反馈中学习并适应，而不是试图预测每一个结果。他引用了将当地资源转化为商业产品并为农民和行业创造机会的大学研究项目。“我相信大学不能单独工作。我们需要行业和社区。大学带来知识，行业带来实际问题，企业家带来新想法，社区带来人性，”他说。耀南理工学院院长安承权表示，只有当人们能够学习、调整并开发新的价值来源时，技术颠覆才会创造机会。“我们的目的保持不变，但实现目的的方式可以改变，”他说，并强调工作场所文化也应支持这种变化。“人们应该能够提出问题、分享坏消息并从其他团队学习。我们可以允许失败，但这并不意味着降低目标或减少问责制。这意味着及早报告问题，以便有时间修复它们。”创价大学经济学教授吉本浩二呼吁通过教育交流、联合环境、社会和治理项目以及公众外展活动在海外推广K-创业，称其对人的尊严和社区责任的强调为短期利润驱动的商业模式提供了替代方案。哥伦布州立大学副教授李大宇强调国际交流是培养学生适应性和判断力的一种方式。他指出，沉浸在不熟悉的文化环境中会鼓励学生寻求帮助、质疑假设并跨越文化和学科界限进行合作。最后一场会议汇集了国际学者，讨论大学和企业如何促进创业，这种创业不仅驱动经济增长，还促进人类福祉、社会包容和有意义的工作。印度尼西亚帕拉扬甘天主教大学政治学教授奥尔法·简认为，大学应建立创新生态系统，将学生、企业和社区聚集在一起以应对社会挑战，而不是仅仅专注于生产初创企业。“作为学术机构，我们必须问自己：我们是在简单地建造初创工厂，还是在培养能够改造社会的人？”她说。"
-  },
-  {
-   "title": "Unverified rumors of NK leader's death spread on overseas social media",
-   "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261020/unverified-rumors-of-nk-leaders-death-spread-on-overseas-social-media",
-   "domain": "koreatimes.co.kr",
-   "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 08:32:03 GMT",
-   "_dt": 1792485123.0,
-   "ageDays": 0.03,
-   "summary": "Unverified claims that North Korean leader Kim Jong-un had died after suffering a brain hemorrhage have spread on overseas social media, while North Korean state media reported his visit to a public exhibition. The rumors were reported Tuesday by the British tabloid The Sun, the New York Post and India's Economic Times, which cited social media posts that had claimed Kim suffered a severe brain hemorrhage, fell into a coma and was rushed to a hospital in Beijing.",
-   "summary_zh": "未经证实的说法称，朝鲜领导人金正恩在遭受脑出血后已经死亡，这些说法在海外社交媒体上传播，而朝鲜官方媒体报道了他参观一个公共展览的消息。这些谣言周二被英国小报《太阳报》、《纽约邮报》和印度的《经济时报》报道，它们援引社交媒体帖子，声称金正恩遭受严重脑出血，陷入昏迷，并被紧急送往北京的一家医院。",
    "summarySource": "fulltext",
    "body": "Unverified claims that North Korean leader Kim Jong-un had died after suffering a brain hemorrhage have spread on overseas social media, while North Korean state media reported his visit to a public exhibition. The rumors were reported Tuesday by the British tabloid The Sun, the New York Post and India's Economic Times, which cited social media posts that had claimed Kim suffered a severe brain hemorrhage, fell into a coma and was rushed to a hospital in Beijing. The claims reportedly originated from a post on X by Wanjun Xie, a Chinese dissident based in the United States. In a post Monday, Xie claimed that Kim had suffered a severe brain hemorrhage, lost consciousness and been transferred to Peking Union Medical College Hospital in Beijing because of North Korea's poor medical facilities but died. He also claimed Kim's body had been secretly returned to North Korea and his death was being kept under wraps. Xie identifies himself as chairman of the Chinese Democratic Party, an organization banned by Chinese authorities, and has circulated other unverified claims on social media, including speculation about Chinese President Xi Jinping's death and the alleged use of a body double. North Korean state media did not directly address the speculation but reported Tuesday that Kim visited a garment and footwear exhibition in Pyongyang the previous day. Photos released by state media showed Kim touring it with his daughter Ju-ae. South Korean diplomatic and security officials said they had heard \"nothing\" to support the claims",
    "bodyLevel": "fulltext",
@@ -999,6 +989,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "未经证实的朝鲜领导人死亡谣言在海外社交媒体上传播",
@@ -1009,8 +1000,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/world/20261020/nvidia-backed-nscale-anthropic-in-talks-for-new-45-bil-ai-cloud-deal-source-says",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Nscale is in talks to sell AI computing power to Claude maker Anthropic in a new deal that could be worth about $45 billion, a person familiar with the matter told Reuters on Monday. In August, Anthropic struck a deal to spend $45 billion to rent AI cloud computing power from Nscale's West Virginia data center campus. A second Monarch building would deliver 460 megawatts of computing power using Nvidia's advanced Vera Rubin AI chips, according to the source.",
    "summary_zh": "Nscale正在谈判向Claude制造商Anthropic出售人工智能计算能力，这笔新交易可能价值约450亿美元，一位知情人士周一告诉路透社。8月，Anthropic达成协议，花费450亿美元从Nscale的西弗吉尼亚数据中心园区租用人工智能云计算能力。根据消息人士的说法，第二座Monarch大楼将使用英伟达先进的Vera Rubin人工智能芯片提供460兆瓦的计算能力。",
@@ -1028,6 +1019,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "英伟达支持的Nscale、Anthropic正在就新的450亿美元人工智能云协议进行谈判，消息人士称",
@@ -1038,8 +1030,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/politics/20261020/ruling-party-introduces-chip-cluster-bill-as-union-opposes-labor-exemptions",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Proposals would ease working-hour limits, restrictions on dispatched labor The ruling Democratic Party of Korea (DPK) introduced a bill Tuesday to support a major semiconductor cluster in Korea’s southwestern region, drawing opposition from labor rights groups over provisions that would ease working-hour limits and labor protections.",
    "summary_zh": "提案将放宽工作时间限制和派遣劳动限制 执政的韩国民主党周二提出一项法案，以支持韩国西南地区的一个大型半导体集群，但由于其中放宽工作时间限制和劳动保护的规定，引发了劳工权益团体的反对。",
@@ -1058,6 +1050,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "执政党提出芯片集群法案而工会反对劳动力豁免",
@@ -1068,8 +1061,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/economy/cryptocurrency/20261020/dunamu-bithumb-shares-hit-yearly-lows-amid-trading-slump-tax-uncertainty",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Shares of Korea’s cryptocurrency exchange operators have hit their lowest levels of the year, with weak trading activity hurting earnings and uncertainty surrounding next year’s crypto tax further dampening sentiment, according to industry officials, Tuesday. According to Naver Pay’s unlisted stock trading platform, shares of Dunamu, the operator of the country’s largest crypto exchange, Upbit, traded at 241,000 won ($181) Tuesday.",
    "summary_zh": "据行业官员周二表示，韩国加密货币交易所运营商的股价已跌至今年最低水平，交易活动疲弱损害了收益，而围绕明年加密税的不确定性进一步抑制了市场情绪。根据Naver Pay的非上市股票交易平台，韩国最大加密货币交易所Upbit的运营商Dunamu的股份周二交易价格为241000韩元（181美元）。",
@@ -1098,8 +1091,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261020/former-cold-war-bunker-in-seoul-hosts-art-exhibition-on-peace-and-nature",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "At a former Cold War military outpost in northern Seoul, a new public art exhibition is set to open in a tranquil garden, inviting visitors to reflect on how traces of division and conflict can transform into spaces of peace and ecological renewal. The Seoul Metropolitan Government said Tuesday that the exhibition “Afterimages of Peace” will run from Saturday through Dec.",
    "summary_zh": "在首尔北部一个前冷战军事前哨，一个新的公共艺术展览即将在一个宁静的花园开幕，邀请参观者反思分裂和冲突的痕迹如何转变为和平与生态更新的空间。首尔市政府周二表示，展览“和平的残影”将从周六持续到12月。",
@@ -1117,6 +1110,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "首尔前冷战时期掩体举办关于和平与自然的艺术展",
@@ -1127,8 +1121,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/defense/20261020/seoul-dismisses-pyongyangs-criticism-of-border-warning-shots-as-groundless",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Korea threatens to escalate DMZ standoff Seoul’s defense ministry on Tuesday rejected Pyongyang’s criticism of warning shots and broadcasts along the inter-Korean border, calling them legitimate defensive measures intended to prevent North Korean troops from crossing the Military Demarcation Line (MDL).",
    "summary_zh": "韩国威胁升级非军事区对峙 首尔国防部周二驳斥了平壤对沿朝韩边境警告射击和广播的批评，称这些是旨在防止朝鲜军队越过军事分界线（MDL）的合法防御措施。",
@@ -1147,6 +1141,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "首尔驳斥平壤对边境警告射击的批评，称其‘毫无根据’",
@@ -1157,8 +1152,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/companies/20261020/musinsa-sono-international-face-ipo-uncertainty-amid-market-volatility",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Recent volatility in Korea’s stock market is adding uncertainty to the listing plans of companies like Musinsa, as a prolonged downturn could weigh on their valuations and dampen demand for new shares, according to industry analysts Tuesday. “The current valuation being discussed in the market is driven far more by expectations for future growth and the value of Musinsa’s platform than by its current earnings.",
    "summary_zh": "据行业分析师周二表示，韩国股市最近的波动正在给Musinsa等公司的上市计划增加不确定性，因为长期低迷可能会影响它们的估值并抑制新股需求。“目前市场上讨论的估值更多是由对未来增长的预期和Musinsa平台的价值驱动，而不是其当前收益。",
@@ -1176,6 +1171,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "Musinsa和Sono International在市场波动中面临IPO不确定性",
@@ -1186,8 +1182,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261020/seoul-spreads-nighttime-attractions-across-all-25-districts",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "The Seoul Metropolitan Government unveiled a plan Tuesday to establish 10 Seoul Starlight Destinations by late 2027, with the ultimate goal of creating 25 localized night-leisure hubs — one for each administrative district — by 2028. By bringing curated evening attractions closer to residential neighborhoods, the city aims to enrich daily life for locals while funneling foot traffic and consumer spending directly into quiet alleyway commercial districts.",
    "summary_zh": "首尔市政府周二公布了一项计划，到2027年底建立10个首尔星光目的地，最终目标是到2028年创建25个本地化夜间休闲中心——每个行政区一个。通过将精心策划的晚间景点带到住宅区附近，该市旨在丰富当地人的日常生活，同时将人流和消费直接引入安静的胡同商业区。",
@@ -1216,8 +1212,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/health/20261020/korea-to-certify-1000-korean-restaurants-abroad-with-expanded-rating-system",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "As global appetite for Korean food soars beyond classic barbecued beef into everyday staples like fried chicken and \"gimbap,\" Korea’s agricultural ministry is launching an initiative to ensure diners abroad get authentic, high-quality meals wherever they step into a Korean eatery. Once limited to upscale establishments, the updated system introduces a two-tier rating structure that includes casual neighborhood spots.",
    "summary_zh": "随着全球对韩国食品的胃口从经典烤牛肉飙升到日常主食如炸鸡和“gimbap”，韩国的农业部正在启动一项举措，以确保国外食客无论走进哪家韩国餐馆都能吃到正宗、高质量的餐食。更新后的体系曾经仅限于高档场所，现在引入了一个包括休闲社区店在内的两级评级结构。",
@@ -1247,8 +1243,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/opinion/editorial/20261020/ed-allies-need-quiet-diplomacy-to-fix-dispute",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Having stated his confidence and will for resolution, Lee should order discipline within his national security and foreign affairs teams, the so-called \"alliance\" faction against the \"independence\" affiliation, so that the administrative agenda of pragmatic diplomacy remains active and robust.",
    "summary_zh": "在表明了信心和解决意愿后，李应命令其国家安全和外交事务团队内部即所谓“联盟”派系对“独立”派系进行纪律约束，以便务实外交的行政议程保持活跃和有力。",
@@ -1278,8 +1274,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/banking-finance/20261020/can-north-jeolla-province-become-koreas-3rd-financial-hub",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Ambition rests heavily on National Pension Service incentives North Jeolla Province is betting on the National Pension Service (NPS), which manages 1.6 quadrillion won ($1.2 trillion) in assets, to help transform the region into Korea's third financial hub. The growing presence of financial firms is giving momentum to North Jeolla Province's ambitions to revitalize the regional economy.",
    "summary_zh": "雄心在很大程度上依赖于国民年金服务机构的激励 全罗北道正在押注于管理着1.6千万亿韩元（1.2万亿美元）资产的国民年金服务机构（NPS），以帮助将该地区转变为韩国的第三个金融中心。金融公司日益增加的存在正在为全罗北道振兴地区经济的雄心提供动力。",
@@ -1308,8 +1304,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261020/seoul-court-again-orders-japanese-firm-to-pay-forced-labor-victims",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "A Seoul appeals court on Tuesday again ordered a Japanese company to compensate Korean victims of Japan's wartime forced labor. The appellate division of the Seoul Central District Court ruled that Mitsubishi Materials Corp. must pay a total of 99 million won ($74,500) to five Koreans who were forced to work in Japan during World War II, upholding a lower court's ruling partially in favor of the plaintiffs.",
    "summary_zh": "首尔一家上诉法院周二再次命令一家日本公司赔偿日本战时强迫劳动的韩国受害者。首尔中央地方法院上诉庭裁定，三菱材料公司必须向五名在第二次世界大战期间被迫在日本工作的韩国人总共支付9900万韩元（74,500美元），维持了下级法院部分有利于原告的裁决。",
@@ -1339,8 +1335,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/health/20261020/ha-ji-won-has-special-way-of-eating-kimchi-to-reduce-sodium-intake",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Cutting back on broth and salty seasonings can help reduce sodium intake. When eating soups and stews, consuming the broth along with the solid ingredients also means taking in sodium from salt, soy sauce and other seasonings. Eating less broth and serving seasoning on the side can make it easier to control sodium intake.",
    "summary_zh": "减少肉汤和咸味调味品可以帮助减少钠摄入量。吃汤和炖菜时，同时食用肉汤和固体成分也意味着摄入来自盐、酱油和其他调味品的钠。少喝肉汤并将调味品单独放置可以更容易控制钠摄入量。",
@@ -1369,8 +1365,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/companies/20261020/hyundai-motor-kia-to-launch-level-4-autonomous-truck-trials",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Hyundai Motor and Kia will test Level 4 autonomous heavy-duty trucks on real-world logistics routes next year, working with domestic self-driving software companies to develop technology for commercial deployment, the carmakers said Tuesday. Hyundai Motor and Kia signed an agreement Tuesday with Hyundai Mobis, Hyundai Glovis and two autonomous-driving software developers, Mars Auto and RideFlux, to conduct the tests using the Hyundai Motor Group’s existing logistics network.",
    "summary_zh": "现代汽车和起亚将于明年在实际物流路线上测试4级自动驾驶重型卡车，与国内自动驾驶软件公司合作开发用于商业部署的技术，两家车企周二表示。现代汽车和起亚周二与现代摩比斯、现代格罗维斯以及两家自动驾驶软件开发商Mars Auto和RideFlux签署协议，利用现代汽车集团现有的物流网络进行测试。",
@@ -1400,8 +1396,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/companies/20261020/foreign-nationals-make-up-07-of-koreas-research-workforce-visa-hurdles-persist",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Foreign experts accounted for less than 1 percent of research personnel at Korean companies, a report showed Tuesday, with companies identifying visa and related administrative issues as the biggest obstacles to hiring foreign workers in the field. The number of foreign researchers stood at 3,155, accounting for just 0.7 percent of the total research workforce.",
    "summary_zh": "一份报告周二显示，外国专家在韩国企业研究人员中占比不到1%，企业认为签证及相关行政问题是招聘该领域外国员工的最大障碍。外国研究人员数量为3155人，仅占研究总劳动力的0.7%。",
@@ -1430,8 +1426,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261020/seoul-launches-driverless-night-bus-along-cheonggye-stream",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Steering wheel-free shuttles will hit the streets of downtown Seoul this week, offering free automated rides along the historic Cheonggye Stream to connect the capital’s late-night food markets and nightlife hubs. 22, the Seoul Metropolitan Government is deploying the nation's first regularly scheduled driverless night shuttle — the Cheonggye A01.",
    "summary_zh": "无方向盘穿梭巴士本周将驶上首尔市中心的街道，提供沿着历史悠久的清溪川的免费自动驾驶服务，以连接首都的深夜美食市场和夜生活中心。22日，首尔市政府正在部署全国首个定期安排的无人驾驶夜间穿梭巴士——清溪A01。",
@@ -1460,8 +1456,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/foreignaffairs/20261020/seoul-to-pull-some-embassy-staff-from-kyiv-as-nk-pow-dispute-deepens",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "“The government decided to withdraw some embassy staff, considering Kyiv’s failure to take constructive steps even after our ambassador’s recall, along with persistent airstrike threats across Ukraine that make it difficult to ensure their safety,” foreign ministry spokesperson Park Doo-soon said at a regular briefing. A ministry offcial said 84 Koreans are in Ukraine, including embassy staff, but did not say how many worked at the embassy and how many of them would leave.",
    "summary_zh": "“政府决定撤回部分使馆工作人员，考虑到基辅甚至在我们的大使被召回后仍未能采取建设性步骤，以及乌克兰各地持续的空袭威胁，这使得难以确保他们的安全，”外交部发言人朴斗顺在例行简报会上说。一名部官员表示，包括使馆工作人员在内，有84名韩国人在乌克兰，但没有说明有多少人在使馆工作以及其中有多少人将离开。",
@@ -1490,8 +1486,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/tech-science/20261020/korea-czech-republic-review-progress-in-joint-nuclear-energy-project",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Korea and the Czech Republic have reviewed progress in their joint nuclear energy project and discussed ways to bolster bilateral cooperation in the sector, the industry ministry said Tuesday. The virtual meeting between Industry Minister Kim Jung-kwan and his Czech counterpart, Karel Havlicek, came after a Korean consortium led by Korea Hydro & Nuclear Power formally signed a contract to build the Dukovany nuclear power plant in the Czech Republic last year.",
    "summary_zh": "韩国和捷克共和国审查了其联合核能项目的进展，并讨论了加强该领域双边合作的方式，工业部周二表示。工业部长金正宽与其捷克对口官员卡雷尔·哈夫利切克之间的虚拟会议是在韩国水电与核电公司领导的韩国财团去年正式签署在捷克共和国建造杜科瓦尼核电站的合同之后举行的。",
@@ -1521,8 +1517,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/banking-finance/20261020/lending-services-for-foreign-nationals-becomes-next-battleground-for-banks",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Korean banks are expanding lending services to foreign residents as they seek to tap a growing customer base beyond traditional services such as bank accounts and overseas remittances, industry officials said Tuesday. \"Loan services for foreign nationals presents a promising opportunity for regional banks, as the market remains relatively untapped by major lenders,\" a JB Financial Group official said.",
    "summary_zh": "韩国银行正在扩大对外国居民的贷款服务，因为它们寻求在银行账户和海外汇款等传统服务之外开拓不断增长的客户群，行业官员周二表示。“为外国国民提供贷款服务对地区银行来说是一个有前景的机会，因为该市场相对而言尚未被主要贷款机构开发，”JB金融集团的一位官员说。",
@@ -1551,8 +1547,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261020/busan-ranks-no-5-on-expedias-top-10-global-travel-destinations-for-2027",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Busan — Korea’s vibrant southeastern port city celebrated for its beaches and bustling seafood markets — is cementing its status as one of Asia's hottest escapes, jumping into Expedia’s top ten global destinations for 2027 following a dramatic spike in worldwide travel searches. The city was the only destination in Korea to make the list in Expedia’s “Unpack ’27” report, ranking fifth worldwide as the result of a 50 percent increase in travel searches compared with the previous year.",
    "summary_zh": "釜山——韩国充满活力的东南部港口城市，以其海滩和繁忙的海鲜市场而闻名——正在巩固其作为亚洲最热门度假地之一的地位，在全球旅行搜索量大幅激增后，进入Expedia 2027年全球十大目的地。该城市是韩国唯一进入Expedia“Unpack ’27”报告榜单的目的地，由于与前一年相比旅行搜索量增加了50%，它在全球排名第五。",
@@ -1582,8 +1578,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/southkorea/20261020/lee-welcomes-dramatic-rebound-in-potential-growth-outlook",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Lee wrote the message on his X account, referring to a recent upward revision of the country's potential growth rate projections by the International Monetary Fund (IMF) to 2.14 percent this year and 2.2 percent in 2027.",
    "summary_zh": "李在自己的X账户上写了这条消息，提到了国际货币基金组织（IMF）最近上调该国潜在增长率预测，今年为2.14%，2027年为2.2%。",
@@ -1602,6 +1598,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "李氏对潜在增长前景的‘戏剧性反弹’表示欢迎",
@@ -1612,8 +1609,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/lifestyle/20261020/new-director-new-giselle-koreas-top-ballet-company-begins-next-chapter",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "The opening scene revived a stage detail that had appeared in the Korean National Ballet’s 2011 premiere of the French choreographer Patrice Bart’s (1945-2025) version of “Giselle,” but had since been dropped. Lee Eun-seo, a demisoloist who was the company’s youngest member when she joined at 18 years old in 2016, drew enthusiastic applause for her portrayal of Giselle, as did corps de ballet member Kim Yun as Albrecht, who set a new record by joining the company at 17 in 2021.",
    "summary_zh": "开场场景重现了一个舞台细节，该细节曾出现在韩国国家芭蕾舞团2011年首演的法国编舞家帕特里斯·巴特（1945-2025）版本的《吉赛尔》中，但此后已被舍弃。李恩瑞是一位半独舞演员，她在2016年18岁时加入舞团，成为当时最年轻的成员，她对吉赛尔的刻画赢得了热烈掌声，同样受到好评的还有芭蕾舞团成员金允饰演的阿尔布雷希特，他2021年17岁时加入舞团，创下了新纪录。",
@@ -1631,6 +1628,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_koreatimes",
    "title_zh": "新总监，新《吉赛尔》：韩国顶级芭蕾舞团开启下一章",
@@ -1641,8 +1639,8 @@ window.SITE_DATA = {
    "url": "https://www.koreatimes.co.kr/business/banking-finance/20261020/hanwha-life-expands-youth-financial-education-program-to-indonesia",
    "domain": "koreatimes.co.kr",
    "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "published": "Tue, 20 Oct 2026 09:32:03 GMT",
+   "_dt": 1792488723.0,
    "ageDays": 0.01,
    "summary": "Hanwha Life Insurance is expanding its financial education initiatives to Indonesia, aimed at helping teenagers build financial literacy in an increasingly digital landscape, the insurer said Tuesday. Developed with the international nonprofit Save the Children, the program is based in Indonesia’s Bandung, where young people face risks, including illegal lending and online scams and gambling, as digital financial services become more widespread.",
    "summary_zh": "韩华生命保险正在将其实施的金融教育举措扩展到印度尼西亚，旨在帮助青少年在日益数字化的环境中建立金融素养，该保险公司周二表示。该项目与国际非营利组织Save the Children合作开发，设在印度尼西亚的万隆，当地年轻人面临包括非法借贷和在线诈骗及赌博在内的风险，因为数字金融服务变得更加普及。",
@@ -1668,35 +1666,127 @@ window.SITE_DATA = {
    "body_zh": "韩华生命保险正在将其实施的金融教育计划扩展至印度尼西亚，旨在帮助青少年在日益数字化的环境中建立金融素养，该保险公司周二表示。该计划与国际非营利组织救助儿童会合作开发，以印度尼西亚的万隆为基地，那里的年轻人面临包括非法借贷、在线诈骗和赌博在内的风险，因为数字金融服务变得更加普及。该项目建立在韩华生命去年在越南的工作基础上，当时它为包括妇女和年轻人在内的财务脆弱群体提供了教育。万隆计划旨在通过培训当地学生和教师来领导金融教育，从而在其初始运行之后继续下去。每所参与学校选出十名高中生来教他们的同龄人，并得到万隆理工学院大学导师的支持。教师们也在接受培训以自行授课。该计划迄今已惠及约600名青少年和100名大学生及教师。韩华生命计划在一月份将20名在该计划中表现出色的大学生带到韩国接受进一步培训。该公司还将在下个月在印度尼西亚年度政府支持的Bulan Fintech Nasional Festival上推出一个金融素养教育模块。该方案旨在使金融教育对全国的学生、教师和政府机构更加容易获得。该倡议是韩华生命在韩华集团副董事长金东源领导下的更广泛海外战略的一部分，该战略将扩大公司国际金融业务的努力与在运营市场中加强年轻一代金融素养的计划相结合"
   },
   {
-   "title": "Coway offers tailored mattress options for different sleeping habits",
-   "url": "https://www.koreatimes.co.kr/business/companies/20261020/coway-offers-tailored-mattress-options-for-different-sleeping-habits",
-   "domain": "koreatimes.co.kr",
-   "source": "koreatimes.co.kr",
-   "published": "Tue, 20 Oct 2026 09:12:03 GMT",
-   "_dt": 1792487523.0,
+   "title": "After lower budget in House version, DepEd asks Senate for P147 billion more",
+   "url": "https://www.rappler.com/philippines/department-education-request-senators-additional-2027-budget/",
+   "domain": "rappler.com",
+   "source": "rappler.com",
+   "published": "Tue, 20 Oct 2026 17:25:06 +0800",
+   "_dt": 1792488306.0,
    "ageDays": 0.01,
-   "summary": "Coway is promoting three mattresses under its BEREX brand to meet diverse sleeping preferences, offering options for people with different sleeping postures and couples who prefer different levels of firmness. For side sleepers who prefer a softer surface, Coway offers the BEREX Signature Fireshield Mattress, which uses nylon fasteners instead of adhesives to improve cushioning flexibility.",
-   "summary_zh": "科唯正在推广其BEREX品牌下的三款床垫，以满足不同的睡眠偏好，为不同睡眠姿势的人以及喜欢不同硬度水平的夫妻提供选择。对于喜欢较软表面的侧睡者，科唯提供BEREX Signature Fireshield Mattress，该产品使用尼龙扣件而非粘合剂，以提高缓冲灵活性。",
+   "summary": "MANILA, Philippines – With the Senate now focusing on passing its own version of the 2027 budget bill, the Department of Education (DepEd) is seeking support for an additional P147.93 billion to implement its programs next year. This comes as the DepEd only got P967.23 billion in the House of Representatives’ version of the 2027 general appropriations bill (GAB).",
+   "summary_zh": "马尼拉，菲律宾——随着参议院现在专注于通过其自己版本的2027年预算法案，教育部（DepEd）正在寻求支持，以额外获得1479.3亿比索来实施其明年的计划。这是因为教育部在众议院版本的2027年一般拨款法案（GAB）中仅获得了9672.3亿比索。",
    "summarySource": "fulltext",
-   "body": "Coway is promoting three mattresses under its BEREX brand to meet diverse sleeping preferences, offering options for people with different sleeping postures and couples who prefer different levels of firmness. The company said its lineup is designed to accommodate differences in body shape and sleeping habits, as Koreans tend to get relatively little sleep, making it increasingly important for consumers to improve their sleep quality. According to a 2024 survey by the Korean Society of Sleep Research, Koreans sleep an average of six hours and 58 minutes a day, placing the country among the lowest-ranked OECD members in terms of sleep duration. With limited hours of sleep, more consumers are seeking better-quality rest, making it increasingly important for mattress makers to address their diverse needs. For people who sleep on their backs or prefer firmer support, Coway recommends the BEREX Modi Mattress, which uses individually pocketed signature springs made with high-strength steel wire from POSCO for durability and stability, along with Contour 7-Zone Foam designed to distribute body pressure through seven sections of varying densities. For side sleepers who prefer a softer surface, Coway offers the BEREX Signature Fireshield Mattress, which uses nylon fasteners instead of adhesives to improve cushioning flexibility. Its dual support system combines conventional springs with micro pocket springs to absorb movements and distribute body pressure. For couples with different preferences, the BEREX S8+ and S6+ smart mattresses allow users to adjust firmness on each side independently and automatically distribute body pressure as sleeping positions change. The company recently added BEREX Sleep Sync, which monitors breathing and heart rates to analyze sleep patterns and provide personalized recommendations. With the lineup tailored to customer needs, the company ranked first in the bed category of the 2026 Korean Customer Satisfaction Index for the sixth consecutive year and topped the bed mattress category of the 2026 National Customer Satisfaction Index. \"Since everyone has different body shapes and sleeping habits, finding a mattress that properly supports the contours of the body is the first step toward better sleep,\" a Coway official said. \"We will continue offering sleep solutions tailored to customers' increasingly diverse needs through our technology and extensive product lineup.\"",
+   "body": "Already have Rappler+? Sign in to listen to groundbreaking journalism. DEPED BUDGET. Education Secretary Sonny Angara presents the proposed 2027 budget of the Department of Education on October 16, 2026. The Department of Education is requesting an additional P147.93 billion from lawmakers to support its various programs in 2027. Key funding priorities include nutrition and learning recovery programs. This is AI-generated. Read the article for full context. Report any errors . MANILA, Philippines – With the Senate now focusing on passing its own version of the 2027 budget bill, the Department of Education (DepEd) is seeking support for an additional P147.93 billion to implement its programs next year. This comes as the DepEd only got P967.23 billion in the House of Representatives’ version of the 2027 general appropriations bill (GAB). This is lower than the P976 billion under the 2027 National Expenditure Program (NEP). Senator Bam Aquino , who led a budget briefing as chairperson of the Senate finance subcommittee B last Friday, October 16, said his colleagues want an education budget that would reach 4% of the country’s gross domestic product. Here are some programs that senators may provide higher funding for next year: Among Aquino’s priorities is putting more money into the DepEd’s school-based feeding program. It has an P11.43-billion allocation in the House’s GAB — the same level in the NEP — but it is significantly lower than the P25.7 billion in the 2026 national budget. In his presentation, Education Secretary Sonny Angara said the DepEd is seeking P16.82 billion more to at least implement a 180-day feeding cycle for kindergarten and Grade 1. Senators have a more ambitious move: to provide universal feeding from kindergarten through Grade 3, with a higher unit cost of P30 per meal from the current P25, and a longer cycle of 200 days. According to DepEd projections, that proposed setup would need an additional P46.65 billion. Aquino had asked for budget scenarios as a bicameral conference committee is set to be convened in the coming weeks for the proposed Expanded National Nutrition Program Act. “This is one of the biggest reforms that we can do. And if we are able to implement it well, I expect that in three to six years our learning gap problems will be mitigated,” Aquino said in a mix of English and Filipino. Senators are also expected to inject more funds into the Academic Recovery and Accessible Learning or ARAL Program as part of efforts to address the country’s learning crisis. During the House deliberations, Angara had pointed out that there was zero funding for the ARAL Program in the NEP. In the House’s GAB, lawmakers only provided P255.6 million for the compensation of external tutors and P94.4 million for program management. Angara said the DepEd needs P15.63 billion for program implementation next year. Asked for a minimum amount, he cited at least P8.9 billion, or the same level in the 2026 budget. Senators criticized the Department of Budget and Management (DBM) for not funding the ARAL Program in the first place. Senate President Win Gatchalian said it was “shocking.” Senator Joel Villanueva called it “stupid.” Senator Erwin Tulfo said the DBM must review the ARAL Law as it states that funds for the program should be included in the annual General Appropriations Act. DBM Director Vivien Labastilla explained that while there is no line item for the ARAL Program, funding for it is included in the budget for textbooks and other instructional materials and the DepEd’s basic education curriculum. Angara maintained it was not. “I think the confusion stems from the fact that they are assuming that it’s already subsumed in our regular budget,” he added. Aquino also said another priority is funding programs related to school safety, especially since the Senate already passed a bill that institutionalizes a comprehensive school safety framework . Aside from providing equipment like CCTV camera and metal detectors, the Senate is also eyeing child protection training for parents and student leaders. The DepEd has a total request of P8.18 billion for school safety and security. The House only provided P500 million to hire security guards. The full breakdown of the DepEd’s budget request to the Senate is found below. Those highlighted in green are items that were given funding in the House’s GAB, while those in yellow are new appeals or items with a higher requested amount compared to the list previously presented to the House. Updates on classroom construction are also expected to be tackled in the plenary. During the briefing, the Department of Public Works and Highways (DPWH) reported that there have been failed biddings on their end. Under the 2026 national budget, around P65.4 billion was allocated to build 18,960 classrooms this year. Of the amount, P21.45 billion was lodged under the agreement between the DPWH and the DepEd to construct 6,000 classrooms. DPWH Undersecretary Lara Esquibil told senators that only around P1.87 billion, covering the construction of 533 classrooms, have prospective bidders, while the agency is still advertising P7 billion worth of projects, or around 2,000 classrooms. “They’ve been concerned with the costing of classrooms with fuel price increases,” Esquibil said. Aquino suggested transferring the remaining funding of nearly P13 billion to the DepEd so that local government units (LGUs) can instead lead the construction projects. From the target 10,671 classrooms under the LGU-led construction modality, Angara said over 8,000 classrooms are already in the procurement stage. Aquino will defend the DepEd’s budget in the plenary on November 24. – Rappler.com Upgrade to Rappler+ for exclusive content and unlimited access",
    "bodyLevel": "fulltext",
    "country": [
-    "kr",
-    "in"
+    "ph"
    ],
    "topic": [
-    "pol"
+    "pol",
+    "eco"
    ],
-   "tier": 4,
-   "actor": "第三方",
+   "tier": 3,
+   "actor": "当事国政府",
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
    "score": 0.6,
-   "tag": "rss_koreatimes",
-   "title_zh": "Coway为不同睡眠习惯提供量身定制的床垫选项",
-   "body_zh": "科伟正在推广其BEREX品牌下的三款床垫，以满足不同的睡眠偏好，为不同睡眠姿势的人以及偏好不同硬度水平的夫妻提供选择。该公司表示，其产品阵容旨在适应体型和睡眠习惯的差异，因为韩国人往往睡眠相对较少，这使得消费者改善睡眠质量变得越来越重要。根据韩国睡眠研究学会2024年的一项调查，韩国人每天平均睡眠时间为6小时58分钟，在经合组织成员国中睡眠时长排名靠后。由于睡眠时间有限，越来越多的消费者寻求更高质量的休息，这使得床垫制造商解决其多样化需求变得越来越重要。对于仰卧睡觉或偏好更坚实支撑的人，科伟推荐BEREX Modi床垫，它使用由POSCO的高强度钢丝制成的独立袋装 signature 弹簧，以提供耐用性和稳定性，并搭配Contour 7-Zone Foam，通过七个不同密度的区域来分布身体压力。对于侧睡且偏好更柔软表面的人，科伟提供BEREX Signature Fireshield床垫，它使用尼龙扣件而非粘合剂来提高缓冲灵活性。其双支撑系统将传统弹簧与微型袋装弹簧相结合，以吸收动作并分布身体压力。对于有不同偏好的夫妻，BEREX S8+ 和 S6+ 智能床垫允许用户独立调节每侧的硬度，并随着睡眠姿势的变化自动分布身体压力。该公司最近增加了BEREX Sleep Sync，它可以监测呼吸和心率来分析睡眠模式并提供个性化建议。凭借针对客户需求量身定制的产品阵容，该公司在2026年韩国顾客满意度指数的床类类别中连续第六年排名第一，并在2026年全国顾客满意度指数的床垫类别中位居榜首。“由于每个人的体型和睡眠习惯不同，找到一款能正确支撑身体轮廓的床垫是迈向更好睡眠的第一步，”科伟的一位官员表示。“我们将通过我们的技术和广泛的产品阵容，继续提供针对客户日益多样化需求的睡眠解决方案。”"
+   "tag": "rss_rappler",
+   "title_zh": "众议院版本预算降低后，DepEd 要求参议院额外拨款1470亿比索",
+   "body_zh": "已经拥有Rappler+？请登录收听开创性新闻报道。DEPED预算。教育部长Sonny Angara于2026年10月16日提交了教育部2027年拟议预算。教育部正在请求立法者额外提供1479.3亿比索，以支持其2027年的各种计划。主要资金优先事项包括营养和学习恢复计划。这是AI生成的。请阅读完整文章以获取上下文。报告任何错误。马尼拉，菲律宾——随着参议院现在专注于通过其自身版本的2027年预算法案，教育部（DepEd）正在寻求支持额外1479.3亿比索，以实施其明年的计划。这是因为DepEd在众议院版本的2027年一般拨款法案（GAB）中仅获得9672.3亿比索。这低于2027年国家支出计划（NEP）下的9760亿比索。参议员Bam Aquino上周五（10月16日）作为参议院财政小组委员会B主席领导了预算简报会，他表示他的同事们希望教育预算达到该国国内生产总值的4%。以下是参议员们明年可能提供更高资金支持的一些计划：在Aquino的优先事项中，包括为DepEd的学校供餐计划投入更多资金。它在众议院的GAB中获得114.3亿比索的拨款——与NEP中的水平相同——但这明显低于2026年国家预算中的257亿比索。在他的介绍中，教育部长Sonny Angara表示，DepEd正在寻求额外168.2亿比索，以至少为幼儿园和一年级实施180天的供餐周期。参议员们有一个更雄心勃勃的举措：提供从幼儿园到三年级的普遍供餐，将每餐单位成本从目前的25比索提高到30比索，并将周期延长至200天。根据DepEd的预测，该拟议设置将需要额外466.5亿比索。Aquino要求提供预算情景，因为两院联席会议委员会将在未来几周内召开，以讨论拟议的扩大国家营养计划法案。“这是我们可以进行的最大改革之一。如果我们能够很好地实施它，我预计在三到六年内，我们的学习差距问题将得到缓解，”Aquino用英语和菲律宾语混合说道。参议员们还预计将为学术恢复和可及学习或ARAL计划注入更多资金，作为应对该国学习危机的努力的一部分。在众议院审议期间，Angara指出NEP中ARAL计划的资金为零。在众议院的GAB中，立法者仅为外部导师的补偿提供了2.556亿比索，为计划管理提供了9.44亿比索。Angara表示，DepEd明年需要156.3亿比索用于计划实施。当被问及最低金额时，他引用了至少89亿比索，即2026年预算中的相同水平。参议员们批评预算和管理部（DBM）一开始就没有为ARAL计划提供资金。参议院议长Win Gatchalian称这是“令人震惊的”。参议员Joel Villanueva称其为“愚蠢的”。参议员Erwin Tulfo表示，DBM必须审查ARAL法，因为它规定该计划的资金应纳入年度一般拨款法案。DBM主任Vivien Labastilla解释说，虽然ARAL计划没有单列项目，但其资金包含在教科书和其他教学材料以及DepEd基础教育课程的预算中。Angara坚持认为并非如此。“我认为混乱源于他们假设它已经包含在我们的常规预算中，”他补充道。Aquino还表示，另一个优先事项是为与学校安全相关的计划提供资金，特别是因为参议院已经通过了一项将全面学校安全框架制度化的法案。除了提供闭路电视摄像头和金属探测器等设备外，参议院还计划为父母和学生领袖提供儿童保护培训。DepEd对学校安全和安保的总请求为81.8亿比索。众议院仅提供了5亿比索用于雇用保安人员。DepEd向参议院提出的预算请求的完整细目如下。绿色突出显示的项目是在众议院GAB中获得资金的项目，而黄色突出显示的是新的诉求或与之前提交给众议院的清单相比请求金额更高的项目。关于教室建设的更新预计将在全体会议上讨论。在简报会上，公共工程和公路部（DPWH）报告称，他们那边出现了投标失败的情况。在2026年国家预算下，今年约分配654亿比索用于建造18960间教室。其中，214.5亿比索根据DPWH和DepEd之间的协议用于建造6000间教室。DPWH副部长Lara Esquibil告诉参议员，只有约18.7亿比索，涵盖533间教室的建设，有潜在投标人，而该机构仍在为价值70亿比索的项目做广告，即约2000间教室。“他们一直担心教室的成本，因为燃料价格上涨，”Esquibil说。Aquino建议将剩余的近130亿比索资金转移给DepEd，以便地方政府单位（LGUs）可以领导建设项目。从地方政府主导建设模式下的目标10671间教室来看，Angara表示已有超过8000间教室处于采购阶段。Aquino将于11月24日在全体会议上为DepEd的预算辩护。– Rappler.com 升级到Rappler+以获取独家内容和无限访问"
+  },
+  {
+   "title": "US judge denies Saudi engineer held in OpenAI case bail",
+   "url": "https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 09:22:01 +0000",
+   "_dt": 1792488121.0,
+   "ageDays": 0.01,
+   "summary": "A US judge has denied bail for a former OpenAI employee, Abdulrahman Alfozan, deeming the Saudi engineer a flight risk in a case involving a recording devi Read More: https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
+   "summary_zh": "一位美国法官拒绝为前OpenAI员工Abdulrahman Alfozan提供保释，认为这名沙特工程师在涉及录音的案件中有潜逃风险 阅读更多：https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
+   "summarySource": "fulltext",
+   "body": "A US judge has denied bail for a former OpenAI employee, Abdulrahman Alfozan, deeming the Saudi engineer a flight risk in a case involving a recording devi Read More: https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "wa"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.6,
+   "tag": "rss_punchng",
+   "title_zh": "美国法官拒绝为OpenAI案中被拘留的沙特工程师提供保释",
+   "body_zh": "一位美国法官拒绝为前OpenAI员工Abdulrahman Alfozan提供保释，认为这名沙特工程师在涉及录音的案件中有潜逃风险 阅读更多：https://punchng.com/us-judge-denies-saudi-engineer-held-in-openai-case-bail/"
+  },
+  {
+   "title": "Suicide: YPP Vice Presidential Candidate Urges NASS On Mental Health Reforms",
+   "url": "https://leadership.ng/suicide-ypp-vice-presidential-candidate-urges-nass-on-mental-health-reforms/",
+   "domain": "leadership.ng",
+   "source": "Leadership（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 09:21:02 +0000",
+   "_dt": 1792488062.0,
+   "ageDays": 0.01,
+   "summary": "Key, who is running alongside YPP Presidential Candidate, Dr Peter Agada, said in Abuja that she urged the Senate President, Sen. Godswill Akpabio, to recognise that protecting Nigerians involves addressing the socio-economic conditions pushing citizens into distress, rather than criminalising attempted suicide.",
+   "summary_zh": "与青年进步党总统候选人彼得·阿加达博士搭档参选的凯伊在阿布贾表示，她敦促参议院议长、参议员戈兹维尔·阿克帕比奥认识到，保护尼日利亚人需要解决将公民推入困境的社会经济条件，而不是将企图自杀定为犯罪。",
+   "summarySource": "fulltext",
+   "body": "Key, who is running alongside YPP Presidential Candidate, Dr Peter Agada, said in Abuja that she urged the Senate President, Sen. Godswill Akpabio, to recognise that protecting Nigerians involves addressing the socio-economic conditions pushing citizens into distress, rather than criminalising attempted suicide. She disagreed with Akpabio’s position during recent legislative debates that attempted suicide should remain a criminal offence under Nigerian law. She said criminalisation could make distressed people and their families afraid to seek assistance because of prosecution and stigma. “Protecting Nigerians requires more than debating what punishment should follow a suicide attempt. “It requires confronting the circumstances that can leave people overwhelmed, economically stranded and unable to obtain the support they need,” she said. Key noted that severe financial hardship, loss of livelihoods, displacement, isolation, and sudden homelessness contribute significantly to psychological distress. “Severe financial hardship, loss of livelihoods, violence, displacement and isolation can contribute to profound psychological distress and suicidal crises. “The World Health Organization recognises financial problems, loss and other difficult life circumstances among the factors associated with suicidal behaviour. “These are not reasons to stigmatise people. They are reasons to strengthen prevention, treatment and social protection,” she said. Key said that removing punishment was not an endorsement of suicide; it was a decision to make protection, treatment and recovery the priority. The YPP vice-presidential candidate also criticised what she described as prolonged delays and endless debates on key public-interest issues, including diaspora voting rights and the rehabilitation of the Ajaokuta Steel Complex. She questioned why parliamentary attention could easily be mobilised for political discussions about the future while critical legislative, economic, and welfare reforms move at a sluggish pace. Key noted the constitutional amendment bill on diaspora voting, which passed second reading in the House of Representatives in November 2024, saying that diaspora advocates are still pleading for passage nearly two years later. She cited the repeated timelines given for the revival of the Ajaokuta Steel project, stressing that citizens deserve credible executive action, transparency, and clear accountability rather than unfulfilled commitments. Key urged the National Assembly to utilise its legislative, budgetary, and oversight mandates to fund accessible mental health services, sustainable employment programs, enterprise development, and housing safeguards. “Mental health reform should be accompanied by funding for accessible services, crisis response and continuing care. “Employment interventions should connect people to sustainable livelihoods. “Enterprise programmes should help viable businesses overcome practical barriers to growth. “Housing and planning decisions should respect the dignity of families and provide appropriate safeguards where displacement is contemplated,” she said. She commended Sen. Asuquo Ekpenyong and other lawmakers for advancing a bill to decriminalise attempted suicide and strengthen mental health support. Key also advised government not to ignore the circumstances that deepen despair and then approach the person in crisis primarily as an offender. “This does not mean that hardship inevitably leads to suicidal thoughts, or that every suicide attempt can be attributed to government policy. “Suicide is complex, and individuals’ circumstances differ. But that complexity is an argument for a comprehensive response — not an excuse to overlook economic and social pressures. “People experiencing mental health difficulties are not weak, morally deficient or undeserving of dignity,” she said. She, however, advised citizens to seek mental health care, saying seeking mental health care is a sign of strength and that individual worth is not defined by temporary economic or emotional adversity. She also urged the electorate to participate peacefully in the upcoming 2027 general elections and thoroughly evaluate candidates across all political platforms based on performance, integrity, and protection of human dignity. We’ve got the edge. Get real-time reports, breaking scoops, and exclusive angles delivered straight to your phone. Don’t settle for stale news. Join LEADERSHIP NEWS on WhatsApp for 24/7 updates →",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "pol",
+    "sec"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.6,
+   "tag": "rss_leadership",
+   "title_zh": "自杀：YPP副总统候选人敦促NASS进行心理健康改革",
+   "body_zh": "凯伊与青年进步党总统候选人彼得·阿加达博士搭档竞选，她在阿布贾表示，她敦促参议院议长戈兹维尔·阿克帕比奥参议员认识到，保护尼日利亚人需要解决将公民推入困境的社会经济条件，而不是将企图自杀定为犯罪。她不同意阿克帕比奥在最近立法辩论中提出的立场，即企图自杀应继续作为尼日利亚法律下的刑事犯罪。她说，将其定为犯罪可能使处于困境的人及其家人因担心被起诉和受到污名而不敢寻求帮助。“保护尼日利亚人需要的不仅仅是辩论自杀未遂后应施加什么惩罚。”“它需要面对那些可能让人不知所措、经济上陷入困境且无法获得所需支持的情况，”她说。凯伊指出，严重的经济困难、生计丧失、流离失所、孤立以及突然无家可归是导致心理 distress 的重要因素。“严重的经济困难、生计丧失、暴力、流离失所和孤立可能导致深刻的心理 distress 和自杀危机。”“世界卫生组织承认经济问题、丧失以及其他艰难的生活境遇是与自杀行为相关的因素之一。”“这些不是污名化人们的理由。它们是加强预防、治疗和社会保护的理由，”她说。凯伊表示，取消惩罚并不意味着认可自杀；而是决定将保护、治疗和康复作为优先事项。这位青年进步党副总统候选人还批评了她所描述的在关键公共利益问题上长期拖延和无休止辩论的现象，包括侨民投票权和阿贾奥库塔钢铁联合体的重建。她质疑为什么议会注意力很容易被调动起来讨论关于未来的政治话题，而关键的立法、经济和福利改革却进展缓慢。凯伊提到了关于侨民投票的宪法修正案法案，该法案于2024年11月在众议院通过了二读，她说侨民倡导者近两年后仍在恳求通过。她引用了为振兴阿贾奥库塔钢铁项目反复给出的时间表，强调公民应该得到可信的行政行动、透明度和明确的问责，而不是未兑现的承诺。凯伊敦促国民议会利用其立法、预算和监督职责，为可及的心理健康服务、可持续就业计划、企业发展和住房保障提供资金。“心理健康改革应伴随为可及服务、危机应对和持续护理提供资金。”“就业干预措施应将人们与可持续生计联系起来。”“企业计划应帮助有活力的企业克服实际增长障碍。”“住房和规划决策应尊重家庭尊严，并在考虑流离失所时提供适当保障，”她说。她赞扬阿苏库·埃克彭勇参议员和其他议员推动一项法案，以将企图自杀非罪化并加强心理健康支持。凯伊还建议政府不要忽视那些加深绝望的境遇，然后主要将处于危机中的人视为罪犯。“这并不意味着困难必然导致自杀念头，或者每次自杀未遂都可以归因于政府政策。”“自杀是复杂的，个人的境遇各不相同。但这种复杂性是需要全面应对的理由——而不是忽视经济和社会压力的借口。”“经历心理健康困难的人并不软弱、道德缺陷或不值得拥有尊严，”她说。然而，她建议公民寻求心理健康护理，并表示寻求心理健康护理是力量的标志，个人的价值不是由暂时的经济或情感逆境定义的。她还敦促选民和平参与即将到来的2027年大选，并全面评估所有政治平台上的候选人，依据其表现、诚信和保护人的尊严。我们拥有优势。获取实时报道、突发独家新闻和独家视角，直接发送到您的手机。不要满足于陈旧新闻。加入LEADERSHIP NEWS的WhatsApp，获取24/7更新→"
+  },
+  {
+   "title": "Benue spends N160m treating IDPs for snakebites amid healthcare gaps – SEMA",
+   "url": "https://www.premiumtimesng.com/regional/north-central/918458-benue-spends-n160m-treating-idps-for-snakebites-amid-healthcare-gaps-sema.html",
+   "domain": "premiumtimesng.com",
+   "source": "Premium Times（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 09:14:19 +0000",
+   "_dt": 1792487659.0,
+   "ageDays": 0.02,
+   "summary": "The Benue State Government has said it spent more than N160 million treating internally displaced persons (IDPs) for snakebites between March and September, as displaced families continue to raise concerns about food shortages and access to healthcare in their camps. James Iorpuu, the Executive Secretary of the Benue State Emergency Management Agency (SEMA), disclosed the expenditure to journalists on Friday while responding to complaints about the welfare of displaced people.",
+   "summary_zh": "贝努埃州政府表示，在3月至9月期间，它花费了超过1.6亿奈拉为境内流离失所者（IDPs）治疗蛇咬伤，因为流离失所的家庭继续对营地中的食物短缺和医疗服务获取问题表示担忧。贝努埃州紧急事务管理局（SEMA）执行秘书詹姆斯·伊奥普在周五向记者披露了这笔支出，同时回应关于流离失所者福利的投诉。",
+   "summarySource": "fulltext",
+   "body": "The Benue State Government has said it spent more than N160 million treating internally displaced persons (IDPs) for snakebites between March and September, as displaced families continue to raise concerns about food shortages and access to healthcare in their camps. James Iorpuu, the Executive Secretary of the Benue State Emergency Management Agency (SEMA), disclosed the expenditure to journalists on Friday while responding to complaints about the welfare of displaced people. He said the agency had arranged for IDPs to receive treatment at the Benue University Teaching Hospital in Makurdi amid inadequate support from humanitarian partners. “Through this arrangement, this agency has spent more than N160 million on healthcare interventions between March and September for snake bites alone,” Mr Iorpuu said. He added that the agency had facilitated medical attention for displaced people with serious illnesses and other emergencies. However, the spending claim comes amid persistent complaints about healthcare access in the camps and findings from a recent PREMIUM TIMES investigation that documented the closure of a health facility in Anyiin IDP camp, forcing residents to seek treatment outside the settlement, often at costs they cannot afford. The investigation, “Shut clinic deepens healthcare crisis in Benue IDP camp”, found that the loss of health services had left pregnant women and children particularly vulnerable to medicine shortages, delayed treatment and weak referral arrangements. During the investigation, PREMIUM TIMES found that the health facility at Anyiin IDP camp in Logo Local Government Area, which previously provided basic medical services, had stopped operating after humanitarian support ended. Helen Tsavwua, a former worker at the facility, said Médecins Sans Frontières (MSF) established the clinic during the displacement crisis in 2018. The Victim Support Fund subsequently took over before withdrawing in January 2021, after which the facility closed. A community health worker at the European Economic Community Health Clinic in Anyiin, who previously worked at the camp facility, attributed its closure to inadequate funding and the loss of medical supplies. The investigation also documented the death of Ngusurun Kengersha, an eight-month-old girl whose grandmother, Anaor Saawuan, said she could not afford the blood transfusion recommended at a hospital. The child had suffered vomiting, diarrhoea and fever. After struggling to obtain treatment, the family resorted to a traditional remedy. She died on 2 May. Mrs Saawuan told PREMIUM TIMES that the camp previously had a functioning clinic. “There used to be a clinic here,” she said. “Medicines were available, and treatment was free, until everything stopped.” The investigation also found that pregnant women faced financial barriers to antenatal care. Naomi Teryen, a 32-year-old displaced woman who was pregnant at the time of reporting, said she had to pay for medicines at the government-owned Comprehensive Health Centre in Anyiin. She said an antenatal visit typically cost her about N3,000, adding that she had once been turned away after arriving with only N1,000. A medical doctor and UNICEF consultant, Terrence Akighir, told PREMIUM TIMES that multiple micronutrient supplements intended for pregnant women should be provided free of charge. “MMS is supposed to be free,” he said, calling for any alleged improper charges to be investigated. The findings raised questions about the availability of essential healthcare services for displaced people, the sustainability of facilities previously supported by humanitarian organisations and the arrangements for emergency referrals. Responding to complaints about conditions in the camps, Mr Iorpuu said the government had continued to support displaced people through healthcare interventions and the distribution of food and non-food items. He said monthly food distributions had continued despite dwindling resources and increasing difficulty in meeting the needs of the displaced population. However, he acknowledged that the quantities of food available for distribution had reduced significantly. Mr Iorpuu also said SEMA was working with humanitarian partners, including the United Nations High Commissioner for Refugees, on resettlement-related interventions. The agency’s account contrasts with complaints by leaders of the Agagbe, Daudu and Mega IDP camps, who described food assistance as irregular and healthcare, shelter, sanitation and livelihood support as inadequate. The camp leaders spoke on condition of anonymity, citing fears of victimisation. One of them said the last food distribution had taken place about four months earlier and was insufficient for the population. “Following the engagement, another food distribution was eventually carried out, although it was insufficient compared with the needs of the population. But since the last distribution about four months ago, we have not heard of anything again,” the camp leader said. The leaders also said some displaced people wanted to return to their ancestral communities but could not do so because of continuing insecurity. “What we are crying for now is how to leave the camp and return to our ancestral homes. Unfortunately, some of those communities are still not safe,” another leader said. Mr Iorpuu, however, dismissed claims that a planned protest by displaced people was motivated by food shortages. He alleged that some individuals had encouraged the demonstration over restrictions on visits to the camps. The reported N160 million expenditure highlights the scale of public resources being directed towards treating snakebites among displaced people. However, the statement did not provide a breakdown of the expenditure, the number of patients treated, the average cost per patient or the specific facilities and services covered. The International Organisation for Migration’s Displacement Tracking Matrix recorded 464,543 internally displaced people in Benue in its Round 18 assessment. About 376,000, or 81 per cent, were living in host communities, while approximately 88,000 were in camps and camp-like settings. Mr Iorpuu’s latest statement provides information on the agency’s reported spending on snakebite treatment but does not address the specific questions raised by the investigation about the closure of the Anyiin camp clinic and the wider gaps in routine healthcare. The statement did not provide details of how its healthcare interventions have addressed those gaps",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.6,
+   "tag": "rss_premiumtimes",
+   "title_zh": "Benue在医疗差距中花费1.6亿奈拉治疗蛇咬伤的IDPs – SEMA",
+   "body_zh": "贝努埃州政府表示，从3月到9月，该州花费超过1.6亿奈拉为境内流离失所者（IDPs）治疗蛇咬伤，同时流离失所家庭继续对营地内的粮食短缺和医疗服务获取问题表示担忧。贝努埃州紧急事务管理局（SEMA）执行秘书詹姆斯·约尔普在周五回应有关流离失所者福利的投诉时向记者披露了这笔支出。他说，该机构已安排流离失所者在马库尔迪的贝努埃大学教学医院接受治疗，因为人道主义伙伴的支持不足。“通过这一安排，本机构从3月到9月仅在蛇咬伤医疗干预上就花费了超过1.6亿奈拉，”约尔普先生说。他补充说，该机构已为患有严重疾病和其他紧急情况的流离失所者提供了医疗照顾。然而，这一支出声明是在营地内持续存在医疗获取投诉以及PREMIUM TIMES最近一项调查的背景下提出的，该调查记录了Anyiin流离失所者营地一家医疗设施关闭的情况，迫使居民到定居点外寻求治疗，而这往往是他们无法负担的费用。这项题为“关闭的诊所加深了贝努埃流离失所者营地的医疗危机”的调查发现，医疗服务的丧失使孕妇和儿童特别容易受到药品短缺、治疗延误和转诊安排薄弱的影响。在调查期间，PREMIUM TIMES发现，位于Logo地方政府区的Anyiin流离失所者营地的医疗设施以前提供基本医疗服务，但在人道主义支持结束后停止了运作。该设施的前工作人员海伦·察乌乌阿说，无国界医生组织（MSF）在2018年流离失所危机期间建立了这个诊所。受害者支持基金随后接管，并在2021年1月撤出，此后该设施关闭。Anyiin欧洲经济共同体健康诊所的一名社区卫生工作者以前曾在营地设施工作，他将关闭归因于资金不足和医疗用品的丧失。调查还记录了八个月大的女孩恩古苏伦·肯格沙的死亡，她的祖母阿瑙尔·萨乌安说，她无法负担医院推荐的输血费用。该孩子曾出现呕吐、腹泻和发烧。在努力获得治疗后，家人求助于传统疗法。她于5月2日去世。萨乌安夫人告诉PREMIUM TIMES，营地以前有一个正常运作的诊所。“这里曾经有一个诊所，”她说。“有药物可用，治疗是免费的，直到一切都停止了。”调查还发现，孕妇在接受产前护理时面临经济障碍。32岁的流离失所妇女娜奥米·特延在报道时已怀孕，她说她不得不在Anyiin政府拥有的综合健康中心为药物付费。她说一次产前检查通常要花费她大约3000奈拉，并补充说她曾经在只带了1000奈拉到达后被拒之门外。一位医生兼联合国儿童基金会顾问特伦斯·阿基吉尔告诉PREMIUM TIMES，为孕妇准备的多种微量营养素补充剂应该免费提供。“MMS应该是免费的，”他说，并呼吁对任何涉嫌不当收费的行为进行调查。这些发现引发了关于为流离失所者提供基本医疗服务的可用性、以前由人道主义组织支持的设施的可持续性以及紧急转诊安排的问题。在回应有关营地条件的投诉时，约尔普先生说，政府通过医疗干预以及分发食品和非食品物品继续支持流离失所者。他说，尽管资源减少且满足流离失所人口需求的难度增加，每月的食品分发仍在继续。然而，他承认可用于分发的食品数量已大幅减少。约尔普先生还说，SEMA正在与包括联合国难民事务高级专员在内的人道主义伙伴合作，开展与重新安置相关的干预措施。该机构的说法与Agagbe、Daudu和Mega流离失所者营地领导人的投诉形成对比，后者描述食品援助不定期，医疗、住所、卫生和生计支持不足。营地领导人在匿名条件下发言，理由是担心受到报复。其中一人说，上一次食品分发发生在大约四个月前，而且对人口来说不够。“在接触之后，最终又进行了一次食品分发，尽管与人口的需求相比还是不够。但自从大约四个月前的最后一次分发以来，我们再也没有听到任何消息，”这位营地领导人说。领导人还说，一些流离失所者希望返回他们的祖籍社区，但由于持续的不安全局势无法这样做。“我们现在哭喊的是如何离开营地并返回我们的祖籍家园。不幸的是，其中一些社区仍然不安全，”另一位领导人说。然而，约尔普先生驳斥了流离失所者计划进行的抗议是由粮食短缺引发的说法。他声称，一些个人鼓励示威是因为对访问营地的限制。报道的1.6亿奈拉支出突显了用于治疗流离失所者蛇咬伤的公共资源的规模。然而，该声明没有提供支出的细目、接受治疗的患者数量、每位患者的平均费用或所涵盖的具体设施和服务。国际移民组织的流离失所追踪矩阵在其第18轮评估中记录了贝努埃州有464543名境内流离失所者。大约376000人，即81%，生活在东道社区，而大约88000人在营地和类似营地的环境中。约尔普先生的最新声明提供了关于该机构报告的蛇咬伤治疗支出的信息，但没有解决调查提出的关于Anyiin营地诊所关闭和常规医疗更广泛差距的具体问题。该声明没有提供其医疗干预如何解决这些差距的细节"
   },
   {
    "title": "Voluntary groups pledge support for Wayanad’s e-waste-free drive",
@@ -1705,7 +1795,7 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Tue, 20 Oct 2026 14:40:28 +0530",
    "_dt": 1792487428.0,
-   "ageDays": 0.01,
+   "ageDays": 0.02,
    "summary": "Unlock these with Subscription Voluntary organisations and NGOs have pledged support for the e-waste collection drive in Wayanad, Keralam, as it aims to become the country’s first completely e-waste-free district by November 1. The Minister said the active involvement of voluntary organisations and NGOs would help achieve the target. All wards and panchayats in the district are to be declared e-waste-free by November 1.",
    "summary_zh": "通过订阅解锁这些内容 志愿组织和非政府组织已承诺支持喀拉拉邦瓦亚纳德的电子垃圾收集活动，该活动旨在到11月1日成为该国第一个完全无电子垃圾的地区。部长表示，志愿组织和非政府组织的积极参与将有助于实现目标。该地区所有选区和村议会都将在11月1日前被宣布为无电子垃圾。",
    "summarySource": "fulltext",
@@ -1735,7 +1825,7 @@ window.SITE_DATA = {
    "source": "Leadership（尼日利亚）",
    "published": "Tue, 20 Oct 2026 09:06:36 +0000",
    "_dt": 1792487196.0,
-   "ageDays": 0.01,
+   "ageDays": 0.02,
    "summary": "The development, LEADERSHIP gathered, was part of the outcome of the meeting held between Fubara and the Minister of the Federal Capital Territory, Chief Nyesom Wike, as well as their loyalists at the governor’s private residence in Port Harcourt on Sunday. Our correspondent learnt that the decision was reached following letters of appeal sent to the Speaker of the Rivers State House of Assembly, Rt.",
    "summary_zh": "LEADERSHIP收集到的消息称，这一发展是富巴拉与联邦首都区部长首席奈索姆·威克以及他们的支持者周日在哈科特港州长私人住所举行会议的结果的一部分。我们的记者了解到，这一决定是在向里弗斯州议会发言人发出上诉信后达成的，Rt.",
    "summarySource": "fulltext",
@@ -1766,7 +1856,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 08:44:18 +0000",
    "_dt": 1792485858.0,
-   "ageDays": 0.03,
+   "ageDays": 0.04,
    "summary": "NASENI and the Kaduna State Government have empowered 500 residents with solar home systems and clean cooking stoves to improve livelihoods and ease burden Read More: https://punchng.com/naseni-kaduna-give-500-residents-solar-kits-cookstoves/",
    "summary_zh": "NASENI和卡杜纳州政府已为500名居民提供太阳能家庭系统和清洁烹饪炉，以改善生计并减轻负担 阅读更多：https://punchng.com/naseni-kaduna-give-500-residents-solar-kits-cookstoves/",
    "summarySource": "fulltext",
@@ -1796,7 +1886,7 @@ window.SITE_DATA = {
    "source": "Premium Times（尼日利亚）",
    "published": "Tue, 20 Oct 2026 08:34:20 +0000",
    "_dt": 1792485260.0,
-   "ageDays": 0.04,
+   "ageDays": 0.05,
    "summary": "The Kwara State Government says 235,567 farmers and other beneficiaries have received support under the FADAMA CARES programme after launching another round of agricultural input and equipment distribution. The government said the latest phase would support 49,337 beneficiaries by distributing agricultural inputs, productive assets, and processing equipment.",
    "summary_zh": "夸拉州政府表示，在启动另一轮农业投入品和设备分发后，法达马关怀计划已为235,567名农民和其他受益人提供了支持。政府称最新阶段将支持49,337名受益人，通过分发农业投入品、生产性资产和加工设备。",
    "summarySource": "fulltext",
@@ -1821,18 +1911,79 @@ window.SITE_DATA = {
    "body_zh": "夸拉州政府表示，在启动另一轮农业投入品和设备分发后，235,567名农民和其他受益人已在FADAMA CARES方案下获得支持。政府称最新阶段将支持49,337名受益人，通过分发农业投入品、生产性资产和加工设备来实现。州长阿卜杜勒拉赫曼·阿卜杜勒拉扎克的副首席新闻秘书马舒德·阿布奥拉在周一发布的一份声明中披露了这一信息。声明称，该举措正在FADAMA CARES 2.0下实施，这是世界银行支持的尼日利亚社区行动促进韧性和经济刺激（NG-CARES）方案的农业组成部分。政府表示，此前已有186,230名受益人在该举措下获得支持，加上最新分发后的总数达到235,567人。然而，声明中援引州长阿卜杜勒拉扎克的话称，预计累计数字为235,556，与根据所提供数字计算出的总数相差11人。周一在伊洛林举行的启动仪式上，阿卜杜勒拉扎克先生表示，农民面临高投入成本、不可预测的天气、设备不足以及运输和加工农产品困难等挑战。“我们的职责是消除这些障碍和阻碍，以便他们的劳动得到回报，”州长被引述说。他说，该方案此前几轮已向54,332名受益人提供了投入品和服务，同时有131,898名其他人在10个农业价值链中获得了生产性和加工资产。根据声明，最新阶段包括水稻、玉米和大豆生产的投入品，以及背负式喷雾器、水泵、动力耕耘机、研磨机、稻米加工厂、木薯加工设备、鱼熏烤炉和商用船只。阿卜杜勒拉扎克先生敦促受益人将这些投入品和设备视为投资而非施舍，并表示该方案旨在增加产量、减少损失、改善加工并扩大市场准入。监督农业和农村发展部的畜牧业专员奥洛洪托约西·托马斯表示，该州已部署48台拖拉机和两台D&R卡特彼勒推土机，以支持其16个地方政府区的农业和机械化。托马斯女士还表示，2,016名农民通过联邦政府的“ renewed hope农场投入支持方案”获得了8,064袋NPK化肥。财政专员兼州NG-CARES指导委员会主席豪瓦·努鲁表示，该方案反映了州政府致力于改善农民生计、加强粮食安全和促进经济增长的承诺。州FADAMA NG-CARES项目协调员布萨里·托因·伊西亚卡表示，该方案旨在提高农业产量、减少收获后损失并增加受益人的收入。"
   },
   {
+   "title": "Gujarat govt approves allotment of disputed Vadodara plot to Yusuf Pathan",
+   "url": "https://www.hindustantimes.com/india-news/gujarat-govt-approves-allotment-of-disputed-vadodara-plot-to-yusuf-pathan-101792483728461.html",
+   "domain": "hindustantimes.com",
+   "source": "hindustantimes.com",
+   "published": "Tue, 20 Oct 2026 13:38:48 +0530",
+   "_dt": 1792483728.0,
+   "ageDays": 0.06,
+   "summary": "The Gujarat government has approved the allotment of a disputed 978-square-metre plot in Vadodara to former cricketer and Lok Sabha MP Yusuf Pathan under its policy for international sportspersons, according to Vadodara Municipal Corporation (VMC) officials. Yusuf Pathan won the 2024 Lok Sabha elections from West Bengal’s Behrampore on a Trinamool Congress (TMC) ticket.",
+   "summary_zh": "古吉拉特邦政府已批准根据其国际运动员政策，将瓦多达拉一处有争议的978平方米地块分配给前板球运动员兼人民院议员优素福·帕坦，据瓦多达拉市政公司（VMC）官员称。优素福·帕坦在全印前进同盟（TMC）票仓下赢得了2024年人民院西孟加拉邦贝汉普尔选举。",
+   "summarySource": "fulltext",
+   "body": "The Gujarat government has approved the allotment of a disputed 978-square-metre plot in Vadodara to former cricketer and Lok Sabha MP Yusuf Pathan under its policy for international sportspersons, according to Vadodara Municipal Corporation (VMC) officials. A senior VMC official said the civic body had received the state government’s approval and the proposal would be placed before the standing committee and the general board for their approval. He added that the details of the allotment are yet to be finalised. Yusuf Pathan won the 2024 Lok Sabha elections from West Bengal’s Behrampore on a Trinamool Congress (TMC) ticket. He was among the 20 TMC MPs who rebelled against Trinamool Congress founder Mamata Banerjee and went to Lok Sabha speaker in June this year to claim that they had merged with the and declared that they had merged with a little known Nationalist Citizens Party of India (NCPI). Under the government’s decision, 500 square metres will be allotted to him free of cost for residential use, while the remaining 478 square metres will be allotted at 55% of its assessed market value. The plot has an estimated market value of around ₹ 20.50 crore. Officials said the government resolution, dated August 13, reached VMC on August 29. Two days later, Pathan withdrew his appeal against the Gujarat high court order that rejected his claim to the land. To be sure, Yusuf Pathan had been trying to get the land parcel adjacent to his house in Tandalja since 2012 and the state government’s decision follows a long legal dispute over Pathan’s occupation of the plot. Pathan had applied for a 99-year lease of the land in 2012, citing security concerns. The VMC approved a proposal to allot the plot at ₹ 57,270 per square metre, but the state government rejected it in June 2014 because the land had not been offered through a public auction. Pathan continued to occupy the land and built a boundary wall. In June 2024, the VMC ordered him to remove the encroachment, prompting him to approach the high court. In August 2025, the high court observed dismissed his petition challenging the VMC’s order to remove the encroachment, holding that he had no legal right over the plot because no final allotment order had been issued and no payment had been made. Pathan appealed against the order in 2026. In June, a division bench gave him four weeks to pursue his claim under the state government’s policy for allotment of land to international sportspersons. The court also warned that delays could increase the damages payable for his continued occupation of the plot. On August 31, Pathan withdrew his appeal after his lawyer told the court that the VMC had not responded to efforts to pursue the claim under the policy. The division bench dismissed the appeal as withdrawn. The government order asks the revenue department to allot VMC land of equivalent value to compensate for the transfer and that the decision would not be cited as precedent for similar cases",
+   "bodyLevel": "fulltext",
+   "country": [
+    "in"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.6,
+   "tag": "rss_htrss",
+   "title_zh": "古吉拉特邦政府批准将有争议的Vadodara地块分配给Yusuf Pathan",
+   "body_zh": "古吉拉特邦政府已批准根据其国际运动员政策，将位于瓦多达拉的一块有争议的978平方米地块分配给前板球运动员兼人民院议员优素福·帕坦，据瓦多达拉市政公司（VMC）官员称。一名VMC高级官员表示，该市政机构已收到州政府的批准，该提案将提交常设委员会和全体董事会批准。他补充说，分配细节尚待最终确定。优素福·帕坦在2024年人民院选举中代表西孟加拉邦的贝兰布尔以全印三一大会党（TMC）候选人身份获胜。他是20名反对全印三一大会党创始人玛玛塔·班纳吉并于今年6月前往人民院议长处声称他们已合并并宣布他们已并入一个鲜为人知的印度民族主义公民党（NCPI）的TMC议员之一。根据政府的决定，将免费分配500平方米给他用于住宅用途，而剩余的478平方米将按其评估市场价值的55%分配。该地块的估计市场价值约为20.50亿卢比。官员们表示，日期为8月13日的政府决议于8月29日送达VMC。两天后，帕坦撤回了他针对古吉拉特邦高等法院驳回其土地主张命令的上诉。可以肯定的是，优素福·帕坦自2012年以来一直试图获得他位于坦达尔贾的房屋旁边的这块土地，而州政府的决定是在帕坦占用该地块的长期法律纠纷之后作出的。帕坦于2012年申请该土地的99年租约，理由是安全问题。VMC批准了一项提案，以每平方米57270卢比的价格分配该地块，但州政府于2014年6月拒绝了该提案，因为该土地没有通过公开拍卖提供。帕坦继续占用该土地并修建了边界墙。2024年6月，VMC命令他移除侵占物，促使他向高等法院求助。2025年8月，高等法院驳回了他挑战VMC移除侵占命令的请愿书，认为他对该地块没有合法权利，因为没有发出最终分配命令，也没有付款。帕坦于2026年对该命令提出上诉。6月，一个分庭给了他四个星期的时间，根据州政府向国际运动员分配土地的政策来追求他的主张。法院还警告说，延误可能会增加因他继续占用该地块而需支付的损害赔偿。8月31日，帕坦在其律师告诉法院VMC没有回应根据该政策追求主张的努力后撤回了他的上诉。分庭驳回了作为撤回的上诉。政府命令要求税务部门分配相当于价值的VMC土地以补偿转让，并且该决定不会被引用作为类似案件的先例"
+  },
+  {
+   "title": "Banditry: Zamfara seeks more FG intervention as attacks escalate",
+   "url": "https://www.premiumtimesng.com/regional/nwest/918434-banditry-zamfara-seeks-more-fg-intervention-as-attacks-escalate.html",
+   "domain": "premiumtimesng.com",
+   "source": "Premium Times（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 08:05:47 +0000",
+   "_dt": 1792483547.0,
+   "ageDays": 0.07,
+   "summary": "The Zamfara State Government has called for more federal government intervention to tackle escalating bandit attacks on communities. He noted that the attacks were escalating in spite of measures taken by both the state and federal governments to tackle banditry and kidnappings in the state. “The Zamfara Government continues to work closely with the federal government to strengthen security operations and address the threat of banditry.",
+   "summary_zh": "赞法拉州政府呼吁联邦政府加大干预力度，以应对针对社区的日益升级的匪徒袭击。他指出，尽管州政府和联邦政府都采取了措施来打击该州的匪徒活动和绑架事件，但袭击仍在升级。“赞法拉州政府继续与联邦政府密切合作，以加强安全行动并应对匪徒威胁。",
+   "summarySource": "fulltext",
+   "body": "The Zamfara State Government has called for more federal government intervention to tackle escalating bandit attacks on communities. The State Commissioner for Information and Culture, Mahmud Dantawasa, made the appeal while addressing reporters in Gusau on Monday. Mr Dantawasa said the state government was deeply concerned about the recent escalation of bandit attacks in several parts of the state in spite of several measures taken to curtail the situation. He noted that the attacks were escalating in spite of measures taken by both the state and federal governments to tackle banditry and kidnappings in the state. Mr Dantawasa expressed concern over the hardship experienced by families, farmers, traders and other residents, particularly those in rural communities whose daily activities have been disrupted by escalating insecurity. According to him, areas identified in recent reports include Bindin and Falale in Maru Local Government Area; Damba and Wanke in Gusau Local Government Area; Bagega in Anka Local Government Area; and Moriki in Zurmi Local Government Area, alongside other affected communities. “These incidents have heightened public concern and affected the sense of safety among residents. “The consequences of banditry extend beyond the immediate danger to human life, as they also disrupted farming, trade, education, transportation and other essential economic and social activities. “The Zamfara Government continues to work closely with the federal government to strengthen security operations and address the threat of banditry. “As part of this collaboration, four security battalions have been allocated to Bakura, Shinkafi, Kaura Namoda and Anka local government areas. “This allocation is an important component of the joint efforts of the federal government and the Zamfara Government to strengthen security coverage and improve the protection of lives and property. “The allocation of the battalions to these strategic locations is intended to enhance security arrangements and support efforts to address criminal activities affecting communities across the state. “The Zamfara Government appreciates the federal Government’s collaboration and recognises the importance of sustained cooperation between the two levels of government in confronting the prevailing security challenges. “As an agrarian state, Zamfara depends significantly on agriculture and rural commerce. “When farmers cannot access their farmlands safely, agricultural production and household incomes suffer. “Similarly, insecurity disrupts the movement of goods and services and places additional hardship on families,” the commissioner said. Dantawasa condemned attacks against innocent citizens and communities and described such criminal activities as unacceptable and a threat to the peace, unity and development of the state. He assured residents that the government was engaging relevant security agencies to strengthen responses to emerging threats and improve protection for vulnerable communities. According to him, to strengthen security operations, the Zamfara government has provided 25 armoured vehicles and 150 Toyota Hilux vehicles to support security agencies across the state. The commissioner called for sustained cooperation between the two levels of government, particularly in intelligence sharing, operational coordination and the provision of adequate logistical support to security agencies. He also announced that preparations were underway for dry-season security operations aimed at sustaining the fight against banditry and improving protection for affected communities. He stressed the importance of securing farmlands as farmers prepare for increased agricultural activities during the dry season, noting that residents must be able to pursue their livelihoods without fear of attacks or intimidation. The commissioner also announced that the government was training 1,000 forest guards for deployment across the state’s local government areas to strengthen security in forested and rural communities. He said the forest guards would be expected to operate under appropriate supervision, respect the law and work in coordination with authorised security agencies. Mr Dantawasa urged individuals involved in banditry to abandon criminal activities and surrender through recognised and lawful channels, stressing that surrender should not be interpreted as automatic immunity from legal responsibility. He also appealed to traditional rulers, religious leaders, community leaders, youth organisations and other stakeholders to promote peaceful coexistence and strengthen cooperation with security agencies. The commissioner urged residents to report suspicious movements and credible threats to the appropriate authorities while avoiding the spread of rumours, unverified reports and inflammatory messages capable of creating panic or endangering innocent people. He encouraged residents to remain calm, vigilant and united, while continuing to pray for peace and security in the state and the country. The commissioner assured that more efforts were being taken by all stakeholders in the security sector to tackle the escalating bandit attacks",
+   "bodyLevel": "fulltext",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "sec",
+    "eco"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.6,
+   "tag": "rss_premiumtimes",
+   "title_zh": "匪患：Zamfara在袭击升级时寻求联邦政府更多干预",
+   "body_zh": "赞法拉州政府呼吁联邦政府加大干预力度，以应对针对社区的日益升级的匪徒袭击。州信息和文化专员马哈茂德·丹塔瓦萨周一在古绍向记者发表讲话时发出这一呼吁。丹塔瓦萨先生表示，尽管州政府采取了多项措施来遏制局势，但州政府对该州多个地区最近匪徒袭击升级的情况深感关切。他指出，尽管州政府和联邦政府都采取了措施来打击该州的匪徒活动和绑架行为，但袭击仍在升级。丹塔瓦萨先生对家庭、农民、商贩和其他居民尤其是农村社区居民所经历的困难表示担忧，他们的日常活动因日益升级的不安全局势而受到干扰。据他介绍，最近报告中提到的地区包括马鲁地方政府区的宾丁和法拉莱；古绍地方政府区的丹巴和万凯；安卡地方政府区的巴盖加；以及祖尔米地方政府区的莫里基，以及其他受影响的社区。“这些事件加剧了公众的担忧，并影响了居民的安全感。“匪徒活动的后果超出了对人类生命的直接威胁，因为它们还扰乱了农业、贸易、教育、交通运输和其他重要的经济和社会活动。“赞法拉州政府继续与联邦政府密切合作，以加强安全行动并应对匪徒威胁。“作为这种合作的一部分，已向巴库拉、欣卡菲、考拉纳莫达和安卡地方政府区部署了四个安全营。“这一部署是联邦政府和赞法拉州政府共同努力的重要组成部分，旨在加强安全覆盖并改善对生命和财产的保护。“向这些战略地点部署营队旨在加强安全安排，并支持打击影响全州社区的犯罪活动的努力。“赞法拉州政府感谢联邦政府的合作，并认识到两级政府之间持续合作在应对当前安全挑战方面的重要性。“作为一个农业州，赞法拉在很大程度上依赖农业和农村商业。“当农民无法安全进入他们的农田时，农业生产和家庭收入就会受到影响。“同样，不安全局势会扰乱货物和服务流动，并给家庭带来额外困难，”专员说。丹塔瓦萨谴责针对无辜公民和社区的袭击，并将此类犯罪活动描述为不可接受的，是对该州和平、团结与发展的威胁。他向居民保证，政府正在与相关安全机构合作，以加强应对新出现的威胁，并改善对脆弱社区的保护。据他说，为了加强安全行动，赞法拉州政府已提供了25辆装甲车和150辆丰田Hilux车辆，以支持全州的安全机构。专员呼吁两级政府之间持续合作，特别是在情报共享、行动协调以及为安全机构提供充足后勤支持方面。他还宣布，正在为旱季安全行动做准备，旨在维持打击匪徒活动的斗争并改善对受影响社区的保护。他强调了在农民为旱季增加农业活动做准备时保护农田的重要性，并指出居民必须能够追求他们的生计，而不必担心袭击或恐吓。专员还宣布，政府正在培训1000名森林卫士，将部署到该州各地方政府区，以加强森林和农村社区的安全。他说，森林卫士预计将在适当监督下行动，尊重法律，并与授权的安全机构协调工作。丹塔瓦萨先生敦促参与匪徒活动的人员放弃犯罪活动，并通过公认的合法渠道自首，并强调自首不应被解释为自动免除法律责任。他还呼吁传统统治者、宗教领袖、社区领袖、青年组织和其他利益相关者促进和平共处，并加强与安全机构的合作。专员敦促居民向有关当局报告可疑活动和可信威胁，同时避免传播可能造成恐慌或危及无辜者的谣言、未经证实的报告和煽动性信息。他鼓励居民保持冷静、警惕和团结，同时继续为该州和国家的和平与安全祈祷。专员保证，安全部门的所有利益相关者正在采取更多努力来应对日益升级的匪徒袭击"
+  },
+  {
    "title": "France protests turn violent: Trump targets immigration ahead of midterms",
    "url": "https://www.thehindu.com/videos/france-protests-turn-violent-trump-targets-immigration-ahead-of-midterms/article71603312.ece",
    "domain": "thehindu.com",
    "source": "thehindu.com",
    "published": "Tue, 20 Oct 2026 13:28:12 +0530",
    "_dt": 1792483092.0,
-   "ageDays": 0.06,
-   "summary": "France has imposed overnight curfews in parts of Paris following violent protests, looting and clashes with police over the rising cost of living.",
-   "summary_zh": "法国在巴黎部分地区实施了夜间宵禁，此前发生了针对生活成本上涨的暴力抗议、抢劫和与警察的冲突。",
-   "summarySource": "index",
-   "body": "France has imposed overnight curfews in parts of Paris following violent protests, looting and clashes with police over the rising cost of living. Restrictions have also been introduced for minors in several French cities",
-   "bodyLevel": "excerpt",
+   "ageDays": 0.07,
+   "summary": "Unlock these with Subscription France has imposed overnight curfews in parts of Paris following violent protests, looting and clashes with police over the rising cost of living.",
+   "summary_zh": "通过订阅解锁这些内容 法国在巴黎部分地区实施了夜间宵禁，此前发生了针对生活成本上升的暴力抗议、抢劫和与警察的冲突。",
+   "summarySource": "fulltext",
+   "body": "Account subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription France has imposed overnight curfews in parts of Paris following violent protests, looting and clashes with police over the rising cost of living. Restrictions have also been introduced for minors in several French cities. Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments. We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle",
+   "bodyLevel": "fulltext",
    "country": [
     "in"
    ],
@@ -1849,7 +2000,7 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_thehindu",
    "title_zh": "法国抗议转为暴力：特朗普在中期选举前针对移民",
-   "body_zh": "法国在巴黎部分地区实施了夜间宵禁，此前发生了针对生活成本上升的暴力抗议、抢劫和与警察的冲突。法国多个城市还对未成年人实施了限制措施"
+   "body_zh": "订阅账户福利以及高级故事、社论、观点等。使用订阅解锁这些内容 法国在巴黎部分地区实施了夜间宵禁，此前发生了针对生活成本上涨的暴力抗议、抢劫和与警察的冲突。法国多个城市也对未成年人实施了限制。评论必须用英语，并使用完整句子。评论不得具有攻击性或涉及个人。请遵守我们的社区准则来发布您的评论。我们已迁移到新的评论平台。如果您已经是《印度报》的注册用户并已登录，您可以继续与我们的文章互动。如果您没有账户，请注册并登录以发布评论。用户可以通过登录他们在Vuukle上的账户来访问他们以前的评论"
   },
   {
    "title": "US court jails Nigerian eight years, orders $10.8m forfeiture",
@@ -1858,7 +2009,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Tue, 20 Oct 2026 07:58:05 +0000",
    "_dt": 1792483085.0,
-   "ageDays": 0.06,
+   "ageDays": 0.07,
    "summary": "A US court has sentenced a 40-year-old Nigerian, Chukwuemeka Amachukwu, to eight years in prison for hacking, identity theft and wire fraud schemes. Read More: https://punchng.com/us-court-jails-nigerian-eight-years-orders-10-8m-forfeiture/",
    "summary_zh": "美国法院判处40岁尼日利亚人丘库埃梅卡·阿马丘库八年监禁，罪名是黑客攻击、身份盗窃和电汇欺诈计划。阅读更多：https://punchng.com/us-court-jails-nigerian-eight-years-orders-10-8m-forfeiture/",
    "summarySource": "fulltext",
@@ -1882,24 +2033,24 @@ window.SITE_DATA = {
    "body_zh": "美国法院判处40岁尼日利亚人丘库埃梅卡·阿马丘库八年监禁，罪名是黑客攻击、身份盗窃和电汇欺诈计划。阅读更多：https://punchng.com/us-court-jails-nigerian-eight-years-orders-10-8m-forfeiture/"
   },
   {
-   "title": "CIB Ghana’s 3rd post-MPC Policy seminar focuses on monetary policy transmission, credit growth",
-   "url": "https://www.myjoyonline.com/cib-ghanas-3rd-post-mpc-policy-seminar-focuses-on-monetary-policy-transmission-credit-growth/",
-   "domain": "myjoyonline.com",
-   "source": "MyJoyOnline（加纳）",
-   "published": "Tue, 20 Oct 2026 07:53:43 +0000",
-   "_dt": 1792482823.0,
-   "ageDays": 0.06,
-   "summary": "…Bank of Ghana, Ministry of Finance, banks, traders and industry examine why cheaper money is reaching some borrowers faster than others Lower interest rates are reaching borrowers of Ghana’s universal banks faster than customers of community and microfinance banks, according to a survey of banks presented at the third Post-Monetary Policy Committee (Post-MPC) Policy Seminar […]",
-   "summary_zh": "……加纳银行、财政部、银行、交易商和行业正在研究为什么更便宜的资金到达某些借款人手中比其他人更快。根据在第三届货币政策委员会后（Post-MPC）政策研讨会上提交的一项银行调查，更低的利率到达加纳通用银行借款人手中的速度快于社区和微型金融银行的客户［……］",
-   "summarySource": "index",
-   "body": "…Bank of Ghana, Ministry of Finance, banks, traders and industry examine why cheaper money is reaching some borrowers faster than others Lower interest rates are reaching borrowers of Ghana’s universal banks faster than customers of community and microfinance banks, according to a survey of banks presented at the third Post-Monetary Policy Committee (Post-MPC) Policy Seminar […]",
-   "bodyLevel": "excerpt",
+   "title": "Why we met with President Tinubu – Suspended Zamfara lawmakers",
+   "url": "https://www.premiumtimesng.com/news/top-news/918429-why-we-met-with-president-tinubu-suspended-zamfara-lawmakers.html",
+   "domain": "premiumtimesng.com",
+   "source": "Premium Times（尼日利亚）",
+   "published": "Tue, 20 Oct 2026 07:52:57 +0000",
+   "_dt": 1792482777.0,
+   "ageDays": 0.08,
+   "summary": "The eight suspended members of the Zamfara House of Assembly have explained why they met with President Bola Tinubu. The News Agency of Nigeria (NAN) reports that the lawmakers were suspended in February 2024 by the State House of Assembly over alleged violation of house rules and the Nigerian Constitution. NAN further reports that the Minister of State for Defence, Bello Matawalle, led the lawmakers to the president with a view to addressing the political impasse that is gradually tearing the Zamfara APC apart.",
+   "summary_zh": "被停职的八名赞法拉州议会成员解释了他们会见总统博拉·蒂努布的原因。尼日利亚通讯社（NAN）报道称，这些议员于2024年2月因涉嫌违反议会规则和尼日利亚宪法而被州议会停职。NAN进一步报道称，国防国务部长贝洛·马塔瓦莱带领这些议员去见总统，目的是解决正在逐渐撕裂赞法拉州APC的政治僵局。",
+   "summarySource": "fulltext",
+   "body": "The eight suspended members of the Zamfara House of Assembly have explained why they met with President Bola Tinubu. The News Agency of Nigeria (NAN) reports that the lawmakers were suspended in February 2024 by the State House of Assembly over alleged violation of house rules and the Nigerian Constitution. NAN also reports that the suspended lawmakers recently announced their defection from the All Progressives Congress (APC). The suspended lawmakers, however, maintained that their suspension was illegal. NAN further reports that the Minister of State for Defence, Bello Matawalle, led the lawmakers to the president with a view to addressing the political impasse that is gradually tearing the Zamfara APC apart. Mr Kagara, who represents Talata Mafara South, commended President Tinubu’s intervention in the matter, describing it as fatherly. “We discussed a lot with Mr President over our illegal suspension from the Zamfara House of Assembly. “We explained everything to him, and he promised to reconvene another meeting on the matter. “We must be loyal to Mr President. You know, every good Nigerian, irrespective of political affiliation, must respect Mr President. “We have not decided yet on anything; we have not taken any action now; we are waiting for another call from Mr President as he promised,” Mr Kagara explained",
+   "bodyLevel": "fulltext",
    "country": [
-    "gh"
+    "ng"
    ],
    "topic": [
     "pol",
-    "eco"
+    "sec"
    ],
    "tier": 3,
    "actor": "当事国政府",
@@ -1908,9 +2059,9 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "score": 0.6,
-   "tag": "rss_myjoyonline",
-   "title_zh": "加纳CIB第三届MPC后政策研讨会聚焦货币政策传导和信贷增长",
-   "body_zh": "……加纳银行、财政部、银行、交易商和行业正在研究为什么更便宜的资金到达某些借款人手中比其他人更快。根据在第三届货币政策委员会后（Post-MPC）政策研讨会上提交的一项银行调查，更低的利率到达加纳通用银行借款人手中的速度快于社区和微型金融银行的客户［……］"
+   "tag": "rss_premiumtimes",
+   "title_zh": "我们为什么会见Tinubu总统 – 被停职的Zamfara议员",
+   "body_zh": "扎姆法拉州议会八名被停职的议员解释了他们会见总统博拉·蒂努布的原因。尼日利亚通讯社（NAN）报道称，这些议员于2024年2月被州议会以涉嫌违反议会规则和尼日利亚宪法为由停职。NAN还报道称，被停职的议员最近宣布退出全进步大会党（APC）。然而，被停职的议员坚持认为他们的停职是非法的。NAN进一步报道称，国防国务部长贝洛·马塔瓦莱带领这些议员去见总统，目的是解决正在逐渐撕裂扎姆法拉州APC的政治僵局。代表塔拉塔马法拉南部的卡加拉先生赞扬了总统蒂努布对此事的干预，称其为父亲般的。“我们与总统先生就我们被非法停职于扎姆法拉州议会的事讨论了很多。”“我们向他解释了一切，他承诺就此事重新召开另一次会议。”“我们必须忠于总统先生。你知道，每个善良的尼日利亚人，无论政治派别如何，都必须尊重总统先生。”“我们还没有就任何事情做出决定；我们现在还没有采取任何行动；我们正在等待总统先生如他所承诺的那样再次召见我们，”卡加拉先生解释道"
   },
   {
    "title": "China sends naval forces to monitor US warship near disputed shoal",
@@ -1919,7 +2070,7 @@ window.SITE_DATA = {
    "source": "rappler.com",
    "published": "Tue, 20 Oct 2026 14:39:13 +0800",
    "_dt": 1792478353.0,
-   "ageDays": 0.12,
+   "ageDays": 0.13,
    "summary": "(1st UPDATE) A Philippine military spokesperson says the US ship 'did not trespass into \"Chinese territory,\"' adding that no nation has the authority to require prior permission for 'lawful transit through international waters'",
    "summary_zh": "(1st UPDATE) 一位菲律宾军方发言人表示，美国船只“没有擅自进入‘中国领土’”，并补充说没有任何国家有权要求对“国际水域合法过境”事先获得许可",
    "summarySource": "index",
@@ -1949,11 +2100,11 @@ window.SITE_DATA = {
    "source": "rappler.com",
    "published": "Tue, 20 Oct 2026 14:39:13 +0800",
    "_dt": 1792478353.0,
-   "ageDays": 0.12,
+   "ageDays": 0.13,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
-   "body": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "ph"
@@ -1967,7 +2118,7 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_rappler",
    "title_zh": "中国派遣海军力量监视美国军舰在争议浅滩附近活动",
-   "body_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body_zh": "",
    "cnHit": true,
    "usHit": true,
    "terrHit": false
@@ -1979,7 +2130,7 @@ window.SITE_DATA = {
    "source": "vanguardngr.com",
    "published": "Tue, 20 Oct 2026 06:31:54 +0000",
    "_dt": 1792477914.0,
-   "ageDays": 0.12,
+   "ageDays": 0.13,
    "summary": "Minister of Finance and Coordinating Minister of the Economy, Taiwo Oyedele, has warned that a return to petrol subsidy could trigger capital flight, weaken investor confidence and push the naira to between N3,000 and N4,000 to the dollar.",
    "summary_zh": "财政部长兼经济协调部长Taiwo Oyedele警告称，恢复汽油补贴可能引发资本外逃、削弱投资者信心，并将奈拉对美元汇率推至3000奈拉至4000奈拉。",
    "summarySource": "index",
@@ -2010,7 +2161,7 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Tue, 20 Oct 2026 11:49:30 +0530",
    "_dt": 1792477170.0,
-   "ageDays": 0.13,
+   "ageDays": 0.14,
    "summary": "China and the ‌Philippines, which shares a mutual defence treaty with the U.S., both contest sovereignty over ‌Sabina Shoal and the ​entire Spratly Islands archipelago",
    "summary_zh": "中国和与美国有共同防御条约的菲律宾都对萨宾娜浅滩和整个斯普拉特利群岛的主权提出争议",
    "summarySource": "index",
@@ -2040,7 +2191,7 @@ window.SITE_DATA = {
    "source": "vanguardngr.com",
    "published": "Tue, 20 Oct 2026 05:54:41 +0000",
    "_dt": 1792475681.0,
-   "ageDays": 0.15,
+   "ageDays": 0.16,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
@@ -2070,7 +2221,7 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Tue, 20 Oct 2026 11:15:17 +0530",
    "_dt": 1792475117.0,
-   "ageDays": 0.15,
+   "ageDays": 0.16,
    "summary": "In a July ‌memo made public Monday, DHS told federal agencies to monitor flows of traffic in and out of government websites to address potential risks from DeepSeek",
    "summary_zh": "在周一公开的7月备忘录中，美国国土安全部告诉联邦机构监控进出政府网站的流量，以应对来自DeepSeek的潜在风险",
    "summarySource": "index",
@@ -2100,11 +2251,11 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Tue, 20 Oct 2026 11:07:55 +0530",
    "_dt": 1792474675.0,
-   "ageDays": 0.16,
+   "ageDays": 0.17,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
-   "body": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "in"
@@ -2118,7 +2269,7 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_thehindu",
    "title_zh": "特朗普警告堪萨斯人，如果民主党获胜，美国将像法国一样‘燃烧’",
-   "body_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body_zh": "",
    "cnHit": false,
    "usHit": true,
    "terrHit": false
@@ -2130,7 +2281,7 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Tue, 20 Oct 2026 05:32:12 +0000",
    "_dt": 1792474332.0,
-   "ageDays": 0.16,
+   "ageDays": 0.17,
    "summary": "The government is considering a revised health financing proposal from the United States after declining to accept an earlier version over concerns about its implications for Ghana’s sovereignty, regulatory authority and national interests.",
    "summary_zh": "加纳政府正在考虑美国提出的修订后的卫生融资提案，此前因担心该提案对加纳主权、监管权力和国家利益的影响而拒绝接受较早版本。",
    "summarySource": "index",
@@ -2160,7 +2311,7 @@ window.SITE_DATA = {
    "source": "rappler.com",
    "published": "Tue, 20 Oct 2026 13:12:31 +0800",
    "_dt": 1792473151.0,
-   "ageDays": 0.18,
+   "ageDays": 0.19,
    "summary": "Share in Chat Share article Facebook X (Twitter) Copy Link Copied WHAT YOU NEED TO KNOW The impeachment trial of Vice President Sara Duterte — the first Philippine public official to be impeached twice by the House of Representatives — began at 2 pm on Monday, July 6.",
    "summary_zh": "在聊天中分享 分享文章 Facebook X（Twitter） 复制链接 已复制 需要了解的内容 副总统萨拉·杜特尔特弹劾审判——菲律宾首位被众议院两次弹劾的公职人员——于7月6日星期一下午2点开始。",
    "summarySource": "fulltext",
@@ -2177,6 +2328,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_rappler",
    "title_zh": "实时更新：副总统萨拉·杜特尔特弹劾审判",
@@ -2189,7 +2341,7 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Tue, 20 Oct 2026 05:04:00 +0000",
    "_dt": 1792472640.0,
-   "ageDays": 0.18,
+   "ageDays": 0.19,
    "summary": "The African Union (AU) has recommended Ghana’s Gold Board (GoldBod) as a model for other African countries seeking to increase the value derived from their mineral resources and strengthen their economies.",
    "summary_zh": "非洲联盟（AU）已推荐加纳黄金局（GoldBod）作为其他非洲国家的典范，这些国家寻求增加从其矿产资源中获得的价值并加强其经济。",
    "summarySource": "index",
@@ -2219,11 +2371,11 @@ window.SITE_DATA = {
    "source": "globalnation.inquirer.net",
    "published": "Tue, 20 Oct 2026 05:00:00 GMT",
    "_dt": 1792472400.0,
-   "ageDays": 0.19,
+   "ageDays": 0.2,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "ph"
@@ -2239,8 +2391,8 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_ph",
-   "title_zh": "与中国有联系？调查针对亲副总统的网民",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "与中国有联系？调查针对亲副总统的网民"
   },
   {
    "title": "FG targets $1trn economy with 30% raw material value addition",
@@ -2249,7 +2401,7 @@ window.SITE_DATA = {
    "source": "Daily Trust（尼日利亚）",
    "published": "Tue, 20 Oct 2026 04:57:24 +0000",
    "_dt": 1792472244.0,
-   "ageDays": 0.19,
+   "ageDays": 0.2,
    "summary": "The Federal Government said Nigeria’s economy could hit $1 trillion by 2030 if it achieves 30 percent value addition to all raw materials before export.",
    "summary_zh": "联邦政府表示，如果尼日利亚在出口前对所有原材料实现30%的增值，其经济到2030年可能达到1万亿美元。",
    "summarySource": "index",
@@ -2280,11 +2432,11 @@ window.SITE_DATA = {
    "source": "africaintelligence.com",
    "published": "Tue, 20 Oct 2026 04:40:00 GMT",
    "_dt": 1792471200.0,
-   "ageDays": 0.2,
+   "ageDays": 0.21,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
@@ -2302,8 +2454,8 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_ml",
-   "title_zh": "几内亚 • 中国文峰准备就前矿业部长Ahmed Kanté作证",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "几内亚 • 中国文峰准备就前矿业部长Ahmed Kanté作证"
   },
   {
    "title": "Where is NLNG dividend?",
@@ -2312,7 +2464,7 @@ window.SITE_DATA = {
    "source": "Daily Trust（尼日利亚）",
    "published": "Tue, 20 Oct 2026 04:31:52 +0000",
    "_dt": 1792470712.0,
-   "ageDays": 0.21,
+   "ageDays": 0.22,
    "summary": "In his account, the exercise was undertaken to establish the extent of NLNG dividend payments and determine whether the amounts due to states and local governments had been fully accounted for. He said: “The Nigeria Governors’ Forum (NGF), with the Federal Government’s support, engaged a consultant to reconcile NLNG dividend payments. The current dispute has also revived questions about the historical handling of NLNG dividend payments.",
    "summary_zh": "据他介绍，此次行动旨在确定NLNG股息支付的范围，并确定是否已完全说明应付给各州和地方政府的金额。他说：“尼日利亚州长论坛（NGF）在联邦政府的支持下，聘请了一名顾问来核对NLNG股息支付。目前的争端也重新引发了关于NLNG股息支付历史处理方式的问题。",
    "summarySource": "fulltext",
@@ -2343,7 +2495,7 @@ window.SITE_DATA = {
    "source": "Premium Times（尼日利亚）",
    "published": "Tue, 20 Oct 2026 04:26:58 +0000",
    "_dt": 1792470418.0,
-   "ageDays": 0.21,
+   "ageDays": 0.22,
    "summary": "President Bola Tinubu has approved 18-month tenure extensions for Sylvester Nwakuche, controller-general of the Nigerian Correctional Service and Kemi Nandap, comptroller-general of the Nigeria Immigration Service. President Tinubu nominated Mr Nwakuche as controller-general of the Correctional Service in December 2024. President Tinubu nominated Kemi Nandap as the comptroller-general of the Nigeria Immigration Service (NIS) on 21 February 2024.",
    "summary_zh": "总统博拉·蒂努布已批准对尼日利亚惩教局局长西尔维斯特·恩瓦库切和尼日利亚移民局局长凯米·南达普进行为期18个月的任期延长。总统蒂努布于2024年12月提名恩瓦库切先生担任惩教局局长。总统蒂努布于2024年2月21日提名凯米·南达普担任尼日利亚移民局（NIS）局长。",
    "summarySource": "fulltext",
@@ -2363,7 +2515,8 @@ window.SITE_DATA = {
    "title_zh": "蒂努布延长惩教和移民服务负责人任期",
    "body_zh": "总统博拉·蒂努布已批准对尼日利亚惩教局局长西尔维斯特·恩瓦库切和尼日利亚移民局局长凯米·南达普进行为期18个月的任期延长。批准后，恩瓦库切先生的任期将于2028年5月26日结束，而南达普女士的任期将于2028年6月30日结束。此项批准是根据内政部长奥卢本米·通吉-奥乔的建议做出的，旨在解决两个部门的人员接替缺口，并让委员会有足够时间任命继任者。蒂努布总统赞扬了恩瓦库切和南达普在领导期间取得的改革成果，并要求他们巩固这些成果。蒂努布总统于2024年12月提名恩瓦库切先生担任惩教局局长。参议院于2025年3月确认了该任命。蒂努布总统于2024年2月21日提名凯米·南达普担任尼日利亚移民局（NIS）局长。参议院于2024年3月1日确认了该任命。",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "Senate panel approves proposed 2027 OVP budget in under 20 minutes",
@@ -2372,7 +2525,7 @@ window.SITE_DATA = {
    "source": "rappler.com",
    "published": "Tue, 20 Oct 2026 12:18:10 +0800",
    "_dt": 1792469890.0,
-   "ageDays": 0.21,
+   "ageDays": 0.22,
    "summary": "MANILA, Philippines – The proposed P785.2-million of the Office of the Vice President (OVP) for 2027 hurled the deliberations of a Senate Finance sub-panel on Tuesday, October 20, in under 20 minutes. Senate finance committee chairperson JV Ejercito arrived in the upper chamber at around 10:16 am to open the deliberations of Senate finance sub-committee A on the OVP’s proposed budget. The Senate is on a break in the impeachment trial of Duterte to focus on the proposed 2027 budget.",
    "summary_zh": "马尼拉，菲律宾——副总统办公室（OVP）2027年拟议的7.852亿比索预算在周二（10月20日）抛出了参议院财政小组委员会的审议，在不到20分钟内完成。参议院财政委员会主席JV Ejercito大约上午10:16抵达上议院，开启参议院财政小组委员会A对OVP拟议预算的审议。参议院正在休会以暂停对杜特尔特的弹劾审判，专注于拟议的2027年预算。",
    "summarySource": "fulltext",
@@ -2390,6 +2543,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_rappler",
    "title_zh": "参议院小组在不到20分钟内批准拟议的2027年副总统办公室预算",
@@ -2402,7 +2556,7 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Tue, 20 Oct 2026 04:17:00 +0000",
    "_dt": 1792469820.0,
-   "ageDays": 0.22,
+   "ageDays": 0.23,
    "summary": "President John Dramani Mahama, on Monday, appealed to the Regent of Dagbon, Kampakuya Naa Yakubu II, to preserve the peace of the Dagbon traditional area. “The peace of Dagbon is precious, and we must protect it through our words, our decisions and our treatment of one another. President Mahama said his successful installation as Regent of Dagbon was a testament to the enduring peace that existed in Dagbon and had assumed a responsibility that called for wisdom, patience, consultation, and fairness.",
    "summary_zh": "总统约翰·德拉马尼·马哈马周一呼吁达贡摄政王Kampakuya Naa Yakubu II维护达贡传统地区的和平。“达贡的和平是宝贵的，我们必须通过我们的言语、我们的决定和我们对彼此的对待来保护它。”马哈马总统说，他成功就任达贡摄政王证明了达贡存在的持久和平，并承担了一项需要智慧、耐心、协商和公平的责任。",
    "summarySource": "fulltext",
@@ -2419,6 +2573,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_myjoyonline",
    "title_zh": "马哈马敦促摄政王维护达贡的和平",
@@ -2431,7 +2586,7 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Tue, 20 Oct 2026 09:44:11 +0530",
    "_dt": 1792469651.0,
-   "ageDays": 0.22,
+   "ageDays": 0.23,
    "summary": "Unlock these with Subscription U.S. President Donald Trump used the protests roiling France to score some quick political points on Monday (October 19, 2026), as the upcoming midterm elections force his Republican party to face strong headwinds. At a rally in Kansas, the U.S. President launched into a lengthy tirade about France, which he said was being “conquered, looted, and burned to the ground by migrants, jihadists, and communists.” “And we’re not going to let that happen to this country,” he added.",
    "summary_zh": "使用订阅解锁这些内容 美国总统唐纳德·特朗普周一（2026年10月19日）利用席卷法国的抗议活动快速赢得了一些政治分数，因为即将到来的中期选举迫使他的共和党面临强劲阻力。在堪萨斯州的一次集会上，美国总统对法国进行了长篇抨击，他称法国正在“被移民、圣战分子和共产主义者征服、掠夺并烧为平地。”他补充说，“我们不会让这种情况发生在这个国家。”",
    "summarySource": "fulltext",
@@ -2452,7 +2607,8 @@ window.SITE_DATA = {
    "title_zh": "移民已经接管法国，他们必须关闭边境：特朗普谈法国骚乱",
    "body_zh": "账户订阅权益包括Premium Stories、社论、观点文章等。使用订阅即可解锁这些内容。美国总统唐纳德·特朗普周一（2026年10月19日）利用席卷法国的抗议活动迅速赢得一些政治分数，因为即将到来的中期选举迫使他的共和党面临强劲阻力。在堪萨斯州的一次集会上，美国总统对法国发起了冗长的抨击，他称法国正在“被移民、圣战分子和共产主义者征服、掠夺并焚烧殆尽。”“我们不会让这种情况发生在这个国家，”他补充道。当天早些时候在与记者交谈时，特朗普先生回忆起与法国总统埃马纽埃尔·马克龙的交流：“我很久以前就告诉他，你在法国犯了一个大错误。你让世界各地的人都进来……巴黎很快就会成为一座穆斯林城市。”周一（2026年10月19日）早些时候，这位80岁的总统在他的Truth Social平台上写道：“移民已经接管了法国。他们必须关闭边境，赶快！”生活成本示威活动周末在法国各地爆发，许多示威演变为抢劫和暴力冲突，促使官员在周一（2026年10月19日）实施局部宵禁。虽然法国抗议活动是由飙升的通胀引发的，但特朗普已将与警察的暴力冲突塑造成支持他2024年成功竞选连任时所使用的反移民政策的证据。“他们正在把这场法国危机变成竞选论点，”德国马歇尔基金会智库高级研究员J.C. Lintzenich告诉法新社。民意调查显示，在11月3日的中期选举中，特朗普先生的民主党对手占据压倒性优势，这次选举将决定谁将控制国会。在距离美国人投票仅剩两周之际，特朗普先生抓住任何他能使用的策略来迫使选民支持共和党和他的让美国再次伟大（MAGA）运动。“自MAGA运动开始以来，欧洲一直是美国政治战场的延伸，因此当出现像10月17日那样的骚乱事件时，政治机器开始运转也就不足为奇了，”约翰·霍普金斯大学美国外交政策教授Justin Vaisse告诉法新社。随着法国骚乱的视频开始在社交媒体上出现，副总统J.D. Vance于周六（2026年10月17日）在X上写道：“西方自由派把第三世界引入法国……他们忽略了同化和兼容性的基本问题。”包括Glenn Beck、Benny Johnson、Nick Sortor和Jack Posobiec在内的美国右翼媒体人士也提出了类似观点，指责来自穆斯林多数国家的移民造成了西方身份认同的危机。“这些骚乱被视为对反对移民尤其是穆斯林移民警告的验证，如果存在这样的事情的话，”Vaisse说。欧洲对外关系委员会高级政策研究员兼巴黎办事处负责人Celia Belin将这些评论视为美国政府“出口国内政策”的表现，该政府公开支持欧洲的民族主义政党。她告诉法新社，特朗普先生及其盟友“匆忙投入这场争论，即2025年Vance在慕尼黑发表的那场有争议演讲中提出的论点，那场演讲被描述为美国针对欧洲的文化战争，目的是‘煽风点火’。”专家指出，这种修辞策略虽然可能在2024年取得成功，但如今并不一定是美国选民想听到的。“当你看看这里的竞选广告——我现在在南卡罗来纳州——内容是关于医疗保健、国内问题，”Lintzenich说。“国际因素只是雷达上的一个光点，而乌克兰、伊朗和其他持续的国家安全问题比当前的法国不稳定更受关注，”他继续说道。本月皮尤研究中心的一项民意调查发现，经济在82%的美国人选择中发挥着重要作用。",
    "cnHit": false,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
    "title": "Senate, Finance Minister Push NNPC, NLNG Listing To Boost $1trn Capital Market Target",
@@ -2461,7 +2617,7 @@ window.SITE_DATA = {
    "source": "Leadership（尼日利亚）",
    "published": "Tue, 20 Oct 2026 03:48:35 +0000",
    "_dt": 1792468115.0,
-   "ageDays": 0.24,
+   "ageDays": 0.25,
    "summary": "The Senate and the federal government have intensified calls for the listing of major state-owned enterprises, including the Nigerian National Petroleum Company Limited (NNPC) and Nigeria LNG Limited (NLNG), on the Nigerian Exchange (NGX), as part of efforts to grow Nigeria’s capital market to $1 trillion within the next decade.",
    "summary_zh": "参议院和联邦政府已加强呼吁将主要国有企业包括尼日利亚国家石油公司有限公司（NNPC）和尼日利亚液化天然气有限公司（NLNG）在尼日利亚交易所（NGX）上市，作为将尼日利亚资本市场在未来十年内增长至1万亿美元努力的一部分。",
    "summarySource": "fulltext",
@@ -2482,7 +2638,8 @@ window.SITE_DATA = {
    "title_zh": "参议院、财政部长推动NNPC、NLNG上市以助力1万亿美元资本市场目标",
    "body_zh": "参议院和联邦政府已加强呼吁将主要国有企业包括尼日利亚国家石油公司有限公司（NNPC）和尼日利亚液化天然气有限公司（NLNG）在尼日利亚交易所（NGX）上市，作为将尼日利亚资本市场在未来十年内增长至1万亿美元努力的一部分。拟议的上市预计将深化资本市场，吸引更多国内外投资，扩大公众对国家战略资产的所有权，并加强资本形成以支持经济增长。参议院资本市场委员会主席Osita Izunaso和财政部长兼经济协调部长Taiwo Oyedele在2026年阿布贾国家资本市场会议上发出了这一呼吁。他们还主张提供激励措施，以鼓励私营公司特别是主要电信公司，在NGX上市，认为更广泛的企业参与将扩大尼日利亚人的投资机会，并增加为市场发展做出贡献的公司数量。Izunaso对尽管尼日利亚拥有超过500万家注册公司，但在证券交易所上市的公司只有约151家表示担忧。他质疑为什么NNPC等主要实体以及领先的电信公司尚未上市，并指出它们的参与可以显著扩大市场，并使普通尼日利亚人能够拥有该国一些最大企业的股份。他说增加上市公司的数量将加强国内资本动员，改善投资机会，并使更多尼日利亚人直接从企业增长中受益。该参议员还呼吁证券交易委员会（SEC）加快制定数字资产和代币化监管规定，警告称延误可能阻止尼日利亚利用不断演变的全球金融市场中新兴的投资机会。Oyedele赞同更多公司上市的呼吁，表示尼日利亚应在未来10年内将资本市场目标定为1万亿美元，以支持其到2030年建成1万亿美元经济的雄心。这一目标比SEC现有的计划更具雄心，后者计划到2036年将市场从约250万亿奈拉增长到750万亿奈拉。根据部长所说，实现这一目标将需要显著扩大股票市场资本化、上市公司的数量以及零售投资者参与度。他提议将股票市场资本化从约占国内生产总值（GDP）的33%提高到至少60%，将上市公司的数量从146家增加到250家，并将零售投资者基础从600万扩大到2000万。Oyedele表示，政府将依靠激励措施而不是强制来说服企业进入资本市场。“我们不能强迫他们。我们将鼓励尼日利亚私营企业上市。我们将使用激励措施来吸引他们，”他说。在国有企业方面，部长表示，上市选定的政府资产将提高透明度，加强公司治理，并让尼日利亚人有机会参与其所有权和增长。他指出NNPC和NLNG是其上市可以显著增加国内资本市场规模的公司，并与沙特阿拉伯国家控制的石油公司沙特阿美进行了比较，后者的公开发行向投资者开放了部分所有权。主要国家资产的成功上市还可以扩大养老基金、机构投资者和个人股东可用的投资工具范围，同时提高市场动员长期资金用于经济发展的能力。Oyedele表示，尼日利亚的资本市场已录得实质性增长，股票市场资本化从2023年年中不到30万亿奈拉上升到约160万亿奈拉。",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "FMBN Approves N208bn In Housing Loans, Funds 6,911 Homes In 2025",
@@ -2491,7 +2648,7 @@ window.SITE_DATA = {
    "source": "Leadership（尼日利亚）",
    "published": "Tue, 20 Oct 2026 03:44:46 +0000",
    "_dt": 1792467886.0,
-   "ageDays": 0.24,
+   "ageDays": 0.25,
    "summary": "Osidi gave the figures in Abuja on Monday at an event marking World Habitat Day and World Cities Day, organised by the Federal Ministry of Housing and Urban Development. The money went to housing construction, mortgage financing, home renovation, cooperative housing and Rent-to-Own schemes. Osidi confirmed the formal launch of the Diaspora National Housing Fund (NHF) Mortgage Loan, which lets Nigerians abroad finance property purchases at home.",
    "summary_zh": "Osidi周一在阿布贾举行的纪念世界人居日和世界城市日活动上公布了这些数据，该活动由联邦住房和城市发展部组织。这些资金用于住房建设、抵押贷款融资、房屋翻新、合作住房和“租买”计划。Osidi确认正式推出Diaspora National Housing Fund (NHF) 抵押贷款，该贷款允许海外尼日利亚人为国内购房提供融资。",
    "summarySource": "fulltext",
@@ -2512,7 +2669,8 @@ window.SITE_DATA = {
    "title_zh": "FMBN在2025年批准2080亿奈拉住房贷款，为6911个家庭提供资金",
    "body_zh": "奥西迪周一在阿布贾举行的纪念世界人居日和世界城市日活动上公布了这些数据，该活动由联邦住房和城市发展部组织。他说，该银行当年还发放了超过1200亿奈拉的资金。这些资金用于住房建设、抵押贷款融资、房屋翻新、合作住房和租购计划。这6911套住房约占该银行2025年总统和部长交付目标7200套的96%。奥西迪证实了侨民国家住房基金（NHF）抵押贷款的正式推出，该贷款允许海外尼日利亚人为国内购房提供融资。FMBN于2026年8月7日在伦敦推出了该产品。符合条件的缴款人每年可按9%的利率借款最高1亿奈拉，最长还款期限为10年。申请人可以在线注册NHF，完成了解您的客户（KYC）检查并进行缴款。批准仍取决于负担能力检查和其他要求。2025年的批准额比2024年批准的715亿奈拉高出约191%。那一年的数字本身比2023年批准的397亿奈拉高出大约80%。该银行的资金基础也有所增长。FMBN在2月报告称，2025年NHF收款达到创纪录的1524亿奈拉，比2024年的1030亿奈拉增长48%。NHF是一项缴费计划，汇集资金让符合条件的缴款人获得负担得起的抵押贷款。我们拥有优势。获取实时报道、突发独家新闻和独家视角，直接发送到您的手机。不要满足于陈旧新闻。加入LEADERSHIP NEWS的WhatsApp，获取24/7更新→加入我们的WhatsApp频道突发新闻：尼日利亚人可以投资250万奈拉购买优质域名，并赚取约1700万至2500万奈拉。收益以美元计算。与其好奇，不如点击此处了解其运作方式--> --> LEADERSHIP News",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "U.S. Vice-President Vance declines to endorse Netanyahu for re-election, says he’s focusing on midterms",
@@ -2521,7 +2679,7 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Tue, 20 Oct 2026 08:56:01 +0530",
    "_dt": 1792466761.0,
-   "ageDays": 0.25,
+   "ageDays": 0.26,
    "summary": "Vance declined on Monday (October 19, 2026) to endorse Israeli President Benjamin Netanyahu for reelection a day after President Donald Trump endorsed the embattled Israeli leader . “The President has the most influential endorsement in American or international political history,” Mr. Vance said during an interview with journalist Mark Halperin.",
    "summary_zh": "万斯周一（2026年10月19日）拒绝支持以色列总统本雅明·内塔尼亚胡竞选连任，此前一天总统唐纳德·特朗普支持了这位陷入困境的以色列领导人。“总统拥有美国或国际政治史上最具影响力的支持，”万斯先生在接受记者Mark Halperin采访时说。",
    "summarySource": "fulltext",
@@ -2541,7 +2699,8 @@ window.SITE_DATA = {
    "title_zh": "美国副总统万斯拒绝支持内塔尼亚胡连任，称他正专注于中期选举",
    "body_zh": "账户订阅福利以及Premium Stories、社论、观点等内容。通过订阅解锁这些内容。美国副总统J.D. Vance周一（2026年10月19日）拒绝支持以色列总统Benjamin Netanyahu寻求连任，此前一天总统Donald Trump刚刚支持了这位陷入困境的以色列领导人。“总统拥有美国或国际政治史上最具影响力的支持，”Vance先生在接受记者Mark Halperin采访时表示。“我支持美国候选人，这就是我关注中期选举的地方，”Vance先生说，当时他在周一（2026年10月19日）前往为北卡罗来纳州共和党参议院候选人Michael Whatley竞选。“所以，我不会介入以色列选举。”Vance先生曾为一位外国领导人竞选——即当时匈牙利总理Viktor Orban，去年春天，在这位右翼领导人所在政党输掉该国议会选举之前。Vance先生在Netanyahu问题上对Trump先生的顺从，正值美国犹太人和美国与以色列联盟处于极其敏感的时刻。在中期选举之前，关于反犹主义的担忧在整个政治光谱上激增。共和党人一直急于将民主党人，特别是密歇根州民主党参议院候选人Abdul El-Sayed，描绘成对犹太人和以色列怀有敌意，而他们自己则在处理内部的分歧。Vance先生面临犹太共和党人对他在美国犹太人和美国与以色列联盟承诺方面的怀疑。上个月，Vance先生在拉斯维加斯私下向共和党犹太联盟讲话，该联盟是致力于倡导美国与以色列建立牢固关系并反对反犹主义的领先共和党团体。Vance先生给他的RJC听众留下了积极印象，同时没有明确否认有影响力的保守派播客主持人Tucker Carlson。Vance先生面临关于他与Carlson关联的一般性质疑，Carlson是前福克斯新闻主持人，去年因在其播客上采访反犹分子Nick Fuentes而面临强烈反对。今年6月，Vance先生严厉批评以色列政府成员反对Trump先生解决与伊朗战争的努力。今年7月，Vance先生表示，以色列政府中的某些势力试图影响美国舆论以破坏谈判。“我们毫无疑问地知道，他们系统内有一些人正在操纵并试图改变美国公众舆论，以使战争无限期地继续下去，”Vance在Joe Rogan播客上露面时表示。评论必须用英语，并使用完整的句子。它们不能是辱骂性的或针对个人的。请遵守我们的社区准则来发布您的评论。我们已迁移到新的评论平台。如果您已经是The Hindu的注册用户并已登录，您可以继续与我们的文章互动。如果您没有账户，请注册并登录以发表评论。用户可以通过登录他们在Vuukle上的账户来访问他们以前的评论。",
    "cnHit": false,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
    "title": "U.S. to launch $8 billion support program for farmers to offset diesel costs, Trump says",
@@ -2550,7 +2709,7 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Tue, 20 Oct 2026 08:33:13 +0530",
    "_dt": 1792465393.0,
-   "ageDays": 0.27,
+   "ageDays": 0.28,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
@@ -2570,7 +2729,8 @@ window.SITE_DATA = {
    "title_zh": "特朗普称美国将启动80亿美元农民支持计划以抵消柴油成本",
    "body_zh": "该部门表示，这80亿美元的付款将由该部门的农场服务局管理",
    "cnHit": false,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
    "title": "2027: Wike Meets Fubara’s Supporters",
@@ -2579,7 +2739,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:42:58 +0000",
    "_dt": 1792464178.0,
-   "ageDays": 0.28,
+   "ageDays": 0.29,
    "summary": "Olawale Ajimotokan in Abuja Minister of the FCT, Nyesom Wike, has forged a realignment with the supporters of Rivers State Governor, Siminalayi Fubara, ahead of the 2027 general election.",
    "summary_zh": "阿布贾的奥拉瓦莱·阿吉莫托坎报道，联邦首都区部长奈耶索姆·维克在2027年大选前与河流州州长西米纳拉伊·富巴拉的支持者结成了真正的重新结盟。",
    "summarySource": "index",
@@ -2596,6 +2756,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_thisday",
    "title_zh": "2027年：威克会见富巴拉的支持者",
@@ -2608,7 +2769,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:42:20 +0000",
    "_dt": 1792464140.0,
-   "ageDays": 0.28,
+   "ageDays": 0.29,
    "summary": "Folalumi Alaran in Abuja Special Adviser to the Minister of Solid Minerals Development, Kehinde Bamigbetan, has challenged a British newspaper report questioning former UK Prime Minister Tony Blair’s role in",
    "summary_zh": "福拉卢米·阿拉兰在阿布贾 固体矿物发展部长特别顾问凯欣德·巴米贝坦对一份质疑前英国首相托尼·布莱尔角色的英国报纸报道提出质疑",
    "summarySource": "index",
@@ -2638,7 +2799,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:40:17 +0000",
    "_dt": 1792464017.0,
-   "ageDays": 0.28,
+   "ageDays": 0.29,
    "summary": "Blessing Ibunge in Port Harcourt The Rivers State House of Assembly has rescinded its decision to declare the seats of three pro-Governor Siminalayi Fubara lawmakers vacant.",
    "summary_zh": "布莱辛·伊邦杰在哈科特港 河流州议会已撤销其宣布三位支持州长西米纳拉伊·富巴拉的议员席位空缺的决定。",
    "summarySource": "index",
@@ -2656,6 +2817,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_thisday",
    "title_zh": "河流州议会撤销决定，召回三名亲福巴拉议员",
@@ -2668,7 +2830,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:38:33 +0000",
    "_dt": 1792463913.0,
-   "ageDays": 0.28,
+   "ageDays": 0.29,
    "summary": "Ndubuisi Francis in Abuja Member representing Igbo-Eze North/Udenu Federal Constituency in the House of Representatives, Hon. Dennis Nnamdi Agbo (FCA), has described Enugu State as a practical model showing how",
    "summary_zh": "恩杜布伊西·弗朗西斯在阿布贾 代表伊博-埃泽北部/乌德努联邦选区的众议院议员，Hon. Dennis Nnamdi Agbo (FCA)，将埃努古州描述为一个实际的典范，展示了如何",
    "summarySource": "index",
@@ -2685,6 +2847,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_thisday",
    "title_zh": "众议院议员赞扬埃努古的发展轨迹，称其为取消补贴收益的典范",
@@ -2697,7 +2860,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:38:16 +0000",
    "_dt": 1792463896.0,
-   "ageDays": 0.28,
+   "ageDays": 0.29,
    "summary": "• As Odinkalu queries reported appointment of showunmi’s wife to head INEC electoral operations Chuks Okocha in Abuja The Independent National Electoral Commission (INEC) will add Dr. Gbenga Olawepo-Hashim of",
    "summary_zh": "• 正如奥丁卡鲁质疑所报道的，肖恩米的妻子被任命领导INEC选举行动 丘克斯·奥科查在阿布贾 独立国家选举委员会（INEC）将增加根加·奥拉韦波-哈希姆博士",
    "summarySource": "index",
@@ -2714,6 +2877,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_thisday",
    "title_zh": "2027年总统竞选：INEC将Accord的Gbenga Hashim增列为第19位总统候选人",
@@ -2726,7 +2890,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:36:43 +0000",
    "_dt": 1792463803.0,
-   "ageDays": 0.28,
+   "ageDays": 0.3,
    "summary": "• FG plans investment ombudsman as Nigeria attracts $23bn in capital The Lagos Multi-Door Courthouse has facilitated the settlement or recovery of N86.8bn over five years, highlighting the economic importance of alternative dispute resolution (ADR) in unlocking funds tied up in commercial disputes and strengthening investor confidence.",
    "summary_zh": "• 联邦政府计划设立投资监察专员，因为尼日利亚吸引了230亿美元的资本 拉各斯多门法院在五年内促成和解或追回了868亿奈拉的资金，突显了替代性争议解决（ADR）在解锁商业纠纷中被束缚的资金以及加强投资者信心方面的经济重要性。",
    "summarySource": "fulltext",
@@ -2742,8 +2906,6 @@ window.SITE_DATA = {
    "tier": 3,
    "actor": "当事国政府",
    "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
    "score": 0.6,
    "tag": "rss_thisday",
    "title_zh": "拉各斯多门法院在五年内促成868亿奈拉和解",
@@ -2759,7 +2921,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:36:39 +0000",
    "_dt": 1792463799.0,
-   "ageDays": 0.29,
+   "ageDays": 0.3,
    "summary": "•ICRC says model targets 100,000 housing units without direct federal financing of construction Director General/Chief Executive, Infrastructure Concession Regulatory Commission (ICRC), Dr. obson Ewalefoh, said the federal government has deployed concessionary financing, mortgage support and risk-sharing arrangements to unlock about $125 million in private-sector investment for affordable housing, cutting the effective cost of its Renewed Hope Housing project by about 30 per cent.",
    "summary_zh": "•国际红十字委员会表示该模式目标是10万套住房单位而无直接联邦建筑融资 基础设施特许经营监管委员会（ICRC）总干事/首席执行官Dr. obson Ewalefoh表示，联邦政府已部署特许融资、抵押支持和风险分担安排，以解锁约1.25亿美元的私营部门投资用于经济适用房，将其Renewed Hope Housing项目的有效成本降低了约30%。",
    "summarySource": "fulltext",
@@ -2775,8 +2937,6 @@ window.SITE_DATA = {
    "tier": 3,
    "actor": "当事国政府",
    "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
    "score": 0.6,
    "tag": "rss_thisday",
    "title_zh": "联邦政府通过PPP解锁1.25亿美元私人住房投资，将项目成本降低30%",
@@ -2792,7 +2952,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:32:52 +0000",
    "_dt": 1792463572.0,
-   "ageDays": 0.29,
+   "ageDays": 0.3,
    "summary": "Kuni Tyessi in Abuja Minister of Education, Dr. Tunji Alausa, has commended the Aliko Dangote Foundation for introducing a share grant initiative designed to encourage Nigerian tertiary institution students to",
    "summary_zh": "库尼·泰西在阿布贾 教育部长图恩吉·阿拉乌萨博士赞扬了阿里科·丹格特基金会推出的一项股份赠款计划，该计划旨在鼓励尼日利亚高等院校学生",
    "summarySource": "index",
@@ -2813,7 +2973,8 @@ window.SITE_DATA = {
    "title_zh": "教育部长赞扬丹格特炼油厂IPO和学生股份赠款计划",
    "body_zh": "库尼·泰西在阿布贾 教育部长图恩吉·阿拉乌萨博士赞扬了阿里科·丹格特基金会推出的一项股份赠款计划，该计划旨在鼓励尼日利亚高等院校学生",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "BoI, FG Unleash Skills, Enterprise Support for 500 Nigerians",
@@ -2822,11 +2983,11 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:32:43 +0000",
    "_dt": 1792463563.0,
-   "ageDays": 0.29,
+   "ageDays": 0.3,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
-   "body": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "ng"
@@ -2840,9 +3001,10 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_thisday",
    "title_zh": "BoI与联邦政府为500名尼日利亚人推出技能和企业支持",
-   "body_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body_zh": "",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "NCDMB: Local Content Interventions Retain $10bn, Generate 50,000 Jobs in Nigeria’s Oil Sector",
@@ -2851,11 +3013,11 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:29:53 +0000",
    "_dt": 1792463393.0,
-   "ageDays": 0.29,
+   "ageDays": 0.3,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
-   "body": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "ng"
@@ -2869,9 +3031,10 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_thisday",
    "title_zh": "NCDMB：本地内容干预在尼日利亚石油部门保留100亿美元、创造5万个就业岗位",
-   "body_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body_zh": "",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "AKPABIO AND THE SUICIDE BILL",
@@ -2880,7 +3043,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Tue, 20 Oct 2026 02:07:13 +0000",
    "_dt": 1792462033.0,
-   "ageDays": 0.31,
+   "ageDays": 0.32,
    "summary": "The opposition of the Senate President, Godswill Akpabio, to the move to decriminalise attempted suicide is quite unfortunate. Although the Senate passed the Suicide Prevention Bill 2026, sponsored by Senator Asuquo Ekpenyong, for a second reading, Akpabio insisted that survivors should be jailed. The bill seeks to decriminalise attempted suicide and provide survivors with medical treatment, rehabilitation, and psychological support.",
    "summary_zh": "参议院议长戈兹维尔·阿克帕比奥反对将试图自杀非罪化的举动相当不幸。尽管参议院通过了由参议员阿苏库奥·埃克佩尼翁赞助的2026年预防自杀法案进行二读，但阿克帕比奥坚持认为幸存者应被监禁。该法案旨在将试图自杀非罪化，并为幸存者提供医疗治疗、康复和心理支持。",
    "summarySource": "fulltext",
@@ -2904,13 +3067,43 @@ window.SITE_DATA = {
    "terrHit": false
   },
   {
+   "title": "Korean Buyers Invited to Connect with Chinese Suppliers at C-TOUCH & DISPLAY and FILM & TAPE EXPO 2026",
+   "url": "https://finance.yahoo.com/technology/articles/korean-buyers-invited-connect-chinese-022300053.html",
+   "domain": "finance.yahoo.com",
+   "source": "finance.yahoo.com",
+   "published": "Tue, 20 Oct 2026 02:00:00 GMT",
+   "_dt": 1792461600.0,
+   "ageDays": 0.32,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "kr"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_kr",
+   "body_zh": "",
+   "title_zh": "2026年C-TOUCH & DISPLAY和FILM & TAPE EXPO邀请韩国买家与中国供应商建立联系"
+  },
+  {
    "title": "Will yamuna get its sabarmati makeover delhi plans 52 km riverfront in two phases 101792461333532",
    "url": "https://www.hindustantimes.com/india-news/will-yamuna-get-its-sabarmati-makeover-delhi-plans-52-km-riverfront-in-two-phases-101792461333532.html",
    "domain": "hindustantimes.com",
    "source": "hindustantimes.com",
    "published": "Tue, 20 Oct 2026 07:25:33 +0530",
    "_dt": 1792461333.0,
-   "ageDays": 0.31,
+   "ageDays": 0.32,
    "summary": "Delhi water minister Parvesh Verma said the government has initiated the process of signing an MoU with the Sabarmati Riverfront Development Corporation Limited",
    "summary_zh": "德里水务部长帕尔韦什·维尔马表示，政府已启动与萨巴尔马蒂河滨开发有限公司签署谅解备忘录的程序",
    "summarySource": "index",
@@ -2940,11 +3133,11 @@ window.SITE_DATA = {
    "source": "chinadailyasia.com",
    "published": "Tue, 20 Oct 2026 01:00:00 GMT",
    "_dt": 1792458000.0,
-   "ageDays": 0.35,
+   "ageDays": 0.36,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "ru"
@@ -2960,8 +3153,8 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_ru",
-   "title_zh": "中国、俄罗斯准备政府首脑会晤",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "中国、俄罗斯准备政府首脑会晤"
   },
   {
    "title": "Wike wants Germany to invest in Abuja’s ICT, agric sectors",
@@ -2970,7 +3163,7 @@ window.SITE_DATA = {
    "source": "Daily Trust（尼日利亚）",
    "published": "Tue, 20 Oct 2026 00:48:39 +0000",
    "_dt": 1792457319.0,
-   "ageDays": 0.36,
+   "ageDays": 0.37,
    "summary": "The Minister of the Federal Capital Territory (FCT), Nyesom Wike, has sought development partnerships with German cities in agriculture, information and communications technology (ICT) and youth skills acquisition to boost economic growth in Abuja. Wike made the call when the German Ambassador to Nigeria, Stefan Rössel, visited him in Abuja.",
    "summary_zh": "联邦首都区部长奈索姆·维克寻求与德国城市在农业、信息和通信技术（ICT）以及青年技能培训方面建立发展伙伴关系，以促进阿布贾的经济增长。维克是在德国驻尼日利亚大使斯特凡·勒塞尔访问阿布贾时发出这一呼吁的。",
    "summarySource": "fulltext",
@@ -2991,7 +3184,8 @@ window.SITE_DATA = {
    "title_zh": "维克希望德国投资阿布贾的ICT和农业部门",
    "body_zh": "联邦首都区（FCT）部长奈耶索姆·威克寻求与德国城市在农业、信息和通信技术（ICT）以及青年技能培训方面的开发伙伴关系，以促进阿布贾的经济增长。威克是在德国驻尼日利亚大使斯特凡·勒塞尔访问阿布贾时发出这一呼吁的。部长表示，联邦首都区政府致力于将阿布贾转变为一个能够与柏林、慕尼黑和华盛顿特区等全球城市竞争的世界级首都。他说，政府正在努力为外交使团、企业和外国投资者提供安全和有利的环境。威克指出，在本届政府之前，阿布贾在安全和城市基础设施方面面临挑战，但表示正在通过加强安全和道路建设来改善这种情况。“我们的愿景是让阿布贾成为世界上最好的城市之一。凭借改变现状的使命，安全和环境已经改善，道路基础设施正在积极交付，”他说。在谈到该国的经济形势时，部长为博拉·蒂努布总统政府引入的改革辩护，包括去中心化和州级警务的提议，以应对不安全问题。在承认尼日利亚人面临的经济困难的同时，威克敦促公民要有耐心，称这些改革旨在带来长期利益。“领导力就是为长期利益做出大胆决定。现在可能会有短暂的艰难时期，但从长远来看，人们将收获好处，”他说。此前，勒塞尔强调了尼日利亚和德国之间长期的外交关系，他说这种关系已经跨越66年，并表达了他的国家深化双边合作的意愿。大使赞扬了阿布贾正在进行的实体发展，并承认联邦政府的经济改革议程。他说，这些改革需要时间才能转化为就业机会和改善福利，但向尼日利亚保证德国将继续提供支持。“作为新任大使，可以立即明显看出这个国家正在前进，”他说。勒塞尔补充说，德国大使馆和欧盟成员国都有兴趣与联邦首都区政府在城市规划、基础设施开发和城市治理方面进行合作。他重申了德国支持尼日利亚经济和安全政策举措的承诺。尼日利亚人现在可以投资250万奈拉购买优质域名，并从中获利约1700万至2500万奈拉。所有收益均以美元支付。与其好奇，不如点击这里了解它是如何运作的。加入Daily Trust WhatsApp社区，快速获取您周围的新闻和动态",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
@@ -3000,7 +3194,7 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Tue, 20 Oct 2026 00:06:00 +0000",
    "_dt": 1792454760.0,
-   "ageDays": 0.39,
+   "ageDays": 0.4,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
@@ -3021,37 +3215,38 @@ window.SITE_DATA = {
    "title_zh": "美国禁止DeepSeek人工智能用于政府用途，因为与中国科技紧张持续",
    "body_zh": "美国已下令从大多数政府系统中移除来自中国公司 DeepSeek 的人工智能（AI）技术",
    "cnHit": true,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
-   "title": "Concerns raised as data centres go underwater in China | News | Eco-Business | Asia Pacific",
-   "url": "https://www.eco-business.com/news/concerns-raised-as-data-centres-go-underwater-in-china",
-   "domain": "eco-business.com",
-   "source": "eco-business.com",
+   "title": "Nigerian man sentenced in US: Chukwuemeka Victor Amachukwu chop eight years prison sentence for hacking, fraud and identity tiff-tiff",
+   "url": "https://www.bbc.com/pidgin/articles/ckp8gj9n7ze2o",
+   "domain": "bbc.com",
+   "source": "BBC News Africa",
    "published": "Tue, 20 Oct 2026 00:00:00 GMT",
    "_dt": 1792454400.0,
-   "ageDays": 0.38,
-   "summary": "Concerns raised as data centres go underwater in China | News | Eco-Business | Asia Pacific",
-   "summary_zh": "随着中国数据中心进入水下引发担忧 | 新闻 | Eco-Business | 亚太",
+   "ageDays": 0.4,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "Concerns raised as data centres go underwater in China | News | Eco-Business | Asia Pacific",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
-    "af",
-    "ph"
+    "ng"
    ],
    "topic": [
     "pol"
    ],
-   "tier": 1,
-   "actor": "中国",
+   "tier": 2,
+   "actor": "美国",
    "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
    "score": 0.0,
-   "tag": "cn_ph",
-   "title_zh": "随着中国数据中心进入水下引发担忧 | 新闻 | Eco-Business | 亚太",
-   "body_zh": "随着中国数据中心进入水下引发担忧 | 新闻 | Eco-Business | 亚太"
+   "tag": "us_ng",
+   "body_zh": "",
+   "title_zh": "尼日利亚男子在美国被判刑：Chukwuemeka Victor Amachukwu因黑客攻击、欺诈和身份盗窃被判八年监禁"
   },
   {
    "title": "NNPC Cuts Exploration Spending by 87%, Gas Flare Bill Falls to N499bn",
@@ -3060,7 +3255,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 23:17:00 +0000",
    "_dt": 1792451820.0,
-   "ageDays": 0.42,
+   "ageDays": 0.43,
    "summary": "The Nigerian National Petroleum Company Limited (NNPC) slashed additions to its exploration and evaluation assets by 87.7 per cent to N78.8 billion in 2025, from N640.5 billion in 2024, according to its latest Annual Financial Report (AFS).",
    "summary_zh": "尼日利亚国家石油公司有限公司（NNPC）将其勘探和评估资产的增加额削减87.7%至2025年的788亿奈拉，2024年为6405亿奈拉，根据其最新的年度财务报告（AFS）。",
    "summarySource": "fulltext",
@@ -3081,7 +3276,8 @@ window.SITE_DATA = {
    "title_zh": "NNPC将勘探支出削减87%，天然气燃烧账单降至N499bn",
    "body_zh": "尼日利亚国家石油公司有限公司（NNPC）将其勘探和评价资产的增量削减了87.7%，从2024年的N640.5 billion降至2025年的N78.8 billion，根据其最新的年度财务报告（AFS）。同样，国家石油公司在所考虑期间的气体燃烧费用下降了62.2%，从2024年的N1.32 trillion降至2025年的N499 billion，该财务报告显示。然而，勘探资金的下降可能与在未充分勘探地区寻找碳氢化合物的放缓有关，包括乍得盆地、贝努埃槽谷、比达盆地和索科托盆地，这些地区均位于尼日利亚北部。尽管该计划投入了数十亿奈拉，但诸如横跨包奇州和贡贝州的Kolmani等项目；在博尔诺州的Wadi-2勘探井等钻探和评估活动以及在纳萨拉瓦州的勘探活动和地震数据收集尚未达到突破水平。更糟糕的是，博拉·蒂努布总统2026年的第9号行政命令现已暂停NNPC对30%的边境勘探基金（FEF）的收取和管理，并命令将资金直接汇入联邦账户，以便在联邦、州和地方政府之间分配。在气体燃烧方面，该集团的总费用从2024年的N1.32 trillion下降至N499 billion。该金额包括N247.8 billion的燃烧费，从N708.6 billion下降，以及N251.2 billion的超过批准限额燃烧的罚款，而之前为N610.4 billion。这些费用是基于尼日利亚上游石油监管委员会（NUPRC）根据石油工业法（PIA）第104条批准的限额的法定费用。尽管有所减少，但罚款约占该集团气体燃烧总费用的近一半。在母公司层面，气体燃烧费用从N1.04 trillion降至N317.3 billion。这种下降是因为NNPC在当年支付了N11.56 trillion来结算特许权使用费、租金和气体燃烧义务，是2024年记录的N2.83 trillion的四倍多。未清偿负债的减少还反映了从早期年度超额准备金中转回的N1.18 trillion。因此，该集团该类别下的未清偿负债下降了86.2%，从N9.21 trillion降至N1.27 trillion。然而，特许权使用费增加了4.1%至N4.66 trillion，而应付给尼日尔三角洲发展委员会（NDDC）的征费增加了29.2%至N514.7 billion。总体而言，无形资产类别的总增量下降了88.6%，从2024年的N692.7 billion降至N79 billion，而矿产权的增量为零，而前一年为N46.3 billion。矿产权代表与在指定区域勘探或开采石油和天然气相关的权利。在尼日利亚石油工业中，这些权利与依法认可的从事石油作业的权利相关，须遵守适用的法律、租赁条款和监管批准。没有增量意味着NNPC在当年该资产类别中没有记录新的支出。该报告还显示，与石油采矿租约64和66相关的价值N16.4 billion的矿产权在完全减值后被移除。当资产的记录价值根据适用的会计规则不再被视为可收回时，就会发生减值。该报告还披露了对选定运营活动的较低支出，因为钻井现场和刺激费用从国家石油公司之前记录的N16.5 billion降至N2.9 billion。此外，AFS显示分配的技术和生产成本从N489.6 billion降至N144.4 billion，而原油处理和港口费用从N1.52 trillion降至N1.06 trillion。",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "Surveying Regulated by Federal Laws, SURCON President Slarifies",
@@ -3090,7 +3286,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 23:09:00 +0000",
    "_dt": 1792451340.0,
-   "ageDays": 0.43,
+   "ageDays": 0.44,
    "summary": "Speaking during the visit, the SURCON President explained that the regulation of the surveying profession falls within the legislative competence of the Federal Government, through an Act of the National Assembly. He stressed that SURCON is statutorily empowered to register qualified surveyors, regulate professional practice nationwide, and exercise disciplinary control over practitioners who contravene established professional standards.",
    "summary_zh": "在访问期间，SURCON主席解释说，测量专业的监管属于联邦政府的立法权限，通过国民议会的一项法案。他强调，SURCON依法有权登记合格的测量师，在全国范围内规范专业实践，并对违反既定专业标准的从业者行使纪律控制。",
    "summarySource": "fulltext",
@@ -3110,7 +3306,8 @@ window.SITE_DATA = {
    "title_zh": "测量受联邦法律监管，SURCON主席澄清",
    "body_zh": "尼日利亚测量师理事会（SURCON）主席Moshood Akinwande重申，尼日利亚测量专业的监管由联邦立法管辖，他强调该理事会是法定机构，负责登记测量师并规范整个联邦测量专业的实践。他是在奥贡州阿贝奥库塔作出这一澄清的，当时他应尼日利亚测量师协会（NIS）奥贡州分会主席测量师Abiodun Liadi的邀请，对该州进行为期两天的正式工作访问。在访问期间发言时，SURCON主席解释说，测量专业的监管属于联邦政府的立法权限，通过国民议会的一项法案实现。他强调SURCON依法有权登记合格的测量师、在全国范围内规范专业实践，并对违反既定专业标准的从业者行使纪律控制。他进一步澄清，该理事会的监管权力延伸至测量专业的所有分支和各个方面，覆盖联邦36个州以及联邦首都阿布贾。Akinwande强调，理事会的法定任务是确保整个尼日利亚的专业能力、道德行为以及遵守适用的联邦立法和专业标准。他还建议公众，特别是潜在的土地购买者、房地产开发商和投资者，在获取土地财产或进行与测量相关的交易时，聘请正式登记的测量师的服务。THISDAY成立于1995年1月22日，由THISDAY NEWSPAPERS LTD.出版，地址为尼日利亚拉各斯阿帕帕克里克路35号，在尼日利亚36个州、联邦首都和世界各地设有办事处。它是尼日利亚最具权威性的新闻媒体，在所有平台上为政治、商业、专业和外交精英以及更广泛的中产阶级提供服务，同时作为新思想、文化和技术与有抱负者和千禧一代的交汇点。该报纸是一种公共信托，致力于追求真理和理性，涵盖从突发新闻到政治、商业、市场、艺术、体育和社区以及人与社会交汇点的一系列问题。您可以通过hello@thisdaylive.com与我们联系，或访问我们的联系页面",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "FG Intensifies Rollout of 1m CNG-powered Vehicles Nationwide",
@@ -3119,7 +3316,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 23:07:00 +0000",
    "_dt": 1792451220.0,
-   "ageDays": 0.43,
+   "ageDays": 0.44,
    "summary": "The federal government has pledged to intensify efforts to promote Compressed Natural Gas (CNG) as a cheaper alternative fuel for transportation, with a renewed focus on accelerating the rollout of 1 million CNG-powered vehicles across the country. To this end, the Minister of State Petroleum Resources (Gas), Ekperikpe Ekpo, has tasked the leadership of the Presidential Initiative on Compressed Natural Gas and Electric Vehicles (Pi-CNG & EV) and the Decade of Gas Secretariat to focus on critical interventions.",
    "summary_zh": "联邦政府承诺将加大力度推广压缩天然气（CNG）作为更廉价的交通替代燃料，并重新重点加快在全国推广100万辆CNG动力汽车。为此，石油资源国务部长（天然气）埃克佩里克佩·埃克波已责成总统压缩天然气和电动汽车倡议（Pi-CNG & EV）领导层和天然气十年秘书处重点关注关键干预措施。",
    "summarySource": "fulltext",
@@ -3140,7 +3337,39 @@ window.SITE_DATA = {
    "title_zh": "联邦政府在全国范围内加强推广100万辆压缩天然气动力汽车",
    "body_zh": "联邦政府已承诺加大力度推广压缩天然气（CNG）作为交通领域更廉价的替代燃料，并重新重点加快在全国推广100万辆CNG动力汽车。为此，石油资源国务部长（天然气）埃克佩里克佩·埃克波已责成总统压缩天然气和电动汽车倡议（Pi-CNG & EV）领导层以及天然气十年秘书处专注于关键干预措施。在阿布贾发表的一份声明中，部长敦促Pi-CNG & EV办公室和秘书处加大投资、扩大CNG基础设施并加强推动全国采用的方案。埃克波在阿布贾接收这两个机构进展更新时下达了这一指示，强调需要将联邦政府的汽车CNG政策转化为尼日利亚人的切实利益，即更便宜的交通费用。他说，在取消汽油补贴之后，这一举措变得势在必行，需要为尼日利亚人提供更负担得起且环境友好的交通替代方案，这符合总统博拉·蒂努布的愿景。在他的讲话中，Pi-CNG & EV执行主席兼首席执行官伊斯梅尔·艾哈迈德先生表示，该倡议将加大投资和方案力度，以扩大CNG基础设施并增加全国车辆改装，从而为数百万尼日利亚人带来更便宜的交通费用。艾哈迈德解释说，由天然气十年秘书处完成联合行业市场研究为加快推广、跟踪进展、找出差距和加强实施工作提供了框架，以加速采用CNG作为交通燃料。THISDAY成立于1995年1月22日，由THISDAY NEWSPAPERS LTD.出版，地址为尼日利亚拉各斯阿帕帕克里克路35号，在尼日利亚36个州、联邦首都特区及世界各地设有办事处。它是尼日利亚最具权威性的新闻媒体，在所有平台上为政治、商业、专业和外交精英以及更广泛的中产阶级提供服务，同时作为新思想、文化和技术与有抱负者和千禧一代的交汇点。该报纸是一种公共信托，致力于追求真相和理性，涵盖从突发新闻到政治、商业、市场、艺术、体育、社区以及人与社会交汇点的一系列问题。您可以通过hello@thisdaylive.com与我们联系，或访问我们的联系页面。",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
+  },
+  {
+   "title": "Killing of ISWAP commander, good omen",
+   "url": "https://punchng.com/killing-of-iswap-commander-good-omen",
+   "domain": "punchng.com",
+   "source": "Punch（尼日利亚）",
+   "published": "Mon, 19 Oct 2026 23:02:20 GMT",
+   "_dt": 1792450940.0,
+   "ageDays": 0.44,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": true,
+   "score": 0.0,
+   "tag": "ter_iswap",
+   "body_zh": "",
+   "title_zh": "杀死伊斯兰国西非省指挥官，是好兆头"
   },
   {
    "title": "Tinubu extends tenures of Immigration, Correctional Service Chiefs",
@@ -3149,7 +3378,7 @@ window.SITE_DATA = {
    "source": "vanguardngr.com",
    "published": "Mon, 19 Oct 2026 23:02:00 +0000",
    "_dt": 1792450920.0,
-   "ageDays": 0.43,
+   "ageDays": 0.44,
    "summary": "By Johnbosco Agbakwuru ABUJA — President Bola Tinubu has approved 18-month tenure extensions for Sylvester Ndidi Nwakuche, Controller-General of the Nigerian Correctional Service, and Kemi Nanna Nandap, Comptroller-General of the Nigeria Immigration Service.",
    "summary_zh": "约翰博斯科·阿巴库鲁 阿布贾——博拉·蒂努布总统已批准将尼日利亚惩教局局长西尔维斯特·恩迪迪·恩瓦库切和尼日利亚移民局局长凯米·南娜·南达普的任期延长18个月。",
    "summarySource": "index",
@@ -3169,7 +3398,40 @@ window.SITE_DATA = {
    "title_zh": "蒂努布延长移民局、惩教局局长任期",
    "body_zh": "由约翰博斯科·阿巴克武鲁 阿布贾——博拉·蒂努布总统已批准将尼日利亚惩教局局长西尔维斯特·恩迪迪·恩瓦库切和尼日利亚移民局局长凯米·南娜·南达普的任期延长18个月。批准后，恩瓦库切的任期将于2028年5月26日结束，而南达普的任期将于2028年6月30日结束。该批准，[…] 该帖首先出现在先锋报新闻",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
+  },
+  {
+   "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft - South China Morning Post",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3371434/us-sanctions-5-chinese-entities-over-ex-google-engineers-ai-trade-secrets-theft",
+   "domain": "scmp.com",
+   "source": "scmp.com",
+   "published": "Mon, 19 Oct 2026 22:36:07 GMT",
+   "_dt": 1792449367.0,
+   "ageDays": 0.46,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "wa"
+   ],
+   "topic": [
+    "pol",
+    "eco"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": true,
+   "cnHit": true,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_wa",
+   "body_zh": "",
+   "title_zh": "美国制裁5家中国实体，因前谷歌工程师窃取人工智能商业秘密——《南华早报》"
   },
   {
    "title": "Teodoro: China uses propaganda to sow division among Filipinos",
@@ -3178,7 +3440,7 @@ window.SITE_DATA = {
    "source": "inquirer.net",
    "published": "Mon, 19 Oct 2026 22:21:29 +0000",
    "_dt": 1792448489.0,
-   "ageDays": 0.46,
+   "ageDays": 0.47,
    "summary": "MANILA, Philippines — Defense Secretary Gilberto “Gibo” Teodoro on Monday said China uses propaganda efforts aimed at influencing people and sowing division among Filipinos over the country’s territorial sovereignty. Teodoro, during the Senate hearing on the 2027 budget of the Department of National Defense and its attached agencies, affirmed that China’s People’s Liberation Army employs",
    "summary_zh": "马尼拉，菲律宾——国防部长Gilberto “Gibo” Teodoro周一表示，中国利用宣传努力旨在影响民众并在菲律宾人之间制造分裂，涉及该国的领土主权。Teodoro在参议院关于国防部及其附属机构2027年预算的听证会上，肯定中国人民解放军采用了",
    "summarySource": "index",
@@ -3195,6 +3457,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_inquirer",
    "title_zh": "特奥多罗：中国利用宣传在菲律宾人中制造分裂",
@@ -3207,7 +3470,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Mon, 19 Oct 2026 22:20:50 +0000",
    "_dt": 1792448450.0,
-   "ageDays": 0.46,
+   "ageDays": 0.47,
    "summary": "You decide if you want payment in Naira or US Dollars. Be sure to ask for evidence and proof of people benefitting daily from this.",
    "summary_zh": "你决定是否想要以奈拉或美元付款。一定要要求每天从此受益的人提供证据和证明。",
    "summarySource": "fulltext",
@@ -3227,7 +3490,8 @@ window.SITE_DATA = {
    "title_zh": "尼日利亚律师获得美国法律学者奖和国会表彰",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15,000-25,000 美元。你可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：你现在可以通过以低至 3000 美元的价格获取优质域名，轻松赚取美元并获利 15,000-35,000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速获取。使用 Punch News App 获取即时警报、突发头条和独家报道。现在下载，永不错过任何动态",
    "cnHit": false,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
    "title": "Rivers Assembly reinstates three pro-Fubara lawmakers",
@@ -3236,7 +3500,7 @@ window.SITE_DATA = {
    "source": "Premium Times（尼日利亚）",
    "published": "Mon, 19 Oct 2026 21:55:01 +0000",
    "_dt": 1792446901.0,
-   "ageDays": 0.48,
+   "ageDays": 0.49,
    "summary": "The Rivers State House of Assembly has reversed its earlier decision declaring the seats of three lawmakers loyal to Governor Siminalayi Fubara vacant. The lawmakers were among four members suspended on 30 October 2023 amid the political crisis that divided the assembly into factions loyal to Mr Wike and Mr Fubara. The latest decision comes amid renewed efforts to reconcile Mr Wike and Mr Fubara after more than three years of political hostilities that have repeatedly disrupted governance in Rivers State.",
    "summary_zh": "里弗斯州议会已撤销其早先宣布三位忠于州长Siminalayi Fubara的议员席位空缺的决定。这些议员是2023年10月30日因政治危机而被停职的四名成员之一，该危机将议会分裂成忠于Wike先生和Fubara先生的派系。最近的决定是在重新努力调和Wike先生和Fubara先生之后做出的，此前双方已敌对三年多，反复扰乱里弗斯州治理。",
    "summarySource": "fulltext",
@@ -3257,7 +3521,8 @@ window.SITE_DATA = {
    "title_zh": "河流州议会恢复三名亲富巴拉议员职位",
    "body_zh": "里弗斯州议会已撤销此前宣布三位忠于州长 Siminalayi Fubara 的议员席位空缺的决定。议会在联邦首都区部长 Nyesom Wike 带领议员和该州 23 个地方政府主席与州长在哈科特港举行和解会议一天后作出这一决定。这些议员是代表 Opobo/Nkoro 选区的 Timothy Oruibienimigha、代表 Bonny 选区的 Victor Jumbo 以及代表 Ahoada West 选区的 Sokari Goodboy Sokari。议长媒体助理 Martins Wachukwu 周一在 Facebook 上发布的一份声明中宣布了这一进展。根据声明，这些议员就未能 在 2023 年 12 月 暂停被解除后恢复立法职责向议会道歉。他们将持续缺席归因于据称未收到通知他们暂停已被总统干预解除的正式函件，声明称。这些议员是 2023 年 10 月 30 日在将议会分裂成忠于 Wike 先生和 Fubara 先生派系的政治危机中被暂停的四名成员之一。声明称，在周一的全体会议上，议员们辩论了上诉并支持撤销此前宣布席位空缺的决议。Amaewhule 先生说，“调查表明，这三位议员可能没有收到通知他们暂停被解除的函件，”声明补充说。这些议员随后投票赞成撤销该声明，允许他们的同事返回议会，根据声明。这一最新决定是在 Wike 先生和 Fubara 先生之间为期三年多的政治敌对之后重新努力和解的背景下作出的，这些敌对反复扰乱了里弗斯州的治理。里弗斯州的政治危机始于 2023 年，即 Fubara 州长接替 Wike 先生担任州长几个月后。前盟友之间的分歧升级为争夺该州政治结构控制权的斗争，包括议会。2023 年 10 月，在忠于 Wike 先生的议员试图弹劾 Fubara 先生期间，议会分裂成两个派系。27 名议员的压倒性多数支持 Wike 先生，而四名支持州长。领导忠于 Fubara 先生的四人派系的 Edison Ehie 获得法院命令，允许该团体继续立法程序，随后成为派系议会的议长。Ehie 先生在 2023 年 12 月由总统 Bola Tinubu 促成的和平协议后辞去议长和议会议员职务。Fubara 先生后来任命他为幕僚长。2024 年 5 月，在 Ehie 先生离开后，Jumbo 先生成为亲 Fubara 派系的议长。该派系继续举行会议并通过立法，包括审议预算提案和筛选专员提名人，而 Amaewhule 领导的派系也开展立法工作。关于议会领导权的法律斗争后来转向有利于 Wike 支持的议员。2024 年 7 月，上诉法院恢复了 27 名议员的职务并承认 Martin Amaewhule 为议长。最高法院随后于 2025 年 2 月作出有利于 Amaewhule 领导的议会的裁决，恢复了这些议员作为立法机关合法成员的地位。该裁决还影响了对手派系所作决定的法律地位。2024 年 10 月，Amaewhule 领导的议会宣布现在寻求恢复职位的三位议员的席位空缺，理由是他们持续缺席立法会议。议会表示已通知独立国家选举委员会（INEC）举行选举以填补空缺。",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "Tinubu extends tenures of NCoS, NIS chiefs by 18 months",
@@ -3266,7 +3531,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Mon, 19 Oct 2026 21:40:50 +0000",
    "_dt": 1792446050.0,
-   "ageDays": 0.49,
+   "ageDays": 0.5,
    "summary": "President Bola Tinubu has approved an 18-month extension of the tenures of the Controller-General of the Nigerian Correctional Service, Sylvester Ndidi Nwakuche, and the Comptroller-General of the Nigeria Immigration Service, Kemi Nanna Nandap. “President Tinubu commended Nwakuche and Nandap for the reforms achieved under their leadership and charged them to consolidate these gains,” the statement said.",
    "summary_zh": "总统博拉·蒂努布已批准将尼日利亚惩教局总监西尔维斯特·恩迪迪·恩瓦库切和尼日利亚移民局总监凯米·南娜·南达普的任期延长18个月。“蒂努布总统赞扬了恩瓦库切和南达普在领导下取得的改革，并要求他们巩固这些成果，”声明说。",
    "summarySource": "fulltext",
@@ -3287,7 +3552,8 @@ window.SITE_DATA = {
    "title_zh": "蒂努布将NCoS和NIS负责人任期延长18个月",
    "body_zh": "总统博拉·蒂努布已批准将尼日利亚惩教局总监长西尔维斯特·恩迪迪·恩瓦库切和尼日利亚移民局总监长凯米·南娜·南达普的任期延长18个月。这一延长意味着恩瓦库切将继续任职至2028年5月26日，而南达普的任期将于2028年6月30日结束。这一批准由总统信息和战略特别顾问巴约·奥纳努加在周一发布的一份声明中披露。根据声明，这一延长是在内政部长奥卢本米·通吉-奥乔的推荐下做出的，旨在解决两个部门的人员接替缺口，并让其董事会获得足够时间任命继任者。“蒂努布总统赞扬了恩瓦库切和南达普在其领导下取得的改革成果，并要求他们巩固这些成果，”声明说。奥纳努加说，恩瓦库切于2024年12月由蒂努布提名为尼日利亚惩教局总监长，其任命于2025年3月获得参议院确认。南达普于2024年2月21日被提名为尼日利亚移民局总监长，并于2024年3月1日获得参议院确认。奥基基是一名拥有超过七年经验的记者，报道政治、国际新闻、社会、娱乐和电影业。新闻更新：尼日利亚人现在可以通过优质域名赚取高达15000至25000美元。您可以决定是以奈拉还是美元付款。务必要求提供每天从中受益的人的证据和证明。点击此处开始。尼日利亚人注意：您现在可以通过以低至3000美元的价格收购优质域名来轻松赚取美元，并从中获利15000至35000美元。适合企业家、医生、公务员、IT专家、会计师等专业人士。点击此处开始。保持知情——快速获取。立即获取警报、突发头条和独家报道，请下载Punch News App。现在下载，绝不错过任何内容",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "Targeted interventions helping to reduce maternal deaths by 30 per cent at KATH – Deputy Health Minister",
@@ -3296,7 +3562,7 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Mon, 19 Oct 2026 21:38:34 +0000",
    "_dt": 1792445914.0,
-   "ageDays": 0.49,
+   "ageDays": 0.5,
    "summary": "The Deputy Minister of Health, Dr Grace Ayensu-Danquah, has said targeted interventions have helped the Komfo Anokye Teaching Hospital (KATH) in Kumasi for instance to reduce maternal deaths by 30 per cent in recent months. She described maternal mortality as Ghana’s worst-performing health indicator, with the national rate standing at 234 deaths per 100,000 live births, more than three times the World Health Organisation (WHO) target of 70 deaths per 100,000 live births by 2030.",
    "summary_zh": "卫生部副部长格雷斯·阿延苏-丹夸博士表示，针对性干预措施帮助库马西的科姆福·阿诺凯教学医院（KATH）在最近几个月将孕产妇死亡率降低了30%。她将孕产妇死亡率描述为加纳表现最差的健康指标，全国比率达到每10万活产婴儿234例死亡，是世界卫生组织（WHO）到2030年每10万活产婴儿70例死亡目标的三倍多。",
    "summarySource": "fulltext",
@@ -3317,7 +3583,8 @@ window.SITE_DATA = {
    "title_zh": "针对性干预帮助KATH将孕产妇死亡率降低30%——卫生部副部长",
    "body_zh": "卫生部副部长格雷斯·阿延苏-丹夸博士表示，有针对性的干预措施帮助了库马西的科姆福·阿诺基教学医院（KATH），例如在最近几个月将孕产妇死亡人数减少了30%。她将这一减少归因于针对在较低级别卫生设施进行剖腹产的医生的指导计划，以及一个虚拟产房，专家通过它远程指导助产士。阿延苏-丹夸博士说，卫生部希望这些干预措施在全国范围内以一个共同计划的形式采用，以改善孕产妇保健。在2026年10月19日星期一议会公共账户委员会（PAC）会议上发言时，阿延苏-丹夸博士说，到2026年年中，加纳共记录了445例孕产妇死亡，而2025年同期共为419例。据她介绍，这一轻微增加是卫生部呼吁为孕妇危重症护理提供专用预算资金和国家健康保险计划（NHIS）覆盖的原因。她将孕产妇死亡率描述为加纳表现最差的健康指标，全国比率为每10万活产婴儿234例死亡，是世界卫生组织（WHO）到2030年每10万活产婴儿70例死亡目标的三倍多。“每个数字背后都是一个女人，一个家庭，”阿延苏-丹夸博士告诉委员会。她说，卫生部已经确定了导致孕产妇死亡的三个主要挑战。其中包括在初级保健层面未能识别高危妇女，特别是那些患有高血压或严重贫血的妇女，转诊和救护车系统的延误和故障，以及二级和三级医院的血液、呼吸机和重症护理设施短缺。阿延苏-丹夸博士说，获得紧急护理的延误往往决定了一个妇女在到达教学医院之前是否能存活。“在危重症护理中，我们谈到黄金一小时，即受伤后的前60分钟。如果一个妇女在初级层面等待救护车48小时，结果已经确定，”她说。她将贫血的早期检测确定为减少孕产妇死亡所需的措施之一。她还敦促卫生工作者认识到异食癖，这是一种以渴望非食物物品如粉笔或冰为特征的状况，可能是一种潜在健康问题的迹象。阿延苏-丹夸博士进一步强调，高危孕妇需要在配备有管理并发症能力的设施中分娩，而不是在没有所需能力的社区卫生规划和服务（CHPS）站。在2027年预算之前，卫生部正在寻求专门的孕产妇健康预算拨款，以解决它所描述的来自非政府组织和发展伙伴的分散资金问题。它还推动国家健康保险计划（NHIS）覆盖孕妇的危重症护理，包括重症护理、氧气、血液和专家干预。公共账户委员会主席阿贝娜·奥塞-阿萨雷说，委员会将在议会恢复开会时提交审计长关于孕产妇死亡率的绩效审计报告。她说，该报告的建议将为全国预算讨论提供信息。“我们将支持卫生部与财政部长对话，以确保为这个国家的孕产妇死亡率保健提供一定水平的专用资金，”她说。阿延苏-丹夸博士警告说，如果没有进一步行动，加纳可能会在2030年之后维持较高的孕产妇死亡率。“如果我们不这样做，到2030年我们仍将处于200多。我们妇女正在无谓地死亡。这些死亡大多数是可以预防的，”她说",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "FIFA U-17 Women’s World Cup: USA Smash Records With 16-Goal Rout As Spain, China Win",
@@ -3326,7 +3593,7 @@ window.SITE_DATA = {
    "source": "Leadership（尼日利亚）",
    "published": "Mon, 19 Oct 2026 21:24:49 +0000",
    "_dt": 1792445089.0,
-   "ageDays": 0.5,
+   "ageDays": 0.51,
    "summary": "The United States set a new scoring record at the FIFA U-17 Women’s World Cup Morocco 2026 after thrashing Samoa, while two-time champions Spain and China PR began their campaigns with victories on Monday. The USA produced the biggest victory in FIFA World Cup history at any level, overwhelming Samoa in a one-sided encounter that also saw Maddie DiMaria become the first player to score six goals in a single match at the U-17 Women’s World Cup.",
    "summary_zh": "美国在2026年摩洛哥国际足联U-17女足世界杯上创造了新的进球纪录，在大胜萨摩亚的同时，两届冠军西班牙和中国PR于周一开始了她们的征程。美国在国际足联任何级别世界杯历史上创造了最大胜利，在一场一边倒的比赛中压倒萨摩亚，这场比赛也让Maddie DiMaria成为首位在U-17女足世界杯单场比赛中打进六球的球员。",
    "summarySource": "fulltext",
@@ -3347,7 +3614,8 @@ window.SITE_DATA = {
    "title_zh": "FIFA U-17女足世界杯：美国以16球大胜创纪录 西班牙和中国获胜",
    "body_zh": "美国队在摩洛哥2026年国际足联U-17女足世界杯上创造了新的进球纪录，他们大胜萨摩亚，而两届冠军西班牙和中国在周一的比赛中以胜利开启了各自的征程。然而，澳大利亚和智利在E组和F组开赛后经过激战以1-1战平分享了积分。美国队在国际足联世界杯历史上任何级别赛事中都取得了最大胜利，在一场一边倒的比赛中压倒萨摩亚，这场比赛也让Maddie DiMaria成为首位在U-17女足世界杯单场比赛中打进六球的球员。DiMaria在仅仅62秒后就首开纪录，侧脚将球打进，随后Mia Corona以一记精彩的角球凌空抽射将领先优势扩大到两球。DiMaria随后又快速打进两球，完成了本届赛事的首个帽子戏法，为美国队无情的表现定下了基调。Loradana Paletta梅开二度，而Grace Murray和DiMaria再进球，随后Amari Manning在远门柱处完成破门将比分扩大到九球。美国队在下半场保持了进攻强度，Deus Stanislaus和Carolina Reyna破门得分，随后DiMaria再进两球，将个人进球数提高到六球。Isa Ortiz、Reyna、队长Meila Brewer和Gianna Hanf的进一步进球完成了这场大胜。中国队也在E组首战中取得令人印象深刻的开局，击败了肯尼亚。徐悦接到方珍珠精准传球后突进，将球打入右下角取得领先。肯尼亚门将Mishel Okoyo以一次精彩扑救挡住了吴怡晨的射门，保持了本队的竞争力，此前方珍珠又一次精准传球。然而，中国队在半场休息后不久再次突破，当时Okoyo将方珍珠的远射托在横梁上，结果徐晓棠补射得分。徐晓棠随后很快再进一球，头球顶进方珍珠富有诱惑力的传中，完成了进球。与此同时，西班牙在F组以2-0战胜墨西哥（去年的铜牌得主）开启了征程。墨西哥门将Ania Lopez在第13分钟做出三次扑救，让本队继续留在比赛中，当时西班牙主导了早期的交锋。西班牙继续威胁，第28分钟Elena Vizuete的射门击中横梁和门柱的交界处。欧洲球队最终在半场结束前不久打破僵局，当时Lopez扑出了Vizuete的强力射门，球到了Carolina Ferrera的脚下，后者冷静地将球打入空门。Vizuete随后在下半场扩大了西班牙的优势，从右路内切后左脚弧线球射门，球擦过门柱越过门将入网。这场胜利让西班牙在寻求延续其U-20女足世界杯上U-20球队成功的同时有了一个积极的开端。在另一场F组比赛中，澳大利亚和智利以1-1战平。澳大利亚创造了第一个明显机会，但智利门将Oriana Cristancho做出一次精彩的反应扑救，保持了比分平衡。智利通过Concha取得领先，后者在远门柱处头球破门，此前Josefa Munita送出一次精彩的弧线传中。Junior Matildas在下半场做出回应，通过定位球配合扳平比分。Sakura Leon送出低平精准的传中，Charlotte Bradshaw在远门柱处完成精彩破门。两队在最后阶段都寻求获胜，但都没有取得突破，最终各取一分。这些结果标志着本届赛事开局的鲜明对比，美国队创造了历史，西班牙和中国取得胜利，澳大利亚和智利分享战果。我们拥有优势。获取实时报道、突发独家新闻和独家视角，直接发送到您的手机。不要满足于陈旧新闻。加入LEADERSHIP NEWS的WhatsApp，获取24/7更新→加入我们的WhatsApp频道 突发新闻：尼日利亚人可以投资250万奈拉购买优质域名，并赚取约1700万至2500万奈拉。收益以美元计算。",
    "cnHit": true,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
    "title": "Tinubu Extends Tenures of Immigration, Prison CGs",
@@ -3356,7 +3624,7 @@ window.SITE_DATA = {
    "source": "Daily Trust（尼日利亚）",
    "published": "Mon, 19 Oct 2026 21:03:03 +0000",
    "_dt": 1792443783.0,
-   "ageDays": 0.52,
+   "ageDays": 0.53,
    "summary": "President Bola Ahmed Tinubu has approved 18-month tenure extensions for Sylvester Ndidi Nwakuche, Controller-General of the Nigerian Correctional Service and Kemi Nanna Nandap, Comptroller-General of the Nigeria Immigration Service.",
    "summary_zh": "总统博拉·艾哈迈德·蒂努布已批准对尼日利亚惩教局总监长西尔维斯特·恩迪迪·恩瓦库切和尼日利亚移民局总监长凯米·南娜·南达普延长18个月任期。",
    "summarySource": "index",
@@ -3376,7 +3644,38 @@ window.SITE_DATA = {
    "title_zh": "蒂努布将移民局和监狱局长任期延长",
    "body_zh": "总统博拉·艾哈迈德·蒂努布已批准对尼日利亚惩教局总监长西尔维斯特·恩迪迪·恩瓦库切和尼日利亚移民局总监长凯米·南娜·南达普的任期延长18个月。这一消息由总统信息和战略特别顾问巴约·奥纳努加在周一的一份声明中披露。奥纳努加说，在获得批准后，恩瓦库切的任期……",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
+  },
+  {
+   "title": "Why the US embassy is 'concerned' over China's Manila",
+   "url": "https://www.rappler.com/philippines/why-united-states-embassy-concerned-china-company-manila-bay-reclamation-project",
+   "domain": "rappler.com",
+   "source": "rappler.com",
+   "published": "Mon, 19 Oct 2026 21:00:00 GMT",
+   "_dt": 1792443600.0,
+   "ageDays": 0.53,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ph"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": true,
+   "cnHit": true,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_ph",
+   "body_zh": "",
+   "title_zh": "为什么美国大使馆对中国在马尼拉的行动‘感到关切’"
   },
   {
    "title": "Tinubu extends tenure of heads of Immigration, Correctional Services",
@@ -3385,7 +3684,7 @@ window.SITE_DATA = {
    "source": "vanguardngr.com",
    "published": "Mon, 19 Oct 2026 20:57:16 +0000",
    "_dt": 1792443436.0,
-   "ageDays": 0.52,
+   "ageDays": 0.53,
    "summary": "President Bola Tinubu has approved 18-month tenure extensions for Sylvester Ndidi Nwakuche, Controller-General of the Nigerian Correctional Service and Kemi Nanna Nandap, Comptroller-General of the Nigeria Immigration Service.",
    "summary_zh": "总统博拉·蒂努布已批准将尼日利亚惩教局总监长Sylvester Ndidi Nwakuche和尼日利亚移民局总监长Kemi Nanna Nandap的任期延长18个月。",
    "summarySource": "index",
@@ -3405,7 +3704,8 @@ window.SITE_DATA = {
    "title_zh": "蒂努布延长移民局、惩教局负责人任期",
    "body_zh": "博拉·蒂努布总统已批准将尼日利亚惩教局局长西尔维斯特·恩迪迪·恩瓦库切和尼日利亚移民局局长凯米·南娜·南达普的任期延长18个月。该帖文最早出现在《先锋报》新闻",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "China-Laos train shuttle continues to thrive as China Railway passenger trips hit a record high in the first three quarters | The Star",
@@ -3414,7 +3714,7 @@ window.SITE_DATA = {
    "source": "thestar.com.my",
    "published": "Mon, 19 Oct 2026 20:30:00 GMT",
    "_dt": 1792441800.0,
-   "ageDays": 0.54,
+   "ageDays": 0.55,
    "summary": "China-Laos train shuttle continues to thrive as China Railway passenger trips hit a record high in the first three quarters | The Star",
    "summary_zh": "中老铁路穿梭服务持续繁荣，中国铁路前三季度旅客发送量创历史新高 | The Star",
    "summarySource": "index",
@@ -3444,7 +3744,7 @@ window.SITE_DATA = {
    "source": "Daily Trust（尼日利亚）",
    "published": "Mon, 19 Oct 2026 20:20:25 +0000",
    "_dt": 1792441225.0,
-   "ageDays": 0.55,
+   "ageDays": 0.56,
    "summary": "Jordan, son of the Minister of the Federal Capital Territory (FCT), Nyesom Wike, has been dragged before the Economic and Financial Crimes Commission (EFCC) over his alleged involvement in a botched $2.1m land transaction in the nation’s capital.",
    "summary_zh": "联邦首都特区部长奈耶索姆·威克的儿子乔丹因涉嫌参与该国首都一项失败的210万美元土地交易而被拖到经济和金融犯罪委员会（EFCC）。",
    "summarySource": "index",
@@ -3465,23 +3765,25 @@ window.SITE_DATA = {
    "title_zh": "威克之子因涉嫌210万美元土地交易被拖至EFCC",
    "body_zh": "联邦首都区（FCT）部长奈耶索姆·威克的儿子乔丹，因涉嫌参与首都一笔失败的210万美元土地交易而被拖至经济和金融犯罪委员会（EFCC）。与此同时，联邦首都区高等法院法官西尔瓦努斯·奥里吉将12月1日定为[…]",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
-   "title": "Trump open to summit with Xi and Putin — to discuss denuclearization - Axios",
-   "url": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
-   "domain": "axios.com",
-   "source": "axios.com",
-   "published": "Mon, 19 Oct 2026 20:04:17 GMT",
-   "_dt": 1792440257.0,
-   "ageDays": 0.55,
-   "summary": "Trump open to summit with Xi and Putin — to discuss denuclearization - Axios",
-   "summary_zh": "特朗普对与习近平和普京举行峰会持开放态度——讨论无核化——Axios",
+   "title": "Strikes escalate amid concerns over U.S. support",
+   "url": "https://www.modernghana.com/videonews/abc/2/737714",
+   "domain": "modernghana.com",
+   "source": "modernghana.com",
+   "published": "Mon, 19 Oct 2026 20:00:00 GMT",
+   "_dt": 1792440000.0,
+   "ageDays": 0.57,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "Trump open to summit with Xi and Putin — to discuss denuclearization - Axios",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
-    "ru"
+    "af",
+    "gh"
    ],
    "topic": [
     "pol"
@@ -3491,10 +3793,42 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.0,
-   "tag": "cn_ru",
-   "title_zh": "特朗普对与习近平和普京举行峰会持开放态度——讨论无核化——Axios",
-   "body_zh": "特朗普对与习近平和普京举行峰会持开放态度——讨论无核化——Axios"
+   "tag": "us_gh",
+   "body_zh": "",
+   "title_zh": "在对美国支持的担忧中罢工升级"
+  },
+  {
+   "title": "NAF Airstrike Kills Top ISWAP Commanders In Lake Chad Region • Channels Television",
+   "url": "https://www.channelstv.com/2026/10/19/naf-airstrike-kills-top-iswap-commanders-in-lake-chad-region",
+   "domain": "channelstv.com",
+   "source": "channelstv.com",
+   "published": "Mon, 19 Oct 2026 19:41:44 GMT",
+   "_dt": 1792438904.0,
+   "ageDays": 0.58,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": true,
+   "score": 0.0,
+   "tag": "ter_iswap",
+   "body_zh": "",
+   "title_zh": "尼日利亚空军空袭在乍得湖地区杀死伊斯兰国西非省高级指挥官 • 渠道电视"
   },
   {
    "title": "Government mobilises GH¢400m for tertiary institutions’ Book and Research Allowances",
@@ -3503,7 +3837,7 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Mon, 19 Oct 2026 19:36:16 +0000",
    "_dt": 1792438576.0,
-   "ageDays": 0.58,
+   "ageDays": 0.59,
    "summary": "The government has mobilised approximately GH¢436 million for the payment of Book and Research Allowances to eligible tertiary institutions across the country, according to Hashmin Mohammed, spokesperson for the Minister of Education, Haruna Iddrisu. The Book and Research Allowance is paid to eligible lecturers in public tertiary institutions to support their academic and research work.",
    "summary_zh": "政府已调集约GH¢436 million用于支付图书和研究津贴给全国符合条件的第三级机构，据教育部长哈鲁纳·伊德里苏的发言人哈什明·穆罕默德介绍。图书和研究津贴支付给公立第三级机构中符合条件的讲师，以支持他们的学术和研究工作。",
    "summarySource": "fulltext",
@@ -3523,7 +3857,38 @@ window.SITE_DATA = {
    "title_zh": "政府为高等院校图书和研究津贴调动4亿塞地",
    "body_zh": "政府已调集约 GH¢436 million 用于支付全国符合条件的第三级院校的图书和研究津贴，据教育部长 Haruna Iddrisu 的发言人 Hashmin Mohammed 称。在 2026 年 10 月 19 日星期一的一篇 Facebook 帖子中，Mohammed 先生表示，第一批支付已向 56 家机构支付了 GH¢238 million，而约 GH¢198 million 已指定用于第二批。加纳大学是预计将从后续支付中受益的机构之一。Mohammed 先生将加纳大学支付延迟归因于向加纳第三级教育委员会 (GTEC) 提交所需文件进行验证的时间较晚。他解释说，这些文件必须经过验证，然后主计长和会计长部门 (CAGD) 才能处理支付。该发言人表示，验证和文件要求是行政程序的一部分，旨在确保公共资金得到准确处理并支付给适当的机构。他没有说明加纳大学的支付何时完成。图书和研究津贴支付给公立第三级院校的符合条件的讲师，以支持他们的学术和研究工作。津贴支付的延迟周期性地引起受益者的关注，使政府的支付安排成为第三级教育工作人员关注的问题。随着第一批据报已支付且第二批已指定用于支付，注意力将集中在完成未完成的行政程序以及向剩余符合条件的机构发放资金上",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
+  },
+  {
+   "title": "Jihadist Ambush Kills Christian Aid Worker, Police Name No Suspects - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/jihadist-ambush-kills-christian-aid-worker-police-name-no-suspects",
+   "domain": "truthnigeria.com",
+   "source": "truthnigeria.com",
+   "published": "Mon, 19 Oct 2026 19:30:16 GMT",
+   "_dt": 1792438216.0,
+   "ageDays": 0.59,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": true,
+   "score": 0.0,
+   "tag": "ter_sahel",
+   "body_zh": "",
+   "title_zh": "圣战分子伏击杀死基督教援助工作者，警方未点名任何嫌疑人 - Truth Nigeria"
   },
   {
    "title": "$6billion Mambilla Power Contract: Ex-governor Liyel Imoke testifies against former power minister Agunloye",
@@ -3532,7 +3897,7 @@ window.SITE_DATA = {
    "source": "Premium Times（尼日利亚）",
    "published": "Mon, 19 Oct 2026 19:27:53 +0000",
    "_dt": 1792438073.0,
-   "ageDays": 0.58,
+   "ageDays": 0.59,
    "summary": "Former Minister of Power and Steel, Liyel Imoke, said Monday that the controversial Mambilla Hydropower station contract was awarded by his predecessor Olu Agunloye with the approval of the Federal Executive Council (FEC). Mr Imoke succeeded Mr Agunloye as the power minister in July 2003 and served until January 2007, during former President Olusegun Obasanjo’s administration.",
    "summary_zh": "前电力和钢铁部长利耶尔·伊莫克周一表示，有争议的曼比拉水电站合同是由他的前任奥卢·阿贡洛耶在联邦执行委员会（FEC）批准下授予的。伊莫克先生于2003年7月接替阿贡洛耶先生担任电力部长，并在前总统奥卢塞贡·奥巴桑乔执政期间任职至2007年1月。",
    "summarySource": "fulltext",
@@ -3553,7 +3918,8 @@ window.SITE_DATA = {
    "title_zh": "60亿美元曼比拉电力合同：前州长利耶尔·伊莫克出庭指证前电力部长阿贡洛耶",
    "body_zh": "前电力和钢铁部长利耶尔·伊莫克周一表示，有争议的曼比拉水电站合同是由他的前任奥卢·阿贡洛耶在联邦执行委员会（FEC）批准下授予的。伊莫克先生说，他上任后没有必要正式取消该合同，因为该合同一开始就没有得到联邦执行委员会（FEC）的批准。这位前克罗斯河州州长在联邦首都区（FCT）阿布贾回答问题时表示，他作为第六名检方证人出现在阿贡洛耶先生的腐败审判中。伊莫克先生于2003年7月接替阿贡洛耶先生担任电力部长，一直任职至2007年1月，当时是前总统奥卢塞贡·奥巴桑乔政府时期。伊莫克先生后来于2007年5月成为克罗斯河州州长，并担任该职务直至2015年5月。经济和金融犯罪委员会（EFCC）传唤伊莫克先生作为针对阿贡洛耶先生的第六名检方证人，阿贡洛耶面临七项指控，包括违抗总统指令、共谋、伪造和收受好处。这些指控源于他在2003年5月将60亿美元的曼比拉水电站合同授予日出电力和输电有限公司（SPTCL）中所扮演的角色。法国巴黎的一个仲裁小组最近清除了尼日利亚与该合同有关的任何责任，同时指控PTCL存在欺诈行为……该项目是一个拟建的3050兆瓦水电站，位于塔拉巴州的卡卡拉村，但从未实现。检方表示，阿贡洛耶先生违抗了2003年在联邦执行委员会会议上就该合同发布的总统指令。EFCC还指控阿贡洛耶先生与SPTCL的主要推动者莱诺·阿德萨尼亚共谋，后者被该机构指出目前在逃，于2003年伪造了一份题为“以建设、运营和转让方式建设3960兆瓦曼比拉水电站”的文件。其他指控包括从SPTCL和阿德萨尼亚先生那里收受超过500万奈拉的好处。一个仲裁法庭最近在发现将合同授予SPTCL的行为受到贿赂玷污后，就该合同免除了尼日利亚的责任。审判法官朱德·翁韦格布齐周一听取了伊莫克先生的证词，在阿贡洛耶先生的辩护律师、尼日利亚高级律师（SAN）阿德奥拉·阿德迪佩的交叉询问下，伊莫克坚持认为曼比拉电站合同从一开始就是无效的，不需要正式宣布取消。“一项违反联邦执行委员会（FEC）的合同不需要取消，”这位政治家说。“我没有取消该合同，因为联邦执行委员会（FEC）没有批准它，因此它是无效的。部长没有权力授予合同。同样，曼比拉水电站项目成为国际关注的对象。该项目于2003年首次由奥卢塞贡·奥巴桑乔政府授予SPTCL，是数十年法律纠纷的主题。巴黎的一个仲裁法庭最近解决了此事，有利于尼日利亚，不利于SPTCL，后者曾指控尼日利亚违约。奥巴桑乔先生在2023年指控阿贡洛耶先生欺诈性地在未经批准的情况下将合同授予该公司。然而，这位前部长驳斥了这些说法，声称他被当作替罪羊，以逃避巴黎仲裁小组因放弃项目合同协议而实施的制裁。该项目旨在发电3960兆瓦，设计以建设、运营和转让方式执行。周一，伊莫克先生回顾了这份有争议的合同。伊莫克先生于2003年7月就任电力部长，他回忆起写了一封日期为2003年9月3日的信，以回应SPCL关于曼比拉电力合同的付款询问。",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "Nigeria Showcases Renewed Hope Housing PPP Model at Continental Forum, Attracts Replication Interest from Afrcian Countries",
@@ -3562,7 +3928,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 19:25:31 +0000",
    "_dt": 1792437931.0,
-   "ageDays": 0.58,
+   "ageDays": 0.59,
    "summary": "The Federal Government has showcased its Renewed Hope Housing Public-Private Partnership (PPP) model at a continental forum in Addis Ababa, Ethiopia, attracting interest from African countries seeking to replicate the initiative in their housing programmes. Speaking on Nigeria’s housing initiative, Ewalefoh explained that the Renewed Hope Cities programme would deliver 100,000 housing units across selected cities in the country through a joint venture concession involving the private sector.",
    "summary_zh": "联邦政府在埃塞俄比亚亚的斯亚贝巴的一个大陆论坛上展示了其Renewed Hope住房公私伙伴关系（PPP）模式，吸引了希望在住房项目中复制这一举措的非洲国家的兴趣。在谈到尼日利亚的住房倡议时，Ewalefoh解释说，Renewed Hope Cities项目将通过涉及私营部门的合资特许经营，在全国选定城市交付100,000套住房单位。",
    "summarySource": "fulltext",
@@ -3583,7 +3949,38 @@ window.SITE_DATA = {
    "title_zh": "尼日利亚在大陆论坛展示更新希望住房公私合作模式，吸引非洲国家复制兴趣",
    "body_zh": "联邦政府在埃塞俄比亚亚的斯亚贝巴举行的非洲大陆论坛上展示了其复兴希望住房公私合作（PPP）模式，吸引了希望在住房项目中复制该举措的非洲国家的兴趣。基础设施特许经营监管委员会（ICRC）总干事乔布森·奥塞奥迪翁·埃瓦莱福博士在非洲联合国经济委员会（UNECA）非洲大厅举行的非洲公私合作单位第二次论坛上进行了介绍，有来自36个国家的代表团出席。根据ICRC代理媒体与宣传主管伊费安伊·恩沃科周一发布的新闻稿，该论坛由联合国非洲经济委员会、非洲开发银行（AfDB）和非洲法律支持基金共同组织，主题为“让社会部门公私合作发挥作用：从政策雄心到有效服务交付”。论坛重点讨论了公私合作如何支持在整个非洲大陆提供负担得起的住房、医疗保健、教育、卫生和供水服务。尼日利亚是五个在论坛项目诊所展示项目的国家之一，另外还有马拉维、肯尼亚、吉布提和科特迪瓦。在谈到尼日利亚的住房举措时，埃瓦莱福解释说，复兴希望城市计划将通过涉及私营部门的合资特许经营，在该国选定城市交付10万套住房单元。“这种PPP结构的优点在于它不是传统的PPP。在这种情况下，私人一方拥有土地、拥有设计、正在为其提供资金并且正在进行建设，”他说。他解释说，在博拉·艾哈迈德·蒂努布总统的复兴希望议程下，政府的责任是降低可能阻碍住房领域私人投资的风险。“这里的PPP是政府同意为项目去风险，”埃瓦莱福说。ICRC总干事指出，尼日利亚的商业贷款利率超过23%，这使得住房融资对开发商和潜在房主来说变得昂贵。为了应对这一挑战，政府采取了措施来降低投资风险并提高可负担性。这些措施包括指定中等收入联邦公务员作为承购方，承诺为半城市项目地点建设通路道路，并提供优惠融资渠道。尼日利亚联邦抵押银行解锁了约1900万美元的个位数利率资金，而家庭住房基金提供了另外2000万美元的优惠贷款。此外，买家通过约1.12亿美元的MOFI房地产投资基金获得较低的抵押贷款利率。政府还与开发商谈判销售价格以保持房屋可负担，并对每位买家限制一套住房单元以阻止投机。根据声明，这些措施将项目的有效成本降低了约30%。融资安排使政府能够在不直接资助建设成本的情况下促进住房交付。约3900万美元的优惠资金正在帮助解锁一个建设成本约为1.25亿美元的私营部门投资项目。“政府不需要为住房资本项目提供资金。它可以通过政策、土地可用性和承购方便利来吸引私人资本，从而创造一个可复制、可扩展的住房交付模式，”埃瓦莱福告诉代表们。该模式在问答环节产生了相当大的兴趣，代表们寻求了解如何将尼日利亚的风险降低机制，特别是承购方担保和优惠融资渠道，适应到他们各自的国家。",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
+  },
+  {
+   "title": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground",
+   "domain": "truthnigeria.com",
+   "source": "truthnigeria.com",
+   "published": "Mon, 19 Oct 2026 19:22:19 GMT",
+   "_dt": 1792437739.0,
+   "ageDays": 0.6,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": true,
+   "score": 0.0,
+   "tag": "ter_lakurawa",
+   "body_zh": "",
+   "title_zh": "尼日利亚军队打击索科托的Lakurawa基地，但能守住阵地吗？- Truth Nigeria"
   },
   {
    "title": "Japan Motors donates five motorcycles to support 42nd National Farmers’ Day",
@@ -3592,7 +3989,7 @@ window.SITE_DATA = {
    "source": "MyJoyOnline（加纳）",
    "published": "Mon, 19 Oct 2026 19:19:27 +0000",
    "_dt": 1792437567.0,
-   "ageDays": 0.59,
+   "ageDays": 0.6,
    "summary": "The Ministry of Food and Agriculture has announced that Japan Motors Trading Company Limited has donated five branded motorcycles towards the 42nd National Farmers’ Day celebration. The Ministry described the donation as a recognition of the important role farmers and fishers play in national development and an example of private-sector support for agricultural promotion.",
    "summary_zh": "粮食和农业部宣布，日本汽车贸易有限公司捐赠了五辆品牌摩托车，用于第42届全国农民日庆祝活动。该部称此次捐赠是对农民和渔民在国家发展中发挥的重要作用的认可，也是私营部门支持农业推广的一个例子。",
    "summarySource": "fulltext",
@@ -3613,7 +4010,68 @@ window.SITE_DATA = {
    "title_zh": "日本汽车捐赠五辆摩托车支持第42个国家农民日",
    "body_zh": "粮食和农业部宣布，日本汽车贸易有限公司捐赠了五辆品牌摩托车，用于第42届全国农民日庆祝活动。在2026年10月19日星期一发布的新闻稿中，该部表示，此项捐赠使该公司有资格成为这一年度活动的白银赞助商，该活动旨在表彰农民和渔民对加纳发展的贡献。“该部对该公司致力于支持庆祝活动和促进加纳农业发展深表感谢，”由该部公共关系部门签署的声明称。该部将此次捐赠描述为对农民和渔民在国家发展中发挥的重要作用的认可，也是私营部门支持农业推广的一个例子。它呼吁其他企业组织、金融机构、发展伙伴和个人为即将到来的庆祝活动做出贡献。该部表示，这一年度活动提供了一个国家平台，以表彰农民和渔民的辛勤工作和成就，他们的活动对粮食安全、就业和经济增长至关重要。全国农民日是一项年度庆祝活动，旨在表彰加纳各地的农民和渔民对农业生产和国家粮食安全做出的贡献。第42届活动预计将于今年晚些时候举行，企业赞助商和其他合作伙伴将支持其组织。日本汽车的捐赠增加了为庆祝活动动员的支持，因为该部鼓励更多的私营部门参与",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
+  },
+  {
+   "title": "Christian Clergy Decry Expansion of Boko Haram Genocide in Northeast - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/christian-clergy-decry-expansion-of-boko-haram-genocide-in-northeast",
+   "domain": "truthnigeria.com",
+   "source": "truthnigeria.com",
+   "published": "Mon, 19 Oct 2026 19:09:24 GMT",
+   "_dt": 1792436964.0,
+   "ageDays": 0.61,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": true,
+   "score": 0.0,
+   "tag": "ter_boko",
+   "body_zh": "",
+   "title_zh": "基督教神职人员谴责东北部博科圣地种族灭绝的扩张 - 真相尼日利亚"
+  },
+  {
+   "title": "Trump open to idea of joint meeting with Xi, Putin next month",
+   "url": "https://www.reuters.com/world/china/trump-says-he-is-open-joining-trilateral-meeting-with-xi-putin-2026-10-19",
+   "domain": "reuters.com",
+   "source": "路透社",
+   "published": "Mon, 19 Oct 2026 19:00:00 GMT",
+   "_dt": 1792436400.0,
+   "ageDays": 0.61,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ru"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_ru",
+   "body_zh": "",
+   "title_zh": "特朗普对下个月与习近平、普京举行联合会议的想法持开放态度"
   },
   {
    "title": "Asantehene backs GoldBod, government’s mineral sector reforms",
@@ -3622,11 +4080,11 @@ window.SITE_DATA = {
    "source": "asaaseradio.com",
    "published": "Mon, 19 Oct 2026 19:00:00 GMT",
    "_dt": 1792436400.0,
-   "ageDays": 0.59,
-   "summary": "Asantehene backs GoldBod, government’s mineral sector reforms",
-   "summary_zh": "Asantehene支持GoldBod和政府的矿业部门改革",
+   "ageDays": 0.61,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "Asantehene backs GoldBod, government’s mineral sector reforms",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "gh"
@@ -3640,10 +4098,11 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.0,
    "tag": "gov_gh",
-   "title_zh": "Asantehene支持GoldBod和政府的矿业部门改革",
-   "body_zh": "Asantehene支持GoldBod和政府的矿业部门改革"
+   "body_zh": "",
+   "title_zh": "Asantehene支持GoldBod和政府的矿业部门改革"
   },
   {
    "title": "Kim Jong-un death rumours intensify, claims emerge sister Kim Yo-jong has taken power, 9,000 Chinese troo - The Economic Times",
@@ -3652,7 +4111,7 @@ window.SITE_DATA = {
    "source": "m.economictimes.com",
    "published": "Mon, 19 Oct 2026 18:58:35 GMT",
    "_dt": 1792436315.0,
-   "ageDays": 0.6,
+   "ageDays": 0.61,
    "summary": "Kim Jong-un death rumours intensify, claims emerge sister Kim Yo-jong has taken power, 9,000 Chinese troo - The Economic Times",
    "summary_zh": "金正恩死亡传闻加剧，声称其妹妹金与正已掌权，9000名中国军队 - The Economic Times",
    "summarySource": "index",
@@ -3682,7 +4141,7 @@ window.SITE_DATA = {
    "source": "ThisDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 17:53:47 +0000",
    "_dt": 1792432427.0,
-   "ageDays": 0.65,
+   "ageDays": 0.66,
    "summary": "Alex Enumah in Abuja Justice Salim Ibrahim of a Federal High Court, Abuja has directed the Minister of Interior, Hon. Olubunmi Tunji-Ojo, to file his response to the suit seeking",
    "summary_zh": "亚历克斯·埃努马在阿布贾 阿布贾联邦高等法院法官Salim Ibrahim已指示内政部长Hon. Olubunmi Tunji-Ojo对寻求",
    "summarySource": "index",
@@ -3702,7 +4161,8 @@ window.SITE_DATA = {
    "title_zh": "法院命令内政部长通吉-奥乔回应寻求公开其NYSC记录的诉讼",
    "body_zh": "亚历克斯·埃努马在阿布贾 阿布贾联邦高等法院法官Salim Ibrahim已指示内政部长Hon. Olubunmi Tunji-Ojo对寻求",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "Donald Trump rallies on Republican turf as midterm fears mount",
@@ -3711,11 +4171,11 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Mon, 19 Oct 2026 22:48:34 +0530",
    "_dt": 1792430314.0,
-   "ageDays": 0.67,
+   "ageDays": 0.68,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
-   "body": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "in"
@@ -3729,9 +4189,10 @@ window.SITE_DATA = {
    "score": 0.6,
    "tag": "rss_thehindu",
    "title_zh": "唐纳德·特朗普在共和党地盘集会，中期选举担忧加剧",
-   "body_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
+   "body_zh": "",
    "cnHit": false,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
    "title": "Cyril Ramaphosa tells South Africa to prepare for loss of U.S.-Africa trade deal",
@@ -3740,7 +4201,7 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Mon, 19 Oct 2026 22:27:56 +0530",
    "_dt": 1792429076.0,
-   "ageDays": 0.69,
+   "ageDays": 0.7,
    "summary": "The African Growth and Opportunity Act, which grants eligible sub-Saharan African countries preferential access to the U.S. market, has been renewed until the end of 2028",
    "summary_zh": "《非洲增长与机会法案》为符合条件的撒哈拉以南非洲国家提供优惠准入美国市场的待遇，该法案已延长至2028年底",
    "summarySource": "index",
@@ -3760,36 +4221,40 @@ window.SITE_DATA = {
    "title_zh": "西里尔·拉马福萨告诉南非为失去美国-非洲贸易协议做好准备",
    "body_zh": "《非洲增长与机会法案》为符合条件的撒哈拉以南非洲国家提供优惠准入美国市场的待遇，该法案已延长至2028年底",
    "cnHit": false,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
-   "title": "Russia proposes a Trump-Xi-Putin meeting in China next month - The Washington Post",
-   "url": "https://www.washingtonpost.com/world/2026/10/19/russia-proposes-trump-xi-putin-meeting-china-next-month/",
-   "domain": "washingtonpost.com",
-   "source": "washingtonpost.com",
-   "published": "Mon, 19 Oct 2026 16:54:22 GMT",
-   "_dt": 1792428862.0,
-   "ageDays": 0.68,
-   "summary": "Russia proposes a Trump-Xi-Putin meeting in China next month - The Washington Post",
-   "summary_zh": "俄罗斯提议下个月在中国举行特朗普-习近平-普京会晤——《华盛顿邮报》",
+   "title": "Rubio outlines US plans to expand trade, energy cooperation with Central Asia",
+   "url": "https://aa.com.tr/en/americas/rubio-outlines-us-plans-to-expand-trade-energy-cooperation-with-central-asia/4093634",
+   "domain": "aa.com.tr",
+   "source": "aa.com.tr",
+   "published": "Mon, 19 Oct 2026 16:53:56 GMT",
+   "_dt": 1792428836.0,
+   "ageDays": 0.7,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "Russia proposes a Trump-Xi-Putin meeting in China next month - The Washington Post",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
+    "af",
     "ru"
    ],
    "topic": [
-    "pol"
+    "eco",
+    "ene"
    ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": true,
-   "cnHit": true,
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.0,
    "tag": "cn_ru",
-   "title_zh": "俄罗斯提议下个月在中国举行特朗普-习近平-普京会晤——《华盛顿邮报》",
-   "body_zh": "俄罗斯提议下个月在中国举行特朗普-习近平-普京会晤——《华盛顿邮报》"
+   "body_zh": "",
+   "title_zh": "鲁比奥概述美国扩大与中亚贸易和能源合作的计划"
   },
   {
    "title": "PH Senate reso urging DFA to declare Jing Quan persona non grata filed",
@@ -3798,7 +4263,7 @@ window.SITE_DATA = {
    "source": "inquirer.net",
    "published": "Mon, 19 Oct 2026 16:14:02 +0000",
    "_dt": 1792426442.0,
-   "ageDays": 0.72,
+   "ageDays": 0.73,
    "summary": "MANILA, Philippines — A resolution urging the Department of Foreign Affairs (DFA) to recommend declaring Chinese Ambassador Jing Quan persona non grata was filed at the Senate on Monday. Sen. Erwin Tulfo filed Senate Resolution No. 739 following Jing’s statement that China “may easily win” if it wanted to use force in a confrontation over",
    "summary_zh": "菲律宾马尼拉——一项敦促外交部（DFA）建议宣布中国大使敬全为不受欢迎的人的决议于周一在参议院提交。参议员埃尔温·图尔福在敬全发表声明称如果中国想在对抗中使用武力“可能很容易获胜”之后，提交了参议院第739号决议。",
    "summarySource": "index",
@@ -3815,10 +4280,41 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_inquirer",
    "title_zh": "菲律宾参议院决议敦促外交部宣布景全为不受欢迎人物已提交",
    "body_zh": "菲律宾马尼拉——一项敦促外交部（DFA）建议宣布中国大使敬全为不受欢迎的人的决议于周一在参议院提交。参议员埃尔温·图尔福在敬全发表声明称如果中国想在对抗中使用武力“可能很容易获胜”之后，提交了参议院第739号决议。"
+  },
+  {
+   "title": "U.S. Signs a Mining Agreement with Nigeria",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/u-s-signs-a-mining-agreement-with-nigeria?amp=1",
+   "domain": "instituteforenergyresearch.org",
+   "source": "instituteforenergyresearch.org",
+   "published": "Mon, 19 Oct 2026 16:00:00 GMT",
+   "_dt": 1792425600.0,
+   "ageDays": 0.74,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "min"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_ng",
+   "body_zh": "",
+   "title_zh": "美国与尼日利亚签署采矿协议"
   },
   {
    "title": "Marcos prefers diplomacy over declaring Chinese envoy persona non grata",
@@ -3827,7 +4323,7 @@ window.SITE_DATA = {
    "source": "inquirer.net",
    "published": "Mon, 19 Oct 2026 15:46:43 +0000",
    "_dt": 1792424803.0,
-   "ageDays": 0.74,
+   "ageDays": 0.75,
    "summary": "MANILA, Philippines — President Ferdinand Marcos Jr. does not want to declare any foreign diplomat persona non grata, including Chinese Ambassador to the Philippines Jing Quan, as the country remains keen on resolving issues through diplomatic means, Palace press officer Claire Castro said Monday.",
    "summary_zh": "马尼拉，菲律宾——总统费迪南德·马科斯二世不希望宣布任何外国外交官为不受欢迎的人，包括中国驻菲律宾大使景泉，因为该国仍热衷于通过外交手段解决问题，总统府新闻官Claire Castro周一表示。",
    "summarySource": "index",
@@ -3844,6 +4340,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_inquirer",
    "title_zh": "马科斯更喜欢外交而不是宣布中国使节为不受欢迎的人",
@@ -3856,11 +4353,11 @@ window.SITE_DATA = {
    "source": "africa.businessinsider.com",
    "published": "Mon, 19 Oct 2026 15:24:36 GMT",
    "_dt": 1792423476.0,
-   "ageDays": 0.75,
+   "ageDays": 0.76,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
@@ -3877,8 +4374,8 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "ter_mplj",
-   "title_zh": "美国将11个非洲国家列入最高级别4级“不要旅行”建议名单，原因是安全威胁上升 - 商业内幕非洲",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "美国将11个非洲国家列入最高级别4级“不要旅行”建议名单，原因是安全威胁上升 - 商业内幕非洲"
   },
   {
    "title": "China pulls out of key investment in Sri Lanka port logistics venture - The Hindu",
@@ -3887,11 +4384,11 @@ window.SITE_DATA = {
    "source": "thehindu.com",
    "published": "Mon, 19 Oct 2026 15:08:50 GMT",
    "_dt": 1792422530.0,
-   "ageDays": 0.76,
+   "ageDays": 0.77,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "in"
@@ -3908,10 +4405,39 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_mm",
-   "title_zh": "中国退出斯里兰卡港口物流合资企业关键投资 - The Hindu",
-   "body_zh": "中国退出斯里兰卡港口物流合资企业关键投资 - The Hindu",
+   "body_zh": "",
+   "title_zh": "中国退出斯里兰卡港口物流合资企业关键投资 - The Hindu"
+  },
+  {
+   "title": "Chinese companies are now fully mobilised",
+   "url": "https://www.facebook.com/TheWeekendPostBW/posts/chinese-companies-are-now-fully-mobilised-they-are-ready-some-of-them-from-my-co/1536742838479762",
+   "domain": "facebook.com",
+   "source": "facebook.com",
+   "published": "Mon, 19 Oct 2026 15:00:00 GMT",
+   "_dt": 1792422000.0,
+   "ageDays": 0.78,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "ng"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
    "cnHit": true,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_ng2",
+   "body_zh": "",
+   "title_zh": "中国企业现已全面动员"
   },
   {
    "title": "DFA summons Chinese envoy over ‘may easily win’ West PH Sea remark",
@@ -3920,7 +4446,7 @@ window.SITE_DATA = {
    "source": "inquirer.net",
    "published": "Mon, 19 Oct 2026 14:40:37 +0000",
    "_dt": 1792420837.0,
-   "ageDays": 0.78,
+   "ageDays": 0.79,
    "summary": "MANILA, Philippines – The Department of Foreign Affairs (DFA) on Monday summoned Chinese Ambassador Jing Quan over his remarks that China “may easily win” in a confrontation in the West Philippine Sea.",
    "summary_zh": "马尼拉，菲律宾——外交部（DFA）周一召见了中国大使景泉，此前他表示中国“可能轻易获胜”在西菲律宾海的对抗中。",
    "summarySource": "index",
@@ -3937,6 +4463,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_inquirer",
    "title_zh": "外交部就‘可能轻易获胜’西菲律宾海言论召见中国大使",
@@ -3949,7 +4476,7 @@ window.SITE_DATA = {
    "source": "themoscowtimes.com",
    "published": "Mon, 19 Oct 2026 16:19:11 +0300",
    "_dt": 1792415951.0,
-   "ageDays": 0.84,
+   "ageDays": 0.85,
    "summary": "Officials in Kyiv have criticized the idea of holding talks that do not include Ukraine, saying they would only “encourage” Putin to continue the war.",
    "summary_zh": "基辅官员批评了举行不包括乌克兰的谈判的想法，称这只会“鼓励”普京继续战争。",
    "summarySource": "index",
@@ -3966,6 +4493,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_moscowtimes",
    "title_zh": "克里姆林宫称，普京、特朗普和习近平下个月可能就乌克兰战争举行三边会议",
@@ -3978,11 +4506,11 @@ window.SITE_DATA = {
    "source": "modernghana.com",
    "published": "Mon, 19 Oct 2026 13:00:00 GMT",
    "_dt": 1792414800.0,
-   "ageDays": 0.85,
+   "ageDays": 0.86,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "gh"
@@ -3998,8 +4526,39 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_gh",
-   "title_zh": "投资可可、乳木果加工为加纳青年创造就业机会——副总统对中国投资者说",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "投资可可、乳木果加工为加纳青年创造就业机会——副总统对中国投资者说"
+  },
+  {
+   "title": "US Army partners with G-TEAD to advance counter-drone tech in Africa - Army Technology",
+   "url": "https://www.army-technology.com/news/us-army-drones-africa-test/",
+   "domain": "army-technology.com",
+   "source": "army-technology.com",
+   "published": "Mon, 19 Oct 2026 12:31:58 GMT",
+   "_dt": 1792413118.0,
+   "ageDays": 0.88,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "gh"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "us_gh",
+   "body_zh": "",
+   "title_zh": "美国陆军与G-TEAD合作推进非洲反无人机技术 - Army Technology"
   },
   {
    "title": "Chinese oilfield service firm markets Iraq’s oil - Iraqi News",
@@ -4008,11 +4567,11 @@ window.SITE_DATA = {
    "source": "iraqinews.com",
    "published": "Mon, 19 Oct 2026 12:13:48 GMT",
    "_dt": 1792412028.0,
-   "ageDays": 0.88,
+   "ageDays": 0.89,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
@@ -4029,8 +4588,8 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_ne",
-   "title_zh": "中国油田服务公司推销伊拉克石油 - 伊拉克新闻",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "中国油田服务公司推销伊拉克石油 - 伊拉克新闻"
   },
   {
    "title": "Chinese actress cancels Bangkok fan meeting amid embassy travel safety alert - Global Times",
@@ -4039,11 +4598,11 @@ window.SITE_DATA = {
    "source": "globaltimes.cn",
    "published": "Mon, 19 Oct 2026 11:00:00 GMT",
    "_dt": 1792407600.0,
-   "ageDays": 0.94,
+   "ageDays": 0.95,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
@@ -4060,8 +4619,8 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_mm",
-   "title_zh": "中国女演员因大使馆旅行安全警报取消曼谷粉丝见面会 - 环球时报",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "中国女演员因大使馆旅行安全警报取消曼谷粉丝见面会 - 环球时报"
   },
   {
    "title": "Ghana's Vice President explores China's rural development model at Global South Forum",
@@ -4070,11 +4629,11 @@ window.SITE_DATA = {
    "source": "gbcghanaonline.com",
    "published": "Mon, 19 Oct 2026 10:46:51 GMT",
    "_dt": 1792406811.0,
-   "ageDays": 0.94,
+   "ageDays": 0.95,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "gh"
@@ -4090,8 +4649,8 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_gh2",
-   "title_zh": "加纳副总统在全球南方论坛探索中国农村发展模式",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "加纳副总统在全球南方论坛探索中国农村发展模式"
   },
   {
    "title": "‘Malicious, false, orchestrated by Pakistan’: MEA rejects OIC's ‘anti-India’ references during Baghdad meet",
@@ -4100,7 +4659,7 @@ window.SITE_DATA = {
    "source": "hindustantimes.com",
    "published": "Mon, 19 Oct 2026 16:06:36 +0530",
    "_dt": 1792406196.0,
-   "ageDays": 0.95,
+   "ageDays": 0.96,
    "summary": "The ministry of external affairs noted that the OIC has no locus standi ‘whatsoever to comment on matters that are strictly internal to India.’",
    "summary_zh": "外交部指出，伊斯兰合作组织没有任何地位来评论严格属于印度内政的事务。",
    "summarySource": "index",
@@ -4130,7 +4689,7 @@ window.SITE_DATA = {
    "source": "newsinfo.inquirer.net",
    "published": "Mon, 19 Oct 2026 09:48:23 GMT",
    "_dt": 1792403303.0,
-   "ageDays": 0.99,
+   "ageDays": 1.0,
    "summary": "Cusi seeks travel permission for China, Japan",
    "summary_zh": "库西寻求前往中国、日本的旅行许可",
    "summarySource": "index",
@@ -4145,8 +4704,6 @@ window.SITE_DATA = {
    "tier": 1,
    "actor": "中国",
    "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
    "score": 0.0,
    "tag": "cn_ph",
    "title_zh": "库西寻求前往中国、日本的旅行许可",
@@ -4162,7 +4719,7 @@ window.SITE_DATA = {
    "source": "thesunchronicle.com",
    "published": "Mon, 19 Oct 2026 09:33:12 GMT",
    "_dt": 1792402392.0,
-   "ageDays": 1.0,
+   "ageDays": 1.01,
    "summary": "European stocks slip led by France, and oil falls on Trump's Russian sanctions waiver - The Sun Chronicle",
    "summary_zh": "欧洲股市在法国引领下跌，石油因特朗普对俄罗斯制裁豁免而下跌 - The Sun Chronicle",
    "summarySource": "index",
@@ -4193,11 +4750,11 @@ window.SITE_DATA = {
    "source": "sana.sy",
    "published": "Mon, 19 Oct 2026 09:32:33 GMT",
    "_dt": 1792402353.0,
-   "ageDays": 1.0,
+   "ageDays": 1.01,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
@@ -4215,7 +4772,7 @@ window.SITE_DATA = {
    "score": 0.0,
    "tag": "cn_la",
    "title_zh": "中国经济前九个月增长4.6%",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": ""
   },
   {
    "title": "Raffy Tulfo overtakes Padilla in Octa’s 2028 Senate survey",
@@ -4224,7 +4781,7 @@ window.SITE_DATA = {
    "source": "inquirer.net",
    "published": "Mon, 19 Oct 2026 09:08:58 +0000",
    "_dt": 1792400938.0,
-   "ageDays": 1.01,
+   "ageDays": 1.02,
    "summary": "MANILA, Philippines — Sen. Raffy Tulfo topped the list of potential senatorial candidates for the 2028 elections, overtaking fellow Sen. Robin Padilla, according to the latest survey by Octa Research.",
    "summary_zh": "马尼拉，菲律宾——根据Octa Research的最新调查，参议员拉菲·图尔福在2028年选举潜在参议员候选人名单中位居首位，超过了同为参议员的罗宾·帕迪拉。",
    "summarySource": "index",
@@ -4241,52 +4798,24 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_inquirer",
    "title_zh": "Raffy Tulfo在Octa的2028年参议院调查中超过Padilla",
    "body_zh": "马尼拉，菲律宾——根据Octa Research最新的调查，参议员Raffy Tulfo在2028年选举潜在参议员候选人名单中位居榜首，超过了同为参议员的Robin Padilla。在其非委托的“大众回应”调查中，该调查于2026年9月28日至10月4日进行，受访者被提供了一份假设的潜在"
   },
   {
-   "title": "Opinion | China’s export boom creates a difficult bargain for Southeast Asia | South China Morning Post",
-   "url": "https://www.scmp.com/opinion/china-opinion/article/3371208/chinas-export-boom-creates-difficult-bargain-southeast-asia",
-   "domain": "scmp.com",
-   "source": "scmp.com",
-   "published": "Mon, 19 Oct 2026 08:30:05 GMT",
-   "_dt": 1792398605.0,
-   "ageDays": 1.03,
-   "summary": "Opinion | China’s export boom creates a difficult bargain for Southeast Asia | South China Morning Post",
-   "summary_zh": "观点 | 中国的出口繁荣为东南亚创造了一个艰难的交易 | 南华早报",
-   "summarySource": "index",
-   "body": "Opinion | China’s export boom creates a difficult bargain for Southeast Asia | South China Morning Post",
-   "bodyLevel": "excerpt",
-   "country": [
-    "vn"
-   ],
-   "topic": [
-    "eco"
-   ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
-   "score": 0.0,
-   "tag": "cn_vn",
-   "title_zh": "观点 | 中国的出口繁荣为东南亚创造了一个艰难的交易 | 南华早报",
-   "body_zh": "观点 | 中国的出口繁荣为东南亚创造了一个艰难的交易 | 南华早报"
-  },
-  {
    "title": "China's Economic Growth Accelerates to 4.5% in Third Quarter - The China-Global South Project",
    "url": "https://chinaglobalsouth.com/2026/10/19/china-gdp-growth-q3-2026",
    "domain": "chinaglobalsouth.com",
    "source": "chinaglobalsouth.com",
-   "published": "Mon, 19 Oct 2026 08:00:00 GMT",
-   "_dt": 1792396800.0,
-   "ageDays": 1.05,
-   "summary": "China's Economic Growth Accelerates to 4.5% in Third Quarter - The China-Global South Project",
-   "summary_zh": "中国第三季度经济增长加速至4.5%——中国-全球南方项目",
+   "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+   "_dt": 1792400400.0,
+   "ageDays": 1.03,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "China's Economic Growth Accelerates to 4.5% in Third Quarter - The China-Global South Project",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
@@ -4300,23 +4829,24 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.0,
    "tag": "cn_gh",
-   "title_zh": "中国第三季度经济增长加速至4.5%——中国-全球南方项目",
-   "body_zh": "中国第三季度经济增长加速至4.5%——中国-全球南方项目"
+   "body_zh": "",
+   "title_zh": "中国第三季度经济增长加速至4.5% - 中国-全球南方项目"
   },
   {
    "title": "China and India can strengthen APAC’s global MedTech role: APACMed’s Arjun Sarker",
    "url": "https://www.biospectrumasia.com/opinion/27/28544/china-and-india-can-strengthen-apacs-global-medtech-role-apacmeds-arjun-sarker.html",
    "domain": "biospectrumasia.com",
    "source": "biospectrumasia.com",
-   "published": "Mon, 19 Oct 2026 08:00:00 GMT",
-   "_dt": 1792396800.0,
-   "ageDays": 1.05,
-   "summary": "China and India can strengthen APAC’s global MedTech role: APACMed’s Arjun Sarker",
-   "summary_zh": "中国和印度可以加强亚太在全球医疗技术中的作用：APACMed的Arjun Sarker",
+   "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+   "_dt": 1792400400.0,
+   "ageDays": 1.03,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "China and India can strengthen APAC’s global MedTech role: APACMed’s Arjun Sarker",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "in"
@@ -4329,10 +4859,195 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.0,
    "tag": "cn_in",
-   "title_zh": "中国和印度可以加强亚太在全球医疗技术中的作用：APACMed的Arjun Sarker",
-   "body_zh": "中国和印度可以加强亚太在全球医疗技术中的作用：APACMed的Arjun Sarker"
+   "body_zh": "",
+   "title_zh": "中国和印度可以加强亚太在全球医疗技术中的作用：APACMed的Arjun Sarker"
+  },
+  {
+   "title": "China Datang Plans New Energy Projects in Myanmar | Eleven Media Group Co., Ltd",
+   "url": "https://elevenmyanmar.com/news/china-datang-plans-new-energy-projects-in-myanmar",
+   "domain": "elevenmyanmar.com",
+   "source": "elevenmyanmar.com",
+   "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+   "_dt": 1792400400.0,
+   "ageDays": 1.03,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "mm"
+   ],
+   "topic": [
+    "ene"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_mm",
+   "body_zh": "",
+   "title_zh": "中国大唐计划在缅甸开发新能源项目 | Eleven Media Group Co., Ltd"
+  },
+  {
+   "title": "Selling the Black Star: Why Ghana’s Third-Country Deportation Deal with the U.S. is an Insult to Our Constitution and Sovereignty",
+   "url": "https://www.modernghana.com/news/1537152/selling-the-black-star-why-ghanas-third-country.amp",
+   "domain": "modernghana.com",
+   "source": "modernghana.com",
+   "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+   "_dt": 1792400400.0,
+   "ageDays": 1.03,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "us_gh",
+   "body_zh": "",
+   "title_zh": "出售黑星：为什么加纳与美国的第三国驱逐协议是对我们宪法和主权的侮辱"
+  },
+  {
+   "title": "Dien Bien (Vietnam) - Yunnan (China) - Luang Prabang (Laos): Local linkages, building prosperity.",
+   "url": "https://www.vietnam.vn/en/dien-bien-viet-nam-van-nam-trung-quoc-luang-prabang-lao-lien-ket-dia-phuong-kien-tao-thinh-vuong",
+   "domain": "vietnam.vn",
+   "source": "vietnam.vn",
+   "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+   "_dt": 1792400400.0,
+   "ageDays": 1.03,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "vn",
+    "la"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_la",
+   "title_zh": "奠边府（越南）-云南（中国）-琅勃拉邦（老挝）：地方联系，共建繁荣",
+   "body_zh": ""
+  },
+  {
+   "title": "ISWAP: We Killed 21 Soldiers and Militiamen in Army Base Attack",
+   "url": "https://www.memri.org/jttm/islamic-state-west-africa-province-iswap-claims-killing-nigerian-officer-20-soldiers-and",
+   "domain": "memri.org",
+   "source": "memri.org",
+   "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+   "_dt": 1792400400.0,
+   "ageDays": 1.03,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": true,
+   "score": 0.0,
+   "tag": "ter_iswap",
+   "body_zh": "",
+   "title_zh": "伊斯兰国西非省：我们在军队基地袭击中杀死21名士兵和民兵"
+  },
+  {
+   "title": "China railway passenger trips hit record high in first three quarters--China Economic Net",
+   "url": "http://en.ce.cn/main/latest/202610/t20261019_3262519.shtml",
+   "domain": "en.ce.cn",
+   "source": "en.ce.cn",
+   "published": "Mon, 19 Oct 2026 08:41:10 GMT",
+   "_dt": 1792399270.0,
+   "ageDays": 1.04,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "la"
+   ],
+   "topic": [
+    "eco",
+    "cor"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_la",
+   "title_zh": "中国铁路客运量在前三个季度创下历史新高--中国经济网",
+   "body_zh": ""
+  },
+  {
+   "title": "Opinion | China’s export boom creates a difficult bargain for Southeast Asia | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/china-opinion/article/3371208/chinas-export-boom-creates-difficult-bargain-southeast-asia",
+   "domain": "scmp.com",
+   "source": "scmp.com",
+   "published": "Mon, 19 Oct 2026 08:30:05 GMT",
+   "_dt": 1792398605.0,
+   "ageDays": 1.05,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "vn"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_vn",
+   "body_zh": "",
+   "title_zh": "观点 | 中国出口繁荣为东南亚创造了一个艰难的交易 | 《南华早报》"
   },
   {
    "title": "US ‘very close’ to India trade deal; energy needs considered in Russia sanctions waiver: Marco Rubio",
@@ -4341,7 +5056,7 @@ window.SITE_DATA = {
    "source": "hindustantimes.com",
    "published": "Mon, 19 Oct 2026 13:08:36 +0530",
    "_dt": 1792395516.0,
-   "ageDays": 1.08,
+   "ageDays": 1.09,
    "summary": "The US Secretary of State is scheduled to travel to India on Tuesday, and will hold a meeting with external affairs minister S Jaishankar in Mumbai.",
    "summary_zh": "美国国务卿定于周二前往印度，并将在孟买与外交部长S Jaishankar举行会晤。",
    "summarySource": "index",
@@ -4360,6 +5075,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_htrss",
    "title_zh": "美国“非常接近”与印度达成贸易协议；在俄罗斯制裁豁免中考虑能源需求：马可·鲁比奥",
@@ -4372,11 +5088,11 @@ window.SITE_DATA = {
    "source": "3News（加纳）",
    "published": "Mon, 19 Oct 2026 07:36:50 GMT",
    "_dt": 1792395410.0,
-   "ageDays": 1.08,
+   "ageDays": 1.09,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "gh"
@@ -4392,8 +5108,8 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "cn_gh",
-   "title_zh": "副总统敦促中国投资者投资加纳原材料的本地加工",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "副总统敦促中国投资者投资加纳原材料的本地加工"
   },
   {
    "title": "China warns citizens of job scams, abductions in Thailand",
@@ -4402,70 +5118,11 @@ window.SITE_DATA = {
    "source": "khaosodenglish.com",
    "published": "Mon, 19 Oct 2026 07:09:29 GMT",
    "_dt": 1792393769.0,
-   "ageDays": 1.1,
+   "ageDays": 1.11,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "Veep urges Chinese investors to invest in local processing of Ghana’s raw materials",
-   "bodyLevel": "excerpt",
-   "country": [
-    "gh"
-   ],
-   "topic": [
-    "eco"
-   ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
-   "score": 0.0,
-   "tag": "cn_gh",
-   "title_zh": "副总统敦促中国投资者投资加纳原材料的本地加工",
-   "body_zh": "副总统敦促中国投资者投资加纳原材料的本地加工"
-  },
-  {
-   "title": "Five Reputable Wastewater Treatment Equipment Manufacturers in China 2026: Advancing Environmental Solutions",
-   "url": "https://www.einpresswire.com/article/950651183/five-reputable-wastewater-treatment-equipment-manufacturers-in-china-2026-advancing-environmental-solutions",
-   "domain": "einpresswire.com",
-   "source": "einpresswire.com",
-   "published": "Mon, 19 Oct 2026 07:28:11 GMT",
-   "_dt": 1792394891.0,
-   "ageDays": 1.07,
-   "summary": "Five Reputable Wastewater Treatment Equipment Manufacturers in China 2026: Advancing Environmental Solutions",
-   "summary_zh": "2026年中国五家知名废水处理设备制造商：推进环境解决方案",
-   "summarySource": "index",
-   "body": "Five Reputable Wastewater Treatment Equipment Manufacturers in China 2026: Advancing Environmental Solutions",
-   "bodyLevel": "excerpt",
-   "country": [
-    "af",
-    "ph"
-   ],
-   "topic": [
-    "pol"
-   ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
-   "score": 0.0,
-   "tag": "cn_ph",
-   "title_zh": "2026年中国五家知名废水处理设备制造商：推进环境解决方案",
-   "body_zh": "2026年中国五家知名废水处理设备制造商：推进环境解决方案"
-  },
-  {
-   "title": "Shenghe sells China Rare Earth stakes for up to $388.27 million",
-   "url": "https://mining.com.au/shenghe-sells-china-rare-earth-stakes-for-up-to-388-27-million/",
-   "domain": "mining.com.au",
-   "source": "mining.com.au",
-   "published": "Mon, 19 Oct 2026 07:20:00 GMT",
-   "_dt": 1792394400.0,
-   "ageDays": 1.08,
-   "summary": "Shenghe sells China Rare Earth stakes for up to $388.27 million",
-   "summary_zh": "盛和出售中国稀土股份，最高可达3.8827亿美元",
-   "summarySource": "index",
-   "body": "Shenghe sells China Rare Earth stakes for up to $388.27 million",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
@@ -4479,69 +5136,11 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.0,
    "tag": "cn_mm",
-   "title_zh": "盛和出售中国稀土股份，最高可达3.8827亿美元",
-   "body_zh": "盛和出售中国稀土股份，最高可达3.8827亿美元"
-  },
-  {
-   "title": "Russia explores Putin, Trump, Xi summit on Ukraine deal - Politico",
-   "url": "https://www.politico.com/news/2026/10/19/russia-explores-putin-trump-xi-summit-on-ukraine-deal",
-   "domain": "politico.com",
-   "source": "politico.com",
-   "published": "Mon, 19 Oct 2026 07:18:00 GMT",
-   "_dt": 1792394280.0,
-   "ageDays": 1.08,
-   "summary": "Russia explores Putin, Trump, Xi summit on Ukraine deal - Politico",
-   "summary_zh": "俄罗斯探索普京、特朗普、习近平就乌克兰协议举行峰会——Politico",
-   "summarySource": "index",
-   "body": "Russia explores Putin, Trump, Xi summit on Ukraine deal - Politico",
-   "bodyLevel": "excerpt",
-   "country": [
-    "ru"
-   ],
-   "topic": [
-    "pol"
-   ],
-   "tier": 2,
-   "actor": "美国",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": true,
-   "score": 0.0,
-   "tag": "cn_ru",
-   "title_zh": "俄罗斯探索普京、特朗普、习近平就乌克兰协议举行峰会——Politico",
-   "body_zh": "俄罗斯探索普京、特朗普、习近平就乌克兰协议举行峰会——Politico"
-  },
-  {
-   "title": "How a US$110 million fishing harbour in Tanzania serves China’s food and security goals | South China Morning Post",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3371347/how-us110-million-fishing-harbour-tanzania-serves-chinas-food-and-security-goals",
-   "domain": "scmp.com",
-   "source": "scmp.com",
-   "published": "Mon, 19 Oct 2026 06:00:09 GMT",
-   "_dt": 1792389609.0,
-   "ageDays": 1.13,
-   "summary": "How a US$110 million fishing harbour in Tanzania serves China’s food and security goals | South China Morning Post",
-   "summary_zh": "坦桑尼亚1.1亿美元渔港如何服务中国的粮食和安全目标 | South China Morning Post",
-   "summarySource": "index",
-   "body": "How a US$110 million fishing harbour in Tanzania serves China’s food and security goals | South China Morning Post",
-   "bodyLevel": "excerpt",
-   "country": [
-    "af",
-    "wa"
-   ],
-   "topic": [
-    "sec"
-   ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
-   "score": 0.0,
-   "tag": "cn_wa",
-   "title_zh": "坦桑尼亚1.1亿美元渔港如何服务中国的粮食和安全目标 | South China Morning Post",
-   "body_zh": "坦桑尼亚1.1亿美元渔港如何服务中国的粮食和安全目标 | South China Morning Post"
+   "body_zh": "",
+   "title_zh": "中国警告公民在泰国注意就业骗局和绑架"
   },
   {
    "title": "Nepal and Bangladesh’s relationship with China after youth uprising",
@@ -4550,11 +5149,11 @@ window.SITE_DATA = {
    "source": "theannapurnaexpress.com",
    "published": "Mon, 19 Oct 2026 06:00:00 GMT",
    "_dt": 1792389600.0,
-   "ageDays": 1.13,
-   "summary": "Nepal and Bangladesh’s relationship with China after youth uprising",
-   "summary_zh": "青年起义后尼泊尔和孟加拉国与中国的关系",
+   "ageDays": 1.15,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "Nepal and Bangladesh’s relationship with China after youth uprising",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "np"
@@ -4567,10 +5166,41 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.0,
    "tag": "cn_np",
-   "title_zh": "青年起义后尼泊尔和孟加拉国与中国的关系",
-   "body_zh": "青年起义后尼泊尔和孟加拉国与中国的关系"
+   "body_zh": "",
+   "title_zh": "青年起义后尼泊尔和孟加拉国与中国的关系"
+  },
+  {
+   "title": "After War of Words, China Says Relations With Philippines at ‘Critical Juncture’ – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/after-war-of-words-china-says-relations-with-philippines-at-critical-juncture",
+   "domain": "thediplomat.com",
+   "source": "thediplomat.com",
+   "published": "Mon, 19 Oct 2026 06:00:00 GMT",
+   "_dt": 1792389600.0,
+   "ageDays": 1.15,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ph"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_ph",
+   "body_zh": "",
+   "title_zh": "在口水战之后，中国称与菲律宾的关系处于‘关键时刻’——《外交官》杂志"
   },
   {
    "title": "Một tuần ông Zelensky đối đầu ông Trump",
@@ -4579,7 +5209,7 @@ window.SITE_DATA = {
    "source": "vnexpress.net",
    "published": "Mon, 19 Oct 2026 12:12:30 +0700",
    "_dt": 1792386750.0,
-   "ageDays": 1.18,
+   "ageDays": 1.19,
    "summary": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summary_zh": "摘要：原文页面仅返回导航摘要，未能取得正文；点击打开原文查看完整内容。",
    "summarySource": "index",
@@ -4599,7 +5229,8 @@ window.SITE_DATA = {
    "title_zh": "泽连斯基对抗特朗普的一周",
    "body_zh": "被逼入进退两难的境地，乌克兰总统决定公开对抗特朗普，尽管知道这可能失去来自美国的至关重要的支持",
    "cnHit": false,
-   "usHit": true
+   "usHit": true,
+   "terrHit": false
   },
   {
    "title": "China-Nigeria radio programme seeks wider reach, youth participation after 456 days",
@@ -4608,7 +5239,7 @@ window.SITE_DATA = {
    "source": "BusinessDay（尼日利亚）",
    "published": "Mon, 19 Oct 2026 04:00:00 GMT",
    "_dt": 1792382400.0,
-   "ageDays": 1.23,
+   "ageDays": 1.24,
    "summary": "Listen to this article Share Advertisement The Chinese Embassy in Nigeria, the Federal Radio Corporation of Nigeria (FRCN), have called for expanded content, stronger digital engagement and increased youth participation in the *Ni Hao! China* radio programme to deepen cultural exchanges between Nigeria and China.",
    "summary_zh": "中国驻尼日利亚大使馆、尼日利亚联邦广播公司（FRCN）呼吁扩大内容、加强数字互动并增加青年参与《你好！中国》广播节目，以深化尼日利亚与中国的文化交流。",
    "summarySource": "fulltext",
@@ -4629,7 +5260,8 @@ window.SITE_DATA = {
    "title_zh": "中尼广播节目在456天后寻求更广泛覆盖和青年参与",
    "body_zh": "中国驻尼日利亚大使馆、尼日利亚联邦广播公司（FRCN）呼吁扩大内容、加强数字互动并增加青年参与《你好！中国》广播节目，以深化尼日利亚与中国的文化交流。这一呼吁是在星期四于尼日利亚阿布贾中国文化中心举行的庆祝该中文广播节目开播456天的仪式上提出的，与会利益相关方强调了广播在超越传统外交和经济互动之外加强人民之间关系的作用。中国驻尼日利亚大使馆文化参赞兼中国文化中心主任杨建兴表示，该节目由大使馆和FRCN联合制作，自2025年7月推出以来，已成为促进友谊、文化理解和相互学习的重要平台。建兴表示，该节目为尼日利亚听众提供了一个便捷渠道来学习普通话并深入了解中国的历史、传统、美食、技术发展和日常生活。他说，该节目在FRCN广播电台、公司网站、YouTube和其他数字平台上的可用性使中文学习更加便利，但强调需要扩大受众并改进内容，特别是吸引年轻的尼日利亚人。这位外交官概述了该节目下一阶段的三个优先事项：丰富其内容、采用创新方法吸引受众并鼓励更大的青年参与。他说，该节目应继续维持其中文课程，同时扩大对中国旅游、教育、文化和其他生活方面的报道。他还呼吁开设能让尼日利亚人用中文解释自己文化、传统和日常经历的课程。据他介绍，这种方法将加强该节目作为双向文化交流平台的作用，让尼日利亚人能够向中国听众传达他们的文化身份，同时了解中国社会。建兴还敦促制作团队将传统无线电广播与短视频、社交媒体、数字学习资源和实体文化活动相结合，以接触那些媒体消费日益转向线上的受众。他说，增加青年在语言学习、文化体验和交流活动中的参与，可以帮助培养新一代尼日利亚人，他们有能力促进两国之间的友谊与合作。这位外交官将《你好！中国》描述为尼中关系的反映，也是对其持续发展的贡献，并指出两国将在2026年庆祝外交关系55周年。他说，这种关系已在政治互动、贸易、经济合作和文化交流等领域扩展，并补充说，拉近公民距离的举措可以补充官方外交互动。建兴还将该节目与中非人文交流年联系起来，将这一举措描述为深化文化互动并促进中国和非洲社会之间相互学习的机会。他赞扬了FRCN的管理层、制作团队、语言教师和其他尼日利亚和中国贡献者为维持该节目所做的努力。这位外交官对听众和媒体从业者表示感谢，称持续合作将帮助该节目接触更多尼日利亚人并加强双边文化关系。FRCN总干事穆罕默德·巴巴加纳表示，这一伙伴关系展示了广播如何通过促进超越贸易、基础设施和外交的文化意识和理解来加强国家之间的关系。",
    "cnHit": true,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "FDI: Plateau, Chinese firm ink $500m deal",
@@ -4638,7 +5270,7 @@ window.SITE_DATA = {
    "source": "The Nation（尼日利亚）",
    "published": "Mon, 19 Oct 2026 04:00:00 GMT",
    "_dt": 1792382400.0,
-   "ageDays": 1.23,
+   "ageDays": 1.24,
    "summary": "FDI: Plateau, Chinese firm ink $500m deal",
    "summary_zh": "外国直接投资：高原州与中国公司签署5亿美元协议",
    "summarySource": "index",
@@ -4658,7 +5290,69 @@ window.SITE_DATA = {
    "title_zh": "外国直接投资：高原州与中国公司签署5亿美元协议",
    "body_zh": "外国直接投资：高原州与中国公司签署5亿美元协议",
    "cnHit": true,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
+  },
+  {
+   "title": "Mali: Military Attacks on Civilians, Insurgent Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/19/mali-military-attacks-on-civilians-insurgent-abuses",
+   "domain": "hrw.org",
+   "source": "hrw.org",
+   "published": "Mon, 19 Oct 2026 04:00:00 GMT",
+   "_dt": 1792382400.0,
+   "ageDays": 1.24,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ml"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": true,
+   "score": 0.0,
+   "tag": "ml_extra",
+   "body_zh": "",
+   "title_zh": "马里：军队袭击平民，叛乱分子虐待 | 人权观察"
+  },
+  {
+   "title": "China Q3 GDP grows 4.5%, slightly more than expected",
+   "url": "https://www.investing.com/news/economic-indicators/china-q3-gdp-grows-45-slightly-more-than-expected-4956217",
+   "domain": "investing.com",
+   "source": "investing.com",
+   "published": "Mon, 19 Oct 2026 02:18:18 GMT",
+   "_dt": 1792376298.0,
+   "ageDays": 1.31,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "ng"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_ng",
+   "body_zh": "",
+   "title_zh": "中国第三季度GDP增长4.5%，略高于预期"
   },
   {
    "title": "Stronger bilat­eral ties on agenda with China",
@@ -4667,11 +5361,11 @@ window.SITE_DATA = {
    "source": "pressreader.com",
    "published": "Mon, 19 Oct 2026 00:00:00 GMT",
    "_dt": 1792368000.0,
-   "ageDays": 1.38,
-   "summary": "Stronger bilat­eral ties on agenda with China",
-   "summary_zh": "与中国加强双边关系被提上议程",
+   "ageDays": 1.4,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "Stronger bilat­eral ties on agenda with China",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
@@ -4685,10 +5379,11 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.0,
    "tag": "cn_vn",
-   "title_zh": "与中国加强双边关系被提上议程",
-   "body_zh": "与中国加强双边关系被提上议程"
+   "body_zh": "",
+   "title_zh": "与中国加强双边关系被列入议程"
   },
   {
    "title": "China readies fully active ETFs as Korean rules force out winners - KED Global",
@@ -4697,11 +5392,11 @@ window.SITE_DATA = {
    "source": "kedglobal.com",
    "published": "Sun, 18 Oct 2026 23:50:02 GMT",
    "_dt": 1792367402.0,
-   "ageDays": 1.39,
-   "summary": "China readies fully active ETFs as Korean rules force out winners - KED Global",
-   "summary_zh": "中国准备完全活跃的ETF而韩国规则迫使赢家退出 - KED Global",
+   "ageDays": 1.41,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "China readies fully active ETFs as Korean rules force out winners - KED Global",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "kr"
@@ -4714,10 +5409,42 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.0,
    "tag": "cn_kr",
-   "title_zh": "中国准备完全活跃的ETF而韩国规则迫使赢家退出 - KED Global",
-   "body_zh": "中国准备完全活跃的ETF而韩国规则迫使赢家退出 - KED Global"
+   "title_zh": "中国准备完全活跃的ETF，而韩国规则迫使赢家出局 - KED Global",
+   "body_zh": ""
+  },
+  {
+   "title": "Why huge US deficits could put a floor under gold",
+   "url": "https://mining.com.au/why-huge-us-deficits-could-put-a-floor-under-gold/",
+   "domain": "mining.com.au",
+   "source": "mining.com.au",
+   "published": "Sun, 18 Oct 2026 23:30:08 GMT",
+   "_dt": 1792366208.0,
+   "ageDays": 1.42,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "ne"
+   ],
+   "topic": [
+    "min"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "ter_mplj",
+   "title_zh": "为什么巨额美国赤字可能为黄金设定底线",
+   "body_zh": ""
   },
   {
    "title": "FG disputes World Bank’s N7.7tn interest payments",
@@ -4726,7 +5453,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Sun, 18 Oct 2026 23:26:54 GMT",
    "_dt": 1792366014.0,
-   "ageDays": 1.42,
+   "ageDays": 1.43,
    "summary": "FG disputes World Bank’s N7.7tn interest payments",
    "summary_zh": "联邦政府对世界银行77万亿奈拉利息支付提出异议",
    "summarySource": "fulltext",
@@ -4746,7 +5473,8 @@ window.SITE_DATA = {
    "title_zh": "联邦政府对世界银行77万亿奈拉利息支付提出异议",
    "body_zh": "新闻更新：尼日利亚人现在可以通过优质域名赚取高达 15000 至 25000 美元。您可以决定是以奈拉还是美元付款。请务必要求提供每天从中受益的人的证据和证明。点击此处开始。注意尼日利亚人：您现在可以通过以低至 3000 美元的价格收购优质域名，轻松赚取美元并获利 15000 至 35000 美元。适合企业家、医生、公务员/公共服务人员、IT 专家、会计师等专业人士。点击此处开始。保持了解——快速。使用 Punch News App 获取即时警报、突发头条新闻和独家报道。现在下载，永不错过任何动态。",
    "cnHit": false,
-   "usHit": false
+   "usHit": false,
+   "terrHit": false
   },
   {
    "title": "Samsung, SK hynix shift chip strategy as U.S.-China rivalry reshapes Korea",
@@ -4755,15 +5483,15 @@ window.SITE_DATA = {
    "source": "koreajoongangdaily.com",
    "published": "Sun, 18 Oct 2026 22:00:00 GMT",
    "_dt": 1792360800.0,
-   "ageDays": 1.47,
-   "summary": "Samsung, SK hynix shift chip strategy as U.S.-China rivalry reshapes Korea",
-   "summary_zh": "三星和SK海力士调整芯片策略，因为美中竞争重塑韩国",
+   "ageDays": 1.49,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "Samsung, SK hynix shift chip strategy as U.S.-China rivalry reshapes Korea",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "af",
-    "kr"
+    "vn"
    ],
    "topic": [
     "pol"
@@ -4773,40 +5501,41 @@ window.SITE_DATA = {
    "alsoUS": true,
    "cnHit": true,
    "usHit": true,
+   "terrHit": false,
    "score": 0.0,
-   "tag": "cn_kr",
-   "title_zh": "三星和SK海力士调整芯片策略，因为美中竞争重塑韩国",
-   "body_zh": "三星和SK海力士调整芯片策略，因为美中竞争重塑韩国"
+   "tag": "cn_vn",
+   "body_zh": "",
+   "title_zh": "三星、SK海力士转变芯片策略，因为美中竞争重塑韩国"
   },
   {
-   "title": "U.S. Invests $17 Million in Colombo Port's Digital Upgrades - The Maritime Executive",
-   "url": "https://maritime-executive.com/article/u-s-invests-17-million-in-colombo-port-s-digital-upgrades",
-   "domain": "maritime-executive.com",
-   "source": "maritime-executive.com",
-   "published": "Sun, 18 Oct 2026 18:59:05 GMT",
-   "_dt": 1792349945.0,
-   "ageDays": 1.59,
-   "summary": "U.S. Invests $17 Million in Colombo Port's Digital Upgrades - The Maritime Executive",
-   "summary_zh": "美国投资1700万美元用于科伦坡港的数字化升级 - The Maritime Executive",
+   "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+   "url": "https://www.modernghana.com/videonews/aljazeera/1/737180",
+   "domain": "modernghana.com",
+   "source": "modernghana.com",
+   "published": "Sun, 18 Oct 2026 19:00:00 GMT",
+   "_dt": 1792350000.0,
+   "ageDays": 1.61,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "U.S. Invests $17 Million in Colombo Port's Digital Upgrades - The Maritime Executive",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
-    "af",
     "mm"
    ],
    "topic": [
-    "cor"
+    "sec"
    ],
    "tier": 2,
    "actor": "美国",
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.0,
-   "tag": "cn_mm",
-   "title_zh": "美国投资1700万美元用于科伦坡港的数字化升级 - The Maritime Executive",
-   "body_zh": "美国投资1700万美元用于科伦坡港的数字化升级 - The Maritime Executive"
+   "tag": "us_gh",
+   "body_zh": "",
+   "title_zh": "为什么美国正在与缅甸军政府统治者举行秘密会谈"
   },
   {
    "title": "Energy Secretary defends Trump waiving Russian sanctions: 'This is an incentive to end the war.' - CNN",
@@ -4815,7 +5544,7 @@ window.SITE_DATA = {
    "source": "cnn.com",
    "published": "Sun, 18 Oct 2026 15:04:00 GMT",
    "_dt": 1792335840.0,
-   "ageDays": 1.77,
+   "ageDays": 1.78,
    "summary": "Energy Secretary defends Trump waiving Russian sanctions: 'This is an incentive to end the war.' - CNN",
    "summary_zh": "能源部长为特朗普豁免俄罗斯制裁辩护：“这是结束战争的激励措施。” - CNN",
    "summarySource": "index",
@@ -4831,8 +5560,6 @@ window.SITE_DATA = {
    "tier": 2,
    "actor": "美国",
    "alsoUS": false,
-   "cnHit": false,
-   "usHit": true,
    "score": 0.0,
    "tag": "ter_wide",
    "title_zh": "能源部长为特朗普豁免俄罗斯制裁辩护：“这是结束战争的激励措施。” - CNN",
@@ -4842,13 +5569,44 @@ window.SITE_DATA = {
    "terrHit": false
   },
   {
+   "title": "CBN Governor Cardoso Plans China Visit to Facilitate Naira-Yuan Cross-Border Payments and Trade Settlement - Tekedia",
+   "url": "https://www.tekedia.com/cbn-governor-cardoso-plans-china-visit-to-facilitate-naira-yuan-cross-border-payments-and-trade-settlement",
+   "domain": "tekedia.com",
+   "source": "tekedia.com",
+   "published": "Sun, 18 Oct 2026 10:21:33 GMT",
+   "_dt": 1792318893.0,
+   "ageDays": 1.97,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "eco",
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_ng",
+   "body_zh": "",
+   "title_zh": "CBN行长卡多索计划访华以促进奈拉-元跨境支付和贸易结算 - Tekedia"
+  },
+  {
    "title": "Cardoso targets deeper financial ties with Chinese banks",
    "url": "https://businessday.ng/business-economy/article/cardoso-targets-deeper-financial-ties-with-chinese-banks",
    "domain": "businessday.ng",
    "source": "BusinessDay（尼日利亚）",
    "published": "Sun, 18 Oct 2026 09:00:00 GMT",
    "_dt": 1792314000.0,
-   "ageDays": 2.02,
+   "ageDays": 2.03,
    "summary": "Bangkok|| The Central Bank of Nigeria (CBN) is seeking deeper financial cooperation with Chinese banks and institutions as improving exchange-rate stability creates opportunities to attract more long-term investment into the domestic economy.",
    "summary_zh": "曼谷||尼日利亚中央银行（CBN）正在寻求与中国银行和机构开展更深入的金融合作，因为汇率稳定性的改善为吸引更多长期投资进入国内经济创造了机会。",
    "summarySource": "fulltext",
@@ -4873,73 +5631,13 @@ window.SITE_DATA = {
    "body_zh": "曼谷|| 尼日利亚中央银行（CBN）正在寻求与中国银行和机构深化金融合作，因为汇率稳定性的改善为吸引更多长期投资进入国内经济创造了机会。CBN行长Olayemi Cardoso表示，这家最高银行正寻求加强与中国金融机构的合作，特别是在支付系统、跨境交易和知识共享方面，同时探索机会以吸引更多来自亚洲市场的投资进入尼日利亚金融工具。周六在泰国曼谷举行的2026年国际货币基金组织和世界银行集团年会尼日利亚代表团闭幕新闻发布会上，Cardoso表示，计划在中国的接触将超越高层讨论，以确定实际的合作领域。“我们基本上有兴趣了解如何深化机构、中国银行、尼日利亚中央银行和其他机构之间的合作，特别是支付系统，”他说。中国支付基础设施为尼日利亚提供了潜在的经验教训，Cardoso说，并补充说CBN有兴趣进行两国机构之间的同行审查和交流。他透露，初步讨论已在年会期间在领导层层面进行，计划访问中国期间将进行更详细的接触。“所以我们在这里的第一次接触是高层的接触。然后一旦我们去中国，人们将卷起袖子，深入细节，讨论什么有意义，什么没有，”Cardoso说。CBN行长还指出，中国和其他亚洲投资者有可能增加对尼日利亚金融工具的敞口，并指出尽管该地区市场有大量流动性，但来自该地区的投资仍然有限。他说，尼日利亚改善的宏观经济稳定性可以通过减少以前阻碍长期投资的货币风险来帮助改变这种模式。“由于我们在市场中发现的稳定性，获得长期奈拉资本的机会已天文数字般增加，”Cardoso说。他引用尼日利亚官方和平行外汇汇率之间差距缩小作为改善的证据，并表示此前曾达到约60%的溢价已下降到约3%至4%。他说，汇率扭曲的减少缓解了金融机构寻求开发长期奈拉计价融资产品的主要障碍。Cardoso还强调了银行业资本重组工作作为加强尼日利亚金融系统并提高其支持经济增长能力的一部分，该工作筹集了4.65万亿奈拉，其中刚好超过70%的资金来自国内投资者。Cardoso表示，CBN的责任是维持货币和价格稳定，而开发性金融机构应将资本引导到经济的生产部门。他指出非洲金融公司（AFC）——他现在担任主席——工业银行（BOI）和尼日利亚开发银行（DBN）作为随着市场条件改善而有望发挥更大作用以动员融资的机构。行长表示，CBN将与AFC更密切合作，以加强其在尼日利亚和整个非洲动员资源的能力。Cardoso还强调了政策一致性和透明度在维持投资者信心方面的重要性，并表示国际投资者密切关注经济发展和决策者的决定。他的评论是在尼日利亚寻求将宏观经济指标的近期改善转化为更强的投资和经济增长之际发表的。根据Cardoso在早些时候的讲话中引用的数据， headline通胀率在2026年9月降至14.63%，而外汇储备已升至550亿美元以上。CBN行长表示，巩固这些成果将需要持续的政策纪律、更强的机构以及与国际伙伴的更密切合作。他对与中国和其他亚洲经济体加强金融联系可能开辟投资、贸易融资和支付系统合作新渠道表示乐观。"
   },
   {
-   "title": "China’s Yadea plans electric bike manufacturing plant in Pun - Profit by Pakistan Today",
-   "url": "https://profit.pakistantoday.com.pk/2026/10/18/chinas-yadea-eyes-sixth-global-ev-manufacturing-plant-in-punjab",
-   "domain": "profit.pakistantoday.com.pk",
-   "source": "profit.pakistantoday.com.pk",
-   "published": "Sun, 18 Oct 2026 12:49:56 GMT",
-   "_dt": 1792327796.0,
-   "ageDays": 1.85,
-   "summary": "China’s Yadea plans electric bike manufacturing plant in Pun - Profit by Pakistan Today",
-   "summary_zh": "中国雅迪计划在旁遮普设立电动自行车制造工厂 - Profit by Pakistan Today",
-   "summarySource": "index",
-   "body": "China’s Yadea plans electric bike manufacturing plant in Pun - Profit by Pakistan Today",
-   "bodyLevel": "excerpt",
-   "country": [
-    "af",
-    "mm"
-   ],
-   "topic": [
-    "eco"
-   ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
-   "score": 0.0,
-   "tag": "cn_mm",
-   "title_zh": "中国雅迪计划在旁遮普设立电动自行车制造工厂 - Profit by Pakistan Today",
-   "body_zh": "中国雅迪计划在旁遮普设立电动自行车制造工厂 - Profit by Pakistan Today"
-  },
-  {
-   "title": "India’s Middle Power Problem: Hedging Between Russia’s Decline and China’s Rise - SLDinfo.com",
-   "url": "https://sldinfo.com/2026/10/indias-middle-power-problem-hedging-between-russias-decline-and-chinas-rise/",
-   "domain": "sldinfo.com",
-   "source": "sldinfo.com",
-   "published": "Sun, 18 Oct 2026 10:12:13 GMT",
-   "_dt": 1792318333.0,
-   "ageDays": 1.96,
-   "summary": "India’s Middle Power Problem: Hedging Between Russia’s Decline and China’s Rise - SLDinfo.com",
-   "summary_zh": "印度的中等强国问题：在俄罗斯衰落和中国崛起之间对冲 - SLDinfo.com",
-   "summarySource": "index",
-   "body": "India’s Middle Power Problem: Hedging Between Russia’s Decline and China’s Rise - SLDinfo.com",
-   "bodyLevel": "excerpt",
-   "country": [
-    "ru",
-    "in"
-   ],
-   "topic": [
-    "pol"
-   ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
-   "score": 0.0,
-   "tag": "cn_ru",
-   "title_zh": "印度的中等强国问题：在俄罗斯衰落和中国崛起之间对冲 - SLDinfo.com",
-   "body_zh": "印度的中等强国问题：在俄罗斯衰落和中国崛起之间对冲 - SLDinfo.com"
-  },
-  {
    "title": "Trump Needs More Time to Assess Impact of Russian Sanctions, Rubio Says",
    "url": "https://www.themoscowtimes.com/2026/10/18/trump-needs-more-time-to-assess-impact-of-russian-sanctions-rubio-says-a94014",
    "domain": "themoscowtimes.com",
    "source": "themoscowtimes.com",
    "published": "Sun, 18 Oct 2026 11:19:00 +0300",
    "_dt": 1792311540.0,
-   "ageDays": 2.05,
+   "ageDays": 2.06,
    "summary": "“A lot of you don’t know what my decision is yet, but we’ll figure it out, and you’ll figure it out,” Trump told reporters over the weekend.",
    "summary_zh": "“你们很多人还不知道我的决定是什么，但我们会弄清楚，你们也会弄清楚，”特朗普周末对记者说。",
    "summarySource": "index",
@@ -4956,6 +5654,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_moscowtimes",
    "title_zh": "鲁比奥称特朗普需要更多时间评估俄罗斯制裁的影响",
@@ -4968,7 +5667,7 @@ window.SITE_DATA = {
    "source": "alcircle.com",
    "published": "Sun, 18 Oct 2026 07:00:00 GMT",
    "_dt": 1792306800.0,
-   "ageDays": 2.1,
+   "ageDays": 2.11,
    "summary": "Ghana urged to unlock bauxite export opportunities through China and AfCFTA; Aluminium Extrusion, Profiles, Price, Scrap, Recycling, Section",
    "summary_zh": "加纳被敦促通过中国和AfCFTA释放铝土矿出口机会；铝挤压、型材、价格、废料、回收、型材",
    "summarySource": "index",
@@ -4999,11 +5698,11 @@ window.SITE_DATA = {
    "source": "stratnewsglobal.com",
    "published": "Sun, 18 Oct 2026 05:30:07 GMT",
    "_dt": 1792301407.0,
-   "ageDays": 2.16,
+   "ageDays": 2.17,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "in"
@@ -5016,10 +5715,11 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.0,
    "tag": "cn_in",
-   "title_zh": "印度-中国关系可能稳定，但风险依然存在",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "印度-中国关系可能稳定，但风险依然存在"
   },
   {
    "title": "China dares PH: Tag our envoy ‘persona non grata’",
@@ -5028,7 +5728,7 @@ window.SITE_DATA = {
    "source": "inquirer.net",
    "published": "Sun, 18 Oct 2026 05:30:00 +0000",
    "_dt": 1792301400.0,
-   "ageDays": 2.16,
+   "ageDays": 2.17,
    "summary": "MANILA, Philippines — The diplomatic row between the Philippines and China over recent remarks by Chinese Ambassador Jing Quan has spread beyond the executive branch as the Chinese Embassy challenged lawmakers to declare him “persona non grata” and accused journalists and politicians of exaggerating tensions between the two countries. On its Facebook page, the embassy",
    "summary_zh": "马尼拉，菲律宾——菲律宾和中国之间因中国大使景泉最近言论而引发的外交争执已超出行政部门范围，中国大使馆要求议员宣布他为“不受欢迎的人”，并指责记者和政界人士夸大两国之间的紧张关系。在其Facebook页面上，大使馆",
    "summarySource": "index",
@@ -5045,6 +5745,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_inquirer",
    "title_zh": "中国向菲律宾发出挑战：将我方使节列为“不受欢迎的人”",
@@ -5057,7 +5758,7 @@ window.SITE_DATA = {
    "source": "BusinessDay（尼日利亚）",
    "published": "Sun, 18 Oct 2026 03:00:00 GMT",
    "_dt": 1792292400.0,
-   "ageDays": 2.27,
+   "ageDays": 2.28,
    "summary": "Chinese fintechs rule as Nigeria’s mobile money value jumps 29-fold",
    "summary_zh": "中国金融科技公司主导市场，尼日利亚移动货币价值增长29倍",
    "summarySource": "index",
@@ -5087,11 +5788,11 @@ window.SITE_DATA = {
    "source": "genocidewatch.com",
    "published": "Sat, 17 Oct 2026 22:00:00 GMT",
    "_dt": 1792274400.0,
-   "ageDays": 2.48,
-   "summary": "China Expands Its Military Reach by Building a Base in Laos",
-   "summary_zh": "中国通过在老挝建基地扩大其军事影响力",
+   "ageDays": 2.49,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "China Expands Its Military Reach by Building a Base in Laos",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "la"
@@ -5102,13 +5803,13 @@ window.SITE_DATA = {
    "tier": 1,
    "actor": "中国",
    "alsoUS": false,
-   "score": 0.0,
-   "tag": "cn_la",
-   "title_zh": "中国通过在老挝建基地扩大其军事影响力",
-   "body_zh": "中国通过在老挝建基地扩大其军事影响力",
    "cnHit": true,
    "usHit": false,
-   "terrHit": false
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "cn_la",
+   "body_zh": "",
+   "title_zh": "中国通过在老挝建基地扩大其军事影响力"
   },
   {
    "title": "Sahel Jihadist Rivalry Becomes a Regional War in 2026",
@@ -5117,11 +5818,11 @@ window.SITE_DATA = {
    "source": "riotimesonline.com",
    "published": "Sat, 17 Oct 2026 21:27:46 GMT",
    "_dt": 1792272466.0,
-   "ageDays": 2.5,
+   "ageDays": 2.51,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "ne",
@@ -5139,7 +5840,7 @@ window.SITE_DATA = {
    "score": 0.0,
    "tag": "ter_sahel",
    "title_zh": "萨赫勒圣战组织竞争在2026年成为地区战争",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": ""
   },
   {
    "title": "Map China And Russia: Decoding The Strategic Alignment And Geopolitical Ripples - District of Elkford",
@@ -5148,7 +5849,7 @@ window.SITE_DATA = {
    "source": "staging.elkford.ca",
    "published": "Sat, 17 Oct 2026 19:17:45 GMT",
    "_dt": 1792264665.0,
-   "ageDays": 2.59,
+   "ageDays": 2.6,
    "summary": "Map China And Russia: Decoding The Strategic Alignment And Geopolitical Ripples - District of Elkford",
    "summary_zh": "映射中国和俄罗斯：解码战略结盟与地缘政治涟漪 - 埃尔克福德区",
    "summarySource": "index",
@@ -5178,7 +5879,7 @@ window.SITE_DATA = {
    "source": "inquirer.net",
    "published": "Sat, 17 Oct 2026 16:46:39 +0000",
    "_dt": 1792255599.0,
-   "ageDays": 2.69,
+   "ageDays": 2.7,
    "summary": "MANILA, Philippines — More senators are calling on Chinese Ambassador Jing Quan to go back to Beijing after the Chinese embassy dared Filipino lawmakers to declare its envoy persona non grata amid a diplomatic row over his remarks about using force against the Philippines. Sen. JV Ejercito posted a video on his official Facebook page telling Quan, in",
    "summary_zh": "马尼拉，菲律宾——在因中国大使关于对菲律宾使用武力的言论引发的外交争端中，中国大使馆竟敢挑战菲律宾议员宣布其使节为不受欢迎的人，更多参议员呼吁中国大使景泉返回北京。参议员JV Ejercito在其官方Facebook页面发布了一段视频，告诉景泉，",
    "summarySource": "index",
@@ -5195,6 +5896,7 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "score": 0.6,
    "tag": "rss_inquirer",
    "title_zh": "潘吉里南、埃赫西托对中国使节景泉说：回家",
@@ -5207,40 +5909,11 @@ window.SITE_DATA = {
    "source": "Premium Times（尼日利亚）",
    "published": "Sat, 17 Oct 2026 14:41:51 GMT",
    "_dt": 1792248111.0,
-   "ageDays": 2.78,
+   "ageDays": 2.79,
    "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
    "summarySource": "index",
-   "body": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
-   "bodyLevel": "excerpt",
-   "country": [
-    "ng"
-   ],
-   "topic": [
-    "ene"
-   ],
-   "tier": 2,
-   "actor": "美国",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": true,
-   "score": 0.0,
-   "tag": "cn_ru",
-   "title_zh": "可能帮助阻止特朗普俄罗斯柴油交易的共和党人 - 新闻周刊",
-   "body_zh": "可能帮助阻止特朗普俄罗斯柴油交易的共和党人 - 新闻周刊"
-  },
-  {
-   "title": "Nigeria's health partnership with the US: National sovereignty and domestic financing, By Muhammad Ali Pate",
-   "url": "https://www.premiumtimesng.com/opinion/917803-nigerias-health-partnership-with-the-us-national-sovereignty-and-domestic-financing-by-muhammad-ali-pate.html",
-   "domain": "premiumtimesng.com",
-   "source": "Premium Times（尼日利亚）",
-   "published": "Sat, 17 Oct 2026 14:41:51 GMT",
-   "_dt": 1792248111.0,
-   "ageDays": 2.77,
-   "summary": "Nigeria's health partnership with the US: National sovereignty and domestic financing, By Muhammad Ali Pate",
-   "summary_zh": "尼日利亚与美国的卫生伙伴关系：国家主权与国内融资，穆罕默德·阿里·帕特撰",
-   "summarySource": "index",
-   "body": "Nigeria's health partnership with the US: National sovereignty and domestic financing, By Muhammad Ali Pate",
+   "body": "",
    "bodyLevel": "excerpt",
    "country": [
     "ng"
@@ -5256,8 +5929,39 @@ window.SITE_DATA = {
    "terrHit": false,
    "score": 0.0,
    "tag": "us_ng",
-   "title_zh": "尼日利亚与美国的卫生伙伴关系：国家主权与国内融资，由Muhammad Ali Pate撰写",
-   "body_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
+   "body_zh": "",
+   "title_zh": "尼日利亚与美国的卫生伙伴关系：国家主权与国内融资，由Muhammad Ali Pate撰写"
+  },
+  {
+   "title": "The US Army is growing its space forces. They're already in combat. - Business Insider",
+   "url": "https://www.businessinsider.com/us-army-growing-its-own-force-of-space-warfare-soldiers-2026-10",
+   "domain": "businessinsider.com",
+   "source": "businessinsider.com",
+   "published": "Sat, 17 Oct 2026 11:07:01 GMT",
+   "_dt": 1792235221.0,
+   "ageDays": 2.94,
+   "summary": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summary_zh": "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "gh"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 2,
+   "actor": "美国",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": true,
+   "terrHit": false,
+   "score": 0.0,
+   "tag": "us_gh",
+   "body_zh": "",
+   "title_zh": "美国陆军正在壮大其太空部队。他们已经在作战。 - Business Insider"
   }
  ],
  "social": [
@@ -5282,7 +5986,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.41,
+   "ageDays": 0.42,
    "_ts": 1792453345.895,
    "postedAt": "2026-10-20 07:42",
    "hasBody": true,
@@ -5315,7 +6019,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.41,
+   "ageDays": 0.42,
    "_ts": 1792453054.094,
    "postedAt": "2026-10-20 07:37",
    "hasBody": true,
@@ -5348,7 +6052,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.41,
+   "ageDays": 0.42,
    "_ts": 1792452964.39,
    "postedAt": "2026-10-20 07:36",
    "hasBody": true,
@@ -5383,7 +6087,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.42,
+   "ageDays": 0.43,
    "_ts": 1792451986.478,
    "postedAt": "2026-10-20 07:19",
    "hasBody": true,
@@ -5416,7 +6120,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.42,
+   "ageDays": 0.43,
    "_ts": 1792451925.959,
    "postedAt": "2026-10-20 07:18",
    "hasBody": true,
@@ -5449,7 +6153,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.45,
+   "ageDays": 0.46,
    "_ts": 1792449901.897,
    "postedAt": "2026-10-20 06:45",
    "hasBody": true,
@@ -5483,7 +6187,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.45,
+   "ageDays": 0.46,
    "_ts": 1792449420.292,
    "postedAt": "2026-10-20 06:37",
    "hasBody": true,
@@ -5516,7 +6220,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.46,
+   "ageDays": 0.47,
    "_ts": 1792449001.12,
    "postedAt": "2026-10-20 06:30",
    "hasBody": true,
@@ -5549,7 +6253,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 0.47,
+   "ageDays": 0.48,
    "_ts": 1792447560.873,
    "postedAt": "2026-10-20 06:06",
    "hasBody": true,
@@ -5583,7 +6287,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.49,
+   "ageDays": 0.5,
    "_ts": 1792445860.285,
    "postedAt": "2026-10-20 05:37",
    "hasBody": true,
@@ -5616,7 +6320,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.51,
+   "ageDays": 0.52,
    "_ts": 1792444703.386,
    "postedAt": "2026-10-20 05:18",
    "hasBody": true,
@@ -5649,7 +6353,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.51,
+   "ageDays": 0.52,
    "_ts": 1792444435.281,
    "postedAt": "2026-10-20 05:13",
    "hasBody": true,
@@ -5682,7 +6386,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.51,
+   "ageDays": 0.52,
    "_ts": 1792444238.281,
    "postedAt": "2026-10-20 05:10",
    "hasBody": true,
@@ -5718,7 +6422,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.52,
+   "ageDays": 0.53,
    "_ts": 1792443428.406,
    "postedAt": "2026-10-20 04:57",
    "hasBody": true,
@@ -5751,7 +6455,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.54,
+   "ageDays": 0.55,
    "_ts": 1792442100.241,
    "postedAt": "2026-10-20 04:35",
    "hasBody": true,
@@ -5784,7 +6488,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.56,
+   "ageDays": 0.57,
    "_ts": 1792440334.71,
    "postedAt": "2026-10-20 04:05",
    "hasBody": true,
@@ -5817,7 +6521,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.56,
+   "ageDays": 0.57,
    "_ts": 1792440099.478,
    "postedAt": "2026-10-20 04:01",
    "hasBody": true,
@@ -5851,7 +6555,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 0.56,
+   "ageDays": 0.57,
    "_ts": 1792440052.365,
    "postedAt": "2026-10-20 04:00",
    "hasBody": true,
@@ -5884,7 +6588,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.56,
+   "ageDays": 0.57,
    "_ts": 1792440033.41,
    "postedAt": "2026-10-20 04:00",
    "hasBody": true,
@@ -5917,7 +6621,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.56,
+   "ageDays": 0.57,
    "_ts": 1792439818.37,
    "postedAt": "2026-10-20 03:56",
    "hasBody": true,
@@ -5950,7 +6654,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.58,
+   "ageDays": 0.59,
    "_ts": 1792438451.466,
    "postedAt": "2026-10-20 03:34",
    "hasBody": true,
@@ -5961,6 +6665,39 @@ window.SITE_DATA = {
    "title_zh": "马里梅纳卡的恐怖：昨天EIGS（巴马科的盟友）屠杀了超过70名年轻的图阿雷格Idaksahak 超过70名年轻的图阿雷格",
    "snippet_zh": "马里梅纳卡的恐怖事件：超过70名图阿雷格伊达克萨哈克青年昨天被伊斯兰国西非省（EIGS）屠杀，该组织是巴马科的盟友\n\n超过70名来自伊达克萨哈克社区的图阿雷格青年于昨天星期日10月18日被伊斯兰国集团冷血暗杀，这是对由阿西米·戈伊塔军政府赞助的MSA民兵在伊纳拉巴内发动袭击的报复。\n\n据同行媒体萨赫勒警报报道，在这次屠杀中妇女和儿童被饶过，尽管数百处住宅被焚烧，许多牲畜被盗。\n\n需要指出的是，MSA和伊斯兰国西非省都是巴马科俄罗斯非洲纳粹政权的盟友，并得到俄罗斯殖民者及其无国籍的俄罗斯非洲军政府总督的直接支持。",
    "body_zh": "马里梅纳卡的恐怖事件：超过70名图阿雷格伊达克萨哈克青年昨天被伊斯兰国西非省（EIGS）屠杀，该组织是巴马科的盟友\n\n超过70名来自伊达克萨哈克社区的图阿雷格青年于昨天星期日10月18日被伊斯兰国集团冷血暗杀，这是对由阿西米·戈伊塔军政府赞助的MSA民兵在伊纳拉巴内发动袭击的报复。\n\n据同行媒体萨赫勒警报报道，在这次屠杀中妇女和儿童被饶过，尽管数百处住宅被焚烧，许多牲畜被盗。\n\n需要指出的是，MSA和伊斯兰国西非省都是巴马科俄罗斯非洲纳粹政权的盟友，并得到俄罗斯殖民者及其无国籍的俄罗斯非洲军政府总督的直接支持。"
+  },
+  {
+   "platform": "x",
+   "title": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris.",
+   "url": "https://x.com/villageois99/status/2112265622101045667",
+   "snippet": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris. La route nationale 20 reliant à Ansongo est coupée. Le domicile d'un commandant de milice msa @Mossa_ag a été pris pour cible lors de l'offensive de l'État islamique dans la région \n#Mali\n#Sahel",
+   "body": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris. La route nationale 20 reliant à Ansongo est coupée. Le domicile d'un commandant de milice msa @Mossa_ag a été pris pour cible lors de l'offensive de l'État islamique dans la région \n#Mali\n#Sahel",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@villageois99",
+   "country": [
+    "ml"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": true,
+   "ageDays": 0.59,
+   "_ts": 1792438342.963,
+   "postedAt": "2026-10-20 03:32",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_ter_ml",
+   "title_zh": "伊斯兰国#EIGS #EI的战斗人员重新夺取了#Menaka的总部。",
+   "snippet_zh": "伊斯兰国#EIGS #EI战斗人员重新夺取#梅纳卡总部。连接安松戈的国家20号公路被切断。在伊斯兰国对该地区的攻势中，一名MSA民兵指挥官@Mossa_ag的住所成为攻击目标\n#马里\n#萨赫勒",
+   "body_zh": "伊斯兰国#EIGS #EI战斗人员重新夺取#梅纳卡总部。连接安松戈的国家20号公路被切断。在伊斯兰国对该地区的攻势中，一名MSA民兵指挥官@Mossa_ag的住所成为攻击目标\n#马里\n#萨赫勒"
   },
   {
    "platform": "x",
@@ -5983,7 +6720,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": true,
-   "ageDays": 0.58,
+   "ageDays": 0.59,
    "_ts": 1792438264.781,
    "postedAt": "2026-10-20 03:31",
    "hasBody": true,
@@ -6016,7 +6753,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.59,
+   "ageDays": 0.6,
    "_ts": 1792437657.711,
    "postedAt": "2026-10-20 03:20",
    "hasBody": true,
@@ -6050,7 +6787,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 0.6,
+   "ageDays": 0.61,
    "_ts": 1792436966.518,
    "postedAt": "2026-10-20 03:09",
    "hasBody": true,
@@ -6083,7 +6820,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.6,
+   "ageDays": 0.61,
    "_ts": 1792436910.76,
    "postedAt": "2026-10-20 03:08",
    "hasBody": true,
@@ -6116,7 +6853,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.6,
+   "ageDays": 0.61,
    "_ts": 1792436448.63,
    "postedAt": "2026-10-20 03:00",
    "hasBody": true,
@@ -6149,7 +6886,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.63,
+   "ageDays": 0.64,
    "_ts": 1792434192.322,
    "postedAt": "2026-10-20 02:23",
    "hasBody": true,
@@ -6183,7 +6920,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.63,
+   "ageDays": 0.64,
    "_ts": 1792433711.252,
    "postedAt": "2026-10-20 02:15",
    "hasBody": true,
@@ -6218,7 +6955,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.65,
+   "ageDays": 0.66,
    "_ts": 1792432665.553,
    "postedAt": "2026-10-20 01:57",
    "hasBody": true,
@@ -6251,7 +6988,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.65,
+   "ageDays": 0.66,
    "_ts": 1792432282.164,
    "postedAt": "2026-10-20 01:51",
    "hasBody": true,
@@ -6283,7 +7020,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
-   "ageDays": 0.64,
+   "terrHit": false,
+   "ageDays": 0.66,
    "_ts": 1792432141.742,
    "postedAt": "2026-10-20 01:49",
    "hasBody": true,
@@ -6291,9 +7029,9 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_cn_ml",
-   "title_zh": "祝贺 S.E. 女士 Oumou SALL SECK 成功访华并参加世界发展会议",
-   "snippet_zh": "祝贺 S.E. Mme Oumou SALL SECK 成功访华并参加 2026 年世界职业技术教育发展大会，并取得一系列积极成果。",
-   "body_zh": "祝贺 S.E. Mme Oumou SALL SECK 成功访华并参加 2026 年世界职业技术教育发展大会，并取得一系列积极成果。"
+   "title_zh": "祝贺S.E. Mme Oumou SALL SECK成功访华并参加世界发展会议",
+   "snippet_zh": "祝贺Oumou SALL SECK阁下成功访华并参加2026年世界职业技术教育发展大会，并取得一系列积极成果。",
+   "body_zh": "祝贺Oumou SALL SECK阁下成功访华并参加2026年世界职业技术教育发展大会，并取得一系列积极成果。"
   },
   {
    "platform": "x",
@@ -6317,7 +7055,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.65,
+   "ageDays": 0.66,
    "_ts": 1792431942.307,
    "postedAt": "2026-10-20 01:45",
    "hasBody": true,
@@ -6351,7 +7089,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.67,
+   "ageDays": 0.68,
    "_ts": 1792430467.433,
    "postedAt": "2026-10-20 01:21",
    "hasBody": true,
@@ -6383,7 +7121,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
-   "ageDays": 0.66,
+   "terrHit": false,
+   "ageDays": 0.68,
    "_ts": 1792430142.232,
    "postedAt": "2026-10-20 01:15",
    "hasBody": true,
@@ -6391,9 +7130,9 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_us_ng",
-   "title_zh": "总领事布兰登·哈兹佩斯对来自30个国家和组织的海军领导人说：不要将进展误认为是永久。",
-   "snippet_zh": "总领事 Brandon Hudspeth 对来自 30 个国家和组织的海军领导人表示：不要将进展误认为是永久。恶意行为者会适应，因此国际回应也必须适应。\n\n在拉各斯开幕的第三届跨大西洋海上安全研讨会中，他指出几内亚湾是协调的国家、区域和全球努力所能取得成果的证明。为期四天的活动重点是加强雅温得行为守则和深化联合巡逻。该活动由国家国防大学的非洲战略研究中心和威廉·J·佩里半球防务研究中心组织。",
-   "body_zh": "总领事 Brandon Hudspeth 对来自 30 个国家和组织的海军领导人表示：不要将进展误认为是永久。恶意行为者会适应，因此国际回应也必须适应。\n\n在拉各斯开幕的第三届跨大西洋海上安全研讨会中，他指出几内亚湾是协调的国家、区域和全球努力所能取得成果的证明。为期四天的活动重点是加强雅温得行为守则和深化联合巡逻。该活动由国家国防大学的非洲战略研究中心和威廉·J·佩里半球防务研究中心组织。"
+   "title_zh": "总领事布兰登·哈兹佩斯对来自30个国家和组织的海军领导人说：不要把进展误认为是永久。",
+   "snippet_zh": "总领事Brandon Hudspeth对来自30个国家和组织的海军领导人表示：不要将进展误认为永久。恶意行为者会适应，因此国际回应也必须适应。\n\n在拉各斯开幕的第三届跨大西洋海上安全研讨会上，他指出几内亚湾证明了国家、区域和全球协调努力所能取得的成果。为期四天的活动重点是加强雅温得行为守则和深化联合巡逻。该活动由国防大学非洲战略研究中心和William J. Perry半球防务研究中心组织。",
+   "body_zh": "总领事Brandon Hudspeth对来自30个国家和组织的海军领导人表示：不要将进展误认为永久。恶意行为者会适应，因此国际回应也必须适应。\n\n在拉各斯开幕的第三届跨大西洋海上安全研讨会上，他指出几内亚湾证明了国家、区域和全球协调努力所能取得的成果。为期四天的活动重点是加强雅温得行为守则和深化联合巡逻。该活动由国防大学非洲战略研究中心和William J. Perry半球防务研究中心组织。"
   },
   {
    "platform": "x",
@@ -6418,7 +7157,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.68,
+   "ageDays": 0.69,
    "_ts": 1792429587.53,
    "postedAt": "2026-10-20 01:06",
    "hasBody": true,
@@ -6453,7 +7192,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.69,
+   "ageDays": 0.7,
    "_ts": 1792429117.871,
    "postedAt": "2026-10-20 00:58",
    "hasBody": true,
@@ -6487,7 +7226,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.69,
+   "ageDays": 0.7,
    "_ts": 1792428566.942,
    "postedAt": "2026-10-20 00:49",
    "hasBody": true,
@@ -6521,7 +7260,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
-   "ageDays": 0.68,
+   "terrHit": false,
+   "ageDays": 0.7,
    "_ts": 1792428468.491,
    "postedAt": "2026-10-20 00:47",
    "hasBody": true,
@@ -6529,9 +7269,9 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_cn_ph",
-   "title_zh": "一段时间以来，菲律宾一直在绞尽脑汁，想出各种方法在南海骚扰和挑衅中国。",
-   "snippet_zh": "一段时间以来，菲律宾一直在绞尽脑汁，想出各种方式在南海骚扰和挑衅中国。从多年前故意让一艘破旧军舰“搁浅”，到2016年推动一场荒谬的仲裁案，再到最近其渔船和执法船只闯入中国岛礁周边海域——同时塑造“受害者”形象并诽谤中国驻菲律宾大使——这些行动只会招致中国的有力反制。很明显，菲律宾的策略已经达到极限。剩下的唯一选择——在其主子的授意下实施——将是试探武装“意外”冲突的可能性、干涉台湾问题，或采取驱逐中国大使并与中国断绝外交关系的极端步骤。",
-   "body_zh": "一段时间以来，菲律宾一直在绞尽脑汁，想出各种方式在南海骚扰和挑衅中国。从多年前故意让一艘破旧军舰“搁浅”，到2016年推动一场荒谬的仲裁案，再到最近其渔船和执法船只闯入中国岛礁周边海域——同时塑造“受害者”形象并诽谤中国驻菲律宾大使——这些行动只会招致中国的有力反制。很明显，菲律宾的策略已经达到极限。剩下的唯一选择——在其主子的授意下实施——将是试探武装“意外”冲突的可能性、干涉台湾问题，或采取驱逐中国大使并与中国断绝外交关系的极端步骤。"
+   "title_zh": "一段时间以来，菲律宾一直在绞尽脑汁，想出各种方式在南海骚扰和挑衅中国。",
+   "snippet_zh": "一段时间以来，菲律宾一直在绞尽脑汁，想出各种方法在南海骚扰和挑衅中国。从多年前故意让一艘破旧军舰“搁浅”，到2016年推动一场荒谬的仲裁案，再到最近其渔船和执法船只闯入中国岛礁周边海域——同时塑造“受害者”形象并诽谤中国驻菲律宾大使——这些行动只会招致中国的有力反制。很明显，菲律宾的策略已经达到极限。剩下的唯一选择——在其主子的授意下进行——将是试探武装“意外”冲突的可能性、干涉台湾问题，或采取驱逐中国大使并与中国断绝外交关系的极端步骤。",
+   "body_zh": "一段时间以来，菲律宾一直在绞尽脑汁，想出各种方法在南海骚扰和挑衅中国。从多年前故意让一艘破旧军舰“搁浅”，到2016年推动一场荒谬的仲裁案，再到最近其渔船和执法船只闯入中国岛礁周边海域——同时塑造“受害者”形象并诽谤中国驻菲律宾大使——这些行动只会招致中国的有力反制。很明显，菲律宾的策略已经达到极限。剩下的唯一选择——在其主子的授意下进行——将是试探武装“意外”冲突的可能性、干涉台湾问题，或采取驱逐中国大使并与中国断绝外交关系的极端步骤。"
   },
   {
    "platform": "x",
@@ -6554,7 +7294,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.7,
+   "ageDays": 0.71,
    "_ts": 1792428365.175,
    "postedAt": "2026-10-20 00:46",
    "hasBody": true,
@@ -6587,7 +7327,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
-   "ageDays": 0.69,
+   "terrHit": false,
+   "ageDays": 0.71,
    "_ts": 1792427934.051,
    "postedAt": "2026-10-20 00:38",
    "hasBody": true,
@@ -6596,8 +7337,8 @@ window.SITE_DATA = {
    "note": "",
    "tag": "soc_us_sahel",
    "title_zh": "🇧🇫🇲🇱🇳🇪 呼吁对#AES实施新的美国制裁引发了一个更大的问题：#经济压力真的能决定#主权国家的#未来吗",
-   "snippet_zh": "🇧🇫🇲🇱🇳🇪 呼吁对#AES实施新的美国制裁引发了一个更大的问题：#经济压力真的能决定#主权国家 的#未来吗？尽管面临外部#压力，布基纳法索仍在继续走自己的道路。这场辩论远未结束。🌍",
-   "body_zh": "🇧🇫🇲🇱🇳🇪 呼吁对#AES实施新的美国制裁引发了一个更大的问题：#经济压力真的能决定#主权国家 的#未来吗？尽管面临外部#压力，布基纳法索仍在继续走自己的道路。这场辩论远未结束。🌍"
+   "snippet_zh": "🇧🇫🇲🇱🇳🇪 呼吁对#AES实施新的美国制裁引发了一个更大的问题：#经济压力真的能决定#主权国家的#未来吗？尽管面临外部#压力，布基纳法索仍在继续追求自己的道路。这场辩论远未结束。🌍",
+   "body_zh": "🇧🇫🇲🇱🇳🇪 呼吁对#AES实施新的美国制裁引发了一个更大的问题：#经济压力真的能决定#主权国家的#未来吗？尽管面临外部#压力，布基纳法索仍在继续追求自己的道路。这场辩论远未结束。🌍"
   },
   {
    "platform": "x",
@@ -6621,7 +7362,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.7,
+   "ageDays": 0.71,
    "_ts": 1792427907.673,
    "postedAt": "2026-10-20 00:38",
    "hasBody": true,
@@ -6653,7 +7394,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": true,
-   "ageDays": 0.69,
+   "terrHit": false,
+   "ageDays": 0.71,
    "_ts": 1792427852.659,
    "postedAt": "2026-10-20 00:37",
    "hasBody": true,
@@ -6661,7 +7403,7 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_us_sahel",
-   "title_zh": "🇺🇸🇲🇱 2021年，美国根据美马里文化财产协定向马里归还了900多件文物。今天，国家博物馆合",
+   "title_zh": "🇺🇸🇲🇱 2021年，美国根据美马里文化财产协定向马里归还900多件文化物品。今天，国家博物馆合……",
    "snippet_zh": "🇺🇸🇲🇱 2021年，美国根据《美国-马里文化财产协定》向马里归还了900多件文化物品。\n今天，国家博物馆继续对这些珍宝进行编目和保护。🤝\n保护遗产，加强伙伴关系！\n#USMaliPartnership #CPA",
    "body_zh": "🇺🇸🇲🇱 2021年，美国根据《美国-马里文化财产协定》向马里归还了900多件文化物品。\n今天，国家博物馆继续对这些珍宝进行编目和保护。🤝\n保护遗产，加强伙伴关系！\n#USMaliPartnership #CPA"
   },
@@ -6687,7 +7429,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": true,
-   "ageDays": 0.7,
+   "ageDays": 0.71,
    "_ts": 1792427735.971,
    "postedAt": "2026-10-20 00:35",
    "hasBody": true,
@@ -6721,7 +7463,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.71,
+   "ageDays": 0.72,
    "_ts": 1792427468.698,
    "postedAt": "2026-10-20 00:31",
    "hasBody": true,
@@ -6755,7 +7497,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.71,
+   "ageDays": 0.72,
    "_ts": 1792427061.482,
    "postedAt": "2026-10-20 00:24",
    "hasBody": true,
@@ -6788,7 +7530,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.71,
+   "ageDays": 0.72,
    "_ts": 1792426802.836,
    "postedAt": "2026-10-20 00:20",
    "hasBody": true,
@@ -6799,6 +7541,40 @@ window.SITE_DATA = {
    "title_zh": "似乎在梅纳卡附近，忠于马里政权的图阿雷格人以某种方式刺激了伊斯兰国，以至于反击非常残酷，而巴马科",
    "snippet_zh": "似乎在梅纳卡附近，忠于马里政权的图阿雷格人以某种方式刺激了伊斯兰国，以至于反击非常残酷，巴马科进行了多次空袭进行防御。圣战分子的报复规模巨大，但伤亡人数需要确认。",
    "body_zh": "似乎在梅纳卡附近，忠于马里政权的图阿雷格人以某种方式刺激了伊斯兰国，以至于反击非常残酷，巴马科进行了多次空袭进行防御。圣战分子的报复规模巨大，但伤亡人数需要确认。"
+  },
+  {
+   "platform": "x",
+   "title": "🚨 JUST IN: 🇨🇳 China Restricts Tunnel-Boring Machine Exports Sought by 🇮🇳 India China has announced export controls on tunnel-boring machines",
+   "url": "https://x.com/beatsinbrief/status/2112209382402605457",
+   "snippet": "🚨 JUST IN: 🇨🇳 China Restricts Tunnel-Boring Machine Exports Sought by 🇮🇳 India\n\nChina has announced export controls on tunnel-boring machines, citing national security, with restrictions taking effect on November 18. \n\nThe move could affect India’s infrastructure projects, including metro, rail and border tunnels, as India relies on imported machines and has already faced delays in securing them from China.",
+   "body": "🚨 JUST IN: 🇨🇳 China Restricts Tunnel-Boring Machine Exports Sought by 🇮🇳 India\n\nChina has announced export controls on tunnel-boring machines, citing national security, with restrictions taking effect on November 18. \n\nThe move could affect India’s infrastructure projects, including metro, rail and border tunnels, as India relies on imported machines and has already faced delays in securing them from China.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@beatsinbrief",
+   "country": [
+    "in"
+   ],
+   "topic": [
+    "eco",
+    "sec"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.74,
+   "_ts": 1792424934.374,
+   "postedAt": "2026-10-19 23:48",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_in",
+   "title_zh": "🚨 最新：🇨🇳 中国限制🇮🇳印度寻求的隧道掘进机出口 中国已宣布对隧道掘进机实施出口管制",
+   "snippet_zh": "🚨 最新消息: 🇨🇳 中国限制向 🇮🇳 印度出口隧道掘进机\n\n中国已宣布对隧道掘进机实施出口管制，理由是国家安全，限制措施将于11月18日生效。\n\n此举可能影响印度的基础设施项目，包括地铁、铁路和边境隧道，因为印度依赖进口机器，并且此前在从中国获取这些机器时已经面临延误。",
+   "body_zh": "🚨 最新消息: 🇨🇳 中国限制向 🇮🇳 印度出口隧道掘进机\n\n中国已宣布对隧道掘进机实施出口管制，理由是国家安全，限制措施将于11月18日生效。\n\n此举可能影响印度的基础设施项目，包括地铁、铁路和边境隧道，因为印度依赖进口机器，并且此前在从中国获取这些机器时已经面临延误。"
   },
   {
    "platform": "x",
@@ -6823,7 +7599,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 0.74,
+   "ageDays": 0.75,
    "_ts": 1792424700.071,
    "postedAt": "2026-10-19 23:45",
    "hasBody": true,
@@ -6857,7 +7633,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.74,
+   "ageDays": 0.75,
    "_ts": 1792424274.636,
    "postedAt": "2026-10-19 23:37",
    "hasBody": true,
@@ -6891,7 +7667,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.75,
+   "ageDays": 0.76,
    "_ts": 1792423830.3,
    "postedAt": "2026-10-19 23:30",
    "hasBody": true,
@@ -6924,7 +7700,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.75,
+   "ageDays": 0.76,
    "_ts": 1792423801.088,
    "postedAt": "2026-10-19 23:30",
    "hasBody": true,
@@ -6957,7 +7733,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.75,
+   "ageDays": 0.76,
    "_ts": 1792423492.472,
    "postedAt": "2026-10-19 23:24",
    "hasBody": true,
@@ -6991,7 +7767,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.76,
+   "ageDays": 0.77,
    "_ts": 1792423100.414,
    "postedAt": "2026-10-19 23:18",
    "hasBody": true,
@@ -7024,7 +7800,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.77,
+   "ageDays": 0.78,
    "_ts": 1792422183.043,
    "postedAt": "2026-10-19 23:03",
    "hasBody": true,
@@ -7057,7 +7833,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.77,
+   "ageDays": 0.78,
    "_ts": 1792421610.702,
    "postedAt": "2026-10-19 22:53",
    "hasBody": true,
@@ -7090,7 +7866,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.78,
+   "ageDays": 0.79,
    "_ts": 1792420785.641,
    "postedAt": "2026-10-19 22:39",
    "hasBody": true,
@@ -7101,6 +7877,73 @@ window.SITE_DATA = {
    "title_zh": "印度Zorawar轻型坦克面临关键设计困境，因为军队寻求更强的装甲而不牺牲所需的速度和敏捷性",
    "snippet_zh": "印度佐拉瓦轻型坦克面临关键设计困境，因为陆军寻求更强的装甲，同时又不牺牲沿中印边境所需的速度和敏捷性。\n\n该坦克是为2020年拉达克对峙之后的高海拔作战而开发的，如果推进防护升级，它可能会增加重量、需要更强大的发动机并面临延误。\n\n以中国的15式坦克作为关键比较，印度能否在不牺牲其最大优势——机动性的情况下加强佐拉瓦的生存能力？\n\n观看：https://t.co/MEWZcSLKDG\n\n#DragonDiaries #Zorawar #IndianArmy #China #IndiaTodayGlobal\n\n@JournoPranay",
    "body_zh": "印度佐拉瓦轻型坦克面临关键设计困境，因为陆军寻求更强的装甲，同时又不牺牲沿中印边境所需的速度和敏捷性。\n\n该坦克是为2020年拉达克对峙之后的高海拔作战而开发的，如果推进防护升级，它可能会增加重量、需要更强大的发动机并面临延误。\n\n以中国的15式坦克作为关键比较，印度能否在不牺牲其最大优势——机动性的情况下加强佐拉瓦的生存能力？\n\n观看：https://t.co/MEWZcSLKDG\n\n#DragonDiaries #Zorawar #IndianArmy #China #IndiaTodayGlobal\n\n@JournoPranay"
+  },
+  {
+   "platform": "x",
+   "title": "India-China Ties Headed for a Crisis: Pravin Sawhney’s Warning @PravinSawhney Pravin Sawhney, in his Force Magazine analysis, warns that Ind",
+   "url": "https://x.com/kuldipsurisView/status/2112191683765113094",
+   "snippet": "India-China Ties Headed for a Crisis: Pravin Sawhney’s Warning\n@PravinSawhney\n\nPravin Sawhney, in his Force Magazine analysis, warns that India’s recent decision to assign standard names to 28 landmarks in the Ladakh region is an “ill-considered” move that will lead to a crisis with China “sooner or later.” While the exact form and timing remain unpredictable, he identifies two clear consequences: China has concluded that normal relations with India are impossible as long as the Modi government remains in power, and any ground-level crisis in Ladakh will involve the Pakistani Army.\n1) The immediate trigger is Beijing’s sharp reaction. When asked about India’s naming of the landmarks, the Chinese Foreign Ministry spokesperson made two strongly worded statements. First, China has “never recognized the so-called ‘Ladakh Union Territory,’” deeming it illegal and unilateral. Second, “the relevant parts in the western sector of the China-India border have always belonged to China.”\n\nSawhney interprets this as a historic shift. “For the first time, the Chinese are openly claiming sovereignty over all of Ladakh. There should be no doubt about that.”\n\nHe places the claim in historical context. In 1950, Indian maps showed the western sector in pale colour labelled “Undefined Boundaries.” By 1954, maps placed the border along the Kunlun range, incorporating Aksai Chin. China remained silent then because it was weak and the “Hindi-Chini bhai-bhai” atmosphere prevailed. In 2010, once China had become a major power (largest exporter, largest trading partner, and assessed by the Pentagon as militarily comparable to the US in East Asia), it publicly stated that the border was only about 2,000 km—explicitly excluding Ladakh—while India maintained the figure of 3,488 km that included it.\n2)The decisive rupture came on 5–6 August 2019 with the revocation of Articles 370 and 35A and the creation of the Union Territory of Ladakh. This administrative unit encompassed Aksai Chin, Gilgit-Baltistan, and the Shaksgam Valley (Trans-Karakoram tract through which the China-Pakistan Economic Corridor runs). China rejected the change immediately, arguing that India had altered the facts on the map.\n\nWhen External Affairs Minister S. Jaishankar travelled to China on 11 August and told Wang Yi that nothing would change on the ground, on the Line of Actual Control, or on the Line of Control with Pakistan, Beijing refused to accept the assurance. China then took three sequential steps: first seeking a negotiated way out (President Xi Jinping raised the need for India to talk to both Pakistan and China at the October 2019 Chennai summit, which was rejected); second, moving People’s Liberation Army troops in April 2020 into eastern Ladakh up to the 7 November 1959 claim line articulated by Zhou Enlai; and third, repeatedly affirming support for Pakistan’s territorial integrity and sovereignty.\n\nSawhney notes that the PLA has remained near the 1959 line in most places. He recalls that after the 1962 war the Chinese informally proposed a 20-km demilitarised zone, which India rejected, and that the 1993 “peace and tranquillity” agreement that named the Line of Actual Control left deliberate ambiguity about whether it referred to the 1959 or the 1993 positions.\n3)Evidence of a closer military partnership followed. In 2022, Pakistani officers were reported posted to the PLA’s Xinjiang division (responsible for Ladakh), the Western Theater Command, and even the Joint Staff Department—the PLA’s highest operational headquarters for conventional and nuclear planning. When India created five new districts in Ladakh in August 2024 (later bringing the total to eight), the reaction came from Pakistan rather than China. Sawhney argues that the operational theatre has now merged into one: Pakistani-administered Kashmir, the Kashmir Valley, Siachen, Gilgit-Baltistan, Ladakh, and the Shaksgam Valley, with the Pakistani Army positioned to play a leading role. N1",
+   "body": "India-China Ties Headed for a Crisis: Pravin Sawhney’s Warning\n@PravinSawhney\n\nPravin Sawhney, in his Force Magazine analysis, warns that India’s recent decision to assign standard names to 28 landmarks in the Ladakh region is an “ill-considered” move that will lead to a crisis with China “sooner or later.” While the exact form and timing remain unpredictable, he identifies two clear consequences: China has concluded that normal relations with India are impossible as long as the Modi government remains in power, and any ground-level crisis in Ladakh will involve the Pakistani Army.\n1) The immediate trigger is Beijing’s sharp reaction. When asked about India’s naming of the landmarks, the Chinese Foreign Ministry spokesperson made two strongly worded statements. First, China has “never recognized the so-called ‘Ladakh Union Territory,’” deeming it illegal and unilateral. Second, “the relevant parts in the western sector of the China-India border have always belonged to China.”\n\nSawhney interprets this as a historic shift. “For the first time, the Chinese are openly claiming sovereignty over all of Ladakh. There should be no doubt about that.”\n\nHe places the claim in historical context. In 1950, Indian maps showed the western sector in pale colour labelled “Undefined Boundaries.” By 1954, maps placed the border along the Kunlun range, incorporating Aksai Chin. China remained silent then because it was weak and the “Hindi-Chini bhai-bhai” atmosphere prevailed. In 2010, once China had become a major power (largest exporter, largest trading partner, and assessed by the Pentagon as militarily comparable to the US in East Asia), it publicly stated that the border was only about 2,000 km—explicitly excluding Ladakh—while India maintained the figure of 3,488 km that included it.\n2)The decisive rupture came on 5–6 August 2019 with the revocation of Articles 370 and 35A and the creation of the Union Territory of Ladakh. This administrative unit encompassed Aksai Chin, Gilgit-Baltistan, and the Shaksgam Valley (Trans-Karakoram tract through which the China-Pakistan Economic Corridor runs). China rejected the change immediately, arguing that India had altered the facts on the map.\n\nWhen External Affairs Minister S. Jaishankar travelled to China on 11 August and told Wang Yi that nothing would change on the ground, on the Line of Actual Control, or on the Line of Control with Pakistan, Beijing refused to accept the assurance. China then took three sequential steps: first seeking a negotiated way out (President Xi Jinping raised the need for India to talk to both Pakistan and China at the October 2019 Chennai summit, which was rejected); second, moving People’s Liberation Army troops in April 2020 into eastern Ladakh up to the 7 November 1959 claim line articulated by Zhou Enlai; and third, repeatedly affirming support for Pakistan’s territorial integrity and sovereignty.\n\nSawhney notes that the PLA has remained near the 1959 line in most places. He recalls that after the 1962 war the Chinese informally proposed a 20-km demilitarised zone, which India rejected, and that the 1993 “peace and tranquillity” agreement that named the Line of Actual Control left deliberate ambiguity about whether it referred to the 1959 or the 1993 positions.\n3)Evidence of a closer military partnership followed. In 2022, Pakistani officers were reported posted to the PLA’s Xinjiang division (responsible for Ladakh), the Western Theater Command, and even the Joint Staff Department—the PLA’s highest operational headquarters for conventional and nuclear planning. When India created five new districts in Ladakh in August 2024 (later bringing the total to eight), the reaction came from Pakistan rather than China. Sawhney argues that the operational theatre has now merged into one: Pakistani-administered Kashmir, the Kashmir Valley, Siachen, Gilgit-Baltistan, Ladakh, and the Shaksgam Valley, with the Pakistani Army positioned to play a leading role. N1",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@kuldipsurisView",
+   "country": [
+    "in"
+   ],
+   "topic": [
+    "sec",
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": true,
+   "cnHit": true,
+   "usHit": true,
+   "terrHit": false,
+   "ageDays": 0.79,
+   "_ts": 1792420714.69,
+   "postedAt": "2026-10-19 22:38",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_in",
+   "title_zh": "印中关系走向危机：普拉文·索尼的警告 @PravinSawhney 普拉文·索尼在其《Force Magazine》分析中警告说，印",
+   "snippet_zh": "印度-中国关系正走向危机：普拉文·索尼的警告\n@PravinSawhney\n\n普拉文·索尼在其《Force Magazine》分析中警告称，印度最近决定为拉达克地区28个地标赋予标准名称是一个“考虑不周”的举动，这将“迟早”导致与中国的危机。虽然确切的形式和时间仍无法预测，但他指出了两个明确的后果：中国已得出结论，只要莫迪政府继续执政，与印度保持正常关系就不可能；拉达克的任何地面危机都将涉及巴基斯坦军队。\n1) 直接导火索是北京的强烈反应。当被问及印度为地标命名时，中国外交部发言人发表了两份措辞强硬的声明。首先，中国“从未承认所谓的‘拉达克中央直辖区’”，认为这是非法的和单方面的。其次，“中印边界西段的相关部分一直属于中国。”\n\n索尼将此解读为历史性转变。“中国方面第一次公开声称对整个拉达克拥有主权。对此不应有任何疑问。”\n\n他将这一主张置于历史背景下。1950年，印度地图以浅色显示西段并标注为“未定边界”。到1954年，地图将边界置于昆仑山脉，纳入了阿克赛钦。当时中国保持沉默，因为它还很弱小，而且“印地-秦尼兄弟”的氛围盛行。2010年，中国已成为大国（最大出口国、最大贸易伙伴，并被五角大楼评估为在东亚军事上可与美国媲美）后，它公开表示边界仅约2000公里——明确排除拉达克——而印度坚持包括拉达克在内的3488公里的数字。\n2)决定性的破裂发生在2019年8月5日至6日，随着第370条和35A条的废除以及拉达克中央直辖区的建立。这一行政单位涵盖了阿克赛钦、吉尔吉特-巴尔蒂斯坦和沙克斯干谷（中国-巴基斯坦经济走廊所经过的跨喀喇昆仑地区）。中国立即拒绝了这一变化，认为印度改变了地图上的事实。\n\n当外交部长S. Jaishankar于8月11日前往中国并告诉王毅，实际控制线上的地面情况或与巴基斯坦的控制线都不会改变时，北京拒绝接受这一保证。中国随后采取了三个连续步骤：首先寻求谈判解决办法（习近平主席在2019年10月金奈峰会上提出印度需要与巴基斯坦和中国双方对话的需求，但被拒绝）；其次，2020年4月将人民解放军部队调入东拉达克，直至周恩来在1959年11月7日阐述的主张线；第三，反复重申支持巴基斯坦的领土完整和主权。\n\n索尼指出，人民解放军在大多数地方仍靠近1959年线。他回忆说，1962年战争后中国人非正式提议建立20公里非军事区，但印度拒绝了；1993年“和平与安宁”协议命名了实际控制线，但故意对它是指1959年还是1993年的位置留下了模糊。\n3)随后有证据表明军事伙伴关系更加密切。2022年，据报道巴基斯坦军官被派驻到人民解放军的新疆军区（负责拉达克）、西部战区司令部，甚至联合参谋部——人民解放军常规和核规划的最高作战总部。当印度在2024年8月在拉达克创建五个新县（后来总数达到八个）时，反应来自巴基斯坦而非中国。索尼认为，作战战区现在已合并为一个：巴基斯坦管理的克什米尔、克什米尔谷地、锡亚琴、吉尔吉特-巴尔蒂斯坦、拉达克和沙克斯干谷，巴基斯坦军队 positioning 发挥主导作用。N1",
+   "body_zh": "印度-中国关系正走向危机：普拉文·索尼的警告\n@PravinSawhney\n\n普拉文·索尼在其《Force Magazine》分析中警告称，印度最近决定为拉达克地区28个地标赋予标准名称是一个“考虑不周”的举动，这将“迟早”导致与中国的危机。虽然确切的形式和时间仍无法预测，但他指出了两个明确的后果：中国已得出结论，只要莫迪政府继续执政，与印度保持正常关系就不可能；拉达克的任何地面危机都将涉及巴基斯坦军队。\n1) 直接导火索是北京的强烈反应。当被问及印度为地标命名时，中国外交部发言人发表了两份措辞强硬的声明。首先，中国“从未承认所谓的‘拉达克中央直辖区’”，认为这是非法的和单方面的。其次，“中印边界西段的相关部分一直属于中国。”\n\n索尼将此解读为历史性转变。“中国方面第一次公开声称对整个拉达克拥有主权。对此不应有任何疑问。”\n\n他将这一主张置于历史背景下。1950年，印度地图以浅色显示西段并标注为“未定边界”。到1954年，地图将边界置于昆仑山脉，纳入了阿克赛钦。当时中国保持沉默，因为它还很弱小，而且“印地-秦尼兄弟”的氛围盛行。2010年，中国已成为大国（最大出口国、最大贸易伙伴，并被五角大楼评估为在东亚军事上可与美国媲美）后，它公开表示边界仅约2000公里——明确排除拉达克——而印度坚持包括拉达克在内的3488公里的数字。\n2)决定性的破裂发生在2019年8月5日至6日，随着第370条和35A条的废除以及拉达克中央直辖区的建立。这一行政单位涵盖了阿克赛钦、吉尔吉特-巴尔蒂斯坦和沙克斯干谷（中国-巴基斯坦经济走廊所经过的跨喀喇昆仑地区）。中国立即拒绝了这一变化，认为印度改变了地图上的事实。\n\n当外交部长S. Jaishankar于8月11日前往中国并告诉王毅，实际控制线上的地面情况或与巴基斯坦的控制线都不会改变时，北京拒绝接受这一保证。中国随后采取了三个连续步骤：首先寻求谈判解决办法（习近平主席在2019年10月金奈峰会上提出印度需要与巴基斯坦和中国双方对话的需求，但被拒绝）；其次，2020年4月将人民解放军部队调入东拉达克，直至周恩来在1959年11月7日阐述的主张线；第三，反复重申支持巴基斯坦的领土完整和主权。\n\n索尼指出，人民解放军在大多数地方仍靠近1959年线。他回忆说，1962年战争后中国人非正式提议建立20公里非军事区，但印度拒绝了；1993年“和平与安宁”协议命名了实际控制线，但故意对它是指1959年还是1993年的位置留下了模糊。\n3)随后有证据表明军事伙伴关系更加密切。2022年，据报道巴基斯坦军官被派驻到人民解放军的新疆军区（负责拉达克）、西部战区司令部，甚至联合参谋部——人民解放军常规和核规划的最高作战总部。当印度在2024年8月在拉达克创建五个新县（后来总数达到八个）时，反应来自巴基斯坦而非中国。索尼认为，作战战区现在已合并为一个：巴基斯坦管理的克什米尔、克什米尔谷地、锡亚琴、吉尔吉特-巴尔蒂斯坦、拉达克和沙克斯干谷，巴基斯坦军队 positioning 发挥主导作用。N1"
+  },
+  {
+   "platform": "x",
+   "title": "New shipping routes, energy projects, and strategic competition are reshaping the Arctic.",
+   "url": "https://x.com/GMFAsia/status/2112191298136391745",
+   "snippet": "New shipping routes, energy projects, and strategic competition are reshaping the Arctic. On #ChinaGlobalPodcast, @BonnieGlaser speaks with Elizabeth Wishnick about China's interests in the region and its partnership with Russia. 🎧 https://www.youtube.com/watch?si=cQqzpOiS93sXTXPm&v=e6vM_c80bCw&feature=youtu.be #Arctic #China #Russia",
+   "body": "New shipping routes, energy projects, and strategic competition are reshaping the Arctic. On #ChinaGlobalPodcast, @BonnieGlaser speaks with Elizabeth Wishnick about China's interests in the region and its partnership with Russia. 🎧 https://www.youtube.com/watch?si=cQqzpOiS93sXTXPm&v=e6vM_c80bCw&feature=youtu.be #Arctic #China #Russia",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@GMFAsia",
+   "country": [
+    "ru"
+   ],
+   "topic": [
+    "ene"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.79,
+   "_ts": 1792420622.749,
+   "postedAt": "2026-10-19 22:37",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ru",
+   "title_zh": "新的航运路线、能源项目和战略竞争正在重塑北极。",
+   "snippet_zh": "新的航运路线、能源项目和战略竞争正在重塑北极。在#ChinaGlobalPodcast节目中，@BonnieGlaser与Elizabeth Wishnick讨论了中国在该地区的利益及其与俄罗斯的伙伴关系。🎧 https://www.youtube.com/watch?si=cQqzpOiS93sXTXPm&v=e6vM_c80bCw&feature=youtu.be #Arctic #China #Russia",
+   "body_zh": "新的航运路线、能源项目和战略竞争正在重塑北极。在#ChinaGlobalPodcast节目中，@BonnieGlaser与Elizabeth Wishnick讨论了中国在该地区的利益及其与俄罗斯的伙伴关系。🎧 https://www.youtube.com/watch?si=cQqzpOiS93sXTXPm&v=e6vM_c80bCw&feature=youtu.be #Arctic #China #Russia"
   },
   {
    "platform": "x",
@@ -7123,7 +7966,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 0.79,
+   "ageDays": 0.8,
    "_ts": 1792420148.534,
    "postedAt": "2026-10-19 22:29",
    "hasBody": true,
@@ -7157,7 +8000,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.79,
+   "ageDays": 0.8,
    "_ts": 1792420072.902,
    "postedAt": "2026-10-19 22:27",
    "hasBody": true,
@@ -7192,7 +8035,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.79,
+   "ageDays": 0.8,
    "_ts": 1792420032.398,
    "postedAt": "2026-10-19 22:27",
    "hasBody": true,
@@ -7228,7 +8071,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.8,
+   "ageDays": 0.81,
    "_ts": 1792419556.667,
    "postedAt": "2026-10-19 22:19",
    "hasBody": true,
@@ -7239,6 +8082,40 @@ window.SITE_DATA = {
    "title_zh": "2026年9月，中国是俄罗斯石油和天然气的最大买家（化石燃料总额91亿欧元，主要是原油），其次是印度（41亿欧元",
    "snippet_zh": "2026年9月，中国是俄罗斯石油和天然气的最大买家（化石燃料总计91亿欧元，主要是原油），其次是印度（41亿欧元，主要是原油）。欧盟排名第三（17亿欧元，主要是管道天然气和液化天然气，加上一些原油运往匈牙利/斯洛伐克）。土耳其排名第四（10亿欧元，石油产品和天然气）。其他买家包括日本、韩国（液化天然气）、沙特阿拉伯、巴西和新加坡（石油产品）。数据来自CREA。",
    "body_zh": "2026年9月，中国是俄罗斯石油和天然气的最大买家（化石燃料总计91亿欧元，主要是原油），其次是印度（41亿欧元，主要是原油）。欧盟排名第三（17亿欧元，主要是管道天然气和液化天然气，加上一些原油运往匈牙利/斯洛伐克）。土耳其排名第四（10亿欧元，石油产品和天然气）。其他买家包括日本、韩国（液化天然气）、沙特阿拉伯、巴西和新加坡（石油产品）。数据来自CREA。"
+  },
+  {
+   "platform": "x",
+   "title": "China doesn't want a single blade of grass or tree from the Philippines.",
+   "url": "https://x.com/sun_jun69301/status/2112183925741420848",
+   "snippet": "China doesn't want a single blade of grass or tree from the Philippines. No matter what those Filipino political scoundrels do, they can't take away even 0.000000001% of the South China Sea islands and reefs that belong to China. Other than putting Filipino businesses and people at risk of losing the Chinese market—except for those political scoundrels—Philippines won't get anything.",
+   "body": "China doesn't want a single blade of grass or tree from the Philippines. No matter what those Filipino political scoundrels do, they can't take away even 0.000000001% of the South China Sea islands and reefs that belong to China. Other than putting Filipino businesses and people at risk of losing the Chinese market—except for those political scoundrels—Philippines won't get anything.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@sun_jun69301",
+   "country": [
+    "ph",
+    "vn"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 0.82,
+   "_ts": 1792418865.033,
+   "postedAt": "2026-10-19 22:07",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ph",
+   "title_zh": "中国不想要菲律宾的一草一木。",
+   "snippet_zh": "中国不想要菲律宾的一草一木。不管那些菲律宾政治恶棍做什么，他们都无法夺走哪怕0.000000001%属于中国的南海岛礁。除了让菲律宾企业和民众面临失去中国市场的风险——除了那些政治恶棍——菲律宾什么也得不到。",
+   "body_zh": "中国不想要菲律宾的一草一木。不管那些菲律宾政治恶棍做什么，他们都无法夺走哪怕0.000000001%属于中国的南海岛礁。除了让菲律宾企业和民众面临失去中国市场的风险——除了那些政治恶棍——菲律宾什么也得不到。"
   },
   {
    "platform": "x",
@@ -7262,7 +8139,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.81,
+   "ageDays": 0.82,
    "_ts": 1792418735.133,
    "postedAt": "2026-10-19 22:05",
    "hasBody": true,
@@ -7295,7 +8172,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.81,
+   "ageDays": 0.82,
    "_ts": 1792418713.391,
    "postedAt": "2026-10-19 22:05",
    "hasBody": true,
@@ -7328,7 +8205,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.82,
+   "ageDays": 0.83,
    "_ts": 1792417733.822,
    "postedAt": "2026-10-19 21:48",
    "hasBody": true,
@@ -7361,7 +8238,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.83,
+   "ageDays": 0.84,
    "_ts": 1792417086.734,
    "postedAt": "2026-10-19 21:38",
    "hasBody": true,
@@ -7394,7 +8271,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.83,
+   "ageDays": 0.84,
    "_ts": 1792416347.726,
    "postedAt": "2026-10-19 21:25",
    "hasBody": true,
@@ -7427,7 +8304,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.84,
+   "ageDays": 0.85,
    "_ts": 1792415519.171,
    "postedAt": "2026-10-19 21:11",
    "hasBody": true,
@@ -7460,7 +8337,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 0.87,
+   "ageDays": 0.88,
    "_ts": 1792413371.715,
    "postedAt": "2026-10-19 20:36",
    "hasBody": true,
@@ -7494,7 +8371,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.87,
+   "ageDays": 0.88,
    "_ts": 1792413170.532,
    "postedAt": "2026-10-19 20:32",
    "hasBody": true,
@@ -7527,7 +8404,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.87,
+   "ageDays": 0.88,
    "_ts": 1792413016.631,
    "postedAt": "2026-10-19 20:30",
    "hasBody": true,
@@ -7562,7 +8439,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 0.88,
+   "ageDays": 0.89,
    "_ts": 1792412225.534,
    "postedAt": "2026-10-19 20:17",
    "hasBody": true,
@@ -7596,7 +8473,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.89,
+   "ageDays": 0.9,
    "_ts": 1792411325.522,
    "postedAt": "2026-10-19 20:02",
    "hasBody": true,
@@ -7632,7 +8509,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.9,
+   "ageDays": 0.91,
    "_ts": 1792411025.304,
    "postedAt": "2026-10-19 19:57",
    "hasBody": true,
@@ -7665,7 +8542,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.91,
+   "ageDays": 0.92,
    "_ts": 1792409750.031,
    "postedAt": "2026-10-19 19:35",
    "hasBody": true,
@@ -7699,7 +8576,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.91,
+   "ageDays": 0.92,
    "_ts": 1792409684.606,
    "postedAt": "2026-10-19 19:34",
    "hasBody": true,
@@ -7732,7 +8609,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.92,
+   "ageDays": 0.93,
    "_ts": 1792408856.03,
    "postedAt": "2026-10-19 19:20",
    "hasBody": true,
@@ -7765,7 +8642,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.92,
+   "ageDays": 0.93,
    "_ts": 1792408740.234,
    "postedAt": "2026-10-19 19:19",
    "hasBody": true,
@@ -7798,7 +8675,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.92,
+   "ageDays": 0.93,
    "_ts": 1792408715.651,
    "postedAt": "2026-10-19 19:18",
    "hasBody": true,
@@ -7831,7 +8708,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
-   "ageDays": 0.94,
+   "terrHit": false,
+   "ageDays": 0.96,
    "_ts": 1792405970.618,
    "postedAt": "2026-10-19 18:32",
    "hasBody": true,
@@ -7839,9 +8717,9 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_cn_in",
-   "title_zh": "中国以‘国家安全’为由对印度寻求的隧道掘进机实施出口管制 https://www.thehindu.com/news/internatio",
-   "snippet_zh": "中国以‘国家安全’为由对印度寻求的隧道掘进机实施出口管制\nhttps://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece",
-   "body_zh": "中国以‘国家安全’为由对印度寻求的隧道掘进机实施出口管制\nhttps://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece"
+   "title_zh": "中国对印度寻求的隧道掘进机实施出口管制，理由是‘国家安全’ https://www.thehindu.com/news/internatio",
+   "snippet_zh": "中国对印度寻求的隧道掘进机实施出口管制，理由是‘国家安全’\nhttps://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece",
+   "body_zh": "中国对印度寻求的隧道掘进机实施出口管制，理由是‘国家安全’\nhttps://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece"
   },
   {
    "platform": "x",
@@ -7864,7 +8742,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.95,
+   "ageDays": 0.96,
    "_ts": 1792405961.019,
    "postedAt": "2026-10-19 18:32",
    "hasBody": true,
@@ -7899,7 +8777,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 0.96,
+   "ageDays": 0.97,
    "_ts": 1792405245.376,
    "postedAt": "2026-10-19 18:20",
    "hasBody": true,
@@ -7933,7 +8811,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.97,
+   "ageDays": 0.98,
    "_ts": 1792404336.757,
    "postedAt": "2026-10-19 18:05",
    "hasBody": true,
@@ -7967,7 +8845,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.99,
+   "ageDays": 1.0,
    "_ts": 1792403111.086,
    "postedAt": "2026-10-19 17:45",
    "hasBody": true,
@@ -8000,7 +8878,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 0.99,
+   "ageDays": 1.0,
    "_ts": 1792402971.715,
    "postedAt": "2026-10-19 17:42",
    "hasBody": true,
@@ -8011,73 +8889,6 @@ window.SITE_DATA = {
    "title_zh": "中国政府告诉布哈里，由于我们处理现金的方式，他们不能再给尼日利亚政府现金 乔纳森从中国收取了5亿美元",
    "snippet_zh": "中国政府告诉布哈里，由于我们处理乔纳森从中国收取5亿美元现金的方式，他们不能再向尼日利亚政府提供现金，但项目仍未完成，布哈里不得不从中国借款来完成它。所以中国表示他们将负责整个拉各斯-伊巴丹铁路",
    "body_zh": "中国政府告诉布哈里，由于我们处理乔纳森从中国收取5亿美元现金的方式，他们不能再向尼日利亚政府提供现金，但项目仍未完成，布哈里不得不从中国借款来完成它。所以中国表示他们将负责整个拉各斯-伊巴丹铁路"
-  },
-  {
-   "platform": "x",
-   "title": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions China's ambassador to Manila, Jing Quan, de",
-   "url": "https://x.com/NewsTongueX/status/2112116022643724634",
-   "snippet": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions\n\nChina's ambassador to Manila, Jing Quan, declared on Friday that China could \"easily win\" a war with the Philippines, but stated China \"will not choose force.\" The remark came after Philippine Defense Secretary Gilberto Teodoro called China the \"troublemaker\" of Southeast Asia over its actions in contested South China Sea waters.\nPhilippine President Ferdinand Marcos Jr said the ambassador's statement \"sounds very much like a threat\" and said he would summon Jing for an explanation.",
-   "body": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions\n\nChina's ambassador to Manila, Jing Quan, declared on Friday that China could \"easily win\" a war with the Philippines, but stated China \"will not choose force.\" The remark came after Philippine Defense Secretary Gilberto Teodoro called China the \"troublemaker\" of Southeast Asia over its actions in contested South China Sea waters.\nPhilippine President Ferdinand Marcos Jr said the ambassador's statement \"sounds very much like a threat\" and said he would summon Jing for an explanation.",
-   "bodyLevel": "post",
-   "author": "",
-   "handle": "@NewsTongueX",
-   "country": [
-    "ph",
-    "vn"
-   ],
-   "topic": [
-    "sec",
-    "pol"
-   ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
-   "ageDays": 0.98,
-   "_ts": 1792402675.673,
-   "postedAt": "2026-10-19 17:37",
-   "hasBody": true,
-   "grokSummary": false,
-   "engine": "xai-xsearch",
-   "note": "",
-   "tag": "soc_cn_ph",
-   "title_zh": "🔴 中国特使称在北京与菲律宾在南海紧张局势中，北京可以“轻松赢得”战争 中国驻马尼拉大使景泉说",
-   "snippet_zh": "🔴在中国驻马尼拉大使景泉周五宣布中国可以“轻松赢得”与菲律宾的战争，但表示中国“不会选择武力”后，中国驻菲律宾大使表示，在菲律宾国防部长吉尔伯托·特奥多罗因中国在有争议的南海水域的行动而称中国为东南亚“麻烦制造者”之后，这一言论发表。\n菲律宾总统小费迪南德·马科斯表示，大使的声明“听起来非常像威胁”，并表示他将召见景泉要求解释。",
-   "body_zh": "🔴在中国驻马尼拉大使景泉周五宣布中国可以“轻松赢得”与菲律宾的战争，但表示中国“不会选择武力”后，中国驻菲律宾大使表示，在菲律宾国防部长吉尔伯托·特奥多罗因中国在有争议的南海水域的行动而称中国为东南亚“麻烦制造者”之后，这一言论发表。\n菲律宾总统小费迪南德·马科斯表示，大使的声明“听起来非常像威胁”，并表示他将召见景泉要求解释。"
-  },
-  {
-   "platform": "x",
-   "title": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supp",
-   "url": "https://x.com/igortetiuev/status/2112115168431747080",
-   "snippet": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supply China.",
-   "body": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supply China.",
-   "bodyLevel": "post",
-   "author": "",
-   "handle": "@igortetiuev",
-   "country": [
-    "ru"
-   ],
-   "topic": [
-    "ene"
-   ],
-   "tier": 1,
-   "actor": "中国",
-   "alsoUS": false,
-   "cnHit": true,
-   "usHit": false,
-   "terrHit": false,
-   "ageDays": 0.99,
-   "_ts": 1792402472.013,
-   "postedAt": "2026-10-19 17:34",
-   "hasBody": true,
-   "grokSummary": false,
-   "engine": "xai-xsearch",
-   "note": "",
-   "tag": "China Russia Chinese company energy cooperation",
-   "title_zh": "乌兹别克斯坦也有与中国签订的供应合同，他们无法再履行，因此他们开始购买俄罗斯天然气，既供自己使用，也为了供",
-   "snippet_zh": "乌兹别克斯坦也有与中国签订的供应合同，但他们无法再履行，因此他们开始购买俄罗斯天然气，既供自己使用，也用来供应中国。",
-   "body_zh": "乌兹别克斯坦也有与中国签订的供应合同，但他们无法再履行，因此他们开始购买俄罗斯天然气，既供自己使用，也用来供应中国。"
   },
   {
    "platform": "facebook",
@@ -8102,8 +8913,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 1.0,
-   "_ts": 1792402025.541815,
-   "postedAt": "2026-10-19 17:27",
+   "_ts": 1792402893.008587,
+   "postedAt": "2026-10-19 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -8135,8 +8946,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 1.0,
-   "_ts": 1792402025.541815,
-   "postedAt": "2026-10-19 17:27",
+   "_ts": 1792402893.008587,
+   "postedAt": "2026-10-19 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -8169,8 +8980,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 1.0,
-   "_ts": 1792402025.541815,
-   "postedAt": "2026-10-19 17:27",
+   "_ts": 1792402893.008587,
+   "postedAt": "2026-10-19 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -8203,8 +9014,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 1.0,
-   "_ts": 1792402025.541815,
-   "postedAt": "2026-10-19 17:27",
+   "_ts": 1792402893.008587,
+   "postedAt": "2026-10-19 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -8213,6 +9024,74 @@ window.SITE_DATA = {
    "title_zh": "马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，通过创造。",
    "snippet_zh": "19小时前 · 马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，方法是创造……",
    "body_zh": "19小时前 · 马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，方法是创造……"
+  },
+  {
+   "platform": "x",
+   "title": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions China's ambassador to Manila, Jing Quan, de",
+   "url": "https://x.com/NewsTongueX/status/2112116022643724634",
+   "snippet": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions\n\nChina's ambassador to Manila, Jing Quan, declared on Friday that China could \"easily win\" a war with the Philippines, but stated China \"will not choose force.\" The remark came after Philippine Defense Secretary Gilberto Teodoro called China the \"troublemaker\" of Southeast Asia over its actions in contested South China Sea waters.\nPhilippine President Ferdinand Marcos Jr said the ambassador's statement \"sounds very much like a threat\" and said he would summon Jing for an explanation.",
+   "body": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions\n\nChina's ambassador to Manila, Jing Quan, declared on Friday that China could \"easily win\" a war with the Philippines, but stated China \"will not choose force.\" The remark came after Philippine Defense Secretary Gilberto Teodoro called China the \"troublemaker\" of Southeast Asia over its actions in contested South China Sea waters.\nPhilippine President Ferdinand Marcos Jr said the ambassador's statement \"sounds very much like a threat\" and said he would summon Jing for an explanation.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@NewsTongueX",
+   "country": [
+    "ph",
+    "vn"
+   ],
+   "topic": [
+    "sec",
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.0,
+   "_ts": 1792402675.673,
+   "postedAt": "2026-10-19 17:37",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ph",
+   "title_zh": "🔴 在南海紧张局势中，中国特使称北京可以‘轻松赢得’与菲律宾的战争 中国驻马尼拉大使景泉表示……",
+   "snippet_zh": "🔴 中国使节称在北京与菲律宾南海紧张局势中，中国能“轻松赢得”战争\n\n中国驻马尼拉大使景泉周五宣称，中国能“轻松赢得”与菲律宾的战争，但表示中国“不会选择武力”。这一言论是在菲律宾国防部长吉尔伯托·特奥多罗因中国在有争议的南海水域的行动而称中国为东南亚“麻烦制造者”之后发表的。\n菲律宾总统小费迪南德·马科斯表示，大使的声明“听起来非常像威胁”，并表示他将召见景泉要求解释。",
+   "body_zh": "🔴 中国使节称在北京与菲律宾南海紧张局势中，中国能“轻松赢得”战争\n\n中国驻马尼拉大使景泉周五宣称，中国能“轻松赢得”与菲律宾的战争，但表示中国“不会选择武力”。这一言论是在菲律宾国防部长吉尔伯托·特奥多罗因中国在有争议的南海水域的行动而称中国为东南亚“麻烦制造者”之后发表的。\n菲律宾总统小费迪南德·马科斯表示，大使的声明“听起来非常像威胁”，并表示他将召见景泉要求解释。"
+  },
+  {
+   "platform": "x",
+   "title": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supp",
+   "url": "https://x.com/igortetiuev/status/2112115168431747080",
+   "snippet": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supply China.",
+   "body": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supply China.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@igortetiuev",
+   "country": [
+    "ru"
+   ],
+   "topic": [
+    "ene"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.0,
+   "_ts": 1792402472.013,
+   "postedAt": "2026-10-19 17:34",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "China Russia Chinese company energy cooperation",
+   "title_zh": "乌兹别克斯坦也有与中国签订的供应合同，他们无法再履行，因此他们开始购买俄罗斯天然气，既供自己使用，也为了供",
+   "snippet_zh": "乌兹别克斯坦也有与中国签订的供应合同，但他们无法再履行，因此他们开始购买俄罗斯天然气，既供自己使用，也用来供应中国。",
+   "body_zh": "乌兹别克斯坦也有与中国签订的供应合同，但他们无法再履行，因此他们开始购买俄罗斯天然气，既供自己使用，也用来供应中国。"
   },
   {
    "platform": "x",
@@ -8235,7 +9114,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.0,
+   "ageDays": 1.01,
    "_ts": 1792401720.235,
    "postedAt": "2026-10-19 17:22",
    "hasBody": true,
@@ -8269,7 +9148,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.01,
+   "ageDays": 1.02,
    "_ts": 1792401311.629,
    "postedAt": "2026-10-19 17:15",
    "hasBody": true,
@@ -8302,7 +9181,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 1.01,
+   "ageDays": 1.02,
    "_ts": 1792401255.944,
    "postedAt": "2026-10-19 17:14",
    "hasBody": true,
@@ -8313,6 +9192,41 @@ window.SITE_DATA = {
    "title_zh": "🇲🇱 #Info #MALI #Urgent 🇲🇱 10月18日，#JNIM 声称在 #Koulikoro 地区 Koula 和 Djeni 之间对一辆马里军队车辆发动了制导简易爆炸装置袭击",
    "snippet_zh": "🇲🇱 #信息 #马里 #紧急 🇲🇱\n\n10月18日，#JNIM声称在#库利科罗地区库拉和杰尼之间对一辆马里军队车辆发动了制导IED袭击，发生在晚上。",
    "body_zh": "🇲🇱 #信息 #马里 #紧急 🇲🇱\n\n10月18日，#JNIM声称在#库利科罗地区库拉和杰尼之间对一辆马里军队车辆发动了制导IED袭击，发生在晚上。"
+  },
+  {
+   "platform": "x",
+   "title": "China’s ambassador says Beijing could “easily win” a war with the Philippines and now Manila has summoned him over the threat as South China",
+   "url": "https://x.com/ChinaGSProject/status/2112105588825989399",
+   "snippet": "China’s ambassador says Beijing could “easily win” a war with the Philippines and now Manila has summoned him over the threat as South China Sea tensions expose how quickly diplomatic rhetoric can push the region toward conflict.\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/",
+   "body": "China’s ambassador says Beijing could “easily win” a war with the Philippines and now Manila has summoned him over the threat as South China Sea tensions expose how quickly diplomatic rhetoric can push the region toward conflict.\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@ChinaGSProject",
+   "country": [
+    "ph",
+    "vn"
+   ],
+   "topic": [
+    "sec",
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.03,
+   "_ts": 1792400188.057,
+   "postedAt": "2026-10-19 16:56",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ph",
+   "title_zh": "中国大使称北京可以“轻松赢得”与菲律宾的战争，现在马尼拉因这一威胁召见了他，随着南海……",
+   "snippet_zh": "中国大使表示北京可以“轻松赢得”与菲律宾的战争，现在马尼拉已就这一威胁召见他，而南海紧张局势暴露了外交辞令可能多么迅速地将该地区推向冲突。\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/",
+   "body_zh": "中国大使表示北京可以“轻松赢得”与菲律宾的战争，现在马尼拉已就这一威胁召见他，而南海紧张局势暴露了外交辞令可能多么迅速地将该地区推向冲突。\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/"
   },
   {
    "platform": "x",
@@ -8335,7 +9249,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.04,
+   "ageDays": 1.05,
    "_ts": 1792398959.15,
    "postedAt": "2026-10-19 16:35",
    "hasBody": true,
@@ -8369,7 +9283,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.04,
+   "ageDays": 1.05,
    "_ts": 1792398158.629,
    "postedAt": "2026-10-19 16:22",
    "hasBody": true,
@@ -8380,6 +9294,40 @@ window.SITE_DATA = {
    "title_zh": "中国就是那个扩张主义者。",
    "snippet_zh": "中国就是那个扩张主义国家。只要想想九段线，它占据了大约90%的南海。该线距离中国大陆数百英里之外，直接切入越南、菲律宾、马来西亚、文莱和印度尼西亚国际公认的专属经济区。",
    "body_zh": "中国就是那个扩张主义国家。只要想想九段线，它占据了大约90%的南海。该线距离中国大陆数百英里之外，直接切入越南、菲律宾、马来西亚、文莱和印度尼西亚国际公认的专属经济区。"
+  },
+  {
+   "platform": "x",
+   "title": "The Philippines said its top diplomat summoned China’s envoy to protest his remarks on use of force amid their maritime dispute in the South",
+   "url": "https://x.com/business/status/2112096441455857956",
+   "snippet": "The Philippines said its top diplomat summoned China’s envoy to protest his remarks on use of force amid their maritime dispute in the South China Sea https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat?taid=6ad5d2b7baa8570001e8d6e8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+   "body": "The Philippines said its top diplomat summoned China’s envoy to protest his remarks on use of force amid their maritime dispute in the South China Sea https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat?taid=6ad5d2b7baa8570001e8d6e8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@business",
+   "country": [
+    "ph",
+    "vn"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.06,
+   "_ts": 1792398007.154,
+   "postedAt": "2026-10-19 16:20",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ph",
+   "title_zh": "菲律宾表示，其最高外交官召见了中国使节，以抗议其在南海海洋争端中关于使用武力的言论",
+   "snippet_zh": "菲律宾表示其最高外交官召见了中国使节，以抗议他在南海海上争端中关于使用武力的言论 https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat?taid=6ad5d2b7baa8570001e8d6e8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+   "body_zh": "菲律宾表示其最高外交官召见了中国使节，以抗议他在南海海上争端中关于使用武力的言论 https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat?taid=6ad5d2b7baa8570001e8d6e8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter"
   },
   {
    "platform": "x",
@@ -8403,7 +9351,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.05,
+   "ageDays": 1.06,
    "_ts": 1792397385.893,
    "postedAt": "2026-10-19 16:09",
    "hasBody": true,
@@ -8437,7 +9385,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.06,
+   "ageDays": 1.07,
    "_ts": 1792397037.607,
    "postedAt": "2026-10-19 16:03",
    "hasBody": true,
@@ -8470,7 +9418,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.06,
+   "ageDays": 1.07,
    "_ts": 1792396859.679,
    "postedAt": "2026-10-19 16:00",
    "hasBody": true,
@@ -8505,7 +9453,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 1.07,
+   "ageDays": 1.08,
    "_ts": 1792395765.293,
    "postedAt": "2026-10-19 15:42",
    "hasBody": true,
@@ -8539,7 +9487,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.07,
+   "ageDays": 1.08,
    "_ts": 1792395627.598,
    "postedAt": "2026-10-19 15:40",
    "hasBody": true,
@@ -8573,7 +9521,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 1.07,
+   "ageDays": 1.08,
    "_ts": 1792395555.805,
    "postedAt": "2026-10-19 15:39",
    "hasBody": true,
@@ -8606,7 +9554,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.08,
+   "ageDays": 1.09,
    "_ts": 1792395490.379,
    "postedAt": "2026-10-19 15:38",
    "hasBody": true,
@@ -8642,7 +9590,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.09,
+   "ageDays": 1.1,
    "_ts": 1792394672.544,
    "postedAt": "2026-10-19 15:24",
    "hasBody": true,
@@ -8653,6 +9601,39 @@ window.SITE_DATA = {
    "title_zh": "AES 国家（马里、布基纳法索、尼日尔）在 2023 年底前驱逐了所有法国军队、大使和外交官，暂停法国媒体，禁止 Air",
    "snippet_zh": "萨赫勒国家联盟国家（马里、布基纳法索、尼日尔）在2023年底前驱逐了所有法国军队、大使和外交官，暂停法国媒体，禁止法国航空，并退出法语国家组织。布基纳法索于2026年6月完全断绝外交关系。他们组建了共同防御条约，退出西非国家经济共同体，在俄罗斯支持下启动了一支5000人的联合部队，并创建了包括开发银行在内的共享机构。\n\n总体而言安全状况恶化，根据ACLED和其他追踪机构的统计，圣战暴力活动增加，死亡人数和流离失所人数增多，尽管开展了联合行动。在持续不稳定的情况下，一些地方的经济增长仍在继续。",
    "body_zh": "萨赫勒国家联盟国家（马里、布基纳法索、尼日尔）在2023年底前驱逐了所有法国军队、大使和外交官，暂停法国媒体，禁止法国航空，并退出法语国家组织。布基纳法索于2026年6月完全断绝外交关系。他们组建了共同防御条约，退出西非国家经济共同体，在俄罗斯支持下启动了一支5000人的联合部队，并创建了包括开发银行在内的共享机构。\n\n总体而言安全状况恶化，根据ACLED和其他追踪机构的统计，圣战暴力活动增加，死亡人数和流离失所人数增多，尽管开展了联合行动。在持续不稳定的情况下，一些地方的经济增长仍在继续。"
+  },
+  {
+   "platform": "x",
+   "title": "#Bandit Leader Adu Aleru Killed Rival #Kingpin Kachallah Dogo Baldu During a Firefight Over Territory in Mada, #Zamfara State, #Nigeria Read",
+   "url": "https://x.com/TracTerrorism/status/2112082332580552847",
+   "snippet": "#Bandit Leader Adu Aleru Killed Rival #Kingpin Kachallah Dogo Baldu During a Firefight Over Territory in Mada, #Zamfara State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/adu-aleru-killed-rival-kingpin-kachallah-dogo-baldu-trac/",
+   "body": "#Bandit Leader Adu Aleru Killed Rival #Kingpin Kachallah Dogo Baldu During a Firefight Over Territory in Mada, #Zamfara State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/adu-aleru-killed-rival-kingpin-kachallah-dogo-baldu-trac/",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@TracTerrorism",
+   "country": [
+    "ng"
+   ],
+   "topic": [
+    "sec"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.1,
+   "_ts": 1792394643.336,
+   "postedAt": "2026-10-19 15:24",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_ter_ng",
+   "title_zh": "#匪首Adu Aleru在#Zamfara州#Mada的领土交火中杀死对手#头目Kachallah Dogo Baldu，#尼日利亚 阅读",
+   "snippet_zh": "#匪徒头目阿杜·阿莱鲁在马达的领土争夺战中击毙对手#头目卡查拉·多戈·巴尔杜，#赞法拉州，#尼日利亚\n阅读更多：https://trackingterrorism.org/chatter/adu-aleru-killed-rival-kingpin-kachallah-dogo-baldu-trac/",
+   "body_zh": "#匪徒头目阿杜·阿莱鲁在马达的领土争夺战中击毙对手#头目卡查拉·多戈·巴尔杜，#赞法拉州，#尼日利亚\n阅读更多：https://trackingterrorism.org/chatter/adu-aleru-killed-rival-kingpin-kachallah-dogo-baldu-trac/"
   },
   {
    "platform": "x",
@@ -8675,7 +9656,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.11,
+   "ageDays": 1.12,
    "_ts": 1792392831.923,
    "postedAt": "2026-10-19 14:53",
    "hasBody": true,
@@ -8708,7 +9689,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.11,
+   "ageDays": 1.12,
    "_ts": 1792392570.913,
    "postedAt": "2026-10-19 14:49",
    "hasBody": true,
@@ -8741,7 +9722,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.14,
+   "ageDays": 1.15,
    "_ts": 1792389600.281,
    "postedAt": "2026-10-19 14:00",
    "hasBody": true,
@@ -8774,7 +9755,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 1.17,
+   "ageDays": 1.18,
    "_ts": 1792386951.176,
    "postedAt": "2026-10-19 13:15",
    "hasBody": true,
@@ -8807,7 +9788,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.17,
+   "ageDays": 1.18,
    "_ts": 1792386949.643,
    "postedAt": "2026-10-19 13:15",
    "hasBody": true,
@@ -8840,7 +9821,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.19,
+   "ageDays": 1.2,
    "_ts": 1792385916.046,
    "postedAt": "2026-10-19 12:58",
    "hasBody": true,
@@ -8875,7 +9856,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.23,
+   "ageDays": 1.24,
    "_ts": 1792381849.987,
    "postedAt": "2026-10-19 11:50",
    "hasBody": true,
@@ -8909,7 +9890,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.3,
+   "ageDays": 1.31,
    "_ts": 1792376220.441,
    "postedAt": "2026-10-19 10:17",
    "hasBody": true,
@@ -8943,7 +9924,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.33,
+   "ageDays": 1.34,
    "_ts": 1792373261.223,
    "postedAt": "2026-10-19 09:27",
    "hasBody": true,
@@ -8954,6 +9935,39 @@ window.SITE_DATA = {
    "title_zh": "河北燕山电力 #Pipe #Fitting Co.",
    "snippet_zh": "河北燕山电力管道配件有限公司 | 油气管道配件的制造商\n✅ DN700 PN10.0 气体集管\n✅ 中俄东线热感应弯管 φ1422×25.7, R=5D, X80\n我们专注于长距离油气管道",
    "body_zh": "河北燕山电力管道配件有限公司 | 油气管道配件的制造商\n✅ DN700 PN10.0 气体集管\n✅ 中俄东线热感应弯管 φ1422×25.7, R=5D, X80\n我们专注于长距离油气管道"
+  },
+  {
+   "platform": "x",
+   "title": "RÚSSIA PROJETA 39 BCM DE GÁS À CHINA EM 2026 Rússia espera que exportações de gás à China via o gasoduto Power of Siberia cheguem a 39 BCM e",
+   "url": "https://x.com/Aelloradar/status/2111977410736316872",
+   "snippet": "RÚSSIA PROJETA 39 BCM DE GÁS À CHINA EM 2026\n\nRússia espera que exportações de gás à China via o gasoduto Power of Siberia cheguem a 39 BCM em 2026, superando a capacidade contratada de 38 BCM. Moscou e Pequim concordaram em elevar as entregas anuais para 44 BCM, sem cronograma confirmado. #Gas #Russia",
+   "body": "RÚSSIA PROJETA 39 BCM DE GÁS À CHINA EM 2026\n\nRússia espera que exportações de gás à China via o gasoduto Power of Siberia cheguem a 39 BCM em 2026, superando a capacidade contratada de 38 BCM. Moscou e Pequim concordaram em elevar as entregas anuais para 44 BCM, sem cronograma confirmado. #Gas #Russia",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@Aelloradar",
+   "country": [
+    "ru"
+   ],
+   "topic": [
+    "ene"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.39,
+   "_ts": 1792369628.019,
+   "postedAt": "2026-10-19 08:27",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ru",
+   "title_zh": "俄罗斯预计2026年向中国输送390亿立方米天然气 俄罗斯希望通过西伯利亚力量管道向中国的天然气出口达到390亿立方米并且",
+   "snippet_zh": "俄罗斯预计2026年向中国供应390亿立方米天然气\n\n俄罗斯预计通过西伯利亚力量天然气管道向中国的天然气出口将在2026年达到390亿立方米，超过合同规定的380亿立方米产能。莫斯科和北京同意将年度交付量提高到440亿立方米，但尚未确认时间表。#Gas #Russia",
+   "body_zh": "俄罗斯预计2026年向中国供应390亿立方米天然气\n\n俄罗斯预计通过西伯利亚力量天然气管道向中国的天然气出口将在2026年达到390亿立方米，超过合同规定的380亿立方米产能。莫斯科和北京同意将年度交付量提高到440亿立方米，但尚未确认时间表。#Gas #Russia"
   },
   {
    "platform": "x",
@@ -8976,7 +9990,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.38,
+   "ageDays": 1.39,
    "_ts": 1792369528.097,
    "postedAt": "2026-10-19 08:25",
    "hasBody": true,
@@ -9010,7 +10024,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.38,
+   "ageDays": 1.39,
    "_ts": 1792369527.636,
    "postedAt": "2026-10-19 08:25",
    "hasBody": true,
@@ -9043,7 +10057,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.39,
+   "ageDays": 1.4,
    "_ts": 1792368345.497,
    "postedAt": "2026-10-19 08:05",
    "hasBody": true,
@@ -9077,7 +10091,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.4,
+   "ageDays": 1.41,
    "_ts": 1792367757.65,
    "postedAt": "2026-10-19 07:55",
    "hasBody": true,
@@ -9110,7 +10124,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
-   "ageDays": 1.39,
+   "terrHit": false,
+   "ageDays": 1.41,
    "_ts": 1792367315.113,
    "postedAt": "2026-10-19 07:48",
    "hasBody": true,
@@ -9118,9 +10133,9 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_cn_ph",
-   "title_zh": "北京一段时间以来一直在竭尽所能寻找胁迫马尼拉的工具。",
-   "snippet_zh": "北京一段时间以来一直在竭尽所能寻找胁迫马尼拉的工具。无论是在海上采取那些“控制措施”，还是在这里威胁制裁菲律宾官员，显然它已经黔驴技穷。\n\n剩下的唯一工具：彻底的经济制裁和动能武力。",
-   "body_zh": "北京一段时间以来一直在竭尽所能寻找胁迫马尼拉的工具。无论是在海上采取那些“控制措施”，还是在这里威胁制裁菲律宾官员，显然它已经黔驴技穷。\n\n剩下的唯一工具：彻底的经济制裁和动能武力。"
+   "title_zh": "一段时间以来，北京一直在竭尽所能寻找胁迫马尼拉的工具。",
+   "snippet_zh": "北京一段时间以来一直在竭尽所能寻找胁迫马尼拉的工具。无论是在海上采取那些“控制措施”，还是在这里威胁制裁菲律宾官员，显然它已经黔驴技穷。\n\n剩下的唯一工具：彻底的经济制裁和军事力量。",
+   "body_zh": "北京一段时间以来一直在竭尽所能寻找胁迫马尼拉的工具。无论是在海上采取那些“控制措施”，还是在这里威胁制裁菲律宾官员，显然它已经黔驴技穷。\n\n剩下的唯一工具：彻底的经济制裁和军事力量。"
   },
   {
    "platform": "x",
@@ -9145,7 +10160,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.43,
+   "ageDays": 1.44,
    "_ts": 1792364633.009,
    "postedAt": "2026-10-19 07:03",
    "hasBody": true,
@@ -9180,7 +10195,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.43,
+   "ageDays": 1.44,
    "_ts": 1792364591.029,
    "postedAt": "2026-10-19 07:03",
    "hasBody": true,
@@ -9213,7 +10228,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.45,
+   "ageDays": 1.46,
    "_ts": 1792363012.596,
    "postedAt": "2026-10-19 06:36",
    "hasBody": true,
@@ -9246,7 +10261,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
-   "ageDays": 1.44,
+   "terrHit": false,
+   "ageDays": 1.46,
    "_ts": 1792362962.001,
    "postedAt": "2026-10-19 06:36",
    "hasBody": true,
@@ -9254,9 +10270,9 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_cn_gh",
-   "title_zh": "副总统娜娜·简·奥波库-阿杰曼教授呼吁中国投资者在加纳建立产业，为该国创造就业机会",
-   "snippet_zh": "副总统 Naana Jane Opoku-Agyemang 教授呼吁中国投资者在加纳建立工业，为该国不断增长的年轻人口创造就业机会。\n\n她指出乳木果和可可加工是关键的投资机会，并警告称在没有工业吸收技能的情况下培训年轻人可能会加剧失业。\n\n她还敦促加纳和中国深化知识共享以支持工业增长。\n\n#ChannelOneNews #GhanaNews #Investment #JobCreation",
-   "body_zh": "副总统 Naana Jane Opoku-Agyemang 教授呼吁中国投资者在加纳建立工业，为该国不断增长的年轻人口创造就业机会。\n\n她指出乳木果和可可加工是关键的投资机会，并警告称在没有工业吸收技能的情况下培训年轻人可能会加剧失业。\n\n她还敦促加纳和中国深化知识共享以支持工业增长。\n\n#ChannelOneNews #GhanaNews #Investment #JobCreation"
+   "title_zh": "副总统纳安娜·简·奥波库-阿杰曼教授呼吁中国投资者在加纳建立工业，为该国创造就业机会",
+   "snippet_zh": "副总统Naana Jane Opoku-Agyemang教授呼吁中国投资者在加纳建立工业，为该国不断增长的年轻人口创造就业机会。\n\n她指出乳木果和可可加工是关键的投资机会，并警告称培训年轻人却没有工业吸收他们的技能可能会加剧失业。\n\n她还敦促加纳和中国深化知识共享以支持工业增长。\n\n#ChannelOneNews #GhanaNews #Investment #JobCreation",
+   "body_zh": "副总统Naana Jane Opoku-Agyemang教授呼吁中国投资者在加纳建立工业，为该国不断增长的年轻人口创造就业机会。\n\n她指出乳木果和可可加工是关键的投资机会，并警告称培训年轻人却没有工业吸收他们的技能可能会加剧失业。\n\n她还敦促加纳和中国深化知识共享以支持工业增长。\n\n#ChannelOneNews #GhanaNews #Investment #JobCreation"
   },
   {
    "platform": "x",
@@ -9280,7 +10296,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.48,
+   "ageDays": 1.49,
    "_ts": 1792360477.0,
    "postedAt": "2026-10-19 05:54",
    "hasBody": true,
@@ -9314,7 +10330,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 1.49,
+   "ageDays": 1.5,
    "_ts": 1792359834.041,
    "postedAt": "2026-10-19 05:43",
    "hasBody": true,
@@ -9348,7 +10364,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.49,
+   "ageDays": 1.5,
    "_ts": 1792359396.605,
    "postedAt": "2026-10-19 05:36",
    "hasBody": true,
@@ -9381,7 +10397,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": true,
-   "ageDays": 1.53,
+   "ageDays": 1.54,
    "_ts": 1792356173.787,
    "postedAt": "2026-10-19 04:42",
    "hasBody": true,
@@ -9392,6 +10408,40 @@ window.SITE_DATA = {
    "title_zh": "美国并非撤退，他们只是在等待尼日利亚在打击恐怖分子方面变得更强大。",
    "snippet_zh": "美国并没有撤出，他们只是在等待尼日利亚在打击恐怖分子方面变得更强大。在圣诞节和五月之后，我们只会变得更好。此外，非洲司令部指挥官只是要求索马里加强行动，就像他们要求尼日利亚一样",
    "body_zh": "美国并没有撤出，他们只是在等待尼日利亚在打击恐怖分子方面变得更强大。在圣诞节和五月之后，我们只会变得更好。此外，非洲司令部指挥官只是要求索马里加强行动，就像他们要求尼日利亚一样"
+  },
+  {
+   "platform": "x",
+   "title": "🚨🛢️🇨🇳🇷🇺 #Chinese Premier Li Qiang will visit #Russia from October 20 to 22.",
+   "url": "https://x.com/Newsmarket001/status/2111909998083047709",
+   "snippet": "🚨🛢️🇨🇳🇷🇺 #Chinese Premier Li Qiang will visit #Russia from October 20 to 22. On October 21, he will hold talks with Prime #Minister Mikhail Mishustin. The key topic of the discussions will be energy, including *#gas*.",
+   "body": "🚨🛢️🇨🇳🇷🇺 #Chinese Premier Li Qiang will visit #Russia from October 20 to 22. On October 21, he will hold talks with Prime #Minister Mikhail Mishustin. The key topic of the discussions will be energy, including *#gas*.",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@Newsmarket001",
+   "country": [
+    "ru"
+   ],
+   "topic": [
+    "ene",
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.57,
+   "_ts": 1792353555.59,
+   "postedAt": "2026-10-19 03:59",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ru",
+   "title_zh": "🚨🛢️🇨🇳🇷🇺 中国总理李强将于10月20日至22日访问#俄罗斯。",
+   "snippet_zh": "🚨🛢️🇨🇳🇷🇺 中国总理李强将于10月20日至22日访问🇷🇺俄罗斯。10月21日，他将与总理米哈伊尔·米舒斯京举行会谈。讨论的关键议题将是能源，包括天然气。",
+   "body_zh": "🚨🛢️🇨🇳🇷🇺 中国总理李强将于10月20日至22日访问🇷🇺俄罗斯。10月21日，他将与总理米哈伊尔·米舒斯京举行会谈。讨论的关键议题将是能源，包括天然气。"
   },
   {
    "platform": "x",
@@ -9414,7 +10464,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.56,
+   "ageDays": 1.57,
    "_ts": 1792353246.641,
    "postedAt": "2026-10-19 03:54",
    "hasBody": true,
@@ -9447,7 +10497,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.57,
+   "ageDays": 1.58,
    "_ts": 1792353148.783,
    "postedAt": "2026-10-19 03:52",
    "hasBody": true,
@@ -9481,7 +10531,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.57,
+   "ageDays": 1.58,
    "_ts": 1792353029.153,
    "postedAt": "2026-10-19 03:50",
    "hasBody": true,
@@ -9516,7 +10566,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.59,
+   "ageDays": 1.6,
    "_ts": 1792351297.885,
    "postedAt": "2026-10-19 03:21",
    "hasBody": true,
@@ -9550,7 +10600,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.59,
+   "ageDays": 1.6,
    "_ts": 1792350992.735,
    "postedAt": "2026-10-19 03:16",
    "hasBody": true,
@@ -9583,7 +10633,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.64,
+   "ageDays": 1.65,
    "_ts": 1792346892.567,
    "postedAt": "2026-10-19 02:08",
    "hasBody": true,
@@ -9616,7 +10666,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.64,
+   "ageDays": 1.65,
    "_ts": 1792346684.633,
    "postedAt": "2026-10-19 02:04",
    "hasBody": true,
@@ -9650,7 +10700,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 1.66,
+   "ageDays": 1.67,
    "_ts": 1792344787.235,
    "postedAt": "2026-10-19 01:33",
    "hasBody": true,
@@ -9682,7 +10732,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
-   "ageDays": 1.65,
+   "terrHit": false,
+   "ageDays": 1.67,
    "_ts": 1792344600.44,
    "postedAt": "2026-10-19 01:30",
    "hasBody": true,
@@ -9690,9 +10741,9 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_cn_ph",
-   "title_zh": "在仲裁裁决为#菲律宾在#南海的主张正名十年后，#中国只是升级部署水炮……",
-   "snippet_zh": "南海仲裁裁决为#菲律宾 在#南海 的主张平反十年后，#中国 只是升级部署水炮、在黄岩岛扩大“自然保护区”，并对#马尼拉 官员发动信息战：@DonMcLainGill95 https://t.co/kkxsvieqWI #地缘政治",
-   "body_zh": "南海仲裁裁决为#菲律宾 在#南海 的主张平反十年后，#中国 只是升级部署水炮、在黄岩岛扩大“自然保护区”，并对#马尼拉 官员发动信息战：@DonMcLainGill95 https://t.co/kkxsvieqWI #地缘政治"
+   "title_zh": "仲裁裁决为#菲律宾在#南海的主张正名十年后，#中国只是升级部署水炮……",
+   "snippet_zh": "仲裁裁决支持#菲律宾在#南海的主张十年后，#中国只是升级部署水炮、在黄岩岛扩大“自然保护区”，并对#马尼拉官员发动信息战：@DonMcLainGill95 https://t.co/kkxsvieqWI #地缘政治",
+   "body_zh": "仲裁裁决支持#菲律宾在#南海的主张十年后，#中国只是升级部署水炮、在黄岩岛扩大“自然保护区”，并对#马尼拉官员发动信息战：@DonMcLainGill95 https://t.co/kkxsvieqWI #地缘政治"
   },
   {
    "platform": "x",
@@ -9714,7 +10765,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
-   "ageDays": 1.66,
+   "terrHit": false,
+   "ageDays": 1.68,
    "_ts": 1792344371.507,
    "postedAt": "2026-10-19 01:26",
    "hasBody": true,
@@ -9722,7 +10774,7 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_ter_ng",
-   "title_zh": "赞法拉正在流血。💔 报道称武装匪徒烧毁了12辆汽车，迫使数百人流离失所，并对达地区周围的社区强加5000万奈拉的税费",
+   "title_zh": "赞法拉正在流血。💔 报道称武装匪徒烧毁了12辆汽车，迫使数百人流离失所，并对达乌拉周围社区征收5000万奈拉的税款",
    "snippet_zh": "赞法拉正在流血。💔\n\n有报道称武装匪徒烧毁了12辆汽车，迫使数百人流离失所，并对丹萨道周围社区征收5000万奈拉的税费。现在，这些道路上的旅行者面临越来越大的恐惧。\n\n在安全成为这些人的现实之前，还要有多少生命和生计被摧毁？\n\n我们不能将此正常化。🇳🇬",
    "body_zh": "赞法拉正在流血。💔\n\n有报道称武装匪徒烧毁了12辆汽车，迫使数百人流离失所，并对丹萨道周围社区征收5000万奈拉的税费。现在，这些道路上的旅行者面临越来越大的恐惧。\n\n在安全成为这些人的现实之前，还要有多少生命和生计被摧毁？\n\n我们不能将此正常化。🇳🇬"
   },
@@ -9748,7 +10800,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.67,
+   "ageDays": 1.68,
    "_ts": 1792343820.471,
    "postedAt": "2026-10-19 01:17",
    "hasBody": true,
@@ -9781,7 +10833,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.68,
+   "ageDays": 1.69,
    "_ts": 1792342916.444,
    "postedAt": "2026-10-19 01:01",
    "hasBody": true,
@@ -9814,7 +10866,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.72,
+   "ageDays": 1.73,
    "_ts": 1792340131.424,
    "postedAt": "2026-10-19 00:15",
    "hasBody": true,
@@ -9847,7 +10899,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.72,
+   "ageDays": 1.73,
    "_ts": 1792340125.896,
    "postedAt": "2026-10-19 00:15",
    "hasBody": true,
@@ -9881,7 +10933,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.72,
+   "ageDays": 1.73,
    "_ts": 1792340089.811,
    "postedAt": "2026-10-19 00:14",
    "hasBody": true,
@@ -9914,7 +10966,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.73,
+   "ageDays": 1.74,
    "_ts": 1792339271.753,
    "postedAt": "2026-10-19 00:01",
    "hasBody": true,
@@ -9948,7 +11000,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.75,
+   "ageDays": 1.76,
    "_ts": 1792337501.966,
    "postedAt": "2026-10-18 23:31",
    "hasBody": true,
@@ -9984,7 +11036,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 1.76,
+   "ageDays": 1.77,
    "_ts": 1792336075.403,
    "postedAt": "2026-10-18 23:07",
    "hasBody": true,
@@ -10017,7 +11069,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.77,
+   "ageDays": 1.78,
    "_ts": 1792335894.376,
    "postedAt": "2026-10-18 23:04",
    "hasBody": true,
@@ -10050,7 +11102,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.77,
+   "ageDays": 1.78,
    "_ts": 1792335722.695,
    "postedAt": "2026-10-18 23:02",
    "hasBody": true,
@@ -10083,7 +11135,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.77,
+   "ageDays": 1.78,
    "_ts": 1792335320.44,
    "postedAt": "2026-10-18 22:55",
    "hasBody": true,
@@ -10116,7 +11168,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.77,
+   "ageDays": 1.78,
    "_ts": 1792335308.997,
    "postedAt": "2026-10-18 22:55",
    "hasBody": true,
@@ -10151,7 +11203,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.77,
+   "ageDays": 1.78,
    "_ts": 1792335139.891,
    "postedAt": "2026-10-18 22:52",
    "hasBody": true,
@@ -10185,7 +11237,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.78,
+   "ageDays": 1.79,
    "_ts": 1792334820.832,
    "postedAt": "2026-10-18 22:47",
    "hasBody": true,
@@ -10218,7 +11270,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 1.8,
+   "ageDays": 1.81,
    "_ts": 1792333002.366,
    "postedAt": "2026-10-18 22:16",
    "hasBody": true,
@@ -10229,6 +11281,39 @@ window.SITE_DATA = {
    "title_zh": "🇲🇱 #Info #MALI #Urgent 🇲🇱 10月17日，#JNIM 声称在 Diaba 以北 Goma 村对一支马里军队步兵巡逻队发动了简易爆炸装置袭击",
    "snippet_zh": "🇲🇱 #信息 #马里 #紧急 🇲🇱\n\n10月17日，#JNIM声称上午在# Ségou地区迪亚巴利以北的戈马村对一支马里军队步兵巡逻队发动了简易爆炸装置袭击。",
    "body_zh": "🇲🇱 #信息 #马里 #紧急 🇲🇱\n\n10月17日，#JNIM声称上午在# Ségou地区迪亚巴利以北的戈马村对一支马里军队步兵巡逻队发动了简易爆炸装置袭击。"
+  },
+  {
+   "platform": "x",
+   "title": "Kasi yun consumer goods na gawa sa china ay gawa ng chinese company at control yun ng chinese government.",
+   "url": "https://x.com/dream_elephant/status/2111821252776366394",
+   "snippet": "Kasi yun consumer goods na gawa sa china ay gawa ng chinese company at control yun ng chinese government. If philippine and china relation deteriorate, kayang diktahan ng chinese gov ang mga companya, at sabihin wag ibenta sa philipines. And that's 1 economic power na meron nila",
+   "body": "Kasi yun consumer goods na gawa sa china ay gawa ng chinese company at control yun ng chinese government. If philippine and china relation deteriorate, kayang diktahan ng chinese gov ang mga companya, at sabihin wag ibenta sa philipines. And that's 1 economic power na meron nila",
+   "bodyLevel": "post",
+   "author": "",
+   "handle": "@dream_elephant",
+   "country": [
+    "ph"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "ageDays": 1.82,
+   "_ts": 1792332397.06,
+   "postedAt": "2026-10-18 22:06",
+   "hasBody": true,
+   "grokSummary": false,
+   "engine": "xai-xsearch",
+   "note": "",
+   "tag": "soc_cn_ph",
+   "title_zh": "因为那些中国制造的消费品是由中国公司制造的，并且由中国政府控制。",
+   "snippet_zh": "因为那些来自中国的消费品是由中国公司制造的，并且受中国政府控制。如果菲律宾和中国的关系恶化，中国政府能够指挥那些公司，并告诉它们不要卖给菲律宾。而这就是他们拥有的一种经济力量。",
+   "body_zh": "因为那些来自中国的消费品是由中国公司制造的，并且受中国政府控制。如果菲律宾和中国的关系恶化，中国政府能够指挥那些公司，并告诉它们不要卖给菲律宾。而这就是他们拥有的一种经济力量。"
   },
   {
    "platform": "x",
@@ -10252,7 +11337,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.81,
+   "ageDays": 1.82,
    "_ts": 1792331983.94,
    "postedAt": "2026-10-18 21:59",
    "hasBody": true,
@@ -10285,7 +11370,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.84,
+   "ageDays": 1.85,
    "_ts": 1792329788.648,
    "postedAt": "2026-10-18 21:23",
    "hasBody": true,
@@ -10320,7 +11405,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.84,
+   "ageDays": 1.85,
    "_ts": 1792329635.254,
    "postedAt": "2026-10-18 21:20",
    "hasBody": true,
@@ -10354,7 +11439,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.85,
+   "ageDays": 1.86,
    "_ts": 1792328887.098,
    "postedAt": "2026-10-18 21:08",
    "hasBody": true,
@@ -10387,7 +11472,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.85,
+   "ageDays": 1.86,
    "_ts": 1792328666.303,
    "postedAt": "2026-10-18 21:04",
    "hasBody": true,
@@ -10420,7 +11505,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.85,
+   "ageDays": 1.86,
    "_ts": 1792328549.774,
    "postedAt": "2026-10-18 21:02",
    "hasBody": true,
@@ -10453,7 +11538,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 1.87,
+   "ageDays": 1.88,
    "_ts": 1792326724.467,
    "postedAt": "2026-10-18 20:32",
    "hasBody": true,
@@ -10487,7 +11572,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.87,
+   "ageDays": 1.88,
    "_ts": 1792326699.551,
    "postedAt": "2026-10-18 20:31",
    "hasBody": true,
@@ -10521,7 +11606,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.88,
+   "ageDays": 1.89,
    "_ts": 1792326320.944,
    "postedAt": "2026-10-18 20:25",
    "hasBody": true,
@@ -10554,7 +11639,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.89,
+   "ageDays": 1.9,
    "_ts": 1792324803.252,
    "postedAt": "2026-10-18 20:00",
    "hasBody": true,
@@ -10588,7 +11673,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": false,
    "usHit": false,
-   "ageDays": 1.89,
+   "terrHit": false,
+   "ageDays": 1.91,
    "_ts": 1792324053.491,
    "postedAt": "2026-10-18 19:47",
    "hasBody": true,
@@ -10596,9 +11682,9 @@ window.SITE_DATA = {
    "engine": "xai-xsearch",
    "note": "",
    "tag": "soc_us_sahel",
-   "title_zh": "西非国家经济共同体希望团聚。萨赫勒国家联盟前来谈判。2026年10月17日和18日，两个集团首次在达喀尔坐在同一张桌子上",
-   "snippet_zh": "西非国家经济共同体曾希望重聚。萨赫勒国家联盟前来谈判。\n\n2026年10月17日和18日，自马里、布基纳法索和尼日尔于2025年1月退出西非国家经济共同体以来，这两个集团首次在达喀尔同桌而坐。房间里坐满了外交部长。空气中充满了猜测。\n\n随后布基纳法索外交部长卡拉莫科·让-马里·特拉奥雷用三个词结束了这一切。\n\n“Il n'en est rien。”其中没有真相。\n\n他回答的是几周来一直在积累的问题：萨赫勒国家联盟是否准备回归？答案是否定的。现在不。不是以这种方式。\n\n联合声明措辞谨慎。它谈到了“兄弟情谊、相互尊重和开放”。它强调了“睦邻友好”和“尊重主权”。它宣布成立工作组，以准备一项关于贸易、人员流动和安全的框架合作协议。\n\n它没有宣布的是重聚。\n\n马里的阿卜杜拉耶·迪奥普表示，会谈必须是“实体对实体”——萨赫勒国家联盟和西非国家经济共同体作为两个独立的组织，而不是一个集团吸收另一个。尼日尔的巴卡里·尧·桑加雷直言不讳地说：“萨赫勒国家联盟并不反对西非国家经济共同体，但它有另一条道路。”\n\n这就是达喀尔所代表的。不是回家。而是平等者之间的谈判。\n\n萨赫勒国家联盟离开西非国家经济共同体并不是为了孤立自己。它离开是因为该集团对其进行制裁、威胁它，并拒绝接受三个主权国家选择了不同的方向。在随后的20个月里，萨赫勒国家联盟建立了一支联合军事力量、一家投资银行和一本共同生物识别护照。它不需要西非国家经济共同体来生存。它不需要重新加入来合作。\n\n西非现在有两个区域机构，而以前只有一个。旧集团必须学会分享空间。",
-   "body_zh": "西非国家经济共同体曾希望重聚。萨赫勒国家联盟前来谈判。\n\n2026年10月17日和18日，自马里、布基纳法索和尼日尔于2025年1月退出西非国家经济共同体以来，这两个集团首次在达喀尔同桌而坐。房间里坐满了外交部长。空气中充满了猜测。\n\n随后布基纳法索外交部长卡拉莫科·让-马里·特拉奥雷用三个词结束了这一切。\n\n“Il n'en est rien。”其中没有真相。\n\n他回答的是几周来一直在积累的问题：萨赫勒国家联盟是否准备回归？答案是否定的。现在不。不是以这种方式。\n\n联合声明措辞谨慎。它谈到了“兄弟情谊、相互尊重和开放”。它强调了“睦邻友好”和“尊重主权”。它宣布成立工作组，以准备一项关于贸易、人员流动和安全的框架合作协议。\n\n它没有宣布的是重聚。\n\n马里的阿卜杜拉耶·迪奥普表示，会谈必须是“实体对实体”——萨赫勒国家联盟和西非国家经济共同体作为两个独立的组织，而不是一个集团吸收另一个。尼日尔的巴卡里·尧·桑加雷直言不讳地说：“萨赫勒国家联盟并不反对西非国家经济共同体，但它有另一条道路。”\n\n这就是达喀尔所代表的。不是回家。而是平等者之间的谈判。\n\n萨赫勒国家联盟离开西非国家经济共同体并不是为了孤立自己。它离开是因为该集团对其进行制裁、威胁它，并拒绝接受三个主权国家选择了不同的方向。在随后的20个月里，萨赫勒国家联盟建立了一支联合军事力量、一家投资银行和一本共同生物识别护照。它不需要西非国家经济共同体来生存。它不需要重新加入来合作。\n\n西非现在有两个区域机构，而以前只有一个。旧集团必须学会分享空间。"
+   "title_zh": "西非国家经济共同体希望团聚。萨赫勒国家联盟前来谈判。2026年10月17日和18日，两个集团首次在达喀尔坐在同一张桌子上……",
+   "snippet_zh": "西非国家经济共同体希望重聚。萨赫勒国家联盟前来谈判。\n\n2026年10月17日和18日，自马里、布基纳法索和尼日尔于2025年1月退出西非国家经济共同体以来，这两个集团首次在达喀尔同桌而坐。房间里坐满了外交部长。空气中充满了猜测。\n\n随后布基纳法索外交部长卡拉莫科·让-马里·特拉奥雷用三个词结束了这一切。\n\n“Il n'en est rien。”其中没有真相。\n\n他回答的是几周来一直在酝酿的问题：萨赫勒国家联盟是否准备回归？答案是否定的。现在不会。这样不会。\n\n联合声明措辞谨慎。它谈到了“兄弟情谊、相互尊重和开放”。它强调了“睦邻友好”和“尊重主权”。它宣布成立工作组，以准备一项关于贸易、人员流动和安全的框架合作协议。\n\n它没有宣布的是重聚。\n\n马里的阿卜杜拉耶·迪奥普表示，会谈必须是“实体对实体”——萨赫勒国家联盟和西非国家经济共同体作为两个独立的组织，而不是一个集团吸收另一个。尼日尔的巴卡里·尧·桑加雷直言不讳地说：“萨赫勒国家联盟并不反对西非国家经济共同体，但它有另一条道路。”\n\n这就是达喀尔会谈的本质。不是回归。而是平等者之间的谈判。\n\n萨赫勒国家联盟退出西非国家经济共同体并不是为了孤立自己。它退出是因为该集团对其进行制裁、威胁它，并拒绝接受三个主权国家选择了不同的方向。在随后的20个月里，萨赫勒国家联盟建立了一支联合军事力量、一家投资银行和一本共同的生物识别护照。它不需要西非国家经济共同体来生存。它不需要重新加入来合作。\n\n西非现在有两个区域机构，而以前只有一个。旧集团必须学会分享空间。",
+   "body_zh": "西非国家经济共同体希望重聚。萨赫勒国家联盟前来谈判。\n\n2026年10月17日和18日，自马里、布基纳法索和尼日尔于2025年1月退出西非国家经济共同体以来，这两个集团首次在达喀尔同桌而坐。房间里坐满了外交部长。空气中充满了猜测。\n\n随后布基纳法索外交部长卡拉莫科·让-马里·特拉奥雷用三个词结束了这一切。\n\n“Il n'en est rien。”其中没有真相。\n\n他回答的是几周来一直在酝酿的问题：萨赫勒国家联盟是否准备回归？答案是否定的。现在不会。这样不会。\n\n联合声明措辞谨慎。它谈到了“兄弟情谊、相互尊重和开放”。它强调了“睦邻友好”和“尊重主权”。它宣布成立工作组，以准备一项关于贸易、人员流动和安全的框架合作协议。\n\n它没有宣布的是重聚。\n\n马里的阿卜杜拉耶·迪奥普表示，会谈必须是“实体对实体”——萨赫勒国家联盟和西非国家经济共同体作为两个独立的组织，而不是一个集团吸收另一个。尼日尔的巴卡里·尧·桑加雷直言不讳地说：“萨赫勒国家联盟并不反对西非国家经济共同体，但它有另一条道路。”\n\n这就是达喀尔会谈的本质。不是回归。而是平等者之间的谈判。\n\n萨赫勒国家联盟退出西非国家经济共同体并不是为了孤立自己。它退出是因为该集团对其进行制裁、威胁它，并拒绝接受三个主权国家选择了不同的方向。在随后的20个月里，萨赫勒国家联盟建立了一支联合军事力量、一家投资银行和一本共同的生物识别护照。它不需要西非国家经济共同体来生存。它不需要重新加入来合作。\n\n西非现在有两个区域机构，而以前只有一个。旧集团必须学会分享空间。"
   },
   {
    "platform": "x",
@@ -10622,7 +11708,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.93,
+   "ageDays": 1.94,
    "_ts": 1792322004.276,
    "postedAt": "2026-10-18 19:13",
    "hasBody": true,
@@ -10656,7 +11742,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.95,
+   "ageDays": 1.96,
    "_ts": 1792320028.016,
    "postedAt": "2026-10-18 18:40",
    "hasBody": true,
@@ -10690,7 +11776,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.96,
+   "ageDays": 1.97,
    "_ts": 1792319434.415,
    "postedAt": "2026-10-18 18:30",
    "hasBody": true,
@@ -10724,7 +11810,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.96,
+   "ageDays": 1.97,
    "_ts": 1792319283.56,
    "postedAt": "2026-10-18 18:28",
    "hasBody": true,
@@ -10758,7 +11844,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.96,
+   "ageDays": 1.97,
    "_ts": 1792318809.638,
    "postedAt": "2026-10-18 18:20",
    "hasBody": true,
@@ -10791,7 +11877,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.97,
+   "ageDays": 1.98,
    "_ts": 1792318208.762,
    "postedAt": "2026-10-18 18:10",
    "hasBody": true,
@@ -10825,7 +11911,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 1.97,
+   "ageDays": 1.98,
    "_ts": 1792317911.632,
    "postedAt": "2026-10-18 18:05",
    "hasBody": true,
@@ -10860,8 +11946,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 2.0,
-   "_ts": 1792315625.541815,
-   "postedAt": "2026-10-18 17:27",
+   "_ts": 1792316493.008587,
+   "postedAt": "2026-10-18 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -10893,8 +11979,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 2.0,
-   "_ts": 1792315625.541815,
-   "postedAt": "2026-10-18 17:27",
+   "_ts": 1792316493.008587,
+   "postedAt": "2026-10-18 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -10914,7 +12000,7 @@ window.SITE_DATA = {
    "author": "Channel1tvgh",
    "handle": "@Channel1tvgh",
    "country": [
-    "vn"
+    "af"
    ],
    "topic": [
     "pol"
@@ -10926,8 +12012,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 2.0,
-   "_ts": 1792315625.541815,
-   "postedAt": "2026-10-18 17:27",
+   "_ts": 1792316493.008587,
+   "postedAt": "2026-10-18 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -10960,8 +12046,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 2.0,
-   "_ts": 1792315625.541815,
-   "postedAt": "2026-10-18 17:27",
+   "_ts": 1792316493.008587,
+   "postedAt": "2026-10-18 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -10994,8 +12080,8 @@ window.SITE_DATA = {
    "usHit": false,
    "terrHit": false,
    "ageDays": 2.0,
-   "_ts": 1792315625.541815,
-   "postedAt": "2026-10-18 17:27",
+   "_ts": 1792316493.008587,
+   "postedAt": "2026-10-18 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -11026,7 +12112,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.01,
+   "ageDays": 2.02,
    "_ts": 1792314819.261,
    "postedAt": "2026-10-18 17:13",
    "hasBody": true,
@@ -11037,169 +12123,6 @@ window.SITE_DATA = {
    "title_zh": "越南将在老街-河内-海防线路上使用由中国生产的 CR200J（复兴）高速列车机车头和车厢，将",
    "snippet_zh": "越南将在老街-河内-海防线路上使用由中国生产的CR200J（复兴）高速列车车头和车厢，最迟将于2030年完成",
    "body_zh": "越南将在老街-河内-海防线路上使用由中国生产的CR200J（复兴）高速列车车头和车厢，最迟将于2030年完成"
-  },
-  {
-   "platform": "facebook",
-   "title": "This policy aims to boost earnings from the sector and combat illegal activities.",
-   "url": "https://www.facebook.com/asaase99.5/posts/goldbods-reforms-in-ghanas-gold-sector-have-directly-generated-over-1300-jobs-im/1476986961308949/",
-   "snippet": "2 days ago · This policy aims to boost earnings from the sector and combat illegal activities. Further reinforcing the sector's growth, Gyamfi pointed to the ...",
-   "body": "2 days ago · This policy aims to boost earnings from the sector and combat illegal activities. Further reinforcing the sector's growth, Gyamfi pointed to the ...",
-   "bodyLevel": "excerpt",
-   "author": "asaase99.5",
-   "handle": "@asaase99.5",
-   "country": [
-    "af"
-   ],
-   "topic": [
-    "pol",
-    "eco"
-   ],
-   "tier": 4,
-   "actor": "第三方",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
-   "ageDays": 2.0,
-   "_ts": 1792314762.011372,
-   "postedAt": "2026-10-18 17:12",
-   "hasBody": false,
-   "grokSummary": false,
-   "engine": "",
-   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
-   "tag": "Ghana government GoldBod mining gold economy policy",
-   "title_zh": "这项政策旨在增加该行业的收入并打击非法活动。",
-   "snippet_zh": "2天前 · 这项政策旨在提高该部门的收入并打击非法活动。进一步加强该部门的增长，贾姆菲指出……",
-   "body_zh": "2天前 · 这项政策旨在提高该部门的收入并打击非法活动。进一步加强该部门的增长，贾姆菲指出……"
-  },
-  {
-   "platform": "facebook",
-   "title": "NPP's silence on economic indicators suggests Mahama is doing better",
-   "url": "https://www.facebook.com/JoyNewsOnTV/posts/npps-silence-on-economic-indicators-suggests-mahama-is-doing-better-haruna-iddri/1466491702341891/",
-   "snippet": "2 days ago · Reflecting on Mahama's tenure, Opare-Ansah noted that the economy experienced an annual growth rate of 8.8% from 2012 but dropped to 3.4% by the ...",
-   "body": "2 days ago · Reflecting on Mahama's tenure, Opare-Ansah noted that the economy experienced an annual growth rate of 8.8% from 2012 but dropped to 3.4% by the ...",
-   "bodyLevel": "excerpt",
-   "author": "JoyNewsOnTV",
-   "handle": "@JoyNewsOnTV",
-   "country": [
-    "gh"
-   ],
-   "topic": [
-    "eco"
-   ],
-   "tier": 4,
-   "actor": "第三方",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
-   "ageDays": 2.0,
-   "_ts": 1792314762.011372,
-   "postedAt": "2026-10-18 17:12",
-   "hasBody": false,
-   "grokSummary": false,
-   "engine": "",
-   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
-   "tag": "Ghana government ministry GoldBod Mahama policy",
-   "title_zh": "NPP 对经济指标的沉默表明马哈马做得更好",
-   "snippet_zh": "2天前 · 回顾马哈马的任期，奥帕雷-安萨指出，经济从2012年起经历了8.8%的年增长率，但到……",
-   "body_zh": "2天前 · 回顾马哈马的任期，奥帕雷-安萨指出，经济从2012年起经历了8.8%的年增长率，但到……"
-  },
-  {
-   "platform": "facebook",
-   "title": "Kojo Oppong Nkrumah filed a formal motion in Parliament.",
-   "url": "https://www.facebook.com/Channel1tvgh/posts/goldbod-ceo-sammy-gyamfi-has-explained-that-the-establishment-costs-captured-in-/1640495621450007/",
-   "snippet": "2 days ago · Kojo Oppong Nkrumah filed a formal motion in Parliament. He called for a bipartisan probe to investigate exactly where these millions went and ...",
-   "body": "2 days ago · Kojo Oppong Nkrumah filed a formal motion in Parliament. He called for a bipartisan probe to investigate exactly where these millions went and ...",
-   "bodyLevel": "excerpt",
-   "author": "Channel1tvgh",
-   "handle": "@Channel1tvgh",
-   "country": [
-    "af"
-   ],
-   "topic": [
-    "pol"
-   ],
-   "tier": 4,
-   "actor": "第三方",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
-   "ageDays": 2.0,
-   "_ts": 1792314762.011372,
-   "postedAt": "2026-10-18 17:12",
-   "hasBody": false,
-   "grokSummary": false,
-   "engine": "",
-   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
-   "tag": "Ghana government ministry GoldBod Mahama policy",
-   "title_zh": "科乔·奥蓬·恩克鲁玛在议会提交了一项正式动议。",
-   "snippet_zh": "2天前 · Kojo Oppong Nkrumah在议会提交了一项正式动议。他呼吁进行两党调查，以确切查明这些数百万资金的去向和……",
-   "body_zh": "2天前 · Kojo Oppong Nkrumah在议会提交了一项正式动议。他呼吁进行两党调查，以确切查明这些数百万资金的去向和……"
-  },
-  {
-   "platform": "facebook",
-   "title": "GoldBod terminates US$1 billion Goldstream deal in Ghana - Facebook",
-   "url": "https://www.facebook.com/gomashie.wisdomfaraday/posts/the-africa-policy-lens-on-the-matters-of-ghana-gold-board-goldbod-dealings-with-/28121184304225648/",
-   "snippet": "2 days ago · The post criticizes the Gold Board of Ghana, Sammy Gyamfi, and John Dramani Mahama for abandoning the first national refinery, questioning the ...",
-   "body": "2 days ago · The post criticizes the Gold Board of Ghana, Sammy Gyamfi, and John Dramani Mahama for abandoning the first national refinery, questioning the ...",
-   "bodyLevel": "excerpt",
-   "author": "gomashie.wisdomfaraday",
-   "handle": "@gomashie.wisdomfaraday",
-   "country": [
-    "gh"
-   ],
-   "topic": [
-    "ene",
-    "min"
-   ],
-   "tier": 3,
-   "actor": "当事国政府",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
-   "ageDays": 2.0,
-   "_ts": 1792314762.011372,
-   "postedAt": "2026-10-18 17:12",
-   "hasBody": false,
-   "grokSummary": false,
-   "engine": "",
-   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
-   "tag": "Ghana government ministry GoldBod Mahama policy",
-   "title_zh": "加纳黄金局终止在加纳的10亿美元Goldstream交易 - Facebook",
-   "snippet_zh": "2天前·该帖子批评加纳黄金局、萨米·贾姆菲和约翰·德拉马尼·马哈马放弃了第一个国家炼油厂，对……提出质疑……",
-   "body_zh": "2天前·该帖子批评加纳黄金局、萨米·贾姆菲和约翰·德拉马尼·马哈马放弃了第一个国家炼油厂，对……提出质疑……"
-  },
-  {
-   "platform": "facebook",
-   "title": "This move is designed to stabilize the cedi and strengthen Ghana's gold reserves.",
-   "url": "https://www.facebook.com/JoyNewsOnTV/posts/public-accounts-committee-hearing-goldbod-is-on-track-8090-of-gold-mined-in-ghan/1466526112338450/",
-   "snippet": "2 days ago · This move is designed to stabilize the cedi and strengthen Ghana's gold reserves. Under Gyamfi's leadership, GoldBod has earned praise from ...",
-   "body": "2 days ago · This move is designed to stabilize the cedi and strengthen Ghana's gold reserves. Under Gyamfi's leadership, GoldBod has earned praise from ...",
-   "bodyLevel": "excerpt",
-   "author": "JoyNewsOnTV",
-   "handle": "@JoyNewsOnTV",
-   "country": [
-    "gh"
-   ],
-   "topic": [
-    "eco",
-    "min"
-   ],
-   "tier": 3,
-   "actor": "当事国政府",
-   "alsoUS": false,
-   "cnHit": false,
-   "usHit": false,
-   "ageDays": 2.0,
-   "_ts": 1792314762.011372,
-   "postedAt": "2026-10-18 17:12",
-   "hasBody": false,
-   "grokSummary": false,
-   "engine": "",
-   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
-   "tag": "Ghana government ministry GoldBod Mahama policy",
-   "title_zh": "此举旨在稳定塞地并加强加纳的黄金储备。",
-   "snippet_zh": "2天前 · 此举旨在稳定塞地并加强加纳的黄金储备。在Gyamfi的领导下，GoldBod获得了……的赞扬",
-   "body_zh": "2天前 · 此举旨在稳定塞地并加强加纳的黄金储备。在Gyamfi的领导下，GoldBod获得了……的赞扬"
   },
   {
    "platform": "x",
@@ -11223,7 +12146,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.02,
+   "ageDays": 2.03,
    "_ts": 1792313956.995,
    "postedAt": "2026-10-18 16:59",
    "hasBody": true,
@@ -11257,7 +12180,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.02,
+   "ageDays": 2.03,
    "_ts": 1792313551.327,
    "postedAt": "2026-10-18 16:52",
    "hasBody": true,
@@ -11290,7 +12213,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.03,
+   "ageDays": 2.04,
    "_ts": 1792313276.751,
    "postedAt": "2026-10-18 16:47",
    "hasBody": true,
@@ -11324,7 +12247,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.03,
+   "ageDays": 2.04,
    "_ts": 1792312743.877,
    "postedAt": "2026-10-18 16:39",
    "hasBody": true,
@@ -11358,7 +12281,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.04,
+   "ageDays": 2.05,
    "_ts": 1792311945.782,
    "postedAt": "2026-10-18 16:25",
    "hasBody": true,
@@ -11392,7 +12315,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.05,
+   "ageDays": 2.06,
    "_ts": 1792311261.958,
    "postedAt": "2026-10-18 16:14",
    "hasBody": true,
@@ -11426,7 +12349,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.08,
+   "ageDays": 2.09,
    "_ts": 1792308763.641,
    "postedAt": "2026-10-18 15:32",
    "hasBody": true,
@@ -11460,7 +12383,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.08,
+   "ageDays": 2.09,
    "_ts": 1792308329.727,
    "postedAt": "2026-10-18 15:25",
    "hasBody": true,
@@ -11493,7 +12416,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.11,
+   "ageDays": 2.12,
    "_ts": 1792306067.981,
    "postedAt": "2026-10-18 14:47",
    "hasBody": true,
@@ -11527,7 +12450,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.13,
+   "ageDays": 2.14,
    "_ts": 1792304601.322,
    "postedAt": "2026-10-18 14:23",
    "hasBody": true,
@@ -11562,7 +12485,8 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
-   "ageDays": 2.12,
+   "terrHit": false,
+   "ageDays": 2.14,
    "_ts": 1792304390.197,
    "postedAt": "2026-10-18 14:19",
    "hasBody": true,
@@ -11571,8 +12495,8 @@ window.SITE_DATA = {
    "note": "",
    "tag": "soc_cn_vn",
    "title_zh": "什么是中国军国主义？",
-   "snippet_zh": "什么是中国军国主义？（猜猜谁在公然将南海岛屿军事化多年之后……现在又悄悄在老挝的越南边境建立空军基地？）\n\n俄罗斯的一个主要问题——中国更是如此——是，与希特勒的集中营不同，它们的集中营从未被解放，也没有纽伦堡法庭来审判所犯下的罪行。\n\nThérèse Delpech (2005)\n\n二十世纪在亚洲尚未结束，冷战甚至第二次世界大战在这个地区也尚未画上句号。\n\nThérèse Delpech (2005)\n\nhttps://t.co/UaqbDuTKBn",
-   "body_zh": "什么是中国军国主义？（猜猜谁在公然将南海岛屿军事化多年之后……现在又悄悄在老挝的越南边境建立空军基地？）\n\n俄罗斯的一个主要问题——中国更是如此——是，与希特勒的集中营不同，它们的集中营从未被解放，也没有纽伦堡法庭来审判所犯下的罪行。\n\nThérèse Delpech (2005)\n\n二十世纪在亚洲尚未结束，冷战甚至第二次世界大战在这个地区也尚未画上句号。\n\nThérèse Delpech (2005)\n\nhttps://t.co/UaqbDuTKBn"
+   "snippet_zh": "什么是中国军国主义？（猜猜看，在公然将南海岛屿军事化多年之后……现在又悄悄在老挝的越南边境建立空军基地的是谁？）\n\n俄罗斯的一个主要问题——中国更是如此——是，与希特勒的集中营不同，它们的集中营从未被解放，也没有纽伦堡法庭来审判所犯下的罪行。”\n\n泰蕾兹·德尔佩什 (2005)\n\n二十世纪在亚洲尚未结束，冷战甚至第二次世界大战在这个地区也尚未画上句号。\n\n泰蕾兹·德尔佩什 (2005)\n\nhttps://t.co/UaqbDuTKBn",
+   "body_zh": "什么是中国军国主义？（猜猜看，在公然将南海岛屿军事化多年之后……现在又悄悄在老挝的越南边境建立空军基地的是谁？）\n\n俄罗斯的一个主要问题——中国更是如此——是，与希特勒的集中营不同，它们的集中营从未被解放，也没有纽伦堡法庭来审判所犯下的罪行。”\n\n泰蕾兹·德尔佩什 (2005)\n\n二十世纪在亚洲尚未结束，冷战甚至第二次世界大战在这个地区也尚未画上句号。\n\n泰蕾兹·德尔佩什 (2005)\n\nhttps://t.co/UaqbDuTKBn"
   },
   {
    "platform": "x",
@@ -11597,7 +12521,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.16,
+   "ageDays": 2.17,
    "_ts": 1792301904.087,
    "postedAt": "2026-10-18 13:38",
    "hasBody": true,
@@ -11630,7 +12554,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.16,
+   "ageDays": 2.17,
    "_ts": 1792301820.235,
    "postedAt": "2026-10-18 13:37",
    "hasBody": true,
@@ -11663,7 +12587,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.18,
+   "ageDays": 2.19,
    "_ts": 1792300411.491,
    "postedAt": "2026-10-18 13:13",
    "hasBody": true,
@@ -11697,7 +12621,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.23,
+   "ageDays": 2.24,
    "_ts": 1792295633.513,
    "postedAt": "2026-10-18 11:53",
    "hasBody": true,
@@ -11731,7 +12655,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.33,
+   "ageDays": 2.34,
    "_ts": 1792287006.747,
    "postedAt": "2026-10-18 09:30",
    "hasBody": true,
@@ -11764,7 +12688,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.44,
+   "ageDays": 2.45,
    "_ts": 1792277444.57,
    "postedAt": "2026-10-18 06:50",
    "hasBody": true,
@@ -11797,7 +12721,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.51,
+   "ageDays": 2.52,
    "_ts": 1792271393.08,
    "postedAt": "2026-10-18 05:09",
    "hasBody": true,
@@ -11831,7 +12755,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 2.51,
+   "ageDays": 2.52,
    "_ts": 1792271275.879,
    "postedAt": "2026-10-18 05:07",
    "hasBody": true,
@@ -11864,7 +12788,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.52,
+   "ageDays": 2.53,
    "_ts": 1792270990.362,
    "postedAt": "2026-10-18 05:03",
    "hasBody": true,
@@ -11897,7 +12821,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.56,
+   "ageDays": 2.57,
    "_ts": 1792267231.615,
    "postedAt": "2026-10-18 04:00",
    "hasBody": true,
@@ -11931,7 +12855,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.56,
+   "ageDays": 2.57,
    "_ts": 1792266900.235,
    "postedAt": "2026-10-18 03:55",
    "hasBody": true,
@@ -11964,7 +12888,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 2.59,
+   "ageDays": 2.6,
    "_ts": 1792264504.057,
    "postedAt": "2026-10-18 03:15",
    "hasBody": true,
@@ -11998,7 +12922,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.59,
+   "ageDays": 2.6,
    "_ts": 1792264474.737,
    "postedAt": "2026-10-18 03:14",
    "hasBody": true,
@@ -12031,7 +12955,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.65,
+   "ageDays": 2.66,
    "_ts": 1792259205.424,
    "postedAt": "2026-10-18 01:46",
    "hasBody": true,
@@ -12065,7 +12989,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.66,
+   "ageDays": 2.67,
    "_ts": 1792258231.717,
    "postedAt": "2026-10-18 01:30",
    "hasBody": true,
@@ -12099,7 +13023,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.67,
+   "ageDays": 2.68,
    "_ts": 1792257328.224,
    "postedAt": "2026-10-18 01:15",
    "hasBody": true,
@@ -12133,7 +13057,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.68,
+   "ageDays": 2.69,
    "_ts": 1792257057.899,
    "postedAt": "2026-10-18 01:10",
    "hasBody": true,
@@ -12168,7 +13092,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.71,
+   "ageDays": 2.72,
    "_ts": 1792254397.531,
    "postedAt": "2026-10-18 00:26",
    "hasBody": true,
@@ -12202,7 +13126,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.71,
+   "ageDays": 2.72,
    "_ts": 1792253942.925,
    "postedAt": "2026-10-18 00:19",
    "hasBody": true,
@@ -12235,7 +13159,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
-   "ageDays": 2.72,
+   "ageDays": 2.73,
    "_ts": 1792253347.91,
    "postedAt": "2026-10-18 00:09",
    "hasBody": true,
@@ -12269,7 +13193,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": true,
    "terrHit": false,
-   "ageDays": 2.72,
+   "ageDays": 2.73,
    "_ts": 1792253003.312,
    "postedAt": "2026-10-18 00:03",
    "hasBody": true,
@@ -12303,7 +13227,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.74,
+   "ageDays": 2.75,
    "_ts": 1792251550.271,
    "postedAt": "2026-10-17 23:39",
    "hasBody": true,
@@ -12336,7 +13260,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.78,
+   "ageDays": 2.79,
    "_ts": 1792248483.22,
    "postedAt": "2026-10-17 22:48",
    "hasBody": true,
@@ -12370,7 +13294,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.78,
+   "ageDays": 2.79,
    "_ts": 1792248467.802,
    "postedAt": "2026-10-17 22:47",
    "hasBody": true,
@@ -12403,7 +13327,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.82,
+   "ageDays": 2.83,
    "_ts": 1792245028.943,
    "postedAt": "2026-10-17 21:50",
    "hasBody": true,
@@ -12437,7 +13361,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.83,
+   "ageDays": 2.84,
    "_ts": 1792244197.464,
    "postedAt": "2026-10-17 21:36",
    "hasBody": true,
@@ -12471,7 +13395,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.83,
+   "ageDays": 2.84,
    "_ts": 1792244112.808,
    "postedAt": "2026-10-17 21:35",
    "hasBody": true,
@@ -12504,7 +13428,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.88,
+   "ageDays": 2.89,
    "_ts": 1792239841.892,
    "postedAt": "2026-10-17 20:24",
    "hasBody": true,
@@ -12537,7 +13461,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.88,
+   "ageDays": 2.89,
    "_ts": 1792239230.337,
    "postedAt": "2026-10-17 20:13",
    "hasBody": true,
@@ -12570,7 +13494,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.9,
+   "ageDays": 2.91,
    "_ts": 1792238004.049,
    "postedAt": "2026-10-17 19:53",
    "hasBody": true,
@@ -12604,7 +13528,7 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.91,
+   "ageDays": 2.92,
    "_ts": 1792236711.212,
    "postedAt": "2026-10-17 19:31",
    "hasBody": true,
@@ -12637,7 +13561,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.92,
+   "ageDays": 2.93,
    "_ts": 1792235717.129,
    "postedAt": "2026-10-17 19:15",
    "hasBody": true,
@@ -12671,7 +13595,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.94,
+   "ageDays": 2.95,
    "_ts": 1792234561.385,
    "postedAt": "2026-10-17 18:56",
    "hasBody": true,
@@ -12705,7 +13629,7 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": false,
-   "ageDays": 2.96,
+   "ageDays": 2.97,
    "_ts": 1792232975.311,
    "postedAt": "2026-10-17 18:29",
    "hasBody": true,
@@ -12737,9 +13661,10 @@ window.SITE_DATA = {
    "alsoUS": false,
    "cnHit": true,
    "usHit": false,
+   "terrHit": false,
    "ageDays": 3.0,
-   "_ts": 1792229225.541815,
-   "postedAt": "2026-10-17 17:27",
+   "_ts": 1792230093.008587,
+   "postedAt": "2026-10-17 17:41",
    "hasBody": false,
    "grokSummary": false,
    "engine": "",
@@ -12757,8 +13682,8 @@ window.SITE_DATA = {
    "role": "个人账号 / 公开帖文发布者",
    "org": "",
    "country": [
-    "np",
-    "in"
+    "in",
+    "np"
    ],
    "profiles": [
     {
@@ -12812,9 +13737,9 @@ window.SITE_DATA = {
    "role": "个人账号 / 公开帖文发布者",
    "org": "",
    "country": [
+    "in",
     "vn",
-    "ph",
-    "in"
+    "ph"
    ],
    "profiles": [
     {
@@ -12894,8 +13819,8 @@ window.SITE_DATA = {
    "role": "个人账号 / 公开帖文发布者",
    "org": "",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -13083,12 +14008,11 @@ window.SITE_DATA = {
     "ml",
     "wa",
     "af",
-    "ru",
-    "ph",
-    "vn",
-    "ph",
     "in",
-    "kr"
+    "kr",
+    "vn",
+    "ru",
+    "ph"
    ],
    "profiles": [
     {
@@ -13146,18 +14070,19 @@ window.SITE_DATA = {
    "duty": "机构账号，关注尼日利亚的经济、政治、安全议题，主要涉及中国的出口正在涌入非洲最大的市场，给当地产业带来压力，因为南非、尼日利亚和摩洛哥。其发布内容可作为该机构对外表态的参考。"
   },
   {
-   "name": "CEENASA396971",
+   "name": "TracTerrorism",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
-   "org": "CEENASA396971",
+   "org": "TracTerrorism",
    "country": [
+    "ng",
     "ml"
    ],
    "profiles": [
     {
      "platform": "x",
-     "url": "https://x.com/CEENASA396971",
-     "handle": "@CEENASA396971"
+     "url": "https://x.com/TracTerrorism",
+     "handle": "@TracTerrorism"
     }
    ],
    "items": 3,
@@ -13169,7 +14094,7 @@ window.SITE_DATA = {
    "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
    "basis": "本次采集自该账号公开帖文 3 条（X）",
    "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注马里的安全议题。其发布内容可作为该机构对外表态的参考。"
+   "duty": "机构账号，关注尼日利亚、马里的安全议题，主要涉及尼日利亚军队与民兵合作，在丹科-瓦索州兰博村与#土匪 交火后，救出了一名40岁被。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "CEENASA396971",
@@ -13310,19 +14235,19 @@ window.SITE_DATA = {
    "duty": "机构账号，关注马里的安全议题，主要涉及马里梅纳卡的恐怖：昨天EIGS（巴马科的盟友）屠杀了超过70名年轻的图阿雷格Id。其发布内容可作为该机构对外表态的参考。"
   },
   {
-   "name": "TracTerrorism",
+   "name": "villageois99",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
-   "org": "TracTerrorism",
+   "org": "villageois99",
    "country": [
-    "ng",
-    "ml"
+    "ml",
+    "ru"
    ],
    "profiles": [
     {
      "platform": "x",
-     "url": "https://x.com/TracTerrorism",
-     "handle": "@TracTerrorism"
+     "url": "https://x.com/villageois99",
+     "handle": "@villageois99"
     }
    ],
    "items": 2,
@@ -13334,7 +14259,7 @@ window.SITE_DATA = {
    "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
    "basis": "本次采集自该账号公开帖文 2 条（X）",
    "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注尼日利亚、马里的安全议题，主要涉及尼日利亚军队与民兵合作，在丹科-瓦索州兰博村与#土匪 交火后，救出了一名40岁被。其发布内容可作为该机构对外表态的参考。"
+   "duty": "机构账号，关注马里的安全议题，主要涉及伊斯兰国#EIGS #EI的战斗人员重新夺取了#Menaka的总部。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "ITGGlobal",
@@ -13424,6 +14349,35 @@ window.SITE_DATA = {
    "duty": "机构账号，关注加纳的经济、矿产、政治议题，主要涉及副总统教授 Naana Jane Opoku-Agyemang 敦促中国投资者通。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "beyondB_DAG",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "beyondB_DAG",
+   "country": [
+    "ne",
+    "ml"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/beyondB_DAG",
+     "handle": "@beyondB_DAG"
+    }
+   ],
+   "items": 2,
+   "topics": [
+    "cor",
+    "eco",
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 2 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注尼日尔、马里的经济、政治议题，主要涉及西非国家经济共同体希望团聚。萨赫勒国家联盟前来谈判。2026年10月17日和18。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "tv3_ghana",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -13450,6 +14404,34 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 2 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注加纳的经济、矿产、政治议题，主要涉及加纳非法采矿打击行动：加纳黄金局（GoldBod）与加纳武装部队工程团合作开展3。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "ORF_CNED",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "ORF_CNED",
+   "country": [
+    "kr",
+    "ph"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ORF_CNED",
+     "handle": "@ORF_CNED"
+    }
+   ],
+   "items": 2,
+   "topics": [
+    "eco",
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 2 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济、政治议题，主要涉及习近平对平壤的访问是他七年来首次访问，也是他2026年的首次出访。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "BusinessDayNg",
@@ -14112,7 +15094,7 @@ window.SITE_DATA = {
    "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注马里的政治议题，主要涉及祝贺 S.E. 女士 Oumou SALL SECK 成功访华并参加世界发展会议。其发布内容可作为该机构对外表态的参考。"
+   "duty": "机构账号，关注马里的政治议题，主要涉及祝贺S.E. Mme Oumou SALL SECK成功访华并参加世界发展会议。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "theoprinse",
@@ -14192,7 +15174,7 @@ window.SITE_DATA = {
    "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注尼日利亚的安全议题，主要涉及总领事布兰登·哈兹佩斯对来自30个国家和组织的海军领导人说：不要将进展误认为是永。其发布内容可作为该机构对外表态的参考。"
+   "duty": "机构账号，关注尼日利亚的安全议题，主要涉及总领事布兰登·哈兹佩斯对来自30个国家和组织的海军领导人说：不要把进展误认为是永。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "loong_of",
@@ -14200,8 +15182,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "loong_of",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -14220,7 +15202,7 @@ window.SITE_DATA = {
    "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的政治、安全议题，主要涉及一段时间以来，菲律宾一直在绞尽脑汁，想出各种方法在南海骚扰和挑衅中国。。其发布内容可作为该机构对外表态的参考。"
+   "duty": "机构账号，关注西非地区的政治、安全议题，主要涉及一段时间以来，菲律宾一直在绞尽脑汁，想出各种方式在南海骚扰和挑衅中国。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "modernghanaweb",
@@ -14299,7 +15281,7 @@ window.SITE_DATA = {
    "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注马里的政治议题，主要涉及🇺🇸🇲🇱 2021年，美国根据美马里文化财产协定向马里归还了900多件文物。今天。其发布内容可作为该机构对外表态的参考。"
+   "duty": "机构账号，关注马里的政治议题，主要涉及🇺🇸🇲🇱 2021年，美国根据美马里文化财产协定向马里归还900多件文化物品。今。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "militaryafrica",
@@ -14407,6 +15389,33 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注马里的安全议题，主要涉及似乎在梅纳卡附近，忠于马里政权的图阿雷格人以某种方式刺激了伊斯兰国，以至于反击非。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "beatsinbrief",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "beatsinbrief",
+   "country": [
+    "in"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/beatsinbrief",
+     "handle": "@beatsinbrief"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco",
+    "sec"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济、安全议题，主要涉及🚨 最新：🇨🇳 中国限制🇮🇳印度寻求的隧道掘进机出口 中国已宣布对隧道掘进机实施。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "Ugaman01",
@@ -14622,6 +15631,59 @@ window.SITE_DATA = {
    "duty": "机构账号，关注西非地区的经济议题，主要涉及边境中断并不是#尼泊尔 在与中国贸易时唯一需要密切观察的事情。。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "kuldipsurisView",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "kuldipsurisView",
+   "country": [
+    "in"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/kuldipsurisView",
+     "handle": "@kuldipsurisView"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "pol",
+    "sec"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的政治、安全议题。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "GMFAsia",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "GMFAsia",
+   "country": [
+    "ru"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/GMFAsia",
+     "handle": "@GMFAsia"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "ene"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的能源议题，主要涉及新的航运路线、能源项目和战略竞争正在重塑北极。。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "Joe865284140852",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -14646,6 +15708,33 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注西非／萨赫勒区域的政治议题，主要涉及Teel James P McGovern 认为，如果美国对萨赫勒地区实施制裁，。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "sun_jun69301",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "sun_jun69301",
+   "country": [
+    "vn",
+    "ph"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/sun_jun69301",
+     "handle": "@sun_jun69301"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的政治议题，主要涉及中国不想要菲律宾的一草一木。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "odishabashi",
@@ -15101,60 +16190,6 @@ window.SITE_DATA = {
    "duty": "机构账号，关注尼日利亚的政治议题，主要涉及中国政府告诉布哈里，由于我们处理现金的方式，他们不能再给尼日利亚政府现金 乔纳森。其发布内容可作为该机构对外表态的参考。"
   },
   {
-   "name": "NewsTongueX",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "NewsTongueX",
-   "country": [
-    "ph",
-    "vn"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/NewsTongueX",
-     "handle": "@NewsTongueX"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "pol",
-    "sec"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的政治、安全议题，主要涉及🔴 中国特使称在北京与菲律宾在南海紧张局势中，北京可以“轻松赢得”战争 中国驻马。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "igortetiuev",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "igortetiuev",
-   "country": [
-    "ru"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/igortetiuev",
-     "handle": "@igortetiuev"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "ene"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的能源议题，主要涉及乌兹别克斯坦也有与中国签订的供应合同，他们无法再履行，因此他们开始购买俄罗斯天然。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
    "name": "Ghanagoldbodofficial",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -15235,6 +16270,60 @@ window.SITE_DATA = {
    "duty": "机构账号，关注加纳的经济、政治议题，主要涉及马哈马总统表示，政府正在努力解决导致年轻人从事非法采矿的经济挑战，通过创造。。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "NewsTongueX",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "NewsTongueX",
+   "country": [
+    "vn",
+    "ph"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/NewsTongueX",
+     "handle": "@NewsTongueX"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "pol",
+    "sec"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的政治、安全议题，主要涉及🔴 在南海紧张局势中，中国特使称北京可以‘轻松赢得’与菲律宾的战争 中国驻马尼拉。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "igortetiuev",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "igortetiuev",
+   "country": [
+    "ru"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/igortetiuev",
+     "handle": "@igortetiuev"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "ene"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的能源议题，主要涉及乌兹别克斯坦也有与中国签订的供应合同，他们无法再履行，因此他们开始购买俄罗斯天然。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "KoiralaBrief",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -15287,6 +16376,33 @@ window.SITE_DATA = {
    "duty": "机构账号，关注西非地区的政治议题，主要涉及拥有750万人口的老挝自开通中老铁路5年来已有6250万人乘坐过火车！不要有做不。其发布内容可作为该机构对外表态的参考。"
   },
   {
+   "name": "business",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "business",
+   "country": [
+    "vn",
+    "ph"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/business",
+     "handle": "@business"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的政治议题，主要涉及菲律宾表示，其最高外交官召见了中国使节，以抗议其在南海海洋争端中关于使用武力的言。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
    "name": "DHMT_MFA_CHINA",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -15312,34 +16428,6 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注西非地区的经济议题，主要涉及中国铁路运送了 3。。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "beyondB_DAG",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "beyondB_DAG",
-   "country": [
-    "ne",
-    "ml"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/beyondB_DAG",
-     "handle": "@beyondB_DAG"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "eco",
-    "pol"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注尼日尔、马里的经济、政治议题，主要涉及美国🇺🇸国会议员詹姆斯·P·麦戈文敦促国务卿马可·鲁比奥对布基纳法索🇧🇫、马里🇲。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "globaltimesnews",
@@ -15448,32 +16536,6 @@ window.SITE_DATA = {
    "duty": "机构账号，关注马里的能源议题，主要涉及中国晶科能源储能公司已签署协议，为马里一个电信项目供应18兆瓦时的电池储能…… 。其发布内容可作为该机构对外表态的参考。"
   },
   {
-   "name": "ORF_CNED",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "ORF_CNED",
-   "country": [
-    "kr"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/ORF_CNED",
-     "handle": "@ORF_CNED"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "pol"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的政治议题，主要涉及习近平对平壤的访问是他七年来首次访问，也是他2026年的首次出访。。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
    "name": "OLA1335752",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -15531,8 +16593,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "9DashLine",
    "country": [
-    "vn",
-    "la"
+    "la",
+    "vn"
    ],
    "profiles": [
     {
@@ -15611,8 +16673,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "AustJIA",
    "country": [
-    "ph",
-    "vn"
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -15631,6 +16693,33 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注西非地区的政治议题，主要涉及新上线：Chubb 等人分析了中国公众关于南海争端的意见以及这在越南政策决策中发。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "CollinSLKoh",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "CollinSLKoh",
+   "country": [
+    "ph"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/CollinSLKoh",
+     "handle": "@CollinSLKoh"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "eco",
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的经济、政治议题，主要涉及一段时间以来，北京一直在竭尽所能寻找胁迫马尼拉的工具。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "Neuton0001",
@@ -15683,7 +16772,7 @@ window.SITE_DATA = {
    "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注加纳的经济、政治议题，主要涉及副总统娜娜·简·奥波库-阿杰曼教授呼吁中国投资者在加纳建立产业，为该国创造就业机。其发布内容可作为该机构对外表态的参考。"
+   "duty": "机构账号，关注加纳的经济、政治议题，主要涉及副总统纳安娜·简·奥波库-阿杰曼教授呼吁中国投资者在加纳建立工业，为该国创造就业。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "Milatrud11",
@@ -15791,6 +16880,33 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
    "duty": "机构账号，关注尼日利亚的安全议题，主要涉及美国并非撤退，他们只是在等待尼日利亚在打击恐怖分子方面变得更强大。。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "Newsmarket001",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "Newsmarket001",
+   "country": [
+    "ru"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Newsmarket001",
+     "handle": "@Newsmarket001"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "ene",
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的能源、政治议题，主要涉及🚨🛢️🇨🇳🇷🇺 中国总理李强将于10月20日至22日访问#俄罗斯。。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "num1_ch",
@@ -15952,32 +17068,6 @@ window.SITE_DATA = {
    "duty": "机构账号，关注尼日利亚、加纳的安全议题，主要涉及用于情报和监视行动的美国政府特殊任务湾流V飞机（N529RL）在阿克拉停留后正离。其发布内容可作为该机构对外表态的参考。"
   },
   {
-   "name": "ORF_CNED",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "ORF_CNED",
-   "country": [
-    "ph"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/ORF_CNED",
-     "handle": "@ORF_CNED"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "eco"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的经济议题，主要涉及在仲裁裁决为#菲律宾在#南海的主张正名十年后，#中国只是升级部署水炮。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
    "name": "TheGist9ja",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -16001,7 +17091,7 @@ window.SITE_DATA = {
    "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
    "basis": "本次采集自该账号公开帖文 1 条（X）",
    "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注尼日利亚的安全议题，主要涉及赞法拉正在流血。💔 报道称武装匪徒烧毁了12辆汽车，迫使数百人流离失所，并对达地。其发布内容可作为该机构对外表态的参考。"
+   "duty": "机构账号，关注尼日利亚的安全议题，主要涉及赞法拉正在流血。💔 报道称武装匪徒烧毁了12辆汽车，迫使数百人流离失所，并对达乌。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "thomasjeff007",
@@ -16194,8 +17284,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "Neuro24de",
    "country": [
-    "mm",
     "ru",
+    "mm",
     "in"
    ],
    "profiles": [
@@ -16593,32 +17683,6 @@ window.SITE_DATA = {
    "duty": "机构账号，关注尼日利亚的政治、安全议题，主要涉及尼日利亚联邦大学将获得更大的招聘员工自由，此前联邦政府决定取消。其发布内容可作为该机构对外表态的参考。"
   },
   {
-   "name": "nguyen_alex2517",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "nguyen_alex2517",
-   "country": [
-    "vn"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/nguyen_alex2517",
-     "handle": "@nguyen_alex2517"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "pol"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的政治议题，主要涉及越南将在老街-河内-海防线路上使用由中国生产的 CR200J（复兴）高速列车机车。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
    "name": "asaase99.5",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -16697,6 +17761,32 @@ window.SITE_DATA = {
    "basis": "本次采集自该账号公开帖文 1 条（Facebook）",
    "contact": "经 Facebook 公开主页联络",
    "duty": "机构账号，关注加纳的能源、矿产议题，主要涉及加纳黄金局终止在加纳的10亿美元Goldstream交易。其发布内容可作为该机构对外表态的参考。"
+  },
+  {
+   "name": "nguyen_alex2517",
+   "type": "机构",
+   "role": "机构账号 / 信息发布方",
+   "org": "nguyen_alex2517",
+   "country": [
+    "vn"
+   ],
+   "profiles": [
+    {
+     "platform": "x",
+     "url": "https://x.com/nguyen_alex2517",
+     "handle": "@nguyen_alex2517"
+    }
+   ],
+   "items": 1,
+   "topics": [
+    "pol"
+   ],
+   "roleHint": "",
+   "verified": false,
+   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
+   "basis": "本次采集自该账号公开帖文 1 条（X）",
+   "contact": "经 X 公开主页联络",
+   "duty": "机构账号，关注西非地区的政治议题，主要涉及越南将在老街-河内-海防线路上使用由中国生产的 CR200J（复兴）高速列车机车。其发布内容可作为该机构对外表态的参考。"
   },
   {
    "name": "t0m_bayeye",
@@ -16760,193 +17850,6 @@ window.SITE_DATA = {
    "country": [
     "la",
     "vn"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/nguyens32401884",
-     "handle": "@nguyens32401884"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "cor"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的综合议题，主要涉及越南将在老街—河内—海防线使用中国制造的CR200J（“复兴”）高速列车，该项目。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "asaase99.5",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "asaase99.5",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/asaase99.5",
-     "handle": "@asaase99.5"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "eco",
-    "pol"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（Facebook）",
-   "contact": "经 Facebook 公开主页联络",
-   "duty": "机构账号，关注非洲整体的经济、政治议题，主要涉及这项政策旨在增加该行业的收入并打击非法活动。。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "Channel1tvgh",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "Channel1tvgh",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/Channel1tvgh",
-     "handle": "@Channel1tvgh"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "pol"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（Facebook）",
-   "contact": "经 Facebook 公开主页联络",
-   "duty": "机构账号，关注非洲整体的政治议题，主要涉及科乔·奥蓬·恩克鲁玛在议会提交了一项正式动议。。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "gomashie.wisdomfaraday",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "gomashie.wisdomfaraday",
-   "country": [
-    "gh"
-   ],
-   "profiles": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/gomashie.wisdomfaraday",
-     "handle": "@gomashie.wisdomfaraday"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "ene",
-    "min"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（Facebook）",
-   "contact": "经 Facebook 公开主页联络",
-   "duty": "机构账号，关注加纳的能源、矿产议题，主要涉及加纳黄金局终止在加纳的10亿美元Goldstream交易。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "nguyen_alex2517",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "nguyen_alex2517",
-   "country": [
-    "vn"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/nguyen_alex2517",
-     "handle": "@nguyen_alex2517"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "pol"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注西非地区的政治议题，主要涉及越南将在老街-河内-海防线路上使用由中国生产的 CR200J（复兴）高速列车机车。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "t0m_bayeye",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "t0m_bayeye",
-   "country": [
-    "ne"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/t0m_bayeye",
-     "handle": "@t0m_bayeye"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "ene",
-    "sec"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注尼日尔的能源、安全议题，主要涉及我同意，但为了强化这一说法，AES 国家需要大幅提升其军事力量并尽快获取核武器。。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "skyhighnewshub",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "skyhighnewshub",
-   "country": [
-    "ng"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/skyhighnewshub",
-     "handle": "@skyhighnewshub"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "eco",
-    "ene"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "机构账号，关注尼日利亚的经济、能源议题，主要涉及如果联邦政府逆转其燃料补贴政策，尼日利亚可能面临奈拉 renewed 压力和大量。其发布内容可作为该机构对外表态的参考。"
-  },
-  {
-   "name": "nguyens32401884",
-   "type": "机构",
-   "role": "机构账号 / 信息发布方",
-   "org": "nguyens32401884",
-   "country": [
-    "vn",
-    "la"
    ],
    "profiles": [
     {
@@ -17133,10 +18036,10 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "jcdurbant",
    "country": [
-    "la",
     "ru",
-    "ph",
-    "vn"
+    "la",
+    "vn",
+    "ph"
    ],
    "profiles": [
     {
@@ -17859,12 +18762,12 @@ window.SITE_DATA = {
      "handle": ""
     }
    ],
-   "items": 51,
+   "items": 50,
    "topics": [],
    "roleHint": "",
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 51 条",
+   "basis": "本次采集自该媒体公开报道 50 条",
    "contact": "https://koreatimes.co.kr（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
@@ -17917,6 +18820,30 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
+   "name": "Punch（尼日利亚） 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "Punch（尼日利亚）",
+   "country": [
+    "ng"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://punchng.com/",
+     "handle": ""
+    }
+   ],
+   "items": 9,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 9 条",
+   "contact": "https://punchng.com/（机构主页）",
+   "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
    "name": "inquirer.net 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -17941,17 +18868,17 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "Punch（尼日利亚） 编辑部",
+   "name": "Premium Times（尼日利亚） 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
-   "org": "Punch（尼日利亚）",
+   "org": "Premium Times（尼日利亚）",
    "country": [
     "ng"
    ],
    "profiles": [
     {
      "platform": "news",
-     "url": "https://punchng.com/",
+     "url": "https://www.premiumtimesng.com/contact-us",
      "handle": ""
     }
    ],
@@ -17959,9 +18886,9 @@ window.SITE_DATA = {
    "topics": [],
    "roleHint": "",
    "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
+   "verifiedNote": "机构公开页面，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 8 条",
-   "contact": "https://punchng.com/（机构主页）",
+   "contact": "https://www.premiumtimesng.com/contact-us（机构对外联络页）",
    "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -17979,38 +18906,14 @@ window.SITE_DATA = {
      "handle": ""
     }
    ],
-   "items": 8,
+   "items": 7,
    "topics": [],
    "roleHint": "",
    "verified": true,
    "verifiedNote": "机构公开页面，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 8 条",
+   "basis": "本次采集自该媒体公开报道 7 条",
    "contact": "https://www.myjoyonline.com/contact-us/（机构对外联络页）",
    "duty": "该媒体的编辑部，负责加纳等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "Premium Times（尼日利亚） 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "Premium Times（尼日利亚）",
-   "country": [
-    "ng"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://www.premiumtimesng.com/contact-us",
-     "handle": ""
-    }
-   ],
-   "items": 5,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构公开页面，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 5 条",
-   "contact": "https://www.premiumtimesng.com/contact-us（机构对外联络页）",
-   "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
    "name": "rappler.com 编辑部",
@@ -18027,14 +18930,38 @@ window.SITE_DATA = {
      "handle": ""
     }
    ],
+   "items": 6,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 6 条",
+   "contact": "https://rappler.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "Leadership（尼日利亚） 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "Leadership（尼日利亚）",
+   "country": [
+    "ng"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://leadership.ng/",
+     "handle": ""
+    }
+   ],
    "items": 5,
    "topics": [],
    "roleHint": "",
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 5 条",
-   "contact": "https://rappler.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+   "contact": "https://leadership.ng/（机构主页）",
+   "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
    "name": "Daily Trust（尼日利亚） 编辑部",
@@ -18061,17 +18988,17 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "Leadership（尼日利亚） 编辑部",
+   "name": "hindustantimes.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
-   "org": "Leadership（尼日利亚）",
+   "org": "hindustantimes.com",
    "country": [
-    "ng"
+    "af"
    ],
    "profiles": [
     {
      "platform": "news",
-     "url": "https://leadership.ng/",
+     "url": "https://hindustantimes.com",
      "handle": ""
     }
    ],
@@ -18081,8 +19008,8 @@ window.SITE_DATA = {
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 4 条",
-   "contact": "https://leadership.ng/（机构主页）",
-   "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+   "contact": "https://hindustantimes.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
    "name": "vanguardngr.com 编辑部",
@@ -18133,17 +19060,17 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "hindustantimes.com 编辑部",
+   "name": "truthnigeria.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
-   "org": "hindustantimes.com",
+   "org": "truthnigeria.com",
    "country": [
     "af"
    ],
    "profiles": [
     {
      "platform": "news",
-     "url": "https://hindustantimes.com",
+     "url": "https://truthnigeria.com",
      "handle": ""
     }
    ],
@@ -18153,7 +19080,7 @@ window.SITE_DATA = {
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 3 条",
-   "contact": "https://hindustantimes.com（机构主页）",
+   "contact": "https://truthnigeria.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -18171,13 +19098,13 @@ window.SITE_DATA = {
      "handle": ""
     }
    ],
-   "items": 4,
+   "items": 3,
    "topics": [],
    "roleHint": "",
    "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 4 条",
-   "contact": "https://leadership.ng/（机构主页）",
+   "verifiedNote": "机构公开页面，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 3 条",
+   "contact": "https://www.businessday.ng/contact-us/（机构对外联络页）",
    "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -18202,30 +19129,6 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 2 条",
    "contact": "https://scmp.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "truthnigeria.com 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "truthnigeria.com",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://truthnigeria.com",
-     "handle": ""
-    }
-   ],
-   "items": 2,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 2 条",
-   "contact": "https://truthnigeria.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -18267,7 +19170,7 @@ window.SITE_DATA = {
      "handle": ""
     }
    ],
-   "items": 3,
+   "items": 1,
    "topics": [],
    "roleHint": "",
    "verified": true,
@@ -18298,6 +19201,30 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://africaintelligence.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "finance.yahoo.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "finance.yahoo.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://finance.yahoo.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://finance.yahoo.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -18346,30 +19273,6 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://www.bbc.com/news/africa（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "instituteforenergyresearch.org 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "instituteforenergyresearch.org",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://instituteforenergyresearch.org",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://instituteforenergyresearch.org（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -18517,6 +19420,30 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
+   "name": "instituteforenergyresearch.org 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "instituteforenergyresearch.org",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://instituteforenergyresearch.org",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://instituteforenergyresearch.org（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
    "name": "africa.businessinsider.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -18538,6 +19465,54 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://africa.businessinsider.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "facebook.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "facebook.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://facebook.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://facebook.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "army-technology.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "army-technology.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://army-technology.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://army-technology.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -18733,30 +19708,6 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "vietnam.vn 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "vietnam.vn",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://vietnam.vn",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://vietnam.vn（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
    "name": "elevenmyanmar.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -18778,6 +19729,30 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://elevenmyanmar.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "vietnam.vn 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "vietnam.vn",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://vietnam.vn",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://vietnam.vn（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -18856,38 +19831,14 @@ window.SITE_DATA = {
    "name": "khaosodenglish.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
-   "org": "3News（加纳）",
-   "country": [
-    "gh"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://3news.com/",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://3news.com/（机构主页）",
-   "duty": "该媒体的编辑部，负责加纳等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "einpresswire.com 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "einpresswire.com",
+   "org": "khaosodenglish.com",
    "country": [
     "af"
    ],
    "profiles": [
     {
      "platform": "news",
-     "url": "https://einpresswire.com",
+     "url": "https://khaosodenglish.com",
      "handle": ""
     }
    ],
@@ -18897,55 +19848,7 @@ window.SITE_DATA = {
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://einpresswire.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "mining.com.au 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "mining.com.au",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://mining.com.au",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://mining.com.au（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "politico.com 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "politico.com",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://politico.com",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://politico.com（机构主页）",
+   "contact": "https://khaosodenglish.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -18970,6 +19873,30 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://theannapurnaexpress.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "thediplomat.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "thediplomat.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://thediplomat.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://thediplomat.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -19021,6 +19948,54 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
+   "name": "hrw.org 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "hrw.org",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://hrw.org",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://hrw.org（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "investing.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "investing.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://investing.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://investing.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
    "name": "pressreader.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -19069,6 +20044,30 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
+   "name": "mining.com.au 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "mining.com.au",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://mining.com.au",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://mining.com.au（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
    "name": "koreajoongangdaily.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -19093,30 +20092,6 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "maritime-executive.com 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "maritime-executive.com",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://maritime-executive.com",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://maritime-executive.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
    "name": "cnn.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -19138,6 +20113,30 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://cnn.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "tekedia.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "tekedia.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://tekedia.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://tekedia.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -19258,6 +20257,30 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://staging.elkford.ca（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "businessinsider.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "businessinsider.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://businessinsider.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://businessinsider.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   }
  ],

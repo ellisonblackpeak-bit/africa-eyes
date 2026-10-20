@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Ukrainian Drone Strike Sparks Fire at Oil Transit Hub in Tambov Region",
+   "url": "https://www.themoscowtimes.com/2026/10/20/ukrainian-drone-strike-sparks-fire-at-oil-transit-hub-in-tambov-region-a94026",
+   "content": "Media identified the facility as a Transneft linear production and dispatch station, which is a key transit node along the Druzhba oil pipeline.",
+   "published_date": "Tue, 20 Oct 2026 11:28:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Japan Slams Lack of Access to Journalist Arrested in Far East",
    "url": "https://www.themoscowtimes.com/2026/10/20/japan-slams-lack-of-access-to-journalist-arrested-in-far-east-a94025",
    "content": "The FSB arrested the journalist from the Hokkaido Shimbun newspaper on the Far East island of Sakhalin last week on suspicion of espionage.",
@@ -342,13 +349,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/13/forced-underground-russias-feminists-find-new-ways-to-keep-working-a93962",
    "content": "As the Kremlin clamps down on women’s rights, activists are working out of public view to provide practical support and build new alliances.",
    "published_date": "Tue, 13 Oct 2026 17:48:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russian Court Hands Exiled YouTuber Michael Nacke Combined 14-Year Sentence",
-   "url": "https://www.themoscowtimes.com/2026/10/13/russian-court-hands-exiled-youtuber-michael-nacke-combined-14-year-sentence-a93965",
-   "content": "Nacke is a prominent critic of the Kremlin whose Russian-language YouTube channel covers Russia’s war against Ukraine.",
-   "published_date": "Tue, 13 Oct 2026 17:17:36 +0300",
    "score": 0.6
   }
  ],
