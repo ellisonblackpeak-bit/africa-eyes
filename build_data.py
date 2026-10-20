@@ -180,8 +180,8 @@ TIER_LABEL = {1: "涉华动态", 2: "涉美动态", 3: "当地政府动态", 4: 
 TIER_DESC = {
     1: "报道涉及中国人员、中国企业或中国项目（覆盖非洲四国 + 中国周边共 12 个监测国）",
     2: "报道涉及美国在监测区域的活动（政府、军方、企业或援助机构）",
-    3: "尼日利亚、尼日尔、马里、加纳等四国政府自身发布的动态，涵盖政治、经济、能源、矿产与战略通道（管道、铁路、公路、港口）等议题",
-    4: "上述三类以外的公开报道（非中美亦非四国政府），含 MPLJ/FPL/JNIM/EIGS/ISIS/Lakurawa 等恐怖组织的活动报道",
+    3: "尼日利亚、尼日尔、马里、加纳等当事国政府自身发布的动态，涵盖政治、经济、能源、矿产与战略通道（管道、铁路、公路、港口）等议题",
+    4: "上述三类以外的公开报道（非中美亦非当事国政府），含 MPLJ/FPL/JNIM/EIGS/ISIS/Lakurawa 等恐怖组织的活动报道",
 }
 
 # Actors that ARE a government of one of the four countries. Used to decide
@@ -247,7 +247,7 @@ def actor_tier(title, summary, min_hits=3, is_gov_publisher=False, topics=()):
         return 2, "美国", False
     # Tier 3: the four governments' own dynamics.
     if is_gov_publisher or (is_gov_actor(t, s) and (set(topics) & GOV_TOPICS)):
-        return 3, "四国政府", False
+        return 3, "当事国政府", False
     return 4, "第三方", False
 
 
@@ -1905,7 +1905,7 @@ for tno in (1, 2, 3):
     if pick:
         hl.append("%s｜%s（%s，%s）" % (TIER_LABEL[tno], pick["title"][:62], pick["source"],
                                         (pick["published"] or "")[:16]))
-hl.append("本期归集：媒体条目 %d 条（涉华 %d、美国 %d、四国政府 %d、其他报道 %d；来自 %d 家媒体）、"
+hl.append("本期归集：媒体条目 %d 条（涉华 %d、美国 %d、当事国政府 %d、其他报道 %d；来自 %d 家媒体）、"
           "社交平台动态 %d 条、可追溯发布主体 %d 个。时间窗口：近 %d 日。"
           % (len(news), tc[1], tc[2], tc[3], tc[4], len(out_counts), len(social),
              len(people_out), WINDOW_DAYS))

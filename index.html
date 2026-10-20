@@ -378,7 +378,7 @@ details.ft[open] summary::before{content:'▾ '}
     document.getElementById('foot').innerHTML =
       '<b>Africa Eyes</b>　·　西非四国（尼日利亚、尼日尔、马里、加纳）每日动态监测，移动端优先。'
       +'数据来源：四国主流媒体、国际通讯社、全球矿业媒体，以及 LinkedIn / X / Facebook / Instagram 公开页面。<br>'
-      +'默认按层级分组阅读（涉华 → 美国 → 四国政府 → 其他），每层内按发布时间倒序；窗口近 5 日。'
+      +'默认按层级分组阅读（涉华 → 美国 → 当事国政府 → 其他），每层内按发布时间倒序；窗口近 3 日。'
       +(STATIC
         ? '本页为长期托管的静态快照版，链接不会失效；内容截至下方生成时间，更新由维护者定期重建。'
         : '后台每 3 小时重建一次，页面每 60 秒自动检查并就地替换内容。')
@@ -421,7 +421,7 @@ details.ft[open] summary::before{content:'▾ '}
     if(pool.length) return '';
     var why={'1':'本批信源在近 '+(D.windowDays||3)+' 日内没有出现涉华报道。西非英语媒体对涉华议题的报道是间歇性的；平台不会用更旧的条目来填充这一层级。',
              '2':'本批信源在近 '+(D.windowDays||3)+' 日内没有出现美国在该国活动的报道。',
-             '3':'本批信源在近 '+(D.windowDays||3)+' 日内没有检索到四国政府自身发布的动态。'}[t];
+             '3':'本批信源在近 '+(D.windowDays||3)+' 日内没有检索到当事国政府自身发布的动态。'}[t];
     if(!why) return '';
     return '<div class="empty" style="padding:20px 12px;text-align:left;line-height:1.7">'
       +'<b>本层级本期为空。</b><br>'+esc(why)+'</div>';
@@ -463,7 +463,7 @@ details.ft[open] summary::before{content:'▾ '}
     var c={'1':0,'2':0,'3':0,'4':0};
     items.forEach(function(i){ if(c[i.tier]!==undefined)c[i.tier]++; });
     var h='<div class="filters"><span class="chip'+(state.tier==='all'?' on':'')+'" data-k="tier" data-v="all">全部层级<span class="c">'+items.length+'</span></span>';
-    [['1','涉华动态'],['2','美国活动'],['3','四国政府'],['4','其他报道']].forEach(function(t){
+    [['1','涉华动态'],['2','美国活动'],['3','当事国政府'],['4','其他报道']].forEach(function(t){
       h+='<span class="chip'+(String(state.tier)===t[0]?' on':'')+'" data-k="tier" data-v="'+t[0]+'">'+t[1]+'<span class="c">'+c[t[0]]+'</span></span>';});
     return h+'</div>';
   }
@@ -506,7 +506,7 @@ details.ft[open] summary::before{content:'▾ '}
     return h;
   }
   function tb(t){ if(!t)return '';
-    var nm={'1':'涉华','2':'美国','3':'四国政府','4':'其他'}[t];
+    var nm={'1':'涉华','2':'美国','3':'当事国政府','4':'其他'}[t];
     return nm?'<span class="tb tb'+t+'">'+nm+'</span>':''; }
   function tierHead(t,n){
     var meta=D.tierLabel&&D.tierLabel[t]||'';
