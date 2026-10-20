@@ -1,0 +1,116 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/business/status/2112096441455857956",
+     "title": "The Philippines said its top diplomat summoned China’s envoy to protest his remarks on use of force amid their maritime dispute in the South",
+     "description": "The Philippines said its top diplomat summoned China’s envoy to protest his remarks on use of force amid their maritime dispute in the South China Sea https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat?taid=6ad5d2b7baa8570001e8d6e8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "snippet": "The Philippines said its top diplomat summoned China’s envoy to protest his remarks on use of force amid their maritime dispute in the South China Sea https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat?taid=6ad5d2b7baa8570001e8d6e8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bloomberg",
+     "handle": "@business"
+    },
+    {
+     "url": "https://x.com/NewsTongueX/status/2112116022643724634",
+     "title": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions China's ambassador to Manila, Jing Quan, de",
+     "description": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions\n\nChina's ambassador to Manila, Jing Quan, declared on Friday that China could \"easily win\" a war with the Philippines, but stated China \"will not choose force.\" The remark came after Philippine Defense Secretary Gilberto Teodoro called China the \"troublemaker\" of Southeast Asia over its actions in contested South China Sea waters.\nPhilippine President Ferdinand Marcos Jr said the ambassador's statement \"sounds very much like a threat\" and said he would summon Jing for an explanation.",
+     "snippet": "🔴 China envoy says Beijing could 'easily win' war with Philippines amid South China Sea tensions\n\nChina's ambassador to Manila, Jing Quan, declared on Friday that China could \"easily win\" a war with the Philippines, but stated China \"will not choose force.\" The remark came after Philippine Defense Secretary Gilberto Teodoro called China the \"troublemaker\" of Southeast Asia over its actions in contested South China Sea waters.\nPhilippine President Ferdinand Marcos Jr said the ambassador's statement \"sounds very much like a threat\" and said he would summon Jing for an explanation.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NewsTongue",
+     "handle": "@NewsTongueX"
+    },
+    {
+     "url": "https://x.com/CollinSLKoh/status/2111967709705756927",
+     "title": "Beijing has for a while been scraping its barrel for tools to coerce Manila.",
+     "description": "Beijing has for a while been scraping its barrel for tools to coerce Manila. Whether it's out at sea with those \"control measures\" or here threatening to sanction PH officials, clearly it's running out of ideas.\n\nThe only tools left: outright economic sanctions and kinetic force.",
+     "snippet": "Beijing has for a while been scraping its barrel for tools to coerce Manila. Whether it's out at sea with those \"control measures\" or here threatening to sanction PH officials, clearly it's running out of ideas.\n\nThe only tools left: outright economic sanctions and kinetic force.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Collin Koh 🇸🇬🇺🇦",
+     "handle": "@CollinSLKoh"
+    },
+    {
+     "url": "https://x.com/loong_of/status/2112224205563449632",
+     "title": "For some time, the Philippines has been racking its brains to devise various ways to harass and provoke China in the South China Sea.",
+     "description": "For some time, the Philippines has been racking its brains to devise various ways to harass and provoke China in the South China Sea. From the deliberate \"grounding\" of a dilapidated warship years ago and the pursuit of an absurd arbitration case in 2016, to more recent incursions by its fishing vessels and law enforcement craft into areas surrounding Chinese islands and reefs—all while cultivating a \"victim\" persona and slandering the Chinese Ambassador to the Philippines—these actions have only invited forceful countermeasures from China. It is clear that the Philippines' strategy has reached its limit. The only remaining options—carried out at the behest of its masters—would be to test the waters for an armed \"accidental\" clash, meddle in the Taiwan question, or take the extreme steps of expelling the Chinese Ambassador and severing diplomatic ties with China.",
+     "snippet": "For some time, the Philippines has been racking its brains to devise various ways to harass and provoke China in the South China Sea. From the deliberate \"grounding\" of a dilapidated warship years ago and the pursuit of an absurd arbitration case in 2016, to more recent incursions by its fishing vessels and law enforcement craft into areas surrounding Chinese islands and reefs—all while cultivating a \"victim\" persona and slandering the Chinese Ambassador to the Philippines—these actions have only invited forceful countermeasures from China. It is clear that the Philippines' strategy has reached its limit. The only remaining options—carried out at the behest of its masters—would be to test the waters for an armed \"accidental\" clash, meddle in the Taiwan question, or take the extreme steps of expelling the Chinese Ambassador and severing diplomatic ties with China.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Loong of the east",
+     "handle": "@loong_of"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2112105588825989399",
+     "title": "China’s ambassador says Beijing could “easily win” a war with the Philippines and now Manila has summoned him over the threat as South China",
+     "description": "China’s ambassador says Beijing could “easily win” a war with the Philippines and now Manila has summoned him over the threat as South China Sea tensions expose how quickly diplomatic rhetoric can push the region toward conflict.\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/",
+     "snippet": "China’s ambassador says Beijing could “easily win” a war with the Philippines and now Manila has summoned him over the threat as South China Sea tensions expose how quickly diplomatic rhetoric can push the region toward conflict.\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/ORF_CNED/status/2111872437461876894",
+     "title": "Ten years after the Arbitral Award vindicated the #Philippines' claims in the #SouthChinaSea, #China has only escalated deploying water cann",
+     "description": "Ten years after the Arbitral Award vindicated the #Philippines' claims in the #SouthChinaSea, #China has only escalated deploying water cannons, expanding \"nature reserves\" at Scarborough Shoal, and waging information warfare against #Manila's officials: @DonMcLainGill95  https://t.co/kkxsvieqWI #Geopolitics",
+     "snippet": "Ten years after the Arbitral Award vindicated the #Philippines' claims in the #SouthChinaSea, #China has only escalated deploying water cannons, expanding \"nature reserves\" at Scarborough Shoal, and waging information warfare against #Manila's officials: @DonMcLainGill95  https://t.co/kkxsvieqWI #Geopolitics",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Centre for New Economic Diplomacy",
+     "handle": "@ORF_CNED"
+    },
+    {
+     "url": "https://x.com/JChengWSJ/status/2111336152779419782",
+     "title": "The Philippines said the vessel was well within its exclusive economic zone and that China didn’t ask for permission to operate there.",
+     "description": "The Philippines said the vessel was well within its exclusive economic zone and that China didn’t ask for permission to operate there. But the Chinese embassy in the Philippines said it was “operating in waters under China’s jurisdiction.”\nhttps://www.wsj.com/world/asia/chinas-next-gray-zone-target-an-island-chain-critical-to-u-s-defense-of-taiwan-f4233818",
+     "snippet": "The Philippines said the vessel was well within its exclusive economic zone and that China didn’t ask for permission to operate there. But the Chinese embassy in the Philippines said it was “operating in waters under China’s jurisdiction.”\nhttps://www.wsj.com/world/asia/chinas-next-gray-zone-target-an-island-chain-critical-to-u-s-defense-of-taiwan-f4233818",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jonathan Cheng",
+     "handle": "@JChengWSJ"
+    },
+    {
+     "url": "https://x.com/Frontlinestory/status/2111367490546937904",
+     "title": "Chinese military says will deter sabotaging moves in South China Sea China has reaffirmed its sovereignty over Huangyan Dao and Nansha Qunda",
+     "description": "Chinese military says will deter sabotaging moves in South China Sea\n\nChina has reaffirmed its sovereignty over Huangyan Dao and Nansha Qundao, rejecting the Philippines' claims of safeguarding its rights in the region.\n\nThe response follows recent incidents involving the Philippines and its military's claim that more than 100 Chinese vessels were present in nearby waters. \n\nChinese Defense Ministry spokesperson Chen Xi said on Friday that the islands and reefs lie outside Philippine territory. #SouthChinaSea",
+     "snippet": "Chinese military says will deter sabotaging moves in South China Sea\n\nChina has reaffirmed its sovereignty over Huangyan Dao and Nansha Qundao, rejecting the Philippines' claims of safeguarding its rights in the region.\n\nThe response follows recent incidents involving the Philippines and its military's claim that more than 100 Chinese vessels were present in nearby waters. \n\nChinese Defense Ministry spokesperson Chen Xi said on Friday that the islands and reefs lie outside Philippine territory. #SouthChinaSea",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CGTN Frontline",
+     "handle": "@Frontlinestory"
+    },
+    {
+     "url": "https://x.com/sun_jun69301/status/2112183925741420848",
+     "title": "China doesn't want a single blade of grass or tree from the Philippines.",
+     "description": "China doesn't want a single blade of grass or tree from the Philippines. No matter what those Filipino political scoundrels do, they can't take away even 0.000000001% of the South China Sea islands and reefs that belong to China. Other than putting Filipino businesses and people at risk of losing the Chinese market—except for those political scoundrels—Philippines won't get anything.",
+     "snippet": "China doesn't want a single blade of grass or tree from the Philippines. No matter what those Filipino political scoundrels do, they can't take away even 0.000000001% of the South China Sea islands and reefs that belong to China. Other than putting Filipino businesses and people at risk of losing the Chinese market—except for those political scoundrels—Philippines won't get anything.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Shenzhen 老孙",
+     "handle": "@sun_jun69301"
+    },
+    {
+     "url": "https://x.com/dream_elephant/status/2111821252776366394",
+     "title": "Kasi yun consumer goods na gawa sa china ay gawa ng chinese company at control yun ng chinese government.",
+     "description": "Kasi yun consumer goods na gawa sa china ay gawa ng chinese company at control yun ng chinese government. If philippine and china relation deteriorate, kayang diktahan ng chinese gov ang mga companya, at sabihin wag ibenta sa philipines. And that's 1 economic power na meron nila",
+     "snippet": "Kasi yun consumer goods na gawa sa china ay gawa ng chinese company at control yun ng chinese government. If philippine and china relation deteriorate, kayang diktahan ng chinese gov ang mga companya, at sabihin wag ibenta sa philipines. And that's 1 economic power na meron nila",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DreamElephant",
+     "handle": "@dream_elephant"
+    }
+   ]
+  }
+ ]
+}

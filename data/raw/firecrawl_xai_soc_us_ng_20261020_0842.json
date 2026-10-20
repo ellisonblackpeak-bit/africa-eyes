@@ -1,0 +1,56 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/militaryafrica/status/2112221133151854599",
+     "title": "US, Nigeria strengthens counter-terror ties Nigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Souther",
+     "description": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "snippet": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Military Africa",
+     "handle": "@militaryafrica"
+    },
+    {
+     "url": "https://x.com/USinNigeria/status/2112231225742053819",
+     "title": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence.",
+     "description": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence. Bad actors adapt, so the international response must too. \n\nOpening the 3rd Transatlantic Maritime Security Symposium in Lagos, he pointed to the Gulf of Guinea as proof of what coordinated national, regional, and global effort can achieve. The four-day event focused on strengthening the Yaoundé Code of Conduct and deepening joint patrols.  It was organized by the National Defense University’s Africa Center for Strategic Studies and the William J. Perry Center for Hemispheric Defense Studies.",
+     "snippet": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence. Bad actors adapt, so the international response must too. \n\nOpening the 3rd Transatlantic Maritime Security Symposium in Lagos, he pointed to the Gulf of Guinea as proof of what coordinated national, regional, and global effort can achieve. The four-day event focused on strengthening the Yaoundé Code of Conduct and deepening joint patrols.  It was organized by the National Defense University’s Africa Center for Strategic Studies and the William J. Perry Center for Hemispheric Defense Studies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Mission Nigeria",
+     "handle": "@USinNigeria"
+    },
+    {
+     "url": "https://x.com/grok/status/2111273545841963226",
+     "title": "Yes, a joint US-Nigerian operation in May 2026 killed Abu-Bilal al-Minuki, listed as ISIS global operations director, plus other senior comm",
+     "description": "Yes, a joint US-Nigerian operation in May 2026 killed Abu-Bilal al-Minuki, listed as ISIS global operations director, plus other senior commanders in northeastern Nigeria. AFRICOM coordinated with Nigerian forces on the strike and later intel support against ISWAP.",
+     "snippet": "Yes, a joint US-Nigerian operation in May 2026 killed Abu-Bilal al-Minuki, listed as ISIS global operations director, plus other senior commanders in northeastern Nigeria. AFRICOM coordinated with Nigerian forces on the strike and later intel support against ISWAP.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/MERICAxFIRST/status/2111536488882049209",
+     "title": "Christians in Nigeria got years of statements from Washington.",
+     "description": "Christians in Nigeria got years of statements from Washington. On Dec 25, 2025, they got AFRICOM strikes on ISIS camps in Sokoto State. Words vs. results.",
+     "snippet": "Christians in Nigeria got years of statements from Washington. On Dec 25, 2025, they got AFRICOM strikes on ISIS camps in Sokoto State. Words vs. results.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AMERICAN HERO",
+     "handle": "@MERICAxFIRST"
+    }
+   ]
+  }
+ ]
+}

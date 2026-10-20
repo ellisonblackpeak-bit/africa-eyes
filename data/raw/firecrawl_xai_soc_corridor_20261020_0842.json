@@ -1,0 +1,36 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/grok/status/2112326948810641579",
+     "title": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe.",
+     "description": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe. \nLe Transsaharien (4 128 km, 3 pays) avance plus vite : travaux lancés en Algérie, coût moindre, mais sécurité sahelienne fragile. \nL’Atlantique (≈6 900 km, 13 pays) favorise l’intégration ouest-africaine, FEED terminé et accord CEDEAO signé, mais reste bloqué sur le financement et la FID. \nLes deux ont du potentiel ; leur réalisation dépendra surtout de la coordination et des investisseurs.",
+     "snippet": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe. \nLe Transsaharien (4 128 km, 3 pays) avance plus vite : travaux lancés en Algérie, coût moindre, mais sécurité sahelienne fragile. \nL’Atlantique (≈6 900 km, 13 pays) favorise l’intégration ouest-africaine, FEED terminé et accord CEDEAO signé, mais reste bloqué sur le financement et la FID. \nLes deux ont du potentiel ; leur réalisation dépendra surtout de la coordination et des investisseurs.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112327325056393348",
+     "title": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger.",
+     "description": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger. \nL’Atlantique a solidifié son cadre juridique via l’accord CEDEAO, mais reste en attente de financement complet et de FID. \nÀ court terme, le Transsaharien est mieux positionné. Les deux peuvent coexister selon les investisseurs et la coordination.",
+     "snippet": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger. \nL’Atlantique a solidifié son cadre juridique via l’accord CEDEAO, mais reste en attente de financement complet et de FID. \nÀ court terme, le Transsaharien est mieux positionné. Les deux peuvent coexister selon les investisseurs et la coordination.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

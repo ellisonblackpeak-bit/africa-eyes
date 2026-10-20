@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Japan Slams Lack of Access to Journalist Arrested in Far East",
+   "url": "https://www.themoscowtimes.com/2026/10/20/japan-slams-lack-of-access-to-journalist-arrested-in-far-east-a94025",
+   "content": "The FSB arrested the journalist from the Hokkaido Shimbun newspaper on the Far East island of Sakhalin last week on suspicion of espionage.",
+   "published_date": "Tue, 20 Oct 2026 10:49:28 +0300",
+   "score": 0.6
+  },
+  {
    "title": "From Banking to Taxis, Ukraine’s Data Center Strikes Disrupt Everyday Life in Russia",
    "url": "https://www.themoscowtimes.com/2026/10/19/from-banking-to-taxis-ukraines-data-center-strikes-disrupt-everyday-life-in-russia-a94020",
    "content": "The strikes on Yandex data centers have impacted services used by millions — and exposed vulnerabilities in Russia’s digital infrastructure.",
@@ -342,13 +349,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/13/russian-court-hands-exiled-youtuber-michael-nacke-combined-14-year-sentence-a93965",
    "content": "Nacke is a prominent critic of the Kremlin whose Russian-language YouTube channel covers Russia’s war against Ukraine.",
    "published_date": "Tue, 13 Oct 2026 17:17:36 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Bulgaria Summons Russian Ambassador After Drone Attack Sinks Ship, Leaving 11 Missing",
-   "url": "https://www.themoscowtimes.com/2026/10/13/bulgaria-summons-russian-ambassador-after-drone-attack-sinks-ship-leaving-11-missing-a93963",
-   "content": "While Sofia has stopped short of blaming Moscow, Bulgarian Prime Minister Rumen Radev said the drone strikes' outcome \"benefits the Russian Federation.\"",
-   "published_date": "Tue, 13 Oct 2026 16:09:48 +0300",
    "score": 0.6
   }
  ],

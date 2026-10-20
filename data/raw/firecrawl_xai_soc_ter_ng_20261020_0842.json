@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Sokoto_Affairs/status/2111489696610005403",
+     "title": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO Troops of Operation Fansan Yamma killed two suspected Lakurawa terrorists",
+     "description": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO\n\nTroops of Operation Fansan Yamma killed two suspected Lakurawa terrorists during clearance operations at Waria Forest and Sarma Village in Sokoto on October 15. The operation also yielded four AK-47 rifles, eight motorcycles, ammunition, four magazines and communication equipment.",
+     "snippet": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO\n\nTroops of Operation Fansan Yamma killed two suspected Lakurawa terrorists during clearance operations at Waria Forest and Sarma Village in Sokoto on October 15. The operation also yielded four AK-47 rifles, eight motorcycles, ammunition, four magazines and communication equipment.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sokoto State Affairs",
+     "handle": "@Sokoto_Affairs"
+    },
+    {
+     "url": "https://x.com/galaxytv/status/2111376915944653167",
+     "title": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle",
+     "description": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle terrorism and restore peace in the region.\n\nhttps://www.galaxytvonline.com/news/local-news/troops-neutralise-lakurawa-terrorists-in-sokoto-forest",
+     "snippet": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle terrorism and restore peace in the region.\n\nhttps://www.galaxytvonline.com/news/local-news/troops-neutralise-lakurawa-terrorists-in-sokoto-forest",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Galaxy Television",
+     "handle": "@galaxytv"
+    },
+    {
+     "url": "https://x.com/westernpost_ng/status/2111797460196610489",
+     "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-",
+     "description": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Western Post Nigeria",
+     "handle": "@westernpost_ng"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112262747945877995",
+     "title": "Nigerian Troops Working with Vigilantes Rescued a 40-Year-Old Kidnapped Resident after a Firefight with #Bandits at Rambo Village, Danko-Was",
+     "description": "Nigerian Troops Working with Vigilantes Rescued a 40-Year-Old Kidnapped Resident after a Firefight with #Bandits at Rambo Village, Danko-Wasagu LGA, #Kebbi State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/nigerian-troops-working-with-vigilantes-trac/",
+     "snippet": "Nigerian Troops Working with Vigilantes Rescued a 40-Year-Old Kidnapped Resident after a Firefight with #Bandits at Rambo Village, Danko-Wasagu LGA, #Kebbi State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/nigerian-troops-working-with-vigilantes-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112082332580552847",
+     "title": "#Bandit Leader Adu Aleru Killed Rival #Kingpin Kachallah Dogo Baldu During a Firefight Over Territory in Mada, #Zamfara State, #Nigeria Read",
+     "description": "#Bandit Leader Adu Aleru Killed Rival #Kingpin Kachallah Dogo Baldu During a Firefight Over Territory in Mada, #Zamfara State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/adu-aleru-killed-rival-kingpin-kachallah-dogo-baldu-trac/",
+     "snippet": "#Bandit Leader Adu Aleru Killed Rival #Kingpin Kachallah Dogo Baldu During a Firefight Over Territory in Mada, #Zamfara State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/adu-aleru-killed-rival-kingpin-kachallah-dogo-baldu-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112248213050663047",
+     "title": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.",
+     "description": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "snippet": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/NgrImpact/status/2111853693049950671",
+     "title": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives Bandits on Saturday evening",
+     "description": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "snippet": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Impact_Ngr",
+     "handle": "@NgrImpact"
+    },
+    {
+     "url": "https://x.com/openwatchng/status/2111865374270513479",
+     "title": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.",
+     "description": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "snippet": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "OpenWatch",
+     "handle": "@openwatchng"
+    },
+    {
+     "url": "https://x.com/hushiraf/status/2111430483217170530",
+     "title": "Last night, bandits attacked Kagara community in Talata Mafara LGA, Zamfara State, injuring one person & abducting at least 12 residents.",
+     "description": "Last night, bandits attacked Kagara community in Talata Mafara LGA, Zamfara State, injuring one person & abducting at least 12 residents. Another night of terror for residents who deserve to live in peace. \nHow many more people must be injured or abducted before lasting solutions",
+     "snippet": "Last night, bandits attacked Kagara community in Talata Mafara LGA, Zamfara State, injuring one person & abducting at least 12 residents. Another night of terror for residents who deserve to live in peace. \nHow many more people must be injured or abducted before lasting solutions",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Chief M.O.Shittu #endbadgovtinNigeria👀#EndSARS 👀",
+     "handle": "@hushiraf"
+    },
+    {
+     "url": "https://x.com/TheGist9ja/status/2111871477247090895",
+     "title": "Zamfara is bleeding. 💔 Reports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Da",
+     "description": "Zamfara is bleeding. 💔\n\nReports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Dansadau. Now, travellers on these roads face growing fear.\n\nHow many more lives and livelihoods must be destroyed before security becomes a reality for these people?\n\nWe cant normalise this. 🇳🇬",
+     "snippet": "Zamfara is bleeding. 💔\n\nReports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Dansadau. Now, travellers on these roads face growing fear.\n\nHow many more lives and livelihoods must be destroyed before security becomes a reality for these people?\n\nWe cant normalise this. 🇳🇬",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DamianEradiri",
+     "handle": "@TheGist9ja"
+    }
+   ]
+  }
+ ]
+}

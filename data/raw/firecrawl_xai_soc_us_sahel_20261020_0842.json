@@ -1,0 +1,116 @@
+{
+ "query": "United States Niger Mali Sahel AFRICOM cooperation sanctions",
+ "_tag": "soc_us_sahel",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/beyondB_DAG/status/2112087038409211908",
+     "title": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱,",
+     "description": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "snippet": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Revolutionary Soldier",
+     "handle": "@beyondB_DAG"
+    },
+    {
+     "url": "https://x.com/grok/status/2112188991910871127",
+     "title": "Primary sources chronologically: May 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/even",
+     "description": "Primary sources chronologically:\n\nMay 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/events/hearings/civilian-harm-under-military-rule-central-sahel\n\nAug 12 2026 McGovern letter to Rubio (targeted Magnitsky sanctions on individuals, rights focus) and press release: https://mcgovern.house.gov/news/documentsingle.aspx?documentid=400389\n\nLetter PDF: https://t.co/bddxRk9I3j\n\nAug 17 coverage: https://t.co/joqs4fG2As\n\nVideo response: https://t.co/TxFGRGTQYy\n\nNo academic journals found.",
+     "snippet": "Primary sources chronologically:\n\nMay 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/events/hearings/civilian-harm-under-military-rule-central-sahel\n\nAug 12 2026 McGovern letter to Rubio (targeted Magnitsky sanctions on individuals, rights focus) and press release: https://mcgovern.house.gov/news/documentsingle.aspx?documentid=400389\n\nLetter PDF: https://t.co/bddxRk9I3j\n\nAug 17 coverage: https://t.co/joqs4fG2As\n\nVideo response: https://t.co/TxFGRGTQYy\n\nNo academic journals found.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112228899153117569",
+     "title": "Yes, largely true. On August 12, 2026, Rep. James P. McGovern (D-MA) wrote to Secretary of State Marco Rubio urging prioritization of human",
+     "description": "Yes, largely true. On August 12, 2026, Rep. James P. McGovern (D-MA) wrote to Secretary of State Marco Rubio urging prioritization of human rights in US engagement with Mali, Burkina Faso, and Niger. He specifically called for designating human rights violators for targeted sanctions under the Global Magnitsky Act, citing abuses by their security forces. The letter is on his official House site.",
+     "snippet": "Yes, largely true. On August 12, 2026, Rep. James P. McGovern (D-MA) wrote to Secretary of State Marco Rubio urging prioritization of human rights in US engagement with Mali, Burkina Faso, and Niger. He specifically called for designating human rights violators for targeted sanctions under the Global Magnitsky Act, citing abuses by their security forces. The letter is on his official House site.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112241809317417081",
+     "title": "McGovern cites security forces in Burkina Faso, Mali and Niger for extrajudicial killings, arbitrary detentions and civilian attacks during",
+     "description": "McGovern cites security forces in Burkina Faso, Mali and Niger for extrajudicial killings, arbitrary detentions and civilian attacks during counterterrorism. HRW documented over 1,800 civilian deaths in Burkina Faso (2023-2025), majority by government forces and militias, including Fulani targeting. Mali reports include summary executions and drone strikes involving Russian partners. Also noted: media curbs, party dissolutions and opponent detentions. Jihadist groups commit parallel abuses.",
+     "snippet": "McGovern cites security forces in Burkina Faso, Mali and Niger for extrajudicial killings, arbitrary detentions and civilian attacks during counterterrorism. HRW documented over 1,800 civilian deaths in Burkina Faso (2023-2025), majority by government forces and militias, including Fulani targeting. Mali reports include summary executions and drone strikes involving Russian partners. Also noted: media curbs, party dissolutions and opponent detentions. Jihadist groups commit parallel abuses.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/bunmi_speaks/status/2112145420239450218",
+     "title": "Lol That's all they know; impose economic sanctions on you when they can't control you just to deliberately hurt the people and provoke an u",
+     "description": "Lol That's all they know; impose economic sanctions on you when they can't control you just to deliberately hurt the people and provoke an uprising that'll then pave the way for the removal of the \"uncooperative\" government and subsequently the installation of a puppɛt they can then control. It's the same trick they use around the world. But the day the rest of Afrika will rise and take the same stand as the Sahelians will be the day these economic sanctions become completely meaningless.",
+     "snippet": "Lol That's all they know; impose economic sanctions on you when they can't control you just to deliberately hurt the people and provoke an uprising that'll then pave the way for the removal of the \"uncooperative\" government and subsequently the installation of a puppɛt they can then control. It's the same trick they use around the world. But the day the rest of Afrika will rise and take the same stand as the Sahelians will be the day these economic sanctions become completely meaningless.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "afrika_confidential",
+     "handle": "@bunmi_speaks"
+    },
+    {
+     "url": "https://x.com/Gakobo_/status/2112126800759296315",
+     "title": "The US is trying to save France from total collapse.",
+     "description": "The US is trying to save France from total collapse. The former colonial France looted and exploited Mali, Burkina and Niger of their gold, uranium, and cobalt for more than sixty years. These countries have regained their sovereignty and shut the door on France",
+     "snippet": "The US is trying to save France from total collapse. The former colonial France looted and exploited Mali, Burkina and Niger of their gold, uranium, and cobalt for more than sixty years. These countries have regained their sovereignty and shut the door on France",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gakobo Chege🇰🇪",
+     "handle": "@Gakobo_"
+    },
+    {
+     "url": "https://x.com/Carolinalwwi/status/2112221963959623744",
+     "title": "🇧🇫🇲🇱🇳🇪 Calls for new U.S. sanctions against the #AES raise a bigger question: can #economic pressure really dictate the #future of #sovereig",
+     "description": "🇧🇫🇲🇱🇳🇪 Calls for new U.S. sanctions against the #AES raise a bigger question: can #economic pressure really dictate the #future of #sovereign nations? Burkina Faso continues to pursue its own path, despite external #pressure. The debate is far from over. 🌍",
+     "snippet": "🇧🇫🇲🇱🇳🇪 Calls for new U.S. sanctions against the #AES raise a bigger question: can #economic pressure really dictate the #future of #sovereign nations? Burkina Faso continues to pursue its own path, despite external #pressure. The debate is far from over. 🌍",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Carolina",
+     "handle": "@Carolinalwwi"
+    },
+    {
+     "url": "https://x.com/beyondB_DAG/status/2111786257311310316",
+     "title": "ECOWAS wanted a reunion. The AES came to negotiate. On October 17 and 18, 2026, the two blocs sat at the same table in Dakar for the first t",
+     "description": "ECOWAS wanted a reunion. The AES came to negotiate.\n \nOn October 17 and 18, 2026, the two blocs sat at the same table in Dakar for the first time since Mali, Burkina Faso, and Niger walked out of ECOWAS in January 2025. The room was full of foreign ministers. The air was full of speculation.\n \nThen Burkina Faso's Foreign Minister, Karamoko Jean-Marie Traoré, ended it with three words.\n \n\"Il n'en est rien.\" There is no truth in it.\n \nHe was answering the question that had been building for weeks: was the AES preparing to come back? The answer was no. Not now. Not like this.\n \nThe joint statement was careful. It spoke of \"fraternity, mutual respect and openness.\" It stressed \"good neighbourliness\" and \"respect for sovereignty.\" It announced working groups to prepare a framework cooperation agreement on trade, freedom of movement, and security.\n \nWhat it did not announce was a reunion.\n \nMali's Abdoulaye Diop said the talks must be \"entity-to-entity\"—AES and ECOWAS as two separate organisations, not one bloc absorbing the other. Niger's Bakary Yaou Sangaré said it plainly: \"The AES is not against ECOWAS, but it has another path.\"\n \nThat is what Dakar was. Not a homecoming. A negotiation between equals.\n \nThe AES did not leave ECOWAS to isolate itself. It left because the bloc sanctioned it, threatened it, and refused to accept that three sovereign states had chosen a different direction. In the 20 months since, the AES built a joint military force, an investment bank, and a common biometric passport. It did not need ECOWAS to survive. It does not need to rejoin to cooperate.\n \nWest Africa now has two regional bodies where there used to be one. The old bloc has to learn to share the room.",
+     "snippet": "ECOWAS wanted a reunion. The AES came to negotiate.\n \nOn October 17 and 18, 2026, the two blocs sat at the same table in Dakar for the first time since Mali, Burkina Faso, and Niger walked out of ECOWAS in January 2025. The room was full of foreign ministers. The air was full of speculation.\n \nThen Burkina Faso's Foreign Minister, Karamoko Jean-Marie Traoré, ended it with three words.\n \n\"Il n'en est rien.\" There is no truth in it.\n \nHe was answering the question that had been building for weeks: was the AES preparing to come back? The answer was no. Not now. Not like this.\n \nThe joint statement was careful. It spoke of \"fraternity, mutual respect and openness.\" It stressed \"good neighbourliness\" and \"respect for sovereignty.\" It announced working groups to prepare a framework cooperation agreement on trade, freedom of movement, and security.\n \nWhat it did not announce was a reunion.\n \nMali's Abdoulaye Diop said the talks must be \"entity-to-entity\"—AES and ECOWAS as two separate organisations, not one bloc absorbing the other. Niger's Bakary Yaou Sangaré said it plainly: \"The AES is not against ECOWAS, but it has another path.\"\n \nThat is what Dakar was. Not a homecoming. A negotiation between equals.\n \nThe AES did not leave ECOWAS to isolate itself. It left because the bloc sanctioned it, threatened it, and refused to accept that three sovereign states had chosen a different direction. In the 20 months since, the AES built a joint military force, an investment bank, and a common biometric passport. It did not need ECOWAS to survive. It does not need to rejoin to cooperate.\n \nWest Africa now has two regional bodies where there used to be one. The old bloc has to learn to share the room.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Revolutionary Soldier",
+     "handle": "@beyondB_DAG"
+    },
+    {
+     "url": "https://x.com/Ugaman01/status/2112208399664558114",
+     "title": "Reasons for the USA warnings include terrorism, kidnapping, crime, civil unrest, armed conflict, and inadequate healthcare.",
+     "description": "Reasons for the USA warnings include terrorism, kidnapping, crime, civil unrest, armed conflict, and inadequate healthcare. \n\nThe countries affected are Burkina Faso, Central African Republic, Chad, Democratic Republic of the Congo, Libya, Mali, Niger, Somalia, South Sudan, Sudan, and Uganda.",
+     "snippet": "Reasons for the USA warnings include terrorism, kidnapping, crime, civil unrest, armed conflict, and inadequate healthcare. \n\nThe countries affected are Burkina Faso, Central African Republic, Chad, Democratic Republic of the Congo, Libya, Mali, Niger, Somalia, South Sudan, Sudan, and Uganda.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "UGAMAN",
+     "handle": "@Ugaman01"
+    },
+    {
+     "url": "https://x.com/USEmbassyMali/status/2112221622576861541",
+     "title": "🇺🇸🇲🇱 In 2021, the U.S. returned 900+ cultural objects to Mali under the U.S.–Mali Cultural Property Agreement. Today, the National Museum co",
+     "description": "🇺🇸🇲🇱 In 2021, the U.S. returned 900+ cultural objects to Mali under the U.S.–Mali Cultural Property Agreement.\nToday, the National Museum continues to catalogue and safeguard these treasures. 🤝\nPreserving heritage, strengthening partnership!\n#USMaliPartnership #CPA",
+     "snippet": "🇺🇸🇲🇱 In 2021, the U.S. returned 900+ cultural objects to Mali under the U.S.–Mali Cultural Property Agreement.\nToday, the National Museum continues to catalogue and safeguard these treasures. 🤝\nPreserving heritage, strengthening partnership!\n#USMaliPartnership #CPA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Embassy Bamako",
+     "handle": "@USEmbassyMali"
+    }
+   ]
+  }
+ ]
+}
