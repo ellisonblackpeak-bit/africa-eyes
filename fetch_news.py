@@ -49,8 +49,15 @@ LOOKBACK_DAYS = 3
 # Which keys are spent is remembered in _tavily_key_state.json so a later run
 # starts on a live key instead of burning a request to rediscover a dead one.
 KEYS = []
+# TAVILY_API_KEYS carries the whole pool in one value (comma / semicolon /
+# whitespace separated) — GitHub Secrets can only hold a single string, so this
+# is how the cloud runner sees every key the reader added.
+for _tok in re.split(r"[,;\s]+", os.environ.get("TAVILY_API_KEYS") or ""):
+    _tok = _tok.strip()
+    if _tok.startswith("tvly-") and _tok not in KEYS:
+        KEYS.append(_tok)
 env_key = (os.environ.get("TAVILY_API_KEY") or "").strip()
-if env_key:
+if env_key and env_key not in KEYS:
     KEYS.append(env_key)
 _extra = os.path.join(os.path.dirname(os.path.abspath(__file__)), "tavily_keys.txt")
 if os.path.exists(_extra):
@@ -117,37 +124,43 @@ MINING = ["mining.com", "mining-journal.com", "mining-technology.com", "im-minin
 
 PLAN = [
     # ─── Africa four — China angle (the largest yield axis) ────────────────
-    ("cn_ng", "Nigeria Chinese company investment project deal", WA, 10),
-    ("cn_ng_emb", "Chinese embassy Nigeria ambassador consulate", WA, 10),
-    ("cn_ng_gov", "China Nigeria government deal agreement cooperation", WA + ["africanews.com"], 10),
-    ("cn_gh", "Ghana Chinese company firm investment deal mining galamsey", WA, 10),
-    ("cn_ne", "Niger China deal Chinese company uranium", WA + FR + ["africanews.com"], 10),
-    ("cn_ml", "Mali China deal Chinese company agreement", WA + FR + ["africanews.com"], 10),
+    ("cn_ng", "Nigeria Chinese company investment project deal", WA, 12),
+    ("cn_ng_emb", "Chinese embassy Nigeria ambassador consulate", WA, 12),
+    ("cn_ng_gov", "China Nigeria government deal agreement cooperation", WA + ["africanews.com"], 12),
+    ("cn_gh", "Ghana Chinese company firm investment deal mining galamsey", WA, 12),
+    ("cn_ne", "Niger China deal Chinese company uranium", WA + FR + ["africanews.com"], 12),
+    ("cn_ml", "Mali China deal Chinese company agreement", WA + FR + ["africanews.com"], 12),
     # ─── Africa four — US angle ─────────────────────────────────────────────
-    ("us_ng", "United States Nigeria cooperation embassy military AFRICOM", WA, 10),
-    ("us_gh", "United States Ghana cooperation embassy military AFRICOM", WA, 10),
-    ("us_ne_ml", "United States Niger Mali sanctions military cooperation AES", WA + FR + AGENCY, 10),
-    ("us_biz", "American company investment Nigeria Ghana oil gas energy", WA, 10),
+    # No domain filter here: measured, `include_domains` + topic=news + days=3
+    # returns 0 almost every time for these angles. The same query unrestricted
+    # returns 8 usable items. Domain narrowing only pays off for the local-outlet
+    # angles above, where it keeps wire-service world news out.
+    ("us_ng", "US Nigeria military cooperation AFRICOM", [], 12),
+    ("us_gh", "US Ghana military cooperation embassy", [], 12),
+    ("us_ne_ml", "US Niger Mali sanctions military cooperation", [], 12),
+    ("us_biz", "American company investment Nigeria Ghana energy", [], 12),
     # ─── Africa four — terror groups (MPLJ / FPL / JNIM / EIGS / ISIS / Lakurawa)
-    ("ter_ne_ml", "MPLJ FPL JNIM EIGS jihadist attack Niger Mali Sahel", WA + FR + AGENCY, 10),
-    ("ter_ng", "Lakurawa ISWAP Boko Haram bandit terrorist attack Nigeria", WA, 10),
-    ("ter_wide", "JNIM EIGS ISWAP Lakurawa attack Mali Niger Nigeria Burkina", AGENCY, 10),
+    ("ter_ne_ml", "JNIM EIGS attack Niger Mali", [], 12),
+    ("ter_ng", "Lakurawa ISWAP Boko Haram attack Nigeria", [], 12),
+    ("ter_wide", "MPLJ FPL jihadist Sahel attack", [], 12),
     # ─── Africa four — government / corridor (kept for tier 3 / tier 4)
-    ("gov_ng", "Nigeria Federal Government ministry approves policy statement Tinubu", WA, 10),
-    ("gov_gh", "Ghana government ministry Mahama approves policy", WA, 10),
-    ("gov_ne_ml", "Niger Mali government council of ministers communique decree", WA + AGENCY, 10),
-    ("cor_pipeline", "Nigeria Morocco gas pipeline corridor ECOWAS", WA + ["africanews.com"], 10),
-    ("cor_rail_road", "railway corridor highway port project Nigeria Ghana West Africa", WA, 10),
+    ("gov_ng", "Nigeria Federal Government approves policy statement", WA, 12),
+    ("gov_gh", "Ghana government approves policy", WA, 12),
+    ("gov_ne_ml", "Niger Mali government council of ministers", WA + AGENCY, 12),
+    ("cor_pipeline", "Nigeria Morocco gas pipeline corridor", WA + ["africanews.com"], 12),
+    ("cor_rail_road", "railway corridor port project Nigeria Ghana", WA, 12),
     # ─── China periphery — 8 countries × China focus (per the reader's spec,
     #   "涉及中国人、中国企业、中国项目的新闻" only; no terror or US lens).
-    ("cn_kr", "China North Korea South Korea Chinese company investment deal embassy", AGENCY, 10),
-    ("cn_ph", "China Philippines Chinese company investment South China Sea", AGENCY, 10),
-    ("cn_mm", "China Myanmar Chinese company investment Belt Road Kachin", AGENCY, 10),
-    ("cn_ru", "China Russia Chinese company investment cooperation Moscow", AGENCY, 10),
-    ("cn_in", "China India Chinese company border LAC Arunachal Ladakh", AGENCY, 10),
-    ("cn_np", "China Nepal Chinese company investment Belt Road KPN", AGENCY, 10),
-    ("cn_vn", "China Vietnam Chinese company investment railway South China Sea", AGENCY, 10),
-    ("cn_la", "China Laos Chinese company investment railway Boten", AGENCY, 10),
+    # Short, keyword-style queries with NO domain filter: that is what actually
+    # returns hits. The long AGENCY-restricted versions returned 0 on every run.
+    ("cn_kr", "Chinese company South Korea investment", [], 12),
+    ("cn_ph", "Chinese company Philippines project", [], 12),
+    ("cn_mm", "Chinese company Myanmar investment project", [], 12),
+    ("cn_ru", "China Russia trade energy cooperation", [], 12),
+    ("cn_in", "Chinese company India investment border", [], 12),
+    ("cn_np", "Chinese company Nepal investment hydropower", [], 12),
+    ("cn_vn", "Chinese company Vietnam factory investment", [], 12),
+    ("cn_la", "Chinese company Laos railway investment", [], 12),
     # ─── Breadth sweeps: a plain "latest news" against each domain cluster
     #    recovers in-window items that keyword-specific angles miss.
     ("ng_extra", "Nigeria latest news today", WA, 10),
@@ -246,18 +259,6 @@ def gdelt_query(tag, kw, domains, n):
     return results
 
 
-# Clear previous news snapshots first. Query sets change between versions, and a
-# leftover file from an older plan (e.g. one that ran a 30-day lookback) would
-# otherwise still be read by build_data.py and inject out-of-window items.
-for stale in glob.glob(os.path.join(OUT_DIR, "tavily_news_*.json")):
-    os.remove(stale)
-for stale in glob.glob(os.path.join(OUT_DIR, "gdelt_news_*.json")):
-    os.remove(stale)
-qmark = os.path.join(OUT_DIR, "_tavily_quota_dead")
-if os.path.exists(qmark):
-    os.remove(qmark)
-print("cleared previous news snapshots")
-
 def _tavily_search(q, n, domains):
     """One Tavily query, with or without the vendor package.
 
@@ -282,40 +283,61 @@ def _tavily_search(q, n, domains):
 
 records = []
 quota_dead = False
-# Tavily is a paid API with a small dev allowance, and RSS + GDELT are free.
-# The cloud service rebuilds every 3 hours; running 36 Tavily angles every round
-# (8 rounds/day ≈ 576 credits/day) would burn the monthly quota in days for very
-# little extra coverage, because RSS already carries the same West African
-# outlets and is fresher. So the Tavily pass runs at most once every
-# TAVILY_MIN_INTERVAL minutes — by default every other round, twice a day.
-TAVILY_MIN_INTERVAL = int(os.environ.get("TAVILY_MIN_INTERVAL", "360"))
+qmark = os.path.join(OUT_DIR, "_tavily_quota_dead")
+
+# ── Tavily pass gating ───────────────────────────────────────────────────────
+# Tavily + xAI are the primary channels now that several keys are configured:
+# they are the only ones that can actually surface "China in country X" and
+# "terror group activity" angles. RSS is a free supplement, GDELT a fallback.
+# TAVILY_MIN_INTERVAL=0 therefore means "run every round"; set it higher only if
+# the key pool starts running dry.
+TAVILY_MIN_INTERVAL = int(os.environ.get("TAVILY_MIN_INTERVAL", "0"))
 # NEWS_FAST=1 is the catch-up path: when a visit to the page wakes a sleeping
-# container, the reader is waiting, so skip the paid Tavily angles and the
-# rate-limited GDELT legs and take only RSS (fast, free, and the freshest
-# source anyway). The next scheduled slot runs the full plan.
+# container, the reader is waiting, so take only RSS (fast, free).
 _FAST = os.environ.get("NEWS_FAST") == "1"
 if _FAST:
     print("NEWS_FAST=1 — RSS only (catch-up run)")
+
+# The cooldown timestamp is read from the FILE CONTENT, never from mtime: a fresh
+# `git checkout` in Actions resets mtime to "now", which made every cloud run
+# look like Tavily had just run and silently disabled it for good.
 _tav_mark = os.path.join(OUT_DIR, "_tavily_last.txt")
 _skip_tavily = False
 try:
-    if os.path.exists(_tav_mark):
-        _age_min = (time.time() - os.path.getmtime(_tav_mark)) / 60.0
-        if _age_min < TAVILY_MIN_INTERVAL:
+    if TAVILY_MIN_INTERVAL > 0 and os.path.exists(_tav_mark):
+        with io.open(_tav_mark, encoding="utf-8") as fh:
+            _last = float((fh.read() or "0").strip() or 0)
+        _age_min = (time.time() - _last) / 60.0
+        if 0 <= _age_min < TAVILY_MIN_INTERVAL:
             print("tavily: last pass %.0f min ago (< %d) — RSS/GDELT only this round"
                   % (_age_min, TAVILY_MIN_INTERVAL))
             _skip_tavily = True
 except Exception:
     pass
 
-if _skip_tavily or _FAST or (client is None and not (_sources is not None and _sources.tavily_keys())):
-    # Cooldown, or neither the package nor a key — go straight to the free paths
-    # instead of burning 36 failed calls.
-    if not _skip_tavily and not _FAST:
-        print("no tavily package/key — skipping the Tavily pass entirely")
+_has_tavily = (client is not None) or (_sources is not None and bool(_sources.tavily_keys()))
+_run_tavily = (not _skip_tavily) and (not _FAST) and _has_tavily
+
+if _run_tavily:
+    # Clear previous snapshots only when a fresh pass is about to run. Query sets
+    # change between versions and a leftover file from an older plan would inject
+    # out-of-window items. Deleting them on a *skipped* round — which the old code
+    # did — threw away the last good Tavily data and left the page with RSS only.
+    for stale in glob.glob(os.path.join(OUT_DIR, "tavily_news_*.json")):
+        os.remove(stale)
+    for stale in glob.glob(os.path.join(OUT_DIR, "gdelt_news_*.json")):
+        os.remove(stale)
+    if os.path.exists(qmark):
+        os.remove(qmark)
+    print("cleared previous news snapshots")
+else:
+    print("tavily: not run this round — keeping the previous snapshot")
     quota_dead = True
-    with io.open(qmark, "w", encoding="utf-8") as fh:
-        fh.write("tavily skipped (cooldown or unavailable)")
+    if not _has_tavily:
+        print("no tavily package/key — skipping the Tavily pass entirely")
+        with io.open(qmark, "w", encoding="utf-8") as fh:
+            fh.write("no tavily key available")
+
 for tag, q, domains, n in PLAN:
     if quota_dead:
         break
@@ -493,7 +515,10 @@ def fetch_rss():
     return total
 
 
-rss_total = fetch_rss()
+# TAVILY_ONLY=1 keeps the run to the paid index alone. Used for fast iteration:
+# the RSS leg is 30 sequential feed fetches and is the slowest part of the pass.
+_TAVILY_ONLY = os.environ.get("TAVILY_ONLY") == "1"
+rss_total = 0 if _TAVILY_ONLY else fetch_rss()
 print("rss items:", rss_total)
 
 # ── GDELT pass (after RSS: it is the slowest and most rate-limited leg) ──────

@@ -39,20 +39,45 @@ def local_key(server, name):
     return ((d.get("mcpServers") or {}).get(server) or {}).get("env", {}).get(name, "")
 
 
+def tavily_pool():
+    """Every Tavily key on this machine, in priority order, as one string.
+
+    GitHub Secrets hold a single value, so the pool is joined with commas and
+    parsed back by sources.tavily_keys() / fetch_news.py.
+    """
+    p = os.path.expanduser("~/.workbuddy-ai/mcp.json")
+    d = json.load(io.open(p, encoding="utf-8"))
+    srv = d.get("mcpServers") or {}
+    out = []
+
+    def add(k):
+        k = (k or "").strip()
+        if k.startswith("tvly-") and k not in out:
+            out.append(k)
+
+    fo = (srv.get("tavily-failover") or {}).get("env") or {}
+    for i in range(1, 30):
+        add(fo.get("TAVILY_API_KEY_%d" % i))
+    add(fo.get("TAVILY_API_KEY"))
+    add(((srv.get("tavily-mcp") or {}).get("env") or {}).get("TAVILY_API_KEY"))
+    return ",".join(out)
+
+
 def main():
     pairs = {
         "XAI_API_KEY": local_key("xai-xsearch", "XAI_API_KEY"),
-        "TAVILY_API_KEY": local_key("tavily-mcp", "TAVILY_API_KEY"),
+        "TAVILY_API_KEYS": tavily_pool(),
     }
     key = call("GET", "/repos/%s/actions/secrets/public-key" % REPO)
     for name, value in pairs.items():
         if not value:
-            print("%-14s SKIP (no local value)" % name)
+            print("%-16s SKIP (no local value)" % name)
             continue
         sealed = seal(key["key"], value)
         call("PUT", "/repos/%s/actions/secrets/%s" % (REPO, name),
              {"encrypted_value": sealed, "key_id": key["key_id"]})
-        print("%-14s set (%d chars)" % (name, len(value)))
+        shown = ("%d keys" % (value.count(",") + 1)) if name == "TAVILY_API_KEYS" else ("%d chars" % len(value))
+        print("%-16s set (%s)" % (name, shown))
 
     names = [s["name"] for s in call("GET", "/repos/%s/actions/secrets" % REPO).get("secrets", [])]
     print("repo secrets now:", names)

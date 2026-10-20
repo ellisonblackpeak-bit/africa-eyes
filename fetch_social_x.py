@@ -16,6 +16,7 @@ hourly would multiply that by three for very little extra coverage.
 import io
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -26,7 +27,10 @@ OUT = os.path.join(HERE, "data", "raw")
 os.makedirs(OUT, exist_ok=True)
 
 EVERY_MIN = int(os.environ.get("SOCIAL_X_EVERY_MIN", "180"))
-MAX_QUERIES = int(os.environ.get("SOCIAL_X_QUERIES", "12"))
+# All angles run every cycle. The tail of QUERIES is the eight China-neighbourhood
+# queries, and with a 12-query cap they never executed — which is why that module
+# stayed empty. xAI is now the primary social channel, so the full list is used.
+MAX_QUERIES = int(os.environ.get("SOCIAL_X_QUERIES", "18"))
 
 QUERIES = [
     # ── Africa four — China angle (covers 涉华 module for the 4 African countries)
@@ -56,12 +60,35 @@ QUERIES = [
 
 
 def recent_run():
-    """Minutes since the last X collection, or None if never run."""
-    files = [os.path.join(OUT, f) for f in os.listdir(OUT)
-             if f.startswith("firecrawl_xai_") and f.endswith(".json")]
-    if not files:
-        return None
-    return (time.time() - max(os.path.getmtime(f) for f in files)) / 60.0
+    """Minutes since the last X collection, or None if never run.
+
+    The age is parsed from the timestamp baked into the filename
+    (firecrawl_xai_<tag>_<YYYYmmdd_HHMM>.json), NOT from mtime. A fresh
+    `git checkout` in GitHub Actions stamps every file with "now", so an
+    mtime-based check reported age 0 and skipped xAI on every single cloud run —
+    the real reason the social feed kept going stale.
+    """
+    newest = None
+    for f in os.listdir(OUT):
+        if not (f.startswith("firecrawl_xai_") and f.endswith(".json")):
+            continue
+        m = re.search(r"_(\d{8}_\d{4})\.json$", f)
+        if not m:
+            continue
+        try:
+            dt = datetime.strptime(m.group(1), "%Y%m%d_%H%M").replace(tzinfo=timezone.utc)
+        except Exception:
+            continue
+        if newest is None or dt > newest:
+            newest = dt
+    if newest is None:
+        # No parseable stamp — fall back to mtime so local runs still behave.
+        files = [os.path.join(OUT, f) for f in os.listdir(OUT)
+                 if f.startswith("firecrawl_xai_") and f.endswith(".json")]
+        if not files:
+            return None
+        return (time.time() - max(os.path.getmtime(f) for f in files)) / 60.0
+    return (datetime.now(timezone.utc) - newest).total_seconds() / 60.0
 
 
 def first_sentence(text, limit=140):

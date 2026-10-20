@@ -18,6 +18,14 @@ digest/
 data/spaces/
 *.log
 
+# Runtime bookkeeping. These must never be committed: a checked-out cooldown
+# mark gets a fresh mtime, which makes the Tavily pass look like it just ran and
+# silently disables it on every cloud pass.
+data/raw/_tav_mark
+data/raw/_tavily_last.txt
+data/raw/_tavily_quota_dead
+data/raw/_tavily_key_state.json
+
 # ── scratch ──────────────────────────────────────────────────────────────
 zh_batch*.json
 zh_daily.json

@@ -356,6 +356,48 @@ CTY_MARKERS = {
 NE_ONLY = re.compile(r"\bniger\b(?!\s*(?:state|delta|river|basin|company|insurance))", re.I)
 NG_RE = re.compile(r"\bnigeri", re.I)
 
+# Domain-based country attribution (added 2026-10-20). The eight-neighbour RSS
+# feeds come back in the local language (Vietnamese / Korean / Hindi / Burmese
+# etc.) — the language-specific keyword list cannot match the title. Mapping
+# the *domain* to a country is the only signal that survives: an item from
+# vnexpress.net is always about Vietnam, from thehindu.com always about India.
+# Used only as a fallback after the keyword classifier failed to find any
+# country, so it never overrides an explicit match.
+DOMAIN_CTY = {
+    # KR / Korea
+    "koreaherald.com": "kr", "koreatimes.co.kr": "kr",
+    # PH / Philippines
+    "rappler.com": "ph", "inquirer.net": "ph", "gmanetwork.com": "ph",
+    # MM / Myanmar
+    "irrawaddy.com": "mm", "frontiermyanmar.net": "mm", "mizzima.com": "mm",
+    # RU / Russia
+    "themoscowtimes.com": "ru",
+    # IN / India
+    "thehindu.com": "in", "hindustantimes.com": "in",
+    # NP / Nepal
+    "kathmandupost.com": "np",
+    # VN / Vietnam
+    "vnexpress.net": "vn", "tuoitre.vn": "vn",
+}
+
+
+def outlet_info(dom):
+    """(label, country, page) for a domain, with a sane fallback.
+
+    OUTLETS is a hand-curated registry of West African outlets. The eight
+    China-neighbourhood queries return publishers that are not in it
+    (elevenmyanmar.com, scmp.com, thediplomat.com …). The old `if dom not in
+    OUTLETS: continue` therefore threw away every single one of those items,
+    which is why the 周边国家 module stayed empty no matter how well the fetch
+    worked. Unknown domains now get a neutral label instead of being dropped;
+    the relevance gate further down still rejects anything without a country
+    anchor, so this does not let junk in.
+    """
+    hit = OUTLETS.get(dom)
+    if hit:
+        return hit
+    return (dom, "af", "https://" + dom)
+
 
 def _rx(words):
     words = sorted(set(words), key=len, reverse=True)
@@ -379,7 +421,7 @@ def classify_topic(title, body):
     return [k for k, _ in sorted(hits.items(), key=lambda kv: -kv[1])[:2]]
 
 
-def classify_cty(title, body):
+def classify_cty(title, body, dom=""):
     out = [c for c, rx in CTY_RX.items()
            if 3 * len(rx.findall(title)) + len(rx.findall(body))]
     blob = title + " " + body
@@ -389,7 +431,17 @@ def classify_cty(title, body):
         out.append("ne")
     if "wa" in out and any(c in out for c in ("ng", "ne", "ml", "gh")):
         out.remove("wa")
-    return out or ["af"]
+    if out:
+        return out
+    # Keyword classifier found nothing. For the eight China-neighbourhood feeds
+    # the copy is in the local language (Vietnamese / Korean / Burmese), so the
+    # English keyword list can never fire. The publishing domain is the one
+    # signal that always survives: a story on vnexpress.net is about Vietnam.
+    # Applied only as a last resort, so it never overrides a real keyword hit.
+    for suffix, code in DOMAIN_CTY.items():
+        if dom == suffix or dom.endswith("." + suffix):
+            return [code]
+    return ["af"]
 
 
 # ─────────────── text hygiene ───────────────
@@ -998,8 +1050,14 @@ news_files += sorted(glob.glob(os.path.join(RAW, "gdelt_news_*.json")))
 for fn in news_files:
     if fn.endswith("_all.json"):
         continue
-    with io.open(fn, encoding="utf-8") as fh:
-        doc = json.load(fh)
+    try:
+        with io.open(fn, encoding="utf-8") as fh:
+            doc = json.load(fh)
+    except Exception as exc:
+        # A half-written or merge-conflicted cache file must never take the whole
+        # page down: skip it, say so, and let the next fetch overwrite it.
+        print("skip unreadable raw file %s (%s)" % (os.path.basename(fn), type(exc).__name__))
+        continue
     for it in doc.get("results", []):
         u = it.get("url")
         if not u or norm_url(u) in seen or not is_article_url(u):
@@ -1018,9 +1076,12 @@ for fn in news_files:
             dropped_scope += 1
             continue
         dom = re.sub(r"^www\.", "", re.sub(r"^https?://", "", u).split("/")[0])
-        if dom not in OUTLETS:
-            continue
-        pub = it.get("published_date") or ""
+        # Tavily's own field is `published_date`, but sources.tavily_search
+        # normalises it to `published`. Reading only the first name silently
+        # marked every Tavily item as undated, and the 3-day window then dropped
+        # the entire Tavily contribution — which is why the page kept showing
+        # little more than the RSS leftovers.
+        pub = it.get("published_date") or it.get("published") or ""
         dt = parse_pub(pub)
         # Strict window. An item is kept ONLY when it carries a parseable date and
         # that date is inside WINDOW_DAYS at the moment this build runs — i.e. at
@@ -1054,13 +1115,13 @@ for fn in news_files:
             # its 摘要 line, and say so rather than pretending it is a digest.
             summary = title
             summary_zh = ""
-        cty = classify_cty(title, body[:1500])
+        cty = classify_cty(title, body[:1500], dom)
         # Relevance gate. A wire service will happily return a global story that
         # merely shares a token ("oil", "security", "Trump"), and a story page
         # often carries related-article links naming Africa in the body. So the
         # anchor must appear in the TITLE: local outlets name the country or region
         # in the headline, and this is what keeps the priority tiers on topic.
-        cty_title = classify_cty(title, "")
+        cty_title = classify_cty(title, "", dom)
         if cty_title == ["af"]:
             # Scoped exceptions, both requiring a West African publisher so the
             # tier cannot fill with wire-service world news:
@@ -1069,7 +1130,7 @@ for fn in news_files:
             #     China-Africa financial corridor", punchng.com);
             #  b) the country/region is named in the BODY while the source is a
             #     West African outlet — local outlets run such headlines routinely.
-            body_cty = classify_cty(title, body[:1200])
+            body_cty = classify_cty(title, body[:1200], dom)
             if dom in WA_DOMAINS and (CN_RX.search(title) or body_cty != ["af"]):
                 cty_title = body_cty if body_cty != ["af"] else ["wa"]
             else:
@@ -1077,7 +1138,7 @@ for fn in news_files:
                 continue
         # Full classification uses the body too; the relaxed gate result is merged
         # in so a China story recovered above stays tagged to the region.
-        cty = classify_cty(title, body[:1500])
+        cty = classify_cty(title, body[:1500], dom)
         for c in cty_title:
             if c not in cty:
                 cty.append(c)
@@ -1112,7 +1173,7 @@ for fn in news_files:
             "title": title,
             "url": u,
             "domain": dom,
-            "source": OUTLETS[dom][0],
+            "source": outlet_info(dom)[0],
             "published": pub,
             "_dt": dt.timestamp(),
             "ageDays": round(age_days, 2),
@@ -1314,8 +1375,12 @@ def fb_page(u):
 
 
 for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
-    with io.open(fn, encoding="utf-8") as fh:
-        doc = json.load(fh)
+    try:
+        with io.open(fn, encoding="utf-8") as fh:
+            doc = json.load(fh)
+    except Exception as exc:
+        print("skip unreadable raw file %s (%s)" % (os.path.basename(fn), type(exc).__name__))
+        continue
     for plat in doc.get("platforms", []):
         pname = plat.get("name")
         for it in plat.get("results") or []:
@@ -1790,7 +1855,7 @@ out_counts = {}
 for n in news:
     out_counts[n["domain"]] = out_counts.get(n["domain"], 0) + 1
 for dom, cnt in sorted(out_counts.items(), key=lambda kv: -kv[1]):
-    nm, cy, page = OUTLETS[dom]
+    nm, cy, page = outlet_info(dom)
     is_contact = bool(re.search(r"contact", page, re.I))
     people["outlet::" + dom] = {
         "name": nm + " 编辑部", "type": "媒体机构", "role": "报道发布方（编辑部）",

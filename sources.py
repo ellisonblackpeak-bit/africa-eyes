@@ -83,24 +83,43 @@ def xai_key():
 
 
 def tavily_keys():
-    """All Tavily keys, best first: env → tavily_keys.txt → mcp.json."""
+    """All Tavily keys, best first: env → tavily_keys.txt → mcp.json.
+
+    TAVILY_API_KEYS (plural) accepts several keys in one value — comma, semicolon,
+    whitespace or newline separated. That is how the cloud runner gets the whole
+    pool: GitHub Secrets hold one string, so the list has to travel inside it.
+    """
     out = []
-    k = (os.environ.get("TAVILY_API_KEY") or "").strip()
-    if k:
-        out.append(k)
+
+    def _add(k):
+        k = (k or "").strip().strip('"').strip("'")
+        if k.startswith("tvly-") and k not in out:
+            out.append(k)
+
+    for env_name in ("TAVILY_API_KEYS", "TAVILY_API_KEY"):
+        raw = os.environ.get(env_name) or ""
+        for tok in re.split(r"[,;\s]+", raw):
+            _add(tok)
     p = os.path.join(HERE, "tavily_keys.txt")
     if os.path.exists(p):
         try:
             with io.open(p, encoding="utf-8") as fh:
                 for line in fh:
                     line = line.strip()
-                    if line.startswith("tvly-") and line not in out:
-                        out.append(line)
+                    if line.startswith("tvly-"):
+                        _add(line)
         except Exception:
             pass
-    k = _mcp_key("TAVILY_API_KEY")
-    if k and k not in out:
-        out.append(k)
+    # mcp.json holds the local pool: TAVILY_API_KEY plus the numbered
+    # TAVILY_API_KEY_1..N of the failover server. Scan the whole file so a key
+    # added there is picked up without editing anything else.
+    mcp = os.path.join(os.path.expanduser("~"), ".workbuddy-ai", "mcp.json")
+    try:
+        with io.open(mcp, encoding="utf-8") as fh:
+            for k in re.findall(r"tvly-[A-Za-z0-9_\-]{16,}", fh.read()):
+                _add(k)
+    except Exception:
+        pass
     return out
 
 
