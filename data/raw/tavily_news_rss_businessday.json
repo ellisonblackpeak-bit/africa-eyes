@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Nigeria’s dairy industry urges clearer product standards, rules",
-   "url": "https://businessday.ng/agriculture/article/nigerias-dairy-industry-urges-clearer-product-standards-rules/",
-   "content": "​ Key players in Nigeria’s dairy sector are pushing regulators for clearer, unified product standards to eliminate consumer confusion and",
-   "published_date": "Tue, 20 Oct 2026 09:36:44 +0000",
-   "score": 0.6
-  },
-  {
    "title": "Nigeria’s CHI Farms, Aviagen mark 20-year poultry partnership",
    "url": "https://businessday.ng/agriculture/article/nigerias-chi-farms-aviagen-mark-20-year-poultry-partnership/",
    "content": "​CHI Farms Limited, an integrated agribusiness unit of Nigeria’s Tropical General Investments (TGI) Group, and global poultry breeder Aviagen Group",
@@ -34,6 +27,13 @@
    "url": "https://businessday.ng/energy/article/nigeria-must-drill-deeper-revive-old-fields-to-arrest-oil-reserve-decline/",
    "content": "Nigeria needs to drill more wells in both new and mature basins to replace reserves that are being used up",
    "published_date": "Tue, 20 Oct 2026 09:30:04 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "SFS REIT income surges 50% to N467m despite falling asset value",
+   "url": "https://businessday.ng/companies/article/sfs-reit-income-surges-50-to-n467m-despite-falling-asset-value/",
+   "content": "SFS Real Estate Investment Trust’s income grew by almost 50 percent in the nine months to September 2026, supported by",
+   "published_date": "Tue, 20 Oct 2026 09:15:20 +0000",
    "score": 0.6
   }
  ],
