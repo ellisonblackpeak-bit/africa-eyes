@@ -324,18 +324,27 @@ TOPIC_MARKERS = {
             "transport corridor", "seaport terminal", "train", "freight"],
 }
 CTY_MARKERS = {
+    # Chinese names are included because the Chinese-language feeds (rfa_chinese)
+    # and every translated headline carry them, and because a headline such as
+    # "外国直接投资：高原州与中国公司签署 5 亿美元协议" names a Nigerian state
+    # that no English keyword would catch once translated.
     "ng": ["nigeria", "nigerian", "nigerians", "abuja", "lagos", "kano", "kaduna",
            "maiduguri", "tinubu", "nnpc", "naira", "borno", "zamfara", "niger delta",
            "niger state", "port harcourt", "katsina", "sokoto", "efcc", "nass", "cbn",
-           "dangote", "ondo", "anambra", "imo state", "plateau state", "benue"],
+           "dangote", "ondo", "anambra", "imo state", "plateau state", "benue",
+           "尼日利亚", "尼联邦", "阿布贾", "拉各斯", "卡诺", "卡杜纳", "高原州",
+           "迈杜古里", "博尔诺", "扎姆法拉", "蒂努布"],
     "ne": ["nigerien", "niamey", "tiani", "somair", "orano", "agadez", "tillaberi",
            "imouraren", "cnsp", "bazoum", "niger republic", "republic of niger",
-           "niger's", "niger junta", "niger government", "niger army"],
+           "niger's", "niger junta", "niger government", "niger army",
+           "尼日尔", "尼亚美", "阿加德兹", "阿尔利特", "奇亚尼"],
     "ml": ["mali", "malian", "bamako", "goita", "jnim", "timbuktu", "gao", "kidal", "mopti",
-           "barrick", "loulo", "gounkoto", "sikasso", "kayes", "azawad", "malien"],
+           "barrick", "loulo", "gounkoto", "sikasso", "kayes", "azawad", "malien",
+           "马里", "巴马科", "通布图", "加奥", "基达尔", "戈伊塔"],
     "gh": ["ghana", "ghanaian", "ghanaians", "accra", "kumasi", "cedi", "mahama", "galamsey",
            "akufo", "tema", "obuasi", "ashanti", "volta", "ecg", "newmont", "goldfields",
-           "tamale", "takoradi", "ghanian"],
+           "tamale", "takoradi", "ghanian",
+           "加纳", "阿克拉", "库马西", "马哈马", "加纳塞地", "非法采金"],
     "wa": ["ecowas", "sahel", "west africa", "west african", "regional bloc",
            "alliance of sahel", "aes states", "gulf of guinea", "burkina faso", "benin",
            "togo", "ivory coast", "cote d'ivoire", "sierra leone", "liberia",
@@ -360,7 +369,7 @@ CTY_MARKERS = {
            "rosatom", "俄罗斯", "莫斯科", "克里姆林宫", "普京", "瓦格纳"],
     "in": ["india", "indian", "delhi", "new delhi", "modi", "bjp", "congress india",
            "indian army", "lac", "line of actual control", "arunachal pradesh",
-           "ladakh", "indian navy", "bala" "印度", "新德里", "莫迪", "印度人民党",
+           "indian navy", "balakot", "印度", "新德里", "莫迪", "印度人民党",
            "实控线", "拉达克"],
     "np": ["nepal", "kathmandu", "nepali", "kp oli", "kp sharma", "prachanda",
            "nepal congress", "bipin ledra", "everest", "himalayan",
@@ -427,6 +436,26 @@ def _rx(words):
 TOPIC_RX = {k: _rx(v) for k, v in TOPIC_MARKERS.items()}
 CTY_RX = {k: _rx(v) for k, v in CTY_MARKERS.items()}
 
+# Every country code the page actually has a module or a filter chip for.
+ALL_CTYS = {"ng", "ne", "ml", "gh", "kr", "ph", "mm", "ru", "in", "np", "vn", "la"}
+
+# Query tag → the country that query was aimed at. Used as a LAST-RESORT anchor
+# when the headline names nothing recognisable: "FDI: Plateau, Chinese firm ink
+# $500m deal" is Nigerian, but says "Plateau" rather than "Nigeria", and with
+# only a headline for body text no marker could fire — so the story landed in
+# 泛非洲 and never appeared in the 非洲四国 module. Only country-specific angles
+# are listed; regional angles (cn_wa, cn_af, ter_wide …) are deliberately absent
+# because they do not pin a country.
+TAG_CTY = {
+    "cn_ng": "ng", "cn_ng2": "ng", "cn_ng_emb": "ng", "cn_ng_gov": "ng",
+    "us_ng": "ng", "gov_ng": "ng", "ng_extra": "ng",
+    "cn_gh": "gh", "cn_gh2": "gh", "us_gh": "gh", "gov_gh": "gh", "gh_extra": "gh",
+    "cn_ne": "ne", "ne_extra": "ne",
+    "cn_ml": "ml", "ml_extra": "ml",
+    "cn_kr": "kr", "cn_ph": "ph", "cn_mm": "mm", "cn_ru": "ru",
+    "cn_in": "in", "cn_np": "np", "cn_vn": "vn", "cn_la": "la",
+}
+
 
 def classify_topic(title, body):
     """Title matches weigh 3x: body text carried nav chrome and unrelated
@@ -464,7 +493,26 @@ def classify_cty(title, body, dom=""):
     return ["af"]
 
 
-# ─────────────── text hygiene ───────────────
+# Self-promo / get-rich advert blocks that publishers inject into the body
+# column. Punch in particular prepends a "NEWS UPDATE … earn $15,000-$25,000 with
+# premium domains … CLICK HERE TO START" panel and appends a "Stay in the know …
+# Download the Punch News App" footer, so on 2026-10-20 six articles came back
+# with that advert as their ENTIRE body and several more had it glued to the end
+# of the real text. Matched per sentence so a glued footer is removed too.
+PROMO_RX = re.compile(
+    r"click here|earn as much as|premium domains|stay in the know|"
+    r"instant alerts|never miss a beat|^\s*news update:|attention nigerians|"
+    r"download (?:the|our) \w+ app|get (?:instant|unlimited) access|"
+    r"subscribe now|buy now|order now|advertise with us", re.I)
+
+
+def purge_promo(text):
+    """Drop promo sentences from a body, keeping the article prose."""
+    if not text:
+        return ""
+    parts = re.split(r"(?<=[.!?])\s+", str(text))
+    keep = [p for p in parts if p.strip() and not PROMO_RX.search(p)]
+    return " ".join(keep).strip()
 NAV_RX = re.compile(
     r"(advertise with us|subscribe|e-?paper|^###|^##|more news|related news|read more|"
     r"discover more from|sign up|newsletter|follow us|share this|tags?:|jump to|"
@@ -484,7 +532,20 @@ NAV_RX = re.compile(
     # house adverts that sit inside the body column
     r"connect with healthcare professionals|now just a click away|"
     r"^\s*advertisement\s*$|^\s*sponsored\b|read also:|also read:|"
-    r"^\s*recommended\s*$|^\s*most read\b)", re.I)
+    r"^\s*recommended\s*$|^\s*most read\b|"
+    # ⎯⎯ self-promo blocks that the extractor mistakes for the article ⎯⎯
+    # Punch's page wrapper injects a "NEWS UPDATE … earn $15,000-$25,000 with
+    # premium domains … CLICK HERE TO START … Download the Punch News App"
+    # panel as the first text node. On 2026-10-20 six articles came back with
+    # that 652-character advert as their ENTIRE body, so the summary read like a
+    # get-rich advert and the translation was wasted on it. Any line carrying
+    # these markers is dropped outright; if nothing survives, the caller falls
+    # back to the RSS description instead of presenting the advert as the story.
+    r"click here|earn as much as|premium domains|stay in the know|"
+    r"instant alerts|never miss a beat|^\s*news update:|attention nigerians|"
+    r"download (?:the|our) \w+ app|free \w+ alerts|"
+    # generic e-paper / subscription funnels
+    r"buy now|order now|subscribe now|get (?:instant|unlimited) access)", re.I)
 CAPTION_RX = re.compile(
     r"(\(c?redit|credit:|file photo|photo:|image:|getty|afp photo|reuters/|ap photo|"
     r"pictured|in this file photo|^\[|^\]|"
@@ -639,6 +700,7 @@ def strip_body(content, title):
     if not keep:
         return ""
     body = " ".join(keep)
+    body = purge_promo(body)
     t = clean(title)
     if t and body.lower().startswith(t.lower()[:45]):
         body = body[len(t):].strip(" |.–—-")
@@ -1162,6 +1224,20 @@ for fn in news_files:
         for c in cty_title:
             if c not in cty:
                 cty.append(c)
+        # Last-resort anchor from the query tag.
+        #
+        # "FDI: Plateau, Chinese firm ink $500m deal" is a Nigerian story — Plateau
+        # is a Nigerian state — but the headline says "Plateau", not "Nigeria",
+        # and the extractor only returned the headline, so no keyword could fire
+        # and the item was filed under 泛非洲, which the 非洲四国 module does not
+        # show. Since the angle that found it was country-specific ("China Nigeria
+        # investment"), the tag is a reliable anchor in exactly this situation.
+        # It is applied only when NOTHING more specific was found, so it can never
+        # override a real keyword hit, and it does not loosen the relevance gate
+        # above (the item must still have passed that).
+        _tag_cty = TAG_CTY.get(doc.get("_tag") or "")
+        if _tag_cty and not (set(cty) & ALL_CTYS):
+            cty = [_tag_cty]
         tier, actor, also_us = actor_tier(
             title, summary, is_gov_publisher=(dom in GOV_DOMAINS),
             topics=classify_topic(title, body[:1500]))
@@ -1253,6 +1329,26 @@ if added_from_pool or expired_from_pool:
 # chip, and the page offers a 按层级 toggle for anyone who wants the old
 # grouping. Time is the primary key and score only breaks exact ties.
 news.sort(key=lambda n: (-n["_dt"], -n["score"]))
+
+# Final sanitation pass over BOTH freshly built and pool-carried items.
+# The pool keeps the previous round's `body` verbatim, so an article that carried
+# a publisher advert in its body kept that advert for the whole 3-day window even
+# after strip_body learned to drop it. Re-running the promo purge here fixes
+# carried-over entries too; if nothing but promo is left, fall back to the
+# summary so the 展开全文 panel still has real Chinese text to show.
+_promo_fixed = 0
+for _n in news:
+    _b = _n.get("body") or ""
+    if _b and PROMO_RX.search(_b):
+        _cl = purge_promo(_b)
+        if len(_cl) >= 160:
+            _n["body"] = _cl
+        else:
+            _n["body"] = _n.get("summary") or ""
+            _n["bodyLevel"] = "excerpt"
+        _promo_fixed += 1
+if _promo_fixed:
+    print("promo blocks removed from %d article body/bodies" % _promo_fixed)
 
 # ─────────────── volume cap ───────────────
 # A WordPress RSS feed publishes everything its newsroom writes, so a free-source

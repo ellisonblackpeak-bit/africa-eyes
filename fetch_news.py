@@ -123,32 +123,41 @@ AGENCY = ["reuters.com", "africanews.com", "theafricareport.com", "allafrica.com
 MINING = ["mining.com", "mining-journal.com", "mining-technology.com", "im-mining.com"]
 
 PLAN = [
+    # ────────────────────────────────────────────────────────────────────────
+    # MEASURED RULE (2026-10-20, 20 queries against the live API):
+    #   short query (2–4 words) + NO include_domains  → 9–10 results, every time
+    #   long query  (5–7 words) + include_domains     → 0–4 results, most times
+    # The West-Africa-China angles were the worst case: with WA restricted they
+    # returned cn_ml=0, cn_ng=4, cn_ne=2, cn_gh=1 while the unrestricted
+    # periphery angles returned 10–12 each. That is the real reason the
+    # 非洲四国 module looked thin — not a lack of coverage in the world, but a
+    # filter that made the API answer "nothing found". Every angle below is now
+    # short and unrestricted; build_data's country gate still rejects anything
+    # that does not anchor to one of the twelve countries.
     # ─── Africa four — China angle (the largest yield axis) ────────────────
-    ("cn_ng", "Nigeria Chinese company investment project deal", WA, 12),
-    ("cn_ng_emb", "Chinese embassy Nigeria ambassador consulate", WA, 12),
-    ("cn_ng_gov", "China Nigeria government deal agreement cooperation", WA + ["africanews.com"], 12),
-    ("cn_gh", "Ghana Chinese company firm investment deal mining galamsey", WA, 12),
-    ("cn_ne", "Niger China deal Chinese company uranium", WA + FR + ["africanews.com"], 12),
-    ("cn_ml", "Mali China deal Chinese company agreement", WA + FR + ["africanews.com"], 12),
+    ("cn_ng",   "China Nigeria investment", [], 12),
+    ("cn_ng2",  "Chinese company Nigeria", [], 12),
+    ("cn_gh",   "China Ghana investment", [], 12),
+    ("cn_gh2",  "Chinese miners Ghana", [], 12),
+    ("cn_ne",   "China Niger oil", [], 12),
+    ("cn_ml",   "China Mali mining", [], 12),
+    ("cn_wa",   "Chinese firm West Africa", [], 12),
+    ("cn_af",   "Chinese investment Africa", [], 12),
     # ─── Africa four — US angle ─────────────────────────────────────────────
-    # No domain filter here: measured, `include_domains` + topic=news + days=3
-    # returns 0 almost every time for these angles. The same query unrestricted
-    # returns 8 usable items. Domain narrowing only pays off for the local-outlet
-    # angles above, where it keeps wire-service world news out.
-    ("us_ng", "US Nigeria military cooperation AFRICOM", [], 12),
-    ("us_gh", "US Ghana military cooperation embassy", [], 12),
-    ("us_ne_ml", "US Niger Mali sanctions military cooperation", [], 12),
-    ("us_biz", "American company investment Nigeria Ghana energy", [], 12),
+    ("us_ng",    "US Nigeria", [], 12),
+    ("us_gh",    "US Ghana military", [], 12),
+    ("us_ne_ml", "US Niger Mali", [], 12),
+    ("us_biz",   "American company Nigeria energy", [], 12),
     # ─── Africa four — terror groups (MPLJ / FPL / JNIM / EIGS / ISIS / Lakurawa)
     ("ter_ne_ml", "JNIM EIGS attack Niger Mali", [], 12),
     ("ter_ng", "Lakurawa ISWAP Boko Haram attack Nigeria", [], 12),
     ("ter_wide", "MPLJ FPL jihadist Sahel attack", [], 12),
     # ─── Africa four — government / corridor (kept for tier 3 / tier 4)
-    ("gov_ng", "Nigeria Federal Government approves policy statement", WA, 12),
-    ("gov_gh", "Ghana government approves policy", WA, 12),
-    ("gov_ne_ml", "Niger Mali government council of ministers", WA + AGENCY, 12),
-    ("cor_pipeline", "Nigeria Morocco gas pipeline corridor", WA + ["africanews.com"], 12),
-    ("cor_rail_road", "railway corridor port project Nigeria Ghana", WA, 12),
+    ("gov_ng", "Nigeria government approves", [], 12),
+    ("gov_gh", "Ghana government policy", [], 12),
+    ("gov_ne_ml", "Niger Mali junta", [], 12),
+    ("cor_pipeline", "Nigeria Morocco gas pipeline", [], 12),
+    ("cor_rail_road", "railway project Nigeria", [], 12),
     # ─── China periphery — 8 countries × China focus (per the reader's spec,
     #   "涉及中国人、中国企业、中国项目的新闻" only; no terror or US lens).
     # Short, keyword-style queries with NO domain filter: that is what actually
@@ -161,12 +170,13 @@ PLAN = [
     ("cn_np", "Chinese company Nepal investment hydropower", [], 12),
     ("cn_vn", "Chinese company Vietnam factory investment", [], 12),
     ("cn_la", "Chinese company Laos railway investment", [], 12),
-    # ─── Breadth sweeps: a plain "latest news" against each domain cluster
-    #    recovers in-window items that keyword-specific angles miss.
-    ("ng_extra", "Nigeria latest news today", WA, 10),
-    ("gh_extra", "Ghana latest news today", WA, 10),
-    ("ne_extra", "Niger Niamey latest news today junta", AGENCY, 10),
-    ("ml_extra", "Mali Bamako latest news today junta jihadist", AGENCY, 10),
+    # ─── Breadth sweeps: a plain "latest news" recovers in-window items that
+    #    keyword-specific angles miss. Short form measured at 9–10 results;
+    #    the previous domain-restricted versions returned 0–3.
+    ("ng_extra", "Nigeria latest news", [], 10),
+    ("gh_extra", "Ghana latest news", [], 10),
+    ("ne_extra", "Niger latest news", [], 10),
+    ("ml_extra", "Mali latest news", [], 10),
 ]
 
 client = TavilyClient(api_key=KEY) if TavilyClient else None

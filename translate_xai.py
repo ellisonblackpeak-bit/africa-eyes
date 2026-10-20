@@ -30,6 +30,7 @@ Design
 
 Usage:
   python translate_xai.py            # translate the whole queue
+  python translate_xai.py --chars 300000   # stop after ~300k source chars
   python translate_xai.py --limit 40 # cap items this run
   python translate_xai.py --model grok-4.20-0309-non-reasoning
 """
@@ -210,11 +211,14 @@ def merge_into_cache(keep):
 
 def main():
     limit = None
+    budget = 0
     model = DEFAULT_MODEL
     args = sys.argv[1:]
     for i, a in enumerate(args):
         if a == "--limit" and i + 1 < len(args):
             limit = int(args[i + 1])
+        if a == "--chars" and i + 1 < len(args):
+            budget = int(args[i + 1])
         if a == "--model" and i + 1 < len(args):
             model = args[i + 1]
 
@@ -262,6 +266,27 @@ def main():
         chars += n
     if cur:
         batches.append(cur)
+
+    # Character budget instead of an item cap.
+    #
+    # The old `--limit 220` was the reason the 展开全文 panel kept showing English:
+    # the queue is sorted titles → summaries → bodies, a full round holds well
+    # over 220 strings once titles and summaries are counted, so the body items
+    # at the tail were *never* reached. Every refresh translated the same front
+    # matter and left 70 of 99 article bodies in English. A character budget
+    # bounds the cost just as well while still letting the run walk past the
+    # front matter into the bodies.
+    if budget > 0:
+        kept, used = [], 0
+        for b in batches:
+            n = sum(len(x["en"]) for x in b)
+            if kept and used + n > budget:
+                break
+            kept.append(b)
+            used += n
+        print("budget %d chars -> %d/%d batches" % (budget, len(kept), len(batches)),
+              flush=True)
+        batches = kept
     print("batches:", len(batches), flush=True)
 
     done, keep = 0, {}
@@ -306,6 +331,12 @@ def main():
     print("translated %d/%d -> %s" % (done, len(todo), OUT), flush=True)
     added = merge_into_cache(keep)
     print("merged into zh_cache.json (+%d entries)" % added, flush=True)
+    # Tell the caller how much is still outstanding so a truncated run is
+    # visible in the Actions log rather than being mistaken for "all done".
+    left = len(todo) - done
+    print("queue left after this run: %d string(s)" % left, flush=True)
+    if left > 0:
+        print("NEXT_ROUND_NEEDED", flush=True)
 
 
 if __name__ == "__main__":

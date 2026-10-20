@@ -11,9 +11,9 @@ on:
   workflow_dispatch:
     inputs:
       limit:
-        description: "Max strings to translate in this run"
+        description: "Character budget for translation (0 = whole queue)"
         required: false
-        default: "400"
+        default: "400000"
 
 permissions:
   contents: write
@@ -43,7 +43,14 @@ jobs:
           PYTHONIOENCODING: utf-8
         run: |
           python build_data.py
-          python translate_xai.py --limit ${{ github.event.inputs.limit || 400 }} || echo "::warning::translate failed"
+          # Same drain loop as the refresh workflow: the `limit` input is a
+          # character budget now (`0` = the whole queue), and repeating the
+          # call clears whatever one pass could not fit.
+          for round in 1 2 3; do
+            python translate_xai.py --chars ${{ github.event.inputs.limit || 400000 }} | tee /tmp/tr.log \
+              || { echo "::warning::translate failed"; break; }
+            grep -q NEXT_ROUND_NEEDED /tmp/tr.log || break
+          done
           python build_data.py
 
       - name: Commit

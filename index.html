@@ -642,14 +642,36 @@ details.ft[open] summary::before{content:'▾ '}
      extraction (paywall, bot wall, RSS-only) build_data fills `body` with the
      fullest text it could obtain and marks bodyLevel='excerpt'; the fold then
      says so instead of quietly disappearing. */
+  /* Collapsible full text — Chinese only, never a raw English panel.
+     Every card must be able to unfold something (the reader asked for
+     「展开翻译全文」on every item). The old fallback printed the English body with
+     "译文生成中，暂显示原文", which is exactly what the reader objected to: an
+     English wall inside a Chinese page. Now, when the body translation has not
+     landed yet, the panel shows the Chinese summary instead and says so.
+     The translation queue itself was also fixed (it was capped at 220 strings
+     with bodies last, so bodies were never reached) — see translate_xai.py. */
   function fulltext(it){
-    var en=it.body||'', zh=it.body_zh||'';
-    if(!en && !zh) return '';
-    var txt=zh||en;
-    var lbl=zh?'展开全文译文'
-      :(en?'展开全文（译文生成中，暂显示原文）':'展开全文译文');
-    var note='';
-    if(it.bodyLevel==='excerpt')
+    var zh=it.body_zh||'';
+    var haveCn=function(s){return !!s && /[\u4e00-\u9fa5]/.test(s);};
+    if(!haveCn(zh) && !it.body && !it.summary) return '';
+    var txt, lbl, note='';
+    if(haveCn(zh)){
+      txt=zh; lbl='展开全文译文';
+    }else{
+      /* No body translation yet → use the Chinese summary so the panel still
+         reads as Chinese. Never fall back to the English body. */
+      txt=it.summary_zh||it.snippet_zh||'';
+      if(haveCn(txt)){
+        lbl='展开摘要译文（全文译文生成中）';
+        note='<div class="ft-note">该条正文的中文译文尚未生成，以上为中文摘要；下一轮自动更新会补齐全文译文。'
+             +'需要完整内容可点下方原文链接。</div>';
+      }else{
+        txt='该条译文正在生成，下一轮自动更新后显示中文全文。';
+        lbl='展开全文译文';
+        note='<div class="ft-note">译文尚未生成，下一轮自动更新补齐。</div>';
+      }
+    }
+    if(it.bodyLevel==='excerpt' && haveCn(zh))
       note='<div class="ft-note">该来源未开放正文抓取（付费墙或反爬限制），以上为可获得的完整文本；更多内容请打开原文。</div>';
     else if(it.bodyLevel==='post' && it.platform && it.platform!=='x')
       note='<div class="ft-note">平台接口仅返回标题与摘要，以上为该帖可获得的全部文字。</div>';

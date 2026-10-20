@@ -49,7 +49,21 @@ jobs:
           python fetch_articles.py || echo "::warning::fetch_articles failed"
           python fetch_social_x.py || echo "::warning::fetch_social_x failed"
           python build_data.py
-          python translate_xai.py --limit 220 || echo "::warning::translate failed"
+          # Drain the translation queue, not just its first N items.
+          #
+          # `--limit 220` was the reason the 展开全文 panel kept showing English:
+          # build_data queues titles → summaries → bodies, a 3-hour round holds
+          # far more than 220 strings, so the bodies at the tail were never
+          # reached. The page then fell back to "译文生成中，暂显示原文" on most
+          # cards even though the translation step reported success.
+          # A character budget still bounds the cost, and looping clears the
+          # rest of the queue in the same run.
+          for round in 1 2 3; do
+            python translate_xai.py --chars 300000 | tee /tmp/tr.log \
+              || { echo "::warning::translate failed"; break; }
+            grep -q NEXT_ROUND_NEEDED /tmp/tr.log || break
+            echo "::notice::translation round $round left a tail — continuing"
+          done
           python build_data.py
           rm -f data/raw/_tavily_last.txt data/raw/_tavily_quota_dead \
                 data/raw/_tavily_key_state.json || true
