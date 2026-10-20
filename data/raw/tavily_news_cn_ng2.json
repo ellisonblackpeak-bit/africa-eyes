@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Chinese companies are now fully mobilised",
-   "url": "https://www.facebook.com/TheWeekendPostBW/posts/chinese-companies-are-now-fully-mobilised-they-are-ready-some-of-them-from-my-co/1536742838479762",
-   "snippet": "The Ruyi Group, a leading Chinese company, $328 million project, which was signed between China and Nigeria earlier on Wednesday.",
-   "published": "Mon, 19 Oct 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Nigeria has not decided how to regulate Chinese businesses. Who will decide? | African Arguments",
    "url": "https://africanarguments.org/2026/10/nigeria-has-not-decided-how-to-regulate-chinese-businesses-who-will-decide",
    "snippet": "In Nasarawa State, the lines blur. In June 2024, leaders of Amba and Agwada said their communities were fully behind two Chinese companies and knew of no consent given to the firm TIMADIX. In December 2024, TIMADIX said state officials had unlawfully licensed Chinese nationals on the same site. The state commissioner replied that TIMADIX itself was operating illegally. After arrests on 16 May 2026",
@@ -16,59 +9,80 @@
    "source": "tavily"
   },
   {
+   "title": "African Online Lending King Launches IPO: 3.6 Billion Annual Revenue, 28.5 Billion Valuation",
+   "url": "https://eu.36kr.com/en/p/4025199606845313",
+   "snippet": "This company, which originated in Nigeria, is backed by a group of Chinese investors: IDG Capital, HSG, Source Code Capital, Meituan, Gaorong Capital, and others. In 2021, SoftBank Vision Fund II led a USD 400 million financing round for OPay, pushing the company into the ranks of African unicorns. [...] OPay has also obtained approval from the board of directors and shareholders, and plans to see",
+   "published": "Wed, 14 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Canadian miner's Nigerian venture puts community at risk, locals say | Financial Post",
+   "url": "https://financialpost.com/feature/canadian-miner-nigerian-venture-puts-community-at-risk-locals-say",
+   "snippet": "Later that year, Norinco, the parent company, was sanctioned by the U.S. government Office of Foreign Assets Control and subject to U.S. Treasury investment restrictions. In 2021 it was designated by the U.S. Department of Defence as a Chinese military company and “contributor to the Chinese defense industrial base.” Certain U.S. restrictions remain in place today on the company, which has faced r",
+   "published": "Fri, 16 Oct 2026 17:03:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Digital Financial Platform For Underbanked Markets—OPay Files For NYSE IPO - Benzinga",
+   "url": "https://www.benzinga.com/Opinion/26/10/62348993/digital-financial-platform-for-underbanked-markets-opay-files-for-nyse-ipo",
+   "snippet": "Despite its African story, OPay’s corporate DNA is undeniably Chinese. In addition to its chairman’s China roots, the company’s leadership also includes former executives from Ant Group, the financial affiliate of e-commerce giant Alibaba. Instead of exporting a cookie-cutter product, OPay adapted China’s super-app playbook, similar to Ant’s popular Alipay, to solve specific pain points in Nigeria",
+   "published": "Wed, 14 Oct 2026 11:29:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Cardoso targets deeper financial ties with Chinese banks – Businessday NG",
+   "url": "https://businessday.ng/business-economy/article/cardoso-targets-deeper-financial-ties-with-chinese-banks",
+   "snippet": "“We are basically interested in seeing how we can deepen collaboration between institutions, Chinese banks, Nigeria Central Bank, and others, and the payment system in particular,” he said.\n\nChina’s payment infrastructure offers potential lessons for Nigeria, Cardoso said, adding that the CBN was interested in peer reviews and exchanges between the two countries’ institutions. [...] The planned Ch",
+   "published": "Sun, 18 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria: Economic Community of West African States (ECOWAS) Commission President Receives Chinese Ambassador to Nigeria, Reaffirms Commitment to Stronger Cooperation | ZAWYA",
+   "url": "https://www.zawya.com/en/press-release/africa-press-releases/nigeria-economic-community-of-west-african-states-ecowas-commission-president-receives-chinese-ambassador-to-nigeria-reaffirms-commitment-to-stronger-cooperation-1634485",
+   "snippet": "To the fullest extent permitted by applicable law, this website, its parent company, its subsidiaries, its affiliates and the respective shareholders, directors, officers, employees, agents, advertisers, content providers and licensors will not be liable (jointly or severally) to you for any direct, indirect, consequential, special, incidental, punitive or exemplary damages, including without limi",
+   "published": "Tue, 13 Oct 2026 13:01:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Licensable video: Nigeria: Nigerian manufacturers demand cut in cost of production amid surging oil prices",
+   "url": "https://www.reutersconnect.com/item/nigeria-nigerian-manufacturers-demand-cut-in-cost-of-production-amid-surging-oil-prices/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExOTU2OTc",
+   "snippet": "Shotlist Lagos, Nigeria - Recent (CGTN - No access Chinese mainland) 1. Ship 2. Various of oil storage facilities, oil tankers 3.",
+   "published": "Thu, 15 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Signs a Mining Agreement with Nigeria",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/u-s-signs-a-mining-agreement-with-nigeria?amp=1",
+   "snippet": "Nigeria and the United States signed an agreement on the sidelines of the U.N. General Assembly on September 24 to expand American investment in Nigeria's",
+   "published": "Mon, 19 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US fights to counter China’s telecom push in Africa",
+   "url": "https://www.vanguardngr.com/2026/10/us-fights-to-counter-chinas-telecom-push-in-africa",
+   "snippet": "By John Rossomando. The U.S. faces an uphill battle in stemming the growth of Chinese telecommunications infrastructure across Africa, particularly in",
+   "published": "Wed, 14 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+   "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+   "snippet": "\"Increasingly, North Koreans are obtaining jobs with Western companies and then hiring freelancers to complete work assignments for a fraction of the total salary,\" the FBI said. \"ITWs subcontract employment-related remote labor to third-party freelancers, usually in Pakistan, India, Nigeria, or neighboring countries.\"\n\nCybersecurity [...] The Hacker News\n\nFBI Arrests Another ShinyHunters Suspect ",
+   "published": "Wed, 14 Oct 2026 16:34:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese companies are now fully mobilised",
+   "url": "https://www.facebook.com/TheWeekendPostBW/posts/chinese-companies-are-now-fully-mobilised-they-are-ready-some-of-them-from-my-co/1536742838479762",
+   "snippet": "The Ruyi Group, a leading Chinese company, $328 million project, which was signed between China and Nigeria earlier on Wednesday.",
+   "published": "Mon, 19 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "High interest rates threaten solar investment in Nigeria — P",
    "url": "https://punchng.com/high-interest-rates-threaten-solar-investment-in-nigeria-powerchina",
    "snippet": "“Chinese companies are coming in because they have access to cheaper funds. That is why Chinese companies and their products have flooded the Nigerian market and are leading. Money from China is cheaper, but high bank interest rates are keeping many companies from investing in solar in Nigeria,” she said. [...] Shi stated that Chinese firms are ready to invest in Nigeria, particularly in manufactu",
    "published": "Wed, 14 Oct 2026 23:10:58 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Why Many Chinese Factories Are Moving to Nigeria to Start ...",
-   "url": "https://www.youtube.com/watch?v=mtPptnUN38M",
-   "snippet": "Many Chinese factories are now moving to Nigeria to start manufacturing locally and producing products in Nigeria because Nigeria has more resources and",
-   "published": "Mon, 19 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China 🇨🇳 V's Nigeria 🇳🇬",
-   "url": "https://www.facebook.com/61555398114882/posts/china-vs-nigeria-/122292188342179937",
-   "snippet": "China firmly supports the Nigerian government in leading its people on the development path suited to its national conditions.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese Translator at Avatar New Energy Materials ...",
-   "url": "https://www.myjobmag.com/job/chinese-translator-avatar-new-energy-materials-company-limited-14",
-   "snippet": "Job Vacancies at Avatar New Energy Materials Company Limited for Chinese Translator in Nasarawa, Nigeria for job seekers and professionals in October, 2026.",
-   "published": "Fri, 16 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese Fintech Expands to Nigeria Amid China Crackdown",
-   "url": "https://www.linkedin.com/posts/doug-young-153a862b_this-is-just-the-latest-fintech-with-chinese-activity-7516300900538142720-Q_5C",
-   "snippet": "This is just the latest fintech with Chinese background setting up shop outside China and pursuing other developing markets (in this case Nigeria) as China",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "5 Chinese factory warehouses in Nigeria every business ...",
-   "url": "https://www.instagram.com/reel/DefDqtQNuzf",
-   "snippet": "✓ Wholesale prices ✓ Product verification ✓ Shipping to Nigeria ✓ Perfect for retailers & resellers Turn your China sourcing into a profitable business!",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "‘Ni Hao! China’ Promotes Nigeria–China Cultural Exchange - Voice of Nigeria",
-   "url": "https://von.gov.ng/ni-hao-china-promotes-nigeria-china-cultural-exchange",
-   "snippet": "Business and Tech\n Sports\n Languages\n  + Yoruba\n  + Igbo\n  + Hausa\n  + French\n  + Arabic\n  + Fulfulde\n  + Kiswahili\n  + Mandarin\n connect\n\nHomeNigeria‘Ni Hao! China’ Promotes Nigeria–China Cultural Exchange\n\nNigeria\n\n# ‘Ni Hao! China’ Promotes Nigeria–China Cultural Exchange\n\nShare\n\nFacebookXPinterestWhatsApp [...] , the Chinese Embassy in Nigeria and the Nigeria Union of Journalists (NUJ), FCT Co",
-   "published": "Fri, 16 Oct 2026 11:31:18 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Timmy Shi is Chinese. She has been in Nigeria for 12 ...",
-   "url": "https://www.instagram.com/reel/DejVGGsMT3b",
-   "snippet": "Timmy Shi is Chinese. She has been in Nigeria for 12 years, believes the values she creates in Nigeria can be felt more than her SOLAR ENERGY business can be",
-   "published": "",
    "source": "tavily"
   }
  ],
