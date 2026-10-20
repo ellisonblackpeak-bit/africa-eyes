@@ -1,0 +1,30 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "More about niger | Africanews",
+   "url": "https://www.africanews.com/tag/niger",
+   "snippet": "Niger: search underway for attackers who killed 11 soldiers at Niamey airport ... Niger junta says it suspended nearly 3,000 NGOs in 2025. 23/04 - 10:06. Two",
+   "published": "Wed, 14 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "More about niger | Africanews",
+   "url": "https://www.africanews.com/country/niger",
+   "snippet": "#### Niger\n\n## Benin president visits Niger, Burkina, following coup tensions\n\nBenin's new president rebuilding ties with Sahel states\n\n#### Niger\n\n## Benin's new president rebuilding ties with Sahel states\n\nNiger junta says it suspended nearly 3,000 NGOs in 2025\n\n#### Niger\n\n## Niger junta says it suspended nearly 3,000 NGOs in 2025\n\nNiger coup leader Bazoum still detained as presidential term en",
+   "published": "Thu, 15 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
+ "_tag": "ne_extra",
+ "_query": "Niger Niamey latest news today junta",
+ "_domains": [
+  "reuters.com",
+  "africanews.com",
+  "theafricareport.com",
+  "allafrica.com",
+  "bbc.com",
+  "ecofinagency.com"
+ ],
+ "_days": 3
+}

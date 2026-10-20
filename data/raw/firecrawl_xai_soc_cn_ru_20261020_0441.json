@@ -1,0 +1,115 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/jackprandelli/status/2111832757043102199",
+     "title": "China has bought about €290bn of Russian fossil fuels since the EU bans.",
+     "description": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "snippet": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jack Prandelli",
+     "handle": "@jackprandelli"
+    },
+    {
+     "url": "https://x.com/HariSud2/status/2112156077663961378",
+     "title": "Senators Urge Trump to Reverse Diesel Deal With Putin https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html?s",
+     "description": "Senators Urge Trump to Reverse Diesel Deal With Putin https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html?smid=tw-share \n\nLindsey Graham Act of 2026: Trump Defangs His Own Law\n\n(Enthusiasm to kill Russian economy by blocking its oil sale proved futile. The infamous Lindsey Graham Act of 100% tariff on China & India for buying Russian oil has been suspended. With this change America will import Russian diesel and may spell end of Ukraine war.)\n\nBarely a month after the Lindsey Graham Act of 2026 gained bipartisan support in Congress, President Donald Trump has effectively defanged it. The law threatened 100% tariffs on goods imported from countries such as India and China if they continued buying Russian oil. Trump’s executive order has now put those tariff provisions on hold.\nIf this holds, it is welcome news for the global economy.\n\nThe law remains on the books, and repealing it could be difficult. But implementation rests with the Trump administration, which has chosen not to enforce its most damaging provisions—for now. Trump signed the legislation after both chambers of Congress approved it, only to retreat from its central objective now.\nWashington is becoming a theatre of political contradictions. Lindsey Graham spent two years pushing for tougher measures against Russia, arguing that cutting Moscow’s oil revenue was essential to ending the Ukraine war. Yet his proposed 100% tariffs on India and China risked disrupting global trade, raising consumer prices and wrecking decades of economic integration. China would have borne the greatest impact, potentially derailing efforts to stabilize U.S.–China trade. India, too, would have suffered unnecessarily.\n\nGraham may now be regretting his unwavering support for Trump’s MAGA agenda. His sanctions strategy ignored a basic economic reality: punishing major oil buyers does not automatically end a war. It can instead destabilize markets and hurt the countries imposing the punishment.\n\nThe oil crisis has made that reality impossible to ignore. With the Strait of Hormuz closed and millions of barrels of Russian oil potentially threatened, the world cannot afford another major disruption to supply. American gasoline prices have reportedly surged, while diesel shortages have become serious enough for Washington to consider importing Russian diesel.\n\nThe contradiction is striking. Trump has reportedly urged Ukrainian President Volodymyr Zelensky to stop attacking Russian refineries, which supply much of Russia’s diesel. Zelensky’s continued strikes risk further escalation with Moscow, even as fuel shortages threaten the U.S. economy.\n\nThe political consequences could be severe. Rising gasoline and diesel prices threaten Republican prospects in the midterm elections, turning foreign policy into a domestic liability. Economic reality, electoral calculations and the danger of a trade war have apparently outweighed Graham’s punitive ambitions.\n\nRussia, China, India and the wider global economy can breathe a little easier. Supporters of Graham’s legislation may protest Trump’s willingness to resume Russian fuel imports, but the administration faces a choice between ideological posturing and practical necessity.\nTrump has chosen necessity—for now. The episode exposes the weakness of a policy that threatens sweeping economic punishment without adequately considering its consequences. \n\nSanctions may be politically attractive, but when they endanger energy supplies, trade and voters’ wallets, even their strongest advocates may have to retreat.",
+     "snippet": "Senators Urge Trump to Reverse Diesel Deal With Putin https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html?smid=tw-share \n\nLindsey Graham Act of 2026: Trump Defangs His Own Law\n\n(Enthusiasm to kill Russian economy by blocking its oil sale proved futile. The infamous Lindsey Graham Act of 100% tariff on China & India for buying Russian oil has been suspended. With this change America will import Russian diesel and may spell end of Ukraine war.)\n\nBarely a month after the Lindsey Graham Act of 2026 gained bipartisan support in Congress, President Donald Trump has effectively defanged it. The law threatened 100% tariffs on goods imported from countries such as India and China if they continued buying Russian oil. Trump’s executive order has now put those tariff provisions on hold.\nIf this holds, it is welcome news for the global economy.\n\nThe law remains on the books, and repealing it could be difficult. But implementation rests with the Trump administration, which has chosen not to enforce its most damaging provisions—for now. Trump signed the legislation after both chambers of Congress approved it, only to retreat from its central objective now.\nWashington is becoming a theatre of political contradictions. Lindsey Graham spent two years pushing for tougher measures against Russia, arguing that cutting Moscow’s oil revenue was essential to ending the Ukraine war. Yet his proposed 100% tariffs on India and China risked disrupting global trade, raising consumer prices and wrecking decades of economic integration. China would have borne the greatest impact, potentially derailing efforts to stabilize U.S.–China trade. India, too, would have suffered unnecessarily.\n\nGraham may now be regretting his unwavering support for Trump’s MAGA agenda. His sanctions strategy ignored a basic economic reality: punishing major oil buyers does not automatically end a war. It can instead destabilize markets and hurt the countries imposing the punishment.\n\nThe oil crisis has made that reality impossible to ignore. With the Strait of Hormuz closed and millions of barrels of Russian oil potentially threatened, the world cannot afford another major disruption to supply. American gasoline prices have reportedly surged, while diesel shortages have become serious enough for Washington to consider importing Russian diesel.\n\nThe contradiction is striking. Trump has reportedly urged Ukrainian President Volodymyr Zelensky to stop attacking Russian refineries, which supply much of Russia’s diesel. Zelensky’s continued strikes risk further escalation with Moscow, even as fuel shortages threaten the U.S. economy.\n\nThe political consequences could be severe. Rising gasoline and diesel prices threaten Republican prospects in the midterm elections, turning foreign policy into a domestic liability. Economic reality, electoral calculations and the danger of a trade war have apparently outweighed Graham’s punitive ambitions.\n\nRussia, China, India and the wider global economy can breathe a little easier. Supporters of Graham’s legislation may protest Trump’s willingness to resume Russian fuel imports, but the administration faces a choice between ideological posturing and practical necessity.\nTrump has chosen necessity—for now. The episode exposes the weakness of a policy that threatens sweeping economic punishment without adequately considering its consequences. \n\nSanctions may be politically attractive, but when they endanger energy supplies, trade and voters’ wallets, even their strongest advocates may have to retreat.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Hari Sud",
+     "handle": "@HariSud2"
+    },
+    {
+     "url": "https://x.com/grok/status/2111494099039649938",
+     "title": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026.",
+     "description": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026. China leads cumulative fossil fuel imports from Russia since Feb 2022 at ~356 bn EUR, followed by the EU at 238 bn, India at 190 bn and Türkiye at 138 bn.",
+     "snippet": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026. China leads cumulative fossil fuel imports from Russia since Feb 2022 at ~356 bn EUR, followed by the EU at 238 bn, India at 190 bn and Türkiye at 138 bn.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112322847150424158",
+     "title": "Per CREA for September 2026, the EU bought EUR 1.7 bn in Russian fossil fuels (third-largest after China and India), mainly pipeline gas (EU",
+     "description": "Per CREA for September 2026, the EU bought EUR 1.7 bn in Russian fossil fuels (third-largest after China and India), mainly pipeline gas (EUR 817 mn) and LNG (EUR 615 mn), plus EUR 290 mn crude via Druzhba. \n\nTrump announced a deal for Russia to supply over 300k tons of diesel immediately, plus 500k in November, 1 mn thereafter, and potentially 3 mn more (up to ~4.8 mn tons total), with a temporary sanctions waiver until April 2027.",
+     "snippet": "Per CREA for September 2026, the EU bought EUR 1.7 bn in Russian fossil fuels (third-largest after China and India), mainly pipeline gas (EUR 817 mn) and LNG (EUR 615 mn), plus EUR 290 mn crude via Druzhba. \n\nTrump announced a deal for Russia to supply over 300k tons of diesel immediately, plus 500k in November, 1 mn thereafter, and potentially 3 mn more (up to ~4.8 mn tons total), with a temporary sanctions waiver until April 2027.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/myopiniondog/status/2111720307064963466",
+     "title": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels.",
+     "description": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "snippet": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eudaemon",
+     "handle": "@myopiniondog"
+    },
+    {
+     "url": "https://x.com/MayaTBasil/status/2111956460145979830",
+     "title": "September 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the",
+     "description": "September 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
+     "snippet": "September 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Maya Tallie",
+     "handle": "@MayaTBasil"
+    },
+    {
+     "url": "https://x.com/AKaszon/status/2112074734963655028",
+     "title": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China.",
+     "description": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "snippet": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andre Viktor Baron Thyssen Bornemissza von Kaszon",
+     "handle": "@AKaszon"
+    },
+    {
+     "url": "https://x.com/igortetiuev/status/2112115168431747080",
+     "title": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supp",
+     "description": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supply China.",
+     "snippet": "Uzbekistan also has contract to supply China they can not fulfill anymore so they started buying Russian gas both for themselves and to supply China.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Igor Tetiuev",
+     "handle": "@igortetiuev"
+    },
+    {
+     "url": "https://x.com/Mcb18125448/status/2112152302740025509",
+     "title": "this will convince PRC to better supply Putin with weapons and might move the needle on gas pipeline deal.",
+     "description": "this will convince PRC to better supply Putin with weapons and might move the needle on gas pipeline deal. if the US is almost openly backing Russia, why not China. It may also lead to increasing PRC support for Iran.",
+     "snippet": "this will convince PRC to better supply Putin with weapons and might move the needle on gas pipeline deal. if the US is almost openly backing Russia, why not China. It may also lead to increasing PRC support for Iran.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr China Bore (PhD)",
+     "handle": "@Mcb18125448"
+    },
+    {
+     "url": "https://x.com/Masi_is_back/status/2111972031449166330",
+     "title": "Xi has already been fucking Putin all summer.",
+     "description": "Xi has already been fucking Putin all summer. Buying oil at discount prices and selling them diesel at market prices.  Putin also gave Xi water and forestry rights for nothing in Eastern Siberia",
+     "snippet": "Xi has already been fucking Putin all summer. Buying oil at discount prices and selling them diesel at market prices.  Putin also gave Xi water and forestry rights for nothing in Eastern Siberia",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Weston (Wes) Capowski",
+     "handle": "@Masi_is_back"
+    }
+   ]
+  }
+ ]
+}

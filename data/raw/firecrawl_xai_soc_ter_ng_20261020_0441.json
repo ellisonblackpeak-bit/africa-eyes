@@ -1,0 +1,115 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Sokoto_Affairs/status/2111489696610005403",
+     "title": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO Troops of Operation Fansan Yamma killed two suspected Lakurawa terrorists",
+     "description": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO\n\nTroops of Operation Fansan Yamma killed two suspected Lakurawa terrorists during clearance operations at Waria Forest and Sarma Village in Sokoto on October 15. The operation also yielded four AK-47 rifles, eight motorcycles, ammunition, four magazines and communication equipment.",
+     "snippet": "TROOPS KILL 2 LAKURAWA FIGHTERS, RECOVER 4 AK-47 RIFLES IN SOKOTO\n\nTroops of Operation Fansan Yamma killed two suspected Lakurawa terrorists during clearance operations at Waria Forest and Sarma Village in Sokoto on October 15. The operation also yielded four AK-47 rifles, eight motorcycles, ammunition, four magazines and communication equipment.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sokoto State Affairs",
+     "handle": "@Sokoto_Affairs"
+    },
+    {
+     "url": "https://x.com/Pressman2040/status/2111451316857844002",
+     "title": "🇳🇬🪖 OPERATIONAL BRIEF: OP FANSAN YAMMA EXTRACTS 27 KIDNAP VICTIMS; SOKOTO FOREST ENCLAVES CLEARED Joint Task Forces are recording rapid tact",
+     "description": "🇳🇬🪖 OPERATIONAL BRIEF: OP FANSAN YAMMA EXTRACTS 27 KIDNAP VICTIMS; SOKOTO FOREST ENCLAVES CLEARED\n\nJoint Task Forces are recording rapid tactical victories across the North-West and South-South. And the message is clear: We are coming for the criminals. We are bringing our people home.\n\nKEY OPERATIONAL VICTORIES:\n\n🛑 KATSINA RAPID RESCUE (OP FANSAN YAMMA): Troops responded swiftly to a distress call in Sabuwa LGA, Katsina State. They engaged fleeing hostiles in a gunfight and safely rescued 27 kidnapped citizens including a 6-month-old infant. Twenty-seven lives. One baby. One rescue. One reason to keep fighting.\n\n🛑 SOKOTO FOREST CLEARANCE: Sector 2 clearance teams engaged Lakurawa/terrorist elements in Waria Forest, Sokoto. Combatants neutralized. Recovered: 4 AK-47 rifles and 8 operational motorcycles.\n\n🛑 MARITIME ANTI-CRUDE THEFT: Nigerian Navy riverine details in Oteghele, Delta State, uncovered and confiscated 75,000 litres of stolen crude oil. Another blow to economic sabotage.\n\nRelentless pursuit guarantees no criminal enclave remains safe.\n\nThis is what victory looks like. This is the Nigerian Army of today.\n\n🙏🇳🇬God bless our gallant troops. God bless Nigeria.",
+     "snippet": "🇳🇬🪖 OPERATIONAL BRIEF: OP FANSAN YAMMA EXTRACTS 27 KIDNAP VICTIMS; SOKOTO FOREST ENCLAVES CLEARED\n\nJoint Task Forces are recording rapid tactical victories across the North-West and South-South. And the message is clear: We are coming for the criminals. We are bringing our people home.\n\nKEY OPERATIONAL VICTORIES:\n\n🛑 KATSINA RAPID RESCUE (OP FANSAN YAMMA): Troops responded swiftly to a distress call in Sabuwa LGA, Katsina State. They engaged fleeing hostiles in a gunfight and safely rescued 27 kidnapped citizens including a 6-month-old infant. Twenty-seven lives. One baby. One rescue. One reason to keep fighting.\n\n🛑 SOKOTO FOREST CLEARANCE: Sector 2 clearance teams engaged Lakurawa/terrorist elements in Waria Forest, Sokoto. Combatants neutralized. Recovered: 4 AK-47 rifles and 8 operational motorcycles.\n\n🛑 MARITIME ANTI-CRUDE THEFT: Nigerian Navy riverine details in Oteghele, Delta State, uncovered and confiscated 75,000 litres of stolen crude oil. Another blow to economic sabotage.\n\nRelentless pursuit guarantees no criminal enclave remains safe.\n\nThis is what victory looks like. This is the Nigerian Army of today.\n\n🙏🇳🇬God bless our gallant troops. God bless Nigeria.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "PATRIOTIC SOJA ($TSIR-MUNCHAN)",
+     "handle": "@Pressman2040"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112262747945877995",
+     "title": "Nigerian Troops Working with Vigilantes Rescued a 40-Year-Old Kidnapped Resident after a Firefight with #Bandits at Rambo Village, Danko-Was",
+     "description": "Nigerian Troops Working with Vigilantes Rescued a 40-Year-Old Kidnapped Resident after a Firefight with #Bandits at Rambo Village, Danko-Wasagu LGA, #Kebbi State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/nigerian-troops-working-with-vigilantes-trac/",
+     "snippet": "Nigerian Troops Working with Vigilantes Rescued a 40-Year-Old Kidnapped Resident after a Firefight with #Bandits at Rambo Village, Danko-Wasagu LGA, #Kebbi State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/nigerian-troops-working-with-vigilantes-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/NgrImpact/status/2111853693049950671",
+     "title": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives Bandits on Saturday evening",
+     "description": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "snippet": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Impact_Ngr",
+     "handle": "@NgrImpact"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112314103784259771",
+     "title": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State.",
+     "description": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "snippet": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/hushiraf/status/2111430483217170530",
+     "title": "Last night, bandits attacked Kagara community in Talata Mafara LGA, Zamfara State, injuring one person & abducting at least 12 residents.",
+     "description": "Last night, bandits attacked Kagara community in Talata Mafara LGA, Zamfara State, injuring one person & abducting at least 12 residents. Another night of terror for residents who deserve to live in peace. \nHow many more people must be injured or abducted before lasting solutions",
+     "snippet": "Last night, bandits attacked Kagara community in Talata Mafara LGA, Zamfara State, injuring one person & abducting at least 12 residents. Another night of terror for residents who deserve to live in peace. \nHow many more people must be injured or abducted before lasting solutions",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Chief M.O.Shittu #endbadgovtinNigeria👀#EndSARS 👀",
+     "handle": "@hushiraf"
+    },
+    {
+     "url": "https://x.com/westernpost_ng/status/2111797460196610489",
+     "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-",
+     "description": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Western Post Nigeria",
+     "handle": "@westernpost_ng"
+    },
+    {
+     "url": "https://x.com/galaxytv/status/2111376915944653167",
+     "title": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle",
+     "description": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle terrorism and restore peace in the region.\n\nhttps://www.galaxytvonline.com/news/local-news/troops-neutralise-lakurawa-terrorists-in-sokoto-forest",
+     "snippet": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle terrorism and restore peace in the region.\n\nhttps://www.galaxytvonline.com/news/local-news/troops-neutralise-lakurawa-terrorists-in-sokoto-forest",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Galaxy Television",
+     "handle": "@galaxytv"
+    },
+    {
+     "url": "https://x.com/openwatchng/status/2111865374270513479",
+     "title": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.",
+     "description": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "snippet": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "OpenWatch",
+     "handle": "@openwatchng"
+    },
+    {
+     "url": "https://x.com/beegeaglesblog/status/2112273976093544460",
+     "title": "Northwest Theatre In-Depth Report & Analysis https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the",
+     "description": "Northwest Theatre \n\nIn-Depth Report & Analysis \n\nhttps://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/",
+     "snippet": "Northwest Theatre \n\nIn-Depth Report & Analysis \n\nhttps://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BEEGEAGLES BLOG",
+     "handle": "@beegeaglesblog"
+    }
+   ]
+  }
+ ]
+}

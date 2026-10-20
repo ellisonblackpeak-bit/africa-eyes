@@ -1,0 +1,115 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AlerteSahel/status/2112266077195407440",
+     "title": "L'horreur à Menaka au Mali: Plus de 70 jeunes Touaregs Idaksahak massacrés hier par l'EIGS, allié de Bamako Plus de 70 jeunes Touaregs de la",
+     "description": "L'horreur à Menaka au Mali: Plus de 70 jeunes Touaregs Idaksahak massacrés hier par l'EIGS, allié de Bamako\n\nPlus de 70 jeunes Touaregs de la communauté Idaksahak ont été froidement assassinés hier Dimanche 18 Octobre par le groupe État Islamique en représailles aux attaques de la milice MSA sponsorisée par la junte d'Assimi Goita à Inarabane.\n\nSelon le confrère Sahel Alerte, les femmes et les enfants ont été épargnées dans ce massacre bien que des centaines d'habitations ont été incendiées et de nombreuses têtes de bétail volées.\n\nNotons que le MSA et l'EIGS sont tous les deux des alliés du régime Nazi Russafricain de Bamako et bénéficient du soutien direct  du colon Russe et de ses satrapes apatrides de la junte Russafricaine.",
+     "snippet": "L'horreur à Menaka au Mali: Plus de 70 jeunes Touaregs Idaksahak massacrés hier par l'EIGS, allié de Bamako\n\nPlus de 70 jeunes Touaregs de la communauté Idaksahak ont été froidement assassinés hier Dimanche 18 Octobre par le groupe État Islamique en représailles aux attaques de la milice MSA sponsorisée par la junte d'Assimi Goita à Inarabane.\n\nSelon le confrère Sahel Alerte, les femmes et les enfants ont été épargnées dans ce massacre bien que des centaines d'habitations ont été incendiées et de nombreuses têtes de bétail volées.\n\nNotons que le MSA et l'EIGS sont tous les deux des alliés du régime Nazi Russafricain de Bamako et bénéficient du soutien direct  du colon Russe et de ses satrapes apatrides de la junte Russafricaine.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2112290348856717650",
+     "title": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA.",
+     "description": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA. Les deux groupes armés sont des alliés de la junte Russafricaine de Bamako.",
+     "snippet": "Entre 150 et 200 jeunes Touaregs Idaksahak auraient été massacrés par l'EIGS ces deux derniers jours dans les combats contre le MSA. Les deux groupes armés sont des alliés de la junte Russafricaine de Bamako.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/attaye_ag/status/2112328548958576923",
+     "title": "Plusieurs sources concordantes, rapportent un massacre de plusieurs dizaines de civils par l’#EIGS ces dernières 24 heures, dans des village",
+     "description": "Plusieurs sources concordantes, rapportent un massacre de plusieurs dizaines de civils par l’#EIGS ces dernières 24 heures, dans des villages situés non loin de la ville de #Menaka. Ces graves atteintes contre des personnes innocentes et désarmées est injustifiable. \n\nL’instrumentalisation communautaire dans les prises de position ainsi que l’atteinte communautariste en réaction, sont inacceptables. \n\nSincères condoléances aux familles endeuillées par cette tragédie et toute la solidarité aux victimes. Ces crimes ne doivent pas restés impunis et toutes les responsables morales et judiciaires doivent être situées.",
+     "snippet": "Plusieurs sources concordantes, rapportent un massacre de plusieurs dizaines de civils par l’#EIGS ces dernières 24 heures, dans des villages situés non loin de la ville de #Menaka. Ces graves atteintes contre des personnes innocentes et désarmées est injustifiable. \n\nL’instrumentalisation communautaire dans les prises de position ainsi que l’atteinte communautariste en réaction, sont inacceptables. \n\nSincères condoléances aux familles endeuillées par cette tragédie et toute la solidarité aux victimes. Ces crimes ne doivent pas restés impunis et toutes les responsables morales et judiciaires doivent être situées.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Attaye Ag Mohamed",
+     "handle": "@attaye_ag"
+    },
+    {
+     "url": "https://x.com/Inkinane1/status/2112240201267298775",
+     "title": "Depuis deux jours, la communauté Touareg Daoussahak subit un massacre perpétré par des milices affiliées à l'EIGS.",
+     "description": "Depuis deux jours, la communauté Touareg Daoussahak subit un massacre perpétré par des milices affiliées à l'EIGS. Utilisée et martyrisée au profit des putschistes de Bamako et d'intérêts individuels, cette tragédie doit cesser. \n\n#Azawad #Ménaka #mali #Russie",
+     "snippet": "Depuis deux jours, la communauté Touareg Daoussahak subit un massacre perpétré par des milices affiliées à l'EIGS. Utilisée et martyrisée au profit des putschistes de Bamako et d'intérêts individuels, cette tragédie doit cesser. \n\n#Azawad #Ménaka #mali #Russie",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "𝗜𝗻𝗸𝗶𝗻𝗮𝗻𝗲",
+     "handle": "@Inkinane1"
+    },
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2112224618496876589",
+     "title": "Pendant que l'État islamique #EIGS #EI combattait Al-Qaïda #JNIM ..",
+     "description": "Pendant que l'État islamique #EIGS #EI combattait Al-Qaïda #JNIM .. armée malienne appuyée par milices Wagner et MSA a attaqué et incendié un village contrôlé par l'État islamique Aujourd'hui l'État islamique a riposté violemment à #Ménaka tuant une 70 de soldats et de milicien",
+     "snippet": "Pendant que l'État islamique #EIGS #EI combattait Al-Qaïda #JNIM .. armée malienne appuyée par milices Wagner et MSA a attaqué et incendié un village contrôlé par l'État islamique Aujourd'hui l'État islamique a riposté violemment à #Ménaka tuant une 70 de soldats et de milicien",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    },
+    {
+     "url": "https://x.com/CapIvoire_Info/status/2112204629056569783",
+     "title": "🇲🇱 Ménaka : la trêve locale de 2023 vacille Le 18 octobre, des hommes affiliés à l’État islamique ont attaqué des campements Idaksahak près",
+     "description": "🇲🇱 Ménaka : la trêve locale de 2023 vacille\n\nLe 18 octobre, des hommes affiliés à l’État islamique ont attaqué des campements Idaksahak près de Ménaka. Plusieurs civils auraient été tués.\n\nCette semaine, selon des sources locales, la milice MSA a incendié la maison de l’émir local de l’EI. Informations non confirmées de source indépendante.\n\n💬 Comment préserver les accords locaux qui protègent les civils ?\n\n#Mali #Ménaka #Sahel #Sécurité",
+     "snippet": "🇲🇱 Ménaka : la trêve locale de 2023 vacille\n\nLe 18 octobre, des hommes affiliés à l’État islamique ont attaqué des campements Idaksahak près de Ménaka. Plusieurs civils auraient été tués.\n\nCette semaine, selon des sources locales, la milice MSA a incendié la maison de l’émir local de l’EI. Informations non confirmées de source indépendante.\n\n💬 Comment préserver les accords locaux qui protègent les civils ?\n\n#Mali #Ménaka #Sahel #Sécurité",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Cap’Ivoire Info",
+     "handle": "@CapIvoire_Info"
+    },
+    {
+     "url": "https://x.com/AidonsM/status/2112271810406531205",
+     "title": "Allah accorde sa misericorde à ces pauvres concitoyens.",
+     "description": "Allah accorde sa misericorde à ces pauvres concitoyens.\nAllah maudisse ces barbares. \n\n#MENAKA massacre de 48 civils, dimanche 18/10/2026, à Tagadayat par des éléments armés de #Daesh #EIGS arrivés à bord 2 plusieurs motos.\n😭😭😭\nhttps://www.facebook.com/share/1DyXdZa939/",
+     "snippet": "Allah accorde sa misericorde à ces pauvres concitoyens.\nAllah maudisse ces barbares. \n\n#MENAKA massacre de 48 civils, dimanche 18/10/2026, à Tagadayat par des éléments armés de #Daesh #EIGS arrivés à bord 2 plusieurs motos.\n😭😭😭\nhttps://www.facebook.com/share/1DyXdZa939/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Fin a la violence au 🇲🇱",
+     "handle": "@AidonsM"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112169892178800978",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quart",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quarter of Sikasso, in the #Sikasso region.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn the night of 18–19 October, #JNIM claimed complete control of a Malian army headquarters in the Mamassoni quarter of Sikasso, in the #Sikasso region.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/SaurabhAshutos3/status/2112322593315541139",
+     "title": "Gunmen kill at least 40 civilians in Mali: security and community sources The assailants reportedly rode in on motorcycles, targeting camps",
+     "description": "Gunmen kill at least 40 civilians in Mali: security and community sources\nThe assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community",
+     "snippet": "Gunmen kill at least 40 civilians in Mali: security and community sources\nThe assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saurabh Yadav",
+     "handle": "@SaurabhAshutos3"
+    }
+   ]
+  }
+ ]
+}

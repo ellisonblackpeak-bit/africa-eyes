@@ -1,0 +1,115 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Neuro24de/status/2111836680864800993",
+     "title": "Like with Russia, Trump will fail with Myanmar.",
+     "description": "Like with Russia, Trump will fail with Myanmar. China is already there and will be the main trading partner in the next decade. What ever Trump wants to extract from Myanmar, will need Chinas approval. \nRelations between Myanmar and China are close and shaped by strategic, economic, and geopolitical self-interest.  China is Myanmar’s most important trading partner, primary source of imports, and largest investor. Bilateral trade volume stood at approximately $19.4 billion in 2025 (a 19.1% increase from the previous year).  As part of China’s “New Silk Road” (Belt and Road Initiative), Beijing is expanding the economic corridor to gain direct land and infrastructure access to the Indian Ocean via Myanmar. China exports vehicles and electromechanical equipment to Myanmar and, in return, imports mineral resources (such as rare earths and mining products) as well as agricultural goods",
+     "snippet": "Like with Russia, Trump will fail with Myanmar. China is already there and will be the main trading partner in the next decade. What ever Trump wants to extract from Myanmar, will need Chinas approval. \nRelations between Myanmar and China are close and shaped by strategic, economic, and geopolitical self-interest.  China is Myanmar’s most important trading partner, primary source of imports, and largest investor. Bilateral trade volume stood at approximately $19.4 billion in 2025 (a 19.1% increase from the previous year).  As part of China’s “New Silk Road” (Belt and Road Initiative), Beijing is expanding the economic corridor to gain direct land and infrastructure access to the Indian Ocean via Myanmar. China exports vehicles and electromechanical equipment to Myanmar and, in return, imports mineral resources (such as rare earths and mining products) as well as agricultural goods",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Karl C. Mayer",
+     "handle": "@Neuro24de"
+    },
+    {
+     "url": "https://x.com/Annette95790670/status/2111805116089356758",
+     "title": "미국이 미얀마 군부에 손을 내미는 진짜 이유 (지정학적 배경) 중국의 중희토류 약점 타격: 중국은 전 세계 중희토류(Terbium, Dysprosium 등 고성능 영구자석 및 방산 핵심 소재) 정제 시장의 90% 이상을 점유하지만 정작 원광의 50~7",
+     "description": "미국이 미얀마 군부에 손을 내미는 진짜 이유 (지정학적 배경)\n중국의 중희토류 약점 타격: 중국은 전 세계 중희토류(Terbium, Dysprosium 등 고성능 영구자석 및 방산 핵심 소재) 정제 시장의 90% 이상을 점유하지만\n\n정작 원광의 50~75%는 미얀마 북부(카친주 등)에서",
+     "snippet": "미국이 미얀마 군부에 손을 내미는 진짜 이유 (지정학적 배경)\n중국의 중희토류 약점 타격: 중국은 전 세계 중희토류(Terbium, Dysprosium 등 고성능 영구자석 및 방산 핵심 소재) 정제 시장의 90% 이상을 점유하지만\n\n정작 원광의 50~75%는 미얀마 북부(카친주 등)에서",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "모건사랑｜ 선수33｜投機之神 ｜전략적으로 사고하고 행동하는 INTJ인지전·지배구조 전략가",
+     "handle": "@Annette95790670"
+    },
+    {
+     "url": "https://x.com/Annette95790670/status/2111805604847321113",
+     "title": "광산의 실제 통제권은 군부가 아닌 반군(KIA)에 있음 가장 풍부한 중희토류 광산이 몰려 있는 카친주(Kachin State) 칩위·팡와 지역은 2024년 10월 이후 카친독립군(KIA, 반군)이 완전히 점령[미국이 그럼 카친 반군을 조지겠군 그걸 하",
+     "description": "광산의 실제 통제권은 군부가 아닌 반군(KIA)에 있음\n\n가장 풍부한 중희토류 광산이 몰려 있는 카친주(Kachin State) 칩위·팡와 지역은 2024년 10월 이후 카친독립군(KIA, 반군)이 완전히 점령[미국이 그럼 카친 반군을 조지겠군 그걸 하게 정부군에 지원 해주겠다 소리 네...그거 공작 시작",
+     "snippet": "광산의 실제 통제권은 군부가 아닌 반군(KIA)에 있음\n\n가장 풍부한 중희토류 광산이 몰려 있는 카친주(Kachin State) 칩위·팡와 지역은 2024년 10월 이후 카친독립군(KIA, 반군)이 완전히 점령[미국이 그럼 카친 반군을 조지겠군 그걸 하게 정부군에 지원 해주겠다 소리 네...그거 공작 시작",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "모건사랑｜ 선수33｜投機之神 ｜전략적으로 사고하고 행동하는 INTJ인지전·지배구조 전략가",
+     "handle": "@Annette95790670"
+    },
+    {
+     "url": "https://x.com/Gokul_Sahni/status/2111835921582846044",
+     "title": "“Myanmar possesses important deposits of heavy rare earths, and the majority of this production feeds Chinese supply chains.",
+     "description": "“Myanmar possesses important deposits of heavy rare earths, and the majority of this production feeds Chinese supply chains. As Washington seeks to reduce its dependence on China, Myanmar’s mineral resources have acquired considerable strategic value.”",
+     "snippet": "“Myanmar possesses important deposits of heavy rare earths, and the majority of this production feeds Chinese supply chains. As Washington seeks to reduce its dependence on China, Myanmar’s mineral resources have acquired considerable strategic value.”",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gokul Sahni",
+     "handle": "@Gokul_Sahni"
+    },
+    {
+     "url": "https://x.com/theoprinse/status/2112238775803715860",
+     "title": ". Chinese Jet-Fuel Refinery to Bypass Sanctions, Myanmar’s Blood Timber Flows to China, and More Myanmar’s military regime has restarted the",
+     "description": ". Chinese Jet-Fuel Refinery to Bypass Sanctions, Myanmar’s Blood Timber Flows to China, and More \nMyanmar’s military regime has restarted the Thanlyin No.1 Oil Refinery near Yangon, allowing it to bypass jet fuel sanctions and sustain its deadly air raids on the civilian population. \nAccording to Nikkei Asia, Phase 1 is designed to produce 150,000 metric tons of jet fuel annually, roughly equal to Myanmar’s import volume last year.",
+     "snippet": ". Chinese Jet-Fuel Refinery to Bypass Sanctions, Myanmar’s Blood Timber Flows to China, and More \nMyanmar’s military regime has restarted the Thanlyin No.1 Oil Refinery near Yangon, allowing it to bypass jet fuel sanctions and sustain its deadly air raids on the civilian population. \nAccording to Nikkei Asia, Phase 1 is designed to produce 150,000 metric tons of jet fuel annually, roughly equal to Myanmar’s import volume last year.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Theo Prinse",
+     "handle": "@theoprinse"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2111795767698657419",
+     "title": "China is suffocating Myanmar from every angle.",
+     "description": "China is suffocating Myanmar from every angle. While Chinese-backed firms quietly rebuild oil refineries to keep the military junta's warplanes fueled for airstrikes, China is also vacuuming up nearly 80% of Myanmar's \"blood timber\" to feed its industries",
+     "snippet": "China is suffocating Myanmar from every angle. While Chinese-backed firms quietly rebuild oil refineries to keep the military junta's warplanes fueled for airstrikes, China is also vacuuming up nearly 80% of Myanmar's \"blood timber\" to feed its industries",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/sheehanj920/status/2112203334627246122",
+     "title": "\"Contested Rare Earth Frontiers in the Myanmar–China Borderlands: Extraction, Conflict and Uneven Development\": https://www.socace-research.",
+     "description": "\"Contested Rare Earth Frontiers in the Myanmar–China Borderlands: Extraction, Conflict and Uneven Development\": https://www.socace-research.org.uk/publications/rp48-rare-earth-china-myanmar\n\nan excellent new resource via @SOCACE_Research from Patrick Meehan, Dan Seng Lawn, @XuPeng72881167, & Jonathan Goodhand.",
+     "snippet": "\"Contested Rare Earth Frontiers in the Myanmar–China Borderlands: Extraction, Conflict and Uneven Development\": https://www.socace-research.org.uk/publications/rp48-rare-earth-china-myanmar\n\nan excellent new resource via @SOCACE_Research from Patrick Meehan, Dan Seng Lawn, @XuPeng72881167, & Jonathan Goodhand.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Josh Sheehan",
+     "handle": "@sheehanj920"
+    },
+    {
+     "url": "https://x.com/bnionline1/status/2112201690216800298",
+     "title": "Green energy's dirty secret: Rare earth extraction in Myanmar-China borderlands powers tech but fuels toxic harm and conflict.",
+     "description": "Green energy's dirty secret: Rare earth extraction in Myanmar-China borderlands powers tech but fuels toxic harm and conflict. The green transition's dark side. #RareEarths  https://www.bnionline.net/en/news/contested-rare-earth-frontiers-myanmar-china-borderlands-extraction-conflict-and-uneven",
+     "snippet": "Green energy's dirty secret: Rare earth extraction in Myanmar-China borderlands powers tech but fuels toxic harm and conflict. The green transition's dark side. #RareEarths  https://www.bnionline.net/en/news/contested-rare-earth-frontiers-myanmar-china-borderlands-extraction-conflict-and-uneven",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Burma News International",
+     "handle": "@bnionline1"
+    },
+    {
+     "url": "https://x.com/WW3Watchtower/status/2112297152034615313",
+     "title": "Myanmar’s civil war is disrupting rare earth element mining, a critical supply node for China’s industrial sector.",
+     "description": "Myanmar’s civil war is disrupting rare earth element mining, a critical supply node for China’s industrial sector. Beijing must adapt procurement to handle volatility in a conflict zone where shifting control threatens the continuity of these essential resource imports. #Myanmar",
+     "snippet": "Myanmar’s civil war is disrupting rare earth element mining, a critical supply node for China’s industrial sector. Beijing must adapt procurement to handle volatility in a conflict zone where shifting control threatens the continuity of these essential resource imports. #Myanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WW3 Watchtower",
+     "handle": "@WW3Watchtower"
+    },
+    {
+     "url": "https://x.com/WW3Watchtower/status/2111564891962175634",
+     "title": "The Trump administration held two rounds of talks with Myanmar’s military to secure a detained American’s release and curb fraud.",
+     "description": "The Trump administration held two rounds of talks with Myanmar’s military to secure a detained American’s release and curb fraud. Washington seeks access to rare earth deposits, which hit 52.8% of Chinese imports in 2025, despite ethnic conflict\nhttps://ww3watchtower.substack.com",
+     "snippet": "The Trump administration held two rounds of talks with Myanmar’s military to secure a detained American’s release and curb fraud. Washington seeks access to rare earth deposits, which hit 52.8% of Chinese imports in 2025, despite ethnic conflict\nhttps://ww3watchtower.substack.com",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WW3 Watchtower",
+     "handle": "@WW3Watchtower"
+    }
+   ]
+  }
+ ]
+}

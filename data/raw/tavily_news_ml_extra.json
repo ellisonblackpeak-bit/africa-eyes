@@ -1,0 +1,15 @@
+{
+ "success": true,
+ "results": [],
+ "_tag": "ml_extra",
+ "_query": "Mali Bamako latest news today junta jihadist",
+ "_domains": [
+  "reuters.com",
+  "africanews.com",
+  "theafricareport.com",
+  "allafrica.com",
+  "bbc.com",
+  "ecofinagency.com"
+ ],
+ "_days": 3
+}
