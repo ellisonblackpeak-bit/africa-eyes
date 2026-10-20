@@ -1,0 +1,11 @@
+{
+ "success": true,
+ "results": [],
+ "engine": "rss",
+ "_tag": "rss_gmanews",
+ "_query": "https://www.gmanetwork.com/news/rss/",
+ "_domains": [
+  "gmanetwork.com"
+ ],
+ "_days": 3
+}
