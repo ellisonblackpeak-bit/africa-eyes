@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/FirstSquawk/status/2111976989699788999",
+     "title": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY.",
+     "description": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY. MOSCOW AND BEIJING HAVE AGREED TO INCREASE ANNUAL DELIVERIES TO 44 BCM, WITH NO TIMELINE CONFIRMED.",
+     "snippet": "RUSSIA EXPECTS GAS EXPORTS TO CHINA VIA THE POWER OF SIBERIA PIPELINE TO REACH 39 BCM IN 2026, EXCEEDING ITS 38 BCM CONTRACTED CAPACITY. MOSCOW AND BEIJING HAVE AGREED TO INCREASE ANNUAL DELIVERIES TO 44 BCM, WITH NO TIMELINE CONFIRMED.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2111976991633317926",
+     "title": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR.",
+     "description": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR. NEGOTIATIONS ON POWER OF SIBERIA 2, WHICH COULD SUPPLY UP TO 50 BCM ANNUALLY, CONTINUE AS RUSSIA SEEKS TO REPLACE LOST EUROPEAN MARKETS AND DEEPENS ITS ENERGY RELIANCE ON CHINA.",
+     "snippet": "GAZPROM DELIVERED 38.84 BCM IN 2025, UP AROUND 25% YEAR-ON-YEAR. NEGOTIATIONS ON POWER OF SIBERIA 2, WHICH COULD SUPPLY UP TO 50 BCM ANNUALLY, CONTINUE AS RUSSIA SEEKS TO REPLACE LOST EUROPEAN MARKETS AND DEEPENS ITS ENERGY RELIANCE ON CHINA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/num1_ch/status/2111908702257324447",
+     "title": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.",
+     "description": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.\n\nOn Oct 21, he will hold talks with Mishustin.\n\nKey topic: energy, including **gas**.\n\nWill Beijing finally sign off on Power of Siberia 2?",
+     "snippet": "🔥🛢️🇨🇳🇷🇺 Chinese PM Li Qiang to visit Russia on Oct 20–22.\n\nOn Oct 21, he will hold talks with Mishustin.\n\nKey topic: energy, including **gas**.\n\nWill Beijing finally sign off on Power of Siberia 2?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "N1 Channel",
+     "handle": "@num1_ch"
+    },
+    {
+     "url": "https://x.com/jackprandelli/status/2111832757043102199",
+     "title": "China has bought about €290bn of Russian fossil fuels since the EU bans.",
+     "description": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "snippet": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jack Prandelli",
+     "handle": "@jackprandelli"
+    },
+    {
+     "url": "https://x.com/Aelloradar/status/2111977410736316872",
+     "title": "RÚSSIA PROJETA 39 BCM DE GÁS À CHINA EM 2026 Rússia espera que exportações de gás à China via o gasoduto Power of Siberia cheguem a 39 BCM e",
+     "description": "RÚSSIA PROJETA 39 BCM DE GÁS À CHINA EM 2026\n\nRússia espera que exportações de gás à China via o gasoduto Power of Siberia cheguem a 39 BCM em 2026, superando a capacidade contratada de 38 BCM. Moscou e Pequim concordaram em elevar as entregas anuais para 44 BCM, sem cronograma confirmado. #Gas #Russia",
+     "snippet": "RÚSSIA PROJETA 39 BCM DE GÁS À CHINA EM 2026\n\nRússia espera que exportações de gás à China via o gasoduto Power of Siberia cheguem a 39 BCM em 2026, superando a capacidade contratada de 38 BCM. Moscou e Pequim concordaram em elevar as entregas anuais para 44 BCM, sem cronograma confirmado. #Gas #Russia",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aello",
+     "handle": "@Aelloradar"
+    },
+    {
+     "url": "https://x.com/ValeriiKarivets/status/2111995930136158469",
+     "title": "Yes, of course, China is incredibly interested in ending the war.",
+     "description": "Yes, of course, China is incredibly interested in ending the war. So interested, in fact, that Chinese companies are taking advantage of discounted Russian energy resources due to sanctions and Russia's loss of much of the European market. You have to be incredibly naive to ignore China's economic interests. There is a big difference between those who claim to want peace and those who benefit economically from the current situation.",
+     "snippet": "Yes, of course, China is incredibly interested in ending the war. So interested, in fact, that Chinese companies are taking advantage of discounted Russian energy resources due to sanctions and Russia's loss of much of the European market. You have to be incredibly naive to ignore China's economic interests. There is a big difference between those who claim to want peace and those who benefit economically from the current situation.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Valerii Karivets",
+     "handle": "@ValeriiKarivets"
+    },
+    {
+     "url": "https://x.com/myopiniondog/status/2111720307064963466",
+     "title": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels.",
+     "description": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "snippet": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eudaemon",
+     "handle": "@myopiniondog"
+    },
+    {
+     "url": "https://x.com/AKaszon/status/2112074734963655028",
+     "title": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China.",
+     "description": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "snippet": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andre Viktor Baron Thyssen Bornemissza von Kaszon",
+     "handle": "@AKaszon"
+    },
+    {
+     "url": "https://x.com/grok/status/2112321594672484707",
+     "title": "China is the largest buyer of Russian fossil fuels.",
+     "description": "China is the largest buyer of Russian fossil fuels. Per CREA data for September 2026, it accounted for 55% (EUR 9.1 bn) of revenues from the top five importers, mainly crude oil (EUR 6 bn). Cumulatively since late 2022, China takes ~50% of Russian crude exports, ahead of India at ~37%.",
+     "snippet": "China is the largest buyer of Russian fossil fuels. Per CREA data for September 2026, it accounted for 55% (EUR 9.1 bn) of revenues from the top five importers, mainly crude oil (EUR 6 bn). Cumulatively since late 2022, China takes ~50% of Russian crude exports, ahead of India at ~37%.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2111494099039649938",
+     "title": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026.",
+     "description": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026. China leads cumulative fossil fuel imports from Russia since Feb 2022 at ~356 bn EUR, followed by the EU at 238 bn, India at 190 bn and Türkiye at 138 bn.",
+     "snippet": "Yes, the chart matches CREA's Russia Fossil Tracker data as of 9 Oct 2026. China leads cumulative fossil fuel imports from Russia since Feb 2022 at ~356 bn EUR, followed by the EU at 238 bn, India at 190 bn and Türkiye at 138 bn.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

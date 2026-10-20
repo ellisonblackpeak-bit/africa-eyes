@@ -1,0 +1,86 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/militaryafrica/status/2112221133151854599",
+     "title": "US, Nigeria strengthens counter-terror ties Nigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Souther",
+     "description": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "snippet": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Military Africa",
+     "handle": "@militaryafrica"
+    },
+    {
+     "url": "https://x.com/MERICAxFIRST/status/2111536488882049209",
+     "title": "Christians in Nigeria got years of statements from Washington.",
+     "description": "Christians in Nigeria got years of statements from Washington. On Dec 25, 2025, they got AFRICOM strikes on ISIS camps in Sokoto State. Words vs. results.",
+     "snippet": "Christians in Nigeria got years of statements from Washington. On Dec 25, 2025, they got AFRICOM strikes on ISIS camps in Sokoto State. Words vs. results.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AMERICAN HERO",
+     "handle": "@MERICAxFIRST"
+    },
+    {
+     "url": "https://x.com/AvTrackGhana/status/2111873220936622415",
+     "title": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending",
+     "description": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending two months on the ground.\n\nThe aircraft operates around the Chad–Nigeria border region, supporting bilateral counterterrorism efforts.",
+     "snippet": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending two months on the ground.\n\nThe aircraft operates around the Chad–Nigeria border region, supporting bilateral counterterrorism efforts.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aviation TrackerGH™",
+     "handle": "@AvTrackGhana"
+    },
+    {
+     "url": "https://x.com/grok/status/2111273545841963226",
+     "title": "Yes, a joint US-Nigerian operation in May 2026 killed Abu-Bilal al-Minuki, listed as ISIS global operations director, plus other senior comm",
+     "description": "Yes, a joint US-Nigerian operation in May 2026 killed Abu-Bilal al-Minuki, listed as ISIS global operations director, plus other senior commanders in northeastern Nigeria. AFRICOM coordinated with Nigerian forces on the strike and later intel support against ISWAP.",
+     "snippet": "Yes, a joint US-Nigerian operation in May 2026 killed Abu-Bilal al-Minuki, listed as ISIS global operations director, plus other senior commanders in northeastern Nigeria. AFRICOM coordinated with Nigerian forces on the strike and later intel support against ISWAP.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2111873738241126862",
+     "title": "Terrorism from Boko Haram and ISWAP remains a major threat in Nigeria, with recent reports confirming ongoing attacks and fighter rebuilding",
+     "description": "Terrorism from Boko Haram and ISWAP remains a major threat in Nigeria, with recent reports confirming ongoing attacks and fighter rebuilding capacity. US-Nigeria partnerships already involve joint operations that have killed senior ISIS-linked leaders plus training and equipment. British Museum title transfers require Parliament to amend the 1963 Act and are separate from security cooperation.",
+     "snippet": "Terrorism from Boko Haram and ISWAP remains a major threat in Nigeria, with recent reports confirming ongoing attacks and fighter rebuilding capacity. US-Nigeria partnerships already involve joint operations that have killed senior ISIS-linked leaders plus training and equipment. British Museum title transfers require Parliament to amend the 1963 Act and are separate from security cooperation.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/abdulmalik14x/status/2111920979597291686",
+     "title": "US isn’t withdrawing they’re just waiting for Nigeria to get stronger at this terrorist killing stuff.",
+     "description": "US isn’t withdrawing they’re just waiting for Nigeria to get stronger at this terrorist killing stuff. After Christmas and May we’re only getting better. Plus AFRICOM commander was only asking Somalia to step it up same as they’re asking Nigeria",
+     "snippet": "US isn’t withdrawing they’re just waiting for Nigeria to get stronger at this terrorist killing stuff. After Christmas and May we’re only getting better. Plus AFRICOM commander was only asking Somalia to step it up same as they’re asking Nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "abdulmalik",
+     "handle": "@abdulmalik14x"
+    },
+    {
+     "url": "https://x.com/NeneEvaXX/status/2111870782397689882",
+     "title": "Centcom and Africom aren't downgraded they just need to be paired with better Nigerian counterterrorism ops.",
+     "description": "Centcom and Africom aren't downgraded they just need to be paired with better Nigerian counterterrorism ops. That's why May and Christmas attacks were so successful. Let's keep teaming up and focus on making Nigeria terrorist-free",
+     "snippet": "Centcom and Africom aren't downgraded they just need to be paired with better Nigerian counterterrorism ops. That's why May and Christmas attacks were so successful. Let's keep teaming up and focus on making Nigeria terrorist-free",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nene Eva",
+     "handle": "@NeneEvaXX"
+    }
+   ]
+  }
+ ]
+}

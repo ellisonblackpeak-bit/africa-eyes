@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/TheMinuend/status/2112206615260893315",
+     "title": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.",
+     "description": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "snippet": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roy",
+     "handle": "@TheMinuend"
+    },
+    {
+     "url": "https://x.com/tanvi_madan/status/2112167892485804374",
+     "title": "China's tunnel boring machine export controls been in effect wrt India.",
+     "description": "China's tunnel boring machine export controls been in effect wrt India. This seems to make it more explicit (Tho TBMs also used for mining so maybe targeted wider too)\n\nGerman co. trying to get those to India said they'd explore manufacturing more there; dunno re status of that",
+     "snippet": "China's tunnel boring machine export controls been in effect wrt India. This seems to make it more explicit (Tho TBMs also used for mining so maybe targeted wider too)\n\nGerman co. trying to get those to India said they'd explore manufacturing more there; dunno re status of that",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tanvi Madan",
+     "handle": "@tanvi_madan"
+    },
+    {
+     "url": "https://x.com/tanvi_madan/status/2112319869538672688",
+     "title": "I hadn't seen an update since the October 2025 article quoting the (now former) German ambassador to India that Herrenknecht intended to exp",
+     "description": "I hadn't seen an update since the October 2025 article quoting the (now former) German ambassador to India that Herrenknecht intended to expand its facilities in India to deal with China's export controls.\n\nApparently that expansion is indeed happening in TN.",
+     "snippet": "I hadn't seen an update since the October 2025 article quoting the (now former) German ambassador to India that Herrenknecht intended to expand its facilities in India to deal with China's export controls.\n\nApparently that expansion is indeed happening in TN.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tanvi Madan",
+     "handle": "@tanvi_madan"
+    },
+    {
+     "url": "https://x.com/indiaemerges/status/2112276411935588542",
+     "title": "A few thoughts on China's export controls, which have been and will continue to be primarily targeted towards India.",
+     "description": "A few thoughts on China's export controls, which have been and will continue to be primarily targeted towards India. \n1. It shouldn't come as a surprise. China will want to protect its moat from the one large developing economy that can build at scale. \n2. Exports are critical to the Chinese economy, especially when the domestic consumption economy may be struggling. \n3. Given 1 & 2, what are we going to do remains the central question. We have two options imo and we must utilise both: attracting OEMs to set up manufacturing in India & simultaneously develop our own ecosystem. We are terrible at the latter. \n4. Our focus must switch to manufacturing inputs and intermediates, not just the end product. Enough with declaring assembly wins. Let's aim to make or process most things that go in a product. \n5. While we go about working on 4, securing supply chains for inputs/materials we don't have resources for is essentially do or die. This is where govt policy and hard-headed behaviour must kick in. Secure supply by hook or crook. \n\nWe have failed so far because we have been let down by policy and the political economy. Now the political economy evolves as we move towards middle income, but there is no substitute for a hard-headed industrial policy. Everything downstream can be solved.",
+     "snippet": "A few thoughts on China's export controls, which have been and will continue to be primarily targeted towards India. \n1. It shouldn't come as a surprise. China will want to protect its moat from the one large developing economy that can build at scale. \n2. Exports are critical to the Chinese economy, especially when the domestic consumption economy may be struggling. \n3. Given 1 & 2, what are we going to do remains the central question. We have two options imo and we must utilise both: attracting OEMs to set up manufacturing in India & simultaneously develop our own ecosystem. We are terrible at the latter. \n4. Our focus must switch to manufacturing inputs and intermediates, not just the end product. Enough with declaring assembly wins. Let's aim to make or process most things that go in a product. \n5. While we go about working on 4, securing supply chains for inputs/materials we don't have resources for is essentially do or die. This is where govt policy and hard-headed behaviour must kick in. Secure supply by hook or crook. \n\nWe have failed so far because we have been let down by policy and the political economy. Now the political economy evolves as we move towards middle income, but there is no substitute for a hard-headed industrial policy. Everything downstream can be solved.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Forging India",
+     "handle": "@indiaemerges"
+    },
+    {
+     "url": "https://x.com/globaltimesnews/status/2112086460874793052",
+     "title": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet sho",
+     "description": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "snippet": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Times",
+     "handle": "@globaltimesnews"
+    },
+    {
+     "url": "https://x.com/NewIndia2047/status/2112179181098607096",
+     "title": "Thanks, China.🇨🇳 Keep doing.",
+     "description": "Thanks, China.🇨🇳\nKeep doing.\nHerrenknecht TBM manufacturing in China.\nThe Chinese government is blocking and delaying critical shipments of Herrenknecht's machines destined for India. \nIn May 2026, India officially launched an India-made Tunnel Boring Machine (TBM) named 'Arjuna'",
+     "snippet": "Thanks, China.🇨🇳\nKeep doing.\nHerrenknecht TBM manufacturing in China.\nThe Chinese government is blocking and delaying critical shipments of Herrenknecht's machines destined for India. \nIn May 2026, India officially launched an India-made Tunnel Boring Machine (TBM) named 'Arjuna'",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Indian Updates",
+     "handle": "@NewIndia2047"
+    },
+    {
+     "url": "https://x.com/jshilanjanm/status/2111655476874404335",
+     "title": "Thailand spent years courting Chinese EV makers to build plants there, and now it's worried about the jobs tied to Japanese carmakers.",
+     "description": "Thailand spent years courting Chinese EV makers to build plants there, and now it's worried about the jobs tied to Japanese carmakers. India has kept a tighter gate since 2020, when Press Note 3 put every investment from a country sharing a land border with India through government approval. I think the Thai experience is worth studying closely before anyone here loosens that, because the factory jobs are the part you can't easily get back.",
+     "snippet": "Thailand spent years courting Chinese EV makers to build plants there, and now it's worried about the jobs tied to Japanese carmakers. India has kept a tighter gate since 2020, when Press Note 3 put every investment from a country sharing a land border with India through government approval. I think the Thai experience is worth studying closely before anyone here loosens that, because the factory jobs are the part you can't easily get back.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jayant Shilanjan Mundhra",
+     "handle": "@jshilanjanm"
+    },
+    {
+     "url": "https://x.com/ITGGlobal/status/2111881179200884737",
+     "title": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the",
+     "description": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the 2020 India-China border standoff.\n\nChina called the move “illegal and invalid”, while India reiterated that Ladakh is an integral and inalienable part of the country.\n\nWatch Dragon Diaries only on India Today Global: https://t.co/K2qvaRHpvI\n\n#IndiaChina #Ladakh #IndiaChinaBorder #DragonDiaries #IndiaTodayGlobal",
+     "snippet": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the 2020 India-China border standoff.\n\nChina called the move “illegal and invalid”, while India reiterated that Ladakh is an integral and inalienable part of the country.\n\nWatch Dragon Diaries only on India Today Global: https://t.co/K2qvaRHpvI\n\n#IndiaChina #Ladakh #IndiaChinaBorder #DragonDiaries #IndiaTodayGlobal",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "India Today Global",
+     "handle": "@ITGGlobal"
+    },
+    {
+     "url": "https://x.com/NDTVWorld/status/2111710820615049443",
+     "title": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "description": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "snippet": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NDTV World",
+     "handle": "@NDTVWorld"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2111547929089503632",
+     "title": "China’s expanding footprint around Ladakh and the Wakhan Corridor exposes the stakes of the India-China border dispute, where maps, infrastr",
+     "description": "China’s expanding footprint around Ladakh and the Wakhan Corridor exposes the stakes of the India-China border dispute, where maps, infrastructure and territorial claims are becoming instruments of power.\n\nhttps://chinaglobalsouth.com/2026/10/14/india-china-ladakh-border-dispute-map-wakhan-corridor/",
+     "snippet": "China’s expanding footprint around Ladakh and the Wakhan Corridor exposes the stakes of the India-China border dispute, where maps, infrastructure and territorial claims are becoming instruments of power.\n\nhttps://chinaglobalsouth.com/2026/10/14/india-china-ladakh-border-dispute-map-wakhan-corridor/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/DanKatsina50/status/2112314103784259771",
+     "title": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State.",
+     "description": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "snippet": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/ZagazOlaMakama/status/2112264323921756463",
+     "title": "Troops Rescue Kidnap Victim, Recover 18 Rustled Cattle in Kebbi By: Zagazola Makama Troops of the Nigerian Army have rescued a kidnap victim",
+     "description": "Troops Rescue Kidnap Victim, Recover 18 Rustled Cattle in Kebbi\n\nBy: Zagazola Makama\n\nTroops of the Nigerian Army have rescued a kidnap victim and recovered 18 rustled cattle during a security operation in Rambo Village, Danko-Wasagu Local Government Area of Kebbi State.\n\nSecurity sources told Zagazola Makama that the operation took place at about 2:50 a.m. on Oct. 18, when troops of 223 Battalion, deployed at Forward Operating Base (FOB) Kanya, responded to reports of terrorist activities in the community.\n\nThe troops engaged the suspected terrorists and successfully rescued one kidnap victim during the operation.\nThey also recovered 18 cattle believed to have been rustled by the criminal elements.\n\nThe rescued victim was reunited with his family, while the recovered cattle were handed over to their rightful owner through the District Head of Rambo Village.",
+     "snippet": "Troops Rescue Kidnap Victim, Recover 18 Rustled Cattle in Kebbi\n\nBy: Zagazola Makama\n\nTroops of the Nigerian Army have rescued a kidnap victim and recovered 18 rustled cattle during a security operation in Rambo Village, Danko-Wasagu Local Government Area of Kebbi State.\n\nSecurity sources told Zagazola Makama that the operation took place at about 2:50 a.m. on Oct. 18, when troops of 223 Battalion, deployed at Forward Operating Base (FOB) Kanya, responded to reports of terrorist activities in the community.\n\nThe troops engaged the suspected terrorists and successfully rescued one kidnap victim during the operation.\nThey also recovered 18 cattle believed to have been rustled by the criminal elements.\n\nThe rescued victim was reunited with his family, while the recovered cattle were handed over to their rightful owner through the District Head of Rambo Village.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Zagazola",
+     "handle": "@ZagazOlaMakama"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2112292299648405952",
+     "title": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "description": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "snippet": "Bandits of Bagega Zamfara state are morning this kingpin, it looks the security forces smoked a top bandits commander...",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112248213050663047",
+     "title": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.",
+     "description": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "snippet": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/openwatchng/status/2111865374270513479",
+     "title": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.",
+     "description": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "snippet": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "OpenWatch",
+     "handle": "@openwatchng"
+    },
+    {
+     "url": "https://x.com/NgrImpact/status/2111853693049950671",
+     "title": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives Bandits on Saturday evening",
+     "description": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "snippet": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Impact_Ngr",
+     "handle": "@NgrImpact"
+    },
+    {
+     "url": "https://x.com/westernpost_ng/status/2111797460196610489",
+     "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-",
+     "description": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Western Post Nigeria",
+     "handle": "@westernpost_ng"
+    },
+    {
+     "url": "https://x.com/MR__sulaiman2/status/2111765671079981158",
+     "title": "Breaking news.Bandits Burn Nearly 50 Vehicles in Zamfara After Threatening to Set 250 Ablaz€ Bandits who threatened to burn 250 vehicles in",
+     "description": "Breaking news.Bandits Burn Nearly 50 Vehicles in Zamfara After Threatening to Set 250 Ablaz€ \n\nBandits who threatened to burn 250 vehicles in Zamfara State have reportedly begun executing their threat, burning close to 50 vehicles since last week.\n\nIn a video from the attack, the assa!lants were seen chas!ng residents out of a village before setting their vehicles ablaz€.",
+     "snippet": "Breaking news.Bandits Burn Nearly 50 Vehicles in Zamfara After Threatening to Set 250 Ablaz€ \n\nBandits who threatened to burn 250 vehicles in Zamfara State have reportedly begun executing their threat, burning close to 50 vehicles since last week.\n\nIn a video from the attack, the assa!lants were seen chas!ng residents out of a village before setting their vehicles ablaz€.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Big Sman.🍥",
+     "handle": "@MR__sulaiman2"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2111722362974396478",
+     "title": "Bandits responsible for the blockage on dansadau - gusau highway Zamfara have attacked malele village yesterday,...",
+     "description": "Bandits responsible for the blockage on dansadau - gusau highway Zamfara have attacked malele village yesterday,... Zamfara state Nigeria",
+     "snippet": "Bandits responsible for the blockage on dansadau - gusau highway Zamfara have attacked malele village yesterday,... Zamfara state Nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/galaxytv/status/2111376915944653167",
+     "title": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle",
+     "description": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle terrorism and restore peace in the region.\n\nhttps://www.galaxytvonline.com/news/local-news/troops-neutralise-lakurawa-terrorists-in-sokoto-forest",
+     "snippet": "Nigerian troops have neutralised Lakurawa terrorists during an operation in a Sokoto forest, as security forces intensify efforts to tackle terrorism and restore peace in the region.\n\nhttps://www.galaxytvonline.com/news/local-news/troops-neutralise-lakurawa-terrorists-in-sokoto-forest",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Galaxy Television",
+     "handle": "@galaxytv"
+    }
+   ]
+  }
+ ]
+}
