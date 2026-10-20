@@ -76,6 +76,23 @@ SUMMARY_CHARS = int(os.environ.get("SUMMARY_CHARS", "520"))
 _PLACEHOLDER_RX = re.compile(
     r"仅返回导航摘要|未返回可读摘要|该来源未返回|原文页面仅返回", re.I)
 
+
+def _fallback_summary(item):
+    """A readable Chinese summary for an item whose text we could not obtain.
+
+    The card must still tell the reader what the story is about. Using the
+    headline is honest (it is the publisher's own summary of the story), keeps the
+    page fully Chinese, and avoids both failure modes seen before: a fixed
+    "仅返回导航摘要" string that says nothing, and dropping the item altogether,
+    which cost 34 China-related cards.
+    """
+    t = (item.get("title_zh") or item.get("title") or "").strip()
+    src = (item.get("source") or item.get("domain") or "").strip()
+    who = ("据 %s 报道：" % src) if src else ""
+    if t:
+        return who + t.rstrip(".") + "。该来源未开放正文与摘要，点击下方原文可查看完整内容。"
+    return "该来源未开放正文与摘要，点击下方原文可查看完整内容。"
+
 # ─────────────── outlet registry (contact = publicly published page) ───────────
 OUTLETS = {
     "reuters.com": ("路透社", "af", "https://www.reuters.com/world/africa/"),
@@ -1522,6 +1539,33 @@ for fn in news_files:
 # fully processed record (including its Chinese fields), so re-admitting an item
 # costs nothing — its translations are already attached and the translation
 # queue skips anything that carries a _zh slot.
+# URL → the search index's own description, harvested from the raw snapshots.
+#
+# A pooled record keeps only what build_data computed; it does not keep the raw
+# `content` field. So once a body extraction failed, the item had neither body nor
+# index text available at carry-over time and its summary became a placeholder —
+# 68 cards saying "该来源未返回可读摘要" even though the index description was sitting
+# in data/raw the whole time. This map restores it at zero cost: no API call, just
+# re-reading files that are already committed.
+_INDEX_TEXT = {}
+for _fn in glob.glob(os.path.join(RAW, "tavily_news_*.json")):
+    try:
+        with io.open(_fn, encoding="utf-8") as _fh:
+            _doc = json.load(_fh)
+    except Exception:
+        continue
+    if not isinstance(_doc, dict):
+        continue
+    for _it in (_doc.get("results") or []):
+        if not isinstance(_it, dict):
+            continue
+        _u = _it.get("url")
+        _c = (_it.get("content") or "").strip()
+        if _u and _c:
+            _INDEX_TEXT.setdefault(norm_url(_u), _c)
+if _INDEX_TEXT:
+    print("index text recovered for %d url(s)" % len(_INDEX_TEXT))
+
 _pool_prev = {}
 if os.path.exists(POOL_PATH):
     try:
@@ -1591,13 +1635,20 @@ for _k, _item in _pool_in.items():
                 _item["bodyLevel"] = "fulltext"
                 _item["body_zh"] = ""       # queue it for translation
                 _item["summarySource"] = "fulltext"
-    # Same for a placeholder summary: rebuild from whatever text is now available.
+    # Same for a placeholder summary: rebuild from whatever text is now available
+    # — the body if it exists, otherwise the search index's description.
     if _PLACEHOLDER_RX.search(_item.get("summary") or ""):
-        _ns = summary_of(_item.get("body") or "", _item.get("title") or "",
-                         max_chars=SUMMARY_CHARS)
+        _src = _item.get("body") or _INDEX_TEXT.get(norm_url(_item.get("url") or ""), "")
+        _ns = summary_of(_src, _item.get("title") or "", max_chars=SUMMARY_CHARS)
         if len(_ns) >= 60:
             _item["summary"] = _ns
             _item["summary_zh"] = ""
+            if not (_item.get("body") or "").strip():
+                # No article body, but there is a real index description: show it
+                # as the foldable text and mark it honestly as an excerpt.
+                _item["body"] = _cut_at_sentence(clean(_src), BODY_LIMIT)
+                _item["bodyLevel"] = "excerpt"
+                _item["body_zh"] = ""
     news.append(_item)
     seen.add(_k)
     added_from_pool += 1
@@ -1688,6 +1739,18 @@ TIER4_CAP = 30
 # capped; the cap now only trims routine regional copy.
 _t4_terror = [n for n in news if n["tier"] == 4 and n.get("terrHit")]
 _t4_other = [n for n in news if n["tier"] == 4 and not n.get("terrHit")]
+# A card with no readable summary is NOT dropped.
+#
+# Dropping looked tidy but cost too much: 121 cards went, including 34 of the 51
+# 涉华 items, because a China story is exactly the kind that lives on a page the
+# extractor cannot open. Losing coverage to improve neatness is the wrong trade
+# for this monitor. Such items instead get a summary built from the headline, so
+# the card still says what the story is about (see _fallback_summary).
+for _n in news:
+    if _PLACEHOLDER_RX.search(_n.get("summary") or ""):
+        _n["summary"] = _fallback_summary(_n)
+        _n["summary_zh"] = ""
+
 _keep_t1_3 = [n for n in news if n["tier"] != 4]
 _keep_t4 = _t4_terror + _t4_other[:TIER4_CAP]
 capped_off = len(news) - len(_keep_t1_3) - len(_keep_t4)
