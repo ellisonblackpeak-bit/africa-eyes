@@ -69,6 +69,13 @@ BODY_LIMIT = int(os.environ.get("BODY_LIMIT", "12000"))
 # _cut_at_sentence).
 SUMMARY_CHARS = int(os.environ.get("SUMMARY_CHARS", "520"))
 
+# Placeholder summaries/bodies written by older builds. They must be recognised
+# everywhere — when carrying items over from the pool, when rebuilding a body, and
+# in the final sanitation pass — so the regex is defined up here rather than next
+# to the pass that first needed it.
+_PLACEHOLDER_RX = re.compile(
+    r"仅返回导航摘要|未返回可读摘要|该来源未返回|原文页面仅返回", re.I)
+
 # ─────────────── outlet registry (contact = publicly published page) ───────────
 OUTLETS = {
     "reuters.com": ("路透社", "af", "https://www.reuters.com/world/africa/"),
@@ -1475,7 +1482,10 @@ for fn in news_files:
                 full_body = fb
         if not full_body:
             fb = _cut_at_sentence(clean(body), BODY_LIMIT)
-            if len(fb) < len(summary):
+            # Never fall back to a placeholder string: that put
+            # "摘要：原文页面仅返回导航摘要…" inside `body`, and the fold then
+            # presented it as the article text (124 cards shipped like that).
+            if len(fb) < len(summary) and not _PLACEHOLDER_RX.search(summary or ""):
                 fb = summary
             full_body = fb
             body_level = "excerpt"
@@ -1562,6 +1572,32 @@ for _k, _item in _pool_in.items():
     if "terrHit" not in _item:
         _item["terrHit"] = terror_hit(_item.get("title") or "",
                                       _item.get("summary") or "")
+    # Rebuild a missing body from the article cache.
+    #
+    # fetch_articles caches the extracted text per URL, but a pooled record only
+    # carries the `body` that was computed when it was first built. Once that body
+    # was empty (or held an old placeholder), the item stayed body-less for the
+    # rest of its 3-day window even though the full text was sitting in the cache
+    # the whole time — so its 展开全文 panel showed a one-line summary. Re-derive
+    # it here; article_text() is a local file read, so this costs nothing.
+    _pbody = _item.get("body") or ""
+    if (not _pbody.strip()) or _PLACEHOLDER_RX.search(_pbody):
+        _raw = article_text(_item.get("url") or "")
+        if _raw:
+            _nb = _cut_at_sentence(clean(strip_body(_raw, _item.get("title") or "")),
+                                   BODY_LIMIT)
+            if len(_nb) >= 150:
+                _item["body"] = _nb
+                _item["bodyLevel"] = "fulltext"
+                _item["body_zh"] = ""       # queue it for translation
+                _item["summarySource"] = "fulltext"
+    # Same for a placeholder summary: rebuild from whatever text is now available.
+    if _PLACEHOLDER_RX.search(_item.get("summary") or ""):
+        _ns = summary_of(_item.get("body") or "", _item.get("title") or "",
+                         max_chars=SUMMARY_CHARS)
+        if len(_ns) >= 60:
+            _item["summary"] = _ns
+            _item["summary_zh"] = ""
     news.append(_item)
     seen.add(_k)
     added_from_pool += 1
@@ -1601,8 +1637,6 @@ if _promo_fixed:
 # stay on the page for the rest of the 3-day window, telling the reader nothing
 # even when a real body had since become available. Rebuild the summary from
 # whatever text the item actually has.
-_PLACEHOLDER_RX = re.compile(
-    r"仅返回导航摘要|未返回可读摘要|该来源未返回|原文页面仅返回", re.I)
 # The same placeholder also ended up inside `body` (the old code fell back to
 # `body = summary` when extraction failed), so 64 cards showed "摘要：原文页面仅
 # 返回导航摘要…" as if it were the article text. Clear those: the fold then shows

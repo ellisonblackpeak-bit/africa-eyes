@@ -675,16 +675,25 @@ details.ft[open] summary::before{content:'▾ '}
          reads as Chinese. Never fall back to the English body. */
       txt=it.summary_zh||it.snippet_zh||'';
       if(haveCn(txt)){
-        lbl='展开摘要译文（全文译文生成中）';
-        note='<div class="ft-note">该条正文的中文译文尚未生成，以上为中文摘要；下一轮自动更新会补齐全文译文。'
-             +'需要完整内容可点下方原文链接。</div>';
+        /* Say WHY it is a summary: extraction refused the page, or the full-text
+           translation simply has not run yet. The two read very differently to
+           the reader and only one of them resolves itself. */
+        if(!it.body){
+          lbl='展开摘要（该来源未开放正文）';
+          note='<div class="ft-note">该来源未开放正文抓取（付费墙或反爬限制），以上为可获得的完整中文摘要；'
+               +'完整内容请点下方原文链接。</div>';
+        }else{
+          lbl='展开摘要译文（全文译文生成中）';
+          note='<div class="ft-note">该条正文的中文译文尚未生成，以上为中文摘要；下一轮自动更新会补齐全文译文。'
+               +'需要完整内容可点下方原文链接。</div>';
+        }
       }else{
         txt='该条译文正在生成，下一轮自动更新后显示中文全文。';
         lbl='展开全文译文';
         note='<div class="ft-note">译文尚未生成，下一轮自动更新补齐。</div>';
       }
     }
-    if(it.bodyLevel==='excerpt' && haveCn(zh))
+    if(it.bodyLevel==='excerpt' && haveCn(zh) && it.body)
       note='<div class="ft-note">该来源未开放正文抓取（付费墙或反爬限制），以上为可获得的完整文本；更多内容请打开原文。</div>';
     else if(it.bodyLevel==='post' && it.platform && it.platform!=='x')
       note='<div class="ft-note">平台接口仅返回标题与摘要，以上为该帖可获得的全部文字。</div>';
