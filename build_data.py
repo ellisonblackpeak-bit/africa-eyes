@@ -902,6 +902,47 @@ def classify_topic(title, body):
     return [k for k, _ in sorted(hits.items(), key=lambda kv: -kv[1])[:2]]
 
 
+def _tag_anchor_ok(c, dom, text):
+    """Is the query tag allowed to decide the country for this record?
+
+    The tag is a last resort, and on its own it was too generous: "China's
+    licensing deals soar as US biotechs enjoy a bumper M&A year" (biospace.com)
+    and "Sihasak asks Chinese Embassy to keep travel warnings proportionate"
+    (nationthailand.com) both came from a `cn_mm` angle and were filed under
+    缅甸 — a US biotech story and a Thai foreign-ministry story, in the Myanmar
+    module. The angle names what the QUERY was about, not where the story is.
+
+    So the tag needs corroboration:
+      · the outlet itself belongs to that country (catalogue match), or
+      · it is a West African tag and the outlet is West African / regional press
+        (a Nigerian paper reporting a Chinese investment is still Nigerian news
+        even when the headline names no state), or
+      · the copy names the country.
+    Anything else falls back to "unknown", which the relevance gate then judges.
+    """
+    if not c or c in ("af", "wa"):
+        return True
+    for suf, code in DOMAIN_CTY.items():
+        if dom == suf or dom.endswith("." + suf):
+            return code == c
+    # Copy that names the country is the strongest evidence there is.
+    rx = CTY_RX.get(c)
+    if rx and rx.search(text or ""):
+        return True
+    if c in zh_cty_hits(text or ""):
+        return True
+    if c in ("ng", "ne", "ml", "gh") and (dom in WA_DOMAINS or dom in REGIONAL_DOMAINS):
+        # A West African outlet for a West African tag. Allowed only when the
+        # copy does not point at a DIFFERENT West African country — without this,
+        # a pure-Nigeria story found by a `cn_ne` angle would be filed as Niger,
+        # which is the exact confusion this whole change is meant to end.
+        others = [o for o in ("ng", "ne", "ml", "gh") if o != c]
+        if not any((CTY_RX.get(o) and CTY_RX[o].search(text or ""))
+                   or (o in zh_cty_hits(text or "")) for o in others):
+            return True
+    return False
+
+
 def classify_cty(title, body, dom="", url=""):
     out = [c for c, rx in CTY_RX.items()
            if 3 * len(rx.findall(title)) + len(rx.findall(body))]
@@ -1976,12 +2017,17 @@ for fn in news_files:
                 cty_title = body_cty if body_cty != ["af"] else ["wa"]
             else:
                 _tag_cty0 = TAG_CTY.get(doc.get("_tag") or "")
-                if _tag_cty0:
+                _tag0_list = (list(_tag_cty0) if isinstance(_tag_cty0, (list, tuple))
+                              else ([_tag_cty0] if _tag_cty0 else []))
+                # The tag only counts when the outlet or the copy backs it up —
+                # otherwise a `cn_mm` angle files a Thai story under Myanmar.
+                _tag0_list = [c for c in _tag0_list
+                              if _tag_anchor_ok(c, dom, title + " " + body[:400])]
+                if _tag0_list:
                     # The angle that found it was country-specific, so the tag is
                     # a better anchor than "unknown" — and dropping the item here
                     # is what made modules look thin.
-                    cty_title = (list(_tag_cty0)
-                                 if isinstance(_tag_cty0, (list, tuple)) else [_tag_cty0])
+                    cty_title = _tag0_list
                 else:
                     #  c) A headline that is explicitly about China or the US, from
                     #     an outlet whose country is known. "8 Chinese among 18
@@ -2035,7 +2081,11 @@ for fn in news_files:
         _tag_cty = TAG_CTY.get(doc.get("_tag") or "")
         _has_real = bool(set(cty) & ALL_CTYS)
         if _tag_cty and not _has_real:
-            cty = list(_tag_cty) if isinstance(_tag_cty, (list, tuple)) else [_tag_cty]
+            _tl = (list(_tag_cty) if isinstance(_tag_cty, (list, tuple)) else [_tag_cty])
+            _tl = [c for c in _tl
+                   if _tag_anchor_ok(c, dom, title + " " + body[:400])]
+            if _tl:
+                cty = _tl
         tier, actor, also_us = actor_tier(
             title, summary, is_gov_publisher=(dom in GOV_DOMAINS),
             topics=classify_topic(title, body[:1500]))
@@ -3107,22 +3157,30 @@ def _substance_hit(it, out):
 # ("koreatimes.co.kr published it, so it must be Korea"). Re-checking every
 # record before it is written is the only way corrections reach carry-overs as
 # well as fresh items.
-def _evidence_for(c, title, body, summary, tag):
+def _evidence_for(c, title, body, summary, tag, strict=False):
+    """Does the copy support country `c`? `strict` requires the TITLE to say it.
+
+    Strict is used when the record also carries "af" — that means the classifier
+    found nothing and the other code came from a query tag. Body text is then
+    unusable: a Thai article about travel advisories lists Myanmar among the
+    countries being warned about, and that mention alone kept the story in the
+    缅甸 module.
+    """
     if c in ("af", "wa"):
         return True
     rx = CTY_RX.get(c)
-    if rx and (rx.search(title) or rx.search(body)):
+    if rx and (rx.search(title) or (not strict and rx.search(body))):
         return True
-    if c in zh_cty_hits(title) or c in zh_cty_hits(body) or c in zh_cty_hits(summary):
+    if c in zh_cty_hits(title) or (not strict and (c in zh_cty_hits(body) or c in zh_cty_hits(summary))):
         return True
-    if c == "ng" and NG_RE.search(title + " " + body):
+    if c == "ng" and NG_RE.search(title + ("" if strict else " " + body)):
         return True
-    if c == "ne" and NE_ONLY.search(title + " " + body):
+    if c == "ne" and NE_ONLY.search(title + ("" if strict else " " + body)):
         return True
     for tbl in (TAG_CTY, SOC_TAG_CTY):
         v = tbl.get(tag or "")
         v = v if isinstance(v, (list, tuple)) else ([v] if v else [])
-        if c in v:
+        if c in v and _tag_anchor_ok(c, "", title if strict else (title + " " + body + " " + summary)):
             return True
     return False
 
@@ -3132,19 +3190,39 @@ def revalidate_ctry(items, kind="news"):
     fixed = 0
     for it in items:
         cur = it.get("country") or []
+        # Defensive: an earlier build could store a tag list as one element
+        # (`country: [["ne","wa"]]`), which made every lookup below raise
+        # TypeError: unhashable type: 'list'. Flatten to plain codes.
+        flat = []
+        for _c in cur:
+            if isinstance(_c, (list, tuple, set)):
+                flat.extend([x for x in _c if isinstance(x, str)])
+            elif isinstance(_c, str):
+                flat.append(_c)
+        if flat != cur:
+            it["country"] = flat
+        cur = flat
         if not cur:
             continue
         title = it.get("title") or ""
         body = (it.get("body") or "")[:1500]
         summary = (it.get("summary") or it.get("snippet") or "")[:600]
         tag = it.get("tag") or it.get("_tag")
-        keep = [c for c in cur if _evidence_for(c, title, body, summary, tag)]
+        _strict = "af" in cur and len(cur) > 1
+        keep = [c for c in cur
+                if _evidence_for(c, title, body, summary, tag, _strict)]
         if keep == cur:
             continue
         fixed += 1
         if not keep:
             anc = TAG_CTY.get(tag or "") or SOC_TAG_CTY.get(tag or "")
             anc = anc if isinstance(anc, (list, tuple)) else ([anc] if anc else [])
+            # The fallback must obey the same corroboration rule, or it puts
+            # back exactly what was just removed: the two items that reached
+            # 缅甸 this way were a Thai foreign-ministry story and a US biotech
+            # story, both from a `cn_mm` angle with no Myanmar in the copy.
+            anc = [c for c in anc
+                   if _tag_anchor_ok(c, "", title + " " + body + " " + summary)]
             keep = list(anc) or ["af"]
         it["country"] = keep
     return fixed
