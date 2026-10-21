@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Trump administration says it has revoked over 300,000 visas",
+   "url": "https://kathmandupost.com/world/2026/10/21/trump-administration-says-it-has-revoked-over-300-000-visas",
+   "content": "The latest figure marks a sharp rise in visa cancellations as the Trump administration intensifies its immigration crackdown, drawing criticism over due process, free speech and alleged racial profiling.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "President Paudel receives Dashain tika at Sheetal Niwas",
    "url": "https://kathmandupost.com/national/2026/10/21/president-paudel-receives-dashain-tika-at-sheetal-niwas",
    "content": "Ramchandra Paudel received tika, jamara and religious offerings from his priest at 10:26am before blessing his wife and other family members.",
@@ -271,13 +278,6 @@
    "title": "What Dashain asks of us this year",
    "url": "https://kathmandupost.com/editorial/2026/10/19/what-dashain-asks-of-us-this-year",
    "content": "From swollen rivers to crowded highways, this year’s Dashain calls for as much care as celebration.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Slay, cringe, scroll, repeat",
-   "url": "https://kathmandupost.com/columns/2026/10/19/slay-cringe-scroll-repeat",
-   "content": "Orwell feared a vocabulary too flat to think in. We managed it ourselves, for free, with filters.",
    "published_date": "",
    "score": 0.6
   }

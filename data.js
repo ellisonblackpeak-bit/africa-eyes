@@ -38,7 +38,7 @@ window.SITE_DATA = {
  "orderMode": "tier_first",
  "highlights": [
   "涉华动态｜China says it is 'safeguarding order' around Taiwan-controlled（koreatimes.co.kr，Wed, 21 Oct 2026）",
-  "涉美动态｜Korean won extends gains against US dollar on strong exports（koreatimes.co.kr，Wed, 21 Oct 2026）",
+  "涉美动态｜Top US envoy cites 'turbulence' in S. Korea-US alliance amid r（koreatimes.co.kr，Wed, 21 Oct 2026）",
   "当地政府动态｜Incheon locals oppose plan to move Overseas Koreans Agency to （koreatimes.co.kr，Wed, 21 Oct 2026）",
   "本期归集：媒体条目 461 条（涉华 100、美国 112、当事国政府 171、其他报道 78；来自 128 家媒体）、社交平台动态 295 条、可追溯发布主体 364 个。时间窗口：近 3 日。"
  ],
@@ -116,7 +116,7 @@ window.SITE_DATA = {
    "source": "Punch（尼日利亚）",
    "published": "Wed, 21 Oct 2026 08:45:38 +0000",
    "_dt": 1792572338.0,
-   "ageDays": 0.0,
+   "ageDays": 0.01,
    "summary": "The World Health Organisation has urged regional vigilance after Nigeria confirmed its first case of Ebola Virus Disease caused by the Bundibugyo virus. Read More: https://punchng.com/nigeria-ebola-case-who-urges-regional-vigilance/",
    "summary_zh": "世界卫生组织在尼日利亚确诊首例由本迪布焦病毒引起的埃博拉病毒病病例后，敦促区域保持警惕。阅读更多：https://punchng.com/nigeria-ebola-case-who-urges-regional-vigilance/",
    "summarySource": "fulltext",
@@ -2821,10 +2821,10 @@ window.SITE_DATA = {
     "eco",
     "sec"
    ],
-   "tier": 4,
-   "actor": "第三方",
+   "tier": 1,
+   "actor": "中国",
    "alsoUS": false,
-   "cnHit": false,
+   "cnHit": true,
    "usHit": false,
    "terrHit": true,
    "riskHit": false,
@@ -2964,6 +2964,38 @@ window.SITE_DATA = {
    "tag": "rss_thehindu",
    "title_zh": "美国特使在与泽连斯基进行‘积极’会谈后将与普京会面",
    "body_zh": "订阅账户福利以及高级故事、社论、观点等。使用订阅解锁这些内容 发布于 - 2026年10月21日 13:21 IST - 圣彼得堡 美国特使史蒂夫·威特科夫于周三（2026年10月21日）早些时候抵达圣彼得堡，与俄罗斯总统弗拉基米尔·普京会面，此前美国国务卿马可·鲁比奥将与乌克兰总统沃洛迪米尔·泽连斯基的会谈描述为“积极的”。特朗普总统的特使此次访问是为了结束他与泽连斯基先生之间因对俄战争而产生的激烈争执。在奥斯陆与威特科夫先生会谈后，泽连斯基先生于周二（2026年10月20日）感谢华盛顿恢复美国关于俄罗斯打击的情报共享。这种积极语气是在基辅与华盛顿之间出现数日摩擦之后出现的，此前特朗普先生与普京先生达成柴油供应协议，并在乌克兰拒绝停止打击俄罗斯炼油厂后呼吁更换泽连斯基先生。“我们感谢情报发挥作用，”泽连斯基先生在奥斯陆告诉记者，他将早期预警描述为“对我们的人民、儿童、成人、平民非常非常重要”，当时弹道导弹即将袭击。鲁比奥先生在访问印度期间表示，在与泽连斯基先生进行“积极”会谈后，威特科夫先生接下来将前往俄罗斯。“他现在将带着这些想法，能够前往圣彼得堡并与俄罗斯方面分享它们——让我们看看我们是否能取得一些进展，”鲁比奥先生说。威特科夫先生计划于周三（2026年10月21日）与普京先生举行的会晤将包括特朗普先生的女婿贾里德·库什纳以虚拟方式参与，一名美国官员告诉法新社。威特科夫先生的特使在圣彼得堡普尔科沃机场受到克里姆林宫国际经济合作顾问基里尔·德米特里耶夫的迎接，据新闻机构报道。特朗普先生于周二（2026年10月20日）表示，他已要求普京释放斯蒂芬·哈伯德，一名多年前在乌克兰被俄罗斯部队俘虏的美国人，尽管目前尚不清楚这一请求是否会在周三（2026年10月21日）的会谈中提出。“我一直在与他详细交谈。我已要求他释放他。让我们看看会发生什么，”特朗普先生在华盛顿告诉记者。特朗普先生也一直在向乌克兰施压，他在白宫表示希望泽连斯基先生与俄罗斯“达成协议”，俄罗斯正在加大打击力度，因为严寒的冬天即将来临。上周呼吁泽连斯基先生辞职的特朗普先生还批评乌克兰总统没有接受他所说的他在2025年2月椭圆形办公室那次臭名昭著的电视争吵中提出的条件。在特朗普先生还取消对俄罗斯战争机器的制裁后，乌克兰作出沮丧的反应。争执升级，因为泽连斯基先生指责特朗普先生软弱，然后声称美国故意扣留重要情报并延迟拦截导弹的交付。乌克兰还报告称，其用于战场通信和打击俄罗斯占领区的美国军用卫星系统“星盾”的速度有所降低。特朗普先生否认下令降低“星盾”的速度，此前埃隆·马斯克——其公司SpaceX开发了该系统——表示该命令只能来自白宫。鲁比奥先生于周三（2026年10月21日）表示，华盛顿事先并不知道SpaceX卫星通信的减速。“总统与星链和星盾以及马斯克先生所做的决定无关，”鲁比奥先生在孟买说。《华尔街日报》于周二（2026年10月20日）报道，确实是马斯克先生下令降低军用版星链的速度。威特科夫先生的会晤是在华盛顿、基辅和西方各国首都进行激烈外交努力以平息争执之后进行的。泽连斯基先生于周一（2026年10月19日）告诉美国参议员，“五角大楼正在延迟交付导弹”，这些导弹已由欧洲国家支付费用，而运输正在等待美国国防部长皮特·黑格塞斯的签字。他说，几个欧洲国家准备从自己的库存中转移爱国者拦截导弹，但正在等待美国的批准。面临燃料价格飙升而共和党面临艰难中期选举的特朗普先生指责泽连斯基先生缺乏解决冲突的努力。他说他准备下个月在中国会见普京先生和中国领导人习近平讨论无核化，并补充说会谈也可能涵盖乌克兰战争——这在基辅引发担忧，认为它正在被边缘化。泽连斯基先生于周二（2026年10月20日）坚持认为，基辅需要在任何关于乌克兰未来的会议上得到代表。“如果有关于乌克兰的问题、我们的未来，只有当我们坐在谈判桌前时，这才是可以接受的，”他说。评论必须用英语，并使用完整句子。它们不能是辱骂性或个人性的。请遵守我们的社区准则来发布您的评论。我们已迁移到新的评论平台。如果您已经是《印度教徒报》的注册用户并已登录，您可以继续与我们的文章互动。如果您没有账户，请注册并登录以发布评论。用户可以通过登录他们在Vuukle上的账户来访问他们以前的评论。"
+  },
+  {
+   "title": "Five Reputable Solar Bracket Manufacturers in China 2026: Advancing Solar Energy Infrastructure",
+   "url": "https://www.einnews.com/pr_news/951157298/five-reputable-solar-bracket-manufacturers-in-china-2026-advancing-solar-energy-infrastructure",
+   "domain": "einnews.com",
+   "source": "einnews.com",
+   "published": "Wed, 21 Oct 2026 07:46:53 GMT",
+   "_dt": 1792568813.0,
+   "ageDays": 0.05,
+   "summary": "据 einnews.com 报道：Five Reputable Solar Bracket Manufacturers in China 2026: Advancing Solar Energy Infrastructure - EIN Presswire。该来源未开放正文与摘要，点击下方原文可查看完整内容。",
+   "summary_zh": "据 einnews.com 报道：2026年中国五家知名太阳能支架制造商：推进太阳能基础设施建设 - EIN Presswire。该来源未开放正文与摘要，点击下方原文可查看完整内容。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "ph"
+   ],
+   "topic": [
+    "ene"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "riskHit": false,
+   "riskKind": "",
+   "score": 0.0,
+   "tag": "cn_ph",
+   "title_zh": "2026年中国五家知名太阳能支架制造商：推进太阳能基础设施建设"
   },
   {
    "title": "Fintiri Promises Free Medical Outreaches For Insurgency-Affected Communities",
@@ -9746,6 +9778,37 @@ window.SITE_DATA = {
    "title_zh": "Asantehene支持GoldBod和政府的矿业部门改革"
   },
   {
+   "title": "Uzbek president meets Chinese premier",
+   "url": "https://www.myanmaritv.com/news/uzbek-president-meets-chinese-premier",
+   "domain": "myanmaritv.com",
+   "source": "myanmaritv.com",
+   "published": "Tue, 20 Oct 2026 08:00:00 GMT",
+   "_dt": 1792483200.0,
+   "ageDays": 1.04,
+   "summary": "据 myanmaritv.com 报道：Uzbek president meets Chinese premier | Myanmar International TV。该来源未开放正文与摘要，点击下方原文可查看完整内容。",
+   "summary_zh": "据 myanmaritv.com 报道：乌兹别克斯坦总统会见中国总理 | 缅甸国际电视台。该来源未开放正文与摘要，点击下方原文可查看完整内容。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "riskHit": false,
+   "riskKind": "",
+   "score": 0.0,
+   "tag": "mm_wide",
+   "title_zh": "乌兹别克斯坦总统会见中国总理"
+  },
+  {
    "title": "Killing of ISWAP commander, good omen",
    "url": "https://www.facebook.com/punchnewspaper/posts/%F0%9D%97%9E%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%9C%F0%9D%97%A6%F0%9D%97%AA%F0%9D%97%94%F0%9D%97%A3-%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%B4%F0%9D%97%BC%F0%9D%97%BC%F0%9D%97%B1-%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB-the-killing-of-iswap-commander-abdussamad-o/1591039333060244",
    "domain": "facebook.com",
@@ -9771,11 +9834,11 @@ window.SITE_DATA = {
    "cnHit": false,
    "usHit": false,
    "terrHit": true,
+   "riskHit": false,
+   "riskKind": "",
    "score": 0.0,
    "tag": "ter_iswap",
-   "title_zh": "杀死伊斯兰国西非省指挥官，是好兆头",
-   "riskHit": false,
-   "riskKind": ""
+   "title_zh": "杀死伊斯兰国西非省指挥官，是好兆头"
   },
   {
    "title": "US court jails Nigerian eight years, orders $10.8m forfeiture",
@@ -11221,7 +11284,7 @@ window.SITE_DATA = {
    "riskHit": false,
    "riskKind": "",
    "score": 0.0,
-   "tag": "cn_cnpc",
+   "tag": "cn_agadem",
    "title_zh": "尼日尔油井井喷仍未得到控制"
   },
   {
@@ -11509,11 +11572,11 @@ window.SITE_DATA = {
    "cnHit": true,
    "usHit": true,
    "terrHit": false,
-   "score": 0.0,
-   "tag": "cn_fined",
-   "title_zh": "美国因前谷歌工程师窃取人工智能商业秘密而制裁5家中国实体",
    "riskHit": false,
-   "riskKind": ""
+   "riskKind": "",
+   "score": 0.0,
+   "tag": "cn_court",
+   "title_zh": "美国因前谷歌工程师窃取人工智能商业秘密而制裁5家中国实体"
   },
   {
    "title": "Teodoro: China uses propaganda to sow division among Filipinos",
@@ -11607,7 +11670,7 @@ window.SITE_DATA = {
    "riskHit": false,
    "riskKind": "",
    "score": 0.0,
-   "tag": "cn_cnpc",
+   "tag": "cn_agadem",
    "title_zh": "尼日尔‘异常严重’的油井喷发引发对受威胁沙漠野生动物的担忧"
   },
   {
@@ -12966,7 +13029,7 @@ window.SITE_DATA = {
    "bodyLevel": "excerpt",
    "country": [
     "af",
-    "la"
+    "ne"
    ],
    "topic": [
     "pol"
@@ -12980,7 +13043,7 @@ window.SITE_DATA = {
    "riskHit": false,
    "riskKind": "",
    "score": 0.0,
-   "tag": "cn_la",
+   "tag": "cn_ne",
    "title_zh": "布隆迪与美国支持的公司签署14亿美元电力协议"
   },
   {
@@ -14218,6 +14281,38 @@ window.SITE_DATA = {
    "title_zh": "马里：军方袭击平民，叛乱分子实施虐待"
   },
   {
+   "title": "China industrial output, retail sales beat forecasts in September",
+   "url": "https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
+   "domain": "investing.com",
+   "source": "investing.com",
+   "published": "Mon, 19 Oct 2026 02:29:38 GMT",
+   "_dt": 1792376978.0,
+   "ageDays": 2.27,
+   "summary": "据 investing.com 报道：China industrial output, retail sales beat forecasts in September。该来源未开放正文与摘要，点击下方原文可查看完整内容。",
+   "summary_zh": "据investing.com报道：中国9月工业产出和零售销售超出预期。该来源未开放正文与摘要，点击下方原文可查看完整内容。",
+   "summarySource": "index",
+   "body": "",
+   "bodyLevel": "excerpt",
+   "country": [
+    "af",
+    "ng"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 1,
+   "actor": "中国",
+   "alsoUS": false,
+   "cnHit": true,
+   "usHit": false,
+   "terrHit": false,
+   "riskHit": false,
+   "riskKind": "",
+   "score": 0.0,
+   "tag": "cn_ng",
+   "title_zh": "中国9月工业产出和零售销售超出预期"
+  },
+  {
    "title": "China Q3 GDP grows 4.5%, slightly more than expected",
    "url": "https://www.investing.com/news/economic-indicators/china-q3-gdp-grows-45-slightly-more-than-expected-4956217",
    "domain": "investing.com",
@@ -14421,7 +14516,7 @@ window.SITE_DATA = {
    "bodyLevel": "excerpt",
    "country": [
     "af",
-    "ml"
+    "ne"
    ],
    "topic": [
     "min"
@@ -14435,7 +14530,7 @@ window.SITE_DATA = {
    "riskHit": false,
    "riskKind": "",
    "score": 0.0,
-   "tag": "cn_ml",
+   "tag": "cn_ne",
    "title_zh": "为什么巨额美国赤字可能为黄金设定底线"
   },
   {
@@ -21893,6 +21988,184 @@ window.SITE_DATA = {
    "body_zh": "中国大使表示北京可以“轻松赢得”与菲律宾的战争，现在马尼拉已就这一威胁召见他，而南海紧张局势暴露了外交辞令可能多么迅速地将该地区推向冲突。\n\nhttps://chinaglobalsouth.com/2026/10/19/philippines-summons-chinese-ambassador-conflict-warning/"
   },
   {
+   "platform": "facebook",
+   "title": "This policy aims to boost earnings from the sector and combat illegal activities.",
+   "url": "https://www.facebook.com/asaase99.5/posts/goldbods-reforms-in-ghanas-gold-sector-have-directly-generated-over-1300-jobs-im/1476986961308949/",
+   "snippet": "2 days ago · This policy aims to boost earnings from the sector and combat illegal activities. Further reinforcing the sector's growth, Gyamfi pointed to the ...",
+   "body": "2 days ago · This policy aims to boost earnings from the sector and combat illegal activities. Further reinforcing the sector's growth, Gyamfi pointed to the ...",
+   "bodyLevel": "excerpt",
+   "author": "asaase99.5",
+   "handle": "@asaase99.5",
+   "country": [
+    "af"
+   ],
+   "topic": [
+    "pol",
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "riskHit": false,
+   "riskKind": "",
+   "ageDays": 2.0,
+   "_ts": 1792400171.098547,
+   "postedAt": "2026-10-19 16:56",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government GoldBod mining gold economy policy",
+   "title_zh": "这项政策旨在增加该行业的收入并打击非法活动。",
+   "snippet_zh": "2天前 · 这项政策旨在提高该部门的收入并打击非法活动。进一步加强该部门的增长，贾姆菲指出……",
+   "body_zh": "2天前 · 这项政策旨在提高该部门的收入并打击非法活动。进一步加强该部门的增长，贾姆菲指出……"
+  },
+  {
+   "platform": "facebook",
+   "title": "NPP's silence on economic indicators suggests Mahama is doing better",
+   "url": "https://www.facebook.com/JoyNewsOnTV/posts/npps-silence-on-economic-indicators-suggests-mahama-is-doing-better-haruna-iddri/1466491702341891/",
+   "snippet": "2 days ago · Reflecting on Mahama's tenure, Opare-Ansah noted that the economy experienced an annual growth rate of 8.8% from 2012 but dropped to 3.4% by the ...",
+   "body": "2 days ago · Reflecting on Mahama's tenure, Opare-Ansah noted that the economy experienced an annual growth rate of 8.8% from 2012 but dropped to 3.4% by the ...",
+   "bodyLevel": "excerpt",
+   "author": "JoyNewsOnTV",
+   "handle": "@JoyNewsOnTV",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "eco"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "riskHit": false,
+   "riskKind": "",
+   "ageDays": 2.0,
+   "_ts": 1792400171.098547,
+   "postedAt": "2026-10-19 16:56",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "NPP 对经济指标的沉默表明马哈马做得更好",
+   "snippet_zh": "2天前 · 回顾马哈马的任期，奥帕雷-安萨指出，经济从2012年起经历了8.8%的年增长率，但到……",
+   "body_zh": "2天前 · 回顾马哈马的任期，奥帕雷-安萨指出，经济从2012年起经历了8.8%的年增长率，但到……"
+  },
+  {
+   "platform": "facebook",
+   "title": "Kojo Oppong Nkrumah filed a formal motion in Parliament.",
+   "url": "https://www.facebook.com/Channel1tvgh/posts/goldbod-ceo-sammy-gyamfi-has-explained-that-the-establishment-costs-captured-in-/1640495621450007/",
+   "snippet": "2 days ago · Kojo Oppong Nkrumah filed a formal motion in Parliament. He called for a bipartisan probe to investigate exactly where these millions went and ...",
+   "body": "2 days ago · Kojo Oppong Nkrumah filed a formal motion in Parliament. He called for a bipartisan probe to investigate exactly where these millions went and ...",
+   "bodyLevel": "excerpt",
+   "author": "Channel1tvgh",
+   "handle": "@Channel1tvgh",
+   "country": [
+    "af"
+   ],
+   "topic": [
+    "pol"
+   ],
+   "tier": 4,
+   "actor": "第三方",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "riskHit": false,
+   "riskKind": "",
+   "ageDays": 2.0,
+   "_ts": 1792400171.098547,
+   "postedAt": "2026-10-19 16:56",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "科乔·奥蓬·恩克鲁玛在议会提交了一项正式动议。",
+   "snippet_zh": "2天前 · Kojo Oppong Nkrumah在议会提交了一项正式动议。他呼吁进行两党调查，以确切查明这些数百万资金的去向和……",
+   "body_zh": "2天前 · Kojo Oppong Nkrumah在议会提交了一项正式动议。他呼吁进行两党调查，以确切查明这些数百万资金的去向和……"
+  },
+  {
+   "platform": "facebook",
+   "title": "GoldBod terminates US$1 billion Goldstream deal in Ghana",
+   "url": "https://www.facebook.com/gomashie.wisdomfaraday/posts/the-africa-policy-lens-on-the-matters-of-ghana-gold-board-goldbod-dealings-with-/28121184304225648/",
+   "snippet": "2 days ago · The post criticizes the Gold Board of Ghana, Sammy Gyamfi, and John Dramani Mahama for abandoning the first national refinery, questioning the ...",
+   "body": "2 days ago · The post criticizes the Gold Board of Ghana, Sammy Gyamfi, and John Dramani Mahama for abandoning the first national refinery, questioning the ...",
+   "bodyLevel": "excerpt",
+   "author": "gomashie.wisdomfaraday",
+   "handle": "@gomashie.wisdomfaraday",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "ene",
+    "min"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "riskHit": false,
+   "riskKind": "",
+   "ageDays": 2.0,
+   "_ts": 1792400171.098547,
+   "postedAt": "2026-10-19 16:56",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "加纳黄金局终止与Goldstream的10亿美元交易",
+   "snippet_zh": "2天前·该帖子批评加纳黄金局、萨米·贾姆菲和约翰·德拉马尼·马哈马放弃了第一个国家炼油厂，对……提出质疑……",
+   "body_zh": "2天前·该帖子批评加纳黄金局、萨米·贾姆菲和约翰·德拉马尼·马哈马放弃了第一个国家炼油厂，对……提出质疑……"
+  },
+  {
+   "platform": "facebook",
+   "title": "This move is designed to stabilize the cedi and strengthen Ghana's gold reserves.",
+   "url": "https://www.facebook.com/JoyNewsOnTV/posts/public-accounts-committee-hearing-goldbod-is-on-track-8090-of-gold-mined-in-ghan/1466526112338450/",
+   "snippet": "2 days ago · This move is designed to stabilize the cedi and strengthen Ghana's gold reserves. Under Gyamfi's leadership, GoldBod has earned praise from ...",
+   "body": "2 days ago · This move is designed to stabilize the cedi and strengthen Ghana's gold reserves. Under Gyamfi's leadership, GoldBod has earned praise from ...",
+   "bodyLevel": "excerpt",
+   "author": "JoyNewsOnTV",
+   "handle": "@JoyNewsOnTV",
+   "country": [
+    "gh"
+   ],
+   "topic": [
+    "eco",
+    "min"
+   ],
+   "tier": 3,
+   "actor": "当事国政府",
+   "alsoUS": false,
+   "cnHit": false,
+   "usHit": false,
+   "terrHit": false,
+   "riskHit": false,
+   "riskKind": "",
+   "ageDays": 2.0,
+   "_ts": 1792400171.098547,
+   "postedAt": "2026-10-19 16:56",
+   "hasBody": false,
+   "grokSummary": false,
+   "engine": "",
+   "note": "该平台上游仅返回标题与摘要，无法取得正文，请点击原帖查看完整内容。",
+   "tag": "Ghana government ministry GoldBod Mahama policy",
+   "title_zh": "此举旨在稳定塞地并加强加纳的黄金储备。",
+   "snippet_zh": "2天前 · 此举旨在稳定塞地并加强加纳的黄金储备。在Gyamfi的领导下，GoldBod获得了……的赞扬",
+   "body_zh": "2天前 · 此举旨在稳定塞地并加强加纳的黄金储备。在Gyamfi的领导下，GoldBod获得了……的赞扬"
+  },
+  {
    "platform": "x",
    "title": "CBN wants to make payments to Chinese suppliers easier for Nigerian businesses.",
    "url": "https://x.com/techsomaafrica/status/2112102558433222890",
@@ -25904,32 +26177,6 @@ window.SITE_DATA = {
    "duty": "个人账号。发布内容聚焦尼日利亚的能源议题，主要涉及NNPC已将其汽油泵价从₦1,370提高至₦1,405。。其职务与所属机构以本人公开档案页为准。"
   },
   {
-   "name": "Dragonobserwer",
-   "type": "个人",
-   "role": "个人账号 / 公开帖文发布者",
-   "org": "",
-   "country": [
-    "in"
-   ],
-   "profiles": [
-    {
-     "platform": "x",
-     "url": "https://x.com/Dragonobserwer",
-     "handle": "@Dragonobserwer"
-    }
-   ],
-   "items": 1,
-   "topics": [
-    "sec"
-   ],
-   "roleHint": "",
-   "verified": false,
-   "verifiedNote": "账号身份来自搜索引擎索引，未回原页二次确认",
-   "basis": "本次采集自该账号公开帖文 1 条（X）",
-   "contact": "经 X 公开主页联络",
-   "duty": "个人账号。发布内容聚焦西非地区的安全议题，主要涉及关于印度如何每天将中国视为敌对国家，公开教导如何分裂和对抗中国，到处结成小集团。其职务与所属机构以本人公开档案页为准。"
-  },
-  {
    "name": "grok",
    "type": "机构",
    "role": "机构账号 / 信息发布方",
@@ -26581,8 +26828,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "ORF_CNED",
    "country": [
-    "ph",
-    "kr"
+    "kr",
+    "ph"
    ],
    "profiles": [
     {
@@ -30332,8 +30579,8 @@ window.SITE_DATA = {
    "role": "机构账号 / 信息发布方",
    "org": "9DashLine",
    "country": [
-    "la",
-    "vn"
+    "vn",
+    "la"
    ],
    "profiles": [
     {
@@ -31838,27 +32085,27 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "Punch（尼日利亚） 编辑部",
+   "name": "Leadership（尼日利亚） 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
-   "org": "Punch（尼日利亚）",
+   "org": "Leadership（尼日利亚）",
    "country": [
     "ng"
    ],
    "profiles": [
     {
      "platform": "news",
-     "url": "https://punchng.com/",
+     "url": "https://leadership.ng/",
      "handle": ""
     }
    ],
-   "items": 24,
+   "items": 22,
    "topics": [],
    "roleHint": "",
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 24 条",
-   "contact": "https://punchng.com/（机构主页）",
+   "basis": "本次采集自该媒体公开报道 22 条",
+   "contact": "https://leadership.ng/（机构主页）",
    "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -32020,12 +32267,12 @@ window.SITE_DATA = {
      "handle": ""
     }
    ],
-   "items": 8,
+   "items": 9,
    "topics": [],
    "roleHint": "",
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 8 条",
+   "basis": "本次采集自该媒体公开报道 9 条",
    "contact": "https://modernghana.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
@@ -32369,14 +32616,14 @@ window.SITE_DATA = {
    "name": "nytimes.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
-   "org": "nytimes.com",
+   "org": "instagram.com",
    "country": [
     "af"
    ],
    "profiles": [
     {
      "platform": "news",
-     "url": "https://nytimes.com",
+     "url": "https://instagram.com",
      "handle": ""
     }
    ],
@@ -32386,7 +32633,7 @@ window.SITE_DATA = {
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 2 条",
-   "contact": "https://nytimes.com（机构主页）",
+   "contact": "https://instagram.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -32630,17 +32877,17 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "chinaglobalsouth.com 编辑部",
+   "name": "investing.com 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
-   "org": "chinaglobalsouth.com",
+   "org": "investing.com",
    "country": [
     "af"
    ],
    "profiles": [
     {
      "platform": "news",
-     "url": "https://chinaglobalsouth.com",
+     "url": "https://investing.com",
      "handle": ""
     }
    ],
@@ -32650,7 +32897,7 @@ window.SITE_DATA = {
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 2 条",
-   "contact": "https://chinaglobalsouth.com（机构主页）",
+   "contact": "https://investing.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -32659,7 +32906,7 @@ window.SITE_DATA = {
    "role": "报道发布方（编辑部）",
    "org": "therealmediang.com",
    "country": [
-    "af"
+    "ng"
    ],
    "profiles": [
     {
@@ -32746,7 +32993,55 @@ window.SITE_DATA = {
    "verified": true,
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://push.abs-cbn.com（机构主页）",
+   "contact": "https://www.thecable.ng/（机构主页）",
+   "duty": "该媒体的编辑部，负责尼日利亚等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "therealmediang.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "therealmediang.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://therealmediang.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://therealmediang.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "english.news.cn 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "english.news.cn",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://english.news.cn",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://english.news.cn（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -33326,6 +33621,30 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
+   "name": "myanmaritv.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "myanmaritv.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://myanmaritv.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://myanmaritv.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
    "name": "icirnigeria.org 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -33371,30 +33690,6 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://biospectrumasia.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
-   "name": "myanmaritv.com 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "myanmaritv.com",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://myanmaritv.com",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://myanmaritv.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
@@ -34598,30 +34893,6 @@ window.SITE_DATA = {
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   },
   {
-   "name": "investing.com 编辑部",
-   "type": "媒体机构",
-   "role": "报道发布方（编辑部）",
-   "org": "investing.com",
-   "country": [
-    "af"
-   ],
-   "profiles": [
-    {
-     "platform": "news",
-     "url": "https://investing.com",
-     "handle": ""
-    }
-   ],
-   "items": 1,
-   "topics": [],
-   "roleHint": "",
-   "verified": true,
-   "verifiedNote": "机构主页，本次已实测可访问",
-   "basis": "本次采集自该媒体公开报道 1 条",
-   "contact": "https://investing.com（机构主页）",
-   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
-  },
-  {
    "name": "itif.org 编辑部",
    "type": "媒体机构",
    "role": "报道发布方（编辑部）",
@@ -34811,6 +35082,30 @@ window.SITE_DATA = {
    "verifiedNote": "机构主页，本次已实测可访问",
    "basis": "本次采集自该媒体公开报道 1 条",
    "contact": "https://sldinfo.com（机构主页）",
+   "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
+  },
+  {
+   "name": "nytimes.com 编辑部",
+   "type": "媒体机构",
+   "role": "报道发布方（编辑部）",
+   "org": "nytimes.com",
+   "country": [
+    "af"
+   ],
+   "profiles": [
+    {
+     "platform": "news",
+     "url": "https://nytimes.com",
+     "handle": ""
+    }
+   ],
+   "items": 1,
+   "topics": [],
+   "roleHint": "",
+   "verified": true,
+   "verifiedNote": "机构主页，本次已实测可访问",
+   "basis": "本次采集自该媒体公开报道 1 条",
+   "contact": "https://nytimes.com（机构主页）",
    "duty": "该媒体的编辑部，负责非洲整体等国家与地区政治、经济、安全、能源、矿产领域新闻的采访、编辑与发布；本次采集到其公开报道。"
   }
  ],
