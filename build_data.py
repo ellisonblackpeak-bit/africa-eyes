@@ -448,8 +448,20 @@ CTY_MARKERS = {
            "maiduguri", "tinubu", "nnpc", "naira", "borno", "zamfara", "niger delta",
            "niger state", "port harcourt", "katsina", "sokoto", "efcc", "nass", "cbn",
            "dangote", "ondo", "anambra", "imo state", "plateau state", "benue",
+           "ogun", "kwara", "kebbi", "bauchi", "gombe", "yobe", "adamawe",
+           "adamawa", "taraba", "nasarawa", "kogi", "oyo", "ekiti", "edo",
+           "delta state", "bayelsa", "rivers state", "akwa ibom", "cross river",
+           "abia", "enugu", "ebonyi", "jigawa",
            "尼日利亚", "尼联邦", "阿布贾", "拉各斯", "卡诺", "卡杜纳", "高原州",
-           "迈杜古里", "博尔诺", "扎姆法拉", "蒂努布"],
+           "迈杜古里", "博尔诺", "扎姆法拉", "蒂努布",
+           # Nigerian states in Chinese. Needed by the duplicate check as much as
+           # by country tagging: without them "奥贡州议会通过…" and "高原州议会
+           # 通过…" looked like the same headline and one law was deleted.
+           "奥贡", "翁多", "贝努埃", "阿南布拉", "卡齐纳", "索科托", "凯比",
+           "包奇", "贡贝", "约贝", "阿达马瓦", "塔拉巴", "纳萨拉瓦", "科吉",
+           "夸拉", "奥约", "埃基蒂", "埃多州", "三角洲州", "巴耶尔萨",
+           "河流州", "阿夸伊博姆", "十字河", "阿比亚", "埃努古", "埃博尼",
+           "伊莫州", "吉加瓦", "尼日尔州", "联邦首都特区"],
     "ne": ["nigerien", "niamey", "tiani", "somair", "orano", "agadez", "tillaberi",
            "imouraren", "cnsp", "bazoum", "niger republic", "republic of niger",
            "niger's", "niger junta", "niger government", "niger army",
@@ -1157,6 +1169,62 @@ def _strip_pipe_tail(t):
     return " | ".join(p.strip() for p in parts)
 
 
+# ── masthead tails the list above cannot know ──
+# Publisher names are effectively unbounded ("The Eastleigh Voice", "真相尼日利亚",
+# "国防新闻", "商业内幕非洲"), so the rule is: the LAST segment of a headline is
+# furniture when it carries no clause — no verb-shaped punctuation, short, and
+# either Latin-only or a Chinese outlet name. 38 live headlines ended in one.
+_TAIL_SEP_RX = re.compile(r"\s+(?:[|｜•·ᐉ]|[-–—])\s+")
+# Chinese words that end an outlet name. A headline ending in 新闻 / 日报 / 时报
+# is ending in a masthead; a headline ending in 报道 is not.
+_ZH_OUTLET_TAIL_RX = re.compile(
+    r"(新闻|日报|晚报|时报|周报|晨报|商报|邮报|先驱报|都市报|导报|观察者|"
+    r"通讯社|电视台|广播|在线|网|网站|报|杂志|周刊|月刊|社)$")
+_ZH_OUTLET_NAMES = {
+    "南华早报", "真相尼日利亚", "商业内幕非洲", "中国-全球南方项目",
+    "埃尔克福德区", "国防新闻", "伊拉克新闻", "南亚先驱报", "半岛电视台",
+    "环球时报", "参考消息", "澎湃新闻", "财新", "界面新闻", "观察者网",
+    "今日头条", "纽约时报", "华盛顿邮报", "华尔街日报", "金融时报",
+    "路透社", "法新社", "美联社", "彭博社", "英国广播公司",
+}
+# A tail with no Chinese character is a foreign publisher name ("Demócrata",
+# "نون بوست"), whatever the script. \x20-\x7e alone missed the accented and
+# Arabic ones.
+_LATIN_TAIL_RX = re.compile(r"^[^\u4e00-\u9fff]+$")
+
+
+def _strip_masthead_tail(t):
+    """Drop trailing publisher segments: "… - The Eastleigh Voice", "… | 国防新闻"."""
+    if not t:
+        return t
+    s = t.strip()
+    for _ in range(3):                   # "… - 世界 - Fakti.bg" has two
+        parts = _TAIL_SEP_RX.split(s)
+        if len(parts) < 2:
+            break
+        last = parts[-1].strip(" .·•")
+        if not last or len(last) > 26:
+            break
+        if re.search(r"[。！？!?；;：:，,]$", last):
+            break
+        rest = " ".join(parts[:-1]).strip()
+        if len(rest) < 14:               # never reduce a headline to a stub
+            break
+        cjk = bool(re.search(r"[\u4e00-\u9fa5]", last))
+        drop = False
+        if not cjk and _LATIN_TAIL_RX.match(last):
+            # "Plans to Shift Exports" is ASCII too, so require the segment to
+            # read like a name: no more than four words, no sentence verb tail.
+            drop = len(last.split()) <= 4
+        elif cjk and (last in _ZH_OUTLET_NAMES
+                      or (len(last) <= 12 and _ZH_OUTLET_TAIL_RX.search(last))):
+            drop = True
+        if not drop:
+            break
+        s = rest
+    return s
+
+
 def _cut_dangling(t, limit=150):
     """Drop a truncated tail and any over-long tail, always at a clause edge.
 
@@ -1186,7 +1254,7 @@ def _cut_dangling(t, limit=150):
 
 def tidy_headline(t):
     """Everything a headline needs after cleaning: no links, no furniture, no cut."""
-    return _cut_dangling(_strip_pipe_tail(strip_links(t)))
+    return _cut_dangling(_strip_masthead_tail(_strip_pipe_tail(strip_links(t))))
 
 
 # A masthead the CMS cut in half ("… | South China Morning…", "… - Auto…").
@@ -1212,6 +1280,7 @@ def tidy_zh_title(t):
     s = strip_links(t)
     s = re.sub(r"(?<![A-Za-z])U\.\s*(?:…|\.{2,})", "U.S.", s)
     s = _TRUNC_MASTHEAD_RX.sub("", s)
+    s = _strip_masthead_tail(_strip_pipe_tail(s))
     s = _ZH_TAIL_RX.sub("", s).strip(" -–—|·,，:：、")
     # Trailing on 的/和/将 leaves the reader mid-sentence; cut back to the last
     # full clause if there is one.
@@ -2451,24 +2520,279 @@ def _title_key(it):
     return (it.get("title_zh") or it.get("title") or "").strip()
 
 
-def _dup_hit(key, sh, kept, th=0.68, floor=8):
+# ── event fingerprints, used to veto a false merge ──
+# Character trigrams cannot tell "Ogun State Assembly passes state police bill"
+# from "Plateau State Assembly passes state police bill": same template, one word
+# of substance swapped, 0.67 similar. Merging them would delete a real story.
+# The difference is always an entity — a place, a figure, an amount — so two
+# headlines may only be treated as the same event when their entities agree.
+_NUM_RX = re.compile(r"\d[\d,.]*")
+_EVENT_WORDS = sorted({w for _ws in CTY_MARKERS.values() for w in _ws},
+                      key=len, reverse=True)
+
+# Country and region names are NOT event fingerprints. Every Nigerian story says
+# "Nigeria", so including it would make "Ogun Assembly passes state police bill"
+# and "Plateau Assembly passes state police bill" agree on a shared place and be
+# merged — deleting one of two real laws. Only sub-national names distinguish
+# events, so only those are collected.
+_NATION_WORDS = {
+    "nigeria", "nigerian", "nigerians", "尼日利亚", "尼联邦",
+    "ghana", "ghanaian", "ghanaians", "ghanian", "加纳",
+    "mali", "malian", "malien", "马里",
+    "niger", "nigerien", "niger's", "niger republic", "republic of niger",
+    "niger junta", "niger government", "niger army", "尼日尔",
+    "ecowas", "sahel", "sahelian", "west africa", "west african",
+    "regional bloc", "alliance of sahel", "aes states", "gulf of guinea",
+    "economic community", "coastal states",
+    "korea", "korean", "朝鲜", "韩国", "韩方", "韩半岛", "朝鲜半岛",
+    "philippines", "philippine", "filipino", "菲律宾", "菲方",
+    "myanmar", "burma", "burmese", "缅甸",
+    "russia", "russian", "俄罗斯",
+    "india", "indian", "印度",
+    "nepal", "nepali", "nepalese", "尼泊尔", "尼方",
+    "vietnam", "vietnamese", "越南",
+    "laos", "lao", "laotian", "老挝", "老方",
+    "south china sea", "west philippine sea", "南海",
+    "line of actual control", "lac", "实控线",
+}
+
+# One place, several spellings. A story moves between outlets and the paper
+# switches between the city and the district ("Abuja confirms Ebola case" vs
+# "Federal Capital Territory confirms Ebola case") — without this they read as
+# two places and the duplicate survives. Keys are folded to lower case.
+_ADMIN_ALIAS = {
+    # ── Nigeria: 36 states + FCT ──
+    "fct": "abuja", "federal capital territory": "abuja", "联邦首都特区": "abuja",
+    "阿布贾": "abuja", "abuja": "abuja",
+    "拉各斯": "lagos", "港口哈科特": "port harcourt", "哈科特港": "port harcourt",
+    "卡诺": "kano", "卡杜纳": "kaduna", "迈杜古里": "maiduguri",
+    "博尔诺": "borno", "扎姆法拉": "zamfara", "卡齐纳": "katsina",
+    "索科托": "sokoto", "奥贡": "ogun", "翁多": "ondo", "阿南布拉": "anambra",
+    "伊莫州": "imo state", "高原州": "plateau state", "贝努埃": "benue",
+    "凯比": "kebbi", "包奇": "bauchi", "贡贝": "gombe", "约贝": "yobe",
+    "阿达马瓦": "adamawa", "亚当瓦": "adamawa", "塔拉巴": "taraba",
+    "纳萨拉瓦": "nasarawa", "科吉": "kogi", "夸拉": "kwara", "奥约": "oyo",
+    "埃基蒂": "ekiti", "埃多州": "edo", "三角洲州": "delta state",
+    "巴耶尔萨": "bayelsa", "河流州": "rivers state", "阿夸伊博姆": "akwa ibom",
+    "十字河": "cross river", "阿比亚": "abia", "埃努古": "enugu",
+    "埃博尼": "ebonyi", "吉加瓦": "jigawa", "尼日尔州": "niger state",
+    "尼日尔三角洲": "niger delta", "拉各斯州": "lagos",
+    # ── Niger / Mali / Ghana ──
+    "尼亚美": "niamey", "阿加德兹": "agadez", "阿尔利特": "arlit",
+    "塔瓦": "tahoua", "蒂拉贝里": "tillaberi", "津德尔": "zinder",
+    "迪法": "diffa", "多索": "dosso",
+    "巴马科": "bamako", "通布图": "timbuktu", "加奥": "gao", "基达尔": "kidal",
+    "莫普提": "mopti", "塞古": "segou", "锡卡索": "sikasso", "卡耶斯": "kayes",
+    "梅纳卡": "menaka", "阿扎瓦德": "azawad",
+    "阿克拉": "accra", "库马西": "kumasi", "特马": "tema", "塔马利": "tamale",
+    "塔科拉迪": "takoradi", "奥布阿西": "obuasi", "阿散蒂": "ashanti",
+    "沃尔特": "volta", "东部地区": "eastern region",
+}
+
+_SUB_WORDS = sorted(
+    {w for w in _EVENT_WORDS
+     if w.lower() not in _NATION_WORDS and w not in _NATION_WORDS},
+    key=len, reverse=True)
+for _k, _v in _ADMIN_ALIAS.items():
+    if _k not in _SUB_WORDS:
+        _SUB_WORDS.append(_k)
+_SUB_WORDS.sort(key=len, reverse=True)
+
+
+def _event_marks(t):
+    """(places, numbers) named in a string — what makes an event that event.
+
+    PLACES are sub-national only, folded through _ADMIN_ALIAS so "Abuja" and
+    "Federal Capital Territory" are the same place. Country names are excluded:
+    every Nigerian story says Nigeria, so including them would make two
+    different state laws look like one event.
+    NUMBERS reject only when both sides carry them and they differ — one write-up
+    usually has the death toll and the other does not, but 40 dead and 48 dead are
+    two different massacres.
+    """
+    s = t or ""
+    low = s.lower()
+    nums = set(_NUM_RX.findall(s))
+    places = set()
+    for w in _SUB_WORDS:
+        if (w in s) if _CJK_RX.search(w) else (w in low):
+            places.add(_ADMIN_ALIAS.get(w.lower(), w.lower()))
+    return (frozenset(places), frozenset(nums))
+
+
+# ── event entities ──
+# Text similarity cannot see this class of duplicate. Measured on the live page,
+# "尼日利亚军方在一系列空袭中击毙103名ISWAP武装分子" and "尼日利亚军方报告称
+# 103名伊斯兰国西非省武装分子被击毙" score 0.36 on English summaries and 0.31 on
+# Chinese ones — every outlet words the same raid differently, so no threshold
+# that survives false positives would catch them. What they DO share is the
+# substance: the same toll (103) and the same organisation (ISWAP). That pair is
+# the fingerprint.
+# NOTE on boundaries: `\b` cannot be used around these abbreviations.
+# "ISWAP武装分子" has no word boundary between P and 武 (both are \w), so
+# `\biswap\b` missed it — and the miss split one airstrike into three cards.
+# Lookarounds limited to ASCII letters do the job in both scripts.
+def _abbr_rx(*forms):
+    alt = "|".join(forms)
+    return re.compile(r"(?<![A-Za-z])(?:" + alt + r")(?![A-Za-z])", re.I)
+
+
+_ENT_RX = [
+    ("iswap", _abbr_rx("iswap", r"islamic state west africa",
+                       r"islamic state in west africa",
+                       "伊斯兰国西非省", "西非省")),
+    ("jnim", _abbr_rx("jnim", r"nusrat al-islam", "伊斯兰支持阵线",
+                      "支持伊斯兰与穆斯林")),
+    ("eigs", _abbr_rx("eigs", r"islamic state in the greater sahara",
+                      "大撒哈拉伊斯兰国")),
+    ("mplj", _abbr_rx("mplj", "macina", "马西纳解放阵线", "马西纳")),
+    ("fpl", _abbr_rx("fpl", r"front patriotique", "爱国解放阵线")),
+    ("boko", _abbr_rx(r"boko\s*haram", "博科圣地")),
+    ("lakurawa", _abbr_rx("lakurawa", "拉库拉瓦")),
+    ("ebola", _abbr_rx("ebola", "埃博拉")),
+    ("mpox", _abbr_rx("mpox", "monkeypox", "猴痘")),
+    ("cholera", _abbr_rx("cholera", "霍乱")),
+    ("diphtheria", _abbr_rx("diphtheria", "白喉")),
+    ("lassa", _abbr_rx("lassa", "拉沙热")),
+    ("bandits", _abbr_rx("bandit", "bandits", "匪患", "土匪")),
+]
+# A number only fingerprints an event when it is specific: a toll, a ransom, an
+# amount. Years, small ordinals and round figures are excluded because they
+# recur across unrelated stories.
+_YEAR_RX = re.compile(r"^(?:19|20)\d\d$")
+
+
+def _rare_nums(t):
+    """Specific figures in a HEADLINE — a toll, a count, an amount.
+
+    Only the title is read. Summaries are 300 characters of prose and almost any
+    two of them share some number ("10月20日", "2026"), which made the first
+    version of this test merge a Seoul arson arrest with an Ebola alert. A
+    headline that repeats a figure is repeating it for a reason.
+
+    Years, day-of-month and anything under 10 are dropped for the same reason.
+    """
+    out = set()
+    s = t or ""
+    for m in _NUM_RX.finditer(s):
+        n = m.group(0)
+        raw = n.replace(",", "").rstrip(".")
+        if not raw or _YEAR_RX.match(raw):
+            continue
+        after = s[m.end():m.end() + 2]
+        before = s[max(0, m.start() - 1):m.start()]
+        if after[:1] in ("月", "日", "年", "时", "点") or before == "第":
+            continue                      # a date or an ordinal, not a count
+        try:
+            v = float(raw)
+        except ValueError:
+            continue
+        if len(raw) < 2 or v < 10:        # "5 家", "2 名" say nothing
+            continue
+        out.add(raw)
+    return out
+
+
+def _ents(t):
+    return {k for k, rx in _ENT_RX if rx.search(t or "")}
+
+
+def same_event_strong(a_title, a_body, b_title, b_body):
+    """True when two records report the same incident, judged on substance.
+
+    Requires a shared EVENT ENTITY (ISWAP, JNIM, Ebola, bandits …) plus one of:
+      * the same specific figure in both headlines — "103 killed" in three
+        outlets is one raid;
+      * the same sub-national place — two Abujas reporting an Ebola case is one
+        announcement.
+
+    An entity on only one side, or two conflicting places, means different
+    events: "103 ISWAP killed" and "103 Boko Haram killed" are two raids.
+    """
+    at, bt = a_title or "", b_title or ""
+    ea, eb = _ents(at), _ents(bt)
+    # An entity must be shared. Without this the test degenerated into "do these
+    # two long summaries share a number", which merged unrelated stories.
+    if not (ea & eb):
+        return False
+    pa = _event_marks(at)[0]
+    pb = _event_marks(bt)[0]
+    if pa and pb and not (pa & pb):
+        return False
+    if _rare_nums(at) & _rare_nums(bt):
+        return True
+    return bool(pa & pb)
+
+
+def _marks_ok(a, b):
+    """May two records with these fingerprints describe the same event?
+
+    A place named on only ONE side is not a conflict — that is the normal shape
+    of a follow-up ("…kills 103 ISWAP fighters" vs "…kills 103 ISWAP fighters in
+    Borno and Adamawa"). Two DIFFERENT places named on both sides is a conflict,
+    and merging there deletes a real story.
+    """
+    pa, na = a
+    pb, nb = b
+    if pa and pb and not (pa & pb):
+        return False
+    if na and nb and na != nb:
+        return False
+    return True
+
+
+def _dup_hit(key, sh, kept, th=0.68, floor=8, marks=None):
     """Index in `kept` of the first record that duplicates this headline."""
-    if not key or not sh:
+    if not key and not sh:
         return None
-    for j, (pk, ps) in enumerate(kept):
-        if pk == key:
+    for j, entry in enumerate(kept):
+        pk, ps = entry[0], entry[1]
+        if key and pk == key:
             return j
-        if not ps:
+        if not ps or not sh:
             continue
         inter = len(sh & ps)
-        if inter >= floor and inter / float(len(sh | ps)) >= th:
-            return j
+        if inter < floor or inter / float(len(sh | ps)) < th:
+            continue
+        # Same template, different place or figure ⇒ different story.
+        if marks is not None and len(entry) > 2 and not _marks_ok(entry[2], marks):
+            continue
+        return j
     return None
 
 
+def _recency(it):
+    """Sort key for "which of these two is the later report" (higher = newer).
+
+    `_dt` is the parsed publication time on news; `_ts` is the decoded post time
+    on social. Both are floats, and both are missing on a few records, so the
+    fallback is 0 rather than an exception.
+    """
+    v = it.get("_dt")
+    if v is None:
+        v = it.get("_ts")
+    try:
+        return float(v or 0)
+    except (TypeError, ValueError):
+        return 0.0
+
+
 def _worth_keeping(it):
-    """Which of two near-identical records to keep: the one with more to read."""
-    return (1 if not it.get("platform") else 0,      # a news article beats a post
+    """Which of two near-identical records to keep.
+
+    The reader's rule (2026-10-21): "相似的内容只要有最新的进展情况就行了" — when
+    the same story is on the page twice, the one to show is the LATEST report,
+    because that is the one carrying the new development. The old ordering kept
+    the longest body, which is nearly always the FIRST write-up: the follow-up
+    that adds "police have now arrested two suspects" is shorter, so it was the
+    one being thrown away.
+
+    Recency is therefore the primary key. A news article still beats a social
+    post at the same timestamp — a post is a pointer to the report, not the
+    report — and length only breaks ties.
+    """
+    return (_recency(it),
+            1 if not it.get("platform") else 0,      # at equal time, article wins
             len(it.get("body") or ""),
             len(it.get("summary") or it.get("snippet") or ""))
 
@@ -2477,45 +2801,69 @@ def collapse_near_dups(items, th=0.62, floor=8):
     kept, out, dropped = [], [], 0
     for it in items:
         k, sh = _title_key(it), _shingles(_title_key(it))
-        j = _dup_hit(k, sh, kept, th, floor)
+        mk = _event_marks(k)
+        j = _dup_hit(k, sh, kept, th, floor, mk)
         if j is None:
-            kept.append((k, sh))
+            kept.append((k, sh, mk))
             out.append(it)
             continue
         dropped += 1
         if _worth_keeping(it) > _worth_keeping(out[j]):
             out[j] = it
-            kept[j] = (k, sh)
+            kept[j] = (k, sh, mk)
     return out, dropped
 
 
 def collapse_same_event(items, th=0.52, floor=14):
     """Second pass: two outlets writing up the SAME event with different wording.
 
-    Headline similarity cannot see these. "突发：尼日利亚在联邦首都特区确认
-    埃博拉病例，确定44名接触者" and "FG启动响应 尼日利亚录得新的埃博拉病例"
-    share three characters of substance but describe one press conference, and
-    the reader sees the same story twice. Comparing the SUMMARIES catches them:
-    both quote the same numbers and the same agency.
+    Two independent tests, either of which is enough:
 
-    Thresholds measured on the live corpus: every pair at 0.52 or above was a
-    genuine same-event duplicate; below 0.45 unrelated stories start to collide
-    (short summaries share a lot of connective tissue). The 14-trigram floor
-    keeps two one-sentence briefs from matching on "尼日利亚政府表示".
+    1. SUMMARY SIMILARITY — catches rewrites that happen to share sentence
+       structure (the Ebola pair scored 0.88 on Chinese summaries).
+    2. SUBSTANCE FINGERPRINT (`same_event_strong`) — a shared specific figure
+       plus the same organisation or disease. This is what catches the rest:
+       five outlets reporting one airstrike word it five different ways, so the
+       similarity test sees 0.31 and stops, while all five say "103" and "ISWAP".
+
+    Similarity alone was not enough. Measured on the live page before this pass
+    existed, the page carried five cards for one raid on 103 ISWAP fighters and
+    four for one Ebola announcement.
+
+    When records merge, `_worth_keeping` keeps the LATEST one: the reader asked
+    for "相似的内容只要有最新的进展情况就行了" — the freshest report is the one
+    that carries the development.
     """
     kept, out, dropped = [], [], 0
     for it in items:
         body = (it.get("summary") or it.get("snippet") or it.get("body") or "")[:300]
         sh = _shingles(body)
-        j = _dup_hit("", sh, kept, th, floor)
+        # The place fingerprint comes from the HEADLINE, not the summary.
+        # Summaries of two different state bills both say "尼日利亚 … 州议会 …
+        # 法案", so a summary-derived fingerprint merged Ogun's bill into
+        # Plateau's. The headline names the place.
+        mk = _event_marks(_title_key(it))
+        j = _dup_hit("", sh, kept, th, floor, mk)
         if j is None:
-            kept.append(("", sh))
+            j = _substance_hit(it, out)
+        if j is None:
+            kept.append(("", sh, mk))
             out.append(it)
             continue
         dropped += 1
         if _worth_keeping(it) > _worth_keeping(out[j]):
             out[j] = it
     return out, dropped
+
+
+def _substance_hit(it, out):
+    """Index in `out` of the record reporting the same incident, by substance."""
+    for j, prev in enumerate(out):
+        if same_event_strong(
+                _title_key(it), it.get("summary") or it.get("snippet") or "",
+                _title_key(prev), prev.get("summary") or prev.get("snippet") or ""):
+            return j
+    return None
 
 
 # ── country evidence check ──
@@ -2594,18 +2942,29 @@ social, _dup_soc = collapse_near_dups(social)
 news, _dup_evt_n = collapse_same_event(news)
 social, _dup_evt_s = collapse_same_event(social)
 # Cross-channel: a post that merely restates a headline already on the page reads
-# as a repeat, not as a second source.
-_news_kept = [(_title_key(n), _shingles(_title_key(n))) for n in news]
-_soc_out, _dup_cross = [], 0
+# as a repeat, not as a second source. But "latest development wins" applies here
+# too — an embassy post late in the evening can carry a development the morning's
+# article does not, so the post replaces the article when it is clearly newer.
+# "Clearly" = 6 hours, so a same-cycle repost does not displace a real report.
+_NEWER_POST_H = 6.0
+_news_kept = [(_title_key(n), _shingles(_title_key(n)), _event_marks(_title_key(n)))
+              for n in news]
+_soc_out, _dup_cross, _cross_repl = [], 0, 0
 for _s in social:
     _k, _sh = _title_key(_s), _shingles(_title_key(_s))
-    if _dup_hit(_k, _sh, _news_kept, 0.68, 8) is not None:
-        _dup_cross += 1
+    _j = _dup_hit(_k, _sh, _news_kept, 0.68, 8, _event_marks(_k))
+    if _j is None:
+        _soc_out.append(_s)
         continue
-    _soc_out.append(_s)
+    _dup_cross += 1
+    _old = news[_j]
+    if _recency(_s) - _recency(_old) > _NEWER_POST_H * 3600:
+        news[_j] = _s                       # the post carries the newer development
+        _news_kept[_j] = (_k, _sh, _event_marks(_k))
+        _cross_repl += 1
 social = _soc_out
-print("near-duplicates collapsed: news %d+%d, social %d+%d, social-vs-news %d"
-      % (_dup_news, _dup_evt_n, _dup_soc, _dup_evt_s, _dup_cross))
+print("near-duplicates collapsed: news %d+%d, social %d+%d, social-vs-news %d (post replaced article %d)"
+      % (_dup_news, _dup_evt_n, _dup_soc, _dup_evt_s, _dup_cross, _cross_repl))
 
 # Country tags get one last check against the copy, so a classifier fix reaches
 # the carry-overs too — they keep whatever list the run that first fetched them
