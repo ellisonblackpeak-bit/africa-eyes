@@ -489,7 +489,11 @@ CTY_MARKERS = {
     "kr": ["north korea", "south korea", "north korean", "south korean", "korean",
            "pyongyang", "seoul", "korean peninsula",
            "dprk", "rok", "kim jong", "kpa", "Korean war", "korean dmz",
-           "Korean nuclear", "朝鲜", "韩国", "平壤", "首尔", "韩半岛", "朝鲜半岛", "韩方"],
+           "Korean nuclear", "朝鲜", "韩国", "平壤", "首尔", "韩半岛", "朝鲜半岛", "韩方",
+           # Jeju / Busan / Incheon appear without "Korea" in the headline, and
+           # an item naming only 济州岛 would otherwise be swept out as foreign.
+           "jeju", "busan", "incheon", "daegu", "gwangju", "ulsan", "daejeon",
+           "济州", "釜山", "仁川", "大邱", "光州", "蔚山", "大田"],
     "ph": ["philippines", "philippine", "filipino", "manila", "marcos", "duterte",
            "philippine navy",
            "south china sea", "west philippine sea", "scarborough", "spratly",
@@ -3026,6 +3030,22 @@ _soft_s = [s for s in social if is_soft(s.get("title"), s.get("title_zh"))]
 news = [n for n in news if not is_soft(n.get("title"), n.get("title_zh"))]
 social = [s for s in social if not is_soft(s.get("title"), s.get("title_zh"))]
 print("sport/showbiz dropped: news %d, social %d" % (len(_soft_n), len(_soft_s)))
+
+# Third-country sweep, applied at the END for the same reason: the entry-point
+# gate only sees freshly fetched items, so carry-overs kept their wrong country.
+# "中国要求公民在泰国注意防范诈骗和绑架" survived four rebuilds this way.
+# Classified WITHOUT the domain on purpose — otherwise the outlet's own country
+# (vnexpress → vn) re-admits the story.
+_fgn = []
+for _n in news + social:
+    _t = _n.get("title") or ""
+    if _FOREIGN_RX.search(_t) and not (set(classify_cty(_t, "")) & ALL_CTYS):
+        _fgn.append(_n)
+if _fgn:
+    _drop = {id(x) for x in _fgn}
+    news = [n for n in news if id(n) not in _drop]
+    social = [s for s in social if id(s) not in _drop]
+    print("third-country items dropped: %d" % len(_fgn))
 
 # The queue was filled before the collapse, so it still holds strings belonging
 # to the records just dropped. Prune it — otherwise every dropped duplicate is
