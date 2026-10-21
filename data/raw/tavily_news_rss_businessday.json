@@ -2,20 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Fractured opposition faces old dilemma ahead of 2027 polls",
-   "url": "https://businessday.ng/politics/article/fractured-opposition-faces-old-dilemma-ahead-of-2027-polls/",
-   "content": "With fewer than 90 days to the January 16 presidential election, growing hostility between major opposition parties, the African Democratic",
-   "published_date": "Wed, 21 Oct 2026 02:30:24 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Otedola Bridge rapidly becoming Nigeria’s deadliest accident spot",
-   "url": "https://businessday.ng/news/article/otedola-bridge-races-toward-becoming-nigerias-deadliest-accident-spot/",
-   "content": "For years, the Otedola Bridge along the Lagos-Ibadan Expressway has served as a major artery for commerce and daily commuting,",
-   "published_date": "Wed, 21 Oct 2026 02:15:35 +0000",
-   "score": 0.6
-  },
-  {
    "title": "J.P. Morgan nears launch of first African merchant bank",
    "url": "https://businessday.ng/companies/article/j-p-morgan-nears-launch-of-first-african-merchant-bank/",
    "content": "…deposits N50bn to CBN JPMorgan Chase is moving closer to establishing a licensed banking operation in Nigeria after depositing N50",
@@ -34,6 +20,20 @@
    "url": "https://businessday.ng/sports/article/champions-league-ngumoha-powers-liverpool-comeback-win-over-villarreal/",
    "content": "Liverpool came from two goals down to beat Villarreal 4-3 at Anfield on Tuesday night, with teenage winger Rio Ngumoha",
    "published_date": "Tue, 20 Oct 2026 22:17:46 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Champions League: Foden nets hat-trick as Man City crush AEK Athens",
+   "url": "https://businessday.ng/sports/article/champions-league-foden-nets-hat-trick-as-man-city-crush-aek-athens/",
+   "content": "Phil Foden scored a hat-trick as Manchester City cruised to a 5-1 win over AEK Athens at the Etihad Stadium",
+   "published_date": "Tue, 20 Oct 2026 22:01:26 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Champions League: PSG beat Barcelona in six-goal thriller",
+   "url": "https://businessday.ng/sports/article/champions-league-psg-beat-barcelona-in-six-goal-thriller/",
+   "content": "Paris Saint-Germain (PSG) defeated Barcelona 4-2 in a Champions League thriller on Tuesday, handing the LaLiga champions their first defeat",
+   "published_date": "Tue, 20 Oct 2026 21:46:06 +0000",
    "score": 0.6
   }
  ],

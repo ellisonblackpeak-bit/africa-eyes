@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Disability group urges Centre to classify communication aids as essential products",
+   "url": "https://www.thehindu.com/news/national/disability-group-urges-centre-to-classify-communication-aids-as-essential-products/article71603955.ece",
+   "content": "Doctors with Disabilities: Agents of Change has sought the classification of AAC devices and prostheses as essential assistive products under the draft Rights of Persons with Disabilities (Amendment) Rules, 2026, warning that their current categorisation could create uncertainty over insurance and public financing",
+   "published_date": "Wed, 21 Oct 2026 09:35:07 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Motorcycle stunts, horse riding shows await spectators at Mysuru Torchlight Parade",
+   "url": "https://www.thehindu.com/news/national/karnataka/spectacular-torchlight-parade-in-mysuru/article71604368.ece",
+   "content": "Eighteen platoons, each comprising 28 cadets, along with two horse platoons, will participate in the parade",
+   "published_date": "Wed, 21 Oct 2026 09:34:56 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Elon Musk says he backs SpaceX-Tesla merger as rocket firm turns profit",
+   "url": "https://www.thehindu.com/sci-tech/technology/elon-musk-says-he-backs-spacex-tesla-merger-as-rocket-firm-turns-profit/article71606098.ece",
+   "content": "Elon Musk’s remarks came after SpaceX posted net income of $4.4 billion for the July-September period, compared with a loss of $1.1 billion a year earlier",
+   "published_date": "Wed, 21 Oct 2026 09:30:04 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Fall of the centre: on the public discontent in France",
+   "url": "https://www.thehindu.com/opinion/editorial/fall-of-the-centre-on-the-public-discontent-in-france/article71604809.ece",
+   "content": "Economic woes have fuelled public discontent in France under Macron",
+   "published_date": "Wed, 21 Oct 2026 09:15:26 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "For parents of adults with autism, planning for future with little State support, takes a toll",
+   "url": "https://www.thehindu.com/sci-tech/health/for-parents-of-adults-with-autism-planning-for-future-with-little-state-support-takes-a-toll/article71583472.ece",
+   "content": "In thousands of families with special needs children, parents are haunted by the question: ‘who after me?’. There is an urgent need for better support for caregivers and facilities for those with special needs, say parents and experts",
+   "published_date": "Wed, 21 Oct 2026 09:11:18 +0530",
+   "score": 0.6
+  },
+  {
    "title": "U.S.-India perfectly aligned on core issues: Marco Rubio",
    "url": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
    "content": "After laying a wreath at the Taj Mahal Palace Hotel, S. Jaishankar says India expects its partners to show ‘zero tolerance’ towards terrorism",
@@ -317,13 +352,6 @@
    "score": 0.6
   },
   {
-   "title": "Fall of the centre: on the public discontent in France",
-   "url": "https://www.thehindu.com/opinion/editorial/fall-of-the-centre-on-the-public-discontent-in-france/article71604809.ece",
-   "content": "Economic woes have fuelled public discontent in France under Macron",
-   "published_date": "Wed, 21 Oct 2026 00:53:08 +0530",
-   "score": 0.6
-  },
-  {
    "title": "Traffic diversions for Police Commemoration Day parade on Wednesday",
    "url": "https://www.thehindu.com/news/cities/chennai/traffic-diversions-for-police-commemoration-day-parade-on-wednesday/article71604535.ece",
    "content": "Commercial vehicles will be prohibited from using Kamarajar Salai between Napier Bridge and the Lighthouse during the specified period",
@@ -391,34 +419,6 @@
    "url": "https://www.thehindu.com/news/cities/chennai/bodies-of-two-school-students-recovered-from-puzhal-lake/article71604508.ece",
    "content": "The bodies were located on the lakebed and retrieved nearly 17 hours after the operation began",
    "published_date": "Wed, 21 Oct 2026 00:38:52 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Chennai Metrowater deploys additional sewer machines to desilt city network",
-   "url": "https://www.thehindu.com/news/cities/chennai/chennai-metrowater-deploys-additional-sewer-machines-to-desilt-city-network/article71604717.ece",
-   "content": "",
-   "published_date": "Wed, 21 Oct 2026 00:38:04 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Kashmir clerics, including Mirwaiz, say eviction of Delhi’s historic Race Course mosque ‘deeply disturbing’",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-clerics-including-mirwaiz-say-eviction-of-delhis-historic-race-course-mosque-deeply-disturbing/article71605010.ece",
-   "content": "“If even a legally recognised mosque cannot be protected, what safeguards remain for others?” says Mirwaiz",
-   "published_date": "Wed, 21 Oct 2026 00:38:02 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Commuters face hardships at bus terminus in Avadi",
-   "url": "https://www.thehindu.com/news/cities/chennai/commuters-face-hardships-at-bus-terminus-in-avadi/article71604558.ece",
-   "content": "A resident says the temporary bus terminus gets flooded even after light rain and does not have any proper paved platform; commuters want the CMDA to construct the new bus terminus soon",
-   "published_date": "Wed, 21 Oct 2026 00:37:37 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Moves by the North of England to unlock India trade",
-   "url": "https://www.thehindu.com/opinion/op-ed/moves-by-the-north-of-england-to-unlock-india-trade/article71605182.ece",
-   "content": "Regional partnerships can help businesses unlock the potential of the India-U.K. trade pact",
-   "published_date": "Wed, 21 Oct 2026 00:35:49 +0530",
    "score": 0.6
   }
  ],
