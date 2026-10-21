@@ -1,7 +1,7 @@
 {
-  "name": "Africa Eyes · 西非动态监测",
-  "short_name": "Africa Eyes",
-  "description": "西非四国（尼日利亚、尼日尔、马里、加纳）政治、经济、安全、能源、矿产领域的每日动态监测：媒体公开报道 + 社交平台公开动态 + 发布主体索引。",
+  "name": "China Eyes · 中国全球动态监测台",
+  "short_name": "China Eyes",
+  "description": "涉华 / 涉美 / 非洲四国（尼日利亚、尼日尔、马里、加纳）/ 周边八国的每日动态监测：媒体公开报道 + 社交平台公开动态 + 发布主体索引。",
   "lang": "zh-CN",
   "start_url": "./index.html",
   "scope": "./",

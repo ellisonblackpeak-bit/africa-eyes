@@ -157,6 +157,18 @@ PLAN = [
     ("cn_illegal", "Chinese illegal mining arrested", [], 8),
     ("cn_galamsey", "Chinese galamsey Ghana", [], 8),
     ("cn_court",   "Chinese firm court Africa", [], 8),
+    # ─── Niger: the Chinese oil complex, by asset name ──────────────────────
+    # The reader asked for these to be guaranteed (2026-10-21). A general
+    # "China Niger" angle does not surface them, because the local press writes
+    # "SORAZ", "Zinder refinery" or "the Niger–Benin pipeline" and never says
+    # "China" at all. Each asset gets its own short query.
+    ("cn_cnpc",   "CNPC Niger oil", [], 8),
+    ("cn_soraz",  "Zinder refinery SORAZ", [], 8),
+    ("cn_pipe",   "Niger Benin pipeline oil", [], 8),
+    ("cn_agadem", "Agadem oil block", [], 8),
+    # ─── China-interest risk events, phrased as the local press phrases them ──
+    ("cn_killed",  "Chinese national killed Africa", [], 8),
+    ("cn_summon",  "Chinese company summoned government", [], 8),
     # ─── Africa four — US angle ─────────────────────────────────────────────
     ("us_ng",    "US Nigeria", [], 12),
     ("us_gh",    "US Ghana military", [], 12),

@@ -387,6 +387,101 @@ def terror_hit(title, summary=""):
     return bool(JIHAD_RX.search(t) and SAHEL_RX.search(t))
 
 
+# ─────────────── China-enterprise risk events ───────────────
+# The reader asked (2026-10-21) for five specific classes of story about Chinese
+# interests in the four countries, and for them to be findable in one tap:
+#   中国人被绑架 / 被杀 · 中资企业被罚款 · 被当地政府约谈 · 中国项目被袭击
+# A generic "涉华" tag is not enough — those stories are a small minority of the
+# ~90 China items on the page, and on a phone they scroll away.
+#
+# The subject test is not just the word "China": "Gunmen abduct two Chinese
+# miners" names China only as an adjective, and "中资矿企被罚" does not say 中国
+# at all. So the subject is China/Chinese OR a named Chinese operator/project,
+# and the predicate is one of the five risk verbs.
+CN_SUBJECT_RX = re.compile(
+    r"(?<![A-Za-z])(?:chinese|china|prc|cnpc|sinopec|sinomach|crcc|crec|cgg|"
+    r"chinatex|huawei|ztec|sinohydro|cnoc|citcc|china\s+national|"
+    r"chinese[- ]owned|chinese[- ]run|soraz|petrolin|agadem)(?![A-Za-z])|"
+    r"中国|中方|中资|中企|华商|华人|华侨|中石油|中石化|中铁|中交|中电建|"
+    r"中国石油|中国石化|葛洲坝|华为|中兴|津德尔|索拉兹|阿加德姆|尼贝管道", re.I)
+RISK_KIDNAP_RX = re.compile(
+    r"\bkidnap|\babduct|\bseized\b|\bmissing\b|\bkilled\b|\bslain\b|\bmurder|"
+    r"\bshot\s+dead|\bgunmen\b|\bexecuted\b|"
+    r"绑架|劫持|被绑|遇害|被杀|杀害|失踪|身亡|遇难|枪杀|击毙", re.I)
+RISK_FINE_RX = re.compile(
+    r"\bfined?\b|\bpenalt(?:y|ies)\b|\bsanction|\bprosecut|\bconvicted\b|"
+    r"\bseized\s+(?:assets|goods|cargo)|\bforfeit|\bdefault(?:ed)?\s+on\b|"
+    r"\btax\s+(?:bill|demand)|\bcustoms\s+(?:duty|seizure)|"
+    r"\bjail(?:s|ed)?\b|\bsentenc(?:ed|ing)\b|\bcourt\s+(?:orders|rules)\b|"
+    r"罚款|罚金|处罚|被罚|查封|没收|追缴|补税|起诉|判刑|定罪|入狱|获刑", re.I)
+RISK_SUMMON_RX = re.compile(
+    r"\bsummon|\bquizzed\b|\bquestioned\s+by\b|\binvited\s+by\s+(?:the\s+)?"
+    r"(?:minister|ministry|government|committee|assembly|senate|regulator|"
+    r"commission|agency|parliament)|\border(?:ed)?\s+to\s+(?:appear|explain)|"
+    r"\bappeared\s+before\s+(?:the\s+)?(?:committee|assembly|panel|house)|"
+    r"\bunder\s+investigation|\bprobe[ds]?\b|\bregulator\b|\breview\b|"
+    r"\brenegotiat|\bterminat(?:ed|ion|es)\b|\bcancel(?:led|s)?\b|"
+    r"\brevok(?:ed|e)\b|\bsuspend(?:ed|s)?\b|\baudit(?:ed|s)?\b|\bseiz(?:ed|ure)\b|"
+    r"\bshut\s*(?:down|s)?\b|\bhalt(?:ed|s)?\b|\bsuspend\w*\b|\bstopp?ed\b|"
+    r"\bblocked\b|\bbanned\b|\bexpel(?:led|s)?\b|\bdeport\w*\b|"
+    r"约谈|问责|传唤|调查|质询|被要求说明|立案|审查|重新谈判|重谈|终止|取消|"
+    r"吊销|撤销|暂停|查封|接管|停产|停工|关停|叫停|驱逐|遣返", re.I)
+RISK_ATTACK_RX = re.compile(
+    r"\battack(?:ed|s)?\b|\braid(?:ed|s)?\b|\bbomb(?:ed|ing)?\b|\bambush|"
+    r"\bsabotag|\bvandal|\bloot(?:ed|ing)?\b|\bburn(?:ed|t|ing)?\b|"
+    r"\bstormed\b|\boverrun\b|\bhostage|"
+    r"袭击|遇袭|被袭|轰炸|爆炸|伏击|破坏|纵火|焚毁|劫掠|抢劫|冲击", re.I)
+# A project / asset owned by Chinese interests.
+CN_PROJECT_RX = re.compile(
+    r"\b(?:refinery|pipeline|mine|mining\s+site|smelter|plant|dam|rail(?:way)?|"
+    r"port|road|bridge|power\s+(?:plant|station)|substation|construction\s+site|"
+    r"oilfield|oil\s+field|rig|quarry|factory|project|site|camps?)\b|"
+    r"炼油厂|管道|输油|矿山|矿区|冶炼|工厂|电站|铁路|公路|港口|桥梁|"
+    r"工地|施工现场|项目|营地", re.I)
+
+
+def cn_risk(title, summary="", country=None):
+    """(is_risk, kind) for a Chinese-interest risk event **inside the four countries**.
+
+    Two guards, both learned from the first live run:
+
+    1. SUBJECT — China/Chinese, or a named Chinese operator (CNPC, SORAZ …), must
+       appear in the HEADLINE. A summary that mentions China in a related-links
+       rail must not turn a local crime story into a China story.
+    2. THEATRE — the item must sit in Nigeria / Niger / Mali / Ghana. Without this
+       the flag collected "US sanctions five Chinese firms over Google trade
+       secrets" (Washington's business) and "Manila summons China's ambassador"
+       (a South China Sea spat). Neither is a Chinese operator being kidnapped,
+       fined, summoned or attacked in West Africa, which is what the reader asked
+       to find.
+    """
+    t = title or ""
+    if not t or not CN_SUBJECT_RX.search(t):
+        return False, ""
+    if country is not None:
+        cs = country if isinstance(country, (list, tuple, set)) else [country]
+        if not (set(cs) & {"ng", "ne", "ml", "gh"}):
+            return False, ""
+    else:
+        # No country known yet: fall back to the theatre being named in the copy.
+        if not re.search(r"nigeria|niger\b|mali|ghana|尼日利亚|尼日尔|马里|加纳",
+                         t, re.I):
+            return False, ""
+    blob = t + " " + (summary or "")[:400]
+    kinds = []
+    if RISK_KIDNAP_RX.search(t):
+        kinds.append("人身安全")
+    if RISK_FINE_RX.search(t):
+        kinds.append("处罚")
+    if RISK_SUMMON_RX.search(t):
+        kinds.append("约谈调查")
+    if RISK_ATTACK_RX.search(t) and (CN_PROJECT_RX.search(blob) or RISK_KIDNAP_RX.search(t)):
+        kinds.append("项目遇袭")
+    if not kinds:
+        return False, ""
+    return True, "、".join(kinds)
+
+
 # ─────────────── topic / country vocabulary ───────────────
 TOPIC_MARKERS = {
     "sec": ["security", "insecurity", "attack", "attacks", "killed", "killings", "kidnap",
@@ -465,7 +560,16 @@ CTY_MARKERS = {
     "ne": ["nigerien", "niamey", "tiani", "somair", "orano", "agadez", "tillaberi",
            "imouraren", "cnsp", "bazoum", "niger republic", "republic of niger",
            "niger's", "niger junta", "niger government", "niger army",
-           "尼日尔", "尼亚美", "阿加德兹", "阿尔利特", "奇亚尼"],
+           # ── the Chinese oil complex, which the reader asked to track by name ──
+           # CNPC's Agadem block, the Zinder refinery (SORAZ) and the Niger–Benin
+           # export pipeline are the three assets a China-risk story in Niger is
+           # almost always about. Without these tokens the stories named only
+           # "Zinder" or "SORAZ" and were filed as 泛非洲.
+           "soraz", "zinder", "agadem", "cnpc niger", "petrolin", "sonidep",
+           "niger-benin pipeline", "niger benin pipeline", "niamey-dosso",
+           "尼日尔", "尼亚美", "阿加德兹", "阿尔利特", "奇亚尼",
+           "津德尔", "阿加德姆", "索拉兹", "尼日尔-贝宁", "尼贝管道",
+           "中石油尼日尔", "尼日尔炼油厂"],
     "ml": ["mali", "malian", "bamako", "goita", "jnim", "timbuktu", "gao", "kidal", "mopti",
            "barrick", "loulo", "gounkoto", "sikasso", "kayes", "azawad", "malien",
            "马里", "巴马科", "通布图", "加奥", "基达尔", "戈伊塔"],
@@ -745,6 +849,11 @@ TAG_CTY = {
     "us_ng": "ng", "gov_ng": "ng", "ng_extra": "ng",
     "cn_gh": "gh", "cn_gh2": "gh", "us_gh": "gh", "gov_gh": "gh", "gh_extra": "gh",
     "cn_ne": "ne", "ne_extra": "ne",
+    # The Niger oil complex: every result from these angles is Nigerien, and the
+    # copy often names only the asset ("SORAZ", "Agadem"), so the tag is the
+    # reliable anchor. The pipeline angle also runs through Benin, hence the list.
+    "cn_cnpc": "ne", "cn_soraz": "ne", "cn_agadem": "ne",
+    "cn_pipe": ["ne", "wa"],
     "cn_ml": "ml", "ml_extra": "ml",
     "cn_kr": "kr", "cn_ph": "ph", "cn_mm": "mm", "cn_ru": "ru",
     "cn_in": "in", "cn_np": "np", "cn_vn": "vn", "cn_la": "la",
@@ -948,6 +1057,38 @@ def is_soft(title, title_zh=""):
         return False
     return bool(SPORT_RX.search(title or "") or ENT_RX.search(title or "")
                 or SPORT_ZH_RX.search(blob) or ENT_ZH_RX.search(blob))
+
+
+# ── human-interest fluff ──
+# A neighbourhood desk covers the whole country, so pure human-interest copy
+# arrives alongside the politics: a shark trapped in a Busan canal, a "food Silk
+# Road" festival, a museum curator resigning over a misattributed piece, an
+# Amelia Earhart search update. The reader asked for sport and showbiz to go;
+# this is the same category, and it was 46 of the 262 items in 周边国家.
+#
+# Deliberately NARROW. Policy and economy stay: a housing-loan programme, a
+# primary-care upgrade, a payroll settlement or a customs rating is how a
+# government actually governs, and the 北部 reader wants it. Only copy that is
+# purely an animal / festival / curiosity story is dropped.
+FLUFF_RX = re.compile(
+    r"(鲨鱼|海豚|鲸鱼|大象|老虎|狮子|熊猫|宠物|动物园|水族馆|"
+    r"选美|美食节|美食丝绸|庆典|烟花|嘉年华|狂欢节|"
+    r"露天排便|埃尔哈特|寻宝|吉尼斯|彩票|超长寿|最长寿|"
+    r"藏品归属|私人收藏|文物归还仪式)")
+FLUFF_EN_RX = re.compile(
+    r"\b(shark|dolphin|whale|elephant|tiger cub|lion|pet dog|zoo|aquarium|"
+    r"beauty pageant|food festival|carnival|fireworks|guinness record|"
+    r"lottery|amelia earhart|treasure hunt|longest[- ]living)\b", re.I)
+
+
+def is_fluff(title, title_zh=""):
+    """True for a pure human-interest / festival headline with no news value."""
+    blob = (title or "") + " " + (title_zh or "")
+    if not blob.strip():
+        return False
+    if HARD_NEWS_RX.search(blob):        # a bombing at a festival is news
+        return False
+    return bool(FLUFF_RX.search(blob) or FLUFF_EN_RX.search(title or ""))
 
 # Chrome that is GLUED to real prose on the same line, so it has to be repaired
 # rather than dropped — dropping the line would throw the lead sentence away with
@@ -1883,6 +2024,9 @@ for fn in news_files:
         # it is tier 4 — the band the volume cap used to empty first — and its
         # headline usually names the region ("Sahel") rather than the state.
         ter_hit = terror_hit(title, summary)
+        # China-enterprise risk flag, computed here so the 中企风险 chip and
+        # the module ordering can both use it.
+        cn_risk_hit, cn_risk_kind = cn_risk(title, summary, cty_title)
         _tag_cty = TAG_CTY.get(doc.get("_tag") or "")
         _has_real = bool(set(cty) & ALL_CTYS)
         if _tag_cty and not _has_real:
@@ -1947,6 +2091,8 @@ for fn in news_files:
             "cnHit": cn_hit,
             "usHit": us_hit,
             "terrHit": ter_hit,
+            "riskHit": cn_risk_hit,
+            "riskKind": cn_risk_kind,
             "score": float(it.get("score") or 0),
             "tag": doc.get("_tag", ""),
         })
@@ -2034,6 +2180,13 @@ for _k, _item in _pool_in.items():
     if "terrHit" not in _item:
         _item["terrHit"] = terror_hit(_item.get("title") or "",
                                       _item.get("summary") or "")
+    # Carry-overs were built before the China-risk flag existed, so recompute it
+    # rather than leaving the 中企风险 chip empty for the whole first day.
+    _rk_hit, _rk_kind = cn_risk(_item.get("title") or "",
+                                _item.get("summary") or "",
+                                _item.get("country"))
+    _item["riskHit"] = _rk_hit
+    _item["riskKind"] = _rk_kind
     # Rebuild a missing body from the article cache.
     #
     # fetch_articles caches the extracted text per URL, but a pooled record only
@@ -2388,6 +2541,7 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
                 _stag = SOC_TAG_CTY.get(_query_tag) or TAG_CTY.get(_query_tag)
                 if _stag:
                     _scty = list(_stag) if isinstance(_stag, (list, tuple)) else [_stag]
+            _rk_s = cn_risk(title, snip, _scty)
             social.append({
                 "platform": pname,
                 "title": title,
@@ -2409,6 +2563,8 @@ for fn in sorted(glob.glob(os.path.join(RAW, "firecrawl_*.json"))):
                 "cnHit": cn_hit,
                 "usHit": us_hit,
                 "terrHit": ter_hit_s,
+                "riskHit": _rk_s[0],
+                "riskKind": _rk_s[1],
                 "ageDays": round(age_days, 2),
                 "_ts": ts.timestamp(),
                 "postedAt": ts.astimezone(CST).strftime("%Y-%m-%d %H:%M"),
@@ -2465,6 +2621,11 @@ for _k, _item in _pool_in_s.items():
     if "terrHit" not in _item:
         _item["terrHit"] = terror_hit(_item.get("title") or "",
                                       _item.get("snippet") or "")
+    _rk_hit, _rk_kind = cn_risk(_item.get("title") or "",
+                                _item.get("snippet") or "",
+                                _item.get("country"))
+    _item["riskHit"] = _rk_hit
+    _item["riskKind"] = _rk_kind
     social.append(_item)
     see_s.add(_k)
     added_s += 1
@@ -3030,6 +3191,17 @@ _soft_s = [s for s in social if is_soft(s.get("title"), s.get("title_zh"))]
 news = [n for n in news if not is_soft(n.get("title"), n.get("title_zh"))]
 social = [s for s in social if not is_soft(s.get("title"), s.get("title_zh"))]
 print("sport/showbiz dropped: news %d, social %d" % (len(_soft_n), len(_soft_s)))
+
+# Human-interest fluff, same placement and same reason as above: it has to run
+# on the final lists, not at the fetch entry point, or carry-overs slip through.
+_fluff = [x for x in news + social if is_fluff(x.get("title"), x.get("title_zh"))]
+if _fluff:
+    _fd = {id(x) for x in _fluff}
+    news = [n for n in news if id(n) not in _fd]
+    social = [s for s in social if id(s) not in _fd]
+    print("human-interest fluff dropped: %d" % len(_fluff))
+    for _x in _fluff[:6]:
+        print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
 
 # Third-country sweep, applied at the END for the same reason: the entry-point
 # gate only sees freshly fetched items, so carry-overs kept their wrong country.
