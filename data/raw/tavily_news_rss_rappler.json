@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "EU warns websites may need to be taken offline as PHP prepares patches for vulnerabilities",
+   "url": "https://www.rappler.com/technology/european-union-warning-php-vulnerabilities-october-2026/",
+   "content": "PHP is used across large parts of the internet, and speculation has circulated over the past day that websites running the software could be exposed to serious cyber intrusions",
+   "published_date": "Wed, 21 Oct 2026 15:44:01 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "#ScamAlert chat room launched as digital and financial scams evolve",
+   "url": "https://www.rappler.com/moveph/scam-alert-chat-room-launched-as-digital-financial-evolve/",
+   "content": "The new chat room helps users flag scams, learn digital safety tips, and foster community vigilance",
+   "published_date": "Wed, 21 Oct 2026 15:27:03 +0800",
+   "score": 0.6
+  },
+  {
    "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
    "url": "https://www.rappler.com/technology/malaysia-bans-civil-servants-waze-use-israel-links/",
    "content": "Prime Minister Anwar Ibrahim recommends the use of TuJu, a domestic mapping app developed by the Malaysian Highway Authority, as an alternative",
@@ -32,7 +46,7 @@
   {
    "title": "New Robinsons Sports & Leisure unit to bring global concepts to the Philippines",
    "url": "https://www.rappler.com/brandrap/robinsons-land-new-sports-leisure-unit-2026/",
-   "content": "The new team will is set to shape global concepts and expertise around local interests and lifestyles",
+   "content": "The new team will shape global concepts and expertise around local interests and lifestyles",
    "published_date": "Wed, 21 Oct 2026 12:29:16 +0800",
    "score": 0.6
   },
@@ -55,20 +69,6 @@
    "url": "https://www.rappler.com/technology/elon-musk-ordered-slowdown-starlink-service-ukraine-military/",
    "content": "The Wall Street Journal reports Elon Musk and US President Donald Trump discussed the Starlink decision in a call soon after the slowdown became public, while the president was campaigning last week",
    "published_date": "Wed, 21 Oct 2026 11:29:21 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "[In This Economy] Marcos’ unconstitutional budgets: Who will answer for them?",
-   "url": "https://www.rappler.com/voices/thought-leaders/in-this-economy-marcos-supreme-court-unconstitutional-budgets-2024-2025-who-will-answer/",
-   "content": "The big question is: Will Congress and the Marcos administration account for the affected funds and change how they prepare the next budget?",
-   "published_date": "Wed, 21 Oct 2026 11:28:40 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Three issues defining the 2026 US midterm elections",
-   "url": "https://www.rappler.com/world/us-canada/issues-defining-2026-us-midterm-elections/",
-   "content": "US President Donald Trump's record-low popularity, voter concerns over affordability and a fierce immigration debate are shaping the November 3 US midterm elections, which will determine control of Congress",
-   "published_date": "Wed, 21 Oct 2026 08:13:02 +0800",
    "score": 0.6
   }
  ],
