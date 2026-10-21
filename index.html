@@ -521,10 +521,7 @@ details.ft[open] summary::before{content:'▾ '}
       return '<div class="stat"><b>'+counts[x[0]]+'</b><span>'+x[1]+'</span></div>';}).join('');
     document.getElementById('scope').innerHTML =
       '涉华 · 涉美 · 非洲四国 · 中国周边　｜　政治 · 经济 · 安全 · 能源 · 矿产'
-      + '<br><span class="fresh">'+esc(freshText())+'</span>'
-      + '　·　窗口：'+esc(D.window||'近 3 日')
-      + (STATIC ? '　·　长期托管版，链接固定不变'
-                : '　·　后台定时重建，本页每 60 秒自动检查');
+      + '<br><span class="fresh">'+esc(freshText())+'</span>';
     var TABS=[['overview','概览'],['china','涉华'],['us','涉美'],
               ['africa','非洲四国'],['periphery','周边国家'],
               ['people','人员索引'],['sources','信源']];
@@ -537,16 +534,9 @@ details.ft[open] summary::before{content:'▾ '}
     document.getElementById('foot').innerHTML =
       '<b>China Eyes</b>　·　涉华 / 涉美 / 非洲四国（尼日利亚、尼日尔、马里、加纳）/ 中国周边，每日动态监测，移动端优先。'
       +'数据来源：四国主流媒体、周边国家媒体、国际通讯社、全球矿业媒体，以及 X / LinkedIn / Facebook / Instagram 公开页面。<br>'
-      +'四个模块各自按优先级分组阅读（涉华主体与美方负面动作在前，其余在后），组内按发布时间倒序；条目保留 '+(D.windowDays||3)+' 天，超期由新内容覆盖。'
-      +(STATIC
-        ? '本页为长期托管的静态快照版，链接不会失效；内容截至下方生成时间，更新由维护者定期重建。'
-        : '后台每 3 小时重建一次，页面每 60 秒自动检查并就地替换内容。')
       +'<br><b>装到手机</b>：iPhone 用 Safari「分享 → 添加到主屏幕」；Android 用 Chrome「⋮ → 安装应用 / 添加到主屏幕」，'
-      +'图标为眼睛形状，与浏览器访问同一份数据。'
-      +'<br>仅供研判参考；所有条目以原始链接为准。生成时间：<span id="genstamp">'+esc(D.generatedAt||'—')+'</span>'
-      +(STATIC
-        ? '<br><span id="sched">静态快照版：链接长期有效，不会出现「无效地址」。数据更新时间见上一行。</span>'
-        : '<br><span id="sched">自动更新：每天 07:00 首更，此后每 3 小时一次（北京时间），由云端服务器执行，不需要开电脑。</span>');
+      +'图标为地球形状，与浏览器访问同一份数据。'
+      +'<br>仅供研判参考；所有条目以原始链接为准。生成时间：<span id="genstamp">'+esc(D.generatedAt||'—')+'</span>';
   }
 
   document.getElementById('tabs').addEventListener('click',function(e){
@@ -1054,14 +1044,9 @@ details.ft[open] summary::before{content:'▾ '}
         return r.json();
       })
       .then(function(v){
-        if(v && v.nextRefresh){
-          var s=document.getElementById('sched');
-          if(s) s.textContent='自动更新：每天 07:00 首更，此后每 3 小时一次（北京时间）。'
-            +'下次 '+v.nextRefresh+'　·　当前数据 '+ageText(v.ageMinutes)+'前生成'
-            +(v.lastRefresh?'　·　上次重建 '+v.lastRefresh:'')
-            +(v.running?'　·　正在补抓最新一期（约 3 分钟）':'')
-            +'　·　云端服务器执行，不需要开电脑。';
-        }
+        /* The status line that used to be written here was removed at the
+           reader's request — the page should say what it found, not how it is
+           kept up to date. Only the version check below still matters. */
         if(v && v.generatedAt){
           if(v.generatedAt===lastGen){ refreshFresh(); return; }
           pullFull();
