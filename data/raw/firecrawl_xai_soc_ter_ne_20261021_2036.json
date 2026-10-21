@@ -1,0 +1,56 @@
+{
+ "query": "MPLJ FPL JNIM EIGS Niger jihadist attack Agadez Tillaberi",
+ "_tag": "soc_ter_ne",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/ighazer/status/2112569119283331220",
+     "title": "#Niger 🚨 INSÉCURITÉ 🥷 #Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à en",
+     "description": "#Niger 🚨 INSÉCURITÉ 🥷 \n#Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à environ 35 km d’Agadez, sur l'axe d’#Arlit. D’après les informations qui circulent, l’attaque a été menée par des individus armés à bord de 3 véhicules, s’ensuivirent des échanges de tirs d’une rare intensité avec les FDS à bord de l’un des bus.\nLe bilan provisoire fait état de pertes en vies humaines d'au moins 10 passagers, 1 FDS et nombreux blessés graves.",
+     "snippet": "#Niger 🚨 INSÉCURITÉ 🥷 \n#Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à environ 35 km d’Agadez, sur l'axe d’#Arlit. D’après les informations qui circulent, l’attaque a été menée par des individus armés à bord de 3 véhicules, s’ensuivirent des échanges de tirs d’une rare intensité avec les FDS à bord de l’un des bus.\nLe bilan provisoire fait état de pertes en vies humaines d'au moins 10 passagers, 1 FDS et nombreux blessés graves.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pagoui",
+     "handle": "@ighazer"
+    },
+    {
+     "url": "https://x.com/LoeilNigerien/status/2112548881003078071",
+     "title": "#Niger : au moins 11 personnes, dont un militaire, ont été tuées dans une #attaque armée contre deux bus de transport en commun à environ 35",
+     "description": "#Niger : au moins 11 personnes, dont un militaire, ont été tuées dans une #attaque armée contre deux bus de transport en commun à environ 35 kilomètres d'Agadez, ce mardi 20 octobre 2026. Plusieurs blessés sont signalés. Aucun bilan officiel disponible dans l'immédiat. #Sécurité",
+     "snippet": "#Niger : au moins 11 personnes, dont un militaire, ont été tuées dans une #attaque armée contre deux bus de transport en commun à environ 35 kilomètres d'Agadez, ce mardi 20 octobre 2026. Plusieurs blessés sont signalés. Aucun bilan officiel disponible dans l'immédiat. #Sécurité",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "L'œil Nigérien",
+     "handle": "@LoeilNigerien"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2112633156520018020",
+     "title": "Bain de sang au Niger : Des gens abattus dans des cars de transport aujourd'hui Au moins 10 civils ont été tués ce Mardi 20 Octobre dans une",
+     "description": "Bain de sang au Niger : Des gens abattus dans des cars de transport aujourd'hui \n\nAu moins 10 civils ont été tués ce Mardi 20 Octobre dans une attaque meurtrière menée par des assaillants à bord de 3 véhicules sur l'axe Agadez-Arlit. \n\nSelon Pagoui qui rapporte l'information, les auteurs de l'attaque ont ouvert le feu sur les cars de transport à bord d'un desquels se trouvaient des éléments des Forces de Défense et de Sécurité. Après de violents échanges de tirs, un soldat et de nombreux blessés auraient été enregistrés en plus des nombreux morts civils à déplorer. \n\nIncapable de restaurer la sécurité au nom de laquelle le coup d'état terroriste sponsorisé par la Russie a été mené en Juillet 2023, le sous-préfet de Poutine au pouvoir à Niamey, se barricade dans la forteresse de la capitale avec comme unique garantie de longévité le soutien de Moscou qui pille en échange les ressources minières et énergétiques du Niger.",
+     "snippet": "Bain de sang au Niger : Des gens abattus dans des cars de transport aujourd'hui \n\nAu moins 10 civils ont été tués ce Mardi 20 Octobre dans une attaque meurtrière menée par des assaillants à bord de 3 véhicules sur l'axe Agadez-Arlit. \n\nSelon Pagoui qui rapporte l'information, les auteurs de l'attaque ont ouvert le feu sur les cars de transport à bord d'un desquels se trouvaient des éléments des Forces de Défense et de Sécurité. Après de violents échanges de tirs, un soldat et de nombreux blessés auraient été enregistrés en plus des nombreux morts civils à déplorer. \n\nIncapable de restaurer la sécurité au nom de laquelle le coup d'état terroriste sponsorisé par la Russie a été mené en Juillet 2023, le sous-préfet de Poutine au pouvoir à Niamey, se barricade dans la forteresse de la capitale avec comme unique garantie de longévité le soutien de Moscou qui pille en échange les ressources minières et énergétiques du Niger.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/SahelAlerte/status/2112578782749942022",
+     "title": "🚨 Urgent | Niger 🇳🇪 Entre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026.",
+     "description": "🚨 Urgent | Niger 🇳🇪\n\nEntre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026. Selon les premières informations, une dizaine de personnes, dont des femmes, auraient été tuées.",
+     "snippet": "🚨 Urgent | Niger 🇳🇪\n\nEntre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026. Selon les premières informations, une dizaine de personnes, dont des femmes, auraient été tuées.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    }
+   ]
+  }
+ ]
+}

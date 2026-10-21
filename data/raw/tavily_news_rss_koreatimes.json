@@ -2,73 +2,94 @@
  "success": true,
  "results": [
   {
+   "title": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
+   "url": "https://www.koreatimes.co.kr/world/20261022/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer",
+   "content": "VATICAN CITY — Pope Leo’s doctors say that final tissue and molecular tests have confirmed that his lung cancer was localized and that no further treatment is needed, the Vatican said in a statement Wednesday. Pope Leo returned to the Vatican on Saturday, four days after having the lower lobe of his right lung removed. The surgery confirmed that Leo had lung adenocarcinoma , the most common type of lung cancer. The pope's personal physician, Dr. Luigi Carbone, and his surgeon, Dr. Stefano Margaritora, said in a statement that results of the tests on tissue removed during the pope's surgery confirmed the initial diagnosis and that the cancer had not spread. “A subsequent oncology assessment confirmed that no further treatment is necessary,” the doctors said.",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Trump says 'closest we've been' to ending Ukraine war",
+   "url": "https://www.koreatimes.co.kr/world/20261022/trump-says-closest-weve-been-to-ending-ukraine-war",
+   "content": "WASHINGTON — U.S. President Donald Trump said Wednesday he believed an end to Russia's war on Ukraine could be closer than ever, as he thanked Russia's Vladimir Putin for freeing a detained American. \"The other day I was talking to Vladimir Putin about settling his war with Ukraine, which I think we're getting closer to, by the way — maybe now the closest we've been,\" Trump told reporters at the White House. Trump has made similar claims before, but several rounds of talks and a summit with Putin in Alaska last year have failed to end the Ukraine war as Moscow sticks to its maximalist demands.",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US 8th Army chief stresses readiness for threats beyond Korean Peninsula: report",
+   "url": "https://www.koreatimes.co.kr/world/20261022/us-8th-army-chief-stresses-readiness-for-threats-beyond-korean-peninsula-report",
+   "content": "WASHINGTON — The commander of the U.S. Eighth Army in South Korea has said his troops must be prepared to respond to threats beyond the Korean Peninsula, stressing that it would be \"irresponsible\" to focus solely on threats facing the peninsula, according to a media report Wednesday. Lt. Gen. Joseph Hilbert made the remarks in an email interview with the South China Morning Post, underscoring the U.S. military's emphasis on strategic flexibility. Hilbert said it would be \"irresponsible to focus myopically\" on threats on the Korean Peninsula alone or to \"suggest that we cannot do other things simply because we are in Korea,\" according to the report. \"We view readiness as largely threat-agnostic. If we have a trained, ready force capable of executing the Army's assigned missions, we can apply that force against whatever threat is required,\" Hilbert was quoted as saying. \"So, we train every",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Nasdaq climbs over 1% as SpaceX, Super Micro improve AI sentiment",
    "url": "https://www.koreatimes.co.kr/world/20261022/nasdaq-climbs-over-1-as-spacex-super-micro-improve-ai-sentiment",
    "content": "The tech-heavy Nasdaq led gains on Wednesday after quarterly results from SpaceX and Super Micro Computer improved appetite for AI-linked stocks, while Netflix slipped as its forecast failed to impress investors. Elon Musk's rocket and space technology firm rose 9.8 percent after he said on Tuesday that a merger of SpaceX and Tesla would be \"a good idea\". SpaceX also posted its first profit as a public company. Tesla shares were up 3.5 percent. Super Micro jumped 10.3 percent to the top of the S&P 500 after the AI server maker forecast quarterly revenue and profit margin above Wall Street estimates, signaling that AI demand remained resilient. Peers HPE and Dell rose 2.2 percent and 4.5 percent, respectively. Investors drew comfort from the reports as concerns over the profitability of the AI buildout triggered a selloff in AI-linked stocks last week, with data center operator CoreWeave ",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "Websites go dark worldwide as AI exposes critical security flaws",
    "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws",
    "content": "WASHINGTON — Government agencies and companies around the world shut down websites Wednesday after two critical flaws came to light involving PHP, a programming language that is the basis for a large share of the internet. PHP sits underneath popular web design platforms, so the weaknesses potentially affect a vast range of websites, from online stores and news outlets to government services. Wiz, one of the security firms that found the issues, estimated that PHP runs about 70 percent of the world's websites and said the flaws rank \"among the most severe vulnerabilities discovered in PHP, and arguably in software history.\" The US National Security Agency told organizations to patch immediately or pull vulnerable systems offline. The flaws \"often provide a direct path to the server's file system or database,\" the NSA said in a statement on X. Attackers could use them to take over web ser",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea",
    "url": "https://www.koreatimes.co.kr/world/20261022/nvidia-adds-samsung-electro-mechanics-to-substrate-supply-chain-plans-capacity-expansion-in-s-korea",
    "content": "WASHINGTON — U.S. chip giant Nvidia Corp. said Wednesday that South Korea's Samsung Electro-Mechanics Co. is joining its semiconductor substrate supply chain as part of a broader initiative to expand manufacturing capacity. Samsung Electro-Mechanics, the electronic components unit of Samsung Electronics Co., will initially provide production capacity from its existing operations in South Korea, while the collaboration will also support facility upgrades and new factories in Sejong and Busan, South Korea, according to Nvidia. By 2028, production allocated to Nvidia is projected to account for a significant portion of Samsung Electro-Mechanics' total annual package substrate production capacity, the U.S. company said. The South Korean company also issued a separate press release, calling the deal a strategic business partnership to strengthen the global artificial intelligence (AI) semicon",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "What is PHP and why did it take government websites offline?",
    "url": "https://www.koreatimes.co.kr/world/20261022/what-is-php-and-why-did-it-take-government-websites-offline",
    "content": "Government websites across Europe went dark on Wednesday as operators raced to patch two critical vulnerabilities in PHP, one of the most widely used programming languages on the web. The developers of PHP said on Wednesday they would release patches for two critical vulnerabilities, and EU cybersecurity officials warned organisations unable to apply the fixes to take affected websites offline. Here is what you need to know: What is PHP? PHP is a programming language that runs websites. It works behind the scenes. When a user loads a page, the server running PHP assembles the content and sends the finished page to the browser. It is free, open source and maintained by volunteers. Site owners rarely interact with it directly. PHP runs nearly 70 percent of all websites whose programming language can be identified, according to web technology tracker W3Techs. It is the engine behind WordPre",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "Putin agrees to resume 3-way talks with Kyiv and Washington",
    "url": "https://www.koreatimes.co.kr/world/20261022/putin-agrees-to-resume-3-way-talks-with-kyiv-and-washington",
    "content": "Russian President Vladimir Putin agreed Wednesday to resume three-way negotiations next month with Washington and Kyiv aimed at ending the war in Ukraine, a Kremlin official said. The Russian leader has agreed “in principle” to resume the talks after Nov. 10, Putin’s foreign affairs adviser Yuri Ushakov told reporters following a meeting in St. Petersburg between Putin and U.S. President Donald Trump’s envoy Steve Witkoff. The talks will focus on “building a security system for Russia and Ukraine after the conflict ends,” Ushakov said. Witkoff's talks with Putin about Moscow’s full-scale invasion of Ukraine took place as Trump pushed Kyiv to make a deal that stops the fighting. Ukrainian President Volodymyr Zelenskyy has insisted that only a summit of leaders can break the impasse. The two armies remain locked on the battlefield, and the two countries pummel each other with daily long-ra",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "Netanyahu says 'toppling' Iran government only way to end threat",
    "url": "https://www.koreatimes.co.kr/world/20261022/netanyahu-says-toppling-iran-government-only-way-to-end-threat",
    "content": "DIMONA, Israel — Israeli Prime Minister Benjamin Netanyahu said on Wednesday that the only way to remove the threat posed by Iran was to topple its government. \"Iran wanted to destroy us; we stopped them. They wanted to produce nuclear bombs; we stopped them... Yet they persist,\" he said during an election rally in the southern town of Dimona. \"Therefore, there is only one way to end this: by toppling this regime.\" \"This is the directive I have issued to the Israel Defense Forces, to the Mossad, and to all our security branches,\" he added, without specifying when or how that directive would be executed. The sabre-rattling came as the premier headed into the last week of a tight race for re-election. Netanyahu had instructed the Israeli military to plan for resumed strikes against Iran earlier this month, according to sources cited by the Financial Times on Wednesday, but US President Don",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "France's Macron vows order, calls foreign criticism of unrest 'stupid'",
    "url": "https://www.koreatimes.co.kr/world/20261022/frances-macron-vows-order-calls-foreign-criticism-of-unrest-stupid",
    "content": "PARIS — President Emmanuel Macron vowed on Wednesday to prevent a repeat of last weekend's violence at protests planned in the coming days, and dismissed as \"stupid\" and \"unacceptable\" comments from some foreign leaders about the unrest. France's main student union, UNEF, has called for further rallies on Saturday, while the Yellow Vest group, which emerged as a potent anti-establishment movement in 2018, has filed plans for a march through central Paris the same day. Efforts to ease social tensions showed little sign of progress, as unions pledged to press ahead with a general strike on November 5 to denounce the high cost of living and cuts to public services after government talks ended inconclusively. France was hit by some of the worst urban tumult in years on October 17 on the fringe of nationwide protests, shocking the nation both because of its scale and the apparent inability of",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "OpenAI says its AI agents disabled their own safety monitors",
    "url": "https://www.koreatimes.co.kr/world/20261022/openai-says-its-ai-agents-disabled-their-own-safety-monitors",
    "content": "WASHINGTON — OpenAI has revealed that two of its artificial intelligence agents disabled or weakened systems built to catch them misbehaving, with one later denying it had done so. The cases are the latest in a string of safety scares at the world's top AI developers involving agents, AI programs that carry out tasks without human involvement. In a report released Tuesday, the ChatGPT maker said that during two internal coding jobs, its agents switched off or undermined tools for detecting incidents of AI models acting against human wishes. On October 3, an agent running on OpenAI's GPT-6.1 Sol model, which had been told not to send any messages on the workplace chat app, took that as license to switch off safety alerts meant for the company's security team while fixing a testing system. Three days later, a GPT-6 Astra agent stripped out its own monitor while copying code from another pr",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "Lee meets with WHO chief to discuss cooperation in healthcare",
    "url": "https://www.koreatimes.co.kr/world/20261022/lee-meets-with-who-chief-to-discuss-cooperation-in-healthcare",
    "content": "President Lee Jae Myung met with World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus on Wednesday to discuss ways to enhance cooperation in healthcare, Lee's office said. The meeting at Cheong Wa Dae came as Tedros is visiting Seoul to attend the World Bio Summit 2026, which WHO is hosting in partnership with South Korea on Wednesday and Thursday. During the meeting, Lee stressed the need for South Korea to expand its role and contributions to the international community, presidential spokesperson Kim Sung-wan said in a written briefing. Lee also expressed hope that Seoul would continue to expand its cooperation with WHO in health security. The president asked Tedros to help ensure that more highly skilled South Koreans could contribute to the WHO, noting that South Korea has transformed itself from a recipient of international assistance into a major contributor.",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   },
   {
    "title": "'No retirement from giving': Catholic priest returns to school to care for elderly",
    "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261022/no-retirement-from-giving-catholic-priest-returns-to-school-to-care-for-elderly",
    "content": "A Catholic priest in his 60s who has spent his life serving others is embarking on a new educational journey after decades away from the classroom, hoping to continue his service to the elderly after retirement. Father Carlo Yoon Haeng-do, 65, is head of the Wolyeong Catholic Church in the Diocese of Masan. Yoon enrolled in a master's program in social welfare at Kyungnam University in South Gyeongsang Province in March. He returned to his studies after nearly 30 years to prepare for a new chapter of service to the elderly after retirement. Although priests step down from active ministry at 70, Yoon believes that “there is no retirement from serving one's neighbors.” “As the elderly population grows, someone has to work for older people, and older people themselves should also take part in that work,” he said with a broad smile. Yoon begins each day by rising around 3 a.m. and praying fo",
-   "published_date": "Wed, 21 Oct 2026 17:27:02 GMT",
+   "published_date": "Wed, 21 Oct 2026 20:22:03 GMT",
    "score": 0.6
   }
  ],

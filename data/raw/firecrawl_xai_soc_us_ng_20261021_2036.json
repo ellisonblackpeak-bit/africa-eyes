@@ -1,0 +1,46 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/militaryafrica/status/2112221133151854599",
+     "title": "US, Nigeria strengthens counter-terror ties Nigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Souther",
+     "description": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "snippet": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Military Africa",
+     "handle": "@militaryafrica"
+    },
+    {
+     "url": "https://x.com/USinNigeria/status/2112231225742053819",
+     "title": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence.",
+     "description": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence. Bad actors adapt, so the international response must too. \n \nOpening the 3rd Transatlantic Maritime Security Symposium in Lagos, he pointed to the Gulf of Guinea as proof of what coordinated national, regional, and global effort can achieve. The four-day event focused on strengthening the Yaoundé Code of Conduct and deepening joint patrols.  It was organized by the National Defense University’s Africa Center for Strategic Studies and the William J. Perry Center for Hemispheric Defense Studies.",
+     "snippet": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence. Bad actors adapt, so the international response must too. \n \nOpening the 3rd Transatlantic Maritime Security Symposium in Lagos, he pointed to the Gulf of Guinea as proof of what coordinated national, regional, and global effort can achieve. The four-day event focused on strengthening the Yaoundé Code of Conduct and deepening joint patrols.  It was organized by the National Defense University’s Africa Center for Strategic Studies and the William J. Perry Center for Hemispheric Defense Studies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Mission Nigeria",
+     "handle": "@USinNigeria"
+    },
+    {
+     "url": "https://x.com/ABCouncil_ng/status/2112259848872341698",
+     "title": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing d",
+     "description": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing dialogue on trade, critical minerals, energy, infrastructure and security to strengthen bilateral investment and cooperation. #USNigeria",
+     "snippet": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing dialogue on trade, critical minerals, energy, infrastructure and security to strengthen bilateral investment and cooperation. #USNigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "American Business Council NG",
+     "handle": "@ABCouncil_ng"
+    }
+   ]
+  }
+ ]
+}

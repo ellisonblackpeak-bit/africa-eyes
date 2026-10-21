@@ -1,0 +1,116 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/spotlightoncn/status/2112463211887030503",
+     "title": "BEIJING/TAIPEI — China's military said on Tuesday it dispatched forces to monitor a U.S.",
+     "description": "BEIJING/TAIPEI — China's military said on Tuesday it dispatched forces to monitor a U.S. warship that entered waters around a disputed shoal in the South China Sea, while Taiwan reported an ongoing standoff with a Chinese vessel further north.\n\nChina claims almost the entire South China Sea despite overlapping claims by Brunei, Malaysia, the Philippines, Taiwan, and Vietnam, with tensions running highest between Beijing and Manila.\n\nThe Chinese military's Southern Theatre Command stated that the USS Charleston entered waters adjacent to Sabina Shoal in the Spratly Islands without approval, alleging the transit jeopardized regional peace and warning Washington to cease such activities.\n\nChina's navy deployed units to track and monitor the vessel throughout the operation.\n\nThe U.S. Navy did not immediately comment, though it typically frames such movements as freedom of navigation operations.\n\nA Philippine military spokesperson defended the mission, stating the U.S. ship did not trespass onto Chinese territory and emphasizing that no state has the legal authority to require prior permission for lawful international transit.\n\nFriction around the feature has been severe, following an incident last month where a China Coast Guard ship rammed a Philippine vessel during a refueling mission near the shoal.\n\nIn a separate confrontation on Tuesday at the northern edge of the waterway, Taiwan's Coast Guard dispatched a patrol vessel after a Chinese Coast Guard ship breached restricted waters near the Taiwan-controlled Pratas Islands.\n\nDuring the standoff, the Chinese vessel broadcast that the \"Republic of China does not exist,\" prompting Taiwanese crews to respond over radio that Taiwan is a sovereign and independent nation.\n\nBeijing's Taiwan Affairs Office did not immediately respond to inquiries, having previously warned that Taipei would bear consequences after using water cannons against a Chinese fishing boat in the area.\n\nChina has steadily intensified coast guard patrols around Taiwan, including along its eastern coastline, drawing growing concern from Western allies.\n\nSpeaking at a forum in Taipei on Tuesday, a U.S. congressional commission chair labeled China’s eastern maritime patrols highly destabilizing, while Taiwan's National Security Council Secretary-General Joseph Wu asserted Beijing has no legal jurisdiction over those waters.",
+     "snippet": "BEIJING/TAIPEI — China's military said on Tuesday it dispatched forces to monitor a U.S. warship that entered waters around a disputed shoal in the South China Sea, while Taiwan reported an ongoing standoff with a Chinese vessel further north.\n\nChina claims almost the entire South China Sea despite overlapping claims by Brunei, Malaysia, the Philippines, Taiwan, and Vietnam, with tensions running highest between Beijing and Manila.\n\nThe Chinese military's Southern Theatre Command stated that the USS Charleston entered waters adjacent to Sabina Shoal in the Spratly Islands without approval, alleging the transit jeopardized regional peace and warning Washington to cease such activities.\n\nChina's navy deployed units to track and monitor the vessel throughout the operation.\n\nThe U.S. Navy did not immediately comment, though it typically frames such movements as freedom of navigation operations.\n\nA Philippine military spokesperson defended the mission, stating the U.S. ship did not trespass onto Chinese territory and emphasizing that no state has the legal authority to require prior permission for lawful international transit.\n\nFriction around the feature has been severe, following an incident last month where a China Coast Guard ship rammed a Philippine vessel during a refueling mission near the shoal.\n\nIn a separate confrontation on Tuesday at the northern edge of the waterway, Taiwan's Coast Guard dispatched a patrol vessel after a Chinese Coast Guard ship breached restricted waters near the Taiwan-controlled Pratas Islands.\n\nDuring the standoff, the Chinese vessel broadcast that the \"Republic of China does not exist,\" prompting Taiwanese crews to respond over radio that Taiwan is a sovereign and independent nation.\n\nBeijing's Taiwan Affairs Office did not immediately respond to inquiries, having previously warned that Taipei would bear consequences after using water cannons against a Chinese fishing boat in the area.\n\nChina has steadily intensified coast guard patrols around Taiwan, including along its eastern coastline, drawing growing concern from Western allies.\n\nSpeaking at a forum in Taipei on Tuesday, a U.S. congressional commission chair labeled China’s eastern maritime patrols highly destabilizing, while Taiwan's National Security Council Secretary-General Joseph Wu asserted Beijing has no legal jurisdiction over those waters.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Spotlight on China",
+     "handle": "@spotlightoncn"
+    },
+    {
+     "url": "https://x.com/BRPSierraMadre/status/2112426696804884853",
+     "title": "🚨 CHINA’S ILLEGAL PRESENCE PERSISTS AT SCARBOROUGH SHOAL, BUT THE PHILIPPINES REMAINS VIGILANT.",
+     "description": "🚨 CHINA’S ILLEGAL PRESENCE PERSISTS AT SCARBOROUGH SHOAL, BUT THE PHILIPPINES REMAINS VIGILANT.\n\nChina speaks of peace, yet its actions at sea tell another story.\n\nDuring a Philippine Coast Guard maritime domain awareness flight over Bajo de Masinloc, radio challenges involving Philippine and Chinese military aircraft and vessels were already being heard before the shoal was reached.\n\nThe mission also spotted two buoys and a floating barrier still in place, along with a Chinese research vessel, a PLA Navy warship, and a Chinese maritime militia vessel operating outside the shoal.\n\nThe Philippines continues to monitor the situation, document maritime activities, and assert its rights under international law.\n\nBajo de Masinloc is more than a point on the map. It represents the Philippines’ determination to protect its maritime rights against persistent pressure and intimidation.\n\n🇵🇭 The Philippines remains watchful. Its maritime rights must be respected.\n\n#BRPSierraMadre #WPS #WestPhilippineSea #PhilippineSovereignty #RuleOfLaw #KnowTheTactics #StandForThePhilippines #MaritimeSecurity #UNCLOS #SovereignRights #NotOneMore #BajoDeMasinloc #PhilippineCoastGuard #MaritimeSecurity",
+     "snippet": "🚨 CHINA’S ILLEGAL PRESENCE PERSISTS AT SCARBOROUGH SHOAL, BUT THE PHILIPPINES REMAINS VIGILANT.\n\nChina speaks of peace, yet its actions at sea tell another story.\n\nDuring a Philippine Coast Guard maritime domain awareness flight over Bajo de Masinloc, radio challenges involving Philippine and Chinese military aircraft and vessels were already being heard before the shoal was reached.\n\nThe mission also spotted two buoys and a floating barrier still in place, along with a Chinese research vessel, a PLA Navy warship, and a Chinese maritime militia vessel operating outside the shoal.\n\nThe Philippines continues to monitor the situation, document maritime activities, and assert its rights under international law.\n\nBajo de Masinloc is more than a point on the map. It represents the Philippines’ determination to protect its maritime rights against persistent pressure and intimidation.\n\n🇵🇭 The Philippines remains watchful. Its maritime rights must be respected.\n\n#BRPSierraMadre #WPS #WestPhilippineSea #PhilippineSovereignty #RuleOfLaw #KnowTheTactics #StandForThePhilippines #MaritimeSecurity #UNCLOS #SovereignRights #NotOneMore #BajoDeMasinloc #PhilippineCoastGuard #MaritimeSecurity",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BRP Sierra Madre",
+     "handle": "@BRPSierraMadre"
+    },
+    {
+     "url": "https://x.com/ShadowsOverPH/status/2112659577959576022",
+     "title": "Beijing has a new rule for the South China Sea: ask permission.",
+     "description": "Beijing has a new rule for the South China Sea: ask permission.\n\nOn Tuesday, China's military said the USS Charleston sailed near Sabina Shoal \"without approval.\"\n\nIts embassy says Manila resupplied its own troops at Ayungin \"without China's consent.\"\n\nAnd the same day, near Taiwan-held Pratas, a China Coast Guard ship told Taiwan's crew the \"Republic of China does not exist.\"\n\nThree places, one message: you're only here if we allow it.\n\nHere's Beijing's problem. Sabina sits about 75 nautical miles off Palawan, inside the Philippines' EEZ. Warships don't need anyone's approval to sail there. That isn't an American talking point. It's the law of the sea China itself ratified, and China's navy uses that same freedom in other countries' EEZs, including off Alaska.\n\nLook at where the Charleston went: the shoal where a China Coast Guard ship and a Philippine vessel collided last month. Each side blames the other. The transit wasn't a request. It was an answer.\n\nAccept \"approval\" once, and every patrol, every resupply, every fishing trip becomes a request. That's the real fight in the South China Sea. Not rocks. A permission slip.",
+     "snippet": "Beijing has a new rule for the South China Sea: ask permission.\n\nOn Tuesday, China's military said the USS Charleston sailed near Sabina Shoal \"without approval.\"\n\nIts embassy says Manila resupplied its own troops at Ayungin \"without China's consent.\"\n\nAnd the same day, near Taiwan-held Pratas, a China Coast Guard ship told Taiwan's crew the \"Republic of China does not exist.\"\n\nThree places, one message: you're only here if we allow it.\n\nHere's Beijing's problem. Sabina sits about 75 nautical miles off Palawan, inside the Philippines' EEZ. Warships don't need anyone's approval to sail there. That isn't an American talking point. It's the law of the sea China itself ratified, and China's navy uses that same freedom in other countries' EEZs, including off Alaska.\n\nLook at where the Charleston went: the shoal where a China Coast Guard ship and a Philippine vessel collided last month. Each side blames the other. The transit wasn't a request. It was an answer.\n\nAccept \"approval\" once, and every patrol, every resupply, every fishing trip becomes a request. That's the real fight in the South China Sea. Not rocks. A permission slip.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Shadows Over The Archipelago",
+     "handle": "@ShadowsOverPH"
+    },
+    {
+     "url": "https://x.com/AsiaMTI/status/2112612314310381785",
+     "title": "China says it deployed naval forces to monitor the USS Charleston near the disputed Sabina Shoal in the South China Sea calling its presence",
+     "description": "China says it deployed naval forces to monitor the USS Charleston near the disputed Sabina Shoal in the South China Sea calling its presence \"illegal,\" while the Philippine military rejects Beijin's claim that the U.S. ship had entered Chinese territory. https://www.reuters.com/world/china/chinese-navy-says-us-ship-near-sabina-shoal-jeopardised-maritime-security-2026-10-20/",
+     "snippet": "China says it deployed naval forces to monitor the USS Charleston near the disputed Sabina Shoal in the South China Sea calling its presence \"illegal,\" while the Philippine military rejects Beijin's claim that the U.S. ship had entered Chinese territory. https://www.reuters.com/world/china/chinese-navy-says-us-ship-near-sabina-shoal-jeopardised-maritime-security-2026-10-20/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AMTI",
+     "handle": "@AsiaMTI"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2112665197563297950",
+     "title": "China and the Philippines are turning a South China Sea dispute into a full-blown diplomatic brawl, with Beijing’s “we could easily win” war",
+     "description": "China and the Philippines are turning a South China Sea dispute into a full-blown diplomatic brawl, with Beijing’s “we could easily win” warning pushing Manila to the brink of demanding the Chinese ambassador’s expulsion.\n\nhttps://chinaglobalsouth.com/2026/10/20/china-philippines-diplomatic-tensions-ambassador-row/",
+     "snippet": "China and the Philippines are turning a South China Sea dispute into a full-blown diplomatic brawl, with Beijing’s “we could easily win” warning pushing Manila to the brink of demanding the Chinese ambassador’s expulsion.\n\nhttps://chinaglobalsouth.com/2026/10/20/china-philippines-diplomatic-tensions-ambassador-row/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/pacific_reports/status/2112499807885672934",
+     "title": "China has threatened “resolute and effective measures” over disputed South China Sea activities, as Manila reports more than 100 Chinese nav",
+     "description": "China has threatened “resolute and effective measures” over disputed South China Sea activities, as Manila reports more than 100 Chinese naval and coast guard vessels near Thitu Island and Sabina Shoal in September.\n#indopacificreport #China #Philippines",
+     "snippet": "China has threatened “resolute and effective measures” over disputed South China Sea activities, as Manila reports more than 100 Chinese naval and coast guard vessels near Thitu Island and Sabina Shoal in September.\n#indopacificreport #China #Philippines",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "IndoPacific Report",
+     "handle": "@pacific_reports"
+    },
+    {
+     "url": "https://x.com/AFP_press/status/2112589825622639080",
+     "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces",
+     "description": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal\n\nMANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.\n\n@USMC @marcorubio @USNavy\n\nSource: USNI News",
+     "snippet": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal\n\nMANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.\n\n@USMC @marcorubio @USNavy\n\nSource: USNI News",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Armed Forces Press",
+     "handle": "@AFP_press"
+    },
+    {
+     "url": "https://x.com/TV5NewsPH/status/2112549390040883708",
+     "title": "‘SEND THIS POOR VERSION OF FOREIGN GUEST, THIS HOOLIGAN BACK HOME’ Hinikayat ni Sen.",
+     "description": "‘SEND THIS POOR VERSION OF FOREIGN GUEST, THIS HOOLIGAN BACK HOME’\n\nHinikayat ni Sen. Kiko Pangilinan si Pres. Bongbong Marcos na pauwiin si Chinese Ambassador to the Philippines Jing Quan sa China kasunod ng mga kontrobersiyal na pahayag ng diplomat.\n\nPara sa senador, kung nagawa ng PBBM administration na ipakulong sina dating pangulong Rodrigo Duterte, Pastor Apollo Quiboloy, at dating House speaker Martin Romualdez, ipagbawal ang Philippine Offshore Gaming Operators (POGO), at igiit ang soberanya ng bansa laban sa Chinese aggression, kaya rin nitong pabalikin ng China si Quan.\n\n“I have witnessed and thus know that you have what it takes, Mr President. But if you don’t use it, you lose it,” ani Pangilinan.",
+     "snippet": "‘SEND THIS POOR VERSION OF FOREIGN GUEST, THIS HOOLIGAN BACK HOME’\n\nHinikayat ni Sen. Kiko Pangilinan si Pres. Bongbong Marcos na pauwiin si Chinese Ambassador to the Philippines Jing Quan sa China kasunod ng mga kontrobersiyal na pahayag ng diplomat.\n\nPara sa senador, kung nagawa ng PBBM administration na ipakulong sina dating pangulong Rodrigo Duterte, Pastor Apollo Quiboloy, at dating House speaker Martin Romualdez, ipagbawal ang Philippine Offshore Gaming Operators (POGO), at igiit ang soberanya ng bansa laban sa Chinese aggression, kaya rin nitong pabalikin ng China si Quan.\n\n“I have witnessed and thus know that you have what it takes, Mr President. But if you don’t use it, you lose it,” ani Pangilinan.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TV5 News",
+     "handle": "@TV5NewsPH"
+    },
+    {
+     "url": "https://x.com/ORF_CNED/status/2111872437461876894",
+     "title": "Ten years after the Arbitral Award vindicated the #Philippines' claims in the #SouthChinaSea, #China has only escalated deploying water cann",
+     "description": "Ten years after the Arbitral Award vindicated the #Philippines' claims in the #SouthChinaSea, #China has only escalated deploying water cannons, expanding \"nature reserves\" at Scarborough Shoal, and waging information warfare against #Manila's officials: @DonMcLainGill95  https://t.co/kkxsvieqWI #Geopolitics",
+     "snippet": "Ten years after the Arbitral Award vindicated the #Philippines' claims in the #SouthChinaSea, #China has only escalated deploying water cannons, expanding \"nature reserves\" at Scarborough Shoal, and waging information warfare against #Manila's officials: @DonMcLainGill95  https://t.co/kkxsvieqWI #Geopolitics",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Centre for New Economic Diplomacy",
+     "handle": "@ORF_CNED"
+    },
+    {
+     "url": "https://x.com/DWalpiri/status/2112522467667571090",
+     "title": "Philippines kicks out ANOTHER Chinese maritime militia vessel from Loaita Island.",
+     "description": "Philippines kicks out ANOTHER Chinese maritime militia vessel from Loaita Island.\n\nFourth such operation in 3 weeks.\n\nThey're kicking out Chinese Ambassador Jing Quan right along with them!\n\n A full-blown Chinese pirate purge is going on in Manila!",
+     "snippet": "Philippines kicks out ANOTHER Chinese maritime militia vessel from Loaita Island.\n\nFourth such operation in 3 weeks.\n\nThey're kicking out Chinese Ambassador Jing Quan right along with them!\n\n A full-blown Chinese pirate purge is going on in Manila!",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "David Walpiri",
+     "handle": "@DWalpiri"
+    }
+   ]
+  }
+ ]
+}

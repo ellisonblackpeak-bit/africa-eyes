@@ -1,0 +1,116 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2112484889635225825",
+     "title": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Co",
+     "description": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Conference in Fujian. The push comes as the Kyaukphyu SEZ designed to give China access to the Indian Ocean is stalled  due to Rakhine fighting. \n\n#WhatsHappeningInMyanmar",
+     "snippet": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Conference in Fujian. The push comes as the Kyaukphyu SEZ designed to give China access to the Indian Ocean is stalled  due to Rakhine fighting. \n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/zawmoethant71/status/2112211289732702400",
+     "title": "\"China Datang Corporation\", a #Chinese state-owned enterprise, is planning to implement new energy projects in #Myanmar,based on #TaPein (1)",
+     "description": "\"China Datang Corporation\", a #Chinese state-owned enterprise, is planning to implement new energy projects in #Myanmar,based on #TaPein (1) hydropower plant in #Myitkyina twsp, #Kachin State,does is aimed at disrupting Myanmar's politics ?\n\nhttps://cjplatform.com/19102026-6/\n#2026Oct19Coup",
+     "snippet": "\"China Datang Corporation\", a #Chinese state-owned enterprise, is planning to implement new energy projects in #Myanmar,based on #TaPein (1) hydropower plant in #Myitkyina twsp, #Kachin State,does is aimed at disrupting Myanmar's politics ?\n\nhttps://cjplatform.com/19102026-6/\n#2026Oct19Coup",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andrew zaw🇲🇾🇲🇲",
+     "handle": "@zawmoethant71"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112530189519642889",
+     "title": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone You can't offer maritime connectivity when",
+     "description": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone\n\nYou can't offer maritime connectivity when you don't even control your coastline. But since China never turns down a chance to exploit a desperate regime, anything is possible",
+     "snippet": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone\n\nYou can't offer maritime connectivity when you don't even control your coastline. But since China never turns down a chance to exploit a desperate regime, anything is possible",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/KevinLH811/status/2112658413398196531",
+     "title": "Myanmar is where a lot of China's heavy rare earth feed comes from, mostly ionic clay out of Kachin.",
+     "description": "Myanmar is where a lot of China's heavy rare earth feed comes from, mostly ionic clay out of Kachin. Even if the US got access, that ore still goes to China to be separated today. More feed doesn't help much until there's somewhere outside China to process it.",
+     "snippet": "Myanmar is where a lot of China's heavy rare earth feed comes from, mostly ionic clay out of Kachin. Even if the US got access, that ore still goes to China to be separated today. More feed doesn't help much until there's somewhere outside China to process it.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kevin H",
+     "handle": "@KevinLH811"
+    },
+    {
+     "url": "https://x.com/ViewsofMM22/status/2112370815694225480",
+     "title": "Who is really profiting from Myanmar’s jade?",
+     "description": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "snippet": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Views of Myanmar",
+     "handle": "@ViewsofMM22"
+    },
+    {
+     "url": "https://x.com/MoeSatKhinn/status/2112357178170606013",
+     "title": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State.",
+     "description": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "snippet": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FreedomSeeker",
+     "handle": "@MoeSatKhinn"
+    },
+    {
+     "url": "https://x.com/Freelancejou333/status/2112381177919361479",
+     "title": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting sta",
+     "description": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "snippet": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Freelance Journalist",
+     "handle": "@Freelancejou333"
+    },
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2112474638735298638",
+     "title": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highla",
+     "description": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highlands harvest to Yunnan as the regime-aligned Myanmar Coffee Association seeks Chinese investment to build the sector.\n\n#WhatsHappeningInMyanmar",
+     "snippet": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highlands harvest to Yunnan as the regime-aligned Myanmar Coffee Association seeks Chinese investment to build the sector.\n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/WW3Watchtower/status/2112297152034615313",
+     "title": "Myanmar’s civil war is disrupting rare earth element mining, a critical supply node for China’s industrial sector.",
+     "description": "Myanmar’s civil war is disrupting rare earth element mining, a critical supply node for China’s industrial sector. Beijing must adapt procurement to handle volatility in a conflict zone where shifting control threatens the continuity of these essential resource imports. #Myanmar",
+     "snippet": "Myanmar’s civil war is disrupting rare earth element mining, a critical supply node for China’s industrial sector. Beijing must adapt procurement to handle volatility in a conflict zone where shifting control threatens the continuity of these essential resource imports. #Myanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WW3 Watchtower",
+     "handle": "@WW3Watchtower"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2111795767698657419",
+     "title": "China is suffocating Myanmar from every angle.",
+     "description": "China is suffocating Myanmar from every angle. While Chinese-backed firms quietly rebuild oil refineries to keep the military junta's warplanes fueled for airstrikes, China is also vacuuming up nearly 80% of Myanmar's \"blood timber\" to feed its industries",
+     "snippet": "China is suffocating Myanmar from every angle. While Chinese-backed firms quietly rebuild oil refineries to keep the military junta's warplanes fueled for airstrikes, China is also vacuuming up nearly 80% of Myanmar's \"blood timber\" to feed its industries",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    }
+   ]
+  }
+ ]
+}

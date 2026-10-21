@@ -1,0 +1,116 @@
+{
+ "query": "China North Korea South Korea Chinese embassy deal",
+ "_tag": "soc_cn_kr",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/NuclearID68/status/2112496042155418031",
+     "title": "🇰🇷 🇨🇳 South Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges an",
+     "description": "🇰🇷 🇨🇳\nSouth Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges and conditions on the Korean Peninsula.\n\nKang urged Beijing to play a constructive role in maintaining peace and stability, saying heightened tensions also run against China’s interests. Reporting confirms the previously scheduled meeting took place.\n\n#SouthKorea #China #KoreanPeninsula\n\n🔗 Yonhap Publication:",
+     "snippet": "🇰🇷 🇨🇳\nSouth Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges and conditions on the Korean Peninsula.\n\nKang urged Beijing to play a constructive role in maintaining peace and stability, saying heightened tensions also run against China’s interests. Reporting confirms the previously scheduled meeting took place.\n\n#SouthKorea #China #KoreanPeninsula\n\n🔗 Yonhap Publication:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nuclear-ID",
+     "handle": "@NuclearID68"
+    },
+    {
+     "url": "https://x.com/Asia_Customs/status/2112469160735424825",
+     "title": "Trade between North Korea and China reached $2.27 billion in the first nine months of this year, its highest level since the Covid-19 border",
+     "description": "Trade between North Korea and China reached $2.27 billion in the first nine months of this year, its highest level since the Covid-19 border lockdowns.--Korea JoongAng Daily\n\nhttps://www.koreajoongangdaily.com/korea/north-koreachina-trade-reaches-postcovid-high-as-new-border-bridge-opens/12929448",
+     "snippet": "Trade between North Korea and China reached $2.27 billion in the first nine months of this year, its highest level since the Covid-19 border lockdowns.--Korea JoongAng Daily\n\nhttps://www.koreajoongangdaily.com/korea/north-koreachina-trade-reaches-postcovid-high-as-new-border-bridge-opens/12929448",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Asia Customs & Trade",
+     "handle": "@Asia_Customs"
+    },
+    {
+     "url": "https://x.com/The_Daily_NK/status/2112371229315207671",
+     "title": "Finished in 2014, the New Yalu River Bridge between Dandong and Sinuiju has finally opened.",
+     "description": "Finished in 2014, the New Yalu River Bridge between Dandong and Sinuiju has finally opened. Will North Korea's economy open with it, or just become more dependent on China?\nhttps://thediplomat.com/2026/10/what-the-new-china-north-korea-bridge-really-means/\n#NorthKorea #China",
+     "snippet": "Finished in 2014, the New Yalu River Bridge between Dandong and Sinuiju has finally opened. Will North Korea's economy open with it, or just become more dependent on China?\nhttps://thediplomat.com/2026/10/what-the-new-china-north-korea-bridge-really-means/\n#NorthKorea #China",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Daily NK",
+     "handle": "@The_Daily_NK"
+    },
+    {
+     "url": "https://x.com/The_Daily_NK/status/2112537206736752670",
+     "title": "Shipping one container 3 km from Dandong to Sinuiju now costs up to 8,000 yuan.",
+     "description": "Shipping one container 3 km from Dandong to Sinuiju now costs up to 8,000 yuan. Traders say they clear just 500–700 yuan in profit.\nhttps://www.dailynk.com/english/dandong-sinuiju-shipping-costs-traders/\n#China #DPRK #NorthKorea",
+     "snippet": "Shipping one container 3 km from Dandong to Sinuiju now costs up to 8,000 yuan. Traders say they clear just 500–700 yuan in profit.\nhttps://www.dailynk.com/english/dandong-sinuiju-shipping-costs-traders/\n#China #DPRK #NorthKorea",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Daily NK",
+     "handle": "@The_Daily_NK"
+    },
+    {
+     "url": "https://x.com/NewsTongueX/status/2112664330470625465",
+     "title": "🔴 North Korea arms exports to Russia nearly doubled to $14.4B; new land bridges enable trade split North Korea opened road bridges with Russ",
+     "description": "🔴 North Korea arms exports to Russia nearly doubled to $14.4B; new land bridges enable trade split\n\nNorth Korea opened road bridges with Russia in September and China last week, operationalizing a new strategy to balance Moscow and Beijing without requiring geopolitical conflict between them.\nNorth Korea-Russia arms trade grew from $7.7 billion in 2023 to $14.4 billion in 2025. The land bridge will strengthen bilateral weapons transfers while North Korean laborers work in Russian drone factories and along the Russia-Ukraine border.",
+     "snippet": "🔴 North Korea arms exports to Russia nearly doubled to $14.4B; new land bridges enable trade split\n\nNorth Korea opened road bridges with Russia in September and China last week, operationalizing a new strategy to balance Moscow and Beijing without requiring geopolitical conflict between them.\nNorth Korea-Russia arms trade grew from $7.7 billion in 2023 to $14.4 billion in 2025. The land bridge will strengthen bilateral weapons transfers while North Korean laborers work in Russian drone factories and along the Russia-Ukraine border.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NewsTongue",
+     "handle": "@NewsTongueX"
+    },
+    {
+     "url": "https://x.com/ORF_CNED/status/2112061180475023717",
+     "title": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026.",
+     "description": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026. The timing was no accident: it was a calculated signal to the US and its allies that North Korea remains China's closest strategic partner: @AVIRAL96 https://www.orfonline.org/expert-speak/from-burden-to-asset-china-s-recalibration-of-north-korea #China #NorthKorea",
+     "snippet": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026. The timing was no accident: it was a calculated signal to the US and its allies that North Korea remains China's closest strategic partner: @AVIRAL96 https://www.orfonline.org/expert-speak/from-burden-to-asset-china-s-recalibration-of-north-korea #China #NorthKorea",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Centre for New Economic Diplomacy",
+     "handle": "@ORF_CNED"
+    },
+    {
+     "url": "https://x.com/PCz911/status/2111835201500332537",
+     "title": "Inside the Chinese city helping sustain the hermit kingdom of North Korea.",
+     "description": "Inside the Chinese city helping sustain the hermit kingdom of North Korea. China accounts for about 95 per cent of North Korea's official trade\n\nhttps://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web via @ABCaustralia",
+     "snippet": "Inside the Chinese city helping sustain the hermit kingdom of North Korea. China accounts for about 95 per cent of North Korea's official trade\n\nhttps://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web via @ABCaustralia",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "paul czaplicki",
+     "handle": "@PCz911"
+    },
+    {
+     "url": "https://x.com/AndrewW66619812/status/2111761742741004558",
+     "title": "“A UN Security Council resolution in 2017 made it unlawful for member states — including China — to allow the employment of North Korean wor",
+     "description": "“A UN Security Council resolution in 2017 made it unlawful for member states — including China — to allow the employment of North Korean workers in their jurisdictions.\n\nBut it's clearly happening here in Dandong, on the China-North Korea border.”\n\nhttps://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=other",
+     "snippet": "“A UN Security Council resolution in 2017 made it unlawful for member states — including China — to allow the employment of North Korean workers in their jurisdictions.\n\nBut it's clearly happening here in Dandong, on the China-North Korea border.”\n\nhttps://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=other",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andy_Weeble_Weaver😷⚫🦋andy-weaver.bsky.social🗿",
+     "handle": "@AndrewW66619812"
+    },
+    {
+     "url": "https://x.com/liumin1988/status/2112390740231983468",
+     "title": "北京协和医院传出，协和医院住院部重症医学科整层楼宇由北京中央警卫局管制，朝鲜驻中国大使将工作地点搬至协和医院，全天候在岗。",
+     "description": "北京协和医院传出，协和医院住院部重症医学科整层楼宇由北京中央警卫局管制，朝鲜驻中国大使将工作地点搬至协和医院，全天候在岗。更流出一张疑似金正恩在北京协和医院特供病房的照片，金正恩全身插管、心功、供血全天监候。",
+     "snippet": "北京协和医院传出，协和医院住院部重症医学科整层楼宇由北京中央警卫局管制，朝鲜驻中国大使将工作地点搬至协和医院，全天候在岗。更流出一张疑似金正恩在北京协和医院特供病房的照片，金正恩全身插管、心功、供血全天监候。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "刘敏",
+     "handle": "@liumin1988"
+    },
+    {
+     "url": "https://x.com/eric_hawkins9/status/2111769373245378715",
+     "title": "Beijing opened 2 bridges to cross into Nth Korea 10 yrs ago.",
+     "description": "Beijing opened 2 bridges to cross into Nth Korea 10 yrs ago. Only now have the roads been built on the Korean side to complete it. Beijing now sees Nth Korea as a trading partner along with Russia. Big dangers ahead. No worries, keep buying Chinese made cars, but remember failure",
+     "snippet": "Beijing opened 2 bridges to cross into Nth Korea 10 yrs ago. Only now have the roads been built on the Korean side to complete it. Beijing now sees Nth Korea as a trading partner along with Russia. Big dangers ahead. No worries, keep buying Chinese made cars, but remember failure",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eric Hawkins",
+     "handle": "@eric_hawkins9"
+    }
+   ]
+  }
+ ]
+}

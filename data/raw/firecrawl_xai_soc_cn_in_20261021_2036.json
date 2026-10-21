@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/TheMinuend/status/2112206615260893315",
+     "title": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.",
+     "description": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "snippet": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roy",
+     "handle": "@TheMinuend"
+    },
+    {
+     "url": "https://x.com/Dragonobserwer/status/2111741056387842371",
+     "title": "On how India manages to treat China as a hostile country every day, openly teaches how to divide and confront China, forms cliques everywher",
+     "description": "On how India manages to treat China as a hostile country every day, openly teaches how to divide and confront China, forms cliques everywhere in geopolitics to contain China, creates conflicts and terrorist attacks at the border, and deceives Chinese companies by deceiving and deceiving Chinese companies to shout for replacing China's N+1 with the final look of frustration: Why is China unwilling to transfer technology to India and instead send engineers to teach India?\n\nWhy doesn't India give China everything north of Henghe?\n\nOr maybe we're just too kind. When Western countries first mastered the selection technology, whatever they said was accepted. Countries in Asia, Africa, and Latin America would honestly pay and endure a lot of frustration. When we endure hardships and master advanced technology, some confused countries always jump in to share with us. Isn't that bullying honest people? 7/n \n@5623_vikram",
+     "snippet": "On how India manages to treat China as a hostile country every day, openly teaches how to divide and confront China, forms cliques everywhere in geopolitics to contain China, creates conflicts and terrorist attacks at the border, and deceives Chinese companies by deceiving and deceiving Chinese companies to shout for replacing China's N+1 with the final look of frustration: Why is China unwilling to transfer technology to India and instead send engineers to teach India?\n\nWhy doesn't India give China everything north of Henghe?\n\nOr maybe we're just too kind. When Western countries first mastered the selection technology, whatever they said was accepted. Countries in Asia, Africa, and Latin America would honestly pay and endure a lot of frustration. When we endure hardships and master advanced technology, some confused countries always jump in to share with us. Isn't that bullying honest people? 7/n \n@5623_vikram",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DRAGON OBSERVER",
+     "handle": "@Dragonobserwer"
+    },
+    {
+     "url": "https://x.com/ITGGlobal/status/2111881179200884737",
+     "title": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the",
+     "description": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the 2020 India-China border standoff.\n\nChina called the move “illegal and invalid”, while India reiterated that Ladakh is an integral and inalienable part of the country.\n\nWatch Dragon Diaries only on India Today Global: https://t.co/K2qvaRHpvI\n\n#IndiaChina #Ladakh #IndiaChinaBorder #DragonDiaries #IndiaTodayGlobal",
+     "snippet": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the 2020 India-China border standoff.\n\nChina called the move “illegal and invalid”, while India reiterated that Ladakh is an integral and inalienable part of the country.\n\nWatch Dragon Diaries only on India Today Global: https://t.co/K2qvaRHpvI\n\n#IndiaChina #Ladakh #IndiaChinaBorder #DragonDiaries #IndiaTodayGlobal",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "India Today Global",
+     "handle": "@ITGGlobal"
+    },
+    {
+     "url": "https://x.com/NDTVWorld/status/2111710820615049443",
+     "title": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "description": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "snippet": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NDTV World",
+     "handle": "@NDTVWorld"
+    },
+    {
+     "url": "https://x.com/ians_india/status/2112197842483970086",
+     "title": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv.",
+     "description": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv. Tashi Gyalson says, \"Regarding the statement, we have simply put forward the truth. We strongly condemn and criticise the remarks made by Chinese Foreign Ministry spokesperson Mao Ning in the strongest possible terms. Aksai Chin belongs to India and has been illegally occupied by China. Therefore, the land she is referring to does not belong to them. I believe the time has come for us to firmly present our stance and clearly assert our claim in strong terms. The region should no longer be referred to as ‘Aksai Chin’, but as ‘Aksai Bharat’ or ‘Aksai Hind’. It is ours...\"",
+     "snippet": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv. Tashi Gyalson says, \"Regarding the statement, we have simply put forward the truth. We strongly condemn and criticise the remarks made by Chinese Foreign Ministry spokesperson Mao Ning in the strongest possible terms. Aksai Chin belongs to India and has been illegally occupied by China. Therefore, the land she is referring to does not belong to them. I believe the time has come for us to firmly present our stance and clearly assert our claim in strong terms. The region should no longer be referred to as ‘Aksai Chin’, but as ‘Aksai Bharat’ or ‘Aksai Hind’. It is ours...\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "IANS",
+     "handle": "@ians_india"
+    },
+    {
+     "url": "https://x.com/EconomicTimes/status/2112394974918791381",
+     "title": "Ladakh leader pushes ‘Aksai Hind’ name for territory occupied by China https://economictimes.indiatimes.com/news/india/ladakh-leader-pushes-",
+     "description": "Ladakh leader pushes ‘Aksai Hind’ name for territory occupied by China\n\nhttps://economictimes.indiatimes.com/news/india/ladakh-leader-pushes-aksai-hind-name-for-territory-occupied-by-china/articleshow/135060981.cms",
+     "snippet": "Ladakh leader pushes ‘Aksai Hind’ name for territory occupied by China\n\nhttps://economictimes.indiatimes.com/news/india/ladakh-leader-pushes-aksai-hind-name-for-territory-occupied-by-china/articleshow/135060981.cms",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Economic Times",
+     "handle": "@EconomicTimes"
+    },
+    {
+     "url": "https://x.com/dc4_humanrights/status/2112436906159997097",
+     "title": "Ladakh is not China. Tibet is not China’s property to control. Ladakh’s Apex Body has firmly rejected Beijing’s latest claim over Ladakh, de",
+     "description": "Ladakh is not China. Tibet is not China’s property to control. \n\nLadakh’s Apex Body has firmly rejected Beijing’s latest claim over Ladakh, declaring that the region was never part of China. Its representatives also pointed to a painful reality: China’s forced exile of His Holiness the Dalai Lama remains a deep wound for Ladakhis, who share close cultural, religious and historical ties with Tibet.\n\nFor decades, the CCP has sought to tighten its grip on Tibet, restricting religious freedom, suppressing Tibetan identity and attempting to control the Dalai Lama’s succession. Now Beijing’s territorial claims are being challenged by people who refuse to let their history be rewritten.\n\nBorders cannot be rewritten by propaganda, and a people’s identity cannot be erased by political decree. Tibetans and Ladakhis deserve respect for their history, culture and right to preserve their heritage.\n\n#Ladakh #Tibet #FreeTibet #India #China #CCP #DalaiLama #StandWithTibet #TibetanRights #LadakhIsNotChina #TibetIsNotChina #HumanRights #ReligiousFreedom #Himalayas #StopForcedAssimilation",
+     "snippet": "Ladakh is not China. Tibet is not China’s property to control. \n\nLadakh’s Apex Body has firmly rejected Beijing’s latest claim over Ladakh, declaring that the region was never part of China. Its representatives also pointed to a painful reality: China’s forced exile of His Holiness the Dalai Lama remains a deep wound for Ladakhis, who share close cultural, religious and historical ties with Tibet.\n\nFor decades, the CCP has sought to tighten its grip on Tibet, restricting religious freedom, suppressing Tibetan identity and attempting to control the Dalai Lama’s succession. Now Beijing’s territorial claims are being challenged by people who refuse to let their history be rewritten.\n\nBorders cannot be rewritten by propaganda, and a people’s identity cannot be erased by political decree. Tibetans and Ladakhis deserve respect for their history, culture and right to preserve their heritage.\n\n#Ladakh #Tibet #FreeTibet #India #China #CCP #DalaiLama #StandWithTibet #TibetanRights #LadakhIsNotChina #TibetIsNotChina #HumanRights #ReligiousFreedom #Himalayas #StopForcedAssimilation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Digital Citizens for Human Rights",
+     "handle": "@dc4_humanrights"
+    },
+    {
+     "url": "https://x.com/Pakistan_Hunter/status/2112456756853174729",
+     "title": "Abey madarsachap jahil gawar first read the history properly and an agreement signed between two countries 1993 Agreement on the Maintenance",
+     "description": "Abey madarsachap jahil gawar first read the history properly and an agreement signed between two countries \n\n1993 Agreement on the Maintenance of Peace and Tranquillity and  1996 Agreement on Confidence-Building Measures (CBMs) along the Line of Actual Control (LAC) between India and China — states that neither side shall open fire or use explosives within a  zone of the border to prevent a dispute from escalating into a full-scale war",
+     "snippet": "Abey madarsachap jahil gawar first read the history properly and an agreement signed between two countries \n\n1993 Agreement on the Maintenance of Peace and Tranquillity and  1996 Agreement on Confidence-Building Measures (CBMs) along the Line of Actual Control (LAC) between India and China — states that neither side shall open fire or use explosives within a  zone of the border to prevent a dispute from escalating into a full-scale war",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jitendra S Bhatia/JSB🇮🇳🇮🇳",
+     "handle": "@Pakistan_Hunter"
+    },
+    {
+     "url": "https://x.com/SundarBN/status/2111663715171131683",
+     "title": "can you pl connect more dots and try to make a pitch for saving India's sovereign territory?",
+     "description": "can you pl connect more dots and try to make a pitch for saving India's sovereign territory?\n\nquote \nYes, satellite images and defense reports show that China has built two civilian-military enclaves in disputed border areas claimed by India in Arunachal Pradesh. \nunquote",
+     "snippet": "can you pl connect more dots and try to make a pitch for saving India's sovereign territory?\n\nquote \nYes, satellite images and defense reports show that China has built two civilian-military enclaves in disputed border areas claimed by India in Arunachal Pradesh. \nunquote",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BNS",
+     "handle": "@SundarBN"
+    },
+    {
+     "url": "https://x.com/rahuljaitley/status/2111684140001329182",
+     "title": "Like soft diplomacy there is also soft capture of an area: Indian location in Ladak but timezone in mobile switches to China Time Zone with",
+     "description": "Like soft diplomacy there is also soft capture of an area:\nIndian location in Ladak but timezone in mobile switches to China Time Zone with notification.\n\nNo media news, no action by Indian Govt.",
+     "snippet": "Like soft diplomacy there is also soft capture of an area:\nIndian location in Ladak but timezone in mobile switches to China Time Zone with notification.\n\nNo media news, no action by Indian Govt.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "R J",
+     "handle": "@rahuljaitley"
+    }
+   ]
+  }
+ ]
+}

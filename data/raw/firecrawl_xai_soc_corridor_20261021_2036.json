@@ -1,0 +1,96 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/grok/status/2112326948810641579",
+     "title": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe.",
+     "description": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe. \nLe Transsaharien (4 128 km, 3 pays) avance plus vite : travaux lancés en Algérie, coût moindre, mais sécurité sahelienne fragile. \nL’Atlantique (≈6 900 km, 13 pays) favorise l’intégration ouest-africaine, FEED terminé et accord CEDEAO signé, mais reste bloqué sur le financement et la FID. \nLes deux ont du potentiel ; leur réalisation dépendra surtout de la coordination et des investisseurs.",
+     "snippet": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe. \nLe Transsaharien (4 128 km, 3 pays) avance plus vite : travaux lancés en Algérie, coût moindre, mais sécurité sahelienne fragile. \nL’Atlantique (≈6 900 km, 13 pays) favorise l’intégration ouest-africaine, FEED terminé et accord CEDEAO signé, mais reste bloqué sur le financement et la FID. \nLes deux ont du potentiel ; leur réalisation dépendra surtout de la coordination et des investisseurs.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112327325056393348",
+     "title": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger.",
+     "description": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger. \nL’Atlantique a solidifié son cadre juridique via l’accord CEDEAO, mais reste en attente de financement complet et de FID. \nÀ court terme, le Transsaharien est mieux positionné. Les deux peuvent coexister selon les investisseurs et la coordination.",
+     "snippet": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger. \nL’Atlantique a solidifié son cadre juridique via l’accord CEDEAO, mais reste en attente de financement complet et de FID. \nÀ court terme, le Transsaharien est mieux positionné. Les deux peuvent coexister selon les investisseurs et la coordination.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/3sm__61/status/2112641124984893502",
+     "title": "Bah oui j’ai vérifier le projet et le seul producteur de gaz c’est le Nigeria les 13 autres pays reçoivent et touche des royalties pr certai",
+     "description": "Bah oui j’ai vérifier le projet et le seul producteur de gaz c’est le Nigeria les 13 autres pays reçoivent et touche des royalties pr certains mais c tt hein",
+     "snippet": "Bah oui j’ai vérifier le projet et le seul producteur de gaz c’est le Nigeria les 13 autres pays reçoivent et touche des royalties pr certains mais c tt hein",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🇵🇸آدم🇨🇺",
+     "handle": "@3sm__61"
+    },
+    {
+     "url": "https://x.com/Abddel49/status/2112638882789642699",
+     "title": "Y’a pas que le Nigeria qui va produire Le but est de connecter l’Afrique de l’Ouest sur cote Atlantique aux pays qui ont pas l’infrastructur",
+     "description": "Y’a pas que le Nigeria qui va produire \nLe but est de connecter l’Afrique de l’Ouest sur cote Atlantique aux pays qui ont pas l’infrastructure pour exploiter et exporter",
+     "snippet": "Y’a pas que le Nigeria qui va produire \nLe but est de connecter l’Afrique de l’Ouest sur cote Atlantique aux pays qui ont pas l’infrastructure pour exploiter et exporter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdeel 🇲🇦 ⚜️ ⵣ",
+     "handle": "@Abddel49"
+    },
+    {
+     "url": "https://x.com/Abddel49/status/2112643508024770996",
+     "title": "Enfaite je veux savoir si tu veux juste me contredire ou tu debat sérieux Mais non y’aura Mauritanie Sénégal côté d’ivoire et Ghana a plus l",
+     "description": "Enfaite je veux savoir si tu veux juste me contredire ou tu debat sérieux \n\nMais non y’aura Mauritanie Sénégal côté d’ivoire et Ghana a plus long terme",
+     "snippet": "Enfaite je veux savoir si tu veux juste me contredire ou tu debat sérieux \n\nMais non y’aura Mauritanie Sénégal côté d’ivoire et Ghana a plus long terme",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdeel 🇲🇦 ⚜️ ⵣ",
+     "handle": "@Abddel49"
+    },
+    {
+     "url": "https://x.com/BreikaBeiba/status/2112325854890180648",
+     "title": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria.",
+     "description": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria. \n\n#SaharaOccidental #WesternSahara \nSahara Occidental / Western Sahara \n#SaharaMarocain #IngérenceÄlgérienne…depuis 1975! \n\n#الصحراء_الغربية 🇲🇦 \n#UNGA #UNGA81 #AGNU #AGNU81 \n#HRC63 #CDH63",
+     "snippet": "Ce qu’il faut savoir sur le projet sérieux crédible & réaliste de gazoduc Maroc-Nigeria. \n\n#SaharaOccidental #WesternSahara \nSahara Occidental / Western Sahara \n#SaharaMarocain #IngérenceÄlgérienne…depuis 1975! \n\n#الصحراء_الغربية 🇲🇦 \n#UNGA #UNGA81 #AGNU #AGNU81 \n#HRC63 #CDH63",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Breika Beiba - CORCAS Team 🇲🇦",
+     "handle": "@BreikaBeiba"
+    },
+    {
+     "url": "https://x.com/casualdmc/status/2112695029420757316",
+     "title": "Le Maroc a besoin d'une base militaire navale au sud de notre façade Atlantique et Dakhla n'en est pas une.",
+     "description": "Le Maroc a besoin d'une base militaire navale au sud de notre façade Atlantique et Dakhla n'en est pas une.\nNous devons protéger notre ZEE, nos échanges économiques avec les pays de la façade atlantique ou passera notamment le futur gazoduc et aussi afin de protéger nos alliés",
+     "snippet": "Le Maroc a besoin d'une base militaire navale au sud de notre façade Atlantique et Dakhla n'en est pas une.\nNous devons protéger notre ZEE, nos échanges économiques avec les pays de la façade atlantique ou passera notamment le futur gazoduc et aussi afin de protéger nos alliés",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Casual dmc 🇲🇦",
+     "handle": "@casualdmc"
+    },
+    {
+     "url": "https://x.com/3sm__61/status/2112639298176516251",
+     "title": "Le Nigeria est le seul producteur dans le gazoduc atlantique",
+     "description": "Le Nigeria est le seul producteur dans le gazoduc atlantique",
+     "snippet": "Le Nigeria est le seul producteur dans le gazoduc atlantique",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🇵🇸آدم🇨🇺",
+     "handle": "@3sm__61"
+    }
+   ]
+  }
+ ]
+}
