@@ -1,0 +1,116 @@
+{
+ "query": "China Vietnam Chinese company railway South China Sea",
+ "_tag": "soc_cn_vn",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/nguyens32401884/status/2111738821352271994",
+     "title": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be comp",
+     "description": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "snippet": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Digital Assets Holder",
+     "handle": "@nguyens32401884"
+    },
+    {
+     "url": "https://x.com/nguyen_alex2517/status/2111747526143668488",
+     "title": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ h",
+     "description": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "snippet": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alex Nguyen",
+     "handle": "@nguyen_alex2517"
+    },
+    {
+     "url": "https://x.com/galsang233/status/2111849488415650274",
+     "title": "不过现在越南和泰国也放弃了日本高铁选择了中国。其次日立为英国修的高铁，英国指定了日立必须是造中国中车和阿尔斯通共同开发的和谐号CRH380D，只是少量变更。已经获得阿尔斯通和中国中车许可。印度也放弃了日本新干线",
+     "description": "不过现在越南和泰国也放弃了日本高铁选择了中国。其次日立为英国修的高铁，英国指定了日立必须是造中国中车和阿尔斯通共同开发的和谐号CRH380D，只是少量变更。已经获得阿尔斯通和中国中车许可。印度也放弃了日本新干线",
+     "snippet": "不过现在越南和泰国也放弃了日本高铁选择了中国。其次日立为英国修的高铁，英国指定了日立必须是造中国中车和阿尔斯通共同开发的和谐号CRH380D，只是少量变更。已经获得阿尔斯通和中国中车许可。印度也放弃了日本新干线",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "我叫小格桑不叫阿德བསྐལ་བཟང་།",
+     "handle": "@galsang233"
+    },
+    {
+     "url": "https://x.com/WEILANRAIL/status/2112362051033239970",
+     "title": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this ye",
+     "description": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this year, it had dispatched more than 110,000 TEUs of cargo in total.",
+     "snippet": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this year, it had dispatched more than 110,000 TEUs of cargo in total.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WEILAN RAIL",
+     "handle": "@WEILANRAIL"
+    },
+    {
+     "url": "https://x.com/hhp121222/status/2112007662112325818",
+     "title": "要想富，先修路 自从中老铁路投入运营后，到今天也有几年了，老挝获得巨大收益，就连泰国越南柬埔寨周边的农业产品也大量运到老挝万象火车站，再运到中国来。",
+     "description": "要想富，先修路\n自从中老铁路投入运营后，到今天也有几年了，老挝获得巨大收益，就连泰国越南柬埔寨周边的农业产品也大量运到老挝万象火车站，再运到中国来。最显著的变化就是泰国金枕榴莲，中国超市、水果店的榴莲明显降价了。希望越南抓紧联通，越南的荔枝、榴莲、红毛丹、山竹更多！",
+     "snippet": "要想富，先修路\n自从中老铁路投入运营后，到今天也有几年了，老挝获得巨大收益，就连泰国越南柬埔寨周边的农业产品也大量运到老挝万象火车站，再运到中国来。最显著的变化就是泰国金枕榴莲，中国超市、水果店的榴莲明显降价了。希望越南抓紧联通，越南的荔枝、榴莲、红毛丹、山竹更多！",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "寂寞的乔丹",
+     "handle": "@hhp121222"
+    },
+    {
+     "url": "https://x.com/business/status/2112466376472346667",
+     "title": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway conta",
+     "description": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway container terminal network in northern Vietnam https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project?taid=6ad72b3e1cd37f0001363cca&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "snippet": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway container terminal network in northern Vietnam https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project?taid=6ad72b3e1cd37f0001363cca&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bloomberg",
+     "handle": "@business"
+    },
+    {
+     "url": "https://x.com/SiteSpecs/status/2112557549081989556",
+     "title": "The existing line into Haiphong is still meter gauge.",
+     "description": "The existing line into Haiphong is still meter gauge. Vietnam Railways runs it at 1,000 mm, and standard intermodal track is 1,435 mm. Tie the yards to the old line and every box gets lifted onto a different car.",
+     "snippet": "The existing line into Haiphong is still meter gauge. Vietnam Railways runs it at 1,000 mm, and standard intermodal track is 1,435 mm. Tie the yards to the old line and every box gets lifted onto a different car.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Site Specs",
+     "handle": "@SiteSpecs"
+    },
+    {
+     "url": "https://x.com/vocpa_tuticorin/status/2112173611398398006",
+     "title": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam Leading media publications have cover",
+     "description": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam\n\nLeading media publications have covered V.O. Chidambaranar Port Authority’s latest milestone in strengthening maritime connectivity with South China and Vietnam, highlighting the arrival of the mainline container vessel M.V. Nawata Bhum at Dakshin Bharat Gateway Terminal (DBGT) on 18 October 2026.\n\nOperated by Regional Container Line (RCL), the Singapore-flagged vessel has a container capacity of approximately 1,100 TEUs. The new shipping service offers transit times of 13 days from Qinzhou, China, and 12 days from Haiphong, Vietnam, to Thoothukudi.\n\nConnecting Qinzhou, Haiphong, Thoothukudi, Kattupalli and Chu Lai, the service expands shipping options and creates new trade opportunities for exporters, importers and industries across southern Tamil Nadu. \n\n@PMOIndia\n@sarbanandsonwal\n@Shantanu_bjp\n@shipmin_india\n@DBGTterminal\n@susanta35\n\n#VOCPortAPortOfTheFuture \n#VOCPortInNews \n#MediaCoverage \n#MaritimeConnectivity \n#PortLedDevelopment",
+     "snippet": "VOC PORT IN NEWS | VOC Port Receives Mainline Vessel, Boosts Connectivity with South China and Vietnam\n\nLeading media publications have covered V.O. Chidambaranar Port Authority’s latest milestone in strengthening maritime connectivity with South China and Vietnam, highlighting the arrival of the mainline container vessel M.V. Nawata Bhum at Dakshin Bharat Gateway Terminal (DBGT) on 18 October 2026.\n\nOperated by Regional Container Line (RCL), the Singapore-flagged vessel has a container capacity of approximately 1,100 TEUs. The new shipping service offers transit times of 13 days from Qinzhou, China, and 12 days from Haiphong, Vietnam, to Thoothukudi.\n\nConnecting Qinzhou, Haiphong, Thoothukudi, Kattupalli and Chu Lai, the service expands shipping options and creates new trade opportunities for exporters, importers and industries across southern Tamil Nadu. \n\n@PMOIndia\n@sarbanandsonwal\n@Shantanu_bjp\n@shipmin_india\n@DBGTterminal\n@susanta35\n\n#VOCPortAPortOfTheFuture \n#VOCPortInNews \n#MediaCoverage \n#MaritimeConnectivity \n#PortLedDevelopment",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "V.O.Chidambaranar Port Authority, Tuticorin",
+     "handle": "@vocpa_tuticorin"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2112091628596854991",
+     "title": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime ac",
+     "description": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China are colliding with Hanoi’s efforts to protect its strategic interests in the Gulf of Thailand.",
+     "snippet": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China are colliding with Hanoi’s efforts to protect its strategic interests in the Gulf of Thailand.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/Maytechummia/status/2112097076787953773",
+     "title": "China is that expansionist.",
+     "description": "China is that expansionist. Just think of the 9 dash line grabbing approximately 90% of the SCS. The line loops hundreds of miles away from mainland China, cutting directly into the internationally recognised EEZs of Vietnam, the Philippines, Malaysia, Brunei, and Indonesia.",
+     "snippet": "China is that expansionist. Just think of the 9 dash line grabbing approximately 90% of the SCS. The line loops hundreds of miles away from mainland China, cutting directly into the internationally recognised EEZs of Vietnam, the Philippines, Malaysia, Brunei, and Indonesia.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mayte Chummia",
+     "handle": "@Maytechummia"
+    }
+   ]
+  }
+ ]
+}

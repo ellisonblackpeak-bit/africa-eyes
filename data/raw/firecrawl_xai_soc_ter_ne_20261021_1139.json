@@ -1,0 +1,116 @@
+{
+ "query": "MPLJ FPL JNIM EIGS Niger jihadist attack Agadez Tillaberi",
+ "_tag": "soc_ter_ne",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/ighazer/status/2112569119283331220",
+     "title": "#Niger 🚨 INSÉCURITÉ 🥷 #Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à en",
+     "description": "#Niger 🚨 INSÉCURITÉ 🥷 \n#Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à environ 35 km d’Agadez, sur l'axe d’#Arlit. D’après les informations qui circulent, l’attaque a été menée par des individus armés à bord de 3 véhicules, s’ensuivirent des échanges de tirs d’une rare intensité avec les FDS à bord de l’un des bus.\nLe bilan provisoire fait état de pertes en vies humaines d'au moins 10 passagers, 1 FDS et nombreux blessés graves.",
+     "snippet": "#Niger 🚨 INSÉCURITÉ 🥷 \n#Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à environ 35 km d’Agadez, sur l'axe d’#Arlit. D’après les informations qui circulent, l’attaque a été menée par des individus armés à bord de 3 véhicules, s’ensuivirent des échanges de tirs d’une rare intensité avec les FDS à bord de l’un des bus.\nLe bilan provisoire fait état de pertes en vies humaines d'au moins 10 passagers, 1 FDS et nombreux blessés graves.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pagoui",
+     "handle": "@ighazer"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2112633156520018020",
+     "title": "Bain de sang au Niger : Des gens abattus dans des cars de transport aujourd'hui Au moins 10 civils ont été tués ce Mardi 20 Octobre dans une",
+     "description": "Bain de sang au Niger : Des gens abattus dans des cars de transport aujourd'hui \n\nAu moins 10 civils ont été tués ce Mardi 20 Octobre dans une attaque meurtrière menée par des assaillants à bord de 3 véhicules sur l'axe Agadez-Arlit. \n\nSelon Pagoui qui rapporte l'information, les auteurs de l'attaque ont ouvert le feu sur les cars de transport à bord d'un desquels se trouvaient des éléments des Forces de Défense et de Sécurité. Après de violents échanges de tirs, un soldat et de nombreux blessés auraient été enregistrés en plus des nombreux morts civils à déplorer. \n\nIncapable de restaurer la sécurité au nom de laquelle le coup d'état terroriste sponsorisé par la Russie a été mené en Juillet 2023, le sous-préfet de Poutine au pouvoir à Niamey, se barricade dans la forteresse de la capitale avec comme unique garantie de longévité le soutien de Moscou qui pille en échange les ressources minières et énergétiques du Niger.",
+     "snippet": "Bain de sang au Niger : Des gens abattus dans des cars de transport aujourd'hui \n\nAu moins 10 civils ont été tués ce Mardi 20 Octobre dans une attaque meurtrière menée par des assaillants à bord de 3 véhicules sur l'axe Agadez-Arlit. \n\nSelon Pagoui qui rapporte l'information, les auteurs de l'attaque ont ouvert le feu sur les cars de transport à bord d'un desquels se trouvaient des éléments des Forces de Défense et de Sécurité. Après de violents échanges de tirs, un soldat et de nombreux blessés auraient été enregistrés en plus des nombreux morts civils à déplorer. \n\nIncapable de restaurer la sécurité au nom de laquelle le coup d'état terroriste sponsorisé par la Russie a été mené en Juillet 2023, le sous-préfet de Poutine au pouvoir à Niamey, se barricade dans la forteresse de la capitale avec comme unique garantie de longévité le soutien de Moscou qui pille en échange les ressources minières et énergétiques du Niger.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/LoeilNigerien/status/2112548881003078071",
+     "title": "#Niger : au moins 11 personnes, dont un militaire, ont été tuées dans une #attaque armée contre deux bus de transport en commun à environ 35",
+     "description": "#Niger : au moins 11 personnes, dont un militaire, ont été tuées dans une #attaque armée contre deux bus de transport en commun à environ 35 kilomètres d'Agadez, ce mardi 20 octobre 2026. Plusieurs blessés sont signalés. Aucun bilan officiel disponible dans l'immédiat. #Sécurité",
+     "snippet": "#Niger : au moins 11 personnes, dont un militaire, ont été tuées dans une #attaque armée contre deux bus de transport en commun à environ 35 kilomètres d'Agadez, ce mardi 20 octobre 2026. Plusieurs blessés sont signalés. Aucun bilan officiel disponible dans l'immédiat. #Sécurité",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "L'œil Nigérien",
+     "handle": "@LoeilNigerien"
+    },
+    {
+     "url": "https://x.com/SahelAlerte/status/2112578782749942022",
+     "title": "🚨 Urgent | Niger 🇳🇪 Entre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026.",
+     "description": "🚨 Urgent | Niger 🇳🇪\n\nEntre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026. Selon les premières informations, une dizaine de personnes, dont des femmes, auraient été tuées.",
+     "snippet": "🚨 Urgent | Niger 🇳🇪\n\nEntre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026. Selon les premières informations, une dizaine de personnes, dont des femmes, auraient été tuées.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/NewsTongueX/status/2112691839526465692",
+     "title": "🔴 Islamic State Sahel group kills 48 in Mali attack Islamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Ma",
+     "description": "🔴 Islamic State Sahel group kills 48 in Mali attack\n\nIslamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Mali Sunday night into Monday morning, killing 48 people including children and elderly, according to Moussa Ag Acharatoumane, a Tuareg leader and National Transitional Council member.\nThe group accused the civilians of revealing ISSP positions to the Malian army, which had conducted drone strikes against the militants. ISSP operates primarily in Ménaka, where it competes with rival militant group Jama'at Nusrat al-Islam wal-Muslimin (JNIM), and across Burkina Faso and Niger.",
+     "snippet": "🔴 Islamic State Sahel group kills 48 in Mali attack\n\nIslamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Mali Sunday night into Monday morning, killing 48 people including children and elderly, according to Moussa Ag Acharatoumane, a Tuareg leader and National Transitional Council member.\nThe group accused the civilians of revealing ISSP positions to the Malian army, which had conducted drone strikes against the militants. ISSP operates primarily in Ménaka, where it competes with rival militant group Jama'at Nusrat al-Islam wal-Muslimin (JNIM), and across Burkina Faso and Niger.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NewsTongue",
+     "handle": "@NewsTongueX"
+    },
+    {
+     "url": "https://x.com/5sur5Afri/status/2112451040595386808",
+     "title": "🇲🇱 #Mali : l’horreur frappe la région de Ménaka.",
+     "description": "🇲🇱 #Mali : l’horreur frappe la région de Ménaka. Une attaque attribuée à l’État islamique au Sahel aurait coûté la vie à plusieurs dizaines de civils dimanche à Tagadayat, près du Niger. \n\nDes blessés sont également signalés, tandis que des habitants fuient la zone, selon la communauté Idaksahak.\n\n5/5A",
+     "snippet": "🇲🇱 #Mali : l’horreur frappe la région de Ménaka. Une attaque attribuée à l’État islamique au Sahel aurait coûté la vie à plusieurs dizaines de civils dimanche à Tagadayat, près du Niger. \n\nDes blessés sont également signalés, tandis que des habitants fuient la zone, selon la communauté Idaksahak.\n\n5/5A",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "5sur5Afrique",
+     "handle": "@5sur5Afri"
+    },
+    {
+     "url": "https://x.com/SawabCenter/status/2112149364412141854",
+     "title": "📰 Rival extremists in the Sahel are fighting each other at unprecedented scale across the Burkina Faso-Mali-Niger borderlands.",
+     "description": "📰 Rival extremists in the Sahel are fighting each other at unprecedented scale across the Burkina Faso-Mali-Niger borderlands. Daesh Sahel Province (ISSP) claims it killed over 400 Al Qaeda-linked JNIM terrorists in Oudalan, which would be the deadliest battle between them. UN experts call it the world’s most intense Al Qaeda-Daesh confrontation. Competition for routes & for control over populations is being seen as a reason driving the expansion.",
+     "snippet": "📰 Rival extremists in the Sahel are fighting each other at unprecedented scale across the Burkina Faso-Mali-Niger borderlands. Daesh Sahel Province (ISSP) claims it killed over 400 Al Qaeda-linked JNIM terrorists in Oudalan, which would be the deadliest battle between them. UN experts call it the world’s most intense Al Qaeda-Daesh confrontation. Competition for routes & for control over populations is being seen as a reason driving the expansion.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SawabCenter",
+     "handle": "@SawabCenter"
+    },
+    {
+     "url": "https://x.com/IFCoalition/status/2111804621471551868",
+     "title": "📊 More than 400 fighters killed in a single round of fighting, and not one of them killed by a state.",
+     "description": "📊 More than 400 fighters killed in a single round of fighting, and not one of them killed by a state.\n\nIslamic State Sahel Province says it killed over 400 JNIM fighters in clashes that began on 9 October in Oudalan province, Burkina Faso, on the Mali and Niger borders. That figure is the group's own claim and has not been independently verified.\n\nWhat is verified is the scale. ACLED analyst Heni Nsaibia counts more than 320 battles between the two since 2019, with roughly 2,200 deaths. A UN experts' report submitted to the Security Council in August called it the most intense direct confrontation globally between an al-Qaeda branch and an Islamic State-linked group.\n\nThe fighting is spreading into western Niger and northwestern Nigeria.\n\nTwo jihadist franchises are now fighting a war with each other across three countries, and the civilians of the three-borders region are the terrain they are fighting over.",
+     "snippet": "📊 More than 400 fighters killed in a single round of fighting, and not one of them killed by a state.\n\nIslamic State Sahel Province says it killed over 400 JNIM fighters in clashes that began on 9 October in Oudalan province, Burkina Faso, on the Mali and Niger borders. That figure is the group's own claim and has not been independently verified.\n\nWhat is verified is the scale. ACLED analyst Heni Nsaibia counts more than 320 battles between the two since 2019, with roughly 2,200 deaths. A UN experts' report submitted to the Security Council in August called it the most intense direct confrontation globally between an al-Qaeda branch and an Islamic State-linked group.\n\nThe fighting is spreading into western Niger and northwestern Nigeria.\n\nTwo jihadist franchises are now fighting a war with each other across three countries, and the civilians of the three-borders region are the terrain they are fighting over.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The International Freedom Coalition",
+     "handle": "@IFCoalition"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2111836026524098678",
+     "title": "#MALI 🇲🇱 / #BURKINA 🇧🇫 / #NIGER 🇳🇪 During Rabi’ al-Akhir 1448 (12 September – 11 October 2026) #JNIM claimed to have killed 206+ security fo",
+     "description": "#MALI 🇲🇱 / #BURKINA 🇧🇫 / #NIGER 🇳🇪\n\nDuring Rabi’ al-Akhir 1448 (12 September – 11 October 2026) #JNIM claimed to have killed 206+ security force members and destroyed 121+ vehicles, in 47+ raids, 12+ IED attacks, 2+ ambushes, 8 mortar strikes and Inghimassi operations.\n\nThey seized:\n- 351+ various weapons + 27+ RPGs\n- 14 vehicles\n- 68+ motorcycles\n- 91 prisoners",
+     "snippet": "#MALI 🇲🇱 / #BURKINA 🇧🇫 / #NIGER 🇳🇪\n\nDuring Rabi’ al-Akhir 1448 (12 September – 11 October 2026) #JNIM claimed to have killed 206+ security force members and destroyed 121+ vehicles, in 47+ raids, 12+ IED attacks, 2+ ambushes, 8 mortar strikes and Inghimassi operations.\n\nThey seized:\n- 351+ various weapons + 27+ RPGs\n- 14 vehicles\n- 68+ motorcycles\n- 91 prisoners",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2112665743565128022",
+     "title": "les dirigeants de l’État islamique #EIGS #EI et les soldats retranchés à #Menaka sont issus de la communauté idousahak, et tout le monde les",
+     "description": "les dirigeants de l’État islamique #EIGS #EI et les soldats retranchés à #Menaka sont issus de la communauté idousahak, et tout le monde les connaît. Ce sont eux qui ont mené les attaques contre la ville. Ils rentrent chez eux à Menaka quand bon leur semble\n#Mali \n#Sahel",
+     "snippet": "les dirigeants de l’État islamique #EIGS #EI et les soldats retranchés à #Menaka sont issus de la communauté idousahak, et tout le monde les connaît. Ce sont eux qui ont mené les attaques contre la ville. Ils rentrent chez eux à Menaka quand bon leur semble\n#Mali \n#Sahel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    }
+   ]
+  }
+ ]
+}

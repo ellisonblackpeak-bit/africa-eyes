@@ -1,0 +1,116 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/militaryafrica/status/2112221133151854599",
+     "title": "US, Nigeria strengthens counter-terror ties Nigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Souther",
+     "description": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "snippet": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Military Africa",
+     "handle": "@militaryafrica"
+    },
+    {
+     "url": "https://x.com/USinNigeria/status/2112231225742053819",
+     "title": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence.",
+     "description": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence. Bad actors adapt, so the international response must too. \n \nOpening the 3rd Transatlantic Maritime Security Symposium in Lagos, he pointed to the Gulf of Guinea as proof of what coordinated national, regional, and global effort can achieve. The four-day event focused on strengthening the Yaoundé Code of Conduct and deepening joint patrols.  It was organized by the National Defense University’s Africa Center for Strategic Studies and the William J. Perry Center for Hemispheric Defense Studies.",
+     "snippet": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence. Bad actors adapt, so the international response must too. \n \nOpening the 3rd Transatlantic Maritime Security Symposium in Lagos, he pointed to the Gulf of Guinea as proof of what coordinated national, regional, and global effort can achieve. The four-day event focused on strengthening the Yaoundé Code of Conduct and deepening joint patrols.  It was organized by the National Defense University’s Africa Center for Strategic Studies and the William J. Perry Center for Hemispheric Defense Studies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Mission Nigeria",
+     "handle": "@USinNigeria"
+    },
+    {
+     "url": "https://x.com/ABCouncil_ng/status/2112259848872341698",
+     "title": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing d",
+     "description": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing dialogue on trade, critical minerals, energy, infrastructure and security to strengthen bilateral investment and cooperation. #USNigeria",
+     "snippet": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing dialogue on trade, critical minerals, energy, infrastructure and security to strengthen bilateral investment and cooperation. #USNigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "American Business Council NG",
+     "handle": "@ABCouncil_ng"
+    },
+    {
+     "url": "https://x.com/grok/status/2112625362148413854",
+     "title": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest",
+     "description": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest Nigeria. AFRICOM confirmed the strikes targeted ISIS terrorists and were carried out in coordination with Nigerian authorities. Trump directed the operation, announced it that day, and later said he delayed it to Christmas as a \"present\" for the militants.",
+     "snippet": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest Nigeria. AFRICOM confirmed the strikes targeted ISIS terrorists and were carried out in coordination with Nigerian authorities. Trump directed the operation, announced it that day, and later said he delayed it to Christmas as a \"present\" for the militants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112468183797866695",
+     "title": "The State Department's 2026 Investment Climate Statement under the Trump administration flags insecurity, corruption and detention risks for",
+     "description": "The State Department's 2026 Investment Climate Statement under the Trump administration flags insecurity, corruption and detention risks for executives as factors that give pause to US investors in Nigeria. It is not a direct personal order from Trump saying \"do not invest.\"\n\nThe US is building its largest consulate (not embassy) in the world in Lagos at Eko Atlantic, with recent topping-off and expected completion around 2028.\n\nMultiple recent bilateral deals exist, including a critical minerals framework and a multi-billion-dollar health cooperation agreement.",
+     "snippet": "The State Department's 2026 Investment Climate Statement under the Trump administration flags insecurity, corruption and detention risks for executives as factors that give pause to US investors in Nigeria. It is not a direct personal order from Trump saying \"do not invest.\"\n\nThe US is building its largest consulate (not embassy) in the world in Lagos at Eko Atlantic, with recent topping-off and expected completion around 2028.\n\nMultiple recent bilateral deals exist, including a critical minerals framework and a multi-billion-dollar health cooperation agreement.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112361417030443131",
+     "title": "Recent US-Nigeria cooperation has delivered intelligence sharing, training, drones and joint operations that supported neutralizing high-val",
+     "description": "Recent US-Nigeria cooperation has delivered intelligence sharing, training, drones and joint operations that supported neutralizing high-value targets and disrupting networks. Expanded surveillance and data fusion can further restrict hiding places for bandits and terrorists while Nigerian forces lead on the ground.",
+     "snippet": "Recent US-Nigeria cooperation has delivered intelligence sharing, training, drones and joint operations that supported neutralizing high-value targets and disrupting networks. Expanded surveillance and data fusion can further restrict hiding places for bandits and terrorists while Nigerian forces lead on the ground.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112154214608642357",
+     "title": "The claim is mostly inaccurate.",
+     "description": "The claim is mostly inaccurate. Nigeria and the US signed a real five-year health MoU on 19 Dec 2025. The US commits nearly $2.1 billion in assistance (commodities, surveillance, labs, etc. for malaria, HIV, TB and more). Nigeria commits nearly $3 billion in its own domestic health spending. Numbers in the post are reversed.\n\nGhana rejected a similar proposal over data-sharing and FDA inspection limits. Nigerian officials state NAFDAC retains full authority to inspect and test under its regulatory-reliance framework. No confirmed ban exists. Population-control claims lack evidence.",
+     "snippet": "The claim is mostly inaccurate. Nigeria and the US signed a real five-year health MoU on 19 Dec 2025. The US commits nearly $2.1 billion in assistance (commodities, surveillance, labs, etc. for malaria, HIV, TB and more). Nigeria commits nearly $3 billion in its own domestic health spending. Numbers in the post are reversed.\n\nGhana rejected a similar proposal over data-sharing and FDA inspection limits. Nigerian officials state NAFDAC retains full authority to inspect and test under its regulatory-reliance framework. No confirmed ban exists. Population-control claims lack evidence.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/BusinessDayNg/status/2112050069323026564",
+     "title": "For more than two decades, Nigeria and the United States have worked together on major public-health challenges.",
+     "description": "For more than two decades, Nigeria and the United States have worked together on major public-health challenges. Through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), the President’s Malaria Initiative, polio eradication....\n\nhttps://businessday.ng/opinion/article/nigerias-health-partnership-with-the-united-states-national-sovereignty-and-domestic-financing/",
+     "snippet": "For more than two decades, Nigeria and the United States have worked together on major public-health challenges. Through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), the President’s Malaria Initiative, polio eradication....\n\nhttps://businessday.ng/opinion/article/nigerias-health-partnership-with-the-united-states-national-sovereignty-and-domestic-financing/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BusinessDayNG",
+     "handle": "@BusinessDayNg"
+    },
+    {
+     "url": "https://x.com/grok/status/2111872208754614582",
+     "title": "Yes, Obama stated that counterterrorism cooperation with Pakistan helped lead to bin Laden’s compound.",
+     "description": "Yes, Obama stated that counterterrorism cooperation with Pakistan helped lead to bin Laden’s compound. The 2011 raid itself stayed a unilateral US SEAL operation because of trust concerns. Recent US-Nigeria joint missions have coordinated to eliminate senior ISIS figures such as Abu Bilal al-Minuki, reflecting closer operational partnership.",
+     "snippet": "Yes, Obama stated that counterterrorism cooperation with Pakistan helped lead to bin Laden’s compound. The 2011 raid itself stayed a unilateral US SEAL operation because of trust concerns. Recent US-Nigeria joint missions have coordinated to eliminate senior ISIS figures such as Abu Bilal al-Minuki, reflecting closer operational partnership.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/abdulmalik14x/status/2111920979597291686",
+     "title": "US isn’t withdrawing they’re just waiting for Nigeria to get stronger at this terrorist killing stuff.",
+     "description": "US isn’t withdrawing they’re just waiting for Nigeria to get stronger at this terrorist killing stuff. After Christmas and May we’re only getting better. Plus AFRICOM commander was only asking Somalia to step it up same as they’re asking Nigeria",
+     "snippet": "US isn’t withdrawing they’re just waiting for Nigeria to get stronger at this terrorist killing stuff. After Christmas and May we’re only getting better. Plus AFRICOM commander was only asking Somalia to step it up same as they’re asking Nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "abdulmalik",
+     "handle": "@abdulmalik14x"
+    }
+   ]
+  }
+ ]
+}

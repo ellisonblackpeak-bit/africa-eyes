@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/TheMinuend/status/2112206615260893315",
+     "title": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.",
+     "description": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "snippet": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roy",
+     "handle": "@TheMinuend"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575501118382195",
+     "title": "We've seen this movie before.",
+     "description": "We've seen this movie before. In late 2024, TBMs from Herrenknecht's China unit, intended for Indian projects, were held up at Chinese customs. That was an informal squeeze. Now it's official. And the 3,000 m threshold will impact Indian defence construction (Leh is at 3500m)",
+     "snippet": "We've seen this movie before. In late 2024, TBMs from Herrenknecht's China unit, intended for Indian projects, were held up at Chinese customs. That was an informal squeeze. Now it's official. And the 3,000 m threshold will impact Indian defence construction (Leh is at 3500m)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575497104458119",
+     "title": "3/ The design matters more.",
+     "description": "3/ The design matters more. Exports to \"countries in dispute with China\" need a licence. India is obviously a major target. Everyone else must promise not to pass the machines to such countries. Firms outside China can't transfer China-origin items there either.",
+     "snippet": "3/ The design matters more. Exports to \"countries in dispute with China\" need a licence. India is obviously a major target. Everyone else must promise not to pass the machines to such countries. Firms outside China can't transfer China-origin items there either.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575499079991333",
+     "title": "4/ So this isn't just about Chinese manufacturers.",
+     "description": "4/ So this isn't just about Chinese manufacturers. A German or Japanese TBM maker building in China must now formally ask Beijing before shipping to India. A factory in China has become a liability for any firm that wants to serve the Indian market.",
+     "snippet": "4/ So this isn't just about Chinese manufacturers. A German or Japanese TBM maker building in China must now formally ask Beijing before shipping to India. A factory in China has become a liability for any firm that wants to serve the Indian market.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/CaVivekkhatri/status/2112555702195786237",
+     "title": "𝟰. 🗺️ 𝗧𝗵𝗲 𝗟𝗶𝗻𝗲 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿𝘀: \"𝗗𝗶𝘀𝗽𝘂𝘁𝗲𝗱\" 𝗥𝗲𝗴𝗶𝗼𝗻𝘀 Per Chinese state media's summary of the rules: 📉 Exports to \"sensitive countries and region",
+     "description": "𝟰. 🗺️ 𝗧𝗵𝗲 𝗟𝗶𝗻𝗲 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿𝘀: \"𝗗𝗶𝘀𝗽𝘂𝘁𝗲𝗱\" 𝗥𝗲𝗴𝗶𝗼𝗻𝘀\n\nPer Chinese state media's summary of the rules:\n\n📉 Exports to \"sensitive countries and regions with which China has disputes\" need a licence\n📉 Buyers elsewhere cannot pass China-origin items to those regions without a licence\n✅ Others: registration and reporting\n\nChina and India have an unresolved border dispute.\n\nThe rule never names India. It doesn't need to.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: How MOFCOM classifies India in licence decisions\n\n4/16",
+     "snippet": "𝟰. 🗺️ 𝗧𝗵𝗲 𝗟𝗶𝗻𝗲 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿𝘀: \"𝗗𝗶𝘀𝗽𝘂𝘁𝗲𝗱\" 𝗥𝗲𝗴𝗶𝗼𝗻𝘀\n\nPer Chinese state media's summary of the rules:\n\n📉 Exports to \"sensitive countries and regions with which China has disputes\" need a licence\n📉 Buyers elsewhere cannot pass China-origin items to those regions without a licence\n✅ Others: registration and reporting\n\nChina and India have an unresolved border dispute.\n\nThe rule never names India. It doesn't need to.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: How MOFCOM classifies India in licence decisions\n\n4/16",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CA Vivek Khatri",
+     "handle": "@CaVivekkhatri"
+    },
+    {
+     "url": "https://x.com/CaVivekkhatri/status/2112555719010681320",
+     "title": "𝟴. 🏔️ 𝗥𝗲𝗮𝗱 𝗧𝗵𝗲 𝗦𝗽𝗲𝗰 𝗦𝗵𝗲𝗲𝘁 𝗟𝗶𝗸𝗲 𝗔 𝗠𝗮𝗽 📉 Shotcrete machines built for 3,000 m+ altitude 📉 Excavators that climb walls and wade rivers 📉 TBMs a",
+     "description": "𝟴. 🏔️ 𝗥𝗲𝗮𝗱 𝗧𝗵𝗲 𝗦𝗽𝗲𝗰 𝗦𝗵𝗲𝗲𝘁 𝗟𝗶𝗸𝗲 𝗔 𝗠𝗮𝗽\n\n📉 Shotcrete machines built for 3,000 m+ altitude\n📉 Excavators that climb walls and wade rivers\n📉 TBMs and their main drives\n📉 Long-range, long-endurance drones\n\nWhere does India need high-altitude tunnelling gear?\n\nIn the Himalayas: border roads, rail links and hydro tunnels.\n\nChina calls it non-proliferation. Indian infra planners will read it as leverage.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: Border-road and hydro tunnel contracts\n\n8/16",
+     "snippet": "𝟴. 🏔️ 𝗥𝗲𝗮𝗱 𝗧𝗵𝗲 𝗦𝗽𝗲𝗰 𝗦𝗵𝗲𝗲𝘁 𝗟𝗶𝗸𝗲 𝗔 𝗠𝗮𝗽\n\n📉 Shotcrete machines built for 3,000 m+ altitude\n📉 Excavators that climb walls and wade rivers\n📉 TBMs and their main drives\n📉 Long-range, long-endurance drones\n\nWhere does India need high-altitude tunnelling gear?\n\nIn the Himalayas: border roads, rail links and hydro tunnels.\n\nChina calls it non-proliferation. Indian infra planners will read it as leverage.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: Border-road and hydro tunnel contracts\n\n8/16",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CA Vivek Khatri",
+     "handle": "@CaVivekkhatri"
+    },
+    {
+     "url": "https://x.com/CaVivekkhatri/status/2112555723125395837",
+     "title": "𝟵. 🏗️ 𝗧𝘂𝗻𝗻𝗲𝗹 𝗘𝗣𝗖: 𝗟&𝗧, 𝗔𝗳𝗰𝗼𝗻𝘀, 𝗝 𝗞𝘂𝗺𝗮𝗿, 𝗛𝗖𝗖, 𝗣𝗮𝘁𝗲𝗹 𝗘𝗻𝗴𝗴 🔁 These are India's tunnel-heavy contractors. Afcons alone planned ~20 TBMs in FY24",
+     "description": "𝟵. 🏗️ 𝗧𝘂𝗻𝗻𝗲𝗹 𝗘𝗣𝗖: 𝗟&𝗧, 𝗔𝗳𝗰𝗼𝗻𝘀, 𝗝 𝗞𝘂𝗺𝗮𝗿, 𝗛𝗖𝗖, 𝗣𝗮𝘁𝗲𝗹 𝗘𝗻𝗴𝗴\n\n🔁 These are India's tunnel-heavy contractors. Afcons alone planned ~20 TBMs in FY24\n🔁 Chinese-made TBMs have worked on Indian metros before (e.g. CRCHI machines for Bangalore Metro, 2020)\n📉 Risk: spares, main drives and refurbishing for any China-made machines in their fleets\n✅ Offset: Herrenknecht has built Indian metro TBMs at its Chennai facility\n\nExposure depends on the fleet, not the headline.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: Fleet-origin disclosures in Q2 FY27 concalls\n\n9/16",
+     "snippet": "𝟵. 🏗️ 𝗧𝘂𝗻𝗻𝗲𝗹 𝗘𝗣𝗖: 𝗟&𝗧, 𝗔𝗳𝗰𝗼𝗻𝘀, 𝗝 𝗞𝘂𝗺𝗮𝗿, 𝗛𝗖𝗖, 𝗣𝗮𝘁𝗲𝗹 𝗘𝗻𝗴𝗴\n\n🔁 These are India's tunnel-heavy contractors. Afcons alone planned ~20 TBMs in FY24\n🔁 Chinese-made TBMs have worked on Indian metros before (e.g. CRCHI machines for Bangalore Metro, 2020)\n📉 Risk: spares, main drives and refurbishing for any China-made machines in their fleets\n✅ Offset: Herrenknecht has built Indian metro TBMs at its Chennai facility\n\nExposure depends on the fleet, not the headline.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: Fleet-origin disclosures in Q2 FY27 concalls\n\n9/16",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CA Vivek Khatri",
+     "handle": "@CaVivekkhatri"
+    },
+    {
+     "url": "https://x.com/TibetanReview/status/2112607729084989577",
+     "title": "After halting exports of #India-bound tunnel boring machines from a #German company's #China plants, Beijing has imposed fresh export contro",
+     "description": "After halting exports of #India-bound tunnel boring machines from a #German company's #China plants, Beijing has imposed fresh export controls on the equipment critical to India's metro, highway, and infrastructure projects.\nhttps://www.tibetanreview.net/china-cites-security-reasons-to-restrict-export-of-key-machinery-used-in-indias-infrastructure-development/",
+     "snippet": "After halting exports of #India-bound tunnel boring machines from a #German company's #China plants, Beijing has imposed fresh export controls on the equipment critical to India's metro, highway, and infrastructure projects.\nhttps://www.tibetanreview.net/china-cites-security-reasons-to-restrict-export-of-key-machinery-used-in-indias-infrastructure-development/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TibetanReview",
+     "handle": "@TibetanReview"
+    },
+    {
+     "url": "https://x.com/globaltimesnews/status/2112086460874793052",
+     "title": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet sho",
+     "description": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "snippet": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Times",
+     "handle": "@globaltimesnews"
+    },
+    {
+     "url": "https://x.com/grok/status/2112200024671105190",
+     "title": "China's curbs on TBMs, walking excavators, plateau shotcrete machines and dredger components tighten supply for India's metros, rail and bor",
+     "description": "China's curbs on TBMs, walking excavators, plateau shotcrete machines and dredger components tighten supply for India's metros, rail and border tunnels. Domestic firms positioned to gain from localisation push and reduced Chinese imports include BEML (developing indigenous TBMs and partnering on dredger spares) and L&T (equipment manufacturing and major infra projects). Cochin Shipyard and Dredging Corp of India also advance local dredger capacity.",
+     "snippet": "China's curbs on TBMs, walking excavators, plateau shotcrete machines and dredger components tighten supply for India's metros, rail and border tunnels. Domestic firms positioned to gain from localisation push and reduced Chinese imports include BEML (developing indigenous TBMs and partnering on dredger spares) and L&T (equipment manufacturing and major infra projects). Cochin Shipyard and Dredging Corp of India also advance local dredger capacity.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

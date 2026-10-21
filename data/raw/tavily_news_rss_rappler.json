@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Ombudsman suspends DICT Usec Almirol over alleged eGov conflicts of interest",
+   "url": "https://www.rappler.com/philippines/ombudsman-suspends-dict-egov-david-almirol-multisys-conflicts-interest/",
+   "content": "The complaints stem from a June 2025 report by the DICT Internal Audit Unit, which flagged possible conflicts of interest involving the hiring of former Multisys personnel as well as the awarding of contracts to other related companies",
+   "published_date": "Wed, 21 Oct 2026 18:58:18 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "[DECODED] You no longer have to click anything to be targeted. But you can fight back.",
+   "url": "https://www.rappler.com/voices/newsletters/decoded-cybersecurity-fight-disinformation/",
+   "content": "With today's technological advances, malicious actors have found a way to get consumer data without you clicking on anything",
+   "published_date": "Wed, 21 Oct 2026 18:00:00 +0800",
+   "score": 0.6
+  },
+  {
    "title": "Theater veteran Enchang Kaimo dies at 77",
    "url": "https://www.rappler.com/people/obituary/theater-veteran-enchang-kaimo-dies/",
    "content": "Kaimo co-founded the Christian theater company Trumpets in 1991",
@@ -9,9 +23,9 @@
    "score": 0.6
   },
   {
-   "title": "EU warns websites may need to be taken offline as PHP prepares patches for vulnerabilities",
+   "title": "Cyber agency warns websites may go dark as PHP prepares critical fix",
    "url": "https://www.rappler.com/technology/european-union-warning-php-vulnerabilities-october-2026/",
-   "content": "PHP is used across large parts of the internet, and speculation has circulated over the past day that websites running the software could be exposed to serious cyber intrusions",
+   "content": "(1st UPDATE) PHP is used across large parts of the internet, and speculation has circulated over the past day that websites running the software could be exposed to serious cyber intrusions",
    "published_date": "Wed, 21 Oct 2026 15:44:01 +0800",
    "score": 0.6
   },
@@ -55,20 +69,6 @@
    "url": "https://www.rappler.com/brandrap/robinsons-land-new-sports-leisure-unit-2026/",
    "content": "The new team will shape global concepts and expertise around local interests and lifestyles",
    "published_date": "Wed, 21 Oct 2026 12:29:16 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Signal No. 2 up in Batanes due to Super Typhoon Rosal",
-   "url": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-21-2026-11am/",
-   "content": "Super Typhoon Rosal (Champi) maintains its maximum sustained winds of 215 km/h on Wednesday morning, October 21 — already its peak intensity, according to PAGASA",
-   "published_date": "Wed, 21 Oct 2026 12:20:02 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "In the Public Square: Nine years after Marawi seige",
-   "url": "https://www.rappler.com/philippines/in-the-public-square-nine-years-after-marawi-seige/",
-   "content": "Rappler columnist John Nery is joined by Drieza Lininding, chair of the Moro Consensus Group. Catch the episode on Wednesday, October 21, at 8 pm.",
-   "published_date": "Wed, 21 Oct 2026 12:02:32 +0800",
    "score": 0.6
   }
  ],

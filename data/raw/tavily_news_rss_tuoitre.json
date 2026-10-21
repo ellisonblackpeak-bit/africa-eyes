@@ -2,16 +2,310 @@
  "success": true,
  "results": [
   {
+   "title": "Giành học bổng toàn phần từ ứng dụng giúp bữa ăn cho học sinh khó khăn",
+   "url": "https://tuoitre.vn/gianh-hoc-bong-toan-phan-tu-ung-dung-giup-bua-an-cho-hoc-sinh-kho-khan-100261021162104729.htm",
+   "content": "Từ trăn trở về những bữa trưa bị bỏ qua ở trường phổ thông, Trịnh Tuệ Linh xây dựng ứng dụng công nghệ tài chính hỗ trợ bữa ăn cho học sinh khó khăn, qua đó giành học bổng toàn phần Đại học RMIT Việt Nam và đặt mục tiêu đưa sáng kiến này đến 50 trường THPT.",
+   "published_date": "10/21/2026 4:32:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Thanh Hóa đẩy nhanh việc xây dựng khu tái định cư phục vụ dự án đường sắt tốc độ cao Bắc - Nam",
+   "url": "https://tuoitre.vn/thanh-hoa-day-nhanh-viec-xay-dung-khu-tai-dinh-cu-phuc-vu-du-an-duong-sat-toc-do-cao-bac-nam-100261021061725267.htm",
+   "content": "Dự án đường sắt tốc độ cao Bắc - Nam đoạn qua Thanh Hóa dài 95,33km, đi qua 19 xã, phường. Khoảng 2.363 hộ dân phải di dời chỗ ở và 25 nghĩa trang với 10.052 ngôi mộ cần di dời. Tỉnh xây dựng 39 khu tái định cư để giải phóng mặt bằng dự án.",
+   "published_date": "10/21/2026 4:29:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Vì sao hơn 32ha vườn cây, hoa màu của người dân ở Vĩnh Long chìm trong nước?",
+   "url": "https://tuoitre.vn/vi-sao-hon-32ha-vuon-cay-hoa-mau-cua-nguoi-dan-o-vinh-long-chim-trong-nuoc-100261021115247071.htm",
+   "content": "Vườn cây ăn trái và ruộng hoa màu của 40 hộ dân tại xã Hòa Hiệp, tỉnh Vĩnh Long bị ngập bất ngờ, gây thiệt hại hơn 32ha diện tích sản xuất. Nguyên nhân ban đầu được xác định liên quan đến việc vận hành cống thủy lợi.",
+   "published_date": "10/21/2026 4:15:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Bưởi Bắc Ninh xuất khẩu sang Nga, ổi sang Anh, trái cây còn dư địa nào?",
+   "url": "https://tuoitre.vn/buoi-bac-ninh-xuat-khau-sang-nga-oi-sang-anh-trai-cay-con-du-dia-nao-100261021152829216.htm",
+   "content": "Ngày 21-10, UBND TP Bắc Ninh tổ chức hội nghị kết nối tiêu thụ trái cây chủ lực, đặc trưng tại thị trường trong nước và nước ngoài năm 2026.",
+   "published_date": "10/21/2026 4:13:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "IPO giá cao chưa chắc là thương vụ thành công",
+   "url": "https://tuoitre.vn/ipo-gia-cao-chua-chac-la-thuong-vu-thanh-cong-100261021160757064.htm",
+   "content": "Một thương vụ IPO không thể chỉ đo bằng số cổ phiếu bán được hay mức tăng giá trong những phiên đầu tiên. Các chuyên gia cho rằng doanh nghiệp cần định giá hợp lý, minh bạch thông tin và tìm đúng nhà đầu tư đồng hành.",
+   "published_date": "10/21/2026 4:12:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Tuyển futsal Việt Nam đấu Nga và Kyrgyzstan",
+   "url": "https://tuoitre.vn/tuyen-futsal-viet-nam-dau-nga-va-kyrgyzstan-100261021155007485.htm",
+   "content": "Đội tuyển futsal Việt Nam sẽ có 4 trận giao hữu với đội tuyển futsal Nga và Kyrgyzstan trong tháng 11, nhằm chuẩn bị cho Đại hội thể thao trong nhà và võ thuật châu Á (AIMAG) lần thứ 6-2026.",
+   "published_date": "10/21/2026 4:11:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Đồng Nai bắt 9 người vụ thu mua, giết mổ 400 tấn heo bệnh bán làm thực phẩm",
+   "url": "https://tuoitre.vn/dong-nai-bat-9-nguoi-vu-thu-mua-giet-mo-400-tan-heo-benh-ban-lam-thuc-pham-100261021155549344.htm",
+   "content": "Công an Đồng Nai vừa triệt phá đường dây thu mua, giết mổ khoảng 400 tấn heo bệnh, heo chết rồi bán làm thực phẩm cho người dân, thu lợi bất chính trên 10 tỉ đồng.",
+   "published_date": "10/21/2026 4:10:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "NASA tung dàn xe thám hiểm, mở đường chinh phục cực nam Mặt trăng",
+   "url": "https://tuoitre.vn/nasa-tung-dan-xe-tham-hiem-mo-duong-chinh-phuc-cuc-nam-mat-trang-100261021154626054.htm",
+   "content": "NASA đang thử nghiệm xe tự hành VIPER để tìm nước ở cực nam Mặt trăng, đồng thời phát triển xe địa hình phục vụ các phi hành gia trong tương lai.",
+   "published_date": "10/21/2026 4:09:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Có một nghĩa trang mang tên Lớp học vĩnh hằng",
+   "url": "https://tuoitre.vn/co-mot-nghia-trang-mang-ten-lop-hoc-vinh-hang-100261021154503558.htm",
+   "content": "60 năm trôi qua kể từ ngày 21-10-1966, giữa mênh mông đồng lúa xã Tây Thụy Anh (Hưng Yên), Nghĩa trang 21-10 với 31 ngôi mộ nằm sát bên nhau vẫn tĩnh lặng như một Lớp học vĩnh hằng.",
+   "published_date": "10/21/2026 4:08:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Công an Đồng Tháp yêu cầu bị can Nguyễn Thị Mộng Tuyền ra đầu thú",
+   "url": "https://tuoitre.vn/cong-an-dong-thap-yeu-cau-bi-can-nguyen-thi-mong-tuyen-ra-dau-thu-100261021152806671.htm",
+   "content": "Ngoài việc phục hồi điều tra vụ án \"Tổ chức cho người khác xuất cảnh trái phép\", Cơ quan An ninh điều tra Công an tỉnh Đồng Tháp yêu cầu bị can Nguyễn Thị Mộng Tuyền ra đầu thú.",
+   "published_date": "10/21/2026 4:05:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Đà Nẵng có nhiều điều kiện để phát triển kinh tế không gian tầm thấp",
+   "url": "https://tuoitre.vn/da-nang-co-nhieu-dieu-kien-de-phat-trien-kinh-te-khong-gian-tam-thap-100261021152116476.htm",
+   "content": "Đà Nẵng muốn thí điểm phát triển kinh tế không gian tầm thấp để mở thêm động lực tăng trưởng mới, tận dụng lợi thế về địa hình, hạ tầng và công nghệ.",
+   "published_date": "10/21/2026 4:03:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Địch Lệ Nhiệt Ba mê thiết kế đậm chất Huế của Nguyễn Phúc Tuấn",
+   "url": "https://tuoitre.vn/dich-le-nhiet-ba-me-thiet-ke-dam-chat-hue-cua-nguyen-phuc-tuan-100261021154743232.htm",
+   "content": "Sau khi trình diễn tại Paris, ê kíp của Địch Lệ Nhiệt Ba chủ động liên hệ nhà thiết kế Nguyễn Phúc Tuấn, chọn hai thiết kế từ bộ sưu tập lấy cảm hứng từ cơn mưa Huế.",
+   "published_date": "10/21/2026 4:01:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Suýt hoại tử tinh hoàn vì tự đeo vòng kim loại 3cm",
+   "url": "https://tuoitre.vn/suyt-hoai-tu-tinh-hoan-vi-tu-deo-vong-kim-loai-3cm-100261021153613476.htm",
+   "content": "Vì tò mò và mong muốn có trải nghiệm mới lạ, một nam thanh niên 24 tuổi ở Hà Nội đã tự ý đeo vòng kim loại vào vùng bìu. Chiếc vòng quá chật khiến vùng bìu sưng nề. Sau 10 ngày chịu đựng, người bệnh mới đến bệnh viện cấp cứu.",
+   "published_date": "10/21/2026 3:59:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Mỗi đợt IPO là lời chào của doanh nghiệp với hàng nghìn nhà đầu tư",
+   "url": "https://tuoitre.vn/moi-dot-ipo-la-loi-chao-cua-doanh-nghiep-voi-hang-nghin-nha-dau-tu-100261021150218567.htm",
+   "content": "IPO không chỉ là câu chuyện huy động vốn, mà còn là phép thử về năng lực quản trị, tính minh bạch và cam kết của doanh nghiệp với cổ đông.",
+   "published_date": "10/21/2026 3:56:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Lại xuất hiện hố sụt rộng gần 2m tại Thái Nguyên",
+   "url": "https://tuoitre.vn/lai-xuat-hien-ho-sut-rong-gan-2m-tai-thai-nguyen-100261021144536703.htm",
+   "content": "Hố sụt xuất hiện giữa đường, từ từ lan rộng, lún thêm, lộ rõ đất đá phía dưới được người dân ghi lại tại xã Na Rì, Thái Nguyên.",
+   "published_date": "10/21/2026 3:54:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Triều Tiên chỉ đạo binh sĩ hành động quyết liệt nếu bị Hàn Quốc đe dọa",
+   "url": "https://tuoitre.vn/trieu-tien-chi-dao-binh-si-hanh-dong-quyet-liet-neu-bi-han-quoc-de-doa-100261021150813233.htm",
+   "content": "Triều Tiên chỉ thị binh sĩ hành động 'quyết liệt và nhanh chóng' nếu bị lực lượng Hàn Quốc đe dọa, trong bối cảnh Bình Nhưỡng tăng cường củng cố công sự dọc biên giới liên Triều.",
+   "published_date": "10/21/2026 3:46:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "52 tuổi, doanh nhân Hàn Quốc trở thành tân sinh viên ở Việt Nam",
+   "url": "https://tuoitre.vn/52-tuoi-doanh-nhan-han-quoc-tro-thanh-tan-sinh-vien-o-viet-nam-100261021132058486.htm",
+   "content": "Sau 6 năm sống và làm việc tại TP.HCM, doanh nhân Hàn Quốc Choi Chang Young chọn học MBA để hiểu sâu hơn về Việt Nam và kết nối hai nước.",
+   "published_date": "10/21/2026 3:42:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Nữ bí thư phường livestream bán hàng trăm đơn nông sản giúp nông dân",
+   "url": "https://tuoitre.vn/nu-bi-thu-phuong-livestream-ban-hang-tram-don-nong-san-giup-nong-dan-10026102115284214.htm",
+   "content": "Bí thư Đảng ủy phường Bắc Gianh (Quảng Trị) trực tiếp livestream bán nông sản địa phương giúp nông dân. Phiên livestream thu hút gần 25.000 lượt xem trên Facebook, hàng trăm lượt đặt hàng.",
+   "published_date": "10/21/2026 3:39:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Khởi tố nam sinh lớp 12 đấm cô giáo trên bục giảng",
+   "url": "https://tuoitre.vn/khoi-to-nam-sinh-lop-12-dam-co-giao-tren-buc-giang-100261021150427038.htm",
+   "content": "Theo điều tra ban đầu, do không hoàn thành bài tập về nhà, nam sinh L.H.V. cùng một số học sinh khác bị cô giáo phạt đứng góc lớp. Bực tức, V. đã đấm cô giáo.",
+   "published_date": "10/21/2026 3:38:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Đặc phái viên Mỹ mang đề xuất hòa bình mới đến gặp ông Putin",
+   "url": "https://tuoitre.vn/dac-phai-vien-my-mang-de-xuat-hoa-binh-moi-den-gap-ong-putin-100261021141439415.htm",
+   "content": "Đặc phái viên Mỹ Steve Witkoff đã đến Nga gặp Tổng thống Putin sau cuộc đàm phán với Tổng thống Zelensky.",
+   "published_date": "10/21/2026 3:37:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Doanh nghiệp quốc tế mang loạt giải pháp chăn nuôi hiện đại đến Việt Nam",
+   "url": "https://tuoitre.vn/doanh-nghiep-quoc-te-mang-loat-giai-phap-chan-nuoi-hien-dai-den-viet-nam-100261021143528211.htm",
+   "content": "Hàng trăm thương hiệu quốc tế mang máy móc, thiết bị và giải pháp chăn nuôi đến TP.HCM, tìm kiếm đối tác phân phối và cơ hội mở rộng kinh doanh tại thị trường Việt Nam.",
+   "published_date": "10/21/2026 3:35:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Đề xuất bỏ giấy phép kinh doanh rượu: Có kiểm soát được rượu bán ở tiệm tạp hóa, quán nhậu?",
+   "url": "https://tuoitre.vn/de-xuat-bo-giay-phep-kinh-doanh-ruou-co-kiem-soat-duoc-ruou-ban-o-tiem-tap-hoa-quan-nhau-100261021151213864.htm",
+   "content": "Các chuyên gia cho rằng việc bỏ giấy phép kinh doanh rượu là cần thiết, tạo hành lang thông thoáng cho doanh nghiệp, song phải kiểm soát hiệu quả thị trường thông qua dữ liệu số hóa và truy xuất nguồn gốc sản phẩm.",
+   "published_date": "10/21/2026 3:31:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Bảo Việt Nhân thọ: 30 năm chắp cánh tương lai trẻ em",
+   "url": "https://tuoitre.vn/bao-viet-nhan-tho-30-nam-chap-canh-tuong-lai-tre-em-100261020185328808.htm",
+   "content": "Trong 30 năm hoạt động, Bảo Việt Nhân thọ không chỉ phát triển các giải pháp tài chính giúp các gia đình chủ động chuẩn bị cho tương lai của trẻ, mà còn triển khai nhiều chương trình an sinh giáo dục trên khắp cả nước.",
+   "published_date": "10/21/2026 3:30:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Lãnh đạo Thành ủy Hà Nội kiểm tra tiến độ dự án mở rộng đường 70, đường vành đai 3,5",
+   "url": "https://tuoitre.vn/lanh-dao-thanh-uy-ha-noi-kiem-tra-tien-do-du-an-mo-rong-duong-70-duong-vanh-dai-35-100261021150006634.htm",
+   "content": "Phó bí thư thường trực Thành ủy Hà Nội Nguyễn Trọng Đông yêu cầu đẩy nhanh giải phóng mặt bằng, tổ chức thi công “3 ca, 4 kíp” để bù tiến độ các dự án đường 70, vành đai 3,5 và nút giao với đại lộ Thăng Long.",
+   "published_date": "10/21/2026 3:29:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Tổng kết phong trào 1.500 Sáng kiến tại EVNHCMC năm 2026",
+   "url": "https://tuoitre.vn/tong-ket-phong-trao-1500-sang-kien-tai-evnhcmc-nam-2026-100261021151226468.htm",
+   "content": "Sáng 19-10, Tổng công ty Điện lực Thành phố Hồ Chí Minh (EVNHCMC) tổ chức hội nghị tổng kết phong trào thi đua thực hiện 1.500 sáng kiến, giải pháp và trao giải đi bộ rèn luyện sức khỏe.",
+   "published_date": "10/21/2026 3:25:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Bà Cao Thị Ngọc Dung: Nếu có lựa chọn tốt hơn tôi đã không bán cổ phiếu PNJ",
+   "url": "https://tuoitre.vn/ba-cao-thi-ngoc-dung-neu-co-lua-chon-tot-hon-toi-da-khong-ban-co-phieu-pnj-100261021151253347.htm",
+   "content": "'Dù sở hữu không lớn, PNJ là khoản đầu tư lớn nhất, gia đình tôi đã phải bán đi để cứu thanh khoản công ty. Nếu có lựa chọn tốt hơn, tôi đã không bán cổ phiếu PNJ', Chủ tịch Hội đồng quản trị PNJ nói.",
+   "published_date": "10/21/2026 3:23:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Spotify mạnh tay với nhạc rác AI, ưu tiên nghệ sĩ thật",
+   "url": "https://tuoitre.vn/spotify-manh-tay-voi-nhac-rac-ai-uu-tien-nghe-si-that-100261021105031707.htm",
+   "content": "Spotify đã loại 50 triệu bản nhạc AI bị xác định là nội dung rác khỏi hệ thống đề xuất, đồng thời gỡ hơn 75 triệu bản nhạc spam khỏi nền tảng trong năm qua.",
+   "published_date": "10/21/2026 3:18:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Xã Thường Tân, TP.HCM thông báo ghi nhận ca mắc não mô cầu ở trẻ 12 tuổi",
+   "url": "https://tuoitre.vn/xa-thuong-tan-tphcm-thong-bao-ghi-nhan-ca-mac-nao-mo-cau-o-tre-12-tuoi-100261021145757532.htm",
+   "content": "UBND xã Thường Tân (TP.HCM) cho biết địa phương đang phối hợp với ngành y tế TP.HCM và các đơn vị liên quan điều tra, giám sát ca bệnh viêm não mô cầu tại ấp Mỹ Lộc. Bệnh nhân là bé nam, 12 tuổi.",
+   "published_date": "10/21/2026 3:16:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Thông tư 85: Không phải mọi chương trình liên kết đều phải dừng",
+   "url": "https://tuoitre.vn/thong-tu-85-khong-phai-moi-chuong-trinh-lien-ket-deu-phai-dung-100261021130451802.htm",
+   "content": "Bộ Giáo dục và Đào tạo khẳng định Thông tư 85 không yêu cầu dừng tất cả chương trình liên kết, mà cần rà soát từng hoạt động, nội dung và điều kiện tổ chức.",
+   "published_date": "10/21/2026 3:10:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Rút siêu sà lan cùng hệ khung đỡ 2.000 tấn sau hợp long cầu đi bộ qua sông Sài Gòn",
+   "url": "https://tuoitre.vn/rut-sieu-sa-lan-cung-he-khung-do-2000-tan-sau-hop-long-cau-di-bo-qua-song-sai-gon-100261021141837296.htm",
+   "content": "Sau khi cầu đi bộ qua sông Sài Gòn (TP.HCM) chính thức được hợp long, chiều cùng ngày, các đơn vị đã phối hợp rút sà lan cùng hệ khung đỡ 2.000 tấn.",
+   "published_date": "10/21/2026 3:07:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Gần 5km đường Trần Phú, Nha Trang có 120 biển báo: Sở Xây dựng rà soát lại toàn tuyến",
+   "url": "https://tuoitre.vn/gan-5km-duong-tran-phu-nha-trang-co-120-bien-bao-so-xay-dung-ra-soat-lai-toan-tuyen-100261021111308774.htm",
+   "content": "Sở Xây dựng tỉnh Khánh Hòa lên kế hoạch rà soát lại toàn bộ các biển báo giao thông các loại trên đường Trần Phú (phường Nha Trang).",
+   "published_date": "10/21/2026 3:04:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Thị trường cần doanh nghiệp thành công cả sau IPO",
+   "url": "https://tuoitre.vn/thi-truong-can-doanh-nghiep-thanh-cong-ca-sau-ipo-100261021142653142.htm",
+   "content": "Thành công của IPO (chào bán cổ phiếu lần đầu ra công chúng) không chỉ nằm ở số vốn huy động hay diễn biến giá cổ phiếu, mà quan trọng hơn là giá trị thực doanh nghiệp tạo ra sau IPO và lợi ích dài hạn mang lại cho cổ đông.",
+   "published_date": "10/21/2026 3:01:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Game thủ Việt Nam khiến báo chí quốc tế ngỡ ngàng với màn trình diễn trên điện thoại 'cục gạch'",
+   "url": "https://tuoitre.vn/game-thu-viet-nam-khien-bao-chi-quoc-te-ngo-ngang-voi-man-trinh-dien-tren-dien-thoai-cuc-gach-100261021143415748.htm",
+   "content": "Một chiếc Nokia E72 bàn phím vật lý, ra đời từ năm 2009, trở thành tâm điểm chú ý của nhiều trang game quốc tế sau màn trình diễn tái hiện Liên Minh Huyền Thoại được chia sẻ từ Việt Nam.",
+   "published_date": "10/21/2026 3:00:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Ba dấu ấn VinFast VF 8 thế hệ mới từ khi ra mắt",
+   "url": "https://tuoitre.vn/ba-dau-an-vinfast-vf-8-the-he-moi-tu-khi-ra-mat-100261021122114497.htm",
+   "content": "Chưa đầy nửa năm kể từ khi ra mắt, VinFast VF 8 thế hệ mới đã ghi dấu ấn với ba cột mốc: nhận 12.728 đơn đặt hàng trong tháng 5, dẫn đầu doanh số SUV cỡ D trong tháng 8 và giành danh hiệu “Xe thuần điện mới của năm” tại Car Choice Awards (CCA) 2026.",
+   "published_date": "10/21/2026 3:00:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Trải nghiệm dịch vụ làm đẹp cá nhân hóa tại AMY Academy",
+   "url": "https://tuoitre.vn/trai-nghiem-dich-vu-lam-dep-ca-nhan-hoa-tai-amy-academy-100261021113019068.htm",
+   "content": "Phòng khám chuyên khoa Da liễu - Thẩm mỹ AMY Academy thu hút khách hàng nhờ liệu trình cá nhân hóa, đội ngũ có chuyên môn, công nghệ hiện đại cùng không gian làm đẹp tinh tế.",
+   "published_date": "10/21/2026 3:00:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "The Fullton Regal: Từ tổ ấm vững vàng đến tài sản tích lũy giá trị",
+   "url": "https://tuoitre.vn/the-fullton-regal-tu-to-am-vung-vang-den-tai-san-tich-luy-gia-tri-100261021112424712.htm",
+   "content": "Patio Twin Villa và Terrace Townhouse tại The Fullton Regal đại diện cho hai cách kiến tạo giá trị từ tư gia thấp tầng: một vun đắp nền tảng an cư vững vàng, một mở rộng tiềm năng khai thác và tích lũy tài sản.",
+   "published_date": "10/21/2026 3:00:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Từ IPO đến giá trị dài hạn: Sau cánh cửa gọi vốn",
+   "url": "https://tuoitre.vn/tu-ipo-den-gia-tri-dai-han-sau-canh-cua-goi-von-10026102111004368.htm",
+   "content": "Một doanh nghiệp bước lên sàn, hàng triệu nhà đầu tư có thể trở thành cổ đông. Nhưng phía sau khoảnh khắc gọi vốn ấy là một câu hỏi lớn hơn: dòng tiền từ thị trường sẽ được biến thành giá trị như thế nào?",
+   "published_date": "10/21/2026 3:00:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Một ngày cùng con khám phá Trường Quốc tế Úc AIS cơ sở Thảo Điền",
+   "url": "https://tuoitre.vn/mot-ngay-cung-con-kham-pha-truong-quoc-te-uc-ais-co-so-thao-dien-10026102018452965.htm",
+   "content": "Không gian xanh, những trải nghiệm phù hợp lứa tuổi và cuộc trò chuyện trực tiếp với giáo viên là những điểm nhấn của Open Day AIS Thảo Điền, diễn ra ngày 23-10. Với phụ huynh, đây còn là dịp nhìn ngôi trường qua cảm nhận của chính con mình.",
+   "published_date": "10/21/2026 3:00:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Thành ủy TP.HCM điều động, chỉ định nhiều cán bộ lãnh đạo phường",
+   "url": "https://tuoitre.vn/thanh-uy-tphcm-dieu-dong-chi-dinh-nhieu-can-bo-lanh-dao-phuong-100261021132956965.htm",
+   "content": "Chiều 21-10, Thành ủy TP.HCM tổ chức hội nghị công bố quyết định về công tác cán bộ, dưới sự chủ trì của Phó bí thư Thành ủy TP.HCM Văn Thị Bạch Tuyết.",
+   "published_date": "10/21/2026 2:59:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Bộ Công Thương đề xuất mới về áp dụng ngay giá điện theo giờ cao thấp điểm",
+   "url": "https://tuoitre.vn/bo-cong-thuong-de-xuat-moi-ve-ap-dung-ngay-gia-dien-theo-gio-cao-thap-diem-100261021142407344.htm",
+   "content": "Bộ Công Thương lấy ý kiến quyết định sửa đổi, bổ sung một số điều của Quyết định số 14 quy định về cơ cấu biểu giá bán lẻ điện.",
+   "published_date": "10/21/2026 2:44:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "17 nhiệm vụ khoa học công nghệ chiến lược được phê duyệt với hơn 2.300 tỉ đồng",
+   "url": "https://tuoitre.vn/17-nhiem-vu-khoa-hoc-cong-nghe-chien-luoc-duoc-phe-duyet-voi-hon-2300-ti-dong-100261021114228219.htm",
+   "content": "Hai vệ tinh quan sát Trái đất, chip cho thiết bị bay không người lái, robot lắp ráp điện tử và công nghệ chọn giống cá tra nằm trong các nhiệm vụ công nghệ chiến lược đã được phê duyệt.",
+   "published_date": "10/21/2026 2:42:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Bảo vệ sức mua để giữ sức sống của tăng trưởng",
+   "url": "https://tuoitre.vn/bao-ve-suc-mua-de-giu-suc-song-cua-tang-truong-100261021123116065.htm",
+   "content": "Bước vào quý cuối năm 2026, kinh tế Việt Nam tăng tốc, nhưng áp lực giá cả cũng đặt ra bài toán điều hành thận trọng.",
+   "published_date": "10/21/2026 2:30:00 PM",
+   "score": 0.6
+  },
+  {
    "title": "Dựng đá nghi chống ô tô đỗ trên vỉa hè: Bạn đọc hiến kế cách văn minh hơn",
    "url": "https://tuoitre.vn/dung-da-nghi-chong-o-to-do-tren-via-he-ban-doc-hien-ke-cach-van-minh-hon-100261021120510375.htm",
-   "content": "Việc có người dựng hơn chục tảng đá dựng trên vỉa hè trước Trường THCS Đoàn Thị Điểm (phường Buôn Ma Thuột, Đắk Lắk) thu hút sự quan tâm của nhiều bạn đọc Tuổi Trẻ. Nhiều ý kiến cho rằng nên có cách làm văn minh, đảm bảo an toàn và mỹ quan đô thị chứ không đồng tình cách làm nêu trên.",
+   "content": "Việc có người dựng hơn chục tảng đá trên vỉa hè trước Trường THCS Đoàn Thị Điểm (phường Buôn Ma Thuột, Đắk Lắk) thu hút sự quan tâm của nhiều bạn đọc Tuổi Trẻ. Nhiều ý kiến cho rằng nên có cách làm văn minh, đảm bảo an toàn và mỹ quan đô thị chứ không đồng tình cách làm nêu trên.",
    "published_date": "10/21/2026 2:24:00 PM",
    "score": 0.6
   },
   {
    "title": "Cảnh giác bẫy lừa đảo mạng khi du lịch Singapore",
    "url": "https://tuoitre.vn/canh-giac-bay-lua-dao-mang-khi-du-lich-singapore-100261021135944604.htm",
-   "content": "Dù Singapore là điểm đến an toàn và hiện đại hàng đầu khu vực, du khách Việt Nam vẫn đối mặt với hàng loạt rủi ro an ninh mạng như mã QR giả, Wi-Fi độc hại và các cuộc gọi mạo danh cơ quan công quyền.",
+   "content": "Dù Singapore là điểm đến an toàn và hiện đại hàng đầu khu vực, du khách Việt Nam vẫn đối mặt với hàng loạt rủi ro an ninh mạng như mã QR giả, WiFi độc hại và các cuộc gọi mạo danh cơ quan công quyền.",
    "published_date": "10/21/2026 2:22:00 PM",
    "score": 0.6
   },
@@ -55,300 +349,6 @@
    "url": "https://tuoitre.vn/vu-truong-vu-giao-duc-pho-thong-truong-phai-day-tang-cuong-khong-thu-tien-phu-huynh-100261021133059812.htm",
    "content": "TS Thái Văn Tài cho biết các trường phải tổ chức hoạt động giáo dục tăng cường, bảo đảm mọi học sinh đều được học, không thu tiền phụ huynh.",
    "published_date": "10/21/2026 2:09:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Việc xây dựng người Hà Nội thanh lịch, văn minh cần thực chất hơn",
-   "url": "https://tuoitre.vn/viec-xay-dung-nguoi-ha-noi-thanh-lich-van-minh-can-thuc-chat-hon-100261021131600517.htm",
-   "content": "Mỗi cơ quan làm tốt hơn trách nhiệm của mình, mỗi gia đình vun đắp nếp sống đẹp hơn, mỗi người dân ứng xử có trách nhiệm hơn - đó chính là những nền tảng thiết thực để xây dựng Hà Nội văn hiến, văn minh, hiện đại.",
-   "published_date": "10/21/2026 2:07:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "NPK Cà Mau được Úc cấp chứng nhận Level 1",
-   "url": "https://tuoitre.vn/npk-ca-mau-duoc-uc-cap-chung-nhan-level-1-100261021105738445.htm",
-   "content": "Sau urê hạt đục, NPK Cà Mau được công nhận Level 1 trong hệ thống quản lý phân bón vô cơ nhập khẩu của Úc. Chứng nhận mở thêm cơ hội tiếp cận thị trường này, nơi các lô hàng phải đáp ứng quy định về an toàn sinh học.",
-   "published_date": "10/21/2026 2:00:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Hoàng hậu Mary và những lần 'biến hình' bộ sưu tập trang sức hoàng gia",
-   "url": "https://tuoitre.vn/hoang-hau-mary-va-nhung-lan-bien-hinh-bo-suu-tap-trang-suc-hoang-gia-100261021113406217.htm",
-   "content": "Hoàng hậu Đan Mạch Mary đã nhiều lần tái thiết kế những món trang sức hoàng gia, biến chúng thành phụ kiện có thể sử dụng theo nhiều cách khác nhau.",
-   "published_date": "10/21/2026 1:58:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Giọng ca cải lương xưa Trần Trí Khang tiếp tục chinh phục Bông lúa vàng 2026",
-   "url": "https://tuoitre.vn/giong-ca-cai-luong-xua-tran-tri-khang-tiep-tuc-chinh-phuc-bong-lua-vang-2026-100261021133242932.htm",
-   "content": "Trong mùa Chuông vàng vọng cổ 2026 vừa kết thúc hồi tháng 9, Trần Trí Khang đến từ Khánh Hòa là thí sinh gây chú ý bởi cách ca mang âm hưởng của các tài danh xưa như Thanh Sang, Điền Tử Lang.",
-   "published_date": "10/21/2026 1:57:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Sẽ có 120 người đẹp thi Miss Universe 2026, Quỳnh Anh lỡ hẹn?",
-   "url": "https://tuoitre.vn/se-co-120-nguoi-dep-thi-miss-universe-2026-quynh-anh-lo-hen-100261021133539271.htm",
-   "content": "Công tác chuẩn bị cho kỷ niệm 75 năm thành lập Miss Universe đang triển khai, với các thí sinh từ khắp thế giới dự kiến bắt đầu đến Puerto Rico từ ngày 8-11.",
-   "published_date": "10/21/2026 1:55:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Từ vụ bị đánh vì nhắc khách không hút thuốc lá, đại biểu đề nghị bảo vệ người lên tiếng",
-   "url": "https://tuoitre.vn/tu-vu-bi-danh-vi-nhac-khach-khong-hut-thuoc-la-dai-bieu-de-nghi-bao-ve-nguoi-len-tieng-10026102113180135.htm",
-   "content": "Từ vụ nhân viên quán cà phê bị đánh sau khi nhắc khách không hút thuốc tại nơi có biển cấm, đại biểu đề nghị bổ sung quy định nghiêm cấm đe dọa, trả thù, xâm hại người nhắc nhở, phản ánh hành vi hút thuốc sai quy định.",
-   "published_date": "10/21/2026 1:49:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Thêm hãng xe mới sắp vào Việt Nam, có SUV chạy điện đi kèm máy xăng",
-   "url": "https://tuoitre.vn/them-hang-xe-moi-sap-vao-viet-nam-co-suv-chay-dien-di-kem-may-xang-100261021112654241.htm",
-   "content": "iCAUR, thương hiệu ô tô thuộc Tập đoàn Chery, dự kiến gia nhập thị trường Việt Nam cuối năm 2026 với hai mẫu SUV V23 và V27. Một mẫu thuần điện, mẫu còn lại có thêm động cơ đốt trong để phát điện.",
-   "published_date": "10/21/2026 1:15:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Nhiều chủ hộ kinh doanh bị khởi tố: Chủ động nộp bổ sung có tránh bị xử lý tội trốn thuế?",
-   "url": "https://tuoitre.vn/nhieu-chu-ho-kinh-doanh-bi-khoi-to-chu-dong-nop-bo-sung-co-tranh-bi-xu-ly-toi-tron-thue-100261020084434027.htm",
-   "content": "Theo luật sư, cần khuyến khích và tạo điều kiện để người nộp thuế tự giác phát hiện, sửa chữa sai sót và thực hiện đầy đủ nghĩa vụ với Nhà nước.",
-   "published_date": "10/21/2026 1:04:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Thủ tướng Lê Minh Hưng: Chi phí thuốc, thiết bị y tế bị đẩy lên mức phi lý",
-   "url": "https://tuoitre.vn/thu-tuong-le-minh-hung-chi-phi-thuoc-thiet-bi-y-te-bi-day-len-muc-phi-ly-100261021123346527.htm",
-   "content": "Thủ tướng Lê Minh Hưng yêu cầu quyết liệt cắt giảm khâu trung gian, kiểm soát chặt giá thuốc và thiết bị y tế, tránh đẩy chi phí khám, chữa bệnh lên mức vô lý, gây gánh nặng cho người bệnh và ngân sách Nhà nước.",
-   "published_date": "10/21/2026 1:01:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Sinh viên trường y ở Huế khởi nghiệp từ tất gel thảo dược",
-   "url": "https://tuoitre.vn/sinh-vien-truong-y-o-hue-khoi-nghiep-tu-tat-gel-thao-duoc-100261021102028499.htm",
-   "content": "Nhóm sinh viên Trường đại học Y - Dược, Đại học Huế nuôi ý tưởng khởi nghiệp làm tất gel thảo dược An Túc, hướng đến chăm sóc bàn chân tiện lợi và nâng cao giá trị dược liệu ở vùng cao xứ Huế.",
-   "published_date": "10/21/2026 12:58:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Chạy xe ôm công nghệ nuôi gian bếp từ tâm 9 năm đỏ lửa",
-   "url": "https://tuoitre.vn/chay-xe-om-cong-nghe-nuoi-gian-bep-tu-tam-9-nam-do-lua-100261021113010013.htm",
-   "content": "Chạy xe ôm công nghệ để nuôi con, chị Đỗ Ngọc Hà (TP.HCM) - trưởng nhóm thiện nguyện Bếp Hoa Từ Tâm thuộc Hội Liên hiệp thanh niên Việt Nam TP.HCM - 9 năm qua vẫn chắt chiu từng đồng, dành thời gian nấu những suất ăn miễn phí cho người khó khăn.",
-   "published_date": "10/21/2026 12:57:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Chưa gia hạn tiến độ dự án nút giao ở Nha Trang cho Tập đoàn Phúc Sơn",
-   "url": "https://tuoitre.vn/chua-gia-han-tien-do-du-an-nut-giao-o-nha-trang-cho-tap-doan-phuc-son-100261021113841507.htm",
-   "content": "Tỉnh Khánh Hòa vẫn chưa quyết định cho gia hạn thời gian thi công dự án nút giao Ngọc Hội (phường Tây Nha Trang) do Công ty cổ phần Tập đoàn Phúc Sơn thực hiện.",
-   "published_date": "10/21/2026 12:55:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Cổ phiếu đua xanh tím, VN-Index tăng bốc hơn 36 điểm",
-   "url": "https://tuoitre.vn/co-phieu-dua-xanh-tim-vn-index-tang-boc-hon-36-diem-100261021115605459.htm",
-   "content": "VN-Index tăng 36,3 điểm trong phiên sáng 21-10, với bộ đôi VIC, VHM dẫn dắt đà tăng. Cổ phiếu bất động sản, chứng khoán đồng loạt khởi sắc, khối ngoại mua ròng gần 147 tỉ đồng.",
-   "published_date": "10/21/2026 12:50:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Xe điện thống trị doanh số, vì sao các hãng vẫn ồ ạt đổ bộ xe hybrid vào Việt Nam?",
-   "url": "https://tuoitre.vn/xe-dien-thong-tri-doanh-so-vi-sao-cac-hang-van-o-at-do-bo-xe-hybrid-vao-viet-nam-100261021114731622.htm",
-   "content": "Dù các mẫu xe thuần điện liên tục giữ ngôi vương doanh số, thị trường ô tô Việt Nam từ đầu năm 2026 đến nay vẫn chứng kiến làn sóng ra mắt xe hybrid từ các ông lớn Nhật Bản, Hàn Quốc đến thương hiệu Trung Quốc.",
-   "published_date": "10/21/2026 12:49:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Người tài cần bản lĩnh, tổ chức cần công tâm",
-   "url": "https://tuoitre.vn/nguoi-tai-can-ban-linh-to-chuc-can-cong-tam-100261019223115227.htm",
-   "content": "Một chủ trương trọng dụng nhân tài có thể mở ra nhiều kỳ vọng, nhưng để người tài thực sự được cống hiến, còn phải vượt qua những rào cản trong cách nhìn nhận, đánh giá và sử dụng con người.",
-   "published_date": "10/21/2026 12:45:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Dragon Ball Super: Beerus làm lộ mâu thuẫn về Super Saiyan 4?",
-   "url": "https://tuoitre.vn/dragon-ball-super-beerus-lam-lo-mau-thuan-ve-super-saiyan-4-100261021000846853.htm",
-   "content": "Bản làm lại Dragon Ball Super: Beerus tiếp tục gây chú ý khi Goku không dùng đến Super Saiyan 4, trạng thái sức mạnh mà anh đã đạt được trong Dragon Ball DAIMA.",
-   "published_date": "10/21/2026 12:40:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "U17 Việt Nam thua U18 FC Seoul",
-   "url": "https://tuoitre.vn/u17-viet-nam-thua-u18-fc-seoul-10026102110173244.htm",
-   "content": "Sáng 21-10, U17 Việt Nam nhận thất bại 1-4 trước U18 FC Seoul, trong trận đấu tập đầu tiên của chuyến tập huấn ở Hàn Quốc.",
-   "published_date": "10/21/2026 12:37:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Cận cảnh cọc khoan nhồi hơn 100m của cầu vượt biển dài nhất Việt Nam",
-   "url": "https://tuoitre.vn/can-canh-coc-khoan-nhoi-hon-100m-cua-cau-vuot-bien-dai-nhat-viet-nam-100261021111756592.htm",
-   "content": "Những thiết bị trị giá hơn 1.000 tỉ đồng được huy động để đóng những cọc khoan nhồi sâu hơn 100m dưới biển.",
-   "published_date": "10/21/2026 12:35:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Đề xuất miễn phí tham quan loạt địa điểm dịp Ngày Văn hóa Việt Nam 24-11",
-   "url": "https://tuoitre.vn/de-xuat-mien-phi-tham-quan-loat-dia-diem-dip-ngay-van-hoa-viet-nam-24-11-100261021111352659.htm",
-   "content": "Bộ Tài chính đề xuất miễn phí tham quan tại nhiều bảo tàng, di tích lịch sử và vườn quốc gia nhân Ngày Văn hóa Việt Nam 24-11.",
-   "published_date": "10/21/2026 12:35:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Giếng khoan bất ngờ phun cột nước cao 15m có thể do từ tác động túi khí",
-   "url": "https://tuoitre.vn/gieng-khoan-bat-ngo-phun-cot-nuoc-cao-15m-co-the-do-tu-tac-dong-tui-khi-100261021114141002.htm",
-   "content": "Sở Nông nghiệp và Môi trường tỉnh Vĩnh Long đã có báo cáo về hiện tượng nước phun mạnh bất thường tại giếng khoan ở xã Hòa Bình. Nhận định sơ bộ ban đầu có thể do từ tác động túi khí.",
-   "published_date": "10/21/2026 12:33:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Bắt bị can Phan Văn Chương có lệnh truy nã tội giết người",
-   "url": "https://tuoitre.vn/bat-bi-can-phan-van-chuong-co-lenh-truy-na-toi-giet-nguoi-100261021120923806.htm",
-   "content": "Phan Văn Chương có 2 lệnh truy nã về các tội \"giết người\" và \"gây rối trật tự công cộng\" vừa bị Công an tỉnh Khánh Hòa bắt giữ.",
-   "published_date": "10/21/2026 12:32:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Vụ án Hải Sapa TV: Khởi tố kế toán và thủ quỹ Công ty Hoàng Nam",
-   "url": "https://tuoitre.vn/vu-an-hai-sapa-tv-khoi-to-ke-toan-va-thu-quy-cong-ty-hoang-nam-100261021121354901.htm",
-   "content": "Mở rộng điều tra vụ án liên quan đến Hải Sapa TV, Công an tỉnh Lào Cai vừa khởi tố, bắt tạm giam thêm kế toán và thủ quỹ Công ty cổ phần Sản xuất và Thương mại tổng hợp Hoàng Nam (Công ty Hoàng Nam).",
-   "published_date": "10/21/2026 12:31:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Nhiều người dân chờ xem thời khắc nhịp cầu đi bộ 3.400 tấn nối đôi bờ sông Sài Gòn",
-   "url": "https://tuoitre.vn/nhieu-nguoi-dan-cho-xem-thoi-khac-nhip-cau-di-bo-3400-tan-noi-doi-bo-song-sai-gon-100261021110547057.htm",
-   "content": "Đến 11h ngày 21-10, nhiều người dân đứng dọc hai bờ sông Sài Gòn xem vòm thép nặng khoảng 3.400 tấn đưa vào vị trí nối nhịp cầu đi bộ dài 720m giữa trung tâm TP.HCM và khu đô thị Thủ Thiêm.",
-   "published_date": "10/21/2026 12:30:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Doctor X dẫn đầu Netflix toàn cầu bất chấp tranh cãi sai lệch y khoa",
-   "url": "https://tuoitre.vn/doctor-x-dan-dau-netflix-toan-cau-bat-chap-tranh-cai-sai-lech-y-khoa-100261021115702087.htm",
-   "content": "Doctor X chinh phục khán giả bằng câu chuyện về nữ bác sĩ ngoại khoa thiên tài, dùng tài năng phẫu thuật để chống lại những bất công trong ngành y.",
-   "published_date": "10/21/2026 12:19:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine và châu Âu mắc kẹt trong thế khó với ông Trump",
-   "url": "https://tuoitre.vn/ukraine-va-chau-au-mac-ket-trong-the-kho-voi-ong-trump-100261021115514625.htm",
-   "content": "Bất chấp những căng thẳng gia tăng liên quan Nga, Ukraine và các nhà lãnh đạo châu Âu vẫn phải phụ thuộc vào sự hỗ trợ quân sự và đòn bẩy ngoại giao của Mỹ.",
-   "published_date": "10/21/2026 12:16:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Sở Giáo dục và Đào tạo Hà Nội thông tin vụ nam sinh đấm cô giáo trên bục giảng",
-   "url": "https://tuoitre.vn/so-giao-duc-va-dao-tao-ha-noi-thong-tin-vu-nam-sinh-dam-co-giao-tren-buc-giang-100261021063552883.htm",
-   "content": "Theo báo cáo ban đầu, trong giờ sửa bài kiểm tra, nam sinh lớp 12 Trường THPT Mạc Đĩnh Chi (Hà Nội) đã có hành vi bạo lực với cô giáo chủ nhiệm.",
-   "published_date": "10/21/2026 12:15:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Bánh cưới nặng 500kg, cao 3,5 mét nhưng phần lớn không ăn được",
-   "url": "https://tuoitre.vn/banh-cuoi-nang-500kg-cao-35-met-nhung-phan-lon-khong-an-duoc-100261021114908565.htm",
-   "content": "Nghệ nhân Tây Ban Nha Marc Suárez mất 1.800 giờ để hoàn thành bánh cưới nặng 500kg, cao 3,5m, trang trí bằng 33.000 cánh hoa đường, theo đơn đặt hàng của một gia đình tại Paris (Pháp).",
-   "published_date": "10/21/2026 12:14:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Đại học mở ngành với 613 lượt trong năm 2025, tăng gần 30%",
-   "url": "https://tuoitre.vn/dai-hoc-mo-nganh-voi-613-luot-trong-nam-2025-tang-gan-30-100261021110319572.htm",
-   "content": "Năm 2025, cả nước ghi nhận 613 lượt mở ngành mới ở trình độ đại học, thạc sĩ và tiến sĩ, tăng 28,51% so với năm 2024, đặt ra yêu cầu theo dõi chất lượng đào tạo và hiệu quả đầu ra.",
-   "published_date": "10/21/2026 12:03:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Thiếu ánh sáng ban ngày có thể tăng nguy cơ mắc chứng mất trí nhớ",
-   "url": "https://tuoitre.vn/thieu-anh-sang-ban-ngay-co-the-tang-nguy-co-mac-chung-mat-tri-nho-100261020104753847.htm",
-   "content": "Một nghiên cứu trên gần 88.000 người trưởng thành cho thấy những người tiếp xúc với ánh sáng ban ngày nhiều hơn có nguy cơ mắc chứng mất trí nhớ thấp hơn. Phát hiện này gợi mở vai trò của ánh sáng đối với sức khỏe não bộ, nhưng chưa chứng minh rằng ra ngoài trời nhiều hơn có thể ngăn ngừa bệnh.",
-   "published_date": "10/21/2026 12:00:00 PM",
-   "score": 0.6
-  },
-  {
-   "title": "Việt Nam cần 1.460 tỉ USD cho 5 năm tới, thị trường vốn đứng trước bài toán lớn",
-   "url": "https://tuoitre.vn/viet-nam-can-1460-ti-usd-cho-5-nam-toi-thi-truong-von-dung-truoc-bai-toan-lon-100261021112338849.htm",
-   "content": "Các chuyên gia nhấn mạnh phát triển thị trường vốn là yêu cầu cấp thiết để đáp ứng nhu cầu đầu tư ngày càng lớn, giảm phụ thuộc vào tín dụng ngân hàng và tạo nguồn lực dài hạn cho nền kinh tế.",
-   "published_date": "10/21/2026 11:59:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "'Ngọc điệm thu' bị chê thậm tệ khi mô tả tình yêu",
-   "url": "https://tuoitre.vn/ngoc-diem-thu-bi-che-tham-te-khi-mo-ta-tinh-yeu-100261020233742673.htm",
-   "content": "Thay vì giữ chiều sâu và sức hút kể chuyện vốn có, Thừa Lỗi đang cố thể hiện quá mức, tạo cảm giác khoa trương. Anh dường như đang thụt lùi về phong cách diễn xuất trong phim ngắn.",
-   "published_date": "10/21/2026 11:57:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "Phát hiện súng thần công 168 năm tuổi khi tôn tạo di tích ở Đà Nẵng",
-   "url": "https://tuoitre.vn/phat-hien-sung-than-cong-168-nam-tuoi-khi-ton-tao-di-tich-o-da-nang-100261021112259445.htm",
-   "content": "Quá trình thực hiện việc tu bổ, phục hồi và tôn tạo di tích Thành Điện Hải (Đà Nẵng) vừa phát hiện súng thần công khoảng 168 năm tuổi.",
-   "published_date": "10/21/2026 11:56:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "Môn võ Việt Nam nào 'hùng bá' châu Âu, được đưa vào chương trình thi đại học?",
-   "url": "https://tuoitre.vn/mon-vo-viet-nam-nao-hung-ba-chau-au-duoc-dua-vao-chuong-trinh-thi-dai-hoc-100261021103105685.htm",
-   "content": "Từ võ đường đến giảng đường đại học, Quán Khí Đạo - võ phái do võ sư Phạm Xuân Tòng sáng lập đã tạo nên một thương hiệu phát triển vô cùng đặc biệt tại châu Âu, góp phần đưa thương hiệu võ Việt Nam bùng nổ ở đất khách.",
-   "published_date": "10/21/2026 11:55:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "Thêm trái cây, bớt ăn một mình có thể giúp giảm nguy cơ trầm cảm",
-   "url": "https://tuoitre.vn/them-trai-cay-bot-an-mot-minh-co-the-giup-giam-nguy-co-tram-cam-100261021115257239.htm",
-   "content": "Bổ sung một phần trái cây mỗi ngày giúp giảm 13% nguy cơ trầm cảm, trong khi việc duy trì các bữa ăn chung thay vì thường xuyên ăn một mình được xem là \"liều thuốc\" tự nhiên giúp xoa dịu tâm trí.",
-   "published_date": "10/21/2026 11:52:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "Dự kiến làm hầm chui trên quốc lộ 1 qua ngã tư đông đúc nhất tỉnh Tây Ninh",
-   "url": "https://tuoitre.vn/du-kien-lam-ham-chui-tren-quoc-lo-1-qua-nga-tu-dong-duc-nhat-tinh-tay-ninh-100261021113258908.htm",
-   "content": "Theo Bộ Xây dựng, đề xuất làm hầm chui tại nút giao Long Kim của UBND tỉnh Tây Ninh phù hợp với quy mô mà Cục Đường bộ Việt Nam đang lập chủ trương đầu tư đối với các nút giao trên quốc lộ 1.",
-   "published_date": "10/21/2026 11:47:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "Giải ngân thấp so với cam kết, Đắk Lắk thúc tiến độ 3 ban quản lý dự án",
-   "url": "https://tuoitre.vn/giai-ngan-thap-so-voi-cam-ket-dak-lak-thuc-tien-do-3-ban-quan-ly-du-an-100261021102307901.htm",
-   "content": "Kết quả giải ngân thực tế của cả 3 ban quản lý dự án khu vực Buôn Ma Thuột, Ea Kar và Buôn Hồ đều thấp, chưa đạt yêu cầu cam kết đã đăng ký với UBND tỉnh Đắk Lắk.",
-   "published_date": "10/21/2026 11:46:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "PNJ trình đại hội đồng cổ đông kế hoạch tái thiết, phục hồi tăng trưởng",
-   "url": "https://tuoitre.vn/pnj-trinh-dai-hoi-dong-co-dong-ke-hoach-tai-thiet-phuc-hoi-tang-truong-100261021112822605.htm",
-   "content": "PNJ trình đại hội đồng cổ đông bất thường phương án trích lập 7.071 tỉ đồng dự phòng liên quan chính sách thu đổi kim cương, đồng thời đề xuất chào bán riêng lẻ tối đa 550 triệu cổ phiếu để bổ sung nguồn lực tài chính.",
-   "published_date": "10/21/2026 11:44:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "Nhóm XoilacTV, CakhiaTV thu lợi 134 tỉ đồng từ quảng cáo cá cược cho các 'nhà cái'",
-   "url": "https://tuoitre.vn/nhom-xoilactv-cakhiatv-thu-loi-134-ti-dong-tu-quang-cao-ca-cuoc-cho-cac-nha-cai-100261021111158107.htm",
-   "content": "Viện kiểm sát cáo buộc chỉ trong 10 tháng, các bị can điều hành hai dự án XoilavTV và CakhiaTV thu lợi bất chính gần 134 tỉ đồng.",
-   "published_date": "10/21/2026 11:38:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "Đề xuất san phẳng 'ngọn núi mồ côi' giữa lòng đô thị Quy Nhơn để ngăn sạt lở",
-   "url": "https://tuoitre.vn/de-xuat-san-phang-ngon-nui-mo-coi-giua-long-do-thi-quy-nhon-de-ngan-sat-lo-100261021102308511.htm",
-   "content": "Núi Một, 'ngọn núi mồ côi' giữa lòng đô thị Quy Nhơn (Gia Lai), thường xuyên sạt lở ảnh hưởng tới 228 hộ dân. Phường Quy Nhơn đề xuất san phẳng ngọn núi này để giải quyết sạt lở và tạo quỹ đất phát triển đô thị.",
-   "published_date": "10/21/2026 11:36:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "LPBank lãi 10.421 tỉ đồng lợi nhuận trước thuế sau 9 tháng đầu năm 2026",
-   "url": "https://tuoitre.vn/lpbank-lai-10421-ti-dong-loi-nhuan-truoc-thue-sau-9-thang-dau-nam-2026-100261021095645355.htm",
-   "content": "LPBank vừa công bố báo cáo tài chính quý 3 với nhiều điểm nhấn đáng chú ý. Tính đến ngày 30-9-2026, ngân hàng đạt 10.421 tỉ đồng lợi nhuận trước thuế lũy kế, tổng tài sản đạt 694.183 tỉ đồng, tăng trưởng tương ứng gần 9% và 29% so với cùng kỳ.",
-   "published_date": "10/21/2026 11:30:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "Bấm còi liên tục giục xe trước nhường đường, tài xế xe tải bị CSGT 'hỏi thăm', xử phạt 2,4 triệu",
-   "url": "https://tuoitre.vn/bam-coi-lien-tuc-giuc-xe-truoc-nhuong-duong-tai-xe-xe-tai-bi-csgt-hoi-tham-xu-phat-24-trieu-100261021110920494.htm",
-   "content": "Ngày 21-10, Đội Cảnh sát giao thông Cát Lái thuộc Phòng Cảnh sát giao thông (PC08) Công an TP.HCM đã xử lý tài xế xe tải sử dụng còi liên tục, lắp thêm đèn phía trước xe.",
-   "published_date": "10/21/2026 11:29:00 AM",
-   "score": 0.6
-  },
-  {
-   "title": "4 trường biên giới trễ tiến độ, Chủ tịch Quảng Ngãi yêu cầu xử lý trách nhiệm",
-   "url": "https://tuoitre.vn/4-truong-bien-gioi-tre-tien-do-chu-tich-quang-ngai-yeu-cau-xu-ly-trach-nhiem-100261021101348814.htm",
-   "content": "Dù đã được yêu cầu hoàn thành trước ngày 15-10, cả bốn trường phổ thông nội trú liên cấp biên giới ở phía Tây Quảng Ngãi vẫn còn nhiều hạng mục dang dở. Chủ tịch UBND tỉnh đã phê bình chủ đầu tư và các nhà thầu, yêu cầu kiểm điểm, làm rõ trách nhiệm.",
-   "published_date": "10/21/2026 11:23:00 AM",
    "score": 0.6
   }
  ],

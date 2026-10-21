@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "First Shipment of Russian Diesel Expected to Depart for the United States Under Trump Deal",
+   "url": "https://www.themoscowtimes.com/2026/10/21/first-shipment-of-russian-diesel-expected-to-depart-for-the-united-states-under-trump-deal-a94039",
+   "content": "Deputy Prime Minister Alexander Novak said a tanker would depart for the U.S. on Thursday but did not say how much diesel was on board.",
+   "published_date": "Wed, 21 Oct 2026 13:25:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "FSB Arrests German Accused of Fighting for Ukraine",
    "url": "https://www.themoscowtimes.com/2026/10/21/fsb-arrests-german-accused-of-fighting-for-ukraine-a94038",
    "content": "The FSB claimed the German man signed a three-year contract with the Ukrainian military last winter, but later fled his unit before being captured.",
@@ -9,9 +16,9 @@
    "score": 0.6
   },
   {
-   "title": "Witkoff Arrives in St. Petersburg for Meeting With Putin",
-   "url": "https://www.themoscowtimes.com/2026/10/21/witkoff-arrives-in-st-petersburg-for-meeting-with-putin-a94037",
-   "content": "The White House envoy is expected to discuss Ukraine peace negotiations with Putin and the potential release of an American imprisoned in Russia.",
+   "title": "Putin Releases American Jailed in Russia After U.S. Envoy Arrives for Ukraine Talks",
+   "url": "https://www.themoscowtimes.com/2026/10/21/putin-releases-american-jailed-in-russia-after-us-envoy-arrives-for-ukraine-talks-a94037",
+   "content": "Special envoy Steve Witkoff is also expected to discuss Ukraine peace negotiations with the Russian president during his visit to St. Petersburg.",
    "published_date": "Wed, 21 Oct 2026 11:09:00 +0300",
    "score": 0.6
   },
@@ -342,13 +349,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/14/putin-convenes-top-russian-officials-to-discuss-cybersecurity-a93975",
    "content": "The Kremlin said the meeting was not connected with Ukrainian drone strikes in the past week on four Russian data centers.",
    "published_date": "Wed, 14 Oct 2026 14:54:39 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russian Supreme Court Bans Ingush Sufi Muslim Order as ‘Extremist’",
-   "url": "https://www.themoscowtimes.com/2026/10/14/russian-supreme-court-bans-ingush-sufi-muslim-order-as-extremist-a93973",
-   "content": "Prosecutors had accused the once-powerful order from Ingushetia of “providing material support for bandit insurgents of the North Caucasus.”",
-   "published_date": "Wed, 14 Oct 2026 14:41:09 +0300",
    "score": 0.6
   }
  ],

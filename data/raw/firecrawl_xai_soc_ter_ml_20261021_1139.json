@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/NewsTongueX/status/2112691839526465692",
+     "title": "🔴 Islamic State Sahel group kills 48 in Mali attack Islamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Ma",
+     "description": "🔴 Islamic State Sahel group kills 48 in Mali attack\n\nIslamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Mali Sunday night into Monday morning, killing 48 people including children and elderly, according to Moussa Ag Acharatoumane, a Tuareg leader and National Transitional Council member.\nThe group accused the civilians of revealing ISSP positions to the Malian army, which had conducted drone strikes against the militants. ISSP operates primarily in Ménaka, where it competes with rival militant group Jama'at Nusrat al-Islam wal-Muslimin (JNIM), and across Burkina Faso and Niger.",
+     "snippet": "🔴 Islamic State Sahel group kills 48 in Mali attack\n\nIslamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Mali Sunday night into Monday morning, killing 48 people including children and elderly, according to Moussa Ag Acharatoumane, a Tuareg leader and National Transitional Council member.\nThe group accused the civilians of revealing ISSP positions to the Malian army, which had conducted drone strikes against the militants. ISSP operates primarily in Ménaka, where it competes with rival militant group Jama'at Nusrat al-Islam wal-Muslimin (JNIM), and across Burkina Faso and Niger.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NewsTongue",
+     "handle": "@NewsTongueX"
+    },
+    {
+     "url": "https://x.com/pavlov3138/status/2112639585800904993",
+     "title": "Islamic State gunmen on motorbikes killed at least 48 civilians at Tagadayat, in Mali's Menaka region, on Sunday and burned homes, says the",
+     "description": "Islamic State gunmen on motorbikes killed at least 48 civilians at Tagadayat, in Mali's Menaka region, on Sunday and burned homes, says the local Idaksahak community, reported by AP. The Russian-backed junta's security promise looks thinner every month.",
+     "snippet": "Islamic State gunmen on motorbikes killed at least 48 civilians at Tagadayat, in Mali's Menaka region, on Sunday and burned homes, says the local Idaksahak community, reported by AP. The Russian-backed junta's security promise looks thinner every month.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roman",
+     "handle": "@pavlov3138"
+    },
+    {
+     "url": "https://x.com/mintelworld/status/2112608788687863811",
+     "title": "Islamic State-linked militants have killed at least 48 civilians in the Ménaka region of northeastern Mali.",
+     "description": "Islamic State-linked militants have killed at least 48 civilians in the Ménaka region of northeastern Mali. The attacks reportedly targeted at least five localities, with homes burned and livestock stolen, forcing hundreds of civilians to flee.",
+     "snippet": "Islamic State-linked militants have killed at least 48 civilians in the Ménaka region of northeastern Mali. The attacks reportedly targeted at least five localities, with homes burned and livestock stolen, forcing hundreds of civilians to flee.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mintel World",
+     "handle": "@mintelworld"
+    },
+    {
+     "url": "https://x.com/SimNasr/status/2112546877480517655",
+     "title": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite d",
+     "description": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "snippet": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wassim Nasr",
+     "handle": "@SimNasr"
+    },
+    {
+     "url": "https://x.com/KargnHasret/status/2112479108986720296",
+     "title": "#Mali JNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Ban",
+     "description": "#Mali\nJNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Bandiagara-Douentza axis . Reportedly Toloba's driver was killed in the attack.",
+     "snippet": "#Mali\nJNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Bandiagara-Douentza axis . Reportedly Toloba's driver was killed in the attack.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Hasret Kargın",
+     "handle": "@KargnHasret"
+    },
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112160885095674030",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/SawabCenter/status/2112149364412141854",
+     "title": "📰 Rival extremists in the Sahel are fighting each other at unprecedented scale across the Burkina Faso-Mali-Niger borderlands.",
+     "description": "📰 Rival extremists in the Sahel are fighting each other at unprecedented scale across the Burkina Faso-Mali-Niger borderlands. Daesh Sahel Province (ISSP) claims it killed over 400 Al Qaeda-linked JNIM terrorists in Oudalan, which would be the deadliest battle between them. UN experts call it the world’s most intense Al Qaeda-Daesh confrontation. Competition for routes & for control over populations is being seen as a reason driving the expansion.",
+     "snippet": "📰 Rival extremists in the Sahel are fighting each other at unprecedented scale across the Burkina Faso-Mali-Niger borderlands. Daesh Sahel Province (ISSP) claims it killed over 400 Al Qaeda-linked JNIM terrorists in Oudalan, which would be the deadliest battle between them. UN experts call it the world’s most intense Al Qaeda-Daesh confrontation. Competition for routes & for control over populations is being seen as a reason driving the expansion.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SawabCenter",
+     "handle": "@SawabCenter"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112110067868733656",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Kouliko",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2111823791613497351",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 17 October, #JNIM claimed an IED strike on a Malian army infantry patrol in the village of Goma, north of Diaba",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 17 October, #JNIM claimed an IED strike on a Malian army infantry patrol in the village of Goma, north of Diabaly, in the #Ségou region, in the morning.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 17 October, #JNIM claimed an IED strike on a Malian army infantry patrol in the village of Goma, north of Diabaly, in the #Ségou region, in the morning.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    }
+   ]
+  }
+ ]
+}
