@@ -612,9 +612,14 @@ CTY_MARKERS = {
            "iloilo", "baguio", "clark", "subic", "tawi-tawi", "sulu",
            "棉兰老", "宿务", "达沃", "苏里高", "三宝颜", "巴拉望"],
     "mm": ["myanmar", "burma", "burmese", "naypyidaw", "yangon", "mandalay", "rangoon",
-           "junta", "tatmadaw", "min aung hlaing", "nug", "pdf myanmar",
+           # NOT bare "junta": Niger, Mali and Burkina all have juntas, and the
+           # word was tagging "Niger junta names new cabinet" as Myanmar — the
+           # same class of mistake as filing French news under Korea. Only
+           # Myanmar-specific phrasings are listed.
+           "myanmar junta", "military council", "state administration council",
+           "tatmadaw", "min aung hlaing", "nug", "pdf myanmar",
            "rohingya", "wa state army", "kokang", "缅甸", "仰光", "内比都",
-           "敏昂莱", "若开军", "果敢"],
+           "敏昂莱", "若开军", "果敢", "缅军", "缅北"],
     "ru": ["russia", "russian", "moscow", "kremlin", "putin", "lavrov", "fsb", "gru",
            "wagner", "russian army", "donbas", "crimea", "russian oil", "gazprom",
            "rosatom", "俄罗斯", "莫斯科", "克里姆林宫", "普京", "瓦格纳"],

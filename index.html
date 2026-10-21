@@ -303,6 +303,60 @@ details.ft[open] summary::before{content:'▾ '}
     kr:'朝鲜/韩国', ph:'菲律宾', mm:'缅甸', ru:'俄罗斯', in:'印度',
     np:'尼泊尔', vn:'越南', la:'老挝'
   };
+
+  /* ── search: Chinese country names, and 尼日尔 vs 尼日利亚 ──
+     Two problems, one fix.
+
+     1. A query that names a country has to select that country, not do a
+        substring test. "Niger" is a substring of "Nigeria", so searching Niger
+        returned mostly Nigerian stories — the worst possible ambiguity on a page
+        built around these two countries. Typing 尼日尔 likewise matched every
+        article whose body happened to mention Nigeria.
+     2. Chinese input only appeared to work: the haystack does contain the
+        Chinese fields, but the search box re-rendered the whole view on every
+        keystroke, which aborted the IME composition, so the characters were
+        never committed in the first place.
+
+     So: resolve the query to a country when it begins with a country name, and
+     treat the remainder as keywords. "Niger" → ne · "Nigeria" → ng ·
+     "尼日尔 油井" → ne + 油井 · "尼日尔州" → ng (Niger State is in Nigeria).
+     Aliases are matched LONGEST FIRST so 尼日利亚 beats 尼日尔 and "Nigeria"
+     beats "Niger". A null country marks a name that must NOT resolve (印度尼西亚
+     starts with 印度, which is India). */
+  var CTY_ALIAS = [
+    ['尼日利亚','ng'], ['尼日尔州','ng'], ['尼日尔三角洲','ng'],
+    ['尼日尔','ne'], ['尼日','ne'],
+    ['马里','ml'], ['加纳','gh'],
+    ['朝鲜','kr'], ['韩国','kr'], ['南韩','kr'], ['北韩','kr'],
+    ['菲律宾','ph'], ['缅甸','mm'], ['俄罗斯','ru'],
+    ['印度尼西亚',null], ['印度','in'],
+    ['尼泊尔','np'], ['越南','vn'], ['老挝','la'],
+    ['nigeria','ng'], ['nigerian','ng'], ['niger state','ng'],
+    ['niger delta','ng'], ['niger','ne'],
+    ['indonesia',null], ['mali','ml'], ['ghana','gh'],
+    ['north korea','kr'], ['south korea','kr'], ['korea','kr'],
+    ['philippines','ph'], ['myanmar','mm'], ['burma','mm'],
+    ['russia','ru'], ['india','in'], ['nepal','np'],
+    ['vietnam','vn'], ['laos','la']
+  ];
+  CTY_ALIAS.sort(function(a,b){ return b[0].length - a[0].length; });
+
+  function resolveQuery(q){
+    var s=(q||'').trim().toLowerCase();
+    if(!s) return {cty:null, words:[]};
+    for(var i=0;i<CTY_ALIAS.length;i++){
+      var a=CTY_ALIAS[i][0];
+      if(s.indexOf(a)!==0) continue;
+      var rest=s.slice(a.length);
+      /* Latin names need a word boundary, so "nigerian" cannot resolve via
+         "niger". CJK has no spaces: "尼日尔油井" is country + keyword. */
+      if(rest && /^[a-z]/.test(rest)) continue;
+      var words=rest.split(/[\s,，、.。;；:：]+/).filter(function(w){return w.length>0;});
+      return {cty:CTY_ALIAS[i][1], words:words};
+    }
+    return {cty:null, words:[s]};
+  }
+
   /* Modules: 4 orthogonal axes for the new page structure.
        africa    — items whose country is one of Nigeria/Niger/Mali/Ghana
        periphery — items whose country is one of KR/PH/MM/RU/IN/NP/VN/LA
@@ -508,10 +562,19 @@ details.ft[open] summary::before{content:'▾ '}
     if(state.tier!=='all' && state.tier!=='terror' && String(it.tier)!==String(state.tier)) return false;
     if(state.tier==='terror' && !it.terrHit) return false;
     if(state.q){
-      var hay=[it.title,it.title_zh,it.summary,it.summary_zh,it.snippet,it.snippet_zh,it.body,it.body_zh,
-               it.source,it.author,it.handle,it.actor,
-               (it.topic||[]).join(' '),(it.country||[]).join(' ')].join(' ').toLowerCase();
-      if(hay.indexOf(state.q.toLowerCase())<0) return false;
+      var rq = resolveQuery(state.q);
+      /* A country named in the query selects that country — it is not a text
+         search. "Niger" must not return Nigeria, and it must not be satisfied
+         by a Nigerian item whose body mentions Niger. */
+      if(rq.cty && (it.country||[]).indexOf(rq.cty)<0) return false;
+      if(rq.words.length){
+        var hay=[it.title,it.title_zh,it.summary,it.summary_zh,it.snippet,it.snippet_zh,it.body,it.body_zh,
+                 it.source,it.author,it.handle,it.actor,
+                 (it.topic||[]).join(' '),(it.country||[]).join(' ')].join(' ').toLowerCase();
+        for(var i=0;i<rq.words.length;i++){
+          if(hay.indexOf(rq.words[i])<0) return false;
+        }
+      }
     }
     return true;
   }
@@ -881,10 +944,45 @@ details.ft[open] summary::before{content:'▾ '}
       c.addEventListener('click',function(){
         state[c.dataset.k]=c.dataset.v; state.page=1; render();});});
     var qi=V.querySelector('#q');
-    if(qi){var t;qi.addEventListener('input',function(){clearTimeout(t);
-      t=setTimeout(function(){state.q=qi.value;state.page=1;
-        var v=document.getElementById('view');render();
-        var n=document.getElementById('q');if(n){n.focus();n.setSelectionRange(n.value.length,n.value.length);}},320);});}
+    if(qi){
+      /* Chinese input must survive the re-render.
+         The old handler re-rendered the whole view 320 ms after every `input`
+         event, which REPLACED the input element. With an IME that session is
+         what turns pinyin into characters: destroying the field mid-composition
+         threw the buffer away, so nothing was ever committed and the box looked
+         as if it only accepted English. English has no composition session, so
+         it looked fine — the bug was invisible until someone typed Chinese.
+
+         Fix: never touch the DOM while a composition is in progress, and after
+         it ends apply the value. `isComposing` / keyCode 229 catch the mobile
+         and desktop IME cases that do not fire compositionend reliably. */
+      var t, composing=false;
+      var apply=function(){
+        state.q=qi.value; state.page=1;
+        var pos=qi.value.length;
+        render();
+        var n=document.getElementById('q');
+        if(n){n.focus();try{n.setSelectionRange(pos,pos);}catch(e){}}
+      };
+      qi.addEventListener('compositionstart',function(){composing=true;});
+      qi.addEventListener('compositionend',function(){
+        composing=false; clearTimeout(t);
+        t=setTimeout(apply,60);
+      });
+      qi.addEventListener('input',function(e){
+        if(composing || e.isComposing || e.keyCode===229) return;   // mid-IME
+        clearTimeout(t);
+        t=setTimeout(apply,320);
+      });
+      /* Enter applies immediately — on a phone keyboard the confirm key is the
+         natural "search" gesture, and waiting 320 ms feels broken. */
+      qi.addEventListener('keydown',function(e){
+        if(e.key==='Enter'||e.keyCode===13){
+          if(composing||e.isComposing) return;
+          clearTimeout(t); apply();
+        }
+      });
+    }
     V.querySelectorAll('.pager button').forEach(function(b){
       b.addEventListener('click',function(){if(b.disabled)return;state.page=+b.dataset.p;render();
         window.scrollTo({top:0,behavior:'smooth'});});});
