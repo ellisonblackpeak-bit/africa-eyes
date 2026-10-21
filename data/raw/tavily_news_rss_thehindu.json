@@ -2,17 +2,80 @@
  "success": true,
  "results": [
   {
-   "title": "IEA chief sees little chance of oil market 'normalisation' next year",
-   "url": "https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece",
-   "content": "The war sparked by the attacks has sent oil prices to over $100 a barrel compared with below $70 a barrel before hostilities began, while damage to Gulf refineries has helped push diesel prices to record highs",
-   "published_date": "Wed, 21 Oct 2026 07:54:16 +0530",
+   "title": "India, U.S. trade deal to be much different: Donald Trump",
+   "url": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece",
+   "content": "Speaking to reporters at the Oval Office on Tuesday (October 20, 2026), Mr. Trump said India and the U.S. were pretty close to making a trade deal",
+   "published_date": "Wed, 21 Oct 2026 08:52:10 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Can India turn retrofitment into the next mobility revolution?",
+   "url": "https://www.thehindu.com/news/national/can-india-turn-retrofitment-into-the-next-mobility-revolution/article71605340.ece",
+   "content": "Unlike new EV manufacturing, which rewards scale and centralisation, retrofitment rewards distribution through local workshops, technicians and entrepreneurship; with the right training, neighbourhood mechanic shops can become certified retrofitters, absorbing the existing workforce",
+   "published_date": "Wed, 21 Oct 2026 08:48:25 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi govt. finds lapses in hygiene, cleanliness at sweet manufacturers",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-government-finds-hygiene-lapses-at-sweet-manufacturers-during-festive-season/article71605263.ece",
+   "content": "Chief Minister Rekha Gupta said the Delhi Government’s citizen-centric approach places public health, safety, and welfare at its core",
+   "published_date": "Wed, 21 Oct 2026 08:47:22 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Tamil Nadu rain: Schools in Chennai, four other districts declare holiday",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece",
+   "content": "The weather stations in Meenambakkam and Nungambakkam recorded 12 cm and 11 cm of rainfall respectively, followed by Taramani (10 cm) Madhavaram (9 cm), Villivakkam and Nandanam (8 cm)",
+   "published_date": "Wed, 21 Oct 2026 08:44:49 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi High Court imposes ₹1 cost on Niva Bupa over ₹5 crore suit against influencer",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-imposes-1-cost-on-niva-bupa-over-5-crore-suit-against-influencer/article71604625.ece",
+   "content": "Justice Anup J. Bhambhani, in an order passed on September 21, observed that merely using an insurance company’s name or trademark to identify it in social media posts did not, in the circumstances of the case, amount to trademark infringement",
+   "published_date": "Wed, 21 Oct 2026 08:40:36 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "France arrests man, calls in anti-terror police over town hall protest fire",
+   "url": "https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece",
+   "content": "Anti-terror police have been called in to investigate the suspected arson of the town hall in the central city of Limoges, a listed building dating back to 1883 whose roof and belfry collapsed when it was engulfed by fire on October 17",
+   "published_date": "Wed, 21 Oct 2026 08:37:32 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "NATO sending planes, radars to Black Sea after drone attacks",
+   "url": "https://www.thehindu.com/news/international/nato-boosts-black-sea-presence-with-planes-drones-and-radars/article71606091.ece",
+   "content": "The announcement from NATO came after Bulgaria's Prime Minister Rumen Radev said that a U.S. military plane had started to patrol the Black Sea following a plea for help after recent drone attacks",
+   "published_date": "Wed, 21 Oct 2026 08:16:06 +0530",
    "score": 0.6
   },
   {
    "title": "Why India can’t win Nobel prizes without questioning the ‘competent authority’",
    "url": "https://www.thehindu.com/education/why-india-cant-win-nobel-prizes-without-questioning-the-competent-authority/article71603861.ece",
-   "content": "",
-   "published_date": "Wed, 21 Oct 2026 07:51:18 +0530",
+   "content": "Currently, the dogmatic mindset has hijacked our educational practices. Conformity spares us the effort of examining assumptions and the discomfort of disagreement",
+   "published_date": "Wed, 21 Oct 2026 08:08:25 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "T.N. government should construct new Secretariat complex outside Chennai, says Anbumani",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-should-construct-new-secretariat-complex-outside-chennai-says-anbumani/article71604935.ece",
+   "content": "He wants the State government to clarify whether the media reports about constructing the Secretariat at Pallavan Illam are true",
+   "published_date": "Wed, 21 Oct 2026 08:04:17 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In",
+   "url": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece",
+   "content": "India must do better at detecting and preventing data breaches",
+   "published_date": "Wed, 21 Oct 2026 07:59:08 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "IEA chief sees little chance of oil market 'normalisation' next year",
+   "url": "https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece",
+   "content": "The war sparked by the attacks has sent oil prices to over $100 a barrel compared with below $70 a barrel before hostilities began, while damage to Gulf refineries has helped push diesel prices to record highs",
+   "published_date": "Wed, 21 Oct 2026 07:54:16 +0530",
    "score": 0.6
   },
   {
@@ -55,13 +118,6 @@
    "url": "https://www.thehindu.com/news/cities/Madurai/minor-cannot-be-stripped-of-indian-citizenship-merely-because-father-became-uk-citizen-says-madras-high-court/article71604980.ece",
    "content": "The court directs the Madurai Regional Passport Officer to consider and dispose of the application for the renewal of passport in 3 months",
    "published_date": "Wed, 21 Oct 2026 07:15:27 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Tamil Nadu rain: Schools in Chennai, four other districts declare holiday",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece",
-   "content": "The weather stations in Meenambakkam and Nungambakkam recorded 12 cm and 11 cm of rainfall respectively, followed by Taramani (10 cm) Madhavaram (9 cm), Villivakkam and Nandanam (8 cm)",
-   "published_date": "Wed, 21 Oct 2026 07:13:48 +0530",
    "score": 0.6
   },
   {
@@ -111,13 +167,6 @@
    "url": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
    "content": "In a separate bid, the Eknath Shinde-led faction staged its own event in Goregaon, as rally participants urged accountability from officials and warned of political consequences if justice for students amid recent paper leaks is not delivered",
    "published_date": "Wed, 21 Oct 2026 05:03:29 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Delhi High Court imposes ₹1 cost on Niva Bupa over ₹5 crore suit against influencer",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-imposes-1-cost-on-niva-bupa-over-5-crore-suit-against-influencer/article71604625.ece",
-   "content": "Justice Anup J. Bhambhani, in an order passed on September 21, observed that merely using an insurance company’s name or trademark to identify it in social media posts did not, in the circumstances of the case, amount to trademark infringement",
-   "published_date": "Wed, 21 Oct 2026 04:53:53 +0530",
    "score": 0.6
   },
   {
@@ -254,13 +303,6 @@
    "score": 0.6
   },
   {
-   "title": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In",
-   "url": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece",
-   "content": "India must do better at detecting and preventing data breaches",
-   "published_date": "Wed, 21 Oct 2026 00:57:39 +0530",
-   "score": 0.6
-  },
-  {
    "title": "Fall of the centre: on the public discontent in France",
    "url": "https://www.thehindu.com/opinion/editorial/fall-of-the-centre-on-the-public-discontent-in-france/article71604809.ece",
    "content": "Economic woes have fuelled public discontent in France under Macron",
@@ -377,48 +419,6 @@
    "url": "https://www.thehindu.com/news/cities/Delhi/hygiene-lapses-found-at-sweet-shops-in-chandni-chowk-naraina-okhla-narela/article71605316.ece",
    "content": "",
    "published_date": "Wed, 21 Oct 2026 00:29:23 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "The ECI’s unfinished lessons",
-   "url": "https://www.thehindu.com/opinion/op-ed/the-ecis-unfinished-lessons/article71605299.ece",
-   "content": "While the ECI need not accept every allegation made by political parties, constitutional authority cannot substitute for verifiable evidence",
-   "published_date": "Wed, 21 Oct 2026 00:27:25 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Fifty years ago | Electronic device to aid executives",
-   "url": "https://www.thehindu.com/archives/from-the-hindu-archives-october-21-1976/article71604946.ece",
-   "content": "",
-   "published_date": "Wed, 21 Oct 2026 00:21:48 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "A hundred years ago | Indian railways",
-   "url": "https://www.thehindu.com/archives/from-the-hindu-archives-october-21-1926/article71604919.ece",
-   "content": "",
-   "published_date": "Wed, 21 Oct 2026 00:20:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "On paddy field conservation in Keralam",
-   "url": "https://www.thehindu.com/opinion/op-ed/on-paddy-field-conservation-in-keralam/article71605301.ece",
-   "content": "Neglecting paddy fields as a socio-ecological system that regulates local biodiversity, the hydrological cycle, and microclimate constitutes a grave failure, amid rising food insecurity and floods",
-   "published_date": "Wed, 21 Oct 2026 00:13:33 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "30-foot-high cockroach effigy triggers AAP-BJP war of words",
-   "url": "https://www.thehindu.com/news/cities/Delhi/30-foot-high-cockroach-effigy-triggers-aap-bjp-war-of-words/article71605225.ece",
-   "content": "“Deliberate alteration of Sanatan customs and hurting of religious sentiments: The festival of Dussehra, or Vijayadashami, is a highly sacred event governed by ancient Hindu rituals, scriptures and longstanding traditions",
-   "published_date": "Wed, 21 Oct 2026 00:00:12 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Kin of Roman Catholic priest can’t claim ownership of his property as it belongs to the institution: Madras HC",
-   "url": "https://www.thehindu.com/news/cities/Madurai/kin-of-roman-catholic-priest-cant-claim-ownership-of-his-property-as-it-belongs-to-the-institution-madras-hc/article71605118.ece",
-   "content": "The court sets aside an order granting succession certificate in favour of the relatives of a deceased priest to get the claim amount of a fixed deposit made by the priest",
-   "published_date": "Tue, 20 Oct 2026 23:57:01 +0530",
    "score": 0.6
   }
  ],
