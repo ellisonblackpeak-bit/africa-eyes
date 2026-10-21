@@ -1,0 +1,116 @@
+{
+ "query": "Ghana China Chinese company investment mining embassy",
+ "_tag": "soc_cn_gh",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AdetiEdward/status/2111853669863792877",
+     "title": "Ghana’s EPA Drops Bombshell: Chinese-Owned Earl International Has Been Operating Unlawfully Since 2023 — Mine Shut Down https://mwbonline.or",
+     "description": "Ghana’s EPA Drops Bombshell: Chinese-Owned Earl International Has Been Operating Unlawfully Since 2023 — Mine Shut Down https://mwbonline.org/ghanas-epa-drops-bombshell-chinese-owned-earl-international-has-been-operating-unlawfully-since-2023-mine-shut-down/ via @Media Without Borders",
+     "snippet": "Ghana’s EPA Drops Bombshell: Chinese-Owned Earl International Has Been Operating Unlawfully Since 2023 — Mine Shut Down https://mwbonline.org/ghanas-epa-drops-bombshell-chinese-owned-earl-international-has-been-operating-unlawfully-since-2023-mine-shut-down/ via @Media Without Borders",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Edward Adeti",
+     "handle": "@AdetiEdward"
+    },
+    {
+     "url": "https://x.com/GhanaRevenue/status/2112129802383856001",
+     "title": "The Commissioner of Customs Pays Courtesy Visit to the Chinese Ambassador to Ghana at the Chinese Embassy in Accra #GRA #GhanaFIRST",
+     "description": "The Commissioner of Customs Pays Courtesy Visit to the Chinese Ambassador to Ghana at the Chinese Embassy in Accra\n\n#GRA #GhanaFIRST",
+     "snippet": "The Commissioner of Customs Pays Courtesy Visit to the Chinese Ambassador to Ghana at the Chinese Embassy in Accra\n\n#GRA #GhanaFIRST",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GRA",
+     "handle": "@GhanaRevenue"
+    },
+    {
+     "url": "https://x.com/Citi973/status/2111949451430695377",
+     "title": "Vice-President Prof. Naana Jane Opoku-Agyemang has called on Chinese investors to establish industries in Ghana to create jobs for the count",
+     "description": "Vice-President Prof. Naana Jane Opoku-Agyemang has called on Chinese investors to establish industries in Ghana to create jobs for the country’s growing youthful population.\n\nShe identified shea and cocoa processing as key investment opportunities, warning that training young people without industries to absorb their skills could worsen unemployment.\n\nShe also urged Ghana and China to deepen knowledge-sharing to support industrial growth.\n\n#ChannelOneNews #GhanaNews #Investment #JobCreation",
+     "snippet": "Vice-President Prof. Naana Jane Opoku-Agyemang has called on Chinese investors to establish industries in Ghana to create jobs for the country’s growing youthful population.\n\nShe identified shea and cocoa processing as key investment opportunities, warning that training young people without industries to absorb their skills could worsen unemployment.\n\nShe also urged Ghana and China to deepen knowledge-sharing to support industrial growth.\n\n#ChannelOneNews #GhanaNews #Investment #JobCreation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CITI FM 97.3",
+     "handle": "@Citi973"
+    },
+    {
+     "url": "https://x.com/GTV_Ghana/status/2111831418812711350",
+     "title": "Vice President Prof. Naana Jane Opoku-Agyemang has urged Chinese investors to support Ghana’s industrialisation drive by investing in local",
+     "description": "Vice President Prof. Naana Jane Opoku-Agyemang has urged Chinese investors to support Ghana’s industrialisation drive by investing in local processing of the country’s raw materials.\n\nShe made the statement at a meeting with Chinese business executives in Shanghai, China, highlighting opportunities in cocoa, shea, cashew, coconut and timber processing to create jobs and boost economic growth.\n@NJOAgyemang \n#gbcnews",
+     "snippet": "Vice President Prof. Naana Jane Opoku-Agyemang has urged Chinese investors to support Ghana’s industrialisation drive by investing in local processing of the country’s raw materials.\n\nShe made the statement at a meeting with Chinese business executives in Shanghai, China, highlighting opportunities in cocoa, shea, cashew, coconut and timber processing to create jobs and boost economic growth.\n@NJOAgyemang \n#gbcnews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GTV Ghana",
+     "handle": "@GTV_Ghana"
+    },
+    {
+     "url": "https://x.com/Joy997FM/status/2112141356147806618",
+     "title": "Ghana, China relations: Veep seeks incentives for Ghanaian traders doing business with China, urging greater local participation in trade an",
+     "description": "Ghana, China relations: Veep seeks incentives for Ghanaian traders doing business with China, urging greater local participation in trade and investment.  \n\nMore on https://www.myjoyonline.com/ \n\n#JoyNews #JoyFM #GhanaNews #JoyPrime #MyJoyOnline",
+     "snippet": "Ghana, China relations: Veep seeks incentives for Ghanaian traders doing business with China, urging greater local participation in trade and investment.  \n\nMore on https://www.myjoyonline.com/ \n\n#JoyNews #JoyFM #GhanaNews #JoyPrime #MyJoyOnline",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Joy 99.7 FM",
+     "handle": "@Joy997FM"
+    },
+    {
+     "url": "https://x.com/tv3_ghana/status/2112085885336633775",
+     "title": "Veep urges Chinese investors to invest in local processing of Ghana’s raw materials 3news.​com/news/veep-urges-chinese-investors-to-invest-i",
+     "description": "Veep urges Chinese investors to invest in local processing of Ghana’s raw materials 3news.​com/news/veep-urges-chinese-investors-to-invest-in-local-processing-of-ghanas-raw-materials #Ghana #Investment #ChineseInvestors",
+     "snippet": "Veep urges Chinese investors to invest in local processing of Ghana’s raw materials 3news.​com/news/veep-urges-chinese-investors-to-invest-in-local-processing-of-ghanas-raw-materials #Ghana #Investment #ChineseInvestors",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#TV3GH",
+     "handle": "@tv3_ghana"
+    },
+    {
+     "url": "https://x.com/JerryXhandle/status/2112241167584960725",
+     "title": "🇬🇭🌍GHANA IS OPEN FOR INVESTMENT THAT BUILDS INDUSTRY, EMPOWERS PEOPLE AND TRANSFORMS THE FUTURE “Ghana welcomes investors ready to build the",
+     "description": "🇬🇭🌍GHANA IS OPEN FOR INVESTMENT THAT BUILDS INDUSTRY, EMPOWERS PEOPLE AND TRANSFORMS THE FUTURE\n\n“Ghana welcomes investors ready to build the future with us. Successful partnerships must strengthen enterprise, transfer knowledge, and create opportunities beyond just extraction.”\n\n— President John Dramani Mahama, speaking at the African Minerals Policy Forum – Mining in Motion (AMPF–MiM) 2026 in Accra.\n\nGhana’s vision for the mining sector goes beyond extracting natural resources. It is about forging strategic partnerships that drive local value addition, strengthen domestic industries, transfer technology and expertise, create meaningful jobs, and expand opportunities for businesses and communities.\n\nTHE FUTURE OF MINING MUST BE BUILT ON PARTNERSHIPS THAT DELIVER LASTING VALUE FOR GHANA AND ITS PEOPLE.",
+     "snippet": "🇬🇭🌍GHANA IS OPEN FOR INVESTMENT THAT BUILDS INDUSTRY, EMPOWERS PEOPLE AND TRANSFORMS THE FUTURE\n\n“Ghana welcomes investors ready to build the future with us. Successful partnerships must strengthen enterprise, transfer knowledge, and create opportunities beyond just extraction.”\n\n— President John Dramani Mahama, speaking at the African Minerals Policy Forum – Mining in Motion (AMPF–MiM) 2026 in Accra.\n\nGhana’s vision for the mining sector goes beyond extracting natural resources. It is about forging strategic partnerships that drive local value addition, strengthen domestic industries, transfer technology and expertise, create meaningful jobs, and expand opportunities for businesses and communities.\n\nTHE FUTURE OF MINING MUST BE BUILT ON PARTNERSHIPS THAT DELIVER LASTING VALUE FOR GHANA AND ITS PEOPLE.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "JerryXHub💫",
+     "handle": "@JerryXhandle"
+    },
+    {
+     "url": "https://x.com/nabsparky/status/2112650649670148380",
+     "title": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles.",
+     "description": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles. Every land they touch, it can't be used for farming again. Hmmm Ghana",
+     "snippet": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles. Every land they touch, it can't be used for farming again. Hmmm Ghana",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NanaBanyin Tsiwa",
+     "handle": "@nabsparky"
+    },
+    {
+     "url": "https://x.com/ghonetv/status/2112473027149459925",
+     "title": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies...",
+     "description": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #GHOneTV \n#GHOneNews #NewsAlert",
+     "snippet": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #GHOneTV \n#GHOneNews #NewsAlert",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GHOne TV",
+     "handle": "@ghonetv"
+    },
+    {
+     "url": "https://x.com/LolaLolababe82/status/2112486889638805718",
+     "title": "lol that’s why we need to stay focused on the real culprit here.",
+     "description": "lol that’s why we need to stay focused on the real culprit here. The Chinese. They are the ones illegally mining in Ghana, the same way they are illegally mining everywhere across Africa",
+     "snippet": "lol that’s why we need to stay focused on the real culprit here. The Chinese. They are the ones illegally mining in Ghana, the same way they are illegally mining everywhere across Africa",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Lola",
+     "handle": "@LolaLolababe82"
+    }
+   ]
+  }
+ ]
+}

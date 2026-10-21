@@ -1,0 +1,116 @@
+{
+ "query": "China Vietnam Chinese company railway South China Sea",
+ "_tag": "soc_cn_vn",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/nguyens32401884/status/2111738821352271994",
+     "title": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be comp",
+     "description": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "snippet": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Digital Assets Holder",
+     "handle": "@nguyens32401884"
+    },
+    {
+     "url": "https://x.com/nguyen_alex2517/status/2111747526143668488",
+     "title": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ h",
+     "description": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "snippet": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alex Nguyen",
+     "handle": "@nguyen_alex2517"
+    },
+    {
+     "url": "https://x.com/WEILANRAIL/status/2112362051033239970",
+     "title": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this ye",
+     "description": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this year, it had dispatched more than 110,000 TEUs of cargo in total.",
+     "snippet": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this year, it had dispatched more than 110,000 TEUs of cargo in total.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WEILAN RAIL",
+     "handle": "@WEILANRAIL"
+    },
+    {
+     "url": "https://x.com/jacknamok/status/2112122988816695757",
+     "title": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện",
+     "description": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện tại em quan sát  được là một đội Trung Quốc rất đông đang đổ bộ Hải Phòng",
+     "snippet": "Hiện tại các chuyên gia nước ngoài và trong nước đều thấy rõ là Việt Nam là nơi các công ty Trung Quốc chạy sang mở xưởng để né thuế Mỹ,hiện tại em quan sát  được là một đội Trung Quốc rất đông đang đổ bộ Hải Phòng",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CSM Nam",
+     "handle": "@jacknamok"
+    },
+    {
+     "url": "https://x.com/Maytechummia/status/2112097076787953773",
+     "title": "China is that expansionist.",
+     "description": "China is that expansionist. Just think of the 9 dash line grabbing approximately 90% of the SCS. The line loops hundreds of miles away from mainland China, cutting directly into the internationally recognised EEZs of Vietnam, the Philippines, Malaysia, Brunei, and Indonesia.",
+     "snippet": "China is that expansionist. Just think of the 9 dash line grabbing approximately 90% of the SCS. The line loops hundreds of miles away from mainland China, cutting directly into the internationally recognised EEZs of Vietnam, the Philippines, Malaysia, Brunei, and Indonesia.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mayte Chummia",
+     "handle": "@Maytechummia"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2112091628596854991",
+     "title": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime ac",
+     "description": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China are colliding with Hanoi’s efforts to protect its strategic interests in the Gulf of Thailand.",
+     "snippet": "Vietnam’s push to develop Hon Khoai Island exposes the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China are colliding with Hanoi’s efforts to protect its strategic interests in the Gulf of Thailand.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/MarcusBench/status/2112466983287754848",
+     "title": "Vietnam has had more lethal confrontations with China in the South China Sea.",
+     "description": "Vietnam has had more lethal confrontations with China in the South China Sea.\n\nThe difference between Vietnam and PH?? \n\nThe Vietnamese hold no punches in condemning China. \n\nIn the PH- China relies on the DDS puppets to defend them. MAKAPILI. \n\nNakakalungkot di ba??? 🥺🙄",
+     "snippet": "Vietnam has had more lethal confrontations with China in the South China Sea.\n\nThe difference between Vietnam and PH?? \n\nThe Vietnamese hold no punches in condemning China. \n\nIn the PH- China relies on the DDS puppets to defend them. MAKAPILI. \n\nNakakalungkot di ba??? 🥺🙄",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MARCUS PRO-PH 🇵🇭",
+     "handle": "@MarcusBench"
+    },
+    {
+     "url": "https://x.com/Ignis_Rex/status/2112188822025019481",
+     "title": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.",
+     "description": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.\n\nVietnam and the Philippines cannot buy the dredging components above a certain specs for building islands in South China Sea.",
+     "snippet": "So countries like India cannot buy the TBMs as it is building tunnels to move troops in the disputed border with China.\n\nVietnam and the Philippines cannot buy the dredging components above a certain specs for building islands in South China Sea.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ignis Rex",
+     "handle": "@Ignis_Rex"
+    },
+    {
+     "url": "https://x.com/business/status/2112466376472346667",
+     "title": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway conta",
+     "description": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway container terminal network in northern Vietnam https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project?taid=6ad72b3e1cd37f0001363cca&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "snippet": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway container terminal network in northern Vietnam https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project?taid=6ad72b3e1cd37f0001363cca&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bloomberg",
+     "handle": "@business"
+    },
+    {
+     "url": "https://x.com/SiteSpecs/status/2112557549081989556",
+     "title": "The existing line into Haiphong is still meter gauge.",
+     "description": "The existing line into Haiphong is still meter gauge. Vietnam Railways runs it at 1,000 mm, and standard intermodal track is 1,435 mm. Tie the yards to the old line and every box gets lifted onto a different car.",
+     "snippet": "The existing line into Haiphong is still meter gauge. Vietnam Railways runs it at 1,000 mm, and standard intermodal track is 1,435 mm. Tie the yards to the old line and every box gets lifted onto a different car.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Site Specs",
+     "handle": "@SiteSpecs"
+    }
+   ]
+  }
+ ]
+}

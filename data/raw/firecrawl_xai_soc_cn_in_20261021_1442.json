@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/globaltimesnews/status/2112086460874793052",
+     "title": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet sho",
+     "description": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "snippet": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Times",
+     "handle": "@globaltimesnews"
+    },
+    {
+     "url": "https://x.com/TheMinuend/status/2112206615260893315",
+     "title": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.",
+     "description": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "snippet": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roy",
+     "handle": "@TheMinuend"
+    },
+    {
+     "url": "https://x.com/CaVivekkhatri/status/2112555689889628271",
+     "title": "🚨 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: China didn't block a single Indian project.",
+     "description": "🚨 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚:\n\nChina didn't block a single Indian project.\n\nIt just put a 𝗟𝗜𝗖𝗘𝗡𝗖𝗘 on the machines that dig India's tunnels.\n\nAnd in doing so, it may have quietly put a timer on 𝗜𝗻𝗱𝗶𝗮'𝘀 𝗺𝗲𝘁𝗿𝗼𝘀, 𝗯𝘂𝗹𝗹𝗲𝘁 𝘁𝗿𝗮𝗶𝗻 𝗮𝗻𝗱 𝗛𝗶𝗺𝗮𝗹𝗮𝘆𝗮𝗻 𝘁𝘂𝗻𝗻𝗲𝗹𝘀.\n\nHere's the move most people completely missed: 🧵\n\n(Read this slowly. Share it widely.)",
+     "snippet": "🚨 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚:\n\nChina didn't block a single Indian project.\n\nIt just put a 𝗟𝗜𝗖𝗘𝗡𝗖𝗘 on the machines that dig India's tunnels.\n\nAnd in doing so, it may have quietly put a timer on 𝗜𝗻𝗱𝗶𝗮'𝘀 𝗺𝗲𝘁𝗿𝗼𝘀, 𝗯𝘂𝗹𝗹𝗲𝘁 𝘁𝗿𝗮𝗶𝗻 𝗮𝗻𝗱 𝗛𝗶𝗺𝗮𝗹𝗮𝘆𝗮𝗻 𝘁𝘂𝗻𝗻𝗲𝗹𝘀.\n\nHere's the move most people completely missed: 🧵\n\n(Read this slowly. Share it widely.)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CA Vivek Khatri",
+     "handle": "@CaVivekkhatri"
+    },
+    {
+     "url": "https://x.com/CaVivekkhatri/status/2112555702195786237",
+     "title": "𝟰. 🗺️ 𝗧𝗵𝗲 𝗟𝗶𝗻𝗲 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿𝘀: \"𝗗𝗶𝘀𝗽𝘂𝘁𝗲𝗱\" 𝗥𝗲𝗴𝗶𝗼𝗻𝘀 Per Chinese state media's summary of the rules: 📉 Exports to \"sensitive countries and region",
+     "description": "𝟰. 🗺️ 𝗧𝗵𝗲 𝗟𝗶𝗻𝗲 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿𝘀: \"𝗗𝗶𝘀𝗽𝘂𝘁𝗲𝗱\" 𝗥𝗲𝗴𝗶𝗼𝗻𝘀\n\nPer Chinese state media's summary of the rules:\n\n📉 Exports to \"sensitive countries and regions with which China has disputes\" need a licence\n📉 Buyers elsewhere cannot pass China-origin items to those regions without a licence\n✅ Others: registration and reporting\n\nChina and India have an unresolved border dispute.\n\nThe rule never names India. It doesn't need to.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: How MOFCOM classifies India in licence decisions\n\n4/16",
+     "snippet": "𝟰. 🗺️ 𝗧𝗵𝗲 𝗟𝗶𝗻𝗲 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿𝘀: \"𝗗𝗶𝘀𝗽𝘂𝘁𝗲𝗱\" 𝗥𝗲𝗴𝗶𝗼𝗻𝘀\n\nPer Chinese state media's summary of the rules:\n\n📉 Exports to \"sensitive countries and regions with which China has disputes\" need a licence\n📉 Buyers elsewhere cannot pass China-origin items to those regions without a licence\n✅ Others: registration and reporting\n\nChina and India have an unresolved border dispute.\n\nThe rule never names India. It doesn't need to.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: How MOFCOM classifies India in licence decisions\n\n4/16",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CA Vivek Khatri",
+     "handle": "@CaVivekkhatri"
+    },
+    {
+     "url": "https://x.com/CaVivekkhatri/status/2112555719010681320",
+     "title": "𝟴. 🏔️ 𝗥𝗲𝗮𝗱 𝗧𝗵𝗲 𝗦𝗽𝗲𝗰 𝗦𝗵𝗲𝗲𝘁 𝗟𝗶𝗸𝗲 𝗔 𝗠𝗮𝗽 📉 Shotcrete machines built for 3,000 m+ altitude 📉 Excavators that climb walls and wade rivers 📉 TBMs a",
+     "description": "𝟴. 🏔️ 𝗥𝗲𝗮𝗱 𝗧𝗵𝗲 𝗦𝗽𝗲𝗰 𝗦𝗵𝗲𝗲𝘁 𝗟𝗶𝗸𝗲 𝗔 𝗠𝗮𝗽\n\n📉 Shotcrete machines built for 3,000 m+ altitude\n📉 Excavators that climb walls and wade rivers\n📉 TBMs and their main drives\n📉 Long-range, long-endurance drones\n\nWhere does India need high-altitude tunnelling gear?\n\nIn the Himalayas: border roads, rail links and hydro tunnels.\n\nChina calls it non-proliferation. Indian infra planners will read it as leverage.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: Border-road and hydro tunnel contracts\n\n8/16",
+     "snippet": "𝟴. 🏔️ 𝗥𝗲𝗮𝗱 𝗧𝗵𝗲 𝗦𝗽𝗲𝗰 𝗦𝗵𝗲𝗲𝘁 𝗟𝗶𝗸𝗲 𝗔 𝗠𝗮𝗽\n\n📉 Shotcrete machines built for 3,000 m+ altitude\n📉 Excavators that climb walls and wade rivers\n📉 TBMs and their main drives\n📉 Long-range, long-endurance drones\n\nWhere does India need high-altitude tunnelling gear?\n\nIn the Himalayas: border roads, rail links and hydro tunnels.\n\nChina calls it non-proliferation. Indian infra planners will read it as leverage.\n\n🔎 𝙒𝙖𝙩𝙘𝙝: Border-road and hydro tunnel contracts\n\n8/16",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CA Vivek Khatri",
+     "handle": "@CaVivekkhatri"
+    },
+    {
+     "url": "https://x.com/TibetanReview/status/2112607729084989577",
+     "title": "After halting exports of #India-bound tunnel boring machines from a #German company's #China plants, Beijing has imposed fresh export contro",
+     "description": "After halting exports of #India-bound tunnel boring machines from a #German company's #China plants, Beijing has imposed fresh export controls on the equipment critical to India's metro, highway, and infrastructure projects.\nhttps://www.tibetanreview.net/china-cites-security-reasons-to-restrict-export-of-key-machinery-used-in-indias-infrastructure-development/",
+     "snippet": "After halting exports of #India-bound tunnel boring machines from a #German company's #China plants, Beijing has imposed fresh export controls on the equipment critical to India's metro, highway, and infrastructure projects.\nhttps://www.tibetanreview.net/china-cites-security-reasons-to-restrict-export-of-key-machinery-used-in-indias-infrastructure-development/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TibetanReview",
+     "handle": "@TibetanReview"
+    },
+    {
+     "url": "https://x.com/TibetanReview/status/2112608782014681374",
+     "title": "In Sep 2025, Germany’s Ambassador to India, Philipp Ackermann, revealed that China had blocked at least three tunnel boring machines manufac",
+     "description": "In Sep 2025, Germany’s Ambassador to India, Philipp Ackermann, revealed that China had blocked at least three tunnel boring machines manufactured by German company Herrenknecht and destined for Indian infrastructure projects.",
+     "snippet": "In Sep 2025, Germany’s Ambassador to India, Philipp Ackermann, revealed that China had blocked at least three tunnel boring machines manufactured by German company Herrenknecht and destined for Indian infrastructure projects.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TibetanReview",
+     "handle": "@TibetanReview"
+    },
+    {
+     "url": "https://x.com/NewIndia2047/status/2112179181098607096",
+     "title": "Thanks, China.🇨🇳 Keep doing.",
+     "description": "Thanks, China.🇨🇳\nKeep doing.\nHerrenknecht TBM manufacturing in China.\nThe Chinese government is blocking and delaying critical shipments of Herrenknecht's machines destined for India. \nIn May 2026, India officially launched an India-made Tunnel Boring Machine (TBM) named 'Arjuna'",
+     "snippet": "Thanks, China.🇨🇳\nKeep doing.\nHerrenknecht TBM manufacturing in China.\nThe Chinese government is blocking and delaying critical shipments of Herrenknecht's machines destined for India. \nIn May 2026, India officially launched an India-made Tunnel Boring Machine (TBM) named 'Arjuna'",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Indian Updates",
+     "handle": "@NewIndia2047"
+    },
+    {
+     "url": "https://x.com/NDTVWorld/status/2111710820615049443",
+     "title": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "description": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "snippet": "#IndiaAscends with @GaurieD | Modi erases China’s LAC claims: Inside the mega 298km corridor smashing Beijing’s border illusions",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NDTV World",
+     "handle": "@NDTVWorld"
+    },
+    {
+     "url": "https://x.com/ITGGlobal/status/2111881179200884737",
+     "title": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the",
+     "description": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the 2020 India-China border standoff.\n\nChina called the move “illegal and invalid”, while India reiterated that Ladakh is an integral and inalienable part of the country.\n\nWatch Dragon Diaries only on India Today Global: https://t.co/K2qvaRHpvI\n\n#IndiaChina #Ladakh #IndiaChinaBorder #DragonDiaries #IndiaTodayGlobal",
+     "snippet": "India has mapped 28 locations in Ladakh on the official Survey of India map, including Gogra and Hot Spring, key friction points during the 2020 India-China border standoff.\n\nChina called the move “illegal and invalid”, while India reiterated that Ladakh is an integral and inalienable part of the country.\n\nWatch Dragon Diaries only on India Today Global: https://t.co/K2qvaRHpvI\n\n#IndiaChina #Ladakh #IndiaChinaBorder #DragonDiaries #IndiaTodayGlobal",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "India Today Global",
+     "handle": "@ITGGlobal"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Ehis_Peacemaker/status/2112408037050769830",
+     "title": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground?",
+     "description": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "snippet": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ehis Agbon",
+     "handle": "@Ehis_Peacemaker"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112539508692402204",
+     "title": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.",
+     "description": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.\n\nThankfully, no one was killed, injured or abducted, and no livestock was looted or rustled before the bandits fled.\n\nKudos to the vigilantes for standing up to the attackers and protecting their community. Their bravery and quick response deserve to be commended",
+     "snippet": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.\n\nThankfully, no one was killed, injured or abducted, and no livestock was looted or rustled before the bandits fled.\n\nKudos to the vigilantes for standing up to the attackers and protecting their community. Their bravery and quick response deserve to be commended",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112589807951974566",
+     "title": "BREAKING: Bandits have currently blocked the road from Kuturu to Anka in Zamfara State.",
+     "description": "BREAKING: Bandits have currently blocked the road from Kuturu to Anka in Zamfara State.\n\nSecurity agencies need to act urgently to ensure the safety of motorists and other road users.\n\nMay the Almighty bring an end to this insecurity and restore peace to Zamfara State. Ameen",
+     "snippet": "BREAKING: Bandits have currently blocked the road from Kuturu to Anka in Zamfara State.\n\nSecurity agencies need to act urgently to ensure the safety of motorists and other road users.\n\nMay the Almighty bring an end to this insecurity and restore peace to Zamfara State. Ameen",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112429255141265749",
+     "title": "BREAKING: Last night, bandits attacked Ruwan Doruwa community in Maru LGA of Zamfara State, killing one person and abducting two residents,",
+     "description": "BREAKING: Last night, bandits attacked Ruwan Doruwa community in Maru LGA of Zamfara State, killing one person and abducting two residents, Abbas and Buhari.\n\nHow many more lives must be lost, and how many more people abducted, before lasting security reaches these vulnerable communities?\n\nNB: Below are the abductees photo",
+     "snippet": "BREAKING: Last night, bandits attacked Ruwan Doruwa community in Maru LGA of Zamfara State, killing one person and abducting two residents, Abbas and Buhari.\n\nHow many more lives must be lost, and how many more people abducted, before lasting security reaches these vulnerable communities?\n\nNB: Below are the abductees photo",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/MobilePunch/status/2112385316891795911",
+     "title": "𝗕𝗮𝗻𝗱𝗶𝘁𝘀 𝗮𝘁𝘁𝗮𝗰𝗸: 𝗭𝗮𝗺𝗳𝗮𝗿𝗮 𝗿𝗲𝘀𝗶𝗱𝗲𝗻𝘁𝘀 𝗳𝗹𝗲𝗲, 𝗖𝗣 𝗹𝗮𝗺𝗲𝗻𝘁𝘀 𝗱𝘂𝘁𝘆 𝗼𝗳𝗳𝗶𝗰𝗲𝗿𝘀 𝗮𝘀𝗹𝗲𝗲𝗽 𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/bandits-attack-zamfara-residents-flee",
+     "description": "𝗕𝗮𝗻𝗱𝗶𝘁𝘀 𝗮𝘁𝘁𝗮𝗰𝗸: 𝗭𝗮𝗺𝗳𝗮𝗿𝗮 𝗿𝗲𝘀𝗶𝗱𝗲𝗻𝘁𝘀 𝗳𝗹𝗲𝗲, 𝗖𝗣 𝗹𝗮𝗺𝗲𝗻𝘁𝘀 𝗱𝘂𝘁𝘆 𝗼𝗳𝗳𝗶𝗰𝗲𝗿𝘀 𝗮𝘀𝗹𝗲𝗲𝗽\n\n𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/bandits-attack-zamfara-residents-flee-cp-laments-duty-officers-asleep/",
+     "snippet": "𝗕𝗮𝗻𝗱𝗶𝘁𝘀 𝗮𝘁𝘁𝗮𝗰𝗸: 𝗭𝗮𝗺𝗳𝗮𝗿𝗮 𝗿𝗲𝘀𝗶𝗱𝗲𝗻𝘁𝘀 𝗳𝗹𝗲𝗲, 𝗖𝗣 𝗹𝗮𝗺𝗲𝗻𝘁𝘀 𝗱𝘂𝘁𝘆 𝗼𝗳𝗳𝗶𝗰𝗲𝗿𝘀 𝗮𝘀𝗹𝗲𝗲𝗽\n\n𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/bandits-attack-zamfara-residents-flee-cp-laments-duty-officers-asleep/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Punch Newspapers",
+     "handle": "@MobilePunch"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112314103784259771",
+     "title": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State.",
+     "description": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "snippet": "ALERT: Bandits are currently in Tsuna community in Gusau LGA of Zamfara State. They invaded the community and also blocked the community way to Fegin Mahe community were security operatives stationed. Security assistance is highly needed.\n\nPlease, retweet massively to pass the message to the authorities, may our effort save lives.\n\n@ubasanius @DHQNigeria @PoliceNG @HQNigerianArmy @___Bils @CaptJamyl @Firdaussyyyy @AM_Saleeeem",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112248213050663047",
+     "title": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.",
+     "description": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "snippet": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/abdulbaqee2/status/2111882051339088123",
+     "title": "Road attacks. Bandits attack commuters along Kaura-Birnin Magaji road, Manyaci-Anka road and Adabka-Duhuwa road, Zamfara State. Two bandits",
+     "description": "Road attacks.\n\nBandits attack commuters along Kaura-Birnin Magaji road, Manyaci-Anka road and Adabka-Duhuwa road, Zamfara State. Two bandits were killed during the Kaura-Birnin Magaji attack. Three people were abducted along the Anka-Manyaci road.",
+     "snippet": "Road attacks.\n\nBandits attack commuters along Kaura-Birnin Magaji road, Manyaci-Anka road and Adabka-Duhuwa road, Zamfara State. Two bandits were killed during the Kaura-Birnin Magaji attack. Three people were abducted along the Anka-Manyaci road.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdulbaqee",
+     "handle": "@abdulbaqee2"
+    },
+    {
+     "url": "https://x.com/NgrImpact/status/2111853693049950671",
+     "title": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives Bandits on Saturday evening",
+     "description": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "snippet": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Impact_Ngr",
+     "handle": "@NgrImpact"
+    },
+    {
+     "url": "https://x.com/westernpost_ng/status/2111797460196610489",
+     "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-",
+     "description": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Western Post Nigeria",
+     "handle": "@westernpost_ng"
+    }
+   ]
+  }
+ ]
+}

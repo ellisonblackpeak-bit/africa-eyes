@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Gerashchenko_en/status/2112502993010438260",
+     "title": "Norwegian authorities reportedly detained two Chinese cargo ships on October 14.",
+     "description": "Norwegian authorities reportedly detained two Chinese cargo ships on October 14. One of them, Ya Qing Hai Yang, is under sanctions for its links to Arctic LNG 2, a Russian natural gas project on the Gydan Peninsula.\n\nAccording to Starboard Maritime Intelligence, the vessel was spotted near the Norwegian border in early October. Flying the Guatemalan flag, it had sailed from Hong Kong via the Northern Sea Route, making several stops in the Far East.\n\nIn 2024, Ya Qing Hai Yang transported power generation modules from China to Russia's Utrenny port, which serves the Arctic LNG 2 project. The shipment led to the vessel being sanctioned by the U.S., EU, and Switzerland.\n\nThe second vessel, Jian Yang Cheng He, is not under sanctions, and no links to Russian projects have been reported.\n\nAccording to the Norwegian Coast Guard, the vessels had sought shelter from a storm near Andøya Island in northern Norway. Coast Guard personnel conducted an inspection.\n\nBoth vessels reportedly remain off the Norwegian coast.",
+     "snippet": "Norwegian authorities reportedly detained two Chinese cargo ships on October 14. One of them, Ya Qing Hai Yang, is under sanctions for its links to Arctic LNG 2, a Russian natural gas project on the Gydan Peninsula.\n\nAccording to Starboard Maritime Intelligence, the vessel was spotted near the Norwegian border in early October. Flying the Guatemalan flag, it had sailed from Hong Kong via the Northern Sea Route, making several stops in the Far East.\n\nIn 2024, Ya Qing Hai Yang transported power generation modules from China to Russia's Utrenny port, which serves the Arctic LNG 2 project. The shipment led to the vessel being sanctioned by the U.S., EU, and Switzerland.\n\nThe second vessel, Jian Yang Cheng He, is not under sanctions, and no links to Russian projects have been reported.\n\nAccording to the Norwegian Coast Guard, the vessels had sought shelter from a storm near Andøya Island in northern Norway. Coast Guard personnel conducted an inspection.\n\nBoth vessels reportedly remain off the Norwegian coast.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Anton Gerashchenko",
+     "handle": "@Gerashchenko_en"
+    },
+    {
+     "url": "https://x.com/thetect0nic/status/2112533174169288989",
+     "title": "🇳🇴 🇷🇺 As Washington explores sanctions relief for shadow-fleet oil tankers, Norway has inspected two Chinese heavy-lift cargo vessels, inclu",
+     "description": "🇳🇴 🇷🇺 As Washington explores sanctions relief for shadow-fleet oil tankers, Norway has inspected two Chinese heavy-lift cargo vessels, including one sanctioned for supporting Russia's Arctic LNG 2 project.\n\nThe Norwegian Coast Guard boarded the vessels near Andøya in northern Norway after they sought shelter from severe weather. One of them, Ya Qing Hai Yang, formerly Ocean 28, is under sanctions for transporting power-generation modules to Arctic LNG 2, Russia's flagship Arctic gas project targeted by Western restrictions.\n\nThe second vessel, Jian Yang Cheng He, is not sanctioned and has no publicly established connection to Russian energy projects. Norwegian authorities have not announced violations arising from either inspection.\n\nThe boarding took place around October 14, but the incident has drawn renewed attention as Washington outlines a different approach to vessels previously excluded from international trade.\n\nAccording to Bloomberg, US Energy Secretary Chris Wright says the Trump administration is working on a mechanism that would allow investors to acquire sanctioned shadow-fleet tankers, refurbish them and return them to legitimate commercial service transporting non-sanctioned oil. Wright argues that rehabilitating these vessels could increase global shipping capacity and help stabilize energy markets. The administration says the process would not authorize continued transportation of sanctioned Russian or Iranian cargo.\n\nThe two developments concern different categories of ships. Norway inspected heavy-lift cargo vessels, one linked to sanctioned Russian energy infrastructure, while Washington's proposal concerns oil tankers that could be removed from sanctions under specified conditions.\n\nNevertheless, they illustrate an important question facing Western sanctions policy: how to prevent restricted vessels and their owners from continuing to support Russia's energy sector while permitting some previously sanctioned maritime assets to return to legitimate trade.\n\nWho owns the vessels, who receives the proceeds from their sale, and whether sanctioned Russian interests retain any economic benefit will determine how meaningful the safeguards are.\n\nFor Moscow, maritime logistics remain essential to maintaining energy exports and financing the war in Ukraine. For Western governments, the challenge is enforcing restrictions without creating new opportunities for sanctions evasion.",
+     "snippet": "🇳🇴 🇷🇺 As Washington explores sanctions relief for shadow-fleet oil tankers, Norway has inspected two Chinese heavy-lift cargo vessels, including one sanctioned for supporting Russia's Arctic LNG 2 project.\n\nThe Norwegian Coast Guard boarded the vessels near Andøya in northern Norway after they sought shelter from severe weather. One of them, Ya Qing Hai Yang, formerly Ocean 28, is under sanctions for transporting power-generation modules to Arctic LNG 2, Russia's flagship Arctic gas project targeted by Western restrictions.\n\nThe second vessel, Jian Yang Cheng He, is not sanctioned and has no publicly established connection to Russian energy projects. Norwegian authorities have not announced violations arising from either inspection.\n\nThe boarding took place around October 14, but the incident has drawn renewed attention as Washington outlines a different approach to vessels previously excluded from international trade.\n\nAccording to Bloomberg, US Energy Secretary Chris Wright says the Trump administration is working on a mechanism that would allow investors to acquire sanctioned shadow-fleet tankers, refurbish them and return them to legitimate commercial service transporting non-sanctioned oil. Wright argues that rehabilitating these vessels could increase global shipping capacity and help stabilize energy markets. The administration says the process would not authorize continued transportation of sanctioned Russian or Iranian cargo.\n\nThe two developments concern different categories of ships. Norway inspected heavy-lift cargo vessels, one linked to sanctioned Russian energy infrastructure, while Washington's proposal concerns oil tankers that could be removed from sanctions under specified conditions.\n\nNevertheless, they illustrate an important question facing Western sanctions policy: how to prevent restricted vessels and their owners from continuing to support Russia's energy sector while permitting some previously sanctioned maritime assets to return to legitimate trade.\n\nWho owns the vessels, who receives the proceeds from their sale, and whether sanctioned Russian interests retain any economic benefit will determine how meaningful the safeguards are.\n\nFor Moscow, maritime logistics remain essential to maintaining energy exports and financing the war in Ukraine. For Western governments, the challenge is enforcing restrictions without creating new opportunities for sanctions evasion.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Tectonic",
+     "handle": "@thetect0nic"
+    },
+    {
+     "url": "https://x.com/InsiderEng/status/2112467875210399746",
+     "title": "Norway detains “Guatemalan” cargo ship with Chinese name linked to Russia’s Arctic LNG 2 project The sanctioned Ya Qing Hai Yang, which carr",
+     "description": "Norway detains “Guatemalan” cargo ship with Chinese name linked to Russia’s Arctic LNG 2 project\n\nThe sanctioned Ya Qing Hai Yang, which carried Chinese power-generation modules for Arctic LNG 2, was stopped last week and remains off the Norwegian coast.\n\nhttps://theins.press/en/news/298490",
+     "snippet": "Norway detains “Guatemalan” cargo ship with Chinese name linked to Russia’s Arctic LNG 2 project\n\nThe sanctioned Ya Qing Hai Yang, which carried Chinese power-generation modules for Arctic LNG 2, was stopped last week and remains off the Norwegian coast.\n\nhttps://theins.press/en/news/298490",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Insider",
+     "handle": "@InsiderEng"
+    },
+    {
+     "url": "https://x.com/financialjuice/status/2112554210470379551",
+     "title": "Gazprom sees China gas supplies above original 2026 plan.",
+     "description": "Gazprom sees China gas supplies above original 2026 plan.",
+     "snippet": "Gazprom sees China gas supplies above original 2026 plan.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FinancialJuice",
+     "handle": "@financialjuice"
+    },
+    {
+     "url": "https://x.com/shehzadyounis/status/2112572299190919584",
+     "title": "Gazprom’s average gas price for China this year will be $247.90 per 1,000 cubic meters, compared with $562 paid by its other customers outsi",
+     "description": "Gazprom’s average gas price for China this year will be $247.90 per 1,000 cubic meters, compared with $562 paid by its other customers outside the former Soviet Union.",
+     "snippet": "Gazprom’s average gas price for China this year will be $247.90 per 1,000 cubic meters, compared with $562 paid by its other customers outside the former Soviet Union.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Shehzad Younis شہزاد یونس",
+     "handle": "@shehzadyounis"
+    },
+    {
+     "url": "https://x.com/jackprandelli/status/2111832757043102199",
+     "title": "China has bought about €290bn of Russian fossil fuels since the EU bans.",
+     "description": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "snippet": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jack Prandelli",
+     "handle": "@jackprandelli"
+    },
+    {
+     "url": "https://x.com/grok/status/2112640596393210092",
+     "title": "Rússia gás 2026: produção ~683 bcm.",
+     "description": "Rússia gás 2026: produção ~683 bcm. Exporta pipeline ~117 bcm (fora CEI ~77) + LNG 35 mi t. \n\nChina: Power of Siberia ~39 bcm (~50% do pipeline fora CEI) + ~9 mi t LNG (~25%). Absorve ~30% do total exportado. Dependência alta e crescente (Gazprom pipeline, Novatek LNG), acima da Arábia no óleo, abaixo de Angola.",
+     "snippet": "Rússia gás 2026: produção ~683 bcm. Exporta pipeline ~117 bcm (fora CEI ~77) + LNG 35 mi t. \n\nChina: Power of Siberia ~39 bcm (~50% do pipeline fora CEI) + ~9 mi t LNG (~25%). Absorve ~30% do total exportado. Dependência alta e crescente (Gazprom pipeline, Novatek LNG), acima da Arábia no óleo, abaixo de Angola.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/myopiniondog/status/2111720307064963466",
+     "title": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels.",
+     "description": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "snippet": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eudaemon",
+     "handle": "@myopiniondog"
+    },
+    {
+     "url": "https://x.com/Caballero1453/status/2112150467585417495",
+     "title": "Russia and China are turning the Arctic into Asia’s latest strategic battleground The Artic is emerging as THE Alternative to Suez it will b",
+     "description": "Russia and China are turning the Arctic into Asia’s latest strategic battleground\nThe Artic is emerging as THE Alternative to Suez it will be controlled by Moscow and Beijing. \n\nNew Shipping to deploy additional vessels on Northern Sea Route https://www.bairdmaritime.com/shipping/boxships/chinas-newnew-shipping-to-deploy-additional-container-vessels-on-northern-sea-route",
+     "snippet": "Russia and China are turning the Arctic into Asia’s latest strategic battleground\nThe Artic is emerging as THE Alternative to Suez it will be controlled by Moscow and Beijing. \n\nNew Shipping to deploy additional vessels on Northern Sea Route https://www.bairdmaritime.com/shipping/boxships/chinas-newnew-shipping-to-deploy-additional-container-vessels-on-northern-sea-route",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Caballero",
+     "handle": "@Caballero1453"
+    },
+    {
+     "url": "https://x.com/Qxinzi9/status/2112527309852881200",
+     "title": "Yes and then you have Putin bots pointing out the billions europe pay for Russian gas and oil.",
+     "description": "Yes and then you have Putin bots pointing out the billions europe pay for Russian gas and oil. Yes, China buys Russian oil at a huge discount, and sells at the world market price.But Russia does not gets the full benefit from these Chinese deals. China does.",
+     "snippet": "Yes and then you have Putin bots pointing out the billions europe pay for Russian gas and oil. Yes, China buys Russian oil at a huge discount, and sells at the world market price.But Russia does not gets the full benefit from these Chinese deals. China does.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Qxinzi",
+     "handle": "@Qxinzi9"
+    }
+   ]
+  }
+ ]
+}
