@@ -1746,6 +1746,17 @@ for fn in news_files:
                                   r"jihadist|insurgent|Boko|ISWAP|JNIM)\b", title, re.I):
             dropped_scope += 1
             continue
+        # Scope gate: a third country named in the headline, with none of the
+        # twelve monitored countries. "中国要求公民在泰国注意防范诈骗和绑架" is a
+        # real story, but Thailand is not on this monitor's beat — and because it
+        # ran on vnexpress.net and khmertimeskh.com it was being filed under
+        # 越南 and 缅甸, which is precisely the "周边国家把别国的事算进来" complaint.
+        # China / the US are actors here, not monitored countries, so naming them
+        # does not exempt an item.
+        if _FOREIGN_RX.search(title) \
+                and not (set(classify_cty(title, "")) & ALL_CTYS):
+            dropped_scope += 1
+            continue
         dom = re.sub(r"^www\.", "", re.sub(r"^https?://", "", u).split("/")[0])
         # Tavily's own field is `published_date`, but sources.tavily_search
         # normalises it to `published`. Reading only the first name silently
