@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Denounce jihadist massacre with 48 civilians in Mali | Demócrata",
-   "url": "https://www.democrata.es/en/international/a-berber-organization-denounces-almost-50-civilians-killed-in-a-jihadist-massacre-in-eastern-mali",
-   "snippet": "A civil entity representing Berber tribes from eastern Mali has reported that at least 48 civilians were killed last weekend in a massacre attributed to the branch of the jihadist organization Islamic State in the Sahel, known as Islamic State in the Greater Sahara (EIGS). [...] Follow us\n\n Current events\n General Election\n Consejo de Ministros\n Europe\n Polls\n DemócrataPro\n\n Fren\n\n Latest news\n Ag",
-   "published": "Tue, 20 Oct 2026 16:44:38 GMT",
+   "title": "A Berber organization denounces almost 50 civilians killed in a jihadist massacre in eastern Mali",
+   "url": "https://www.democrata.es/en/international/a-berber-organization-denounces-almost-50-civilians-killed-in-a-jihadist-massacre-in-eastern-mali/amp",
+   "snippet": "A Berber organization alerts about the massacre of 48 civilians in Tagadayat, attributed to the EIGS, which causes massive displacements and urgent aid",
+   "published": "Tue, 20 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Attack by Islamic State-affiliated group in Mali kills 48 people",
+   "url": "https://www.yourcentralvalley.com/news/u-s-world/ap-attack-by-islamic-state-affiliated-group-in-mali-kills-48-people",
+   "snippet": "BAMAKO, Mali (AP) — A weekend attack by militants affiliated to the Islamic State group killed 48 people in the Ménaka region of eastern Mali,",
+   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
    "source": "tavily"
   }
  ],
