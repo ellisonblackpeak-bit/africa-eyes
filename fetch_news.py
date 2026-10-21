@@ -143,6 +143,20 @@ PLAN = [
     ("cn_ml",   "China Mali mining", [], 12),
     ("cn_wa",   "Chinese firm West Africa", [], 12),
     ("cn_af",   "Chinese investment Africa", [], 12),
+    # ─── Africa four — China RISK events ────────────────────────────────────
+    # The reader's complaint on 2026-10-21: not one card about a Chinese citizen
+    # kidnapped, a Chinese company fined, or a Chinese project attacked. The
+    # general angles above never surface these, because a kidnapping story is
+    # written as "Gunmen abduct two Chinese miners in Kwali" — the search index
+    # ranks it low for "China Nigeria investment". These six angles target the
+    # EVENT, which is how the local press actually headlines it.
+    # Budget: 6 × 8 ≈ 48 extra credits per round.
+    ("cn_kidnap",  "Chinese kidnapped Nigeria", [], 8),
+    ("cn_fined",   "Chinese company fined", [], 8),
+    ("cn_attacked", "Chinese workers attacked", [], 8),
+    ("cn_illegal", "Chinese illegal mining arrested", [], 8),
+    ("cn_galamsey", "Chinese galamsey Ghana", [], 8),
+    ("cn_court",   "Chinese firm court Africa", [], 8),
     # ─── Africa four — US angle ─────────────────────────────────────────────
     ("us_ng",    "US Nigeria", [], 12),
     ("us_gh",    "US Ghana military", [], 12),
@@ -183,6 +197,15 @@ PLAN = [
     ("cn_np", "Chinese company Nepal investment hydropower", [], 12),
     ("cn_vn", "Chinese company Vietnam factory investment", [], 12),
     ("cn_la", "Chinese company Laos railway investment", [], 12),
+    # Breadth for the four neighbours that were thin. Measured 2026-10-21 on the
+    # live page: kr 57 / in 36 / ru 20 / ph 20, but vn 3 / la 2 / mm 2 / np 1.
+    # Not a coverage gap in the world — those four simply had one narrow angle
+    # each. Free RSS cannot fill it (only Korea/India/Vietnam/Mekong feeds
+    # exist), so one broad angle per country, short form.
+    ("vn_wide", "Vietnam China trade", [], 10),
+    ("la_wide", "Laos China railway", [], 10),
+    ("np_wide", "Nepal China project", [], 10),
+    ("mm_wide", "Myanmar China project", [], 10),
     # ─── Breadth sweeps: a plain "latest news" recovers in-window items that
     #    keyword-specific angles miss. Short form measured at 9–10 results;
     #    the previous domain-restricted versions returned 0–3.
@@ -479,6 +502,9 @@ RSS_FEEDS = [
     ("vnexpress",   "https://vnexpress.net/rss/tin-moi-nhat.rss",     "vnexpress.net"),
     ("tuoitre",     "https://tuoitre.vn/rss/tin-moi-nhat.rss",        "tuoitre.vn"),
     ("kathmandupost", "https://kathmandupost.com/rss",                "kathmandupost.com"),
+    # Laos had no feed at all, which is why 老挝 never got more than a couple of
+    # items while Korea (three feeds) had 57. Free, so no credit cost.
+    ("laotiantimes", "https://laotiantimes.com/feed/",                "laotiantimes.com"),
     ("rfa_chinese", "https://www.rfa.org/mandarin/rssfeed.xml",       "rfa.org"),
 ]
 _RSS_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "

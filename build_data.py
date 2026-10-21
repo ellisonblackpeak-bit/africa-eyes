@@ -586,9 +586,49 @@ def outlet_info(dom):
     return (dom, "af", "https://" + dom)
 
 
+_CJK_RX = re.compile(r"[\u4e00-\u9fa5]")
+
+
 def _rx(words):
-    words = sorted(set(words), key=len, reverse=True)
+    """A boundary-anchored regex over the ASCII markers only.
+
+    Chinese cannot use `\\b`: every Han character is a word character, so
+    "尼日利亚军方" has no boundary between 亚 and 军 and the pattern never
+    matched. That single mistake meant almost no Chinese headline was ever
+    classified by its own words — everything fell through to the domain
+    fallback, which is how a story about France on koreatimes.co.kr was filed
+    under 朝韩. Chinese markers are handled by `zh_cty_hits()` instead.
+    """
+    words = [w for w in sorted(set(words), key=len, reverse=True)
+             if not _CJK_RX.search(w)]
+    if not words:
+        return re.compile(r"(?!)")         # matches nothing
     return re.compile(r"\b(" + "|".join(re.escape(w) for w in words) + r")\b", re.I)
+
+
+# ── Chinese country names: one pass, longest match wins ──
+# Per-country regexes cannot work here. "尼日尔" is a prefix of "尼日利亚", and
+# "印度" is a prefix of "印度尼西亚", so matching each country independently
+# tagged a Nigerian story as Niger *and* Nigeria. A single alternation sorted by
+# length, scanned left to right without overlap, resolves both: at each position
+# the longest name is tried first and the match consumes it.
+_ZH_CTY_MAP = {}
+for _code, _words in CTY_MARKERS.items():
+    for _w in _words:
+        if _CJK_RX.search(_w):
+            _ZH_CTY_MAP.setdefault(_w, set()).add(_code)
+_ZH_CTY_KEYS = sorted(_ZH_CTY_MAP, key=len, reverse=True)
+_ZH_CTY_RX = re.compile("|".join(re.escape(w) for w in _ZH_CTY_KEYS))
+
+
+def zh_cty_hits(text):
+    """Country codes named in Chinese anywhere in `text`."""
+    if not text:
+        return set()
+    out = set()
+    for m in _ZH_CTY_RX.finditer(text):
+        out |= _ZH_CTY_MAP.get(m.group(0), set())
+    return out
 
 
 TOPIC_RX = {k: _rx(v) for k, v in TOPIC_MARKERS.items()}
@@ -596,6 +636,78 @@ CTY_RX = {k: _rx(v) for k, v in CTY_MARKERS.items()}
 
 # Every country code the page actually has a module or a filter chip for.
 ALL_CTYS = {"ng", "ne", "ml", "gh", "kr", "ph", "mm", "ru", "in", "np", "vn", "la"}
+
+# ── third countries, used only to VETO the domain fallback ──
+# A national daily reports the whole world. "France to deploy troops, admits
+# failure in weekend riots" ran on koreatimes.co.kr with no mention of Korea, so
+# the domain fallback filed it under 朝韩 and it showed up in 周边国家. The
+# reader caught it. The rule now: a domain may only decide the country when the
+# copy itself points at no other place.
+FOREIGN_MARKERS = [
+    "france", "french", "paris", "macron", "法国", "巴黎", "马克龙",
+    "germany", "german", "berlin", "scholz", "merz", "德国", "柏林",
+    "britain", "british", "uk ", "london", "starmer", "英国", "伦敦",
+    "japan", "japanese", "tokyo", "日本", "东京",
+    "brazil", "brazilian", "巴西",
+    "ukraine", "ukrainian", "kyiv", "zelensk", "乌克兰", "基辅", "泽连斯基",
+    "israel", "israeli", "以色列",
+    "iran", "iranian", "tehran", "伊朗", "德黑兰",
+    "canada", "canadian", "ottawa", "加拿大",
+    "australia", "australian", "澳大利亚", "澳洲",
+    "spain", "spanish", "madrid", "西班牙",
+    "italy", "italian", "rome", "意大利",
+    "turkey", "turkish", "ankara", "erdogan", "土耳其",
+    "mexico", "mexican", "墨西哥",
+    "south africa", "南非",
+    "argentina", "阿根廷", "poland", "polish", "波兰",
+    "netherlands", "dutch", "荷兰", "belgium", "比利时",
+    "saudi", "riyadh", "沙特", "egypt", "egyptian", "cairo", "埃及",
+    "ethiopia", "addis ababa", "埃塞俄比亚",
+    "kenya", "nairobi", "肯尼亚", "pakistan", "pakistani", "巴基斯坦",
+    "bangladesh", "孟加拉", "indonesia", "indonesian", "jakarta",
+    "印度尼西亚", "印尼", "thailand", "thai ", "bangkok", "泰国", "曼谷",
+    "singapore", "新加坡", "cambodia", "phnom penh", "柬埔寨",
+    "sri lanka", "斯里兰卡", "afghanistan", "kabul", "阿富汗",
+    "syria", "syrian", "叙利亚", "iraq", "iraqi", "伊拉克",
+    "venezuela", "caracas", "委内瑞拉", "cuba", "havana", "古巴",
+    "colombia", "哥伦比亚", "chile", "智利", "peru", "秘鲁",
+    "taiwan", "台湾", "hong kong", "香港",
+    "sweden", "stockholm", "瑞典", "norway", "挪威", "denmark", "丹麦",
+    "switzerland", "geneva", "瑞士", "austria", "奥地利",
+    "greece", "athens", "希腊", "portugal", "葡萄牙",
+    "ireland", "irish", "爱尔兰", "finland", "芬兰",
+    "czech", "hungary", "hungarian", "匈牙利",
+    "romania", "bulgaria", "serbia", "croatia", "克罗地亚",
+    "belarus", "minsk", "白俄罗斯", "georgia", "tbilisi", "格鲁吉亚",
+    "armenia", "yerevan", "亚美尼亚", "azerbaijan", "baku", "阿塞拜疆",
+    "kazakhstan", "uzbekistan", "哈萨克斯坦", "乌兹别克斯坦",
+    "mongolia", "蒙古", "qatar", "doha", "卡塔尔", "uae", "dubai", "阿联酋",
+    "kuwait", "科威特", "jordan", "约旦", "lebanon", "beirut", "黎巴嫩",
+    "morocco", "rabat", "摩洛哥", "algeria", "algiers", "阿尔及利亚",
+    "tunisia", "突尼斯", "libya", "tripoli", "利比亚", "sudan", "khartoum", "苏丹",
+    "somalia", "mogadishu", "索马里", "cameroon", "yaounde", "喀麦隆",
+    "chad", "n'djamena", "乍得", "senegal", "dakar", "塞内加尔",
+    "ivory coast", "cote d'ivoire", "abidjan", "科特迪瓦",
+    "burkina faso", "ouagadougou", "布基纳法索", "guinea", "conakry", "几内亚",
+    "togo", "lome", "多哥", "benin", "cotonou", "贝宁",
+    "sierra leone", "freetown", "塞拉利昂", "liberia", "monrovia", "利比里亚",
+    "gambia", "banjul", "冈比亚", "mauritania", "努瓦克肖特", "毛里塔尼亚",
+    "eritrea", "djibouti", "吉布提", "rwanda", "kigali", "卢旺达",
+    "uganda", "kampala", "乌干达", "tanzania", "dar es salaam", "坦桑尼亚",
+    "zambia", "lusaka", "赞比亚", "zimbabwe", "harare", "津巴布韦",
+    "mozambique", "maputo", "莫桑比克", "angola", "luanda", "安哥拉",
+    "dr congo", "democratic republic", "kinshasa", "刚果",
+    "new zealand", "新西兰", "fiji", "斐济", "papua", "巴布亚",
+]
+_FOREIGN_RX = re.compile(
+    "|".join(re.escape(w) for w in sorted(FOREIGN_MARKERS, key=len, reverse=True)),
+    re.I)
+
+# International desks of a national daily. A story under /world/ is by
+# definition not about the home country, whatever the masthead is.
+_WORLD_PATH_RX = re.compile(
+    r"/(?:world|international|global|foreign|asia|europe|americas|"
+    r"middle-?east|africa|oceania|world-news)(?:/|$)", re.I)
 
 # Query tag → the country that query was aimed at. Used as a LAST-RESORT anchor
 # when the headline names nothing recognisable: "FDI: Plateau, Chinese firm ink
@@ -652,9 +764,14 @@ def classify_topic(title, body):
     return [k for k, _ in sorted(hits.items(), key=lambda kv: -kv[1])[:2]]
 
 
-def classify_cty(title, body, dom=""):
+def classify_cty(title, body, dom="", url=""):
     out = [c for c, rx in CTY_RX.items()
            if 3 * len(rx.findall(title)) + len(rx.findall(body))]
+    # Chinese names, matched once over the whole string so "尼日利亚" cannot also
+    # fire "尼日尔" (see zh_cty_hits).
+    for c in zh_cty_hits(title) | zh_cty_hits(body):
+        if c not in out:
+            out.append(c)
     blob = title + " " + body
     if NG_RE.search(blob) and "ng" not in out:
         out.append("ng")
@@ -667,8 +784,17 @@ def classify_cty(title, body, dom=""):
     # Keyword classifier found nothing. For the eight China-neighbourhood feeds
     # the copy is in the local language (Vietnamese / Korean / Burmese), so the
     # English keyword list can never fire. The publishing domain is the one
-    # signal that always survives: a story on vnexpress.net is about Vietnam.
-    # Applied only as a last resort, so it never overrides a real keyword hit.
+    # signal that always survives — but only when the item is plausibly a local
+    # story. A national daily runs the whole world, so two vetoes apply first:
+    #   1. an international-desk URL (/world/, /international/) is not local;
+    #   2. copy naming a third country ("France", "Germany", "Japan") is not
+    #      local either, even when it names no monitored country.
+    # Without these, "France to deploy troops, admits failure in weekend riots"
+    # was filed under 朝韩 purely because koreatimes.co.kr published it.
+    if _WORLD_PATH_RX.search(url or ""):
+        return ["af"]
+    if _FOREIGN_RX.search(title):
+        return ["af"]
     for suffix, code in DOMAIN_CTY.items():
         if dom == suffix or dom.endswith("." + suffix):
             return [code]
@@ -744,18 +870,60 @@ HOMEPAGE_RX = re.compile(
 # classifier keys on words like "governor" / "state" / "budget" that sports and
 # showbiz copy uses too ("Anambra Governor's Cup tennis", "Rangers defeat").
 # Since this platform tracks politics / economy / security / energy / mining /
-# corridors only, sport and entertainment are dropped by headline before
-# classification runs. Kept deliberately narrow: only unambiguous markers, so a
-# genuine security story mentioning "players" or "coach" is not lost.
+# corridors only, sport and entertainment are dropped by headline. The reader
+# asked for this explicitly on 2026-10-21 after seeing IU's new single, an LPGA
+# stop and a KBO batting story on the page.
+#
+# Narrow on purpose. Bare "club", "match", "Eagles", "single" and "drama" are
+# NOT in the list: they fire on "investment club", "match funding", "single
+# window" and "political drama", which are exactly the stories this page exists
+# for. Only phrases that cannot be anything but sport or showbiz are listed.
 SPORT_RX = re.compile(
-    r"\b(football|soccer|NFF|Super Eagles|Falcons|Eagles|coach|stadium|"
-    r"matchday|tennis|basketball|boxing|athletics|olympic|FIFA|CAF|NPFL|"
-    r"referee|goalkeeper|striker|midfielder|hat-trick|derby|fixture|"
-    r"club|cricket|rugby|golf|chess|scrabble|wrestling|transfer window|"
-    r"league table|qualifier|semi-final|quarter-final|world cup|afcon)\b", re.I)
+    r"\b(football|soccer|NFF|Super Eagles|Falcons|coach|head coach|stadium|"
+    r"matchday|tennis|basketball|NBA|NFL|MLB|NHL|LPGA|PGA|boxing|athletics|"
+    r"olympic|olympics|paralympic|FIFA|CAF|AFCON|NPFL|referee|goalkeeper|"
+    r"striker|midfielder|hat-trick|derby|fixture|fixtures|cricket|rugby|golf|"
+    r"chess|scrabble|wrestling|transfer window|league table|qualifier|"
+    r"quarter-final|semi-final|world cup|grand slam|medal table|podium|"
+    r"batsman|wicket|innings|athlete|marathon|doping|sports minister|"
+    r"KBO|K-league|batting|home run|pitcher|ballpark)\b", re.I)
 ENT_RX = re.compile(
-    r"\b(nollywood|movie|film|album|singer|musician|actor|actress|celebrity|"
-    r"comedy|concert|beauty pageant|big brother|reality show|fashion week)\b", re.I)
+    r"\b(nollywood|bollywood|hollywood|movie|film|album|new single|"
+    r"singer|musician|rapper|actor|actress|celebrity|comedy|concert|"
+    r"beauty pageant|big brother|reality show|fashion week|grammy|oscar|"
+    r"eurovision|billboard|netflix|box office|k-?pop|idol group|"
+    r"drama series|tv series|webtoon|anime|manga|influencer|red carpet|"
+    r"premiere|sequel|trailer|episode|music award|film festival)\b", re.I)
+# Chinese equivalents. Chinese headlines are what the translated cards actually
+# show, and the English list can never see them.
+SPORT_ZH_RX = re.compile(
+    r"(世界杯|英超|西甲|意甲|德甲|欧冠|亚冠|非洲杯|奥运|残奥|网球|篮球|足球|"
+    r"球员|主教练|射手|进球|联赛|锦标赛|夺冠|季军|半决赛|四分之一决赛|"
+    r"俱乐部|球队|球迷|转会|梅西|C罗|姆巴佩|内马尔|棒球|投手|本垒打|"
+    r"高尔夫|拳击|田径|马拉松|奖牌榜|运动会)")
+ENT_ZH_RX = re.compile(
+    r"(演唱会|单曲|专辑|歌手|演员|明星|综艺|真人秀|选美|电影|影片|票房|"
+    r"首映|电视剧|网红|八卦|恋情|绯闻|韩流|偶像团体|女团|男团|组合回归|"
+    r"预告片|杀青|开机|红毯|颁奖礼|音乐奖|电影节|票房榜|热播|收视率)")
+# A sports-ground bombing or an entertainer's shooting is a security story, not
+# a soft one. Anything carrying these stays.
+HARD_NEWS_RX = re.compile(
+    r"\b(attack|attacked|killed|killing|kidnap|abduct|arrest|detain|"
+    r"sanction|tariff|military|missile|airstrike|war|protest|election|"
+    r"parliament|court|verdict|sentenced|explosion|bomb|gunmen)\b|"
+    r"(袭击|遇袭|爆炸|绑架|劫持|被捕|拘留|判决|宣判|制裁|关税|军事|"
+    r"选举|议会|法院|枪击|死亡|受伤)", re.I)
+
+
+def is_soft(title, title_zh=""):
+    """True for a sport / showbiz headline that carries no hard-news substance."""
+    blob = (title or "") + " " + (title_zh or "")
+    if not blob.strip():
+        return False
+    if HARD_NEWS_RX.search(blob):
+        return False
+    return bool(SPORT_RX.search(title or "") or ENT_RX.search(title or "")
+                or SPORT_ZH_RX.search(blob) or ENT_ZH_RX.search(blob))
 
 # Chrome that is GLUED to real prose on the same line, so it has to be repaired
 # rather than dropped — dropping the line would throw the lead sentence away with
@@ -960,6 +1128,100 @@ def strip_links(t):
     return s if len(s) >= 6 else t.strip()
 
 
+# ── trailing "| Section | Outlet" tails ──
+# MASTHEAD_RX only knows the outlets it was taught, so a headline from an
+# unlisted site kept its furniture: "中国数据中心沉入水下引发担忧 | 新闻 |
+# Eco-Business | 亚太", "… | The Star", "… | News.az". 12 live titles still had
+# one. Rather than grow the list forever, drop trailing pipe segments that look
+# like furniture and keep every segment that reads like content.
+_PIPE_RX = re.compile(r"\s*[|｜]\s*")
+_CLAUSE_RX = re.compile(r"[：:，,。；;！？!?]")
+
+
+def _strip_pipe_tail(t):
+    parts = _PIPE_RX.split(t or "")
+    while len(parts) > 1:
+        last = parts[-1].strip()
+        if not last or len(last) > 18:
+            break
+        if _CLAUSE_RX.search(last):      # punctuation ⇒ a real clause, not a desk
+            break
+        cjk = bool(re.search(r"[\u4e00-\u9fa5]", last))
+        if cjk and len(last) <= 6:       # 新闻 / 亚太 / 国际
+            parts.pop()
+            continue
+        if not cjk and re.fullmatch(r"[A-Za-z0-9 .&'’\-–—/]+", last):
+            parts.pop()                  # The Star / News.az / Eco-Business
+            continue
+        break
+    return " | ".join(p.strip() for p in parts)
+
+
+def _cut_dangling(t, limit=150):
+    """Drop a truncated tail and any over-long tail, always at a clause edge.
+
+    The limit is generous on purpose. At 110 the index's own 111-character
+    titles were being cut, which left a visible "…" on about a hundred cards —
+    the reader asked for headlines they can read to the end.
+    """
+    if not t:
+        return t
+    body = re.sub(r"\s*(?:…|\.{3,})+\s*$", "", t).strip()
+    if len(body) < 12:
+        return t
+    if len(body) > limit:
+        window = body[:limit]
+        cut = max(window.rfind("。"), window.rfind("！"), window.rfind("？"),
+                  window.rfind("；"), window.rfind("，"), window.rfind("、"))
+        if cut >= 24:
+            return window[:cut].rstrip("，、； ")
+        return window.rstrip("，、； ") + "…"
+    if body != t:                        # there WAS an ellipsis: cut back to a clause
+        cut = max(body.rfind("。"), body.rfind("！"), body.rfind("？"),
+                  body.rfind("；"), body.rfind("，"))
+        if cut >= 12:
+            return body[:cut].rstrip("，； ")
+    return body
+
+
+def tidy_headline(t):
+    """Everything a headline needs after cleaning: no links, no furniture, no cut."""
+    return _cut_dangling(_strip_pipe_tail(strip_links(t)))
+
+
+# A masthead the CMS cut in half ("… | South China Morning…", "… - Auto…").
+# MASTHEAD_RX cannot see these because the name is incomplete, so the fragment
+# survived as the tail of the headline.
+_TRUNC_MASTHEAD_RX = re.compile(
+    r"\s*[|–—\-]\s*(?:south\s+china\s+morning|scmp|auto|the\s+armenian|"
+    r"business\s+insider|bloomberg|reuters|the\s+eastleigh|eleven\s+media|"
+    r"news\.az|the\s+star|dem[oó]crata)\b[^|–—]*?(?:…|\.{2,})?\s*$", re.I)
+
+# "…Plans to Shift Exports From China to U.…" — the index cut inside "U.S.".
+_CUT_ABBR_RX = re.compile(r"(?<![A-Za-z])U\.\s*(?:…|\.{2,})\s*$")
+# Chinese titles keep the ellipsis from the English source, and a machine
+# translation often trails off on a conjunction.
+_ZH_TAIL_RX = re.compile(r"(?:…|\.{3,})\s*$")
+_ZH_DANGLING_RX = re.compile(r"[的地得和与及在对将为把从由、，,]\s*$")
+
+
+def tidy_zh_title(t):
+    """Final pass on a translated headline: no links, no ellipsis, no half clause."""
+    if not t:
+        return t
+    s = strip_links(t)
+    s = re.sub(r"(?<![A-Za-z])U\.\s*(?:…|\.{2,})", "U.S.", s)
+    s = _TRUNC_MASTHEAD_RX.sub("", s)
+    s = _ZH_TAIL_RX.sub("", s).strip(" -–—|·,，:：、")
+    # Trailing on 的/和/将 leaves the reader mid-sentence; cut back to the last
+    # full clause if there is one.
+    if _ZH_DANGLING_RX.search(s):
+        cut = max(s.rfind("，"), s.rfind("、"), s.rfind("；"), s.rfind("："))
+        if cut >= 10:
+            s = s[:cut].rstrip("，、；：")
+    return s or t
+
+
 def polish_title(title, body="", url=""):
     """Return the headline the way a reader would write it.
 
@@ -1009,6 +1271,9 @@ def polish_title(title, body="", url=""):
             t = slug[:160]
 
     t = re.sub(r"\s{2,}", " ", t).strip(" -–—|·,:;")
+    # 4. Furniture the masthead list does not know, and a tail still cut short.
+    #    Runs LAST so steps 2-3 still see the ellipsis they rely on.
+    t = _cut_dangling(_strip_pipe_tail(t))
     return t
 
 
@@ -1448,13 +1713,13 @@ for fn in news_files:
             # presenting the headline as if it were a digest.
             summary = "该来源未返回可读摘要（页面被付费墙或反爬拦截），请点击原文查看。"
             summary_zh = summary
-        cty = classify_cty(title, body[:1500], dom)
+        cty = classify_cty(title, body[:1500], dom, u)
         # Relevance gate. A wire service will happily return a global story that
         # merely shares a token ("oil", "security", "Trump"), and a story page
         # often carries related-article links naming Africa in the body. So the
         # anchor must appear in the TITLE: local outlets name the country or region
         # in the headline, and this is what keeps the priority tiers on topic.
-        cty_title = classify_cty(title, "", dom)
+        cty_title = classify_cty(title, "", dom, u)
         if cty_title == ["af"]:
             # Scoped exceptions, both requiring a publisher that actually covers
             # the monitored regions so the tier cannot fill with wire-service
@@ -1466,7 +1731,7 @@ for fn in news_files:
             #     single country but is squarely what this monitor is for.
             #  b) the country/region is named in the BODY while the source is a
             #     West African outlet — local outlets run such headlines routinely.
-            body_cty = classify_cty(title, body[:1200], dom)
+            body_cty = classify_cty(title, body[:1200], dom, u)
             in_scope_source = dom in WA_DOMAINS or dom in REGIONAL_DOMAINS
             if in_scope_source and (CN_RX.search(title) or has_us(title)
                                     or body_cty != ["af"]):
@@ -1484,7 +1749,7 @@ for fn in news_files:
                     continue
         # Full classification uses the body too; the relaxed gate result is merged
         # in so a China story recovered above stays tagged to the region.
-        cty = classify_cty(title, body[:1500], dom)
+        cty = classify_cty(title, body[:1500], dom, u)
         for c in cty_title:
             if c not in cty:
                 cty.append(c)
@@ -2161,9 +2426,15 @@ def zh_ok(en, zh):
 #    Threshold 0.68 with at least 8 shared trigrams: measured on the live corpus,
 #    every pair above 0.66 was a genuine duplicate and nothing below 0.60 was.
 for _it in news + social:
-    for _f in ("title", "title_zh"):
-        if _it.get(_f):
-            _it[_f] = strip_links(_it[_f])
+    if _it.get("title"):
+        # tidy_headline also drops a masthead the CMS cut in half and repairs a
+        # headline truncated inside "U.S." — both survived strip_links alone.
+        _it["title"] = tidy_headline(_it["title"])
+    if _it.get("title_zh"):
+        # The Chinese title is what the card actually shows, so it needs its own
+        # pass: the translation keeps the source ellipsis, and a machine
+        # translation can trail off on a conjunction.
+        _it["title_zh"] = tidy_zh_title(_it["title_zh"])
 
 
 def _shingles(s, n=3):
@@ -2202,7 +2473,7 @@ def _worth_keeping(it):
             len(it.get("summary") or it.get("snippet") or ""))
 
 
-def collapse_near_dups(items, th=0.68, floor=8):
+def collapse_near_dups(items, th=0.62, floor=8):
     kept, out, dropped = [], [], 0
     for it in items:
         k, sh = _title_key(it), _shingles(_title_key(it))
@@ -2216,6 +2487,85 @@ def collapse_near_dups(items, th=0.68, floor=8):
             out[j] = it
             kept[j] = (k, sh)
     return out, dropped
+
+
+def collapse_same_event(items, th=0.52, floor=14):
+    """Second pass: two outlets writing up the SAME event with different wording.
+
+    Headline similarity cannot see these. "突发：尼日利亚在联邦首都特区确认
+    埃博拉病例，确定44名接触者" and "FG启动响应 尼日利亚录得新的埃博拉病例"
+    share three characters of substance but describe one press conference, and
+    the reader sees the same story twice. Comparing the SUMMARIES catches them:
+    both quote the same numbers and the same agency.
+
+    Thresholds measured on the live corpus: every pair at 0.52 or above was a
+    genuine same-event duplicate; below 0.45 unrelated stories start to collide
+    (short summaries share a lot of connective tissue). The 14-trigram floor
+    keeps two one-sentence briefs from matching on "尼日利亚政府表示".
+    """
+    kept, out, dropped = [], [], 0
+    for it in items:
+        body = (it.get("summary") or it.get("snippet") or it.get("body") or "")[:300]
+        sh = _shingles(body)
+        j = _dup_hit("", sh, kept, th, floor)
+        if j is None:
+            kept.append(("", sh))
+            out.append(it)
+            continue
+        dropped += 1
+        if _worth_keeping(it) > _worth_keeping(out[j]):
+            out[j] = it
+    return out, dropped
+
+
+# ── country evidence check ──
+# A country tag has to be backed by something in the copy: a name, a city, a
+# marker the classifier knows — or the query tag that found it. Everything else
+# is residue from an earlier, buggier classifier or from a masthead-based guess
+# ("koreatimes.co.kr published it, so it must be Korea"). Re-checking every
+# record before it is written is the only way corrections reach carry-overs as
+# well as fresh items.
+def _evidence_for(c, title, body, summary, tag):
+    if c in ("af", "wa"):
+        return True
+    rx = CTY_RX.get(c)
+    if rx and (rx.search(title) or rx.search(body)):
+        return True
+    if c in zh_cty_hits(title) or c in zh_cty_hits(body) or c in zh_cty_hits(summary):
+        return True
+    if c == "ng" and NG_RE.search(title + " " + body):
+        return True
+    if c == "ne" and NE_ONLY.search(title + " " + body):
+        return True
+    for tbl in (TAG_CTY, SOC_TAG_CTY):
+        v = tbl.get(tag or "")
+        v = v if isinstance(v, (list, tuple)) else ([v] if v else [])
+        if c in v:
+            return True
+    return False
+
+
+def revalidate_ctry(items, kind="news"):
+    """Drop country tags the copy does not support; fall back to the query tag."""
+    fixed = 0
+    for it in items:
+        cur = it.get("country") or []
+        if not cur:
+            continue
+        title = it.get("title") or ""
+        body = (it.get("body") or "")[:1500]
+        summary = (it.get("summary") or it.get("snippet") or "")[:600]
+        tag = it.get("tag") or it.get("_tag")
+        keep = [c for c in cur if _evidence_for(c, title, body, summary, tag)]
+        if keep == cur:
+            continue
+        fixed += 1
+        if not keep:
+            anc = TAG_CTY.get(tag or "") or SOC_TAG_CTY.get(tag or "")
+            anc = anc if isinstance(anc, (list, tuple)) else ([anc] if anc else [])
+            keep = list(anc) or ["af"]
+        it["country"] = keep
+    return fixed
 
 
 queue = {}
@@ -2240,20 +2590,38 @@ for coll, fields, group in ((news, ("title", "summary", "body"), "news"),
 
 news, _dup_news = collapse_near_dups(news)
 social, _dup_soc = collapse_near_dups(social)
+# Second pass on the summaries: same event, different wording, different outlets.
+news, _dup_evt_n = collapse_same_event(news)
+social, _dup_evt_s = collapse_same_event(social)
 # Cross-channel: a post that merely restates a headline already on the page reads
-# as a repeat, not as a second source. Slightly stricter than within a channel,
-# because a post and an article legitimately frame the same event differently.
+# as a repeat, not as a second source.
 _news_kept = [(_title_key(n), _shingles(_title_key(n))) for n in news]
 _soc_out, _dup_cross = [], 0
 for _s in social:
     _k, _sh = _title_key(_s), _shingles(_title_key(_s))
-    if _dup_hit(_k, _sh, _news_kept, 0.74, 8) is not None:
+    if _dup_hit(_k, _sh, _news_kept, 0.68, 8) is not None:
         _dup_cross += 1
         continue
     _soc_out.append(_s)
 social = _soc_out
-print("near-duplicates collapsed: news %d, social %d, social-vs-news %d"
-      % (_dup_news, _dup_soc, _dup_cross))
+print("near-duplicates collapsed: news %d+%d, social %d+%d, social-vs-news %d"
+      % (_dup_news, _dup_evt_n, _dup_soc, _dup_evt_s, _dup_cross))
+
+# Country tags get one last check against the copy, so a classifier fix reaches
+# the carry-overs too — they keep whatever list the run that first fetched them
+# produced, and that is how "France to deploy troops" stayed under 朝韩.
+_fx_n = revalidate_ctry(news, "news")
+_fx_s = revalidate_ctry(social, "social")
+print("country tags revalidated: news %d, social %d" % (_fx_n, _fx_s))
+
+# Sport / showbiz, applied at the END so it also reaches posts and carry-overs —
+# the entry-point filter only saw fresh news headlines, which is why IU's single
+# and an LPGA round were still on the page after the first filter was added.
+_soft_n = [n for n in news if is_soft(n.get("title"), n.get("title_zh"))]
+_soft_s = [s for s in social if is_soft(s.get("title"), s.get("title_zh"))]
+news = [n for n in news if not is_soft(n.get("title"), n.get("title_zh"))]
+social = [s for s in social if not is_soft(s.get("title"), s.get("title_zh"))]
+print("sport/showbiz dropped: news %d, social %d" % (len(_soft_n), len(_soft_s)))
 
 # The queue was filled before the collapse, so it still holds strings belonging
 # to the records just dropped. Prune it — otherwise every dropped duplicate is
