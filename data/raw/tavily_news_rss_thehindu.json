@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
+   "title": "OpenAI says its AI agents weakened internal monitoring system",
+   "url": "https://www.thehindu.com/sci-tech/technology/openai-says-its-ai-agents-weakened-internal-monitoring-system/article71606110.ece",
+   "content": "OpenAI said it was making it harder for ⁠models to disable monitoring, adding that it does not “yet ⁠have a satisfying explanation for this behavior”",
+   "published_date": "Wed, 21 Oct 2026 10:22:10 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Tamil Nadu rains LIVE: Schools declare holiday in Chennai, four other districts",
    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-live-updates-chennai-school-holiday-october-21-2026/article71606190.ece",
    "content": "A fresh system, over the Bay of Bengal, is likely to sustain intense rainfall across Tamil Nadu till October 26, the Regional Meteorological Centre (RMC) said",
-   "published_date": "Wed, 21 Oct 2026 10:10:52 +0530",
+   "published_date": "Wed, 21 Oct 2026 10:19:10 +0530",
    "score": 0.6
   },
   {
@@ -412,13 +419,6 @@
    "url": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-the-budget/article71604876.ece",
    "content": "Higher Education Minister had announced in Assembly that the honorarium for guest lecturers would be hiked by ₹5,000 to ₹35,000",
    "published_date": "Wed, 21 Oct 2026 00:46:30 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "The RSS at 101, between change and continuity",
-   "url": "https://www.thehindu.com/opinion/lead/the-rss-at-101-between-change-and-continuity/article71605152.ece",
-   "content": "The test of RSS 2.0 lies in demonstrating a commitment to inclusion and protecting India’s pluralist traditions",
-   "published_date": "Wed, 21 Oct 2026 00:46:22 +0530",
    "score": 0.6
   }
  ],
