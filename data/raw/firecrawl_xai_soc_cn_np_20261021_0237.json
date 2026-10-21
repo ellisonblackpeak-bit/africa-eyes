@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/TibetanReview/status/2112232589734113295",
+     "title": "Tatopani remains #Nepal’s key trade route with #China through #Tibet.",
+     "description": "Tatopani remains #Nepal’s key trade route with #China through #Tibet. Despite Kathmandu’s intensified diplomatic efforts, Beijing has yet to reopen it for regular trade, citing unsubstantiated concerns about Tibetan refugee activities.\nhttps://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/",
+     "snippet": "Tatopani remains #Nepal’s key trade route with #China through #Tibet. Despite Kathmandu’s intensified diplomatic efforts, Beijing has yet to reopen it for regular trade, citing unsubstantiated concerns about Tibetan refugee activities.\nhttps://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TibetanReview",
+     "handle": "@TibetanReview"
+    },
+    {
+     "url": "https://x.com/VOT_Tibetan/status/2112557710176829746",
+     "title": "རྒྱ་གཞུང་གིས་བཙན་བྱོལ་བོད་མི་དང་འབྲེལ་བའི་བདེ་འཇགས་གནད་དོན་རྐྱེན་པས་འགྲམ་ས་མཚམས་སྒོ་འབྱེད་བྱ་རྒྱུར་མོས་མཐུན་བྱེད་ཀྱི་མེད་པ་རེད་འདུག China’s",
+     "description": "རྒྱ་གཞུང་གིས་བཙན་བྱོལ་བོད་མི་དང་འབྲེལ་བའི་བདེ་འཇགས་གནད་དོན་རྐྱེན་པས་འགྲམ་ས་མཚམས་སྒོ་འབྱེད་བྱ་རྒྱུར་མོས་མཐུན་བྱེད་ཀྱི་མེད་པ་རེད་འདུག\nChina’s Security Concerns Over Tibetan Refugees Stall Reopening of Nepal-Tibet Border\nhttps://vot.org/chinas-security-concerns-over-tibetan-refugees-stall-reopening-of-nepal-tibet-border/",
+     "snippet": "རྒྱ་གཞུང་གིས་བཙན་བྱོལ་བོད་མི་དང་འབྲེལ་བའི་བདེ་འཇགས་གནད་དོན་རྐྱེན་པས་འགྲམ་ས་མཚམས་སྒོ་འབྱེད་བྱ་རྒྱུར་མོས་མཐུན་བྱེད་ཀྱི་མེད་པ་རེད་འདུག\nChina’s Security Concerns Over Tibetan Refugees Stall Reopening of Nepal-Tibet Border\nhttps://vot.org/chinas-security-concerns-over-tibetan-refugees-stall-reopening-of-nepal-tibet-border/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Voice Of Tibet",
+     "handle": "@VOT_Tibetan"
+    },
+    {
+     "url": "https://x.com/angrant_1/status/2112284427930030536",
+     "title": "Kyirong-Rasuwa is China's preferred route to connect Tibet to Nepal.",
+     "description": "Kyirong-Rasuwa is China's preferred route to connect Tibet to Nepal. By concentrating settlement along river valleys in an unstable geology and cryosphere, the logistical violence of the corridor leads to tragic death. My latest in Positions Politics.\n\nhttps://positionspolitics.org/andrew-grant-corridor-catastrophe-climate-change-and-deadly-logistics-in-the-himalayas/",
+     "snippet": "Kyirong-Rasuwa is China's preferred route to connect Tibet to Nepal. By concentrating settlement along river valleys in an unstable geology and cryosphere, the logistical violence of the corridor leads to tragic death. My latest in Positions Politics.\n\nhttps://positionspolitics.org/andrew-grant-corridor-catastrophe-climate-change-and-deadly-logistics-in-the-himalayas/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andrew Grant 🦋:@angrant.bsky.social",
+     "handle": "@angrant_1"
+    },
+    {
+     "url": "https://x.com/RepublicaNepal/status/2112398344777843110",
+     "title": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola R",
+     "description": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola Rural Municipality-2. Large boulders completely blocked vehicular movement along the route.\n\nhttps://myrepublica.nagariknetwork.com/news/khandbari-kimathanka-road-resumes-operation-after-restoration-41-19.html",
+     "snippet": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola Rural Municipality-2. Large boulders completely blocked vehicular movement along the route.\n\nhttps://myrepublica.nagariknetwork.com/news/khandbari-kimathanka-road-resumes-operation-after-restoration-41-19.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "República",
+     "handle": "@RepublicaNepal"
+    },
+    {
+     "url": "https://x.com/GloriaRosa202/status/2112516154749341932",
+     "title": "Footage from days before Nepal’s August 26 floods reportedly shows massive Chinese-linked hydropower projects, relentless blasting, and ques",
+     "description": "Footage from days before Nepal’s August 26 floods reportedly shows massive Chinese-linked hydropower projects, relentless blasting, and questionable safety and environmental practices. China has built hundreds of dams across occupied Tibet, 1/2⬇️",
+     "snippet": "Footage from days before Nepal’s August 26 floods reportedly shows massive Chinese-linked hydropower projects, relentless blasting, and questionable safety and environmental practices. China has built hundreds of dams across occupied Tibet, 1/2⬇️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gloria Rosario",
+     "handle": "@GloriaRosa202"
+    },
+    {
+     "url": "https://x.com/chinabusescom/status/2112462623371604086",
+     "title": "Shaolin Buses ships a batch of right-hand-drive electric buses to Nepal.",
+     "description": "Shaolin Buses ships a batch of right-hand-drive electric buses to Nepal. The custom-built 7m city bus and 5.4m lightweight electric coach support Nepal’s shift to greener public transport on mountainous and urban routes.",
+     "snippet": "Shaolin Buses ships a batch of right-hand-drive electric buses to Nepal. The custom-built 7m city bus and 5.4m lightweight electric coach support Nepal’s shift to greener public transport on mountainous and urban routes.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Chinabuses",
+     "handle": "@chinabusescom"
+    },
+    {
+     "url": "https://x.com/SinghRaunab/status/2112195441911849374",
+     "title": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China.",
+     "description": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China. Rising wages, gov preference on high-end electronics, manufacturing have also shifted patterns of Chinese exports to Nepal. \n\nRead it here at The Araniko Project!! Link in cmt",
+     "snippet": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China. Rising wages, gov preference on high-end electronics, manufacturing have also shifted patterns of Chinese exports to Nepal. \n\nRead it here at The Araniko Project!! Link in cmt",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Raunab Singh Khatri 孔仁星",
+     "handle": "@SinghRaunab"
+    },
+    {
+     "url": "https://x.com/Pemadorji04/status/2112145694651736395",
+     "title": "In #Nepal, Dashain goods are stuck.",
+     "description": "In #Nepal, Dashain goods are stuck.\nNepal-China trade points: Rasuwagadhi washed out, Korala crippled, Tatopani still shut on #China’s terms.\n#BalenShah’s govt can only “urge” & wait while traders bleed.\nChinese dependency always has a price.\n@Huanusa",
+     "snippet": "In #Nepal, Dashain goods are stuck.\nNepal-China trade points: Rasuwagadhi washed out, Korala crippled, Tatopani still shut on #China’s terms.\n#BalenShah’s govt can only “urge” & wait while traders bleed.\nChinese dependency always has a price.\n@Huanusa",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pema dorji",
+     "handle": "@Pemadorji04"
+    },
+    {
+     "url": "https://x.com/KoiralaBrief/status/2112112015246602257",
+     "title": "With #Dashain nearing, Tatopani’s reopening offers hope, but 45+ containers remain stuck in #China.",
+     "description": "With #Dashain nearing, Tatopani’s reopening offers hope, but 45+ containers remain stuck in #China. Behind every delay are #Nepali traders & families waiting for festival goods. Nepal needs reliable trade routes, not another season of uncertainty.\nhttps://kathmandupost.com/national/2026/10/18/traders-race-to-bring-in-dashain-goods-as-tatopani-border-reopens",
+     "snippet": "With #Dashain nearing, Tatopani’s reopening offers hope, but 45+ containers remain stuck in #China. Behind every delay are #Nepali traders & families waiting for festival goods. Nepal needs reliable trade routes, not another season of uncertainty.\nhttps://kathmandupost.com/national/2026/10/18/traders-race-to-bring-in-dashain-goods-as-tatopani-border-reopens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Rishav Koirala",
+     "handle": "@KoiralaBrief"
+    },
+    {
+     "url": "https://x.com/KGPOSTupdates/status/2111789402037026856",
+     "title": "China has opened the Tatopani border crossing for three days ahead of Dashain.",
+     "description": "China has opened the Tatopani border crossing for three days ahead of Dashain. Cargo vehicles began entering Nepal early in the morning following the reopening. \n\n#TatopaniBorder #NepalChina",
+     "snippet": "China has opened the Tatopani border crossing for three days ahead of Dashain. Cargo vehicles began entering Nepal early in the morning following the reopening. \n\n#TatopaniBorder #NepalChina",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Koligram Post",
+     "handle": "@KGPOSTupdates"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Ehis_Peacemaker/status/2112408037050769830",
+     "title": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground?",
+     "description": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "snippet": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ehis Agbon",
+     "handle": "@Ehis_Peacemaker"
+    },
+    {
+     "url": "https://x.com/westernpost_ng/status/2111797460196610489",
+     "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-",
+     "description": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Western Post Nigeria",
+     "handle": "@westernpost_ng"
+    },
+    {
+     "url": "https://x.com/sarkinnomaa/status/2111763218712412410",
+     "title": "Bandits promised to burn 250 cars in Zamfara, they have started since last week, they have burnt close to 50 so far, and they will continue",
+     "description": "Bandits promised to burn 250 cars in Zamfara, they have started since last week, they have burnt close to 50 so far, and they will continue until they reach their target. \nIn this video, they chased out an entire village and set their vehicles ablaze. \n\nThis is how it has become now, people’s lives and properties are meaningless, and the government is not acting, and the bandits will keep doing whatever they want. \n\nAnd the most annoying part.. they post all these videos themselves on their TikTok page, every time. \n\nIf care is not taken, this insecurity will consume all of us.",
+     "snippet": "Bandits promised to burn 250 cars in Zamfara, they have started since last week, they have burnt close to 50 so far, and they will continue until they reach their target. \nIn this video, they chased out an entire village and set their vehicles ablaze. \n\nThis is how it has become now, people’s lives and properties are meaningless, and the government is not acting, and the bandits will keep doing whatever they want. \n\nAnd the most annoying part.. they post all these videos themselves on their TikTok page, every time. \n\nIf care is not taken, this insecurity will consume all of us.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mohd Modey",
+     "handle": "@sarkinnomaa"
+    },
+    {
+     "url": "https://x.com/NgrImpact/status/2111853693049950671",
+     "title": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives Bandits on Saturday evening",
+     "description": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "snippet": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Impact_Ngr",
+     "handle": "@NgrImpact"
+    },
+    {
+     "url": "https://x.com/TheGist9ja/status/2111871477247090895",
+     "title": "Zamfara is bleeding. 💔 Reports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Da",
+     "description": "Zamfara is bleeding. 💔\n\nReports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Dansadau. Now, travellers on these roads face growing fear.\n\nHow many more lives and livelihoods must be destroyed before security becomes a reality for these people?\n\nWe cant normalise this. 🇳🇬",
+     "snippet": "Zamfara is bleeding. 💔\n\nReports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Dansadau. Now, travellers on these roads face growing fear.\n\nHow many more lives and livelihoods must be destroyed before security becomes a reality for these people?\n\nWe cant normalise this. 🇳🇬",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DamianEradiri",
+     "handle": "@TheGist9ja"
+    },
+    {
+     "url": "https://x.com/Aliyuumaruba/status/2112200768354656707",
+     "title": "Zamfara Is Bleeding Again! 😢 Bandits have taken over Gusau–Dansadau road.",
+     "description": "Zamfara Is Bleeding Again! 😢\nBandits have taken over Gusau–Dansadau road. They invaded Yar Gada and burnt vehicles, now threatening to burn 250 more.\nDrivers now park their cars at home out of fear. Business don stop.\nPeople can't even travel to feed their families.",
+     "snippet": "Zamfara Is Bleeding Again! 😢\nBandits have taken over Gusau–Dansadau road. They invaded Yar Gada and burnt vehicles, now threatening to burn 250 more.\nDrivers now park their cars at home out of fear. Business don stop.\nPeople can't even travel to feed their families.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aliyu umar",
+     "handle": "@Aliyuumaruba"
+    },
+    {
+     "url": "https://x.com/abdool_moh/status/2112165908785377739",
+     "title": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles.",
+     "description": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles. They have laid siege to villages and are killing people every single day but the main headline from the meeting between the Minister of Defence who is from Zamfara and the president is to assure him of political victory in Zamfara not securing the lives of the people.",
+     "snippet": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles. They have laid siege to villages and are killing people every single day but the main headline from the meeting between the Minister of Defence who is from Zamfara and the president is to assure him of political victory in Zamfara not securing the lives of the people.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdool Moh.",
+     "handle": "@abdool_moh"
+    },
+    {
+     "url": "https://x.com/PO_GrassRootM/status/2112245866220204334",
+     "title": "In Gwashi, Zamfara, youths chased Deputy Governor Mani Malam Mummuni’s convoy with stones during a condolence visit after a bandit attack.",
+     "description": "In Gwashi, Zamfara, youths chased Deputy Governor Mani Malam Mummuni’s convoy with stones during a condolence visit after a bandit attack.\nThey chanted “Bamayi” we don’t want you.\n\nWhen leaders fail to protect their people, the people will one day return the favor.\nServe them meaningfully today, or face their anger tomorrow.",
+     "snippet": "In Gwashi, Zamfara, youths chased Deputy Governor Mani Malam Mummuni’s convoy with stones during a condolence visit after a bandit attack.\nThey chanted “Bamayi” we don’t want you.\n\nWhen leaders fail to protect their people, the people will one day return the favor.\nServe them meaningfully today, or face their anger tomorrow.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Peter Obi Grassroots Commentary",
+     "handle": "@PO_GrassRootM"
+    },
+    {
+     "url": "https://x.com/openwatchng/status/2111865374270513479",
+     "title": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.",
+     "description": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "snippet": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "OpenWatch",
+     "handle": "@openwatchng"
+    },
+    {
+     "url": "https://x.com/IbrahimHassanOn/status/2111768310773682649",
+     "title": "IDPs are everywhere in Sokoto Kebbi Zamfara Katsina Kaduna and Niger.",
+     "description": "IDPs are everywhere in Sokoto Kebbi Zamfara Katsina Kaduna and Niger. They are displaced by bandits kill and kidnap their love ones. Government ignored them funding this tsinannu la'anannu for campaign against us. Allah ya wargaza su ya halkasu kamar yanda yayiwa fir'auna.",
+     "snippet": "IDPs are everywhere in Sokoto Kebbi Zamfara Katsina Kaduna and Niger. They are displaced by bandits kill and kidnap their love ones. Government ignored them funding this tsinannu la'anannu for campaign against us. Allah ya wargaza su ya halkasu kamar yanda yayiwa fir'auna.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ibrahim Hassan",
+     "handle": "@IbrahimHassanOn"
+    }
+   ]
+  }
+ ]
+}

@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "For some in Kathmandu, Dashain is just another day",
+   "url": "https://kathmandupost.com/national/2026/10/21/for-some-in-kathmandu-dashain-is-just-another-day",
+   "content": "Unable to afford the journey home or even new clothes for their children, daily-wage earners struggle to find joy in Nepal’s biggest festival.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Nepal Premier League to introduce DRS for third edition",
    "url": "https://kathmandupost.com/cricket/2026/10/20/nepal-premier-league-to-introduce-drs-for-third-edition",
    "content": "The system will use 3D ball-tracking and AI-based edge detection to help review umpiring decisions, including LBW, run-outs and stumpings.",
@@ -271,13 +278,6 @@
    "title": "Nepal imports 2 million packs of playing cards in two months",
    "url": "https://kathmandupost.com/money/2026/10/18/nepal-imports-2-million-packs-of-playing-cards-in-two-months",
    "content": "The country imported cards worth Rs51.8 million in the first two months of the current fiscal year, generating Rs31.1 million in customs revenue.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Iran urges US to accept proposal to reopen Strait of Hormuz",
-   "url": "https://kathmandupost.com/world/2026/10/18/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz",
-   "content": "Iran’s ​conditions include, among other demands, the lifting of the US blockade on its ports, ‌the lifting of US sanctions on its oil exports as well as ending hostilities on all regional fronts.",
    "published_date": "",
    "score": 0.6
   }

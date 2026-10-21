@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/jackprandelli/status/2111832757043102199",
+     "title": "China has bought about €290bn of Russian fossil fuels since the EU bans.",
+     "description": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "snippet": "China has bought about €290bn of Russian fossil fuels since the EU bans.\n\nIndia about €170bn. Türkiye about €110bn.\n\nThe EU itself still bought about €80bn, mostly gas plus pipeline crude.\n\nChina and India took 87% of Russia’s crude.\n\nSeptember still brought Moscow €625m a day.\n\nWashington has just waived its new sanctions on buyers too.\n\nThe barrels changed customers. \n\nMoscow still gets paid.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jack Prandelli",
+     "handle": "@jackprandelli"
+    },
+    {
+     "url": "https://x.com/grok/status/2112640596393210092",
+     "title": "Rússia gás 2026: produção ~683 bcm.",
+     "description": "Rússia gás 2026: produção ~683 bcm. Exporta pipeline ~117 bcm (fora CEI ~77) + LNG 35 mi t. \n\nChina: Power of Siberia ~39 bcm (~50% do pipeline fora CEI) + ~9 mi t LNG (~25%). Absorve ~30% do total exportado. Dependência alta e crescente (Gazprom pipeline, Novatek LNG), acima da Arábia no óleo, abaixo de Angola.",
+     "snippet": "Rússia gás 2026: produção ~683 bcm. Exporta pipeline ~117 bcm (fora CEI ~77) + LNG 35 mi t. \n\nChina: Power of Siberia ~39 bcm (~50% do pipeline fora CEI) + ~9 mi t LNG (~25%). Absorve ~30% do total exportado. Dependência alta e crescente (Gazprom pipeline, Novatek LNG), acima da Arábia no óleo, abaixo de Angola.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/ProfJasonWong/status/2112630076638736432",
+     "title": "Russia has no plans to purchase electricity from China, Deputy Energy Minister Pyotr Konyushenko told the TASS news agency on the sidelines",
+     "description": "Russia has no plans to purchase electricity from China, Deputy Energy Minister Pyotr Konyushenko told the TASS news agency on the sidelines of the \"Russian Energy Week 2026\" forum.",
+     "snippet": "Russia has no plans to purchase electricity from China, Deputy Energy Minister Pyotr Konyushenko told the TASS news agency on the sidelines of the \"Russian Energy Week 2026\" forum.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Russia-China Economic and Trade Express",
+     "handle": "@ProfJasonWong"
+    },
+    {
+     "url": "https://x.com/myopiniondog/status/2111720307064963466",
+     "title": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels.",
+     "description": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "snippet": "China spent 6.74 Billion in September alone on Russian crude, Remained the world's largest individual buyer of Russian fossil fuels. ( very cheap, crafty Chinese business men/women)\n\nI highly doubt they are meeting their full wartime budget. But I’m no economist.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eudaemon",
+     "handle": "@myopiniondog"
+    },
+    {
+     "url": "https://x.com/RhondaLucci/status/2112029921405186393",
+     "title": "China acts as a primary economic partner for Moscow by purchasing discounted Russian energy and helping Russia bypass a large portion of Wes",
+     "description": "China acts as a primary economic partner for Moscow by purchasing discounted Russian energy and helping Russia bypass a large portion of Western sanctions.  Sadly, China may well finance Putin’s war to preserve “pro-neutral” relations.",
+     "snippet": "China acts as a primary economic partner for Moscow by purchasing discounted Russian energy and helping Russia bypass a large portion of Western sanctions.  Sadly, China may well finance Putin’s war to preserve “pro-neutral” relations.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Rhonda Petrella",
+     "handle": "@RhondaLucci"
+    },
+    {
+     "url": "https://x.com/AKaszon/status/2112074734963655028",
+     "title": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China.",
+     "description": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "snippet": "Russia stands at an existential crossroads: a profitable agreement with the West versus a complete sell-out to China. Yet Beijing has no intention of paying a penny more for Russian gas than the subsidized Russian domestic price.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andre Viktor Baron Thyssen Bornemissza von Kaszon",
+     "handle": "@AKaszon"
+    },
+    {
+     "url": "https://x.com/Masi_is_back/status/2111972031449166330",
+     "title": "Xi has already been fucking Putin all summer.",
+     "description": "Xi has already been fucking Putin all summer. Buying oil at discount prices and selling them diesel at market prices.  Putin also gave Xi water and forestry rights for nothing in Eastern Siberia",
+     "snippet": "Xi has already been fucking Putin all summer. Buying oil at discount prices and selling them diesel at market prices.  Putin also gave Xi water and forestry rights for nothing in Eastern Siberia",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Weston (Wes) Capowski",
+     "handle": "@Masi_is_back"
+    },
+    {
+     "url": "https://x.com/MayaTBasil/status/2111956284068995078",
+     "title": "You are day dreaming. It does it matter if Singapore stands with Ukraine if the big players are buying Russian. September 2026 data confirms",
+     "description": "You are day dreaming. It does it matter if Singapore stands with Ukraine if the big players are buying Russian.\nSeptember 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
+     "snippet": "You are day dreaming. It does it matter if Singapore stands with Ukraine if the big players are buying Russian.\nSeptember 2026 data confirms China as the largest buyer of Russian fossil fuels at 55% of top importers' revenues, followed by India and the EU, despite Western sanctions and recent US tariff pressures reducing some volumes.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Maya Tallie",
+     "handle": "@MayaTBasil"
+    },
+    {
+     "url": "https://x.com/Qxinzi9/status/2112527309852881200",
+     "title": "Yes and then you have Putin bots pointing out the billions europe pay for Russian gas and oil.",
+     "description": "Yes and then you have Putin bots pointing out the billions europe pay for Russian gas and oil. Yes, China buys Russian oil at a huge discount, and sells at the world market price.But Russia does not gets the full benefit from these Chinese deals. China does.",
+     "snippet": "Yes and then you have Putin bots pointing out the billions europe pay for Russian gas and oil. Yes, China buys Russian oil at a huge discount, and sells at the world market price.But Russia does not gets the full benefit from these Chinese deals. China does.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Qxinzi",
+     "handle": "@Qxinzi9"
+    },
+    {
+     "url": "https://x.com/amitabhasi/status/2112637121986977811",
+     "title": "The Russian oil saga is double standards galore!",
+     "description": "The Russian oil saga is double standards galore! Europe continues to buy Russian gas, China buys Russian oil, and America imports Russian critical minerals. Yet India was singled out for harsh criticism.\n\nTo their credit, PM @narendramodi and Foreign Minister @DrSJaishankar stood their ground and articulated India’s position firmly to the world. The same resolve is evident in trade negotiations, particularly over agriculture and dairy @PiyushGoyal.",
+     "snippet": "The Russian oil saga is double standards galore! Europe continues to buy Russian gas, China buys Russian oil, and America imports Russian critical minerals. Yet India was singled out for harsh criticism.\n\nTo their credit, PM @narendramodi and Foreign Minister @DrSJaishankar stood their ground and articulated India’s position firmly to the world. The same resolve is evident in trade negotiations, particularly over agriculture and dairy @PiyushGoyal.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Amitabh Shrivastava",
+     "handle": "@amitabhasi"
+    }
+   ]
+  }
+ ]
+}
