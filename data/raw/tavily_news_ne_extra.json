@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "‘Exceptionally severe’ oil well eruption in Niger raises fears for threatened desert wildlife",
+   "url": "https://news.mongabay.com/short-article/exceptionally-severe-oil-well-eruption-in-niger-raises-fears-for-threatened-desert-wildlife",
+   "snippet": "# ‘Exceptionally severe’ oil well eruption in Niger raises fears for threatened desert wildlife\n\ncover image\n\nElodie Toto\n\n19 Oct 2026 Niger\n\nComments Share article\n\nAn oil well in southern Niger has been spewing crude oil and gas into the air since Sept. 25, damaging nearby installations and raising concerns about the potential impact on wildlife. Authorities reported the situation was still not ",
+   "published": "Mon, 19 Oct 2026 22:01:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger Halts Diesel & Premium Petrol Exports",
+   "url": "https://www.briefs.co/news/niger-bans-diesel-and-premium-petrol-exports",
+   "snippet": "October 17, 2026\n\n### Trump Waives Month-Old Tariff Law to Clear Path for Russian Diesel DealRead more\n\nGlobal Scoop\n\nOctober 17, 2026\n\n### Niger halts diesel and premium petrol exports to shore up local supplyRead more\n\nTechnology\n\nOctober 17, 2026\n\n### Mercedes-AMG rolls out its first homegrown electric SUVRead more\n\nGlobal Scoop\n\nOctober 17, 2026\n\n### John Paulson Pledges $250 Million to Hebrew",
+   "published": "Sat, 17 Oct 2026 20:35:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese oil firms in Niger race to return $5.2 billion in outstanding crude oil export revenues as authorities issue 45-day deadline | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/chinese-oil-firms-in-niger-race-to-return-dollar52-billion-in-outstanding-crude-oil/sbndlp0",
+   "snippet": "The pipeline, which stretches more than 2,000 kilometres, has enabled Niger to move crude oil to international markets. The latest ultimatum places the future of that partnership under pressure as Niamey seeks the repatriation of export earnings it says remain outside the country. [...] Niger has given Chinese oil companies 45 days to resolve alleged breaches of petroleum agreements, mainly concer",
+   "published": "Thu, 15 Oct 2026 16:55:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India customs scrutiny diverts Niger soybeans to Asia at steep discounts, sources say - The Economic Times",
+   "url": "https://m.economictimes.com/news/economy/agriculture/india-customs-scrutiny-diverts-niger-soybeans-to-asia-at-steep-discounts-sources-say/articleshow/134965348.cms",
+   "snippet": "Add ET Logo as a Reliable and Trusted News Source\n\nGoogle Logo Add Now!\n\n  \n(You can now subscribe to our Economic Times WhatsApp channel)\n\nRead More News on\n\nNiger soybeansIndia customs scrutinysoybean imports Indiaimport tax evasionNiger soybean pricesAsian soybean marketNiger origin soybeanscustoms investigation IndiaJawaharlal Nehru Port\n\n(You can now subscribe to our Economic Times WhatsApp c",
+   "published": "Fri, 16 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2026 From Knowledge to Practice: UNODC Supports the Strengthening of Terrorism Case Handling in Niger",
+   "url": "https://www.unodc.org/unodc/en/terrorism/latest-news/2026-from-knowledge-to-practice_-unodc-supports-the-strengthening-of-terrorism-case-handling-in-niger.html",
+   "snippet": "As terrorism continues to pressure criminal justice systems across the Sahel, Niger is strengthening the capacity of justice professionals to handle increasingly complex cases. Terrorism and transnational organized crime cases can involve multiple institutions and evidence sources, requiring close coordination among judicial authorities, law enforcement and security forces, intelligence services a",
+   "published": "Fri, 16 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2026 UNODC Strengthens Niger’s National Capacity for International Judicial Cooperation",
+   "url": "https://www.unodc.org/unodc/en/terrorism/latest-news/2026-unodc-strengthens-nigers-national-capacity-for-international-judicial-cooperation.html",
+   "snippet": "Terrorism and organized crime do not stop at national borders. In the Sahel and West Africa, this is particularly true of networks trafficking guns, drugs and people, and of the violence inflicted by terrorist groups such as Jama'at Nusrat al-Islam wal-Muslimin (JNIM) and the Islamic State in the Greater Sahara (ISGS) in Niger and neighbouring countries. [...] Based on the outcomes of the first se",
+   "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc - France 24",
+   "url": "https://www.france24.com/en/video/20261020-niger-mali-and-burkina-faso-resume-dialogue-with-ecowas-regional-bloc",
+   "snippet": "Issued on:\n\nShare\n\nThree junta-ruled Sahel states – Niger, Mali and Burkina Faso – on Saturday resumed dialogue with the ECOWAS regional bloc, which they withdrew from more than 18 months ago. They agreed to work towards a “framework agreement” on cooperation. FRANCE 24’s regional correspondent Harold Girard tells us more.\n\nKeywords for this article\n\n Africa\n West Africa\n Sahel\n\nIn Kenya, recycled",
+   "published": "Tue, 20 Oct 2026 12:21:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mohamed Ouahbi to Announce Morocco Squad for Niger Qualifiers on November 5",
+   "url": "https://www.moroccoworldnews.com/2026/10/342757/mohamed-ouahbi-to-announce-morocco-squad-for-niger-qualifiers-on-november-5",
+   "snippet": "### Somalia’s Omar Artan to Officiate Morocco-Niger AFCON Qualifier\n\nOctober 18, 2026\n\nBarcelona Lose Garcia, Kounde for Champions League Clash With PSG\n\n### Barcelona Lose Garcia, Kounde for Champions League Clash With PSG\n\nOctober 18, 2026\n\n‘Nothing Justifies It’: Macron Pledges Action After Riots Across France | Created by MWN Design Team\n\n### ‘Nothing Justifies It’: Macron Pledges Action After",
+   "published": "Sun, 18 Oct 2026 16:04:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "JNIM and IS-linked fighting spreads to northwestern Nigeria | UA.NEWS",
+   "url": "https://ua.news/en/world/boyi-jnim-ta-poviazanikh-z-id-ugrupovan-poshirilisia-na-pivnichnii-zakhid-nigeriyi-the-rio-times",
+   "snippet": "In Nigeria, fighting between JNIM and groups linked to the Islamic State has spread to the country’s northwestern regions. As The Rio Times reports, clashes also took place in Burkina Faso, Mali, Niger and western Niger. Analyst Wassim Nasibia described the escalation as unprecedented in scale. [...] On October 10, Ethiopia launched its first gold processing plant, worth $50 million. The facility ",
+   "published": "Fri, 16 Oct 2026 16:46:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nearly 21 months after leaving ECOWAS, breakaway Sahel states agree to negotiate new deal with West African bloc - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/nearly-21-months-after-leaving-ecowas-breakaway-sahel-states-agree-to-negotiate-new/mwhmlnz",
+   "snippet": "* Mali, Burkina Faso, and Niger, having left ECOWAS, are negotiating a formal cooperation deal with the regional bloc. * At a ministerial meeting in Dakar, both sides agreed to establish joint working groups to explore areas of common interest. * Findings from these working groups will be reviewed by ministers before the next session, the date and venue of which remain undecided. * The talks aim t",
+   "published": "Sun, 18 Oct 2026 22:04:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_extra",
  "_query": "Niger latest news",
  "_domains": [],
