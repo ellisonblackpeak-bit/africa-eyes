@@ -494,7 +494,15 @@ CTY_MARKERS = {
            "philippine navy",
            "south china sea", "west philippine sea", "scarborough", "spratly",
            "palawan", "philippine coast guard", "bfar", "菲律宾", "马尼拉",
-           "马科斯", "杜特尔特", "南海", "菲方"],
+           "马科斯", "杜特尔特", "南海", "菲方",
+           # Provinces and cities. "8 Chinese among 18 arrested in Surigao
+           # illegal mining raid" names no country, so it was dropped as
+           # off-topic even though it is a Chinese-national arrest in the
+           # neighbourhood — exactly the class of story the reader asked for.
+           "surigao", "davao", "cebu", "zamboanga", "mindanao", "bataan",
+           "pampanga", "batangas", "cagayan", "leyte", "samar", "bohol",
+           "iloilo", "baguio", "clark", "subic", "tawi-tawi", "sulu",
+           "棉兰老", "宿务", "达沃", "苏里高", "三宝颜", "巴拉望"],
     "mm": ["myanmar", "burma", "burmese", "naypyidaw", "yangon", "mandalay", "rangoon",
            "junta", "tatmadaw", "min aung hlaing", "nug", "pdf myanmar",
            "rohingya", "wa state army", "kokang", "缅甸", "仰光", "内比都",
@@ -1814,8 +1822,24 @@ for fn in news_files:
                     cty_title = (list(_tag_cty0)
                                  if isinstance(_tag_cty0, (list, tuple)) else [_tag_cty0])
                 else:
-                    dropped_offtopic += 1
-                    continue
+                    #  c) A headline that is explicitly about China or the US, from
+                    #     an outlet whose country is known. "8 Chinese among 18
+                    #     arrested in Surigao illegal mining raid" names no state in
+                    #     the headline, and its angle (`cn_illegal`) is not
+                    #     country-specific, so it was counted as off-topic and
+                    #     thrown away — which is precisely the class of story the
+                    #     reader asked for (Chinese nationals arrested / attacked /
+                    #     fined abroad). The outlet's own country is the anchor.
+                    _dom_cty = None
+                    for _suf, _code in DOMAIN_CTY.items():
+                        if dom == _suf or dom.endswith("." + _suf):
+                            _dom_cty = _code
+                            break
+                    if _dom_cty and (CN_RX.search(title) or has_us(title)):
+                        cty_title = [_dom_cty]
+                    else:
+                        dropped_offtopic += 1
+                        continue
         # Full classification uses the body too; the relaxed gate result is merged
         # in so a China story recovered above stays tagged to the region.
         cty = classify_cty(title, body[:1500], dom, u)
