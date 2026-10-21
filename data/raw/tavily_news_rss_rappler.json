@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Theater veteran Enchang Kaimo dies at 77",
+   "url": "https://www.rappler.com/people/obituary/theater-veteran-enchang-kaimo-dies/",
+   "content": "Kaimo co-founded the Christian theater company Trumpets in 1991",
+   "published_date": "Wed, 21 Oct 2026 16:53:36 +0800",
+   "score": 0.6
+  },
+  {
    "title": "EU warns websites may need to be taken offline as PHP prepares patches for vulnerabilities",
    "url": "https://www.rappler.com/technology/european-union-warning-php-vulnerabilities-october-2026/",
    "content": "PHP is used across large parts of the internet, and speculation has circulated over the past day that websites running the software could be exposed to serious cyber intrusions",
@@ -62,13 +69,6 @@
    "url": "https://www.rappler.com/philippines/in-the-public-square-nine-years-after-marawi-seige/",
    "content": "Rappler columnist John Nery is joined by Drieza Lininding, chair of the Moro Consensus Group. Catch the episode on Wednesday, October 21, at 8 pm.",
    "published_date": "Wed, 21 Oct 2026 12:02:32 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Musk ordered slowdown of Starlink service used by Ukraine’s military – report",
-   "url": "https://www.rappler.com/technology/elon-musk-ordered-slowdown-starlink-service-ukraine-military/",
-   "content": "The Wall Street Journal reports Elon Musk and US President Donald Trump discussed the Starlink decision in a call soon after the slowdown became public, while the president was campaigning last week",
-   "published_date": "Wed, 21 Oct 2026 11:29:21 +0800",
    "score": 0.6
   }
  ],

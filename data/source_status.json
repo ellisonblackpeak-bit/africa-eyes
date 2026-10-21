@@ -1,8 +1,8 @@
 {
  "tavily": {
-  "ok": true,
-  "detail": "ok",
-  "at": "2026-10-21T08:30:55+00:00"
+  "ok": false,
+  "detail": "HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+  "at": "2026-10-21T08:58:23+00:00"
  },
  "gdelt": {
   "ok": false,
