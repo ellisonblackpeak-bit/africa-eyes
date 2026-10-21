@@ -1,0 +1,116 @@
+{
+ "query": "United States Niger Mali Sahel AFRICOM cooperation sanctions",
+ "_tag": "soc_us_sahel",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AsstSecStateAF/status/2112675760548811071",
+     "title": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public s",
+     "description": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "snippet": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bureau of African Affairs",
+     "handle": "@AsstSecStateAF"
+    },
+    {
+     "url": "https://x.com/beyondB_DAG/status/2112087038409211908",
+     "title": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱,",
+     "description": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "snippet": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Revolutionary Soldier",
+     "handle": "@beyondB_DAG"
+    },
+    {
+     "url": "https://x.com/grok/status/2112188991910871127",
+     "title": "Primary sources chronologically: May 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/even",
+     "description": "Primary sources chronologically:\n\nMay 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/events/hearings/civilian-harm-under-military-rule-central-sahel\n\nAug 12 2026 McGovern letter to Rubio (targeted Magnitsky sanctions on individuals, rights focus) and press release: https://mcgovern.house.gov/news/documentsingle.aspx?documentid=400389\n\nLetter PDF: https://t.co/bddxRk9I3j\n\nAug 17 coverage: https://t.co/joqs4fG2As\n\nVideo response: https://t.co/TxFGRGTQYy\n\nNo academic journals found.",
+     "snippet": "Primary sources chronologically:\n\nMay 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/events/hearings/civilian-harm-under-military-rule-central-sahel\n\nAug 12 2026 McGovern letter to Rubio (targeted Magnitsky sanctions on individuals, rights focus) and press release: https://mcgovern.house.gov/news/documentsingle.aspx?documentid=400389\n\nLetter PDF: https://t.co/bddxRk9I3j\n\nAug 17 coverage: https://t.co/joqs4fG2As\n\nVideo response: https://t.co/TxFGRGTQYy\n\nNo academic journals found.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112228899153117569",
+     "title": "Yes, largely true. On August 12, 2026, Rep. James P. McGovern (D-MA) wrote to Secretary of State Marco Rubio urging prioritization of human",
+     "description": "Yes, largely true. On August 12, 2026, Rep. James P. McGovern (D-MA) wrote to Secretary of State Marco Rubio urging prioritization of human rights in US engagement with Mali, Burkina Faso, and Niger. He specifically called for designating human rights violators for targeted sanctions under the Global Magnitsky Act, citing abuses by their security forces. The letter is on his official House site.",
+     "snippet": "Yes, largely true. On August 12, 2026, Rep. James P. McGovern (D-MA) wrote to Secretary of State Marco Rubio urging prioritization of human rights in US engagement with Mali, Burkina Faso, and Niger. He specifically called for designating human rights violators for targeted sanctions under the Global Magnitsky Act, citing abuses by their security forces. The letter is on his official House site.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/thecableng/status/2112273664414765438",
+     "title": "Burkina Faso, Niger, Mali, resume talks with ECOWAS — 18 months after withdrawal Burkina Faso, Niger Republic and Mali have resumed talks wi",
+     "description": "Burkina Faso, Niger, Mali, resume talks with ECOWAS — 18 months after withdrawal\n\nBurkina Faso, Niger Republic and Mali have resumed talks with the Economic Community of West African States (ECOWAS), more than 18 months after the three countries withdrew from the regional bloc.\n\nThe two sides agreed on Saturday to establish joint working groups to develop a framework agreement for cooperation.\n\nThe three countries, led by military juntas withdrew from ECOWAS in January 2025 after forming the Alliance of Sahel States (AES), following a series of military coups and tensions with the regional bloc.",
+     "snippet": "Burkina Faso, Niger, Mali, resume talks with ECOWAS — 18 months after withdrawal\n\nBurkina Faso, Niger Republic and Mali have resumed talks with the Economic Community of West African States (ECOWAS), more than 18 months after the three countries withdrew from the regional bloc.\n\nThe two sides agreed on Saturday to establish joint working groups to develop a framework agreement for cooperation.\n\nThe three countries, led by military juntas withdrew from ECOWAS in January 2025 after forming the Alliance of Sahel States (AES), following a series of military coups and tensions with the regional bloc.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TheCable",
+     "handle": "@thecableng"
+    },
+    {
+     "url": "https://x.com/AfricanHub_/status/2112569234005836076",
+     "title": "Mali, Burkina Faso and Niger, which left ECOWAS, are now negotiating a formal cooperation agreement with the bloc.",
+     "description": "Mali, Burkina Faso and Niger, which left ECOWAS, are now negotiating a formal cooperation agreement with the bloc.\n\nAt a ministerial meeting in Dakar both sides agreed to set up joint working groups to look into areas where they still have shared interests. \n\nThe groups’ findings will go back to ministers before the next session, though no date or place has been fixed yet. \n\nThe talks are meant to shape the future relationship, keep economic links alive, and sort out issues around cross-border trade and infrastructure.",
+     "snippet": "Mali, Burkina Faso and Niger, which left ECOWAS, are now negotiating a formal cooperation agreement with the bloc.\n\nAt a ministerial meeting in Dakar both sides agreed to set up joint working groups to look into areas where they still have shared interests. \n\nThe groups’ findings will go back to ministers before the next session, though no date or place has been fixed yet. \n\nThe talks are meant to shape the future relationship, keep economic links alive, and sort out issues around cross-border trade and infrastructure.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "African Hub",
+     "handle": "@AfricanHub_"
+    },
+    {
+     "url": "https://x.com/trtafrika/status/2111710105683046656",
+     "title": "Burkina Faso, Niger and Mali have resumed dialogue with the West African regional bloc, ECOWAS, which they quit over 18 months ago, agreeing",
+     "description": "Burkina Faso, Niger and Mali have resumed dialogue with the West African regional bloc, ECOWAS, which they quit over 18 months ago, agreeing to work together towards a cooperation \"framework agreement\"\nhttps://www.trtafrika.com/english/article/0aa7115215c7",
+     "snippet": "Burkina Faso, Niger and Mali have resumed dialogue with the West African regional bloc, ECOWAS, which they quit over 18 months ago, agreeing to work together towards a cooperation \"framework agreement\"\nhttps://www.trtafrika.com/english/article/0aa7115215c7",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRT Afrika",
+     "handle": "@trtafrika"
+    },
+    {
+     "url": "https://x.com/stopwagnergroup/status/2112151043534401703",
+     "title": "🇷🇺Russia Tightens Its Grip on the 🌴Sahel via the Skies: An Opaque Logistics Network Between January 2025 and July 2026, pro-Russian forces c",
+     "description": "🇷🇺Russia Tightens Its Grip on the 🌴Sahel via the Skies: An Opaque Logistics Network\n\nBetween January 2025 and July 2026, pro-Russian forces conducted ✈️✈️ 75 flights to Mali, Burkina Faso and Niger, according to ADS-B tracking data analysed by @C4ADS. 🇧🇫 Burkina Faso accounts for the bulk of the traffic, followed by Mali, while activity in Niger remains marginal. These rotations — carried out primarily by Soviet-era Antonov An-124 and Ilyushin Il-76 aircraft — sustain Africa Corps, the successor to the Wagner Group, now operating under direct Russian military command.\n\nThis aerial shuttle is more than logistical support. It forms the backbone of a grip that has consolidated since the region’s military coups. In exchange for security guarantees against groups such as JNIM and ISGS, 🇷🇺 Moscow has secured mining concessions, military bases and direct political influence, while remaining largely shielded from accountability. Civilians have paid the price through extrajudicial killings, violence and a continued deterioration of security, even as these forces have proven largely ineffective against armed groups.\n\nOperators combine state entities — notably Flight Unit 224, the Special Flight Squadron and EMERCOM — with private companies, some already under sanctions (Aviacon Zitotrans, Rubystar, Sapsan). This hybrid model obscures attribution and preserves plausible deniability. State aircraft typically transit through Russian-controlled bases in Khmeimim (Syria) and Al-Khadim 🇱🇾(Libya), while private operators favour commercial hubs in Abu Dhabi, Algeria or Turkey. These stopovers act as potential chokepoints: disrupting access to them would significantly complicate resupply. Traffic spikes have coincided with high-level visits (including Ibrahim Traoré’s trip to Moscow in May 2025) and ground offensives. Burkina Faso functions as the main regional hub.\n\nThe transition from Wagner to Africa Corps has changed little on the ground: the same bases, routes and model of resource extraction and predation persist. The Central Sahel remains a strategic node for Russian influence in Africa, underpinned by a discreet, redundant and still difficult-to-disrupt air logistics network.\n\n#AfricaCorps #Wagner #RussianInfluence #Mali #BurkinaFaso #Niger #RussiaAfrica",
+     "snippet": "🇷🇺Russia Tightens Its Grip on the 🌴Sahel via the Skies: An Opaque Logistics Network\n\nBetween January 2025 and July 2026, pro-Russian forces conducted ✈️✈️ 75 flights to Mali, Burkina Faso and Niger, according to ADS-B tracking data analysed by @C4ADS. 🇧🇫 Burkina Faso accounts for the bulk of the traffic, followed by Mali, while activity in Niger remains marginal. These rotations — carried out primarily by Soviet-era Antonov An-124 and Ilyushin Il-76 aircraft — sustain Africa Corps, the successor to the Wagner Group, now operating under direct Russian military command.\n\nThis aerial shuttle is more than logistical support. It forms the backbone of a grip that has consolidated since the region’s military coups. In exchange for security guarantees against groups such as JNIM and ISGS, 🇷🇺 Moscow has secured mining concessions, military bases and direct political influence, while remaining largely shielded from accountability. Civilians have paid the price through extrajudicial killings, violence and a continued deterioration of security, even as these forces have proven largely ineffective against armed groups.\n\nOperators combine state entities — notably Flight Unit 224, the Special Flight Squadron and EMERCOM — with private companies, some already under sanctions (Aviacon Zitotrans, Rubystar, Sapsan). This hybrid model obscures attribution and preserves plausible deniability. State aircraft typically transit through Russian-controlled bases in Khmeimim (Syria) and Al-Khadim 🇱🇾(Libya), while private operators favour commercial hubs in Abu Dhabi, Algeria or Turkey. These stopovers act as potential chokepoints: disrupting access to them would significantly complicate resupply. Traffic spikes have coincided with high-level visits (including Ibrahim Traoré’s trip to Moscow in May 2025) and ground offensives. Burkina Faso functions as the main regional hub.\n\nThe transition from Wagner to Africa Corps has changed little on the ground: the same bases, routes and model of resource extraction and predation persist. The Central Sahel remains a strategic node for Russian influence in Africa, underpinned by a discreet, redundant and still difficult-to-disrupt air logistics network.\n\n#AfricaCorps #Wagner #RussianInfluence #Mali #BurkinaFaso #Niger #RussiaAfrica",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/Ahmadulbadawy/status/2112654211418935594",
+     "title": "This is absolutely wrong! The AES countries (Mali, Niger & Burkina Faso) aren't seeking a return to the ECOWAS bloc.",
+     "description": "This is absolutely wrong!\n\nThe AES countries (Mali, Niger & Burkina Faso) aren't seeking a return to the ECOWAS bloc. What occurred between the two parties was a dialogue to forge a path to mutual cooperation.\n\nAs a matter of fact, realities kept the two sides talking despite the AES States withdrawal from ECOWAS in January 2025. From the outcome of the dialogue, both parties emphasized they want a balanced, realistic framework that protects their peoples’ interests\n\nWhat occurred was a step towards the formalization of a co-existential two-bloc region, and not a step towards the re-integration of AES into ECOWAS.\n\nWe can play politics without distorting facts and truths.",
+     "snippet": "This is absolutely wrong!\n\nThe AES countries (Mali, Niger & Burkina Faso) aren't seeking a return to the ECOWAS bloc. What occurred between the two parties was a dialogue to forge a path to mutual cooperation.\n\nAs a matter of fact, realities kept the two sides talking despite the AES States withdrawal from ECOWAS in January 2025. From the outcome of the dialogue, both parties emphasized they want a balanced, realistic framework that protects their peoples’ interests\n\nWhat occurred was a step towards the formalization of a co-existential two-bloc region, and not a step towards the re-integration of AES into ECOWAS.\n\nWe can play politics without distorting facts and truths.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ahmadulbadawy AbdulRaheem",
+     "handle": "@Ahmadulbadawy"
+    },
+    {
+     "url": "https://x.com/t0talneed/status/2112246195296895125",
+     "title": "ECOWAS threatened military intervention and sanctions against the Alliance of Sahel States 2 years ago.",
+     "description": "ECOWAS threatened military intervention and sanctions against the Alliance of Sahel States 2 years ago. Now, they have come to their senses and are trying a diplomatic approach. No doubt on account of the recent political, economic and military progress of the AES.",
+     "snippet": "ECOWAS threatened military intervention and sanctions against the Alliance of Sahel States 2 years ago. Now, they have come to their senses and are trying a diplomatic approach. No doubt on account of the recent political, economic and military progress of the AES.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Shay",
+     "handle": "@t0talneed"
+    }
+   ]
+  }
+ ]
+}

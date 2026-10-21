@@ -1,0 +1,46 @@
+{
+ "query": "China Vietnam Chinese company railway South China Sea",
+ "_tag": "soc_cn_vn",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/nguyens32401884/status/2111738821352271994",
+     "title": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be comp",
+     "description": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "snippet": "Vietnam will utilize the Chinese-made CR200J (\"Fuxing\") high-speed train on the Lao Cai – Hanoi – Haiphong line, with the project to be completed no later than 2030. 🇻🇳🇻🇳🇻🇳",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Digital Assets Holder",
+     "handle": "@nguyens32401884"
+    },
+    {
+     "url": "https://x.com/nguyen_alex2517/status/2111747526143668488",
+     "title": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ h",
+     "description": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "snippet": "Việt Nam sẽ sử dụng đầu xe lửa và toa tàu tốc độ cao CR200J (Phục Hưng) do Trung Quốc sản xuất trên tuyến Lào Cai - Hà Nội - Hải Phòng, sẽ hoàn thành chậm nhất 2030",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alex Nguyen",
+     "handle": "@nguyen_alex2517"
+    },
+    {
+     "url": "https://x.com/WEILANRAIL/status/2112362051033239970",
+     "title": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this ye",
+     "description": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this year, it had dispatched more than 110,000 TEUs of cargo in total.",
+     "snippet": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this year, it had dispatched more than 110,000 TEUs of cargo in total.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WEILAN RAIL",
+     "handle": "@WEILANRAIL"
+    }
+   ]
+  }
+ ]
+}

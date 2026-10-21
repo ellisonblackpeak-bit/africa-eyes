@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
+   "url": "https://www.rappler.com/technology/malaysia-bans-civil-servants-waze-use-israel-links/",
+   "content": "Prime Minister Anwar Ibrahim recommends the use of TuJu, a domestic mapping app developed by the Malaysian Highway Authority, as an alternative",
+   "published_date": "Wed, 21 Oct 2026 14:50:22 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "De Lima, Diokno, 8 other House lawmakers want China envoy recalled",
+   "url": "https://www.rappler.com/philippines/house-representatives-resolution-marcos-declare-china-jing-quan-persona-non-grata-recall/",
+   "content": "The lawmakers say the President must 'take decisive action in response to statements and conduct that undermine national sovereignty and threaten the country's security'",
+   "published_date": "Wed, 21 Oct 2026 14:25:44 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Musk says SpaceX-Tesla merger is ‘a good idea’ as companies form deal committees",
+   "url": "https://www.rappler.com/technology/elon-musk-spacex-tesla-merger-good-idea-companies-form-deal-committees/",
+   "content": "'I think it would be a good idea, but it's really up to the special committees of both companies,' Elon Musk says in the first official confirmation that the companies were formally talking",
+   "published_date": "Wed, 21 Oct 2026 14:06:09 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Taiwan security agency flags rise in Chinese disinformation ahead of elections",
+   "url": "https://www.rappler.com/world/asia-pacific/taiwan-flags-rise-chinese-disinformation-elections/",
+   "content": "The report says Beijing seeds narratives through state media before amplifying them via troll networks and PR firms, using content farms, AI-generated videos, fake accounts and coordinated comments to sow discord among Taiwanese",
+   "published_date": "Wed, 21 Oct 2026 13:43:15 +0800",
+   "score": 0.6
+  },
+  {
    "title": "New Robinsons Sports & Leisure unit to bring global concepts to the Philippines",
    "url": "https://www.rappler.com/brandrap/robinsons-land-new-sports-leisure-unit-2026/",
    "content": "The new team will is set to shape global concepts and expertise around local interests and lifestyles",
@@ -41,34 +69,6 @@
    "url": "https://www.rappler.com/world/us-canada/issues-defining-2026-us-midterm-elections/",
    "content": "US President Donald Trump's record-low popularity, voter concerns over affordability and a fierce immigration debate are shaping the November 3 US midterm elections, which will determine control of Congress",
    "published_date": "Wed, 21 Oct 2026 08:13:02 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "France to deploy troops, admits to failures over weekend unrest",
-   "url": "https://www.rappler.com/world/europe/france-deploy-troops-admits-failures-weekend-unrest/",
-   "content": "Targeted curfews are implemented to restore calm, with the government admitting to intelligence failures and static police deployments during the unrest",
-   "published_date": "Wed, 21 Oct 2026 07:44:01 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Parts of Northern Luzon to be rainy as Super Typhoon Rosal speeds up",
-   "url": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-21-2026-5am/",
-   "content": "Super Typhoon Rosal (Champi) is located 990 kilometers east of Northern Luzon at 4 am on Wednesday, October 21",
-   "published_date": "Wed, 21 Oct 2026 07:40:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Padayon Cebu: A new space to chat how to make the province more livable",
-   "url": "https://www.rappler.com/philippines/launch-padayon-cebu-chat-room-muni-livable-province/",
-   "content": "Rappler and civil society groups launch a workspace in the Rappler app to push for a better quality of life in Cebu",
-   "published_date": "Wed, 21 Oct 2026 07:30:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "[Vantage Point] GCash ends debut flat at P6.60 as early gains fade",
-   "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-gcash-ends-debut-flat-early-gains-ipo-fade/",
-   "content": "Political theater cannot override market valuation",
-   "published_date": "Wed, 21 Oct 2026 07:00:00 +0800",
    "score": 0.6
   }
  ],

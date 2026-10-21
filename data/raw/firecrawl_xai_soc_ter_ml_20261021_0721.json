@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Wamaps_news/status/2112561022821109888",
+     "title": "MALI 🇲🇱 | Attaques du MSA et de l’EIS dans la région de Ménaka : 🔶 Entre le 15 et le 17/10, le MSA avec l’aide des FAMa et des Russes a atta",
+     "description": "MALI 🇲🇱 | Attaques du MSA et de l’EIS dans la région de Ménaka :\n\n🔶 Entre le 15 et le 17/10, le MSA avec l’aide des FAMa et des Russes a attaqué la maison du chef de l’EIS ainsi que plusieurs maisons dans le village d’In Araban dans la région de Ménaka.\n\n➡️Le MSA (Mouvement pour le salut de l’Azawad) est un groupe politico-militaire touareg créé en 2016 par d’anciens membres du MNLA qui combat activement le terrorisme dans la région.\n\n🔶 Le 18/10, l’EIS en représailles a attaqué la maison du chef du MSA, Moussa Ag Acharatoumane, à Ménaka. Les terroristes ont également attaqué plusieurs autres habitations et notamment des camps de nomades dans les localités de Tinabaw, Esaylal, Arzoli , Tassarast et Tagadayat. Un grand nombre de personnes ont été exécutées, en majorité des hommes.\n\n🔴 Des têtes de bétail auraient également été volées et des maisons incendiées. Ces attaques causent des mouvements de population qui fuient cette insécurité.\n33 éléments du MSA auraient été tués. La communauté idakhasak a déclaré qu’il y aurait 48 morts du côté civil.\n\nℹ️Ce massacre s'inscrit dans un conflit bilatéral pour le contrôle territorial du nord-est du Mali, opposant les assaillants de l'EIS aux forces locales du MSA, alliées du régime de Bamako.\n\nDepuis 2023, aucun pacte officiel n'existe entre l'EIS et le MSA, qui restent en guerre ouverte. À la place, l'EIS impose par la force des accords de soumission locaux aux communautés isolées de la brousse, exigeant l'impôt (zakat) et le désarmement en échange d'une trêve. \nParallèlement, des pactes de non-agression opportunistes sont parfois noués par le MSA avec le JNIM (Al-Qaïda) pour faire front commun contre l'EIS.",
+     "snippet": "MALI 🇲🇱 | Attaques du MSA et de l’EIS dans la région de Ménaka :\n\n🔶 Entre le 15 et le 17/10, le MSA avec l’aide des FAMa et des Russes a attaqué la maison du chef de l’EIS ainsi que plusieurs maisons dans le village d’In Araban dans la région de Ménaka.\n\n➡️Le MSA (Mouvement pour le salut de l’Azawad) est un groupe politico-militaire touareg créé en 2016 par d’anciens membres du MNLA qui combat activement le terrorisme dans la région.\n\n🔶 Le 18/10, l’EIS en représailles a attaqué la maison du chef du MSA, Moussa Ag Acharatoumane, à Ménaka. Les terroristes ont également attaqué plusieurs autres habitations et notamment des camps de nomades dans les localités de Tinabaw, Esaylal, Arzoli , Tassarast et Tagadayat. Un grand nombre de personnes ont été exécutées, en majorité des hommes.\n\n🔴 Des têtes de bétail auraient également été volées et des maisons incendiées. Ces attaques causent des mouvements de population qui fuient cette insécurité.\n33 éléments du MSA auraient été tués. La communauté idakhasak a déclaré qu’il y aurait 48 morts du côté civil.\n\nℹ️Ce massacre s'inscrit dans un conflit bilatéral pour le contrôle territorial du nord-est du Mali, opposant les assaillants de l'EIS aux forces locales du MSA, alliées du régime de Bamako.\n\nDepuis 2023, aucun pacte officiel n'existe entre l'EIS et le MSA, qui restent en guerre ouverte. À la place, l'EIS impose par la force des accords de soumission locaux aux communautés isolées de la brousse, exigeant l'impôt (zakat) et le désarmement en échange d'une trêve. \nParallèlement, des pactes de non-agression opportunistes sont parfois noués par le MSA avec le JNIM (Al-Qaïda) pour faire front commun contre l'EIS.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wamaps",
+     "handle": "@Wamaps_news"
+    },
+    {
+     "url": "https://x.com/SimNasr/status/2112546877480517655",
+     "title": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite d",
+     "description": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "snippet": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wassim Nasr",
+     "handle": "@SimNasr"
+    },
+    {
+     "url": "https://x.com/NewsTongueX/status/2112691839526465692",
+     "title": "🔴 Islamic State Sahel group kills 48 in Mali attack Islamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Ma",
+     "description": "🔴 Islamic State Sahel group kills 48 in Mali attack\n\nIslamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Mali Sunday night into Monday morning, killing 48 people including children and elderly, according to Moussa Ag Acharatoumane, a Tuareg leader and National Transitional Council member.\nThe group accused the civilians of revealing ISSP positions to the Malian army, which had conducted drone strikes against the militants. ISSP operates primarily in Ménaka, where it competes with rival militant group Jama'at Nusrat al-Islam wal-Muslimin (JNIM), and across Burkina Faso and Niger.",
+     "snippet": "🔴 Islamic State Sahel group kills 48 in Mali attack\n\nIslamic State in Sahel Province (ISSP) attacked civilians in Ménaka region of eastern Mali Sunday night into Monday morning, killing 48 people including children and elderly, according to Moussa Ag Acharatoumane, a Tuareg leader and National Transitional Council member.\nThe group accused the civilians of revealing ISSP positions to the Malian army, which had conducted drone strikes against the militants. ISSP operates primarily in Ménaka, where it competes with rival militant group Jama'at Nusrat al-Islam wal-Muslimin (JNIM), and across Burkina Faso and Niger.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NewsTongue",
+     "handle": "@NewsTongueX"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2112295880267333938",
+     "title": "Attaque à Sikasso : Bina Diarra se signale déjà L'attaque menée par le JNIM hier Dimanche 18 Octobre aux abords de Sikasso, est un mauvais p",
+     "description": "Attaque à Sikasso : Bina Diarra se signale déjà\n\nL'attaque menée par le JNIM hier Dimanche 18 Octobre aux abords de Sikasso, est un mauvais présage pour la junte terroriste de Bamako. \n\nAlors que le groupe djihadiste semble affaibli après plusieurs semaines d'intenses affrontements contre son rival de l'EIGS désormais allié de la junte Russafricaine de Bamako, le mouvement pourrait faire démentir les supputations autour de son éventuel incapacité à mener une action d'envergure contre la junte terroriste au pouvoir à Bamako.\n\nCertaines sources rapportent même que le valet de Poutine, Assimi Goita aurait dépêché auprès du mouvement djihadiste, des émissaires afin de s'assurer qu'aucune attaque massive ne serait menée en direction de Bamako pendant son absence du fait du sommet Russie-Afrique prévue en fin Octobre. \n\nLe JNIM pourrait-il profiter de l'absence de Goita pour attaquer Bamako? Le scénario semble envisagé.",
+     "snippet": "Attaque à Sikasso : Bina Diarra se signale déjà\n\nL'attaque menée par le JNIM hier Dimanche 18 Octobre aux abords de Sikasso, est un mauvais présage pour la junte terroriste de Bamako. \n\nAlors que le groupe djihadiste semble affaibli après plusieurs semaines d'intenses affrontements contre son rival de l'EIGS désormais allié de la junte Russafricaine de Bamako, le mouvement pourrait faire démentir les supputations autour de son éventuel incapacité à mener une action d'envergure contre la junte terroriste au pouvoir à Bamako.\n\nCertaines sources rapportent même que le valet de Poutine, Assimi Goita aurait dépêché auprès du mouvement djihadiste, des émissaires afin de s'assurer qu'aucune attaque massive ne serait menée en direction de Bamako pendant son absence du fait du sommet Russie-Afrique prévue en fin Octobre. \n\nLe JNIM pourrait-il profiter de l'absence de Goita pour attaquer Bamako? Le scénario semble envisagé.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/KargnHasret/status/2112479108986720296",
+     "title": "#Mali JNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Ban",
+     "description": "#Mali\nJNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Bandiagara-Douentza axis . Reportedly Toloba's driver was killed in the attack.",
+     "snippet": "#Mali\nJNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Bandiagara-Douentza axis . Reportedly Toloba's driver was killed in the attack.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Hasret Kargın",
+     "handle": "@KargnHasret"
+    },
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112160885095674030",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/mintelworld/status/2112608788687863811",
+     "title": "Islamic State-linked militants have killed at least 48 civilians in the Ménaka region of northeastern Mali.",
+     "description": "Islamic State-linked militants have killed at least 48 civilians in the Ménaka region of northeastern Mali. The attacks reportedly targeted at least five localities, with homes burned and livestock stolen, forcing hundreds of civilians to flee.",
+     "snippet": "Islamic State-linked militants have killed at least 48 civilians in the Ménaka region of northeastern Mali. The attacks reportedly targeted at least five localities, with homes burned and livestock stolen, forcing hundreds of civilians to flee.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mintel World",
+     "handle": "@mintelworld"
+    },
+    {
+     "url": "https://x.com/pavlov3138/status/2112639585800904993",
+     "title": "Islamic State gunmen on motorbikes killed at least 48 civilians at Tagadayat, in Mali's Menaka region, on Sunday and burned homes, says the",
+     "description": "Islamic State gunmen on motorbikes killed at least 48 civilians at Tagadayat, in Mali's Menaka region, on Sunday and burned homes, says the local Idaksahak community, reported by AP. The Russian-backed junta's security promise looks thinner every month.",
+     "snippet": "Islamic State gunmen on motorbikes killed at least 48 civilians at Tagadayat, in Mali's Menaka region, on Sunday and burned homes, says the local Idaksahak community, reported by AP. The Russian-backed junta's security promise looks thinner every month.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roman",
+     "handle": "@pavlov3138"
+    },
+    {
+     "url": "https://x.com/sudo_talon/status/2112071627399950719",
+     "title": "Recently JNIM claimed, 150 soldiers were killed, 93 soldiers were captured , 15 military vehicles and +100 motorcycles were destroyed, 6 mil",
+     "description": "Recently JNIM claimed, 150 soldiers were killed, 93 soldiers were captured , 15 military vehicles and +100 motorcycles were destroyed, 6 military vehicles and large amounts of ammunition were seized in the Mali 🇲🇱 military camp attack in Dioura. #ArmsBlackmarket",
+     "snippet": "Recently JNIM claimed, 150 soldiers were killed, 93 soldiers were captured , 15 military vehicles and +100 motorcycles were destroyed, 6 military vehicles and large amounts of ammunition were seized in the Mali 🇲🇱 military camp attack in Dioura. #ArmsBlackmarket",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sudo Talon ☁️🔧",
+     "handle": "@sudo_talon"
+    }
+   ]
+  }
+ ]
+}

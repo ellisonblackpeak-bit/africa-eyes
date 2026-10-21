@@ -1,0 +1,116 @@
+{
+ "query": "China North Korea South Korea Chinese embassy deal",
+ "_tag": "soc_cn_kr",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AmbDaiBing/status/2112499536568721709",
+     "title": "我今天前往韩国国防部会见了新任国防部长姜信哲，就中韩防务合作和两军关系进行了友好交流。",
+     "description": "我今天前往韩国国防部会见了新任国防部长姜信哲，就中韩防务合作和两军关系进行了友好交流。姜部长在十余年前曾经访华，对中国文化有独到的见解，我们聊得很愉快。希望姜部长任上继续关心促进两国防务合作，增进双方战略互信，助力中韩关系更好发展。",
+     "snippet": "我今天前往韩国国防部会见了新任国防部长姜信哲，就中韩防务合作和两军关系进行了友好交流。姜部长在十余年前曾经访华，对中国文化有独到的见解，我们聊得很愉快。希望姜部长任上继续关心促进两国防务合作，增进双方战略互信，助力中韩关系更好发展。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dai Bing 戴兵 다이빙",
+     "handle": "@AmbDaiBing"
+    },
+    {
+     "url": "https://x.com/NEWSPIMCHINA/status/2112672920267043071",
+     "title": "#韩国 国防部长官姜信哲20日下午在首尔会见 #中国 驻韩国大使戴兵，就韩中国防交流合作及韩半岛局势等问题交换意见。",
+     "description": "#韩国 国防部长官姜信哲20日下午在首尔会见 #中国 驻韩国大使戴兵，就韩中国防交流合作及韩半岛局势等问题交换意见。#NEWSPIM #新闻 https://china.newspim.com/news/view?idx=20261021000023",
+     "snippet": "#韩国 国防部长官姜信哲20日下午在首尔会见 #中国 驻韩国大使戴兵，就韩中国防交流合作及韩半岛局势等问题交换意见。#NEWSPIM #新闻 https://china.newspim.com/news/view?idx=20261021000023",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "韩国纽斯频（NEWSPIM）通讯社",
+     "handle": "@NEWSPIMCHINA"
+    },
+    {
+     "url": "https://x.com/NuclearID68/status/2112496042155418031",
+     "title": "🇰🇷 🇨🇳 South Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges an",
+     "description": "🇰🇷 🇨🇳\nSouth Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges and conditions on the Korean Peninsula.\n\nKang urged Beijing to play a constructive role in maintaining peace and stability, saying heightened tensions also run against China’s interests. Reporting confirms the previously scheduled meeting took place.\n\n#SouthKorea #China #KoreanPeninsula\n\n🔗 Yonhap Publication:",
+     "snippet": "🇰🇷 🇨🇳\nSouth Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges and conditions on the Korean Peninsula.\n\nKang urged Beijing to play a constructive role in maintaining peace and stability, saying heightened tensions also run against China’s interests. Reporting confirms the previously scheduled meeting took place.\n\n#SouthKorea #China #KoreanPeninsula\n\n🔗 Yonhap Publication:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nuclear-ID",
+     "handle": "@NuclearID68"
+    },
+    {
+     "url": "https://x.com/AmbDaiBing/status/2112470624849588381",
+     "title": "10月12—16日，中韩自贸协定第二阶段第17轮谈判在首尔举行。",
+     "description": "10月12—16日，中韩自贸协定第二阶段第17轮谈判在首尔举行。双方就跨境服务贸易和投资负面清单市场准入开展全面深入磋商，取得积极进展。双方同意加快推进并力争早日完成谈判，进一步提升中韩服务投资领域开放水平，为中韩经贸关系发展持续注入动力。",
+     "snippet": "10月12—16日，中韩自贸协定第二阶段第17轮谈判在首尔举行。双方就跨境服务贸易和投资负面清单市场准入开展全面深入磋商，取得积极进展。双方同意加快推进并力争早日完成谈判，进一步提升中韩服务投资领域开放水平，为中韩经贸关系发展持续注入动力。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dai Bing 戴兵 다이빙",
+     "handle": "@AmbDaiBing"
+    },
+    {
+     "url": "https://x.com/AmbDaiBing/status/2111630710239101426",
+     "title": "今年以来，中韩双方涉海部门贯彻落实两国元首重要共识，不断加强沟通合作，增进相互理解信任，共同致力于将黄海建设成为和平、友谊、合作之海。",
+     "description": "今年以来，中韩双方涉海部门贯彻落实两国元首重要共识，不断加强沟通合作，增进相互理解信任，共同致力于将黄海建设成为和平、友谊、合作之海。\n10月8日至17日，中国海警长山舰与韩国无穷花42渔业指导船圆满完成2026年中韩海上执法机构联合执法巡航。此次中韩联巡为加强中韩渔业协定暂定措施水域作业渔船管理，打击非法捕捞、维护渔业生产秩序、养护海洋水产资源发挥了积极作用。",
+     "snippet": "今年以来，中韩双方涉海部门贯彻落实两国元首重要共识，不断加强沟通合作，增进相互理解信任，共同致力于将黄海建设成为和平、友谊、合作之海。\n10月8日至17日，中国海警长山舰与韩国无穷花42渔业指导船圆满完成2026年中韩海上执法机构联合执法巡航。此次中韩联巡为加强中韩渔业协定暂定措施水域作业渔船管理，打击非法捕捞、维护渔业生产秩序、养护海洋水产资源发挥了积极作用。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dai Bing 戴兵 다이빙",
+     "handle": "@AmbDaiBing"
+    },
+    {
+     "url": "https://x.com/AmbDaiBing/status/2112140441026269444",
+     "title": "近日，日本首相高市早苗不顾国内外反对，向靖国神社供奉祭品、祭祀费，多名日本政要前往参拜。",
+     "description": "近日，日本首相高市早苗不顾国内外反对，向靖国神社供奉祭品、祭祀费，多名日本政要前往参拜。中国外交部发言人今天就此表示，中方坚决反对、严厉谴责日方涉靖国神社消极动向，已向日方提出严正交涉、强烈抗议。我注意到，日前韩国外交部和执政党发言人也分别对日方消极动向表达了强烈失望和遗憾。\n靖国神社是日本军国主义对外发动侵略战争的精神工具和象征，供奉着负有严重罪责的14名甲级战犯。中韩等东亚、东南亚多国都曾惨遭日本军国主义侵略。我们强烈敦促日方正视历史、反省罪责，停止在历史问题上的倒行逆施。",
+     "snippet": "近日，日本首相高市早苗不顾国内外反对，向靖国神社供奉祭品、祭祀费，多名日本政要前往参拜。中国外交部发言人今天就此表示，中方坚决反对、严厉谴责日方涉靖国神社消极动向，已向日方提出严正交涉、强烈抗议。我注意到，日前韩国外交部和执政党发言人也分别对日方消极动向表达了强烈失望和遗憾。\n靖国神社是日本军国主义对外发动侵略战争的精神工具和象征，供奉着负有严重罪责的14名甲级战犯。中韩等东亚、东南亚多国都曾惨遭日本军国主义侵略。我们强烈敦促日方正视历史、反省罪责，停止在历史问题上的倒行逆施。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dai Bing 戴兵 다이빙",
+     "handle": "@AmbDaiBing"
+    },
+    {
+     "url": "https://x.com/liumin1988/status/2112390740231983468",
+     "title": "北京协和医院传出，协和医院住院部重症医学科整层楼宇由北京中央警卫局管制，朝鲜驻中国大使将工作地点搬至协和医院，全天候在岗。",
+     "description": "北京协和医院传出，协和医院住院部重症医学科整层楼宇由北京中央警卫局管制，朝鲜驻中国大使将工作地点搬至协和医院，全天候在岗。更流出一张疑似金正恩在北京协和医院特供病房的照片，金正恩全身插管、心功、供血全天监候。",
+     "snippet": "北京协和医院传出，协和医院住院部重症医学科整层楼宇由北京中央警卫局管制，朝鲜驻中国大使将工作地点搬至协和医院，全天候在岗。更流出一张疑似金正恩在北京协和医院特供病房的照片，金正恩全身插管、心功、供血全天监候。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "刘敏",
+     "handle": "@liumin1988"
+    },
+    {
+     "url": "https://x.com/America_Army_/status/2112557174312645064",
+     "title": "Reports are circulating from Peking Union Medical College Hospital that the entire floor of the ICU department in the hospital's inpatient b",
+     "description": "Reports are circulating from Peking Union Medical College Hospital that the entire floor of the ICU department in the hospital's inpatient building is under the control of the Beijing Central Guard Bureau. The North Korean ambassador to China has relocated his workplace to Peking Union Medical College Hospital and is stationed there around the clock. Additionally, a photo purportedly showing Kim Jong-un in a specially designated ward at Peking Union Medical College Hospital in Beijing has surfaced, depicting him with full-body intubation, heart function monitoring, and continuous blood supply oversight.",
+     "snippet": "Reports are circulating from Peking Union Medical College Hospital that the entire floor of the ICU department in the hospital's inpatient building is under the control of the Beijing Central Guard Bureau. The North Korean ambassador to China has relocated his workplace to Peking Union Medical College Hospital and is stationed there around the clock. Additionally, a photo purportedly showing Kim Jong-un in a specially designated ward at Peking Union Medical College Hospital in Beijing has surfaced, depicting him with full-body intubation, heart function monitoring, and continuous blood supply oversight.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "America army",
+     "handle": "@America_Army_"
+    },
+    {
+     "url": "https://x.com/AmbDaiBing/status/2112508139404918863",
+     "title": "오늘 한국 국방부를 방문해 강신철 신임 국방부 장관을 만나 중한 국방협력과 양군 관계에 대해 우호적인 대화를 나눴습니다.",
+     "description": "오늘 한국 국방부를 방문해 강신철 신임 국방부 장관을 만나 중한 국방협력과 양군 관계에 대해 우호적인 대화를 나눴습니다. 강 장관은 10여 년 전 중국을 방문한 경험이 있으며, 중국 문화에 대한 깊은 이해도 갖고 있어 매우 즐거운 대화를 나눴습니다. 강 장관께서 재임 기간에 양국 국방협력 증진에 지속적인 관심을 기울이고, 양측 간 전략적 상호신뢰를 강화해 중한 관계의 발전에 기여해 주시기를 바랍니다.",
+     "snippet": "오늘 한국 국방부를 방문해 강신철 신임 국방부 장관을 만나 중한 국방협력과 양군 관계에 대해 우호적인 대화를 나눴습니다. 강 장관은 10여 년 전 중국을 방문한 경험이 있으며, 중국 문화에 대한 깊은 이해도 갖고 있어 매우 즐거운 대화를 나눴습니다. 강 장관께서 재임 기간에 양국 국방협력 증진에 지속적인 관심을 기울이고, 양측 간 전략적 상호신뢰를 강화해 중한 관계의 발전에 기여해 주시기를 바랍니다.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dai Bing 戴兵 다이빙",
+     "handle": "@AmbDaiBing"
+    },
+    {
+     "url": "https://x.com/AmbDaiBing/status/2111639445632065817",
+     "title": "올해 들어 중한 양국의 해양 관련 부처는 양국 정상 간 중요한 합의 사항을 충실히 이행하여 소통과 협력을 지속적으로 강화하고 상호 이해와 신뢰를 증진시킴으로써 황해를 평화와 우호, 협력의 바다로 만들기 위해 함께 노력해 왔습니다.",
+     "description": "올해 들어 중한 양국의 해양 관련 부처는 양국 정상 간 중요한 합의 사항을 충실히 이행하여 소통과 협력을 지속적으로 강화하고 상호 이해와 신뢰를 증진시킴으로써  황해를 평화와 우호, 협력의 바다로 만들기 위해 함께 노력해 왔습니다.\n10월 8일부터 17일까지 중국 해경 장산함과 한국 어업지도선 무궁화 42호는 2026년 중한 해상 법 집행기관 합동 순찰을 성공적으로 마쳤습니다. 이번 중한 합동 순찰은 중한 어업협정 잠정조치수역 내 조업 어선에 대한 관리를 강화하고, 불법 조업을 단속하며, 어업 생산 질서를 유지하고 해양 수산자원을 보호하는 데 긍정적인 역할을 했습니다.",
+     "snippet": "올해 들어 중한 양국의 해양 관련 부처는 양국 정상 간 중요한 합의 사항을 충실히 이행하여 소통과 협력을 지속적으로 강화하고 상호 이해와 신뢰를 증진시킴으로써  황해를 평화와 우호, 협력의 바다로 만들기 위해 함께 노력해 왔습니다.\n10월 8일부터 17일까지 중국 해경 장산함과 한국 어업지도선 무궁화 42호는 2026년 중한 해상 법 집행기관 합동 순찰을 성공적으로 마쳤습니다. 이번 중한 합동 순찰은 중한 어업협정 잠정조치수역 내 조업 어선에 대한 관리를 강화하고, 불법 조업을 단속하며, 어업 생산 질서를 유지하고 해양 수산자원을 보호하는 데 긍정적인 역할을 했습니다.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dai Bing 戴兵 다이빙",
+     "handle": "@AmbDaiBing"
+    }
+   ]
+  }
+ ]
+}

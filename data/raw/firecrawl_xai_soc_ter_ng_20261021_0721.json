@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/westernpost_ng/status/2111797460196610489",
+     "title": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-",
+     "description": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "snippet": "Lakurawa: FG unveils five-point strategy to tackle banditry in Sokoto https://www.westernpost.ng/lakurawa-fg-unveils-five-point-strategy-to-tackle-banditry-in-sokoto/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Western Post Nigeria",
+     "handle": "@westernpost_ng"
+    },
+    {
+     "url": "https://x.com/Ehis_Peacemaker/status/2112408037050769830",
+     "title": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground?",
+     "description": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "snippet": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ehis Agbon",
+     "handle": "@Ehis_Peacemaker"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2112516290355089456",
+     "title": "Active security situation....",
+     "description": "Active security situation.... Terrorist attack in salawa village gudu axis of sokoto state.....",
+     "snippet": "Active security situation.... Terrorist attack in salawa village gudu axis of sokoto state.....",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/openwatchng/status/2111865374270513479",
+     "title": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.",
+     "description": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "snippet": "Daily brief, Sun 18 Oct: 28 incidents reported, 19 killed across Nigeria.\n\nISWAP landmine kills 8 soldiers in Borno as Boko Haram strikes Adamawa; Zamfara highways under bandit pressure.\n\nHotspots: Borno, Adamawa, Zamfara, Plateau\n#OpenWatchNG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "OpenWatch",
+     "handle": "@openwatchng"
+    },
+    {
+     "url": "https://x.com/9jaupdated/status/2112093852915974518",
+     "title": "Eight soldiers were killed when a patrol vehicle hit an ISWAP landmine in Borno; separate reports cover bandit/herder violence, a Zamfara de",
+     "description": "Eight soldiers were killed when a patrol vehicle hit an ISWAP landmine in Borno; \n\nseparate reports cover bandit/herder violence, a Zamfara deputy governor’s convoy being attacked by angry youths, and other incidents in the North.",
+     "snippet": "Eight soldiers were killed when a patrol vehicle hit an ISWAP landmine in Borno; \n\nseparate reports cover bandit/herder violence, a Zamfara deputy governor’s convoy being attacked by angry youths, and other incidents in the North.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "9jaupdated",
+     "handle": "@9jaupdated"
+    },
+    {
+     "url": "https://x.com/NgrImpact/status/2111853693049950671",
+     "title": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives Bandits on Saturday evening",
+     "description": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "snippet": "(PHOTONEWS): Bandits set more vehicles ablaze in Zamfara community, target 250 as residents flee for dear lives \n\nBandits on Saturday evening invaded Yar Gada community in Magami Ward, Gusau Local Government Area of Zamfara State and set residents vehicles on fire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Impact_Ngr",
+     "handle": "@NgrImpact"
+    },
+    {
+     "url": "https://x.com/TheGist9ja/status/2111871477247090895",
+     "title": "Zamfara is bleeding. 💔 Reports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Da",
+     "description": "Zamfara is bleeding. 💔\n\nReports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Dansadau. Now, travellers on these roads face growing fear.\n\nHow many more lives and livelihoods must be destroyed before security becomes a reality for these people?\n\nWe cant normalise this. 🇳🇬",
+     "snippet": "Zamfara is bleeding. 💔\n\nReports say armed bandits have burnt 12 vehicles, displaced hundreds and imposed a ₦50m levy on communities around Dansadau. Now, travellers on these roads face growing fear.\n\nHow many more lives and livelihoods must be destroyed before security becomes a reality for these people?\n\nWe cant normalise this. 🇳🇬",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DamianEradiri",
+     "handle": "@TheGist9ja"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112429255141265749",
+     "title": "BREAKING: Last night, bandits attacked Ruwan Doruwa community in Maru LGA of Zamfara State, killing one person and abducting two residents,",
+     "description": "BREAKING: Last night, bandits attacked Ruwan Doruwa community in Maru LGA of Zamfara State, killing one person and abducting two residents, Abbas and Buhari.\n\nHow many more lives must be lost, and how many more people abducted, before lasting security reaches these vulnerable communities?\n\nNB: Below are the abductees photo",
+     "snippet": "BREAKING: Last night, bandits attacked Ruwan Doruwa community in Maru LGA of Zamfara State, killing one person and abducting two residents, Abbas and Buhari.\n\nHow many more lives must be lost, and how many more people abducted, before lasting security reaches these vulnerable communities?\n\nNB: Below are the abductees photo",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112539508692402204",
+     "title": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.",
+     "description": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.\n\nThankfully, no one was killed, injured or abducted, and no livestock was looted or rustled before the bandits fled.\n\nKudos to the vigilantes for standing up to the attackers and protecting their community. Their bravery and quick response deserve to be commended",
+     "snippet": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.\n\nThankfully, no one was killed, injured or abducted, and no livestock was looted or rustled before the bandits fled.\n\nKudos to the vigilantes for standing up to the attackers and protecting their community. Their bravery and quick response deserve to be commended",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112248213050663047",
+     "title": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.",
+     "description": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "snippet": "SAD NEWS: This morning, bandits reportedly killed two people along the Adafka–Duhuwa road in Bukkuyum LGA, Zamfara State.\n\nThis afternoon, bandits also blocked a road from Lauwali Junction-Gusau town in Gusau LGA and shot a driver.\n\nHow long must residents and road users continue to live in fear before the authorities take decisive action to protect innocent lives?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    }
+   ]
+  }
+ ]
+}

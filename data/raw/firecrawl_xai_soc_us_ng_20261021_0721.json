@@ -1,0 +1,116 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/USinNigeria/status/2112231225742053819",
+     "title": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence.",
+     "description": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence. Bad actors adapt, so the international response must too. \n \nOpening the 3rd Transatlantic Maritime Security Symposium in Lagos, he pointed to the Gulf of Guinea as proof of what coordinated national, regional, and global effort can achieve. The four-day event focused on strengthening the Yaoundé Code of Conduct and deepening joint patrols.  It was organized by the National Defense University’s Africa Center for Strategic Studies and the William J. Perry Center for Hemispheric Defense Studies.",
+     "snippet": "Consul General Brandon Hudspeth to naval leaders from 30 nations and organizations: Don’t mistake progress for permanence. Bad actors adapt, so the international response must too. \n \nOpening the 3rd Transatlantic Maritime Security Symposium in Lagos, he pointed to the Gulf of Guinea as proof of what coordinated national, regional, and global effort can achieve. The four-day event focused on strengthening the Yaoundé Code of Conduct and deepening joint patrols.  It was organized by the National Defense University’s Africa Center for Strategic Studies and the William J. Perry Center for Hemispheric Defense Studies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Mission Nigeria",
+     "handle": "@USinNigeria"
+    },
+    {
+     "url": "https://x.com/militaryafrica/status/2112221133151854599",
+     "title": "US, Nigeria strengthens counter-terror ties Nigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Souther",
+     "description": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "snippet": "US, Nigeria strengthens counter-terror ties \n\nNigeria’s Minister of Defence, General Christopher Musa (retd), told the head of US Army Southern European Task Force, Africa that Abuja wants closer counter-terrorism ties with Washington. \n\nREAD MORE BELOW",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Military Africa",
+     "handle": "@militaryafrica"
+    },
+    {
+     "url": "https://x.com/USinNigeria/status/2112501887014453407",
+     "title": "U.S. demand for Nigerian cocoa is booming. Cocoa bean exports to the United States jumped from $21.7 million in 2024 to $142 million in 2025",
+     "description": "U.S. demand for Nigerian cocoa is booming. Cocoa bean exports to the United States jumped from $21.7 million in 2024 to $142 million in 2025.\n Trade runs both ways. Wheat makes up 67% of U.S. agricultural exports to Nigeria, helping meet local demand for an important staple.\n Fair, two-way trade that works for farmers, businesses, and families on both sides of the Atlantic.\n\n#DidYouKnow #TradeTuesday",
+     "snippet": "U.S. demand for Nigerian cocoa is booming. Cocoa bean exports to the United States jumped from $21.7 million in 2024 to $142 million in 2025.\n Trade runs both ways. Wheat makes up 67% of U.S. agricultural exports to Nigeria, helping meet local demand for an important staple.\n Fair, two-way trade that works for farmers, businesses, and families on both sides of the Atlantic.\n\n#DidYouKnow #TradeTuesday",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Mission Nigeria",
+     "handle": "@USinNigeria"
+    },
+    {
+     "url": "https://x.com/donlaz4u/status/2112086159752888382",
+     "title": "Nigeria’s health partnership with the US: National sovereignty and domestic financing By Muhammad Ali Pate, Nigeria's Coordinating Minister",
+     "description": "Nigeria’s health partnership with the US: National sovereignty and domestic financing\n\nBy Muhammad Ali Pate, Nigeria's  Coordinating Minister of Health and Social Welfare \n\n_The destination is clear: a health system financed increasingly by Nigeria, governed through Nigerian institutions and able to sustain better outcomes for Nigerians._\n\nFor more than two decades, Nigeria and the United States have worked together on major public-health challenges. Through the US President’s Emergency Plan for AIDS Relief (PEPFAR), the President’s Malaria Initiative, polio eradication, laboratory development, disease surveillance, health security, and contributions through the Global Fund and Gavi, that partnership has saved lives and strengthened institutions on which millions of Nigerians depend.\n\nNigeria values this record of cooperation, but the next phase must serve a clear national purpose. No country of our size can indefinitely finance essential health services through external assistance. Our responsibility is to preserve the gains built with partners, while expanding domestic financing, strengthening Nigerian institutions and ensuring that critical services remain available as the international financing environment changes.\n\n*A National Framework for Transition*\nThat direction was established before the current bilateral arrangement. In December 2023, President Bola Ahmed Tinubu presciently launched the Nigeria Health Sector Renewal Investment Initiative and the Health Sector Renewal Compact, bringing the Federal Government, the 36 states, the Federal Capital Territory and development partners behind a common reform agenda. Through the Sector-Wide Approach, fragmentation and duplication are being reduced, while public and partner resources are, for the first time, being aligned behind one plan, one budget and one report, with clearer responsibility for results and a deliberate transition towards national ownership.\n\nWhen the United States revised its global health approach in 2025 under the then new administration of President Donald Trump, its emphasis on country ownership, country systems, and government-to-government cooperation converged with reforms that Nigeria had already begun. The immediate task was to protect the continuity of treatment and prevent reversals in HIV, tuberculosis, malaria and other essential services, while strengthening the domestic foundations on which those services must ultimately rest.\n\nThe health MoU signed by Nigeria and the United States on 19 December 2025 was negotiated within that policy framework and should be understood in that context. Covering April 2026 to December 2030, it provides a managed transition from externally financed implementation towards stronger use of Nigerian institutions, government systems and domestic resources, while preserving essential services as Nigeria assumes a larger share of their financing and management.\n\n*Financing the Transition* \nThe financing structure under the MoU makes this purpose clear. The planned United States support is nearly $2 billion over five years and declines over the period, while Nigeria plans nearly $3 billion in additional domestic health financing. Nigeria’s contribution is not transferred to the United States; it remains in Nigeria and is applied to priorities determined by Nigeria, including HIV, tuberculosis, malaria, maternal and child health, laboratories, health workers, surveillance, commodities, primary healthcare and health information systems. There is no credible path out of aid dependency that does not require Nigeria to invest more of its own resources in the health of its people.\n\nThe Federal Government had already begun to translate this commitment into the budget. The 2025 federal health budget rose by nearly 60 per cent, increasing health’s share of the national budget to 5.2 per cent from just over 3 per cent. \n.....1/3",
+     "snippet": "Nigeria’s health partnership with the US: National sovereignty and domestic financing\n\nBy Muhammad Ali Pate, Nigeria's  Coordinating Minister of Health and Social Welfare \n\n_The destination is clear: a health system financed increasingly by Nigeria, governed through Nigerian institutions and able to sustain better outcomes for Nigerians._\n\nFor more than two decades, Nigeria and the United States have worked together on major public-health challenges. Through the US President’s Emergency Plan for AIDS Relief (PEPFAR), the President’s Malaria Initiative, polio eradication, laboratory development, disease surveillance, health security, and contributions through the Global Fund and Gavi, that partnership has saved lives and strengthened institutions on which millions of Nigerians depend.\n\nNigeria values this record of cooperation, but the next phase must serve a clear national purpose. No country of our size can indefinitely finance essential health services through external assistance. Our responsibility is to preserve the gains built with partners, while expanding domestic financing, strengthening Nigerian institutions and ensuring that critical services remain available as the international financing environment changes.\n\n*A National Framework for Transition*\nThat direction was established before the current bilateral arrangement. In December 2023, President Bola Ahmed Tinubu presciently launched the Nigeria Health Sector Renewal Investment Initiative and the Health Sector Renewal Compact, bringing the Federal Government, the 36 states, the Federal Capital Territory and development partners behind a common reform agenda. Through the Sector-Wide Approach, fragmentation and duplication are being reduced, while public and partner resources are, for the first time, being aligned behind one plan, one budget and one report, with clearer responsibility for results and a deliberate transition towards national ownership.\n\nWhen the United States revised its global health approach in 2025 under the then new administration of President Donald Trump, its emphasis on country ownership, country systems, and government-to-government cooperation converged with reforms that Nigeria had already begun. The immediate task was to protect the continuity of treatment and prevent reversals in HIV, tuberculosis, malaria and other essential services, while strengthening the domestic foundations on which those services must ultimately rest.\n\nThe health MoU signed by Nigeria and the United States on 19 December 2025 was negotiated within that policy framework and should be understood in that context. Covering April 2026 to December 2030, it provides a managed transition from externally financed implementation towards stronger use of Nigerian institutions, government systems and domestic resources, while preserving essential services as Nigeria assumes a larger share of their financing and management.\n\n*Financing the Transition* \nThe financing structure under the MoU makes this purpose clear. The planned United States support is nearly $2 billion over five years and declines over the period, while Nigeria plans nearly $3 billion in additional domestic health financing. Nigeria’s contribution is not transferred to the United States; it remains in Nigeria and is applied to priorities determined by Nigeria, including HIV, tuberculosis, malaria, maternal and child health, laboratories, health workers, surveillance, commodities, primary healthcare and health information systems. There is no credible path out of aid dependency that does not require Nigeria to invest more of its own resources in the health of its people.\n\nThe Federal Government had already begun to translate this commitment into the budget. The 2025 federal health budget rose by nearly 60 per cent, increasing health’s share of the national budget to 5.2 per cent from just over 3 per cent. \n.....1/3",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Laz Ude Eze",
+     "handle": "@donlaz4u"
+    },
+    {
+     "url": "https://x.com/ABCouncil_ng/status/2112259848872341698",
+     "title": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing d",
+     "description": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing dialogue on trade, critical minerals, energy, infrastructure and security to strengthen bilateral investment and cooperation. #USNigeria",
+     "snippet": "The American Business Council Nigeria and The @Heritage Foundation convened a U.S.-Nigeria Strategic Partnership Forum in Lagos, advancing dialogue on trade, critical minerals, energy, infrastructure and security to strengthen bilateral investment and cooperation. #USNigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "American Business Council NG",
+     "handle": "@ABCouncil_ng"
+    },
+    {
+     "url": "https://x.com/grok/status/2112625362148413854",
+     "title": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest",
+     "description": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest Nigeria. AFRICOM confirmed the strikes targeted ISIS terrorists and were carried out in coordination with Nigerian authorities. Trump directed the operation, announced it that day, and later said he delayed it to Christmas as a \"present\" for the militants.",
+     "snippet": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest Nigeria. AFRICOM confirmed the strikes targeted ISIS terrorists and were carried out in coordination with Nigerian authorities. Trump directed the operation, announced it that day, and later said he delayed it to Christmas as a \"present\" for the militants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/AvTrackGhana/status/2111873220936622415",
+     "title": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending",
+     "description": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending two months on the ground.\n\nThe aircraft operates around the Chad–Nigeria border region, supporting bilateral counterterrorism efforts.",
+     "snippet": "US government special-mission Gulfstream V (N529RL) used for intelligence and surveillance ops, is departing Accra for the US after spending two months on the ground.\n\nThe aircraft operates around the Chad–Nigeria border region, supporting bilateral counterterrorism efforts.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aviation TrackerGH™",
+     "handle": "@AvTrackGhana"
+    },
+    {
+     "url": "https://x.com/Diplo_Watch/status/2112479815362060722",
+     "title": "Burna Boy Meets U.S. Consul General Brandon Hudspeth as Nigeria and America Explore New Creative-Economy Partnerships Continue Reading: http",
+     "description": "Burna Boy Meets U.S. Consul General Brandon Hudspeth as Nigeria and America Explore New Creative-Economy Partnerships\n\nContinue Reading: https://diplomaticwatch.com/burna-boy-meets-u-s-consul-general-brandon-hudspeth-as-nigeria-and-america-explore-new-creative-economy-partnerships/\n\n@USinNigeria @burnaboy @gotebs #Nigeria #UnitedStates",
+     "snippet": "Burna Boy Meets U.S. Consul General Brandon Hudspeth as Nigeria and America Explore New Creative-Economy Partnerships\n\nContinue Reading: https://diplomaticwatch.com/burna-boy-meets-u-s-consul-general-brandon-hudspeth-as-nigeria-and-america-explore-new-creative-economy-partnerships/\n\n@USinNigeria @burnaboy @gotebs #Nigeria #UnitedStates",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DiplomaticWatch",
+     "handle": "@Diplo_Watch"
+    },
+    {
+     "url": "https://x.com/grok/status/2112361417030443131",
+     "title": "Recent US-Nigeria cooperation has delivered intelligence sharing, training, drones and joint operations that supported neutralizing high-val",
+     "description": "Recent US-Nigeria cooperation has delivered intelligence sharing, training, drones and joint operations that supported neutralizing high-value targets and disrupting networks. Expanded surveillance and data fusion can further restrict hiding places for bandits and terrorists while Nigerian forces lead on the ground.",
+     "snippet": "Recent US-Nigeria cooperation has delivered intelligence sharing, training, drones and joint operations that supported neutralizing high-value targets and disrupting networks. Expanded surveillance and data fusion can further restrict hiding places for bandits and terrorists while Nigerian forces lead on the ground.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/Whatmatersmedia/status/2111694004488118713",
+     "title": "Nigeria’s Insecurity Is Rising Again Despite Earlier Progress Following US intervention and security cooperation in Nigeria, the country app",
+     "description": "Nigeria’s Insecurity Is Rising Again Despite Earlier Progress\n\nFollowing US intervention and security cooperation in Nigeria, the country appeared to experience some improvement in the fight against insecurity. However, renewed attacks by insurgents and armed groups are raising fresh concerns about the nation’s security situation.\n\nNigerians are asking: What went wrong, and what more must be done to protect lives and restore lasting peace?\n\n#NigeriaSecurity #Insecurity #Terrorism #WhatMatersMedia",
+     "snippet": "Nigeria’s Insecurity Is Rising Again Despite Earlier Progress\n\nFollowing US intervention and security cooperation in Nigeria, the country appeared to experience some improvement in the fight against insecurity. However, renewed attacks by insurgents and armed groups are raising fresh concerns about the nation’s security situation.\n\nNigerians are asking: What went wrong, and what more must be done to protect lives and restore lasting peace?\n\n#NigeriaSecurity #Insecurity #Terrorism #WhatMatersMedia",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Whatmatters",
+     "handle": "@Whatmatersmedia"
+    }
+   ]
+  }
+ ]
+}
