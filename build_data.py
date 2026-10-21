@@ -1835,7 +1835,13 @@ for fn in news_files:
                         if dom == _suf or dom.endswith("." + _suf):
                             _dom_cty = _code
                             break
-                    if _dom_cty and (CN_RX.search(title) or has_us(title)):
+                    if (_dom_cty and (CN_RX.search(title) or has_us(title))
+                            and not _FOREIGN_RX.search(title)):
+                        # The FOREIGN check matters: "中国要求公民在泰国注意防范
+                        # 诈骗和绑架" ran on khmertimeskh.com and was filed under
+                        # 缅甸 purely because of the masthead. Thailand is not one
+                        # of the twelve monitored countries, so the story is out of
+                        # scope however interesting it is.
                         cty_title = [_dom_cty]
                     else:
                         dropped_offtopic += 1
