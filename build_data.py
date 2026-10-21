@@ -2957,13 +2957,17 @@ for _s in social:
         _soc_out.append(_s)
         continue
     _dup_cross += 1
-    _old = news[_j]
-    if _recency(_s) - _recency(_old) > _NEWER_POST_H * 3600:
-        news[_j] = _s                       # the post carries the newer development
-        _news_kept[_j] = (_k, _sh, _event_marks(_k))
+    if _recency(_s) - _recency(news[_j]) > _NEWER_POST_H * 3600:
+        # The post carries the newer development. Drop the stale ARTICLE and keep
+        # the post in its own list: a post has no `domain`, and putting one into
+        # `news` crashed the outlet statistics with KeyError: 'domain'. Two lists
+        # mean two record shapes, so the swap happens across lists, not inside one.
+        news[_j] = None
+        _soc_out.append(_s)
         _cross_repl += 1
 social = _soc_out
-print("near-duplicates collapsed: news %d+%d, social %d+%d, social-vs-news %d (post replaced article %d)"
+news = [n for n in news if n is not None]
+print("near-duplicates collapsed: news %d+%d, social %d+%d, social-vs-news %d (stale article replaced by post %d)"
       % (_dup_news, _dup_evt_n, _dup_soc, _dup_evt_s, _dup_cross, _cross_repl))
 
 # Country tags get one last check against the copy, so a classifier fix reaches
@@ -3272,7 +3276,14 @@ for (plat, h), items in plat_counts.items():
 
 out_counts = {}
 for n in news:
-    out_counts[n["domain"]] = out_counts.get(n["domain"], 0) + 1
+    # A social post can now replace a news article (the newer-development rule in
+    # the cross-channel pass), and a post carries `platform`/`handle` rather than
+    # `domain`. Reading the key directly crashed the whole build with
+    # KeyError: 'domain'; such a record simply has no outlet to register.
+    _dom = n.get("domain")
+    if not _dom:
+        continue
+    out_counts[_dom] = out_counts.get(_dom, 0) + 1
 for dom, cnt in sorted(out_counts.items(), key=lambda kv: -kv[1]):
     nm, cy, page = outlet_info(dom)
     is_contact = bool(re.search(r"contact", page, re.I))
