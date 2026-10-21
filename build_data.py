@@ -2300,16 +2300,39 @@ if _sum_fixed:
 # few dozen at most); tier 4 is trimmed to its newest TIER4_CAP items. This keeps
 # the page readable and keeps the hourly translation bill bounded, without ever
 # dropping a China / US / government item.
-TIER4_CAP = 30
-# Designated-group items bypass the tier-4 cap entirely.
+TIER4_CAP = 60
+# Some tier-4 items bypass the cap entirely.
 #
 # JNIM / EIGS / MPLJ / ISWAP / Boko Haram / Lakurawa stories have no China, US or
-# government actor, so they are tier 4 — and the 30-item cap threw them away
-# first, which is why the page showed essentially no terror coverage even though
-# the fetch had it. They are the reader's explicit requirement, so they are never
-# capped; the cap now only trims routine regional copy.
-_t4_terror = [n for n in news if n["tier"] == 4 and n.get("terrHit")]
-_t4_other = [n for n in news if n["tier"] == 4 and not n.get("terrHit")]
+# government actor, so they are tier 4 — and the cap threw them away first, which
+# is why the page showed essentially no terror coverage even though the fetch had
+# it.
+#
+# The Niger oil complex is in the same position and the reader asked for it by
+# name. "Oil well blowout in Niger still not under control" names no government
+# and no Chinese firm in a way the tier test recognises, so it was capped out —
+# 428 tier-4 items were being cut to 30, and the well blowout, the 45-day
+# repatriation order and the SORAZ story were all inside that cut. Anything
+# touching the Chinese oil assets (CNPC / SORAZ / Agadem / Zinder / the
+# Niger–Benin pipeline) is therefore never capped, and neither is any
+# China-interest risk event.
+NIGER_OIL_RX = re.compile(
+    r"cnpc|soraz|agadem|zinder|"
+    r"niger[-\s]benin|petrolin|sonidep|"
+    r"oil\s+well|blowout|well\s+(?:eruption|blow-?out)|"
+    r"中石油|中石化|津德尔|索拉兹|阿加德姆|尼贝管道|尼日尔-贝宁|"
+    r"炼油厂|输油管道|油井|井喷", re.I)
+
+
+def _oil_asset(it):
+    return bool(NIGER_OIL_RX.search((it.get("title") or "") + " " +
+                                    (it.get("title_zh") or "")))
+
+
+_t4_protected = [n for n in news if n["tier"] == 4
+                 and (n.get("terrHit") or n.get("riskHit") or _oil_asset(n))]
+_t4_other = [n for n in news if n["tier"] == 4
+             and not (n.get("terrHit") or n.get("riskHit") or _oil_asset(n))]
 # A card with no readable summary is NOT dropped.
 #
 # Dropping looked tidy but cost too much: 121 cards went, including 34 of the 51
@@ -2323,7 +2346,7 @@ for _n in news:
         _n["summary_zh"] = ""
 
 _keep_t1_3 = [n for n in news if n["tier"] != 4]
-_keep_t4 = _t4_terror + _t4_other[:TIER4_CAP]
+_keep_t4 = _t4_protected + _t4_other[:TIER4_CAP]
 capped_off = len(news) - len(_keep_t1_3) - len(_keep_t4)
 news = _keep_t1_3 + _keep_t4
 news.sort(key=lambda n: (-n["_dt"], -n["score"]))
