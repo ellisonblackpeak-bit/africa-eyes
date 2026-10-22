@@ -112,8 +112,11 @@ jobs:
       - name: Assemble site
         run: |
           mkdir -p _site
+          # 两个 workflow 的这一步必须逐字一致：任何一方少拷一个文件，
+          # 它部署一次就会把那个文件从线上抹掉（曾因此让图标 404）。
           cp index.html data.js sw.js manifest.json _site/
           cp *.png _site/ 2>/dev/null || true
+          cp -r assets _site/ 2>/dev/null || true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
