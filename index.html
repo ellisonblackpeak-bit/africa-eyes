@@ -2,6 +2,11 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
+<!-- First paint must already be the globe's colour. Without this the page
+     paints in the light --bg for a frame before #gate covers it, and behind
+     a dark splash screen that reads as a whole extra screen flashing past --
+     exactly the "还有一个页面" the reader reported after installing. -->
+<style>html{background:#020C1A}body.locked{background:#020C1A}</style>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#020C1A">
 <!-- iOS 独立模式下的状态栏底色；与地球页一致，避免顶部出现一条深蓝色带 -->
@@ -410,6 +415,9 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
     var g=document.getElementById('gate');
     if(g&&g.parentNode) g.parentNode.removeChild(g);
     document.body.classList.remove('locked');
+    /* hand the page background back to the content styles, so a bounce-
+       scroll at the bottom shows paper, not space */
+    document.documentElement.style.background='';
   }
 
   /* This screen now opens EVERY time (reader's request, 2026-10-22):
@@ -501,7 +509,11 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
   });
 
   var W=0,H=0,CX=0,CY=0,R=0,DPR=1;
-  var yaw=0.42, tilt=-0.30, spin=0.0038, drag=null, vel=0, last=0, raf=0;
+  /* Starting face: 10°N 12°E — West Africa, the subject of this monitor.
+     The old 0.42/-0.30 put the Indian Ocean at the centre of the sphere,
+     which is why the first frame looked like an empty blue ball.
+     Rule: lon0 = 90° + yaw°, lat0 = tilt°. */
+  var yaw=-1.3614, tilt=0.1745, spin=0.0038, drag=null, vel=0, last=0, raf=0;
   var STARS=[];
   var reduce=!!(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches);
 
@@ -1440,24 +1452,32 @@ if("serviceWorker" in navigator){
       b.classList.toggle('on', b.dataset.v===state.view);});
     var V=document.getElementById('view'), h='';
     if(state.view==='overview'){
+      /* The four teaser rails below share ONE listening queue: what you hear is
+         exactly what is on this screen, in the order it appears. The button used
+         to exist only inside the four module views, so an installed app — which
+         opens on the overview — looked as if 朗读 had been removed. */
+      var _o1=ordered((D.news||[]).filter(function(x){return x.tier===1;})).slice(0,6);
+      var _o2=ordered((D.news||[]).filter(function(x){return x.tier===2;})).slice(0,6);
+      var _o3=ordered((D.news||[]).filter(function(x){return (x.country||[]).some(function(c){return AFRICA_CTYS.indexOf(c)>=0;});})).slice(0,6);
+      var _o4=ordered((D.news||[]).filter(function(x){return (x.country||[]).some(function(c){return PERIPHERY_CTYS.indexOf(c)>=0;});})).slice(0,6);
+      var _ovAll=_o1.concat(_o2,_o3,_o4);
       h+='<div class="callout"><h4>本期要点</h4><ul>'
         +((D.highlights||[]).map(function(x){return '<li>'+esc(x)+'</li>';}).join('')
           ||'<li>本期要点待生成。</li>')+'</ul></div>'
-        + tlStat();
+        + tlStat()
+        + listenBtnHtml(_ovAll.length);
       h+='<div class="sec-title">涉华 · 最新 6 条</div>';
-      h+=ordered((D.news||[]).filter(function(x){return x.tier===1;})).slice(0,6).map(cardNews).join('')
-        ||'<div class="empty">本批近 3 日内没有涉华报道。</div>';
+      h+=_o1.map(cardNews).join('')||'<div class="empty">本批近 3 日内没有涉华报道。</div>';
       h+='<div class="sec-title">涉美 · 最新 6 条</div>';
-      h+=ordered((D.news||[]).filter(function(x){return x.tier===2;})).slice(0,6).map(cardNews).join('')
-        ||'<div class="empty">本批近 3 日内没有涉美报道。</div>';
+      h+=_o2.map(cardNews).join('')||'<div class="empty">本批近 3 日内没有涉美报道。</div>';
       h+='<div class="sec-title">非洲四国（尼日利亚·尼日尔·马里·加纳） · 最新 6 条</div>';
-      h+=ordered((D.news||[]).filter(function(x){return (x.country||[]).some(function(c){return AFRICA_CTYS.indexOf(c)>=0;});})).slice(0,6).map(cardNews).join('')
-        ||'<div class="empty">本批近 3 日内没有非洲四国报道。</div>';
+      h+=_o3.map(cardNews).join('')||'<div class="empty">本批近 3 日内没有非洲四国报道。</div>';
       h+='<div class="sec-title">中国周边国家 · 最新 6 条</div>';
-      h+=ordered((D.news||[]).filter(function(x){return (x.country||[]).some(function(c){return PERIPHERY_CTYS.indexOf(c)>=0;});})).slice(0,6).map(cardNews).join('')
-        ||'<div class="empty">本批近 3 日内没有周边国家报道。</div>';
+      h+=_o4.map(cardNews).join('')||'<div class="empty">本批近 3 日内没有周边国家报道。</div>';
       h+='<div class="note grey" style="margin-top:12px">完整清单请切换上方 4 个模块标签（涉华 / 涉美 / 非洲四国 / 周边国家）。每个模块都支持国家、领域、层级筛选与关键词搜索。</div>';
-      V.innerHTML=h; return;
+      V.innerHTML=h;
+      bindListen(_ovAll);
+      return;
     }
     /* The four axis modules: 涉华 / 涉美 / 非洲四国 / 周边国家.
        Each module is a unified news + social feed filtered by its axis. */
@@ -1624,12 +1644,27 @@ if("serviceWorker" in navigator){
       .replace(/\b[A-Za-z0-9\-]+\.(?:com|ng|gh|org|net|co|uk|fr|de|info|news|tv)\b/gi, '')
       .replace(/展开全文|打开原文|点击查看|阅读更多|Read more/gi, '')
       .replace(/\s+/g, ' ').trim();
-    /* The translator often restates the headline as the first clause of the
-       summary. Reading both sounds like a stutter, so drop the repeat. */
-    var norm = function(x){ return String(x).replace(/[，。、；：！？\s]/g, ''); };
-    if(norm(s).slice(0,12) === norm(t).slice(0,12)){
-      var cut = s.search(/[。！？]/);
-      if(cut >= 0) s = s.slice(cut + 1).replace(/^[，,、\s]+/, '');
+    /* The translator routinely restates the headline as the first sentence of
+       the summary, which sounds like a stutter when read aloud. Comparing only
+       the first twelve characters missed the usual case, where the wording is
+       reworded but the content is the same — "美国在赴华旅行警告中新增错误拘留提醒"
+       versus "美国在中国旅行警告中增加错误拘留警示". So measure how much of the
+       first sentence the headline already covers, and drop it when it is mostly
+       a repeat. */
+    var norm = function(x){ return String(x).replace(/[，。、；：！？（）()\s]/g, ''); };
+    var firstCut = s.search(/[。！？]/);
+    var firstSent = firstCut >= 0 ? s.slice(0, firstCut) : s;
+    var nt = norm(t), nf = norm(firstSent);
+    if(nf && nt){
+      var hit = 0, seen = {};
+      for(var ci = 0; ci < nf.length; ci++){
+        var ch = nf.charAt(ci);
+        if(nt.indexOf(ch) >= 0 && !seen[ch]){ seen[ch] = 1; hit++; }
+      }
+      /* Characters the headline already used, over the headline's length. */
+      if(hit / Math.max(1, nt.length) >= 0.72 && firstCut >= 0){
+        s = s.slice(firstCut + 1).replace(/^[，,、\s]+/, '');
+      }
     }
     /* Two sentences: enough to decide whether to look at the card. */
     var parts = s.match(/[^。！？.!?]+[。！？.!?]?/g) || [];
