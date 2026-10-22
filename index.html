@@ -410,8 +410,14 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
   }
 
   /* A reader who already entered the passcode goes straight in, before any
-     canvas work: no point painting a globe behind a gate being removed. */
-  if(isUnlocked()){ dropGate(); return; }
+     canvas work: no point painting a globe behind a gate being removed.
+
+     `?gate=1` forces the gate back for one visit. Without it there is no way
+     to look at this screen again on a device that has already unlocked it —
+     the stored key wins — which is exactly what happened when the design
+     changed and the reader could no longer see it. */
+  var FORCE=/(?:^|[?&])gate=1(?:&|$)/.test(location.search||'');
+  if(isUnlocked() && !FORCE){ dropGate(); return; }
 
   /* ── the globe ────────────────────────────────────────────────────────────
      A dot-matrix Earth rather than a picture: ~2600 points sampled evenly over
@@ -728,7 +734,8 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
       e.preventDefault();
       var v=(inp.value||'').replace(/\s/g,'');
       if(digest(v)===WANT){
-        try{ localStorage.setItem(KEY,WANT); }catch(e1){}
+        /* a forced preview must not convert itself into a real login */
+        if(!FORCE){ try{ localStorage.setItem(KEY,WANT); }catch(e1){} }
         dropGate();
       }else{
         err.textContent='口令不正确';
