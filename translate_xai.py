@@ -49,8 +49,54 @@ QUEUE = os.path.join(HERE, "data", "queue.json")
 CACHE = os.path.join(HERE, "data", "zh_cache.json")
 OUT = os.path.join(HERE, "data", "zh_auto.json")
 
-API = "https://api.x.ai/v1/chat/completions"
-DEFAULT_MODEL = "grok-4.20-0309-non-reasoning"
+# ── providers ──
+# Two interchangeable chat-completions back-ends. The default is MiniMax-M3 when
+# its key is present, xAI Grok otherwise: MiniMax is reachable from this machine
+# (api.x.ai is not — the system proxy blocks it) and its M3 model is cheaper per
+# character while translating these news items at least as well.
+#
+# `TRANSLATE_PROVIDER` overrides the choice; an unknown value falls back to auto.
+# Whichever runs, the other is kept as a fallback, so a provider outage degrades
+# the Chinese coverage instead of failing the whole refresh.
+PROVIDERS = {
+    "minimax": {
+        "url": lambda: (os.environ.get("MINIMAX_BASE_URL")
+                        or "https://api.minimaxi.com/v1").rstrip("/") + "/chat/completions",
+        "model": lambda: os.environ.get("MINIMAX_MODEL") or "MiniMax-M3",
+        "key": lambda: (os.environ.get("MINIMAX_API_KEY") or "").strip(),
+        # M3 answers with a <think> block unless thinking is switched off, and
+        # those tokens are billed. Off, the same translation costs ~15 tokens
+        # instead of ~72.
+        "extras": {"thinking": {"type": "disabled"}},
+        "json_mode": True,
+    },
+    "xai": {
+        "url": lambda: os.environ.get("XAI_BASE_URL")
+                        or "https://api.x.ai/v1/chat/completions",
+        "model": lambda: os.environ.get("XAI_MODEL")
+                         or "grok-4.20-0309-non-reasoning",
+        "key": lambda: "",       # filled by api_key() below, which has fallbacks
+        "extras": {},
+        "json_mode": True,
+    },
+}
+
+
+def pick_provider():
+    """Which back-end to translate with, and which to fall back to."""
+    want = (os.environ.get("TRANSLATE_PROVIDER") or "").strip().lower()
+    have = {name: bool(cfg["key"]()) for name, cfg in PROVIDERS.items()}
+    have["xai"] = bool(api_key())
+    if want in PROVIDERS and have.get(want):
+        first = want
+    elif have.get("minimax"):
+        first = "minimax"
+    elif have.get("xai"):
+        first = "xai"
+    else:
+        first = "xai"
+    rest = [n for n in PROVIDERS if n != first and have.get(n)]
+    return first, (rest[0] if rest else None)
 
 # ~2600 chars of source per call keeps the reply comfortably inside the output
 # limit while a 4000-char article body still fits in one or two calls.
@@ -135,30 +181,41 @@ def api_key():
     return ""
 
 
-def call(payload_items, key, model, tries=3):
-    """Translate one batch. Returns {key: chinese} for the items that came back."""
+def call(payload_items, provider, tries=3):
+    """Translate one batch with `provider`. Returns {key: chinese} for what came back."""
+    cfg = PROVIDERS[provider]
     body = "\n\n".join(
         "### %s\n%s" % (it["key"], it["en"]) for it in payload_items)
     prompt = (
         "翻译下面 %d 条。输出 JSON 对象，键为每条的 16 位哈希，值为中文译文。\n\n%s"
         % (len(payload_items), body))
-    data = json.dumps({
-        "model": model,
+    payload = {
+        "model": cfg["model"](),
         "messages": [{"role": "system", "content": SYSTEM},
                      {"role": "user", "content": prompt}],
         "temperature": 0,
-        "response_format": {"type": "json_object"},
-    }).encode()
+        "max_tokens": 8000,
+    }
+    if cfg.get("json_mode"):
+        payload["response_format"] = {"type": "json_object"}
+    payload.update(cfg.get("extras") or {})
+    data = json.dumps(payload).encode()
+    url = cfg["url"]()
+    key = cfg["key"]() or api_key()
 
     for attempt in range(tries):
         req = urllib.request.Request(
-            API, data=data,
+            url, data=data,
             headers={"Authorization": "Bearer " + key,
                      "Content-Type": "application/json"})
         try:
             with urllib.request.urlopen(req, timeout=180) as resp:
                 doc = json.loads(resp.read().decode("utf-8"))
             txt = (doc.get("choices") or [{}])[0].get("message", {}).get("content", "")
+            # M3 emits a <think> block when thinking is on (or when a caller
+            # forgets to switch it off). Strip it before parsing rather than
+            # failing the batch on it.
+            txt = re.sub(r"<think>[\s\S]*?</think>", "", txt or "").strip()
             txt = re.sub(r"^```(?:json)?|```$", "", txt.strip(), flags=re.M).strip()
             got = json.loads(txt)
             if isinstance(got, dict):
@@ -167,15 +224,16 @@ def call(payload_items, key, model, tries=3):
             return {}
         except urllib.error.HTTPError as e:
             detail = e.read().decode("utf-8", "replace")[:160]
-            print("      ! http %d %s" % (e.code, detail), flush=True)
+            print("      ! %s http %d %s" % (provider, e.code, detail), flush=True)
             if e.code == 429:
                 time.sleep(20 * (attempt + 1))
                 continue
-            if e.code in (400, 404):
+            if e.code in (400, 404, 401, 403):
                 return {}
             time.sleep(6)
         except Exception as e:
-            print("      ! %s %s" % (type(e).__name__, str(e)[:120]), flush=True)
+            print("      ! %s %s %s" % (provider, type(e).__name__, str(e)[:120]),
+                  flush=True)
             time.sleep(6)
     return {}
 
@@ -217,15 +275,17 @@ def merge_into_cache(keep):
 def main():
     limit = None
     budget = 0
-    model = DEFAULT_MODEL
+    provider, fallback = pick_provider()
+    _P = [provider, fallback]      # mutable so the closure can switch provider
+
     args = sys.argv[1:]
     for i, a in enumerate(args):
         if a == "--limit" and i + 1 < len(args):
             limit = int(args[i + 1])
         if a == "--chars" and i + 1 < len(args):
             budget = int(args[i + 1])
-        if a == "--model" and i + 1 < len(args):
-            model = args[i + 1]
+        if a == "--provider" and i + 1 < len(args):
+            provider = args[i + 1].strip().lower()
 
     if not os.path.exists(QUEUE):
         print("no queue file — nothing to do")
@@ -250,8 +310,12 @@ def main():
     if limit:
         todo = todo[:limit]
 
-    print("queue %d | cached %d | translating %d (model: %s)"
-          % (len(queue), len(cache), len(todo), model), flush=True)
+    _pname = PROVIDERS[provider]["model"]()
+    print("queue %d | cached %d | translating %d (provider: %s / %s)"
+          % (len(queue), len(cache), len(todo), provider, _pname), flush=True)
+    if fallback:
+        print("   fallback available: %s (%s)"
+              % (_P[1], PROVIDERS[_P[1]]["model"]()), flush=True)
     if not todo:
         return
 
@@ -304,7 +368,16 @@ def main():
         silently dropped and the page kept the English. Halving the batch fixes
         both cases at a bounded cost (at most 2**depth extra calls).
         """
-        got = call(batch, key, model)
+        got = call(batch, _P[0])
+        # A provider returning nothing at all is an outage, not a bad batch:
+        # switch to the other one for the rest of the run instead of burning
+        # the retry budget on a dead endpoint. One switch only, so a double
+        # outage still fails loudly rather than ping-ponging forever.
+        if not got and _P[1]:
+            print("   ! %s returned nothing — switching to %s"
+                  % (_P[0], _P[1]), flush=True)
+            _P[0], _P[1] = _P[1], None
+            got = call(batch, _P[0])
         good = {it["key"]: got[it["key"]] for it in batch
                 if zh_ok(it["en"], got.get(it["key"]))}
         if len(good) == len(batch) or depth >= 3 or len(batch) == 1:

@@ -29,6 +29,12 @@ jobs:
       - name: Refresh data
         env:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          # MiniMax-M3 is the translation model. It is reachable from the runner
+          # and cheaper per character than Grok; XAI_API_KEY stays as the
+          # documented fallback in translate_xai.py.
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL }}
+          MINIMAX_BASE_URL: ${{ secrets.MINIMAX_BASE_URL }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           # The whole key pool in one comma-separated string; sources.py rotates
           # down it whenever a key reports its quota is spent.
