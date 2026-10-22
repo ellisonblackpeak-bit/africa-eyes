@@ -290,13 +290,20 @@ def xai_posts(query, days=3, max_results=12, translate=True):
     tool = {"type": "x_search",
             "from_date": (now - timedelta(days=days)).strftime("%Y-%m-%d"),
             "to_date": now.strftime("%Y-%m-%d")}
+    # Retrieval only. This used to ask Grok for textZh and summaryZh as well,
+    # which made the search call also a translation call: slower, and every
+    # post paid for Chinese output twice — once here and again in the
+    # translation queue that MiniMax-M3 drains. The Chinese fields were also
+    # barely used downstream (only as a title fallback). So Grok retrieves, and
+    # translate_xai.py translates; each model does the one thing it is best at.
     prompt = (
         "用 x_search 检索最近 %d 天关于「%s」的 X 帖文，挑出最有信息量的 %d 条。"
         "只输出一个 JSON 对象：\n"
         '{"posts":[{"url":"帖文链接","date":"YYYY-MM-DD","author":"发布者显示名",'
-        '"handle":"@账号","text":"帖文原文","textZh":"完整中文译文","summaryZh":"30-60字中文摘要"}]}\n'
-        "url 必须是 /status/ 链接；text 逐字照录，不要改写；排除纯致谢、表情、无信息量的回复。"
-        "检索不到就返回 {\"posts\":[]}，不要编造。" % (days, query, max_results))
+        '"handle":"@账号","text":"帖文原文"}]}\n'
+        "url 必须是 /status/ 链接；text 逐字照录，不要改写、不要翻译；"
+        "排除纯致谢、表情、无信息量的回复。检索不到就返回 {\"posts\":[]}，不要编造。"
+        % (days, query, max_results))
     payload = {"model": os.environ.get("XAI_SEARCH_MODEL", "grok-4.7"),
                "input": [{"role": "system",
                           "content": "你是开源情报分析员，只使用检索到的真实公开帖文，不得编造。"},
