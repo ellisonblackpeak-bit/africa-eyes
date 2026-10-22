@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "key": "bb8f13cead489c71",
+  "group": "news",
+  "field": "summary",
+  "en": "Kano State Governor, Abba Yusuf, has commended President Bola Tinubu for prioritising the Abuja-Kano road project to boost trade and economic development. Read More: https://punchng.com/kano-gov-hails-tinubu-over-abuja-kano-road-other-projects/"
+ },
+ {
+  "key": "da8a4e3bea2a806a",
+  "group": "news",
+  "field": "summary",
+  "en": "Russian strikes have killed at least seven people across Ukraine, authorities said, shortly after US President Donald Trump’s envoy met with Vladimir Putin Read More: https://punchng.com/russian-strikes-kill-seven-in-ukraine-after-us-envoy-meets-putin/"
+ },
+ {
+  "key": "10da3783f536aa35",
+  "group": "news",
+  "field": "title",
+  "en": "Russian strikes kill seven in Ukraine after US envoy meets Putin"
+ },
+ {
+  "key": "1bfcde1941cfcc43",
+  "group": "news",
+  "field": "title",
+  "en": "Kano gov hails Tinubu over Abuja-Kano road, other projects"
+ }
+]
