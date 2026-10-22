@@ -1,0 +1,116 @@
+{
+ "query": "China North Korea South Korea Chinese embassy deal",
+ "_tag": "soc_cn_kr",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AmbDaiBing/status/2112499536568721709",
+     "title": "我今天前往韩国国防部会见了新任国防部长姜信哲，就中韩防务合作和两军关系进行了友好交流。",
+     "description": "我今天前往韩国国防部会见了新任国防部长姜信哲，就中韩防务合作和两军关系进行了友好交流。姜部长在十余年前曾经访华，对中国文化有独到的见解，我们聊得很愉快。希望姜部长任上继续关心促进两国防务合作，增进双方战略互信，助力中韩关系更好发展。",
+     "snippet": "我今天前往韩国国防部会见了新任国防部长姜信哲，就中韩防务合作和两军关系进行了友好交流。姜部长在十余年前曾经访华，对中国文化有独到的见解，我们聊得很愉快。希望姜部长任上继续关心促进两国防务合作，增进双方战略互信，助力中韩关系更好发展。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dai Bing 戴兵 다이빙",
+     "handle": "@AmbDaiBing"
+    },
+    {
+     "url": "https://x.com/AmbDaiBing/status/2112508139404918863",
+     "title": "오늘 한국 국방부를 방문해 강신철 신임 국방부 장관을 만나 중한 국방협력과 양군 관계에 대해 우호적인 대화를 나눴습니다.",
+     "description": "오늘 한국 국방부를 방문해 강신철 신임 국방부 장관을 만나 중한 국방협력과 양군 관계에 대해 우호적인 대화를 나눴습니다. 강 장관은 10여 년 전 중국을 방문한 경험이 있으며, 중국 문화에 대한 깊은 이해도 갖고 있어 매우 즐거운 대화를 나눴습니다. 강 장관께서 재임 기간에 양국 국방협력 증진에 지속적인 관심을 기울이고, 양측 간 전략적 상호신뢰를 강화해 중한 관계의 발전에 기여해 주시기를 바랍니다.",
+     "snippet": "오늘 한국 국방부를 방문해 강신철 신임 국방부 장관을 만나 중한 국방협력과 양군 관계에 대해 우호적인 대화를 나눴습니다. 강 장관은 10여 년 전 중국을 방문한 경험이 있으며, 중국 문화에 대한 깊은 이해도 갖고 있어 매우 즐거운 대화를 나눴습니다. 강 장관께서 재임 기간에 양국 국방협력 증진에 지속적인 관심을 기울이고, 양측 간 전략적 상호신뢰를 강화해 중한 관계의 발전에 기여해 주시기를 바랍니다.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dai Bing 戴兵 다이빙",
+     "handle": "@AmbDaiBing"
+    },
+    {
+     "url": "https://x.com/WWooki7806/status/2112501561264115937",
+     "title": "다이빙 주한 중국대사가 20일 용산 국방부를 찾아 강신철 국방장관과 한중 국방교류·협력, 한반도 정세를 논의했다.",
+     "description": "다이빙 주한 중국대사가 20일 용산 국방부를 찾아 강신철 국방장관과 한중 국방교류·협력, 한반도 정세를 논의했다. 중국대사의 국방부 방문은 이례적이다. 강 장관은 중국의 KADIZ·서해 활동에 대한 한국 입장을 설명하고 한반도 평화를 위한 건설적 역할을 요청했다.\nhttps://en.fnnews.com/news/202610201925290610",
+     "snippet": "다이빙 주한 중국대사가 20일 용산 국방부를 찾아 강신철 국방장관과 한중 국방교류·협력, 한반도 정세를 논의했다. 중국대사의 국방부 방문은 이례적이다. 강 장관은 중국의 KADIZ·서해 활동에 대한 한국 입장을 설명하고 한반도 평화를 위한 건설적 역할을 요청했다.\nhttps://en.fnnews.com/news/202610201925290610",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wooki",
+     "handle": "@WWooki7806"
+    },
+    {
+     "url": "https://x.com/YetAgainKR/status/2112756857798549563",
+     "title": "2026.10.20 💢동맹 사령관엔 \"항의\", 중국 대사엔 \"지원 요청\" 강신철 , 브런슨 사령관 발언엔 국감서 \"이미 (항의) 전달했다\"더니 닷새 뒤 다이빙 中대사 앞에선 \"중국의 적극적인 지원\"과 \"건설적 역할\"을 당부.",
+     "description": "2026.10.20\n\n💢동맹 사령관엔 \"항의\", 중국 대사엔 \"지원 요청\"\n\n강신철 , 브런슨 사령관 발언엔 국감서 \"이미 (항의) 전달했다\"더니\n\n닷새 뒤 다이빙 中대사 앞에선\n\n \"중국의 적극적인 지원\"과 \"건설적 역할\"을 당부.\n\nKADIZ 무단 진입과 서해 구조물을 이어가는 나라에 평화를 부탁하는 가짜정부의 안보 나침반.",
+     "snippet": "2026.10.20\n\n💢동맹 사령관엔 \"항의\", 중국 대사엔 \"지원 요청\"\n\n강신철 , 브런슨 사령관 발언엔 국감서 \"이미 (항의) 전달했다\"더니\n\n닷새 뒤 다이빙 中대사 앞에선\n\n \"중국의 적극적인 지원\"과 \"건설적 역할\"을 당부.\n\nKADIZ 무단 진입과 서해 구조물을 이어가는 나라에 평화를 부탁하는 가짜정부의 안보 나침반.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "YetAgain",
+     "handle": "@YetAgainKR"
+    },
+    {
+     "url": "https://x.com/YetAgainKR/status/2112761405212598320",
+     "title": "October 20, 2026 💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador At an October 15 parliamentary audit,",
+     "description": "October 20, 2026\n\n💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador\n\nAt an October 15 parliamentary audit, South Korea’s Defense Minister Kang Shin-chul stated that Seoul had “already conveyed” its objection to remarks by USFK Commander Gen. Brunson.\n\nJust five days later, before Chinese Ambassador Dai Bing, he requested China's “active support” and a “constructive role.”\n\nThe same China that repeatedly enters South Korea’s Air Defense Identification Zone (KADIZ) and builds structures in the Yellow Sea.\n\nProtesting to an ally while asking China for peace.\n\nThat is the security compass of this fake government.",
+     "snippet": "October 20, 2026\n\n💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador\n\nAt an October 15 parliamentary audit, South Korea’s Defense Minister Kang Shin-chul stated that Seoul had “already conveyed” its objection to remarks by USFK Commander Gen. Brunson.\n\nJust five days later, before Chinese Ambassador Dai Bing, he requested China's “active support” and a “constructive role.”\n\nThe same China that repeatedly enters South Korea’s Air Defense Identification Zone (KADIZ) and builds structures in the Yellow Sea.\n\nProtesting to an ally while asking China for peace.\n\nThat is the security compass of this fake government.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "YetAgain",
+     "handle": "@YetAgainKR"
+    },
+    {
+     "url": "https://x.com/OhmyNews_Korea/status/2112722371702620567",
+     "title": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003",
+     "description": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277250",
+     "snippet": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277250",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "오마이뉴스",
+     "handle": "@OhmyNews_Korea"
+    },
+    {
+     "url": "https://x.com/NuclearID68/status/2112496042155418031",
+     "title": "🇰🇷 🇨🇳 South Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges an",
+     "description": "🇰🇷 🇨🇳\nSouth Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges and conditions on the Korean Peninsula.\n\nKang urged Beijing to play a constructive role in maintaining peace and stability, saying heightened tensions also run against China’s interests. Reporting confirms the previously scheduled meeting took place.\n\n#SouthKorea #China #KoreanPeninsula\n\n🔗 Yonhap Publication:",
+     "snippet": "🇰🇷 🇨🇳\nSouth Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges and conditions on the Korean Peninsula.\n\nKang urged Beijing to play a constructive role in maintaining peace and stability, saying heightened tensions also run against China’s interests. Reporting confirms the previously scheduled meeting took place.\n\n#SouthKorea #China #KoreanPeninsula\n\n🔗 Yonhap Publication:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nuclear-ID",
+     "handle": "@NuclearID68"
+    },
+    {
+     "url": "https://x.com/DrTaraO/status/2112873527476990457",
+     "title": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.",
+     "description": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.\n\nSouth Korea's 2027 budget does have a new item--set up a foundation for strategic relations with China.\n\nThat is so unpopular in South Korea, where 80-90% of the people, especially the youths, dislike China. They want strong relations with the US.",
+     "snippet": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.\n\nSouth Korea's 2027 budget does have a new item--set up a foundation for strategic relations with China.\n\nThat is so unpopular in South Korea, where 80-90% of the people, especially the youths, dislike China. They want strong relations with the US.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tara O",
+     "handle": "@DrTaraO"
+    },
+    {
+     "url": "https://x.com/rogerJhering/status/2112746506692481363",
+     "title": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "description": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "snippet": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jhering",
+     "handle": "@rogerJhering"
+    },
+    {
+     "url": "https://x.com/songsuwon78/status/2112877920981242170",
+     "title": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "description": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "snippet": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "제2 천안문 자유민주화 1989.6.4",
+     "handle": "@songsuwon78"
+    }
+   ]
+  }
+ ]
+}

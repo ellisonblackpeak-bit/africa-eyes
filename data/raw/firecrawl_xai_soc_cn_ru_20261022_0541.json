@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Washington_Rep/status/2112899066161951146",
+     "title": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️ 🔹 Major Energy Agreement: R",
+     "description": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️\n\n🔹 Major Energy Agreement: Russia says Gazprom and China National Petroleum Corporation (CNPC) could finalize a commercial agreement by the end of the year for natural gas deliveries through the proposed Power of Baikal pipeline, strengthening energy cooperation between Moscow and Beijing.\n\n🔹 Massive Pipeline Project: The proposed pipeline, previously known as Power of Siberia 2, would transport up to 50 billion cubic meters of Russian natural gas annually to China through Mongolia, making it one of the world's largest gas infrastructure projects.\n\n🔹 Russian Government Optimism: Russian Deputy Prime Minister Alexander Novak expressed confidence that both companies could resolve outstanding commercial issues before the year ends, although no final agreement has been announced.\n\n🔹 Exports Could More Than Double: Once fully operational, the new pipeline could help increase Russia's annual natural gas deliveries to China to more than 100 billion cubic meters, compared with approximately 39 billion cubic meters delivered through the existing Power of Siberia pipeline in 2025.\n\n🔹 Replacing European Markets: The project represents a major part of Russia's strategy to redirect natural gas exports toward Asia after losing much of its European market following the invasion of Ukraine and subsequent geopolitical tensions.\n\n🔹 Pricing Remains a Major Obstacle: Negotiations have faced disagreements over gas prices, financing arrangements and supply flexibility. China has sought favorable commercial terms while remaining cautious about becoming excessively dependent on Russian energy.\n\n🔹 Global Energy Implications: A completed agreement could deepen China's access to pipeline gas, strengthen Russia's long term position in Asian energy markets and potentially influence global liquefied natural gas demand and trade patterns.\n\n🔹 Strategic Partnership Expands: The proposed agreement underscores the growing economic relationship between Russia and China, with Moscow seeking dependable energy buyers and Beijing pursuing diversified supplies to support its industrial economy.",
+     "snippet": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️\n\n🔹 Major Energy Agreement: Russia says Gazprom and China National Petroleum Corporation (CNPC) could finalize a commercial agreement by the end of the year for natural gas deliveries through the proposed Power of Baikal pipeline, strengthening energy cooperation between Moscow and Beijing.\n\n🔹 Massive Pipeline Project: The proposed pipeline, previously known as Power of Siberia 2, would transport up to 50 billion cubic meters of Russian natural gas annually to China through Mongolia, making it one of the world's largest gas infrastructure projects.\n\n🔹 Russian Government Optimism: Russian Deputy Prime Minister Alexander Novak expressed confidence that both companies could resolve outstanding commercial issues before the year ends, although no final agreement has been announced.\n\n🔹 Exports Could More Than Double: Once fully operational, the new pipeline could help increase Russia's annual natural gas deliveries to China to more than 100 billion cubic meters, compared with approximately 39 billion cubic meters delivered through the existing Power of Siberia pipeline in 2025.\n\n🔹 Replacing European Markets: The project represents a major part of Russia's strategy to redirect natural gas exports toward Asia after losing much of its European market following the invasion of Ukraine and subsequent geopolitical tensions.\n\n🔹 Pricing Remains a Major Obstacle: Negotiations have faced disagreements over gas prices, financing arrangements and supply flexibility. China has sought favorable commercial terms while remaining cautious about becoming excessively dependent on Russian energy.\n\n🔹 Global Energy Implications: A completed agreement could deepen China's access to pipeline gas, strengthen Russia's long term position in Asian energy markets and potentially influence global liquefied natural gas demand and trade patterns.\n\n🔹 Strategic Partnership Expands: The proposed agreement underscores the growing economic relationship between Russia and China, with Moscow seeking dependable energy buyers and Beijing pursuing diversified supplies to support its industrial economy.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Washington Report",
+     "handle": "@Washington_Rep"
+    },
+    {
+     "url": "https://x.com/MediaQSI/status/2113049613670420914",
+     "title": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year Russia said Gazprom PJSC and China National Petroleum Corp.",
+     "description": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year\n\nRussia said Gazprom PJSC and China National Petroleum Corp. may reach a commercial agreement by year-end on gas supplies via the Power of Baikal link, a route which has the potential to reshape global energy flows.\n\n“We are waiting for our companies to hold commercial talks,” — Russian Deputy Prime Minister Alexander Novak said.\n\n“We hope that by year-end they will reach the necessary agreements,” — he said, referring to deliveries via the future route formerly known as Power of Siberia 2.\n\n#BRICS\n\n@MediaQSI",
+     "snippet": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year\n\nRussia said Gazprom PJSC and China National Petroleum Corp. may reach a commercial agreement by year-end on gas supplies via the Power of Baikal link, a route which has the potential to reshape global energy flows.\n\n“We are waiting for our companies to hold commercial talks,” — Russian Deputy Prime Minister Alexander Novak said.\n\n“We hope that by year-end they will reach the necessary agreements,” — he said, referring to deliveries via the future route formerly known as Power of Siberia 2.\n\n#BRICS\n\n@MediaQSI",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "QSI Media - News, Analytics, World.",
+     "handle": "@MediaQSI"
+    },
+    {
+     "url": "https://x.com/business/status/2112897975622008932",
+     "title": "Russia says Gazprom and China National Petroleum may reach a commercial agreement by year-end on gas supplies via the future Power of Baikal",
+     "description": "Russia says Gazprom and China National Petroleum may reach a commercial agreement by year-end on gas supplies via the future Power of Baikal link https://www.bloomberg.com/news/articles/2026-10-21/russia-says-it-may-agree-on-key-gas-link-with-china-this-year?taid=6ad8bd321cd37f00010f5dc9&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "snippet": "Russia says Gazprom and China National Petroleum may reach a commercial agreement by year-end on gas supplies via the future Power of Baikal link https://www.bloomberg.com/news/articles/2026-10-21/russia-says-it-may-agree-on-key-gas-link-with-china-this-year?taid=6ad8bd321cd37f00010f5dc9&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bloomberg",
+     "handle": "@business"
+    },
+    {
+     "url": "https://x.com/AvinashKS14/status/2112971775869141265",
+     "title": "Russian Deputy PM Novak: Gazprom and CNPC negotiate second gas route to China — 50 billion cubic meters per year Commercial talks expected b",
+     "description": "Russian Deputy PM Novak: Gazprom and CNPC negotiate second gas route to China — 50 billion cubic meters per year\n\nCommercial talks expected by year-end",
+     "snippet": "Russian Deputy PM Novak: Gazprom and CNPC negotiate second gas route to China — 50 billion cubic meters per year\n\nCommercial talks expected by year-end",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Avinash K S🇮🇳",
+     "handle": "@AvinashKS14"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2112961317279850497",
+     "title": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "description": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "snippet": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/financialjuice/status/2112933058982600807",
+     "title": "Chinese Premier: China is ready to work with Russia to deepen practical cooperation in energy resources and others - Xinhua.",
+     "description": "Chinese Premier: China is ready to work with Russia to deepen practical cooperation in energy resources and others - Xinhua.",
+     "snippet": "Chinese Premier: China is ready to work with Russia to deepen practical cooperation in energy resources and others - Xinhua.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FinancialJuice",
+     "handle": "@financialjuice"
+    },
+    {
+     "url": "https://x.com/SanaJournalist1/status/2112974766877643203",
+     "title": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companie",
+     "description": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "snippet": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sara | Journalist",
+     "handle": "@SanaJournalist1"
+    },
+    {
+     "url": "https://x.com/RusOilGasExpert/status/2112913686968852819",
+     "title": "Notice that China practically never says anything about Power of Siberia-2.",
+     "description": "Notice that China practically never says anything about Power of Siberia-2. 95% of the time, it's Russia talking about it, which means it's hard to get a feel for what they are thinking.",
+     "snippet": "Notice that China practically never says anything about Power of Siberia-2. 95% of the time, it's Russia talking about it, which means it's hard to get a feel for what they are thinking.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Russian Oil & Gas Monitor",
+     "handle": "@RusOilGasExpert"
+    },
+    {
+     "url": "https://x.com/markku60906522/status/2112883049901772938",
+     "title": "It's profitable enough for *India*.",
+     "description": "It's profitable enough for *India*.\n\nRussia's entire gas pipeline infrastructure is built to export it to Europe. Good luck piping it to elsewhere. Power of Siberia is a nonstarter. China wants Russian domestic prices for Russian gas.",
+     "snippet": "It's profitable enough for *India*.\n\nRussia's entire gas pipeline infrastructure is built to export it to Europe. Good luck piping it to elsewhere. Power of Siberia is a nonstarter. China wants Russian domestic prices for Russian gas.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Markku",
+     "handle": "@markku60906522"
+    },
+    {
+     "url": "https://x.com/RhondaLucci/status/2112029921405186393",
+     "title": "China acts as a primary economic partner for Moscow by purchasing discounted Russian energy and helping Russia bypass a large portion of Wes",
+     "description": "China acts as a primary economic partner for Moscow by purchasing discounted Russian energy and helping Russia bypass a large portion of Western sanctions.  Sadly, China may well finance Putin’s war to preserve “pro-neutral” relations.",
+     "snippet": "China acts as a primary economic partner for Moscow by purchasing discounted Russian energy and helping Russia bypass a large portion of Western sanctions.  Sadly, China may well finance Putin’s war to preserve “pro-neutral” relations.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Rhonda Petrella",
+     "handle": "@RhondaLucci"
+    }
+   ]
+  }
+ ]
+}

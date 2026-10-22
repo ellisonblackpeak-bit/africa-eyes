@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SimNasr/status/2112546877480517655",
+     "title": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite d",
+     "description": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "snippet": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wassim Nasr",
+     "handle": "@SimNasr"
+    },
+    {
+     "url": "https://x.com/EyeThink_/status/2112794389957468277",
+     "title": "[🇲🇱MALI] Au moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao,",
+     "description": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "snippet": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eye Think",
+     "handle": "@EyeThink_"
+    },
+    {
+     "url": "https://x.com/ilariallegro/status/2112116903938507042",
+     "title": "#Mali The Malian army and its Russian paramilitary allies have killed civilians in violation of international law, @hrw said in a new report",
+     "description": "#Mali\n\nThe Malian army and its Russian paramilitary allies have killed civilians in violation of international law, @hrw said in a new report, which also confirms JNIM summarily executed Malian soldiers following an attack on a military convoy in July.\n\nhttps://www.rfi.fr/en/africa/20261019-malian-army-and-rebels-committing-abuses-against-civilians-rights-group-hrw-says",
+     "snippet": "#Mali\n\nThe Malian army and its Russian paramilitary allies have killed civilians in violation of international law, @hrw said in a new report, which also confirms JNIM summarily executed Malian soldiers following an attack on a military convoy in July.\n\nhttps://www.rfi.fr/en/africa/20261019-malian-army-and-rebels-committing-abuses-against-civilians-rights-group-hrw-says",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ilaria allegrozzi",
+     "handle": "@ilariallegro"
+    },
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/NPoFeedback/status/2112173633540173850",
+     "title": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris.",
+     "description": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris. Il y a quelques jours, des mercenaires affiliés à la junte de #Bamako et des Russes ont attaqué et incendié un village arabe affilié à l’État Islamique (EIGS).",
+     "snippet": "À Ménaka, après une pause et des arrangements locaux, les tueries contre les civils Touaregs Daoussahak ont repris. Il y a quelques jours, des mercenaires affiliés à la junte de #Bamako et des Russes ont attaqué et incendié un village arabe affilié à l’État Islamique (EIGS).",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "New Positive Feedback",
+     "handle": "@NPoFeedback"
+    },
+    {
+     "url": "https://x.com/KargnHasret/status/2112479108986720296",
+     "title": "#Mali JNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Ban",
+     "description": "#Mali\nJNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Bandiagara-Douentza axis . Reportedly Toloba's driver was killed in the attack.",
+     "snippet": "#Mali\nJNIM militants seized the vehicle of Dan Na Ambassagou (Dozo) militia leader Youssouf Toloba during an attack near Djambiya on the Bandiagara-Douentza axis . Reportedly Toloba's driver was killed in the attack.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Hasret Kargın",
+     "handle": "@KargnHasret"
+    },
+    {
+     "url": "https://x.com/HumAngle_/status/2112906881320579519",
+     "title": "When the state’s uncrewed aerial vehicle (UAV) emitted fire from the sky during a counterterrorism operation in Gao, it killed Ahmadu’s enti",
+     "description": "When the state’s uncrewed aerial vehicle (UAV) emitted fire from the sky during a counterterrorism operation in Gao, it killed Ahmadu’s entire family and seven other unarmed locals. The bombing was delivered summarily; only that it fell on the wrong targets, survivors say, noting that the incident has reduced the settlement to a ghost of itself.\n\nTwo years later, only human wreckage is left in the village of Amasrakad, bombarded by the Malian junta in the name of destroying terrorists.",
+     "snippet": "When the state’s uncrewed aerial vehicle (UAV) emitted fire from the sky during a counterterrorism operation in Gao, it killed Ahmadu’s entire family and seven other unarmed locals. The bombing was delivered summarily; only that it fell on the wrong targets, survivors say, noting that the incident has reduced the settlement to a ghost of itself.\n\nTwo years later, only human wreckage is left in the village of Amasrakad, bombarded by the Malian junta in the name of destroying terrorists.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "HumAngle_",
+     "handle": "@HumAngle_"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112160885095674030",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112110067868733656",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Kouliko",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/Milatrud11/status/2112548173579526596",
+     "title": "HRW report: The Malian army (FAMa) and Africa Corps have killed at least 31 civilians in Segou region in Oct 2025 in violation of intl law:",
+     "description": "HRW report: The Malian army (FAMa) and Africa Corps have killed at least 31 civilians in Segou region in Oct 2025 in violation of intl law: \nJNIM summarily executed 19 soldiers following an attack on a military convoy in Tabrichat(Gao region)on Jul 18 2026.https://www.hrw.org/news/2025/11/17/mali-army-militias-massacre-villagers-in-central-region",
+     "snippet": "HRW report: The Malian army (FAMa) and Africa Corps have killed at least 31 civilians in Segou region in Oct 2025 in violation of intl law: \nJNIM summarily executed 19 soldiers following an attack on a military convoy in Tabrichat(Gao region)on Jul 18 2026.https://www.hrw.org/news/2025/11/17/mali-army-militias-massacre-villagers-in-central-region",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mila",
+     "handle": "@Milatrud11"
+    }
+   ]
+  }
+ ]
+}

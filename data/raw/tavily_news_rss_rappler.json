@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Tiu Laurel alleges smear campaign by rice smugglers amid import controversy",
+   "url": "https://www.rappler.com/newsbreak/inside-track/tiu-laurel-smear-campaign-rice-smugglers-rice-import-controversy/",
+   "content": "'I’m clearly under attack,' Agriculture Secretary Francisco Tiu Laurel Jr. tells a Senate panel during a budget hearing",
+   "published_date": "Thu, 22 Oct 2026 13:17:33 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Taiwan probes organized crime links to China’s ‘transnational repression’",
+   "url": "https://www.rappler.com/world/asia-pacific/taiwan-probe-organized-crime-links-transnational-repression/",
+   "content": "Taiwan has complained that Beijing is using various underhanded methods to go after Taiwanese who the Chinese government views as separatists or are otherwise politically suspect",
+   "published_date": "Thu, 22 Oct 2026 13:07:49 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "FACT CHECK: Escudero did not suspend House prosecutor Zamora’s law license",
+   "url": "https://www.rappler.com/newsbreak/fact-check/chiz-escudero-did-not-suspend-ysabel-zamora-law-license/",
+   "content": "Zamora faced sexist remarks over her questioning during the impeachment trial, but no revocation of her law license occurred afterwards, contrary to the claim",
+   "published_date": "Thu, 22 Oct 2026 12:49:23 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack",
+   "url": "https://www.rappler.com/technology/chinese-linked-hackers-compromise-connectwise-global-attack/",
+   "content": "The hackers, which Microsoft tracks as Storm-0940, use an open-source penetration testing framework called ARTEX to carry out the campaign",
+   "published_date": "Thu, 22 Oct 2026 12:13:02 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
+   "url": "https://www.rappler.com/technology/ai-discovered-flaw-php-security-scramble/",
+   "content": "Because a fix is now public and artificial intelligence tools are able to reverse engineer the bug with little effort, experts say they are bracing for a wave of intrusions as hackers jump to get ahead of the updates",
+   "published_date": "Thu, 22 Oct 2026 11:34:27 +0800",
+   "score": 0.6
+  },
+  {
    "title": "Who is Ginbee Go, BPI’s next president and first female CEO?",
    "url": "https://www.rappler.com/people/ginbee-go-bpi-next-president-first-female-ceo/",
    "content": "The 23-year BPI veteran and current consumer banking chief will succeed TG Limcaoco in April 2027",
@@ -34,41 +69,6 @@
    "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
    "content": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
    "published_date": "Thu, 22 Oct 2026 08:32:13 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "[Puso at Diwa] Sara Duterte trial: Is the space for political impunity finally closing?",
-   "url": "https://www.rappler.com/voices/thought-leaders/puso-at-diwa-sara-duterte-trial-space-political-impunity-finally-closing/",
-   "content": "Can the Philippines begin to turn the corner from a culture of impunity toward one of responsibility and the rule of law?",
-   "published_date": "Thu, 22 Oct 2026 08:29:57 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Intense rain possible in Batanes even as Super Typhoon Rosal weakens further",
-   "url": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-22-2026-5am/",
-   "content": "Super Typhoon Rosal (Champi) will be closest to extreme Northern Luzon between Thursday afternoon, October 22, and Friday morning, October 23",
-   "published_date": "Thu, 22 Oct 2026 08:15:50 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "5 practical effects of SC ruling on unprogrammed appropriations",
-   "url": "https://www.rappler.com/philippines/list-effects-supreme-court-ruling-unprogrammed-appropriations/",
-   "content": "Unprogrammed funds are here to stay, but they will ideally be harder to abuse",
-   "published_date": "Thu, 22 Oct 2026 08:15:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Part 1: New candidates in the running to be Marcos’ 2nd SC justice",
-   "url": "https://www.rappler.com/philippines/supreme-court-associate-justice-candidates-marcos-pick-2026-part-1/",
-   "content": "This batch of new applicants is composed of big names, like COA chairperson Gamaliel Cordoba and Sandiganbayan chief Geraldine Faith Econg, among others",
-   "published_date": "Thu, 22 Oct 2026 07:15:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "RESULTS: October 2026 Pharmacists Licensure Examination",
-   "url": "https://www.rappler.com/bulletin-board/examination-results/results-pharmacists-licensure-october-2026/",
-   "content": "PRESS RELEASE: 3,830 out of 4,944 passed the Pharmacists Licensure Examination",
-   "published_date": "Wed, 21 Oct 2026 22:46:36 +0800",
    "score": 0.6
   }
  ],
