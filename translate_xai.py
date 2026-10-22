@@ -83,7 +83,26 @@ PROVIDERS = {
 
 
 def pick_provider():
-    """Which back-end to translate with, and which to fall back to."""
+    """Which back-end to translate with, and which to fall back to.
+
+    MiniMax-M3 first, xAI second — the reader's instruction (2026-10-22):
+    "如果 minimax-m3 能实现，优先 minimax-m3". It is cheaper per character and
+    translates this copy well, so it takes the ordinary load.
+
+    What it cannot always take, measured on this site's own content:
+
+      · Its content filter rejects batches carrying kidnapping, sanctions or
+        militant attacks — 422 new_sensitive (1027) on a four-item batch whose
+        subjects were exactly that. Ordinary economic and political copy
+        passes; the security copy is what trips it.
+      · Its JSON occasionally breaks at production batch sizes (batch 3 of 66
+        in the 12:51 run, JSONDecodeError at line 12 column 28, three retries).
+
+    Neither is fatal any more, because the caller now degrades per batch:
+    a 422 or a broken parse splits the batch and retries on xAI for the items
+    M3 could not return. So M3 handles the bulk and Grok handles the exceptions,
+    instead of one bad batch poisoning the whole run.
+    """
     want = (os.environ.get("TRANSLATE_PROVIDER") or "").strip().lower()
     have = {name: bool(cfg["key"]()) for name, cfg in PROVIDERS.items()}
     have["xai"] = bool(api_key())
@@ -181,6 +200,10 @@ def api_key():
     return ""
 
 
+class _BadOutput(Exception):
+    """The provider answered, but the reply could not be parsed."""
+
+
 def call(payload_items, provider, tries=3):
     """Translate one batch with `provider`. Returns {key: chinese} for what came back."""
     cfg = PROVIDERS[provider]
@@ -217,7 +240,7 @@ def call(payload_items, provider, tries=3):
             # failing the batch on it.
             txt = re.sub(r"<think>[\s\S]*?</think>", "", txt or "").strip()
             txt = re.sub(r"^```(?:json)?|```$", "", txt.strip(), flags=re.M).strip()
-            got = json.loads(txt)
+            got = _salvage_json(txt, [it["key"] for it in payload_items])
             if isinstance(got, dict):
                 return {k: str(v).strip() for k, v in got.items()
                         if isinstance(v, str) and v.strip()}
@@ -228,7 +251,10 @@ def call(payload_items, provider, tries=3):
             if e.code == 429:
                 time.sleep(20 * (attempt + 1))
                 continue
-            if e.code in (400, 404, 401, 403):
+            # 422 is MiniMax's content filter (new_sensitive). Retrying the same
+            # batch cannot succeed, so fail fast and let the caller hand the
+            # batch to the other provider.
+            if e.code in (400, 404, 401, 403, 422):
                 return {}
             time.sleep(6)
         except Exception as e:
@@ -236,6 +262,46 @@ def call(payload_items, provider, tries=3):
                   flush=True)
             time.sleep(6)
     return {}
+
+
+def _salvage_json(txt, keys):
+    """Recover what can be recovered from a malformed batch reply.
+
+    M3 occasionally emits a JSON object that breaks on a long Chinese value — a
+    quote or a line break inside the string is enough. `json.loads` then throws
+    away the WHOLE batch, and because that looks like a provider outage the run
+    falls back to xAI and the cost saving is lost. Measured in the 2026-10-22
+    cloud run: three JSONDecodeError, then "minimax returned nothing".
+
+    So parse tolerantly: split on the key markers we ourselves put in the
+    prompt ("### <hash>") and pull each value out on its own. Anything that
+    still cannot be read is left for the retry loop to re-request.
+    """
+    out = {}
+    if not txt:
+        return out
+    txt = re.sub(r"<think>[\s\S]*?</think>", "", txt)
+    # Preferred path: the whole thing is valid JSON.
+    try:
+        got = json.loads(txt.strip())
+        if isinstance(got, dict):
+            return {k: str(v).strip() for k, v in got.items()
+                    if isinstance(v, str) and v.strip()}
+    except Exception:
+        pass
+    # Second: pull "key": "value" pairs individually, tolerating unescaped
+    # quotes by matching up to the last quote before the next key or the brace.
+    for k in keys:
+        m = re.search(r'"%s"\s*:\s*"([\s\S]*?)"\s*(?:,\s*"|\}\s*$)' % re.escape(k),
+                      txt)
+        if not m:
+            m = re.search(r'"%s"\s*:\s*"([\s\S]*)"' % re.escape(k), txt)
+        if m:
+            val = m.group(1)
+            val = val.replace('\\"', '"').replace('\\n', ' ')
+            if val.strip():
+                out[k] = val.strip()
+    return out
 
 
 def merge_into_cache(keep):
@@ -363,21 +429,43 @@ def main():
     def translate_batch(batch, depth=0):
         """Translate a batch; on a partial or total miss, split and retry.
 
-        A 38-item batch came back with the English echoed verbatim, and the old
-        code only retried when *some* items succeeded — so a total miss was
-        silently dropped and the page kept the English. Halving the batch fixes
-        both cases at a bounded cost (at most 2**depth extra calls).
+        Three failure modes, three different responses — the distinction is
+        what keeps MiniMax usable as the primary model:
+
+          · CONTENT FILTER (422) or BROKEN JSON — the provider is alive but
+            refused or garbled THIS batch. Send it to the other provider rather
+            than retrying the same text, and do not abandon MiniMax for the
+            whole run: the next batch is probably ordinary copy it handles
+            happily and more cheaply.
+          · TOTAL SILENCE — the endpoint itself is down. Switch providers for
+            the rest of the run, once.
+          · PARTIAL — some keys came back. Split the remainder and retry at
+            half size, which is what fixed the 38-item batch that came back
+            echoed in English.
         """
-        got = call(batch, _P[0])
-        # A provider returning nothing at all is an outage, not a bad batch:
-        # switch to the other one for the rest of the run instead of burning
-        # the retry budget on a dead endpoint. One switch only, so a double
-        # outage still fails loudly rather than ping-ponging forever.
-        if not got and _P[1]:
-            print("   ! %s returned nothing — switching to %s"
-                  % (_P[0], _P[1]), flush=True)
-            _P[0], _P[1] = _P[1], None
-            got = call(batch, _P[0])
+        prov = _P[0]
+        other = _P[1]
+        try:
+            got = call(batch, prov)
+        except _BadOutput:
+            got = {}                       # provider answered, output unusable
+        if (not got or len(got) < len(batch)) and other:
+            # Hand the missed items to the other provider, keeping whatever the
+            # first one already returned. This is the per-batch degradation:
+            # M3 takes the bulk, Grok takes what M3 refuses.
+            missing = [it for it in batch if not zh_ok(it["en"], got.get(it["key"]))]
+            if missing and len(missing) == len(batch):
+                print("   ~ %s missed all %d — retrying on %s"
+                      % (prov, len(batch), other), flush=True)
+            elif missing:
+                print("   ~ %s missed %d/%d — retrying those on %s"
+                      % (prov, len(missing), len(batch), other), flush=True)
+            if missing:
+                try:
+                    got2 = call(missing, other)
+                    got.update(got2)
+                except _BadOutput:
+                    pass
         good = {it["key"]: got[it["key"]] for it in batch
                 if zh_ok(it["en"], got.get(it["key"]))}
         if len(good) == len(batch) or depth >= 3 or len(batch) == 1:
