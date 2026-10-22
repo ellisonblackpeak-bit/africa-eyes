@@ -1,0 +1,96 @@
+{
+ "query": "Mali China Chinese company agreement Bamako",
+ "_tag": "soc_cn_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/OrNoirAfrica/status/2112257676692406637",
+     "title": "Mali : Jinko ESS annonce 34 systèmes de stockage, soit 18 MWh, pour les télécoms.",
+     "description": "Mali : Jinko ESS annonce 34 systèmes de stockage, soit 18 MWh, pour les télécoms. Enjeu : réduire la dépendance au diesel. Sites et calendrier restent à préciser.\n\n#Mali #Batteries\nhttps://ornoir.africa/mali-jinko-ess-fournira-18-mwh-de-batteries-pour-les-telecommunications/",
+     "snippet": "Mali : Jinko ESS annonce 34 systèmes de stockage, soit 18 MWh, pour les télécoms. Enjeu : réduire la dépendance au diesel. Sites et calendrier restent à préciser.\n\n#Mali #Batteries\nhttps://ornoir.africa/mali-jinko-ess-fournira-18-mwh-de-batteries-pour-les-telecommunications/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Or Noir Africa - Pétrole, Gaz & Énergie - Afrique",
+     "handle": "@OrNoirAfrica"
+    },
+    {
+     "url": "https://x.com/_africabusiness/status/2112073640208380188",
+     "title": "China’s Jinko ESS has signed an agreement to supply 18 megawatt-hours of battery storage for a telecommunications project in Mali… Read more",
+     "description": "China’s Jinko ESS has signed an agreement to supply 18 megawatt-hours of battery storage for a telecommunications project in Mali…\n\nRead more; https://africabusinessinsight.com/malis-push-to-cut-diesel-use-in-telecoms-opens-market-for-energy-storage/\n\n#AfricaBusinessInsight #AfricaBusinessInsightNews",
+     "snippet": "China’s Jinko ESS has signed an agreement to supply 18 megawatt-hours of battery storage for a telecommunications project in Mali…\n\nRead more; https://africabusinessinsight.com/malis-push-to-cut-diesel-use-in-telecoms-opens-market-for-energy-storage/\n\n#AfricaBusinessInsight #AfricaBusinessInsightNews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Africa Business Insight",
+     "handle": "@_africabusiness"
+    },
+    {
+     "url": "https://x.com/ecofinagency/status/2112045727673122960",
+     "title": "China’s Jinko ESS Signs Deal to Supply 18 MWh of Batteries for Mali’s Telecom Sector https://www.ecofinagency.com/news-infrastructures/1910-",
+     "description": "China’s Jinko ESS Signs Deal to Supply 18 MWh of Batteries for Mali’s Telecom Sector https://www.ecofinagency.com/news-infrastructures/1910-59889-china-s-jinko-ess-signs-deal-to-supply-18-mwh-of-batteries-for-mali-s-telecom-sector",
+     "snippet": "China’s Jinko ESS Signs Deal to Supply 18 MWh of Batteries for Mali’s Telecom Sector https://www.ecofinagency.com/news-infrastructures/1910-59889-china-s-jinko-ess-signs-deal-to-supply-18-mwh-of-batteries-for-mali-s-telecom-sector",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ecofin Agency",
+     "handle": "@ecofinagency"
+    },
+    {
+     "url": "https://x.com/sahelinfo223/status/2112654192301289959",
+     "title": "🇲🇱 #MaliKura en marche : Bamako, carrefour de l'investissement mondial Les 11 et 12 décembre, la capitale accueillera plus de 400 investisse",
+     "description": "🇲🇱 #MaliKura en marche : Bamako, carrefour de l'investissement mondial\nLes 11 et 12 décembre, la capitale accueillera plus de 400 investisseurs internationaux à l'occasion du premier Forum International de l’Investissement au Mali, placé sous le haut patronage du Président de la Transition, le Général d’Armée Assimi #Goïta.\nSept nations partenaires à l'honneur :\n🇧🇫 Burkina Faso | 🇳🇪 Niger | 🇷🇺 Russie | 🇨🇳 Chine | 🇮🇳 Inde | 🇹🇷 Turquie | 🇲🇦 Maroc\n#Mali #InvestInMali #AES #Economie",
+     "snippet": "🇲🇱 #MaliKura en marche : Bamako, carrefour de l'investissement mondial\nLes 11 et 12 décembre, la capitale accueillera plus de 400 investisseurs internationaux à l'occasion du premier Forum International de l’Investissement au Mali, placé sous le haut patronage du Président de la Transition, le Général d’Armée Assimi #Goïta.\nSept nations partenaires à l'honneur :\n🇧🇫 Burkina Faso | 🇳🇪 Niger | 🇷🇺 Russie | 🇨🇳 Chine | 🇮🇳 Inde | 🇹🇷 Turquie | 🇲🇦 Maroc\n#Mali #InvestInMali #AES #Economie",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahelinfo223",
+     "handle": "@sahelinfo223"
+    },
+    {
+     "url": "https://x.com/saheliens/status/2112640725380714614",
+     "title": "#Mali 🇲🇱 #MaliKura : Bamako s’apprête à accueillir plus de 400 investisseurs internationaux les 11 et 12 décembre Le Président Assimi #Goïta",
+     "description": "#Mali 🇲🇱 #MaliKura : Bamako s’apprête à accueillir plus de 400 investisseurs internationaux les 11 et 12 décembre\n\nLe Président Assimi #Goïta parraine le premier Forum International de l’Investissement au Mali  Plus de 400 investisseurs sont attendus les 11 et 12 décembre 2026 à #Bamako pour le Forum International de l’Investissement au Mali (Forum du Mali Kura), organisé sous le haut patronage du Général d’Armée Assimi Goïta. \nSept pays d’honneur y sont invités : le #BurkinaFaso, le #Niger, la #Russie, la #Chine, l’#Inde, la #Turquie et le #Maroc. \n#Mali #Saheliens",
+     "snippet": "#Mali 🇲🇱 #MaliKura : Bamako s’apprête à accueillir plus de 400 investisseurs internationaux les 11 et 12 décembre\n\nLe Président Assimi #Goïta parraine le premier Forum International de l’Investissement au Mali  Plus de 400 investisseurs sont attendus les 11 et 12 décembre 2026 à #Bamako pour le Forum International de l’Investissement au Mali (Forum du Mali Kura), organisé sous le haut patronage du Général d’Armée Assimi Goïta. \nSept pays d’honneur y sont invités : le #BurkinaFaso, le #Niger, la #Russie, la #Chine, l’#Inde, la #Turquie et le #Maroc. \n#Mali #Saheliens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saheliens",
+     "handle": "@saheliens"
+    },
+    {
+     "url": "https://x.com/AzizMaigaNMP/status/2112610827899728061",
+     "title": "🇲🇱 LE MALI ACCUEILLE LE MONDE !",
+     "description": "🇲🇱 LE MALI ACCUEILLE LE MONDE !\n\nPlus de 400 investisseurs attendus au Mali les 11 et 12 décembre, avec sept pays d’honneur : le Burkina Faso 🇧🇫, le Niger 🇳🇪, la Russie 🇷🇺, la Chine 🇨🇳, l’Inde 🇮🇳, la Turquie 🇹🇷 et le Maroc 🇲🇦.\n\nUne première qui témoigne de l’ambition du Mali.\n\nTerre d’hospitalité et de légendaire Diatiguiya, le Mali vous ouvre grand ses portes et vous accueille à bras ouverts.\n\nVous quittez chez vous, vous venez chez vous. \n\n@AzizMaigaNMP",
+     "snippet": "🇲🇱 LE MALI ACCUEILLE LE MONDE !\n\nPlus de 400 investisseurs attendus au Mali les 11 et 12 décembre, avec sept pays d’honneur : le Burkina Faso 🇧🇫, le Niger 🇳🇪, la Russie 🇷🇺, la Chine 🇨🇳, l’Inde 🇮🇳, la Turquie 🇹🇷 et le Maroc 🇲🇦.\n\nUne première qui témoigne de l’ambition du Mali.\n\nTerre d’hospitalité et de légendaire Diatiguiya, le Mali vous ouvre grand ses portes et vous accueille à bras ouverts.\n\nVous quittez chez vous, vous venez chez vous. \n\n@AzizMaigaNMP",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aziz Maïga ne ment pas",
+     "handle": "@AzizMaigaNMP"
+    },
+    {
+     "url": "https://x.com/Said_223_K/status/2112647016190738443",
+     "title": "🇲🇱 LE MALI ACCUEILLE LE MONDE !",
+     "description": "🇲🇱 LE MALI ACCUEILLE LE MONDE !\n\nPlus de 400 investisseurs attendus au Mali les 11 et 12 décembre, avec sept pays d’honneur : le Burkina Faso 🇧🇫, le Niger 🇳🇪, la Russie 🇷🇺, la Chine 🇨🇳, l’Inde 🇮🇳, la Turquie 🇹🇷 et le Maroc 🇲🇦. @AzizMaigaNMP",
+     "snippet": "🇲🇱 LE MALI ACCUEILLE LE MONDE !\n\nPlus de 400 investisseurs attendus au Mali les 11 et 12 décembre, avec sept pays d’honneur : le Burkina Faso 🇧🇫, le Niger 🇳🇪, la Russie 🇷🇺, la Chine 🇨🇳, l’Inde 🇮🇳, la Turquie 🇹🇷 et le Maroc 🇲🇦. @AzizMaigaNMP",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Said_223🇲🇱🇫🇷🔥✌🏽",
+     "handle": "@Said_223_K"
+    },
+    {
+     "url": "https://x.com/JoanaTiago220/status/2112937210970546278",
+     "title": "Le #Mali #accueillera plus de 400 investisseurs les 11 et 12 décembre, avec plusieurs pays partenaires à l’honneur, dont le #BurkinaFaso, le",
+     "description": "Le #Mali #accueillera plus de 400 investisseurs les 11 et 12 décembre, avec plusieurs pays partenaires à l’honneur, dont le #BurkinaFaso, le #Niger, la #Russie et la #Chine. Un rendez-vous pour stimuler les #investissements et les échanges économiques.\n\n#Mali #AES #Investissement",
+     "snippet": "Le #Mali #accueillera plus de 400 investisseurs les 11 et 12 décembre, avec plusieurs pays partenaires à l’honneur, dont le #BurkinaFaso, le #Niger, la #Russie et la #Chine. Un rendez-vous pour stimuler les #investissements et les échanges économiques.\n\n#Mali #AES #Investissement",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Joana Tiago",
+     "handle": "@JoanaTiago220"
+    }
+   ]
+  }
+ ]
+}

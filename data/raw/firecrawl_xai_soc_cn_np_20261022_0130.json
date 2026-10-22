@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/TibetanReview/status/2112232589734113295",
+     "title": "Tatopani remains #Nepal’s key trade route with #China through #Tibet.",
+     "description": "Tatopani remains #Nepal’s key trade route with #China through #Tibet. Despite Kathmandu’s intensified diplomatic efforts, Beijing has yet to reopen it for regular trade, citing unsubstantiated concerns about Tibetan refugee activities.\nhttps://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/",
+     "snippet": "Tatopani remains #Nepal’s key trade route with #China through #Tibet. Despite Kathmandu’s intensified diplomatic efforts, Beijing has yet to reopen it for regular trade, citing unsubstantiated concerns about Tibetan refugee activities.\nhttps://www.tibetanreview.net/china-cites-non-existent-tibetan-refugee-threats-to-refuse-reopening-nepal-border-trade-post/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TibetanReview",
+     "handle": "@TibetanReview"
+    },
+    {
+     "url": "https://x.com/VisaHQ/status/2112183289708503251",
+     "title": "Tatopani border between Nepal and China reopens for three days to unblock festival cargo https://www.visahq.news/2026-10-18/cn/tatopani-bord",
+     "description": "Tatopani border between Nepal and China reopens for three days to unblock festival cargo https://www.visahq.news/2026-10-18/cn/tatopani-border-between-nepal-and-china-reopens-for-three-days-to-unblock-festival-cargo/ #VisaNews #Travel #Immigration",
+     "snippet": "Tatopani border between Nepal and China reopens for three days to unblock festival cargo https://www.visahq.news/2026-10-18/cn/tatopani-border-between-nepal-and-china-reopens-for-three-days-to-unblock-festival-cargo/ #VisaNews #Travel #Immigration",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "VisaHQ",
+     "handle": "@VisaHQ"
+    },
+    {
+     "url": "https://x.com/RepublicaNepal/status/2112398344777843110",
+     "title": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola R",
+     "description": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola Rural Municipality-2. Large boulders completely blocked vehicular movement along the route.\n\nhttps://myrepublica.nagariknetwork.com/news/khandbari-kimathanka-road-resumes-operation-after-restoration-41-19.html",
+     "snippet": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola Rural Municipality-2. Large boulders completely blocked vehicular movement along the route.\n\nhttps://myrepublica.nagariknetwork.com/news/khandbari-kimathanka-road-resumes-operation-after-restoration-41-19.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "República",
+     "handle": "@RepublicaNepal"
+    },
+    {
+     "url": "https://x.com/NepalBolcha/status/2112363335153074339",
+     "title": "Khandbari–Kimathanka road reopens after three months.",
+     "description": "Khandbari–Kimathanka road reopens after three months. Army blasting broke up massive landslide rocks at Chhumsur, while the road project cleared debris and restored access toward Nepal’s northern border. #NepalBolcha #Sankhuwasabha #RoadAccess",
+     "snippet": "Khandbari–Kimathanka road reopens after three months. Army blasting broke up massive landslide rocks at Chhumsur, while the road project cleared debris and restored access toward Nepal’s northern border. #NepalBolcha #Sankhuwasabha #RoadAccess",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nepal Bolcha",
+     "handle": "@NepalBolcha"
+    },
+    {
+     "url": "https://x.com/Pemadorji04/status/2112145694651736395",
+     "title": "In #Nepal, Dashain goods are stuck.",
+     "description": "In #Nepal, Dashain goods are stuck.\nNepal-China trade points: Rasuwagadhi washed out, Korala crippled, Tatopani still shut on #China’s terms.\n#BalenShah’s govt can only “urge” & wait while traders bleed.\nChinese dependency always has a price.\n@Huanusa",
+     "snippet": "In #Nepal, Dashain goods are stuck.\nNepal-China trade points: Rasuwagadhi washed out, Korala crippled, Tatopani still shut on #China’s terms.\n#BalenShah’s govt can only “urge” & wait while traders bleed.\nChinese dependency always has a price.\n@Huanusa",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pema dorji",
+     "handle": "@Pemadorji04"
+    },
+    {
+     "url": "https://x.com/DWalpiri/status/2112886742185553959",
+     "title": "So China is NOT opening the Tatopani trade route in Nepal-Tibet border after floods wiped out Rasuwagadhi, and their actual excuse is that t",
+     "description": "So China is NOT opening the Tatopani trade route in Nepal-Tibet border after floods wiped out Rasuwagadhi, and their actual excuse is that they're terrified of Tibetans escaping through it\n\nSo desperate and insecure that they are completely tossing aside humanitarian concerns",
+     "snippet": "So China is NOT opening the Tatopani trade route in Nepal-Tibet border after floods wiped out Rasuwagadhi, and their actual excuse is that they're terrified of Tibetans escaping through it\n\nSo desperate and insecure that they are completely tossing aside humanitarian concerns",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "David Walpiri",
+     "handle": "@DWalpiri"
+    },
+    {
+     "url": "https://x.com/nepalherald/status/2112100434416664674",
+     "title": "७५लाख जनान्ख्या भएको लाओसले चिन-लाओस रेल संचालन गरेको ५बर्षमा ६करोड २५लाख मानिसले रेल यात्रा गरेकाछन्!हुँदैन भन्ने सोच लिनु हुँदैन,सिगाछे-का",
+     "description": "७५लाख जनान्ख्या भएको लाओसले चिन-लाओस रेल संचालन गरेको ५बर्षमा ६करोड २५लाख मानिसले रेल यात्रा गरेकाछन्!हुँदैन भन्ने सोच लिनु हुँदैन,सिगाछे-काठमाडौँ रेल चलाउनैपर्छ,ढिलो गरे निर्माण खर्च महँगो हुनेछ!लासा-काठमाडौँ रेल योजनालाइआधार मानेर लाओसले रेलमार्ग शुरु गरेको थियो!हामी फटाहा हौँ!",
+     "snippet": "७५लाख जनान्ख्या भएको लाओसले चिन-लाओस रेल संचालन गरेको ५बर्षमा ६करोड २५लाख मानिसले रेल यात्रा गरेकाछन्!हुँदैन भन्ने सोच लिनु हुँदैन,सिगाछे-काठमाडौँ रेल चलाउनैपर्छ,ढिलो गरे निर्माण खर्च महँगो हुनेछ!लासा-काठमाडौँ रेल योजनालाइआधार मानेर लाओसले रेलमार्ग शुरु गरेको थियो!हामी फटाहा हौँ!",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Panta Nava Raj PhD",
+     "handle": "@nepalherald"
+    },
+    {
+     "url": "https://x.com/GloriaRosa202/status/2112516154749341932",
+     "title": "Footage from days before Nepal’s August 26 floods reportedly shows massive Chinese-linked hydropower projects, relentless blasting, and ques",
+     "description": "Footage from days before Nepal’s August 26 floods reportedly shows massive Chinese-linked hydropower projects, relentless blasting, and questionable safety and environmental practices. China has built hundreds of dams across occupied Tibet, 1/2⬇️",
+     "snippet": "Footage from days before Nepal’s August 26 floods reportedly shows massive Chinese-linked hydropower projects, relentless blasting, and questionable safety and environmental practices. China has built hundreds of dams across occupied Tibet, 1/2⬇️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gloria Rosario",
+     "handle": "@GloriaRosa202"
+    },
+    {
+     "url": "https://x.com/sabaqureshi457/status/2112160041272762394",
+     "title": "🇵🇰 #Pakistan lived the #China dream: #CPEC delays, debt pressure, trade terms that favour them.",
+     "description": "🇵🇰 #Pakistan lived the #China dream: #CPEC delays, debt pressure, trade terms that favour them.\nNow #Nepal chases Tatopani reopening while #Beijing stalls on “security.”\nLearn from Pakistan.\nDon’t walk the same lane.\n@jenniferzeng97",
+     "snippet": "🇵🇰 #Pakistan lived the #China dream: #CPEC delays, debt pressure, trade terms that favour them.\nNow #Nepal chases Tatopani reopening while #Beijing stalls on “security.”\nLearn from Pakistan.\nDon’t walk the same lane.\n@jenniferzeng97",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saba Qureshi",
+     "handle": "@sabaqureshi457"
+    },
+    {
+     "url": "https://x.com/Abhish_ek45/status/2112516817402949873",
+     "title": "Witness the reality of why Nepal is experiencing more frequent flooding than before.",
+     "description": "Witness the reality of why Nepal is experiencing more frequent flooding than before. China is building hundreds of dams in Tibet, which it forcibly annexed, exploiting the land for its own profit while potentially causing destruction in Nepal. 1/2\n@ABC \n@kathmandupost",
+     "snippet": "Witness the reality of why Nepal is experiencing more frequent flooding than before. China is building hundreds of dams in Tibet, which it forcibly annexed, exploiting the land for its own profit while potentially causing destruction in Nepal. 1/2\n@ABC \n@kathmandupost",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ABHISHEK KUMAR",
+     "handle": "@Abhish_ek45"
+    }
+   ]
+  }
+ ]
+}

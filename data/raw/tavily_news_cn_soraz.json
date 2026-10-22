@@ -2,9 +2,16 @@
  "success": true,
  "results": [
   {
+   "title": "Fuel queues form in Niamey amid Niger shortage — The Rio Times | UA.NEWS",
+   "url": "https://ua.news/en/world/u-niameyi-utvorilisia-chergi-za-palnim-na-tli-defitsitu-v-nigeri-the-rio-times",
+   "snippet": "Niger is an exporter of oil and uranium, but for its domestic market the country depends on the only operating SORAZ oil refinery in the city of Zinder, cross-border supply routes, and informal imports. The publication notes that SORAZ's capacity is insufficient to meet national demand and that the facility cannot quickly change its production mix according to gasoline needs. [...] Oil from the Ag",
+   "published": "Mon, 19 Oct 2026 16:22:11 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Niger Fuel Export Ban Halts Petrol, Diesel Shipments Abroad | Kanyi Daily News",
    "url": "https://www.kanyidaily.com/2026/10/niger-fuel-export-ban-halts-petrol-diesel-shipments-abroad.html",
-   "snippet": "SONIDEP, the Société Nigérienne de Pétrole, is the state-owned company responsible for buying, storing, distributing and marketing petroleum products.\n SORAZ, the Société de Raffinage de Zinder, operates the Zinder refinery, which has a processing capacity of about 20,000 barrels per day. [...] Article 1 of the order prohibits the export of diesel and premium petrol from Niger. It requires domesti",
+   "snippet": "SONIDEP, the Société Nigérienne de Pétrole, is the state-owned company responsible for buying, storing, distributing and marketing petroleum products.\n SORAZ, the Société de Raffinage de Zinder, operates the Zinder refinery, which has a processing capacity of about 20,000 barrels per day. [...] Kanyi Daily reports that, unlike Niger, Nigeria has increasingly relied on domestic refining to cut its ",
    "published": "Sun, 18 Oct 2026 12:39:40 GMT",
    "source": "tavily"
   },
@@ -16,10 +23,10 @@
    "source": "tavily"
   },
   {
-   "title": "Fuel queues form in Niamey amid Niger shortage — The Rio Times | UA.NEWS",
-   "url": "https://ua.news/en/world/u-niameyi-utvorilisia-chergi-za-palnim-na-tli-defitsitu-v-nigeri-the-rio-times",
-   "snippet": "Niger is an exporter of oil and uranium, but for its domestic market the country depends on the only operating SORAZ oil refinery in the city of Zinder, cross-border supply routes, and informal imports. The publication notes that SORAZ's capacity is insufficient to meet national demand and that the facility cannot quickly change its production mix according to gasoline needs. [...] According to th",
-   "published": "Mon, 19 Oct 2026 16:22:11 GMT",
+   "title": "Niger: Fuel shortage hits Niamey, exports banned - BENIN WEB TV",
+   "url": "https://beninwebtv.bj/en/niger-fuel-shortage-hits-niamey-exports-banned",
+   "snippet": "This measure comes as the country extracts approximately 90,000 barrels of crude oil per day from the Agadem region, but the Zinder refinery produces only about 20,000 barrels per day. This capacity is insufficient to meet national demand, forcing the Nigerien Petroleum Products Company to import gasoline. [...] mdW5jdGlvbihhKXt2YXIgZj0idW5kZWZpbmVkIiE9PXR5cGVvZiBhaV9kZWJ1Z2dpbmc7aWYobnVsbD09YSlyZ",
+   "published": "Mon, 19 Oct 2026 07:38:56 GMT",
    "source": "tavily"
   },
   {
@@ -32,8 +39,8 @@
   {
    "title": "Niger Gives Chinese Oil Firms 45 Days to Repatriate Over 3,000 Billion FCFA in Crude Export Revenue",
    "url": "https://www.modernghana.com/news/1536702/niger-gives-chinese-oil-firms-45-days-to-repatriat.html",
-   "snippet": "The ultimatum was set out in an official statement read on October 13 by Foreign Minister Bakary Yaou Sangaré. It targets CNPC, WAPCO and the Zinder refinery SORAZ. A government monitoring committee reviewed progress on the 45 commitments in the partnership protocol signed on May 18, 2026, and published severe findings. Counting from October 13, the deadline falls in late November. [...] The compl",
-   "published": "Fri, 16 Oct 2026 23:00:00 GMT",
+   "snippet": "The ultimatum was set out in an official statement read on October 13 by Foreign Minister Bakary Yaou Sangaré. It targets CNPC, WAPCO and the Zinder refinery SORAZ. A government monitoring committee reviewed progress on the 45 commitments in the partnership protocol signed on May 18, 2026, and published severe findings. Counting from October 13, the deadline falls in late November. [...] More\n\nTop",
+   "published": "Sat, 17 Oct 2026 01:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -42,10 +49,17 @@
    "snippet": "#### Read Also\n\nAccording to Anadolu Agency, Foreign Minister Bakary Yaou Sangaré announced the deadline on Wednesday in a statement read on state television.\n\nSangaré, who chairs the committee responsible for oil negotiations, said the committee had issued specific demands to China National Petroleum Corporation (CNPC) and its partners, West African Oil Pipeline Company (WAPCO) and the Zinder ref",
    "published": "Thu, 15 Oct 2026 16:55:43 GMT",
    "source": "tavily"
+  },
+  {
+   "title": "Algeria And Niger Begin Oil Drilling Operations In Agadez Region Montreal Hockey (XOWaHdd3EO)",
+   "url": "https://media.unisba.ac.id/5a95d201/a5008f30ZMyeo1dYMXE?share=telegram&nb=1",
+   "snippet": "On Thursday, August 13, 2026, Algerian Prime Minister Sifi Ghrieb and his Nigerien counterpart, Ali Lamine Zeine, launched official drilling operations at",
+   "published": "Sat, 17 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
   }
  ],
  "_tag": "cn_soraz",
- "_query": "Zinder refinery SORAZ",
+ "_query": "Zinder refinery Niger",
  "_domains": [],
  "_days": 3
 }

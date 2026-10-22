@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/globaltimesnews/status/2112086460874793052",
+     "title": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet sho",
+     "description": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "snippet": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Times",
+     "handle": "@globaltimesnews"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575492901814579",
+     "title": "1/ Tunnel boring machines are the photolithography machines of construction ;p Most cost $10–100 million.",
+     "description": "1/ Tunnel boring machines are the photolithography machines of construction ;p Most cost $10–100 million. Only a handful of firms can make more than a few tens a year. On Oct 19, China put them under export control. A thread on why this matters for India 🧵",
+     "snippet": "1/ Tunnel boring machines are the photolithography machines of construction ;p Most cost $10–100 million. Only a handful of firms can make more than a few tens a year. On Oct 19, China put them under export control. A thread on why this matters for India 🧵",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575495057654055",
+     "title": "2/ The list is broad and covers every major TBM type, plus cutterheads, screw conveyors, segment erectors, main drives, and even remanufactu",
+     "description": "2/ The list is broad and covers every major TBM type, plus cutterheads, screw conveyors, segment erectors, main drives, and even remanufacturing tech. It also covers walking excavators and shotcrete machines built for altitudes above 3,000 m.",
+     "snippet": "2/ The list is broad and covers every major TBM type, plus cutterheads, screw conveyors, segment erectors, main drives, and even remanufacturing tech. It also covers walking excavators and shotcrete machines built for altitudes above 3,000 m.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575497104458119",
+     "title": "3/ The design matters more.",
+     "description": "3/ The design matters more. Exports to \"countries in dispute with China\" need a licence. India is obviously a major target. Everyone else must promise not to pass the machines to such countries. Firms outside China can't transfer China-origin items there either.",
+     "snippet": "3/ The design matters more. Exports to \"countries in dispute with China\" need a licence. India is obviously a major target. Everyone else must promise not to pass the machines to such countries. Firms outside China can't transfer China-origin items there either.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575501118382195",
+     "title": "We've seen this movie before.",
+     "description": "We've seen this movie before. In late 2024, TBMs from Herrenknecht's China unit, intended for Indian projects, were held up at Chinese customs. That was an informal squeeze. Now it's official. And the 3,000 m threshold will impact Indian defence construction (Leh is at 3500m)",
+     "snippet": "We've seen this movie before. In late 2024, TBMs from Herrenknecht's China unit, intended for Indian projects, were held up at Chinese customs. That was an informal squeeze. Now it's official. And the 3,000 m threshold will impact Indian defence construction (Leh is at 3500m)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/TheMinuend/status/2112206615260893315",
+     "title": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.",
+     "description": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "snippet": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roy",
+     "handle": "@TheMinuend"
+    },
+    {
+     "url": "https://x.com/OopsGuess/status/2112399739295805634",
+     "title": "China’s export controls on tunnel-boring machines are more significant than they first appear.",
+     "description": "China’s export controls on tunnel-boring machines are more significant than they first appear.\n\nThese are not ordinary consumer goods. They are strategic infrastructure equipment.\n\nFor years, Chinese netizens have questioned why China should supply machinery that can strengthen Indian infrastructure near the China-India border while New Delhi simultaneously uses roads, tunnels and forward construction to alter the military balance there.\n\nThe contradiction was obvious:\n\nChina cannot treat strategic industrial capacity as politically neutral when that same capacity can be used to strengthen infrastructure directed against China’s own security interests.\n\nExport licensing does not mean “no exports.”\nIt means Beijing is finally drawing a line between commercial trade and unconditional access to strategic capability.\n\nChina spent decades building the world’s most formidable industrial toolbox.\n\nIt is now learning that not every tool needs to be handed to everyone who asks.",
+     "snippet": "China’s export controls on tunnel-boring machines are more significant than they first appear.\n\nThese are not ordinary consumer goods. They are strategic infrastructure equipment.\n\nFor years, Chinese netizens have questioned why China should supply machinery that can strengthen Indian infrastructure near the China-India border while New Delhi simultaneously uses roads, tunnels and forward construction to alter the military balance there.\n\nThe contradiction was obvious:\n\nChina cannot treat strategic industrial capacity as politically neutral when that same capacity can be used to strengthen infrastructure directed against China’s own security interests.\n\nExport licensing does not mean “no exports.”\nIt means Beijing is finally drawing a line between commercial trade and unconditional access to strategic capability.\n\nChina spent decades building the world’s most formidable industrial toolbox.\n\nIt is now learning that not every tool needs to be handed to everyone who asks.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "𝘊𝘰𝘳𝘳𝘪𝘯𝘦",
+     "handle": "@OopsGuess"
+    },
+    {
+     "url": "https://x.com/NewIndia2047/status/2112179181098607096",
+     "title": "Thanks, China.🇨🇳 Keep doing.",
+     "description": "Thanks, China.🇨🇳\n Keep doing.\n Herrenknecht TBM manufacturing in China.\n The Chinese government is blocking and delaying critical shipments of Herrenknecht's machines destined for India. \n In May 2026, India officially launched an India-made Tunnel Boring Machine (TBM) named 'Arjuna'",
+     "snippet": "Thanks, China.🇨🇳\n Keep doing.\n Herrenknecht TBM manufacturing in China.\n The Chinese government is blocking and delaying critical shipments of Herrenknecht's machines destined for India. \n In May 2026, India officially launched an India-made Tunnel Boring Machine (TBM) named 'Arjuna'",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Indian Updates",
+     "handle": "@NewIndia2047"
+    },
+    {
+     "url": "https://x.com/TibetanReview/status/2112608782014681374",
+     "title": "In Sep 2025, Germany’s Ambassador to India, Philipp Ackermann, revealed that China had blocked at least three tunnel boring machines manufac",
+     "description": "In Sep 2025, Germany’s Ambassador to India, Philipp Ackermann, revealed that China had blocked at least three tunnel boring machines manufactured by German company Herrenknecht and destined for Indian infrastructure projects.",
+     "snippet": "In Sep 2025, Germany’s Ambassador to India, Philipp Ackermann, revealed that China had blocked at least three tunnel boring machines manufactured by German company Herrenknecht and destined for Indian infrastructure projects.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TibetanReview",
+     "handle": "@TibetanReview"
+    },
+    {
+     "url": "https://x.com/snipy_in/status/2112795116205441531",
+     "title": "🇮🇳 China places tunnel-boring machines under export control targeting India via \"countries in dispute\" licence rule India imported USD 800,0",
+     "description": "🇮🇳 China places tunnel-boring machines under export control targeting India via \"countries in dispute\" licence rule\n\nIndia imported USD 800,000 of tunnelling machinery from China last fiscal year, up from USD 500,000",
+     "snippet": "🇮🇳 China places tunnel-boring machines under export control targeting India via \"countries in dispute\" licence rule\n\nIndia imported USD 800,000 of tunnelling machinery from China last fiscal year, up from USD 500,000",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "snipy.in",
+     "handle": "@snipy_in"
+    }
+   ]
+  }
+ ]
+}

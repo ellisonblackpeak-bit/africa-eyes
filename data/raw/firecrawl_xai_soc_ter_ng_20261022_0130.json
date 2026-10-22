@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/secmxx/status/2113050166345269444",
+     "title": "Update from bandits attack on dirin daji town kebbi state this night....",
+     "description": "Update from bandits attack on dirin daji town kebbi state this night.... The bandits attacked the home of ADC party chairman Sakaba lga, they kidnapped two women from the house, the bandits also shot another woman dead.... Two bandits horde were in area earlier in the day... This is a informant lead operation",
+     "snippet": "Update from bandits attack on dirin daji town kebbi state this night.... The bandits attacked the home of ADC party chairman Sakaba lga, they kidnapped two women from the house, the bandits also shot another woman dead.... Two bandits horde were in area earlier in the day... This is a informant lead operation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2113017572815761527",
+     "title": "UPDATE: Bandits invaded Dirin Daji in Sakaba LGA, Kebbi State, after Isha prayer tonight, abducting three women, including the wife of Alhaj",
+     "description": "UPDATE: Bandits invaded Dirin Daji in Sakaba LGA, Kebbi State, after Isha prayer tonight, abducting three women, including the wife of Alhaji Aminu Mai Suga, popularly known as AA Suga, the ADC chairman in the LGA.\n\nTwo other women were shot during the attack. One was shot in the stomach and the other in the buttock. Both are receiving treatment at General Hospital, according to local sources.\n\nSecurity personnel reportedly attempted to rescue the abducted women but were unsuccessful.\n\nNormalcy is gradually returning to the town, although residents remain shaken by the attack. The whereabouts of the three abducted women remain a major concern.",
+     "snippet": "UPDATE: Bandits invaded Dirin Daji in Sakaba LGA, Kebbi State, after Isha prayer tonight, abducting three women, including the wife of Alhaji Aminu Mai Suga, popularly known as AA Suga, the ADC chairman in the LGA.\n\nTwo other women were shot during the attack. One was shot in the stomach and the other in the buttock. Both are receiving treatment at General Hospital, according to local sources.\n\nSecurity personnel reportedly attempted to rescue the abducted women but were unsuccessful.\n\nNormalcy is gradually returning to the town, although residents remain shaken by the attack. The whereabouts of the three abducted women remain a major concern.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2112877471443865943",
+     "title": "Active security situation....",
+     "description": "Active security situation.... Two bandits horde movement from sangeko axis Zamfara state are currently around makuku village in kebbi and inana village Niger state... The bandits will touch the kontagora - rijau highway soon, avoid the area ⚠️... Active situation",
+     "snippet": "Active security situation.... Two bandits horde movement from sangeko axis Zamfara state are currently around makuku village in kebbi and inana village Niger state... The bandits will touch the kontagora - rijau highway soon, avoid the area ⚠️... Active situation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112907105392799770",
+     "title": "UPDATE: Reports from Mada, Gusau LGA of Zamfara State, suggest that more than 40 bandits have been killed in the ongoing clash between rival",
+     "description": "UPDATE: Reports from Mada, Gusau LGA of Zamfara State, suggest that more than 40 bandits have been killed in the ongoing clash between rival groups. Those reportedly killed include Kachallah Dogo Baldu and Sanata, the younger brother of Ado Aleru.\n\nThis development could bring some relief to residents who have suffered years of bandit attacks, kidnappings and cattle rustling. For the people of Zamfara, this is a welcome development, and everyone hopes it will translate into lasting peace and safety for their communities.",
+     "snippet": "UPDATE: Reports from Mada, Gusau LGA of Zamfara State, suggest that more than 40 bandits have been killed in the ongoing clash between rival groups. Those reportedly killed include Kachallah Dogo Baldu and Sanata, the younger brother of Ado Aleru.\n\nThis development could bring some relief to residents who have suffered years of bandit attacks, kidnappings and cattle rustling. For the people of Zamfara, this is a welcome development, and everyone hopes it will translate into lasting peace and safety for their communities.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112076621335101821",
+     "title": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandi",
+     "description": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandit leader Kachallah Dogo Baldu was killed by Aleru’s men alongside several of his fighters.\n\nReports from the area suggest the fighting was still ongoing as at this morning, raising concerns about further casualties as the two groups continue to battle each other.",
+     "snippet": "BREAKING: Yesterday afternoon, rival bandit groups clashed in Mada, Gusau LGA of Zamfara State, with reports indicating that notorious bandit leader Kachallah Dogo Baldu was killed by Aleru’s men alongside several of his fighters.\n\nReports from the area suggest the fighting was still ongoing as at this morning, raising concerns about further casualties as the two groups continue to battle each other.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/abdulbaqee2/status/2112902030453080378",
+     "title": "Security alert 🚨. Commuters along the Magami-Kwankelia road in Gusau LGA of Zamfara state are advised to be cautious as bandits have blocked",
+     "description": "Security alert 🚨.\n\nCommuters along the Magami-Kwankelia road in Gusau LGA of Zamfara state are advised to be cautious as bandits have blocked the road and abducted an unspecified number of passengers a few minutes ago.\n\nStay safe and be vigilant.",
+     "snippet": "Security alert 🚨.\n\nCommuters along the Magami-Kwankelia road in Gusau LGA of Zamfara state are advised to be cautious as bandits have blocked the road and abducted an unspecified number of passengers a few minutes ago.\n\nStay safe and be vigilant.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdulbaqee",
+     "handle": "@abdulbaqee2"
+    },
+    {
+     "url": "https://x.com/SaharaReporters/status/2112864182249091500",
+     "title": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters https://saharareporters.com/2",
+     "description": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters    https://saharareporters.com/2026/10/21/bandits-collect-n10m-demand-another-n10m-release-abducted-zamfara-teacher-sdp-aide",
+     "snippet": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters    https://saharareporters.com/2026/10/21/bandits-collect-n10m-demand-another-n10m-release-abducted-zamfara-teacher-sdp-aide",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahara Reporters",
+     "handle": "@SaharaReporters"
+    },
+    {
+     "url": "https://x.com/abdool_moh/status/2112165908785377739",
+     "title": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles.",
+     "description": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles. They have laid siege to villages and are killing people every single day but the main headline from the meeting between the Minister of Defence who is from Zamfara and the president is to assure him of political victory in Zamfara not securing the lives of the people.",
+     "snippet": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles. They have laid siege to villages and are killing people every single day but the main headline from the meeting between the Minister of Defence who is from Zamfara and the president is to assure him of political victory in Zamfara not securing the lives of the people.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdool Moh.",
+     "handle": "@abdool_moh"
+    },
+    {
+     "url": "https://x.com/Ehis_Peacemaker/status/2112408037050769830",
+     "title": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground?",
+     "description": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "snippet": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ehis Agbon",
+     "handle": "@Ehis_Peacemaker"
+    },
+    {
+     "url": "https://x.com/championnews_ng/status/2112428486337892846",
+     "title": "Troops have reportedly killed two terrorists and recovered arms during an operation in Sokoto State.",
+     "description": "Troops have reportedly killed two terrorists and recovered arms during an operation in Sokoto State.\n\nMeanwhile, the House of Representatives is urging the Federal Government to increase funding for pipeline surveillance contracts.",
+     "snippet": "Troops have reportedly killed two terrorists and recovered arms during an operation in Sokoto State.\n\nMeanwhile, the House of Representatives is urging the Federal Government to increase funding for pipeline surveillance contracts.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "championnewsonline",
+     "handle": "@championnews_ng"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Suriyakmaps/status/2112289657132315134",
+     "title": "Malian forces continue to regain control of the Gao region.",
+     "description": "Malian forces continue to regain control of the Gao region. 🇲🇱🇷🇺  🏳️ 🏴\nIn July, the Malian Armed Forces FAMa, together with the Afrika Corps, managed to reestablish the main supply line between Sevare and Gao by reinforcing garrisons along the road, allowing for a relatively stable connection (skirmishes with JNIM continue, albeit with less intensity) with the GATIA militias.\nJNIM’s power has continued to weaken in recent months due to airstrikes and counterterrorism operations, as well as the intensification of the conflict with the ISSP. This allowed government and Russian forces to enter the Intahaka area and its gold mines on October 18, establishing a stable connection along the final stretch of the road to the prefecture’s capital.\nMap: [ https://t.co/d10ccQvB0T ]",
+     "snippet": "Malian forces continue to regain control of the Gao region. 🇲🇱🇷🇺  🏳️ 🏴\nIn July, the Malian Armed Forces FAMa, together with the Afrika Corps, managed to reestablish the main supply line between Sevare and Gao by reinforcing garrisons along the road, allowing for a relatively stable connection (skirmishes with JNIM continue, albeit with less intensity) with the GATIA militias.\nJNIM’s power has continued to weaken in recent months due to airstrikes and counterterrorism operations, as well as the intensification of the conflict with the ISSP. This allowed government and Russian forces to enter the Intahaka area and its gold mines on October 18, establishing a stable connection along the final stretch of the road to the prefecture’s capital.\nMap: [ https://t.co/d10ccQvB0T ]",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "@Suriyak",
+     "handle": "@Suriyakmaps"
+    },
+    {
+     "url": "https://x.com/AKIIXVIIII/status/2112942438482375112",
+     "title": "Ciekawostka z Mali 🇲🇱 Wygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utraco",
+     "description": "Ciekawostka z Mali 🇲🇱\n\nWygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utracony w kwietniu Kidal.\n\nFLA oraz JNIM ogłosiły „strategiczne wycofanie”. \n\nRebelianci i dżihadyści od pewnego czasu znajdowali się pod sporą presją Junty oraz Rosjan – głównie w postaci nalotów, dronów i podobnych działań.\n\nWarto podkreślić, że nie było większych walk lądowych: miasto opuszczono, a nie zdobyto w boju.\n\n(Zresztą po ostatnich walkach i bombardowaniach i tak już było wyludnione.)\n\nTo już trzecia taka zmiana w krótkim czasie. \n\nZatem to bardziej symboliczne odzyskanie bastionu niż przełom.\n\nW tym układzie rebeliantów nie rozbito, a JNIM i FLA nadal działają w regionie.\n\nPomoc Africa Corps, która daje wsparcie lotnicze i sprzęt, pomogła Juncie. \n\nNie przeważa to jednak trwale szali zwycięstwa na stronę sił rządowych.\n\nTo jednak nie wszystko. \n\nRosjanie coraz mocniej umacniają swoją obecność w Mali – już nie tylko na poziomie militarnym, ale również gospodarczym.\n\nBamako podpisało z Rosyjskim Kamazem kontrakt na ok. 51 mln USD (30 mld CFA) obejmujący ciężarówki, serwis i szkolenia.\n\nPoza Sahelem Rosjanie inwestują też coraz silniej w soft power: otwierają tzw. „Russian Houses” (rosyjskie centra kultury i nauki działające za granicą), rozbudowują sieć Rosyjskiej Cerkwi Prawosławnej (m. in. na Madagaskarze) i wzmacniają kontakty akademickie.🇷🇺\n\nNa forach międzynarodowych Moskwa mówi o suwerenności Afryki, a jednocześnie umacnia wojskowe junty i zwiększa ich zależność od siebie.\n\nMamy tu zatem realną ekspansję wpływów w Mali i innych państwach kontynentu afrykańskiego.\n\nWróćmy jednak do Mali 🇲🇱\n\nA zatem jednego decydującego zwycięstwa militarnego w Mali nie było i raczej wątpię, aby prędko nastąpiło.\n\nA pojedyncze sukcesy, nie zrekompensują poprzednich strat.\n\nTo klasyczny schemat: wsparcie dla władzy w zamian za dostęp i wpływy, przy ograniczonej zdolności do trwałego ustabilizowania sytuacji na miejscu.\n\nZ drugiej strony rosyjska projekcja soft power i alokacja dodatkowych zasobów militarnych wskazują, że Rosja albo dysponuje nadwyżkowymi zasobami, albo sytuacja w Mali była już tak krytyczna, że nie mieli wyjścia i przesunęli dodatkowe środki, by ustabilizować sytuację i nie stracić twarzy jako dostawcy bezpieczeństwa w regionie.\n\nCiekawe pytanie 🤔 – zobaczymy, na jak długo Juncie i Rosjanom uda się utrzymać kontrolę nad miastem.\n\nŹrudło  - Ma. Rangel - Rojas",
+     "snippet": "Ciekawostka z Mali 🇲🇱\n\nWygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utracony w kwietniu Kidal.\n\nFLA oraz JNIM ogłosiły „strategiczne wycofanie”. \n\nRebelianci i dżihadyści od pewnego czasu znajdowali się pod sporą presją Junty oraz Rosjan – głównie w postaci nalotów, dronów i podobnych działań.\n\nWarto podkreślić, że nie było większych walk lądowych: miasto opuszczono, a nie zdobyto w boju.\n\n(Zresztą po ostatnich walkach i bombardowaniach i tak już było wyludnione.)\n\nTo już trzecia taka zmiana w krótkim czasie. \n\nZatem to bardziej symboliczne odzyskanie bastionu niż przełom.\n\nW tym układzie rebeliantów nie rozbito, a JNIM i FLA nadal działają w regionie.\n\nPomoc Africa Corps, która daje wsparcie lotnicze i sprzęt, pomogła Juncie. \n\nNie przeważa to jednak trwale szali zwycięstwa na stronę sił rządowych.\n\nTo jednak nie wszystko. \n\nRosjanie coraz mocniej umacniają swoją obecność w Mali – już nie tylko na poziomie militarnym, ale również gospodarczym.\n\nBamako podpisało z Rosyjskim Kamazem kontrakt na ok. 51 mln USD (30 mld CFA) obejmujący ciężarówki, serwis i szkolenia.\n\nPoza Sahelem Rosjanie inwestują też coraz silniej w soft power: otwierają tzw. „Russian Houses” (rosyjskie centra kultury i nauki działające za granicą), rozbudowują sieć Rosyjskiej Cerkwi Prawosławnej (m. in. na Madagaskarze) i wzmacniają kontakty akademickie.🇷🇺\n\nNa forach międzynarodowych Moskwa mówi o suwerenności Afryki, a jednocześnie umacnia wojskowe junty i zwiększa ich zależność od siebie.\n\nMamy tu zatem realną ekspansję wpływów w Mali i innych państwach kontynentu afrykańskiego.\n\nWróćmy jednak do Mali 🇲🇱\n\nA zatem jednego decydującego zwycięstwa militarnego w Mali nie było i raczej wątpię, aby prędko nastąpiło.\n\nA pojedyncze sukcesy, nie zrekompensują poprzednich strat.\n\nTo klasyczny schemat: wsparcie dla władzy w zamian za dostęp i wpływy, przy ograniczonej zdolności do trwałego ustabilizowania sytuacji na miejscu.\n\nZ drugiej strony rosyjska projekcja soft power i alokacja dodatkowych zasobów militarnych wskazują, że Rosja albo dysponuje nadwyżkowymi zasobami, albo sytuacja w Mali była już tak krytyczna, że nie mieli wyjścia i przesunęli dodatkowe środki, by ustabilizować sytuację i nie stracić twarzy jako dostawcy bezpieczeństwa w regionie.\n\nCiekawe pytanie 🤔 – zobaczymy, na jak długo Juncie i Rosjanom uda się utrzymać kontrolę nad miastem.\n\nŹrudło  - Ma. Rangel - Rojas",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AK",
+     "handle": "@AKIIXVIIII"
+    },
+    {
+     "url": "https://x.com/SimNasr/status/2112546877480517655",
+     "title": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite d",
+     "description": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "snippet": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wassim Nasr",
+     "handle": "@SimNasr"
+    },
+    {
+     "url": "https://x.com/RFIAfrique/status/2112051358509506664",
+     "title": "Dans un nouveau rapport publié ce lundi 19 octobre, l'organisation de défense des droits humains affirme que le Groupe de soutien à l'islam",
+     "description": "Dans un nouveau rapport publié ce lundi 19 octobre, l'organisation de défense des droits humains affirme que le Groupe de soutien à l'islam et aux musulmans (Jnim) lui a confirmé des exécutions sommaires de soldats maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi militaire parti d'Anefis, en juillet dernier. L'ONG Human Rights Watch (HRW) accuse également l'armée malienne et l'Africa Corps russe d'avoir tué et blessé plusieurs dizaines de civils au cours de récentes opérations militaires.",
+     "snippet": "Dans un nouveau rapport publié ce lundi 19 octobre, l'organisation de défense des droits humains affirme que le Groupe de soutien à l'islam et aux musulmans (Jnim) lui a confirmé des exécutions sommaires de soldats maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi militaire parti d'Anefis, en juillet dernier. L'ONG Human Rights Watch (HRW) accuse également l'armée malienne et l'Africa Corps russe d'avoir tué et blessé plusieurs dizaines de civils au cours de récentes opérations militaires.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "RFI Afrique",
+     "handle": "@RFIAfrique"
+    },
+    {
+     "url": "https://x.com/sahelinfo223/status/2112903954426126666",
+     "title": "La lâcheté absolue. Incapables d'affronter l'armée, les terroristes de l'EI (EIGS) se vengent sur les civils : près de 100 hommes de la comm",
+     "description": "La lâcheté absolue. Incapables d'affronter l'armée, les terroristes de l'EI (EIGS) se vengent sur les civils : près de 100 hommes de la communauté Idaksahak exécutés et des familles entières chassées dans la région de Ménaka.\nAucun honneur, juste des barbares et des criminels sans pitié. Le monde doit voir cette horreur. #Ménaka #Mali #Idaksahak #AES",
+     "snippet": "La lâcheté absolue. Incapables d'affronter l'armée, les terroristes de l'EI (EIGS) se vengent sur les civils : près de 100 hommes de la communauté Idaksahak exécutés et des familles entières chassées dans la région de Ménaka.\nAucun honneur, juste des barbares et des criminels sans pitié. Le monde doit voir cette horreur. #Ménaka #Mali #Idaksahak #AES",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahelinfo223",
+     "handle": "@sahelinfo223"
+    },
+    {
+     "url": "https://x.com/RambaNews/status/2112903555925660016",
+     "title": "Au moins 48 civils ont été tués et plusieurs autres blessés lors d’une attaque à Tagadayat, dans le nord-est du Mali.",
+     "description": "Au moins 48 civils ont été tués et plusieurs autres blessés lors d’une attaque à Tagadayat, dans le nord-est du Mali. Le Bureau exécutif de la communauté Idaksahak attribue les violences au groupe État islamique (EI). \n\nhttps://www.facebook.com/share/r/1CP7Wj3suy/\n\n#rambanews #Mali #Ménaka #Sahel",
+     "snippet": "Au moins 48 civils ont été tués et plusieurs autres blessés lors d’une attaque à Tagadayat, dans le nord-est du Mali. Le Bureau exécutif de la communauté Idaksahak attribue les violences au groupe État islamique (EI). \n\nhttps://www.facebook.com/share/r/1CP7Wj3suy/\n\n#rambanews #Mali #Ménaka #Sahel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ramba News",
+     "handle": "@RambaNews"
+    },
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2112265622101045667",
+     "title": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris.",
+     "description": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris. La route nationale 20 reliant à Ansongo est coupée. Le domicile d'un commandant de milice msa @Mossa_ag a été pris pour cible lors de l'offensive de l'État islamique dans la région \n#Mali\n#Sahel",
+     "snippet": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI repris. La route nationale 20 reliant à Ansongo est coupée. Le domicile d'un commandant de milice msa @Mossa_ag a été pris pour cible lors de l'offensive de l'État islamique dans la région \n#Mali\n#Sahel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112110067868733656",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Kouliko",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2112224618496876589",
+     "title": "Pendant que l'État islamique #EIGS #EI combattait Al-Qaïda #JNIM ..",
+     "description": "Pendant que l'État islamique #EIGS #EI combattait Al-Qaïda #JNIM .. armée malienne appuyée par milices Wagner et MSA a attaqué et incendié un village contrôlé par l'État islamique Aujourd'hui l'État islamique a riposté violemment à #Ménaka tuant une 70 de soldats et de milicien",
+     "snippet": "Pendant que l'État islamique #EIGS #EI combattait Al-Qaïda #JNIM .. armée malienne appuyée par milices Wagner et MSA a attaqué et incendié un village contrôlé par l'État islamique Aujourd'hui l'État islamique a riposté violemment à #Ménaka tuant une 70 de soldats et de milicien",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    }
+   ]
+  }
+ ]
+}

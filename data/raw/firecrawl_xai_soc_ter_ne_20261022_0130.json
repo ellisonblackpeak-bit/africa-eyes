@@ -1,0 +1,116 @@
+{
+ "query": "MPLJ FPL JNIM EIGS Niger jihadist attack Agadez Tillaberi",
+ "_tag": "soc_ter_ne",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/ighazer/status/2112569119283331220",
+     "title": "#Niger 🚨 INSÉCURITÉ 🥷 #Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à en",
+     "description": "#Niger 🚨 INSÉCURITÉ 🥷 \n#Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à environ 35 km d’Agadez, sur l'axe d’#Arlit. D’après les informations qui circulent, l’attaque a été menée par des individus armés à bord de 3 véhicules, s’ensuivirent des échanges de tirs d’une rare intensité avec les FDS à bord de l’un des bus.\nLe bilan provisoire fait état de pertes en vies humaines d'au moins 10 passagers, 1 FDS et nombreux blessés graves.",
+     "snippet": "#Niger 🚨 INSÉCURITÉ 🥷 \n#Agadez, 20 octobre 2026, des Bus de transport de passagers ont été la cible d’une attaque d’une extrême violence à environ 35 km d’Agadez, sur l'axe d’#Arlit. D’après les informations qui circulent, l’attaque a été menée par des individus armés à bord de 3 véhicules, s’ensuivirent des échanges de tirs d’une rare intensité avec les FDS à bord de l’un des bus.\nLe bilan provisoire fait état de pertes en vies humaines d'au moins 10 passagers, 1 FDS et nombreux blessés graves.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pagoui",
+     "handle": "@ighazer"
+    },
+    {
+     "url": "https://x.com/SahelAlerte/status/2112578782749942022",
+     "title": "🚨 Urgent | Niger 🇳🇪 Entre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026.",
+     "description": "🚨 Urgent | Niger 🇳🇪\n\nEntre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026. Selon les premières informations, une dizaine de personnes, dont des femmes, auraient été tuées.",
+     "snippet": "🚨 Urgent | Niger 🇳🇪\n\nEntre Arlit et Agadez, trois véhicules armés ont ouvert le feu sur deux bus de transport, ce 20 octobre 2026. Selon les premières informations, une dizaine de personnes, dont des femmes, auraient été tuées.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/wadrfrancais/status/2112858996491026656",
+     "title": "Au #Niger, au moins onze personnes, dont un militaire, ont été tuées dans une attaque armée contre deux bus de voyageurs sur l’axe Arlit-Aga",
+     "description": "Au #Niger, au moins onze personnes, dont un militaire, ont été tuées dans une attaque armée contre deux bus de voyageurs sur l’axe Arlit-Agadez.\n\nDes hommes armés ont intercepté les véhicules avant d’ouvrir le feu. L’un des bus transportait des militaires nigériens.",
+     "snippet": "Au #Niger, au moins onze personnes, dont un militaire, ont été tuées dans une attaque armée contre deux bus de voyageurs sur l’axe Arlit-Agadez.\n\nDes hommes armés ont intercepté les véhicules avant d’ouvrir le feu. L’un des bus transportait des militaires nigériens.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WADR Francais",
+     "handle": "@wadrfrancais"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113000550539129052",
+     "title": "#Niger #Insécurité Ce mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de",
+     "description": "#Niger #Insécurité\nCe mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de transport voyageurs sur l'axe #Agadez_Tchirozérine, dans le nord du pays.",
+     "snippet": "#Niger #Insécurité\nCe mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de transport voyageurs sur l'axe #Agadez_Tchirozérine, dans le nord du pays.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113001115637690503",
+     "title": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4.",
+     "description": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4. Une dizaine de personnes également blessées. Parmi les victimes, des femmes, des enfants ainsi que des militaires qui se trouvaient dans les passagers de 2 bus de la Sonitrav",
+     "snippet": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4. Une dizaine de personnes également blessées. Parmi les victimes, des femmes, des enfants ainsi que des militaires qui se trouvaient dans les passagers de 2 bus de la Sonitrav",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/actuniger/status/2112950835508572554",
+     "title": "#Agadez #Niger #Sécurité #SONITRAV #Tchirozérine #ActualitéNiger Insécurité : les autorités d’Agadez en état d’alerte maximale après une att",
+     "description": "#Agadez #Niger #Sécurité #SONITRAV #Tchirozérine #ActualitéNiger\nInsécurité : les autorités d’Agadez en état d’alerte maximale après une attaque armée qui a fait douze morts sur l’axe Tchiro-Agadez - @actuniger   https://www.actuniger.com/societe/22481-insecurite-les-autorites-dagadez-en-etat-dalerte-maximale-apres-une-attaque-armee-qui-a-fait-douze-morts-sur-laxe-tchiro-agadez",
+     "snippet": "#Agadez #Niger #Sécurité #SONITRAV #Tchirozérine #ActualitéNiger\nInsécurité : les autorités d’Agadez en état d’alerte maximale après une attaque armée qui a fait douze morts sur l’axe Tchiro-Agadez - @actuniger   https://www.actuniger.com/societe/22481-insecurite-les-autorites-dagadez-en-etat-dalerte-maximale-apres-une-attaque-armee-qui-a-fait-douze-morts-sur-laxe-tchiro-agadez",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ActuNiger",
+     "handle": "@actuniger"
+    },
+    {
+     "url": "https://x.com/Confi82/status/2112912374801793216",
+     "title": "Agadez, 21 octobre 2026 — Une attaque armée d’une extrême violence aurait visé, le 20 octobre, des bus de transport de passagers à environ 3",
+     "description": "Agadez, 21 octobre 2026 — Une attaque armée d’une extrême violence aurait visé, le 20 octobre, des bus de transport de passagers à environ 35 kilomètres d’Agadez, sur l’axe routier menant à Arlit, dans le nord du Niger. Selon des informations \nhttps://lamain.info/niger-nouvelle-attaque-meurtriere-sur-laxe-agadez-arlit-au-moins-11-morts-selon-un-bilan-provisoire/",
+     "snippet": "Agadez, 21 octobre 2026 — Une attaque armée d’une extrême violence aurait visé, le 20 octobre, des bus de transport de passagers à environ 35 kilomètres d’Agadez, sur l’axe routier menant à Arlit, dans le nord du Niger. Selon des informations \nhttps://lamain.info/niger-nouvelle-attaque-meurtriere-sur-laxe-agadez-arlit-au-moins-11-morts-selon-un-bilan-provisoire/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "LAMAIN INFOS",
+     "handle": "@Confi82"
+    },
+    {
+     "url": "https://x.com/AfrinewsApp/status/2112718243815211096",
+     "title": "🇳🇪 BREAKING: #Niger Carnage sur l’axe Arlit-Agadez : une embuscade armée fait onze morts Source: Journal du Niger via Afrinews",
+     "description": "🇳🇪 BREAKING: #Niger Carnage sur l’axe Arlit-Agadez : une embuscade armée fait onze morts\n\nSource: Journal du Niger\n\nvia Afrinews",
+     "snippet": "🇳🇪 BREAKING: #Niger Carnage sur l’axe Arlit-Agadez : une embuscade armée fait onze morts\n\nSource: Journal du Niger\n\nvia Afrinews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Afrinews",
+     "handle": "@AfrinewsApp"
+    },
+    {
+     "url": "https://x.com/AfrinewsApp/status/2112997637657907622",
+     "title": "• #Mali : Le Burkina Faso adopte un nouveau code pénal rétablissant la peine de mort Source: BAMADA • #Niger : Agadez : Ibra Boulama Issa re",
+     "description": "• #Mali : Le Burkina Faso adopte un nouveau code pénal rétablissant la peine de mort\n  Source: BAMADA\n\n• #Niger : Agadez : Ibra Boulama Issa rend visite aux blessés de l’attaque de bus SONITRAV\n  Source: Journal du Niger\n\nvia Afrinews\nhttps://afrinews.app",
+     "snippet": "• #Mali : Le Burkina Faso adopte un nouveau code pénal rétablissant la peine de mort\n  Source: BAMADA\n\n• #Niger : Agadez : Ibra Boulama Issa rend visite aux blessés de l’attaque de bus SONITRAV\n  Source: Journal du Niger\n\nvia Afrinews\nhttps://afrinews.app",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Afrinews",
+     "handle": "@AfrinewsApp"
+    },
+    {
+     "url": "https://x.com/SahelAlerte/status/2113034261888635201",
+     "title": "🚨 Urgent | Libye 🇱🇾 Premières images d’Eva Gretzmacher, Autrichienne, et Claudia Abbt, Suissesse, libérées ce 21 octobre 2026 par l’État isl",
+     "description": "🚨 Urgent | Libye 🇱🇾\n\nPremières images d’Eva Gretzmacher, Autrichienne, et Claudia Abbt, Suissesse, libérées ce 21 octobre 2026 par l’État islamique au Sahel (EI-S), puis remises à Khalifa Haftar. Enlevées séparément à Agadez, au Niger, en 2025, elles ont retrouvé la liberté après plus d’un an et demi de captivité. Elles sont arrivées à Benghazi, en Libye.",
+     "snippet": "🚨 Urgent | Libye 🇱🇾\n\nPremières images d’Eva Gretzmacher, Autrichienne, et Claudia Abbt, Suissesse, libérées ce 21 octobre 2026 par l’État islamique au Sahel (EI-S), puis remises à Khalifa Haftar. Enlevées séparément à Agadez, au Niger, en 2025, elles ont retrouvé la liberté après plus d’un an et demi de captivité. Elles sont arrivées à Benghazi, en Libye.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    }
+   ]
+  }
+ ]
+}

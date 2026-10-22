@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/grok/status/2112326948810641579",
+     "title": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe.",
+     "description": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe. \nLe Transsaharien (4 128 km, 3 pays) avance plus vite : travaux lancés en Algérie, coût moindre, mais sécurité sahelienne fragile. \nL’Atlantique (≈6 900 km, 13 pays) favorise l’intégration ouest-africaine, FEED terminé et accord CEDEAO signé, mais reste bloqué sur le financement et la FID. \nLes deux ont du potentiel ; leur réalisation dépendra surtout de la coordination et des investisseurs.",
+     "snippet": "Les deux projets sont ambitieux pour monétiser le gaz nigérian et relier l’Afrique à l’Europe. \nLe Transsaharien (4 128 km, 3 pays) avance plus vite : travaux lancés en Algérie, coût moindre, mais sécurité sahelienne fragile. \nL’Atlantique (≈6 900 km, 13 pays) favorise l’intégration ouest-africaine, FEED terminé et accord CEDEAO signé, mais reste bloqué sur le financement et la FID. \nLes deux ont du potentiel ; leur réalisation dépendra surtout de la coordination et des investisseurs.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112327325056393348",
+     "title": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger.",
+     "description": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger. \nL’Atlantique a solidifié son cadre juridique via l’accord CEDEAO, mais reste en attente de financement complet et de FID. \nÀ court terme, le Transsaharien est mieux positionné. Les deux peuvent coexister selon les investisseurs et la coordination.",
+     "snippet": "Le Transsaharien avance concrètement : travaux déjà lancés en Algérie depuis juin 2026 et préparatifs techniques en cours au Niger. \nL’Atlantique a solidifié son cadre juridique via l’accord CEDEAO, mais reste en attente de financement complet et de FID. \nÀ court terme, le Transsaharien est mieux positionné. Les deux peuvent coexister selon les investisseurs et la coordination.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/Abughaiiith/status/2112800894353899601",
+     "title": "احمدو ولد مبارك : (المغرب مخزن ) ويجب أن يتوقف الذباب الإلكتروني المغربي عن استهداف موريتانيا و من جهتي أنا أقول لإخوتي المغاربة، 🇲🇦 بدون مو",
+     "description": "احمدو ولد مبارك : (المغرب مخزن ) ويجب أن يتوقف الذباب الإلكتروني المغربي عن استهداف موريتانيا \n\nو من جهتي أنا أقول لإخوتي المغاربة، 🇲🇦 بدون موريتانيا 🇲🇷 لا يوجد أنبوب غاز نيجيري، ولا يوجد لكم معبر نحو القارة الإفريقية. الحل بسيط: غيّروا أسطوانة «من طنجة إلى الكويرة»، وابحثوا عن شعار آخر: «من طنجة إلى…» ؟ \n\nفالكويرة موريتانية، وستظل موريتانية، ويوجد فيها الجيش الموريتاني، ولم تطأ قدم مغربي أرضها، ولا توجد فيها مقبرة واحدة لمغربي.\n\nكان الأجدر بكم أن تنشغلوا باسترجاع سبتة ومليلية، اللتين زارهما الملك الإسباني قبل أسبوع، بدل ترديد شعارات لا تغيّر من الواقع شيئًا.",
+     "snippet": "احمدو ولد مبارك : (المغرب مخزن ) ويجب أن يتوقف الذباب الإلكتروني المغربي عن استهداف موريتانيا \n\nو من جهتي أنا أقول لإخوتي المغاربة، 🇲🇦 بدون موريتانيا 🇲🇷 لا يوجد أنبوب غاز نيجيري، ولا يوجد لكم معبر نحو القارة الإفريقية. الحل بسيط: غيّروا أسطوانة «من طنجة إلى الكويرة»، وابحثوا عن شعار آخر: «من طنجة إلى…» ؟ \n\nفالكويرة موريتانية، وستظل موريتانية، ويوجد فيها الجيش الموريتاني، ولم تطأ قدم مغربي أرضها، ولا توجد فيها مقبرة واحدة لمغربي.\n\nكان الأجدر بكم أن تنشغلوا باسترجاع سبتة ومليلية، اللتين زارهما الملك الإسباني قبل أسبوع، بدل ترديد شعارات لا تغيّر من الواقع شيئًا.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abu ghaith 🇲🇷",
+     "handle": "@Abughaiiith"
+    },
+    {
+     "url": "https://x.com/fetheelzian/status/2112933090263720065",
+     "title": "في تعليقك الأول قلت 1% هي احتياجاتكم (الغاز)من الانبوب ومايلبيهاش أنبوب الغاز الجزائري!!!",
+     "description": "في تعليقك الأول قلت 1% هي احتياجاتكم (الغاز)من الانبوب ومايلبيهاش أنبوب الغاز الجزائري!!!\n\n-وفي المقال قالك أن احتياج المغرب وإلى اليوم من الغاز هو مليار متر مكعب(بعض النظر في مايستعملها)..وأنبوب الجزائر كان يوفرلكم 1مليار م3\n\n-أما تستعملوها في انتاج 10% ⚡فليوم يكلفكم أضعاف!",
+     "snippet": "في تعليقك الأول قلت 1% هي احتياجاتكم (الغاز)من الانبوب ومايلبيهاش أنبوب الغاز الجزائري!!!\n\n-وفي المقال قالك أن احتياج المغرب وإلى اليوم من الغاز هو مليار متر مكعب(بعض النظر في مايستعملها)..وأنبوب الجزائر كان يوفرلكم 1مليار م3\n\n-أما تستعملوها في انتاج 10% ⚡فليوم يكلفكم أضعاف!",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "فاتح🇩🇿XY",
+     "handle": "@fetheelzian"
+    },
+    {
+     "url": "https://x.com/Abddel49/status/2112638882789642699",
+     "title": "Y’a pas que le Nigeria qui va produire Le but est de connecter l’Afrique de l’Ouest sur cote Atlantique aux pays qui ont pas l’infrastructur",
+     "description": "Y’a pas que le Nigeria qui va produire \nLe but est de connecter l’Afrique de l’Ouest sur cote Atlantique aux pays qui ont pas l’infrastructure pour exploiter et exporter",
+     "snippet": "Y’a pas que le Nigeria qui va produire \nLe but est de connecter l’Afrique de l’Ouest sur cote Atlantique aux pays qui ont pas l’infrastructure pour exploiter et exporter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdeel 🇲🇦 ⚜️ ⵣ",
+     "handle": "@Abddel49"
+    },
+    {
+     "url": "https://x.com/WeCaen42840/status/2112920417690132800",
+     "title": "الانبوب يا حمار هو لمصلحتك قبل مصلحة المغرب .",
+     "description": "الانبوب يا حمار هو لمصلحتك قبل مصلحة المغرب . هههههه انت لي مقبل على انتاج الغاز و ستبحث عن انبوب لاوروبا و لن يعبر الاوعبر المغرب .المغرب في كل الاحوال يشتري الغاز يعني بدون انبوب لم يتغير شيء",
+     "snippet": "الانبوب يا حمار هو لمصلحتك قبل مصلحة المغرب . هههههه انت لي مقبل على انتاج الغاز و ستبحث عن انبوب لاوروبا و لن يعبر الاوعبر المغرب .المغرب في كل الاحوال يشتري الغاز يعني بدون انبوب لم يتغير شيء",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WE CAEN",
+     "handle": "@WeCaen42840"
+    },
+    {
+     "url": "https://x.com/casualdmc/status/2112695029420757316",
+     "title": "Le Maroc a besoin d'une base militaire navale au sud de notre façade Atlantique et Dakhla n'en est pas une.",
+     "description": "Le Maroc a besoin d'une base militaire navale au sud de notre façade Atlantique et Dakhla n'en est pas une.\nNous devons protéger notre ZEE, nos échanges économiques avec les pays de la façade atlantique ou passera notamment le futur gazoduc et aussi afin de protéger nos alliés",
+     "snippet": "Le Maroc a besoin d'une base militaire navale au sud de notre façade Atlantique et Dakhla n'en est pas une.\nNous devons protéger notre ZEE, nos échanges économiques avec les pays de la façade atlantique ou passera notamment le futur gazoduc et aussi afin de protéger nos alliés",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Casual dmc 🇲🇦",
+     "handle": "@casualdmc"
+    },
+    {
+     "url": "https://x.com/Fair_finance/status/2112924255042351123",
+     "title": "Dangote s’est tourné vers les banques françaises pour participer au financement milliardaire de sa grande raffinerie au Nigeria.",
+     "description": "Dangote s’est tourné vers les banques françaises pour participer au financement milliardaire de sa grande raffinerie au Nigeria. Tout est dit. Et pour le gazoduc ouest africain, d’après vous?",
+     "snippet": "Dangote s’est tourné vers les banques françaises pour participer au financement milliardaire de sa grande raffinerie au Nigeria. Tout est dit. Et pour le gazoduc ouest africain, d’après vous?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CactusPiquant",
+     "handle": "@Fair_finance"
+    },
+    {
+     "url": "https://x.com/EMansoJ/status/2112904817458688497",
+     "title": "S’il n’y a pas de gazoduc vous exporterez votre gaz à dos de chameau, c’est la Mauritanie qui va profiter du gazoduc pas le Maroc, de plus c",
+     "description": "S’il n’y a pas de gazoduc vous exporterez votre gaz à dos de chameau, c’est la Mauritanie qui va profiter du gazoduc pas le Maroc, de plus ce gazoduc concerne plusieurs pays africains il faudra vous expliquer avec eux",
+     "snippet": "S’il n’y a pas de gazoduc vous exporterez votre gaz à dos de chameau, c’est la Mauritanie qui va profiter du gazoduc pas le Maroc, de plus ce gazoduc concerne plusieurs pays africains il faudra vous expliquer avec eux",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eternal Palestine",
+     "handle": "@EMansoJ"
+    },
+    {
+     "url": "https://x.com/3sm__61/status/2112639298176516251",
+     "title": "Le Nigeria est le seul producteur dans le gazoduc atlantique",
+     "description": "Le Nigeria est le seul producteur dans le gazoduc atlantique",
+     "snippet": "Le Nigeria est le seul producteur dans le gazoduc atlantique",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🇵🇸آدم🇨🇺",
+     "handle": "@3sm__61"
+    }
+   ]
+  }
+ ]
+}
