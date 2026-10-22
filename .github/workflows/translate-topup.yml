@@ -90,7 +90,7 @@ jobs:
       - name: Assemble site
         run: |
           mkdir -p _site
-          cp index.html data.js manifest.json _site/ 2>/dev/null || true
+          cp index.html data.js sw.js manifest.json _site/ 2>/dev/null || true
           cp -r assets _site/ 2>/dev/null || true
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

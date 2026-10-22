@@ -3,16 +3,24 @@
   "short_name": "China Eyes",
   "description": "涉华 / 涉美 / 非洲四国（尼日利亚、尼日尔、马里、加纳）/ 周边八国的每日动态监测：媒体公开报道 + 社交平台公开动态 + 发布主体索引。",
   "lang": "zh-CN",
+  "dir": "ltr",
+  "id": "./",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
   "orientation": "portrait-primary",
-  "background_color": "#eef2f6",
-  "theme_color": "#0F3D5C",
+  "background_color": "#020C1A",
+  "theme_color": "#020C1A",
+  "categories": ["news", "education"],
   "icons": [
     { "src": "./icon-192.png",          "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "./icon-512.png",          "sizes": "512x512", "type": "image/png", "purpose": "any" },
     { "src": "./icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
     { "src": "./icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "非洲四国", "short_name": "非洲四国", "url": "./index.html?view=africa" },
+    { "name": "涉华动态", "short_name": "涉华动态", "url": "./index.html?view=china" }
   ]
 }
