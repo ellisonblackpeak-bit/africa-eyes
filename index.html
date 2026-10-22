@@ -3,7 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#0F3D5C">
+<meta name="theme-color" content="#020C1A">
+<!-- iOS 独立模式下的状态栏底色；与地球页一致，避免顶部出现一条深蓝色带 -->
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#020C1A">
+<meta name="msapplication-TileColor" content="#020C1A">
 <title>China Eyes · 中国全球动态监测台</title>
 <!-- Add-to-home-screen: Android Chrome reads manifest.json (any + maskable);
      iOS Safari reads apple-touch-icon (and the -precomposed variant disables
@@ -409,15 +412,16 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
     document.body.classList.remove('locked');
   }
 
-  /* A reader who already entered the passcode goes straight in, before any
-     canvas work: no point painting a globe behind a gate being removed.
-
-     `?gate=1` forces the gate back for one visit. Without it there is no way
-     to look at this screen again on a device that has already unlocked it —
-     the stored key wins — which is exactly what happened when the design
-     changed and the reader could no longer see it. */
+  /* This screen now opens EVERY time (reader's request, 2026-10-22):
+       · first visit        → globe + passcode field + 进入
+       · afterwards         → globe + 进入 only, no field to retype
+       · ?gate=1            → force the field back, for checking the flow
+     The globe is the landing page, not a one-off prompt, so a returning
+     reader still gets one tap and the same pleasant screen instead of a
+     bare list. The stored key decides which of the two layouts to build. */
   var FORCE=/(?:^|[?&])gate=1(?:&|$)/.test(location.search||'');
-  if(isUnlocked() && !FORCE){ dropGate(); return; }
+  var UNLOCKED=isUnlocked();
+  var NEED_CODE=FORCE||!UNLOCKED;
 
   /* ── the globe ────────────────────────────────────────────────────────────
      A dot-matrix Earth rather than a picture: ~2600 points sampled evenly over
@@ -729,9 +733,31 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
     var err=document.getElementById('gateErr');
     if(!f||!inp||wired) return;
     wired=true;
-    setTimeout(function(){ try{ inp.focus(); }catch(e){} },260);
+    if(!NEED_CODE){
+      /* Already verified on this device: hide the field entirely and let the
+         single button open the app. Retyping a passcode that is already
+         stored would be pure friction. */
+      var gi=document.querySelector('#gate .gin');
+      if(gi) gi.style.display='none';
+      var gp=document.querySelector('#gate .gtip');
+      if(gp) gp.textContent='本机已通过验证';
+    } else {
+      setTimeout(function(){ try{ inp.focus(); }catch(e){} },260);
+    }
+    /* Say it here rather than only in the footer. If the link arrived through
+       WeChat, the reader is one tap from giving up on installing, and the
+       reason is invisible: WeChat's WebView has no add-to-home-screen. */
+    (function envTip(){
+      var ua=navigator.userAgent||'';
+      if(!/MicroMessenger|QQ\//i.test(ua)) return;
+      var g=document.querySelector('#gate .gtip');
+      if(!g) return;
+      g.innerHTML='当前在微信内打开，无法安装到桌面<br>请点右上角 ··· → 在浏览器打开';
+      g.style.color='rgba(255,206,140,.92)';
+    })();
     f.addEventListener('submit',function(e){
       e.preventDefault();
+      if(!NEED_CODE){ dropGate(); return; }
       var v=(inp.value||'').replace(/\s/g,'');
       if(digest(v)===WANT){
         /* a forced preview must not convert itself into a real login */
@@ -753,6 +779,18 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
     armForm();
   }
 })();
+</script>
+<script>
+/* Register the service worker. This is what turns "添加到主屏幕" into a real
+   installable app on Android: Chrome requires a manifest, 192/512 icons and a
+   registered worker with a fetch handler, and without the worker it silently
+   falls back to a plain bookmark. iOS ignores this and uses the apple-* meta
+   tags, which are already in the head. */
+if("serviceWorker" in navigator){
+  window.addEventListener("load",function(){
+    navigator.serviceWorker.register("sw.js",{scope:"./"}).catch(function(){});
+  });
+}
 </script>
 <script src="data.js" onerror="window.__DATA_MISSING__=1"></script>
 <script>
@@ -790,7 +828,15 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
   // rankOf); 'tier' = China → US → government → other grouping; 'time' = strict
   // reverse-chronological. In every mode items inside a group stay newest-first,
   // so "最新排最前" always holds.
-  var state = {view:'overview', cty:'all', topic:'all', tier:'all', q:'', page:1, sort:'prio'};
+  /* An installed app can be launched straight into a module: the manifest
+     declares shortcuts (long-press the icon → 非洲四国 / 涉华动态) and those
+     pass ?view=. Unknown values fall back to the overview. */
+  var _view0 = (function(){
+    var m = /(?:^|[?&])view=([a-z]+)/.exec(location.search || '');
+    var ok = {overview:1,china:1,us:1,africa:1,periphery:1,people:1,sources:1};
+    return (m && ok[m[1]]) ? m[1] : 'overview';
+  })();
+  var state = {view:_view0, cty:'all', topic:'all', tier:'all', q:'', page:1, sort:'prio'};
   var TOPICS = [['pol','政治'],['eco','经济'],['sec','安全'],['ene','能源'],['min','矿产'],['cor','战略通道']];
   var CNAMES = {
     ng:'尼日利亚', ne:'尼日尔', ml:'马里', gh:'加纳', wa:'西非区域', af:'非洲',
@@ -1025,12 +1071,85 @@ body.locked > header,body.locked > .wrap,body.locked > footer{visibility:hidden}
       return '<button data-v="'+t[0]+'"'+(state.view===t[0]?' class="on"':'')+'>'+t[1]
         +(n!==''?'<span class="n">'+n+'</span>':'')+'</button>';
     }).join('');
+  /* ── install guidance ──
+     "Cannot install to the home screen" is nearly always one of three things,
+     and each needs its own sentence:
+
+       · a WeChat / QQ in-app browser — those embed a WebView with no
+         add-to-home-screen at all, so the page must first be opened in the
+         system browser;
+       · iOS Safari — installs via 分享 → 添加到主屏幕, and only from Safari
+         (Chrome on iOS cannot install at all);
+       · Android Chrome — installs via ⋮ → 安装应用, which only appears once the
+         service worker is registered.
+
+     Telling someone already in Chrome to "use Chrome" is noise, so the sentence
+     is chosen at render time rather than written once for everyone. */
+  var UA = navigator.userAgent || '';
+  var IS_WECHAT = /MicroMessenger/i.test(UA);
+  var IS_QQ = /\bQQ\/|QQBrowser/i.test(UA);
+  var IS_IOS = /iPad|iPhone|iPod/.test(UA) ||
+               (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  var IS_ANDROID = /Android/i.test(UA);
+  var IS_STANDALONE = (window.matchMedia &&
+                       window.matchMedia('(display-mode: standalone)').matches) ||
+                      navigator.standalone === true;
+
+  /* Chrome fires `beforeinstallprompt` when the page is genuinely installable.
+     Keeping the event lets the footer offer a real button instead of a manual
+     recipe; if it never fires (iOS, or a browser that does not support it) the
+     footer falls back to the written steps. */
+  var INSTALL_EVT = null;
+  var INSTALLED = IS_STANDALONE;
+  window.addEventListener('beforeinstallprompt', function(e){
+    e.preventDefault();
+    INSTALL_EVT = e;
+    var b = document.getElementById('installBtn');
+    if(b) b.style.display = 'inline-flex';
+  });
+  window.addEventListener('appinstalled', function(){
+    INSTALLED = true; INSTALL_EVT = null;
+    var b = document.getElementById('installBtn');
+    if(b) b.style.display = 'none';
+  });
+  function doInstall(){
+    if(!INSTALL_EVT) return;
+    INSTALL_EVT.prompt();
+    INSTALL_EVT.userChoice && INSTALL_EVT.userChoice.then(function(){
+      INSTALL_EVT = null;
+      var b = document.getElementById('installBtn');
+      if(b) b.style.display = 'none';
+    });
+  }
+
+  function installHint(){
+    if(IS_STANDALONE) return '已作为独立应用运行。';
+    if(IS_WECHAT || IS_QQ){
+      return '当前在' + (IS_WECHAT ? '微信' : 'QQ') + '内置浏览器中，它不支持安装。'
+        + '请点右上角「···」→「在浏览器打开」，再用浏览器菜单安装。';
+    }
+    if(IS_IOS) return 'iPhone：用 Safari 打开本页 →「分享」→「添加到主屏幕」。';
+    if(IS_ANDROID) return 'Android：用 Chrome 打开 → 右上角「⋮」→「安装应用 / 添加到主屏幕」。';
+    return '手机浏览器菜单里找「添加到主屏幕」或「安装应用」。';
+  }
+
     document.getElementById('foot').innerHTML =
       '<b>China Eyes</b>　·　涉华 / 涉美 / 非洲四国（尼日利亚、尼日尔、马里、加纳）/ 中国周边，每日动态监测，移动端优先。'
       +'数据来源：四国主流媒体、周边国家媒体、国际通讯社、全球矿业媒体，以及 X / LinkedIn / Facebook / Instagram 公开页面。<br>'
-      +'<br><b>装到手机</b>：iPhone 用 Safari「分享 → 添加到主屏幕」；Android 用 Chrome「⋮ → 安装应用 / 添加到主屏幕」，'
-      +'图标为地球形状，与浏览器访问同一份数据。'
+      +'<br><b>装到手机</b>：'+installHint()
+      +'<div id="installWrap" style="margin-top:9px;display:none">'
+      +'<button type="button" id="installBtn" class="listenbtn">'
+      +'<span class="ico">⤓</span>安装到手机</button></div>'
       +'<br>仅供研判参考；所有条目以原始链接为准。生成时间：<span id="genstamp">'+esc(D.generatedAt||'—')+'</span>';
+    /* The install button only makes sense when Chrome actually offered an
+       install prompt. It may have fired before this footer existed, so the
+       captured event decides visibility here as well as in the listener. */
+    var _ib=document.getElementById('installBtn');
+    var _iw=document.getElementById('installWrap');
+    if(_ib&&_iw){
+      _ib.addEventListener('click',doInstall);
+      if(INSTALL_EVT&&!INSTALLED) _iw.style.display='block';
+    }
   }
 
   document.getElementById('tabs').addEventListener('click',function(e){
