@@ -1,0 +1,116 @@
+{
+ "query": "United States Niger Mali Sahel AFRICOM cooperation sanctions",
+ "_tag": "soc_us_sahel",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AsstSecStateAF/status/2112675760548811071",
+     "title": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public s",
+     "description": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "snippet": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bureau of African Affairs",
+     "handle": "@AsstSecStateAF"
+    },
+    {
+     "url": "https://x.com/USEmbassyGhana/status/2112878126434849028",
+     "title": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting i",
+     "description": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting in Accra. Participants held constructive discussions on regional stability, economic resilience, and cross-border cooperation. The United States is working with partners to advance security and prosperity across West Africa.",
+     "snippet": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting in Accra. Participants held constructive discussions on regional stability, economic resilience, and cross-border cooperation. The United States is working with partners to advance security and prosperity across West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Embassy Accra",
+     "handle": "@USEmbassyGhana"
+    },
+    {
+     "url": "https://x.com/beyondB_DAG/status/2112087038409211908",
+     "title": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱,",
+     "description": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "snippet": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Revolutionary Soldier",
+     "handle": "@beyondB_DAG"
+    },
+    {
+     "url": "https://x.com/GPMonitor/status/2112943158741135602",
+     "title": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response.",
+     "description": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response. Its headquarters is still in Stuttgart, Germany.\n\nThe case for a forward headquarters in coastal West Africa:\n\nhttps://www.geopoliticalmonitor.com/africom-headquarters-west-africa/",
+     "snippet": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response. Its headquarters is still in Stuttgart, Germany.\n\nThe case for a forward headquarters in coastal West Africa:\n\nhttps://www.geopoliticalmonitor.com/africom-headquarters-west-africa/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Geopolitical Monitor",
+     "handle": "@GPMonitor"
+    },
+    {
+     "url": "https://x.com/BurkinaNewsokp/status/2112220585241542985",
+     "title": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱,",
+     "description": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.",
+     "snippet": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Burkina News",
+     "handle": "@BurkinaNewsokp"
+    },
+    {
+     "url": "https://x.com/FAnalysis247/status/2112998771273379936",
+     "title": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public s",
+     "description": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs.",
+     "snippet": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ForeignAnalysis",
+     "handle": "@FAnalysis247"
+    },
+    {
+     "url": "https://x.com/AfricanHub_/status/2112566822046199925",
+     "title": "Burkina Faso, Mali and Niger have reopened formal talks with ECOWAS more than a year after they quit the bloc.",
+     "description": "Burkina Faso, Mali and Niger have reopened formal talks with ECOWAS more than a year after they quit the bloc.\n\nThe first official ministerial meeting between ECOWAS and the Alliance of Sahel States took place in Dakar on 17 October. \n\nBoth sides agreed to set up joint working groups and to push for a new cooperation arrangement built on mutual respect, good neighbourliness and sovereignty.",
+     "snippet": "Burkina Faso, Mali and Niger have reopened formal talks with ECOWAS more than a year after they quit the bloc.\n\nThe first official ministerial meeting between ECOWAS and the Alliance of Sahel States took place in Dakar on 17 October. \n\nBoth sides agreed to set up joint working groups and to push for a new cooperation arrangement built on mutual respect, good neighbourliness and sovereignty.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "African Hub",
+     "handle": "@AfricanHub_"
+    },
+    {
+     "url": "https://x.com/TheYorubaTimes/status/2112595533617410361",
+     "title": "BREAKING: MALI, NIGER AND BURKINA FASO SHAMELESSLY CRAWL BACK BEGGING AFTER 18 MONTHS OUT OF ECOWAS Burkina Faso, Mali and Niger have resume",
+     "description": "BREAKING: MALI, NIGER AND BURKINA FASO SHAMELESSLY CRAWL BACK BEGGING AFTER 18 MONTHS OUT OF ECOWAS\n\nBurkina Faso, Mali and Niger have resumed talks with ECOWAS more than 18 months after withdrawing from the regional bloc and forming the Alliance of Sahel States (AES).\n\nThe three military-led countries have now agreed with ECOWAS to establish joint working groups to develop a framework for cooperation, marking a dramatic shift after their decision to leave the organisation.\n\nTheir return to the negotiating table raises questions about the practical consequences of walking away from a regional bloc that connects West African economies through trade, movement and diplomatic cooperation. After months outside ECOWAS, the renewed talks suggest that regional realities may be harder to ignore than the political declarations that accompanied their withdrawal.",
+     "snippet": "BREAKING: MALI, NIGER AND BURKINA FASO SHAMELESSLY CRAWL BACK BEGGING AFTER 18 MONTHS OUT OF ECOWAS\n\nBurkina Faso, Mali and Niger have resumed talks with ECOWAS more than 18 months after withdrawing from the regional bloc and forming the Alliance of Sahel States (AES).\n\nThe three military-led countries have now agreed with ECOWAS to establish joint working groups to develop a framework for cooperation, marking a dramatic shift after their decision to leave the organisation.\n\nTheir return to the negotiating table raises questions about the practical consequences of walking away from a regional bloc that connects West African economies through trade, movement and diplomatic cooperation. After months outside ECOWAS, the renewed talks suggest that regional realities may be harder to ignore than the political declarations that accompanied their withdrawal.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Yoruba Times",
+     "handle": "@TheYorubaTimes"
+    },
+    {
+     "url": "https://x.com/AfricaisHOME2/status/2112735107563896972",
+     "title": "Mali🇲🇱, Burkina Faso and Niger are negotiating a formal cooperation agreement with ECOWAS despite their withdrawal from the regional bloc.",
+     "description": "Mali🇲🇱, Burkina Faso and Niger are negotiating a formal cooperation agreement with ECOWAS despite their withdrawal from the regional bloc. At a ministerial meeting in Dakar, both sides agreed to establish joint working groups to explore shared interests, maintain economic ties and address cross-border trade and infrastructure challenges.",
+     "snippet": "Mali🇲🇱, Burkina Faso and Niger are negotiating a formal cooperation agreement with ECOWAS despite their withdrawal from the regional bloc. At a ministerial meeting in Dakar, both sides agreed to establish joint working groups to explore shared interests, maintain economic ties and address cross-border trade and infrastructure challenges.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AFRICA IS HOME GLOBAL",
+     "handle": "@AfricaisHOME2"
+    },
+    {
+     "url": "https://x.com/GeoCherifien/status/2112469592018702841",
+     "title": "[ 🇺🇸 USA | 🇲🇦 MAROC | 🌍 AFRIQUE ] LE SÉNAT AMÉRICAIN INSCRIT LE MAROC COMME PARTENAIRE MILITAIRE PRIORITAIRE EN AFRIQUE.",
+     "description": "[ 🇺🇸 USA | 🇲🇦 MAROC | 🌍 AFRIQUE ]\n\nLE SÉNAT AMÉRICAIN INSCRIT LE MAROC  \nCOMME PARTENAIRE MILITAIRE PRIORITAIRE EN AFRIQUE.\n\nSection 1268 du NDAA 2027 (commission Wicker).  \nLe Pentagone doit présenter, sous 180 jours, un plan décennal 2026-2036.\n\nObjectif : faire du Royaume le partenaire militaire n°1 des États-Unis sur le continent.  \n\nLe Maroc se situe au carrefour de l’Atlantique, de la Méditerranée et du Sahel.  \nIl offre stabilité, profondeur logistique et capacité de projection régionale.\n\nCe texte, s’il est adopté, ancre dans la loi américaine une feuille de route déjà signée en avril.  \nIl transforme une coopération bilatérale en architecture de long terme.\n\nRabat n’est plus seulement un allié fiable.  \nIl devient un  pivot en Afrique.\n\nQuelle portée pour le Maroc dans la région ? 👇\n\n#Maroc #USA #NDAA #Defense #Afrique #Geopolitique",
+     "snippet": "[ 🇺🇸 USA | 🇲🇦 MAROC | 🌍 AFRIQUE ]\n\nLE SÉNAT AMÉRICAIN INSCRIT LE MAROC  \nCOMME PARTENAIRE MILITAIRE PRIORITAIRE EN AFRIQUE.\n\nSection 1268 du NDAA 2027 (commission Wicker).  \nLe Pentagone doit présenter, sous 180 jours, un plan décennal 2026-2036.\n\nObjectif : faire du Royaume le partenaire militaire n°1 des États-Unis sur le continent.  \n\nLe Maroc se situe au carrefour de l’Atlantique, de la Méditerranée et du Sahel.  \nIl offre stabilité, profondeur logistique et capacité de projection régionale.\n\nCe texte, s’il est adopté, ancre dans la loi américaine une feuille de route déjà signée en avril.  \nIl transforme une coopération bilatérale en architecture de long terme.\n\nRabat n’est plus seulement un allié fiable.  \nIl devient un  pivot en Afrique.\n\nQuelle portée pour le Maroc dans la région ? 👇\n\n#Maroc #USA #NDAA #Defense #Afrique #Geopolitique",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MD🇲🇦",
+     "handle": "@GeoCherifien"
+    }
+   ]
+  }
+ ]
+}

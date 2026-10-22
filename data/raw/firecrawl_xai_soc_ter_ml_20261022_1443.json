@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SimNasr/status/2112546877480517655",
+     "title": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite d",
+     "description": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "snippet": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wassim Nasr",
+     "handle": "@SimNasr"
+    },
+    {
+     "url": "https://x.com/EyeThink_/status/2112794389957468277",
+     "title": "[🇲🇱MALI] Au moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao,",
+     "description": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "snippet": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eye Think",
+     "handle": "@EyeThink_"
+    },
+    {
+     "url": "https://x.com/CurrentTre/status/2112173367390253546",
+     "title": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à",
+     "description": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à Tabrichat, dans la région de Gao, après l’attaque d’un convoi militaire en juillet dernier.",
+     "snippet": "Dans un rapport publié ce lundi 19 octobre, Human Rights Watch (HRW) affirme que le Jnim a reconnu l’exécution sommaire de soldats maliens à Tabrichat, dans la région de Gao, après l’attaque d’un convoi militaire en juillet dernier.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Current Trends",
+     "handle": "@CurrentTre"
+    },
+    {
+     "url": "https://x.com/WW3Watchtower/status/2112821700614037962",
+     "title": "BREAKING: Armed militants killed over forty civilians at camps near Menaka, Mali, this weekend, primarily targeting the Daoussahak community.",
+     "description": "BREAKING: Armed militants killed over forty civilians at camps near Menaka, Mali, this weekend, primarily targeting the Daoussahak community. Per local officials, Islamic State fighters aimed to halt recent Malian army operations and secure the northern frontier. #Mali",
+     "snippet": "BREAKING: Armed militants killed over forty civilians at camps near Menaka, Mali, this weekend, primarily targeting the Daoussahak community. Per local officials, Islamic State fighters aimed to halt recent Malian army operations and secure the northern frontier. #Mali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WW3 Watchtower",
+     "handle": "@WW3Watchtower"
+    },
+    {
+     "url": "https://x.com/danie1ac0sta/status/2112981817829560525",
+     "title": "🚨 Reports from eastern #Mali say at least 48 civilians were killed in attacks across the Ménaka region The reports attribute the violence to",
+     "description": "🚨 Reports from eastern #Mali say at least 48 civilians were killed in attacks across the Ménaka region The reports attribute the violence to Islamic State linked militants but responsibility has not been independently confirmed\nCivilians must never pay the price of terror #Sahel",
+     "snippet": "🚨 Reports from eastern #Mali say at least 48 civilians were killed in attacks across the Ménaka region The reports attribute the violence to Islamic State linked militants but responsibility has not been independently confirmed\nCivilians must never pay the price of terror #Sahel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Daniela Costa",
+     "handle": "@danie1ac0sta"
+    },
+    {
+     "url": "https://x.com/mohaamineaf/status/2112225578333970834",
+     "title": "While the #EIGS #EI was fighting Al-Qaeda #JNIM ..",
+     "description": "While the  #EIGS #EI was fighting Al-Qaeda #JNIM .. the Malian army supported by Wagner militias and MSA attacked and burned a village controlled by the Islamic State Today the Islamic State has violently retaliated in #Ménaka killing some 50 soldiers and militiamen",
+     "snippet": "While the  #EIGS #EI was fighting Al-Qaeda #JNIM .. the Malian army supported by Wagner militias and MSA attacked and burned a village controlled by the Islamic State Today the Islamic State has violently retaliated in #Ménaka killing some 50 soldiers and militiamen",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "amin",
+     "handle": "@mohaamineaf"
+    },
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112110067868733656",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Kouliko",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/thinkstrataf/status/2112483159900028931",
+     "title": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, su",
+     "description": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, sur l’axe Bandiagara-Douentza. Son chauffeur aurait été tué",
+     "snippet": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, sur l’axe Bandiagara-Douentza. Son chauffeur aurait été tué",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "STRATAF",
+     "handle": "@thinkstrataf"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2112665743565128022",
+     "title": "les dirigeants de l’État islamique #EIGS #EI et les soldats retranchés à #Menaka sont issus de la communauté idousahak, et tout le monde les",
+     "description": "les dirigeants de l’État islamique #EIGS #EI et les soldats retranchés à #Menaka sont issus de la communauté idousahak, et tout le monde les connaît. Ce sont eux qui ont mené les attaques contre la ville. Ils rentrent chez eux à Menaka quand bon leur semble\n#Mali \n#Sahel",
+     "snippet": "les dirigeants de l’État islamique #EIGS #EI et les soldats retranchés à #Menaka sont issus de la communauté idousahak, et tout le monde les connaît. Ce sont eux qui ont mené les attaques contre la ville. Ils rentrent chez eux à Menaka quand bon leur semble\n#Mali \n#Sahel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    }
+   ]
+  }
+ ]
+}

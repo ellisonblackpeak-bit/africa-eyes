@@ -1,0 +1,116 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/bnionline1/status/2112924560555458966",
+     "title": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work.",
+     "description": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "snippet": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Burma News International",
+     "handle": "@bnionline1"
+    },
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2112484889635225825",
+     "title": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Co",
+     "description": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Conference in Fujian. The push comes as the Kyaukphyu SEZ designed to give China access to the Indian Ocean is stalled  due to Rakhine fighting. \n\n#WhatsHappeningInMyanmar",
+     "snippet": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Conference in Fujian. The push comes as the Kyaukphyu SEZ designed to give China access to the Indian Ocean is stalled  due to Rakhine fighting. \n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2112141681088938293",
+     "title": "Chinese business leaders in Myanmar launched the Beijing Chamber of Commerce in Myanmar at a ceremony in Yangon on Saturday, with prominent",
+     "description": "Chinese business leaders in Myanmar launched the Beijing Chamber of Commerce in Myanmar at a ceremony in Yangon on Saturday, with prominent middleman Wu Mingyuan as chairman.\n#WhatsHappeningInMyanmar",
+     "snippet": "Chinese business leaders in Myanmar launched the Beijing Chamber of Commerce in Myanmar at a ceremony in Yangon on Saturday, with prominent middleman Wu Mingyuan as chairman.\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/ViewsofMM22/status/2112370815694225480",
+     "title": "Who is really profiting from Myanmar’s jade?",
+     "description": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "snippet": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Views of Myanmar",
+     "handle": "@ViewsofMM22"
+    },
+    {
+     "url": "https://x.com/MoeSatKhinn/status/2112357178170606013",
+     "title": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State.",
+     "description": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "snippet": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FreedomSeeker",
+     "handle": "@MoeSatKhinn"
+    },
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2112474638735298638",
+     "title": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highla",
+     "description": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highlands harvest to Yunnan as the regime-aligned Myanmar Coffee Association seeks Chinese investment to build the sector.\n\n#WhatsHappeningInMyanmar",
+     "snippet": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highlands harvest to Yunnan as the regime-aligned Myanmar Coffee Association seeks Chinese investment to build the sector.\n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112530189519642889",
+     "title": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone You can't offer maritime connectivity when",
+     "description": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone\n\nYou can't offer maritime connectivity when you don't even control your coastline. But since China never turns down a chance to exploit a desperate regime, anything is possible",
+     "snippet": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone\n\nYou can't offer maritime connectivity when you don't even control your coastline. But since China never turns down a chance to exploit a desperate regime, anything is possible",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112881500257767511",
+     "title": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.",
+     "description": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.\n\nThai, Burmese, and Chinese companies are all cashing in while the water stays contaminated.\n\nWhy the total silence on this, @MediaUnlock?\n\nhttps://t.co/rMTtWDoN7j",
+     "snippet": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.\n\nThai, Burmese, and Chinese companies are all cashing in while the water stays contaminated.\n\nWhy the total silence on this, @MediaUnlock?\n\nhttps://t.co/rMTtWDoN7j",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/StuAlanBecker/status/2112408411266809900",
+     "title": "Here's the picture I recommend the Myanmar Military dictatorship put on the wall in Kunming to attract visitors.",
+     "description": "Here's the picture I recommend the Myanmar Military dictatorship put on the wall in Kunming to attract visitors. This is a Myanmar family burned alive near the CCP owned copper mine at Monywa in Sagaing division.\nhttps://t.co/jxJ82p6X78",
+     "snippet": "Here's the picture I recommend the Myanmar Military dictatorship put on the wall in Kunming to attract visitors. This is a Myanmar family burned alive near the CCP owned copper mine at Monywa in Sagaing division.\nhttps://t.co/jxJ82p6X78",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stuart Alan Becker",
+     "handle": "@StuAlanBecker"
+    },
+    {
+     "url": "https://x.com/karmawangchukzz/status/2112119722573692929",
+     "title": "Beijing isn’t backing peace in Myanmar—it’s bankrolling chaos.",
+     "description": "Beijing isn’t backing peace in Myanmar—it’s bankrolling chaos.\n\nWhile the border bleeds post-coup, China’s timber plunder through Yunnan exploded, swallowing up Myanmar’s forests on the cheap. 1/",
+     "snippet": "Beijing isn’t backing peace in Myanmar—it’s bankrolling chaos.\n\nWhile the border bleeds post-coup, China’s timber plunder through Yunnan exploded, swallowing up Myanmar’s forests on the cheap. 1/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Karma Wangchuk",
+     "handle": "@karmawangchukzz"
+    }
+   ]
+  }
+ ]
+}

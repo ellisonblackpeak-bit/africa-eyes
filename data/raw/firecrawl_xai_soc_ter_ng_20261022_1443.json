@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/secmxx/status/2112877471443865943",
+     "title": "Active security situation....",
+     "description": "Active security situation.... Two bandits horde movement from sangeko axis Zamfara state are currently around makuku village in kebbi and inana village Niger state... The bandits will touch the kontagora - rijau highway soon, avoid the area ⚠️... Active situation",
+     "snippet": "Active security situation.... Two bandits horde movement from sangeko axis Zamfara state are currently around makuku village in kebbi and inana village Niger state... The bandits will touch the kontagora - rijau highway soon, avoid the area ⚠️... Active situation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112835274434658574",
+     "title": "BREAKING: Yesterday afternoon, bandits invaded Farnanawa community in Zarummai Ward, Bukkuyum LGA, Zamfara State, and shot several people, i",
+     "description": "BREAKING: Yesterday afternoon, bandits invaded Farnanawa community in Zarummai Ward, Bukkuyum LGA, Zamfara State, and shot several people, including the man pictured below. The exact number of victims and their current conditions remain unclear up to now.\n\nHow many more lives must be put at risk before residents of Zamfara can live in peace and safety?",
+     "snippet": "BREAKING: Yesterday afternoon, bandits invaded Farnanawa community in Zarummai Ward, Bukkuyum LGA, Zamfara State, and shot several people, including the man pictured below. The exact number of victims and their current conditions remain unclear up to now.\n\nHow many more lives must be put at risk before residents of Zamfara can live in peace and safety?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112907105392799770",
+     "title": "UPDATE: Reports from Mada, Gusau LGA of Zamfara State, suggest that more than 40 bandits have been killed in the ongoing clash between rival",
+     "description": "UPDATE: Reports from Mada, Gusau LGA of Zamfara State, suggest that more than 40 bandits have been killed in the ongoing clash between rival groups. Those reportedly killed include Kachallah Dogo Baldu and Sanata, the younger brother of Ado Aleru.\n\nThis development could bring some relief to residents who have suffered years of bandit attacks, kidnappings and cattle rustling. For the people of Zamfara, this is a welcome development, and everyone hopes it will translate into lasting peace and safety for their communities.",
+     "snippet": "UPDATE: Reports from Mada, Gusau LGA of Zamfara State, suggest that more than 40 bandits have been killed in the ongoing clash between rival groups. Those reportedly killed include Kachallah Dogo Baldu and Sanata, the younger brother of Ado Aleru.\n\nThis development could bring some relief to residents who have suffered years of bandit attacks, kidnappings and cattle rustling. For the people of Zamfara, this is a welcome development, and everyone hopes it will translate into lasting peace and safety for their communities.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/TheICIR/status/2112920374727876821",
+     "title": "Notorious bandit leader Muhammad Gwaska has displaced residents of Birnin Doki in the troubled Anka Local Government Area of Zamfara State a",
+     "description": "Notorious bandit leader Muhammad Gwaska has displaced residents of Birnin Doki in the troubled Anka Local Government Area of Zamfara State after they resisted pressure to work at mining sites under his control.\n\nThe incident, which occurred on 15 October, saw dozens of villagers forced to walk about a 15-kilometre distance from Birnin Doki to the local government headquarters in Anka town. Since their arrival, local government authorities have shown them an abandoned and dilapidated structure that used to be a veterinary clinic to camp in.\n\nRead:",
+     "snippet": "Notorious bandit leader Muhammad Gwaska has displaced residents of Birnin Doki in the troubled Anka Local Government Area of Zamfara State after they resisted pressure to work at mining sites under his control.\n\nThe incident, which occurred on 15 October, saw dozens of villagers forced to walk about a 15-kilometre distance from Birnin Doki to the local government headquarters in Anka town. Since their arrival, local government authorities have shown them an abandoned and dilapidated structure that used to be a veterinary clinic to camp in.\n\nRead:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The ICIR",
+     "handle": "@TheICIR"
+    },
+    {
+     "url": "https://x.com/SaharaReporters/status/2112864182249091500",
+     "title": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters https://saharareporters.com/2",
+     "description": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters    https://saharareporters.com/2026/10/21/bandits-collect-n10m-demand-another-n10m-release-abducted-zamfara-teacher-sdp-aide",
+     "snippet": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters    https://saharareporters.com/2026/10/21/bandits-collect-n10m-demand-another-n10m-release-abducted-zamfara-teacher-sdp-aide",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahara Reporters",
+     "handle": "@SaharaReporters"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112589807951974566",
+     "title": "BREAKING: Bandits have currently blocked the road from Kuturu to Anka in Zamfara State.",
+     "description": "BREAKING: Bandits have currently blocked the road from Kuturu to Anka in Zamfara State.\n\nSecurity agencies need to act urgently to ensure the safety of motorists and other road users.\n\nMay the Almighty bring an end to this insecurity and restore peace to Zamfara State. Ameen",
+     "snippet": "BREAKING: Bandits have currently blocked the road from Kuturu to Anka in Zamfara State.\n\nSecurity agencies need to act urgently to ensure the safety of motorists and other road users.\n\nMay the Almighty bring an end to this insecurity and restore peace to Zamfara State. Ameen",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2112539508692402204",
+     "title": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.",
+     "description": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.\n\nThankfully, no one was killed, injured or abducted, and no livestock was looted or rustled before the bandits fled.\n\nKudos to the vigilantes for standing up to the attackers and protecting their community. Their bravery and quick response deserve to be commended",
+     "snippet": "UPDATE: The bandits who invaded Birnin Tudu community in Gummi LGA, Zamfara State, have been chased away by local vigilantes.\n\nThankfully, no one was killed, injured or abducted, and no livestock was looted or rustled before the bandits fled.\n\nKudos to the vigilantes for standing up to the attackers and protecting their community. Their bravery and quick response deserve to be commended",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/Abbajshettima/status/2112998753120727217",
+     "title": "ISWAP claims its fighters ambushed Nigerian Army troops in northern Nigeria, reportedly killing a senior officer and six personnel and destr",
+     "description": "ISWAP claims its fighters ambushed Nigerian Army troops in northern Nigeria, reportedly killing a senior officer and six personnel and destroying two military vehicles. The claim remains independently unverified.",
+     "snippet": "ISWAP claims its fighters ambushed Nigerian Army troops in northern Nigeria, reportedly killing a senior officer and six personnel and destroying two military vehicles. The claim remains independently unverified.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abba jibrin shettima",
+     "handle": "@Abbajshettima"
+    },
+    {
+     "url": "https://x.com/Ehis_Peacemaker/status/2112408037050769830",
+     "title": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground?",
+     "description": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "snippet": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ehis Agbon",
+     "handle": "@Ehis_Peacemaker"
+    },
+    {
+     "url": "https://x.com/Sazedek/status/2112924943511904438",
+     "title": "Bandit leader expels Zamfara community for refusing to mine for him Authorities in Zamfara, like other parts of northern Nigeria, have becom",
+     "description": "Bandit leader expels Zamfara community for refusing to mine for him\n\nAuthorities in Zamfara, like other parts of northern Nigeria, have become numb to what is happening to their people. How can an entire community be expelled by a bandit leader and local authorities turn a blind eye, pretending not to be aware?\n\nNo adequate shelter, no food, no acknowledgement of their condition. NOTHING. It's a crazy experience for people down there.",
+     "snippet": "Bandit leader expels Zamfara community for refusing to mine for him\n\nAuthorities in Zamfara, like other parts of northern Nigeria, have become numb to what is happening to their people. How can an entire community be expelled by a bandit leader and local authorities turn a blind eye, pretending not to be aware?\n\nNo adequate shelter, no food, no acknowledgement of their condition. NOTHING. It's a crazy experience for people down there.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Malik Samuel",
+     "handle": "@Sazedek"
+    }
+   ]
+  }
+ ]
+}
