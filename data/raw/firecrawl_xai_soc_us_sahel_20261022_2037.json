@@ -1,0 +1,116 @@
+{
+ "query": "United States Niger Mali Sahel AFRICOM cooperation sanctions",
+ "_tag": "soc_us_sahel",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AsstSecStateAF/status/2112675760548811071",
+     "title": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public s",
+     "description": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "snippet": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bureau of African Affairs",
+     "handle": "@AsstSecStateAF"
+    },
+    {
+     "url": "https://x.com/USEmbassyGhana/status/2112878126434849028",
+     "title": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting i",
+     "description": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting in Accra. Participants held constructive discussions on regional stability, economic resilience, and cross-border cooperation. The United States is working with partners to advance security and prosperity across West Africa.",
+     "snippet": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting in Accra. Participants held constructive discussions on regional stability, economic resilience, and cross-border cooperation. The United States is working with partners to advance security and prosperity across West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Embassy Accra",
+     "handle": "@USEmbassyGhana"
+    },
+    {
+     "url": "https://x.com/GPMonitor/status/2112943158741135602",
+     "title": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response.",
+     "description": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response. Its headquarters is still in Stuttgart, Germany.\n\nThe case for a forward headquarters in coastal West Africa:\n\nhttps://www.geopoliticalmonitor.com/africom-headquarters-west-africa/",
+     "snippet": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response. Its headquarters is still in Stuttgart, Germany.\n\nThe case for a forward headquarters in coastal West Africa:\n\nhttps://www.geopoliticalmonitor.com/africom-headquarters-west-africa/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Geopolitical Monitor",
+     "handle": "@GPMonitor"
+    },
+    {
+     "url": "https://x.com/beyondB_DAG/status/2112087038409211908",
+     "title": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱,",
+     "description": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "snippet": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Revolutionary Soldier",
+     "handle": "@beyondB_DAG"
+    },
+    {
+     "url": "https://x.com/FAnalysis247/status/2112998771273379936",
+     "title": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public s",
+     "description": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs.",
+     "snippet": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ForeignAnalysis",
+     "handle": "@FAnalysis247"
+    },
+    {
+     "url": "https://x.com/stopwagnergroup/status/2112151043534401703",
+     "title": "🇷🇺Russia Tightens Its Grip on the 🌴Sahel via the Skies: An Opaque Logistics Network Between January 2025 and July 2026, pro-Russian forces c",
+     "description": "🇷🇺Russia Tightens Its Grip on the 🌴Sahel via the Skies: An Opaque Logistics Network\n\nBetween January 2025 and July 2026, pro-Russian forces conducted ✈️✈️ 75 flights to Mali, Burkina Faso and Niger, according to ADS-B tracking data analysed by @C4ADS. 🇧🇫 Burkina Faso accounts for the bulk of the traffic, followed by Mali, while activity in Niger remains marginal. These rotations — carried out primarily by Soviet-era Antonov An-124 and Ilyushin Il-76 aircraft — sustain Africa Corps, the successor to the Wagner Group, now operating under direct Russian military command.\n\nThis aerial shuttle is more than logistical support. It forms the backbone of a grip that has consolidated since the region’s military coups. In exchange for security guarantees against groups such as JNIM and ISGS, 🇷🇺 Moscow has secured mining concessions, military bases and direct political influence, while remaining largely shielded from accountability. Civilians have paid the price through extrajudicial killings, violence and a continued deterioration of security, even as these forces have proven largely ineffective against armed groups.\n\nOperators combine state entities — notably Flight Unit 224, the Special Flight Squadron and EMERCOM — with private companies, some already under sanctions (Aviacon Zitotrans, Rubystar, Sapsan). This hybrid model obscures attribution and preserves plausible deniability. State aircraft typically transit through Russian-controlled bases in Khmeimim (Syria) and Al-Khadim 🇱🇾(Libya), while private operators favour commercial hubs in Abu Dhabi, Algeria or Turkey. These stopovers act as potential chokepoints: disrupting access to them would significantly complicate resupply. Traffic spikes have coincided with high-level visits (including Ibrahim Traoré’s trip to Moscow in May 2025) and ground offensives. Burkina Faso functions as the main regional hub.\n\nThe transition from Wagner to Africa Corps has changed little on the ground: the same bases, routes and model of resource extraction and predation persist. The Central Sahel remains a strategic node for Russian influence in Africa, underpinned by a discreet, redundant and still difficult-to-disrupt air logistics network.\n\n#AfricaCorps #Wagner #RussianInfluence #Mali #BurkinaFaso #Niger #RussiaAfrica",
+     "snippet": "🇷🇺Russia Tightens Its Grip on the 🌴Sahel via the Skies: An Opaque Logistics Network\n\nBetween January 2025 and July 2026, pro-Russian forces conducted ✈️✈️ 75 flights to Mali, Burkina Faso and Niger, according to ADS-B tracking data analysed by @C4ADS. 🇧🇫 Burkina Faso accounts for the bulk of the traffic, followed by Mali, while activity in Niger remains marginal. These rotations — carried out primarily by Soviet-era Antonov An-124 and Ilyushin Il-76 aircraft — sustain Africa Corps, the successor to the Wagner Group, now operating under direct Russian military command.\n\nThis aerial shuttle is more than logistical support. It forms the backbone of a grip that has consolidated since the region’s military coups. In exchange for security guarantees against groups such as JNIM and ISGS, 🇷🇺 Moscow has secured mining concessions, military bases and direct political influence, while remaining largely shielded from accountability. Civilians have paid the price through extrajudicial killings, violence and a continued deterioration of security, even as these forces have proven largely ineffective against armed groups.\n\nOperators combine state entities — notably Flight Unit 224, the Special Flight Squadron and EMERCOM — with private companies, some already under sanctions (Aviacon Zitotrans, Rubystar, Sapsan). This hybrid model obscures attribution and preserves plausible deniability. State aircraft typically transit through Russian-controlled bases in Khmeimim (Syria) and Al-Khadim 🇱🇾(Libya), while private operators favour commercial hubs in Abu Dhabi, Algeria or Turkey. These stopovers act as potential chokepoints: disrupting access to them would significantly complicate resupply. Traffic spikes have coincided with high-level visits (including Ibrahim Traoré’s trip to Moscow in May 2025) and ground offensives. Burkina Faso functions as the main regional hub.\n\nThe transition from Wagner to Africa Corps has changed little on the ground: the same bases, routes and model of resource extraction and predation persist. The Central Sahel remains a strategic node for Russian influence in Africa, underpinned by a discreet, redundant and still difficult-to-disrupt air logistics network.\n\n#AfricaCorps #Wagner #RussianInfluence #Mali #BurkinaFaso #Niger #RussiaAfrica",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/AfricaupdateHQ/status/2113029518025998628",
+     "title": "Nearly 21 months after exiting ECOWAS, the Sahel Alliance of Mali, Burkina Faso and Niger has agreed to negotiate a formal cooperation deal",
+     "description": "Nearly 21 months after exiting ECOWAS, the Sahel Alliance of Mali, Burkina Faso and Niger has agreed to negotiate a formal cooperation deal with the regional body.\n#SahelAlliance #ECOWAS #Mali #BurkinaFaso #Niger #WestAfrica",
+     "snippet": "Nearly 21 months after exiting ECOWAS, the Sahel Alliance of Mali, Burkina Faso and Niger has agreed to negotiate a formal cooperation deal with the regional body.\n#SahelAlliance #ECOWAS #Mali #BurkinaFaso #Niger #WestAfrica",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AfricaupdateHQ",
+     "handle": "@AfricaupdateHQ"
+    },
+    {
+     "url": "https://x.com/diplomatictimes/status/2113036124046151800",
+     "title": "President John Dramani Mahama has welcomed external partners willing to support the fight against terrorism in the Sahel, stressing that cou",
+     "description": "President John Dramani Mahama has welcomed external partners willing to support the fight against terrorism in the Sahel, stressing that countries in the region should be open to cooperation with any partner committed to tackling the threat.",
+     "snippet": "President John Dramani Mahama has welcomed external partners willing to support the fight against terrorism in the Sahel, stressing that countries in the region should be open to cooperation with any partner committed to tackling the threat.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Diplomatic Times",
+     "handle": "@diplomatictimes"
+    },
+    {
+     "url": "https://x.com/grok/status/2112814843124216148",
+     "title": "Western forces left when asked: France/US withdrew from Mali, Burkina Faso, Niger, Chad, Senegal and Ivory Coast after government requests.",
+     "description": "Western forces left when asked: France/US withdrew from Mali, Burkina Faso, Niger, Chad, Senegal and Ivory Coast after government requests. Presence rested on bilateral deals that end. Aid is voluntary, offered with conditions; recipients can refuse it and donors can suspend it. No verified Western threats of attack solely for expelling troops while retaining aid. Past ECOWAS warnings after coups targeted restoring elected rule and did not produce invasions.",
+     "snippet": "Western forces left when asked: France/US withdrew from Mali, Burkina Faso, Niger, Chad, Senegal and Ivory Coast after government requests. Presence rested on bilateral deals that end. Aid is voluntary, offered with conditions; recipients can refuse it and donors can suspend it. No verified Western threats of attack solely for expelling troops while retaining aid. Past ECOWAS warnings after coups targeted restoring elected rule and did not produce invasions.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112440698863501578",
+     "title": "Yes, reports from AFRICOM, UNODC and others confirm Sahel groups like JNIM and ISIS affiliates tax and protect cocaine routes.",
+     "description": "Yes, reports from AFRICOM, UNODC and others confirm Sahel groups like JNIM and ISIS affiliates tax and protect cocaine routes. Proceeds fund weapons and fighters, linking narcotics flows to jihadist expansion in West Africa.",
+     "snippet": "Yes, reports from AFRICOM, UNODC and others confirm Sahel groups like JNIM and ISIS affiliates tax and protect cocaine routes. Proceeds fund weapons and fighters, linking narcotics flows to jihadist expansion in West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

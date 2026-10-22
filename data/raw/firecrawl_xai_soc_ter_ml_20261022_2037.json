@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SimNasr/status/2112546877480517655",
+     "title": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite d",
+     "description": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "snippet": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wassim Nasr",
+     "handle": "@SimNasr"
+    },
+    {
+     "url": "https://x.com/EyeThink_/status/2112794389957468277",
+     "title": "[🇲🇱MALI] Au moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao,",
+     "description": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "snippet": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eye Think",
+     "handle": "@EyeThink_"
+    },
+    {
+     "url": "https://x.com/thinkstrataf/status/2112483159900028931",
+     "title": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, su",
+     "description": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, sur l’axe Bandiagara-Douentza. Son chauffeur aurait été tué",
+     "snippet": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, sur l’axe Bandiagara-Douentza. Son chauffeur aurait été tué",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "STRATAF",
+     "handle": "@thinkstrataf"
+    },
+    {
+     "url": "https://x.com/SaladinAlDronni/status/2112217219299959192",
+     "title": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako co",
+     "description": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "snippet": "It seems that around Menaka, Tuaregs loyal to Mali regime somehow poked the Islamic State to the extent the backlash is brutal and Bamako conducted multiple airstrikes in defense. Jihadists' retaliation was massive, but casualties need to be confirmed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paweł Wójcik 🦋",
+     "handle": "@SaladinAlDronni"
+    },
+    {
+     "url": "https://x.com/HumAngle_/status/2112906881320579519",
+     "title": "When the state’s uncrewed aerial vehicle (UAV) emitted fire from the sky during a counterterrorism operation in Gao, it killed Ahmadu’s enti",
+     "description": "When the state’s uncrewed aerial vehicle (UAV) emitted fire from the sky during a counterterrorism operation in Gao, it killed Ahmadu’s entire family and seven other unarmed locals. The bombing was delivered summarily; only that it fell on the wrong targets, survivors say, noting that the incident has reduced the settlement to a ghost of itself.\n\nTwo years later, only human wreckage is left in the village of Amasrakad, bombarded by the Malian junta in the name of destroying terrorists.",
+     "snippet": "When the state’s uncrewed aerial vehicle (UAV) emitted fire from the sky during a counterterrorism operation in Gao, it killed Ahmadu’s entire family and seven other unarmed locals. The bombing was delivered summarily; only that it fell on the wrong targets, survivors say, noting that the incident has reduced the settlement to a ghost of itself.\n\nTwo years later, only human wreckage is left in the village of Amasrakad, bombarded by the Malian junta in the name of destroying terrorists.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "HumAngle_",
+     "handle": "@HumAngle_"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112110067868733656",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Kouliko",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 18 October, #JNIM claimed a guided IED strike on a Malian army vehicle between Koula and Djeni, in the #Koulikoro region, in the evening.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2112160885095674030",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Take Over a Malian Army (FAMa) Base in Mamassoni, Sikasso City Area, #Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-base-mamassoni-sikasso-city-area-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2112947129068990716",
+     "title": "dirigeants de l'État islamique ont appelé les citoyens à retourner dans leurs villages #Menaka 2023 la plupart des habitants ont répondu à c",
+     "description": "dirigeants de l'État islamique ont appelé les citoyens à retourner dans leurs villages #Menaka 2023 la plupart des habitants ont répondu à cet appel et ont vécu en paix sous le joug de l #EIGS #EI Cependant l'armée teero #Mali le Wagner e msa ont depuis lors attaqué ces villages",
+     "snippet": "dirigeants de l'État islamique ont appelé les citoyens à retourner dans leurs villages #Menaka 2023 la plupart des habitants ont répondu à cet appel et ont vécu en paix sous le joug de l #EIGS #EI Cependant l'armée teero #Mali le Wagner e msa ont depuis lors attaqué ces villages",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    },
+    {
+     "url": "https://x.com/BedworthTimes/status/2112629570771824837",
+     "title": "🇲🇱😭 GUNMEN ARRIVE ON MOTORBIKES, OPEN FIRE AND BURN HOMES: At Least 48 Civilians Killed Near Ménaka in Mali Horror Attack #BTnews",
+     "description": "🇲🇱😭 GUNMEN ARRIVE ON MOTORBIKES, OPEN FIRE AND BURN HOMES: At Least 48 Civilians Killed Near Ménaka in Mali Horror Attack #BTnews",
+     "snippet": "🇲🇱😭 GUNMEN ARRIVE ON MOTORBIKES, OPEN FIRE AND BURN HOMES: At Least 48 Civilians Killed Near Ménaka in Mali Horror Attack #BTnews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bedworth Times",
+     "handle": "@BedworthTimes"
+    },
+    {
+     "url": "https://x.com/SaurabhAshutos3/status/2112322593315541139",
+     "title": "Gunmen kill at least 40 civilians in Mali: security and community sources The assailants reportedly rode in on motorcycles, targeting camps",
+     "description": "Gunmen kill at least 40 civilians in Mali: security and community sources\nThe assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community",
+     "snippet": "Gunmen kill at least 40 civilians in Mali: security and community sources\nThe assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "me X",
+     "handle": "@SaurabhAshutos3"
+    }
+   ]
+  }
+ ]
+}

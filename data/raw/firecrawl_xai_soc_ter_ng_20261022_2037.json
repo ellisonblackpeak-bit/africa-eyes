@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/secmxx/status/2113050166345269444",
+     "title": "Update from bandits attack on dirin daji town kebbi state this night....",
+     "description": "Update from bandits attack on dirin daji town kebbi state this night.... The bandits attacked the home of ADC party chairman Sakaba lga, they kidnapped two women from the house, the bandits also shot another woman dead.... Two bandits horde were in area earlier in the day... This is a informant lead operation",
+     "snippet": "Update from bandits attack on dirin daji town kebbi state this night.... The bandits attacked the home of ADC party chairman Sakaba lga, they kidnapped two women from the house, the bandits also shot another woman dead.... Two bandits horde were in area earlier in the day... This is a informant lead operation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/DanKatsina50/status/2113017572815761527",
+     "title": "UPDATE: Bandits invaded Dirin Daji in Sakaba LGA, Kebbi State, after Isha prayer tonight, abducting three women, including the wife of Alhaj",
+     "description": "UPDATE: Bandits invaded Dirin Daji in Sakaba LGA, Kebbi State, after Isha prayer tonight, abducting three women, including the wife of Alhaji Aminu Mai Suga, popularly known as AA Suga, the ADC chairman in the LGA.\n\nTwo other women were shot during the attack. One was shot in the stomach and the other in the buttock. Both are receiving treatment at General Hospital, according to local sources.\n\nSecurity personnel reportedly attempted to rescue the abducted women but were unsuccessful.\n\nNormalcy is gradually returning to the town, although residents remain shaken by the attack. The whereabouts of the three abducted women remain a major concern.",
+     "snippet": "UPDATE: Bandits invaded Dirin Daji in Sakaba LGA, Kebbi State, after Isha prayer tonight, abducting three women, including the wife of Alhaji Aminu Mai Suga, popularly known as AA Suga, the ADC chairman in the LGA.\n\nTwo other women were shot during the attack. One was shot in the stomach and the other in the buttock. Both are receiving treatment at General Hospital, according to local sources.\n\nSecurity personnel reportedly attempted to rescue the abducted women but were unsuccessful.\n\nNormalcy is gradually returning to the town, although residents remain shaken by the attack. The whereabouts of the three abducted women remain a major concern.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bakatsine",
+     "handle": "@DanKatsina50"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2112992487929245883",
+     "title": "Active security situation...",
+     "description": "Active security situation... Bandits are currently inside dirin daji now.... Kebbi state",
+     "snippet": "Active security situation... Bandits are currently inside dirin daji now.... Kebbi state",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2112877471443865943",
+     "title": "Active security situation....",
+     "description": "Active security situation.... Two bandits horde movement from sangeko axis Zamfara state are currently around makuku village in kebbi and inana village Niger state... The bandits will touch the kontagora - rijau highway soon, avoid the area ⚠️... Active situation",
+     "snippet": "Active security situation.... Two bandits horde movement from sangeko axis Zamfara state are currently around makuku village in kebbi and inana village Niger state... The bandits will touch the kontagora - rijau highway soon, avoid the area ⚠️... Active situation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/SaharaReporters/status/2112864182249091500",
+     "title": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters https://saharareporters.com/2",
+     "description": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters    https://saharareporters.com/2026/10/21/bandits-collect-n10m-demand-another-n10m-release-abducted-zamfara-teacher-sdp-aide",
+     "snippet": "Bandits Collect N10m, Demand Another N10m For Release Of Abducted Zamfara Teacher, SDP Aide | Sahara Reporters    https://saharareporters.com/2026/10/21/bandits-collect-n10m-demand-another-n10m-release-abducted-zamfara-teacher-sdp-aide",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahara Reporters",
+     "handle": "@SaharaReporters"
+    },
+    {
+     "url": "https://x.com/Ehis_Peacemaker/status/2112408037050769830",
+     "title": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground?",
+     "description": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "snippet": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground/\n@GroundZero247 @Burtonwarnews @juddsaul @SKefason @masskeemz @MikeOdehJames1 @ProcyonRTV @Kindusluka",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ehis Agbon",
+     "handle": "@Ehis_Peacemaker"
+    },
+    {
+     "url": "https://x.com/MobilePunch/status/2112385316891795911",
+     "title": "𝗕𝗮𝗻𝗱𝗶𝘁𝘀 𝗮𝘁𝘁𝗮𝗰𝗸: 𝗭𝗮𝗺𝗳𝗮𝗿𝗮 𝗿𝗲𝘀𝗶𝗱𝗲𝗻𝘁𝘀 𝗳𝗹𝗲𝗲, 𝗖𝗣 𝗹𝗮𝗺𝗲𝗻𝘁𝘀 𝗱𝘂𝘁𝘆 𝗼𝗳𝗳𝗶𝗰𝗲𝗿𝘀 𝗮𝘀𝗹𝗲𝗲𝗽 𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/bandits-attack-zamfara-residents-flee",
+     "description": "𝗕𝗮𝗻𝗱𝗶𝘁𝘀 𝗮𝘁𝘁𝗮𝗰𝗸: 𝗭𝗮𝗺𝗳𝗮𝗿𝗮 𝗿𝗲𝘀𝗶𝗱𝗲𝗻𝘁𝘀 𝗳𝗹𝗲𝗲, 𝗖𝗣 𝗹𝗮𝗺𝗲𝗻𝘁𝘀 𝗱𝘂𝘁𝘆 𝗼𝗳𝗳𝗶𝗰𝗲𝗿𝘀 𝗮𝘀𝗹𝗲𝗲𝗽\n𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/bandits-attack-zamfara-residents-flee-cp-laments-duty-officers-asleep/",
+     "snippet": "𝗕𝗮𝗻𝗱𝗶𝘁𝘀 𝗮𝘁𝘁𝗮𝗰𝗸: 𝗭𝗮𝗺𝗳𝗮𝗿𝗮 𝗿𝗲𝘀𝗶𝗱𝗲𝗻𝘁𝘀 𝗳𝗹𝗲𝗲, 𝗖𝗣 𝗹𝗮𝗺𝗲𝗻𝘁𝘀 𝗱𝘂𝘁𝘆 𝗼𝗳𝗳𝗶𝗰𝗲𝗿𝘀 𝗮𝘀𝗹𝗲𝗲𝗽\n𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/bandits-attack-zamfara-residents-flee-cp-laments-duty-officers-asleep/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Punch Newspapers",
+     "handle": "@MobilePunch"
+    },
+    {
+     "url": "https://x.com/abdool_moh/status/2112165908785377739",
+     "title": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles.",
+     "description": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles. They have laid siege to villages and are killing people every single day but the main headline from the meeting between the Minister of Defence who is from Zamfara and the president is to assure him of political victory in Zamfara not securing the lives of the people.",
+     "snippet": "Bandits are currently on a vehicle burning spree in Zamfara state, they have promised to burn 250 vehicles. They have laid siege to villages and are killing people every single day but the main headline from the meeting between the Minister of Defence who is from Zamfara and the president is to assure him of political victory in Zamfara not securing the lives of the people.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdool Moh.",
+     "handle": "@abdool_moh"
+    },
+    {
+     "url": "https://x.com/Obrigado100/status/2112274676336546189",
+     "title": "Little wonder all of you wild animals are all sadists from A to Z.",
+     "description": "Little wonder all of you wild animals are all sadists from A to Z. Hate-filled miserable bastards. Look at what bandits are doing in zamfara. A bandit just made a video threatening to burn 250 vehicles and he burnt 9 a day. People of zero compassion. Hate-filled wild beasts",
+     "snippet": "Little wonder all of you wild animals are all sadists from A to Z. Hate-filled miserable bastards. Look at what bandits are doing in zamfara. A bandit just made a video threatening to burn 250 vehicles and he burnt 9 a day. People of zero compassion. Hate-filled wild beasts",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Obri Gado",
+     "handle": "@Obrigado100"
+    },
+    {
+     "url": "https://x.com/isumunna/status/2112057090327916766",
+     "title": "Zamfara Bandit Clashes: Aleru’s fighters reportedly kill notorious Kachallah Dogo Baldu https://newsexpressngr.com/news/329671/zamfara-bandi",
+     "description": "Zamfara Bandit Clashes: Aleru’s fighters reportedly kill notorious Kachallah Dogo Baldu https://newsexpressngr.com/news/329671/zamfara-bandit-clashes-alerus-fighters-reportedly-kill-notorious-kachallah-dogo-baldu",
+     "snippet": "Zamfara Bandit Clashes: Aleru’s fighters reportedly kill notorious Kachallah Dogo Baldu https://newsexpressngr.com/news/329671/zamfara-bandit-clashes-alerus-fighters-reportedly-kill-notorious-kachallah-dogo-baldu",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Isaac Umunna",
+     "handle": "@isumunna"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/RepublicaNepal/status/2112398344777843110",
+     "title": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola R",
+     "description": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola Rural Municipality-2. Large boulders completely blocked vehicular movement along the route.\n\nhttps://myrepublica.nagariknetwork.com/news/khandbari-kimathanka-road-resumes-operation-after-restoration-41-19.html",
+     "snippet": "The vital road connecting Nepal and China had remained closed for three months after a massive landslide in the Chhumsur area of Bhotkhola Rural Municipality-2. Large boulders completely blocked vehicular movement along the route.\n\nhttps://myrepublica.nagariknetwork.com/news/khandbari-kimathanka-road-resumes-operation-after-restoration-41-19.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "República",
+     "handle": "@RepublicaNepal"
+    },
+    {
+     "url": "https://x.com/Pemadorji04/status/2112145694651736395",
+     "title": "In #Nepal, Dashain goods are stuck.",
+     "description": "In #Nepal, Dashain goods are stuck.\nNepal-China trade points: Rasuwagadhi washed out, Korala crippled, Tatopani still shut on #China’s terms.\n#BalenShah’s govt can only “urge” & wait while traders bleed.\nChinese dependency always has a price.\n@Huanusa",
+     "snippet": "In #Nepal, Dashain goods are stuck.\nNepal-China trade points: Rasuwagadhi washed out, Korala crippled, Tatopani still shut on #China’s terms.\n#BalenShah’s govt can only “urge” & wait while traders bleed.\nChinese dependency always has a price.\n@Huanusa",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pema dorji",
+     "handle": "@Pemadorji04"
+    },
+    {
+     "url": "https://x.com/karmawangchukzz/status/2112894666865570126",
+     "title": "Tatopani is still Nepal’s main trade artery with China through Tibet.",
+     "description": "Tatopani is still Nepal’s main trade artery with China through Tibet. Kathmandu has been pushing hard, yet Beijing keeps the route closed for regular trade, waving around vague claims about Tibetan refugees. 1/",
+     "snippet": "Tatopani is still Nepal’s main trade artery with China through Tibet. Kathmandu has been pushing hard, yet Beijing keeps the route closed for regular trade, waving around vague claims about Tibetan refugees. 1/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Karma Wangchuk",
+     "handle": "@karmawangchukzz"
+    },
+    {
+     "url": "https://x.com/SinghRaunab/status/2112195441911849374",
+     "title": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China.",
+     "description": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China. Rising wages, gov preference on high-end electronics, manufacturing have also shifted patterns of Chinese exports to Nepal. \n\nRead it here at The Araniko Project!! Link in cmt",
+     "snippet": "Border disruption is not the only thing #Nepal should closely observe when it comes to trade with China. Rising wages, gov preference on high-end electronics, manufacturing have also shifted patterns of Chinese exports to Nepal. \n\nRead it here at The Araniko Project!! Link in cmt",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Raunab Singh Khatri 孔仁星",
+     "handle": "@SinghRaunab"
+    },
+    {
+     "url": "https://x.com/DWalpiri/status/2112886742185553959",
+     "title": "So China is NOT opening the Tatopani trade route in Nepal-Tibet border after floods wiped out Rasuwagadhi, and their actual excuse is that t",
+     "description": "So China is NOT opening the Tatopani trade route in Nepal-Tibet border after floods wiped out Rasuwagadhi, and their actual excuse is that they're terrified of Tibetans escaping through it\n\nSo desperate and insecure that they are completely tossing aside humanitarian concerns",
+     "snippet": "So China is NOT opening the Tatopani trade route in Nepal-Tibet border after floods wiped out Rasuwagadhi, and their actual excuse is that they're terrified of Tibetans escaping through it\n\nSo desperate and insecure that they are completely tossing aside humanitarian concerns",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "David Walpiri",
+     "handle": "@DWalpiri"
+    },
+    {
+     "url": "https://x.com/angrant_1/status/2112284427930030536",
+     "title": "Kyirong-Rasuwa is China's preferred route to connect Tibet to Nepal.",
+     "description": "Kyirong-Rasuwa is China's preferred route to connect Tibet to Nepal. By concentrating settlement along river valleys in an unstable geology and cryosphere, the logistical violence of the corridor leads to tragic death. My latest in Positions Politics.\n\nhttps://positionspolitics.org/andrew-grant-corridor-catastrophe-climate-change-and-deadly-logistics-in-the-himalayas/",
+     "snippet": "Kyirong-Rasuwa is China's preferred route to connect Tibet to Nepal. By concentrating settlement along river valleys in an unstable geology and cryosphere, the logistical violence of the corridor leads to tragic death. My latest in Positions Politics.\n\nhttps://positionspolitics.org/andrew-grant-corridor-catastrophe-climate-change-and-deadly-logistics-in-the-himalayas/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Andrew Grant 🦋:@angrant.bsky.social",
+     "handle": "@angrant_1"
+    },
+    {
+     "url": "https://x.com/Blake47q/status/2112884009609101528",
+     "title": "Nepal says the road is ready, yet #China demands more assessments, citing security.",
+     "description": "Nepal says the road is ready, yet #China demands more assessments, citing security. This is the risk of trusting Beijing’s promises: #Nepal waits while China decides. Is the #BalenShah govt learning that sovereignty cannot rest on Chinese assurances? @JohnClke",
+     "snippet": "Nepal says the road is ready, yet #China demands more assessments, citing security. This is the risk of trusting Beijing’s promises: #Nepal waits while China decides. Is the #BalenShah govt learning that sovereignty cannot rest on Chinese assurances? @JohnClke",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Blake Richardson",
+     "handle": "@Blake47q"
+    },
+    {
+     "url": "https://x.com/PrinceSajnani/status/2112875327190126739",
+     "title": "🇨🇳 #China offers #Nepal temporary trade access while long-term reliability remains uncertain.",
+     "description": "🇨🇳 #China offers #Nepal temporary trade access while long-term reliability remains uncertain.\nYet #BalenShah govt keeps betting on Beijing.\nMeanwhile, India–#Nepal trade reached $9.38 billion in FY 2025–26, with Nepali exports to India surging. @Vijaykumarko",
+     "snippet": "🇨🇳 #China offers #Nepal temporary trade access while long-term reliability remains uncertain.\nYet #BalenShah govt keeps betting on Beijing.\nMeanwhile, India–#Nepal trade reached $9.38 billion in FY 2025–26, with Nepali exports to India surging. @Vijaykumarko",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Prince Sajnani",
+     "handle": "@PrinceSajnani"
+    },
+    {
+     "url": "https://x.com/Pemadorji04/status/2112870420265238997",
+     "title": "China is still reluctant to reopen Tatopani regularly, citing security concerns linked to Tibetan movements.",
+     "description": "China is still reluctant to reopen Tatopani regularly, citing security concerns linked to Tibetan movements.\n#Nepal’s trade route remains hostage to #Beijing’s priorities.\nIt is high time #BalenShah learns and stops being a puppet in #China's hands.\n@isaacstonefish",
+     "snippet": "China is still reluctant to reopen Tatopani regularly, citing security concerns linked to Tibetan movements.\n#Nepal’s trade route remains hostage to #Beijing’s priorities.\nIt is high time #BalenShah learns and stops being a puppet in #China's hands.\n@isaacstonefish",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pema dorji",
+     "handle": "@Pemadorji04"
+    },
+    {
+     "url": "https://x.com/VoiceofTibet90/status/2112768455216955766",
+     "title": "Tatopani remains #Nepal’s key trade route with #China through #Tibet.",
+     "description": "Tatopani remains #Nepal’s key trade route with #China through #Tibet. Despite Kathmandu’s intensified diplomatic efforts, Beijing has yet to reopen it for regular trade, citing unsubstantiated concerns about Tibetan refugee activities\n@ArunachalCMO @Michael7ucci @mikepompeo @JanJekielek \n#Nepal #China #Tatopani",
+     "snippet": "Tatopani remains #Nepal’s key trade route with #China through #Tibet. Despite Kathmandu’s intensified diplomatic efforts, Beijing has yet to reopen it for regular trade, citing unsubstantiated concerns about Tibetan refugee activities\n@ArunachalCMO @Michael7ucci @mikepompeo @JanJekielek \n#Nepal #China #Tatopani",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Voice Of Tibet",
+     "handle": "@VoiceofTibet90"
+    }
+   ]
+  }
+ ]
+}

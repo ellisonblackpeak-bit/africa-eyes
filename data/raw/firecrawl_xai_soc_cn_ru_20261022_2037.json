@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/MediaQSI/status/2113049613670420914",
+     "title": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year Russia said Gazprom PJSC and China National Petroleum Corp.",
+     "description": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year\n\nRussia said Gazprom PJSC and China National Petroleum Corp. may reach a commercial agreement by year-end on gas supplies via the Power of Baikal link, a route which has the potential to reshape global energy flows.\n\n“We are waiting for our companies to hold commercial talks,” — Russian Deputy Prime Minister Alexander Novak said. \n\n“We hope that by year-end they will reach the necessary agreements,” — he said, referring to deliveries via the future route formerly known as Power of Siberia 2.\n\n#BRICS \n\n@MediaQSI",
+     "snippet": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year\n\nRussia said Gazprom PJSC and China National Petroleum Corp. may reach a commercial agreement by year-end on gas supplies via the Power of Baikal link, a route which has the potential to reshape global energy flows.\n\n“We are waiting for our companies to hold commercial talks,” — Russian Deputy Prime Minister Alexander Novak said. \n\n“We hope that by year-end they will reach the necessary agreements,” — he said, referring to deliveries via the future route formerly known as Power of Siberia 2.\n\n#BRICS \n\n@MediaQSI",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "QSI Media - News, Analytics, World.",
+     "handle": "@MediaQSI"
+    },
+    {
+     "url": "https://x.com/WelcomeTheGulag/status/2112847950799884379",
+     "title": "Russia and China are working on a SECOND gas route of 50 billion cubic meters per year — Russian DPM Novak",
+     "description": "Russia and China are working on a SECOND gas route of 50 billion cubic meters per year — Russian DPM Novak",
+     "snippet": "Russia and China are working on a SECOND gas route of 50 billion cubic meters per year — Russian DPM Novak",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Gulag",
+     "handle": "@WelcomeTheGulag"
+    },
+    {
+     "url": "https://x.com/AvinashKS14/status/2112971775869141265",
+     "title": "Russian Deputy PM Novak: Gazprom and CNPC negotiate second gas route to China — 50 billion cubic meters per year Commercial talks expected b",
+     "description": "Russian Deputy PM Novak: Gazprom and CNPC negotiate second gas route to China — 50 billion cubic meters per year\n\nCommercial talks expected by year-end",
+     "snippet": "Russian Deputy PM Novak: Gazprom and CNPC negotiate second gas route to China — 50 billion cubic meters per year\n\nCommercial talks expected by year-end",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Avinash K S🇮🇳",
+     "handle": "@AvinashKS14"
+    },
+    {
+     "url": "https://x.com/BrianMcDonaldIE/status/2112642762893860907",
+     "title": "Chinese Premier Li Qiang has arrived in St.",
+     "description": "Chinese Premier Li Qiang has arrived in St. Petersburg, where he was welcomed by Russian PM Mikhail Mishustin, ahead of tomorrow’s 31st regular meeting of the heads of government of Russia and China.\n\nOfficials are expected to discuss bilateral trade, energy, industrial cooperation, agriculture and transport infrastructure, with several agreements due to be signed.",
+     "snippet": "Chinese Premier Li Qiang has arrived in St. Petersburg, where he was welcomed by Russian PM Mikhail Mishustin, ahead of tomorrow’s 31st regular meeting of the heads of government of Russia and China.\n\nOfficials are expected to discuss bilateral trade, energy, industrial cooperation, agriculture and transport infrastructure, with several agreements due to be signed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Brian McDonald",
+     "handle": "@BrianMcDonaldIE"
+    },
+    {
+     "url": "https://x.com/1860rm/status/2113051236794589598",
+     "title": "🇨🇳🇷🇺 The future is definitely cooperating with Russia and China.",
+     "description": "🇨🇳🇷🇺 The future is definitely cooperating with Russia and China. \n\nChinese Premier Li Qiang is in St Petersburg for discussions with his counterpart, Russian Premier Mikhail Mishustin, on the issues of trade, economics, industry, energy, culture, and education. \n\nLi was given a tour of the palaces of Catherine and of Alexander I at the Tsarskoye Selo, and was shown the Chinese Hall of Catherine the Great. \n\nThe palace of Tsarskoye Selo was also the site of the Imperial School, which the young Alexander Pushkin attended and at which he had made his debut as a poet.\n\nThey were joined by the Minister of Culture, Olga Lyubimova, and the First Deputy Minister of Finance, Irina Okladinkova.",
+     "snippet": "🇨🇳🇷🇺 The future is definitely cooperating with Russia and China. \n\nChinese Premier Li Qiang is in St Petersburg for discussions with his counterpart, Russian Premier Mikhail Mishustin, on the issues of trade, economics, industry, energy, culture, and education. \n\nLi was given a tour of the palaces of Catherine and of Alexander I at the Tsarskoye Selo, and was shown the Chinese Hall of Catherine the Great. \n\nThe palace of Tsarskoye Selo was also the site of the Imperial School, which the young Alexander Pushkin attended and at which he had made his debut as a poet.\n\nThey were joined by the Minister of Culture, Olga Lyubimova, and the First Deputy Minister of Finance, Irina Okladinkova.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ryan Milton 弥瑞恩",
+     "handle": "@1860rm"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2112935188611404236",
+     "title": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "description": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "snippet": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/SanaJournalist1/status/2112974766877643203",
+     "title": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companie",
+     "description": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "snippet": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sara | Journalist",
+     "handle": "@SanaJournalist1"
+    },
+    {
+     "url": "https://x.com/num1_ch/status/2112934593166975332",
+     "title": "🇨🇳🇷🇺🔥 CHINA'S PM: CHINA READY TO COOPERATE WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES AND OTHER AREAS — XINHUA How deep",
+     "description": "🇨🇳🇷🇺🔥 CHINA'S PM: CHINA READY TO COOPERATE WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES AND OTHER AREAS — XINHUA\n\nHow deep does this energy partnership go before the West runs out of leverage?",
+     "snippet": "🇨🇳🇷🇺🔥 CHINA'S PM: CHINA READY TO COOPERATE WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES AND OTHER AREAS — XINHUA\n\nHow deep does this energy partnership go before the West runs out of leverage?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "N1 Channel",
+     "handle": "@num1_ch"
+    },
+    {
+     "url": "https://x.com/OSINT521/status/2112969565202469313",
+     "title": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to strengthen oil cooperation between their energy companies.",
+     "description": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to strengthen oil cooperation between their energy companies.",
+     "snippet": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to strengthen oil cooperation between their energy companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Open Source Intelligence",
+     "handle": "@OSINT521"
+    },
+    {
+     "url": "https://x.com/HemanNamo/status/2112974700397637796",
+     "title": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "description": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "snippet": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Himanshu Jain",
+     "handle": "@HemanNamo"
+    }
+   ]
+  }
+ ]
+}

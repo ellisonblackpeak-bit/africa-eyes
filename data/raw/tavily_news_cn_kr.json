@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Do Chinese Overseas-Expanding Firms Cede Control First? Ronbay Technology Invests ¥2.1B in Loss-Making South Korean Factory, Cuts Controlling Stake to 24.9% for North American Market Access",
-   "url": "https://eu.36kr.com/en/p/4027355728270981",
-   "snippet": "Recently, Ningbo Ronbay New Energy Technology Co., Ltd. signed an investment agreement worth 430 billion won (about 2.146 billion yuan) with North Chungcheong Province of South Korea, planning to build a new plant with an annual output of 64,000 tons of ternary cathode materials in Chungju, and the investment is targeted at an asset that has been loss-making for many years. [...] 24.9%, only 0.1 p",
-   "published": "Fri, 16 Oct 2026 04:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Samsung, SK hynix shift chip strategy as U.S.-China rivalry reshapes Korea",
    "url": "https://www.koreajoongangdaily.com/business/korean-manufacturers-redraw-china-playbook-as-us-pressure-escalates/12924062",
    "snippet": "Samsung and SK hynix have already pledged 800 trillion won ($600 billion) to the Korean government to build a massive chip manufacturing cluster in the Jeonnam-Gwangju region. The investment is meant to keep pace with AI-driven chip demand and also to stimulate the rural economy outside the capital.\n\nThis investment is separate from the Yongin cluster in Gyeonggi, where the two companies are expec",
@@ -44,6 +37,13 @@
    "source": "tavily"
   },
   {
+   "title": "The Facade of Complementarity: The Threat That Sino-Korean Tech Cooperation Poses for Seoul",
+   "url": "https://www.nbr.org/publication/the-facade-of-complementarity-the-threat-that-sino-korean-tech-cooperation-poses-for-seoul",
+   "snippet": "Emily de La Bruyère argues that the tightening of technological and industrial ties between South Korea and China threatens to erode South Korea's long-term",
+   "published": "Thu, 22 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "South Korea, US Pull Apart as the Alliance Strains – The Diplomat",
    "url": "https://thediplomat.com/2026/10/south-korea-us-pull-apart-as-the-alliance-strains",
    "snippet": "U.S. President Donald Trump announced on September 30 that South Korea would invest $54 billion in the Alaska liquefied natural gas project. The trade ministry in Seoul said no decision had been made on whether to invest or how much. Trump pressed the point two days later. On October 2, he warned Seoul of higher costs for staying out of the project. He repeated the investment claim on October 14 i",
@@ -68,7 +68,7 @@
    "title": "U.S. Signs a Mining Agreement with Nigeria",
    "url": "https://www.instituteforenergyresearch.org/international-issues/u-s-signs-a-mining-agreement-with-nigeria",
    "snippet": "Nigeria and the United States signed an agreement on the sidelines of the U.N. General Assembly on September 24 to expand American investment in Nigeria's",
-   "published": "Tue, 20 Oct 2026 17:00:00 GMT",
+   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
    "source": "tavily"
   }
  ],
