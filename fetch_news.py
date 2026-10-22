@@ -144,31 +144,46 @@ PLAN = [
     ("cn_wa",   "Chinese firm West Africa", [], 12),
     ("cn_af",   "Chinese investment Africa", [], 12),
     # ─── Africa four — China RISK events ────────────────────────────────────
-    # The reader's complaint on 2026-10-21: not one card about a Chinese citizen
-    # kidnapped, a Chinese company fined, or a Chinese project attacked. The
-    # general angles above never surface these, because a kidnapping story is
-    # written as "Gunmen abduct two Chinese miners in Kwali" — the search index
-    # ranks it low for "China Nigeria investment". These six angles target the
-    # EVENT, which is how the local press actually headlines it.
-    # Budget: 6 × 8 ≈ 48 extra credits per round.
-    ("cn_kidnap",  "Chinese kidnapped Nigeria", [], 8),
-    ("cn_fined",   "Chinese company fined", [], 8),
-    ("cn_attacked", "Chinese workers attacked", [], 8),
-    ("cn_illegal", "Chinese illegal mining arrested", [], 8),
+    # Rewritten 2026-10-22 after the reader pointed out that several real
+    # incidents were on the wire and not on the page. Two things were wrong:
+    #   · the queries described the STORY ("Chinese workers attacked") instead
+    #     of what the desk actually writes ("gunmen abduct", "police arrest",
+    #     "traders protest");
+    #   · they were all conditioned on the word "Chinese", so a story headlined
+    #     "Nigerian traders' dispute with Chinese vendors" ranked low, and one
+    #     headlined "18 arrested in Surigao illegal mining raid" not at all.
+    # The angles below are the phrasings the local press uses for the same four
+    # events, measured one by one on the live index.
+    ("cn_kidnap",   "Chinese kidnapped Nigeria", [], 8),
+    ("cn_abduct",   "foreign workers abducted Nigeria", [], 8),
+    ("cn_arrest",   "Chinese arrested Africa mining", [], 8),
+    ("cn_charged",  "Chinese national court Nigeria", [], 8),
+    ("cn_mineatk",  "Chinese mine site attack", [], 8),
+    ("cn_trader",   "Nigerian traders Chinese market", [], 8),
+    ("cn_protest",  "Chinese investment protest Nigeria", [], 8),
+    ("cn_fined",    "Chinese company fined", [], 8),
+    ("cn_illegal",  "Chinese illegal mining arrested", [], 8),
     ("cn_galamsey", "Chinese galamsey Ghana", [], 8),
-    ("cn_court",   "Chinese firm court Africa", [], 8),
-    # ─── Niger: the Chinese oil complex, by asset name ──────────────────────
-    # The reader asked for these to be guaranteed (2026-10-21). A general
-    # "China Niger" angle does not surface them, because the local press writes
-    # "SORAZ", "Zinder refinery" or "the Niger–Benin pipeline" and never says
-    # "China" at all. Each asset gets its own short query.
-    ("cn_cnpc",   "CNPC Niger oil", [], 8),
-    ("cn_soraz",  "Zinder refinery SORAZ", [], 8),
-    ("cn_pipe",   "Niger Benin pipeline oil", [], 8),
-    ("cn_agadem", "Agadem oil block", [], 8),
-    # ─── China-interest risk events, phrased as the local press phrases them ──
-    ("cn_killed",  "Chinese national killed Africa", [], 8),
-    ("cn_summon",  "Chinese company summoned government", [], 8),
+    ("cn_casualty", "Chinese killed Africa accident", [], 8),
+    # ─── Niger: the oil complex ──────────────────────────────────────────────
+    # The reader asked for CNPC Niger, the Zinder refinery, Agadem, the
+    # Niger–Benin pipeline and the oil ministry by name, and got two cards.
+    # Reason: the NAMES are not how the news is written. In the window that
+    # mattered, every Niger oil story was a FUEL story — "Niger bans petrol and
+    # diesel exports", "fuel queues form in Niamey", "oil well eruption".
+    # "Zinder refinery SORAZ" returned Indian refineries and South African zinc;
+    # "Niger fuel shortage refinery" returned eight on-topic items. So the
+    # angles lead with the phenomenon and let the names catch the rest.
+    ("ne_oil",      "Niger fuel shortage refinery", [], 8),
+    ("ne_fuel",     "Niamey fuel", [], 8),
+    ("ne_export",   "Niger bans petrol exports", [], 8),
+    ("ne_ministry", "Niger petrol minister oil", [], 8),
+    ("cn_cnpc",     "Agadem oil field", [], 8),
+    ("cn_cnpc2",    "CNPC Niger oil", [], 8),
+    ("cn_soraz",    "Zinder refinery Niger", [], 8),
+    ("cn_pipe",     "Niger Benin pipeline", [], 8),
+    ("cn_killed",   "Chinese national killed Africa", [], 8),
+    ("cn_summon",   "Chinese company summoned government", [], 8),
     # ─── Africa four — US angle ─────────────────────────────────────────────
     ("us_ng",    "US Nigeria", [], 12),
     ("us_gh",    "US Ghana military", [], 12),

@@ -57,6 +57,45 @@ CST = timezone(timedelta(hours=8))
 # aged out at WINDOW_DAYS. Without the pool the page would empty out every run.
 FETCH_DAYS = 3
 WINDOW_DAYS = 3
+# Two narrow exceptions to WINDOW_DAYS, both requested by name (2026-10-22).
+# The Niger oil complex and China-interest risk events are RARE — the whole
+# Niger oil beat produced two usable items in the 3-day window, and the fuel
+# shortage cluster (export ban, queues in Niamey) was 10-18, four days back.
+# A strict 3-day window therefore showed an empty beat most days, which is what
+# the reader was seeing. These assets and events keep a longer history; every
+# card still carries its real date, so nothing is passed off as current.
+OIL_DAYS = 21        # Niger oil complex: CNPC / SORAZ / Agadem / pipeline / fuel
+
+# Some tier-4 items bypass the cap entirely.
+#
+# JNIM / EIGS / MPLJ / ISWAP / Boko Haram / Lakurawa stories have no China, US or
+# government actor, so they are tier 4 — and the cap threw them away first, which
+# is why the page showed essentially no terror coverage even though the fetch had
+# it.
+#
+# The Niger oil complex is in the same position and the reader asked for it by
+# name. "Oil well blowout in Niger still not under control" names no government
+# and no Chinese firm in a way the tier test recognises, so it was capped out —
+# 428 tier-4 items were being cut to 30, and the well blowout, the 45-day
+# repatriation order and the SORAZ story were all inside that cut. Anything
+# touching the Chinese oil assets (CNPC / SORAZ / Agadem / Zinder / the
+# Niger–Benin pipeline) is therefore never capped, and neither is any
+# China-interest risk event.
+NIGER_OIL_RX = re.compile(
+    r"\bcnpc\b|\bsoraz\b|\bagadem\b|\bzinder\b|"
+    r"\bniger[-\s]benin\b|\bpetrolin\b|\bsonidep\b|"
+    r"oil\s+well|\bblowout\b|\bwell\s+(?:eruption|blow-?out)\b|"
+    # The fuel-shortage cluster. Every Niger oil story in the 2026-10-18 window
+    # was a FUEL story, not an asset story: the export ban, the queues in
+    # Niamey, the refinery running short. None of those headlines contain
+    # "CNPC" or "SORAZ", so they read as generic regional copy and were capped.
+    r"\bfuel\s+(?:shortage|queues?|crisis|scarcity|supply)\b|"
+    r"\bpetrol\b|\bdiesel\b|\bgasoline\b|\bgasoil\b|"
+    r"\b(?:export|exports)\s+ban\b|\bbans?\s+(?:petrol|diesel|fuel)\b|"
+    r"\brefiner(?:y|ies)\b|\bcrude\b|"
+    r"中石油|中石化|津德尔|索拉兹|阿加德姆|尼贝管道|尼日尔-贝宁|"
+    r"炼油厂|输油管道|油井|井喷|燃油|汽油|柴油|燃料短缺|石油部|油气", re.I)
+RISK_DAYS = 14       # Chinese nationals kidnapped, arrested, killed, fined
 
 # Ceiling for the unfoldable article body, in characters. 4000 cut long-form
 # stories roughly in half, so the 展开全文 panel ended mid-article; 12000 holds a
@@ -404,10 +443,45 @@ CN_SUBJECT_RX = re.compile(
     r"chinese[- ]owned|chinese[- ]run|soraz|petrolin|agadem)(?![A-Za-z])|"
     r"中国|中方|中资|中企|华商|华人|华侨|中石油|中石化|中铁|中交|中电建|"
     r"中国石油|中国石化|葛洲坝|华为|中兴|津德尔|索拉兹|阿加德姆|尼贝管道", re.I)
+
+# Harm to a PERSON, not to a state. "人身安全" is about Chinese nationals being
+# kidnapped, killed or arrested; a headline that says 中国军队 or 中国企业 is
+# talking about an institution, and pairing it with 死亡 produced a false
+# positive on "金正恩死亡传闻…9000名中国军队".
+CN_PERSON_RX = re.compile(
+    r"(?<![A-Za-z])chinese(?:\s+|[-])(?:nationals?|citizens?|workers?|miners?|"
+    r"traders?|businessm[ae]n|engineers?|expatriates?|crew|sailors?|students?|"
+    r"tourists?|doctors?|nurses?|drivers?|technicians?|residents?|national)\b|"
+    r"\bchinese\s+(?:man|woman|men|women|boy|girl|people)\b|"
+    # "18 including 8 Chinese nabbed" — a count plus the bare demonym is the
+    # commonest way a wire desk writes it, and it names people, not a state.
+    r"\b\d+\s+(?:more\s+)?chinese\b(?!\s+(?:army|troops|military|firms?|companies))|"
+    # …but "9000名中国军队" is an institution, not nine thousand people in harm's
+    # way. A following institutional noun disqualifies the match.
+    r"\b\d+\s*名\s*中国(?!军队|军方|企业|公司|政府|大使馆|海军|空军|舰|船队)|"
+    r"中国(?:公民|工人|矿工|商人|船员|渔民|留学生|工程师|医生|护士|司机|"
+    r"游客|侨民|籍|人)|中方(?:人员|人员)|华侨|华人|华商|华工", re.I)
 RISK_KIDNAP_RX = re.compile(
-    r"\bkidnap|\babduct|\bseized\b|\bmissing\b|\bkilled\b|\bslain\b|\bmurder|"
-    r"\bshot\s+dead|\bgunmen\b|\bexecuted\b|"
-    r"绑架|劫持|被绑|遇害|被杀|杀害|失踪|身亡|遇难|枪杀|击毙", re.I)
+    r"\bkidnap|\babduct|\bseized\b|\bmissing\b|\bkilled?\b|\bkilling|\bslain\b|"
+    r"\bmurder|\bshot\s+dead|\bgunmen\b|\bexecuted\b|\binjured\b|\bwounded\b|"
+    r"\bdeaths?\b|\bdied\b|\bdead\b|\bfatal|\bstoned\b|\blynched\b|"
+    # Arrest and detention are risks to the reader's people in the same way a
+    # kidnapping is. "18 including 8 Chinese nabbed for illegal mining" was on
+    # the wire for three days and never reached the page, because the old
+    # predicate only knew about violence.
+    r"\barrest(?:ed|s)?\b|\bnabbed\b|\bdetain(?:ed|s)?\b|\bjailed\b|"
+    r"\bheld\s+(?:by|in)\b|\bcustody\b|\bdeported\b|\bextradit\w*|"
+    r"绑架|劫持|被绑|遇害|被杀|杀害|失踪|身亡|遇难|枪杀|击毙|死亡|丧生|"
+    r"受伤|伤员|伤亡|被捕|逮捕|拘留|拘押|被扣|驱逐|遣返|获刑", re.I)
+# Commercial friction that puts Chinese traders or firms at risk. Kept separate
+# from the violence predicate: "Nigerian traders' dispute with Chinese vendors"
+# is a real risk story for anyone with capital on the ground, and it never
+# touches a violence word.
+RISK_DISPUTE_RX = re.compile(
+    r"\bdispute[sd]?\b|\bprotest(?:s|ed|ing)?\b|\bbacklash\b|\brow\b|"
+    r"\btension|\bclash(?:es|ed)?\b|\bboycott|\bshut\s+down\b|"
+    r"\bracket(?:s|eering)?\b|\bblackmail|\bextortion|"
+    r"纠纷|争议|抗议|示威|抵制|冲突|矛盾|摩擦|抵制|勒索|索贿", re.I)
 RISK_FINE_RX = re.compile(
     r"\bfined?\b|\bpenalt(?:y|ies)\b|\bsanction|\bprosecut|\bconvicted\b|"
     r"\bseized\s+(?:assets|goods|cargo)|\bforfeit|\bdefault(?:ed)?\s+on\b|"
@@ -430,7 +504,7 @@ RISK_ATTACK_RX = re.compile(
     r"\battack(?:ed|s)?\b|\braid(?:ed|s)?\b|\bbomb(?:ed|ing)?\b|\bambush|"
     r"\bsabotag|\bvandal|\bloot(?:ed|ing)?\b|\bburn(?:ed|t|ing)?\b|"
     r"\bstormed\b|\boverrun\b|\bhostage|"
-    r"袭击|遇袭|被袭|轰炸|爆炸|伏击|破坏|纵火|焚毁|劫掠|抢劫|冲击", re.I)
+    r"袭击|遇袭|被袭|轰炸|爆炸|伏击|破坏|纵火|焚毁|劫掠|抢劫|冲击|攻击(?!型|无人机|机)", re.I)
 # A project / asset owned by Chinese interests.
 CN_PROJECT_RX = re.compile(
     r"\b(?:refinery|pipeline|mine|mining\s+site|smelter|plant|dam|rail(?:way)?|"
@@ -440,43 +514,90 @@ CN_PROJECT_RX = re.compile(
     r"工地|施工现场|项目|营地", re.I)
 
 
+def _harm_near_cn(t, window=40):
+    """Does a harm word apply to a Chinese PERSON in this headline?
+
+    Three conditions, each closing a real false positive:
+      · the subject must be a person, not an institution — "9000名中国军队" is
+        not a casualty and pairing it with 死亡 produced "金正恩死亡传闻" as a
+        Chinese death story;
+      · a harm word must be present;
+      · and the two must sit within `window` characters of each other, because
+        a headline about one thing often mentions the other in passing.
+    """
+    t = t or ""
+    m = CN_PERSON_RX.search(t)
+    if not m:
+        return False
+    lo, hi = max(0, m.start() - window), min(len(t), m.end() + window)
+    return bool(RISK_KIDNAP_RX.search(t[lo:hi]))
+
+
 def cn_risk(title, summary="", country=None):
-    """(is_risk, kind) for a Chinese-interest risk event **inside the four countries**.
+    """(is_risk, kind) for a Chinese-interest risk event.
 
-    Two guards, both learned from the first live run:
+    Rewritten 2026-10-22. The reader was right that the page was too clean:
+    a court jailing a Chinese national, eight Chinese arrested in a mining
+    raid, traders organising against Chinese vendors — all on the wire, none
+    on the page. Four things were wrong and all four are fixed here.
 
-    1. SUBJECT — China/Chinese, or a named Chinese operator (CNPC, SORAZ …), must
-       appear in the HEADLINE. A summary that mentions China in a related-links
-       rail must not turn a local crime story into a China story.
-    2. THEATRE — the item must sit in Nigeria / Niger / Mali / Ghana. Without this
-       the flag collected "US sanctions five Chinese firms over Google trade
-       secrets" (Washington's business) and "Manila summons China's ambassador"
-       (a South China Sea spat). Neither is a Chinese operator being kidnapped,
-       fined, summoned or attacked in West Africa, which is what the reader asked
-       to find.
+    1. SUBJECT. China/Chinese, or a named Chinese operator (CNPC, SORAZ), in
+       the HEADLINE. A summary may also supply it, but only its first 200
+       characters, so a related-links rail cannot turn a local crime story
+       into a China story.
+    2. PREDICATE. Violence AND arrest AND detention AND commercial friction.
+       The old set only knew about violence, so "18 including 8 Chinese nabbed
+       for illegal mining" and "traders dispute with Chinese vendors" both
+       scored zero.
+    3. THEATRE, GRADED. Personal harm (kidnap, death, arrest, attack on a
+       project) counts in the four countries AND the eight periphery countries
+       — Chinese nationals are at risk in Myanmar and the Philippines too, and
+       the reader asked about both. Official-friction categories (fined,
+       summoned) stay limited to the four, because those fire on diplomatic
+       copy ("US sanctions five Chinese firms", "Manila summons China's
+       ambassador") that has nothing to do with operations on the ground.
+    4. KINDS are reported so the card can say what happened.
     """
     t = title or ""
-    if not t or not CN_SUBJECT_RX.search(t):
+    _subj = CN_SUBJECT_RX.search(t)
+    _subj_weak = (not _subj) and bool(CN_SUBJECT_RX.search((summary or "")[:200]))
+    if not t or (not _subj and not _subj_weak):
         return False, ""
+
+    AFRICA4 = {"ng", "ne", "ml", "gh"}
+    PERIPH = {"kr", "ph", "mm", "ru", "in", "np", "vn", "la"}
     if country is not None:
-        cs = country if isinstance(country, (list, tuple, set)) else [country]
-        if not (set(cs) & {"ng", "ne", "ml", "gh"}):
-            return False, ""
+        cs = set(country if isinstance(country, (list, tuple, set)) else [country])
+        in4, in_per = bool(cs & AFRICA4), bool(cs & PERIPH)
     else:
-        # No country known yet: fall back to the theatre being named in the copy.
-        if not re.search(r"nigeria|niger\b|mali|ghana|尼日利亚|尼日尔|马里|加纳",
-                         t, re.I):
-            return False, ""
+        in4 = bool(re.search(r"nigeria|niger\b|mali|ghana|尼日利亚|尼日尔|马里|加纳",
+                             t, re.I))
+        in_per = bool(re.search(r"myanmar|philippines|thailand|vietnam|nepal|laos|"
+                                r"india|russia|korea|缅甸|菲律宾|越南|尼泊尔|老挝|"
+                                r"印度|俄罗斯|朝鲜|韩国", t, re.I))
+    if not (in4 or in_per):
+        return False, ""
+
     blob = t + " " + (summary or "")[:400]
     kinds = []
-    if RISK_KIDNAP_RX.search(t):
+    # ── personal harm: allowed in the four AND the periphery ──
+    # The harm must be ABOUT the Chinese subject, not merely on the same line.
+    # "金正恩死亡传闻加剧…9000名中国军队" matched on 死亡 alone and was filed as
+    # a Chinese casualty event. Requiring the two within 40 characters keeps
+    # "两名中国矿工在夸利遭绑架" and drops that.
+    if RISK_KIDNAP_RX.search(t) and _harm_near_cn(t):
         kinds.append("人身安全")
-    if RISK_FINE_RX.search(t):
-        kinds.append("处罚")
-    if RISK_SUMMON_RX.search(t):
-        kinds.append("约谈调查")
     if RISK_ATTACK_RX.search(t) and (CN_PROJECT_RX.search(blob) or RISK_KIDNAP_RX.search(t)):
         kinds.append("项目遇袭")
+    # ── commercial friction: four countries only ──
+    if in4 and RISK_DISPUTE_RX.search(t):
+        kinds.append("经营纠纷")
+    # ── official action: four countries only ──
+    if in4:
+        if RISK_FINE_RX.search(t):
+            kinds.append("处罚")
+        if RISK_SUMMON_RX.search(t):
+            kinds.append("约谈调查")
     if not kinds:
         return False, ""
     return True, "、".join(kinds)
@@ -858,7 +979,18 @@ TAG_CTY = {
     # copy often names only the asset ("SORAZ", "Agadem"), so the tag is the
     # reliable anchor. The pipeline angle also runs through Benin, hence the list.
     "cn_cnpc": "ne", "cn_soraz": "ne", "cn_agadem": "ne",
+    "cn_cnpc2": "ne", "ne_oil": "ne", "ne_fuel": "ne",
+    "ne_export": "ne", "ne_ministry": "ne",
     "cn_pipe": ["ne", "wa"],
+    # ── China-risk angles ──────────────────────────────────────────────────
+    # Deliberately NOT mapped to a country. "foreign workers abducted Nigeria"
+    # and "Chinese mine site attack" return items from the Philippines, Congo and
+    # Pakistan as well, and pinning them to ng/gh would file those under a West
+    # African module. Left unmapped, the relevance gate decides from the copy.
+    "cn_kidnap": None, "cn_abduct": None, "cn_arrest": None,
+    "cn_charged": None, "cn_mineatk": None, "cn_trader": None,
+    "cn_protest": None, "cn_fined": None, "cn_illegal": None,
+    "cn_casualty": None,
     "cn_ml": "ml", "ml_extra": "ml",
     "cn_kr": "kr", "cn_ph": "ph", "cn_mm": "mm", "cn_ru": "ru",
     "cn_in": "in", "cn_np": "np", "cn_vn": "vn", "cn_la": "la",
@@ -2202,8 +2334,15 @@ for _k, _item in _pool_in.items():
         _dt = datetime.fromtimestamp(_item["_dt"], timezone.utc)
     except Exception:
         continue
-    if _dt < CUTOFF:
-        expired_from_pool += 1
+    # Extended window for the two narrow exceptions. Everything else still
+    # ages out at WINDOW_DAYS.
+    _keep_days = WINDOW_DAYS
+    _probe = (_item.get("title") or "") + " " + (_item.get("title_zh") or "")
+    if NIGER_OIL_RX.search(_probe) and "ne" in (_item.get("country") or []):
+        _keep_days = OIL_DAYS
+    elif _item.get("riskHit"):
+        _keep_days = RISK_DAYS
+    if _dt < now_utc - timedelta(days=_keep_days):
         continue
     # Re-age against THIS run's clock; the stored value came from an older one.
     _item["ageDays"] = round(max(0.0, (now_utc - _dt).total_seconds() / 86400.0), 2)
@@ -2356,27 +2495,6 @@ if _sum_fixed:
 # the page readable and keeps the hourly translation bill bounded, without ever
 # dropping a China / US / government item.
 TIER4_CAP = 60
-# Some tier-4 items bypass the cap entirely.
-#
-# JNIM / EIGS / MPLJ / ISWAP / Boko Haram / Lakurawa stories have no China, US or
-# government actor, so they are tier 4 — and the cap threw them away first, which
-# is why the page showed essentially no terror coverage even though the fetch had
-# it.
-#
-# The Niger oil complex is in the same position and the reader asked for it by
-# name. "Oil well blowout in Niger still not under control" names no government
-# and no Chinese firm in a way the tier test recognises, so it was capped out —
-# 428 tier-4 items were being cut to 30, and the well blowout, the 45-day
-# repatriation order and the SORAZ story were all inside that cut. Anything
-# touching the Chinese oil assets (CNPC / SORAZ / Agadem / Zinder / the
-# Niger–Benin pipeline) is therefore never capped, and neither is any
-# China-interest risk event.
-NIGER_OIL_RX = re.compile(
-    r"cnpc|soraz|agadem|zinder|"
-    r"niger[-\s]benin|petrolin|sonidep|"
-    r"oil\s+well|blowout|well\s+(?:eruption|blow-?out)|"
-    r"中石油|中石化|津德尔|索拉兹|阿加德姆|尼贝管道|尼日尔-贝宁|"
-    r"炼油厂|输油管道|油井|井喷", re.I)
 
 
 def _oil_asset(it):
@@ -3061,24 +3179,178 @@ def _recency(it):
         return 0.0
 
 
-def _worth_keeping(it):
-    """Which of two near-identical records to keep.
+# ─────────────── element-level comparison ───────────────
+# Word overlap cannot decide whether two records are the same event: "Gunmen
+# abduct two Chinese miners in Kwali" and "两名中国矿工在夸利遭绑架" share no
+# tokens at all, and two unrelated shootings share plenty ("police", "killed",
+# "Nigeria"). So compare ELEMENTS instead — the atomic facts a story carries:
+# who acted, on whom, where, how many, what happened.
+#
+# The reader's threshold (2026-10-22): about 50% shared elements means the same
+# event. Below that, two different things are being described.
+_EVT_RX = [
+    ("kill",     re.compile(r"\bkill(?:ed|s|ing)?\b|\bdead\b|\bdeath|"
+                            r"\bslain\b|\bmurder|击毙|杀死|杀害|死亡|丧生", re.I)),
+    ("abduct",   re.compile(r"\bkidnap|\babduct|\bseized\b|\bhostage|绑架|劫持|被绑", re.I)),
+    ("arrest",   re.compile(r"\barrest|\bnabbed\b|\bdetain|\bcustody\b|\bjail|"
+                            r"逮捕|拘留|被捕|拘押|判刑", re.I)),
+    ("attack",   re.compile(r"\battack|\braid\b|\bbomb|\bambush|\bgunmen\b|"
+                            r"袭击|遇袭|空袭|伏击|爆炸", re.I)),
+    ("protest",  re.compile(r"\bprotest|\bdemonstrat|\briot|\bboycott|抗议|示威|游行", re.I)),
+    ("fine",     re.compile(r"\bfined?\b|\bpenalt|\bsanction|罚款|处罚|制裁", re.I)),
+    ("summon",   re.compile(r"\bsummon|\bquestioned\b|\bprobe\b|\baudit|约谈|传唤|调查|审查", re.I)),
+    ("ban",      re.compile(r"\bban(?:s|ned)?\b|\bhalts?\b|\bsuspend|禁止|暂停|叫停", re.I)),
+    ("shortage", re.compile(r"\bshortage|\bqueue|\bscarcity|\bscarcity|短缺|排队|缺油", re.I)),
+    ("sign",     re.compile(r"\bsign(?:s|ed)?\b|\bdeal\b|\bagreement|签署|协议|合同", re.I)),
+    ("visit",    re.compile(r"\bvisit|\bmeet(?:s|ing)?\b|\btalks\b|访问|会见|会谈", re.I)),
+    ("invest",   re.compile(r"\binvest|\bfunding\b|\bplant\b|\bfactory|投资|兴建|建厂", re.I)),
+]
+_ACTOR_RX = [
+    ("cn",     re.compile(r"(?<![A-Za-z])(?:chinese|china)(?![A-Za-z])|中国|中方|中资|中企|华人|华商", re.I)),
+    ("us",     re.compile(r"(?<![A-Za-z])(?:united states|american|u\.s\.|us)(?![A-Za-z])|美国|美方|美军", re.I)),
+    ("mil",    re.compile(r"\bmilitary\b|\barmy\b|\btroops\b|\bsoldiers?\b|\bair\s?force\b|"
+                          r"军方|军队|士兵|空军", re.I)),
+    ("police", re.compile(r"\bpolice\b|\bcourt\b|\bjudge\b|警方|法院|法官", re.I)),
+    ("gov",    re.compile(r"\bgovern(?:ment|or)\b|\bminist(?:er|ry)\b|\bpresident\b|"
+                          r"政府|州长|部长|总统", re.I)),
+    ("co",     re.compile(r"\bcompan(?:y|ies)\b|\bfirm\b|\bcorp|公司|企业|集团", re.I)),
+]
 
-    The reader's rule (2026-10-21): "相似的内容只要有最新的进展情况就行了" — when
-    the same story is on the page twice, the one to show is the LATEST report,
-    because that is the one carrying the new development. The old ordering kept
-    the longest body, which is nearly always the FIRST write-up: the follow-up
-    that adds "police have now arrested two suspects" is shorter, so it was the
-    one being thrown away.
 
-    Recency is therefore the primary key. A news article still beats a social
-    post at the same timestamp — a post is a pointer to the report, not the
-    report — and length only breaks ties.
+def _facts(it):
+    """(count, set) of the atomic facts a record carries.
+
+    Read from the headline plus the first 400 characters of the summary, in BOTH
+    languages, because the Chinese fields are a translation of the same facts and
+    a translator sometimes drops a figure the English kept.
     """
-    return (_recency(it),
-            1 if not it.get("platform") else 0,      # at equal time, article wins
+    title = it.get("title") or ""
+    tz = it.get("title_zh") or ""
+    body = (it.get("summary") or it.get("snippet") or "")[:400]
+    bz = (it.get("summary_zh") or it.get("snippet_zh") or "")[:400]
+    blob = " ".join([title, tz, body, bz])
+
+    out = set()
+    # numbers: tolls, amounts, counts — the strongest identity signal there is
+    for n in _NUM_RX.findall(blob):
+        raw_n = n.replace(",", "").rstrip(".")
+        if not raw_n or _YEAR_RX.match(raw_n):
+            continue
+        try:
+            v = float(raw_n)
+        except ValueError:
+            continue
+        if len(raw_n) >= 2 and v >= 10:
+            out.add("n:" + raw_n)
+    # event verbs
+    for name, rx in _EVT_RX:
+        if rx.search(blob):
+            out.add("e:" + name)
+    # actors
+    for name, rx in _ACTOR_RX:
+        if rx.search(blob):
+            out.add("a:" + name)
+    # named groups / diseases (reuses the entity table)
+    for k in _ents(blob):
+        out.add("g:" + k)
+    # sub-national places
+    for pl in _event_marks(blob)[0]:
+        out.add("p:" + pl)
+    return len(out), out
+
+
+def _element_sim(a, b, min_facts=4):
+    """Shared-element ratio between two fact sets, 0..1, or 0 when not the event.
+
+    Three conditions, all required. The gates were tuned against 822 live records
+    and each one closes a failure I could name:
+
+    1. A PLACE OR A NAMED GROUP must be shared (`p:` / `g:`). Pure figures are
+       not enough — "国防部与BEL签署770亿卢比雷达合同" and "特朗普称企业应向社区
+       支付红利" scored 0.83 on numbers alone.
+    2. At least TWO specific elements shared (place, group or figure). One place
+       in common is not identity: two separate Zamfara bandit briefs share
+       "zamfara" and "bandits" and nothing else.
+    3. Ratio >= th over the UNION. Dividing by the smaller set made any thin
+       record score 1.00 against anything that happened to contain it.
+
+    Set sizes under `min_facts` are skipped: four generic elements ("a government
+    signed something with China") describe half the page.
+    """
+    if len(a) < min_facts or len(b) < min_facts:
+        return 0.0
+    inter = a & b
+    if not inter:
+        return 0.0
+    pg = sum(1 for x in inter if x[0] in ("p", "g"))
+    if pg < 1:
+        return 0.0
+    hard = sum(1 for x in inter if x[0] in ("p", "g", "n"))
+    if hard < 2:
+        return 0.0
+    return len(inter) / float(len(a | b))
+
+
+def collapse_same_facts(items, th=0.5):
+    """Third pass: one event, several write-ups, different words.
+
+    Runs after the shingle passes. Those catch rewrites that keep sentence
+    shape; this catches the ones that do not —
+
+      "Gunmen abduct two Chinese miners in Kwali"  ┐
+      "两名中国矿工在夸利遭武装分子绑架"            ├ same four elements
+      "Police: two Chinese nationals kidnapped"    ┘  (who, what, where, how many)
+
+    At the reader's 0.5 threshold. Of the two records, `_worth_keeping` keeps the
+    more complete one, so the survivor is the version that names the town, the
+    operator and the toll rather than the one that only confirms a death.
+    """
+    kept, out, dropped = [], [], 0
+    for it in items:
+        n, fs = _facts(it)
+        hit = None
+        if fs:
+            for j, prev in enumerate(out):
+                if _element_sim(fs, kept[j]) >= th:
+                    hit = j
+                    break
+        if hit is None:
+            kept.append(fs)
+            out.append(it)
+            continue
+        dropped += 1
+        if _worth_keeping(it) > _worth_keeping(out[hit]):
+            out[hit] = it
+            kept[hit] = fs
+    return out, dropped
+
+
+def _worth_keeping(it):
+    """Which of two records about the SAME event to keep.
+
+    The reader's rule (2026-10-22): "选取一条要素最完善、时间更新最早的" —
+    when two records carry the same facts, show the one that carries MORE of
+    them, because that is the one that actually explains what happened.
+
+    This replaces the 2026-10-21 rule ("keep the latest"), which fixed one
+    problem and created another: the newest wire copy is often the thinnest —
+    a one-line "Police confirm three dead" replacing a piece that named the
+    town, the operator, the toll and the response. Completeness now leads.
+
+    Ordering, and why each key is there:
+      1. `_fact_count` — how many distinct facts the record carries (numbers,
+         named groups, places, actors, event verbs). This is "要素最完善".
+      2. article over post — a post points at a report, it is not the report.
+      3. body length, then summary length — a proxy for how much is readable.
+      4. recency — the tie-break, so among equally complete records the newer
+         one wins, which keeps the "最新进展" intent of the earlier rule.
+    """
+    fact_n, _ = _facts(it)
+    return (fact_n,
+            1 if not it.get("platform") else 0,
             len(it.get("body") or ""),
-            len(it.get("summary") or it.get("snippet") or ""))
+            len(it.get("summary") or it.get("snippet") or ""),
+            _recency(it))
 
 
 def collapse_near_dups(items, th=0.62, floor=8):
@@ -3253,6 +3525,15 @@ social, _dup_soc = collapse_near_dups(social)
 # Second pass on the summaries: same event, different wording, different outlets.
 news, _dup_evt_n = collapse_same_event(news)
 social, _dup_evt_s = collapse_same_event(social)
+# Third pass on ELEMENTS: same event, different wording, different language.
+# The shingle passes compare surface text; this compares who/what/where/how-many,
+# at the reader's "要素相似度 50% 左右" (2026-10-22). Operating point 0.55 rather
+# than 0.50: on 822 live records 0.50 still merged two pairs that were different
+# events (a soldiers-killed-by-IED brief and a bandit clash brief, both tagged
+# Zamfara with no figure in common). 0.55 caught every true duplicate pair and
+# lost none of them.
+news, _dup_el_n = collapse_same_facts(news, th=0.55)
+social, _dup_el_s = collapse_same_facts(social, th=0.55)
 # Cross-channel: a post that merely restates a headline already on the page reads
 # as a repeat, not as a second source. But "latest development wins" applies here
 # too — an embassy post late in the evening can carry a development the morning's
@@ -3279,8 +3560,9 @@ for _s in social:
         _cross_repl += 1
 social = _soc_out
 news = [n for n in news if n is not None]
-print("near-duplicates collapsed: news %d+%d, social %d+%d, social-vs-news %d (stale article replaced by post %d)"
-      % (_dup_news, _dup_evt_n, _dup_soc, _dup_evt_s, _dup_cross, _cross_repl))
+print("near-duplicates collapsed: news %d+%d+%d, social %d+%d+%d, social-vs-news %d (stale article replaced by post %d)"
+      % (_dup_news, _dup_evt_n, _dup_el_n, _dup_soc, _dup_evt_s, _dup_el_s,
+         _dup_cross, _cross_repl))
 
 # Country tags get one last check against the copy, so a classifier fix reaches
 # the carry-overs too — they keep whatever list the run that first fetched them

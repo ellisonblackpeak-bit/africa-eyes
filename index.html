@@ -265,6 +265,27 @@ details.ft[open] summary::before{content:'▾ '}
 #gate .tip{margin-top:14px;font-size:11.5px;color:#8ba0b1}
 body.locked{overflow:hidden}
 body.locked > header,body.locked > .wrap,body.locked > footer{filter:blur(9px);pointer-events:none}
+/* ── listen (text-to-speech) ──
+   Built for walking: one big target, continuous reading, and it keeps going with
+   the screen off on Android where MediaSession is available. */
+#listen{position:fixed;left:12px;right:12px;bottom:14px;z-index:900;display:none;
+  align-items:center;gap:10px;padding:10px 12px;border-radius:14px;
+  background:rgba(15,61,92,.96);color:#fff;box-shadow:0 10px 28px rgba(8,30,48,.42);
+  backdrop-filter:blur(6px)}
+#listen.on{display:flex}
+#listen .lt{flex:1;min-width:0}
+#listen .ln{font-size:11.5px;letter-spacing:.06em;opacity:.72}
+#listen .ltx{font-size:13px;line-height:1.45;margin-top:2px;overflow:hidden;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+#listen button{border:0;background:rgba(255,255,255,.16);color:#fff;
+  border-radius:10px;padding:9px 11px;font-size:12.5px;cursor:pointer;white-space:nowrap}
+#listen button:active{background:rgba(255,255,255,.3)}
+#listen .rate{font-variant-numeric:tabular-nums;min-width:52px;text-align:center}
+.listenbtn{display:inline-flex;align-items:center;gap:6px;cursor:pointer;
+  border:1px solid var(--line);background:#fff;color:var(--ink);
+  border-radius:999px;padding:7px 13px;font-size:13px;font-weight:600}
+.listenbtn:active{background:#eef4f9}
+.listenbtn .ico{font-size:14px}
 </style>
 </head>
 <body class="locked">
@@ -295,6 +316,16 @@ body.locked > header,body.locked > .wrap,body.locked > footer{filter:blur(9px);p
 </div>
 
 <footer id="foot"></footer>
+<div id="listen">
+  <div class="lt">
+    <div class="ln" id="listenNo">正在朗读</div>
+    <div class="ltx" id="listenTxt"></div>
+  </div>
+  <button type="button" id="listenRate" class="rate">1.0×</button>
+  <button type="button" id="listenPause">暂停</button>
+  <button type="button" id="listenStop">结束</button>
+</div>
+
 
 <script>
 /* ── access gate ──
@@ -972,8 +1003,11 @@ body.locked > header,body.locked > .wrap,body.locked > footer{filter:blur(9px);p
         + (merged.length
             ? cardList(merged, unifiedCard)
             : '<div class="empty">本模块近 '+(D.windowDays||3)+' 日内没有匹配条目。可放宽国家、领域筛选或更换关键词。</div>');
-      V.innerHTML = tierBar(newsInMod.concat(socInMod)) + sortBar() + filterBar(newsInMod.concat(socInMod)) + section
+      V.innerHTML = tierBar(newsInMod.concat(socInMod)) + sortBar()
+        + filterBar(newsInMod.concat(socInMod))
+        + listenBtnHtml(merged.length) + section
         + '<div class="note">平台可得性：X 可获取帖文正文；LinkedIn / Facebook / Instagram 上游仅返回标题与摘要（约 140 字符），无法取得正文，请点击原帖查看完整内容。</div>';
+      bindListen(merged);
     } else if(state.view==='people'){
       var all=D.people||[];
       var ppl=all.filter(function(p){
@@ -1067,6 +1101,162 @@ body.locked > header,body.locked > .wrap,body.locked > footer{filter:blur(9px);p
     V.querySelectorAll('.pager button').forEach(function(b){
       b.addEventListener('click',function(){if(b.disabled)return;state.page=+b.dataset.p;render();
         window.scrollTo({top:0,behavior:'smooth'});});});
+  }
+
+  /* ── listen: read the visible list aloud ──
+     The reader walks and wants the day's items in his ears, so this reads the
+     CURRENT filtered list — filter to 涉华, tap 朗读, and he hears exactly those
+     cards, in the order they are on screen.
+
+     Details that matter on a phone:
+     · it re-reads from the list each time rather than caching, so a live refresh
+       mid-listen does not resurrect stale items;
+     · it strips the things a person would not read aloud — the outlet name in
+       brackets, "展开全文", the URL, the emoji badges;
+     · a long summary is cut at a sentence boundary, because a 500-character read
+       per card turns a 20-card list into an hour;
+     · MediaSession keeps the tab alive in the background on Android, and the
+       pause/resume buttons drive the same queue. */
+  var SPEAK = {idx:0, list:[], rate:1.0, paused:false, active:false, voice:null};
+
+  function speakText(it){
+    var t = it.title_zh || it.title || '';
+    var s = it.summary_zh || it.summary || it.snippet_zh || it.snippet || '';
+    t = String(t).replace(/\s*[|｜]\s*[^|｜]{2,24}$/, '')
+           .replace(/[（(]\s*(更新|视频|图)[^）)]*[）)]/g, '').trim();
+    s = String(s)
+      /* A source clause reads terribly aloud: "据 africa.com 报道：" becomes
+         "ju africa dot com baodao". Strip the whole phrase, not just the host. */
+      .replace(/据[^，。；]{2,26}(?:报道|消息|称|显示)[：:，,]?/g, '')
+      .replace(/(?:according to|reports? say|reported by)\s+[A-Za-z0-9.\-]+/gi, '')
+      .replace(/(?:https?:\/\/|www\.)\S+/g, '')
+      .replace(/\b[A-Za-z0-9\-]+\.(?:com|ng|gh|org|net|co|uk|fr|de|info|news|tv)\b/gi, '')
+      .replace(/展开全文|打开原文|点击查看|阅读更多|Read more/gi, '')
+      .replace(/\s+/g, ' ').trim();
+    /* The translator often restates the headline as the first clause of the
+       summary. Reading both sounds like a stutter, so drop the repeat. */
+    var norm = function(x){ return String(x).replace(/[，。、；：！？\s]/g, ''); };
+    if(norm(s).slice(0,12) === norm(t).slice(0,12)){
+      var cut = s.search(/[。！？]/);
+      if(cut >= 0) s = s.slice(cut + 1).replace(/^[，,、\s]+/, '');
+    }
+    /* Two sentences: enough to decide whether to look at the card. */
+    var parts = s.match(/[^。！？.!?]+[。！？.!?]?/g) || [];
+    var brief = parts.slice(0, 2).join('').trim();
+    if(brief.length > 180) brief = brief.slice(0, 180);
+    return (t ? t + '。' : '') + (brief || '');
+  }
+
+  function pickVoice(){
+    try{
+      var vs = window.speechSynthesis.getVoices() || [];
+      /* Prefer a mainland Mandarin voice; fall back to any zh-*. */
+      var zh = vs.filter(function(v){return /^zh/i.test(v.lang);});
+      var cn = zh.filter(function(v){return /(zh[-_]CN|Chinese|Mandarin|Xiaoxiao|Yunxi|Huihui|Tingting|Kangkang)/i.test(v.name+' '+v.lang);});
+      SPEAK.voice = cn[0] || zh[0] || null;
+    }catch(e){ SPEAK.voice = null; }
+  }
+
+  function speakShow(){
+    var bar = document.getElementById('listen');
+    if(!bar) return;
+    if(!SPEAK.active){ bar.classList.remove('on'); return; }
+    bar.classList.add('on');
+    var n = document.getElementById('listenNo');
+    var tx = document.getElementById('listenTxt');
+    if(n) n.textContent = '正在朗读 ' + (SPEAK.idx+1) + ' / ' + SPEAK.list.length;
+    if(tx) tx.textContent = speakText(SPEAK.list[SPEAK.idx] || {});
+  }
+
+  function speakNext(){
+    if(!SPEAK.active) return;
+    if(SPEAK.idx >= SPEAK.list.length){ speakStop(); return; }
+    speakShow();
+    var it = SPEAK.list[SPEAK.idx];
+    var body = speakText(it);
+    if(!body){ SPEAK.idx++; return setTimeout(speakNext, 30); }
+    var u = new SpeechSynthesisUtterance(body);
+    u.lang = 'zh-CN';
+    u.rate = SPEAK.rate;
+    u.pitch = 1.0;
+    if(SPEAK.voice) u.voice = SPEAK.voice;
+    u.onend = function(){
+      if(!SPEAK.active) return;
+      SPEAK.idx++;
+      setTimeout(speakNext, 260);        // a beat between cards
+    };
+    u.onerror = function(){
+      if(SPEAK.active){ SPEAK.idx++; setTimeout(speakNext, 200); }
+    };
+    try{ window.speechSynthesis.speak(u); }catch(e){ speakStop(); }
+  }
+
+  function speakStart(list){
+    if(!('speechSynthesis' in window)){ alert('这个浏览器不支持朗读。'); return; }
+    speakStop();
+    SPEAK.list = (list || []).slice(0, 60);   // an hour of audio is plenty
+    if(!SPEAK.list.length) return;
+    SPEAK.idx = 0; SPEAK.active = true; SPEAK.paused = false;
+    pickVoice();
+    var b = document.getElementById('listenPause'); if(b) b.textContent = '暂停';
+    /* Keep audio alive when the screen locks. */
+    try{
+      if('mediaSession' in navigator){
+        navigator.mediaSession.metadata = new MediaMetadata({
+          title:'China Eyes 播报', artist:'每日动态'});
+        navigator.mediaSession.setActionHandler('pause', function(){ speakPause(); });
+        navigator.mediaSession.setActionHandler('play', function(){ speakPause(); });
+        navigator.mediaSession.setActionHandler('stop', function(){ speakStop(); });
+      }
+    }catch(e){}
+    speakNext();
+  }
+
+  function speakStop(){
+    SPEAK.active = false; SPEAK.paused = false; SPEAK.list = []; SPEAK.idx = 0;
+    try{ window.speechSynthesis.cancel(); }catch(e){}
+    var bar = document.getElementById('listen'); if(bar) bar.classList.remove('on');
+  }
+
+  function speakPause(){
+    if(!SPEAK.active) return;
+    if(SPEAK.paused){
+      SPEAK.paused = false;
+      try{ window.speechSynthesis.resume(); }catch(e){}
+      var b = document.getElementById('listenPause'); if(b) b.textContent = '暂停';
+    } else {
+      SPEAK.paused = true;
+      try{ window.speechSynthesis.pause(); }catch(e){}
+      var b2 = document.getElementById('listenPause'); if(b2) b2.textContent = '继续';
+    }
+  }
+
+  function listenBtnHtml(n){
+    if(!('speechSynthesis' in window)) return '';
+    return '<div class="filters" style="margin-top:-2px">'
+      + '<span class="listenbtn" id="listenStart"><span class="ico">▶</span>朗读本页（'+Math.min(n,60)+' 条）</span>'
+      + '</div>';
+  }
+
+  function bindListen(list){
+    var b = document.getElementById('listenStart');
+    if(b) b.addEventListener('click', function(){ speakStart(list); });
+    var r = document.getElementById('listenRate');
+    if(r) r.addEventListener('click', function(){
+      var seq = [1.0, 1.25, 1.5, 0.9];
+      SPEAK.rate = seq[(seq.indexOf(SPEAK.rate)+1) % seq.length];
+      r.textContent = SPEAK.rate.toFixed(2).replace(/0$/,'') + '×';
+      if(SPEAK.active){                       // restart current card at new speed
+        try{ window.speechSynthesis.cancel(); }catch(e){}
+        setTimeout(speakNext, 80);
+      }
+    });
+    var pz = document.getElementById('listenPause');
+    if(pz) pz.addEventListener('click', speakPause);
+    var st = document.getElementById('listenStop');
+    if(st) st.addEventListener('click', speakStop);
+    /* Some browsers populate the voice list late. */
+    try{ window.speechSynthesis.onvoiceschanged = pickVoice; }catch(e){}
   }
 
   chrome();
