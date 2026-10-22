@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/globaltimesnews/status/2112086460874793052",
+     "title": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet sho",
+     "description": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "snippet": "China has decided to impose export controls on relevant items related to tunnel boring machines, walking excavators, and lateau-type wet shotcrete machines, in order to safeguard national security and interests, China’s Ministry of Commerce announced on Monday. The export controls will officially take effect on November 18.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Times",
+     "handle": "@globaltimesnews"
+    },
+    {
+     "url": "https://x.com/TheMinuend/status/2112206615260893315",
+     "title": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.",
+     "description": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "snippet": "Expected after India’s Ladakh naming, the FM’s trade-barrier callouts & tighter FDI PN3 scrutiny for China.\n\nChinese are posturing. Beijing rarely imposes permanent bans; expect waivers. Licensing bottlenecks create uncertain lead times for Indian EPC contractors pricing Chinese equip—next 'case-by-case' waivers may force contractors to disclose precise project locations & site data to MOFCOM to prove \"non-military\" use.\n\nBottomline: suit up & invest—or suck up and stop the border posturing without sufficient leverage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roy",
+     "handle": "@TheMinuend"
+    },
+    {
+     "url": "https://x.com/WorldContextN/status/2112987149226135960",
+     "title": "CHINA’S NEXT EXPORT RESTRICTIONS COULD HIT MAJOR INFRASTRUCTURE PROJECTS.",
+     "description": "CHINA’S NEXT EXPORT RESTRICTIONS COULD HIT MAJOR INFRASTRUCTURE PROJECTS.\n\nAn Indian report suggests Beijing is preparing new export controls on tunnel-boring machines, potentially affecting countries that depend on Chinese equipment for large infrastructure projects.\n\nIndia could be particularly exposed, with major metro, railway and tunnel projects requiring specialised machinery.\n\nHowever, the reported restrictions and their proposed November 18 implementation date have not yet been independently verified against an official Chinese government announcement.\n\nThe broader issue is clear: industrial equipment, not just semiconductors and rare earths, can become a tool of economic leverage.\n\nCould export controls become a new front in the competition over global infrastructure?\n\nSource – Indian reporting:\nhttps://t.co/jwiL0lcMmp\n\n#China #India #Infrastructure #Trade",
+     "snippet": "CHINA’S NEXT EXPORT RESTRICTIONS COULD HIT MAJOR INFRASTRUCTURE PROJECTS.\n\nAn Indian report suggests Beijing is preparing new export controls on tunnel-boring machines, potentially affecting countries that depend on Chinese equipment for large infrastructure projects.\n\nIndia could be particularly exposed, with major metro, railway and tunnel projects requiring specialised machinery.\n\nHowever, the reported restrictions and their proposed November 18 implementation date have not yet been independently verified against an official Chinese government announcement.\n\nThe broader issue is clear: industrial equipment, not just semiconductors and rare earths, can become a tool of economic leverage.\n\nCould export controls become a new front in the competition over global infrastructure?\n\nSource – Indian reporting:\nhttps://t.co/jwiL0lcMmp\n\n#China #India #Infrastructure #Trade",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "World Context News",
+     "handle": "@WorldContextN"
+    },
+    {
+     "url": "https://x.com/AlmightyAnmol/status/2112981153057837564",
+     "title": "China by 2027 may deliberately escalate tensions along India’s borders.",
+     "description": "China by 2027 may deliberately escalate tensions along India’s borders. As its economy slows and India’s growth accelerates, Beijing could use low-intensity conflict and export restrictions on critical goods already equipment like tunnel-boring machines are blocked to export",
+     "snippet": "China by 2027 may deliberately escalate tensions along India’s borders. As its economy slows and India’s growth accelerates, Beijing could use low-intensity conflict and export restrictions on critical goods already equipment like tunnel-boring machines are blocked to export",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AlmightyAnmol",
+     "handle": "@AlmightyAnmol"
+    },
+    {
+     "url": "https://x.com/JackRangaswami/status/2112168761293934710",
+     "title": "We use tarratec australia, herrenknecht germany, robbins - us, Along with CRCHI, CREG (china).",
+     "description": "We use tarratec australia, herrenknecht germany, robbins - us, Along with CRCHI, CREG (china). \n Before we used to use japanese - Kawasaki, Hitachi.\n  \n A lot of these made in china.\n  \n Likely path will be: Like Herrenknecht, we will ask the non chinese TBM makers to make in India.",
+     "snippet": "We use tarratec australia, herrenknecht germany, robbins - us, Along with CRCHI, CREG (china). \n Before we used to use japanese - Kawasaki, Hitachi.\n  \n A lot of these made in china.\n  \n Likely path will be: Like Herrenknecht, we will ask the non chinese TBM makers to make in India.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ithaca King Swamy",
+     "handle": "@JackRangaswami"
+    },
+    {
+     "url": "https://x.com/mountain_rats/status/2112876699436405149",
+     "title": "Global Times had acted \"perplexed\" when Chinese Checker moves of renaming places in Arunachal Pradesh got checked and trashed badly .",
+     "description": "Global Times had acted \"perplexed\"    when Chinese Checker moves of renaming places in Arunachal Pradesh got checked and trashed badly .\nNow when India is naming places in its Union Territory of Ladhak their editorial has started \" weeping \" .\nIt needs to be reiterated here that we have no international border with China .The International border is with Tibet only .",
+     "snippet": "Global Times had acted \"perplexed\"    when Chinese Checker moves of renaming places in Arunachal Pradesh got checked and trashed badly .\nNow when India is naming places in its Union Territory of Ladhak their editorial has started \" weeping \" .\nIt needs to be reiterated here that we have no international border with China .The International border is with Tibet only .",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mountain Rats",
+     "handle": "@mountain_rats"
+    },
+    {
+     "url": "https://x.com/ArvindShuk83/status/2112871862976008657",
+     "title": "China objects to India affirming its own territory in #Ladakh, yet continues to impose its claims from Tibet to the borders of #Bhutan and #",
+     "description": "China objects to India affirming its own territory in #Ladakh, yet continues to impose its claims from Tibet to the borders of #Bhutan and #Nepal. 1/https://phayul.com/india-reasserts-sovereignty-over-ladakh-as-china-rejects-naming-of-28-strategic-locations/",
+     "snippet": "China objects to India affirming its own territory in #Ladakh, yet continues to impose its claims from Tibet to the borders of #Bhutan and #Nepal. 1/https://phayul.com/india-reasserts-sovereignty-over-ladakh-as-china-rejects-naming-of-28-strategic-locations/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Arvind Shukla",
+     "handle": "@ArvindShuk83"
+    },
+    {
+     "url": "https://x.com/mdfrey/status/2112731651184963664",
+     "title": "China rejects India’s illegal establishment of the so-called “Union Territory of Ladakh” and its “standardized names,” which cannot alter Ch",
+     "description": "China rejects India’s illegal establishment of the so-called “Union Territory of Ladakh” and its “standardized names,” which cannot alter China’s sovereignty over the western sector of the China–India boundary.\nhttps://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202610/t20261013_12039583.html",
+     "snippet": "China rejects India’s illegal establishment of the so-called “Union Territory of Ladakh” and its “standardized names,” which cannot alter China’s sovereignty over the western sector of the China–India boundary.\nhttps://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202610/t20261013_12039583.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Na Cang Gama",
+     "handle": "@mdfrey"
+    },
+    {
+     "url": "https://x.com/ians_india/status/2112197842483970086",
+     "title": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv.",
+     "description": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv. Tashi Gyalson says, \"Regarding the statement, we have simply put forward the truth. We strongly condemn and criticise the remarks made by Chinese Foreign Ministry spokesperson Mao Ning in the strongest possible terms. Aksai Chin belongs to India and has been illegally occupied by China. Therefore, the land she is referring to does not belong to them. I believe the time has come for us to firmly present our stance and clearly assert our claim in strong terms. The region should no longer be referred to as ‘Aksai Chin’, but as ‘Aksai Bharat’ or ‘Aksai Hind’. It is ours...\"",
+     "snippet": "Leh, Ladakh: Former Chief Executive Councillor (CEC) of the Ladakh Autonomous Hill Development Council (LAHDC), Leh, Adv. Tashi Gyalson says, \"Regarding the statement, we have simply put forward the truth. We strongly condemn and criticise the remarks made by Chinese Foreign Ministry spokesperson Mao Ning in the strongest possible terms. Aksai Chin belongs to India and has been illegally occupied by China. Therefore, the land she is referring to does not belong to them. I believe the time has come for us to firmly present our stance and clearly assert our claim in strong terms. The region should no longer be referred to as ‘Aksai Chin’, but as ‘Aksai Bharat’ or ‘Aksai Hind’. It is ours...\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "IANS",
+     "handle": "@ians_india"
+    },
+    {
+     "url": "https://x.com/ieexplained/status/2112766074911650034",
+     "title": "On October 20 1962, Chinese troops invaded India from two sides and won decisively.",
+     "description": "On October 20 1962, Chinese troops invaded India from two sides and won decisively. An exexplained_pgs how the defeat's lessons remain relevant all these decades later, especially as China continues to exert pressure on the LAC.\n\nhttps://indianexpress.com/article/explained/explained-history/1962-india-china-war-lessons-military-preparedness-lac-10929404/",
+     "snippet": "On October 20 1962, Chinese troops invaded India from two sides and won decisively. An exexplained_pgs how the defeat's lessons remain relevant all these decades later, especially as China continues to exert pressure on the LAC.\n\nhttps://indianexpress.com/article/explained/explained-history/1962-india-china-war-lessons-military-preparedness-lac-10929404/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Express Explained 🔍",
+     "handle": "@ieexplained"
+    }
+   ]
+  }
+ ]
+}

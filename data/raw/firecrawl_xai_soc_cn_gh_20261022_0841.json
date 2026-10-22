@@ -1,0 +1,116 @@
+{
+ "query": "Ghana China Chinese company investment mining embassy",
+ "_tag": "soc_cn_gh",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Promado_1/status/2112927200143929490",
+     "title": "⛏️ GHANA IS LOOKING BEYOND GOLD 🇬🇭 Ghana is seeking fresh investment in manganese, iron and steel as it looks to expand its mining industry",
+     "description": "⛏️ GHANA IS LOOKING BEYOND GOLD 🇬🇭\n\nGhana is seeking fresh investment in manganese, iron and steel as it looks to expand its mining industry beyond gold.\n\nA Chinese investment delegation has expressed interest in opportunities across the sector, including a possible equity stake in Adamus Resources. Meanwhile, Asanko Gold Ghana has outlined plans for open-pit expansion and underground mining.\n\nThe bigger opportunity here is value addition. Ghana has mineral resources, but the real economic gains come when more processing, industrial activity and skilled jobs are created locally.\n\nAttracting investors is one thing. Turning that interest into actual projects, local industries and jobs is where the real test begins.\n\nCan Ghana finally move beyond exporting raw minerals and build a stronger mineral-processing industry at home? 🇬🇭\n\n#Ghana #Mining #CriticalMinerals",
+     "snippet": "⛏️ GHANA IS LOOKING BEYOND GOLD 🇬🇭\n\nGhana is seeking fresh investment in manganese, iron and steel as it looks to expand its mining industry beyond gold.\n\nA Chinese investment delegation has expressed interest in opportunities across the sector, including a possible equity stake in Adamus Resources. Meanwhile, Asanko Gold Ghana has outlined plans for open-pit expansion and underground mining.\n\nThe bigger opportunity here is value addition. Ghana has mineral resources, but the real economic gains come when more processing, industrial activity and skilled jobs are created locally.\n\nAttracting investors is one thing. Turning that interest into actual projects, local industries and jobs is where the real test begins.\n\nCan Ghana finally move beyond exporting raw minerals and build a stronger mineral-processing industry at home? 🇬🇭\n\n#Ghana #Mining #CriticalMinerals",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Promado X",
+     "handle": "@Promado_1"
+    },
+    {
+     "url": "https://x.com/_GhChronicles/status/2112857842315108515",
+     "title": "A rubber plantation farmer confronts Chinese nationals over the degradation of the plantation caused by gold exploration activities at Akyem",
+     "description": "A rubber plantation farmer confronts Chinese nationals over the degradation of the plantation caused by gold exploration activities at Akyem Etukrom in the Abuakwa North Municipality of the Eastern Region. The area in dispute is said to be under a concession taken over by CMS-PRO, AA Southern.",
+     "snippet": "A rubber plantation farmer confronts Chinese nationals over the degradation of the plantation caused by gold exploration activities at Akyem Etukrom in the Abuakwa North Municipality of the Eastern Region. The area in dispute is said to be under a concession taken over by CMS-PRO, AA Southern.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GHANA CHRONICLES",
+     "handle": "@_GhChronicles"
+    },
+    {
+     "url": "https://x.com/GhanaRevenue/status/2112129802383856001",
+     "title": "The Commissioner of Customs Pays Courtesy Visit to the Chinese Ambassador to Ghana at the Chinese Embassy in Accra #GRA #GhanaFIRST",
+     "description": "The Commissioner of Customs Pays Courtesy Visit to the Chinese Ambassador to Ghana at the Chinese Embassy in Accra\n\n#GRA #GhanaFIRST",
+     "snippet": "The Commissioner of Customs Pays Courtesy Visit to the Chinese Ambassador to Ghana at the Chinese Embassy in Accra\n\n#GRA #GhanaFIRST",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GRA",
+     "handle": "@GhanaRevenue"
+    },
+    {
+     "url": "https://x.com/JoyNewsOnTV/status/2112141944939765944",
+     "title": "Ghana, China relations: Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that supp",
+     "description": "Ghana, China relations: Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies – Veep\n\nMore on https://www.myjoyonline.com/ \n\n#JoyNews #JoyFM #GhanaNews #JoyPrime #MyJoyOnline",
+     "snippet": "Ghana, China relations: Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies – Veep\n\nMore on https://www.myjoyonline.com/ \n\n#JoyNews #JoyFM #GhanaNews #JoyPrime #MyJoyOnline",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "JoyNews",
+     "handle": "@JoyNewsOnTV"
+    },
+    {
+     "url": "https://x.com/starr1035fm/status/2112602761497870502",
+     "title": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies...",
+     "description": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #StarrFM\n#GHOneNews #NewsAlert",
+     "snippet": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #StarrFM\n#GHOneNews #NewsAlert",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Starr 103.5 FM",
+     "handle": "@starr1035fm"
+    },
+    {
+     "url": "https://x.com/ghonetv/status/2112473027149459925",
+     "title": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies...",
+     "description": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #GHOneTV \n#GHOneNews #NewsAlert",
+     "snippet": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #GHOneTV \n#GHOneNews #NewsAlert",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GHOne TV",
+     "handle": "@ghonetv"
+    },
+    {
+     "url": "https://x.com/datnewsss/status/2112540489253552206",
+     "title": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies.",
+     "description": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies.\n-VICE PRES. PROF. JANE NAANA OPOKU-AGYEMANG\n__\n\n#datnews",
+     "snippet": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies.\n-VICE PRES. PROF. JANE NAANA OPOKU-AGYEMANG\n__\n\n#datnews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DAT NEWS",
+     "handle": "@datnewsss"
+    },
+    {
+     "url": "https://x.com/nabsparky/status/2112650649670148380",
+     "title": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles.",
+     "description": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles. Every land they touch, it can't be used for farming again. Hmmm Ghana",
+     "snippet": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles. Every land they touch, it can't be used for farming again. Hmmm Ghana",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NanaBanyin Tsiwa",
+     "handle": "@nabsparky"
+    },
+    {
+     "url": "https://x.com/asare_gilb41/status/2112861593004323110",
+     "title": "This story reminds me of how galamsey has locked ghana in a prison of its own.",
+     "description": "This story reminds me of how galamsey has locked ghana in a prison of its own. We are stuck in this prison because we are so in debt to the Chinese that we can't even get rid of them.",
+     "snippet": "This story reminds me of how galamsey has locked ghana in a prison of its own. We are stuck in this prison because we are so in debt to the Chinese that we can't even get rid of them.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gilbert Asare",
+     "handle": "@asare_gilb41"
+    },
+    {
+     "url": "https://x.com/Cruickshankjkj/status/2112751026587701293",
+     "title": "sanity is only for environmental destruction.",
+     "description": "sanity is only for environmental destruction. That’s why the Chinese are in Ghana illegally mining and why they are in Zimbabwe illegally mining. We need to put an end to this neo-colonial abuse",
+     "snippet": "sanity is only for environmental destruction. That’s why the Chinese are in Ghana illegally mining and why they are in Zimbabwe illegally mining. We need to put an end to this neo-colonial abuse",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CruickshankMaye",
+     "handle": "@Cruickshankjkj"
+    }
+   ]
+  }
+ ]
+}

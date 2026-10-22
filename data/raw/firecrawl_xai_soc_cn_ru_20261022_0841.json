@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/1860rm/status/2113051236794589598",
+     "title": "🇨🇳🇷🇺 The future is definitely cooperating with Russia and China.",
+     "description": "🇨🇳🇷🇺 The future is definitely cooperating with Russia and China. \n\nChinese Premier Li Qiang is in St Petersburg for discussions with his counterpart, Russian Premier Mikhail Mishustin, on the issues of trade, economics, industry, energy, culture, and education. \n\nLi was given a tour of the palaces of Catherine and of Alexander I at the Tsarskoye Selo, and was shown the Chinese Hall of Catherine the Great. \n\nThe palace of Tsarskoye Selo was also the site of the Imperial School, which the young Alexander Pushkin attended and at which he had made his debut as a poet.\n\nThey were joined by the Minister of Culture, Olga Lyubimova, and the First Deputy Minister of Finance, Irina Okladinkova.",
+     "snippet": "🇨🇳🇷🇺 The future is definitely cooperating with Russia and China. \n\nChinese Premier Li Qiang is in St Petersburg for discussions with his counterpart, Russian Premier Mikhail Mishustin, on the issues of trade, economics, industry, energy, culture, and education. \n\nLi was given a tour of the palaces of Catherine and of Alexander I at the Tsarskoye Selo, and was shown the Chinese Hall of Catherine the Great. \n\nThe palace of Tsarskoye Selo was also the site of the Imperial School, which the young Alexander Pushkin attended and at which he had made his debut as a poet.\n\nThey were joined by the Minister of Culture, Olga Lyubimova, and the First Deputy Minister of Finance, Irina Okladinkova.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ryan Milton 弥瑞恩",
+     "handle": "@1860rm"
+    },
+    {
+     "url": "https://x.com/BrianMcDonaldIE/status/2112642762893860907",
+     "title": "Chinese Premier Li Qiang has arrived in St.",
+     "description": "Chinese Premier Li Qiang has arrived in St. Petersburg, where he was welcomed by Russian PM Mikhail Mishustin, ahead of tomorrow’s 31st regular meeting of the heads of government of Russia and China.\n\nOfficials are expected to discuss bilateral trade, energy, industrial cooperation, agriculture and transport infrastructure, with several agreements due to be signed.",
+     "snippet": "Chinese Premier Li Qiang has arrived in St. Petersburg, where he was welcomed by Russian PM Mikhail Mishustin, ahead of tomorrow’s 31st regular meeting of the heads of government of Russia and China.\n\nOfficials are expected to discuss bilateral trade, energy, industrial cooperation, agriculture and transport infrastructure, with several agreements due to be signed.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Brian McDonald",
+     "handle": "@BrianMcDonaldIE"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2112961317279850497",
+     "title": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "description": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "snippet": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2112935188611404236",
+     "title": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "description": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "snippet": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/TheEchelonBrief/status/2112957505747710397",
+     "title": "Chinese Premier Li Qiang just met with Putin in St.",
+     "description": "Chinese Premier Li Qiang just met with Putin in St. Petersburg, locking in deeper ties across energy, trade, and Arctic shipping.   Russia continues its forced pivot East to survive financially.",
+     "snippet": "Chinese Premier Li Qiang just met with Putin in St. Petersburg, locking in deeper ties across energy, trade, and Arctic shipping.   Russia continues its forced pivot East to survive financially.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Echelon Brief",
+     "handle": "@TheEchelonBrief"
+    },
+    {
+     "url": "https://x.com/SanaJournalist1/status/2112974766877643203",
+     "title": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companie",
+     "description": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "snippet": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sara | Journalist",
+     "handle": "@SanaJournalist1"
+    },
+    {
+     "url": "https://x.com/OSINT521/status/2112969565202469313",
+     "title": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to strengthen oil cooperation between their energy companies.",
+     "description": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to strengthen oil cooperation between their energy companies.",
+     "snippet": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to strengthen oil cooperation between their energy companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Open Source Intelligence",
+     "handle": "@OSINT521"
+    },
+    {
+     "url": "https://x.com/BRICSinfo/status/2112963358907363788",
+     "title": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "description": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "snippet": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BRICS News",
+     "handle": "@BRICSinfo"
+    },
+    {
+     "url": "https://x.com/MarketsCapApp/status/2112933072010371467",
+     "title": "China ready to work with Russia to deepen practical cooperation in energy resources and other areas, Chinese Premier says - Xinhua",
+     "description": "China ready to work with Russia to deepen practical cooperation in energy resources and other areas, Chinese Premier says - Xinhua",
+     "snippet": "China ready to work with Russia to deepen practical cooperation in energy resources and other areas, Chinese Premier says - Xinhua",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Markets Capital",
+     "handle": "@MarketsCapApp"
+    },
+    {
+     "url": "https://x.com/BrazilianReport/status/2112968443557257660",
+     "title": "Brazil sold more crude oil to China than Saudi Arabia did between Jan.",
+     "description": "Brazil sold more crude oil to China than Saudi Arabia did between Jan. and Sep. 2026, becoming Beijing's second-largest supplier after Russia. Chinese customs data released on October 20 show imports of 44.29M tonnes of Brazilian crude over the period.\n\nhttps://newsletters.brazilian.report/p/brazil-overtakes-saudi-arabia-as-china-second-largest-oil-supplier",
+     "snippet": "Brazil sold more crude oil to China than Saudi Arabia did between Jan. and Sep. 2026, becoming Beijing's second-largest supplier after Russia. Chinese customs data released on October 20 show imports of 44.29M tonnes of Brazilian crude over the period.\n\nhttps://newsletters.brazilian.report/p/brazil-overtakes-saudi-arabia-as-china-second-largest-oil-supplier",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Brazilian Report",
+     "handle": "@BrazilianReport"
+    }
+   ]
+  }
+ ]
+}

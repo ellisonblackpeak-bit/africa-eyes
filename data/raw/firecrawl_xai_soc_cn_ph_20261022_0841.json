@@ -1,0 +1,56 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/BalitaNgayonFB/status/2112198292943913374",
+     "title": "CHINESE EMBASSY, BUMANAT SA LINGLONG ENDORSEMENT NI JV: ‘HOW DO YOU FEEL?’ Ibinahagi ng Chinese Embassy Manila ang screenshot ng promotional",
+     "description": "CHINESE EMBASSY, BUMANAT SA LINGLONG ENDORSEMENT NI JV: ‘HOW DO YOU FEEL?’\n\nIbinahagi ng Chinese Embassy Manila ang screenshot ng promotional post ni Senador JV Ejercito para sa Chinese Company na Linglong Tire, kasabay ng tanong: \n\n“Chinese brand ambassador? How do you feel?”\n\nMakikita sa larawan ang senador na nakaupo sa isang berdeng sasakyan, katabi ng nakasulat na:\n\n“Senator JV Ejercito — Brand Ambassador.” \n\nMay caption naman mismo si Sen. JV Ejercito sa kaniyang ibinahaging post na: \n\n“Feeling Mowdel oh!”\n\nAng Linglong Tire ay kompanyang gumagawa ng gulong na nakabase sa Shandong, China. May petsang Mayo 6 ang post sa screenshot.\n\nDumating ang patutsada matapos manawagan si Ejercito kay Chinese Ambassador Jing Quan: “Ambassador Jing Quan, West Philippine Sea is ours! Go home!”\n\nNauna ring tinawag ng embassy na “for show and for headlines” ang ginawa ng senador.\n\nNag-ugat ang kontrobersiya sa sinabi ni Amb. Jing Quan na maaaring madaling manalo ang China kung gagamit ito ng puwersa, bagaman sinabi rin niyang hindi nila ito gagamitin at mahal nila ang kapayapaan.\n\nWala pang tugon si Sen. JV sa huling post ng embassy tungkol sa kanyang endorsement.",
+     "snippet": "CHINESE EMBASSY, BUMANAT SA LINGLONG ENDORSEMENT NI JV: ‘HOW DO YOU FEEL?’\n\nIbinahagi ng Chinese Embassy Manila ang screenshot ng promotional post ni Senador JV Ejercito para sa Chinese Company na Linglong Tire, kasabay ng tanong: \n\n“Chinese brand ambassador? How do you feel?”\n\nMakikita sa larawan ang senador na nakaupo sa isang berdeng sasakyan, katabi ng nakasulat na:\n\n“Senator JV Ejercito — Brand Ambassador.” \n\nMay caption naman mismo si Sen. JV Ejercito sa kaniyang ibinahaging post na: \n\n“Feeling Mowdel oh!”\n\nAng Linglong Tire ay kompanyang gumagawa ng gulong na nakabase sa Shandong, China. May petsang Mayo 6 ang post sa screenshot.\n\nDumating ang patutsada matapos manawagan si Ejercito kay Chinese Ambassador Jing Quan: “Ambassador Jing Quan, West Philippine Sea is ours! Go home!”\n\nNauna ring tinawag ng embassy na “for show and for headlines” ang ginawa ng senador.\n\nNag-ugat ang kontrobersiya sa sinabi ni Amb. Jing Quan na maaaring madaling manalo ang China kung gagamit ito ng puwersa, bagaman sinabi rin niyang hindi nila ito gagamitin at mahal nila ang kapayapaan.\n\nWala pang tugon si Sen. JV sa huling post ng embassy tungkol sa kanyang endorsement.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ang Balita Ngayon",
+     "handle": "@BalitaNgayonFB"
+    },
+    {
+     "url": "https://x.com/SEAEnergyNews/status/2112923603515969594",
+     "title": "🇵🇭 Philippines advances offshore wind push with port upgrades.",
+     "description": "🇵🇭 Philippines advances offshore wind push with port upgrades. Port of Pambujan in Camarines Norte has been auctioned off to an unnamed Chinese company, while the feasibility study for the Port of Sta. Clara in Batangas has been completed, with plans to auction it to developers by the end of this year.\n\nOnce development is complete, these facilities will serve as offshore wind (OSW) hubs where developers can receive, assemble, and stage turbines and other wind components.",
+     "snippet": "🇵🇭 Philippines advances offshore wind push with port upgrades. Port of Pambujan in Camarines Norte has been auctioned off to an unnamed Chinese company, while the feasibility study for the Port of Sta. Clara in Batangas has been completed, with plans to auction it to developers by the end of this year.\n\nOnce development is complete, these facilities will serve as offshore wind (OSW) hubs where developers can receive, assemble, and stage turbines and other wind components.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SEA Energy News",
+     "handle": "@SEAEnergyNews"
+    },
+    {
+     "url": "https://x.com/laonglaan_phil/status/2112167002949419194",
+     "title": "\"The Bataan-Cavite Interlink Bridge project features heavy Chinese firm participation in bidding and construction packages, with financing f",
+     "description": "\"The Bataan-Cavite Interlink Bridge project features heavy Chinese firm participation in bidding and construction packages, with financing from the Asian Development Bank and involvement of Chinese-led AIIB, underscoring economic ties influencing foreign policy restraint.\"\n -Grok",
+     "snippet": "\"The Bataan-Cavite Interlink Bridge project features heavy Chinese firm participation in bidding and construction packages, with financing from the Asian Development Bank and involvement of Chinese-led AIIB, underscoring economic ties influencing foreign policy restraint.\"\n -Grok",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tahanan ng Lahi🇵🇭",
+     "handle": "@laonglaan_phil"
+    },
+    {
+     "url": "https://x.com/IndoPacSentinel/status/2112698102578815074",
+     "title": "FYI, You are unintentionally endorsing DJI.",
+     "description": "FYI, You are unintentionally endorsing DJI. The very PRC company that is making the very drones that will be used against the Philippines, you might want to consider alternatives.",
+     "snippet": "FYI, You are unintentionally endorsing DJI. The very PRC company that is making the very drones that will be used against the Philippines, you might want to consider alternatives.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "gelliot",
+     "handle": "@IndoPacSentinel"
+    }
+   ]
+  }
+ ]
+}

@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Ukrainian Drones Reportedly Hit Moscow Region Ammunition Depot as Russian Strikes Kill At Least 7 Across Ukraine",
+   "url": "https://www.themoscowtimes.com/2026/10/22/ukrainian-drones-reportedly-hit-moscow-region-ammunition-depot-as-russian-strikes-kill-at-least-7-across-ukraine-a94044",
+   "content": "The Defense Ministry said it intercepted 808 Ukrainian drones across Russia and annexed Crimea between Wednesday night and Thursday morning.",
+   "published_date": "Thu, 22 Oct 2026 11:26:07 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Japan Sends Senior Diplomat to Russia to Seek Release of Arrested Journalist",
    "url": "https://www.themoscowtimes.com/2026/10/21/japan-sends-senior-diplomat-to-russia-to-seek-release-of-arrested-journalist-a94041",
    "content": "Japan's top diplomat for Europe met the head of the department at the Russian Foreign Ministry dealing with much of East Asia.",
@@ -342,13 +349,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/15/ukrainian-drones-spark-fire-at-ryazan-refinery-as-zelensky-vows-to-resume-attacks-a93981",
    "content": "“The block [on attacking refineries] is out. We’re done,” Zelensky told the FT, accusing Russia of refusing to follow the Trump-announced deal.",
    "published_date": "Thu, 15 Oct 2026 11:37:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Government Says It Helped Yandex Migrate Systems After Data Center Attacks",
-   "url": "https://www.themoscowtimes.com/2026/10/14/government-says-it-helped-yandex-migrate-systems-after-data-center-attacks-a93979",
-   "content": "A Rostelecom executive also called on the company to construct so-called \"doomsday\" backup sites.",
-   "published_date": "Wed, 14 Oct 2026 18:23:00 +0300",
    "score": 0.6
   }
  ],

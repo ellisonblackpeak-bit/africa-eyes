@@ -1,0 +1,96 @@
+{
+ "query": "China North Korea South Korea Chinese embassy deal",
+ "_tag": "soc_cn_kr",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/NuclearID68/status/2112496042155418031",
+     "title": "🇰🇷 🇨🇳 South Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges an",
+     "description": "🇰🇷 🇨🇳\nSouth Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges and conditions on the Korean Peninsula.\n\nKang urged Beijing to play a constructive role in maintaining peace and stability, saying heightened tensions also run against China’s interests. Reporting confirms the previously scheduled meeting took place.\n\n#SouthKorea #China #KoreanPeninsula\n\n🔗 Yonhap Publication:",
+     "snippet": "🇰🇷 🇨🇳\nSouth Korean Defence Minister Kang Shin-chul met Chinese Ambassador Dai Bing on October 20th to discuss bilateral defence exchanges and conditions on the Korean Peninsula.\n\nKang urged Beijing to play a constructive role in maintaining peace and stability, saying heightened tensions also run against China’s interests. Reporting confirms the previously scheduled meeting took place.\n\n#SouthKorea #China #KoreanPeninsula\n\n🔗 Yonhap Publication:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nuclear-ID",
+     "handle": "@NuclearID68"
+    },
+    {
+     "url": "https://x.com/YetAgainKR/status/2112761405212598320",
+     "title": "October 20, 2026 💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador At an October 15 parliamentary audit,",
+     "description": "October 20, 2026\n\n💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador\n\nAt an October 15 parliamentary audit, South Korea’s Defense Minister Kang Shin-chul stated that Seoul had “already conveyed” its objection to remarks by USFK Commander Gen. Brunson.\n\nJust five days later, before Chinese Ambassador Dai Bing, he requested China's “active support” and a “constructive role.”\n\nThe same China that repeatedly enters South Korea’s Air Defense Identification Zone (KADIZ) and builds structures in the Yellow Sea.\n\nProtesting to an ally while asking China for peace.\n\nThat is the security compass of this fake government.",
+     "snippet": "October 20, 2026\n\n💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador\n\nAt an October 15 parliamentary audit, South Korea’s Defense Minister Kang Shin-chul stated that Seoul had “already conveyed” its objection to remarks by USFK Commander Gen. Brunson.\n\nJust five days later, before Chinese Ambassador Dai Bing, he requested China's “active support” and a “constructive role.”\n\nThe same China that repeatedly enters South Korea’s Air Defense Identification Zone (KADIZ) and builds structures in the Yellow Sea.\n\nProtesting to an ally while asking China for peace.\n\nThat is the security compass of this fake government.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "YetAgain",
+     "handle": "@YetAgainKR"
+    },
+    {
+     "url": "https://x.com/DrTaraO/status/2112873527476990457",
+     "title": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.",
+     "description": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.\n\nSouth Korea's 2027 budget does have a new item--set up a foundation for strategic relations with China.\n\nThat is so unpopular in South Korea, where 80-90% of the people, especially the youths, dislike China. They want strong relations with the US.",
+     "snippet": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.\n\nSouth Korea's 2027 budget does have a new item--set up a foundation for strategic relations with China.\n\nThat is so unpopular in South Korea, where 80-90% of the people, especially the youths, dislike China. They want strong relations with the US.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tara O",
+     "handle": "@DrTaraO"
+    },
+    {
+     "url": "https://x.com/WWooki7806/status/2112501561264115937",
+     "title": "다이빙 주한 중국대사가 20일 용산 국방부를 찾아 강신철 국방장관과 한중 국방교류·협력, 한반도 정세를 논의했다.",
+     "description": "다이빙 주한 중국대사가 20일 용산 국방부를 찾아 강신철 국방장관과 한중 국방교류·협력, 한반도 정세를 논의했다. 중국대사의 국방부 방문은 이례적이다. 강 장관은 중국의 KADIZ·서해 활동에 대한 한국 입장을 설명하고 한반도 평화를 위한 건설적 역할을 요청했다.\nhttps://en.fnnews.com/news/202610201925290610",
+     "snippet": "다이빙 주한 중국대사가 20일 용산 국방부를 찾아 강신철 국방장관과 한중 국방교류·협력, 한반도 정세를 논의했다. 중국대사의 국방부 방문은 이례적이다. 강 장관은 중국의 KADIZ·서해 활동에 대한 한국 입장을 설명하고 한반도 평화를 위한 건설적 역할을 요청했다.\nhttps://en.fnnews.com/news/202610201925290610",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wooki",
+     "handle": "@WWooki7806"
+    },
+    {
+     "url": "https://x.com/OhmyNews_Korea/status/2112722371702620567",
+     "title": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003",
+     "description": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277250",
+     "snippet": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277250",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "오마이뉴스",
+     "handle": "@OhmyNews_Korea"
+    },
+    {
+     "url": "https://x.com/ORF_CNED/status/2112061180475023717",
+     "title": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026.",
+     "description": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026. The timing was no accident: it was a calculated signal to the US and its allies that North Korea remains China's closest strategic partner: @AVIRAL96 https://www.orfonline.org/expert-speak/from-burden-to-asset-china-s-recalibration-of-north-korea #China #NorthKorea",
+     "snippet": "Xi Jinping's visit to Pyongyang was his first in seven years and his first overseas trip of 2026. The timing was no accident: it was a calculated signal to the US and its allies that North Korea remains China's closest strategic partner: @AVIRAL96 https://www.orfonline.org/expert-speak/from-burden-to-asset-china-s-recalibration-of-north-korea #China #NorthKorea",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Centre for New Economic Diplomacy",
+     "handle": "@ORF_CNED"
+    },
+    {
+     "url": "https://x.com/rogerJhering/status/2112746506692481363",
+     "title": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "description": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "snippet": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jhering",
+     "handle": "@rogerJhering"
+    },
+    {
+     "url": "https://x.com/songsuwon78/status/2112877920981242170",
+     "title": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "description": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "snippet": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "제2 천안문 자유민주화 1989.6.4",
+     "handle": "@songsuwon78"
+    }
+   ]
+  }
+ ]
+}

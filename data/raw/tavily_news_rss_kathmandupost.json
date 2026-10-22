@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "A Nepali among eight injured in Dammam airport attack",
+   "url": "https://kathmandupost.com/national/2026/10/22/a-nepali-among-eight-injured-in-dammam-airport-attack",
+   "content": "The airport attack came hours after falling debris from a drone intercepted by Saudi air defences near a processing facility at Aramco’s Shaybah oil field killed a Nepali and a Filipino worker and injured two others.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "What is PHP, and why are security flaws putting European government websites at risk?",
    "url": "https://kathmandupost.com/world/2026/10/22/what-is-php-and-why-are-security-flaws-putting-european-government-websites-at-risk",
    "content": "Two critical flaws could let hackers take control of vulnerable servers, prompting warnings to patch systems or take websites offline.",
@@ -271,13 +278,6 @@
    "title": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
    "url": "https://kathmandupost.com/national/2026/10/20/baglung-flood-survivors-face-dashain-without-homes-as-rebuilding-stalls",
    "content": "Families in Baglung are living in a cooperative building, relatives’ homes and a buffalo shed after floods swept away their houses and farmland. Many struggle to secure land and meet government requirements for reconstruction aid.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Tourist arrivals in Mustang plunge 41.5 percent",
-   "url": "https://kathmandupost.com/national/2026/10/19/tourist-arrivals-in-mustang-plunge-41-5-percent",
-   "content": "Floods, heavy rain and prolonged closure of the Beni-Jomsom road disrupt access to the Himalayan district during the autumn tourism season.",
    "published_date": "",
    "score": 0.6
   }

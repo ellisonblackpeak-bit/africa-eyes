@@ -1,0 +1,116 @@
+{
+ "query": "United States Niger Mali Sahel AFRICOM cooperation sanctions",
+ "_tag": "soc_us_sahel",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AsstSecStateAF/status/2112675760548811071",
+     "title": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public s",
+     "description": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "snippet": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bureau of African Affairs",
+     "handle": "@AsstSecStateAF"
+    },
+    {
+     "url": "https://x.com/beyondB_DAG/status/2112087038409211908",
+     "title": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱,",
+     "description": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "snippet": "U.S. 🇺🇸 Congressman James P. McGovern has urged Secretary of State Marco Rubio to impose new economic sanctions on Burkina Faso 🇧🇫, Mali 🇲🇱, and Niger 🇳🇪, accusing their governments of human rights abuses.\n\nThis from a Democrat, and from a US that propose to livestream the execution of a human being? Give me a break.\n\nThe move comes as the Alliance of Sahel States (AES) pursues greater sovereignty, takes control of strategic natural resources, ends French military presence, and invests in national development.\n\nWestern sanctions are a form of economic warfare that harms ordinary citizens while putting pressure on governments that challenge foreign influence.\n\nAll the Sanction they imposed on Burkina Faso has failed. The more sanctions they imposed the higer the growth rate of the Burkinabe economy.\n\nThe new strategy is to befriend Burkina Faso.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Revolutionary Soldier",
+     "handle": "@beyondB_DAG"
+    },
+    {
+     "url": "https://x.com/USEmbassyGhana/status/2112878126434849028",
+     "title": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting i",
+     "description": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting in Accra. Participants held constructive discussions on regional stability, economic resilience, and cross-border cooperation. The United States is working with partners to advance security and prosperity across West Africa.",
+     "snippet": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting in Accra. Participants held constructive discussions on regional stability, economic resilience, and cross-border cooperation. The United States is working with partners to advance security and prosperity across West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Embassy Accra",
+     "handle": "@USEmbassyGhana"
+    },
+    {
+     "url": "https://x.com/GPMonitor/status/2112943158741135602",
+     "title": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response.",
+     "description": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response. Its headquarters is still in Stuttgart, Germany.\n\nThe case for a forward headquarters in coastal West Africa:\n\nhttps://www.geopoliticalmonitor.com/africom-headquarters-west-africa/",
+     "snippet": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response. Its headquarters is still in Stuttgart, Germany.\n\nThe case for a forward headquarters in coastal West Africa:\n\nhttps://www.geopoliticalmonitor.com/africom-headquarters-west-africa/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Geopolitical Monitor",
+     "handle": "@GPMonitor"
+    },
+    {
+     "url": "https://x.com/grok/status/2112188991910871127",
+     "title": "Primary sources chronologically: May 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/even",
+     "description": "Primary sources chronologically:\n\nMay 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/events/hearings/civilian-harm-under-military-rule-central-sahel\n\nAug 12 2026 McGovern letter to Rubio (targeted Magnitsky sanctions on individuals, rights focus) and press release: https://mcgovern.house.gov/news/documentsingle.aspx?documentid=400389\n\nLetter PDF: https://t.co/bddxRk9I3j\n\nAug 17 coverage: https://t.co/joqs4fG2As\n\nVideo response: https://t.co/TxFGRGTQYy\n\nNo academic journals found.",
+     "snippet": "Primary sources chronologically:\n\nMay 14 2026 Tom Lantos hearing on Central Sahel civilian harm: https://humanrightscommission.house.gov/events/hearings/civilian-harm-under-military-rule-central-sahel\n\nAug 12 2026 McGovern letter to Rubio (targeted Magnitsky sanctions on individuals, rights focus) and press release: https://mcgovern.house.gov/news/documentsingle.aspx?documentid=400389\n\nLetter PDF: https://t.co/bddxRk9I3j\n\nAug 17 coverage: https://t.co/joqs4fG2As\n\nVideo response: https://t.co/TxFGRGTQYy\n\nNo academic journals found.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/USAenFrancais/status/2112873907749318690",
+     "title": "🌍 Les États-Unis saluent la récente rencontre, à Dakar, entre l’Alliance des États du Sahel (AES) et la Communauté économique des États de l",
+     "description": "🌍 Les États-Unis saluent la récente rencontre, à Dakar, entre l’Alliance des États du Sahel (AES) et la Communauté économique des États de l’Afrique de l’Ouest (CEDEAO). Cette rencontre publique de haut niveau constitue un premier pas vers la coopération entre les deux blocs.\nNous soutenons le dialogue mené par nos partenaires régionaux afin de favoriser une stabilité à long terme et des efforts de partage des responsabilités en Afrique de l’Ouest. - @AsstSecStateAF",
+     "snippet": "🌍 Les États-Unis saluent la récente rencontre, à Dakar, entre l’Alliance des États du Sahel (AES) et la Communauté économique des États de l’Afrique de l’Ouest (CEDEAO). Cette rencontre publique de haut niveau constitue un premier pas vers la coopération entre les deux blocs.\nNous soutenons le dialogue mené par nos partenaires régionaux afin de favoriser une stabilité à long terme et des efforts de partage des responsabilités en Afrique de l’Ouest. - @AsstSecStateAF",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "USA en Français",
+     "handle": "@USAenFrancais"
+    },
+    {
+     "url": "https://x.com/grok/status/2112814843124216148",
+     "title": "Western forces left when asked: France/US withdrew from Mali, Burkina Faso, Niger, Chad, Senegal and Ivory Coast after government requests.",
+     "description": "Western forces left when asked: France/US withdrew from Mali, Burkina Faso, Niger, Chad, Senegal and Ivory Coast after government requests. Presence rested on bilateral deals that end. Aid is voluntary, offered with conditions; recipients can refuse it and donors can suspend it. No verified Western threats of attack solely for expelling troops while retaining aid. Past ECOWAS warnings after coups targeted restoring elected rule and did not produce invasions.",
+     "snippet": "Western forces left when asked: France/US withdrew from Mali, Burkina Faso, Niger, Chad, Senegal and Ivory Coast after government requests. Presence rested on bilateral deals that end. Aid is voluntary, offered with conditions; recipients can refuse it and donors can suspend it. No verified Western threats of attack solely for expelling troops while retaining aid. Past ECOWAS warnings after coups targeted restoring elected rule and did not produce invasions.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/IlyasIdris93/status/2112897091710160969",
+     "title": "This is the first time I’ve seen the US refer to Mali, Burkina Faso, and Niger as the “AES”.",
+     "description": "This is the first time I’ve seen the US refer to Mali, Burkina Faso, and Niger as the “AES”. Since its establishment. No “Junta” or “Strongman” label. The results & outcomes are so hard to ignore. The US has no choice but to acquiesce. The African tide is rising 🌊",
+     "snippet": "This is the first time I’ve seen the US refer to Mali, Burkina Faso, and Niger as the “AES”. Since its establishment. No “Junta” or “Strongman” label. The results & outcomes are so hard to ignore. The US has no choice but to acquiesce. The African tide is rising 🌊",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ilyas Idris 🌍",
+     "handle": "@IlyasIdris93"
+    },
+    {
+     "url": "https://x.com/drogon_dracarys/status/2112956871115960659",
+     "title": "11/5: Days after American diplomats and nationals were told to leave Mali, a senior U.S.",
+     "description": "11/5: Days after American diplomats and nationals were told to leave Mali, a senior U.S. official praised the military junta and hinted at cooperation between the two governments after years of a strained diplomatic relationship. https://apnews.com/article/mali-united-states-islamic-extremists-d1038cfe015bbeddd55a3e7d517f46d0",
+     "snippet": "11/5: Days after American diplomats and nationals were told to leave Mali, a senior U.S. official praised the military junta and hinted at cooperation between the two governments after years of a strained diplomatic relationship. https://apnews.com/article/mali-united-states-islamic-extremists-d1038cfe015bbeddd55a3e7d517f46d0",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Drogon",
+     "handle": "@drogon_dracarys"
+    },
+    {
+     "url": "https://x.com/LeoneFaso/status/2112749959401603228",
+     "title": "You guys are EXTREMELY DANGEROUS.",
+     "description": "You guys are EXTREMELY DANGEROUS. \n\nAmerican leaders pushing anti immigration and far right dangerous rhetoric on foreigners but yet you’re in our homes begging for our cooperation and minerals? \n\nAnything involving the US is a red flag, I hope the AES proceed with caution.",
+     "snippet": "You guys are EXTREMELY DANGEROUS. \n\nAmerican leaders pushing anti immigration and far right dangerous rhetoric on foreigners but yet you’re in our homes begging for our cooperation and minerals? \n\nAnything involving the US is a red flag, I hope the AES proceed with caution.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ibrahim Traore",
+     "handle": "@LeoneFaso"
+    }
+   ]
+  }
+ ]
+}
