@@ -1,1 +1,32 @@
-[]
+{
+ "t1": {
+  "key": "t1",
+  "group": "social",
+  "field": "title",
+  "en": "Gunmen abduct two Chinese miners in Kwali, police confirm. The FCT command said the men were taken from a quarry on Tuesday night."
+ },
+ "t2": {
+  "key": "t2",
+  "group": "social",
+  "field": "title",
+  "en": "US sanctions Burkina Faso, Mali and Niger over human rights abuses, the Treasury Department said on Wednesday."
+ },
+ "t3": {
+  "key": "t3",
+  "group": "social",
+  "field": "title",
+  "en": "Jihadist group JNIM claims attack on army convoy in Menaka, killing 12 soldiers and wounding several others."
+ },
+ "t4": {
+  "key": "t4",
+  "group": "news",
+  "field": "summary",
+  "en": "Niger has banned petrol and diesel exports to prioritise domestic supply after long queues formed at filling stations across Niamey, the capital, amid a shortage linked to refinery output."
+ },
+ "t5": {
+  "key": "t5",
+  "group": "news",
+  "field": "title",
+  "en": "Chinese oil firms in Niger race to return $5.2 billion in outstanding crude payments"
+ }
+}
