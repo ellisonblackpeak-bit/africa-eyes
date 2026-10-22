@@ -16,7 +16,7 @@
  *
  * Bump CACHE when the icon set changes; the old cache is dropped on activate.
  */
-var CACHE = 'ce-shell-v3';
+var CACHE = 'ce-shell-v4';
 var SHELL = [
   './',
   './index.html',
