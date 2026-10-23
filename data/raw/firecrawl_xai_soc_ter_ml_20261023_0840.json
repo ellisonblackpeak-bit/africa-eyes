@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/stopwagnergroup/status/2113270391837724905",
+     "title": "Africa Corps under pressure: the 🌴Sahel, April–October 2026 Russia promised security to the Sahel’s military regimes.",
+     "description": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "snippet": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/MorCam_Intel/status/2113369099682054540",
+     "title": "🧵 1/6 COMBAT ANALYSIS & GEOINT Subject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video Admiralty Grade: A1 (Confirmed Pinpoint) Coordi",
+     "description": "🧵 1/6 COMBAT ANALYSIS & GEOINT\n\nSubject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video \n\nAdmiralty Grade: A1 (Confirmed Pinpoint) Coordinates: 14.321651, -5.899139 (Niono / Office du Niger Irrigation Scheme, Ségou Region, Mali 🇲🇱)\n\n👇 Full tactical breakdown & annotated satellite verification:",
+     "snippet": "🧵 1/6 COMBAT ANALYSIS & GEOINT\n\nSubject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video \n\nAdmiralty Grade: A1 (Confirmed Pinpoint) Coordinates: 14.321651, -5.899139 (Niono / Office du Niger Irrigation Scheme, Ségou Region, Mali 🇲🇱)\n\n👇 Full tactical breakdown & annotated satellite verification:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MorCam Intel Desk 🛰️",
+     "handle": "@MorCam_Intel"
+    },
+    {
+     "url": "https://x.com/MCNEWS_01/status/2113302297002512397",
+     "title": "#BreakingNews: 48 civilians reportedly killed in Mali attack.",
+     "description": "#BreakingNews: 48 civilians reportedly killed in Mali attack.\n\nAn attack attributed to Islamic State-linked militants reportedly killed 48 civilians in Mali’s eastern Ménaka region, according to a Tuareg leader cited by the Associated Press.\n\nChildren and elderly people were among the victims.\n\nThe attack highlights the continuing security challenges facing communities across the Sahel.",
+     "snippet": "#BreakingNews: 48 civilians reportedly killed in Mali attack.\n\nAn attack attributed to Islamic State-linked militants reportedly killed 48 civilians in Mali’s eastern Ménaka region, according to a Tuareg leader cited by the Associated Press.\n\nChildren and elderly people were among the victims.\n\nThe attack highlights the continuing security challenges facing communities across the Sahel.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MC NEWS",
+     "handle": "@MCNEWS_01"
+    },
+    {
+     "url": "https://x.com/EyeThink_/status/2112794389957468277",
+     "title": "[🇲🇱MALI] Au moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao,",
+     "description": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "snippet": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eye Think",
+     "handle": "@EyeThink_"
+    },
+    {
+     "url": "https://x.com/sahelinfo223/status/2112937063914074165",
+     "title": "Frappe chirurgicale de l'Africa Corps : un drone a ciblé et neutralisé un rassemblement de terroristes de la coalition FLA et JNIM repérés a",
+     "description": "Frappe chirurgicale de l'Africa Corps : un drone a ciblé et neutralisé un rassemblement de terroristes de la coalition FLA et JNIM repérés au niveau d'un point de traversée.\n#AfricaCorps #Sahel #Mali #JNIM #FLA #Antiterrorisme #FAMA",
+     "snippet": "Frappe chirurgicale de l'Africa Corps : un drone a ciblé et neutralisé un rassemblement de terroristes de la coalition FLA et JNIM repérés au niveau d'un point de traversée.\n#AfricaCorps #Sahel #Mali #JNIM #FLA #Antiterrorisme #FAMA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahelinfo223",
+     "handle": "@sahelinfo223"
+    },
+    {
+     "url": "https://x.com/SimNasr/status/2112546877480517655",
+     "title": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite d",
+     "description": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "snippet": "Le JNIM admet que ses jihadistes ont conduit des exécutions sommaires de militaires maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi parti d'Anefis, en juillet dernier. Tout en précisant que ce n’était pas suivant des ordres et qu’il ne condamne pas pour autant l’initiative de ses combattants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wassim Nasr",
+     "handle": "@SimNasr"
+    },
+    {
+     "url": "https://x.com/Milatrud11/status/2112548173579526596",
+     "title": "HRW report: The Malian army (FAMa) and Africa Corps have killed at least 31 civilians in Segou region in Oct 2025 in violation of intl law:",
+     "description": "HRW report: The Malian army (FAMa) and Africa Corps have killed at least 31 civilians in Segou region in Oct 2025 in violation of intl law: \nJNIM summarily executed 19 soldiers following an attack on a military convoy in Tabrichat(Gao region)on Jul 18 2026.https://www.hrw.org/news/2025/11/17/mali-army-militias-massacre-villagers-in-central-region",
+     "snippet": "HRW report: The Malian army (FAMa) and Africa Corps have killed at least 31 civilians in Segou region in Oct 2025 in violation of intl law: \nJNIM summarily executed 19 soldiers following an attack on a military convoy in Tabrichat(Gao region)on Jul 18 2026.https://www.hrw.org/news/2025/11/17/mali-army-militias-massacre-villagers-in-central-region",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mila",
+     "handle": "@Milatrud11"
+    },
+    {
+     "url": "https://x.com/morokkan/status/2112531648290205870",
+     "title": "At least 48 civilians killed in eastern Mali.",
+     "description": "At least 48 civilians killed in eastern Mali.\n\nGunmen on motorcycles raided camps in the Ménaka region Sunday, shooting residents and torching homes, local and security sources told Reuters and AFP.\n\nThey blame Islamic State's Sahel affiliate. Hundreds have fled to Ménaka town.",
+     "snippet": "At least 48 civilians killed in eastern Mali.\n\nGunmen on motorcycles raided camps in the Ménaka region Sunday, shooting residents and torching homes, local and security sources told Reuters and AFP.\n\nThey blame Islamic State's Sahel affiliate. Hundreds have fled to Ménaka town.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Independent",
+     "handle": "@morokkan"
+    },
+    {
+     "url": "https://x.com/RepublicaNepal/status/2112416854518214751",
+     "title": "The assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community, whose executive bureau",
+     "description": "The assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community, whose executive bureau blamed the killings on the Islamic State group.\n\nhttps://myrepublica.nagariknetwork.com/news/gunmen-kill-more-than-40-civilians-in-mali-security-and-community-sources-68-74.html",
+     "snippet": "The assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community, whose executive bureau blamed the killings on the Islamic State group.\n\nhttps://myrepublica.nagariknetwork.com/news/gunmen-kill-more-than-40-civilians-in-mali-security-and-community-sources-68-74.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "República",
+     "handle": "@RepublicaNepal"
+    },
+    {
+     "url": "https://x.com/Bishopnational/status/2112581848522010791",
+     "title": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, su",
+     "description": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, sur l’axe Bandiagara-Douentza. Son chauffeur aurait été tué",
+     "snippet": "🇲🇱 #Mali : Le JNIM aurait saisi le véhicule de Youssouf Toloba, chef de la milice Dan Na Ambassagou, lors d’une attaque près de Djambiya, sur l’axe Bandiagara-Douentza. Son chauffeur aurait été tué",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "B I S H O P N A T I O N A L",
+     "handle": "@Bishopnational"
+    }
+   ]
+  }
+ ]
+}

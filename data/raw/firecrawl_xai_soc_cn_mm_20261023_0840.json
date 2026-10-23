@@ -1,0 +1,116 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/bnionline1/status/2112924560555458966",
+     "title": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work.",
+     "description": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "snippet": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Burma News International",
+     "handle": "@bnionline1"
+    },
+    {
+     "url": "https://x.com/KevinLH811/status/2112658413398196531",
+     "title": "Myanmar is where a lot of China's heavy rare earth feed comes from, mostly ionic clay out of Kachin.",
+     "description": "Myanmar is where a lot of China's heavy rare earth feed comes from, mostly ionic clay out of Kachin. Even if the US got access, that ore still goes to China to be separated today. More feed doesn't help much until there's somewhere outside China to process it.",
+     "snippet": "Myanmar is where a lot of China's heavy rare earth feed comes from, mostly ionic clay out of Kachin. Even if the US got access, that ore still goes to China to be separated today. More feed doesn't help much until there's somewhere outside China to process it.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kevin H",
+     "handle": "@KevinLH811"
+    },
+    {
+     "url": "https://x.com/ViewsofMM22/status/2112370815694225480",
+     "title": "Who is really profiting from Myanmar’s jade?",
+     "description": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "snippet": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Views of Myanmar",
+     "handle": "@ViewsofMM22"
+    },
+    {
+     "url": "https://x.com/KevinLH811/status/2113385785529713067",
+     "title": "Worth adding that most of Myanmar's heavy rare earth output goes across the border to China for separation.",
+     "description": "Worth adding that most of Myanmar's heavy rare earth output goes across the border to China for separation. The mining sits in Myanmar but the control stays in China. India having the reserves is half of it. Building its own heavy rare earth separation is the other half.",
+     "snippet": "Worth adding that most of Myanmar's heavy rare earth output goes across the border to China for separation. The mining sits in Myanmar but the control stays in China. India having the reserves is half of it. Building its own heavy rare earth separation is the other half.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kevin H",
+     "handle": "@KevinLH811"
+    },
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2112474638735298638",
+     "title": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highla",
+     "description": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highlands harvest to Yunnan as the regime-aligned Myanmar Coffee Association seeks Chinese investment to build the sector.\n\n#WhatsHappeningInMyanmar",
+     "snippet": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highlands harvest to Yunnan as the regime-aligned Myanmar Coffee Association seeks Chinese investment to build the sector.\n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112882047924809881",
+     "title": "Most of Myanmar’s manganese mines have been running since the early 2000s in Shan State.",
+     "description": "Most of Myanmar’s manganese mines have been running since the early 2000s in Shan State.\n\nThe NDAA, backed by the United Wa State Party and with deep ties to China, used those connections to become a powerhouse in rare earth and jade mining.",
+     "snippet": "Most of Myanmar’s manganese mines have been running since the early 2000s in Shan State.\n\nThe NDAA, backed by the United Wa State Party and with deep ties to China, used those connections to become a powerhouse in rare earth and jade mining.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/realTimHack/status/2112616512292860094",
+     "title": "United States trying to flip Myanmar, a key pro China rare earth hub.",
+     "description": "United States trying to flip Myanmar, a key pro China rare earth  hub. Could trigger a rare earth export ban by China.",
+     "snippet": "United States trying to flip Myanmar, a key pro China rare earth  hub. Could trigger a rare earth export ban by China.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tim Hack",
+     "handle": "@realTimHack"
+    },
+    {
+     "url": "https://x.com/UNSRHRMyanmar/status/2113240344779161995",
+     "title": "SUPPLY CHAIN ALERT🚨 @shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Meko",
+     "description": "SUPPLY CHAIN ALERT🚨\n@shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Mekong watershed. \nWorker conditions at the mine are extremely dangerous and unregulated, with accidents reportedly killing at least 20 workers being hushed up by local authorities. \n@ilo \n@EITIorg \n@Automotive_News \n#WhatsHappeningInMyanmar",
+     "snippet": "SUPPLY CHAIN ALERT🚨\n@shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Mekong watershed. \nWorker conditions at the mine are extremely dangerous and unregulated, with accidents reportedly killing at least 20 workers being hushed up by local authorities. \n@ilo \n@EITIorg \n@Automotive_News \n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kelley E. Currie, UN Special Rapporteur on Myanmar",
+     "handle": "@UNSRHRMyanmar"
+    },
+    {
+     "url": "https://x.com/Freelancejou333/status/2112381177919361479",
+     "title": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting sta",
+     "description": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "snippet": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Freelance Journalist",
+     "handle": "@Freelancejou333"
+    },
+    {
+     "url": "https://x.com/measuredworld/status/2112755757850804701",
+     "title": "China mines more rare earths than the rest of the world combined.",
+     "description": "China mines more rare earths than the rest of the world combined.\n\nRare earth mine production, 2025 (tonnes, estimates)\n\n1. 🇨🇳 China: 270,000\n2. 🇺🇸 United States: 51,000\n3. 🇦🇺 Australia: 29,000\n4. 🇲🇲 Myanmar: 22,000\n5. 🇹🇭 Thailand: 4,800\n6. 🇮🇳 India: 2,900\n7. 🇲🇬 Madagascar: 2,700\n8. 🇷🇺 Russia: 2,600\n\nSource: US Geological Survey",
+     "snippet": "China mines more rare earths than the rest of the world combined.\n\nRare earth mine production, 2025 (tonnes, estimates)\n\n1. 🇨🇳 China: 270,000\n2. 🇺🇸 United States: 51,000\n3. 🇦🇺 Australia: 29,000\n4. 🇲🇲 Myanmar: 22,000\n5. 🇹🇭 Thailand: 4,800\n6. 🇮🇳 India: 2,900\n7. 🇲🇬 Madagascar: 2,700\n8. 🇷🇺 Russia: 2,600\n\nSource: US Geological Survey",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Measured World",
+     "handle": "@measuredworld"
+    }
+   ]
+  }
+ ]
+}

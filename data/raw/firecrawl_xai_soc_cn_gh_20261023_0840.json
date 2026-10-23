@@ -1,0 +1,116 @@
+{
+ "query": "Ghana China Chinese company investment mining embassy",
+ "_tag": "soc_cn_gh",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Promado_1/status/2112927200143929490",
+     "title": "⛏️ GHANA IS LOOKING BEYOND GOLD 🇬🇭 Ghana is seeking fresh investment in manganese, iron and steel as it looks to expand its mining industry",
+     "description": "⛏️ GHANA IS LOOKING BEYOND GOLD 🇬🇭\n\nGhana is seeking fresh investment in manganese, iron and steel as it looks to expand its mining industry beyond gold.\n\nA Chinese investment delegation has expressed interest in opportunities across the sector, including a possible equity stake in Adamus Resources. Meanwhile, Asanko Gold Ghana has outlined plans for open-pit expansion and underground mining.\n\nThe bigger opportunity here is value addition. Ghana has mineral resources, but the real economic gains come when more processing, industrial activity and skilled jobs are created locally.\n\nAttracting investors is one thing. Turning that interest into actual projects, local industries and jobs is where the real test begins.\n\nCan Ghana finally move beyond exporting raw minerals and build a stronger mineral-processing industry at home? 🇬🇭\n\n#Ghana #Mining #CriticalMinerals",
+     "snippet": "⛏️ GHANA IS LOOKING BEYOND GOLD 🇬🇭\n\nGhana is seeking fresh investment in manganese, iron and steel as it looks to expand its mining industry beyond gold.\n\nA Chinese investment delegation has expressed interest in opportunities across the sector, including a possible equity stake in Adamus Resources. Meanwhile, Asanko Gold Ghana has outlined plans for open-pit expansion and underground mining.\n\nThe bigger opportunity here is value addition. Ghana has mineral resources, but the real economic gains come when more processing, industrial activity and skilled jobs are created locally.\n\nAttracting investors is one thing. Turning that interest into actual projects, local industries and jobs is where the real test begins.\n\nCan Ghana finally move beyond exporting raw minerals and build a stronger mineral-processing industry at home? 🇬🇭\n\n#Ghana #Mining #CriticalMinerals",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Promado X",
+     "handle": "@Promado_1"
+    },
+    {
+     "url": "https://x.com/_GhChronicles/status/2112857842315108515",
+     "title": "A rubber plantation farmer confronts Chinese nationals over the degradation of the plantation caused by gold exploration activities at Akyem",
+     "description": "A rubber plantation farmer confronts Chinese nationals over the degradation of the plantation caused by gold exploration activities at Akyem Etukrom in the Abuakwa North Municipality of the Eastern Region. The area in dispute is said to be under a concession taken over by CMS-PRO, AA Southern.",
+     "snippet": "A rubber plantation farmer confronts Chinese nationals over the degradation of the plantation caused by gold exploration activities at Akyem Etukrom in the Abuakwa North Municipality of the Eastern Region. The area in dispute is said to be under a concession taken over by CMS-PRO, AA Southern.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GHANA CHRONICLES",
+     "handle": "@_GhChronicles"
+    },
+    {
+     "url": "https://x.com/ThePowerAtlasHQ/status/2113228835881660603",
+     "title": "Africa's gold giant is rewriting who runs its mines.",
+     "description": "Africa's gold giant is rewriting who runs its mines. Ghana ordered its mining regulator to standardise pay as it forces operators like Newmont, AngloGold and China's Zijin to shift work to local contractors by December — or face sanctions. Resource nationalism is accelerating.",
+     "snippet": "Africa's gold giant is rewriting who runs its mines. Ghana ordered its mining regulator to standardise pay as it forces operators like Newmont, AngloGold and China's Zijin to shift work to local contractors by December — or face sanctions. Resource nationalism is accelerating.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Power Atlas",
+     "handle": "@ThePowerAtlasHQ"
+    },
+    {
+     "url": "https://x.com/AlecuRussell/status/2113293402578280899",
+     "title": "“The typical western investor comes with a notebook and asks: ‘Do they have an independent judiciary?...’ By the time you get to the 5th poi",
+     "description": "“The typical western investor comes with a notebook and asks: ‘Do they have an independent judiciary?...’ By the time you get to the 5th point, China has already invested.”\nGhana's president @JDMahama on the boomtime for Africa - #FTAfrica summit\nhttps://www.ft.com/content/68e28f90-cbc3-4fa6-950b-451cf7c49c87 via #FT",
+     "snippet": "“The typical western investor comes with a notebook and asks: ‘Do they have an independent judiciary?...’ By the time you get to the 5th point, China has already invested.”\nGhana's president @JDMahama on the boomtime for Africa - #FTAfrica summit\nhttps://www.ft.com/content/68e28f90-cbc3-4fa6-950b-451cf7c49c87 via #FT",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alec Russell",
+     "handle": "@AlecuRussell"
+    },
+    {
+     "url": "https://x.com/ZMK_Advisory/status/2113086633511882754",
+     "title": "Indonesia ran this playbook for nickel: full raw-ore ban from January 2020, share of world mined supply from under 6% in 2015 to 62% in 2024.",
+     "description": "Indonesia ran this playbook for nickel: full raw-ore ban from January 2020, share of world mined supply from under 6% in 2015 to 62% in 2024. Chinese firms built over 90% of the smelters. Our read: for Ghana's bauxite, the question is who finances and owns the plants.",
+     "snippet": "Indonesia ran this playbook for nickel: full raw-ore ban from January 2020, share of world mined supply from under 6% in 2015 to 62% in 2024. Chinese firms built over 90% of the smelters. Our read: for Ghana's bauxite, the question is who finances and owns the plants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ZMK Advisory Sdn Bhd",
+     "handle": "@ZMK_Advisory"
+    },
+    {
+     "url": "https://x.com/starr1035fm/status/2112602761497870502",
+     "title": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies...",
+     "description": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #StarrFM\n#GHOneNews #NewsAlert",
+     "snippet": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #StarrFM\n#GHOneNews #NewsAlert",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Starr 103.5 FM",
+     "handle": "@starr1035fm"
+    },
+    {
+     "url": "https://x.com/ghonetv/status/2112473027149459925",
+     "title": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies...",
+     "description": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #GHOneTV \n#GHOneNews #NewsAlert",
+     "snippet": "Ghana wants its business relationship with China to deliver mutual benefits, with investment opportunities that support both economies... - Vice Pres. Prof. Jane Naana Opoku-Agyemang\n\n#EIBNetwork #GHOneTV \n#GHOneNews #NewsAlert",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GHOne TV",
+     "handle": "@ghonetv"
+    },
+    {
+     "url": "https://x.com/nabsparky/status/2112650649670148380",
+     "title": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles.",
+     "description": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles. Every land they touch, it can't be used for farming again. Hmmm Ghana",
+     "snippet": "Chinese company and they are destroying our lands scraping all the top soil in the name of making tiles. Every land they touch, it can't be used for farming again. Hmmm Ghana",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NanaBanyin Tsiwa",
+     "handle": "@nabsparky"
+    },
+    {
+     "url": "https://x.com/nii_silvion/status/2113303712081027423",
+     "title": "We don't even deserve to get the benefit of any extra jobs in the mining industry.",
+     "description": "We don't even deserve to get the benefit of any extra jobs in the mining industry. That is saved for the chinese galamseyers who are already here and who have done the most damage to ghana",
+     "snippet": "We don't even deserve to get the benefit of any extra jobs in the mining industry. That is saved for the chinese galamseyers who are already here and who have done the most damage to ghana",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Silvion Nii Sanchez",
+     "handle": "@nii_silvion"
+    },
+    {
+     "url": "https://x.com/Cruickshankjkj/status/2112751026587701293",
+     "title": "sanity is only for environmental destruction.",
+     "description": "sanity is only for environmental destruction. That’s why the Chinese are in Ghana illegally mining and why they are in Zimbabwe illegally mining. We need to put an end to this neo-colonial abuse",
+     "snippet": "sanity is only for environmental destruction. That’s why the Chinese are in Ghana illegally mining and why they are in Zimbabwe illegally mining. We need to put an end to this neo-colonial abuse",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CruickshankMaye",
+     "handle": "@Cruickshankjkj"
+    }
+   ]
+  }
+ ]
+}
