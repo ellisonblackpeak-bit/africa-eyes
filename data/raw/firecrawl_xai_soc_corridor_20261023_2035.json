@@ -1,0 +1,86 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Challenge_ma/status/2113414165474038085",
+     "title": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !",
+     "description": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !\n\n#Challenge #ChallengeMaroc #Gazoduc #Maroc #Nigeria #Afrique #Énergie #SécuritéÉnergétique #Investissement\n\nhttps://www.challenge.ma/cea-le-gazoduc-nigeria-maroc-une-initiative-majeure-pour-la-securite-energetique-325839/",
+     "snippet": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !\n\n#Challenge #ChallengeMaroc #Gazoduc #Maroc #Nigeria #Afrique #Énergie #SécuritéÉnergétique #Investissement\n\nhttps://www.challenge.ma/cea-le-gazoduc-nigeria-maroc-une-initiative-majeure-pour-la-securite-energetique-325839/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Challenge",
+     "handle": "@Challenge_ma"
+    },
+    {
+     "url": "https://x.com/barlamanefr/status/2113211917968007367",
+     "title": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale",
+     "description": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale\n https://barlamane.com/fr/la-commission-economique-des-nations-unies-pour-lafrique-erige-le-gazoduc-nigeria-maroc-en-modele-dinterconnexion-energetique-continentale/",
+     "snippet": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale\n https://barlamane.com/fr/la-commission-economique-des-nations-unies-pour-lafrique-erige-le-gazoduc-nigeria-maroc-en-modele-dinterconnexion-energetique-continentale/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "barlamane.com/fr",
+     "handle": "@barlamanefr"
+    },
+    {
+     "url": "https://x.com/GazetteNGR/status/2113158326569603339",
+     "title": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security https://gazettengr.com/un-hails-nigeria-morocco-gas-pip",
+     "description": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\nhttps://gazettengr.com/un-hails-nigeria-morocco-gas-pipeline-project-as-booster-of-africas-energy-security/",
+     "snippet": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\nhttps://gazettengr.com/un-hails-nigeria-morocco-gas-pipeline-project-as-booster-of-africas-energy-security/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Peoples Gazette",
+     "handle": "@GazetteNGR"
+    },
+    {
+     "url": "https://x.com/Davy_Jones_P/status/2113292346477699147",
+     "title": "🇲🇦 Impact potentiel pour le Maroc Le projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec",
+     "description": "🇲🇦 Impact potentiel pour le Maroc\nLe projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec l'#Europe pourraient bénéficier d'un calendrier de conformité plus souple.",
+     "snippet": "🇲🇦 Impact potentiel pour le Maroc\nLe projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec l'#Europe pourraient bénéficier d'un calendrier de conformité plus souple.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Le Regent 🏴‍☠️",
+     "handle": "@Davy_Jones_P"
+    },
+    {
+     "url": "https://x.com/EMansoJ/status/2112904817458688497",
+     "title": "S’il n’y a pas de gazoduc vous exporterez votre gaz à dos de chameau, c’est la Mauritanie qui va profiter du gazoduc pas le Maroc, de plus c",
+     "description": "S’il n’y a pas de gazoduc vous exporterez votre gaz à dos de chameau, c’est la Mauritanie qui va profiter du gazoduc pas le Maroc, de plus ce gazoduc concerne plusieurs pays africains il faudra vous expliquer avec eux",
+     "snippet": "S’il n’y a pas de gazoduc vous exporterez votre gaz à dos de chameau, c’est la Mauritanie qui va profiter du gazoduc pas le Maroc, de plus ce gazoduc concerne plusieurs pays africains il faudra vous expliquer avec eux",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eternal Palestine",
+     "handle": "@EMansoJ"
+    },
+    {
+     "url": "https://x.com/Jaqen19e/status/2112856650138743108",
+     "title": "Sans la Mauritanie 🇲🇷 vous n’aurez pas de Gazoduc qui va au Nigeria !!",
+     "description": "Sans la Mauritanie 🇲🇷 vous n’aurez pas de Gazoduc qui va au Nigeria !!",
+     "snippet": "Sans la Mauritanie 🇲🇷 vous n’aurez pas de Gazoduc qui va au Nigeria !!",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Werebeu",
+     "handle": "@Jaqen19e"
+    },
+    {
+     "url": "https://x.com/Jaqen19e/status/2112856262669107535",
+     "title": "Sans la Mauritanie il n’y a pas de Gazoduc Maroc- Nigeria",
+     "description": "Sans la Mauritanie il n’y a pas de Gazoduc Maroc- Nigeria",
+     "snippet": "Sans la Mauritanie il n’y a pas de Gazoduc Maroc- Nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Werebeu",
+     "handle": "@Jaqen19e"
+    }
+   ]
+  }
+ ]
+}
