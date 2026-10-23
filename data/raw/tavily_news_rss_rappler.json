@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "DILG, PNP to Bato: 1 week to surrender | The wRap",
+   "url": "https://www.rappler.com/video/daily-wrap/october-23-2026/",
+   "content": "Today’s headlines: Bato dela Rosa, Paolo Duterte, Alex Eala",
+   "published_date": "Fri, 23 Oct 2026 22:00:00 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "DILG says Bato has 1 week to surrender, offers P50-M reward for arrest",
+   "url": "https://www.rappler.com/philippines/pnp-dilg-bato-dela-rosa-week-surrender-millions-reward-icc-warrant/",
+   "content": "Senator Dela Rosa, who has a pending ICC warrant, has been in hiding since May",
+   "published_date": "Fri, 23 Oct 2026 20:31:55 +0800",
+   "score": 0.6
+  },
+  {
    "title": "A shared sense of purpose: 5 career lessons from a Pru Life UK leader",
    "url": "https://www.rappler.com/brandrap/pru-life-uk-haidee-plopenio-profile/",
    "content": "What principles helped Haidee Plopenio, Head of Business Continuity Management, power through her journey with the company?",
@@ -9,7 +23,7 @@
    "score": 0.6
   },
   {
-   "title": "QUIZ:Would you survive a Filipino horror movie?",
+   "title": "QUIZ: Would you survive a Filipino horror movie?",
    "url": "https://www.rappler.com/culture-desk/survive-filipino-horror-film-quiz/",
    "content": "Everyone has a role in a horror movie. The question is: will you make it to the end?",
    "published_date": "Fri, 23 Oct 2026 19:11:58 +0800",
@@ -55,20 +69,6 @@
    "url": "https://www.rappler.com/technology/internet-culture/digital-2027-report-launch/",
    "content": "94.4% of internet users in the Philippines aged 16 and up use AI tools each month, but only 5.5% of internet users in the country aged 16 and up pay for subscriptions to an AI tool each month, the study finds",
    "published_date": "Fri, 23 Oct 2026 17:20:06 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "FACT CHECK: No Palace announcement abolishing Grades 11 and 12",
-   "url": "https://www.rappler.com/newsbreak/fact-check/no-palace-announcement-abolishing-grade-11-12/",
-   "content": "The Department of Education has already debunked the false information, calling it fake news",
-   "published_date": "Fri, 23 Oct 2026 16:45:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
-   "url": "https://www.rappler.com/technology/japan-simulate-cyberattacks-php-flaws-global-internet-updates/",
-   "content": "Government and company websites across the world go offline after the disclosure of critical vulnerabilities in the PHP programming language prompted millions of hacking attempts",
-   "published_date": "Fri, 23 Oct 2026 16:42:05 +0800",
    "score": 0.6
   }
  ],

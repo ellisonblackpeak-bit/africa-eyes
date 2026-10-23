@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/pranaykotas/status/2112575501118382195",
+     "title": "We've seen this movie before.",
+     "description": "We've seen this movie before. In late 2024, TBMs from Herrenknecht's China unit, intended for Indian projects, were held up at Chinese customs. That was an informal squeeze. Now it's official. And the 3,000 m threshold will impact Indian defence construction (Leh is at 3500m)",
+     "snippet": "We've seen this movie before. In late 2024, TBMs from Herrenknecht's China unit, intended for Indian projects, were held up at Chinese customs. That was an informal squeeze. Now it's official. And the 3,000 m threshold will impact Indian defence construction (Leh is at 3500m)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575499079991333",
+     "title": "4/ So this isn't just about Chinese manufacturers.",
+     "description": "4/ So this isn't just about Chinese manufacturers. A German or Japanese TBM maker building in China must now formally ask Beijing before shipping to India. A factory in China has become a liability for any firm that wants to serve the Indian market.",
+     "snippet": "4/ So this isn't just about Chinese manufacturers. A German or Japanese TBM maker building in China must now formally ask Beijing before shipping to India. A factory in China has become a liability for any firm that wants to serve the Indian market.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575497104458119",
+     "title": "3/ The design matters more.",
+     "description": "3/ The design matters more. Exports to \"countries in dispute with China\" need a licence. India is obviously a major target. Everyone else must promise not to pass the machines to such countries. Firms outside China can't transfer China-origin items there either.",
+     "snippet": "3/ The design matters more. Exports to \"countries in dispute with China\" need a licence. India is obviously a major target. Everyone else must promise not to pass the machines to such countries. Firms outside China can't transfer China-origin items there either.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/pranaykotas/status/2112575495057654055",
+     "title": "2/ The list is broad and covers every major TBM type, plus cutterheads, screw conveyors, segment erectors, main drives, and even remanufactu",
+     "description": "2/ The list is broad and covers every major TBM type, plus cutterheads, screw conveyors, segment erectors, main drives, and even remanufacturing tech. It also covers walking excavators and shotcrete machines built for altitudes above 3,000 m.",
+     "snippet": "2/ The list is broad and covers every major TBM type, plus cutterheads, screw conveyors, segment erectors, main drives, and even remanufacturing tech. It also covers walking excavators and shotcrete machines built for altitudes above 3,000 m.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pranay Kotasthane",
+     "handle": "@pranaykotas"
+    },
+    {
+     "url": "https://x.com/itskhushithakur/status/2113113584658248002",
+     "title": "New export restrictions from China target high altitude machinery starting November 18.",
+     "description": "New export restrictions from China target high altitude machinery starting November 18. Blocking walking excavators and plateau shotcrete systems directly halts vital mountain road and tunnel development schedules across Indian border zones",
+     "snippet": "New export restrictions from China target high altitude machinery starting November 18. Blocking walking excavators and plateau shotcrete systems directly halts vital mountain road and tunnel development schedules across Indian border zones",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Khushi Thakur",
+     "handle": "@itskhushithakur"
+    },
+    {
+     "url": "https://x.com/NeelChhabra/status/2112579771280597193",
+     "title": "China halted tunnel boring machine exports to India even after the border thaw, which shows trade is now a weapon that outlasts diplomacy.",
+     "description": "China halted tunnel boring machine exports to India even after the border thaw, which shows trade is now a weapon that outlasts diplomacy.",
+     "snippet": "China halted tunnel boring machine exports to India even after the border thaw, which shows trade is now a weapon that outlasts diplomacy.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Neel Chhabra",
+     "handle": "@NeelChhabra"
+    },
+    {
+     "url": "https://x.com/SidMohanty97/status/2112572960079057028",
+     "title": "🇨🇳 will impose export controls on tunnel-boring machines from November 18, citing national security.",
+     "description": "🇨🇳 will impose export controls on tunnel-boring machines from November 18, citing national security. The move could further delay India’s critical metro, railway and border infrastructure projects, highlighting India’s dependence on Chinese technology. 🇮🇳 @DoC_GoI",
+     "snippet": "🇨🇳 will impose export controls on tunnel-boring machines from November 18, citing national security. The move could further delay India’s critical metro, railway and border infrastructure projects, highlighting India’s dependence on Chinese technology. 🇮🇳 @DoC_GoI",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sid Mohanty",
+     "handle": "@SidMohanty97"
+    },
+    {
+     "url": "https://x.com/SPs_MAI/status/2113242498542006712",
+     "title": "#IndiaChina Border Consensus By @KatochPrakash Following the 25th Special Representative talks, #India and #China established new #military",
+     "description": "#IndiaChina Border Consensus \nBy @KatochPrakash\n\nFollowing the 25th Special Representative talks, #India and #China established new #military hotlines and #border meeting points to maintain #LAC stability. However, key strategic divergences persist.\nhttps://www.spsmai.com/experts-speak/?id=1896&q=India-China-Border-Consensus",
+     "snippet": "#IndiaChina Border Consensus \nBy @KatochPrakash\n\nFollowing the 25th Special Representative talks, #India and #China established new #military hotlines and #border meeting points to maintain #LAC stability. However, key strategic divergences persist.\nhttps://www.spsmai.com/experts-speak/?id=1896&q=India-China-Border-Consensus",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SP's MAI",
+     "handle": "@SPs_MAI"
+    },
+    {
+     "url": "https://x.com/sumit_kochhar/status/2113204562303869013",
+     "title": "It makes no sense as since April 2020, the PLA is in occupation of 4000 sqkm of undisputed territory at the LAC in Ladakh.",
+     "description": "It makes no sense as since April 2020, the PLA is in occupation of 4000 sqkm of undisputed territory at the LAC in Ladakh.\n Moreover, the GHQ Rawalpindi is an extension of PLA Western Theater Command as both armies has enhanced level of interoperability & interchangeability.",
+     "snippet": "It makes no sense as since April 2020, the PLA is in occupation of 4000 sqkm of undisputed territory at the LAC in Ladakh.\n Moreover, the GHQ Rawalpindi is an extension of PLA Western Theater Command as both armies has enhanced level of interoperability & interchangeability.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sumit Kochhar_VHS",
+     "handle": "@sumit_kochhar"
+    },
+    {
+     "url": "https://x.com/Aashishbakhle/status/2113103201188925549",
+     "title": "@ViCustomerCare tows Chinese position and charges International Roaming in Arunachal, refused to correct bill.",
+     "description": "@ViCustomerCare tows Chinese position and charges International Roaming in Arunachal, refused to correct bill. Instead of using domestic Telco towers,  why are you using Chinese towers ? Is @DoT_India and @JM_Scindia so helpless in this matter ?",
+     "snippet": "@ViCustomerCare tows Chinese position and charges International Roaming in Arunachal, refused to correct bill. Instead of using domestic Telco towers,  why are you using Chinese towers ? Is @DoT_India and @JM_Scindia so helpless in this matter ?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aashish Bakhle",
+     "handle": "@Aashishbakhle"
+    }
+   ]
+  }
+ ]
+}

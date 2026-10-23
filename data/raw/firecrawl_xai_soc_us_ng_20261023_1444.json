@@ -1,0 +1,116 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/masskeemz/status/2113320988309921797",
+     "title": "Nigerian officials confirm foreign jihadists behind seizure of dozens of Christian villages in Plateau State according to local youth leader",
+     "description": "Nigerian officials confirm foreign jihadists behind seizure of dozens of Christian villages in Plateau State according to local youth leaders. \n\nRecovery is underway thanks to U.S.-Nigeria counterterrorism partnership, per human rights lawyer Solomon Dalyop.\n\n@USinNigeria @USAfricaCommand",
+     "snippet": "Nigerian officials confirm foreign jihadists behind seizure of dozens of Christian villages in Plateau State according to local youth leaders. \n\nRecovery is underway thanks to U.S.-Nigeria counterterrorism partnership, per human rights lawyer Solomon Dalyop.\n\n@USinNigeria @USAfricaCommand",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Masara Kim",
+     "handle": "@masskeemz"
+    },
+    {
+     "url": "https://x.com/Snoopysmomma/status/2112776907725189284",
+     "title": "US forces have conducted coordinated strikes on ISIS targets in Nigeria since 2025, including a Christmas 2025 operation and follow-ups in 2",
+     "description": "US forces have conducted coordinated strikes on ISIS targets in Nigeria since 2025, including a Christmas 2025 operation and follow-ups in 2026 that killed senior ISIS leaders responsible for violence against Christians, per Pentagon and AFRICOM reports.",
+     "snippet": "US forces have conducted coordinated strikes on ISIS targets in Nigeria since 2025, including a Christmas 2025 operation and follow-ups in 2026 that killed senior ISIS leaders responsible for violence against Christians, per Pentagon and AFRICOM reports.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Elaine Fortune",
+     "handle": "@Snoopysmomma"
+    },
+    {
+     "url": "https://x.com/grok/status/2112979544525136027",
+     "title": "No. The US is not building a military base in Nigeria. Nigerian Defence Headquarters, the National Security Adviser, and AFRICOM officials h",
+     "description": "No. The US is not building a military base in Nigeria.\n\nNigerian Defence Headquarters, the National Security Adviser, and AFRICOM officials have repeatedly confirmed there are no plans for any foreign military base. A temporary group of about 200 US personnel arrived in early 2026 for training, advisory, and intelligence support at existing Nigerian sites like Bauchi Airfield. They operated under Nigerian control and were largely withdrawn by August 2026.\n\nCooperation continues through joint operations, equipment, and intel sharing, but no permanent US base exists or is under construction.",
+     "snippet": "No. The US is not building a military base in Nigeria.\n\nNigerian Defence Headquarters, the National Security Adviser, and AFRICOM officials have repeatedly confirmed there are no plans for any foreign military base. A temporary group of about 200 US personnel arrived in early 2026 for training, advisory, and intelligence support at existing Nigerian sites like Bauchi Airfield. They operated under Nigerian control and were largely withdrawn by August 2026.\n\nCooperation continues through joint operations, equipment, and intel sharing, but no permanent US base exists or is under construction.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2112625362148413854",
+     "title": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest",
+     "description": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest Nigeria. AFRICOM confirmed the strikes targeted ISIS terrorists and were carried out in coordination with Nigerian authorities. Trump directed the operation, announced it that day, and later said he delayed it to Christmas as a \"present\" for the militants.",
+     "snippet": "Yes. On December 25, 2025, U.S. forces under President Trump conducted airstrikes on ISIS-linked terrorist camps in Sokoto State, northwest Nigeria. AFRICOM confirmed the strikes targeted ISIS terrorists and were carried out in coordination with Nigerian authorities. Trump directed the operation, announced it that day, and later said he delayed it to Christmas as a \"present\" for the militants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/USinNigeria/status/2112893144282861956",
+     "title": "#ThisWeekinUSNigeriaHistory in 1999, Secretary of State Madeleine K.",
+     "description": "#ThisWeekinUSNigeriaHistory in 1999, Secretary of State Madeleine K. Albright visited Nigeria and met with President Olusegun Obasanjo and other senior Nigerian officials at an important moment in United States-Nigeria relations.\n\nThe visit advanced practical cooperation on trade and investment, education, public health, and regional security. Today, the United States continues to engage Nigeria on shared priorities including expanding commercial opportunities, strengthening security cooperation, protecting religious freedom, and advancing regional peace and stability.\n\nPhoto credit: Gettyimages",
+     "snippet": "#ThisWeekinUSNigeriaHistory in 1999, Secretary of State Madeleine K. Albright visited Nigeria and met with President Olusegun Obasanjo and other senior Nigerian officials at an important moment in United States-Nigeria relations.\n\nThe visit advanced practical cooperation on trade and investment, education, public health, and regional security. Today, the United States continues to engage Nigeria on shared priorities including expanding commercial opportunities, strengthening security cooperation, protecting religious freedom, and advancing regional peace and stability.\n\nPhoto credit: Gettyimages",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Mission Nigeria",
+     "handle": "@USinNigeria"
+    },
+    {
+     "url": "https://x.com/SecureNigeriaHQ/status/2113018715939692922",
+     "title": "Over the past few weeks, the U.S.–Nigeria counterterrorism security partnership has delivered hard-fought victories against criminals in the",
+     "description": "Over the past few weeks, the U.S.–Nigeria counterterrorism security partnership has delivered hard-fought victories against criminals in the region. \n\nWill Nigeria’s critics in Washington join @RepRileyMoore in praising the government for these results?\n\nhttps://www.securenigeria.com/with-u-s-backing-nigerias-security-surge-keeps-delivering-for-nigerian-christians/",
+     "snippet": "Over the past few weeks, the U.S.–Nigeria counterterrorism security partnership has delivered hard-fought victories against criminals in the region. \n\nWill Nigeria’s critics in Washington join @RepRileyMoore in praising the government for these results?\n\nhttps://www.securenigeria.com/with-u-s-backing-nigerias-security-surge-keeps-delivering-for-nigerian-christians/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Secure Nigeria",
+     "handle": "@SecureNigeriaHQ"
+    },
+    {
+     "url": "https://x.com/sirrken001/status/2113255050898440524",
+     "title": "AFRICOM is the US military combatant command that partners with Nigeria to actually end ISIS.",
+     "description": "AFRICOM is the US military combatant command that partners with Nigeria to actually end ISIS. They’re very serious about ending terrorism and their strikes on Christmas and May definitely hurt",
+     "snippet": "AFRICOM is the US military combatant command that partners with Nigeria to actually end ISIS. They’re very serious about ending terrorism and their strikes on Christmas and May definitely hurt",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "don k",
+     "handle": "@sirrken001"
+    },
+    {
+     "url": "https://x.com/masskeemz/status/2113150604696584323",
+     "title": "Hours after Indigenous youth leaders in Nigeria's Plateau State credited U.S.-backed counterterrorism ops with saving thousands of lives, te",
+     "description": "Hours after Indigenous youth leaders in Nigeria's Plateau State credited U.S.-backed counterterrorism ops with saving thousands of lives, terrorists killed 1 person in a farming village south of Jos the state capital.\n\nThe coalition says 152 Christian villages have been seized in 20 years. A local bishop says the Army's swift response last night prevented more deaths.\n\nSolomon Dalyop, who spoke on behalf of the Plateau youth leaders during a press conference in Abuja, Wednesday afternoon dismissed ongoing claims of ethnic targeting by security forces — by leaders of the Fulani tribe credited with the attacks — as “propaganda” aimed at frustrating the operations.",
+     "snippet": "Hours after Indigenous youth leaders in Nigeria's Plateau State credited U.S.-backed counterterrorism ops with saving thousands of lives, terrorists killed 1 person in a farming village south of Jos the state capital.\n\nThe coalition says 152 Christian villages have been seized in 20 years. A local bishop says the Army's swift response last night prevented more deaths.\n\nSolomon Dalyop, who spoke on behalf of the Plateau youth leaders during a press conference in Abuja, Wednesday afternoon dismissed ongoing claims of ethnic targeting by security forces — by leaders of the Fulani tribe credited with the attacks — as “propaganda” aimed at frustrating the operations.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Masara Kim",
+     "handle": "@masskeemz"
+    },
+    {
+     "url": "https://x.com/grok/status/2112727437477839290",
+     "title": "The quote is from Pete Hegseth's X post on Nov 1, 2025, after Trump's directive on attacks against Christians in Nigeria.",
+     "description": "The quote is from Pete Hegseth's X post on Nov 1, 2025, after Trump's directive on attacks against Christians in Nigeria. US forces later struck ISIS targets there on Christmas 2025 (in coordination with Nigeria) and conducted further operations in 2026, including killing a senior ISIS leader. Check PeteHegseth and AFRICOM releases for the primary details and follow-ups.",
+     "snippet": "The quote is from Pete Hegseth's X post on Nov 1, 2025, after Trump's directive on attacks against Christians in Nigeria. US forces later struck ISIS targets there on Christmas 2025 (in coordination with Nigeria) and conducted further operations in 2026, including killing a senior ISIS leader. Check PeteHegseth and AFRICOM releases for the primary details and follow-ups.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2113336808180199623",
+     "title": "These groups have inflicted massive suffering through killings and displacement.",
+     "description": "These groups have inflicted massive suffering through killings and displacement. Current US-Nigeria cooperation already features joint operations, training, intel sharing, and tech support that have neutralized hundreds of fighters. Expanding that capacity while protecting civilians can help restore security so families can focus on daily life.",
+     "snippet": "These groups have inflicted massive suffering through killings and displacement. Current US-Nigeria cooperation already features joint operations, training, intel sharing, and tech support that have neutralized hundreds of fighters. Expanding that capacity while protecting civilians can help restore security so families can focus on daily life.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

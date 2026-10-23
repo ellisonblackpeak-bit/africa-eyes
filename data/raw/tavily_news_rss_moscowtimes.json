@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Romania Blames Russia for Deadly Drone Attack on Cargo Ship",
+   "url": "https://www.themoscowtimes.com/2026/10/23/romania-blames-russia-for-deadly-drone-attack-on-cargo-ship-a94068",
+   "content": "The cargo ship Khoryv, flying the Comoros flag, was \"struck by a drone and sank near Romanian territorial waters,\" President Nicușor Dan said.",
+   "published_date": "Fri, 23 Oct 2026 17:21:15 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "FSB Orders Critical Infrastructure Operators to Shutter Websites Over PHP Bug – RBC",
+   "url": "https://www.themoscowtimes.com/2026/10/23/fsb-orders-critical-infrastructure-operators-to-shutter-websites-over-php-bug-rbc-a94067",
+   "content": "The FSB directive mirrors that of the U.S. National Security Agency, as well as authorities from the EU and China, after PHP programmers released a fix to the critical vulnerability on Wednesday.",
+   "published_date": "Fri, 23 Oct 2026 16:43:46 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Russia and Ukraine Exchange 540 POWs",
+   "url": "https://www.themoscowtimes.com/2026/10/23/russia-and-ukraine-exchange-540-pows-a94066",
+   "content": "Russian human rights commissioner Yana Lantratova said that Ukrainian and Russian civilians from 12 families were also reunited on Friday.",
+   "published_date": "Fri, 23 Oct 2026 15:10:33 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Ukrainian Drone Attack Hits Perm Region Chemical Plant",
+   "url": "https://www.themoscowtimes.com/2026/10/23/ukrainian-drone-attack-hits-perm-region-chemical-plant-a94065",
+   "content": "The reported target of the attack was the Azot chemical plant in Berezniki, which produces components used in explosives.",
+   "published_date": "Fri, 23 Oct 2026 14:34:50 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Russian Central Bank Holds Key Interest Rate Steady",
    "url": "https://www.themoscowtimes.com/2026/10/23/russian-central-bank-holds-key-interest-rate-steady-a94062",
    "content": "Policymakers have been weighing inflation risks against the need to lower currently high borrowing costs for businesses and consumers.",
@@ -13,6 +41,13 @@
    "url": "https://www.themoscowtimes.com/2026/10/23/russia-vows-retaliation-after-austria-expels-its-diplomats-a94064",
    "content": "Austria said it declared the Russian diplomats personae non gratae over “activities incompatible with their diplomatic status,” a term usually used for spying.",
    "published_date": "Fri, 23 Oct 2026 12:35:39 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "First Shipment of Russian Diesel Departs for the United States Under Trump Deal",
+   "url": "https://www.themoscowtimes.com/2026/10/23/first-shipment-of-russian-diesel-departs-for-the-united-states-under-trump-deal-a94039",
+   "content": "The tanker, loaded with 40,000 metric tons of ultra-low sulphur diesel, is expected to arrive in the United States on Nov. 7.",
+   "published_date": "Fri, 23 Oct 2026 12:25:00 +0300",
    "score": 0.6
   },
   {
@@ -139,13 +174,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/21/putin-releases-american-jailed-in-russia-after-us-envoy-arrives-for-ukraine-talks-a94037",
    "content": "The Kremlin said that renewed peace negotiations with the United States and Ukraine could take place in Abu Dhabi as early as next month.",
    "published_date": "Wed, 21 Oct 2026 16:00:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "First Shipment of Russian Diesel Expected to Depart for the United States Under Trump Deal",
-   "url": "https://www.themoscowtimes.com/2026/10/21/first-shipment-of-russian-diesel-expected-to-depart-for-the-united-states-under-trump-deal-a94039",
-   "content": "Deputy Prime Minister Alexander Novak said a tanker would depart for the U.S. on Thursday but did not say how much diesel was on board.",
-   "published_date": "Wed, 21 Oct 2026 13:25:00 +0300",
    "score": 0.6
   },
   {
@@ -321,34 +349,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/16/putin-vows-retribution-for-attacks-on-russian-data-centers-while-downplaying-damage-to-refineries-a94002",
    "content": "Putin also admitted that Russian security services failed to anticipate attacks targeting commercial logistics hubs like Wildberries and Ozon.",
    "published_date": "Fri, 16 Oct 2026 17:37:22 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Ukrainian Drones Strike Energy Plant in Russia’s Largest Oil-Producing Region",
-   "url": "https://www.themoscowtimes.com/2026/10/16/ukrainian-drones-strike-energy-plant-in-russias-largest-oil-producing-region-a94008",
-   "content": "The plant in Surgut lies around 2,500 kilometers (1,550 miles) from the Ukrainian border.",
-   "published_date": "Fri, 16 Oct 2026 17:01:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Jailed Election Expert Kynev Denied Crutches After Leg Broken During Arrest, Journalist Says",
-   "url": "https://www.themoscowtimes.com/2026/10/16/jailed-election-expert-kynev-denied-crutches-after-leg-broken-during-arrest-journalist-says-a94005",
-   "content": "“He writes that he is still in a cast and has about three more weeks to ‘walk’ around in it. Except he can’t walk,” journalist Gleb Yarovoy said.",
-   "published_date": "Fri, 16 Oct 2026 16:26:55 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Novaya Gazeta Editor-in-Chief Detained in Moscow",
-   "url": "https://www.themoscowtimes.com/2026/10/16/novaya-gazeta-editor-in-chief-detained-in-moscow-a93986",
-   "content": "The raid on Sokolov’s apartment was reportedly conducted as part of an ongoing criminal investigation opened earlier this spring.",
-   "published_date": "Fri, 16 Oct 2026 16:04:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Kremlin ‘Fully Agrees’ With Trump’s Zelensky Criticism",
-   "url": "https://www.themoscowtimes.com/2026/10/16/kremlin-fully-agrees-with-trumps-zelensky-criticism-a94000",
-   "content": "Putin continues to demand that Kyiv cede full control of the Donetsk region as a prerequisite for any ceasefire agreement, a condition Ukraine rejects.",
-   "published_date": "Fri, 16 Oct 2026 14:14:00 +0300",
    "score": 0.6
   }
  ],
