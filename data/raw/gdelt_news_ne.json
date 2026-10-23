@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "International",
+   "url": "https://www.actuniger.com/index.php/component/joomrss/international?Itemid=101",
+   "content": "",
+   "published_date": "2026-10-23T07:15:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Faits Divers",
+   "url": "https://www.actuniger.com/index.php/component/joomrss/faits-divers?Itemid=101",
+   "content": "",
+   "published_date": "2026-10-23T07:15:00Z",
+   "score": 0.5
+  },
+  {
    "title": "Tribune opinion",
    "url": "https://www.actuniger.com/index.php/component/joomrss/tribune-opinion?Itemid=101",
    "content": "",
@@ -18,20 +32,6 @@
   {
    "title": "Société",
    "url": "https://www.actuniger.com/index.php/component/joomrss/societe?Itemid=101",
-   "content": "",
-   "published_date": "2026-10-23T07:15:00Z",
-   "score": 0.5
-  },
-  {
-   "title": "International",
-   "url": "https://www.actuniger.com/index.php/component/joomrss/international?Itemid=101",
-   "content": "",
-   "published_date": "2026-10-23T07:15:00Z",
-   "score": 0.5
-  },
-  {
-   "title": "Faits Divers",
-   "url": "https://www.actuniger.com/index.php/component/joomrss/faits-divers?Itemid=101",
    "content": "",
    "published_date": "2026-10-23T07:15:00Z",
    "score": 0.5
