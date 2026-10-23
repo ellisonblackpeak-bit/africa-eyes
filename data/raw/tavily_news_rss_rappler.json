@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
+   "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/",
+   "content": "The storm's forecast track shows it will pass just off northeastern Taiwan, turn north toward the Chinese coast and eventually move into southern Japan",
+   "published_date": "Fri, 23 Oct 2026 10:29:29 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Will PMA be a gentler, kinder academy with a female commandant at the helm?",
+   "url": "https://www.rappler.com/people/pma-gentler-kinder-academy-female-commandant-leah-lorenzo-santiago/",
+   "content": "PMA’s first female commandant brings a tough record to the academy, challenging assumptions that women in charge will make military training gentler. She looks ahead to a reunion with her classmates.",
+   "published_date": "Fri, 23 Oct 2026 10:02:19 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Typhoon Rosal still bringing moderate to heavy rain to Batanes",
+   "url": "https://www.rappler.com/philippines/weather/typhoon-rosal-update-pagasa-forecast-october-23-2026-5am/",
+   "content": "Typhoon Rosal (Champi) is last spotted 275 kilometers east northeast of Itbayat, Batanes, at 4 am on Friday, October 23",
+   "published_date": "Fri, 23 Oct 2026 08:15:16 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "[Market Rider] SEC’s market maker push and how it can boost PH stock trading",
+   "url": "https://www.rappler.com/business/market-rider-how-sec-new-rules-maker-boost-philippine-stock-trading/",
+   "content": "SEC Chairman Francis Lim spearheads a daring undertaking into the realm of market making, in a bid to boost stock market trading in the Philippines",
+   "published_date": "Fri, 23 Oct 2026 08:00:00 +0800",
+   "score": 0.6
+  },
+  {
    "title": "Part 2: Old-timer bets in the running to be Marcos’ 2nd SC justice",
    "url": "https://www.rappler.com/philippines/supreme-court-associate-justice-candidates-marcos-pick-2026-part-2/",
    "content": "These bets are part of the list of candidates who vied for the justice post in 2025 that ultimately went to Associate Justice Raul Villanueva",
@@ -41,34 +69,6 @@
    "url": "https://www.rappler.com/moveph/training-movers-cebu-local-reporting-civic-organizing/",
    "content": "The MovePH workshop brings together Cebu community journalists and civic leaders to design campaigns around underreported community issues",
    "published_date": "Thu, 22 Oct 2026 18:55:09 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Millions of hacking attempts as companies, governments rush to patch PHP flaws",
-   "url": "https://www.rappler.com/technology/hacking-attempts-companies-governments-rush-patch-php-flaws/",
-   "content": "The emergency shutdowns of banking, airline, rail, tax and government services show how much public and corporate systems rely on PHP, and how hard it is to fix such flaws quickly once they are made public",
-   "published_date": "Thu, 22 Oct 2026 18:50:33 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Rappler Recap: Race for next chief justice begins with Leonen, Caguioa",
-   "url": "https://www.rappler.com/philippines/recap-marvic-leonen-alfredo-caguioa-chief-justice-jbc-interviews/",
-   "content": "The Judicial and Bar Council interviews Marvic Leonen and Alfredo Benjamin Caguioa as part of its process of short listing nominees to replace retiring Chief Justice Alexander Gesmundo",
-   "published_date": "Thu, 22 Oct 2026 18:35:50 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "Rosal downgraded to typhoon east of Batanes",
-   "url": "https://www.rappler.com/philippines/weather/typhoon-rosal-update-pagasa-forecast-october-22-2026-5pm/",
-   "content": "The maximum sustained winds of Typhoon Rosal (Champi) are down to 165 km/h as of Thursday afternoon, October 22",
-   "published_date": "Thu, 22 Oct 2026 18:25:48 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "SolGen to seek clarification, partial reconsideration of SC ruling on unprogrammed funds",
-   "url": "https://www.rappler.com/philippines/solicitor-general-clarification-partial-reconsideration-supreme-court-ruling-unprogrammed-funds/",
-   "content": "The Office of the Solicitor General notes that the 12 separate opinions accompanying the Supreme Court ruling 'reflect the complexity of the constitutional questions presented and the differing judicial perspectives on their resolution'",
-   "published_date": "Thu, 22 Oct 2026 18:03:25 +0800",
    "score": 0.6
   }
  ],

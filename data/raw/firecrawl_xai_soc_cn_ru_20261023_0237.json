@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/BRICSinfo/status/2112963358907363788",
+     "title": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "description": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "snippet": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BRICS News",
+     "handle": "@BRICSinfo"
+    },
+    {
+     "url": "https://x.com/financialjuice/status/2112955322038157721",
+     "title": "China and Russia agree to support firms to expand oil cooperation - Xinhua",
+     "description": "China and Russia agree to support firms to expand oil cooperation - Xinhua",
+     "snippet": "China and Russia agree to support firms to expand oil cooperation - Xinhua",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FinancialJuice",
+     "handle": "@financialjuice"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2112961317279850497",
+     "title": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "description": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "snippet": "CHINA AND RUSSIA AGREE TO SUPPORT FIRMS TO EXPAND OIL COOPERATION - XINHUA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/TheSecretFeeds/status/2113144938233745874",
+     "title": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "description": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.\n\nChina and Russia have agreed to support their companies in expanding oil cooperation, according to a report by China’s state news agency Xinhua.",
+     "snippet": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.\n\nChina and Russia have agreed to support their companies in expanding oil cooperation, according to a report by China’s state news agency Xinhua.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Secret Feeds",
+     "handle": "@TheSecretFeeds"
+    },
+    {
+     "url": "https://x.com/Newsorbit91/status/2113096163738235328",
+     "title": "Russia and China are planning closer cooperation in the oil sector, with both countries backing stronger partnerships between their energy c",
+     "description": "Russia and China are planning closer cooperation in the oil sector, with both countries backing stronger partnerships between their energy companies.",
+     "snippet": "Russia and China are planning closer cooperation in the oil sector, with both countries backing stronger partnerships between their energy companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "News Orbit",
+     "handle": "@Newsorbit91"
+    },
+    {
+     "url": "https://x.com/Washington_Rep/status/2112899066161951146",
+     "title": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️ 🔹 Major Energy Agreement: R",
+     "description": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️\n\n🔹 Major Energy Agreement: Russia says Gazprom and China National Petroleum Corporation (CNPC) could finalize a commercial agreement by the end of the year for natural gas deliveries through the proposed Power of Baikal pipeline, strengthening energy cooperation between Moscow and Beijing.\n\n🔹 Massive Pipeline Project: The proposed pipeline, previously known as Power of Siberia 2, would transport up to 50 billion cubic meters of Russian natural gas annually to China through Mongolia, making it one of the world's largest gas infrastructure projects.\n\n🔹 Russian Government Optimism: Russian Deputy Prime Minister Alexander Novak expressed confidence that both companies could resolve outstanding commercial issues before the year ends, although no final agreement has been announced.\n\n🔹 Exports Could More Than Double: Once fully operational, the new pipeline could help increase Russia's annual natural gas deliveries to China to more than 100 billion cubic meters, compared with approximately 39 billion cubic meters delivered through the existing Power of Siberia pipeline in 2025.\n\n🔹 Replacing European Markets: The project represents a major part of Russia's strategy to redirect natural gas exports toward Asia after losing much of its European market following the invasion of Ukraine and subsequent geopolitical tensions.\n\n🔹 Pricing Remains a Major Obstacle: Negotiations have faced disagreements over gas prices, financing arrangements and supply flexibility. China has sought favorable commercial terms while remaining cautious about becoming excessively dependent on Russian energy.\n\n🔹 Global Energy Implications: A completed agreement could deepen China's access to pipeline gas, strengthen Russia's long term position in Asian energy markets and potentially influence global liquefied natural gas demand and trade patterns.\n\n🔹 Strategic Partnership Expands: The proposed agreement underscores the growing economic relationship between Russia and China, with Moscow seeking dependable energy buyers and Beijing pursuing diversified supplies to support its industrial economy.",
+     "snippet": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️\n\n🔹 Major Energy Agreement: Russia says Gazprom and China National Petroleum Corporation (CNPC) could finalize a commercial agreement by the end of the year for natural gas deliveries through the proposed Power of Baikal pipeline, strengthening energy cooperation between Moscow and Beijing.\n\n🔹 Massive Pipeline Project: The proposed pipeline, previously known as Power of Siberia 2, would transport up to 50 billion cubic meters of Russian natural gas annually to China through Mongolia, making it one of the world's largest gas infrastructure projects.\n\n🔹 Russian Government Optimism: Russian Deputy Prime Minister Alexander Novak expressed confidence that both companies could resolve outstanding commercial issues before the year ends, although no final agreement has been announced.\n\n🔹 Exports Could More Than Double: Once fully operational, the new pipeline could help increase Russia's annual natural gas deliveries to China to more than 100 billion cubic meters, compared with approximately 39 billion cubic meters delivered through the existing Power of Siberia pipeline in 2025.\n\n🔹 Replacing European Markets: The project represents a major part of Russia's strategy to redirect natural gas exports toward Asia after losing much of its European market following the invasion of Ukraine and subsequent geopolitical tensions.\n\n🔹 Pricing Remains a Major Obstacle: Negotiations have faced disagreements over gas prices, financing arrangements and supply flexibility. China has sought favorable commercial terms while remaining cautious about becoming excessively dependent on Russian energy.\n\n🔹 Global Energy Implications: A completed agreement could deepen China's access to pipeline gas, strengthen Russia's long term position in Asian energy markets and potentially influence global liquefied natural gas demand and trade patterns.\n\n🔹 Strategic Partnership Expands: The proposed agreement underscores the growing economic relationship between Russia and China, with Moscow seeking dependable energy buyers and Beijing pursuing diversified supplies to support its industrial economy.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Washington Report",
+     "handle": "@Washington_Rep"
+    },
+    {
+     "url": "https://x.com/SanaJournalist1/status/2112974766877643203",
+     "title": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companie",
+     "description": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "snippet": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sara | Journalist",
+     "handle": "@SanaJournalist1"
+    },
+    {
+     "url": "https://x.com/szada622/status/2112989976501924298",
+     "title": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "description": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "snippet": "JUST IN: 🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sharif Crypto",
+     "handle": "@szada622"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2112935188611404236",
+     "title": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "description": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "snippet": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/num1_ch/status/2112934593166975332",
+     "title": "🇨🇳🇷🇺🔥 CHINA'S PM: CHINA READY TO COOPERATE WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES AND OTHER AREAS — XINHUA How deep",
+     "description": "🇨🇳🇷🇺🔥 CHINA'S PM: CHINA READY TO COOPERATE WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES AND OTHER AREAS — XINHUA\n\nHow deep does this energy partnership go before the West runs out of leverage?",
+     "snippet": "🇨🇳🇷🇺🔥 CHINA'S PM: CHINA READY TO COOPERATE WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES AND OTHER AREAS — XINHUA\n\nHow deep does this energy partnership go before the West runs out of leverage?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "N1 Channel",
+     "handle": "@num1_ch"
+    }
+   ]
+  }
+ ]
+}

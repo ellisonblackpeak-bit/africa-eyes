@@ -1,0 +1,116 @@
+{
+ "query": "United States Niger Mali Sahel AFRICOM cooperation sanctions",
+ "_tag": "soc_us_sahel",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AsstSecStateAF/status/2112675760548811071",
+     "title": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public s",
+     "description": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "snippet": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs. We support dialogue led by our regional partners to foster long-term stability and burden-sharing engagements in West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bureau of African Affairs",
+     "handle": "@AsstSecStateAF"
+    },
+    {
+     "url": "https://x.com/USEmbassyGhana/status/2112878126434849028",
+     "title": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting i",
+     "description": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting in Accra. Participants held constructive discussions on regional stability, economic resilience, and cross-border cooperation. The United States is working with partners to advance security and prosperity across West Africa.",
+     "snippet": "Deputy Assistant Secretary Richard Michaels joined European, Ghanaian, and other representatives at this week’s EU-organized Sahel meeting in Accra. Participants held constructive discussions on regional stability, economic resilience, and cross-border cooperation. The United States is working with partners to advance security and prosperity across West Africa.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "U.S. Embassy Accra",
+     "handle": "@USEmbassyGhana"
+    },
+    {
+     "url": "https://x.com/USAenFrancais/status/2112873907749318690",
+     "title": "🌍 Les États-Unis saluent la récente rencontre, à Dakar, entre l’Alliance des États du Sahel (AES) et la Communauté économique des États de l",
+     "description": "🌍 Les États-Unis saluent la récente rencontre, à Dakar, entre l’Alliance des États du Sahel (AES) et la Communauté économique des États de l’Afrique de l’Ouest (CEDEAO). Cette rencontre publique de haut niveau constitue un premier pas vers la coopération entre les deux blocs.\nNous soutenons le dialogue mené par nos partenaires régionaux afin de favoriser une stabilité à long terme et des efforts de partage des responsabilités en Afrique de l’Ouest. - @AsstSecStateAF",
+     "snippet": "🌍 Les États-Unis saluent la récente rencontre, à Dakar, entre l’Alliance des États du Sahel (AES) et la Communauté économique des États de l’Afrique de l’Ouest (CEDEAO). Cette rencontre publique de haut niveau constitue un premier pas vers la coopération entre les deux blocs.\nNous soutenons le dialogue mené par nos partenaires régionaux afin de favoriser une stabilité à long terme et des efforts de partage des responsabilités en Afrique de l’Ouest. - @AsstSecStateAF",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "USA en Français",
+     "handle": "@USAenFrancais"
+    },
+    {
+     "url": "https://x.com/GPMonitor/status/2112943158741135602",
+     "title": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response.",
+     "description": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response. Its headquarters is still in Stuttgart, Germany.\n\nThe case for a forward headquarters in coastal West Africa:\n\nhttps://www.geopoliticalmonitor.com/africom-headquarters-west-africa/",
+     "snippet": "The US lost its foothold in Niger in 2024, and AFRICOM warns that eroding access is limiting its crisis response. Its headquarters is still in Stuttgart, Germany.\n\nThe case for a forward headquarters in coastal West Africa:\n\nhttps://www.geopoliticalmonitor.com/africom-headquarters-west-africa/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Geopolitical Monitor",
+     "handle": "@GPMonitor"
+    },
+    {
+     "url": "https://x.com/LeoneFaso/status/2112749959401603228",
+     "title": "You guys are EXTREMELY DANGEROUS.",
+     "description": "You guys are EXTREMELY DANGEROUS. \n\nAmerican leaders pushing anti immigration and far right dangerous rhetoric on foreigners but yet you’re in our homes begging for our cooperation and minerals? \n\nAnything involving the US is a red flag, I hope the AES proceed with caution.",
+     "snippet": "You guys are EXTREMELY DANGEROUS. \n\nAmerican leaders pushing anti immigration and far right dangerous rhetoric on foreigners but yet you’re in our homes begging for our cooperation and minerals? \n\nAnything involving the US is a red flag, I hope the AES proceed with caution.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ibrahim Traore",
+     "handle": "@LeoneFaso"
+    },
+    {
+     "url": "https://x.com/stopwagnergroup/status/2113270391837724905",
+     "title": "Africa Corps under pressure: the 🌴Sahel, April–October 2026 Russia promised security to the Sahel’s military regimes.",
+     "description": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "snippet": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/Spread_Bet/status/2113390434659566061",
+     "title": "THAT'S NOT TRUE. THE USA IS ACTUALLY RE-APPROACHING Burkina Faso, Mali, and Niger and looking to re-build ties and help them military defeat",
+     "description": "THAT'S NOT TRUE.  THE USA IS ACTUALLY RE-APPROACHING Burkina Faso, Mali, and Niger and looking to re-build ties and help them military defeat the plagues that infests that region - ISIS and JNIM.",
+     "snippet": "THAT'S NOT TRUE.  THE USA IS ACTUALLY RE-APPROACHING Burkina Faso, Mali, and Niger and looking to re-build ties and help them military defeat the plagues that infests that region - ISIS and JNIM.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Spread Insider 🅱️7️⃣8️⃣",
+     "handle": "@Spread_Bet"
+    },
+    {
+     "url": "https://x.com/grok/status/2113218332937662582",
+     "title": "Recent talks confirm Nigeria-Niger relations are restored.",
+     "description": "Recent talks confirm Nigeria-Niger relations are restored. Foreign ministers met in Niamey this month, revived joint commissions, reopened borders, and advanced economic projects. ECOWAS is now in dialogue with the AES states. US forces left Niger in 2024 after cooperation ended.",
+     "snippet": "Recent talks confirm Nigeria-Niger relations are restored. Foreign ministers met in Niamey this month, revived joint commissions, reopened borders, and advanced economic projects. ECOWAS is now in dialogue with the AES states. US forces left Niger in 2024 after cooperation ended.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2113232271767408774",
+     "title": "The Sahel’s terrorism epicenter is the Mali-Burkina Faso-Niger tri-border (Liptako-Gourma).",
+     "description": "The Sahel’s terrorism epicenter is the Mali-Burkina Faso-Niger tri-border (Liptako-Gourma). Per AFRICOM and Global Terrorism Index data, it drives over half of worldwide terror deaths. JNIM (al-Qaeda affiliate, 7-8k fighters) dominates with expansions, blockades, and attacks into coastal states and mining areas. Rival ISSP (IS, ~2k fighters) contests it fiercely—recent Oct 2026 clashes claimed 400+ dead. After Western exits, AES juntas rely on Russian Africa Corps; groups exploit weak governance and local grievances, sustaining high violence and spillover risks.",
+     "snippet": "The Sahel’s terrorism epicenter is the Mali-Burkina Faso-Niger tri-border (Liptako-Gourma). Per AFRICOM and Global Terrorism Index data, it drives over half of worldwide terror deaths. JNIM (al-Qaeda affiliate, 7-8k fighters) dominates with expansions, blockades, and attacks into coastal states and mining areas. Rival ISSP (IS, ~2k fighters) contests it fiercely—recent Oct 2026 clashes claimed 400+ dead. After Western exits, AES juntas rely on Russian Africa Corps; groups exploit weak governance and local grievances, sustaining high violence and spillover risks.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2113227492521558197",
+     "title": "Yes. Public AFRICOM assessments, including from Gen. Langley, state Traoré’s resources stay localized to regime protection via nationalized",
+     "description": "Yes. Public AFRICOM assessments, including from Gen. Langley, state Traoré’s resources stay localized to regime protection via nationalized gold instead of expansive efforts against the Sahel’s terrorism epicenter. They assessed selected partners as unlikely to succeed. Limited intel sharing and pragmatic talks on shared security continue.",
+     "snippet": "Yes. Public AFRICOM assessments, including from Gen. Langley, state Traoré’s resources stay localized to regime protection via nationalized gold instead of expansive efforts against the Sahel’s terrorism epicenter. They assessed selected partners as unlikely to succeed. Limited intel sharing and pragmatic talks on shared security continue.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/DerekJGrossman/status/2112978084865683574",
+     "title": "The provisional agreement is on thin ice.",
+     "description": "The provisional agreement is on thin ice. \"China's coast guard said it monitored the Philippines delivering necessities to a vessel on Second Thomas ​Shoal on Wednesday, roughly a month after Manila ‌accused Beijing of obstructing its resupply mission in the disputed South China Sea.\"",
+     "snippet": "The provisional agreement is on thin ice. \"China's coast guard said it monitored the Philippines delivering necessities to a vessel on Second Thomas ​Shoal on Wednesday, roughly a month after Manila ‌accused Beijing of obstructing its resupply mission in the disputed South China Sea.\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Derek J. Grossman",
+     "handle": "@DerekJGrossman"
+    },
+    {
+     "url": "https://x.com/BusinessMirror/status/2113182318785360268",
+     "title": "China said on Tuesday it deployed naval forces to track and monitor a US warship that sailed on the waters off Sabina Shoal, that is within",
+     "description": "China said on Tuesday it deployed naval forces to track and monitor a US warship that sailed on the waters off Sabina Shoal, that is within the Philippines’ Exclusive Economic Zone, claiming that the ship allegedly entered waters adjacent to the feature without Beijing’s approval.",
+     "snippet": "China said on Tuesday it deployed naval forces to track and monitor a US warship that sailed on the waters off Sabina Shoal, that is within the Philippines’ Exclusive Economic Zone, claiming that the ship allegedly entered waters adjacent to the feature without Beijing’s approval.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BusinessMirror",
+     "handle": "@BusinessMirror"
+    },
+    {
+     "url": "https://x.com/AsiaMTI/status/2113397486731846051",
+     "title": "The Philippine military rejects China's claim that the USS Charleston entered Chinese waters near Sabina Shoal, saying no country can requir",
+     "description": "The Philippine military rejects China's claim that the USS Charleston entered Chinese waters near Sabina Shoal, saying no country can require prior permission for lawful transit through international waters. https://www.manilatimes.net/2026/10/22/news/afp-us-warship-did-not-trespass-into-chinese-waters/2451013",
+     "snippet": "The Philippine military rejects China's claim that the USS Charleston entered Chinese waters near Sabina Shoal, saying no country can require prior permission for lawful transit through international waters. https://www.manilatimes.net/2026/10/22/news/afp-us-warship-did-not-trespass-into-chinese-waters/2451013",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AMTI",
+     "handle": "@AsiaMTI"
+    },
+    {
+     "url": "https://x.com/ShipNews/status/2112961554266144981",
+     "title": "Chinese Coast Guard Monitors Philippine Vessel Resupplying in South China Sea https://www.marinelink.com/news/chinese-coast-guard-monitors-p",
+     "description": "Chinese Coast Guard Monitors Philippine Vessel Resupplying in South China Sea https://www.marinelink.com/news/chinese-coast-guard-monitors-philippine-543826 Chinese Coast Guard on watch as the Philippines resupplies in contested waters. The South China Sea dispute deepens. #SouthChinaSea #Philippines #China #Geopolitics",
+     "snippet": "Chinese Coast Guard Monitors Philippine Vessel Resupplying in South China Sea https://www.marinelink.com/news/chinese-coast-guard-monitors-philippine-543826 Chinese Coast Guard on watch as the Philippines resupplies in contested waters. The South China Sea dispute deepens. #SouthChinaSea #Philippines #China #Geopolitics",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Maritime Reporter",
+     "handle": "@ShipNews"
+    },
+    {
+     "url": "https://x.com/singhalnaveens/status/2112814220941439428",
+     "title": "2/2 Sabina Shoal, is approx 80 NM from Philippines and 700 NM (nautical miles) from China.",
+     "description": "2/2\n\nSabina Shoal, is approx 80 NM from Philippines and 700 NM (nautical miles) from China. The shoal lies within Philippines 200 NM EEZ, although China claims sovereignty over this and surrounding waters.\n\nThe @Philippine_Navy supported the @USNavy rejecting @China_Navy assertion that the US vessel had entered Chinese territory.\n\nInternational waters and sea lanes should not be disrupted by any nation, be it small or big.",
+     "snippet": "2/2\n\nSabina Shoal, is approx 80 NM from Philippines and 700 NM (nautical miles) from China. The shoal lies within Philippines 200 NM EEZ, although China claims sovereignty over this and surrounding waters.\n\nThe @Philippine_Navy supported the @USNavy rejecting @China_Navy assertion that the US vessel had entered Chinese territory.\n\nInternational waters and sea lanes should not be disrupted by any nation, be it small or big.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Channel-16",
+     "handle": "@singhalnaveens"
+    },
+    {
+     "url": "https://x.com/SEAEnergyNews/status/2112923603515969594",
+     "title": "🇵🇭 Philippines advances offshore wind push with port upgrades.",
+     "description": "🇵🇭 Philippines advances offshore wind push with port upgrades. Port of Pambujan in Camarines Norte has been auctioned off to an unnamed Chinese company, while the feasibility study for the Port of Sta. Clara in Batangas has been completed, with plans to auction it to developers by the end of this year.\n\nOnce development is complete, these facilities will serve as offshore wind (OSW) hubs where developers can receive, assemble, and stage turbines and other wind components.",
+     "snippet": "🇵🇭 Philippines advances offshore wind push with port upgrades. Port of Pambujan in Camarines Norte has been auctioned off to an unnamed Chinese company, while the feasibility study for the Port of Sta. Clara in Batangas has been completed, with plans to auction it to developers by the end of this year.\n\nOnce development is complete, these facilities will serve as offshore wind (OSW) hubs where developers can receive, assemble, and stage turbines and other wind components.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SEA Energy News",
+     "handle": "@SEAEnergyNews"
+    },
+    {
+     "url": "https://x.com/gauldenvulcan/status/2113166879829401957",
+     "title": "\"China's total foreign direct investment (FDI) commitments and inflows in the Philippines reached US$21.9 billion cumulatively from 2010 thr",
+     "description": "\"China's total foreign direct investment (FDI) commitments and inflows in the Philippines reached US$21.9 billion cumulatively from 2010 through 2023, with private and corporate investments continuing through the 2020s alongside state-directed projects.\" \n\nThat WOULD have translated to about an 1.053 Trillion Pesos (yes, with a \"T\"), or 81 Billion pesos per year, of investments, and development projects. BUT since the territorial escalations began, only 44 Billion Pesos of the once committed investments pushed through. \n\nThis should give you an idea of the SCALE of opportunity your country is MISSING OUT on.",
+     "snippet": "\"China's total foreign direct investment (FDI) commitments and inflows in the Philippines reached US$21.9 billion cumulatively from 2010 through 2023, with private and corporate investments continuing through the 2020s alongside state-directed projects.\" \n\nThat WOULD have translated to about an 1.053 Trillion Pesos (yes, with a \"T\"), or 81 Billion pesos per year, of investments, and development projects. BUT since the territorial escalations began, only 44 Billion Pesos of the once committed investments pushed through. \n\nThis should give you an idea of the SCALE of opportunity your country is MISSING OUT on.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ragio",
+     "handle": "@gauldenvulcan"
+    },
+    {
+     "url": "https://x.com/angeloinchina/status/2113084672972632269",
+     "title": "\"Notwithstanding our one China policy.\" That's Felipe Carino III, Manila's deputy chief of mission in Washington, explaining why the Philipp",
+     "description": "\"Notwithstanding our one China policy.\"\n\nThat's Felipe Carino III, Manila's deputy chief of mission in Washington, explaining why the Philippines is \"exploring deeper cooperation with our friends in Taiwan\" on undersea cables.\n\nWhere did he say it ? Not in Manila. At the Center for a New American Security, in Washington. Taiwan's deputy representative spoke at the same seminar.\n\nOn the table: knowledge sharing, capacity building, \"addressing the grey-zone issues\".\nJoint patrols ? He had no details, but said some of it \"may be actually coming to fruition.\"\n\nThe focus is the Bashi Channel, the strip of sea between Luzon and Taiwan.\nThis month the Philippine coast guard already sent its largest ship and a plane to shadow a Chinese research vessel off Batanes.\n\nOne China policy on paper. Taipei as partner in practice. Announced at a US think tank.\n\nSame playbook, new chapter.",
+     "snippet": "\"Notwithstanding our one China policy.\"\n\nThat's Felipe Carino III, Manila's deputy chief of mission in Washington, explaining why the Philippines is \"exploring deeper cooperation with our friends in Taiwan\" on undersea cables.\n\nWhere did he say it ? Not in Manila. At the Center for a New American Security, in Washington. Taiwan's deputy representative spoke at the same seminar.\n\nOn the table: knowledge sharing, capacity building, \"addressing the grey-zone issues\".\nJoint patrols ? He had no details, but said some of it \"may be actually coming to fruition.\"\n\nThe focus is the Bashi Channel, the strip of sea between Luzon and Taiwan.\nThis month the Philippine coast guard already sent its largest ship and a plane to shadow a Chinese research vessel off Batanes.\n\nOne China policy on paper. Taipei as partner in practice. Announced at a US think tank.\n\nSame playbook, new chapter.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Angelo Giuliano 🇨🇭🇮🇹",
+     "handle": "@angeloinchina"
+    },
+    {
+     "url": "https://x.com/NuclearID68/status/2112619099473973700",
+     "title": "🇵🇭🇨🇳 Observers aboard a Philippine maritime awareness flight reported seeing no new structures at Scarborough Shoal in coverage published Oc",
+     "description": "🇵🇭🇨🇳\nObservers aboard a Philippine maritime awareness flight reported seeing no new structures at Scarborough Shoal in coverage published October 20th.\n\nGMA’s accompanying reporter also documented a Chinese warship issuing a radio challenge. No physical interception was reported.\n\nThe construction observation is limited to what the patrol could see and does not establish that construction is absent throughout the shoal.\n\n#Philippines #ScarboroughShoal #SouthChinaSea\n\n🔗 ABS-CBN News Publication:\nhttps://t.co/oCHYtGjdM1\n\n🔗 GMA News Publication:",
+     "snippet": "🇵🇭🇨🇳\nObservers aboard a Philippine maritime awareness flight reported seeing no new structures at Scarborough Shoal in coverage published October 20th.\n\nGMA’s accompanying reporter also documented a Chinese warship issuing a radio challenge. No physical interception was reported.\n\nThe construction observation is limited to what the patrol could see and does not establish that construction is absent throughout the shoal.\n\n#Philippines #ScarboroughShoal #SouthChinaSea\n\n🔗 ABS-CBN News Publication:\nhttps://t.co/oCHYtGjdM1\n\n🔗 GMA News Publication:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nuclear-ID",
+     "handle": "@NuclearID68"
+    },
+    {
+     "url": "https://x.com/NuclearID68/status/2112959436121837588",
+     "title": "🇵🇭🇨🇳 Philippine Defense Secretary Gilberto Teodoro said he had been informed that the latest resupply mission succeeded, according to report",
+     "description": "🇵🇭🇨🇳\nPhilippine Defense Secretary Gilberto Teodoro said he had been informed that the latest resupply mission succeeded, according to reporting of his October 21st interview.\n\nAbante dates the operation to October 20th. China’s coast guard separately reported a Philippine delivery to Second Thomas Shoal on October 21st, claiming Chinese permission and monitoring.\n\nThe operation date remains unresolved between these accounts. Chinese permission is Beijing’s claim.\n\n#Philippines #China #SouthChinaSea\n\n🔗 Abante Publication:\nhttps://t.co/CnRuv7SdOl\n\n🔗 Phoenix Publication:",
+     "snippet": "🇵🇭🇨🇳\nPhilippine Defense Secretary Gilberto Teodoro said he had been informed that the latest resupply mission succeeded, according to reporting of his October 21st interview.\n\nAbante dates the operation to October 20th. China’s coast guard separately reported a Philippine delivery to Second Thomas Shoal on October 21st, claiming Chinese permission and monitoring.\n\nThe operation date remains unresolved between these accounts. Chinese permission is Beijing’s claim.\n\n#Philippines #China #SouthChinaSea\n\n🔗 Abante Publication:\nhttps://t.co/CnRuv7SdOl\n\n🔗 Phoenix Publication:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nuclear-ID",
+     "handle": "@NuclearID68"
+    }
+   ]
+  }
+ ]
+}

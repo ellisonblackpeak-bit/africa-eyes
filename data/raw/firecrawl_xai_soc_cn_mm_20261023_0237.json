@@ -1,0 +1,106 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/bnionline1/status/2112924560555458966",
+     "title": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work.",
+     "description": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "snippet": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Burma News International",
+     "handle": "@bnionline1"
+    },
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2112484889635225825",
+     "title": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Co",
+     "description": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Conference in Fujian. The push comes as the Kyaukphyu SEZ designed to give China access to the Indian Ocean is stalled  due to Rakhine fighting. \n\n#WhatsHappeningInMyanmar",
+     "snippet": "Myanmar’s ambassador to China proposes BRI-backed ‘Two Countries, Twin Parks’ model for maritime trade with Beijing at the World Maritime Conference in Fujian. The push comes as the Kyaukphyu SEZ designed to give China access to the Indian Ocean is stalled  due to Rakhine fighting. \n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112530189519642889",
+     "title": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone You can't offer maritime connectivity when",
+     "description": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone\n\nYou can't offer maritime connectivity when you don't even control your coastline. But since China never turns down a chance to exploit a desperate regime, anything is possible",
+     "snippet": "Myanmar wants \"Twin Parks\" trade routes with Fujian because Kyaukphyu Port is dead in a war zone\n\nYou can't offer maritime connectivity when you don't even control your coastline. But since China never turns down a chance to exploit a desperate regime, anything is possible",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/ViewsofMM22/status/2112370815694225480",
+     "title": "Who is really profiting from Myanmar’s jade?",
+     "description": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "snippet": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Views of Myanmar",
+     "handle": "@ViewsofMM22"
+    },
+    {
+     "url": "https://x.com/MoeSatKhinn/status/2112357178170606013",
+     "title": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State.",
+     "description": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "snippet": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FreedomSeeker",
+     "handle": "@MoeSatKhinn"
+    },
+    {
+     "url": "https://x.com/Freelancejou333/status/2112381177919361479",
+     "title": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting sta",
+     "description": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "snippet": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Freelance Journalist",
+     "handle": "@Freelancejou333"
+    },
+    {
+     "url": "https://x.com/minkhaung404/status/2112819110350557613",
+     "title": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State.",
+     "description": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "snippet": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Min Khaung",
+     "handle": "@minkhaung404"
+    },
+    {
+     "url": "https://x.com/minkhaung404/status/2112820797647761773",
+     "title": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting sta",
+     "description": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources. #Myanmar\n@XHNews\n@cnnbrk\n@ChinaDaily",
+     "snippet": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources. #Myanmar\n@XHNews\n@cnnbrk\n@ChinaDaily",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Min Khaung",
+     "handle": "@minkhaung404"
+    },
+    {
+     "url": "https://x.com/LauHonMeng/status/2112411007691940276",
+     "title": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting sta",
+     "description": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "snippet": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Lau Hon Meng",
+     "handle": "@LauHonMeng"
+    }
+   ]
+  }
+ ]
+}

@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "What’s new in the Nepal Premier League’s third season?",
+   "url": "https://kathmandupost.com/cricket/2026/10/23/what-s-new-in-the-nepal-premier-league-s-third-season",
+   "content": "DRS, ICC sanction, international stars and upgraded stadium facilities mark the tournament’s return to Kirtipur on October 26.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Nepal takes government websites offline over critical PHP flaws",
+   "url": "https://kathmandupost.com/science-technology/2026/10/23/nepal-takes-government-websites-offline-over-critical-php-flaws",
+   "content": "Emergency patching is underway after two vulnerabilities exposed systems worldwide to attacks that could allow hackers to run code on servers without logging in.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Hacking attempts surge as firms race to patch PHP flaws",
+   "url": "https://kathmandupost.com/world/2026/10/23/hacking-attempts-surge-as-firms-race-to-patch-php-flaws",
+   "content": "Cloud providers report millions of hacking attempts as governments and companies rush to secure systems and temporarily suspend online services.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
+   "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16",
+   "content": "The quake struck a sparsely populated, high-altitude area of northern Tibet, injuring 32 people and prompting rescue teams to mobilise.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Loss and damage fund approves $20 million for Nepal",
    "url": "https://kathmandupost.com/national/2026/10/22/loss-and-damage-fund-allocates-20-million-to-nepal",
    "content": "The funding is intended to help flood-hit communities in the Bhotekoshi–Trishuli region recover and rebuild.",
@@ -250,34 +278,6 @@
    "title": "Parsa police arrest 103 convicted fugitives in a month",
    "url": "https://kathmandupost.com/province-no-2/2026/10/20/parsa-police-arrest-103-convicted-fugitives-in-a-month",
    "content": "Police say the arrests will help enforce court rulings against people who had evaded prison terms and fines.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Declared dead: Indian voters fight to get back on electoral rolls",
-   "url": "https://kathmandupost.com/world/2026/10/20/declared-dead-indian-voters-fight-to-get-back-on-electoral-rolls",
-   "content": "A voter roll revision has removed 130 million names across India, leaving many people scrambling to prove they are alive, establish residency and reclaim their right to vote.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Movie review: ‘12 Gaun 2’ delivers the fights but forgets the story",
-   "url": "https://kathmandupost.com/movie-review/2026/10/20/movie-review-12-gaun-2-delivers-the-fights-but-forgets-the-story",
-   "content": "Biraj Bhatta’s sequel is weighed down by a disjointed plot, underwritten characters and a villain whose portrayal leans on a damaging stereotype.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "For Timure’s flood survivors, Dashain brings memories of the lives they lost",
-   "url": "https://kathmandupost.com/national/2026/10/20/for-timure-s-flood-survivors-dashain-brings-memories-of-the-lives-they-lost",
-   "content": "Displaced by the Bhotekoshi flood, 111 families are spending the festival in a Kathmandu monastery, grieving loved ones and wondering when they can return home.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "As France erupts, Europe’s far right gains from fuel-price anger ahead of elections",
-   "url": "https://kathmandupost.com/world/2026/10/20/as-france-erupts-europe-s-far-right-gains-from-fuel-price-anger-ahead-of-elections",
-   "content": "Surging energy costs and a deepening cost-of-living crisis are fuelling protests across the continent, giving far-right parties fresh momentum as they call for tax cuts and a return to Russian energy supplies ahead of key elections.",
    "published_date": "",
    "score": 0.6
   }
