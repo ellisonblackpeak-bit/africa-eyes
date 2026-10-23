@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Washington_Rep/status/2112899066161951146",
+     "title": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️ 🔹 Major Energy Agreement: R",
+     "description": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️\n\n🔹 Major Energy Agreement: Russia says Gazprom and China National Petroleum Corporation (CNPC) could finalize a commercial agreement by the end of the year for natural gas deliveries through the proposed Power of Baikal pipeline, strengthening energy cooperation between Moscow and Beijing.\n\n🔹 Massive Pipeline Project: The proposed pipeline, previously known as Power of Siberia 2, would transport up to 50 billion cubic meters of Russian natural gas annually to China through Mongolia, making it one of the world's largest gas infrastructure projects.\n\n🔹 Russian Government Optimism: Russian Deputy Prime Minister Alexander Novak expressed confidence that both companies could resolve outstanding commercial issues before the year ends, although no final agreement has been announced.\n\n🔹 Exports Could More Than Double: Once fully operational, the new pipeline could help increase Russia's annual natural gas deliveries to China to more than 100 billion cubic meters, compared with approximately 39 billion cubic meters delivered through the existing Power of Siberia pipeline in 2025.\n\n🔹 Replacing European Markets: The project represents a major part of Russia's strategy to redirect natural gas exports toward Asia after losing much of its European market following the invasion of Ukraine and subsequent geopolitical tensions.\n\n🔹 Pricing Remains a Major Obstacle: Negotiations have faced disagreements over gas prices, financing arrangements and supply flexibility. China has sought favorable commercial terms while remaining cautious about becoming excessively dependent on Russian energy.\n\n🔹 Global Energy Implications: A completed agreement could deepen China's access to pipeline gas, strengthen Russia's long term position in Asian energy markets and potentially influence global liquefied natural gas demand and trade patterns.\n\n🔹 Strategic Partnership Expands: The proposed agreement underscores the growing economic relationship between Russia and China, with Moscow seeking dependable energy buyers and Beijing pursuing diversified supplies to support its industrial economy.",
+     "snippet": "▫️🇷🇺🇨🇳 Russia and China Eye Major Gas Pipeline Agreement by Year End, Potentially Doubling Russian Gas Exports▫️\n\n🔹 Major Energy Agreement: Russia says Gazprom and China National Petroleum Corporation (CNPC) could finalize a commercial agreement by the end of the year for natural gas deliveries through the proposed Power of Baikal pipeline, strengthening energy cooperation between Moscow and Beijing.\n\n🔹 Massive Pipeline Project: The proposed pipeline, previously known as Power of Siberia 2, would transport up to 50 billion cubic meters of Russian natural gas annually to China through Mongolia, making it one of the world's largest gas infrastructure projects.\n\n🔹 Russian Government Optimism: Russian Deputy Prime Minister Alexander Novak expressed confidence that both companies could resolve outstanding commercial issues before the year ends, although no final agreement has been announced.\n\n🔹 Exports Could More Than Double: Once fully operational, the new pipeline could help increase Russia's annual natural gas deliveries to China to more than 100 billion cubic meters, compared with approximately 39 billion cubic meters delivered through the existing Power of Siberia pipeline in 2025.\n\n🔹 Replacing European Markets: The project represents a major part of Russia's strategy to redirect natural gas exports toward Asia after losing much of its European market following the invasion of Ukraine and subsequent geopolitical tensions.\n\n🔹 Pricing Remains a Major Obstacle: Negotiations have faced disagreements over gas prices, financing arrangements and supply flexibility. China has sought favorable commercial terms while remaining cautious about becoming excessively dependent on Russian energy.\n\n🔹 Global Energy Implications: A completed agreement could deepen China's access to pipeline gas, strengthen Russia's long term position in Asian energy markets and potentially influence global liquefied natural gas demand and trade patterns.\n\n🔹 Strategic Partnership Expands: The proposed agreement underscores the growing economic relationship between Russia and China, with Moscow seeking dependable energy buyers and Beijing pursuing diversified supplies to support its industrial economy.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Washington Report",
+     "handle": "@Washington_Rep"
+    },
+    {
+     "url": "https://x.com/MediaQSI/status/2113049613670420914",
+     "title": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year Russia said Gazprom PJSC and China National Petroleum Corp.",
+     "description": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year\n\nRussia said Gazprom PJSC and China National Petroleum Corp. may reach a commercial agreement by year-end on gas supplies via the Power of Baikal link, a route which has the potential to reshape global energy flows.\n\n“We are waiting for our companies to hold commercial talks,” — Russian Deputy Prime Minister Alexander Novak said. \n\n“We hope that by year-end they will reach the necessary agreements,” — he said, referring to deliveries via the future route formerly known as Power of Siberia 2.\n\n#BRICS \n\n@MediaQSI",
+     "snippet": "🇷🇺🇨🇳 Russia Says It May Agree on Key Gas Link With China This Year\n\nRussia said Gazprom PJSC and China National Petroleum Corp. may reach a commercial agreement by year-end on gas supplies via the Power of Baikal link, a route which has the potential to reshape global energy flows.\n\n“We are waiting for our companies to hold commercial talks,” — Russian Deputy Prime Minister Alexander Novak said. \n\n“We hope that by year-end they will reach the necessary agreements,” — he said, referring to deliveries via the future route formerly known as Power of Siberia 2.\n\n#BRICS \n\n@MediaQSI",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "QSI Media - News, Analytics, World.",
+     "handle": "@MediaQSI"
+    },
+    {
+     "url": "https://x.com/tat_polit/status/2113178551252132207",
+     "title": "The Kremlin has increased the discount on Russian gas for China to a record 56%.",
+     "description": "The Kremlin has increased the discount on Russian gas for China to a record 56%. According to documents related to the federal budget, China will pay an average of $247.9 per thousand cubic meters of gas this year, while other foreign clients of Gazprom are paying $562.",
+     "snippet": "The Kremlin has increased the discount on Russian gas for China to a record 56%. According to documents related to the federal budget, China will pay an average of $247.9 per thousand cubic meters of gas this year, while other foreign clients of Gazprom are paying $562.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tatar Council",
+     "handle": "@tat_polit"
+    },
+    {
+     "url": "https://x.com/China_Amb_India/status/2113219309359251721",
+     "title": "Premier Li Qiang met with Russian President Vladimir Putin in St.",
+     "description": "Premier Li Qiang met with Russian President Vladimir Putin in St. Petersburg.\n\nChina is ready to work with Russia to better leverage economic complementarity, maintain the sound momentum of bilateral cooperation, and strengthen practical cooperation in energy and resources, trade and investment, transportation and other areas, and to deliver more positive outcomes.\n\nThe two sides should enhance coordination within multilateral platforms such as SCO and BRICS, and unite more forces of the Global South to uphold fairness and justice.",
+     "snippet": "Premier Li Qiang met with Russian President Vladimir Putin in St. Petersburg.\n\nChina is ready to work with Russia to better leverage economic complementarity, maintain the sound momentum of bilateral cooperation, and strengthen practical cooperation in energy and resources, trade and investment, transportation and other areas, and to deliver more positive outcomes.\n\nThe two sides should enhance coordination within multilateral platforms such as SCO and BRICS, and unite more forces of the Global South to uphold fairness and justice.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Xu Feihong",
+     "handle": "@China_Amb_India"
+    },
+    {
+     "url": "https://x.com/TheSecretFeeds/status/2113144938233745874",
+     "title": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "description": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.\n\nChina and Russia have agreed to support their companies in expanding oil cooperation, according to a report by China’s state news agency Xinhua.",
+     "snippet": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.\n\nChina and Russia have agreed to support their companies in expanding oil cooperation, according to a report by China’s state news agency Xinhua.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Secret Feeds",
+     "handle": "@TheSecretFeeds"
+    },
+    {
+     "url": "https://x.com/BeateLandefeld/status/2113400387336118557",
+     "title": "There are currently no plans for a new conversation between Vladimir Putin and Donald Trump, according to Dmitry Peskov.",
+     "description": "There are currently no plans for a new conversation between Vladimir Putin and Donald Trump, according to Dmitry Peskov.\n\nHe added that such a conversation could be arranged quickly if both leaders desire it.\n\nKey takeaways from the press secretary's briefing:\n\n- Mediation in a complex process like the resolution of the situation in Ukraine is conducted discreetly;\n\n- Putin has not yet made a decision on the composition of the Russian negotiating group in the three-way talks on Ukraine;\n\n- There are no plans to hold a meeting between Putin and the members of the Russian negotiating group in the three-way talks on Ukraine;\n\n- \"megaphone diplomacy\" can only harm the resolution of the situation in Ukraine;\n\n- A decision on Putin's participation in the G20 summit has not yet been made, and the invitation will be considered;\n\n- The United States is doing a lot to resolve the situation, while Europe is doing a lot to provoke further military action;\n\n- Russia has not heard a single statement from Europe that would indicate a desire to de-escalate and take Moscow's interests into account;\n\n- Russia sees a positive development in the fact that some European countries are trying to understand Moscow's concerns, but the process does not go beyond that;\n\n- Cooperation between Russia and China in the energy sector has untapped potential;\n\n- Putin and Li Qiang did not discuss preparations for a deal on the \"Sila Baykala\" gas pipeline;\n\n- Russia is guided solely by its own interests when making decisions regarding foreign assets.\n\n⚡️Two Majors",
+     "snippet": "There are currently no plans for a new conversation between Vladimir Putin and Donald Trump, according to Dmitry Peskov.\n\nHe added that such a conversation could be arranged quickly if both leaders desire it.\n\nKey takeaways from the press secretary's briefing:\n\n- Mediation in a complex process like the resolution of the situation in Ukraine is conducted discreetly;\n\n- Putin has not yet made a decision on the composition of the Russian negotiating group in the three-way talks on Ukraine;\n\n- There are no plans to hold a meeting between Putin and the members of the Russian negotiating group in the three-way talks on Ukraine;\n\n- \"megaphone diplomacy\" can only harm the resolution of the situation in Ukraine;\n\n- A decision on Putin's participation in the G20 summit has not yet been made, and the invitation will be considered;\n\n- The United States is doing a lot to resolve the situation, while Europe is doing a lot to provoke further military action;\n\n- Russia has not heard a single statement from Europe that would indicate a desire to de-escalate and take Moscow's interests into account;\n\n- Russia sees a positive development in the fact that some European countries are trying to understand Moscow's concerns, but the process does not go beyond that;\n\n- Cooperation between Russia and China in the energy sector has untapped potential;\n\n- Putin and Li Qiang did not discuss preparations for a deal on the \"Sila Baykala\" gas pipeline;\n\n- Russia is guided solely by its own interests when making decisions regarding foreign assets.\n\n⚡️Two Majors",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Beate Landefeld",
+     "handle": "@BeateLandefeld"
+    },
+    {
+     "url": "https://x.com/SanaJournalist1/status/2112974766877643203",
+     "title": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companie",
+     "description": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "snippet": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sara | Journalist",
+     "handle": "@SanaJournalist1"
+    },
+    {
+     "url": "https://x.com/theraisinahills/status/2113284755479515552",
+     "title": "Russian President Vladimir #Putin and Chinese Premier Li Qiang reaffirmed commitment to strengthen bilateral ties, with energy, agriculture,",
+     "description": "Russian President Vladimir #Putin and Chinese Premier Li Qiang reaffirmed commitment to strengthen bilateral ties, with energy, agriculture, artificial intelligence, space, transport and multilateral coordination emerging as key areas of cooperation.\n\nhttps://theraisinahills.com/putin-li-qiang-russia-china-strategic-partnership/",
+     "snippet": "Russian President Vladimir #Putin and Chinese Premier Li Qiang reaffirmed commitment to strengthen bilateral ties, with energy, agriculture, artificial intelligence, space, transport and multilateral coordination emerging as key areas of cooperation.\n\nhttps://theraisinahills.com/putin-li-qiang-russia-china-strategic-partnership/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Raisina Hills",
+     "handle": "@theraisinahills"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2112935188611404236",
+     "title": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "description": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "snippet": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/Jonathan195426/status/2113143562149998858",
+     "title": "🇨🇳🇷🇺#China–#Russia ties grow stronger!",
+     "description": "🇨🇳🇷🇺#China–#Russia ties grow stronger! Premier Li Qiang meets President #Putin as both nations sign cooperation agreements on trade, technology, energy and education. Meanwhile, Putin signals openness to trilateral peace talks with the #US and #Ukraine.\n #LiQiang #Diplomacy",
+     "snippet": "🇨🇳🇷🇺#China–#Russia ties grow stronger! Premier Li Qiang meets President #Putin as both nations sign cooperation agreements on trade, technology, energy and education. Meanwhile, Putin signals openness to trilateral peace talks with the #US and #Ukraine.\n #LiQiang #Diplomacy",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jonathan",
+     "handle": "@Jonathan195426"
+    }
+   ]
+  }
+ ]
+}

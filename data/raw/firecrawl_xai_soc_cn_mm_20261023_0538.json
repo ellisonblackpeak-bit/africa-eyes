@@ -1,0 +1,116 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/bnionline1/status/2112924560555458966",
+     "title": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work.",
+     "description": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "snippet": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Burma News International",
+     "handle": "@bnionline1"
+    },
+    {
+     "url": "https://x.com/ViewsofMM22/status/2112370815694225480",
+     "title": "Who is really profiting from Myanmar’s jade?",
+     "description": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "snippet": "Who is really profiting from Myanmar’s jade? \n---#WhatsHappeningInMyanmar\nEvidence reveals a network of illegal jade mining blocks in Hpakant, Kachin State, granted by KIA insurgents. With daily shipments of fuel entering from China to power these unauthorized operations, local communities are taking a stand, loudly protesting the ruthless exploitation of state wealth by KIA insurgents and its network.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Views of Myanmar",
+     "handle": "@ViewsofMM22"
+    },
+    {
+     "url": "https://x.com/MoeSatKhinn/status/2112357178170606013",
+     "title": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State.",
+     "description": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "snippet": "🇲🇲 RESOURCE EXPLOITATION EXPOSED: A map shows illegal jade mining blocks granted by terrorist #KIA in Hpakant, Kachin State. Fuel trucks cross daily to support operations while local residents strongly protest the theft of state resources by KIA & affiliates. #Myanmar #RuleOfLaw",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FreedomSeeker",
+     "handle": "@MoeSatKhinn"
+    },
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2112474638735298638",
+     "title": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highla",
+     "description": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highlands harvest to Yunnan as the regime-aligned Myanmar Coffee Association seeks Chinese investment to build the sector.\n\n#WhatsHappeningInMyanmar",
+     "snippet": "After the coup cut off access to Western markets, Myanmar’s specialty coffee market has fallen into China’s orbit, diverting the Shan highlands harvest to Yunnan as the regime-aligned Myanmar Coffee Association seeks Chinese investment to build the sector.\n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112882178078200144",
+     "title": "And thus, the latest potentially messiest new chapter of decades-old US-China not-so-proxy war fare in Myanmar begins!",
+     "description": "And thus, the latest potentially messiest new chapter of decades-old US-China not-so-proxy war fare in Myanmar begins!\n\nThis is an ugly pivot indeed\n\nhttps://www.irrawaddy.com/news/burma/china-moves-to-cement-myanmar-influence-after-u-s-talks-with-regime.html#google_vignette",
+     "snippet": "And thus, the latest potentially messiest new chapter of decades-old US-China not-so-proxy war fare in Myanmar begins!\n\nThis is an ugly pivot indeed\n\nhttps://www.irrawaddy.com/news/burma/china-moves-to-cement-myanmar-influence-after-u-s-talks-with-regime.html#google_vignette",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/theoprinse/status/2112951882603782353",
+     "title": "China Moves to Cement Myanmar Influence After U.S.",
+     "description": "China Moves to Cement Myanmar Influence After U.S. Talks With Regime https://www.irrawaddy.com/news/burma/china-moves-to-cement-myanmar-influence-after-u-s-talks-with-regime.html",
+     "snippet": "China Moves to Cement Myanmar Influence After U.S. Talks With Regime https://www.irrawaddy.com/news/burma/china-moves-to-cement-myanmar-influence-after-u-s-talks-with-regime.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Theo Prinse",
+     "handle": "@theoprinse"
+    },
+    {
+     "url": "https://x.com/WarOsintFELLA/status/2113298880422895933",
+     "title": "Myanmar's military regime extended martial law for another 90 days in 55 townships on 21 October, down from 58, after removing three areas w",
+     "description": "Myanmar's military regime extended martial law for another 90 days in 55 townships on 21 October, down from 58, after removing three areas where it has recaptured territory. Fighting continues across multiple fronts, including Kachin State where resistance forces have attacked junta resupply flotillas on the Irrawaddy River, destroying or damaging vessels bound for embattled Bhamo. Suicide drones struck regime warplanes at Mandalay's Tada-U Airbase. The Arakan Army controls most of Rakhine State. The conflict stems from the 2021 coup, with ethnic armed groups and PDF resistance advancing in several regions. https://t.co/SkDT8bx66A",
+     "snippet": "Myanmar's military regime extended martial law for another 90 days in 55 townships on 21 October, down from 58, after removing three areas where it has recaptured territory. Fighting continues across multiple fronts, including Kachin State where resistance forces have attacked junta resupply flotillas on the Irrawaddy River, destroying or damaging vessels bound for embattled Bhamo. Suicide drones struck regime warplanes at Mandalay's Tada-U Airbase. The Arakan Army controls most of Rakhine State. The conflict stems from the 2021 coup, with ethnic armed groups and PDF resistance advancing in several regions. https://t.co/SkDT8bx66A",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CONFLICT NEWS FELLA",
+     "handle": "@WarOsintFELLA"
+    },
+    {
+     "url": "https://x.com/Freelancejou333/status/2112381177919361479",
+     "title": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting sta",
+     "description": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "snippet": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources.\n#Myanmar @XHNews @cnnbrk @ChinaDaily",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Freelance Journalist",
+     "handle": "@Freelancejou333"
+    },
+    {
+     "url": "https://x.com/BeamLantern/status/2113414899665957174",
+     "title": "China already invaded but not taiwan first stone to use Myanmar northern ground to build missiles, artillery, all native put under Chinese m",
+     "description": "China already invaded but not taiwan first stone to use Myanmar northern ground to build missiles, artillery, all native put under Chinese migrants army, Chinese LIZU tribes became Kachin KiA, WA, MNDAA to attack Taiwan,past US presidents push precious and strategic land to china",
+     "snippet": "China already invaded but not taiwan first stone to use Myanmar northern ground to build missiles, artillery, all native put under Chinese migrants army, Chinese LIZU tribes became Kachin KiA, WA, MNDAA to attack Taiwan,past US presidents push precious and strategic land to china",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Lantern Beam",
+     "handle": "@BeamLantern"
+    },
+    {
+     "url": "https://x.com/LeongWaiKitCNA/status/2113131925305168022",
+     "title": "2/2 This is significant as Sittwe remains a key city in Rakhine still controlled by Myanmar army for now Arakan Army has so far controlled o",
+     "description": "2/2\n\nThis is significant as Sittwe remains a key city in Rakhine still controlled by Myanmar army for now \n\nArakan Army has so far controlled over 80% of entire Rakhine",
+     "snippet": "2/2\n\nThis is significant as Sittwe remains a key city in Rakhine still controlled by Myanmar army for now \n\nArakan Army has so far controlled over 80% of entire Rakhine",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Leong Wai Kit",
+     "handle": "@LeongWaiKitCNA"
+    }
+   ]
+  }
+ ]
+}

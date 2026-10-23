@@ -1,0 +1,116 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/ABSCBNNews/status/2112408372704412010",
+     "title": "The Philippine Coast Guard conducted a maritime domain awareness flight over Bajo de Masinloc or Scarborough Shoal in the West Philippine Se",
+     "description": "The Philippine Coast Guard conducted a maritime domain awareness flight over Bajo de Masinloc or Scarborough Shoal in the West Philippine Sea on Tuesday.  \n\nEven before reaching the shoal, radio challenges could already be heard between the Philippine Air Force, which was also conducting an MDA flight, and China’s People’s Liberation Army Air Force and PLA Navy.  \n\nTwo buoys and a floating barrier were spotted still in place at Bajo de Masinloc. \n\n A Chinese research vessel, a PLA Navy warship, and a Chinese maritime militia vessel were also seen operating outside the shoal. | #SelfiePatrol ni @biancadava",
+     "snippet": "The Philippine Coast Guard conducted a maritime domain awareness flight over Bajo de Masinloc or Scarborough Shoal in the West Philippine Sea on Tuesday.  \n\nEven before reaching the shoal, radio challenges could already be heard between the Philippine Air Force, which was also conducting an MDA flight, and China’s People’s Liberation Army Air Force and PLA Navy.  \n\nTwo buoys and a floating barrier were spotted still in place at Bajo de Masinloc. \n\n A Chinese research vessel, a PLA Navy warship, and a Chinese maritime militia vessel were also seen operating outside the shoal. | #SelfiePatrol ni @biancadava",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ABS-CBN News",
+     "handle": "@ABSCBNNews"
+    },
+    {
+     "url": "https://x.com/DerekJGrossman/status/2112978084865683574",
+     "title": "The provisional agreement is on thin ice.",
+     "description": "The provisional agreement is on thin ice. \"China's coast guard said it monitored the Philippines delivering necessities to a vessel on Second Thomas ​Shoal on Wednesday, roughly a month after Manila ‌accused Beijing of obstructing its resupply mission in the disputed South China Sea.\"",
+     "snippet": "The provisional agreement is on thin ice. \"China's coast guard said it monitored the Philippines delivering necessities to a vessel on Second Thomas ​Shoal on Wednesday, roughly a month after Manila ‌accused Beijing of obstructing its resupply mission in the disputed South China Sea.\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Derek J. Grossman",
+     "handle": "@DerekJGrossman"
+    },
+    {
+     "url": "https://x.com/NguyenHo1096438/status/2112854158302990565",
+     "title": "China preaches peace while its vehement presence at Scarborough Shoal tells a different story.",
+     "description": "China preaches peace while its vehement presence at Scarborough Shoal tells a different story.\n\nDuring a Philippine Coast Guard surveillance flight over Bajo de Masinloc, authorities observed Chinese research, naval, and maritime militia vessels operating outside the shoal.",
+     "snippet": "China preaches peace while its vehement presence at Scarborough Shoal tells a different story.\n\nDuring a Philippine Coast Guard surveillance flight over Bajo de Masinloc, authorities observed Chinese research, naval, and maritime militia vessels operating outside the shoal.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nguyen Ho",
+     "handle": "@NguyenHo1096438"
+    },
+    {
+     "url": "https://x.com/ShipNews/status/2112961554266144981",
+     "title": "Chinese Coast Guard Monitors Philippine Vessel Resupplying in South China Sea https://www.marinelink.com/news/chinese-coast-guard-monitors-p",
+     "description": "Chinese Coast Guard Monitors Philippine Vessel Resupplying in South China Sea https://www.marinelink.com/news/chinese-coast-guard-monitors-philippine-543826 Chinese Coast Guard on watch as the Philippines resupplies in contested waters. The South China Sea dispute deepens. #SouthChinaSea #Philippines #China #Geopolitics",
+     "snippet": "Chinese Coast Guard Monitors Philippine Vessel Resupplying in South China Sea https://www.marinelink.com/news/chinese-coast-guard-monitors-philippine-543826 Chinese Coast Guard on watch as the Philippines resupplies in contested waters. The South China Sea dispute deepens. #SouthChinaSea #Philippines #China #Geopolitics",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Maritime Reporter",
+     "handle": "@ShipNews"
+    },
+    {
+     "url": "https://x.com/DrShPk/status/2113032617037816150",
+     "title": "With China approval, Philippines delivered living necessities to ship illegally \"grounded\" at China's Ren'ai Jiao.",
+     "description": "With China approval, Philippines delivered living necessities to ship illegally \"grounded\" at China's Ren'ai Jiao. CCG verified Philippine vessel & monitored whole process. CCG will continue law-enforcement in China's Nansha Qundao & adjacent waters, including Ren'ai Jiao.",
+     "snippet": "With China approval, Philippines delivered living necessities to ship illegally \"grounded\" at China's Ren'ai Jiao. CCG verified Philippine vessel & monitored whole process. CCG will continue law-enforcement in China's Nansha Qundao & adjacent waters, including Ren'ai Jiao.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DrShPk",
+     "handle": "@DrShPk"
+    },
+    {
+     "url": "https://x.com/singhalnaveens/status/2112814220941439428",
+     "title": "2/2 Sabina Shoal, is approx 80 NM from Philippines and 700 NM (nautical miles) from China.",
+     "description": "2/2\n\nSabina Shoal, is approx 80 NM from Philippines and 700 NM (nautical miles) from China. The shoal lies within Philippines 200 NM EEZ, although China claims sovereignty over this and surrounding waters.\n\nThe @Philippine_Navy supported the @USNavy rejecting @China_Navy assertion that the US vessel had entered Chinese territory.\n\nInternational waters and sea lanes should not be disrupted by any nation, be it small or big.",
+     "snippet": "2/2\n\nSabina Shoal, is approx 80 NM from Philippines and 700 NM (nautical miles) from China. The shoal lies within Philippines 200 NM EEZ, although China claims sovereignty over this and surrounding waters.\n\nThe @Philippine_Navy supported the @USNavy rejecting @China_Navy assertion that the US vessel had entered Chinese territory.\n\nInternational waters and sea lanes should not be disrupted by any nation, be it small or big.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Channel-16",
+     "handle": "@singhalnaveens"
+    },
+    {
+     "url": "https://x.com/BusinessMirror/status/2113182318785360268",
+     "title": "China said on Tuesday it deployed naval forces to track and monitor a US warship that sailed on the waters off Sabina Shoal, that is within",
+     "description": "China said on Tuesday it deployed naval forces to track and monitor a US warship that sailed on the waters off Sabina Shoal, that is within the Philippines’ Exclusive Economic Zone, claiming that the ship allegedly entered waters adjacent to the feature without Beijing’s approval.",
+     "snippet": "China said on Tuesday it deployed naval forces to track and monitor a US warship that sailed on the waters off Sabina Shoal, that is within the Philippines’ Exclusive Economic Zone, claiming that the ship allegedly entered waters adjacent to the feature without Beijing’s approval.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BusinessMirror",
+     "handle": "@BusinessMirror"
+    },
+    {
+     "url": "https://x.com/AsiaMTI/status/2113397486731846051",
+     "title": "The Philippine military rejects China's claim that the USS Charleston entered Chinese waters near Sabina Shoal, saying no country can requir",
+     "description": "The Philippine military rejects China's claim that the USS Charleston entered Chinese waters near Sabina Shoal, saying no country can require prior permission for lawful transit through international waters. https://www.manilatimes.net/2026/10/22/news/afp-us-warship-did-not-trespass-into-chinese-waters/2451013",
+     "snippet": "The Philippine military rejects China's claim that the USS Charleston entered Chinese waters near Sabina Shoal, saying no country can require prior permission for lawful transit through international waters. https://www.manilatimes.net/2026/10/22/news/afp-us-warship-did-not-trespass-into-chinese-waters/2451013",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AMTI",
+     "handle": "@AsiaMTI"
+    },
+    {
+     "url": "https://x.com/chinaspotlight1/status/2113388009051598893",
+     "title": "China says it sent forces to track and monitor the USS Charleston in disputed South China Sea waters.",
+     "description": "China says it sent forces to track and monitor the USS Charleston in disputed South China Sea waters. The Philippines rejected Beijing’s claim that the US ship trespassed into Chinese territory. \n\n#SouthChinaSea\nhttps://chinaspotlight.net/story/2126551/china-says-tracked-us-navy-ship-in-disputed-waters",
+     "snippet": "China says it sent forces to track and monitor the USS Charleston in disputed South China Sea waters. The Philippines rejected Beijing’s claim that the US ship trespassed into Chinese territory. \n\n#SouthChinaSea\nhttps://chinaspotlight.net/story/2126551/china-says-tracked-us-navy-ship-in-disputed-waters",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "chinaspotlight",
+     "handle": "@chinaspotlight1"
+    },
+    {
+     "url": "https://x.com/SouthChinase/status/2113418360700719163",
+     "title": "The Philippines' sinking ship @BRPSierraMadre can only be kept afloat by lies—deceiving Filipinos into believing we don't need China's permi",
+     "description": "The Philippines' sinking ship @BRPSierraMadre can only be kept afloat by lies—deceiving Filipinos into believing we don't need China's permission, while simultaneously having to obtain Chinese approval for humanitarian aid. \nGiven the Philippines' past practice of secretly stashing cement and rebar during fake humanitarian deliveries, China's maritime police should strengthen boarding inspections of supply vessels.",
+     "snippet": "The Philippines' sinking ship @BRPSierraMadre can only be kept afloat by lies—deceiving Filipinos into believing we don't need China's permission, while simultaneously having to obtain Chinese approval for humanitarian aid. \nGiven the Philippines' past practice of secretly stashing cement and rebar during fake humanitarian deliveries, China's maritime police should strengthen boarding inspections of supply vessels.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SouthChinase",
+     "handle": "@SouthChinase"
+    }
+   ]
+  }
+ ]
+}

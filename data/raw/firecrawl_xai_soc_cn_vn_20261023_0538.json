@@ -1,0 +1,116 @@
+{
+ "query": "China Vietnam Chinese company railway South China Sea",
+ "_tag": "soc_cn_vn",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/WEILANRAIL/status/2112362051033239970",
+     "title": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this ye",
+     "description": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this year, it had dispatched more than 110,000 TEUs of cargo in total.",
+     "snippet": "Since the Nanning International Railway Port began regular operation of China-Vietnam freight trains in November 2017, by October 12 this year, it had dispatched more than 110,000 TEUs of cargo in total.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WEILAN RAIL",
+     "handle": "@WEILANRAIL"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2113174253759856904",
+     "title": "A $400 million US-backed undersea cable linking four Southeast Asian countries excludes Chinese suppliers and avoids Beijing’s South China S",
+     "description": "A $400 million US-backed undersea cable linking four Southeast Asian countries excludes Chinese suppliers and avoids Beijing’s South China Sea claims. https://chinaglobalsouth.com/2026/10/22/us-backed-undersea-cable-vietnam-chinese-suppliers/",
+     "snippet": "A $400 million US-backed undersea cable linking four Southeast Asian countries excludes Chinese suppliers and avoids Beijing’s South China Sea claims. https://chinaglobalsouth.com/2026/10/22/us-backed-undersea-cable-vietnam-chinese-suppliers/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2113073056159498562",
+     "title": "Vietnam is pushing to develop Hon Khoai Island, exposing the security fault line running through Southeast Asia, where infrastructure, marit",
+     "description": "Vietnam is pushing to develop Hon Khoai Island, exposing the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China collide with Hanoi’s efforts.\n\nhttps://chinaglobalsouth.com/analysis/vietnam-china-cambodia-hon-khoai-security/",
+     "snippet": "Vietnam is pushing to develop Hon Khoai Island, exposing the security fault line running through Southeast Asia, where infrastructure, maritime access, and Cambodia’s deepening ties with China collide with Hanoi’s efforts.\n\nhttps://chinaglobalsouth.com/analysis/vietnam-china-cambodia-hon-khoai-security/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/business/status/2112466376472346667",
+     "title": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway conta",
+     "description": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway container terminal network in northern Vietnam https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project?taid=6ad72b3e1cd37f0001363cca&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "snippet": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway container terminal network in northern Vietnam https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project?taid=6ad72b3e1cd37f0001363cca&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bloomberg",
+     "handle": "@business"
+    },
+    {
+     "url": "https://x.com/staunovo/status/2112599924093374630",
+     "title": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway conta",
+     "description": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway container terminal network in northern Vietnam https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project?utm_source=website&utm_medium=share&utm_campaign=twitter",
+     "snippet": "Maersk, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a $3.5 billion railway container terminal network in northern Vietnam https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project?utm_source=website&utm_medium=share&utm_campaign=twitter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Giovanni Staunovo🛢",
+     "handle": "@staunovo"
+    },
+    {
+     "url": "https://x.com/gCaptain/status/2112518878706233687",
+     "title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freigh",
+     "description": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project\n\nhttps://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
+     "snippet": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project\n\nhttps://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "gCaptain",
+     "handle": "@gCaptain"
+    },
+    {
+     "url": "https://x.com/Seajob200/status/2113212469858767002",
+     "title": "Maersk unit and Vietnam’s Hateco plan four-terminal rail freight network Link: https://www.seaandjob.com/maersk-unit-and-vietnams-hateco-pla",
+     "description": "Maersk unit and Vietnam’s Hateco plan four-terminal rail freight network\nLink: https://www.seaandjob.com/maersk-unit-and-vietnams-hateco-plan-four-terminal-rail-freight-network/\n\n@shipmin_india@dgship_goi\n\n#ShippingNews #maritimenews",
+     "snippet": "Maersk unit and Vietnam’s Hateco plan four-terminal rail freight network\nLink: https://www.seaandjob.com/maersk-unit-and-vietnams-hateco-plan-four-terminal-rail-freight-network/\n\n@shipmin_india@dgship_goi\n\n#ShippingNews #maritimenews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Seajob",
+     "handle": "@Seajob200"
+    },
+    {
+     "url": "https://x.com/realTuckFrumper/status/2113260519683469427",
+     "title": "Vietnam's maritime push offers new path for South China Sea cooperation #UPI https://www.upi.com/Top_News/World-News/2026/10/22/vietnam-mari",
+     "description": "Vietnam's maritime push offers new path for South China Sea cooperation #UPI https://www.upi.com/Top_News/World-News/2026/10/22/vietnam-maritime-nation-goals/7011792673528/",
+     "snippet": "Vietnam's maritime push offers new path for South China Sea cooperation #UPI https://www.upi.com/Top_News/World-News/2026/10/22/vietnam-maritime-nation-goals/7011792673528/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#TuckFrump",
+     "handle": "@realTuckFrumper"
+    },
+    {
+     "url": "https://x.com/LTDManagement/status/2112553072228450628",
+     "title": "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/ Maersk and Hateco plan $3.5 billion Vietnam rail-freig",
+     "description": "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/ Maersk and Hateco plan $3.5 billion Vietnam rail-freight project",
+     "snippet": "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/ Maersk and Hateco plan $3.5 billion Vietnam rail-freight project",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tom Craig",
+     "handle": "@LTDManagement"
+    },
+    {
+     "url": "https://x.com/star_asia/status/2113257858485690729",
+     "title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freigh",
+     "description": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
+     "snippet": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Star Asia Int'l",
+     "handle": "@star_asia"
+    }
+   ]
+  }
+ ]
+}

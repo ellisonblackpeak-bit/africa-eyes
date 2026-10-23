@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/stopwagnergroup/status/2113270391837724905",
+     "title": "Africa Corps under pressure: the 🌴Sahel, April–October 2026 Russia promised security to the Sahel’s military regimes.",
+     "description": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "snippet": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/MedLilly1/status/2113367526579249628",
+     "title": "#Ménaka Le recoupement des informations confirmées relatives aux événements tragiques de Ménaka révèle un bilan provisoire de civils tués pa",
+     "description": "#Ménaka\nLe recoupement des informations confirmées relatives aux événements tragiques de Ménaka révèle un bilan provisoire de civils tués par l’#EIGS qui s’alourdit, avec environ une centaine  de victimes recensées et d'autres disparus dans trois localités différentes, certaines ayant été assassinées dans une mosquée. Ces atrocités se produisent dans une indifférence totale et n’ont susciter aucune réaction de la part des autorités de la transition, comme se fût le cas en début 2022. Paix à leurs âmes et prompt-rétablissement à leur proches ainsi que toute les familles déplacées à cause du terrorisme et de l'insécurité résiduelle.",
+     "snippet": "#Ménaka\nLe recoupement des informations confirmées relatives aux événements tragiques de Ménaka révèle un bilan provisoire de civils tués par l’#EIGS qui s’alourdit, avec environ une centaine  de victimes recensées et d'autres disparus dans trois localités différentes, certaines ayant été assassinées dans une mosquée. Ces atrocités se produisent dans une indifférence totale et n’ont susciter aucune réaction de la part des autorités de la transition, comme se fût le cas en début 2022. Paix à leurs âmes et prompt-rétablissement à leur proches ainsi que toute les familles déplacées à cause du terrorisme et de l'insécurité résiduelle.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mohamed Lilly",
+     "handle": "@MedLilly1"
+    },
+    {
+     "url": "https://x.com/AKIIXVIIII/status/2112942438482375112",
+     "title": "Ciekawostka z Mali 🇲🇱 Wygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utraco",
+     "description": "Ciekawostka z Mali 🇲🇱\n\nWygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utracony w kwietniu Kidal.\n\nFLA oraz JNIM ogłosiły „strategiczne wycofanie”. \n\nRebelianci i dżihadyści od pewnego czasu znajdowali się pod sporą presją Junty oraz Rosjan – głównie w postaci nalotów, dronów i podobnych działań.\n\nWarto podkreślić, że nie było większych walk lądowych: miasto opuszczono, a nie zdobyto w boju.\n\n(Zresztą po ostatnich walkach i bombardowaniach i tak już było wyludnione.)\n\nTo już trzecia taka zmiana w krótkim czasie. \n\nZatem to bardziej symboliczne odzyskanie bastionu niż przełom.\n\nW tym układzie rebeliantów nie rozbito, a JNIM i FLA nadal działają w regionie.\n\nPomoc Africa Corps, która daje wsparcie lotnicze i sprzęt, pomogła Juncie. \n\nNie przeważa to jednak trwale szali zwycięstwa na stronę sił rządowych.\n\nTo jednak nie wszystko. \n\nRosjanie coraz mocniej umacniają swoją obecność w Mali – już nie tylko na poziomie militarnym, ale również gospodarczym.\n\nBamako podpisało z Rosyjskim Kamazem kontrakt na ok. 51 mln USD (30 mld CFA) obejmujący ciężarówki, serwis i szkolenia.\n\nPoza Sahelem Rosjanie inwestują też coraz silniej w soft power: otwierają tzw. „Russian Houses” (rosyjskie centra kultury i nauki działające za granicą), rozbudowują sieć Rosyjskiej Cerkwi Prawosławnej (m. in. na Madagaskarze) i wzmacniają kontakty akademickie.🇷🇺\n\nNa forach międzynarodowych Moskwa mówi o suwerenności Afryki, a jednocześnie umacnia wojskowe junty i zwiększa ich zależność od siebie.\n\nMamy tu zatem realną ekspansję wpływów w Mali i innych państwach kontynentu afrykańskiego.\n\nWróćmy jednak do Mali 🇲🇱\n\nA zatem jednego decydującego zwycięstwa militarnego w Mali nie było i raczej wątpię, aby prędko nastąpiło.\n\nA pojedyncze sukcesy, nie zrekompensują poprzednich strat.\n\nTo klasyczny schemat: wsparcie dla władzy w zamian za dostęp i wpływy, przy ograniczonej zdolności do trwałego ustabilizowania sytuacji na miejscu.\n\nZ drugiej strony rosyjska projekcja soft power i alokacja dodatkowych zasobów militarnych wskazują, że Rosja albo dysponuje nadwyżkowymi zasobami, albo sytuacja w Mali była już tak krytyczna, że nie mieli wyjścia i przesunęli dodatkowe środki, by ustabilizować sytuację i nie stracić twarzy jako dostawcy bezpieczeństwa w regionie.\n\nCiekawe pytanie 🤔 – zobaczymy, na jak długo Juncie i Rosjanom uda się utrzymać kontrolę nad miastem.\n\nŹrudło  - Ma. Rangel - Rojas",
+     "snippet": "Ciekawostka z Mali 🇲🇱\n\nWygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utracony w kwietniu Kidal.\n\nFLA oraz JNIM ogłosiły „strategiczne wycofanie”. \n\nRebelianci i dżihadyści od pewnego czasu znajdowali się pod sporą presją Junty oraz Rosjan – głównie w postaci nalotów, dronów i podobnych działań.\n\nWarto podkreślić, że nie było większych walk lądowych: miasto opuszczono, a nie zdobyto w boju.\n\n(Zresztą po ostatnich walkach i bombardowaniach i tak już było wyludnione.)\n\nTo już trzecia taka zmiana w krótkim czasie. \n\nZatem to bardziej symboliczne odzyskanie bastionu niż przełom.\n\nW tym układzie rebeliantów nie rozbito, a JNIM i FLA nadal działają w regionie.\n\nPomoc Africa Corps, która daje wsparcie lotnicze i sprzęt, pomogła Juncie. \n\nNie przeważa to jednak trwale szali zwycięstwa na stronę sił rządowych.\n\nTo jednak nie wszystko. \n\nRosjanie coraz mocniej umacniają swoją obecność w Mali – już nie tylko na poziomie militarnym, ale również gospodarczym.\n\nBamako podpisało z Rosyjskim Kamazem kontrakt na ok. 51 mln USD (30 mld CFA) obejmujący ciężarówki, serwis i szkolenia.\n\nPoza Sahelem Rosjanie inwestują też coraz silniej w soft power: otwierają tzw. „Russian Houses” (rosyjskie centra kultury i nauki działające za granicą), rozbudowują sieć Rosyjskiej Cerkwi Prawosławnej (m. in. na Madagaskarze) i wzmacniają kontakty akademickie.🇷🇺\n\nNa forach międzynarodowych Moskwa mówi o suwerenności Afryki, a jednocześnie umacnia wojskowe junty i zwiększa ich zależność od siebie.\n\nMamy tu zatem realną ekspansję wpływów w Mali i innych państwach kontynentu afrykańskiego.\n\nWróćmy jednak do Mali 🇲🇱\n\nA zatem jednego decydującego zwycięstwa militarnego w Mali nie było i raczej wątpię, aby prędko nastąpiło.\n\nA pojedyncze sukcesy, nie zrekompensują poprzednich strat.\n\nTo klasyczny schemat: wsparcie dla władzy w zamian za dostęp i wpływy, przy ograniczonej zdolności do trwałego ustabilizowania sytuacji na miejscu.\n\nZ drugiej strony rosyjska projekcja soft power i alokacja dodatkowych zasobów militarnych wskazują, że Rosja albo dysponuje nadwyżkowymi zasobami, albo sytuacja w Mali była już tak krytyczna, że nie mieli wyjścia i przesunęli dodatkowe środki, by ustabilizować sytuację i nie stracić twarzy jako dostawcy bezpieczeństwa w regionie.\n\nCiekawe pytanie 🤔 – zobaczymy, na jak długo Juncie i Rosjanom uda się utrzymać kontrolę nad miastem.\n\nŹrudło  - Ma. Rangel - Rojas",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AK",
+     "handle": "@AKIIXVIIII"
+    },
+    {
+     "url": "https://x.com/EyeThink_/status/2112794389957468277",
+     "title": "[🇲🇱MALI] Au moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 lipca à Tabrichat, dans la région de Gao, s",
+     "description": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 lipca à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "snippet": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 lipca à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eye Think -",
+     "handle": "@EyeThink_"
+    },
+    {
+     "url": "https://x.com/morokkan/status/2112531648290205870",
+     "title": "At least 48 civilians killed in eastern Mali.",
+     "description": "At least 48 civilians killed in eastern Mali.\n\nGunmen on motorcycles raided camps in the Ménaka region Sunday, shooting residents and torching homes, local and security sources told Reuters and AFP.\n\nThey blame Islamic State's Sahel affiliate. Hundreds have fled to Ménaka town.",
+     "snippet": "At least 48 civilians killed in eastern Mali.\n\nGunmen on motorcycles raided camps in the Ménaka region Sunday, shooting residents and torching homes, local and security sources told Reuters and AFP.\n\nThey blame Islamic State's Sahel affiliate. Hundreds have fled to Ménaka town.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Independent",
+     "handle": "@morokkan"
+    },
+    {
+     "url": "https://x.com/MCNEWS_01/status/2113302297002512397",
+     "title": "#BreakingNews: 48 civilians reportedly killed in Mali attack.",
+     "description": "#BreakingNews: 48 civilians reportedly killed in Mali attack.\n\nAn attack attributed to Islamic State-linked militants reportedly killed 48 civilians in Mali’s eastern Ménaka region, according to a Tuareg leader cited by the Associated Press.\n\nChildren and elderly people were among the victims.\n\nThe attack highlights the continuing security challenges facing communities across the Sahel.",
+     "snippet": "#BreakingNews: 48 civilians reportedly killed in Mali attack.\n\nAn attack attributed to Islamic State-linked militants reportedly killed 48 civilians in Mali’s eastern Ménaka region, according to a Tuareg leader cited by the Associated Press.\n\nChildren and elderly people were among the victims.\n\nThe attack highlights the continuing security challenges facing communities across the Sahel.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MC NEWS",
+     "handle": "@MCNEWS_01"
+    },
+    {
+     "url": "https://x.com/RepublicaNepal/status/2112416854518214751",
+     "title": "The assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community, whose executive bureau",
+     "description": "The assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community, whose executive bureau blamed the killings on the Islamic State group.\n\nhttps://myrepublica.nagariknetwork.com/news/gunmen-kill-more-than-40-civilians-in-mali-security-and-community-sources-68-74.html",
+     "snippet": "The assailants reportedly rode in on motorcycles, targeting camps mainly housing members of the Daoussahak community, whose executive bureau blamed the killings on the Islamic State group.\n\nhttps://myrepublica.nagariknetwork.com/news/gunmen-kill-more-than-40-civilians-in-mali-security-and-community-sources-68-74.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "República",
+     "handle": "@RepublicaNepal"
+    },
+    {
+     "url": "https://x.com/BedworthTimes/status/2112629570771824837",
+     "title": "🇲🇱😭 GUNMEN ARRIVE ON MOTORBIKES, OPEN FIRE AND BURN HOMES: At Least 48 Civilians Killed Near Ménaka in Mali Horror Attack #BTnews",
+     "description": "🇲🇱😭 GUNMEN ARRIVE ON MOTORBIKES, OPEN FIRE AND BURN HOMES: At Least 48 Civilians Killed Near Ménaka in Mali Horror Attack #BTnews",
+     "snippet": "🇲🇱😭 GUNMEN ARRIVE ON MOTORBIKES, OPEN FIRE AND BURN HOMES: At Least 48 Civilians Killed Near Ménaka in Mali Horror Attack #BTnews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bedworth Times",
+     "handle": "@BedworthTimes"
+    },
+    {
+     "url": "https://x.com/MorCam_Intel/status/2113369099682054540",
+     "title": "🧵 1/6 COMBAT ANALYSIS & GEOINT Subject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video Admiralty Grade: A1 (Confirmed Pinpoint) Coordi",
+     "description": "🧵 1/6 COMBAT ANALYSIS & GEOINT\n\nSubject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video \n\nAdmiralty Grade: A1 (Confirmed Pinpoint) Coordinates: 14.321651, -5.899139 (Niono / Office du Niger Irrigation Scheme, Ségou Region, Mali 🇲🇱)\n\n👇 Full tactical breakdown & annotated satellite verification:",
+     "snippet": "🧵 1/6 COMBAT ANALYSIS & GEOINT\n\nSubject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video \n\nAdmiralty Grade: A1 (Confirmed Pinpoint) Coordinates: 14.321651, -5.899139 (Niono / Office du Niger Irrigation Scheme, Ségou Region, Mali 🇲🇱)\n\n👇 Full tactical breakdown & annotated satellite verification:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MorCam Intel Desk 🛰️",
+     "handle": "@MorCam_Intel"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2112557614970126346",
+     "title": "#Mali #WeeklyReport Last week (b/w Sep 12th and 18th) the #JNIM released 3 statements claiming 3 attacks: - Konna - b/w Sévaré & Gamba - b/w",
+     "description": "#Mali #WeeklyReport\n\nLast week (b/w Sep 12th and 18th) the #JNIM released 3 statements claiming 3 attacks:\n\n- Konna\n- b/w Sévaré & Gamba\n- b/w Djeni & Koula",
+     "snippet": "#Mali #WeeklyReport\n\nLast week (b/w Sep 12th and 18th) the #JNIM released 3 statements claiming 3 attacks:\n\n- Konna\n- b/w Sévaré & Gamba\n- b/w Djeni & Koula",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    }
+   ]
+  }
+ ]
+}
