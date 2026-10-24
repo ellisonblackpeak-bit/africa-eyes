@@ -1,0 +1,116 @@
+{
+ "query": "MPLJ FPL JNIM EIGS Niger jihadist attack Agadez Tillaberi",
+ "_tag": "soc_ter_ne",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/XHIndonesia/status/2113195866618229070",
+     "title": "Sebanyak 12 orang, termasuk seorang tentara, tewas dan sekitar 10 orang lainnya luka-luka dalam serangan bersenjata terhadap dua bus penumpa",
+     "description": "Sebanyak 12 orang, termasuk seorang tentara, tewas dan sekitar 10 orang lainnya luka-luka dalam serangan bersenjata terhadap dua bus penumpang di sepanjang jalan Arlit-Agadez di Niger utara pada Selasa (20/10), kata otoritas setempat pada Rabu (21/10) https://www.facebook.com/share/p/1FKKzxwyGd/?_rdc=1",
+     "snippet": "Sebanyak 12 orang, termasuk seorang tentara, tewas dan sekitar 10 orang lainnya luka-luka dalam serangan bersenjata terhadap dua bus penumpang di sepanjang jalan Arlit-Agadez di Niger utara pada Selasa (20/10), kata otoritas setempat pada Rabu (21/10) https://www.facebook.com/share/p/1FKKzxwyGd/?_rdc=1",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Xinhua Indonesia",
+     "handle": "@XHIndonesia"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113001115637690503",
+     "title": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4.",
+     "description": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4. Une dizaine de personnes également blessées. Parmi les victimes, des femmes, des enfants ainsi que des militaires qui se trouvaient dans les passagers de 2 bus de la Sonitrav",
+     "snippet": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4. Une dizaine de personnes également blessées. Parmi les victimes, des femmes, des enfants ainsi que des militaires qui se trouvaient dans les passagers de 2 bus de la Sonitrav",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113000550539129052",
+     "title": "#Niger #Insécurité Ce mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de",
+     "description": "#Niger #Insécurité\nCe mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de transport voyageurs sur l'axe #Agadez_Tchirozérine, dans le nord du pays.",
+     "snippet": "#Niger #Insécurité\nCe mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de transport voyageurs sur l'axe #Agadez_Tchirozérine, dans le nord du pays.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/trtafrikaHA/status/2113244834555211956",
+     "title": "Hukumomin tsaro a yankin Agadez na arewa maso gabashin Nijar sun shiga shirin ko-ta-kwana bayan wani mummunan harin ’yan bindiga da ya yi sa",
+     "description": "Hukumomin tsaro a yankin Agadez na arewa maso gabashin Nijar sun shiga shirin ko-ta-kwana bayan wani mummunan harin ’yan bindiga da ya yi sanadin mutuwar mutane 12 tare da jikkata wasu fasinjoji.\nGwamnan yankin, Manjo Janar Ibra Boulama Issa, ne ya jagoranci taron gaggawa na Majalisar Tsaron Yankin a ranar Laraba, 21 ga Oktoba, 2026, domin nazarin halin tsaro da kuma ɗaukar matakan da suka dace bayan harin.\n👉🏻https://t.co/vMNAn1BNix",
+     "snippet": "Hukumomin tsaro a yankin Agadez na arewa maso gabashin Nijar sun shiga shirin ko-ta-kwana bayan wani mummunan harin ’yan bindiga da ya yi sanadin mutuwar mutane 12 tare da jikkata wasu fasinjoji.\nGwamnan yankin, Manjo Janar Ibra Boulama Issa, ne ya jagoranci taron gaggawa na Majalisar Tsaron Yankin a ranar Laraba, 21 ga Oktoba, 2026, domin nazarin halin tsaro da kuma ɗaukar matakan da suka dace bayan harin.\n👉🏻https://t.co/vMNAn1BNix",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRT Afrika Hausa",
+     "handle": "@trtafrikaHA"
+    },
+    {
+     "url": "https://x.com/PdeRNiger/status/2113302985522758062",
+     "title": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit",
+     "description": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit – Agadez, dans le nord du pays. C’est ce qu’a rapporté le 21 octobre l’édition locale Actu Niger, citant les autorités locales.",
+     "snippet": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit – Agadez, dans le nord du pays. C’est ce qu’a rapporté le 21 octobre l’édition locale Actu Niger, citant les autorités locales.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Point de Rencontre Niger",
+     "handle": "@PdeRNiger"
+    },
+    {
+     "url": "https://x.com/studio_kalangou/status/2113307031188713525",
+     "title": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétré",
+     "description": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétrée mardi contre un bus de transport de voyageurs sur l’axe Tchirozérine-Agadez.",
+     "snippet": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétrée mardi contre un bus de transport de voyageurs sur l’axe Tchirozérine-Agadez.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Studio Kalangou",
+     "handle": "@studio_kalangou"
+    },
+    {
+     "url": "https://x.com/Sahelinfos24/status/2113686889085424032",
+     "title": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces armées #nigériennes et détruit un véhicule lors d'une attaque",
+     "description": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces  armées #nigériennes et détruit un véhicule lors d'une attaque à l'engin  explosif improvisé le 11 octobre dans la région de Diffa. L'affirmation  n'a pas été vérifiée de manière indépendante. L'attaque signalée  souligne la vulnérabilité continue des forces de sécurité aux explosifs  en bordure de route dans l'est du Niger. L'une des principales demandes  des partenaires extérieurs des #FAN est de fournir une expertise et des  équipements de lutte contre les engins explosifs improvisés.",
+     "snippet": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces  armées #nigériennes et détruit un véhicule lors d'une attaque à l'engin  explosif improvisé le 11 octobre dans la région de Diffa. L'affirmation  n'a pas été vérifiée de manière indépendante. L'attaque signalée  souligne la vulnérabilité continue des forces de sécurité aux explosifs  en bordure de route dans l'est du Niger. L'une des principales demandes  des partenaires extérieurs des #FAN est de fournir une expertise et des  équipements de lutte contre les engins explosifs improvisés.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Info 24",
+     "handle": "@Sahelinfos24"
+    },
+    {
+     "url": "https://x.com/saheliens/status/2113385561822036049",
+     "title": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS Les deux otages européennes, l’Autrichienne Eva Gretzmacher",
+     "description": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS \n\nLes deux otages européennes, l’Autrichienne Eva Gretzmacher (76 ans) et la Suissesse Claudia Abbt (69 ans), enlevées à Agadez par l’EIGS respectivement le 11 janvier et le 13 avril 2025, ont été libérées et se trouvent à Benghazi en #Libye. Elles doivent regagner leur pays ce 22 octobre 2026.  \n#Niger #Saheliens",
+     "snippet": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS \n\nLes deux otages européennes, l’Autrichienne Eva Gretzmacher (76 ans) et la Suissesse Claudia Abbt (69 ans), enlevées à Agadez par l’EIGS respectivement le 11 janvier et le 13 avril 2025, ont été libérées et se trouvent à Benghazi en #Libye. Elles doivent regagner leur pays ce 22 octobre 2026.  \n#Niger #Saheliens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saheliens",
+     "handle": "@saheliens"
+    },
+    {
+     "url": "https://x.com/sahelien_com/status/2113332817803522358",
+     "title": "#Agadez : après l’#attaque contre deux bus, 12 morts et des blessés pris en charge",
+     "description": "#Agadez : après l’#attaque contre deux bus, 12 morts et des blessés pris en charge",
+     "snippet": "#Agadez : après l’#attaque contre deux bus, 12 morts et des blessés pris en charge",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahelien",
+     "handle": "@sahelien_com"
+    },
+    {
+     "url": "https://x.com/mintelworld/status/2113580189196468242",
+     "title": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine",
+     "description": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine route in northern Niger .",
+     "snippet": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine route in northern Niger .",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mintel World",
+     "handle": "@mintelworld"
+    }
+   ]
+  }
+ ]
+}
