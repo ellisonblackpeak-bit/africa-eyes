@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "France’s African Shadow",
+   "url": "https://tribunemag.co.uk/2026/10/coup-belt",
+   "snippet": "The United States now waits in the wings, mulling military strikes in concert with Mali against militants. Earlier this year, Washington struck a multimillion-dollar health deal with Burkina Faso and moved to repair relations with Niger, just a few years after it was asked to leave behind its sprawling $100m drone airbase near Agadez. [...] In August, the Mali Security Partnership and Counterterro",
+   "published": "Fri, 23 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "US places 11 African countries on highest Level 4 'Do Not Travel' advisory list amid rising security threats | Business Insider Africa",
    "url": "https://africa.businessinsider.com/local/lifestyle/us-places-11-african-countries-on-highest-level-4-do-not-travel-advisory-list-amid/7n6s3d3",
    "snippet": "The US has issued its highest Level 4 'Do not travel' advisory for 11 African countries due to serious security risks.\n Reasons for the warnings include terrorism, kidnapping, crime, civil unrest, armed conflict, and inadequate healthcare.\n The countries affected are Burkina Faso, Central African Republic, Chad, Democratic Republic of the Congo, Libya, Mali, Niger, Somalia, South Sudan, Sudan, and",
@@ -44,17 +51,10 @@
    "source": "tavily"
   },
   {
-   "title": "Attack by Islamic State-affiliated group in Mali kills 48 people, official says",
-   "url": "https://www.wpri.com/news/us-and-world/ap-attack-by-islamic-state-affiliated-group-in-mali-kills-48-people",
-   "snippet": "BAMAKO, Mali (AP) — A weekend attack by militants affiliated to the Islamic State group killed 48 people in the Ménaka region of eastern Mali,",
-   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Defying Gravity: Russian Propaganda in North Africa and the Sahel",
    "url": "https://www.stimson.org/2026/defying-gravity-russian-propaganda-in-north-africa-and-the-sahel",
    "snippet": "Russia reaches North Africa and the Sahel through RT in Arabic and French, Sputnik in more than 30 languages, Russia House cultural centers, and African",
-   "published": "Fri, 23 Oct 2026 06:00:00 GMT",
+   "published": "Fri, 23 Oct 2026 08:00:00 GMT",
    "source": "tavily"
   }
  ],

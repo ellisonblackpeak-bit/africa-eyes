@@ -30,13 +30,6 @@
    "source": "tavily"
   },
   {
-   "title": "Nigeria records first Ebola case of Africa's latest outbreak | Africanews",
-   "url": "https://www.africanews.com/2026/10/20/breaking-nigeria-records-first-ebola-case-of-africas-latest-outbreak",
-   "snippet": "\"The patient, a woman who recently arrived in Nigeria on an international flight from Uganda, was admitted to a private hospital... where she received care for several days before the diagnosis was confirmed,\" Nigerian health minister Muhammad Ali Pate said in a statement.\n\n\"She is currently in isolation and receiving medical care. [...] ### France: Paris imposes overnight curfew after wave of rio",
-   "published": "Tue, 20 Oct 2026 17:53:02 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Switzerland confirms Nigeria’s latest Ebola patient is a Swiss diplomat’s wife who returned from her native Uganda, denies DR Congo visit | Business Insider Africa",
    "url": "https://africa.businessinsider.com/local/lifestyle/switzerland-confirms-nigerias-latest-ebola-patient-is-a-swiss-diplomats-wife-who/yrpl9jp",
    "snippet": "Nigeria's health authorities are expanding contact tracing beyond the 44 people initially identified as potentially exposed to the Swiss diplomat's wife.\n\nThe patient developed symptoms on October 7 and sought treatment at private health facilities before receiving her Ebola diagnosis nearly two weeks later.\n\nShe remains in isolation and is showing signs of improvement, according to the WHO. [...]",
@@ -44,17 +37,24 @@
    "source": "tavily"
   },
   {
+   "title": "Nigeria records first Ebola case of Africa's latest outbreak",
+   "url": "https://www.africanews.com/2026/10/20/breaking-nigeria-records-first-ebola-case-of-africas-latest-outbreak",
+   "snippet": "Nigeria has recorded its first Ebola case of Africa's latest outbreak, in a woman who had travelled from Uganda to the capital Abuja, the government",
+   "published": "Wed, 21 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
    "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
    "snippet": "Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.",
-   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
+   "published": "Wed, 21 Oct 2026 08:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "Nigeria confirms Ebola case as outbreak continues to spread",
    "url": "https://news.sky.com/story/nigeria-confirms-ebola-case-as-outbreak-continues-to-spread-13601748",
    "snippet": "Nigeria has recorded its first case of Ebola during the current outbreak, the country's health ministry has said - as the virus continues to spread",
-   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
+   "published": "Wed, 21 Oct 2026 08:00:00 GMT",
    "source": "tavily"
   },
   {
