@@ -1,0 +1,76 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/FbkzS12/status/2113710471396413855",
+     "title": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "description": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "snippet": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FBKZ 👉🇩🇿🇪🇭🇵🇸👈",
+     "handle": "@FbkzS12"
+    },
+    {
+     "url": "https://x.com/GFeel178182/status/2113550257443180850",
+     "title": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "description": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "snippet": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "G Feel",
+     "handle": "@GFeel178182"
+    },
+    {
+     "url": "https://x.com/Challenge_ma/status/2113414165474038085",
+     "title": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !",
+     "description": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !\n\n#Challenge #ChallengeMaroc #Gazoduc #Maroc #Nigeria #Afrique #Énergie #SécuritéÉnergétique #Investissement\n\nhttps://www.challenge.ma/cea-le-gazoduc-nigeria-maroc-une-initiative-majeure-pour-la-securite-energetique-325839/",
+     "snippet": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !\n\n#Challenge #ChallengeMaroc #Gazoduc #Maroc #Nigeria #Afrique #Énergie #SécuritéÉnergétique #Investissement\n\nhttps://www.challenge.ma/cea-le-gazoduc-nigeria-maroc-une-initiative-majeure-pour-la-securite-energetique-325839/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Challenge",
+     "handle": "@Challenge_ma"
+    },
+    {
+     "url": "https://x.com/Davy_Jones_P/status/2113292346477699147",
+     "title": "🇲🇦 Impact potentiel pour le Maroc Le projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec",
+     "description": "🇲🇦 Impact potentiel pour le Maroc\nLe projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec l'#Europe pourraient bénéficier d'un calendrier de conformité plus souple.",
+     "snippet": "🇲🇦 Impact potentiel pour le Maroc\nLe projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec l'#Europe pourraient bénéficier d'un calendrier de conformité plus souple.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Le Regent 🏴‍☠️",
+     "handle": "@Davy_Jones_P"
+    },
+    {
+     "url": "https://x.com/barlamanefr/status/2113211917968007367",
+     "title": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale",
+     "description": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale\n https://barlamane.com/fr/la-commission-economique-des-nations-unies-pour-lafrique-erige-le-gazoduc-nigeria-maroc-en-modele-dinterconnexion-energetique-continentale/",
+     "snippet": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale\n https://barlamane.com/fr/la-commission-economique-des-nations-unies-pour-lafrique-erige-le-gazoduc-nigeria-maroc-en-modele-dinterconnexion-energetique-continentale/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "barlamane.com/fr",
+     "handle": "@barlamanefr"
+    },
+    {
+     "url": "https://x.com/GazetteNGR/status/2113158326569603339",
+     "title": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security https://gazettengr.com/un-hails-nigeria-morocco-gas-pip",
+     "description": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\nhttps://gazettengr.com/un-hails-nigeria-morocco-gas-pipeline-project-as-booster-of-africas-energy-security/",
+     "snippet": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\nhttps://gazettengr.com/un-hails-nigeria-morocco-gas-pipeline-project-as-booster-of-africas-energy-security/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Peoples Gazette",
+     "handle": "@GazetteNGR"
+    }
+   ]
+  }
+ ]
+}

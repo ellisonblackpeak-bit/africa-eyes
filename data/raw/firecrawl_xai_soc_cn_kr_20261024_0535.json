@@ -1,0 +1,116 @@
+{
+ "query": "China North Korea South Korea Chinese embassy deal",
+ "_tag": "soc_cn_kr",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/DrTaraO/status/2112873527476990457",
+     "title": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.",
+     "description": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.\n\nSouth Korea's 2027 budget does have a new item--set up a foundation for strategic relations with China.\n\nThat is so unpopular in South Korea, where 80-90% of the people, especially the youths, dislike China. They want strong relations with the US.",
+     "snippet": "Defense Minister KANG Shin-cheol--so friendly with Chinese Ambassador to Korea.\n\nSouth Korea's 2027 budget does have a new item--set up a foundation for strategic relations with China.\n\nThat is so unpopular in South Korea, where 80-90% of the people, especially the youths, dislike China. They want strong relations with the US.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tara O",
+     "handle": "@DrTaraO"
+    },
+    {
+     "url": "https://x.com/YetAgainKR/status/2112761405212598320",
+     "title": "October 20, 2026 💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador At an October 15 parliamentary audit,",
+     "description": "October 20, 2026\n\n💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador\n\nAt an October 15 parliamentary audit, South Korea’s Defense Minister Kang Shin-chul stated that Seoul had “already conveyed” its objection to remarks by USFK Commander Gen. Brunson.\n\nJust five days later, before Chinese Ambassador Dai Bing, he requested China's “active support” and a “constructive role.”\n\nThe same China that repeatedly enters South Korea’s Air Defense Identification Zone (KADIZ) and builds structures in the Yellow Sea.\n\nProtesting to an ally while asking China for peace.\n\nThat is the security compass of this fake government.",
+     "snippet": "October 20, 2026\n\n💢 A “Protest” to the Allied Commander, a “Request for Support” to China’s Ambassador\n\nAt an October 15 parliamentary audit, South Korea’s Defense Minister Kang Shin-chul stated that Seoul had “already conveyed” its objection to remarks by USFK Commander Gen. Brunson.\n\nJust five days later, before Chinese Ambassador Dai Bing, he requested China's “active support” and a “constructive role.”\n\nThe same China that repeatedly enters South Korea’s Air Defense Identification Zone (KADIZ) and builds structures in the Yellow Sea.\n\nProtesting to an ally while asking China for peace.\n\nThat is the security compass of this fake government.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "YetAgain",
+     "handle": "@YetAgainKR"
+    },
+    {
+     "url": "https://x.com/YetAgainKR/status/2112756857798549563",
+     "title": "2026.10.20 💢동맹 사령관엔 \"항의\", 중국 대사엔 \"지원 요청\" 강신철 , 브런슨 사령관 발언엔 국감서 \"이미 (항의) 전달했다\"더니 닷새 뒤 다이빙 中대사 앞에선 \"중국의 적극적인 지원\"과 \"건설적 역할\"을 당부.",
+     "description": "2026.10.20\n\n💢동맹 사령관엔 \"항의\", 중국 대사엔 \"지원 요청\"\n\n강신철 , 브런슨 사령관 발언엔 국감서 \"이미 (항의) 전달했다\"더니\n\n닷새 뒤 다이빙 中대사 앞에선\n\n \"중국의 적극적인 지원\"과 \"건설적 역할\"을 당부.\n\nKADIZ 무단 진입과 서해 구조물을 이어가는 나라에 평화를 부탁하는 가짜정부의 안보 나침반.",
+     "snippet": "2026.10.20\n\n💢동맹 사령관엔 \"항의\", 중국 대사엔 \"지원 요청\"\n\n강신철 , 브런슨 사령관 발언엔 국감서 \"이미 (항의) 전달했다\"더니\n\n닷새 뒤 다이빙 中대사 앞에선\n\n \"중국의 적극적인 지원\"과 \"건설적 역할\"을 당부.\n\nKADIZ 무단 진입과 서해 구조물을 이어가는 나라에 평화를 부탁하는 가짜정부의 안보 나침반.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "YetAgain",
+     "handle": "@YetAgainKR"
+    },
+    {
+     "url": "https://x.com/OhmyNews_Korea/status/2112722371702620567",
+     "title": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003",
+     "description": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277250",
+     "snippet": "강신철, 중국대사에 \"한반도 긴장 고조, 중국 이익에도 부합 안 해\" #강신철 #국방부장관 #다이빙 #주한중국대사 #KADIZ 김도균 기자 https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277250",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "오마이뉴스",
+     "handle": "@OhmyNews_Korea"
+    },
+    {
+     "url": "https://x.com/nowonnow/status/2112933705270628554",
+     "title": "주한중국대사 이례적 국방부 방문..한미동맹 이상기후속 한중 국방협력 논의 최근 한미 간 전시작전통제권 환수를 두고 마찰을 빚는 와중에 주한중국대사가 국방부를 직접 찾았다는 점에서 이례적이라는 평가다.",
+     "description": "주한중국대사 이례적 국방부 방문..한미동맹 이상기후속 한중 국방협력 논의\n\n최근 한미 간 전시작전통제권 환수를 두고 마찰을 빚는 와중에 주한중국대사가 국방부를 직접 찾았다는 점에서 이례적이라는 평가다.\n\nhttps://www.fnnews.com/news/202610201925290610",
+     "snippet": "주한중국대사 이례적 국방부 방문..한미동맹 이상기후속 한중 국방협력 논의\n\n최근 한미 간 전시작전통제권 환수를 두고 마찰을 빚는 와중에 주한중국대사가 국방부를 직접 찾았다는 점에서 이례적이라는 평가다.\n\nhttps://www.fnnews.com/news/202610201925290610",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WKDBGKSRNR",
+     "handle": "@nowonnow"
+    },
+    {
+     "url": "https://x.com/StrictlyYun/status/2112932877667336574",
+     "title": "중국대사 국방부 방문 중국과 국방 협력하겠다 강신철 국방부 장관, 주한 중국대사 접견 전작권 전환 논의 중 중국대사 국방부 방문 논란 한미동맹의 균열 우려와 전시작전통제권(전작권) 전환 문제가 거론되는 가운데, 주한 중국대사가 한국 국방부를 방문 논란",
+     "description": "중국대사 국방부 방문\n중국과 국방 협력하겠다\n\n강신철 국방부 장관, 주한\n중국대사 접견\n\n전작권 전환 논의 중 중국대사 국방부 방문 논란\n한미동맹의 균열 우려와 전시작전통제권(전작권) 전환 문제가\n거론되는 가운데, 주한 중국대사가 한국 국방부를 방문 논란이 일고 있습니다\n\n우린 군대는 중국에게 먹힌거 같다...",
+     "snippet": "중국대사 국방부 방문\n중국과 국방 협력하겠다\n\n강신철 국방부 장관, 주한\n중국대사 접견\n\n전작권 전환 논의 중 중국대사 국방부 방문 논란\n한미동맹의 균열 우려와 전시작전통제권(전작권) 전환 문제가\n거론되는 가운데, 주한 중국대사가 한국 국방부를 방문 논란이 일고 있습니다\n\n우린 군대는 중국에게 먹힌거 같다...",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "자드키엘🇰🇷🇺🇸🇯🇵",
+     "handle": "@StrictlyYun"
+    },
+    {
+     "url": "https://x.com/DooridooriX/status/2113648234430402915",
+     "title": "Hold on. 🇰🇵 North Korea isn’t suddenly shifting toward a pro-American position. That underlying position has remained unchanged across three",
+     "description": "Hold on. 🇰🇵 North Korea isn’t suddenly\nshifting toward a pro-American position.\nThat underlying position has remained\nunchanged across three generations:\nKim Il Sung, Kim Jong Il, and Kim Jong Un.\nThe public simply hasn’t recognized it.\n\nIf they had truly aligned themselves\nwith 🇨🇳 Beijing, North Korea would have\nfallen under Chinese control back\nin Kim Il Sung’s time.\n\n🇰🇷 South Korea, meanwhile, has already\nfallen completely under Beijing’s\ncontrol after 30 years of influence\noperations.\n\nEven at this extremely dangerous moment\nfor 🇰🇵 North Korea, South Korea’s defense\nminister is meeting with a 🇨🇳 Chinese\nofficial to discuss North Korean issues.\n\nThey’re discussing this with 🇨🇳 China,\nnot the 🇺🇸 United States.\nThat is the reality right now.",
+     "snippet": "Hold on. 🇰🇵 North Korea isn’t suddenly\nshifting toward a pro-American position.\nThat underlying position has remained\nunchanged across three generations:\nKim Il Sung, Kim Jong Il, and Kim Jong Un.\nThe public simply hasn’t recognized it.\n\nIf they had truly aligned themselves\nwith 🇨🇳 Beijing, North Korea would have\nfallen under Chinese control back\nin Kim Il Sung’s time.\n\n🇰🇷 South Korea, meanwhile, has already\nfallen completely under Beijing’s\ncontrol after 30 years of influence\noperations.\n\nEven at this extremely dangerous moment\nfor 🇰🇵 North Korea, South Korea’s defense\nminister is meeting with a 🇨🇳 Chinese\nofficial to discuss North Korean issues.\n\nThey’re discussing this with 🇨🇳 China,\nnot the 🇺🇸 United States.\nThat is the reality right now.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DooriDoori | Doori Analyst",
+     "handle": "@DooridooriX"
+    },
+    {
+     "url": "https://x.com/jennychoi68/status/2112926436239851807",
+     "title": "[NNP 컷] 강신철 국방장관, 주한 중국대사 만나 국방협력 논의 https://www.youtube.com/watch?si=fnmDIdwQlMdvCOYU&v=MDzXQFYd2rs&feature=youtu.be 출처 @YouTube",
+     "description": "[NNP 컷] 강신철 국방장관, 주한 중국대사 만나 국방협력 논의 https://www.youtube.com/watch?si=fnmDIdwQlMdvCOYU&v=MDzXQFYd2rs&feature=youtu.be 출처 @YouTube",
+     "snippet": "[NNP 컷] 강신철 국방장관, 주한 중국대사 만나 국방협력 논의 https://www.youtube.com/watch?si=fnmDIdwQlMdvCOYU&v=MDzXQFYd2rs&feature=youtu.be 출처 @YouTube",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jenny Choi @ newsNpost",
+     "handle": "@jennychoi68"
+    },
+    {
+     "url": "https://x.com/songsuwon78/status/2112877920981242170",
+     "title": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "description": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "snippet": "Defense Minister Kang Shin-chul meets with Chinese Ambassador to South Korea to discuss defense cooperation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "제2 천안문 자유민주화 1989.6.4",
+     "handle": "@songsuwon78"
+    },
+    {
+     "url": "https://x.com/rogerJhering/status/2112746506692481363",
+     "title": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "description": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "snippet": "The Chinese Ambassador to South Korea met with the South Korean Minister of National Defense in an unusual manner.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jhering",
+     "handle": "@rogerJhering"
+    }
+   ]
+  }
+ ]
+}

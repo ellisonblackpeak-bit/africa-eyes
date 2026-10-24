@@ -1,0 +1,116 @@
+{
+ "query": "MPLJ FPL JNIM EIGS Niger jihadist attack Agadez Tillaberi",
+ "_tag": "soc_ter_ne",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/cgtnafrica/status/2113153886009860220",
+     "title": "12 people, including a soldier, were killed and about 10 others injured when armed men attacked two passenger buses along the Arlit-Agadez r",
+     "description": "12 people, including a soldier, were killed and about 10 others injured when armed men attacked two passenger buses along the Arlit-Agadez road in northern Niger on Tuesday, local authorities said Wednesday.",
+     "snippet": "12 people, including a soldier, were killed and about 10 others injured when armed men attacked two passenger buses along the Arlit-Agadez road in northern Niger on Tuesday, local authorities said Wednesday.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CGTN Africa",
+     "handle": "@cgtnafrica"
+    },
+    {
+     "url": "https://x.com/PdeRNiger/status/2113302985522758062",
+     "title": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit",
+     "description": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit – Agadez, dans le nord du pays. C’est ce qu’a rapporté le 21 octobre l’édition locale Actu Niger, citant les autorités locales.",
+     "snippet": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit – Agadez, dans le nord du pays. C’est ce qu’a rapporté le 21 octobre l’édition locale Actu Niger, citant les autorités locales.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Point de Rencontre Niger",
+     "handle": "@PdeRNiger"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113001115637690503",
+     "title": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4.",
+     "description": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4. Une dizaine de personnes également blessées. Parmi les victimes, des femmes, des enfants ainsi que des militaires qui se trouvaient dans les passagers de 2 bus de la Sonitrav",
+     "snippet": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4. Une dizaine de personnes également blessées. Parmi les victimes, des femmes, des enfants ainsi que des militaires qui se trouvaient dans les passagers de 2 bus de la Sonitrav",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113000550539129052",
+     "title": "#Niger #Insécurité Ce mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de",
+     "description": "#Niger #Insécurité\nCe mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de transport voyageurs sur l'axe #Agadez_Tchirozérine, dans le nord du pays.",
+     "snippet": "#Niger #Insécurité\nCe mercredi, les autorités ont assisté à l'inhumation des 12 victimes de l'#attaque_armée qui a visé, la veille, 2 bus de transport voyageurs sur l'axe #Agadez_Tchirozérine, dans le nord du pays.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/studio_kalangou/status/2113307031188713525",
+     "title": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétré",
+     "description": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétrée mardi contre un bus de transport de voyageurs sur l’axe Tchirozérine-Agadez.",
+     "snippet": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétrée mardi contre un bus de transport de voyageurs sur l’axe Tchirozérine-Agadez.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Studio Kalangou",
+     "handle": "@studio_kalangou"
+    },
+    {
+     "url": "https://x.com/mintelworld/status/2113580189196468242",
+     "title": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine",
+     "description": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine route in northern Niger .",
+     "snippet": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine route in northern Niger .",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mintel World",
+     "handle": "@mintelworld"
+    },
+    {
+     "url": "https://x.com/saheliens/status/2113385561822036049",
+     "title": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS Les deux otages européennes, l’Autrichienne Eva Gretzmacher",
+     "description": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS \n\nLes deux otages européennes, l’Autrichienne Eva Gretzmacher (76 ans) et la Suissesse Claudia Abbt (69 ans), enlevées à Agadez par l’EIGS respectivement le 11 janvier et le 13 avril 2025, ont été libérées et se trouvent à Benghazi en #Libye. Elles doivent regagner leur pays ce 22 octobre 2026.  \n#Niger #Saheliens",
+     "snippet": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS \n\nLes deux otages européennes, l’Autrichienne Eva Gretzmacher (76 ans) et la Suissesse Claudia Abbt (69 ans), enlevées à Agadez par l’EIGS respectivement le 11 janvier et le 13 avril 2025, ont été libérées et se trouvent à Benghazi en #Libye. Elles doivent regagner leur pays ce 22 octobre 2026.  \n#Niger #Saheliens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saheliens",
+     "handle": "@saheliens"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113166339665768470",
+     "title": "#Niger #Libye #Otages Les deux otages européennes, #Eva_Gretmacher et #Claudia_Abbt, enlevées à #Agadez, au Niger, il y a plusieurs mois par",
+     "description": "#Niger #Libye #Otages\nLes deux otages européennes, #Eva_Gretmacher et #Claudia_Abbt,  enlevées à #Agadez, au Niger, il y a plusieurs mois par l’EIS (#EIGS), ont été libérées et se trouvent à #Benghazi en Libye, avant leur retour au pays, ce 22 octobre.\n📸 S. Anara",
+     "snippet": "#Niger #Libye #Otages\nLes deux otages européennes, #Eva_Gretmacher et #Claudia_Abbt,  enlevées à #Agadez, au Niger, il y a plusieurs mois par l’EIS (#EIGS), ont été libérées et se trouvent à #Benghazi en Libye, avant leur retour au pays, ce 22 octobre.\n📸 S. Anara",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/Sahelinfos24/status/2113686889085424032",
+     "title": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces armées #nigériennes et détruit un véhicule lors d'une attaque",
+     "description": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces  armées #nigériennes et détruit un véhicule lors d'une attaque à l'engin  explosif improvisé le 11 octobre dans la région de Diffa. L'affirmation  n'a pas été vérifiée de manière indépendante. L'attaque signalée  souligne la vulnérabilité continue des forces de sécurité aux explosifs  en bordure de route dans l'est du Niger. L'une des principales demandes  des partenaires extérieurs des #FAN est de fournir une expertise et des  équipements de lutte contre les engins explosifs improvisés.",
+     "snippet": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces  armées #nigériennes et détruit un véhicule lors d'une attaque à l'engin  explosif improvisé le 11 octobre dans la région de Diffa. L'affirmation  n'a pas été vérifiée de manière indépendante. L'attaque signalée  souligne la vulnérabilité continue des forces de sécurité aux explosifs  en bordure de route dans l'est du Niger. L'une des principales demandes  des partenaires extérieurs des #FAN est de fournir une expertise et des  équipements de lutte contre les engins explosifs improvisés.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Info 24",
+     "handle": "@Sahelinfos24"
+    },
+    {
+     "url": "https://x.com/brownlandnews/status/2113705283339825627",
+     "title": "Clashes between the Islamic State in the Sahel and Al-Qaeda-linked JNIM are intensifying across the tri-border region of Mali, Niger, and Bu",
+     "description": "Clashes between the Islamic State in the Sahel and Al-Qaeda-linked JNIM are intensifying across the tri-border region of Mali, Niger, and Burkina Faso, as rival groups compete for territorial control, gold resources, and smuggling routes. The escalating conflict threatens civilian security and risks further destabilizing the Sahel.\n\nRead the full report on Brown Land.🔻🔻🔻\nhttps://t.co/JzYKL7HW4V\n\nReporting by Hassan Zarma, Brown Land’s West Africa correspondent.\n\n#Sahel #Security #WestAfrica",
+     "snippet": "Clashes between the Islamic State in the Sahel and Al-Qaeda-linked JNIM are intensifying across the tri-border region of Mali, Niger, and Burkina Faso, as rival groups compete for territorial control, gold resources, and smuggling routes. The escalating conflict threatens civilian security and risks further destabilizing the Sahel.\n\nRead the full report on Brown Land.🔻🔻🔻\nhttps://t.co/JzYKL7HW4V\n\nReporting by Hassan Zarma, Brown Land’s West Africa correspondent.\n\n#Sahel #Security #WestAfrica",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Brown Land",
+     "handle": "@brownlandnews"
+    }
+   ]
+  }
+ ]
+}

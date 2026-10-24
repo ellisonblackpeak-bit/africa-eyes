@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/vijaita/status/2113444355507933572",
+     "title": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS",
+     "description": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS summit. \n“In the past few-days, a situation arose where face-off happened at several locations in Arunachal and it still continues,” ITBP D-G Shatrujeet Kapur said on Thursday.\nThis is the first official confirmation of the scale of the continuing tensions on the north-eastern border since July this year.\nGovernment sources told The Hindu that since late July, India and China have been engaged in a stand-off at Asaphila near Taksing in Arunachal Pradesh. The Chinese People’s Liberation Army (PLA) is said to have pitched tents at an elevation, within 6-7 kilometres of India’s perception of the Line of Actual Control (LAC) near Maja company operating base in Taksing circle of Upper Subansiri district, sources said. I ✍️",
+     "snippet": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS summit. \n“In the past few-days, a situation arose where face-off happened at several locations in Arunachal and it still continues,” ITBP D-G Shatrujeet Kapur said on Thursday.\nThis is the first official confirmation of the scale of the continuing tensions on the north-eastern border since July this year.\nGovernment sources told The Hindu that since late July, India and China have been engaged in a stand-off at Asaphila near Taksing in Arunachal Pradesh. The Chinese People’s Liberation Army (PLA) is said to have pitched tents at an elevation, within 6-7 kilometres of India’s perception of the Line of Actual Control (LAC) near Maja company operating base in Taksing circle of Upper Subansiri district, sources said. I ✍️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Vijaita Singh",
+     "handle": "@vijaita"
+    },
+    {
+     "url": "https://x.com/ConflictRadarME/status/2113766436015313109",
+     "title": "🇮🇳🇨🇳⚡️ — Tensions along the Line of Actual Control have centered on the Asaphila area near Taksing in Arunachal Pradesh's Upper Subansiri di",
+     "description": "🇮🇳🇨🇳⚡️ — Tensions along the Line of Actual Control have centered on the Asaphila area near Taksing in Arunachal Pradesh's Upper Subansiri district, where reports indicate Chinese PLA troops advanced and pitched temporary tents roughly 6 to 7 kilometers inside Indian-claimed territory near the Maja Company operating base. #India #China #ArunachalPradesh #BorderDispute #Geopolitics",
+     "snippet": "🇮🇳🇨🇳⚡️ — Tensions along the Line of Actual Control have centered on the Asaphila area near Taksing in Arunachal Pradesh's Upper Subansiri district, where reports indicate Chinese PLA troops advanced and pitched temporary tents roughly 6 to 7 kilometers inside Indian-claimed territory near the Maja Company operating base. #India #China #ArunachalPradesh #BorderDispute #Geopolitics",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "X-K",
+     "handle": "@ConflictRadarME"
+    },
+    {
+     "url": "https://x.com/frier32/status/2113781297420398871",
+     "title": "China’s patrolling deviations disturb border: MEA on ITBP DG's LAC face-offs remark https://timesofindia.indiatimes.com/india/chinas-patroll",
+     "description": "China’s patrolling deviations disturb border: MEA on ITBP DG's LAC face-offs remark https://timesofindia.indiatimes.com/india/chinas-patrolling-deviations-disturb-border-mea-on-itbp-dgs-lac-face-offs-remark/articleshow/135155021.cms?utm_source=x&utm_medium=web_social&utm_campaign=social_share via @timesofindia",
+     "snippet": "China’s patrolling deviations disturb border: MEA on ITBP DG's LAC face-offs remark https://timesofindia.indiatimes.com/india/chinas-patrolling-deviations-disturb-border-mea-on-itbp-dgs-lac-face-offs-remark/articleshow/135155021.cms?utm_source=x&utm_medium=web_social&utm_campaign=social_share via @timesofindia",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "John Trotter",
+     "handle": "@frier32"
+    },
+    {
+     "url": "https://x.com/Bengiaajum/status/2113476314867106209",
+     "title": "Local journalist of Arunachal has been telling this since August.",
+     "description": "Local journalist of Arunachal has been telling this since August.  Nothing new in this report. Only thing is ITBF folk admitting in publicly. We were censored for writing about it by government of India. Delhi journos should visit ground and file report.",
+     "snippet": "Local journalist of Arunachal has been telling this since August.  Nothing new in this report. Only thing is ITBF folk admitting in publicly. We were censored for writing about it by government of India. Delhi journos should visit ground and file report.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bengia Ajum",
+     "handle": "@Bengiaajum"
+    },
+    {
+     "url": "https://x.com/Clashfire_/status/2113563960918307021",
+     "title": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).",
+     "description": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).\n\nAccording to government sources cited by The Hindu, Chinese forces have advanced into the disputed area and established  encampments.\n\nhttps://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
+     "snippet": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).\n\nAccording to government sources cited by The Hindu, Chinese forces have advanced into the disputed area and established  encampments.\n\nhttps://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Clash Fire",
+     "handle": "@Clashfire_"
+    },
+    {
+     "url": "https://x.com/SauravK1890/status/2113546121926889833",
+     "title": "The Chinese PLA have pitched their tents at an elevation, within 6 km to 7 km of India’s perception of the Line of Actual Control (LAC), nea",
+     "description": "The Chinese PLA have pitched their tents at an elevation, within 6 km to 7 km of India’s perception of the Line of Actual Control (LAC), near the Maja company operating base in Taksing circle of Upper Subansiri district\n\nRead: https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece \n\nAn explosive report by @vijaita",
+     "snippet": "The Chinese PLA have pitched their tents at an elevation, within 6 km to 7 km of India’s perception of the Line of Actual Control (LAC), near the Maja company operating base in Taksing circle of Upper Subansiri district\n\nRead: https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece \n\nAn explosive report by @vijaita",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saurav_Kumar",
+     "handle": "@SauravK1890"
+    },
+    {
+     "url": "https://x.com/shorts_91/status/2113682476954714429",
+     "title": "India says Chinese forces’ deviations from established patrol patterns periodically disturb the LAC, stressing peace and continued diplomati",
+     "description": "India says Chinese forces’ deviations from established patrol patterns periodically disturb the LAC, stressing peace and continued diplomatic and military engagement.\n\nRead more on, https://shorts91.com/content-detail/47644 \n\n#MEAIndia #LAC #China #ArunachalPradesh #BorderSafety #ITBPChief",
+     "snippet": "India says Chinese forces’ deviations from established patrol patterns periodically disturb the LAC, stressing peace and continued diplomatic and military engagement.\n\nRead more on, https://shorts91.com/content-detail/47644 \n\n#MEAIndia #LAC #China #ArunachalPradesh #BorderSafety #ITBPChief",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "shorts91",
+     "handle": "@shorts_91"
+    },
+    {
+     "url": "https://x.com/renycs08/status/2113468960163414032",
+     "title": "ITBP is busy in Delhi - picking up and dispersing protesters - while the borders remain tense.",
+     "description": "ITBP is busy in Delhi - picking up and dispersing protesters - while the borders remain tense.\n  \n  7 companies at Connaught Place and Jantar Mantar. BSF guarding Delhi's interstate borders.\n  \n  Meanwhile, drone platoons along the LAC. Underground bunkers. Galwan training.\n  \n  Priorities, it seems, are in ORDER.😮‍💨\n  ✌️",
+     "snippet": "ITBP is busy in Delhi - picking up and dispersing protesters - while the borders remain tense.\n  \n  7 companies at Connaught Place and Jantar Mantar. BSF guarding Delhi's interstate borders.\n  \n  Meanwhile, drone platoons along the LAC. Underground bunkers. Galwan training.\n  \n  Priorities, it seems, are in ORDER.😮‍💨\n  ✌️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "(っ˘̩╭╮˘̩)っReny H",
+     "handle": "@renycs08"
+    },
+    {
+     "url": "https://x.com/zaidcasm/status/2113542880656847321",
+     "title": "“The Chinese People's Liberation Army (PLA) have pitched their tents at an elevation, within 6 km to 7 km of India's perception of the Line",
+     "description": "“The Chinese People's Liberation Army (PLA) have pitched their tents at an elevation, within 6 km to 7 km of India's perception of the Line of Actual Control (LAC), near the Maja company operating base in Taksing circle of Upper Subansiri district” https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
+     "snippet": "“The Chinese People's Liberation Army (PLA) have pitched their tents at an elevation, within 6 km to 7 km of India's perception of the Line of Actual Control (LAC), near the Maja company operating base in Taksing circle of Upper Subansiri district” https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🇸🇾🇵🇸Mountains in Loop🇵🇸🇸🇾",
+     "handle": "@zaidcasm"
+    },
+    {
+     "url": "https://x.com/vipinsh94839414/status/2113536294739685837",
+     "title": "Read the exclusive report by @vijaita from The Hindu newspaper.",
+     "description": "Read the exclusive report by @vijaita from The Hindu newspaper. The report, citing sources, states that the Chinese army has pitched tents 6-7 km inside the LAC, which India considers its own territory.",
+     "snippet": "Read the exclusive report by @vijaita from The Hindu newspaper. The report, citing sources, states that the Chinese army has pitched tents 6-7 km inside the LAC, which India considers its own territory.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "vipin sharma",
+     "handle": "@vipinsh94839414"
+    }
+   ]
+  }
+ ]
+}
