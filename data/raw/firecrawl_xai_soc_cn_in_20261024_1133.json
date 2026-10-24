@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/vijaita/status/2113444355507933572",
+     "title": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS",
+     "description": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS summit. \n“In the past few-days, a situation arose where face-off happened at several locations in Arunachal and it still continues,” ITBP D-G Shatrujeet Kapur said on Thursday.\nThis is the first official confirmation of the scale of the continuing tensions on the north-eastern border since July this year.\nGovernment sources told The Hindu that since late July, India and China have been engaged in a stand-off at Asaphila near Taksing in Arunachal Pradesh. The Chinese People’s Liberation Army (PLA) is said to have pitched tents at an elevation, within 6-7 kilometres of India’s perception of the Line of Actual Control (LAC) near Maja company operating base in Taksing circle of Upper Subansiri district, sources said. I ✍️",
+     "snippet": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS summit. \n“In the past few-days, a situation arose where face-off happened at several locations in Arunachal and it still continues,” ITBP D-G Shatrujeet Kapur said on Thursday.\nThis is the first official confirmation of the scale of the continuing tensions on the north-eastern border since July this year.\nGovernment sources told The Hindu that since late July, India and China have been engaged in a stand-off at Asaphila near Taksing in Arunachal Pradesh. The Chinese People’s Liberation Army (PLA) is said to have pitched tents at an elevation, within 6-7 kilometres of India’s perception of the Line of Actual Control (LAC) near Maja company operating base in Taksing circle of Upper Subansiri district, sources said. I ✍️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Vijaita Singh",
+     "handle": "@vijaita"
+    },
+    {
+     "url": "https://x.com/scroll_in/status/2113778747652313271",
+     "title": "Face-off with China continues at several locations along Arunachal border: ITBP chief https://scroll.in/latest/1096596/face-off-with-china-c",
+     "description": "Face-off with China continues at several locations along Arunachal border: ITBP chief\n\nhttps://scroll.in/latest/1096596/face-off-with-china-continues-at-several-locations-along-arunachal-border-itbp\n\nReports of confrontations between Indian and Chinese troops in Arunachal Pradesh had emerged in July.",
+     "snippet": "Face-off with China continues at several locations along Arunachal border: ITBP chief\n\nhttps://scroll.in/latest/1096596/face-off-with-china-continues-at-several-locations-along-arunachal-border-itbp\n\nReports of confrontations between Indian and Chinese troops in Arunachal Pradesh had emerged in July.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Scroll.in",
+     "handle": "@scroll_in"
+    },
+    {
+     "url": "https://x.com/Clashfire_/status/2113563960918307021",
+     "title": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).",
+     "description": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).\n\nAccording to government sources cited by The Hindu, Chinese forces have advanced into the disputed area and established  encampments.\n\nhttps://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
+     "snippet": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).\n\nAccording to government sources cited by The Hindu, Chinese forces have advanced into the disputed area and established  encampments.\n\nhttps://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Clash Fire",
+     "handle": "@Clashfire_"
+    },
+    {
+     "url": "https://x.com/ConflictRadarME/status/2113766436015313109",
+     "title": "🇮🇳🇨🇳⚡️ — Tensions along the Line of Actual Control have centered on the Asaphila area near Taksing in Arunachal Pradesh's Upper Subansiri di",
+     "description": "🇮🇳🇨🇳⚡️ — Tensions along the Line of Actual Control have centered on the Asaphila area near Taksing in Arunachal Pradesh's Upper Subansiri district, where reports indicate Chinese PLA troops advanced and pitched temporary tents roughly 6 to 7 kilometers inside Indian-claimed territory near the Maja Company operating base. #India #China #ArunachalPradesh #BorderDispute #Geopolitics",
+     "snippet": "🇮🇳🇨🇳⚡️ — Tensions along the Line of Actual Control have centered on the Asaphila area near Taksing in Arunachal Pradesh's Upper Subansiri district, where reports indicate Chinese PLA troops advanced and pitched temporary tents roughly 6 to 7 kilometers inside Indian-claimed territory near the Maja Company operating base. #India #China #ArunachalPradesh #BorderDispute #Geopolitics",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "X-K",
+     "handle": "@ConflictRadarME"
+    },
+    {
+     "url": "https://x.com/brane_mija64426/status/2113731220739645896",
+     "title": "🇮🇳🇨🇳 India and China are still facing off in Arunachal Pradesh India has officially confirmed that its troops are still involved in face-off",
+     "description": "🇮🇳🇨🇳 India and China are still facing off in Arunachal Pradesh\n\nIndia has officially confirmed that its troops are still involved in face-offs with the Chinese military at several points along the Arunachal Pradesh border.\n\nOne of the main flashpoints is near Taksing in Upper Subansiri, where tensions have continued since July. Indian reports previously claimed that Chinese troops had set up tents several kilometres inside territory claimed by India.\n\nAnd this never really stopped during the recent India-China rapprochement.\n\nXi Jinping visited India for the BRICS summit, officials held more border talks and both sides talked about improving relations.\n\nMeanwhile, their troops were still blocking each other in Arunachal Pradesh.",
+     "snippet": "🇮🇳🇨🇳 India and China are still facing off in Arunachal Pradesh\n\nIndia has officially confirmed that its troops are still involved in face-offs with the Chinese military at several points along the Arunachal Pradesh border.\n\nOne of the main flashpoints is near Taksing in Upper Subansiri, where tensions have continued since July. Indian reports previously claimed that Chinese troops had set up tents several kilometres inside territory claimed by India.\n\nAnd this never really stopped during the recent India-China rapprochement.\n\nXi Jinping visited India for the BRICS summit, officials held more border talks and both sides talked about improving relations.\n\nMeanwhile, their troops were still blocking each other in Arunachal Pradesh.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "brane mijatovic",
+     "handle": "@brane_mija64426"
+    },
+    {
+     "url": "https://x.com/np_nationpress/status/2113712016737423618",
+     "title": "India-China LAC tension flares when Chinese forces break patrol patterns: MEA MEA says India-China border tensions arise when Chinese forces",
+     "description": "India-China LAC tension flares when Chinese forces break patrol patterns: MEA\n\nMEA says India-China border tensions arise when Chinese forces break established patrol patterns along the LAC, amid a political row over an ITBP face-off report in Arunachal…\n\nhttps://www.nationpress.com/international/mea-chinas-patrol-breaks-disturb-lac-peace",
+     "snippet": "India-China LAC tension flares when Chinese forces break patrol patterns: MEA\n\nMEA says India-China border tensions arise when Chinese forces break established patrol patterns along the LAC, amid a political row over an ITBP face-off report in Arunachal…\n\nhttps://www.nationpress.com/international/mea-chinas-patrol-breaks-disturb-lac-peace",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NationPress",
+     "handle": "@np_nationpress"
+    },
+    {
+     "url": "https://x.com/indiablooms/status/2113709015591256444",
+     "title": "China border face-offs continue in Arunachal, MEA says situation disrupted by patrolling deviations https://www.indiablooms.com/news/china-b",
+     "description": "China border face-offs continue in Arunachal, MEA says situation disrupted by patrolling deviations\nhttps://www.indiablooms.com/news/china-border-face-offs-continue-in-arunachal-mea-says-situation-disrupted-by-patrolling-deviations/details\n#India-China border # Arunachal Pradesh face-off # line of actual control # LAC # ITBP chief Shatrujeet Kapur # MEA # Randhir Jaiswal # Chinese PLA # Galwan Valley # India-China relations # Shaurya commandos # S Jaishankar # border patrolling",
+     "snippet": "China border face-offs continue in Arunachal, MEA says situation disrupted by patrolling deviations\nhttps://www.indiablooms.com/news/china-border-face-offs-continue-in-arunachal-mea-says-situation-disrupted-by-patrolling-deviations/details\n#India-China border # Arunachal Pradesh face-off # line of actual control # LAC # ITBP chief Shatrujeet Kapur # MEA # Randhir Jaiswal # Chinese PLA # Galwan Valley # India-China relations # Shaurya commandos # S Jaishankar # border patrolling",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "India Blooms",
+     "handle": "@indiablooms"
+    },
+    {
+     "url": "https://x.com/ArpanaSpeaks/status/2113726244437340375",
+     "title": "🇮🇳🇨🇳 India-China Border Tensions: MEA Calls for Peace Along LAC MEA spokesperson Randhir Jaiswal says Chinese forces deviating from establis",
+     "description": "🇮🇳🇨🇳 India-China Border Tensions: MEA Calls for Peace Along LAC\n\nMEA spokesperson Randhir Jaiswal says Chinese forces deviating from established patrolling patterns can disturb the situation along the India-China border.\n\n#IndiaChinaBorderRow",
+     "snippet": "🇮🇳🇨🇳 India-China Border Tensions: MEA Calls for Peace Along LAC\n\nMEA spokesperson Randhir Jaiswal says Chinese forces deviating from established patrolling patterns can disturb the situation along the India-China border.\n\n#IndiaChinaBorderRow",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Arpana Baishya",
+     "handle": "@ArpanaSpeaks"
+    },
+    {
+     "url": "https://x.com/np_nationpress/status/2113742968855351715",
+     "title": "ITBP chief's 'border clashes' remark taken out of context, says army veteran Army veteran Lt Gen Sanjay Kulkarni (retd) disputes ITBP chief'",
+     "description": "ITBP chief's 'border clashes' remark taken out of context, says army veteran\n\nArmy veteran Lt Gen Sanjay Kulkarni (retd) disputes ITBP chief's 'face-offs' remark, calling it routine patrolling perception with no actual clashes on the India-China LAC.\n\nhttps://www.nationpress.com/national/army-vet-disputes-itbp-chiefs-border-clash-claim",
+     "snippet": "ITBP chief's 'border clashes' remark taken out of context, says army veteran\n\nArmy veteran Lt Gen Sanjay Kulkarni (retd) disputes ITBP chief's 'face-offs' remark, calling it routine patrolling perception with no actual clashes on the India-China LAC.\n\nhttps://www.nationpress.com/national/army-vet-disputes-itbp-chiefs-border-clash-claim",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NationPress",
+     "handle": "@np_nationpress"
+    },
+    {
+     "url": "https://x.com/Bengiaajum/status/2113476314867106209",
+     "title": "Local journalist of Arunachal has been telling this since August.",
+     "description": "Local journalist of Arunachal has been telling this since August.  Nothing new in this report. Only thing is ITBF folk admitting in publicly. We were censored for writing about it by government of India. Delhi journos should visit ground and file report.",
+     "snippet": "Local journalist of Arunachal has been telling this since August.  Nothing new in this report. Only thing is ITBF folk admitting in publicly. We were censored for writing about it by government of India. Delhi journos should visit ground and file report.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bengia Ajum",
+     "handle": "@Bengiaajum"
+    }
+   ]
+  }
+ ]
+}

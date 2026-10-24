@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Typhoon Rosal exits PAR; ITCZ bringing scattered rain",
+   "url": "https://www.rappler.com/philippines/weather/typhoon-rosal-itcz-update-pagasa-forecast-october-24-2026-4pm/",
+   "content": "As of Saturday afternoon, October 24, no new low pressure areas or potential tropical cyclones are being monitored inside or outside the Philippine Area of Responsibility",
+   "published_date": "Sat, 24 Oct 2026 18:30:51 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Philip Lustre Jr. arrest a ‘sad day for journalism in the Philippines’ – lawyer",
+   "url": "https://www.rappler.com/philippines/philip-lustre-jr-arrest-lawyer-groups-reactions/",
+   "content": "The Presidential Task Force on Media Security also says 'laws protecting reputation must never be used to harass journalists, suppress legitimate criticism, or obstruct the public’s access to information'",
+   "published_date": "Sat, 24 Oct 2026 18:16:34 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
+   "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/",
+   "content": "'Monitoring systems had previously recorded disruptions to the Starlink/Starshield service. The speed metrics have now returned to normal,' the ministry says",
+   "published_date": "Sat, 24 Oct 2026 17:28:32 +0800",
+   "score": 0.6
+  },
+  {
    "title": "This Bicolano theater group brings grassroots stories — and disaster relief — to communities",
    "url": "https://www.rappler.com/people/actors/bicolano-theater-sining-banwa-grassroots-stories-communities/",
    "content": "Veteran actor Julie DM Vega of Albay theater group Sining Banwa says it’s time for local governments to invest in their artists and help ‘bring art directly to the masses’",
@@ -48,27 +69,6 @@
    "url": "https://www.rappler.com/newsbreak/inside-track/martha-sazon-gcash-mynt-ceo-billionaire/",
    "content": "Make way for the fintech queen: top dog of the PSE’s seventh-largest local company, one of Asia’s most powerful women, and now, a paper billionaire",
    "published_date": "Sat, 24 Oct 2026 11:00:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-   "url": "https://www.rappler.com/technology/openai-resumes-frontier-ai-training-discloses-software-flaw/",
-   "content": "The disclosure comes amid concerns over the ability of increasingly capable AI agents to identify and exploit software flaws, including in the guardrails meant to contain them",
-   "published_date": "Sat, 24 Oct 2026 10:43:41 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "How a Dubai trip to see his mom launched a film career",
-   "url": "https://www.rappler.com/people/artists/cinematographer-james-durias-arieta-dubai-trip-mom-launched-career/",
-   "content": "James Durias Arieta came to Dubai with no plan other than to be with his ‘TNT’ mother, a visit that unexpectedly launched his career in cinematography",
-   "published_date": "Sat, 24 Oct 2026 10:00:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "[Vantage Point] High barriers, high stakes: The SEC’s liquidity gambit",
-   "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-high-barriers-stakes-sec-francis-lim-liquidity-gambit/",
-   "content": "The Philippines needs to turn its moribund stock exchange into an engine for genuine capital formation",
-   "published_date": "Sat, 24 Oct 2026 08:00:00 +0800",
    "score": 0.6
   }
  ],

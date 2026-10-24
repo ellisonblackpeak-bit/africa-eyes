@@ -1,0 +1,116 @@
+{
+ "query": "MPLJ FPL JNIM EIGS Niger jihadist attack Agadez Tillaberi",
+ "_tag": "soc_ter_ne",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Sahelinfos24/status/2113686889085424032",
+     "title": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces armées #nigériennes et détruit un véhicule lors d'une attaque",
+     "description": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces  armées #nigériennes et détruit un véhicule lors d'une attaque à l'engin  explosif improvisé le 11 octobre dans la région de Diffa. L'affirmation  n'a pas été vérifiée de manière indépendante. L'attaque signalée  souligne la vulnérabilité continue des forces de sécurité aux explosifs  en bordure de route dans l'est du Niger. L'une des principales demandes  des partenaires extérieurs des #FAN est de fournir une expertise et des  équipements de lutte contre les engins explosifs improvisés.",
+     "snippet": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces  armées #nigériennes et détruit un véhicule lors d'une attaque à l'engin  explosif improvisé le 11 octobre dans la région de Diffa. L'affirmation  n'a pas été vérifiée de manière indépendante. L'attaque signalée  souligne la vulnérabilité continue des forces de sécurité aux explosifs  en bordure de route dans l'est du Niger. L'une des principales demandes  des partenaires extérieurs des #FAN est de fournir une expertise et des  équipements de lutte contre les engins explosifs improvisés.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Info 24",
+     "handle": "@Sahelinfos24"
+    },
+    {
+     "url": "https://x.com/Confi82/status/2112912374801793216",
+     "title": "Agadez, 21 octobre 2026 — Une attaque armée d’une extrême violence aurait visé, le 20 octobre, des bus de transport de passagers à environ 3",
+     "description": "Agadez, 21 octobre 2026 — Une attaque armée d’une extrême violence aurait visé, le 20 octobre, des bus de transport de passagers à environ 35 kilomètres d’Agadez, sur l’axe routier menant à Arlit, dans le nord du Niger. Selon des informations \nhttps://lamain.info/niger-nouvelle-attaque-meurtriere-sur-laxe-agadez-arlit-au-moins-11-morts-selon-un-bilan-provisoire/",
+     "snippet": "Agadez, 21 octobre 2026 — Une attaque armée d’une extrême violence aurait visé, le 20 octobre, des bus de transport de passagers à environ 35 kilomètres d’Agadez, sur l’axe routier menant à Arlit, dans le nord du Niger. Selon des informations \nhttps://lamain.info/niger-nouvelle-attaque-meurtriere-sur-laxe-agadez-arlit-au-moins-11-morts-selon-un-bilan-provisoire/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "LAMAIN INFOS",
+     "handle": "@Confi82"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113001115637690503",
+     "title": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4.",
+     "description": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4. Une dizaine de personnes également blessées. Parmi les victimes, des femmes, des enfants ainsi que des militaires qui se trouvaient dans les passagers de 2 bus de la Sonitrav",
+     "snippet": "L'attaque m, à 35kms d'#Agadez a été menée par des assaillants armés circulants à bord de 3 voitures 4x4. Une dizaine de personnes également blessées. Parmi les victimes, des femmes, des enfants ainsi que des militaires qui se trouvaient dans les passagers de 2 bus de la Sonitrav",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/wadrfrancais/status/2112858996491026656",
+     "title": "Au #Niger, au moins onze personnes, dont un militaire, ont été tuées dans une attaque armée contre deux bus de voyageurs sur l’axe Arlit-Aga",
+     "description": "Au #Niger, au moins onze personnes, dont un militaire, ont été tuées dans une attaque armée contre deux bus de voyageurs sur l’axe Arlit-Agadez.\n\nDes hommes armés ont intercepté les véhicules avant d’ouvrir le feu. L’un des bus transportait des militaires nigériens.",
+     "snippet": "Au #Niger, au moins onze personnes, dont un militaire, ont été tuées dans une attaque armée contre deux bus de voyageurs sur l’axe Arlit-Agadez.\n\nDes hommes armés ont intercepté les véhicules avant d’ouvrir le feu. L’un des bus transportait des militaires nigériens.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "WADR Francais",
+     "handle": "@wadrfrancais"
+    },
+    {
+     "url": "https://x.com/actuniger/status/2112950835508572554",
+     "title": "#Agadez #Niger #Sécurité #SONITRAV #Tchirozérine #ActualitéNiger Insécurité : les autorités d’Agadez en état d’alerte maximale après une att",
+     "description": "#Agadez #Niger #Sécurité #SONITRAV #Tchirozérine #ActualitéNiger\nInsécurité : les autorités d’Agadez en état d’alerte maximale après une attaque armée qui a fait douze morts sur l’axe Tchiro-Agadez - @actuniger   https://www.actuniger.com/societe/22481-insecurite-les-autorites-dagadez-en-etat-dalerte-maximale-apres-une-attaque-armee-qui-a-fait-douze-morts-sur-laxe-tchiro-agadez",
+     "snippet": "#Agadez #Niger #Sécurité #SONITRAV #Tchirozérine #ActualitéNiger\nInsécurité : les autorités d’Agadez en état d’alerte maximale après une attaque armée qui a fait douze morts sur l’axe Tchiro-Agadez - @actuniger   https://www.actuniger.com/societe/22481-insecurite-les-autorites-dagadez-en-etat-dalerte-maximale-apres-une-attaque-armee-qui-a-fait-douze-morts-sur-laxe-tchiro-agadez",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ActuNiger",
+     "handle": "@actuniger"
+    },
+    {
+     "url": "https://x.com/PdeRNiger/status/2113302985522758062",
+     "title": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit",
+     "description": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit – Agadez, dans le nord du pays. C’est ce qu’a rapporté le 21 octobre l’édition locale Actu Niger, citant les autorités locales.",
+     "snippet": "Au #Niger, 12 personnes ont été tuées et une dizaine d’autres blessées lors d’une attaque armée contre deux bus de passagers sur l’axe Arlit – Agadez, dans le nord du pays. C’est ce qu’a rapporté le 21 octobre l’édition locale Actu Niger, citant les autorités locales.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Point de Rencontre Niger",
+     "handle": "@PdeRNiger"
+    },
+    {
+     "url": "https://x.com/studio_kalangou/status/2113307031188713525",
+     "title": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétré",
+     "description": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétrée mardi contre un bus de transport de voyageurs sur l’axe Tchirozérine-Agadez.",
+     "snippet": "Le gouverneur de la région d’Agadez, le général de division, Ibra Boulama Issa, s’est rendu hier au chevet des blessés de l’attaque perpétrée mardi contre un bus de transport de voyageurs sur l’axe Tchirozérine-Agadez.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Studio Kalangou",
+     "handle": "@studio_kalangou"
+    },
+    {
+     "url": "https://x.com/saheliens/status/2113385561822036049",
+     "title": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS Les deux otages européennes, l’Autrichienne Eva Gretzmacher",
+     "description": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS \n\nLes deux otages européennes, l’Autrichienne Eva Gretzmacher (76 ans) et la Suissesse Claudia Abbt (69 ans), enlevées à Agadez par l’EIGS respectivement le 11 janvier et le 13 avril 2025, ont été libérées et se trouvent à Benghazi en #Libye. Elles doivent regagner leur pays ce 22 octobre 2026.  \n#Niger #Saheliens",
+     "snippet": "#Niger 🇳🇪: Libération des deux otages européennes enlevées à #Agadez par l’#EIGS \n\nLes deux otages européennes, l’Autrichienne Eva Gretzmacher (76 ans) et la Suissesse Claudia Abbt (69 ans), enlevées à Agadez par l’EIGS respectivement le 11 janvier et le 13 avril 2025, ont été libérées et se trouvent à Benghazi en #Libye. Elles doivent regagner leur pays ce 22 octobre 2026.  \n#Niger #Saheliens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saheliens",
+     "handle": "@saheliens"
+    },
+    {
+     "url": "https://x.com/aboubacarybarma/status/2113166339665768470",
+     "title": "#Niger #Libye #Otages Les deux otages européennes, #Eva_Gretzmacher et #Claudia_Abbt, enlevées à #Agadez, au Niger, il y a plusieurs mois pa",
+     "description": "#Niger #Libye #Otages\nLes deux otages européennes, #Eva_Gretzmacher et #Claudia_Abbt,  enlevées à #Agadez, au Niger, il y a plusieurs mois par l’EIS (#EIGS), ont été libérées et se trouvent à #Benghazi en Libye, avant leur retour au pays, ce 22 octobre.\n📸 S. Anara",
+     "snippet": "#Niger #Libye #Otages\nLes deux otages européennes, #Eva_Gretzmacher et #Claudia_Abbt,  enlevées à #Agadez, au Niger, il y a plusieurs mois par l’EIS (#EIGS), ont été libérées et se trouvent à #Benghazi en Libye, avant leur retour au pays, ce 22 octobre.\n📸 S. Anara",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Aboubacar Y. Barma",
+     "handle": "@aboubacarybarma"
+    },
+    {
+     "url": "https://x.com/brownlandnews/status/2113705283339825627",
+     "title": "Clashes between the Islamic State in the Sahel and Al-Qaeda-linked JNIM are intensifying across the tri-border region of Mali, Niger, and Bu",
+     "description": "Clashes between the Islamic State in the Sahel and Al-Qaeda-linked JNIM are intensifying across the tri-border region of Mali, Niger, and Burkina Faso, as rival groups compete for territorial control, gold resources, and smuggling routes. The escalating conflict threatens civilian security and risks further destabilizing the Sahel.\n\nRead the full report on Brown Land.🔻🔻🔻\nhttps://t.co/JzYKL7HW4V\n\nReporting by Hassan Zarma, Brown Land’s West Africa correspondent.\n\n#Sahel #Security #WestAfrica",
+     "snippet": "Clashes between the Islamic State in the Sahel and Al-Qaeda-linked JNIM are intensifying across the tri-border region of Mali, Niger, and Burkina Faso, as rival groups compete for territorial control, gold resources, and smuggling routes. The escalating conflict threatens civilian security and risks further destabilizing the Sahel.\n\nRead the full report on Brown Land.🔻🔻🔻\nhttps://t.co/JzYKL7HW4V\n\nReporting by Hassan Zarma, Brown Land’s West Africa correspondent.\n\n#Sahel #Security #WestAfrica",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Brown Land",
+     "handle": "@brownlandnews"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/AlerteSahel/status/2113734177824834026",
+     "title": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM Une patrouille des FAmas à la solde de l",
+     "description": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM \n\nUne patrouille des FAmas à la solde de la junte terroriste de Bamako, est tombée dans la soirée de ce Vendredi 23 Octobre, dans une embuscade tendue par le JNIM entre Djermane et Djarkane dans la région de Sikasso.\n\nDes pertes en vies humaines devraient sans surprise être enregistrées au cours de cet incident sécuritaire.",
+     "snippet": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM \n\nUne patrouille des FAmas à la solde de la junte terroriste de Bamako, est tombée dans la soirée de ce Vendredi 23 Octobre, dans une embuscade tendue par le JNIM entre Djermane et Djarkane dans la région de Sikasso.\n\nDes pertes en vies humaines devraient sans surprise être enregistrées au cours de cet incident sécuritaire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/SahelAlerte/status/2113725494302798144",
+     "title": "🚨 Urgent | Mali 🇲🇱 Le JNIM affirme avoir tendu une embuscade à une patrouille de l’armée malienne entre les localités de Djermane et Djarkan",
+     "description": "🚨 Urgent | Mali 🇲🇱\n\nLe JNIM affirme avoir tendu une embuscade à une patrouille de l’armée malienne entre les localités de Djermane et Djarkane, dans la région de Sikasso, dans la soirée de ce vendredi 23 octobre 2026.",
+     "snippet": "🚨 Urgent | Mali 🇲🇱\n\nLe JNIM affirme avoir tendu une embuscade à une patrouille de l’armée malienne entre les localités de Djermane et Djarkane, dans la région de Sikasso, dans la soirée de ce vendredi 23 octobre 2026.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/Sahelinfos24/status/2113680130820452364",
+     "title": "#Mali: Des informations locales et internationales indiquent que des terroristes affiliés à l'#EIGS ont peut-être tué des dizaines de civils",
+     "description": "#Mali: Des informations locales et internationales indiquent que des  terroristes affiliés à l'#EIGS ont peut-être tué des dizaines de civils  lors d'attaques dans l'est de #Ménaka les 17 et 18 octobre, certaines  informations locales situant le bilan bien plus élevé, allant jusqu'à 100. Les rapports nécessitent des vérifications supplémentaires, mais  ils renforcent la crise urgente de protection des civils dans la région.  Les habitants signalent de fréquentes menaces proférées par le #JNIM et  l'#EIGS contre des civils, les contraignant à apporter leur soutien.",
+     "snippet": "#Mali: Des informations locales et internationales indiquent que des  terroristes affiliés à l'#EIGS ont peut-être tué des dizaines de civils  lors d'attaques dans l'est de #Ménaka les 17 et 18 octobre, certaines  informations locales situant le bilan bien plus élevé, allant jusqu'à 100. Les rapports nécessitent des vérifications supplémentaires, mais  ils renforcent la crise urgente de protection des civils dans la région.  Les habitants signalent de fréquentes menaces proférées par le #JNIM et  l'#EIGS contre des civils, les contraignant à apporter leur soutien.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Info 24",
+     "handle": "@Sahelinfos24"
+    },
+    {
+     "url": "https://x.com/SankaraDispatch/status/2113442100712820966",
+     "title": "🇲🇱 Mali is bleeding. At least 48 civilians from the Idaksahak community were killed when ISIS fighters attacked Tagadayat village in the Mén",
+     "description": "🇲🇱 Mali is bleeding. \n\nAt least 48 civilians from the Idaksahak community were killed when ISIS fighters attacked Tagadayat village in the Ménaka region on October 19.\n\nThe attackers accused residents of sharing information about their positions with the Malian army ahead of a drone strike. Several people were wounded, and families fled toward Ménaka.\n\nCivilians continue to pay the price of the Sahel's escalating security crisis.",
+     "snippet": "🇲🇱 Mali is bleeding. \n\nAt least 48 civilians from the Idaksahak community were killed when ISIS fighters attacked Tagadayat village in the Ménaka region on October 19.\n\nThe attackers accused residents of sharing information about their positions with the Malian army ahead of a drone strike. Several people were wounded, and families fled toward Ménaka.\n\nCivilians continue to pay the price of the Sahel's escalating security crisis.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "𝐏𝐚𝐧𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐈𝐧𝐭𝐞𝐥",
+     "handle": "@SankaraDispatch"
+    },
+    {
+     "url": "https://x.com/stopwagnergroup/status/2113270391837724905",
+     "title": "Africa Corps under pressure: the 🌴Sahel, April–October 2026 Russia promised security to the Sahel’s military regimes.",
+     "description": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "snippet": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/MorCam_Intel/status/2113369099682054540",
+     "title": "🧵 1/6 COMBAT ANALYSIS & GEOINT Subject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video Admiralty Grade: A1 (Confirmed Pinpoint) Coordi",
+     "description": "🧵 1/6 COMBAT ANALYSIS & GEOINT\n\nSubject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video \n\nAdmiralty Grade: A1 (Confirmed Pinpoint) Coordinates: 14.321651, -5.899139 (Niono / Office du Niger Irrigation Scheme, Ségou Region, Mali 🇲🇱)\n\n👇 Full tactical breakdown & annotated satellite verification:",
+     "snippet": "🧵 1/6 COMBAT ANALYSIS & GEOINT\n\nSubject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video \n\nAdmiralty Grade: A1 (Confirmed Pinpoint) Coordinates: 14.321651, -5.899139 (Niono / Office du Niger Irrigation Scheme, Ségou Region, Mali 🇲🇱)\n\n👇 Full tactical breakdown & annotated satellite verification:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MorCam Intel Desk 🛰️",
+     "handle": "@MorCam_Intel"
+    },
+    {
+     "url": "https://x.com/MCNEWS_01/status/2113302297002512397",
+     "title": "#BreakingNews: 48 civilians reportedly killed in Mali attack.",
+     "description": "#BreakingNews: 48 civilians reportedly killed in Mali attack.\n\nAn attack attributed to Islamic State-linked militants reportedly killed 48 civilians in Mali’s eastern Ménaka region, according to a Tuareg leader cited by the Associated Press.\n\nChildren and elderly people were among the victims.\n\nThe attack highlights the continuing security challenges facing communities across the Sahel.",
+     "snippet": "#BreakingNews: 48 civilians reportedly killed in Mali attack.\n\nAn attack attributed to Islamic State-linked militants reportedly killed 48 civilians in Mali’s eastern Ménaka region, according to a Tuareg leader cited by the Associated Press.\n\nChildren and elderly people were among the victims.\n\nThe attack highlights the continuing security challenges facing communities across the Sahel.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MC NEWS",
+     "handle": "@MCNEWS_01"
+    },
+    {
+     "url": "https://x.com/sahelinfo223/status/2112903954426126666",
+     "title": "La lâcheté absolue. Incapables d'affronter l'armée, les terroristes de l'EI (EIGS) se vengent sur les civils : près de 100 hommes de la comm",
+     "description": "La lâcheté absolue. Incapables d'affronter l'armée, les terroristes de l'EI (EIGS) se vengent sur les civils : près de 100 hommes de la communauté Idaksahak exécutés et des familles entières chassées dans la région de Ménaka.\nAucun honneur, juste des barbares et des criminels sans pitié. Le monde doit voir cette horreur. #Ménaka #Mali #Idaksahak #AES",
+     "snippet": "La lâcheté absolue. Incapables d'affronter l'armée, les terroristes de l'EI (EIGS) se vengent sur les civils : près de 100 hommes de la communauté Idaksahak exécutés et des familles entières chassées dans la région de Ménaka.\nAucun honneur, juste des barbares et des criminels sans pitié. Le monde doit voir cette horreur. #Ménaka #Mali #Idaksahak #AES",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahelinfo223",
+     "handle": "@sahelinfo223"
+    },
+    {
+     "url": "https://x.com/sahelinfo223/status/2112937063914074165",
+     "title": "Frappe chirurgicale de l'Africa Corps : un drone a ciblé et neutralisé un rassemblement de terroristes de la coalition FLA et JNIM repérés a",
+     "description": "Frappe chirurgicale de l'Africa Corps : un drone a ciblé et neutralisé un rassemblement de terroristes de la coalition FLA et JNIM repérés au niveau d'un point de traversée.\n#AfricaCorps #Sahel #Mali #JNIM #FLA #Antiterrorisme #FAMA",
+     "snippet": "Frappe chirurgicale de l'Africa Corps : un drone a ciblé et neutralisé un rassemblement de terroristes de la coalition FLA et JNIM repérés au niveau d'un point de traversée.\n#AfricaCorps #Sahel #Mali #JNIM #FLA #Antiterrorisme #FAMA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahelinfo223",
+     "handle": "@sahelinfo223"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2113622865778016425",
+     "title": "Les combattants de l'État islamique #EIGS #EI ont déjà commencé à traquer les membres de la milice MSA, affiliée à l'armée terroriste malien",
+     "description": "Les combattants de l'État islamique #EIGS #EI  ont déjà commencé à traquer les membres de la milice MSA, affiliée à l'armée terroriste malienne, dans la région de #menaka \n#Mali \n#Sahel\nVidéo explicative",
+     "snippet": "Les combattants de l'État islamique #EIGS #EI  ont déjà commencé à traquer les membres de la milice MSA, affiliée à l'armée terroriste malienne, dans la région de #menaka \n#Mali \n#Sahel\nVidéo explicative",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    }
+   ]
+  }
+ ]
+}

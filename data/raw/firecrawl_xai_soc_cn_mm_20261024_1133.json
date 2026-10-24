@@ -1,0 +1,116 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/bnionline1/status/2112924560555458966",
+     "title": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work.",
+     "description": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "snippet": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Burma News International",
+     "handle": "@bnionline1"
+    },
+    {
+     "url": "https://x.com/World_Data_A/status/2113573395027624257",
+     "title": ". Is it a coincidence that the areas with rare earth in Myanmar are also conflict zones?",
+     "description": ".\nIs it a coincidence that the areas with rare earth in Myanmar are also conflict zones?\n\nIn northern Myanmar’s Kachin State, near the Chinese border, rare earth deposits overlap with areas controlled by armed groups like the KIO.\n\nAfter the KIO took control of the Chipwi–Pangwa area, China initially closed the border for rare earth-related imports and exports.\n\nRare earth mining in Myanmar has become closely tied to local conflicts. Armed groups use mining revenues to fund their operations, while China seeks stable access to these critical minerals. The result is a pattern where resource-rich border regions are also hotspots of fighting.\nSource: @CrisisGroup by Richard Horsey, Thomas Kean, Carolin Graf and David Muchiri Kimotho\nVisualisations and imagery by Claire Boccon-Gibod, Paul Franz, Ysé Angerer and Jorge Gutiérrez Lucena",
+     "snippet": ".\nIs it a coincidence that the areas with rare earth in Myanmar are also conflict zones?\n\nIn northern Myanmar’s Kachin State, near the Chinese border, rare earth deposits overlap with areas controlled by armed groups like the KIO.\n\nAfter the KIO took control of the Chipwi–Pangwa area, China initially closed the border for rare earth-related imports and exports.\n\nRare earth mining in Myanmar has become closely tied to local conflicts. Armed groups use mining revenues to fund their operations, while China seeks stable access to these critical minerals. The result is a pattern where resource-rich border regions are also hotspots of fighting.\nSource: @CrisisGroup by Richard Horsey, Thomas Kean, Carolin Graf and David Muchiri Kimotho\nVisualisations and imagery by Claire Boccon-Gibod, Paul Franz, Ysé Angerer and Jorge Gutiérrez Lucena",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "World Data Analysis",
+     "handle": "@World_Data_A"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2113596271286186248",
+     "title": "China's Myanmar policy is a masterclass in short-sighted pragmatism.",
+     "description": "China's Myanmar policy is a masterclass in short-sighted pragmatism. By betting entirely on a crumbling military junta just to secure oil and gas pipelines bypassing the Malacca Strait, Beijing thinks it's buying stability.\n\nhttps://www.irrawaddy.com/opinion/analysis/chinas-myanmar-policy-consistent-but-fundamentally-flawed.html",
+     "snippet": "China's Myanmar policy is a masterclass in short-sighted pragmatism. By betting entirely on a crumbling military junta just to secure oil and gas pipelines bypassing the Malacca Strait, Beijing thinks it's buying stability.\n\nhttps://www.irrawaddy.com/opinion/analysis/chinas-myanmar-policy-consistent-but-fundamentally-flawed.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/EconomicsofWar/status/2113134187612176494",
+     "title": "The AA's assault on Sittwe may be a result of them pushing back the Tatmadaw offensive from early September and finding themselves in an une",
+     "description": "The AA's assault on Sittwe may be a result of them pushing back the Tatmadaw offensive from early September and finding themselves in an unexpectedly good position as a result.   Kyaukphyu is of far more interest to Beijing.",
+     "snippet": "The AA's assault on Sittwe may be a result of them pushing back the Tatmadaw offensive from early September and finding themselves in an unexpectedly good position as a result.   Kyaukphyu is of far more interest to Beijing.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Economics of War",
+     "handle": "@EconomicsofWar"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112881500257767511",
+     "title": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.",
+     "description": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.\n\nThai, Burmese, and Chinese companies are all cashing in while the water stays contaminated.\n\nWhy the total silence on this, @MediaUnlock?\n\nhttps://t.co/rMTtWDoN7j",
+     "snippet": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.\n\nThai, Burmese, and Chinese companies are all cashing in while the water stays contaminated.\n\nWhy the total silence on this, @MediaUnlock?\n\nhttps://t.co/rMTtWDoN7j",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/UNSRHRMyanmar/status/2113240344779161995",
+     "title": "SUPPLY CHAIN ALERT🚨 @shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Meko",
+     "description": "SUPPLY CHAIN ALERT🚨\n@shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Mekong watershed. \nWorker conditions at the mine are extremely dangerous and unregulated, with accidents reportedly killing at least 20 workers being hushed up by local authorities. \n@ilo \n@EITIorg \n@Automotive_News \n#WhatsHappeningInMyanmar",
+     "snippet": "SUPPLY CHAIN ALERT🚨\n@shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Mekong watershed. \nWorker conditions at the mine are extremely dangerous and unregulated, with accidents reportedly killing at least 20 workers being hushed up by local authorities. \n@ilo \n@EITIorg \n@Automotive_News \n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kelley E. Currie, UN Special Rapporteur on Myanmar",
+     "handle": "@UNSRHRMyanmar"
+    },
+    {
+     "url": "https://x.com/CLECOfficial/status/2113571885514367303",
+     "title": "Myanmar's first corporate HSK test center opened at Myanmar Wanbao Mining Copper Ltd.",
+     "description": "Myanmar's first corporate HSK test center opened at Myanmar Wanbao Mining Copper Ltd. A total of 106 employees of the Monywa Copper Mine Project sat the inaugural HSK exam.\n\nCustomized workplace Chinese language training, jointly developed with Shandong Polytechnic College, helped learners prepare for the test. Many earned excellent scores, including full marks.\n\nIt is another success story of the \"Chinese +TVET\" initiative — a story of empowering local talent and supporting China-Myanmar industrial cooperation.\n\n#CLECInAction #HSK #ChinaMyanmarTies",
+     "snippet": "Myanmar's first corporate HSK test center opened at Myanmar Wanbao Mining Copper Ltd. A total of 106 employees of the Monywa Copper Mine Project sat the inaugural HSK exam.\n\nCustomized workplace Chinese language training, jointly developed with Shandong Polytechnic College, helped learners prepare for the test. Many earned excellent scores, including full marks.\n\nIt is another success story of the \"Chinese +TVET\" initiative — a story of empowering local talent and supporting China-Myanmar industrial cooperation.\n\n#CLECInAction #HSK #ChinaMyanmarTies",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Center for Language Education and Cooperation",
+     "handle": "@CLECOfficial"
+    },
+    {
+     "url": "https://x.com/minkhaung404/status/2112820797647761773",
+     "title": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting sta",
+     "description": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources. #Myanmar\n@XHNews\n@cnnbrk\n@ChinaDaily",
+     "snippet": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources. #Myanmar\n@XHNews\n@cnnbrk\n@ChinaDaily",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Min Khaung",
+     "handle": "@minkhaung404"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2113595102186909963",
+     "title": "Between 2017 and 2024, Myanmar supplied over 60% of China’s rare earth imports.",
+     "description": "Between 2017 and 2024, Myanmar supplied over 60% of China’s rare earth imports. Now, superpowers like US want to get a share of that\n\nBut best part is that it won't even work. US is cozying up to a failing military regime, ignoring the EAOs that are actually controlling mines",
+     "snippet": "Between 2017 and 2024, Myanmar supplied over 60% of China’s rare earth imports. Now, superpowers like US want to get a share of that\n\nBut best part is that it won't even work. US is cozying up to a failing military regime, ignoring the EAOs that are actually controlling mines",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/Cinnamon_Xiaose/status/2112995925920821369",
+     "title": "Everyone knows it man. There's a lot at play for Sittwe. It's known that AA is restrained because of the Chinese and that has been kind of a",
+     "description": "Everyone knows it man. There's a lot at play for Sittwe. It's known that AA is restrained because of the Chinese and that has been kind of a diplomatic shield for junta but if AA is attacking now, that means they either got green light or less pressure from the Chinese-",
+     "snippet": "Everyone knows it man. There's a lot at play for Sittwe. It's known that AA is restrained because of the Chinese and that has been kind of a diplomatic shield for junta but if AA is attacking now, that means they either got green light or less pressure from the Chinese-",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "萧瑟 🇲🇲",
+     "handle": "@Cinnamon_Xiaose"
+    }
+   ]
+  }
+ ]
+}
