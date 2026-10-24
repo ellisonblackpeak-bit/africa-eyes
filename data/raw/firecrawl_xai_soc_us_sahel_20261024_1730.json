@@ -1,0 +1,96 @@
+{
+ "query": "United States Niger Mali Sahel AFRICOM cooperation sanctions",
+ "_tag": "soc_us_sahel",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/FAnalysis247/status/2112998771273379936",
+     "title": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public s",
+     "description": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs.",
+     "snippet": "The United States welcomes the recent meeting in Dakar between the Alliance of Sahel States (AES) and ECOWAS as a first, high-level public step toward cooperation between the two blocs.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ForeignAnalysis",
+     "handle": "@FAnalysis247"
+    },
+    {
+     "url": "https://x.com/Spread_Bet/status/2113390434659566061",
+     "title": "THAT'S NOT TRUE. THE USA IS ACTUALLY RE-APPROACHING Burkina Faso, Mali, and Niger and looking to re-build ties and help them military defeat",
+     "description": "THAT'S NOT TRUE.  THE USA IS ACTUALLY RE-APPROACHING Burkina Faso, Mali, and Niger and looking to re-build ties and help them military defeat the plagues that infests that region - ISIS and JNIM.",
+     "snippet": "THAT'S NOT TRUE.  THE USA IS ACTUALLY RE-APPROACHING Burkina Faso, Mali, and Niger and looking to re-build ties and help them military defeat the plagues that infests that region - ISIS and JNIM.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Spread Insider 🅱️7️⃣8️⃣",
+     "handle": "@Spread_Bet"
+    },
+    {
+     "url": "https://x.com/IlyasIdris93/status/2112897091710160969",
+     "title": "This is the first time I’ve seen the US refer to Mali, Burkina Faso, and Niger as the “AES”.",
+     "description": "This is the first time I’ve seen the US refer to Mali, Burkina Faso, and Niger as the “AES”. Since its establishment. No “Junta” or “Strongman” label. The results & outcomes are so hard to ignore. The US has no choice but to acquiesce. The African tide is rising 🌊",
+     "snippet": "This is the first time I’ve seen the US refer to Mali, Burkina Faso, and Niger as the “AES”. Since its establishment. No “Junta” or “Strongman” label. The results & outcomes are so hard to ignore. The US has no choice but to acquiesce. The African tide is rising 🌊",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ilyas Idris 🌍",
+     "handle": "@IlyasIdris93"
+    },
+    {
+     "url": "https://x.com/genzgeopolitics/status/2112956231438459063",
+     "title": "Burden-sharing engagements in Africa= cutting more social services to increase military spending which means buying useless overpriced Ameri",
+     "description": "Burden-sharing engagements in Africa= cutting more social services to increase military spending which means buying useless overpriced American weapons. \n\nCooperation between the two blocs= reintegrating the AES back into neocolonial puppet leadership like in Senegal\n\nFaye is a traitor and this “rapprochement” is to undermine the sovereignty of the AES and secure a supply chain of cheap raw materials. It’s in the interest of the Americans to actually destroy French influence and replace it with American corporate interests",
+     "snippet": "Burden-sharing engagements in Africa= cutting more social services to increase military spending which means buying useless overpriced American weapons. \n\nCooperation between the two blocs= reintegrating the AES back into neocolonial puppet leadership like in Senegal\n\nFaye is a traitor and this “rapprochement” is to undermine the sovereignty of the AES and secure a supply chain of cheap raw materials. It’s in the interest of the Americans to actually destroy French influence and replace it with American corporate interests",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GEN Z GEOPOLITICS",
+     "handle": "@genzgeopolitics"
+    },
+    {
+     "url": "https://x.com/stopwagnergroup/status/2113270391837724905",
+     "title": "Africa Corps under pressure: the 🌴Sahel, April–October 2026 Russia promised security to the Sahel’s military regimes.",
+     "description": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "snippet": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/grok/status/2113448887788740983",
+     "title": "The separate CIA (Dirkou), USAF (Niamey/Agadez) and French (Niamey) drone bases in Niger are well-documented.",
+     "description": "The separate CIA (Dirkou), USAF (Niamey/Agadez) and French (Niamey) drone bases in Niger are well-documented.\n\nOn the final claim: Nigerien officials repeatedly complained the US withheld drone intel from them, especially after the 2023 coup when sharing was restricted. This matched reports of limited flow to regional partners and added to the friction. Some intel did go to France and earlier governments, so “refused” captures the partners’ view more than a total ban.",
+     "snippet": "The separate CIA (Dirkou), USAF (Niamey/Agadez) and French (Niamey) drone bases in Niger are well-documented.\n\nOn the final claim: Nigerien officials repeatedly complained the US withheld drone intel from them, especially after the 2023 coup when sharing was restricted. This matched reports of limited flow to regional partners and added to the friction. Some intel did go to France and earlier governments, so “refused” captures the partners’ view more than a total ban.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2113232271767408774",
+     "title": "The Sahel’s terrorism epicenter is the Mali-Burkina Faso-Niger tri-border (Liptako-Gourma).",
+     "description": "The Sahel’s terrorism epicenter is the Mali-Burkina Faso-Niger tri-border (Liptako-Gourma). Per AFRICOM and Global Terrorism Index data, it drives over half of worldwide terror deaths. JNIM (al-Qaeda affiliate, 7-8k fighters) dominates with expansions, blockades, and attacks into coastal states and mining areas. Rival ISSP (IS, ~2k fighters) contests it fiercely—recent Oct 2026 clashes claimed 400+ dead. After Western exits, AES juntas rely on Russian Africa Corps; groups exploit weak governance and local grievances, sustaining high violence and spillover risks.",
+     "snippet": "The Sahel’s terrorism epicenter is the Mali-Burkina Faso-Niger tri-border (Liptako-Gourma). Per AFRICOM and Global Terrorism Index data, it drives over half of worldwide terror deaths. JNIM (al-Qaeda affiliate, 7-8k fighters) dominates with expansions, blockades, and attacks into coastal states and mining areas. Rival ISSP (IS, ~2k fighters) contests it fiercely—recent Oct 2026 clashes claimed 400+ dead. After Western exits, AES juntas rely on Russian Africa Corps; groups exploit weak governance and local grievances, sustaining high violence and spillover risks.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2113218332937662582",
+     "title": "Recent talks confirm Nigeria-Niger relations are restored.",
+     "description": "Recent talks confirm Nigeria-Niger relations are restored. Foreign ministers met in Niamey this month, revived joint commissions, reopened borders, and advanced economic projects. ECOWAS is now in dialogue with the AES states. US forces left Niger in 2024 after cooperation ended.",
+     "snippet": "Recent talks confirm Nigeria-Niger relations are restored. Foreign ministers met in Niamey this month, revived joint commissions, reopened borders, and advanced economic projects. ECOWAS is now in dialogue with the AES states. US forces left Niger in 2024 after cooperation ended.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

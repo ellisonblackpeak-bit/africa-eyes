@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Sahelinfos24/status/2113680130820452364",
+     "title": "#Mali: Des informations locales et internationales indiquent que des terroristes affiliés à l'#EIGS ont peut-être tué des dizaines de civils",
+     "description": "#Mali: Des informations locales et internationales indiquent que des  terroristes affiliés à l'#EIGS ont peut-être tué des dizaines de civils  lors d'attaques dans l'est de #Ménaka les 17 et 18 octobre, certaines  informations locales situant le bilan bien plus élevé, allant jusqu'à 100. Les rapports nécessitent des vérifications supplémentaires, mais  ils renforcent la crise urgente de protection des civils dans la région.  Les habitants signalent de fréquentes menaces proférées par le #JNIM et  l'#EIGS contre des civils, les contraignant à apporter leur soutien.",
+     "snippet": "#Mali: Des informations locales et internationales indiquent que des  terroristes affiliés à l'#EIGS ont peut-être tué des dizaines de civils  lors d'attaques dans l'est de #Ménaka les 17 et 18 octobre, certaines  informations locales situant le bilan bien plus élevé, allant jusqu'à 100. Les rapports nécessitent des vérifications supplémentaires, mais  ils renforcent la crise urgente de protection des civils dans la région.  Les habitants signalent de fréquentes menaces proférées par le #JNIM et  l'#EIGS contre des civils, les contraignant à apporter leur soutien.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Info 24",
+     "handle": "@Sahelinfos24"
+    },
+    {
+     "url": "https://x.com/TheObserverLens/status/2113464382466474375",
+     "title": "BREAKING: 🇲🇱 The ISSP killed 48 civilians, including children and the elderly, across Ménaka Region in eastern Mali on Sunday night, a Tuare",
+     "description": "BREAKING: 🇲🇱 The ISSP killed 48 civilians, including children and the elderly, across Ménaka Region in eastern Mali on Sunday night, a Tuareg leader and lawmaker says.\n\n— AP",
+     "snippet": "BREAKING: 🇲🇱 The ISSP killed 48 civilians, including children and the elderly, across Ménaka Region in eastern Mali on Sunday night, a Tuareg leader and lawmaker says.\n\n— AP",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Observer Lens",
+     "handle": "@TheObserverLens"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2113172882268258648",
+     "title": "Suspected #IslamicState Greater Sahara (#ISGS/ISSP) Militants Led an Armed Assault, Killing 48 Civilians in Menaka Region, #Mali Read more:",
+     "description": "Suspected #IslamicState Greater Sahara (#ISGS/ISSP) Militants Led an Armed Assault, Killing 48 Civilians in Menaka Region, #Mali\nRead more: https://trackingterrorism.org/chatter/suspected-isgs-issp-led-an-armed-assault-killing-48-civilians/",
+     "snippet": "Suspected #IslamicState Greater Sahara (#ISGS/ISSP) Militants Led an Armed Assault, Killing 48 Civilians in Menaka Region, #Mali\nRead more: https://trackingterrorism.org/chatter/suspected-isgs-issp-led-an-armed-assault-killing-48-civilians/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2113734177824834026",
+     "title": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM Une patrouille des FAmas à la solde de l",
+     "description": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM \n\nUne patrouille des FAmas à la solde de la junte terroriste de Bamako, est tombée dans la soirée de ce Vendredi 23 Octobre, dans une embuscade tendue par le JNIM entre Djermane et Djarkane dans la région de Sikasso.\n\nDes pertes en vies humaines devraient sans surprise être enregistrées au cours de cet incident sécuritaire.",
+     "snippet": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM \n\nUne patrouille des FAmas à la solde de la junte terroriste de Bamako, est tombée dans la soirée de ce Vendredi 23 Octobre, dans une embuscade tendue par le JNIM entre Djermane et Djarkane dans la région de Sikasso.\n\nDes pertes en vies humaines devraient sans surprise être enregistrées au cours de cet incident sécuritaire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/SahelAlerte/status/2113725494302798144",
+     "title": "🚨 Urgent | Mali 🇲🇱 Le JNIM affirme avoir tendu une embuscade à une patrouille de l’armée malienne entre les localités de Djermane et Djarkan",
+     "description": "🚨 Urgent | Mali 🇲🇱\n\nLe JNIM affirme avoir tendu une embuscade à une patrouille de l’armée malienne entre les localités de Djermane et Djarkane, dans la région de Sikasso, dans la soirée de ce vendredi 23 octobre 2026.",
+     "snippet": "🚨 Urgent | Mali 🇲🇱\n\nLe JNIM affirme avoir tendu une embuscade à une patrouille de l’armée malienne entre les localités de Djermane et Djarkane, dans la région de Sikasso, dans la soirée de ce vendredi 23 octobre 2026.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/stopwagnergroup/status/2113270391837724905",
+     "title": "Africa Corps under pressure: the 🌴Sahel, April–October 2026 Russia promised security to the Sahel’s military regimes.",
+     "description": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "snippet": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/MCNEWS_01/status/2113302297002512397",
+     "title": "#BreakingNews: 48 civilians reportedly killed in Mali attack.",
+     "description": "#BreakingNews: 48 civilians reportedly killed in Mali attack.\n\nAn attack attributed to Islamic State-linked militants reportedly killed 48 civilians in Mali’s eastern Ménaka region, according to a Tuareg leader cited by the Associated Press.\n\nChildren and elderly people were among the victims.\n\nThe attack highlights the continuing security challenges facing communities across the Sahel.",
+     "snippet": "#BreakingNews: 48 civilians reportedly killed in Mali attack.\n\nAn attack attributed to Islamic State-linked militants reportedly killed 48 civilians in Mali’s eastern Ménaka region, according to a Tuareg leader cited by the Associated Press.\n\nChildren and elderly people were among the victims.\n\nThe attack highlights the continuing security challenges facing communities across the Sahel.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MC NEWS",
+     "handle": "@MCNEWS_01"
+    },
+    {
+     "url": "https://x.com/Milatrud11/status/2113397334054694979",
+     "title": "1b)🇲🇱 Mali: Attack by ISSP killed up to 70 people in at least five localities in the Ménaka region on Oct 18,2026: The killings were an appa",
+     "description": "1b)🇲🇱 Mali: Attack by ISSP killed up to 70 people in at least five localities in the Ménaka region on Oct 18,2026:\nThe killings were an apparent retaliation for an attack on suspected informants by pro-govt MSA and Africa Corps https://www.msn.com/en-nz/news/other/isis-militants-slaughter-up-to-70-with-some-burned-alive-amid-clashes-with-al-qaeda-in-mali/ar-AA2fFdSM",
+     "snippet": "1b)🇲🇱 Mali: Attack by ISSP killed up to 70 people in at least five localities in the Ménaka region on Oct 18,2026:\nThe killings were an apparent retaliation for an attack on suspected informants by pro-govt MSA and Africa Corps https://www.msn.com/en-nz/news/other/isis-militants-slaughter-up-to-70-with-some-burned-alive-amid-clashes-with-al-qaeda-in-mali/ar-AA2fFdSM",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mila",
+     "handle": "@Milatrud11"
+    },
+    {
+     "url": "https://x.com/EyeThink_/status/2112794389957468277",
+     "title": "[🇲🇱MALI] Au moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao,",
+     "description": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "snippet": "[🇲🇱MALI]\n\nAu moins 19 soldats maliens capturés ont été torturés et exécutés après l’attaque du 18 juillet à Tabrichat, dans la région de Gao, selon HRW. Le convoi de l’armée et de l’Africa Corps russe avait été attaqué par le Jnim et le FLA.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eye Think",
+     "handle": "@EyeThink_"
+    },
+    {
+     "url": "https://x.com/AKIIXVIIII/status/2112942438482375112",
+     "title": "Ciekawostka z Mali 🇲🇱 Wygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utraco",
+     "description": "Ciekawostka z Mali 🇲🇱\n\nWygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utracony w kwietniu Kidal.\n\nFLA oraz JNIM ogłosiły „strategiczne wycofanie”. \n\nRebelianci i dżihadyści od pewnego czasu znajdowali się pod sporą presją Junty oraz Rosjan – głównie w postaci nalotów, dronów i podobnych działań.\n\nWarto podkreślić, że nie było większych walk lądowych: miasto opuszczono, a nie zdobyto w boju.\n\n(Zresztą po ostatnich walkach i bombardowaniach i tak już było wyludnione.)\n\nTo już trzecia taka zmiana w krótkim czasie. \n\nZatem to bardziej symboliczne odzyskanie bastionu niż przełom.\n\nW tym układzie rebeliantów nie rozbito, a JNIM i FLA nadal działają w regionie.\n\nPomoc Africa Corps, która daje wsparcie lotnicze i sprzęt, pomogła Juncie. \n\nNie przeważa to jednak trwale szali zwycięstwa na stronę sił rządowych.\n\nTo jednak nie wszystko. \n\nRosjanie coraz mocniej umacniają swoją obecność w Mali – już nie tylko na poziomie militarnym, ale również gospodarczym.\n\nBamako podpisało z Rosyjskim Kamazem kontrakt na ok. 51 mln USD (30 mld CFA) obejmujący ciężarówki, serwis i szkolenia.\n\nPoza Sahelem Rosjanie inwestują też coraz silniej w soft power: otwierają tzw. „Russian Houses” (rosyjskie centra kultury i nauki działające za granicą), rozbudowują sieć Rosyjskiej Cerkwi Prawosławnej (m. in. na Madagaskarze) i wzmacniają kontakty akademickie.🇷🇺\n\nNa forach międzynarodowych Moskwa mówi o suwerenności Afryki, a jednocześnie umacnia wojskowe junty i zwiększa ich zależność od siebie.\n\nMamy tu zatem realną ekspansję wpływów w Mali i innych państwach kontynentu afrykańskiego.\n\nWróćmy jednak do Mali 🇲🇱\n\nA zatem jednego decydującego zwycięstwa militarnego w Mali nie było i raczej wątpię, aby prędko nastąpiło.\n\nA pojedyncze sukcesy, nie zrekompensują poprzednich strat.\n\nTo klasyczny schemat: wsparcie dla władzy w zamian za dostęp i wpływy, przy ograniczonej zdolności do trwałego ustabilizowania sytuacji na miejscu.\n\nZ drugiej strony rosyjska projekcja soft power i alokacja dodatkowych zasobów militarnych wskazują, że Rosja albo dysponuje nadwyżkowymi zasobami, albo sytuacja w Mali była już tak krytyczna, że nie mieli wyjścia i przesunęli dodatkowe środki, by ustabilizować sytuację i nie stracić twarzy jako dostawcy bezpieczeństwa w regionie.\n\nCiekawe pytanie 🤔 – zobaczymy, na jak długo Juncie i Rosjanom uda się utrzymać kontrolę nad miastem.\n\nŹrudło  - Ma. Rangel - Rojas",
+     "snippet": "Ciekawostka z Mali 🇲🇱\n\nWygląda na to, że Juncie wraz z rosyjskimi najemnikami z Africa Corps udało się około 6–7 października odzyskać utracony w kwietniu Kidal.\n\nFLA oraz JNIM ogłosiły „strategiczne wycofanie”. \n\nRebelianci i dżihadyści od pewnego czasu znajdowali się pod sporą presją Junty oraz Rosjan – głównie w postaci nalotów, dronów i podobnych działań.\n\nWarto podkreślić, że nie było większych walk lądowych: miasto opuszczono, a nie zdobyto w boju.\n\n(Zresztą po ostatnich walkach i bombardowaniach i tak już było wyludnione.)\n\nTo już trzecia taka zmiana w krótkim czasie. \n\nZatem to bardziej symboliczne odzyskanie bastionu niż przełom.\n\nW tym układzie rebeliantów nie rozbito, a JNIM i FLA nadal działają w regionie.\n\nPomoc Africa Corps, która daje wsparcie lotnicze i sprzęt, pomogła Juncie. \n\nNie przeważa to jednak trwale szali zwycięstwa na stronę sił rządowych.\n\nTo jednak nie wszystko. \n\nRosjanie coraz mocniej umacniają swoją obecność w Mali – już nie tylko na poziomie militarnym, ale również gospodarczym.\n\nBamako podpisało z Rosyjskim Kamazem kontrakt na ok. 51 mln USD (30 mld CFA) obejmujący ciężarówki, serwis i szkolenia.\n\nPoza Sahelem Rosjanie inwestują też coraz silniej w soft power: otwierają tzw. „Russian Houses” (rosyjskie centra kultury i nauki działające za granicą), rozbudowują sieć Rosyjskiej Cerkwi Prawosławnej (m. in. na Madagaskarze) i wzmacniają kontakty akademickie.🇷🇺\n\nNa forach międzynarodowych Moskwa mówi o suwerenności Afryki, a jednocześnie umacnia wojskowe junty i zwiększa ich zależność od siebie.\n\nMamy tu zatem realną ekspansję wpływów w Mali i innych państwach kontynentu afrykańskiego.\n\nWróćmy jednak do Mali 🇲🇱\n\nA zatem jednego decydującego zwycięstwa militarnego w Mali nie było i raczej wątpię, aby prędko nastąpiło.\n\nA pojedyncze sukcesy, nie zrekompensują poprzednich strat.\n\nTo klasyczny schemat: wsparcie dla władzy w zamian za dostęp i wpływy, przy ograniczonej zdolności do trwałego ustabilizowania sytuacji na miejscu.\n\nZ drugiej strony rosyjska projekcja soft power i alokacja dodatkowych zasobów militarnych wskazują, że Rosja albo dysponuje nadwyżkowymi zasobami, albo sytuacja w Mali była już tak krytyczna, że nie mieli wyjścia i przesunęli dodatkowe środki, by ustabilizować sytuację i nie stracić twarzy jako dostawcy bezpieczeństwa w regionie.\n\nCiekawe pytanie 🤔 – zobaczymy, na jak długo Juncie i Rosjanom uda się utrzymać kontrolę nad miastem.\n\nŹrudło  - Ma. Rangel - Rojas",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AK",
+     "handle": "@AKIIXVIIII"
+    }
+   ]
+  }
+ ]
+}
