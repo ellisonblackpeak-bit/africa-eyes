@@ -2,9 +2,93 @@
  "success": true,
  "results": [
   {
-   "title": "Iran’s parliament speaker Mohammad Bagher Ghalibaf to skip BRICS forum in New Delhi",
+   "title": "17 Kuki militants under SoO deal arrested in Manipur; mismatch found in identities",
+   "url": "https://www.hindustantimes.com/india-news/17-kuki-militants-under-soo-deal-arrested-in-manipur-mismatch-found-in-identities-101792848936744.html",
+   "content": "The operation was carried out in Mt Sinai Camp, Saimol village, a day after three persons from the Meitei community were killed in an attack.",
+   "published_date": "Sat, 24 Oct 2026 19:26:57 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology",
+   "url": "https://www.hindustantimes.com/india-news/farooq-abdullah-says-pakistan-protecting-kashmiris-bjp-demands-apology-101792846393898.html",
+   "content": "The former Jammu and Kashmir CM made the remarks at a party event in Baramulla district of Kashmir Valley.",
+   "published_date": "Sat, 24 Oct 2026 19:26:17 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Defence secretary Rajesh Kumar Singh gets one-year extension in Centre's big move",
+   "url": "https://www.hindustantimes.com/india-news/centre-extends-defence-secretary-rajesh-kumar-singhs-tenure-by-two-years-101792831308390.html",
+   "content": "Since May 31 this year, Singh has also held additional charge as secretary, Department of Defence Research and Development, and chairman of the DRDO.",
+   "published_date": "Sat, 24 Oct 2026 18:59:27 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Chandrababu Naidu compares Jagan Mohan Reddy to 'Kamsa' from Mahabharata over niece’s wedding row",
+   "url": "https://www.hindustantimes.com/india-news/chandrababu-naidu-compares-jagan-mohan-reddy-to-kamsa-from-mahabharata-over-niece-s-wedding-row-101792847387644.html",
+   "content": "Naidu said the public should understand what he described as Jagan’s dangerous mindset and alleged that his overall approach was driven by destruction.",
+   "published_date": "Sat, 24 Oct 2026 18:58:31 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Hacker group claims to have accessed 86.3 lakh Rajasthan police emails; probe on",
+   "url": "https://www.hindustantimes.com/india-news/hacker-group-claims-to-have-accessed-86-3-lakh-rajasthan-police-emails-probe-on-101792841130698.html",
+   "content": "Cyber Crime DIG Shantanu Kumar said multiple teams were examining the claims.",
+   "published_date": "Sat, 24 Oct 2026 18:51:10 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Demand for students' union, row over ‘slogans’ trigger tensions in Jamia Millia Islamia",
+   "url": "https://www.hindustantimes.com/india-news/demand-for-students-union-row-over-slogans-jamia-millia-islamia-to-shift-classes-online-protest-news-101792837745742.html",
+   "content": "The students of JMI have been protesting over the past couple of weeks, demanding restoration of students’ union, which was dissolved in 2006.",
+   "published_date": "Sat, 24 Oct 2026 18:47:59 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "West Bengal CM Suvendu Adhikari begins preparations for first Gangasagar Mela under BJP govt",
+   "url": "https://www.hindustantimes.com/india-news/west-bengal-cm-suvendu-adhikari-begins-preparations-for-first-gangasagar-mela-under-bjp-govt-101792845592231.html",
+   "content": "Held every January on Makar Sankranti, the Gangasagar Mela draws millions of Hindu pilgrims to Sagar Island in West Bengal’s South 24 Parganas district.",
+   "published_date": "Sat, 24 Oct 2026 18:29:29 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "HT Evening News Brief Oct 24: Jamia moves classes online amid protests; India beat New Zealand to take 2-0 lead in T20I series",
+   "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-oct-24-jamia-millia-protests-online-classes-mumbai-mans-jem-related-posts-india-vs-new-zealand-101792842912123.html",
+   "content": "Here are the top updates from across the country, the world and from the field of sports and entertainment.",
+   "published_date": "Sat, 24 Oct 2026 18:20:09 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "JDU expels Mokama MLA Anant Singh from party for 6 years, days after controversial remarks spark row",
+   "url": "https://www.hindustantimes.com/india-news/jdu-expels-mokama-mla-anant-singh-from-party-for-6-years-over-controversial-remarks-101792845822306.html",
+   "content": "JDU expels Mokama MLA Anant Singh from party for 6 years over controversial remarks",
+   "published_date": "Sat, 24 Oct 2026 18:19:03 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "18-month-old allegedly killed by elder brother in Bihar; head found at village temple",
+   "url": "https://www.hindustantimes.com/india-news/18monthold-allegedly-killed-by-elder-brother-in-bihar-head-found-at-village-temple-101792840151507.html",
+   "content": "Villagers discovered the child’s head at the temple, following which police reached the spot and launched an investigation.",
+   "published_date": "Sat, 24 Oct 2026 18:05:09 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Karnataka CM clears prosecution of IAS officer over alleged KPSC exam paper leak: ‘No room for corruption’",
+   "url": "https://www.hindustantimes.com/india-news/karnataka-cm-d-k-shivakumar-clears-prosecution-of-ias-officer-gyanendra-kumar-gangwar-over-alleged-kpsc-exam-paper-leak-no-room-for-corruption-101792843021123.html",
+   "content": "The KPSC recruitment question paper allegedly leaked earlier this year. Candidates paid up to ₹40 lakh to access the questions and answers before the test.",
+   "published_date": "Sat, 24 Oct 2026 17:56:26 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Trump invokes Operation Sindoor at US midterm poll rallies, claims 250% tariff threat stopped India-Pakistan war",
+   "url": "https://www.hindustantimes.com/india-news/trump-invokes-operation-sindoor-at-us-midterm-poll-rallies-claims-250-tariff-threat-stopped-india-pakistan-war-101792837156172.html",
+   "content": "Trump linked his claim to the military confrontation that followed India's launch of Operation Sindoor in May 2025.",
+   "published_date": "Sat, 24 Oct 2026 17:54:59 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Iran’s parliament speaker Mohammad Bagher Ghalibaf to skip Brics forum in New Delhi",
    "url": "https://www.hindustantimes.com/india-news/irans-parliament-speaker-mohammad-bagher-ghalibaf-to-skip-brics-forum-in-new-delhi-unforeseen-circumstances-101792840172755.html",
-   "content": "Iran’s parliamentary speaker Mohammad Ghalibaf to skip BRICS forum in New Delhi",
+   "content": "An Iranian parliamentary delegation would participate in the meeting in place of Mohammad Ghalibaf in the Brics forum in India.",
    "published_date": "Sat, 24 Oct 2026 16:42:28 +0530",
    "score": 0.6
   },
@@ -261,7 +345,7 @@
    "score": 0.6
   },
   {
-   "title": "Anti-SIR protest LIVE: 'Not questioning govt peace?' asks Neha Bora; says Central Park protest call not given by AISA",
+   "title": "Anti-SIR protest LIVE: SEM hands over documents cited by Delhi Police in show-cause notice issued to Neha Bora",
    "url": "https://www.hindustantimes.com/india-news/anti-sir-delhi-protest-live-updates-aisa-neha-cjp-bora-dipke-yogendra-yadav-cec-gyanesh-kumar-latest-congress-rahul-sir-101792811299351.html",
    "content": "Anti-SIR protest LIVE: CJP leaders have vowed to continue their movement against the special intensive revision (SIR) of electoral rolls. Meanwhile, activist Yogendra Yadav has called for a “human chain” against “vote chori” at 4 pm in Hyderabad.",
    "published_date": "Sat, 24 Oct 2026 09:38:07 +0530",
@@ -615,90 +699,6 @@
    "url": "https://www.hindustantimes.com/india-news/bomb-threat-note-in-kolkata-airport-toilet-triggers-search-flight-ops-unaffected-101792747358941.html",
    "content": "A handwritten bomb threat on tissue paper was found in a women’s toilet at Kolkata airport on Friday, prompting a search by the bomb squad and CISF personnel.",
    "published_date": "Fri, 23 Oct 2026 15:40:08 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Diljit Dosanjh's Delhi concert granted permission after meetings between police and organisers",
-   "url": "https://www.hindustantimes.com/india-news/singer-diljit-dosanjhs-delhi-concert-granted-permission-after-meetings-between-police-and-organisers-101792749650876.html",
-   "content": "Event organiser BookMyShow Live confirmed the development and said that the permissions were \"temporarily withheld” and not cancelled.",
-   "published_date": "Fri, 23 Oct 2026 15:33:47 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "‘Attempt to soft launch son’: BJP claims Raihan Vadra was made to add political artwork before his exhibit",
-   "url": "https://www.hindustantimes.com/india-news/bjp-claims-raihan-vadra-was-made-to-add-political-artwork-before-his-exhibit-bikaner-house-rahul-priyanka-soft-launch-101792747667857.html",
-   "content": "Pradeep Bhandari said that Raihan Vadra was made to include political artwork under the pressure of his family for a political launch.",
-   "published_date": "Fri, 23 Oct 2026 15:18:49 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Delhi HC says hygienic public toilets part of right to life, proposes their surprise inspection in MCD limits",
-   "url": "https://www.hindustantimes.com/india-news/delhi-hc-says-hygienic-public-toilets-part-of-right-to-life-proposes-their-surprise-inspection-in-mcd-limits-101792748604824.html",
-   "content": "Delhi HC says hygienic public toilets part of right to life, proposes their surprise inspection in MCD limits",
-   "published_date": "Fri, 23 Oct 2026 15:13:24 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Brics Parliamentary Forum to focus on AI ethics, global challenges: Om Birla",
-   "url": "https://www.hindustantimes.com/india-news/brics-parliamentary-forum-to-focus-on-ai-ethics-global-challenges-om-birla-101792748518273.html",
-   "content": "Birla said the forum will focus on discussions on global challenges, the proper and human-centric use of AI, parliamentary best practices and capacity building",
-   "published_date": "Fri, 23 Oct 2026 15:11:57 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "TVK-led bloc, DMK walk out of ECI meeting in Tamil Nadu, seek CEC’s resignation",
-   "url": "https://www.hindustantimes.com/india-news/tamil-nadu-ruling-bloc-dmk-reps-walk-out-of-eci-meeting-seek-cec-s-resignation-101792748274873.html",
-   "content": "Minister CTR Nirmal Kumar said ruling Tamilaga Vettri Kazhagam has opposed the SIR from the beginning",
-   "published_date": "Fri, 23 Oct 2026 15:07:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "‘Enough clean chits to China’: Mallikarjun Kharge, Congress questions PM Modi over security, trade",
-   "url": "https://www.hindustantimes.com/india-news/enough-clean-chits-to-china-mallikarjun-kharge-congress-questions-pm-modi-over-security-trade-101792747103462.html",
-   "content": "Kharge’s remarks came after ITBP chief Shatrujeet Kapoor said that face-offs with Chinese PLA troops were continuing along the Arunachal Pradesh border",
-   "published_date": "Fri, 23 Oct 2026 15:05:37 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Cong MP Venugopal slams Keralam guv's reported 'veg-only kitchen' order, Lok Bhavan denies any food restrictions for employees",
-   "url": "https://www.hindustantimes.com/india-news/cong-mp-venugopal-slams-keralam-guv-s-reported-veg-only-kitchen-order-lok-bhavan-denies-any-food-restrictions-for-employees-101792748046126.html",
-   "content": "Cong MP Venugopal slams Keralam guv's reported 'veg-only kitchen' order, Lok Bhavan denies any food restrictions for employees",
-   "published_date": "Fri, 23 Oct 2026 15:04:05 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "An announcement, panic, then 19 crushed: Man behind Kolkata's Chor Bagan pandal ‘collapse’ call arrested",
-   "url": "https://www.hindustantimes.com/india-news/an-announcement-panic-then-19-crushed-man-behind-kolkata-chorbagan-pandal-collapse-call-arrested-101792734731924.html",
-   "content": "Police say an announcement that the Chor Bagan Durga Puja pandal was collapsing may have sparked panic and a stampede on October 17, killing 19 people.",
-   "published_date": "Fri, 23 Oct 2026 14:55:39 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "‘UNSC struggling to deliver peace’: India pushes for UN body's reform, says 1945 cannot define world order",
-   "url": "https://www.hindustantimes.com/india-news/unsc-struggling-to-deliver-peace-india-pushes-for-un-bodys-reform-says-1945-cannot-define-world-order-101792736847459.html",
-   "content": "At UN General Assembly, Indian diplomat Harish Parvathaneni said that today’s generation is far removed from the time when this organisation was formed.",
-   "published_date": "Fri, 23 Oct 2026 14:45:52 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Unusual names surface in UP voter rolls across 11 constituencies, authorities blame translation",
-   "url": "https://www.hindustantimes.com/india-news/unusual-names-surface-in-up-voter-rolls-across-11-constituencies-authorities-blame-translation-101792739612608.html",
-   "content": "The chief electoral officer said 158 of 14.81 lakh entries contained irregularities, largely due to software translating names instead of transliterating them.",
-   "published_date": "Fri, 23 Oct 2026 14:37:51 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "CP, Nehru Place part of Delhi traffic advisory issued over protest march to ECI office",
-   "url": "https://www.hindustantimes.com/india-news/cp-nehru-place-part-of-delhi-traffic-advisory-issued-over-protest-march-to-eci-office-101792743969998.html",
-   "content": "Delhi Traffic Police on Friday issued an advisory covering several key areas of the city in view of the anticipated high turnout in the protest march to ECI.",
-   "published_date": "Fri, 23 Oct 2026 14:32:37 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "At least 4 women injured in police tear gas shelling on anti-dam protesters in Arunachal Pradesh",
-   "url": "https://www.hindustantimes.com/india-news/at-least-4-women-injured-in-police-tear-gas-shelling-on-anti-dam-protesters-in-arunachal-pradesh-101792744162088.html",
-   "content": "The incident occurred at the 65 Bridge in Dite-Dime, where a large number of people had gathered in support of the shutdown when tensions escalated around 7 am.",
-   "published_date": "Fri, 23 Oct 2026 14:15:15 +0530",
    "score": 0.6
   }
  ],
