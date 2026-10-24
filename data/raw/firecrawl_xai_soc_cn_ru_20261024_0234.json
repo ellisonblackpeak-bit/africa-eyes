@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/China_Amb_India/status/2113219309359251721",
+     "title": "Premier Li Qiang met with Russian President Vladimir Putin in St.",
+     "description": "Premier Li Qiang met with Russian President Vladimir Putin in St. Petersburg.\n\nChina is ready to work with Russia to better leverage economic complementarity, maintain the sound momentum of bilateral cooperation, and strengthen practical cooperation in energy and resources, trade and investment, transportation and other areas, and to deliver more positive outcomes.\n\nThe two sides should enhance coordination within multilateral platforms such as SCO and BRICS, and unite more forces of the Global South to uphold fairness and justice.",
+     "snippet": "Premier Li Qiang met with Russian President Vladimir Putin in St. Petersburg.\n\nChina is ready to work with Russia to better leverage economic complementarity, maintain the sound momentum of bilateral cooperation, and strengthen practical cooperation in energy and resources, trade and investment, transportation and other areas, and to deliver more positive outcomes.\n\nThe two sides should enhance coordination within multilateral platforms such as SCO and BRICS, and unite more forces of the Global South to uphold fairness and justice.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Xu Feihong",
+     "handle": "@China_Amb_India"
+    },
+    {
+     "url": "https://x.com/xmn110310726765/status/2113086833093759140",
+     "title": "Premier Li Qiang was received by President Putin in Russia.",
+     "description": "Premier Li Qiang was received by President Putin in Russia. The two sides reached agreements and signed a package of cooperation documents covering trade, technology, education, energy and more. This marks deeper practical cooperation between China and Russia, which will benefit people in both nations.\n\nPutin later stated that Russia is open to trilateral talks with the United States and Ukraine. China supports all diplomatic efforts aimed at peace.",
+     "snippet": "Premier Li Qiang was received by President Putin in Russia. The two sides reached agreements and signed a package of cooperation documents covering trade, technology, education, energy and more. This marks deeper practical cooperation between China and Russia, which will benefit people in both nations.\n\nPutin later stated that Russia is open to trilateral talks with the United States and Ukraine. China supports all diplomatic efforts aimed at peace.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Xi Min",
+     "handle": "@xmn110310726765"
+    },
+    {
+     "url": "https://x.com/xinfolive/status/2113283526778843641",
+     "title": "⚡️🇷🇺 La médiation dans un processus aussi complexe que le règlement de la situation en Ukraine se fait en privé.",
+     "description": "⚡️🇷🇺 La médiation dans un processus aussi complexe que le règlement de la situation en Ukraine se fait en privé. Toute diplomatie du mégaphone ne peut ici que nuire -  L'essentiel des déclarations de Peskov, 22 Oct. 2026\n\n⭕️Poutine n'a pas encore pris de décision concernant la composition du groupe de négociation russe lors des négociations trilatérales sur l'Ukraine.\n\n⭕️Il n'y a pas de plans pour le moment pour organiser une rencontre entre Poutine et les membres du groupe de négociation russe lors des négociations trilatérales sur l'Ukraine.\n\n⭕️La \"diplomatie du mégaphone\" ne peut qu'heurter le règlement de la situation en Ukraine.\n\n⭕️La décision concernant la participation de Poutine au sommet du G20 n'a pas encore été prise, l'invitation sera examinée.\n\n⭕️Les États-Unis font beaucoup pour le règlement, tandis que l'Europe fait beaucoup pour provoquer de nouvelles actions militaires.\n\n⭕️La Russie n'a entendu de l'Europe aucune déclaration qui témoigne d'une volonté de s'éloigner de l'escalade et de tenir compte des intérêts de Moscou.\n\n⭕️La Russie considère comme un signe positif que certains pays européens tentent de comprendre les préoccupations de Moscou, mais cela ne va pas plus loin.\n\n⭕️La coopération entre la Russie et la Chine dans le secteur de l'énergie a encore des perspectives inexplorées.\n\n⭕️Poutine et Li Qiang n'ont pas discuté des préparatifs pour un accord concernant le gazoduc \"Sila Baïkala\".\n\n⭕️La Russie est guidée uniquement par ses propres intérêts lorsqu'elle prend des décisions concernant les actifs étrangers.",
+     "snippet": "⚡️🇷🇺 La médiation dans un processus aussi complexe que le règlement de la situation en Ukraine se fait en privé. Toute diplomatie du mégaphone ne peut ici que nuire -  L'essentiel des déclarations de Peskov, 22 Oct. 2026\n\n⭕️Poutine n'a pas encore pris de décision concernant la composition du groupe de négociation russe lors des négociations trilatérales sur l'Ukraine.\n\n⭕️Il n'y a pas de plans pour le moment pour organiser une rencontre entre Poutine et les membres du groupe de négociation russe lors des négociations trilatérales sur l'Ukraine.\n\n⭕️La \"diplomatie du mégaphone\" ne peut qu'heurter le règlement de la situation en Ukraine.\n\n⭕️La décision concernant la participation de Poutine au sommet du G20 n'a pas encore été prise, l'invitation sera examinée.\n\n⭕️Les États-Unis font beaucoup pour le règlement, tandis que l'Europe fait beaucoup pour provoquer de nouvelles actions militaires.\n\n⭕️La Russie n'a entendu de l'Europe aucune déclaration qui témoigne d'une volonté de s'éloigner de l'escalade et de tenir compte des intérêts de Moscou.\n\n⭕️La Russie considère comme un signe positif que certains pays européens tentent de comprendre les préoccupations de Moscou, mais cela ne va pas plus loin.\n\n⭕️La coopération entre la Russie et la Chine dans le secteur de l'énergie a encore des perspectives inexplorées.\n\n⭕️Poutine et Li Qiang n'ont pas discuté des préparatifs pour un accord concernant le gazoduc \"Sila Baïkala\".\n\n⭕️La Russie est guidée uniquement par ses propres intérêts lorsqu'elle prend des décisions concernant les actifs étrangers.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "X⚡️INFOLIVE",
+     "handle": "@xinfolive"
+    },
+    {
+     "url": "https://x.com/TheSecretFeeds/status/2113144938233745874",
+     "title": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "description": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.\n\nChina and Russia have agreed to support their companies in expanding oil cooperation, according to a report by China’s state news agency Xinhua.",
+     "snippet": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.\n\nChina and Russia have agreed to support their companies in expanding oil cooperation, according to a report by China’s state news agency Xinhua.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Secret Feeds",
+     "handle": "@TheSecretFeeds"
+    },
+    {
+     "url": "https://x.com/theraisinahills/status/2113284755479515552",
+     "title": "Russian President Vladimir #Putin and Chinese Premier Li Qiang reaffirmed commitment to strengthen bilateral ties, with energy, agriculture,",
+     "description": "Russian President Vladimir #Putin and Chinese Premier Li Qiang reaffirmed commitment to strengthen bilateral ties, with energy, agriculture, artificial intelligence, space, transport and multilateral coordination emerging as key areas of cooperation.\n\nhttps://theraisinahills.com/putin-li-qiang-russia-china-strategic-partnership/",
+     "snippet": "Russian President Vladimir #Putin and Chinese Premier Li Qiang reaffirmed commitment to strengthen bilateral ties, with energy, agriculture, artificial intelligence, space, transport and multilateral coordination emerging as key areas of cooperation.\n\nhttps://theraisinahills.com/putin-li-qiang-russia-china-strategic-partnership/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Raisina Hills",
+     "handle": "@theraisinahills"
+    },
+    {
+     "url": "https://x.com/SanaJournalist1/status/2112974766877643203",
+     "title": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companie",
+     "description": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "snippet": "🇨🇳⚡🇷🇺 China and Russia agree to deepen energy cooperation, with both sides moving to expand oil-related collaboration between their companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sara | Journalist",
+     "handle": "@SanaJournalist1"
+    },
+    {
+     "url": "https://x.com/mortymer001/status/2113330623859261842",
+     "title": "🚨KEY !!! \"Cooperation between Russia and China in the energy sector still has unexplored prospects.\" The private is about handling the Nords",
+     "description": "🚨KEY !!!\n\n\"Cooperation between Russia and China in the energy sector still has unexplored prospects.\"\n\nThe private is about handling the Nordstram that brought flow from Biankovo gas fie3lds at Yamal peninsula. RU builds to CN but not all could be absorbed. Nordstream to repair.",
+     "snippet": "🚨KEY !!!\n\n\"Cooperation between Russia and China in the energy sector still has unexplored prospects.\"\n\nThe private is about handling the Nordstram that brought flow from Biankovo gas fie3lds at Yamal peninsula. RU builds to CN but not all could be absorbed. Nordstream to repair.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mortymer",
+     "handle": "@mortymer001"
+    },
+    {
+     "url": "https://x.com/FirstSquawk/status/2112935188611404236",
+     "title": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "description": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "snippet": "CHINA PREMIER: READY TO WORK WITH RUSSIA TO DEEPEN PRACTICAL COOPERATION IN ENERGY RESOURCES, OTHERS – XINHUA",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "First Squawk",
+     "handle": "@FirstSquawk"
+    },
+    {
+     "url": "https://x.com/Jonathan195426/status/2113143562149998858",
+     "title": "🇨🇳🇷🇺#China–#Russia ties grow stronger!",
+     "description": "🇨🇳🇷🇺#China–#Russia ties grow stronger! Premier Li Qiang meets President #Putin as both nations sign cooperation agreements on trade, technology, energy and education. Meanwhile, Putin signals openness to trilateral peace talks with the #US and #Ukraine.\n #LiQiang #Diplomacy",
+     "snippet": "🇨🇳🇷🇺#China–#Russia ties grow stronger! Premier Li Qiang meets President #Putin as both nations sign cooperation agreements on trade, technology, energy and education. Meanwhile, Putin signals openness to trilateral peace talks with the #US and #Ukraine.\n #LiQiang #Diplomacy",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jonathan",
+     "handle": "@Jonathan195426"
+    },
+    {
+     "url": "https://x.com/volkova_ma57183/status/2113218802569687304",
+     "title": "▪️During their meeting in St.",
+     "description": "▪️During their meeting in St. Petersburg, Putin and Chinese Premier Li Qiang did not discuss preparations for a deal regarding the \"Power of Siberia\" gas pipeline.",
+     "snippet": "▪️During their meeting in St. Petersburg, Putin and Chinese Premier Li Qiang did not discuss preparations for a deal regarding the \"Power of Siberia\" gas pipeline.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Маrina Wolf",
+     "handle": "@volkova_ma57183"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/World_Data_A/status/2113573395027624257",
+     "title": ". Is it a coincidence that the areas with rare earth in Myanmar are also conflict zones?",
+     "description": ".\nIs it a coincidence that the areas with rare earth in Myanmar are also conflict zones?\n\nIn northern Myanmar’s Kachin State, near the Chinese border, rare earth deposits overlap with areas controlled by armed groups like the KIO.\n\nAfter the KIO took control of the Chipwi–Pangwa area, China initially closed the border for rare earth-related imports and exports.\n\nRare earth mining in Myanmar has become closely tied to local conflicts. Armed groups use mining revenues to fund their operations, while China seeks stable access to these critical minerals. The result is a pattern where resource-rich border regions are also hotspots of fighting.\nSource: @CrisisGroup by Richard Horsey, Thomas Kean, Carolin Graf and David Muchiri Kimotho\nVisualisations and imagery by Claire Boccon-Gibod, Paul Franz, Ysé Angerer and Jorge Gutiérrez Lucena",
+     "snippet": ".\nIs it a coincidence that the areas with rare earth in Myanmar are also conflict zones?\n\nIn northern Myanmar’s Kachin State, near the Chinese border, rare earth deposits overlap with areas controlled by armed groups like the KIO.\n\nAfter the KIO took control of the Chipwi–Pangwa area, China initially closed the border for rare earth-related imports and exports.\n\nRare earth mining in Myanmar has become closely tied to local conflicts. Armed groups use mining revenues to fund their operations, while China seeks stable access to these critical minerals. The result is a pattern where resource-rich border regions are also hotspots of fighting.\nSource: @CrisisGroup by Richard Horsey, Thomas Kean, Carolin Graf and David Muchiri Kimotho\nVisualisations and imagery by Claire Boccon-Gibod, Paul Franz, Ysé Angerer and Jorge Gutiérrez Lucena",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "World Data Analysis",
+     "handle": "@World_Data_A"
+    },
+    {
+     "url": "https://x.com/KevinLH811/status/2113626174450471419",
+     "title": "Not a coincidence. Kachin is a major source of the ionic clay feed for heavy rare earths like dysprosium and terbium, and most of it crosses",
+     "description": "Not a coincidence. Kachin is a major source of the ionic clay feed for heavy rare earths like dysprosium and terbium, and most of it crosses into China for separation. Whoever holds the mines and the border crossings has leverage over a supply chain most people never see.",
+     "snippet": "Not a coincidence. Kachin is a major source of the ionic clay feed for heavy rare earths like dysprosium and terbium, and most of it crosses into China for separation. Whoever holds the mines and the border crossings has leverage over a supply chain most people never see.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kevin H",
+     "handle": "@KevinLH811"
+    },
+    {
+     "url": "https://x.com/bnionline1/status/2112924560555458966",
+     "title": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work.",
+     "description": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "snippet": "Kachin's Chipwi residents demand a halt to a Chinese-backed gold mine disguised as road work. It imperils their town's survival, schools, and IDP camps in a sensitive area. #Kachin #Mining  https://www.bnionline.net/en/news/kachin-states-chipwi-residents-demand-halt-chinese-backed-gold-mine-disguised-infrastructure",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Burma News International",
+     "handle": "@bnionline1"
+    },
+    {
+     "url": "https://x.com/IrrawaddyNews/status/2113606379344916835",
+     "title": "China Briefing: Beijing eyes minerals, agriculture, and tourism as Myanmar regime scrambles for lifelines amid post-coup economic collapse.",
+     "description": "China Briefing: Beijing eyes minerals, agriculture, and tourism as Myanmar regime scrambles for lifelines amid post-coup economic collapse.\n\nhttps://www.irrawaddy.com/news/china-briefing/china-taps-myanmars-rare-earth-surge-coffee-sell-off-and-more.html",
+     "snippet": "China Briefing: Beijing eyes minerals, agriculture, and tourism as Myanmar regime scrambles for lifelines amid post-coup economic collapse.\n\nhttps://www.irrawaddy.com/news/china-briefing/china-taps-myanmars-rare-earth-surge-coffee-sell-off-and-more.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Irrawaddy (Eng)",
+     "handle": "@IrrawaddyNews"
+    },
+    {
+     "url": "https://x.com/SarahAdams35763/status/2113599076180865497",
+     "title": "US is treating the junta as if it holds all the cards.",
+     "description": "US is treating the junta as if it holds all the cards. In reality, it controls virtually none of ~600 rare earth mines in Kachin and Shan states. Those fields are locked down by EAOs like KIA and TNLA. But why this stunt of legitimizing a brutal Junta?",
+     "snippet": "US is treating the junta as if it holds all the cards. In reality, it controls virtually none of ~600 rare earth mines in Kachin and Shan states. Those fields are locked down by EAOs like KIA and TNLA. But why this stunt of legitimizing a brutal Junta?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sarah Adams",
+     "handle": "@SarahAdams35763"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112881500257767511",
+     "title": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.",
+     "description": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.\n\nThai, Burmese, and Chinese companies are all cashing in while the water stays contaminated.\n\nWhy the total silence on this, @MediaUnlock?\n\nhttps://t.co/rMTtWDoN7j",
+     "snippet": "So, illegal Chinese mining in Myanmar is trashing downstream rivers and destroying Thai farmlands.\n\nThai, Burmese, and Chinese companies are all cashing in while the water stays contaminated.\n\nWhy the total silence on this, @MediaUnlock?\n\nhttps://t.co/rMTtWDoN7j",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2113596271286186248",
+     "title": "China's Myanmar policy is a masterclass in short-sighted pragmatism.",
+     "description": "China's Myanmar policy is a masterclass in short-sighted pragmatism. By betting entirely on a crumbling military junta just to secure oil and gas pipelines bypassing the Malacca Strait, Beijing thinks it's buying stability.\n\nhttps://www.irrawaddy.com/opinion/analysis/chinas-myanmar-policy-consistent-but-fundamentally-flawed.html",
+     "snippet": "China's Myanmar policy is a masterclass in short-sighted pragmatism. By betting entirely on a crumbling military junta just to secure oil and gas pipelines bypassing the Malacca Strait, Beijing thinks it's buying stability.\n\nhttps://www.irrawaddy.com/opinion/analysis/chinas-myanmar-policy-consistent-but-fundamentally-flawed.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/UNSRHRMyanmar/status/2113240344779161995",
+     "title": "SUPPLY CHAIN ALERT🚨 @shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Meko",
+     "description": "SUPPLY CHAIN ALERT🚨\n@shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Mekong watershed. \nWorker conditions at the mine are extremely dangerous and unregulated, with accidents reportedly killing at least 20 workers being hushed up by local authorities. \n@ilo \n@EITIorg \n@Automotive_News \n#WhatsHappeningInMyanmar",
+     "snippet": "SUPPLY CHAIN ALERT🚨\n@shanhumanrights reports that Chinese/Wa-run lead mine is Myanmar’s Shan State is leaching dangerous waste into the Mekong watershed. \nWorker conditions at the mine are extremely dangerous and unregulated, with accidents reportedly killing at least 20 workers being hushed up by local authorities. \n@ilo \n@EITIorg \n@Automotive_News \n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kelley E. Currie, UN Special Rapporteur on Myanmar",
+     "handle": "@UNSRHRMyanmar"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2112882047924809881",
+     "title": "Most of Myanmar’s manganese mines have been running since the early 2000s in Shan State.",
+     "description": "Most of Myanmar’s manganese mines have been running since the early 2000s in Shan State.\n\nThe NDAA, backed by the United Wa State Party and with deep ties to China, used those connections to become a powerhouse in rare earth and jade mining.",
+     "snippet": "Most of Myanmar’s manganese mines have been running since the early 2000s in Shan State.\n\nThe NDAA, backed by the United Wa State Party and with deep ties to China, used those connections to become a powerhouse in rare earth and jade mining.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/minkhaung404/status/2112820797647761773",
+     "title": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting sta",
+     "description": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources. #Myanmar\n@XHNews\n@cnnbrk\n@ChinaDaily",
+     "snippet": "In Hpakant Township, KIA terrorist group is importing fuel from China and granting illegal jade mining blocks, systematically exploiting state resources. #Myanmar\n@XHNews\n@cnnbrk\n@ChinaDaily",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Min Khaung",
+     "handle": "@minkhaung404"
+    }
+   ]
+  }
+ ]
+}

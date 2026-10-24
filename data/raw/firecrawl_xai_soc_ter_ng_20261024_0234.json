@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/ADEYUSUF_ia/status/2113399368250167644",
+     "title": "How a Village Self-Defence Group Turned Into Nigeria’s New Cross-Border Terror Bridge In 2017, border villages in Sokoto invited an armed he",
+     "description": "How a Village Self-Defence Group Turned Into Nigeria’s New Cross-Border Terror Bridge\n\nIn 2017, border villages in Sokoto invited an armed herding militia, Lakurawa to shield them from bandits.\n\nBy 2026, that former vigilante force had evolved into one of Nigeria’s fastest-spreading terror threats:\n• Taxed Kebbi and Sokoto communities ₦50m ($36,000) in March 2026 just to let clerics preach Ramadan tafsir\n• Killed 162 civilians in Woro and Nuku, Kwara State after villages rejected its rule\n• Built an active corridor linking Sahelian jihadists (ISGS/JNIM) toward northern Benin and central Nigeria\n\nHistory’s hardest internal security lesson repeats: when the state leaves a vacuum, outsourced community defence rarely stays defensive for long.",
+     "snippet": "How a Village Self-Defence Group Turned Into Nigeria’s New Cross-Border Terror Bridge\n\nIn 2017, border villages in Sokoto invited an armed herding militia, Lakurawa to shield them from bandits.\n\nBy 2026, that former vigilante force had evolved into one of Nigeria’s fastest-spreading terror threats:\n• Taxed Kebbi and Sokoto communities ₦50m ($36,000) in March 2026 just to let clerics preach Ramadan tafsir\n• Killed 162 civilians in Woro and Nuku, Kwara State after villages rejected its rule\n• Built an active corridor linking Sahelian jihadists (ISGS/JNIM) toward northern Benin and central Nigeria\n\nHistory’s hardest internal security lesson repeats: when the state leaves a vacuum, outsourced community defence rarely stays defensive for long.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ade-yusuf",
+     "handle": "@ADEYUSUF_ia"
+    },
+    {
+     "url": "https://x.com/UNOFFICIALFACT/status/2113717159876550844",
+     "title": "Armed bandits arriving at the wedding reception of one of their top leader in Zamfara state today.",
+     "description": "Armed bandits arriving at the wedding reception of one of their top leader in Zamfara state today.\n\nIs sad many arrived on military camouflage.",
+     "snippet": "Armed bandits arriving at the wedding reception of one of their top leader in Zamfara state today.\n\nIs sad many arrived on military camouflage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "PIDOMNIGERIA",
+     "handle": "@UNOFFICIALFACT"
+    },
+    {
+     "url": "https://x.com/Ehimenpaul/status/2113763820464165081",
+     "title": "How Can Armed Groups Move So Freely While Communities Remain Under Threat?",
+     "description": "How Can Armed Groups Move So Freely While Communities Remain Under Threat?\n\nReports that heavily armed men arrived in convoys at a wedding ceremony in Zamfara State, allegedly linked to a wanted bandit kingpin, have once again raised serious questions about Nigeria’s security system.\n\nEyewitnesses reportedly said some of the men wore military-style uniforms, while others carried sophisticated weapons. The incident has reignited public concerns over how armed groups continue to operate openly in communities already struggling with insecurity.\n\nWhere is the government’s security strategy, and why do residents continue to live in fear? Nigerians deserve answers, not just repeated assurances. When heavily armed groups can reportedly move in convoys without fear, citizens are justified in demanding stronger intelligence, effective security operations, and accountability from those entrusted with protecting lives and property.\n\nFor the people of Zamfara, security is not a political slogan. It is the difference between living in peace and going to bed wondering what tomorrow may bring.\n\nHow much longer must ordinary Nigerians wait for the safety they deserve?💯😔😈🇳🇬📌",
+     "snippet": "How Can Armed Groups Move So Freely While Communities Remain Under Threat?\n\nReports that heavily armed men arrived in convoys at a wedding ceremony in Zamfara State, allegedly linked to a wanted bandit kingpin, have once again raised serious questions about Nigeria’s security system.\n\nEyewitnesses reportedly said some of the men wore military-style uniforms, while others carried sophisticated weapons. The incident has reignited public concerns over how armed groups continue to operate openly in communities already struggling with insecurity.\n\nWhere is the government’s security strategy, and why do residents continue to live in fear? Nigerians deserve answers, not just repeated assurances. When heavily armed groups can reportedly move in convoys without fear, citizens are justified in demanding stronger intelligence, effective security operations, and accountability from those entrusted with protecting lives and property.\n\nFor the people of Zamfara, security is not a political slogan. It is the difference between living in peace and going to bed wondering what tomorrow may bring.\n\nHow much longer must ordinary Nigerians wait for the safety they deserve?💯😔😈🇳🇬📌",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ehizy",
+     "handle": "@Ehimenpaul"
+    },
+    {
+     "url": "https://x.com/DangiwaGusau/status/2113744991088488898",
+     "title": "Residents of Birnin Tudu community in Gummi Local Government Area of Zamfara State said they killed more than 30 bandits during a three-day",
+     "description": "Residents of Birnin Tudu community in Gummi Local Government Area of Zamfara State said they killed more than 30 bandits during a three-day confrontation after armed men invaded the community.\n\nRead more: https://dailytrust.com/zamfara-community-fights-back/",
+     "snippet": "Residents of Birnin Tudu community in Gummi Local Government Area of Zamfara State said they killed more than 30 bandits during a three-day confrontation after armed men invaded the community.\n\nRead more: https://dailytrust.com/zamfara-community-fights-back/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "DangiwaGusau",
+     "handle": "@DangiwaGusau"
+    },
+    {
+     "url": "https://x.com/SaharaReporters/status/2113307073039466793",
+     "title": "Sokoto Police Confirm Bandits Killed Driver, Two Others; Source Says Recruited Govt Workers Among Dead | Sahara Reporters https://sahararepo",
+     "description": "Sokoto Police Confirm Bandits Killed Driver, Two Others; Source Says Recruited Govt Workers Among Dead | Sahara Reporters https://saharareporters.com/2026/10/22/sokoto-police-confirm-bandits-killed-driver-two-others-source-says-recruited-govt",
+     "snippet": "Sokoto Police Confirm Bandits Killed Driver, Two Others; Source Says Recruited Govt Workers Among Dead | Sahara Reporters https://saharareporters.com/2026/10/22/sokoto-police-confirm-bandits-killed-driver-two-others-source-says-recruited-govt",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahara Reporters",
+     "handle": "@SaharaReporters"
+    },
+    {
+     "url": "https://x.com/NigeriaStories/status/2113231716869398722",
+     "title": "BREAKING: Bandits reportedly intercepted a vehicle conveying passengers returning from Sokoto city and fatally shot all the occupants in the",
+     "description": "BREAKING: Bandits reportedly intercepted a vehicle conveying passengers returning from Sokoto city and fatally shot all the occupants in the vehicle. \n🚗 \n\nThe incident occurred along the road to Isa Local Government Area of Sokoto State.",
+     "snippet": "BREAKING: Bandits reportedly intercepted a vehicle conveying passengers returning from Sokoto city and fatally shot all the occupants in the vehicle. \n🚗 \n\nThe incident occurred along the road to Isa Local Government Area of Sokoto State.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nigeria Stories",
+     "handle": "@NigeriaStories"
+    },
+    {
+     "url": "https://x.com/abdulbaqee2/status/2113222181127876978",
+     "title": "Security incident. Yesterday. Bandits attacked commuters along the Sokoto-Isa highway, Isa LGA, Sokoto State, shooting to death two newly re",
+     "description": "Security incident.\n\nYesterday. Bandits attacked commuters along the Sokoto-Isa highway, Isa LGA, Sokoto State, shooting to death two newly recruited TSB employees, the deceased were on their way home after verification exercise. \n\nStay safe and be vigilant",
+     "snippet": "Security incident.\n\nYesterday. Bandits attacked commuters along the Sokoto-Isa highway, Isa LGA, Sokoto State, shooting to death two newly recruited TSB employees, the deceased were on their way home after verification exercise. \n\nStay safe and be vigilant",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdulbaqee",
+     "handle": "@abdulbaqee2"
+    },
+    {
+     "url": "https://x.com/OfVoice87754/status/2113722086439203062",
+     "title": "Five Islamic clerics abducted by bandit terrorists in Zamfara State remain in captivity 41 days after attending a prayer gathering held for",
+     "description": "Five Islamic clerics abducted by bandit terrorists in Zamfara State remain in captivity 41 days after attending a prayer gathering held for President Tinubu — Report",
+     "snippet": "Five Islamic clerics abducted by bandit terrorists in Zamfara State remain in captivity 41 days after attending a prayer gathering held for President Tinubu — Report",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Voice of the people Reporter's",
+     "handle": "@OfVoice87754"
+    },
+    {
+     "url": "https://x.com/grok/status/2113687556638310579",
+     "title": "Lakurawa, Boko Haram and ISWAP do follow jihadist doctrine.",
+     "description": "Lakurawa, Boko Haram and ISWAP do follow jihadist doctrine. In Zamfara the main actors remain profit-driven bandit gangs focused on ransoms, cattle rustling and mining levies from local Muslim communities. Lakurawa is hybrid and expanding from Sokoto/Kebbi with some ties, but the dominant pattern there is still economic banditry.",
+     "snippet": "Lakurawa, Boko Haram and ISWAP do follow jihadist doctrine. In Zamfara the main actors remain profit-driven bandit gangs focused on ransoms, cattle rustling and mining levies from local Muslim communities. Lakurawa is hybrid and expanding from Sokoto/Kebbi with some ties, but the dominant pattern there is still economic banditry.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2113720294544179698",
+     "title": "The incident is confirmed.",
+     "description": "The incident is confirmed. On Wednesday evening (21 Oct), bandits ambushed a vehicle on the Marnona-Isa road near Kunawa village, Goronyo LGA, Sokoto. Passengers were returning from the state capital; some were recent government recruits for screening. Police verified three killed (driver and two others). Early reports, including from conflict reporter Bakatsine, said everyone aboard died and shared photos; other accounts noted six bodies, injuries, or a missing person. Multiple Nigerian outlets covered it.",
+     "snippet": "The incident is confirmed. On Wednesday evening (21 Oct), bandits ambushed a vehicle on the Marnona-Isa road near Kunawa village, Goronyo LGA, Sokoto. Passengers were returning from the state capital; some were recent government recruits for screening. Police verified three killed (driver and two others). Early reports, including from conflict reporter Bakatsine, said everyone aboard died and shared photos; other accounts noted six bodies, injuries, or a missing person. Multiple Nigerian outlets covered it.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

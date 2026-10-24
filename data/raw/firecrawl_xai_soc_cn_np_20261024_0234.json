@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Theorbitpost/status/2113499294825160767",
+     "title": "The Tatopani border between Nepal and China reopened on Sunday, for three days only, after being closed since late August.",
+     "description": "The Tatopani border between Nepal and China reopened on Sunday, for three days only, after being closed since late August.\nMore than 45 containers of Dashain goods are waiting on the Chinese side, and traders want the crossing open for good. Is a festival window enough?\nFull story: https://t.co/yqejLJQPwd\n#Nepal #Dashain",
+     "snippet": "The Tatopani border between Nepal and China reopened on Sunday, for three days only, after being closed since late August.\nMore than 45 containers of Dashain goods are waiting on the Chinese side, and traders want the crossing open for good. Is a festival window enough?\nFull story: https://t.co/yqejLJQPwd\n#Nepal #Dashain",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Orbit Post",
+     "handle": "@Theorbitpost"
+    },
+    {
+     "url": "https://x.com/sabaqureshi457/status/2113243427479728148",
+     "title": "🇵🇰 #Pakistan paid the price for over-reliance on #China—debt trap & strategic strings.",
+     "description": "🇵🇰 #Pakistan paid the price for over-reliance on #China—debt trap & strategic strings.\n\nNow #Nepal traders beg #Beijing to reopen Tatopani while China cites “security.” #Kathmandu should learn before the same dependence locks in. @rabimishra\nhttps://kathmandupost.com/national/2026/10/17/beijing-s-security-concerns-cloud-nepal-s-push-to-reopen-tatopani",
+     "snippet": "🇵🇰 #Pakistan paid the price for over-reliance on #China—debt trap & strategic strings.\n\nNow #Nepal traders beg #Beijing to reopen Tatopani while China cites “security.” #Kathmandu should learn before the same dependence locks in. @rabimishra\nhttps://kathmandupost.com/national/2026/10/17/beijing-s-security-concerns-cloud-nepal-s-push-to-reopen-tatopani",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Saba Qureshi",
+     "handle": "@sabaqureshi457"
+    },
+    {
+     "url": "https://x.com/Vidhithapa22/status/2113229542169190743",
+     "title": "Tatopani is cheaper & closer to #Kathmandu, yet #China continues to restrict full reopening.",
+     "description": "Tatopani is cheaper & closer to #Kathmandu, yet #China continues to restrict full reopening.\nMeanwhile, #India offers #Nepal a more reliable trade lifeline.\nWhy is #BalenShah’s govt so fixated on #Beijing while neglecting the partner that can deliver?\n@ManaviPaudel",
+     "snippet": "Tatopani is cheaper & closer to #Kathmandu, yet #China continues to restrict full reopening.\nMeanwhile, #India offers #Nepal a more reliable trade lifeline.\nWhy is #BalenShah’s govt so fixated on #Beijing while neglecting the partner that can deliver?\n@ManaviPaudel",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Vidhi Thapa",
+     "handle": "@Vidhithapa22"
+    },
+    {
+     "url": "https://x.com/RitvikRana208/status/2113228204366532911",
+     "title": "Rasuwagadhi closed by floods, Korala disrupted, Dashain goods stranded.",
+     "description": "Rasuwagadhi closed by floods, Korala disrupted, Dashain goods stranded.\n#Nepal pushes hard for Tatopani; #Beijing stalls on security and landslides.\nThis is what overdependence on Chinese border points actually looks like—#BalenShah govt should stop aligning with China.\n@amritna",
+     "snippet": "Rasuwagadhi closed by floods, Korala disrupted, Dashain goods stranded.\n#Nepal pushes hard for Tatopani; #Beijing stalls on security and landslides.\nThis is what overdependence on Chinese border points actually looks like—#BalenShah govt should stop aligning with China.\n@amritna",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ritvik Rana",
+     "handle": "@RitvikRana208"
+    },
+    {
+     "url": "https://x.com/Blake47q/status/2112884009609101528",
+     "title": "Nepal says the road is ready, yet #China demands more assessments, citing security.",
+     "description": "Nepal says the road is ready, yet #China demands more assessments, citing security. This is the risk of trusting Beijing’s promises: #Nepal waits while China decides. Is the #BalenShah govt learning that sovereignty cannot rest on Chinese assurances? @JohnClke",
+     "snippet": "Nepal says the road is ready, yet #China demands more assessments, citing security. This is the risk of trusting Beijing’s promises: #Nepal waits while China decides. Is the #BalenShah govt learning that sovereignty cannot rest on Chinese assurances? @JohnClke",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Blake Richardson",
+     "handle": "@Blake47q"
+    },
+    {
+     "url": "https://x.com/Abhish_ek45/status/2113237918223655240",
+     "title": "Beijing’s version of regional cooperation: promote trade when it suits China, restrict it when security concerns arise, and leave neighbouri",
+     "description": "Beijing’s version of regional cooperation: promote trade when it suits China, restrict it when security concerns arise, and leave neighbouring businesses guessing. Nepal needs reliable trade routes, not uncertainty dictated by Beijing. \n\n https://kathmandupost.com/national/2026/10/17/beijing-s-security-concerns-cloud-nepal-s-push-to-reopen-tatopani",
+     "snippet": "Beijing’s version of regional cooperation: promote trade when it suits China, restrict it when security concerns arise, and leave neighbouring businesses guessing. Nepal needs reliable trade routes, not uncertainty dictated by Beijing. \n\n https://kathmandupost.com/national/2026/10/17/beijing-s-security-concerns-cloud-nepal-s-push-to-reopen-tatopani",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ABHISHEK KUMAR",
+     "handle": "@Abhish_ek45"
+    },
+    {
+     "url": "https://x.com/AlexanderS259/status/2113599339952300517",
+     "title": "China is steadily expanding its strategic footprint across South Asia.",
+     "description": "China is steadily expanding its strategic footprint across South Asia. Look at Gwadar in Pakistan, the Chinese-backed development of Mongla Port in Bangladesh, and Beijing’s growing economic and infrastructure ambitions in Nepal and Bhutan’s neighbourhood. 1/2",
+     "snippet": "China is steadily expanding its strategic footprint across South Asia. Look at Gwadar in Pakistan, the Chinese-backed development of Mongla Port in Bangladesh, and Beijing’s growing economic and infrastructure ambitions in Nepal and Bhutan’s neighbourhood. 1/2",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alexander Stewart",
+     "handle": "@AlexanderS259"
+    },
+    {
+     "url": "https://x.com/IsabellaAn67/status/2113593416261288090",
+     "title": "I urge @ChiefAdviserGoB, @PM_nepal and @MMuizzu to look beyond China’s promises of ports, dams and grand infrastructure.",
+     "description": "I urge @ChiefAdviserGoB, @PM_nepal and @MMuizzu to look beyond China’s promises of ports, dams and grand infrastructure. China itself faces property-sector troubles, debt pressures and weak domestic demand. 1/2",
+     "snippet": "I urge @ChiefAdviserGoB, @PM_nepal and @MMuizzu to look beyond China’s promises of ports, dams and grand infrastructure. China itself faces property-sector troubles, debt pressures and weak domestic demand. 1/2",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Isabella Anderson",
+     "handle": "@IsabellaAn67"
+    },
+    {
+     "url": "https://x.com/KumaoniDeepti/status/2113669523635331359",
+     "title": "Recall it when Nepal had disaster floods few weeks back..",
+     "description": "Recall it when Nepal had disaster floods few weeks back.. And China making railway line and power projects in Nepal was blamed as a cause by India. Why should I accept it if India repeats the same in our part of Himalayas?",
+     "snippet": "Recall it when Nepal had disaster floods few weeks back.. And China making railway line and power projects in Nepal was blamed as a cause by India. Why should I accept it if India repeats the same in our part of Himalayas?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "deepti",
+     "handle": "@KumaoniDeepti"
+    },
+    {
+     "url": "https://x.com/karmawangchukzz/status/2112894670258786726",
+     "title": "After the floods already hammered Nepal’s economy, China is choosing to keep a vital lifeline shut.",
+     "description": "After the floods already hammered Nepal’s economy, China is choosing to keep a vital lifeline shut. This is not border management. It is leverage dressed up as security concern. 2/",
+     "snippet": "After the floods already hammered Nepal’s economy, China is choosing to keep a vital lifeline shut. This is not border management. It is leverage dressed up as security concern. 2/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Karma Wangchuk",
+     "handle": "@karmawangchukzz"
+    }
+   ]
+  }
+ ]
+}

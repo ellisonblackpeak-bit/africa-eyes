@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/akhbarbladie/status/2113243001459720594",
+     "title": "📣....اللجنة الاقتصادية لإفريقيا التابعة للأمم المتحدة تصنف مشروع خط أنبوب الغاز نيجيريا🇳🇬-المغرب🇲🇦 كنموذج يحتذى به في مجال الربط الطاقي على",
+     "description": "📣....اللجنة الاقتصادية لإفريقيا التابعة للأمم المتحدة تصنف مشروع خط أنبوب الغاز نيجيريا🇳🇬-المغرب🇲🇦 كنموذج يحتذى به في مجال الربط الطاقي على مستوى القارة الإفريقية.\n#اخبار_بلادي_مع_هشام",
+     "snippet": "📣....اللجنة الاقتصادية لإفريقيا التابعة للأمم المتحدة تصنف مشروع خط أنبوب الغاز نيجيريا🇳🇬-المغرب🇲🇦 كنموذج يحتذى به في مجال الربط الطاقي على مستوى القارة الإفريقية.\n#اخبار_بلادي_مع_هشام",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "هشام النجم-Hicham en-najm",
+     "handle": "@akhbarbladie"
+    },
+    {
+     "url": "https://x.com/barlamanefr/status/2113211917968007367",
+     "title": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale",
+     "description": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale\n https://barlamane.com/fr/la-commission-economique-des-nations-unies-pour-lafrique-erige-le-gazoduc-nigeria-maroc-en-modele-dinterconnexion-energetique-continentale/",
+     "snippet": "La Commission économique des Nations unies pour l’Afrique érige le gazoduc Nigeria-Maroc en modèle d’interconnexion énergétique continentale\n https://barlamane.com/fr/la-commission-economique-des-nations-unies-pour-lafrique-erige-le-gazoduc-nigeria-maroc-en-modele-dinterconnexion-energetique-continentale/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "barlamane.com/fr",
+     "handle": "@barlamanefr"
+    },
+    {
+     "url": "https://x.com/GazetteNGR/status/2113158326569603339",
+     "title": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security https://gazettengr.com/un-hails-nigeria-morocco-gas-pip",
+     "description": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\nhttps://gazettengr.com/un-hails-nigeria-morocco-gas-pipeline-project-as-booster-of-africas-energy-security/",
+     "snippet": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\nhttps://gazettengr.com/un-hails-nigeria-morocco-gas-pipeline-project-as-booster-of-africas-energy-security/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Peoples Gazette",
+     "handle": "@GazetteNGR"
+    },
+    {
+     "url": "https://x.com/Challenge_ma/status/2113414165474038085",
+     "title": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !",
+     "description": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !\n\n#Challenge #ChallengeMaroc #Gazoduc #Maroc #Nigeria #Afrique #Énergie #SécuritéÉnergétique #Investissement\n\nhttps://www.challenge.ma/cea-le-gazoduc-nigeria-maroc-une-initiative-majeure-pour-la-securite-energetique-325839/",
+     "snippet": "Gazoduc Nigeria-Maroc : l’ONU salue un projet stratégique pour l’Afrique !\n\n#Challenge #ChallengeMaroc #Gazoduc #Maroc #Nigeria #Afrique #Énergie #SécuritéÉnergétique #Investissement\n\nhttps://www.challenge.ma/cea-le-gazoduc-nigeria-maroc-une-initiative-majeure-pour-la-securite-energetique-325839/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Challenge",
+     "handle": "@Challenge_ma"
+    },
+    {
+     "url": "https://x.com/globalintel_/status/2112948555384078520",
+     "title": "🟥[𝐄́𝐃𝐈𝐓𝐎] 𝐀𝐅𝐑𝐈𝐐𝐔𝐄 𝐃𝐔 𝐍𝐎𝐑𝐃 : 𝐋𝐄 𝐌𝐀𝐑𝐎𝐂 𝐀𝐔 𝐂Œ𝐔𝐑 𝐃𝐄𝐒 𝐑𝐄𝐂𝐎𝐌𝐏𝐎𝐒𝐈𝐓𝐈𝐎𝐍𝐒 𝐑𝐄́𝐆𝐈𝐎𝐍𝐀𝐋𝐄𝐒.",
+     "description": "🟥[𝐄́𝐃𝐈𝐓𝐎] 𝐀𝐅𝐑𝐈𝐐𝐔𝐄 𝐃𝐔 𝐍𝐎𝐑𝐃 : 𝐋𝐄 𝐌𝐀𝐑𝐎𝐂 𝐀𝐔 𝐂Œ𝐔𝐑 𝐃𝐄𝐒 𝐑𝐄𝐂𝐎𝐌𝐏𝐎𝐒𝐈𝐓𝐈𝐎𝐍𝐒 𝐑𝐄́𝐆𝐈𝐎𝐍𝐀𝐋𝐄𝐒. De Washington à Madrid, de Nouakchott à Benghazi, les équilibres régionaux se redessinent autour du Maroc. Selon la presse espagnole, Michael Waltz, représentant permanent américain à l’ONU, aurait encouragé le ministre Albares à faciliter la naturalisation des Sahraouis, afin de dépeupler les camps de Tindouf et de favoriser un accord sur l’autonomie. Une démarche révélée à quelques jours du vote du Conseil de sécurité sur le Sahara, qui interroge sur la volonté américaine de modifier les rapports démographiques et politiques avant tout règlement. Au sud, la controverse maroco-mauritanienne sur Lagouira prend une tournure préoccupante. Sur les réseaux sociaux, revendications territoriales, cartes historiques et références au traité de 1976 alimentent désormais des menaces visant le gazoduc Nigeria–Maroc et les corridors économiques vers l’Afrique subsaharienne. Jusqu’où Rabat et Nouakchott laisseront-ils cette surenchère compromettre leurs relations et leurs intérêts communs ? À l’est, les visites successives des deux frères Haftar au Maroc témoignent du rapprochement de Rabat avec le pouvoir de Benghazi. Or, le Parlement libyen vient de ratifier l’accord maritime avec Ankara, suscitant l’ire de l’Égypte, de la Grèce, de Chypre, de l’UE et d’Israël, auquel le Maroc est lié par les Accords d’Abraham. Entre souverainetés contestées, partenariats contradictoires et intérêts économiques, Rabat doit composer avec un voisinage dont les évolutions interrogent désormais la cohérence de ses propres engagements diplomatiques. #globalimpact",
+     "snippet": "🟥[𝐄́𝐃𝐈𝐓𝐎] 𝐀𝐅𝐑𝐈𝐐𝐔𝐄 𝐃𝐔 𝐍𝐎𝐑𝐃 : 𝐋𝐄 𝐌𝐀𝐑𝐎𝐂 𝐀𝐔 𝐂Œ𝐔𝐑 𝐃𝐄𝐒 𝐑𝐄𝐂𝐎𝐌𝐏𝐎𝐒𝐈𝐓𝐈𝐎𝐍𝐒 𝐑𝐄́𝐆𝐈𝐎𝐍𝐀𝐋𝐄𝐒. De Washington à Madrid, de Nouakchott à Benghazi, les équilibres régionaux se redessinent autour du Maroc. Selon la presse espagnole, Michael Waltz, représentant permanent américain à l’ONU, aurait encouragé le ministre Albares à faciliter la naturalisation des Sahraouis, afin de dépeupler les camps de Tindouf et de favoriser un accord sur l’autonomie. Une démarche révélée à quelques jours du vote du Conseil de sécurité sur le Sahara, qui interroge sur la volonté américaine de modifier les rapports démographiques et politiques avant tout règlement. Au sud, la controverse maroco-mauritanienne sur Lagouira prend une tournure préoccupante. Sur les réseaux sociaux, revendications territoriales, cartes historiques et références au traité de 1976 alimentent désormais des menaces visant le gazoduc Nigeria–Maroc et les corridors économiques vers l’Afrique subsaharienne. Jusqu’où Rabat et Nouakchott laisseront-ils cette surenchère compromettre leurs relations et leurs intérêts communs ? À l’est, les visites successives des deux frères Haftar au Maroc témoignent du rapprochement de Rabat avec le pouvoir de Benghazi. Or, le Parlement libyen vient de ratifier l’accord maritime avec Ankara, suscitant l’ire de l’Égypte, de la Grèce, de Chypre, de l’UE et d’Israël, auquel le Maroc est lié par les Accords d’Abraham. Entre souverainetés contestées, partenariats contradictoires et intérêts économiques, Rabat doit composer avec un voisinage dont les évolutions interrogent désormais la cohérence de ses propres engagements diplomatiques. #globalimpact",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Impact Intelligence",
+     "handle": "@globalintel_"
+    },
+    {
+     "url": "https://x.com/Davy_Jones_P/status/2113292346477699147",
+     "title": "🇲🇦 Impact potentiel pour le Maroc Le projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec",
+     "description": "🇲🇦 Impact potentiel pour le Maroc\nLe projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec l'#Europe pourraient bénéficier d'un calendrier de conformité plus souple.",
+     "snippet": "🇲🇦 Impact potentiel pour le Maroc\nLe projet de gazoduc #Nigeria_Maroc, les futurs investissements gaziers et l'intégration énergétique avec l'#Europe pourraient bénéficier d'un calendrier de conformité plus souple.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Le Regent 🏴‍☠️",
+     "handle": "@Davy_Jones_P"
+    },
+    {
+     "url": "https://x.com/FbkzS12/status/2113710471396413855",
+     "title": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "description": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "snippet": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FBKZ 👉🇩🇿🇪🇭🇵🇸👈",
+     "handle": "@FbkzS12"
+    },
+    {
+     "url": "https://x.com/R_D7176/status/2113641270996263089",
+     "title": "مشروع أنبوب الغاز نيجيريا المغرب ولا نموذج كيقتدى بيه فأفريقيا حسب الأمم المتحدة.",
+     "description": "مشروع أنبوب الغاز نيجيريا المغرب ولا نموذج كيقتدى بيه فأفريقيا حسب الأمم المتحدة. هادشي ماشي غير خبر عادي، هادي شهادة دولية على أن المغرب كيبني الربط الطاقي ديال القارة بخطوات ثابتة",
+     "snippet": "مشروع أنبوب الغاز نيجيريا المغرب ولا نموذج كيقتدى بيه فأفريقيا حسب الأمم المتحدة. هادشي ماشي غير خبر عادي، هادي شهادة دولية على أن المغرب كيبني الربط الطاقي ديال القارة بخطوات ثابتة",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "R D.",
+     "handle": "@R_D7176"
+    },
+    {
+     "url": "https://x.com/GFeel178182/status/2113550257443180850",
+     "title": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "description": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "snippet": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "G Feel",
+     "handle": "@GFeel178182"
+    },
+    {
+     "url": "https://x.com/AmuriIzm34375/status/2112874598442168790",
+     "title": "لكويرة والصحراء مغربية، يا مرتزق البوليساريو، رغم انفك ودويلتك، فأنبوب الغاز نيجيريا المغرب سيمر على الإقليم المغربي التاريخي، شنقيط، فلا تص",
+     "description": "لكويرة والصحراء مغربية، يا مرتزق البوليساريو، رغم انفك ودويلتك، فأنبوب الغاز نيجيريا المغرب سيمر على الإقليم المغربي  التاريخي، شنقيط، فلا تصارع الكبار. تذكر مهزلة رئيسك الذي تكلم عن السردين لترامب فسخر منه وقال قل إسم بلدك، ثم صرفه. لا وزن لك ولا سيادة لك، مجرد صنيعة الإستعمار",
+     "snippet": "لكويرة والصحراء مغربية، يا مرتزق البوليساريو، رغم انفك ودويلتك، فأنبوب الغاز نيجيريا المغرب سيمر على الإقليم المغربي  التاريخي، شنقيط، فلا تصارع الكبار. تذكر مهزلة رئيسك الذي تكلم عن السردين لترامب فسخر منه وقال قل إسم بلدك، ثم صرفه. لا وزن لك ولا سيادة لك، مجرد صنيعة الإستعمار",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "IZM Amuri⭐️⭐Moroccan Empire - 1 KY",
+     "handle": "@AmuriIzm34375"
+    }
+   ]
+  }
+ ]
+}
