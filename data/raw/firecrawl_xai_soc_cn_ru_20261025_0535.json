@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/xinfolive/status/2113283526778843641",
+     "title": "⚡️🇷🇺 La médiation dans un processus aussi complexe que le règlement de la situation en Ukraine se fait en privé.",
+     "description": "⚡️🇷🇺 La médiation dans un processus aussi complexe que le règlement de la situation en Ukraine se fait en privé. Toute diplomatie du mégaphone ne peut ici que nuire -  L'essentiel des déclarations de Peskov, 22 Oct. 2026\n\n⭕️Poutine n'a pas encore pris de décision concernant la composition du groupe de négociation russe lors des négociations trilatérales sur l'Ukraine.\n\n⭕️Il n'y a pas de plans pour le moment pour organiser une rencontre entre Poutine et les membres du groupe de négociation russe lors des négociations trilatérales sur l'Ukraine.\n\n⭕️La \"diplomatie du mégaphone\" ne peut qu'heurter le règlement de la situation en Ukraine.\n\n⭕️La décision concernant la participation de Poutine au sommet du G20 n'a pas encore été prise, l'invitation sera examinée.\n\n⭕️Les États-Unis font beaucoup pour le règlement, tandis que l'Europe fait beaucoup pour provoquer de nouvelles actions militaires.\n\n⭕️La Russie n'a entendu de l'Europe aucune déclaration qui témoigne d'une volonté de s'éloigner de l'escalade et de tenir compte des intérêts de Moscou.\n\n⭕️La Russie considère comme un signe positif que certains pays européens tentent de comprendre les préoccupations de Moscou, mais cela ne va pas plus loin.\n\n⭕️La coopération entre la Russie et la Chine dans le secteur de l'énergie a encore des perspectives inexplorées.\n\n⭕️Poutine et Li Qiang n'ont pas discuté des préparatifs pour un accord concernant le gazoduc \"Sila Baïkala\".\n\n⭕️La Russie est guidée uniquement par ses propres intérêts lorsqu'elle prend des décisions concernant les actifs étrangers.",
+     "snippet": "⚡️🇷🇺 La médiation dans un processus aussi complexe que le règlement de la situation en Ukraine se fait en privé. Toute diplomatie du mégaphone ne peut ici que nuire -  L'essentiel des déclarations de Peskov, 22 Oct. 2026\n\n⭕️Poutine n'a pas encore pris de décision concernant la composition du groupe de négociation russe lors des négociations trilatérales sur l'Ukraine.\n\n⭕️Il n'y a pas de plans pour le moment pour organiser une rencontre entre Poutine et les membres du groupe de négociation russe lors des négociations trilatérales sur l'Ukraine.\n\n⭕️La \"diplomatie du mégaphone\" ne peut qu'heurter le règlement de la situation en Ukraine.\n\n⭕️La décision concernant la participation de Poutine au sommet du G20 n'a pas encore été prise, l'invitation sera examinée.\n\n⭕️Les États-Unis font beaucoup pour le règlement, tandis que l'Europe fait beaucoup pour provoquer de nouvelles actions militaires.\n\n⭕️La Russie n'a entendu de l'Europe aucune déclaration qui témoigne d'une volonté de s'éloigner de l'escalade et de tenir compte des intérêts de Moscou.\n\n⭕️La Russie considère comme un signe positif que certains pays européens tentent de comprendre les préoccupations de Moscou, mais cela ne va pas plus loin.\n\n⭕️La coopération entre la Russie et la Chine dans le secteur de l'énergie a encore des perspectives inexplorées.\n\n⭕️Poutine et Li Qiang n'ont pas discuté des préparatifs pour un accord concernant le gazoduc \"Sila Baïkala\".\n\n⭕️La Russie est guidée uniquement par ses propres intérêts lorsqu'elle prend des décisions concernant les actifs étrangers.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "X⚡️INFOLIVE",
+     "handle": "@xinfolive"
+    },
+    {
+     "url": "https://x.com/OlenaRohoza/status/2113920186709426296",
+     "title": "CHINA DEMANDS A MASSIVE PRICE FROM PUTIN FOR HELPING END THE WAR IN UKRAINE — BEIJING WANTS ALMOST UNLIMITED ACCESS TO RUSSIA’S NATURAL RESO",
+     "description": "CHINA DEMANDS A MASSIVE PRICE FROM PUTIN FOR HELPING END THE WAR IN UKRAINE — BEIJING WANTS ALMOST UNLIMITED ACCESS TO RUSSIA’S NATURAL RESOURCES IN EXCHANGE FOR GUARANTEES OF A PEACE DEAL WITH TRUMP.\n\nAccording to alleged Kremlin insiders, Xi Jinping is prepared to become the main international guarantor of a future peace agreement on Ukraine. However, Chinese leaders have reportedly presented Moscow with a series of economic demands.\n\nBeijing wants to turn its participation in the peace negotiations into long-term advantages for Chinese businesses. The Kremlin is reportedly discussing just how many concessions it will have to make to secure Xi’s support in negotiations with Trump.\n\nChina is primarily interested in deposits of rare-earth metals, copper, gold, and other natural resources in Siberia and the Russian Far East.\n\nBeijing is reportedly demanding priority access for Chinese companies to major extraction projects, long-term contracts for raw materials at preferential prices, and special privileges for Chinese investors. Expanding Chinese involvement in Russia’s forestry and energy industries is also reportedly under discussion.\n\nChina wants these agreements finalized before any official announcement ending Russia’s war against Ukraine.\n\nBeijing fears that once American sanctions are potentially lifted, Russia could resume extensive cooperation with Western companies, threatening the privileged position Chinese investors have gained in recent years.\n\nXi therefore wants binding guarantees that would remain in force regardless of any future rapprochement between Moscow and Washington.\n\n**For Putin, this creates a serious dilemma.**\n\nOn one hand, China's participation could significantly increase the chances of reaching an agreement with Trump to end the fighting and gradually lift sanctions.\n\nOn the other hand, accepting Beijing’s demands could mean that a substantial share of Russia’s future natural-resource revenues would effectively be tied to Chinese interests for decades.\n\n**In other words, Putin may have to mortgage Russia’s natural wealth to China in exchange for a way out of the war he started.**",
+     "snippet": "CHINA DEMANDS A MASSIVE PRICE FROM PUTIN FOR HELPING END THE WAR IN UKRAINE — BEIJING WANTS ALMOST UNLIMITED ACCESS TO RUSSIA’S NATURAL RESOURCES IN EXCHANGE FOR GUARANTEES OF A PEACE DEAL WITH TRUMP.\n\nAccording to alleged Kremlin insiders, Xi Jinping is prepared to become the main international guarantor of a future peace agreement on Ukraine. However, Chinese leaders have reportedly presented Moscow with a series of economic demands.\n\nBeijing wants to turn its participation in the peace negotiations into long-term advantages for Chinese businesses. The Kremlin is reportedly discussing just how many concessions it will have to make to secure Xi’s support in negotiations with Trump.\n\nChina is primarily interested in deposits of rare-earth metals, copper, gold, and other natural resources in Siberia and the Russian Far East.\n\nBeijing is reportedly demanding priority access for Chinese companies to major extraction projects, long-term contracts for raw materials at preferential prices, and special privileges for Chinese investors. Expanding Chinese involvement in Russia’s forestry and energy industries is also reportedly under discussion.\n\nChina wants these agreements finalized before any official announcement ending Russia’s war against Ukraine.\n\nBeijing fears that once American sanctions are potentially lifted, Russia could resume extensive cooperation with Western companies, threatening the privileged position Chinese investors have gained in recent years.\n\nXi therefore wants binding guarantees that would remain in force regardless of any future rapprochement between Moscow and Washington.\n\n**For Putin, this creates a serious dilemma.**\n\nOn one hand, China's participation could significantly increase the chances of reaching an agreement with Trump to end the fighting and gradually lift sanctions.\n\nOn the other hand, accepting Beijing’s demands could mean that a substantial share of Russia’s future natural-resource revenues would effectively be tied to Chinese interests for decades.\n\n**In other words, Putin may have to mortgage Russia’s natural wealth to China in exchange for a way out of the war he started.**",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Olena Rohoza",
+     "handle": "@OlenaRohoza"
+    },
+    {
+     "url": "https://x.com/TheSecretFeeds/status/2113144938233745874",
+     "title": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.",
+     "description": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.\n\nChina and Russia have agreed to support their companies in expanding oil cooperation, according to a report by China’s state news agency Xinhua.",
+     "snippet": "🇨🇳🇷🇺 China and Russia agree to expand oil cooperation between their companies.\n\nChina and Russia have agreed to support their companies in expanding oil cooperation, according to a report by China’s state news agency Xinhua.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Secret Feeds",
+     "handle": "@TheSecretFeeds"
+    },
+    {
+     "url": "https://x.com/Newsorbit91/status/2113096163738235328",
+     "title": "Russia and China are planning closer cooperation in the oil sector, with both countries backing stronger partnerships between their energy c",
+     "description": "Russia and China are planning closer cooperation in the oil sector, with both countries backing stronger partnerships between their energy companies.",
+     "snippet": "Russia and China are planning closer cooperation in the oil sector, with both countries backing stronger partnerships between their energy companies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "News Orbit",
+     "handle": "@Newsorbit91"
+    },
+    {
+     "url": "https://x.com/tat_polit/status/2113178551252132207",
+     "title": "The Kremlin has increased the discount on Russian gas for China to a record 56%.",
+     "description": "The Kremlin has increased the discount on Russian gas for China to a record 56%. According to documents related to the federal budget, China will pay an average of $247.9 per thousand cubic meters of gas this year, while other foreign clients of Gazprom are paying $562.",
+     "snippet": "The Kremlin has increased the discount on Russian gas for China to a record 56%. According to documents related to the federal budget, China will pay an average of $247.9 per thousand cubic meters of gas this year, while other foreign clients of Gazprom are paying $562.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tatar Council",
+     "handle": "@tat_polit"
+    },
+    {
+     "url": "https://x.com/brown_norm56528/status/2113196155383279834",
+     "title": "Moscow and Beijing could seal major gas pipeline deal by year-end – Russian deputy PM — RT Russia & Former Soviet Union https://rt-english.c",
+     "description": "Moscow and Beijing could seal major gas pipeline deal by year-end – Russian deputy PM — RT Russia & Former Soviet Union https://rt-english.com/russia/647478-russia-china-new-gas-pipeline/  Very good deal for the two countries. A lot of that gas would have gone to power the EU economic engine. But no.",
+     "snippet": "Moscow and Beijing could seal major gas pipeline deal by year-end – Russian deputy PM — RT Russia & Former Soviet Union https://rt-english.com/russia/647478-russia-china-new-gas-pipeline/  Very good deal for the two countries. A lot of that gas would have gone to power the EU economic engine. But no.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "norma brown",
+     "handle": "@brown_norm56528"
+    },
+    {
+     "url": "https://x.com/mortymer001/status/2113330623859261842",
+     "title": "🚨KEY !!! \"Cooperation between Russia and China in the energy sector still has unexplored prospects.\" The private is about handling the Nords",
+     "description": "🚨KEY !!!\n\n\"Cooperation between Russia and China in the energy sector still has unexplored prospects.\"\n\nThe private is about handling the Nordstram that brought flow from Biankovo gas fie3lds at Yamal peninsula. RU builds to CN but not all could be absorbed. Nordstream to repair.",
+     "snippet": "🚨KEY !!!\n\n\"Cooperation between Russia and China in the energy sector still has unexplored prospects.\"\n\nThe private is about handling the Nordstram that brought flow from Biankovo gas fie3lds at Yamal peninsula. RU builds to CN but not all could be absorbed. Nordstream to repair.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mortymer",
+     "handle": "@mortymer001"
+    },
+    {
+     "url": "https://x.com/SiljaLynx/status/2114121506662068379",
+     "title": "Beijing could, in principle, apply real pressure on Russia.",
+     "description": "Beijing could, in principle, apply real pressure on Russia. However, China’s strategic incentives point the other way.\n\nChina has clear economic leverage: Russia has become heavily dependent on Chinese markets for oil, gas, coal, and other exports, \n\n>>>",
+     "snippet": "Beijing could, in principle, apply real pressure on Russia. However, China’s strategic incentives point the other way.\n\nChina has clear economic leverage: Russia has become heavily dependent on Chinese markets for oil, gas, coal, and other exports, \n\n>>>",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Silja🏴‍☠️🇨🇦 🇫🇮 🇫🇷 🇮🇷 🇺🇦 Russia=Genocide",
+     "handle": "@SiljaLynx"
+    },
+    {
+     "url": "https://x.com/markku60906522/status/2113274348349886797",
+     "title": "Russia cannot say no to China because it's so dependent on China.",
+     "description": "Russia cannot say no to China because it's so dependent on China. This is why China is able to extort very cheap gas from Russia.",
+     "snippet": "Russia cannot say no to China because it's so dependent on China. This is why China is able to extort very cheap gas from Russia.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Markku",
+     "handle": "@markku60906522"
+    },
+    {
+     "url": "https://x.com/XiZnping/status/2113838464441696666",
+     "title": "🚨 PUTIN IS NOT ISOLATED. THE WORLD IS STILL DEALING WITH MOSCOW!",
+     "description": "🚨 PUTIN IS NOT ISOLATED. THE WORLD IS STILL DEALING WITH MOSCOW! 🇷🇺\n\n🇨🇳 China needs Russian energy.\n🇮🇳 India prioritizes energy security.\n🇸🇦 Saudi Arabia coordinates through OPEC+.\n🇮🇷 Iran deepens strategic cooperation.\n🇺🇸 Even Washington keeps diplomatic channels open.\n\nWestern sanctions have imposed costs, but they haven't erased Russia's global influence.\n\nGEOPOLITICS IS DRIVEN BY INTERESTS, NOT EMOTIONS.\n\nPutin remains a leader major powers cannot simply ignore.",
+     "snippet": "🚨 PUTIN IS NOT ISOLATED. THE WORLD IS STILL DEALING WITH MOSCOW! 🇷🇺\n\n🇨🇳 China needs Russian energy.\n🇮🇳 India prioritizes energy security.\n🇸🇦 Saudi Arabia coordinates through OPEC+.\n🇮🇷 Iran deepens strategic cooperation.\n🇺🇸 Even Washington keeps diplomatic channels open.\n\nWestern sanctions have imposed costs, but they haven't erased Russia's global influence.\n\nGEOPOLITICS IS DRIVEN BY INTERESTS, NOT EMOTIONS.\n\nPutin remains a leader major powers cannot simply ignore.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Xi Znping",
+     "handle": "@XiZnping"
+    }
+   ]
+  }
+ ]
+}

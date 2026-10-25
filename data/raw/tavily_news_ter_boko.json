@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Attack on convoy in Nigeria’s Borno kills 15, soldiers say - Internazionale",
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/19/attack-on-convoy-in-nigeria-s-borno-kills-15-soldiers-say",
-   "snippet": "Il Borno è il centro di un’insurrezione guidata da Boko Haram e dalla sua fazione scissionista, la Provincia dell’Africa Occidentale dello Stato islamico. Nonostante le operazioni militari prolungate, entrambi i gruppi continuano ad attaccare truppe e civili, ricorrendo a bombe lungo le strade e imboscate nel nord-est della Nigeria e lungo i suoi confini.\n\nIl portavoce militare, il capitano Mohamm",
-   "published": "Mon, 19 Oct 2026 10:33:59 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "At least 15 killed in attack on convoy in Nigeria — Jerusalem Post | UA.NEWS",
    "url": "https://ua.news/en/world/u-nigeriyi-pid-chas-ataki-na-kolonu-zaginuli-shchonaimenshe-15-liudei-jerusalem-post",
    "snippet": "Borno State is the epicenter of an insurgency waged by Boko Haram and its breakaway faction, Islamic State West Africa. Despite military operations, both groups continue to attack military personnel and civilians in northeastern Nigeria and near its borders, using roadside explosive devices and ambushes. Last week, at least 10 soldiers were killed and at least 20 others were wounded in a coordinat",
@@ -65,10 +58,17 @@
    "source": "tavily"
   },
   {
+   "title": "At least 10 soldiers, 5 Civilian Task Force members killed in Nigeria attack",
+   "url": "https://news.az/news/at-least-10-soldiers-5-civilian-task-force-members-killed-in-nigeria-attack",
+   "snippet": "At least 15 people, including 10 Nigerian soldiers and five members of the Civilian Joint Task Force, were killed when their convoy struck a landmine",
+   "published": "Tue, 20 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Attack on convoy in Nigeria's Borno kills 15, soldiers say",
    "url": "https://www.reuters.com/world/africa/attack-convoy-nigerias-borno-kills-15-soldiers-say-2026-10-19",
    "snippet": "At least 15 people, including 10 Nigerian soldiers and five members of the Civilian Joint Task Force, ​were killed when their convoy struck a landmine ‌and",
-   "published": "Tue, 20 Oct 2026 02:00:00 GMT",
+   "published": "Tue, 20 Oct 2026 05:00:00 GMT",
    "source": "tavily"
   }
  ],

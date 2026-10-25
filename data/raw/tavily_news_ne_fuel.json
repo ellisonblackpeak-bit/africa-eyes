@@ -30,13 +30,6 @@
    "source": "tavily"
   },
   {
-   "title": "Mali: Human Rights Watch Denounces Crimes Against Civilians [Africanews Today] | Africanews",
-   "url": "https://www.africanews.com/2026/10/19/mali-human-rights-watch-denounces-crimes-against-civilians-africanews-today",
-   "snippet": "In Niger, the fuel shortage has now reached Niamey. In the capital, queues outside petrol stations are growing longer by the day. A situation that is severely disrupting travel and the daily lives of many residents.\n\nIn the Republic of Congo, freshwater fish has become a rare product, often unaffordable for many households. Between river pollution, declining fish stocks and high production costs, ",
-   "published": "Mon, 19 Oct 2026 10:21:26 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Niger bans petrol, diesel exports to prioritise domestic fuel supply - Nairametrics",
    "url": "https://nairametrics.com/2026/10/18/niger-bans-petrol-diesel-exports-to-prioritise-domestic-fuel-supply",
    "snippet": "The government also empowered officials of the Ministry of Trade and Industry, customs authorities, and defence and security forces to identify violations and enforce penalties under existing laws.\n\nThe restriction comes amid disruptions to fuel supplies affecting filling stations in Niamey, the country’s capital.\n\n#### Global fuel shortages trigger export restrictions [...] The Republic of Niger ",
@@ -54,7 +47,14 @@
    "title": "Austrian and Swiss women freed after long captivity in Niger",
    "url": "https://operativmm.az/en/post/austrian-and-swiss-women-freed-after-long-captivity-in-niger/83745",
    "snippet": "An Austrian and a Swiss citizen who had been held hostage in Niger for an extended period have been freed. Extensive diplomatic efforts were made to secure",
-   "published": "Fri, 23 Oct 2026 02:00:00 GMT",
+   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Human Rights Watch Denounces Crimes Against Civilians [Africanews Today]",
+   "url": "https://www.africanews.com/2026/10/19/mali-human-rights-watch-denounces-crimes-against-civilians-africanews-today",
+   "snippet": "Human Rights Watch accuses the Malian army, its Russian allies from Africa Corps, as well as armed and jihadist groups, of committing serious violations of",
+   "published": "Tue, 20 Oct 2026 05:00:00 GMT",
    "source": "tavily"
   }
  ],
