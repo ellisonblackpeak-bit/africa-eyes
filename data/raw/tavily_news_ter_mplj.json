@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Al-Qaeda, ISIS, rebels, and the UAE: What awaits the Algerian army in Niger",
-   "url": "https://www.youtube.com/watch?v=LzznnbXI7cw",
-   "snippet": "⚔️ Threat #2: Armed Rebellion\n\nThe Patriotic Liberation Front (PLF) of Mahmoud Salah, created after the overthrow of Bazoum, wants to bring down the junta. The Patriotic Movement for Freedom and Justice (MPLJ) is accused of attacking the oil pipeline. These rebels are Nigerian: intervening against them risks triggering a civil war.\n\n🕵️ Threat #3: Foreign Interference [...] [0:48] déploiement de fo",
-   "published": "Fri, 23 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger : deux Européennes libérées grâce à la Libye",
-   "url": "https://www.facebook.com/apanews/posts/apanews-niger-deux-europ%C3%A9ennes-lib%C3%A9r%C3%A9es-gr%C3%A2ce-%C3%A0-la-libye/1526115876213350",
-   "snippet": "À la frontière entre le Libye et le Niger, de nombreux groupements opèrent, dont le MPLJ nigérien et le FLA malien. #AES #BurkinaFaso #MALI #NIGER",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "FAN (Niger)",
-   "url": "https://sahel.darkwater-research.com/State-Actors/FAN-(Niger)",
-   "snippet": "Resource sites: the junta nationalised SOMAIR uranium mine (Arlit)) (Jun 2025) and Samira Hill (Aug 2025), withdrew the Imouraren uranium deposit and Madaouela uranium project permits (2024), and guards the Niger–Benin export pipeline against FPL/MPLJ sabotage (Niger oil pipeline attacks (2024-26))). [...] ## Sahel Armed Groups & PMCs\n\n# FAN (Niger)\n\n2 min read\n\n type/state\n\nForces Armées Nigérien",
-   "published": "Wed, 21 Oct 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "DW Afrique",
-   "url": "https://www.facebook.com/dw.francais/posts/tu-as-d%C3%A9j%C3%A0-vu-une-information-circuler-sur-les-r%C3%A9seaux-sociaux-et-tu-tes-demand%C3%A9/1425616746430523",
-   "snippet": "les militants du MPLJ ont porté un coup majeur aux positions des forces de sécurité dans le nord-est du pays.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "LA CLEF DE DEMAIN C'EST VALVERDE ET DIOMANDE ...",
-   "url": "https://www.tiktok.com/@nadamasss15/video/7700335945706392864",
-   "snippet": "... Niger a immédiatement riposté. Cette frappe a causé la mort de deux militaires tchadiens qui combattaient aux côtés des rebelles du MPLJ. ​La situation",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Politique Archives - Page 2 sur 124 - Journal du Niger",
-   "url": "https://www.journalduniger.com/category/politique/page/2",
-   "snippet": "[Savoir plus](\n\nMinistère Nigérien de l'Intérieur 1͏ ͏h͏ ·\n\n© Ministère Nigérien de l'Intérieur 1͏ ͏h͏ ·\n\n### Niger : Bilan à mi-parcours du Programme de Refondation\n\n6 août 2026\n\nPublié à 13h46\n\nSur directive du ministre d'État, les hauts cadres du ministère de l'Intérieur dressent le bilan mi-parcours de l'action publique. De Moscou à Ouagadougou, l'expertise nationale…\n\n[Savoir plus](\n\nMinistèr",
-   "published": "Wed, 21 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Carte des risques sécuritaires en Afrique de l’Ouest (2026) : lire la menace zone par zone – Sahel Watch",
-   "url": "https://sahel.watch/carte-risques-securitaires-afrique-ouest-2026",
-   "snippet": "Une lecture professionnelle croise donc les deux familles, y ajoute la tendance (la direction que prend la menace compte plus que sa photographie) et descend à la maille utile : l’axe routier, le corridor, le rayon autour d’une emprise. C’est cette lecture que propose la suite de cet article.\n\n## Sahel central : l’épicentre (Mali, Burkina Faso, Niger) [...] Aucune carte ne suffit seule : les conse",
-   "published": "Mon, 19 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nationalisation des mines d’or au Sahel : le tournant de 2026 – Sahel Watch",
-   "url": "https://sahel.watch/nationalisation-mines-or-sahel-2026",
-   "snippet": "Moins doté en or industriel que ses voisins, le Niger applique néanmoins la même grammaire à l’ensemble de ses ressources. La pression exercée sur l’uranium — avec le bras de fer autour des actifs du français Orano — procède de la même volonté de reprise en main que les nationalisations aurifères maliennes et burkinabè. Dans les trois cas, la ressource extractive est explicitement mobilisée comme ",
-   "published": "Wed, 21 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger 🇳🇪 et Tchad 🇷🇴. Kaka Déby 🇷🇴 continue ses ...",
-   "url": "https://www.facebook.com/groups/1milliondenigerien/posts/5217254765167603",
-   "snippet": "Selon plusieurs sources concordantes, de lourds dégâts matériels et humains ont été enregistrés côté nigérien à la suite d'une frappe ciblée contre les",
-   "published": "Sun, 25 Oct 2026 07:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

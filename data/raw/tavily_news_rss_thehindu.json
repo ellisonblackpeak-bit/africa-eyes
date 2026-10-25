@@ -2,10 +2,325 @@
  "success": true,
  "results": [
   {
+   "title": "Jamia student protest intensifies amid restrictions, heavy police deployment",
+   "url": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece",
+   "content": "With classes suspended, water facilities on the campus were cut off and no entry or exit was allowed",
+   "published_date": "Mon, 26 Oct 2026 01:43:38 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Jantar Mantar to ‘Dilli Chalo’, protest challenges power",
+   "url": "https://www.thehindu.com/opinion/lead/jantar-mantar-to-dilli-chalo-protest-challenges-power/article71624081.ece",
+   "content": "Disparate protest movements are converging over shared concerns about democracy and accountability",
+   "published_date": "Mon, 26 Oct 2026 01:33:32 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "U.S. immigration restrictions may outlast Trump",
+   "url": "https://www.thehindu.com/opinion/op-ed/us-immigration-restrictions-may-outlast-trump/article71624115.ece",
+   "content": "With both the Republicans and Democrats committed to immigration reform, India faces continued uncertainty",
+   "published_date": "Mon, 26 Oct 2026 01:12:34 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Strike on Gaza university kills three: staff, hospital",
+   "url": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece",
+   "content": "The university said the campus and its surroundings had been targeted twice on October 25, condemning the attacks and mourning those killed in a statement",
+   "published_date": "Mon, 26 Oct 2026 01:11:40 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Monsoon tracker LIVE: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
    "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
    "content": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
-   "published_date": "Sun, 25 Oct 2026 22:49:31 +0530",
+   "published_date": "Mon, 26 Oct 2026 01:04:51 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Old values, new avenues: On India-Poland ties",
+   "url": "https://www.thehindu.com/opinion/editorial/old-values-new-avenues-on-india-poland-ties/article71623770.ece",
+   "content": "India and Poland have no conflict, but are pulled apart by other nations",
+   "published_date": "Mon, 26 Oct 2026 01:03:16 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Melioidosis in India: a potentially deadly infection that may be going undetected",
+   "url": "https://www.thehindu.com/sci-tech/health/melioidosis-in-india-a-potentially-deadly-infection-that-may-be-going-undetected/article71616567.ece",
+   "content": "A multicentre study found that nearly one in 11 high-risk hospitalised adults had melioidosis, with almost one in five confirmed patients dying in hospital. Gaps in diagnosis and national surveillance leave the true burden uncertain",
+   "published_date": "Mon, 26 Oct 2026 01:01:44 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Child rights panel seeks report on schoolgirl’s death within two weeks",
+   "url": "https://www.thehindu.com/news/cities/Delhi/child-rights-panel-seeks-report-on-schoolgirls-death-within-twoweeks/article71624508.ece",
+   "content": "",
+   "published_date": "Mon, 26 Oct 2026 01:01:06 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Two feared trapped after building collapse in Delhi's Harsh Vihar",
+   "url": "https://www.thehindu.com/news/cities/Delhi/two-feared-trapped-after-building-collapse-in-delhis-harsh-vihar/article71624601.ece",
+   "content": "",
+   "published_date": "Mon, 26 Oct 2026 00:51:04 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Wicked surprise: On the northeast monsoon",
+   "url": "https://www.thehindu.com/opinion/editorial/wicked-surprise-on-the-northeast-monsoon/article71623526.ece",
+   "content": "The northeast monsoon is more unpredictable, and the south must be wary",
+   "published_date": "Mon, 26 Oct 2026 00:48:54 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "As 2000 attend Kashmir marathon, CM Omar says ‘strengthens J&K’s position as a global sports tourism destination’",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-2000-attend-kashmir-marathon-cm-omar-says-strengthens-jks-position-as-a-global-sports-tourism-destination/article71623960.ece",
+   "content": "Besides 1,221 local participants, officials said 513 runners were from different parts of the country and 73 foreign athletes, representing 12 countries",
+   "published_date": "Mon, 26 Oct 2026 00:47:05 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Pulakeshinagar IED blast case cracked, personal rivalry behind the plot",
+   "url": "https://www.thehindu.com/news/cities/bangalore/pulakeshinagar-ied-blast-case-cracked-personal-rivalry-behind-the-plot/article71623321.ece",
+   "content": "The Bengaluru police have cracked the case of the recent blast at an under-construction building on Jeremiah Road, injuring two, and arrested a 27-year-old bakery salesman, who allegedly conspired with two childhood friends to murder his uncle by assembling an improvised explosive device (IED) concealed inside a parcel",
+   "published_date": "Mon, 26 Oct 2026 00:41:52 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "A Korean cultural evening in Hyderabad, with a distinctly Telangana touch",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/a-korean-cultural-evening-in-hyderabad-with-a-distinctly-telangana-touch/article71624250.ece",
+   "content": "",
+   "published_date": "Mon, 26 Oct 2026 00:32:21 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Jharkhand BJP unanimously passes political resolution at State Executive Committee meeting",
+   "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-unanimously-passes-political-resolution-at-state-executive-committee-meeting/article71624016.ece",
+   "content": "In the political resolution, Babulal Marandi criticised the Hemant Soren-led government, addressing issues ranging from tribal identity to corruption and poor governance",
+   "published_date": "Mon, 26 Oct 2026 00:31:23 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi govt. to clear ₹2 Lakh higher education aid for youth leaving care homes",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-govt-to-clear-individual-aftercare-plans2-lakh-higher-education-aid-for-youth-leaving-care-homes/article71624219.ece",
+   "content": "",
+   "published_date": "Mon, 26 Oct 2026 00:30:24 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Harmanpreet, Deepti on fire as India seals emphatic series win against Zimbabwe",
+   "url": "https://www.thehindu.com/sport/cricket/harmanpreet-deepti-on-fire-as-india-seals-emphatic-series-win/article71624538.ece",
+   "content": "",
+   "published_date": "Mon, 26 Oct 2026 00:21:03 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Congress leader Kripa Alva questioned in ‘sting operation’ case",
+   "url": "https://www.thehindu.com/news/national/karnataka/congress-leader-kripa-alva-questioned-in-sting-operation-case/article71623365.ece",
+   "content": "",
+   "published_date": "Mon, 26 Oct 2026 00:14:44 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Uttar Pradesh CEO orders reverification of all forms submitted through computer operators",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece",
+   "content": "Action comes after controversy over errors found in electoral rolls published after the Special Intensive Revision",
+   "published_date": "Mon, 26 Oct 2026 00:12:45 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Universities urged to embrace continuous learning and innovation in AI era",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/universities-urged-to-embrace-continuous-learning-and-innovation-in-ai-era/article71623743.ece",
+   "content": "",
+   "published_date": "Mon, 26 Oct 2026 00:02:32 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Man jumps from terrace in bid to escape from police, dies",
+   "url": "https://www.thehindu.com/news/cities/chennai/man-jumps-from-terrace-in-bid-to-escape-from-police-dies/article71623860.ece",
+   "content": "",
+   "published_date": "Mon, 26 Oct 2026 00:02:30 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Polio awareness campaign held at five Metro Rail stations in Chennai",
+   "url": "https://www.thehindu.com/news/cities/chennai/polio-awareness-campaign-held-at-five-metro-rail-stations-in-chennai/article71623697.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:59:48 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Kashmiri Pandits flag graveyard en route to Shankaracharya Hill, says ‘cropped up suddenly’",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece",
+   "content": "The J&K administration’s Roads and Buildings (R&B) department, in an order on September 12 this year, had approved ₹44.37 lakhs for “improvement of Astan Aliya Syed Usman Sahib on the way to Shankaracharya road”",
+   "published_date": "Sun, 25 Oct 2026 23:56:48 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "ISKCON unveils 800-kg robotic elephant in Visakhapatnam",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/iskcon-unveils-800-kg-robotic-elephant-in-visakhapatnam/article71624265.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:56:11 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Three youths arrested for selling methamphetamine in Saligramam",
+   "url": "https://www.thehindu.com/news/cities/chennai/three-youths-arrested-for-selling-methamphetamine-in-saligramam/article71622880.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:53:00 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Bhavani devotees throng Kanaka Durga temple atop Indrakeeladri",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/bhavani-devotees-throng-kanaka-durga-temple-atop-indrakeeladri/article71623708.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:49:47 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "GVMC elections will be a battle between 'Sale Vizag' and 'Save Vizag': YSRCP leaders",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/gvmc-elections-will-be-a-battle-between-sale-vizag-and-save-vizag-ysrcp-leaders/article71623412.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:46:43 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Food Safety Department destroys 922 kg of food items in raids: CMO",
+   "url": "https://www.thehindu.com/news/cities/Delhi/food-safety-department-destroys-922-kg-of-food-items-in-raids-cmo/article71623545.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:46:23 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Sahil Wakode death case: 20–25 detained at Chaityabhoomi during candlelight vigil",
+   "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-cops-detain-comedian-masoom-rajwani-others-over-candlelight-vigil-for-sahil-wakode/article71624515.ece",
+   "content": "Comedian Masoom Rajwani among those detained; protesters allege manhandling as 84 organisations demand IIT Bombay director’s resignation over handling of student’s death",
+   "published_date": "Sun, 25 Oct 2026 23:46:09 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Officials urged to remain alert as severe cyclone approaches",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/officials-urged-to-remain-alert-as-severe-cyclone-approaches/article71624053.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:46:09 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Tamil Nadu Governor Arlekar calls for efforts to cultivate reading habit among children",
+   "url": "https://www.thehindu.com/news/cities/Coimbatore/tamil-nadu-governor-arlekar-calls-for-efforts-to-cultivate-reading-habits-among-children/article71623724.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:42:40 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Three North Andhra districts step up cyclone preparedness",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-north-andhra-districts-step-up-cyclone-preparedness/article71624037.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:42:03 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Like Kerala, T.N. government should pass resolution in State Assembly to scrap SIR, says CPI (M) politburo member",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/like-kerala-tn-government-should-pass-resolution-in-state-assembly-to-scrap-sir-says-cpi-m-politburo-member/article71623414.ece",
+   "content": "G. Ramakrishnan alleged that the BJP-led Union government has used SIR to delete around 13.5 crore voters from the electoral rolls in the country",
+   "published_date": "Sun, 25 Oct 2026 23:36:47 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "APSCHE to hold State-level AISHE workshop for university nodal officers in Vijayawada on October 26",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-to-hold-state-level-aishe-workshop-for-university-nodal-officers-in-vijayawada-on-october-26/article71623988.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:36:34 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Denso Iris reigns supreme",
+   "url": "https://www.thehindu.com/sport/denso-iris-reigns-supreme/article71624180.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:35:24 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Cyber commandos lead Delhi Police’s digital fight amid protests, bomb hoaxes, crypto frauds",
+   "url": "https://www.thehindu.com/news/cities/Delhi/who-are-delhi-polices-cyber-commandos-tracking-bomb-threats-and-fake-videos-on-social-media/article71604459.ece",
+   "content": "With just eight commandos, the specialised unit brings advanced technical expertise to decode intricate data and help field officers solve cybercrimes across the National Capital Region",
+   "published_date": "Sun, 25 Oct 2026 23:33:00 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "19 candidates in fray for VMC Mayor’s post",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/19-candidates-in-fray-for-vmc-mayors-post/article71624110.ece",
+   "content": "Vijayawada Municipal Corporation releases the final list of candidates in the fray; 349 are contesting for 86 ward member posts in the ongoing Second Ordinary Elections to Urban Local Bodies, 2026",
+   "published_date": "Sun, 25 Oct 2026 23:32:35 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "The need for a national media council",
+   "url": "https://www.thehindu.com/opinion/op-ed/the-need-for-a-national-media-council/article71624323.ece",
+   "content": "Just like there is the Bar Council of India for lawyers and an Institute of Chartered Accountants of India for chartered accountants, the media council can recognise all working journalists, freelance journalists, camerapersons and technicians",
+   "published_date": "Sun, 25 Oct 2026 23:29:47 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "15 candidates in fray for Visakhapatnam Mayor’s post",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/15-candidates-in-fray-for-visakhapatnam-mayors-post/article71623627.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:26:52 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Man killed in Keralam’s Kochi as luxury car, allegedly driven by judge’s minor son, hits scooter",
+   "url": "https://www.thehindu.com/news/national/kerala/man-killed-in-keralams-kochi-as-luxury-car-allegedly-driven-by-judges-minor-son-hits-scooter/article71623475.ece",
+   "content": "Accident occurs around 2.20 a.m. near a car showroom at Maraparambu on Container Road in Cheranalloor",
+   "published_date": "Sun, 25 Oct 2026 23:24:05 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Nilgiris district hit by 62 minor landslips in a day till October 25 morning",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/nilgiris-district-hit-by-62-minor-landslips-in-a-day-till-october-25-2026-morning/article71622616.ece",
+   "content": "The Nilgiris district recorded a cumulative total rainfall of 453.9 mm during the 24-hour period. Parsons Valley in Udhagamandalam taluk recorded the highest rainfall in the district at 52 mm.",
+   "published_date": "Sun, 25 Oct 2026 23:15:02 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Owner, mahout booked for neglecting elephant in Kozhikode",
+   "url": "https://www.thehindu.com/news/national/kerala/owner-mahout-booked-for-neglected-elephant-in-kozhikode/article71623007.ece",
+   "content": "Forest officials find signs of severe malnutrition and chain-related injuries during an inspection at Ekarool near Unnikulam",
+   "published_date": "Sun, 25 Oct 2026 23:13:17 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Vellore Corporation desilts waterbodies in 49 areas prone to waterlogging",
+   "url": "https://www.thehindu.com/news/cities/chennai/vellore-corporation-desilts-waterbodies-in-49-areas-prone-to-waterlogging/article71623142.ece",
+   "content": "Corporation officials said that the civic body has also set up at 12 relief centres",
+   "published_date": "Sun, 25 Oct 2026 23:12:29 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Letters to The Editor — October 26, 2026",
+   "url": "https://www.thehindu.com/opinion/letters/letters-to-the-editor-october-26-2026/article71624259.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:09:55 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Two persons arrested in Ranipet for stealing two-wheelers",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-arrested-in-ranipet-for-stealing-two-wheelers/article71623047.ece",
+   "content": "The police intercepted the duo during a surprise vehicle check",
+   "published_date": "Sun, 25 Oct 2026 23:08:57 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Free medical camp held for construction workers in Vellore",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/free-medical-camp-held-for-construction-workers-in-vellore/article71623138.ece",
+   "content": "More than 600 workers participated in the day-long camp",
+   "published_date": "Sun, 25 Oct 2026 23:04:26 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Sharath recalls five-year ‘fruitful journey’ as a national selector",
+   "url": "https://www.thehindu.com/sport/sharath-recalls-five-year-fruitful-journey-as-a-national-selector/article71624316.ece",
+   "content": "",
+   "published_date": "Sun, 25 Oct 2026 23:02:45 +0530",
    "score": 0.6
   },
   {
@@ -13,13 +328,6 @@
    "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece",
    "content": "Acting President Delcy Rodriguez was initially supposed to serve only 90 days as acting president, but has remained in office and has made no move to call an election",
    "published_date": "Sun, 25 Oct 2026 22:48:59 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Nilgiris district hit by 62 minor landslips in a day till October 25 morning",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/nilgiris-district-hit-by-62-minor-landslips-in-a-day-till-october-25-2026-morning/article71622616.ece",
-   "content": "The Nilgiris district recorded a cumulative total rainfall of 453.9 mm during the 24-hour period. Parsons Valley in Udhagamandalam taluk recorded the highest rainfall in the district at 52 mm.",
-   "published_date": "Sun, 25 Oct 2026 22:44:28 +0530",
    "score": 0.6
   },
   {
@@ -48,13 +356,6 @@
    "url": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
    "content": "The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption",
    "published_date": "Sun, 25 Oct 2026 22:39:42 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Three North Andhra districts step up cyclone preparedness",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-north-andhra-districts-step-up-cyclone-preparedness/article71624037.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:36:09 +0530",
    "score": 0.6
   },
   {
@@ -118,307 +419,6 @@
    "url": "https://www.thehindu.com/education/why-are-government-schools-shutting-down-explained/article71297685.ece",
    "content": "Which States have witnessed the highest number of closures? How has school rationalisation affected children’s access to education? Who bears the biggest burden of government school closures? Can the Centre step in to reverse the trend? Why has the Right to Education Act fallen short?",
    "published_date": "Sun, 25 Oct 2026 22:28:36 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Get back lake from Forest Dept., Annamalai urges State govt.",
-   "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/get-back-lake-from-forest-dept-annamalai-urges-state-govt/article71624201.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:28:19 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Israeli air strikes kill several across Gaza Strip: local authorities",
-   "url": "https://www.thehindu.com/news/international/israeli-air-strikes-kill-several-across-gaza-strip-local-authorities/article71624332.ece",
-   "content": "Al Shifa hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students",
-   "published_date": "Sun, 25 Oct 2026 22:27:12 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Beyond national interest: role of ethics and emotions in world politics",
-   "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece",
-   "content": "History offers numerous examples of ethics shaping international politics. Foreign policy is not merely an exercise in strategic calculation; it is also shaped by moral perceptions and collective emotions, as illustrated by the change in public perception towards the Israel-Palestine conflict",
-   "published_date": "Sun, 25 Oct 2026 22:25:15 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Man killed in Keralam’s Kochi as luxury car, allegedly driven by judge’s minor son, hits scooter",
-   "url": "https://www.thehindu.com/news/national/kerala/man-killed-in-keralams-kochi-as-luxury-car-allegedly-driven-by-judges-minor-son-hits-scooter/article71623475.ece",
-   "content": "Accident occurs around 2.20 a.m. near a car showroom at Maraparambu on Container Road in Cheranalloor",
-   "published_date": "Sun, 25 Oct 2026 22:25:13 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Many places in T.N., Puducherry likely to receive moderate rain on October 26",
-   "url": "https://www.thehindu.com/news/cities/chennai/many-places-in-tn-puducherry-likely-to-receive-moderate-rain-on-october-26/article71624263.ece",
-   "content": "The Regional Meteorological Centre has forecast heavy to very heavy rain at isolated places in Pudukottai, Sivaganga and Ramanathapuram districts",
-   "published_date": "Sun, 25 Oct 2026 22:25:08 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "BJP slams Kharge over ‘indecent’ remarks on PM Modi",
-   "url": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
-   "content": "BJP leaders said Mallikarjun Kharge’s language was ‘indecent and unparliamentary’ and showed the ‘desperation and frustration’ within the Congress party",
-   "published_date": "Sun, 25 Oct 2026 22:20:52 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Behind China’s AI gift, a constraint",
-   "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece",
-   "content": "China’s embrace of open-weight AI models is driven as much by compute constraints as by a bid to project itself as a responsible global AI power; until it overcomes chip and inference bottlenecks, Beijing is likely to keep sharing its models with the world",
-   "published_date": "Sun, 25 Oct 2026 22:20:27 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Israel presses ahead with West Bank operation as election approaches",
-   "url": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece",
-   "content": "The Hebron municipality said the operation displaced more than 2,600 people; the Army declined to say how long the operation might last.",
-   "published_date": "Sun, 25 Oct 2026 22:19:51 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Naseeruddin Shah wants to weaken democracy in country: BJP",
-   "url": "https://www.thehindu.com/news/cities/kolkata/naseeruddin-shah-wants-to-weaken-democracy-in-country-bjp/article71624214.ece",
-   "content": "The actor had urged all right-minded citizens to support the demands of Satyajit Ray Film and Television Institute students",
-   "published_date": "Sun, 25 Oct 2026 22:19:36 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Meeting held on EPFO schemes in Coimbatore",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/meeting-held-on-epfo-schemes-in-coimbatore/article71624326.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:18:06 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Is Yashwant Varma still a judge?",
-   "url": "https://www.thehindu.com/news/national/is-yashwant-varma-still-a-judge/article71249134.ece",
-   "content": "The power to resign at will protects judicial independence; when misused, it helps evade accountability; the report by the committee tasked with investigating charges of misbehaviour against former judge Varma is set to come up in Parliament; what will become of Varma now that he has resigned?",
-   "published_date": "Sun, 25 Oct 2026 22:16:20 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Starshield | The non-state sovereigns",
-   "url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece",
-   "content": "Elon Musk limited Ukraine’s access to the military-grade network of Starlink after Trum pcriticised Kyiv’s strikes on Russia’s energy infrastructure",
-   "published_date": "Sun, 25 Oct 2026 22:16:03 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Residents affected by rising road levels demand action",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-affected-by-rising-road-levels-demand-action/article71622979.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:14:00 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Police use tear gas and water cannons to disperse protesters in Paris",
-   "url": "https://www.thehindu.com/videos/shorts/police-use-tear-gas-and-water-cannons-to-disperse-protesters-in-paris/article71624370.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:12:01 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
-   "url": "https://www.thehindu.com/news/international/netanyahu-warns-iran-may-try-to-disrupt-israel-election-says-dont-test-us/article71624345.ece",
-   "content": "Benjamin Netanyahu, Israel's longest-serving prime minister, has focused heavily on hawkish national security statements in the final days of the campaign",
-   "published_date": "Sun, 25 Oct 2026 22:10:31 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
-   "url": "https://www.thehindu.com/news/national/odisha/depression-over-bay-of-bengal-set-to-become-very-severe-cyclonic-storm-cross-ap-coast-by-october-28/article71623850.ece",
-   "content": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
-   "published_date": "Sun, 25 Oct 2026 22:10:19 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Well-planned Dasara boosts Mysuru tourism: Lakshman",
-   "url": "https://www.thehindu.com/news/national/karnataka/well-planned-dasara-boosts-mysuru-tourism-lakshman/article71624014.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:09:03 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "CEC row | INDIA bloc to hold public impeachment of CEC Gyanesh Kumar on Oct 30: CPI(M)’s M.A. Baby",
-   "url": "https://www.thehindu.com/videos/shorts/cec-row-india-bloc-to-hold-public-impeachment-of-cec-gyanesh-kumar-on-oct-30-cpims-ma-baby/article71624348.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:08:46 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "PM Modi, Shah didn’t face anti-incumbency due to officials like CEC Gyanesh Kumar: K.S. Alagiri",
-   "url": "https://www.thehindu.com/videos/shorts/pm-modi-shah-didnt-face-anti-incumbency-due-to-officials-like-cec-gyanesh-kumar-ks-alagiri/article71624343.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:08:16 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "DPAP and BJP flay Farooq Abdullah’s remarks on Pakistan as ‘Kashmir’s saviour’",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ghulam-nabi-azad-altaf-thakur-flay-farooqabdullahs-remarks-on-pakistan-as-kashmirs-saviour/article71623853.ece",
-   "content": "‘A leader who has taken an oath under the Indian Constitution cannot be allowed to question the country’s intentions towards its own people while giving political legitimacy to Pakistan’s narrative,’ BJP spokesperson says",
-   "published_date": "Sun, 25 Oct 2026 22:07:00 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "All schools in Dindigul district will remain closed today",
-   "url": "https://www.thehindu.com/news/cities/Madurai/all-schools-in-dindigul-district-will-remain-closed-today/article71624337.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:02:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Fasalul and his love for overcoming hurdles",
-   "url": "https://www.thehindu.com/sport/fasalul-and-his-love-for-overcoming-hurdles/article71624203.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 22:01:39 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Freedom Park will come up in Kittur Fort, says CM Shivakumar",
-   "url": "https://www.thehindu.com/news/national/karnataka/freedom-park-will-come-up-in-kittur-fort-says-cm-shivakumar/article71624274.ece",
-   "content": "‘We will accord financial approval for the Channavrushabhendra Irrigation Project estimated to cost ₹520 crore as it will benefit Kittur region’",
-   "published_date": "Sun, 25 Oct 2026 21:59:11 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Five held in investment fraud case",
-   "url": "https://www.thehindu.com/news/national/telangana/five-held-in-investment-fraud-case/article71624245.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:58:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Woman dies after bike taxi loses balance on road dug up for drinking water project in Coimbatore city",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/woman-dies-after-bike-taxi-loses-balance-on-road-dug-up-for-drinking-water-project-in-coimbatore-city/article71624207.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:58:38 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Persistent rain causes waterlogging in Coimbatore; schools to remain closed on Monday",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/persistent-rain-causes-waterlogging-in-coimbatore-schools-to-remain-closed-on-monday/article71624156.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:55:12 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Pallet slips during maintenance at Kannur multi-level parking facility, raises safety concerns",
-   "url": "https://www.thehindu.com/news/national/kerala/pallet-slips-during-maintenance-at-kannur-multi-level-parking-facility-raises-safety-concerns/article71623969.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:53:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Telangana government to divert Godavari water to areas dependent on depleting Singur, Manjira reservoirs",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-government-diverts-godavari-water-to-areas-dependent-on-depleting-singur-manjira-reservoirs/article71624243.ece",
-   "content": "Pipeline interconnection works are underway near Velimela village, close to the Outer Ring Road to link the 3,000-mm-diameter Godavari ring main with the 1,200-mm-diameter Manjira Phase-III and IV gravity main pipelines",
-   "published_date": "Sun, 25 Oct 2026 21:53:48 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar",
-   "url": "https://www.thehindu.com/news/national/hindutva-reading-builds-on-colonial-interpretations-of-indian-history-romila-thapar/article71624128.ece",
-   "content": "Had greater attention been paid to physical evidence such as inscriptions, Indian history may have been interpreted differently, says the historian",
-   "published_date": "Sun, 25 Oct 2026 21:52:26 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Eminent painter Jogen Chowdhury passes away at 87",
-   "url": "https://www.thehindu.com/news/national/west-bengal/eminent-painter-jogen-chowdhury-dies-at-87-suvendu-mamata-pay-tribute/article71623064.ece",
-   "content": "Former Rajya Sabha member was nominated by Mamata Banerjee; his works brought international acclaim to West Bengal, says Chief Minister",
-   "published_date": "Sun, 25 Oct 2026 21:51:36 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Why is Rahul Gandhi silent on his promises to Telangana youth: KTR",
-   "url": "https://www.thehindu.com/news/national/telangana/why-is-rahul-gandhi-silent-on-his-promises-to-telangana-youth-ktr/article71624226.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:50:26 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Vote chori issue: Congress, India Bloc on same page, says AICC Observer",
-   "url": "https://www.thehindu.com/news/cities/Madurai/vote-chori-issue-congress-india-bloc-on-same-page-says-aicc-observer/article71624290.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:48:25 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Row erupts over Farooq Abdullah’s remarks on Pakistan and Kashmiris; BJP demands apology",
-   "url": "https://www.thehindu.com/videos/row-erupts-over-farooq-abdullahs-remarks-on-pakistan-and-kashmiris-bjp-demands-apology/article71624292.ece",
-   "content": "Jammu & Kashmir National Conference chief Farooq Abdullah has sparked a major political row by claiming Pakistan is helping protect Kashmiris, drawing sharp condemnation and demands for an apology from the BJP, which labeled his remarks an act of treason. While the Congress distanced itself from his statements, the CPI(M) blamed the Centre’s delay in restoring Jammu and Kashmir’s statehood for fueling local alienation and frustration.",
-   "published_date": "Sun, 25 Oct 2026 21:48:12 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Four Sudanese booked for entering India with fake visas",
-   "url": "https://www.thehindu.com/news/cities/Madurai/four-sudanese-booked-for-entering-india-with-fake-visas/article71624172.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:38:46 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Revanth to meet Fadnavis for Tummidihatti project height approval in Mumbai",
-   "url": "https://www.thehindu.com/news/national/telangana/revanth-to-meet-fadnavis-for-tummidihatti-project-height-approval-in-mumbai/article71623293.ece",
-   "content": "Telangana is seeking clearance from the upper riparian State for 152 metres FRL for the barrage to serve intended benefits",
-   "published_date": "Sun, 25 Oct 2026 21:38:45 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "AP JAC Amaravati women’s wing seeks two years of childcare leave for women employees",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-jac-amaravati-womens-wing-seeks-two-years-of-childcare-leave-for-women-employees/article71623925.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:38:37 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Rice pre-booking to lock prices; Telangana farmers get ₹3,000-₹3,500 per quintal in open markets",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-people-pre-book-rice-harvest-to-lock-prices-farmers-get-3000-3500-per-quintal-in-open-markets/article71622910.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:37:36 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "14 rice millers arrested over diversion of fine variety rice in Telangana",
-   "url": "https://www.thehindu.com/news/national/telangana/14-rice-millers-arrested-over-diversion-of-fine-variety-rice-in-telangana/article71623299.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:35:36 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "TG-iPASS portal to be restored in two days after cyberattack",
-   "url": "https://www.thehindu.com/news/national/telangana/tg-ipass-portal-to-be-restored-in-two-days-after-cyberattack/article71623629.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:34:24 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Four arrested in murder of youth near Nagercoil",
-   "url": "https://www.thehindu.com/news/cities/Madurai/four-arrested-in-murder-of-youth-near-nagercoil/article71623974.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:33:40 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Hundreds demand removal of Gyanesh Kumar in anti-SIR protest in Hyderabad",
-   "url": "https://www.thehindu.com/news/national/telangana/hundreds-demand-removal-of-gyanesh-kumar-in-anti-sir-protest-in-hyderabad/article71623736.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:33:04 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "TGSRTC launches ₹600 weekly bus pass for unlimited travel within Greater Hyderabad limits",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/tgsrtc-launches-600-weekly-bus-pass-for-unlimited-travel-within-greater-hyderabad-limits/article71623843.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:31:15 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "NDA secures six of nine urban local bodies in Kadapa district unopposed",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-secures-six-of-nine-urban-local-bodies-in-kadapa-district-unopposed/article71623806.ece",
-   "content": "",
-   "published_date": "Sun, 25 Oct 2026 21:28:55 +0530",
    "score": 0.6
   }
  ],

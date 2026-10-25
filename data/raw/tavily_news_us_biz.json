@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "U.S. Signs a Mining Agreement with Nigeria",
-   "url": "https://www.instituteforenergyresearch.org/international-issues/u-s-signs-a-mining-agreement-with-nigeria",
-   "snippet": "Nigeria and the United States signed an agreement on the sidelines of the U.N. General Assembly on September 24 to expand American investment in Nigeria's",
-   "published": "Tue, 20 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Critical minerals underpin Washington's Nigeria overtures - African Business",
-   "url": "https://african.business/2026/10/resources/critical-minerals-underpin-washingtons-nigeria-overtures",
-   "snippet": "Munira Raji, senior research fellow in green minerals and the energy transition at the Africa Policy Research Institute, tells African Business that the opportunities in Nigeria could be considerable for the US and other potential partners. [...] Share\n\nOn the sidelines of the United Nations General Assembly in New York in September, the United States and Nigeria agreed a new deal to “deepen Ameri",
-   "published": "Tue, 20 Oct 2026 10:47:27 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Elon Musk and Madagascar’s richest man turn to the same sector with $1 billion US media bet and $450 million Nigeria deal | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/elon-musk-and-madagascars-richest-man-turn-to-the-same-sector-with-dollar1-billion-us/gzh5sjr",
-   "snippet": "Elon Musk has invested $1 billion in the American media company Skydance, strengthening his ties with the Ellison family.\n Skydance recently acquired Warner Bros. Discovery, uniting major media brands but taking on $82.5 billion in debt.\n Skydance aims to cut $6 billion in costs over three years and plans to integrate artificial intelligence into its operations. [...] Meanwhile, American Billionai",
-   "published": "Sat, 24 Oct 2026 18:59:09 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "NextEra Energy board declares quarterly dividend | Morningstar",
-   "url": "https://www.morningstar.com/news/pr-newswire/20261022fl78616/nextera-energy-board-declares-quarterly-dividend",
-   "snippet": "NextEra Energy, Inc.NextEra Energy, Inc. (NYSE: NEE) is the largest electric power and energy infrastructure company in North America and is a leading provider of electricity to American homes and businesses. Headquartered in Juno Beach, Florida, NextEra Energy is a Fortune 200 company that owns Florida Power & Light Company, America's largest electric utility, which provides reliable electricity ",
-   "published": "Thu, 22 Oct 2026 18:51:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "sonnen USA Acquired by TIVEN from Shell: VPP Market Expansion - News and Statistics - IndexBox",
-   "url": "https://www.indexbox.io/blog/sonnen-usa-sold-by-shell-to-tiven-as-virtual-power-plant-push-continues",
-   "snippet": "Sweden\n\n         Market Size\n         Production\n         Imports\n         Exports\n    22. 11.22\n\n        Nigeria\n\n         Market Size\n         Production\n         Imports\n         Exports\n    23. 11.23\n\n        Poland\n\n         Market Size\n         Production\n         Imports\n         Exports\n    24. 11.24\n\n        Belgium\n\n         Market Size\n         Production\n         Imports\n         Expor",
-   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "COMMENTARY: From Canada to Nigeria, a race for more 'defence sovereignty' is on",
-   "url": "https://www.reuters.com/commentary/canada-nigeria-race-more-defence-sovereignty-is-2026-10-22",
-   "snippet": "By the time Eliot Pence stood down as head of international operations for US autonomous weapons powerhouse Anduril in 2022, the Canadian-born executive had",
-   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US Ends Solar Tariff Dodges, But Building Own Sector Is Tough",
-   "url": "https://energynow.com/2026/08/us-ends-solar-tariff-dodges-but-building-own-sector-is-tough",
-   "snippet": "By Dan Murtaugh Chinese solar companies will go to great lengths to reach the US…",
-   "published": "Sat, 24 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The withdrawal of the US-led coalition is a loss for Iraq's sovereignty - Atlantic Council",
-   "url": "https://www.atlanticcouncil.org/blogs/menasource/the-withdrawal-of-the-us-led-coalition-is-a-loss-for-iraqs-sovereignty",
-   "snippet": "By Hamdi Malik\n\nWhile signaling restraint, the militias are carving room to consolidate their position and shape the terms of Iraq’s next security order.\n\nConflict Crisis Management\n\nMENASource |\n\n### Can oil deals reset US-Iraqi relations?\n\nBy Yesar Al-Maleki\n\nIraq has a short window of time to rein in its militias and create favorable commercial conditions to improve ties with the US.\n\nEnergy & ",
-   "published": "Wed, 21 Oct 2026 18:24:03 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],
