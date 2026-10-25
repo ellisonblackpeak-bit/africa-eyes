@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Mali: Army, Russia's 'Africa Corps' Commit New Abuses - allAfrica.com",
-   "url": "https://allafrica.com/stories/202610230063.html",
-   "snippet": "On September 16, 2026, an apparent military drone strike in Guélédié village, Mopti region, killed eight civilians and injured at least six others. Between May and August, Malian and Africa Corps forces held numerous detainees inhumanely in a metal container at an army base in Sévaré town, Mopti region, where many were tortured, including with severe beatings, electric shock, and waterboarding.\n\nK",
-   "published": "Fri, 23 Oct 2026 05:08:26 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Malian army and rebels committing abuses against civilians, rights group says - RFI",
    "url": "https://www.rfi.fr/en/africa/20261019-malian-army-and-rebels-committing-abuses-against-civilians-rights-group-hrw-says",
    "snippet": "HRW's latest report is based on interviews between 30 July and 20 September with 30 people in central and northern Mali, including human rights activists, community leaders, journalists and a Malian soldier.\n\nThe NGO said it had documented \"two apparently indiscriminate Malian military drone attacks\".\n\nOne partially destroyed a health centre in Talhandak village in the northern Kidal region in Jul",
@@ -20,6 +13,13 @@
    "url": "https://www.africanews.com/2026/10/19/malis-army-and-rebel-opponents-guilty-of-human-rights-violations-new-report-finds",
    "snippet": "HRW's latest report is based on interviews between July 30 and September 20 with 30 people in central and northern Mali, including human rights activists, community leaders, journalists and a Malian soldier.\n\nThe NGO said it had documented \"two apparently indiscriminate Malian military drone attacks.\"\n\nOne partially destroyed a health centre in Talhandak village in the northern Kidal region in Jul",
    "published": "Mon, 19 Oct 2026 04:26:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali forces, Russian backers accused of killing civilians in drone strikes | News.az",
+   "url": "https://news.az/news/mali-forces-russian-backers-accused-of-killing-civilians-in-drone-strikes",
+   "snippet": "Source: Reuters\n\nMali’s armed forces and their Russian allies have carried out apparently indiscriminate drone strikes and other abuses during an intensified offensive against insurgents in recent months, killing dozens of civilians, Human Rights Watch said in a report on Monday. [...] Mali’s military leaders, who seized power in coups in 2020 and 2021, have turned to Russia for assistance in figh",
+   "published": "Mon, 19 Oct 2026 05:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -68,7 +68,7 @@
    "title": "Mali forces, Russian backers kill scores of civilians in drone strikes, report says",
    "url": "https://www.reuters.com/world/africa/mali-forces-russian-backers-kill-scores-civilians-drone-strikes-report-says-2026-10-19",
    "snippet": "Mali's armed forces and their Russian backers utilized some \"apparent indiscriminate\" drone ​strikes and other abuses as part of an ramped-up offensive",
-   "published": "Mon, 19 Oct 2026 14:00:00 GMT",
+   "published": "Mon, 19 Oct 2026 17:00:00 GMT",
    "source": "tavily"
   }
  ],

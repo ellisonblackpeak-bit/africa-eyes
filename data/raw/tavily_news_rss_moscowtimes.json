@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Ukrainian Attacks Kill 4 in Belgorod and Lipetsk, Hit Perm Industrial Plant",
-   "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-4-in-belgorod-and-lipetsk-hit-perm-industrial-plant-a94077",
-   "content": "Four people were killed in southwestern Russia’s Belgorod and Lipetsk regions and an industrial site damaged in the Perm region.",
-   "published_date": "Sun, 25 Oct 2026 16:40:00 +0300",
+   "title": "Ukrainian Attacks Kill 5 in Belgorod and Lipetsk, Hit Perm Industrial Plant",
+   "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-5-in-belgorod-and-lipetsk-hit-perm-industrial-plant-a94077",
+   "content": "Four people were killed in southwestern Russia’s Belgorod region and one in the Lipetsk region.",
+   "published_date": "Sun, 25 Oct 2026 19:00:00 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Moscow to Host 2030 World Weightlifting Championships, IWF Says",
+   "url": "https://www.themoscowtimes.com/2026/10/25/moscow-to-host-2030-world-weightlifting-championships-iwf-says-a94079",
+   "content": "No world championships in an Olympic sport have been held in Russia since the start of the war in Ukraine.",
+   "published_date": "Sun, 25 Oct 2026 18:30:00 +0300",
    "score": 0.6
   },
   {
@@ -342,13 +349,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/19/kursk-becomes-first-region-to-appoint-ukraine-war-veterans-rights-ombudsman-a94019",
    "content": "The ombudsman assists veterans and their families in navigating government services, claims and other administrative challenges.",
    "published_date": "Mon, 19 Oct 2026 14:29:51 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "FM Lavrov Arrives in Tehran for Talks With Iranian Leadership",
-   "url": "https://www.themoscowtimes.com/2026/10/19/fm-lavrov-arrives-in-tehran-for-talks-with-iranian-leadership-a94018",
-   "content": "The diplomatic visit comes after Donald Trump claimed Russia is “doing very little, if anything” to help Iran in the war with the U.S. and Israel.",
-   "published_date": "Mon, 19 Oct 2026 13:24:00 +0300",
    "score": 0.6
   }
  ],

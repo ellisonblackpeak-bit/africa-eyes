@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/vijaita/status/2113444355507933572",
+     "title": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS",
+     "description": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS summit. \n“In the past few-days, a situation arose where face-off happened at several locations in Arunachal and it still continues,” ITBP D-G Shatrujeet Kapur said on Thursday.\nThis is the first official confirmation of the scale of the continuing tensions on the north-eastern border since July this year.\nGovernment sources told The Hindu that since late July, India and China have been engaged in a stand-off at Asaphila near Taksing in Arunachal Pradesh. The Chinese People’s Liberation Army (PLA) is said to have pitched tents at an elevation, within 6-7 kilometres of India’s perception of the Line of Actual Control (LAC) near Maja company operating base in Taksing circle of Upper Subansiri district, sources said. I ✍️",
+     "snippet": "China and India in a standoff at multiple locations along Arunachal border since July, India hosted Xi Jinping from Sep 11-13 for the BRICS summit. \n“In the past few-days, a situation arose where face-off happened at several locations in Arunachal and it still continues,” ITBP D-G Shatrujeet Kapur said on Thursday.\nThis is the first official confirmation of the scale of the continuing tensions on the north-eastern border since July this year.\nGovernment sources told The Hindu that since late July, India and China have been engaged in a stand-off at Asaphila near Taksing in Arunachal Pradesh. The Chinese People’s Liberation Army (PLA) is said to have pitched tents at an elevation, within 6-7 kilometres of India’s perception of the Line of Actual Control (LAC) near Maja company operating base in Taksing circle of Upper Subansiri district, sources said. I ✍️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Vijaita Singh",
+     "handle": "@vijaita"
+    },
+    {
+     "url": "https://x.com/Unveiled_ChinaX/status/2113986121546052038",
+     "title": "ITBP Director General Shatrujeet Kapur confirmed on October 22 what New Delhi has downplayed for months: Indian and Chinese troops are locke",
+     "description": "ITBP Director General Shatrujeet Kapur confirmed on October 22 what New Delhi has downplayed for months: Indian and Chinese troops are locked in ongoing face-offs at multiple points in Arunachal Pradesh.\n\nHe said: “In the past few days, a situation arose where face-off happened at several locations in Arunachal and it still continues.” Kapur called China India’s “biggest adversary.”\n\nThe friction began in late July near Maja in Upper Subansiri. Patrols briefly confronted each other and withdrew. Government sources say Chinese troops later returned in larger numbers and pitched tents roughly 6–7 km inside India’s perception of the Line of Actual Control. India reinforced the area. No violence or casualties reported.\n\nIndia’s Foreign Ministry responded the next day with a familiar line: the border gets “disturbed from time to time when Chinese forces deviate from established patrolling patterns.” Diplomatic and military channels continue.\n\nThe face-offs persisted through August boundary talks in Beijing, a first-ever eastern sector Corps Commander meeting on September 6, and the BRICS summit Xi attended in New Delhi. Months of engagement, and troops remain face-to-face.\n\nKapur used the moment to call for drones, anti-drone systems, underground shelters, and new training to avoid Galwan-style clashes. Opposition leader Mallikarjun Kharge called the confirmation “deeply alarming” and demanded the prime minister “come clean.”\n\nTalks and summits have not moved the troops. India’s own border force now says the confrontation continues.",
+     "snippet": "ITBP Director General Shatrujeet Kapur confirmed on October 22 what New Delhi has downplayed for months: Indian and Chinese troops are locked in ongoing face-offs at multiple points in Arunachal Pradesh.\n\nHe said: “In the past few days, a situation arose where face-off happened at several locations in Arunachal and it still continues.” Kapur called China India’s “biggest adversary.”\n\nThe friction began in late July near Maja in Upper Subansiri. Patrols briefly confronted each other and withdrew. Government sources say Chinese troops later returned in larger numbers and pitched tents roughly 6–7 km inside India’s perception of the Line of Actual Control. India reinforced the area. No violence or casualties reported.\n\nIndia’s Foreign Ministry responded the next day with a familiar line: the border gets “disturbed from time to time when Chinese forces deviate from established patrolling patterns.” Diplomatic and military channels continue.\n\nThe face-offs persisted through August boundary talks in Beijing, a first-ever eastern sector Corps Commander meeting on September 6, and the BRICS summit Xi attended in New Delhi. Months of engagement, and troops remain face-to-face.\n\nKapur used the moment to call for drones, anti-drone systems, underground shelters, and new training to avoid Galwan-style clashes. Opposition leader Mallikarjun Kharge called the confirmation “deeply alarming” and demanded the prime minister “come clean.”\n\nTalks and summits have not moved the troops. India’s own border force now says the confrontation continues.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "UnveiledChina",
+     "handle": "@Unveiled_ChinaX"
+    },
+    {
+     "url": "https://x.com/TruthTrumpPost/status/2114004958429200415",
+     "title": "Chinese troops have pitched tents six to seven kilometers inside what India sees as its border.",
+     "description": "Chinese troops have pitched tents six to seven kilometers inside what India sees as its border.  🇨🇳🇮🇳\n\nThat is according to Indian government sources quoted by The Hindu. The spot is Asaphila, near Taksing, in Arunachal Pradesh. It began in late July, on a routine patrol near Maja. Both sides pulled back. Then, sources say, the Chinese returned in bigger numbers and dug in.\nNow India is raising drone platoons and building underground shelters along the line. In 2020 a clash in Galwan killed 20 Indian soldiers. Patrol season in these mountains ends this month. And the tents have not moved.",
+     "snippet": "Chinese troops have pitched tents six to seven kilometers inside what India sees as its border.  🇨🇳🇮🇳\n\nThat is according to Indian government sources quoted by The Hindu. The spot is Asaphila, near Taksing, in Arunachal Pradesh. It began in late July, on a routine patrol near Maja. Both sides pulled back. Then, sources say, the Chinese returned in bigger numbers and dug in.\nNow India is raising drone platoons and building underground shelters along the line. In 2020 a clash in Galwan killed 20 Indian soldiers. Patrol season in these mountains ends this month. And the tents have not moved.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Donald J Trump Posts TruthSocial",
+     "handle": "@TruthTrumpPost"
+    },
+    {
+     "url": "https://x.com/HemanNamo/status/2114009124786905282",
+     "title": "Chinese OSINT accounts are circulating selectively edited footage from the July 25, 2026 LAC face-off near Maja in Arunachal Pradesh to push",
+     "description": "Chinese OSINT accounts are circulating selectively edited footage from the July 25, 2026 LAC face-off near Maja in Arunachal Pradesh to push a narrative of calm border management.\nNotice the cropped India Today watermark visible at the 0:11 mark on the left soldier's leg.\nThe edit keeps a PLA commander speaking in Mandarin about \"sincerity\" and negotiating a 20-man headcount, followed by PLA troops filming from a ridge while reminding each other to take photos and record video.\nWhat this cut leaves out is the full confrontation: Indian Army and ITBP troops intercepted the PLA patrol inside India's perception of the LAC and forced the initial group to turn back.\nSelective video splicing remains a standard tool in modern border information operations. 🇮🇳",
+     "snippet": "Chinese OSINT accounts are circulating selectively edited footage from the July 25, 2026 LAC face-off near Maja in Arunachal Pradesh to push a narrative of calm border management.\nNotice the cropped India Today watermark visible at the 0:11 mark on the left soldier's leg.\nThe edit keeps a PLA commander speaking in Mandarin about \"sincerity\" and negotiating a 20-man headcount, followed by PLA troops filming from a ridge while reminding each other to take photos and record video.\nWhat this cut leaves out is the full confrontation: Indian Army and ITBP troops intercepted the PLA patrol inside India's perception of the LAC and forced the initial group to turn back.\nSelective video splicing remains a standard tool in modern border information operations. 🇮🇳",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Himanshu Jain",
+     "handle": "@HemanNamo"
+    },
+    {
+     "url": "https://x.com/vijaita/status/2113858271471616389",
+     "title": "There are mutually agreed disputes sites in Arunachal sector, Asaphila is one of them.",
+     "description": "There are mutually agreed disputes sites in Arunachal sector, Asaphila is one of them. However, this time, the tents have been pitched beyond the agreed disputed sites. And Government never acknowledged the scale of tensions, despite high-level military and diplomatic engagements on the issue. Corps Commander meeting is a first for Arunachal sector, after the 2020 Galwan incident. Any increase in mutually disputed sites eats into India’s territorial claims.",
+     "snippet": "There are mutually agreed disputes sites in Arunachal sector, Asaphila is one of them. However, this time, the tents have been pitched beyond the agreed disputed sites. And Government never acknowledged the scale of tensions, despite high-level military and diplomatic engagements on the issue. Corps Commander meeting is a first for Arunachal sector, after the 2020 Galwan incident. Any increase in mutually disputed sites eats into India’s territorial claims.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Vijaita Singh",
+     "handle": "@vijaita"
+    },
+    {
+     "url": "https://x.com/AHIRSTAN/status/2113829196862750752",
+     "title": "China doesn't need soldiers to fight the Indian army on the border; they just need a few drone operators who can operate them with precision.",
+     "description": "China doesn't need soldiers to fight the Indian army on the border; they just need a few drone operators who can operate them with precision. \n\n< Almost every second Chinese company manufactures drones. \n< They have vast drone technology and production capacity.\n< They simply need to pinpoint the exact location of an military post, and they can launch an attack with thousands of drones without using infantry.\n< The Chinese are using drone technology for domestic work, logistics, farming, military, and many other things.",
+     "snippet": "China doesn't need soldiers to fight the Indian army on the border; they just need a few drone operators who can operate them with precision. \n\n< Almost every second Chinese company manufactures drones. \n< They have vast drone technology and production capacity.\n< They simply need to pinpoint the exact location of an military post, and they can launch an attack with thousands of drones without using infantry.\n< The Chinese are using drone technology for domestic work, logistics, farming, military, and many other things.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Team Charlie Intel 卐",
+     "handle": "@AHIRSTAN"
+    },
+    {
+     "url": "https://x.com/Tejusurya_/status/2114062398500007963",
+     "title": "On 25 July 2026, during the Indio China face-off in Arunachal Pradesh, a photograph was taken by the Indian Army using a Chinese made OPPO p",
+     "description": "On 25 July 2026, during the Indio China face-off in Arunachal Pradesh, a photograph was taken by the Indian Army using a Chinese made OPPO phone.\n\nWe’re already boycotting Chinese products for national security. Then why is the Army using Chinese phones in such sensitive areas?",
+     "snippet": "On 25 July 2026, during the Indio China face-off in Arunachal Pradesh, a photograph was taken by the Indian Army using a Chinese made OPPO phone.\n\nWe’re already boycotting Chinese products for national security. Then why is the Army using Chinese phones in such sensitive areas?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AIN",
+     "handle": "@Tejusurya_"
+    },
+    {
+     "url": "https://x.com/Akash17971/status/2113950008898929029",
+     "title": "China Border Threats Highlight India’s Need for Advanced Warfare & AI-Driven Defence 🚨 Quality EMS, defence and aerospace companies to study",
+     "description": "China Border Threats Highlight India’s Need for Advanced Warfare & AI-Driven Defence 🚨\n\nQuality EMS, defence and aerospace companies to study and track 👇🏻\n\n▪️ Data Patterns\n▪️ Avalon Technologies\n▪️ Astra Microwave Products\n▪️ Rossell Techsys\n▪️ Apollo Micro Systems\n▪️ Aequs\n▪️ Syrma SGS Technology\n▪️ Paras Defence\n▪️ Netweb Technologies\n▪️ Centum Electronics\n▪️ Unimech Aerospace\n▪️ GRSE\n▪️ Sedemac Mechatronics\n▪️ AXISCADES Technologies\n▪️ Sahasra Electronic Solutions\n▪️ Avantel\n▪️ Sigma Advanced Systems\n▪️ Aimtron Electronics\n▪️ Krishna Defence\n▪️ CFF Fluid Control\n▪️ ideaForge Technology\n▪️ Shree Refrigerations\n▪️ Digilogic Systems\n▪️ Merritronix\n▪️ Apsis Aerocom\n▪️ Millworks Technologies\n▪️ Amber Enterprises\n▪️ MTAR Technologies\n▪️ Azad Engineering\n▪️ Zen Technologies\n▪️ Mishra Dhatu Nigam\n▪️ Bharat Electronics\n▪️ Hindustan Aeronautics\n▪️ Bharat Dynamics \n\nDon't chase falling prices blindly. Study business quality, order book, execution, revenue growth, margins, debt, valuations and cash flows before making investment decisions.\n\nThe goal is to identify quality businesses worth tracking, not merely stocks that have corrected.\n\n*For educational purposes only",
+     "snippet": "China Border Threats Highlight India’s Need for Advanced Warfare & AI-Driven Defence 🚨\n\nQuality EMS, defence and aerospace companies to study and track 👇🏻\n\n▪️ Data Patterns\n▪️ Avalon Technologies\n▪️ Astra Microwave Products\n▪️ Rossell Techsys\n▪️ Apollo Micro Systems\n▪️ Aequs\n▪️ Syrma SGS Technology\n▪️ Paras Defence\n▪️ Netweb Technologies\n▪️ Centum Electronics\n▪️ Unimech Aerospace\n▪️ GRSE\n▪️ Sedemac Mechatronics\n▪️ AXISCADES Technologies\n▪️ Sahasra Electronic Solutions\n▪️ Avantel\n▪️ Sigma Advanced Systems\n▪️ Aimtron Electronics\n▪️ Krishna Defence\n▪️ CFF Fluid Control\n▪️ ideaForge Technology\n▪️ Shree Refrigerations\n▪️ Digilogic Systems\n▪️ Merritronix\n▪️ Apsis Aerocom\n▪️ Millworks Technologies\n▪️ Amber Enterprises\n▪️ MTAR Technologies\n▪️ Azad Engineering\n▪️ Zen Technologies\n▪️ Mishra Dhatu Nigam\n▪️ Bharat Electronics\n▪️ Hindustan Aeronautics\n▪️ Bharat Dynamics \n\nDon't chase falling prices blindly. Study business quality, order book, execution, revenue growth, margins, debt, valuations and cash flows before making investment decisions.\n\nThe goal is to identify quality businesses worth tracking, not merely stocks that have corrected.\n\n*For educational purposes only",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Akash Chaudhary",
+     "handle": "@Akash17971"
+    },
+    {
+     "url": "https://x.com/Ekapada_Rudra/status/2113992727428022584",
+     "title": "Chinese didnt set up tents inside India's position.",
+     "description": "Chinese didnt set up tents inside India's position. \n\nHow much mis understanding it is.\n\nChinese set up tents inside \"India's LAC PERCEPTION\" whereby fundamentally there shouldn't be infrastructure along the line of perception.\n\nPeople who dont know whats LAC blabbering.",
+     "snippet": "Chinese didnt set up tents inside India's position. \n\nHow much mis understanding it is.\n\nChinese set up tents inside \"India's LAC PERCEPTION\" whereby fundamentally there shouldn't be infrastructure along the line of perception.\n\nPeople who dont know whats LAC blabbering.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Eka Rudra",
+     "handle": "@Ekapada_Rudra"
+    },
+    {
+     "url": "https://x.com/Clashfire_/status/2113563960918307021",
+     "title": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).",
+     "description": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).\n\nAccording to government sources cited by The Hindu, Chinese forces have advanced into the disputed area and established  encampments.\n\nhttps://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
+     "snippet": "🚨 Chinese PLA troops have reportedly set up tents 6–7 kilometres inside India's perceived Line of Actual Control (LAC).\n\nAccording to government sources cited by The Hindu, Chinese forces have advanced into the disputed area and established  encampments.\n\nhttps://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Clash Fire",
+     "handle": "@Clashfire_"
+    }
+   ]
+  }
+ ]
+}
