@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Sudurpaschim spends millions to fight child marriage, yet the practice persists",
+   "url": "https://kathmandupost.com/national/2026/10/25/sudurpaschim-spends-millions-to-fight-child-marriage-yet-the-practice-persists",
+   "content": "The province has spent Rs12.87 million on prevention programmes in five years, but has never assessed their impact.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "PHP2Shell security flaw forces thousands of Nepali websites offline",
+   "url": "https://kathmandupost.com/science-technology/2026/10/25/php2shell-security-flaw-forces-thousands-of-nepali-websites-offline",
+   "content": "Government portals, Nepal Rastra Bank’s website and some digital services have been suspended as a precaution after two critical vulnerabilities were discovered in PHP.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "NPL returns with bigger ambitions and global recognition",
+   "url": "https://kathmandupost.com/sports/2026/10/25/npl-returns-with-bigger-ambitions-and-global-recognition",
+   "content": "The third season begins in Kirtipur on Monday with ICC recognition, DRS technology and greater scope for international players.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Houthi attacks raise safety fears among Nepali workers in Saudi Arabia",
    "url": "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia",
    "content": "Around 400,000 Nepalis work in Saudi Arabia. Recent attacks have raised fresh concerns about their safety as workers call for better protection and emergency arrangements.",
@@ -257,27 +278,6 @@
    "title": "Kathmandu to host Cricket World Cup Qualifier Play-Off in December",
    "url": "https://kathmandupost.com/cricket/2026/10/22/kathmandu-to-host-cricket-world-cup-qualifier-play-off-in-december",
    "content": "Eight teams will compete for four places in the 2027 ICC Men’s Cricket World Cup Qualifier, with Nepal, the UAE, Namibia and Canada among the participants.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Two killed in motorcycle crash in Arghakhanchi",
-   "url": "https://kathmandupost.com/province-no-5/2026/10/22/two-killed-in-motorcycle-crash-in-arghakhanchi",
-   "content": "The motorcycle crashed in Bhumikasthan Municipality-2 on Wednesday night, killing the father and son at the scene.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "ICC recognises Nepal Premier League matches as List A T20 fixtures",
-   "url": "https://kathmandupost.com/cricket/2026/10/22/icc-recognises-nepal-premier-league-matches-as-list-a-t20-fixtures",
-   "content": "The recognition means performances in the October 26-November 21 tournament will count towards official T20 statistics.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Putin agrees to resume 3-way peace talks with Ukraine and US",
-   "url": "https://kathmandupost.com/world/2026/10/22/putin-agrees-to-resume-3-way-peace-talks-with-ukraine-and-us",
-   "content": "The Kremlin says the next round of US-mediated talks could begin in November, but Moscow and Kyiv remain far apart on territorial concessions, security guarantees and the terms of a peace deal.",
    "published_date": "",
    "score": 0.6
   }
