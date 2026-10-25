@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Michael71T/status/2113963795714646099",
+     "title": "Chinese-funded project can build a road through your country while much of the engineering, contracting, and equipment comes from China.",
+     "description": "Chinese-funded project can build a road through your country while much of the engineering, contracting, and equipment comes from China.\n\nSo Bangladesh, Nepal and Sri Lanka is simple: are you building your own capacity, or financing someone else’s business?",
+     "snippet": "Chinese-funded project can build a road through your country while much of the engineering, contracting, and equipment comes from China.\n\nSo Bangladesh, Nepal and Sri Lanka is simple: are you building your own capacity, or financing someone else’s business?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Michael Turner",
+     "handle": "@Michael71T"
+    },
+    {
+     "url": "https://x.com/AlexanderS259/status/2113965199543931068",
+     "title": "China is using economic partnerships to expand its regional influence, and South Asia cannot afford to ignore the strategic implications.",
+     "description": "China is using economic partnerships to expand its regional influence, and South Asia cannot afford to ignore the strategic implications. Bangladesh, Nepal, Myanmar and Sri Lanka must scrutinise Chinese-backed ports, loans and infrastructure projects. 1/2",
+     "snippet": "China is using economic partnerships to expand its regional influence, and South Asia cannot afford to ignore the strategic implications. Bangladesh, Nepal, Myanmar and Sri Lanka must scrutinise Chinese-backed ports, loans and infrastructure projects. 1/2",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alexander Stewart",
+     "handle": "@AlexanderS259"
+    },
+    {
+     "url": "https://x.com/shashanksri4872/status/2113971670843297846",
+     "title": "floods in the Mekong downstream countries.",
+     "description": "floods in the Mekong downstream countries. Look at how the Chinese infrastructure triggered the devastating flood in Nepal. This dam is our ultimate defense. If you don't want basic access to water requiring Beijing's stamp of approval, supporting it is non-negotiable.",
+     "snippet": "floods in the Mekong downstream countries. Look at how the Chinese infrastructure triggered the devastating flood in Nepal. This dam is our ultimate defense. If you don't want basic access to water requiring Beijing's stamp of approval, supporting it is non-negotiable.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Shashank srivastav",
+     "handle": "@shashanksri4872"
+    },
+    {
+     "url": "https://x.com/KumaoniDeepti/status/2113669523635331359",
+     "title": "Recall it when Nepal had disaster floods few weeks back..",
+     "description": "Recall it when Nepal had disaster floods few weeks back.. And China making railway line and power projects in Nepal was blamed as a cause by India. Why should I accept it if India repeats the same in our part of Himalayas?",
+     "snippet": "Recall it when Nepal had disaster floods few weeks back.. And China making railway line and power projects in Nepal was blamed as a cause by India. Why should I accept it if India repeats the same in our part of Himalayas?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "deepti",
+     "handle": "@KumaoniDeepti"
+    },
+    {
+     "url": "https://x.com/AlexanderS259/status/2113599339952300517",
+     "title": "China is steadily expanding its strategic footprint across South Asia.",
+     "description": "China is steadily expanding its strategic footprint across South Asia. Look at Gwadar in Pakistan, the Chinese-backed development of Mongla Port in Bangladesh, and Beijing’s growing economic and infrastructure ambitions in Nepal and Bhutan’s neighbourhood. 1/2",
+     "snippet": "China is steadily expanding its strategic footprint across South Asia. Look at Gwadar in Pakistan, the Chinese-backed development of Mongla Port in Bangladesh, and Beijing’s growing economic and infrastructure ambitions in Nepal and Bhutan’s neighbourhood. 1/2",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alexander Stewart",
+     "handle": "@AlexanderS259"
+    },
+    {
+     "url": "https://x.com/IsabellaAn67/status/2113593416261288090",
+     "title": "I urge @ChiefAdviserGoB, @PM_nepal and @MMuizzu to look beyond China’s promises of ports, dams and grand infrastructure.",
+     "description": "I urge @ChiefAdviserGoB, @PM_nepal and @MMuizzu to look beyond China’s promises of ports, dams and grand infrastructure. China itself faces property-sector troubles, debt pressures and weak domestic demand. 1/2",
+     "snippet": "I urge @ChiefAdviserGoB, @PM_nepal and @MMuizzu to look beyond China’s promises of ports, dams and grand infrastructure. China itself faces property-sector troubles, debt pressures and weak domestic demand. 1/2",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Isabella Anderson",
+     "handle": "@IsabellaAn67"
+    },
+    {
+     "url": "https://x.com/Blake47q/status/2113616178711261678",
+     "title": "Bad condition of #Nepal’s roads.",
+     "description": "Bad condition of #Nepal’s roads.\nNearly 100m of Prithvi Highway cracked, 20m sank, traffic halted.\n#BalenShah chases #China alignments while basic highways collapse under his govt.\nProgress? Just deeper potholes.\n\n@gbudhathoki",
+     "snippet": "Bad condition of #Nepal’s roads.\nNearly 100m of Prithvi Highway cracked, 20m sank, traffic halted.\n#BalenShah chases #China alignments while basic highways collapse under his govt.\nProgress? Just deeper potholes.\n\n@gbudhathoki",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Blake Richardson",
+     "handle": "@Blake47q"
+    },
+    {
+     "url": "https://x.com/karmawangchukzz/status/2113613094177865884",
+     "title": "they were triggered by Beijing's aggressive, reckless infrastructure construction blasting through fragile mountain terrain in Tibet.",
+     "description": "they were triggered by Beijing's aggressive, reckless infrastructure construction blasting through fragile mountain terrain in Tibet. Nepal secured a $20M FRLD grant, but the real culprit is completely absent from the bill. 2/",
+     "snippet": "they were triggered by Beijing's aggressive, reckless infrastructure construction blasting through fragile mountain terrain in Tibet. Nepal secured a $20M FRLD grant, but the real culprit is completely absent from the bill. 2/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Karma Wangchuk",
+     "handle": "@karmawangchukzz"
+    },
+    {
+     "url": "https://x.com/NepCorres/status/2113478968711999673",
+     "title": "They have a balanced approach towards selling own country.",
+     "description": "They have a balanced approach towards selling own country. While they take impressive benefits from West and back Ukraine in the war, they also have taken loads of money from Chinese.\n\nThe ongoing protest started 2 years back when a Chinese made canopy collapse killed civilians.",
+     "snippet": "They have a balanced approach towards selling own country. While they take impressive benefits from West and back Ukraine in the war, they also have taken loads of money from Chinese.\n\nThe ongoing protest started 2 years back when a Chinese made canopy collapse killed civilians.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nepal Correspondence",
+     "handle": "@NepCorres"
+    },
+    {
+     "url": "https://x.com/Abhish_ek45/status/2113237918223655240",
+     "title": "Beijing’s version of regional cooperation: promote trade when it suits China, restrict it when security concerns arise, and leave neighbouri",
+     "description": "Beijing’s version of regional cooperation: promote trade when it suits China, restrict it when security concerns arise, and leave neighbouring businesses guessing. Nepal needs reliable trade routes, not uncertainty dictated by Beijing. \n\n https://kathmandupost.com/national/2026/10/17/beijing-s-security-concerns-cloud-nepal-s-push-to-reopen-tatopani",
+     "snippet": "Beijing’s version of regional cooperation: promote trade when it suits China, restrict it when security concerns arise, and leave neighbouring businesses guessing. Nepal needs reliable trade routes, not uncertainty dictated by Beijing. \n\n https://kathmandupost.com/national/2026/10/17/beijing-s-security-concerns-cloud-nepal-s-push-to-reopen-tatopani",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ABHISHEK KUMAR",
+     "handle": "@Abhish_ek45"
+    }
+   ]
+  }
+ ]
+}

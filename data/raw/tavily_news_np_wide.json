@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Corridor Catastrophe | MCLC Resource Center",
+   "url": "https://u.osu.edu/mclc/2026/10/20/corridor-catastrophe",
+   "snippet": "the road from the Rasuwagadhi border to Syaprubesi. Combined with the dry port and border security cooperation, a key objective has been to eliminate logistics frictions between the two countries. Trade between China and Nepal has increased significantly over the last decade, as Chinese exports have more than doubled while Nepal’s exports have remained stagnant. Chinese SOEs have also been the big",
+   "published": "Tue, 20 Oct 2026 14:58:59 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nepal News | Nepal's First Online News Portal",
+   "url": "https://english.nepalnews.com/s/politics/everything-you-need-to-know-about-finance-ministers-new-india-narrative-and-why-it-sparked-debate",
+   "snippet": "Strategic risks are even more complex. When selecting investors for a project, conducting energy trade, or constructing infrastructure, Nepal may need to keep in mind the competition between India and China alongside its own economic interests. In such situations, to maintain sovereign decision-making independence, clear policies and capable institutional negotiations are necessary. [...] Finance ",
+   "published": "Sun, 25 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nepal Glacial Lakes Flood Risk Mitigation Project | India Safety Measures",
+   "url": "https://www.bhaskarenglish.in/international/news/nepal-glacial-lakes-flood-risk-mitigation-project-india-safety-139426972.html",
+   "snippet": "A 2020 report by the United Nations Development Programme (UNDP) and the International Centre for Integrated Mountain Development identified 47 glacial lakes across India, Nepal and China as being at high risk. Of these, 21 are in Nepal, 25 in China and one in India. [...] He said the project would not eliminate the flood risk entirely but would prioritise the four lakes considered capable of caus",
+   "published": "Tue, 20 Oct 2026 02:54:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Today’s News in a Nutshell « Khabarhub",
+   "url": "https://english.khabarhub.com/2026/24/572976",
+   "snippet": "Former President Bidya Devi Bhandari has called for stronger cooperation among Himalayan countries, including Nepal, China, and India, in sharing meteorological data, monitoring glaciers, developing early warning systems, and coordinating disaster response. Addressing the 2026 Global Governance Forum in Xiong’an, Hebei Province, China, earlier today, Bhandari said global governance was closely lin",
+   "published": "Sat, 24 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Renewed flooding in Nepal challenges communities and animals",
+   "url": "https://www.ifaw.org/au/news/floods-nepal-china-2026",
+   "snippet": "Those relationships and preparedness efforts are now helping inform the response. IFAW is supporting remote assessments through established contacts in affected areas, while our team in China is gathering information from local and regional sources and contacts to help build a clearer cross-border picture of the disaster and emerging animal needs.\n\nIFAW has also notified its global network of anim",
+   "published": "Thu, 22 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China bets on manufactured water, and wants to sell it to the world | Reuters",
+   "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22",
+   "snippet": "The push is rooted in domestic risk. In August, a ​glacier collapse near the border between Nepal and Tibet showed how volatile natural water sources are becoming.\n\nTibet's \"water towers\" feed headwaters for nearly 2 billion people across South, Southeast and East Asia, and climate change ​is eroding them. Meanwhile, severe over-extraction in northern China has depleted groundwater and left key fa",
+   "published": "Thu, 22 Oct 2026 05:35:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Four New APAC Hotels in the Pipeline - THP News",
+   "url": "https://tophotel.news/four-new-apac-hotels-in-the-pipeline",
+   "snippet": "Asia Pacific is one of the world’s most dynamic hotel markets, spanning established destinations such as Australia and fast-growing urban centers such as southern China, as well as island resorts in the Maldives and emerging markets such as Nepal. International and regional brands continue to invest across the region, with projects ranging from city hotels to luxury island retreats. [...] Location",
+   "published": "Thu, 22 Oct 2026 12:00:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Is China Trying To Slow India’s Border Infrastructure Buildup?",
+   "url": "https://swarajyamag.com/defence/is-china-trying-to-slow-indias-border-infrastructure-buildup",
+   "snippet": "The Rishikesh–Karnaprayag railway, which will end in Uttarakhand’s Chamoli district on the border with Tibet, and the Pakal Dul hydroelectric project on the Chenab in Kishtwar, Jammu and Kashmir, belong in this picture even though neither sits on the LAC.\n\nNearly every one of these projects depends on imported machinery in one form or another, and that is where China’s latest move comes in.\n\nWhat ",
+   "published": "Fri, 23 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "np_wide",
  "_query": "Nepal China project",
  "_domains": [],

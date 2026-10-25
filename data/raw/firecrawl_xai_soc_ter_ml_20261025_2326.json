@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SahelAlerte/status/2113920279013376500",
+     "title": "🚨 Urgent | Mali 🇲🇱 Le JNIM affirme avoir mené une attaque contre une patrouille de l’armée malienne entre Gouma et Tidoul, près de la ville",
+     "description": "🚨 Urgent | Mali 🇲🇱\n\nLe JNIM affirme avoir mené une attaque contre une patrouille de l’armée malienne entre Gouma et Tidoul, près de la ville de Diabaly, dans la région de Ségou, ce samedi matin 24 octobre 2026.",
+     "snippet": "🚨 Urgent | Mali 🇲🇱\n\nLe JNIM affirme avoir mené une attaque contre une patrouille de l’armée malienne entre Gouma et Tidoul, près de la ville de Diabaly, dans la région de Ségou, ce samedi matin 24 octobre 2026.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/AUCOEURDUSAHEL/status/2114112446193709246",
+     "title": "Au Mali L'embuscade de ce samedi matin 24/10/2026 contre un convoi de #famas entre Goma et Tidol(Biriki-were) dans la zone de #Diabaly a coû",
+     "description": "Au Mali\n\nL'embuscade de ce samedi matin 24/10/2026 contre un convoi de #famas entre Goma et Tidol(Biriki-were) dans la zone de #Diabaly a coûté la vie à un soldat malien et deux autres blessés, selon les sources locales. L'attaque a été revendiquée par le #JNIM.",
+     "snippet": "Au Mali\n\nL'embuscade de ce samedi matin 24/10/2026 contre un convoi de #famas entre Goma et Tidol(Biriki-were) dans la zone de #Diabaly a coûté la vie à un soldat malien et deux autres blessés, selon les sources locales. L'attaque a été revendiquée par le #JNIM.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AU COEUR DU SAHEL",
+     "handle": "@AUCOEURDUSAHEL"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2114029779045191688",
+     "title": "L'armée endeuillée ce Samedi au Mali : Le JNIM frappe dans la région de Ségou Selon une dépêche du confrère Sahel Alerte, le JNIM a annoncé",
+     "description": "L'armée endeuillée ce Samedi au Mali : Le JNIM frappe dans la région de Ségou\n\nSelon une dépêche du confrère Sahel Alerte, le JNIM a annoncé ce Samedi, avoir attaqué une patrouille des terroristes FAmas entre Gouma et Tidoul près de Diabaly, dans la région de Ségou. \n\nDes tueries quotidiennes qui se répètent à divers endroits du territoire Malien contrôlé à au moins 40% par la filiale Ouest-Africaine d'Al-Qaïda.",
+     "snippet": "L'armée endeuillée ce Samedi au Mali : Le JNIM frappe dans la région de Ségou\n\nSelon une dépêche du confrère Sahel Alerte, le JNIM a annoncé ce Samedi, avoir attaqué une patrouille des terroristes FAmas entre Gouma et Tidoul près de Diabaly, dans la région de Ségou. \n\nDes tueries quotidiennes qui se répètent à divers endroits du territoire Malien contrôlé à au moins 40% par la filiale Ouest-Africaine d'Al-Qaïda.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2113734177824834026",
+     "title": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM Une patrouille des FAmas à la solde de l",
+     "description": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM \n\nUne patrouille des FAmas à la solde de la junte terroriste de Bamako, est tombée dans la soirée de ce Vendredi 23 Octobre, dans une embuscade tendue par le JNIM entre Djermane et Djarkane dans la région de Sikasso.\n\nDes pertes en vies humaines devraient sans surprise être enregistrées au cours de cet incident sécuritaire.",
+     "snippet": "La mort frappe encore les FAmas au Mali : Des soldats tombent dans une embuscade tendue par le JNIM \n\nUne patrouille des FAmas à la solde de la junte terroriste de Bamako, est tombée dans la soirée de ce Vendredi 23 Octobre, dans une embuscade tendue par le JNIM entre Djermane et Djarkane dans la région de Sikasso.\n\nDes pertes en vies humaines devraient sans surprise être enregistrées au cours de cet incident sécuritaire.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/DepecheAES/status/2113206114753958078",
+     "title": "#URGENT 🚨 : Les terroristes de l'EIGS et le Jnim, affilié à Al-Qaida, se livrent une guerre d’une intensité inédite.",
+     "description": "#URGENT 🚨 : Les terroristes de l'EIGS et le Jnim, affilié à Al-Qaida, se livrent une guerre d’une intensité inédite. Depuis plusieurs semaines, les deux principales organisations jihadistes s’affrontent dans la zone des trois frontières entre le Mali, le Burkina Faso et le Niger avec des centaines de morts revendiqués de part et d'autre. \nle contrôle des territoires, des routes stratégiques et des population est la cause.\n\nSource le journal du Faso ✍🏽\n\n#JNIM #EIGS #Mali #BurkinaFaso #Niger #AES",
+     "snippet": "#URGENT 🚨 : Les terroristes de l'EIGS et le Jnim, affilié à Al-Qaida, se livrent une guerre d’une intensité inédite. Depuis plusieurs semaines, les deux principales organisations jihadistes s’affrontent dans la zone des trois frontières entre le Mali, le Burkina Faso et le Niger avec des centaines de morts revendiqués de part et d'autre. \nle contrôle des territoires, des routes stratégiques et des population est la cause.\n\nSource le journal du Faso ✍🏽\n\n#JNIM #EIGS #Mali #BurkinaFaso #Niger #AES",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dépêche AES ✍🏽",
+     "handle": "@DepecheAES"
+    },
+    {
+     "url": "https://x.com/stopwagnergroup/status/2113270391837724905",
+     "title": "Africa Corps under pressure: the 🌴Sahel, April–October 2026 Russia promised security to the Sahel’s military regimes.",
+     "description": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "snippet": "Africa Corps under pressure: the 🌴Sahel, April–October 2026\n\nRussia promised security to the Sahel’s military regimes. The facts tell a different story.\n\n🇲🇱 Mali: On 25 April, coordinated 🥷JNIM and FLA attacks struck several locations, including Bamako and Kati. Defence Minister Sadio Camara was killed and Kidal fell to the FLA. On 10 September, JNIM overran Dioura, reportedly killing over 100 Malian soldiers and five Africa Corps personnel. Russian-backed forces returned to Kidal in October after the FLA withdrew—but holding it remains the real test.\n\n🇧🇫 Burkina Faso: JNIM continues to inflict heavy losses. At least 34 civilians were reportedly executed in Titao in February; around 90 soldiers were reportedly killed in a September ambush at Koubel-Alpha.\n\n🇳🇪 Niger: More than 50 security personnel were reportedly killed in two September attacks. Even Niamey’s military infrastructure has been targeted. Africa Corps has not stopped the insurgency.\n\nThe verdict: Russia’s presence has not delivered security. The 🇺🇸US State Department advises Americans NOT TO TRAVEL to all three AES countries.\n\n#AES #Sahel #Mali #BurkinaFaso #Niger #JNIM",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Stop Wagner",
+     "handle": "@stopwagnergroup"
+    },
+    {
+     "url": "https://x.com/SankaraDispatch/status/2113442100712820966",
+     "title": "🇲🇱 Mali is bleeding. At least 48 civilians from the Idaksahak community were killed when ISIS fighters attacked Tagadayat village in the Mén",
+     "description": "🇲🇱 Mali is bleeding. \n\nAt least 48 civilians from the Idaksahak community were killed when ISIS fighters attacked Tagadayat village in the Ménaka region on October 19.\n\nThe attackers accused residents of sharing information about their positions with the Malian army ahead of a drone strike. Several people were wounded, and families fled toward Ménaka.\n\nCivilians continue to pay the price of the Sahel's escalating security crisis.",
+     "snippet": "🇲🇱 Mali is bleeding. \n\nAt least 48 civilians from the Idaksahak community were killed when ISIS fighters attacked Tagadayat village in the Ménaka region on October 19.\n\nThe attackers accused residents of sharing information about their positions with the Malian army ahead of a drone strike. Several people were wounded, and families fled toward Ménaka.\n\nCivilians continue to pay the price of the Sahel's escalating security crisis.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "𝐏𝐚𝐧𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐈𝐧𝐭𝐞𝐥",
+     "handle": "@SankaraDispatch"
+    },
+    {
+     "url": "https://x.com/MorCam_Intel/status/2113369099682054540",
+     "title": "🧵 1/6 COMBAT ANALYSIS & GEOINT Subject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video Admiralty Grade: A1 (Confirmed Pinpoint) Coordi",
+     "description": "🧵 1/6 COMBAT ANALYSIS & GEOINT\n\nSubject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video \n\nAdmiralty Grade: A1 (Confirmed Pinpoint) Coordinates: 14.321651, -5.899139 (Niono / Office du Niger Irrigation Scheme, Ségou Region, Mali 🇲🇱)\n\n👇 Full tactical breakdown & annotated satellite verification:",
+     "snippet": "🧵 1/6 COMBAT ANALYSIS & GEOINT\n\nSubject: Az-Zallaqa (JNIM) Ambush & Convoy Exploitation Video \n\nAdmiralty Grade: A1 (Confirmed Pinpoint) Coordinates: 14.321651, -5.899139 (Niono / Office du Niger Irrigation Scheme, Ségou Region, Mali 🇲🇱)\n\n👇 Full tactical breakdown & annotated satellite verification:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MorCam Intel Desk 🛰️",
+     "handle": "@MorCam_Intel"
+    },
+    {
+     "url": "https://x.com/NickAtNight999/status/2114097233016569908",
+     "title": "Sounds like he needs to fight back against the insurgents.",
+     "description": "Sounds like he needs to fight back against the insurgents.  To help make his country SAFE.\n\n____\n\n\"Mali insurgents consist primarily of two coordinated factions: the Jama’at Nusrat al-Islam wal Muslimin (JNIM), an Al-Qaeda-linked group seeking to impose strict Islamic rule, and the Azawad Liberation Front (FLA), a Tuareg-led separatist movement fighting for independence in northern Mali.  These groups have significantly escalated violence in 2026, capturing key strategic locations including Kidal, Anefis, and parts of Gao after a major joint offensive in April that killed Mali’s defense minister.\n\nRecent developments include a July 4, 2026, coordinated attack on at least five locations, including a prison in Kenieroba near the capital, and ongoing clashes in the north where rebels have captured dozens of Malian soldiers. In October 2026, a separate faction, the Islamic State in the Sahel Province (ISSP), killed at least 48 civilians in Ménaka in retaliation for abuses by pro-government militias and Russia’s Africa Corps.  Human Rights Watch has reported that both insurgent groups and the Malian military, alongside its Russian allies, are committing grave violations, including the execution of surrendered soldiers and indiscriminate drone strikes against civilians.\"",
+     "snippet": "Sounds like he needs to fight back against the insurgents.  To help make his country SAFE.\n\n____\n\n\"Mali insurgents consist primarily of two coordinated factions: the Jama’at Nusrat al-Islam wal Muslimin (JNIM), an Al-Qaeda-linked group seeking to impose strict Islamic rule, and the Azawad Liberation Front (FLA), a Tuareg-led separatist movement fighting for independence in northern Mali.  These groups have significantly escalated violence in 2026, capturing key strategic locations including Kidal, Anefis, and parts of Gao after a major joint offensive in April that killed Mali’s defense minister.\n\nRecent developments include a July 4, 2026, coordinated attack on at least five locations, including a prison in Kenieroba near the capital, and ongoing clashes in the north where rebels have captured dozens of Malian soldiers. In October 2026, a separate faction, the Islamic State in the Sahel Province (ISSP), killed at least 48 civilians in Ménaka in retaliation for abuses by pro-government militias and Russia’s Africa Corps.  Human Rights Watch has reported that both insurgent groups and the Malian military, alongside its Russian allies, are committing grave violations, including the execution of surrendered soldiers and indiscriminate drone strikes against civilians.\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nicholas James",
+     "handle": "@NickAtNight999"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2113621003616047503",
+     "title": "Jnim were the core fighting forces.",
+     "description": "Jnim were the core fighting forces. Mali made a strategic move of using heavy handed response against jnim in April while the azawad rebels suffer minor hits... the fighting between jnim vs isis sahel was as a result of the events in April, Is-sahel sense jnim has been weakened and is trying to gain more jnim territory... all pro azawad accounts have been accusing Is-sahel of working with bamako because they refused to help azawad in April",
+     "snippet": "Jnim were the core fighting forces. Mali made a strategic move of using heavy handed response against jnim in April while the azawad rebels suffer minor hits... the fighting between jnim vs isis sahel was as a result of the events in April, Is-sahel sense jnim has been weakened and is trying to gain more jnim territory... all pro azawad accounts have been accusing Is-sahel of working with bamako because they refused to help azawad in April",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    }
+   ]
+  }
+ ]
+}

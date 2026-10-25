@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
+   "url": "https://www.bbc.com/news/articles/cq1kdlm1ze7do",
+   "snippet": "The country is also battling a jihadist insurgency in its northeast that has lasted nearly two decades, drawing persistent criticism of the government's handling of insecurity.\n\nFollowing the latest incident, police said they recovered 10 bodies with gunshot wounds after officers responded to a distress call.\n\nThe attackers had fled by the time they arrived but they continued to patrol the area to",
+   "published": "Sun, 25 Oct 2026 03:20:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria confirms Ebola case in woman who arrived from Uganda | AP News",
+   "url": "https://apnews.com/article/nigeria-ebola-first-case-africa-d39e454fbe1be1243e4e39fb46939f62",
+   "snippet": "Nigeria is the latest country to report an Ebola case as the latest outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.\n\nDr. Jean Kaseya, director general of the Africa Centers for Disease Control, said on X that “we are facing an extremely serious threat,” with a fatality rate of nearly 50% of cases.\n\n\n\n1 person rescued fro",
+   "published": "Tue, 20 Oct 2026 17:36:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria confirms first Ebola case in woman traveling from Uganda : NPR",
+   "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+   "snippet": "Nigeria is the latest country to report an Ebola case as the latest outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.\n\n### State of the World from NPR\n\n### United Nations' new Ebola coordinator\n\nDr. Jean Kaseya, director general of the Africa Centers for Disease Control, said on X that \"we are facing an extremely serious t",
+   "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Christian persecution in Nigeria claims three more lives | The Alabama Baptist",
+   "url": "https://thealabamabaptist.org/christian-persecution-in-nigeria-claims-three-more-lives",
+   "snippet": "Skip to content\n\n Gift a subscription\n Subscribe\n Renew\n Donate\n\n Gift a subscription\n Subscribe\n Renew\n Donate\n\nThe Alabama Baptist\n\n \n\n# Christian persecution in Nigeria claims three more lives\n\nThe targeting of Christians in Nigeria has claimed three more lives.\n\n The Alabama Baptist\n Latest News, Persecuted Church\n\nNigerian Red Cross Society tribute to Lydia Nwankwo, slain in Sokoto state, Nig",
+   "published": "Fri, 23 Oct 2026 20:45:20 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "WHO supports Nigeria after first Ebola case confirmed | UN News",
+   "url": "https://news.un.org/en/story/2026/10/1168637",
+   "snippet": "Nigeria is the fifth country to detect Ebola Bundibugyo virus disease since an outbreak was declared in the Democratic Republic of the Congo (DRC) in mid-May – the deadliest in the country’s history.\n\nMore than 9,500 cases and more than 4,200 deaths were recorded as of 18 October, according to latest data from the Congolese health authorities. There is currently no vaccine to treat the virus. [...",
+   "published": "Wed, 21 Oct 2026 08:57:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Switzerland confirms Nigeria’s latest Ebola patient is a Swiss diplomat’s wife who returned from her native Uganda, denies DR Congo visit | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/lifestyle/switzerland-confirms-nigerias-latest-ebola-patient-is-a-swiss-diplomats-wife-who/yrpl9jp",
+   "snippet": "Nigeria's health authorities are expanding contact tracing beyond the 44 people initially identified as potentially exposed to the Swiss diplomat's wife.\n\nThe patient developed symptoms on October 7 and sought treatment at private health facilities before receiving her Ebola diagnosis nearly two weeks later.\n\nShe remains in isolation and is showing signs of improvement, according to the WHO. [...]",
+   "published": "Fri, 23 Oct 2026 12:36:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+   "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+   "snippet": "Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.",
+   "published": "Wed, 21 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support",
+   "url": "https://www.reuters.com/world/africa/nigerias-tinubu-launches-re-election-campaign-economic-pain-tests-support-2026-10-24",
+   "snippet": "President Bola Tinubu formally launched his campaign for a second term on Saturday ‌in the northern city of Kaduna, where he sought to convince voters that",
+   "published": "Sat, 24 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Is Latest Country with a Positive Ebola Identification in What Is One of the Worst Ebola Outbreaks Ever",
+   "url": "https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2026/october/ebola-outbreak",
+   "snippet": "Nigeria had its first positive case of Ebola identified in a woman who had traveled from Uganda and possibly the Democratic Republic of Congo.",
+   "published": "Thu, 22 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kenya confirms ninth Ebola case amid concerns about regional spread | Ebola News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case",
+   "snippet": "Published On 20 Oct 202620 Oct 2026\n\n⁠Kenya has confirmed ⁠a new Ebola case, bringing the total ‌number of infections in the country to ⁠nine, amid an outbreak in the Democratic Republic of Congo (DRC), raising concerns about a regional spread.\n\nA 24-year-old man, who was already being held in quarantine, is the latest to test positive, Kenya’s Ministry of Health said in a statement on Tuesday.\n\n#",
+   "published": "Tue, 20 Oct 2026 17:31:26 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],
