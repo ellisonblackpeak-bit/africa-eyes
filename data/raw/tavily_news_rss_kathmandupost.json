@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Three dead, three missing in motorboat accident in eastern Nepal",
+   "url": "https://kathmandupost.com/province-no-1/2026/10/25/three-dead-three-missing-in-motorboat-accident-in-eastern-nepal",
+   "content": "The boat was carrying 15 passengers and its operator from Bhojpur to Chatara when it crashed in Dhankuta district on Sunday afternoon, reportedly after its brakes failed.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Kathmandu Police spokesperson says security arrangements for this NPL will be stronger and more dependable",
+   "url": "https://kathmandupost.com/interviews/2026/10/25/kathmandu-police-spokesperson-says-security-arrangements-for-this-npl-will-be-stronger-and-more-dependable",
+   "content": "Superintendent of Police Dan Bahadur Thapa explains the security plan, the technology behind it and the police’s fight against illegal betting.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "RSP panel to examine audio as Khagendra Sunar denies allegations of violence against woman",
+   "url": "https://kathmandupost.com/national/2026/10/25/rsp-panel-to-examine-audio-as-khagendra-sunar-denies-allegations-of-violence-against-woman",
+   "content": "The lawmaker has alleged a conspiracy against him, prompting the party’s disciplinary committee to seek further evidence and consider technical analysis of the recording attributed to him.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Bay of Bengal cyclone to bring rain and snow to Nepal from Thursday night",
+   "url": "https://kathmandupost.com/weather/2026/10/25/bay-of-bengal-cyclone-to-bring-rain-and-snow-to-nepal-from-thursday-night",
+   "content": "The weather system is expected to affect much of Nepal through Saturday, raising concerns for farmers preparing to harvest paddy and trekkers heading to the Himalayas.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "How Ukraine’s strikes on Russian energy sites deepened the rift with Trump",
+   "url": "https://kathmandupost.com/world/2026/10/25/how-ukraine-s-strikes-on-russian-energy-sites-deepened-the-rift-with-trump",
+   "content": "Diesel prices have hit record highs since the US and Israel launched a ​war against Iran in February, and global energy costs spiked.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "NPL Season 3 winner to receive Rs15 million as prize money rises",
    "url": "https://kathmandupost.com/cricket/2026/10/25/npl-season-3-winner-to-get-rs15-million",
    "content": "CAN expects the tournament’s gross revenue to reach Rs1.5 billion, driven by sponsorships, ticket sales and broadcasting.",
@@ -243,41 +278,6 @@
    "title": "Banks and government agencies take websites offline over PHP security flaws",
    "url": "https://kathmandupost.com/money/2026/10/23/banks-and-government-agencies-take-websites-offline-over-php-security-flaws",
    "content": "Nepal Rastra Bank has urged financial institutions, payment operators and remittance companies to strengthen their defences after serious vulnerabilities were found in PHP, a programming language widely used to run websites.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "What’s new in the Nepal Premier League’s third season?",
-   "url": "https://kathmandupost.com/cricket/2026/10/23/what-s-new-in-the-nepal-premier-league-s-third-season",
-   "content": "DRS, ICC sanction, international stars and upgraded stadium facilities mark the tournament’s return to Kirtipur on October 26.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Nepal takes government websites offline over critical PHP flaws",
-   "url": "https://kathmandupost.com/science-technology/2026/10/23/nepal-takes-government-websites-offline-over-critical-php-flaws",
-   "content": "Emergency patching is underway after two vulnerabilities exposed systems worldwide to attacks that could allow hackers to run code on servers without logging in.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Hacking attempts surge as firms race to patch PHP flaws",
-   "url": "https://kathmandupost.com/world/2026/10/23/hacking-attempts-surge-as-firms-race-to-patch-php-flaws",
-   "content": "Cloud providers report millions of hacking attempts as governments and companies rush to secure systems and temporarily suspend online services.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
-   "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16",
-   "content": "The quake struck a sparsely populated, high-altitude area of northern Tibet, injuring 32 people and prompting rescue teams to mobilise.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Loss and damage fund approves $20 million for Nepal",
-   "url": "https://kathmandupost.com/national/2026/10/22/loss-and-damage-fund-allocates-20-million-to-nepal",
-   "content": "The funding is intended to help flood-hit communities in the Bhotekoshi–Trishuli region recover and rebuild.",
    "published_date": "",
    "score": 0.6
   }

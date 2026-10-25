@@ -1,0 +1,86 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/ADEYUSUF_ia/status/2113399368250167644",
+     "title": "How a Village Self-Defence Group Turned Into Nigeria’s New Cross-Border Terror Bridge In 2017, border villages in Sokoto invited an armed he",
+     "description": "How a Village Self-Defence Group Turned Into Nigeria’s New Cross-Border Terror Bridge\n\nIn 2017, border villages in Sokoto invited an armed herding militia, Lakurawa to shield them from bandits.\n\nBy 2026, that former vigilante force had evolved into one of Nigeria’s fastest-spreading terror threats:\n• Taxed Kebbi and Sokoto communities ₦50m ($36,000) in March 2026 just to let clerics preach Ramadan tafsir\n• Killed 162 civilians in Woro and Nuku, Kwara State after villages rejected its rule\n• Built an active corridor linking Sahelian jihadists (ISGS/JNIM) toward northern Benin and central Nigeria\n\nHistory’s hardest internal security lesson repeats: when the state leaves a vacuum, outsourced community defence rarely stays defensive for long.",
+     "snippet": "How a Village Self-Defence Group Turned Into Nigeria’s New Cross-Border Terror Bridge\n\nIn 2017, border villages in Sokoto invited an armed herding militia, Lakurawa to shield them from bandits.\n\nBy 2026, that former vigilante force had evolved into one of Nigeria’s fastest-spreading terror threats:\n• Taxed Kebbi and Sokoto communities ₦50m ($36,000) in March 2026 just to let clerics preach Ramadan tafsir\n• Killed 162 civilians in Woro and Nuku, Kwara State after villages rejected its rule\n• Built an active corridor linking Sahelian jihadists (ISGS/JNIM) toward northern Benin and central Nigeria\n\nHistory’s hardest internal security lesson repeats: when the state leaves a vacuum, outsourced community defence rarely stays defensive for long.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ade-yusuf",
+     "handle": "@ADEYUSUF_ia"
+    },
+    {
+     "url": "https://x.com/SaharaReporters/status/2113307073039466793",
+     "title": "Sokoto Police Confirm Bandits Killed Driver, Two Others; Source Says Recruited Govt Workers Among Dead | Sahara Reporters https://sahararepo",
+     "description": "Sokoto Police Confirm Bandits Killed Driver, Two Others; Source Says Recruited Govt Workers Among Dead | Sahara Reporters https://saharareporters.com/2026/10/22/sokoto-police-confirm-bandits-killed-driver-two-others-source-says-recruited-govt",
+     "snippet": "Sokoto Police Confirm Bandits Killed Driver, Two Others; Source Says Recruited Govt Workers Among Dead | Sahara Reporters https://saharareporters.com/2026/10/22/sokoto-police-confirm-bandits-killed-driver-two-others-source-says-recruited-govt",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahara Reporters",
+     "handle": "@SaharaReporters"
+    },
+    {
+     "url": "https://x.com/abdulbaqee2/status/2113222181127876978",
+     "title": "Security incident. Yesterday. Bandits attacked commuters along the Sokoto-Isa highway, Isa LGA, Sokoto State, shooting to death two newly re",
+     "description": "Security incident.\n\nYesterday. Bandits attacked commuters along the Sokoto-Isa highway, Isa LGA, Sokoto State, shooting to death two newly recruited TSB employees, the deceased were on their way home after verification exercise. \n\nStay safe and be vigilant",
+     "snippet": "Security incident.\n\nYesterday. Bandits attacked commuters along the Sokoto-Isa highway, Isa LGA, Sokoto State, shooting to death two newly recruited TSB employees, the deceased were on their way home after verification exercise. \n\nStay safe and be vigilant",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abdulbaqee",
+     "handle": "@abdulbaqee2"
+    },
+    {
+     "url": "https://x.com/MrJoshuaEze/status/2113308940259971247",
+     "title": "Bandits reportedly killed passengers on the Isa road in Sokoto, including new state recruits back from certificate screening.",
+     "description": "Bandits reportedly killed passengers on the Isa road in Sokoto, including new state recruits back from certificate screening. Locals say they begged to be screened in their LGAs because the road is not safe.\n\nMay their souls rest. When people say road no safe, believe them.",
+     "snippet": "Bandits reportedly killed passengers on the Isa road in Sokoto, including new state recruits back from certificate screening. Locals say they begged to be screened in their LGAs because the road is not safe.\n\nMay their souls rest. When people say road no safe, believe them.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mr Joshua Eze",
+     "handle": "@MrJoshuaEze"
+    },
+    {
+     "url": "https://x.com/Itz_NASDH/status/2113180423618752580",
+     "title": "For How long the people of Sokoto east particularly Isa/Sabon Birni LGA would continue to suffer from the bandits attack?",
+     "description": "For How long the people of Sokoto east particularly Isa/Sabon Birni LGA would continue to suffer from the bandits attack? Yesterday passengers vehicle was attacked by the bandits along Sokoto-Isa road killing these young men the child while others are now being hospitalised.",
+     "snippet": "For How long the people of Sokoto east particularly Isa/Sabon Birni LGA would continue to suffer from the bandits attack? Yesterday passengers vehicle was attacked by the bandits along Sokoto-Isa road killing these young men the child while others are now being hospitalised.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CostEngr.",
+     "handle": "@Itz_NASDH"
+    },
+    {
+     "url": "https://x.com/Finleyfresh33/status/2113276021210251416",
+     "title": "BREAKING: Bandits reportedly intercepted a vehicle conveying passengers returning from Sokoto city and fatally shot all the occupants in the",
+     "description": "BREAKING: Bandits reportedly intercepted a vehicle conveying passengers returning from Sokoto city and fatally shot all the occupants in the vehicle. \n🚗 \n\nThe incident occurred along the road to Isa Local Government Area of Sokoto State.",
+     "snippet": "BREAKING: Bandits reportedly intercepted a vehicle conveying passengers returning from Sokoto city and fatally shot all the occupants in the vehicle. \n🚗 \n\nThe incident occurred along the road to Isa Local Government Area of Sokoto State.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Finleyfinely",
+     "handle": "@Finleyfresh33"
+    },
+    {
+     "url": "https://x.com/sani_suleman_/status/2113563901518287153",
+     "title": "breaking! Yesterday Bandits Intercept Vehicle Along Isa LGA, Sokoto, Kill All Passengers Returning From Govt Recruitment Screening 😥😭",
+     "description": "breaking!\n\nYesterday Bandits Intercept Vehicle Along Isa LGA, Sokoto, Kill All Passengers Returning From Govt Recruitment Screening 😥😭",
+     "snippet": "breaking!\n\nYesterday Bandits Intercept Vehicle Along Isa LGA, Sokoto, Kill All Passengers Returning From Govt Recruitment Screening 😥😭",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sani Suleman Isah",
+     "handle": "@sani_suleman_"
+    }
+   ]
+  }
+ ]
+}
