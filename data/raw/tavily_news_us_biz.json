@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "U.S. Signs a Mining Agreement with Nigeria",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/u-s-signs-a-mining-agreement-with-nigeria",
+   "snippet": "Nigeria and the United States signed an agreement on the sidelines of the U.N. General Assembly on September 24 to expand American investment in Nigeria's",
+   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical minerals underpin Washington's Nigeria overtures - African Business",
+   "url": "https://african.business/2026/10/resources/critical-minerals-underpin-washingtons-nigeria-overtures",
+   "snippet": "Munira Raji, senior research fellow in green minerals and the energy transition at the Africa Policy Research Institute, tells African Business that the opportunities in Nigeria could be considerable for the US and other potential partners. [...] Share\n\nOn the sidelines of the United Nations General Assembly in New York in September, the United States and Nigeria agreed a new deal to “deepen Ameri",
+   "published": "Tue, 20 Oct 2026 10:47:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Halliburton tops estimates as Latin America, Europe cushion North American weakness – Brazil Energy Insight",
+   "url": "https://brazilenergyinsight.com/2026/10/20/halliburton-tops-estimates-as-latin-america-europe-cushion-north-american-weakness",
+   "snippet": "Total revenue rose 1.8% to $5.7 billion in ​the third quarter, beating analysts’ estimates of $5.6 billion, according to data compiled by LSEG.\n\nHalliburton's Q3 regional revenue performance\n\nHalliburton’s Q3 regional revenue performance\n\nQuarterly revenue in Latin America increased nearly 12.6% to $1.1 billion, while revenue from Europe and Africa ​jumped 22.7% to $1.02 billion, lifted by increas",
+   "published": "Tue, 20 Oct 2026 12:20:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Embraces Solar Energy as Panels Become Popular on Wedding Registries - Bloomberg",
+   "url": "https://www.bloomberg.com/news/features/2026-10-23/nigeria-embraces-solar-energy-as-panels-become-popular-on-wedding-registries",
+   "snippet": "Generators, televisions and refrigerators have long filled the shop fronts. Now, solar panels, inverters and lithium batteries increasingly compete for space. Brands like Deye and Felicity Solar are everywhere, alongside counterfeits in copycat packaging with names like Fidelity or Facility. [...] # In Nigeria, Solar Panels Are the New Wedding Gift\n\nHigh fuel prices and cheap Chinese technology ar",
+   "published": "Fri, 23 Oct 2026 06:30:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria-focused OPay seeks $366 million in New York IPO at $4.4 billion valuation as Standard Bank commits up to $200 million | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/nigeria-focused-opay-seeks-dollar366-million-in-new-york-ipo-at-dollar44-billion/nxgmqy6",
+   "snippet": "The company’s US Securities and Exchange Commission filing⁠ also shows that Stanbic’s final investment will be the lowest amount produced by three separate limits, including the $200 million ceiling.\n\n## Nigeria remains OPay’s financial centre\n\nOPay is incorporated in the Cayman Islands and headquartered in Singapore, but Nigeria remains its most important market. [...] Nigeria generated 89.5% of ",
+   "published": "Mon, 26 Oct 2026 06:43:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "sonnen USA Acquired by TIVEN from Shell: VPP Market Expansion - News and Statistics - IndexBox",
+   "url": "https://www.indexbox.io/blog/sonnen-usa-sold-by-shell-to-tiven-as-virtual-power-plant-push-continues",
+   "snippet": "Sweden\n\n         Market Size\n         Production\n         Imports\n         Exports\n    22. 11.22\n\n        Nigeria\n\n         Market Size\n         Production\n         Imports\n         Exports\n    23. 11.23\n\n        Poland\n\n         Market Size\n         Production\n         Imports\n         Exports\n    24. 11.24\n\n        Belgium\n\n         Market Size\n         Production\n         Imports\n         Expor",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "See how Big Tech is transforming Spain's landscape : NPR",
+   "url": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+   "snippet": "This drought-stricken region of northeast Spain has become the focus of American companies searching for locations to place their energy- and water-intensive data centers. In Aragon, Amazon Web Services promises to spend almost $40 billion to build multiple vast complexes — one alone as large as 600 American football fields. Microsoft and the asset management firm Blackstone are among those follow",
+   "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+   "url": "https://www.reuters.com/business/energy/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions-2026-10-22",
+   "snippet": "Purchase Licensing Rights\n\n## Read Next\n\n   10 hours agoEnergy categoryEXCLUSIVE  US aims to loan about a third of heating oil reserve in bid to tame prices , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information you can trust [...] US crude stocks fell by ​3.06 million barrels to 412.5 m",
+   "published": "Thu, 22 Oct 2026 00:46:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Ends Solar Tariff Dodges, But Building Own Sector Is Tough",
+   "url": "https://energynow.com/2026/08/us-ends-solar-tariff-dodges-but-building-own-sector-is-tough",
+   "snippet": "By Dan Murtaugh Chinese solar companies will go to great lengths to reach the US…",
+   "published": "Sun, 25 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Weekly Global Economic Update | Deloitte Insights",
+   "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
+   "snippet": "68 gigawatts of new electricity, but that only 30 gigawatts were accounted for by existing projects. The rest remains uncertain. [...] that exports are booming. On the other hand, data centers now use about 7% of the country’s electricity-generating capacity; this can potentially rise to 31% by 2035. [...] When it comes to US inflation, the narrative mostly still revolves around energy. And the si",
+   "published": "Wed, 21 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],

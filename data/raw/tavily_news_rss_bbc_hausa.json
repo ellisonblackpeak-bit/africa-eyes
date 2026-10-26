@@ -2,10 +2,31 @@
  "success": true,
  "results": [
   {
-   "title": "An fitar da matar da ta kai cutar Ebola Najeriya daga ƙasar",
+   "title": "Yadda aka yi jana'izar mutum 50 da suka mutu a harin ƴanbindiga a Taraba",
+   "url": "https://www.bbc.com/hausa/articles/cmwyq9v25lppo?at_medium=RSS&at_campaign=rss",
+   "content": "Ƴanbindiga sun kai hari hari ƙauyen ne jim kaɗan bayan sallar Juma'a, suna harbin kan mai uwa da wabi, tare da sace kayayyakin abinci da kuma ƙona shaguna da babura.",
+   "published_date": "Mon, 26 Oct 2026 15:10:53 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ƴan Houthi sun yi iƙirarin kai hari tashoshin tura mai na Saudiyya",
    "url": "https://www.bbc.co.uk/hausa/live/cq4g1wn21w1et?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 26/10/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Fitattun mutanen da ke cikin kwamitin yaƙin neman zaɓen Obi da Kwankwaso",
+   "url": "https://www.bbc.com/hausa/articles/cqe8rw111y16o?at_medium=RSS&at_campaign=rss",
+   "content": "Jam'iyyar ta ce ta fitar da sunayen kwamitin da nufin faɗaɗa tasirin yaƙin neman zaɓenta a dukkan jihohin Najeriya.",
+   "published_date": "Mon, 26 Oct 2026 11:45:08 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa nasarar Lula ke da muhimmanci bayan lashe zaɓe wa'adi na huɗu?",
+   "url": "https://www.bbc.com/hausa/articles/ck1l3zl6r7zeo?at_medium=RSS&at_campaign=rss",
+   "content": "Le président brésilien remporte une victoire qui semblait improbable il y a quelques jours lors du second tour face au candidat de droite Flávio Bolsonaro et entame ainsi un quatrième mandat semé d'embûches.",
+   "published_date": "Mon, 26 Oct 2026 12:55:38 GMT",
    "score": 0.6
   },
   {
@@ -37,27 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Gine-gine 8 mafiya ƙayatarwa a duniya",
-   "url": "https://www.bbc.com/hausa/articles/c65yn2pkj4p8o?at_medium=RSS&at_campaign=rss",
-   "content": "Tsawon lokaci mai yawa, masu zanen gine-gine suna amfani da launi a matsayin wata muhimmiyar hanya wajen ƙara wa ayyukansu kyan gani, armashi da kuma baje fasaha",
-   "published_date": "Sun, 25 Oct 2026 18:13:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Da gaske Tinubu ne ya yi silar zaman Buhari shugaban Najeriya?",
-   "url": "https://www.bbc.com/hausa/articles/cmewe8l0zr40o?at_medium=RSS&at_campaign=rss",
-   "content": "Sau biyar marigayin ya tsaya takarar shugaban ƙasa, inda ya faɗi uku a 2003 da 2007 da 2011, sannan ya samu nasara a biyu a 2015 da 2019.",
-   "published_date": "Sun, 25 Oct 2026 03:51:32 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Amfani da illolin madarar shanun da ba a tafasa ba",
-   "url": "https://www.bbc.com/hausa/articles/cm4g19n95ngxo?at_medium=RSS&at_campaign=rss",
-   "content": "Yawancin nau'ikan madarar da ake sayarwa a kasuwa ana dumama ta ne domin kashe kwayoyin cutar da ke cikinta da kuma hana ta lalacewa da wuri.",
-   "published_date": "Sun, 25 Oct 2026 04:15:34 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -65,7 +65,14 @@
    "score": 0.6
   },
   {
-   "title": "Howe na shirin tattauna da United, ƙungiyoyin Firimiya uku na zawarcin Karl",
+   "title": "Shugabannin Man United za su tattauna kan makomar Carrick",
+   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Howe na shirin tattaunawa da United, ƙungiyoyin Firimiya uku na zawarcin Karl",
    "url": "https://www.bbc.com/hausa/articles/cm62yrq2ledvo?at_medium=RSS&at_campaign=rss",
    "content": "A shirye Eddie Howe yake don fara tattaunawa da Manchester United idan har suka raba gari da Michael Carrick, wasu ƙunguiyoyin dake buga gasar Firimiya uku na sa ido kan ɗan wasan Bayern Munich Lennart Karl, sai Manchester United da ke harin ɗan wasan Everton Jarrad Branthwaite.",
    "published_date": "Mon, 26 Oct 2026 03:45:56 GMT",
@@ -86,17 +93,31 @@
    "score": 0.6
   },
   {
-   "title": "Aston Villa na nazari kan Garnacho, Brighton na hari Diego Gomez",
-   "url": "https://www.bbc.com/hausa/articles/cqn49ddwwxn1o?at_medium=RSS&at_campaign=rss",
-   "content": "Aston Villa na shakkun ɗaukar Alejandro Garnacho a maimakon ɗan ci gaba da taka mata leda a matsayin ɗan wasan aro, Brighton ta dage kan ba zata siyar da Diego Gomez ba, sai Manchester United da masu neman shugabancin ƙungiyar ke bayana damuwa kan yan wasan ƙungiyar.",
-   "published_date": "Sat, 24 Oct 2026 04:01:09 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Me ya sa magoya bayan Man City ke yi wa taken Premier League ihu?",
    "url": "https://www.bbc.com/hausa/articles/cmg4735z619lo?at_medium=RSS&at_campaign=rss",
    "content": "Hayaniyar ihu da tsangwama lokacin taken Premier League da Champions League kafin fara wasa yanzu ya zama ruwan dare a filin wasa na Etihad Stadium.",
    "published_date": "Thu, 22 Oct 2026 11:07:50 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Gine-gine 8 mafiya ƙayatarwa a duniya",
+   "url": "https://www.bbc.com/hausa/articles/c65yn2pkj4p8o?at_medium=RSS&at_campaign=rss",
+   "content": "Tsawon lokaci mai yawa, masu zanen gine-gine suna amfani da launi a matsayin wata muhimmiyar hanya wajen ƙara wa ayyukansu kyan gani, armashi da kuma baje fasaha",
+   "published_date": "Sun, 25 Oct 2026 18:13:24 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Da gaske Tinubu ne ya yi silar zaman Buhari shugaban Najeriya?",
+   "url": "https://www.bbc.com/hausa/articles/cmewe8l0zr40o?at_medium=RSS&at_campaign=rss",
+   "content": "Sau biyar marigayin ya tsaya takarar shugaban ƙasa, inda ya faɗi uku a 2003 da 2007 da 2011, sannan ya samu nasara a biyu a 2015 da 2019.",
+   "published_date": "Sun, 25 Oct 2026 03:51:32 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Amfani da illolin madarar shanun da ba a tafasa ba",
+   "url": "https://www.bbc.com/hausa/articles/cm4g19n95ngxo?at_medium=RSS&at_campaign=rss",
+   "content": "Yawancin nau'ikan madarar da ake sayarwa a kasuwa ana dumama ta ne domin kashe kwayoyin cutar da ke cikinta da kuma hana ta lalacewa da wuri.",
+   "published_date": "Sun, 25 Oct 2026 04:15:34 GMT",
    "score": 0.6
   },
   {
@@ -188,27 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cre3xk5kdqqxo?at_medium=RSS&at_campaign=rss",
    "content": "Wata sabuwar muhawara ta kunno kai a Najeriya kan zargin cewa gwamnatin ƙasar na shirin ɓullo da wani sabon haraji da ka iya ƙara tasiri ga farashin man fetur a ƙasar.",
    "published_date": "Thu, 22 Oct 2026 16:14:18 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wace ce matar da ta kai Ebola Najeriya?",
-   "url": "https://www.bbc.com/hausa/articles/ck7vp8j6nzp4o?at_medium=RSS&at_campaign=rss",
-   "content": "Matar wani jami'in diflomasiyya ne da ke Abuja ta yi tafiya zuwa Kampala don hutu.",
-   "published_date": "Thu, 22 Oct 2026 11:01:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yaya girman rikicin cikin-gida a APC, kuma ta yaya zai shafi jam'iyyar?",
-   "url": "https://www.bbc.com/hausa/articles/c5wyrp93veexo?at_medium=RSS&at_campaign=rss",
-   "content": "Ana dai ganin akwai wasu alamun ɓaraka a babbar jam'iyyar ta APC a cikin-gida, kamar yadda lamarin yake a sauran jam'iyyu a ƙasar, musamman waɗanda suke da ƙarfi a siyasar ƙasar.",
-   "published_date": "Thu, 22 Oct 2026 03:56:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wace ƙungiya ce Como wadda ta koya wa Man United darasi?",
-   "url": "https://www.bbc.com/hausa/articles/cxvgd7r2z3y9o?at_medium=RSS&at_campaign=rss",
-   "content": "Labarin nasarar Serie A Como ta koma daga Serie D zuwa Gasar Zakarun Turai - yanzu sun koya wa Manchester United darasi a Turai.",
-   "published_date": "Thu, 22 Oct 2026 11:32:43 GMT",
    "score": 0.6
   }
  ],

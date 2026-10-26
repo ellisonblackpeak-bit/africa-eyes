@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "The Nigerian government has approved a weekly payment ...",
+   "url": "https://www.facebook.com/100066676973079/posts/the-nigerian-government-has-approved-a-weekly-payment-of-100000-to-each-person-q/1472532714979280",
+   "snippet": "The Nigerian government has approved a weekly payment of ₦100000 to each person quarantined over Ebola, pending their release from quarantine.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "President Tinubu Approves 18-Month Extension for Immigration, Correctional Chiefs - Voice of Nigeria",
+   "url": "https://von.gov.ng/president-tinubu-approves-18-month-extension-for-immigration-correctional-chiefs",
+   "snippet": "Borno Food Bank Supports 560 Beneficiaries, 468 Children - Voice of Nigeria on Nigerian Government  Reaffirms Committment to Women Economic Empowerment\n\nNigerian Government Approves Establishment of Snakebite Treatment Centre - Voice of Nigeria on Anambra Approves N640 Million for Healthcare, Education Projects\n\nNSITF Calls for Tripartite Economic Cooperation - Voice of Nigeria on NSITF, South Afr",
+   "published": "Tue, 20 Oct 2026 10:33:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Approves 90-Day Plan to Ease Cost-of-Living ...",
+   "url": "https://www.ecofinagency.com/news/2310-60070-nigeria-approves-90-day-plan-to-ease-cost-of-living-pressure-on-households",
+   "snippet": "Nigeria has approved a 90-day action plan to lower living costs, improve food access, and attract investment. Annual inflation slowed to 14.63% in September",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "State Police in Nigeria: 24 States Approve Constitutional Amendment",
+   "url": "https://www.youtube.com/watch?v=mSXneUySt6I",
+   "snippet": "# State Police in Nigeria: 24 States Approve Constitutional Amendment\n## Channel: News Central TV (verified)\n251K subscribers\n1 likes\n\n### Description\n41 views\nPosted: 2026-10-23\nNigeria has moved closer to establishing state police after 24 State Houses of Assembly approved a constitutional amendment providing for a dual policing system, according to the Presidential Working Group on the National",
+   "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NCDC Approves N100,000 Weekly Support For Ebola ...",
+   "url": "https://www.instagram.com/reel/De7rRAWjaFX",
+   "snippet": "NCDC Approves N100,000 Weekly Support For Ebola Isolated Contacts · EBOLA IN ABUJA: FEDERAL GOVERNMENT MUST ACT NOW! · The Nigeria Centre for Disease Control",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "STATE POLICE CLEARS CONSTITUTIONAL HURDLE",
+   "url": "https://www.facebook.com/hotnewsinnaija1/posts/breaking-state-police-clears-constitutional-hurdle-24-states-approve-as-presiden/1732522432209914",
+   "snippet": "BREAKING NEWS: STATE POLICE BILL TRANSMITTED TO 36 STATE ASSEMBLIES FOR FINAL APPROVAL. As we document the moments completely transforming Nigeria's governance",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Set For State Police, As 24 States Give Legislative ...",
+   "url": "https://www.youtube.com/watch?v=NKHrWF66-HA",
+   "snippet": "Constitutional Amendment: 24 Houses Of Assembly Approve State Police Bill · Katsina Emir Descends on APC Delegation, Warns Against Unfulfilled Promises.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Economic Policy Framework",
+   "url": "https://finance.gov.ng/Nigeria%20Economic%20Policy%20Framework_Public%20Consultation_FINAL.pdf",
+   "snippet": "Timeline 1. Consult Public consultation on this document, including stakeholder sessions and input from the general public Oct – Nov 2026 2. Develop Development of the full Framework, including detailed decision rules for each component, informed by responses Nov 2026 3. Validate Validation with the National Assembly, States, the private sector, labour, civil society and development partners Nov –",
+   "published": "Sun, 25 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Arrested or in prison in Nigeria - GOV.UK",
+   "url": "https://www.gov.uk/guidance/arrested-or-in-prison-in-nigeria",
+   "snippet": "You may be able to apply to transfer to a prison in the UK.\n\n### Transferring to a prison in Nigeria\n\nPrisoners in Nigeria may be transferred between correctional centres for administrative, security, medical, or operational reasons. A prisoner may also request a transfer by applying through the prison authorities, although approval is at the discretion of the Nigerian Correctional Service and is ",
+   "published": "Mon, 26 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NEC APPROVES 90-DAY PLAN TO EASE COST OF ...",
+   "url": "https://www.facebook.com/AriseTVNews/videos/nec-approves-90-day-plan-to-ease-cost-of-livingthe-national-economic-council-has/1759676851804284",
+   "snippet": "NEC APPROVES 90-DAY PLAN TO EASE COST OF LIVING The National Economic Council has approved a 90-day action plan to address the rising cost of living and",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ng",
  "_query": "Nigeria government approves",
  "_domains": [],

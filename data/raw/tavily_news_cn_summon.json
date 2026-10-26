@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Philippines summons Chinese ambassador to protest remarks it says threatened force",
+   "url": "https://www.washingtonpost.com/world/2026/10/19/china-philippines-ambassador-sea-disputes/0c3a4676-cb9d-11f1-ac04-9f58578a68b4_story.html",
+   "snippet": "The Philippine government has summoned the Chinese ambassador to protest remarks it considered a threat to use force.",
+   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DFA summons Jing over ‘easy win’ | Malou Talosig-Bartolome",
+   "url": "https://businessmirror.com.ph/2026/10/19/dfa-summons-jing-over-easy-win",
+   "snippet": "FOREIGN Affairs Secretary Ma. Theresa Lazaro summoned Chinese Ambassador Jing Quan on Monday over remarks that Beijing “may easily win” if it chose to use",
+   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Philippine­s summons Chinese ambassador to protest remarks",
+   "url": "https://www.pressreader.com/macau/macau-daily-times/20261020/281638197186478",
+   "snippet": "2026-10-20 - MDT/AP Politics · Philippines · Beijing · South China Sea · Manila · China · Ferdinand Marcos, Jr. · the Chinese government · Gilberto Teodoro",
+   "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Alibaba Stock Slips as China Renews Regulatory Pressure<!-- --> - Barron's",
+   "url": "https://www.barrons.com/articles/alibaba-stock-china-regulation-3f2d6df9",
+   "snippet": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\nBarron's\n\n# Alibaba Stock Slips as China Renews Regulatory Pressure\n\nAlibaba Group Holding stock was falling Thursday as regulatory pressures from Beijing—long the bogeyman of the Chinese tech sector—appeared to rise again. While Alibaba has recently made a successful pivot to artificial intelligence, it is still vulnerable to governmen",
+   "published": "Thu, 22 Oct 2026 16:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US bars Chinese AI tool DeepSeek from federal civilian agency networks",
+   "url": "https://www.trtworld.com/article/d59bfd047f3c",
+   "snippet": "Washington orders agencies to remove the Chinese AI firm's software, citing potential data exposure and cybersecurity vulnerabilities, as Beijing accuses",
+   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Alibaba Shares Post Steepest Drop in Two Months on China Curbs - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs",
+   "snippet": "# Alibaba Shares Post Steepest Drop in Two Months on China Curbs\n\nAlibaba Group Holding Ltd.’s shares suffered their steepest decline in two months as investors fretted over Chinese authorities’ push to tighten product-quality standards and strengthen consumer protection. [...] The Chinese e-commerce giant’s shares fell as much as 6% on Thursday, the most since Aug. 24. The stock was the biggest c",
+   "published": "Thu, 22 Oct 2026 03:29:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Embassy issues fresh jabs at Philippine officials despite DFA reminder",
+   "url": "https://mb.com.ph/2026/10/20/chinese-embassy-issues-fresh-jabs-at-philippine-officials-despite-dfa-reminder",
+   "snippet": "Despite being told by the Department of Foreign Affairs (DFA) that it is “not the place of a foreign mission to publicly criticize or taunt Philippine",
+   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DFA, Chinese Embassy now at odds over latter’s social media posts",
+   "url": "https://globalnation.inquirer.net/343485/dfa-chinese-embassy-now-at-odds-over-latters-social-media-posts",
+   "snippet": "In a statement, the Department of Foreign Affairs (DFA) said diplomats were expected to act “in a manner befitting diplomatic envoys.”",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese Navy hospital ship arrives in Ghana on medical mission",
+   "url": "https://www.bastillepost.com/global/article/6286542-chinese-navy-hospital-ship-arrives-in-ghana-on-medical-mission",
+   "snippet": "Meanwhile, military tensions continue to escalate. According to a report by The New York Times on Wednesday, U.S. and Israeli militaries have developed specific plans for renewed strikes against Iran after the U.S. midterm elections in November.\n\nOn Friday, U.S. President Donald Trump warned that the U.S. could launch another military operation against Iran. In response, Iran has stated that if re",
+   "published": "Sat, 24 Oct 2026 10:20:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why the U.S. military is quietly moving some troops away from posts in the Middle East",
+   "url": "https://www.modernghana.com/videonews/cbs/1/739644",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 22.10.2026 | CBS Why the U.S. military is quietly moving some troops away from posts in the Middle East |\n\n|\n\nIowa State Rep. J.D. Scholten on tight Senate race between Hinson, Turek\n\nIowa State Rep. J.D. Scholten on ti",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese naval hospital ship arrives in Ghana on medical mission - China Military",
+   "url": "http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495898.html",
+   "snippet": "Following the ceremony, Ghanaian government and military officials, together with China's ambassador to Ghana, the defense attache and embassy staff, toured the ship and held discussions with members of the mission.\n\nDuring the seven-day visit, the hospital ship will provide medical services to local patients on board, while its medical personnel will also deliver medical services at local facilit",
+   "published": "Sat, 24 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Can Israel really wean itself off US military aid?",
+   "url": "https://www.modernghana.com/videonews/aljazeera/1/741180",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 25.10.2026 | ALJazeera Can Israel really wean itself off US military aid? |\n\n|\n\nPolice in Albania filmed beating protester unconscious\n\nPolice in Albania filmed beating protester unconscious\n\n25.10.2026 | ALJazeera\n\nTru",
+   "published": "Sun, 25 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Heat: US-Iran Conflict | Return to military action?",
+   "url": "https://www.modernghana.com/videonews/cgtn/2/740058",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 23.10.2026 | CGTN The Heat: US-Iran Conflict | Return to military action? |\n\n|\n\nWatch: The Global South – a rising force in a changing world\n\nWatch: The Global South – a rising force in a changing world\n\n25.10.2026 | CG",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Heat: U.S.-Iran Conflict | Return to military action?",
+   "url": "https://www.modernghana.com/amp/videonews/739888",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 22.10.2026 | CGTN The Heat: U.S.-Iran Conflict | Return to military action? |\n\n|\n\nTrees before towers: How China built a city with nature first\n\nTrees before towers: How China built a city with nature first\n\n23.10.2026 ",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "I Had Only $50 And Was Denied Us Visa 5 Times",
+   "url": "https://www.modernghana.com/videonews/kofitv/2/737689",
+   "snippet": "3 hours ago\n\nMedia personality Akua Blakofe 'I didn’t know I was supposed to chop and not work' – Blakofe on her time at GTD...\n\n3 hours ago\n\nPresident John Dramani Mahama Resource exploitation fuelling Africa’s conflicts – Mahama\n\n3 hours ago\n\nDirector-General of the Ghana Ports and Harbours Authority (GPHA), Major-General Paul Seidu Tanye-Kulono Our ports' growth always depended on collaboration",
+   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China deploys spy drones to monitor the world’s most powerful military and Japan as U.S. watches Russia’s warplane and drone expansion in North Africa | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/china-deploys-spy-drones-to-monitor-the-worlds-most-powerful-military-and-japan-as-us/ve9qdsk",
+   "snippet": "While Washington keeps a close eye on Asia, American intelligence is also tracking Russia as Moscow rapidly expands its military presence across six strategic airbases in Libya.\n\nRussian forces are expanding operations at key facilities, including Jufra, Al-Khadim, Ghardabiya, Brak Al-Shati, Maaten Al-Sarra, and Tamanhint.\n\nSurveillance indicates the delivery of sophisticated weaponry such as MiG-",
+   "published": "Wed, 21 Oct 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. military families detail 'harrowing' experiences evacuating Middle East",
+   "url": "https://www.modernghana.com/videonews/nbc/13/739841",
+   "snippet": "U.S. military families detail 'harrowing' experiences evacuating Middle East. BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV Net2TV",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Africa, Ghana and Nigeria ranked among countries with the highest online gambling rates, outpacing the US | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/south-africa-ghana-and-nigeria-ranked-among-countries-with-the-highest-online/gvjhfhn",
+   "snippet": "Norway ranks second at 31.2%, followed by Greece at 25.8% and New Zealand at 24.0%. Ghana is the second-highest African country on the list, ranking fifth globally at 21.5%, while Nigeria places 10th, with 18.0% of internet users engaging with online gambling platforms, ahead of the US, which ranks 38th. [...] South Africa leads the world in online gambling participation, with 32.3% of its interne",
+   "published": "Mon, 26 Oct 2026 07:54:17 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_gh",
  "_query": "US Ghana military",
  "_domains": [],

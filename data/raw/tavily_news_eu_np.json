@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China, EU can resolve trade differences through dialogue - World - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202610/20/WS6ad724d5e4b06d4aa0563caf.html",
+   "snippet": "UK maternity care inadequate, NHS Alliance says\n\nRetaining foreign graduates key to talent edge: Research\n\nIran's president meets Russian FM, says Tehran rejects imposition of demands by force\n\nMiddle powers urged to defend multilateral trade\n\nWorld in Focus\n\n   Rafah 'erased' from the map\n\nAsia Focus +\n\n\n\nThailand weighing $30 departure tax for travelers\n\nNepal's growth estimated to slow to 3.7 p",
+   "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What the EU–China trade deal means for Asia | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/26/what-the-eu-china-trade-deal-means-for-asia",
+   "snippet": "SOUTHEAST ASIA\n\n Indonesia\n Malaysia\n Vietnam\n Thailand\n Myanmar\n Cambodia\n Singapore\n Laos\n Philippines\n Timor-Leste\n Brunei\n\nSOUTH ASIA\n\n India\n Pakistan\n Bangladesh\n Nepal\n Sri Lanka\n Afghanistan\n Maldives\n Bhutan\n\nOCEANIA\n\n Australia\n New Zealand\n Fiji\n Papua New Guinea\n Pacific Islands\n\nCENTRAL ASIA\n\n Kazakhstan\n Uzbekistan\n Kyrgyzstan\n Tajikistan\n Turkmenistan\n\nWORLD\n\n United States\n Russia\n",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China is starting to treat Europe as a serious strategic actor - Nikkei Asia",
+   "url": "https://asia.nikkei.com/opinion/china-is-starting-to-treat-europe-as-a-serious-strategic-actor",
+   "snippet": "Sports#### Manchester City scandal tests Premier League's pull in Asia\n\n  Manchester City scandal tests Premier League's pull in Asia\n\n Life#### Nepal, the land of Everest ... and sushi\n\n  Nepal, the land of Everest ... and sushi\n\n Environment#### Philippines set to build 'sponge cities' after devastating floods\n\n  Philippines set to build 'sponge cities' after devastating floods\n\n## Latest on Opi",
+   "published": "Tue, 20 Oct 2026 20:05:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "bne IntelliNews - EU puts security at centre of Arctic strategy as Russia, China expand presence",
+   "url": "https://www.intellinews.com/eu-puts-security-at-centre-of-arctic-strategy-as-russia-china-expand-presence-477651",
+   "snippet": "Full access to the bne daily content on the bne website\n Digital subscription to our monthly bne IntelliNews flagship magazine, delivered to your inbox\n Digital subscription to the \"editor's picks\" emails three times a week highlighting our best articles\n Full access to 10 years of bne archived articles\n\n### bne IntelliNews $119 per year\n\nBUY NOW\n\nFor the meantime we are also offering a free subsc",
+   "published": "Wed, 21 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Himalayan mountainside moved 40cm before avalanche killed 1,451 in Nepal, scientists reveal",
+   "url": "https://the-european.eu/story-68008/himalayan-mountainside-moved-40cm-before-avalanche-killed-1451-in-nepal-scientists-reveal.html",
+   "snippet": "He added: “On behalf of ICIMOD, I extend our solidarity to the people and the Governments of Nepal and China at this difficult time. We stand ready to support the ongoing response and recovery efforts, drawing on the knowledge, science, data, and expertise available to us.\n\n“My heart also goes out to the families and loved ones of those who have lost their lives and to all those enduring the conse",
+   "published": "Tue, 20 Oct 2026 13:26:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes | Euronews",
+   "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of",
+   "snippet": "Nagqu lies more than 300 kilometres north of Lhasa, Tibet’s capital.\n\nAdditional sources • AP\n\n## Read more\n\n### China: Panic as 7.0-magnitude earthquake rocks Tibet\n\n### Catastrophic Nepal floods and landslides in Nuwakot leave hundreds still missing\n\n### China: Video shows mudslide surging through Gyirong port\n\n## Top stories\n\nA woman looks at a crater after a Russian missile strike in Kyiv, Ukr",
+   "published": "Fri, 23 Oct 2026 04:02:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China slams 'Cold War mentality' after new EU Arctic plan - Yahoo News Singapore",
+   "url": "https://sg.news.yahoo.com/china-slams-cold-war-mentality-085008488.html",
+   "snippet": "China opposed on Thursday \"using Cold War mentality\" to stoke conflict over the Arctic, after the European Union linked Beijing's cooperation with Russia in the region to security concerns.\n\nThe EU unveiled on Tuesday a push to boost Arctic surveillance and expand icebreaker fleets, alluding to China's growing \"strategic ambitions... as it deepens its partnership with Russia\". [...] Beijing and Mo",
+   "published": "Thu, 22 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The reversal of Europe’s automotive trade with China - ISI",
+   "url": "https://isimarkets.com/insights/the-reversal-of-europes-automotive-trade-with-china",
+   "snippet": "Recently, China and the EU reached a new understanding to moderate Chinese hybrid-car exports (following Brussels’ 2024 tariffs on Chinese-made battery-electric vehicles). EU officials say the arrangement could more than halve future hybrid imports; Beijing says it protects Chinese firms’ export interests.\n\nCEIC users, access the chart here\n\nNot a user? Request a demo\n\n## Tags\n\n## Recent Posts\n\n##",
+   "published": "Fri, 23 Oct 2026 14:43:02 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],

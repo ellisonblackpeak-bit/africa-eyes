@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Fuel queues form in Niamey amid Niger shortage — The Rio Times | UA.NEWS",
-   "url": "https://ua.news/en/world/u-niameyi-utvorilisia-chergi-za-palnim-na-tli-defitsitu-v-nigeri-the-rio-times",
-   "snippet": "Niger is an exporter of oil and uranium, but for its domestic market the country depends on the only operating SORAZ oil refinery in the city of Zinder, cross-border supply routes, and informal imports. The publication notes that SORAZ's capacity is insufficient to meet national demand and that the facility cannot quickly change its production mix according to gasoline needs. [...] In Niamey, the ",
-   "published": "Mon, 19 Oct 2026 16:22:11 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Renaissance Capital Raises Dangote Refinery Valuation by 33.4% to ₦700 per Share",
    "url": "https://www.premiumtimesng.com/business/business-news/918297-renaissance-capital-raises-dangote-refinery-valuation-by-33-4-to-%E2%82%A6700-per-share.html",
    "snippet": "Mr Fatai also expressed reservations about the sustainability of the refinery’s current margins, arguing that the disruption associated with the US war against Iran had created unusually favourable conditions for the sale of jet fuel and diesel in markets facing supply shortages.\n\nHe noted that Renaissance Capital Africa expects the refinery’s gross refining margins to rise to $27.50 per barrel in",
@@ -32,7 +25,7 @@
   {
    "title": "Russia’s First Diesel Tanker To US Since 2022 Is Set To Sail After Sanctions Waiver",
    "url": "https://www.marineinsight.com/russias-first-diesel-tanker-to-us-since-2022-is-set-to-sail-after-sanctions-waiver",
-   "snippet": "Reuters reported in September that the disruption had cut Europe’s diesel and jet fuel supplies by about a quarter. Fuel inventories fell to their lowest level in 12 years.\n\nNigeria’s Dangote refinery has increased exports to Europe to help make up for the shortfall.",
+   "snippet": "Reuters reported in September that the disruption had cut Europe’s diesel and jet fuel supplies by about a quarter. Fuel inventories fell to their lowest level in 12 years.\n\nNigeria’s Dangote refinery has increased exports to Europe to help make up for the shortfall. [...] Even with Russian supplies returning to the market, analysts do not expect the deal to bring down global fuel prices significa",
    "published": "Thu, 22 Oct 2026 12:58:14 GMT",
    "source": "tavily"
   },
@@ -44,17 +37,24 @@
    "source": "tavily"
   },
   {
-   "title": "Niger Bans Petrol, Diesel Exports To Prioritise Domestic Supply – Arise News",
-   "url": "https://www.arise.tv/niger-bans-petrol-diesel-exports-to-prioritise-domestic-supply",
-   "snippet": "However, exports of surplus products by the state-owned petroleum company, SONIDEP, and the Zinder refinery operator, SORAZ, may be permitted with special authorisation from the minister responsible for trade.\n\nArticle One of the order states that the export of diesel and premium petrol from Niger is prohibited. [...] The government also authorised officials of the Ministry of Trade and Industry, ",
-   "published": "Mon, 19 Oct 2026 12:47:15 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Nigeria’s Refining Boom Fails to Shield Consumers",
    "url": "https://www.sphericalinsights.com/blogs/nigeria-s-refining-boom-fails-to-shield-consumers-from-rising-fuel-prices-as-global-market-pressures-persist-expert-view-by-spherical-insights",
    "snippet": "Nigeria’s domestic refineries supplied about 71% of petrol receipts in August 2026, yet pump prices remained at N1,350–N1,450 per litre (approximately $1.01–$1.09). The gap highlights why local refining alone cannot guarantee cheaper fuel for consumers. [...] Nigeria’s domestic refineries supplied about 71% of petrol receipts in August 2026, yet pump prices remained at N1,350 N1,450 per litre (app",
-   "published": "Tue, 20 Oct 2026 11:00:00 GMT",
+   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Petrol landing cost falls despite rise in crude oil prices - Blueprint Newspapers Limited",
+   "url": "https://blueprint.ng/petrol-landing-cost-falls-despite-rise-in-crude-oil-prices",
+   "snippet": "The difference represents approximately 4.9 per cent of the refinery’s stated gantry price.\n\nImported petrol is also cheaper than the ex-depot prices quoted by depot owners, which range from ₦1,348 to ₦1,358 per litre.\n\nBased on those figures, the estimated landing cost is between ₦64.19 and ₦74.19 below the prevailing ex-depot prices. [...] The development highlights the gap between the estimated",
+   "published": "Fri, 23 Oct 2026 08:36:20 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia to send first diesel shipment to US on Thursday amid global supply crunch - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/business/international-business/russia-to-send-first-diesel-shipment-to-us-on-thursday-amid-global-supply-crunch/articleshow/135093410.cms",
+   "snippet": "Music Video 'Teri Aankhon Mein' by Gaurav Mali'You Are Not Gen-Z...Broke Bond Very Next Day': Delhi HC Raps CJP's Saurav Das, Ashutosh RankaRudravanam PS Trailer​ : Naresh Agastya and Banerjee Starrer Rudravanam PS Official Trailer​Portugal Erupts Over Housing Crisis As Thousands Protest After Police Clear Camps In Lisbon & PortoSalman Khan Makes First Airport Appearance Amid Tiger Shroff Firing C",
+   "published": "Wed, 21 Oct 2026 13:00:00 GMT",
    "source": "tavily"
   }
  ],

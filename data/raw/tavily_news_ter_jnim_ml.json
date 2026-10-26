@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Bamako is No Longer Safe: JNIM Shifts Scale - ICT",
+   "url": "https://ict.org.il/bamako-shifts-scale",
+   "snippet": "Mali is entering a new phase in its war against radical jihadist groups. Within just a few days, the Al-Qaeda-affiliated Group for the Support of Islam and Muslims (JNIM) has intensified its attacks against the Malian army and its strategic bases, and is now targeting the outskirts of Bamako. Despite reinforcements to the Malian Armed Forces (FAMa) and support from the Russian “Africa Corps,” Mali",
+   "published": "Tue, 20 Oct 2026 10:09:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Libya-Turkey Mediterranean Deal; Ethiopian Federal Consolidation in Tigray; South West Opposition Offensive in Somalia: Africa File, October 22, 2026",
+   "url": "https://www.criticalthreats.org/analysis/libya-turkey-tplf-ethiopia-fgs-al-shabaab-somalia-issp-jnim-mali",
+   "snippet": "Jama’at Nusrat al Islam wa al Muslimeen (JNIM) could attempt to exploit the situation to strengthen its position vis-à-vis ISSP in the contested tri-border area of Burkina Faso, Mali, and Niger. ISSP and al Qaeda’s Sahelian affiliate JNIM have engaged in several large-scale clashes in the tri-border area since September as each group tries to establish dominance in the area. ISSP most recently ini",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Attack by Islamic State-affiliated group in Mali kills 48 people, official says | NEWS10 ABC",
+   "url": "https://www.news10.com/news/international/ap-attack-by-islamic-state-affiliated-group-in-mali-kills-48-people/amp",
+   "snippet": "ISSP operates mostly in the Ménaka region of Mali, where it faces stiff competition from another militant group, Jama’at Nusrat al-Islam wal-Muslimin (JNIM), and in the neighboring countries of Burkina Faso and Niger. It has not claimed responsibility for the attack.\n\nOn Monday, the Malian army announced it had located a major base housing “several terrorist elements as well as military equipment ",
+   "published": "Tue, 20 Oct 2026 19:52:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia's 'Africa Corps' Commit New Abuses - allAfrica.com",
+   "url": "https://allafrica.com/stories/202610230063.html",
+   "snippet": "The Malian army's offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama'at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l'Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Fri, 23 Oct 2026 05:08:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses, HRW Says - Eurasia Review",
+   "url": "https://www.eurasiareview.com/23102026-mali-army-russias-africa-corps-commit-new-abuses-hrw-says",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Fri, 23 Oct 2026 00:35:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ISIS linked group kills scores in Mali, clashes with al Qaeda affiliates |  | AW",
+   "url": "https://thearabweekly.com/isis-linked-group-kills-scores-mali-clashes-al-qaeda-affiliates",
+   "snippet": "The regional al Qaeda affiliate, Jama’at Nusrat al-Islam wal-Muslimin, and the Tuareg-led Azawad Liberation Front staged nationwide attacks in April that killed the defence minister and hit the main airport in Bamako.\n\nIn recent weeks JNIM has been locked in fierce fighting with ISSP.\n\nLast week, ISSP said it had killed 400 JNIM fighters after thwarting an attempted JNIM ambush in neighbouring Bur",
+   "published": "Tue, 20 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Attack by Islamic State-affiliated group in Mali kills 48 people, official says - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/20/mali-attack-menaka-deaths-sahel-tuareg-issp/eba6d9c2-cc98-11f1-ac04-9f58578a68b4_story.html",
+   "snippet": "Democracy Dies in Darkness\n\n# Attack by Islamic State-affiliated group in Mali kills 48 people, official says\n\nMilitants affiliated with the Islamic State group have killed 48 people in Mali’s Ménaka region\n\nBy Associated Press\n\nBAMAKO, Mali — A weekend attack by militants affiliated to the Islamic State group killed 48 people in the Ménaka region of eastern Mali, a lawmaker told The Associated Pr",
+   "published": "Tue, 20 Oct 2026 15:19:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ml",
  "_query": "JNIM Mali attack",
  "_domains": [],

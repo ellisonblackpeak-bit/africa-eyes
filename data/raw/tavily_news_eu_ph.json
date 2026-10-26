@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU-Philippines holds second security and defense dialogue",
+   "url": "https://www.manilatimes.net/2026/10/26/expats-diplomats/eu-philippines-holds-second-security-and-defense-dialogue/2453416/amp",
+   "snippet": "The European Union and the Philippines held their second Security and Defense Dialogue on Oct. 8 in Manila.\n\nDuring the dialogue, the EU and the Philippines reaffirmed their shared commitment to strengthening cooperation in multilateral forums to uphold the rules-based international order. [...] The dialogue, along with the EU’s recent announcement of its first-ever European Peace Facility (EPF) a",
+   "published": "Sun, 25 Oct 2026 16:01:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and Philippines Deepen Defense Cooperation With ...",
+   "url": "https://www.facebook.com/IndoPacificReportIPR/posts/eu-and-philippines-deepen-defense-cooperation-with-15-million-security-packageth/1073410505701995",
+   "snippet": "The European Union (EU) has pledged €15 million (approximately ₱1 billion) to help strengthen the Philippines' maritime security",
+   "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU GIVES PHL EYES AT SEA | Daily Tribune",
+   "url": "https://tribune.net.ph/2026/10/23/eu-gives-phl-eyes-at-sea",
+   "snippet": "The package, approved in July following Manila’s request last year, was discussed again during Philippine-EU security talks this month.\n\nIt marks the EU’s first military assistance package for the Philippines under the European Peace Facility, which supports the defense capabilities of partner countries.\n\nThe assistance comes as Manila struggles to patrol an archipelago of more than 7,600 islands,",
+   "published": "Fri, 23 Oct 2026 16:48:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU, Philippines conduct second security and defense ...",
+   "url": "https://businessmirror.com.ph/2026/10/22/eu-philippines-conduct-second-security-and-defense-dialogue",
+   "snippet": "THE European Union and the Philippines recently held their second Security and Defense Dialogue in Manila. During the dialogue on October 8, both parties",
+   "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The European Union and the Philippines held their ...",
+   "url": "https://www.facebook.com/TheManilaTimes/posts/the-european-union-and-the-philippines-held-their-second-security-and-defense-di/1585513346950174",
+   "snippet": "The first EU-Philippines Security and Defence Dialogue was just held with both sides discussing how to deepen cooperation in security and defence areas",
+   "published": "Mon, 26 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DeycVVbjfPx",
+   "snippet": "🇪🇺🇵🇭 The EU and the Philippines are taking their AI cooperation to the next level!  \n  \nToday, the launch of the EU–Philippines AI Industry Lab marks a new milestone in advancing the EU–Philippines Enhanced Partnership, bringing European and Filipino businesses, MSMEs and innovators closer together to drive cooperation on AI infrastructure, policy and skills development. [...] ## No comments yet.\n",
+   "published": "Thu, 22 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The U.S.-Philippine alliance in a year of transition: Challenges and opportunities | Brookings",
+   "url": "https://www.brookings.edu/articles/the-u-s-philippine-alliance-in-a-year-of-transition-challenges-and-opportunities",
+   "snippet": "The United States alliance with the Philippines is one of America’s most important security relationships in Asia, and has been since the signing of the Mutual Defense Treaty (MDT) in 1951. The alliance has evolved rapidly in recent years as a result of both Washington and Manila’s changing perceptions of the security environment in the Asia-Pacific, as indicated by the 2014 signing of the Enhance",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Secretary - Contract Agent FGII - EEAS Headquarters – Job No 529188 | EEAS",
+   "url": "https://www.eeas.europa.eu/eeas/secretary-contract-agent-fgii-eeas-headquarters-job-no-529188_en",
+   "snippet": "The requested level of security clearance for this post is: SECRET UE/EU SECRET. A description of the EU classified information levels is available under Article 2 of Annex A of the Decision ADMIN(2023) 18 on the security rules of the EEAS.\n\nThe selected candidate should hold, or be in the position to obtain, a valid Personnel Security Clearance (hereafter, the “PSC”) issued by the competent autho",
+   "published": "Tue, 20 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

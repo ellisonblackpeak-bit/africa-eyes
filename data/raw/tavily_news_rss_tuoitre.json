@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Kể câu chuyện di sản phở Việt tại Vietnam Food Festival 2026",
-   "url": "https://tuoitre.vn/ke-cau-chuyen-di-san-pho-viet-tai-vietnam-food-festival-2026-100261026120334975.htm",
-   "content": "Mùi thơm nồng ấm của quế hồi, thảo quả quyện cùng vị ngọt thanh của nước dùng được ninh từ xương và thịt suốt nhiều giờ có lẽ đã thấm sâu vào ký ức người Việt. Chỉ cần làn hương ấy khẽ lướt qua, bao ký ức thân thuộc nơi góc phố quê nhà lại ùa về.",
-   "published_date": "10/26/2026 4:00:00 PM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Atomic Eagle Courts Chinese and U.S. Interest to Finance $282 Million Uranium Mine in Zambia - Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-industry/2310-60026-atomic-eagle-courts-chinese-and-u-s-interest-to-finance-282-million-uranium-mine-in-zambia",
+   "snippet": "U.S. backing for the Dasa uranium project in Niger illustrates that strategy. [...] 19:22\n At Yaounde Fair, Francophone Youth Organization Pushes Digital Farming to Expand Women’s Business Opportunities \n\n   19:11\n Togo sends a delegation to China to learn from its cross-border e-commerce experience \n\n   19:01\n\nMost Read \n\n01\n\nNigeria Approves 90-Day Plan to Ease Cost-of-Living Pressure on Househo",
+   "published": "Fri, 23 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/Deyug7tCguM",
+   "snippet": "The companies in the spotlight? China's state oil giant CNPC and its partners, WAPCO and SORAZ. Niamey accuses them of failing to honour contractual commitments. The companies' responses are crucial as the dispute unfolds. 🇳🇪⚖️  \n  \nBut here's the bigger picture.  \n  \nThis is the same Niger that has been locked in a bitter battle with France's Orano over control of its uranium resources. Now, Chin",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Burkina, Mali and Niger: Who Really Controls the Sahel's Gold, Lithium and Uranium?",
+   "url": "https://www.youtube.com/watch?v=Z6IquDtnSmA",
+   "snippet": "[3:26] 20% more, which brings the state's total to 30%. Another 5% is set aside for Malian private investors in the same\n[3:34] projects. Add it all up and state and local ownership could reach 35% of new projects. Before the reform, the limit for state and local interests was only\n[3:42] 20%. Gulamina, Mali's lithium mine is the clearest test of these brand new rules. The Chinese company Ganfung ",
+   "published": "Sat, 24 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "For five decades, Niger's uranium helped power France ...",
+   "url": "https://www.facebook.com/the.merc.alkebulan/videos/for-five-decades-nigers-uranium-helped-power-france-while-niger-remained-among-t/2299710330603220",
+   "snippet": "For five decades, Niger's uranium helped power France while Niger remained among the world's poorest countries. Now Niger has nationalised the SOMAÏR mine,",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger's Uranium: France Out, America Back? | Fitila Explains",
+   "url": "https://www.youtube.com/watch?v=vP9YtfK6zUI",
+   "snippet": "Our Sources For This Story:\nU.S. Department of State, \"Military Coup d'Etat in Niger\", 10 Oct 2023\nGlobal Atomic Corp. news release, 16 Sep 2026 (DFC approval of up to $414.2M, subject to conditions)\nAl Jazeera Staff and Reuters, \"US approves $414M uranium investment in Niger\", 17 Sep 2026: \nWorld Nuclear News, \"Orano opposes Somaïr nationalisation\", 23 Jun 2025\nAl Jazeera, \"Niger mutiny puts Russ",
+   "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Top Uranium Producing Countries (1970–2024)",
+   "url": "https://www.facebook.com/IndiaDefenseNews/videos/top-uranium-producing-countries-19702024/1741319390292397",
+   "snippet": "The countries listed are: Canada, Australia, Russia, Nigeria, India, China, South Africa, the USA, France, and the UK. The post serves as a informational fact",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DerXb1MgURN",
+   "snippet": "Niger has the uranium. So why has controlling it been such a battle?  \nIn 1974, President Hamani Diori was overthrown after pushing France for a better price for Niger’s uranium. In 2010, Mamadou Tandja also lost power after securing a higher price.  \n  \nNow, Niger is fighting for greater control over its uranium industry again.  \nCoincidence or a pattern? And who should decide what happens to Nig",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Uranium in Africa - World Nuclear Association",
+   "url": "https://world-nuclear.org/information-library/country-profiles/others/uranium-in-africa",
+   "snippet": "Please note:  \n The country papers on Namibia, Niger, South Africa should be consulted for information in those areas.  \n This paper deals with other countries in Africa where uranium deposits having JORC or NI 43-101 compliant resources are known or understood to exist.\n\n## Algeria [...] ## Gabon\n\nNo current uranium mining occurs in Gabon, but exploration continues. Historically, uranium mining i",
+   "published": "Fri, 23 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_uranium",
  "_query": "Chinese uranium Niger",
  "_domains": [],

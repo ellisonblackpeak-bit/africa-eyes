@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Von der Leyen’s big Commission shake-up moves a step closer",
+   "url": "https://www.politico.eu/article/ursula-von-der-leyen-big-eu-commission-shake-up-moves-a-step-closer/",
+   "content": "External advisers have delivered their assessment of the EU executive's future — but major restructuring decisions are still some way off.",
+   "published_date": "Mon, 26 Oct 2026 14:05:22 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Belgium postpones terrace smoking ban",
+   "url": "https://www.politico.eu/article/belgium-postpones-terrace-smoking-ban/",
+   "content": "The delay is to allow enough time for restaurants to adjust to the new rules.",
+   "published_date": "Mon, 26 Oct 2026 13:59:06 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "‘Disturbing and pathetic’: German politicians slam Audi CEO’s appearance at Trump rally",
+   "url": "https://www.politico.eu/article/donald-trump-midterms-germany-gernot-dollner-unions-audi-ceo/",
+   "content": "The German car manufacturer plans to open a factory in the U.S. state of Georgia.",
+   "published_date": "Mon, 26 Oct 2026 12:02:45 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Liz Truss claims Brits would be on Mars by 2040 if she hadn’t been ousted",
+   "url": "https://www.politico.eu/article/liz-truss-claims-brits-would-be-on-mars-by-2040-if-she-hadnt-been-ousted/",
+   "content": "Former prime minister dreams of a brighter alternative future.",
+   "published_date": "Mon, 26 Oct 2026 11:49:49 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Burnham wants UK back in EU within his lifetime",
    "url": "https://www.politico.eu/article/burnham-wants-uk-back-in-eu-within-his-lifetime/",
    "content": "But British prime minister rules out rejoin push in current parliament.",
@@ -41,34 +69,6 @@
    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/putins-schattenflotte-warum-greift-deutschland-nicht-durch/",
    "content": "Präsentiert von YouTube.",
    "published_date": "Mon, 26 Oct 2026 04:15:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "French presidential hopeful Philippe slips in new poll",
-   "url": "https://www.politico.eu/article/french-presidential-candidate-edouard-philippe-slipping-in-new-poll/",
-   "content": "The former PM lost three points compared to Cluster 17’s survey from last month.",
-   "published_date": "Mon, 26 Oct 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "4 reasons Andy Burnham’s MPs are feeling more cheerful — and the pitfalls ahead",
-   "url": "https://www.politico.eu/article/4-reasons-andy-burnham-mps-feeling-more-cheerful-plus-pitfalls-ahead/",
-   "content": "The British PM's party is impressed with his first 100 days but warn hurdles ahead could test that goodwill.",
-   "published_date": "Mon, 26 Oct 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "SONDAGE EXCLUSIF 2027. La chute de Philippe, relégué derrière Mélenchon",
-   "url": "https://www.politico.eu/article/sondage-exclusif-2027-la-chute-de-philippe-relegue-derriere-melenchon/",
-   "content": "SONDAGE CLUSTER 17 x POLITICO. L'ancien Premier ministre chute de 3 points par rapport à notre enquête précédente, tandis que Jean-Luc Mélenchon reste haut et Marine Le Pen monte.",
-   "published_date": "Mon, 26 Oct 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Serbia’s Vučić concedes defeat after tense parliamentary elections",
-   "url": "https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/",
-   "content": "The Serbian leader lost in a landslide to a protest-backed student movement.",
-   "published_date": "Sun, 25 Oct 2026 21:18:11 +0000",
    "score": 0.6
   }
  ],

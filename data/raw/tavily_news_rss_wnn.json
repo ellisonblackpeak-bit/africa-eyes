@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Bangladesh's Rooppur 1 achieves criticality",
-   "url": "https://www.world-nuclear-news.org/articles/bangladeshs-rooppur-1-achieves-criticality",
-   "content": "The first unit at Bangladesh's Rooppur Nuclear Power Plant achieved criticality - a self-sustaining nuclear reaction - at 15:34 on Sunday, 11 October.",
-   "published_date": "Mon, 12 Oct 2026 12:47:06 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Czech SMR environmental impact assessment submitted",
    "url": "https://www.world-nuclear-news.org/articles/czech-smr-environmental-impact-assessment-submitted",
    "content": "ČEZ has submitted the Environmental Impact Assessment documentation to the Ministry of the Environment for its Rolls-Royce SMR small modular reactor project in Temelín.",
@@ -209,6 +202,13 @@
    "url": "https://www.world-nuclear-news.org/articles/us-maritime-nuclear-firm-bluecore-energy-announces-uranium-purchase",
    "content": "California-based Bluecore Energy said its purchase of low-enriched uranium from WMC is one of several areas where it has made \"significant progress\" towards moving its technology from engineering and non-fuelled hardware development toward fuel fabrication, testing, validation and future deployment.",
    "published_date": "Wed, 14 Oct 2026 08:33:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kairos Power automates fuel pebble inspections",
+   "url": "https://www.world-nuclear-news.org/articles/kairos-power-automates-fuel-pebble-inspections",
+   "content": "A new facility at Kairos Power's Manufacturing Development Campus in Albuquerque, New Mexico, verifies manufacturing specifications and engraves each fuel pebble with a unique code so it can be traced through testing and operation.",
+   "published_date": "Wed, 14 Oct 2026 09:01:29 GMT",
    "score": 0.6
   }
  ],

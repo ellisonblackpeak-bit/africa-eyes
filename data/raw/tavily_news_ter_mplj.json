@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Al-Qaeda, ISIS, rebels, and the UAE: What awaits the Algerian army in Niger",
+   "url": "https://www.youtube.com/watch?v=LzznnbXI7cw",
+   "snippet": "⚔️ Threat #2: Armed Rebellion\n\nThe Patriotic Liberation Front (PLF) of Mahmoud Salah, created after the overthrow of Bazoum, wants to bring down the junta. The Patriotic Movement for Freedom and Justice (MPLJ) is accused of attacking the oil pipeline. These rebels are Nigerian: intervening against them risks triggering a civil war.\n\n🕵️ Threat #3: Foreign Interference [...] [0:48] déploiement de fo",
+   "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Politique Archives - Page 2 sur 124 - Journal du Niger",
+   "url": "https://www.journalduniger.com/category/politique/page/2",
+   "snippet": "[Savoir plus](\n\nMinistère Nigérien de l'Intérieur 1͏ ͏h͏ ·\n\n© Ministère Nigérien de l'Intérieur 1͏ ͏h͏ ·\n\n### Niger : Bilan à mi-parcours du Programme de Refondation\n\n6 août 2026\n\nPublié à 13h46\n\nSur directive du ministre d'État, les hauts cadres du ministère de l'Intérieur dressent le bilan mi-parcours de l'action publique. De Moscou à Ouagadougou, l'expertise nationale…\n\n[Savoir plus](\n\nMinistèr",
+   "published": "Wed, 21 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "À la Une: des troupes algériennes au Niger",
+   "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-afrique/20261026-%C3%A0-la-une-des-troupes-alg%C3%A9riennes-au-niger",
+   "snippet": "« Sans surprise, le Conseil algérien de la nation a approuvé hier à l'unanimité l'envoi d'un détachement de l'Armée nationale populaire au Niger, une décision",
+   "published": "Mon, 26 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "En Algérie, le Parlement autorise l’envoi d’unités militaires au Niger",
+   "url": "https://www.lemonde.fr/afrique/article/2026/10/25/en-algerie-le-parlement-autorise-l-envoi-d-unites-militaires-au-niger_6800111_3212.html",
+   "snippet": "Avec ce vote du 25 octobre, Alger franchit un nouveau seuil dans l’aggiornamento doctrinal de sa politique de sécurité, jusque-là caractérisée par la tradition non-interventionniste, héritage de son tiers-mondisme militant des années 1960. La révision de la Constitution de 2020, prévoyant « l’envoi d’unités de l’armée nationale populaire à l’étranger » sous réserve de l’aval des deux chambres, ava",
+   "published": "Sun, 25 Oct 2026 18:42:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "One-Year Anniversary Tribute to Lieutenant General Waidi Shaibu, Chief of Army Staff of the Nigerian Army | PlaneteAfrique Nigeria",
+   "url": "https://planeteafrique.com/Actualites/Index.asp?affiche=News_display.asp&ID=18355",
+   "snippet": "Découvrir nos solutions Demander un devis\n\n### WS-APPS Solutions\n\n WS-MySite! (Présence Web)\n WS-Webshop\n WS-Webzine\n CMS PlaneteAfrique; \"WS-APPS CMS\")\n Nos réalisations\n Tarifs & Devis\n\n### Annuaires & Projets\n\n Annuaire des ONG & Associations\n Plateforme de gestion de projets\n Web pour ONG & Asso\n Déclarez un projet\n\n### Services & Détente\n\n E-cartes\n Quiz\n Annuaire des sites\n Sites perso & Blo",
+   "published": "Sun, 25 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DW Afrique",
+   "url": "https://www.facebook.com/dw.francais/posts/tu-as-d%C3%A9j%C3%A0-vu-une-information-circuler-sur-les-r%C3%A9seaux-sociaux-et-tu-tes-demand%C3%A9/1425616746430523",
+   "snippet": "Ce samedi 27 septembre 2025 les Premiers ministres du Niger et du Burkina Faso sont intervenus dans les débats. Le Premier ministre nigerien a salué les acquis",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Nationalisation des mines d’or au Sahel : le tournant de 2026 – Sahel Watch",
+   "url": "https://sahel.watch/nationalisation-mines-or-sahel-2026",
+   "snippet": "Moins doté en or industriel que ses voisins, le Niger applique néanmoins la même grammaire à l’ensemble de ses ressources. La pression exercée sur l’uranium — avec le bras de fer autour des actifs du français Orano — procède de la même volonté de reprise en main que les nationalisations aurifères maliennes et burkinabè. Dans les trois cas, la ressource extractive est explicitement mobilisée comme ",
+   "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger 🇳🇪 et Tchad 🇷🇴. Kaka Déby 🇷🇴 continue ses ...",
+   "url": "https://www.facebook.com/groups/1milliondenigerien/posts/5217254765167603",
+   "snippet": "Selon plusieurs sources concordantes, de lourds dégâts matériels et humains ont été enregistrés côté nigérien à la suite d'une frappe ciblée contre les",
+   "published": "Sun, 25 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

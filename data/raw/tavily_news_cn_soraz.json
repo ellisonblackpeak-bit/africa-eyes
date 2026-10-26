@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "\"🇳🇪🇲🇱🇧🇫AES first; Niger's government says it is ...",
+   "url": "https://x.com/beyondB_DAG/status/2112455256642625854",
+   "snippet": "The state-owned SORAZ refinery, located in the Zinder region, has a capacity of about 20,000 barrels a day — barely enough to meet local demand.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger Bans Petrol and Diesel Exports to Protect Domestic ...",
+   "url": "https://www.instagram.com/p/DetU5sXOg4i",
+   "snippet": "Niger's Zinder refinery, with a reported processing capacity of about 20,000 barrels per day, has traditionally supplied domestic consumers while also serving",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger Republic Tightens Petrol Market As Supply Gap ...",
+   "url": "https://www.facebook.com/LeadershipNGA/posts/niger-republic-tightens-petrol-market-as-supply-gap-increases/1528119439364117",
+   "snippet": "The Soraz refinery in Zinder is the only one in the country. It “can no longer satisfy domestic demand”, which has surged for more than a year now, the state-",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger IMF Deal Offers US$203M Over 38 Months | The Rio Times",
+   "url": "https://www.riotimesonline.com/niger-imf-deal-203-million-2026",
+   "snippet": "Zeine said the government chose not to raise pump prices for now, and called the shortage self-sustaining. The committee also wants to settle debts between the state and fuel firms within three months, Africa24 reported.\n\nIt aims to lift output at the SORAZ refinery in Zinder from 15,000 to 20,000 barrels a day. The partner is CNPC Niger Petroleum, part of China’s state oil group.\n\n## What It Mean",
+   "published": "Wed, 21 Oct 2026 07:31:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Fuel shortages affecting several cities in Niger have ...",
+   "url": "https://www.facebook.com/thesudantimes/videos/fuel-shortages-affecting-several-cities-in-niger-have-reached-the-capital-niamey/40408058998781068",
+   "snippet": "In a move that stunned industry insiders, they slapped an $80 billion tax demand on SORAZ (Zinder Refinery Company) despite the state- owned Sonidep already",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger's government reportedly issued a 45-day ultimatum ...",
+   "url": "https://www.facebook.com/theGrio/posts/nigers-government-reportedly-issued-a-45-day-ultimatum-to-three-chinese-linked-o/1473616777969888",
+   "snippet": "The dispute also involved concerns about local employment, subcontracting opportunities, and operations at the Zinder refinery.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "🪪🌾What does a petroleum company ...",
+   "url": "https://www.instagram.com/p/De8wZ1XEswy",
+   "snippet": "Zinder refinery, which is operating at 75 percent capacity while the country faces fuel supply tensions.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/De2M8sVCQCi",
+   "snippet": "firstpost\n\n‘Real Struggle’: Niger’s Fuel Crisis Deepens as Government Restricts Sales   \n  \n@alysonle\\_ examines the causes of Niger’s fuel shortage, the growing gap between domestic production and demand, and the government’s efforts to ease the crisis on #FirstpostAfrica\n\naarushi_sinha_999's profile picture\n\naarushi\\_sinha\\_999\n\n😍😍\n\nReply\n\naarushi_sinha_999's profile picture\n\naarushi\\_sinha\\_999",
+   "published": "Fri, 23 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_soraz",
  "_query": "Zinder refinery Niger",
  "_domains": [],

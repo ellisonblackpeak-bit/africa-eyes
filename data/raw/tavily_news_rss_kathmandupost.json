@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Nepal, India to discuss border security at annual meeting this week",
+   "url": "https://kathmandupost.com/national/2026/10/26/nepal-india-to-discuss-border-security-at-annual-meeting-this-week",
+   "content": "The three-day talks will focus on cross-border crime, human trafficking, drug smuggling, boundary management and intelligence sharing along the 1,751-kilometre open border.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Nepal seeks talks with Malaysia over recruitment of Nepali workers",
+   "url": "https://kathmandupost.com/national/2026/10/26/nepal-seeks-talks-with-malaysia-over-recruitment-of-nepali-workers",
+   "content": "Kathmandu has proposed a meeting in November or December to discuss Malaysia’s foreign worker recruitment system and renew a labour agreement signed in 2018.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Nepal Premier League’s third season kicks off with Lumbini bowling first",
    "url": "https://kathmandupost.com/sports/2026/10/26/nepal-premier-league-s-third-season-kicks-off-with-lumbini-bowling-first",
    "content": "Defending champions Lumbini Lions won the toss and elected to field against Sudurpaschim Royals in the opening match of the eight-team tournament at Kirtipur.",
@@ -117,27 +131,6 @@
    "title": "Can police make you unlock your phone?",
    "url": "https://kathmandupost.com/columns/2026/10/25/can-police-make-you-unlock-your-phone",
    "content": "Seizing a device, searching it and demanding its password are three different acts. Nepal’s laws and police procedures should treat them that way.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Nepal resumes power exports to Bangladesh after flood disruption",
-   "url": "https://kathmandupost.com/money/2026/10/25/nepal-resumes-power-exports-to-bangladesh-after-flood-disruption",
-   "content": "Nepal has restarted its 40MW electricity supply through India’s transmission network, using Solu Khola and Kabeli B1 to replace the flood-damaged Trishuli and Chilime hydropower plants.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Will Nepal’s lights stay on at 7pm in the winter?",
-   "url": "https://kathmandupost.com/columns/2026/10/25/will-nepal-s-lights-stay-on-at-7pm-in-the-winter",
-   "content": "The Bhotekoshi flood and the Kaligandaki landslides exposed a grid that depends on a few valleys and on river flow. Winter evenings, when demand peaks and India’s imports stop, will show how much of Nepal’s power is dependable.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "PHP2Shell security flaw forces thousands of Nepali websites offline",
-   "url": "https://kathmandupost.com/science-technology/2026/10/25/php2shell-security-flaw-forces-thousands-of-nepali-websites-offline",
-   "content": "Government portals, Nepal Rastra Bank’s website and some digital services have been suspended as a precaution after two critical vulnerabilities were discovered in PHP.",
    "published_date": "",
    "score": 0.6
   }
