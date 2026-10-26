@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "'National emergency': 24 dead in Kenya bus crash near site of previous fatal accident",
+   "url": "http://www.africanews.com/2026/10/26/national-emergency-24-dead-in-kenya-bus-crash-near-site-of-previous-fatal-accident/",
+   "content": "A bus collided with a truck on Kenya's main highway on Sunday, killing at least 24 people, police said. The crash came three weeks after 17 people died in another accident along the same highway linking the capital, Nairobi, with the coastal city of Mombasa.",
+   "published_date": "Mon, 26 Oct 2026 07:09:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ebola: Uganda introduces 21-day quarantine for people entering from DRC",
+   "url": "http://www.africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc/",
+   "content": "Travellers entering Uganda after visiting DR Congo will face a 21-day quarantine, the country's health minister announced on Sunday. The new screening measures come after Nigeria reported its first case of the virus in a woman returning from Uganda. Kampala insists the country remains Ebola-free.",
+   "published_date": "Mon, 26 Oct 2026 06:10:31 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
    "url": "http://www.africanews.com/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat/",
    "content": "Crowds celebrated in Belgrade after President Aleksandar Vučić conceded defeat for his ruling party in Serbia's snap parliamentary election, following nearly two years of student-led demonstrations.",
@@ -12,7 +26,7 @@
    "title": "Brazil: long queues and river journeys mark decisive presidential vote",
    "url": "http://www.africanews.com/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote/",
    "content": "Brazilians headed to the polls on Sunday to choose between Lula and Flávio Bolsonaro. From canoe journeys in the Amazon to long queues in Rio and a Lula doll in Brasília, voters turned out for the presidential runoff.",
-   "published_date": "Sun, 25 Oct 2026 21:19:08 +0000",
+   "published_date": "Mon, 26 Oct 2026 06:36:32 +0000",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "http://www.africanews.com/2026/10/23/france-deploys-70000-police-shuts-paris-museums-ahead-of-protests/",
    "content": "Some 70,000 law enforcement officers will be deployed across France on Saturday while the Louvre and several other major Paris museums will be closed as authorities seek to prevent renewed violence during planned protests.",
    "published_date": "Fri, 23 Oct 2026 13:25:51 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Storm Austen batters France and UK with winds of up to 160 km/h",
-   "url": "http://www.africanews.com/2026/10/23/storm-austen-batters-france-and-uk-with-winds-of-up-to-160-kmh/",
-   "content": "Huge waves, uprooted trees and damaged boats mark Storm Austen's arrival in France and the UK. Gusts of up to 160 km/h have battered Brittany, while fallen branches have blocked roads in southern England.",
-   "published_date": "Fri, 23 Oct 2026 13:46:31 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Russia, Ukraine and the US set for November peace talks",
-   "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/",
-   "content": "Talks between Russia, Ukraine and the United States are planned to resume in November in the United Arab Emirates, Kremlin spokesman Dmitry Peskov said Friday.",
-   "published_date": "Fri, 23 Oct 2026 13:30:44 +0000",
    "score": 0.6
   }
  ],

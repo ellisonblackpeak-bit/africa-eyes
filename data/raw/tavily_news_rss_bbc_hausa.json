@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Ko Kwankwaso zai raba ƙuri'ar Atiku a jihohin arewa?",
+   "title": "Ko Kwankwaso zai raba ƙuri'ar Atiku a jihohin Arewa?",
    "url": "https://www.bbc.com/hausa/articles/cqj34vrkpzjko?at_medium=RSS&at_campaign=rss",
    "content": "A zaɓen 2023, Atiku Abubakar na PDP da Rabiu Musa Kwankwaso na NNPP sun yi gogayya wajen neman goyon bayan masu kaɗa ƙuri'a a jihohin Arewa.",
    "published_date": "Mon, 26 Oct 2026 03:53:47 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Adadin mutanen da suka mutu a harin ƴanbindiga a Taraba ya kusa 50",
+   "url": "https://www.bbc.co.uk/hausa/live/cq4g1wn21w1et?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 26/10/2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -51,13 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Ibrahim Traoré: Me ya sa Burkina Faso ta haramta amfani da kalmomin \"matalauciyar ƙasa\" da \"ƙaramar ƙasa\"?",
-   "url": "https://www.bbc.com/hausa/articles/ckd7q415g8eno?at_medium=RSS&at_campaign=rss",
-   "content": "Burkina Faso ilitangaza marekebisho ya mitaala, ikiwemo masomo ya Historia, Jiografia na Elimu ya Uraia, kwa lengo la kuondoa, kwa mujibu wake, misemo na maudhui yanayoonekana kuwa \"hayana mantiki\" au yasiyolingana na uhalisia wa taifa la Burkina Faso.",
-   "published_date": "Sun, 25 Oct 2026 03:52:51 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -86,10 +86,10 @@
    "score": 0.6
   },
   {
-   "title": "Manchester United na harin Howe, Arsenal na zawarcin Baena",
-   "url": "https://www.bbc.com/hausa/articles/cqjdm07e7nz8o?at_medium=RSS&at_campaign=rss",
-   "content": "Ana alaƙanta Manchester United da Antonio Conte, ko Unai Emery, ko Eddie Howe, ko Julian Nagelsmann a cikin jerin waɗan da za su iya maye gurbin Michael Carrick, yayin da Arsenal ke son ɗan wasan Atletico Madrid Alex Baena da na Monza Gustavo Varela.",
-   "published_date": "Fri, 23 Oct 2026 04:10:08 GMT",
+   "title": "Aston Villa na nazari kan Garnacho, Brighton na hari Diego Gomez",
+   "url": "https://www.bbc.com/hausa/articles/cqn49ddwwxn1o?at_medium=RSS&at_campaign=rss",
+   "content": "Aston Villa na shakkun ɗaukar Alejandro Garnacho a maimakon ɗan ci gaba da taka mata leda a matsayin ɗan wasan aro, Brighton ta dage kan ba zata siyar da Diego Gomez ba, sai Manchester United da masu neman shugabancin ƙungiyar ke bayana damuwa kan yan wasan ƙungiyar.",
+   "published_date": "Sat, 24 Oct 2026 04:01:09 GMT",
    "score": 0.6
   },
   {
@@ -97,6 +97,13 @@
    "url": "https://www.bbc.com/hausa/articles/cmg4735z619lo?at_medium=RSS&at_campaign=rss",
    "content": "Hayaniyar ihu da tsangwama lokacin taken Premier League da Champions League kafin fara wasa yanzu ya zama ruwan dare a filin wasa na Etihad Stadium.",
    "published_date": "Thu, 22 Oct 2026 11:07:50 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ibrahim Traoré: Me ya sa Burkina Faso ta haramta amfani da kalmomin \"matalauciyar ƙasa\" da \"ƙaramar ƙasa\"?",
+   "url": "https://www.bbc.com/hausa/articles/ckd7q415g8eno?at_medium=RSS&at_campaign=rss",
+   "content": "Burkina Faso ilitangaza marekebisho ya mitaala, ikiwemo masomo ya Historia, Jiografia na Elimu ya Uraia, kwa lengo la kuondoa, kwa mujibu wake, misemo na maudhui yanayoonekana kuwa \"hayana mantiki\" au yasiyolingana na uhalisia wa taifa la Burkina Faso.",
+   "published_date": "Sun, 25 Oct 2026 03:52:51 GMT",
    "score": 0.6
   },
   {
@@ -114,7 +121,7 @@
    "score": 0.6
   },
   {
-   "title": "Zaɓen 2027: Jihohi 7 da Atiku Abubakar zai fuskanci ƙalubale",
+   "title": "Jihohi 7 da Atiku Abubakar zai iya fuskantar ƙalubale a 2027",
    "url": "https://www.bbc.com/hausa/articles/cm9dz90w0y7eo?at_medium=RSS&at_campaign=rss",
    "content": "Sadai dai ana ganin dukkan ƴan takarar akwai jihohi da sassan ƙasar da za su yi tasiri, sannan akwai jihohi da sassan da ake ganin za su fuskanci ƙalubale wajen tara ƙuri'u.",
    "published_date": "Sat, 24 Oct 2026 04:02:10 GMT",
@@ -132,13 +139,6 @@
    "url": "https://www.bbc.com/hausa/articles/cqkgkex5zxz1o?at_medium=RSS&at_campaign=rss",
    "content": "Duk da cewa Saudiyya na daga cikin ƙasashen da suka fi kashe kuɗi wajen tsaro a duniya, Houthi sun ci gaba da nuna cewa suna da damar kai hare-hare ta amfani da makamai masu linzami da jirage marasa matuƙa.",
    "published_date": "Sat, 24 Oct 2026 03:58:04 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Aston Villa na nazari kan Garnacho, Brighton na hari Diego Gomez",
-   "url": "https://www.bbc.com/hausa/articles/cqn49ddwwxn1o?at_medium=RSS&at_campaign=rss",
-   "content": "Aston Villa na shakkun ɗaukar Alejandro Garnacho a maimakon ɗan ci gaba da taka mata leda a matsayin ɗan wasan aro, Brighton ta dage kan ba zata siyar da Diego Gomez ba, sai Manchester United da masu neman shugabancin ƙungiyar ke bayana damuwa kan yan wasan ƙungiyar.",
-   "published_date": "Sat, 24 Oct 2026 04:01:09 GMT",
    "score": 0.6
   },
   {

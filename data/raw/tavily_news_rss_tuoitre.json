@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Miss Charm Vietnam Trà My: Đăng quang là... tạm ngưng việc học",
+   "url": "https://tuoitre.vn/miss-charm-vietnam-tra-my-dang-quang-la-tam-ngung-viec-hoc-100261026124247303.htm",
+   "content": "Tân Miss Charm Vietnam 2026 Nguyễn Ngọc Trà My cho biết đăng quang là giấc mơ đã thành hiện thực, nhưng vương miện cũng đi cùng trách nhiệm. Cô tạm ngưng việc học để tập trung chuẩn bị cho đấu trường nhan sắc quốc tế Miss Charm 2026.",
+   "published_date": "10/26/2026 1:09:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

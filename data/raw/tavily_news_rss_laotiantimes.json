@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Researchers Find New Yellow-Snouted Venomous Snake in Laos’ Vang Vieng",
+   "url": "https://laotiantimes.com/2026/10/26/researchers-find-new-yellow-snouted-venomous-snake-in-laos-vang-vieng/",
+   "content": "Researchers have found a new kind of venomous snake living in caves in Vang Vieng, Vientiane Province. The snake has a bright yellow-orange snout. The study, published in the journal Herpetozoa, describes the species from one adult female collected near Khan Kham Cave in October 2024. The researchers also photographed three other snakes of the […]",
+   "published_date": "Mon, 26 Oct 2026 06:50:02 +0000",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",

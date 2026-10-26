@@ -1,0 +1,76 @@
+{
+ "query": "MPLJ FPL JNIM EIGS Niger jihadist attack Agadez Tillaberi",
+ "_tag": "soc_ter_ne",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/mintelworld/status/2113580189196468242",
+     "title": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine",
+     "description": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine route in northern Niger .",
+     "snippet": "Nigerien authorities attended the burial of 12 victims killed in an armed attack targeting two passenger buses along the Agadez–Tchirozérine route in northern Niger .",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mintel World",
+     "handle": "@mintelworld"
+    },
+    {
+     "url": "https://x.com/Sahelinfos24/status/2113686889085424032",
+     "title": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces armées #nigériennes et détruit un véhicule lors d'une attaque",
+     "description": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces  armées #nigériennes et détruit un véhicule lors d'une attaque à l'engin  explosif improvisé le 11 octobre dans la région de Diffa. L'affirmation  n'a pas été vérifiée de manière indépendante. L'attaque signalée  souligne la vulnérabilité continue des forces de sécurité aux explosifs  en bordure de route dans l'est du Niger. L'une des principales demandes  des partenaires extérieurs des #FAN est de fournir une expertise et des  équipements de lutte contre les engins explosifs improvisés.",
+     "snippet": "#Niger: L'Etat Islamique #EIGS affirme avoir tué sept membres des #FAN forces  armées #nigériennes et détruit un véhicule lors d'une attaque à l'engin  explosif improvisé le 11 octobre dans la région de Diffa. L'affirmation  n'a pas été vérifiée de manière indépendante. L'attaque signalée  souligne la vulnérabilité continue des forces de sécurité aux explosifs  en bordure de route dans l'est du Niger. L'une des principales demandes  des partenaires extérieurs des #FAN est de fournir une expertise et des  équipements de lutte contre les engins explosifs improvisés.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Info 24",
+     "handle": "@Sahelinfos24"
+    },
+    {
+     "url": "https://x.com/TGEThGlobalEye/status/2114363963735462177",
+     "title": "#BREAKING | 🇩🇿 🇳🇪 — Algeria’s parliament unanimously approved forward deployment of military forces into Niger.",
+     "description": "#BREAKING | 🇩🇿 🇳🇪 — Algeria’s parliament unanimously approved forward deployment of military forces into Niger. \n\nThis expands Algeria’s presence at Air Base 101 (Niamey International Airport), established after the August 29 attempted coup. Forces will deploy to key oil infrastructure and Madama Air Base (21.9554711, 13.6470986) in the northeast.\n\nAlgeria has softened its stance toward Mali and Burkina Faso while backing the Niamey junta, recently supplying military helicopters. This shift counters the growing influence of Saddam Haftar and eastern Libyan factions, whom Niamey accuses of supporting Tuareg separatists and the anti-junta Patriotic Liberation Front (FPL). Some junta members blame the FPL for the August 29 attacks.\n\nThe deployment positions Algerian forces near FPL operational areas and the Libyan border, specifically Fezzan, which is controlled by remnants of Haftar’s 128th Brigade.",
+     "snippet": "#BREAKING | 🇩🇿 🇳🇪 — Algeria’s parliament unanimously approved forward deployment of military forces into Niger. \n\nThis expands Algeria’s presence at Air Base 101 (Niamey International Airport), established after the August 29 attempted coup. Forces will deploy to key oil infrastructure and Madama Air Base (21.9554711, 13.6470986) in the northeast.\n\nAlgeria has softened its stance toward Mali and Burkina Faso while backing the Niamey junta, recently supplying military helicopters. This shift counters the growing influence of Saddam Haftar and eastern Libyan factions, whom Niamey accuses of supporting Tuareg separatists and the anti-junta Patriotic Liberation Front (FPL). Some junta members blame the FPL for the August 29 attacks.\n\nThe deployment positions Algerian forces near FPL operational areas and the Libyan border, specifically Fezzan, which is controlled by remnants of Haftar’s 128th Brigade.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Global Eye",
+     "handle": "@TGEThGlobalEye"
+    },
+    {
+     "url": "https://x.com/Valapraisio/status/2114370066439430382",
+     "title": "Algeria should just join the AES Algiers’ shift is understood to be driven by the growing influence of Saddam Haftar and eastern Libyan fact",
+     "description": "Algeria should just join the AES \n\nAlgiers’ shift is understood to be driven by the growing influence of Saddam Haftar and eastern Libyan factions, which Niamey accuses of supporting Tuareg separatists in northeast Niger as well as the anti-junta Patriotic Liberation Front, FPL. Certain sections of the Nigerien junta have accused the FPL of orchestrating the August 29 attacks.\n\nAlgeria has long opposed the Haftar warlords, and the deployment to Madama Air Base places Algerian forces directly on the doorstep of FPL areas of operation in northeastern Niger, while also positioning them close to the Libyan border, particularly Fezzan, a region controlled by the remnants of the infamous 128th Brigade of Haftar's Libyan National Army.",
+     "snippet": "Algeria should just join the AES \n\nAlgiers’ shift is understood to be driven by the growing influence of Saddam Haftar and eastern Libyan factions, which Niamey accuses of supporting Tuareg separatists in northeast Niger as well as the anti-junta Patriotic Liberation Front, FPL. Certain sections of the Nigerien junta have accused the FPL of orchestrating the August 29 attacks.\n\nAlgeria has long opposed the Haftar warlords, and the deployment to Madama Air Base places Algerian forces directly on the doorstep of FPL areas of operation in northeastern Niger, while also positioning them close to the Libyan border, particularly Fezzan, a region controlled by the remnants of the infamous 128th Brigade of Haftar's Libyan National Army.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tracy",
+     "handle": "@Valapraisio"
+    },
+    {
+     "url": "https://x.com/ADEYUSUF_ia/status/2114102746081300546",
+     "title": "A jihadist turf war is becoming a regional war.",
+     "description": "A jihadist turf war is becoming a regional war.\n\nIS-Sahel claims it killed 400+ JNIM fighters in Burkina Faso's Oudalan (unconfirmed). ACLED counts 320+ JNIM–IS battles and ~2,200 deaths since 2019.\n\nNow the fighting has spread to Niger Republic.",
+     "snippet": "A jihadist turf war is becoming a regional war.\n\nIS-Sahel claims it killed 400+ JNIM fighters in Burkina Faso's Oudalan (unconfirmed). ACLED counts 320+ JNIM–IS battles and ~2,200 deaths since 2019.\n\nNow the fighting has spread to Niger Republic.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ade-yusuf",
+     "handle": "@ADEYUSUF_ia"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2114294585396445510",
+     "title": "The airforce is finally looking at what the sahel countries are doing...",
+     "description": "The airforce is finally looking at what the sahel countries are doing... The aksungur is the most serious system on the list, having watched it in Nigeria republic, it is a heavy bomber with good combat record.. It did so well in Niger republic that Is-sahel tried to destroy them in suicide raids",
+     "snippet": "The airforce is finally looking at what the sahel countries are doing... The aksungur is the most serious system on the list, having watched it in Nigeria republic, it is a heavy bomber with good combat record.. It did so well in Niger republic that Is-sahel tried to destroy them in suicide raids",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    }
+   ]
+  }
+ ]
+}
