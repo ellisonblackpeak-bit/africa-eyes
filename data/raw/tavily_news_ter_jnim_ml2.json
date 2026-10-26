@@ -1,0 +1,9 @@
+{
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "_tag": "ter_jnim_ml2",
+ "_query": "JNIM Mali",
+ "_domains": [],
+ "_days": 3
+}
