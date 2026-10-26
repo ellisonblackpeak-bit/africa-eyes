@@ -72,10 +72,16 @@ check("英文·法国从尼日尔撤军→不归欧",
 check("英文·欧盟制裁尼日尔→归欧",
       "eu" in CLASSIFY("EU sanctions Niger junta over coup", ""), True,
       "EU sanctions Niger junta over coup")
-check("域名·politico.eu", DOM.get("politico.eu") == "eu", True, "politico.eu")
-check("域名·lemonde.fr", DOM.get("lemonde.fr") == "eu", True, "lemonde.fr")
+check("域名·politico.eu 不自行定国", DOM.get("politico.eu") is None, True,
+      "politico.eu")   # 欧洲是「集团」，不能由编辑部所在地推断
+check("域名·lemonde.fr 不自行定国", DOM.get("lemonde.fr") is None, True,
+      "lemonde.fr")
+check("域名·euronews 不自行定国", DOM.get("euronews.com") is None, True,
+      "euronews.com")
 check("域名·全球媒体不归欧", "eu" in [DOM.get("reuters.com"), DOM.get("bbc.com")], False,
       "reuters.com / bbc.com")
+check("欧洲稿·仅靠正文国名也可判", "eu" in CLASSIFY("Denmark stocks up on missiles", ""),
+      True, "Denmark stocks up on missiles")
 
 print("\n── ② G7 主题词（缺此词则不入欧洲模块）──")
 for t, want in [

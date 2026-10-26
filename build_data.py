@@ -971,20 +971,21 @@ DOMAIN_CTY = {
     # ── LA / Laos ─────────────────────────────────────────────────────────
     "vientianetimes.org.la": "la", "kpl.gov.la": "la", "laotiantimes.com": "la",
     # ── EU / Europe (added 2026-10-26) ────────────────────────────────────
-    # Only outlets whose desk IS Europe. UK and global wires (theguardian.com,
-    # ft.com, economist.com, reuters.com, bbc.com) are deliberately absent: the
-    # domain fallback fires only when no country marker matched, and a global
-    # desk's story that names no country is not a European story — it is an
-    # international one. Mapping them would have filed "Brazil election" under
-    # Europe, which is the exact mistake that removed bbc_russian.
-    "politico.eu": "eu", "euractiv.com": "eu", "euronews.com": "eu",
-    "dw.com": "eu", "france24.com": "eu", "rfi.fr": "eu",
-    "lemonde.fr": "eu", "lefigaro.fr": "eu", "lesechos.fr": "eu",
-    "latribune.fr": "eu", "spiegel.de": "eu", "zeit.de": "eu",
-    "faz.net": "eu", "welt.de": "eu", "handelsblatt.com": "eu",
-    "ilsole24ore.com": "eu", "elpais.com": "eu", "elmundo.es": "eu",
-    "nrc.nl": "eu", "destandaard.be": "eu", "irishtimes.com": "eu",
-    "rte.ie": "eu",
+    # DELIBERATELY EMPTY. The first cut mapped politico.eu, euronews, dw,
+    # france24 and the national dailies to `eu`, and a live rehearsal of the G7
+    # gate showed exactly why that is wrong: euronews.com published "María
+    # Corina Machado back in Venezuela" and dw.com published "Afghan women could
+    # lose one of their last paths to higher education" — neither names a
+    # European country, so the domain fallback filed both under Europe and G7
+    # then admitted them. That is the bbc_russian failure repeated one level
+    # down, at the masthead instead of the feed.
+    #
+    # Europe is a BLOC, and a bloc cannot be inferred from where a newsroom is
+    # headquartered. Membership now requires an explicit European signal in the
+    # copy: a member state or its capital (CTY_MARKERS["eu"]), the EU
+    # abbreviation (EU_ABBR_RX), or 欧洲/欧盟/布鲁塞尔. All five European feeds
+    # stay in fetch_news.py — they are still the best source of these stories,
+    # they just no longer decide the country themselves.
 }
 
 # Multi-country desks: they cover the whole neighbourhood, so a fixed country
@@ -1621,7 +1622,14 @@ SEC_EVENT_RX = re.compile(
     r"|(博科圣地|伊斯兰国|圣战|恐怖|武装分子|枪手|匪徒|绑匪|军方|军队|士兵|"
     r"海军|空军|空袭|无人机|伏击|军事行动|进攻|屠杀|爆炸|炸弹|围攻|人质|"
     r"万人坑|流离失所|难民|民兵|安全部队|牧民|农牧民|基督徒|部族|族群|"
-    r"社区冲突|输油|原油|石油|管道|炼油|铁路|乍得湖|萨赫勒)", re.I)
+    r"社区冲突|输油|原油|石油|管道|炼油|铁路|乍得湖|萨赫勒|"
+    # Added 2026-10-26. "尼日尔血浴：今天在运输巴士上有人被枪杀 至少 10 名
+    # 平民在本周二被杀" was being thrown away as an ordinary local crime story:
+    # the English list had `civilians?` but the Chinese list did not have 平民,
+    # and 枪杀/枪击 were absent too, so the armed-attack exemption never fired.
+    # A bus ambush that kills ten civilians is the security beat, not a crime
+    # blotter item.
+    r"平民|枪杀|枪击|扫射|遇袭|遭袭|血洗|血腥|武装袭击|死亡人数|伤亡人数)", re.I)
 KIDNAP_SCALE_RX = re.compile(
     r"\b(\d{2,}|dozens|hundreds|scores|mass)\b|(数十|数百|上千|大批|集体|多名|数名|全校|整村)")
 LOCAL_CRIME_RX = re.compile(
@@ -3102,6 +3110,7 @@ def _relevance_gate(it):
     if dom in WA_DOMAINS:
         return True, "G1"
     head = " ".join([it.get("title") or "", it.get("summary") or ""])
+    ttl = it.get("title") or ""
     full = " ".join([head, (it.get("body") or "")[:2500]])
     if _gate_wa_anchor(full):
         return True, "G2"
@@ -3131,9 +3140,17 @@ def _relevance_gate(it):
     #     ② EU policy or initiative aimed at Chinese firms       -> CN
     #     ③ European interaction with the United States          -> US
     #     ④ European interaction with China's neighbours         -> periphery
+    # The relationship test uses the TITLE ONLY. Even the lede is too weak: the
+    # rehearsal admitted "María Corina Machado back in Venezuela" because the
+    # first paragraph mentioned US sanctions somewhere, though nothing in the
+    # headline has to do with Europe or America. Every one of the genuine hits
+    # names its counterparty in the headline — "Denmark stocks up on long-range
+    # missiles from US", "US designates helium as critical material as Europe
+    # faces supply squeeze", "Beijing's AI invite to Brussels" — so title-only
+    # costs nothing real and removes the whole class.
     if "eu" in (it.get("country") or []) and EU_TOPIC_RX.search(head) and (
-            _GATE_CN_RX.search(full) or CN_ASSET_RX.search(full)
-            or has_us(full) or _gate_periphery(full)):
+            _GATE_CN_RX.search(ttl) or CN_ASSET_RX.search(ttl)
+            or has_us(ttl) or _gate_periphery(ttl)):
         return True, "G7"
     return False, "DROP"
 
