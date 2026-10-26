@@ -1,0 +1,93 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Mali : Benson Diakité , ancienne grande voix de RFI , est mort",
+   "url": "https://fr.allafrica.com/stories/202610230641.html",
+   "content": "",
+   "published_date": "2026-10-24T00:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "South Africa : Kaizer Chiefs , Raja and CS Sfaxien Face Tricky Return Ties As TotalEnergies CAF Confederation Cup Group Stage Places Go On the Line",
+   "url": "https://allafrica.com/stories/202610230241.html",
+   "content": "",
+   "published_date": "2026-10-23T12:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Mouv VTC et Moov Africa Malitel sallient pour faciliter la mobilité urbaine au Mali",
+   "url": "https://malijet.com/actualite_economique_du_mali/312490-mouv-vtc-et-moov-africa-malitel-sallient-pour-faciliter-la.html",
+   "content": "",
+   "published_date": "2026-10-24T16:15:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Bamako : le Conseil communal de la Commune I dissous pour des irrégularités de gestion",
+   "url": "https://malijet.com/la_societe_malienne_aujourdhui/312487-bamako-le-conseil-communal-de-la-commune-i-dissous-pour-de.html",
+   "content": "",
+   "published_date": "2026-10-24T11:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Sénégal : Un artiste sénégalais présente  Il était une fois Gaza , une exposition qui dénonce les atteintes à la dignité humaine à Gaza",
+   "url": "https://fr.allafrica.com/stories/202610240008.html",
+   "content": "",
+   "published_date": "2026-10-24T10:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Africa :  Too Arrogant , Too Sure of Itself  France Confronts Its Legacy in Africa",
+   "url": "https://allafrica.com/stories/202610230640.html",
+   "content": "",
+   "published_date": "2026-10-24T00:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Mali Army , Russian Fighters Accused of Civilian Killings",
+   "url": "https://allafrica.com/view/group/main/main/id/00098566.html",
+   "content": "",
+   "published_date": "2026-10-23T10:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Mali : Army , Russia  Africa Corp Commit New Abuses",
+   "url": "https://allafrica.com/stories/202610230063.html",
+   "content": "",
+   "published_date": "2026-10-23T06:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Revue de presse du 23 octobre 2026",
+   "url": "https://fr.allafrica.com/view/group/main/main/id/00098569.html",
+   "content": "",
+   "published_date": "2026-10-23T11:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "PMU Mali :: LE PARI MUTUEL URBAIN DU MALI",
+   "url": "https://pmu.malijet.com/detail-du-programme-du-25_10_2026-2636.html",
+   "content": "",
+   "published_date": "2026-10-24T22:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Sénégal : Le matrimoine au coeur de la transmission",
+   "url": "https://fr.allafrica.com/stories/202610240078.html",
+   "content": "",
+   "published_date": "2026-10-24T14:45:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ml",
+ "_query": "Mali OR Bamako OR jihadist OR orpaillage",
+ "_domains": [
+  "malijet.com",
+  "maliweb.net",
+  "reuters.com",
+  "africanews.com",
+  "allafrica.com"
+ ],
+ "_days": 3
+}

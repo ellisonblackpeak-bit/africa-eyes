@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Brazil's Lula clinches election victory as Bolsonaro rejects results",
+   "url": "https://www.euronews.com/2026/10/26/brazils-lula-clinches-election-victory-as-bolsonaro-rejects-results",
+   "content": "Lula's triumph bucks a regional trend of victories for right-of-center presidential candidates allied with Trump. It also means Latin America’s largest economy will likely continue defying Trump’s demands, despite the pressure of increased tariffs.",
+   "published_date": "Mon, 26 Oct 2026 05:10:03 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
    "url": "https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat",
    "content": "Crowds celebrated in Belgrade after President Aleksandar Vučić conceded defeat for his ruling party in Serbia's snap parliamentary election, following nearly two years of student-led demonstrations.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/video/2026/10/23/gaza-moment-israeli-airstrike-hits-building-in-nuseirat-caught-on-camera",
    "content": "Footage captures the moment an Israeli strike hits a building in Gaza's Nuseirat camp. No deaths were reported, but images show a wounded person.",
    "published_date": "Fri, 23 Oct 2026 12:23:22 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 23rd, 2026 – Midday",
-   "url": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-midday",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Fri, 23 Oct 2026 12:00:15 +0200",
    "score": 0.6
   }
  ],

@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Ko Kwankwaso zai raba ƙuri'ar Atiku a jihohin arewa?",
+   "url": "https://www.bbc.com/hausa/articles/cqj34vrkpzjko?at_medium=RSS&at_campaign=rss",
+   "content": "A zaɓen 2023, Atiku Abubakar na PDP da Rabiu Musa Kwankwaso na NNPP sun yi gogayya wajen neman goyon bayan masu kaɗa ƙuri'a a jihohin Arewa.",
+   "published_date": "Mon, 26 Oct 2026 03:53:47 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Howe na shirin tattauna da United, ƙungiyoyin Firimiya uku na zawarcin Karl",
+   "url": "https://www.bbc.com/hausa/articles/cm62yrq2ledvo?at_medium=RSS&at_campaign=rss",
+   "content": "A shirye Eddie Howe yake don fara tattaunawa da Manchester United idan har suka raba gari da Michael Carrick, wasu ƙunguiyoyin dake buga gasar Firimiya uku na sa ido kan ɗan wasan Bayern Munich Lennart Karl, sai Manchester United da ke harin ɗan wasan Everton Jarrad Branthwaite.",
+   "published_date": "Mon, 26 Oct 2026 03:45:56 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Shin Iran na son yaƙi ya zama hanyar karya lagon Trump a zaɓe ne?",
+   "url": "https://www.bbc.com/hausa/articles/c6zjx0x3k4m4o?at_medium=RSS&at_campaign=rss",
+   "content": "Yaƙin da Isra'ila da Amurka suka ƙaddamar kan Iran ya haifar da hauhawar farashin makamashi a kasuwannin duniya, kuma babu wata alama ta kawo ƙarshen shi nan kusa.",
+   "published_date": "Mon, 26 Oct 2026 03:52:29 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Iran da ƙawayenta na shirin kai mana hari lokacin zaɓe - Netanyahu",
    "url": "https://www.bbc.co.uk/hausa/live/c80401dn9lk4t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 25/10/2026",
@@ -37,20 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Muhimman abubuwa 5 da Tinubu da muƙarrabansa suka faɗa a Kaduna",
-   "url": "https://www.bbc.com/hausa/articles/cvglw6lnkk9do?at_medium=RSS&at_campaign=rss",
-   "content": "Wani abu da ya ja hankali a game da taron shi ne yadda Tinubu ya ƙaddamar da wani ɓangare na aikin titin Abuja zuwa Kaduna zuwa Kano a filin taron.",
-   "published_date": "Sat, 24 Oct 2026 17:40:54 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abu 5 da ya kamata ku sani kan fara yaƙin neman zaɓen Tinubu a Kaduna",
-   "url": "https://www.bbc.com/hausa/articles/cmly031r2vqlo?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da Najeriya ke shirin gudanar da babban zaben shekarar 2027, jam'iyyar APC ta shirya fara yakin neman zaben sake zaben Shugaba Bola Ahmed Tinubu a ranar 24 ga Oktoba, 2026, a Jihar Kaduna.",
-   "published_date": "Sat, 24 Oct 2026 04:01:40 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -58,17 +65,17 @@
    "score": 0.6
   },
   {
-   "title": "Man United ta kara nutsewa a teburin Premier",
-   "url": "https://www.bbc.co.uk/hausa/live/cwx297v8lknpt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye a BBC Hausa daga 19 zuwa 25 ga watan Oktoban 2026.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
    "title": "Takarar Ballon d'Or: Fafatawa ta yi zafi a neman kyautar ƙwallon ƙafa mafi girma",
    "url": "https://www.bbc.com/hausa/articles/cmdx3wle3wwdo?at_medium=RSS&at_campaign=rss",
    "content": "Kyautar Ballon d'Or ita ce mafi girma ga dan wasan kwallon kafa a duniya - kuma kishirwar lashe gasar bana sai kara zafi take, fiye da wadanda aka yi a baya.",
    "published_date": "Sat, 24 Oct 2026 16:09:29 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Man United ta kara nutsewa a teburin Premier",
+   "url": "https://www.bbc.co.uk/hausa/live/cwx297v8lknpt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye a BBC Hausa daga 19 zuwa 25 ga watan Oktoban 2026.",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -90,6 +97,20 @@
    "url": "https://www.bbc.com/hausa/articles/cmg4735z619lo?at_medium=RSS&at_campaign=rss",
    "content": "Hayaniyar ihu da tsangwama lokacin taken Premier League da Champions League kafin fara wasa yanzu ya zama ruwan dare a filin wasa na Etihad Stadium.",
    "published_date": "Thu, 22 Oct 2026 11:07:50 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Muhimman abubuwa 5 da Tinubu da muƙarrabansa suka faɗa a Kaduna",
+   "url": "https://www.bbc.com/hausa/articles/cvglw6lnkk9do?at_medium=RSS&at_campaign=rss",
+   "content": "Wani abu da ya ja hankali a game da taron shi ne yadda Tinubu ya ƙaddamar da wani ɓangare na aikin titin Abuja zuwa Kaduna zuwa Kano a filin taron.",
+   "published_date": "Sat, 24 Oct 2026 17:40:54 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Abu 5 da ya kamata ku sani kan fara yaƙin neman zaɓen Tinubu a Kaduna",
+   "url": "https://www.bbc.com/hausa/articles/cmly031r2vqlo?at_medium=RSS&at_campaign=rss",
+   "content": "Yayin da Najeriya ke shirin gudanar da babban zaben shekarar 2027, jam'iyyar APC ta shirya fara yakin neman zaben sake zaben Shugaba Bola Ahmed Tinubu a ranar 24 ga Oktoba, 2026, a Jihar Kaduna.",
+   "published_date": "Sat, 24 Oct 2026 04:01:40 GMT",
    "score": 0.6
   },
   {
@@ -188,27 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cxvgd7r2z3y9o?at_medium=RSS&at_campaign=rss",
    "content": "Labarin nasarar Serie A Como ta koma daga Serie D zuwa Gasar Zakarun Turai - yanzu sun koya wa Manchester United darasi a Turai.",
    "published_date": "Thu, 22 Oct 2026 11:32:43 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa ake ci gaba da raɗe-raɗi kan mutuwar Kim Jong Un?",
-   "url": "https://www.bbc.com/hausa/articles/cwjdm0nj1kddo?at_medium=RSS&at_campaign=rss",
-   "content": "Kafafen yada labaran gwamnatin Koriya ta Arewa sun wallafa hotunan shugaban mulkin kama-karya tare da 'yarsa bayan jita-jitar da ba a tabbatar ba ta yadu.",
-   "published_date": "Thu, 22 Oct 2026 03:56:08 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Carrick ya ci gaba da aiki, yayin da Man Utd ke duba yiwuwar maye gurbinsa",
-   "url": "https://www.bbc.com/hausa/articles/ck3wv92jj665o?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da ake sa ran Michael Carrick zai jagoranci wasan ranar Lahadi da Bournemouth a Premier League, Manchester United ta fara aikin nemo wanda zai maye gurbinsa.",
-   "published_date": "Thu, 22 Oct 2026 16:57:18 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abubuwan da suka kamata ku riƙa ci domin samun lafiyayyar fata",
-   "url": "https://www.bbc.com/hausa/articles/cm78p16xj896o?at_medium=RSS&at_campaign=rss",
-   "content": "Fata, wani muhimmin sashe ne a jikinmu, kuma dole ne mu rayu da ita. Baya ga kasancewa tana ƙawata jikinmu, kula da fata da kyau na kuma amfanar lafiyarmu baki ɗaya.",
-   "published_date": "Thu, 22 Oct 2026 03:55:51 GMT",
    "score": 0.6
   }
  ],
