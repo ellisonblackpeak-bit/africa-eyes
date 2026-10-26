@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 20th October 2026",
+   "url": "https://www.modernghana.com/videonews/cititv/1/738013",
+   "snippet": "Ghana Producer Inflation Climbs to 4.8% as Mining and Manufacturing Prices Rise\n\nGhana Producer Inflation Climbs to 4.8% as Mining and Manufacturing Prices Rise\n\n20.10.2026 | CitiTV\n\n2027 Budget to Propose Tax Incentives for Ghana’s Gold Processing Industry\n\n2027 Budget to Propose Tax Incentives for Ghana’s Gold Processing Industry\n\n20.10.2026 | CitiTV\n\nStakeholders Call for Long-Term National Hum",
+   "published": "Wed, 21 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 22nd October 2026",
+   "url": "https://www.modernghana.com/amp/videonews/739416",
+   "snippet": "NDC Greater Accra Race: Laryea Says Unity Can Achieve More\n\n22.10.2026 | CitiTV\n\nIndustry Leaders Urged to Give Young Engineers Greater Responsibility\n\nIndustry Leaders Urged to Give Young Engineers Greater Responsibility\n\n22.10.2026 | CitiTV\n\nGhana to Receive One Million Meters to Address Shortages – PURC\n\nGhana to Receive One Million Meters to Address Shortages – PURC\n\n22.10.2026 | CitiTV\n\nECG M",
+   "published": "Fri, 23 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One Newsroom Live! | Latest News Updates From Ghana [24.10.2026]",
+   "url": "https://www.modernghana.com/amp/videonews/741043",
+   "snippet": "24.10.2026 | CitiTV\n\nMadina Traders Resume Business, Call for Debris Clearance After Demolition | Ghana News\n\nMadina Traders Resume Business, Call for Debris Clearance After Demolition | Ghana News\n\n24.10.2026 | CitiTV\n\nSuame Interchange Construction: Outer Ring Road Project Targets Traffic and Road Safety | Ghana News\n\nSuame Interchange Construction: Outer Ring Road Project Targets Traffic and Ro",
+   "published": "Sun, 25 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One Newsroom Live! | Latest News Updates From Ghana [25.10.2026]",
+   "url": "https://www.modernghana.com/amp/videonews/741391",
+   "snippet": "Wa–Sawla Road Traders Seek Alternative Spaces Ahead of Demolition | Ghana News\n\n25.10.2026 | CitiTV\n\nNDC Ashanti Executives Urged to Prioritise Reconciliation After Internal Elections\n\nNDC Ashanti Executives Urged to Prioritise Reconciliation After Internal Elections\n\n25.10.2026 | CitiTV\n\nBimbilla NDC Executives Call for Unity Ahead of 2028 Elections | Ghana News\n\nBimbilla NDC Executives Call for ",
+   "published": "Sun, 25 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 23rd October 2026",
+   "url": "https://www.modernghana.com/amp/videonews/740098",
+   "snippet": "AMA to Build Permanent Homes for Kofikrom Residents After Duraplast Fire\n\nAMA to Build Permanent Homes for Kofikrom Residents After Duraplast Fire\n\n23.10.2026 | CitiTV\n\nMahama Ayariga Unveils Vision for Better-Planned Urban Communities\n\nMahama Ayariga Unveils Vision for Better-Planned Urban Communities\n\n23.10.2026 | CitiTV\n\nAdunyame Foundation Satisfied With Breast Cancer Screening Turnout in Kaso",
+   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Sunday Breakfast | Latest News updates from Ghana | 25th October 2026",
+   "url": "https://www.modernghana.com/amp/videonews/741143",
+   "snippet": "Tensions Rise in Bimbilla as Individuals Attempt to Enter Voting Room |\\ Ghana News\n\nTensions Rise in Bimbilla as Individuals Attempt to Enter Voting Room |\\ Ghana News\n\n24.10.2026 | CitiTV\n\nAwutu Senya West MP Gizela Tetteh-Agbotui Urges Successful NDC Candidates to Work Hard\n\nAwutu Senya West MP Gizela Tetteh-Agbotui Urges Successful NDC Candidates to Work Hard\n\n24.10.2026 | CitiTV\n\nTanko Rashid",
+   "published": "Sun, 25 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 24th October 2026",
+   "url": "https://www.modernghana.com/amp/videonews/740748",
+   "snippet": "NDC Elections: Police Remove Suspected Aspirants from Ayawaso West Voting Centre\n\nNDC Elections: Police Remove Suspected Aspirants from Ayawaso West Voting Centre\n\n24.10.2026 | CitiTV\n\nAccra Mayor Endorses Ernest Adomako for Unopposed 2028 Okaikwei South Parliamentary Bid\n\nAccra Mayor Endorses Ernest Adomako for Unopposed 2028 Okaikwei South Parliamentary Bid\n\n24.10.2026 | CitiTV\n\nM.anifest’s Nowh",
+   "published": "Sun, 25 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 24th October 2026",
+   "url": "https://www.modernghana.com/videonews/cititv/1/740749",
+   "snippet": "Accra Mayor Endorses Ernest Adomako for Unopposed 2028 Okaikwei South Parliamentary Bid\n\nAccra Mayor Endorses Ernest Adomako for Unopposed 2028 Okaikwei South Parliamentary Bid\n\n24.10.2026 | CitiTV\n\nM.anifest’s Nowhere Cool 10th Anniversary Celebration Set for Today At Polo Club\n\nM.anifest’s Nowhere Cool 10th Anniversary Celebration Set for Today At Polo Club\n\n24.10.2026 | CitiTV\n\nAgriFair 2026: S",
+   "published": "Sun, 25 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana president: anybody committed to fighting terrorism is welcome in West Africa",
+   "url": "https://www.reuters.com/world/africa/ghana-president-anybody-committed-fight-terrorism-is-welcome-west-africa-2026-10-21",
+   "snippet": "Ghana's President John Dramani Mahama said ​on Wednesday he was not concerned about Russian ‌security assistance in the Sahel and that anyone committed to",
+   "published": "Thu, 22 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Film Fans Love These Vintage Hand-Painted Movie Posters From Ghana - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/24/style/kermit-the-gangster-frog-only-in-these-vintage-ghanaian-movie-posters.html",
+   "snippet": "Recently, Deadly Prey held an exhibition at the Selva gallery in the Bushwick neighborhood of Brooklyn. Film fans riffled through bins filled with prints featuring Ghanaian depictions of “Free Willy,” with the orca eating Jesse alive, and of “The Warriors,” with a werewolf chasing the titular street gang back to Coney Island.\n\n## Related Content\n\nAdvertisement [...] At the time, small traveling ci",
+   "published": "Sat, 24 Oct 2026 17:38:11 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gh_extra",
  "_query": "Ghana latest news",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Could JPMorgan rival Citibank in Nigeria as a new American dealmaking lender? - Businessfront",
+   "url": "https://businessfront.com/finance/insights/jpmorgan-citibank-nigeria-american-dealmaking-lender",
+   "snippet": "Citi serves multinationals, financial institutions and government-linked entities, many of which JPMorgan is also targeting. Competition is likely to be strongest in energy and infrastructure, where Nigerian companies have significant demand for dollar financing. Citi has said its strengthened balance sheet positions it to expand lending and support for clients in these sectors, as well as trade f",
+   "published": "Sun, 25 Oct 2026 19:07:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Signs a Mining Agreement with Nigeria",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/u-s-signs-a-mining-agreement-with-nigeria",
+   "snippet": "Nigeria and the United States signed an agreement on the sidelines of the U.N. General Assembly on September 24 to expand American investment in Nigeria's",
+   "published": "Tue, 20 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Weatherford International Q3 Earnings Call Highlights — Noticias de TradingView",
+   "url": "https://es.tradingview.com/news/marketbeat:a3d6f249f094b:0-weatherford-international-q3-earnings-call-highlights",
+   "snippet": "The company also cited offshore completions awards from TotalEnergies in Denmark, Exxon in Nigeria, Equinor on the Norwegian Continental Shelf and Seplat Energy in Nigeria. Weatherford said completions is now its largest product line. Separately, the legacy NCS business secured an award for frac sleeves and service tools in the Deepwater Gulf of America, with work expected to begin in the first qu",
+   "published": "Wed, 21 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical minerals underpin Washington's Nigeria overtures - African Business",
+   "url": "https://african.business/2026/10/resources/critical-minerals-underpin-washingtons-nigeria-overtures",
+   "snippet": "Munira Raji, senior research fellow in green minerals and the energy transition at the Africa Policy Research Institute, tells African Business that the opportunities in Nigeria could be considerable for the US and other potential partners. [...] Share\n\nOn the sidelines of the United Nations General Assembly in New York in September, the United States and Nigeria agreed a new deal to “deepen Ameri",
+   "published": "Tue, 20 Oct 2026 10:47:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Halliburton tops estimates as Latin America, Europe cushion North American weakness – Brazil Energy Insight",
+   "url": "https://brazilenergyinsight.com/2026/10/20/halliburton-tops-estimates-as-latin-america-europe-cushion-north-american-weakness",
+   "snippet": "Total revenue rose 1.8% to $5.7 billion in ​the third quarter, beating analysts’ estimates of $5.6 billion, according to data compiled by LSEG.\n\nHalliburton's Q3 regional revenue performance\n\nHalliburton’s Q3 regional revenue performance\n\nQuarterly revenue in Latin America increased nearly 12.6% to $1.1 billion, while revenue from Europe and Africa ​jumped 22.7% to $1.02 billion, lifted by increas",
+   "published": "Tue, 20 Oct 2026 12:20:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "sonnen USA Acquired by TIVEN from Shell: VPP Market Expansion - News and Statistics - IndexBox",
+   "url": "https://www.indexbox.io/blog/sonnen-usa-sold-by-shell-to-tiven-as-virtual-power-plant-push-continues",
+   "snippet": "Sweden\n\n         Market Size\n         Production\n         Imports\n         Exports\n    22. 11.22\n\n        Nigeria\n\n         Market Size\n         Production\n         Imports\n         Exports\n    23. 11.23\n\n        Poland\n\n         Market Size\n         Production\n         Imports\n         Exports\n    24. 11.24\n\n        Belgium\n\n         Market Size\n         Production\n         Imports\n         Expor",
+   "published": "Fri, 23 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "COMMENTARY: From Canada to Nigeria, a race for more 'defence sovereignty' is on",
+   "url": "https://www.reuters.com/commentary/canada-nigeria-race-more-defence-sovereignty-is-2026-10-22",
+   "snippet": "By the time Eliot Pence stood down as head of international operations for US autonomous weapons powerhouse Anduril in 2022, the Canadian-born executive had",
+   "published": "Fri, 23 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Ends Solar Tariff Dodges, But Building Own Sector Is Tough",
+   "url": "https://energynow.com/2026/08/us-ends-solar-tariff-dodges-but-building-own-sector-is-tough",
+   "snippet": "By Dan Murtaugh Chinese solar companies will go to great lengths to reach the US…",
+   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Weekly Global Economic Update | Deloitte Insights",
+   "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
+   "snippet": "68 gigawatts of new electricity, but that only 30 gigawatts were accounted for by existing projects. The rest remains uncertain. [...] that exports are booming. On the other hand, data centers now use about 7% of the country’s electricity-generating capacity; this can potentially rise to 31% by 2035. [...] When it comes to US inflation, the narrative mostly still revolves around energy. And the si",
+   "published": "Wed, 21 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],

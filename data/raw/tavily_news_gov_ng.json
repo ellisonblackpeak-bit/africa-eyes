@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "NESG to hold economic summit despite Ebola case in Abuja - The Nation Newspaper",
+   "url": "https://thenationonlineng.net/nesg-to-hold-economic-summit-despite-ebola-case-in-abuja-2/",
+   "snippet": "# NESG to hold economic summit despite Ebola case in Abuja. The Nigerian Economic Summit Group (NESG) has confirmed that the 32nd Nigerian Economic Summit will hold on October 26 and 27 in Abuja despite the confirmation of an imported Ebola case in the Federal Capital Territory (FCT), with organisers introducing additional health precautions to protect participants. The two-day summit, scheduled t",
+   "published": "Sun, 25 Oct 2026 00:50:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "80% of large enterprise lending to manufacturing, infrastructure – BOI - Realnews Magazine",
+   "url": "https://realnewsmagazine.net/80-of-large-enterprise-lending-to-manufacturing-infrastructure-boi/",
+   "snippet": "​‌‌‌‍‌⁠‍⁠⁠‍‌​⁠​​‌‌​‌​ THE Bank of Industry (BOI) says 80 per cent of its large enterprise lending now goes to manufacturing and infrastructure to boost industrial output, create jobs and strengthen productive capacity. Managing Director of BOI, Dr Olasupo Olusi, said this on Wednesday in Lagos while outlining the bank’s strategic priorities and efforts to mobilise long-term financing for businesse",
+   "published": "Fri, 23 Oct 2026 06:32:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Iranian media is defiant as hardliners brace for war | BBC News - Modern Ghana",
+   "url": "https://www.modernghana.com/videonews/bbc/3/740645",
+   "snippet": "| 24.10.2026 | BBC Iranian media is defiant as hardliners brace for war | BBC News |. Attack ad with candidate's estranged mother sparks backlash | BBC News. Is Ukraine being shut out of its own future? Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News. France promises military support to Saudi Arabia | BBC News. Could Trump side with Putin over Zelensky in Ukra",
+   "published": "Sat, 24 Oct 2026 00:40:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition - Greenwich Time",
+   "url": "https://www.greenwichtime.com/news/world/article/nigerian-president-launches-reelection-bid-during-22492645.php",
+   "snippet": "# Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition. ABUJA, Nigeria (AP) — Nigerian President Bola Tinubu launched his reelection bid Saturday, campaigning at a rally for a second presidential term during a cost-of-living crisis and a fractured opposition. The presidential election will be held in January against the backdrop of a worsening econom",
+   "published": "Sat, 24 Oct 2026 19:33:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/24/nigeria-election-tinubu-president-opposition/d3ddb242-cfe1-11f1-ac04-9f58578a68b4_story.html",
+   "snippet": "# Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition. Nigerian President Bola Tinubu has launched his reelection campaign during a cost-of-living crisis and a fractured opposition. President Bola Tinubu, with the All Progressives Congress Party, speaks during the first election campaign of the season in Kaduna, Nigeria, Saturday, Oct. 24, 2026. ABU",
+   "published": "Sat, 24 Oct 2026 19:37:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition - AP News",
+   "url": "https://apnews.com/article/nigeria-election-tinubu-president-opposition-fdc2c405ddcf1b9e47bb805586be366e",
+   "snippet": "# Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition. ABUJA, Nigeria (AP) — Nigerian President Bola Tinubu launched his reelection bid Saturday, campaigning at a rally for a second presidential term during a cost-of-living crisis and a fractured opposition. The presidential election will be held in January against the backdrop of a worsening econom",
+   "published": "Sat, 24 Oct 2026 19:33:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Proposed Orerokpe Varsity of Agriculture will unlock potentials in Delta — Sen. Dafinone - Vanguard News",
+   "url": "https://www.vanguardngr.com/2026/10/proposed-orerokpe-varsity-of-agriculture-will-unlock-potentials-in-delta-sen-dafinone/",
+   "snippet": "Home » News » Proposed Orerokpe Varsity of Agriculture will unlock potentials in Delta — Sen. Dafinone. ## Proposed Orerokpe Varsity of Agriculture will unlock potentials in Delta — Sen. Dafinone. ABUJA — THE Senator representing Delta Central, Ede Dafinone (APC), has said that the proposed University of Agriculture, Orerokpe, would help unlock the agricultural potential of the area while providin",
+   "published": "Sun, 25 Oct 2026 01:08:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Blackout: Edo Power To Be Restored As Okpebholo, NLC Resolve Labour Dispute - New Telegraph",
+   "url": "https://newtelegraphng.com/blackout-edo-power-to-be-restored-as-okpebholo-nlc-resolve-labour-dispute/",
+   "snippet": "# Blackout: Edo Power To Be Restored As Okpebholo, NLC Resolve Labour Dispute. The five-day power outage that crippled private and public institutions in Edo State may soon be over as Governor Monday Okpebholo reportedly reached a truce with organised labour on Friday in Abuja. A statement by Dr Patrick Ebojele, Chief Press Secretary to the Governor, said, “Electricity supply is to be restored in ",
+   "published": "Sat, 24 Oct 2026 17:58:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dicon Dana backs Nigeria defence self-reliance investment - Traders Union",
+   "url": "https://tradersunion.com/news/companies/show/3954419-dicon-dana-nigeria-defence-investment/",
+   "snippet": "# Dicon Dana backs Nigeria defence self-reliance investment. Dicon Dana says a newly announced $100 million joint venture supports that strategy by strengthening local production and broader industrial capacity. * Dicon Dana Tactical announces a $100 million joint venture to boost Nigeria's defence capabilities and reduce reliance on imported military equipment. * The investment aligns with Presid",
+   "published": "Sat, 24 Oct 2026 13:11:20 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa welcomes its newest gold refinery as another nation joins Burkina Faso, Ethiopia in refining gold at home - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/africa-welcomes-its-newest-gold-refinery-as-another-nation-joins-burkina-faso/phem0ns",
+   "snippet": "* Zambia has launched a new gold refinery to process the metal locally and increase value from its natural resources. * Several African nations, including Nigeria, Democratic Republic of the Congo, Burkina Faso, and Ethiopia, have recently inaugurated gold and precious metal refineries. Developed by Minera Refineries Zambia Limited, the facility is designed to refine gold to purity levels of betwe",
+   "published": "Sun, 25 Oct 2026 19:21:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NCDMB, stakeholders chart path for domestic manufacturing of critical Oil and Gas equipment - Realnews Magazine",
+   "url": "https://realnewsmagazine.net/ncdmb-stakeholders-chart-path-for-domestic-manufacturing-of-critical-oil-and-gas-equipment-2/",
+   "snippet": "THE Nigerian Content Development and Monitoring Board (NCDMB), in collaboration with oil and gas stakeholders, has initiated steps to implement recommendations from an industry-wide study on in-country manufacturing of key components. Felix Omatsola Ogbe at the meeting, the General Manager, Institutional Development, Capacity Building Directorate, Mr. Olugbenga Sheba, underscored the Board’s drive",
+   "published": "Mon, 26 Oct 2026 02:29:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
+   "url": "https://www.reuters.com/world/africa/nigerias-tinubu-launches-re-election-campaign-economic-pain-tests-support-2026-10-24/",
+   "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Item 1 of 4 Nigeria's Vice President Kashim Shettima addresses supporters during the All Progressives Congress (APC) campaign flag-off rally in Kaduna, Nigeria, October 24, 2026. **[1/4]**Nigeria's Vice President Kashim Shettima addresses supporters during the All ",
+   "published": "Sat, 24 Oct 2026 17:34:54 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ng",
  "_query": "Nigeria government approves",
  "_domains": [],

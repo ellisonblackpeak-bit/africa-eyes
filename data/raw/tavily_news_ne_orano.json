@@ -1,7 +1,42 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De2Cz8Om8Je",
+   "snippet": "Africa has the resources. The question is who controls them.  \n  \nFrench plants ran on Nigerien uranium for more than 50 years. France drew up to 15% of its nuclear fuel from Niger, and about 70% of French electricity is nuclear.  \n  \nAt the SOMAIR mine in Arlit, Orano held 63.4% and Niger’s state company 36.6%. Orano operated it. Niger’s government says Orano took 86.3% of production from 1971 to",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "France out, America back? U.S. troops have left Niger, yet ...",
+   "url": "https://www.facebook.com/elhamzamisbahu/posts/france-out-america-back-us-troops-have-left-niger-yet-washington-has-approved-up/29283987807873073",
+   "snippet": "... Niger's uranium for 75 years. For over half a century, French company Orano (formerly Areva) operated these mines, extracting massive amounts of uranium",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "For five decades, Niger's uranium helped power France ...",
+   "url": "https://www.facebook.com/the.merc.alkebulan/posts/for-five-decades-nigers-uranium-helped-power-france-while-niger-remained-among-t/1069127232770929",
+   "snippet": "In December 2024, Niger assumed operational control of French company Orano's subsidiary SOMAÏR and revoked mining permits for other projects, including the",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger's Uranium: France Out, America Back? | Fitila Explains",
+   "url": "https://www.youtube.com/watch?v=vP9YtfK6zUI",
+   "snippet": "Our Sources For This Story:\nU.S. Department of State, \"Military Coup d'Etat in Niger\", 10 Oct 2023\nGlobal Atomic Corp. news release, 16 Sep 2026 (DFC approval of up to $414.2M, subject to conditions)\nAl Jazeera Staff and Reuters, \"US approves $414M uranium investment in Niger\", 17 Sep 2026: \nWorld Nuclear News, \"Orano opposes Somaïr nationalisation\", 23 Jun 2025\nAl Jazeera, \"Niger mutiny puts Russ",
+   "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger: West Africa's Largest Country and Uranium Producer",
+   "url": "https://www.facebook.com/groups/1675197536062309/posts/4493353984246636",
+   "snippet": "Niger Republic is the 4th largest producer of Uranium in the world. But most of Niger's Uranium mines are owned & operated by French companies.",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_orano",
  "_query": "Orano Niger uranium",
  "_domains": [],

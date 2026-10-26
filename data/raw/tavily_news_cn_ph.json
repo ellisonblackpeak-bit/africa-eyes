@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "PH rail project delays revive China funding question | The Manila Times",
+   "url": "https://www.manilatimes.net/2026/10/24/news/national/ph-rail-project-delays-revive-china-funding-question/2452947",
+   "snippet": "Herman Tiu Laurel, president of the Asian Century Philippines Strategic Studies Institute, said the Philippines was being left behind by its neighbors in a forum on Friday, citing railway developments in Laos, Indonesia and Malaysia.\n\nHis assessment comes as the Mindanao Development Authority (MinDA) explores possible private-sector investment in the long-delayed Mindanao Railway Project, includin",
+   "published": "Fri, 23 Oct 2026 16:01:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Phl asks China’s AIIB to fund infra projects | Daily Tribune",
+   "url": "https://tribune.net.ph/2026/10/25/phl-asks-chinas-aiib-to-fund-infra-projects",
+   "snippet": "The financing will support the expansion and modernization of three container terminals: the Manila International Container Terminal, the South Luzon Container Terminal under development in Batangas, and the Mindanao Container Terminal. [...] Skip to content\n\nSubscribe NowSupport Us\n\nBUSINESS\n\n Philippine external debt 2026\n Department of Finance AIIB financing\n Asian Infrastructure Investment Ban",
+   "published": "Sun, 25 Oct 2026 15:29:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lifezone's Kabanga Combines 2%+ Nickel Grade With Indonesia's Rising Cost Floor - Article | Crux Investor",
+   "url": "https://www.cruxinvestor.com/posts/lifezones-kabanga-combines-2-nickel-grade-with-indonesias-rising-cost-floor",
+   "snippet": "For most of the past decade, Indonesian expansion set the nickel price. Indonesia and the Philippines together dominate the mine supply; Chinese companies control most Indonesian smelting and refining; and the growth came from low-cost, coal-powered, high-pressure acid leach and nickel pig iron capacity built with Chinese capital and technology. Lifezone Metals (NYSE: LZM) puts Indonesia's market ",
+   "published": "Wed, 21 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Unrest in Philippines threatens to upend US backed data centers | Responsible Statecraft",
+   "url": "https://responsiblestatecraft.org/philippines-protests",
+   "snippet": "Doubt has spread beyond local governments to national voices, as well. Raffy Tulfo, an independent senator, gave an August speech criticizing Pax Silica. Questioning whether the Philippine government is truly capable of regulating foreign initiatives, he cited the Chinese-backed Chuangxing Steel Incorporated manufacturing center in Magalang that was allowed to operate for years despite numerous en",
+   "published": "Mon, 19 Oct 2026 04:05:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s sanctions on Taiwan allies project its power, but with limited effect – Radio Free Asia",
+   "url": "https://www.rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize",
+   "snippet": "“But I think for Beijing the mere fact it has created a news cycle out of the sanctions will mean it has achieved the desired effect of reinforcing its claims over Taiwan and showing there are consequences, however limited, to siding with Taipei.”\n\nEdited by Eugene Whong.\n\n## Related Stories\n\nChina pressure accelerates Philippines-Taiwan ties, analysts say### China pressure accelerates Philippines",
+   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Letters | Philippines, Hong Kong can contribute together to a more productive Asia | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/letters/article/3371847/philippines-hong-kong-can-contribute-together-more-productive-asia",
+   "snippet": "Advertisement\n\nThe Philippines\n\nOpinionLetters\n\n# LettersPhilippines, Hong Kong can contribute together to a more productive Asia\n\nReaders discuss a stronger economic relationship between the Philippines and Hong Kong, Singapore’s balancing act, the Lugard Road lighting project, and MTR rules\n\n3-MIN READ3-MIN\n\nListen [...] Over the past two years, the Philippine government has taken significant st",
+   "published": "Sat, 24 Oct 2026 03:30:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US-backed subsea data cable to link four Southeast Asian nations",
+   "url": "https://www.bairdmaritime.com/amp/story/marine-projects/marine-infrastructure/us-backed-subsea-data-cable-to-link-four-southeast-asian-nations-china-left-out-of-project",
+   "snippet": "However, Vietnam last year awarded contracts to Chinese telecom firms Huawei and ZTE for parts of its 5G rollout, in a major shift which raised concerns among US and European officials.\n\nMViSTA is backed by the US. APTelecom, a consultancy working with the US government on cable infrastructure, facilitated the formation of the group of shareholders, worked on the feasibility study and is helping s",
+   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Concerns raised as data centres go underwater in China | News | Eco-Business | Asia Pacific",
+   "url": "https://www.eco-business.com/news/concerns-raised-as-data-centres-go-underwater-in-china",
+   "snippet": "The CNY 1.6 billion (US$240 million) facility off Shanghai’s Lingang is a joint project between Shanghai HiCloud Technology and at least two state-owned enterprises. HiCloud’s project lead Chen Xiyi told China Central Television that an equivalent 2.3-megawatt data centre on land would be cooled by about 40,000 tonnes of fresh water a year – enough for 100 households. The Lingang facility, of cour",
+   "published": "Tue, 20 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Five Reputable Wastewater Treatment Equipment Manufacturers in China 2026: Advancing Environmental Solutions",
+   "url": "https://www.einpresswire.com/article/950651183/five-reputable-wastewater-treatment-equipment-manufacturers-in-china-2026-advancing-environmental-solutions",
+   "snippet": "For potential projects, buyers should assess the company's specific technical offering, project scope and documented performance against the wastewater source, operating conditions and applicable discharge or reuse standards. The appropriate configuration will depend on the treatment objectives and the requirements of the site.  \n   \n   \n   \n 3. Jiangsu Taiyuan Environmental Science and Technology",
+   "published": "Mon, 19 Oct 2026 07:28:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Etesco and Jan De Nul compete for a US$120 million dredging contract at the Port of Santos - DredgeWire : DredgeWire",
+   "url": "https://dredgewire.com/etesco-and-jan-de-nul-compete-for-a-us120-million-dredging-contract-at-the-port-of-santos",
+   "snippet": "“The withdrawal of CHEC-D, a Chinese company that was part of the Santos Dredging Consortium, led by Etesco, with a 1% stake, is also questioned in the allegations submitted to the TCU. On September 11, 2026, the company informed its Brazilian partner that it would leave the group, regardless of the outcome of the tender. Four days later, it communicated its decision directly to APS,” the company ",
+   "published": "Thu, 22 Oct 2026 03:19:21 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],

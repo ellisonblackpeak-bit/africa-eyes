@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Great Wall To Gateway: Navigating The India–China Capital Flows Across One Border And Two Rulebooks | India Corporate Law",
+   "url": "https://corporate.cyrilamarchandblogs.com/2026/10/great-wall-to-gateway-navigating-the-india-china-capital-flows-across-one-border-and-two-rulebooks",
+   "snippet": "Summary: The recentrecalibration of the investment regimes on both sides suggests that businesses may once again have opportunities to explore cross-border transactions between India and China. India’s selective relaxation of its land-border investment restrictions, coupled with China’s more structured approach to outbound investment, points to an investment corridor increasingly shaped by sector-",
+   "published": "Thu, 22 Oct 2026 12:36:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Is China Trying To Slow India’s Border Infrastructure Buildup?",
+   "url": "https://swarajyamag.com/defence/is-china-trying-to-slow-indias-border-infrastructure-buildup",
+   "snippet": "Beijing’s choice of wording has a precedent in New Delhi. In April 2020, as Chinese investors eyed Indian companies weakened by the Covid-19 pandemic, India issued Press Note 3. It required government approval for foreign investment from any country sharing a land border with India, and for any investment whose beneficial owner was located in or a citizen of such a country. [...] India’s reliance ",
+   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Tunneling Equipment Export Controls Explained - The China-Global South Project",
+   "url": "https://chinaglobalsouth.com/2026/10/26/china-tunneling-equipment-export-controls-india",
+   "snippet": "Bloomberg reported in August that India is planning to invest $4.7 billion in railway upgrades along its borders with China, Pakistan and Bangladesh over the next two years. Li argued that advanced tunneling machinery could help India build all-weather transport corridors through the Himalayas, allowing troops and military supplies to move more easily across the mountainous frontier. [...] China’s",
+   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "MEA says Chinese patrol deviations disturb border peace, hinder ties - The Economic Times",
+   "url": "https://economictimes.indiatimes.com/news/defence/mea-says-chinese-patrol-deviations-disturb-border-peace-hinder-ties/articleshow/135150191.cms",
+   "snippet": "\"As we have noted in the past, the situation in the India-China border areas gets disturbed from time to time when Chinese forces diverge from established patrolling patterns,\" Jaiswal said at MEA's bi-weekly media briefing.  \n  \n\"Both sides continue to use existing diplomatic and military mechanisms to resolve outstanding issues and avoid misunderstanding and miscalculation along the Line of Actu",
+   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Cong seeks answers on China border tensions after ITBP chief's remarks",
+   "url": "https://www.nationalheraldindia.com/politics/congress-seeks-answers-on-china-border-tensions-questions-concessions-to-beijing",
+   "snippet": "Khera further claimed that China had obstructed supplies of tunnel boring machines intended for India by preventing a German company’s Chinese factory from exporting the equipment. He said the restrictions had caused losses to India. [...] He argued that the government needed to explain what it had secured in return for changes affecting investment, travel and visas involving China.\n\nKhera cited P",
+   "published": "Fri, 23 Oct 2026 10:07:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China and India can strengthen APAC’s global MedTech role: APACMed’s Arjun Sarker",
+   "url": "https://www.biospectrumasia.com/opinion/27/28544/china-and-india-can-strengthen-apacs-global-medtech-role-apacmeds-arjun-sarker.html",
+   "snippet": "China and India are shaping the next phase of Asia Pacific MedTech in very different but complementary ways. China combines the scale of one of the world’s largest healthcare markets with an increasingly sophisticated innovation and manufacturing base. Its companies are increasingly pursuing overseas growth, including in Southeast Asia and other emerging markets, while investing in international c",
+   "published": "Tue, 20 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pragmatism Over Principle? Why India Has Moved Closer to the Myanmar Regime",
+   "url": "https://www.stimson.org/2026/pragmatism-over-principle-why-india-has-moved-closer-to-the-myanmar-regime",
+   "snippet": "in FY2025-26, despite the formalization of the rupee-kyat trade settlement mechanism in 2024. Political strife continues to deter large-scale Indian private investments in the country. Border trade, unlike in the case of Thailand or China, remains a minuscule part of the India-Myanmar economic story and will remain so unless the political-security environment changes radically. [...] Therefore, In",
+   "published": "Mon, 19 Oct 2026 18:53:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Back in the black: 128 law firms’ revenue data | China | Law.asia",
+   "url": "https://law.asia/128-law-firms-revenue-data",
+   "snippet": "Dacheng’s Li describes the growth in cross-border legal demand as “explosive”. Geopolitical shifts, he says, are pushing Chinese companies to diversify into Southeast Asia, the Middle East and Latin America at an accelerated pace, driving transactional work such as cross-border investment structuring and outbound direct investment (ODI) filings. [...] ### SECTIONS\n\n### ABOUT US\n\n### TOPICS\n\n### RE",
+   "published": "Thu, 22 Oct 2026 08:06:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Geopolitics is prolonging China’s overcapacity problem | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/23/geopolitics-is-prolonging-chinas-overcapacity-problem",
+   "snippet": "Global excess steelmaking capacity, for example, reached around 26 per cent of total capacity in 2025. With high-income markets increasingly restricted and new blast-furnace capacity capped at home, Chinese steelmakers are building abroad. Cross-border investments account for roughly 21 per cent of planned steelmaking capacity from 2025 onward, with Chinese firms involved in more than half of that",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rothschild prioritises personal relationships in the AI age",
+   "url": "https://www.thebanker.com/content/8be8474a-2894-4859-859c-a83c3bf1fb21",
+   "snippet": "Image 15: Rothschild prioritises personal relationships in the AI ageRothschild is expanding its financing solutions capabilities to capitalise on growing cross-border opportunities © Jason Alden/Bloomberg [...] Image 24: ‘I wouldn’t bet against the Gulf region ever’\n\nAgenda\n\nJUNE 26 \n\n### ‘I wouldn’t bet against the Gulf region ever’Head of Standard Chartered’s CIB on why Dubai and the Gulf remai",
+   "published": "Thu, 22 Oct 2026 10:39:34 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_in",
  "_query": "Chinese company India investment border",
  "_domains": [],

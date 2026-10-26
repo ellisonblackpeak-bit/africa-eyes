@@ -1,0 +1,82 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "French presidential hopeful Philippe slips in new poll",
+   "url": "https://www.politico.eu/article/french-presidential-candidate-edouard-philippe-slipping-in-new-poll/",
+   "content": "The former PM lost three points compared to Cluster 17’s survey from last month.",
+   "published_date": "Mon, 26 Oct 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "4 reasons Andy Burnham’s MPs are feeling more cheerful — and the pitfalls ahead",
+   "url": "https://www.politico.eu/article/4-reasons-andy-burnham-mps-feeling-more-cheerful-plus-pitfalls-ahead/",
+   "content": "The British PM's party is impressed with his first 100 days but warn hurdles ahead could test that goodwill.",
+   "published_date": "Mon, 26 Oct 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "SONDAGE EXCLUSIF 2027. La chute de Philippe, relégué derrière Mélenchon",
+   "url": "https://www.politico.eu/article/sondage-exclusif-2027-la-chute-de-philippe-relegue-derriere-melenchon/",
+   "content": "SONDAGE CLUSTER 17 x POLITICO. L'ancien Premier ministre chute de 3 points par rapport à notre enquête précédente, tandis que Jean-Luc Mélenchon reste haut et Marine Le Pen monte.",
+   "published_date": "Mon, 26 Oct 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Serbia’s Vučić concedes defeat after tense parliamentary elections",
+   "url": "https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/",
+   "content": "The Serbian leader lost in a landslide to a protest-backed student movement.",
+   "published_date": "Sun, 25 Oct 2026 21:18:11 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Le Pen casts herself as protector of France as troubles swirl",
+   "url": "https://www.politico.eu/article/marine-le-pen-casts-herself-as-frances-protector-as-country-faces-mounting-troubles/",
+   "content": "The front-runner ahead of the 2027 presidential election is under pressure to reassure voters as turmoil grips France.",
+   "published_date": "Sun, 25 Oct 2026 18:57:05 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "France: The sickest man of Europe",
+   "url": "https://www.politico.eu/article/france-the-sickest-man-of-europe/",
+   "content": "The European Union’s second-biggest economy is being dragged into a vicious cycle of fiscal and social crises.",
+   "published_date": "Sun, 25 Oct 2026 18:45:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Canada and Europe want to reshape the global order. But whose vision will prevail?",
+   "url": "https://www.politico.eu/article/canada-and-europe-want-to-reshape-the-global-order-but-whose-vision-will-prevail/",
+   "content": "Mark Carney’s push for a middle-powers alliance meets Ursula von der Leyen’s bid for influence.",
+   "published_date": "Sun, 25 Oct 2026 17:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Burnham open to return of free movement between UK and EU",
+   "url": "https://www.politico.eu/article/andy-burnham-free-movement-uk-eu/",
+   "content": "The U.K. prime minister said he wants an \"honest discussion\" about migration within Europe.",
+   "published_date": "Sun, 25 Oct 2026 10:33:55 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Leaked emails show AfD co-leader’s U-turn on ‘explosive’ nationalist colleague",
+   "url": "https://www.politico.eu/article/leaked-emails-alternative-for-germany-afd-alice-weidel-bjorn-hocke/",
+   "content": "Alice Weidel once said Björn Höcke's racial discourse was \"deeply problematic.\" Now she deems him suitable for a cabinet position.",
+   "published_date": "Sun, 25 Oct 2026 09:56:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Security Sunday: Bringen Frankreichs Proteste Marine Le Pen an die Macht? – mit Martina Meister",
+   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-bringen-frankreichs-proteste-marine-le-pen-an-die-macht-mit-martina-meister/",
+   "content": "Brennende Mülltonnen, verbarrikadierte Schaufenster und eine unübersichtliche Mischung aus Gelbwesten, Anarchisten und Banlieue-Jugendlichen auf den Straßen. Was als Schülerprotest in Frankreich begann, hat sich an steigenden Energiepreisen zu einer radikalen Bewegung entzündet. Präsident Emmanuel Macron verliert zunehmend die Kontrolle und wirkt in der Krise wie ein Pilot ohne Cockpit. Inmitten der Eskalation positioniert sich Marine […]",
+   "published_date": "Sun, 25 Oct 2026 05:48:50 +0000",
+   "score": 0.6
+  }
+ ],
+ "engine": "rss",
+ "_tag": "rss_politico_eu",
+ "_query": "https://www.politico.eu/feed/",
+ "_domains": [
+  "politico.eu"
+ ],
+ "_days": 3
+}

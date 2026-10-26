@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Mali: Military Attacks on Civilians, Insurgent Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/19/mali-military-attacks-on-civilians-insurgent-abuses",
+   "snippet": "On July 18, JNIM and FLA fighters attacked a Malian military and Africa Corps convoy traveling from Anefis to the city of Gao near Tabrichat village in the Gao region. Both armed groups claimed responsibility for the attack, with JNIM noting “heavy casualties and significant material damage to the enemy,” and the FLA stating there were “heavy losses on the enemy side, several dead left on the batt",
+   "published": "Mon, 19 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Bamako is No Longer Safe: JNIM Shifts Scale - ICT",
+   "url": "https://ict.org.il/bamako-shifts-scale",
+   "snippet": "Mali is entering a new phase in its war against radical jihadist groups. Within just a few days, the Al-Qaeda-affiliated Group for the Support of Islam and Muslims (JNIM) has intensified its attacks against the Malian army and its strategic bases, and is now targeting the outskirts of Bamako. Despite reinforcements to the Malian Armed Forces (FAMa) and support from the Russian “Africa Corps,” Mali",
+   "published": "Tue, 20 Oct 2026 10:09:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Malian army and rebels committing abuses against civilians, rights group says - RFI",
+   "url": "https://www.rfi.fr/en/africa/20261019-malian-army-and-rebels-committing-abuses-against-civilians-rights-group-hrw-says",
+   "snippet": "HRWalso cited abuses by fighters from the al-Qaeda-affiliated JNIM (Group for the Support of Islam and Muslims) and separatists from the mainly Tuareg Azawad Liberation Front (FLA).\n\nOn 18 July, the JNIM and FLA attacked a military convoy in Tabrichat, in the northeastern Gao region, and then \"tortured and executed at least 19 Malian soldiers taken prisoner\".\n\nThe JNIM admitted prisoners were kill",
+   "published": "Mon, 19 Oct 2026 09:22:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State-linked militants kill at least 48 civilians in ...",
+   "url": "https://www.reuters.com/world/africa/islamic-state-linked-militants-kill-least-48-civilians-eastern-mali-sources-say-2026-10-20",
+   "snippet": "Islamic State-linked militants have killed at least 48 ​people in Mali in apparent retaliation for an attack on suspected informants by pro-government",
+   "published": "Tue, 20 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 40 civilians have reportedly been killed in an attack ...",
+   "url": "https://www.facebook.com/WIONews/posts/at-least-40-civilians-have-reportedly-been-killed-in-an-attack-by-gunmen-in-mali/1481736494065520",
+   "snippet": "At least 40 civilians have reportedly been killed in an attack by gunmen in Mali, according to security and community sources. The deadly incident",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "More than 40 civilians have been killed in weekend attacks ...",
+   "url": "https://www.facebook.com/channelsforum/posts/more-than-40-civilians-have-been-killed-in-weekend-attacks-by-armed-men-on-camps/1782685373219206",
+   "snippet": "More than 40 civilians have been killed in weekend attacks by armed men on camps in Mali's northeastern Menaka region, security and community sources",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Civilians Killed in Mali Conflict: 400+ Deaths April-August ...",
+   "url": "https://www.facebook.com/HumanRightsWatch/videos/mali-military-attacks-on-civilians-insurgent-abuses/1403454358157658",
+   "snippet": "More than 400 civilians were killed between April and August 2026. The Malian military, armed groups, and insurgent forces are committing grave laws-of-war",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De2rxsvlzi5",
+   "snippet": "geopolitical.guy\n\nThe Sahel’s jihadist insurgency is moving west.  \n  \nSource: @acleddata\n\n## No comments yet.\n\nStart the conversation.\n\n26\n\nLog in to like or comment.\n\nMore posts from geopolitical.guy\n\nPhoto by Geopolitical Guy on August 14, 2024.\n\nPhoto by Geopolitical Guy on October 23, 2026. May be an image of map, magazine, poster and text.\n\nPhoto by Geopolitical Guy on October 23, 2026. May ",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Iyad ag Ghali | Profile | Africa Confidential",
+   "url": "https://www.africa-confidential.com/profile/id/4423/iyad-ag-ghaly",
+   "snippet": "## Africa Confidential\n\nReporting Africa Since 1960\n\n  Jump to navigation \n\n---",
+   "published": "Tue, 20 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ml",
  "_query": "JNIM Mali attack",
  "_domains": [],

@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks - CNBC",
+   "url": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+   "snippet": "Russia and Ukraine continued trading intense strikes on civilian and energy infrastructure overnight, less than a day after the parties signalled that peace negotiations were moving forward in U.S.-brokered talks. Russia unleashed a major attack on Ukraine's energy facilities, knocking out electricity for over 500,000 after strikes on energy facilities in the Zhytomyr, Volyn, Mykolaiv, Poltava, Kh",
+   "published": "Fri, 23 Oct 2026 09:28:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC",
+   "url": "https://www.bbc.com/news/articles/c3x2wnk8ejq5o",
+   "snippet": "# Did domestic pressure make Rubio visit an Indian port town? The western Indian port town of Jamnagar is not a usual stop for foreign leaders, yet it featured prominently in US Secretary of State Marco Rubio's recent visit. Rubio arrived in the financial capital Mumbai on Tuesday, where he met Indian Foreign Minister S Jaishankar and some of the country's top business leaders. It was his second t",
+   "published": "Fri, 23 Oct 2026 08:39:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "[SMM Aluminum Express News] Russia's SUAL secures access to 150,000 mt - Shanghai Metals Market",
+   "url": "https://news.metal.com/newscontent/104176986-sual-secures-150000-mtyr-aluminum-challenging-rusals-market-dominance",
+   "snippet": "[[SMM Announcement] Launch of New Price Assessments for Indian Stainless Steel Bars, Coils and Scrap](https://www.metal.com/en/announcements/104175098-smm-announcement-launch-of-new-price-assessments-for-indian-stainless-steel-bars-coils-and-scrap). [SMM Announcement] Launch of New Price Assessments for Indian Stainless Steel Bars, Coils and Scrap. [SMM Aluminum Express News] Russia's SUAL secures",
+   "published": "Mon, 26 Oct 2026 01:04:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Xi on full and rigorous Party self-governance - China Daily",
+   "url": "https://www.chinadaily.com.cn/a/202610/25/WS6add693de4b06d4aa0564a31.html",
+   "snippet": "# Xi on full and rigorous Party self-governance. chinadaily.com.cn | Updated: 2026-10-25 10:28. How does the Communist Party of China strengthen itself and sustain its vitality? President Xi Jinping has on many occasions stressed the importance of full and rigorous Party self-governance. ### Warm meals and shelter for quake-hit areas. ### Relief efforts intensify after Xizang quake kills 16, injur",
+   "published": "Sun, 25 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "As the US and China form AI blocs, countries are increasingly torn between them - Houston Chronicle",
+   "url": "https://www.houstonchronicle.com/news/world/article/as-the-us-and-china-form-ai-blocs-countries-are-22493124.php",
+   "snippet": "HONG KONG (AP) — With the two leading AI powers, the United States and China, forming their own AI blocs, other countries are maneuvering to harness the strengths of both groupings and avoid losing out. As the rivalry intensifies, experts say the window for countries to be able to choose freely between the two AI superpowers may be narrowing, forcing them to at one point pick between the U.S.-led ",
+   "published": "Sun, 25 Oct 2026 04:05:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "As the US and China form AI blocs, countries are increasingly torn between them - AP News",
+   "url": "https://apnews.com/article/china-us-ai-blocs-9974a3e5dc955a93935d131a4aeb8886",
+   "snippet": "HONG KONG (AP) — With the two leading AI powers, the United States and China, forming their own AI blocs, other countries are maneuvering to harness the strengths of both groupings and avoid losing out. As the rivalry intensifies, experts say the window for countries to be able to choose freely between the two AI superpowers may be narrowing, forcing them to at one point pick between the U.S.-led ",
+   "published": "Sun, 25 Oct 2026 04:05:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "As the US and China form AI blocs, countries are increasingly torn between them - Yahoo",
+   "url": "https://www.yahoo.com/news/us/articles/us-china-form-ai-blocs-040541791.html",
+   "snippet": "# As the US and China form AI blocs, countries are increasingly torn between them. HONG KONG (AP) — With the two leading AI powers, the United States and China, forming their own AI blocs, other countries are maneuvering to harness the strengths of both groupings and avoid losing out. As the rivalry intensifies, experts say the window for countries to be able to choose freely between the two AI su",
+   "published": "Sun, 25 Oct 2026 04:05:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The critical minerals war - The Express Tribune",
+   "url": "https://tribune.com.pk/story/2636380/the-critical-minerals-war",
+   "snippet": "# The critical minerals war. The China-US Trade War began in the Trump's first term. In 2023, China banned the export of rare earth mining, separation, refining and magnet-making technologies to all foreign countries, explicitly targeting Japan, Australia and Vietnam, so they are unable to use Chinese intellectual property to build alternative supply chains for the US. Late 2025, China implemented",
+   "published": "Fri, 23 Oct 2026 04:54:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US designates helium as critical amid European supply squeeze - Euronews.com",
+   "url": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
+   "snippet": "# US designates helium as critical material as Europe faces supply squeeze. ## The US has declared helium a critical material as war in the Middle East and export curbs by Russia and China squeeze global supplies of a gas vital to chipmaking, leaving Europe scrambling to secure its share. The United States designated helium as a critical material on Friday, citing its essential role in semiconduct",
+   "published": "Fri, 23 Oct 2026 19:02:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "North Korea’s Kim crosses new bridge into China as trade ties warm - CNN",
+   "url": "https://www.cnn.com/2026/10/24/china/north-koreas-kim-crosses-china-bridge-intl",
+   "snippet": "A China Immigration inspection vessel travels along the Yalu river past a North Korean customs building at the end of the newly opened New Yalu River Bridge, which connects North Korea's Sinuiju from China's Dandong New Zone. North Korean leader Kim Jong Un visited the Chinese border city of Dandong on Saturday, Xinhua reported, crossing a newly opened bridge in a symbolic move seen as highlightin",
+   "published": "Sat, 24 Oct 2026 15:06:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries - Houston Chronicle",
+   "url": "https://www.houstonchronicle.com/business/article/us-treasury-proposes-a-rule-to-crack-down-on-22489949.php",
+   "snippet": "# US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries. WASHINGTON (AP) — The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing and artificial intelligence in China, Russia, North Korea and other “countries of concern.\". The U.S. government has been working for years to deny China and o",
+   "published": "Fri, 23 Oct 2026 08:29:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump stands by Russia diesel plan despite backlash: 'I made the right choice' - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://abcnews.com/Politics/trump-stands-russia-diesel-plan-despite-backlash-made/story?id=137193699",
+   "snippet": "President Donald Trump doubled down Monday on his decision to allow Russian diesel imports amid growing backlash, calling it the \"right choice\" and arguing that Europe has previously purchased energy products from Russia as well. Trump said in a Monday morning social media post that the \"European Union paid Russia 250 Billion Dollars for Energy\" and added, \"I made the right choice for the American",
+   "published": "Sun, 25 Oct 2026 09:28:06 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],

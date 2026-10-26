@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Mali: Military Attacks on Civilians, Insurgent Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/19/mali-military-attacks-on-civilians-insurgent-abuses",
+   "snippet": "On July 18, JNIM and FLA fighters attacked a Malian military and Africa Corps convoy traveling from Anefis to the city of Gao near Tabrichat village in the Gao region. Both armed groups claimed responsibility for the attack, with JNIM noting “heavy casualties and significant material damage to the enemy,” and the FLA stating there were “heavy losses on the enemy side, several dead left on the batt",
+   "published": "Mon, 19 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses, HRW Says - Eurasia Review",
+   "url": "https://www.eurasiareview.com/23102026-mali-army-russias-africa-corps-commit-new-abuses-hrw-says",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Fri, 23 Oct 2026 00:35:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/22/mali-army-russias-africa-corps-commit-new-abuses",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Malian army and rebels committing abuses against civilians, rights group says - RFI",
+   "url": "https://www.rfi.fr/en/africa/20261019-malian-army-and-rebels-committing-abuses-against-civilians-rights-group-hrw-says",
+   "snippet": "A photo released by the Azawad Liberation Front (FLA) shows what they say is the aftermath of an attack by FLA separatist and jihadist militants in Gao, northern Mali on 18 July, 2026, \n\n\"The Malian military, armed groups and insurgent forces are committing grave laws-of-war violations while international organisations and governments largely stand by,\" the rights watchdog said in a new report pub",
+   "published": "Mon, 19 Oct 2026 09:22:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali’s military and armed groups committing abuses against civilians: HRW | Conflict News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw",
+   "snippet": "Armed groups “have also violated the laws-of-war, including torturing and executing captured Malian soldiers”, it added.\n\nAdvertisement\n\nHRW said it documented two “apparently indiscriminate” drone attacks by the Malian military.\n\nAccording to the report, a July 29 attack in the Kidal region of northeastern Mali destroyed part of a health facility, and a second on August 19 hit a market in the cen",
+   "published": "Mon, 19 Oct 2026 08:06:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Malian Army and Rebels Committing Abuses Against Civilians, Rights Group Says - allAfrica.com",
+   "url": "https://allafrica.com/stories/202610190228.html",
+   "snippet": "Abuses against civilians by the army and the paramilitaries have been extensively documented.\n\nHRW's latest report is based on interviews between 30 July and 20 September with 30 people in central and northern Mali, including human rights activists, community leaders, journalists and a Malian soldier.\n\nThe NGO said it had documented \"two apparently indiscriminate Malian military drone attacks\".\n\nO",
+   "published": "Mon, 19 Oct 2026 10:13:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "More than 40 civilians killed in Mali attack blamed on Islamic State | Africanews",
+   "url": "https://www.africanews.com/2026/10/20/more-than-40-civilians-killed-in-mali-attack-blamed-on-islamic-state",
+   "snippet": "The government-aligned armed Movement for the Salvation of Azawad (MSA) reportedly has its origins in the area.\n\nA security source based in Gao said the massacre occurred \"in retaliation for military operations carried out in the area recently and for attacks by the MSA\".\n\nFor its part, the Malian army said it had conducted operations on Saturday, about 65 kilometres south-west of Menaka.\n\nOfficia",
+   "published": "Tue, 20 Oct 2026 07:52:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali's army and rebel opponents guilty of human rights violations, new report finds | Africanews",
+   "url": "https://www.africanews.com/2026/10/19/malis-army-and-rebel-opponents-guilty-of-human-rights-violations-new-report-finds",
+   "snippet": "The JNIM and FLA attacked a military convoy in Tabrichat, in the northeastern Gao region, in July and then \"tortured and executed at least 19 Malian soldiers taken prisoner.\"\n\nThe JNIM acknowledged prisoners were killed there but denied having ordered the deaths, HRW said.\n\nThe FLA, meanwhile, acknowledged clashes with the army and the Russians in Tabrichat but denied executing soldiers.\n\n## Relat",
+   "published": "Mon, 19 Oct 2026 04:26:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "48 people killed in Mali's Ménaka region following an attack by Islamic State-affiliated group, officials say",
+   "url": "https://www.kens5.com/article/syndication/associatedpress/48-people-killed-in-malis-mnaka-region-following-an-attack-by-islamic-state-affiliated-group-officials-say/616-f2dc9089-7208-44d2-9f87-268256fd7561",
+   "snippet": "BAMAKO, Mali(AP) — A weekend attack by militants affiliated to the Islamic State group killed 48 people in the Ménaka region of eastern Mali,",
+   "published": "Wed, 21 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali forces, Russian backers kill scores of civilians in drone strikes, report says",
+   "url": "https://www.reuters.com/world/africa/mali-forces-russian-backers-kill-scores-civilians-drone-strikes-report-says-2026-10-19",
+   "snippet": "Mali's armed forces and their Russian backers utilized some \"apparent indiscriminate\" drone ​strikes and other abuses as part of an ramped-up offensive",
+   "published": "Tue, 20 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mali_atk",
  "_query": "Mali army attack",
  "_domains": [],

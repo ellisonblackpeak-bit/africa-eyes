@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "US Consulate, Others Laud Group For Mentoring Youths On Career Devt - New Telegraph",
+   "url": "https://newtelegraphng.com/us-consulate-others-laud-group-for-mentoring-youths-on-career-devt/",
+   "snippet": "The third phase of Future Forward Mentorship Programme held at Uyo High School in Akwa Ibom State have received massive applause from US Consulate. The programme organized by the Mandela Washington Fellowship Alumni Association of Nigeria (MWFAAN) was designed to equip secondary school students with the guidance, practical insights, and knowledge necessary to navigate their academic and personal j",
+   "published": "Sat, 24 Oct 2026 08:18:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Elon Musk and Madagascar’s richest man turn to the same sector with $1 billion US media bet and $450 million Nigeria deal - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/elon-musk-and-madagascars-richest-man-turn-to-the-same-sector-with-dollar1-billion-us/gzh5sjr",
+   "snippet": "* Elon Musk has invested $1 billion in the American media company Skydance, strengthening his ties with the Ellison family. * Ylias Akbaraly is leading a $450 million project via Thomson Broadcast to modernize public broadcasting in Nigeria, potentially marking one of Africa's largest media infrastructure upgrades. ### Elon Musk backs Skydance with $1 billion investment in the United States. In th",
+   "published": "Sat, 24 Oct 2026 18:59:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NDLEA Arrests South African Woman With 36.65kg Cocaine, US-Based Grandmother With Cannabis - Real Broadcasting Network",
+   "url": "https://therealmediang.com/news/ndlea-arrests-south-african-woman-with-36-65kg-cocaine-us-based-grandmother-with-cannabis",
+   "snippet": "NDLEA Arrests South African Woman With 36.65kg Cocaine, US-Based Grandmother With Cannabis | Real Broadcasting Network. # NDLEA Arrests South African Woman With 36.65kg Cocaine, US-Based Grandmother With Cannabis. Operatives of the National Drug Law Enforcement Agency have arrested a 34-year-old South African woman, Qhina Beauty, with 36.65 kilogrammes of cocaine at the Murtala Muhammed Internatio",
+   "published": "Sun, 25 Oct 2026 12:22:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/24/nigeria-election-tinubu-president-opposition/d3ddb242-cfe1-11f1-ac04-9f58578a68b4_story.html",
+   "snippet": "# Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition. Nigerian President Bola Tinubu has launched his reelection campaign during a cost-of-living crisis and a fractured opposition. President Bola Tinubu, with the All Progressives Congress Party, speaks during the first election campaign of the season in Kaduna, Nigeria, Saturday, Oct. 24, 2026. ABU",
+   "published": "Sat, 24 Oct 2026 19:37:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Barcelona squad named for Real Madrid - Barca Blaugranes",
+   "url": "https://www.barcablaugranes.com/barcelona-la-liga/136056/barcelona-real-madrid-la-liga-el-clasico-team-news-squad-list",
+   "snippet": "# FC Barcelona announce squad for La Liga match against Real Madrid. Hansi Flick has called up 23 players for Sunday’s clash. Renato Gonçalves Renato Goncalves is the deputy manager of Barca Blaugranes and has been writing for the site since all the way back in 2014. The next Barcelona match is upon us! The *Blaugrana* welcome Real Madrid to Camp Nou for the first *El Clásico* of the season, and H",
+   "published": "Sun, 25 Oct 2026 12:23:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
+   "url": "https://www.reuters.com/world/africa/nigerias-tinubu-launches-re-election-campaign-economic-pain-tests-support-2026-10-24/",
+   "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Item 1 of 4 Nigeria's Vice President Kashim Shettima addresses supporters during the All Progressives Congress (APC) campaign flag-off rally in Kaduna, Nigeria, October 24, 2026. **[1/4]**Nigeria's Vice President Kashim Shettima addresses supporters during the All ",
+   "published": "Sat, 24 Oct 2026 17:34:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa at risk of continent-wide Ebola crisis, health chief warns - Yahoo",
+   "url": "https://www.yahoo.com/news/world/articles/africa-risk-continent-wide-ebola-094729220.html",
+   "snippet": "The Ebola outbreak that began in DR Congo is becoming a continental crisis after authorities initially underestimated its spread, the head of Africa's public health agency told Semafor as new cases were reported as far afield as Nigeria. More than 4,600 people have died in the outbreak of the Bundibugyo strain which was first detected in DR Congo in May, though health experts believe it had been c",
+   "published": "Fri, 23 Oct 2026 09:47:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Chinese investors shaping Nigeria’s lithium-processing boom - The Africa Report",
+   "url": "https://www.theafricareport.com/434283/the-chinese-investors-shaping-nigerias-lithium-processing-boom/",
+   "snippet": "Join the top leaders who read *The Africa Report* every day. # The Chinese investors shaping Nigeria’s lithium-processing boom. Chinese investors are driving a multi-billion-dollar lithium-processing and value-addition boom across northern Nigeria. In northern Nigeria, Chinese investors are building multi-million-dollar lithium-processing plants amid a boom driven by rising demand for a mineral cr",
+   "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Airport Encounter May Have Spread Ebola to 2 Countries - Newser",
+   "url": "https://www.newser.com/story/398676/airport-encounter-may-have-spread-ebola-to-2-countries.html",
+   "snippet": "Image 1: Newser - Current News - Breaking StoriesImage 2: Newser - Current News - Breaking Stories. Image 8: Newser - Current News - Breaking Stories. *   Image 32 A Dire Warning on World's 'Rainforests of the Sea'. The first Ebola patients confirmed in Kenya and Nigeria might have crossed paths at an airport in Uganda earlier this month, African health officials said Thursday as they race to trac",
+   "published": "Fri, 23 Oct 2026 13:23:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths - Iowa Public Radio",
+   "url": "https://www.iowapublicradio.org/news-from-npr/2026-10-23/authorities-investigating-whether-first-kenya-and-nigeria-ebola-cases-crossed-paths",
+   "snippet": "# Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths. JOHANNESBURG – The first Ebola patient confirmed in Nigeria may have crossed paths with the first Kenyan Ebola patient at a Ugandan airport, health officials said Thursday. Nigerian health authorities said the patient is the Ugandan-born wife of a diplomat based in Abuja who had vacationed in Uganda in September",
+   "published": "Fri, 23 Oct 2026 12:41:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NESG to hold economic summit despite Ebola case in Abuja - The Nation Newspaper",
+   "url": "https://thenationonlineng.net/nesg-to-hold-economic-summit-despite-ebola-case-in-abuja-2/",
+   "snippet": "# NESG to hold economic summit despite Ebola case in Abuja. The Nigerian Economic Summit Group (NESG) has confirmed that the 32nd Nigerian Economic Summit will hold on October 26 and 27 in Abuja despite the confirmation of an imported Ebola case in the Federal Capital Territory (FCT), with organisers introducing additional health precautions to protect participants. The two-day summit, scheduled t",
+   "published": "Sun, 25 Oct 2026 00:50:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say - BBC",
+   "url": "https://www.bbc.com/news/articles/cmwy4wlzqz3zo",
+   "snippet": "# Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say. Health officials are investigating whether Ebola patients in Nigeria and Kenya may have crossed paths at Uganda's main airport earlier this month. Both travelled through Entebbe airport on 3 October, and investigators are examining whether they could have been exposed through shared equipment or other conta",
+   "published": "Fri, 23 Oct 2026 04:54:25 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ng",
  "_query": "US Nigeria",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Kaduna, Kano Railway project hits 90% completion - FG",
+   "url": "https://thesun.ng/kaduna-kano-railway-project-hits-90-completion-fg",
+   "snippet": "Friday, October 23, 2026\n\nThe Sun Nigeria\n\nGoogle LogoFollow Us on Google\n\n# Kaduna, Kano Railway project hits 90% completion – FG\n\n23 October 2026 4:46 pm WAT\n\nJude Idu  By  Jude Idu\n\nGoogle LogoFollow Us on Google\n\n Train \n\nInstalled train traffic lights along Lagos-Ibadan standard gauge railway corridor\n\n \n\nThe Federal government of Nigeria, says the ongoing Kaduna- Kano railway project, has re",
+   "published": "Fri, 23 Oct 2026 15:46:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kaduna-Kano Rail Project 90% Completed – FG - News Agency Of Nigeria",
+   "url": "https://nannews.ng/kaduna-kano-rail-project-90-completed-fg",
+   "snippet": "General News\n\n# Kaduna-Kano rail project 90% completed – FG\n\nBy Funmilayo Adeyemi··3 min read\n\nBy Jacinta Nwachukwu\n\nThe Federal Government says the Kaduna-Kano standard gauge rail project is about 90 per cent completed, paving the way for seamless train operations from Abuja to Kano.\n\nThe Permanent Secretary, Federal Ministry of Transportation, Mr Funsho Adebiyi, disclosed this on Wednesday while",
+   "published": "Thu, 22 Oct 2026 20:23:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kaduna–Kano rail project hits 90% completion, FG targets December for other sections – Businessday NG",
+   "url": "https://businessday.ng/transport/article/kaduna-kano-rail-project-hits-90-completion-fg-targets-december-for-other-sections",
+   "snippet": "The Kaduna–Kano railway is a key component of the Federal Government’s efforts to expand Nigeria’s rail network and improve connectivity between major commercial centres in the North-West.\n\nWhen completed and operational, the corridor is expected to provide an alternative to road travel, improve passenger movement and support economic activities along the route.\n\n#### Related News [...] The Kaduna",
+   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Transportation Ministry Tasks Railway Contractors on Local Training - Voice of Nigeria",
+   "url": "https://von.gov.ng/transportation-ministry-tasks-railway-contractors-on-local-training",
+   "snippet": "He said priority should be given to engineers aged 35 and below, with at least 20 years remaining in service, to ensure continuity, accountability and career progression in the railway sector.\n\nThe permanent secretary reaffirmed the Nigerian Government’s commitment to sustainable infrastructure development, stressing that railway projects must deliver value for taxpayers’ money, effective technolo",
+   "published": "Mon, 19 Oct 2026 10:03:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG demands three-year lifespan for rail facilities, training of Nigerian engineers",
+   "url": "https://www.vanguardngr.com/2026/10/fg-demands-three-year-lifespan-for-rail-facilities-training-of-nigerian-engineers",
+   "snippet": "By Folarin Kehinde. The Federal Government has directed contractors handling railway projects across the country to guarantee a minimum three-year lifespan",
+   "published": "Tue, 20 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kaduna-Kano train service to begin operation in Dec – FG | Galaxy TV",
+   "url": "https://www.galaxytvonline.com/news/local-news/fg-targets-december-completion-for-kaduna-kano-rail-project",
+   "snippet": "He added that the railway projects connecting Kano to Kazaure, Daura and Katsina were also expected to be completed by December.\n\nMeanwhile, the Emir of Zazzau, Nuhu Ahmad Bamalli, welcomed the return of railway services to Zaria, describing it as a milestone that revived the historic relationship between rail transport and the Zazzau Emirate. [...] A\n\nAdeyosola Adeagbo\n\nReporter· Galaxy TV\n\nShare",
+   "published": "Fri, 23 Oct 2026 11:51:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG Warns Contractors Against Poor-Quality Railway Components – The Whistler Newspaper",
+   "url": "https://thewhistler.ng/fg-warns-contractors-against-poor-quality-railway-components",
+   "snippet": ".\n\nThe Permanent Secretary of the Federal Ministry of Transportation, Funso Adebiyi, gave the directive during a recent inspection of the Kano-Maradi railway project.\n\nAdebiyi expressed concern over the use of components that wear out quickly, stressing that contractors must install equipment capable of withstanding sustained use and meeting internationally accepted standards.\n\nHe specifically dir",
+   "published": "Mon, 19 Oct 2026 14:51:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lagos Airport Monorail To Link Ikeja Railway Station, MMIA Terminal 1",
+   "url": "https://www.tvcnews.tv/lagos-airport-monorail-to-link-ikeja-railway-station-mmia-terminal-1",
+   "snippet": "The Federal Government has approved the design of a monorail project that will connect Ikeja Railway Station to the new Murtala Muhammed.",
+   "published": "Wed, 21 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Road infrastructure excites the North",
+   "url": "https://thenationonlineng.net/road-infrastructure-excites-the-north",
+   "snippet": "Across the North, the Federal Government has demonstrated that road infrastructure is a central part of its Hope Renewal Agenda, AUGUSTINE OKEZIE writes.",
+   "published": "Thu, 22 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cor_rail_road",
  "_query": "railway project Nigeria",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigerian military reports 103 ISWAP fighters killed | UA.NEWS",
+   "url": "https://ua.news/en/world/viiskovi-nigeriyi-zaiavili-pro-zagibel-103-biitsiv-iswap-premium-times-nigeria",
+   "snippet": "The Nigerian military said that 103 militants were killed in airstrikes on positions of the Islamic State West Africa Province (ISWAP) group in northeastern Nigeria between October 10 and 18. According to the military, several of the group’s logistics hubs and warehouses were also destroyed. [...] According to Goni, the military carried out seven strikes on targets near Gudumbali in the Guzamala L",
+   "published": "Tue, 20 Oct 2026 10:53:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2027 elections: Curbing ISWAP’s excesses, tentacles",
+   "url": "https://thesun.ng/2027-elections-curbing-iswaps-excesses-tentacles",
+   "snippet": "Muslim youths and force them into espionage roles.Innocent youths kidnapped by terrorists are also coerced into the sect. For the records,  ISWAP (the Islamic State – West Africa Province) is a major Salafi-jihadist militant group and an official branch of the Islamic State operating primarily across the Lake Chad Basin, including northeast Nigeria, Niger Republic, Chad, and Cameroon. The group or",
+   "published": "Thu, 22 Oct 2026 00:32:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian military kills 103 ISWAP fighters in series of air strikes | The Eastleigh Voice",
+   "url": "https://eastleighvoice.co.ke/africa/414161/nigerian-military-kills-103-iswap-fighters-in-series-of-air-strikes",
+   "snippet": "# Nigerian military kills 103 ISWAP fighters in series of air strikes\n\nBy Bashir Mbuthia  Published on\n\n Nigerian military kills 103 ISWAP fighters in series of air strikes - A targeting-camera view shows a Nigerian military air strike on a suspected Islamic State West Africa Province (ISWAP) target in northeastern Nigeria during operations conducted between October 10 and 18, 2026. (Photo: HQ NIg",
+   "published": "Tue, 20 Oct 2026 14:47:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Killing of ISWAP commander, good omen",
+   "url": "https://punchng.com/killing-of-iswap-commander-good-omen",
+   "snippet": "ISWAP is a peculiar monster. Although a splinter of Boko Haram, it is the most brutal, remorseless and mindless of all terror groups in the country. It abducts, indoctrinates and trains minors to become frontline combatants, suicide bombers and executioners.\n\nIt holds public executions in its controlled territories. It subjects captured women and girls to forced marriages, sexual slavery and rape.",
+   "published": "Mon, 19 Oct 2026 23:02:20 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Military Deploys Drones, Air Assets in Strikes That Kill 103 Terrorists - PRNigeria News",
+   "url": "https://prnigeria.com/2026/10/20/military-deploys-drones-air",
+   "snippet": "The military has neutralised 103 terrorists in seven precision air strikes targeting Islamic State West Africa Province (ISWAP) positions across Borno and Adamawa states within an eight-day period.\n\nThe operations, conducted between October 10 and 18, involved Nigerian Army Aviation, the Nigerian Army Remotely Piloted Aircraft Systems (NARPAS) Regiment and Air Component assets under Operation Hadi",
+   "published": "Tue, 20 Oct 2026 08:11:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "103 ISWAP terrorists killed in air strikes in North-East: Military",
+   "url": "https://gazettengr.com/103-iswap-terrorists-killed-in-air-strikes-in-north-east-military",
+   "snippet": "Troops of Hadin Kai say they have killed 103 Islamic State West Africa Province (ISWAP) fighters in seven air strikes conducted across parts of Borno and Adamawa states while destroying several terrorist logistics hubs and storage facilities.\n\nIn a statement on Monday, Mohammed Goni, the acting spokesman for the operation in the North-East, said the operation lasted 18 days. [...] He said the air ",
+   "published": "Tue, 20 Oct 2026 08:28:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Military kills 103 ISWAP terrorists in Borno, Adamawa air strikes",
+   "url": "https://guardian.ng/news/military-kills-103-iswap-terrorists-in-borno-adamawa-air-strikes",
+   "snippet": "### GDN DESKTOP 1\n\nAdvertisement\n\n# Military kills 103 ISWAP terrorists in Borno, Adamawa air strikes\n\nBy : Olufemi Ogundele\n\nDate:  20 October 2026 9:45am WAT\n\nShare :\n\nFollow Us on Google Discover\n\n Nigerian military \n\nNigerian Army\n\n  \n\nNigerian Army\n\nThe military has killed 103 Islamic State West Africa Province (ISWAP) terrorists in seven air strikes across Borno and Adamawa states between Oc",
+   "published": "Tue, 20 Oct 2026 08:45:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria's media: Military air strikes kill '103 ISWAP terrorists' in Borno, Adamawa",
+   "url": "https://news.cgtn.com/news/2026-10-20/news-1RoGKdLp6so/p.html",
+   "snippet": "BREAKING NEWS\n\nNigeria's media: Military air strikes kill '103 ISWAP terrorists' in Borno, Adamawa\n\n BREAKING NEWS \n\n Get timely updates on major events from around the globe with CGTN Breaking News. \n\nsubscribe\n\n## TOP NEWS\n\nImage 12: CPC leadership meeting reviews disciplinary inspection report\n\nNaN\n### CPC leadership meeting reviews disciplinary inspection report\n\nPolitics\n\n08:13, 23-Oct-2026\n\n",
+   "published": "Tue, 20 Oct 2026 09:28:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NAF Airstrike Kills Top ISWAP Commanders In Lake Chad Region • Channels Television",
+   "url": "https://www.channelstv.com/2026/10/19/naf-airstrike-kills-top-iswap-commanders-in-lake-chad-region",
+   "snippet": "“The Nigerian Air Force remains committed to working closely with sister Services and other security agencies to consolidate operational gains, protect vulnerable communities and advance efforts towards lasting peace and security in the North-East,” the statement added.\n\nAdvertisement\n\nSTAY INFORMED \n\n### NAIJA CONNECT\n\nEvery week, discover the stories of progress at home and excellence around the",
+   "published": "Mon, 19 Oct 2026 19:41:44 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_iswap",
  "_query": "ISWAP Nigeria",
  "_domains": [],
