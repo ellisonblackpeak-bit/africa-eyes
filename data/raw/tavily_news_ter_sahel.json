@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "North Africa and the Sahel face the next global food shock  – GIS Reports",
-   "url": "https://www.gisreportsonline.com/r/food-crisis-africa",
-   "snippet": "A November 2024 report found that jihadist groups have exploited severe social stress to deepen political instability. Drawing on five years of data, the study attributed 60 percent of violent incidents in the central Sahel to such groups, which have used resource scarcity to their advantage and targeted vital infrastructure, including water networks. Similar attacks have also occurred in Libya. [",
-   "published": "Wed, 21 Oct 2026 06:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Jihadists blamed for Mali attack, 48 dead: sources",
-   "url": "https://www.modernghana.com/news/1537773/jihadists-blamed-for-mali-attack-48-dead-sources.html",
-   "snippet": "\"The jihadists threatened to return. There is reason to fear displacement of the population,\" the source said.\n\nMultiple local sources blamed the attack on the Islamic State group's Sahel branch.\n\nThe targeted camps lie about 50 kilometres (30 miles) from the town of Menaka, in or around the village of Tinabow and the Tagadayat area. [...] The Sahel region has also been hit by recent fighting betw",
-   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Situation in the Sahel - ICT",
-   "url": "https://ict.org.il/the-situation-in-the-sahel",
-   "snippet": "Three years after General Abdouramane Tchiani took office in a coup on July 26, 2023, Niger is still experiencing instability.  In the Tillabéry region, the epicenter of violence in the west of the country, Jihadist attacks are increasing and continue to claim many lives, both soldiers and civilians. (#_ftn15) Thousands of people have been forced to flee their villages, leading to a severe humanit",
-   "published": "Tue, 20 Oct 2026 08:47:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Islamic State-linked militants kill at least 48 civilians in eastern Mali, sources say - Internazionale",
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/islamic-state-linked-militants-kill-at-least-48-civilians-in-eastern-mali-sources-say",
-   "snippet": "Gli attacchi da parte di combattenti della Provincia del Sahel dello Stato Islamico hanno avuto luogo in almeno cinque località di Menaka e martedì il bilancio complessivo delle vittime era ancora in fase di accertamento, hanno affermato le quattro fonti, che hanno parlato in forma anonima per timore di ritorsioni da parte del governo del Mali. [...] The attacks by fighters from Islamic State Sahe",
-   "published": "Tue, 20 Oct 2026 11:14:33 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Islamic State-linked militants kill at least 48 civilians in eastern Mali, sources say | WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point",
-   "url": "https://wsau.com/2026/10/20/islamic-state-linked-militants-kill-at-least-48-civilians-in-eastern-mali-sources-say",
-   "snippet": "The attacks by fighters from Islamic State Sahel Province took place in at least five localities in Menaka and the overall toll was still being determined on Tuesday, said the four sources, who ‌spoke ​on condition of anonymity for fear of reprisals from Mali’s ⁠government.\n\nThey appeared to be in ⁠response to abuses allegedly carried out last week in the area by a pro-government militia known as ",
-   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Report highlights crucial role of Morocco-Spain anti-terrorism cooperation",
-   "url": "https://en.hespress.com/147657-report-highlights-crucial-role-of-morocco-spain-anti-terrorism-cooperation.html",
-   "snippet": "The report argues that treating security challenges in the Sahel as a distant problem could ultimately expose Europe to greater risks. It calls on European countries to strengthen defenses against jihadist operations originating in the region.\n\nThe Islamic State Sahel Province (IS-Sahel), once primarily a regional insurgency, is increasingly seeking to inspire or carry out attacks in Europe, accor",
-   "published": "Tue, 20 Oct 2026 10:30:11 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US Security Analysis Warns of ISIS Logistics Corridor Linking Morocco, Spain, and the Sahel",
-   "url": "https://www.moroccoworldnews.com/2026/10/343006/us-security-analysis-warns-of-isis-logistics-corridor-linking-morocco-spain-and-the-sahel",
-   "snippet": "Spanish authorities arrested roughly 90 people on suspicion of jihadist-related activity in the first eight months of 2025, some of whom had intended to reach Mali before shifting to attack planning inside Spain. The report adds that Spain’s North African diaspora, built over decades of migration, gives multilingual propagandists “a consistent and steady recruitment pool” they can reach without in",
-   "published": "Tue, 20 Oct 2026 14:56:22 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Two European women held captive for more than a year in Niger freed in Libya - MyJoyOnline",
-   "url": "https://www.myjoyonline.com/two-european-women-held-captive-for-more-than-a-year-in-niger-freed-in-libya",
-   "snippet": "Libya’s military seizes narcotics after firefight with smugglers\n\n Government repatriates 180 Ghanaians from Libya\n\n WAFU B U-17 Girls Cup: Black Maidens thump Niger in fourth game\n\n Libya power cuts push small businesses and weary citizens to brink\n\n AFCON 2027Q: Somalia, Niger to play home matches at Accra Sports Stadium as CAF clears facility\n\n Drugs marked with Gaddafi’s face seized in Libya\n\n",
-   "published": "Thu, 22 Oct 2026 10:10:51 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_sahel",
  "_query": "Sahel jihadist attack",
  "_domains": [],

@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Ghana to ban raw mineral export by 2030 as Government pushes local processing",
-   "url": "https://constructionreviewonline.com/ghana-to-ban-raw-mineral-export-by-2030-as-government-pushes-local-processing",
-   "snippet": "Ghana is targeting a ban on the export of unprocessed mineral ores by 2030, in a major policy shift aimed at expanding domestic mineral processing.\n\nPresident John Dramani Mahama announced the target while addressing the Mining in Motion Summit in Accra. The government plans to introduce a phased prohibition on raw mineral exports. This will be supported by new legal measures, mineral-specific req",
-   "published": "Tue, 20 Oct 2026 07:12:16 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ghana Moves To Establish National Space Agency To Strengthen Transport And Logistics Resilience",
-   "url": "https://trendsnafrica.com/ghana-moves-to-establish-national-space-agency-to-strengthen-transport-and-logistics-resilience",
-   "snippet": "(3 Minutes Read)\n\nThe Government of Ghana has taken a significant step towards strengthening the country’s space science and technology capabilities following Cabinet approval of the National Space Policy. The policy is expected to pave the way for the transformation of the Ghana Space Science and Technology Institute (GSSTI) into a fully operational Ghana Space Agency, marking a new phase in the ",
-   "published": "Thu, 22 Oct 2026 06:24:52 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ghana to stop raw mineral exports by 2030: Mahama",
-   "url": "https://gazettengr.com/ghana-to-stop-raw-mineral-exports-by-2030-mahama",
-   "snippet": "The president, who reaffirmed that government policy will pivot from merely extracting raw materials to building complete industrial value chains, highlighted the integrated aluminium industry as a flagship priority. [...] Friday, October 23, 2026\n\n\n\n #EndSARS\n Politics\n Anti-Corruption\n Rights\n Economy\n Education\n Health\n Sport\n Nationwide\n Opinion\n\n\n\n #EndSARS\n Politics\n Anti-Corruption\n Rights\n",
-   "published": "Fri, 23 Oct 2026 12:59:08 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "GoldBod will not abandon gold trading model over IMF concerns – Gyamfi - Asaase Radio",
-   "url": "https://asaaseradio.com/goldbod-will-not-abandon-gold-trading-model-over-imf-concerns-gyamfi",
-   "snippet": "Facebook\n Twitter\n Pinterest\n LinkedIn\n\n## Key Points\n\n1 \n\n### Government Confidence in GoldBod's Model\n\nGhana's government trusts its gold trading policy and continues efforts to increase official gold purchases and reduce smuggling.\n\n2 \n\n### Record Surpluses Achieved\n\nGoldBod recorded over GH¢5.4 billion surplus in 2025, demonstrating improved performance and fiscal health.\n\n3 \n\n### Rejection of",
-   "published": "Tue, 20 Oct 2026 11:54:24 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Assessing Ghana's Government Policy on Contract Mining and Local Economic Benefits",
-   "url": "https://www.modernghana.com/news/1539474/assessing-ghanas-government-policy-on-contract.html",
-   "snippet": "Pursuant to the passage of the Minerals and Mining (Local Content and Local Participation) Regulations, 2020 (L .",
-   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ghana’s AI and Deepfake Rules: What the New Data Protection Bill Means | Briefly",
-   "url": "https://www.wansom.ai/briefly/news/ghana-s-ai-and-deepfake-rules-what-the-new-data-protection-bill-means-2026-10-22",
-   "snippet": "The National AI Strategy for 2025–2035 was officially launched in April. The government has described it as a roadmap for developing local capabilities, expanding responsible AI adoption and supporting applications across sectors such as healthcare, agriculture, education and public services.\n\nAt the launch, President Mahama announced plans for a US$250 million AI Computing Centre and a separate U",
-   "published": "Thu, 22 Oct 2026 01:21:35 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "President of Africa's biggest gold-producing nation vows to end raw mineral exports within four years | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/president-of-africas-biggest-gold-producing-nation-vows-to-end-raw-mineral-exports/x6cfqhx",
-   "snippet": "President John Mahama has committed to ending Ghana's exports of unprocessed minerals by 2030 to boost domestic industrialization.\n A phased ban on raw exports of minerals like bauxite, manganese, iron, and lithium will be implemented, with tailored legal measures.\n This initiative is part of the broader Accra Reset agenda, strengthening Ghanaian control over natural resources and focusing on sust",
-   "published": "Tue, 20 Oct 2026 11:58:50 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "What AngloGold Ashanti Stock Investors Should Know About Ghana Mining Labor Rules",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-stock-investors-know-001924624.html",
-   "snippet": "Ghana's government previously ordered its Minerals Commission to standardise salaries, wages and employment conditions across the mining sector as operations shift from owner mining to local contractors, directly affecting operators such as AngloGold Ashanti.\n The directive aims to prevent cuts in pay and benefits during contracting transitions, which could reshape AngloGold Ashanti's cost structu",
-   "published": "Sat, 24 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ghana rethinks mining rights as Gold Fields clashes with president’s brother | News24",
-   "url": "https://www.news24.com/business/companies/ghana-rethinks-mining-rights-as-gold-fields-clashes-with-presidents-brother-20261022-0935",
-   "snippet": "Buah said he expects parliament to approve revised mining legislation by the end of the year. If passed, the law will reduce the length of leases, grant the government greater discretion over renewals and abolish bespoke agreements which lock in fiscal terms for fixed periods.\n\nNewsletter\n\nWeekdays\n\nSA Money Daily\n\nThe biggest business, economic and market news of the day.\n\n Sign up\n\nDiscover the ",
-   "published": "Thu, 22 Oct 2026 15:39:05 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "gov_gh",
  "_query": "Ghana government policy",
  "_domains": [],

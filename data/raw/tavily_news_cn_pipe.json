@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Niger: Coumba Gawlo wants to mobilize African artists after her meeting with Tiani - BENIN WEB TV",
-   "url": "https://beninwebtv.com/en/niger-coumba-gawlo-wants-to-mobilize-african-artists-after-her-meeting-with-tiani",
-   "snippet": "09:11 Diplomacy : Benin: the electrical network and the port of Cotonou on the agenda of the dialogue with the EU\n 08:11 Afrique-Sport : Futsal AFCON: Morocco beats Angola 5-2 and wins its fourth consecutive title\n 06:10 Economy : Parakou, the municipal council adopts a 2027 budget of 5.29 billion FCFA\n 05:10 Society : Togo: the CEET announces electrical disruptions during the maintenance of the g",
-   "published": "Thu, 22 Oct 2026 17:52:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger: Eva Gretzmacher and Claudia Abbt released after their abduction in Agadez - BENIN WEB TV",
-   "url": "https://beninwebtv.com/en/niger-eva-gretzmacher-and-claudia-abbt-released-after-their-abduction-in-agadez",
-   "snippet": "09:11 Diplomacy : Benin: the electrical network and the port of Cotonou on the agenda of the dialogue with the EU\n 08:11 Afrique-Sport : Futsal AFCON: Morocco beats Angola 5-2 and wins its fourth consecutive title\n 06:10 Economy : Parakou, the municipal council adopts a 2027 budget of 5.29 billion FCFA\n 05:10 Society : Togo: the CEET announces electrical disruptions during the maintenance of the g",
-   "published": "Thu, 22 Oct 2026 13:10:55 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "U15 World Cup: Benin defeated by Italy, Morocco continues perfect run - BENIN WEB TV",
-   "url": "https://beninwebtv.bj/en/u15-world-cup-benin-defeated-by-italy-morocco-continues-perfect-run",
-   "snippet": "pLXVucHJvY2Vzc2VkIik7Yy5jbGFzc0xpc3QucmVtb3ZlKCJhaS10aW1lciIpfSl9ZWxzZXtpZighYi5jbGFzc0xpc3QuY29udGFpbnMoImFpLXVucHJvY2Vzc2VkIikmJiFiLmNsYXNzTGlzdC5jb250YWlucygiYWktdGltZXIiKSlyZXR1cm47CmIuY2xhc3NMaXN0LnJlbW92ZSgiYWktdW5wcm9jZXNzZWQiKTtiLmNsYXNzTGlzdC5yZW1vdmUoImFpLXRpbWVyIil9dmFyIGE9ITE7aWYoZD9iWzBdLmhhc0F0dHJpYnV0ZSgiZGF0YS1pbmZvIik6Yi5oYXNBdHRyaWJ1dGUoImRhdGEtaW5mbyIpKXt2YXIgZj0iZGl2LmFpLXJvdGF",
-   "published": "Mon, 26 Oct 2026 13:23:42 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_pipe",
  "_query": "Niger Benin pipeline",
  "_domains": [],

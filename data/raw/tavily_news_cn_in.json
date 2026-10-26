@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Great Wall To Gateway: Navigating The India–China Capital Flows Across One Border And Two Rulebooks | India Corporate Law",
-   "url": "https://corporate.cyrilamarchandblogs.com/2026/10/great-wall-to-gateway-navigating-the-india-china-capital-flows-across-one-border-and-two-rulebooks",
-   "snippet": "Summary: The recentrecalibration of the investment regimes on both sides suggests that businesses may once again have opportunities to explore cross-border transactions between India and China. India’s selective relaxation of its land-border investment restrictions, coupled with China’s more structured approach to outbound investment, points to an investment corridor increasingly shaped by sector-",
-   "published": "Thu, 22 Oct 2026 12:36:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Is China Trying To Slow India’s Border Infrastructure Buildup?",
-   "url": "https://swarajyamag.com/defence/is-china-trying-to-slow-indias-border-infrastructure-buildup",
-   "snippet": "Beijing’s choice of wording has a precedent in New Delhi. In April 2020, as Chinese investors eyed Indian companies weakened by the Covid-19 pandemic, India issued Press Note 3. It required government approval for foreign investment from any country sharing a land border with India, and for any investment whose beneficial owner was located in or a citizen of such a country. [...] India’s reliance ",
-   "published": "Fri, 23 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Tunneling Equipment Export Controls Explained - The China-Global South Project",
-   "url": "https://chinaglobalsouth.com/2026/10/26/china-tunneling-equipment-export-controls-india",
-   "snippet": "Bloomberg reported in August that India is planning to invest $4.7 billion in railway upgrades along its borders with China, Pakistan and Bangladesh over the next two years. Li argued that advanced tunneling machinery could help India build all-weather transport corridors through the Himalayas, allowing troops and military supplies to move more easily across the mountainous frontier. [...] China’s",
-   "published": "Mon, 26 Oct 2026 01:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Face-Offs at India-China Border Are Continuing at Multiple Points, ITBP Chief Confirms – The Diplomat",
-   "url": "https://thediplomat.com/2026/10/face-offs-at-india-china-border-are-continuing-at-multiple-points-itbp-chief-confirms",
-   "snippet": "The entire India-China border is disputed. The two countries not only have differing perceptions of where the Line of Actual Control, the de facto border, runs, but they also claim swathes of territory under the other’s control. China claims 90,000 sq km of territory that roughly coincides with Arunachal Pradesh. India claims 38,000 sq km of territory in Aksai Chin that China occupied during the 1",
-   "published": "Mon, 26 Oct 2026 13:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "MEA says Chinese patrol deviations disturb border peace, hinder ties - The Economic Times",
-   "url": "https://economictimes.indiatimes.com/news/defence/mea-says-chinese-patrol-deviations-disturb-border-peace-hinder-ties/articleshow/135150191.cms",
-   "snippet": "\"As we have noted in the past, the situation in the India-China border areas gets disturbed from time to time when Chinese forces diverge from established patrolling patterns,\" Jaiswal said at MEA's bi-weekly media briefing.  \n  \n\"Both sides continue to use existing diplomatic and military mechanisms to resolve outstanding issues and avoid misunderstanding and miscalculation along the Line of Actu",
-   "published": "Fri, 23 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Seeks Cooperation After Indian Comments on Border Patrols - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/china-seeks-india-s-cooperation-after-report-of-border-standoff",
-   "snippet": "# China Seeks Cooperation After Indian Comments on Border Patrols\n\n## Takeaways by Bloomberg AI\n\nChina said it wanted India’s cooperation on border issues, following comments from India that changes in Chinese border patrols disturb peace in the area. [...] “We hope that India will work with China in the same direction by jointly implementing the common understandings between the two sides and tak",
-   "published": "Mon, 26 Oct 2026 09:02:33 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Back in the black: 128 law firms’ revenue data | China | Law.asia",
-   "url": "https://law.asia/128-law-firms-revenue-data",
-   "snippet": "Dacheng’s Li describes the growth in cross-border legal demand as “explosive”. Geopolitical shifts, he says, are pushing Chinese companies to diversify into Southeast Asia, the Middle East and Latin America at an accelerated pace, driving transactional work such as cross-border investment structuring and outbound direct investment (ODI) filings. [...] ### SECTIONS\n\n### ABOUT US\n\n### TOPICS\n\n### RE",
-   "published": "Thu, 22 Oct 2026 08:06:47 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Global gold trading hub status attracts industry leaders to set up operations in Hong Kong",
-   "url": "https://www.scmp.com/native/business/topics/domestic-global-success/article/3371711/global-gold-trading-hub-status-attracts-industry-leaders-set-operations-hong-kong",
-   "snippet": "Investment in gold – long considered a traditional safe-haven during uncertain times – is taking on renewed importance amid the current global geopolitical",
-   "published": "Mon, 26 Oct 2026 03:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Rothschild prioritises personal relationships in the AI age",
-   "url": "https://www.thebanker.com/content/8be8474a-2894-4859-859c-a83c3bf1fb21",
-   "snippet": "Image 15: Rothschild prioritises personal relationships in the AI ageRothschild is expanding its financing solutions capabilities to capitalise on growing cross-border opportunities © Jason Alden/Bloomberg [...] Image 24: ‘I wouldn’t bet against the Gulf region ever’\n\nAgenda\n\nJUNE 26 \n\n### ‘I wouldn’t bet against the Gulf region ever’Head of Standard Chartered’s CIB on why Dubai and the Gulf remai",
-   "published": "Thu, 22 Oct 2026 10:39:34 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_in",
  "_query": "Chinese company India investment border",
  "_domains": [],

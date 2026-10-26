@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "France: crowds fill Marseille's Old Port in anti-racism protest",
+   "url": "https://www.euronews.com/video/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest",
+   "content": "Hundreds of people gathered at Marseille's Vieux-Port on Monday evening to protest against racism following a deadly shooting near Paris. Police estimated the crowd at 800, while organisers put attendance at more than 1,000.",
+   "published_date": "Mon, 26 Oct 2026 23:20:11 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Trump says Brazil election looked 'rigged' without giving evidence",
+   "url": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
+   "content": "The Trump administration has hailed a recent wave of right-wing election victories across South America.",
+   "published_date": "Mon, 26 Oct 2026 22:37:22 +0100",
+   "score": 0.6
+  },
+  {
    "title": "María Corina Machado seeks talks with Delcy Rodríguez after return from exile",
    "url": "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile",
    "content": "After a year in exile, Venezuela's opposition leader returns, ready to negotiate with the government. The EU welcomes her and calls for free and fair elections.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/2026/10/24/young-protesters-clash-with-police-on-rome-streets",
    "content": "Young protesters clashed with police in Rome on Saturday as demonstrations over wages, the cost of living and public services spread across Italy.",
    "published_date": "Sat, 24 Oct 2026 22:51:03 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
-   "url": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
-   "content": "Lula against Flavio - both candidates in the second-round presidential election in Brazil hold rallies in major cities on the last day of campaigning. With around 20% of the electorate having abstained in the first round, the result is wide open and opinion polls show them neck and neck.",
-   "published_date": "Sat, 24 Oct 2026 19:54:38 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 24th, 2026 – Evening",
-   "url": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sat, 24 Oct 2026 18:00:26 +0200",
    "score": 0.6
   }
  ],

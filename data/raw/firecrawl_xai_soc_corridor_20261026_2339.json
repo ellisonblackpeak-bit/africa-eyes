@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/microcerotis/status/2114008014126752167",
+     "title": "\"Abbiamo già firmato l'accordo per il gasdotto Africa occidentale-Marocco, non sorprendetevi quando il gas arriverà da voi\", ha dichiarato i",
+     "description": "\"Abbiamo già firmato l'accordo per il gasdotto Africa occidentale-Marocco, non sorprendetevi quando il gas arriverà da voi\", ha dichiarato il presidente di Ecowas, Julius Maada Bio.\nhttps://africa.businessinsider.com/local/markets/ecowas-approves-historic-nigeria-morocco-dollar25-billion-energy-gas-pipeline-to/313ljtq\nGasdotto costiero di oltre 6000 chilometri\nhttps://www.infocanarie.com/rubrica-strategica/le-isole-canarie-e-il-mega-gasdotto-marocco-nigeria",
+     "snippet": "\"Abbiamo già firmato l'accordo per il gasdotto Africa occidentale-Marocco, non sorprendetevi quando il gas arriverà da voi\", ha dichiarato il presidente di Ecowas, Julius Maada Bio.\nhttps://africa.businessinsider.com/local/markets/ecowas-approves-historic-nigeria-morocco-dollar25-billion-energy-gas-pipeline-to/313ljtq\nGasdotto costiero di oltre 6000 chilometri\nhttps://www.infocanarie.com/rubrica-strategica/le-isole-canarie-e-il-mega-gasdotto-marocco-nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Franca",
+     "handle": "@microcerotis"
+    },
+    {
+     "url": "https://x.com/microcerotis/status/2114004366747148379",
+     "title": "il Futuro passa per l'Africa Unita luglio 2026 Dai leader della Comunità economica degli Stati dell'Africa occidentale è stato firmato l'acc",
+     "description": "il Futuro passa per l'Africa Unita\nluglio 2026 Dai leader della Comunità economica degli Stati dell'Africa occidentale è stato firmato l'accordo per la costruzione del gasdotto Nigeria-Marocco\nhttps://www.ansa.it/ansamed/it/notizie/rubriche/nazioni/2026/07/20/firmato-laccordo-per-la-costruzione-del-gasdotto-nigeria-marocco_e09f841f-451c-43ed-8c4f-547fa43458d9.html",
+     "snippet": "il Futuro passa per l'Africa Unita\nluglio 2026 Dai leader della Comunità economica degli Stati dell'Africa occidentale è stato firmato l'accordo per la costruzione del gasdotto Nigeria-Marocco\nhttps://www.ansa.it/ansamed/it/notizie/rubriche/nazioni/2026/07/20/firmato-laccordo-per-la-costruzione-del-gasdotto-nigeria-marocco_e09f841f-451c-43ed-8c4f-547fa43458d9.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Franca",
+     "handle": "@microcerotis"
+    },
+    {
+     "url": "https://x.com/microcerotis/status/2114013537722884596",
+     "title": "Uno dei principali obiettivi strategici ed geopolitici del gasdotto, fortemente caldeggiato dai paesi africani e dai partner occidentali è q",
+     "description": "Uno dei principali obiettivi strategici ed geopolitici del gasdotto, fortemente caldeggiato dai paesi africani e dai partner occidentali è quello di ridurre la dipendenza energetica dell'Europa dal gas russo, offrendo all'Ue una rotta di approvvigionamento nell'Africa occidentale",
+     "snippet": "Uno dei principali obiettivi strategici ed geopolitici del gasdotto, fortemente caldeggiato dai paesi africani e dai partner occidentali è quello di ridurre la dipendenza energetica dell'Europa dal gas russo, offrendo all'Ue una rotta di approvvigionamento nell'Africa occidentale",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Franca",
+     "handle": "@microcerotis"
+    },
+    {
+     "url": "https://x.com/GeoCherifien/status/2114361736316748073",
+     "title": "1/5 Respectfully, the facts point the other way.",
+     "description": "1/5\nRespectfully, the facts point the other way. Niger isn't a side issue, it's Algiers' gateway to the whole Sahel. Look at 2026 alone:\n\n🇳🇪 Feb: Tiani in Algiers, ties normalised\n🇳🇪 Aug: Su-30s deployed to Niamey\n🇳🇪 Oct: military protocol, then the Senate approves troops, a first since 1973\n🇳🇪 40 MW power plant gifted, Kafra oil block\n\nSource: Al Jazeera https://t.co/On3gRob3i8\n\n2/5\nAnd Mali? Algiers got back in through Niamey.\n\n🇲🇱 Jul 10: ambassadors back, airspace reopened, a thaw that was mediated by Niger\n🇧🇫 $88M mining & energy package for Burkina\n🇲🇷 Oct 22: Algeria–Mauritania military security meeting in Zouérat\n\nNiger is the door to Bamako, not a detour.\n\nSource: International Crisis Group https://t.co/l6OjcX1aav\n\n3/5\nNow add Ankara 🇹🇷:\n\n• TB2 & Karayel-SU drones in Niger, Turkish instructors on Nigerien bases since April\n• Tiani's first trip outside Africa was to Ankara in June\n• Turkey trained Malian commandos\n\nAlgiers & Ankara set up a strategic council in May, aim for $10B in trade, and share one rival in the region: the UAE.\n\nSource: Turkish Minute https://t.co/3q4NmLZjiY\n\n4/5\nThat's an alliance of convenience, not a bloc, but it works: Turkey sells & trains, Algeria brings troops, gas and money.\n\nOn Russia, I agree it's entrenched. But it's Africa Corps that saved Tiani in August, and Algiers is shoring up Russia's clients, not fighting them. The three are compatible.\n\nSource: Steptoe https://t.co/a4AZBO34GU\n\n5/5\nWhy it matters for Morocco 🇲🇦:\n\n• The Atlantic Initiative needs the AES capitals to want Dakhla\n• Trans-Saharan gas pipeline (via Niger) vs Nigeria–Morocco pipeline\n• Whoever secures Niamey sits on both routes\n\nThe Sahara file is closing. The Sahel file is wide open. Ignoring Niger means handing it over.\n\nSource: ISS Africa",
+     "snippet": "1/5\nRespectfully, the facts point the other way. Niger isn't a side issue, it's Algiers' gateway to the whole Sahel. Look at 2026 alone:\n\n🇳🇪 Feb: Tiani in Algiers, ties normalised\n🇳🇪 Aug: Su-30s deployed to Niamey\n🇳🇪 Oct: military protocol, then the Senate approves troops, a first since 1973\n🇳🇪 40 MW power plant gifted, Kafra oil block\n\nSource: Al Jazeera https://t.co/On3gRob3i8\n\n2/5\nAnd Mali? Algiers got back in through Niamey.\n\n🇲🇱 Jul 10: ambassadors back, airspace reopened, a thaw that was mediated by Niger\n🇧🇫 $88M mining & energy package for Burkina\n🇲🇷 Oct 22: Algeria–Mauritania military security meeting in Zouérat\n\nNiger is the door to Bamako, not a detour.\n\nSource: International Crisis Group https://t.co/l6OjcX1aav\n\n3/5\nNow add Ankara 🇹🇷:\n\n• TB2 & Karayel-SU drones in Niger, Turkish instructors on Nigerien bases since April\n• Tiani's first trip outside Africa was to Ankara in June\n• Turkey trained Malian commandos\n\nAlgiers & Ankara set up a strategic council in May, aim for $10B in trade, and share one rival in the region: the UAE.\n\nSource: Turkish Minute https://t.co/3q4NmLZjiY\n\n4/5\nThat's an alliance of convenience, not a bloc, but it works: Turkey sells & trains, Algeria brings troops, gas and money.\n\nOn Russia, I agree it's entrenched. But it's Africa Corps that saved Tiani in August, and Algiers is shoring up Russia's clients, not fighting them. The three are compatible.\n\nSource: Steptoe https://t.co/a4AZBO34GU\n\n5/5\nWhy it matters for Morocco 🇲🇦:\n\n• The Atlantic Initiative needs the AES capitals to want Dakhla\n• Trans-Saharan gas pipeline (via Niger) vs Nigeria–Morocco pipeline\n• Whoever secures Niamey sits on both routes\n\nThe Sahara file is closing. The Sahel file is wide open. Ignoring Niger means handing it over.\n\nSource: ISS Africa",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "MD🇲🇦",
+     "handle": "@GeoCherifien"
+    },
+    {
+     "url": "https://x.com/segadiarrah/status/2114461330178703653",
+     "title": "10/21 Le gazoduc transsaharien s’inscrit aussi dans une compétition de corridors : un autre projet relie le Nigeria au Maroc par l’Atlantiqu",
+     "description": "10/21 \nLe gazoduc transsaharien s’inscrit aussi dans une compétition de corridors : un autre projet relie le Nigeria au Maroc par l’Atlantique. Mais rien ne prouve que le déploiement algérien au Niger soit dirigé contre Rabat.",
+     "snippet": "10/21 \nLe gazoduc transsaharien s’inscrit aussi dans une compétition de corridors : un autre projet relie le Nigeria au Maroc par l’Atlantique. Mais rien ne prouve que le déploiement algérien au Niger soit dirigé contre Rabat.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Séga DIARRAH",
+     "handle": "@segadiarrah"
+    },
+    {
+     "url": "https://x.com/chaoui4805/status/2114469881760374805",
+     "title": "3/ Rivalry: Morocco pushes a rival Atlantic pipeline for Nigerian gas.",
+     "description": "3/ Rivalry: Morocco pushes a rival Atlantic pipeline for Nigerian gas. Securing Niger signals Algeria's route is protected — and that Algiers, not Rabat, is the Sahel's reliable partner. A senator told AFP it also sends a message to Morocco and the UAE.",
+     "snippet": "3/ Rivalry: Morocco pushes a rival Atlantic pipeline for Nigerian gas. Securing Niger signals Algeria's route is protected — and that Algiers, not Rabat, is the Sahel's reliable partner. A senator told AFP it also sends a message to Morocco and the UAE.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ⵀⵓⵙⵉⵏ HoCiNe 🇩🇿",
+     "handle": "@chaoui4805"
+    },
+    {
+     "url": "https://x.com/GFeel178182/status/2113550257443180850",
+     "title": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "description": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "snippet": "En principe les terros sont pas tres agiles en mer …80 % du gazoduc Maroc- Nigéria sera sous la mer 😜",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "G Feel",
+     "handle": "@GFeel178182"
+    },
+    {
+     "url": "https://x.com/NasXGW/status/2113558467298365571",
+     "title": "Le projet de gazoduc Nigeria Niger Algérie est tellement avancé et discrédite tellement le projet passant par le Maroc que le régime sionist",
+     "description": "Le projet de gazoduc Nigeria Niger Algérie est tellement avancé et discrédite tellement le projet passant par le Maroc que le régime sioniste de rabat utilise tous ses faux comptes pour tenter  de saboter en vain le projet du gazoduc Nigeria Niger Algérie.",
+     "snippet": "Le projet de gazoduc Nigeria Niger Algérie est tellement avancé et discrédite tellement le projet passant par le Maroc que le régime sioniste de rabat utilise tous ses faux comptes pour tenter  de saboter en vain le projet du gazoduc Nigeria Niger Algérie.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nas Nas🍉",
+     "handle": "@NasXGW"
+    },
+    {
+     "url": "https://x.com/ORIOou/status/2114401394535137378",
+     "title": "pour les pays du SAHEL le MAROC est un pays de rigollot est de charlatants le Maroc promettait un chemin de fer du Tchad jusqu'aux cote maro",
+     "description": "pour les pays du SAHEL le MAROC est un pays de rigollot est de charlatants\nle Maroc promettait un chemin de fer du Tchad jusqu'aux cote marocaine mais en réalité tout sa était dans imaginations des marocains sa sera idem avec le gazoduc Nigeria/Maroc",
+     "snippet": "pour les pays du SAHEL le MAROC est un pays de rigollot est de charlatants\nle Maroc promettait un chemin de fer du Tchad jusqu'aux cote marocaine mais en réalité tout sa était dans imaginations des marocains sa sera idem avec le gazoduc Nigeria/Maroc",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "smerch",
+     "handle": "@ORIOou"
+    },
+    {
+     "url": "https://x.com/FbkzS12/status/2113710471396413855",
+     "title": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "description": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "snippet": "🛑INCROYABLE : LYNDA LARBAOUI DÉMASQUE LA RÉALITÉ DERRIÈRE LE GAZODUC ENTRE LE NIGERIA 🇳🇬 ET LE MAROC 🇲🇦",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "FBKZ 👉🇩🇿🇪🇭🇵🇸👈",
+     "handle": "@FbkzS12"
+    }
+   ]
+  }
+ ]
+}

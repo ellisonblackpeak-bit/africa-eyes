@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Chinese companies are drawing attention as they head to Thailand in increasing numbers to avoid tari.. - MK",
-   "url": "https://www.mk.co.kr/en/world/12181596",
-   "snippet": "Donald Low, a professor in the Department of Public Policy at the Hong Kong University of Science and Technology, told SCMP, “Infrastructure bottlenecks and rising labor costs are making Vietnam less attractive as a destination for manufacturing investment.” He added, “By contrast, Thailand has a mature and sophisticated manufacturing base.” [...] A quarter of investment projects approved by the T",
-   "published": "Wed, 21 Oct 2026 03:18:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "COMMENTARY: US tariff war is fueling Vietnam's coal boom",
-   "url": "https://www.reuters.com/commentary/reuters-open-interest/us-tariff-war-is-fueling-vietnams-coal-boom-2026-10-23",
-   "snippet": "A years-long trade war between the United States and China has helped shift manufacturing investment, factory output and export production into Vietnam,",
-   "published": "Fri, 23 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Kolon Industries Breaks Ground on Airbag Fabric Plant in Vietnam < Supply Chain < 기사본문 - The Elec Inc.",
-   "url": "https://www.thelec.net/news/articleView.html?idxno=14803",
-   "snippet": "“The new Vietnam plant is an investment aimed at ensuring a stable supply of world-class airbag materials to Autoliv, one of our major customers,” Heo said. “We will continue to strengthen our competitiveness in the global automotive materials market through differentiated technologies and manufacturing capabilities.”\n\nSelye Moon의 프로필 이미지\n\nSelye Moon selyesel@thelec.kr\n\nView other news\n\nCopyright ",
-   "published": "Wed, 21 Oct 2026 11:18:24 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "In Focus | ‘Poster child’: why more Chinese firms have Thailand in their expansion plans | South China Morning Post",
-   "url": "https://www.scmp.com/economy/global-economy/article/3371529/poster-child-why-more-chinese-firms-have-thailand-their-expansion-plans",
-   "snippet": "Advertisement\n\nChinese offshore investment\n\nEconomyGlobal Economy\n\n# In Focus‘Poster child’: why more Chinese firms have Thailand in their expansion plans\n\nThe Land of Smiles has become a prime location for Chinese businesses diversifying operations offshore, as Vietnam reaches saturation point\n\n6-MIN READ6-MIN\n\nIllustration: Henry Wong\n\nFrank Chenin Shanghai [...] Vietnam, popular for much of thi",
-   "published": "Tue, 20 Oct 2026 22:00:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU looks to Vietnam — and turns a blind eye to rights abuses",
-   "url": "https://amp.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812",
-   "snippet": "Although the EVFTA has considerably strengthened bilateral commerce, it has been far more successful at increasing Vietnamese exports to Europe than EU sales to Vietnam.\n\nThe EU's goods-trade deficit with Vietnam reached €51.7 billion ($57.9 billion) in 2025 — up from roughly €24 billion in 2019.\n\nThis imbalance is becoming more conspicuous as Brussels seeks greater economic security and new expor",
-   "published": "Thu, 22 Oct 2026 14:12:22 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Q3 2026 GDP: Industry, Trade, and Business Implications",
-   "url": "https://www.china-briefing.com/news/china-q3-2026-gdp",
-   "snippet": "China Briefing is one of five regional Asia Briefing publications. It is supported by Dezan Shira & Associates, a pan-Asia, multi-disciplinary professional services firm that assists foreign investors throughout Asia, including through offices in Beijing, Tianjin, Dalian, Qingdao, Shanghai, Hangzhou, Ningbo, Suzhou, Guangzhou, Haikou, Zhongshan, Shenzhen, and Hong Kong in China. Dezan Shira & Asso",
-   "published": "Wed, 21 Oct 2026 14:06:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "ESTEVE CDMO Invests Over $80 Million to Expand Pharmaceutical Manufacturing Capabilities in China",
-   "url": "https://biopharmaapac.com/news/48/8594/esteve-cdmo-invests-over-80-million-to-expand-pharmaceutical-manufacturing-capabilities-in-china.html",
-   "snippet": "More than 20 years in China: strengthening ESTEVE CDMO's presence in the region\n\nThe investment builds on more than two decades of manufacturing experience in China, as well as strong local capabilities and long-term relationships. It reinforces ESTEVE's commitment to the country and strengthens its platform to support customers across China and the wider Asian market, while further contributing t",
-   "published": "Thu, 22 Oct 2026 04:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "UAE Ministry Wraps Up China International Industry Fair 2026 in Shanghai - News and Statistics - IndexBox",
-   "url": "https://www.indexbox.io/blog/uae-ministry-concludes-participation-in-shanghai-industry-fair",
-   "snippet": "Al Nowais described China as an important partner for the UAE across industry, technology and investment. He said meetings with leading Chinese companies and visits to factories and industrial facilities offer practical chances to explore cooperation and develop advanced industrial solutions, including automation, robotics and smart manufacturing, while building partnerships that support localisat",
-   "published": "Tue, 20 Oct 2026 13:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Facing a looming Ban, TP-Link partners with American Manufacturer to build Wi-Fi 8 Routers",
-   "url": "https://mix93.com/vip-inside-story?id=152906&category=tech-made-simple",
-   "snippet": "Facing the looming US's foreign-made router ban, TP-Link plans to partner with domestic electronics manufacturer Key Tronic Corporation to assemble Wi-Fi 8",
-   "published": "Thu, 22 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],

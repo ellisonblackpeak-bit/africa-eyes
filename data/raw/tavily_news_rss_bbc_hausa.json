@@ -2,7 +2,14 @@
  "success": true,
  "results": [
   {
-   "title": "Ballon d'Or 2026: Ko Kane zai zama na farko daga Ingila bayan shekara 25?",
+   "title": "’Yan bindiga sun kashe Sheikh Yahaya Masussuka - ‘Yansanda",
+   "url": "https://www.bbc.com/hausa/articles/c8zxl411n35go?at_medium=RSS&at_campaign=rss",
+   "content": "A wata tattaunawa da BBC, baturen ‘yansanda reshen Dutsen Ma ya bayyana cewa wasu ‘yan bindiga ne suka kashe mashahurin malamin a yammacin Litinina kofar gidansa.",
+   "published_date": "Mon, 26 Oct 2026 22:35:10 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kane ya kawo karshen kasa lashe Ballon d'Or a Ingila, bayan shekara 25?",
    "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
    "published_date": "",
@@ -65,10 +72,10 @@
    "score": 0.6
   },
   {
-   "title": "Wane ne zai lashe Ballon d'Or a bana?",
-   "url": "https://www.bbc.com/hausa/articles/cmdx3wle3wwdo?at_medium=RSS&at_campaign=rss",
-   "content": "Kyautar Ballon d'Or ita ce mafi girma ga dan wasan kwallon kafa a duniya - kuma kishirwar lashe gasar bana sai kara zafi take, fiye da wadanda aka yi a baya.",
-   "published_date": "Mon, 26 Oct 2026 09:03:35 GMT",
+   "title": "Ballon d'or 2026: Kane ne gwarzon dan kwallon kafa na duniya",
+   "url": "https://www.bbc.com/hausa/articles/cm62yd9lypydo?at_medium=RSS&at_campaign=rss",
+   "content": "Harry Kane ya lashe kyautar Ballon d'Or ta 2026, karon farko da dan Ingila ya karbi kyautar bayan shekara 25, wanda ya taka rawar gani a Bayern Munich da kuma tawagar Ingila.",
+   "published_date": "Mon, 26 Oct 2026 23:15:57 GMT",
    "score": 0.6
   },
   {
@@ -100,17 +107,17 @@
    "score": 0.6
   },
   {
-   "title": "Iran da ƙawayenta na shirin kai mana hari lokacin zaɓe - Netanyahu",
-   "url": "https://www.bbc.co.uk/hausa/live/c80401dn9lk4t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 25/10/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
    "title": "Gine-gine 8 mafiya ƙayatarwa a duniya",
    "url": "https://www.bbc.com/hausa/articles/c65yn2pkj4p8o?at_medium=RSS&at_campaign=rss",
    "content": "Tsawon lokaci mai yawa, masu zanen gine-gine suna amfani da launi a matsayin wata muhimmiyar hanya wajen ƙara wa ayyukansu kyan gani, armashi da kuma baje fasaha",
    "published_date": "Sun, 25 Oct 2026 18:13:24 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Iran da ƙawayenta na shirin kai mana hari lokacin zaɓe - Netanyahu",
+   "url": "https://www.bbc.co.uk/hausa/live/c80401dn9lk4t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 25/10/2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cm3vqn695xdwo?at_medium=RSS&at_campaign=rss",
    "content": "Mun yi bayani game da tsohon kwamandan sojojin da ke zama babbar barazana ta siyasa ga Firayim Minista Benjamin Netanyahu a babban zaɓen da ke tafe.",
    "published_date": "Fri, 23 Oct 2026 04:05:27 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Gwamnatin Tinubu ta amince da shirin rage tsadar rayuwa",
-   "url": "https://www.bbc.co.uk/hausa/live/cqp8g57jl44zt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Alhamis 22/10/2026",
-   "published_date": "",
    "score": 0.6
   }
  ],

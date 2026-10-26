@@ -1,49 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Alibaba Stock Slips as China Renews Regulatory Pressure<!-- --> - Barron's",
-   "url": "https://www.barrons.com/articles/alibaba-stock-china-regulation-3f2d6df9",
-   "snippet": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\nBarron's\n\n# Alibaba Stock Slips as China Renews Regulatory Pressure\n\nAlibaba Group Holding stock was falling Thursday as regulatory pressures from Beijing—long the bogeyman of the Chinese tech sector—appeared to rise again. While Alibaba has recently made a successful pivot to artificial intelligence, it is still vulnerable to governmen",
-   "published": "Thu, 22 Oct 2026 16:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Alibaba Shares Post Steepest Drop in Two Months on China Curbs - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs",
-   "snippet": "# Alibaba Shares Post Steepest Drop in Two Months on China Curbs\n\nAlibaba Group Holding Ltd.’s shares suffered their steepest decline in two months as investors fretted over Chinese authorities’ push to tighten product-quality standards and strengthen consumer protection. [...] The Chinese e-commerce giant’s shares fell as much as 6% on Thursday, the most since Aug. 24. The stock was the biggest c",
-   "published": "Thu, 22 Oct 2026 03:29:46 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "More than 21 summoned in Laos drug inquiry",
-   "url": "https://globalnation.inquirer.net/342759/more-than-21-summoned-in-laos-drug-inquiry",
-   "snippet": "MANILA, Philippines — The Philippine National Police Criminal Investigation and Detection Group has subpoenaed more than 21 individuals to shed light on the",
-   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese Embassy issues fresh jabs at Philippine officials despite DFA reminder",
-   "url": "https://mb.com.ph/2026/10/20/chinese-embassy-issues-fresh-jabs-at-philippine-officials-despite-dfa-reminder",
-   "snippet": "Despite being told by the Department of Foreign Affairs (DFA) that it is “not the place of a foreign mission to publicly criticize or taunt Philippine",
-   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese envoy insists remarks were not a 'threat,' hits Philippine officials over 'smear and slander'",
-   "url": "https://mb.com.ph/2026/10/20/chinese-envoy-insists-remarks-were-not-a-threat-hits-philippine-officials-over-smear-and-slander",
-   "snippet": "Chinese Ambassador to the Philippines Jing Quan insisted that his recent remarks on China's potential use of force were not a threat, while accusing",
-   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "DFA, Chinese Embassy now at odds over latter’s social media posts",
-   "url": "https://globalnation.inquirer.net/343485/dfa-chinese-embassy-now-at-odds-over-latters-social-media-posts",
-   "snippet": "In a statement, the Department of Foreign Affairs (DFA) said diplomats were expected to act “in a manner befitting diplomatic envoys.”",
-   "published": "Fri, 23 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],
