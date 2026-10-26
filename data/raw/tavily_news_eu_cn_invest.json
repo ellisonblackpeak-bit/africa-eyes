@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Raw Material Risk Threatens Europe's Drone Race - CEPA",
+   "url": "https://cepa.org/article/raw-material-risk-threatens-europes-drone-race",
+   "snippet": "In the following years, as Northvolt faltered, Chinese investment in European battery and electric vehicle production grew rapidly, suggesting supply chain concentration not only poses a risk to industry, but can also be used as a means of strategic geopolitical leverage. [...] China’s stranglehold on the raw materials needed for drones threatens Europe’s defenses. The solution will take time it d",
+   "published": "Tue, 20 Oct 2026 15:47:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "It is just the start: Europe wants bigger deal with China. And leverage to get it",
+   "url": "https://euperspectives.eu/2026/10/eu-china-trade-deal-fairer-competition-european-parliament-inta",
+   "snippet": "Parliament hopes Brussels will soon reach a broader settlement covering other industries and investment. MEP Bernd Lange (S&D/DEU), INTA’s chair, said the EU should seek a comprehensive agreement with China soon. “Many issues remain on the table, from industrial overcapacity to access to rare earths,” he said. According to him, the EU currently faces a daily trade deficit of €1 billion with China,",
+   "published": "Fri, 23 Oct 2026 09:07:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU should revive talks on broader China trade deal, top MEP says | Euronews",
+   "url": "https://www.euronews.com/2026/10/21/eu-should-revive-talks-on-broader-china-trade-deal-top-mep-says",
+   "snippet": "## As EU lawmakers prepare to visit Beijing, the European Parliament's trade chief is calling for a broader agreement that could revive elements of a frozen investment pact and address unfair Chinese trade practices across multiple industries.\n\nThe European Union should seek a broad trade agreement with China, potentially including investment, rather than continue negotiating over individual secto",
+   "published": "Wed, 21 Oct 2026 15:16:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU’s China problem is a competitiveness crisis – GIS Reports",
+   "url": "https://www.gisreportsonline.com/r/europe-china-competitiveness-crisis",
+   "snippet": "Chinese household demand remains weak, domestic price competition persists and firms seek growth through exports and foreign investment. Europe applies targeted trade defense but does not complete its market or solve its scale-up problem. Chinese companies localize final assembly in Europe where necessary while retaining important design, component and supplier advantages in China. [...] The favor",
+   "published": "Tue, 20 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opinion | Europe still has no clear goal on China | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3371543/europe-still-has-no-clear-goal-china",
+   "snippet": "China has built its European policy around this vacuum. Its method rewards patience: apply pressure, wait for Brussels to react, then offer tiny concessions on Beijing’s terms. European leaders present new instruments as proof of control, while Beijing files each one as information on Europe’s pain threshold. China knows Europe’s price better than Brussels does. [...] This month alone, Europe has ",
+   "published": "Thu, 22 Oct 2026 12:30:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Licensable video: France: China-Europe cooperation takes center stage at Paris economic forum",
+   "url": "https://www.reutersconnect.com/item/france-china-europe-cooperation-takes-center-stage-at-paris-economic-forum/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExOTg2NTQ",
+   "snippet": "【Voice_over】 There's plenty to talk about here in Paris. Where to invest, what to invest in. And who to partner with. Economist Ni Jincheng says Europe's",
+   "published": "Thu, 22 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What the EU–China trade deal means for Asia | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/26/what-the-eu-china-trade-deal-means-for-asia",
+   "snippet": "In this week’s lead article, Alicia García-Herrero argues that increased EU protectionism in the form of trade instruments capable of rapidly shutting down entire sectors of Chinese trade to Europe would ‘change the calculus’ for Asian governments. Increasing volumes of redirected Chinese exports to Asia would heighten competition for competing Asian exporters. Scrutiny on Chinese manufacturing in",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China and the EU could turn Morocco into a surprise global hub for electric vehicles | ODI: Think change",
+   "url": "https://odi.org/en/insights/china-and-the-eu-could-turn-morocco-into-a-surprise-global-hub-for-electric-vehicles",
+   "snippet": "Chinese firms producing cars in Morocco avoid exposure to those EU tariffs, and have announced US$6 billion (£4.5 billion)of investment in battery and electric car component plants in the country.\n\nAs a production base, Morocco has plenty of other advantages too. Its deep-water port in Tangier is the largest in Africa and the Mediterranean. It is also surrounded by state-sponsored industrial zones",
+   "published": "Fri, 23 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU: Too much politics in the debate on China • Table.Briefings",
+   "url": "https://table.media/en/china/opinion/eu-too-much-politics-in-the-debate-on-china",
+   "snippet": "China.Table   Opinion   Industrial policy\n\n# EU: Too much politics in the debate on China\n\nChinese capital and technological expertise could support Europe’s industrial renewal. Europe’s policy toward China should evaluate such opportunities based on their contribution to Europe’s own competitiveness and social prosperity.\n\nRR\n\nRené Ruschmeier\n\n20. October 2026\n\nRecipients need a subscription to r",
+   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_invest",
  "_query": "Chinese investment Europe",
  "_domains": [],

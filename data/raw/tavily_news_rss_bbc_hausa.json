@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Ballon d'Or 2026: Ko Kane zai zama na farko daga Ingila bayan shekara 25?",
+   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Yadda bidiyon ƴan agajin Izala ya tayar da ƙura a Najeriya",
    "url": "https://www.bbc.com/hausa/articles/cme8rwn469zlo?at_medium=RSS&at_campaign=rss",
    "content": "A cikin bidiyon, an ga matasan suna fareti tare da furta wasu kalamai a salon waƙa, waɗanda suka sa wasu 'yan Najeriya nuna fargabar cewa za su iya \"haddasa tarzoma\".",
@@ -37,13 +44,6 @@
    "score": 0.6
   },
   {
-   "title": "Wane ne zai lashe Ballon d'Or a bana?",
-   "url": "https://www.bbc.com/hausa/articles/cmdx3wle3wwdo?at_medium=RSS&at_campaign=rss",
-   "content": "Kyautar Ballon d'Or ita ce mafi girma ga dan wasan kwallon kafa a duniya - kuma kishirwar lashe gasar bana sai kara zafi take, fiye da wadanda aka yi a baya.",
-   "published_date": "Mon, 26 Oct 2026 09:03:35 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Ko Kwankwaso zai raba ƙuri'ar Atiku a jihohin Arewa?",
    "url": "https://www.bbc.com/hausa/articles/cqj34vrkpzjko?at_medium=RSS&at_campaign=rss",
    "content": "A zaɓen 2023, Atiku Abubakar na PDP da Rabiu Musa Kwankwaso na NNPP sun yi gogayya wajen neman goyon bayan masu kaɗa ƙuri'a a jihohin Arewa.",
@@ -65,10 +65,10 @@
    "score": 0.6
   },
   {
-   "title": "Watakila Howe ko Nagelsmann zai maye gurbin Carrick a United",
-   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
-   "published_date": "",
+   "title": "Wane ne zai lashe Ballon d'Or a bana?",
+   "url": "https://www.bbc.com/hausa/articles/cmdx3wle3wwdo?at_medium=RSS&at_campaign=rss",
+   "content": "Kyautar Ballon d'Or ita ce mafi girma ga dan wasan kwallon kafa a duniya - kuma kishirwar lashe gasar bana sai kara zafi take, fiye da wadanda aka yi a baya.",
+   "published_date": "Mon, 26 Oct 2026 09:03:35 GMT",
    "score": 0.6
   },
   {

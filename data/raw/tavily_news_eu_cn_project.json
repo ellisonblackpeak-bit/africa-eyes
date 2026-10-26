@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese carmakers outsell Japanese rivals in Europe for the first time - Los Angeles Times",
+   "url": "https://www.latimes.com/business/story/2026-10-26/chinese-carmakers-outsell-japanese-rivals-in-europe-for-first-time",
+   "snippet": "# Chinese carmakers outsell Japanese rivals in Europe for the first time. Chinese automakers outsold Japanese rivals in Europe for the first time over a full quarter, underscoring how quickly brands like BYD Co. and Chery Automobile Co. are gaining ground in the region. Registrations of Chinese-branded cars roughly doubled from a year earlier in the three months through September to make up 12.7% ",
+   "published": "Mon, 26 Oct 2026 17:32:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Automakers Face Dilemma As Chinese Rival Eyes American Factories - CarBuzz",
+   "url": "https://carbuzz.com/chinese-brand-chery-us-auto-partnership-october-2026/",
+   "snippet": "At CarBuzz, he's returned to his roots: a reporter seeking out news and trends and telling stories, but with more experience. It's a question that keeps nagging the US auto industry: Will the door open for Chinese-built vehicles to be sold in the US, or will Chinese automakers be allowed within American borders to build vehicles with domestic partners? What Chinese automakers really want is to exp",
+   "published": "Fri, 23 Oct 2026 22:30:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese wind turbine maker builds European firewall from Beijing - Financial Times",
+   "url": "https://www.ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1",
+   "snippet": "# Chinese wind turbine maker builds European firewall from Beijing. ## Save 40% on Standard Digital. was MX$11988 now MX$7175 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October. ## Explore more offers. ### Trial. Then MX$1475 per month. Complete digital access with exclusive insights a",
+   "published": "Mon, 26 Oct 2026 05:00:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Leapmotor International wins Europrivacy certification - Automotive World",
+   "url": "https://www.automotiveworld.com/news/leapmotor-international-wins-europrivacy-certification/",
+   "snippet": "Home › News › Leapmotor International wins Europrivacy certification. “Our goal is to help stakeholders understand the future of mobility.”. Leapmotor International wins Europrivacy certification. A Chinese-linked carmaker leading on EU privacy credentials is notable as scrutiny of connected vehicle data from China intensifies. Leapmotor International, the Stellantis-Leapmotor joint venture that s",
+   "published": "Mon, 26 Oct 2026 15:59:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Interview with Arthur D. Little consultant: Europe emerging as battleground for global robotaxi race - Robotics & Automation News",
+   "url": "https://roboticsandautomationnews.com/2026/10/26/interview-with-arthur-d-little-consultant-europe-emerging-as-battleground-for-global-robotaxi-race/106309/",
+   "snippet": "**Europe is rapidly becoming one of the most closely watched regions in the global robotaxi race, as autonomous-driving companies from China and the West increasingly target the same cities for commercial expansion.**. Little, argues that Europe may become one of the few large markets where Chinese and Western robotaxi companies compete directly. Germany has an early national framework for Level 4",
+   "published": "Mon, 26 Oct 2026 09:36:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese firm invests $100m in beverage can factory at Kaliakoir Hi-Tech Park - The Business Standard",
+   "url": "https://www.tbsnews.net/economy/industry/chinese-firm-invests-100m-beverage-can-factory-kaliakoir-hi-tech-park-1581271",
+   "snippet": "## The factory is expected to produce 100 crore beverage cans yearly, supplying the remainder to the domestic market, according to the company’s Managing Director Yuan Dingyan. **Chinese company Alu Hi-Tech Industries Ltd is investing $100 million to establish a beverage can manufacturing plant at Kaliakoir Hi-Tech Park in Gazipur, with plans to export around 90% of its annual output.**. The compa",
+   "published": "Sat, 24 Oct 2026 01:25:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump: Audi to invest $4.2B for US auto plant - The Manila Times",
+   "url": "https://www.manilatimes.net/2026/10/26/business/foreign-business/trump-audi-to-invest-42b-for-us-auto-plant/2453532",
+   "snippet": "Trump: Audi to invest $4.2B for US auto plant. WASHINGTON, United States — US President Donald Trump announced on Saturday (Sunday in Manila) that German automaker Audi planned to invest $4.2 billion to build its first factory in the United States, 10 days before midterm elections. “I’m thrilled to announce a massive auto manufacturing investment in the great state of Georgia by a fantastic compan",
+   "published": "Sun, 25 Oct 2026 16:05:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Schaeffler opens lighthouse factory in Taicang where ‘humanoids will make humanoids’ - Robotics & Automation News",
+   "url": "https://roboticsandautomationnews.com/2026/10/26/schaeffler-opens-lighthouse-factory-in-taicang-where-humanoids-will-make-humanoids/106303/",
+   "snippet": "**Motion technology company Schaeffler has opened a state-of-the-art lighthouse factory for humanoid robotics in Taicang, China. The building covers the entire process from testing of individual robot skills to application in the actual manufacturing environment, showing what “humanoids making humanoids” looks like in practice: humanoid robots assembling key joint modules – including actuators – f",
+   "published": "Mon, 26 Oct 2026 06:42:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "LG ELECTRONICS ACCELERATES COMMERCIAL LAUNDRY GROWTH IN EUROPE AT EXPODETERGO INTERNATIONAL 2026 – Company Announcement - FT.com - Financial Times",
+   "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610252100PR_NEWS_EURO_ND__EN80410-1",
+   "snippet": "Full Commercial Laundry Lineup and Connected Management Solutions Advance LG's European B2B Expansion. At this year's exhibition, LG is presenting a portfolio spanning semi-commercial and professional models, alongside connected management solutions. The expanded lineup marks a step in LG's efforts to build on its semi-commercial business and broaden its presence in the professional laundry market",
+   "published": "Mon, 26 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Saudi Arabia builds ballistic missile factory ᐉ News from Fakti.bg - World - Fakti.bg",
+   "url": "https://fakti.bg/en/world/1094109-sauditska-arabia-izgrajda-zavod-za-balistichni-raketi",
+   "snippet": "## The facility near al-Duadami could produce the Chinese DF-15A with a range of up to 900 kilometers, Riyadh and Beijing have not commented on the alleged cooperation. Saudi Arabia is building a facility that could be a ballistic missile factory, about 200 kilometers west of Riyadh. According to Defense News, analysts assume that the new infrastructure may be designed for larger solid-fuel missil",
+   "published": "Mon, 26 Oct 2026 14:27:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "CHINESE TOURISTS ARE FREQUENT TARGETS FOR PICKPOCKETS IN EUROPE - Tourism Review News",
+   "url": "https://www.tourism-review.com/chinese-tourists-become-an-easy-target-for-european-pickpockets-news15681",
+   "snippet": "3. CHINESE TOURISTS ARE FREQUENT TARGETS FOR PICKPOCKETS IN EUROPE. But if you ask the Chinese tourists who “conquered Europe” during this year’s National Day holiday what impressed them most, aside from the scenery and food, many of them would say that they main concern was not to get robbed.*. **Even if you have a celebrity’s retinue, you are likely to experience the same level of difficulty as ",
+   "published": "Sun, 25 Oct 2026 14:50:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Yue Yuen Group Issues Profit Warning, First Three Quarters Net Profit Estimated to Halve by More Than 50% - BigGo Finance",
+   "url": "https://finance.biggo.com/news/f6c2b6c7-6e20-480b-baf9-df155a0ea87b",
+   "snippet": "Yue Yuen Group (00551.HK) issued a profit warning on October 26, estimating that profit attributable to owners of the company for the first three quarters of 2026 will decline by 50% to 55% compared with approximately $279 million in the same period of 2025. The main reasons are that the manufacturing business faces weak demand, tariff policy and inflation risks, brand customers have turned more c",
+   "published": "Mon, 26 Oct 2026 09:25:11 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

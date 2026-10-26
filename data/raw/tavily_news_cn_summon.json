@@ -2,45 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "The Office of the Consumer Protection Board (OCPB) is ...",
-   "url": "https://www.facebook.com/nbtworld/posts/the-office-of-the-consumer-protection-board-ocpb-is-investigating-a-language-ins/1533981372099321",
-   "snippet": "The agency summoned the company on October 20 to provide an explanation. If ... The 20 guides were asked by the Chinese company to pay money in advance",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Honduras targets Chinese shops and state builder as president sits on Taiwan pledge | South China Morning Post",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3371425/honduras-targets-chinese-shops-and-state-builder-president-sits-taiwan-pledge",
-   "snippet": "Honduran migration officials have summoned or placed under review 41 Chinese nationals after inspecting shops in the capital and a hospital being built by a state-owned contractor from China in the south of the country.\n\nTeams from the National Migration Institute, working with police and intelligence officers, interviewed 86 Chinese citizens at 54 shops in Comayaguela, Tegucigalpa’s twin city and",
-   "published": "Mon, 19 Oct 2026 19:43:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Senadora Denied Entry by Chinese Company in Peru",
-   "url": "https://www.facebook.com/usembassyperu/videos/they-denied-entry-to-a-senator-who-was-demanding-answers-for-her-region-do-chine/1108943465323919",
-   "snippet": "After being denied entry to the site, she announces plans to file criminal complaints for obstruction and to summon the Regional Governor of Amazonas and",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from Wall Street in less than 2 hours, from all civilian agency IT systems - The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-chinese-ai-company-deepseek-that-had-wiped-more-than-1-trillion-from-wall-street-in-less-than-2-hours-from-all-civilian-agency-it-systems/articleshow/135060478.cms",
-   "snippet": "US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from Wall Street in less than 2 hours, from all civilian agency IT systems [...] Edition\n\nIN\n\n IN\n US\n UK\n GCC\n\nEnglish\n\n English\n हिन्दी\n मराठी\n ಕನ್ನಡ\n தமிழ்\n বাংলা\n മലയാളം\n తెలుగు\n ગુજરાતી\n\nTOI logo\n\nSign In\n\nToday's ePaper\n\nLive\n\n News\n Technology News\n Tech News\n US government bans Chinese AI company DeepSeek t",
-   "published": "Tue, 20 Oct 2026 03:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Alibaba Stock Slips as China Renews Regulatory Pressure<!-- --> - Barron's",
    "url": "https://www.barrons.com/articles/alibaba-stock-china-regulation-3f2d6df9",
    "snippet": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\nBarron's\n\n# Alibaba Stock Slips as China Renews Regulatory Pressure\n\nAlibaba Group Holding stock was falling Thursday as regulatory pressures from Beijing—long the bogeyman of the Chinese tech sector—appeared to rise again. While Alibaba has recently made a successful pivot to artificial intelligence, it is still vulnerable to governmen",
    "published": "Thu, 22 Oct 2026 16:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US bars Chinese AI tool DeepSeek from federal civilian agency networks - TRT World",
-   "url": "https://www.trtworld.com/article/d59bfd047f3c",
-   "snippet": "“DeepSeek's models present multiple threat vectors,” James Percival, general counsel of the US Department of Homeland Security, said in a directive on Monday.\n\nPercival warned that the company's servers operate in China, where domestic legislation “permits extensive authority to government cyber and intelligence functions to access private company infrastructure”. [...] “China has consistently opp",
-   "published": "Tue, 20 Oct 2026 10:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -51,10 +16,31 @@
    "source": "tavily"
   },
   {
-   "title": "China defends DeepSeek after US ban of its AI from ...",
-   "url": "https://www.stamfordadvocate.com/news/world/article/china-defends-deepseek-after-us-ban-of-its-ai-22484988.php",
-   "snippet": "China has criticized a U.S. ban on AI startup DeepSeek for federal civilian agencies and is warning of possible retaliatory measures, highlighting tensions",
-   "published": "Tue, 20 Oct 2026 17:00:00 GMT",
+   "title": "More than 21 summoned in Laos drug inquiry",
+   "url": "https://globalnation.inquirer.net/342759/more-than-21-summoned-in-laos-drug-inquiry",
+   "snippet": "MANILA, Philippines — The Philippine National Police Criminal Investigation and Detection Group has subpoenaed more than 21 individuals to shed light on the",
+   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Embassy issues fresh jabs at Philippine officials despite DFA reminder",
+   "url": "https://mb.com.ph/2026/10/20/chinese-embassy-issues-fresh-jabs-at-philippine-officials-despite-dfa-reminder",
+   "snippet": "Despite being told by the Department of Foreign Affairs (DFA) that it is “not the place of a foreign mission to publicly criticize or taunt Philippine",
+   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese envoy insists remarks were not a 'threat,' hits Philippine officials over 'smear and slander'",
+   "url": "https://mb.com.ph/2026/10/20/chinese-envoy-insists-remarks-were-not-a-threat-hits-philippine-officials-over-smear-and-slander",
+   "snippet": "Chinese Ambassador to the Philippines Jing Quan insisted that his recent remarks on China's potential use of force were not a threat, while accusing",
+   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DFA, Chinese Embassy now at odds over latter’s social media posts",
+   "url": "https://globalnation.inquirer.net/343485/dfa-chinese-embassy-now-at-odds-over-latters-social-media-posts",
+   "snippet": "In a statement, the Department of Foreign Affairs (DFA) said diplomats were expected to act “in a manner befitting diplomatic envoys.”",
+   "published": "Fri, 23 Oct 2026 20:00:00 GMT",
    "source": "tavily"
   }
  ],

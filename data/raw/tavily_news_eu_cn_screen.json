@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Investment screening reshapes rather than shrinks foreign investment | CEPR",
+   "url": "https://cepr.org/voxeu/columns/investment-screening-reshapes-rather-shrinks-foreign-investment",
+   "snippet": "The EU is not alone. Screening foreign investment has been increasingly implemented across advanced economies (OECD 2025). Existing studies show that the introduction of screening and its restrictiveness are associated with exposure to Chinese investment and geopolitical alignment with the US (Bauerle Danzman and Meunier 2023, Bencivelli et al. 2023). Screening is part of a broader shift towards g",
+   "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Publishes Sixth Annual Report on the Screening of Foreign Direct Investments",
+   "url": "https://research.hktdc.com/en/article/MjQ2MjUwMDM4Mg",
+   "snippet": "20265-7 Nov Hong Kong 05.11.2026 - 07.11.2026 HKTDC Hong Kong International Wine and Spirits Fair 2026 (HKCEC)5-10 Nov Chinese Mainland 05.11.2026 - 10.11.2026 The 9th China International Import Expo (CIIE) Hong Kong Food Pavilion10-13 Nov Singapore 10.11.2026 - 13.11.2026 Hong Kong Jewellery Mission to Singapore 202610-13 Nov Germany 10.11.2026 - 13.11.2026 electronica 202611 Nov Hong Kong 11.11.",
+   "published": "Wed, 21 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Expands Its Arctic Footprint! EU foreign policy chief ...",
+   "url": "https://www.facebook.com/eudebates.tv/posts/china-expands-its-arctic-footprint-eu-foreign-policy-chief-kaja-kallas-delivers-/1908680746771158",
+   "snippet": "Speaking at a European Commission press conference, Kallas calls for closer scrutiny of Beijing's investments in strategically important Arctic infrastructure.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Chasing China: How should the UK and EU respond to China’s competitive threat?",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/chasing-china-how-should-uk-and-eu-respond-chinas-competitive-threat",
+   "snippet": "How should the UK and EU respond to China’s technological and industrial prowess?\n Which sectors face the greatest competitive pressure from China?\n How can research security be strengthened while maintaining international collaboration?\n What balance should governments strike between openness, resilience and national security?\n Where should the UK and EU align on industrial policy and investment ",
+   "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Policy Briefs",
+   "url": "https://www.bruegel.org/publications/policy-briefs?page=9%2C0",
+   "snippet": "Sovereign debt will be vital in stimulating sustainable investment, but information is lacking on how green public spending actually is.\n\nAlexander Lehmann and Marta Domínguez-Jiménez\n\nPolicy Brief\n\n13 April 2021\n\n## Is the European Union’s investment agreement with China underrated?\n\nThe European Union-China Comprehensive Agreement on Investment binds Chinese liberalisation of its foreign investm",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "State intervention powers in bank M&As - European Parliament",
+   "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2026/784069/ECTI_STU(2026)784069_EN.pdf",
+   "snippet": "in case of problematic foreign interference through these channels – that are now under the minimum mandatory screening scope of all EU Member States. Moreover, the scope is further extended to the screening of foreign investments made between Member States that are carried out through an undertaking that is established in a Member State and that is controlled, directly or indirectly, by a foreign",
+   "published": "Mon, 26 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The EU is planning to use safeguard measures to cut ...",
+   "url": "https://www.facebook.com/bloombergbusiness/videos/the-eu-is-planning-to-use-safeguard-measures-to-cut-imports-of-products-from-sec/1668355681556043",
+   "snippet": "European Union (EU) is planning to impose new import tariffs on China to cut the flow of chemicals, furniture, and machinery.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Euronews English",
+   "url": "https://www.facebook.com/euronews/posts/as-eu-lawmakers-prepare-to-visit-beijing-the-european-parliaments-trade-chief-is/1498894998952492",
+   "snippet": "I sincerely hope that the European Parliament’s visit to Beijing will open the door to meaningful progress on fair trade, reciprocal market access, investment protection, and equal opportunities for businesses across all industries. A successful agreement must respect international trade rules, address unfair practices, protect European industries, and create opportunities for responsible investme",
+   "published": "Wed, 21 Oct 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe must wake up to the China trade gap",
+   "url": "https://www.eppgroup.eu/newsroom/europe-must-wake-up-to-the-china-trade-gap",
+   "snippet": "Europe must wake up to the China trade gap\n\nYour browser's privacy settings appear to be blocking this content from being displayed. Please review your privacy and tracking protection settings to enable this service. For more information, visit:\n\nFirefox Tracking Protection\n\nMy Country: Select\n\nSelect a country.\n\nSelect your country to follow your local MEPs' news: [...] Austria  Belgium  Bulgaria",
+   "published": "Wed, 21 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU-China Trade & Economic Security: Q&A - CKGSB Knowledge",
+   "url": "https://english.ckgsb.edu.cn/knowledge?post_type=article&p=12940",
+   "snippet": "You’ve already read 3 articles on CKGSB Knowledge. Why not sign up to our monthly newsletter to receive our latest articles, reports and news updates?\n\n## Article Subscribe\n\nManage Consent [...] Inside Chinese business.  \nCase studies, analysis and interviews.\n\nSite Logo\n\nCKGSB logo\n\nCKGSB website\n\n    \n\n \n\n\n\n## CKGSB Report\n\n\n\nChinese international students study abroad trends   \n\n26 May 2026\n\n##",
+   "published": "Fri, 23 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_screen",
  "_query": "EU foreign investment screening China",
  "_domains": [],
