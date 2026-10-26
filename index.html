@@ -853,7 +853,7 @@ if("serviceWorker" in navigator){
   var CNAMES = {
     ng:'尼日利亚', ne:'尼日尔', ml:'马里', gh:'加纳', wa:'西非区域', af:'非洲',
     kr:'朝鲜/韩国', ph:'菲律宾', mm:'缅甸', ru:'俄罗斯', in:'印度',
-    np:'尼泊尔', vn:'越南', la:'老挝'
+    np:'尼泊尔', vn:'越南', la:'老挝', eu:'欧洲'
   };
 
   /* ── search: Chinese country names, and 尼日尔 vs 尼日利亚 ──
@@ -883,13 +883,15 @@ if("serviceWorker" in navigator){
     ['菲律宾','ph'], ['缅甸','mm'], ['俄罗斯','ru'],
     ['印度尼西亚',null], ['印度','in'],
     ['尼泊尔','np'], ['越南','vn'], ['老挝','la'],
+    ['欧洲','eu'], ['欧盟','eu'],
     ['nigeria','ng'], ['nigerian','ng'], ['niger state','ng'],
     ['niger delta','ng'], ['niger','ne'],
     ['indonesia',null], ['mali','ml'], ['ghana','gh'],
     ['north korea','kr'], ['south korea','kr'], ['korea','kr'],
     ['philippines','ph'], ['myanmar','mm'], ['burma','mm'],
     ['russia','ru'], ['india','in'], ['nepal','np'],
-    ['vietnam','vn'], ['laos','la']
+    ['vietnam','vn'], ['laos','la'],
+    ['europe','eu'], ['eu','eu'], ['brussels','eu']
   ];
   CTY_ALIAS.sort(function(a,b){ return b[0].length - a[0].length; });
 
@@ -916,6 +918,12 @@ if("serviceWorker" in navigator){
        usa          — items matching the US-builders (US_RX)                      */
   var AFRICA_CTYS = ['ng','ne','ml','gh'];
   var PERIPHERY_CTYS = ['kr','ph','mm','ru','in','np','vn','la'];
+  /* Europe is ONE code, not twenty. The page is mobile-first and already carries
+     twelve country chips; a chip per member state would bury the filter bar, and
+     the outlet name on each card already tells the reader which country it is.
+     build_data assigns `eu` from state/institution names, from the case-sensitive
+     abbreviation EU, and from Europe-desk domains. */
+  var EU_CTYS = ['eu'];
   /* China / US regexes mirror the classification in build_data.py so the page
      can decide the module without round-tripping through the server. The two
      critical gotchas (re.X skips literal spaces; \b…\b needs explicit chars) are
@@ -941,6 +949,7 @@ if("serviceWorker" in navigator){
     if(mod==='us')       return us;
     if(mod==='africa')   return c.some(function(x){return AFRICA_CTYS.indexOf(x)>=0;});
     if(mod==='periphery')return c.some(function(x){return PERIPHERY_CTYS.indexOf(x)>=0;});
+    if(mod==='eu')       return c.some(function(x){return EU_CTYS.indexOf(x)>=0;});
     return false;
   }
 
@@ -987,7 +996,8 @@ if("serviceWorker" in navigator){
     china:     ['涉华主体：中国人 / 企业 / 项目', '其他涉华相关'],
     us:        ['美国 × 尼日利亚·尼日尔·马里·加纳', '美国其他活动'],
     africa:    ['涉华主体 + 美方负面动作', '其他动态'],
-    periphery: ['涉华 / 涉美互动', '其他动态']
+    periphery: ['涉华 / 涉美互动', '其他动态'],
+    eu:        ['涉华 / 涉美 / 涉周边互动', '其他欧洲相关']
   };
   /* Only headline + summary text is scored. Scanning the full body would let a
      single passing mention inside a long article promote a story that is not
@@ -1010,6 +1020,16 @@ if("serviceWorker" in navigator){
     if(mod==='us')        return (usTtl && af && !digest && !soft) ? 0 : 1;
     if(mod==='africa')    return (!digest && (cnSubj || (usTtl && (US_MOVE_RX.test(s) || US_MOVE_ZH_RX.test(s))))) ? 0 : 1;
     if(mod==='periphery') return (!digest && !soft && (cnSubj || usTtl)) ? 0 : 1;
+    /* Europe: ① European China business, ② EU policy aimed at Chinese firms,
+       ③ Europe × US, ④ Europe × China's neighbours. The first two are the
+       reader's primary interest, so a Chinese subject ranks above a US
+       relationship, which in turn ranks above a neighbour relationship. */
+    if(mod==='eu'){
+      if(digest || soft) return 1;
+      if(cnSubj) return 0;
+      if(usTtl) return 0;
+      return 1;
+    }
     return 0;
   }
   /* Orders a module feed. Falls back to the two legacy modes when the reader
@@ -1072,10 +1092,10 @@ if("serviceWorker" in navigator){
     document.getElementById('stats').innerHTML = st.map(function(x){
       return '<div class="stat"><b>'+counts[x[0]]+'</b><span>'+x[1]+'</span></div>';}).join('');
     document.getElementById('scope').innerHTML =
-      '涉华 · 涉美 · 非洲四国 · 中国周边　｜　政治 · 经济 · 安全 · 能源 · 矿产'
+      '涉华 · 涉美 · 非洲四国 · 中国周边 · 欧洲　｜　政治 · 经济 · 国防 · 安全 · 能源 · 矿产 · 战略通道'
       + '<br><span class="fresh">'+esc(freshText())+'</span>';
     var TABS=[['overview','概览'],['china','涉华'],['us','涉美'],
-              ['africa','非洲四国'],['periphery','周边国家'],
+              ['africa','非洲四国'],['periphery','周边国家'],['eu','欧洲'],
               ['people','人员索引'],['sources','信源']];
     document.getElementById('tabs').innerHTML = TABS.map(function(t){
       var n = t[0]==='news'?(D.news||[]).length : t[0]==='social'?(D.social||[]).length
@@ -1464,7 +1484,8 @@ if("serviceWorker" in navigator){
       var _o2=ordered((D.news||[]).filter(function(x){return x.tier===2;})).slice(0,6);
       var _o3=ordered((D.news||[]).filter(function(x){return (x.country||[]).some(function(c){return AFRICA_CTYS.indexOf(c)>=0;});})).slice(0,6);
       var _o4=ordered((D.news||[]).filter(function(x){return (x.country||[]).some(function(c){return PERIPHERY_CTYS.indexOf(c)>=0;});})).slice(0,6);
-      var _ovAll=_o1.concat(_o2,_o3,_o4);
+      var _o5=ordered((D.news||[]).filter(function(x){return (x.country||[]).some(function(c){return EU_CTYS.indexOf(c)>=0;});})).slice(0,6);
+      var _ovAll=_o1.concat(_o2,_o3,_o4,_o5);
       h+='<div class="callout"><h4>本期要点</h4><ul>'
         +((D.highlights||[]).map(function(x){return '<li>'+esc(x)+'</li>';}).join('')
           ||'<li>本期要点待生成。</li>')+'</ul></div>'
@@ -1478,14 +1499,16 @@ if("serviceWorker" in navigator){
       h+=_o3.map(cardNews).join('')||'<div class="empty">本批近 3 日内没有非洲四国报道。</div>';
       h+='<div class="sec-title">中国周边国家 · 最新 6 条</div>';
       h+=_o4.map(cardNews).join('')||'<div class="empty">本批近 3 日内没有周边国家报道。</div>';
-      h+='<div class="note grey" style="margin-top:12px">完整清单请切换上方 4 个模块标签（涉华 / 涉美 / 非洲四国 / 周边国家）。每个模块都支持国家、领域、层级筛选与关键词搜索。</div>';
+      h+='<div class="sec-title">欧洲国家 · 最新 6 条</div>';
+      h+=_o5.map(cardNews).join('')||'<div class="empty">本批近 3 日内没有欧洲相关报道。</div>';
+      h+='<div class="note grey" style="margin-top:12px">完整清单请切换上方 5 个模块标签（涉华 / 涉美 / 非洲四国 / 周边国家 / 欧洲）。每个模块都支持国家、领域、层级筛选与关键词搜索。</div>';
       V.innerHTML=h;
       bindListen(_ovAll);
       return;
     }
     /* The four axis modules: 涉华 / 涉美 / 非洲四国 / 周边国家.
        Each module is a unified news + social feed filtered by its axis. */
-    if(state.view==='china' || state.view==='us' || state.view==='africa' || state.view==='periphery'){
+    if(state.view==='china' || state.view==='us' || state.view==='africa' || state.view==='periphery' || state.view==='eu'){
       var mod = state.view;
       var inModAll = (D.news||[]).concat(D.social||[]).filter(function(it){return inModule(it,mod);});
       var pool = inModAll;
@@ -1493,11 +1516,12 @@ if("serviceWorker" in navigator){
       var socFiltered  = (D.social||[]).filter(function(it){return inModule(it,mod) && match(it);});
       var newsInMod    = (D.news||[]).filter(function(it){return inModule(it,mod);});
       var socInMod     = (D.social||[]).filter(function(it){return inModule(it,mod);});
-      var moduleLabel  = {'china':'涉华动态','us':'涉美动态','africa':'非洲四国','periphery':'周边国家'}[mod];
-      var moduleNote   = {'china':'涉及中国人、中国企业或中国项目的报道与社交动态，跨全部 12 个监测国。',
+      var moduleLabel  = {'china':'涉华动态','us':'涉美动态','africa':'非洲四国','periphery':'周边国家','eu':'欧洲国家'}[mod];
+      var moduleNote   = {'china':'涉及中国人、中国企业或中国项目的报道与社交动态，跨全部监测国家。',
                           'us':'涉及美国在监测区域活动的报道与社交动态（政府、军方、企业、援助机构）。',
                           'africa':'发生在尼日利亚、尼日尔、马里、加纳的报道与社交动态，含各政府、中国、美国、恐怖组织及其他各方。',
-                          'periphery':'发生在中国周边国家（朝鲜/韩国、菲律宾、缅甸、俄罗斯、印度、尼泊尔、越南、老挝）的报道与社交动态。'}[mod];
+                          'periphery':'发生在中国周边国家（朝鲜/韩国、菲律宾、缅甸、俄罗斯、印度、尼泊尔、越南、老挝）的报道与社交动态。',
+                          'eu':'欧洲国家与欧盟的报道与社交动态，只收四类：涉中国人/中企/中国项目；欧盟及成员国针对中企中国项目的政策与倡议；欧洲与美国的政治经济军事能源矿产互动；欧洲与中国周边国家的互动。'}[mod];
       var unifiedCard = function(it){ return it.platform ? cardSocial(it) : cardNews(it); };
       /* Per-module priority ordering (see rankOf). Within each rank the feed is
          newest-first, so the reader's "最新排最前" rule still applies. */
@@ -1507,7 +1531,8 @@ if("serviceWorker" in navigator){
       var prioHint = {'china':'涉华主体优先：中国人、中国企业、中国项目在前，其他涉华报道在后。',
                       'us':'美国 × 尼日利亚·尼日尔·马里·加纳的互动在前，美国在其他方向的活动在后。',
                       'africa':'涉华主体、以及美方在四国可能带来负面影响的「小动作」在前，其余在后。',
-                      'periphery':'涉华、涉美的互动在前，其余周边动态在后。'}[mod];
+                      'periphery':'涉华、涉美的互动在前，其余周边动态在后。',
+                      'eu':'涉华主体（含欧盟针对中企的政策）在前，涉美与涉周边国家的互动在后。'}[mod];
       var section = '<div class="sec-title">'+moduleLabel+'　·　'+newsFiltered.length+' 条新闻 + '+socFiltered.length+' 条动态'
         +(prioN?'　·　<span style="color:var(--accent2)">优先 '+prioN+' 条</span>':'')+'</div>'
         + '<div class="note grey">'+moduleNote+'</div>'
@@ -1531,7 +1556,7 @@ if("serviceWorker" in navigator){
           var hay=[p.name,p.role,p.org,p.basis,p.contact,p.roleHint,(p.profiles||[]).map(function(q){return q.handle;}).join(' ')].join(' ').toLowerCase();
           if(hay.indexOf(state.q.toLowerCase())<0) return false;}
         return true;});
-      var all12 = AFRICA_CTYS.concat(PERIPHERY_CTYS);
+      var all12 = AFRICA_CTYS.concat(PERIPHERY_CTYS, EU_CTYS);
       var hh='<div class="filters"><span class="chip'+(state.cty==='all'?' on':'')+' data-k="cty" data-v="all">全部国家<span class="c">'+all.length+'</span></span>';
       all12.forEach(function(c){
         var n=all.filter(function(p){return (p.country||[]).indexOf(c)>=0;}).length;

@@ -31,3 +31,9 @@ zh_batch*.json
 zh_daily.json
 _check.js
 _fetch_news_quick.py
+
+# local backups / probe scratch
+.bak/
+_sim_*.py
+_measure_*.py
+_probe_*.py

@@ -260,6 +260,36 @@ PLAN = [
     ("gh_extra", "Ghana latest news", [], 10),
     ("ne_extra", "Niger latest news", [], 10),
     ("ml_extra", "Mali latest news", [], 10),
+    # ─── Europe module (added 2026-10-26) ──────────────────────────────────
+    # "再增加一个欧洲国家模块" with four required angles. One angle per angle,
+    # short form, no domain restriction — the measured rule at the top of this
+    # list applies here too. The queries are phrased the way the wire writes
+    # them ("Chinese investment Hungary", not "Europe China investment
+    # cooperation initiative"), because a long abstract query returns 0.
+    #
+    # ① European countries' own China business
+    ("eu_cn_invest", "Chinese investment Europe", [], 12),
+    ("eu_cn_project", "Chinese company Europe factory", [], 12),
+    ("eu_cn_port", "Chinese port Europe", [], 10),
+    # ② EU / member-state policy aimed at Chinese firms
+    ("eu_cn_policy", "EU China tariffs", [], 12),
+    ("eu_cn_screen", "EU foreign investment screening China", [], 10),
+    ("eu_cn_ev", "EU electric vehicle tariff China", [], 10),
+    ("eu_cn_rare", "Europe rare earth China", [], 10),
+    ("eu_cn_5g", "Europe Huawei 5G ban", [], 10),
+    # ③ Europe × United States
+    ("eu_us_def", "Europe US defence spending", [], 12),
+    ("eu_us_energy", "Europe US LNG energy", [], 10),
+    ("eu_us_mineral", "Europe US critical minerals", [], 10),
+    ("eu_us_nato", "NATO Europe US troops", [], 10),
+    # ④ Europe × China's neighbours
+    ("eu_jp", "EU Japan defence cooperation", [], 10),
+    ("eu_kr", "Europe South Korea defence", [], 10),
+    ("eu_in", "EU India trade", [], 10),
+    ("eu_vn", "EU Vietnam investment", [], 10),
+    ("eu_ph", "EU Philippines security", [], 8),
+    ("eu_mm", "EU Myanmar sanctions", [], 8),
+    ("eu_np", "EU Nepal China", [], 8),
 ]
 
 client = TavilyClient(api_key=KEY) if TavilyClient else None
@@ -588,12 +618,14 @@ RSS_FEEDS = [
     # RSS_FEED_COUNTRY: their headlines routinely name Diffa or Zinder without
     # ever saying "Niger", and anchoring would throw those away.
     #   lesahel  — Le Sahel, the Niger state daily
-    #   airinfo  — Air Info, Niger
     #   malijet  — Malijet, Bamako (feed lives at /rss, not /feed)
     # actuniger is Joomla and answers ?feed=rss2 with the HTML homepage, so it has
     # no feed to subscribe to — it stays reachable through GDELT only.
+    # airinfo.org was tried and REMOVED the same day: it is a French travel
+    # magazine, not the Nigerien outlet the registry assumed. Its feed returned
+    # "Comparateur de vol", "Avis Finnair", "réserver le vol Paris-Montréal" —
+    # flight-shopping copy with no Niger content at all.
     ("lesahel",     "https://www.lesahel.org/feed/",                  "lesahel.org"),
-    ("airinfo",     "https://airinfo.org/feed/",                      "airinfo.org"),
     ("malijet",     "https://malijet.com/rss",                        "malijet.com"),
     # ── Local languages (added 2026-10-26) ──────────────────────────────────
     # "新闻、动态不仅英文；还要搜索下法语，非洲四国、周边国家当地语言、比如尼日尔豪萨语".
@@ -610,21 +642,65 @@ RSS_FEEDS = [
     ("bbc_pidgin",  "https://feeds.bbci.co.uk/pidgin/rss.xml",        "bbc.com"),
     ("bbc_yoruba",  "https://feeds.bbci.co.uk/yoruba/rss.xml",        "bbc.com"),
     ("bbc_igbo",    "https://feeds.bbci.co.uk/igbo/rss.xml",          "bbc.com"),
-    # Periphery in its own language: Korean, Burmese, Hindi, Nepali, Russian.
+    # ── Periphery in its own language ───────────────────────────────────────
     # The English feeds above cover these countries through an English lens;
     # domestic-language copy carries the defence/procurement/border detail that
     # never gets translated for a foreign audience.
-    ("bbc_korean",  "https://feeds.bbci.co.uk/korean/rss.xml",        "bbc.com"),
+    #
+    # ⚠ MEASURED 2026-10-26, two rounds of candidates tried and rejected.
+    #
+    # (1) BBC's Korean / Hindi / Nepali / Russian services are WORLD services
+    #     that broadcast *in* the language, not the country's own newsroom:
+    #     bbc_korean led with "룰라, 브라질 대선서 4선 성공" (Brazil), bbc_russian
+    #     with "Лула переизбран президентом Бразилии". They inflated off-topic
+    #     from 146 to 236 and pushed the relevance gate drop rate from 17% to
+    #     25.4% — none of it was the filters' fault.
+    #
+    # (2) The domestic wires that replaced them (tass.ru, amarujala,
+    #     onlinekhabar, ratopati) were also dropped after measuring what
+    #     actually came out of them on a live pass:
+    #       tass.ru       100 raw -> 32 country-anchored -> 14 newest were
+    #                     front-line Ukraine blogs (ВСУ/ПВО/БПЛА); only 2 carried
+    #                     a policy or defence-decision token.
+    #       yonhap_kr     120 raw -> 14 newest were lifestyle/tech/social.
+    #       onlinekhabar  55 raw -> what looked political was Nepal Premier
+    #                     League cricket opened by the prime minister.
+    #       ratopati      30 raw -> cricket, horoscopes, district notices.
+    #       amarujala     11 raw -> 3 anchored, 0 policy.
+    #     Their total contribution was ~5 usable items a round for ~50 extra
+    #     fetches plus the translation bill on whatever survived. The English
+    #     perimeter feeds already cover these countries' politics and defence.
+    #
+    # What IS kept: bbc_burmese (it really does report Yangon, not the world in
+    # Burmese) and yonhap_kr (Korea's national wire, now correctly anchored by
+    # the Hangul markers below). Both are cheap and both occasionally carry
+    # domestic copy the English feeds miss.
     ("bbc_burmese", "https://feeds.bbci.co.uk/burmese/rss.xml",       "bbc.com"),
-    ("bbc_hindi",   "https://feeds.bbci.co.uk/hindi/rss.xml",         "bbc.com"),
-    ("bbc_nepali",  "https://feeds.bbci.co.uk/nepali/rss.xml",        "bbc.com"),
-    ("bbc_russian", "https://feeds.bbci.co.uk/russian/rss.xml",       "bbc.com"),
     ("yonhap_kr",   "https://www.yna.co.kr/rss/news.xml",             "yna.co.kr"),
+    # ── Europe module (added 2026-10-26) ────────────────────────────────────
+    # Free, and deliberately NOT in RSS_FEED_COUNTRY. Anchoring cannot work
+    # here: the whole point of the Europe module is relational stories, and a
+    # piece headed "EU imposes tariffs on Chinese EVs" names neither a member
+    # state nor the word Europe — the country-name anchor would have thrown away
+    # every one of them. The G7 gate in build_data does this job instead, and it
+    # runs on the copy rather than on a fixed word list.
+    #
+    # These are Europe-desk newsrooms, so their general output is exactly the
+    # raw material the four required angles need.
+    ("politico_eu", "https://www.politico.eu/feed/",                  "politico.eu"),
+    ("euractiv",    "https://www.euractiv.com/feed/",                 "euractiv.com"),
+    ("euronews",    "https://www.euronews.com/rss?level=theme&name=news", "euronews.com"),
+    ("dw_world",    "https://rss.dw.com/rdf/rss-en-world",            "dw.com"),
+    ("france24",    "https://www.france24.com/en/rss",                "france24.com"),
 ]
 _RSS_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 # Per-feed item cap, newest first (see the slice in fetch_rss).
 RSS_MAX_ITEMS = int(os.environ.get("RSS_MAX_ITEMS", "30"))
+# A national wire publishes far more per hour than a regional paper: yna's
+# news.xml carries 120 items, so at the 30-item default it alone would
+# out-produce the entire West African leg. The first N are still the newest N.
+RSS_FEED_CAP = {"yonhap_kr": 14}
 
 # ── RSS country anchoring (added 2026-10-25) ────────────────────────────────
 # The eight China-neighbourhood feeds are GENERAL newsrooms: koreatimes
@@ -651,18 +727,70 @@ RSS_FEED_COUNTRY = {
     "irrawaddy": ("mm", "Myanmar"), "frontier_mm": ("mm", "Myanmar"),
     "mizzima": ("mm", "Myanmar"), "thehindu": ("in", "India"),
     "htrss": ("in", "India"),
+    # Domestic-language wires (2026-10-26). These need anchoring MORE than the
+    # English ones, not less: a national wire's front page carries world copy,
+    # and without the anchor it would be filed under the home country by the
+    # domain fallback and then kept by the G6 gate — the exact failure that
+    # bbc_russian was removed for. Anchoring on the native-script country name
+    # (plus the weak/foreign pair below) is what separates "Yonhap reports
+    # Korea" from "Yonhap reports the world".
+    "yonhap_kr": ("kr", "Korea"),
 }
+# Native-script forms are required: `\bnepal\b` can never match "नेपाल", and a
+# Russian story says "Россия" / "РФ", never "Russia". Cyrillic, Hangul and
+# Devanagari are all \w, so the boundaries below only work because they sit
+# between a word and a space or punctuation — never between two letters.
 _RSS_CTY_MARKERS = {
-    "kr": r"\bkorea(n|korean|n's)?\b|\bnorth korea\b|\bseoul\b|\bpyongyang\b|朝鲜|韩国|首尔|平壤",
+    "kr": r"\bkorea(n|korean|n's)?\b|\bnorth korea\b|\bseoul\b|\bpyongyang\b|"
+          r"朝鲜|韩国|首尔|平壤|한국|대한민국|서울|평양|북한",
     "ph": r"\bphilippine(s)?\b|\bmanila\b|\bfilipino(s)?\b|菲律宾|马尼拉",
-    "ru": r"\brussia(n|s)?\b|\bmoscow\b|\bkremlin\b|俄罗斯|莫斯科|克里姆林",
+    "ru": r"\brussia(n|s)?\b|\bmoscow\b|\bkremlin\b|俄罗斯|莫斯科|克里姆林|"
+          r"Росси|Москв|Кремл|Путин|\bРФ\b|Минобороны|Госдум",
     "vn": r"\bvietnam(ese)?\b|\bhanoi\b|\bhue\b|越南|河内",
-    "np": r"\bnepal(ese|i)?\b|\bkathmandu\b|尼泊尔|加德满都",
+    "np": r"\bnepal(ese|i)?\b|\bkathmandu\b|尼泊尔|加德满都|नेपाल|काठमाडौं",
     "la": r"\blaos\b|\blaotian\b|\bvientiane\b|老挝|万象",
-    "mm": r"\bmyanmar(ese)?\b|\bburma(n|ese)?\b|\bnaypyidaw\b|\byangon\b|缅甸|内比都|仰光",
-    "in": r"\bindia(n|ns)?\b|\bnew delhi\b|\bdelhi\b|\bmumbai\b|\bbangalore\b|印度|新德里|孟买",
+    "mm": r"\bmyanmar(ese)?\b|\bburma(n|ese)?\b|\bnaypyidaw\b|\byangon\b|"
+          r"缅甸|内比都|仰光|မြန်မာ|ရန်ကုန်",
+    "in": r"\bindia(n|ns)?\b|\bnew delhi\b|\bdelhi\b|\bmumbai\b|\bbangalore\b|"
+          r"印度|新德里|孟买|भारत|भारतीय|दिल्ली",
 }
+
 _RSS_CTY_RX = {k: re.compile(v, re.I) for k, v in _RSS_CTY_MARKERS.items()}
+
+# ── Weak anchors, for the domestic wires only ───────────────────────────────
+# A national wire does not name its own country in every headline: "대통령,
+# 국방 예산 증액 방침 발표" is Korean politics, and "Путин подписал указ" is
+# Russian, with no 한국 or Россия anywhere. Anchoring on the country name alone
+# silently threw those away. The institution words below stand in for the
+# country — but ONLY when the copy names no third country, otherwise
+# "브라질 대통령" / "Лула, президент Бразилии" would be anchored to Korea or
+# Russia and then kept by the G6 gate, which is the exact bug bbc_russian was
+# removed for. Strong marker first, then weak minus foreign.
+_RSS_WEAK = {
+    "kr": r"대통령|국회|국방부|정부|여당|야당|청와대|용산|합참|외교부",
+    "ru": r"Путин|Кремл|Госдум|Минобороны|Совбез|Правительств|Совфед",
+    "np": r"प्रधानमन्त्री|राष्ट्रपति|संसद|मन्त्रिपरिषद्|सिंहदरबार|नेपाली",
+    "in": r"प्रधानमंत्री|राष्ट्रपति|संसद|लोकसभा|राज्यसभा|भारतीय",
+}
+_RSS_FOREIGN = {
+    "kr": r"브라질|중국|미국|일본|러시아|인도|이란|이스라엘|우크라이나|독일|프랑스|영국|터키",
+    "ru": r"Бразили|Кита|США|Индии|Иран|Израил|Япони|Германи|Франци|Украин|Британи|Турци",
+    "np": r"ब्राजिल|ब्राज़िल|चीन|अमेरिका|जापान|रुस|रूस|भारत|इरान|इजरायल|युक्रेन|बंगलादेश",
+    "in": r"ब्राज़ील|ब्राजिल|चीन|अमेरिका|जापान|रूस|इरान|इज़राइल|यूक्रेन|पाकिस्तान|बांग्लादेश",
+}
+_RSS_WEAK_RX = {k: re.compile(v, re.I) for k, v in _RSS_WEAK.items()}
+_RSS_FOREIGN_RX = {k: re.compile(v, re.I) for k, v in _RSS_FOREIGN.items()}
+
+
+def _rss_anchor_ok(code, text):
+    """Keep only copy anchored to the country this feed exists to cover."""
+    if _RSS_CTY_RX[code].search(text):
+        return True
+    weak = _RSS_WEAK_RX.get(code)
+    if weak and weak.search(text):
+        foreign = _RSS_FOREIGN_RX.get(code)
+        return not (foreign and foreign.search(text))
+    return False
 
 
 def _rss_text(x):
@@ -713,21 +841,20 @@ def fetch_rss():
         _anchored = RSS_FEED_COUNTRY.get(name)
         if _anchored:
             _code, _label = _anchored
-            _rx = _RSS_CTY_RX[_code]
             _before = len(results)
             results = [it for it in results
-                       if _rx.search((it.get("title") or "") + " " +
-                                     (it.get("content") or ""))]
+                       if _rss_anchor_ok(_code, (it.get("title") or "") + " " +
+                                         (it.get("content") or ""))]
             _dropped = _before - len(results)
             if _dropped:
                 print("   anchor %s: dropped %d off-country item(s)"
                       % (_label, _dropped), flush=True)
         # Cap per feed. Adding the local-language wires (Hausa, Yoruba, Igbo,
-        # Pidgin, Korean, Burmese, Hindi, Nepali, Russian) pushed the RSS leg from
+        # Pidgin, Burmese, Nepali, Russian, Hindi) pushed the RSS leg from
         # ~350 to ~900 candidates a round, and every survivor is paid for twice —
         # once in translation, once in the reading time it takes from the page.
-        # Feeds are newest-first, so the first 30 are the 30 that matter.
-        results = results[:RSS_MAX_ITEMS]
+        # Feeds are newest-first, so the first N are the N that matter.
+        results = results[:RSS_FEED_CAP.get(name, RSS_MAX_ITEMS)]
         rec = {"success": True, "results": results, "engine": "rss",
                "_tag": "rss_" + name, "_query": feed_url, "_domains": [dom],
                "_days": LOOKBACK_DAYS}

@@ -58,6 +58,26 @@ def run(script, extra=None, optional=False):
     return ok
 
 
+def build_stamp():
+    """generatedAt recorded inside data.js."""
+    p = os.path.join(HERE, "data.js")
+    if not os.path.exists(p):
+        return None
+    m = re.search(r'"generatedAt":\s*"([^"]+)"',
+                  io.open(p, encoding="utf-8").read(400))
+    return m.group(1) if m else None
+
+
+def artifact_stamp(path):
+    """generatedAt embedded in the built HTML artifact."""
+    try:
+        raw = io.open(path, encoding="utf-8").read()
+    except Exception:
+        return None
+    m = re.search(r'"generatedAt":\s*"([^"]+)"', raw)
+    return m.group(1) if m else None
+
+
 def publish():
     # The library page embeds the uploaded HTML in an iframe and its scripts DO
     # run there, so we ship the real interactive app (tabs, filters, sort,
@@ -65,7 +85,16 @@ def publish():
     # headless browser: tab switching and the fold both work inside the iframe.
     log(">> build_static.py (bundle index.html + data.js)")
     subprocess.run([PY, os.path.join(HERE, "build_static.py")], cwd=HERE, check=True)
-    page = os.path.join(HERE, "dist", "africa-eyes.html")
+    # build_static.py writes dist/china-eyes.html. Importing any other path here
+    # silently ships a stale artifact — that bug published 10-19 data on 10-22
+    # while every script still exited 0. Hence the freshness assertion below.
+    page = os.path.join(HERE, "dist", "china-eyes.html")
+    want, got = build_stamp(), artifact_stamp(page)
+    if not want or not got or want != got:
+        raise SystemExit(
+            "freshness guard: artifact %s has generatedAt=%r but data.js has %r "
+            "— refusing to publish a stale page" % (os.path.basename(page), got, want))
+    log("   freshness guard OK: artifact generatedAt=%s" % got)
     log(">> import_html.py (overwrite node %s)" % NODE_ID)
     subprocess.run([PY, os.path.join(LIB, "page", "import_html.py"), page,
                     "--file-name", "Africa Eyes 西非四国动态监测.html",

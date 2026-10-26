@@ -63,7 +63,7 @@ PROVIDERS = {
         "url": lambda: (os.environ.get("MINIMAX_BASE_URL")
                         or "https://api.minimaxi.com/v1").rstrip("/") + "/chat/completions",
         "model": lambda: os.environ.get("MINIMAX_MODEL") or "MiniMax-M3",
-        "key": lambda: (os.environ.get("MINIMAX_API_KEY") or "").strip(),
+        "key": lambda: minimax_key(),
         # M3 answers with a <think> block unless thinking is switched off, and
         # those tokens are billed. Off, the same translation costs ~15 tokens
         # instead of ~72.
@@ -195,6 +195,31 @@ def api_key():
             m = re.search(r'"XAI_API_KEY":\s*"([^"]+)"', fh.read())
         if m:
             return m.group(1)
+    except Exception:
+        pass
+    return ""
+
+
+def minimax_key():
+    """The MiniMax-M3 API key.
+
+    Order: environment, then the desktop app's own model registry
+    (~/.workbuddy-ai/models.json). The registry is where the MiniMax-M3 model
+    that powers this agent is configured, so the key is already on this machine;
+    without this lookup the script had no MiniMax fallback at all and fell
+    straight to xAI, which started returning HTTP 402 "spending-limit" on
+    2026-10-25 and left the queue translating at a crawl.
+    """
+    k = (os.environ.get("MINIMAX_API_KEY") or "").strip()
+    if k:
+        return k
+    p = os.path.join(os.path.expanduser("~"), ".workbuddy-ai", "models.json")
+    try:
+        with io.open(p, encoding="utf-8") as fh:
+            models = json.load(fh)
+        for m in models:
+            if m.get("id") == "MiniMax-M3" and (m.get("apiKey") or "").strip():
+                return m["apiKey"].strip()
     except Exception:
         pass
     return ""

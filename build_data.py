@@ -238,6 +238,35 @@ CN_RX_INTL = re.compile(
 CN_RX = re.compile(r"(?:%s)|(?:%s)" % (CN_RX.pattern, CN_RX_INTL.pattern),
                    re.I | re.X)
 
+# ── named Chinese assets in the four countries (added 2026-10-26) ───────────
+# "三是在非洲四国发生涉及…中石油尼日尔分公司、津德尔炼油厂、西非原油管道公司、
+# 尼日尔-贝宁原油管道项目等". These are the reader's own list, and they matter
+# because a story can name the asset and the town WITHOUT ever writing "China" or
+# "Chinese": "Le pipeline Niger-Bénin reprend son débit après l'attaque" is a
+# Chinese-interest story with no Chinese word in it, and under the old rules it
+# ranked as an ordinary Niger security item — or was dropped by the local-crime
+# filter. Naming the asset is now the strongest possible 涉华 signal, on par with
+# a named company.
+CN_ASSET_RX = re.compile(
+    r"\bcnpc\b|\bsoraz\b|\bwapco\b|\bpetrochina\b|\bsinopec\b|\baddax\b|"
+    r"\b(?:niger|benin)[-\s]?(?:benin|niger)\s+(?:oil\s+)?pipeline|"
+    r"\bpipeline\s+(?:niger|benin)[-\s]?(?:benin|niger)|"
+    r"\bwest\s+african\s+(?:gas\s+|oil\s+)?pipeline\s+company\b|"
+    r"\bagadem\b|\bbilma\b|\bsoraz\s+refinery\b|\bzinder\s+refinery\b|"
+    r"\b(?:soci[eé]t[eé]\s+de\s+raffinage\s+de\s+)?zinder\b.{0,24}\braffin|"
+    r"\bcnpc\s+niger\b|\bniger\s+petroleum\b|"
+    # Chinese forms. The generic words 炼油厂 / 原油管道 / 输油管道 are
+    # DELIBERATELY absent: Dangote's refinery is Nigerian, and a bare "炼油厂"
+    # would have turned every Dangote story into a 涉华 story. Only the named
+    # assets count.
+    r"中石油|中国石油|中石化|津德尔炼油厂|津德尔炼厂|西非原油管道|西非天然气管道|"
+    r"尼日尔[-—]?贝宁(?:原油)?管道|阿加德姆|阿加德姆区块|比尔马|索拉兹", re.I)
+
+# Folding the assets into CN_RX the same way CN_RX_INTL was folded, so the tier
+# ranking, the relevance gate and the 涉华 module all see them.
+CN_RX = re.compile(r"(?:%s)|(?:%s)" % (CN_RX.pattern, CN_ASSET_RX.pattern),
+                   re.I | re.X)
+
 # NOTE: the country abbreviation must be matched CASE-SENSITIVELY and separately
 # from the word list. `\bu\.?s\.?\b` under re.I also matches the English pronoun
 # "us", so a line like "it lets us refine our own products" made a purely local
@@ -408,7 +437,26 @@ TERROR_RX = re.compile(
     r"\biswap\b|\blakurawa\b|\bboko\s+haram\b|\bansaru\b|\biscap\b|\bisc-sp\b|"
     r"\bdan\s+na\s+ambassagou\b|\bmacina\b|\bkatiba\b|\bserma\b|"
     r"\bfront\s+patriotique|\bmouvement\s+patriotique|"
-    r"支持伊斯兰与穆斯林组织|伊斯兰国西非省|伊斯兰国|博科圣地|恐怖组织|圣战", re.I)
+    # ── added 2026-10-26, the reader's full designated list ──
+    # ISSP is the current name of the Sahel IS province (ex-EIGS / ex-ISGS);
+    # AQIM is the al-Qaeda umbrella JNIM grew out of; FLA / MNLA / MAA are the
+    # three Azawad movements that sign, break and re-sign the northern Mali
+    # ceasefire, and their activity is a standing early-warning indicator.
+    r"\bissp\b|\baqim\b|\bmnla\b|\bmaa\b|"
+    r"\bal-?qa(?:e|i)da\s+(?:in\s+the\s+)?islamic\s+maghreb|"
+    r"\bfront\s+de\s+lib(?:é|e)ration\s+de\s+l'?azawad|"
+    r"\bmouvement\s+national\s+de\s+lib(?:é|e)ration\s+de\s+l'?azawad|"
+    r"\bmouvement\s+arabe\s+de\s+l'?azawad|"
+    r"\bislamic\s+state\s+(?:sahel|sahara)\s+province|"
+    r"支持伊斯兰与穆斯林组织|伊斯兰国西非省|伊斯兰国萨赫勒省|伊斯兰国|博科圣地|"
+    r"基地组织马格里布|马格里布基地组织|阿扎瓦德|图阿雷格|恐怖组织|圣战", re.I)
+# "FLA" is kept out of TERROR_RX because "Fla." is the US postal abbreviation for
+# Florida, and a Miami court story would otherwise be counted as Azawad activity.
+FLA_RX = re.compile(r"\bfla\b(?!\.)", re.I)
+FLORIDA_RX = re.compile(r"\bflorida\b|\bfla\.|\bmiami\b", re.I)
+AZAWAD_RX = re.compile(
+    r"\bazawad\b|\bmnla\b|\bmaa\b|\btuareg\b|\bkidal\b|\bgao\b|\bmali\b|"
+    r"阿扎瓦德|图阿雷格|基达尔|加奥|马里", re.I)
 # Weak signal: an explicit jihad/terror word, accepted only when the copy also
 # names a Sahel theatre. Without the region guard a US political story calling
 # someone a "jihadist" would qualify.
@@ -446,6 +494,9 @@ def terror_hit(title, summary=""):
     if FOOTBALL_RX.search(t) and not re.search(r"\bmplj\b|\bjnim\b|\beigs\b", t, re.I):
         return False
     if TERROR_RX.search(t):
+        return True
+    if FLA_RX.search(t) and AZAWAD_RX.search(t + " " + (summary or "")) \
+            and not FLORIDA_RX.search(t + " " + (summary or "")):
         return True
     if FPL_GUARD_RX.search(t) and FPL_CONTEXT_RX.search(t + " " + (summary or "")):
         return True
@@ -822,6 +873,52 @@ CTY_MARKERS = {
     "la": ["laos", "lao", "laotian", "vientiane", "lprp", "sonexay", "lao army",
            "lao pdr", "lao chinese railway", "boten", "laos china railway",
            "laos vietnam", "mekong laos", "老挝", "万象", "中老铁路", "磨憨", "老方"],
+    # ── EU / Europe (added 2026-10-26) ──────────────────────────────────────
+    # "再增加一个欧洲国家模块". ONE code, not twenty. The page is mobile-first
+    # and already carries twelve country chips; adding a chip per member state
+    # would bury the filter bar. `eu` is the module anchor and the outlet name on
+    # each card tells the reader which country it is.
+    #
+    # The markers are deliberately the NAMES of states and institutions, never
+    # policy words: "sanctions", "tariff" and "export control" appear in every
+    # story about every region and would drag the whole world into this module.
+    # Russia is NOT here — it is already `ru` in the periphery module, and
+    # double-tagging it would put the same war story in two modules.
+    # Ukraine is NOT here for the same reason plus volume: every Ukraine story
+    # names the US, so G7 would admit the entire war feed.
+    "eu": ["europe", "european", "europe's", "european union",
+           "european commission", "eu commission",
+           "european council", "european parliament", "european central bank",
+           "eurozone", "schengen", "brussels", "eeas",
+           "germany", "german", "berlin", "france", "french", "paris",
+           "italy", "italian", "rome", "milan", "spain", "spanish", "madrid",
+           "netherlands", "dutch", "amsterdam", "the hague", "rotterdam",
+           "belgium", "belgian", "poland", "polish", "warsaw",
+           "sweden", "swedish", "stockholm", "norway", "norwegian", "oslo",
+           "denmark", "danish", "copenhagen", "finland", "finnish", "helsinki",
+           "austria", "austrian", "vienna", "switzerland", "swiss", "geneva",
+           "zurich", "ireland", "irish", "dublin", "portugal", "portuguese",
+           "lisbon", "greece", "greek", "athens", "czech", "czechia", "prague",
+           "hungary", "hungarian", "budapest", "romania", "romanian",
+           "bucharest", "bulgaria", "bulgarian", "sofia", "slovakia", "slovak",
+           "slovenia", "croatia", "croatian", "zagreb", "serbia", "serbian",
+           "belgrade", "lithuania", "latvia", "estonia", "luxembourg", "malta",
+           "cyprus", "iceland", "turkey", "türkiye", "turkiye", "ankara",
+           "erdogan",
+           # Chinese forms — matched by zh_cty_hits(), longest-first, so
+           # 「欧洲联盟」 wins over 「欧洲」.
+           "欧洲", "欧盟", "欧洲联盟", "欧盟委员会", "欧洲理事会", "欧洲议会",
+           "布鲁塞尔", "欧元区", "申根",
+           "德国", "柏林", "法国", "巴黎", "意大利", "罗马", "米兰",
+           "西班牙", "马德里", "荷兰", "阿姆斯特丹", "海牙", "鹿特丹",
+           "比利时", "波兰", "华沙", "瑞典", "斯德哥尔摩", "挪威", "奥斯陆",
+           "丹麦", "哥本哈根", "芬兰", "赫尔辛基", "奥地利", "维也纳",
+           "瑞士", "日内瓦", "苏黎世", "爱尔兰", "都柏林", "葡萄牙", "里斯本",
+           "希腊", "雅典", "捷克", "布拉格", "匈牙利", "布达佩斯",
+           "罗马尼亚", "布加勒斯特", "保加利亚", "索非亚", "斯洛伐克",
+           "斯洛文尼亚", "克罗地亚", "萨格勒布", "塞尔维亚", "贝尔格莱德",
+           "立陶宛", "拉脱维亚", "爱沙尼亚", "卢森堡", "马耳他", "塞浦路斯",
+           "冰岛", "土耳其", "安卡拉", "埃尔多安"],
 }
 NE_ONLY = re.compile(r"\bniger\b(?!\s*(?:state|delta|river|basin|company|insurance))", re.I)
 NG_RE = re.compile(r"\bnigeri", re.I)
@@ -851,7 +948,7 @@ DOMAIN_CTY = {
     "burmanet.org": "mm", "mmtimes.com": "mm", "myanmar-now.org": "mm",
     # ── RU / Russia ───────────────────────────────────────────────────────
     "themoscowtimes.com": "ru", "meduza.io": "ru", "rferl.org": "ru",
-    "tass.com": "ru", "rt.com": "ru", "sputniknews.com": "ru",
+    "tass.com": "ru", "tass.ru": "ru", "rt.com": "ru", "sputniknews.com": "ru",
     "kommersant.ru": "ru", "rbc.ru": "ru", "kyivindependent.com": "ru",
     "novayagazeta.eu": "ru",
     # ── IN / India ────────────────────────────────────────────────────────
@@ -860,10 +957,11 @@ DOMAIN_CTY = {
     "theprint.in": "in", "thewire.in": "in", "scroll.in": "in",
     "ndtv.com": "in", "livemint.com": "in", "business-standard.com": "in",
     "deccanherald.com": "in", "telegraphindia.com": "in", "firstpost.com": "in",
-    "thebetterindia.com": "in", "moneycontrol.com": "in",
+    "thebetterindia.com": "in", "moneycontrol.com": "in", "amarujala.com": "in",
     # ── NP / Nepal ────────────────────────────────────────────────────────
     "kathmandupost.com": "np", "thehimalayantimes.com": "np",
     "myrepublica.nagariknetwork.com": "np", "onlinekhabar.com": "np",
+    "ratopati.com": "np",
     "setopati.com": "np", "nepalnews.com": "np", "recordnepal.com": "np",
     # ── VN / Vietnam ──────────────────────────────────────────────────────
     "vnexpress.net": "vn", "tuoitre.vn": "vn", "thanhnien.vn": "vn",
@@ -872,6 +970,21 @@ DOMAIN_CTY = {
     "saigontimes.vn": "vn",
     # ── LA / Laos ─────────────────────────────────────────────────────────
     "vientianetimes.org.la": "la", "kpl.gov.la": "la", "laotiantimes.com": "la",
+    # ── EU / Europe (added 2026-10-26) ────────────────────────────────────
+    # Only outlets whose desk IS Europe. UK and global wires (theguardian.com,
+    # ft.com, economist.com, reuters.com, bbc.com) are deliberately absent: the
+    # domain fallback fires only when no country marker matched, and a global
+    # desk's story that names no country is not a European story — it is an
+    # international one. Mapping them would have filed "Brazil election" under
+    # Europe, which is the exact mistake that removed bbc_russian.
+    "politico.eu": "eu", "euractiv.com": "eu", "euronews.com": "eu",
+    "dw.com": "eu", "france24.com": "eu", "rfi.fr": "eu",
+    "lemonde.fr": "eu", "lefigaro.fr": "eu", "lesechos.fr": "eu",
+    "latribune.fr": "eu", "spiegel.de": "eu", "zeit.de": "eu",
+    "faz.net": "eu", "welt.de": "eu", "handelsblatt.com": "eu",
+    "ilsole24ore.com": "eu", "elpais.com": "eu", "elmundo.es": "eu",
+    "nrc.nl": "eu", "destandaard.be": "eu", "irishtimes.com": "eu",
+    "rte.ie": "eu",
 }
 
 # Multi-country desks: they cover the whole neighbourhood, so a fixed country
@@ -953,7 +1066,24 @@ TOPIC_RX = {k: _rx(v) for k, v in TOPIC_MARKERS.items()}
 CTY_RX = {k: _rx(v) for k, v in CTY_MARKERS.items()}
 
 # Every country code the page actually has a module or a filter chip for.
-ALL_CTYS = {"ng", "ne", "ml", "gh", "kr", "ph", "mm", "ru", "in", "np", "vn", "la"}
+ALL_CTYS = {"ng", "ne", "ml", "gh", "kr", "ph", "mm", "ru", "in", "np", "vn",
+            "la", "eu"}
+
+# "EU" cannot live in CTY_MARKERS: `_rx()` compiles with re.I, and the French
+# past participle "eu" ("il a eu", "j'ai eu") is an ordinary word that appears in
+# half of all francophone copy — under re.I every French story would be tagged
+# European. Matched case-sensitively instead, which is the same lesson as the
+# "us" pronoun in US_ABBR.
+EU_ABBR_RX = re.compile(r"(?<![A-Za-z])EU(?![A-Za-z])|\bE\.U\.")
+
+# The BLOC, as opposed to a member state. Needed because a European country
+# acting abroad is not European news (see the `eu` pruning in classify_cty):
+# "France withdraws troops from Niger" is a Niger story, while "EU sanctions the
+# Niger junta" is a European policy story. Country names deliberately excluded.
+EU_BLOC_RX = re.compile(
+    r"\beurope(ans?)?\b|\beuropean\s+(?:union|commission|council|parliament|"
+    r"central\s+bank)\b|\bbrussels\b|\bstrasbourg\b|欧洲|欧盟|布鲁塞尔|斯特拉斯堡",
+    re.I)
 
 # ── third countries, used only to VETO the domain fallback ──
 # A national daily reports the whole world. "France to deploy troops, admits
@@ -1058,6 +1188,20 @@ TAG_CTY = {
     "cn_ml": "ml", "ml_extra": "ml",
     "cn_kr": "kr", "cn_ph": "ph", "cn_mm": "mm", "cn_ru": "ru",
     "cn_in": "in", "cn_np": "np", "cn_vn": "vn", "cn_la": "la",
+    # ── Europe module angles (added 2026-10-26) ────────────────────────────
+    # Every angle below was written to be about Europe, so the tag is a reliable
+    # anchor when the copy names no member state: "EU and Japan sign defence
+    # pact" carries the abbreviation, but "Brussels and Tokyo agree on rare
+    # earths" carries only cities. _tag_anchor_ok still demands corroboration
+    # (the outlet, a named state, or the EU abbreviation), so a stray result
+    # from a non-European desk cannot ride the tag into this module.
+    "eu_cn_invest": "eu", "eu_cn_project": "eu", "eu_cn_port": "eu",
+    "eu_cn_policy": "eu", "eu_cn_screen": "eu", "eu_cn_ev": "eu",
+    "eu_cn_rare": "eu", "eu_cn_5g": "eu",
+    "eu_us_def": "eu", "eu_us_energy": "eu", "eu_us_mineral": "eu",
+    "eu_us_nato": "eu",
+    "eu_jp": "eu", "eu_kr": "eu", "eu_in": "eu", "eu_vn": "eu",
+    "eu_ph": "eu", "eu_mm": "eu", "eu_np": "eu",
     # ── designated terror groups ───────────────────────────────────────────
     # A JNIM / EIGS / MPLJ story frequently names the group and the region
     # ("Sahel", "Tillaberi") but no state, so it landed in no module at all.
@@ -1127,6 +1271,12 @@ def _tag_anchor_ok(c, dom, text):
         return True
     if c in zh_cty_hits(text or ""):
         return True
+    # "EU imposes tariffs on Chinese EVs" carries the abbreviation and nothing
+    # else — no member state, no "Europe". Without this the whole category ②
+    # (EU policy aimed at Chinese firms) would be thrown away whenever the
+    # outlet is not itself European.
+    if c == "eu" and EU_ABBR_RX.search(text or ""):
+        return True
     if c in ("ng", "ne", "ml", "gh") and (dom in WA_DOMAINS or dom in REGIONAL_DOMAINS):
         # A West African outlet for a West African tag. Allowed only when the
         # copy does not point at a DIFFERENT West African country — without this,
@@ -1152,8 +1302,23 @@ def classify_cty(title, body, dom="", url=""):
         out.append("ng")
     if NE_ONLY.search(blob) and "ne" not in out:
         out.append("ne")
+    # "EU imposes tariffs on Chinese EVs" names the bloc with a two-letter
+    # abbreviation that no name list can carry (see EU_ABBR_RX).
+    if EU_ABBR_RX.search(blob) and "eu" not in out:
+        out.append("eu")
     if "wa" in out and any(c in out for c in ("ng", "ne", "ml", "gh")):
         out.remove("wa")
+    # ── Europe is not the stage of an African story (added 2026-10-26) ──
+    # "尼日尔军政府驱逐法国驻军" names France, so the marker list tags it `eu`
+    # as well as `ne` — and it would then have appeared in the Europe module,
+    # which the reader defined as four China-related angles only, none of them
+    # about Africa. The distinction that works: a European COUNTRY acting in
+    # Africa is African news; the EU as an INSTITUTION acting on Africa is
+    # European policy. So when a monitored non-European country is present, `eu`
+    # survives only if the copy says EU / Europe itself.
+    if "eu" in out and (set(out) & (ALL_CTYS - {"eu"})) \
+            and not (EU_ABBR_RX.search(blob) or EU_BLOC_RX.search(blob)):
+        out.remove("eu")
     if out:
         return out
     # Keyword classifier found nothing. For the eight China-neighbourhood feeds
@@ -1306,8 +1471,12 @@ FR_SPORT_RX = re.compile(
     r"buteur|buts|tirs au but|équipe nationale|entraîneur|sélectionneur|"
     r"joueuse?s?|basket|basketball|boxe|athlétisme|médailles?|"
     r"jeux olympiques|handball|volley|rugby|coupe du monde|"
-    r"ligue des champions|mercato|transfert|arbitre|stade|"
+    r"ligue des champions|mercato|arbitre|stade|"
     r"tirs au but|éliminatoires?|classement)\b", re.I)
+# NOTE: "transfert" is deliberately NOT in the list. In French football it means
+# a player transfer, but "AMANA Transfert" is a money-transfer company and its
+# launch story was deleted as sport by the audit on 2026-10-26. Same class of
+# mistake as bare "club" and "match" in the English list.
 FR_ENT_RX = re.compile(
     r"\b(concert|album|chanteu(?:r|se)|musicien|rappeur|acteur|actrice|"
     r"téléréalité|beauté|miss\b|série télévisée|film|cinéma|"
@@ -1322,7 +1491,9 @@ FR_CRIME_RX = re.compile(
     r"\b(meurtre|assassinat|braquage|cambriolage|vols?|volés?|"
     r"interpellé|interpellation|garde à vue|écroué|incarcéré|condamné|"
     r"condamnation|procès|accident|noyade|incendie|effondrement|"
-    r"suicide|viols?|enlèvement|escroquerie|trafic)\b", re.I)
+    r"suicide|viols?|enlèvement|escroquerie|trafic|"
+    r"morts?|tués?|blessés?|décès|renversé|carambolage|naufrage|"
+    r"victimes?|drames?)\b", re.I)
 FR_CIVIL_RX = re.compile(
     r"\b(divorce|litige|héritage|bail|baux|loyer|loyers|expulsion|"
     r"licenciement|salaire impayé|salaires impayés)\b", re.I)
@@ -1339,6 +1510,13 @@ def is_soft(title, title_zh=""):
     if not blob.strip():
         return False
     if HARD_NEWS_RX.search(blob) or FR_HARD_RX.search(blob):
+        return False
+    # A China story is never soft, whatever words it uses. The audit on
+    # 2026-10-26 caught "Nigeria, China Deepen Film Industry Cooperation" and
+    # "Nollywood Eyes $10B Asian Market In Landmark Nigeria-China Film Pact"
+    # being deleted as showbiz because of the word "film" — a $10bn commercial
+    # agreement thrown away by an entertainment filter.
+    if CN_RX.search(blob):
         return False
     return bool(SPORT_RX.search(title or "") or ENT_RX.search(title or "")
                 or SPORT_ZH_RX.search(blob) or ENT_ZH_RX.search(blob)
@@ -1362,9 +1540,21 @@ FLUFF_RX = re.compile(
     r"露天排便|埃尔哈特|寻宝|吉尼斯|彩票|超长寿|最长寿|"
     r"藏品归属|私人收藏|文物归还仪式)")
 FLUFF_EN_RX = re.compile(
-    r"\b(shark|dolphin|whale|elephant|tiger cub|lion|pet dog|zoo|aquarium|"
+    # Bare "lion" is NOT here: "Tinubu: Lion at home, lamb abroad?" is political
+    # commentary and was deleted as a wildlife story by the 2026-10-26 audit.
+    r"\b(shark|dolphin|whale|elephant|tiger cub|pet dog|zoo|aquarium|"
     r"beauty pageant|food festival|carnival|fireworks|guinness record|"
     r"lottery|amelia earhart|treasure hunt|longest[- ]living)\b", re.I)
+# Names and titles that make a headline political whatever else it says. Used to
+# stop a stray animal word or crime word from deleting a head-of-state story.
+POLICY_ANCHOR_RX = re.compile(
+    r"\b(president|prime minister|premier|minister|parliament|senate|"
+    r"legislature|cabinet|governor|mayor|maire|municipal|election|referendum|poll\w*|"
+    r"votes?|voted|voting|political|politician|opposition|diplomat\w*|embassy|"
+    r"ambassador|treaty|summit|bilateral|trilateral|negotiat\w*|"
+    r"peace talks|sanctions?|sovereignty|junta|putin|kremlin|lukashenko)\b"
+    r"|(总统|总理|首相|部长|议会|参议院|大选|选举|外交|使馆|大使|条约|"
+    r"峰会|双边|三方|会谈|谈判|内阁|州长|制裁|主权|军政府)", re.I)
 
 
 def is_fluff(title, title_zh=""):
@@ -1373,6 +1563,8 @@ def is_fluff(title, title_zh=""):
     if not blob.strip():
         return False
     if HARD_NEWS_RX.search(blob):        # a bombing at a festival is news
+        return False
+    if CN_RX.search(blob) or POLICY_ANCHOR_RX.search(blob):
         return False
     return bool(FLUFF_RX.search(blob) or FLUFF_EN_RX.search(title or ""))
 
@@ -1421,10 +1613,11 @@ CN_ANCHOR_RX = re.compile(
 SEC_EVENT_RX = re.compile(
     r"\b(Boko Haram|ISWAP|JNIM|ISGS|ISIS|al-?Qaeda|bandits?|gunmen|militants?|"
     r"insurgents?|terroris\w*|jihadis\w*|soldiers?|troops|army|military|navy|"
-    r"air force|airstrike|air strike|drone strike|ambush|offensive|massacre|"
+    r"air force|airstrikes?|air strikes?|drone strikes?|ambush|offensive|massacre|"
     r"explosion|bomb\w*|siege|assault|hostages?|mass grave|displaced|IDPs?|"
-    r"refugees?|herdsmen|communal|christians?|oil theft|crude|pipeline|"
-    r"railway|refinery)\b"
+    r"refugees?|herdsmen|communal|christians?|civilians?|oil theft|crude|pipeline|"
+    r"railway|refinery|mining|mine|gold|uranium|concession|"
+    r"attack\w*|interpol|europol)\b"
     r"|(博科圣地|伊斯兰国|圣战|恐怖|武装分子|枪手|匪徒|绑匪|军方|军队|士兵|"
     r"海军|空军|空袭|无人机|伏击|军事行动|进攻|屠杀|爆炸|炸弹|围攻|人质|"
     r"万人坑|流离失所|难民|民兵|安全部队|牧民|农牧民|基督徒|部族|族群|"
@@ -1438,17 +1631,20 @@ LOCAL_CRIME_RX = re.compile(
     r"NDLEA|NAFDAC|arraign\w*|remand\w*|convict\w*|sentenced|jailed|"
     r"prison\w*|bail|prosecut\w*|arrest\w*|detain\w*|"
     r"drown\w*|auto crash|road crash|car crash|collision|"
+    r"overturn\w*|crash\w*|accident\w*|"
+    r"kills?|killed|killing|dies|died|dead|deaths?|fatal\w*|casualt\w*|injur\w*|"
     r"fire outbreak|inferno|building collapse|stampede|"
     r"suicide|rape|defile\w*|sexual assault|domestic violence|"
     r"ritual kill\w*|cultist\w*|found dead|corpse|autopsy|inquest)\b"
-    r"|(谋杀|凶杀|遇害|被杀|尸体|遗体|嫌疑人|嫌犯|被捕|逮捕|拘留|"
+    r"|(谋杀|凶杀|遇害|遇难|死亡|致死|身亡|丧生|丧命|伤亡|尸体|遗体|嫌疑人|嫌犯|被捕|逮捕|拘留|"
     r"判刑|宣判|判处|获刑|起诉|定罪|保释|提审|受审|"
     r"抢劫|劫匪|盗窃|偷窃|诈骗|骗局|洗钱|贩毒|毒品|可卡因|海洛因|"
     r"曲马多|大麻|冰毒|吸毒|"
-    r"车祸|交通事故|撞车|相撞|溺水|触电|失火|火灾|踩踏|翻船|沉船|"
+    r"车祸|交通事故|撞车|相撞|翻车|侧翻|翻船|沉船|"
+    r"溺水|触电|失火|火灾|踩踏|"
     r"洪水|洪灾|水灾|山体滑坡|泥石流|地震|海啸|台风|"
     r"自杀|强奸|性侵|猥亵|家暴|拐卖|人口贩卖|邪教|祭品|"
-    r"失踪|身亡|丧生|枪杀|刺杀|暗杀|"
+    r"失踪|枪杀|刺杀|暗杀|"
     r"建筑倒塌|楼房倒塌|大楼倒塌)", re.I)
 KIDNAP_RX = re.compile(r"\b(abduct\w*|kidnap\w*)\b|(绑架|劫持|掳走)", re.I)
 # Disease outbreaks. Named explicitly by the reader ("埃博拉等疾病"). Matched on
@@ -1502,6 +1698,13 @@ def is_off_scope(title, title_zh="", summary=""):
         return False
     if KIDNAP_RX.search(ttl) and KIDNAP_SCALE_RX.search(blob):
         return False                       # D — scaled abduction is a crisis
+    # E — head-of-state / interstate copy. The audit on 2026-10-26 caught
+    # "Putin Releases American Jailed in Russia, Agrees to Trilateral Peace
+    # Talks" and "15 ans de prison requis contre l'ancien maire du District de
+    # Bamako" being deleted because of "jailed" and "prison". Those are
+    # politics, not local crime, and the periphery module is built on them.
+    if POLICY_ANCHOR_RX.search(ttl):
+        return False
     return bool(LOCAL_CRIME_RX.search(ttl) or CIVIL_RX.search(ttl)
                 or FR_CRIME_RX.search(ttl) or FR_CIVIL_RX.search(ttl))
 
@@ -2793,6 +2996,99 @@ def _gate_wa_anchor(text):
                 or NE_ONLY.search(text))
 
 
+# ── G6: a periphery country's OWN outlet reporting that country's hard news ──
+# Added 2026-10-26, when the periphery gained domestic-language feeds
+# (tass.ru, onlinekhabar.com, ratopati.com, amarujala.com, yna.co.kr).
+#
+# Without this rule those feeds are worthless: G1 only recognises West African
+# outlets, and G4/G5 need China or the US in the copy, so a Nepali-language
+# story about Nepal's parliament fell straight through to DROP. The reader's
+# standing instruction is that 周边国家 stays full — "周边国家保持全量（不只涉
+# 华），否则与涉华模块重复且条数腰斩" — so the country's own newsroom writing
+# about its own politics/defence/energy is in scope by construction.
+#
+# It is deliberately NOT a blanket geographic pass. The item must also carry a
+# TOPICAL anchor, because a national daily also publishes weather, road
+# accidents and celebrity copy, and admitting all of it would bury the beat and
+# pay to translate it. The anchor set is the reader's own list: 政治、经济、
+# 国防、安全、能源、矿产、战略通道.
+#
+# English/Chinese anchors reuse the regexes already built above. The non-Latin
+# sets below are hand-picked unambiguous political/defence/economic stems —
+# sport, entertainment and crime vocabulary is deliberately absent, so a Nepali
+# cricket result cannot ride in on the word "government".
+PERIPH_CTYS = {"kr", "ph", "mm", "ru", "in", "np", "vn", "la"}
+_GATE_PERI_RX = _rx([w for c in PERIPH_CTYS for w in CTY_MARKERS[c]])
+
+# ── the Europe module's beat vocabulary ─────────────────────────────────────
+# The reader's category ③ is "政治、经济、军事、能源、矿产" interaction, and his
+# standing rule is that unwanted material must not be added. A RELATIONSHIP word
+# alone is not enough to admit a European story: "Europe risks US junk-food
+# trajectory" names the United States but is a public-health feature, and
+# "Brazil election" names nobody but would ride in on a stray mention. So G7
+# requires BOTH a relationship (China / US / a China neighbour) AND one of these
+# beat words. Anything else in a European newsroom's general output stays out.
+EU_TOPIC_RX = re.compile(
+    r"\b(politic\w*|government|parliament|election|referendum|minister|"
+    r"diplomat\w*|sanction\w*|tariff\w*|trade|export\s+control|quota|"
+    r"subsid\w*|anti-?dumping|customs|wto|"
+    r"invest\w*|acquisition|merger|takeover|stake|contract|tender|procurement|"
+    r"defence|defense|military|army|navy|air\s+force|troops|nato|weapons?|"
+    r"arms|missile\w*|warhead\w*|nuclear|drill\w*|exercise|deploy\w*|"
+    r"security|intelligence|espionage|cyber\w*|"
+    r"energy|gas|lng|oil|pipeline\w*|refinery|refineries|power\s+plant|"
+    r"electric\w*|grid|renewable\w*|solar|wind\s+farm|hydrogen|"
+    r"mining|mine|minerals?|rare\s+earth\w*|lithium|cobalt|nickel|copper|"
+    r"uranium|graphite|gallium|germanium|"
+    r"port\w*|rail\w*|road\w*|corridor|shipping|strait|supply\s+chain|"
+    r"semiconductor\w*|chip\w*|technology|telecom\w*|5g|artificial\s+intelligence|"
+    r"quantum|satellite\w*|space)\b|"
+    r"政治|政府|议会|选举|公投|部长|外交|制裁|关税|贸易|出口管制|配额|补贴|"
+    r"反倾销|海关|世贸|投资|并购|收购|股权|合同|招标|采购|"
+    r"国防|防务|军事|军队|海军|空军|北约|武器|军售|导弹|核|演习|部署|"
+    r"安全|情报|间谍|网络|"
+    r"能源|天然气|石油|管道|炼油|电厂|电力|电网|可再生|光伏|风电|氢能|"
+    r"矿产|矿山|稀土|锂|钴|镍|铜|铀|石墨|镓|锗|"
+    r"港口|铁路|公路|走廊|航运|海峡|供应链|"
+    r"半导体|芯片|技术|电信|人工智能|量子|卫星|航天", re.I)
+
+
+def _gate_periphery(text):
+    """A China-neighbourhood country named in the copy (not the four)."""
+    if _GATE_PERI_RX.search(text):
+        return True
+    return bool(zh_cty_hits(text) & PERIPH_CTYS)
+
+_GATE_MULTI_HARD_RX = re.compile(
+    # Russian — stems, so case endings do not matter
+    r"(президент|правительств|парламент|госдум|министр|кремл|санкци|"
+    r"выбор|договор|саммит|арми|военн|войск|ракет|беспилотник|ядерн|"
+    r"нефт|уголь|месторожд|железн|энергет|инвестиц|контракт|экспорт|"
+    r"импорт|погран|безопасн|экономик)|"
+    # Korean
+    r"(대통령|정부|국회|장관|국방|선거|조약|정상회담|안보|에너지|광산|"
+    r"항만|철도|수출|수입|투자|제재|미사일|외교|통일부|합참|경제)|"
+    # Devanagari, shared by Hindi and Nepali
+    r"(राष्ट्रपति|प्रधानमन्त्री|प्रधानमंत्री|सरकार|संसद|मन्त्री|मंत्री|"
+    r"सेना|रक्षा|निर्वाचन|चुनाव|सन्धि|संधि|ऊर्जा|खानी|खनन|बन्दरगाह|"
+    r"बंदरगाह|रेल|सीमा|सुरक्षा|अर्थतन्त्र|अर्थव्यवस्था|लगानी|नाकाबन्दी|"
+    r"विदेश|राजनीति)|"
+    # Burmese
+    r"(သမ္မတ|အစိုးရ|လွှတ်တော်|စစ်တပ်|ရွေးကောက်|စီးပွားရေး|"
+    r"ရင်းနှီးမြှုပ်နှံ|နိုင်ငံခြားရေး|ကာကွယ်ရေး|စွမ်းအင်)",
+    re.I)
+
+
+def _own_periph_cty(dom):
+    """The periphery country that owns this outlet, or None."""
+    if not dom:
+        return None
+    for _suf, _code in DOMAIN_CTY.items():
+        if dom == _suf or dom.endswith("." + _suf):
+            return _code if _code in PERIPH_CTYS else None
+    return None
+
+
 def _gate_monitored(text):
     """Any of the twelve monitored countries named in the copy."""
     if _GATE_MON_RX.search(text):
@@ -2816,6 +3112,29 @@ def _relevance_gate(it):
         return True, "G4"
     if act and has_us(full) and _gate_monitored(full):
         return True, "G5"
+    if _own_periph_cty(dom) and (
+            _GATE_MULTI_HARD_RX.search(head)
+            or POLICY_ANCHOR_RX.search(head)
+            or SEC_EVENT_RX.search(head)
+            or TERRITORIAL_RX.search(head)
+            or _GATE_ACT_RX.search(head)):
+        return True, "G6"
+    # G7 (added 2026-10-26): the Europe module. Its four required angles are all
+    # RELATIONAL, which is what keeps it precise — a purely European domestic
+    # story (a German state election, a French farm protest) names none of the
+    # three counterparts and is correctly dropped. The reader was explicit that
+    # unwanted material must not be added, so there is no "European news in
+    # general" pass, and a relationship word alone is not enough either: the
+    # item must also sit on one of the reader's beats (EU_TOPIC_RX), otherwise
+    # "Europe risks US junk-food trajectory" would qualify on the word "US".
+    #     ① European people/companies/projects involving China   -> CN
+    #     ② EU policy or initiative aimed at Chinese firms       -> CN
+    #     ③ European interaction with the United States          -> US
+    #     ④ European interaction with China's neighbours         -> periphery
+    if "eu" in (it.get("country") or []) and EU_TOPIC_RX.search(head) and (
+            _GATE_CN_RX.search(full) or CN_ASSET_RX.search(full)
+            or has_us(full) or _gate_periphery(full)):
+        return True, "G7"
     return False, "DROP"
 
 
@@ -2834,7 +3153,7 @@ print("relevance gate: kept %d, dropped %d (%.1f%%) | %s"
       % (len(news), len(_gate_dropped),
          100.0 * len(_gate_dropped) / max(1, len(news) + len(_gate_dropped)),
          " ".join("%s=%d" % (k, _gate_reasons[k])
-                  for k in ("G1", "G2", "G3", "G4", "G5", "DROP"))))
+                  for k in ("G1", "G2", "G3", "G4", "G5", "G6", "G7", "DROP"))))
 
 # ─────────────── volume cap ───────────────
 # A WordPress RSS feed publishes everything its newsroom writes, so a free-source
@@ -3394,8 +3713,17 @@ _ENT_RX = [
                        "伊斯兰国西非省", "西非省")),
     ("jnim", _abbr_rx("jnim", r"nusrat al-islam", "伊斯兰支持阵线",
                       "支持伊斯兰与穆斯林")),
-    ("eigs", _abbr_rx("eigs", r"islamic state in the greater sahara",
-                      "大撒哈拉伊斯兰国")),
+    ("eigs", _abbr_rx("eigs", "isgs", "issp",
+                      r"islamic state in the greater sahara",
+                      r"islamic state sahel province",
+                      r"islamic state sahara province",
+                      "大撒哈拉伊斯兰国", "伊斯兰国萨赫勒省")),
+    ("aqim", _abbr_rx("aqim",
+                      r"al-?qa(?:e|i)da in the islamic maghreb",
+                      "马格里布基地组织", "基地组织马格里布")),
+    ("mnla", _abbr_rx("mnla", r"mouvement national de lib", "阿扎瓦德民族解放运动")),
+    ("fla", _abbr_rx("fla", r"front de lib(?:é|e)ration de l'?azawad",
+                     "阿扎瓦德解放阵线")),
     ("mplj", _abbr_rx("mplj", "macina", "马西纳解放阵线", "马西纳")),
     ("fpl", _abbr_rx("fpl", r"front patriotique", "爱国解放阵线")),
     ("boko", _abbr_rx(r"boko\s*haram", "博科圣地")),
