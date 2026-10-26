@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Libya-Turkey Mediterranean Deal; Ethiopian Federal Consolidation in Tigray; South West Opposition Offensive in Somalia: Africa File, October 22, 2026",
-   "url": "https://www.criticalthreats.org/analysis/libya-turkey-tplf-ethiopia-fgs-al-shabaab-somalia-issp-jnim-mali",
-   "snippet": "Jama’at Nusrat al Islam wa al Muslimeen (JNIM) could attempt to exploit the situation to strengthen its position vis-à-vis ISSP in the contested tri-border area of Burkina Faso, Mali, and Niger. ISSP and al Qaeda’s Sahelian affiliate JNIM have engaged in several large-scale clashes in the tri-border area since September as each group tries to establish dominance in the area. ISSP most recently ini",
-   "published": "Fri, 23 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria Deploys Military to Bolster Sahel Security - Africa Defense Forum",
-   "url": "https://adf-magazine.com/2026/10/algeria-deploys-military-to-bolster-sahel-security",
-   "snippet": "Along with the third AES member, Burkina Faso, Mali and Niger have spent years fighting a rising tide of terrorism by Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and the Islamic State Sahel Province (ISSP). Algerian leaders increasingly see instability in the AES as a potential threat to their own national security, Kharief noted. [...] Algeria Border Security Islamic State JNIM Mali national secu",
-   "published": "Tue, 20 Oct 2026 17:27:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Attack by Islamic State-affiliated group in Mali kills 48 people - 95.5 WSB",
-   "url": "https://www.wsbradio.com/news/world/attack-by-islamic/RA3UT6OSXY4ZBJNLDGWFJMAP6U",
-   "snippet": "ISSP operates mostly in the Ménaka region of Mali, where it faces stiff competition from another militant group, Jama’at Nusrat al-Islam wal-Muslimin (JNIM), and in the neighboring countries of Burkina Faso and Niger. It has not claimed responsibility for the attack.\n\nOn Monday, the Malian army announced it had located a major base housing “several terrorist elements as well as military equipment ",
-   "published": "Tue, 20 Oct 2026 15:54:37 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Attack by Islamic State-affiliated group in Mali kills 48 people, official says - ABC News",
-   "url": "https://abcnews.com/International/wireStory/attack-islamic-state-affiliated-group-mali-kills-48-137413904",
-   "snippet": "ISSP operates mostly in the Ménaka region of Mali, where it faces stiff competition from another militant group, Jama’at Nusrat al-Islam wal-Muslimin (JNIM), and in the neighboring countries of Burkina Faso and Niger. It has not claimed responsibility for the attack.\n\n## Popular Reads\n\n## 2 dead, 11 injured after Kansas mother drives onto soccer field during game: Police\n\n 2 days ago\n\n## Airman ki",
-   "published": "Wed, 21 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "MALI : Human Rights Watch ye jateminɛsɛbɛ dɔ da kɛnɛ kan bi o min na kɛlɛɲɔgɔnmanw jalakilen don - RFI",
-   "url": "https://www.rfi.fr/ma/farafinna/20261019-mali-human-rights-watch-ye-jatemin%C9%9Bs%C9%9Bb%C9%9B-d%C9%94-da-k%C9%9Bn%C9%9B-kan-bi-o-min-na-k%C9%9Bl%C9%9B%C9%B2%C9%94g%C9%94nmanw-jalakilen-don",
-   "snippet": "## Tchad kɛlɛbolo y'a lase kunu dantigɛlisɛbɛn dɔ kɔnɔ, k'u ka sɔrasi jalabatiki 2 fagara\n\nJNIM\n\n## Etat Islamique ni JNIM jatigɛwalekulu de karila ɲɔngɔnna jamana, Mali, Burkina ni Niger dancɛw la\n\nBoko Haram\n\n## CAMEROUN: Boko Haram ka binkanniw bɛ ka caya kosɛbɛ \"Extrême nord\" marabolo kɔnɔ nin waati la\n\naw ye taa n'a ka lamɛnni ye ɲɛ o baabu kelen in kan :\n\n© 2026 Copyright RFI - Hakɛ bɛɛ bɛ a",
-   "published": "Mon, 19 Oct 2026 16:04:51 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ghana is trying to prevent the war in Burkina Faso from spilling into its territory",
-   "url": "https://tomorrowsaffairs.com/ghana-is-trying-to-prevent-the-war-in-burkina-faso-from-spilling-into-its-territory",
-   "snippet": "It will then become clear whether Accra can crack down on cattle theft and resale, and the smuggling of explosives, without treating all Fulani people as suspects, since collective suspicion of that herdsmen community would bring JNIM new recruits on the Ghanaian side of the border.\n\nThe European strategy in the region also depends on this, as Brussels has less and less common ground with the mili",
-   "published": "Sun, 25 Oct 2026 20:26:47 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Xi's peace principles offer little cover for China in Africa - Asia Times",
-   "url": "https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa",
-   "snippet": "On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.\n\nOne side belonged to Jama’at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda’s Sahel affiliate. The other belonged to the Islamic State Sahel Province (ISSP), known until 2022 as the Islamic State in the Greater Sahara. The two have been fighting along that fr",
-   "published": "Fri, 23 Oct 2026 04:46:38 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_jnim_ne",
  "_query": "JNIM Niger",
  "_domains": [],

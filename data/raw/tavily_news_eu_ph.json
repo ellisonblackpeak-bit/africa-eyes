@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EU-Philippines holds second security and defense dialogue",
-   "url": "https://www.manilatimes.net/2026/10/26/expats-diplomats/eu-philippines-holds-second-security-and-defense-dialogue/2453416/amp",
-   "snippet": "The European Union and the Philippines held their second Security and Defense Dialogue on Oct. 8 in Manila.\n\nDuring the dialogue, the EU and the Philippines reaffirmed their shared commitment to strengthening cooperation in multilateral forums to uphold the rules-based international order. [...] The dialogue, along with the EU’s recent announcement of its first-ever European Peace Facility (EPF) a",
-   "published": "Sun, 25 Oct 2026 16:01:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU GIVES PHL EYES AT SEA | Daily Tribune",
-   "url": "https://tribune.net.ph/2026/10/23/eu-gives-phl-eyes-at-sea",
-   "snippet": "The package, approved in July following Manila’s request last year, was discussed again during Philippine-EU security talks this month.\n\nIt marks the EU’s first military assistance package for the Philippines under the European Peace Facility, which supports the defense capabilities of partner countries.\n\nThe assistance comes as Manila struggles to patrol an archipelago of more than 7,600 islands,",
-   "published": "Fri, 23 Oct 2026 16:48:54 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables",
-   "url": "https://gcaptain.com/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-undersea-cables",
-   "snippet": "EU Leaders Back Finnish Push for Arctic Icebreaker Fleet\n\nSecurity ### EU Leaders Back Finnish Push for Arctic Icebreaker Fleet\n\nEuropean leaders have backed a stronger role for the European Union in the Arctic, with Finland pushing for a joint icebreaking capability as the region becomes increasingly important for commercial shipping, military mobility and competition with Russia and China.\n\nSept",
-   "published": "Thu, 22 Oct 2026 09:01:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "bne IntelliNews - EU puts security at centre of Arctic strategy as Russia, China expand presence",
-   "url": "https://www.intellinews.com/eu-puts-security-at-centre-of-arctic-strategy-as-russia-china-expand-presence-477651",
-   "snippet": "Brussels said investment must respect Indigenous Peoples' rights and deliver benefits for communities while protecting the environment. The strategy's success will depend on implementation, including turning proposed surveillance systems, transport links and security infrastructure into operational capabilities.\n\n\"Europe has interests to defend, partners to work with and responsibilities to meet. ",
-   "published": "Wed, 21 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Britain Should Expand Humanitarian Cooperation in the South China Sea - Modern Diplomacy",
-   "url": "https://moderndiplomacy.eu/2026/10/20/britain-should-expand-humanitarian-cooperation-in-the-south-china-sea",
-   "snippet": "The United Kingdom (UK) should expand humanitarian cooperation in the South China Sea as it remains a critical shipping route connecting Europe and Asia. Britain should utilize its strategic partnership with the Philippines and established diplomatic channel with China to ensure that the next emergency deployment will not turn into another security flashpoint. [...] analysing security threats and ",
-   "published": "Tue, 20 Oct 2026 04:00:22 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Is EU putting profits over human rights in Vietnam?",
-   "url": "https://globalnation.inquirer.net/343755/is-eu-putting-profits-over-human-rights-in-vietnam",
-   "snippet": "MOST READ\n\n[](\n\nWoman left in Philippines after WWII gets Japan passport, eyes visit\n\n[](\n\nLacson prays for 'peaceful' arrest of dela Rosa\n\n[](\n\nCool weather expected in PH despite Super El Niño — Pagasa\n\n[](\n\nBottle cap found off Japan coast carried marine ecosystem from PH\n\nView comments\n\nEDITORS' PICK MOST READ\n\n[](\n\nglobalnation\n\nThousands rally in Tel Aviv against Netanyahu ahead of vote\n\n[](",
-   "published": "Sun, 25 Oct 2026 15:10:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe's Northern Neighbourhood – A New Strategy for the Arctic: Remarks by High Representative Kallas at the press conference | EEAS",
-   "url": "https://www.eeas.europa.eu/eeas/europes-northern-neighbourhood-new-strategy-arctic-remarks-high-representative-kallas-press_en",
-   "snippet": "The Arctic is Europe's Northern Neighbourhood. It is close, connected and critical to our future.\n\nThree EU Member States – Denmark, Finland and Sweden – are Arctic nations. More than half a million EU citizens live there.\n\nAll this makes Arctic security European security. To defend our interests, we plan to step up investments in surveillance, infrastructure, military mobility, and capabilities. ",
-   "published": "Tue, 20 Oct 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Prilenia, Ferrer secure EU authorisation for Phase III HD trial",
-   "url": "https://www.clinicaltrialsarena.com/news/prilenia-ferrer-eu-authorisation-hd-trial",
-   "snippet": "Experience unmatched clarity with a single platform that combines unique data, AI, and human expertise.\n\nFind out more\n\n \n\n#### Sign up for our daily news round-up!\n\nGive your business an edge with our leading industry insights.\n\nGive your business an edge with our leading industry insights.\n\nclose\n\nclose\n\n#### Sign up to the newsletter: In Brief\n\n## Thank you for subscribing\n\nView all newsletters",
-   "published": "Fri, 23 Oct 2026 09:35:17 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

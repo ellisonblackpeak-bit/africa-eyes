@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Nepal Premier League’s third season kicks off with Lumbini bowling first",
+   "url": "https://kathmandupost.com/sports/2026/10/26/nepal-premier-league-s-third-season-kicks-off-with-lumbini-bowling-first",
+   "content": "Defending champions Lumbini Lions won the toss and elected to field against Sudurpaschim Royals in the opening match of the eight-team tournament at Kirtipur.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Tatopani border closure disrupts trade and livelihoods after brief reopening",
+   "url": "https://kathmandupost.com/money/2026/10/26/tatopani-border-closure-disrupts-trade-and-livelihoods-after-brief-reopening",
+   "content": "Only 72 cargo containers entered Nepal during a brief reopening. With the crossing shut again, traders face dwindling stocks and local businesses are struggling to survive.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Most Nepal government websites back online after PHP2Shell flaw",
    "url": "https://kathmandupost.com/science-technology/2026/10/26/most-nepal-government-websites-back-online-after-php2shell-flaw",
    "content": "Officials say security patches have restored thousands of government websites, but some public portals and applications remain inaccessible",
@@ -124,20 +138,6 @@
    "title": "PHP2Shell security flaw forces thousands of Nepali websites offline",
    "url": "https://kathmandupost.com/science-technology/2026/10/25/php2shell-security-flaw-forces-thousands-of-nepali-websites-offline",
    "content": "Government portals, Nepal Rastra Bank’s website and some digital services have been suspended as a precaution after two critical vulnerabilities were discovered in PHP.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Houthi attacks raise safety fears among Nepali workers in Saudi Arabia",
-   "url": "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia",
-   "content": "Around 400,000 Nepalis work in Saudi Arabia. Recent attacks have raised fresh concerns about their safety as workers call for better protection and emergency arrangements.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Nepal opens door to private power traders, but legal hurdles remain",
-   "url": "https://kathmandupost.com/money/2026/10/24/legal-ground-needed-after-nepal-opens-letters-of-intent-for-private-sector-in-cross-border-power-trade",
-   "content": "The energy ministry has initiated the process of amending the Electricity Act, with a bill forwarded to the law ministry.",
    "published_date": "",
    "score": 0.6
   }

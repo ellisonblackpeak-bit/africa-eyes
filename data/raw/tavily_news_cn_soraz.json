@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Fuel queues form in Niamey amid Niger shortage — The Rio Times | UA.NEWS",
-   "url": "https://ua.news/en/world/u-niameyi-utvorilisia-chergi-za-palnim-na-tli-defitsitu-v-nigeri-the-rio-times",
-   "snippet": "Niger is an exporter of oil and uranium, but for its domestic market the country depends on the only operating SORAZ oil refinery in the city of Zinder, cross-border supply routes, and informal imports. The publication notes that SORAZ's capacity is insufficient to meet national demand and that the facility cannot quickly change its production mix according to gasoline needs. [...] Oil from the Ag",
-   "published": "Mon, 19 Oct 2026 16:22:11 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger Bans Petrol, Diesel Exports To Prioritise Domestic Supply – Arise News",
-   "url": "https://www.arise.tv/niger-bans-petrol-diesel-exports-to-prioritise-domestic-supply",
-   "snippet": "However, exports of surplus products by the state-owned petroleum company, SONIDEP, and the Zinder refinery operator, SORAZ, may be permitted with special authorisation from the minister responsible for trade.\n\nArticle One of the order states that the export of diesel and premium petrol from Niger is prohibited. [...] The government also authorised officials of the Ministry of Trade and Industry, ",
-   "published": "Mon, 19 Oct 2026 12:47:15 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_soraz",
  "_query": "Zinder refinery Niger",
  "_domains": [],

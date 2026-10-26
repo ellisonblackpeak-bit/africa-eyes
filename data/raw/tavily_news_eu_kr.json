@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "The EU needs to get real and develop stronger partnerships with likeminded allies – and South Korea is a perfect candidate – CEPS",
-   "url": "https://www.ceps.eu/the-eu-needs-to-get-real-and-develop-stronger-partnerships-with-likeminded-allies-and-south-korea-is-a-perfect-candidate",
-   "snippet": "The most concrete next step is the Security Action for Europe (SAFE) initiative, the EU’s EUR 150 billion common defence procurement instrument. South Korea can already participate in common procurement but components originating outside the EU, EEA-EFTA states and Ukraine must account for no more than 35 % of the estimated total component costs. South Korea formally asked for deeper access in Sep",
-   "published": "Thu, 22 Oct 2026 13:54:37 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "European partners voice unease over South Korea's rift with Ukraine",
-   "url": "https://www.koreajoongangdaily.com/korea/european-partners-voice-unease-over-south-koreas-rift-with-ukraine/12926322",
-   "snippet": "European policymakers have told their South Korean counterparts that to become a major defense partner, Seoul must \"demonstrate greater willingness to align more closely with EU and NATO positions regarding Russia,\" the report said. South Korean arms sales to Europe reached $11.03 billion in 2025, according to the report.\n\nKwon added that Seoul's recall of its ambassador leaves fewer channels to K",
-   "published": "Tue, 20 Oct 2026 09:09:59 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "From Kyiv with love (and savings): A defence win-win for Europe and Ukraine",
-   "url": "https://cepr.org/voxeu/columns/kyiv-love-and-savings-defence-win-win-europe-and-ukraine",
-   "snippet": "Insecurity also raises the price of money. If fear of war takes hold, Europeans could pay a risk premium on everything they borrow, much like the 'Korea discount' long applied to South Korean assets (Becker et al. 2025). EU governments owe about €15.7 trillion (Eurostat 2026). Once that debt is refinanced, each basis point added to borrowing costs would cost about €1.6 billion a year. [...] Europe",
-   "published": "Thu, 22 Oct 2026 17:53:43 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea proposes military talks with North Korea to calm rising border tensions - The Washington Post",
-   "url": "https://www.washingtonpost.com/world/2026/10/23/south-north-korea-border-mines-military-talks/10d232fa-ceb0-11f1-ac04-9f58578a68b4_story.html",
-   "snippet": "Democracy Dies in Darkness\n\n# South Korea proposes military talks with North Korea to calm rising border tensions\n\nSouth Korea has proposed military talks with North Korea to resolve border disputes and prevent accidental clashes\n\nKim Hong-Cheol, South Korea’s deputy minister for defense policy, speaks during a press briefing at the Defense Ministry in Seoul, South Korea, Friday, Oct. 23, 2026. (S",
-   "published": "Fri, 23 Oct 2026 07:10:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Russia’s war is connecting Europe and the Indo-Pacific | Lowy Institute",
-   "url": "https://www.lowyinstitute.org/the-interpreter/russia-s-war-is-connecting-europe-and-the-indo-pacific",
-   "snippet": "Russia has also provided North Korea with economic resources and technological support. These gains have direct implications for the military balance on the Korean Peninsula. Better-tested missiles and artillery, together with troops experienced in large-scale modern warfare, will have to be factored into South Korean and allied deterrence planning. [...] The separation of Europe and the Indo-Paci",
-   "published": "Tue, 20 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Can South Korea Take Wartime Military Command From the US by 2030? - Modern Diplomacy",
-   "url": "https://moderndiplomacy.eu/2026/10/19/can-south-korea-take-wartime-military-command-from-the-us-by-2030",
-   "snippet": "The broader challenge is to reconcile South Korea’s demand for greater command authority with the operational requirements of an alliance designed to respond to a potential North Korean attack.\n\nFor Seoul and Washington, the objective is not simply to change the identity of the wartime commander. It is to ensure that the transition preserves military coordination and deterrence while giving South ",
-   "published": "Mon, 19 Oct 2026 10:12:48 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "India Defense Exports Soar as Europe Rearms Amid Russia-Ukraine War",
-   "url": "https://www.bloomberg.com/graphics/2026-india-defense-exports",
-   "snippet": "Three-quarters of those shipments have gone to nations within a 13-country bloc in Eastern and Central Europe that’s been a major arms supplier to Ukraine, and where demand surged after Russia’s full-scale invasion. India is now the overall second-biggest supplier of arms including shells, mortars, propellants and explosives to these countries, behind South Korea, up from 28th four years ago, acco",
-   "published": "Thu, 22 Oct 2026 01:30:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea invites North for military talks over border | Border Disputes News | Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border",
-   "snippet": "The South blamed the blast on landmines laid by the North and demanded an apology. Pyongyang has fiercely rejected the accusation.\n\nSeoul’s Ministry of National Defence said on Friday that it was difficult to predict “what further incidents could occur if this situation is allowed to continue unaddressed”.\n\nThe ministry noted that a proposal for talks last year did not receive a response from Pyon",
-   "published": "Fri, 23 Oct 2026 10:20:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "North Korea may be the biggest winner of Russia’s war in Ukraine - Atlantic Council",
-   "url": "https://www.atlanticcouncil.org/dispatches/north-korea-may-be-the-biggest-winner-of-russias-war-in-ukraine",
-   "snippet": "from North Korean factories. And an article in The Korea Times, citing South Korean Defense Intelligence, reported that North Korea has sent some 33,000 shipping containers containing munitions, self-propelled guns, rocket launchers, and short range ballistic missiles to Russia. [...] Nuclear propulsion may be another matter. In late 2025, Kim unveiled the hull of North Korea’s first nuclear-power",
-   "published": "Fri, 23 Oct 2026 15:02:42 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_kr",
  "_query": "Europe South Korea defence",
  "_domains": [],

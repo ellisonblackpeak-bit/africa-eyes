@@ -1,42 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground? - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/nigerias-army-hits-lakurawa-base-in-sokoto-but-can-it-hold-the-ground",
-   "snippet": "Lakurawa is an Islamist terrorist group whose name is commonly translated as “the recruits.” The group has been associated with coercive religious enforcement and levies imposed on communities, while analysts have disputed the extent of its links to militant networks across the Sahel. [...] Photo of body of Lakurawa terrorist. Picture Courtesy: Nigerian Army.\n\nBy Onibiyo Segun\n\nTANGAZA, Sokoto Sta",
-   "published": "Mon, 19 Oct 2026 19:22:19 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Jihadist Ambush Kills Christian Aid Worker, Police Name No Suspects - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/jihadist-ambush-kills-christian-aid-worker-police-name-no-suspects",
-   "snippet": "The Kajiji-Shagari corridor connects northwestern economic routes to border regions. Intelligence reports reveal that jihadist groups exploit these porous borders to establish “forward tax points” and hideouts.\n\nNigeria’s Defence Headquarters has identified Lakurawa as a terrorist organization operating in parts of Sokoto and Kebbi states. In August, Lakurawa terrorists attacked three Sokoto commu",
-   "published": "Mon, 19 Oct 2026 19:30:16 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Fearless Evangelists in Nigeria's Ungoverned Western Borderlands Languish in Chains - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/fearless-evangelists-in-nigerias-ungoverned-western-borderlands-languish-in-chains",
-   "snippet": "“Lakurawa provides ideological cover and heavy weapons, while local Fulani bandit gangs provide local knowledge and handle kidnapping for ransom. Ransom money funds expansion of bases, and expansion creates more kidnapping routes. That is why kidnappings are no longer random, they are strategic,” Attaihiru said.\n\nThis pattern is documented in an analysis of armed Fulani militarization across sub-S",
-   "published": "Fri, 23 Oct 2026 18:56:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "THE WEEK: Islamist Jihadists Burn Evangelist Alive in Adamawa, Kidnap Catholic Priest in Benue, Strike Bases - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/the-week-islamist-jihadists-burn-evangelist-alive-in-adamawa-kidnap-catholic-priest-in-benue-strike-bases",
-   "snippet": "Previous article\n\nClergy Warn of Plan to Create Africa-wide Caliphate Based in Nigeria\n\nNext article\n\nNigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground?\n\nNews Desk\n\nNews Desk\n\nRELATED ARTICLES\n\nFeatured\n\n### Jihadist Ambush Kills Christian Aid Worker, Police Name No Suspects\n\nFeatured\n\n### Nigeria’s Army Hits Lakurawa Base in Sokoto, But Can It Hold the Ground?\n\nFeatured\n\n###",
-   "published": "Mon, 19 Oct 2026 19:17:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Kebbi Police Warn Against Road Blockades After Lakurawa Attack",
-   "url": "https://leadership.ng/kebbi-police-warn-against-road-blockades-after-lakurawa-attack",
-   "snippet": "The Kebbi State Police Command has warned that anyone who blocks the Kebbi-Sokoto Federal Highway will be arrested and prosecuted following a recent attack",
-   "published": "Sun, 25 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_lakurawa",
  "_query": "Lakurawa Nigeria",
  "_domains": [],

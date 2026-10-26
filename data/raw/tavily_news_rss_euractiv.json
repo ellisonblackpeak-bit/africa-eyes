@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Austria threatens to veto EU budget",
+   "url": "https://www.rapporteur.com/news/austria-threatens-to-veto-eu-budget/",
+   "content": "Vienna becomes first national capital to take the EU's 2028 to 2034 budget hostage",
+   "published_date": "Mon, 26 Oct 2026 11:12:52 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Trump Is Coming for the Deep Sea. Will Europe Stop Him? [Promoted Content]",
+   "url": "https://www.rapporteur.com/opinion/trump-is-coming-for-the-deep-sea-will-europe-stop-him/",
+   "content": "Washington is moving to license mining on a seabed that belongs to everyone. Europe's leaders must make clear now that they will not tolerate it, and that European companies must stay out - or face consequences.",
+   "published_date": "Mon, 26 Oct 2026 11:00:11 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Temu’s Europe partnerships help small businesses grow [Promoted Content]",
+   "url": "https://www.rapporteur.com/opinion/temus-europe-partnerships-help-small-businesses-grow/",
+   "content": "Temu works with European business associations, testing bodies, IP groups and consumer organisations to help sellers grow, digitalise and internationalise. This FAQ covers seller education, product testing, extended producer responsibility, and partnerships protecting brands and consumers.",
+   "published_date": "Mon, 26 Oct 2026 10:00:42 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Poland’s free drugs overhaul cuts costs, but industry warns of supply risks [Partner Content]",
    "url": "https://www.rapporteur.com/news/polands-free-drugs-overhaul-cuts-costs-but-industry-warns-of-supply-risks/",
    "content": "New rules for Poland's free medicines scheme for seniors have brought the first reimbursement changes, with industry calling for predictable decisions and secure supplies",
@@ -188,27 +209,6 @@
    "url": "https://www.rapporteur.com/news/national-rally-closes-ranks-around-re-elected-leader-jordan-bardella/",
    "content": "RN activists sought to keep controversy outside their Orléans congress",
    "published_date": "Sat, 24 Oct 2026 16:10:11 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "250,000 rally in Madrid demanding state pension guarantees",
-   "url": "https://www.rapporteur.com/news/250000-rally-in-madrid-demanding-state-pension-guarantees/",
-   "content": "Rally comes amid political row over sustainability of Spain's pension scheme and cost of living",
-   "published_date": "Sat, 24 Oct 2026 13:28:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Police fire tear gas as new French demonstrations kick off",
-   "url": "https://www.rapporteur.com/news/police-fire-tear-gas-as-new-french-demonstrations-kick-off/",
-   "content": "Authorities deploy 70,000 security personnel amid fears of renewed violence",
-   "published_date": "Sat, 24 Oct 2026 10:57:51 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Commission remains on alert after PHP cybersecurity flaws",
-   "url": "https://www.rapporteur.com/news/commission-remains-on-alert-after-php-cybersecurity-flaws/",
-   "content": "The EU executive kept its websites online, unlike several European governments",
-   "published_date": "Sat, 24 Oct 2026 10:03:29 +0000",
    "score": 0.6
   }
  ],

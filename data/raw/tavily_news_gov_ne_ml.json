@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "How Junta-Led AES Are Building a Censorship Cartel in the Region - Digital Tech, AI & Information Disorder Analysis Centre",
-   "url": "https://daidac.thecjid.org/how-junta-led-aes-are-building-a-censorship-cartel-in-the-region",
-   "snippet": "The military juntas of Mali, Burkina Faso, and Niger came to power on a shared common political narrative: that the civilian governments they overthrew had failed their people through corruption, dependence on Western institutions, and an inability to manage the Sahel’s compounding security crises. [...] The numbers alone are damning. Niger’s 37-place single-year fall is the steepest ever recorded",
-   "published": "Wed, 21 Oct 2026 13:54:28 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Almost 21 months after Mali, Burkina Faso and Niger ...",
-   "url": "https://www.facebook.com/guardianng/posts/almost-21-months-after-mali-burkina-faso-and-niger-walked-out-of-the-economic-co/1684315249722565",
-   "snippet": "The juntas in Niger, Mali and Burkina Faso came to power in a series of coups over recent years and announced their intention to leave ECOWAS in January.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc • FRANCE 24 English",
-   "url": "https://www.youtube.com/watch?v=EsuPwyPQJzI",
-   "snippet": "### Description\n64 views\nPosted: 2026-10-20\nThree junta-ruled Sahel states – Niger, Mali and Burkina Faso – on Saturday resumed dialogue with the ECOWAS regional bloc, which they withdrew from more than 18 months ago. They agreed to work towards a “framework agreement” on cooperation. FRANCE 24’s regional correspondent Harold Girard tells us more.\n#sahel #ecowas #africa\n\n🔔 Subscribe to France 24 n",
-   "published": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Burkina Faso, Mali and Niger are back at the negotiating ...",
-   "url": "https://www.facebook.com/firstpostin/posts/burkina-faso-mali-and-niger-are-back-at-the-negotiating-table-with-ecowas-after-/1648934783934169",
-   "snippet": "The juntas in Niger, Mali and Burkina Faso came to power in a series of coups over recent years and announced their intention to leave ECOWAS in January.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc - France 24",
-   "url": "https://www.france24.com/en/video/20261020-niger-mali-and-burkina-faso-resume-dialogue-with-ecowas-regional-bloc",
-   "snippet": "Issued on:\n\nShare\n\nThree junta-ruled Sahel states – Niger, Mali and Burkina Faso – on Saturday resumed dialogue with the ECOWAS regional bloc, which they withdrew from more than 18 months ago. They agreed to work towards a “framework agreement” on cooperation. FRANCE 24’s regional correspondent Harold Girard tells us more.\n\nKeywords for this article\n\n Africa\n West Africa\n Sahel\n\nIn Kenya, recycled",
-   "published": "Tue, 20 Oct 2026 12:21:24 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Burkina Faso, Mali, and Niger have resumed talks with the ...",
-   "url": "https://www.facebook.com/trtafrika/posts/burkina-faso-mali-and-niger-have-resumed-talks-with-the-west-african-regional-bl/1100657526086382",
-   "snippet": "Mali and Burkina, ruled by juntas who seized power in coups in 2020 and 2022 respectively, rushed to back Niger's military rulers",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - myMotherLode.com",
-   "url": "https://mymotherlode.com/news/africa/11252926/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years.html/amp",
-   "snippet": "Last April, the countries of the Alliance of Sahel States — Niger, Mali and Burkina Faso — recalled their ambassadors from Algeria following an incident in which a Malian drone was shot down by Algeria’s army near the border.\n\nAlgeria’s foreign ministry also condemned the 2023 coup which brought Niger’s junta leader Tchiani to power.\n\nTags:  ap2\n\n© 2000-2024 Clarke Broadcasting Corporation. All ri",
-   "published": "Mon, 26 Oct 2026 01:34:15 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria senate approves sending troops to Niger: Senator",
-   "url": "https://english.alarabiya.net/amp/News/world/2026/10/25/algeria-senate-approves-sending-troops-to-niger-senator",
-   "snippet": "The incident triggered a diplomatic row, with Niger joining fellow junta-led allies Mali and Burkina Faso in recalling its ambassador from Algiers.\n\nNiger has been run by General Tiani since a coup in July 2023 that toppled the elected president Mohamed Bazoum, who has been detained ever since.\n\nRead more:\n\nNiger blames France for inciting soldiers’ mutiny, Paris denies\n\nImage 4 Get the latest sto",
-   "published": "Sun, 25 Oct 2026 13:10:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - The Washington Post",
-   "url": "https://www.washingtonpost.com/world/2026/10/25/algeria-niger-troops-economic-interests/d61a26ba-d0ce-11f1-9931-2a41b76fc976_story.html",
-   "snippet": "ALGIERS, Algeria — Algeria’s parliament approved a resolution Sunday to send troops to Niger , making it the first time Algerian soldiers will be deployed abroad since 1973, when they were sent to support Egypt during the Arab-Israeli war.\n\npixel [...] Democracy Dies in Darkness\n\n# Algeria to send troops to Niger in first foreign deployment in over 50 years\n\nAlgeria’s parliament has approved a res",
-   "published": "Sun, 25 Oct 2026 23:55:01 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

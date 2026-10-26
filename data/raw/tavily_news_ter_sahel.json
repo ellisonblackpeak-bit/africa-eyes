@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "North Africa and the Sahel face the next global food shock  – GIS Reports",
-   "url": "https://www.gisreportsonline.com/r/food-crisis-africa",
-   "snippet": "A November 2024 report found that jihadist groups have exploited severe social stress to deepen political instability. Drawing on five years of data, the study attributed 60 percent of violent incidents in the central Sahel to such groups, which have used resource scarcity to their advantage and targeted vital infrastructure, including water networks. Similar attacks have also occurred in Libya. [",
-   "published": "Wed, 21 Oct 2026 06:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Situation in the Sahel - ICT",
-   "url": "https://ict.org.il/the-situation-in-the-sahel",
-   "snippet": "Three years after General Abdouramane Tchiani took office in a coup on July 26, 2023, Niger is still experiencing instability.  In the Tillabéry region, the epicenter of violence in the west of the country, Jihadist attacks are increasing and continue to claim many lives, both soldiers and civilians. (#_ftn15) Thousands of people have been forced to flee their villages, leading to a severe humanit",
-   "published": "Tue, 20 Oct 2026 08:47:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Civilians flee as Islamic State Sahel Province fighters set ...",
-   "url": "https://www.facebook.com/TimesLIVE/posts/civilians-flee-as-islamic-state-sahel-province-fighters-set-homes-ablaze-and-ste/1562510539255714",
-   "snippet": "Public 40 civilians have been brutally killed in an attack carried out by Islamic State in the Sahel region. The attack occured at Asongo-Gao in Mali.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Islamic State-linked militants kill at least 48 civilians in ...",
-   "url": "https://www.reuters.com/world/africa/islamic-state-linked-militants-kill-least-48-civilians-eastern-mali-sources-say-2026-10-20",
-   "snippet": "The attacks by fighters from Islamic State Sahel Province took place in at least five localities ​in Menaka and the overall toll was still being determined",
-   "published": "Tue, 20 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The growing security crisis in the Sahel raises concerns ...",
-   "url": "https://www.facebook.com/PANAFRICANTV/posts/the-growing-security-crisis-in-the-sahel-raises-concerns-about-the-potential-spi/1137873951948826",
-   "snippet": "Benin, Ghana, Côte d'Ivoire and Togo are confronting increased risks from Islamic State jihadists and Al Qaeda militants waging war over their northern borders",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/De2rxsvlzi5",
-   "snippet": "geopolitical.guy\n\nThe Sahel’s jihadist insurgency is moving west.  \n  \nSource: @acleddata\n\n## No comments yet.\n\nStart the conversation.\n\n26\n\nLog in to like or comment.\n\nMore posts from geopolitical.guy\n\nPhoto by Geopolitical Guy on August 14, 2024.\n\nPhoto by Geopolitical Guy on October 23, 2026. May be an image of map, magazine, poster and text.\n\nPhoto by Geopolitical Guy on October 23, 2026. May ",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Guinea: Announced Extremist Arrests Highlight Transit, Recruitment, and Radicalisation Risks in Upper Guinea | African Security Analysis",
-   "url": "https://www.africansecurityanalysis.org/updates/announced-extremist-arrests-highlight-transit-recruitment-and-radicalisation-risks-in-upper-guinea",
-   "snippet": "Read more\n\nMali, Burkina Faso, Niger13 okt. 2026 10:04\n\n### Renewed Jihadist Rivalry Threatens to Reshape the Eastern Sahel\n\nRenewed fighting between JNIM and ISSP around Tessit in eastern Mali and Oudalan province in northern Burkina Faso signals a potentially significant escalation in the struggle for control of the tri-border region.\n\nRead more\n\nREQUEST FOR INTEREST\n\n### How can we help you de-",
-   "published": "Sun, 25 Oct 2026 22:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger faces persistent attacks by armed groups, including ...",
-   "url": "https://www.facebook.com/channelsforum/posts/niger-faces-persistent-attacks-by-armed-groups-including-in-areas-near-the-borde/1788116516009425",
-   "snippet": "10 Niger Soldiers Killed in Jihadist Attacks – Government Ten Nigerien soldiers have been confirmed dead following coordinated attacks by suspected jihadist",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "More than 40 civilians killed in Mali attack blamed on Islamic State",
-   "url": "https://www.youtube.com/watch?v=WH0u25fDAJs",
-   "snippet": "[0:25] A security source based in Gah says the massacre occurred in retaliation for military operations carried out in the region recently and for attacks by the\n[0:34] MSA. Mali's been plagued since 2012 by a security crisis pitting the army against geodist fighters to separatist groups\n[0:42] and criminal gangs. Since backto-back coups in 2020 and 2021, its military leaders have turned to Russia",
-   "published": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_sahel",
  "_query": "Sahel jihadist attack",
  "_domains": [],

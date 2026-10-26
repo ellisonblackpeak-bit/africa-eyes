@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
+   "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
+   "content": "The WSJ reports that Trump administration officials are floating former Hungarian prime minister Viktor Orbán for UN secretary-general, potentially backed by the US, Russia and China, though nothing is confirmed and his selection remains uncertain.",
+   "published_date": "Mon, 26 Oct 2026 12:11:58 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Why Israel’s wartime election isn’t just about the battle with Iran and Hamas",
+   "url": "https://www.euronews.com/2026/10/26/why-israels-wartime-election-isnt-just-about-the-battle-with-iran-and-hamas",
+   "content": "From army exemptions for the ultra-Orthodox to a stalled 7 October inquiry, the issues splitting voters have little to do with Gaza, Lebanon or Iran.",
+   "published_date": "Mon, 26 Oct 2026 12:01:54 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Latest news bulletin | October 26th, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this October 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Mon, 26 Oct 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Mexico: spectacular Catrina parade brings the dead to life",
+   "url": "https://www.euronews.com/video/2026/10/26/mexico-spectacular-catrina-parade-brings-the-dead-to-life",
+   "content": "Skeleton faces, extravagant headdresses and dazzling costumes transformed Mexico City's streets into a colourful spectacle. The annual Catrinas Parade celebrates the country's Day of the Dead traditions.",
+   "published_date": "Mon, 26 Oct 2026 11:03:31 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "From metalworker to Brazil's president: Lula da Silva's rise",
+   "url": "https://www.euronews.com/2026/10/26/from-metalworker-to-brazils-president-lula-da-silvas-rise",
+   "content": "Lula broke with his unfavourable record since 1989, winning the runoff after losing the first round, crowning a career that took him from metalworker to Brazil's presidency.",
+   "published_date": "Mon, 26 Oct 2026 10:18:13 +0100",
+   "score": 0.6
+  },
+  {
    "title": "US: Nicki Minaj endorses Trump at Michigan Republican rally",
    "url": "https://www.euronews.com/video/2026/10/26/us-nicki-minaj-endorses-trump-at-michigan-republican-rally",
    "content": "Nicki Minaj joined Donald Trump at a Republican rally in Michigan, declaring her support for the president. The event also saw Trump renew his attacks on Democratic Senate candidate Abdul El-Sayed.",
@@ -174,41 +209,6 @@
    "url": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives",
    "content": "UAE’s star diplomat Lana Nusseibeh has entered the race for the UN secretary-general position, challenging front-runner Rebeca Grynspan at a decisive time for the global organisation's future. The UN chief race could now lead to the first ever female secretary-general.",
    "published_date": "Fri, 23 Oct 2026 18:12:26 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 23rd, 2026 – Evening",
-   "url": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Fri, 23 Oct 2026 18:00:26 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Kenya: huge piles of rubble after high-rise building collapses",
-   "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses",
-   "content": "A multi-storey building under construction has collapsed in Nairobi, leaving a vast pile of rubble. Red Cross workers have arrived at the scene, where excavators are being used among the debris.",
-   "published_date": "Fri, 23 Oct 2026 16:15:25 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Storm Austen batters France and UK with winds of up to 160 km/h",
-   "url": "https://www.euronews.com/video/2026/10/23/storm-austen-batters-france-and-uk-with-winds-of-up-to-160-kmh",
-   "content": "Huge waves, uprooted trees and damaged boats mark Storm Austen's arrival in France and the UK. Gusts of up to 160 km/h have battered Brittany, while fallen branches have blocked roads in southern England.",
-   "published_date": "Fri, 23 Oct 2026 15:16:54 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine hits Russian data centres in blow to Moscow's AI capabilities",
-   "url": "https://www.euronews.com/2026/10/23/ukraine-hits-russian-data-centres-in-blow-to-moscows-ai-capabilities",
-   "content": "Drones hit three Yandex facilities, a Sber centre and a VKontakte server farm across five Russian regions, causing persistent failures in payments, navigation and cloud services. Experts say restoring the infrastructure could take months or years.",
-   "published_date": "Fri, 23 Oct 2026 15:07:54 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "France: shops barricaded in Lyon and Orléans for possible unrest",
-   "url": "https://www.euronews.com/video/2026/10/23/france-shops-barricaded-in-lyon-and-orleans-for-possible-unrest-as-protests-loom",
-   "content": "Wooden boards are going up across France as shopkeepers brace for possible unrest. With a National Rally congress in Orléans and protests approaching in Lyon, businesses fear damage and disruption.",
-   "published_date": "Fri, 23 Oct 2026 14:32:20 +0200",
    "score": 0.6
   }
  ],

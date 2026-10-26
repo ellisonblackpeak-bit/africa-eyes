@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Burnham wants UK back in EU within his lifetime",
+   "url": "https://www.politico.eu/article/burnham-wants-uk-back-in-eu-within-his-lifetime/",
+   "content": "But British prime minister rules out rejoin push in current parliament.",
+   "published_date": "Mon, 26 Oct 2026 10:13:20 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Cyberangriffe kommen nicht nur zu Bürozeiten",
+   "url": "https://www.politico.eu/sponsored-content/cyberangriffe-kommen-nicht-nur-zu-buerozeiten/",
+   "content": "Künstliche Intelligenz verschärft die Bedrohungslage für Unternehmen und stellt klassische Schutzkonzepte auf die Probe. Wie sich IT-Systeme dennoch wirksam und rund um die Uhr schützen lassen, zeigt Babor mit innovativen Sicherheitslösungen.",
+   "published_date": "Mon, 26 Oct 2026 09:17:40 +0000",
+   "score": 0.6
+  },
+  {
    "title": "The three hot topics splitting the cabinet",
    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/the-three-hot-topics-splitting-the-cabinet/",
    "content": "At its core, will this be a John Healey or an Andy Burnham budget – and will it deliver any real breathing space? With the biggest fiscal event of the year looming, Sam Coates and Anne McElvoy examine some of the cabinet divisions across a range of topics, including oil drilling, migration policy and a […]",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/",
    "content": "The Serbian leader lost in a landslide to a protest-backed student movement.",
    "published_date": "Sun, 25 Oct 2026 21:18:11 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Le Pen casts herself as protector of France as troubles swirl",
-   "url": "https://www.politico.eu/article/marine-le-pen-casts-herself-as-frances-protector-as-country-faces-mounting-troubles/",
-   "content": "The front-runner ahead of the 2027 presidential election is under pressure to reassure voters as turmoil grips France.",
-   "published_date": "Sun, 25 Oct 2026 18:57:05 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "France: The sickest man of Europe",
-   "url": "https://www.politico.eu/article/france-the-sickest-man-of-europe/",
-   "content": "The European Union’s second-biggest economy is being dragged into a vicious cycle of fiscal and social crises.",
-   "published_date": "Sun, 25 Oct 2026 18:45:47 +0000",
    "score": 0.6
   }
  ],

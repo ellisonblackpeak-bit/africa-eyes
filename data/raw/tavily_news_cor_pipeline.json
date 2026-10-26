@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security - EnviroNews - latest environment news, climate change, renewable energy",
-   "url": "https://www.environewsnigeria.com/un-hails-nigeria-morocco-gas-pipeline-project-as-booster-of-africas-energy-security",
-   "snippet": "The Nigeria–Morocco gas pipeline, also known as the African Atlantic Gas Pipeline (AAGP), is a strategic project jointly initiated by Nigeria and Morocco in 2016.\n\nThe project is designed to transport Nigerian natural gas through West African countries to Morocco, with the possibility of extending supplies to European markets.\n\nAccording to ECOWAS, the proposed pipeline network will span approxima",
-   "published": "Sun, 25 Oct 2026 11:53:04 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "UN Economic Commission for Africa: Morocco-Nigeria Gas pipeline Project, Driver of Africa’s Energy security – The North Africa Post",
-   "url": "https://northafricapost.com/101107-un-economic-commission-for-africa-morocco-nigeria-gas-pipeline-project-driver-of-africas-energy-security.html",
-   "snippet": "The Nigeria-Morocco gas pipeline is ambitious strategic project launched by Rabat and Abuja in 2016 within the framework of South-South cooperation and “win-win” partnership.\n\nThe project is designed to transport Nigerian natural gas through West African countries to Morocco, with the potential to extend supplies to European markets. [...] The UN official made the remarks while responding to quest",
-   "published": "Fri, 23 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "‘Ohanaeze at 50’: Onuma on hazards of unipolarism (1) – Businessday NG",
-   "url": "https://businessday.ng/life/article/ohanaeze-at-50-onuma-on-hazards-of-unipolarism-1?amp=",
-   "snippet": "A new Colonial Master looms large on the economic horizon of 21st Century Igboland. He is the militant Arab expansionist, hand in glove with the Islamist Nigeria, that captured the Ohaji/Egbema gas fields through the Nigeria-Morocco Gas Pipeline, NMGP, also known as the African Atlantic Gas Pipeline, AAGP. His resource terrorism against Ndigbo has been going on since 2016. Once completed, the pipe",
-   "published": "Sun, 25 Oct 2026 13:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Security bedrock of Nigeria’s trillion-dollar economy ambition —Defence minister - Realnews Magazine",
-   "url": "https://realnewsmagazine.net/security-bedrock-of-nigerias-trillion-dollar-economy-ambition-defence-minister",
-   "snippet": "Read More\n\n## Most Read\n\n## Subscribe to Our Newsletter\n\nKeep abreast of news and other developments from our website.\n\n[](\n\n## Latest Stories\n\n[](\n\n## UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\n[](\n\n## Security bedrock of Nigeria’s trillion-dollar economy ambition —Defence minister\n\n[](\n\n## Makinde urges politicians to emulate Fasoranti’s virtues\n\n--- [.",
-   "published": "Thu, 22 Oct 2026 05:50:12 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Lagos water crisis: Residents rely on boreholes as public supply falls far short of demand - EnviroNews - latest environment news, climate change, renewable energy",
-   "url": "https://www.environewsnigeria.com/lagos-water-crisis-residents-rely-on-boreholes-as-public-supply-falls-far-short-of-demand",
-   "snippet": "#### Latest news\n\n### UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\n### El Niño: Experts warn of heat-related illnesses, disease risks\n\n### Group demands institutionalisation of mentorship training for young engineers\n\n### NDPHC breaks ground on power project to end 15-year darkness in Kaduna community\n\n### SON publishes energy efficiency standards for house",
-   "published": "Sun, 25 Oct 2026 13:40:43 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "NAN seeks partnership with Xinhua for African media summit - Realnews Magazine",
-   "url": "https://realnewsmagazine.net/nan-seeks-partnership-with-xinhua-for-african-media-summit",
-   "snippet": "## Most Read\n\n## Subscribe to Our Newsletter\n\nKeep abreast of news and other developments from our website.\n\n[](\n\n## Latest Stories\n\n[](\n\n## Anambra deploys nurses to airport, activates Ebola hotlines\n\n[](\n\n## NAN seeks partnership with Xinhua for African media summit\n\n[](\n\n## UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\n--- [...] VETERAN journalist Ray Ekp",
-   "published": "Thu, 22 Oct 2026 05:55:04 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in decades | FMT",
-   "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-decades",
-   "snippet": "The two countries have been working to build the Trans-Saharan Gas Pipeline (TSGP), a vast project to export natural gas to Europe from Nigeria via Niger.\n\n‘Strong signal’\n\nAkir said the measure also sought to “send a strong signal to competing actors, including Morocco and the United Arab Emirates” — two countries with which Algiers no longer has diplomatic ties. [...] “This decision marks a hist",
-   "published": "Sun, 25 Oct 2026 23:15:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria’s gas paradox",
-   "url": "https://thenationonlineng.net/nigerias-gas-paradox",
-   "snippet": "With the right policies, we shouldn't have problem with local supply There is a familiar Nigerian proverb about living by the riverside while washing.",
-   "published": "Tue, 20 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cor_pipeline",
  "_query": "Nigeria Morocco gas pipeline",
  "_domains": [],
