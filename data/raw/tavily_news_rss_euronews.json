@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Russia: flames engulf buildings after Ukrainian drone attack in Voronezh region",
+   "url": "https://www.euronews.com/video/2026/10/26/russia-flames-engulf-buildings-after-ukrainian-drone-attack-in-voronezh-region",
+   "content": "At least two people were killed and 17 injured in a Ukrainian drone attack on Russia's Voronezh region. Flames engulfed buildings, while falling debris struck a commuter train.",
+   "published_date": "Mon, 26 Oct 2026 18:19:45 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Zelenskyy calls out monthlong wait for Hegseth to sign off on Patriot missiles",
+   "url": "https://www.euronews.com/2026/10/26/zelenskyy-calls-out-monthlong-wait-for-hegseth-to-sign-off-on-patriot-missiles",
+   "content": "Kyiv has repeatedly pressed the need for more interceptors to be delivered to its forces as Ukraine continues to defend against deadly Russian missile attacks and jet-powered drone strikes.",
+   "published_date": "Mon, 26 Oct 2026 18:07:20 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Latest news bulletin | October 26th, 2026 – Evening",
+   "url": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-evening",
+   "content": "Catch up with the most important stories from around Europe and beyond this October 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Mon, 26 Oct 2026 18:00:26 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "UK: Oxford Street pedestrianisation begins in central London",
+   "url": "https://www.euronews.com/video/2026/10/26/uk-oxford-street-pedestrianisation-begins-in-central-london",
+   "content": "Pedestrians have taken over part of London's Oxford Street as a new traffic ban comes into force.",
+   "published_date": "Mon, 26 Oct 2026 17:29:06 +0100",
+   "score": 0.6
+  },
+  {
    "title": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting?",
    "url": "https://www.euronews.com/2026/10/26/from-the-mecca-defence-pact-to-tehran-talks-is-the-middle-easts-security-landscape-shiftin",
    "content": "Saudi Arabia, Pakistan and Turkey are pursuing talks with Tehran while strengthening their military readiness under the terms of the Mecca Defence Alliance.",
@@ -32,7 +60,7 @@
   {
    "title": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
    "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
-   "content": "The WSJ reports that Trump administration officials are floating former Hungarian prime minister Viktor Orbán for UN secretary-general, potentially backed by the US, Russia and China, though nothing is confirmed and his selection remains uncertain.",
+   "content": "Trump administration officials are reportedly floating former Hungarian prime minister Viktor Orbán for UN secretary-general, potentially backed by the US, Russia and China, though nothing is confirmed and his selection remains uncertain.",
    "published_date": "Mon, 26 Oct 2026 12:11:58 +0100",
    "score": 0.6
   },
@@ -181,34 +209,6 @@
    "url": "https://www.euronews.com/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany",
    "content": "A fire broke out at the Eagle's Nest, Adolf Hitler's former mountain retreat in southern Germany. Police say a suspect has been detained, and around 200 firefighters were deployed to tackle the blaze.",
    "published_date": "Sat, 24 Oct 2026 16:11:34 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Soldiers patrol Milan streets as shops board up ahead of protests",
-   "url": "https://www.euronews.com/2026/10/24/soldiers-patrol-milan-streets-as-shops-board-up-ahead-of-protests",
-   "content": "Milan is on alert ahead of expected protests, with additional soldiers deployed and shops boarding up their windows a week after looting and clashes with police.",
-   "published_date": "Sat, 24 Oct 2026 14:06:25 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Footage shows smoke plumes after deadly strike on Russian factory",
-   "url": "https://www.euronews.com/2026/10/24/footage-shows-smoke-plumes-after-deadly-strike-on-russian-factory",
-   "content": "Three people were killed and five others seriously wounded in a reported Ukrainian attack on a factory in Russia’s Oryol region, according to local authorities.",
-   "published_date": "Sat, 24 Oct 2026 13:33:01 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 24th, 2026 – Midday",
-   "url": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sat, 24 Oct 2026 12:00:15 +0200",
-   "score": 0.6
-  },
-  {
-   "title": "Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA",
-   "url": "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia",
-   "content": "The Trump administration has repeatedly stated that its goal is to bring about a change in Havana's leadership, with President Donald Trump himself having claimed the country is \"ready to fall.\"",
-   "published_date": "Sat, 24 Oct 2026 09:28:46 +0200",
    "score": 0.6
   }
  ],

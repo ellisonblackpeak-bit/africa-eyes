@@ -2,10 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Yadda aka yi jana'izar mutum 50 da suka mutu a harin ƴanbindiga a Taraba",
-   "url": "https://www.bbc.com/hausa/articles/cmwyq9v25lppo?at_medium=RSS&at_campaign=rss",
-   "content": "Ƴanbindiga sun kai hari hari ƙauyen ne jim kaɗan bayan sallar Juma'a, suna harbin kan mai uwa da wabi, tare da sace kayayyakin abinci da kuma ƙona shaguna da babura.",
-   "published_date": "Mon, 26 Oct 2026 15:10:53 GMT",
+   "title": "Yadda bidiyon ƴan agajin Izala ya tayar da ƙura a Najeriya",
+   "url": "https://www.bbc.com/hausa/articles/cme8rwn469zlo?at_medium=RSS&at_campaign=rss",
+   "content": "A cikin bidiyon, an ga matasan suna fareti tare da furta wasu kalamai a salon waƙa, waɗanda suka sa wasu 'yan Najeriya nuna fargabar cewa za su iya \"haddasa tarzoma\".",
+   "published_date": "Mon, 26 Oct 2026 17:37:46 GMT",
    "score": 0.6
   },
   {
@@ -13,6 +13,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/cq4g1wn21w1et?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 26/10/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda aka yi jana'izar mutum 50 da suka mutu a harin ƴanbindiga a Taraba",
+   "url": "https://www.bbc.com/hausa/articles/cmwyq9v25lppo?at_medium=RSS&at_campaign=rss",
+   "content": "Ƴanbindiga sun kai hari hari ƙauyen ne jim kaɗan bayan sallar Juma'a, suna harbin kan mai uwa da wabi, tare da sace kayayyakin abinci da kuma ƙona shaguna da babura.",
+   "published_date": "Mon, 26 Oct 2026 15:10:53 GMT",
    "score": 0.6
   },
   {
@@ -51,13 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Iran da ƙawayenta na shirin kai mana hari lokacin zaɓe - Netanyahu",
-   "url": "https://www.bbc.co.uk/hausa/live/c80401dn9lk4t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 25/10/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -65,7 +65,7 @@
    "score": 0.6
   },
   {
-   "title": "Shugabannin Man United za su tattauna kan makomar Carrick",
+   "title": "Watakila Howe ko Nagelsmann zai maye gurbin Carrick a United",
    "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
    "published_date": "",
@@ -97,6 +97,13 @@
    "url": "https://www.bbc.com/hausa/articles/cmg4735z619lo?at_medium=RSS&at_campaign=rss",
    "content": "Hayaniyar ihu da tsangwama lokacin taken Premier League da Champions League kafin fara wasa yanzu ya zama ruwan dare a filin wasa na Etihad Stadium.",
    "published_date": "Thu, 22 Oct 2026 11:07:50 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Iran da ƙawayenta na shirin kai mana hari lokacin zaɓe - Netanyahu",
+   "url": "https://www.bbc.co.uk/hausa/live/c80401dn9lk4t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 25/10/2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/cqp8g57jl44zt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Alhamis 22/10/2026",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Mene ne harajin man fetur da Tinubu ke son ɓullo da shi?",
-   "url": "https://www.bbc.com/hausa/articles/cre3xk5kdqqxo?at_medium=RSS&at_campaign=rss",
-   "content": "Wata sabuwar muhawara ta kunno kai a Najeriya kan zargin cewa gwamnatin ƙasar na shirin ɓullo da wani sabon haraji da ka iya ƙara tasiri ga farashin man fetur a ƙasar.",
-   "published_date": "Thu, 22 Oct 2026 16:14:18 GMT",
    "score": 0.6
   }
  ],

@@ -2,17 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Chinese companies are drawing attention as they head to Thailand in increasing numbers to avoid tari.. - MK",
-   "url": "https://www.mk.co.kr/en/world/12181596",
-   "snippet": "Donald Low, a professor in the Department of Public Policy at the Hong Kong University of Science and Technology, told SCMP, “Infrastructure bottlenecks and rising labor costs are making Vietnam less attractive as a destination for manufacturing investment.” He added, “By contrast, Thailand has a mature and sophisticated manufacturing base.” [...] A quarter of investment projects approved by the T",
-   "published": "Wed, 21 Oct 2026 03:18:13 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "COMMENTARY: US tariff war is fueling Vietnam's coal boom",
    "url": "https://www.reuters.com/commentary/reuters-open-interest/us-tariff-war-is-fueling-vietnams-coal-boom-2026-10-23",
    "snippet": "A years-long trade war between the United States and China has helped shift manufacturing investment, factory output and export production into Vietnam,",
-   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -58,10 +51,17 @@
    "source": "tavily"
   },
   {
+   "title": "Chinese companies are drawing attention as they head to Thailand in increasing numbers to avoid tari..",
+   "url": "https://www.mk.co.kr/en/world/12181596",
+   "snippet": "On the 21st, Hong Kong's South China Morning Post (SCMP), citing data from Thailand's Board of Investment, reported that the Thai government approved 321",
+   "published": "Wed, 21 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Facing a looming Ban, TP-Link partners with American Manufacturer to build Wi-Fi 8 Routers",
    "url": "https://mix93.com/vip-inside-story?id=152906&category=tech-made-simple",
    "snippet": "Facing the looming US's foreign-made router ban, TP-Link plans to partner with domestic electronics manufacturer Key Tronic Corporation to assemble Wi-Fi 8",
-   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
    "source": "tavily"
   }
  ],
