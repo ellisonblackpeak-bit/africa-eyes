@@ -595,9 +595,36 @@ RSS_FEEDS = [
     ("lesahel",     "https://www.lesahel.org/feed/",                  "lesahel.org"),
     ("airinfo",     "https://airinfo.org/feed/",                      "airinfo.org"),
     ("malijet",     "https://malijet.com/rss",                        "malijet.com"),
+    # ── Local languages (added 2026-10-26) ──────────────────────────────────
+    # "新闻、动态不仅英文；还要搜索下法语，非洲四国、周边国家当地语言、比如尼日尔豪萨语".
+    # Hausa is the lingua franca of southern Niger and northern Nigeria, and it is
+    # where the Nigerien street-level story lands first — the uranium and junta
+    # copy that never reaches the English wire. BBC Hausa and RFI Hausa both
+    # carry Niger by name (Nijar). Yoruba / Igbo / Pidgin cover the Nigerian
+    # south that the Lagos papers report in English only.
+    # Every one of these is translated before it reaches the page — the Chinese
+    # gate in build_data defers anything whose translation is not ready, so a
+    # Hausa or Korean headline can never surface untranslated.
+    ("bbc_hausa",   "https://feeds.bbci.co.uk/hausa/rss.xml",         "bbc.com"),
+    ("rfi_hausa",   "https://www.rfi.fr/ha/rss",                      "rfi.fr"),
+    ("bbc_pidgin",  "https://feeds.bbci.co.uk/pidgin/rss.xml",        "bbc.com"),
+    ("bbc_yoruba",  "https://feeds.bbci.co.uk/yoruba/rss.xml",        "bbc.com"),
+    ("bbc_igbo",    "https://feeds.bbci.co.uk/igbo/rss.xml",          "bbc.com"),
+    # Periphery in its own language: Korean, Burmese, Hindi, Nepali, Russian.
+    # The English feeds above cover these countries through an English lens;
+    # domestic-language copy carries the defence/procurement/border detail that
+    # never gets translated for a foreign audience.
+    ("bbc_korean",  "https://feeds.bbci.co.uk/korean/rss.xml",        "bbc.com"),
+    ("bbc_burmese", "https://feeds.bbci.co.uk/burmese/rss.xml",       "bbc.com"),
+    ("bbc_hindi",   "https://feeds.bbci.co.uk/hindi/rss.xml",         "bbc.com"),
+    ("bbc_nepali",  "https://feeds.bbci.co.uk/nepali/rss.xml",        "bbc.com"),
+    ("bbc_russian", "https://feeds.bbci.co.uk/russian/rss.xml",       "bbc.com"),
+    ("yonhap_kr",   "https://www.yna.co.kr/rss/news.xml",             "yna.co.kr"),
 ]
 _RSS_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
+# Per-feed item cap, newest first (see the slice in fetch_rss).
+RSS_MAX_ITEMS = int(os.environ.get("RSS_MAX_ITEMS", "30"))
 
 # ── RSS country anchoring (added 2026-10-25) ────────────────────────────────
 # The eight China-neighbourhood feeds are GENERAL newsrooms: koreatimes
@@ -695,6 +722,12 @@ def fetch_rss():
             if _dropped:
                 print("   anchor %s: dropped %d off-country item(s)"
                       % (_label, _dropped), flush=True)
+        # Cap per feed. Adding the local-language wires (Hausa, Yoruba, Igbo,
+        # Pidgin, Korean, Burmese, Hindi, Nepali, Russian) pushed the RSS leg from
+        # ~350 to ~900 candidates a round, and every survivor is paid for twice —
+        # once in translation, once in the reading time it takes from the page.
+        # Feeds are newest-first, so the first 30 are the 30 that matter.
+        results = results[:RSS_MAX_ITEMS]
         rec = {"success": True, "results": results, "engine": "rss",
                "_tag": "rss_" + name, "_query": feed_url, "_domains": [dom],
                "_days": LOOKBACK_DAYS}

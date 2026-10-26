@@ -211,6 +211,33 @@ CN_RX = re.compile(r"""(
  \bchinese-?(?:built|funded|backed)\b
 )""", re.I | re.X)
 
+# China, in the other languages this monitor now collects (added 2026-10-26).
+#
+# ⚠️ NO `\b` ANYWHERE IN HERE. Python's `\b` is a word boundary between \w and
+# non-\w; CJK, Hangul and Devanagari are all \w, so `\b중국\b` inside a Korean
+# sentence ("중국과 한국은…") can never match. That is the single most expensive
+# mistake in this file's history (it silently killed every Chinese country word
+# for a day). These are plain substring tests, which is correct for scripts that
+# do not put spaces between words.
+#
+# French needs its own entry because "chinois" is not "Chinese": without it a
+# francophone story about a Chinese project in Niger was neither 涉华 nor
+# exempt from the local-crime filter, so it was dropped twice over.
+CN_RX_INTL = re.compile(
+    r"(chinois|chinoise|chinoises|pékin|pekin|"
+    r"ƙasar\s*sin|\bsin\b(?!\s*-)|"                 # Hausa: Ƙasar Sin
+    r"중국|중국인|베이징|"                            # Korean
+    r"တရုတ်|"                                       # Burmese
+    r"चीन|चीनी|"                                     # Hindi / Nepali
+    r"китай|китае|китая|пекин)", re.I)
+
+# Fold the two into one object so every existing CN_RX.search() call site — tier
+# ranking, the relevance gate, the 涉华 module filter, the off-scope exemption —
+# picks up the non-English forms at once. Rebuilding the pattern is safer than
+# editing twenty call sites by hand.
+CN_RX = re.compile(r"(?:%s)|(?:%s)" % (CN_RX.pattern, CN_RX_INTL.pattern),
+                   re.I | re.X)
+
 # NOTE: the country abbreviation must be matched CASE-SENSITIVELY and separately
 # from the word list. `\bu\.?s\.?\b` under re.I also matches the English pronoun
 # "us", so a line like "it lets us refine our own products" made a purely local
@@ -677,7 +704,11 @@ CTY_MARKERS = {
            "包奇", "贡贝", "约贝", "阿达马瓦", "塔拉巴", "纳萨拉瓦", "科吉",
            "夸拉", "奥约", "埃基蒂", "埃多州", "三角洲州", "巴耶尔萨",
            "河流州", "阿夸伊博姆", "十字河", "阿比亚", "埃努古", "埃博尼",
-           "伊莫州", "吉加瓦", "尼日尔州", "联邦首都特区"],
+           "伊莫州", "吉加瓦", "尼日尔州", "联邦首都特区",
+           # French and Hausa forms. "nigérian" (Nigerian) and "nigérien"
+           # (Nigerien) differ by one letter and are NOT interchangeable — both
+           # spellings are listed, on their own country, deliberately.
+           "nigérian", "nigériane", "najeriya", "abuja"],
     "ne": ["nigerien", "niamey", "tiani", "somair", "orano", "agadez", "tillaberi",
            "imouraren", "cnsp", "bazoum", "niger republic", "republic of niger",
            "niger's", "niger junta", "niger government", "niger army",
@@ -702,7 +733,14 @@ CTY_MARKERS = {
            # 铀矿。只放尼日尔专有的矿名与运营商，不放光秃秃的"铀矿"——
            # 纳米比亚、坦桑尼亚、哈萨克斯坦都有铀矿，一个通用词就会把它们
            # 全拉进尼日尔模块（同 "junta" 的老毛病）。
-           "尼日尔铀", "欧安诺", "伊穆拉伦", "索迈尔", "阿库塔铀", "阿尔利特铀"],
+           "尼日尔铀", "欧安诺", "伊穆拉伦", "索迈尔", "阿库塔铀", "阿尔利特铀",
+           # French and Hausa forms. "nigérien" is NOT "nigerien" — the accent is
+           # a different character, and a francophone Niger story matched nothing
+           # without it. "Nijar" is how Hausa writes the country; BBC Hausa and
+           # RFI Hausa use it in almost every headline, so without it the entire
+           # Hausa leg would have been classified as 泛非洲 and thrown away.
+           "nigérien", "nigérienne", "nijar", "tahoua", "maradi", "diffa",
+           "dosso", "tillabéri"],
     "ml": ["mali", "malian", "bamako", "goita", "jnim", "timbuktu", "gao", "kidal", "mopti",
            "barrick", "loulo", "gounkoto", "sikasso", "kayes", "azawad", "malien",
            "nusrat al-islam", "jama'at nusrat", "katiba macina", "serma",
@@ -710,12 +748,16 @@ CTY_MARKERS = {
            # JNIM 的中文全称与马里中部/西部地名。JNIM 的中文报道常只写组织名
            # 或只写莫普提、塞古，不写"马里"，缺了这些会被扫进泛非洲。
            "支持伊斯兰与穆斯林组织", "伊斯兰与穆斯林支持组织",
-           "莫普提", "塞古", "锡卡索", "卡伊", "阿扎瓦德", "廷巴克图"],
+           "莫普提", "塞古", "锡卡索", "卡伊", "阿扎瓦德", "廷巴克图",
+           # French forms of the same places; Malijet and RFI write "ségou",
+           # "tombouctou" and "malienne", none of which the English list sees.
+           "malienne", "tombouctou", "ségou", "mopti", "kayes", "sikasso"],
     "gh": ["ghana", "ghanaian", "ghanaians", "accra", "kumasi", "cedi", "mahama", "galamsey",
            "akufo", "tema", "obuasi", "ashanti", "volta", "ecg", "newmont", "goldfields",
            "tamale", "takoradi", "ghanian", "asantehene", "otumfuo", "goldbod",
            "bagbin", "ndc ghana", "nhc ghana", "trades union congress ghana",
-           "加纳", "阿克拉", "库马西", "马哈马", "加纳塞地", "非法采金", "加纳黄金局"],
+           "加纳", "阿克拉", "库马西", "马哈马", "加纳塞地", "非法采金", "加纳黄金局",
+           "ghanéen", "ghanéenne"],
     "wa": ["ecowas", "sahel", "west africa", "west african", "regional bloc",
            "alliance of sahel", "aes states", "gulf of guinea", "burkina faso", "benin",
            "togo", "ivory coast", "cote d'ivoire", "sierra leone", "liberia",
@@ -735,7 +777,10 @@ CTY_MARKERS = {
            # Jeju / Busan / Incheon appear without "Korea" in the headline, and
            # an item naming only 济州岛 would otherwise be swept out as foreign.
            "jeju", "busan", "incheon", "daegu", "gwangju", "ulsan", "daejeon",
-           "济州", "釜山", "仁川", "大邱", "光州", "蔚山", "大田"],
+           "济州", "釜山", "仁川", "大邱", "光州", "蔚山", "大田",
+           # Hangul, for the BBC Korean and Yonhap feeds. Plain substrings —
+           # `\b한국\b` can never match inside a Korean sentence.
+           "한국", "북한", "서울", "평양", "조선", "대한민국", "한반도"],
     "ph": ["philippines", "philippine", "filipino", "manila", "marcos", "duterte",
            "philippine navy",
            "south china sea", "west philippine sea", "scarborough", "spratly",
@@ -757,17 +802,19 @@ CTY_MARKERS = {
            "myanmar junta", "military council", "state administration council",
            "tatmadaw", "min aung hlaing", "nug", "pdf myanmar",
            "rohingya", "wa state army", "kokang", "缅甸", "仰光", "内比都",
-           "敏昂莱", "若开军", "果敢", "缅军", "缅北"],
+           "敏昂莱", "若开军", "果敢", "缅军", "缅北",
+           "မြန်မာ", "ရန်ကုန်", "နေပြည်တော်"],
     "ru": ["russia", "russian", "moscow", "kremlin", "putin", "lavrov", "fsb", "gru",
            "wagner", "russian army", "donbas", "crimea", "russian oil", "gazprom",
-           "rosatom", "俄罗斯", "莫斯科", "克里姆林宫", "普京", "瓦格纳"],
+           "rosatom", "俄罗斯", "莫斯科", "克里姆林宫", "普京", "瓦格纳",
+           "россия", "россии", "москва", "кремль", "путин", "российск"],
     "in": ["india", "indian", "delhi", "new delhi", "modi", "bjp", "congress india",
            "indian army", "lac", "line of actual control", "arunachal pradesh",
            "indian navy", "balakot", "印度", "新德里", "莫迪", "印度人民党",
-           "实控线", "拉达克"],
+           "实控线", "拉达克", "भारत", "दिल्ली", "मोदी"],
     "np": ["nepal", "nepali", "nepalese", "kathmandu", "kp oli", "kp sharma",
            "prachanda", "nepal congress", "bipin ledra", "everest", "himalayan",
-           "尼泊尔", "加德满都", "奥利", "普拉昌达", "尼方"],
+           "尼泊尔", "加德满都", "奥利", "普拉昌达", "尼方", "नेपाल", "काठमाडौं"],
     "vn": ["vietnam", "vietnamese", "hanoi", "ho chi minh city", "hcmc", "saigon",
            "to lam", "vietnam communist party", "vietnam navy", "south china sea",
            "paracel", "spratly", "brics vietnam", "vietnam rail",
@@ -1242,16 +1289,60 @@ HARD_NEWS_RX = re.compile(
     r"(袭击|遇袭|爆炸|绑架|劫持|被捕|拘留|判决|宣判|制裁|关税|军事|"
     r"选举|议会|法院|枪击|死亡|受伤)", re.I)
 
+# ── French ──
+# Added 2026-10-26 with the francophone feeds (RFI Afrique, Le Sahel, Air Info,
+# Malijet, BBC/RFI Hausa's French copy). Without these the French leg was
+# invisible to every filter: a Lesahel headline reading "Finale du tournoi
+# qualitatif de l'UFOA B : le Niger bat la Côte d'Ivoire aux tirs au but"
+# carried no English sport word, so it sailed past is_soft() and a football
+# result was printed as a Niger security item.
+#
+# `\b` IS safe here — French is Latin script — but only for whole words: `\bvol\b`
+# would not catch "vols", and "arrêté" means both "arrested" and "ministerial
+# decree", so the arrest branch uses the unambiguous judicial vocabulary
+# (interpellé, garde à vue, écroué) instead.
+FR_SPORT_RX = re.compile(
+    r"\b(football|foot|tournoi|championnat|finale|demi-finale|quart de finale|"
+    r"buteur|buts|tirs au but|équipe nationale|entraîneur|sélectionneur|"
+    r"joueuse?s?|basket|basketball|boxe|athlétisme|médailles?|"
+    r"jeux olympiques|handball|volley|rugby|coupe du monde|"
+    r"ligue des champions|mercato|transfert|arbitre|stade|"
+    r"tirs au but|éliminatoires?|classement)\b", re.I)
+FR_ENT_RX = re.compile(
+    r"\b(concert|album|chanteu(?:r|se)|musicien|rappeur|acteur|actrice|"
+    r"téléréalité|beauté|miss\b|série télévisée|film|cinéma|"
+    r"festival|tournée|spectacle|célébrité)\b", re.I)
+FR_HARD_RX = re.compile(
+    r"\b(attaque|attentat|tué|tués|mort|morts|blessé|blessés|élection|"
+    r"sanction|sanctions|armée|militaires?|otages?|enlèvement)\b", re.I)
+FR_HEALTH_RX = re.compile(
+    r"\b(épidémie|pandémie|choléra|rougeole|Ebola|fièvre|vaccination|vaccin|"
+    r"dépistage|contamination|virus)\b", re.I)
+FR_CRIME_RX = re.compile(
+    r"\b(meurtre|assassinat|braquage|cambriolage|vols?|volés?|"
+    r"interpellé|interpellation|garde à vue|écroué|incarcéré|condamné|"
+    r"condamnation|procès|accident|noyade|incendie|effondrement|"
+    r"suicide|viols?|enlèvement|escroquerie|trafic)\b", re.I)
+FR_CIVIL_RX = re.compile(
+    r"\b(divorce|litige|héritage|bail|baux|loyer|loyers|expulsion|"
+    r"licenciement|salaire impayé|salaires impayés)\b", re.I)
+FR_SEC_RX = re.compile(
+    r"\b(jihadiste|terroriste|djihadiste|embuscade|assaillants?|"
+    r"armée|militaires?|soldats?|otages?|enlèvement|"
+    r"pétrole|raffinerie|pipeline|oléoduc|uranium|mine d'or|mine d'uranium|"
+    r"orpaillage|contrebande|armes)\b", re.I)
+
 
 def is_soft(title, title_zh=""):
     """True for a sport / showbiz headline that carries no hard-news substance."""
     blob = (title or "") + " " + (title_zh or "")
     if not blob.strip():
         return False
-    if HARD_NEWS_RX.search(blob):
+    if HARD_NEWS_RX.search(blob) or FR_HARD_RX.search(blob):
         return False
     return bool(SPORT_RX.search(title or "") or ENT_RX.search(title or "")
-                or SPORT_ZH_RX.search(blob) or ENT_ZH_RX.search(blob))
+                or SPORT_ZH_RX.search(blob) or ENT_ZH_RX.search(blob)
+                or FR_SPORT_RX.search(blob) or FR_ENT_RX.search(blob))
 
 
 # ── human-interest fluff ──
@@ -1325,7 +1416,8 @@ CN_ANCHOR_RX = re.compile(
     r"Chinese[- ]owned|Chinese[- ]funded|Chinese[- ]built|Chinese firm)\b"
     r"|(中国|中方|中企|中国企业|中国公司|华人|华侨|中资|北京|华为|中石油|"
     r"中石化|中海油|中铁|中交|中电建|中国港湾|中国路桥|孔子学院|中国公民|"
-    r"中国工人|中国工程|中国项目|中国投资|中国贷款)", re.I)
+    r"中国工人|中国工程|中国项目|中国投资|中国贷款)"
+    r"|(chinois|chinoise|chinoises|pékin|중국|တရုတ်|चीन|китай|китая)", re.I)
 SEC_EVENT_RX = re.compile(
     r"\b(Boko Haram|ISWAP|JNIM|ISGS|ISIS|al-?Qaeda|bandits?|gunmen|militants?|"
     r"insurgents?|terroris\w*|jihadis\w*|soldiers?|troops|army|military|navy|"
@@ -1401,15 +1493,17 @@ def is_off_scope(title, title_zh="", summary=""):
         return False
     if CN_ANCHOR_RX.search(blob):          # A — the reader's stated exception
         return False
-    if HEALTH_RX.search(ttl) and not ARMED_ACTOR_RX.search(ttl):
+    if (HEALTH_RX.search(ttl) or FR_HEALTH_RX.search(ttl)) \
+            and not ARMED_ACTOR_RX.search(ttl) and not FR_SEC_RX.search(ttl):
         return True                        # disease, unless gunmen caused it
-    if SEC_EVENT_RX.search(blob):          # B — armed actor / strategic asset
+    if SEC_EVENT_RX.search(blob) or FR_SEC_RX.search(blob):   # B — armed actor
         return False
     if TERRITORIAL_RX.search(ttl):         # C — 南海 / 实控线 disputes
         return False
     if KIDNAP_RX.search(ttl) and KIDNAP_SCALE_RX.search(blob):
         return False                       # D — scaled abduction is a crisis
-    return bool(LOCAL_CRIME_RX.search(ttl) or CIVIL_RX.search(ttl))
+    return bool(LOCAL_CRIME_RX.search(ttl) or CIVIL_RX.search(ttl)
+                or FR_CRIME_RX.search(ttl) or FR_CIVIL_RX.search(ttl))
 
 # Chrome that is GLUED to real prose on the same line, so it has to be repaired
 # rather than dropped — dropping the line would throw the lead sentence away with
@@ -3962,6 +4056,39 @@ with io.open(POOL_PATH, "w", encoding="utf-8") as fh:
     json.dump(_pool_new, fh, ensure_ascii=False)
 print("pool saved: %d news, %d social (display window %d days)"
       % (len(_pool_new["news"]), len(_pool_new["social"]), WINDOW_DAYS))
+
+# ─────────────── Chinese-only display gate ───────────────
+# The reader's rule, stated on 2026-10-26: "你得要保证我看到的都是中文，翻译好的".
+# Collecting French, Hausa, Korean, Burmese, Hindi, Nepali and Russian makes this
+# a real risk rather than a theoretical one: an item can be fetched and
+# classified before its translation exists, and the old page then printed the
+# foreign headline with a 待译 badge under it. Nothing untranslated reaches
+# data.js now.
+#
+# This gate sits AFTER the queue write and AFTER the pool save, on purpose: the
+# item is still queued for translation on this run and still carried in the
+# pool, so the next build re-admits it with its Chinese fields filled. It is
+# deferred by one round, never lost — and translate_xai runs between the two
+# builds in the same workflow, so in practice it is not even visible as a delay.
+_zh_gate = [x for x in news + social if not zh_ok(x.get("title"), x.get("title_zh"))]
+if _zh_gate:
+    _zd = {id(x) for x in _zh_gate}
+    news = [n for n in news if id(n) not in _zd]
+    social = [s for s in social if id(s) not in _zd]
+    print("not-yet-translated deferred to next round: %d" % len(_zh_gate))
+    for _x in _zh_gate[:8]:
+        print("   ·", (_x.get("title") or "")[:56])
+# Summaries and snippets follow the same rule. Clearing the Chinese field is what
+# makes the card fall back to nothing rather than to the foreign sentence — the
+# page no longer has an English branch (see head()/body() in index.html).
+for _x in news + social:
+    if not zh_ok(_x.get("summary"), _x.get("summary_zh")):
+        _x["summary_zh"] = ""
+    if not zh_ok(_x.get("snippet"), _x.get("snippet_zh")):
+        _x["snippet_zh"] = ""
+    if not zh_ok(_x.get("body"), _x.get("body_zh")):
+        _x["body_zh"] = ""
+
 
 # ─────────────── publisher classification ───────────────
 ORG_SUB = ["news", "insider", "media", "times", "report", "press", "daily", "post",

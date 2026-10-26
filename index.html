@@ -1317,15 +1317,19 @@ if("serviceWorker" in navigator){
   /* Chinese-primary: show the translation as the headline, keep the English
      original underneath for verification, and mark anything untranslated. */
   function head(it,titleField,zhField){
-    var en=it[titleField]||'', zh=it[zhField]||'';
-    var main=zh||en, pend=(!zh&&en)?'<span class="tl-pending">待译</span>':'';
-    var alt=(zh&&en)?'<p class="en-orig">'+esc(en)+'</p>':'';
-    return '<h3><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(main)+'</a>'+pend+'</h3>'+alt;
+    var zh=it[zhField]||'';
+    /* Chinese only, no exceptions. The reader's rule (2026-10-26):
+       「你得要保证我看到的都是中文，翻译好的」. build_data now defers any item whose
+       title has no Chinese until it is translated, so `zh` is non-empty in
+       practice; returning '' is the backstop that keeps a foreign headline off
+       the page if it ever is not. The English original that used to be printed
+       as .en-orig under every title is gone as well. */
+    if(!zh) return '';
+    return '<h3><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(zh)+'</a></h3>';
   }
   function body(it,fEn,fZh){
-    var en=it[fEn]||'', zh=it[fZh]||'';
-    var txt=zh||en;
-    return txt?'<p class="sum">'+esc(txt)+'</p>':'';
+    var zh=it[fZh]||'';
+    return zh?'<p class="sum">'+esc(zh)+'</p>':'';
   }
   /* Collapsible full text — present on EVERY card, without exception.
      The reader asked for a 展开翻译全文 + 打开原文 pair on every news item and
@@ -1631,8 +1635,10 @@ if("serviceWorker" in navigator){
   var SPEAK = {idx:0, list:[], rate:1.0, paused:false, active:false, voice:null};
 
   function speakText(it){
-    var t = it.title_zh || it.title || '';
-    var s = it.summary_zh || it.summary || it.snippet_zh || it.snippet || '';
+    /* Chinese only here too: the read-aloud queue must never speak French,
+       Hausa or English at the reader. */
+    var t = it.title_zh || '';
+    var s = it.summary_zh || it.snippet_zh || '';
     t = String(t).replace(/\s*[|｜]\s*[^|｜]{2,24}$/, '')
            .replace(/[（(]\s*(更新|视频|图)[^）)]*[）)]/g, '').trim();
     s = String(s)
