@@ -560,6 +560,41 @@ RSS_FEEDS = [
     # items while Korea (three feeds) had 57. Free, so no credit cost.
     ("laotiantimes", "https://laotiantimes.com/feed/",                "laotiantimes.com"),
     ("rfa_chinese", "https://www.rfa.org/mandarin/rssfeed.xml",       "rfa.org"),
+    # ── Beat feeds (added 2026-10-26) ───────────────────────────────────────
+    # The reader asked for Niger uranium and Mali JNIM coverage and the page had
+    # zero of each. Tavily was asked for both (ne_arlit / ne_orano / cn_uranium /
+    # ter_jnim_ml2) and answered with Facebook posts, Instagram reels and YouTube
+    # explainers — none of which carries a publish date, so every one of them was
+    # discarded by the window gate. Measured that day: 9 of 9 "Arlit uranium"
+    # hits were undated social posts. The topic does not live in the news index
+    # right now; it lives in the trade press and the francophone wire. RSS is
+    # free and always dated, so the fix belongs here.
+    #   wnn          — World Nuclear News, the uranium/nuclear trade wire
+    #   rfi_afrique  — francophone Africa; Tavily's index has ZERO coverage of it
+    #                  (measured 2026-10-22), and it is where Niger/Mali news is
+    #   africanews   — pan-African wire, English, dated
+    # These are global feeds, so they are NOT in RSS_FEED_COUNTRY: build_data's
+    # country gate rejects everything that does not anchor to the twelve.
+    ("wnn",         "https://www.world-nuclear-news.org/rss",         "world-nuclear-news.org"),
+    ("rfi_afrique", "https://www.rfi.fr/fr/afrique/rss",              "rfi.fr"),
+    ("africanews",  "https://www.africanews.com/feed/",               "africanews.com"),
+    # ── Francophone Sahel newsrooms (added 2026-10-26) ──────────────────────
+    # These four are already in build_data's OUTLETS registry with country codes
+    # ne/ml, but they had no RSS entry — so the only way their copy could reach
+    # the page was GDELT, which returns ~20 items per angle and rate-limits
+    # hard. Tavily's index has zero coverage of them (measured 2026-10-22), which
+    # is why Niger/Mali coverage was so much thinner than Nigeria/Ghana.
+    # They are single-country outlets, so they are deliberately NOT added to
+    # RSS_FEED_COUNTRY: their headlines routinely name Diffa or Zinder without
+    # ever saying "Niger", and anchoring would throw those away.
+    #   lesahel  — Le Sahel, the Niger state daily
+    #   airinfo  — Air Info, Niger
+    #   malijet  — Malijet, Bamako (feed lives at /rss, not /feed)
+    # actuniger is Joomla and answers ?feed=rss2 with the HTML homepage, so it has
+    # no feed to subscribe to — it stays reachable through GDELT only.
+    ("lesahel",     "https://www.lesahel.org/feed/",                  "lesahel.org"),
+    ("airinfo",     "https://airinfo.org/feed/",                      "airinfo.org"),
+    ("malijet",     "https://malijet.com/rss",                        "malijet.com"),
 ]
 _RSS_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
