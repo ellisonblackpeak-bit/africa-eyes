@@ -184,6 +184,18 @@ PLAN = [
     ("cn_pipe",     "Niger Benin pipeline", [], 8),
     ("cn_killed",   "Chinese national killed Africa", [], 8),
     ("cn_summon",   "Chinese company summoned government", [], 8),
+    # ─── Niger: uranium ──────────────────────────────────────────────────────
+    # Added 2026-10-26 after the reader asked for Niger uranium coverage by name
+    # and the page had ZERO uranium cards. Measured the same day on the live
+    # index: "Arlit uranium" 9, "Orano Niger uranium" 7, "Chinese uranium Niger"
+    # 8 — all inside the 3-day window. "Niger uranium mine" was rejected as an
+    # angle on purpose: it returned Mauritania, Kazakhstan and Tanzania mines,
+    # which the country gate then throws away, i.e. paid for and discarded.
+    # Arlit is the mining town, Orano the operator; between them they name the
+    # asset without naming the country, which is exactly what the wire does.
+    ("ne_arlit",    "Arlit uranium", [], 10),
+    ("ne_orano",    "Orano Niger uranium", [], 8),
+    ("cn_uranium",  "Chinese uranium Niger", [], 8),
     # ─── Africa four — US angle ─────────────────────────────────────────────
     ("us_ng",    "US Nigeria", [], 12),
     ("us_gh",    "US Ghana military", [], 12),
@@ -199,6 +211,14 @@ PLAN = [
     # JNIM Niger 8 / MPLJ Niger 7 / EIGS 7 / Lakurawa 8 / Boko Haram 6 /
     # ISWAP 8 / Sahel jihadist 8 — roughly 50 usable items instead of 16.
     ("ter_jnim_ml", "JNIM Mali attack", [], 10),
+    # Short form on purpose. The reader asked for JNIM-Mali coverage on
+    # 2026-10-26; the angle above conditions on the word "attack", so the
+    # group's blockade, taxation and governance stories never surfaced. Measured
+    # the same day: "JNIM Mali" 10 / "Mali army attack" 10, versus 9 for the
+    # long form, and the extra ones are the ones that matter — "Bamako is No
+    # Longer Safe: JNIM Shifts Scale", "JNIM's entrenchment in southwestern Mali".
+    ("ter_jnim_ml2", "JNIM Mali", [], 10),
+    ("ter_mali_atk", "Mali army attack", [], 10),
     ("ter_jnim_ne", "JNIM Niger", [], 10),
     ("ter_eigs", "EIGS Islamic State Sahel", [], 10),
     ("ter_mplj", "MPLJ Niger", [], 10),
@@ -484,6 +504,13 @@ GDELT_PLAN = [
     ("ne",       "Niger OR Niamey OR uranium OR junta", FR_WA[:5]),
     ("ml",       "Mali OR Bamako OR jihadist OR orpaillage", FR_WA[3:5] + AGENCY[:3]),
     ("regional", "Sahel OR ECOWAS OR JNIM OR ISWAP", AGENCY),
+    # Two unrestricted angles for the assets the reader asked about by name on
+    # 2026-10-26. The domain-restricted queries above cannot reach them: the
+    # uranium beat is covered by Orano, RFI and the mining wires, none of which
+    # are in FR_WA, and the JNIM beat by security monitors. GDELT is free, so
+    # the only cost is 30 s of pacing — worth it for the two named beats.
+    ("ne_uranium", "uranium AND (Niger OR Arlit OR Imouraren OR Orano)", []),
+    ("ml_jnim",    "JNIM AND (Mali OR Bamako OR Gao OR Kidal OR Mopti)", []),
 ]
 
 gdelt_total = 0
@@ -537,6 +564,44 @@ RSS_FEEDS = [
 _RSS_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 
+# ── RSS country anchoring (added 2026-10-25) ────────────────────────────────
+# The eight China-neighbourhood feeds are GENERAL newsrooms: koreatimes
+# publishes its whole front page (K-pop, domestic politics, Wall Street),
+# thehindu publishes all Indian news, vnexpress publishes all Vietnamese
+# news. A feed that exists to cover "Chinese activity in Korea" therefore
+# delivered ~70 off-beat items per round, and those items then filled the
+# carry-over pool for three days — which is why the source-pollution rate sat
+# at 30-37% for twenty-two consecutive rounds and the 涉华 tier opened with
+# Tibet earthquakes and LAC border friction.
+#
+# The fix is at the ENTRY, not in the ranking: an item is kept only when its
+# own copy anchors it to the country that feed exists to cover. Measured
+# offline against the real snapshots: 403 kept / 150 dropped (27.1%).
+#
+# The West African feeds are NOT anchored — they are the core of the monitor,
+# and a Ghanaian story about Nigeria is legitimately filed under Nigeria.
+RSS_FEED_COUNTRY = {
+    "koreatimes": ("kr", "Korea"), "koreaherald": ("kr", "Korea"),
+    "rappler": ("ph", "Philippines"), "inquirer": ("ph", "Philippines"),
+    "gmanews": ("ph", "Philippines"), "moscowtimes": ("ru", "Russia"),
+    "vnexpress": ("vn", "Vietnam"), "tuoitre": ("vn", "Vietnam"),
+    "kathmandupost": ("np", "Nepal"), "laotiantimes": ("la", "Laos"),
+    "irrawaddy": ("mm", "Myanmar"), "frontier_mm": ("mm", "Myanmar"),
+    "mizzima": ("mm", "Myanmar"), "thehindu": ("in", "India"),
+    "htrss": ("in", "India"),
+}
+_RSS_CTY_MARKERS = {
+    "kr": r"\bkorea(n|korean|n's)?\b|\bnorth korea\b|\bseoul\b|\bpyongyang\b|朝鲜|韩国|首尔|平壤",
+    "ph": r"\bphilippine(s)?\b|\bmanila\b|\bfilipino(s)?\b|菲律宾|马尼拉",
+    "ru": r"\brussia(n|s)?\b|\bmoscow\b|\bkremlin\b|俄罗斯|莫斯科|克里姆林",
+    "vn": r"\bvietnam(ese)?\b|\bhanoi\b|\bhue\b|越南|河内",
+    "np": r"\bnepal(ese|i)?\b|\bkathmandu\b|尼泊尔|加德满都",
+    "la": r"\blaos\b|\blaotian\b|\bvientiane\b|老挝|万象",
+    "mm": r"\bmyanmar(ese)?\b|\bburma(n|ese)?\b|\bnaypyidaw\b|\byangon\b|缅甸|内比都|仰光",
+    "in": r"\bindia(n|ns)?\b|\bnew delhi\b|\bdelhi\b|\bmumbai\b|\bbangalore\b|印度|新德里|孟买",
+}
+_RSS_CTY_RX = {k: re.compile(v, re.I) for k, v in _RSS_CTY_MARKERS.items()}
+
 
 def _rss_text(x):
     """Strip CDATA and decode entities from one RSS field value."""
@@ -579,6 +644,22 @@ def fetch_rss():
                 "published_date": field("pubDate"),
                 "score": 0.6,
             })
+        # Country anchoring: a perimeter feed keeps only the items whose own
+        # copy names the country that feed exists to cover. Everything else is
+        # that newsroom's general output and has no business in this monitor.
+        # See the RSS_FEED_COUNTRY block above for the measurements.
+        _anchored = RSS_FEED_COUNTRY.get(name)
+        if _anchored:
+            _code, _label = _anchored
+            _rx = _RSS_CTY_RX[_code]
+            _before = len(results)
+            results = [it for it in results
+                       if _rx.search((it.get("title") or "") + " " +
+                                     (it.get("content") or ""))]
+            _dropped = _before - len(results)
+            if _dropped:
+                print("   anchor %s: dropped %d off-country item(s)"
+                      % (_label, _dropped), flush=True)
         rec = {"success": True, "results": results, "engine": "rss",
                "_tag": "rss_" + name, "_query": feed_url, "_domains": [dom],
                "_days": LOOKBACK_DAYS}

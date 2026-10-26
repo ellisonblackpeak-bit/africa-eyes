@@ -681,6 +681,14 @@ CTY_MARKERS = {
     "ne": ["nigerien", "niamey", "tiani", "somair", "orano", "agadez", "tillaberi",
            "imouraren", "cnsp", "bazoum", "niger republic", "republic of niger",
            "niger's", "niger junta", "niger government", "niger army",
+           # ── the uranium complex (added 2026-10-26 at the reader's request) ──
+           # Arlit is the mining town, Akouta the underground mine, Imouraren the
+           # stalled megaproject, SOMAIR/COMINAK the operating companies, Orano
+           # the French operator that lost the licence in 2024. A uranium story
+           # is almost never headlined "Niger" — it is headlined "Arlit" or
+           # "Orano" — so without these the cards were filed as 泛非洲 and the
+           # module showed zero uranium items.
+           "arlit", "akouta", "cominak", "uranium niger", "niger uranium",
            # ── the Chinese oil complex, which the reader asked to track by name ──
            # CNPC's Agadem block, the Zinder refinery (SORAZ) and the Niger–Benin
            # export pipeline are the three assets a China-risk story in Niger is
@@ -690,10 +698,19 @@ CTY_MARKERS = {
            "niger-benin pipeline", "niger benin pipeline", "niamey-dosso",
            "尼日尔", "尼亚美", "阿加德兹", "阿尔利特", "奇亚尼",
            "津德尔", "阿加德姆", "索拉兹", "尼日尔-贝宁", "尼贝管道",
-           "中石油尼日尔", "尼日尔炼油厂"],
+           "中石油尼日尔", "尼日尔炼油厂",
+           # 铀矿。只放尼日尔专有的矿名与运营商，不放光秃秃的"铀矿"——
+           # 纳米比亚、坦桑尼亚、哈萨克斯坦都有铀矿，一个通用词就会把它们
+           # 全拉进尼日尔模块（同 "junta" 的老毛病）。
+           "尼日尔铀", "欧安诺", "伊穆拉伦", "索迈尔", "阿库塔铀", "阿尔利特铀"],
     "ml": ["mali", "malian", "bamako", "goita", "jnim", "timbuktu", "gao", "kidal", "mopti",
            "barrick", "loulo", "gounkoto", "sikasso", "kayes", "azawad", "malien",
-           "马里", "巴马科", "通布图", "加奥", "基达尔", "戈伊塔"],
+           "nusrat al-islam", "jama'at nusrat", "katiba macina", "serma",
+           "马里", "巴马科", "通布图", "加奥", "基达尔", "戈伊塔",
+           # JNIM 的中文全称与马里中部/西部地名。JNIM 的中文报道常只写组织名
+           # 或只写莫普提、塞古，不写"马里"，缺了这些会被扫进泛非洲。
+           "支持伊斯兰与穆斯林组织", "伊斯兰与穆斯林支持组织",
+           "莫普提", "塞古", "锡卡索", "卡伊", "阿扎瓦德", "廷巴克图"],
     "gh": ["ghana", "ghanaian", "ghanaians", "accra", "kumasi", "cedi", "mahama", "galamsey",
            "akufo", "tema", "obuasi", "ashanti", "volta", "ecg", "newmont", "goldfields",
            "tamale", "takoradi", "ghanian", "asantehene", "otumfuo", "goldbod",
@@ -1269,28 +1286,39 @@ def is_fluff(title, title_zh=""):
     return bool(FLUFF_RX.search(blob) or FLUFF_EN_RX.search(title or ""))
 
 
-# ── local crime / accident cases ──
-# The reader's scope is politics, economy, defence, security, energy, minerals
-# and strategic corridors. A murder in Kogi, a cocaine bust at Lagos airport, a
-# building collapse in Lagos, a man bailed after mocking a governor — those are
-# local public-safety cases, not the strategic picture, and he asked for them to
-# go on 2026-10-26: "涉及本国人犯罪、伤亡、逮捕等案件不关心，我只关心涉及中国、
-# 中国企业、中国项目的案件".
+# ── off-scope local matters: crime, accidents, disease, civil disputes ──
+# The reader's scope is exactly seven domains in the four African countries and
+# China's periphery: politics, economy, defence, security, energy, minerals and
+# strategic corridors. Everything else local is noise to him. His wording, twice
+# on 2026-10-26:
+#   "涉及本国人犯罪、伤亡、逮捕等案件不关心，我只关心涉及中国、中国企业、中国项目的案件"
+#   "民事纠纷、文体、娱乐、埃博拉等疾病、本国人员伤亡我都不关心；我只关心涉及
+#    中国人、中国项目、中国企业和中国利益的政策"
+# So four categories go: routine crime, accidents/disasters, disease outbreaks,
+# and civil disputes. Entertainment/sport is already handled by is_soft() and
+# human-interest by is_fluff().
 #
 # The hard part is that "security" IS in scope. A Boko Haram ambush, a bandit
 # mass abduction, an oil-pipeline attack, railway vandalism — those are exactly
 # what this monitor exists for, and they are full of crime words. So the test is
 # not "does it mention crime" but "is this an individual case or a strategic
-# event". Three exemptions run before the crime list:
+# event". Keep-anchors run before the drop lists:
 #
-#   A. anything Chinese        — the reader's stated exception
+#   A. anything Chinese        — the reader's stated exception, and it outranks
+#                                everything: an Ebola story with Chinese aid in
+#                                it is a China story
 #   B. a security actor/event  — militants, troops, airstrike, pipeline, oil theft
-#   C. a scaled kidnapping     — one abducted schoolgirl is a crime, 300 is a crisis
+#   C. territorial / maritime  — 南海、东海、实控线: the periphery module is
+#                                built on these and they are phrased as "纠纷"
+#   D. a scaled kidnapping     — one abducted schoolgirl is a crime, 300 is a crisis
 #
-# The crime list is matched against the HEADLINE only. Summaries mention crime
+# The drop lists are matched against the HEADLINE only. Summaries mention crime
 # in passing ("police said the suspect…") in policy and election copy, and
 # matching them dropped "CSOs fault Omo-Agege on death threat over poll rigging"
 # and a housing-bill story about landlord fines. Headlines do not lie that way.
+# Health is the exception: the outlet name often carries the topic ("Ebola:
+# what you need to know"), so health is checked on the headline too, and a
+# military-lockdown word must not rescue it — hence the narrow ARMED_ACTOR_RX.
 CN_ANCHOR_RX = re.compile(
     r"\b(China|Chinese|Beijing|Sino|CCP|PRC|Huawei|CNPC|Sinopec|Cnooc|Crec|"
     r"China Harbour|China Railway|PowerChina|Sinomach|Zte|Xiaomi|Byd|"
@@ -1326,25 +1354,62 @@ LOCAL_CRIME_RX = re.compile(
     r"抢劫|劫匪|盗窃|偷窃|诈骗|骗局|洗钱|贩毒|毒品|可卡因|海洛因|"
     r"曲马多|大麻|冰毒|吸毒|"
     r"车祸|交通事故|撞车|相撞|溺水|触电|失火|火灾|踩踏|翻船|沉船|"
+    r"洪水|洪灾|水灾|山体滑坡|泥石流|地震|海啸|台风|"
     r"自杀|强奸|性侵|猥亵|家暴|拐卖|人口贩卖|邪教|祭品|"
     r"失踪|身亡|丧生|枪杀|刺杀|暗杀|"
     r"建筑倒塌|楼房倒塌|大楼倒塌)", re.I)
 KIDNAP_RX = re.compile(r"\b(abduct\w*|kidnap\w*)\b|(绑架|劫持|掳走)", re.I)
+# Disease outbreaks. Named explicitly by the reader ("埃博拉等疾病"). Matched on
+# the headline, and NOT exempted by a military word — a lockdown order does not
+# turn an outbreak story into a defence story.
+HEALTH_RX = re.compile(
+    r"\b(Ebola|cholera|Lassa|malaria|measles|mpox|monkeypox|diphtheria|polio|"
+    r"yellow fever|hepatitis|tuberculosis|HIV|AIDS|COVID|coronavirus|"
+    r"outbreak|epidemic|pandemic|vaccinat\w*|inoculat\w*|quarantine|NCDC)\b"
+    r"|(埃博拉|霍乱|拉沙热|疟疾|麻疹|猴痘|白喉|小儿麻痹|黄热病|肝炎|结核|"
+    r"艾滋|新冠|疫情|传染病|病毒|疫苗|接种|隔离|检疫|防疫|筛查|疾控|疫区)", re.I)
+# Civil disputes — private-party litigation, tenancy, family, labour arrears.
+# Plain "debt" is NOT here on purpose: sovereign debt and Eurobonds are economy.
+CIVIL_RX = re.compile(
+    r"\b(lawsuit|litigation|civil suit|divorce|custody battle|inheritance|"
+    r"land dispute|tenancy|tenant|landlord|contract dispute|labour dispute|"
+    r"unpaid wages|unpaid salary|trespass|boundary dispute|defamation)\b"
+    r"|(民事|纠纷|诉讼|离婚|抚养权|继承|遗产|邻里|土地争议|土地纠纷|"
+    r"合同纠纷|劳资|欠薪|讨薪|债务纠纷|宅基地|侵权|上访)", re.I)
+# Territorial / maritime disputes in the periphery. Kept ahead of CIVIL_RX so
+# "南海纠纷" is never read as a private lawsuit.
+TERRITORIAL_RX = re.compile(
+    r"\b(South China Sea|East China Sea|Senkaku|Diaoyu|Scarborough|LAC|"
+    r"Line of Actual Control|territorial dispute|sovereignty|island reef|"
+    r"exclusive economic zone|EEZ|Galwan|Doklam)\b"
+    r"|(南海|东海|钓鱼岛|尖阁|黄岩岛|藏南|阿克赛钦|实控线|领土争端|"
+    r"领土纠纷|主权|岛礁|专属经济区|加勒万|洞朗|海域划界|边界谈判)", re.I)
+# A real armed actor. Narrow on purpose: it is only used to stop a security word
+# from rescuing a disease story, so it must not contain 军方/军队 (deployed for
+# lockdowns and vaccination drives as often as for fighting).
+ARMED_ACTOR_RX = re.compile(
+    r"\b(Boko Haram|ISWAP|JNIM|ISGS|ISIS|al-?Qaeda|bandits?|gunmen|militants?|"
+    r"insurgents?|attack\w*|ambush|airstrike|bomb\w*|massacre)\b"
+    r"|(博科圣地|伊斯兰国|武装分子|枪手|匪徒|绑匪|袭击|空袭|伏击|爆炸|屠杀)", re.I)
 
 
-def is_local_crime(title, title_zh="", summary=""):
-    """True for a routine local crime / accident case with no strategic value."""
+def is_off_scope(title, title_zh="", summary=""):
+    """True for a local crime / accident / disease / civil-dispute item."""
     ttl = (title or "") + " " + (title_zh or "")
     blob = ttl + " " + (summary or "")[:200]
     if not ttl.strip():
         return False
     if CN_ANCHOR_RX.search(blob):          # A — the reader's stated exception
         return False
+    if HEALTH_RX.search(ttl) and not ARMED_ACTOR_RX.search(ttl):
+        return True                        # disease, unless gunmen caused it
     if SEC_EVENT_RX.search(blob):          # B — armed actor / strategic asset
         return False
+    if TERRITORIAL_RX.search(ttl):         # C — 南海 / 实控线 disputes
+        return False
     if KIDNAP_RX.search(ttl) and KIDNAP_SCALE_RX.search(blob):
-        return False                       # C — scaled abduction is a crisis
-    return bool(LOCAL_CRIME_RX.search(ttl))
+        return False                       # D — scaled abduction is a crisis
+    return bool(LOCAL_CRIME_RX.search(ttl) or CIVIL_RX.search(ttl))
 
 # Chrome that is GLUED to real prose on the same line, so it has to be repaired
 # rather than dropped — dropping the line would throw the lead sentence away with
@@ -3781,18 +3846,19 @@ if _fluff:
     for _x in _fluff[:6]:
         print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
 
-# Routine local crime / accident cases, same placement and same reason as the two
-# filters above: it must run on the FINAL lists so pool carry-overs are covered
-# too. Armed-group attacks, oil-theft, pipeline and railway sabotage, scaled
-# abductions and anything touching China are exempt inside is_local_crime().
+# Off-scope local matters (crime / accidents / disease / civil disputes), same
+# placement and same reason as the two filters above: it must run on the FINAL
+# lists so pool carry-overs are covered too. Armed-group attacks, oil-theft,
+# pipeline and railway sabotage, territorial disputes, scaled abductions and
+# anything touching China are exempt inside is_off_scope().
 _crime = [x for x in news + social
-          if is_local_crime(x.get("title"), x.get("title_zh"), x.get("summary"))]
+          if is_off_scope(x.get("title"), x.get("title_zh"), x.get("summary"))]
 if _crime:
     _cd = {id(x) for x in _crime}
     news = [n for n in news if id(n) not in _cd]
     social = [s for s in social if id(s) not in _cd]
-    print("local crime/accident dropped: %d" % len(_crime))
-    for _x in _crime[:8]:
+    print("off-scope local dropped: %d" % len(_crime))
+    for _x in _crime[:10]:
         print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
 
 # Third-country sweep, applied at the END for the same reason: the entry-point
