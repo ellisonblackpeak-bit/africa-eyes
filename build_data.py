@@ -1268,6 +1268,84 @@ def is_fluff(title, title_zh=""):
         return False
     return bool(FLUFF_RX.search(blob) or FLUFF_EN_RX.search(title or ""))
 
+
+# ── local crime / accident cases ──
+# The reader's scope is politics, economy, defence, security, energy, minerals
+# and strategic corridors. A murder in Kogi, a cocaine bust at Lagos airport, a
+# building collapse in Lagos, a man bailed after mocking a governor — those are
+# local public-safety cases, not the strategic picture, and he asked for them to
+# go on 2026-10-26: "涉及本国人犯罪、伤亡、逮捕等案件不关心，我只关心涉及中国、
+# 中国企业、中国项目的案件".
+#
+# The hard part is that "security" IS in scope. A Boko Haram ambush, a bandit
+# mass abduction, an oil-pipeline attack, railway vandalism — those are exactly
+# what this monitor exists for, and they are full of crime words. So the test is
+# not "does it mention crime" but "is this an individual case or a strategic
+# event". Three exemptions run before the crime list:
+#
+#   A. anything Chinese        — the reader's stated exception
+#   B. a security actor/event  — militants, troops, airstrike, pipeline, oil theft
+#   C. a scaled kidnapping     — one abducted schoolgirl is a crime, 300 is a crisis
+#
+# The crime list is matched against the HEADLINE only. Summaries mention crime
+# in passing ("police said the suspect…") in policy and election copy, and
+# matching them dropped "CSOs fault Omo-Agege on death threat over poll rigging"
+# and a housing-bill story about landlord fines. Headlines do not lie that way.
+CN_ANCHOR_RX = re.compile(
+    r"\b(China|Chinese|Beijing|Sino|CCP|PRC|Huawei|CNPC|Sinopec|Cnooc|Crec|"
+    r"China Harbour|China Railway|PowerChina|Sinomach|Zte|Xiaomi|Byd|"
+    r"Chinese[- ]owned|Chinese[- ]funded|Chinese[- ]built|Chinese firm)\b"
+    r"|(中国|中方|中企|中国企业|中国公司|华人|华侨|中资|北京|华为|中石油|"
+    r"中石化|中海油|中铁|中交|中电建|中国港湾|中国路桥|孔子学院|中国公民|"
+    r"中国工人|中国工程|中国项目|中国投资|中国贷款)", re.I)
+SEC_EVENT_RX = re.compile(
+    r"\b(Boko Haram|ISWAP|JNIM|ISGS|ISIS|al-?Qaeda|bandits?|gunmen|militants?|"
+    r"insurgents?|terroris\w*|jihadis\w*|soldiers?|troops|army|military|navy|"
+    r"air force|airstrike|air strike|drone strike|ambush|offensive|massacre|"
+    r"explosion|bomb\w*|siege|assault|hostages?|mass grave|displaced|IDPs?|"
+    r"refugees?|herdsmen|communal|christians?|oil theft|crude|pipeline|"
+    r"railway|refinery)\b"
+    r"|(博科圣地|伊斯兰国|圣战|恐怖|武装分子|枪手|匪徒|绑匪|军方|军队|士兵|"
+    r"海军|空军|空袭|无人机|伏击|军事行动|进攻|屠杀|爆炸|炸弹|围攻|人质|"
+    r"万人坑|流离失所|难民|民兵|安全部队|牧民|农牧民|基督徒|部族|族群|"
+    r"社区冲突|输油|原油|石油|管道|炼油|铁路|乍得湖|萨赫勒)", re.I)
+KIDNAP_SCALE_RX = re.compile(
+    r"\b(\d{2,}|dozens|hundreds|scores|mass)\b|(数十|数百|上千|大批|集体|多名|数名|全校|整村)")
+LOCAL_CRIME_RX = re.compile(
+    r"\b(murder\w*|homicide|manslaughter|robbery|robbers?|burglary|thieves|"
+    r"theft|shoplift\w*|pickpocket\w*|fraud\w*|scam\w*|ponzi|"
+    r"drug traffick\w*|cocaine|heroin|tramadol|cannabis|methamphetamine|"
+    r"NDLEA|NAFDAC|arraign\w*|remand\w*|convict\w*|sentenced|jailed|"
+    r"prison\w*|bail|prosecut\w*|arrest\w*|detain\w*|"
+    r"drown\w*|auto crash|road crash|car crash|collision|"
+    r"fire outbreak|inferno|building collapse|stampede|"
+    r"suicide|rape|defile\w*|sexual assault|domestic violence|"
+    r"ritual kill\w*|cultist\w*|found dead|corpse|autopsy|inquest)\b"
+    r"|(谋杀|凶杀|遇害|被杀|尸体|遗体|嫌疑人|嫌犯|被捕|逮捕|拘留|"
+    r"判刑|宣判|判处|获刑|起诉|定罪|保释|提审|受审|"
+    r"抢劫|劫匪|盗窃|偷窃|诈骗|骗局|洗钱|贩毒|毒品|可卡因|海洛因|"
+    r"曲马多|大麻|冰毒|吸毒|"
+    r"车祸|交通事故|撞车|相撞|溺水|触电|失火|火灾|踩踏|翻船|沉船|"
+    r"自杀|强奸|性侵|猥亵|家暴|拐卖|人口贩卖|邪教|祭品|"
+    r"失踪|身亡|丧生|枪杀|刺杀|暗杀|"
+    r"建筑倒塌|楼房倒塌|大楼倒塌)", re.I)
+KIDNAP_RX = re.compile(r"\b(abduct\w*|kidnap\w*)\b|(绑架|劫持|掳走)", re.I)
+
+
+def is_local_crime(title, title_zh="", summary=""):
+    """True for a routine local crime / accident case with no strategic value."""
+    ttl = (title or "") + " " + (title_zh or "")
+    blob = ttl + " " + (summary or "")[:200]
+    if not ttl.strip():
+        return False
+    if CN_ANCHOR_RX.search(blob):          # A — the reader's stated exception
+        return False
+    if SEC_EVENT_RX.search(blob):          # B — armed actor / strategic asset
+        return False
+    if KIDNAP_RX.search(ttl) and KIDNAP_SCALE_RX.search(blob):
+        return False                       # C — scaled abduction is a crisis
+    return bool(LOCAL_CRIME_RX.search(ttl))
+
 # Chrome that is GLUED to real prose on the same line, so it has to be repaired
 # rather than dropped — dropping the line would throw the lead sentence away with
 # it. "…Push In Africa Share on WhatsAppShare on FacebookShare on XTelegram The
@@ -2487,6 +2565,118 @@ for _n in news:
 if _sum_fixed:
     print("placeholder summaries rebuilt from body: %d" % _sum_fixed)
 
+# ─────────────── relevance gate: does this item belong on the page? ───────
+# Added 2026-10-25. The source-pollution rate sat at 30-37% for twenty-two
+# consecutive rounds, and the root cause was located in the SOURCE layer, not
+# in the tiering: the eight China-neighbourhood RSS feeds are GENERAL
+# newsrooms, so each one delivered its whole front page — Tibet earthquakes,
+# LAC border friction, K-pop, Kerala school notices — and the 涉华 tier opened
+# with stories that had nothing to do with Chinese activity in the twelve
+# monitored countries. The perimeter feeds are now country-anchored at the
+# fetch step (see fetch_news.py), and this gate is the second line of defence
+# for everything that arrives by any other route — Tavily angles, GDELT, and
+# the carry-over pool, whose members were admitted under the old rules and
+# would otherwise keep the pollution alive for another three days.
+#
+# The gate asks one question: is this story within the monitor's beat?
+#   G1  a West African outlet                     -> keep (on-topic by construction)
+#   G2  a West Africa anchor in the copy          -> keep
+#   G3  tier <= 3 AND an Africa-wide anchor       -> keep (Africa-wide coverage)
+#   G4  China  + ACTIVITY + a monitored country   -> keep
+#   G5  the US + ACTIVITY + a monitored country    -> keep
+#
+# ACTIVITY is required for G4/G5 because co-occurrence alone is not enough.
+# "India-China border frictions recur as Chinese forces stray from LAC" names
+# China AND India, but it is a border report, not Chinese investment, trade or
+# project activity. It is matched on the HEADLINE (title + summary), the same
+# evidence standard the tier test already uses: matching the body let a stray
+# "trade" in a related-links rail rescue a story that should have gone.
+#
+# Measured against the previous round's 465 items before this gate existed:
+# kept 320, dropped 145 (31%). The West African core was untouched
+# (249 -> 248), the 周边国家 module kept a usable 51, and 泛非洲 fell to 21.
+_GATE_WA_REGION = ["sahel", "sahelian", "west africa", "west african", "ecowas",
+                   "alliance of sahel", "aes states", "gulf of guinea",
+                   "economic community"]
+_GATE_WA_RX = _rx(CTY_MARKERS["ng"] + CTY_MARKERS["ne"] + CTY_MARKERS["ml"]
+                  + CTY_MARKERS["gh"] + _GATE_WA_REGION)
+_GATE_WA_ZH_RX = re.compile(
+    r"(尼日利亚|尼日尔|加纳|马里|布基纳|布基纳法索|西非|萨赫勒|塞赫勒|"
+    r"拉各斯|阿布贾|阿克拉|巴马科|尼亚美|瓦加杜古|达喀尔|阿比让|"
+    r"科托努|洛美|西共体|西非国家经济共同体)")
+_GATE_MON_RX = _rx([w for c in ALL_CTYS for w in CTY_MARKERS[c]])
+_GATE_CN_RX = re.compile(
+    r"\bchina(chinese)?\b|中国|中方|中资|中企|华商|华为|中石油|中石化", re.I)
+# An Africa-wide anchor, used only for G3 (tier <= 3). It is deliberately broad:
+# this is the rule that keeps continental coverage (ECOWAS, AU, Africa's
+# fast-growing economies) alive without letting country-level noise through.
+AFRICA_RX = re.compile(r"\bafrica(n|'s)?\b|\bafrican\b|非洲", re.I)
+# Commercial / project / activity vocabulary. The point is to separate "a
+# Chinese company is building something here" from "China was mentioned".
+_GATE_ACT_RX = re.compile(
+    r"\b(invest\w*|fund\w*|financ\w*|project|contract|deal\w*|company|"
+    r"firm\w*|enterprise\w*|business\w*|trade\w*|loan\w*|construct\w*|"
+    r"build\w*|mine|mining|mill\w*|factory|plant\w*|venture|acquisi\w*|"
+    r"purchase\w*|sign\w*|agreement\w*|expansion\w*|market\w*|export\w*|"
+    r"import\w*|supply chain|joint venture|stake|operator\w*|billion|"
+    r"million|investor\w*|partner\w*|tender|concession|sovereign|"
+    r"loan agreement|framework|cooperat\w*|partnership|regulator\w*|"
+    r"energy|oil|gas|copper|lithium|gold|uranium|port\w*|rail\w*|road\w*|"
+    r"power|electric\w*|telecom\w*|bank\w*|pay\w*|payment\w*|financial|"
+    r"econom\w*)\b|"
+    r"投资|融资|项目|合同|协议|企业|公司|贸易|贷款|建设|工厂|矿业|"
+    r"支付|结算|合作|伙伴|经济|港口|铁路|电力|银行|市场|出口|进口|资源", re.I)
+
+
+def _gate_wa_anchor(text):
+    """A West Africa anchor: the four countries, the Sahel, or West Africa."""
+    return bool(_GATE_WA_RX.search(text) or _GATE_WA_ZH_RX.search(text)
+                or NE_ONLY.search(text))
+
+
+def _gate_monitored(text):
+    """Any of the twelve monitored countries named in the copy."""
+    if _GATE_MON_RX.search(text):
+        return True
+    return bool(zh_cty_hits(text) & ALL_CTYS)
+
+
+def _relevance_gate(it):
+    """Return (keep, reason) for one news item."""
+    dom = it.get("domain") or ""
+    if dom in WA_DOMAINS:
+        return True, "G1"
+    head = " ".join([it.get("title") or "", it.get("summary") or ""])
+    full = " ".join([head, (it.get("body") or "")[:2500]])
+    if _gate_wa_anchor(full):
+        return True, "G2"
+    if it.get("tier") in (1, 2, 3) and AFRICA_RX.search(full):
+        return True, "G3"
+    act = bool(_GATE_ACT_RX.search(head))
+    if act and _GATE_CN_RX.search(full) and _gate_monitored(full):
+        return True, "G4"
+    if act and has_us(full) and _gate_monitored(full):
+        return True, "G5"
+    return False, "DROP"
+
+
+_gate_kept, _gate_dropped = [], []
+_gate_reasons = {}
+for _n in news:
+    _ok, _why = _relevance_gate(_n)
+    if _ok:
+        _gate_kept.append(_n)
+    else:
+        _gate_dropped.append(_n)
+    _gate_reasons[_why] = _gate_reasons.get(_why, 0) + 1
+if _gate_dropped:
+    news = _gate_kept
+print("relevance gate: kept %d, dropped %d (%.1f%%) | %s"
+      % (len(news), len(_gate_dropped),
+         100.0 * len(_gate_dropped) / max(1, len(news) + len(_gate_dropped)),
+         " ".join("%s=%d" % (k, _gate_reasons[k])
+                  for k in ("G1", "G2", "G3", "G4", "G5", "DROP"))))
+
 # ─────────────── volume cap ───────────────
 # A WordPress RSS feed publishes everything its newsroom writes, so a free-source
 # pass can return 200+ in-window items — mostly routine copy that buries the
@@ -3591,6 +3781,20 @@ if _fluff:
     for _x in _fluff[:6]:
         print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
 
+# Routine local crime / accident cases, same placement and same reason as the two
+# filters above: it must run on the FINAL lists so pool carry-overs are covered
+# too. Armed-group attacks, oil-theft, pipeline and railway sabotage, scaled
+# abductions and anything touching China are exempt inside is_local_crime().
+_crime = [x for x in news + social
+          if is_local_crime(x.get("title"), x.get("title_zh"), x.get("summary"))]
+if _crime:
+    _cd = {id(x) for x in _crime}
+    news = [n for n in news if id(n) not in _cd]
+    social = [s for s in social if id(s) not in _cd]
+    print("local crime/accident dropped: %d" % len(_crime))
+    for _x in _crime[:8]:
+        print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
+
 # Third-country sweep, applied at the END for the same reason: the entry-point
 # gate only sees freshly fetched items, so carry-overs kept their wrong country.
 # "中国要求公民在泰国注意防范诈骗和绑架" survived four rebuilds this way.
@@ -3606,6 +3810,46 @@ if _fgn:
     news = [n for n in news if id(n) not in _drop]
     social = [s for s in social if id(s) not in _drop]
     print("third-country items dropped: %d" % len(_fgn))
+
+# Relevance gate for the SOCIAL layer, same rules as the news gate above.
+#
+# The social layer was the more polluted of the two: its country tags ran
+# ph/vn/ru/in/kr/mm almost as often as the real West African ng/gh/ne/ml, so
+# the 周边国家 module filled with posts that had nothing to do with Chinese or
+# US activity anywhere. A post earns its place by naming a monitored country
+# AND showing activity (China or the US doing something), or by coming from a
+# West African government account, which is on-topic by construction.
+#
+# Applied here, at the END, for the same reason as the sweeps above: the
+# entry-point filters only see freshly fetched posts, and the carry-over pool
+# would otherwise smuggle the old pollution back onto the page for another
+# three days.
+_soc_keep, _soc_drop = [], []
+for _s in social:
+    _txt = " ".join([_s.get("title") or "", _s.get("snippet") or "",
+                     _s.get("body") or "", _s.get("author") or ""])
+    _hd = " ".join([_s.get("title") or "", _s.get("snippet") or ""])
+    _handle = ((_s.get("handle") or "") + " " + (_s.get("author") or "")).lower()
+    if any(_g in _handle for _g in GOV_HANDLES):
+        _soc_keep.append(_s)          # a West African government account
+        continue
+    if _gate_wa_anchor(_txt):
+        _soc_keep.append(_s)
+        continue
+    if _s.get("tier") in (1, 2, 3) and AFRICA_RX.search(_txt):
+        _soc_keep.append(_s)
+        continue
+    if (_GATE_ACT_RX.search(_hd)
+            and (_GATE_CN_RX.search(_txt) or has_us(_txt))
+            and _gate_monitored(_txt)):
+        _soc_keep.append(_s)
+        continue
+    _soc_drop.append(_s)
+if _soc_drop:
+    social = _soc_keep
+print("social relevance gate: kept %d, dropped %d" % (len(social), len(_soc_drop)))
+for _x in _soc_drop[:6]:
+    print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:60])
 
 # The queue was filled before the collapse, so it still holds strings belonging
 # to the records just dropped. Prune it — otherwise every dropped duplicate is
