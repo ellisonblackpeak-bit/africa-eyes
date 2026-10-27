@@ -1,7 +1,49 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Bamako is No Longer Safe: JNIM Shifts Scale - ICT",
+   "url": "https://ict.org.il/bamako-shifts-scale",
+   "snippet": "following the attack.(#_ftn7) Nevertheless, the Malian army has not issued an official statement confirming these figures. [...] On the night of September 18–19, a checkpoint in Kasséla, on the outskirts of Bamako, came under attack. Reports indicate that the attackers arrived on foot, armed and equipped with communication devices. They caught the soldiers off guard, killing or wounding several of",
+   "published": "Tue, 20 Oct 2026 10:09:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/22/mali-army-russias-africa-corps-commit-new-abuses",
+   "snippet": "On May 7, soldiers and Africa Corps fighters apprehended a 30-year-old civilian at his home in Guirowel, a village in a JNIM-controlled area in Mopti region. On July 4, they arrested three Quranic students, ages 32, 37, and 40, in Thy village, Mopti region, following a JNIM attack on a military position there. [...] All parties to Mali’s armed conflict are bound by international humanitarian law, ",
+   "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Libya-Turkey Mediterranean Deal; Ethiopian Federal Consolidation in Tigray; South West Opposition Offensive in Somalia: Africa File, October 22, 2026",
+   "url": "https://www.criticalthreats.org/analysis/libya-turkey-tplf-ethiopia-fgs-al-shabaab-somalia-issp-jnim-mali",
+   "snippet": "Jama’at Nusrat al Islam wa al Muslimeen (JNIM) could attempt to exploit the situation to strengthen its position vis-à-vis ISSP in the contested tri-border area of Burkina Faso, Mali, and Niger. ISSP and al Qaeda’s Sahelian affiliate JNIM have engaged in several large-scale clashes in the tri-border area since September as each group tries to establish dominance in the area. ISSP most recently ini",
+   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ISIS linked group kills scores in Mali, clashes with al Qaeda affiliates |  | AW",
+   "url": "https://thearabweekly.com/isis-linked-group-kills-scores-mali-clashes-al-qaeda-affiliates",
+   "snippet": "Members of the Azawad Liberation Front (FLA) take part in a parade, two days after the group said it had retaken the city of Kidal, Mali, April 27, 2026.\n\nBAMAKO\n\nIslamic State (ISIS)-linked extremists have killed at least 48 people in Mali in apparent retaliation for an attack on suspected informants by pro-government forces including members of Russia’s Africa Corps, two security sources and two",
+   "published": "Tue, 20 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses, HRW Says - Eurasia Review",
+   "url": "https://www.eurasiareview.com/23102026-mali-army-russias-africa-corps-commit-new-abuses-hrw-says",
+   "snippet": "Witnesses said that JNIM has a base in Guélédié and over 100 JNIM fighters were present in the village at the time of the strike, although no JNIM fighters were among the casualties. They also said JNIM fighters alerted the local population via WhatsApp about the possibility of a drone strike at the Starlink location, before leaving the area along with many civilians. Witnesses said that only 14 c",
+   "published": "Fri, 23 Oct 2026 00:35:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Ukraine May Be Involved in Mali's Conflict",
+   "url": "https://en.tempo.co/amp/2122400/why-ukraine-may-be-involved-in-malis-conflict",
+   "snippet": "According to a media outlet, around 15 drone specialists from Ukraine are reportedly supporting Tuareg rebels in northern Mali.",
+   "published": "Mon, 26 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ml",
  "_query": "JNIM Mali attack",
  "_domains": [],

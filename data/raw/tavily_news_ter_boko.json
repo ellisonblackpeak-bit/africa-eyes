@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "BOKO HARAM TERRORISTS REPORTEDLY SIGHTED MOVING IN LARGE NUMBERS AS GAYA-DLANG COMMUNITY COMES UNDER ATTACK IN HONG LGA, ADAMAWA STATE - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/boko-haram-terrorists-reportedly-sighted-moving-in-large-numbers-as-gaya-dlang-community-comes-under-attack-in-hong-lga-adamawa-state",
+   "snippet": "Security Alerts\n\n# BOKO HARAM TERRORISTS REPORTEDLY SIGHTED MOVING IN LARGE NUMBERS AS GAYA-DLANG COMMUNITY COMES UNDER ATTACK IN HONG LGA, ADAMAWA STATE\n\nNews Desk\n\nBy News Desk\n\n0\n\nShare\n\nFacebookXPinterestWhatsApp\n\n, Hong LGA Chapter, and other clerics described the situation as chaotic, warning of growing fear among residents as the security situation deteriorates. [...] ### Share this:\n\n Shar",
+   "published": "Sun, 25 Oct 2026 20:50:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State in Iraq and Syria - Expansion, Terror, Insurgency | Britannica",
+   "url": "https://www.britannica.com/topic/Islamic-State-in-Iraq-and-Syria/ISIS-outside-of-Iraq-and-Syria",
+   "snippet": "on Christmas Eve that year. In August 2011 a suicide bomber associated with Boko Haram crashed a car into a United Nations building in Abuja, marking its first major attack on an international target, albeit located within Nigeria. In 2013, after Boko Haram rejected a proposal for amnesty by Nigerian Pres. Goodluck Jonathan if they disarmed, Jonathan declared the group a terrorist organization and",
+   "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "INTELLIGENCE SOURCES REPORT INFLOW OF BOKO HARAM TERRORISTS INTO GWOZA, WARN OF POSSIBLE FURTHER ATTACKS AFTER FAILED IDP CAMP ASSAULTS - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/intelligence-sources-report-inflow-of-boko-haram-terrorists-into-gwoza-warn-of-possible-further-attacks-after-failed-idp-camp-assaults",
+   "snippet": "According to intelligence sources who spoke with TruthNigeria, the attempted attacks on the IDP camps were thwarted after soldiers reportedly neutralized terrorists operating in the Mandara Mountains, an area known to contain insurgent hideouts. The sources described the reported influx as an arrival of “defectors” from the Islamic State West Africa Province (ISWAP) faction, raising concerns about",
+   "published": "Sun, 25 Oct 2026 13:22:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Boko Haram ambush kill soldiers, officer in Yobe – Businessday NG",
+   "url": "https://businessday.ng/news/article/boko-haram-ambush-kill-soldiers-officer-in-yobe",
+   "snippet": "At least six soldiers, including a major, and one forest guard have been killed after suspected Boko Haram terrorists ambushed\n\n Olatunji Omirin   October 20, 2026 1 min read\n\nAdd BusinessDay as a preferred source on Google   Follow BusinessDay on Google News\n\nShare\n\n\n\n### Delta approves Warri Ring Road, Ugbolu-Illah reconstruction, others\n\nAdvertisement\n\n## Download the BusinessDay App\n\nQR code t",
+   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "President al-Alimi: Houthi Militias Attacks On Civilian Airports Require World's Unity, As It Did Against ISIS, Al-Qaeda",
+   "url": "https://www.sabanew.net/story/en/154402",
+   "snippet": "The President called on friendly countries to support national and international efforts to designate the Houthi militias as a terrorist organization globally, and to unite efforts to confront their threat.  \n   \n \" The world, which came together earlier against ISIS, al-Qaeda, Boko Haram, and other terrorist groups, is today required to take a unified and firm stance against Houthi terrorism\", th",
+   "published": "Wed, 21 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Who are the armed groups operating in Nigeria, killing at least 40 people? | News.az",
+   "url": "https://news.az/news/who-are-the-armed-groups-operating-in-nigeria-killing-at-least-40-people",
+   "snippet": "Some groups demand payments from farmers, traders and local communities, while others steal livestock, food and commercial goods.\n\nThe economic consequences can be severe because repeated attacks discourage farming, disrupt local markets and force residents to abandon their livelihoods.\n\nNigeria also faces a separate but overlapping insurgency involving Boko Haram and the Islamic State West Africa",
+   "published": "Sun, 25 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Gunmen kill at least 10 people in eastern Nigeria, police say | Police News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say",
+   "snippet": "end of list\n\nAccording to police, the attackers also looted food from shops.\n\nSurvivors told the AFP news agency that at least 20 people were killed, while human rights group Amnesty International said in a statement on Saturday that the death toll was 40.\n\nAmnesty International also said that while police ⁠had earlier confirmed the killing of 10 people, more bodies were recovered later on Saturda",
+   "published": "Sat, 24 Oct 2026 22:35:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FACT CHECK: Is Video Showing Terrorists Attack in Nigeria recent?",
+   "url": "https://dailytrust.com/fact-check-is-video-showing-terrorists-attack-in-nigeria-recent",
+   "snippet": "A video circulating on social media has been used to suggest that terrorists are currently attacking Christians in Nigeria. However, a review of earlier",
+   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

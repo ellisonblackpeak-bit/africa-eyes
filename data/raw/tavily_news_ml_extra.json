@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "54 bodies found in Mali after attacks — The Hindu | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/u-mali-pislia-napadiv-viiavili-54-tila-the-hindu",
+   "snippet": "A military statement dated October 24 said the updated death toll had risen by six people. The military also said that the victims were buried at the site.\n\nMore current news is available on the UA.News Telegram channel Telegram.\n\nAccording to the armed forces, nine survivors were evacuated to the city of Ménaka. The statement provided no further details about their condition.\n\n## Attacks on camps",
+   "published": "Sun, 25 Oct 2026 05:13:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2 days after Burkina Faso voted to reinstate the death penalty, Mali broadens powers to revoke citizenship as Sahel leaders tighten state control | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/lifestyle/2-days-after-burkina-faso-voted-to-reinstate-the-death-penalty-mali-broadens-powers/mjmzn96",
+   "snippet": "#### Read Also\n\nMali’s National Transitional Council ratified an ordinance on October 22 amending the country’s Code of Persons and Family, allowing authorities to revoke the nationality of citizens by birth or naturalisation accused of acting against the country’s interests.\n\nThe measure received 119 votes from members present, according to Benin Web TV and La Nouvelle Tribune. [...] Mali has exp",
+   "published": "Fri, 23 Oct 2026 13:13:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Attack by Islamic State-affiliated group in Mali kills 48 people | AP News",
+   "url": "https://apnews.com/article/mali-attack-menaka-deaths-sahel-tuareg-issp-b65482e0b8f3b814e2465ab61c41ee1f",
+   "snippet": "Fighters from the Islamic State in Sahel Province, or ISSP, attacked on Sunday night into Monday morning and casualties included children and elderly, Moussa Ag Acharatoumane, a Tuareg leader and member of the National Transitional Council, said.\n\nAccording to Moussa Ag Acharatoumane, the armed group attacked civilians, accusing them of revealing ISSP positions to the Malian army who had been cond",
+   "published": "Tue, 20 Oct 2026 15:12:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Military security: Mali seeks the FAR’s expertise",
+   "url": "https://en.yabiladi.com/articles/details/205638/military-security-mali-seeks-far-s.html",
+   "snippet": "Publié  Le 24/10/2026 à 17h55    Temps de lecture: 1'\n\nMilitary security: Mali seeks the FAR’s expertise\n\nDR\n\n‹\n\n›\n\nA high-level Malian delegation led by Major General Sambo Minkourou Diakité, director of Mali’s Military Security, paid a working visit to Morocco from October 18 to 22, 2026, the Royal Armed Forces (FAR) announced.\n\nThe visit aimed to «strengthen the strategic partnership and consol",
+   "published": "Sun, 25 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Salient Motion CEO plans ‘many more’ factories for defense components | Manufacturing Dive",
+   "url": "https://www.manufacturingdive.com/news/reshoring-precision-ball-and-roller-screw-manufacturing-vishaal-mali/833926",
+   "snippet": "VISHAAL MALI: There is such a big push right now in defense tech and an aerospace resurgence happening, but I sort of felt like there’s a missing asset class in the manufacturing supply chain. It was pretty evident that everyone is building all these incredible platforms that that the country needs, whether it’s aerospace or traditional airplanes and rethinking commercial flight, all the way to mi",
+   "published": "Mon, 26 Oct 2026 10:57:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali Seeks FAR Expertise During Military Security Visit to Morocco",
+   "url": "https://www.moroccoworldnews.com/2026/10/343687/mali-seeks-far-expertise-during-military-security-visit-to-morocco",
+   "snippet": "Casablanca – A Malian military delegation visited Morocco from October 18-22 to discuss military security cooperation and specialized training with the Royal Armed Forces (FAR).\n\nThe delegation, led by Major General Sambou Minkoro Diakité, director of Mali’s Military Security Directorate, visited Morocco from October 18 to 22 to strengthen bilateral security cooperation, according to an announceme",
+   "published": "Sat, 24 Oct 2026 18:14:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Ukraine may be involved in Mali's conflict",
+   "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
+   "snippet": "In July 2024, DW reported on possible involvement by the Ukrainian military intelligence service (HUR) in an ambush on Russian Wagner fighters near Tinzaouaten in northern Mali.\n\nAt the time, HUR spokesperson Andriy Yusov said the Tuareg rebels had received information they needed to carry out the attack. Ukraine denied direct involvement.\n\n## Jihadist groups in Africa and their links\n\nParamilitar",
+   "published": "Mon, 26 Oct 2026 14:58:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mesa 27.0 Switching To Kraid Compiler By Default For Arm Mali GPUs - Phoronix",
+   "url": "https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid",
+   "snippet": "3 Comments\n\nTweet\n\nRelated News\n\nMesa Loosens Rules Around AI Agents For Code Comments / Commit Messages\n\nAI Resurrects AVX-512 Support For Mesa's LLVMpipe Software Driver\n\nMesa's Zink Now Offers VA-API Video Acceleration Atop Vulkan Video\n\nMesa Expands NPU Capabilities With Support For YOLOX With PyTorch\n\nValve Lands VK\\_AMD\\_anti\\_lag Support For AMD RADV Driver In Mesa 26.3\n\nMesa Developers Loo",
+   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "Following successive coups and deteriorating diplomatic relations, France withdrew its troops from Mali in August 2022, Burkina Faso in February 2023 and Niger in December 2023.\n\nThe withdrawals were accompanied by growing anti-French sentiment and demands from military governments for greater control over their security policies.\n\nNiger demanded the departure of approximately 1,500 French soldier",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Texas dad deported by ICE to Ghana was then forced to go to Mali, a country that's unsafe for him, he says - CBS News",
+   "url": "https://www.cbsnews.com/news/moussa-diawara-third-country-deportation-ghana-mali-60-minutes",
+   "snippet": "Last month, a federal appeals court upheld a ruling in a class action lawsuit that found the Trump administration's third-country policy was unlawful because it denied deportees due process. But the Supreme Court has allowed these deportations to continue until it hears the case in December.\n\n## Diawara fighting to get back to his family in the U.S.\n\nMoussa Diawara's attorney, Reuben S. Kerben, ha",
+   "published": "Sun, 25 Oct 2026 23:17:48 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ml_extra",
  "_query": "Mali latest news",
  "_domains": [],

@@ -1,7 +1,49 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Philippine­s summons Chinese ambassador to protest remarks",
+   "url": "https://www.pressreader.com/macau/macau-daily-times/20261020/281638197186478",
+   "snippet": "2026-10-20 - MDT/AP Politics · Philippines · Beijing · South China Sea · Manila · China · Ferdinand Marcos, Jr. · the Chinese government · Gilberto Teodoro",
+   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Alibaba Stock Slips as China Renews Regulatory Pressure<!-- --> - Barron's",
+   "url": "https://www.barrons.com/articles/alibaba-stock-china-regulation-3f2d6df9",
+   "snippet": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\nBarron's\n\n# Alibaba Stock Slips as China Renews Regulatory Pressure\n\nAlibaba Group Holding stock was falling Thursday as regulatory pressures from Beijing—long the bogeyman of the Chinese tech sector—appeared to rise again. While Alibaba has recently made a successful pivot to artificial intelligence, it is still vulnerable to governmen",
+   "published": "Thu, 22 Oct 2026 16:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US bars Chinese AI tool DeepSeek from federal civilian agency networks - TRT World",
+   "url": "https://www.trtworld.com/article/d59bfd047f3c",
+   "snippet": "“DeepSeek's models present multiple threat vectors,” James Percival, general counsel of the US Department of Homeland Security, said in a directive on Monday.\n\nPercival warned that the company's servers operate in China, where domestic legislation “permits extensive authority to government cyber and intelligence functions to access private company infrastructure”. [...] “China has consistently opp",
+   "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Alibaba Shares Post Steepest Drop in Two Months on China Curbs - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs",
+   "snippet": "# Alibaba Shares Post Steepest Drop in Two Months on China Curbs\n\nAlibaba Group Holding Ltd.’s shares suffered their steepest decline in two months as investors fretted over Chinese authorities’ push to tighten product-quality standards and strengthen consumer protection. [...] The Chinese e-commerce giant’s shares fell as much as 6% on Thursday, the most since Aug. 24. The stock was the biggest c",
+   "published": "Thu, 22 Oct 2026 03:29:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Embassy issues fresh jabs at Philippine officials despite DFA reminder",
+   "url": "https://mb.com.ph/2026/10/20/chinese-embassy-issues-fresh-jabs-at-philippine-officials-despite-dfa-reminder",
+   "snippet": "Despite being told by the Department of Foreign Affairs (DFA) that it is “not the place of a foreign mission to publicly criticize or taunt Philippine",
+   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DFA, Chinese Embassy now at odds over latter’s social media posts",
+   "url": "https://globalnation.inquirer.net/343485/dfa-chinese-embassy-now-at-odds-over-latters-social-media-posts",
+   "snippet": "In a statement, the Department of Foreign Affairs (DFA) said diplomats were expected to act “in a manner befitting diplomatic envoys.”",
+   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

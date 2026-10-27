@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Inside von der Leyen’s Commission shake-up",
+   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/inside-von-der-leyens-commission-shake-up/",
+   "content": "Ursula von der Leyen’s plan to slim down and reorganize the European Commission moves a step closer, with outside advisers calling for a stronger center, fewer bureaucratic silos and potentially far-reaching changes to some of Brussels’ most powerful departments. Then, after Aleksandar Vučić’s defeat in Serbia, Zoya Sheftalovich and Nick Vinocur ask whether a new […]",
+   "published_date": "Tue, 27 Oct 2026 05:05:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Parlamentswahl in Israel: Hoffnung auf einen Neuanfang?",
+   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/parlamentswahl-in-israel-hoffnung-auf-einen-neuanfang/",
+   "content": "Präsentiert von YouTube.",
+   "published_date": "Tue, 27 Oct 2026 04:15:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "BAROMÈTRE DU REJET : Le Pen, toujours moins rejetée",
+   "url": "https://www.politico.eu/article/barometre-du-rejet-le-pen-toujours-moins-rejetee/",
+   "content": "La nouvelle édition de l'enquête mensuelle de Cluster 17 pour POLITICO montre que Marine Le Pen est encore moins rejetée par les Français qu'au mois de septembre. Reste un mince motif d'espoir pour le bloc central.",
+   "published_date": "Tue, 27 Oct 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Tobacco lobby steps up Brussels push as EU rewrites rules",
+   "url": "https://www.politico.eu/article/tobacco-lobby-steps-up-brussels-push-as-eu-rewrites-rules/",
+   "content": "Meetings this parliamentary term have already quadrupled compared with the last session.",
+   "published_date": "Tue, 27 Oct 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Frontex set for new powers to deport beyond EU borders in latest overhaul",
    "url": "https://www.politico.eu/article/frontex-set-for-new-powers-to-deport-beyond-eu-borders-in-latest-overhaul/",
    "content": "Brussels also wants the agency to be ready to respond to border crises within 24 hours, drawing lessons from Ceuta.",
@@ -23,6 +51,13 @@
    "score": 0.6
   },
   {
+   "title": "7 big questions as Britain hikes defense spending",
+   "url": "https://www.politico.eu/article/7-big-questions-as-britain-hikes-defense-spending/",
+   "content": "The devil will be in the detail as Britain's top finance minister tries to make good on a promise to boost defense spending.",
+   "published_date": "Mon, 26 Oct 2026 18:30:35 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Le gouvernement envisage de ne pas reconstituer les stocks stratégiques de diesel",
    "url": "https://www.politico.eu/article/le-gouvernement-envisage-de-ne-pas-reconstituer-les-stocks-strategiques-de-diesel/",
    "content": "La libération des stocks avait été décidée par Sébastien Lecornu le 7 octobre pour faire baisser les prix.",
@@ -30,45 +65,10 @@
    "score": 0.6
   },
   {
-   "title": "Europe is living in a new ‘era of darkness,’ Finland’s Stubb warns",
-   "url": "https://www.politico.eu/article/europe-new-era-of-darkness-finland-alexander-stubb-warns/",
-   "content": "The Finnish president says Europe needs new security structures to keep peace in this “a dog-eat-dog world.”",
-   "published_date": "Mon, 26 Oct 2026 16:16:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Von der Leyen’s big Commission shake-up moves a step closer",
-   "url": "https://www.politico.eu/article/ursula-von-der-leyen-big-eu-commission-shake-up-moves-a-step-closer/",
-   "content": "External advisers have delivered their assessment of the EU executive's future — but major restructuring decisions are still some way off.",
-   "published_date": "Mon, 26 Oct 2026 14:05:22 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Belgium postpones terrace smoking ban",
-   "url": "https://www.politico.eu/article/belgium-postpones-terrace-smoking-ban/",
-   "content": "The delay is to allow enough time for restaurants to adjust to the new rules.",
-   "published_date": "Mon, 26 Oct 2026 13:59:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "‘Disturbing and pathetic’: German politicians slam Audi CEO’s appearance at Trump rally",
-   "url": "https://www.politico.eu/article/donald-trump-midterms-germany-gernot-dollner-unions-audi-ceo/",
-   "content": "The German car manufacturer plans to open a factory in the U.S. state of Georgia.",
-   "published_date": "Mon, 26 Oct 2026 12:02:45 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Liz Truss claims Brits would be on Mars by 2040 if she hadn’t been ousted",
-   "url": "https://www.politico.eu/article/liz-truss-claims-brits-would-be-on-mars-by-2040-if-she-hadnt-been-ousted/",
-   "content": "Former prime minister dreams of a brighter alternative future.",
-   "published_date": "Mon, 26 Oct 2026 11:49:49 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Burnham wants UK back in EU within his lifetime",
-   "url": "https://www.politico.eu/article/burnham-wants-uk-back-in-eu-within-his-lifetime/",
-   "content": "But British prime minister rules out rejoin push in current parliament.",
-   "published_date": "Mon, 26 Oct 2026 10:13:20 +0000",
+   "title": "Quebec’s new separatist government wants a bigger role in EU ties",
+   "url": "https://www.politico.eu/article/quebec-canada-new-separatist-government-eu-ties/",
+   "content": "The province is staking a claim in areas like natural resources as new Premier Paul St-Pierre Plamondon envisages a longer-term push for independence.",
+   "published_date": "Mon, 26 Oct 2026 17:55:04 +0000",
    "score": 0.6
   }
  ],

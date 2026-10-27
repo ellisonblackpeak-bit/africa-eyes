@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De7lMyqOwWC",
+   "snippet": "The crisis reflects a structural gap between what Niger can refine and what it consumes. The Zinder refinery, known as SORAZ, is the country's only operating refinery. When it cannot cover demand, Sonidep must import fuel, which requires cash, foreign currency and open transport routes through neighbouring countries. On 12 October, authorities banned exports of premium gasoline and diesel and set ",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "\"🇳🇪🇲🇱🇧🇫AES first; Niger's government says it is ...",
+   "url": "https://x.com/beyondB_DAG/status/2112455256642625854",
+   "snippet": "The state-owned SORAZ refinery, located in the Zinder region, has a capacity of about 20,000 barrels a day — barely enough to meet local demand.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DetUzs_FuXn",
+   "snippet": "The decision comes as Niger faces disruptions in fuel distribution, with shortages reported at filling stations in Niamey. Reduced supplies from informal fuel trade with neighbouring Nigeria have added pressure to the country’s domestic market.  \n  \nNiger’s Zinder refinery, with a reported processing capacity of about 20,000 barrels per day, has traditionally supplied domestic consumers while also",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "'Real Struggle': Niger's Fuel Crisis Deepens as ...",
+   "url": "https://www.facebook.com/firstpostin/posts/real-struggle-nigers-fuel-crisis-deepens-as-government-restricts-sales-alysonle_/1653339603493687",
+   "snippet": "The Soraz refinery in Zinder is the only one in the country. It “can no longer satisfy domestic demand”, which has surged for more than a year now, the state-",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger's government reportedly issued a 45-day ultimatum ...",
+   "url": "https://www.facebook.com/theGrio/posts/nigers-government-reportedly-issued-a-45-day-ultimatum-to-three-chinese-linked-o/1473616777969888",
+   "snippet": "The dispute also involved concerns about local employment, subcontracting opportunities, and operations at the Zinder refinery.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "What does a petroleum company have ...",
+   "url": "https://www.facebook.com/zhongguoshiyou/posts/what-does-a-petroleum-company-have-to-do-with-driving-licenses-and-grain-millswe/1559159929584626",
+   "snippet": "The Zinder Refinery Company (SORAZ)—established in 2011—currently processes 20,000 barrels of crude oil per day, supplying a significant share of the country's",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/Deyug7tCguM",
+   "snippet": "Now the clock is ticking. Will the companies meet Niger's demands, or will this showdown escalate?  \n  \n👉🏾Like, Share & Follow #TheSahelInformer for more sharp, daily geopolitical updates across Africa and the Globe 🌎  \n  \n#Niger #China #CNPC #AfricanOil #ResourceSovereignty #EconomicSovereignty #AfricanResources #PanAfricanism #AES #AfricaRising #Geopolitics #TheSahelInformer #fbviral #everyoneac",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/De2M8sVCQCi",
+   "snippet": "firstpost\n\n‘Real Struggle’: Niger’s Fuel Crisis Deepens as Government Restricts Sales   \n  \n@alysonle\\_ examines the causes of Niger’s fuel shortage, the growing gap between domestic production and demand, and the government’s efforts to ease the crisis on #FirstpostAfrica\n\naarushi_sinha_999's profile picture\n\naarushi\\_sinha\\_999\n\n😍😍\n\nReply\n\naarushi_sinha_999's profile picture\n\naarushi\\_sinha\\_999",
+   "published": "Fri, 23 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_soraz",
  "_query": "Zinder refinery Niger",
  "_domains": [],

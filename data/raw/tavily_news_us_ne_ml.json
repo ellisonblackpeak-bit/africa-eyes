@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "The United States has also seen its military footprint shrink.\n\nIn 2024, Washington withdrew approximately 1,000 soldiers from Niger after the military government terminated their security cooperation agreement. The withdrawal included personnel stationed at an important US drone base near Agadez.\n\nThe result has been a significant realignment of the Sahel’s security partnerships, with Western mil",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc - France 24",
+   "url": "https://www.france24.com/en/video/20261020-niger-mali-and-burkina-faso-resume-dialogue-with-ecowas-regional-bloc",
+   "snippet": "Issued on:\n\nShare\n\nThree junta-ruled Sahel states – Niger, Mali and Burkina Faso – on Saturday resumed dialogue with the ECOWAS regional bloc, which they withdrew from more than 18 months ago. They agreed to work towards a “framework agreement” on cooperation. FRANCE 24’s regional correspondent Harold Girard tells us more.\n\nKeywords for this article\n\n Africa\n West Africa\n Sahel\n\nIn Kenya, recycled",
+   "published": "Tue, 20 Oct 2026 12:21:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "It's Time to Put AFRICOM in Africa | Geopolitical Monitor",
+   "url": "https://www.geopoliticalmonitor.com/africom-headquarters-west-africa",
+   "snippet": "The views and opinions expressed in this article are those of the author alone and do not represent those of Geopoliticalmonitor.com\n\nShare\n\nTopics AFRICOM The Sahel US Military Bases\n\nCountries Burkina Faso China Cote D'Ivoire Djibouti Germany Ghana Guinea Italy Mali Niger Russian Federation United States\n\nYou May Also Be Interested In\n\nHas the Sun Finally Set on Françafrique?  Situation Reports\n",
+   "published": "Tue, 20 Oct 2026 13:22:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Russia Is Eclipsing the U.S. in Africa",
+   "url": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa",
+   "snippet": "Nuclear power deals also bind African host governments to Rosatom for fuel, maintenance, and financing for decades. Russian access to Nigerien uranium, Malian and Sudanese gold, and Guinean bauxite comes as Washington works to secure its critical minerals supply chains.\n\n## Washington Should Compete, Not Concede [...] Russia’s military presence has expanded fastest of all. In 2023, Russian forces ",
+   "published": "Tue, 20 Oct 2026 12:43:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Texas dad deported by ICE to Ghana was then forced to go to Mali, a country that's unsafe for him, he says - CBS News",
+   "url": "https://www.cbsnews.com/news/moussa-diawara-third-country-deportation-ghana-mali-60-minutes",
+   "snippet": "There were 63 people on Diawara's third-country deportation flight, which left Texas on July 30, and stopped in Sierra Leone and the Central African Republic before landing in Ghana. Seventeen of the 19 people 60 Minutes reached who were deported to Ghana said they were subsequently sent, against their will, to countries U.S. immigration judges had ruled they should not be returned to, including N",
+   "published": "Sun, 25 Oct 2026 23:17:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "url": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
+   "snippet": "Tensions rose again in 2025 after Algeria shot down a Malian drone near its border. Niger recalled its ambassador to Algiers in solidarity with Mali, a close ally which is also under military rule.\n\nRelations have since improved. Tchiani visited Algeria in February 2026, and in late August, President Abdelmadjid Tebboune sent fighter jets to Niger to help suppress a coup attempt and also donated f",
+   "published": "Mon, 26 Oct 2026 13:18:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Attack by Islamic State-affiliated group in Mali kills 48 people, official says – WPRI.com",
+   "url": "https://www.wpri.com/news/us-and-world/ap-attack-by-islamic-state-affiliated-group-in-mali-kills-48-people",
+   "snippet": "The vast Sahel region has become the deadliest place in the world for extremism. The military governments of Mali, Burkina Faso and Niger in recent years have struggled to turn the tide of armed attacks in the region despite seizing power and turning to Russia for help.\n\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistribu",
+   "published": "Tue, 20 Oct 2026 15:47:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Deploys Military to Bolster Sahel Security - Africa Defense Forum",
+   "url": "https://adf-magazine.com/2026/10/algeria-deploys-military-to-bolster-sahel-security",
+   "snippet": "Algeria Border Security Islamic State JNIM Mali national security Niger Sahel Terrorism\n\nShare.   Facebook   Twitter\")   Pinterest   LinkedIn   Tumblr   Email   Reddit   WhatsApp\n\nPrevious ArticleMexican Cartels Targeting Africa as Meth Production Hub\n\n#### Related Posts\n\n#### Mexican Cartels Targeting Africa as Meth Production Hub\n\n#### Tensions Along Eritrea-Ethiopia Border Risk Erupting into Wa",
+   "published": "Tue, 20 Oct 2026 17:27:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "When soldiers become a popular alternative",
+   "url": "https://goodauthority.org/news/when-soldiers-become-a-popular-alternative",
+   "snippet": "Civil–military relationsMilitary coupAfricaAfrobarometerAlgeriaBulgariaBurkina FasoCambodiaChinaCubaEgyptEl SalvadorFijiFranceGabonGuineaGuinea-BissauHungaryIndiaIndonesiaIraqItalyJordanKenyaLaosLiberiaMadagascarMaliMyanmarNepalNigerNigeriaPakistanPeruPolandPortugalSri LankaTanzaniaThailandTurkeyUkraineUnited KingdomUnited StatesUruguayVenezuelaVietnamZimbabwe\n\n+45 more\n\n### Related\n\nGood Authorit",
+   "published": "Mon, 26 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Patient-Centred Care in West Africa: A Narrative Review of Structural Barriers, Sociocultural Constraints, and Implications for Practice and Policy",
+   "url": "https://www.cureus.com/articles/537593-patient-centred-care-in-west-africa-a-narrative-review-of-structural-barriers-sociocultural-constraints-and-implications-for-practice-and-policy",
+   "snippet": "Dimension Category N Refs\nGeographical setting Nigeria 10(javascript:void(0))\nGhana 5(javascript:void(0))\nMali 1(javascript:void(0))\nSierra Leone 1(javascript:void(0))\nGuinea 1(javascript:void(0))\nSenegal 1(javascript:void(0))\nWest African regional or multi-country 3(javascript:void(0))\nOther regions, sub-Saharan Africa, multi-country LMIC or global 12(javascript:void(0))\nSubtotal 34\nDesign Qualit",
+   "published": "Mon, 26 Oct 2026 12:23:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ne_ml",
  "_query": "US Niger Mali",
  "_domains": [],

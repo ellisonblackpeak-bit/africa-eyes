@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nepal plans flood early warning systems in river basins, risk reduction in glacial lakes",
+   "url": "https://news.cgtn.com/news/2026-10-26/Nepal-plans-flood-warnings-glacial-lake-risk-reduction-1RyztPk91Ys/share_amp.html",
+   "snippet": "Updated 2026.10.26 16:53 GMT+8\n\nCGTN\n\nThe Nepali government has unveiled plans to expand flood early warning systems across six major river basins and lower water levels in four high-risk glacial lakes as part of efforts to strengthen disaster preparedness amid growing climate-related risks in the Himalayan region.\n\nThe Nepal-China Highway near the Bhote Koshi River in Syabrubesi, Nepal's Rasuwa d",
+   "published": "Mon, 26 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Transport resumes in Khandbari-Kimathanka Road",
+   "url": "https://risingnepaldaily.com/news/87953",
+   "snippet": "Project Director Ram Bahadur Gurung noted that the use of explosives was necessary due to the size of the rocks displaced by the landslide. The restoration of the Khandbari-Kimathanka road is particularly significant as it enhances accessibility to key trade corridors between Nepal and China, which have faced disruptions from natural disasters and road closures. [...] This vital transportation rou",
+   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nepal News | Nepal's First Online News Portal",
+   "url": "https://english.nepalnews.com/s/politics/everything-you-need-to-know-about-finance-ministers-new-india-narrative-and-why-it-sparked-debate",
+   "snippet": "Strategic risks are even more complex. When selecting investors for a project, conducting energy trade, or constructing infrastructure, Nepal may need to keep in mind the competition between India and China alongside its own economic interests. In such situations, to maintain sovereign decision-making independence, clear policies and capable institutional negotiations are necessary. [...] Finance ",
+   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "'Rising runoff, flood risks': Fresh warning over China’s mega Brahmaputra dam - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/world/china/rising-runoff-flood-risks-fresh-warning-over-chinas-mega-brahmaputra-dam/articleshow/135212072.cms",
+   "snippet": "latest findings add to scientific concerns about the risks associated with the project. In July, Chinese geologists warned that an active fault line beneath the planned dam could threaten its structural stability. They urged engineers to strengthen vulnerable slopes and introduce protective measures against landslides and rock collapses.The Himalayan region’s vulnerability to cascading natural haz",
+   "published": "Mon, 26 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Renewed flooding in Nepal challenges communities and animals",
+   "url": "https://www.ifaw.org/international/news/floods-nepal-china-2026",
+   "snippet": "Those relationships and preparedness efforts are now helping inform the response. IFAW is supporting remote assessments through established contacts in affected areas, while our team in China is gathering information from local and regional sources and contacts to help build a clearer cross-border picture of the disaster and emerging animal needs.\n\nIFAW has also notified its global network of anim",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China bets on manufactured water, and wants to sell it to the world | Reuters",
+   "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22",
+   "snippet": "The push is rooted in domestic risk. In August, a ​glacier collapse near the border between Nepal and Tibet showed how volatile natural water sources are becoming.\n\nTibet's \"water towers\" feed headwaters for nearly 2 billion people across South, Southeast and East Asia, and climate change ​is eroding them. Meanwhile, severe over-extraction in northern China has depleted groundwater and left key fa",
+   "published": "Thu, 22 Oct 2026 05:35:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Nepal's glacial lakes demand Indian action - The Korea Times",
+   "url": "https://www.koreatimes.co.kr/amp/opinion/20261025/why-nepals-glacial-lakes-demand-indian-action",
+   "snippet": "Nepal’s ambitious six-year plan to drain four high-altitude glacial lakes — Thulagi, Lower Barun, Lumding Tsho and Hongu-2 — is born of sheer urgency. Following a catastrophic flood along the China-Nepal border that left more than 1,450 dead and thousands missing, Kathmandu is scrambling to mitigate future disasters. New Delhi cannot afford to view this as a purely domestic Nepali affair. For Indi",
+   "published": "Sun, 25 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nepal floods of 2026 | Glacier Collapse, Natural Disaster, & Facts | Britannica",
+   "url": "https://www.britannica.com/event/Nepal-floods-of-2026",
+   "snippet": "The Nepal floods of 2026 washed over and buried villages, blocked hydroelectric power tunnels, destroyed bridges and roads, and swept away thousands of structures, including roughly 7,500 homes. Nepal and China conducted rescue and recovery operations with limited outside help, primarily relying on their own teams and disaster specialists from India, Australia, and South Korea. Over $820 million w",
+   "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Clashes over a mega hydroelectric dam project in India bordering China.",
+   "url": "https://www.vietnam.vn/en/dung-do-vi-du-an-sieu-dap-thuy-dien-o-an-do-giap-trung-quoc",
+   "snippet": "You may also like\n\nNew Delhi is concerned that the Chinese project could affect downstream water flow. According to India, the proposed mega-dam project would create a large reservoir, helping to store water and maintain flow into the Brahmaputra River.\n\nMeanwhile, Beijing insists its project will not cause any \"negative impacts\" on the downstream region, according to AFP. [...] Siang is the name ",
+   "published": "Sun, 25 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Massive Brahmaputra Dam Project Faces Rising Runoff, Flood Risks: Chinese Researchers",
+   "url": "https://www.etvbharat.com/en/international/china-massive-brahmaputra-dam-project-faces-rising-runoff-flood-risks-say-chinese-researchers-enn26102603333",
+   "snippet": "The researchers said future runoff should be considered in planning \"water resource development and storage infrastructure\" and in assessing transboundary",
+   "published": "Mon, 26 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "np_wide",
  "_query": "Nepal China project",
  "_domains": [],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "An Austrian and a Swiss woman freed in Niger after a year and half in captivity | FOX 5 San Diego & KUSI News",
+   "url": "https://fox5sandiego.com/news/ap-top-headlines/ap-an-austrian-and-a-swiss-woman-freed-in-niger-after-a-year-and-half-in-captivity",
+   "snippet": "Posted: Oct 22, 2026 / 05:19 AM PDT\n\nUpdated: Oct 22, 2026 / 05:23 AM PDT\n\nNIAMEY, Niger (AP) — Two women from Austria and Switzerland have been freed in Niger after spending more than a year and a half in captivity, officials and local media reported Thursday.\n\nThe Austrian woman, an aid worker identified as Eva G, was received by the Austrian crisis team on Thursday, Austrian Foreign Minister Be",
+   "published": "Thu, 22 Oct 2026 12:19:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria approves troop deployment to Niger: what is their mission? | Euronews",
+   "url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
+   "snippet": "Since July 2023, Niger has been ruled by a military junta led by General Abdourahamane Tiani, who deposed elected president Mohamed Bazoum, held in custody ever since, while the country continues to grapple with security turmoil and ongoing armed attacks.\n\nAdditional sources • AFP\n\n## Read more\n\n### Zelenskyy's planned Brussels visit for peace talks cancelled\n\n### Why Israel’s wartime election isn",
+   "published": "Mon, 26 Oct 2026 13:09:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algerian parliament’s upper house approves troop deployment to Niger | Military News | Al Jazeera",
+   "url": "https://www.aljazeera.com/amp/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger",
+   "snippet": "Earlier this month, Tebboune confirmed that Algeria sent fighter jets to Niger in late August to help thwart a “coup attempt” that shook the capital, Niamey.\n\nThe Algerian Ministry of Defence previously said it had sent four jets to Niger following the unrest. It said two patrols of four Sukhoi Su-30 aircraft had landed at Niamey airport, accompanied by an air-to-air refuelling plane.\n\nAdvertiseme",
+   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s upper house approves troop deployment to Niger | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/verkhnia-palata-alzhiru-skhvalila-vidpravlennia-viisk-do-nigeru-al-jazeera",
+   "snippet": "Earlier this month, Tebboune confirmed that Algeria had sent fighter jets to Niger at the end of August to help counter what he described as an attempted coup in Niamey. Algeria’s Ministry of Defense said that, at the request of the Nigerien authorities, two patrols of four Su-30 aircraft each, as well as an aerial refueling aircraft, arrived at Niamey airport.\n\nRead us on\n\n[](\n\n[](\n\nDownload our ",
+   "published": "Sun, 25 Oct 2026 14:41:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years | AP News",
+   "url": "https://apnews.com/article/algeria-niger-troops-economic-interests-d44b4d7a17cfc4a355376f2fffab0349",
+   "snippet": "The western Sahel region comprising Niger, Mali and Burkina Faso, has been shaken by violent extremism due to deadly attacks by armed groups linked to al-Qaida and the Islamic State group and the governments fighting them. All three countries have seen coups in recent years and struggled with overstretched security forces.\n\nThe move on Sunday emphasizes the thawing relations between Algeria and Ni",
+   "published": "Sun, 25 Oct 2026 23:49:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - France 24",
+   "url": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
+   "snippet": "Niger faces persistent attacks by armed groups, including in areas near the border with Algeria.\n\nThe neighbours, who share a 960-kilometre (600-mile) desert border, have agreed to deepen cooperation against jihadist violence, cross-border crime and trafficking.\n\n\"This decision marks a historic break with Algeria's doctrine of non-intervention in military conflicts beyond its borders,\" said Abdell",
+   "published": "Mon, 26 Oct 2026 10:10:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to deploy troops to Niger to protect shared interests | Daily Sabah",
+   "url": "https://www.dailysabah.com/world/africa/algeria-to-deploy-troops-to-niger-to-protect-shared-interests",
+   "snippet": "## by Anadolu Agency\n\n ISTANBUL Oct 26, 2026 - 6:21 pm GMT+3\n\nEdited By Nurbanu Tanrıkulu Kızıl\n\nA soldier stands next to a stage during the handover of trucks as a support service to the Niger army, Niamey, Niger, Nov. 11, 2018. (AFP File Photo)\n\nA soldier stands next to a stage during the handover of trucks as a support service to the Niger army, Niamey, Niger, Nov. 11, 2018. (AFP File Photo)\n\nb",
+   "published": "Mon, 26 Oct 2026 15:21:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Austrian, Swiss women kidnapped in Niger are freed — report",
+   "url": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419",
+   "snippet": "### Austrian woman kidnapped in Niger\n\nAustria's Foreign Ministry in Vienna has confirmed that a woman has been kidnapped in the northern Niger city of Agadez. It is the first abduction of an EU citizen in the West African country since the 2023 coup.\n\nHuman RightsJanuary 13, 2025\n\n### Prefer DW on Google\n\nwww.google.com\n\nSkip next section Similar stories\n\n## Similar stories\n\n### Nigeria records f",
+   "published": "Thu, 22 Oct 2026 02:54:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years",
+   "url": "https://www.bozemandailychronicle.com/wire/international/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years/article_00c19fd9-f06a-5ee6-b090-ca05db4623b7.html",
+   "snippet": "Last April, the countries of the Alliance of Sahel States — Niger, Mali and Burkina Faso — recalled their ambassadors from Algeria following an incident in which a Malian drone was shot down by Algeria's army near the border.\n\nAlgeria's foreign ministry also condemned the 2023 coup which brought Niger’s junta leader Tchiani to power.\n\nCopyright 2026 The Associated Press. All rights reserved. This ",
+   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "url": "https://www.reuters.com/world/africa/algeria-send-troops-niger-first-foreign-deployment-since-1973-2026-10-25",
+   "snippet": "Algeria's parliament approved a resolution on Sunday authorising the deployment of army units to Niger, a parliamentary statement said, in what would mark",
+   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_extra",
  "_query": "Niger latest news",
  "_domains": [],

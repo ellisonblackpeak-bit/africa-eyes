@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria confirms Ebola case in woman who arrived from Uganda | AP News",
+   "url": "https://apnews.com/article/nigeria-ebola-first-case-africa-d39e454fbe1be1243e4e39fb46939f62",
+   "snippet": "Nigeria is the latest country to report an Ebola case as the latest outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.\n\nDr. Jean Kaseya, director general of the Africa Centers for Disease Control, said on X that “we are facing an extremely serious threat,” with a fatality rate of nearly 50% of cases.\n\n\n\n1 person rescued fro",
+   "published": "Tue, 20 Oct 2026 17:36:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "WHO supports Nigeria after first Ebola case confirmed | UN News",
+   "url": "https://news.un.org/en/story/2026/10/1168637",
+   "snippet": "Nigeria is the fifth country to detect Ebola Bundibugyo virus disease since an outbreak was declared in the Democratic Republic of the Congo (DRC) in mid-May – the deadliest in the country’s history.\n\nMore than 9,500 cases and more than 4,200 deaths were recorded as of 18 October, according to latest data from the Congolese health authorities. There is currently no vaccine to treat the virus. [...",
+   "published": "Wed, 21 Oct 2026 08:57:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Announces First Case of Ebola in Current Outbreak - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+   "snippet": "The woman who was infected recently flew to Nigeria from Uganda and received the diagnosis several days after starting treatment at a private hospital in Nigeria’s capital, Abuja, according to a statement by the Nigerian health ministry.\n\n“She is currently in isolation and receiving medical care,” said the statement, which was posted on social media. [...] Supported by\n\n# Nigeria Announces First C",
+   "published": "Tue, 20 Oct 2026 21:02:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Swiss Ebola patient in Nigeria evacuated to Switzerland - ABC News",
+   "url": "https://abcnews.com/International/wireStory/swiss-ebola-patient-nigeria-evacuated-switzerland-137570624",
+   "snippet": "Nigerian Health Minister Muhammad Pate said the woman, the country’s first case in the current outbreak, left the capital, Abuja, early Monday with his approval. Her condition had improved significantly, and she was stable, conscious and able to communicate, he said.\n\n“This does not mean she is not still infectious, hence the strict protocols in place,” Pate wrote on X. Her husband, a Swiss diplom",
+   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say | Ebola News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say",
+   "snippet": "People walk out of an office at the headquarters of the Nigeria Centre for Disease Control and Prevention (NCDC) in Abuja, Nigeria, on October 21, 2026 [Marvellous Durowaiye/Reuters]\n\nBy AFP and Reuters\n\nPublished On 21 Oct 202621 Oct 2026 [...] That epidemic killed more than 11,000 people across West Africa between late 2013 and 2016.\n\nThe WHO says Nigeria is the fifth country to detect the virus",
+   "published": "Wed, 21 Oct 2026 23:20:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "1st confirmed Ebola patient in Nigeria evacuated to Switzerland | PBS News",
+   "url": "https://www.pbs.org/newshour/world/1st-confirmed-ebola-patient-in-nigeria-evacuated-to-switzerland",
+   "snippet": "Nigerian Health Minister Muhammad Pate said the woman, the country's first case in the current outbreak, left the capital, Abuja, early Monday with his approval. Her condition had improved significantly, and she was stable, conscious and able to communicate, he said.\n\n## Grow your mind\n\nSubscribe to our Science Newsletter to explore the\nwide worlds of science, health and technology.\n\nThank you. Pl",
+   "published": "Mon, 26 Oct 2026 20:46:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "5 million Nigerians gain clean cooking access annually, but it's not enough, experts say",
+   "url": "https://news.mongabay.com/2026/10/5-million-nigerians-gain-clean-cooking-access-annually-but-its-not-enough-experts-say",
+   "snippet": "LPG prices have risen sharply in Nigeria, with the cost of refilling a standard 12.5-kilogram cylinder more than tripling since 2019. The increase has been driven largely by the naira’s devaluation, which has driven higher costs of importing LPG and retail prices, as well as by higher transport costs since petrol subsidy were removed in 2023. In a country where 63% of the population lives in pover",
+   "published": "Mon, 26 Oct 2026 06:40:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Is Latest Country with a Positive Ebola Identification in What Is One of the Worst Ebola Outbreaks Ever",
+   "url": "https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2026/october/ebola-outbreak",
+   "snippet": "Nigeria had its first positive case of Ebola identified in a woman who had traveled from Uganda and possibly the Democratic Republic of Congo.",
+   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+   "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+   "snippet": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda.",
+   "published": "Sat, 24 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],

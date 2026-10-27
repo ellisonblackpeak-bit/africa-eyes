@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Algeria to send its troops to neighboring Niger. A pro-Russian junta is currently in power there",
+   "url": "https://nashaniva.com/amp/en/407804",
+   "snippet": "Relations between Algeria and Niger remained tense for several months after Algeria shot down a drone that flew in from Mali last year. The incident caused a diplomatic scandal. Niger, along with its allies Mali and Burkina Faso, also ruled by military governments, recalled its ambassador from Algeria. [...] In Niger, since July 2023, power has been in the hands of a military junta led by General ",
+   "published": "Mon, 26 Oct 2026 16:07:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc - France 24",
+   "url": "https://www.france24.com/en/video/20261020-niger-mali-and-burkina-faso-resume-dialogue-with-ecowas-regional-bloc",
+   "snippet": "Issued on:\n\nShare\n\nThree junta-ruled Sahel states – Niger, Mali and Burkina Faso – on Saturday resumed dialogue with the ECOWAS regional bloc, which they withdrew from more than 18 months ago. They agreed to work towards a “framework agreement” on cooperation. FRANCE 24’s regional correspondent Harold Girard tells us more.\n\nKeywords for this article\n\n Africa\n West Africa\n Sahel\n\nIn Kenya, recycled",
+   "published": "Tue, 20 Oct 2026 12:21:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Situation in the Sahel - ICT",
+   "url": "https://ict.org.il/the-situation-in-the-sahel",
+   "snippet": "The coming to power of the military juntas in Mali, Niger and Burkina Faso was accompanied by the expulsion of Western and UN forces, but the presence of the ‘African Corps’ (the successor to the Wagner Force) resulted in a serious security failure. (#_ftn7)  While seriously injuring citizens, the regimes lost widespread control to rebels and Islamists.   The Russian military forces of the ‘Africa",
+   "published": "Tue, 20 Oct 2026 08:47:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - myMotherLode.com",
+   "url": "https://mymotherlode.com/news/africa/11252926/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years.html/amp",
+   "snippet": "Last April, the countries of the Alliance of Sahel States — Niger, Mali and Burkina Faso — recalled their ambassadors from Algeria following an incident in which a Malian drone was shot down by Algeria’s army near the border.\n\nAlgeria’s foreign ministry also condemned the 2023 coup which brought Niger’s junta leader Tchiani to power.\n\nTags:  ap2\n\n© 2000-2024 Clarke Broadcasting Corporation. All ri",
+   "published": "Mon, 26 Oct 2026 01:34:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria approves troop deployment to Niger: what is their mission? | Euronews",
+   "url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
+   "snippet": "Relations between Algeria and Niger had been strained for months following Algeria's downing last year of a drone from Mali. The incident triggered a diplomatic row, with Niger joining fellow junta-led allies Mali and Burkina Faso in recalling its ambassador from Algiers.\n\nThe neighbours, who share a 960-kilometre desert border, have, however, in recent months committed to enhanced economic and se",
+   "published": "Mon, 26 Oct 2026 13:09:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria senate approves sending troops to Niger: Senator",
+   "url": "https://english.alarabiya.net/amp/News/world/2026/10/25/algeria-senate-approves-sending-troops-to-niger-senator",
+   "snippet": "The incident triggered a diplomatic row, with Niger joining fellow junta-led allies Mali and Burkina Faso in recalling its ambassador from Algiers.\n\nNiger has been run by General Tiani since a coup in July 2023 that toppled the elected president Mohamed Bazoum, who has been detained ever since.\n\nRead more:\n\nNiger blames France for inciting soldiers’ mutiny, Paris denies\n\nImage 4 Get the latest sto",
+   "published": "Sun, 25 Oct 2026 13:10:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Deploys Military to Bolster Sahel Security - Africa Defense Forum",
+   "url": "https://adf-magazine.com/2026/10/algeria-deploys-military-to-bolster-sahel-security",
+   "snippet": "Algeria’s decision in August to deploy elements of its military to support Niger’s ruling junta was more than simply a policy shift: It showed that one of Africa’s strongest militaries is prepared to project its power in the name of maintaining stability in the Sahel, according to analysts. [...] Algeria likely has a broader reason for buttressing Niger’s ruling junta: Niger sits at the heart of t",
+   "published": "Tue, 20 Oct 2026 17:27:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Palace Guard Against the Trenches : What the Mutiny in Niamey Revealed | African Arguments",
+   "url": "https://africanarguments.org/2026/10/the-palace-guard-against-the-trenches-what-the-mutiny-in-niamey-revealed",
+   "snippet": "In Mali, in Burkina Faso, and in Niger, soldiers took power putting forward the same argument: civilian leaders had failed in front of the ‘jihadists,’ and the army would now do better. Assimi Goïta carried out two coups in Mali in 2020 and 2021. Ibrahim Traoré took control of Burkina Faso in September 2022 and overturned another putschist, Paul-Henri Damiba. Tiani deposed President Mohamed Bazoum",
+   "published": "Wed, 21 Oct 2026 21:28:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Approves Troop Deployment to Niger, Its First Abroad Since 1973",
+   "url": "https://www.moroccoworldnews.com/2026/10/343845/algeria-approves-troop-deployment-to-niger-its-first-abroad-since-1973",
+   "snippet": "The vote caps months of rapid military build-up. On August 30, President Abdelmadjid Tebboune ordered an air detachment to Niamey a day after an aborted mutiny targeted the ruling junta, which seized power in a July 2023 coup.\n\nFour Sukhoi Su-30 fighters, a transport plane, and an aerial-refueling aircraft landed at Diori-Hamani International Airport during a formal ceremony attended by Nigerien a",
+   "published": "Mon, 26 Oct 2026 12:38:12 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

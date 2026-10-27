@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Ghana to ban raw mineral export by 2030 as Government pushes local processing",
+   "url": "https://constructionreviewonline.com/ghana-to-ban-raw-mineral-export-by-2030-as-government-pushes-local-processing",
+   "snippet": "Ghana is targeting a ban on the export of unprocessed mineral ores by 2030, in a major policy shift aimed at expanding domestic mineral processing.\n\nPresident John Dramani Mahama announced the target while addressing the Mining in Motion Summit in Accra. The government plans to introduce a phased prohibition on raw mineral exports. This will be supported by new legal measures, mineral-specific req",
+   "published": "Tue, 20 Oct 2026 07:12:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "New Economy policy must address Ghana’s skills gap and import dependence – Sam Okudzeto",
+   "url": "https://www.modernghana.com/news/1538410/new-economy-policy-must-address-ghanas-skills.html",
+   "snippet": "According to him, Ghana should be working towards self-sufficiency in food production rather than relying heavily on imports from countries such as Vietnam and Thailand.\n\nThe government’s proposed New Economy Policy is intended to move Ghana beyond economic stabilisation towards increased production, job creation and wealth generation. [...] THU, 22 OCT 2026\n\nPrivate legal practitioner and statesm",
+   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana to stop raw mineral exports by 2030: Mahama",
+   "url": "https://gazettengr.com/ghana-to-stop-raw-mineral-exports-by-2030-mahama",
+   "snippet": "The president, who reaffirmed that government policy will pivot from merely extracting raw materials to building complete industrial value chains, highlighted the integrated aluminium industry as a flagship priority. [...] Friday, October 23, 2026\n\n\n\n #EndSARS\n Politics\n Anti-Corruption\n Rights\n Economy\n Education\n Health\n Sport\n Nationwide\n Opinion\n\n\n\n #EndSARS\n Politics\n Anti-Corruption\n Rights\n",
+   "published": "Fri, 23 Oct 2026 12:59:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "$10bn New Economy Policy must prioritise agricultural value addition – Peasant Farmers",
+   "url": "https://www.citinewsroom.com/2026/10/10bn-new-economy-policy-must-prioritise-agricultural-value-addition-peasant-farmers",
+   "snippet": "The Association is also seeking clarity on how the proposed New Economy Policy will relate to the government’s existing Feed Ghana programme.\n\nMr Nortey questioned whether the new policy would complement the programme or provide the framework for its implementation.\n\nHe said a clear outline of the planned interventions would help farmers and other stakeholders understand how the government intends",
+   "published": "Mon, 26 Oct 2026 05:19:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Use budget to implement 24-hour economy in phases – Prof Bokpin to govt",
+   "url": "https://www.modernghana.com/news/1538119/use-budget-to-implement-24-hour-economy-in-phases.html",
+   "snippet": "Launched in July 2025, the 24-hour economy policy was designed to create an economy that operates around the clock, making Ghana self‑reliant and export‑driven through multisectoral productivity and industrialisation, while creating jobs.\n\nIn a July update, the 24-Hour Economy and Accelerated Export Development Secretariat said some 268 filling stations and 33 manufacturers were running the intend",
+   "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Assessing Ghana's Government Policy on Contract Mining and Local Economic Benefits",
+   "url": "https://www.modernghana.com/news/1539474/assessing-ghanas-government-policy-on-contract.amp",
+   "snippet": "Pursuant to the passage of the Minerals and Mining (Local Content and Local Participation) Regulations, 2020 (L.I. 2431), the Ministry of Lands and Natural",
+   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Mineworkers’ Union denies Government’s claim of consultations on contract mining | 3News",
+   "url": "https://3news.com/news/ghana-mineworkers-union-denies-governments-claim-of-consultations-on-contract-mining",
+   "snippet": "“We are strongly opposed to any policy or practice that transfers wealth from workers to contractors, weakens social protection, undermines decent work and violates workers’ rights.”\n\nThe union argued that local content policies should benefit the wider Ghanaian population instead of enriching a small group of contractors at the expense of workers who undertake the difficult and often hazardous wo",
+   "published": "Thu, 22 Oct 2026 16:14:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tracking Ghana - IMF Policy Coordination Instrument | Big Analysis",
+   "url": "https://www.modernghana.com/videonews/joynews/1/740502",
+   "snippet": "Illegal mining: Sammy Gyamfi defends call to formalise unlicensed small-scale miners.\n\nIllegal mining: Sammy Gyamfi defends call to formalise unlicensed small-scale miners.\n\n23.10.2026 | JoyNews\n\nJoyNews uncovers pressure on Obuasi SHTS rape complainant to withdraw her allegation.\n\nJoyNews uncovers pressure on Obuasi SHTS rape complainant to withdraw her allegation.\n\n23.10.2026 | JoyNews\n\nProposed",
+   "published": "Sat, 24 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Accused of Deporting US-Sent Refugees Back to Danger",
+   "url": "https://www.modernghana.com/news/1539489/ghana-accused-of-deporting-us-sent-refugees-back.html",
+   "snippet": "Ghana has been accused of violating international law by sending refugees it received from the United States back to the countries they fled,",
+   "published": "Mon, 26 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What Ghana Can Learn From Dutch Pension Funds: Pension Money Is Not Government’s ATM",
+   "url": "https://www.modernghana.com/news/1539322/what-ghana-can-learn-from-dutch-pension-funds.html",
+   "snippet": "There is an important pension lesson emerging from Europe that Ghana should not ignore . Dutch pension funds have successfully resisted an attempt to",
+   "published": "Mon, 26 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_gh",
  "_query": "Ghana government policy",
  "_domains": [],

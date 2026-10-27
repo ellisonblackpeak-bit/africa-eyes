@@ -1,7 +1,14 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Fearless Evangelists in Nigeria's Ungoverned Western Borderlands Languish in Chains - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/fearless-evangelists-in-nigerias-ungoverned-western-borderlands-languish-in-chains",
+   "snippet": "“Lakurawa provides ideological cover and heavy weapons, while local Fulani bandit gangs provide local knowledge and handle kidnapping for ransom. Ransom money funds expansion of bases, and expansion creates more kidnapping routes. That is why kidnappings are no longer random, they are strategic,” Attaihiru said.\n\nThis pattern is documented in an analysis of armed Fulani militarization across sub-S",
+   "published": "Fri, 23 Oct 2026 18:56:05 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_lakurawa",
  "_query": "Lakurawa Nigeria",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "US-Nigeria ties strengthen over Nigeria mineral wealth",
+   "url": "https://www.facebook.com/AfricanBusinessMagazine/posts/-from-diplomatic-friction-to-a-surprising-turnaround-us-nigeria-relations-are-en/1764177588654610",
+   "snippet": "American companies invest heavily in Nigeria's oil, gas, technology, and consumer markets, while Nigeria relies on U.S. trade, education, and development",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "$700bn Mineral Deal: Our Resources Must Improve ...",
+   "url": "https://www.facebook.com/AriseTVNews/posts/700bn-mineral-deal-our-resources-must-improve-nigerians-lives-mohammed-babaminer/1726171802848018",
+   "snippet": "Nigeria's $700 billion mineral deal with the US: American companies significant access to our mineral resources. We have energy. And we have enormous mineral",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Reposts by ExxonMobil Nigeria (@ExxonMobil_NG) ...",
+   "url": "https://x.com/ExxonMobil_NG/reposts",
+   "snippet": "The official Twitter page of ExxonMobil in Nigeria. Ministry of Petroleum Resources, Nigeria and 4 others",
+   "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DeuxTm2iqGW",
+   "snippet": "The American Business Council Nigeria recently partnered with the Heritage Foundation to host a high-level U.S.-Nigeria Strategic Partnership Forum in Lagos.  \n  \nThe forum brought together a U.S. delegation led by Heritage Foundation’s James Carafano including Ambassador Carla Sands, former Congresswoman Vicky Hartzler, Retired Coast Guard Admiral Paul Thomas, and other senior policy experts, alo",
+   "published": "Tue, 20 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US loses $265bn to Middle East tension amid rising energy ...",
+   "url": "https://businessday.ng/energy/article/us-loses-265bn-to-middle-east-tension-amid-rising-energy-costs?amp=",
+   "snippet": "BusinessDay's analysis of the top 30 listed companies on the Nigerian Exchange Group showed that their combined energy costs rose against their levels a",
+   "published": "Mon, 26 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical minerals underpin Washington's Nigeria overtures - African Business",
+   "url": "https://african.business/2026/10/resources/critical-minerals-underpin-washingtons-nigeria-overtures",
+   "snippet": "Munira Raji, senior research fellow in green minerals and the energy transition at the Africa Policy Research Institute, tells African Business that the opportunities in Nigeria could be considerable for the US and other potential partners. [...] Share\n\nOn the sidelines of the United Nations General Assembly in New York in September, the United States and Nigeria agreed a new deal to “deepen Ameri",
+   "published": "Tue, 20 Oct 2026 10:47:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "About International Energy Insurance PLC (INTENEG) - Investing.com NG",
+   "url": "https://ng.investing.com/equities/intenegins-company-profile",
+   "snippet": "+0.25\n\n+0.13%\n\nNigeria 10Y\n\n16.905\n\n+0.001\n\n+0.01%\n\nNigeria 2Y\n\n16.116\n\n-0.076\n\n-0.47%\n\nU.K. 10Y\n\n5.3656\n\n+0.0260\n\n+0.49%\n\nGermany 10Y\n\n3.3434\n\n+0.0069\n\n+0.21%\n\nU.S. 10Y\n\n4.988\n\n+0.035\n\n+0.71%\n\nU.S. 5Y\n\n4.807\n\n+0.039\n\n+0.82%\n\nU.S. 2Y\n\n4.682\n\n+0.047\n\n+1.01%\n\nFIDELIT\n\n24.00\n\n+2.000\n\n+9.09%\n\nZENITHB\n\n120.90\n\n-0.60\n\n-0.49%\n\nUBA\n\n40.70\n\n-1.10\n\n-2.63%\n\nFIRSTHOLD\n\n144.10\n\n+13.10\n\n+10.00%\n\nGTCO\n\n122.00\n\n0",
+   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Honeywell brings AI backed by Nvidia and Dell to Africa’s biggest refinery as Dangote pushes to improve productivity | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/honeywell-brings-ai-backed-by-nvidia-and-dell-to-africas-biggest-refinery-as-dangote/smyfmec",
+   "snippet": "The company said reusing engineering designs developed for the Nigerian project could shorten the Kenyan refinery’s development timeline by nearly two years. The facility is expected to produce petrol, diesel and jet fuel for domestic consumption, with additional supplies exported across East Africa. [...] #### Read Also\n\nHoneywell Technologies has launched a new industrial artificial intelligence",
+   "published": "Mon, 26 Oct 2026 10:26:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Remarks by Chargé d’Affaires Philip Kern at the Energy Chamber of Trinidad and Tobago Annual General Meeting - U.S. Embassy in Trinidad & Tobago",
+   "url": "https://tt.usembassy.gov/remarks-by-charge-daffaires-philip-kern-at-the-energy-chamber-of-trinidad-and-tobago-annual-general-meeting",
+   "snippet": "The United States supports Venezuela’s economic recovery and a peaceful transition to a democratically elected government. We believe that stronger institutions, respect for fundamental freedoms, and a marketplace that rewards investment and innovation will help build a more prosperous future.\n\nAmerican companies can contribute to that recovery.\n\nBut there is nothing quite like a next-door neighbo",
+   "published": "Fri, 23 Oct 2026 22:30:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],

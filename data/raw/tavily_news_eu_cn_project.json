@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "BYD to build new factories in Europe to combat strict trade barriers targeting Chinese EVs | South China Morning Post",
+   "url": "https://www.scmp.com/business/china-evs/article/3372001/byd-build-new-factories-europe-combat-strict-trade-barriers-targeting-chinese-evs",
+   "snippet": "Themis Qi\n\nChina’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback at home and rising trade barriers overseas, according to an executive.\n\n“Europe is a very important regional market for BYD. We will not let tariff increases affect local consumers’ choice of BYD,” said Liu Xueliang, vice-president at",
+   "published": "Sun, 25 Oct 2026 08:00:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European firms put Chinese technology to work - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1372947.shtml",
+   "snippet": "At a machinery factory in Vicenza, Italy, Chinese-made robots weld components and move materials. The machines come from Chengdu CRP Robot Technology Co., Ltd., which now has more than 20 partners across 13 European countries. [...] CRP Robot is working with European local partners to improve technical support and after-sales services, its deputy general manager Deng Shihai said. Luigi Gambardella",
+   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Beyond exports: China's automakers dig deeper into Europe - The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10915036",
+   "snippet": "Beyond building factories, Chinese automakers are increasingly forming alliances with established manufacturers that are struggling with sluggish demand, costly electrification investments and underused production capacity.\n\nFor European companies, the partnerships offer opportunities to sustain factory operations and share development costs. For Chinese manufacturers, they provide access to exist",
+   "published": "Mon, 26 Oct 2026 05:57:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BYD Says It Won't Let EU Tariff Hikes Sway Europeans' Choice of Its Cars",
+   "url": "https://eletric-vehicles.com/byd/byd-says-it-wont-let-eu-tariff-hikes-sway-europeans-choice-of-its-cars",
+   "snippet": "Liu said BYD was expanding its local footprint, with new European plants due to start “soon.”\n\nBYD’s first European car factory, in Szeged, Hungary, is about a year behind its original schedule. Executive VP Stella Li said at the Paris Motor Show earlier this month that BYD was preparing to start mass production there in the fourth quarter. [...] Li has spent the past five months setting out where",
+   "published": "Mon, 26 Oct 2026 09:07:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese carmakers gear up European production to sidestep tariffs, import quota | South China Morning Post",
+   "url": "https://www.scmp.com/business/china-evs/article/3371460/chinese-carmakers-gear-european-production-sidestep-tariffs-import-quota",
+   "snippet": "Chinese carmakers, facing a European Union import quota targeting their hybrid electric vehicles (EVs), are gearing up for more local production to reinforce their go-global drive.\n\nThey plan to either splash out billions of yuan to set up their own factories or tap international marques’ idle plants to build their vehicles, looking to sustain a sales boom in one of the world’s major automotive ma",
+   "published": "Tue, 20 Oct 2026 08:00:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Cannot Remain the World’s Factory. What Comes Next?",
+   "url": "https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy",
+   "snippet": "Such a shift is already under way. In Brazil, BYD is moving from importing cars to manufacturing them locally and developing local suppliers. In Hungary, it is pairing its first European passenger-car factory with a research and development center that will work with Hungarian universities and companies.\n\nAdvertisement [...] China’s manufacturing dominance is generating resistance. And not only in",
+   "published": "Fri, 23 Oct 2026 10:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Volkswagen considers using Chinese software for Europe, report says | Reuters",
+   "url": "https://www.reuters.com/business/autos-transportation/volkswagen-considers-using-chinese-software-europe-report-says-2026-10-26",
+   "snippet": "The company has so far kept software separate, using the architecture co-developed with Xpeng for ​the Chinese market ​while developing ⁠a separate technology for the Western world with Rivian, in a $5.8 billion ​investment at the heart of CEO Oliver ​Blume's ⁠software strategy. [...] Volkswagen's 'China Electronic ​Architecture', a system developed for Chinese models ​in cooperation with local EV",
+   "published": "Mon, 26 Oct 2026 16:45:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Leapmotor begins European EV output, with Stellantis help - Automotive News",
+   "url": "https://www.autonews.com/stellantis/an-stellantis-leapmotor-europe-production-starts-1020",
+   "snippet": "Automotive News, a Crain Family brand\nAutomotive News, a Crain Family brand\n\n# Leapmotor becomes 1st China automaker to build EVs and batteries in Europe, thanks to Stellantis assist\n\nAdd as a preferred source on Google\nThe first Leapmotor model assembled at Stellantis’ Zaragora plant in Spain is the B10, an electric compact crossover.\nYJ\n\n## Featured Stories [...] The Volkswagen Group brand, subj",
+   "published": "Tue, 20 Oct 2026 09:59:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Cheap Chinese antibiotics threaten Europe’s last major penicillin plant",
+   "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/how-cheap-chinese-antibiotics-threaten-europes-last-major-penicillin-plant-2026-10-21",
+   "snippet": "Tucked away in the green foothills of the Austrian Alps, the last fully integrated European penicillin plant faces an uncertain future in the shadow of",
+   "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/36f60d90-a6f8-4cc4-9d9a-cb2301b3cff7?syn-25a6b1a6=1",
+   "snippet": "## Top sections\n\n   Home\n   WorldShow more World \n       Middle East war\n       Global Economy\n       UK\n       US\n       China\n       Africa\n       Asia Pacific\n       Emerging Markets\n       Europe\n       War in Ukraine\n       Americas\n       Middle East & North Africa\n\n   USShow more US \n       US Economy\n       US Companies\n       US Politics & Policy\n       US Midterm Elections [...] MenuSear",
+   "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

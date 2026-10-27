@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China Taps Myanmar’s Rare Earth Surge, Coffee Sell-Off, and More",
+   "url": "https://www.irrawaddy.com/news/china-briefing/china-taps-myanmars-rare-earth-surge-coffee-sell-off-and-more.html",
+   "snippet": "The Seventh Myanmar–China Think Tank Forum kicked off in Mangshi, Yunnan Province on Wednesday, with agricultural cooperation placed firmly at the center of discussions. Launched in 2017, the annual forum takes a different theme each year, but its underlying focus has consistently been the now stalled China–Myanmar Economic Corridor, a project designed to give Beijing direct access to the Indian O",
+   "published": "Fri, 23 Oct 2026 12:13:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia-Pacific Community: Myanmar students explore Chinese culture through language training program-Xinhua",
+   "url": "https://english.news.cn/asiapacific/20261025/70d4a231915a427eb22154f708e3099b/c.html",
+   "snippet": "Students perform during the launch ceremony of a new batch of Chinese-language classes under the Kyaukphyu Anargat (future) Chinese Language Training Project at the China Cultural Center in Yangon, Myanmar, Oct. 24, 2026. (Xinhua/Myo Kyaw Soe) [...] People take part in Chinese cultural activities during the launch ceremony of a new batch of Chinese-language classes under the Kyaukphyu Anargat (fut",
+   "published": "Sun, 25 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US adds wrongful detention warning to China travel advisory",
+   "url": "https://www.voanews.com/a/us-adds-wrongful-detention-warning-to-china-travel-advisory/8213783.html",
+   "snippet": "The State Department has formally designated two U.S. citizens detained in China as wrongfully detained: Chinese American seismologist Chen Youlin and Myanmar-born American scholar Min Zin.\n\nChen had worked with Chinese researchers on a U.S. government-funded public research project examining seismic signals from underground nuclear tests in North Korea. [...] Min Zin, who studies Myanmar politics",
+   "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China pulls out of $392M Colombo port project",
+   "url": "https://organiser.org/2026/10/20/418659/world/china-exits-key-sri-lankan-port-project-abandons-392-million-deal",
+   "snippet": "US Congress appeal to its mission in UN to resist Myanmar junta representatives, while Trump administration hold talks with junta rule\n\n### US Opposes UN Bid of Myanmar Junta: Flags democracy, civilian safety, China-Iran nexus; Trump govt talks with military\n\nLoad More\n\n### Latest News\n\nElection Commission defends SIR decisions before Supreme Court. (AI-generated image)\n\n### ‘CEC acted Alone?’ Ele",
+   "published": "Tue, 20 Oct 2026 16:30:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Myanmar War Crimes Survivors Look to Denmark for Justice – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/myanmar-war-crimes-survivors-look-to-denmark-for-justice",
+   "snippet": "I run the Myanmar Accountability Project, which supports cases against the junta in Southeast Asia and Europe. I believe the basis for a Danish case is strong.\n\nThe Danish government has said so itself. In a statement to the U.N. on September 30, 2025, Denmark said, as a matter of public record, that Myanmar suffers from a lack of accountability and continued impunity. This complaint invites Denma",
+   "published": "Mon, 26 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Afghanistan’s Wakhan Transit Road Is a Long Shot to Connect with China – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/afghanistans-wakhan-transit-road-is-a-long-shot-to-connect-with-china",
+   "snippet": "##### Politics\n\n#### After 8 Months in Power, How Much Has the BNP Changed Bangladesh?\n\n##### Society\n\n#### ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge\n\n##### Diplomacy\n\n#### China’s Advance in the Bahamas\n\n##### Security\n\n#### Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula\n\n##### Diplomacy\n\n#### Wolf Warriors in Sheep’s Clothin",
+   "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India’s answer to China’s mega dam faces resistance in Siang valley | Guwahati News - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/city/guwahati/indias-answer-to-chinas-mega-dam-faces-resistance-in-siang-valley/articleshow/135176106.cms",
+   "snippet": "Prabin Kalita is a journalist at The Times of India and is currently the Chief of Bureau (northeast). He has been reporting in mainstream Indian national media since 2001. He has been a field journalist reporting gamut of issues from India’s northeastern region and major developments in neighbouring countries like Myanmar, China, Bhutan and Bangladesh concerning India and northeastern region. He h",
+   "published": "Sun, 25 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Immigration and Population: Implementation of Lamin Project in Lewe",
+   "url": "https://www.myanmaritv.com/news/immigration-and-population-implementation-lamin-project-lewe",
+   "snippet": "The Ministry of Immigration and Population is implementing the Lamin Project to issue National Registration Cards (NRCs) and Unique Identification (UID)",
+   "published": "Sat, 24 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "mm_wide",
  "_query": "Myanmar China project",
  "_domains": [],
