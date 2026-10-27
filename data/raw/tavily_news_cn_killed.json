@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "ICE failed to monitor detainee at risk of suicide who later killed himself - The Washington Post",
-   "url": "https://www.washingtonpost.com/immigration/2026/10/24/ice-failed-monitor-detainee-with-suicide-risk-who-later-killed-himself/",
-   "snippet": "# ICE failed to monitor detainee at risk of suicide who later killed himself. Internal reviews of the death of Chaofeng Ge found multiple policy violations and missteps by staff at an immigration detention center run by the Geo Group. Yanfeng Ge holds a photo of his brother Chaofeng Ge, a Queens resident who was found dead last year at a U.S. Immigration and Customs Enforcement facility in Pennsyl",
-   "published": "Sat, 24 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Authorities extradite Chinese national for alleged $37M investment scam - CyberScoop",
-   "url": "https://cyberscoop.com/chinese-national-extradited-investment-scam/",
-   "snippet": "Zheng Zhao and his co-conspirators allegedly deceived 174 U.S. residents into sending funds to a globally coordinated fake investment operation with ties to Cambodia. A 44-year-old Chinese national was extradited to the United States and arraigned in federal court for his alleged involvement in a sweeping investment scam network that tricked at least 174 U.S. residents out of nearly $37 million, t",
-   "published": "Mon, 26 Oct 2026 17:33:19 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "World’s second-largest economy boosts trade with Africa’s largest economy to $15 billion as South Africa grows wary of U.S. ties despite 125,000 jobs at stake - Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/worlds-second-largest-economy-boosts-trade-with-africas-largest-economy-by-24-as/q8q792y",
-   "snippet": "* Bilateral trade between China and South Africa increased by nearly 24% year-on-year, reaching almost $15 billion, thanks to Beijing's zero-tariff policy for African exports. * South African exports to China rose by almost 25% to $5.3 billion, with agricultural shipments up over 35%, while imports from China grew by 23% to $9.47 billion. * China's Ambassador Wu Peng highlighted the positive impac",
-   "published": "Mon, 26 Oct 2026 07:12:20 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo - AP News",
-   "url": "https://apnews.com/article/congo-ebola-b739277681b530aef772cf66be7e41f0",
-   "snippet": "# Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo. BUTEMBO, Congo (AP) — A nurse was killed and a health worker severely injured after being attacked while responding to an Ebola alert in Congo, according to the World Health Organization. It was the latest in a series of attacks on health workers and responders that authorities say is hampering efforts",
-   "published": "Mon, 26 Oct 2026 00:01:10 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case - Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case",
-   "snippet": "*The attack in eastern DR Congo is the latest on health workers and responders to the deadly Ebola outbreak.*. A nurse has been killed and another health worker severely injured after they were attacked while responding to an Ebola alert in the Democratic Republic of the Congo (DRC), according to the World Health Organization. It was the latest in a series of attacks on health workers and responde",
-   "published": "Mon, 26 Oct 2026 04:21:26 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Kodal Minerals eyes lithium expansion across West Africa - Semafor",
-   "url": "https://www.semafor.com/article/10/26/2026/kodal-minerals-eyes-lithium-expansion-across-west-africa",
-   "snippet": "Intelligence for the New World Economy. In your inbox, 3x per week. # Kodal Minerals eyes lithium expansion. Oct 26, 2026, 9:29am EDT. Kodal Minerals plans to expand its lithium business across West Africa, betting the gold-rich region can become a major supplier of the battery metal, Reuters reported. The London-listed miner began producing lithium last year in Mali, in a joint venture with Chine",
-   "published": "Mon, 26 Oct 2026 13:29:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ebola outbreak: Uganda imposes 21-day quarantine on citizens returning from DR Congo - BBC",
-   "url": "https://www.bbc.com/news/articles/crx2dyd24188o",
-   "snippet": "Ugandans returning from neighbouring Democratic Republic of Congo will be quarantined for 21 days, the health ministry has said, as the country tightens restrictions to contain the spread of Ebola virus. More than 4,800 people have died in DR Congo since May - the country's deadliest outbreak of the disease - and has since spread to several other countries. Uganda's restrictions follow questions a",
-   "published": "Mon, 26 Oct 2026 08:16:56 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Uganda tightens Ebola border controls and requires returnees from Congo to pay for quarantine - AP News",
-   "url": "https://apnews.com/article/uganda-ebola-quarantine-congo-border-controls-outbreak-86561d00f73410febe41e44041105a86",
-   "snippet": "# Uganda tightens Ebola border controls and requires returnees from Congo to pay for quarantine. KAMPALA, Uganda (AP) — Uganda is reinforcing border controls to stop the spread of the deadly Ebola virus and now requires citizens returning from neighboring Congo to spend 21 days in quarantine at their own expense, the Health Ministry said Sunday, as investigators examine how a woman who traveled fr",
-   "published": "Sun, 25 Oct 2026 17:44:36 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

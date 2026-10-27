@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Lessons for the Philippines: AI content surge bypassed Brazil’s election rules — report",
-   "url": "https://www.rappler.com/technology/lessons-philippines-ai-content-surge-bypassed-brazil-election-rules-report/",
-   "content": "As the Philippines moves closer to the 2028 elections, Brazil’s 2026 presidential race gives a wake-up call: electoral rules alone cannot stop the surge of AI–generated political content.",
-   "published_date": "Tue, 27 Oct 2026 07:56:47 +0800",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

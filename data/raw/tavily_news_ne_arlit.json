@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Mine d'uranium d'Imouraren — Wikipédia",
-   "url": "https://fr.wikipedia.org/wiki/Mine_d%27uranium_d%27Imouraren",
-   "snippet": "La mine d'uranium d'Imouraren (ⵉⵎⵔⴰⵔⵏ en caractères tifinagh) est un gisement d'uranium à faible teneur que la compagnie Orano a eu le projet d'exploiter avec une mine à ciel ouvert, qui se situe entre le Sahel africain et le désert du Sahara, à l'ouest du massif de l'Aïr, à 160 km au nord d’Agadez et à 80 km au sud d’Arlit, au Niger.\n\n## Description du gisement\n\n[modifier | modifier le code] [...",
-   "published": "Tue, 20 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria is set to send army units to Niger to safegua",
-   "url": "https://www.facebook.com/ArabNews/posts/algeria-is-set-to-send-army-units-to-niger-to-safeguard-its-energy-and-economic-/1556629066502102",
-   "snippet": "Niger has officially cancelled the Arlit uranium concession originally granted to France in 1968, ending over five decades of French-controlled uranium",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "For five decades, Niger's uranium helped power France ...",
-   "url": "https://www.facebook.com/the.merc.alkebulan/posts/for-five-decades-nigers-uranium-helped-power-france-while-niger-remained-among-t/1069127232770929",
-   "snippet": "Niger has cancelled the historic Arlit uranium concession that traces back to an agreement granted in 1968. That is not just another mining story.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/De2Cz8Om8Je",
-   "snippet": "Africa has the resources. The question is who controls them.  \n  \nFrench plants ran on Nigerien uranium for more than 50 years. France drew up to 15% of its nuclear fuel from Niger, and about 70% of French electricity is nuclear.  \n  \nAt the SOMAIR mine in Arlit, Orano held 63.4% and Niger’s state company 36.6%. Orano operated it. Niger’s government says Orano took 86.3% of production from 1971 to",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "France out, America back? U.S. troops have left Niger, yet ...",
-   "url": "https://www.facebook.com/elhamzamisbahu/posts/france-out-america-back-us-troops-have-left-niger-yet-washington-has-approved-up/29283987807873073",
-   "snippet": "* Niger Just Took Back Its Uranium — For Good* For 58 years, the land around Arlit fed France's nuclear reactors. The uranium mined there powered homes,",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Kazakhstan Mines Uranium Without Digging — Why Niger Can’t",
-   "url": "https://www.youtube.com/watch?v=o4_mHYHiG5g",
-   "snippet": "How uranium forms in the universe and ends up in Earth's crust.\nWhy Kazakhstan became the world's leading uranium producer.\nHow in-situ leaching extracts uranium without conventional open pits or underground shafts.\nThe Soviet nuclear legacy of Semipalatinsk and Kazakhstan's decision to give up its inherited nuclear weapons.\nHow Niger's uranium industry developed around Arlit and its historical li",
-   "published": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "L'uranium du pays est à nous",
-   "url": "https://www.facebook.com/NIGERmonpays/posts/luranium-du-pays-est-%C3%A0-nous/1139678735241026",
-   "snippet": "Pendant plus de 50 ans, la France, via Orano (anciennement Areva), achetait l'uranium nigérien à un prix ridiculement bas : 0,88 € le kilo, alors que le prix",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "World map | The World's Largest Uranium Heart And Sahara's Biggest Country - This Is NIGER | Facebook",
-   "url": "https://www.facebook.com/groups/1675197536062309/posts/4493353984246636",
-   "snippet": "Look at this map. Big - 1,267,000 sq km - largest country in West Africa - bigger than Texas and California combined - 80% Sahara. Teal blue northwest Air Mountains, terracotta orange south Sahel where people live - Niamey capital southwest on Niger River.\n\nThis is NIGER - not Nigeria - 1,267,000 sq km - 27 million people - named after Niger River - Niger means river - world's 7th largest uranium ",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/reel/DeubavfoIOd",
-   "snippet": "For five decades, Niger’s uranium helped power France while Niger remained among the world’s poorest countries.  \n  \nNow Niger has nationalised the SOMAÏR mine, but an international arbitration order has restricted its ability to sell uranium already extracted. Meanwhile, US funding is backing companies on both sides of the changing uranium industry.  \n  \nThe players change. The question of who be",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ne_arlit",
  "_query": "Arlit uranium",
  "_domains": [],

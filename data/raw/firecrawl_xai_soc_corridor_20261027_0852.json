@@ -1,0 +1,106 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/microcerotis/status/2114008014126752167",
+     "title": "\"Abbiamo già firmato l'accordo per il gasdotto Africa occidentale-Marocco, non sorprendetevi quando il gas arriverà da voi\", ha dichiarato i",
+     "description": "\"Abbiamo già firmato l'accordo per il gasdotto Africa occidentale-Marocco, non sorprendetevi quando il gas arriverà da voi\", ha dichiarato il presidente di Ecowas, Julius Maada Bio.\nhttps://africa.businessinsider.com/local/markets/ecowas-approves-historic-nigeria-morocco-dollar25-billion-energy-gas-pipeline-to/313ljtq\nGasdotto costiero di oltre 6000 chilometri\nhttps://www.infocanarie.com/rubrica-strategica/le-isole-canarie-e-il-mega-gasdotto-marocco-nigeria",
+     "snippet": "\"Abbiamo già firmato l'accordo per il gasdotto Africa occidentale-Marocco, non sorprendetevi quando il gas arriverà da voi\", ha dichiarato il presidente di Ecowas, Julius Maada Bio.\nhttps://africa.businessinsider.com/local/markets/ecowas-approves-historic-nigeria-morocco-dollar25-billion-energy-gas-pipeline-to/313ljtq\nGasdotto costiero di oltre 6000 chilometri\nhttps://www.infocanarie.com/rubrica-strategica/le-isole-canarie-e-il-mega-gasdotto-marocco-nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Franca",
+     "handle": "@microcerotis"
+    },
+    {
+     "url": "https://x.com/microcerotis/status/2114004366747148379",
+     "title": "il Futuro passa per l'Africa Unita luglio 2026 Dai leader della Comunità economica degli Stati dell'Africa occidentale è stato firmato l'acc",
+     "description": "il Futuro passa per l'Africa Unita\nluglio 2026 Dai leader della Comunità economica degli Stati dell'Africa occidentale è stato firmato l'accordo per la costruzione del gasdotto Nigeria-Marocco\nhttps://www.ansa.it/ansamed/it/notizie/rubriche/nazioni/2026/07/20/firmato-laccordo-per-la-costruzione-del-gasdotto-nigeria-marocco_e09f841f-451c-43ed-8c4f-547fa43458d9.html",
+     "snippet": "il Futuro passa per l'Africa Unita\nluglio 2026 Dai leader della Comunità economica degli Stati dell'Africa occidentale è stato firmato l'accordo per la costruzione del gasdotto Nigeria-Marocco\nhttps://www.ansa.it/ansamed/it/notizie/rubriche/nazioni/2026/07/20/firmato-laccordo-per-la-costruzione-del-gasdotto-nigeria-marocco_e09f841f-451c-43ed-8c4f-547fa43458d9.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Franca",
+     "handle": "@microcerotis"
+    },
+    {
+     "url": "https://x.com/microcerotis/status/2114013537722884596",
+     "title": "Uno dei principali obiettivi strategici ed geopolitici del gasdotto, fortemente caldeggiato dai paesi africani e dai partner occidentali è q",
+     "description": "Uno dei principali obiettivi strategici ed geopolitici del gasdotto, fortemente caldeggiato dai paesi africani e dai partner occidentali è quello di ridurre la dipendenza energetica dell'Europa dal gas russo, offrendo all'Ue una rotta di approvvigionamento nell'Africa occidentale",
+     "snippet": "Uno dei principali obiettivi strategici ed geopolitici del gasdotto, fortemente caldeggiato dai paesi africani e dai partner occidentali è quello di ridurre la dipendenza energetica dell'Europa dal gas russo, offrendo all'Ue una rotta di approvvigionamento nell'Africa occidentale",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Franca",
+     "handle": "@microcerotis"
+    },
+    {
+     "url": "https://x.com/nakla_dz/status/2114353130838130711",
+     "title": "ما سر تكالب البابوني البوسبيري 🇲🇦🦧على قرار مجلس الأمة الجزائري فبالنسبة للجزائر تعتبر منطقة الساحل امتداداً مباشر أمنها القومي و أي ترتيبات",
+     "description": "ما سر تكالب البابوني البوسبيري 🇲🇦🦧على قرار مجلس الأمة الجزائري\n\n فبالنسبة للجزائر تعتبر منطقة الساحل امتداداً مباشر أمنها القومي و أي ترتيبات أمنية أو سياسية جديدة فيها تستدعي حضوراً جزائرياً فاعلاً لمنع الاختراق أو فرض واقع معادٍ على الحدود الجنوبية\n\n​في المقابل شكلت \"المبادرة الملكية الأطلسية\" التي طرحها المغرب لربط دول الساحل المغلقة (مالي، النيجر، بوركينا فاسو، وتشاد) بالمحيط الأطلسي محاولة لإعادة هيكلة المحاور الاقتصادية في المنطقة عبر تقديم بدائل لوجستية عبر الموانئ الواقعة في الصحراء الغربية المحتلة مدعومة باستثمارات الإمارات\nو رغم الطموحات المعلنة لهذه المبادرة إلا أن تطبيقها على أرض الواقع يصطدم بعقبات جغرافية و أمنية معقدة و التواجد العسكري و الأمني الجزائري المعزز بالعمق الجغرافي والشراكات التنموية في النيجر يُغير حسابات القوة في المنطقة حيث يجعل الانتقال اللوجستي أو تنفيذ مشاريع عابرة للحدود أمراً مشروطاً بالتوافق مع الترتيبات الأمنية التي تقودها الجزائر\nكما يمتد هذا التأثير إلى ملفات الطاقة الكبرى و على رأسها خط أنبوب الغاز عابر الصحراء (النيجيري-الجزائري) الذي يستند إلى واقعية جغرافية وبنية تحتية مكتملة جزئياً مقارنة بالمشاريع المنافسة\nالخلاصة ببساطة انبوب غاز نيجريا المغرب عبر 14 دولة مقبور + المبادرة اطلسية ستقبر....هنا الجزائر 🇩🇿",
+     "snippet": "ما سر تكالب البابوني البوسبيري 🇲🇦🦧على قرار مجلس الأمة الجزائري\n\n فبالنسبة للجزائر تعتبر منطقة الساحل امتداداً مباشر أمنها القومي و أي ترتيبات أمنية أو سياسية جديدة فيها تستدعي حضوراً جزائرياً فاعلاً لمنع الاختراق أو فرض واقع معادٍ على الحدود الجنوبية\n\n​في المقابل شكلت \"المبادرة الملكية الأطلسية\" التي طرحها المغرب لربط دول الساحل المغلقة (مالي، النيجر، بوركينا فاسو، وتشاد) بالمحيط الأطلسي محاولة لإعادة هيكلة المحاور الاقتصادية في المنطقة عبر تقديم بدائل لوجستية عبر الموانئ الواقعة في الصحراء الغربية المحتلة مدعومة باستثمارات الإمارات\nو رغم الطموحات المعلنة لهذه المبادرة إلا أن تطبيقها على أرض الواقع يصطدم بعقبات جغرافية و أمنية معقدة و التواجد العسكري و الأمني الجزائري المعزز بالعمق الجغرافي والشراكات التنموية في النيجر يُغير حسابات القوة في المنطقة حيث يجعل الانتقال اللوجستي أو تنفيذ مشاريع عابرة للحدود أمراً مشروطاً بالتوافق مع الترتيبات الأمنية التي تقودها الجزائر\nكما يمتد هذا التأثير إلى ملفات الطاقة الكبرى و على رأسها خط أنبوب الغاز عابر الصحراء (النيجيري-الجزائري) الذي يستند إلى واقعية جغرافية وبنية تحتية مكتملة جزئياً مقارنة بالمشاريع المنافسة\nالخلاصة ببساطة انبوب غاز نيجريا المغرب عبر 14 دولة مقبور + المبادرة اطلسية ستقبر....هنا الجزائر 🇩🇿",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nakla Dz",
+     "handle": "@nakla_dz"
+    },
+    {
+     "url": "https://x.com/chaoui4805/status/2114469881760374805",
+     "title": "3/ Rivalry: Morocco pushes a rival Atlantic pipeline for Nigerian gas.",
+     "description": "3/ Rivalry: Morocco pushes a rival Atlantic pipeline for Nigerian gas. Securing Niger signals Algeria's route is protected — and that Algiers, not Rabat, is the Sahel's reliable partner. A senator told AFP it also sends a message to Morocco and the UAE.",
+     "snippet": "3/ Rivalry: Morocco pushes a rival Atlantic pipeline for Nigerian gas. Securing Niger signals Algeria's route is protected — and that Algiers, not Rabat, is the Sahel's reliable partner. A senator told AFP it also sends a message to Morocco and the UAE.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ⵀⵓⵙⵉⵏ HoCiNe 🇩🇿",
+     "handle": "@chaoui4805"
+    },
+    {
+     "url": "https://x.com/segadiarrah/status/2114461330178703653",
+     "title": "10/21 Le gazoduc transsaharien s’inscrit aussi dans une compétition de corridors : un autre projet relie le Nigeria au Maroc par l’Atlantiqu",
+     "description": "10/21 \nLe gazoduc transsaharien s’inscrit aussi dans une compétition de corridors : un autre projet relie le Nigeria au Maroc par l’Atlantique. Mais rien ne prouve que le déploiement algérien au Niger soit dirigé contre Rabat.",
+     "snippet": "10/21 \nLe gazoduc transsaharien s’inscrit aussi dans une compétition de corridors : un autre projet relie le Nigeria au Maroc par l’Atlantique. Mais rien ne prouve que le déploiement algérien au Niger soit dirigé contre Rabat.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Séga DIARRAH",
+     "handle": "@segadiarrah"
+    },
+    {
+     "url": "https://x.com/Foxbat_alexi_2/status/2114627625544995133",
+     "title": "En résumé, simplement : le gazoduc du Nigeria vers le Maroc via 14 pays, est enterré + l'initiative atlantique va l'être....aussi .",
+     "description": "En résumé, simplement : le gazoduc  du Nigeria vers le Maroc via 14 pays, est enterré + l'initiative atlantique va l'être....aussi .  Voici l'Algérie",
+     "snippet": "En résumé, simplement : le gazoduc  du Nigeria vers le Maroc via 14 pays, est enterré + l'initiative atlantique va l'être....aussi .  Voici l'Algérie",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Foxbat 💥",
+     "handle": "@Foxbat_alexi_2"
+    },
+    {
+     "url": "https://x.com/Foxbat_alexi_2/status/2114755110391742616",
+     "title": "Voir l'axe Paris-Rabat faire des AVC simultanés parce qu'Alger et Niamey gèrent leurs affaires entre voisins, c'est mon nouveau divertisseme",
+     "description": "Voir l'axe Paris-Rabat faire des AVC simultanés parce qu'Alger et Niamey gèrent leurs affaires entre voisins, c'est mon nouveau divertissement préféré. Alerte disparition ! 🚨 Quelqu'un a des nouvelles du fameux gazoduc Nigeria-Maroc à 25 milliards ?",
+     "snippet": "Voir l'axe Paris-Rabat faire des AVC simultanés parce qu'Alger et Niamey gèrent leurs affaires entre voisins, c'est mon nouveau divertissement préféré. Alerte disparition ! 🚨 Quelqu'un a des nouvelles du fameux gazoduc Nigeria-Maroc à 25 milliards ?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Foxbat 💥",
+     "handle": "@Foxbat_alexi_2"
+    },
+    {
+     "url": "https://x.com/T100046305/status/2114605197620023708",
+     "title": "Ah bon ? Je croyais que vous nous aviez dit que la zone était sécurisée et que le gazoduc Nigéria-Algérie pouvait passer par là au lieu de l",
+     "description": "Ah bon ? Je croyais que vous nous aviez dit que la zone était sécurisée et que le gazoduc Nigéria-Algérie pouvait passer par là au lieu de l'itinéraire Nigéria-Maroc. On vous avait pourtant dit que ce n'était pas sécurisé de votre côté.Mais tu as ri et dit que nous mentions.",
+     "snippet": "Ah bon ? Je croyais que vous nous aviez dit que la zone était sécurisée et que le gazoduc Nigéria-Algérie pouvait passer par là au lieu de l'itinéraire Nigéria-Maroc. On vous avait pourtant dit que ce n'était pas sécurisé de votre côté.Mais tu as ri et dit que nous mentions.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "T 1000",
+     "handle": "@T100046305"
+    }
+   ]
+  }
+ ]
+}

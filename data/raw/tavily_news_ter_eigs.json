@@ -1,14 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Denounce jihadist massacre with 48 civilians in Mali | Demócrata",
-   "url": "https://www.democrata.es/en/international/a-berber-organization-denounces-almost-50-civilians-killed-in-a-jihadist-massacre-in-eastern-mali",
-   "snippet": "A civil entity representing Berber tribes from eastern Mali has reported that at least 48 civilians were killed last weekend in a massacre attributed to the branch of the jihadist organization Islamic State in the Sahel, known as Islamic State in the Greater Sahara (EIGS). [...] Follow us\n\n Current events\n General Election\n Consejo de Ministros\n Europe\n Polls\n DemócrataPro\n\n Fren\n\n Latest news\n Ag",
-   "published": "Tue, 20 Oct 2026 16:44:38 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_eigs",
  "_query": "EIGS Islamic State Sahel",
  "_domains": [],

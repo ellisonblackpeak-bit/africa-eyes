@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Asia-Pacific Community: Myanmar students explore Chinese culture through language training program-Xinhua",
-   "url": "https://english.news.cn/asiapacific/20261025/70d4a231915a427eb22154f708e3099b/c.html",
-   "snippet": "Liu Qing, deputy general manager of CITIC Myanmar, said the project began in 2019, reflecting the company's commitment to supporting local youth as it worked with Myanmar partners to advance the Kyaukphyu project. [...] Since 2024, the company has continued to offer Chinese-language training in Yangon in collaboration with its partners, guided by a vision of supporting Kyaukphyu's future and regio",
-   "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Taps Myanmar’s Rare Earth Surge, Coffee Sell-Off, and More",
-   "url": "https://www.irrawaddy.com/news/china-briefing/china-taps-myanmars-rare-earth-surge-coffee-sell-off-and-more.html",
-   "snippet": "MCA chairman Myo Aye told Xinhua that cooperation with Yunnan has deepened since the military takeover, with new MoUs locking in China as the top destination for Myanmar’s 3,000–4,000 tonnes of annual exports—tumbling from pre-coup levels of more than 5,000 tonnes. He said the association is looking to attract Chinese investment in value-added processing facilities, roasting plants and supply-chai",
-   "published": "Fri, 23 Oct 2026 12:13:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Sihasak asks Chinese Embassy to keep travel warnings proportionate",
-   "url": "https://www.nationthailand.com/news/tourism/40072565",
-   "snippet": "The Chinese Embassy cautioned against investment projects and business partnerships offering unusually high returns, particularly opportunities presented as guaranteed to make money without any risk of loss. Prospective participants should check the authenticity of the project, the credentials of business partners and the details of financial transactions. [...] Applicants should verify the recrui",
-   "published": "Wed, 21 Oct 2026 04:54:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China pulls out of $392M Colombo port project",
-   "url": "https://organiser.org/2026/10/20/418659/world/china-exits-key-sri-lankan-port-project-abandons-392-million-deal",
-   "snippet": "US Congress appeal to its mission in UN to resist Myanmar junta representatives, while Trump administration hold talks with junta rule\n\n### US Opposes UN Bid of Myanmar Junta: Flags democracy, civilian safety, China-Iran nexus; Trump govt talks with military\n\nLoad More\n\n### Latest News\n\nElection Commission defends SIR decisions before Supreme Court. (AI-generated image)\n\n### ‘CEC acted Alone?’ Ele",
-   "published": "Tue, 20 Oct 2026 16:30:03 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "ASEAN and BRICS: economy, logistics and finance by 2035 | TV BRICS, 20.10.26",
-   "url": "https://tvbrics.com/en/news/asean-and-brics-where-interests-of-two-integration-groups-converge",
-   "snippet": "The economic convergence between ASEAN and the BRICS countries is already taking shape in specific supply chains, investment projects and transport routes. Chinese companies are expanding production in Southeast Asia, India is increasing its presence in the pharmaceutical and technology services sectors, the Gulf states are investing in infrastructure, whilst the resource base of Russia and Brazil",
-   "published": "Tue, 20 Oct 2026 22:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Next Chapter of Africa-China Climate Cooperation – The Diplomat",
-   "url": "https://thediplomat.com/2026/10/the-next-chapter-of-africa-china-climate-cooperation",
-   "snippet": "The second priority could be to continue to connect individual projects to the bigger opportunity of green industrialization. Investments in renewable energy, critical minerals, EVs, batteries, and solar PV are beginning to form the building blocks of new green industrial value chains across African countries. More energy projects need to be directed to support local production, technology transfe",
-   "published": "Sat, 24 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China urges US to halt proposed expansion of outbound investment curbs - Nikkei Asia",
-   "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs",
-   "snippet": "- US-China tensions#### US congressman demands Starbucks close first stores in China's Xinjiang\n\n  US congressman demands Starbucks close first stores in China's Xinjiang\n\n- US-China tensions#### China pushes back against US on Iran and Cuba in UN speech\n\n  China pushes back against US on Iran and Cuba in UN speech\n\n## Sponsored Content\n\n### About Sponsored ContentThis content was commissioned by ",
-   "published": "Sat, 24 Oct 2026 23:16:23 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Embassy warns Chinese nationals of job scams and abductions in Thailand",
-   "url": "https://www.khmertimeskh.com/502042819/embassy-warns-chinese-nationals-of-job-scams-and-abductions-in-thailand",
-   "snippet": "The Chinese Embassy in Thailand has warned Chinese citizens of of a rise in people going missing after entering Thailand, being allegedly held against their",
-   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_mm",
  "_query": "Chinese company Myanmar investment project",
  "_domains": [],

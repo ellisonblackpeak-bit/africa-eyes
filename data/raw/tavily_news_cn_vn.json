@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Vietnam and Bangladesh are competing to benefit ...",
-   "url": "https://www.instagram.com/p/De9YEi6FOQ2",
-   "snippet": "A Chinese company is investing $100 million to establish a beverage can manufacturing factory in Bangladesh, marking a significant step toward strengthening",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/reel/DewNi20tcNL",
-   "snippet": "Everyone assumes the world’s factories moved to Vietnam for cheap labour. That’s not the real reason.  \n  \nIt’s called China Plus One. And the reason manufacturers keep choosing Vietnam over somewhere cheaper is the ecosystem, proximity to China’s supply chain, trade deals, ports, industrial parks. Samsung, Intel and Foxconn are already there at scale. US$15.2 billion in FDI landed in Q1 2026 alon",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Bangkok Post - Why more Chinese firms have Thailand in their expansion plans",
-   "url": "https://www.bangkokpost.com/business/investment/3340960/poster-child-why-more-chinese-firms-have-thailand-in-their-expansion-plans",
-   "snippet": "From Vietnam's perspective, \"manufacturing saturation\" and a perception change - aggravated by US trade scrutiny, including punitive tariffs of 40% on Chinese goods found to have been diverted through the country - mean it may have run its course as a popular destination, the scholar added.\n\n### Thailand in, Vietnam out?\n\nIn 2025, Thailand attracted US$5.33 billion in Chinese investment, compared ",
-   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US tariff war is fueling Vietnam's coal boom",
-   "url": "https://www.reuters.com/commentary/reuters-open-interest/us-tariff-war-is-fueling-vietnams-coal-boom-2026-10-23",
-   "snippet": "A years-long trade war between the United States and China has helped shift manufacturing investment, factory output and export production into Vietnam",
-   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Vietnam is still viewed as a prime location for Chinese ...",
-   "url": "https://www.facebook.com/scmp/posts/vietnam-is-still-viewed-as-a-prime-location-for-chinese-companies-looking-to-exp/1523671606475553",
-   "snippet": "Vietnam is still viewed as a prime location for Chinese companies looking to expand overseas and strengthen trade ties with Southeast Asia.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "In Focus | ‘Poster child’: why more Chinese firms have Thailand in their expansion plans | South China Morning Post",
-   "url": "https://www.scmp.com/economy/global-economy/article/3371529/poster-child-why-more-chinese-firms-have-thailand-their-expansion-plans",
-   "snippet": "Advertisement\n\nChinese offshore investment\n\nEconomyGlobal Economy\n\n# In Focus‘Poster child’: why more Chinese firms have Thailand in their expansion plans\n\nThe Land of Smiles has become a prime location for Chinese businesses diversifying operations offshore, as Vietnam reaches saturation point\n\n6-MIN READ6-MIN\n\nIllustration: Henry Wong\n\nFrank Chenin Shanghai [...] Vietnam, popular for much of thi",
-   "published": "Tue, 20 Oct 2026 22:00:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "[OC] Vietnam overtook China in U.S. machinery + computer ...",
-   "url": "https://www.reddit.com/r/dataisbeautiful/comments/1xdpsg4/oc_vietnam_overtook_china_in_us_machinery",
-   "snippet": "Chinese companies just moved to Vietnam and Mexico or they outsourced final assembly to those two locations since factory wages are much lower than China.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Vietnamese private conglomerates step up investment in ...",
-   "url": "https://theinvestor.vn/vietnamese-private-conglomerates-step-up-investment-in-education-d20306.html",
-   "snippet": "Several private conglomerates in Vietnam are stepping up investment in education through different approaches. From expanding school networks and developing",
-   "published": "Tue, 27 Oct 2026 04:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "🌏 As global trade patterns shift, supply chains are being ...",
-   "url": "https://www.facebook.com/Maersk/posts/-as-global-trade-patterns-shift-supply-chains-are-being-redesigned-around-greate/1552327270263981",
-   "snippet": "As manufacturing capacity expands beyond China, countries like Vietnam are becoming increasingly important in regional and global supply chains. But relocating",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],
