@@ -1,6 +1,21 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Undas 2026: Cemetery schedules and road advisories in Metro Manila",
+   "url": "https://www.rappler.com/philippines/metro-manila/all-saints-souls-day-undas-cemetery-schedules-road-advisory-2026/",
+   "content": "Here are the things you should know when visiting your departed loved ones in Metro Manila during the 2026 'Undas'",
+   "published_date": "Tue, 27 Oct 2026 18:16:25 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "Philippine peso’s historic slide continues, hitting record low P64.17 per dollar",
+   "url": "https://www.rappler.com/business/philippine-peso-dollar-exchange-rate-record-low-october-27-2026/",
+   "content": "Amid the peso's historic weakness, Bangko Sentral ng Pilipinas Governor Eli Remolona Jr. emphasizes that the central bank will not intervene to defend the peso at a particular exchange rate, unless the depreciation becomes inflationary",
+   "published_date": "Tue, 27 Oct 2026 17:45:06 +0800",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

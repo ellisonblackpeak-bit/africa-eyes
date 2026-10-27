@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Czech SMR environmental impact assessment submitted",
-   "url": "https://www.world-nuclear-news.org/articles/czech-smr-environmental-impact-assessment-submitted",
-   "content": "ČEZ has submitted the Environmental Impact Assessment documentation to the Ministry of the Environment for its Rolls-Royce SMR small modular reactor project in Temelín.",
-   "published_date": "Tue, 13 Oct 2026 10:58:34 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Agreement signed on second Polish nuclear power plant",
    "url": "https://www.world-nuclear-news.org/articles/agreement-signed-on-second-polish-nuclear-power-plant",
    "content": "Poland's Ministry of Energy, Polskie Elektrownie Jądrowe and Polska Grupa Energetyczna have signed an agreement defining the division of tasks and principles of cooperation in preparing the construction of the country's second nuclear power plant.",
@@ -142,13 +135,6 @@
    "score": 0.6
   },
   {
-   "title": "IAEA carries out fresh LTO review mission to Oskarshamn",
-   "url": "https://www.world-nuclear-news.org/articles/iaea-carries-out-fresh-lto-review-mission-to-oskarshamn",
-   "content": "The International Atomic Energy Agency team focused on aspects related to the safe Long Term Operation of Sweden's Oskarshamn 3 nuclear power unit during the visit, which followed a similar mission two years earlier.",
-   "published_date": "Tue, 13 Oct 2026 09:06:19 GMT",
-   "score": 0.6
-  },
-  {
    "title": "NND applies to take over Kjeller nuclear facilities",
    "url": "https://www.world-nuclear-news.org/articles/nnd-applies-to-take-over-kjeller-nuclear-facilities",
    "content": "Norwegian Nuclear Decommissioning has submitted a licence application to the country's nuclear regulator to take over responsibility for the nuclear facilities at Kjeller from the Institute of Energy Engineering ahead of their decommissioning.",
@@ -191,13 +177,6 @@
    "score": 0.6
   },
   {
-   "title": "Agreement aims to support US maritime nuclear",
-   "url": "https://www.world-nuclear-news.org/articles/agreements-and-deals-support-us-maritime-nuclear-developments",
-   "content": "The American Bureau of Shipping and the US Department of Energy have signed a memorandum of understanding to advance modern commercial nuclear technology at sea.",
-   "published_date": "Tue, 13 Oct 2026 10:50:57 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Milestone for Bruce 4 refurbishment",
    "url": "https://www.world-nuclear-news.org/articles/milestone-for-bruce-4-refurbishment",
    "content": "Installation of the unit's 480 calandria tubes was completed faster than at Bruce 3 as the team carrying out the Major Component Replacement project continues to set new records for CANDU refurbishment.",
@@ -209,6 +188,27 @@
    "url": "https://www.world-nuclear-news.org/articles/mhi-delivers-replacement-steam-generators-for-french-reactor",
    "content": "Japan's Mitsubishi Heavy Industries has delivered a further three replacement steam generators to EDF. They are scheduled to be installed in unit 2 of its Cruas nuclear power plant in southeastern France.",
    "published_date": "Thu, 15 Oct 2026 14:18:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "OPG firm joins UK BWRX-300 project",
+   "url": "https://www.world-nuclear-news.org/articles/joint-venture-to-operate-planned-uk-bwrx-300-fleet",
+   "content": "The UK-based project company of European SMR developer and investor SGE, and Origin Nuclear, a subsidiary of Ontario Power Generation, have signed a letter of intent to establish a joint venture for the future operation of a planned fleet of 14 BWRX-300 small modular reactors.",
+   "published_date": "Thu, 22 Oct 2026 12:02:58 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US maritime nuclear firm Bluecore Energy announces uranium purchase",
+   "url": "https://www.world-nuclear-news.org/articles/us-maritime-nuclear-firm-bluecore-energy-announces-uranium-purchase",
+   "content": "California-based Bluecore Energy said its purchase of low-enriched uranium from WMC is one of several areas where it has made \"significant progress\" towards moving its technology from engineering and non-fuelled hardware development toward fuel fabrication, testing, validation and future deployment.",
+   "published_date": "Wed, 14 Oct 2026 08:33:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kairos Power automates fuel pebble inspections",
+   "url": "https://www.world-nuclear-news.org/articles/kairos-power-automates-fuel-pebble-inspections",
+   "content": "A new facility at Kairos Power's Manufacturing Development Campus in Albuquerque, New Mexico, verifies manufacturing specifications and engraves each fuel pebble with a unique code so it can be traced through testing and operation.",
+   "published_date": "Wed, 14 Oct 2026 09:01:29 GMT",
    "score": 0.6
   }
  ],

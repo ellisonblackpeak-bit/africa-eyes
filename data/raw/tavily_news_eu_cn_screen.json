@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Investment screening reshapes rather than shrinks foreign investment | CEPR",
+   "url": "https://cepr.org/voxeu/columns/investment-screening-reshapes-rather-shrinks-foreign-investment",
+   "snippet": "The EU is not alone. Screening foreign investment has been increasingly implemented across advanced economies (OECD 2025). Existing studies show that the introduction of screening and its restrictiveness are associated with exposure to Chinese investment and geopolitical alignment with the US (Bauerle Danzman and Meunier 2023, Bencivelli et al. 2023). Screening is part of a broader shift towards g",
+   "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EPP Group calls for EU action to tackle China's unfair trade practices",
+   "url": "https://www.europeaninterest.eu/epp-group-calls-for-eu-action-to-tackle-chinas-unfair-trade-practices",
+   "snippet": "The EPP Group also emphasises the need to rigorously examine sectors crucial to Europe’s economic security, including advanced technologies and critical infrastructure. Furthermore, the Group calls for improved coordination among Member States on export controls and foreign investment screening.\n\nIn addition, the EPP Group insists on improving European businesses’ access to the Chinese market and ",
+   "published": "Thu, 22 Oct 2026 21:53:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FDI screening reaches EU-wide coverage as cooperation activity hits record high",
+   "url": "https://www.aoshearman.com/en/insights/fdi-screening-reaches-eu-wide-coverage-as-cooperation-activity-hits-record-high",
+   "snippet": "The U.S. remained by far the largest source of ultimate investors, but its share fell to 33% from 40%. The UK fell to 9% (from 11%) and China (including Hong Kong) to 7% (from 9%). The UAE rose to 5% (from 3%). Canada and Japan each rose to 4% (from 3%).\n\n## The new Foreign Investment Screening Regulation [...] Notified investments came from a wider range of jurisdictions. The six main jurisdictio",
+   "published": "Thu, 22 Oct 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Will Washington Regulate Biotech Licensing Like Semiconductors? Tracking BINSA and Treasury’s Next Move | Sterne, Kessler, Goldstein & Fox P.L.L.C. - JDSupra",
+   "url": "https://www.jdsupra.com/legalnews/will-washington-regulate-biotech-4558724",
+   "snippet": "entities, and electoral infrastructure. Biotechnology is not on that list, though member states may add sectors. The regime also screens foreign investment into the EU rather than a European company’s own outward licensing( For now, a European company’s most concrete regulatory exposure on a China-origin deal may run through the American side of the transaction, an asymmetry that is easy to miss i",
+   "published": "Sat, 24 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Foreign subsidy scrutiny in merger review: Is the US back on track? | Global law firm | Norton Rose Fulbright",
+   "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/5fb98f33/foreign-subsidy-scrutiny-in-merger-review-is-the-us-back-on-track",
+   "snippet": "European foreign investment screening is itself undergoing significant reform following the adoption of Regulation (EU) 2026/1386 of 17 June 2026 on the screening of foreign investments in the Union (the New FDI Regulation). As outlined in our “Global rules on foreign direct investment: EU” report in September 2026, the New FDI Regulation makes FDI screening mandatory across the EU, requiring ever",
+   "published": "Thu, 22 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Comments to the European Commission Regarding Its ‘Diversify EU’ Proposal | Testimonies & Filings | Oct 27, 2026 | ITIF",
+   "url": "https://itif.org/publications/2026/10/27/comments-to-the-european-commission-regarding-its-diversify-eu-proposal",
+   "snippet": "ITIF recommends organizing Diversify EU around allied production capacity and a coordinated response to Chinese mercantilism. Drawing on ITIF’s proposed framework for a new class of Strategic Techno-Economic Agreements (STEAs), ITIF recommends stronger rules of origin, development finance for alternative suppliers, joint trade investigations, reciprocal market access, and support for firms’ switch",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Publishes Sixth Annual Report on the Screening of Foreign Direct Investments",
+   "url": "https://research.hktdc.com/en/article/MjQ2MjUwMDM4Mg",
+   "snippet": "On 14 October 2026, the European Commission published its Sixth Annual Report on the screening of foreign direct investments into the Union, accompanied by",
+   "published": "Wed, 21 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chasing China: How should the UK and EU respond to China’s competitive threat?",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/chasing-china-how-should-uk-and-eu-respond-chinas-competitive-threat",
+   "snippet": "Explore how the UK and EU can strengthen their industrial and technological competitiveness in response to China's scale, speed and state-backed investment.",
+   "published": "Mon, 26 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opinion | Europe still has no clear goal on China | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3371543/europe-still-has-no-clear-goal-china",
+   "snippet": "China has built its European policy around this vacuum. Its method rewards patience: apply pressure, wait for Brussels to react, then offer tiny concessions on Beijing’s terms. European leaders present new instruments as proof of control, while Beijing files each one as information on Europe’s pain threshold. China knows Europe’s price better than Brussels does. [...] This month alone, Europe has ",
+   "published": "Thu, 22 Oct 2026 12:30:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe must wake up to the China trade gap",
+   "url": "https://www.eppgroup.eu/newsroom/europe-must-wake-up-to-the-china-trade-gap",
+   "snippet": "Europe must wake up to the China trade gap\n\nYour browser's privacy settings appear to be blocking this content from being displayed. Please review your privacy and tracking protection settings to enable this service. For more information, visit:\n\nFirefox Tracking Protection\n\nMy Country: Select\n\nSelect a country.\n\nSelect your country to follow your local MEPs' news: [...] Austria  Belgium  Bulgaria",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_screen",
  "_query": "EU foreign investment screening China",
  "_domains": [],

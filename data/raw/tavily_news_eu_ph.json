@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EU-Philippines holds second security and defense dialogue",
-   "url": "https://www.manilatimes.net/2026/10/26/expats-diplomats/eu-philippines-holds-second-security-and-defense-dialogue/2453416/amp",
-   "snippet": "The European Union and the Philippines held their second Security and Defense Dialogue on Oct. 8 in Manila.\n\nDuring the dialogue, the EU and the Philippines reaffirmed their shared commitment to strengthening cooperation in multilateral forums to uphold the rules-based international order. [...] The dialogue, along with the EU’s recent announcement of its first-ever European Peace Facility (EPF) a",
-   "published": "Sun, 25 Oct 2026 16:01:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU GIVES PHL EYES AT SEA | Daily Tribune",
-   "url": "https://tribune.net.ph/2026/10/23/eu-gives-phl-eyes-at-sea",
-   "snippet": "The package, approved in July following Manila’s request last year, was discussed again during Philippine-EU security talks this month.\n\nIt marks the EU’s first military assistance package for the Philippines under the European Peace Facility, which supports the defense capabilities of partner countries.\n\nThe assistance comes as Manila struggles to patrol an archipelago of more than 7,600 islands,",
-   "published": "Fri, 23 Oct 2026 16:48:54 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU, Philippines strengthen digital ties with AI Lab launch | Philstar.com",
-   "url": "https://www.philstar.com/business/2026/10/25/2565468/eu-philippines-strengthen-digital-ties-ai-lab-launch",
-   "snippet": "Following the signature in July 2026 by EU High Representative for Foreign Affairs and Security Policy and Vice President of the European Commission Kaja Kallas and Foreign Affairs Secretary Ma. Theresa Lazaro of the Joint Statement elevating EU–Philippines relations to an enhanced partnership and the recently concluded negotiations for a free trade agreement, both sides are deepening cooperation ",
-   "published": "Sun, 25 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables",
-   "url": "https://gcaptain.com/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-undersea-cables",
-   "snippet": "EU Leaders Back Finnish Push for Arctic Icebreaker Fleet\n\nSecurity ### EU Leaders Back Finnish Push for Arctic Icebreaker Fleet\n\nEuropean leaders have backed a stronger role for the European Union in the Arctic, with Finland pushing for a joint icebreaking capability as the region becomes increasingly important for commercial shipping, military mobility and competition with Russia and China.\n\nSept",
-   "published": "Thu, 22 Oct 2026 09:01:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Philippines Eyes Closer Taiwan Ties to Protect Vital Undersea Cables - Modern Diplomacy",
-   "url": "https://moderndiplomacy.eu/2026/10/22/philippines-eyes-closer-taiwan-ties-to-protect-vital-undersea-cables",
-   "snippet": "Global Order\n  + Diplomacy\n  + International Law\n  + Geopolitical Calendar\n Regions\n  + Europe\n  + Middle East & Africa\n  + East Asia\n  + Americas\n  + Eurasia\n  + South Asia\n  + Southeast Asia\n Economy\n  + Economy\n  + Emerging Markets\n Energy\n  + Energy Geopolitics\n  + Oil & Gas\n  + Energy Security\n  + Energy Transition\n Security & Conflict\n  + Defense\n  + Terrorism\n  + Intelligence\n  + Nuclear St",
-   "published": "Thu, 22 Oct 2026 10:40:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Super Typhoon Champi generates 10-metre waves east of the Philippines | EU Space Support Office | EU Space Policy",
-   "url": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/super-typhoon-champi-generates-10-metre-waves-east-philippines",
-   "snippet": "On 21 October 2026, Super Typhoon Champi, known in the Philippines as Rosal, was moving west-northwest across the Philippine Sea, about 850 km east of northern Luzon, the largest island of the Philippines. The storm had reached the equivalent of Category 5 on the Saffir-Simpson scale, the top category, with maximum sustained winds of 296 km/h. These were the strongest sustained winds recorded for ",
-   "published": "Thu, 22 Oct 2026 09:23:45 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Is EU putting profits over human rights in Vietnam?",
-   "url": "https://globalnation.inquirer.net/343755/is-eu-putting-profits-over-human-rights-in-vietnam",
-   "snippet": "MOST READ\n\n[](\n\nWoman left in Philippines after WWII gets Japan passport, eyes visit\n\n[](\n\nLacson prays for 'peaceful' arrest of dela Rosa\n\n[](\n\nCool weather expected in PH despite Super El Niño — Pagasa\n\n[](\n\nBottle cap found off Japan coast carried marine ecosystem from PH\n\nView comments\n\nEDITORS' PICK MOST READ\n\n[](\n\nglobalnation\n\nThousands rally in Tel Aviv against Netanyahu ahead of vote\n\n[](",
-   "published": "Sun, 25 Oct 2026 15:10:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Minimum Salary Changes Announced | Fragomen, Del Rey, Bernsen & Loewy LLP",
-   "url": "https://www.fragomen.com/insights/minimum-salary-changes-announced.html",
-   "snippet": "+ Skilled Workers (academic or professional experience). Effective January 1, 2027, the minimum salary level is EUR 3,451.96 gross per month, up from EUR 3,325.59.\n  + Unskilled workers. Effective January 1, 2027, the minimum salary level is EUR 2,876.64 gross per month, up from EUR 2,771.33 .\n\nEU ICT Permit. Effective June 1, 2026, the minimum salary level is EUR 3,325.59 gross per month, up from",
-   "published": "Thu, 22 Oct 2026 22:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

@@ -2,24 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Yadda ƴan bindiga suka kashe Sheikh Yahaya Masussuka",
+   "title": "Wane ne Sheikh Yahaya Masussuka da ƴan bindiga suka kashe?",
    "url": "https://www.bbc.com/hausa/articles/c8zxl411n35go?at_medium=RSS&at_campaign=rss",
    "content": "A wata tattaunawa da BBC, baturen ‘yansanda reshen Dutsen Ma ya bayyana cewa wasu ‘yan bindiga ne suka kashe mashahurin malamin a yammacin Litinina kofar gidansa.",
    "published_date": "Mon, 26 Oct 2026 22:35:10 GMT",
    "score": 0.6
   },
   {
-   "title": "An buɗe rumfunan zaɓe a babban zaɓen Isra'ila",
+   "title": "Sojojin Najeriya sun ce sun hallaka mayaƙan ISWAP 16 a Tafkin Chadi",
    "url": "https://www.bbc.co.uk/hausa/live/c620rzeqyg9vt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 27/10/2026",
    "published_date": "",
    "score": 0.6
   },
   {
-   "title": "Arsenal na zawarcin Varela, Crystal Palace na son ci gaba da riƙe Ismaila Sarr",
-   "url": "https://www.bbc.com/hausa/articles/cmp3g21ew3yzo?at_medium=RSS&at_campaign=rss",
-   "content": "Ɗan wasan gaba ɗan ƙasar Portugal, Gustavo Varela, yana cikin wadanda Arsenal ke sa ido a kai; Crystal Palace na son ci gaba da riƙe dan wasan gefe Ismaila Sarr; yayin da wasu daga cikin manyan ƙungiyoyin Turai ke nuna sha'awar ɗaukar ɗan wasan baya na Brighton, Luka Vuskovic.",
-   "published_date": "Tue, 27 Oct 2026 03:57:16 GMT",
+   "title": "Mutanen da suka samu kyautuka a bikin Ballan d'Or na 2026",
+   "url": "https://www.bbc.com/hausa/articles/cmx23lg04zn5o?at_medium=RSS&at_campaign=rss",
+   "content": "Kyaftin ɗin tawagar Ingila Harry Kane ne ya lashe kyautar gwarzon ɗan kwallon na wannan shekara, yayin da abokan takararsa, Kylian Mbappe da Lamine Yamal suka zo na biyu da na uku.",
+   "published_date": "Tue, 27 Oct 2026 11:24:46 GMT",
    "score": 0.6
   },
   {
@@ -34,6 +34,13 @@
    "url": "https://www.bbc.com/hausa/articles/cmz98qxg7pjxo?at_medium=RSS&at_campaign=rss",
    "content": "A zaɓen majalisar dokokin Isra'ila, masu adawa da Firayim Minista Benjamin Netanyahu suna ƙoƙarin kawo ƙarshen shugabancin ɗan siyasar da ya kafa tarihin zama mafi tsawon lokaci a kan mulki.",
    "published_date": "Tue, 27 Oct 2026 03:58:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Arsenal na zawarcin Varela, Crystal Palace na son ci gaba da riƙe Ismaila Sarr",
+   "url": "https://www.bbc.com/hausa/articles/cmp3g21ew3yzo?at_medium=RSS&at_campaign=rss",
+   "content": "Ɗan wasan gaba ɗan ƙasar Portugal, Gustavo Varela, yana cikin wadanda Arsenal ke sa ido a kai; Crystal Palace na son ci gaba da riƙe dan wasan gefe Ismaila Sarr; yayin da wasu daga cikin manyan ƙungiyoyin Turai ke nuna sha'awar ɗaukar ɗan wasan baya na Brighton, Luka Vuskovic.",
+   "published_date": "Tue, 27 Oct 2026 03:57:16 GMT",
    "score": 0.6
   },
   {
@@ -55,13 +62,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/cq4g1wn21w1et?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 26/10/2026",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa nasarar Lula ke da muhimmanci bayan lashe zaɓe wa'adi na huɗu?",
-   "url": "https://www.bbc.com/hausa/articles/ck1l3zl6r7zeo?at_medium=RSS&at_campaign=rss",
-   "content": "Le président brésilien remporte une victoire qui semblait improbable il y a quelques jours lors du second tour face au candidat de droite Flávio Bolsonaro et entame ainsi un quatrième mandat semé d'embûches.",
-   "published_date": "Mon, 26 Oct 2026 12:55:38 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.com/hausa/articles/cw7vp033m22do?at_medium=RSS&at_campaign=rss",
    "content": "Manyan ƙungiyoyin na ci gaba da sa ido kan ɗan wasan Brighton Luka Vuskovic, sai dai Liverpool ba ta da niyar ɗauko ɗan wasan Trent Alexander-Arnold zuwa ƙungiyar, iyayin da kuma AC Milan ke harin ɗan wasan Manchester United Leny Yoro.",
    "published_date": "Sun, 25 Oct 2026 03:49:08 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa nasarar Lula ke da muhimmanci bayan lashe zaɓe wa'adi na huɗu?",
+   "url": "https://www.bbc.com/hausa/articles/ck1l3zl6r7zeo?at_medium=RSS&at_campaign=rss",
+   "content": "Le président brésilien remporte une victoire qui semblait improbable il y a quelques jours lors du second tour face au candidat de droite Flávio Bolsonaro et entame ainsi un quatrième mandat semé d'embûches.",
+   "published_date": "Mon, 26 Oct 2026 12:55:38 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cqkgkex5zxz1o?at_medium=RSS&at_campaign=rss",
    "content": "Duk da cewa Saudiyya na daga cikin ƙasashen da suka fi kashe kuɗi wajen tsaro a duniya, Houthi sun ci gaba da nuna cewa suna da damar kai hare-hare ta amfani da makamai masu linzami da jirage marasa matuƙa.",
    "published_date": "Sat, 24 Oct 2026 03:58:04 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Dole ne Kano ta ba wa Tinubu ƙuri'ar da ta fi ta ko'ina yawa a Najeriya - Abba",
-   "url": "https://www.bbc.co.uk/hausa/live/cm4g19p5px94t?at_medium=RSS&at_campaign=rss",
-   "content": ".",
-   "published_date": "",
    "score": 0.6
   }
  ],

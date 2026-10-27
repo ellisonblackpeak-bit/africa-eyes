@@ -1,7 +1,14 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Xi's peace principles offer little cover for China in Africa - Asia Times",
+   "url": "https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa",
+   "snippet": "Beijing posted its first defense attaché to Niger last year, and Mali has taken delivery of Chinese short-range air defense systems. China National Petroleum Corp (CNPC) built Niger’s oil export pipeline to Benin, while Chinese companies mine and build across western Mali.\n\nThat exposure has a price for China. Of the 89 foreigners reported abducted in Africa in 2025, 38 held Chinese passports, mos",
+   "published": "Fri, 23 Oct 2026 04:46:38 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_cnpc2",
  "_query": "CNPC Niger oil",
  "_domains": [],

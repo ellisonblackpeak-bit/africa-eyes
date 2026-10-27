@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "South African police investigate killing of foreign national by crowd | Reuters",
+   "url": "https://www.reuters.com/world/africa/south-african-police-investigate-killing-foreign-national-by-crowd-2026-10-22",
+   "snippet": "The South African Police Service said in a post ​on X that the victim, thought ​to be in his late 30s or ⁠early 40s, was beaten by the ​crowd and declared dead at the scene\n A group ​of people had been marching in central Durban when two men appeared to break away and approach ​the victim, after which he was assaulted ​by about 50 people, police said\n Police did not give ‌the ⁠victim's nationality",
+   "published": "Thu, 22 Oct 2026 10:44:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Foreign National Beaten To Death During South Africa March – The Whistler Newspaper",
+   "url": "https://thewhistler.ng/foreign-national-beaten-to-death-during-south-africa-march",
+   "snippet": "Next Post\n\nCardoso Seeks Stronger Banking Partnership Between Nigeria, China\n\nLeave a comment\n\nAdvertisement\n\nSign in [...] A foreign national has been beaten to death by a crowd of about 50 people in Durban, South Africa, as police investigate the circumstances surrounding the killing.\n\nThe South African Police Service said the man, believed to be in his late 30s or early 40s, was assaulted durin",
+   "published": "Thu, 22 Oct 2026 17:08:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Foreign national beaten to death by a mob in South Africa",
+   "url": "https://www.yahoo.com/news/world/articles/foreign-national-beaten-death-mob-173544828.html",
+   "snippet": "A mob has beaten a foreign national to death during a protest in the South African port city of Durban, amid a wave of anti-immigrant tension.\n\nPolice said the group approached the man as he stood by the side of a road in Durban's central business district.\n\nThe victim was allegedly assaulted by a group of about 50 people and was declared dead at the scene, a police statement said.\n\nPolice did not",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Durban Killing: Why Is South Africa’s Anti-Migrant Anger Growing? - Newsweek",
+   "url": "https://www.newsweek.com/durban-killing-why-is-south-africas-anti-migrant-anger-growing-12612318",
+   "snippet": "A foreign national was beaten to death by a crowd of around 50 people in South Africa, amid months of tensions over immigration across the country.\n\nThe man, believed to be in his late 30s or early 40s, was killed in the coastal city of Durban on Thursday, when a group was demonstrating against illegal immigration in the city center, according to the South African Police Service (SAPS). [...] A fo",
+   "published": "Fri, 23 Oct 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Reward offered over man's murder in Digbeth flat used as brothel",
+   "url": "https://www.bbc.com/news/articles/c615j787ee82o",
+   "snippet": "He was captured wearing a dark hat and dark clothing as he walked along Barford Street just before the murder.\n\nThe DNA sample was submitted for forensic testing, which concluded that the suspect was a man and there was a 99.99% probability that he was black.\n\nCrimestoppers said the reward was for information given anonymously that would lead to the conviction of the person responsible for the dea",
+   "published": "Sat, 24 Oct 2026 13:00:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mob Of 50 Beats Foreign Citizen To Death During Protest March In Durban CBD: 15 outlets compared | NewsCord",
+   "url": "https://newscord.org/article/mob-of-50-beats-foreign-citizen-to-death-during-protest-march-in-durban-cbd--Story_20261022_Crowdof50beatsforeig51bb747f",
+   "snippet": "Police said they were following several leads and using investigative aids to identify possible suspects, while the motive for the killing remained unknown at this stage. South African Police Service said it had opened a murder case for investigation after a foreign national was allegedly assaulted to death by a group of about 50 people on Thursday morning, 22 October 2026. [...] Published\n\nAfrica",
+   "published": "Thu, 22 Oct 2026 17:35:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Arab News | Foreign citizen beaten to death during march in South Africa as anti-immigrant tensions flare",
+   "url": "https://www.arabnews.com/world/foreign-citizen-beaten-to-death-during-march-in-south-africa-as-anti-immigrant-tensions-flare-3007747",
+   "snippet": "A foreign citizen was beaten to death by a group of around 50 people during a protest march in South Africa’s east coast city of Durban, police said Thursday, as anti-immigrant tensions continue to flare in Africa’s most advanced economy. (Reuters/File)\n\n The attack occurred as anti-immigrant tensions are rising in South Africa.\n Police have not yet disclosed the nationality of the victim\n\nUpdated",
+   "published": "Thu, 22 Oct 2026 14:13:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "A magnitude 7 earthquake shakes China's Tibet - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/22/china-earthquake-tibet/c64d6a7e-ce32-11f1-ac04-9f58578a68b4_story.html",
+   "snippet": "Democracy Dies in Darkness\n\n# A magnitude 7 earthquake shakes China's Tibet\n\nA magnitude 7 earthquake has struck China’s Tibet on Thursday evening, with no immediate reports of damage or casualties\n\nBy Associated Press\n\nBEIJING — A magnitude 7 earthquake hit China’s Tibet on Thursday evening, with no immediate reports of damage or casualties. [...] The United States Geological Survey said the quak",
+   "published": "Thu, 22 Oct 2026 16:13:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

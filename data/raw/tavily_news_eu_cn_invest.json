@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "France and Germany Push \"Hard Tool\" on China Trade, But Europe's Internal Reforms Still Missing — BigGo Finance",
+   "url": "https://finance.biggo.com/news/0f8d2d33-0353-4e85-b3f9-8360d3a60461",
+   "snippet": "Data from Rhodium Group and the Mercator Institute for China Studies show that Chinese direct investment in the EU and the UK rose 67% in 2025 to €16.8 billion (approximately $18.8 billion), with greenfield investment reaching a record €8.9 billion (approximately $10.0 billion). What tariffs mainly change is the location of production—Chinese companies are shifting toward local production, local p",
+   "published": "Tue, 20 Oct 2026 12:55:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China-Europe financial cooperation in focus at Financial Street Forum, with participants highlighting green bonds, tech investment - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1372671.shtml",
+   "snippet": "China and Europe have significant potential to deepen financial cooperation, expand two-way investment and strengthen industrial ties, Chinese officials and business representatives said at a forum in Beijing on Tuesday, highlighting the role of financial connectivity in supporting businesses amid global economic uncertainties. [...] The China Europe Financial Investment Forum, themed \"Expand Mult",
+   "published": "Wed, 21 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China-EU’s path to prosperity is partnership – Asia News Network",
+   "url": "https://asianews.network/china-eus-path-to-prosperity-is-partnership",
+   "snippet": "German companies’ direct investment in China increased by around 5.6 billion euros in the first six months of the year, about one-third more compared with the same period last year, according to analyses by the German Economic Institute.\n\nIn 2025, Chinese companies launched 228 investment projects in Germany, up 14.6 percent year-on-year, making China the largest source of foreign investment proje",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Comments to the European Commission Regarding Its ‘Diversify EU’ Proposal | Testimonies & Filings | Oct 27, 2026 | ITIF",
+   "url": "https://itif.org/publications/2026/10/27/comments-to-the-european-commission-regarding-its-diversify-eu-proposal",
+   "snippet": "China’s subsidized manufacturing overcapacity threatens the EU’s long-term competitiveness. Subsidized production in Mainland China—and increasingly through outward foreign direct investment from Chinese companies—displaces European suppliers, while technology theft weakens returns on their innovation investments.(#_edn3) European investments in China can serve as a bargaining tool, given China’s ",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU should revive talks on broader China trade deal, top MEP says | Euronews",
+   "url": "https://www.euronews.com/2026/10/21/eu-should-revive-talks-on-broader-china-trade-deal-top-mep-says",
+   "snippet": "## As EU lawmakers prepare to visit Beijing, the European Parliament's trade chief is calling for a broader agreement that could revive elements of a frozen investment pact and address unfair Chinese trade practices across multiple industries.\n\nThe European Union should seek a broad trade agreement with China, potentially including investment, rather than continue negotiating over individual secto",
+   "published": "Wed, 21 Oct 2026 15:16:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Volkswagen considers using Chinese software for Europe, report says",
+   "url": "https://www.investing.com/news/stock-market-news/volkswagen-considers-using-chinese-software-for-europe-report-says-4973202",
+   "snippet": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all investors. Prices of cryptocurrencies are extremely volatile and may be affected by external factors such as financial, regulatory or political events. Trading on margin increases the financial risks. [..",
+   "published": "Mon, 26 Oct 2026 15:15:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opinion | Europe still has no clear goal on China | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3371543/europe-still-has-no-clear-goal-china",
+   "snippet": "China has built its European policy around this vacuum. Its method rewards patience: apply pressure, wait for Brussels to react, then offer tiny concessions on Beijing’s terms. European leaders present new instruments as proof of control, while Beijing files each one as information on Europe’s pain threshold. China knows Europe’s price better than Brussels does. [...] This month alone, Europe has ",
+   "published": "Thu, 22 Oct 2026 12:30:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What the EU–China trade deal means for Asia | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/26/what-the-eu-china-trade-deal-means-for-asia",
+   "snippet": "In this week’s lead article, Alicia García-Herrero argues that increased EU protectionism in the form of trade instruments capable of rapidly shutting down entire sectors of Chinese trade to Europe would ‘change the calculus’ for Asian governments. Increasing volumes of redirected Chinese exports to Asia would heighten competition for competing Asian exporters. Scrutiny on Chinese manufacturing in",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/36f60d90-a6f8-4cc4-9d9a-cb2301b3cff7?syn-25a6b1a6=1",
+   "snippet": "MenuSearch\n\n   Home\n   World\n   US\n   Companies\n   Tech\n   Markets\n   Climate\n   Opinion\n   Lex\n   Work & Careers\n   Life & Arts\n   How To Spend It\n   Stocks Game\n\nFinancial Times\n\nSubscribeSign In\n\nSearch the FT Search Close search bar Close\n\n# > China’s battery makers race to invest abroad to avoid western barriers\n\nSubscribe to unlock this article\n\n## Save over 40% on Standard Digital\n\nwas $540",
+   "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_invest",
  "_query": "Chinese investment Europe",
  "_domains": [],

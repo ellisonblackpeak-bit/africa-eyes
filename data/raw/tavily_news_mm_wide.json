@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China Taps Myanmar’s Rare Earth Surge, Coffee Sell-Off, and More",
+   "url": "https://www.irrawaddy.com/news/china-briefing/china-taps-myanmars-rare-earth-surge-coffee-sell-off-and-more.html",
+   "snippet": "The Seventh Myanmar–China Think Tank Forum kicked off in Mangshi, Yunnan Province on Wednesday, with agricultural cooperation placed firmly at the center of discussions. Launched in 2017, the annual forum takes a different theme each year, but its underlying focus has consistently been the now stalled China–Myanmar Economic Corridor, a project designed to give Beijing direct access to the Indian O",
+   "published": "Fri, 23 Oct 2026 12:13:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Myanmar students explore Chinese culture through language training program - People's Daily Online",
+   "url": "https://en.people.cn/n3/2026/1026/c90000-20512178.html",
+   "snippet": "Students perform during the launch ceremony of a new batch of Chinese-language classes under the Kyaukphyu Anargat (future) Chinese Language Training Project at the China Cultural Center in Yangon, Myanmar, Oct. 24, 2026. (Xinhua/Myo Kyaw Soe) [...] Participants pose for a group photo during the launch ceremony of a new batch of Chinese-language classes under the Kyaukphyu Anargat (future) Chinese",
+   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Australia East Timor Defence Deal: Key Highlights - The China-Global South Project",
+   "url": "https://chinaglobalsouth.com/2026/10/22/australia-east-timor-defence-deal-china",
+   "snippet": "### Myanmar-China Oil and Gas Pipeline Control Station Destroyed in Latest Attack Affecting Chinese Interests\n\nMyanmar’s military government said several of the country’s armed insurgent groups destroyed a control station of the Myanmar-China oil and natural gas pipeline in a state bordering China. The attack happened in the northern ...\n\n\n\n### China, Cambodia to Hold Joint Military Exercises [...",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US officials issue China travel advisory over arbitrary detention",
+   "url": "https://nypost.com/2026/10/22/lifestyle/us-officials-issue-china-travel-advisory-over-arbitrary-detention",
+   "snippet": "The other is Min Zin, a Myanmar-born American scholar studying Myanmar politics and regional relations. He was detained in Yunnan province in June 2026 under espionage allegations and designated as wrongfully detained on August 20.\n\nAmericans planning necessary travel to China are advised to enroll in the State Department’s Smart Traveler Enrollment Program (STEP), maintain valid documentation, an",
+   "published": "Thu, 22 Oct 2026 17:25:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s sanctions on Taiwan allies project its power, but with limited effect – Radio Free Asia",
+   "url": "https://www.rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize",
+   "snippet": "Radio Free Asia logo\n\n# China’s sanctions on Taiwan allies project its power, but with limited effect\n\n## Beijing sent a message by sanctioning officials from Paraguay and Belize, but both remain loyal to Taipei, experts said.\n\nBy Taejun Kang for RFA\n\nChina’s sanctions against foreign officials over their ties with Taiwan help Beijing project power and warn other governments, even as their financi",
+   "published": "Sat, 24 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese-built wastewater treatment project breaks ground in Kuwait - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1373046.shtml",
+   "snippet": "CHINA / DIPLOMACY\n\nChinese-built wastewater treatment project breaks ground in Kuwait\n\nBy Xinhua Published: Oct 27, 2026 01:14 PM [...] A groundbreaking ceremony was held in Kuwait on Monday for a wastewater treatment plant undertaken by China State Construction Engineering Corporation Ltd.,marking another step forward in infrastructure and environmental cooperation between China and Kuwait. [...]",
+   "published": "Tue, 27 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Is China Trying To Slow India’s Border Infrastructure Buildup?",
+   "url": "https://swarajyamag.com/defence/is-china-trying-to-slow-indias-border-infrastructure-buildup",
+   "snippet": "Technically, the rule applied to all of India's land neighbours, including Pakistan, Bangladesh, Nepal, Bhutan, Myanmar and Afghanistan as well as China, but nobody doubted which country it was meant for. [...] The Rishikesh–Karnaprayag railway, which will end in Uttarakhand’s Chamoli district on the border with Tibet, and the Pakal Dul hydroelectric project on the Chenab in Kishtwar, Jammu and Ka",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "October 28 | Signature Workshop for History and Related Projects – DUKE KUNSHAN UNIVERSITY HUMANITIES RESEARCH CENTER",
+   "url": "https://sites.duke.edu/dkuhumanities/october-28-signature-workshop-for-history-and-related-projects",
+   "snippet": "The projects cover a wide range of historical inquiries: Filipino migrant families in Brunei, the evolution of Chinese mourning rituals, Manchu shamanism in the late Qing, coastal and environmental change in Jiangsu, and colonial and indigenous understandings of rivers. The session offers a window into how students frame research questions, construct projects, and navigate the research process. [.",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Afghanistan’s Wakhan Transit Road Is a Long Shot to Connect with China",
+   "url": "https://thediplomat.com/2026/10/afghanistans-wakhan-transit-road-is-a-long-shot-to-connect-with-china",
+   "snippet": "The road has been officially inaugurated, but China and the Taliban have very different views of its function.",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "mm_wide",
  "_query": "Myanmar China project",
  "_domains": [],
