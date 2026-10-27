@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "2027 elections: Curbing ISWAP’s excesses, tentacles",
+   "url": "https://thesun.ng/2027-elections-curbing-iswaps-excesses-tentacles",
+   "snippet": "Muslim youths and force them into espionage roles.Innocent youths kidnapped by terrorists are also coerced into the sect. For the records,  ISWAP (the Islamic State – West Africa Province) is a major Salafi-jihadist militant group and an official branch of the Islamic State operating primarily across the Lake Chad Basin, including northeast Nigeria, Niger Republic, Chad, and Cameroon. The group or",
+   "published": "Thu, 22 Oct 2026 00:32:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian military kills 103 ISWAP fighters in series of air strikes | The Eastleigh Voice",
+   "url": "https://eastleighvoice.co.ke/africa/414161/nigerian-military-kills-103-iswap-fighters-in-series-of-air-strikes",
+   "snippet": "# Nigerian military kills 103 ISWAP fighters in series of air strikes\n\nBy Bashir Mbuthia  Published on\n\n Nigerian military kills 103 ISWAP fighters in series of air strikes - A targeting-camera view shows a Nigerian military air strike on a suspected Islamic State West Africa Province (ISWAP) target in northeastern Nigeria during operations conducted between October 10 and 18, 2026. (Photo: HQ NIg",
+   "published": "Tue, 20 Oct 2026 14:47:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State West Africa Province (ISWAP) fighters Archives",
+   "url": "https://guardian.ng/tag/islamic-state-west-africa-province-iswap-fighters",
+   "snippet": "The Nigerian military has said that airstrikes targeting Islamic State West Africa Province (ISWAP) fighters in Borno and Adamawa states killed 103",
+   "published": "Thu, 22 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Former Classmates Describe Killed ISWAP Commander as Unassuming | HumAngle",
+   "url": "https://www.humanglemedia.com/former-classmates-describe-killed-iswap-commander-as-unassuming",
+   "snippet": "In October, Nigerian authorities killed Abdussamad Ohida, a senior commander of the Islamic State West Africa Province (ISWAP), who they say oversaw the terror group’s strategic operations across Nigeria’s north-central and southern regions. Who was he?\n\nListen to this story\n\n26 Oct 2026 [...] Abdussamad Ohida, also known as Anwar, died in October during a joint security operation in Owo Forest, O",
+   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Troops Eliminate 16 ISWAP Fighters in Lake Chad Offensive - PRNigeria News",
+   "url": "https://prnigeria.com/2026/10/26/troops-eliminate-iswap-3",
+   "snippet": "General\n Security\n State\n\n# Troops Eliminate 16 ISWAP Fighters in Lake Chad Offensive\n\nBy\n\nPrnigeria\n\n-\n\n fighters in coordinated air and artillery strikes on three suspected terrorist locations in the Tunbunma area of South Lake Chad.\n\nThe operation, conducted between 1 a.m. and 2 a.m. on Monday, October 26, 2026, followed intelligence reports indicating the presence of key terrorist leaders and ",
+   "published": "Mon, 26 Oct 2026 21:41:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "JUST IN: Army, DSS, Amotekun Kill Top ISWAP Commander In Ondo Forest",
+   "url": "https://leadership.ng/just-in-army-dss-amotekun-kill-top-iswap-commander-in-ondo-forest",
+   "snippet": "A joint operation involving the Nigerian Army, Department of State Services (DSS) and the Western Nigeria Security Network, also known as Amotekun, has.",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Troops Kill 16 ISWAP Fighters, Including Arabian Commander Abu Zubiru, In Lake Chad Airstrikes –Nigerian Military",
+   "url": "https://saharareporters.com/2026/10/26/troops-kill-16-iswap-fighters-including-arabian-commander-abu-zubiru-lake-chad",
+   "snippet": "According to a statement issued by the Acting Military Information Officer of Headquarters Joint Task Force (North East), Operation Hadin Kai,",
+   "published": "Mon, 26 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Troops Neutralise 16 ISWAP Fighters in Lake Chad Basin",
+   "url": "https://von.gov.ng/troops-neutralise-16-iswap-fighters-in-lake-chad-basin",
+   "snippet": "The Joint Task Force (North East), Operation Hadin Kai, has killed 16 suspected Islamic State West Africa Province (ISWAP) fighters in coordinated air and",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Security agents kill ISWAP commander, 15 others in Borno",
+   "url": "https://dailytrust.com/security-agents-kill-iswap-commander-15-others-in-borno",
+   "snippet": "Troops of Operation Hadin Kai have killed a high-ranking terrorist commander, Abu Zubiru, alongside 15 other insurgents. According to a statement released",
+   "published": "Tue, 27 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_iswap",
  "_query": "ISWAP Nigeria",
  "_domains": [],

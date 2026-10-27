@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "France’s African Shadow",
+   "url": "https://tribunemag.co.uk/2026/10/coup-belt",
+   "snippet": "The United States now waits in the wings, mulling military strikes in concert with Mali against militants. Earlier this year, Washington struck a multimillion-dollar health deal with Burkina Faso and moved to repair relations with Niger, just a few years after it was asked to leave behind its sprawling $100m drone airbase near Agadez. [...] In August, the Mali Security Partnership and Counterterro",
+   "published": "Fri, 23 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "The United States has also seen its military footprint shrink.\n\nIn 2024, Washington withdrew approximately 1,000 soldiers from Niger after the military government terminated their security cooperation agreement. The withdrawal included personnel stationed at an important US drone base near Agadez.\n\nThe result has been a significant realignment of the Sahel’s security partnerships, with Western mil",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Licensable picture: A boy casts a net for fish in the Niger River in Gao, Mali",
+   "url": "https://www.reutersconnect.com/item/a-boy-casts-a-net-for-fish-in-the-niger-river-in-gao-mali/dGFnOnJldXRlcnMuY29tLDIwMTM6bmV3c21sX0dNMUU5MzYwQlVEMDE?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMTM6bmV3c21sX0dNMUU5MzUwRUs0MDE&position=1",
+   "snippet": "A boy casts a net for fish in the Niger River in Gao, Mali, March 5, 2013. REUTERS/Joe Penney (MALI - Tags: SOCIETY ENVIRONMENT TPX IMAGES OF THE DAY",
+   "published": "Sat, 24 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Deploys Military to Bolster Sahel Security - Africa Defense Forum",
+   "url": "https://adf-magazine.com/2026/10/algeria-deploys-military-to-bolster-sahel-security",
+   "snippet": "Algeria Border Security Islamic State JNIM Mali national security Niger Sahel Terrorism\n\nShare.   Facebook   Twitter\")   Pinterest   LinkedIn   Tumblr   Email   Reddit   WhatsApp\n\nPrevious ArticleMexican Cartels Targeting Africa as Meth Production Hub\n\n#### Related Posts\n\n#### Mexican Cartels Targeting Africa as Meth Production Hub\n\n#### Tensions Along Eritrea-Ethiopia Border Risk Erupting into Wa",
+   "published": "Tue, 20 Oct 2026 17:27:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Elon Musk and Madagascar’s richest man turn to the same sector with $1 billion US media bet and $450 million Nigeria deal | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/elon-musk-and-madagascars-richest-man-turn-to-the-same-sector-with-dollar1-billion-us/gzh5sjr",
+   "snippet": "As reported by Nairametrics, having previously completed broadcasting infrastructure upgrades in nations such as Guinea and Mali, securing the Nigerian deal would mark one of the largest media technology modernizations on the continent. [...] According to reports from Nairametrics and Africa Intelligence, the proposed modernization project targets major state media organizations, including the Nig",
+   "published": "Sat, 24 Oct 2026 18:59:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "When soldiers become a popular alternative",
+   "url": "https://goodauthority.org/news/when-soldiers-become-a-popular-alternative",
+   "snippet": "Civil–military relationsMilitary coupAfricaAfrobarometerAlgeriaBulgariaBurkina FasoCambodiaChinaCubaEgyptEl SalvadorFijiFranceGabonGuineaGuinea-BissauHungaryIndiaIndonesiaIraqItalyJordanKenyaLaosLiberiaMadagascarMaliMyanmarNepalNigerNigeriaPakistanPeruPolandPortugalSri LankaTanzaniaThailandTurkeyUkraineUnited KingdomUnited StatesUruguayVenezuelaVietnamZimbabwe\n\n+45 more\n\n### Related\n\nGood Authorit",
+   "published": "Mon, 26 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/25/algeria-niger-troops-economic-interests/d61a26ba-d0ce-11f1-9931-2a41b76fc976_story.html",
+   "snippet": "ALGIERS, Algeria — Algeria’s parliament approved a resolution Sunday to send troops to Niger , making it the first time Algerian soldiers will be deployed abroad since 1973, when they were sent to support Egypt during the Arab-Israeli war.\n\npixel [...] Democracy Dies in Darkness\n\n# Algeria to send troops to Niger in first foreign deployment in over 50 years\n\nAlgeria’s parliament has approved a res",
+   "published": "Sun, 25 Oct 2026 23:55:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Patient-Centred Care in West Africa: A Narrative Review of Structural Barriers, Sociocultural Constraints, and Implications for Practice and Policy",
+   "url": "https://www.cureus.com/articles/537593-patient-centred-care-in-west-africa-a-narrative-review-of-structural-barriers-sociocultural-constraints-and-implications-for-practice-and-policy",
+   "snippet": "Dimension Category N Refs\nGeographical setting Nigeria 10(javascript:void(0))\nGhana 5(javascript:void(0))\nMali 1(javascript:void(0))\nSierra Leone 1(javascript:void(0))\nGuinea 1(javascript:void(0))\nSenegal 1(javascript:void(0))\nWest African regional or multi-country 3(javascript:void(0))\nOther regions, sub-Saharan Africa, multi-country LMIC or global 12(javascript:void(0))\nSubtotal 34\nDesign Qualit",
+   "published": "Mon, 26 Oct 2026 12:23:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Why Ukraine May Be Involved in Mali's Conflict",
+   "url": "https://allafrica.com/stories/202610270132.html",
+   "snippet": "Allegations that Ukrainian specialists are supporting Tuareg rebels in Mali highlight Kyiv's effort to challenge Russian influence far beyond the",
+   "published": "Tue, 27 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ne_ml",
  "_query": "US Niger Mali",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EIGS (État islamique au Sahel) : qui est le groupe jihadiste qui monte en 2026 ? – Sahel Watch",
+   "url": "https://sahel.watch/eigs-etat-islamique-sahel-issp-2026",
+   "snippet": "Ce sont trois désignations d’une même organisation. « EIGS » (État islamique dans le Grand Sahara) est le nom historique, encore le plus employé en français. Depuis 2022, l’État islamique la désigne officiellement comme sa « Province du Sahel » : Islamic State Sahel Province (ISSP) en anglais, État islamique au Sahel (EIS) en français.\n\n### Quelle différence entre l’EIGS et le JNIM ? [...] Les eff",
+   "published": "Sun, 25 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Denounce jihadist massacre with 48 civilians in Mali | Demócrata",
+   "url": "https://www.democrata.es/en/international/a-berber-organization-denounces-almost-50-civilians-killed-in-a-jihadist-massacre-in-eastern-mali",
+   "snippet": "A civil entity representing Berber tribes from eastern Mali has reported that at least 48 civilians were killed last weekend in a massacre attributed to the branch of the jihadist organization Islamic State in the Sahel, known as Islamic State in the Greater Sahara (EIGS). [...] Follow us\n\n Current events\n General Election\n Consejo de Ministros\n Europe\n Polls\n DemócrataPro\n\n Fren\n\n Latest news\n Ag",
+   "published": "Tue, 20 Oct 2026 16:44:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European female hostages released from Islamic State | National Security News",
+   "url": "https://nationalsecuritynews.com/2026/10/european-female-hostages-released-from-islamic-state",
+   "snippet": "The pair were kidnapped separately last year from their homes in the Niger desert town of Agadez and are thought to have been held by Islamic State in the Sahel (ISS).\n\nHaftar, the son of Field Marshal Khalifa Haftar, has helped win freedom for a series of hostages this year, trying to build an image as a security broker in the Sahel, according to analysts. [...] Translating...\n\n#### 📖 Read Along\n",
+   "published": "Thu, 22 Oct 2026 13:15:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "L’Algérie déploie ses soldats pour renforcer la sécurité au Sahel - Africa Defense Forum",
+   "url": "https://adf-magazine.com/fr/2026/10/lalgerie-deploie-ses-soldats-pour-renforcer-la-securite-au-sahel",
+   "snippet": "Aux côtés du Burkina Faso, le troisième membre de l’AES, le Mali et le Niger luttent depuis des années contre la montée du terrorisme perpétré par le Groupe de soutien à l’islam et aux musulmans (GSIM) et l’État islamique dans le Grand Sahara (EIGS). Les dirigeants algériens perçoivent de plus en plus l’instabilité au sein de l’AES comme une menace potentielle pour leur propre sécurité nationale, ",
+   "published": "Tue, 20 Oct 2026 17:28:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Morocco World News",
+   "url": "https://www.facebook.com/MoroccoWorldNews/posts/a-new-analysis-published-by-the-us-national-security-publication-lawfare-warns-t/1607663584728635",
+   "snippet": "Adnan Al-Sahrawi, the former leader of the 'Islamic State in the Greater Sahara' (EIGS) killed by French forces in August 2021.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in 53 years",
+   "url": "https://www.timeslive.co.za/news/africa/2026-10-26-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-53-years",
+   "snippet": "Niger, like other countries in West Africa’s Sahel region, is battling insurgents linked to al Qaeda and Islamic State. Algeria, which shares a border with Niger, has traditionally regarded stability in the Sahel-Sahara as a key regional security priority.\n\nTies have improved this year. Niger President Abdourahamane Tiani visited Algiers in February, and Niger defence minister Salifou Mody travell",
+   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ChinaMed Project, T.wai - Torino World Affairs Institute ...",
+   "url": "https://www.esteri.it/wp-content/uploads/2026/10/Twai_ChinaMed-2025.pdf",
+   "snippet": "See note 72, Simone Tagliapietra, March 4, 2019; François Lafargue, \"The economic presence of China in the Maghreb: Ambitions and limits,\" Observatoire du monde arabo-musulman e du Sahel 3, no. 294, Fondation pour la recherche stratégique, October 29, 2018.  observatoire-du-monde-arabo-musulman-et-du-sahel/publications/en/294.pdf. 87 Frederic Wehrey and Sandy Alkoutami, \"China’s Balancing Act in L",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Issuu",
+   "url": "https://issuu.com/thisdaylive/docs/tuesday_27th_october_2026",
+   "snippet": "Turn static files into dynamic content formats.\n\nCreate a flipbook\n\nIssuu converts static files into:\n\n digital portfolios\n online yearbooks\n online catalogs\n digital photo albums\n\nand more. Sign up and create your flipbook.\n\nTUESDAY 27TH OCTOBER 2026 by THISDAY Newspapers Ltd - Issuu",
+   "published": "Mon, 26 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Caleb Hearon and Drew Afualo : Office of Student Life",
+   "url": "https://studentlife.osu.edu/Events.aspx?y=2026&mo=10&day=26&e=84843&title=caleb-hearon-and-drew-afualo",
+   "snippet": "### Accommodations\n\nIf you require an accommodation such as live captioning or interpretation to participate in this event,\nplease contact Nora Daley at daley.181@osu.edu or .\nRequests made one week in advance of the event will generally allow us to provide seamless access, but\nthe university will make every effort to meet requests made after this date.\n\n### Sensory Notice\n\n## Brought to you by\n\n#",
+   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_eigs",
  "_query": "EIGS Islamic State Sahel",
  "_domains": [],

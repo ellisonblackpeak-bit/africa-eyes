@@ -2,24 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "China, Europe drive deeper automotive cooperation | english.scio.gov.cn",
-   "url": "http://english.scio.gov.cn/m/in-depth/2026-10/27/content_118750595.html",
-   "snippet": "In recent years, Chinese car makers have accelerated localization. Ten European production plans have been announced since September 2023, advisory company AutoMotion reported, including BYD's first European plant in Szeged, Hungary and SAIC's 200 million-euro (222.7 million U.S. dollars) factory in Spain's Galicia.\n\nThis photo taken on Jan. 2, 2025 shows a showroom of Chinese electric vehicle mak",
-   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "BYD to build new factories in Europe to combat strict trade barriers targeting Chinese EVs | South China Morning Post",
-   "url": "https://www.scmp.com/business/china-evs/article/3372001/byd-build-new-factories-europe-combat-strict-trade-barriers-targeting-chinese-evs",
-   "snippet": "Themis Qi\n\nChina’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback at home and rising trade barriers overseas, according to an executive.\n\n“Europe is a very important regional market for BYD. We will not let tariff increases affect local consumers’ choice of BYD,” said Liu Xueliang, vice-president at",
-   "published": "Sun, 25 Oct 2026 08:00:09 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "European firms put Chinese technology to work - Global Times",
    "url": "https://www.globaltimes.cn/page/202610/1372947.shtml",
    "snippet": "At a machinery factory in Vicenza, Italy, Chinese-made robots weld components and move materials. The machines come from Chengdu CRP Robot Technology Co., Ltd., which now has more than 20 partners across 13 European countries. [...] CRP Robot is working with European local partners to improve technical support and after-sales services, its deputy general manager Deng Shihai said. Luigi Gambardella",
-   "published": "Mon, 26 Oct 2026 11:00:00 GMT",
+   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -30,13 +16,6 @@
    "source": "tavily"
   },
   {
-   "title": "How cheap Chinese antibiotics threaten Europe's last major penicillin plant",
-   "url": "https://lufkindailynews.com/news_reuters/business/how-cheap-chinese-antibiotics-threaten-europes-last-major-penicillin-plant/article_234f1368-0033-5376-98cf-457b4a2799ec.html",
-   "snippet": "The reason: China is churning out the same antibiotics and ingredients as the Sandoz factory in Kundl, Austria, at much lower cost for the European market.\n\nThe falling prices are a boon for cost-conscious European governments' public healthcare programs but an existential threat to the Kundl site - the only one making penicillin from start to finish in Europe, including key active ingredients. [.",
-   "published": "Wed, 21 Oct 2026 22:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "China Cannot Remain the World’s Factory. What Comes Next?",
    "url": "https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy",
    "snippet": "Such a shift is already under way. In Brazil, BYD is moving from importing cars to manufacturing them locally and developing local suppliers. In Hungary, it is pairing its first European passenger-car factory with a research and development center that will work with Hungarian universities and companies.\n\nAdvertisement [...] China’s manufacturing dominance is generating resistance. And not only in",
@@ -44,10 +23,24 @@
    "source": "tavily"
   },
   {
+   "title": "Volkswagen considers using Chinese software for Europe, report says | Reuters",
+   "url": "https://www.reuters.com/business/autos-transportation/volkswagen-considers-using-chinese-software-europe-report-says-2026-10-26",
+   "snippet": "The company has so far kept software separate, using the architecture co-developed with Xpeng for ​the Chinese market ​while developing ⁠a separate technology for the Western world with Rivian, in a $5.8 billion ​investment at the heart of CEO Oliver ​Blume's ⁠software strategy. [...] Volkswagen's 'China Electronic ​Architecture', a system developed for Chinese models ​in cooperation with local EV",
+   "published": "Mon, 26 Oct 2026 16:45:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Mate Rimac built a China-topping BMW battery supplier - Automotive News",
+   "url": "https://www.autonews.com/manufacturing/automakers/ane-rimac-bmw-battery-win-tops-chinese-1026",
+   "snippet": "Automotive News Europe, a Crain Family brand\nAutomotive News Europe, a Crain Family brand\n\n# How Rimac beat Chinese, bigger suppliers to become BMW battery partner\n\nAdd as a preferred source on Google\nA worker builds the BMW i7 battery system at Rimac's factory near Zagreb, Croatia\nDA\n\n## Featured Stories [...] Meet Automotive News’ 2026 class of 40 Under 40 in retail \nGet to know the young dealer",
+   "published": "Mon, 26 Oct 2026 11:55:54 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Cheap Chinese antibiotics threaten Europe’s last major penicillin plant",
    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/how-cheap-chinese-antibiotics-threaten-europes-last-major-penicillin-plant-2026-10-21",
    "snippet": "Tucked away in the green foothills of the Austrian Alps, the last fully integrated European penicillin plant faces an uncertain future in the shadow of",
-   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "published": "Thu, 22 Oct 2026 14:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -55,6 +48,13 @@
    "url": "https://www.theatlantic.com/international/2026/10/chinese-companies-profit-problem/689088",
    "snippet": "As China’s manufacturers flood the global market with cars, chips, and just about everything else, the country’s economic juggernaut seems unstoppable. Policy makers in the United States and elsewhere fret that this onslaught will overrun their own industries, destroy jobs, and leave them reliant on a rival for vital products. But a growing number of Chinese factories are failing to produce at lea",
    "published": "Thu, 22 Oct 2026 13:03:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
+   "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
    "source": "tavily"
   },
   {

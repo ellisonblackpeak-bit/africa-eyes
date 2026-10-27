@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Agreement signed on second Polish nuclear power plant",
-   "url": "https://www.world-nuclear-news.org/articles/agreement-signed-on-second-polish-nuclear-power-plant",
-   "content": "Poland's Ministry of Energy, Polskie Elektrownie Jądrowe and Polska Grupa Energetyczna have signed an agreement defining the division of tasks and principles of cooperation in preparing the construction of the country's second nuclear power plant.",
-   "published_date": "Tue, 13 Oct 2026 13:46:42 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Hot testing of Chinese SMR under way",
    "url": "https://www.world-nuclear-news.org/articles/hot-testing-of-chinese-smr-under-way",
    "content": "Tests that simulate the temperatures and pressures which the reactor systems will be subjected to during normal operation are reportedly taking place at the ACP100 small modular reactor demonstration project, under construction at the Changjiang site on China's island province of Hainan.",
@@ -135,13 +128,6 @@
    "score": 0.6
   },
   {
-   "title": "NND applies to take over Kjeller nuclear facilities",
-   "url": "https://www.world-nuclear-news.org/articles/nnd-applies-to-take-over-kjeller-nuclear-facilities",
-   "content": "Norwegian Nuclear Decommissioning has submitted a licence application to the country's nuclear regulator to take over responsibility for the nuclear facilities at Kjeller from the Institute of Energy Engineering ahead of their decommissioning.",
-   "published_date": "Tue, 13 Oct 2026 12:30:19 GMT",
-   "score": 0.6
-  },
-  {
    "title": "IAEA says Barakah drone-strike response was effective",
    "url": "https://www.world-nuclear-news.org/articles/iaea-says-barakah-drone-strike-response-was-effective",
    "content": "An International Atomic Energy Agency mission to the United Arab Emirates has said that effective action was taken following the loss of off-site power to Barakah Nuclear Power Plant's unit 3 following a drone strike in May which caused a fire in a generator located outside the inner perimeter of the plant.",
@@ -198,6 +184,13 @@
    "score": 0.6
   },
   {
+   "title": "NVIDIA to consider data centres at former German nuclear sites",
+   "url": "https://www.world-nuclear-news.org/articles/nvidia-to-consider-data-centres-at-former-german-nuclear-sites",
+   "content": "Germany's PreussenElektra and multinational technology company NVIDIA are to explore whether PreussenElektra's former nuclear power plant sites are suitable for the construction of so-called AI factories.",
+   "published_date": "Tue, 27 Oct 2026 12:14:46 GMT",
+   "score": 0.6
+  },
+  {
    "title": "US maritime nuclear firm Bluecore Energy announces uranium purchase",
    "url": "https://www.world-nuclear-news.org/articles/us-maritime-nuclear-firm-bluecore-energy-announces-uranium-purchase",
    "content": "California-based Bluecore Energy said its purchase of low-enriched uranium from WMC is one of several areas where it has made \"significant progress\" towards moving its technology from engineering and non-fuelled hardware development toward fuel fabrication, testing, validation and future deployment.",
@@ -209,6 +202,13 @@
    "url": "https://www.world-nuclear-news.org/articles/kairos-power-automates-fuel-pebble-inspections",
    "content": "A new facility at Kairos Power's Manufacturing Development Campus in Albuquerque, New Mexico, verifies manufacturing specifications and engraves each fuel pebble with a unique code so it can be traced through testing and operation.",
    "published_date": "Wed, 14 Oct 2026 09:01:29 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Newcleo opens MOX fuel development centre",
+   "url": "https://www.world-nuclear-news.org/articles/newcleo-opens-mox-fuel-development-centre",
+   "content": "Innovative nuclear energy company Newcleo has inaugurated its EUR10 million (USD11 million) advanced nuclear fuel engineering, testing and training centre located in Chusclan, in the Gard department in southern France.",
+   "published_date": "Thu, 15 Oct 2026 11:55:28 GMT",
    "score": 0.6
   }
  ],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Government Approves Railway Security Equipment and Expands Local Engineering Training",
+   "url": "https://www.nigeriahousingmarket.com/news/nigeria-approves-new-train-coaches-railway-security",
+   "snippet": "Skip to Content \n\nReal Estate in Nigeria\n\nSubscribe\n\nReal Estate in Nigeria\n\nSubscribe\n\n# Nigeria Approves New Train Coaches and Security Systems to Improve Rail Services\n\ninfrastructure\n\nWritten by Ayomide Fiyinfunoluwa\n\nNigerian Railway Corporation (NRC)\n\nPresident Bola Tinubu has approved the acquisition of additional train coaches and security equipment to expand railway capacity and strengthe",
+   "published": "Tue, 20 Oct 2026 15:01:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NEC approves 90-day plan to reduce cost of living",
+   "url": "https://punchng.com/nec-approves-90-day-plan-to-reduce-cost-of-living",
+   "snippet": "Kindly share this story:\n\nThe National Economic Council has endorsed a 90-day economic action plan aimed at reducing the cost of living, improving food affordability and attracting investment across Nigeria.\n\nThe plan was proposed by the Federal Ministry of Finance and endorsed on Thursday during the council’s 161st meeting, chaired virtually by Vice President Kashim Shettima. [...] The council al",
+   "published": "Thu, 22 Oct 2026 16:54:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NEC Approves 90-Day Plan To Cut Living Costs, As Tinubu Targets Full Gas Pipeline Capacity – Arise News",
+   "url": "https://www.arise.tv/nec-approves-90-day-plan-to-cut-living-costs-as-tinubu-targets-full-gas-pipeline-capacity",
+   "snippet": "AFRICA\n\nNEC approves a 90-day plan targeting food affordability, tax harmonisation and investment, while Tinubu pushes to unlock Nigeria’s gas resources for jobs and exports.\n\nThe Shettima-led National Economic Council (NEC), on Thursday endorsed a 90-day economic action plan proposed by the federal Ministry of Finance to ease the cost of living, improve food affordability, attract investment and ",
+   "published": "Fri, 23 Oct 2026 07:24:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ANAMBRA APPROVES COMPENSATION FOR PROPERTY OWNERS AFFECTED BY SECOND NIGER BRIDGE ACCESS ROAD - Anambra State Government",
+   "url": "https://anambrastate.gov.ng/anambra-approves-compensation-for-property-owners-affected-by-second-niger-bridge-access-road",
+   "snippet": "By Sunday Okoli\n\nThe Anambra State Government has approved compensation for property owners whose properties fall within the right-of-way of the Nkwelle Junction/Phase 2B connection to the Second Niger Bridge access road project.\n\nThe Commissioner for Works and Infrastructure, Arc. Okey Ezeobi, disclosed this on Oct. 20, during a stakeholder meeting at Ogidi Town Hall with affected residents from ",
+   "published": "Wed, 21 Oct 2026 15:30:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mexico Approves Reno Omokri’s Appointment as Nigerian Ambassador | Real Broadcasting Network",
+   "url": "https://therealmediang.com/news/mexico-approves-reno-omokris-appointment-as-nigerian-ambassador",
+   "snippet": "2 mins read\n\nMexico has approved the appointment of Reno Omokri as Nigeria’s ambassador to the country, paving the way for him to assume the diplomatic role following months of waiting for formal clearance.\n\nOmokri announced the development in a post on X on Tuesday, saying the Chargé d’Affaires of the Mexican Embassy in Abuja, José Manuel Briseño Flores, had delivered the diplomatic approval, kno",
+   "published": "Wed, 21 Oct 2026 08:00:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mexico approves Reno Omokri as Nigeria’s ambassador",
+   "url": "https://www.premiumtimesng.com/news/top-news/918771-mexico-approves-reno-omokri-as-nigerias-ambassador.html",
+   "snippet": "Premium Times Nigeria\n\nBUA Group Ad  BUA Group Ad  BUA Group Ad\n\nReno Omokri\n\nReno Omokri\n\n# Mexico approves Reno Omokri as Nigeria’s ambassador\n\n## He is also to serve as Nigeria’s ambassador to Guatemala, Honduras and Nicaragua.\n\nbyBeloved John\n\nOctober 21, 2026\n\nReading Time: 1 min read\n\n0\n\nGoogle Logo  Add us on Google\n\nThe Mexican government has approved Reno Omokri’s appointment as Nigeria’s",
+   "published": "Wed, 21 Oct 2026 09:00:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mexico finally approves Reno Omokri’s appointment as Nigeria’s ambassador | TheCable",
+   "url": "https://www.thecable.ng/mexico-finally-approves-reno-omokris-appointment-as-nigerias-ambassador",
+   "snippet": "In an X post on Tuesday, Omokri said José Manuel Briseño Flores, chargé d’affaires of the embassy of Mexico in Abuja, delivered the diplomatic approval, known as “agrément”, to Babagana Wakil, director of protocol at the ministry of foreign affairs.\n\nHe said the approval covers his appointment as Nigeria’s ambassador extraordinary and plenipotentiary to Mexico, with concurrent accreditation to Gua",
+   "published": "Wed, 21 Oct 2026 08:06:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Reno Omokri Gets Mexico’s Approval As Nigeria’s Ambassador - Trending News",
+   "url": "https://www.tvcnews.tv/reno-omokri-gets-mexicos-approval-as-nigerias-ambassador",
+   "snippet": "By David Bolarinwa\n\nOctober 21, 2026 12:27 PM GMT+1\n\n Reno Omokri \n\nReno Omokri has received formal diplomatic clearance to serve as Nigeria’s ambassador to Mexico following the Mexican government’s approval of his appointment.\n\nOmokri announced the development in a post on X on Tuesday, revealing that the Chargé d’Affaires of the Mexican Embassy in Abuja, José Manuel Briseño Flores, had presented",
+   "published": "Wed, 21 Oct 2026 11:27:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria: Why Nigeria Evacuated an Ebola Patient to Switzerland",
+   "url": "https://allafrica.com/stories/202610270135.html",
+   "snippet": "Speaking on Channels Television's Politics Today on Monday, Mr Idris said the federal government approved the transfer after consultations with the",
+   "published": "Tue, 27 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Libya’s Eastern Parliament Approves Maritime Deal with Turkey",
+   "url": "https://von.gov.ng/libyas-eastern-parliament-approves-maritime-deal-with-turkey",
+   "snippet": "Libya's eastern-based parliament has unanimously approved a 2019 maritime boundaries agreement with Turkey, reversing its earlier rejection..",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ng",
  "_query": "Nigeria government approves",
  "_domains": [],

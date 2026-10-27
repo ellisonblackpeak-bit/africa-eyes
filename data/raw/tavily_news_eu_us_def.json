@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "From Kyiv with love (and savings): A defence win-win for Europe and Ukraine",
-   "url": "https://cepr.org/voxeu/columns/kyiv-love-and-savings-defence-win-win-europe-and-ukraine",
-   "snippet": "Europe is rearming at a pace not seen since the Cold War. EU member states are projected to spend €454 billion on defence in 2026, almost double the amount in 2021 (European Defence Agency 2026). This comes as public finances are already stretched and when economic gains from that spending are not guaranteed (Conigrave and Shin 2026). Money also cannot buy security quickly: soldiers take years to ",
-   "published": "Thu, 22 Oct 2026 17:53:43 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "European defense one year on: Money is not the problem, capacity (and delivery) are",
-   "url": "https://www.allianz-trade.com/en_global/news-insights/economic-insights/european-defense-one-year-on.html",
-   "snippet": "European defense one year on: bold commitments, but is delivery keeping pace? One year into Europe's landmark rearmament announcements: defense spending has increased, financial commitments have expanded (e.g. SAFE loans, +60% commitments in 2028-2034 EU draft budget) and order books have reached record highs. But industrial investment and delivery have yet to catch up. Defense spending growth has",
-   "published": "Tue, 20 Oct 2026 18:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Why US Conservatives Want Europe to Buy American Arms | Hudson Institute",
-   "url": "https://www.hudson.org/national-security-defense/why-us-conservatives-want-europe-buy-american-arms-kenneth-weinstein",
-   "snippet": "Donald Trump broke the spell. He treated the alliance not as a creed but as a partnership that must serve concrete interests on both sides of the Atlantic. For all the turbulence, the result is a stronger alliance. At The Hague in 2025, allies pledged 5 percent of GDP for defense and security by 2035. European allies and Canada raised core defense spending by nearly 20 percent in 2025. Germany loo",
-   "published": "Tue, 20 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The EU needs to get real and develop stronger partnerships with likeminded allies – and South Korea is a perfect candidate - PubAffairs Bruxelles",
-   "url": "https://www.pubaffairsbruxelles.eu/opinion-analysis/the-eu-needs-to-get-real-and-develop-stronger-partnerships-with-likeminded-allies-and-south-korea-is-a-perfect-candidate",
-   "snippet": "The EU‘s relationship with the US follows largely similar logic. The 2025 EU-US trade framework allowed a 15 % US tariff on most EU goods, while NATO allies agreed to much higher defence spending.\n\nIn short, the EU – like South Korea – has tried to make the relationship easier for Trump. But it hasn’t made the relationship any easier for itself. Since NATO’s Ankara summit in July 2026, it’s been c",
-   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe must 'wake up,' but to what reality? The far right and the new social contract",
-   "url": "https://www.aa.com.tr/en/opinion/opinion-europe-must-wake-up-but-to-what-reality-the-far-right-and-the-new-social-contract/4099368",
-   "snippet": "in Europe back in June, his move to tie future support to defense spending, and the rhetoric taking shape around \"NATO 3.0\"  all mean that Washington is dropping the burden it took on some 75 years ago right back into Europe. When that superpower \"security subsidy\" is pulled away, the gap in a domestic order built on outside backing has to be filled by the state's own resources. And that inevitabl",
-   "published": "Sat, 24 Oct 2026 13:39:49 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "It’s hard breaking up with Washington: Why Canada’s European defense turn has limits – POLITICO",
-   "url": "https://www.politico.eu/article/canada-europe-us-defense-military-donald-trump",
-   "snippet": "Attention has now shifted to negotiations on the EU’s seven-year budget, and whether third countries will be eligible for some of the €131 billion defense and space program proposed by the European Commission. [...] “Some of those shared opportunities we're seeking here in Europe is on supply chains, critical mineral supply chains,” he said. “Canada is also working our way up in terms of defense s",
-   "published": "Mon, 26 Oct 2026 06:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Secure Defense? Future Requirements for NATO and European Security - Atlantik-Brücke e.V.",
-   "url": "https://www.atlantik-bruecke.org/en/events/secure-defense-future-requirements-for-nato-and-european-security",
-   "snippet": "spending, the question is no longer simply how much Europe spends, but whether it is building the right capabilities to counter ongoing Russian hybrid warfare and establish credible deterrence to prevent further aggression. [...] Since Russia’s full-scale invasion of Ukraine, European states have significantly increased their defense spending to strengthen their military capabilities and deter Rus",
-   "published": "Wed, 21 Oct 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Road to the NATO Ankara Summit: The public supports increased defence spending and reintroduction of conscription",
-   "url": "https://www.globsec.org/what-we-do/commentaries/road-nato-ankara-summit-public-supports-increased-defence-spending-and",
-   "snippet": "New GLOBSEC-HarrisX Trends 2026 polling shows Europeans back higher defence spending, greater EU military independence and reintroducing conscription ahead",
-   "published": "Wed, 21 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How is the US-Israeli war on Iran causing havoc in Europe? | US-Israel war on Iran News | Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe",
-   "snippet": "Donatella della Porta, a sociologist and political scientist, told Al Jazeera that opposition to war was central to recent protests by young people across Europe, alongside anger over military spending at the expense of welfare.\n\nShe pointed to opposition to military recruitment in schools, weapons-related university research and the use of ports to transport arms, linking those concerns to wider ",
-   "published": "Sun, 25 Oct 2026 14:47:55 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

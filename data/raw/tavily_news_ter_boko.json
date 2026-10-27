@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "“The criminals and the leaders of Boko Haram today were ...",
+   "url": "https://www.facebook.com/seunokin/posts/the-criminals-and-the-leaders-of-boko-haram-today-were-the-young-people-we-faile/10240291104109131",
+   "snippet": "We now know that the Kuje prison attack was launched by Boko Haram. And I can bet you that the two attacks in Abuja were launched by Boko Haram, not bandits. “",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Three police personnel and one other from another ...",
+   "url": "https://www.facebook.com/channelsforum/posts/three-police-personnel-and-one-other-from-another-security-and-safety-agency-wil/1788723282615415",
+   "snippet": "The PUNCH learnt that security agencies had gotten a security report that ISWAP and Boko Haram planned to attack Lagos, Kaduna, Kogi, Katsina and Zamfara states",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 62 people killed in attack on a community in northeastern Nigeria - ABC News",
+   "url": "https://abcnews.com/International/wireStory/62-people-killed-attack-community-northeastern-nigeria-137597495",
+   "snippet": "Nigeria faces a very complex security crisis where civilians are regularly attacked by bandits who carry out large-scale kidnapping for ransom and control illegal mine sites, and also by Islamist groups such as Boko Haram and the Islamic State West Africa Province.\n\nABC News\n\n## Sponsored Content by Taboola\n\n## Popular Reads\n\n## Judge rules Trump DOJ 'unlawfully' fired Maurene Comey\n\n## Britt McHe",
+   "published": "Tue, 27 Oct 2026 12:43:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 62 people killed in attack on a community ...",
+   "url": "https://www.wsls.com/news/world/2026/10/27/at-least-62-people-killed-in-attack-on-a-community-in-northeastern-nigeria",
+   "snippet": "ABUJA – At least 62 people have been killed after gunmen attacked a community in northeastern Nigeria, the country's emergency agency said Tuesday. The attack",
+   "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The death toll from Friday's attack on a remote village in the ...",
+   "url": "https://www.facebook.com/BBCnewsafrica/posts/the-death-toll-from-fridays-attack-on-a-remote-village-in-the-north-eastern-nige/1688807845936945",
+   "snippet": "The death toll from Friday's attack on a remote village in the north-eastern Nigerian state of Taraba has risen to at least 48, police have told the BBC.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 62 people have been killed after gunmen attacked ...",
+   "url": "https://www.facebook.com/APNews/posts/at-least-62-people-have-been-killed-after-gunmen-attacked-a-community-in-northea/1495632062424698",
+   "snippet": "“We are not exonerating Fulani herders from involvement in some of the attacks, but the way they are always blamed for every attack is unfair and prejudiced.”",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De6nCECIXx7",
+   "snippet": "Troops of the Nigerian Army have killed six terrorists, arrested 11 suspected collaborators and received the surrender of a member of Jama’atu Ahlis Sunna Lidda’awati wal-Jihad (JAS) in Borno.  \n  \nThis is contained in an operational report made available to journalists on Sunday in Abuja. [...] The report said the operations, conducted by troops of the Joint Task Force North-East, Operation Hadin",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Buhari destroyed the Nigerian Army - Ononuju",
+   "url": "https://www.youtube.com/watch?v=D2a6ER3xVLQ",
+   "snippet": "A deadly attack on the Binnari community in Karim-Lamido Local Government Area of Taraba State has left dozens of Nigerians dead, with homes and shops",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Terrorists are winning the war on terror in Africa",
+   "url": "https://reason.com/2026/10/26/terrorists-are-winning-the-african-war-on-terror",
+   "snippet": "The first state to be ruled by Al Qaeda might not be in Afghanistan or the Arab world—and its ruler might be a former whiskey-drinking rock star. In April, the Group for the Support of Islam and Muslims (\"JNIM\" in Arabic) led an uprising in the African nation of Mali, killing Defense Minister Sadio Camara, breaking open a prison holding thousands of inmates, and besieging Bamako, the capital. The ",
+   "published": "Mon, 26 Oct 2026 10:00:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At Guinea’s doorstep: JNIM’s entrenchment in southwestern Mali - Regional Programme Security Policy for West Africa - Sahel - Konrad-Adenauer-Stiftung",
+   "url": "https://www.kas.de/en/web/sipodi-west/single-title/-/content/aux-portes-de-la-guinee-l-ancrage-du-jnim-dans-le-sud-ouest-malien-et-les-risques-d-un-nouveau-front",
+   "snippet": "The study describes JNIM’s gradual expansion through a combination of discreet infiltration, forest-based refuges, local networks and coercion. Gold mining sites, transhumance corridors and trade routes provide opportunities for mobility, financing and influence. Transport links connecting Bamako to the Guinean border and the port of Conakry are particularly significant. [...] The analysis draws o",
+   "published": "Sun, 25 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Libya-Turkey Mediterranean Deal; Ethiopian Federal Consolidation in Tigray; South West Opposition Offensive in Somalia: Africa File, October 22, 2026",
+   "url": "https://www.criticalthreats.org/analysis/libya-turkey-tplf-ethiopia-fgs-al-shabaab-somalia-issp-jnim-mali",
+   "snippet": "Jama’at Nusrat al Islam wa al Muslimeen (JNIM) could attempt to exploit the situation to strengthen its position vis-à-vis ISSP in the contested tri-border area of Burkina Faso, Mali, and Niger. ISSP and al Qaeda’s Sahelian affiliate JNIM have engaged in several large-scale clashes in the tri-border area since September as each group tries to establish dominance in the area. ISSP most recently ini",
+   "published": "Fri, 23 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses, HRW Says - Eurasia Review",
+   "url": "https://www.eurasiareview.com/23102026-mali-army-russias-africa-corps-commit-new-abuses-hrw-says",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Fri, 23 Oct 2026 00:35:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/22/mali-army-russias-africa-corps-commit-new-abuses",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Why Ukraine May Be Involved in Mali's Conflict - allAfrica.com",
+   "url": "https://allafrica.com/stories/202610270132.html",
+   "snippet": "The FLA is fighting for an independent state in the north of Mali, a region predominantly inhabited by Tuaregs. JNIM, by contrast, aims to impose strict Islamic rule. Both groups oppose the military government and its Russian allies, but their objectives differ. [...] After the ousting and killing of Libya's longtime dictator Muammar al-Gaddafi during the Arab Spring in October 2011, heavily armed",
+   "published": "Tue, 27 Oct 2026 06:22:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Xi's peace principles offer little cover for China in Africa - Asia Times",
+   "url": "https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa",
+   "snippet": "On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.\n\nOne side belonged to Jama’at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda’s Sahel affiliate. The other belonged to the Islamic State Sahel Province (ISSP), known until 2022 as the Islamic State in the Greater Sahara. The two have been fighting along that fr",
+   "published": "Fri, 23 Oct 2026 04:46:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Deploys Military to Bolster Sahel Security - Africa Defense Forum",
+   "url": "https://adf-magazine.com/2026/10/algeria-deploys-military-to-bolster-sahel-security",
+   "snippet": "Along with the third AES member, Burkina Faso, Mali and Niger have spent years fighting a rising tide of terrorism by Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and the Islamic State Sahel Province (ISSP). Algerian leaders increasingly see instability in the AES as a potential threat to their own national security, Kharief noted. [...] Algeria Border Security Islamic State JNIM Mali national secu",
+   "published": "Tue, 20 Oct 2026 17:27:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "IS-linked militants kill at least 48 civilians in Mali",
+   "url": "http://www.daily-sun.com/world/904561/is-linked-militants-kill-at-least-48-civilians-in-mali",
+   "snippet": "Islamic State-linked militants have killed at least 48 people in Mali in apparent retaliation for an attack on suspected informants by pro-government forces",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ml2",
  "_query": "JNIM Mali",
  "_domains": [],

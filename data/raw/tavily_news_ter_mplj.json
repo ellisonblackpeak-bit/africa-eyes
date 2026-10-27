@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? - Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "# Algeria’s military deployment to Niger: What’s behind the move? *This will be Algeria’s first foreign troop deployment in 50 years as the country shifts its military doctrine amid new security challenges.*. Algeria’s parliament has approved a proposal to deploy troops to neighbouring Niger, in a major shift in the North African nation’s noninterventionist military doctrine. Algeria’s lower house",
+   "published": "Mon, 26 Oct 2026 09:59:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia completes $53 million military investment in another African country after supplying it with six Mi-28 attack helicopters - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/russia-completes-dollar53-million-military-investment-in-another-african-country/d9k47qr",
+   "snippet": "* Russia sold six Mi-28 attack helicopters to Uganda and provided a $53 million military support package, despite its ongoing war in Ukraine. * Uganda's arsenal heavily relies on Russian-made equipment, including helicopters, fighter jets, tanks, and portable air defence systems. The projects, first announced in October 2025, cover equipment maintenance, marine security and military training, buil",
+   "published": "Sun, 25 Oct 2026 17:12:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment since 1973 - BBC",
+   "url": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
+   "snippet": "# Algeria to send troops to Niger in first foreign deployment since 1973. Algeria is to send troops to Niger in its first foreign deployment since sending forces to Egypt during the Arab-Israeli war in 1973. The deployment follows a visit to Algiers by Niger's defence minister, as the country seeks support against armed groups, some of which are linked to al-Qaeda or Islamic State. The troops are ",
+   "published": "Mon, 26 Oct 2026 13:18:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - Greenwich Time",
+   "url": "https://www.greenwichtime.com/news/world/article/algeria-to-send-troops-to-niger-in-first-foreign-22493927.php",
+   "snippet": "# Algeria to send troops to Niger in first foreign deployment in over 50 years. ALGIERS, Algeria (AP) — Algeria’s parliament approved a resolution Sunday to send troops to Niger, making it the first time Algerian soldiers will be deployed abroad since 1973, when they were sent to support Egypt during the Arab-Israeli war. “We are not sending our soldiers to wage war in Niger, but for a mission to ",
+   "published": "Sun, 25 Oct 2026 23:49:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/25/algeria-niger-troops-economic-interests/d61a26ba-d0ce-11f1-9931-2a41b76fc976_story.html",
+   "snippet": "# Algeria to send troops to Niger in first foreign deployment in over 50 years. Algeria’s parliament has approved a resolution to send troops to Niger. Algerian flags are waved outside the parliament building in Algeria, Sunday, Oct. 25, 2026. ALGIERS, Algeria — Algeria’s parliament approved a resolution Sunday to send troops to Niger , making it the first time Algerian soldiers will be deployed a",
+   "published": "Sun, 25 Oct 2026 23:55:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "British investor BII eyes Nigeria’s $50 million startup fund with Japan, finance minister says - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/british-investor-bii-eyes-nigerias-dollar50-million-startup-fund-with-japan-finance/vw0zefr",
+   "snippet": "* British International Investment has expressed interest in an NSIA fund developed with Japan’s JICA. * NSIA has previously identified the investment vehicle as a $50 million Impact Innovation Fund. * The disclosure came as food, agriculture and healthcare businesses won NSIA innovation awards. The Nigeria Sovereign Investment Authority (NSIA) has previously described the vehicle as a $50 million",
+   "published": "Mon, 26 Oct 2026 07:32:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Connected unearths historical niobium hits at Bailundo - Mining.com.au",
+   "url": "https://mining.com.au/connected-unearths-historical-niobium-hits-at-bailundo/",
+   "snippet": "BHP, Codelco sign $57 million copper exploration deal•Reach confirms shallow ‘high-grade’ gold at NW Pit•Connected unearths historical niobium hits at Bailundo•Rapid logs thickening sphalerite at Prophet River•Infinity clears heritage hurdle ahead of Pilbara drilling•PGM projects in the spotlight as Valterra’s production falls•Copper Giant lands Chaparral block in Colombia•Hamelin intersects visib",
+   "published": "Tue, 27 Oct 2026 01:46:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NMDC scouts for mining assets across four continents to diversify portfolio - Business Standard",
+   "url": "https://www.business-standard.com/amp/industry/news/nmdc-scouts-for-mining-assets-across-four-continents-to-diversify-portfolio-126102500102_1.html",
+   "snippet": "Home / Industry / News / NMDC scouts for mining assets across four continents to diversify portfolio. # NMDC scouts for mining assets across four continents to diversify portfolio. NMDC, which caters to India's one-fourth iron ore demand, has set a goal to earn at least 20 per cent of revenues from sale of minerals other than the key steel making raw material. From South America in the west to Aus",
+   "published": "Sun, 25 Oct 2026 05:48:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NMDC Scouts Global Mining Assets for Diversification - Rediff MoneyWiz",
+   "url": "https://money.rediff.com/news/market/nmdc-scouts-global-mining-assets-for-diversification/56820320261025",
+   "snippet": "Home  » Market News » NMDC Scouts Global Mining Assets for Diversification. State-owned NMDC is exploring mining assets across four continents, including critical minerals, to diversify revenue and reduce India's import dependency. * The company aims to generate at least 20% of its revenue from minerals other than iron ore. New Delhi, Oct 25 (PTI) From South America in the west to Australia in the",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FireFly makes new copper-gold VMS discovery - Mining.com.au",
+   "url": "https://mining.com.au/firefly-makes-new-copper-gold-vms-discovery/",
+   "snippet": "Copper firms on China demand, stock rally•Renewable energy, clean-tech investment to enter across Mediterranean•Northern Territory’s critical minerals potential in the spotlight at IMARC 2026•Augustus resumes Music Well drilling after rain•Sandfire mobilises second rig to La Juliana•Victory lands North Stanmore in Austrade prospectus•The rise and fall of China’s copper king•FireFly makes new coppe",
+   "published": "Tue, 27 Oct 2026 04:37:07 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

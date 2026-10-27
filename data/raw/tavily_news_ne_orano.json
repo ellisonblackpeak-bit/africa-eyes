@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Oil market tightness to persist as Iran conflict drags on - Mining.com.au",
+   "url": "https://mining.com.au/oil-market-tightness-to-persist-as-iran-conflict-drags-on/",
+   "snippet": "MCA outlines roadmap to unlock Northern Territory mining potential•Albright Metals eyes multi-commodity targets for Golden Pike drilling•Impact Minerals puts Lake Hope at centre of new strategy•Lightning grants Kincora option over porphyry licences•Western Mines grows indicated Mulga Tank nickel resource by 98%•TG Metals sends Burmeister core to potential partners•BC election results could reshape",
+   "published": "Sun, 25 Oct 2026 23:33:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment since 1973 - BBC",
+   "url": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
+   "snippet": "# Algeria to send troops to Niger in first foreign deployment since 1973. Algeria is to send troops to Niger in its first foreign deployment since sending forces to Egypt during the Arab-Israeli war in 1973. The deployment follows a visit to Algiers by Niger's defence minister, as the country seeks support against armed groups, some of which are linked to al-Qaeda or Islamic State. The troops are ",
+   "published": "Mon, 26 Oct 2026 13:18:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Newmont prices Red Chris at up to $6.8 billion - Mining.com.au",
+   "url": "https://mining.com.au/newmont-prices-red-chris-at-up-to-6-8-billion/",
+   "snippet": "Newmont prices Red Chris at up to $6.8 billion•Hercules bulks up placement to $45.7 million•Türkiye coal mine explosion kills three workers•Ghana signals Gold Fields may retain Tarkwa•Rio Tinto leads Canada’s $196 million aluminium backing•Benchmark: 134 new lithium mines required for the EV industry•Citi says LME Week participants cautious on metals outlook•Viridian drills broader Kraken copper-n",
+   "published": "Sat, 24 Oct 2026 18:07:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Silver Standard Resources Inc. (SSRM) - What Are Analysts Saying About This Stock? - MarketBeat",
+   "url": "https://www.marketbeat.com/instant-alerts/consensus-silver-standard-resources-inc-ssrm-what-are-analysts-saying-about-this-stock-2026-10-25/",
+   "snippet": "Bloom Energy Just Reported—Its Biggest Order Is Still Waiting on a Pipeline. Why Gerardo Del Real says wait before buying uranium stocks (Ad). Amex Stock Slides on Job Cuts, But the Real Story Is Macro. Chefs' Warehouse Has Rallied 76%—Can the Stock Keep Climbing? Grand Canyon Education Strengthens Its Outlook, But Wall Street Remains Divided. Why Western Digital's AI Storage Boom Defies the Chip ",
+   "published": "Sun, 25 Oct 2026 10:44:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "1,447 Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Park Avenue Securities LLC - MarketBeat",
+   "url": "https://www.marketbeat.com/instant-alerts/filing-1447-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-park-avenue-securities-llc-2026-10-27/",
+   "snippet": "Comfort Systems Earnings: AI Slowdown or More Growth Ahead? Last call for your free 0DTE report (Ad). Buy the Dip: 4 Stocks the Market Marked Down Too Far Ahead of Big Catalysts. 5 Beaten-Down Growth Stocks Trading Like Value Plays as Cash Chases Mega-Caps. Why Gerardo Del Real says wait before buying uranium stocks (Ad). A 70% Rally Isn't Chord Energy's Only Selling Point. Amazon's $350 Price Tar",
+   "published": "Tue, 27 Oct 2026 10:24:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Bannerman approves $502 million Etango uranium mine - Mining.com.au",
+   "url": "https://mining.com.au/bannerman-approves-502-million-etango-uranium-mine/",
+   "snippet": "Bannerman Energy (ASX:BMN) and joint venture (JV) partner CNNC Overseas (CNOL) have approved full-scale construction of the Etango Uranium Project in Namibia. The partners have taken a positive final investment decision (FID) on the development, which carries estimated pre-production capital expenditure of US$353 million ($501.9 million), with a margin of 10% either way. *“With construction fully ",
+   "published": "Sat, 24 Oct 2026 22:22:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Geneva Partners LLC - MarketBeat",
+   "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-geneva-partners-llc-2026-10-27/",
+   "snippet": "Comfort Systems Earnings: AI Slowdown or More Growth Ahead? Last call for your free 0DTE report (Ad). Buy the Dip: 4 Stocks the Market Marked Down Too Far Ahead of Big Catalysts. 5 Beaten-Down Growth Stocks Trading Like Value Plays as Cash Chases Mega-Caps. Why Gerardo Del Real says wait before buying uranium stocks (Ad). A 70% Rally Isn't Chord Energy's Only Selling Point. Amazon's $350 Price Tar",
+   "published": "Tue, 27 Oct 2026 08:17:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? - Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "# Algeria’s military deployment to Niger: What’s behind the move? *This will be Algeria’s first foreign troop deployment in 50 years as the country shifts its military doctrine amid new security challenges.*. Algeria’s parliament has approved a proposal to deploy troops to neighbouring Niger, in a major shift in the North African nation’s noninterventionist military doctrine. Algeria’s lower house",
+   "published": "Mon, 26 Oct 2026 09:59:27 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_orano",
  "_query": "Orano Niger uranium",
  "_domains": [],

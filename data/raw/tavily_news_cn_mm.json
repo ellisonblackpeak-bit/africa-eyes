@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Morocco Seeks to Attract Chinese Investors Through New Business Opportunities - Morocco World News",
+   "url": "https://www.moroccoworldnews.com/2026/10/343679/morocco-seeks-to-attract-chinese-investors-through-new-business-opportunities/",
+   "snippet": "## Morocco’s strategic location and business opportunities are drawing Chinese companies seeking access to African and European markets. Moroccan and Chinese business representatives and legal professionals. Agadir – Moroccan and Chinese business representatives and legal professionals met to discuss investment opportunities, cross-border legal services, and market access at a conference organized",
+   "published": "Sat, 24 Oct 2026 17:52:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Agriculture Development: Myanmar Avocado and Fruit Festival in Yangon - Myanmar International TV",
+   "url": "https://www.myanmaritv.com/news/agriculture-development-myanmar-avocado-and-fruit-festival-yangon",
+   "snippet": "# Agriculture Development: Myanmar Avocado and Fruit Festival in Yangon. The Myanmar Avocado and Fruit Festival 2026 opened on Saturday at Myay Padetha Kyun in Bahan Township of Yangon Region. At the opening ceremony, Deputy Minister for Agriculture, Livestock and Irrigation Dr. Ye Tint Tun said Myanmar avocados have strong export potential due to their quality and nutritional value. He also stres",
+   "published": "Sun, 25 Oct 2026 04:18:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EXCLUSIVE: How purchases of sanctioned Iranian jet fuel were disguised by Myanmar - Reuters",
+   "url": "https://www.reuters.com/business/energy/how-purchases-sanctioned-iranian-jet-fuel-were-disguised-by-myanmar-2026-10-26/",
+   "snippet": "## Browse World. ## Browse Business. In reality, Reef carried jet fuel from Iran to Myanmar, according to records of fuel shipments to Myanmar, as well as satellite images and analysis by SynMax Intelligence, which tracked the tanker’s journey from the Iranian port of Bandar Abbas to Southeast Asia. Days before Reef arrived, Myanmar’s foreign exchange regulator told the client of Dynamic Wave that",
+   "published": "Mon, 26 Oct 2026 04:02:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kodal Minerals eyes lithium expansion across West Africa - Semafor",
+   "url": "https://www.semafor.com/article/10/26/2026/kodal-minerals-eyes-lithium-expansion-across-west-africa",
+   "snippet": "Intelligence for the New World Economy. In your inbox, 3x per week. # Kodal Minerals eyes lithium expansion. Oct 26, 2026, 9:29am EDT. Kodal Minerals plans to expand its lithium business across West Africa, betting the gold-rich region can become a major supplier of the battery metal, Reuters reported. The London-listed miner began producing lithium last year in Mali, in a joint venture with Chine",
+   "published": "Mon, 26 Oct 2026 13:29:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How purchases of sanctioned Iranian jet fuel were disguised by Myanmar - The Jerusalem Post",
+   "url": "https://www.jpost.com/middle-east/iran-news/article-912857",
+   "snippet": "# How purchases of sanctioned Iranian jet fuel were disguised by Myanmar. ## Reef carried sanctioned jet fuel from Iran to Myanmar, according to records of fuel shipments to Myanmar, as well as satellite images and analysis by SynMax Intelligence. In reality, Reef carried jet fuel from Iran to Myanmar, according to records of fuel shipments to Myanmar, as well as satellite images and analysis by S",
+   "published": "Mon, 26 Oct 2026 04:23:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia - CNBC",
+   "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+   "snippet": "SoftBank Group plans to make $50 billion of investments in Malaysia, Prime Minister Anwar Ibrahim said, according to a Bloomberg report. Anwar said Saturday that Son had identified locations in Kuching, Sarawak, and peninsular Malaysia for the planned investments following a video conference between the two earlier in the week, the report said. The country's prime minister said the planned investm",
+   "published": "Mon, 26 Oct 2026 04:56:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Newmont prices Red Chris at up to $6.8 billion - Mining.com.au",
+   "url": "https://mining.com.au/newmont-prices-red-chris-at-up-to-6-8-billion/",
+   "snippet": "Newmont prices Red Chris at up to $6.8 billion•Hercules bulks up placement to $45.7 million•Türkiye coal mine explosion kills three workers•Ghana signals Gold Fields may retain Tarkwa•Rio Tinto leads Canada’s $196 million aluminium backing•Benchmark: 134 new lithium mines required for the EV industry•Citi says LME Week participants cautious on metals outlook•Viridian drills broader Kraken copper-n",
+   "published": "Sat, 24 Oct 2026 18:07:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NeoTerra Lifts Monte Muambe Interest to 70% After Phase 3 - News and Statistics - IndexBox",
+   "url": "https://www.indexbox.io/blog/neoterra-raises-stake-in-monte-muambe-to-70-after-phase-3-completion/",
+   "snippet": "*NeoTerra Group, a critical minerals exploration company listed in London, has completed Phase 3 of a farm-out agreement for the Monte Muambe critical minerals project in Mozambique, according to Mining Weekly. The company confirmed it satisfied the minimum expenditure requirement for that phase, a step that lifts its interest in subsidiary Monte Muambe Mining from 51% to 70%.*. The company pointe",
+   "published": "Mon, 26 Oct 2026 11:30:59 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Encore Systems India Signs MoUs for 25 GWh BESS Manufacturing at REI Expo 2026 - Energetica India Magazine",
+   "url": "https://www.energetica-india.net/news/encore-systems-india-signs-mous-for-25-gwh-bess-manufacturing-at-rei-expo-2026",
+   "snippet": "Home › Business ›Encore Systems India Signs MoUs for 25 GWh BESS Manufacturing at REI Expo 2026. # Encore Systems India Signs MoUs for 25 GWh BESS Manufacturing at REI Expo 2026. Encore Systems India has signed four MoUs to establish BESS manufacturing lines with a combined annual capacity of 25 GWh at the REI Expo 2026. (ENIPL) has signed memoranda of understanding (MoUs) with four companies to e",
+   "published": "Mon, 26 Oct 2026 15:52:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The fine print on America’s drug deals with China | Opinion - The Providence Journal",
+   "url": "https://www.providencejournal.com/story/opinion/columns/2026/10/25/the-fine-print-on-drug-deals-with-china-could-harm-us-opinion/92267627007/",
+   "snippet": "The fine print on America’s drug deals with China | Opinion. * Major U.S. pharmaceutical companies are signing deals worth billions with Chinese drugmakers. * These deals transfer American capital and scientific expertise, strengthening China's biotech industry. * The author argues this trend poses a national security threat by giving China leverage over future U.S. medicine access. * The proposed",
+   "published": "Sun, 25 Oct 2026 10:08:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Elon Musk and Madagascar’s richest man turn to the same sector with $1 billion US media bet and $450 million Nigeria deal - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/elon-musk-and-madagascars-richest-man-turn-to-the-same-sector-with-dollar1-billion-us/gzh5sjr",
+   "snippet": "* Elon Musk has invested $1 billion in the American media company Skydance, strengthening his ties with the Ellison family. * Ylias Akbaraly is leading a $450 million project via Thomson Broadcast to modernize public broadcasting in Nigeria, potentially marking one of Africa's largest media infrastructure upgrades. ### Elon Musk backs Skydance with $1 billion investment in the United States. In th",
+   "published": "Sat, 24 Oct 2026 18:59:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Masdar to acquire over 550MW Greek solar project from Lightsource bp - Power Technology",
+   "url": "https://www.power-technology.com/news/masdar-acquire-550mw-solar-lightsource-bp/",
+   "snippet": "# Masdar to acquire over 550MW Greek solar project from Lightsource bp. The acquisition includes two privately owned substations, and Masdar plans to explore integrating battery storage for the solar facility. UAE-based future energy company Masdar has agreed to acquire and develop a solar photovoltaic (PV) project in Greece with capacity exceeding 550MW from Lightsource bp. The project is schedul",
+   "published": "Mon, 26 Oct 2026 07:08:53 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_mm",
  "_query": "Chinese company Myanmar investment project",
  "_domains": [],

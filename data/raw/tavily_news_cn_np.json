@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China bets on manufactured water, and wants to sell it to the world | Reuters",
+   "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22",
+   "snippet": "The push is rooted in domestic risk. In August, a ​glacier collapse near the border between Nepal and Tibet showed how volatile natural water sources are becoming.\n\nTibet's \"water towers\" feed headwaters for nearly 2 billion people across South, Southeast and East Asia, and climate change ​is eroding them. Meanwhile, severe over-extraction in northern China has depleted groundwater and left key fa",
+   "published": "Thu, 22 Oct 2026 05:35:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rupak Sapkota Discusses Bhote Koshi Flood, Nepal-China Relations",
+   "url": "https://www.ratopati.com/lang-url/589471/en",
+   "snippet": "Rupak Sapkota, an expert on Nepal-China affairs, discusses the Bhote Koshi flood's impact, international attention, climate change, and the need for",
+   "published": "Thu, 22 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_np",
  "_query": "Chinese company Nepal investment hydropower",
  "_domains": [],

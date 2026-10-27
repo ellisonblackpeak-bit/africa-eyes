@@ -1,14 +1,20 @@
 [
  {
-  "key": "2906702d7be9166e",
+  "key": "8a01a05ca65e1458",
   "group": "news",
-  "field": "summary",
-  "en": "The Department of State Services has arraigned Mubarak Abdullahi for sharing a fake document purportedly written by President Bola Tinubu to the US Preside Read More: https://punchng.com/dss-arraigns-man-over-fake-tinubu-letter-to-us-president/"
+  "field": "body",
+  "en": "President Bola Tinubu has written the Senate, seeking approval of a supplementary external borrowing plan of $20.52 billion and €1.045 billion to finance infrastructure and development projects across the country. The post appeared first on Vanguard News"
  },
  {
-  "key": "8cb19c0e2a0ee1a3",
+  "key": "71fb13bf8c48f338",
+  "group": "news",
+  "field": "summary",
+  "en": "President Bola Tinubu has written the Senate, seeking approval of a supplementary external borrowing plan of $20.52 billion and €1.045 billion to finance infrastructure and development projects across the country."
+ },
+ {
+  "key": "6bbad625c3723a53",
   "group": "news",
   "field": "title",
-  "en": "DSS arraigns man over fake Tinubu letter to US President"
+  "en": "Tinubu writes Senate, seeks $20.5bn, €1.04bn foreign loans to fund projects"
  }
 ]

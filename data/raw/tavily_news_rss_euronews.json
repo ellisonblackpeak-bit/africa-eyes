@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "'Unacceptable violation': Syria condemns Jordan airstrikes",
+   "url": "https://www.euronews.com/2026/10/27/unacceptable-violation-syria-condemns-jordan-airstrikes",
+   "content": "A government spokesperson said Jordan had \"avoided\" civilian sites and that it regretted \"unintended casualties,\" stressing that the country had \"deep respect\" for the Syrian state and people.",
+   "published_date": "Tue, 27 Oct 2026 15:42:02 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Italian archaeologists discover links to tomb of Jesus underneath Jerusalem's Church of the Holy Sepulchre",
+   "url": "https://www.euronews.com/2026/10/27/italian-archaeologists-discover-links-to-tomb-of-jesus-underneath-jerusalems-church-of-the",
+   "content": "Italian researchers have found a burial ground beneath Jerusalem's Church of the Holy Sepulchre, matching biblical accounts of the location of Jesus' burial.",
+   "published_date": "Tue, 27 Oct 2026 15:04:50 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Latest news bulletin | October 27th, 2026 – Midday",
    "url": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-midday",
    "content": "Catch up with the most important stories from around Europe and beyond this October 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/video/2026/10/26/brazil-thousands-flood-streets-to-celebrate-lulas-election-victory",
    "content": "Tears, hugs and dancing filled the streets of Brazil after Lula narrowly defeated Flávio Bolsonaro. Thousands celebrated in Rio and São Paulo as the president secured another four years in office.",
    "published_date": "Mon, 26 Oct 2026 08:47:52 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 26th, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Mon, 26 Oct 2026 07:00:32 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Brazil's Lula clinches election victory as Bolsonaro rejects results",
-   "url": "https://www.euronews.com/2026/10/26/brazils-lula-clinches-election-victory-as-bolsonaro-rejects-results",
-   "content": "Lula's triumph bucks a regional trend of victories for right-of-center presidential candidates allied with Trump. It also means Latin America’s largest economy will likely continue defying Trump’s demands, despite the pressure of increased tariffs.",
-   "published_date": "Mon, 26 Oct 2026 05:10:03 +0100",
    "score": 0.6
   }
  ],

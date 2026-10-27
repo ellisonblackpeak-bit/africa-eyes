@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation",
+   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
+   "snippet": "Chinese investment in Vietnam is expanding beyond traditional manufacturing into emerging sectors such as artificial intelligence (AI), the digital economy",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese companies are drawing attention as they head to Thailand in increasing numbers to avoid tari.. - MK",
+   "url": "https://www.mk.co.kr/en/world/12181596",
+   "snippet": "Donald Low, a professor in the Department of Public Policy at the Hong Kong University of Science and Technology, told SCMP, “Infrastructure bottlenecks and rising labor costs are making Vietnam less attractive as a destination for manufacturing investment.” He added, “By contrast, Thailand has a mature and sophisticated manufacturing base.” [...] A quarter of investment projects approved by the T",
+   "published": "Wed, 21 Oct 2026 03:18:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Op-Ed: US tariff war is fueling Vietnam's coal boom - MINING.COM",
+   "url": "https://www.mining.com/web/op-ed-us-tariff-war-is-fueling-vietnams-coal-boom",
+   "snippet": "Reuters | October 23, 2026 | 8:45 am  Energy Exploration Markets Asia China USA Coal\n\nStock image.\n\n(The opinions expressed here are those of Gavin Maguire, a columnist for Reuters.)\n\nA years-long trade war between the United States and China has helped shift manufacturing investment, factory output and export production into Vietnam, driving the Southeast Asian nation’s coal-fired electricity gen",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "In Focus | ‘Poster child’: why more Chinese firms have Thailand in their expansion plans | South China Morning Post",
+   "url": "https://www.scmp.com/economy/global-economy/article/3371529/poster-child-why-more-chinese-firms-have-thailand-their-expansion-plans",
+   "snippet": "Advertisement\n\nChinese offshore investment\n\nEconomyGlobal Economy\n\n# In Focus‘Poster child’: why more Chinese firms have Thailand in their expansion plans\n\nThe Land of Smiles has become a prime location for Chinese businesses diversifying operations offshore, as Vietnam reaches saturation point\n\n6-MIN READ6-MIN\n\nIllustration: Henry Wong\n\nFrank Chenin Shanghai [...] Vietnam, popular for much of thi",
+   "published": "Tue, 20 Oct 2026 22:00:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam–Denmark Comprehensive Strategic Partnership: Investor Outlook",
+   "url": "https://www.vietnam-briefing.com/news/vietnam-denmark-comprehensive-strategic-partnership-business-opportunities.html",
+   "snippet": "Vietnam’s government has made a preliminary investment estimate of approximately US$3.5 billion for the planned projects. This is an early-stage proposal involving research and proposed investment; the announcement does not establish completed financing or construction commitments.\n\nManufacturers and logistics providers should monitor subsequent decisions on locations, transport connections, capac",
+   "published": "Wed, 21 Oct 2026 12:21:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "APM Terminals, Hateco explore Vietnam rail logistics investment ‣ WorldCargo News",
+   "url": "https://www.worldcargonews.com/news/2026/10/apm-terminals-hateco-explore-vietnam-rail-logistics-investment",
+   "snippet": "WorldCargo News – Leading site for cargo handling industry\n\nMenu\n\nsearch\n\n# APM Terminals, Hateco explore Vietnam rail logistics investment\n\nMaersk vessel berthed at HHIT Hateco Group\n\nAPM Terminals and Vietnam’s Hateco Group have signed a Memorandum of Understanding (MoU) to explore opportunities for a rail terminal handling facility in Vietnam and potential synergies with their existing investme",
+   "published": "Wed, 21 Oct 2026 06:51:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Q3 2026 GDP: Industry, Trade, and Business Implications",
+   "url": "https://www.china-briefing.com/news/china-q3-2026-gdp",
+   "snippet": "China Briefing is one of five regional Asia Briefing publications. It is supported by Dezan Shira & Associates, a pan-Asia, multi-disciplinary professional services firm that assists foreign investors throughout Asia, including through offices in Beijing, Tianjin, Dalian, Qingdao, Shanghai, Hangzhou, Ningbo, Suzhou, Guangzhou, Haikou, Zhongshan, Shenzhen, and Hong Kong in China. Dezan Shira & Asso",
+   "published": "Wed, 21 Oct 2026 14:06:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Proposes New Rules on Trade Secrets, Including Export Bans and Investment Restrictions for Foreign Firms — BigGo Finance",
+   "url": "https://finance.biggo.com/news/64b2f76f-a65d-43f4-83b8-f27d2dfbafef",
+   "snippet": "China's Ministry of Commerce unveiled draft special provisions on trade secret protection on the 26th. If foreign companies, organizations, or individuals infringe on Chinese companies' trade secrets through economic activities and harm or threaten China's national sovereignty, security, or development interests, penalties including export bans, investment restrictions, entry restrictions, and fin",
+   "published": "Mon, 26 Oct 2026 12:35:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "| Global Sources",
+   "url": "https://www.globalsources.com/sourcing-digest/vietnam-seeks-deeper-role-in-global-semiconductor-value-chain?source=GSOLHP_SKC_1",
+   "snippet": "We use cookies to give you the best possible experience on our website. For more details including how to change your cookie settings, please read our Cookie Policy\n\nImage 1Sourcing Digest\n\nRSS & SUBSCRIBE\n\nHomeMarket TrendsInnovationStrategy & AnalysisSourcing & Supply ChainRegulations & ComplianceSupplier Tips\n\nHome / \n\nTerms of UsePrivacy PolicySecurity MeasuresIP PolicyCookie PolicyCookie Pref",
+   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],

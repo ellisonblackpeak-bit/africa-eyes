@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Fitattun malaman Addinin Musulunci 7 da aka yi wa kisan gilla a arewacin Najeriya",
+   "url": "https://www.bbc.com/hausa/articles/cmn4eg2kp11vo?at_medium=RSS&at_campaign=rss",
+   "content": "A ranar Litinin da maraice ne wasu ƴanbindiga ɗauke da makamai suka buɗe wa malamain wuta jim kaɗan bayan fita daga gidansa domin halartar wurin da yake karantawar.",
+   "published_date": "Tue, 27 Oct 2026 14:16:49 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Shugaba Tinubu ne neman ciyo bashin sama da dala biliyan 20",
+   "url": "https://www.bbc.co.uk/hausa/live/c620rzeqyg9vt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 27/10/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Wane ne Sheikh Yahaya Masussuka da ƴan bindiga suka kashe?",
    "url": "https://www.bbc.com/hausa/articles/c8zxl411n35go?at_medium=RSS&at_campaign=rss",
    "content": "A wata tattaunawa da BBC, baturen ‘yansanda reshen Dutsen Ma ya bayyana cewa wasu ‘yan bindiga ne suka kashe mashahurin malamin a yammacin Litinina kofar gidansa.",
    "published_date": "Mon, 26 Oct 2026 22:35:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Sojojin Najeriya sun ce sun hallaka mayaƙan ISWAP 16 a Tafkin Chadi",
-   "url": "https://www.bbc.co.uk/hausa/live/c620rzeqyg9vt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 27/10/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Ƴan Houthi sun yi iƙirarin kai hari tashoshin tura mai na Saudiyya",
-   "url": "https://www.bbc.co.uk/hausa/live/cq4g1wn21w1et?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 26/10/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.com/hausa/articles/cw7vp033m22do?at_medium=RSS&at_campaign=rss",
    "content": "Manyan ƙungiyoyin na ci gaba da sa ido kan ɗan wasan Brighton Luka Vuskovic, sai dai Liverpool ba ta da niyar ɗauko ɗan wasan Trent Alexander-Arnold zuwa ƙungiyar, iyayin da kuma AC Milan ke harin ɗan wasan Manchester United Leny Yoro.",
    "published_date": "Sun, 25 Oct 2026 03:49:08 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ƴan Houthi sun yi iƙirarin kai hari tashoshin tura mai na Saudiyya",
+   "url": "https://www.bbc.co.uk/hausa/live/cq4g1wn21w1et?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 26/10/2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -181,34 +188,6 @@
    "url": "https://www.bbc.com/hausa/articles/cvglw6lnkk9do?at_medium=RSS&at_campaign=rss",
    "content": "Wani abu da ya ja hankali a game da taron shi ne yadda Tinubu ya ƙaddamar da wani ɓangare na aikin titin Abuja zuwa Kaduna zuwa Kano a filin taron.",
    "published_date": "Sat, 24 Oct 2026 17:40:54 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abu 5 da ya kamata ku sani kan fara yaƙin neman zaɓen Tinubu a Kaduna",
-   "url": "https://www.bbc.com/hausa/articles/cmly031r2vqlo?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da Najeriya ke shirin gudanar da babban zaben shekarar 2027, jam'iyyar APC ta shirya fara yakin neman zaben sake zaben Shugaba Bola Ahmed Tinubu a ranar 24 ga Oktoba, 2026, a Jihar Kaduna.",
-   "published_date": "Sat, 24 Oct 2026 04:01:40 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Jihohi 7 da Atiku Abubakar zai iya fuskantar ƙalubale a 2027",
-   "url": "https://www.bbc.com/hausa/articles/cm9dz90w0y7eo?at_medium=RSS&at_campaign=rss",
-   "content": "Sadai dai ana ganin dukkan ƴan takarar akwai jihohi da sassan ƙasar da za su yi tasiri, sannan akwai jihohi da sassan da ake ganin za su fuskanci ƙalubale wajen tara ƙuri'u.",
-   "published_date": "Sat, 24 Oct 2026 04:02:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda wata cutar shanu ta yi sanadin mutuwar mutum a karon farko a duniya",
-   "url": "https://www.bbc.com/hausa/articles/c35ynpzrqw8jo?at_medium=RSS&at_campaign=rss",
-   "content": "Shav cuta ce da ta fi shafar shanu, wadda ake iya yaɗa ta ta hanyar ƙananan ƙwari masu shan jini da aka sani da midges.",
-   "published_date": "Fri, 23 Oct 2026 17:18:19 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa har yanzu Houthi ke samun nasara wajen kai wa Saudiyya hari?",
-   "url": "https://www.bbc.com/hausa/articles/cqkgkex5zxz1o?at_medium=RSS&at_campaign=rss",
-   "content": "Duk da cewa Saudiyya na daga cikin ƙasashen da suka fi kashe kuɗi wajen tsaro a duniya, Houthi sun ci gaba da nuna cewa suna da damar kai hare-hare ta amfani da makamai masu linzami da jirage marasa matuƙa.",
-   "published_date": "Sat, 24 Oct 2026 03:58:04 GMT",
    "score": 0.6
   }
  ],

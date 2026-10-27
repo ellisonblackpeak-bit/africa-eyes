@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Military ups death toll in Mali attack to 54",
+   "url": "https://citizen.digital/article/military-ups-death-toll-in-mali-attack-to-54-n392703",
+   "snippet": "Following the attack, a patrol was launched in the area which \"discovered fifty-four (54) lifeless bodies in a camp in Tagadayat\", Mali's armed forces said.\n\nSources had previously indicated to AFP that at least 48 people had died.\n\nThe armed forces said that the victims were buried on site and that nine survivors were evacuated to the city of Menaka.\n\nIt added that testimonies indicated that the ",
+   "published": "Sun, 25 Oct 2026 11:21:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses, HRW Says - Eurasia Review",
+   "url": "https://www.eurasiareview.com/23102026-mali-army-russias-africa-corps-commit-new-abuses-hrw-says",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Fri, 23 Oct 2026 00:35:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/22/mali-army-russias-africa-corps-commit-new-abuses",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least thirteen deceased in an attack attributed to the Malian Army and Russian forces near Mauritania",
+   "url": "https://www.democrata.es/en/international/at-least-thirteen-deceased-in-an-attack-attributed-to-the-malian-army-and-russian-forces-near-mauritania/amp",
+   "snippet": "Thirteen people, among them seven children, die in a drone attack attributed to the Malian Army and Africa Corps in the area of Hassi Laghdaf.",
+   "published": "Mon, 26 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Jihadists blamed for Mali attack, 48 dead: sources",
+   "url": "https://www.modernghana.com/news/1537773/jihadists-blamed-for-mali-attack-48-dead-sources.html",
+   "snippet": "A security source based in the city of Gao told AFP the massacre occurred \"in retaliation for military operations carried out in the area recently and for attacks by the MSA\".\n\nMali has been plagued since 2012 by a security crisis pitting the army and its Russian allies against jihadist fighters, Tuareg separatist groups and criminal gangs.\n\nEconomic instability has fuelled the crisis. [...] Since",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "MP: 48 killed in Islamic State attack in eastern Mali",
+   "url": "https://en.vijesti.me/world-a/globus/832449/MP%3A-48-people-killed-in-Islamic-State-attack-in-eastern-Mali",
+   "snippet": "Moussa Ag Asharatoman, a Tuareg leader and member of the National Transitional Council, said that fighters from the \"Islamic State in the Sahel Province\" (ISSP) carried out the attack on the night between Sunday and Monday, and that children and elderly people were among the victims.\n\nAccording to Ag Asharatuman, this armed group attacked civilians, accusing them of revealing ISSP positions to the",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Attack by Islamic State-affiliated group in Mali kills 48 - The Hindu",
+   "url": "https://www.thehindu.com/news/international/attack-by-islamic-state-affiliated-group-in-mali-kills-48/article71605269.ece",
+   "snippet": "Gunmen kill at least 40 civilians in Mali: security and community sources\n\nAccording to Moussa Ag Acharatoumane, the armed group attacked civilians, accusing them of revealing ISSP positions to the Malian army who had been conducting a drone strike on the group.\n\nISSP operates mostly in the Ménaka region, where it faces stiff competition from another militant group, Jama'at Nusrat al-Islam wal-Mus",
+   "published": "Tue, 20 Oct 2026 16:21:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Attack by Daesh-affiliated group in Mali kills 48 people",
+   "url": "https://www.arabnews.com/world/attack-by-daesh-affiliated-group-in-mali-kills-48-people-3007359",
+   "snippet": "BAMAKO, Mali: A weekend attack by militants affiliated to the Daesh group killed 48 people in the Menaka region of eastern Mali, a lawmaker told The",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Sudanese drone attack kills more than 150 people in Abyei market, official says",
+   "url": "https://www.tbsnews.net/worldbiz/africa/sudanese-drone-attack-kills-more-150-people-abyei-market-official-says-1578941",
+   "snippet": "The Sudanese Armed Forces and the RSF have recently escalated drone strikes, with a series of attacks targeting RSF-held Nyala and army-held Khartoum",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mali_atk",
  "_query": "Mali army attack",
  "_domains": [],

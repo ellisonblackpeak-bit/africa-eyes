@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Retaliation Threatened if the UK Joins EU Tariffs on Chinese Electric Vehicles - autoevolution",
-   "url": "https://www.autoevolution.com/news/retaliation-threatened-if-the-uk-joins-eu-tariffs-on-chinese-electric-vehicles-277463.html",
-   "snippet": "For the time being, as highlighted by Automotive News, the United Kingdom still applies its 10 percent import tariff to China-made vehicles of all types. The EU has added specific duties aimed at Chinese battery-electric vehicles, and you are correct to view those duties as a protectionist response.\n\nPhoto: Lepas [...] As a case in point, the EU imposed additional countervailing duties of up to 35",
-   "published": "Fri, 23 Oct 2026 15:14:08 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "China threatens countermeasures if UK aligns with EU on tariffs",
    "url": "https://www.automotivelogistics.media/supply-chain/chinas-ministry-of-commerce-threatens-countermeasures-if-uk-aligns-with-eu-on-tariffs-for-chinese-evs/2756418",
    "snippet": "\"Should the UK insist on imposing restrictive measures on Chinese electric vehicles, China will take resolute countermeasures to safeguard the legitimate rights and interests of Chinese industries,\" the spokesperson concluded.\n\nWhile the EU has had tariffs on Chinese battery-electric vehicle (BEV) imports since 2024, the UK has not currently introduced any China-specific EV tariffs. [...] Sawar to",
@@ -30,6 +23,13 @@
    "source": "tavily"
   },
   {
+   "title": "Asia braces for Europe’s turn on Chinese overcapacity | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/25/asia-braces-for-europes-turn-on-chinese-overcapacity",
+   "snippet": "The trade imbalance is stark. The EU’s goods deficit with China reached around €360 billion (US$407 billion) in 2025 and has run at roughly €1 billion a day since mid-2026, while Chinese customs data show exports to the EU up 25 per cent year-on-year in September. Every EU member now runs a deficit with China, most of which sits in machinery, chemicals, metals, batteries, solar panels and informat",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "EU and China weigh next sectors for trade curbs  – POLITICO",
    "url": "https://www.politico.eu/article/eu-and-china-weigh-next-sectors-for-trade-curbs",
    "snippet": "“In January we can assess how it worked and if it delivered all parts of our agreement,” Šefčovič said, referring to an Oct. 9 pact by which China will voluntarily reduce exports of hybrid vehicles to the EU by almost half to 350,000 units in 2027.\n\nThat deal also lowers tariffs on European goods such as auto parts and footwear, and smooths exports of rare earth elements to the EU. [...] At a pres",
@@ -44,10 +44,10 @@
    "source": "tavily"
   },
   {
-   "title": "What the EU–China trade deal means for Asia | East Asia Forum",
-   "url": "https://eastasiaforum.org/2026/10/26/what-the-eu-china-trade-deal-means-for-asia",
-   "snippet": "The European Union’s agreement with China to restrict automotive imports reflects a growing turn towards protectionism that may shield struggling European manufacturers in the short term but risks raising consumer prices, delaying decarbonisation and weakening incentives for industrial innovation. As Chinese exports are redirected towards Asia, regional economies face intensifying competition and ",
-   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
+   "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -61,7 +61,7 @@
    "title": "Explainer: How can EU limit impact of China Shock 2.0?",
    "url": "https://www.reuters.com/world/china/how-can-eu-limit-impact-china-shock-20-2026-10-23",
    "snippet": "European Union ministers said on Friday the bloc should press ahead with its discussions with Beijing and expand a deal struck to limit imports of hybrid",
-   "published": "Sat, 24 Oct 2026 11:00:00 GMT",
+   "published": "Fri, 23 Oct 2026 14:00:00 GMT",
    "source": "tavily"
   },
   {
