@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Exit polls suggest no clear victor in Israeli election",
+   "url": "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election",
+   "content": "Netanyahu has spent much of the day calling on supporters to get out and vote, painting the election as a \"matter of life and death.\"",
+   "published_date": "Tue, 27 Oct 2026 21:10:40 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Egypt’s parliament approves military support for Saudi Arabia amid Houthi attacks",
+   "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
+   "content": "Egypt has approved military help for Saudi Arabia if requested as Houthi attacks threaten the kingdom and Red Sea shipping. The vote comes as Saudi officials hold talks in Iran amid regional efforts to prevent a further escalation of the fighting.",
+   "published_date": "Tue, 27 Oct 2026 19:57:06 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
    "url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
    "content": "Regional powers are seeking a way out of the Iran war as attacks threaten shipping and energy supplies. Qatar says mediation continues after a visit to Tehran, where Saudi Arabia, Pakistan and Turkey have also held talks with Iranian leaders.",
@@ -23,9 +37,9 @@
    "score": 0.6
   },
   {
-   "title": "Brazilian police probe claims Flávio Bolsonaro fled via Argentina after election defeat",
+   "title": "Flávio Bolsonaro reportedly leaves Brazil for US after election defeat",
    "url": "https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat",
-   "content": "In a video post shared on social media on Monday, Bolsonaro said he had been banned from leaving Brazil and that he had been \"served a notice to surrender my passports.\"",
+   "content": "A police source told the AFP news agency that Bolsonaro's passports had been \"cancelled\" and that there was \"no formal record\" of him leaving the country.",
    "published_date": "Tue, 27 Oct 2026 17:03:31 +0100",
    "score": 0.6
   },
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
    "content": "This rare move comes amid strengthened security ties between Algeria and Niamey following the thwarting of an attempted coup in Niger in August.",
    "published_date": "Mon, 26 Oct 2026 14:09:23 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
-   "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
-   "content": "Trump administration officials are reportedly floating former Hungarian prime minister Viktor Orbán for UN secretary-general, potentially backed by the US, Russia and China, though nothing is confirmed and his selection remains uncertain.",
-   "published_date": "Mon, 26 Oct 2026 12:11:58 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Why Israel’s wartime election isn’t just about the battle with Iran and Hamas",
-   "url": "https://www.euronews.com/2026/10/26/why-israels-wartime-election-isnt-just-about-the-battle-with-iran-and-hamas",
-   "content": "From army exemptions for the ultra-Orthodox to a stalled 7 October inquiry, the issues splitting voters have little to do with Gaza, Lebanon or Iran.",
-   "published_date": "Mon, 26 Oct 2026 12:01:54 +0100",
    "score": 0.6
   }
  ],

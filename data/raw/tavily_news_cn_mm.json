@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Myanmar students explore Chinese culture through language training programme | The Star",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/26/myanmar-students-explore-chinese-culture-through-language-training-programme",
+   "snippet": "Liu Qing, deputy general manager of CITIC Myanmar, said the project began in 2019, reflecting the company's commitment to supporting local youth as it worked with Myanmar partners to advance the Kyaukphyu project.\n\nSince 2024, the company has continued to offer Chinese-language training in Yangon in collaboration with its partners, guided by a vision of supporting Kyaukphyu's future and regional d",
+   "published": "Mon, 26 Oct 2026 11:08:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Taps Myanmar’s Rare Earth Surge, Coffee Sell-Off, and More",
+   "url": "https://www.irrawaddy.com/news/china-briefing/china-taps-myanmars-rare-earth-surge-coffee-sell-off-and-more.html",
+   "snippet": "MCA chairman Myo Aye told Xinhua that cooperation with Yunnan has deepened since the military takeover, with new MoUs locking in China as the top destination for Myanmar’s 3,000–4,000 tonnes of annual exports—tumbling from pre-coup levels of more than 5,000 tonnes. He said the association is looking to attract Chinese investment in value-added processing facilities, roasting plants and supply-chai",
+   "published": "Fri, 23 Oct 2026 12:13:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Myanmar social entrepreneur eyes materializing Chinese market opportunities for honey-Xinhua",
+   "url": "https://english.news.cn/20261021/d8a0c52021cf48aca0a4a3ecb18c753c/c.html",
+   "snippet": "This photo taken on Oct. 13, 2026 shows products of Plan Bee displayed at its office in Yangon, Myanmar. (Xinhua/San Wai Aung)\n\nBeyond market differentiation, she is scaling up R&D to sharpen competitiveness. \"We are currently working with over 100 beekeepers and around 3,000 beehives. We plan to expand our beehive count in the coming years. To that end, we have launched a queen-bee insemination p",
+   "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Sihasak asks Chinese Embassy to keep travel warnings proportionate",
+   "url": "https://www.nationthailand.com/news/tourism/40072565",
+   "snippet": "The Chinese Embassy cautioned against investment projects and business partnerships offering unusually high returns, particularly opportunities presented as guaranteed to make money without any risk of loss. Prospective participants should check the authenticity of the project, the credentials of business partners and the details of financial transactions. [...] Applicants should verify the recrui",
+   "published": "Wed, 21 Oct 2026 04:54:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Pulls Out of Logistics Hub Project at Colombo Port – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/china-pulls-out-of-logistics-hub-project-at-colombo-port",
+   "snippet": "##### Society\n\n#### ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge\n\n##### Diplomacy\n\n#### China’s Advance in the Bahamas\n\n##### Security\n\n#### Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula\n\n### The Pulse | Economy | South Asia\n\n# China Pulls Out of Logistics Hub Project at Colombo Port [...] Lomé’s maritime ambitions, deepening ti",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China-EU’s path to prosperity is partnership – Asia News Network",
+   "url": "https://asianews.network/china-eus-path-to-prosperity-is-partnership",
+   "snippet": "German companies’ direct investment in China increased by around 5.6 billion euros in the first six months of the year, about one-third more compared with the same period last year, according to analyses by the German Economic Institute.\n\nIn 2025, Chinese companies launched 228 investment projects in Germany, up 14.6 percent year-on-year, making China the largest source of foreign investment proje",
+   "published": "Fri, 23 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China urges US to halt proposed expansion of outbound investment curbs",
+   "url": "https://www.thestandard.com.hk/finance/article/346410/China-urges-US-to-halt-proposed-expansion-of-outbound-investment-curbs",
+   "snippet": "WORLD\n\n24-10-2026 13:04 HKT\n\nlogo\n\nThailand's Deputy Prime Minister and Foreign Minister Sihasak Phuangketkeow gestures during an exclusive interview with Reuters about Myanmar diplomacy and the upcoming ASEAN summit at the Ministry of Foreign Affairs, in Bangkok, Thailand, May 5, 2026. REUTERS/Chalinee Thirasupa/File Photo\n\nThailand welcomes US-Myanmar engagement, expects ASEAN talks on country's",
+   "published": "Sun, 25 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Embassy warns Chinese nationals of job scams and abductions in Thailand - Khmer Times",
+   "url": "https://www.khmertimeskh.com/502042819/embassy-warns-chinese-nationals-of-job-scams-and-abductions-in-thailand",
+   "snippet": "Travellers were advised to be wary of unusually high salaries, vague job descriptions and promises of guaranteed investment returns.\n\nThe embassy also cautioned against unnecessary travel to high-risk areas near the Thai-Myanmar border.\n\nChinese nationals were encouraged to share their itineraries with family members, keep their phones accessible and avoid handing over passports or bank cards to o",
+   "published": "Wed, 21 Oct 2026 01:46:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The US Is Losing to China in the Battle of Global Influence – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/the-us-is-losing-to-china-in-the-battle-of-global-influence",
+   "snippet": "This isn’t a new trend. Pundits have warned for more than two decades that Beijing is approaching traditional U.S. partners with something tangible to offer.  \n\nThrough its Belt and Road Initiative (BRI), as well as smaller bilateral and regional deals, China has smartly offered financing backed by its government for desperately needed infrastructure projects linked to access to African and Wester",
+   "published": "Thu, 22 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_mm",
  "_query": "Chinese company Myanmar investment project",
  "_domains": [],

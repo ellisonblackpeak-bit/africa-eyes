@@ -1,0 +1,23 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "PMU Mali :: LE PARI MUTUEL URBAIN DU MALI",
+   "url": "https://pmu.malijet.com/detail-du-programme-du-25_10_2026-2636.html",
+   "content": "",
+   "published_date": "2026-10-24T22:00:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ml",
+ "_query": "Mali OR Bamako OR jihadist OR orpaillage",
+ "_domains": [
+  "malijet.com",
+  "maliweb.net",
+  "reuters.com",
+  "africanews.com",
+  "allafrica.com"
+ ],
+ "_days": 3
+}

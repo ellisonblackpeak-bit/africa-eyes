@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "India's Jakson Solar to invest up to $525 million in solar cells, ingot-wafer plants - Reuters",
+   "url": "https://www.reuters.com/business/energy/indias-jakson-solar-invest-up-525-million-solar-cells-ingot-wafer-plants-2026-10-26/",
+   "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. # India's Jakson Solar to invest up to $525 million in solar cells, ingot-wafer plants. Workers clean panels at a solar park in Modhera, India's first round-the-clock solar-powered village, in the western state of Gujarat, India, October 19, 2022. NEW DELHI, Oct 26",
+   "published": "Mon, 26 Oct 2026 09:03:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Piyush Goyal holds talks with global tech and manufacturing firms on India investment opportunities - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/piyush-goyal-holds-talks-with-global-tech-and-manufacturing-firms-on-india-investment-opportunities/articleshow/135224276.cms",
+   "snippet": "Commerce and Industry Minister Piyush Goyal has held discussions with executives of semiconductor equipment maker ASML, chipmaker Nexperia, IKEA operator Ingka Group and clean-energy company Power2X, as India seeks to attract investment and expand cooperation with European businesses in technology, manufacturing and renewable energy.The meetings took place during Goyal’s visit to the Netherlands, ",
+   "published": "Tue, 27 Oct 2026 04:38:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India targets homegrown smartphone brand by October 2028 - Light Reading",
+   "url": "https://www.lightreading.com/smartphones-devices/india-targets-homegrown-smartphone-brand-by-october-2028",
+   "snippet": "India aims to launch a homegrown smartphone in two years, but competing globally will require developing stronger design capabilities and innovation. In an effort to move beyond manufacturing and own more intellectual property, India aims to develop an indigenously designed, manufactured and branded smartphone in two years, Ashwini Vaishnaw, Electronics and IT Minister said during a recent event. ",
+   "published": "Mon, 26 Oct 2026 14:44:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tata Communications to build India's AI super highway - Light Reading",
+   "url": "https://www.lightreading.com/ai-machine-learning/tata-communications-to-build-india-s-ai-super-highway",
+   "snippet": "# Tata Communications to build India's AI super highway. Tata Communications, a leading global communications technology player, today announced strategic investments of close to USD 450 million to build an AI super highway in India - a high-speed, low-latency network fabric connecting India's key AI data-centre corridors. The company will build around 10,000 kilometers of the new long-haul fiber ",
+   "published": "Mon, 26 Oct 2026 15:52:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Encore Systems India Signs MoUs for 25 GWh BESS Manufacturing at REI Expo 2026 - Energetica India Magazine",
+   "url": "https://www.energetica-india.net/news/encore-systems-india-signs-mous-for-25-gwh-bess-manufacturing-at-rei-expo-2026",
+   "snippet": "Home › Business ›Encore Systems India Signs MoUs for 25 GWh BESS Manufacturing at REI Expo 2026. # Encore Systems India Signs MoUs for 25 GWh BESS Manufacturing at REI Expo 2026. Encore Systems India has signed four MoUs to establish BESS manufacturing lines with a combined annual capacity of 25 GWh at the REI Expo 2026. (ENIPL) has signed memoranda of understanding (MoUs) with four companies to e",
+   "published": "Mon, 26 Oct 2026 15:52:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "TARIL invests Rs.1,250 crore in three new Gujarat manufacturing plants - Manufacturing Today India",
+   "url": "https://www.manufacturingtodayindia.com/taril-invests-rs-1250-crore",
+   "snippet": "Image 1: Manufacturing Today India. Home>Energy & Power>TARIL invests Rs.1,250 crore in three new Gujarat manufacturing plants. # TARIL invests Rs.1,250 crore in three new Gujarat manufacturing plants. Image 3: TARIL invests Rs.1,250 crore in three new Gujarat manufacturing plants. Transformers and Rectifiers (India) Ltd (TARIL) will invest Rs.1,250 crore to establish three greenfield manufacturin",
+   "published": "Tue, 27 Oct 2026 07:56:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India’s factory boom needs more than factories: 2 stocks, one with 50%+ EBITDA margins - The Financial Express",
+   "url": "https://www.financialexpress.com/market/stock-insights/indias-factory-boom-needs-more-than-factories-2-stocks-one-with-50-ebitda-margins/4368902/",
+   "snippet": "# India’s factory boom needs more than factories: 2 stocks, one with 50%+ EBITDA margins. India’s logistics sector is benefiting from two structural tailwinds: the China+ 1 supply chain shift and indigenisation. As manufacturers expand their operations and diversify supply chains, demand for warehousing, storage, and efficient movement of goods will rise. Two such players are LEAP India and Aegis ",
+   "published": "Sun, 25 Oct 2026 23:40:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Weekly Recap: FY2025-26 record sales and Suzuki ~Rs 77,500 crore investment - TradingView",
+   "url": "https://www.tradingview.com/news/tradingview:479d6808fa69e:0-weekly-recap-fy2025-26-record-sales-and-suzuki-rs-77-500-crore-investment/",
+   "snippet": "# Weekly Recap: FY2025-26 record sales and Suzuki ~Rs 77,500 crore investment. Maruti Suzuki India Limited (NSE:MARUTI) reported record FY2025-26 sales, profit and backlog while Suzuki backs a ~Rs77,500 crore India investment to lift Maruti Suzuki (NSE:MARUTI) capacity to 4M, make Sanand a BEV hub for the eVITARA and expand exports, Japan reach and services. * **Record Sales, Profit, Booking Rise*",
+   "published": "Mon, 26 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Outbound investment rule widens US curbs on China AI and chip deals - The Next Web",
+   "url": "https://thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech",
+   "snippet": "> “The proposed regulations would strengthen the existing Outbound Investment Security Program to prevent our adversaries from using U.S. investment to develop critical technologies that threaten U.S. national security,” Treasury Secretary Scott Bessent said. The outbound investment rule would widen limits on American money for chips, AI and other sensitive tech. That year, then-President Joe Bide",
+   "published": "Sun, 25 Oct 2026 11:44:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tata Communications to spend $450M on AI fibre network across India - The Next Web",
+   "url": "https://thenextweb.com/news/tata-communications-450m-ai-fibre-network-india",
+   "snippet": "Tata Communications plans to spend close to $450M on about 10,000km of new long-distance fibre across India. The network will connect the country’s AI data-centre hubs, Reuters reported on Monday. The Mumbai-based company, which sells data connections and cybersecurity services to businesses, set out the plan in a stock exchange filing. Later phases will reach data-centre clusters on the east coas",
+   "published": "Mon, 26 Oct 2026 09:26:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kodal Minerals eyes lithium expansion across West Africa - Semafor",
+   "url": "https://www.semafor.com/article/10/26/2026/kodal-minerals-eyes-lithium-expansion-across-west-africa",
+   "snippet": "Intelligence for the New World Economy. In your inbox, 3x per week. # Kodal Minerals eyes lithium expansion. Oct 26, 2026, 9:29am EDT. Kodal Minerals plans to expand its lithium business across West Africa, betting the gold-rich region can become a major supplier of the battery metal, Reuters reported. The London-listed miner began producing lithium last year in Mali, in a joint venture with Chine",
+   "published": "Mon, 26 Oct 2026 13:29:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tata to build US$450m ‘AI super highway’ linking India’s data centre hubs - Developing Telecoms",
+   "url": "https://developingtelecoms.com/telecom-technology/optical-fixed-networks/21030-tata-to-build-us-450m-ai-super-highway-linking-indias-data-centre-hubs.html",
+   "snippet": "## Tata to build US$450m ‘AI super highway’ linking India’s data centre hubs. Tata Communications announced on Monday it will invest nearly US$450 million to build 10,000 km of long-haul fibre infrastructure linking India’s key data centre corridors and AI hubs to create a national “AI super highway”. Tata said it will carry out the project in three phases, starting with the Mumbai-Pune-Hyderabad-",
+   "published": "Tue, 27 Oct 2026 05:26:33 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_in",
  "_query": "Chinese company India investment border",
  "_domains": [],

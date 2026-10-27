@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
+   "snippet": "The growing presence of Chinese investors is already visible in Vietnam's industrial parks, where Chinese manufacturers are bringing businesses that lie along their supply chains.  \n  \nBui The Long, general manager of Vietnam's Green i-Park Corp, told the Global Times at Tuesday's event that the company's industrial park has 36 Chinese investors, mainly operating in electronics and electrical appl",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese companies are drawing attention as they head to Thailand in increasing numbers to avoid tari.. - MK",
+   "url": "https://www.mk.co.kr/en/world/12181596",
+   "snippet": "Donald Low, a professor in the Department of Public Policy at the Hong Kong University of Science and Technology, told SCMP, “Infrastructure bottlenecks and rising labor costs are making Vietnam less attractive as a destination for manufacturing investment.” He added, “By contrast, Thailand has a mature and sophisticated manufacturing base.” [...] A quarter of investment projects approved by the T",
+   "published": "Wed, 21 Oct 2026 03:18:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese factories are 'sprouting up like mushrooms' in Africa.",
+   "url": "https://www.vietnam.vn/en/cac-nha-may-trung-quoc-moc-len-nhu-nam-tai-chau-phi",
+   "snippet": "Vietnam.vn - Nền tảng quảng bá Việt Nam\n\n# Chinese factories are 'sprouting up like mushrooms' in Africa.\n\n(CLO) Chinese companies are expanding production in Africa, creating jobs and seeking new opportunities amid overcapacity and declining profits in the domestic market.\n\nCông LuậnCông Luận•23/10/2026 [...] According to China's Ministry of Commerce, direct investment in Africa's manufacturing s",
+   "published": "Sat, 24 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Op-Ed: US tariff war is fueling Vietnam's coal boom - MINING.COM",
+   "url": "https://www.mining.com/web/op-ed-us-tariff-war-is-fueling-vietnams-coal-boom",
+   "snippet": "Reuters | October 23, 2026 | 8:45 am  Energy Exploration Markets Asia China USA Coal\n\nStock image.\n\n(The opinions expressed here are those of Gavin Maguire, a columnist for Reuters.)\n\nA years-long trade war between the United States and China has helped shift manufacturing investment, factory output and export production into Vietnam, driving the Southeast Asian nation’s coal-fired electricity gen",
+   "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "In Focus | ‘Poster child’: why more Chinese firms have Thailand in their expansion plans | South China Morning Post",
+   "url": "https://www.scmp.com/economy/global-economy/article/3371529/poster-child-why-more-chinese-firms-have-thailand-their-expansion-plans",
+   "snippet": "Advertisement\n\nChinese offshore investment\n\nEconomyGlobal Economy\n\n# In Focus‘Poster child’: why more Chinese firms have Thailand in their expansion plans\n\nThe Land of Smiles has become a prime location for Chinese businesses diversifying operations offshore, as Vietnam reaches saturation point\n\n6-MIN READ6-MIN\n\nIllustration: Henry Wong\n\nFrank Chenin Shanghai [...] Vietnam, popular for much of thi",
+   "published": "Tue, 20 Oct 2026 22:00:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnamese firms urged to move up global manufacturing value chains",
+   "url": "https://vietnamnews.vn/economy/1802995/vietnamese-firms-urged-to-move-up-global-manufacturing-value-chains.html",
+   "snippet": "Although Việt Nam has attracted substantial foreign direct investment and become an important manufacturing base, domestic firms remain limited in their participation in higher-value activities, particularly in high-tech industries, they said.\n\nViệt Nam’s exports reached US$475 billion in 2025, with foreign-invested enterprises accounting for 77 per cent of the total. [...] Việt Nam is already rep",
+   "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam–Denmark Comprehensive Strategic Partnership: Investor Outlook",
+   "url": "https://www.vietnam-briefing.com/news/vietnam-denmark-comprehensive-strategic-partnership-business-opportunities.html",
+   "snippet": "Vietnam’s government has made a preliminary investment estimate of approximately US$3.5 billion for the planned projects. This is an early-stage proposal involving research and proposed investment; the announcement does not establish completed financing or construction commitments.\n\nManufacturers and logistics providers should monitor subsequent decisions on locations, transport connections, capac",
+   "published": "Wed, 21 Oct 2026 12:21:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Q3 2026 GDP: Industry, Trade, and Business Implications",
+   "url": "https://www.china-briefing.com/news/china-q3-2026-gdp",
+   "snippet": "China Briefing is one of five regional Asia Briefing publications. It is supported by Dezan Shira & Associates, a pan-Asia, multi-disciplinary professional services firm that assists foreign investors throughout Asia, including through offices in Beijing, Tianjin, Dalian, Qingdao, Shanghai, Hangzhou, Ningbo, Suzhou, Guangzhou, Haikou, Zhongshan, Shenzhen, and Hong Kong in China. Dezan Shira & Asso",
+   "published": "Wed, 21 Oct 2026 14:06:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/36f60d90-a6f8-4cc4-9d9a-cb2301b3cff7?syn-25a6b1a6=1",
+   "snippet": "MenuSearch\n\n   Home\n   World\n   US\n   Companies\n   Tech\n   Markets\n   Climate\n   Opinion\n   Lex\n   Work & Careers\n   Life & Arts\n   How To Spend It\n   Stocks Game\n\nFinancial Times\n\nSubscribeSign In\n\nSearch the FT Search Close search bar Close\n\n# > China’s battery makers race to invest abroad to avoid western barriers\n\nSubscribe to unlock this article\n\n## Save over 40% on Standard Digital\n\nwas $540",
+   "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China, South Korea, and Japan looking into ASEAN’s clean energy market amid US scale-back | Singapore EDB",
+   "url": "https://www.edb.gov.sg/en/news-and-insights/china-south-korea-and-japan-looking-into-aseans-clean-energy-market-amid-us-scale-back",
+   "snippet": "Southeast Asia is a developing region with a huge appetite for energy, and investors in China, South Korea, and Japan are now finding promise in investing in renewable energy projects in ASEAN.\n\nA new report released on 20 May found that the number of international investment projects for renewable energy in ASEAN has increased by an average of about 15 per cent per year since 2020, with investmen",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korea Investment Management Makes First Foray into Hong Kong ETF Market with Joint Product Holding 60% Chinese Semiconductors — BigGo Finance",
+   "url": "https://finance.biggo.com/news/7592c681-6c39-4807-b055-84b120cb0650",
+   "snippet": "planning and investment advisory, while CUAM HK managed the listing and operations, and the South Korean firm plans to invest about $5 million of its own capital to secure initial assets under management. The two firms aim to qualify the product for ETF Connect, which allows mainland Chinese investors to trade Hong Kong-listed ETFs, with a review expected after April next year. [...] The product t",
+   "published": "Mon, 26 Oct 2026 08:25:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s humanoid robots hunt for work in South Korea as Seoul bets on physical AI | South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai",
+   "snippet": "Wency Chenin Seoul, South Korea\n\nThis article was first published by The Korea Times in a partnership with the South China Morning Post.\n\nChinese humanoid robot makers are accelerating efforts to gain a foothold in South Korea, moving beyond dance performances and showroom displays to factory trials and commercial deployments, as Seoul ramps up investment in physical artificial intelligence. [...]",
+   "published": "Fri, 23 Oct 2026 08:00:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Global Funds Flock to Chinese Tech; Robots, EVs Lead Semiconductor Self-Reliance",
+   "url": "https://www.chosun.com/english/market-money-en/2026/10/28/5U4GZWMGHVCYTFA74YHXF7BBS4",
+   "snippet": "companies and South Korean companies is rapidly narrowing,” and added, “A Chinese AI company with a market capitalization of 1 trillion Chinese yuan (approximately 200 trillion Korean won) could emerge.” [...] ◇ Growth of Chinese Tech Companies\n\n- News of CXMT's rapid growth caused Samsung Electronics and SK Hynix's stock prices to fall.\n\n“Currently, the semiconductor market is not a structure whe",
+   "published": "Tue, 27 Oct 2026 15:51:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
+   "snippet": "As these Chinese companies established operations in the park, their upstream and downstream suppliers also followed, Bui said. In the past, Chinese companies investing in Vietnam were generally smaller in scale, while South Korean and Japanese enterprises accounted for a larger share of foreign investment; however, Vietnam is now seeing a growing number of large Chinese companies investing in the",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korea Investment Management debuts semiconductor ETF in Hong Kong - 매일경제 영문뉴스 펄스(Pulse)",
+   "url": "https://pulse.mk.co.kr/news/english/12185537",
+   "snippet": "Korea Investment Management is responsible for product development and investment advisory services, while CUAM HK handles local fund management.\n\nThe ETF tracks the Solactive ACE ETF Connect China & Global Semiconductor Top 30 Index and invests in 30 companies, including global semiconductor players such as Nvidia Corp., Taiwan Semiconductor Manufacturing Co. (TSMC), Samsung Electronics Co., ASML",
+   "published": "Mon, 26 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Robot Funding Falls 40% as IPO Rules Tighten - Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/27/china-robot-funding-falls-40-percent-as-ipo-rules-tighten",
+   "snippet": "same period. That suggests investment in early-stage companies is continuing even as investors grow more cautious about large deals. Third-quarter investment totaled 33.335 billion yuan, according to local financial outlet Yicai, down 28.7% from the 46.75 billion yuan quarterly average implied by first-half investment of 93.5 billion yuan. [...] The data bears out the cooling. According to Chinese",
+   "published": "Mon, 26 Oct 2026 23:22:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korea Investment Management enters Hong Kong ETF market with chip fund - The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10914975",
+   "snippet": "The CUAM Solactive China & Global Semiconductor ETF, with a net asset value of 15.85 million Hong Kong dollars ($2.06 million), was listed Friday. The fund tracks the Solactive Ace ETF Connect China & Global Semiconductor Top 30 Index, developed by German index provider Solactive.\n\nIt offers diversified exposure to major semiconductor companies worldwide, including Nvidia, TSMC, Samsung Electronic",
+   "published": "Mon, 26 Oct 2026 05:38:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korea Investment Management enters Hong Kong ETF market with CUAM HK partnership - The Herald Business",
+   "url": "https://mbiz.heraldcorp.com/article/10914420",
+   "snippet": "Major holdings include global semiconductor leaders such as Nvidia, TSMC, Samsung Electronics, ASML and Broadcom, alongside Chinese and Hong Kong technology companies. The ETF spreads investment across 30 stocks in total, combining dominant global chipmakers with Chinese technology companies that the firms see as having strong growth potential. [...] Alongside this, the two firms will continue dev",
+   "published": "Mon, 26 Oct 2026 01:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Treasury proposes rule to curb high-tech investments in China and other adversaries | PBS News",
+   "url": "https://www.pbs.org/newshour/politics/treasury-proposes-rule-to-curb-high-tech-investments-in-china-and-other-adversaries",
+   "snippet": "# Treasury proposes rule to curb high-tech investments in China and other adversaries\n\nWASHINGTON (AP) — The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing and artificial intelligence in China, Russia, North Korea and other \"countries of concern.\"\n\nThe U.S. government has been working for years to deny China and other advers",
+   "published": "Fri, 23 Oct 2026 23:19:32 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_kr",
  "_query": "Chinese company South Korea investment",
  "_domains": [],
