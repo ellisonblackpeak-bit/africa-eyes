@@ -2,7 +2,7 @@
  "success": true,
  "results": [
   {
-   "title": "Fitattun malaman Addinin Musulunci 7 da aka yi wa kisan gilla a arewacin Najeriya",
+   "title": "Fitattun malaman Musulunci 7 da aka yi wa kisan gilla a arewacin Najeriya",
    "url": "https://www.bbc.com/hausa/articles/cmn4eg2kp11vo?at_medium=RSS&at_campaign=rss",
    "content": "A ranar Litinin da maraice ne wasu ƴanbindiga ɗauke da makamai suka buɗe wa malamain wuta jim kaɗan bayan fita daga gidansa domin halartar wurin da yake karantawar.",
    "published_date": "Tue, 27 Oct 2026 14:16:49 GMT",
@@ -16,6 +16,13 @@
    "score": 0.6
   },
   {
+   "title": "Abu 7 da bincike ya gano kan mutuwar matasa 33 masu haƙar zinare a Neja",
+   "url": "https://www.bbc.com/hausa/articles/cm0e057n0p3po?at_medium=RSS&at_campaign=rss",
+   "content": "A watan Satumba ne dai Shugaban Najeriya, Bola Ahmed Tinubu ya bayar da umarnin gudanar da cikakke kuma sahihin bincike, game da mutuwar mutanen da ake zargin suna hakar ma'adinai ba bisa ka'ida ba.",
+   "published_date": "Tue, 27 Oct 2026 16:43:12 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Wane ne Sheikh Yahaya Masussuka da ƴan bindiga suka kashe?",
    "url": "https://www.bbc.com/hausa/articles/c8zxl411n35go?at_medium=RSS&at_campaign=rss",
    "content": "A wata tattaunawa da BBC, baturen ‘yansanda reshen Dutsen Ma ya bayyana cewa wasu ‘yan bindiga ne suka kashe mashahurin malamin a yammacin Litinina kofar gidansa.",
@@ -23,7 +30,7 @@
    "score": 0.6
   },
   {
-   "title": "Mutanen da suka samu kyautuka a bikin Ballan d'Or na 2026",
+   "title": "Ƴan wasan da suka samu kyautuka a bikin Ballon d'Or na 2026",
    "url": "https://www.bbc.com/hausa/articles/cmx23lg04zn5o?at_medium=RSS&at_campaign=rss",
    "content": "Kyaftin ɗin tawagar Ingila Harry Kane ne ya lashe kyautar gwarzon ɗan kwallon na wannan shekara, yayin da abokan takararsa, Kylian Mbappe da Lamine Yamal suka zo na biyu da na uku.",
    "published_date": "Tue, 27 Oct 2026 11:24:46 GMT",
@@ -41,13 +48,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmz98qxg7pjxo?at_medium=RSS&at_campaign=rss",
    "content": "A zaɓen majalisar dokokin Isra'ila, masu adawa da Firayim Minista Benjamin Netanyahu suna ƙoƙarin kawo ƙarshen shugabancin ɗan siyasar da ya kafa tarihin zama mafi tsawon lokaci a kan mulki.",
    "published_date": "Tue, 27 Oct 2026 03:58:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Arsenal na zawarcin Varela, Crystal Palace na son ci gaba da riƙe Ismaila Sarr",
-   "url": "https://www.bbc.com/hausa/articles/cmp3g21ew3yzo?at_medium=RSS&at_campaign=rss",
-   "content": "Ɗan wasan gaba ɗan ƙasar Portugal, Gustavo Varela, yana cikin wadanda Arsenal ke sa ido a kai; Crystal Palace na son ci gaba da riƙe dan wasan gefe Ismaila Sarr; yayin da wasu daga cikin manyan ƙungiyoyin Turai ke nuna sha'awar ɗaukar ɗan wasan baya na Brighton, Luka Vuskovic.",
-   "published_date": "Tue, 27 Oct 2026 03:57:16 GMT",
    "score": 0.6
   },
   {
@@ -72,17 +72,17 @@
    "score": 0.6
   },
   {
+   "title": "An bai wa Carrick wa'adin cin Chelsea ko a kore shi",
+   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Ballon d'or 2026: Kane ne gwarzon dan kwallon kafa na duniya",
    "url": "https://www.bbc.com/hausa/articles/cm62yd9lypydo?at_medium=RSS&at_campaign=rss",
    "content": "Harry Kane ya lashe kyautar Ballon d'Or ta 2026, karon farko da dan Ingila ya karbi kyautar bayan shekara 25, wanda ya taka rawar gani a Bayern Munich da kuma tawagar Ingila.",
    "published_date": "Mon, 26 Oct 2026 23:15:57 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kane ya kawo karshen kasa lashe Ballon d'Or a Ingila, bayan shekara 25?",
-   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.com/hausa/articles/cw7vp033m22do?at_medium=RSS&at_campaign=rss",
    "content": "Manyan ƙungiyoyin na ci gaba da sa ido kan ɗan wasan Brighton Luka Vuskovic, sai dai Liverpool ba ta da niyar ɗauko ɗan wasan Trent Alexander-Arnold zuwa ƙungiyar, iyayin da kuma AC Milan ke harin ɗan wasan Manchester United Leny Yoro.",
    "published_date": "Sun, 25 Oct 2026 03:49:08 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Arsenal na zawarcin Varela, Crystal Palace na son ci gaba da riƙe Ismaila Sarr",
+   "url": "https://www.bbc.com/hausa/articles/cmp3g21ew3yzo?at_medium=RSS&at_campaign=rss",
+   "content": "Ɗan wasan gaba ɗan ƙasar Portugal, Gustavo Varela, yana cikin wadanda Arsenal ke sa ido a kai; Crystal Palace na son ci gaba da riƙe dan wasan gefe Ismaila Sarr; yayin da wasu daga cikin manyan ƙungiyoyin Turai ke nuna sha'awar ɗaukar ɗan wasan baya na Brighton, Luka Vuskovic.",
+   "published_date": "Tue, 27 Oct 2026 03:57:16 GMT",
    "score": 0.6
   },
   {

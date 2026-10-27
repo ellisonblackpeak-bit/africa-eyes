@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China-Europe freight train runs top 140,000 now, with total value of shipped goods exceeding $560 billion - Global Times",
-   "url": "https://www.globaltimes.cn/page/202610/1372780.shtml",
-   "snippet": "BUSINESS / ECONOMY\n\nChina-Europe freight train runs top 140,000 now, with total value of shipped goods exceeding $560 billion\n\nBy Global Times Published: Oct 22, 2026 01:26 PM\n\nA China-Europe freight train on the Yiwu-Xinjiang-Europe route leaves the East China International Intermodal Port in Jinhua, East China's Zhejiang Province on October 8, 2026. Photo: VCG [...] Currently, the railway author",
-   "published": "Thu, 22 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "USTR Moves to Extend China-Linked Ship Port Fee Suspension Into January 2027 - Global Trade Magazine",
-   "url": "https://www.globaltrademag.com/ustr-moves-to-extend-china-linked-ship-port-fee-suspension-into-january-2027",
-   "snippet": "The suspension, he said, allows ACL to continue serving the U.S. market while maintaining fast transit times between the U.S. East Coast and Europe.\n\nThe International Chamber of Shipping (ICS) and the World Shipping Council also welcomed the original pause, warning that competing U.S. and Chinese port measures could raise transportation costs and disrupt international trade.\n\n## Broader U.S. Port",
-   "published": "Sun, 25 Oct 2026 08:00:49 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China slams 'Cold War mentality' after new EU Arctic plan",
-   "url": "https://www.france24.com/en/live-news/20261022-china-slams-cold-war-mentality-after-new-eu-arctic-plan",
-   "snippet": "Beijing and Moscow agreed this week to \"expand cooperation\" in Arctic shipping, including increasing the number of routes between Russian and Chinese ports, according to a joint communique released after a meeting between their prime ministers.\n\nAsked about the new EU strategy and calls from foreign policy chief Kaja Kallas to bolster the bloc's defences in the Arctic, China denounced what it call",
-   "published": "Thu, 22 Oct 2026 08:53:20 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP | Electrek",
-   "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp",
-   "snippet": "Go to the Electrek home page\n\n China\n Tariffs\n Used EVs\n\n# Chinese EVs found back door into Western car markets – at 40% off MSRP\n\nAvatar for Jo Borrás  Jo Borrás | Oct 24 2026 - 7:04 am PT\n\n5 Comments\n\nUsed Chinese EVs at port, on their way to Europe and Canada at 40% off [...] Western automakers have leaned on protectionist trade policies to keep cheaper Chinese rivals at bay, placing strict lim",
-   "published": "Sat, 24 Oct 2026 14:04:51 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Arctic shipping: China and Russia expand grip, can Europe fight back?",
-   "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-   "snippet": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.\n\nMoscow and Beijing last week have agreed to expand freight traffic along Arctic shipping corridors, increase services between their ports and deepen cooperation on building polar vessels.\n\nThe agreement came after the EU unveiled a new Arctic s",
-   "published": "Tue, 27 Oct 2026 00:16:21 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China-Europe Freight Train Eastern Corridor Sets Record With 6,024 Trips - News and Statistics",
-   "url": "https://www.indexbox.io/blog/china-europe-freight-train-traffic-hits-record-on-eastern-corridor",
-   "snippet": "China-Europe freight train traffic on the eastern corridor topped 6000 trips for the first time, rising 40.3 percent year on year as exports shift toward",
-   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Record Penetration Of Chinese Cars In Europe",
-   "url": "https://autojosh.com/record-penetration-of-chinese-cars-in-europe",
-   "snippet": "Despite the growing obstacles from Brussels, Chinese car brands are rapidly conquering the European market. Six Chinese companies are already among the top",
-   "published": "Thu, 22 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "UK open to Chinese EV tariffs for EU market access - Automotive News",
-   "url": "https://www.autonews.com/manufacturing/automakers/ane-uk-china-tariffs-eu-summit-1021",
-   "snippet": "Automotive News Europe, a Crain Family brand\nAutomotive News Europe, a Crain Family brand\n\n# UK open to discussing Chinese car tariffs ahead of EU summit\n\nAdd as a preferred source on Google\nChina vehicle exports\nB\n\n## Featured Stories\n\nAudi CEO Gernot Döllner said the decision to invest $4 billion for a new U.S. factory, its first, will help address several headwinds, such as tariffs and currency",
-   "published": "Wed, 21 Oct 2026 08:50:47 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe Hits the Brakes as China’s EV Machine Scales Up - Bloomberg",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-10-23/europe-hits-the-brakes-as-china-s-ev-machine-scales-up",
-   "snippet": "# Europe Hits the Brakes as China’s EV Machine Scales Up\n\nGet Caught Up.\n\nEurope’s carmakers are cutting back just as Beijing keeps accelerating. Volvo is deepening job cuts as sales slide in China, where local rivals are taking over the market.\n\nGrowth elsewhere isn’t coming easily. Volkswagen has frozen fresh investment in its Indian EV push while partner talks drag on — proof that escaping Chin",
-   "published": "Fri, 23 Oct 2026 16:02:01 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_cn_port",
  "_query": "Chinese port Europe",
  "_domains": [],

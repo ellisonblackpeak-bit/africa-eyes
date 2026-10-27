@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Korea Investment Management Makes First Foray into Hong Kong ETF Market with Joint Product Holding 60% Chinese Semiconductors — BigGo Finance",
-   "url": "https://finance.biggo.com/news/7592c681-6c39-4807-b055-84b120cb0650",
-   "snippet": "planning and investment advisory, while CUAM HK managed the listing and operations, and the South Korean firm plans to invest about $5 million of its own capital to secure initial assets under management. The two firms aim to qualify the product for ETF Connect, which allows mainland Chinese investors to trade Hong Kong-listed ETFs, with a review expected after April next year. [...] The product t",
-   "published": "Mon, 26 Oct 2026 08:25:39 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Marubeni to Proceed with the Acquisition of Interests in iFamilySC Co., Ltd., a Leading Beauty and Personal Care Company in South Korea",
-   "url": "https://www.marubeni.com/en/news/2026/release/00033.html",
-   "snippet": "build and further expand its business platform spanning East Asia to Southeast Asia, centered on iFamily and Karmarts. Simultaneously, Marubeni will enhance value by expanding its brand portfolio for the young demographic driving consumer markets and promoting the sustainable growth of its BPC business. [...] Since the launch of “rom&nd” in 2016, iFamily has leveraged its strength in product plann",
-   "published": "Thu, 22 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "200M Investors Weep! China Stocks Lose $2.4 Trillion—More Than S. Korea’s GDP; Financial Coup Ahead?",
-   "url": "https://www.youtube.com/watch?v=s4SQd8Gub0I",
-   "snippet": "[13:07] catalyst in technology. This volatile market with no clear direction could continue into early 2027. China's stock\n[13:15] market has failed to benefit from its progress in the AI race. Chinese companies including Deep Seek and Moonshot have released new AI models.\n[13:24] Yet, the CSI 300 has fallen 11% this year, while stocks in Taiwan and South\n[13:30] Korea has risen 59% and 31% respec",
-   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Anthropic’s IPO filing lifts stocks across Asia—except for China",
-   "url": "https://ca.finance.yahoo.com/news/anthropic-ipo-filing-lifts-stocks-083926680.html",
-   "snippet": "South Korea's KOSPI rose 3.1%, with chipmakers Samsung Electronics and SK Hynix jumping by 4.2% and 5.2% respectively. The rally also drew strength from South Korean economic data showing 3.4% year-on-year growth in the third quarter of 2026. Tuesday's jump interrupted days of heavy selling in South Korea's equity markets; the KOSPI has dropped by 18.2% in the past month. [...] \"If the outlook for",
-   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea ETFs – Invest in Korean Stocks from India | INDmoney",
-   "url": "https://www.indmoney.com/us-stocks/etfs/south-korea-etfs",
-   "snippet": "+ S&P 500 ETFs\n  + Nasdaq 100 ETFs\n  + Gold ETFs (US)\n  + Silver ETFs (US)\n  + Platinum ETFs\n  + Copper ETFs\n  + Lithium ETFs\n  + Rare Earth ETFs\n  + Uranium ETFs\n  + Oil & Gas ETFs\n  + Natural Gas ETFs\n  + AI ETFs\n  + Technology ETFs\n  + Semiconductor ETFs\n  + Data Center ETFs\n  + Aerospace & Defence ETFs\n  + China ETFs\n  + Europe ETFs\n  + Japan ETFs\n  + South Korea ETFs\n  + Middle East & UAE ETF",
-   "published": "Wed, 21 Oct 2026 14:06:45 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Addison Jarman - USA has Apple. China has Huawei. South...",
-   "url": "https://www.facebook.com/addison.jarman/posts/usa-has-applechina-has-huaweisouth-korea-has-samsungjapan-has-sonywhat-does-your/1439606378256673",
-   "snippet": "## Addison Jarman's Post\n\nOnline status indicator\n\n### Addison Jarman\n\na day ago\n\n1d  ·\n\nUSA has Apple.\n\nChina has Huawei.\n\nSouth Korea has Samsung.\n\nJapan has Sony.\n\nWhat does your country have? It’s a simple way of measuring long-term industrial strength.\n\nThe companies that dominate global markets tend to reflect deeper systems of education, capital, and innovation. Not every country has one of",
-   "published": "Sat, 24 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "AI chip surge lifts South Korea to record surplus, behind only China | South China Morning Post",
-   "url": "https://amp.scmp.com/week-asia/economics/article/3372150/ai-chip-surge-lifts-south-korea-record-surplus-behind-only-china",
-   "snippet": "Surging demand for semiconductors helped propel South Korea’s second-quarter surplus, with chip exports reaching US$113.89 billion in the three months to June, according to government figures – up 181.6 per cent from the same period last year.\n\nA student holds a semiconductor chip diced from a wafer at Seoul National University’s Inter-university Semiconductor Research Centre. Photo: AFP [...] A s",
-   "published": "Mon, 26 Oct 2026 08:39:38 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How to do business in South Korea: A practical market ...",
-   "url": "https://www.linkedin.com/pulse/how-do-business-south-korea-practical-market-entry-guide-4yscc",
-   "snippet": "Setting up a foreign-invested company in South Korea involves more than one registration form.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea | Reports",
-   "url": "https://www.moodys.com/researchandratings/region/asia-pacific/south-korea/042083",
-   "snippet": "Find the latest ratings, reports, data, and analytics on South Korea.",
-   "published": "Sat, 24 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_kr",
  "_query": "Chinese company South Korea investment",
  "_domains": [],

@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Could JPMorgan rival Citibank in Nigeria as a new American dealmaking lender? - Businessfront",
-   "url": "https://businessfront.com/finance/insights/jpmorgan-citibank-nigeria-american-dealmaking-lender",
-   "snippet": "Citi serves multinationals, financial institutions and government-linked entities, many of which JPMorgan is also targeting. Competition is likely to be strongest in energy and infrastructure, where Nigerian companies have significant demand for dollar financing. Citi has said its strengthened balance sheet positions it to expand lending and support for clients in these sectors, as well as trade f",
-   "published": "Sun, 25 Oct 2026 19:07:57 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US loses $265bn to Middle East tension amid rising energy costs – Businessday NG",
-   "url": "https://businessday.ng/energy/article/us-loses-265bn-to-middle-east-tension-amid-rising-energy-costs?amp=",
-   "snippet": "Although there is no current report on how the US-Iran war has affected Nigeria’s economy financially, Nigerians and businesses have had to spend more on petrol and food since the war began roughly eight months ago.\n\nBusinessDay’s analysis of the top 30 listed companies on the Nigerian Exchange Group showed that their combined six-month energy costs rose against their levels a year ago, painting a",
-   "published": "Mon, 26 Oct 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Weatherford International Q3 Earnings Call Highlights — Noticias de TradingView",
-   "url": "https://es.tradingview.com/news/marketbeat:a3d6f249f094b:0-weatherford-international-q3-earnings-call-highlights",
-   "snippet": "The company also cited offshore completions awards from TotalEnergies in Denmark, Exxon in Nigeria, Equinor on the Norwegian Continental Shelf and Seplat Energy in Nigeria. Weatherford said completions is now its largest product line. Separately, the legacy NCS business secured an award for frac sleeves and service tools in the Deepwater Gulf of America, with work expected to begin in the first qu",
-   "published": "Wed, 21 Oct 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Elon Musk and Madagascar’s richest man turn to the same sector with $1 billion US media bet and $450 million Nigeria deal | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/elon-musk-and-madagascars-richest-man-turn-to-the-same-sector-with-dollar1-billion-us/gzh5sjr",
-   "snippet": "Elon Musk has invested $1 billion in the American media company Skydance, strengthening his ties with the Ellison family.\n Skydance recently acquired Warner Bros. Discovery, uniting major media brands but taking on $82.5 billion in debt.\n Skydance aims to cut $6 billion in costs over three years and plans to integrate artificial intelligence into its operations. [...] Meanwhile, American Billionai",
-   "published": "Sat, 24 Oct 2026 18:59:09 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "sonnen USA Acquired by TIVEN from Shell: VPP Market Expansion - News and Statistics - IndexBox",
-   "url": "https://www.indexbox.io/blog/sonnen-usa-sold-by-shell-to-tiven-as-virtual-power-plant-push-continues",
-   "snippet": "Sweden\n\n         Market Size\n         Production\n         Imports\n         Exports\n    22. 11.22\n\n        Nigeria\n\n         Market Size\n         Production\n         Imports\n         Exports\n    23. 11.23\n\n        Poland\n\n         Market Size\n         Production\n         Imports\n         Exports\n    24. 11.24\n\n        Belgium\n\n         Market Size\n         Production\n         Imports\n         Expor",
-   "published": "Fri, 23 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Poland Energy Security Pact - Energy for Growth Hub",
-   "url": "https://energyforgrowth.org/article/poland-energy-security-pact",
-   "snippet": "State Department\n  + Lead diplomatic efforts to socialize US companies, policymakers, and financial institutions with Polish energy stakeholders, including utility officials, regulators, and the private sector.\n  + Implement the FIRST program to introduce US nuclear technology and standards.\n  + Leverage high-level commercial diplomacy tools, such as the Direct Line for American Business, to advoc",
-   "published": "Tue, 27 Oct 2026 06:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US Climate Action 100+ target firms weaken on net zero",
-   "url": "https://www.responsible-investor.com/us-climate-action-100-target-firms-weaken-on-net-zero",
-   "snippet": "Initiative's latest benchmark sees more North American company scores decline, Europeans improve on Just Transition.",
-   "published": "Mon, 26 Oct 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US Ends Solar Tariff Dodges, But Building Own Sector Is Tough",
-   "url": "https://energynow.com/2026/08/us-ends-solar-tariff-dodges-but-building-own-sector-is-tough",
-   "snippet": "By Dan Murtaugh Chinese solar companies will go to great lengths to reach the US…",
-   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Weekly Global Economic Update | Deloitte Insights",
-   "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
-   "snippet": "68 gigawatts of new electricity, but that only 30 gigawatts were accounted for by existing projects. The rest remains uncertain. [...] that exports are booming. On the other hand, data centers now use about 7% of the country’s electricity-generating capacity; this can potentially rise to 31% by 2035. [...] When it comes to US inflation, the narrative mostly still revolves around energy. And the si",
-   "published": "Wed, 21 Oct 2026 21:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],

@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China's $213.5 Billion Global Infrastructure Gamble",
-   "url": "https://www.youtube.com/watch?v=IYfmDdG0QRA&vl=es",
-   "snippet": "China is investing enormous sums in railways, ports, mining infrastructure ... The first is the China-Laos Railway, which opened in December 2021. The",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "PH rail project delays revive China funding question | The Manila Times",
-   "url": "https://www.manilatimes.net/2026/10/24/news/national/ph-rail-project-delays-revive-china-funding-question/2452947",
-   "snippet": "Herman Tiu Laurel, president of the Asian Century Philippines Strategic Studies Institute, said the Philippines was being left behind by its neighbors in a forum on Friday, citing railway developments in Laos, Indonesia and Malaysia.\n\nHis assessment comes as the Mindanao Development Authority (MinDA) explores possible private-sector investment in the long-delayed Mindanao Railway Project, includin",
-   "published": "Fri, 23 Oct 2026 16:01:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China's borderlands strategy of integration in Laos",
-   "url": "https://www.facebook.com/NBRnews/posts/in-2023-and-2024-laos-and-china-held-joint-military-exercises-known-as-the-laos-/1572467714914759",
-   "snippet": "We believe that the China-Laos Railway is able to turn Laos from a landlocked country into a transport hub and make the country an accelerator for regional",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "The Empowerers | Laos on the Move",
-   "url": "https://finance.yahoo.com/economy/articles/empowerers-laos-move-020000150.html",
-   "snippet": "A railway cuts through the mountains and forests of Laos, helping transform the country from landlocked to land-linked. Along the way, it has also created relationships between Chinese mentors and young Lao railway workers that extend well beyond the tracks themselves.\n\nWith training and support from their Chinese colleagues, young Lao workers have grown from newcomers into skilled professionals, ",
-   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Empowerers | Laos on the Move",
-   "url": "https://www.prnewswire.com/apac/news-releases/the-empowerers--laos-on-the-move-302915498.html",
-   "snippet": "Continue Reading\n\nThe Empowerers | Laos on the Move\n\nThe Empowerers | Laos on the Move\n\n \n\nSpeed \n\nSpeed\n\nA railway cuts through the mountains and forests of Laos, helping transform the country from landlocked to land-linked. Along the way, it has also created relationships between Chinese mentors and young Lao railway workers that extend well beyond the tracks themselves. [...] รายงานข่าวจาก Peop",
-   "published": "Thu, 22 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Belt and Road | english.scio.gov.cn",
-   "url": "http://english.scio.gov.cn/node_7247645.htm",
-   "snippet": "# Along China-Laos Railway, new jobs and shorter journeys reshape lives\n\n  The China-Laos Railway's impact extends beyond transport. Along the line, agricultural training and education programs have carried its benefits into fields, classrooms and workplaces -- a practical expression of Belt and Road cooperation.\n []( \n\n  ### August 3, 2026\n\n  # Main structure of first cross-border ropeway between",
-   "published": "Wed, 21 Oct 2026 18:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Pinglu Canal: Deepening ASEAN-China Connectivity - Lucio Blanco Pitlo III - CHINA US Focus",
-   "url": "https://www.chinausfocus.com/finance-economy/pinglu-canal-deepening-asean-china-connectivity",
-   "snippet": "Geographic proximity positions southern Chinese provinces as gateways to ASEAN, with infrastructure being a crucial piece. The China-Myanmar oil and gas pipeline, Laos-China railway, and the upgrading of the Haiphong-Kunming railway raise Yunnan’s profile. So does the linking of the Bangkok-Nong Khai high-speed rail, currently under construction, to the Laos-China railway via the Lao capital, Vien",
-   "published": "Fri, 23 Oct 2026 09:19:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "121 million yuan of overseas loans invested in the Saiseta Development Zone in Laos--Seetao",
-   "url": "https://www.seetaoe.com/details/282049.html",
-   "snippet": "For the Belt and Road",
-   "published": "Mon, 26 Oct 2026 06:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China’s Military Facility in Laos and Regional Impact",
-   "url": "https://chinaglobalsouth.com/podcasts/china-military-facility-laos",
-   "snippet": "Donate Log In\n\n English\n Français\n Español\n\nThe China-Global South Project\n\nSubscribe Log In\n\nSubscribe Log In\n\n# Why China’s New Military Facility in Laos Matters\n\nBy Eric Olander\n\nA satellite image shows construction of an airport in Ban Keun, where China’s Ministry of National Defense says it has opened a joint military support and training centre, in Vientiane Province, Laos, September 2, 2026",
-   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_la",
  "_query": "Chinese company Laos railway investment",
  "_domains": [],

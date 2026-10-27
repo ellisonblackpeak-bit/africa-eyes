@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "PH rail project delays revive China funding question | The Manila Times",
-   "url": "https://www.manilatimes.net/2026/10/24/news/national/ph-rail-project-delays-revive-china-funding-question/2452947",
-   "snippet": "Herman Tiu Laurel, president of the Asian Century Philippines Strategic Studies Institute, said the Philippines was being left behind by its neighbors in a forum on Friday, citing railway developments in Laos, Indonesia and Malaysia.\n\nHis assessment comes as the Mindanao Development Authority (MinDA) explores possible private-sector investment in the long-delayed Mindanao Railway Project, includin",
-   "published": "Fri, 23 Oct 2026 16:01:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "East Timor president sees growing investment 1 year after joining ASEAN",
-   "url": "https://english.kyodonews.net/articles/-/89573",
-   "snippet": "\"If it's China, U.S., the Philippines, Indonesia (in an exercise), we join,\" he said, indicating a stance different from neighboring Indonesia, which held joint naval exercises with China east of Taiwan earlier this year.\n\nA number of investment projects are underway in East Timor, including a joint investment by Japanese trading house Itochu Corp. and a French firm to construct a solar power plan",
-   "published": "Tue, 27 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Coffee Market Growth Forecast to 2030 - The China-Global South Project",
-   "url": "https://chinaglobalsouth.com/2026/10/22/china-coffee-market-growth-2030",
-   "snippet": "## Previous Story\n\nPhilippines Exploring Deeper Cooperation With Taiwan to Protect Cables\n\n## Next Story\n\nU.S.-Backed Southeast Asia Cable Project Excludes Chinese Suppliers\n\nWe use cookies on our website to remember your login status and manage your subscription access. By clicking “Accept”, you consent to the use of ALL the cookies.\n\nCookie settingsAccept\n\nManage consent\n\n#### Privacy Overview [",
-   "published": "Thu, 22 Oct 2026 03:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Letters | Philippines, Hong Kong can contribute together to a more productive Asia | South China Morning Post",
-   "url": "https://www.scmp.com/opinion/letters/article/3371847/philippines-hong-kong-can-contribute-together-more-productive-asia",
-   "snippet": "Advertisement\n\nThe Philippines\n\nOpinionLetters\n\n# LettersPhilippines, Hong Kong can contribute together to a more productive Asia\n\nReaders discuss a stronger economic relationship between the Philippines and Hong Kong, Singapore’s balancing act, the Lugard Road lighting project, and MTR rules\n\n3-MIN READ3-MIN\n\nListen [...] Over the past two years, the Philippine government has taken significant st",
-   "published": "Sat, 24 Oct 2026 03:30:12 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China & Taiwan Update, October 20, 2026 | American Enterprise Institute - AEI",
-   "url": "https://www.aei.org/commentary/china-taiwan-update-october-20-2026",
-   "snippet": "The PRC likely seeks to pressure the Philippines into broadly reducing its presence in the South China Sea. The PRC likely aims to demonstrate its ability to enforce its sovereignty claims and allow its maritime forces to operate more freely in the South China Sea and nearby waters, including the waters around Taiwan. [...] June 2024 to allow Philippine resupply missions to Second Thomas Shoal. Th",
-   "published": "Tue, 20 Oct 2026 18:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China-EU’s path to prosperity is partnership – Asia News Network",
-   "url": "https://asianews.network/china-eus-path-to-prosperity-is-partnership",
-   "snippet": "German companies’ direct investment in China increased by around 5.6 billion euros in the first six months of the year, about one-third more compared with the same period last year, according to analyses by the German Economic Institute.\n\nIn 2025, Chinese companies launched 228 investment projects in Germany, up 14.6 percent year-on-year, making China the largest source of foreign investment proje",
-   "published": "Fri, 23 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Five Reputable Solar Mounting System Manufacturers in China 2026: Advancing Solar Infrastructure - EIN Presswire",
-   "url": "https://www.einnews.com/pr_news/951431620/five-reputable-solar-mounting-system-manufacturers-in-china-2026-advancing-solar-infrastructure",
-   "snippet": "The company reports that its products are primarily exported and identifies markets across Asia, Europe, the Middle East, Africa and the Americas. Its published company profile describes its operating principles as “Quality-oriented” and “Integrity first,” alongside the vision “Low Carbon Life, Better World.” For international project teams, the practical evaluation points remain model-specific lo",
-   "published": "Thu, 22 Oct 2026 06:47:07 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Five Reputable Data Center Transformer Suppliers in China 2026: Comparing Power Infrastructure Solutions",
-   "url": "https://www.einpresswire.com/article/952495370/five-reputable-data-center-transformer-suppliers-in-china-2026-comparing-power-infrastructure-solutions",
-   "snippet": "China XD Electric Co., Ltd. is a publicly registered Chinese company identified in public company information as a manufacturer of high-voltage power equipment and transformers. It appears in this review for supplier discovery on that basis. This review did not verify a data center-specific dry-type transformer range, compact substation configuration, certification scope or data center project ref",
-   "published": "Tue, 27 Oct 2026 03:38:08 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The US-China Tech Cold War Is Moving Undersea - Bloomberg",
-   "url": "https://www.bloomberg.com/opinion/articles/2026-10-25/the-us-china-tech-cold-war-is-moving-undersea",
-   "snippet": "A new project by Australia, the UK and the US was quickly announced to develop underwater drone technology to protect cables by 2027, while Singapore launched a 17-country framework covering Southeast Asia, Europe, the Middle East and Oceania to explore defense cooperation on critical infrastructure. [...] , Columnist\n\n# The US-China Tech Cold War Is Moving Undersea\n\nWhen Australia’s Defence Minis",
-   "published": "Sun, 25 Oct 2026 20:01:02 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],

@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Authorities extradite Chinese national for alleged $37M investment scam - CyberScoop",
-   "url": "https://cyberscoop.com/chinese-national-extradited-investment-scam/",
-   "snippet": "Zheng Zhao and his co-conspirators allegedly deceived 174 U.S. residents into sending funds to a globally coordinated fake investment operation with ties to Cambodia. A 44-year-old Chinese national was extradited to the United States and arraigned in federal court for his alleged involvement in a sweeping investment scam network that tricked at least 174 U.S. residents out of nearly $37 million, t",
-   "published": "Mon, 26 Oct 2026 17:33:19 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China drops Mbappé over Mao Zedong joke just as England’s Harry Kane beats the Cameroon-Algerian-rooted footballer to the Ballon d’Or - Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/china-drops-mbappe-over-mao-zedong-joke-just-as-englands-harry-kane-beats-the/46zvpx1",
-   "snippet": "* At the same time, England's Harry Kane won the 2026 Ballon d'Or, with Mbappé finishing second and Lamine Yamal third. * Mbappé expressed pride in his Cameroonian and Algerian origins, stating his intent to dedicate any major win to fans from Africa. The loss of these major endorsements came at the same time Harry Kane of England secured the 2026 Ballon d'Or trophy, finishing ahead of the French ",
-   "published": "Tue, 27 Oct 2026 06:56:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo - AP News",
-   "url": "https://apnews.com/article/congo-ebola-b739277681b530aef772cf66be7e41f0",
-   "snippet": "# Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo. BUTEMBO, Congo (AP) — A nurse was killed and a health worker severely injured after being attacked while responding to an Ebola alert in Congo, according to the World Health Organization. It was the latest in a series of attacks on health workers and responders that authorities say is hampering efforts",
-   "published": "Mon, 26 Oct 2026 00:01:10 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case - Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case",
-   "snippet": "*The attack in eastern DR Congo is the latest on health workers and responders to the deadly Ebola outbreak.*. A nurse has been killed and another health worker severely injured after they were attacked while responding to an Ebola alert in the Democratic Republic of the Congo (DRC), according to the World Health Organization. It was the latest in a series of attacks on health workers and responde",
-   "published": "Mon, 26 Oct 2026 04:21:26 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak - Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak",
-   "snippet": "# Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak. *Nearly half of the people confirmed to have the virus have died in DRC’s fastest-growing Ebola outbreak on record.*. Confirmed Ebola cases in the Democratic Republic of the Congo (DRC) have surpassed 10,000 as the outbreak continues to spread across the country and beyond its borders. It is the fastest-growing Ebola outbreak in",
-   "published": "Tue, 27 Oct 2026 12:31:19 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Authorities race to fight the fastest-growing Ebola outbreak in history - The Seattle Times",
-   "url": "https://www.seattletimes.com/seattle-news/health/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-the-spread-in-african-countries/",
-   "snippet": "# Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries. BUNIA, Congo (AP) — The fast-moving Ebola outbreak in Congo has reached 10,000 confirmed cases, government data showed Tuesday, as health authorities race to slow the spread of the disease in multiple African countries. It is the fastest-growing Ebola outbreak in history and nearly half of the 1",
-   "published": "Tue, 27 Oct 2026 13:07:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Kodal Minerals eyes lithium expansion across West Africa - Semafor",
-   "url": "https://www.semafor.com/article/10/26/2026/kodal-minerals-eyes-lithium-expansion-across-west-africa",
-   "snippet": "Intelligence for the New World Economy. In your inbox, 3x per week. # Kodal Minerals eyes lithium expansion. Oct 26, 2026, 9:29am EDT. Kodal Minerals plans to expand its lithium business across West Africa, betting the gold-rich region can become a major supplier of the battery metal, Reuters reported. The London-listed miner began producing lithium last year in Mali, in a joint venture with Chine",
-   "published": "Mon, 26 Oct 2026 13:29:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ebola outbreak: Uganda imposes 21-day quarantine on citizens returning from DR Congo - BBC",
-   "url": "https://www.bbc.com/news/articles/crx2dyd24188o",
-   "snippet": "Ugandans returning from neighbouring Democratic Republic of Congo will be quarantined for 21 days, the health ministry has said, as the country tightens restrictions to contain the spread of Ebola virus. More than 4,800 people have died in DR Congo since May - the country's deadliest outbreak of the disease - and has since spread to several other countries. Uganda's restrictions follow questions a",
-   "published": "Mon, 26 Oct 2026 08:16:56 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

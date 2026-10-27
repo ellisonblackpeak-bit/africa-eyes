@@ -1,49 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/DewcR6_oVKa",
-   "snippet": "This is not an anti-China move. Niger has spent the last three years expelling French troops, nationalising uranium, and pivoting toward new partners. China is one of those partners. CNPC has invested over $5 billion in Niger's oil sector since 2011. The 2,000-kilometre pipeline to Benin is Africa's longest. Niger needs China. But Niger is saying that partnership cannot mean one side keeps the mon",
-   "published": "Wed, 21 Oct 2026 13:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Atomic Eagle Courts Chinese and U.S. Interest to Finance $282 Million Uranium Mine in Zambia - Ecofin Agency",
-   "url": "https://www.ecofinagency.com/news-industry/2310-60026-atomic-eagle-courts-chinese-and-u-s-interest-to-finance-282-million-uranium-mine-in-zambia",
-   "snippet": "U.S. backing for the Dasa uranium project in Niger illustrates that strategy. [...] 19:22\n At Yaounde Fair, Francophone Youth Organization Pushes Digital Farming to Expand Women’s Business Opportunities \n\n   19:11\n Togo sends a delegation to China to learn from its cross-border e-commerce experience \n\n   19:01\n\nMost Read \n\n01\n\nNigeria Approves 90-Day Plan to Ease Cost-of-Living Pressure on Househo",
-   "published": "Fri, 23 Oct 2026 01:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "𝗡𝗜𝗚𝗘𝗥 𝗚𝗜𝗩𝗘𝗦 𝗖𝗛𝗜𝗡𝗔 𝟰𝟱 𝗗𝗔𝗬𝗦 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗢𝗩𝗘𝗥 $𝟱 ...",
-   "url": "https://www.instagram.com/reel/Deyug7tCguM",
-   "snippet": "Niger that has been locked in a bitter battle with France's Orano over control of its uranium resources. Now, Chinese oil partners are facing pressure too.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "For five decades, Niger's uranium helped power France ...",
-   "url": "https://www.facebook.com/the.merc.alkebulan/videos/for-five-decades-nigers-uranium-helped-power-france-while-niger-remained-among-t/2299710330603220",
-   "snippet": "For five decades, Niger's uranium helped power France while Niger remained among the world's poorest countries. Now Niger has nationalised the SOMAÏR mine,",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Top Uranium Producing Countries (1970–2024)",
-   "url": "https://www.facebook.com/IndiaDefenseNews/videos/top-uranium-producing-countries-19702024/1741319390292397",
-   "snippet": "The countries listed are: Canada, Australia, Russia, Nigeria, India, China, South Africa, the USA, France, and the UK. production of uranium.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to deploy army units to Niger to protect energy and economic interests | Reuters",
-   "url": "https://www.reuters.com/world/africa/algeria-president-deploy-army-units-niger-protect-energy-economic-interests-2026-10-26",
-   "snippet": "Sign up here.\n\nThe presidential statement did not say when the troops ​will be sent or how many there would be.\n\nMilitary officers have ruled Niger, a nation rich in uranium, oil and ​gold resources, since the July 2023 coup that ​ousted President Mohamed Bazoum, which Algeria opposed.\n\nRelations worsened last year, ‌when ⁠Niger recalled its ambassador from Algiers after Algeria shot down a Malian",
-   "published": "Mon, 26 Oct 2026 17:46:40 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_uranium",
  "_query": "Chinese uranium Niger",
  "_domains": [],

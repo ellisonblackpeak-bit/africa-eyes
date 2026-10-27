@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Àwọn ọ̀nà tí mà á gbà láti fi kó àwọn agbèrò kúrò lọ́nà rèé tí mo bá di gómìnà Eko - Funsho Doherty",
+   "url": "https://www.bbc.com/yoruba/articles/ck98zq2yq32ro?at_medium=RSS&at_campaign=rss",
+   "content": "Doherty parọwa yii nigba to n ba BBC News Yoruba sọrọ lori erongba rẹ lati di gomina Eko.",
+   "published_date": "Tue, 27 Oct 2026 17:16:38 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kí ló dé tí DSS ṣe mú alátìlẹ́yìn Atiku, fojú rẹ̀ ba ilé ẹjọ́?",
+   "url": "https://www.bbc.com/yoruba/articles/cw23dzedp9kko?at_medium=RSS&at_campaign=rss",
+   "content": "Iwaju ileẹjọ Majisireti to w ani ojule Kẹwa, opopona Kabala Doki, nipinlẹ Kaduna, ni DSS wọ ọkunrin naa lọ, ti adajọ si pasẹ pe ki wọn fi si ọgba ẹwọn ilu Kaduna.",
+   "published_date": "Tue, 27 Oct 2026 14:53:43 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ẹgbẹ́ tó ń ṣàtìlẹyìn fún Makinde sọ̀kò ọ̀rọ̀ sí Sunday Igboho",
    "url": "https://www.bbc.com/yoruba/articles/cqvgr8r51nk4o?at_medium=RSS&at_campaign=rss",
    "content": "Atẹjade ti ẹgbẹ naa fi sita jẹ ko di mimọ pe ọrọ ti Adeyemo tọpọ tun mọ si Igboho sọ si Gomina Seyi Makinde jẹ eyi to tabuku ba ipo ti gomina wa.",
@@ -72,6 +86,13 @@
    "score": 0.6
   },
   {
+   "title": "Darapọ̀ mọ́ wa lórí WhatsApp",
+   "url": "https://whatsapp.com/channel/0029Vb18ZTM9Gv7NliClgu0M?at_medium=RSS&at_campaign=rss",
+   "content": "Má jẹ́ kí etí rẹ ó di sí gbogbo ìròyìn ohun tó ń lọ ní Naijiria àti káàkiri àgbáyé. Mọ̀ nípa wọn lórí ìkànnì Whatsapp rẹ",
+   "published_date": "Mon, 15 Apr 2024 11:20:59 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Wo nǹkan tó yẹ kí o mọ̀ nípa ọkọ̀ òfúrufú àti drone tí iléeṣẹ́ ọmọ ogun Naijiria fẹ́ rà",
    "url": "https://www.bbc.com/yoruba/articles/c6jdmj70v1djo?at_medium=RSS&at_campaign=rss",
    "content": "Lara awọn irinṣẹ ti ileeṣẹ ọmọ ogun naa yoo tun ra ni ọkọ ofurufu ẹlikọpita T129 ATAK lati China.",
@@ -114,13 +135,6 @@
    "score": 0.6
   },
   {
-   "title": "Darapọ̀ mọ́ wa lórí WhatsApp",
-   "url": "https://whatsapp.com/channel/0029Vb18ZTM9Gv7NliClgu0M?at_medium=RSS&at_campaign=rss",
-   "content": "Má jẹ́ kí etí rẹ ó di sí gbogbo ìròyìn ohun tó ń lọ ní Naijiria àti káàkiri àgbáyé. Mọ̀ nípa wọn lórí ìkànnì Whatsapp rẹ",
-   "published_date": "Mon, 15 Apr 2024 11:20:59 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Jide Kosoko sọ̀rọ̀ lórí gbèse N300m náírà tó jẹ lórí fíìmù tó gbé lọ sinimá",
    "url": "https://www.bbc.com/yoruba/articles/cmd7q490j1pwo?at_medium=RSS&at_campaign=rss",
    "content": "Ogbontarigi oṣere naa sọ pe gbese owo to le ni miliọnu lọna oọdunrun (N300m) naira toun fi ya iṣẹ naa, loun jẹ lori fiimu tuntun ọhun.",
@@ -146,13 +160,6 @@
    "url": "https://www.bbc.com/yoruba/articles/cqn8de37nd3xo?at_medium=RSS&at_campaign=rss",
    "content": "Atẹjade ti Kọmiṣanna fọrọ ijọba ibilẹ ati ọrọ oye ni ipinlẹ Oyo, Ademola Ojo sọ pe gomina nikan lo ni aṣẹ lati yọ oloye to ba wa ni ipo giga bii ti Balogun naa nipo, pe Soun ko ni aṣẹ kankan lati rọ oloye naa nipo rẹ.",
    "published_date": "Sun, 25 Oct 2026 07:57:08 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ẹgbẹ́ tó ń ṣàtìlẹyìn fún Makinde sọ̀kò ọ̀rọ̀ sí Sunday Igboho",
-   "url": "https://www.bbc.com/yoruba/articles/cqvgr8r51nk4o?at_medium=RSS&at_campaign=rss",
-   "content": "Atẹjade ti ẹgbẹ naa fi sita jẹ ko di mimọ pe ọrọ ti Adeyemo tọpọ tun mọ si Igboho sọ si Gomina Seyi Makinde jẹ eyi to tabuku ba ipo ti gomina wa.",
-   "published_date": "Tue, 27 Oct 2026 14:41:47 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/yoruba/articles/cw073m2z3djjo?at_medium=RSS&at_campaign=rss",
    "content": "Inu oyun ni iyawo naa wa lasiko to lugbadi Ebola to si jade laye.",
    "published_date": "Fri, 23 Oct 2026 10:22:17 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ìgbà èwé Toluwanisings le, ọkadà bàbá rẹ̀ ló fi ń gbérò láti rí owó jẹun, ó tún ṣe lébìrà kó tó lu àlùyọ - Ọ̀rẹ́ tímọ́ olóògbé",
-   "url": "https://www.bbc.com/yoruba/articles/c6kgqyld98veo?at_medium=RSS&at_campaign=rss",
-   "content": "Nibi eto abẹla titan tawọn eeyan naa se fun oloogbe yii, ni wọn ti kọ oniruuru orin onigbagbọ, ti wọn si wọ asọ dudu lati se ọfọ akọrin ẹmi naa.",
-   "published_date": "Wed, 21 Oct 2026 12:59:56 GMT",
    "score": 0.6
   }
  ],

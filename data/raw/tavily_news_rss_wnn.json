@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Cross-party interest in Australian nuclear future, poll suggests",
+   "url": "https://www.world-nuclear-news.org/articles/cross-party-interest-in-australian-nuclear-future-poll-suggests",
+   "content": "A YouGov poll commissioned by grassroots organisation Nuclear for Australia suggests that almost two-thirds of Australians believe nuclear should be considered as part of the nation's energy future.",
+   "published_date": "Tue, 27 Oct 2026 08:59:46 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Hot testing of Chinese SMR under way",
    "url": "https://www.world-nuclear-news.org/articles/hot-testing-of-chinese-smr-under-way",
    "content": "Tests that simulate the temperatures and pressures which the reactor systems will be subjected to during normal operation are reportedly taking place at the ACP100 small modular reactor demonstration project, under construction at the Changjiang site on China's island province of Hainan.",
@@ -128,6 +135,13 @@
    "score": 0.6
   },
   {
+   "title": "Singapore looks to develop nuclear energy expertise",
+   "url": "https://www.world-nuclear-news.org/articles/singapore-looks-to-develop-nuclear-energy-workforce",
+   "content": "The Ministry of Energy, Trade and Industry and the Energy Market Authority of Singapore have launched schemes to develop \"a strong pipeline of local expertise in nuclear energy\".",
+   "published_date": "Tue, 27 Oct 2026 11:54:37 GMT",
+   "score": 0.6
+  },
+  {
    "title": "IAEA says Barakah drone-strike response was effective",
    "url": "https://www.world-nuclear-news.org/articles/iaea-says-barakah-drone-strike-response-was-effective",
    "content": "An International Atomic Energy Agency mission to the United Arab Emirates has said that effective action was taken following the loss of off-site power to Barakah Nuclear Power Plant's unit 3 following a drone strike in May which caused a fire in a generator located outside the inner perimeter of the plant.",
@@ -139,6 +153,13 @@
    "url": "https://www.world-nuclear-news.org/articles/tilted-fuel-assembly-retrieved-from-palisades-plant",
    "content": "Holtec International's operation to retrieve the fuel assembly from the plant in Michigan was completed using a purpose-built machine that was conceived, engineered, manufactured and delivered in just two weeks.",
    "published_date": "Mon, 26 Oct 2026 16:24:47 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Korea's Kori 3 and 4 set for restarts in 2027",
+   "url": "https://www.world-nuclear-news.org/articles/koreas-kori-3-and-4-get-go-ahead-to-restart",
+   "content": "Korea Hydro & Nuclear Power has been given approval by South Korea's Nuclear Safety and Security Commission to continue operating Kori Nuclear Power Plant’s unit 3 and 4 for a further 10 years.",
+   "published_date": "Tue, 27 Oct 2026 14:18:24 GMT",
    "score": 0.6
   },
   {
@@ -188,27 +209,6 @@
    "url": "https://www.world-nuclear-news.org/articles/nvidia-to-consider-data-centres-at-former-german-nuclear-sites",
    "content": "Germany's PreussenElektra and multinational technology company NVIDIA are to explore whether PreussenElektra's former nuclear power plant sites are suitable for the construction of so-called AI factories.",
    "published_date": "Tue, 27 Oct 2026 12:14:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US maritime nuclear firm Bluecore Energy announces uranium purchase",
-   "url": "https://www.world-nuclear-news.org/articles/us-maritime-nuclear-firm-bluecore-energy-announces-uranium-purchase",
-   "content": "California-based Bluecore Energy said its purchase of low-enriched uranium from WMC is one of several areas where it has made \"significant progress\" towards moving its technology from engineering and non-fuelled hardware development toward fuel fabrication, testing, validation and future deployment.",
-   "published_date": "Wed, 14 Oct 2026 08:33:48 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kairos Power automates fuel pebble inspections",
-   "url": "https://www.world-nuclear-news.org/articles/kairos-power-automates-fuel-pebble-inspections",
-   "content": "A new facility at Kairos Power's Manufacturing Development Campus in Albuquerque, New Mexico, verifies manufacturing specifications and engraves each fuel pebble with a unique code so it can be traced through testing and operation.",
-   "published_date": "Wed, 14 Oct 2026 09:01:29 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Newcleo opens MOX fuel development centre",
-   "url": "https://www.world-nuclear-news.org/articles/newcleo-opens-mox-fuel-development-centre",
-   "content": "Innovative nuclear energy company Newcleo has inaugurated its EUR10 million (USD11 million) advanced nuclear fuel engineering, testing and training centre located in Chusclan, in the Gard department in southern France.",
-   "published_date": "Thu, 15 Oct 2026 11:55:28 GMT",
    "score": 0.6
   }
  ],

@@ -1,42 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "North Africa and the Sahel face the next global food shock  – GIS Reports",
-   "url": "https://www.gisreportsonline.com/r/food-crisis-africa",
-   "snippet": "A November 2024 report found that jihadist groups have exploited severe social stress to deepen political instability. Drawing on five years of data, the study attributed 60 percent of violent incidents in the central Sahel to such groups, which have used resource scarcity to their advantage and targeted vital infrastructure, including water networks. Similar attacks have also occurred in Libya. [",
-   "published": "Wed, 21 Oct 2026 06:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Jihadists blamed for Mali attack, 48 dead: sources",
-   "url": "https://www.modernghana.com/news/1537773/jihadists-blamed-for-mali-attack-48-dead-sources.html",
-   "snippet": "\"The jihadists threatened to return. There is reason to fear displacement of the population,\" the source said.\n\nMultiple local sources blamed the attack on the Islamic State group's Sahel branch.\n\nThe targeted camps lie about 50 kilometres (30 miles) from the town of Menaka, in or around the village of Tinabow and the Tagadayat area. [...] The Sahel region has also been hit by recent fighting betw",
-   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US Security Analysis Warns of ISIS Logistics Corridor Linking Morocco, Spain, and the Sahel",
-   "url": "https://www.moroccoworldnews.com/2026/10/343006/us-security-analysis-warns-of-isis-logistics-corridor-linking-morocco-spain-and-the-sahel",
-   "snippet": "Spanish authorities arrested roughly 90 people on suspicion of jihadist-related activity in the first eight months of 2025, some of whom had intended to reach Mali before shifting to attack planning inside Spain. The report adds that Spain’s North African diaspora, built over decades of migration, gives multilingual propagandists “a consistent and steady recruitment pool” they can reach without in",
-   "published": "Tue, 20 Oct 2026 14:56:22 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Why Ukraine May Be Involved in Mali's Conflict",
-   "url": "https://en.tempo.co/read/2122400/why-ukraine-may-be-involved-in-malis-conflict",
-   "snippet": "But a potential partnership with the FLA carries political risks. Because the Tuareg separatists cooperate with the JNIM, Kyiv could face accusations of indirectly supporting jihadist fighters. That could undermine Ukraine's efforts to strengthen its relations with African countries.\n\nRead:Mali Defense Minister Killed in Terrorist Attack\n\nClick hereto get the latest news updates from Tempo on Goog",
-   "published": "Mon, 26 Oct 2026 23:56:59 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Two European women held captive for more than a year in Niger freed in Libya - MyJoyOnline",
-   "url": "https://www.myjoyonline.com/two-european-women-held-captive-for-more-than-a-year-in-niger-freed-in-libya",
-   "snippet": "Libya’s military seizes narcotics after firefight with smugglers\n\n Government repatriates 180 Ghanaians from Libya\n\n WAFU B U-17 Girls Cup: Black Maidens thump Niger in fourth game\n\n Libya power cuts push small businesses and weary citizens to brink\n\n AFCON 2027Q: Somalia, Niger to play home matches at Accra Sports Stadium as CAF clears facility\n\n Drugs marked with Gaddafi’s face seized in Libya\n\n",
-   "published": "Thu, 22 Oct 2026 10:10:51 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_sahel",
  "_query": "Sahel jihadist attack",
  "_domains": [],
