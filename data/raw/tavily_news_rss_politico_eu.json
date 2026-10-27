@@ -2,7 +2,14 @@
  "success": true,
  "results": [
   {
-   "title": "Quebec’s separatist leader threatens to play spoiler to Carney’s EU summit",
+   "title": "The US and Canada are talking trade. That doesn’t mean they’re near a deal.",
+   "url": "https://www.politico.eu/article/the-us-and-canada-are-talking-trade-that-doesnt-mean-theyre-near-a-deal/",
+   "content": "Washington and Ottawa have intensified their discussions over the past week, but have yet to offer concessions.",
+   "published_date": "Tue, 27 Oct 2026 22:26:55 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Quebec’s separatist leader threatens to play spoiler at Carney’s EU summit",
    "url": "https://www.politico.eu/article/quebecs-separatist-leader-threatens-to-play-spoiler-to-carneys-eu-summit/",
    "content": "Premier Paul St-Pierre Plamondon says Ottawa would rather he “serve shrimp cocktail” at a function than stage one, and alleges a “serious lack of respect.”",
    "published_date": "Tue, 27 Oct 2026 19:57:34 +0000",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/france-vote-amnesty-plan-undocumented-workers/",
    "content": "Presidential candidate Raphaël Glucksmann is expected to endorse the measure, which would grant amnesty to hundreds of thousands of unauthorized immigrants.",
    "published_date": "Tue, 27 Oct 2026 11:46:57 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Mbappé apologizes after being dropped by Chinese brands over ‘dictator’ comment",
-   "url": "https://www.politico.eu/article/kylian-mbappe-dropped-by-chinese-brands-over-dictator-comment/",
-   "content": "French football star loses deals with drinks-maker and dairy company.",
-   "published_date": "Tue, 27 Oct 2026 10:38:15 +0000",
    "score": 0.6
   }
  ],

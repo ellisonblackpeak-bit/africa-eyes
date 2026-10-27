@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Israel opposition holds narrow edge over Netanyahu in first projections",
+   "url": "https://www.rapporteur.com/news/israel-opposition-holds-narrow-edge-over-netanyahu-in-first-projections/",
+   "content": "Nationwide turnout stood at nearly 75% as of 8:00 pm, the highest in decades",
+   "published_date": "Tue, 27 Oct 2026 20:49:51 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Frontex to coordinate EU deportations, under new plans",
    "url": "https://www.rapporteur.com/news/frontex-to-coordinate-eu-deportations-under-new-plans/",
    "content": "The agency's powers would be expanded for it to oversee the bloc's deportations, with a significantly enlarged personnnel",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/rapporteur-am-israels-eu-fork-in-the-road/",
    "content": "Also, in Monday’s edition: a major climate policy shift",
    "published_date": "Tue, 27 Oct 2026 06:26:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Scale AI faces complaints over workplace surveillance",
-   "url": "https://www.rapporteur.com/news/scale-ai-faces-complaints-over-workplace-surveillance/",
-   "content": "EU-based researchers say gig platform harvests workers' data without proper legal basis",
-   "published_date": "Tue, 27 Oct 2026 06:03:38 +0000",
    "score": 0.6
   }
  ],

@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger imposes curfew on petrol sales amid national fuel shortage | Africanews",
+   "url": "https://www.africanews.com/2026/10/25/niger-imposes-curfew-on-petrol-sales-amid-national-fuel-shortage",
+   "snippet": "#### Niger\n\nNiger’s government has announced an overnight curfew on the sale of petrol across the country, except at designated stations.\n\nAs of this week, they are not able to sell fuel between nine at night and six in the morning to enable suppliers, including the Nigerien Petroleum Company (Sonidep), to restock them. [...] It said this temporary measure aimed to improve the smooth running of op",
+   "published": "Sat, 24 Oct 2026 07:30:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why African Oil Cannot Solve the Global Fuel Crisis - The National Interest",
+   "url": "https://nationalinterest.org/blog/energy-world/why-african-oil-cannot-solve-the-global-fuel-crisis",
+   "snippet": "An oil refinery in Kaduna, Nigeria, July 30, 2013. African oil producers can offer importers some relief from Middle East supply disruptions, but declining output and limited refining capacity mean they cannot resolve the global fuel crisis on their own. (Shutterstock/Richard Juilliart) [...] An oil refinery in Kaduna, Nigeria, July 30, 2013. African oil producers can offer importers some relief f",
+   "published": "Wed, 21 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "From Import Dependency to the People’s IPO: The Dangote Refinery Paradigm",
+   "url": "https://www.fairobserver.com/economics/from-import-dependency-to-the-peoples-ipo-the-dangote-refinery-paradigm",
+   "snippet": "This dependency resulted in a crippling subsidy regime, a massive drain on foreign exchange and recurring fuel shortages. Economic necessity, systemic market failures and the private industrial vision of Aliko Dangote thus prompted the decision to construct the Dangote Refinery. [...] Prior to 2024, Nigeria imported nearly all of its refined fuel. This trend reversed by mid-2026 as regulatory repo",
+   "published": "Tue, 27 Oct 2026 13:32:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia’s First Diesel Tanker To US Since 2022 Is Set To Sail After Sanctions Waiver",
+   "url": "https://www.marineinsight.com/russias-first-diesel-tanker-to-us-since-2022-is-set-to-sail-after-sanctions-waiver",
+   "snippet": "Reuters reported in September that the disruption had cut Europe’s diesel and jet fuel supplies by about a quarter. Fuel inventories fell to their lowest level in 12 years.\n\nNigeria’s Dangote refinery has increased exports to Europe to help make up for the shortfall. [...] Even with Russian supplies returning to the market, analysts do not expect the deal to bring down global fuel prices significa",
+   "published": "Thu, 22 Oct 2026 12:58:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Edo Refinery Exceeds 100% Fuel Production Capacity, Diesel Supply Hits 620,000 Litres Daily - Legit.ng",
+   "url": "https://www.legit.ng/business-economy/energy/1737721-edo-refinery-exceeds-100-fuel-production-capacity-diesel-supply-hits-620000-litres-daily",
+   "snippet": "3 min read\n\n Another Nigerian refinery reached 104.24% capacity utilisation, while Walter Smith produced the most diesel at 290,000 litres daily\n Four operational modular refineries supplied 620,000 litres of diesel daily, meeting just 4.3% of Nigeria’s consumption\n Diesel receipts fell 40% in September as refiners faced feedstock shortages and maintenance shutdowns\n\nPAY ATTENTION: Find it fast wi",
+   "published": "Sat, 24 Oct 2026 11:43:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Petrol Landing Cost Drops to N1,283 as Marketers Navigate Depot Pricing and Discount Proposals",
+   "url": "https://streamlinefeed.co.ke/news/petrol-landing-cost-drops-n1283-marketers-navigate-depot-pricing",
+   "snippet": "The Dangote Petroleum Refinery, which has become a central pillar of Nigeria’s domestic fuel supply strategy, recently adjusted its gantry prices upwards. Having raised its price from N1,265 to N1,350 per litre in September, the mega-refinery was recently quoted by marketers as offering the product at N1,344 per litre. [...] The near-parity between the imported landing cost and the domestic refine",
+   "published": "Thu, 22 Oct 2026 07:27:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "'Ghana has same medium sweet crude with Ivory Coast and Nigeria; If TOR refines theirs why not ours' — MD quizzes propagandists",
+   "url": "https://www.modernghana.com/news/1539536/ghana-has-same-medium-sweet-crude-with-ivory-coas.amp",
+   "snippet": "He said TOR supplied all the premix fuel used by fisherfolk across Ghana for their outboard motors, describing the refinery's role in supporting the country's fishing industry as significant.\n\nAccording to him, Ghana has about three million fisherfolk operating along the coast from Axim to Keta, and TOR ensures that sufficient premix fuel is produced to prevent shortages. [...] He added that the q",
+   "published": "Tue, 27 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Petrol landing cost falls despite rise in crude oil prices - Blueprint Newspapers Limited",
+   "url": "https://blueprint.ng/petrol-landing-cost-falls-despite-rise-in-crude-oil-prices",
+   "snippet": "The difference represents approximately 4.9 per cent of the refinery’s stated gantry price.\n\nImported petrol is also cheaper than the ex-depot prices quoted by depot owners, which range from ₦1,348 to ₦1,358 per litre.\n\nBased on those figures, the estimated landing cost is between ₦64.19 and ₦74.19 below the prevailing ex-depot prices. [...] The development highlights the gap between the estimated",
+   "published": "Fri, 23 Oct 2026 08:36:20 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_oil",
  "_query": "Niger fuel shortage refinery",
  "_domains": [],

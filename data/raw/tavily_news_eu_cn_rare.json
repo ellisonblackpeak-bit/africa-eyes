@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "MERICS China Essentials Special Issue: EU-China economic relations enter a critical phase | Merics",
+   "url": "https://merics.org/en/merics-briefs/merics-china-essentials-special-issue-eu-china-economic-relations-enter-critical",
+   "snippet": "The EU-China trade deal reached in early October may ease Europe’s immediate rare-earth supply problems – but also strengthens Beijing’s ability to use them as a political weapon. The EU committed to resolving priority licensing cases for dual-use exports to China in return for Beijing agreeing to continue expediting decisions on critical-mineral exports to Europe. [...] Beijing could also tighten",
+   "published": "Thu, 22 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe Rare Earth Defence Dependence China Risk",
+   "url": "https://rareearthexchanges.com/news/europe-defence-rare-earth-china-dependence",
+   "snippet": "Pinned  9 hours ago\n\nGhent University warns Europe's military rearmament is threatened by Chinese rare earth processing dependence, urging stockpiles and supply-chain transparency. (read full article...)\n\nReply Like\n\nJoin the full discussion at the Rare Earth Exchanges Forum →\n\nStraight Into Your Inbox\n\n## Straight Into Your Inbox\n\nReceive a Daily News Update Intended to Help You Keep Pace With th",
+   "published": "Wed, 21 Oct 2026 07:57:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Building a China-resilient battery chain by 2035 – GIS Reports",
+   "url": "https://www.gisreportsonline.com/r/china-resilient-battery-chain",
+   "snippet": "The European Union’s main asset is regulatory leverage over one of the world’s largest automotive markets, supported by deep chemical-engineering expertise. Japan’s main contribution is experience: decades spent reducing its dependence on rare earths, backed by state resource finance. South Korea contributes battery manufacturing, cathode technology and global industrial networks. [...] Bob Savic\n",
+   "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and China weigh next sectors for trade curbs  – POLITICO",
+   "url": "https://www.politico.eu/article/eu-and-china-weigh-next-sectors-for-trade-curbs",
+   "snippet": "“In January we can assess how it worked and if it delivered all parts of our agreement,” Šefčovič said, referring to an Oct. 9 pact by which China will voluntarily reduce exports of hybrid vehicles to the EU by almost half to 350,000 units in 2027.\n\nThat deal also lowers tariffs on European goods such as auto parts and footwear, and smooths exports of rare earth elements to the EU. [...] At a pres",
+   "published": "Fri, 23 Oct 2026 19:41:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "TSMC Seeks Alternatives to China-Controlled Rare Earths to Safeguard Chip Production - Modern Diplomacy",
+   "url": "https://moderndiplomacy.eu/2026/10/22/tsmc-seeks-alternatives-to-china-controlled-rare-earths-to-safeguard-chip-production",
+   "snippet": "Finance\n\nCanada's Prime Minister Mark Carney will visit Turkey to...\n\n### Europe Has Quietly Changed What It Asks of Turkey\n\nEurope\n\nBefore dawn on 14 October, Turkish police entered the...\n\n### Iran Never Lost the Arms Race\n\nMiddle East & Africa\n\nTwo Verdicts on One Arsenal Late on 9 October, Western...\n\n© 2026 moderndiplomacy.eu. All Rights Reserved.\n\nManage Consent [...] Global Order\n  + Diplom",
+   "published": "Thu, 22 Oct 2026 09:25:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Grapples With China-Linked Critical Minerals Shortfall Left Unresolved By Trump-Xi Summit",
+   "url": "https://www.rferl.org/a/us-china-critical-minerals-shortfall-trump-xi-summit/33879296.html",
+   "snippet": "Overall, China exported 512 metric tons of rare-earth permanent magnets to the US in August, down 21 percent from July and 13 percent from a year earlier, according to Chinese customs data.\n\nHeading into the summit, Xi sought to leverage China’s strategic metals dominance to secure a lasting trade truce with the United States, says Tomasz Nadrowski, portfolio manager at the New York-based Amvest T",
+   "published": "Wed, 21 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
+   "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Merz Says EU Aims to Avoid China Trade War as It Defends Itself - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-21/merz-says-protectionism-is-throwing-a-wrench-at-global-trade",
+   "snippet": "# Merz Says EU Aims to Avoid China Trade War as It Defends Itself\n\nGerman Chancellor Friedrich Merz said the European Union would seek to avoid a trade conflict with China even as it protects itself from a new dimension of overcapacity and an undervalued currency. [...] “We are not looking for a conflict,” Merz said on a panel at the Berlin Global Dialogue on Wednesday moderated by Stephanie Fland",
+   "published": "Wed, 21 Oct 2026 09:18:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/cfb2e934-0000-42e6-93a4-4dffa56f11a8?syn-25a6b1a6=1",
+   "snippet": "# EU weighs mirroring Donald Trump in securing critical minerals\n\n## Try unlimited access\n\nOnly $1 for 4 weeks\n\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\n\n## Explore more offers.\n\n### FT Edit [...] Complete digital access with exclusive insights and industry deep dives on any device.\n\nCheck whether you already have free ac",
+   "published": "Mon, 26 Oct 2026 05:16:50 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_rare",
  "_query": "Europe rare earth China",
  "_domains": [],

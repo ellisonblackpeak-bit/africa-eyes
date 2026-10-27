@@ -2,9 +2,16 @@
  "success": true,
  "results": [
   {
+   "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
+   "url": "https://www.euronews.com/video/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament",
+   "content": "Demonstrators gathered outside Portugal's parliament to protest against the housing crisis and police violence during recent camp clearances. The president has called for dialogue while defending police actions.",
+   "published_date": "Wed, 28 Oct 2026 00:12:45 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Exit polls suggest no clear victor in Israeli election",
    "url": "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election",
-   "content": "Netanyahu has spent much of the day calling on supporters to get out and vote, painting the election as a \"matter of life and death.\"",
+   "content": "Turnout for the election - Israel's first since Hamas' 7 October 2023 attacks - hit over 77%, according to Israel's Central Elections Committee.",
    "published_date": "Tue, 27 Oct 2026 21:10:40 +0100",
    "score": 0.6
   },
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/10/26/new-business-projects-decline-despite-rising-foreign-investment-un-says-at-world-investmen",
    "content": "Foreign investment is rising, but fewer new projects are being announced and funding remains concentrated in a few economies. At the World Investment Forum in Doha, officials and investors are discussing how more countries can benefit and create jobs.",
    "published_date": "Mon, 26 Oct 2026 14:10:13 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Algeria approves troop deployment to Niger: what is their mission?",
-   "url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
-   "content": "This rare move comes amid strengthened security ties between Algeria and Niamey following the thwarting of an attempted coup in Niger in August.",
-   "published_date": "Mon, 26 Oct 2026 14:09:23 +0100",
    "score": 0.6
   }
  ],
