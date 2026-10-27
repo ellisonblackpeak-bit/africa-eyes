@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "India-EU trade deal could become operational in early-2027, Indian trade minister says",
+   "url": "https://uk.finance.yahoo.com/news/india-eu-trade-deal-could-120125728.html",
+   "snippet": "Reuters\n\nNEW DELHI, Oct 22 (Reuters) - India's ‌proposed free-trade agreement ‌with the European ​Union could become operational within four to five months ‌after ⁠it is signed, trade minister ⁠Piyush Goyal said on Thursday.\n\nThe ​agreement ​is ​expected to ‌be signed before the end of the year, he said during a ‌visit to ​Germany, ​potentially ​accelerating market-access ‌opportunities and invest",
+   "published": "Thu, 22 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pakistan textile exporters warn EU-India trade deal could erode market advantage",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-textile-exporters-warn-eu-india-trade-deal-could-erode-market-advantage-3005196",
+   "snippet": "The warning comes as the European Union prepares to implement a free trade agreement with India that could reduce Pakistan’s relative tariff advantage under the bloc’s Generalized Scheme of Preferences Plus (GSP+). India and the EU concluded negotiations in January, and India’s trade minister said on Thursday the agreement could become operational in early 2027. [...] European Commission President",
+   "published": "Sun, 25 Oct 2026 03:31:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU trade deal could become operational in early-2027, Indian trade minister says | live",
+   "url": "https://live.euronext.com/en/financial-news/india-eu-trade-deal-could-become-operational-early-2027-indian-trade-minister-says",
+   "snippet": "NEW DELHI, Oct 22 (Reuters) - India's proposed free-trade agreement with the European Union could become operational within four to five months after it is signed, trade minister Piyush Goyal said on Thursday.\n\nThe agreement is expected to be signed before the end of the year, he said during a visit to Germany, potentially accelerating market-access opportunities and investment flows between India",
+   "published": "Thu, 22 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Feeding Our Tomorrow: how India’s women-led, sustainable farming is reaching Europe | Euronews",
+   "url": "https://www.euronews.com/2026/10/21/feeding-our-tomorrow-how-indias-women-led-sustainable-farming-is-reaching-europe",
+   "snippet": "He says trade between India and Europe has nearly doubled in a decade and that European investment in India has risen from 80 billion to 140 billion in four years. In France, bilateral goods trade stood at around €13.6 billion in 2025-26, and 38 CAC 40 companies operate in India.\n\n“An FTA is an enabler,” Ashraf says. Exporters and trade agencies must now turn it into business.\n\n## From commodities",
+   "published": "Wed, 21 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU trade deal could become operational in early-2027, Indian trade minister says — TradingView News",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4681HU:0-india-eu-trade-deal-could-become-operational-in-early-2027-indian-trade-minister-says",
+   "snippet": "Reuters\nReuters\n\n# India-EU trade deal could become operational in early-2027, Indian trade minister says\n\nSelect market data provided by ICE Data Services. Select reference data provided by FactSet. Copyright © 2026 FactSet Research Systems Inc.Copyright © 2026, American Bankers Association. CUSIP Database provided by FactSet Research Systems Inc. All rights reserved. SEC filings and other docume",
+   "published": "Thu, 22 Oct 2026 11:46:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU trade deal could take effect within five months",
+   "url": "https://www.investing.com/news/economy-news/indiaeu-trade-deal-could-take-effect-within-five-months-93CH-4965996",
+   "snippet": "India-EU trade deal could take effect within five months\n\nView all comments (0)0\n\nImage 3: &copy; Reuters\n\n© Reuters\n\nWhat conditions could delay the India-EU trade deal taking effect?\n\nInvesting.com -- India’s planned free-trade agreement with the European Union may begin operations four to five months after signing, Trade Minister Piyush Goyal said Thursday. [...] EUR/USD\n           GBP/USD\n    ",
+   "published": "Thu, 22 Oct 2026 12:28:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU trade deal could become operational in early-2027, Indian trade minister says",
+   "url": "https://www.reuters.com/world/india/india-eu-trade-deal-could-become-operational-early-2027-indian-trade-minister-2026-10-22",
+   "snippet": "India's proposed ​free-trade agreement with ‌the European Union could become operational ​within four ​to five months ⁠after it is ​signed, trade ​minister",
+   "published": "Fri, 23 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Poland and India aim to double trade by 2030 as PMs meet in New Delhi | Notes From Poland",
+   "url": "https://notesfrompoland.com/2026/10/22/poland-and-india-aim-to-double-trade-by-2030-as-pms-meet-in-new-delhi",
+   "snippet": "Tusk, meanwhile, underlined that “Poland and India are countries that have much in common and nothing that divides them…[with] no conflicting interests or historical grievances.”\n\nPoland hopes that the boost to bilateral trade will come from an EU-India trade deal expected to be signed in December. The agreement is designed to eliminate or reduce tariffs on goods accounting for 96.6% of the value ",
+   "published": "Thu, 22 Oct 2026 12:48:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-Poland Trade: Can Poland Be India's Strategic Gateway to Europe by 2030?",
+   "url": "https://openthemagazine.com/world/india-poland-trade-target-can-poland-become-indias-gateway-to-europe-by-2030",
+   "snippet": "The proposed trade agreement between India and the European Union is an important part of the picture. Negotiations concluded in January 2026, creating the possibility of a wider framework for trade and investment between the two economies. The agreement must still go through the applicable signing and ratification procedures before it can take effect. [...] Share\n\nShare\n\nPrime Minister Narendra M",
+   "published": "Thu, 22 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "A precursor to the India-EU trade deal",
+   "url": "https://www.economist.com/the-world-in-brief/2026/10/22/e0176b52-5414-4ff5-b618-f45a2d16069b",
+   "snippet": "When Narendra Modi visited Poland in 2024, it was the first visit by an Indian prime minister in 45 years. The countries upgraded ties to a “strategic partnership”, diplo-speak for agreeing to closer commercial relations. To capitalise on that new closeness Donald Tusk, Poland’s prime minister, will meet Mr Modi on Thursday as part of a three-day trip to India, accompanied by a delegation from 100",
+   "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_in",
  "_query": "EU India trade",
  "_domains": [],

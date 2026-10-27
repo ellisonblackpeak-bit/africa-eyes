@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Restarting Russian Gas Flows to Europe Would Undermine US Energy Dominance - Center on Global Energy Policy at Columbia University SIPA | CGEP %",
+   "url": "https://www.energypolicy.columbia.edu/restarting-russian-gas-flows-to-europe-would-undermine-us-energy-dominance",
+   "snippet": "The primary driver behind Europe’s gas pivot toward US LNG was Russia’s decision to cut pipeline gas supplies to Europe in 2022, forcing European countries to turn to alternative gas supplies, especially LNG. As a result, US LNG exports to EU countries quadrupled between 2021 and 2025. While this increase was largely the result of market forces—notably the flexibility of US LNG and attractive EU g",
+   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "For Europe, time to rethink energy | Opinion",
+   "url": "https://www.recordonline.com/story/opinion/2026/10/26/europe-energy-crisis/92399417007",
+   "snippet": "A coherent European energy policy would also increase purchases of reliable American LNG and boost trans-Atlantic trade. An economically confident Europe could expand defense production, push back against Russian pressure, and stop turning to cheap Chinese tech every time it disputes tariffs with Washington. [...] For this winter, the immediate task is straightforward. Brussels should remove unnec",
+   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The LNG Bidding War is Driving Consumer Energy Costs Up - Energy News Beat",
+   "url": "https://energynewsbeat.co/lng/the-lng-bidding-war-is-driving-consumer-energy-costs-up",
+   "snippet": "Bcf/d regionally). Operational US capacity already exceeds 20 Bcf/d, with over 38 Bcf/d in various stages of operation and construction. Recent FIDs in 2026 (e.g., CP2 Phase 2, Commonwealth, Delfin) continue the wave. Europe is sourcing a growing majority of its LNG from the US, deepening dependence even as prices remain elevated.⁠Iea⁠Worldenergynews [...] 10. IEEFA reports (2026): Europe storage ",
+   "published": "Tue, 20 Oct 2026 12:48:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "American LNG industry watching European and Asian markets - Odessa American",
+   "url": "https://www.oaoa.com/local-news/american-lng-industry-watching-european-and-asian-markets",
+   "snippet": "He said that should make reliable LNG originating in the United States increasingly attractive.\n\n“Europe may ultimately consume somewhat less natural gas, but I believe it will place a premium on gas that comes from stable suppliers and transportation routes that are not exposed to Russia or the Strait of Hormuz,” Edwards said. “Asia may be the bigger long-term growth market. [...] “Europe will co",
+   "published": "Thu, 22 Oct 2026 16:28:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "3 LNG Stocks For Europe’s Gas Squeeze",
+   "url": "https://finance.yahoo.com/energy/articles/3-lng-stocks-europe-gas-231403122.html",
+   "snippet": "La Française de l'Energie is a carbon negative energy producer linked to the LNG theme through its European gas activities, generating about €32 million from gas reserve exploration and supported by gas purification and liquefaction know how, with a market cap of roughly €85 million. [...] La Française de l'Energie provides pure play exposure to European gas pricing at a smaller scale, with all re",
+   "published": "Sat, 24 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mild Europe, Asia Forecasts Limit Weather-Driven Demand for US LNG",
+   "url": "https://naturalgasintel.com/news/mild-europe-asia-forecasts-limit-weather-driven-demand-for-us-lng",
+   "snippet": "The possibility of the United States and Iran again trading attacks, along with escalating tensions elsewhere in the Middle East that are once again threatening a broader conflict, continued Monday to push global natural gas prices higher.\n North America LNG export capacity expands to over 35 Bcf/d by 2033, led by projects like Sabine Pass, Corpus Christi, Golden Pass, Port Arthur, Rio Grande LNG,",
+   "published": "Tue, 20 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US LNG Exports Rise in August as Europe Snaps Up Cargoes Ahead of Winter",
+   "url": "https://energynow.com/2026/09/us-lng-exports-rise-in-august-as-europe-snaps-up-cargoes-ahead-of-winter",
+   "snippet": "(Reuters) – U.S. liquefied natural gas exports rose slightly in August as major export plants in Texas finished maintenance and European buyers increased",
+   "published": "Mon, 26 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US LNG Exporters Find Few Takers in Europe for New Supply",
+   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply",
+   "snippet": "By Priscila Azevedo Rocha and Ruth Liao US liquefied natural gas developers expected Europe to…",
+   "published": "Mon, 26 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "QatarEnergy Signs Long-Term Deal to Buy U.S. LNG as Iran War Disrupts Exports",
+   "url": "https://gcaptain.com/qatarenergy-signs-long-term-deal-to-buy-u-s-lng-as-iran-war-disrupts-exports",
+   "snippet": "The attacks damaged two LNG production trains with a combined capacity of 12.8 MTPA, knocking out approximately 17% of Qatar’s export capacity. QatarEnergy has warned that repairs could take three to five years, potentially costing $20 billion annually in lost revenue and disrupting long-term supply commitments to customers in Europe and Asia. [...] The number of commercial transit voyages through",
+   "published": "Thu, 22 Oct 2026 14:48:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU entering winter with lowest gas reserves on record, IEA boss warns | Energy News | Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns",
+   "snippet": "Speaking to Al Jazeera on the sidelines of an international conference in Berlin on Wednesday, Birol said all regions are being hit by energy disruptions in the Strait of Hormuz but that Europe is particularly vulnerable and will likely face rising costs of liquefied natural gas (LNG) in the coming months – even if peace returns to the Gulf today.\n\n## Recommended Stories\n\nlist of 4 items [...] Eur",
+   "published": "Fri, 23 Oct 2026 06:02:15 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],

@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU Council prolongs autonomous sanctions against ISIL/Da'esh, Al-Qaeda & associated persons, groups & entities until 31 Oct. 2027. - CGTN",
+   "url": "https://news.cgtn.com/news/2026-10-26/news-1RyHfg3bov6/p.html",
+   "snippet": "Italiano Japanese\n\n日本語 Korean\n\n한국어 Lao\n\nລາວ Malay\n\nBahasa Melayu Mongolian\n\nМонгол Myanmar\n\nမြန်မာဘာသာ Nepali\n\nनेपाली Persian\n\nفارسی Polish\n\nPolski Portuguese\n\nPortuguês Pashto\n\nپښتو Romanian\n\nRomnă Russian\n\nРусский Serbian\n\nСрпски Sinhalese\n\nසිංහල Spanish\n\nEspañol Swahili\n\nKiswahili Tamil\n\nதமிழ் Thai\n\nไทย Turkish\n\nTürkçe Ukrainian\n\nУкраїнська Urdu\n\nاردو Vietnamese\n\nTiếng Việt\n\nHome   China \n\nWorl",
+   "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Regime Disguises Military Jet Fuel as Diesel to Evade Sanctions: JFM",
+   "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/regime-disguises-military-jet-fuel-as-diesel-to-evade-sanctions-jfm.html",
+   "snippet": "NEPAS is a joint venture between regime-controlled Myanmar Petrochemical Enterprise and partner Asia Sun Group.\n\nAsia Sun Group, a network of companies monopolizing the jet fuel supply chain, has established many shell companies in response to sanctions and public scrutiny. PP Petroleum is part of Asia Sun Group.\n\nSome Asia Sun Group companies are sanctioned by the U.S., UK, EU, Canada and Austral",
+   "published": "Mon, 26 Oct 2026 12:48:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Council extends sanctions against Da'esh, Al-Qaeda",
+   "url": "https://www.bignewsnetwork.com/news/279397557/eu-council-extends-sanctions-against-daesh-al-qaeda",
+   "snippet": "BRUSSELS, 26th October, 2026 (WAM) -- The Council of the European Union today renewed the EU autonomous restrictive measures against Da'esh and Al-Qaeda and persons, groups, undertakings and entities associated with them, prolonging their duration for a further year, until 31st October 2027. [...] # Big News Network.com\n\nBig News Network\nBig News Network\n\n# EU Council extends sanctions against Da'",
+   "published": "Mon, 26 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Did Myanmar Hide Iranian Jet Fuel Imports to Evade US Sanctions? - Modern Diplomacy",
+   "url": "https://moderndiplomacy.eu/2026/10/26/how-did-myanmar-hide-iranian-jet-fuel-imports-to-evade-us-sanctions",
+   "snippet": "Myanmar’s military-linked companies and Iranian suppliers have continued to operate despite these restrictions. Reuters reported in October that Iranian jet fuel shipments to Myanmar were still taking place in 2026.\n\nThe case therefore illustrates a central challenge for sanctions enforcement: restricting access to strategic supplies requires not only targeting suppliers and buyers but also detect",
+   "published": "Mon, 26 Oct 2026 04:39:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "As Russian diesel flows to US, EU holds tough line and preps more sanctions | MLex | Specialist news and analysis on legal risk and regulation",
+   "url": "https://www.mlex.com/mlex/trade/articles/2541793/as-russian-diesel-flows-to-us-eu-holds-tough-line-and-preps-more-sanctions",
+   "snippet": "Start Free Trial\n\nAlready a subscriber? Click here to login\n\n### Related Sections\n\n Trade\n\n#### Already have access? Click here to login\n\n## Get instant access to the one-stop news source for business lawyers\n\nRegister Now!\n\n## Register for a complimentary 14-day trial with access to all sections and newsletters.\n\nEnter your details below and select your area(s) of interest to receive newsletters.",
+   "published": "Fri, 23 Oct 2026 16:04:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU awards human rights prize to International Criminal Court amid Trump attacks | CBC News",
+   "url": "https://www.cbc.ca/news/world/eu-sakharov-prize-icc-9.7391471",
+   "snippet": "Duration \n\n2:08\n\nSouth African jurist Navanethem (Navi) Pillay has won the 2026 Nobel Peace Prize for her work advancing human rights and international law. Her career has included investigations into atrocities in Rwanda, Myanmar and Gaza, where her findings drew sharp criticism from Israel.\n\n## European prize 'carries particular significance'\n\nThursday's award marks the second time this month th",
+   "published": "Thu, 22 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Welcome back, Belgrade! But EU leaders attach strings to accession talks restart",
+   "url": "https://euperspectives.eu/2026/10/welcome-belgrade-eu-leaders",
+   "snippet": "Sanctions are the sharpest issue. Serbia is the only negotiating country not aligned with the EU’s Russia sanctions. Berlin, Paris, and Warsaw have made alignment a de facto precondition for moving forward with new negotiating chapters. Kosovo is another hurdle. Hard-line positions, continued ties with Moscow, and proposals for a membership referendum could all delay talks.\n\n> The doors of the Eur",
+   "published": "Mon, 26 Oct 2026 07:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ICC wins EU’s top rights award as court faces sweeping US sanctions",
+   "url": "https://www.timesofisrael.com/icc-wins-eus-top-rights-award-as-court-faces-sweeping-us-sanctions",
+   "snippet": "Sakharov Prize goes to tribunal targeted by Trump, who vowed to dismantle it 'brick by brick'; Europe pledges support for court's independence.",
+   "published": "Fri, 23 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_mm",
  "_query": "EU Myanmar sanctions",
  "_domains": [],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU Selects 46 Critical Minerals Projects for Fast-Tracking - NAM",
+   "url": "https://nam.org/eu-selects-46-critical-minerals-projects-for-fast-tracking",
+   "snippet": "The goal: “The Commission hopes prioritizing projects will help the bloc meet targets set out in its 2024 Critical Raw Materials Act, under which the EU aims to mine 10%, process 40% and recycle 25% of its annual needs by 2030.”\n\nThe minerals: The projects span 16 EU countries and target 15 critical minerals, including copper, lithium, nickel, cobalt, manganese, graphite, rare earths, magnesium an",
+   "published": "Wed, 21 Oct 2026 21:38:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU considers US-style critical minerals strategy - Mining.com.au",
+   "url": "https://mining.com.au/eu-considers-us-style-critical-minerals-strategy",
+   "snippet": "Last year, the US Government committed US$400 million ($570.15 million) to rare earths producer MP Materials (NYSE:MP) in a deal that could give it a 15% stake, an investment FT sources say has helped shape Europe’s thinking.\n\nUnder the EU proposal, the new agency, known as the Critical Raw Materials Centre, would be able to acquire stakes in companies considered important to Europe’s supply secur",
+   "published": "Mon, 26 Oct 2026 16:39:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU weighs equity stakes in critical-minerals projects to curb China reliance",
+   "url": "https://miningmx.com/2026-10-26-eu-looks-to-us-model-for-critical-minerals-security",
+   "snippet": "The FT said the move reflected concern that Europe risks falling behind the US in securing minerals needed for defence, batteries and clean technologies.\n\nThe Trump administration has taken a more aggressive approach, including a $400m investment for a 15% stake in rare-earth producer MP Materials, alongside a $150m loan.\n\nIt also agreed to a 10-year minimum price of $110/kg for neodymium-praseody",
+   "published": "Mon, 26 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Seville panel: Europe must match US mining support - The Northern Miner",
+   "url": "https://www.northernminer.com/news/seville-panel-europe-must-match-us-mining-support/1003895900",
+   "snippet": "Europe needs to match its critical minerals ambitions with purchase guarantees, public investment and stable policies if it wants companies to build mines and processing plants, speakers told the sixth Mining and Minerals Hall conference in Seville on Tuesday. [...] Public acceptance also requires more than explaining the demand for metals. Communities need confidence in how projects operate, Port",
+   "published": "Tue, 20 Oct 2026 21:05:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Plans Critical Raw Materials Hub With €2 Billion Stake in Mining Firms, Taking Cue From US and Japan — BigGo Finance",
+   "url": "https://finance.biggo.com/news/82bd8ae8-a045-4465-b0e7-2953ebc2bdad",
+   "snippet": "The European Union is seeking to replicate the approach of the United States and Japan in securing critical minerals supply chains. Last week, Members of the European Parliament voted to approve a resolution to establish an independent body with dedicated funding that could intervene by taking equity stakes in raw materials companies when necessary, while also building EU-level strategic reserves ",
+   "published": "Mon, 26 Oct 2026 07:06:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Codelco sets 2027 Europe copper premium at record $350 a metric ton, sources say - MINING.COM",
+   "url": "https://www.mining.com/web/codelco-sets-2027-europe-copper-premium-at-record-350-a-metric-ton-sources-say",
+   "snippet": "Reuters | October 20, 2026 | 10:11 am  Critical Minerals Markets Asia China Europe USA Copper\n\nStock image.\n\nChile’s Codelco is offering its European customers copper at a record high premium of $350 a metric ton for next year, up more than 7% from $325 this year, two sources with knowledge of the matter said.\n\nCodelco, the world’s biggest copper miner by production, declined to comment. [...] Go ",
+   "published": "Tue, 20 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical Metals Sinks 7% Despite Shareholder Approval of European Lithium Deal; USA Rare Earth Drops 5%, United States Antimony Falls 3% - 24/7 Wall St.",
+   "url": "https://247wallst.com/investing/2026/10/22/critical-metals-sinks-7-despite-shareholder-approval-of-european-lithium-deal-usa-rare-earth-drops-5-united-states-antimony-falls-3",
+   "snippet": "Selling in Critical Metals stock runs deeper than the pullback across other U.S.-listed critical minerals names. USA Rare Earth (NASDAQ:USAR) stock is trading at $9.74, down 5%, a lighter decline than the one hitting Critical Metals stock. At the same time, United States Antimony (NYSEAMERICAN:UAMY) stock is down 3% to $3.19, trailing both rare earth names in the depth of its drop. [...] ### Unite",
+   "published": "Thu, 22 Oct 2026 17:05:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Bangkok Post - Canada-EU summit seeks deepened alliance as US ties fray",
+   "url": "http://www.bangkokpost.com/world/3343860/canadaeu-summit-seeks-deepened-alliance-as-us-ties-fray",
+   "snippet": "Leaders at the two-day Montreal meeting will try to hammer out specifics for closer ties in areas including defense, artificial intelligence and critical minerals.\n\nBeyond specifics, the push for new levels of Canada-EU closeness has highlighted the shifting geopolitical realities triggered by US President Donald Trump.\n\nPunished by US tariffs, Canada is seeking new economic opportunities overseas",
+   "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/cfb2e934-0000-42e6-93a4-4dffa56f11a8?syn-25a6b1a6=1",
+   "snippet": "# EU weighs mirroring Donald Trump in securing critical minerals\n\n## Try unlimited access\n\nOnly $1 for 4 weeks\n\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\n\n## Explore more offers.\n\n### FT Edit [...] Complete digital access with exclusive insights and industry deep dives on any device.\n\nCheck whether you already have free ac",
+   "published": "Mon, 26 Oct 2026 05:16:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU unveils a new Arctic push as global warming and security threats reshape the region - ABC News",
+   "url": "https://abcnews.com/International/wireStory/eu-unveils-new-arctic-push-global-warming-security-137410994",
+   "snippet": "# EU unveils a new Arctic push as global warming and security threats reshape the region\n\nThe European Union has unveiled a plan to boost its presence in the Arctic\n\nByLORNE COOK Associated Press\n\nOctober 20, 2026, 9:29 AM\n\nBRUSSELS -- The European Union laid out a plan on Tuesday to increase its footprint in the Arctic as global warming, conflict and competition for energy resources and critical ",
+   "published": "Tue, 20 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],
