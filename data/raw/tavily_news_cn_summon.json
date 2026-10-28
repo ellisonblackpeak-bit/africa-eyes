@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "\"Will Govt summon Chinese delegation or remain pleasant and superficial?\" SP MP Rajeev Rai questions Centre",
-   "url": "https://www.indiasnews.net/news/279399417/will-govt-summon-chinese-delegation-or-remain-pleasant-and-superficial-sp-mp-rajeev-rai-questions-centre",
-   "snippet": "Demanding clarity on India's diplomatic posture toward China amid the proceedings, Rai posed a direct question to the Union Government, 'Furthermore, for all 140 crore of us, a key question arises: will the Government of India summon the Chinese delegation to register a formal protest or convey its stance, or will everything remain pleasant and superficial?' [...] Rai charged that developmental pr",
-   "published": "Tue, 27 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Leaders of firms probed for haze links summoned to meet S’pore ministers, warned to cooperate | The Straits Times",
-   "url": "https://www.straitstimes.com/singapore/environment/leaders-of-firms-probed-for-haze-links-called-for-meeting-with-spore-ministers-warned-to-cooperate",
-   "snippet": "His remarks to the companies were provided to the mediain a transcript. The Oct 28 meeting with the firms also includedDeputy Prime Minister Gan Kim Yong, Minister for Sustainability and the Environment Grace Fu.\n\nSeven of the executives representing the firms - seated directly opposite the ministers - were stony-faced when the media was momentarily allowed into the room for photos and videos. [..",
-   "published": "Wed, 28 Oct 2026 10:09:26 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "‘Not to find scapegoats’: Singapore ministers summon bosses of 10 firms over haze | South China Morning Post",
-   "url": "https://www.scmp.com/week-asia/health-environment/article/3372479/not-find-scapegoats-singapore-ministers-summon-bosses-10-firms-over-haze",
-   "snippet": "Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Minister for Sustainability and the Environment Grace Fu laid out expectations by the government, including its plan to strengthen laws targeting polluters.\n\nSelect Voice\n\nSelect Speed\n\nAI-generated voice [...] Kolette Limin Singapore\n\nIn a rare move, Singapore on Wednesday summoned top executives from 10 locally registered compan",
-   "published": "Wed, 28 Oct 2026 14:51:30 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes - CNA",
-   "url": "https://www.channelnewsasia.com/singapore/transboundary-haze-pollution-act-companies-meeting-shanmugam-grace-fu-6498811",
-   "snippet": "#### Trending Topics\n\nCNA Explains   China   artificial intelligence   Indonesia   Malaysia   podcasts   Wellness   Thailand   Japan\n\nAdvertisement\n\nAdvertisement\n\nSingapore\n\n# Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes [...] Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Minister for Sustainability and the Environm",
-   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Singapore to amend haze law at next Parliament sitting, making non-compliance an offence: Grace Fu",
-   "url": "https://news.theonlinecitizen.com/2026/10/28/singapore-to-amend-haze-law-at-next-parliament-sitting-making-non-compliance-an-offence-grace-fu",
-   "snippet": "\"Singaporeans should not have to bear the health and environmental costs of irresponsible business conduct. Even as the haze condition improves, we will not relent,\" Fu said.\n\n### Ten companies summoned for rare closed-door meeting with senior ministers\n\nThe announcement followed a closed-door meeting attended by Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Fu. [...] Golden ",
-   "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Alibaba Stock Slips as China Renews Regulatory Pressure<!-- --> - Barron's",
-   "url": "https://www.barrons.com/articles/alibaba-stock-china-regulation-3f2d6df9",
-   "snippet": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\nBarron's\n\n# Alibaba Stock Slips as China Renews Regulatory Pressure\n\nAlibaba Group Holding stock was falling Thursday as regulatory pressures from Beijing—long the bogeyman of the Chinese tech sector—appeared to rise again. While Alibaba has recently made a successful pivot to artificial intelligence, it is still vulnerable to governmen",
-   "published": "Thu, 22 Oct 2026 16:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Alibaba Shares Post Steepest Drop in Two Months on China Curbs - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs",
-   "snippet": "# Alibaba Shares Post Steepest Drop in Two Months on China Curbs\n\nAlibaba Group Holding Ltd.’s shares suffered their steepest decline in two months as investors fretted over Chinese authorities’ push to tighten product-quality standards and strengthen consumer protection. [...] The Chinese e-commerce giant’s shares fell as much as 6% on Thursday, the most since Aug. 24. The stock was the biggest c",
-   "published": "Thu, 22 Oct 2026 03:29:46 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "DFA, Chinese Embassy now at odds over latter’s social media posts",
-   "url": "https://globalnation.inquirer.net/343485/dfa-chinese-embassy-now-at-odds-over-latters-social-media-posts",
-   "snippet": "In a statement, the Department of Foreign Affairs (DFA) said diplomats were expected to act “in a manner befitting diplomatic envoys.”",
-   "published": "Fri, 23 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

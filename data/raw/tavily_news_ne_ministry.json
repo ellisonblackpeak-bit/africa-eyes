@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment since 1973 - BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko",
-   "snippet": "Algeria's state-owned energy company, Sonatrach, has also signed an agreement with Niger's petroleum ministry to explore for oil in the Kafra region. Two exploration wells are estimated to contain 168 million and 100 million barrels, respectively, Reuters reported.\n\nRelations between Algeria and Niger have not always been smooth in recent years.\n\nAlgeria condemned the 2023 coup that ousted Niger's",
-   "published": "Mon, 26 Oct 2026 13:18:57 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "FG: Era of Holding Nigeria’s Oil, Gas Assets as Souvenirs Over – THISDAYLIVE",
-   "url": "https://www.thisdaylive.com/2026/10/26/fg-era-of-holding-nigerias-oil-gas-assets-as-souvenirs-over",
-   "snippet": "Minister of State for Petroleum Resources (Oil), Senator Heineken Lokpobiri, said the policy has empowered the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) to recover undeveloped assets and make them available to investors willing and able to develop them. [...] In the same vein, Minister of State for Petroleum Resources (Gas), Ekperikpe Ekpo, said Nigeria must translate its 215 Trill",
-   "published": "Mon, 26 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Tinubu: Nigeria breaking free from fuel import dependence",
-   "url": "https://thesun.ng/tinubu-nigeria-breaking-free-from-fuel-import-dependence",
-   "snippet": "Tinubu, represented by Vice President Kashim Shettima, spoke yesterday at the opening of the Nigerian Economic Summit Group (NESG) summit in Abuja, where he compared petrol prices in Nigeria with those of neighbouring African countries.\n\nHe said petrol sold for about $0.85 per litre in Niger Republic, equivalent to N1,148.36, while the price stood at $1.28, or N1,729.39, in Benin Republic. [...] T",
-   "published": "Tue, 27 Oct 2026 02:14:56 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "FG Ends Era Of Hoarding Nigeria’s Oil And Gas Assets",
-   "url": "https://independent.ng/fg-ends-era-of-hoarding-nigerias-oil-and-gas-assets",
-   "snippet": "According to him, the departure of these companies reduced competition, leaving only a few service providers in some areas and increasing the cost of oil and gas projects.\n\nThe minister said the government was engaging contractors in Europe and America to encourage them to return to Nigeria, while pursuing reforms to improve the country’s investment climate.\n\nHe added that a recent presidential ex",
-   "published": "Mon, 26 Oct 2026 08:47:21 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "FG targets 12bscf daily gas production by 2030 | Galaxy Television",
-   "url": "https://www.galaxytvonline.com/news/energy/nigeria-delivered-127-million-barrels-of-crude-to-refineries-in-2026-nuprc",
-   "snippet": "President Bola Tinubu announced the targets on Monday at the 20th anniversary of OTL Africa Downstream Energy Week in Lagos. He was represented by the Permanent Secretary of the Ministry of Petroleum Resources, Patience Ojekunle.\n\nTinubu said Nigeria’s proven gas reserves of more than 250 trillion cubic feet offered an opportunity to drive economic growth if investment increased in production, pro",
-   "published": "Tue, 27 Oct 2026 13:25:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Bolivia to raise ethanol blend in petrol to 18% by April 2027 to cut imports - EnviroNews - latest environment news, climate change, renewable energy",
-   "url": "https://www.environewsnigeria.com/bolivia-to-raise-ethanol-blend-in-petrol-to-18-by-april-2027-to-cut-imports",
-   "snippet": "Oil & Gas\n\n# Bolivia to raise ethanol blend in petrol to 18% by April 2027 to cut imports\n\n16\n\n0\n\nShare\n\nFacebookXPinterestWhatsAppLinkedinEmail\n\n- Advertisement -\n\nBolivia’s Minister of Hydrocarbons and Energy, Marcelo Blanco, on Thursday, October 22, 2026, said the country would increase the proportion of ethanol in petrol from 12 to 18 per cent.\n\nBlanco said this would take effect from Nov.1, a",
-   "published": "Thu, 22 Oct 2026 14:20:23 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Dangote, Nigeria’s tycoon rewriting Africa’s oil story | Kuwait Times Newspaper",
-   "url": "https://kuwaittimes.com/article/52493/business/dangote-nigerias-tycoon-rewriting-africas-oil-story",
-   "snippet": "(From left to right) Ethiopia’s Prime Minister Abiy Ahmed, Uganda’s President Yoweri Museveni, Kenya’s President William Ruto, Dangote Group president and chief executive Aliko Dangote, Former President of Nigeria Olusegun Obasanjo, Benin’s President Romuald Wadagni and Togo’s President Jean-Lucien Savi de Tove pose for a photograph during the groundbreaking ceremony of the Dangote East Africa Pet",
-   "published": "Tue, 27 Oct 2026 19:58:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria, Algeria, Liberia… African governments woo oil investors in licensing revival",
-   "url": "https://www.theafricareport.com/434764/nigeria-algeria-liberia-african-governments-woo-oil-investors-in-licensing-revival",
-   "snippet": "all in\n\n   Nigeria: Why Dangote is keeping an oversubscribed IPO open\n quad squad\n\n   Meet the Balogun brothers: A new era in Nigeria’s finance led by Subomi Balogun’s four sons\n Strength in numbers\n\n   Meet the African diaspora candidates running in the US midterm elections\n steering nigeria\n\n   The women running Nigeria’s economy\n Heated rivalry\n\n   US-Africa Week Ahead: Watching Russia, excludi",
-   "published": "Wed, 28 Oct 2026 13:24:28 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ne_ministry",
  "_query": "Niger petrol minister oil",
  "_domains": [],

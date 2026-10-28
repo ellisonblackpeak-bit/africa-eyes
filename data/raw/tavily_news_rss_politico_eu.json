@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "What will it take for Europe’s automotive transition to succeed?",
+   "url": "https://www.politico.eu/sponsored-content/what-will-it-take-for-europes-automotive-transition-to-succeed/",
+   "content": "POLITICAL ADVERTISEMENT More information here",
+   "published_date": "Wed, 28 Oct 2026 23:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "5 takeaways from Andy Burnham’s first budget",
+   "url": "https://www.politico.eu/article/five-takeaways-from-andy-burnhams-first-budget/",
+   "content": "Britain's prime minister wants to end 40 years of neoliberalism. Just not yet.",
+   "published_date": "Wed, 28 Oct 2026 20:40:34 +0000",
+   "score": 0.6
+  },
+  {
    "title": "What Trump can learn from Lula and Netanyahu",
    "url": "https://www.politico.com/news/magazine/2026/10/28/trump-lessons-lula-netanyahu-column-01138909",
    "content": "Elections in Brazil and Israel offer a blueprint back to relevancy.",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/uk-budget-online-retailers/",
    "content": "Move to close a loophole brings Britain closer to approaches adopted in Switzerland.",
    "published_date": "Wed, 28 Oct 2026 13:10:26 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Berlin startet KI-Überwachung am Kottbusser Tor",
-   "url": "https://www.politico.eu/article/berlin-startet-ki-ueberwachung-am-kottbusser-tor/",
-   "content": "30 Kameras sollen ab November automatisch Gewalttaten und Notfälle erkennen. Ganz so anonym, wie zunächst dargestellt, ist die Überwachung allerdings nicht.",
-   "published_date": "Wed, 28 Oct 2026 12:47:03 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Zelenskyy defends leaders of Finland and Norway over Putin talks",
-   "url": "https://www.politico.eu/article/volodymyr-zelenskyy-defend-finland-norway-alexander-stubb-jonas-gahr-store-vladimir-putin-russia-ukraine/",
-   "content": "Some European governments have criticized Alexander Stubb and Jonas Gahr Støre for breaking ranks and calling the Russian leader directly.",
-   "published_date": "Wed, 28 Oct 2026 11:51:33 +0000",
    "score": 0.6
   }
  ],

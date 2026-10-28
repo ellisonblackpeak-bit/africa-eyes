@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Algeria bolsters African standing through concrete solidarity, strengthening its strategic partnerships | Algérie Presse Service",
-   "url": "https://www.aps.dz/en/world/africa/mvj7rz6s-algeria-bolsters-african-standing-through-concrete-solidarity-strengthening-its-strategic-partnerships",
-   "snippet": "NIAMEY - Nigerien media reports have highlighted the importance of the role Algeria plays in strengthening African cooperation, through its swift response to Niger’s request for assistance and the mobilization of the expertise of Sonatrach group to help deal with the incident at the \"Goumeri\" oil well in Agadem field.\n\n### Subscriber-Only Content\n\nTo continue reading this article, please sign in o",
-   "published": "Thu, 22 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria Approves First Overseas Troop Deployment In 53 Years To Protect Energy Interests In Niger",
-   "url": "https://trendsnafrica.com/algeria-approves-first-overseas-troop-deployment-in-53-years-to-protect-energy-interests-in-niger?amp=1",
-   "snippet": "The decision, approved by Algerian lawmakers on October 25, 2026, marks the country’s first such deployment since 1973, when Algeria supported Egypt during the Arab-Israeli War. The government has not yet disclosed the number of troops involved or the timeline for the mission. According to Algerian Senator Belkacem Boulghiti, the deployment is intended to safeguard Algeria’s economic and strategic",
-   "published": "Mon, 26 Oct 2026 15:14:25 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_cnpc",
  "_query": "Agadem oil field",
  "_domains": [],

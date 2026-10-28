@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China’s humanoid robots hunt for work in South Korea as Seoul bets on physical AI | South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai?pgtype=topic",
-   "snippet": "Wency Chenin Seoul, South Korea\n\nThis article was first published by The Korea Times in a partnership with the South China Morning Post.\n\nChinese humanoid robot makers are accelerating efforts to gain a foothold in South Korea, moving beyond dance performances and showroom displays to factory trials and commercial deployments, as Seoul ramps up investment in physical artificial intelligence. [...]",
-   "published": "Fri, 23 Oct 2026 08:00:33 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Biotech Curbs Could Rattle K-Bio - Businesskorea",
-   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279580",
-   "snippet": "Whether South Korea will benefit, taking into account U.S. investment restrictions on China as well, remains to be seen.\n\nIf the U.S. government’s final plan includes pharmaceutical licensing agreements among transactions subject to review, global pharmaceutical companies could shift their attention from China to new drug candidates in other countries. [...] Jeong Yoon-taek, head of the Pharmaceut",
-   "published": "Fri, 23 Oct 2026 10:38:17 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Global Funds Flock to Chinese Tech; Robots, EVs Lead Semiconductor Self-Reliance",
-   "url": "https://www.chosun.com/english/market-money-en/2026/10/28/5U4GZWMGHVCYTFA74YHXF7BBS4",
-   "snippet": "companies and South Korean companies is rapidly narrowing,” and added, “A Chinese AI company with a market capitalization of 1 trillion Chinese yuan (approximately 200 trillion Korean won) could emerge.” [...] ◇ Growth of Chinese Tech Companies\n\n- News of CXMT's rapid growth caused Samsung Electronics and SK Hynix's stock prices to fall.\n\n“Currently, the semiconductor market is not a structure whe",
-   "published": "Tue, 27 Oct 2026 15:51:37 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
-   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
-   "snippet": "As these Chinese companies established operations in the park, their upstream and downstream suppliers also followed, Bui said. In the past, Chinese companies investing in Vietnam were generally smaller in scale, while South Korean and Japanese enterprises accounted for a larger share of foreign investment; however, Vietnam is now seeing a growing number of large Chinese companies investing in the",
-   "published": "Tue, 27 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China’s Clean Tech Investment Overseas Opportunities Await",
-   "url": "https://chinaglobalsouth.com/podcasts/china-clean-tech-investment-overseas",
-   "snippet": "We are looking at other countries that are also setting up factories overseas. That includes the Japanese, the South Koreans, the Dutch, the Taiwanese. Those are the largest investors, but the Chinese are by far the largest investors. [...] But you see a really important geographical clustering where the Koreans and the Japanese in particular are going all in in North America, where the Chinese ha",
-   "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Korean Startup Programs Can Track China Buyer Commitment Before Deals - KoreaTechDesk | Korean Startup and Technology News",
-   "url": "https://koreatechdesk.com/korean-startup-china-market-access-buyer-commitment",
-   "snippet": "The event brought together 20 Korean companies and 63 Chinese buyer companies, generating 246 business consultations. KOTRA reported approximately USD 89.82 million in consultation value and USD 76.35 million in contract-pursuit value.\n\nThe figures represent two different commercial stages. Consultation value (상담액) reflects the monetary value discussed during business meetings, while contract-purs",
-   "published": "Wed, 28 Oct 2026 01:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Facade of Complementarity: The Threat That Sino-Korean Tech Cooperation Poses for Seoul",
-   "url": "https://www.nbr.org/publication/the-facade-of-complementarity-the-threat-that-sino-korean-tech-cooperation-poses-for-seoul",
-   "snippet": "found that the terms and conditions for Chinese champions AliExpress and Temu unfairly limited consumer rights and excluded the platforms from liability in violation of South Korean laws, including the Personal Information Protection Act. released a report finding that “the era of China catching up with South Korea is over, and now it is South Korea’s turn to catch up with China.” The think tank e",
-   "published": "Thu, 22 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Foreign Investment Review In South Korea: What To Know",
-   "url": "https://globallawexperts.com/foreign-investment-review",
-   "snippet": "A direct foreign investment under FIPA typically involves a foreign person or foreign-controlled entity acquiring shares or an equity interest in a Korean company, or establishing a new Korean enterprise, subject to the statutory conditions. Indirect structures, where a foreign ultimate parent invests through an intermediate Korean or offshore holding vehicle, can still raise foreign-investment is",
-   "published": "Mon, 26 Oct 2026 05:52:34 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Korea's AI development ecosystem is increasingly relying ...",
-   "url": "https://www.facebook.com/thekoreatimes/posts/koreas-ai-development-ecosystem-is-increasingly-relying-on-chinese-foundation-mo/1438996111739483",
-   "snippet": "Korea's AI development ecosystem is increasingly relying on Chinese foundation models, raising concerns that the country's AI industry could become",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_kr",
  "_query": "Chinese company South Korea investment",
  "_domains": [],

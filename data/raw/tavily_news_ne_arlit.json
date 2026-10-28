@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Arlit Uranium Mine Mine (Uranium) — Production & B2B Analysis | MiningWorld",
-   "url": "https://www.miningworldintelligence.com/en/mines/niger-arlit-uranium-mine",
-   "snippet": "# Arlit Uranium Mine\n\nUranium mine · Niger Operating\n\n## Key Statistics\n\nAnnual Production Capacity\n\nN/A\n\nCountry\n\nNiger\n\nCommodity\n\nUranium\n\nStatus\n\nOperating\n\nCoordinates\n\n18.7770, 7.3315\n\nOpening Year\n\nN/A\n\nLife of Mine\n\nN/A\n\nMining Methods\n\nN/A\n\n## Operator & Ownership\n\nNo ownership data available.\n\n## Geology & Processing\n\nDeposit Type\n\nN/A\n\nDeposit Depth\n\nN/A\n\nProcessing Method\n\nN/A\n\nClimate",
-   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Foreign relations of Niger - Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Foreign_relations_of_Niger",
-   "snippet": "can be directly transported between Gaya and the port. French Uranium mines in Arlit, which produce Niger's largest exports by value, travel through this port to France or the world market. | [...] and Agadez. In 1979 a smaller French force was again based permanently in Niger.  Franco-Nigerien relations continue to be close, with France as Niger's top export partner (in value), and the French gov",
-   "published": "Thu, 22 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria is set to send army units to Niger to safegua",
-   "url": "https://www.facebook.com/ArabNews/posts/algeria-is-set-to-send-army-units-to-niger-to-safeguard-its-energy-and-economic-/1556629066502102",
-   "snippet": "Niger has officially cancelled the Arlit uranium concession originally granted to France in 1968, ending over five decades of French-controlled uranium",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "L'uranium du pays est à nous",
-   "url": "https://www.facebook.com/NIGERmonpays/posts/luranium-du-pays-est-%C3%A0-nous/1139678735241026",
-   "snippet": "parle d'uranium, je veux … à Arlit, des souvenirs de la mine, ⃣L'uranium a été découvert relativement tard dans l'histoire, en 1789,",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/De2Cz8Om8Je",
-   "snippet": "Africa has the resources. The question is who controls them.  \n  \nFrench plants ran on Nigerien uranium for more than 50 years. France drew up to 15% of its nuclear fuel from Niger, and about 70% of French electricity is nuclear.  \n  \nAt the SOMAIR mine in Arlit, Orano held 63.4% and Niger’s state company 36.6%. Orano operated it. Niger’s government says Orano took 86.3% of production from 1971 to",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "THE COLLAPSE: Europe's Cost-of-Living Wars and ...",
-   "url": "https://www.facebook.com/Mapongajiii/posts/the-collapse-europes-cost-of-living-wars-and-the-end-of-the-free-extraction-mode/1694407382247077",
-   "snippet": "5. Externalization of Cost: When the mine closed in Arlit, the cancer stayed. When the uranium lit Paris, the darkness stayed in Niamey. This created Europe",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Safety assessment of a loss-of-pool-water accident in the ...",
-   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306454926008029",
-   "snippet": "This study presents a safety analysis of the spent fuel storage system of a 10 MW research reactor under a postulated loss-of-pool-water accident. A",
-   "published": "Sun, 25 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ne_arlit",
  "_query": "Arlit uranium",
  "_domains": [],

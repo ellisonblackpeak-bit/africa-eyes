@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment since 1973 - BBC",
-   "url": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
-   "snippet": "# Algeria to send troops to Niger in first foreign deployment since 1973. Algeria is to send troops to Niger in its first foreign deployment since sending forces to Egypt during the Arab-Israeli war in 1973. The deployment follows a visit to Algiers by Niger's defence minister, as the country seeks support against armed groups, some of which are linked to al-Qaeda or Islamic State. The troops are ",
-   "published": "Mon, 26 Oct 2026 13:18:57 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria’s military deployment to Niger: What’s behind the move? - Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
-   "snippet": "# Algeria’s military deployment to Niger: What’s behind the move? *This will be Algeria’s first foreign troop deployment in 50 years as the country shifts its military doctrine amid new security challenges.*. Algeria’s parliament has approved a proposal to deploy troops to neighbouring Niger, in a major shift in the North African nation’s noninterventionist military doctrine. Algeria’s lower house",
-   "published": "Mon, 26 Oct 2026 09:59:27 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Oil market tightness to persist as Iran conflict drags on - Mining.com.au",
-   "url": "https://mining.com.au/oil-market-tightness-to-persist-as-iran-conflict-drags-on/",
-   "snippet": "MCA outlines roadmap to unlock Northern Territory mining potential•Albright Metals eyes multi-commodity targets for Golden Pike drilling•Impact Minerals puts Lake Hope at centre of new strategy•Lightning grants Kincora option over porphyry licences•Western Mines grows indicated Mulga Tank nickel resource by 98%•TG Metals sends Burmeister core to potential partners•BC election results could reshape",
-   "published": "Sun, 25 Oct 2026 23:33:24 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria probe blames overcrowding for deaths of 37 detained miners - Mining.com.au",
-   "url": "https://mining.com.au/nigeria-probe-blames-overcrowding-for-deaths-of-37-detained-miners/",
-   "snippet": "* Nigeria probe blames overcrowding for deaths of 37 detained miners. The deaths of 37 artisanal gold miners in Nigerian custody last month were caused by severe overcrowding, poor ventilation and neglect, according to a government investigation. The miners were among a larger group arrested during a government-led crackdown on illegal mining in Niger State, a region known for its small-scale gold",
-   "published": "Tue, 27 Oct 2026 16:52:35 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Larvotto Resources eyes third metal as Hillgrove production ramps up - Mining.com.au",
-   "url": "https://mining.com.au/larvotto-resources-eyes-third-metal-as-hillgrove-production-ramps-up/",
-   "snippet": "Prosperity One adds fuel to US uranium growth story•Regeneration deal highlights New Brunswick’s minerals ambitions•Copper scrap export restrictions raise supply security, recycling risks•Jacaranda Natural Resources debuts on ASX after $8 million IPO•Former Rio Tinto exec to oversee Australia’s defence procurement•IMARC panel questions private equity’s future in mining•AusQuest’s Peru asset declar",
-   "published": "Wed, 28 Oct 2026 03:59:04 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - Greenwich Time",
-   "url": "https://www.greenwichtime.com/news/world/article/algeria-to-send-troops-to-niger-in-first-foreign-22493927.php",
-   "snippet": "# Algeria to send troops to Niger in first foreign deployment in over 50 years. ALGIERS, Algeria (AP) — Algeria’s parliament approved a resolution Sunday to send troops to Niger, making it the first time Algerian soldiers will be deployed abroad since 1973, when they were sent to support Egypt during the Arab-Israeli war. “We are not sending our soldiers to wage war in Niger, but for a mission to ",
-   "published": "Sun, 25 Oct 2026 23:49:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Growing Nuclear Demand Could Push Uranium Mining Into New Areas | Opinion - Newsweek",
-   "url": "https://www.newsweek.com/uranium-nuclear-power-new-areas-exploration-canada-12628253",
-   "snippet": "According to Natural Resources Canada, the basin hosts some of the world’s highest-grade uranium deposits. Geological evidence suggests that Canada’s Thelon Basin also deserves consideration in that discussion, not because it is necessarily the next Athabasca, but it is demonstrating the key indicators of discovery success on limited historic exploration. In July 2026, the company reported a notab",
-   "published": "Wed, 28 Oct 2026 16:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - The Washington Post",
-   "url": "https://www.washingtonpost.com/world/2026/10/25/algeria-niger-troops-economic-interests/d61a26ba-d0ce-11f1-9931-2a41b76fc976_story.html",
-   "snippet": "# Algeria to send troops to Niger in first foreign deployment in over 50 years. Algeria’s parliament has approved a resolution to send troops to Niger. Algerian flags are waved outside the parliament building in Algeria, Sunday, Oct. 25, 2026. ALGIERS, Algeria — Algeria’s parliament approved a resolution Sunday to send troops to Niger , making it the first time Algerian soldiers will be deployed a",
-   "published": "Sun, 25 Oct 2026 23:55:01 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_uranium",
  "_query": "Chinese uranium Niger",
  "_domains": [],

@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Refining constraints could keep fuel prices high: CIO - CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/26/refining-constraints-could-keep-fuel-prices-high-cio.html",
-   "snippet": "Refining constraints could keep fuel prices high: CIO. Michael Alfaro, Gallo Partners' CIO, says that U.S. refiners are near capacity and are in wait-and-see mode for potential product export bans. He's worried that a refining downtime during a prolonged conflict could further push up gasoline and other product prices.",
-   "published": "Mon, 26 Oct 2026 04:16:45 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Trump celebrates “greatest oil victory in history” with 1 million barrels of South American oil as Africa’s largest oil producer faces new competition - Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/trump-celebrates-greatest-oil-victory-in-history-with-1-million-barrels-of-venezuelan/9bsdzx5",
-   "snippet": "* President Donald Trump showcased a tanker carrying 1 million barrels of Venezuelan crude oil at a campaign event in Texas, claiming it as a major achievement for his administration. * Trump described the imported petroleum as a significant victory, tying it to American energy security amid high domestic fuel costs. * He declared the shipment a 'gift' from Venezuela and the 'greatest oil victory ",
-   "published": "Wed, 28 Oct 2026 12:56:53 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment since 1973 - BBC",
-   "url": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
-   "snippet": "# Algeria to send troops to Niger in first foreign deployment since 1973. Algeria is to send troops to Niger in its first foreign deployment since sending forces to Egypt during the Arab-Israeli war in 1973. The deployment follows a visit to Algiers by Niger's defence minister, as the country seeks support against armed groups, some of which are linked to al-Qaeda or Islamic State. The troops are ",
-   "published": "Mon, 26 Oct 2026 13:18:57 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria’s military deployment to Niger: What’s behind the move? - Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
-   "snippet": "# Algeria’s military deployment to Niger: What’s behind the move? *This will be Algeria’s first foreign troop deployment in 50 years as the country shifts its military doctrine amid new security challenges.*. Algeria’s parliament has approved a proposal to deploy troops to neighbouring Niger, in a major shift in the North African nation’s noninterventionist military doctrine. Algeria’s lower house",
-   "published": "Mon, 26 Oct 2026 09:59:27 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - The Washington Post",
-   "url": "https://www.washingtonpost.com/world/2026/10/25/algeria-niger-troops-economic-interests/d61a26ba-d0ce-11f1-9931-2a41b76fc976_story.html",
-   "snippet": "# Algeria to send troops to Niger in first foreign deployment in over 50 years. Algeria’s parliament has approved a resolution to send troops to Niger. Algerian flags are waved outside the parliament building in Algeria, Sunday, Oct. 25, 2026. ALGIERS, Algeria — Algeria’s parliament approved a resolution Sunday to send troops to Niger , making it the first time Algerian soldiers will be deployed a",
-   "published": "Sun, 25 Oct 2026 23:55:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - Greenwich Time",
-   "url": "https://www.greenwichtime.com/news/world/article/algeria-to-send-troops-to-niger-in-first-foreign-22493927.php",
-   "snippet": "# Algeria to send troops to Niger in first foreign deployment in over 50 years. ALGIERS, Algeria (AP) — Algeria’s parliament approved a resolution Sunday to send troops to Niger, making it the first time Algerian soldiers will be deployed abroad since 1973, when they were sent to support Egypt during the Arab-Israeli war. “We are not sending our soldiers to wage war in Niger, but for a mission to ",
-   "published": "Sun, 25 Oct 2026 23:49:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Sanctioned Tanker Bound for US Passes Through UK Waters - The Maritime Executive",
-   "url": "https://maritime-executive.com/article/sanctioned-tanker-bound-for-us-passes-through-uk-waters",
-   "snippet": "Russia has used the lifting of U.S. sanctions on the purchase of diesel to resume exports both to the United States but also other countries, in what President Vladimir Putin will regard as a diplomatic victory and a weakening of solidarity in support for Ukraine. But the divisions that the resumption of exports has created are well-illustrated by the course of Sierra Leone-flagged oil products ta",
-   "published": "Mon, 26 Oct 2026 15:34:20 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "TotalEnergies completes $800 million sale of Renaissance JV oil interest in Nigeria to Vaaris - World Oil",
-   "url": "https://www.worldoil.com/news/2026/10/27/totalenergies-completes-800-million-sale-of-renaissance-jv-oil-interest-in-nigeria-to-vaaris/",
-   "snippet": "# TotalEnergies completes $800 million sale of Renaissance JV oil interest in Nigeria to Vaaris. (WO) - **TotalEnergies** has completed the sale of its 10% non-operated interest in the **Renaissance joint venture** licenses onshore and in the shallow waters of Nigeria, formerly the Shell-operated SPDC joint venture, to **Vaaris** for **$800 million**, while keeping its full economic interest in th",
-   "published": "Tue, 27 Oct 2026 13:53:46 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ne_export",
  "_query": "Niger bans petrol exports",
  "_domains": [],
