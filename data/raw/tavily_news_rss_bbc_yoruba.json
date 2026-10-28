@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Àwọn ọ̀nà tí mà á gbà láti fi kó àwọn agbèrò kúrò lọ́nà rèé tí mo bá di gómìnà Eko - Funsho Doherty",
-   "url": "https://www.bbc.com/yoruba/articles/ck98zq2yq32ro?at_medium=RSS&at_campaign=rss",
-   "content": "Doherty parọwa yii nigba to n ba BBC News Yoruba sọrọ lori erongba rẹ lati di gomina Eko.",
-   "published_date": "Tue, 27 Oct 2026 17:16:38 GMT",
+   "title": "Ẹ kò lè bá Toluwanisings nídìí ìbàjẹ́, lọ wá iṣẹ́ ṣe tí o ò bá níṣẹ́- Laolu Gbenjo",
+   "url": "https://www.bbc.com/yoruba/articles/c5zjxgrjerl7o?at_medium=RSS&at_campaign=rss",
+   "content": "Ṣugbọn ni bayii, bi wọn ṣe sọ pe iyawo oloogbe naa ṣe n sọ pe oun ko fẹ ki wọn sinku ọkọ oun sinu ile to kọ, bẹẹ ni baba rẹ n sọ pe inu ile naa loun fẹ ki wọn sinku ọmọ oun si.",
+   "published_date": "Wed, 28 Oct 2026 08:44:59 GMT",
    "score": 0.6
   },
   {
    "title": "Kí ló dé tí DSS ṣe mú alátìlẹ́yìn Atiku, fojú rẹ̀ ba ilé ẹjọ́?",
    "url": "https://www.bbc.com/yoruba/articles/cw23dzedp9kko?at_medium=RSS&at_campaign=rss",
    "content": "Iwaju ileẹjọ Majisireti to w ani ojule Kẹwa, opopona Kabala Doki, nipinlẹ Kaduna, ni DSS wọ ọkunrin naa lọ, ti adajọ si pasẹ pe ki wọn fi si ọgba ẹwọn ilu Kaduna.",
-   "published_date": "Tue, 27 Oct 2026 14:53:43 GMT",
+   "published_date": "Wed, 28 Oct 2026 06:09:33 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Àwọn ọ̀nà tí mà á gbà láti fi kó àwọn agbèrò kúrò lọ́nà rèé tí mo bá di gómìnà Eko - Funsho Doherty",
+   "url": "https://www.bbc.com/yoruba/articles/ck98zq2yq32ro?at_medium=RSS&at_campaign=rss",
+   "content": "Doherty parọwa yii nigba to n ba BBC News Yoruba sọrọ lori erongba rẹ lati di gomina Eko.",
+   "published_date": "Wed, 28 Oct 2026 06:43:52 GMT",
    "score": 0.6
   },
   {
@@ -72,10 +79,10 @@
    "score": 0.6
   },
   {
-   "title": "Ṣé lóòótọ́ ni ìyàwó Toluwanisings sọ pé kí wọ́n má sin òkú ọkọ rẹ̀ sílé wọn?",
+   "title": "Ẹ kò lè bá Toluwanisings nídìí ìbàjẹ́, lọ wá iṣẹ́ ṣe tí o ò bá níṣẹ́- Laolu Gbenjo",
    "url": "https://www.bbc.com/yoruba/articles/c5zjxgrjerl7o?at_medium=RSS&at_campaign=rss",
    "content": "Ṣugbọn ni bayii, bi wọn ṣe sọ pe iyawo oloogbe naa ṣe n sọ pe oun ko fẹ ki wọn sinku ọkọ oun sinu ile to kọ, bẹẹ ni baba rẹ n sọ pe inu ile naa loun fẹ ki wọn sinku ọmọ oun si.",
-   "published_date": "Tue, 27 Oct 2026 05:41:37 GMT",
+   "published_date": "Wed, 28 Oct 2026 08:44:59 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/yoruba/watch/cq78p7nxgpj3o?at_medium=RSS&at_campaign=rss",
    "content": "'Nígbà tí awakọ̀ wa ra ọ̀bẹ lójú ọ̀nà, dúró séréséré, lara ti ń fu wá pé nǹkan máa ṣẹlẹ̀ lójú ọ̀nà'",
    "published_date": "Tue, 13 Oct 2026 11:51:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Bí mo ṣe kó Ebola ní Nàìjíríà' - Arákùnrin tí orí kó yọ lọ́wọ́ Ebola ṣàlàyé ohun tójú rẹ̀ rí",
-   "url": "https://www.bbc.com/yoruba/articles/cw073m2z3djjo?at_medium=RSS&at_campaign=rss",
-   "content": "Inu oyun ni iyawo naa wa lasiko to lugbadi Ebola to si jade laye.",
-   "published_date": "Fri, 23 Oct 2026 10:22:17 GMT",
    "score": 0.6
   }
  ],

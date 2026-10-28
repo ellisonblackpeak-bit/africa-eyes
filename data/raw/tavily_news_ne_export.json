@@ -1,35 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Nigeria’s non-oil exports hit record N12.36tr, expands to 120 countries",
-   "url": "https://guardian.ng/news/nigerias-non-oil-exports-hit-record-n12-36tr-expands-to-120-countries",
-   "snippet": "To deepen domestic value addition, the ministry is developing a framework to guide the allocation of shea nuts to local processors before any surplus is exported. The current ban on raw shea nut exports expires on February 25, 2027.\n\nTrading on the Nigeria Commodity Exchange also expanded, with volumes rising to 24,668 tonnes in 2025 from 3,942 tonnes, while traded value increased to N4 billion fr",
-   "published": "Fri, 23 Oct 2026 03:07:45 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria must break oil-rent model to unlock growth, jobs — Oxford Professor – Businessday NG",
-   "url": "https://businessday.ng/news/article/nigeria-must-break-oil-rent-model-to-unlock-growth-jobs-oxford-professor",
-   "snippet": "“Fundamentally, it’s been that. So if you think about it, even today oil is about 85 percent of exports. In 2010, the value per Nigerian from this oil, the amount of money that’s taken in the country, was about $255 per person.\n\n“That’s not that much. It’s only $255 per person. But if you can divide this amount of money across about 100,000 people that matter, that’s $400,000 or more. [...] Accord",
-   "published": "Tue, 27 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "SPECIAL REPORT: How Nigeria Increased Crude Oil Output To 1.84mbpd In 2026 - TheFact Daily",
-   "url": "https://thefact.ng/special-report-how-nigeria-increased-crude-oil-output-to-1-84mbpd-in-2026",
-   "snippet": "Vandalism forced shutdowns on key systems. Force majeure declarations on major export streams became familiar headlines. Ageing infrastructure and years of thin investment meant fields could not easily make up the shortfall. [...] Four years ago, Nigeria’s oil industry was struggling. Output had collapsed to about 1.1 million barrels per day, tanker loadings were being cut short, and the country t",
-   "published": "Tue, 27 Oct 2026 15:00:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Trade Pathways launches Nigeria coverage as US tariffs weigh on small business exporters",
-   "url": "https://www.vanguardngr.com/2026/10/trade-pathways-launches-nigeria-coverage-as-us-tariffs-weigh-on-small-business-exporters/amp",
-   "snippet": "New US import tax falls hardest on processed goods, the core of Nigeria's small-business export economy. For Nigeria's small businesses, selling to the",
-   "published": "Tue, 27 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ne_export",
  "_query": "Niger bans petrol exports",
  "_domains": [],

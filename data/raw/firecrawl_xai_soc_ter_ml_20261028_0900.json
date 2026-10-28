@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Saheltribune/status/2114418589130436888",
+     "title": "L’état-major général des armées du Mali annonce la découverte de 54 corps dans un campement à Tagayat, à environ 35 kilomètres de Ménaka.",
+     "description": "L’état-major général des armées du Mali annonce la découverte de 54 corps dans un campement à Tagayat, à environ 35 kilomètres de Ménaka. Selon le communiqué de l'armée malienne, les victimes sont des civils tués lors d’une attaque de l’État islamique au Grand Sahara (EIGS). Neuf rescapés ont été évacués vers Ménaka.",
+     "snippet": "L’état-major général des armées du Mali annonce la découverte de 54 corps dans un campement à Tagayat, à environ 35 kilomètres de Ménaka. Selon le communiqué de l'armée malienne, les victimes sont des civils tués lors d’une attaque de l’État islamique au Grand Sahara (EIGS). Neuf rescapés ont été évacués vers Ménaka.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "saheltribune.com",
+     "handle": "@Saheltribune"
+    },
+    {
+     "url": "https://x.com/mintelworld/status/2114690757281923099",
+     "title": "The Malian Army reports that 54 civilians were killed by Islamic State Sahel Province (ISSP) in Tagadayat, southeast of Ménaka.",
+     "description": "The Malian Army reports that 54 civilians were killed by Islamic State Sahel Province (ISSP) in Tagadayat, southeast of Ménaka. Nine survivors were found at the camp.",
+     "snippet": "The Malian Army reports that 54 civilians were killed by Islamic State Sahel Province (ISSP) in Tagadayat, southeast of Ménaka. Nine survivors were found at the camp.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mintel World",
+     "handle": "@mintelworld"
+    },
+    {
+     "url": "https://x.com/NOUVELMALINEWS/status/2114697764143612370",
+     "title": "DRAME À TAGAYAT DANS LA REGION DE MENAKA 54 CORPS DÉCOUVERTS DANS UN CAMPEMENT PAR LES FAMA ET 9 RESCAPÉS ÉVACUÉS LES TUERIES ATTRIBUÉES À L",
+     "description": "DRAME À TAGAYAT DANS LA REGION DE MENAKA \n54 CORPS DÉCOUVERTS DANS UN CAMPEMENT PAR LES FAMA ET 9 RESCAPÉS ÉVACUÉS\nLES TUERIES ATTRIBUÉES À L’EIGS\nCinquante-quatre (54) corps sans vie ont été découverts dans un campement à Tagadayat, (...)\nhttps://nouvelhorizonmalinews.com/2026/10/26/drame-a-tagayat-dans-la-region-de-menaka/",
+     "snippet": "DRAME À TAGAYAT DANS LA REGION DE MENAKA \n54 CORPS DÉCOUVERTS DANS UN CAMPEMENT PAR LES FAMA ET 9 RESCAPÉS ÉVACUÉS\nLES TUERIES ATTRIBUÉES À L’EIGS\nCinquante-quatre (54) corps sans vie ont été découverts dans un campement à Tagadayat, (...)\nhttps://nouvelhorizonmalinews.com/2026/10/26/drame-a-tagayat-dans-la-region-de-menaka/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NOUVEL HORIZON",
+     "handle": "@NOUVELMALINEWS"
+    },
+    {
+     "url": "https://x.com/TopAfricaMedias/status/2114516174499156153",
+     "title": "L’armée malienne affirme avoir retrouvé 54 corps dans un campement de Tagadayat, près de Ménaka, ainsi que neuf survivants.",
+     "description": "L’armée malienne affirme avoir retrouvé 54 corps dans un campement de Tagadayat, près de Ménaka, ainsi que neuf survivants. Les premiers témoignages recueillis par les militaires attribuent les tueries à l’État islamique au Grand Sahara.   \nhttps://topafrica.org/mali-54-corps-retrouves-apres-des-attaques-pres-de-menaka/?fsp_sid=36447",
+     "snippet": "L’armée malienne affirme avoir retrouvé 54 corps dans un campement de Tagadayat, près de Ménaka, ainsi que neuf survivants. Les premiers témoignages recueillis par les militaires attribuent les tueries à l’État islamique au Grand Sahara.   \nhttps://topafrica.org/mali-54-corps-retrouves-apres-des-attaques-pres-de-menaka/?fsp_sid=36447",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TopAfrica",
+     "handle": "@TopAfricaMedias"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2115105454590419254",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 25 October, #JNIM detailed two recent operations: An ambush between Jerman and Jerkan (#Sikasso region) on 23 O",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 25 October, #JNIM detailed two recent operations:\n\nAn ambush between Jerman and Jerkan (#Sikasso region) on 23 October that allegedly:\n- killed 4 soldiers\n- destroyed 2 vehicles\n- yielded a military vehicle\n- yelded 2 machine guns, 4 Kalashnikovs, a Dushka, and ammunition.\n\nA raid between Goma and Tidoul near Diabaly (#Ségou region) on 24 October that allegedly:\n- destroyed a military vehicle\n- yielded a Dushka plus 2 Kalashnikovs.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 25 October, #JNIM detailed two recent operations:\n\nAn ambush between Jerman and Jerkan (#Sikasso region) on 23 October that allegedly:\n- killed 4 soldiers\n- destroyed 2 vehicles\n- yielded a military vehicle\n- yelded 2 machine guns, 4 Kalashnikovs, a Dushka, and ammunition.\n\nA raid between Goma and Tidoul near Diabaly (#Ségou region) on 24 October that allegedly:\n- destroyed a military vehicle\n- yielded a Dushka plus 2 Kalashnikovs.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2114365468861428081",
+     "title": "Alerte/le sang coule encore au Mali: Des FAmas pulvérisés entre Heremankono et Sikasso Des éléments terroristes FAmas aux ordres de la Russa",
+     "description": "Alerte/le sang coule encore au Mali: Des FAmas pulvérisés entre Heremankono et Sikasso\n\nDes éléments terroristes FAmas aux ordres de la Russafrique, ont été pris pour cible ce Dimanche 25 Octobre par le JNIM entre Heremankono et Sikasso, lors d'une attaque à l'EEI.\n\nVisiblement, des morts sont à déplorer dans cette énième attaque qui s'inscrit dans une stratégie de harcèlement contre les FAmas et leurs colons Russes, déployée par le JNIM.",
+     "snippet": "Alerte/le sang coule encore au Mali: Des FAmas pulvérisés entre Heremankono et Sikasso\n\nDes éléments terroristes FAmas aux ordres de la Russafrique, ont été pris pour cible ce Dimanche 25 Octobre par le JNIM entre Heremankono et Sikasso, lors d'une attaque à l'EEI.\n\nVisiblement, des morts sont à déplorer dans cette énième attaque qui s'inscrit dans une stratégie de harcèlement contre les FAmas et leurs colons Russes, déployée par le JNIM.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2114642754525433926",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Target a Malian Army (FAMa) Convoy with an Improvised Explosive Device (IED) Between",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Target a Malian Army (FAMa) Convoy with an Improvised Explosive Device (IED) Between #Heremakono and #Sikasso, Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-malian-army-fama-ied-heremakono-and-sikasso-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Target a Malian Army (FAMa) Convoy with an Improvised Explosive Device (IED) Between #Heremakono and #Sikasso, Sikasso Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-malian-army-fama-ied-heremakono-and-sikasso-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2114648800480694722",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Target a Malian Army (FAMa) Patrol in an Ambush Near #Diabaly, Ségou Region, #Mali h",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Target a Malian Army (FAMa) Patrol in an Ambush Near #Diabaly, Ségou Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-patrol-ambush-near-diabaly-segou-region-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (#JNIM) Militants Target a Malian Army (FAMa) Patrol in an Ambush Near #Diabaly, Ségou Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-fama-patrol-ambush-near-diabaly-segou-region-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2115099831265898985",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 25 October, #JNIM claimed a strike on a Malian army convoy with an IED between Heremakono and Sikasso, in the #",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 25 October, #JNIM claimed a strike on a Malian army convoy with an IED between Heremakono and Sikasso, in the #Sikasso region, at noon.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 25 October, #JNIM claimed a strike on a Malian army convoy with an IED between Heremakono and Sikasso, in the #Sikasso region, at noon.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/villageois99/status/2115037394143531162",
+     "title": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI le siège de Kidal par l #Azawad FLA et le siège de #Mopti par les Brig",
+     "description": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI  le siège de Kidal par l #Azawad FLA et le siège de #Mopti par les Brigades Macina affiliées à Al-Qaïda #JNIM… le bourbier malien révèle la peur de la #Russie #RUSSIA et la faiblesse de l'alliance AES.\n#Mali",
+     "snippet": "Le siège de #Menaka par les combattants de l'État islamique #EIGS #EI  le siège de Kidal par l #Azawad FLA et le siège de #Mopti par les Brigades Macina affiliées à Al-Qaïda #JNIM… le bourbier malien révèle la peur de la #Russie #RUSSIA et la faiblesse de l'alliance AES.\n#Mali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "villageois",
+     "handle": "@villageois99"
+    }
+   ]
+  }
+ ]
+}

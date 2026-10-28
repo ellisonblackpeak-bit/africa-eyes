@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/businessline/status/2115117588028027221",
+     "title": "The government is looking at further simplifying the application form and some other paperwork under Press Note 2 for investments from count",
+     "description": "The government is looking at further simplifying the application form and some other paperwork under Press Note 2 for investments from countries that share a land border with India, including China, but mainly aimed at smaller companies, sources said. The move comes even as China has sought wider easing of the curbs, and India is proceeding slowly, wanting peace at the border first, reports Amiti Sen ( @AmitiSen)",
+     "snippet": "The government is looking at further simplifying the application form and some other paperwork under Press Note 2 for investments from countries that share a land border with India, including China, but mainly aimed at smaller companies, sources said. The move comes even as China has sought wider easing of the curbs, and India is proceeding slowly, wanting peace at the border first, reports Amiti Sen ( @AmitiSen)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "businessline",
+     "handle": "@businessline"
+    },
+    {
+     "url": "https://x.com/woilyb/status/2115187083392278620",
+     "title": "The Indian government is now working on further simplifying paperwork under Press Note 2 for small companies with under 10 per cent Chinese",
+     "description": "The Indian government is now working on further simplifying paperwork under Press Note 2 for small companies with under 10 per cent Chinese ownership, while maintaining border peace as a condition for broader easing.",
+     "snippet": "The Indian government is now working on further simplifying paperwork under Press Note 2 for small companies with under 10 per cent Chinese ownership, while maintaining border peace as a condition for broader easing.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Woily",
+     "handle": "@woilyb"
+    },
+    {
+     "url": "https://x.com/ChinaArmyObs/status/2115150158585643038",
+     "title": "🇨🇳China rejects India’s accusations of violating border agreements — Bloomberg Beijing has described the actions of its military as routine",
+     "description": "🇨🇳China rejects India’s accusations of violating border agreements — Bloomberg\n\nBeijing has described the actions of its military as routine patrolling, following reports of fresh standoffs along the disputed border. New Delhi maintains that Chinese units occasionally deviate from established routes, thereby disrupting the peace.\n\nAt a briefing on October 26, Chinese Foreign Ministry spokesperson Guo Jiakun stated that China adheres to the agreements and urged India to work together to uphold them. He noted that the two sides remain in contact through both diplomatic and military channels. The dispute has intensified against the backdrop of efforts to restore relations and resume direct air travel between the two nations.",
+     "snippet": "🇨🇳China rejects India’s accusations of violating border agreements — Bloomberg\n\nBeijing has described the actions of its military as routine patrolling, following reports of fresh standoffs along the disputed border. New Delhi maintains that Chinese units occasionally deviate from established routes, thereby disrupting the peace.\n\nAt a briefing on October 26, Chinese Foreign Ministry spokesperson Guo Jiakun stated that China adheres to the agreements and urged India to work together to uphold them. He noted that the two sides remain in contact through both diplomatic and military channels. The dispute has intensified against the backdrop of efforts to restore relations and resume direct air travel between the two nations.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "China Army Observer",
+     "handle": "@ChinaArmyObs"
+    },
+    {
+     "url": "https://x.com/timesofindia/status/2114914995632820557",
+     "title": "#ArunachalPradesh Congress president and former education minister Bosiram Siram on Monday alleged that Chinese troops have intruded 40 to 5",
+     "description": "#ArunachalPradesh Congress president and former education minister Bosiram Siram on Monday alleged that Chinese troops have intruded 40 to 50 km deep into Indian territory in Upper Subansiri district.\n  \n  More details 🔗https://timesofindia.indiatimes.com/city/guwahati/china-40-50km-inside-arunachal-says-state-congress-chief-bosiram-siram/articleshow/135222451.cms\n  \n  Stay ahead with real-time updates on the TOI App 👉",
+     "snippet": "#ArunachalPradesh Congress president and former education minister Bosiram Siram on Monday alleged that Chinese troops have intruded 40 to 50 km deep into Indian territory in Upper Subansiri district.\n  \n  More details 🔗https://timesofindia.indiatimes.com/city/guwahati/china-40-50km-inside-arunachal-says-state-congress-chief-bosiram-siram/articleshow/135222451.cms\n  \n  Stay ahead with real-time updates on the TOI App 👉",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Times Of India",
+     "handle": "@timesofindia"
+    },
+    {
+     "url": "https://x.com/NNPIndia25/status/2115183059695968652",
+     "title": "India’s Ministry of External Affairs spokesperson says the situation along the India-China border gets disturbed from time to time when Chin",
+     "description": "India’s Ministry of External Affairs spokesperson says the situation along the India-China border gets disturbed from time to time when Chinese forces diverge from established patrolling patterns, Adding both sides continue to use existing diplomatic and military.",
+     "snippet": "India’s Ministry of External Affairs spokesperson says the situation along the India-China border gets disturbed from time to time when Chinese forces diverge from established patrolling patterns, Adding both sides continue to use existing diplomatic and military.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NNP India",
+     "handle": "@NNPIndia25"
+    },
+    {
+     "url": "https://x.com/divs13/status/2115131687088820294",
+     "title": "India-China LAC face-off: whats happening in Arunachal Pradesh..",
+     "description": "India-China LAC face-off: whats happening in Arunachal Pradesh.. that ITBP chief referred to. And MEA alluded to.. \n\nVideo explainer @IndianExpress\n\nhttps://www.youtube.com/watch?si=kmoL9xrFz3-nRAmc&v=v05Htyo_EqQ&feature=youtu.be",
+     "snippet": "India-China LAC face-off: whats happening in Arunachal Pradesh.. that ITBP chief referred to. And MEA alluded to.. \n\nVideo explainer @IndianExpress\n\nhttps://www.youtube.com/watch?si=kmoL9xrFz3-nRAmc&v=v05Htyo_EqQ&feature=youtu.be",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Divya A",
+     "handle": "@divs13"
+    },
+    {
+     "url": "https://x.com/Extreo_/status/2115113957283467271",
+     "title": "Routine patrols': China responds to India’s LAC remarks as reports of continuing face-offs emerge",
+     "description": "Routine patrols': China responds to India’s LAC remarks as reports of continuing face-offs emerge",
+     "snippet": "Routine patrols': China responds to India’s LAC remarks as reports of continuing face-offs emerge",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ankit",
+     "handle": "@Extreo_"
+    },
+    {
+     "url": "https://x.com/alfaysal77/status/2115204902595227873",
+     "title": "While the Indian govt denies reports of Chinese troops crossing into its territory, the Indian Army chief has visited areas near the border.",
+     "description": "While the Indian govt denies reports of Chinese troops crossing into its territory, the Indian Army chief has visited areas near the border.\nCOAS Gen Dhiraj Seth visited Mana n Joshimath in Uttarakhand’s Garhwal Sector, along the middle sector of the India–China border.\n#India",
+     "snippet": "While the Indian govt denies reports of Chinese troops crossing into its territory, the Indian Army chief has visited areas near the border.\nCOAS Gen Dhiraj Seth visited Mana n Joshimath in Uttarakhand’s Garhwal Sector, along the middle sector of the India–China border.\n#India",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Faisal Ghumman -",
+     "handle": "@alfaysal77"
+    },
+    {
+     "url": "https://x.com/Blcbuster/status/2115119456238354856",
+     "title": "A video circulating on social media has sparked discussion over border security along the India-China frontier.",
+     "description": "A video circulating on social media has sparked discussion over border security along the India-China frontier. The footage is being shared with claims that Indian Army personnel confronted Chinese People’s Liberation Army (PLA) soldiers allegedly attempting to cross into Indian territory near Arunachal Pradesh.\n\nAccording to the claims accompanying the video, the Chinese personnel were intercepted and later released under established border protocols along the Line of Actual Control (LAC).\n\nHowever, the video’s authenticity, date, location and the circumstances of the alleged confrontation have not been independently verified. No definitive conclusion can be drawn from the circulating footage alone.\n\nIndia and China have experienced border tensions in the past, making incidents along the LAC a matter of significant public interest. The latest claims require confirmation from official sources before the video can be treated as evidence of an actual border confrontation.\n\nFact Check: The specific incident remains unverified. The video’s original source, date and location, along with any official statements from Indian authorities, need to be established. #IndianArmy",
+     "snippet": "A video circulating on social media has sparked discussion over border security along the India-China frontier. The footage is being shared with claims that Indian Army personnel confronted Chinese People’s Liberation Army (PLA) soldiers allegedly attempting to cross into Indian territory near Arunachal Pradesh.\n\nAccording to the claims accompanying the video, the Chinese personnel were intercepted and later released under established border protocols along the Line of Actual Control (LAC).\n\nHowever, the video’s authenticity, date, location and the circumstances of the alleged confrontation have not been independently verified. No definitive conclusion can be drawn from the circulating footage alone.\n\nIndia and China have experienced border tensions in the past, making incidents along the LAC a matter of significant public interest. The latest claims require confirmation from official sources before the video can be treated as evidence of an actual border confrontation.\n\nFact Check: The specific incident remains unverified. The video’s original source, date and location, along with any official statements from Indian authorities, need to be established. #IndianArmy",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BlackBuster",
+     "handle": "@Blcbuster"
+    },
+    {
+     "url": "https://x.com/pes_accoun66470/status/2115151635148357982",
+     "title": "India and China do not use guns or explosives near their disputed border—the Line of Actual Control (LAC)—because of bilateral agreements si",
+     "description": "India and China do not use guns or explosives near their disputed border—the Line of Actual Control (LAC)—because of bilateral agreements signed in 1996 and 2005 that explicitly ban firearms within a two-kilometer zone. Before criticize check the facts",
+     "snippet": "India and China do not use guns or explosives near their disputed border—the Line of Actual Control (LAC)—because of bilateral agreements signed in 1996 and 2005 that explicitly ban firearms within a two-kilometer zone. Before criticize check the facts",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pes Account",
+     "handle": "@pes_accoun66470"
+    }
+   ]
+  }
+ ]
+}

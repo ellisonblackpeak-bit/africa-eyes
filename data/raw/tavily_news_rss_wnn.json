@@ -9,13 +9,6 @@
    "score": 0.6
   },
   {
-   "title": "Hot testing of Chinese SMR under way",
-   "url": "https://www.world-nuclear-news.org/articles/hot-testing-of-chinese-smr-under-way",
-   "content": "Tests that simulate the temperatures and pressures which the reactor systems will be subjected to during normal operation are reportedly taking place at the ACP100 small modular reactor demonstration project, under construction at the Changjiang site on China's island province of Hainan.",
-   "published_date": "Wed, 14 Oct 2026 07:26:53 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Westinghouse places initial orders for Polish plant",
    "url": "https://www.world-nuclear-news.org/articles/westinghouse-places-initial-orders-for-polish-plant",
    "content": "Westinghouse has placed conditional purchase orders for safety-related modules with four Polish companies, a week after being commissioned to begin ordering long-lead items for the first unit of Poland's planned first nuclear power plant.",
@@ -209,6 +202,13 @@
    "url": "https://www.world-nuclear-news.org/articles/nvidia-to-consider-data-centres-at-former-german-nuclear-sites",
    "content": "Germany's PreussenElektra and multinational technology company NVIDIA are to explore whether PreussenElektra's former nuclear power plant sites are suitable for the construction of so-called AI factories.",
    "published_date": "Tue, 27 Oct 2026 12:14:46 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kairos Power automates fuel pebble inspections",
+   "url": "https://www.world-nuclear-news.org/articles/kairos-power-automates-fuel-pebble-inspections",
+   "content": "A new facility at Kairos Power's Manufacturing Development Campus in Albuquerque, New Mexico, verifies manufacturing specifications and engraves each fuel pebble with a unique code so it can be traced through testing and operation.",
+   "published_date": "Wed, 14 Oct 2026 09:01:29 GMT",
    "score": 0.6
   }
  ],

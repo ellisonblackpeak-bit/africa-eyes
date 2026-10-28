@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "New levy on non-EU parcels kicks in November 1 - myRepublica - The New York Times Partner, Latest news of Nepal in English, Latest News Articles | Republica",
+   "url": "https://myrepublica.nagariknetwork.com/news/new-levy-on-non-eu-parcels-kicks-in-november-1-64-30.html",
+   "snippet": "The new levy -- coming just weeks before the Black Friday, Cyber Monday, and Christmas season shopping rushes -- will be on top of the EU's three-euro fee on small parcels.\n\n Text Size\n Small\n Medium\n Large\n\nParcel-1793002407.webp\n\nalt=\n\nBy  AFP/RSS  \n\nBRUSSELS, Oct 26: The European Union will from November 1 slap a two-euro ($2.25) handling fee on packages from outside the 27-nation bloc in a bid",
+   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What the EU–China trade deal means for Asia | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/26/what-the-eu-china-trade-deal-means-for-asia",
+   "snippet": "SOUTHEAST ASIA\n\n Indonesia\n Malaysia\n Vietnam\n Thailand\n Myanmar\n Cambodia\n Singapore\n Laos\n Philippines\n Timor-Leste\n Brunei\n\nSOUTH ASIA\n\n India\n Pakistan\n Bangladesh\n Nepal\n Sri Lanka\n Afghanistan\n Maldives\n Bhutan\n\nOCEANIA\n\n Australia\n New Zealand\n Fiji\n Papua New Guinea\n Pacific Islands\n\nCENTRAL ASIA\n\n Kazakhstan\n Uzbekistan\n Kyrgyzstan\n Tajikistan\n Turkmenistan\n\nWORLD\n\n United States\n Russia\n",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU vows to fix 'China Shock 2.0' via talks with Beijing | Business | lufkindailynews.com",
+   "url": "https://lufkindailynews.com/news_reuters/business/eu-vows-to-fix-china-shock-2-0-via-talks-with-beijing/article_5ff506bc-fa3b-5671-b9f6-1d9de2fc2e2c.html",
+   "snippet": "European Commissioner for Trade and Economic Security Maros Sefcovic speaks at a press briefing at the EU Delegation to China in Beijing, China October 9, 2026. REUTERS/Florence Lo\n\nBy Philip Blenkinsop and Padraic Halpin\n\nDUBLIN, Oct 23 (Reuters) - The European Union should focus on dialogue with Beijing to curb imports of products such as chemicals and machinery to rein in a damaging trade defic",
+   "published": "Fri, 23 Oct 2026 16:38:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The world's climate bill is mounting. But who should really foot the cost? - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/science/the-worlds-climate-bill-is-mounting-but-who-should-really-foot-the-cost/articleshow/135233646.cms",
+   "snippet": "to decarbonise faster makes little sense if they cannot afford the technology needed to do so.There is a serious question here. Can a climate policy be fair if the same rules impose very different costs on countries with vastly different incomes and industrial capabilities?A mountain collapses, and the bill runs into billionsOn August 26, a huge mass of rock and glacier ice collapsed from Langtang",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes | Euronews",
+   "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of",
+   "snippet": "Nagqu lies more than 300 kilometres north of Lhasa, Tibet’s capital.\n\nAdditional sources • AP\n\n## Read more\n\n### China: Panic as 7.0-magnitude earthquake rocks Tibet\n\n### Catastrophic Nepal floods and landslides in Nuwakot leave hundreds still missing\n\n### China: Video shows mudslide surging through Gyirong port\n\n## Top stories\n\nA woman looks at a crater after a Russian missile strike in Kyiv, Ukr",
+   "published": "Fri, 23 Oct 2026 04:02:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Decoupling ‘would be a big mistake’, says German Chancellor Merz as he seeks balanced ties with China – Asia News Network",
+   "url": "https://asianews.network/decoupling-would-be-a-big-mistake-says-german-chancellor-merz-as-he-seeks-balanced-ties-with-china",
+   "snippet": "“We are working systematically towards that goal, both in Germany and at the European level,” he said, as he delivered the 49th Singapore Lecture organised by the ISEAS – Yusof Ishak Institute.\n\nEurope-China talks earlier in October resulted in China agreeing to cap hybrid electric vehicle exports to the European Union over a four-year period. Brussels is alarmed at a ballooning trade deficit that",
+   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese carmakers overtake Japan in Europe for first time - The Japan Times",
+   "url": "https://www.japantimes.co.jp/business/2026/10/26/companies/china-carmakers-overtake-japan-europe-market",
+   "snippet": "Rescuers have recovered the bodies of two Japanese climbers missing for over a week on a remote Himalayan mountain.\nGuests from Peru&#039;s Belen district interact with a baby in Nanmoku village in Gunma Prefecture.\nA Tokyo branch of Saizeriya, a chain of family-style Italian restaurants\nA Ukrainian soldier sets up a Starlink satellite internet system near the frontline in the Donetsk region, Ukra",
+   "published": "Mon, 26 Oct 2026 12:14:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why U.S. EV sales lag China, Europe as global shift accelerates - Automotive News",
+   "url": "https://www.autonews.com/technology/mobility/an-global-ev-market-dynamics-1027",
+   "snippet": "Mobility\n\n# What global EV divergence means for U.S. automakers’ long-term competitiveness\n\nAdd as a preferred source on Google\n\na car in hanoi\n\nElectric vehicles made up 41 percent of new-vehicle sales in Vietnam in 2025, up from less than 1 percent in 2020. (WIKIMEDIA COMMONS)\n\nMB\n\nBy\n\nMolly Boigon\n\nOctober 27, 2026 07:00 AM EDT\n\n## Featured Stories\n\nVolkswagen\n\nAudi’s U.S. factory plan: A win f",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],

@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Laos to Raise Private Sector Minimum Wage to LAK 3.4 Million from January 2027",
+   "url": "https://laotiantimes.com/2026/10/28/laos-to-raise-private-sector-minimum-wage-to-lak-3-4-million-from-january-2027/",
+   "content": "Laos will raise the minimum monthly pay for private sector workers to LAK 3.4 million (USD 150) from January 2027, the Prime Minister’s Office announced in a notice dated 21 October. The new total combines a higher base wage of LAK 2 million (USD 88) with a larger living allowance of LAK 1.4 million (USD […]",
+   "published_date": "Wed, 28 Oct 2026 03:39:49 +0000",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",
