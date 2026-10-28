@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU Selects 46 Critical Minerals Projects for Fast-Tracking - NAM",
+   "url": "https://nam.org/eu-selects-46-critical-minerals-projects-for-fast-tracking",
+   "snippet": "The goal: “The Commission hopes prioritizing projects will help the bloc meet targets set out in its 2024 Critical Raw Materials Act, under which the EU aims to mine 10%, process 40% and recycle 25% of its annual needs by 2030.”\n\nThe minerals: The projects span 16 EU countries and target 15 critical minerals, including copper, lithium, nickel, cobalt, manganese, graphite, rare earths, magnesium an",
+   "published": "Wed, 21 Oct 2026 21:38:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU considers US-style critical minerals strategy - Mining.com.au",
+   "url": "https://mining.com.au/eu-considers-us-style-critical-minerals-strategy",
+   "snippet": "Last year, the US Government committed US$400 million ($570.15 million) to rare earths producer MP Materials (NYSE:MP) in a deal that could give it a 15% stake, an investment FT sources say has helped shape Europe’s thinking.\n\nUnder the EU proposal, the new agency, known as the Critical Raw Materials Centre, would be able to acquire stakes in companies considered important to Europe’s supply secur",
+   "published": "Mon, 26 Oct 2026 16:39:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU weighs equity stakes in critical-minerals projects to curb China reliance",
+   "url": "https://miningmx.com/2026-10-26-eu-looks-to-us-model-for-critical-minerals-security",
+   "snippet": "The FT said the move reflected concern that Europe risks falling behind the US in securing minerals needed for defence, batteries and clean technologies.\n\nThe Trump administration has taken a more aggressive approach, including a $400m investment for a 15% stake in rare-earth producer MP Materials, alongside a $150m loan.\n\nIt also agreed to a 10-year minimum price of $110/kg for neodymium-praseody",
+   "published": "Tue, 27 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Readying for Major Australian Resources Investment, Ambassador Says",
+   "url": "https://www.usnews.com/news/world/articles/2026-10-27/eu-readying-for-major-australian-resources-investment-ambassador-says",
+   "snippet": "The bloc is looking initially at the minerals that Australia will prioritise for its strategic reserve: gallium, antimony and rare earths.\n\nAustralian companies going faster through the early project development would speed the investment process, he said.\n\n\"(The FTA) is a signal that Europe wants to do far more with Australia. We also have a security and defence partnership. A lot of that is dual",
+   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical Minerals Stocks Rally as Sector Bid Broadens: United States Antimony and USA Rare Earth Jump 11%, Critical Metals Climbs 8% - 24/7 Wall St.",
+   "url": "https://247wallst.com/investing/2026/10/27/critical-minerals-stocks-rally-as-sector-bid-broadens-united-states-antimony-and-usa-rare-earth-jump-11-critical-metals-climbs-8",
+   "snippet": "A fresh Alaska resource report, a completed European acquisition, and a sector-wide surge are converging on critical minerals stocks at once, but the gains come with going-concern warnings and year-to-date losses that tell a different story beneath the surface.\n\nBy David Moadel\n\nPublished October 27, 2026, 11:49am ET · 3 min read\n\nMarket Movers desk. Editor: David Moadel.\n\n𝕏 f\n\n  \n\n© Facilities at",
+   "published": "Tue, 27 Oct 2026 15:49:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Building a China-resilient battery chain by 2035 – GIS Reports",
+   "url": "https://www.gisreportsonline.com/r/china-resilient-battery-chain",
+   "snippet": "Bob Savic\n\nBob Savic is head of international trade and sanctions consulting at the Global Policy Institute and head of European Union trade and industry regulatory advisory at the Federal Trust for Education and Research, both located in the City of London, United Kingdom. He is also a visiting professor of international relations and politics at the University of Nottingham, UK.\n\nChina Critical ",
+   "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/cfb2e934-0000-42e6-93a4-4dffa56f11a8?syn-25a6b1a6=1",
+   "snippet": "# EU weighs mirroring Donald Trump in securing critical minerals\n\n## Try unlimited access\n\nOnly $1 for 4 weeks\n\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\n\n## Explore more offers.\n\n### FT Edit [...] Complete digital access with exclusive insights and industry deep dives on any device.\n\nCheck whether you already have free ac",
+   "published": "Mon, 26 Oct 2026 05:16:50 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],

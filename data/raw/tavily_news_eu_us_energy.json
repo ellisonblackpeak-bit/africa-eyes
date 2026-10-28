@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "For Europe, time to rethink energy | Opinion",
+   "url": "https://www.poughkeepsiejournal.com/story/opinion/2026/10/26/europe-energy-crisis/92399417007",
+   "snippet": "A coherent European energy policy would also increase purchases of reliable American LNG and boost trans-Atlantic trade. An economically confident Europe could expand defense production, push back against Russian pressure, and stop turning to cheap Chinese tech every time it disputes tariffs with Washington. [...] For this winter, the immediate task is straightforward. Brussels should remove unnec",
+   "published": "Tue, 27 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "American LNG industry watching European and Asian markets",
+   "url": "https://www.oaoa.com/local-news/american-lng-industry-watching-european-and-asian-markets",
+   "snippet": "The long-term future of American LNG exports depends largely on the question of whether the markets in Europe and Asia peak or keep growing past the",
+   "published": "Fri, 23 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US LNG Exports Rise in August as Europe Snaps Up Cargoes Ahead of Winter",
+   "url": "https://energynow.com/2026/09/us-lng-exports-rise-in-august-as-europe-snaps-up-cargoes-ahead-of-winter",
+   "snippet": "(Reuters) – U.S. liquefied natural gas exports rose slightly in August as major export plants in Texas finished maintenance and European buyers increased",
+   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US LNG Exporters Find Few Takers in Europe for New Supply",
+   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply",
+   "snippet": "By Priscila Azevedo Rocha and Ruth Liao US liquefied natural gas developers expected Europe to…",
+   "published": "Tue, 27 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Natural Gas Stocks; Several Natgas Plays Near Buy Points Amid Europe Supply Crunch | Investor's Business Daily",
+   "url": "https://www.investors.com/news/natural-gas-lng-europe",
+   "snippet": "##### First U.S. LNG Ships To Asia From Mexico, Avoiding Hormuz Tensions\n ##### Energy Stocks Are Up 33% This Year — Analysts Think 5 Will Jump [...] The energy sector leads all others this year, yet it still has the lowest valuation. Meanwhile, European natural gas prices rose to a nearly four-year high. That leaves a lot for investors to ponder, especially for several liquefied natural gas stock",
+   "published": "Mon, 26 Oct 2026 19:57:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Qatar Will Buy US LNG From Cheniere Until 2054 After the Iran War",
+   "url": "https://ahmedeldin.substack.com/p/qatar-will-pay-for-washingtons-war",
+   "snippet": "The American alternative is already under construction: a pipeline connection south through North Macedonia toward the Greek coast, where American LNG comes ashore, is being pushed on an accelerated schedule, and Vučić has pitched Serbia’s energy sector, long dominated by Russia, as an opening for American investment. [...] American producers captured the margin the war created: in the war’s first",
+   "published": "Sat, 24 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU entering winter with lowest gas reserves on record, IEA boss warns | Energy News | Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns",
+   "snippet": "Speaking to Al Jazeera on the sidelines of an international conference in Berlin on Wednesday, Birol said all regions are being hit by energy disruptions in the Strait of Hormuz but that Europe is particularly vulnerable and will likely face rising costs of liquefied natural gas (LNG) in the coming months – even if peace returns to the Gulf today.\n\n## Recommended Stories\n\nlist of 4 items [...] Eur",
+   "published": "Fri, 23 Oct 2026 06:02:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Next Risk For U.S. LNG Is Demand, Not Supply",
+   "url": "https://www.forbes.com/sites/rrapier/2026/10/24/the-next-risk-for-us-lng-is-demand-not-supply",
+   "snippet": "U.S. LNG export capacity is surging, but the next challenge may be whether global demand can grow fast enough to keep new terminals fully utilized.",
+   "published": "Sun, 25 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rystad Energy: Global LNG importers to spend US$39 billion more in 2026 while buying less",
+   "url": "https://lngindustry.com/special-reports/27102026/rystad-energy-global-lng-importers-to-spend-us39-billion-more-in-2026-while-buying-less",
+   "snippet": "As more buyers turn to the spot market to replace disrupted volumes in light of the Middle East conflict, Rystad Energy estimates that global LNG importers",
+   "published": "Tue, 27 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Edison, Pakistan gas buyers face QatarEnergy supply halt until year-end",
+   "url": "https://www.reuters.com/business/energy/qatar-extends-force-majeure-lng-cargoes-italys-edison-until-end-december-2026-10-27",
+   "snippet": "Edison and some Pakistani clients of QatarEnergy will ‌not receive liquefied natural gas (LNG) from the Gulf supplier until the end of this year,",
+   "published": "Tue, 27 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],

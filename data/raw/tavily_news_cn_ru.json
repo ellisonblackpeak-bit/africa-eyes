@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "World Insights: Growing practical cooperation boosts China-Russia ties-Xinhua",
+   "url": "https://english.news.cn/20261022/42c755cf54714ceaa66ed4378afda32a/c.html",
+   "snippet": "\"The share of local currency settlement in China-Russia trade has exceeded 99 percent. Cross-border e-commerce volume has surpassed 40 billion dollars, and the platform economy boasts enormous potential. Energy cooperation is advancing steadily. Russia remains a major crude oil supplier to China, with a marked rise in supplies of liquefied natural gas. Dividends from the mutual visa-free policy ke",
+   "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China and Russia agree to support firms to expand oil cooperation, Xinhua reports | Newsquawk",
+   "url": "https://www.newsquawk.com/headlines/china-and-russia-agree-to-support-firms-to-expand-oil-cooperation-xinhua-reports",
+   "snippet": "Statements of bilateral energy cooperation between Beijing and Moscow have been a recurring feature of the relationship and have historically mattered less for their immediate volume content than for what they signal about the durability of sanctioned Russian flows into Chinese hands. The established pattern is that such pledges are followed by negotiated increments through existing channels, the ",
+   "published": "Wed, 21 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "News - The Russian Government",
+   "url": "http://government.ru/en/news/60253",
+   "snippet": "We create new growth points in our intergovernmental relations based on the objective competitive advantages of the Russian and Chinese economies. We continue to consistently protect our common interests and strengthen our industrial and technological autonomy. Together, we accomplish our goals based on mutual respect, neighbourliness, and mutual benefit.\n\nWe maintain strategic cooperation in the ",
+   "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2026 Russia Energy Week Forum: A Wider Energy Trade Network Across Asia, Eurasia, Africa And The West: Analysis - RUSSIA'S PIVOT TO ASIA",
+   "url": "https://russiaspivottoasia.com/2026-russia-energy-week-forum-a-wider-energy-trade-network-across-asia-eurasia-africa-and-the-west-analysis",
+   "snippet": "Exports of coal (energy and coking) from Russia to China in September 2026 increased by 39% compared to last September and reached 9.4 million tonnes, according to China customs. The volume of deliveries in September was the maximum monthly figure for more than two years. In monetary terms, coal exports doubled to US$1.2 billion in September. The volume of Russian coal exports to China in January-",
+   "published": "Mon, 26 Oct 2026 11:09:20 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Analysis: Buyer and Supplier: How China Sustains Russia’s War",
+   "url": "https://www.kyivpost.com/analysis/86366",
+   "snippet": "Russia’s pivot away from European energy markets has made China central to its wartime economy. The link is strongest in crude oil. According to the Centre for Research on Energy and Clean Air (CREA), China took around 50% of Russia’s crude oil exports between December 2022 and August 2026, making it by far the largest single buyer. It also absorbed roughly 37% of Russia’s coal exports over the sa",
+   "published": "Thu, 22 Oct 2026 10:03:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China, Russia vow to deepen high-quality cooperation and mutual trust at heads of government meeting - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1372754.shtml",
+   "snippet": "Against such a backdrop, Russia and China enjoy broad room for coordination. The two sides can boost synergy among multilateral frameworks, pool strengths, advance regional economic and trade connectivity, and keep global industrial and supply chains stable, Wan noted.  \n  \nChina will host the APEC Economic Leaders' Meeting in Shenzhen this November and assume the rotating chairmanship of BRICS in",
+   "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russian prime minister says Russia-China trade turnover grows more than 30-fold over 25 years",
+   "url": "https://www.aa.com.tr/en/eurasia/russian-prime-minister-says-russia-china-trade-turnover-grows-more-than-30-fold-over-25-years/4095582",
+   "snippet": "Mikhail Mishustin says Russia remains China's top oil supplier, nearly all trade transactions between two countries conducted in national currencies",
+   "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia and Africa: from commodity trade to industrial cooperation | TV BRICS, 27.10.26",
+   "url": "https://tvbrics.com/en/news/russia-and-africa-which-sectors-could-become-growth-points-for-cooperation-in-coming-years",
+   "snippet": "The 31st regular meeting of the heads of government of Russia and China took place in Saint Petersburg...\n\n13, Rubtsov pereulok, Moscow, 105082, Russia [...] Trade remains the foundation of Russia–Africa economic ties. Russia’s trade with African countries in 2025 exceeded US$27 billion. Grain, mineral fertilisers, energy resources and metals account for a significant share of Russian exports. Imp",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],
