@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "China, Europe drive deeper automotive cooperation | english.scio.gov.cn",
-   "url": "http://english.scio.gov.cn/m/in-depth/2026-10/27/content_118750595.html",
-   "snippet": "In recent years, Chinese car makers have accelerated localization. Ten European production plans have been announced since September 2023, advisory company AutoMotion reported, including BYD's first European plant in Szeged, Hungary and SAIC's 200 million-euro (222.7 million U.S. dollars) factory in Spain's Galicia.\n\nThis photo taken on Jan. 2, 2025 shows a showroom of Chinese electric vehicle mak",
-   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "BYD to build new factories in Europe to combat strict trade barriers targeting Chinese EVs | South China Morning Post",
    "url": "https://www.scmp.com/business/china-evs/article/3372001/byd-build-new-factories-europe-combat-strict-trade-barriers-targeting-chinese-evs",
    "snippet": "Themis Qi\n\nChina’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback at home and rising trade barriers overseas, according to an executive.\n\n“Europe is a very important regional market for BYD. We will not let tariff increases affect local consumers’ choice of BYD,” said Liu Xueliang, vice-president at",
@@ -19,7 +12,7 @@
    "title": "European firms put Chinese technology to work - Global Times",
    "url": "https://www.globaltimes.cn/page/202610/1372947.shtml",
    "snippet": "At a machinery factory in Vicenza, Italy, Chinese-made robots weld components and move materials. The machines come from Chengdu CRP Robot Technology Co., Ltd., which now has more than 20 partners across 13 European countries. [...] CRP Robot is working with European local partners to improve technical support and after-sales services, its deputy general manager Deng Shihai said. Luigi Gambardella",
-   "published": "Mon, 26 Oct 2026 23:00:00 GMT",
+   "published": "Mon, 26 Oct 2026 02:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -27,6 +20,13 @@
    "url": "https://www.koreaherald.com/article/10915036",
    "snippet": "Beyond building factories, Chinese automakers are increasingly forming alliances with established manufacturers that are struggling with sluggish demand, costly electrification investments and underused production capacity.\n\nFor European companies, the partnerships offer opportunities to sustain factory operations and share development costs. For Chinese manufacturers, they provide access to exist",
    "published": "Mon, 26 Oct 2026 05:57:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Morocco Could Help China Sidestep Europe's EV Tariffs",
+   "url": "https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy",
+   "snippet": "In short, if Chinese EV companies succeed in establishing vehicle assembly factories and fully integrating supply chains in Morocco, they will be able to sell vehicles to Europe under a “Made in Morocco” label, avoiding both the 10 percent EU standard automobile tariff and the additional punitive tariff on Chinese-made EVs—reducing the total tariff effect from as much as 45 percent to zero. This w",
+   "published": "Tue, 27 Oct 2026 09:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -47,14 +47,7 @@
    "title": "Cheap Chinese antibiotics threaten Europe’s last major penicillin plant",
    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/how-cheap-chinese-antibiotics-threaten-europes-last-major-penicillin-plant-2026-10-21",
    "snippet": "Tucked away in the green foothills of the Austrian Alps, the last fully integrated European penicillin plant faces an uncertain future in the shadow of",
-   "published": "Wed, 21 Oct 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Great Wall Motor to build Ora 5 SUV in Bulgaria from 2027 - Automotive News",
-   "url": "https://www.autonews.com/great-wall-motor-co/ane-great-wall-ora-5-manufacturing-bulgaria-1027",
-   "snippet": "Mobility\n\nWhat global EV divergence means for U.S. automakers’ long-term competitiveness\n\nEV adoption in the U.S. trails China, Europe and emerging markets, raising questions about whether American automakers will compete globally long term.\n\nMB\n\nBy\n\nMolly Boigon\n\nWhat global EV divergence means for U.S. automakers’ long-term competitiveness\n\nVolkswagen\n\nAudi’s U.S. factory plan: A win for Trump, ",
-   "published": "Tue, 27 Oct 2026 12:48:24 GMT",
+   "published": "Thu, 22 Oct 2026 02:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -69,6 +62,13 @@
    "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
    "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
    "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "“Eroding Tariff Advantages and Manufacturing Constraints”: China Diversification Through Southeast Asia Under Strain, With Key Manufacturing Hubs’ Capabilities a Decisive Factor | The Economy",
+   "url": "https://economy.ac/news/2026/10/202610295763",
+   "snippet": "“Spectrum for European Companies, a Communications Network of Its Own”: EU Space Industry Self-Reliance Strategy Deepens US–EU Tensions\n\nAoife Brennan\n\nAmerican foreign policy\n\n\n\n“Streets Burn as National Debt Piles Up”: Hardship Fuels Public Anger, Putting European Austerity to the Test\n\nSiobhán Delaney\n\nEuropean foreign policy\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[]( [...] China’s distinctive man",
+   "published": "Fri, 23 Oct 2026 04:00:00 GMT",
    "source": "tavily"
   }
  ],

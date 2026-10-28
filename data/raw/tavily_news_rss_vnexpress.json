@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "LPBank nhận giải thưởng 'Chuyển đổi số Việt Nam 2026'",
+   "url": "https://vnexpress.net/lpbank-nhan-giai-thuong-chuyen-doi-so-viet-nam-2026-5137483.html",
+   "content": "Vietnam Digital Awards 2026 vinh danh LPBank với giải pháp Lumi - tổng đài chăm sóc khách hàng ứng dụng AI, khai thác dữ liệu thời gian thực tối ưu trải nghiệm người dùng",
+   "published_date": "Tue, 27 Oct 2026 15:30:00 +0700",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria probe finds 37 miners suffocated in overcrowded cell | AP News",
+   "url": "https://apnews.com/article/nigeria-miners-suffocated-cell-investigation-security-agency-090bef9719f1502edb191af2d43fee6b",
+   "snippet": "The deaths have sparked outrage and protests in Nigeria and turned a spotlight on the detention system in the country.\n\nThe suspects were arrested by officers of the Nigeria Security and Civil Defense Corps, or NSCDC, a paramilitary agency, and accused of illegal mining in Niger state in September.\n\nThe agency initially blamed the deaths on a disease outbreak in the cell, a claim survivors rejecte",
+   "published": "Tue, 27 Oct 2026 17:04:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Ebola patient flown to Switzerland, Congo health worker killed as 4 countries deal with outbreak | CBC News",
+   "url": "https://www.cbc.ca/news/health/ebola-outbreak-countries-affected-9.7396192",
+   "snippet": "The Swiss woman being treated for Ebola in Nigeria was medically evacuated to Switzerland with her husband Monday, officials said, as Nigerian authorities continued monitoring 52 people who had been in contact with her.\n\nNigerian Health Minister Muhammad Pate said the woman, the country's first case in the current outbreak, left the capital, Abuja, early Monday with his approval.\n\nHer condition ha",
+   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "1st confirmed Ebola patient in Nigeria evacuated to Switzerland | PBS News",
+   "url": "https://www.pbs.org/newshour/world/1st-confirmed-ebola-patient-in-nigeria-evacuated-to-switzerland",
+   "snippet": "Nigerian Health Minister Muhammad Pate said the woman, the country's first case in the current outbreak, left the capital, Abuja, early Monday with his approval. Her condition had improved significantly, and she was stable, conscious and able to communicate, he said.\n\n## Grow your mind\n\nSubscribe to our Science Newsletter to explore the\nwide worlds of science, health and technology.\n\nThank you. Pl",
+   "published": "Mon, 26 Oct 2026 20:46:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "First Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say - BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo",
+   "snippet": "Nigeria's Centre for Disease Control and Prevention (NCDC) said it was carrying out genomic sequencing, which could help investigators understand whether the infection is related to other cases.\n\n\"The investigation is reconstructing the full travel and exposure history. Genomic sequencing is given a high priority,\" said Dr Pavel Ursu, the WHO's representative in Nigeria. [...] The Nigerian patient",
+   "published": "Fri, 23 Oct 2026 04:54:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "TotalEnergies completes $800 million sale of Renaissance JV oil interest in Nigeria to Vaaris",
+   "url": "https://www.worldoil.com/news/2026/10/27/totalenergies-completes-800-million-sale-of-renaissance-jv-oil-interest-in-nigeria-to-vaaris",
+   "snippet": "The completion follows Eni's sale of its Nigerian subsidiary Agip Energy and Natural Resources, which held a 5% stake in the same joint venture, to Sterling-owned Apex, which Eni announced as completed on Oct. 26. With both deals done, the international partners left in the former SPDC venture have now handed their onshore oil positions to Nigerian-owned operators. Shell sold its operating stake t",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European disease control center sends experts to Nigeria while Ebola cases surpass 10,000 in Congo | Euronews",
+   "url": "https://www.euronews.com/2026/10/27/european-disease-control-center-sends-experts-to-nigeria-while-ebola-cases-surpass-10000-i",
+   "snippet": "## The European Centre for Disease Prevention and Control (ECDC) deployed a team of experts to Nigeria this week as Ebola spreads across Africa, with cases reported in Kenya and Nigeria, the European agency announced on Tuesday.\n\nWith the Ebola outbreak continuing to spread beyond the epicentre in the Democratic Republic of Congo — where it surpassed 10,000 cases — ECDC sent a team led by its seni",
+   "published": "Tue, 27 Oct 2026 16:17:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dozens dead in Nigeria after gunmen attack rural town",
+   "url": "https://wng.org/sift/dozens-dead-in-nigeria-after-gunmen-attack-rural-town-1793151828",
+   "snippet": "WORLD is a news organization producing Biblically sound, daily coverage of global, national, and cultural current events.",
+   "published": "Wed, 28 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Woman treated for Ebola in Nigeria is evacuated to Switzerland",
+   "url": "https://news.sky.com/story/woman-treated-for-ebola-in-nigeria-is-evacuated-to-switzerland-13604127",
+   "snippet": "The woman - the Ugandan-born wife of a Swiss diplomat based in Abuja - is Nigeria's first Ebola case in more than a decade.",
+   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/083251a0-d5ab-48be-8295-41c9860963fd?syn-25a6b1a6=1",
+   "snippet": "# Nigeria evacuates Ebola patient to Switzerland\n\n## Save 40% on Standard Digital\n\nwas MX$11988 now MX$7175 for your first year.\n\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October.\n\n## Explore more offers.\n\n### Trial\n\nThen MX$1475 per month. Complete digital access with exclusive insights and industry dee",
+   "published": "Mon, 26 Oct 2026 17:26:54 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],

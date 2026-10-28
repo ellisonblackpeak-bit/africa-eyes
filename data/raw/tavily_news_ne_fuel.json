@@ -1,7 +1,42 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger Imposes Overnight Petrol Sales Curfew Amid Nationwide Fuel Shortage",
+   "url": "https://trendsnafrica.com/niger-imposes-overnight-petrol-sales-curfew-amid-nationwide-fuel-shortage?amp=1",
+   "snippet": "However, the measures have added to the difficulties faced by transport operators, many of whom depend on daily earnings to cover fuel costs and vehicle payments. Long queues have formed at petrol stations in the capital, Niamey, and other parts of the country, while residents struggle to commute to work and conduct routine activities. [...] Under the temporary measure, petrol sales are prohibited",
+   "published": "Mon, 26 Oct 2026 07:18:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger imposes curfew on petrol sales amid national fuel shortage | Africanews",
+   "url": "https://www.africanews.com/2026/10/25/niger-imposes-curfew-on-petrol-sales-amid-national-fuel-shortage",
+   "snippet": "As the fuel shortage spread, motorists have been facing increasingly long queues at stations.\n\nResidents in the capital, Niamey, and elsewhere said this was disrupting daily life, making it difficult to get to work and carry out their daily activities.\n\nThe taxi union, Synctaxi, has called for the new curfew to be relaxed for operators who are struggling to make ends meet. [...] #### \n\n### Niger s",
+   "published": "Sat, 24 Oct 2026 07:30:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger Republic Limits Petrol Sales To Ease Supply Shortage - Voice of Nigeria",
+   "url": "https://von.gov.ng/niger-republic-limits-petrol-sales-to-ease-supply-shortage",
+   "snippet": "However, the restriction and ongoing shortage have disrupted livelihoods, particularly among taxi drivers struggling to meet their daily expenses.\n\nMoussa Idé Boubacar, a taxi driver in Niamey, disclosed that he had been unable to meet his daily payments for two days.\n\n“Normally, we generate revenue of around 20,000 a day, of which 8,000 is for payments and 12,000 is for fuel. With this shortage, ",
+   "published": "Sun, 25 Oct 2026 12:03:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "It comes nearly two months after Algeria dispatched four Russian-made Sukhoi Su-30 jets, a transport aircraft and an aerial refuelling aircraft to Niamey, following what Algerian authorities described as an attempt to destabilise Niger’s military-led government. [...] Just months later, in April 2024, approximately 100 Russian military personnel arrived in Niamey, bringing equipment and providing ",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Energy Routes And Sahel Insecurity: Why Algeria Is Expanding Its Military Role In Niger | Outlook India",
+   "url": "https://www.outlookindia.com/international/energy-routes-and-sahel-insecurity-why-algeria-is-expanding-its-military-role-in-niger",
+   "snippet": "Algeria’s decision to deploy military units gives its relationship with Niamey a more direct security dimension alongside existing energy and economic cooperation. It also signals Algiers’ willingness to provide practical support to a neighbouring government while emphasising sovereignty and opposition to foreign interference. [...] The decision follows the arrival of four Algerian Su-30 fighter j",
+   "published": "Tue, 27 Oct 2026 12:06:38 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_fuel",
  "_query": "Niamey fuel",
  "_domains": [],
