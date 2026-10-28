@@ -2,7 +2,14 @@
  "success": true,
  "results": [
   {
-   "title": "Mun kashe dala biliyan 47 zuwa yanzu a yaƙin Iran - Amurka",
+   "title": "Mene ne tallafin 70,000 da gwamnatin Tinubu ta amince ga ma'aikata duk wata?",
+   "url": "https://www.bbc.com/hausa/articles/ckly4dj2g187o?at_medium=RSS&at_campaign=rss",
+   "content": "Shirin gwamnatin Najeriya na bai wa ma'aikatan gwamnati tallafin kuɗin sufuri na naira 70,000 ya sake tayar da muhawara kan yadda ake ƙoƙarin rage raɗaɗin matsin tattalin arzikin da jama'a ke fama da shi a faɗin ƙasar.",
+   "published_date": "Wed, 28 Oct 2026 11:39:39 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Wane ne kan gaba tsakanin Netanyahu da Eisenkot a zaɓen Isra'ila?",
    "url": "https://www.bbc.co.uk/hausa/live/crq5n92e03ynt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 28/10/2026",
    "published_date": "",
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Abu 7 da bincike ya gano kan mutuwar matasa 33 masu haƙar zinare a Neja",
-   "url": "https://www.bbc.com/hausa/articles/cm0e057n0p3po?at_medium=RSS&at_campaign=rss",
-   "content": "A watan Satumba ne dai Shugaban Najeriya, Bola Ahmed Tinubu ya bayar da umarnin gudanar da cikakke kuma sahihin bincike, game da mutuwar mutanen da ake zargin suna hakar ma'adinai ba bisa ka'ida ba.",
-   "published_date": "Tue, 27 Oct 2026 16:43:12 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -72,17 +72,17 @@
    "score": 0.6
   },
   {
+   "title": "Carrick da Fernandes sun yi ganawar sulhu",
+   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Ƴan wasan da suka samu kyautuka a bikin Ballon d'Or na 2026",
    "url": "https://www.bbc.com/hausa/articles/cmx23lg04zn5o?at_medium=RSS&at_campaign=rss",
    "content": "Kyaftin ɗin tawagar Ingila Harry Kane ne ya lashe kyautar gwarzon ɗan kwallon na wannan shekara, yayin da abokan takararsa, Kylian Mbappe da Lamine Yamal suka zo na biyu da na uku.",
    "published_date": "Tue, 27 Oct 2026 11:24:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "An bai wa Carrick wa'adin cin Chelsea ko a kore shi",
-   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -107,10 +107,10 @@
    "score": 0.6
   },
   {
-   "title": "Liverpool na harin Luka Vuskovic, AC Milan na son Leny Yoro",
-   "url": "https://www.bbc.com/hausa/articles/cw7vp033m22do?at_medium=RSS&at_campaign=rss",
-   "content": "Manyan ƙungiyoyin na ci gaba da sa ido kan ɗan wasan Brighton Luka Vuskovic, sai dai Liverpool ba ta da niyar ɗauko ɗan wasan Trent Alexander-Arnold zuwa ƙungiyar, iyayin da kuma AC Milan ke harin ɗan wasan Manchester United Leny Yoro.",
-   "published_date": "Sun, 25 Oct 2026 03:49:08 GMT",
+   "title": "Abu 7 da bincike ya gano kan mutuwar matasa 33 masu haƙar zinare a Neja",
+   "url": "https://www.bbc.com/hausa/articles/cm0e057n0p3po?at_medium=RSS&at_campaign=rss",
+   "content": "A watan Satumba ne dai Shugaban Najeriya, Bola Ahmed Tinubu ya bayar da umarnin gudanar da cikakke kuma sahihin bincike, game da mutuwar mutanen da ake zargin suna hakar ma'adinai ba bisa ka'ida ba.",
+   "published_date": "Tue, 27 Oct 2026 16:43:12 GMT",
    "score": 0.6
   },
   {

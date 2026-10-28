@@ -2,10 +2,31 @@
  "success": true,
  "results": [
   {
+   "title": "South African activists push back on data centre rush",
+   "url": "http://www.africanews.com/2026/10/28/south-african-activists-push-back-on-data-centre-rush/",
+   "content": "Civil society groups have demanded a halt in the construction of new AI centres in South Africa. The prospect of a water- and power-hungry hyperscale data centre near areas of the city where thousands of people lack proper access to these resources has alarmed activists.",
+   "published_date": "Wed, 28 Oct 2026 14:16:17 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Russia's President Putin hosts counterparts from Mozambique, Libya and Equatorial Guinea",
+   "url": "http://www.africanews.com/2026/10/28/putin-hosts-counterparts-from-mozambique-libya-and-equatorial-guinea/",
+   "content": "Russian President Vladimir Putin met for talks with counterparts from Mozambique, Libya and Equatorial Guinea in Moscow on Tuesday following the Gas Exporting Countries Forum.",
+   "published_date": "Wed, 28 Oct 2026 13:20:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Nigeria's Dangote oil refinery closes 'historic' IPO",
+   "url": "http://www.africanews.com/2026/10/28/nigerias-dangote-oil-refinery-closes-historic-ipo/",
+   "content": "Africa's largest ever initial public offering closed on Wednesday after raising funds from investors in 120 countries. The IPO for Nigeria's Dangote Petroleum Refinery was extended by two weeks to allow more Africans to participate.",
+   "published_date": "Wed, 28 Oct 2026 12:13:52 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Spain: First footage reveals wreckage of deadly high-speed train crash",
    "url": "http://www.africanews.com/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash/",
    "content": "At least 10 people died when a high-speed train struck another near Toledo, Spain. Two carriages derailed, leaving rescuers searching through the wreckage as authorities warned the death toll could rise.",
-   "published_date": "Wed, 28 Oct 2026 11:16:48 +0000",
+   "published_date": "Wed, 28 Oct 2026 13:38:33 +0000",
    "score": 0.6
   },
   {
@@ -86,10 +107,10 @@
    "score": 0.6
   },
   {
-   "title": "South Africa claims 7.6 kilometer-long freight train is the longest ever",
-   "url": "http://www.africanews.com/2026/10/27/south-africa-claims-76-kilometer-long-freight-train-is-the-longest-ever/",
+   "title": "South Africa claims 7.6 kilometre-long freight train is the longest ever",
+   "url": "http://www.africanews.com/2026/10/27/south-africa-claims-76-kilometre-long-freight-train-is-the-longest-ever/",
    "content": "A government-run company in South Africa claims that it has sent the longest freight train ever on a test run.",
-   "published_date": "Tue, 27 Oct 2026 20:15:48 +0000",
+   "published_date": "Wed, 28 Oct 2026 13:29:42 +0000",
    "score": 0.6
   },
   {
@@ -100,10 +121,10 @@
    "score": 0.6
   },
   {
-   "title": "Nigeria jail conditions blamed for deaths of 33 miners",
-   "url": "http://www.africanews.com/2026/10/27/nigeria-jail-conditions-blamed-for-deaths-of-33-miners/",
+   "title": "Poor jail conditions blamed for deaths of 33 miners in Nigeria",
+   "url": "http://www.africanews.com/2026/10/27/poor-jail-conditions-blamed-for-deaths-of-33-miners-in-nigeria/",
    "content": "Poor jail conditions led to the deaths of 33 young miners arrested on suspicion of illegal gold mining in central Nigeria, investigators said Tuesday, describing their treatment as “cruel and inhuman.”",
-   "published_date": "Tue, 27 Oct 2026 16:56:40 +0000",
+   "published_date": "Wed, 28 Oct 2026 13:36:11 +0000",
    "score": 0.6
   },
   {
@@ -188,27 +209,6 @@
    "url": "http://www.africanews.com/2026/10/27/ethiopia-at-least-60-christians-killed-in-attacks-in-oromia-region/",
    "content": "Religious authorities said all the victims were Christians but provided no further details about those responsible for the attacks.",
    "published_date": "Tue, 27 Oct 2026 10:48:26 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Turkey: tornado kills at least four workers at Antalya construction site",
-   "url": "http://www.africanews.com/2026/10/27/turkey-tornado-kills-at-least-four-workers-at-antalya-construction-site/",
-   "content": "At least four workers died when a tornado struck a construction site in Antalya, overturning accommodation cabins and a tower crane. Heavy rain also flooded roads in Istanbul.",
-   "published_date": "Tue, 27 Oct 2026 10:39:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "IOC president arrives in Senegal ahead of the Youth Olympic Games",
-   "url": "http://www.africanews.com/2026/10/27/ioc-president-arrives-in-senegal-ahead-of-the-youth-olympic-games/",
-   "content": "Zimbabwean Kirsty Coventry was welcomed by volunteers as Dakar prepares to host the first Olympic event in Africa.",
-   "published_date": "Tue, 27 Oct 2026 10:36:50 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine: firefighters battle flames and rescue dog from Kyiv ruins",
-   "url": "http://www.africanews.com/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins/",
-   "content": "A Russian missile and drone attack on Kyiv killed one person and injured 15. Emergency workers rescued a dog from the rubble, while strikes damaged university buildings and a major bridge.",
-   "published_date": "Tue, 27 Oct 2026 09:35:16 +0000",
    "score": 0.6
   }
  ],

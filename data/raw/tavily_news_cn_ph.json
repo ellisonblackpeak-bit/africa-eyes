@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "PH rail project delays revive China funding question | The Manila Times",
+   "url": "https://www.manilatimes.net/2026/10/24/news/national/ph-rail-project-delays-revive-china-funding-question/2452947",
+   "snippet": "Herman Tiu Laurel, president of the Asian Century Philippines Strategic Studies Institute, said the Philippines was being left behind by its neighbors in a forum on Friday, citing railway developments in Laos, Indonesia and Malaysia.\n\nHis assessment comes as the Mindanao Development Authority (MinDA) explores possible private-sector investment in the long-delayed Mindanao Railway Project, includin",
+   "published": "Fri, 23 Oct 2026 16:01:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "East Timor president sees growing investment 1 year after joining ASEAN",
+   "url": "https://english.kyodonews.net/articles/-/89573",
+   "snippet": "\"If it's China, U.S., the Philippines, Indonesia (in an exercise), we join,\" he said, indicating a stance different from neighboring Indonesia, which held joint naval exercises with China east of Taiwan earlier this year.\n\nA number of investment projects are underway in East Timor, including a joint investment by Japanese trading house Itochu Corp. and a French firm to construct a solar power plan",
+   "published": "Tue, 27 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Coffee Market Growth Forecast to 2030 - The China-Global South Project",
+   "url": "https://chinaglobalsouth.com/2026/10/22/china-coffee-market-growth-2030",
+   "snippet": "## Previous Story\n\nPhilippines Exploring Deeper Cooperation With Taiwan to Protect Cables\n\n## Next Story\n\nU.S.-Backed Southeast Asia Cable Project Excludes Chinese Suppliers\n\nWe use cookies on our website to remember your login status and manage your subscription access. By clicking “Accept”, you consent to the use of ALL the cookies.\n\nCookie settingsAccept\n\nManage consent\n\n#### Privacy Overview [",
+   "published": "Thu, 22 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China & Taiwan Update, October 27, 2026 | American Enterprise Institute - AEI",
+   "url": "https://www.aei.org/commentary/china-taiwan-update-october-27-2026",
+   "snippet": "The People’s Republic of China (PRC) is likely increasing military pressure on the Philippines to impose costs on Manila’s opposition to PRC claims in the South China Sea. The People’s Liberation Army Navy (PLAN) may also be practicing movements critical to isolating the Philippines during a future conflict. The PLAN aircraft carrier Liaoning, alongside two Type 055 guided-missile cruisers and one",
+   "published": "Tue, 27 Oct 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s sanctions on Taiwan allies project its power, but with limited effect – Radio Free Asia",
+   "url": "https://www.rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize",
+   "snippet": "“But I think for Beijing the mere fact it has created a news cycle out of the sanctions will mean it has achieved the desired effect of reinforcing its claims over Taiwan and showing there are consequences, however limited, to siding with Taipei.”\n\nEdited by Eugene Whong.\n\n## Related Stories\n\nChina pressure accelerates Philippines-Taiwan ties, analysts say### China pressure accelerates Philippines",
+   "published": "Fri, 23 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Letters | Philippines, Hong Kong can contribute together to a more productive Asia | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/letters/article/3371847/philippines-hong-kong-can-contribute-together-more-productive-asia",
+   "snippet": "Advertisement\n\nThe Philippines\n\nOpinionLetters\n\n# LettersPhilippines, Hong Kong can contribute together to a more productive Asia\n\nReaders discuss a stronger economic relationship between the Philippines and Hong Kong, Singapore’s balancing act, the Lugard Road lighting project, and MTR rules\n\n3-MIN READ3-MIN\n\nListen [...] Over the past two years, the Philippine government has taken significant st",
+   "published": "Sat, 24 Oct 2026 03:30:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
+   "snippet": "Chinese investment in Vietnam has also expanded. In the first nine months of 2026, China registered $2.27 billion in newly licensed capital. It ranked first in the number of new projects with about 850 projects in the first seven months of the year, Do said.  \n  \nNotably, Chinese investment is shifting from traditional processing to infrastructure connectivity, especially railway links, clean ener",
+   "published": "Tue, 27 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The US-China Tech Cold War Is Moving Undersea - Bloomberg",
+   "url": "https://www.bloomberg.com/opinion/articles/2026-10-25/the-us-china-tech-cold-war-is-moving-undersea",
+   "snippet": "A new project by Australia, the UK and the US was quickly announced to develop underwater drone technology to protect cables by 2027, while Singapore launched a 17-country framework covering Southeast Asia, Europe, the Middle East and Oceania to explore defense cooperation on critical infrastructure. [...] , Columnist\n\n# The US-China Tech Cold War Is Moving Undersea\n\nWhen Australia’s Defence Minis",
+   "published": "Sun, 25 Oct 2026 20:01:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Digital Beachhead in the Western Hemisphere",
+   "url": "https://www.realclearworld.com/articles/2026/10/28/chinas_digital_beachhead_in_the_western_hemisphere_1213920.html",
+   "snippet": "On Sunday, President Luiz Inácio Lula da Silva won Brazil's presidential runoff election with 51.79% of the vote, narrowly defeating opposing candidate",
+   "published": "Wed, 28 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],

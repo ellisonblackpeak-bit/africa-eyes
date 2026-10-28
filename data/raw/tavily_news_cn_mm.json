@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Myanmar students explore Chinese culture through language training programme | The Star",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/26/myanmar-students-explore-chinese-culture-through-language-training-programme",
+   "snippet": "Liu Qing, deputy general manager of CITIC Myanmar, said the project began in 2019, reflecting the company's commitment to supporting local youth as it worked with Myanmar partners to advance the Kyaukphyu project.\n\nSince 2024, the company has continued to offer Chinese-language training in Yangon in collaboration with its partners, guided by a vision of supporting Kyaukphyu's future and regional d",
+   "published": "Mon, 26 Oct 2026 11:08:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Taps Myanmar’s Rare Earth Surge, Coffee Sell-Off, and More",
+   "url": "https://www.irrawaddy.com/news/china-briefing/china-taps-myanmars-rare-earth-surge-coffee-sell-off-and-more.html",
+   "snippet": "MCA chairman Myo Aye told Xinhua that cooperation with Yunnan has deepened since the military takeover, with new MoUs locking in China as the top destination for Myanmar’s 3,000–4,000 tonnes of annual exports—tumbling from pre-coup levels of more than 5,000 tonnes. He said the association is looking to attract Chinese investment in value-added processing facilities, roasting plants and supply-chai",
+   "published": "Fri, 23 Oct 2026 12:13:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Monroe Doctrine and Its Strategic Blunder in Myanmar",
+   "url": "https://www.irrawaddy.com/opinion/guest-column/chinas-monroe-doctrine-and-its-strategic-blunder-in-myanmar.html",
+   "snippet": "Since the 2021 military coup, Myanmar has become increasingly unstable, while ethnic resistance organizations (EROs) have expanded their territorial control. Ironically, many resources and infrastructure projects China hopes to develop now lie in territories controlled by EROs and People’s Defense Forces (PDFs). Rare earth deposits are concentrated in Kachin State, where the Kachin Independence Or",
+   "published": "Wed, 28 Oct 2026 09:58:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Pulls Out of Logistics Hub Project at Colombo Port – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/china-pulls-out-of-logistics-hub-project-at-colombo-port",
+   "snippet": "##### Society\n\n#### ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge\n\n##### Diplomacy\n\n#### China’s Advance in the Bahamas\n\n##### Security\n\n#### Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula\n\n### The Pulse | Economy | South Asia\n\n# China Pulls Out of Logistics Hub Project at Colombo Port [...] Lomé’s maritime ambitions, deepening ti",
+   "published": "Tue, 27 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Injecting greater momentum into building a China-Indonesia community with a shared future - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1372820.shtml",
+   "snippet": "Broader prospects for cooperation between enterprises  \n  \nHarsono: Major investment projects jointly undertaken by Indonesia and China have given the Indonesian people a tangible sense of the benefits of cooperation and made those benefits more accessible to them. The Jakarta-Bandung High-Speed Railway is a prominent example. [...] organizations should help companies identify investment opportuni",
+   "published": "Fri, 23 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China urges US to halt proposed expansion of outbound investment curbs - Nikkei Asia",
+   "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs",
+   "snippet": "- US-China tensions#### US congressman demands Starbucks close first stores in China's Xinjiang\n\n  US congressman demands Starbucks close first stores in China's Xinjiang\n\n- US-China tensions#### China pushes back against US on Iran and Cuba in UN speech\n\n  China pushes back against US on Iran and Cuba in UN speech\n\n## Sponsored Content\n\n### About Sponsored ContentThis content was commissioned by ",
+   "published": "Sat, 24 Oct 2026 23:16:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Australia's Rio Tinto to invest $1.9 billion in Queensland bauxite project",
+   "url": "https://lufkindailynews.com/news_reuters/business/australias-rio-tinto-to-invest-1-9-billion-in-queensland-bauxite-project/article_0f9c883b-3d2e-594f-bc8e-508c20c8b6ef.html",
+   "snippet": "Subscribe\n\nImage 5\n\n    in Shanghai, China, November 6, 2025.REUTERS/Maxim Shemetov/File Photo\n\n   Maxim Shemetov\n\n   Facebook\n   Twitter\n   WhatsApp\n   SMS\n   Email\n   Print \"Print\")\n   Copy article link\n   Save\n\nPrev\n\nPrevious\n\nPrevious\n\nImage 7: Oil falls near $2 as Middle East talks help ease supply worries\n\n###### Oil falls near $2 as Middle East talks help ease supply worr…\n\nBy Georgina McCa",
+   "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Thai minister meets Myanmar leader to discuss energy cooperation",
+   "url": "https://www.thaipbsworld.com/asean/571456",
+   "snippet": "Thai Energy Minister Akanat Prompan met Myanmar President Min Aung Hlaing in Naypyitaw on Tuesday to discuss expanding cooperation in the energy and natural",
+   "published": "Thu, 22 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's aluminium producers push abroad as domestic growth hits ceiling",
+   "url": "https://www.reuters.com/world/asia-pacific/chinas-aluminium-producers-push-abroad-domestic-growth-hits-ceiling-2026-10-28",
+   "snippet": "Chinese aluminium producers are pushing abroad as part of an expansion spree that could tip the world market for the metal into surplus ​even as the wave of",
+   "published": "Wed, 28 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_mm",
  "_query": "Chinese company Myanmar investment project",
  "_domains": [],

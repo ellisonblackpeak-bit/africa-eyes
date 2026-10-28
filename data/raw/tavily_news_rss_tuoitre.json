@@ -1,6 +1,21 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Hàn Quốc chi 3.900 tỉ đồng xây 'Thung lũng Việt Nam', kỳ vọng hút người Việt đến định cư",
+   "url": "https://tuoitre.vn/han-quoc-chi-3900-ti-dong-xay-thung-lung-viet-nam-ky-vong-hut-nguoi-viet-den-dinh-cu-100261028191626272.htm",
+   "content": "Dự án Thung lũng K-Vietnam tại huyện Bonghwa, có tổng vốn đầu tư khoảng 200 tỉ won Hàn Quốc (tương đương 3.900 tỉ đồng), hướng đến phát triển du lịch di sản Việt - Hàn, đồng thời xây dựng hệ thống hỗ trợ các gia đình gốc Việt định cư lâu dài tại địa phương.",
+   "published_date": "10/28/2026 8:08:00 PM",
+   "score": 0.6
+  },
+  {
+   "title": "Kỹ sư hàng không Việt Nam và sáng kiến giúp tiết kiệm hơn 230 tỉ đồng cho công ty",
+   "url": "https://tuoitre.vn/ky-su-hang-khong-viet-nam-va-sang-kien-giup-tiet-kiem-hon-230-ti-dong-cho-cong-ty-100261028180130737.htm",
+   "content": "Tối ưu quy trình bảo dưỡng, anh Nguyễn Bá Vương - kỹ sư hàng không - cùng đồng nghiệp tại Vietnam Airlines giúp giảm hơn 334 ngày dừng tàu bay.",
+   "published_date": "10/28/2026 6:20:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

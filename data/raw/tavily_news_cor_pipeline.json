@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security",
+   "url": "https://gazettengr.com/un-hails-nigeria-morocco-gas-pipeline-project-as-booster-of-africas-energy-security",
+   "snippet": "The Nigeria-Morocco gas pipeline, also known as the African Atlantic Gas Pipeline (AAGP), is a strategic project Nigeria and Morocco jointly initiated in 2016. The project is designed to transport Nigerian natural gas through West African countries to Morocco, with the potential to extend supplies to European markets.\n\nAccording to ECOWAS, the proposed pipeline network will span approximately 6,80",
+   "published": "Thu, 22 Oct 2026 06:24:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Morocco commits $1 billion to oil and gas exploration as it targets energy independence by 2031 - Businessfront",
+   "url": "https://businessfront.com/energy/news/morocco-gas-exploration-2031",
+   "snippet": "The Nigeria-Morocco Atlantic African Gas Pipeline — a proposed 6,800-kilometre pipeline designed to carry up to 30 bcm of natural gas annually — reached a milestone in July 2025 with the signing of an intergovernmental agreement among participating countries. [...] The $25 billion project is designed to supply West African nations before connecting to the Maghreb-Europe Gas Pipeline, potentially e",
+   "published": "Tue, 27 Oct 2026 07:50:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Morocco Plans $1Bn in Oil, Natural Gas Exploration Through 2031 | Egypt Oil & Gas",
+   "url": "https://egyptoil-gas.com/news/morocco-plans-1bn-in-oil-natural-gas-exploration-through-2031",
+   "snippet": "Morocco is also pursuing the Nigeria-Morocco Atlantic African Gas Pipeline to strengthen energy security and diversify supplies. The proposed 6,800-km pipeline is designed to transport up to 30 bcm of natural gas annually.\n\nIt is intended to supply countries in West Africa before connecting to the Maghreb-Europe Gas Pipeline, potentially enabling exports to Morocco and European markets. The projec",
+   "published": "Mon, 26 Oct 2026 14:00:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lagos water crisis: Residents rely on boreholes as public supply falls far short of demand - EnviroNews - latest environment news, climate change, renewable energy",
+   "url": "https://www.environewsnigeria.com/lagos-water-crisis-residents-rely-on-boreholes-as-public-supply-falls-far-short-of-demand",
+   "snippet": "#### Latest news\n\n### UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\n### El Niño: Experts warn of heat-related illnesses, disease risks\n\n### Group demands institutionalisation of mentorship training for young engineers\n\n### NDPHC breaks ground on power project to end 15-year darkness in Kaduna community\n\n### SON publishes energy efficiency standards for house",
+   "published": "Sun, 25 Oct 2026 13:40:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What Nigeria’s new gas transportation rules mean for global investors – Businessday NG",
+   "url": "https://businessday.ng/news/article/what-nigerias-new-gas-transportation-rules-mean-for-global-investors",
+   "snippet": "The regional angle\n\nRevision 2 also sets initial rules for proposed trans-African pipelines, including routes toward Morocco and Algeria.\n\nUmar said gas can’t cross borders if each country measures and hands over custody differently, so standards need to match. Those pipelines remain under discussion, and nothing in the keynote suggested financing or timelines. [...] The pipeline build-out is the ",
+   "published": "Tue, 27 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "El Niño: Experts warn of heat-related illnesses, disease risks - EnviroNews - latest environment news, climate change, renewable energy",
+   "url": "https://www.environewsnigeria.com/el-nino-experts-warn-of-heat-related-illnesses-disease-risks",
+   "snippet": "### Lagos water crisis: Residents rely on boreholes as public supply falls far short of demand\n\n### UN hails Nigeria-Morocco gas pipeline project as booster of Africa’s energy security\n\n### Group demands institutionalisation of mentorship training for young engineers\n\n### NDPHC breaks ground on power project to end 15-year darkness in Kaduna community\n\n### SON publishes energy efficiency standards",
+   "published": "Sun, 25 Oct 2026 11:29:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Authorizes Troop Deployment to Niger to Protect Its Energy Interests | energynews.pro",
+   "url": "https://energynews.pro/en/algeria-authorizes-troop-deployment-to-niger-to-protect-its-energy-interests",
+   "snippet": "gas pipeline meant to link Nigeria to Europe via Niger and Algeria. [...] The decision \"marks a major shift in Algerian defense doctrine, historically based on the principle of military non-intervention beyond national borders,\" said Abdellah Akir, a researcher in political science and international relations. According to him, it is driven by the need to protect Algeria's strategic depth and to s",
+   "published": "Mon, 26 Oct 2026 15:02:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria revises gas pipeline access code as regulator flags $30bn-$50bn investment need",
+   "url": "https://www.intellinews.com/nigeria-revises-gas-pipeline-access-code-as-regulator-flags-30bn-50bn-investment-need-479575",
+   "snippet": "Nigeria has launched a second revision of its gas transportation network code as the country's midstream and downstream regulator estimates that",
+   "published": "Wed, 28 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NAN seeks partnership with Xinhua for African media summit - Realnews Magazine",
+   "url": "https://realnewsmagazine.net/nan-seeks-partnership-with-xinhua-for-african-media-summit",
+   "snippet": "Gui noted that Xinhua maintained a presence in sub-Saharan Africa, including an Abuja branch, reflecting the importance the agency attached to the region.(NAN)\n\nTags: NAN Xinhua  \n   \n  \n   \n  \n\n### Related Posts\n\n, Dr. Musa Adamu Aliyu, SAN, received a delegation...\n\nRead More\n\n## Most Read\n\n## Subscribe to Our Newsletter\n\nKeep abreast of news and other developments from our website.\n\n[](\n\n## Lat",
+   "published": "Thu, 22 Oct 2026 05:55:04 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cor_pipeline",
  "_query": "Nigeria Morocco gas pipeline",
  "_domains": [],

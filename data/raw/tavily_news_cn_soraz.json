@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De7lMyqOwWC",
+   "snippet": "The crisis reflects a structural gap between what Niger can refine and what it consumes. The Zinder refinery, known as SORAZ, is the country's only operating refinery. When it cannot cover demand, Sonidep must import fuel, which requires cash, foreign currency and open transport routes through neighbouring countries. On 12 October, authorities banned exports of premium gasoline and diesel and set ",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "DOMESTIC REFINERS GET 127M BARRELS IN ...",
+   "url": "https://www.facebook.com/AriseTVNews/posts/domestic-refiners-get-127m-barrels-in-9monthsthe-nigerian-upstream-petroleum-reg/1727670876031444",
+   "snippet": "Niger Republic's Soraz Refinery in Zinder, some 260km from the Nigerian border, had an installed refining capacity of 20,000 barrels per day.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger's Fuel Crisis Deepens as Government Restricts ...",
+   "url": "https://www.instagram.com/reel/De2M8sVCQCi",
+   "snippet": "Niger's state-owned SORAZ refinery in the Zinder region produces about 20,000 barrels of oil daily, barely enough to meet local demand.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "'Real Struggle': Niger's Fuel Crisis Deepens as ...",
+   "url": "https://www.facebook.com/firstpostin/posts/real-struggle-nigers-fuel-crisis-deepens-as-government-restricts-sales-alysonle_/1653339603493687",
+   "snippet": "The Soraz refinery in Zinder is the only one in the country. It “can no longer satisfy domestic demand”, which has surged for more than a year now, the state-",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger's government reportedly issued a 45-day ultimatum ...",
+   "url": "https://www.facebook.com/theGrio/posts/nigers-government-reportedly-issued-a-45-day-ultimatum-to-three-chinese-linked-o/1473616777969888",
+   "snippet": "The dispute also involved concerns about local employment, subcontracting opportunities, and operations at the Zinder refinery.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "CNPC",
+   "url": "https://www.facebook.com/zhongguoshiyou/posts/what-does-a-petroleum-company-have-to-do-with-driving-licenses-and-grain-millswe/1559159929584626",
+   "snippet": "22h \n\nView all 2 replies\n\n[](\n\nMoussa Thorantcha\n\nGreat\n\n   17h \n\n[](\n\nYousko De Poye\n\nDon de 1million voles de 5milliards\n\n   30m \n\n[](\n\nSadik Ibrahim\n\nCadeau empoisonnée Image 15: 😅Image 16: 😅Image 17: 😅\n\n   16h \n\n1\n\nImage 18\n\nSurajo Iliya\n\nNotre probleme avec la chine c'est de nous liberer Notre monaie manquer de la chat du petrole ce cadeau n'est pas obligatoire respecter le partenariat\n\n   3h",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De8wZ1XEswy",
+   "snippet": "cnpc\\_news\n\n🪪🌾What does a petroleum company have to do with driving licenses and grain mills?  \n  \n⛽🏡Well, beyond securing #Niger's fuel supply, SORAZ — the #CNPC-Niger joint venture — brought tangible support to Mai Bagari village on Oct 9:  \n  \n📌Ten grain mills donated to local women's groups  \n📌Fifty youth fully sponsored to get their driver's licenses  \n  \n🤝✨True partnership isn't just about e",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/De2haW2FFFv",
+   "snippet": "Photo by Bizna Kenya on October 27, 2026. May be an image of text.\nVideo by Bizna Kenya on October 27, 2026. May be an image of television, newsroom and text.\nVideo by Bizna Kenya on October 27, 2026. May be an image of television, magazine, newsroom and text.\nPhoto by Bizna Kenya on October 27, 2026.\nPhoto by Bizna Kenya on October 27, 2026.\nPhoto by Bizna Kenya on October 27, 2026. May be an ima",
+   "published": "Fri, 23 Oct 2026 21:28:31 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_soraz",
  "_query": "Zinder refinery Niger",
  "_domains": [],

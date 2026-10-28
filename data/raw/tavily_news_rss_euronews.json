@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Trump rolls back methane rules for US oil and gas industry",
+   "url": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry",
+   "content": "Trump is seeking to lower energy costs ahead of next week's midterm elections, as rising oil prices linked to the US war with Iran fuel voter frustration.",
+   "published_date": "Wed, 28 Oct 2026 14:29:45 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Spain: First footage reveals wreckage of deadly high-speed train crash",
    "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
    "content": "At least 10 people died when a high-speed train struck another near Toledo, Spain. Two carriages derailed, leaving rescuers searching through the wreckage as authorities warned the death toll could rise.",
@@ -9,7 +16,7 @@
    "score": 0.6
   },
   {
-   "title": "US to grant Flavio Bolsonaro visa as he flees Brazil and makes brief stop in Ecuador via Argentina",
+   "title": "Flavio Bolsonaro arrives in Miami after fleeing Brazil",
    "url": "https://www.euronews.com/2026/10/28/us-to-grant-flavio-bolsonaro-visa-as-he-flees-brazil-and-makes-brief-stop-in-ecuador-via-a",
    "content": "On Monday, Bolsonaro described the travel ban as an attempt to intimidate him, insisting he had no plans to leave Brazil.",
    "published_date": "Wed, 28 Oct 2026 12:14:24 +0100",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/video/2026/10/27/israel-october-7-families-remember-victims-as-voters-head-to-polls",
    "content": "In Tel Aviv, families affected by the 7 October 2023 attacks observed a moment of silence as polling stations were opening across Israel for the general election.",
    "published_date": "Tue, 27 Oct 2026 09:08:49 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 27th, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Tue, 27 Oct 2026 07:00:32 +0100",
    "score": 0.6
   }
  ],
