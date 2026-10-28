@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Eurovision confirms candidates for 2027 — but 2 EU countries are still on the fence",
+   "url": "https://www.politico.eu/article/eurovision-candidates-2027-spain-slovenia-undecided/",
+   "content": "Ireland, the Netherlands and Iceland will once again boycott the competition next year.",
+   "published_date": "Wed, 28 Oct 2026 11:15:40 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "At least 30 people die in major Spanish train crash",
+   "url": "https://www.politico.eu/article/renfe-spain-urda-toledo-10-dead-second-serious-train-crash/",
+   "content": "The collision brings back memories of the January train crash in Adamuz, which killed 46 people.",
+   "published_date": "Wed, 28 Oct 2026 10:39:12 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "UK’s Streeting to visit Berlin for defense talks with Pistorius",
+   "url": "https://www.politico.eu/article/wes-streeting-to-visit-berlin-for-defense-talks-with-boris-pistorius/",
+   "content": "The British defense secretary will meet his German counterpart in Berlin for talks on NATO, Ukraine and joint weapons projects as the two countries deepen military cooperation.",
+   "published_date": "Wed, 28 Oct 2026 09:39:37 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Will Andy Burnham actually like his own budget?",
    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/will-andy-burnham-actually-like-his-own-budget/",
    "content": "It’s budget day – and it’s a critical moment for the chancellor and the UK economy. So, what are the plans to ease the squeeze on household bills and the cost-of-living crisis? Sam Coates and Anne McElvoy unpack the high-stakes decisions facing the government, and how John Healey plans to raise billions in additional revenue […]",
@@ -48,27 +69,6 @@
    "url": "https://www.politico.eu/article/the-us-and-canada-are-talking-trade-that-doesnt-mean-theyre-near-a-deal/",
    "content": "Washington and Ottawa have intensified their discussions over the past week, but have yet to offer concessions.",
    "published_date": "Tue, 27 Oct 2026 22:26:55 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Quebec’s separatist leader threatens to play spoiler at Carney’s EU summit",
-   "url": "https://www.politico.eu/article/quebecs-separatist-leader-threatens-to-play-spoiler-to-carneys-eu-summit/",
-   "content": "Premier Paul St-Pierre Plamondon says Ottawa would rather he “serve shrimp cocktail” at a function than stage one, and alleges a “serious lack of respect.”",
-   "published_date": "Tue, 27 Oct 2026 19:57:34 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UK budget 2026: What to watch for as Healey vows ‘breathing space’ for Brits",
-   "url": "https://www.politico.eu/article/uk-budget-2026-andy-burnham-john-healey-vows-breathing-space-brits/",
-   "content": "What the POLITICO newsroom will be scouring for as Britain's top finance minister unveils his first budget.",
-   "published_date": "Tue, 27 Oct 2026 18:18:24 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU eyes global tax deal revenue to boost next budget",
-   "url": "https://www.politico.eu/article/eu-eyes-global-tax-deal-revenue-to-boost-next-budget/",
-   "content": "European Council President António Costa is pushing national capitals to agree new EU-wide levies to finance the budget.",
-   "published_date": "Tue, 27 Oct 2026 17:58:36 +0000",
    "score": 0.6
   }
  ],

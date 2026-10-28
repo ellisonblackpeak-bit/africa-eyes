@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "US begins talks with Myanmar’s military authorities — DW | UA.NEWS",
-   "url": "https://ua.news/en/dovkolo-svitu/ssha-rozpochali-peregovori-z-viiskovoiu-vladoiu-mianmi-deutsche-welle",
-   "snippet": "After the coup in February 2021, the EU suspended direct financial aid to Myanmar’s government, imposed targeted sanctions, and sharply limited diplomatic contacts with the military authorities. The restrictions apply to 105 individuals and 22 entities linked to the military; in April, they were extended for another 12 months.\n\nMore current news is available on the UA.News Telegram channel Telegra",
-   "published": "Tue, 27 Oct 2026 17:28:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Myanmar junta’s aviation fuel trade fraud exposed | Justice For Myanmar",
-   "url": "https://www.justiceformyanmar.org/stories/the-myanmar-juntas-aviation-fuel-trade-fraud-exposed",
-   "snippet": "Justice For Myanmar demands the USA, UK, EU, Canada and Australia impose new targeted sanctions on the junta itself, following its rebrand from the previously sanctioned State Administration Council, and sanction the junta’s whole aviation fuel supply chain network, including the companies and individuals identified in this investigation. The policy aims of existing sanctions cannot be achieved wi",
-   "published": "Mon, 26 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
-   "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eus-diplomatic-blockade/a-79778863",
-   "snippet": "Its sanctions currently cover 105 individuals and 22 entities connected to the military. In April, the EU extended these measures for another 12 months.\n\nAt the same time, Brussels is providing humanitarian assistance to displaced communities and Rohingya refugees and is supporting civil society organizations.\n\n## Thailand-Myanmar border clinic helps people fleeing war [...] One possibility is for",
-   "published": "Tue, 27 Oct 2026 15:16:56 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU Council prolongs autonomous sanctions against ISIL/Da'esh, Al-Qaeda & associated persons, groups & entities until 31 Oct. 2027. - CGTN",
-   "url": "https://news.cgtn.com/news/2026-10-26/news-1RyHfg3bov6/p.html",
-   "snippet": "Italiano Japanese\n\n日本語 Korean\n\n한국어 Lao\n\nລາວ Malay\n\nBahasa Melayu Mongolian\n\nМонгол Myanmar\n\nမြန်မာဘာသာ Nepali\n\nनेपाली Persian\n\nفارسی Polish\n\nPolski Portuguese\n\nPortuguês Pashto\n\nپښتو Romanian\n\nRomnă Russian\n\nРусский Serbian\n\nСрпски Sinhalese\n\nසිංහල Spanish\n\nEspañol Swahili\n\nKiswahili Tamil\n\nதமிழ் Thai\n\nไทย Turkish\n\nTürkçe Ukrainian\n\nУкраїнська Urdu\n\nاردو Vietnamese\n\nTiếng Việt\n\nHome   China \n\nWorl",
-   "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "bne IntelliNews - US lifts sanctions on Belarus potash chief as Minsk seeks help with EU",
-   "url": "https://www.intellinews.com/us-lifts-sanctions-on-belarus-potash-chief-as-minsk-seeks-help-with-eu-478832?source=belarus",
-   "snippet": "img\n\nEl Niño, oil shocks and broken utilities turn the Philippines into Asia's water crisis test case\n\nimg\n\nAsia’s spending bill keeps growing but who is going to pay it?\n\nimg\n\nMyanmar to import Russian LNG\n\nimg\n\nBeware the bear as Moscow woos Asia with oil and atoms\n\nimg\n\nDebt gap widens across Asia as Taipei and Hanoi pull away from the pack\n\nimg\n\nAsia’s spending bill keeps growing but who is go",
-   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How Did Myanmar Hide Iranian Jet Fuel Imports to Evade US Sanctions? - Modern Diplomacy",
-   "url": "https://moderndiplomacy.eu/2026/10/26/how-did-myanmar-hide-iranian-jet-fuel-imports-to-evade-us-sanctions",
-   "snippet": "Myanmar’s military-linked companies and Iranian suppliers have continued to operate despite these restrictions. Reuters reported in October that Iranian jet fuel shipments to Myanmar were still taking place in 2026.\n\nThe case therefore illustrates a central challenge for sanctions enforcement: restricting access to strategic supplies requires not only targeting suppliers and buyers but also detect",
-   "published": "Mon, 26 Oct 2026 04:39:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions - Daily Independent",
-   "url": "https://www.yourvalley.net/stories/european-union-awards-top-rights-prize-to-international-criminal-court-days-after-trump-sanctions,732106",
-   "snippet": "In a statement after their summit last week, EU leaders said that the 27-nation bloc “deeply regrets” the Trump administration’s sanctions move and “urges the United States to reverse these latest measures.”\n\nThey noted that the U.S. has delayed the full impact of the sanctions by six months, and that “this creates space for diplomacy,” and expressed hope that the measures can ultimately be revers",
-   "published": "Fri, 23 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Welcome back, Belgrade! But EU leaders attach strings to accession talks restart",
-   "url": "https://euperspectives.eu/2026/10/welcome-belgrade-eu-leaders",
-   "snippet": "Sanctions are the sharpest issue. Serbia is the only negotiating country not aligned with the EU’s Russia sanctions. Berlin, Paris, and Warsaw have made alignment a de facto precondition for moving forward with new negotiating chapters. Kosovo is another hurdle. Hard-line positions, continued ties with Moscow, and proposals for a membership referendum could all delay talks.\n\n> The doors of the Eur",
-   "published": "Mon, 26 Oct 2026 07:30:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_mm",
  "_query": "EU Myanmar sanctions",
  "_domains": [],

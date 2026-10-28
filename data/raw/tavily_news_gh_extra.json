@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 22nd October 2026",
+   "url": "https://www.modernghana.com/videonews/cititv/2/739416",
+   "snippet": "Northern Ashanti Mines Moves to Halt State Takeover of Mining Concession\n\n26.10.2026 | CitiTV\n\nEPA Intensifies Enforcement of Styrofoam Raw Material Import Ban\n\nEPA Intensifies Enforcement of Styrofoam Raw Material Import Ban\n\n26.10.2026 | CitiTV\n\nECG Announces Meter Audit and New Staff Verification System\n\nECG Announces Meter Audit and New Staff Verification System\n\n26.10.2026 | CitiTV\n\nDansoman ",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 24th October 2026",
+   "url": "https://www.modernghana.com/videonews/cititv/2/740749",
+   "snippet": "Northern Ashanti Mines Moves to Halt State Takeover of Mining Concession\n\n26.10.2026 | CitiTV\n\nEPA Intensifies Enforcement of Styrofoam Raw Material Import Ban\n\nEPA Intensifies Enforcement of Styrofoam Raw Material Import Ban\n\n26.10.2026 | CitiTV\n\nECG Announces Meter Audit and New Staff Verification System\n\nECG Announces Meter Audit and New Staff Verification System\n\n26.10.2026 | CitiTV\n\nDansoman ",
+   "published": "Sat, 24 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One Newsroom Live! | Latest News Updates From Ghana [25.10.2026]",
+   "url": "https://www.modernghana.com/amp/videonews/741391",
+   "snippet": "Wa–Sawla Road Traders Seek Alternative Spaces Ahead of Demolition | Ghana News\n\n25.10.2026 | CitiTV\n\nNDC Ashanti Executives Urged to Prioritise Reconciliation After Internal Elections\n\nNDC Ashanti Executives Urged to Prioritise Reconciliation After Internal Elections\n\n25.10.2026 | CitiTV\n\nBimbilla NDC Executives Call for Unity Ahead of 2028 Elections | Ghana News\n\nBimbilla NDC Executives Call for ",
+   "published": "Mon, 26 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Sunday Breakfast | Latest News updates from Ghana | 25th October 2026",
+   "url": "https://www.modernghana.com/amp/videonews/741143",
+   "snippet": "Tensions Rise in Bimbilla as Individuals Attempt to Enter Voting Room |\\ Ghana News\n\nTensions Rise in Bimbilla as Individuals Attempt to Enter Voting Room |\\ Ghana News\n\n24.10.2026 | CitiTV\n\nAwutu Senya West MP Gizela Tetteh-Agbotui Urges Successful NDC Candidates to Work Hard\n\nAwutu Senya West MP Gizela Tetteh-Agbotui Urges Successful NDC Candidates to Work Hard\n\n24.10.2026 | CitiTV\n\nTanko Rashid",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 28th October 2026",
+   "url": "https://www.modernghana.com/amp/videonews/742847",
+   "snippet": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 28th October 2026. CitiTV › 28 Oct 2026. Loading video. Tap to unmute.",
+   "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 24th October 2026",
+   "url": "https://www.modernghana.com/amp/videonews/740749",
+   "snippet": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 24th October 2026. CitiTV › 24 Oct 2026. Loading video. Tap to unmute.",
+   "published": "Sat, 24 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana’s PHDC advancing Phase 2 of multibillion downstream petroleum hub | Oil & Gas Journal",
+   "url": "https://www.ogj.com/refining-processing/news/55414338/ghanas-phdc-advancing-phase-2-of-multibillion-downstream-petroleum-hub",
+   "snippet": "Phase 1 of the project officially broke ground Aug. 19, 2024, in Nawule, Jomoro.\n\nUnder the hub’s overall plan, each of its three phases is to include a 300,000-b/sd refinery, with the potential to expand to 500,000 b/sd each between 2030-35. The master plan also provides for five multipurpose petrochemical plants, with natural gas and refinery-derived products as planned feedstocks. [...] Ghana’s",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "New film reveals unseen footage of Ghana’s independence – NBC4 Washington",
+   "url": "https://www.nbcwashington.com/video/news/local/new-film-reveals-unseen-footage-of-ghanas-independence/4172974",
+   "snippet": "Skip to content\n\nNBC4 Washington\n\nWatch 24/7 \n\nCreate profile / Log in\n\nDashboard\n\nEmail preferences\n\nSign out\n\nTrending\n🗳️ Early voting 🏈 Commanders 🌡️ Forecast 🔍 4 More Context 👂 All Ears Find Help 📨 NBC4 Newsletters 📺 Watch 24/7 Our News Standards\n\n### News\n\nNews updates for Washington, D.C., Maryland and Virginia\n\n# New film reveals unseen footage of Ghana's independence\n\nNBC4 Washington\n\nCrea",
+   "published": "Wed, 28 Oct 2026 00:06:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana's colonial ghosts and objects find new life at the Fondation Cartier",
+   "url": "https://www.lemonde.fr/en/culture/article/2026/10/28/ghana-s-colonial-ghosts-and-objects-find-new-life-at-the-fondation-cartier_6765673_30.html",
+   "snippet": "For his exhibition 'Le Temps des récoltes' ('Harvest Time'), Ghanaian artist Ibrahim Mahama brings together seven artists and two collectives in",
+   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Film Fans Love These Vintage Hand-Painted Movie Posters From Ghana - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/24/style/kermit-the-gangster-frog-only-in-these-vintage-ghanaian-movie-posters.html",
+   "snippet": "Recently, Deadly Prey held an exhibition at the Selva gallery in the Bushwick neighborhood of Brooklyn. Film fans riffled through bins filled with prints featuring Ghanaian depictions of “Free Willy,” with the orca eating Jesse alive, and of “The Warriors,” with a werewolf chasing the titular street gang back to Coney Island.\n\n## Related Content\n\nAdvertisement [...] At the time, small traveling ci",
+   "published": "Sat, 24 Oct 2026 17:38:11 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gh_extra",
  "_query": "Ghana latest news",
  "_domains": [],

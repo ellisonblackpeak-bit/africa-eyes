@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China and EU should work together to increase mutual gains of cooperation: China Daily editorial - Chinadaily.com.cn",
+   "url": "https://global.chinadaily.com.cn/a/202610/27/WS6ae0a6cce4b06d4aa0565789.html",
+   "snippet": "They should enhance localization efforts and leverage local operations to navigate trade barriers and align with local standards and regulations. According to a report by Rhodium Group and MERICS, the automotive sector attracted more Chinese foreign direct investment in 2025 than any other industry in Europe. Chinese FDI in the automotive sector in Europe totaled 7.6 billion euros ($8.5 billion), ",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Investment in the EU | FTI Consulting",
+   "url": "https://www.fticonsulting.com/insights/articles/chinese-investment-eu-managing-fsr-fdi-screening-risk",
+   "snippet": "# Chinese Investment in the EU: Managing FSR and FDI Screening Risk\n\n October 27, 2026\n Share\n\n  Back to top\n\nAs Europe expands its scrutiny of foreign investment, outbound capital and state-linked support, Chinese companies pursuing transactions in the region increasingly need to navigate two overlapping regulatory frameworks: the European Union’s (“EU”) Foreign Subsidies Regulation (“FSR”) and t",
+   "published": "Tue, 27 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China-EU’s path to prosperity is partnership – Asia News Network",
+   "url": "https://asianews.network/china-eus-path-to-prosperity-is-partnership",
+   "snippet": "German companies’ direct investment in China increased by around 5.6 billion euros in the first six months of the year, about one-third more compared with the same period last year, according to analyses by the German Economic Institute.\n\nIn 2025, Chinese companies launched 228 investment projects in Germany, up 14.6 percent year-on-year, making China the largest source of foreign investment proje",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Comments to the European Commission Regarding Its ‘Diversify EU’ Proposal | Testimonies & Filings | Oct 27, 2026 | ITIF",
+   "url": "https://itif.org/publications/2026/10/27/comments-to-the-european-commission-regarding-its-diversify-eu-proposal",
+   "snippet": "China’s subsidized manufacturing overcapacity threatens the EU’s long-term competitiveness. Subsidized production in Mainland China—and increasingly through outward foreign direct investment from Chinese companies—displaces European suppliers, while technology theft weakens returns on their innovation investments.(#_edn3) European investments in China can serve as a bargaining tool, given China’s ",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Is Building Its Way Around Europe’s EV Tariffs - Revista de Prensa",
+   "url": "https://www.almendron.com/tribuna/china-is-building-its-way-around-europes-ev-tariffs",
+   "snippet": "In Thailand, for example, China is a key investor in the Eastern Economic Corridor, a flagship regional development initiative anchored by a high-speed railway that will connect several Thai cities and seaports to China. The corridor has, in turn, provided an attractive environment for private Chinese investment. China is now the corridor’s largest source of foreign direct investment, primarily in",
+   "published": "Wed, 28 Oct 2026 05:06:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU should revive talks on broader China trade deal, top MEP says | Euronews",
+   "url": "https://www.euronews.com/2026/10/21/eu-should-revive-talks-on-broader-china-trade-deal-top-mep-says",
+   "snippet": "## As EU lawmakers prepare to visit Beijing, the European Parliament's trade chief is calling for a broader agreement that could revive elements of a frozen investment pact and address unfair Chinese trade practices across multiple industries.\n\nThe European Union should seek a broad trade agreement with China, potentially including investment, rather than continue negotiating over individual secto",
+   "published": "Wed, 21 Oct 2026 15:16:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+   "snippet": "The proposed plant in Ferrol embodies the trade-off between short-term economic opportunity and long-term risk that these Chinese investments present to Europe.\n\n## Related Content\n\nAdvertisement [...] vehicle investments have grown faster over the past year than anywhere else in Europe. [...] Now the city, long since marred by industrial decay, unemployment and declining population, is becoming k",
+   "published": "Wed, 28 Oct 2026 04:01:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opinion | Europe still has no clear goal on China | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3371543/europe-still-has-no-clear-goal-china",
+   "snippet": "China has built its European policy around this vacuum. Its method rewards patience: apply pressure, wait for Brussels to react, then offer tiny concessions on Beijing’s terms. European leaders present new instruments as proof of control, while Beijing files each one as information on Europe’s pain threshold. China knows Europe’s price better than Brussels does. [...] This month alone, Europe has ",
+   "published": "Thu, 22 Oct 2026 12:30:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/87193801-4057-4fad-b667-ac64ba230efa?syn-25a6b1a6=1",
+   "snippet": "### For multiple readers\n\nDigital access for organisations. Includes exclusive features and content. [...] # The rise of Africa’s Chinese factories\n\n## Save 40% on Standard Digital\n\nwas MX$11988 now MX$7175 for your first year.\n\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October.\n\n## Explore more offers.\n\n",
+   "published": "Thu, 22 Oct 2026 13:26:47 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_invest",
  "_query": "Chinese investment Europe",
  "_domains": [],

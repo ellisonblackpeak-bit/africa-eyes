@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nepal plans flood early warning systems in river basins, risk reduction in glacial lakes",
+   "url": "https://news.cgtn.com/news/2026-10-26/Nepal-plans-flood-warnings-glacial-lake-risk-reduction-1RyztPk91Ys/share_amp.html",
+   "snippet": "Updated 2026.10.26 16:53 GMT+8\n\nCGTN\n\nThe Nepali government has unveiled plans to expand flood early warning systems across six major river basins and lower water levels in four high-risk glacial lakes as part of efforts to strengthen disaster preparedness amid growing climate-related risks in the Himalayan region.\n\nThe Nepal-China Highway near the Bhote Koshi River in Syabrubesi, Nepal's Rasuwa d",
+   "published": "Mon, 26 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nepal News | Nepal's First Online News Portal",
+   "url": "https://english.nepalnews.com/s/politics/everything-you-need-to-know-about-finance-ministers-new-india-narrative-and-why-it-sparked-debate",
+   "snippet": "Strategic risks are even more complex. When selecting investors for a project, conducting energy trade, or constructing infrastructure, Nepal may need to keep in mind the competition between India and China alongside its own economic interests. In such situations, to maintain sovereign decision-making independence, clear policies and capable institutional negotiations are necessary. [...] Finance ",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How China’s Himalayan Megadam Could Put South Asia at Risk - The National Interest",
+   "url": "https://nationalinterest.org/feature/how-chinas-himalayan-megadam-could-put-south-asia-at-risk",
+   "snippet": "None of this proves that China’s Yarlung Tsangpo project will fail. Nor does it establish that construction caused the August disaster in Nepal. But it shows why assessing individual dams’ safety isn’t enough. The entire mountain-river-infrastructure system must be evaluated together. [...] China’s project, launched in July 2025, is among the most ambitious hydropower undertakings in history. With",
+   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "'Rising runoff, flood risks': Fresh warning over China’s mega Brahmaputra dam - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/world/china/rising-runoff-flood-risks-fresh-warning-over-chinas-mega-brahmaputra-dam/articleshow/135212072.cms",
+   "snippet": "latest findings add to scientific concerns about the risks associated with the project. In July, Chinese geologists warned that an active fault line beneath the planned dam could threaten its structural stability. They urged engineers to strengthen vulnerable slopes and introduce protective measures against landslides and rock collapses.The Himalayan region’s vulnerability to cascading natural haz",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China bets on manufactured water, and wants to sell it to the world | Reuters",
+   "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22",
+   "snippet": "The push is rooted in domestic risk. In August, a ​glacier collapse near the border between Nepal and Tibet showed how volatile natural water sources are becoming.\n\nTibet's \"water towers\" feed headwaters for nearly 2 billion people across South, Southeast and East Asia, and climate change ​is eroding them. Meanwhile, severe over-extraction in northern China has depleted groundwater and left key fa",
+   "published": "Thu, 22 Oct 2026 05:35:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Nepal's glacial lakes demand Indian action - The Korea Times",
+   "url": "https://www.koreatimes.co.kr/opinion/20261025/why-nepals-glacial-lakes-demand-indian-action",
+   "snippet": "Nepal’s plan to drain four glacial lakes follows a catastrophic flood along the China-Nepal border that left more than 1,450 dead and thousands missing. The author argues that India should support Nepal with technical assistance, shared data and early-warning systems because floodwaters can cross into India. The plan covers only four of Nepal’s 21 highly dangerous glacial lakes and does not includ",
+   "published": "Sun, 25 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nepal floods of 2026 | Glacier Collapse, Natural Disaster, & Facts | Britannica",
+   "url": "https://www.britannica.com/event/Nepal-floods-of-2026",
+   "snippet": "The Nepal floods of 2026 washed over and buried villages, blocked hydroelectric power tunnels, destroyed bridges and roads, and swept away thousands of structures, including roughly 7,500 homes. Nepal and China conducted rescue and recovery operations with limited outside help, primarily relying on their own teams and disaster specialists from India, Australia, and South Korea. Over $820 million w",
+   "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nepal's Loss and Damage Allocation Too Short | ESG News.earth",
+   "url": "https://www.esgnews.earth/latest-news/nepals-loss-and-damage-allocation-too-short/22749.html",
+   "snippet": "##### Backdrop:\n\nIn late August 2026, severe climate-induced flash floods struck Nepal, triggered by a massive mountain slope failure near the Langtang Lirung peak in Rasuwa district along the Nepal-China border. The sudden collapse sent torrents through the Bhote Koshi, Trishuli, and Narayani river systems, destroying riverside settlements, bridges, energy infrastructure, and agricultural lands. ",
+   "published": "Tue, 27 Oct 2026 08:40:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India Deploys More Security After Siang Valley Dam Protests",
+   "url": "https://chinaglobalsouth.com/2026/10/27/india-arunachal-pradesh-siang-dam-protests",
+   "snippet": "A satellite view shows a buildup of a lake at the site of the glacier collapse, before deadly flash floods and a mudslide affected the region, near the China-Nepal Border, August 25, 2026. 2026 PLANET LABS PBC/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT\n\n### Nepal, China Warn of Fresh Flood Risks as Lakes Threaten to Burst [...] By Liz Lee and Ethan Wang Chi",
+   "published": "Tue, 27 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "np_wide",
  "_query": "Nepal China project",
  "_domains": [],

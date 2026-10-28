@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "MERICS China Essentials Special Issue: EU-China economic relations enter a critical phase | Merics",
+   "url": "https://merics.org/en/merics-briefs/merics-china-essentials-special-issue-eu-china-economic-relations-enter-critical",
+   "snippet": "The EU-China trade deal reached in early October may ease Europe’s immediate rare-earth supply problems – but also strengthens Beijing’s ability to use them as a political weapon. The EU committed to resolving priority licensing cases for dual-use exports to China in return for Beijing agreeing to continue expediting decisions on critical-mineral exports to Europe. [...] Beijing could also tighten",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China-EU Hybrid Import Deal Eases Trade Tensions, Risks Remain",
+   "url": "https://finance.yahoo.com/economy/policy/articles/china-eu-hybrid-import-deal-135500308.html",
+   "snippet": "China's position in the global rare earth supply chain also remains relevant to the broader trade relationship. Restrictions on rare earth exports could complicate European efforts to expand automotive and other advanced manufacturing industries. [...] to reassess their export strategies. [...] China and the European Union (\"EU\") have reached an agreement to limit hybrid vehicle imports into the b",
+   "published": "Wed, 21 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s €360 Billion Deficit with China: Industrial Pressures Drive a Shift Toward Protectionism - Maaal",
+   "url": "https://maaal.com/en/news/details/europes-eur360-billion-def",
+   "snippet": "These imports are concentrated at the very core of Europe’s industrial base: machinery and electrical equipment—including batteries and electronics—accounted for about 30% of the total, amounting to €164.9 billion, followed by mechanical machinery at approximately 19%. Furthermore, the EU relies on China for 98% of the rare-earth magnets essential for electric vehicle motors, wind turbines, and de",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Building a China-resilient battery chain by 2035 – GIS Reports",
+   "url": "https://www.gisreportsonline.com/r/china-resilient-battery-chain",
+   "snippet": "The European Union’s main asset is regulatory leverage over one of the world’s largest automotive markets, supported by deep chemical-engineering expertise. Japan’s main contribution is experience: decades spent reducing its dependence on rare earths, backed by state resource finance. South Korea contributes battery manufacturing, cathode technology and global industrial networks. [...] Bob Savic\n",
+   "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and China weigh next sectors for trade curbs  – POLITICO",
+   "url": "https://www.politico.eu/article/eu-and-china-weigh-next-sectors-for-trade-curbs",
+   "snippet": "“In January we can assess how it worked and if it delivered all parts of our agreement,” Šefčovič said, referring to an Oct. 9 pact by which China will voluntarily reduce exports of hybrid vehicles to the EU by almost half to 350,000 units in 2027.\n\nThat deal also lowers tariffs on European goods such as auto parts and footwear, and smooths exports of rare earth elements to the EU. [...] At a pres",
+   "published": "Fri, 23 Oct 2026 19:41:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "TSMC Seeks Alternatives to China-Controlled Rare Earths to Safeguard Chip Production - Modern Diplomacy",
+   "url": "https://moderndiplomacy.eu/2026/10/22/tsmc-seeks-alternatives-to-china-controlled-rare-earths-to-safeguard-chip-production",
+   "snippet": "Finance\n\nCanada's Prime Minister Mark Carney will visit Turkey to...\n\n### Europe Has Quietly Changed What It Asks of Turkey\n\nEurope\n\nBefore dawn on 14 October, Turkish police entered the...\n\n### Iran Never Lost the Arms Race\n\nMiddle East & Africa\n\nTwo Verdicts on One Arsenal Late on 9 October, Western...\n\n© 2026 moderndiplomacy.eu. All Rights Reserved.\n\nManage Consent [...] Global Order\n  + Diplom",
+   "published": "Thu, 22 Oct 2026 09:25:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Supplies of rare earth yttrium have ‘stalled,’ industry ministry official says",
+   "url": "https://www.japantimes.co.jp/business/2026/10/22/rare-earth-supply-stall",
+   "snippet": "The official described a “supply-demand crunch,” with the Financial Times reporting that Tokyo is months away from running out of the critical metal.",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
+   "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Cheap Chinese antibiotics threaten Europe’s last major penicillin plant",
+   "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/how-cheap-chinese-antibiotics-threaten-europes-last-major-penicillin-plant-2026-10-21",
+   "snippet": "Tucked away in the green foothills of the Austrian Alps, the last fully integrated European penicillin plant faces an uncertain future in the shadow of",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/cfb2e934-0000-42e6-93a4-4dffa56f11a8?syn-25a6b1a6=1",
+   "snippet": "# EU weighs mirroring Donald Trump in securing critical minerals\n\n## Try unlimited access\n\nOnly $1 for 4 weeks\n\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\n\n## Explore more offers.\n\n### FT Edit [...] Complete digital access with exclusive insights and industry deep dives on any device.\n\nCheck whether you already have free ac",
+   "published": "Mon, 26 Oct 2026 05:16:50 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_rare",
  "_query": "Europe rare earth China",
  "_domains": [],

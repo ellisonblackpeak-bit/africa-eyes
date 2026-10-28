@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
+   "snippet": "The growing presence of Chinese investors is already visible in Vietnam's industrial parks, where Chinese manufacturers are bringing businesses that lie along their supply chains.  \n  \nBui The Long, general manager of Vietnam's Green i-Park Corp, told the Global Times at Tuesday's event that the company's industrial park has 36 Chinese investors, mainly operating in electronics and electrical appl",
+   "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam steps up efforts to attract high-tech Chinese investment",
+   "url": "https://english.vov.vn/en/economy/roundtable-seeks-to-boost-high-tech-investment-ties-between-vietnam-and-china-post1345083.vov",
+   "snippet": "The Ambassador welcomed Chinese enterprises expanding investment in Vietnam, particularly in digital technology, AI, semiconductors, smart manufacturing, new energy, green industry, and modern industrial parks. He encouraged stronger linkages with Vietnamese enterprises, technology transfer, human resource training, and technology application in production, logistics, and trade.\n\nroundtable seeks ",
+   "published": "Tue, 27 Oct 2026 10:45:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam, China step up economic, investment and financial ties",
+   "url": "https://en.vietnamplus.vn/vietnam-china-seek-to-boost-economic-investment-and-financial-cooperation-post354413.vnp",
+   "snippet": "Vietnam encourages capable and reputable Chinese businesses with advanced technologies to invest further and expand their operations in the country. Priority areas include high-tech processing and manufacturing, electronics, semiconductors, smart manufacturing, industrial machinery and equipment, electric vehicles, batteries and energy storage, new energy, the digital economy, infrastructure and l",
+   "published": "Tue, 27 Oct 2026 14:58:59 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Global Times",
+   "url": "https://x.com/globaltimesnews/status/2115078364562436533",
+   "snippet": "Chinese investment expanding into emerging industries and Vietnamese businesses seeking deeper partnerships with Chinese companies.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "US-China Trade War Boosts Vietnam Manufacturing",
+   "url": "https://www.linkedin.com/posts/reuters-open-interest_a-years-long-us-china-trade-war-has-helped-activity-7519362649730723840-hLPC",
+   "snippet": "A years-long US-China trade war has helped shift manufacturing investment, factory output and export production into Vietnam, driving its coal-fired",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam is still viewed as a prime location for Chinese ...",
+   "url": "https://www.facebook.com/scmp/posts/vietnam-is-still-viewed-as-a-prime-location-for-chinese-companies-looking-to-exp/1523671606475553",
+   "snippet": "Vietnam is still viewed as a prime location for Chinese companies looking to expand overseas and strengthen trade ties with Southeast Asia.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnamese cooperatives promote trade in China",
+   "url": "https://vietnamnews.vn/economy/1802996/vietnamese-cooperatives-promote-trade-in-china.html",
+   "snippet": "Việt Nam Insight \n\n VN sets out plan to become strong maritime nation by 2030\n Party Central Committee adopts new mindset for national security, social development in new era\n Top leader calls for stronger action to turn Party decisions into tangible results\n\nHanoi today \n\n 9.2 million Hanoians benefits from free health screening programme\n Hà Nội shines with ‘Light Symphony – Welcoming the New Ye",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2.3K views · 63 reactions | 🌏 As global trade patterns shift, supply chains are being redesigned around greater resilience, flexibility and diversification. Vietnam is becoming an increasingly important part of that picture, connecting production and consumption markets across Asia and beyond. \n\nBut more distributed supply chains also bring greater complexity. For businesses, the challenge is increasingly how to connect those moving parts with the visibility, reliability and control needed to keep goods flowing. | Maersk",
+   "url": "https://www.facebook.com/Maersk/videos/-as-global-trade-patterns-shift-supply-chains-are-being-redesigned-around-greate/2428551934618978",
+   "snippet": "🌏 As global trade patterns shift, supply chains are being redesigned around greater resilience, flexibility and diversification. Vietnam is becoming an increasingly important part of that picture, connecting production and consumption markets across Asia and beyond. But more distributed supply chains also bring greater complexity. For businesses, the challenge is increasingly how to connect those ",
+   "published": "Thu, 22 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/De-_YfWCRXl",
+   "snippet": "bloombergbusiness's profile picture\nVideo by Bloomberg Business on October 26, 2026. May be an image of panda, toothbrush, dental floss and text.\nbloombergbusiness's profile picture\nbloombergbusiness's profile picture\nadc.814's profile picture\ndongrilon_'s profile picture\ngail_parkinson's profile picture\nelzbieta_velinguel's profile picture\nfelipgay's profile picture\nthehonestticker's profile pict",
+   "published": "Tue, 27 Oct 2026 04:24:02 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "The Empowerers | Laos on the Move – Thailand Business News",
+   "url": "https://www.thailand-business-news.com/pr-news/the-empowerers-laos-on-the-move",
+   "snippet": "A railway cuts through the mountains and forests of Laos, helping transform the country from landlocked to land-linked. Along the way, it has also created relationships between Chinese mentors and young Lao railway workers that extend well beyond the tracks themselves.\n\nWith training and support from their Chinese colleagues, young Lao workers have grown from newcomers into skilled professionals, ",
+   "published": "Thu, 22 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PH rail project delays revive China funding question | The Manila Times",
+   "url": "https://www.manilatimes.net/2026/10/24/news/national/ph-rail-project-delays-revive-china-funding-question/2452947",
+   "snippet": "Herman Tiu Laurel, president of the Asian Century Philippines Strategic Studies Institute, said the Philippines was being left behind by its neighbors in a forum on Friday, citing railway developments in Laos, Indonesia and Malaysia.\n\nHis assessment comes as the Mindanao Development Authority (MinDA) explores possible private-sector investment in the long-delayed Mindanao Railway Project, includin",
+   "published": "Fri, 23 Oct 2026 16:01:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dien Bien expands cross-border cooperation, creating momentum for growth.",
+   "url": "https://www.vietnam.vn/en/dien-bien-mo-rong-hop-tac-xuyen-bien-gioi-tao-dong-luc-tang-truong",
+   "snippet": "You may also like\n\nFurthermore, the efficient operation of Dien Bien Airport and enhanced connectivity with regional transportation hubs, including the Laos-China railway line, will contribute to expanding the capacity for goods and passenger traffic. Investing in warehouses, cold storage, agricultural product preservation, and logistics services is also a necessary solution to reduce costs, minim",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Transport ministry plans China rail pact covering 7 areas in Q4 2026",
+   "url": "https://www.nationthailand.com/news/policy/40072640",
+   "snippet": "Closer railway connections between Thailand, China and Laos are intended to improve cross-border freight transport and regional supply chains, potentially creating longer-term opportunities for trade, investment and related industries\n\nThe Nation Editorial Team\n\n TAGS\n Transport Ministry\n China rail project\n Rail Transport\n transport infrastructure\n Logistics\n China\n Laos\n Breaking News\n\nMOST VIEW",
+   "published": "Fri, 23 Oct 2026 01:20:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's economic growth offers global opportunities - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202610/26/WS6adea7d0e4b06d4aa0564b7b.html",
+   "snippet": "Chinese companies have established more than 120 overseas economic and trade cooperation zones in economies participating in the Belt and Road Initiative, attracting over 7,000 businesses and creating 550,000 direct jobs.\n\nInfrastructure projects — including the Mombasa-Nairobi Standard Gauge Railway, the Ethiopia-Djibouti Standard Gauge Railway and the China-Laos Railway — have supported the deve",
+   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Seven Years of Cultivation Yield Fruit, \"Four-Zone Linkage\" Leads the Tide_InKunming",
+   "url": "https://www.kunming.cn/en/c/2026-10-22/14081671.shtml",
+   "snippet": "The effects of Kunming's \"Four-Zone Linkage\" extend beyond domestic ports, radiating deep into Laos along the China-Laos Railway. As China's only national-level overseas economic and trade cooperation zone in Laos, the Vientiane Saysettha Development Zone now hosts 120 enterprises. Laos' Pasaxon (People's Newspaper) once devoted a full page to praising this collaborative opening-up model as inject",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pinglu Canal: Deepening ASEAN-China Connectivity - Lucio Blanco Pitlo III - CHINA US Focus",
+   "url": "https://www.chinausfocus.com/finance-economy/pinglu-canal-deepening-asean-china-connectivity",
+   "snippet": "Geographic proximity positions southern Chinese provinces as gateways to ASEAN, with infrastructure being a crucial piece. The China-Myanmar oil and gas pipeline, Laos-China railway, and the upgrading of the Haiphong-Kunming railway raise Yunnan’s profile. So does the linking of the Bangkok-Nong Khai high-speed rail, currently under construction, to the Laos-China railway via the Lao capital, Vien",
+   "published": "Fri, 23 Oct 2026 09:19:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Breakthrough completes 12.18km Jinyang Highway Tunnel in China - The Tunnelling Journal",
+   "url": "https://tunnellingjournal.com/breakthrough-completes-12-18km-jinyang-highway-tunnel-in-china",
+   "snippet": "The final breakthrough was achieved on 20 October, completing both bores of the twin-tube highway tunnel in the Daliang Mountains, near the border between Sichuan and Yunnan provinces.\n\n2026102614041738595The tunnel, which forms a key element of the 184.8km Xichang–Zhaotong Expressway, was constructed by China Railway Tunnel Group, with China Railway City Investment Group responsible for investmen",
+   "published": "Mon, 26 Oct 2026 14:14:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vientiane, China Discuss Economic Corridor Cooperation Plan for 2026–2030",
+   "url": "https://kpl.gov.la/En/detail.aspx?id=110314",
+   "snippet": "# Lao News Agency\n\n Lao News agency\n\n ພາສາລາວ\n English\n Français\n\n\n\n.\n\nພາສາລາວ English Français",
+   "published": "Thu, 22 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ILO and Chinese Business Groups Train Shanghai Firms on Overseas Labour Compliance | Business",
+   "url": "https://www.devdiscourse.com/article/business/3997275-ilo-and-chinese-business-groups-train-shanghai-firms-on-overseas-labour-compliance",
+   "snippet": "### Overseas investment brings greater expectations for employers [...] ## ALSO READ\n\n ### East Lampung Opens Indonesia’s First Migrant Worker Centre in a Public Service Mall\n ### Lao Symposium Calls for Social Protection to Shield Workers from Rising Climate Risks\n ### ILO paper explores how international labour standards can guide ethical AI at work\n ### Can WhatsApp AI Help Small Businesses Thr",
+   "published": "Mon, 26 Oct 2026 11:04:42 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_la",
  "_query": "Chinese company Laos railway investment",
  "_domains": [],
