@@ -2,73 +2,59 @@
  "success": true,
  "results": [
   {
+   "title": "When Indian gods took shape in European porcelain",
+   "url": "https://www.thehindu.com/entertainment/art/anil-relia-porcelain-the-lithographic-mold-indian-lithographs-porcelain-figurines-lalbhai-dalpatbhai-museum/article71606381.ece",
+   "content": "A new exhibition traces how Indian lithographs inspired artisans in Japan and Europe to make deities for 19th century Hindu homes",
+   "published_date": "Thu, 29 Oct 2026 02:05:48 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India-New Zealand trade ties set to scale new heights",
+   "url": "https://www.thehindu.com/opinion/op-ed/india-new-zealand-trade-ties-set-to-scale-new-heights/article71637251.ece",
+   "content": "The India-New Zealand FTA will strengthen trade, investment and professional mobility",
+   "published_date": "Thu, 29 Oct 2026 01:31:19 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "BMC to launch pre-Diwali dust mitigation drive across Mumbai, allocates ₹15 lakh per ward",
+   "url": "https://www.thehindu.com/news/cities/mumbai/bmc-to-launch-pre-diwali-dust-mitigation-drive-across-mumbai-allocates-15-lakh-per-ward/article71636841.ece",
+   "content": "BMC will deploy mechanical sweepers, misting machines, water sprinklers, JCBs, dumpers and litter pickers, using both departmental and contractual resources",
+   "published_date": "Thu, 29 Oct 2026 01:24:15 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India must build a holistic care system",
+   "url": "https://www.thehindu.com/opinion/op-ed/india-must-build-a-holistic-care-system/article71637714.ece",
+   "content": "Care is split across multiple Ministries, from women and child development to housing and urban affairs. Each runs valuable programmes, but without a common framework",
+   "published_date": "Thu, 29 Oct 2026 01:00:24 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Tiger Shroff firing case: 11 accused re-arrested under MCOCA after court grants permission",
+   "url": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-case-11-accused-re-arrested-under-mcoca-after-court-grants-permission/article71637301.ece",
+   "content": "The accused were produced before the special MCOCA court on October 28, a day after the Mumbai Crime Branch invoked provisions of the Act against them",
+   "published_date": "Thu, 29 Oct 2026 00:38:13 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Manufacturers told to focus on value addition, design-led innovation, tech ownership",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/manufacturers-told-to-focus-on-value-addition-design-led-innovation-tech-ownership/article71637039.ece",
+   "content": "Speakers at the inaugural session of a CII conference on advanced manufacturing said this underscoring the need for India to move beyond manufacturing scale",
+   "published_date": "Wed, 28 Oct 2026 23:19:24 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "WPL auction: Molineux, Kiran top earners; Kashvi scripts history",
+   "url": "https://www.thehindu.com/sport/cricket/wpl-auction-molineux-kiran-top-earners-kashvi-scripts-history/article71637753.ece",
+   "content": "UP Warriorz drafts in the T20 WC-winning captain for ₹1.10 crore; the Indian big-hitter to turn out for Capitals after being bought for ₹75 lakh; the 15-year-old is the youngest to make a WPL squad",
+   "published_date": "Wed, 28 Oct 2026 23:18:28 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Delhi High Court issues notice on plea against blocking ‘Bring Back Ballot’ Instagram account",
    "url": "https://www.thehindu.com/news/national/delhi-high-court-issues-notice-on-plea-against-blocking-bring-back-ballot-instagram-account/article71636187.ece",
    "content": "The petition alleged that withholding the entire account with over 50,000 followers was disproportionate, unreasoned and without any notice",
    "published_date": "Wed, 28 Oct 2026 22:38:49 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Ashok accuses State Election Commission of printing 90 lakh voter cards after announcement of SIR; SEC denies charge",
-   "url": "https://www.thehindu.com/news/national/karnataka/ashok-accuses-state-election-commission-of-printing-90-lakh-voter-cards-after-announcement-of-sir-sec-denies-charge/article71637340.ece",
-   "content": "Leader of Opposition in the Assembly R. Ashok has accused the State Election Commission of violating norms to facilitate irregularities in the proposed GBA polls by printing 90 lakh voters’ identity cards in Bengaluru at a cost of ₹20 crore after the announcement of Special Intensive Revision by the Election Commission of India",
-   "published_date": "Wed, 28 Oct 2026 22:38:33 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "GAIL India to invest $63 million in heating unit at Ratnagiri LNG terminal, executive says",
-   "url": "https://www.thehindu.com/business/gail-india-to-invest-63-million-in-heating-unit-at-ratnagiri-lng-terminal-executive-says/article71637659.ece",
-   "content": "The facility is ​operating at about 50% capacity as the heating ⁠unit is not ready",
-   "published_date": "Wed, 28 Oct 2026 22:29:03 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "MEA highlights stronger linkages between Japan and northeast India",
-   "url": "https://www.thehindu.com/news/national/mea-highlights-stronger-linkages-between-japan-and-northeast-india/article71637193.ece",
-   "content": "After the leaders of Japan and Bangladesh agree to enhance regional connectivity, the MEA says it will also boost to the Japan-India economic partnership in India as well",
-   "published_date": "Wed, 28 Oct 2026 22:04:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Vaishnavi’s five-for sets up India’s series sweep",
-   "url": "https://www.thehindu.com/sport/cricket/vaishnavis-five-for-sets-up-indias-series-sweep/article71637541.ece",
-   "content": "",
-   "published_date": "Wed, 28 Oct 2026 21:56:19 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India rejects patent bid for treatment of drug-resistant TB",
-   "url": "https://www.thehindu.com/sci-tech/health/indian-patent-office-rejects-patent-application-for-drug-resistant-tb-regimen/article71635671.ece",
-   "content": "Civil society groups urge U.S.-based Global Alliance for TB Drug Development to withdraw related patent claims in other countries",
-   "published_date": "Wed, 28 Oct 2026 21:53:00 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "The way out of the dangerous trap",
-   "url": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
-   "content": "India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work",
-   "published_date": "Wed, 28 Oct 2026 21:50:43 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "IOCL holds Indian Army, leaves its semifinal hopes hanging",
-   "url": "https://www.thehindu.com/sport/iocl-holds-indian-army-leaves-its-semifinal-hopes-hanging/article71637097.ece",
-   "content": "",
-   "published_date": "Wed, 28 Oct 2026 21:44:02 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Nirmala Sitharaman, Rahul Gandhi spar over Tata Group leadership dispute",
-   "url": "https://www.thehindu.com/news/national/nirmala-sitharaman-slams-rahul-gandhi-over-tata-comment-says-congress-leader-spreading-distrust-toxicity/article71635760.ece",
-   "content": "Congress leader has questioned India Inc.’s ‘silence’ over the leadership battle at Tata Sons, saying the conglomerate is being ‘criminally destroyed’; Finance Minister hit back, saying Mr. Gandhi is seeing ‘ghosts everywhere’",
-   "published_date": "Wed, 28 Oct 2026 21:43:48 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Watch: eMudhra key leak to PHP2Shell: How vulnerable is India’s digital infrastructure? | Business Matters",
-   "url": "https://www.thehindu.com/videos/shows/watch-emudhra-key-leak-to-php2shell-how-vulnerable-is-indias-digital-infrastructure-business-matters/article71637513.ece",
-   "content": "Microsoft CEO Satya Nadella’s warning over the PHP2Shell crisis highlights growing cybersecurity risks. A cryptographic flaw at eMudhra, an SBI customer data leak and critical PHP vulnerabilities reveal how weaknesses across digital infrastructure can threaten internet security, expose personal data and undermine trust. Could quantum-safe technology help build a more resilient internet?",
-   "published_date": "Wed, 28 Oct 2026 21:42:32 +0530",
    "score": 0.6
   }
  ],

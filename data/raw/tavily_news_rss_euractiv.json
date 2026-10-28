@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Fresh funding row at UN biodiversity conference",
+   "url": "https://www.rapporteur.com/news/fresh-funding-row-at-un-biodiversity-conference/",
+   "content": "Newer EU members are among those who may be asked to contribute",
+   "published_date": "Wed, 28 Oct 2026 18:11:28 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Hungary still on the hook",
    "url": "https://www.rapporteur.com/news/hungary-still-on-the-hook/",
    "content": "Also, in tonight’s edition: Spanish election campaign hit by train disaster",
@@ -34,6 +41,13 @@
    "url": "https://www.rapporteur.com/news/uk-to-unveil-plan-for-natos-3-5-target-next-year/",
    "content": "Government seeks to attract private investment as defence spending rises",
    "published_date": "Wed, 28 Oct 2026 15:16:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Europe’s energy security demands a 2040 renewables target [Promoted Content]",
+   "url": "https://www.rapporteur.com/opinion/europes-energy-security-demands-a-2040-renewables-target/",
+   "content": "Europe has a winning formula. Preserving a dedicated renewable energy target beyond 2030 would strengthen energy sovereignty, support electrification, and give investors the clarity, predictability and regulatory stability needed to keep building homegrown energy.",
+   "published_date": "Wed, 28 Oct 2026 15:00:12 +0000",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.rapporteur.com/news/eu-transparency-reforms-attacked-as-pfizer-gate-cover-up/",
    "content": "Review backed by Ursula von der Leyen has urged change to the EU's 2001 transparency law",
    "published_date": "Wed, 28 Oct 2026 03:00:33 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU alcohol industry defies Heineken’s warning on weight-loss drugs",
-   "url": "https://www.rapporteur.com/news/eu-alcohol-industry-defies-heinekens-warning-on-weight-loss-drugs/",
-   "content": "Heineken urged pubs and bars to adapt to the rise of drugs such as Ozempic and Wegovy",
-   "published_date": "Wed, 28 Oct 2026 03:00:30 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EXCLUSIVE: IAB Europe lists ad vendor despite possible spyware link",
-   "url": "https://www.rapporteur.com/news/exclusive-iab-europe-lists-ad-vendor-despite-alleged-spyware-link/",
-   "content": "In wake of Citizen Lab report into spyware delivered via targeted ads",
-   "published_date": "Wed, 28 Oct 2026 03:00:30 +0000",
    "score": 0.6
   }
  ],

@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Libya-Turkey Mediterranean Deal; Ethiopian Federal Consolidation in Tigray; South West Opposition Offensive in Somalia: Africa File, October 22, 2026",
-   "url": "https://www.criticalthreats.org/analysis/libya-turkey-tplf-ethiopia-fgs-al-shabaab-somalia-issp-jnim-mali",
-   "snippet": "Jama’at Nusrat al Islam wa al Muslimeen (JNIM) could attempt to exploit the situation to strengthen its position vis-à-vis ISSP in the contested tri-border area of Burkina Faso, Mali, and Niger. ISSP and al Qaeda’s Sahelian affiliate JNIM have engaged in several large-scale clashes in the tri-border area since September as each group tries to establish dominance in the area. ISSP most recently ini",
-   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Mali Retakes Kidal as Jihadist Threat Intensifies Across Sahel – Sri Lanka Guardian",
-   "url": "https://slguardian.org/mali-retakes-kidal-as-jihadist-threat-intensifies-across-sahel",
-   "snippet": "The threat extends into Niger, where JNIM reportedly prepared an operation against Niamey’s airport and presidential palace. Local sources said five militants were arrested in the capital while preparing an attack on the presidential palace, allowing security forces to understand a planned airport operation involving taxi vehicles. [...] The Soufan Center’s analysis warns that treating ISSP as a s",
-   "published": "Wed, 28 Oct 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
-   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
-   "snippet": "survival for both. Nevertheless, it is interesting to see JNIM’s continued activity against government forces in the Sahel, while ISSP activity against those same forces is ongoing in Niger and quasi-nonexistent in Burkina Faso and very limited in Mali. [...] Most interestingly, the attack as planned had implications for the ruling junta in Niger, and for Islamic State Sahel Province (ISSP), with ",
-   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ghana Buttresses Northern Security - Africa Defense Forum",
-   "url": "https://adf-magazine.com/2026/10/ghana-buttresses-northern-security",
-   "snippet": "Ghana’s leaders see calm in Bawku as an important hedge against the potential spread of Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and violent groups from Burkina Faso, Mali and Niger.\n\nJNIM has a history of exploiting ethnic conflicts and anti-government sentiment to gain a foothold in communities across the Sahel and, more recently, along the border regions that Burkina Faso and Niger share wit",
-   "published": "Tue, 27 Oct 2026 17:54:18 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria sends troops to Niger. Historic shift in stance towards the Emirates",
-   "url": "https://www.ilfoglio.it/en/world/2026/10/27/news/algeria-sends-troops-to-niger-historic-shift-in-stance-towards-the-emirates--411709",
-   "snippet": "all manner of trafficking passing through one of the region’s most porous sectors, not far from the Salvador Pass, a mountain pass in the heart of the Sahara Desert, wedged between Niger, Algeria and Libya. Trafficking in this area involves everything, particularly drugs, weapons and migrants. It is Tuareg territory, and they manage this trafficking alongside allies of Jnim – the acronym used to i",
-   "published": "Tue, 27 Oct 2026 04:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ghana is trying to prevent the war in Burkina Faso from spilling into its territory",
-   "url": "https://tomorrowsaffairs.com/ghana-is-trying-to-prevent-the-war-in-burkina-faso-from-spilling-into-its-territory",
-   "snippet": "It will then become clear whether Accra can crack down on cattle theft and resale, and the smuggling of explosives, without treating all Fulani people as suspects, since collective suspicion of that herdsmen community would bring JNIM new recruits on the Ghanaian side of the border.\n\nThe European strategy in the region also depends on this, as Brussels has less and less common ground with the mili",
-   "published": "Sun, 25 Oct 2026 20:26:47 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Xi's peace principles offer little cover for China in Africa - Asia Times",
-   "url": "https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa",
-   "snippet": "On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.\n\nOne side belonged to Jama’at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda’s Sahel affiliate. The other belonged to the Islamic State Sahel Province (ISSP), known until 2022 as the Islamic State in the Greater Sahara. The two have been fighting along that fr",
-   "published": "Fri, 23 Oct 2026 04:46:38 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria Deploys Military To Bolster Sahel Security",
-   "url": "https://www.eurasiareview.com/21102026-algeria-deploys-military-to-bolster-sahel-security",
-   "snippet": "Algeria's decision in August to deploy elements of its military to support Niger's ruling junta was more than simply a policy shift: It showed that one of.",
-   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_jnim_ne",
  "_query": "JNIM Niger",
  "_domains": [],

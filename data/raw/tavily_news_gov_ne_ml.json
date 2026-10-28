@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Algeria to send its troops to neighboring Niger. A pro-Russian junta is currently in power there",
-   "url": "https://nashaniva.com/amp/en/407804",
-   "snippet": "Relations between Algeria and Niger remained tense for several months after Algeria shot down a drone that flew in from Mali last year. The incident caused a diplomatic scandal. Niger, along with its allies Mali and Burkina Faso, also ruled by military governments, recalled its ambassador from Algeria. [...] In Niger, since July 2023, power has been in the hands of a military junta led by General ",
-   "published": "Mon, 26 Oct 2026 16:07:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - France 24",
-   "url": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
-   "snippet": "The incident triggered a diplomatic row, with Niger joining fellow junta-led allies Mali and Burkina Faso in recalling its ambassador from Algiers.\n\nAlgeria and Mali have since resumed diplomatic ties.\n\nNiger has been run by General Abdourahamane Tiani since a July 2023 coup that toppled the elected president Mohamed Bazoum, who has been detained ever since.\n\n(FRANCE 24 with AFP)\n\nRead next [...] ",
-   "published": "Mon, 26 Oct 2026 10:10:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria and Niger Sign Military Protocol Amid Sahel Security Shift",
-   "url": "https://streamlinefeed.co.ke/news/algeria-and-niger-sign-military-protocol-amid-sahel-security-shift",
-   "snippet": "## Filling the Western Vacuum\n\nThe signing of the protocol occurs against the backdrop of a profound geopolitical shift in the Sahel. Over the past two years, military juntas in Niger, Mali, and Burkina Faso—collectively forming the Alliance of Sahel States (AES)—have severed defence ties with traditional Western partners, expelling French troops and forcing the withdrawal of American drone and sp",
-   "published": "Thu, 22 Oct 2026 08:12:21 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Tafouk TV, the new media arm of Moscow-backed Sahelian juntas",
-   "url": "https://www.theafricareport.com/434646/tafouk-tv-the-new-media-arm-of-moscow-backed-sahelian-juntas",
-   "snippet": "Since 16 September, television sets in Mali, Burkina Faso and Niger have been receiving a new channel broadcasting locally produced programmes with a patriotic, sovereignty-focused tone.\n\nAn initiative of the three juntas that make up the Alliance of Sahel States (AES), Tafouk TV aims to give a voice to the military authorities who seized power by force and counter what they describe as an informa",
-   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - myMotherLode.com",
-   "url": "https://mymotherlode.com/news/africa/11252926/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years.html",
-   "snippet": "Last April, the countries of the Alliance of Sahel States — Niger, Mali and Burkina Faso — recalled their ambassadors from Algeria following an incident in which a Malian drone was shot down by Algeria’s army near the border.\n\nAlgeria’s foreign ministry also condemned the 2023 coup which brought Niger’s junta leader Tchiani to power.\n\n## Make Us Your Home Page Today\n\nfollow social mediaFollow us o",
-   "published": "Mon, 26 Oct 2026 01:34:15 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "With historic deployment in Niger, Algeria eyes regaining Sahel influence",
-   "url": "https://www.modernghana.com/news/1540067/with-historic-deployment-in-niger-algeria-eyes.html",
-   "snippet": "Algeria's rare move to send troops to Niger -- a first foreign deployment in over 50 years -- reflects a new vision to regain influence in the Sahel,",
-   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria senate approves sending troops to Niger: Senator",
-   "url": "https://english.alarabiya.net/amp/News/world/2026/10/25/algeria-senate-approves-sending-troops-to-niger-senator",
-   "snippet": "Algeria's upper house of parliament on Sunday voted to approve a proposal to deploy troops to neighboring Niger, a senator speaking on condition of.",
-   "published": "Sun, 25 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Putin seeks to expand ties with African countries at Russia-Africa summit",
-   "url": "https://www.rochesterfirst.com/news/business/ap-putin-seeks-to-expand-ties-with-african-countries-at-russia-africa-summit/amp",
-   "snippet": "MOSCOW (AP) — Russian President Vladimir Putin on Wednesday hosted dozens of African leaders at a Russia-Africa summit, part of Moscow's efforts to expand",
-   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Putin hosts African leaders as Russia seeks to deepen ties",
-   "url": "https://www.unb.com.bd/category/World/putin-hosts-african-leaders-as-russia-seeks-to-deepen-ties/198980",
-   "snippet": "Russian President Vladimir Putin hosted dozens of African leaders at a two-day Russia-Africa summit on Wednesday, seeking to expand Moscow's influence and",
-   "published": "Wed, 28 Oct 2026 13:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

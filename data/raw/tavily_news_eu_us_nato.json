@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "DVIDS - News - U.S. Army and NATO Partners Rehearse War Strategies",
-   "url": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
-   "snippet": "The exercise, Avenger Triad 26, took place from October 6, 2026, through October 15, 2026, at several locations across Europe, including Germany, France, Poland, and the Netherlands. The exercise is coordinated from Wiesbaden.\n\nIn total, approximately 20,000 troops are participating in the field, including 4,000 U.S. soldiers. The simulated scenario involves one million soldiers on each side of th",
-   "published": "Sun, 25 Oct 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Drone warfare could save NATO",
-   "url": "https://thehill.com/opinion/national-security/6169598-unmanned-systems-prevent-russia-aggression",
-   "snippet": "President Donald Trump’s administration has made several unambiguously clear demands on NATO. First, European members must assume greater, if not virtually all, responsibility for the defense of Europe. This will allow the U.S. to focus on its main priorities of homeland defense and averting a Chinese invasion or assault on Taiwan. The Pentagon is also finalizing plans for redeployment of U.S. tro",
-   "published": "Mon, 26 Oct 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US military defenses in Europe to get IG review as Black Sea situation tests NATO | Stars and Stripes",
-   "url": "https://www.stripes.com/theaters/europe/2026-10-28/pentagon-eucom-ig-report-23286735.html",
-   "snippet": "Soldiers of the 173rd Airborne Brigade take part in drills at the Grafenwoehr Training Area in Germany on Dec. 9, 2025. A new oversight plan outlines Pentagon inspector general reviews of U.S. air defense in Europe and of U.S. facilities in Romania. (Kevin Payne/U.S. Army)\n\nThe report did not specify which installations or defensive systems will be looked at or whether shortcomings prompted the re",
-   "published": "Wed, 28 Oct 2026 12:00:46 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How the United States Retrenches Matters: Key NATO Allies’ Likely Responses to Alternative U.S. Approaches | RAND",
-   "url": "https://www.rand.org/pubs/research_briefs/RBA5006-1.html",
-   "snippet": "Encourage deeper regional cooperation. NATO 3.0 envisions a self-sufficient Europe that reduces the burden on U.S. forces. Because no one ally is prepared to fill the U.S. role, allies will need to work together to increase their collective strength.\n Avoid leveraging U.S. presence and commitments for secondary U.S. priorities. Policymakers need to weigh the downside of U.S. pressure—undermining r",
-   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US, Georgia military planners prepare for Agile Spirit 2027",
-   "url": "https://www.army.mil/article-amp/296331/us_georgia_military_planners_prepare_for_agile_spirit_2027",
-   "snippet": "Agile Spirit is a U.S. European Command-scheduled, U.S. Army Europe and Africa-directed biennial exercise designed to enhance interoperability and readiness for collective defense operations. Conducted in Georgia, training typically brings together 2,000 to 3,000 U.S. forces, NATO allies and partner nations to focus on maneuver training, logistics coordination and multinational command and control",
-   "published": "Mon, 26 Oct 2026 22:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "General reveals scale of Europe war plan; Army aims to stop Russian onslaught",
-   "url": "https://www.washingtontimes.com/news/2026/oct/21/preparing-ukraines-worst-day-army-general-says-us-fend-russian-drones",
-   "snippet": "The numbers look daunting, but U.S. Army leaders say they know exactly what is expected of them if a full-blown war breaks out in Europe.",
-   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Russia hopes to weaken Nato with Ukraine peace talks",
-   "url": "https://www.telegraph.co.uk/news/2026/10/25/russia-weaken-nato-ukraine-peace-talks-europe-america-putin",
-   "snippet": "Jump to content\n\nUK News Website of the Year 2024\n\n\n\nAbout Ads\n\n[](\n\nBack to top\n\nFollow us on:\n   [](\n   [](\n   [](\n   [](\n   [](\n   []( [...] © Telegraph Media Group Holdings Limited 2026\n\nSign in with Google Sign in with Google. Opens in new tab\n\nClose\n\n### LIMITED TIME OFFER\n\nTry 3 months free\n\nClaim your offer [...] Download the Telegraph App\n   Recommended\n   Podcasts\n   Licensing and Syndic",
-   "published": "Sun, 25 Oct 2026 18:30:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

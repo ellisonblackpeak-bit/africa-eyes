@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "5 Countries Considering a Halt to All Tourist Visits",
-   "url": "https://travel.yahoo.com/news/articles/5-countries-considering-halt-tourist-094922868.html",
-   "snippet": "Legal analysts at Fragomen reported that Niger banned the issuance of all visas to U.S. citizens and indefinitely barred their entry.( There is one practical wrinkle. Niger's embassy in Washington suspended ordinary visa issuance, but Americans may apply through Nigerien missions outside the United States.(\n\n## Mali: Visas Suspended From the First Day of 2026\n\nMali: Visas Suspended From the First ",
-   "published": "Sun, 25 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
-   "snippet": "The United States has also seen its military footprint shrink.\n\nIn 2024, Washington withdrew approximately 1,000 soldiers from Niger after the military government terminated their security cooperation agreement. The withdrawal included personnel stationed at an important US drone base near Agadez.\n\nThe result has been a significant realignment of the Sahel’s security partnerships, with Western mil",
-   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Washington’s Uranium Bet in Niger Could Come at a Steep Price | WPR",
-   "url": "https://www.worldpoliticsreview.com/niger-us-uranium-dfc-dasa-project",
-   "snippet": "Jared O. Bell\n\nGen. Abdourahamane Tiani of Niger attends an Alliance of Sahel States summit in Bamako, Mali, Dec. 23, 2025. (Mali Government Information Center via AP)\n\n \n\nShare this article:\n\n### Share this:\n\n Click to share on Twitter (Opens in new window)\n Click to share on LinkedIn (Opens in new window)\n Click to share on Facebook (Opens in new window)\n Click to share on Email (Opens in new wi",
-   "published": "Tue, 27 Oct 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Texas dad deported by ICE to Ghana was then forced to go to Mali, a country that's unsafe for him, he says - CBS News",
-   "url": "https://www.cbsnews.com/news/moussa-diawara-third-country-deportation-ghana-mali-60-minutes",
-   "snippet": "There were 63 people on Diawara's third-country deportation flight, which left Texas on July 30, and stopped in Sierra Leone and the Central African Republic before landing in Ghana. Seventeen of the 19 people 60 Minutes reached who were deported to Ghana said they were subsequently sent, against their will, to countries U.S. immigration judges had ruled they should not be returned to, including N",
-   "published": "Sun, 25 Oct 2026 23:17:48 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "West Africa Monthly Report: September 2026",
-   "url": "https://www.genocidewatch.com/single-post/west-africa-monthly-report-september-2026",
-   "snippet": "Liberia\n\nLiberia’s 2025 agreement with the US to accept third-country deportees has raised concerns about due process, human rights and constitutional approval. The first 20 deportees arrived in August 2026 under a deal potentially covering 1,200 people. Academic Robtel Neajai Pailey questions the agreement’s lack of transparency and reports of a $5 million payment, arguing that it reflects a long",
-   "published": "Tue, 27 Oct 2026 07:00:08 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "ACN report: 220 million Christians face persecution worldwide - Vatican News",
-   "url": "https://www.vaticannews.va/en/church/news/2026-10/acn-report-persecution-christians-africa-asia-displacement.html",
-   "snippet": "A comparison of ACN’s findings with those of the Global Terrorism Index 2026 points to sub-Saharan Africa as a major centre of Islamist extremist violence worldwide. Six of the ten countries most affected by terrorism are in the region: Burkina Faso, Niger, Nigeria, Mali, Somalia and the Democratic Republic of the Congo.\n\nThe report documents severe violence against Christian communities, includin",
-   "published": "Wed, 28 Oct 2026 14:48:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - The Washington Post",
-   "url": "https://www.washingtonpost.com/world/2026/10/25/algeria-niger-troops-economic-interests/d61a26ba-d0ce-11f1-9931-2a41b76fc976_story.html",
-   "snippet": "ALGIERS, Algeria — Algeria’s parliament approved a resolution Sunday to send troops to Niger , making it the first time Algerian soldiers will be deployed abroad since 1973, when they were sent to support Egypt during the Arab-Israeli war.\n\npixel [...] Democracy Dies in Darkness\n\n# Algeria to send troops to Niger in first foreign deployment in over 50 years\n\nAlgeria’s parliament has approved a res",
-   "published": "Sun, 25 Oct 2026 23:55:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Putin seeks to expand ties with African countries at Russia-Africa summit",
-   "url": "https://www.audacy.com/kmbz/news/business/russia-africa-summit-putin-a2d2a9e23cdb86b3576aee4176c9f371",
-   "snippet": "Russian President Vladimir Putin is hosting dozens of African leaders at a Russia-Africa summit | KMBZ.",
-   "published": "Wed, 28 Oct 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "On Our Radar",
-   "url": "https://www.crisisgroup.org/sco/global/our-radar",
-   "snippet": "CUBA The UN General Assembly will vote next week on its annual resolution condemning the U.S. embargo on Cuba, in place for more than six decades.",
-   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "us_ne_ml",
  "_query": "US Niger Mali",
  "_domains": [],
