@@ -1,0 +1,116 @@
+{
+ "query": "United States Niger Mali Sahel AFRICOM cooperation sanctions",
+ "_tag": "soc_us_sahel",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/geoffdporter/status/2114704021214658961",
+     "title": "One thing to note about the recent 🇩🇿#Algeria's recent announcement to deploy forces to 🇳🇪#Niger: Algeria always acts in its own interest fi",
+     "description": "One thing to note about the recent 🇩🇿#Algeria's recent announcement to deploy forces to 🇳🇪#Niger: \n\nAlgeria always acts in its own interest first and foremost (every nation does.) \n\nHowever, the second order benefits are enormous. \n\nNot least for the 🇺🇸 #USA. \n\nDC has been flying blind in the Sahel. @USAfricaCommand has said as much in congressional hearings. \n\nAn Algerian presence in Niger will yield actionable intelligence. \n\nAnd the US has been asking Algeria for precisely this kind of engagement in the Sahel for the last 5-6 years (if not longer.)  \n\n🇩🇿 Algeria is now in a position to help the 🇺🇸 US. If it chooses to. And if the US asks.",
+     "snippet": "One thing to note about the recent 🇩🇿#Algeria's recent announcement to deploy forces to 🇳🇪#Niger: \n\nAlgeria always acts in its own interest first and foremost (every nation does.) \n\nHowever, the second order benefits are enormous. \n\nNot least for the 🇺🇸 #USA. \n\nDC has been flying blind in the Sahel. @USAfricaCommand has said as much in congressional hearings. \n\nAn Algerian presence in Niger will yield actionable intelligence. \n\nAnd the US has been asking Algeria for precisely this kind of engagement in the Sahel for the last 5-6 years (if not longer.)  \n\n🇩🇿 Algeria is now in a position to help the 🇺🇸 US. If it chooses to. And if the US asks.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Geoff D. Porter",
+     "handle": "@geoffdporter"
+    },
+    {
+     "url": "https://x.com/omar2laouissi/status/2114822928957395257",
+     "title": "Since the US military lost access to Air Base 201 in Agadez—formerly Washington's premier ISR (Intelligence, Surveillance, and Reconnaissanc",
+     "description": "Since the US military lost access to Air Base 201 in Agadez—formerly Washington's premier ISR (Intelligence, Surveillance, and Reconnaissance) hub in the region—AFRICOM has indeed suffered a severe degradation in real-time visibility over JNIM and Islamic State in the Greater Sahara (ISGS) movements.\n\nAcross multiple administrations and high-level Pentagon visits (going back to former Defense Secretary Mark Esper's 2020 visit to Algiers and subsequent AFRICOM Memorandums of Understanding), Washington has quietly urged Algeria to abandon its strict constitutional ban on out-of-area operations (amended in 2020) and project stabilizing power southward.\n\nAlgeria's Core Motivation is that Algiers is acting purely out of national interest. The immediate catalyst for the deployment is securing Algerian state energy giant Sonatrach’s oil exploration blocks in northern Niger (specifically the Kafra block) and safeguarding the proposed Trans-Saharan Gas Pipeline corridor.",
+     "snippet": "Since the US military lost access to Air Base 201 in Agadez—formerly Washington's premier ISR (Intelligence, Surveillance, and Reconnaissance) hub in the region—AFRICOM has indeed suffered a severe degradation in real-time visibility over JNIM and Islamic State in the Greater Sahara (ISGS) movements.\n\nAcross multiple administrations and high-level Pentagon visits (going back to former Defense Secretary Mark Esper's 2020 visit to Algiers and subsequent AFRICOM Memorandums of Understanding), Washington has quietly urged Algeria to abandon its strict constitutional ban on out-of-area operations (amended in 2020) and project stabilizing power southward.\n\nAlgeria's Core Motivation is that Algiers is acting purely out of national interest. The immediate catalyst for the deployment is securing Algerian state energy giant Sonatrach’s oil exploration blocks in northern Niger (specifically the Kafra block) and safeguarding the proposed Trans-Saharan Gas Pipeline corridor.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Omar Laouissi",
+     "handle": "@omar2laouissi"
+    },
+    {
+     "url": "https://x.com/omar2laouissi/status/2114823026521030917",
+     "title": "Since the US military lost access to Air Base 201 in Agadez—formerly Washington's premier ISR (Intelligence, Surveillance, and Reconnaissanc",
+     "description": "Since the US military lost access to Air Base 201 in Agadez—formerly Washington's premier ISR (Intelligence, Surveillance, and Reconnaissance) hub in the region—AFRICOM has indeed suffered a severe degradation in real-time visibility over JNIM and Islamic State in the Greater Sahara (ISGS) movements.\n\nAcross multiple administrations and high-level Pentagon visits (going back to former Defense Secretary Mark Esper's 2020 visit to Algiers and subsequent AFRICOM Memorandums of Understanding), Washington has quietly urged Algeria to abandon its strict constitutional ban on out-of-area operations (amended in 2020) and project stabilizing power southward.\n\nAlgeria's Core Motivation is that Algiers is acting purely out of national interest. The immediate catalyst for the deployment is securing Algerian state energy giant Sonatrach’s oil exploration blocks in northern Niger (specifically the Kafra block) and safeguarding the proposed Trans-Saharan Gas Pipeline corridor.",
+     "snippet": "Since the US military lost access to Air Base 201 in Agadez—formerly Washington's premier ISR (Intelligence, Surveillance, and Reconnaissance) hub in the region—AFRICOM has indeed suffered a severe degradation in real-time visibility over JNIM and Islamic State in the Greater Sahara (ISGS) movements.\n\nAcross multiple administrations and high-level Pentagon visits (going back to former Defense Secretary Mark Esper's 2020 visit to Algiers and subsequent AFRICOM Memorandums of Understanding), Washington has quietly urged Algeria to abandon its strict constitutional ban on out-of-area operations (amended in 2020) and project stabilizing power southward.\n\nAlgeria's Core Motivation is that Algiers is acting purely out of national interest. The immediate catalyst for the deployment is securing Algerian state energy giant Sonatrach’s oil exploration blocks in northern Niger (specifically the Kafra block) and safeguarding the proposed Trans-Saharan Gas Pipeline corridor.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Omar Laouissi",
+     "handle": "@omar2laouissi"
+    },
+    {
+     "url": "https://x.com/THISDAYLIVE/status/2114922995021992178",
+     "title": "U.S AFRICOM Commander: ISIS Defections in Nigeria Rise Over 200% After May Operation … Identifies terrorist financing as a critical challeng",
+     "description": "U.S AFRICOM Commander: ISIS Defections in Nigeria Rise Over 200% After May Operation\n\n… Identifies terrorist financing as a critical challenge …Seeks to reopen dialogue with Sahel states after ECOWAS Exit Chiemelie Ezeobi The number of ISIS members defecting in Nigeria has…",
+     "snippet": "U.S AFRICOM Commander: ISIS Defections in Nigeria Rise Over 200% After May Operation\n\n… Identifies terrorist financing as a critical challenge …Seeks to reopen dialogue with Sahel states after ECOWAS Exit Chiemelie Ezeobi The number of ISIS members defecting in Nigeria has…",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "THISDAY LIVE",
+     "handle": "@THISDAYLIVE"
+    },
+    {
+     "url": "https://x.com/bayalsa27/status/2114974362902085882",
+     "title": "*U.S AFRICOM Commander: ISIS Defections In Nigeria Rise Over 200% After May Operation•Identifies Terrorist Financing As a Critical Challenge",
+     "description": "*U.S AFRICOM Commander: ISIS Defections In Nigeria Rise Over 200% After May Operation•Identifies Terrorist Financing As a Critical Challenge•Seeks To Reopen Dialogue With Sahel States After ECOWAS Exit\n*World Leaders Celebrate Lula’s Re-Election In Brazil",
+     "snippet": "*U.S AFRICOM Commander: ISIS Defections In Nigeria Rise Over 200% After May Operation•Identifies Terrorist Financing As a Critical Challenge•Seeks To Reopen Dialogue With Sahel States After ECOWAS Exit\n*World Leaders Celebrate Lula’s Re-Election In Brazil",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ogunbona Olayiwola",
+     "handle": "@bayalsa27"
+    },
+    {
+     "url": "https://x.com/DominusDefensi/status/2114358863394734488",
+     "title": "Global: Niger expelled French forces in 2023, saw US troops leave in 2024, and turned to Russia for security help.",
+     "description": "Global: Niger expelled French forces in 2023, saw US troops leave in 2024, and turned to Russia for security help. An Algerian presence adds a new player in a Sahel Washington has exited, as Moscow, Beijing and Ankara compete for influence.",
+     "snippet": "Global: Niger expelled French forces in 2023, saw US troops leave in 2024, and turned to Russia for security help. An Algerian presence adds a new player in a Sahel Washington has exited, as Moscow, Beijing and Ankara compete for influence.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Flavius Belisarius",
+     "handle": "@DominusDefensi"
+    },
+    {
+     "url": "https://x.com/RoxomTV/status/2115088631220302158",
+     "title": "That junta took power in a 2023 coup that Algeria condemned at the time.",
+     "description": "That junta took power in a 2023 coup that Algeria condemned at the time. Since then, Niger and its neighbours in Mali and Burkina Faso have pushed out the French and the Americans, formed their own alliance and fought al-Qaeda and ISIL affiliates with whoever would help.\n\nThe newest partner is the one next door, and the stake is Europe’s gas.",
+     "snippet": "That junta took power in a 2023 coup that Algeria condemned at the time. Since then, Niger and its neighbours in Mali and Burkina Faso have pushed out the French and the Americans, formed their own alliance and fought al-Qaeda and ISIL affiliates with whoever would help.\n\nThe newest partner is the one next door, and the stake is Europe’s gas.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Roxom TV",
+     "handle": "@RoxomTV"
+    },
+    {
+     "url": "https://x.com/grok/status/2114474596938244544",
+     "title": "Yes. The US has provided extensive counterterrorism support in Africa, including Nigeria and the Sahel. In Nigeria: long-term training, equi",
+     "description": "Yes. The US has provided extensive counterterrorism support in Africa, including Nigeria and the Sahel.\n\nIn Nigeria: long-term training, equipment (e.g. Super Tucanos), intelligence sharing, 2025-2026 joint airstrikes and operations that killed senior ISIS leaders and hundreds of fighters, plus temporary troop deployments for advisory roles.\n\nIn the Sahel: Trans-Sahara Counterterrorism Partnership, past bases and ISR from Niger, training, and ongoing intelligence cooperation with partners despite post-coup withdrawals.",
+     "snippet": "Yes. The US has provided extensive counterterrorism support in Africa, including Nigeria and the Sahel.\n\nIn Nigeria: long-term training, equipment (e.g. Super Tucanos), intelligence sharing, 2025-2026 joint airstrikes and operations that killed senior ISIS leaders and hundreds of fighters, plus temporary troop deployments for advisory roles.\n\nIn the Sahel: Trans-Sahara Counterterrorism Partnership, past bases and ISR from Niger, training, and ongoing intelligence cooperation with partners despite post-coup withdrawals.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/tjAmandla/status/2114583612712514014",
+     "title": "I look at French, Russian and now growing US influence within the countries that make up the Alliance of Sahel States (Mali, Burkina Faso an",
+     "description": "I look at French, Russian and now growing US influence within the countries that make up the Alliance of Sahel States (Mali, Burkina Faso and Niger) for @tribunemagazine \n\n\"By kicking the French out, the AES may appear to have decolonised their war; alongside their Russian allies, they have so far failed to decolonise the way it is fought.\"",
+     "snippet": "I look at French, Russian and now growing US influence within the countries that make up the Alliance of Sahel States (Mali, Burkina Faso and Niger) for @tribunemagazine \n\n\"By kicking the French out, the AES may appear to have decolonised their war; alongside their Russian allies, they have so far failed to decolonise the way it is fought.\"",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "amandla",
+     "handle": "@tjAmandla"
+    },
+    {
+     "url": "https://x.com/grok/status/2114475314327798265",
+     "title": "The US has done more overall.",
+     "description": "The US has done more overall. It provides decades of training, equipment, intelligence, and targeted strikes across Nigeria, Somalia, the Sahel, and beyond—recent joint ops in Nigeria alone killed hundreds of ISIS fighters, senior leaders, and seized major intel caches. \n\nRussia’s Africa Corps focuses on regime protection in junta states like Mali, Burkina Faso, and Niger. It has helped repel some attacks but shows limited success reducing jihadist expansion; violence remains high there.",
+     "snippet": "The US has done more overall. It provides decades of training, equipment, intelligence, and targeted strikes across Nigeria, Somalia, the Sahel, and beyond—recent joint ops in Nigeria alone killed hundreds of ISIS fighters, senior leaders, and seized major intel caches. \n\nRussia’s Africa Corps focuses on regime protection in junta states like Mali, Burkina Faso, and Niger. It has helped repel some attacks but shows limited success reducing jihadist expansion; violence remains high there.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

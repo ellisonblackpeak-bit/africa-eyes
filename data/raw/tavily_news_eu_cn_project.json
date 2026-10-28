@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "BYD to build new factories in Europe to combat strict trade barriers targeting Chinese EVs | South China Morning Post",
+   "url": "https://www.scmp.com/business/china-evs/article/3372001/byd-build-new-factories-europe-combat-strict-trade-barriers-targeting-chinese-evs",
+   "snippet": "Themis Qi\n\nChina’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback at home and rising trade barriers overseas, according to an executive.\n\n“Europe is a very important regional market for BYD. We will not let tariff increases affect local consumers’ choice of BYD,” said Liu Xueliang, vice-president at",
+   "published": "Sun, 25 Oct 2026 08:00:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European firms put Chinese technology to work - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1372947.shtml",
+   "snippet": "At a machinery factory in Vicenza, Italy, Chinese-made robots weld components and move materials. The machines come from Chengdu CRP Robot Technology Co., Ltd., which now has more than 20 partners across 13 European countries. [...] CRP Robot is working with European local partners to improve technical support and after-sales services, its deputy general manager Deng Shihai said. Luigi Gambardella",
+   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Beyond exports: China's automakers dig deeper into Europe - The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10915036",
+   "snippet": "Beyond building factories, Chinese automakers are increasingly forming alliances with established manufacturers that are struggling with sluggish demand, costly electrification investments and underused production capacity.\n\nFor European companies, the partnerships offer opportunities to sustain factory operations and share development costs. For Chinese manufacturers, they provide access to exist",
+   "published": "Mon, 26 Oct 2026 05:57:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Cannot Remain the World’s Factory. What Comes Next?",
+   "url": "https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy",
+   "snippet": "Such a shift is already under way. In Brazil, BYD is moving from importing cars to manufacturing them locally and developing local suppliers. In Hungary, it is pairing its first European passenger-car factory with a research and development center that will work with Hungarian universities and companies.\n\nAdvertisement [...] China’s manufacturing dominance is generating resistance. And not only in",
+   "published": "Fri, 23 Oct 2026 10:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Clean Tech Investment Overseas Opportunities Await",
+   "url": "https://chinaglobalsouth.com/podcasts/china-clean-tech-investment-overseas",
+   "snippet": "And this has already become the next phase of the auto war. I call this the Factory Passport. A European factory that was running far below its capacity now becomes a possible entry point for Chinese EV makers. [...] They are actively buying up land and reviving old decommissioned European auto plants. Recent market studies by Transport and Environment confirm that Chinese EV makers are aggressive",
+   "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Volkswagen considers using Chinese software for Europe, report says | Reuters",
+   "url": "https://www.reuters.com/business/autos-transportation/volkswagen-considers-using-chinese-software-europe-report-says-2026-10-26",
+   "snippet": "The company has so far kept software separate, using the architecture co-developed with Xpeng for ​the Chinese market ​while developing ⁠a separate technology for the Western world with Rivian, in a $5.8 billion ​investment at the heart of CEO Oliver ​Blume's ⁠software strategy. [...] Volkswagen's 'China Electronic ​Architecture', a system developed for Chinese models ​in cooperation with local EV",
+   "published": "Mon, 26 Oct 2026 16:45:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Economy Has a Huge Weakness - The Atlantic",
+   "url": "https://www.theatlantic.com/international/2026/10/chinese-companies-profit-problem/689088",
+   "snippet": "As China’s manufacturers flood the global market with cars, chips, and just about everything else, the country’s economic juggernaut seems unstoppable. Policy makers in the United States and elsewhere fret that this onslaught will overrun their own industries, destroy jobs, and leave them reliant on a rival for vital products. But a growing number of Chinese factories are failing to produce at lea",
+   "published": "Thu, 22 Oct 2026 13:03:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
+   "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "“Eroding Tariff Advantages and Manufacturing Constraints”: China Diversification Through Southeast Asia Under Strain, With Key Manufacturing Hubs’ Capabilities a Decisive Factor | The Economy",
+   "url": "https://economy.ac/news/2026/10/202610295763",
+   "snippet": "“Spectrum for European Companies, a Communications Network of Its Own”: EU Space Industry Self-Reliance Strategy Deepens US–EU Tensions\n\nAoife Brennan\n\nAmerican foreign policy\n\n\n\n“Streets Burn as National Debt Piles Up”: Hardship Fuels Public Anger, Putting European Austerity to the Test\n\nSiobhán Delaney\n\nEuropean foreign policy\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[]( [...] China’s distinctive man",
+   "published": "Fri, 23 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's car industry consolidation begins: who will survive?",
+   "url": "https://www.automotivemanufacturingsolutions.com/strategy/chinas-car-industry-consolidation-begins-who-will-survive/2759287",
+   "snippet": "With margins at around 3%, factories running below 50% utilisation and Toyota's two JVs set to merge, Ian Henry examines how China's overcapacity is forcing",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

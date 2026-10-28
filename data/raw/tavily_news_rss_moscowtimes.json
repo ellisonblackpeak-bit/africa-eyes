@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Russia’s Krasnodar Region Declares High Alert as Landfills Reach Capacity",
+   "url": "https://www.themoscowtimes.com/2026/10/28/russias-krasnodar-region-declares-high-alert-as-landfills-reach-capacity-a94116",
+   "content": "The governor’s decree warned of a potential regional emergency, with disruptions to garbage collection threatening to leave waste piling up in towns and villages.",
+   "published_date": "Wed, 28 Oct 2026 20:27:00 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "French Protests Show Need for State Control Over Social Media, Putin Says",
+   "url": "https://www.themoscowtimes.com/2026/10/28/french-protests-show-need-for-state-control-over-social-media-putin-says-a94114",
+   "content": "Russia-linked disinformation networks have themselves been accused of exploiting the French protests.",
+   "published_date": "Wed, 28 Oct 2026 20:06:10 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Russia Issues Permits for First Grain Vessels to Leave Sea of Azov Since July",
+   "url": "https://www.themoscowtimes.com/2026/10/28/russia-issues-permits-for-first-grain-vessels-to-leave-sea-of-azov-since-july-a94112",
+   "content": "Maritime traffic in the area had been closed since July due to Ukrainian drone attacks.",
+   "published_date": "Wed, 28 Oct 2026 19:26:54 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Ethiopia Receives 12 Russian Su-35 Fighter Jets",
+   "url": "https://www.themoscowtimes.com/2026/10/28/ethiopia-receives-12-russian-su-35-fighter-jets-a94110",
+   "content": "The African nation will later receive four Russian S-400 air defense systems as part of a push to bolster its military capabilities.",
+   "published_date": "Wed, 28 Oct 2026 19:19:16 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Sverdlovsk Lawmaker Calls for Halloween Pumpkin Purge",
+   "url": "https://www.themoscowtimes.com/2026/10/28/sverdlovsk-lawmaker-calls-for-halloween-pumpkin-purge-a94106",
+   "content": "United Russia representative Vyacheslav Vegner said he wants to give free theater tickets to young Russians who toss pumpkins into a local river as an act of defiance against Halloween.",
+   "published_date": "Wed, 28 Oct 2026 18:03:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Russian Bookseller Chitai-Gorod Spent Millions Destroying Banned Books, CEO Says",
    "url": "https://www.themoscowtimes.com/2026/10/28/russian-bookseller-chitai-gorod-spent-millions-destroying-banned-books-ceo-says-a94105",
    "content": "Russian stores and libraries have had to remove scores of books from their shelves as the government increasingly curtails freedom of speech and the press.",
@@ -174,41 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/23/romania-blames-russia-for-deadly-drone-attack-on-cargo-ship-a94068",
    "content": "The cargo ship Khoryv, flying the Comoros flag, was \"struck by a drone and sank near Romanian territorial waters,\" President Nicușor Dan said.",
    "published_date": "Fri, 23 Oct 2026 17:21:15 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russia and Ukraine Exchange 540 POWs",
-   "url": "https://www.themoscowtimes.com/2026/10/23/russia-and-ukraine-exchange-540-pows-a94066",
-   "content": "Russian human rights commissioner Yana Lantratova said that Ukrainian and Russian civilians from 12 families were also reunited on Friday.",
-   "published_date": "Fri, 23 Oct 2026 15:10:33 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russian Central Bank Holds Key Interest Rate Steady",
-   "url": "https://www.themoscowtimes.com/2026/10/23/russian-central-bank-holds-key-interest-rate-steady-a94062",
-   "content": "Policymakers have been weighing inflation risks against the need to lower currently high borrowing costs for businesses and consumers.",
-   "published_date": "Fri, 23 Oct 2026 13:39:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russia Vows Retaliation After Austria Expels Its Diplomats",
-   "url": "https://www.themoscowtimes.com/2026/10/23/russia-vows-retaliation-after-austria-expels-its-diplomats-a94064",
-   "content": "Austria said it declared the Russian diplomats personae non gratae over “activities incompatible with their diplomatic status,” a term usually used for spying.",
-   "published_date": "Fri, 23 Oct 2026 12:35:39 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "First Shipment of Russian Diesel Departs for the United States Under Trump Deal",
-   "url": "https://www.themoscowtimes.com/2026/10/23/first-shipment-of-russian-diesel-departs-for-the-united-states-under-trump-deal-a94039",
-   "content": "The tanker, loaded with 40,000 metric tons of ultra-low sulphur diesel, is expected to arrive in the United States on Nov. 7.",
-   "published_date": "Fri, 23 Oct 2026 12:25:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Moscow to Present New ‘Anti-Drone Dome’ at Upcoming Russia-Africa Summit",
-   "url": "https://www.themoscowtimes.com/2026/10/23/moscow-to-present-new-anti-drone-dome-at-upcoming-russia-africa-summit-a94063",
-   "content": "The upcoming presentation for Moscow’s African partners comes as Russia itself continues to struggle against Ukrainian drone attacks that have repeatedly overwhelmed air defense systems.",
-   "published_date": "Fri, 23 Oct 2026 11:45:04 +0300",
    "score": 0.6
   }
  ],

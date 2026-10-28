@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger Tschad Spannungen",
+   "url": "https://fr.news.yahoo.com/niger-tschad-spannungen-180000523.html",
+   "snippet": "le Niger accuse régulièrement le Tchad. Mouvement patriotique pour la liberté et la justice (MPLJ) de Moussa Kounaï. Le Tchad rejette fermement les accusations",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Le Niger accuse le Tchad et la France d’une action hostile",
+   "url": "https://amp.dw.com/fr/niger-tchad-pourquoi-leurs-relations-se-d%C3%A9t%C3%A9riorent/a-79781272",
+   "snippet": "rébellion qui lui est hostile, notamment le Mouvement patriotique pour la liberté et la justice (MPLJ) de Moussa Kounaï. Et Niamey, en revanche, offre son espace aux rebelles du Fact (Front pour l'alternance et la concorde au Tchad) dirigé par Mahamat Mahadi, qui constitue aussi une menace importante pour le Tchad. Donc c'est de bonne guerre.\" [...] L’est RDC reste en crise, Damien Mama, coordonna",
+   "published": "Tue, 27 Oct 2026 18:00:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "🎯 L'Algérie envoie son armée au Niger : pour le pétrole ...",
+   "url": "https://www.facebook.com/algeriepart/posts/-lalg%C3%A9rie-envoie-son-arm%C3%A9e-au-niger-pour-le-p%C3%A9trole-ou-pour-sauver-tiani-regarde/1584703740362387",
+   "snippet": "Le MPLJ de Moussa Kounaï, autre mouvement armé anti-Tiani. Ces groupes sont associés aux attaques contre les infrastructures énergétiques nigériennes",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "À la Une: des troupes algériennes au Niger - Revue de presse Afrique - RFI",
+   "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-afrique/20261026-%C3%A0-la-une-des-troupes-alg%C3%A9riennes-au-niger",
+   "snippet": "D’après un expert cité par le journal, « l’Algérie veut surtout neutraliser cette menace en provenance du nord du Niger et qui risque de renverser la junte de Niamey ».\n\nCommentaire du Monde Afrique : « Cet impératif s’impose d’autant plus que certains de ces groupes repliés dans cette zone – le FPL de Mahmoud Salah ou le MPLJ de Moussa Kounaï – se sont illustrés à partir de 2025 par des attaques ",
+   "published": "Mon, 26 Oct 2026 09:28:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "En Algérie, le Parlement autorise l’envoi d’unités militaires au Niger",
+   "url": "https://www.lemonde.fr/afrique/article/2026/10/25/en-algerie-le-parlement-autorise-l-envoi-d-unites-militaires-au-niger_6800111_3212.html",
+   "snippet": "Avec ce vote du 25 octobre, Alger franchit un nouveau seuil dans l’aggiornamento doctrinal de sa politique de sécurité, jusque-là caractérisée par la tradition non-interventionniste, héritage de son tiers-mondisme militant des années 1960. La révision de la Constitution de 2020, prévoyant « l’envoi d’unités de l’armée nationale populaire à l’étranger » sous réserve de l’aval des deux chambres, ava",
+   "published": "Sun, 25 Oct 2026 18:42:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger (The) Breaking News Headlines Today | Ground News",
+   "url": "https://ground.news/interest/niger",
+   "snippet": "#### Committee for Justice (CFJ) Expresses Concern over the Conviction of Nigerien Lawyer Maître Abdourahamane Lirwana and Calls for Respect for Fair Trial Guarantees\n\nNiger · NigerRead Article\n\nNiger: Committee for Justice Calls for the Immediate Disclosure of Journalist Moussa Kaka’s Whereabouts and Guarantees for His Safety\n\n#### Niger: Committee for Justice Calls for the Immediate Disclosure o",
+   "published": "Mon, 26 Oct 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "URGENT/ LE NIGER DÉNONCE UNE AGRESSION DU ...",
+   "url": "https://www.facebook.com/FranklinNyamsi/posts/urgent-le-niger-d%C3%A9nonce-une-agression-du-tchad-contre-son-territoire-partie-2/1673068871271906",
+   "snippet": "Selon plusieurs sources concordantes, de lourds dégâts matériels et humains ont été enregistrés côté nigérien à la suite d'une frappe ciblée contre les",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger: Junta Signs Defense Partnership With Algeria | RANE Worldview",
+   "url": "https://worldview.ranenetwork.com/content/situational-report/2026-10-23/niger-junta-signs-defense-partnership-with-algeria/37968261f04b8264",
+   "snippet": "RANE\n\nNigerien Defense Minister Salifou Mody signed a security pact with Chief of Staff of the Algerian military Said Chengriha, Jeune Afrique reported on Oct. 22. Details of the agreement were not released, but Jeune Afrique noted that Algerian aircraft deployed to Niger's capital Niamey following a coup attempt in late August had remained at the city's air base despite allegedly not undertaking ",
+   "published": "Fri, 23 Oct 2026 17:32:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria sends its army to Niger: for the oil... or to save Tiani?",
+   "url": "https://www.youtube.com/watch?v=mLybTZPSH7g",
+   "snippet": "A former military base lost in the desert of northern Niger, on the border with Libya. the aim is to protect Sonatrach's oil interests in Niger.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger: Junta Accuses Chad, France of Drone Strike | RANE Worldview",
+   "url": "https://worldview.ranenetwork.com/content/situational-report/2026-10-27/niger-junta-accuses-chad-france-of-drone-strike/234daad2a2a502b0",
+   "snippet": "RANE\n\nNiger said that \"a drone strike carried out from Chadian territory\" killed two civilians in the locality of Emi Lulu in its northern Agadez region and summoned Chad's ambassador to Niger to lodge a formal protest, Radio France Internationale reported on Oct. 27. Niger said Chad carried out the strike with the support of France.\n\nRANE\n\nSUBSCRIBERS ONLY \n\nExpert analysis when it matters most.\n",
+   "published": "Tue, 27 Oct 2026 18:30:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

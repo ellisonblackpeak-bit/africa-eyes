@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "5 killed in attack on Adamawa communities",
+   "url": "https://dailytrust.com/5-killed-in-attack-on-adamawa-communities",
+   "snippet": "At least five people have been killed in a suspected Boko Haram attack on Gaya-Sikalmi and Gaya-Gartsanau communities in Hong Local Government Area of",
+   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BOKO HARAM TERRORISTS REPORTEDLY SIGHTED MOVING IN LARGE NUMBERS AS GAYA-DLANG COMMUNITY COMES UNDER ATTACK IN HONG LGA, ADAMAWA STATE - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/boko-haram-terrorists-reportedly-sighted-moving-in-large-numbers-as-gaya-dlang-community-comes-under-attack-in-hong-lga-adamawa-state",
+   "snippet": "Security Alerts\n\n# BOKO HARAM TERRORISTS REPORTEDLY SIGHTED MOVING IN LARGE NUMBERS AS GAYA-DLANG COMMUNITY COMES UNDER ATTACK IN HONG LGA, ADAMAWA STATE\n\nNews Desk\n\nBy News Desk\n\n0\n\nShare\n\nFacebookXPinterestWhatsApp\n\n, Hong LGA Chapter, and other clerics described the situation as chaotic, warning of growing fear among residents as the security situation deteriorates. [...] ### Share this:\n\n Shar",
+   "published": "Sun, 25 Oct 2026 20:50:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State in Iraq and Syria - Expansion, Terror, Insurgency | Britannica",
+   "url": "https://www.britannica.com/topic/Islamic-State-in-Iraq-and-Syria/ISIS-outside-of-Iraq-and-Syria",
+   "snippet": "on Christmas Eve that year. In August 2011 a suicide bomber associated with Boko Haram crashed a car into a United Nations building in Abuja, marking its first major attack on an international target, albeit located within Nigeria. In 2013, after Boko Haram rejected a proposal for amnesty by Nigerian Pres. Goodluck Jonathan if they disarmed, Jonathan declared the group a terrorist organization and",
+   "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State in Iraq and Syria - Expansion, Caliphate, Terror | Britannica",
+   "url": "https://www.britannica.com/topic/Islamic-State-in-Iraq-and-Syria/Expansion-and-declaration-of-a-caliphate",
+   "snippet": "on Christmas Eve that year. In August 2011 a suicide bomber associated with Boko Haram crashed a car into a United Nations building in Abuja, marking its first major attack on an international target, albeit located within Nigeria. In 2013, after Boko Haram rejected a proposal for amnesty by Nigerian Pres. Goodluck Jonathan if they disarmed, Jonathan declared the group a terrorist organization and",
+   "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "INTELLIGENCE SOURCES REPORT INFLOW OF BOKO HARAM TERRORISTS INTO GWOZA, WARN OF POSSIBLE FURTHER ATTACKS AFTER FAILED IDP CAMP ASSAULTS - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/intelligence-sources-report-inflow-of-boko-haram-terrorists-into-gwoza-warn-of-possible-further-attacks-after-failed-idp-camp-assaults",
+   "snippet": "According to intelligence sources who spoke with TruthNigeria, the attempted attacks on the IDP camps were thwarted after soldiers reportedly neutralized terrorists operating in the Mandara Mountains, an area known to contain insurgent hideouts. The sources described the reported influx as an arrival of “defectors” from the Islamic State West Africa Province (ISWAP) faction, raising concerns about",
+   "published": "Sun, 25 Oct 2026 13:22:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62 | Armed Groups News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62",
+   "snippet": "“We still have men on the ground, and the more we recover bodies, we will put them in account,” Victor Mshelizah, Taraba police spokesperson, told The Associated Press.\n\n## Atrocities, ‘impunity’\n\nNigeria is in the midst of a security crisis that began more than 15 years ago when the Boko Haram armed group launched a rebellion against the government. Civilians are regularly attacked and kidnapped ",
+   "published": "Tue, 27 Oct 2026 15:53:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 62 killed as 'bandit' gunmen attack civilians in Nigeria - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-62-killed-as-bandit-gunmen-attack-civilians-in-nigeria/articleshow/135235617.cms",
+   "snippet": "carry out mass kidnappings for ransom and operate illegal mining sites, while Islamist militant groups, including Boko Haram and the Islamic State West Africa Province (ISWAP), also pose a major security threat. [...] Article image for: 'Ryan Zinke Complimented My Blue Eyes': Vance Takes A Dig At Trump’s Body-Watching Habit\n\n'Ryan Zinke Complimented My Blue Eyes': Vance Takes A Dig At Trump’s Body",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Boko Haram Kills 15 Farmers In Borno",
+   "url": "https://leadership.ng/boko-haram-kills-15-farmers-in-borno",
+   "snippet": "Suspected Boko Haram terrorists reportedly killed 15 farmers around Ala and Musune wards of Marte local government area of Borno State on Wednesday evening.",
+   "published": "Sun, 25 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 62 people killed in attack on a community in northeastern Nigeria",
+   "url": "https://mymotherlode.com/news/africa/11256706/at-least-62-people-killed-in-attack-on-a-community-in-northeastern-nigeria.html/amp",
+   "snippet": "ABUJA, Nigeria (AP) — At least 62 people have been killed after gunmen attacked a community in northeastern Nigeria, the country's emergency agency said",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

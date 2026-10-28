@@ -2,10 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Mene ne tallafin 70,000 da gwamnatin Tinubu ta amince ga ma'aikata duk wata?",
-   "url": "https://www.bbc.com/hausa/articles/ckly4dj2g187o?at_medium=RSS&at_campaign=rss",
-   "content": "Shirin gwamnatin Najeriya na bai wa ma'aikatan gwamnati tallafin kuɗin sufuri na naira 70,000 ya sake tayar da muhawara kan yadda ake ƙoƙarin rage raɗaɗin matsin tattalin arzikin da jama'a ke fama da shi a faɗin ƙasar.",
-   "published_date": "Wed, 28 Oct 2026 11:39:39 GMT",
+   "title": "Yadda sabon bashin dala biliyan 20 da Tinubu ke son karɓowa ya tayar da ƙura",
+   "url": "https://www.bbc.com/hausa/articles/cq78pr9p8vrgo?at_medium=RSS&at_campaign=rss",
+   "content": "A ranar Talata ne Shugaba Tinubu ya aike wa majalisar dokokin ƙasar sabuwar bukatar karɓo rancen dala biliyan 20.51 daga ƙasashen waje.",
+   "published_date": "Wed, 28 Oct 2026 16:45:59 GMT",
    "score": 0.6
   },
   {
@@ -13,6 +13,20 @@
    "url": "https://www.bbc.co.uk/hausa/live/crq5n92e03ynt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 28/10/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Premier League 'kakar korar kociyoyi' - wa ye zai fara rasa aikinsa a gasar?",
+   "url": "https://www.bbc.com/hausa/articles/cqkgjexnyj1xo?at_medium=RSS&at_campaign=rss",
+   "content": "Bayan da matsin lamba ke kan kociyan Manchester United, Michael Carrick, BBC Sport ta yi duba na tsanaki kan yaushe ne za a fara korar kociyon Premier League kamar yadda aka saba a duk kaka.",
+   "published_date": "Wed, 28 Oct 2026 15:37:11 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Mene ne tallafin 70,000 da gwamnatin Tinubu ta amince ga ma'aikata duk wata?",
+   "url": "https://www.bbc.com/hausa/articles/ckly4dj2g187o?at_medium=RSS&at_campaign=rss",
+   "content": "Shirin gwamnatin Najeriya na bai wa ma'aikatan gwamnati tallafin kuɗin sufuri na naira 70,000 ya sake tayar da muhawara kan yadda ake ƙoƙarin rage raɗaɗin matsin tattalin arzikin da jama'a ke fama da shi a faɗin ƙasar.",
+   "published_date": "Wed, 28 Oct 2026 11:39:39 GMT",
    "score": 0.6
   },
   {
@@ -27,13 +41,6 @@
    "url": "https://www.bbc.com/hausa/articles/cqx2v98g4zeno?at_medium=RSS&at_campaign=rss",
    "content": "Da alama manyan jam'iyyun biyu ba su da kujeru da yawa da za su iya kafa gwamnati mai zuwa ba tare da dogaro da jam'iyyun Larabawa ba.",
    "published_date": "Wed, 28 Oct 2026 09:19:29 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Arsenal da Tottenham da Newcastle na sanya ido kan Tresoldi, Liverpool na son Jeltsch",
-   "url": "https://www.bbc.com/hausa/articles/c5zjx1zgjplzo?at_medium=RSS&at_campaign=rss",
-   "content": "Arsenal da Tottenham da Newcastle na daga cikin ƙungiyoyin da ke sanya ido kan ɗan wasan gaba na ƙasar Jamus, Nicolo Tresoldi; yayin da matashin ɗan wasan baya na Stuttgart Finn Jeltsch, ke ɗaukar hankalin Liverpool.",
-   "published_date": "Wed, 28 Oct 2026 03:58:00 GMT",
    "score": 0.6
   },
   {
@@ -55,13 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmn4eg2kp11vo?at_medium=RSS&at_campaign=rss",
    "content": "A ranar Litinin da maraice ne wasu ƴanbindiga ɗauke da makamai suka buɗe wa malamain wuta jim kaɗan bayan fita daga gidansa domin halartar wurin da yake karantawar.",
    "published_date": "Tue, 27 Oct 2026 14:16:49 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Shugaba Tinubu ne neman ciyo bashin sama da dala biliyan 20",
-   "url": "https://www.bbc.co.uk/hausa/live/c620rzeqyg9vt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 27/10/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -103,6 +103,20 @@
    "title": "Man United ta kara nutsewa a teburin Premier",
    "url": "https://www.bbc.co.uk/hausa/live/cwx297v8lknpt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye a BBC Hausa daga 19 zuwa 25 ga watan Oktoban 2026.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Arsenal da Tottenham da Newcastle na sanya ido kan Tresoldi, Liverpool na son Jeltsch",
+   "url": "https://www.bbc.com/hausa/articles/c5zjx1zgjplzo?at_medium=RSS&at_campaign=rss",
+   "content": "Arsenal da Tottenham da Newcastle na daga cikin ƙungiyoyin da ke sanya ido kan ɗan wasan gaba na ƙasar Jamus, Nicolo Tresoldi; yayin da matashin ɗan wasan baya na Stuttgart Finn Jeltsch, ke ɗaukar hankalin Liverpool.",
+   "published_date": "Wed, 28 Oct 2026 03:58:00 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Shugaba Tinubu ne neman ciyo bashin sama da dala biliyan 20",
+   "url": "https://www.bbc.co.uk/hausa/live/c620rzeqyg9vt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 27/10/2026",
    "published_date": "",
    "score": 0.6
   },
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/c6zjx0x3k4m4o?at_medium=RSS&at_campaign=rss",
    "content": "Yaƙin da Isra'ila da Amurka suka ƙaddamar kan Iran ya haifar da hauhawar farashin makamashi a kasuwannin duniya, kuma babu wata alama ta kawo ƙarshen shi nan kusa.",
    "published_date": "Mon, 26 Oct 2026 03:52:29 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Gine-gine 8 mafiya ƙayatarwa a duniya",
-   "url": "https://www.bbc.com/hausa/articles/c65yn2pkj4p8o?at_medium=RSS&at_campaign=rss",
-   "content": "Tsawon lokaci mai yawa, masu zanen gine-gine suna amfani da launi a matsayin wata muhimmiyar hanya wajen ƙara wa ayyukansu kyan gani, armashi da kuma baje fasaha",
-   "published_date": "Sun, 25 Oct 2026 18:13:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Iran da ƙawayenta na shirin kai mana hari lokacin zaɓe - Netanyahu",
-   "url": "https://www.bbc.co.uk/hausa/live/c80401dn9lk4t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 25/10/2026",
-   "published_date": "",
    "score": 0.6
   }
  ],

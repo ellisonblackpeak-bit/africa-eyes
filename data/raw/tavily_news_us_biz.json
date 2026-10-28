@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "TotalEnergies sells oil assets for US$800 million",
+   "url": "https://inspenet.com/en/news/totalenergies-sells-oil-assets",
+   "snippet": "TotalEnergies’ exit from oil assets coincides with another corporate transaction announced in Nigeria, the day before, on October 26, Eni confirmed the sale of its subsidiary Agip Energy and Natural Resources (Nigeria), known as AENR, to Apex Global Energy Limited (APEX). The acquiring company belongs to Sterling Oil Exploration and Energy Production Company. Through this acquisition, APEX incorpo",
+   "published": "Tue, 27 Oct 2026 14:48:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "INFRAGORA Plans $1bn AI Data Centres, Power Plant in Nigeria by 2027 - Techeconomy",
+   "url": "https://techeconomy.ng/infragora-ai-data-centres-nigeria-2027",
+   "snippet": "The US Trade and Development Agency (USTDA) is funding a feasibility study for the project. According to Odiogo, the study covers technical and financial assessments, including the facilities’ ability to support AI workloads.\n\nUSTDA also expects its support to create opportunities for American companies supplying AI software, computing hardware, networking equipment, cloud infrastructure and cyber",
+   "published": "Mon, 26 Oct 2026 11:47:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NITDA woos US firms for Nigeria’s digital economy | Galaxy Television",
+   "url": "https://www.galaxytvonline.com/news/technology/nigeria-seeks-us-investment-in-cloud-ai-infrastructure",
+   "snippet": "He said these efforts could position Nigeria as a digital hub for West and Central Africa.\n\nBoth sides expressed a commitment to continued engagement towards creating a secure and predictable regulatory environment that supports business growth, job creation, skills development and cross-border investment.\n\nTags:\n\nK\n\nKarimu Tosin Dapo\n\nReporter\n\nReporting for Galaxy TV from Lagos and Abuja, coveri",
+   "published": "Wed, 28 Oct 2026 06:21:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump terminates Biden-era methane rules putting Africa’s $101.75 billion oil and gas market in focus | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/trump-terminates-biden-era-methane-rules-putting-africas-dollar10175-billion-oil-and/r0jnrt4",
+   "snippet": "If lower compliance costs encourage American companies to produce more oil and gas, the US could become a more competitive supplier in international markets, putting pressure on African exporters to compete on price. [...] Nigeria, Algeria and Egypt are established African gas producers, while Mozambique, Senegal and Mauritania are developing projects intended to increase the continent’s export ca",
+   "published": "Wed, 28 Oct 2026 10:37:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dangote’s rising intake of Nigeria’s crude reduces US appetite by 58%",
+   "url": "https://businessday.ng/news/article/dangotes-rising-intake-of-nigerias-crude-reduces-us-appetite-by-58",
+   "snippet": "Nigeria's crude oil shipments to the United States fell 57.8 percent in the first eight months of 2026, as rising. Abubakar Ibrahim October 28,",
+   "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Reliance says Ambanis and Rubio discussed global energy, data centres in visit | Reuters",
+   "url": "https://www.reuters.com/business/energy/reliance-says-ambanis-rubio-discussed-global-energy-data-centres-visit-2026-10-21",
+   "snippet": "The Ambanis also shared their perspectives on opportunities ​for collaboration ​with US companies, ⁠the company added.\n Reliance's two massive refineries at the Jamnagar complex, with a combined ​capacity of about 1.4 million barrels per day ​of ⁠crude oil, are able to process the ultra-heavy crudes coming out of Venezuela, some of which have a sludge-like ⁠consistency.\n As ​Venezuela's oil produc",
+   "published": "Wed, 21 Oct 2026 17:53:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dangote refinery targets US$60mn AI gain",
+   "url": "https://africanreview.com/ict/dangote-refinery-targets-us-60mn-ai-gain",
+   "snippet": "As more African businesses embrace artificial intelligence(AI), the technology is moving beyond experimentation to deliver measurable operational and",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Climate Action 100+ target firms weaken on net zero",
+   "url": "https://www.responsible-investor.com/us-climate-action-100-target-firms-weaken-on-net-zero",
+   "snippet": "Initiative's latest benchmark sees more North American company scores decline, Europeans improve on Just Transition.",
+   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Ends Solar Tariff Dodges, But Building Own Sector Is Tough",
+   "url": "https://energynow.com/2026/08/us-ends-solar-tariff-dodges-but-building-own-sector-is-tough",
+   "snippet": "By Dan Murtaugh Chinese solar companies will go to great lengths to reach the US…",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "RANKED: If U.S. States Were Countries, Texas Would Rank #4 in Oil Production – Visual Capitalist",
+   "url": "https://energynow.com/2026/08/ranked-if-u-s-states-were-countries-texas-would-rank-4-in-oil-production-visual-capitalist",
+   "snippet": "By Niccolo Conte | Editing Bruno Venditti | Design Tatiana Rusconi Key Takeaways Texas alone…",
+   "published": "Tue, 27 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],

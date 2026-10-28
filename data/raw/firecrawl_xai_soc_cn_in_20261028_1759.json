@@ -1,0 +1,116 @@
+{
+ "query": "China India Chinese company border LAC",
+ "_tag": "soc_cn_in",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/businessline/status/2115117588028027221",
+     "title": "The government is looking at further simplifying the application form and some other paperwork under Press Note 2 for investments from count",
+     "description": "The government is looking at further simplifying the application form and some other paperwork under Press Note 2 for investments from countries that share a land border with India, including China, but mainly aimed at smaller companies, sources said. The move comes even as China has sought wider easing of the curbs, and India is proceeding slowly, wanting peace at the border first, reports Amiti Sen ( @AmitiSen)",
+     "snippet": "The government is looking at further simplifying the application form and some other paperwork under Press Note 2 for investments from countries that share a land border with India, including China, but mainly aimed at smaller companies, sources said. The move comes even as China has sought wider easing of the curbs, and India is proceeding slowly, wanting peace at the border first, reports Amiti Sen ( @AmitiSen)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "businessline",
+     "handle": "@businessline"
+    },
+    {
+     "url": "https://x.com/woilyb/status/2115187083392278620",
+     "title": "The Indian government is now working on further simplifying paperwork under Press Note 2 for small companies with under 10 per cent Chinese",
+     "description": "The Indian government is now working on further simplifying paperwork under Press Note 2 for small companies with under 10 per cent Chinese ownership, while maintaining border peace as a condition for broader easing.",
+     "snippet": "The Indian government is now working on further simplifying paperwork under Press Note 2 for small companies with under 10 per cent Chinese ownership, while maintaining border peace as a condition for broader easing.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Woily",
+     "handle": "@woilyb"
+    },
+    {
+     "url": "https://x.com/himgiri0708/status/2114295109873545321",
+     "title": "India giving 2 year relaxation to 4 Chinese transformer companies amid standoff at border @narendramodi @RahulGandhi ऐसी क्या मजबूरी रही होग",
+     "description": "India giving 2 year relaxation to 4 Chinese transformer companies amid standoff at border @narendramodi @RahulGandhi ऐसी क्या मजबूरी रही होगी @BJP4India की । क्या हम इतने पिछड़े है manufacturing में । this is the moment india should encourage its companies",
+     "snippet": "India giving 2 year relaxation to 4 Chinese transformer companies amid standoff at border @narendramodi @RahulGandhi ऐसी क्या मजबूरी रही होगी @BJP4India की । क्या हम इतने पिछड़े है manufacturing में । this is the moment india should encourage its companies",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Girish Patel",
+     "handle": "@himgiri0708"
+    },
+    {
+     "url": "https://x.com/JimPei7/status/2114977312378597868",
+     "title": "India passed anti-China investment laws (Press Note 3) before Galwan.",
+     "description": "India passed anti-China investment laws (Press Note 3) before Galwan. Using border conflict to excuse protectionism is revisionist. Border disputes exist, but choking your own tech and forcing out engineers only hurt India's growth.",
+     "snippet": "India passed anti-China investment laws (Press Note 3) before Galwan. Using border conflict to excuse protectionism is revisionist. Border disputes exist, but choking your own tech and forcing out engineers only hurt India's growth.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "北極 無用",
+     "handle": "@JimPei7"
+    },
+    {
+     "url": "https://x.com/NNPIndia25/status/2115180659056758827",
+     "title": "Indo-Tibetan Border Police (ITBP) Director General Shatrujeet Kapur says facing China through traditional military means would be difficult,",
+     "description": "Indo-Tibetan Border Police (ITBP) Director General Shatrujeet Kapur says facing China through traditional military means would be difficult, citing Beijing’s heavy investment in modernizing its armed forces.\n\nRead more : https://nnpnews.tv/2026/10/27/indias-itbp-chief-says-face-offs-with-chinese-forces-continue-in-arunachal-pradesh/",
+     "snippet": "Indo-Tibetan Border Police (ITBP) Director General Shatrujeet Kapur says facing China through traditional military means would be difficult, citing Beijing’s heavy investment in modernizing its armed forces.\n\nRead more : https://nnpnews.tv/2026/10/27/indias-itbp-chief-says-face-offs-with-chinese-forces-continue-in-arunachal-pradesh/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NNP India",
+     "handle": "@NNPIndia25"
+    },
+    {
+     "url": "https://x.com/imarunsharma/status/2114574455527903600",
+     "title": "**Corrected information** The viral video is a **deepfake**.",
+     "description": "**Corrected information**\n\nThe viral video is a **deepfake**. \n\nOriginal footage is from **27 October 2023**, when then **Maj Gen Girish Kalia** (GOC 28 Infantry Division) was briefing in **Kupwara, Jammu & Kashmir** about Pakistani infiltration attempts across the Line of Control. He reported that 10 attempts were foiled, 27 terrorists were eliminated, and warlike stores + narcotics were recovered. He made **no statements** about China, Arunachal Pradesh, Asaphila, Longju, Taksing, denial of supplies, or deploying forces against local youth.[](<>)\n\nThe circulating version has digitally altered/fabricated audio overlaid on the old footage. Indian Army fact-check accounts and independent analysis have confirmed this. The claims that Lt Gen Kalia “admitted” Chinese control of those areas are false.[](<https://t.co/pxxpCGJL5R>)\n\n### Actual border situation (as of late October 2026)\n- Face-offs between Indian and Chinese troops have continued at **multiple locations** along the Arunachal Pradesh border. ITBP Director General Shatrujeet Kapur publicly confirmed this.[](<https://t.co/eG11b7RNnu>)\n- A specific stand-off has been ongoing since **late July 2026** near **Asaphila / Taksing** (Upper Subansiri district). Chinese PLA troops reportedly pitched tents roughly 6–7 km within India’s perception of the LAC near the Maja company operating base.\n- India has increased its deployment. Corps Commander-level talks were held in the Eastern Sector in September 2026.\n- Claims of full Chinese “control” of entire Asaphila, Longju, and Taksing circles are exaggerated and not supported by official statements. These are contested areas with differing perceptions of the LAC, not confirmed occupation of the circles as claimed in the deepfake.\n\n---\n\n### Suggested tweet (factual, clear, and shareable)\n\n```\n🚨 DEEPFAKE ALERT\n\nA manipulated video falsely claims Lt Gen Girish Kalia said China has taken control of Asaphila, Longju & Taksing in Arunachal Pradesh.\n\nFact: Original video is from 27 Oct 2023 — then Maj Gen Kalia was briefing in Kupwara (J&K) on Pakistani LoC infiltrations (10 attempts foiled, 27 terrorists eliminated). Audio was digitally altered.\n\nThere ARE ongoing face-offs with Chinese troops at multiple points in Arunachal (confirmed by ITBP DG), including a stand-off near Taksing since July. But the viral claims of “control” and the officer’s alleged statements are fake.\n\nVerify before sharing.\n#FactCheck #Deepfake\n```\n\nYou can copy-paste and post this (or tweak the tone if you prefer it shorter/more concise). Let me know if you want a shorter version, Hindi version, or any changes.",
+     "snippet": "**Corrected information**\n\nThe viral video is a **deepfake**. \n\nOriginal footage is from **27 October 2023**, when then **Maj Gen Girish Kalia** (GOC 28 Infantry Division) was briefing in **Kupwara, Jammu & Kashmir** about Pakistani infiltration attempts across the Line of Control. He reported that 10 attempts were foiled, 27 terrorists were eliminated, and warlike stores + narcotics were recovered. He made **no statements** about China, Arunachal Pradesh, Asaphila, Longju, Taksing, denial of supplies, or deploying forces against local youth.[](<>)\n\nThe circulating version has digitally altered/fabricated audio overlaid on the old footage. Indian Army fact-check accounts and independent analysis have confirmed this. The claims that Lt Gen Kalia “admitted” Chinese control of those areas are false.[](<https://t.co/pxxpCGJL5R>)\n\n### Actual border situation (as of late October 2026)\n- Face-offs between Indian and Chinese troops have continued at **multiple locations** along the Arunachal Pradesh border. ITBP Director General Shatrujeet Kapur publicly confirmed this.[](<https://t.co/eG11b7RNnu>)\n- A specific stand-off has been ongoing since **late July 2026** near **Asaphila / Taksing** (Upper Subansiri district). Chinese PLA troops reportedly pitched tents roughly 6–7 km within India’s perception of the LAC near the Maja company operating base.\n- India has increased its deployment. Corps Commander-level talks were held in the Eastern Sector in September 2026.\n- Claims of full Chinese “control” of entire Asaphila, Longju, and Taksing circles are exaggerated and not supported by official statements. These are contested areas with differing perceptions of the LAC, not confirmed occupation of the circles as claimed in the deepfake.\n\n---\n\n### Suggested tweet (factual, clear, and shareable)\n\n```\n🚨 DEEPFAKE ALERT\n\nA manipulated video falsely claims Lt Gen Girish Kalia said China has taken control of Asaphila, Longju & Taksing in Arunachal Pradesh.\n\nFact: Original video is from 27 Oct 2023 — then Maj Gen Kalia was briefing in Kupwara (J&K) on Pakistani LoC infiltrations (10 attempts foiled, 27 terrorists eliminated). Audio was digitally altered.\n\nThere ARE ongoing face-offs with Chinese troops at multiple points in Arunachal (confirmed by ITBP DG), including a stand-off near Taksing since July. But the viral claims of “control” and the officer’s alleged statements are fake.\n\nVerify before sharing.\n#FactCheck #Deepfake\n```\n\nYou can copy-paste and post this (or tweak the tone if you prefer it shorter/more concise). Let me know if you want a shorter version, Hindi version, or any changes.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Arun Sharma",
+     "handle": "@imarunsharma"
+    },
+    {
+     "url": "https://x.com/CitizenPulseX/status/2114376153159119106",
+     "title": "Nothing was done” is the claim you make when you need every Indian road, troop surge, app ban and 2024 patrolling deal to magically not coun",
+     "description": "Nothing was done” is the claim you make when you need every Indian road, troop surge, app ban and 2024 patrolling deal to magically not count.\n\nPost-Galwan, India matched Chinese force levels, took the Kailash heights, reoriented entire formations to the LAC and nearly tripled ITBP patrols. It built DS-DBO, Sela Tunnel and the Arunachal Frontier Highway ➡️ enough that China is now restricting tunnel-boring exports. \n\nIt banned ~300 Chinese apps, screened their FDI and froze normal ties until Depsang and Demchok access was restored, while locking in the Quad.​\n\nChina is still bigger. Pretending the response was zero still requires ignoring every concrete step that actually happened.🙅‍♂️🙆‍♂️",
+     "snippet": "Nothing was done” is the claim you make when you need every Indian road, troop surge, app ban and 2024 patrolling deal to magically not count.\n\nPost-Galwan, India matched Chinese force levels, took the Kailash heights, reoriented entire formations to the LAC and nearly tripled ITBP patrols. It built DS-DBO, Sela Tunnel and the Arunachal Frontier Highway ➡️ enough that China is now restricting tunnel-boring exports. \n\nIt banned ~300 Chinese apps, screened their FDI and froze normal ties until Depsang and Demchok access was restored, while locking in the Quad.​\n\nChina is still bigger. Pretending the response was zero still requires ignoring every concrete step that actually happened.🙅‍♂️🙆‍♂️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pulse of the People",
+     "handle": "@CitizenPulseX"
+    },
+    {
+     "url": "https://x.com/OsintNightmare/status/2114363960237363660",
+     "title": "DAMXUNG COUNTY AND THE PLA BASE BUILDUP IN EASTERN SECTOR.",
+     "description": "DAMXUNG COUNTY AND THE PLA BASE BUILDUP IN EASTERN SECTOR.\n\nThe Damxung county is located north of Lhasa (Tibetian Capital) and is operated under PLA's western theatre command and acts as a support field unlike Shigatse/Hotan and is connected to the G-109 highway to other parts of Tibet and into Qinghai and its distance from the Indian Border(LAC) is about 350 Kms and its good to remember that this base has in past hosted J-20 jets infact it was just a couple months ago and is an important PLA asset in the eastern sector of the Indian Border .I could get some images soured from Sentinal 2 , these images are very grainy so i apologise in advance .\n\n1)The first image shows the general layout of the Airfield in Damxung , this is the highlight of this county and has gone under siginficant improvements (i used G earth as a proxy to compare and this image is just from 3 days ago and the comparision is quite substantial) , first  of all the airfield seems to have improved and the apron is a little more improved and we can see possible shelters for aircraft although les in the field and there seems to be two new constructions behind the base (road connection)i guess these are communication facilities other than that this base is pretty barebones as of now when compared to Gonggar or Shigatse and the town below it has also significantly grown in last 5 years too we can see new construction sprouted up along the highway when compareed to 2021 sat imagery from G Earth.\n\n2)The second image is at the south eastern edge of the town  proper and from what they point out to from much clearer older images from G earth and other Geospatial providers is that they are either warehouses of industrial facilities or belong to the PLA . other possiblity is Ammo storehouse .\n\n3)The third image shows much more broad view of the central town of Damxung anf thr top msot part connecting top the Airfield has a entrance facility that too has been significantly built up by the Chinese Govt and houses personnel and staff quarters with a command centre of sorts (albeit small) and we can see the G-109 cutting through the Town and on the otuskirts the newer G-6 toll way runs through straight even cutting throuhg mountains by tunnels , this is massive investment and is officially called Jingzang Tollway (There are possible Airdefence facilities adjacent to this tollway which i will cover later as they are very grainy images so i will have to use older ones).\n\n4)The final image shows the continuation of the G-6 and G-109 east of the town and we can see another road that leads to the interior towns and assets(This again is intresting as i was able to stumble upon very intresting structures and patterns on the ground willl cover it later) and below these highways we can see village like structures in a triangular shape forming an intresting pattern (they appear every few hundred metres) actually branch out into the mountain valleys leading to lines of intresting structures by the rivers and streams (i could be wrong and they may be just villages with labour and farmers).\n\nI will try to post more of this area atleast individually as i have found one or two intresting looking structures like i mentioned , the main objective of posts like these is to observe the chinese development of frontier areas along India that gives depth by which o mean not the actual border villages which are a whole another story .If you like these posts or have to point out any errors i made please feel free to correct me in comments.\n\nSat Image credit -Sentinal from Pixxel and Copernicus",
+     "snippet": "DAMXUNG COUNTY AND THE PLA BASE BUILDUP IN EASTERN SECTOR.\n\nThe Damxung county is located north of Lhasa (Tibetian Capital) and is operated under PLA's western theatre command and acts as a support field unlike Shigatse/Hotan and is connected to the G-109 highway to other parts of Tibet and into Qinghai and its distance from the Indian Border(LAC) is about 350 Kms and its good to remember that this base has in past hosted J-20 jets infact it was just a couple months ago and is an important PLA asset in the eastern sector of the Indian Border .I could get some images soured from Sentinal 2 , these images are very grainy so i apologise in advance .\n\n1)The first image shows the general layout of the Airfield in Damxung , this is the highlight of this county and has gone under siginficant improvements (i used G earth as a proxy to compare and this image is just from 3 days ago and the comparision is quite substantial) , first  of all the airfield seems to have improved and the apron is a little more improved and we can see possible shelters for aircraft although les in the field and there seems to be two new constructions behind the base (road connection)i guess these are communication facilities other than that this base is pretty barebones as of now when compared to Gonggar or Shigatse and the town below it has also significantly grown in last 5 years too we can see new construction sprouted up along the highway when compareed to 2021 sat imagery from G Earth.\n\n2)The second image is at the south eastern edge of the town  proper and from what they point out to from much clearer older images from G earth and other Geospatial providers is that they are either warehouses of industrial facilities or belong to the PLA . other possiblity is Ammo storehouse .\n\n3)The third image shows much more broad view of the central town of Damxung anf thr top msot part connecting top the Airfield has a entrance facility that too has been significantly built up by the Chinese Govt and houses personnel and staff quarters with a command centre of sorts (albeit small) and we can see the G-109 cutting through the Town and on the otuskirts the newer G-6 toll way runs through straight even cutting throuhg mountains by tunnels , this is massive investment and is officially called Jingzang Tollway (There are possible Airdefence facilities adjacent to this tollway which i will cover later as they are very grainy images so i will have to use older ones).\n\n4)The final image shows the continuation of the G-6 and G-109 east of the town and we can see another road that leads to the interior towns and assets(This again is intresting as i was able to stumble upon very intresting structures and patterns on the ground willl cover it later) and below these highways we can see village like structures in a triangular shape forming an intresting pattern (they appear every few hundred metres) actually branch out into the mountain valleys leading to lines of intresting structures by the rivers and streams (i could be wrong and they may be just villages with labour and farmers).\n\nI will try to post more of this area atleast individually as i have found one or two intresting looking structures like i mentioned , the main objective of posts like these is to observe the chinese development of frontier areas along India that gives depth by which o mean not the actual border villages which are a whole another story .If you like these posts or have to point out any errors i made please feel free to correct me in comments.\n\nSat Image credit -Sentinal from Pixxel and Copernicus",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nightmare",
+     "handle": "@OsintNightmare"
+    },
+    {
+     "url": "https://x.com/randhirnegi9/status/2114318483119026251",
+     "title": "China's silent salami slicing strategy at LAC and would never like to resolve the border dispute untill grabbing the large parts of India.",
+     "description": "China's silent salami slicing strategy at LAC and would never like to resolve the border dispute untill grabbing the large parts of India. China cannot be trusted anyway. It's unfortunate that China is taking undue advantages of India's cordial trade relations & diplomacy with it",
+     "snippet": "China's silent salami slicing strategy at LAC and would never like to resolve the border dispute untill grabbing the large parts of India. China cannot be trusted anyway. It's unfortunate that China is taking undue advantages of India's cordial trade relations & diplomacy with it",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "negirandhir",
+     "handle": "@randhirnegi9"
+    },
+    {
+     "url": "https://x.com/Dig_raw21/status/2114371023730516128",
+     "title": "Sir this is ongoing tussle from decades there is no demarcation of LAC which both side agreed on , there are points where we visit till 12 P",
+     "description": "Sir this is ongoing tussle from decades  there is no demarcation of LAC which both side agreed on , there are points where we visit till 12 PM and come back to base  and then Chinese visit the same point later on  and later they go back to their base . Certain  sectors communication is great between local commanders so there are no issues , few points because of no clear communication we have confrontations with Chinese’s , both side keep enhancing the posture .",
+     "snippet": "Sir this is ongoing tussle from decades  there is no demarcation of LAC which both side agreed on , there are points where we visit till 12 PM and come back to base  and then Chinese visit the same point later on  and later they go back to their base . Certain  sectors communication is great between local commanders so there are no issues , few points because of no clear communication we have confrontations with Chinese’s , both side keep enhancing the posture .",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Maj Digvijay Singh Rawat, Kirti Chakra (Retd)",
+     "handle": "@Dig_raw21"
+    }
+   ]
+  }
+ ]
+}

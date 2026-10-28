@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "The Empowerers | Laos on the Move – Thailand Business News",
+   "url": "https://www.thailand-business-news.com/pr-news/the-empowerers-laos-on-the-move",
+   "snippet": "A railway cuts through the mountains and forests of Laos, helping transform the country from landlocked to land-linked. Along the way, it has also created relationships between Chinese mentors and young Lao railway workers that extend well beyond the tracks themselves.\n\nWith training and support from their Chinese colleagues, young Lao workers have grown from newcomers into skilled professionals, ",
+   "published": "Thu, 22 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese social media used to facilitate illegal wildlife trade in Laos | News | Eco-Business | Asia Pacific",
+   "url": "https://www.eco-business.com/news/chinese-social-media-used-to-facilitate-illegal-wildlife-trade-in-laos",
+   "snippet": "With the opening of the China-Laos Railway in 2021 and the lifting of China’s pandemic lockdowns in early 2023, Laos has become a top choice for Chinese tourists travelling abroad. According to the official Lao News Agency, nearly 1.16 million Chinese tourists arrived in the country in 2025.\n\nThe booming tourism has contributed to large-scale wildlife trafficking issues in Laos. In turn, Chinese s",
+   "published": "Wed, 21 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Empowerers | Laos on the Move",
+   "url": "https://www.prnewswire.com/apac/news-releases/the-empowerers--laos-on-the-move-302915498.html",
+   "snippet": "Continue Reading\n\nThe Empowerers | Laos on the Move\n\nThe Empowerers | Laos on the Move\n\n \n\nSpeed \n\nSpeed\n\nA railway cuts through the mountains and forests of Laos, helping transform the country from landlocked to land-linked. Along the way, it has also created relationships between Chinese mentors and young Lao railway workers that extend well beyond the tracks themselves. [...] รายงานข่าวจาก Peop",
+   "published": "Thu, 22 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Transport ministry plans China rail pact covering 7 areas in Q4 2026",
+   "url": "https://www.nationthailand.com/news/policy/40072640",
+   "snippet": "Closer railway connections between Thailand, China and Laos are intended to improve cross-border freight transport and regional supply chains, potentially creating longer-term opportunities for trade, investment and related industries\n\nThe Nation Editorial Team\n\n TAGS\n Transport Ministry\n China rail project\n Rail Transport\n transport infrastructure\n Logistics\n China\n Laos\n Breaking News\n\nMOST VIEW",
+   "published": "Fri, 23 Oct 2026 01:20:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pinglu Canal: Deepening ASEAN-China Connectivity - Lucio Blanco Pitlo III - CHINA US Focus",
+   "url": "https://www.chinausfocus.com/finance-economy/pinglu-canal-deepening-asean-china-connectivity",
+   "snippet": "Geographic proximity positions southern Chinese provinces as gateways to ASEAN, with infrastructure being a crucial piece. The China-Myanmar oil and gas pipeline, Laos-China railway, and the upgrading of the Haiphong-Kunming railway raise Yunnan’s profile. So does the linking of the Bangkok-Nong Khai high-speed rail, currently under construction, to the Laos-China railway via the Lao capital, Vien",
+   "published": "Fri, 23 Oct 2026 09:19:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China-Europe freight train trips via eastern corridor exceeded 6,000 this year_InKunming",
+   "url": "https://www.kunming.cn/en/c/2026-10-26/14082413.shtml",
+   "snippet": "Cross-border freight transported via the China-Laos Railway has exceeded 20 million tonnes since the line opened in December 2021, marking another milestone for...\n\n  InKunming 2026-07-09\n ### Xinhua Headlines: A decade on, China-Europe Railway Express ...\n\n  At logistics terminals across Europe, cranes unload containers arriving from China before the cargo is transported to factories, warehouses ",
+   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s New Air Base in Laos: A Dilemma for Việt Nam - The Vietnamese Magazine",
+   "url": "https://thevietnamese.org/2026/10/chinas-new-air-base-in-laos-a-dilemma-for-viet-nam",
+   "snippet": "Việt Nam is currently emphasizing concrete links to keep this bilateral relationship moving forward. These efforts include the Hà Nội–Vientiane road connection, the Vũng Áng–Vientiane railway, and ongoing plans to help Laos become a regional logistics hub. [...] As Laos grows more economically dependent on China, Vientiane may deliberately play its two partners against one another to maximize its ",
+   "published": "Mon, 26 Oct 2026 07:09:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China, Laos, Myanmar and Thailand launch joint Mekong River patrol - CGTN",
+   "url": "https://news.cgtn.com/news/2026-10-22/China-Laos-Myanmar-and-Thailand-launch-joint-Mekong-River-patrol-1RrKDloj58Q/p.html",
+   "snippet": "Video  14:24, 22-Oct-2026\n\nShare \n\n    \n\nQR  ;)\n\nCopied\n\nChina, Laos, Myanmar and Thailand kicked off their 170th joint Mekong River patrol on October 19. Chinese patrol boats set out from the Jingha police wharf in Xishuangbanna, Yunnan Province, to rendezvous with vessels from Laos and Myanmar. Commanders from all four countries are jointly leading the operation.\n\n00:32\n\nQR\n\nOpen in CGTN APP for",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China introduces new freight timetable",
+   "url": "https://www.railjournal.com/freight/china-introduces-new-freight-timetable",
+   "snippet": "THE new national freight timetable in China introduced on October 10 includes eight high-speed services travelling at up to 160km/h, 58 fast trains at up to",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Yunnan cultural tourism promoted at half marathon in Laos",
+   "url": "https://global.chinadaily.com.cn/a/202610/27/WS6ae038dce4b06d4aa0564fd3.html",
+   "snippet": "On Saturday, a Yunnan province cultural and tourism promotion event was held alongside the Run for Children Luang Prabang Half Marathon in Laos,",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "la_wide",
  "_query": "Laos China railway",
  "_domains": [],

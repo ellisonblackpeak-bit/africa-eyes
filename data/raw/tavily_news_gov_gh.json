@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Assessing Ghana's Government Policy on Contract Mining and Local Economic Benefits",
+   "url": "https://www.modernghana.com/news/1539474/assessing-ghanas-government-policy-on-contract.amp",
+   "snippet": "In conclusion, Ghana's contract mining policy presents a significant opportunity to transform the country's mining sector into a stronger engine of local economic development. By empowering indigenous Ghanaian companies to undertake mining operations, the policy has the potential to create sustainable employment, promote local entrepreneurship, retain more value within the domestic economy, reduce",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "New Economy policy must address Ghana’s skills gap and import dependence – Sam Okudzeto",
+   "url": "https://www.modernghana.com/news/1538410/new-economy-policy-must-address-ghanas-skills.html",
+   "snippet": "According to him, Ghana should be working towards self-sufficiency in food production rather than relying heavily on imports from countries such as Vietnam and Thailand.\n\nThe government’s proposed New Economy Policy is intended to move Ghana beyond economic stabilisation towards increased production, job creation and wealth generation. [...] THU, 22 OCT 2026\n\nPrivate legal practitioner and statesm",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "$10bn New Economy Policy must prioritise agricultural value addition – Peasant Farmers",
+   "url": "https://www.citinewsroom.com/2026/10/10bn-new-economy-policy-must-prioritise-agricultural-value-addition-peasant-farmers",
+   "snippet": "The Association is also seeking clarity on how the proposed New Economy Policy will relate to the government’s existing Feed Ghana programme.\n\nMr Nortey questioned whether the new policy would complement the programme or provide the framework for its implementation.\n\nHe said a clear outline of the planned interventions would help farmers and other stakeholders understand how the government intends",
+   "published": "Mon, 26 Oct 2026 05:19:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana must align climate policy with economic competitiveness – Seidu Issifu  | Ghana News Agency",
+   "url": "https://gna.org.gh/2026/10/ghana-must-align-climate-policy-with-economic-competitiveness-seidu-issifu",
+   "snippet": "The Minister further urged business leaders to assess their exposure to climate risks, improve energy efficiency, strengthen sustainability data and explore financing opportunities for cleaner production and climate-resilient business models.\n\n“Government, in turn, must provide policy clarity, predictable implementation, institutional coordination and constructive engagement with industry to creat",
+   "published": "Tue, 27 Oct 2026 18:16:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Use budget to implement 24-hour economy in phases – Prof Bokpin to govt",
+   "url": "https://www.modernghana.com/news/1538119/use-budget-to-implement-24-hour-economy-in-phases.html",
+   "snippet": "Launched in July 2025, the 24-hour economy policy was designed to create an economy that operates around the clock, making Ghana self‑reliant and export‑driven through multisectoral productivity and industrialisation, while creating jobs.\n\nIn a July update, the 24-Hour Economy and Accelerated Export Development Secretariat said some 268 filling stations and 33 manufacturers were running the intend",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana must turn climate policy into jobs and investment - Climate Change Minister | 3News",
+   "url": "https://www.3news.com/news/ghana-must-turn-climate-policy-into-jobs-and-investment-climate-change-minister",
+   "snippet": "2 min read\n\nShare\n\nAdd 3News as your preferred source on GooglePreferred source\n\nArticle tools\n\n## Listen to this article\n\nPlayback position\n\n0:001:56\n\nThe Minister of State for Climate Change and Sustainability, Seidu Issifu, has called on government and the private sector to translate Ghana’s climate policies into jobs, investment and practical economic opportunities. [...] Under the theme “Deco",
+   "published": "Tue, 27 Oct 2026 18:58:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Calls grow for binding national policy agenda to drive Ghana’s economic stability",
+   "url": "https://www.modernghana.com/news/1539966/calls-grow-for-binding-national-policy-agenda-to.amp",
+   "snippet": "Ghana's economic challenges have renewed calls from some citizens for a fundamental change in the way the country formulates and implements national",
+   "published": "Wed, 28 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tracking Ghana - IMF Policy Coordination Instrument | Big Analysis",
+   "url": "https://www.modernghana.com/videonews/joynews/1/740502",
+   "snippet": "Illegal mining: Sammy Gyamfi defends call to formalise unlicensed small-scale miners.\n\nIllegal mining: Sammy Gyamfi defends call to formalise unlicensed small-scale miners.\n\n23.10.2026 | JoyNews\n\nJoyNews uncovers pressure on Obuasi SHTS rape complainant to withdraw her allegation.\n\nJoyNews uncovers pressure on Obuasi SHTS rape complainant to withdraw her allegation.\n\n23.10.2026 | JoyNews\n\nProposed",
+   "published": "Sat, 24 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NDC must maintain policy consistency to perform better – Asiedu Nketia",
+   "url": "https://www.modernghana.com/news/1539991/ndc-must-maintain-policy-consistency-to-perform.html",
+   "snippet": "The National Chairman of National Democratic Congress (NDC) Johnson Asiedu Nketia has called for policy consistency under the party 39;s governments .",
+   "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Mineworkers’ Union denies Government’s claim of consultations on contract mining",
+   "url": "https://3news.com/news/ghana-mineworkers-union-denies-governments-claim-of-consultations-on-contract-mining",
+   "snippet": "The Ghana Mineworkers' Union (GMWU) has rejected claims by the Ministry of Lands and Natural Resources that it has held extensive consultations with the",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_gh",
  "_query": "Ghana government policy",
  "_domains": [],

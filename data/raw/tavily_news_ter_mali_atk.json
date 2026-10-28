@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "West Africa Monthly Report: September 2026",
+   "url": "https://www.genocidewatch.com/single-post/west-africa-monthly-report-september-2026",
+   "snippet": "In September 2026, Mali continued to face escalating armed conflict and a worsening humanitarian situation. On Sept. 10, the al-Qaeda-linked armed group Jama’at Nusrat al-Islam Wal-Muslimin (JNIM) attacked a Malian army camp in Dioura, central Mali. Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM) claimed responsibility for killing and capturing large numbers of soldiers, although its casualty figures",
+   "published": "Tue, 27 Oct 2026 07:00:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Military ups death toll in Mali attack to 54",
+   "url": "https://citizen.digital/article/military-ups-death-toll-in-mali-attack-to-54-n392703",
+   "snippet": "Following the attack, a patrol was launched in the area which \"discovered fifty-four (54) lifeless bodies in a camp in Tagadayat\", Mali's armed forces said.\n\nSources had previously indicated to AFP that at least 48 people had died.\n\nThe armed forces said that the victims were buried on site and that nine survivors were evacuated to the city of Menaka.\n\nIt added that testimonies indicated that the ",
+   "published": "Sun, 25 Oct 2026 11:21:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/22/mali-army-russias-africa-corps-commit-new-abuses",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
+   "snippet": "The attack on the Dioura military barracks in central Mali on September 10 killed at least 150 soldiers and, according to claims, 95 soldiers were kidnapped. This was followed by the September 24 attack on Djenné. Nighttime attacks with mortar and rocket fire, guided by drones, on Sévaré airport, also in central Mali, further confirm JNIM’s military capacity, as demonstrated by the simultaneous, c",
+   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali drone strike kills 13 civilians, activists say; army says it targeted militants",
+   "url": "https://www.kare11.com/article/syndication/associatedpress/mali-drone-strike-kills-13-civilians-activists-say-army-says-it-targeted-militants/616-d424e4db-15e9-4725-aa67-d9f3a75d2348",
+   "snippet": "Local human rights activists and a separatist group say Mali's military killed at least 13 civilians in a drone strike earlier this week near the Mauritania",
+   "published": "Wed, 28 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Ukraine may be involved in Mali's conflict",
+   "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
+   "snippet": "In July 2024, DW reported on possible involvement by the Ukrainian military intelligence service (HUR) in an ambush on Russian Wagner fighters near Tinzaouaten in northern Mali.\n\nAt the time, HUR spokesperson Andriy Yusov said the Tuareg rebels had received information they needed to carry out the attack. Ukraine denied direct involvement.\n\n## Jihadist groups in Africa and their links\n\nParamilitar",
+   "published": "Mon, 26 Oct 2026 14:58:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia completes $53 million military investment in another African country after supplying it with six Mi-28 attack helicopters | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/russia-completes-dollar53-million-military-investment-in-another-african-country/d9k47qr",
+   "snippet": "Uganda joins Algeria among Africa's few operators of Russia's Mi-28 attack helicopters, with the North African country having acquired 42 Mi-28NE Night Hunter aircraft between 2016 and 2020 under a wider helicopter deal estimated at $2.7 billion.\n\nMali, Burkina Faso and Niger also operate Russian-made attack helicopters, including Mi-24 and Mi-35 variants, reflecting Moscow's presence in Africa's ",
+   "published": "Sun, 25 Oct 2026 17:12:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - France 24",
+   "url": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
+   "snippet": "Read next\n\nThe Trans-Saharan Gas Pipeline will connect two gas-producing powerhouses that together account for more than half of Africa's natural gas production and reserves: Algeria and Nigeria\n\n## Trans-Saharan Gas Pipeline: an African dream that could reshape world energy markets\n\nThis photograph shows the logo of the Malian Armed Forces during a meeting between members of the Tamouzok Associat",
+   "published": "Mon, 26 Oct 2026 10:10:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "On Our Radar",
+   "url": "https://www.crisisgroup.org/sco/global/our-radar",
+   "snippet": "On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group's analysts are closely watching.",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mali_atk",
  "_query": "Mali army attack",
  "_domains": [],

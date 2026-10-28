@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | October 28th, 2026 – Evening",
+   "url": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-evening",
+   "content": "Catch up with the most important stories from around Europe and beyond this October 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Wed, 28 Oct 2026 18:00:26 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "60.000 runners, two million spectators, one city: New York gets ready for marathon day",
+   "url": "https://www.euronews.com/2026/10/28/60000-runners-two-million-spectators-one-city-new-york-gets-ready-for-marathon-day",
+   "content": "New York will become the running capital of the world this Sunday. On November 1, nearly 60,000 people will line up at the start of the NYC Marathon, one of the world’s most iconic races. But what’s getting people running?",
+   "published_date": "Wed, 28 Oct 2026 17:48:39 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Spain: Rescuers search mangled train wreckage near Toledo",
+   "url": "https://www.euronews.com/video/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo",
+   "content": "At least 68 people have been killed and dozens more injured after two high-speed trains collided near Urda, in central Spain’s Toledo province, on Wednesday, 28 October. Authorities warned the toll could rise further as rescuers searched the wreckage.",
+   "published_date": "Wed, 28 Oct 2026 16:54:11 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Trump rolls back methane rules for US oil and gas industry",
    "url": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry",
    "content": "Trump is seeking to lower energy costs ahead of next week's midterm elections, as rising oil prices linked to the US war with Iran fuel voter frustration.",
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav",
    "content": "With no party expected to win an outright majority, weeks of coalition talks could follow a vote being closely watched in European capitals.",
    "published_date": "Tue, 27 Oct 2026 10:12:16 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Trump calls Norway a ‘shithouse country’ over Nobel Peace Prize snub",
-   "url": "https://www.euronews.com/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub",
-   "content": "US President Donald Trump has launched a fresh verbal attack on Norway, branding the Nordic nation a “shithouse country”.",
-   "published_date": "Tue, 27 Oct 2026 10:07:27 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Merz courts Asian investors as he insists Europe remains a safe bet",
-   "url": "https://www.euronews.com/2026/10/27/merz-courts-asian-investors-as-he-insists-europe-remains-a-safe-bet",
-   "content": "The German chancellor's upbeat pitch comes at a time of mounting pressure in Berlin, where a ministerial resignation and rising far-right support have left the chancellor’s coalition on shaky ground.",
-   "published_date": "Tue, 27 Oct 2026 09:17:44 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Israel: October 7 families remember victims as voters head to polls",
-   "url": "https://www.euronews.com/video/2026/10/27/israel-october-7-families-remember-victims-as-voters-head-to-polls",
-   "content": "In Tel Aviv, families affected by the 7 October 2023 attacks observed a moment of silence as polling stations were opening across Israel for the general election.",
-   "published_date": "Tue, 27 Oct 2026 09:08:49 +0100",
    "score": 0.6
   }
  ],

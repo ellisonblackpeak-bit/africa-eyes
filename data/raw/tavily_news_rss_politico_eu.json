@@ -2,9 +2,30 @@
  "success": true,
  "results": [
   {
+   "title": "Billionaires shatter spending record to fight California wealth tax",
+   "url": "https://www.politico.eu/article/billionaires-shatter-spending-record-to-fight-california-wealth-tax/",
+   "content": "It’s a striking and historic show of unity from a notoriously hard-to-organize donor class, a POLITICO analysis shows.",
+   "published_date": "Wed, 28 Oct 2026 15:22:23 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "UK vows defense spending boost by 2030 but dodges hard questions",
+   "url": "https://www.politico.eu/article/uk-vows-defense-spending-boost-by-2030-but-dodges-hard-questions-john-healey/",
+   "content": "John Healey committed to spending 3% of GDP on the nation's defences by 2030 but declined to say where he would find the money.",
+   "published_date": "Wed, 28 Oct 2026 15:18:40 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU set to scrap ‘associate member’ offer for Canada",
+   "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/",
+   "content": "A group of countries including Germany, Greece and France all objected to mentioning associate membership in a joint EU-Canada statement.",
+   "published_date": "Wed, 28 Oct 2026 14:50:24 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Healey targets Brits’ energy costs, raids banks in first budget",
    "url": "https://www.politico.eu/article/healey-targets-brits-energy-costs-raids-banks-in-first-budget/",
-   "content": "Britain's chancellor also slashes his fiscal buffer in first budget of the Andy Burnham era.",
+   "content": "Britain's chancellor unveils first budget of the Andy Burnham era — as watchdog reveals decade-long pressure on living standards.",
    "published_date": "Wed, 28 Oct 2026 13:37:52 +0000",
    "score": 0.6
   },
@@ -44,31 +65,10 @@
    "score": 0.6
   },
   {
-   "title": "At least 64 people die in major Spanish train crash",
+   "title": "At least 68 people die in major Spanish train crash",
    "url": "https://www.politico.eu/article/renfe-spain-urda-toledo-10-dead-second-serious-train-crash/",
    "content": "The collision brings back memories of the January train crash in Adamuz, which killed 46 people.",
    "published_date": "Wed, 28 Oct 2026 10:39:12 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UK’s Streeting to visit Berlin for defense talks with Pistorius",
-   "url": "https://www.politico.eu/article/wes-streeting-to-visit-berlin-for-defense-talks-with-boris-pistorius/",
-   "content": "The British defense secretary will meet his German counterpart in Berlin for talks on NATO, Ukraine and joint weapons projects as the two countries deepen military cooperation.",
-   "published_date": "Wed, 28 Oct 2026 09:39:37 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Will Andy Burnham actually like his own budget?",
-   "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/will-andy-burnham-actually-like-his-own-budget/",
-   "content": "It’s budget day – and it’s a critical moment for the chancellor and the UK economy. So, what are the plans to ease the squeeze on household bills and the cost-of-living crisis? Sam Coates and Anne McElvoy unpack the high-stakes decisions facing the government, and how John Healey plans to raise billions in additional revenue […]",
-   "published_date": "Wed, 28 Oct 2026 08:10:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "The Putin call dividing EU leaders",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-putin-call-dividing-eu-leaders/",
-   "content": "Europe’s united front on Ukraine is showing cracks. Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre have opened a direct line to Vladimir Putin, drawing criticism from some fellow European leaders — even as Ukraine backs their efforts. Nicholas Vinocur and Paul Dallison examine the fallout and the growing scramble over who […]",
-   "published_date": "Wed, 28 Oct 2026 05:05:00 +0000",
    "score": 0.6
   }
  ],

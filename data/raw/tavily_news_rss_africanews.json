@@ -2,10 +2,80 @@
  "success": true,
  "results": [
   {
+   "title": "Africa Ebola outbreak passes 10,000 cases, mostly in DR Congo",
+   "url": "http://www.africanews.com/2026/10/28/africa-ebola-outbreak-passes-10000-cases-mostly-in-dr-congo/",
+   "content": "Africa's latest outbreak of Ebola has passed 10,000 confirmed cases, the vast majority of them in the Democratic Republic of Congo, the Congolese health authorities said on Tuesday, with almost 5,000 fatalities.",
+   "published_date": "Wed, 28 Oct 2026 17:24:34 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "King Charles III's Caribbean tour renews calls for UK slavery reparations",
+   "url": "http://www.africanews.com/2026/10/28/king-charles-iiis-caribbean-tour-renews-calls-for-uk-slavery-reparations/",
+   "content": "The British king begins a tour of the Caribbean today, during which he will visit several former British colonies. It has renewed calls for the UK to apologies and pay reparations for its role in the slave trade.",
+   "published_date": "Wed, 28 Oct 2026 17:20:23 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Oil slick from Strait of Hormuz reaches UAE's northern coast",
+   "url": "http://www.africanews.com/2026/10/28/oil-slick-from-strait-of-hormuz-reaches-uaes-northern-coast/",
+   "content": "An oil slick from a tanker attacked in the Strait of Hormuz has reached the United Arab Emirates.",
+   "published_date": "Wed, 28 Oct 2026 16:22:09 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Spain: Rescuers search mangled train wreckage near Toledo",
+   "url": "http://www.africanews.com/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo/",
+   "content": "At least 68 people have been killed and dozens more injured after two high-speed trains collided near Urda, in central Spain’s Toledo province, on Wednesday, 28 October. Authorities warned the toll could rise further as rescuers searched the wreckage.",
+   "published_date": "Wed, 28 Oct 2026 17:22:31 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Humanitarian situation worsening in Sudan's camps for displaced people",
+   "url": "http://www.africanews.com/2026/10/28/humanitarian-situation-worsening-in-sudans-camps-for-displaced-people/",
+   "content": "Displaced and official at Al-Karama 3 camp in the city of El-Damazin in Sudan's Blue Nile state say the humanitarian conditions are deteriorating in the camp, as war rages in the country. \"The camp hasn't received any food aid for four months now,\" says the camp's manager.",
+   "published_date": "Wed, 28 Oct 2026 15:53:54 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Bolsonaro’s son and family flee to Miami after refusing to concede",
+   "url": "http://www.africanews.com/2026/10/28/bolsonaros-son-and-family-flee-to-miami-after-refusing-to-concede/",
+   "content": "Flávio Bolsonaro and his family landed in Miami on Monday after leaving Brazil, following his defeat in the presidential election.",
+   "published_date": "Wed, 28 Oct 2026 15:50:40 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Britain's King Charles III attends youth rally in the Bahamas",
+   "url": "http://www.africanews.com/2026/10/28/britains-king-charles-iii-attends-youth-rally-in-the-bahamas/",
+   "content": "Britain’s King Charles III on Tuesday addressed a youth gathering at Clifford Park in Nassau, recalling the Bahamas’ independence celebrations in 1973 and highlighting the country’s cultural achievements and vulnerability to climate change.",
+   "published_date": "Wed, 28 Oct 2026 15:47:20 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "South Sudan independence figure Joseph Lagu dies aged 94",
+   "url": "http://www.africanews.com/2026/10/28/south-sudan-independence-figure-joseph-lagu-dies-aged-94/",
+   "content": "South Sudan is observing national mourning on Wednesday following the death of Joseph Lagu, a key figure in the independence of the world's youngest country, who told AFP that he began his fight armed with only \"a machete\".",
+   "published_date": "Wed, 28 Oct 2026 15:13:08 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Tanzania announces first major gas discovery in a decade",
+   "url": "http://www.africanews.com/2026/10/28/tanzania-announces-first-major-gas-discovery-in-a-decade/",
+   "content": "Tanzania has announced its first natural gas discovery in a decade, with an estimated 223 billion cubic feet found at the Kasa-1X ST2 well in the Mnazi Bay area.",
+   "published_date": "Wed, 28 Oct 2026 14:48:50 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Pix of the Day, 28th October, 2026 - Across the world",
+   "url": "http://www.africanews.com/2026/10/28/pix-of-the-day-28th-october-2026-across-the-world/",
+   "content": "Pix of the Day, 28th October, 2026 - Across the world",
+   "published_date": "Wed, 28 Oct 2026 14:34:25 +0000",
+   "score": 0.6
+  },
+  {
    "title": "South African activists push back on data centre rush",
    "url": "http://www.africanews.com/2026/10/28/south-african-activists-push-back-on-data-centre-rush/",
    "content": "Civil society groups have demanded a halt in the construction of new AI centres in South Africa. The prospect of a water- and power-hungry hyperscale data centre near areas of the city where thousands of people lack proper access to these resources has alarmed activists.",
-   "published_date": "Wed, 28 Oct 2026 14:16:17 +0000",
+   "published_date": "Wed, 28 Oct 2026 14:27:14 +0000",
    "score": 0.6
   },
   {
@@ -139,76 +209,6 @@
    "url": "http://www.africanews.com/2026/10/27/myanmar-spectacular-lantern-festival-lights-up-ancient-temples-in-bagan/",
    "content": "Hundreds of glowing lanterns floated into the night sky above Bagan's ancient pagodas. Thousands gathered to celebrate Thadingyut, Myanmar's Festival of Lights marking the end of Buddhist Lent.",
    "published_date": "Tue, 27 Oct 2026 15:57:57 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "DRC's former leader Kabila is Rwandan 'proxy,' Tshisekedi tells lawmakers",
-   "url": "http://www.africanews.com/2026/10/27/drcs-former-leader-kabila-is-rwandan-proxy-tshisekedi-tells-lawmakers/",
-   "content": "DR Congo's former president, Joseph Kabila, is a Rwandan stooge, his successor Felix Tshisekedi told lawmakers on Tuesday. Kabila this month joined forces with the Kigali-backed M23 armed group that's been leading an insurgency in eastern DRC for more than a decade.",
-   "published_date": "Tue, 27 Oct 2026 15:39:05 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Kylian Mbappé faces China backlash as major brands cut ties over Mao meme controversy",
-   "url": "http://www.africanews.com/2026/10/27/kylian-mbappe-faces-china-backlash-as-major-brands-cut-ties-over-mao-meme-controversy/",
-   "content": "Football superstar Kylian Mbappé is a familiar face across China but that could soon change. The Real Madrid forward has reportedly been dropped by two major Chinese brands after a video circulated online in which he appeared to joke about former Chinese leader Mao Zedong.",
-   "published_date": "Tue, 27 Oct 2026 15:01:55 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Egypt detains journalist Lina Attalah after court ruling",
-   "url": "http://www.africanews.com/2026/10/27/egypt-detains-journalist-lina-attalah-after-court-ruling/",
-   "content": "Egyptian journalist Lina Attalah, editor-in-chief of the country's leading independent news outlet Mada Masr, was detained by security forces after being fined in a swift trial on Tuesday, the publication said.",
-   "published_date": "Tue, 27 Oct 2026 14:48:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "How the Svalbard seed vault could help protect Africa's food future",
-   "url": "http://www.africanews.com/2026/10/27/how-the-svalbard-seed-vault-could-help-protect-africas-food-future/",
-   "content": "Frozen in the Arctic: How the Svalbard seed vault could help protect Africa's food future",
-   "published_date": "Tue, 27 Oct 2026 14:34:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Benin fashion show takes inspiration from the seabed",
-   "url": "http://www.africanews.com/2026/10/27/benin-fashion-show-takes-inspiration-from-the-seabed/",
-   "content": "A fashion show on the shores of Lake Toho in Ouidah to unveil 16 new indigo patterns inspired by the ocean.",
-   "published_date": "Tue, 27 Oct 2026 14:45:41 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "NASA astronaut Christina Koch on life in space, humanity and her African connection",
-   "url": "http://www.africanews.com/2026/10/27/nasa-astronaut-christina-koch-on-life-in-space-humanity-and-her-african-connection/",
-   "content": "In an exclusive interview with Africanews on the sidelines of the ceremony, Koch reflected on how seeing Earth from space changed her perspective on humanity, global cooperation and the importance of diversity in exploration.",
-   "published_date": "Tue, 27 Oct 2026 13:47:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Tanzania's jailed opposition leader Tundu Lissu begins hunger strike",
-   "url": "http://www.africanews.com/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-begins-hunger-strike/",
-   "content": "Tanzania's jailed opposition leader Tundu Lissu has begun a hunger strike in protest at his inability to access his lawyers. The Chadema party leader began refusing food on Monday after his legal team was barred entry to Ukonga prison, where he's being held.",
-   "published_date": "Tue, 27 Oct 2026 15:44:18 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Israelis vote in pivotal election as Netanyahu faces challenge from Eisenkot",
-   "url": "http://www.africanews.com/2026/10/27/israelis-vote-in-pivotal-election-as-netanyahu-faces-challenge-from-eisenkot/",
-   "content": "Prime Minister Benjamin Netanyahu cast his ballot in Jerusalem, urging Israelis to vote “the right way” in a pivotal election.",
-   "published_date": "Tue, 27 Oct 2026 12:56:10 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Qatar sends 15 buses to Senegal ahead of Dakar 2026 Youth Olympics",
-   "url": "http://www.africanews.com/2026/10/27/qatar-sends-15-buses-to-senegal-ahead-of-dakar-2026-youth-olympics/",
-   "content": "With just days to go before the start of the Dakar 2026 Youth Olympic Games, 15 buses gifted by Qatar arrived in the Senegalese capital. They're part of a Qatari initiative to support nations hosting international sporting events.",
-   "published_date": "Tue, 27 Oct 2026 11:09:13 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ethiopia: At least 60 Christians killed in attacks in Oromia region",
-   "url": "http://www.africanews.com/2026/10/27/ethiopia-at-least-60-christians-killed-in-attacks-in-oromia-region/",
-   "content": "Religious authorities said all the victims were Christians but provided no further details about those responsible for the attacks.",
-   "published_date": "Tue, 27 Oct 2026 10:48:26 +0000",
    "score": 0.6
   }
  ],

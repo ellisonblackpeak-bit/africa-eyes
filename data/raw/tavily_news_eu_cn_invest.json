@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese Investment in the EU | FTI Consulting",
+   "url": "https://www.fticonsulting.com/insights/articles/chinese-investment-eu-managing-fsr-fdi-screening-risk",
+   "snippet": "# Chinese Investment in the EU: Managing FSR and FDI Screening Risk\n\n October 27, 2026\n Share\n\n  Back to top\n\nAs Europe expands its scrutiny of foreign investment, outbound capital and state-linked support, Chinese companies pursuing transactions in the region increasingly need to navigate two overlapping regulatory frameworks: the European Union’s (“EU”) Foreign Subsidies Regulation (“FSR”) and t",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Comments to the European Commission Regarding Its ‘Diversify EU’ Proposal | Testimonies & Filings | Oct 27, 2026 | ITIF",
+   "url": "https://itif.org/publications/2026/10/27/comments-to-the-european-commission-regarding-its-diversify-eu-proposal",
+   "snippet": "China’s subsidized manufacturing overcapacity threatens the EU’s long-term competitiveness. Subsidized production in Mainland China—and increasingly through outward foreign direct investment from Chinese companies—displaces European suppliers, while technology theft weakens returns on their innovation investments.(#_edn3) European investments in China can serve as a bargaining tool, given China’s ",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Is Building Its Way Around Europe’s EV Tariffs - Revista de Prensa",
+   "url": "https://www.almendron.com/tribuna/china-is-building-its-way-around-europes-ev-tariffs",
+   "snippet": "In Thailand, for example, China is a key investor in the Eastern Economic Corridor, a flagship regional development initiative anchored by a high-speed railway that will connect several Thai cities and seaports to China. The corridor has, in turn, provided an attractive environment for private Chinese investment. China is now the corridor’s largest source of foreign direct investment, primarily in",
+   "published": "Wed, 28 Oct 2026 05:06:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China voices concern over EU trade restrictions",
+   "url": "https://www.chinadailyasia.com/article/641879",
+   "snippet": "Lange welcomed Chinese investment in Europe and voiced support for WTO reform. He said the European Parliament's Committee on International Trade supports continued bilateral consultations to manage differences and is willing to play an active role in facilitating dialogue.\n\nTRENDING\n\n1\n\nMerck taps HK as biotech innovation shifts east toward China2\n\nFlavio Bolsonaro drops bid to annul Brazil's pre",
+   "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+   "snippet": "The proposed plant in Ferrol embodies the trade-off between short-term economic opportunity and long-term risk that these Chinese investments present to Europe.\n\n## Related Content\n\nAdvertisement [...] vehicle investments have grown faster over the past year than anywhere else in Europe. [...] Now the city, long since marred by industrial decay, unemployment and declining population, is becoming k",
+   "published": "Wed, 28 Oct 2026 04:01:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Licensable video: France: China-Europe cooperation takes center stage at Paris economic forum",
+   "url": "https://www.reutersconnect.com/item/france-china-europe-cooperation-takes-center-stage-at-paris-economic-forum/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExOTg2NTQ",
+   "snippet": "【Voice_over】 There's plenty to talk about here in Paris. Where to invest, what to invest in. And who to partner with. Economist Ni Jincheng says Europe's",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What the EU–China trade deal means for Asia | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/26/what-the-eu-china-trade-deal-means-for-asia",
+   "snippet": "In this week’s lead article, Alicia García-Herrero argues that increased EU protectionism in the form of trade instruments capable of rapidly shutting down entire sectors of Chinese trade to Europe would ‘change the calculus’ for Asian governments. Increasing volumes of redirected Chinese exports to Asia would heighten competition for competing Asian exporters. Scrutiny on Chinese manufacturing in",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China and the EU could turn Morocco into a surprise global hub for electric vehicles | ODI: Think change",
+   "url": "https://odi.org/en/insights/china-and-the-eu-could-turn-morocco-into-a-surprise-global-hub-for-electric-vehicles",
+   "snippet": "Chinese firms producing cars in Morocco avoid exposure to those EU tariffs, and have announced US$6 billion (£4.5 billion)of investment in battery and electric car component plants in the country.\n\nAs a production base, Morocco has plenty of other advantages too. Its deep-water port in Tangier is the largest in Africa and the Mediterranean. It is also surrounded by state-sponsored industrial zones",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU readying for major Australian resources investment, ambassador says | Reuters",
+   "url": "https://www.reuters.com/world/eu-readying-major-australian-resources-investment-ambassador-says-2026-10-27",
+   "snippet": "SYDNEY, Oct 27 (Reuters) - The European ​Union expects a wave of investment into the Australian critical minerals sector as it ‌pushes to diversify its supply chain away from China, the bloc's ambassador to Australia Lawrence Meredith said on Tuesday.\n\nAustralia and the European Union struck a free trade agreement in March after eight years of negotiations, removing tariffs on almost all goods ​an",
+   "published": "Tue, 27 Oct 2026 08:57:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Subscribe to read",
+   "url": "https://www.ft.com/content/87193801-4057-4fad-b667-ac64ba230efa?syn-25a6b1a6=1",
+   "snippet": "### For multiple readers\n\nDigital access for organisations. Includes exclusive features and content. [...] # The rise of Africa’s Chinese factories\n\n## Save 40% on Standard Digital\n\nwas MX$11988 now MX$7175 for your first year.\n\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October.\n\n## Explore more offers.\n\n",
+   "published": "Thu, 22 Oct 2026 13:26:47 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_invest",
  "_query": "Chinese investment Europe",
  "_domains": [],

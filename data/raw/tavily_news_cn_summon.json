@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Alibaba, JD shares slide on more Chinese regulatory scrutiny By Investing.com",
+   "url": "https://au.investing.com/news/stock-market-news/alibaba-jd-shares-slide-on-more-chinese-regulatory-scrutiny-4706403",
+   "snippet": "Investing.com-- Alibaba and JD.com shares fell in Hong Kong trade on Thursday after the two and several other e-commerce firms were summoned by China's",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "\"Will Govt summon Chinese delegation or remain pleasant and superficial?\" SP MP Rajeev Rai questions Centre",
+   "url": "https://www.indiasnews.net/news/279399417/will-govt-summon-chinese-delegation-or-remain-pleasant-and-superficial-sp-mp-rajeev-rai-questions-centre",
+   "snippet": "Demanding clarity on India's diplomatic posture toward China amid the proceedings, Rai posed a direct question to the Union Government, 'Furthermore, for all 140 crore of us, a key question arises: will the Government of India summon the Chinese delegation to register a formal protest or convey its stance, or will everything remain pleasant and superficial?' [...] Rai charged that developmental pr",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘Not to find scapegoats’: Singapore ministers summon bosses of 10 firms over haze | South China Morning Post",
+   "url": "https://www.scmp.com/week-asia/health-environment/article/3372479/not-find-scapegoats-singapore-ministers-summon-bosses-10-firms-over-haze",
+   "snippet": "Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Minister for Sustainability and the Environment Grace Fu laid out expectations by the government, including its plan to strengthen laws targeting polluters.\n\nSelect Voice\n\nSelect Speed\n\nAI-generated voice [...] Kolette Limin Singapore\n\nIn a rare move, Singapore on Wednesday summoned top executives from 10 locally registered compan",
+   "published": "Wed, 28 Oct 2026 14:51:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes - CNA",
+   "url": "https://www.channelnewsasia.com/singapore/haze-companies-meeting-shanmugam-grace-fu-6498811",
+   "snippet": "#### Trending Topics\n\nCNA Explains   China   artificial intelligence   Indonesia   Malaysia   podcasts   Wellness   Thailand   Japan\n\nAdvertisement\n\nAdvertisement\n\nSingapore\n\n# Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes [...] Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Minister for Sustainability and the Environm",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Singapore to amend haze law at next Parliament sitting, making non-compliance an offence: Grace Fu",
+   "url": "https://news.theonlinecitizen.com/2026/10/28/singapore-to-amend-haze-law-at-next-parliament-sitting-making-non-compliance-an-offence-grace-fu",
+   "snippet": "\"Singaporeans should not have to bear the health and environmental costs of irresponsible business conduct. Even as the haze condition improves, we will not relent,\" Fu said.\n\n### Ten companies summoned for rare closed-door meeting with senior ministers\n\nThe announcement followed a closed-door meeting attended by Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Fu. [...] Golden ",
+   "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Alibaba Stock Slips as China Renews Regulatory Pressure<!-- --> - Barron's",
+   "url": "https://www.barrons.com/articles/alibaba-stock-china-regulation-3f2d6df9",
+   "snippet": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\nBarron's\n\n# Alibaba Stock Slips as China Renews Regulatory Pressure\n\nAlibaba Group Holding stock was falling Thursday as regulatory pressures from Beijing—long the bogeyman of the Chinese tech sector—appeared to rise again. While Alibaba has recently made a successful pivot to artificial intelligence, it is still vulnerable to governmen",
+   "published": "Thu, 22 Oct 2026 16:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DFA, Chinese Embassy now at odds over latter’s social media posts",
+   "url": "https://globalnation.inquirer.net/343485/dfa-chinese-embassy-now-at-odds-over-latters-social-media-posts",
+   "snippet": "In a statement, the Department of Foreign Affairs (DFA) said diplomats were expected to act “in a manner befitting diplomatic envoys.”",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

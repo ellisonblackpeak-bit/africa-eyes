@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Senate Passes Bill For Establishment Of Federal University Of Agriculture In Rivers - The Tide News",
+   "url": "https://www.thetidenewsonline.com/2026/10/senate-passes-bill-for-establishment-of-federal-university-of-agriculture-in-rivers/",
+   "snippet": "# Senate Passes Bill For Establishment Of Federal University Of Agriculture In Rivers. The bill to approve the establishment  of  the Federal University of Agriculture, Emughan, Abua-Odual Local Government Area of Rivers State has passed third reading. The Bill, titled  “A Bill for an Act to Amend the Federal Universities of Agriculture Act, Cap. F22, Laws of the Federation of Nigeria, 2024” was s",
+   "published": "Mon, 26 Oct 2026 00:42:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria evacuates Ebola patient to Switzerland as authorities monitor 52 contacts - Greenwich Time",
+   "url": "https://www.greenwichtime.com/news/world/article/nigeria-evacuates-ebola-patient-to-switzerland-as-22494383.php",
+   "snippet": "ABUJA, Nigeria (AP) — A Swiss woman being treated for Ebola in Nigeria was medically evacuated to Switzerland with her husband Monday, officials said, as Nigerian authorities continued monitoring 52 people who had been in contact with her. Nigerian Health Minister Muhammad Pate said the woman, the country’s first case in the current outbreak, left the capital, Abuja, early Monday with his approval",
+   "published": "Mon, 26 Oct 2026 13:13:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "First confirmed Ebola patient in Nigeria evacuated to Switzerland - AP News",
+   "url": "https://apnews.com/article/nigeria-ebola-switzerland-patient-transfer-6390efb6d55bb43a40695425ef2317fb",
+   "snippet": "# First confirmed Ebola patient in Nigeria evacuated to Switzerland. ABUJA, Nigeria (AP) — A Swiss woman being treated for Ebola in Nigeria was medically evacuated to Switzerland with her husband Monday, officials said, as Nigerian authorities continued monitoring 52 people who had been in contact with her. Nigerian Health Minister Muhammad Pate said the woman, the country’s first case in the curr",
+   "published": "Mon, 26 Oct 2026 13:13:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "British investor BII eyes Nigeria’s $50 million startup fund with Japan, finance minister says - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/british-investor-bii-eyes-nigerias-dollar50-million-startup-fund-with-japan-finance/vw0zefr",
+   "snippet": "* British International Investment has expressed interest in an NSIA fund developed with Japan’s JICA. * NSIA has previously identified the investment vehicle as a $50 million Impact Innovation Fund. * The disclosure came as food, agriculture and healthcare businesses won NSIA innovation awards. The Nigeria Sovereign Investment Authority (NSIA) has previously described the vehicle as a $50 million",
+   "published": "Mon, 26 Oct 2026 07:32:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria panel says 37 detained miners died from overcrowding and neglect - Mining.com",
+   "url": "https://www.mining.com/web/nigeria-panel-says-37-detained-miners-died-from-overcrowding-and-neglect/",
+   "snippet": "Silver Futures $ 54.075 / ozt  -0.41%. Micro Gold Futures $ 4029.2 / ozt  0.43%. Micro Silver Futures $ 54.07 / ozt  -0.41%. Gold Futures $ 4030.2 / ozt  0.45%. A group of 37 suspected illegal miners died in detention in Nigeria as a result of severe overcrowding, poor ventilation and neglect, according to a government investigation into their deaths. The investigating committee, set up after the ",
+   "published": "Tue, 27 Oct 2026 17:37:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opene v NJC and judiciary’s self-cleansing mechanisms - Tribune Online",
+   "url": "https://tribuneonlineng.com/opene-v-njc-and-judiciarys-self-cleansing-mechanisms/",
+   "snippet": "In Nigeria, the National Judicial Council (NJC), established under the Constitution of the Federal Republic of Nigeria 1999 (as amended), occupies a central position in the disciplinary control and regulation of judicial officers. This is why the decision of the High Court, the Court of Appeal and the Supreme Court in the case under review is relevant, as it helps to x-ray the judiciary’s self-cle",
+   "published": "Tue, 27 Oct 2026 03:57:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "New York-listed Regeneron secures $270 million US Ebola order as African outbreak approaches 10,000 infections - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/new-york-listed-regeneron-secures-dollar270-million-us-ebola-order-as-african/jzvnsgw",
+   "snippet": "* Regeneron has secured an additional $270 million order from the US government for its Ebola treatment, Inmazeb. * The company will supply additional doses to the US government through 2031. * Inmazeb is approved for the Zaire strain of Ebola, not the Bundibugyo strain driving the current African outbreak. * Regeneron is separately testing maftivimab as a potential treatment for the Bundibugyo st",
+   "published": "Wed, 28 Oct 2026 07:54:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria probe blames overcrowding for deaths of 37 detained miners - Mining.com.au",
+   "url": "https://mining.com.au/nigeria-probe-blames-overcrowding-for-deaths-of-37-detained-miners/",
+   "snippet": "* Nigeria probe blames overcrowding for deaths of 37 detained miners. The deaths of 37 artisanal gold miners in Nigerian custody last month were caused by severe overcrowding, poor ventilation and neglect, according to a government investigation. The miners were among a larger group arrested during a government-led crackdown on illegal mining in Niger State, a region known for its small-scale gold",
+   "published": "Tue, 27 Oct 2026 16:52:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian Air Force reveals procurement plans - Janes",
+   "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/nigerian-air-force-reveals-procurement-plans",
+   "snippet": "The Nigerian Air Force (NAF) is planning to acquire 12 Turkish Aerospace Industries (TUSAŞ) Aksungur unmanned aerial vehicles (UAVs) and another six T129 attack helicopters, according to an infographic it released on 25 October to mark Air Marshal Sunday Kelvin Aneke's first year as chief of the air staff. None of these aircraft have arrived in Nigeria yet, indicating the NAF was referring to six ",
+   "published": "Mon, 26 Oct 2026 17:39:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Iceland Government Approves Under-15 Social Media Bill - Iceland Review",
+   "url": "https://www.icelandreview.com/news/iceland-government-approves-under-15-social-media-bill-2026/",
+   "snippet": "# Iceland Government Approves Under-15 Social Media Bill. **Iceland’s government has approved a bill proposing a social-media age limit for children under 15. Prime Minister Kristrún Frostadóttir announced the cabinet decision after Nordic leaders adopted a joint statement on the effects of digital technology on children and young people. * The government approved the bill after a public-consultat",
+   "published": "Wed, 28 Oct 2026 14:00:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Turkish parliamentary committee approves defense pact with Saudi Arabia and Pakistan - Greenwich Time",
+   "url": "https://www.greenwichtime.com/news/world/article/turkish-parliamentary-committee-approves-defense-22496350.php",
+   "snippet": "# Turkish parliamentary committee approves defense pact with Saudi Arabia and Pakistan. ANKARA, Turkey (AP) — A Turkish parliamentary committee approved a defense agreement with Saudi Arabia and Pakistan on Tuesday, as tensions between Riyadh and the Iran-backed Houthi rebels grow. It was approved by the foreign affairs committee with the votes of President Recep Tayyip Erdogan ’s ruling party and",
+   "published": "Tue, 27 Oct 2026 13:39:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa welcomes its newest gold refinery as another nation joins Burkina Faso, Ethiopia in refining gold at home - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/africa-welcomes-its-newest-gold-refinery-as-another-nation-joins-burkina-faso/phem0ns",
+   "snippet": "* Zambia has launched a new gold refinery to process the metal locally and increase value from its natural resources. * Several African nations, including Nigeria, Democratic Republic of the Congo, Burkina Faso, and Ethiopia, have recently inaugurated gold and precious metal refineries. Developed by Minera Refineries Zambia Limited, the facility is designed to refine gold to purity levels of betwe",
+   "published": "Sun, 25 Oct 2026 19:21:13 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ng",
  "_query": "Nigeria government approves",
  "_domains": [],

@@ -2,6 +2,55 @@
  "success": true,
  "results": [
   {
+   "title": "Hungary still on the hook",
+   "url": "https://www.rapporteur.com/news/hungary-still-on-the-hook/",
+   "content": "Also, in tonight’s edition: Spanish election campaign hit by train disaster",
+   "published_date": "Wed, 28 Oct 2026 17:00:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "German conservatives clash over Germany’s next president",
+   "url": "https://www.rapporteur.com/news/german-conservatives-clash-over-germanys-next-president/",
+   "content": "Friedrich Merz under pressure as Bavarian conservatives press for a right-wing candidate while he dithers",
+   "published_date": "Wed, 28 Oct 2026 16:53:53 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Netherlands to give Ukraine ‘whatever we have’ in air defence supplies",
+   "url": "https://www.rapporteur.com/news/netherlands-to-give-ukraine-whatever-we-have-in-air-defence-supplies/",
+   "content": "Jetten says he is reaching out to partners to ask them to do more for Kyiv",
+   "published_date": "Wed, 28 Oct 2026 16:20:32 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Liese seeks centrist deal on EU carbon pricing reform",
+   "url": "https://www.rapporteur.com/news/liese-seeks-centrist-deal-on-eu-carbon-pricing-reform/",
+   "content": "EPP's lead negotiator favours broad compromise in the political centre over an alliance with the far right",
+   "published_date": "Wed, 28 Oct 2026 15:38:33 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "UK to unveil plan for NATO’s 3.5% target next year",
+   "url": "https://www.rapporteur.com/news/uk-to-unveil-plan-for-natos-3-5-target-next-year/",
+   "content": "Government seeks to attract private investment as defence spending rises",
+   "published_date": "Wed, 28 Oct 2026 15:16:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "SAFE leftovers set at €21bn after Commission clears Hungarian plan",
+   "url": "https://www.rapporteur.com/news/safe-leftovers-set-at-e21bn-after-commission-clears-hungarian-plan/",
+   "content": "The new call will be released before the end of the year",
+   "published_date": "Wed, 28 Oct 2026 14:36:55 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU drops ‘associate member’ plan for Canada",
+   "url": "https://www.rapporteur.com/news/berlin-pitches-new-wording-to-unblock-eu-canada-stalemate/",
+   "content": "After days of wrangling the EU has finally reached agreement on moving 'ever-closer' to Canada",
+   "published_date": "Wed, 28 Oct 2026 14:09:23 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Bulgaria boosts defences as drones strike another Black Sea ship",
    "url": "https://www.rapporteur.com/news/bulgaria-boosts-defences-as-drones-strike-another-black-sea-ship/",
    "content": "Sofia will also buy 32 VL MICA air-defence missiles for its navy with EU defence loans",
@@ -160,55 +209,6 @@
    "url": "https://www.rapporteur.com/news/exclusive-iab-europe-lists-ad-vendor-despite-alleged-spyware-link/",
    "content": "In wake of Citizen Lab report into spyware delivered via targeted ads",
    "published_date": "Wed, 28 Oct 2026 03:00:30 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU climate risk plan slammed over trailing insurance gap",
-   "url": "https://www.rapporteur.com/news/eu-climate-law-falls-short-on-insurance-gap-campaigners-say/",
-   "content": "A Climate Insurance Alliance will be tasked with finding solutions in the coming months",
-   "published_date": "Wed, 28 Oct 2026 03:00:28 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Don’t focus on Chinese trade surplus, EU business chief warns",
-   "url": "https://www.rapporteur.com/news/dont-focus-on-chinas-trade-surplus-warns-eu-business-chief/",
-   "content": "Seeking ‘balanced trade’ with Beijing ‘could entail a very significant economic cost for Europe’",
-   "published_date": "Wed, 28 Oct 2026 03:00:17 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "The Power Dividend: China’s lesson for EU tech sovereignty",
-   "url": "https://www.rapporteur.com/opinion/the-power-dividend-chinas-lesson-for-eu-tech-sovereignty/",
-   "content": "Europe has much more bargaining power than just market size",
-   "published_date": "Wed, 28 Oct 2026 03:00:12 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Spain’s far right is the ‘new punk’",
-   "url": "https://www.rapporteur.com/news/spanish-youth-moves-towards-the-radical-right/",
-   "content": "Vox is Spain's third-largest political force and is attracting an increasingly younger voter base",
-   "published_date": "Wed, 28 Oct 2026 03:00:02 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "How elections could reshape EU alliances ahead of tobacco talks",
-   "url": "https://www.rapporteur.com/news/how-elections-could-reshape-eu-alliances-ahead-of-tobacco-talks/",
-   "content": "A blocking minority pushing for tougher nicotine rules could be at risk",
-   "published_date": "Wed, 28 Oct 2026 02:59:31 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Netanyahu and rival each claim mandate after tight Israel election",
-   "url": "https://www.rapporteur.com/news/israel-opposition-holds-narrow-edge-over-netanyahu-in-first-projections/",
-   "content": "Nationwide turnout stood at nearly 78%, the highest since 1999",
-   "published_date": "Tue, 27 Oct 2026 20:49:51 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Frontex to coordinate EU deportations, under new plans",
-   "url": "https://www.rapporteur.com/news/frontex-to-coordinate-eu-deportations-under-new-plans/",
-   "content": "The agency's powers would be expanded for it to oversee the bloc's deportations, with a significantly enlarged personnnel",
-   "published_date": "Tue, 27 Oct 2026 17:56:52 +0000",
    "score": 0.6
   }
  ],

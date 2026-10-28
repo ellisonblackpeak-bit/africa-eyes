@@ -1,7 +1,14 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Washington’s Uranium Bet in Niger Could Come at a Steep Price | WPR",
+   "url": "https://www.worldpoliticsreview.com/niger-us-uranium-dfc-dasa-project",
+   "snippet": "Investors have already seen how fragile agreements in Niger can be. In August, the military government awarded the permit for the Somaïr uranium mine, seized from France’s Orano in June 2025, to a newly established state-owned company. Orano held 63 percent of the operation and is contesting the takeover in several tribunals. For investors, the warning is clear: an agreement is only as reliable as",
+   "published": "Tue, 27 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_orano",
  "_query": "Orano Niger uranium",
  "_domains": [],

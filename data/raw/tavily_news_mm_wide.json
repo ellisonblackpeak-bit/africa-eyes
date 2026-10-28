@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Myanmar students explore Chinese culture through language training program - People's Daily Online",
+   "url": "https://en.people.cn/n3/2026/1026/c90000-20512178.html",
+   "snippet": "Students perform during the launch ceremony of a new batch of Chinese-language classes under the Kyaukphyu Anargat (future) Chinese Language Training Project at the China Cultural Center in Yangon, Myanmar, Oct. 24, 2026. (Xinhua/Myo Kyaw Soe) [...] Participants pose for a group photo during the launch ceremony of a new batch of Chinese-language classes under the Kyaukphyu Anargat (future) Chinese",
+   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Australia East Timor Defence Deal: Key Highlights - The China-Global South Project",
+   "url": "https://chinaglobalsouth.com/2026/10/22/australia-east-timor-defence-deal-china",
+   "snippet": "### Myanmar-China Oil and Gas Pipeline Control Station Destroyed in Latest Attack Affecting Chinese Interests\n\nMyanmar’s military government said several of the country’s armed insurgent groups destroyed a control station of the Myanmar-China oil and natural gas pipeline in a state bordering China. The attack happened in the northern ...\n\n\n\n### China, Cambodia to Hold Joint Military Exercises [...",
+   "published": "Thu, 22 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Monroe Doctrine and Its Strategic Blunder in Myanmar",
+   "url": "https://www.irrawaddy.com/opinion/guest-column/chinas-monroe-doctrine-and-its-strategic-blunder-in-myanmar.html",
+   "snippet": "Myanmar holds particular strategic importance for China. Through Rakhine State, Beijing can access the Indian Ocean, bypassing the strategically vulnerable Strait of Malacca during a crisis. Myanmar also possesses substantial deposits of rare earth elements essential to modern technologies. Furthermore, the China-Myanmar Economic Corridor (CMEC) is one of the six major economic corridors under Chi",
+   "published": "Wed, 28 Oct 2026 09:58:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Pulls Out of Logistics Hub Project at Colombo Port – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/china-pulls-out-of-logistics-hub-project-at-colombo-port",
+   "snippet": "##### Society\n\n#### ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge\n\n##### Diplomacy\n\n#### China’s Advance in the Bahamas\n\n##### Security\n\n#### Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula\n\n### The Pulse | Economy | South Asia\n\n# China Pulls Out of Logistics Hub Project at Colombo Port [...] Lomé’s maritime ambitions, deepening ti",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Skills training boosts employment prospects in Lao People’s Democratic Republic | International Labour Organization",
+   "url": "https://www.ilo.org/resource/news/skills-training-boosts-employment-prospects-lao-people%E2%80%99s-democratic",
+   "snippet": "Participants receive certificates upon completion of the skills training workshop\n\n### Related content\n\nSkills development\n\nILO/China Partnership Programme on Strengthening Skills Development in Cambodia, Lao People's Democratic Republic and Myanmar through...\n\nILO Logo\n\n### Advancing social justice, promoting decent work\n\n#### ILO is a specialized agency of the United Nations\n\nInternational Labou",
+   "published": "Tue, 27 Oct 2026 07:59:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US officials issue China travel advisory over arbitrary detention",
+   "url": "https://nypost.com/2026/10/22/lifestyle/us-officials-issue-china-travel-advisory-over-arbitrary-detention",
+   "snippet": "The other is Min Zin, a Myanmar-born American scholar studying Myanmar politics and regional relations. He was detained in Yunnan province in June 2026 under espionage allegations and designated as wrongfully detained on August 20.\n\nAmericans planning necessary travel to China are advised to enroll in the State Department’s Smart Traveler Enrollment Program (STEP), maintain valid documentation, an",
+   "published": "Thu, 22 Oct 2026 17:25:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s sanctions on Taiwan allies project its power, but with limited effect – Radio Free Asia",
+   "url": "https://www.rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize",
+   "snippet": "Radio Free Asia logo\n\n# China’s sanctions on Taiwan allies project its power, but with limited effect\n\n## Beijing sent a message by sanctioning officials from Paraguay and Belize, but both remain loyal to Taipei, experts said.\n\nBy Taejun Kang for RFA\n\nChina’s sanctions against foreign officials over their ties with Taiwan help Beijing project power and warn other governments, even as their financi",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Is China Trying To Slow India’s Border Infrastructure Buildup?",
+   "url": "https://swarajyamag.com/defence/is-china-trying-to-slow-indias-border-infrastructure-buildup",
+   "snippet": "Technically, the rule applied to all of India's land neighbours, including Pakistan, Bangladesh, Nepal, Bhutan, Myanmar and Afghanistan as well as China, but nobody doubted which country it was meant for. [...] The Rishikesh–Karnaprayag railway, which will end in Uttarakhand’s Chamoli district on the border with Tibet, and the Pakal Dul hydroelectric project on the Chenab in Kishtwar, Jammu and Ka",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "bne IntelliNews - China’s Huayou acquires Ghana lithium project rights, assumes $66mn funding commitment",
+   "url": "https://www.intellinews.com/china-s-huayou-acquires-ghana-lithium-project-rights-assumes-66mn-funding-commitment-479226?source=china",
+   "snippet": "6 hours ago\n\nMissile War Monitor: Russian ballistic missiles hit a Kyiv university campus, then the Southern Bridge's metro line\n\n6 hours ago\n\n### Follow Us On\n\n### Most Read\n\n Day\n This week\n This month\n\n1. Everyone loves Lula, except Trump, Milei and Netanyahu\n\n   19 hours ago\n2. Taliban complete Afghanistan road to China – but Beijing keeps border firmly shut\n\n   6 hours ago\n3. Who will be Serb",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "mm_wide",
  "_query": "Myanmar China project",
  "_domains": [],
