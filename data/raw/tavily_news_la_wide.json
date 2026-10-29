@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "PH rail project delays revive China funding question | The Manila Times",
-   "url": "https://www.manilatimes.net/2026/10/24/news/national/ph-rail-project-delays-revive-china-funding-question/2452947",
-   "snippet": "These include the China-Laos Railway, which links Kunming in China to Vientiane in Laos, and Indonesia's Jakarta-Bandung High-Speed Railway, which reduced travel time between the two cities from about three hours to 46 minutes.\n\nHe also cited Malaysia's East Coast Rail Link, a 665-kilometer railway expected to begin its first phase of operations in December 2026. [...] Herman Tiu Laurel, president",
-   "published": "Fri, 23 Oct 2026 16:01:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China's Belt and Road hasn't lived up to Xi's promise - Asia Times",
-   "url": "https://asiatimes.com/2026/10/chinas-belt-and-road-hasnt-lived-up-to-xis-promise",
-   "snippet": "Laos, already one of Asia’s poorest countries, accumulated enormous external debt under the BRI to pay for large-scale infrastructure projects, including power plants and a high-speed railway linking the capital, Vientiane, to Boten on the Chinese border and onward into China. [...] Faced with a debt crisis caused by its inability to repay BRI loans on their original terms, the government agreed t",
-   "published": "Thu, 29 Oct 2026 10:03:41 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Pinglu Canal: Deepening ASEAN-China Connectivity - Lucio Blanco Pitlo III - CHINA US Focus",
-   "url": "https://www.chinausfocus.com/finance-economy/pinglu-canal-deepening-asean-china-connectivity",
-   "snippet": "Geographic proximity positions southern Chinese provinces as gateways to ASEAN, with infrastructure being a crucial piece. The China-Myanmar oil and gas pipeline, Laos-China railway, and the upgrading of the Haiphong-Kunming railway raise Yunnan’s profile. So does the linking of the Bangkok-Nong Khai high-speed rail, currently under construction, to the Laos-China railway via the Lao capital, Vien",
-   "published": "Fri, 23 Oct 2026 09:19:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China-Europe freight train service tops 140,000 trips_InKunming",
-   "url": "https://m.kunming.cn/en/c/2026-10-23/14081885.shtml",
-   "snippet": "Staff members check a JSQ freight train before its departure at a railway logistics center in Guiyan...\n\n  InKunming 2026-06-04\n ### World Insights: 65 years on, Laos-China ...\n\n  ​2026 marks the 65th anniversary of diplomatic relations between Laos and China and the China-Laos ...\n\n  InKunming 2026-06-03\n ### Economic Watch: Western China becomes ne...\n\n  At the Iranian section of the 10th Silk R",
-   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Deputy Finance Minister meets Chinese State Council research delegation",
-   "url": "https://vir.com.vn/deputy-finance-minister-meets-chinese-state-council-research-delegation-163836.html",
-   "snippet": "|  |  |\n --- |\n| China Eximbank prioritises financing for Lao Cai-Haiphong railway | China Eximbank prioritises financing for Lao Cai-Haiphong railway On August 27, Deputy Minister of Finance Nguyen Duc Chi held talks with a delegation from the Export-Import Bank of China (China Eximbank) on financing options for the Lao Cai-Haiphong railway and opportunities to expand financial cooperation betwee",
-   "published": "Thu, 29 Oct 2026 07:25:22 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Yunnan cultural tourism promoted at half marathon in Laos - Chinadaily.com.cn",
-   "url": "https://global.chinadaily.com.cn/a/202610/27/WS6ae038dce4b06d4aa0564fd3.html",
-   "snippet": "China-Europe Railway Express surpasses 140,000 trips since 2011\n\nMost Popular\n\nColumnists\n\n\n\nCall against Starbucks shows stupidity of US lawmakers\n\n\n\nWhy all eyes are on delivery riders and red lights\n\n\n\nFrom Turin to Changchun: A flame passed, cultures shared\n\nEditor's Pick\n\n\n\nWhat is behind Shein's drop in valuation?\n\n\n\nAirbus-China partnership drives aviation growth\n\nSpecial\n\n\n\n2025 'Charming ",
-   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Vientiane Party Secretary Discusses Investment Opportunities with CP Group Chairman",
-   "url": "https://kpl.gov.la/En/Detail.aspx?id=111449",
-   "snippet": "# Lao News Agency\n\n Lao News agency\n\n ພາສາລາວ\n English\n Français\n\n\n\n.\n\nພາສາລາວ English Français",
-   "published": "Thu, 29 Oct 2026 04:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "North Korea - China passenger service resumes",
-   "url": "https://www.railjournal.com/regions/asia/north-korea-china-passenger-service-resumes",
-   "snippet": "Cross-border services between Ji'an in Jilin province, China, and Manp'o Chongyong in Chagang province, North Korea, have resumed.",
-   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Australian defence chief's claims on Chinese military just an excuse for small blocs",
-   "url": "https://www.globaltimes.cn/page/202610/1373254.shtml",
-   "snippet": "During the 20th ASEAN Defence Ministers' Meeting in Manila, Australian Defense Minister Richard Marles once again trotted out the same old script: making",
-   "published": "Thu, 29 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "la_wide",
  "_query": "Laos China railway",
  "_domains": [],

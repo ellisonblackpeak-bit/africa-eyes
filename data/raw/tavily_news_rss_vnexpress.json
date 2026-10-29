@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Sắp đóng cổng bình chọn vòng sơ loại Vietnam iContent Awards 2026",
+   "url": "https://vnexpress.net/sap-dong-cong-binh-chon-vong-so-loai-vietnam-icontent-awards-2026-5138132.html",
+   "content": "Vòng sơ loại Vietnam iContent Awards 2026 đóng cổng bình chọn lúc 12h ngày 29/10, chuyển sang giai đoạn tổng kết, chấm điểm từ hội đồng chuyên môn lẫn lượt vote khán giả.",
+   "published_date": "Thu, 29 Oct 2026 09:20:00 +0700",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

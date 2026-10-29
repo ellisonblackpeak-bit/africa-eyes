@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "At least 68 killed in high-speed train collision in Spain - World - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202610/29/WS6ae262ece4b06d4aa0565b7c.html",
+   "snippet": "Search\n HOME\n CHINA\n WORLD\n BUSINESS\n CULTURE\n TRAVEL\n VIDEO\n SPORTS\n OPINION\n REGIONAL\n NEWSPAPER)\n MOBILE\n\n\n\nGlobal EditionASIA 中文双语Français\n\n\n  + China Daily PDF\n  + China Daily E-paper\n MOBILE\n\nWorld\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n China-US\n China-Europe\n China-Japan\n China-Africa\n\n1. Home\n2. World\n/ Europe Share to ...\n\nHome / World / Europe\n\n# At least 68 killed in hig",
+   "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "UPDATE: 10 men killed after taxi collides with tree near Hillcrest, KZN",
+   "url": "https://iol.co.za/news/south-africa/2026-10-07-kzn-crash-eight-killed-after-taxi-collides-with-tree-near-hillcrest",
+   "snippet": "News\n\n  + Crime and Courts\n  + South Africa\n  + Africa\n  + World\n  + BRICS\n  + Education\n  + Energy\n  + Environment\n  + Feel Good\n  + Government at Work\n  + Opinion\n LGE2026LGE2026\n Politics\n\n  + Opinion\n Opinion\n\n  + News\n  + Politics\n  + Entertainment\n  + Lifestyle\n  + Tech\n  + Sport\n Business\n\n  + Jobs\n  + Economy\n  + Property\n  + Window on China\n  + Hybrid Working\n Entertainment\n\n  + Celebrity",
+   "published": "Wed, 28 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Report: Death toll rises to 46 in high-speed train collision in Spain",
+   "url": "https://www.chinadailyasia.com/article/641877",
+   "snippet": "NEWS\n\nHong Kong\n\nNation\n\nAsia\n\nWorld\n\nBusiness\n\nScience\n\nSports\n\nFOCUS\n\nLife & Art\n\nIn-depth China\n\nQuirky\n\nPhoto\n\nGraphics\n\nData\n\nCulture HK\n\nGlobal Weekly\n\nEye on Asia\n\nSpecial\n\nFrom PR Newswire\n\nOPINION\n\nEditorials\n\nColumnists\n\nJoephy Chan\n\nBill Condon\n\nDavid Cottam\n\nGrenville Cross\n\nRichard Cullen\n\nDong Yu\n\nMichael Edesess\n\nWilson Lee Flores\n\nTom Fowdy\n\nFu Kin-chi\n\nHenry Ho\n\nHo Lok-sang\n\nKen I",
+   "published": "Wed, 28 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Spain’s 4 deadly train crashes this year, at a glance - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/28/spain-train-crash-deadly/f17285ac-d2df-11f1-9931-2a41b76fc976_story.html",
+   "snippet": "PARIS — Wednesday’s deadly collision between two high-speed trains in central Spain was the second fatal crash in nine months on a network that has long been a source of national pride.\n\nSpain has spent decades building Europe’s largest high-speed rail network, second only to China’s.\n\npixel [...] Democracy Dies in Darkness\n\n# Spain’s 4 deadly train crashes this year, at a glance\n\nWednesday’s coll",
+   "published": "Wed, 28 Oct 2026 15:01:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Spanish football postpones 24 Copa del Rey games after train crash | Football | Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash",
+   "snippet": "About 80 people were injured and the death toll could rise following the train crash in central Spain [Manu Fernandez/AP]\n\nBy AP\n\nPublished On 28 Oct 202628 Oct 2026\n\nSpain’s national football federation has postponed all 24 Copa del Rey games scheduled for Wednesday because of a train accident that killed at least 30 people in the country’s central region. [...] list of 4 items\n\n list 1 of 4Five ",
+   "published": "Wed, 28 Oct 2026 13:48:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
+   "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision",
+   "snippet": "Julieta Gallego, who competed for Madrid-based AD Sprint, among those killed in train crash in Spain.",
+   "published": "Thu, 29 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Spain's deadly train crash adds new complication to Sanchez reelection campaign",
+   "url": "https://www.reuters.com/world/europe/spains-deadly-train-crash-adds-new-complication-sanchez-reelection-campaign-2026-10-29",
+   "snippet": "Spanish Prime Minister Pedro Sanchez had hoped to ride a wave of public anger over the eviction of an octogenarian to win reelection in a snap ​election,",
+   "published": "Thu, 29 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+   "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+   "snippet": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40%",
+   "published": "Wed, 28 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_casualty",
  "_query": "Chinese killed Africa accident",
  "_domains": [],
