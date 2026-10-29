@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Assessing Ghana's Government Policy on Contract Mining and Local Economic Benefits",
+   "url": "https://www.modernghana.com/news/1539474/assessing-ghanas-government-policy-on-contract.amp",
+   "snippet": "In conclusion, Ghana's contract mining policy presents a significant opportunity to transform the country's mining sector into a stronger engine of local economic development. By empowering indigenous Ghanaian companies to undertake mining operations, the policy has the potential to create sustainable employment, promote local entrepreneurship, retain more value within the domestic economy, reduce",
+   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana’s Catholic Bishops Launch Vocational Training Policy to Expand Youth Opportunities",
+   "url": "https://www.aciafrica.org/news/25001/ghanas-catholic-bishops-launch-vocational-training-policy-to-expand-youth-opportunities",
+   "snippet": "By Jude Atemanke\n\nAccra, 28 October, 2026 / 4:53 pm (ACI Africa).\n\nCatholic Bishops in Ghana have launched a policy to strengthen technical and vocational training in Church-run institutions, with a focus on equipping young people with practical skills for employment, entrepreneurship, and national development. [...] The Ghanaian Catholic Bishop said the policy calls for stronger collaboration amo",
+   "published": "Wed, 28 Oct 2026 13:53:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NDC must maintain policy consistency to perform better – Asiedu Nketia",
+   "url": "https://www.modernghana.com/news/1539991/ndc-must-maintain-policy-consistency-to-perform.html",
+   "snippet": "The National Chairman of National Democratic Congress (NDC) Johnson Asiedu Nketia has called for policy consistency under the party's governments.\n\nHe argues such a move is critical to attracting investment and ensuring long-term national development.\n\nThe veteran politician said Ghana would benefit if successive administrations had maintained key elements of existing policies rather than abandoni",
+   "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Calls grow for binding national policy agenda to drive Ghana’s economic stability",
+   "url": "https://www.modernghana.com/news/1539966/calls-grow-for-binding-national-policy-agenda-to.html",
+   "snippet": "Ghana rsquo;s economic challenges have renewed calls from some citizens for a fundamental change in the way the country formulates and implements national",
+   "published": "Wed, 28 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Accused of Deporting US-Sent Refugees Back to Danger",
+   "url": "https://www.modernghana.com/news/1539489/ghana-accused-of-deporting-us-sent-refugees-back.html",
+   "snippet": "Ghana's government has consistently defended its role. Foreign Minister Samuel Okudzeto Ablakwa said Ghana accepted the deportees for humanitarian reasons, because they risked being sent to unsafe countries. He also said the decision was not an endorsement of US immigration policy.\n\nMustapha Bature Sallama  \nMedical/Science communicator, Private Investigator, Criminal Investigation and Intelligenc",
+   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tracking Ghana - IMF Policy Coordination Instrument | Big Analysis",
+   "url": "https://www.modernghana.com/videonews/joynews/1/740502",
+   "snippet": "Illegal mining: Sammy Gyamfi defends call to formalise unlicensed small-scale miners.\n\nIllegal mining: Sammy Gyamfi defends call to formalise unlicensed small-scale miners.\n\n23.10.2026 | JoyNews\n\nJoyNews uncovers pressure on Obuasi SHTS rape complainant to withdraw her allegation.\n\nJoyNews uncovers pressure on Obuasi SHTS rape complainant to withdraw her allegation.\n\n23.10.2026 | JoyNews\n\nProposed",
+   "published": "Sat, 24 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Will Ghana sustain policy reforms under IMF’s Poilcy Coordination Instrument?",
+   "url": "https://www.cnbcafrica.com/media/7793196468680/will-ghana-sustain-policy-reforms-under-imfs-poilcy-coordination-instrument",
+   "snippet": "Ghana's first review under the International Monetary Fund's Policy Coordination Instrument has entered its second week, with discussions focusing on the",
+   "published": "Wed, 28 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vice President says Government has to Sustain Public Confidence through Quality Decisions.",
+   "url": "https://www.gbcghanaonline.com/general-news/vice-president-says-government-has-to-sustain-public-confidence-through-quality-decisions/2026",
+   "snippet": "Vice President Professor Naana Jane Opoku-Agyemang says the government has to strive to sustain the confidence Ghanaians have placed in it,",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "IMF Begins First Review of Ghana’s Economic Performance Under Policy Coordination Instrument",
+   "url": "https://www.modernghana.com/videonews/cititv/1/739876",
+   "snippet": "GEPA Expands Market Access Through Accra Trade Hub, Tuesday Market and GEXPO\n\n23.10.2026 | CitiTV\n\nGhana’s 2022 Oil and Gas Downturn Led to Loss of Skilled Workers\n\nGhana’s 2022 Oil and Gas Downturn Led to Loss of Skilled Workers\n\n23.10.2026 | CitiTV\n\nGhana Hydrological Authority Seeks Statutory Fund to Improve Operations\n\nGhana Hydrological Authority Seeks Statutory Fund to Improve Operations\n\n23",
+   "published": "Thu, 22 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Will Ghana take Tarkwa from Gold Fields? Five questions behind Africa’s mining showdown",
+   "url": "https://www.theafricareport.com/434637/will-ghana-take-tarkwa-from-gold-fields-five-questions-behind-africas-mining-showdown",
+   "snippet": "Business\n\nBuilding Interdependence\n\n### Nigeria: Are things coming together?\n\nAmina and Aisha Maina.\n\nBusiness\n\narchitecting influence\n\n### Power sisters: How Amina and Aisha Maina are building cross-border influence from Nigeria\n\nadvertisement\n\nPart of\n\n© The Africa Report 2026, all rights reserved.\n\n Privacy policy\n Terms of use\n Cookies policy) [...] The Africa Report \n\nSubscribe now\n\nThe Afric",
+   "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_gh",
  "_query": "Ghana government policy",
  "_domains": [],

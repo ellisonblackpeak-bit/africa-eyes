@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "West Africa Monthly Report: September 2026",
+   "url": "https://www.genocidewatch.com/single-post/west-africa-monthly-report-september-2026",
+   "snippet": "In September 2026, Mali continued to face escalating armed conflict and a worsening humanitarian situation. On Sept. 10, the al-Qaeda-linked armed group Jama’at Nusrat al-Islam Wal-Muslimin (JNIM) attacked a Malian army camp in Dioura, central Mali. Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM) claimed responsibility for killing and capturing large numbers of soldiers, although its casualty figures",
+   "published": "Tue, 27 Oct 2026 07:00:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Military ups death toll in Mali attack to 54",
+   "url": "https://citizen.digital/article/military-ups-death-toll-in-mali-attack-to-54-n392703",
+   "snippet": "Following the attack, a patrol was launched in the area which \"discovered fifty-four (54) lifeless bodies in a camp in Tagadayat\", Mali's armed forces said.\n\nSources had previously indicated to AFP that at least 48 people had died.\n\nThe armed forces said that the victims were buried on site and that nine survivors were evacuated to the city of Menaka.\n\nIt added that testimonies indicated that the ",
+   "published": "Sun, 25 Oct 2026 11:21:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Army, Russia’s ‘Africa Corps’ Commit New Abuses | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/22/mali-army-russias-africa-corps-commit-new-abuses",
+   "snippet": "The Malian army’s offensive followed coordinated attacks across Mali by the Al Qaeda-linked Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, JNIM) and the Azawad Liberation Front (Front de Libération de l’Azawad, FLA) in late April. Malian forces and the allied Africa Corps killed civilians, including many children, and destroyed civilian property and health facili",
+   "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali drone strike kills 13 civilians, activists say; army says it targeted militants - ABC News",
+   "url": "https://abcnews.com/International/wireStory/mali-drone-strike-kills-13-civilians-activists-army-137642600",
+   "snippet": "Malian armed forces and their allies have responded to mounting attacks by Islamist and separatist armed groups with abusive counterinsurgency operations in central and northern Mali that often harm civilians, Human Rights Watch said in a report earlier this month.\n\nIt added that all sides of the conflict “are committing grave laws-of-war violations\" and that “civilians are bearing the brunt of th",
+   "published": "Wed, 28 Oct 2026 15:39:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
+   "snippet": "The attack on the Dioura military barracks in central Mali on September 10 killed at least 150 soldiers and, according to claims, 95 soldiers were kidnapped. This was followed by the September 24 attack on Djenné. Nighttime attacks with mortar and rocket fire, guided by drones, on Sévaré airport, also in central Mali, further confirm JNIM’s military capacity, as demonstrated by the simultaneous, c",
+   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Ukraine may be involved in Mali's conflict",
+   "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
+   "snippet": "In July 2024, DW reported on possible involvement by the Ukrainian military intelligence service (HUR) in an ambush on Russian Wagner fighters near Tinzaouaten in northern Mali.\n\nAt the time, HUR spokesperson Andriy Yusov said the Tuareg rebels had received information they needed to carry out the attack. Ukraine denied direct involvement.\n\n## Jihadist groups in Africa and their links\n\nParamilitar",
+   "published": "Mon, 26 Oct 2026 14:58:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lessons from Africa’s Drone Wars",
+   "url": "https://africacenter.org/publication/asb49-lessons-africa-drone-wars",
+   "snippet": "18. ⇑ Africa Defense Forum, “Malian Insurgents Attack with Drones,” April 28, 2026.\n19. ⇑ Jared Malsin, Benoit Faucon, and Robbie Gramer, “How U.A.E. Arms Bolstered a Sudanese Militia Accused of Genocide,” Wall Street Journal, October 28, 2025.\n20. ⇑ Rida Lyammouri and Niccola Milnes, “AI-Enabled Purple Teaming for Counter-Drone Security in Sahel,” Research Paper No. 11/26, Policy Center for the N",
+   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia completes $53 million military investment in another African country after supplying it with six Mi-28 attack helicopters | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/russia-completes-dollar53-million-military-investment-in-another-african-country/d9k47qr",
+   "snippet": "Uganda joins Algeria among Africa's few operators of Russia's Mi-28 attack helicopters, with the North African country having acquired 42 Mi-28NE Night Hunter aircraft between 2016 and 2020 under a wider helicopter deal estimated at $2.7 billion.\n\nMali, Burkina Faso and Niger also operate Russian-made attack helicopters, including Mi-24 and Mi-35 variants, reflecting Moscow's presence in Africa's ",
+   "published": "Sun, 25 Oct 2026 17:12:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "On Our Radar",
+   "url": "https://www.crisisgroup.org/sco/global/our-radar",
+   "snippet": "On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group's analysts are closely watching.",
+   "published": "Sat, 24 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mali_atk",
  "_query": "Mali army attack",
  "_domains": [],

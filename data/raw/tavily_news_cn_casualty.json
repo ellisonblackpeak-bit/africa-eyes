@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "JUST IN: Six killed in horror head-on crash on Eastern Cape’s R61",
-   "url": "https://iol.co.za/news/2026-10-24-just-in-six-killed-in-horror-head-on-crash-on-eastern-capes-r61",
-   "snippet": "News\n\n  + Crime and Courts\n  + South Africa\n  + Africa\n  + World\n  + BRICS\n  + Education\n  + Energy\n  + Environment\n  + Feel Good\n  + Government at Work\n  + Opinion\n LGE2026LGE2026\n Politics\n\n  + Opinion\n Opinion\n\n  + News\n  + Politics\n  + Entertainment\n  + Lifestyle\n  + Tech\n  + Sport\n Business\n\n  + Jobs\n  + Economy\n  + Property\n  + Window on China\n  + Hybrid Working\n Entertainment\n\n  + Celebrity",
-   "published": "Sat, 24 Oct 2026 13:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "At least 50 killed, 179 injured in high-speed train collision in Spain -Xinhua",
-   "url": "https://english.news.cn/20261028/fb6af05feecb4ce397ab31dc785422c7/c.html",
-   "snippet": "[](\n\n  ### China's research vessel Deep Sea No. 1 visits Naoero\n [](\n\n  ### Rice harvested in China's Hunan\n\n [](\n\n  ### Autumn scenery in Wuhan, China's Hubei\n\n [](\n\n  ### Public service centers bring convenience and warmth in Shenzhen\n [](\n\n  ### In pics: AI-powered restaurant in China's Nanjing\n [](\n\n  ### Preparations in full swing for 9th CIIE\n\n### More from GLOBALink\n\n [](\n\n  ### My Long Mar",
-   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Report: Death toll rises to 46 in high-speed train collision in Spain",
-   "url": "https://www.chinadailyasia.com/article/641877",
-   "snippet": "NEWS\n\nHong Kong\n\nNation\n\nAsia\n\nWorld\n\nBusiness\n\nScience\n\nSports\n\nFOCUS\n\nLife & Art\n\nIn-depth China\n\nQuirky\n\nPhoto\n\nGraphics\n\nData\n\nCulture HK\n\nGlobal Weekly\n\nEye on Asia\n\nSpecial\n\nFrom PR Newswire\n\nOPINION\n\nEditorials\n\nColumnists\n\nJoephy Chan\n\nBill Condon\n\nDavid Cottam\n\nGrenville Cross\n\nRichard Cullen\n\nDong Yu\n\nMichael Edesess\n\nWilson Lee Flores\n\nTom Fowdy\n\nFu Kin-chi\n\nHenry Ho\n\nHo Lok-sang\n\nKen I",
-   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Spain’s 4 deadly train crashes this year, at a glance - The Washington Post",
-   "url": "https://www.washingtonpost.com/world/2026/10/28/spain-train-crash-deadly/f17285ac-d2df-11f1-9931-2a41b76fc976_story.html",
-   "snippet": "PARIS — Wednesday’s deadly collision between two high-speed trains in central Spain was the second fatal crash in nine months on a network that has long been a source of national pride.\n\nSpain has spent decades building Europe’s largest high-speed rail network, second only to China’s.\n\npixel [...] Democracy Dies in Darkness\n\n# Spain’s 4 deadly train crashes this year, at a glance\n\nWednesday’s coll",
-   "published": "Wed, 28 Oct 2026 15:01:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Spanish football postpones 24 Copa del Rey games after train crash | Football | Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash",
-   "snippet": "About 80 people were injured and the death toll could rise following the train crash in central Spain [Manu Fernandez/AP]\n\nBy AP\n\nPublished On 28 Oct 202628 Oct 2026\n\nSpain’s national football federation has postponed all 24 Copa del Rey games scheduled for Wednesday because of a train accident that killed at least 30 people in the country’s central region. [...] list of 4 items\n\n list 1 of 4Five ",
-   "published": "Wed, 28 Oct 2026 13:48:09 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Two high-speed trains collide in Spain, rail operator says | Reuters",
-   "url": "https://www.reuters.com/world/two-high-speed-trains-rear-end-spain-rail-operator-says-2026-10-28",
-   "snippet": "The Misinformation Monitor newsletter rounds up international misinformation narratives, with a \"Real or Fake?\" quiz in every edition. Sign up here.\n\nA ​Renfe and an Iryo train crashed just after 9 a.m. (0800 GMT), causing two Iryo wagons to ​derail, a government spokesperson for the Castilla ​La Mancha region said, adding that the cause and ‌number ⁠of injuries were still being determined. [...] ",
-   "published": "Wed, 28 Oct 2026 09:06:58 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences - The New York Times",
-   "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
-   "snippet": "The conversation, in early February, had started like most of their regular check-ins, a ritual that had kept them connected after Bowen moved from their small village in China to the United States. But the mood soured when she admitted she had been cutting back on a seizure medication that kept her severe epilepsy under control. She told him she had been slicing her tablets into pieces with a pil",
-   "published": "Tue, 27 Oct 2026 16:00:12 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_casualty",
  "_query": "Chinese killed Africa accident",
  "_domains": [],
