@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Junta Strips 5 More Exiled Critics of Nationality",
+   "url": "https://www.genocidewatch.com/single-post/niger-junta-strips-5-more-exiled-critics-of-nationality",
+   "snippet": "According to Niger’s press agency, the junta’s latest action brings the number of people provisionally deprived of Nigerien nationality under the 2024 order to 25. In October 2024, the junta provisionally stripped nine people linked to former President Bazoum of their nationality. In June, authorities revoked the citizenship of Mariama Djibrine, an opposition figure living in exile. [...] The poli",
+   "published": "Thu, 29 Oct 2026 00:08:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Niger: DIEM-Risk analysis of the impact of the Strait of Hormuz crisis and the El Niño phenomenon on agricultural households, August 2026 - Niger | ReliefWeb",
+   "url": "https://reliefweb.int/report/niger/niger-diem-risk-analysis-impact-strait-hormuz-crisis-and-el-nino-phenomenon-agricultural-households-august-2026",
+   "snippet": "## Latest Updates\n\nDR Congo\n\n### Democratic Republic of the Congo: DIEM-Impact qualitative study of Ebola, conflict and agricultural livelihoods in Ituri, North Kivu and South Kivu (September 2026)\n\nNigeria\n\n### Nigeria: Emergency agricultural assistance needs in Adamawa, Borno and Yobe states - DIEM-Monitoring brief, September 2026\n\nSudan\n\n### Sudan: More than half of children assessed in Jebel M",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Arab News | Algeria senate approves sending troops to Niger",
+   "url": "https://www.arabnews.com/middle-east/algeria-senate-approves-sending-troops-to-niger-3008233",
+   "snippet": "The incident triggered a diplomatic row, with Niger joining fellow junta-led allies Mali and Burkina Faso in recalling its ambassador from Algiers.\n\nAlgeria and Mali have since resumed diplomatic ties.\n\nNiger has been run by General Tiani since a coup in July 2023 that toppled the elected president Mohamed Bazoum, who has been detained ever since.\n\nFollow\n\nTopics:NigerAlgeria\n\n## Related\n\nIsrael’s",
+   "published": "Sun, 25 Oct 2026 19:54:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria approves troop deployment to Niger: what is their mission? | Euronews",
+   "url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
+   "snippet": "Since July 2023, Niger has been ruled by a military junta led by General Abdourahamane Tiani, who deposed elected president Mohamed Bazoum, held in custody ever since, while the country continues to grapple with security turmoil and ongoing armed attacks.\n\nAdditional sources • AFP\n\n## Read more\n\n### Zelenskyy's planned Brussels visit for peace talks cancelled\n\n### Why Israel’s wartime election isn",
+   "published": "Mon, 26 Oct 2026 13:09:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "The United States has also seen its military footprint shrink.\n\nIn 2024, Washington withdrew approximately 1,000 soldiers from Niger after the military government terminated their security cooperation agreement. The withdrawal included personnel stationed at an important US drone base near Agadez.\n\nThe result has been a significant realignment of the Sahel’s security partnerships, with Western mil",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s upper house approves troop deployment to Niger | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/verkhnia-palata-alzhiru-skhvalila-vidpravlennia-viisk-do-nigeru-al-jazeera",
+   "snippet": "Earlier this month, Tebboune confirmed that Algeria had sent fighter jets to Niger at the end of August to help counter what he described as an attempted coup in Niamey. Algeria’s Ministry of Defense said that, at the request of the Nigerien authorities, two patrols of four Su-30 aircraft each, as well as an aerial refueling aircraft, arrived at Niamey airport.\n\nRead us on\n\n[](\n\n[](\n\nDownload our ",
+   "published": "Sun, 25 Oct 2026 14:41:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years | AP News",
+   "url": "https://apnews.com/article/algeria-niger-troops-economic-interests-d44b4d7a17cfc4a355376f2fffab0349",
+   "snippet": "The western Sahel region comprising Niger, Mali and Burkina Faso, has been shaken by violent extremism due to deadly attacks by armed groups linked to al-Qaida and the Islamic State group and the governments fighting them. All three countries have seen coups in recent years and struggled with overstretched security forces.\n\nThe move on Sunday emphasizes the thawing relations between Algeria and Ni",
+   "published": "Sun, 25 Oct 2026 23:49:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years",
+   "url": "https://www.bozemandailychronicle.com/wire/international/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years/article_00c19fd9-f06a-5ee6-b090-ca05db4623b7.html",
+   "snippet": "Last April, the countries of the Alliance of Sahel States — Niger, Mali and Burkina Faso — recalled their ambassadors from Algeria following an incident in which a Malian drone was shot down by Algeria's army near the border.\n\nAlgeria's foreign ministry also condemned the 2023 coup which brought Niger’s junta leader Tchiani to power.\n\nCopyright 2026 The Associated Press. All rights reserved. This ",
+   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to deploy troops to Niger to protect shared energy, economic interests – Middle East Monitor",
+   "url": "https://www.middleeastmonitor.com/20261026-algeria-to-deploy-troops-to-niger-to-protect-shared-energy-economic-interests",
+   "snippet": "Free Subscription\n\n bear our credit, this license also applies to them. What does that mean? For other permissions, please contact us.\n\n#### Spotted an error on this page? Let us know\n\n 0 Comments\n\n## Latest news\n\nSee all\n\n \n\nIslam Race and Rebellion in the Americas: Transatlantic Echoes of the West African Jihads \n\nEngaging the World: The Making of Hamas’s Foreign Policy\n\n## Related Posts\n\n Today",
+   "published": "Mon, 26 Oct 2026 18:23:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "url": "https://www.reuters.com/world/africa/algeria-send-troops-niger-first-foreign-deployment-since-1973-2026-10-25",
+   "snippet": "Algeria's parliament approved a resolution on Sunday authorising the deployment of army units to Niger, a parliamentary statement said, in what would mark",
+   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_extra",
  "_query": "Niger latest news",
  "_domains": [],

@@ -1,49 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "5 killed in attack on Adamawa communities – Daily Trust",
-   "url": "https://dailytrust.com/5-killed-in-attack-on-adamawa-communities",
-   "snippet": "At least five people have been killed in a suspected Boko Haram attack on Gaya-Sikalmi and Gaya-Gartsanau communities in Hong Local Government Area of Adamawa State.\n\nSources in the area said the attackers stormed the communities in the early hours of Monday, killing three residents in a gunfire, while two others died when an improvised explosive device (IED) planted along the main access road det",
-   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "BOKO HARAM TERRORISTS REPORTEDLY SIGHTED MOVING IN LARGE NUMBERS AS GAYA-DLANG COMMUNITY COMES UNDER ATTACK IN HONG LGA, ADAMAWA STATE - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/boko-haram-terrorists-reportedly-sighted-moving-in-large-numbers-as-gaya-dlang-community-comes-under-attack-in-hong-lga-adamawa-state",
-   "snippet": "Security Alerts\n\n# BOKO HARAM TERRORISTS REPORTEDLY SIGHTED MOVING IN LARGE NUMBERS AS GAYA-DLANG COMMUNITY COMES UNDER ATTACK IN HONG LGA, ADAMAWA STATE\n\nNews Desk\n\nBy News Desk\n\n0\n\nShare\n\nFacebookXPinterestWhatsApp\n\n, Hong LGA Chapter, and other clerics described the situation as chaotic, warning of growing fear among residents as the security situation deteriorates. [...] ### Share this:\n\n Shar",
-   "published": "Sun, 25 Oct 2026 20:50:30 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "INTELLIGENCE SOURCES REPORT INFLOW OF BOKO HARAM TERRORISTS INTO GWOZA, WARN OF POSSIBLE FURTHER ATTACKS AFTER FAILED IDP CAMP ASSAULTS - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/intelligence-sources-report-inflow-of-boko-haram-terrorists-into-gwoza-warn-of-possible-further-attacks-after-failed-idp-camp-assaults",
-   "snippet": "According to intelligence sources who spoke with TruthNigeria, the attempted attacks on the IDP camps were thwarted after soldiers reportedly neutralized terrorists operating in the Mandara Mountains, an area known to contain insurgent hideouts. The sources described the reported influx as an arrival of “defectors” from the Islamic State West Africa Province (ISWAP) faction, raising concerns about",
-   "published": "Sun, 25 Oct 2026 13:22:28 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62 | Armed Groups News | Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62",
-   "snippet": "“We still have men on the ground, and the more we recover bodies, we will put them in account,” Victor Mshelizah, Taraba police spokesperson, told The Associated Press.\n\n## Atrocities, ‘impunity’\n\nNigeria is in the midst of a security crisis that began more than 15 years ago when the Boko Haram armed group launched a rebellion against the government. Civilians are regularly attacked and kidnapped ",
-   "published": "Tue, 27 Oct 2026 15:53:35 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "At least 62 people killed in attack on a community in northeastern Nigeria - myMotherLode.com",
-   "url": "https://mymotherlode.com/news/africa/11256706/at-least-62-people-killed-in-attack-on-a-community-in-northeastern-nigeria.html/amp",
-   "snippet": "Nigeria faces a very complex security crisis where civilians are regularly attacked by bandits who carry out large-scale kidnapping for ransom and control illegal mine sites, and also by Islamist groups such as Boko Haram and the Islamic State West Africa Province.\n\nBy DYEPKAZAH SHIBAYAN  \n Associated Pres\n\nTags:  ap2\n\n© 2000-2024 Clarke Broadcasting Corporation. All rights reserved. [...] Visit F",
-   "published": "Tue, 27 Oct 2026 12:55:39 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Police Rescue Stolen Child, Arrest Suspects In 48-Hour Operations Across 15 States",
-   "url": "https://www.tvcnews.tv/police-rescue-stolen-child-arrest-suspects-in-48-hour-operations-across-15-states",
-   "snippet": "The Nigeria Police Force says its operatives recorded security successes across 15 states in the last 48 hours, including the rescue of a s.",
-   "published": "Wed, 28 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

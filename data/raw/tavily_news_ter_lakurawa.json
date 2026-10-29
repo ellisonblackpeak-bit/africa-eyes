@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "INTELLIGENCE SOURCES WARN OF PLANNED MULTIPLE TERROR ATTACKS AS LUKURAWA MILITANTS REPORTEDLY CAMP IN NIGER STATE - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/intelligence-sources-warn-of-planned-multiple-terror-attacks-as-lukurawa-militants-reportedly-camp-in-niger-state",
-   "snippet": "Lakurawa terrorists have reportedly been moving since Monday night and establishing camps in Kuimo and Kalgo communities in Mariga Local Government Area of Niger State, with movements reportedly observed around 3 a.m., according to an intelligence source who spoke to TruthNigeria. [...] A photo of what a source claims are Lukurawa terrorists moving on motorcycles. Picture Credit residents of Marig",
-   "published": "Tue, 27 Oct 2026 12:37:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Fearless Evangelists in Nigeria's Ungoverned Western Borderlands Languish in Chains - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/fearless-evangelists-in-nigerias-ungoverned-western-borderlands-languish-in-chains",
-   "snippet": "“Lakurawa provides ideological cover and heavy weapons, while local Fulani bandit gangs provide local knowledge and handle kidnapping for ransom. Ransom money funds expansion of bases, and expansion creates more kidnapping routes. That is why kidnappings are no longer random, they are strategic,” Attaihiru said.\n\nThis pattern is documented in an analysis of armed Fulani militarization across sub-S",
-   "published": "Fri, 23 Oct 2026 18:56:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Terrorists give ultimatum to indigenous Christians in Kebbi State",
-   "url": "https://www.csw.org.uk/es/presionar/terrorists-give-ultimatum-to-indigenous-christians-in-kebbi-state-6929",
-   "snippet": "Members of the Lakurawa terrorist group targeted homes belonging to indigenous Christians in the Ungwan Mato community on 9 September.",
-   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Troops Overrun Lakurawa Enclave, Neutralise Terrorists In Sokoto",
-   "url": "https://leadership.ng/troops-overrun-lakurawa-enclave-neutralise-terrorists-in-sokoto",
-   "snippet": "Troops of the Joint Task Force North-West, \"Operation Fansan Yamma\", have invaded a Lakurawa terrorists' enclave in Waria Forest, Tangaza local government.",
-   "published": "Mon, 26 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Police confirm three killed, inspector injured in Kebbi viol",
-   "url": "https://punchng.com/police-confirm-three-killed-inspector-injured-in-kebbi-violence?amp=",
-   "snippet": "The Kebbi State Police Command has confirmed that three people were killed and a police inspector injured during violence along the Besse/Shanga riverine axis of the state following rumours of cattle rustling and an impending attack by suspected Lakurawa terrorists. [...] According to him, the crisis began with rumours of cattle rustling by suspected Lakurawa terrorists and an imminent attack in t",
-   "published": "Tue, 27 Oct 2026 12:06:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Troops kill ISWAP Amir Abu Zubiru, 15 others in Lake Chad – Businessday NG",
-   "url": "https://businessday.ng/news/article/troops-kill-iswap-amir-abu-zubiru-15-others-in-lake-chad",
-   "snippet": "#### Related News\n\n MTN explains why mobile data finishes quickly\n Gunmen kill seven in Plateau community attack\n Tinubu asks Senate to approve $20.52bn, €1.045bn external loans\n\nAdvertisement\n\nShare\n\nAdd BusinessDay as a preferred source on Google   Follow BusinessDay on Google News\n\n## You Might Also Like\n\n[](\n\n### MTN explains why mobile data finishes quickly\n\nGunmen kill seven in Plateau commu",
-   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Troops Kill 35 Terrorists, Rescue 20 Abducted Corps Members",
-   "url": "https://thefact.ng/troops-kill-35-terrorists-rescue-20-abducted-corps-members",
-   "snippet": "The Armed Forces of Nigeria have neutralised at least 35 terrorists, including a senior Islamic State West Africa Province (ISWAP) commander and rescued",
-   "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "From static to strategic offensive: General Shaibu’s one year in office",
-   "url": "https://thenationonlineng.net/from-static-to-strategic-offensive-general-shaibus-one-year-in-office/amp",
-   "snippet": "By Michael Msuaan On October 30, 2025, when Lt. Gen. Waidi Shaibu assumed office as the 25th Chief of Army Staff, Nigeria's military establishment was at.",
-   "published": "Wed, 28 Oct 2026 04:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_lakurawa",
  "_query": "Lakurawa Nigeria",
  "_domains": [],

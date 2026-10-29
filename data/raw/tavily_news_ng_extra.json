@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Path To Next Level Of Reform In Civil Service – Olaopa",
+   "url": "https://www.newtimes.com.ng?p=33899",
+   "snippet": "Get the latest Nigeria news, daily news in Africa, Nigerian politics, African business, Lifestyle and Entertainment, Tech and Analysis of African news.",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ebola patient in Nigeria evacuated to Switzerland - Latest News from Saudi Arabia and the World",
+   "url": "https://saudigazette.com.sa/article/665764/world/ebola-patient-in-nigeria-evacuated-to-switzerland",
+   "snippet": "WHO has said the outbreak is the fastest-spreading Ebola outbreak on record and is on track to surpass the death toll of the deadliest: West Africa’s 2014-16 outbreak, which killed 11,000 people. Nigeria was among the countries affected, recording 20 cases before its outbreak was declared over after three months.\n\n### Latest News\n\nCatholic Bishops pray with President Donald Trump in this screengra",
+   "published": "Tue, 27 Oct 2026 09:13:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 62 people killed in attack on a community in northeastern Nigeria",
+   "url": "https://www.ksat.com/news/world/2026/10/27/at-least-62-people-killed-in-attack-on-a-community-in-northeastern-nigeria",
+   "snippet": "ABUJA – At least 62 people have been killed after gunmen attacked a community in northeastern Nigeria, the country’s emergency agency said Tuesday.\n\nThe attack, reportedly carried out by criminals known as bandits, happened on Friday in Binnari community located in the Karim-Lamido local government area of Taraba state, and also wounded 52 other people and displaced thousands, according to Ladan A",
+   "published": "Tue, 27 Oct 2026 10:39:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa faces 'complex' Ebola outbreak after Nigeria reports first case in a decade | SBS News",
+   "url": "https://www.sbs.com.au/news/article/africa-faces-complex-ebola-outbreak-after-nigeria-reports-first-case-in-a-decade/p6qovtr6p",
+   "snippet": "Nigeria successfully held back that outbreak within its borders, resulting in only 19 infections and seven deaths — raising confidence the densely packed nation can respond effectively to new public health threats.\n\n\"It is contained, so far, the imported case. We have no evidence it has gone into the communities,\" Pate told a news conference in Abuja. \"So our focus is on the contact tracing and en",
+   "published": "Fri, 23 Oct 2026 02:49:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "First Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say - BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo",
+   "snippet": "Nigeria's Centre for Disease Control and Prevention (NCDC) said it was carrying out genomic sequencing, which could help investigators understand whether the infection is related to other cases.\n\n\"The investigation is reconstructing the full travel and exposure history. Genomic sequencing is given a high priority,\" said Dr Pavel Ursu, the WHO's representative in Nigeria. [...] The Nigerian patient",
+   "published": "Fri, 23 Oct 2026 04:54:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian Pharma Heavyweight Fidelis Ayebae's Fidson Healthcare Nine-Month Profit Rises 47% to N11.74bn - CEOWORLD Magazine",
+   "url": "https://ceoworld.biz/2026/10/29/nigerian-pharma-heavyweight-fidelis-ayebaes-fidson-healthcare-nine-month-profit-rises-47-to-n11-74bn",
+   "snippet": "Fidson Healthcare, the Nigerian pharmaceutical manufacturer founded by Fidelis Ayebae, raised profit after tax 47 percent to N11.74 billion ($8.8 million) in the nine months to September 30, 2026. Revenue grew 21 percent to N112.61 billion ($84.8 million), and pre-tax profit rose almost 50 percent to N17.79 billion. Growth accelerated in the third quarter. Quarterly pre-tax profit more than double",
+   "published": "Thu, 29 Oct 2026 12:25:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
+   "snippet": "The first case was a 42-year-old Ugandan woman living in Abuja, Nigeria’s capital, with her husband, a Swiss diplomat. She tested positive for the virus last week and was evacuated to Switzerland on Monday in stable condition.\n\nIt remains unclear where and how the patient was infected with Ebola. But she was in the Nigerian capital for 17 days before she tested positive for the virus. [...] Suppor",
+   "published": "Wed, 28 Oct 2026 18:16:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Stocks in Nigeria Hit All-time High",
+   "url": "https://www.tradingview.com/news/te_news:596391:0-stocks-in-nigeria-hit-all-time-high",
+   "snippet": "NSE All Share increased to an all-time high of 254241.00 Index Points.Over the past 4 weeks, Nigerian Stock Exchange All Share Index gained 0.4%, and in the",
+   "published": "Thu, 29 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian billionaire Abdul Samad Rabiu's BUA Cement posts $339 million nine-month profit",
+   "url": "https://www.billionaires.africa/2026/10/29/nigerian-billionaire-abdul-samad-rabius-bua-cement-posts-339-million-nine-month-profit",
+   "snippet": "BUA Cement, controlled by Nigerian billionaire Abdul Samad Rabiu, raised nine-month profit 60% to ₦463.1 billion ($339 million) on higher sales.",
+   "published": "Thu, 29 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South African economy 5% bigger after rebasing, moving further ahead of Nigeria",
+   "url": "https://www.cnbcafrica.com/2026/south-african-economy-5-bigger-after-rebasing-moving-further-ahead-of-nigeria",
+   "snippet": "(Reuters) – South Africa's economy is estimated to be ‌about 5% larger than previously reported after a benchmarking and rebasing exercise, its statistics",
+   "published": "Thu, 29 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],

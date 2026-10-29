@@ -1,35 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Small-Scale Miners’ Association backs cooperative mining scheme to formalize Galamsey",
-   "url": "https://www.ghanaweb.com/GhanaHomePage/business/Small-Scale-Miners-Association-backs-cooperative-mining-scheme-to-formalize-Galamsey-2058545",
-   "snippet": "He alleged that some schemes were launched to benefit foreign nationals, particularly Chinese miners, rather than Ghanaian communities.  \n   \n The association argued that the proposed cooperative mining model should avoid the shortcomings it attributed to previous initiatives by ensuring that Ghanaian miners benefit from formalization and that operations are properly regulated. [...] The associati",
-   "published": "Tue, 27 Oct 2026 04:18:45 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "A Week That Tests a Nation : Party Power Shifts , a School Scandal, a War on Galamsey , and a World at the edge.",
-   "url": "https://www.modernghana.com/news/1538562/a-week-that-tests-a-nation-party-power-shifts.html",
-   "snippet": "On Monday, the US State Department imposed sanctions under the Protecting American Intellectual Property Act on five Chinese entities, including Shanghai Zhisuan Technology and the venture firm MiraclePlus. China's commerce ministry called the move egregious and vowed necessary measures. MiraclePlus denies investing in Zhisuan. The underlying case is contested, since a judge dismissed the economic",
-   "published": "Sat, 24 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Minority in Parliament calls for Sammy Gyamfi’s resignation over galamsey comments",
-   "url": "https://www.gbcghanaonline.com/news/politics/minority-in-parliament-calls-for-sammy-gyamfis-resignation-over-galamsey-comments/2026",
-   "snippet": "## ADVERTISEMENT\n\n organization tasked with a mission to lead the broadcasting industry through quality programming, which promotes the development and cultural aspirations of Ghana as well as undertaking viable commercial activities\n\nFacebook-f     X-twitter     Youtube     Instagram\n\nTo lead the broadcasting and communication industry through quality programming, which promotes the development a",
-   "published": "Tue, 27 Oct 2026 10:16:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Concerned Small-Scale Miners defend GOLDBOD's galamsey formalisation, demand practical alternatives",
-   "url": "https://asaaseradio.com/concerned-small-scale-miners-defend-goldbods-galamsey-formalisation-demand-practical-alternatives",
-   "snippet": "Small-scale miners back GoldBod's Responsible Cooperative Mining Scheme, challenging the NPP to offer an alternative to tackle galamsey.",
-   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_galamsey",
  "_query": "Chinese galamsey Ghana",
  "_domains": [],

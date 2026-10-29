@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
+   "snippet": "The growing presence of Chinese investors is already visible in Vietnam's industrial parks, where Chinese manufacturers are bringing businesses that lie along their supply chains.  \n  \nBui The Long, general manager of Vietnam's Green i-Park Corp, told the Global Times at Tuesday's event that the company's industrial park has 36 Chinese investors, mainly operating in electronics and electrical appl",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam Geleximco, China Chery to cooperate in chips, robots, green energy - TNGlobal",
+   "url": "https://technode.global/2026/10/29/vietnam-geleximco-china-chery-to-cooperate-in-chips-robots-green-energy",
+   "snippet": "The agreement comes as the two groups are already working together in automobiles. Geleximco and Chery have a joint venture that produces and distributes Omoda and Jaecoo vehicles in Vietnam.\n\nThe joint venture also received an investment registration certificate for a $800 million factory in Vietnam’s Hung Yen province in July 2026. The factory has a capacity of 50,000 vehicles a year after the f",
+   "published": "Thu, 29 Oct 2026 08:08:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Roland Berger expert outlines ways to mobilise capital for growth",
+   "url": "https://vir.com.vn/roland-berger-expert-outlines-ways-to-mobilise-capital-for-growth-163937.html",
+   "snippet": "“For example, LEGO has built its first carbon-neutral factory in Vietnam, with an investment of $1 billion, while maintaining its supplier network in China and integrating the two systems. In this case, it is not China or Vietnam, but China and Vietnam working together,” Depoux said. [...] “Companies such as BYD, JOS Solar, and Goldwind are not simply relocating assembly operations to Vietnam, but",
+   "published": "Thu, 29 Oct 2026 09:21:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘Made in Vietnam’ Is Harder To Prove Than It Looks – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/made-in-vietnam-is-harder-to-prove-than-it-looks",
+   "snippet": "Apple is moving almost all final assembly of U.S.-bound iPads, Macs, Apple Watches, and AirPods to Vietnam. Other examples of multinationals that have expanded their production in Vietnam include Samsung and Nike. Chinese firms themselves are also heavily investing in Vietnam, particularly in electronics and auto manufacturing. This is part of a broader shift. In a survey of more than 1,000 busine",
+   "published": "Thu, 29 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "“Eroding Tariff Advantages and Manufacturing Constraints”: China Diversification Through Southeast Asia Under Strain, With Key Manufacturing Hubs’ Capabilities a Decisive Factor | Policy News — The Economy",
+   "url": "https://economy.ac/news/2026/10/202610295763",
+   "snippet": "China rose, Vietnam absorbed demand for expanded production facilities from Samsung Electronics and Apple suppliers Foxconn and Luxshare, emerging as one of the biggest beneficiaries of the “China plus one” (China+1) strategy. According to the Vietnamese government, registered foreign direct investment (FDI) reached $38.23 billion in 2024, with manufacturing and processing accounting for $25.58 bi",
+   "published": "Wed, 28 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Geleximco, China’s Chery expand strategic partnership into semiconductors, green energy",
+   "url": "https://theinvestor.vn/geleximco-chinas-chery-expand-strategic-partnership-into-semiconductors-green-energy-d20323.html",
+   "snippet": "Last month, Geleximco announced that it is advancing investment procedures for a chip plant in Hung Yen, with construction expected to begin in November 2026. Geleximco plans to test and integrate Vietnamese-designed control ICs, sensors, and power chips into electric vehicles and the group’s broader industrial ecosystem. The facility aims to launch commercial products in early 2028. [...] ### Gel",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tech leap reinforces China's position in global chains - Opinion - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202610/28/WS6ae14cdce4b06d4aa0565873.html",
+   "snippet": "In other words, China now supplies a growing share of critical equipment and components to other manufacturing hubs. Factories in Vietnam rely on machinery and raw materials imported from China to start production. Assembly lines in Mexico may source core modules from Shenzhen or Suzhou. [...] Similarly, US automotive components supplier Tenneco opened its Global Innovation Center in Kunshan, Jian",
+   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "COMMENTARY: US tariff war is fueling Vietnam's coal boom",
+   "url": "https://www.reuters.com/commentary/reuters-open-interest/us-tariff-war-is-fueling-vietnams-coal-boom-2026-10-23",
+   "snippet": "A years-long trade war between the United States and China has helped shift manufacturing investment, factory output and export production into Vietnam,",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Can Southeast Asia pitch itself as an ‘all-in-one’ chip hub? | Fortune",
+   "url": "https://fortune.com/2026/10/29/southeast-asia-semiconductor-supply-chain",
+   "snippet": "On Oct. 26, Reuters reported that Vietnam’s first semiconductor plant will likely miss its 2027 target to start a trial production run, with sources citing a lack of experience at the plant’s owner, Viettel.\n\nFortunately, moving up the value chain “does not have to mean building cutting-edge front-end fabs, which require enormous capital, reliable power and water, and highly skilled workers,” Kuno",
+   "published": "Thu, 29 Oct 2026 05:00:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "| Global Sources",
+   "url": "https://www.globalsources.com/sourcing-digest/solidigm-negotiates-45-billion-us-nand-factory-to-secure-china-equipment-import",
+   "snippet": "We use cookies to give you the best possible experience on our website. For more details including how to change your cookie settings, please read our Cookie Policy\n\nImage 1Sourcing Digest\n\nRSS & SUBSCRIBE\n\nHomeMarket TrendsInnovationStrategy & AnalysisSourcing & Supply ChainRegulations & ComplianceSupplier Tips\n\nHome / \n\nTerms of UsePrivacy PolicySecurity MeasuresIP PolicyCookie PolicyCookie Pref",
+   "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],

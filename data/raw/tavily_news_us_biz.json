@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "TotalEnergies sells oil assets for US$800 million",
-   "url": "https://inspenet.com/en/news/totalenergies-sells-oil-assets",
-   "snippet": "TotalEnergies’ exit from oil assets coincides with another corporate transaction announced in Nigeria, the day before, on October 26, Eni confirmed the sale of its subsidiary Agip Energy and Natural Resources (Nigeria), known as AENR, to Apex Global Energy Limited (APEX). The acquiring company belongs to Sterling Oil Exploration and Energy Production Company. Through this acquisition, APEX incorpo",
-   "published": "Tue, 27 Oct 2026 14:48:47 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Trump terminates Biden-era methane rules putting Africa’s $101.75 billion oil and gas market in focus | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/trump-terminates-biden-era-methane-rules-putting-africas-dollar10175-billion-oil-and/r0jnrt4",
-   "snippet": "If lower compliance costs encourage American companies to produce more oil and gas, the US could become a more competitive supplier in international markets, putting pressure on African exporters to compete on price. [...] Nigeria, Algeria and Egypt are established African gas producers, while Mozambique, Senegal and Mauritania are developing projects intended to increase the continent’s export ca",
-   "published": "Wed, 28 Oct 2026 10:37:12 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "/C O R R E C T I O N - North American Blue Energy Partners (NABEP)/ | Morningstar",
-   "url": "https://www.morningstar.com/news/pr-newswire/20261027ph82728/c-o-r-r-e-c-t-i-o-n-north-american-blue-energy-partners-nabep",
-   "snippet": "About North American Blue Energy Partners  \nNorth American Blue Energy Partners (NABEP) is an independent oil exploration and production company operating in North and Latin America, with offices in Caracas, Maracaibo and Lechería. NABEP is committed to the responsible development of energy resources, the safety of its people and the prosperity of the communities where it operates. www.nabep.net\n\n",
-   "published": "Tue, 27 Oct 2026 22:25:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "sonnen USA Acquired by TIVEN from Shell: VPP Market Expansion - News and Statistics - IndexBox",
-   "url": "https://www.indexbox.io/blog/sonnen-usa-sold-by-shell-to-tiven-as-virtual-power-plant-push-continues",
-   "snippet": "Sweden\n\n         Market Size\n         Production\n         Imports\n         Exports\n    22. 11.22\n\n        Nigeria\n\n         Market Size\n         Production\n         Imports\n         Exports\n    23. 11.23\n\n        Poland\n\n         Market Size\n         Production\n         Imports\n         Exports\n    24. 11.24\n\n        Belgium\n\n         Market Size\n         Production\n         Imports\n         Expor",
-   "published": "Fri, 23 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "World Bank puts US$11.4 billion price on off-grid solar | Financial Post",
-   "url": "https://financialpost.com/commodities/energy/renewables/world-bank-puts-price-on-off-grid-solar",
-   "snippet": "In sub-Saharan Africa, 47 per cent of solar home system sales in 2025 were in Kenya, Nigeria and Zambia, while sales in most of the rest of West and Central Africa showed little growth. About a third of homes without power can afford an entry-level solar home system on a pay-as-you-go basis, spending up to five per cent of household consumption expenditure, while another third could afford it at a",
-   "published": "Tue, 27 Oct 2026 13:56:37 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-   "url": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
-   "snippet": "Algeria's state-owned energy company, Sonatrach, has also signed an agreement with Niger's petroleum ministry to explore for oil in the Kafra region. Two exploration wells are estimated to contain 168 million and 100 million barrels, respectively, Reuters reported.\n\nRelations between Algeria and Niger have not always been smooth in recent years.\n\nAlgeria condemned the 2023 coup that ousted Niger's",
-   "published": "Mon, 26 Oct 2026 13:18:57 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Poland Energy Security Pact - Energy for Growth Hub",
-   "url": "https://energyforgrowth.org/article/poland-energy-security-pact",
-   "snippet": "State Department\n  + Lead diplomatic efforts to socialize US companies, policymakers, and financial institutions with Polish energy stakeholders, including utility officials, regulators, and the private sector.\n  + Implement the FIRST program to introduce US nuclear technology and standards.\n  + Leverage high-level commercial diplomacy tools, such as the Direct Line for American Business, to advoc",
-   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US Climate Action 100+ target firms weaken on net zero",
-   "url": "https://www.responsible-investor.com/us-climate-action-100-target-firms-weaken-on-net-zero",
-   "snippet": "Initiative's latest benchmark sees more North American company scores decline, Europeans improve on Just Transition.",
-   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US Ends Solar Tariff Dodges, But Building Own Sector Is Tough",
-   "url": "https://energynow.com/2026/08/us-ends-solar-tariff-dodges-but-building-own-sector-is-tough",
-   "snippet": "By Dan Murtaugh Chinese solar companies will go to great lengths to reach the US…",
-   "published": "Wed, 28 Oct 2026 19:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],

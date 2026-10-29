@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "US begins talks with Myanmar’s military authorities — DW | UA.NEWS",
-   "url": "https://ua.news/en/dovkolo-svitu/ssha-rozpochali-peregovori-z-viiskovoiu-vladoiu-mianmi-deutsche-welle",
-   "snippet": "After the coup in February 2021, the EU suspended direct financial aid to Myanmar’s government, imposed targeted sanctions, and sharply limited diplomatic contacts with the military authorities. The restrictions apply to 105 individuals and 22 entities linked to the military; in April, they were extended for another 12 months.\n\nMore current news is available on the UA.News Telegram channel Telegra",
-   "published": "Tue, 27 Oct 2026 17:28:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Myanmar junta’s aviation fuel trade fraud exposed | Justice For Myanmar",
-   "url": "https://www.justiceformyanmar.org/stories/the-myanmar-juntas-aviation-fuel-trade-fraud-exposed",
-   "snippet": "Justice For Myanmar demands the USA, UK, EU, Canada and Australia impose new targeted sanctions on the junta itself, following its rebrand from the previously sanctioned State Administration Council, and sanction the junta’s whole aviation fuel supply chain network, including the companies and individuals identified in this investigation. The policy aims of existing sanctions cannot be achieved wi",
-   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
-   "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eus-diplomatic-blockade/a-79778863",
-   "snippet": "Its sanctions currently cover 105 individuals and 22 entities connected to the military. In April, the EU extended these measures for another 12 months.\n\nAt the same time, Brussels is providing humanitarian assistance to displaced communities and Rohingya refugees and is supporting civil society organizations.\n\n## Thailand-Myanmar border clinic helps people fleeing war [...] One possibility is for",
-   "published": "Tue, 27 Oct 2026 15:16:56 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How Did Myanmar Hide Iranian Jet Fuel Imports to Evade US Sanctions? - Modern Diplomacy",
-   "url": "https://moderndiplomacy.eu/2026/10/26/how-did-myanmar-hide-iranian-jet-fuel-imports-to-evade-us-sanctions",
-   "snippet": "Myanmar’s military-linked companies and Iranian suppliers have continued to operate despite these restrictions. Reuters reported in October that Iranian jet fuel shipments to Myanmar were still taking place in 2026.\n\nThe case therefore illustrates a central challenge for sanctions enforcement: restricting access to strategic supplies requires not only targeting suppliers and buyers but also detect",
-   "published": "Mon, 26 Oct 2026 04:39:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "As Russian diesel flows to US, EU holds tough line and preps more sanctions | MLex | Specialist news and analysis on legal risk and regulation",
-   "url": "https://www.mlex.com/mlex/trade/articles/2541793/as-russian-diesel-flows-to-us-eu-holds-tough-line-and-preps-more-sanctions",
-   "snippet": "Start Free Trial\n\nAlready a subscriber? Click here to login\n\n### Related Sections\n\n Trade\n\n#### Already have access? Click here to login\n\n## Get instant access to the one-stop news source for business lawyers\n\nRegister Now!\n\n## Register for a complimentary 14-day trial with access to all sections and newsletters.\n\nEnter your details below and select your area(s) of interest to receive newsletters.",
-   "published": "Fri, 23 Oct 2026 16:04:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "bne IntelliNews - US lifts sanctions on Belarus potash chief as Minsk seeks help with EU",
-   "url": "https://www.intellinews.com/us-lifts-sanctions-on-belarus-potash-chief-as-minsk-seeks-help-with-eu-478832",
-   "snippet": "insisted that no EU member can be party to such a deal while EU sanctions stay in place. [...] 20 hours ago\n2. Everyone loves Lula, except Trump, Milei and Netanyahu\n\n   10 hours ago\n3. Brazil's Lula comes from behind to win historic fourth term\n\n   20 hours ago\n4. Missile War Monitor: Drones injure five at Russian plant in Perm that channels name as titanium maker Avisma\n\n   19 hours ago\n5. US li",
-   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Welcome back, Belgrade! But EU leaders attach strings to accession talks restart",
-   "url": "https://euperspectives.eu/2026/10/welcome-belgrade-eu-leaders",
-   "snippet": "Sanctions are the sharpest issue. Serbia is the only negotiating country not aligned with the EU’s Russia sanctions. Berlin, Paris, and Warsaw have made alignment a de facto precondition for moving forward with new negotiating chapters. Kosovo is another hurdle. Hard-line positions, continued ties with Moscow, and proposals for a membership referendum could all delay talks.\n\n> The doors of the Eur",
-   "published": "Mon, 26 Oct 2026 07:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ursula Von Der Leyen Congratulates Serbia’s Student List After 52.54% Vote: how 10 outlets framed it | NewsCord",
-   "url": "https://newscord.org/article/ursula-von-der-leyen-congratulates-serbias-student-list-after-5254-vote--Story_20261026_LaUEabrazalavictoriaaafe9227",
-   "snippet": "EU Reporter also quoted Bojana Zorić, an analyst at the European Union Institute for Security Studies, noting that the student movement had declared its opposition to sanctions against Moscow in September 2026 and that “Significant shifts in Serbia’s position on Kosovo, sanctions against Russia or its strategic ties with China appear unlikely in the near term,” even as she urged Brussels to “seize",
-   "published": "Mon, 26 Oct 2026 17:27:10 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_mm",
  "_query": "EU Myanmar sanctions",
  "_domains": [],

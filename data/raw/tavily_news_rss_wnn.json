@@ -9,20 +9,6 @@
    "score": 0.6
   },
   {
-   "title": "Joint venture formed for six-unit SMR plant in Poland",
-   "url": "https://www.world-nuclear-news.org/articles/joint-venture-formed-for-six-unit-smr-plant-in-poland",
-   "content": "Poland's SGE and ZE Pak have agreed to establish a joint venture to develop a nuclear power plant in Pątnów which will feature up to six BWRX-300 small modular reactors.",
-   "published_date": "Thu, 15 Oct 2026 12:39:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US DOE funding to accelerate molten salt reactor development",
-   "url": "https://www.world-nuclear-news.org/articles/us-doe-funding-to-accelerate-molten-chloride-reactor-development",
-   "content": "The Molten Chloride Reactor Experiment aims to achieve first criticality in 2027, with the US Department of Energy approving cost-shared funding under its Advanced Reactor Demonstration Program.",
-   "published_date": "Thu, 15 Oct 2026 13:13:36 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Thorizon, TNO launch MSR materials programme",
    "url": "https://www.world-nuclear-news.org/articles/thorizon-tno-launch-msr-materials-programme",
    "content": "Molten salt reactor developer Thorizon and Dutch research and technology organisation TNO have launched a materials and corrosion programme to generate the experimental data and predictive models required to qualify materials for molten salt reactors.",
@@ -130,15 +116,29 @@
   {
    "title": "Togo signs nuclear energy MoU with Rosatom",
    "url": "https://www.world-nuclear-news.org/articles/togo-signs-nuclear-energy-mou-with-rosatom",
-   "content": "The Ministry of Energy of Togo has signed a memorandum of understanding with Russia’s state nuclear corporation Rosatom to assess opportunities for implementing nuclear power projects.",
+   "content": "The Ministry of Energy of Togo has signed a memorandum of understanding with Russia's state nuclear corporation Rosatom to assess opportunities for implementing nuclear power projects.",
    "published_date": "Wed, 28 Oct 2026 08:33:48 GMT",
    "score": 0.6
   },
   {
-   "title": "Nuclear fuel delivered for Bangladesh’s second unit",
+   "title": "Nuclear fuel delivered for Bangladesh's second unit",
    "url": "https://www.world-nuclear-news.org/articles/nuclear-fuel-delivered-for-bangladeshs-second-unit",
    "content": "Russia's state nuclear corporation Rosatom says that the initial fuel load for Rooppur Nuclear Power Plant's second unit has been delivered.",
    "published_date": "Wed, 28 Oct 2026 13:17:56 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Turkish oil refiner to consider SMR deployment",
+   "url": "https://www.world-nuclear-news.org/articles/turkish-oil-refiner-to-consider-smr-deployment",
+   "content": "TÜPRAŞ, Turkey's largest crude oil refiner, has signed an agreement with the US Trade and Development Agency to fund technical assistance to assess the potential of small modular reactors to supply electricity, heat and steam for its refining processes.",
+   "published_date": "Thu, 29 Oct 2026 10:45:43 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Westinghouse to conduct key study for AP1000 in Slovakia",
+   "url": "https://www.world-nuclear-news.org/articles/westinghouse-to-conduct-key-study-to-prepare-for-ap1000-in-slovakia",
+   "content": "Westinghouse is to carry out a Front-End Engineering and Design study for the potential deployment of an AP1000 reactor at the Bohunice Nuclear Power Plant in the Slovak Republic.",
+   "published_date": "Thu, 29 Oct 2026 12:08:00 GMT",
    "score": 0.6
   },
   {
@@ -184,20 +184,6 @@
    "score": 0.6
   },
   {
-   "title": "Milestone for Bruce 4 refurbishment",
-   "url": "https://www.world-nuclear-news.org/articles/milestone-for-bruce-4-refurbishment",
-   "content": "Installation of the unit's 480 calandria tubes was completed faster than at Bruce 3 as the team carrying out the Major Component Replacement project continues to set new records for CANDU refurbishment.",
-   "published_date": "Thu, 15 Oct 2026 13:52:40 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "MHI delivers replacement steam generators for French reactor",
-   "url": "https://www.world-nuclear-news.org/articles/mhi-delivers-replacement-steam-generators-for-french-reactor",
-   "content": "Japan's Mitsubishi Heavy Industries has delivered a further three replacement steam generators to EDF. They are scheduled to be installed in unit 2 of its Cruas nuclear power plant in southeastern France.",
-   "published_date": "Thu, 15 Oct 2026 14:18:36 GMT",
-   "score": 0.6
-  },
-  {
    "title": "OPG firm joins UK BWRX-300 project",
    "url": "https://www.world-nuclear-news.org/articles/joint-venture-to-operate-planned-uk-bwrx-300-fleet",
    "content": "The UK-based project company of European SMR developer and investor SGE, and Origin Nuclear, a subsidiary of Ontario Power Generation, have signed a letter of intent to establish a joint venture for the future operation of a planned fleet of 14 BWRX-300 small modular reactors.",
@@ -209,6 +195,20 @@
    "url": "https://www.world-nuclear-news.org/articles/nvidia-to-consider-data-centres-at-former-german-nuclear-sites",
    "content": "Germany's PreussenElektra and multinational technology company NVIDIA are to explore whether PreussenElektra's former nuclear power plant sites are suitable for the construction of so-called AI factories.",
    "published_date": "Tue, 27 Oct 2026 12:14:46 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US government loan to support Constellation uprates",
+   "url": "https://www.world-nuclear-news.org/articles/us-government-loan-to-support-constellation-uprates",
+   "content": "US utility Constellation has secured a conditional loan commitment of up to USD5 billion from the Department of Energy's Office of Energy Dominance Financing towards uprates and modernisation projects across its nuclear power reactor fleet in Illinois, Maryland, and Pennsylvania.",
+   "published_date": "Wed, 28 Oct 2026 12:08:41 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Hyundai Engineering agrees to cooperate with US SMR developers",
+   "url": "https://www.world-nuclear-news.org/articles/hyundai-engineering-agrees-to-cooperate-with-us-smr-developers",
+   "content": "South Korea's Hyundai Engineering is aiming to establish a role in the global small modular reactor market by signing memorandums of understanding with US SMR developers NANO Nuclear Energy and ARC Clean Technology.",
+   "published_date": "Wed, 28 Oct 2026 12:52:40 GMT",
    "score": 0.6
   }
  ],

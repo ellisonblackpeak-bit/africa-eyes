@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EU-Philippines holds second security and defense dialogue",
-   "url": "https://www.manilatimes.net/2026/10/26/expats-diplomats/eu-philippines-holds-second-security-and-defense-dialogue/2453416/amp",
-   "snippet": "The European Union and the Philippines held their second Security and Defense Dialogue on Oct. 8 in Manila.\n\nDuring the dialogue, the EU and the Philippines reaffirmed their shared commitment to strengthening cooperation in multilateral forums to uphold the rules-based international order. [...] The dialogue, along with the EU’s recent announcement of its first-ever European Peace Facility (EPF) a",
-   "published": "Sun, 25 Oct 2026 16:01:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU GIVES PHL EYES AT SEA | Daily Tribune",
-   "url": "https://tribune.net.ph/2026/10/23/eu-gives-phl-eyes-at-sea",
-   "snippet": "The package, approved in July following Manila’s request last year, was discussed again during Philippine-EU security talks this month.\n\nIt marks the EU’s first military assistance package for the Philippines under the European Peace Facility, which supports the defense capabilities of partner countries.\n\nThe assistance comes as Manila struggles to patrol an archipelago of more than 7,600 islands,",
-   "published": "Fri, 23 Oct 2026 16:48:54 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU, Philippines strengthen digital ties with AI Lab launch | Philstar.com",
-   "url": "https://www.philstar.com/business/2026/10/25/2565468/eu-philippines-strengthen-digital-ties-ai-lab-launch",
-   "snippet": "Following the signature in July 2026 by EU High Representative for Foreign Affairs and Security Policy and Vice President of the European Commission Kaja Kallas and Foreign Affairs Secretary Ma. Theresa Lazaro of the Joint Statement elevating EU–Philippines relations to an enhanced partnership and the recently concluded negotiations for a free trade agreement, both sides are deepening cooperation ",
-   "published": "Sat, 24 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Philippines seeks deeper ties with Italy, says Foreign Secretary Lazaro – Decode39",
-   "url": "https://decode39.com/17111/philippines-seeks-deeper-ties-with-italy-says-foreign-secretary-lazaro",
-   "snippet": "For Italy, the strengthening of EU–Philippines relations could provide a favorable setting for deeper bilateral cooperation, from maritime security and investment to infrastructure and supply chains. [...] Indo-Pacific security and the prospect of an agreement with Italy. The Philippines regards Europe’s growing presence in the Indo-Pacific as a positive contribution to regional security. Asked by",
-   "published": "Tue, 27 Oct 2026 06:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables",
-   "url": "https://gcaptain.com/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-undersea-cables",
-   "snippet": "EU Leaders Back Finnish Push for Arctic Icebreaker Fleet\n\nSecurity ### EU Leaders Back Finnish Push for Arctic Icebreaker Fleet\n\nEuropean leaders have backed a stronger role for the European Union in the Arctic, with Finland pushing for a joint icebreaking capability as the region becomes increasingly important for commercial shipping, military mobility and competition with Russia and China.\n\nSept",
-   "published": "Thu, 22 Oct 2026 09:01:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Philippines Eyes Closer Taiwan Ties to Protect Vital Undersea Cables - Modern Diplomacy",
-   "url": "https://moderndiplomacy.eu/2026/10/22/philippines-eyes-closer-taiwan-ties-to-protect-vital-undersea-cables",
-   "snippet": "Global Order\n  + Diplomacy\n  + International Law\n  + Geopolitical Calendar\n Regions\n  + Europe\n  + Middle East & Africa\n  + East Asia\n  + Americas\n  + Eurasia\n  + South Asia\n  + Southeast Asia\n Economy\n  + Economy\n  + Emerging Markets\n Energy\n  + Energy Geopolitics\n  + Oil & Gas\n  + Energy Security\n  + Energy Transition\n Security & Conflict\n  + Defense\n  + Terrorism\n  + Intelligence\n  + Nuclear St",
-   "published": "Thu, 22 Oct 2026 10:40:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Super Typhoon Champi generates 10-metre waves east of the Philippines | EU Space Support Office | EU Space Policy",
-   "url": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/super-typhoon-champi-generates-10-metre-waves-east-philippines",
-   "snippet": "On 21 October 2026, Super Typhoon Champi, known in the Philippines as Rosal, was moving west-northwest across the Philippine Sea, about 850 km east of northern Luzon, the largest island of the Philippines. The storm had reached the equivalent of Category 5 on the Saffir-Simpson scale, the top category, with maximum sustained winds of 296 km/h. These were the strongest sustained winds recorded for ",
-   "published": "Thu, 22 Oct 2026 09:23:45 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Merz Pitches Closer Ties With Asia, Warns on Pressure From China - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/merz-pitches-closer-ties-with-asia-warns-on-pressure-from-china",
-   "snippet": "# Merz Pitches Closer Ties With Asia, Warns on Pressure From China\n\nGerman Chancellor Friedrich Merz said Europe and Asia can benefit from closer ties across trade and security issues as both regions face pressures from great powers, particularly China.\n\n“Together, we will be more successful if we respond in a coordinated manner to violations of free and fair trade,” he said Tuesday in Singapore, ",
-   "published": "Tue, 27 Oct 2026 07:31:11 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

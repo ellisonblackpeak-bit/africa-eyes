@@ -1,0 +1,116 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/Cinnamon_Xiaose/status/2115065851481387443",
+     "title": "The adjacent state is Magway and it's oilfields under PDF control, rare earths under KIA, the only thing they have left is the Kyaukphyu and",
+     "description": "The adjacent state is Magway and it's oilfields under PDF control, rare earths under KIA, the only thing they have left is the Kyaukphyu and Sittwe BRI projects which is their only leverage to China. And we know the situation there.",
+     "snippet": "The adjacent state is Magway and it's oilfields under PDF control, rare earths under KIA, the only thing they have left is the Kyaukphyu and Sittwe BRI projects which is their only leverage to China. And we know the situation there.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "萧瑟 🇲🇲",
+     "handle": "@Cinnamon_Xiaose"
+    },
+    {
+     "url": "https://x.com/Sunflowerdrink/status/2114788219070095530",
+     "title": "\"Myanmar: Suspected unlicensed Chinese-backed rare earth mines expand along border, report warns of serious environmental risks\" https://www",
+     "description": "\"Myanmar: Suspected unlicensed Chinese-backed rare earth mines expand along border, report warns of serious environmental risks\"\nhttps://www.business-humanrights.org/en/latest-news/unregulated-rare-earth-mining-in-myanmar-directed-by-chinese-enterprises-poisons-rivers-that-flow-through-thailand/",
+     "snippet": "\"Myanmar: Suspected unlicensed Chinese-backed rare earth mines expand along border, report warns of serious environmental risks\"\nhttps://www.business-humanrights.org/en/latest-news/unregulated-rare-earth-mining-in-myanmar-directed-by-chinese-enterprises-poisons-rivers-that-flow-through-thailand/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sunflower",
+     "handle": "@Sunflowerdrink"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2114688014794604667",
+     "title": "The mountains in eastern Shan State are being ripped apart for rare earths and gold by Chinese companies operating in ethnic-controlled conf",
+     "description": "The mountains in eastern Shan State are being ripped apart for rare earths and gold by Chinese companies operating in ethnic-controlled conflict zones where no one is held accountable.\n\n@NUGMyanmar @ChinaUncensored @UN  @benedictrogers \n\nhttps://www.thegatewaypundit.com/2026/10/chinese-mining-myanmars-shan-state-leaves-locals-polluted/",
+     "snippet": "The mountains in eastern Shan State are being ripped apart for rare earths and gold by Chinese companies operating in ethnic-controlled conflict zones where no one is held accountable.\n\n@NUGMyanmar @ChinaUncensored @UN  @benedictrogers \n\nhttps://www.thegatewaypundit.com/2026/10/chinese-mining-myanmars-shan-state-leaves-locals-polluted/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/SarahAdams35763/status/2114705477993116136",
+     "title": "Wherever mineral wealth exists, foreign powers move in to strip the land bare.",
+     "description": "Wherever mineral wealth exists, foreign powers move in to strip the land bare. \n\nLook at eastern Shan State in Myanmar, where Chinese firms and even Russian interests are illegally extracting rare earths and gold in ungoverned conflict zones.\n\nhttps://www.thegatewaypundit.com/2026/10/chinese-mining-myanmars-shan-state-leaves-locals-polluted/",
+     "snippet": "Wherever mineral wealth exists, foreign powers move in to strip the land bare. \n\nLook at eastern Shan State in Myanmar, where Chinese firms and even Russian interests are illegally extracting rare earths and gold in ungoverned conflict zones.\n\nhttps://www.thegatewaypundit.com/2026/10/chinese-mining-myanmars-shan-state-leaves-locals-polluted/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sarah Adams",
+     "handle": "@SarahAdams35763"
+    },
+    {
+     "url": "https://x.com/MinhDr18/status/2115431701514203324",
+     "title": "CCP now effectively controls the regions with rare earth mines located in border districts of Myanmar by using its proxy groups like UWSA.",
+     "description": "CCP now effectively controls the regions with rare earth mines located in border districts of Myanmar by using its proxy groups like UWSA. Those regions are now de facto part of China via the Mandarin Monroe Doctrine",
+     "snippet": "CCP now effectively controls the regions with rare earth mines located in border districts of Myanmar by using its proxy groups like UWSA. Those regions are now de facto part of China via the Mandarin Monroe Doctrine",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dr. Minh Tran",
+     "handle": "@MinhDr18"
+    },
+    {
+     "url": "https://x.com/Ayush90588474/status/2115334342763532519",
+     "title": "And this has already happened in Myanmar.",
+     "description": "And this has already happened in Myanmar. I'm not inventing anything out of thin air. CCP now effectively controls the regions with rare earth mines located in border districts of Myanmar by using it's proxy groups like UWSA. Those regions are now de facto part of China",
+     "snippet": "And this has already happened in Myanmar. I'm not inventing anything out of thin air. CCP now effectively controls the regions with rare earth mines located in border districts of Myanmar by using it's proxy groups like UWSA. Those regions are now de facto part of China",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tamralipta Coppermint worker",
+     "handle": "@Ayush90588474"
+    },
+    {
+     "url": "https://x.com/Ayush90588474/status/2115354688434700384",
+     "title": "Btw they've already done that to border regions of Myanmar which they control via their proxy groups like wa state army.",
+     "description": "Btw they've already done that to border regions of Myanmar which they control via their proxy groups like wa state army. Entire mountains cut down for rare earth mines, villages filled with acid ponds for mineral processing and all the wastewater goes downstream in mekong river",
+     "snippet": "Btw they've already done that to border regions of Myanmar which they control via their proxy groups like wa state army. Entire mountains cut down for rare earth mines, villages filled with acid ponds for mineral processing and all the wastewater goes downstream in mekong river",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tamralipta Coppermint worker",
+     "handle": "@Ayush90588474"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2114688021652017259",
+     "title": "Myanmar was the 4th largest rare-earth producer, supplying nearly half of China's imports, yet local people get zero benefits—only destructi",
+     "description": "Myanmar was the 4th largest rare-earth producer, supplying nearly half of China's imports, yet local people get zero benefits—only destruction. It's the ultimate betrayal of our land while the war rages on.",
+     "snippet": "Myanmar was the 4th largest rare-earth producer, supplying nearly half of China's imports, yet local people get zero benefits—only destruction. It's the ultimate betrayal of our land while the war rages on.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/POTFES/status/2115426507841769782",
+     "title": "TIL that the Kachin Independence Army (KIA) in Myanmar, control 50% of the world's mining output of rare earth",
+     "description": "TIL that the Kachin Independence Army (KIA) in Myanmar, control 50% of the world's mining output of rare earth",
+     "snippet": "TIL that the Kachin Independence Army (KIA) in Myanmar, control 50% of the world's mining output of rare earth",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Pindo 🇪🇺",
+     "handle": "@POTFES"
+    },
+    {
+     "url": "https://x.com/GeoPulseLab/status/2114645572481356041",
+     "title": "Rare earths offer another possible motive.",
+     "description": "Rare earths offer another possible motive. 🇨🇳 China is the main buyer of Myanmar’s rare earths, but access to the country’s heavy rare earth deposits could help Washington diversify supplies.",
+     "snippet": "Rare earths offer another possible motive. 🇨🇳 China is the main buyer of Myanmar’s rare earths, but access to the country’s heavy rare earth deposits could help Washington diversify supplies.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GeoPulse",
+     "handle": "@GeoPulseLab"
+    }
+   ]
+  }
+ ]
+}

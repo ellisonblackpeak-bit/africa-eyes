@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "The bee is strong: Jollibee eyes 1,500 more areas for expansion",
-   "url": "https://www.rappler.com/business/jollibee-eyes-more-areas-expansion/",
-   "content": "The fast-food giant sees more room to grow outside Metro Manila, while setting its sights on listing its international business in Hong Kong in 2027",
-   "published_date": "Thu, 29 Oct 2026 09:56:15 +0800",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

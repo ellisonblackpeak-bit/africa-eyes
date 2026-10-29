@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Người sáng lập cộng đồng 500 runner Hàn Quốc ở Việt Nam",
-   "url": "https://vnexpress.net/nguoi-sang-lap-cong-dong-500-runner-han-quoc-o-viet-nam-5137067.html",
-   "content": "Ka Nung Hyun bắt đầu thi đấu marathon ở tuổi 55 tại Việt Nam, rồi lập cộng đồng 500 runner Hàn Quốc, trong đó 200 người dự Hanoi Midnight cuối tháng 11.",
-   "published_date": "Wed, 28 Oct 2026 09:00:00 +0700",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

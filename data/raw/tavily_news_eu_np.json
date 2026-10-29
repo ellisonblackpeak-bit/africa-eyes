@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Canada-EU summit seeks deepened alliance as US ties fray - myRepublica - The New York Times Partner, Latest news of Nepal in English, Latest News Articles | Republica",
-   "url": "https://myrepublica.nagariknetwork.com/news/canada-eu-summit-seeks-deepened-alliance-as-us-ties-fray-17-14.html",
-   "snippet": "The EU, repeatedly ridiculed by Trump and his top domestic allies, is also looking for reliable partnerships in a world dominated by China and the United States.\n\n  \n\nThe bloc has let Canada into its defense procurement alliance and invited Carney and Canadian officials to attend key EU meetings. [...] Blogs\n\nBLOG, OPINION\n\n### Chitwan Through a Child’s Eyes\n\n### Chitwan Through a Child’s Eyes\n\n#K",
-   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "What the EU–China trade deal means for Asia | East Asia Forum",
-   "url": "https://eastasiaforum.org/2026/10/26/what-the-eu-china-trade-deal-means-for-asia",
-   "snippet": "SOUTHEAST ASIA\n\n Indonesia\n Malaysia\n Vietnam\n Thailand\n Myanmar\n Cambodia\n Singapore\n Laos\n Philippines\n Timor-Leste\n Brunei\n\nSOUTH ASIA\n\n India\n Pakistan\n Bangladesh\n Nepal\n Sri Lanka\n Afghanistan\n Maldives\n Bhutan\n\nOCEANIA\n\n Australia\n New Zealand\n Fiji\n Papua New Guinea\n Pacific Islands\n\nCENTRAL ASIA\n\n Kazakhstan\n Uzbekistan\n Kyrgyzstan\n Tajikistan\n Turkmenistan\n\nWORLD\n\n United States\n Russia\n",
-   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU’s idea that China is caving to pressure is ‘serious misjudgment’: ex-diplomat | The Star",
-   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/25/eus-idea-that-china-is-caving-to-pressure-is-serious-misjudgment-ex-diplomat",
-   "snippet": "Nation 11 Aug 2026\n\n## SMG, SCMP ink MOU aimed at strengthening business ties between M'sia, Hong Kong\n\nNation 12 Aug 2026\n\n## SMG and SCMP ink landmark deal\n\nThe European Union’s perception that China is yielding to its pressure tactics on trade is a “serious misjudgment”, as Beijing proved during last year’s tariff war with the United States that it will not back down from a confrontation, a for",
-   "published": "Sun, 25 Oct 2026 18:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Asia braces for Europe’s turn on Chinese overcapacity | East Asia Forum",
-   "url": "https://eastasiaforum.org/2026/10/25/asia-braces-for-europes-turn-on-chinese-overcapacity",
-   "snippet": "While the EU and China have so far patched their differences at the last minute, first on battery electric vehicles and now on hybrids, each patch has left Chinese exporters facing tighter limits in Europe. For Asia, the timing matters less than the redirection an EU diversification instrument would bring about. With the US market already narrowed by tariffs on China, the EU is the largest market ",
-   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Major Powers Woo Central Asia",
-   "url": "https://risingnepaldaily.com/news/88040",
-   "snippet": "Out to woo a region with vast mineral deposits so vital for their long-term needs, China, Russia, Pakistan, India, the United States and the European Union have held many meetings with Central Asia’s five nations in the past five years. It is all a race for vital minerals that prompt and attract regional powers and superpowers to flock to places with rich deposits of minerals. The Ukraine and Iran",
-   "published": "Mon, 26 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Why Chinese pundits say France’s riots could reshape European politics | The Star",
-   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/25/why-chinese-pundits-say-frances-riots-could-reshape-european-politics",
-   "snippet": "He warned of a starker situation if far-right forces were to triumph in both France and Germany, considered the European Union’s twin pillars.\n\nSong said the far-right forces’ shared agenda of opposing immigration and challenging EU integration would raise existential questions about the bloc’s future.\n\n“Europe’s future is likely to be filled with uncertainty and turbulence,” he added. -- SOUTH CH",
-   "published": "Sun, 25 Oct 2026 22:20:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Overview of Schengen Visa Statistics (2014 – 2024)",
-   "url": "https://schengenvisainfo.com/statistics",
-   "snippet": "| 68 | Guinea-Bissau | 16,140 |\n| 69 | Rwanda | 15,633 |\n| 70 | Tanzania | 15,291 |\n| 71 | North Macedonia | 15,062 |\n| 72 | Cambodia | 14,659 |\n| 73 | Sudan | 13,354 |\n| 74 | Serbia | 12,724 |\n| 75 | Niger | 12,489 |\n| 76 | Australia | 12,393 |\n| 77 | Togo | 12,000 |\n| 78 | Chad | 11,037 |\n| 79 | Nepal | 10,821 |\n| 80 | Haiti | 9,766 |\n| 81 | Japan | 9,734 |\n| 82 | Myanmar | 9,211 |\n| 83 | Hong K",
-   "published": "Mon, 26 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],

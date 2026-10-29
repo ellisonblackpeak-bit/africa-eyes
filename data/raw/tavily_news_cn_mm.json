@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China-Myanmar Crude Oil Pipeline Delivers over 100 Mln ...",
+   "url": "https://www.facebook.com/NewsContent.CCTVPLUS/videos/china-myanmar-crude-oil-pipeline-delivers-over-100-mln-tonnes-of-oilthe-china-my/1605273997264977",
+   "snippet": "The Kyaukphyu deep sea port project in Myanmar is primarily funded by the Chinese state-owned CITIC Group, which holds a 70% stake in the project,",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia-Pacific Community: Myanmar students explore Chinese culture through language training program-Xinhua",
+   "url": "http://www.news.cn/english/20261025/49946c21689444d8a7e67a18da68827f/c.html",
+   "snippet": "Liu Qing, deputy general manager of CITIC Myanmar, said the project began in 2019, reflecting the company's commitment to supporting local youth as it worked with Myanmar partners to advance the Kyaukphyu project. [...] Since 2024, the company has continued to offer Chinese-language training in Yangon in collaboration with its partners, guided by a vision of supporting Kyaukphyu's future and regio",
+   "published": "Sun, 25 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "As the US resumes direct engagement with Myanmar's ...",
+   "url": "https://www.facebook.com/theirrawaddy/posts/as-the-us-resumes-direct-engagement-with-myanmars-regime-china-is-scrambling-to/1590512809770537",
+   "snippet": "China can only continue its projects and investments if Myanmar is at peace.China wants a peaceful Myanmar because it benefits economically from it.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Monroe Doctrine and Its Strategic Blunder in Myanmar",
+   "url": "https://www.irrawaddy.com/opinion/guest-column/chinas-monroe-doctrine-and-its-strategic-blunder-in-myanmar.html",
+   "snippet": "Since the 2021 military coup, Myanmar has become increasingly unstable, while ethnic resistance organizations (EROs) have expanded their territorial control. Ironically, many resources and infrastructure projects China hopes to develop now lie in territories controlled by EROs and People’s Defense Forces (PDFs). Rare earth deposits are concentrated in Kachin State, where the Kachin Independence Or",
+   "published": "Wed, 28 Oct 2026 09:58:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Multinational executives, business delegates seek China opportunities - People's Daily Online",
+   "url": "https://en.people.cn/n3/2026/1027/c90000-20512804.html",
+   "snippet": "### Related Stories\n\n New wave of American fast-food chains bets on China's younger generation\n More than a factory floor: foreign companies expand innovation footprint in China\n Interview: Myanmar coffee sector eyes bigger access to huge Chinese market\n China grants approval to Citi for wholly-owned securities company in opening-up push\n Interview: Chinese market is great opportunity for Spanish ",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Next Chapter of Africa-China Climate Cooperation – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/the-next-chapter-of-africa-china-climate-cooperation",
+   "snippet": "##### Politics\n\n#### After 8 Months in Power, How Much Has the BNP Changed Bangladesh?\n\n##### Society\n\n#### ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge\n\n##### Diplomacy\n\n#### China’s Advance in the Bahamas\n\n### China Power | Environment | East Asia\n\n# The Next Chapter of Africa-China Climate Cooperation\n\nChina’s climate cooperation with Africa is becoming more",
+   "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Myanmar Will Be Middle Income Nation If Reforms Stay on ...",
+   "url": "https://www.adb.org/news/myanmar-will-be-middle-income-nation-if-reforms-stay-track-report",
+   "snippet": "Myanmar could follow Asia's fast growing economies and expand at 7% to 8% a year, become a middle income nation, and triple per capita income by 2030",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US targets Chinese biotech investment, but licensing deals remain exempt - Pharmaceutical Technology",
+   "url": "https://www.pharmaceutical-technology.com/news/us-targets-chinese-biotech-investment-but-licensing-deals-remain-exempt",
+   "snippet": "An October 2025 report from GlobalData, parent company of Pharmaceutical Technology, found that China-based companies were responsible for 20% of drugs in development globally, reflecting the powerhouse role the country has embraced in the pharmaceutical industry. Cross-border licensing hit $136bn in 2025 – a value more than 27 times higher than the $5bn rate seen in 2020. The trend increased in 2",
+   "published": "Fri, 23 Oct 2026 15:17:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Business | Eleven Media Group Co., Ltd",
+   "url": "https://elevenmyanmar.com/business",
+   "snippet": "(/cdn-cgi/l/email-protection#244945564f41504d4a43645341414f485d41484152414a0a474b49)\n\n(/cdn-cgi/l/email-protection#0560696073606b616c626c716469696864776e60716c6b62457260606e697c60696073606b2b666a68) [...] Home\n Editorial\n Politics\n Opinion\n News\n Crime\n Business\n Interview\n Sports\n Entertainment\n Cartoon\n Economy\n Opinions\n ထင်ရှားကျော်ကြား\n Review\n BRANDED CONTENT\n Help (Application FAQs)\n\nLogin\n",
+   "published": "Sun, 25 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Facebook",
+   "url": "https://www.facebook.com/NewsContent.CCTVPLUS/posts/china-myanmar-crude-oil-pipeline-delivers-over-100-mln-tonnes-of-oilthe-china-my/1555038763327558",
+   "snippet": "Explore the things you love.\n\nLog into Facebook\n\n---\n\nEnglish (US)\n\nEspañol\n\nFrançais (France)\n\n中文(简体)\n\nالعربية\n\nPortuguês (Brasil)\n\nItaliano\n\nMore languages…\n\nSign Up\n\nLog In\n\nMessenger\n\nFacebook Lite\n\nVideo\n\nMeta Pay\n\nMeta Store\n\nMeta Quest\n\nRay-Ban Meta\n\nMeta AI\n\nMuse\n\nInstagram\n\nThreads\n\nPrivacy Policy\n\nConsumer Health Privacy\n\nPrivacy Center\n\nAbout\n\nCreate ad\n\nCreate Page\n\nAd choices\n\nContact",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_mm",
  "_query": "Chinese company Myanmar investment project",
  "_domains": [],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "PH rail project delays revive China funding question | The Manila Times",
+   "url": "https://www.manilatimes.net/2026/10/24/news/national/ph-rail-project-delays-revive-china-funding-question/2452947",
+   "snippet": "Herman Tiu Laurel, president of the Asian Century Philippines Strategic Studies Institute, said the Philippines was being left behind by its neighbors in a forum on Friday, citing railway developments in Laos, Indonesia and Malaysia.\n\nHis assessment comes as the Mindanao Development Authority (MinDA) explores possible private-sector investment in the long-delayed Mindanao Railway Project, includin",
+   "published": "Fri, 23 Oct 2026 16:01:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's record-breaking exports of clean tech are making a b...",
+   "url": "https://www.semissourian.com/business/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report-says-b5315a4b",
+   "snippet": "The Philippines implemented similar policies and became the second-largest destination for Chinese solar exports in the first quarter of 2026. Indonesia has pledged to install 100 gigawatts of solar power by 2029.\n\n“The surge in clean energy policies in Southeast Asia shows there is a paradigm shift happening,” Chin said. “Considering Southeast Asia is one of the most vulnerable regions to climate",
+   "published": "Thu, 29 Oct 2026 10:01:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s sanctions on Taiwan allies project its power, but with limited effect – Radio Free Asia",
+   "url": "https://www.rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize",
+   "snippet": "“But I think for Beijing the mere fact it has created a news cycle out of the sanctions will mean it has achieved the desired effect of reinforcing its claims over Taiwan and showing there are consequences, however limited, to siding with Taipei.”\n\nEdited by Eugene Whong.\n\n## Related Stories\n\nChina pressure accelerates Philippines-Taiwan ties, analysts say### China pressure accelerates Philippines",
+   "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Digital Beachhead in the Western Hemisphere | RealClearWorld",
+   "url": "https://www.realclearworld.com/articles/2026/10/28/chinas_digital_beachhead_in_the_western_hemisphere_1213920.html",
+   "snippet": "The new satellite deal approved by Brazil’s telecommunications regulator authorizes the Chinese satellite company SpaceSail—a Starlink competitor—to operate a constellation of up to 324 low-orbit satellites in the country. SpaceSail filed in November 2025 and secured approval by February—less than three months. The company projects a fourth-quarter 2026 launch, bringing satellite internet to regio",
+   "published": "Wed, 28 Oct 2026 12:25:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Taiwan flags ‘obvious’ threat from 50 Chinese vessels across regional waters - The Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/politics/taiwan-50-chinese-vessels",
+   "snippet": "This month, China’s defense ministry said the Liaoning was engaged in a routine training exercise not directed at any specific country.\n\nChina’s ties with both Japan and the Philippines have tanked in recent months. Beijing has been upset by Japanese support for Taiwan, while embroiled in an increasingly bitter standoff with Manila in the South China Sea. [...] TAIPEI – China has more than 50 nava",
+   "published": "Thu, 29 Oct 2026 08:30:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
+   "snippet": "Chinese investment in Vietnam has also expanded. In the first nine months of 2026, China registered $2.27 billion in newly licensed capital. It ranked first in the number of new projects with about 850 projects in the first seven months of the year, Do said.  \n  \nNotably, Chinese investment is shifting from traditional processing to infrastructure connectivity, especially railway links, clean ener",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US reinvents rare earth refining as China guards know-how - Asia Times",
+   "url": "https://asiatimes.com/2026/10/us-reinvents-rare-earth-refining-as-china-guards-know-how",
+   "snippet": "Laura Konkel, senior counsel at Akin Gump, expects some rare earth projects to succeed. Photo: Asia Times/ Jeff Pao\n\nAclara will use large-scale solvent extraction to separate mixed rare earth carbonate shipped from its projects in Brazil and Chile. It’s unclear whether the company will source P507 and P204 extractants from China or buy more expensive substitutes in the US and Germany. [...] Indus",
+   "published": "Thu, 22 Oct 2026 23:29:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Side broadens its reach in China with the launch of a new studio and the acquisition of the art outsourcing company Roboto Entertainment | WN Hub",
+   "url": "https://wnhub.io/news/art/item-52500",
+   "snippet": "VR and ARUser AcquisitionIndieASOBooksEducationEsportsConferencesFinance and salesGamesGenerative AILocalizationNarrativePodcastsQA and SupportCompany CultureMarket OverviewFundingGame DevelopmentAILawSound DesignHTML5 GamesOnline GamesDistributionGame ProductionEngines and toolsUnreal EngineProject ManagementAdvertismentAnalyticsMarketingEngines and toolsStores and publishingBusiness DevelopmentG",
+   "published": "Mon, 26 Oct 2026 14:48:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The US-China Tech Cold War Is Moving Undersea - Bloomberg",
+   "url": "https://www.bloomberg.com/opinion/articles/2026-10-25/the-us-china-tech-cold-war-is-moving-undersea",
+   "snippet": "A new project by Australia, the UK and the US was quickly announced to develop underwater drone technology to protect cables by 2027, while Singapore launched a 17-country framework covering Southeast Asia, Europe, the Middle East and Oceania to explore defense cooperation on critical infrastructure. [...] , Columnist\n\n# The US-China Tech Cold War Is Moving Undersea\n\nWhen Australia’s Defence Minis",
+   "published": "Sun, 25 Oct 2026 20:01:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's record-breaking exports of clean tech are making a big dent in emissions, report says",
+   "url": "https://www.bozemandailychronicle.com/wire/business/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report/article_f97dfe3e-d2e5-552b-8b4c-9c0a6930560a.html",
+   "snippet": "China is exporting a record amount of clean energy technology and that is making a dent in global emissions. Interest in renewables has surged due to the",
+   "published": "Thu, 29 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],

@@ -1,14 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "European female hostages released from Islamic State | National Security News",
-   "url": "https://nationalsecuritynews.com/2026/10/european-female-hostages-released-from-islamic-state",
-   "snippet": "The pair were kidnapped separately last year from their homes in the Niger desert town of Agadez and are thought to have been held by Islamic State in the Sahel (ISS).\n\nHaftar, the son of Field Marshal Khalifa Haftar, has helped win freedom for a series of hostages this year, trying to build an image as a security broker in the Sahel, according to analysts. [...] Translating...\n\n#### 📖 Read Along\n",
-   "published": "Thu, 22 Oct 2026 13:15:16 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_eigs",
  "_query": "EIGS Islamic State Sahel",
  "_domains": [],

@@ -1,42 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Mali Retakes Kidal as Jihadist Threat Intensifies Across Sahel – Sri Lanka Guardian",
-   "url": "https://slguardian.org/mali-retakes-kidal-as-jihadist-threat-intensifies-across-sahel",
-   "snippet": "The September 10 attack on the Dioura military barracks in central Mali was the most significant reported engagement in the current sequence. At least 150 soldiers were killed, while JNIM claimed that 95 soldiers were kidnapped. The group also seized substantial quantities of military equipment, including 19 122mm rockets, assault rifles, heavy machine guns, rocket launchers, mortars, vehicles and",
-   "published": "Wed, 28 Oct 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Burkina Faso: Traore opens a new front with the Muslim community",
-   "url": "https://www.noonpost.com/en/386952",
-   "snippet": "Jama’at Nasr al-Islam wal-Muslimin is considered the most prominent jihadist actor in the central Sahel. It was formed on 2 March 2017 through the merger of several al-Qaida-linked armed Islamist groups. Its attacks were initially confined to northern areas bordering Mali before spreading into Burkina Faso and Niger. Since 2019, it has expanded its activities into northern Benin, Togo and Ivory Co",
-   "published": "Tue, 27 Oct 2026 18:59:45 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "New Report on Persecuted Christians Warns of Expanding Terrorism Across the Sahel and Sub-Saharan Africa",
-   "url": "https://www.aciafrica.org/news/24997/new-report-on-persecuted-christians-warns-of-expanding-terrorism-across-the-sahel-and-sub-saharan-africa",
-   "snippet": "Terrorist groups are expanding their reach across borders in the Sahel and Sub-Saharan Africa, where they are driving the growing persecution of Christians,",
-   "published": "Wed, 28 Oct 2026 22:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Why Ukraine May Be Involved in Mali's Conflict",
-   "url": "https://en.tempo.co/read/2122400/why-ukraine-may-be-involved-in-malis-conflict",
-   "snippet": "But a potential partnership with the FLA carries political risks. Because the Tuareg separatists cooperate with the JNIM, Kyiv could face accusations of indirectly supporting jihadist fighters. That could undermine Ukraine's efforts to strengthen its relations with African countries.\n\nRead:Mali Defense Minister Killed in Terrorist Attack\n\nClick hereto get the latest news updates from Tempo on Goog",
-   "published": "Mon, 26 Oct 2026 23:56:59 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Two European women held captive for more than a year in Niger freed in Libya - MyJoyOnline",
-   "url": "https://www.myjoyonline.com/two-european-women-held-captive-for-more-than-a-year-in-niger-freed-in-libya",
-   "snippet": "Libya’s military seizes narcotics after firefight with smugglers\n\n Government repatriates 180 Ghanaians from Libya\n\n WAFU B U-17 Girls Cup: Black Maidens thump Niger in fourth game\n\n Libya power cuts push small businesses and weary citizens to brink\n\n AFCON 2027Q: Somalia, Niger to play home matches at Accra Sports Stadium as CAF clears facility\n\n Drugs marked with Gaddafi’s face seized in Libya\n\n",
-   "published": "Thu, 22 Oct 2026 10:10:51 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_sahel",
  "_query": "Sahel jihadist attack",
  "_domains": [],
