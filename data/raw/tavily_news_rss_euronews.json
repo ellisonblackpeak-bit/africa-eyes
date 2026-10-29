@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
+   "url": "https://www.euronews.com/video/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv",
+   "content": "A Russian strike on Chernihiv killed two 15-year-old girls and injured 25 people, local officials say. Meanwhile, a US-brokered ceasefire in southern Ukraine is allowing demining work aimed at opening humanitarian routes.",
+   "published_date": "Fri, 30 Oct 2026 00:15:02 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Spain: minute of silence for train crash victims as king visits hospital",
+   "url": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital",
+   "content": "Spain is mourning 69 people killed in a high-speed train collision near Toledo. As King Felipe VI visits a hospital treating the injured, rescuers continue searching the wreckage and a minute of silence is held at the crash site.",
+   "published_date": "Thu, 29 Oct 2026 23:47:58 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Kazakhstan's Tokayev calls for faster construction of nuclear power plants",
    "url": "https://www.euronews.com/2026/10/29/kazakhstans-tokayev-calls-for-faster-construction-of-nuclear-power-plants",
    "content": "President Tokayev outlined the country's priorities for the coming year in his annual address, urging the government to accelerate energy and construction projects, while criticising inefficiencies in public policy.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory",
    "content": "Brazil's re-elected President Luiz Inácio Lula da Silva celebrated his 81st birthday on Tuesday, 27 October, with dozens of supporters outside the Alvorada presidential palace in Brasília, just two days after winning a closely contested election.",
    "published_date": "Wed, 28 Oct 2026 09:30:31 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine: massive fire engulfs buildings after Russian strike on Kharkiv",
-   "url": "https://www.euronews.com/video/2026/10/28/ukraine-massive-fire-engulfs-buildings-after-russian-strike-on-kharkiv",
-   "content": "Five people, including a 4-year-old child, were injured in an overnight Russian drone strike on Kharkiv. The attack set several buildings ablaze, with firefighters working under the threat of further strikes.",
-   "published_date": "Wed, 28 Oct 2026 08:43:15 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Europe Today: Israel faces deadlock after vote, Nordic leaders hold rare Putin call",
-   "url": "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call",
-   "content": "Israel's election has ended in apparent deadlock, with neither Benjamin Netanyahu nor Gadi Eisenkot on track for a majority. Finland's and Norway's leaders have phoned Vladimir Putin as Europe seeks a seat at the table. We also cover Serbia's vote, the upcoming US midterms, and Mbappé's China row.",
-   "published_date": "Wed, 28 Oct 2026 08:01:50 +0100",
    "score": 0.6
   }
  ],

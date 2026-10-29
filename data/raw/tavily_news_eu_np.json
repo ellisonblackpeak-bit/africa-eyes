@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "What the EU–China trade deal means for Asia | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/26/what-the-eu-china-trade-deal-means-for-asia",
+   "snippet": "SOUTHEAST ASIA\n\n Indonesia\n Malaysia\n Vietnam\n Thailand\n Myanmar\n Cambodia\n Singapore\n Laos\n Philippines\n Timor-Leste\n Brunei\n\nSOUTH ASIA\n\n India\n Pakistan\n Bangladesh\n Nepal\n Sri Lanka\n Afghanistan\n Maldives\n Bhutan\n\nOCEANIA\n\n Australia\n New Zealand\n Fiji\n Papua New Guinea\n Pacific Islands\n\nCENTRAL ASIA\n\n Kazakhstan\n Uzbekistan\n Kyrgyzstan\n Tajikistan\n Turkmenistan\n\nWORLD\n\n United States\n Russia\n",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The world's climate bill is mounting. But who should really foot the cost? - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/science/the-worlds-climate-bill-is-mounting-but-who-should-really-foot-the-cost/articleshow/135233646.cms",
+   "snippet": "to decarbonise faster makes little sense if they cannot afford the technology needed to do so.There is a serious question here. Can a climate policy be fair if the same rules impose very different costs on countries with vastly different incomes and industrial capabilities?A mountain collapses, and the bill runs into billionsOn August 26, a huge mass of rock and glacier ice collapsed from Langtang",
+   "published": "Tue, 27 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Canada-EU summit seeks deepened alliance as US ties fray",
+   "url": "https://risingnepaldaily.com/news/88084",
+   "snippet": "Canada-EU summit seeks deepened alliance as US ties fray\n\n The Rising Nepal\n Tue, 27 October 2026\n\n## Water transport on Saptakoshi holds promise, yet poses risks\n\nCanada-EU summit seeks deepened alliance as US ties fray\n\n The Rising Nepal\n Tue, 27 October 2026\n\n### 13th Saraya dance held\n\nCanada-EU summit seeks deepened alliance as US ties fray\n\n The Rising Nepal\n Tue, 27 October 2026\n\n### NOC bi",
+   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU business opposes supply diversification plan away from China — SCMP | UA.NEWS",
+   "url": "https://ua.news/en/world/biznes-es-vistupiv-proti-planu-diversifikatsiyi-postachan-poza-kitaiem-south-china-morning-post",
+   "snippet": "As South China Morning Post reports, the European Commission plans to present three new geoeconomic policy instruments in December. None of them will explicitly name China, but the overall goal is to reduce dependence on Beijing and strengthen the EU's ability to respond to trade pressure. According to the publication, the package may be presented on December 9.\n\n## Three proposed mechanisms [...]",
+   "published": "Thu, 29 Oct 2026 06:08:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Decoupling ‘would be a big mistake’, says German Chancellor Merz as he seeks balanced ties with China – Asia News Network",
+   "url": "https://asianews.network/decoupling-would-be-a-big-mistake-says-german-chancellor-merz-as-he-seeks-balanced-ties-with-china",
+   "snippet": "“We are working systematically towards that goal, both in Germany and at the European level,” he said, as he delivered the 49th Singapore Lecture organised by the ISEAS – Yusof Ishak Institute.\n\nEurope-China talks earlier in October resulted in China agreeing to cap hybrid electric vehicle exports to the European Union over a four-year period. Brussels is alarmed at a ballooning trade deficit that",
+   "published": "Wed, 28 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Chongqing and Duisburg Plan to Move China-Europe Freight More Efficiently | ichongqing",
+   "url": "https://www.ichongqing.info/2026/10/28/how-chongqing-and-duisburg-plan-to-move-china-europe-freight-more-efficiently",
+   "snippet": "Although China-Europe freight services have expanded over the past decade, operating a successful outbound service does not necessarily guarantee an equally efficient return journey. Trains carrying goods from China to Europe may struggle to secure sufficient cargo for the trip back, making it harder to maintain balanced freight flows in both directions. [...] This photo taken on Dec. 3, 2024 show",
+   "published": "Wed, 28 Oct 2026 15:15:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China stresses dialogue, opposes discriminatory EU trade curbs",
+   "url": "https://www.chinadailyasia.com/article/641936",
+   "snippet": "CHINAGLOBAL EDITION\n\nHONG KONG\n\n published in this site belongs to China Daily. Without written authorization from China Daily, such content shall not be republished or used in any form.",
+   "published": "Thu, 29 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why U.S. EV sales lag China, Europe as global shift accelerates - Automotive News",
+   "url": "https://www.autonews.com/technology/mobility/an-global-ev-market-dynamics-1027",
+   "snippet": "Mobility\n\n# How the U.S. is becoming an outlier in the global EV race\n\nAdd as a preferred source on Google\n\na car in hanoi\n\nElectric vehicles made up 41 percent of new-vehicle sales in Vietnam in 2025, up from less than 1 percent in 2020. (WIKIMEDIA COMMONS)\n\nMB\n\nBy\n\nMolly Boigon\n\nOctober 27, 2026 07:00 AM EDT\n\n## Featured Stories\n\nEV\n\nWhy fast-charging networks need more than reliability as China",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],
