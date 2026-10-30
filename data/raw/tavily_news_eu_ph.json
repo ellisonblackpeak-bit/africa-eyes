@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU GIVES PHL EYES AT SEA",
+   "url": "https://tribune.net.ph/2026/10/23/eu-gives-phl-eyes-at-sea",
+   "snippet": "The European Union approves €15 million, or P1 billion, in military assistance to strengthen Philippine maritime surveillance through coastal radars and",
+   "published": "Sat, 24 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Prilenia, Ferrer secure EU authorisation for Phase III HD trial",
+   "url": "https://www.clinicaltrialsarena.com/news/prilenia-ferrer-eu-authorisation-hd-trial",
+   "snippet": "Experience unmatched clarity with a single platform that combines unique data, AI, and human expertise.\n\nFind out more\n\n \n\n#### Sign up for our daily news round-up!\n\nGive your business an edge with our leading industry insights.\n\nGive your business an edge with our leading industry insights.\n\nclose\n\nclose\n\n#### Sign up to the newsletter: In Brief\n\n## Thank you for subscribing\n\nView all newsletters",
+   "published": "Fri, 23 Oct 2026 09:35:17 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

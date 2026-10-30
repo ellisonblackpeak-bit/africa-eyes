@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Inside India newsletter: $22 billion in military spending approved",
-   "url": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
-   "snippet": "A spokesperson for India's foreign ministry said on Friday that \"the situation in the India-China border areas gets disturbed from time to time when Chinese forces diverge from established patrolling patterns.\" Beijing responded, saying it \"strictly abides by the relevant agreements and common understandings reached between the two countries.\" [...] Any thoughts on today's newsletter? Share them w",
-   "published": "Thu, 29 Oct 2026 00:11:14 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Seeks Cooperation After Indian Comments on Border Patrols - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/china-seeks-india-s-cooperation-after-report-of-border-standoff",
-   "snippet": "# China Seeks Cooperation After Indian Comments on Border Patrols\n\n## Takeaways by Bloomberg AI\n\nChina said it wanted India’s cooperation on border issues, following comments from India that changes in Chinese border patrols disturb peace in the area. [...] “We hope that India will work with China in the same direction by jointly implementing the common understandings between the two sides and tak",
-   "published": "Mon, 26 Oct 2026 09:02:33 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "India deploys extra forces after protests over dam on Chinese border escalate | Reuters",
-   "url": "https://www.reuters.com/world/china/india-deploys-extra-forces-after-protests-over-dam-chinese-border-escalate-2026-10-27",
-   "snippet": "Arunachal Pradesh's chief minister, a member of Prime Minister Narendra ⁠Modi's Bharatiya ​Janata Party, has called the Chinese project an ​existential threat and said the government would protect national interests while respecting the rights and aspirations of the ​people of Siang Valley.\n\nReporting by Tora Agarwala, writing by Shanima Aniyeri, editing by Alexandra Hudson\n\nOur Standards: The Tho",
-   "published": "Tue, 27 Oct 2026 11:39:08 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_in",
  "_query": "Chinese company India investment border",
  "_domains": [],

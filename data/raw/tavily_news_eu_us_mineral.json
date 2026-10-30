@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Closer EU-Canada ties face critical minerals test",
+   "url": "https://www.theparliamentmagazine.eu/news/article/closer-eucanada-ties-face-critical-minerals-test",
+   "snippet": "Canada’s mineral trade is geared towards the U.S., meaning shifting supplies to Europe will require new commercial ties and infrastructure. Transport costs and EU regulatory requirements also pose challenges for Canadian suppliers.\n\nInvestors also need clarity on which minerals the EU wants. Of Canada’s 34 critical minerals, 24 are considered critical by the EU, including 13 classified as strategi",
+   "published": "Wed, 28 Oct 2026 07:41:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ending China’s 60-Year Grip on Critical Minerals - CEPA",
+   "url": "https://cepa.org/article/ending-chinas-60-year-grip-on-critical-minerals",
+   "snippet": "Insights & Analysis\n\nEurope's Edge\n\n# Ending China’s 60-Year Grip on Critical Minerals\n\nThe US and Europe allowed China to corner the market in critical minerals that enable modern life. Now, they must work together to secure a supply chain.\n\nBy Sharon Hudson-Dean\n\nThis is part of a series examining the central importance of critical minerals and the race to ensure Western supply. [...] The US and",
+   "published": "Thu, 29 Oct 2026 15:23:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Readying for Major Australian Resources Investment, Ambassador Says",
+   "url": "https://www.usnews.com/news/world/articles/2026-10-27/eu-readying-for-major-australian-resources-investment-ambassador-says",
+   "snippet": "The bloc is looking initially at the minerals that Australia will prioritise for its strategic reserve: gallium, antimony and rare earths.\n\nAustralian companies going faster through the early project development would speed the investment process, he said.\n\n\"(The FTA) is a signal that Europe wants to do far more with Australia. We also have a security and defence partnership. A lot of that is dual",
+   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],

@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Rising heat and humidity increase pregnancy termination risks in Nigeria",
-   "url": "https://www.news-medical.net/news/20261026/Rising-heat-and-humidity-increase-pregnancy-termination-risks-in-Nigeria.aspx",
-   "snippet": "## Latest News\n\nAutistic people show weaker brain responses to negative feedback\nAdrenaline and dopamine help explain the thrill of being scared\nNew model reduces trial and error in mass spectrometry imaging\nResearchers develop versatile genetic tool to investigate cell interactions\nHēlo system offers minimally invasive solution for chronic venous thromboembolism\n\n## Newsletters you may be interes",
-   "published": "Mon, 26 Oct 2026 19:43:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers - The New York Times",
-   "url": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
-   "snippet": "The first case was a 42-year-old Ugandan woman living in Abuja, Nigeria’s capital, with her husband, a Swiss diplomat. She tested positive for the virus last week and was evacuated to Switzerland on Monday in stable condition.\n\nIt remains unclear where and how the patient was infected with Ebola. But she was in the Nigerian capital for 17 days before she tested positive for the virus. [...] Suppor",
-   "published": "Wed, 28 Oct 2026 18:16:55 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South African economy 5% bigger after rebasing, moving further ahead of Nigeria",
-   "url": "https://www.reuters.com/world/africa/south-africa-economy-estimated-be-49-bigger-after-rebasing-2026-10-29",
-   "snippet": "South Africa's economy is estimated to be ‌about 5% larger than previously reported after a benchmarking and rebasing exercise, its statistics agency said",
-   "published": "Thu, 29 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],

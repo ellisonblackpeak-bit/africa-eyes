@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "World Insights: Growing practical cooperation boosts China-Russia ties - BELT AND ROAD PORTAL",
-   "url": "https://eng.yidaiyilu.gov.cn/p/05UL4NG7.html",
-   "snippet": "\"The share of local currency settlement in China-Russia trade has exceeded 99 percent. Cross-border e-commerce volume has surpassed 40 billion dollars, and the platform economy boasts enormous potential. Energy cooperation is advancing steadily. Russia remains a major crude oil supplier to China, with a marked rise in supplies of liquefied natural gas. Dividends from the mutual visa-free policy ke",
-   "published": "Sat, 24 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Arctic shipping: China and Russia expand grip, can Europe fight back?",
-   "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-   "snippet": "For Moscow, the route offers an opportunity to redirect energy exports toward Asia as Western sanctions constrain its access to European markets, said industry watchers whom CNBC spoke to.\n\nOn the other hand, it provides Beijing another trade artery that could reduce reliance on traditional maritime chokepoints. [...] David Roche, a veteran strategist at Quantum Strategy & Geonomics, said the Arct",
-   "published": "Tue, 27 Oct 2026 00:16:21 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Russian and Chinese Experts Outline Their Views on China-Russia Relations",
-   "url": "https://russiapost.info/articles/russian-and-chinese-experts-outline-their-views-on-china-russia-relations",
-   "snippet": "China-Russia contacts have significantly strengthened since 2022, but the limits of the alliance are now increasingly coming into view.",
-   "published": "Wed, 28 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],

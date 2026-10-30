@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China Cannot Remain the World’s Factory. What Comes Next?",
-   "url": "https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy",
-   "snippet": "Such a shift is already under way. In Brazil, BYD is moving from importing cars to manufacturing them locally and developing local suppliers. In Hungary, it is pairing its first European passenger-car factory with a research and development center that will work with Hungarian universities and companies.\n\nAdvertisement [...] China’s manufacturing dominance is generating resistance. And not only in",
-   "published": "Fri, 23 Oct 2026 10:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Volkswagen considers using Chinese software for Europe, report says | Reuters",
-   "url": "https://www.reuters.com/business/autos-transportation/volkswagen-considers-using-chinese-software-europe-report-says-2026-10-26",
-   "snippet": "The company has so far kept software separate, using the architecture co-developed with Xpeng for ​the Chinese market ​while developing ⁠a separate technology for the Western world with Rivian, in a $5.8 billion ​investment at the heart of CEO Oliver ​Blume's ⁠software strategy. [...] Volkswagen's 'China Electronic ​Architecture', a system developed for Chinese models ​in cooperation with local EV",
-   "published": "Mon, 26 Oct 2026 16:45:22 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
-   "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
-   "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
-   "published": "Wed, 28 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

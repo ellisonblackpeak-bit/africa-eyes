@@ -1,0 +1,15 @@
+{
+ "success": true,
+ "results": [],
+ "engine": "gdelt",
+ "_tag": "ml",
+ "_query": "Mali OR Bamako OR jihadist OR orpaillage",
+ "_domains": [
+  "malijet.com",
+  "maliweb.net",
+  "reuters.com",
+  "africanews.com",
+  "allafrica.com"
+ ],
+ "_days": 3
+}

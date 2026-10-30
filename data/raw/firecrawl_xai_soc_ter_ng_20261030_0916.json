@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/cbinewstv/status/2116061830934089827",
+     "title": "Residents of Waiwayi village in Koko Local Government Area of Kebbi State were seen running for their lives as suspected Lakurawa militants",
+     "description": "Residents of Waiwayi village in Koko Local Government Area of Kebbi State were seen running for their lives as suspected Lakurawa militants launched a deadly broad daylight attack on civilians. The militants raided Waiwayi, Karwa and Kestu villages around October 26 and 28, burning homes, looting shops and forcing residents to flee toward Koko town. Police confirmed 12 deaths across the attacks, including a police inspector, after joint security teams repelled the assailants.\n\nVideos and local accounts, however, claim up to 20 people were killed in Waiwayi alone, with widespread destruction. The attacks highlight the continuing threat from the group, which is active in Kebbi and Sokoto and carries out raids and cattle rustling, leaving communities gripped by fear.\n\n#CBINewsTV #Lakurawa #Kebbi #Security #Nigeria",
+     "snippet": "Residents of Waiwayi village in Koko Local Government Area of Kebbi State were seen running for their lives as suspected Lakurawa militants launched a deadly broad daylight attack on civilians. The militants raided Waiwayi, Karwa and Kestu villages around October 26 and 28, burning homes, looting shops and forcing residents to flee toward Koko town. Police confirmed 12 deaths across the attacks, including a police inspector, after joint security teams repelled the assailants.\n\nVideos and local accounts, however, claim up to 20 people were killed in Waiwayi alone, with widespread destruction. The attacks highlight the continuing threat from the group, which is active in Kebbi and Sokoto and carries out raids and cattle rustling, leaving communities gripped by fear.\n\n#CBINewsTV #Lakurawa #Kebbi #Security #Nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CBI News",
+     "handle": "@cbinewstv"
+    },
+    {
+     "url": "https://x.com/9jaDailyUpdates/status/2115809782955188495",
+     "title": "🇳🇬 Armed extremists gun down police officer and dozen residents in Kebbi state attack Suspected Mamudawa and Lakurawa terrorists have launch",
+     "description": "🇳🇬 Armed extremists gun down police officer and dozen residents in Kebbi state attack\n\nSuspected Mamudawa and Lakurawa terrorists have launched deadly attacks on Waiwayi and Kystu communities in Koko/Besse Local Government Area of Kebbi State, leaving at least 12 people dead. Among the casualties is a police inspector who was killed during a firefight with the attackers, while 11 civilians also lost their lives in the coordinated assault. The Kebbi State Police Command confirmed the incident through their spokesperson SP Bashir Usman, though full details about the inspector's identity remain undisclosed pending completion of ongoing investigations into what appears to be another chapter in the region's deteriorating security situation.\n\n📰 Source: Vanguard\n🔗 https://t.co/0TDYU0bRgD\n\nVia @9jaDailyUpdates\n\n#NaijaNews #Nigeria #BreakingNews #Politics #Bandits #Insecurity #NigerianArmy #Election #News #Africa",
+     "snippet": "🇳🇬 Armed extremists gun down police officer and dozen residents in Kebbi state attack\n\nSuspected Mamudawa and Lakurawa terrorists have launched deadly attacks on Waiwayi and Kystu communities in Koko/Besse Local Government Area of Kebbi State, leaving at least 12 people dead. Among the casualties is a police inspector who was killed during a firefight with the attackers, while 11 civilians also lost their lives in the coordinated assault. The Kebbi State Police Command confirmed the incident through their spokesperson SP Bashir Usman, though full details about the inspector's identity remain undisclosed pending completion of ongoing investigations into what appears to be another chapter in the region's deteriorating security situation.\n\n📰 Source: Vanguard\n🔗 https://t.co/0TDYU0bRgD\n\nVia @9jaDailyUpdates\n\n#NaijaNews #Nigeria #BreakingNews #Politics #Bandits #Insecurity #NigerianArmy #Election #News #Africa",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Naija Daily Update",
+     "handle": "@9jaDailyUpdates"
+    },
+    {
+     "url": "https://x.com/LeadershipHausa/status/2116090656271520084",
+     "title": "Wani mummunan hari da ake zargin ƴan ta’addar ƙungiyar Mamudawa ko Lakurawa ne suka kai kan ƙauyukan Wawilaiyi da Kystu da ke Ƙaramar Hukuma",
+     "description": "Wani mummunan hari da ake zargin ƴan ta’addar ƙungiyar Mamudawa ko Lakurawa ne suka kai kan ƙauyukan Wawilaiyi da Kystu da ke Ƙaramar Hukumar Koko/Besse ta Jihar Kebbi ya yi sanadin mutuwar wani Insfektan ƴansanda tare da fararen hula guda 11.\n\nhttps://hausa.leadership.ng/lakurawa-sun-kashe-insfektan-%c6%b4ansanda-da-mutane-11-a-kebbi/",
+     "snippet": "Wani mummunan hari da ake zargin ƴan ta’addar ƙungiyar Mamudawa ko Lakurawa ne suka kai kan ƙauyukan Wawilaiyi da Kystu da ke Ƙaramar Hukumar Koko/Besse ta Jihar Kebbi ya yi sanadin mutuwar wani Insfektan ƴansanda tare da fararen hula guda 11.\n\nhttps://hausa.leadership.ng/lakurawa-sun-kashe-insfektan-%c6%b4ansanda-da-mutane-11-a-kebbi/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Leadership Hausa",
+     "handle": "@LeadershipHausa"
+    },
+    {
+     "url": "https://x.com/SamuelOmogor/status/2116077524975341956",
+     "title": "VIDEO: Residents of Waiwayi in Koko-Besse LGA of Kebbi state fleeing from Lakurawa terrorists as they invaded their village.",
+     "description": "VIDEO: Residents of Waiwayi in Koko-Besse LGA of Kebbi state fleeing from Lakurawa terrorists as they invaded their village. Images like these have become normal realities in Nigeria today.😭😭😭\n\nMeanwhile, the man who swore an oath to protect their lives and properties said he is going to Makkah to pray for Nigeria. And he is asking Nigerians to vote him again for another term. No be juju be dat?\n\nNigerians don't need a president that want to pretend to use prayers to solve problems. Nigerians need a C-IN-C that will stand up, face our problems head on and Nigerians will support him/her with their prayers. \n\n#TinubuMustGo",
+     "snippet": "VIDEO: Residents of Waiwayi in Koko-Besse LGA of Kebbi state fleeing from Lakurawa terrorists as they invaded their village. Images like these have become normal realities in Nigeria today.😭😭😭\n\nMeanwhile, the man who swore an oath to protect their lives and properties said he is going to Makkah to pray for Nigeria. And he is asking Nigerians to vote him again for another term. No be juju be dat?\n\nNigerians don't need a president that want to pretend to use prayers to solve problems. Nigerians need a C-IN-C that will stand up, face our problems head on and Nigerians will support him/her with their prayers. \n\n#TinubuMustGo",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Samuel Omogor",
+     "handle": "@SamuelOmogor"
+    },
+    {
+     "url": "https://x.com/MobilePunch/status/2116069569395585191",
+     "title": "𝗟𝗮𝗸𝘂𝗿𝗮𝘄𝗮 𝗸𝗶𝗹𝗹𝘀 𝗽𝗼𝗹𝗶𝗰𝗲 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿, 11 𝗰𝗶𝘃𝗶𝗹𝗶𝗮𝗻𝘀 𝗶𝗻 𝗞𝗲𝗯𝗯𝗶 𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/lakurawa-kills-police-inspector-11-civilians-in-kebbi",
+     "description": "𝗟𝗮𝗸𝘂𝗿𝗮𝘄𝗮 𝗸𝗶𝗹𝗹𝘀 𝗽𝗼𝗹𝗶𝗰𝗲 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿, 11 𝗰𝗶𝘃𝗶𝗹𝗶𝗮𝗻𝘀 𝗶𝗻 𝗞𝗲𝗯𝗯𝗶\n\n𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/lakurawa-kills-police-inspector-11-civilians-in-kebbi",
+     "snippet": "𝗟𝗮𝗸𝘂𝗿𝗮𝘄𝗮 𝗸𝗶𝗹𝗹𝘀 𝗽𝗼𝗹𝗶𝗰𝗲 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿, 11 𝗰𝗶𝘃𝗶𝗹𝗶𝗮𝗻𝘀 𝗶𝗻 𝗞𝗲𝗯𝗯𝗶\n\n𝗥𝗲𝗮𝗱 𝗠𝗼𝗿𝗲: https://punchng.com/lakurawa-kills-police-inspector-11-civilians-in-kebbi",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Punch Newspapers",
+     "handle": "@MobilePunch"
+    },
+    {
+     "url": "https://x.com/four_unit/status/2116072345093988500",
+     "title": "BREAKING NEWS:30/10/26 Residents of Waiwayi Village Koko LGA of kebbi state running for their lives as Lakurawa terrorist launched a deadly",
+     "description": "BREAKING NEWS:30/10/26\n\nResidents of Waiwayi Village Koko LGA of kebbi state running for their lives as Lakurawa terrorist launched a deadly broad daylight attack on innocent civilian\n\nNative Reporters\nClick 👇 https://www.facebook.com/share/r/1K7gDcRkct/\n\nME: Nigeria is irredeemable,FREE BIAFRA @UN",
+     "snippet": "BREAKING NEWS:30/10/26\n\nResidents of Waiwayi Village Koko LGA of kebbi state running for their lives as Lakurawa terrorist launched a deadly broad daylight attack on innocent civilian\n\nNative Reporters\nClick 👇 https://www.facebook.com/share/r/1K7gDcRkct/\n\nME: Nigeria is irredeemable,FREE BIAFRA @UN",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "IPOB unit4 Madrid, SPAIN",
+     "handle": "@four_unit"
+    },
+    {
+     "url": "https://x.com/secmxx/status/2115004030971773272",
+     "title": "Bandits Bagega Zamfara state....",
+     "description": "Bandits Bagega Zamfara state.... Bandits commander Abubakar dan watsi, we have been on this guy's issue for 4 months now, it seems if crew where active yesterday, this groups are the new jihadi-bandits, they justify their actions with very little religious understanding... He is doing well Sha, has build a new house and has a hot wife... @mobilisingniger",
+     "snippet": "Bandits Bagega Zamfara state.... Bandits commander Abubakar dan watsi, we have been on this guy's issue for 4 months now, it seems if crew where active yesterday, this groups are the new jihadi-bandits, they justify their actions with very little religious understanding... He is doing well Sha, has build a new house and has a hot wife... @mobilisingniger",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "usman",
+     "handle": "@secmxx"
+    },
+    {
+     "url": "https://x.com/shadowofalameen/status/2115303987461177565",
+     "title": "NEW 13: Sokoto Airport Air Traffic Controller and Farmer Two people, Mujahid Ado Alkassimu and farmer Sa’idu Abubakar, reportedly appealed f",
+     "description": "NEW 13: Sokoto Airport Air Traffic Controller and Farmer\n\nTwo people, Mujahid Ado Alkassimu and farmer Sa’idu Abubakar, reportedly appealed for help after 52 days in captivity along the Sokoto–Zamfara route.\n\nSource: Asen Express, 18 October 2026.",
+     "snippet": "NEW 13: Sokoto Airport Air Traffic Controller and Farmer\n\nTwo people, Mujahid Ado Alkassimu and farmer Sa’idu Abubakar, reportedly appealed for help after 52 days in captivity along the Sokoto–Zamfara route.\n\nSource: Asen Express, 18 October 2026.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Umar Alameen",
+     "handle": "@shadowofalameen"
+    },
+    {
+     "url": "https://x.com/grok/status/2115854617179201985",
+     "title": "Lakurawa (also spelled that way) predates Tinubu.",
+     "description": "Lakurawa (also spelled that way) predates Tinubu. Local leaders in Sokoto invited the group around 2017-2018 as a self-defence force against bandits. It entered from the Sahel and was initially tolerated. It later radicalised, imposed strict rules, and was designated a terrorist organisation by Nigerian authorities in late 2024. Military operations against it continue.",
+     "snippet": "Lakurawa (also spelled that way) predates Tinubu. Local leaders in Sokoto invited the group around 2017-2018 as a self-defence force against bandits. It entered from the Sahel and was initially tolerated. It later radicalised, imposed strict rules, and was designated a terrorist organisation by Nigerian authorities in late 2024. Military operations against it continue.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2115214498650833312",
+     "title": "Some residents of Jabo, where debris landed, said their area was peaceful with no terrorists.",
+     "description": "Some residents of Jabo, where debris landed, said their area was peaceful with no terrorists. Officials targeted Lakurawa/ISIS camps in Tangaza forests, a known area of activity. Sokoto has dealt with banditry and that group for years, with attacks across most LGAs and over 1,100 kidnappings reported in the year to mid-2026.",
+     "snippet": "Some residents of Jabo, where debris landed, said their area was peaceful with no terrorists. Officials targeted Lakurawa/ISIS camps in Tangaza forests, a known area of activity. Sokoto has dealt with banditry and that group for years, with attacks across most LGAs and over 1,100 kidnappings reported in the year to mid-2026.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

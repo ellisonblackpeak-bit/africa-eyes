@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Israel's final election results show no bloc has won a majority",
+   "url": "http://www.africanews.com/2026/10/30/israels-final-election-results-show-no-bloc-has-won-a-majority/",
+   "content": "As opposition politicians meet to explore options for a coalition, the PM has accused Arab-led parties of election fraud.",
+   "published_date": "Fri, 30 Oct 2026 07:56:57 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "DR Congo: MSF celebrates Ebola patient discharges in Ituri province",
+   "url": "http://www.africanews.com/2026/10/30/dr-congo-msf-celebrates-ebola-patient-discharges-in-ituri-province/",
+   "content": "Dancing and singing erupted at an Ebola treatment centre in DR Congo as the last patients were discharged. For the first time since May, the MSF-run facility has no confirmed cases under treatment, although the wider outbreak continues.",
+   "published_date": "Fri, 30 Oct 2026 07:54:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "CAR tightens border checks as DR Congo's Ebola cases rise",
+   "url": "http://www.africanews.com/2026/10/30/car-tightens-border-checks-tightened-as-dr-congos-ebola-cases-rise/",
+   "content": "With the virus in three Congolese regions bordering the country, the authorities have also launched awareness campaigns.",
+   "published_date": "Fri, 30 Oct 2026 08:25:50 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
    "url": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
    "content": "A Russian strike on Chernihiv killed two 15-year-old girls and injured 25 people, local officials say. Meanwhile, a US-brokered ceasefire in southern Ukraine is allowing demining work aimed at opening humanitarian routes.",
@@ -188,27 +209,6 @@
    "url": "http://www.africanews.com/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit/",
    "content": "King Charles III showed off his dance moves during a colourful Junkanoo street parade in Nassau, the capital of the Bahamas, on Wednesday, 28 October, as part of his first Caribbean tour since becoming monarch.",
    "published_date": "Thu, 29 Oct 2026 09:19:42 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Calls for slavery reparations grow louder as British king visits Caribbean",
-   "url": "http://www.africanews.com/2026/10/29/calls-for-slavery-reparations-grow-louder-as-british-king-visits-caribbean/",
-   "content": "King Charles III's nine-day visit is being overshadowed by increasingly vocal demands for Britain to pay for its role in the slave trade.",
-   "published_date": "Thu, 29 Oct 2026 07:34:30 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Russia-Africa Summit: Putin seeks to expand ties with the continent",
-   "url": "http://www.africanews.com/2026/10/29/russia-africa-summit-putin-seeks-to-expand-ties-with-the-continent/",
-   "content": "At the plenary session, Vladimir Putin told delegates that Moscow was Africa's best partner, calling for an end to Western domination.",
-   "published_date": "Thu, 29 Oct 2026 09:49:25 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Spain: Madrid mourns train crash victims as rescuers work through the night",
-   "url": "http://www.africanews.com/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night/",
-   "content": "Spain reels from the deadly Toledo high-speed train collision that killed 68 and injured more than 100, sparking grief, protests and calls for resignations.",
-   "published_date": "Wed, 28 Oct 2026 23:10:45 +0000",
    "score": 0.6
   }
  ],

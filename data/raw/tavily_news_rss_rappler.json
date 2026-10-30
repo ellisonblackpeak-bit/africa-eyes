@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Cebu, save your sensilyo! BSP’s coin machines could arrive by January 2027",
-   "url": "https://www.rappler.com/newsbreak/inside-track/cebu-bangko-sentral-pilipinas-coin-deposit-machine-january-2027/",
-   "content": "After more than a year on pause, the central bank's popular coin deposit machines could return in January 2027, this time with a rollout beyond Metro Manila taking priority",
-   "published_date": "Fri, 30 Oct 2026 08:00:00 +0800",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

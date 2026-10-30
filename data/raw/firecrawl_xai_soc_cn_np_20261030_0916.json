@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/CRECofficial/status/2114930090018533828",
+     "title": "In Nepal, CREC's 13.3-km Sunkoshi Marin Diversion Tunnel channels water from the Sunkoshi River to the water-scarce Marin River basin.",
+     "description": "In Nepal, CREC's 13.3-km Sunkoshi Marin Diversion Tunnel channels water from the Sunkoshi River to the water-scarce Marin River basin.\nNow in operation, it provides irrigation for 122,000 hectares of farmland and generates 28.62 MW of clean hydropower, supporting local agriculture and sustainable development.",
+     "snippet": "In Nepal, CREC's 13.3-km Sunkoshi Marin Diversion Tunnel channels water from the Sunkoshi River to the water-scarce Marin River basin.\nNow in operation, it provides irrigation for 122,000 hectares of farmland and generates 28.62 MW of clean hydropower, supporting local agriculture and sustainable development.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "China Railway Engineering Corporation",
+     "handle": "@CRECofficial"
+    },
+    {
+     "url": "https://x.com/kathmandupost/status/2116015989523718475",
+     "title": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing Authorities aim to restore road access to the Chinese border b",
+     "description": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing\n\nAuthorities aim to restore road access to the Chinese border before rebuilding permanently, while also considering an expressway to Kerung in place of a proposed railway.\n\nhttps://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing — by @Bimaltirpali",
+     "snippet": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing\n\nAuthorities aim to restore road access to the Chinese border before rebuilding permanently, while also considering an expressway to Kerung in place of a proposed railway.\n\nhttps://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing — by @Bimaltirpali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Kathmandu Post",
+     "handle": "@kathmandupost"
+    },
+    {
+     "url": "https://x.com/grok/status/2115811992728432902",
+     "title": "Recent examples include the July 2026 Liulan Reservoir breach in Guangxi after typhoon rains (part of ~159 deaths, investigation ongoing wit",
+     "description": "Recent examples include the July 2026 Liulan Reservoir breach in Guangxi after typhoon rains (part of ~159 deaths, investigation ongoing with public tips sought) and the Aug 2026 Gyirong Port mudslide (glacial trigger from Nepal side, destroyed BRI border facilities, official China toll ~21-43 dead +500 missing vs higher Nepal figures; reports note info controls). \n\nNo confirmed recent dam failures wiping entire villages at Banqiao scale. Tunnel inrushes and small building collapses have caused deaths (e.g., 7 in 2025 Yunnan rail tunnel). Dam-linked landslides occurred (Hongqi Bridge 2025). Official workplace totals remain the clearest aggregate; natural/infra events are reported case-by-case with noted opacity in sensitive areas.",
+     "snippet": "Recent examples include the July 2026 Liulan Reservoir breach in Guangxi after typhoon rains (part of ~159 deaths, investigation ongoing with public tips sought) and the Aug 2026 Gyirong Port mudslide (glacial trigger from Nepal side, destroyed BRI border facilities, official China toll ~21-43 dead +500 missing vs higher Nepal figures; reports note info controls). \n\nNo confirmed recent dam failures wiping entire villages at Banqiao scale. Tunnel inrushes and small building collapses have caused deaths (e.g., 7 in 2025 Yunnan rail tunnel). Dam-linked landslides occurred (Hongqi Bridge 2025). Official workplace totals remain the clearest aggregate; natural/infra events are reported case-by-case with noted opacity in sensitive areas.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/engnepalviews/status/2115668384432222432",
+     "title": "The southern section passes through Nepalgunj, Kohalpur, and Surkhet before extending north through the hilly and mountainous areas of Karna",
+     "description": "The southern section passes through Nepalgunj, Kohalpur, and Surkhet before extending north through the hilly and mountainous areas of Karnali to Hilsa in Humla.\n\n🔗: https://english.nepalviews.com/2026/10/29/karnali-corridor-envisioned-as-north-south-trade-route-linking-india-and-china\n\n#nepalviews #nepalviewsenglish #IndiaChina #karnalicorridor",
+     "snippet": "The southern section passes through Nepalgunj, Kohalpur, and Surkhet before extending north through the hilly and mountainous areas of Karnali to Hilsa in Humla.\n\n🔗: https://english.nepalviews.com/2026/10/29/karnali-corridor-envisioned-as-north-south-trade-route-linking-india-and-china\n\n#nepalviews #nepalviewsenglish #IndiaChina #karnalicorridor",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nepal Views English",
+     "handle": "@engnepalviews"
+    },
+    {
+     "url": "https://x.com/nepalviewsnv/status/2115664147111350346",
+     "title": "कर्णाली करिडोरको दक्षिणी खण्ड नेपालगञ्ज, कोहलपुर र सुर्खेत हुँदै अघि बढ्छ । यसले उत्तरतर्फ कर्णालीका पहाडी तथा हिमाली क्षेत्र पार गर्दै हुम्",
+     "description": "कर्णाली करिडोरको दक्षिणी खण्ड नेपालगञ्ज, कोहलपुर र सुर्खेत हुँदै अघि बढ्छ । यसले उत्तरतर्फ कर्णालीका पहाडी तथा हिमाली क्षेत्र पार गर्दै हुम्लाको हिल्सा नाकासम्म पुग्ने मार्गलाई जोड्छ । #nepalviews\nhttps://www.nepalviews.com/story/427304/karnali-corridor-connecting-india-and-china-potential-for-trade-tourism-and-hydropower",
+     "snippet": "कर्णाली करिडोरको दक्षिणी खण्ड नेपालगञ्ज, कोहलपुर र सुर्खेत हुँदै अघि बढ्छ । यसले उत्तरतर्फ कर्णालीका पहाडी तथा हिमाली क्षेत्र पार गर्दै हुम्लाको हिल्सा नाकासम्म पुग्ने मार्गलाई जोड्छ । #nepalviews\nhttps://www.nepalviews.com/story/427304/karnali-corridor-connecting-india-and-china-potential-for-trade-tourism-and-hydropower",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nepal Views",
+     "handle": "@nepalviewsnv"
+    },
+    {
+     "url": "https://x.com/nepalclicksnews/status/2115668467139633383",
+     "title": "भारत–चीन जोड्ने कर्णाली करिडोर: व्यापार, पर्यटन जलविद्युतको सम्भावना https://www.nepalclicks.com/details/146984",
+     "description": "भारत–चीन जोड्ने कर्णाली करिडोर: व्यापार, पर्यटन जलविद्युतको सम्भावना \nhttps://www.nepalclicks.com/details/146984",
+     "snippet": "भारत–चीन जोड्ने कर्णाली करिडोर: व्यापार, पर्यटन जलविद्युतको सम्भावना \nhttps://www.nepalclicks.com/details/146984",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nepal Clicks",
+     "handle": "@nepalclicksnews"
+    },
+    {
+     "url": "https://x.com/smallwars/status/2115944710959198665",
+     "title": "\"As of September 23, Nepal’s National Disaster Risk Reduction and Management Authority counted 1,453 dead, 5,644 still missing, and 13,795 r",
+     "description": "\"As of September 23, Nepal’s National Disaster Risk Reduction and Management Authority counted 1,453 dead, 5,644 still missing, and 13,795 rescued, with 1,112 people in 21 displacement centers. Earlier reporting put the infrastructure loss at more than 40 bridges, some 25 miles of road, and 15 damaged hydropower plants carrying roughly 753 megawatts, about 11 percent of Nepal’s generating capacity. Nepal mobilized around 19,000 security personnel, and #China deployed some 2,100 rescue workers on its side of the border. The government requested heavy-lift cargo drones from international partners to reach mountain settlements that no longer had roads.\"\n\n2/3",
+     "snippet": "\"As of September 23, Nepal’s National Disaster Risk Reduction and Management Authority counted 1,453 dead, 5,644 still missing, and 13,795 rescued, with 1,112 people in 21 displacement centers. Earlier reporting put the infrastructure loss at more than 40 bridges, some 25 miles of road, and 15 damaged hydropower plants carrying roughly 753 megawatts, about 11 percent of Nepal’s generating capacity. Nepal mobilized around 19,000 security personnel, and #China deployed some 2,100 rescue workers on its side of the border. The government requested heavy-lift cargo drones from international partners to reach mountain settlements that no longer had roads.\"\n\n2/3",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Small Wars Journal",
+     "handle": "@smallwars"
+    },
+    {
+     "url": "https://x.com/Communist977/status/2115731347700699524",
+     "title": "Reminder that China and India both have agreed to occupy Nepal's territory to India and do trade with each other without informing or with a",
+     "description": "Reminder that China and India both have agreed to occupy Nepal's territory to India and do trade with each other without informing or with approval of Nepal. \nThis will only push us towards the arms of Americans and create anti-China sentiment in our country. And US will use this opportunity to use our land against you. \nChina should be aware. \ncc @PRCAmbNepal",
+     "snippet": "Reminder that China and India both have agreed to occupy Nepal's territory to India and do trade with each other without informing or with approval of Nepal. \nThis will only push us towards the arms of Americans and create anti-China sentiment in our country. And US will use this opportunity to use our land against you. \nChina should be aware. \ncc @PRCAmbNepal",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🔻☭★",
+     "handle": "@Communist977"
+    },
+    {
+     "url": "https://x.com/karmawangchukzz/status/2115046822171246649",
+     "title": "3/4 Heavy Chinese influence, constant anti-India posturing, and Beijing conveniently amplifying boundary disputes to keep Nepal off-balance.",
+     "description": "3/4 Heavy Chinese influence, constant anti-India posturing, and Beijing conveniently amplifying boundary disputes to keep Nepal off-balance. This partnership isn’t just about seats.",
+     "snippet": "3/4 Heavy Chinese influence, constant anti-India posturing, and Beijing conveniently amplifying boundary disputes to keep Nepal off-balance. This partnership isn’t just about seats.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Karma Wangchuk",
+     "handle": "@karmawangchukzz"
+    },
+    {
+     "url": "https://x.com/gbudhathoki/status/2116061437084991866",
+     "title": "Model NK प्रधानमन्त्री कार्यालयको नियन्त्रणमा सुनकोसी मरिणका आयोजना प्रमुख र सिँचाइ विभागका डीजी, ठेक्का ताेड्न नमानेकाे आरोप",
+     "description": "Model NK\nप्रधानमन्त्री कार्यालयको नियन्त्रणमा सुनकोसी मरिणका आयोजना प्रमुख र सिँचाइ विभागका डीजी, ठेक्का ताेड्न नमानेकाे आरोप",
+     "snippet": "Model NK\nप्रधानमन्त्री कार्यालयको नियन्त्रणमा सुनकोसी मरिणका आयोजना प्रमुख र सिँचाइ विभागका डीजी, ठेक्का ताेड्न नमानेकाे आरोप",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gajendra Budhathoki ♿",
+     "handle": "@gbudhathoki"
+    }
+   ]
+  }
+ ]
+}

@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China Briefing 29 October 2026: Plenum ‘Long March spirit’ | Clean-tech exports surge | What China wants at COP31 - Carbon Brief",
+   "url": "https://www.carbonbrief.org/china-briefing-29-october-2026-plenum-long-march-spirit-clean-tech-exports-surge-what-china-wants-at-cop31",
+   "snippet": "NEPAL ‘WARNING’: Huang cited the deadly glacial collapse in Nepal as an “urgent warning” of accelerating climate risks, reported Bloomberg.\n ‘GREEN COOPERATION’: Separately, Huang reaffirmed China’s commitment to “green development cooperation” with the global south, said China Daily.\n JOINT STATEMENT: China and Russia pledged to use “various energy sources”, including fossil fuels and renewables,",
+   "published": "Thu, 29 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia braces for Europe’s turn on Chinese overcapacity | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/25/asia-braces-for-europes-turn-on-chinese-overcapacity",
+   "snippet": "While the EU and China have so far patched their differences at the last minute, first on battery electric vehicles and now on hybrids, each patch has left Chinese exporters facing tighter limits in Europe. For Asia, the timing matters less than the redirection an EU diversification instrument would bring about. With the US market already narrowed by tariffs on China, the EU is the largest market ",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why U.S. EV sales lag China, Europe as global shift accelerates - Automotive News",
+   "url": "https://www.autonews.com/technology/mobility/an-global-ev-market-dynamics-1027",
+   "snippet": "Mobility\n\n# How the U.S. is becoming an outlier in the global EV race\n\nAdd as a preferred source on Google\n\na car in hanoi\n\nElectric vehicles made up 41 percent of new-vehicle sales in Vietnam in 2025, up from less than 1 percent in 2020. (WIKIMEDIA COMMONS)\n\nMB\n\nBy\n\nMolly Boigon\n\nOctober 27, 2026 07:00 AM EDT\n\n## Featured Stories\n\nEV\n\nWhy fast-charging networks need more than reliability as China",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],

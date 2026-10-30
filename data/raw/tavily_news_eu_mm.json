@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "US begins talks with Myanmar’s military authorities — DW | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/ssha-rozpochali-peregovori-z-viiskovoiu-vladoiu-mianmi-deutsche-welle",
+   "snippet": "After the coup in February 2021, the EU suspended direct financial aid to Myanmar’s government, imposed targeted sanctions, and sharply limited diplomatic contacts with the military authorities. The restrictions apply to 105 individuals and 22 entities linked to the military; in April, they were extended for another 12 months.\n\nMore current news is available on the UA.News Telegram channel Telegra",
+   "published": "Tue, 27 Oct 2026 17:28:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
+   "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eus-diplomatic-blockade/a-79778863",
+   "snippet": "Its sanctions currently cover 105 individuals and 22 entities connected to the military. In April, the EU extended these measures for another 12 months.\n\nAt the same time, Brussels is providing humanitarian assistance to displaced communities and Rohingya refugees and is supporting civil society organizations.\n\n## Thailand-Myanmar border clinic helps people fleeing war [...] One possibility is for",
+   "published": "Tue, 27 Oct 2026 15:16:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Did Myanmar Hide Iranian Jet Fuel Imports to Evade US Sanctions? - Modern Diplomacy",
+   "url": "https://moderndiplomacy.eu/2026/10/26/how-did-myanmar-hide-iranian-jet-fuel-imports-to-evade-us-sanctions",
+   "snippet": "Myanmar’s military-linked companies and Iranian suppliers have continued to operate despite these restrictions. Reuters reported in October that Iranian jet fuel shipments to Myanmar were still taking place in 2026.\n\nThe case therefore illustrates a central challenge for sanctions enforcement: restricting access to strategic supplies requires not only targeting suppliers and buyers but also detect",
+   "published": "Mon, 26 Oct 2026 04:39:25 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_mm",
  "_query": "EU Myanmar sanctions",
  "_domains": [],

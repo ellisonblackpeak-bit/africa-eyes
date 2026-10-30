@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "How China’s Himalayan Megadam Could Put South Asia at Risk - The National Interest",
-   "url": "https://nationalinterest.org/feature/how-chinas-himalayan-megadam-could-put-south-asia-at-risk",
-   "snippet": "None of this proves that China’s Yarlung Tsangpo project will fail. Nor does it establish that construction caused the August disaster in Nepal. But it shows why assessing individual dams’ safety isn’t enough. The entire mountain-river-infrastructure system must be evaluated together. [...] China’s project, launched in July 2025, is among the most ambitious hydropower undertakings in history. With",
-   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China launches bond themed around snow leopard conservation at COP17",
-   "url": "https://dialogue.earth/en/digest/china-launches-bond-themed-around-snow-leopard-conservation-at-cop17",
-   "snippet": "China has launched a bond project to support biodiversity conservation and sustainable community development in key snow leopard habitats, reports Xinhua.",
-   "published": "Thu, 29 Oct 2026 16:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "np_wide",
  "_query": "Nepal China project",
  "_domains": [],

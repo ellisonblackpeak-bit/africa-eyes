@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Phòng 170 triệu một đêm trong khách sạn từng đón nhiều nguyên thủ",
-   "url": "https://vnexpress.net/phong-170-trieu-mot-dem-trong-khach-san-tung-don-nhieu-nguyen-thu-5137623.html",
-   "content": "Phòng Tổng thống của JW Marriott Hotel Hanoi từng là nơi lưu trú của nhiều nguyên thủ quốc gia, diện tích hơn 320 m2, giá 170 triệu đồng một đêm.",
-   "published_date": "Fri, 30 Oct 2026 11:46:15 +0700",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

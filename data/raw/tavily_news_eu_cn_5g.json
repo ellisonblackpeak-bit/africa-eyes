@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "France’s incoherent China policy confuses partners | Ifri",
+   "url": "https://www.ifri.org/en/external-articles/frances-incoherent-china-policy-confuses-partners",
+   "snippet": "But the devil is in the details. Authorisations for vendors to use Huawei equipment for 5G are granted for between three and eight years, without guarantee of renewal. As new mobile technology like 5G takes at least eight years to yield return on investment, no vendor would take the gamble. In other words, France is imposing a de facto ban on Huawei. National security considerations no doubt accou",
+   "published": "Mon, 26 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why India Is Unlikely to Ban Huawei",
+   "url": "https://www.lightreading.com/regulatory-politics/why-india-is-unlikely-to-ban-huawei",
+   "snippet": "The latest developments follow media reports last month suggesting the DoT would ban Huawei from participating in 5G trials. Yet while it was conspicuously absent from a list of vendors approved for those trials, Huawei was later invited to be a part of the initiative and is likely to start work this month. The Chinese vendor has also offered to share source code used in its products to allay any ",
+   "published": "Thu, 29 Oct 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "4.8K views · 53 reactions | Two devices containing chips made by Huawei subsidiary HiSilicon have been blocked from the US market, with the FCC exercising new rules that close a loophole in import restrictions targeting Chinese technology. | TaiwanPlus News",
+   "url": "https://www.facebook.com/taiwanplusnews/videos/us-blocks-two-devices-with-surveillance-chips-from-huawei-subsidiary/1133672729540333",
+   "snippet": "[](\n\nHow Taiwan and the US Are Building Defense Innovation Ties\n\nTaiwanPlus News\n\n1.1K views\n\n · \n\n22h ago\n\nImage 21: Video thumbnail 3:26\n\n[](\n\nHigh Electricity Bills Drive Solar Power Push in the Philippines\n\nTaiwanPlus News\n\n15.9K views\n\n · \n\n22h ago\n\nImage 22: Video thumbnail 0:31\n\n[](\n\nTang Chia-hung Wins Historic Gold at Gymnastics Championships\n\nTaiwanPlus News\n\n925 views\n\n · \n\n23h ago\n\nIma",
+   "published": "Sat, 24 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_5g",
  "_query": "Europe Huawei 5G ban",
  "_domains": [],

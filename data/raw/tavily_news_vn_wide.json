@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Trade diversification won’t fix Vietnam’s import dependence | East Asia Forum",
-   "url": "https://eastasiaforum.org/2026/10/24/trade-diversification-wont-fix-vietnams-import-dependence",
-   "snippet": "In 2025, bilateral trade with China amounted to US$256.4 billion, while trade with the United States came to US$172.5 billion. China has served as the largest supplier to Vietnam for years, while the US has consistently kept its position as Vietnam’s largest export market. [...] It is prudent for Vietnam to increase bilateral trade with Australia and New Zealand. Trade exchanges capitalise on both",
-   "published": "Fri, 23 Oct 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Vietnamese cooperatives promote trade in China",
-   "url": "https://vietnamnews.vn/economy/1802996/vietnamese-cooperatives-promote-trade-in-china.html",
-   "snippet": "HÀ NỘI — A 33-member delegation from the Vietnam Cooperative Alliance (VCA), representing 25 cooperatives, is attending the China International Agricultural Machinery Exhibition 2026 to showcase Vietnamese agricultural products and explore trade opportunities in the Chinese market. [...] Through its participation, the VCA aims to help Vietnamese cooperatives expand trade ties in China while gainin",
-   "published": "Wed, 28 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Good morning Vietnam: Chinese brokers eye neighbouring springboard for overseas expansion | South China Morning Post",
-   "url": "https://www.scmp.com/business/china-business/article/3371469/good-morning-vietnam-chinese-brokers-eye-neighbouring-springboard-overseas-expansion",
-   "snippet": "Advertisement\n\nBanking & finance\n\nBusinessChina Business\n\n# Good morning Vietnam: Chinese brokers eye neighbouring springboard for overseas expansion\n\nVietnam is still viewed as a prime location for Chinese companies looking to expand overseas and strengthen trade ties with Southeast Asia\n\n2-MIN READ2-MIN\n\nListen\n\nTraffic in Hanoi, Vietnam. Photo: EPA\n\nYulu Ao [...] Wang, now chairman of Guotai Ha",
-   "published": "Fri, 23 Oct 2026 23:00:13 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "vn_wide",
  "_query": "Vietnam China trade",
  "_domains": [],
