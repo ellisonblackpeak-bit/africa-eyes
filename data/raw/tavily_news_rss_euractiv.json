@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Polish riot police deployed after court chief suspended",
+   "url": "https://www.rapporteur.com/news/polish-riot-police-deployed-after-court-chief-suspended/",
+   "content": "The court frequently ruled in favour of Polish legislation over European Union law",
+   "published_date": "Fri, 30 Oct 2026 21:25:36 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Canada edges closer to EU associate membership",
    "url": "https://www.rapporteur.com/news/canada-edges-closer-to-eu-associate-membership/",
    "content": "Brussels and Ottawa agree to define their future partnership by 2027, but political hurdles remain",
@@ -201,13 +208,6 @@
    "title": "INTERVIEW: GEOSAT chief warns of Europe’s space dependencies",
    "url": "https://www.rapporteur.com/news/interview-geosat-chief-warns-of-europes-space-dependencies/",
    "content": "From Starlink disruptions to GPS jamming, Ukraine's war has exposed Europe's space vulnerabilities",
-   "published_date": "Fri, 30 Oct 2026 03:00:18 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "INTERVIEW: Bulgarian ammo maker says EU fragmentation reduces output",
-   "url": "https://www.rapporteur.com/news/interview-bulgarian-ammo-maker-says-eu-fragmentation-reduces-output/",
-   "content": "Arsenal JSCo has 'exceeding capacity' but is being hindered by fragmentation, its CEO says",
    "published_date": "Fri, 30 Oct 2026 03:00:18 +0000",
    "score": 0.6
   }

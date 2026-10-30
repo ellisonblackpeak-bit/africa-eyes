@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+   "url": "https://www.militarytimes.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
+   "snippet": "The Pentagon has already begun reducing its footprint in Europe. About 80,000 U.S. troops were stationed there across roughly 30 bases as of 2025, according to congressional testimony from the head of U.S. European Command cited in the report.\n\nIn May, the Pentagon announced it would pull about 5,000 troops out of Germany. Then in June, the U.S. cut the forces it would make available to NATO in a ",
+   "published": "Thu, 29 Oct 2026 22:25:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DVIDS - News - U.S. Army and NATO Partners Rehearse War Strategies",
+   "url": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
+   "snippet": "The exercise, Avenger Triad 26, took place from October 6, 2026, through October 15, 2026, at several locations across Europe, including Germany, France, Poland, and the Netherlands. The exercise is coordinated from Wiesbaden.\n\nIn total, approximately 20,000 troops are participating in the field, including 4,000 U.S. soldiers. The simulated scenario involves one million soldiers on each side of th",
+   "published": "Sun, 25 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How the United States Retrenches Matters: Key NATO Allies’ Likely Responses to Alternative U.S. Approaches | RAND",
+   "url": "https://www.rand.org/pubs/research_briefs/RBA5006-1.html",
+   "snippet": "Encourage deeper regional cooperation. NATO 3.0 envisions a self-sufficient Europe that reduces the burden on U.S. forces. Because no one ally is prepared to fill the U.S. role, allies will need to work together to increase their collective strength.\n Avoid leveraging U.S. presence and commitments for secondary U.S. priorities. Policymakers need to weigh the downside of U.S. pressure—undermining r",
+   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

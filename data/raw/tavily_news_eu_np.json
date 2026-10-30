@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China stresses dialogue, opposes discriminatory EU trade curbs – Asia News Network",
+   "url": "https://asianews.network/china-stresses-dialogue-opposes-discriminatory-eu-trade-curbs",
+   "snippet": "Thematic image: This illustration photograph shows the flags of the European Union and China displayed on screens, in Brussels on June 2, 2026. PHOTO: AFP\n\nOctober 30, 2026\n\nBEIJING – China reaffirmed its willingness to resolve trade differences with the European Union through dialogue, while stressing that it will take all necessary measures if the bloc imposes discriminatory restrictions on Chin",
+   "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why U.S. EV sales lag China, Europe as global shift accelerates - Automotive News",
+   "url": "https://www.autonews.com/technology/mobility/an-global-ev-market-dynamics-1027",
+   "snippet": "Mobility\n\n# How the U.S. is becoming an outlier in the global EV race\n\nAdd as a preferred source on Google\n\na car in hanoi\n\nElectric vehicles made up 41 percent of new-vehicle sales in Vietnam in 2025, up from less than 1 percent in 2020. (WIKIMEDIA COMMONS)\n\nMB\n\nBy\n\nMolly Boigon\n\nOctober 27, 2026 07:00 AM EDT\n\n## Featured Stories\n\nEV\n\nWhy fast-charging networks need more than reliability as China",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],

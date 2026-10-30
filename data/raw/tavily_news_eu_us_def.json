@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+   "url": "https://www.militarytimes.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
+   "snippet": "Poland has more than doubled defense spending as a share of GDP since 2014 and is aiming for 5% this year, the report said. Germany plans to spend €649 billion on its military over five years, raising spending from 2.4% of GDP in 2025 to 3.5% by 2029, Defense News reported.\n\nMembers of the Polish Air Force watch the arrival of one of three Lockheed Martin F-35A “Husarz” fighter jets at the 32nd Ai",
+   "published": "Thu, 29 Oct 2026 22:25:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s Defense Dilemma | Council on Foreign Relations",
+   "url": "https://www.cfr.org/reports/europes-defense-dilemma",
+   "snippet": "preserves American nuclear leadership, and sustains the alliance as Washington’s principal vehicle for political and military influence in Europe and as a basis to project power globally. There are also clear economic incentives. European commitments to spend 5 percent of GDP on defense by 2035 expand the transatlantic defense market, as Europeans will continue to rely in some measure on American ",
+   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Anticipating Allies’ Responses to U.S. Retrenchment from Europe: How France, Germany, Poland, and the United Kingdom Might Adapt to Alternative U.S. Approaches | RAND",
+   "url": "https://www.rand.org/pubs/research_reports/RRA5006-1.html",
+   "snippet": "Develop and share long-term plans with allies for reductions in U.S. peacetime presence, crisis contributions, and force structure, so allies can phase their investments more effectively.\n Take concrete steps to execute that plan over time as conditions allow, helping allies sustain political momentum on defense spending.\n Encourage deeper regional cooperation among European allies, since no singl",
+   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

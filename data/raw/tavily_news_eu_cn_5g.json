@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "AI & Tech Brief: Exclusive | Allies push back on FCC ban - The Washington Post",
+   "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/10/29/ai-tech-brief-exclusive-allies-push-back-fcc-ban/",
+   "snippet": "* Nature’s real-life zombies. # AI & Tech Brief: Exclusive | Allies push back on FCC ban. The Federal Communication Commission’s aggressive use of import bans has prompted concerns from tech companies and allied nations. Sign up here to get this newsletter in your inbox. * **Exclusive:** The Federal Communications Commission’s aggressive use of its “covered list” for sensitive communications techn",
+   "published": "Thu, 29 Oct 2026 21:29:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Analysis-China’s new export curbs draw a line around its AI crown jewels - WHBL News",
+   "url": "https://whbl.com/2026/10/28/analysis-chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/",
+   "snippet": "# Analysis-China’s new export curbs draw a line around its AI crown jewels. SINGAPORE/BEIJING, Oct 28 (Reuters) – China’s proposed artificial intelligence export curbs will push a business model favoured by Beijing and the industry’s biggest players: keeping valuable technology at home while selling access to it abroad as rivalry with the US intensifies. The new rules would broadly allow overseas ",
+   "published": "Wed, 28 Oct 2026 08:22:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Eurobites: African smartphone shipments slump 39% in Q3 - Light Reading",
+   "url": "https://www.lightreading.com/smartphones-devices/eurobites-african-smartphone-shipments-slump-39-in-q3",
+   "snippet": "Also in today's EMEA regional roundup: Deutsche Telekom puts T-Mobile plan on hold, says report; Alibaba Cloud sets up shop in Amsterdam; Net Insight's weak Q3. Paul Rainford,Assistant Editor, Europe,Light Reading. African smartphone shipments contracted by 39% year-over-year in the third quarter as rising costs continue to shift vendors' focus away from aggressive expansion and toward a more sele",
+   "published": "Thu, 29 Oct 2026 10:53:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "AI & Tech Brief: Exclusive | The FCC’s battle on the Hill - The Washington Post",
+   "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/10/30/ai-tech-brief-exclusive-fccs-battle-hill/",
+   "snippet": "# AI & Tech Brief: Exclusive | The FCC’s battle on the Hill. A bipartisan bill to impose oversight on import bans has drawn pushback from both the Federal Communications Commission and the National Security Council. Sign up here to get this newsletter in your inbox. * **Exclusive:** Bipartisan legislation that would impose oversight on import bans of sensitive technologies from other countries has",
+   "published": "Fri, 30 Oct 2026 19:19:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DHS bans Swiss cyber firm from federal systems - Federal News Network",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dhs-bans-swiss-cyber-firm-from-federal-systems/",
+   "snippet": "DHS's new order banning Acronis AG from federal systems also sheds new light on security concerns U.S. officials have about the company's products and services. The Department of Homeland Security has banned Swiss cybersecurity firm Acronis AG from civilian agency networks, following a ban on the company’s products from intelligence community systems last year. DHS’s ban, laid out in an “exclusion",
+   "published": "Thu, 29 Oct 2026 01:22:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FCC seeks feedback on carrier D2D interference concerns - Light Reading",
+   "url": "https://www.lightreading.com/satellite/fcc-seeks-feedback-on-carrier-warnings-about-running-d2d-in-5g-bands",
+   "snippet": "Amid a plan to open nearly 500MHz of spectrum for direct-to-device (D2D), the FCC is seeking comments on mobile operators' concerns that operating D2D in certain bands will cripple the performance of their 5G networks. It will consider warnings raised by AT&T, T-Mobile and Verizon that operating D2D services in two heavily used 5G bands – 2.5GHz and 3.45GHz – will cripple 5G network performance. *",
+   "published": "Thu, 29 Oct 2026 19:26:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "APAC fixed wireless subscriptions to reach 50m by 2031, says GlobalData - Developing Telecoms",
+   "url": "https://www.developingtelecoms.com/telecom-technology/wireless-networks/21046-apac-fixed-wireless-subscriptions-to-reach-50m-by-2031-says-globaldata.html",
+   "snippet": "Fixed wireless access (FWA) connections across Asia-Pacific are forecast to grow at a compound annual growth rate of 12.5% between 2026 and 2031, rising from 28 million to 50 million, as operators use 5G to expand broadband access beyond fibre networks. According to research firm GlobalData, demand for high-speed home broadband and limited fixed infrastructure in rural and underserved areas will s",
+   "published": "Thu, 29 Oct 2026 11:59:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Is So Desperate for AI Memory That It’s Producing Chips With a 70% Failure Rate - Gizmodo",
+   "url": "https://gizmodo.com/china-is-so-desperate-for-ai-memory-that-its-producing-chips-with-a-70-failure-rate-2000831791",
+   "snippet": "# China Is So Desperate for AI Memory That It’s Producing Chips With a 70% Failure Rate. The country’s largest DRAM maker is expected to push ahead with limited production of advanced memory chips in the next two months. So much so that the country’s largest maker of dynamic random-access memory (DRAM) is pushing ahead with plans to produce advanced memory chips despite extremely low manufacturing",
+   "published": "Wed, 28 Oct 2026 16:10:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Telia expands 5G SA push as Norway RAN deal reshapes network - RCR Wireless News",
+   "url": "https://rcrwireless.com/20261029/5g/telia-5g-sa-norway-ran",
+   "snippet": "## Speaking during Telia Company’s third-quarter earnings call, the company’s chief executive officer and president Patrik Hofbauer said the operator was expanding commercial 5G standalone capabilities for connectivity, security and new services. **5G SA expands** – Telia is expanding commercial 5G standalone capabilities across its footprint for safer, more reliable connectivity and as a platform",
+   "published": "Thu, 29 Oct 2026 14:32:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Building the 6G standard: Narrowing the path to Release 21 - RCR Wireless News",
+   "url": "https://rcrwireless.com/20261029/6g/building-the-6g-standard",
+   "snippet": "### New 6G reference-device types, higher uplink modulation for fixed wireless access and open questions on migration as Release 21 takes shape. September built on the 5G-based foundation already established for 6G, with progress on device requirements and physical-layer capabilities. * 3GPP established an initial reference-device framework for 6G. 1024-QAM uplink advanced for FWA, while constella",
+   "published": "Thu, 29 Oct 2026 11:27:28 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_5g",
  "_query": "Europe Huawei 5G ban",
  "_domains": [],
