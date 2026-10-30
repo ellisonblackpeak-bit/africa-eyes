@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Chinese man runs for local council election in South Africa ...",
-   "url": "https://www.facebook.com/groups/174015046726713/posts/2314821129312750",
-   "snippet": "A Chinese man is allowed to run for local government election while black foreigners are killed in South Africa by South Africans.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "How Beijing's Africa ambitions, financed by China's mega banks, triggered a crisis in Zambia - ICIJ",
-   "url": "https://www.icij.org/investigations/china-capital/how-beijings-africa-ambitions-financed-by-chinas-mega-banks-triggered-a-crisis-in-zambia",
-   "snippet": "She couldn’t run a farm on four hours of electricity. For the first time since she’d started the farm over a decade earlier — a labor of love she launched while working for a social enterprise — she began to wonder if she’d need to shut it down. “Farmers are optimistic people until that is obliterated entirely by reality. …  It’s a mammoth thing to fathom, that you’re going to kill a business that",
-   "published": "Mon, 26 Oct 2026 04:01:17 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "UN condemns killing of nurse as Ebola response faces ...",
-   "url": "https://www.facebook.com/cgtnafrica/videos/un-condemns-killing-of-nurse-as-ebola-response-faces-growing-violence-in-dr-cong/1477616937600753",
-   "snippet": "The United Nations has condemned the killing of a nurse involved in the Ebola response in the Democratic Republic of Congo, as misinformation and community",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

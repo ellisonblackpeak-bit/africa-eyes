@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "INTELLIGENCE SOURCES WARN OF PLANNED MULTIPLE TERROR ATTACKS AS LUKURAWA MILITANTS REPORTEDLY CAMP IN NIGER STATE - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/intelligence-sources-warn-of-planned-multiple-terror-attacks-as-lukurawa-militants-reportedly-camp-in-niger-state",
-   "snippet": "Lakurawa terrorists have reportedly been moving since Monday night and establishing camps in Kuimo and Kalgo communities in Mariga Local Government Area of Niger State, with movements reportedly observed around 3 a.m., according to an intelligence source who spoke to TruthNigeria. [...] A photo of what a source claims are Lukurawa terrorists moving on motorcycles. Picture Credit residents of Marig",
-   "published": "Tue, 27 Oct 2026 12:37:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Troops kill ISWAP Amir Abu Zubiru, 15 others in Lake Chad – Businessday NG",
-   "url": "https://businessday.ng/news/article/troops-kill-iswap-amir-abu-zubiru-15-others-in-lake-chad",
-   "snippet": "#### Related News\n\n MTN explains why mobile data finishes quickly\n Gunmen kill seven in Plateau community attack\n Tinubu asks Senate to approve $20.52bn, €1.045bn external loans\n\nAdvertisement\n\nShare\n\nAdd BusinessDay as a preferred source on Google   Follow BusinessDay on Google News\n\n## You Might Also Like\n\n[](\n\n### MTN explains why mobile data finishes quickly\n\nGunmen kill seven in Plateau commu",
-   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_lakurawa",
  "_query": "Lakurawa Nigeria",
  "_domains": [],

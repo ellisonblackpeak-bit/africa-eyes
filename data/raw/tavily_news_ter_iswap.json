@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Former Classmates Describe Killed ISWAP Commander as Unassuming | HumAngle",
-   "url": "https://www.humanglemedia.com/former-classmates-describe-killed-iswap-commander-as-unassuming",
-   "snippet": "In October, Nigerian authorities killed Abdussamad Ohida, a senior commander of the Islamic State West Africa Province (ISWAP), who they say oversaw the terror group’s strategic operations across Nigeria’s north-central and southern regions. Who was he?\n\nListen to this story\n\n26 Oct 2026 [...] Abdussamad Ohida, also known as Anwar, died in October during a joint security operation in Owo Forest, O",
-   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "A Deadly Week for Christians in Jordan, Ethiopia and Nigeria - Daily Citizen",
-   "url": "https://dailycitizen.focusonthefamily.com/a-deadly-week-for-christians-in-jordan-ethiopia-and-nigeria",
-   "snippet": "The longstanding nature of Christian persecution in Nigeria provides a clear picture of the groups responsible for the violence. According to Equipping the Persecuted, the main groups involved in Nigeria are Fulani-linked militants, Boko Haram and ISWAP (Islamic State West Africa Province).\n\nThe Fulani are a predominantly Muslim ethnic group concentrated in northern Nigeria and other parts of West",
-   "published": "Thu, 29 Oct 2026 22:53:09 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "ISIS Infographics Tally Operations In Iraq, Nigeria",
-   "url": "https://www.memri.org/jttm/islamic-state-isis-weekly-15-christians-killed-over-200-military-casualties-nigeria-uptick",
-   "snippet": "ISIS infographics tallied attacks in Nigeria and Iraq over the past eight weeks.",
-   "published": "Sat, 24 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_iswap",
  "_query": "ISWAP Nigeria",
  "_domains": [],

@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Nigerian govt approves N70,000 monthly transport allowance for workers",
-   "url": "https://www.premiumtimesng.com/news/top-news/920896-nigerian-govt-approves-n70000-monthly-transport-allowance-for-workers.html",
-   "snippet": "Premium Times Nigeria\n\nBUA Group Ad  BUA Group Ad  BUA Group Ad\n\nPresident Tinubu\n\nPresident Tinubu (CREDIT: Bola Ahmed Facebook page)\n\n# Nigerian govt approves N70,000 monthly transport allowance for workers\n\n## The approval was one of the resolutions reached at a meeting between government officials and the NLC leadership in Abuja on Tuesday, as both parties discussed workers’ welfare, the natio",
-   "published": "Wed, 28 Oct 2026 05:42:21 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ebola: Nigerian Government Approves N45.08 Billion For Airport Biosecurity - Voice of Nigeria",
-   "url": "https://von.gov.ng/ebola-nigerian-government-approves-n45-08-billion-for-airport-biosecurity",
-   "snippet": "Business and Tech\n Sports\n Languages\n  + Yoruba\n  + Igbo\n  + Hausa\n  + French\n  + Arabic\n  + Fulfulde\n  + Kiswahili\n  + Mandarin\n connect\n\nHomeNigeriaEbola: Nigerian Government Approves N45.08 Billion For Airport Biosecurity\n\nNigeria\n\n# Ebola: Nigerian Government Approves N45.08 Billion For Airport Biosecurity\n\nTemitope Mustapha, Abuja\n\nShare\n\nFacebookXPinterestWhatsApp\n\n meeting presided over by ",
-   "published": "Wed, 28 Oct 2026 18:15:48 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria's president seeks parliament approval for about $21.7 billion borrowing",
-   "url": "https://www.reuters.com/world/africa/nigerias-president-seeks-parliament-approval-about-217-billion-borrowing-2026-10-27",
-   "snippet": "Nigerian President Bola Tinubu has asked the ​National Assembly to approve a ‌supplementary external borrowing plan worth $20.52 billion and €1.05 billion",
-   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "gov_ng",
  "_query": "Nigeria government approves",
  "_domains": [],

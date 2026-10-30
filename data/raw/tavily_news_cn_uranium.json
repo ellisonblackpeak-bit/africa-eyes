@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Washington’s Uranium Bet in Niger Could Come at a Steep Price | WPR",
-   "url": "https://www.worldpoliticsreview.com/niger-us-uranium-dfc-dasa-project",
-   "snippet": "The United States is preparing to finance a major uranium project in Niger. In September, the International Development Finance Corporation, or DFC, approved up to $414.2 million in debt financing for Canadian miner Global Atomic’s Dasa project, an underground uranium mine in the northern Agadez region. The company’s chief executive has said loan documents could be signed in November, with a first",
-   "published": "Tue, 27 Oct 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "At an African forum this weekend the head of our National ...",
-   "url": "https://www.facebook.com/groups/985850411758272/posts/2976489402694353",
-   "snippet": "China's state uranium company owns 68.6 percent. At Husab the state holds 10 percent. We are proud of our uranium and of the Namibians who mine it. But",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Top Uranium Producing Countries (1970–2024)",
-   "url": "https://www.facebook.com/IndiaDefenseNews/videos/top-uranium-producing-countries-19702024/1741319390292397",
-   "snippet": "This data visualization tracks the historical production of uranium across various nations over five decades. It highlights key geopolitical shifts,",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_uranium",
  "_query": "Chinese uranium Niger",
  "_domains": [],

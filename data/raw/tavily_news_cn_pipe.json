@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "BENIN | Shell Trading has secured the rights to the Sèmè ...",
-   "url": "https://www.facebook.com/africaintelligence/posts/benin-shell-trading-has-secured-the-rights-to-the-s%C3%A8m%C3%A8-field-where-production-re/1170471175552066",
-   "snippet": "Construction completed of a 1,950km crude oil pipeline running from the Niger Republic to the Sèmè- Podji Port in the Benin Republic.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "'Real Struggle': Niger's Fuel Crisis Deepens as ...",
-   "url": "https://www.facebook.com/firstpostin/posts/real-struggle-nigers-fuel-crisis-deepens-as-government-restricts-sales-alysonle_/1653339603493687",
-   "snippet": "The Niger-Benin oil pipeline, a project designed to boost Niger's crude exports to 100,000 barrels per day by 2025, was also at risk.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/De8wZ1XEswy",
-   "snippet": "cnpc\\_news\n\n🪪🌾What does a petroleum company have to do with driving licenses and grain mills?  \n  \n⛽🏡Well, beyond securing #Niger's fuel supply, SORAZ — the #CNPC-Niger joint venture — brought tangible support to Mai Bagari village on Oct 9:  \n  \n📌Ten grain mills donated to local women's groups  \n📌Fifty youth fully sponsored to get their driver's licenses  \n  \n🤝✨True partnership isn't just about e",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_pipe",
  "_query": "Niger Benin pipeline",
  "_domains": [],

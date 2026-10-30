@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Solidigm Seeks US Approval to Upgrade China Plant Before $45 Billion Investment - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/solidigm-dangles-new-45-billion-us-plant-to-upgrade-china-site",
-   "snippet": "EXCLUSIVE\n\n# Solidigm Dangles New $45 Billion US Plant to Upgrade China Site\n\n## Takeaways by Bloomberg AI\n\nSolidigm Inc., an American subsidiary of the South Korean memory-chip maker SK Hynix Inc., is in talks with the US Commerce Department to invest $45 billion in a new US chip plant, according to people familiar with the negotiations. [...] Before it decides to move ahead with what would be th",
-   "published": "Tue, 27 Oct 2026 15:18:29 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Treasury proposes rule to curb high-tech investments in China and other adversaries | PBS News",
-   "url": "https://www.pbs.org/newshour/politics/treasury-proposes-rule-to-curb-high-tech-investments-in-china-and-other-adversaries",
-   "snippet": "# Treasury proposes rule to curb high-tech investments in China and other adversaries\n\nWASHINGTON (AP) — The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing and artificial intelligence in China, Russia, North Korea and other \"countries of concern.\"\n\nThe U.S. government has been working for years to deny China and other advers",
-   "published": "Fri, 23 Oct 2026 23:19:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "In China, the AI bubble has already burst",
-   "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26",
-   "snippet": "While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports.",
-   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_kr",
  "_query": "Chinese company South Korea investment",
  "_domains": [],

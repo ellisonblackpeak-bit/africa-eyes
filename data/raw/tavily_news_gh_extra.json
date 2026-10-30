@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Ghana Hopes For New National Carrier In 2027 | Aviation Week",
-   "url": "https://aviationweek.com/air-transport/safety-ops-regulation/ghana-hopes-new-national-carrier-2027",
-   "snippet": "Ghana President John Mahama \n\nGhana President John Mahama\n\nCredit: Timothy A. Clary/AFP via Getty Images\n\n \n\nRemarks by several senior Ghanaian politicians indicate that the country is targeting 2027 for the appearance of its long-awaited new national airline. Ghana has been without a national carrier since 2004, when long-standing flag-carrier Ghana Airways was liquidated. There has been talk for",
-   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Economics Meets Art, and a Marathon, in Rural Ghana",
-   "url": "https://www.nyu.edu/about/news-publications/news/2026/october/economics-meets-art--and-a-marathon--in-rural-ghana.html",
-   "snippet": "## Related\n\n /about/news-publications/news/2015/november/beforeafter-jewish-lives-in-berlin-dec-1/_jcr_content/_cq_featuredimage.coreimg.82.1250.jpeg/332409199769/Shlomit_Lehavi_Addressbuch_Proposal_2015_DE-mailnew.jpeg\n\n  Before/After: Jewish Lives in Berlin – Dec. 1 [...] When November comes around, Nyarko celebrates student creativity and academic achievement with an annual “Prize-Giving Day.” ",
-   "published": "Thu, 29 Oct 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "New film reveals unseen footage of Ghana’s independence – NBC4 Washington",
-   "url": "https://www.nbcwashington.com/video/news/local/new-film-reveals-unseen-footage-of-ghanas-independence/4172974",
-   "snippet": "Skip to content\n\nNBC4 Washington\n\nWatch 24/7 \n\nCreate profile / Log in\n\nDashboard\n\nEmail preferences\n\nSign out\n\nTrending\n🗳️ Early voting 🏈 Commanders 🌡️ Forecast 🔍 4 More Context 👂 All Ears Find Help 📨 NBC4 Newsletters 📺 Watch 24/7 Our News Standards\n\n### News\n\nNews updates for Washington, D.C., Maryland and Virginia\n\n# New film reveals unseen footage of Ghana's independence\n\nNBC4 Washington\n\nCrea",
-   "published": "Wed, 28 Oct 2026 00:06:12 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "gh_extra",
  "_query": "Ghana latest news",
  "_domains": [],

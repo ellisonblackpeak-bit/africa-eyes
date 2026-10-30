@@ -2,10 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Ko ƴan hamayya za su iya kayar da Tinubu a 2027 ba tare da haɗaka ba?",
-   "url": "https://www.bbc.com/hausa/articles/cm74pvyevd32o?at_medium=RSS&at_campaign=rss",
-   "content": "A yayin da shirye-shiryen ƴanhamayyar Najeriya na dunƙulewa wuri ɗaya don tunkarar Tinubu a zaɓen 2027 ke fuskantar koma-baya, wasu ƴanƙasar sun fara tunanin ko ƴan adawar za su iya kai kunyarsu a zaɓen mai zuwa.",
-   "published_date": "Fri, 30 Oct 2026 03:56:45 GMT",
+   "title": "Me INEC ta ce kan mayar da sunayen Pantami da Gwarzo?",
+   "url": "https://www.bbc.com/hausa/articles/c3ewepg0742xo?at_medium=RSS&at_campaign=rss",
+   "content": "Har yanzu INEC dai INEC ba ta fitar da jerin sunayen ƴantarar da ta tantance ɗin ba, kuma ba ta tuntuɓi ƴantakarar ba, kamar yadda wasu daga cikinsu suka shaida wa BBC.",
+   "published_date": "Fri, 30 Oct 2026 09:57:47 GMT",
    "score": 0.6
   },
   {
@@ -13,6 +13,20 @@
    "url": "https://www.bbc.co.uk/hausa/live/crq5npzv2n4wt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 30/10/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda damfarar Crypto mafi girma a duniya za ta shafi kwastomi",
+   "url": "https://www.bbc.com/hausa/articles/c9zrd2v0d40lo?at_medium=RSS&at_campaign=rss",
+   "content": "Kamfanonin bincike guda biyu sun danganta lamarin da wani sashin kutse na Koriya ta Arewa mai suna TraderTraitor.",
+   "published_date": "Fri, 30 Oct 2026 11:31:49 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ko ƴan hamayya za su iya kayar da Tinubu a 2027 ba tare da haɗaka ba?",
+   "url": "https://www.bbc.com/hausa/articles/cm74pvyevd32o?at_medium=RSS&at_campaign=rss",
+   "content": "A yayin da shirye-shiryen ƴanhamayyar Najeriya na dunƙulewa wuri ɗaya don tunkarar Tinubu a zaɓen 2027 ke fuskantar koma-baya, wasu ƴanƙasar sun fara tunanin ko ƴan adawar za su iya kai kunyarsu a zaɓen mai zuwa.",
+   "published_date": "Fri, 30 Oct 2026 03:56:45 GMT",
    "score": 0.6
   },
   {
@@ -48,20 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/ck20wjdllwz5o?at_medium=RSS&at_campaign=rss",
    "content": "Wasu daga cikin ƴaƴa mata na fitattun shugabannin Afirka da suka daɗe suna mulki sun taso ne cikin jin daɗi da walwala, kuma su ma sun zama shahararrun mutane masu tasiri a cikin al'umma.",
    "published_date": "Thu, 29 Oct 2026 17:41:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wane mataki INEC za ta ɗauka kan Pantami da Gwarzo?",
-   "url": "https://www.bbc.com/hausa/articles/cq5ynxe59kgjo?at_medium=RSS&at_campaign=rss",
-   "content": "Daga cikin fitattun sunayen da ake sa ran ganin makomarsu a yau ɗin har da ɗantakarar gwamnan PDP a jihar Gombe, Farfesa Ali Isa Pantami, da ɗantakarar gwamnan Kano na NDC Comdr. Aminu Abdussalam gwarzo.",
-   "published_date": "Thu, 29 Oct 2026 09:22:39 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yankuna 4 da babu mai su a duniya",
-   "url": "https://www.bbc.com/hausa/articles/cmkgkx6zjrx4o?at_medium=RSS&at_campaign=rss",
-   "content": "Wasu lokuta, manyan abubuwan da ke tasiri a rayuwarmu ta yau da kullum kan sa mu yi tunani a kan tambayoyin da wataƙila ba su da wani muhimmanci na gaggawa, amma suna da matuƙar jan hankali.",
-   "published_date": "Thu, 29 Oct 2026 13:31:34 GMT",
    "score": 0.6
   },
   {
@@ -111,6 +111,20 @@
    "url": "https://www.bbc.com/hausa/articles/c5zjx1zgjplzo?at_medium=RSS&at_campaign=rss",
    "content": "Arsenal da Tottenham da Newcastle na daga cikin ƙungiyoyin da ke sanya ido kan ɗan wasan gaba na ƙasar Jamus, Nicolo Tresoldi; yayin da matashin ɗan wasan baya na Stuttgart Finn Jeltsch, ke ɗaukar hankalin Liverpool.",
    "published_date": "Wed, 28 Oct 2026 03:58:00 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Wane mataki INEC za ta ɗauka kan Pantami da Gwarzo?",
+   "url": "https://www.bbc.com/hausa/articles/cq5ynxe59kgjo?at_medium=RSS&at_campaign=rss",
+   "content": "Daga cikin fitattun sunayen da ake sa ran ganin makomarsu a yau ɗin har da ɗantakarar gwamnan PDP a jihar Gombe, Farfesa Ali Isa Pantami, da ɗantakarar gwamnan Kano na NDC Comdr. Aminu Abdussalam gwarzo.",
+   "published_date": "Thu, 29 Oct 2026 09:22:39 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yankuna 4 da babu mai su a duniya",
+   "url": "https://www.bbc.com/hausa/articles/cmkgkx6zjrx4o?at_medium=RSS&at_campaign=rss",
+   "content": "Wasu lokuta, manyan abubuwan da ke tasiri a rayuwarmu ta yau da kullum kan sa mu yi tunani a kan tambayoyin da wataƙila ba su da wani muhimmanci na gaggawa, amma suna da matuƙar jan hankali.",
+   "published_date": "Thu, 29 Oct 2026 13:31:34 GMT",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/c620rzeqyg9vt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 27/10/2026",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Wane ne Sheikh Yahaya Masussuka da ƴan bindiga suka kashe?",
-   "url": "https://www.bbc.com/hausa/articles/c8zxl411n35go?at_medium=RSS&at_campaign=rss",
-   "content": "A wata tattaunawa da BBC, baturen ‘yansanda reshen Dutsen Ma ya bayyana cewa wasu ‘yan bindiga ne suka kashe mashahurin malamin a yammacin Litinina kofar gidansa.",
-   "published_date": "Mon, 26 Oct 2026 22:35:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abu 7 da bincike ya gano kan mutuwar matasa 33 masu haƙar zinare a Neja",
-   "url": "https://www.bbc.com/hausa/articles/cm0e057n0p3po?at_medium=RSS&at_campaign=rss",
-   "content": "A watan Satumba ne dai Shugaban Najeriya, Bola Ahmed Tinubu ya bayar da umarnin gudanar da cikakke kuma sahihin bincike, game da mutuwar mutanen da ake zargin suna hakar ma'adinai ba bisa ka'ida ba.",
-   "published_date": "Tue, 27 Oct 2026 16:43:12 GMT",
    "score": 0.6
   }
  ],

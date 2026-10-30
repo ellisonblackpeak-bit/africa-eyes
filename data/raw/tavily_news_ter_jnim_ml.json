@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
-   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
-   "snippet": "The attack on the Dioura military barracks in central Mali on September 10 killed at least 150 soldiers and, according to claims, 95 soldiers were kidnapped. This was followed by the September 24 attack on Djenné. Nighttime attacks with mortar and rocket fire, guided by drones, on Sévaré airport, also in central Mali, further confirm JNIM’s military capacity, as demonstrated by the simultaneous, c",
-   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Mali drone strike kills 13 civilians, activists say; army says it targeted militants - ABC News",
-   "url": "https://abcnews.com/International/wireStory/mali-drone-strike-kills-13-civilians-activists-army-137642600",
-   "snippet": "Mali has been plagued for over a decade by al-Qaida-linked militants, including the JNIM alliance, and fighters affiliated with the Islamic State group, as well as a Tuareg separatist rebellion in the north.\n\n“They had taken care to hide their motorcycles in an isolated location separate from their gathering place,” the military statement said. “After confirming the target, the position was succes",
-   "published": "Wed, 28 Oct 2026 15:39:33 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_jnim_ml",
  "_query": "JNIM Mali attack",
  "_domains": [],

@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/reel/De2M8sVCQCi",
-   "snippet": "firstpost\n\n‘Real Struggle’: Niger’s Fuel Crisis Deepens as Government Restricts Sales   \n  \n@alysonle\\_ examines the causes of Niger’s fuel shortage, the growing gap between domestic production and demand, and the government’s efforts to ease the crisis on #FirstpostAfrica\n\n## No comments yet.\n\nStart the conversation.\n\n4711\n\nLog in to like or comment.\n\nMore posts from firstpost\n\nPhoto by Firstpost",
-   "published": "Sat, 24 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/De7lKQ3DAtH",
-   "snippet": "Video by ỊDEKỌ News on August 14, 2026. May be a meme of one or more people and military uniform.\nVideo by ỊDEKỌ News on July 01, 2026.\nPhoto by ỊDEKỌ News on March 28, 2026.\nPhoto by ỊDEKỌ News on October 26, 2026. May be an image of one or more people and text.\nPhoto by ỊDEKỌ News on October 26, 2026. May be an image of one or more people, poster, magazine and text.\nPhoto by ỊDEKỌ News on Octobe",
-   "published": "Sun, 25 Oct 2026 20:36:28 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ne_export",
  "_query": "Niger bans petrol exports",
  "_domains": [],

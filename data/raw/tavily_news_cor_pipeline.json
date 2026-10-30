@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Morocco commits $1 billion to oil and gas exploration as it targets energy independence by 2031 - Businessfront",
-   "url": "https://businessfront.com/energy/news/morocco-gas-exploration-2031",
-   "snippet": "The Nigeria-Morocco Atlantic African Gas Pipeline — a proposed 6,800-kilometre pipeline designed to carry up to 30 bcm of natural gas annually — reached a milestone in July 2025 with the signing of an intergovernmental agreement among participating countries. [...] The $25 billion project is designed to supply West African nations before connecting to the Maghreb-Europe Gas Pipeline, potentially e",
-   "published": "Tue, 27 Oct 2026 07:50:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Morocco Plans $1Bn in Oil, Natural Gas Exploration Through 2031 | Egypt Oil & Gas",
-   "url": "https://egyptoil-gas.com/news/morocco-plans-1bn-in-oil-natural-gas-exploration-through-2031",
-   "snippet": "Morocco is also pursuing the Nigeria-Morocco Atlantic African Gas Pipeline to strengthen energy security and diversify supplies. The proposed 6,800-km pipeline is designed to transport up to 30 bcm of natural gas annually.\n\nIt is intended to supply countries in West Africa before connecting to the Maghreb-Europe Gas Pipeline, potentially enabling exports to Morocco and European markets. The projec",
-   "published": "Mon, 26 Oct 2026 14:00:12 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Morocco targets US $1Bn oil and gas exploration investment by 2031",
-   "url": "https://pumps-africa.com/morocco-targets-us-1bn-oil-and-gas-exploration-investment-by-2031?amp=1",
-   "snippet": "One project attracting attention is the Tendrara gas field in eastern Morocco, operated by Moroccan mining group Managem. The development is among the country’s more advanced gas prospects and could contribute to future domestic supply as it progresses towards commercial operations. Morocco is also seeking to expand its role in Africa’s gas trade through the proposed Nigeria-Morocco Atlantic Afric",
-   "published": "Thu, 29 Oct 2026 04:20:57 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cor_pipeline",
  "_query": "Nigeria Morocco gas pipeline",
  "_domains": [],

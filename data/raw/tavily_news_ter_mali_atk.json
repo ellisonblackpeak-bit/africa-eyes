@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Military and Armed Groups in Mali Committing Human Rights Abuses Against Civilians",
-   "url": "https://www.humanrightsresearch.org/post/military-and-armed-groups-in-mali-committing-human-rights-abuses-against-civilians",
-   "snippet": "Human Rights Watch reported “indiscriminate” drone attacks conducted by the Malian military. The report documented one drone attack that destroyed part of a health facility and another that hit a market, killing six civilians and wounding at least 20. Also reported was an attack by Malian soldiers against armed opposition groups in the Segou region, where five girls were shot and killed, and anoth",
-   "published": "Thu, 29 Oct 2026 19:00:07 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Mali drone kills 13 civilians, activists say; army says it targeted militants | AP News",
-   "url": "https://apnews.com/article/mali-violence-human-rights-army-drone-attack-d1b0f42ac8e884bd6c927614370801ed",
-   "snippet": "Malian armed forces and their allies have responded to mounting attacks by Islamist and separatist armed groups with abusive counterinsurgency operations in central and northern Mali that often harm civilians, Human Rights Watch said in a report earlier this month.\n\nIt added that all sides of the conflict “are committing grave laws-of-war violations” and that “civilians are bearing the brunt of th",
-   "published": "Wed, 28 Oct 2026 15:07:02 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
-   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
-   "snippet": "The attack on the Dioura military barracks in central Mali on September 10 killed at least 150 soldiers and, according to claims, 95 soldiers were kidnapped. This was followed by the September 24 attack on Djenné. Nighttime attacks with mortar and rocket fire, guided by drones, on Sévaré airport, also in central Mali, further confirm JNIM’s military capacity, as demonstrated by the simultaneous, c",
-   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_mali_atk",
  "_query": "Mali army attack",
  "_domains": [],

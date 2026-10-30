@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "US LNG Exporters Find Few Takers in Europe for New Supply",
-   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply",
-   "snippet": "By Priscila Azevedo Rocha and Ruth Liao US liquefied natural gas developers expected Europe to…",
-   "published": "Thu, 29 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Next Risk For U.S. LNG Is Demand, Not Supply",
-   "url": "https://www.forbes.com/sites/rrapier/2026/10/24/the-next-risk-for-us-lng-is-demand-not-supply",
-   "snippet": "U.S. LNG export capacity is surging, but the next challenge may be whether global demand can grow fast enough to keep new terminals fully utilized.",
-   "published": "Sun, 25 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Equinor warns Europe is vulnerable to winter gas price spike if cold weather hits",
-   "url": "https://www.reuters.com/business/energy/equinor-warns-europe-is-vulnerable-winter-gas-price-spike-if-cold-weather-hits-2026-10-28",
-   "snippet": "Europe could face another spike in gas prices if ‌cold weather boosts demand later this winter, when stocks are depleted and the region depends more on",
-   "published": "Thu, 29 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],

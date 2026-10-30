@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Tafouk TV, the new media arm of Moscow-backed Sahelian juntas",
-   "url": "https://www.theafricareport.com/434646/tafouk-tv-the-new-media-arm-of-moscow-backed-sahelian-juntas",
-   "snippet": "Since 16 September, television sets in Mali, Burkina Faso and Niger have been receiving a new channel broadcasting locally produced programmes with a patriotic, sovereignty-focused tone.\n\nAn initiative of the three juntas that make up the Alliance of Sahel States (AES), Tafouk TV aims to give a voice to the military authorities who seized power by force and counter what they describe as an informa",
-   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - myMotherLode.com",
-   "url": "https://mymotherlode.com/news/africa/11252926/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years.html",
-   "snippet": "Last April, the countries of the Alliance of Sahel States — Niger, Mali and Burkina Faso — recalled their ambassadors from Algeria following an incident in which a Malian drone was shot down by Algeria’s army near the border.\n\nAlgeria’s foreign ministry also condemned the 2023 coup which brought Niger’s junta leader Tchiani to power.\n\n## Make Us Your Home Page Today\n\nfollow social mediaFollow us o",
-   "published": "Mon, 26 Oct 2026 01:34:15 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

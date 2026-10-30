@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "'This is a pivot point': China's exports projected to avert 24% of global CO2 emissions | Fortune",
-   "url": "https://fortune.com/2026/10/29/china-clean-energy-export-24-global-co2-emissions",
-   "snippet": "# Trendingnow\n\n# 1\n\n# 2\n\n# 3\n\n# 1\n\n# 2\n\n# 3\n\n# ‘This is a pivot point for the outlook of global energy’: China’s record-high clean energy tech exports projected to avert 24% of global CO2 emissions\n\nInstallers unbox solar panels from the Chinese manufacturer LONGi at a project site in Manila, Philippines. [...] The Philippines implemented similar policies and became the second-largest destination ",
-   "published": "Thu, 29 Oct 2026 15:35:50 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China’s sanctions on Taiwan allies project its power, but with limited effect – Radio Free Asia",
-   "url": "https://www.rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize",
-   "snippet": "“But I think for Beijing the mere fact it has created a news cycle out of the sanctions will mean it has achieved the desired effect of reinforcing its claims over Taiwan and showing there are consequences, however limited, to siding with Taipei.”\n\nEdited by Eugene Whong.\n\n## Related Stories\n\nChina pressure accelerates Philippines-Taiwan ties, analysts say### China pressure accelerates Philippines",
-   "published": "Sat, 24 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Taiwan flags ‘obvious’ threat from 50 Chinese vessels across regional waters - The Japan Times",
-   "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/politics/taiwan-50-chinese-vessels",
-   "snippet": "This month, China’s defense ministry said the Liaoning was engaged in a routine training exercise not directed at any specific country.\n\nChina’s ties with both Japan and the Philippines have tanked in recent months. Beijing has been upset by Japanese support for Taiwan, while embroiled in an increasingly bitter standoff with Manila in the South China Sea. [...] TAIPEI – China has more than 50 nava",
-   "published": "Thu, 29 Oct 2026 08:30:17 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],

@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "At least 68 killed in high-speed train collision in Spain - World - Chinadaily.com.cn",
-   "url": "https://www.chinadaily.com.cn/a/202610/29/WS6ae262ece4b06d4aa0565b7c.html",
-   "snippet": "Search\n HOME\n CHINA\n WORLD\n BUSINESS\n CULTURE\n TRAVEL\n VIDEO\n SPORTS\n OPINION\n REGIONAL\n NEWSPAPER)\n MOBILE\n\n\n\nGlobal EditionASIA 中文双语Français\n\n\n  + China Daily PDF\n  + China Daily E-paper\n MOBILE\n\nWorld\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n China-US\n China-Europe\n China-Japan\n China-Africa\n\n1. Home\n2. World\n/ Europe Share to ...\n\nHome / World / Europe\n\n# At least 68 killed in hig",
-   "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Report: Death toll rises to 46 in high-speed train collision in Spain",
-   "url": "https://www.chinadailyasia.com/article/641877",
-   "snippet": "NEWS\n\nHong Kong\n\nNation\n\nAsia\n\nWorld\n\nBusiness\n\nScience\n\nSports\n\nFOCUS\n\nLife & Art\n\nIn-depth China\n\nQuirky\n\nPhoto\n\nGraphics\n\nData\n\nCulture HK\n\nGlobal Weekly\n\nEye on Asia\n\nSpecial\n\nFrom PR Newswire\n\nOPINION\n\nEditorials\n\nColumnists\n\nJoephy Chan\n\nBill Condon\n\nDavid Cottam\n\nGrenville Cross\n\nRichard Cullen\n\nDong Yu\n\nMichael Edesess\n\nWilson Lee Flores\n\nTom Fowdy\n\nFu Kin-chi\n\nHenry Ho\n\nHo Lok-sang\n\nKen I",
-   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Two high-speed trains collide in Spain, rail operator says | Reuters",
-   "url": "https://www.reuters.com/world/two-high-speed-trains-rear-end-spain-rail-operator-says-2026-10-28",
-   "snippet": "The Misinformation Monitor newsletter rounds up international misinformation narratives, with a \"Real or Fake?\" quiz in every edition. Sign up here.\n\nA ​Renfe and an Iryo train crashed just after 9 a.m. (0800 GMT), causing two Iryo wagons to ​derail, a government spokesperson for the Castilla ​La Mancha region said, adding that the cause and ‌number ⁠of injuries were still being determined. [...] ",
-   "published": "Wed, 28 Oct 2026 09:06:58 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_casualty",
  "_query": "Chinese killed Africa accident",
  "_domains": [],

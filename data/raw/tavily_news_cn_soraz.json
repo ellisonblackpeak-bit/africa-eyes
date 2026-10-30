@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Algeria prepares troop deployment in Niger to protect oil assets and expand influence",
-   "url": "https://www.theafricareport.com/434864/algeria-prepares-troop-deployment-in-niger-to-protect-oil-assets-and-expand-influence",
-   "snippet": "The Africa Report \n\nSubscribe now\n\nThe Africa Report\n\n Sign up for our newsletters\n Sign in\n\nJoin the top leaders who read The Africa Report every day\n\n Subscribe\n\nDownload the App\n\n \n\nThe day after Algeria’s parliament authorised a military intervention in Niger on 25 October, President Abdelmadjid Tebboune announced plans to “protect Algeria’s energy interests” and implement a military and secur",
-   "published": "Thu, 29 Oct 2026 12:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Al Shabaab Ambush in South West State; Algeria Deploys to Niger: Africa File, October 29, 2026",
-   "url": "https://www.criticalthreats.org/analysis/al-shabaab-somalia-algeria-niger-libya-morocco-haftar",
-   "snippet": "Source: Emily Bjerke. Assessments: Somalia. Author: Michael DeAngelo with Ziv Zellars. Al Shabaab ambushed Federal Government of Somalia (FGS) forces,",
-   "published": "Thu, 29 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_soraz",
  "_query": "Zinder refinery Niger",
  "_domains": [],

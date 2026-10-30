@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EIGS (État islamique au Sahel) : qui est le groupe jihadiste qui monte en 2026 ? – Sahel Watch",
-   "url": "https://sahel.watch/eigs-etat-islamique-sahel-issp-2026",
-   "snippet": "Ce sont trois désignations d’une même organisation. « EIGS » (État islamique dans le Grand Sahara) est le nom historique, encore le plus employé en français. Depuis 2022, l’État islamique la désigne officiellement comme sa « Province du Sahel » : Islamic State Sahel Province (ISSP) en anglais, État islamique au Sahel (EIS) en français.\n\n### Quelle différence entre l’EIGS et le JNIM ? [...] Les eff",
-   "published": "Sun, 25 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Islamic State West Africa Province (ISWAP) claims its ...",
-   "url": "https://www.facebook.com/groups/2143436992383421/posts/29137925269174561",
-   "snippet": "In Niger, the Islamic State is primarily represented by two groups: Islamic State West Africa Province (ISWAP) and Islamic State Sahel Province (ISSP).",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Spatial distribution, source attribution, and health risk ...",
-   "url": "https://iwaponline.com/jwh/article/doi/10.2166/wh.2026.027/113662/Spatial-distribution-source-attribution-and-health",
-   "snippet": "Groundwater is a critical source of water for drinking and agriculture in Gboko, yet its quality is threatened by anthropogenic activities.",
-   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_eigs",
  "_query": "EIGS Islamic State Sahel",
  "_domains": [],

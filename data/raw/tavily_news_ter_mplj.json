@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Al Shabaab Ambush In South West State; Algeria Deploys ...",
-   "url": "https://www.criticalthreats.org/analysis/al-shabaab-somalia-algeria-niger-libya-morocco-haftar",
-   "snippet": "MPLJ stands for Mouvement Patriotique pour la Liberté et la Justice (Patriotic Movement for Liberty and Justice). MPN stands for Mouvement patriotique nigérien",
-   "published": "Thu, 29 Oct 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger: Junta Signs Defense Partnership With Algeria | RANE Worldview",
-   "url": "https://worldview.ranenetwork.com/content/situational-report/2026-10-23/niger-junta-signs-defense-partnership-with-algeria/37968261f04b8264",
-   "snippet": "RANE\n\nNigerien Defense Minister Salifou Mody signed a security pact with Chief of Staff of the Algerian military Said Chengriha, Jeune Afrique reported on Oct. 22. Details of the agreement were not released, but Jeune Afrique noted that Algerian aircraft deployed to Niger's capital Niamey following a coup attempt in late August had remained at the city's air base despite allegedly not undertaking ",
-   "published": "Fri, 23 Oct 2026 17:32:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger: Junta Accuses Chad, France of Drone Strike | RANE Worldview",
-   "url": "https://worldview.ranenetwork.com/content/situational-report/2026-10-27/niger-junta-accuses-chad-france-of-drone-strike/234daad2a2a502b0",
-   "snippet": "RANE\n\nNiger said that \"a drone strike carried out from Chadian territory\" killed two civilians in the locality of Emi Lulu in its northern Agadez region and summoned Chad's ambassador to Niger to lodge a formal protest, Radio France Internationale reported on Oct. 27. Niger said Chad carried out the strike with the support of France.\n\nRANE\n\nSUBSCRIBERS ONLY \n\nExpert analysis when it matters most.\n",
-   "published": "Tue, 27 Oct 2026 18:30:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

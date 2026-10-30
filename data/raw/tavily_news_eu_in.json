@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "India and Europe accelerate trade ties - Brussels Signal",
-   "url": "https://brusselssignal.eu/2026/10/india-and-europe-accelerate-trade-ties-but-investment-remains-the-big-unknown",
-   "snippet": "The economic figures explain the interest.\n\nAccording to Eurostat data published by the Council of the EU, merchandise trade between India and the EU-27 reached €118 billion in 2025. Europe imported €69.5 billion worth of Indian goods and exported €48.9 billion, resulting in a trade deficit of €20.6 billion. That made the EU India’s second-largest trading partner in goods, behind the United States",
-   "published": "Thu, 29 Oct 2026 08:14:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Pakistan textile exporters warn EU-India trade deal could erode market advantage",
-   "url": "https://www.arabnews.pk/pakistan/pakistan-textile-exporters-warn-eu-india-trade-deal-could-erode-market-advantage-3005196",
-   "snippet": "The warning comes as the European Union prepares to implement a free trade agreement with India that could reduce Pakistan’s relative tariff advantage under the bloc’s Generalized Scheme of Preferences Plus (GSP+). India and the EU concluded negotiations in January, and India’s trade minister said on Thursday the agreement could become operational in early 2027. [...] European Commission President",
-   "published": "Sun, 25 Oct 2026 03:31:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Tusk's visit to India: a new opening in the country's relationship with Central and Eastern Europe - New Eastern Europe",
-   "url": "https://neweasterneurope.eu/2026/10/28/tusks-visit-to-india-a-new-opening-in-the-countrys-relationship-with-central-and-eastern-europe",
-   "snippet": "Tusk’s visit builds on the strategic partnership established in August 2024 during Narendra Modi’s trip to Warsaw, which produced a mix of concrete and symbolic results. The two sides set a target to double bilateral trade by 2030. It currently stands at about 6 billion dollars. The two agreed to launch a dialogue about their defence industry, and discussed cooperation in artificial intelligence, ",
-   "published": "Wed, 28 Oct 2026 12:27:37 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_in",
  "_query": "EU India trade",
  "_domains": [],

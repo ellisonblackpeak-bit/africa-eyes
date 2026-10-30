@@ -2,6 +2,48 @@
  "success": true,
  "results": [
   {
+   "title": "‘Follow our example,’ Dutch minister tells EU over Ukraine air defence",
+   "url": "https://www.rapporteur.com/news/follow-our-example-dutch-minister-tells-eu-over-ukraine-air-defence/",
+   "content": "'Some countries have large stockpiles', Derk Boswijk said",
+   "published_date": "Fri, 30 Oct 2026 10:31:53 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "European biotech targets severe radiation poisoning",
+   "url": "https://www.rapporteur.com/news/european-biotech-targets-severe-radiation-poisoning/",
+   "content": "Acute radiation syndrome can damage the bone marrow, digestive system, heart and nervous system",
+   "published_date": "Fri, 30 Oct 2026 10:18:19 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Global Dialogues 2026. Rethinking Cancer Care, Together: A Person-Centred Approach",
+   "url": "https://www.rapporteur.com/video/global-dialogues-2026-rethinking-cancer-care-together-a-person-centred-approach/",
+   "content": "At the All.Can Global Dialogues 2026 in Brussels, patient advocates, healthcare professionals, policymakers and civil society representatives came together to discuss how health systems can deliver more person-centred cancer care while remaining sustainable in the face of rising demand.",
+   "published_date": "Fri, 30 Oct 2026 10:01:45 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIREPOWER: Netherlands eyes SAFE for air defence",
+   "url": "https://www.rapporteur.com/news/firepower-netherlands-eyes-safe-for-air-defence/",
+   "content": "In today's edition: Austria, space dependencies, naval fragmentation",
+   "published_date": "Fri, 30 Oct 2026 09:25:29 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "THE HACK: EU targets quantum sovereignty",
+   "url": "https://www.rapporteur.com/news/the-hack-eu-targets-quantum-sovereignty/",
+   "content": "In today's edition: AI safety, social media bans, network fees",
+   "published_date": "Fri, 30 Oct 2026 09:18:58 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "VOLTAGE: EU capitals push back on power bills",
+   "url": "https://www.rapporteur.com/news/voltage-eu-capitals-push-back-on-power-bills/",
+   "content": "In today's edition: Car CO₂, shipbreaking yards, oil reserves",
+   "published_date": "Fri, 30 Oct 2026 09:03:29 +0000",
+   "score": 0.6
+  },
+  {
    "title": "FIRST AID: First fast-tracked EU drug",
    "url": "https://www.rapporteur.com/news/first-aid-first-fast-tracked-eu-drug/",
    "content": "In today's edition: tobacco, US midterms, China",
@@ -167,48 +209,6 @@
    "url": "https://www.rapporteur.com/news/interview-fincantieri-ceo-urges-europe-to-reduce-naval-fragmentation/",
    "content": "Pierroberto Folgiero calls for common procurement requirements to cut costs and improve interoperability",
    "published_date": "Thu, 29 Oct 2026 12:59:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "European Commission freezes decisions on national social media bans",
-   "url": "https://www.rapporteur.com/news/commission-freezes-decisions-on-national-social-media-bans/",
-   "content": "Austria has ‘no sympathy’ for Commission delay, minister says",
-   "published_date": "Thu, 29 Oct 2026 12:39:03 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Commission opens applications for remaining SAFE defence loans",
-   "url": "https://www.rapporteur.com/news/commission-opens-applications-for-remaining-safe-defence-loans/",
-   "content": "A little over €21 billion is available for member states",
-   "published_date": "Thu, 29 Oct 2026 12:10:03 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Rail tragedy reignites political crisis ahead of Spanish election",
-   "url": "https://www.rapporteur.com/news/rail-tragedy-reignites-political-crisis-ahead-of-spanish-election/",
-   "content": "The management and safety of Spain’s extensive rail network are back in the spotlight",
-   "published_date": "Thu, 29 Oct 2026 12:00:33 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Austria pitches for United Nations AI security centre in Vienna",
-   "url": "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/",
-   "content": "Governments are still debating how to respond to global concerns over AI safety",
-   "published_date": "Thu, 29 Oct 2026 11:53:09 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Commission’s Quantum Act to go all in on sovereignty",
-   "url": "https://www.rapporteur.com/news/commissions-quantum-act-to-go-all-in-on-sovereignty/",
-   "content": "Public procurement would be restricted to EU-headquartered companies, per leaked draft",
-   "published_date": "Thu, 29 Oct 2026 11:17:51 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Fix the Blocks, Cut the Bills: Europe’s Housing Crisis Is Unfolding in Our Apartment Buildings [Promoted Content]",
-   "url": "https://www.rapporteur.com/opinion/fix-the-blocks-cut-the-bills-europes-housing-crisis-is-unfolding-in-our-apartment-buildings/",
-   "content": "Millions of households in Central and Eastern Europe live in ageing apartment blocks that are expensive to heat or cool and require renovation that few can afford without financial support. The experience of four cities shows how this can change.",
-   "published_date": "Thu, 29 Oct 2026 11:00:11 +0000",
    "score": 0.6
   }
  ],

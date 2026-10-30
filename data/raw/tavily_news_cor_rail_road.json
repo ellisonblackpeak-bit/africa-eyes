@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Port MacKenzie Rail Extension Project Advances - Railway Age",
-   "url": "https://www.railwayage.com/regulatory/port-mackenzie-rail-extension-project-advances",
-   "snippet": "direct rail siding will enable it to receive shipments of antimony and other minerals, ore and concentrate feedstock via the new rail extension. [...] U.S. Transportation Secretary Sean P. Duffy announced the award for the Port MacKenzie Rail Extension project on Oct. 19.\n\nIt is part of FRA’s recently announced Consolidated Rail Infrastructure and Safety Improvements (CRISI) program; the awards to",
-   "published": "Fri, 23 Oct 2026 14:25:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Federal, state moves advance South Florida rail projects",
-   "url": "https://www.yahoo.com/news/us/articles/federal-state-moves-advance-south-112459033.html",
-   "snippet": "MIAMI - Two commuter rail projects in South Florida that would use the Florida East Coast Railway main line received positive funding news this week, although Miami-Dade's mayor expressed some reservations about one of those plans. [...] David Lassen\n\n3 min read\n\nAdd Yahoo as a preferred source to see more of our stories on Google.\n\nMap of the Broward Commuter Rail project\n\nBroward County's commut",
-   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Managing Railway Cyber Risks: From Compliance to Resilience | Metro",
-   "url": "https://www.metro-magazine.com/articles/managing-railway-cyber-risks-from-compliance-to-resilience",
-   "snippet": "Ad Loading...\n\n## An Interconnected Risk Ecosystem\n\nDenver RTD commuter rail train on tracks\n\nRail cybersecurity extends beyond traditional IT networks to include signaling systems, trackside equipment, control centers, and other operational technologies essential to safe and reliable service.\n\nCredit:\n\nDenver RTD\n\nCybersecurity within a railway project does not operate as a standalone technical f",
-   "published": "Wed, 28 Oct 2026 15:05:19 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cor_rail_road",
  "_query": "railway project Nigeria",
  "_domains": [],

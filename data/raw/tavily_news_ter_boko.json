@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Over 200 Boko Haram Terrorists Are Moving To Attack Military Camp In Buni Yadi As Rockets Target Troops; IED Threat Raises Travel Concerns - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/10/over-200-boko-haram-terrorists-are-moving-to-attack-military-camp-in-buni-yadi-as-rockets-target-troops-ied-threat-raises-travel-concerns",
-   "snippet": "\")\n\nSecurity Alert: Buni Yadi , Yobe State , Nigeria | October 29, 2026\n\nIntelligence sources report that more than 200 Boko Haram terrorists are movinf to attack  military camp in Buni Yadi Gujba Local Government Area, Yobe State, with reports that the attackers have begun firing rockets in an apparent attempt to overwhelm Nigerian military personnel and members of the Civilian Joint Task Force (",
-   "published": "Fri, 30 Oct 2026 01:03:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "ACN report: 220 million Christians face persecution worldwide - Vatican News",
-   "url": "https://www.vaticannews.va/en/church/news/2026-10/acn-report-persecution-christians-africa-asia-displacement.html",
-   "snippet": "Programs Podcast\n\nFile photo of Catholic bishops in Nigeria gathered to pray for security and denounce the killings of Christians by Boko Haram terrorists   File photo of Catholic bishops in Nigeria gathered to pray for security and denounce the killings of Christians by Boko Haram terrorists (AFP or licensors) \n\nChurch\n\n religious persecution\n Africa\n Asia\n migrants and refugees\n Nicaragua\n chris",
-   "published": "Wed, 28 Oct 2026 14:48:31 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

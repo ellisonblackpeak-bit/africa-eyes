@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Ẹgbẹ́ òṣìṣẹ́ ASUU, ẹ̀ka ti Lautech l'Ogbomoso bẹ̀rẹ̀ ìyanṣẹ́lódì",
+   "url": "https://www.bbc.com/yoruba/articles/cr89z3g4zgkyo?at_medium=RSS&at_campaign=rss",
+   "content": "Ẹgbẹ awọn oṣiṣẹ naa ko fi gbedeke ọjọ ti iyanṣẹlodi wọn yoo wa si opin, ṣugbọn wọn sọ pe o digba ti ijọba ba da wọn lohun, ko to di pe awọn pada sẹnu iṣẹ wọn.",
+   "published_date": "Fri, 30 Oct 2026 09:52:46 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Òní ni ètò ìsìnkú Michael Oyedekun, olùkọ́ tí àwọn ajínigbé gé lórí l'Oyo",
    "url": "https://www.bbc.com/yoruba/articles/cw2402qlgqq1o?at_medium=RSS&at_campaign=rss",
    "content": "Aroko ni awọn ajinigbe ọhun fi iku Oyedokun ṣe fun ijọba apapọ lọjọ naa, pẹlu bi wọn ṣe n beere fun awọn ẹtọ kan.",
    "published_date": "Fri, 30 Oct 2026 08:37:20 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kókó mẹrin ninú ẹ̀sùn ti EFCC fi kan Atiku rèé....",
+   "url": "https://www.bbc.com/yoruba/articles/cjx23qwplr97o?at_medium=RSS&at_campaign=rss",
+   "content": "Iwe ẹsun naa ni Agbonayinma kọ si EFCC lati gbe ẹsun naa dide pada, to si ni ko yẹ EFCC gbagbe iru ẹsun iwa ibajẹ bẹẹ.",
+   "published_date": "Fri, 30 Oct 2026 09:41:00 GMT",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.com/yoruba/articles/cmg47n4v53z1o?at_medium=RSS&at_campaign=rss",
    "content": "Awọn ọlọpaa ni Bordeaux, guusu France sọ pe niṣe ni awọn oluwọde kan n ju awọn nnkan oloro sawọn ọlọpaa, ti wọn si n ṣe ikọlu sawọn ẹṣọ aabo.",
    "published_date": "Mon, 26 Oct 2026 06:31:25 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Mo mọ̀ nípa ẹ̀sùn tí bàbá mi ń kojú, ó kún ohun tí mi ò ṣe jẹ́ kí bàbá mi súnmọ́ àwọn ọmọ mi'",
-   "url": "https://www.bbc.com/yoruba/articles/c6lykez2w2lno?at_medium=RSS&at_campaign=rss",
-   "content": "Ninu atẹjade kan, Meghan sọ pe lẹta kan ti wọn fi fẹsun kan baba oun, Thomas Markle, ti wọn kọ ranṣẹ sawọn ọlọpaa Metropolitan lọdun naa lọhun, wọn fi ẹda rẹ ranṣẹ si oun.",
-   "published_date": "Mon, 26 Oct 2026 06:29:51 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wo ìgbà mẹ́rin tí afẹ́fẹ́ òórùn burúkú ti ṣe àkóbá fún àwọn àkẹ́kọ̀ọ́ l'Ogun àti igbésẹ̀ ìjọba",
-   "url": "https://www.bbc.com/yoruba/articles/c615jpxl0591o?at_medium=RSS&at_campaign=rss",
-   "content": "Iṣẹlẹ yii ni yoo jẹ igba kẹrin iru rẹ to ṣẹlẹ laaarin ọdun 2026, ti ijọba ipinlẹ naa si ti n wa iyanju si i.",
-   "published_date": "Sun, 25 Oct 2026 07:23:47 GMT",
    "score": 0.6
   }
  ],

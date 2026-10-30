@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Health Alert: U.S. Embassy Abuja, Nigeria (October 27, 2026) - U.S. Embassy and Consulate in Nigeria",
-   "url": "https://ng.usembassy.gov/health-alert-u-s-embassy-abuja-nigeria-october-27-2026",
-   "snippet": "In Abuja, please call: +234 209 461 4000\n\nOutside of Office Hours in Abuja, contact: +234 209 461 4000 (and press 0)\n\nIn Lagos, please call: +234 201 460 3400\n\nOutside of Office Hours in Lagos, contact: +234 201 460 3400\n\nOutside of Nigeria: +234 209 461 4000\n\nIf you are a U.S. citizen with an after-hours emergency and cannot reach us at the above numbers, please call +234-803-408-6000. [...] Assi",
-   "published": "Tue, 27 Oct 2026 15:31:50 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "As Foreign Funding Shrinks, Can Nigerian Civic Groups Sustain Election Monitoring?",
-   "url": "https://thefulcrum.us/elections/nigeria-2027-elections-us-democracy-support",
-   "snippet": "As Nigeria approaches its 2027 elections, civic groups face funding cuts and shifting U.S. foreign policy priorities. Explore how local organizations are",
-   "published": "Fri, 30 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-   "url": "https://www.bbc.com/news/articles/cmgel8pqj5rwo",
-   "snippet": "## 'They sent a letter asking to preach. Then they massacred us' - Nigerians on jihadist attack\n\n## Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky\n\nTo the right of the banner a woman with sunglasses on her head and wearing a denim jacket and yellow T-shirt looks down at her mobile phone. A graphic for BBC News Africa in black and red is on the left of the image w",
-   "published": "Tue, 27 Oct 2026 19:01:16 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "us_ng",
  "_query": "US Nigeria",
  "_domains": [],
