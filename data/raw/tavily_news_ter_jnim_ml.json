@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
+   "snippet": "The attack on the Dioura military barracks in central Mali on September 10 killed at least 150 soldiers and, according to claims, 95 soldiers were kidnapped. This was followed by the September 24 attack on Djenné. Nighttime attacks with mortar and rocket fire, guided by drones, on Sévaré airport, also in central Mali, further confirm JNIM’s military capacity, as demonstrated by the simultaneous, c",
+   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali drone strike kills 13 civilians, activists say; army says it targeted militants - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/28/mali-violence-human-rights-army-drone-attack/4f63047e-d2e1-11f1-9931-2a41b76fc976_story.html",
+   "snippet": "BAMAKO, Mali — At least 13 civilians were killed in an overnight drone strike by Mali’s military earlier this week near the border with Mauritania, local human rights activists and a separatist armed group said Wednesday.\n\nThe Malian military said in a statement Wednesday that it had targeted terrorists “gathered under cover.”\n\npixel [...] Democracy Dies in Darkness\n\n# Mali drone strike kills 13 c",
+   "published": "Wed, 28 Oct 2026 15:13:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ml",
  "_query": "JNIM Mali attack",
  "_domains": [],

@@ -1,7 +1,14 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Yango, Rosatom, Nordgold: The Russian firms thriving in Africa despite sanctions",
+   "url": "https://www.theafricareport.com/434820/yango-rosatom-nordgold-the-russian-firms-thriving-in-africa-despite-sanctions",
+   "snippet": "In Arlit, uranium is no longer French, but nor is it Russian. After nationalising Somaïr, a subsidiary of Orano, then reallocating its permits to state-owned companies in August, Niamey has made a series of overtures to Moscow — notably through a memorandum between its company Timersoi and Rosatom subsidiary Uranium One.\n\nAnalysis   Vladimir Putin   Africa   Business   Economy   Economy news\n\nadve",
+   "published": "Thu, 29 Oct 2026 05:37:05 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_arlit",
  "_query": "Arlit uranium",
  "_domains": [],

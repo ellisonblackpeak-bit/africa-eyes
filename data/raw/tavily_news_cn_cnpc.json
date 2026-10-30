@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Agadem oil field is located in - ForumIAS Blog",
+   "url": "https://forumias.com/blog/question/agadem-oil-field-is-located-in",
+   "snippet": "Explanation – Agadem oil field is located in Niger. China and Niger have singed a deal for exporting the oil form this field. It is a 1,930-km pipeline intended",
+   "published": "Thu, 29 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BENIN | Shell Trading has secured the rights to the Sèmè ...",
+   "url": "https://www.facebook.com/africaintelligence/posts/benin-shell-trading-has-secured-the-rights-to-the-s%C3%A8m%C3%A8-field-where-production-re/1170471175552066",
+   "snippet": "Benin has resumed drilling at the Sèmè offshore oil field for the first time since 1998. ... A ceremony was held at the Agadem oil site, located more than 1,700",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "CNPC",
+   "url": "https://www.facebook.com/zhongguoshiyou/posts/what-does-a-petroleum-company-have-to-do-with-driving-licenses-and-grain-millswe/1559159929584626",
+   "snippet": "This is one of the initiatives that the organization has given to the population \n\nThank you always for your great exploitation we are proud of you\n\n   23h \n\n1\n\nImage 11\n\n[](\n\nImage 12Top fan\n\nSalifou Moussa\n\nVery nice CNPC\n\n   1d \n\n1\n\nImage 13\n\n[](\n\nاحمد التميمي\n\nمرحبا.عملت لى شركه داشينغ cnpcمده عشر سنوات.بدأت من راستباوت الي مساعد حفار.في السعوديه.وتوقفت عن العمل لديها لضروف شخصيه... والآن اتمن",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_cnpc",
  "_query": "Agadem oil field",
  "_domains": [],

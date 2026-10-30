@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "the #CNPC-Niger joint venture — brought tangible support ...",
+   "url": "https://x.com/official_cnpc/status/2114621623794016509",
+   "snippet": "Welcome to the official page of China National Petroleum Corporation (CNPC), the world's 3rd largest oil company based in China.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De8wZ1XEswy",
+   "snippet": "cnpc\\_news\n\n🪪🌾What does a petroleum company have to do with driving licenses and grain mills?  \n  \n⛽🏡Well, beyond securing #Niger's fuel supply, SORAZ — the #CNPC-Niger joint venture — brought tangible support to Mai Bagari village on Oct 9:  \n  \n📌Ten grain mills donated to local women's groups  \n📌Fifty youth fully sponsored to get their driver's licenses  \n  \n🤝✨True partnership isn't just about e",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "CNPC",
+   "url": "https://www.facebook.com/zhongguoshiyou/posts/what-does-a-petroleum-company-have-to-do-with-driving-licenses-and-grain-millswe/1559159929584626",
+   "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n## CNPC's Post\n\n  \n\n[](\n\n### CNPC\n\na day ago\n\n1d · \n\nImage 1: 🪪Image 2: 🌾What does a petroleum company have to do with driving licenses and grain mills?\n\nImage 3: ⛽Image 4: 🏡Well, beyond securing #Niger's fuel supply, SORAZ — the #CNPC-Niger joint venture — brought tangible support to Mai Bagari village on Oct 9:\n\nImage 5: 📌Ten grain mills donated to local women's ",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_cnpc2",
  "_query": "CNPC Niger oil",
  "_domains": [],

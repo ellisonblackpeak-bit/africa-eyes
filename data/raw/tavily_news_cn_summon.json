@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "SP MP Rajeev Rai asks if government will summon Chinese delegation",
+   "url": "https://thenewsmill.com/2026/10/sp-mp-rajeev-rai-asks-if-government-will-summon-chinese-delegation",
+   "snippet": "“The alliance will pave the way for a new government in the upcoming 2027 elections—a government that can get the wheels of genuine development moving again, which had come to a halt ten years ago. The era of empty rhetoric, lies, and the peddling of hatred must come to an end, allowing the momentum of development to resume,” he added. [...] Addressing the government directly, Rai asked, “Will the",
+   "published": "Tue, 27 Oct 2026 06:47:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘Not to find scapegoats’: Singapore ministers summon bosses of 10 firms over haze | South China Morning Post",
+   "url": "https://www.scmp.com/week-asia/health-environment/article/3372479/not-find-scapegoats-singapore-ministers-summon-bosses-10-firms-over-haze",
+   "snippet": "Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Minister for Sustainability and the Environment Grace Fu laid out expectations by the government, including its plan to strengthen laws targeting polluters.\n\nSelect Voice\n\nSelect Speed\n\nAI-generated voice [...] Kolette Limin Singapore\n\nIn a rare move, Singapore on Wednesday summoned top executives from 10 locally registered compan",
+   "published": "Wed, 28 Oct 2026 14:51:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Indonesia Probes 22 Foreign Firms Over Forest Fires",
+   "url": "https://jakartaglobe.id/news/indonesia-probes-22-foreign-firms-over-forest-fires",
+   "snippet": "Singapore has expanded its investigation into haze pollution linked to fires in Indonesia, requesting documents from 10 locally registered companies and summoning senior executives to meet government ministers as authorities seek to establish responsibility for the regional environmental crisis. [...] All 10 companies operate in the palm oil or forestry sectors. They include Wilmar International, ",
+   "published": "Fri, 30 Oct 2026 01:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

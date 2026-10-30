@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "TotalEnergies sells oil assets for US$800 million",
+   "url": "https://inspenet.com/en/news/totalenergies-sells-oil-assets",
+   "snippet": "TotalEnergies’ exit from oil assets coincides with another corporate transaction announced in Nigeria, the day before, on October 26, Eni confirmed the sale of its subsidiary Agip Energy and Natural Resources (Nigeria), known as AENR, to Apex Global Energy Limited (APEX). The acquiring company belongs to Sterling Oil Exploration and Energy Production Company. Through this acquisition, APEX incorpo",
+   "published": "Tue, 27 Oct 2026 14:48:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Embraces Solar Energy as Panels Become Popular on Wedding Registries - Bloomberg",
+   "url": "https://www.bloomberg.com/news/features/2026-10-23/nigeria-embraces-solar-energy-as-panels-become-popular-on-wedding-registries",
+   "snippet": "Generators, televisions and refrigerators have long filled the shop fronts. Now, solar panels, inverters and lithium batteries increasingly compete for space. Brands like Deye and Felicity Solar are everywhere, alongside counterfeits in copycat packaging with names like Fidelity or Facility. [...] # In Nigeria, Solar Panels Are the New Wedding Gift\n\nHigh fuel prices and cheap Chinese technology ar",
+   "published": "Fri, 23 Oct 2026 06:30:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Poland Energy Security Pact - Energy for Growth Hub",
+   "url": "https://energyforgrowth.org/article/poland-energy-security-pact",
+   "snippet": "State Department\n  + Lead diplomatic efforts to socialize US companies, policymakers, and financial institutions with Polish energy stakeholders, including utility officials, regulators, and the private sector.\n  + Implement the FIRST program to introduce US nuclear technology and standards.\n  + Leverage high-level commercial diplomacy tools, such as the Direct Line for American Business, to advoc",
+   "published": "Wed, 28 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],

@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - Newsday",
+   "url": "https://www.newsday.com/news/nation/algeria-niger-troops-economic-interests-u86294",
+   "snippet": "The western Sahel region comprising Niger, Mali and Burkina Faso, has been shaken by violent extremism due to deadly attacks by armed groups linked to al-Qaida and the Islamic State group and the governments fighting them. All three countries have seen coups in recent years and struggled with overstretched security forces.\n\nThe move on Sunday emphasizes the thawing relations between Algeria and Ni",
+   "published": "Sun, 25 Oct 2026 23:49:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Photos by SAHEL Aswan - N'Djamena",
+   "url": "https://www.instagram.com/p/De-k8shGRae",
+   "snippet": "wigs were a desired form of hair ornament. Many paintings show women with their ornate wigs topped by a perfumed cone, often worn during festive occasions,",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_eigs",
  "_query": "EIGS Islamic State Sahel",
  "_domains": [],

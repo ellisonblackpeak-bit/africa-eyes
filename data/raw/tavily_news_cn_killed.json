@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
+   "snippet": "The police in Durban have launched a murder investigation into the foreign national who was killed during the protest last week. A police account of the attack said that two men appeared to break away from a group of protesters and approached the victim, who was then assaulted by about 50 people. [...] The nation’s Human Rights Commission has condemned the killing, stressing that “disagreements ab",
+   "published": "Tue, 27 Oct 2026 18:28:59 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+   "url": "https://www.bbc.com/news/articles/cv62yg0erp8zo",
+   "snippet": "Mao founded Communist China in 1949 and ruled through tumultuous decades in the 1960s and 1970s. His attempt at rapid industrialisation, which he called the Great Leap Forward, led to a famine that killed tens of millions. Then came the Cultural Revolution: a violent purge of anyone seen as a threat to Communism, which included Chinese intellectuals, landowners, artists and often rivals within the",
+   "published": "Tue, 27 Oct 2026 07:15:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rescuers search for survivors after deadly earthquake in China’s Tibet region - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/23/tibet-earthquake-china-nagqu/350c2dce-ceba-11f1-ac04-9f58578a68b4_story.html",
+   "snippet": "In this photo released by Xinhua News Agency, firefighters inspect an earthquake-hit village houses in Baqen County of Nagqu City in China’s Tibet autonomous region, on Friday, Oct. 23, 2026. (Xinhua via AP) (Uncredited/Xinhua)\n\nBy Associated Press\n\nBEIJING — Rescuers combed through a remote area in the Chinese region of Tibet on Friday after a magnitude 7 earthquake that killed at least 16 people",
+   "published": "Fri, 23 Oct 2026 08:22:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

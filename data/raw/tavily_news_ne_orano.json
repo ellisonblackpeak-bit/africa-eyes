@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Washington is preparing to finance a uranium mine ...",
+   "url": "https://www.instagram.com/p/DfA4VSFjAre",
+   "snippet": "Niger announced the nationalization of SOMAÏR, a uranium mining company in which the French group Orano had a major stake. Niger is the world's seventh-largest",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Uranium in Africa - World Nuclear Association",
+   "url": "https://world-nuclear.org/information-library/country-profiles/others/uranium-in-africa",
+   "snippet": "## Gabon\n\nNo current uranium mining occurs in Gabon, but exploration continues. Historically, uranium mining in Gabon has been closely linked with Niger due to the role of the French Atomic Energy Commission and Cogema (now Orano). According to the 2026 Red Book, Gabon has identified recoverable resources of 4800 tU to $130/kgU. [...] Having taken over UraMin Inc, Areva (now Orano) was proposing t",
+   "published": "Fri, 23 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_orano",
  "_query": "Orano Niger uranium",
  "_domains": [],

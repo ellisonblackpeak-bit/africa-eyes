@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "The United States has also seen its military footprint shrink.\n\nIn 2024, Washington withdrew approximately 1,000 soldiers from Niger after the military government terminated their security cooperation agreement. The withdrawal included personnel stationed at an important US drone base near Agadez.\n\nThe result has been a significant realignment of the Sahel’s security partnerships, with Western mil",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Quarterly Mixed Migration Update: West Africa, Quarter 3, 2026 - Mali | ReliefWeb",
+   "url": "https://reliefweb.int/report/mali/quarterly-mixed-migration-update-west-africa-quarter-3-2026",
+   "snippet": "In August, Liberia agreed to receive up to 1,200 third-country deportees from the United States over 12 months, one of the largest such third-country arrangements between the US and an African country. [...] The core countries of focus for this region are Senegal, Mauritania, Niger, Mali, Burkina Faso, Nigeria, Chad, the Central African Republic and the coastal countries. Depending on the quarterl",
+   "published": "Thu, 29 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "On Our Radar",
+   "url": "https://www.crisisgroup.org/sco/global/our-radar",
+   "snippet": "CUBA The UN General Assembly will vote next week on its annual resolution condemning the U.S. embargo on Cuba, in place for more than six decades.",
+   "published": "Sat, 24 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ne_ml",
  "_query": "US Niger Mali",
  "_domains": [],

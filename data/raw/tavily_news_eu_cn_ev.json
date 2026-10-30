@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "The View | EU-China hybrid car deal won’t really help European carmakers | South China Morning Post",
-   "url": "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers",
-   "snippet": "Earlier this month, simmering trade tensions between the EU and China ease as the two sides reached an agreement in Beijing limiting hybrid car exports from China to an annual quota of 350,000 units. After the European Union imposed tariffs on fully electric cars from China in 2024, hybrid imports surged. The quota would result in more than a halving of the 800,000 hybrid cars expected to be sold ",
-   "published": "Tue, 27 Oct 2026 08:30:10 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
-   "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
-   "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
-   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Explainer: How can EU limit impact of China Shock 2.0?",
-   "url": "https://www.reuters.com/world/china/how-can-eu-limit-impact-china-shock-20-2026-10-23",
-   "snippet": "European Union ministers said on Friday the bloc should press ahead with its discussions with Beijing and expand a deal struck to limit imports of hybrid",
-   "published": "Sat, 24 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_cn_ev",
  "_query": "EU electric vehicle tariff China",
  "_domains": [],

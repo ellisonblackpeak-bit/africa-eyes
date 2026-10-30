@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger imposes overnight fuel sales curfew amid nationwide shortage | Africanews",
+   "url": "https://www.africanews.com/2026/10/25/niger-imposes-overnight-fuel-sales-curfew-amid-nationwide-shortage",
+   "snippet": "As the fuel shortage spread, motorists have been facing increasingly long queues at stations.\n\nResidents in the capital, Niamey, and elsewhere said this was disrupting daily life, making it difficult to get to work and carry out their daily activities.\n\nThe taxi union, Synctaxi, has called for the new curfew to be relaxed for operators who are struggling to make ends meet. [...] #### 01:08\n\n### Ni",
+   "published": "Sat, 24 Oct 2026 07:30:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "It comes nearly two months after Algeria dispatched four Russian-made Sukhoi Su-30 jets, a transport aircraft and an aerial refuelling aircraft to Niamey, following what Algerian authorities described as an attempt to destabilise Niger’s military-led government. [...] Just months later, in April 2024, approximately 100 Russian military personnel arrived in Niamey, bringing equipment and providing ",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Al Shabaab Ambush in South West State; Algeria Deploys to Niger: Africa File, October 29, 2026",
+   "url": "https://www.criticalthreats.org/analysis/al-shabaab-somalia-algeria-niger-libya-morocco-haftar",
+   "snippet": "Source: Emily Bjerke. Assessments: Somalia. Author: Michael DeAngelo with Ziv Zellars. Al Shabaab ambushed Federal Government of Somalia (FGS) forces,",
+   "published": "Thu, 29 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_fuel",
  "_query": "Niamey fuel",
  "_domains": [],

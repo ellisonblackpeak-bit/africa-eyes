@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "DVIDS - News - US, Morocco mark delivery of Apache helicopters to Royal Moroccan Air Force",
+   "url": "https://www.dvidshub.net/news/577972/us-morocco-mark-delivery-apache-helicopters-royal-moroccan-air-force",
+   "snippet": "AL26 is U.S. Africa Command's largest annual joint exercise, designed to strengthen collective security capabilities of the U.S., African nations and global allies. Led by U.S. Army Southern European Task Force, Africa (SETAF-AF) from April 20 to May 8, 2026, and hosted in Ghana, Morocco, Senegal and Tunisia, AL26 involves over 5,600 personnel from more than 40 nations, using innovation to drive p",
+   "published": "Wed, 28 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US, ROK defense chiefs agree to delay top-level military talks on OPCON transfer | NK News",
+   "url": "https://www.nknews.org?p=981450",
+   "snippet": "|  |\n|  | [...] NK News Logo\n\nGet behind the headlines\n\n|  | [...] | NK News Banner    News  US, ROK defense chiefs agree to delay top-level military talks on OPCON transfer  Allies to convene Security Consultative Meeting early next year in setback to Seoul’s push for early transfer  Joon Ha Park October 29, 2026  Share Icon SHARE Copy Icon COPY LINK;)  FACEBOOK X Icon X  LINKEDIN Mastodon Icon M",
+   "published": "Thu, 29 Oct 2026 03:20:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Sen. Bernie Moreno is furious Columbus is recruiting nurses in Ghana",
+   "url": "https://www.cleveland.com/news/2026/10/us-sen-bernie-moreno-is-furious-columbus-is-recruiting-nurses-in-ghana.html",
+   "snippet": "Moreno says the deal puts foreign workers ahead of Ohioans and should be replaced with investment in Ohio nursing programs. A 2024 study found that Ohio",
+   "published": "Thu, 29 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_gh",
  "_query": "US Ghana military",
  "_domains": [],

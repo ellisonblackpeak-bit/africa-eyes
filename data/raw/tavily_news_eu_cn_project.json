@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "China smart-factory and EV production trends: OEM consolidation, automation and global competitiveness",
-   "url": "https://www.automotivemanufacturingsolutions.com/strategy/chinas-car-industry-consolidation-begins-who-will-survive/2759287",
-   "snippet": "The successful domestic brands, BYD, Geely and Chery, are also increasing exports, especially of HEVs and PHEVs to Europe. But the increased tariffs on Chinese-made EVs which have already been applied in Europe may well be extended to HEVs and PHEVs, hitting exports. Europe’s tariff policy has already led to Chinese companies accelerating manufacturing plans for Europe: BYD’s plant in Hungary has ",
-   "published": "Wed, 28 Oct 2026 17:03:56 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "China Cannot Remain the World’s Factory. What Comes Next?",
    "url": "https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy",
    "snippet": "Such a shift is already under way. In Brazil, BYD is moving from importing cars to manufacturing them locally and developing local suppliers. In Hungary, it is pairing its first European passenger-car factory with a research and development center that will work with Hungarian universities and companies.\n\nAdvertisement [...] China’s manufacturing dominance is generating resistance. And not only in",
@@ -20,6 +13,13 @@
    "url": "https://www.reuters.com/business/autos-transportation/volkswagen-considers-using-chinese-software-europe-report-says-2026-10-26",
    "snippet": "The company has so far kept software separate, using the architecture co-developed with Xpeng for ​the Chinese market ​while developing ⁠a separate technology for the Western world with Rivian, in a $5.8 billion ​investment at the heart of CEO Oliver ​Blume's ⁠software strategy. [...] Volkswagen's 'China Electronic ​Architecture', a system developed for Chinese models ​in cooperation with local EV",
    "published": "Mon, 26 Oct 2026 16:45:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
+   "url": "https://www.instituteforenergyresearch.org/international-issues/the-european-union-caps-imports-of-chinese-hybrid-cars",
+   "snippet": "The European Union and China agreed to limit imports of Chinese hybrid cars to 350,000 in the first year of a four-year deal, as the EU wants to reduce a",
+   "published": "Wed, 28 Oct 2026 05:00:00 GMT",
    "source": "tavily"
   }
  ],

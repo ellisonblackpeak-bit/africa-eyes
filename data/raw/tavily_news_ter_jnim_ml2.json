@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "At Guinea’s doorstep: JNIM’s entrenchment in southwestern Mali - Regional Programme Security Policy for West Africa - Sahel - Konrad-Adenauer-Stiftung",
+   "url": "https://www.kas.de/en/web/sipodi-west/single-title/-/content/aux-portes-de-la-guinee-l-ancrage-du-jnim-dans-le-sud-ouest-malien-et-les-risques-d-un-nouveau-front",
+   "snippet": "The study describes JNIM’s gradual expansion through a combination of discreet infiltration, forest-based refuges, local networks and coercion. Gold mining sites, transhumance corridors and trade routes provide opportunities for mobility, financing and influence. Transport links connecting Bamako to the Guinean border and the port of Conakry are particularly significant. [...] The analysis draws o",
+   "published": "Sun, 25 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kidal security: JNIM, Islamic State and Sahel landscape",
+   "url": "https://www.facebook.com/TheSoufanCenter/posts/intelbrief-what-kidal-portends-jnim-islamic-state-and-the-sahelian-security-land/1622776613209325",
+   "snippet": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM) represents a moderate gain for the Malian government, but one with limited strategic value.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
+   "snippet": "The retaking of Mali’s northern desert town of Kidal from Tuareg separatists and al-Qaeda-linked Jama’at Nusrat al-Islam wal-Muslimin (JNIM) represents a moderate gain for the Malian government, but one with limited strategic value.\n Sustained operations by JNIM in both Mali and Burkina Faso aim not at territorial control but at waging a war of attrition against the juntas.\n Since September 2026, ",
+   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ml2",
  "_query": "JNIM Mali",
  "_domains": [],

@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Port MacKenzie Rail Extension Project Advances - Railway Age",
+   "url": "https://www.railwayage.com/regulatory/port-mackenzie-rail-extension-project-advances",
+   "snippet": "direct rail siding will enable it to receive shipments of antimony and other minerals, ore and concentrate feedstock via the new rail extension. [...] U.S. Transportation Secretary Sean P. Duffy announced the award for the Port MacKenzie Rail Extension project on Oct. 19.\n\nIt is part of FRA’s recently announced Consolidated Rail Infrastructure and Safety Improvements (CRISI) program; the awards to",
+   "published": "Fri, 23 Oct 2026 14:25:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Managing Railway Cyber Risks: From Compliance to Resilience | Metro",
+   "url": "https://www.metro-magazine.com/articles/managing-railway-cyber-risks-from-compliance-to-resilience",
+   "snippet": "Ad Loading...\n\n## An Interconnected Risk Ecosystem\n\nDenver RTD commuter rail train on tracks\n\nRail cybersecurity extends beyond traditional IT networks to include signaling systems, trackside equipment, control centers, and other operational technologies essential to safe and reliable service.\n\nCredit:\n\nDenver RTD\n\nCybersecurity within a railway project does not operate as a standalone technical f",
+   "published": "Wed, 28 Oct 2026 15:05:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "CRISI Spotlight: CKIN Lands $6.8MM for Expansion Project",
+   "url": "https://www.rtands.com/regulatory/crisi-spotlight-ckin-lands-6-8mm-for-expansion-project",
+   "snippet": "Pinsly's Chesapeake & Indiana Railroad Company (CKIN) will receive $6.8 million for the Northwest Indiana Rail Connectivity and Expansion Project (NICE",
+   "published": "Tue, 27 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cor_rail_road",
  "_query": "railway project Nigeria",
  "_domains": [],

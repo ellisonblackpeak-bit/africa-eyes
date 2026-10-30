@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes | Euronews",
-   "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of",
-   "snippet": "Nagqu lies more than 300 kilometres north of Lhasa, Tibet’s capital.\n\nAdditional sources • AP\n\n## Read more\n\n### China: Panic as 7.0-magnitude earthquake rocks Tibet\n\n### Catastrophic Nepal floods and landslides in Nuwakot leave hundreds still missing\n\n### China: Video shows mudslide surging through Gyirong port\n\n## Top stories\n\nPatrick Stewart\n\n### Actor Patrick Stewart, star of 'Star Trek' and '",
-   "published": "Fri, 23 Oct 2026 04:02:07 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China stresses dialogue, opposes discriminatory EU trade curbs",
-   "url": "https://www.chinadailyasia.com/article/641936",
-   "snippet": "CHINAGLOBAL EDITION\n\nHONG KONG\n\n published in this site belongs to China Daily. Without written authorization from China Daily, such content shall not be republished or used in any form.",
-   "published": "Thu, 29 Oct 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Why U.S. EV sales lag China, Europe as global shift accelerates - Automotive News",
-   "url": "https://www.autonews.com/technology/mobility/an-global-ev-market-dynamics-1027",
-   "snippet": "Mobility\n\n# How the U.S. is becoming an outlier in the global EV race\n\nAdd as a preferred source on Google\n\na car in hanoi\n\nElectric vehicles made up 41 percent of new-vehicle sales in Vietnam in 2025, up from less than 1 percent in 2020. (WIKIMEDIA COMMONS)\n\nMB\n\nBy\n\nMolly Boigon\n\nOctober 27, 2026 07:00 AM EDT\n\n## Featured Stories\n\nEV\n\nWhy fast-charging networks need more than reliability as China",
-   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],
