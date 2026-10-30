@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger imposes overnight fuel sales curfew amid nationwide shortage | Africanews",
+   "url": "https://www.africanews.com/2026/10/25/niger-imposes-overnight-fuel-sales-curfew-amid-nationwide-shortage",
+   "snippet": "#### Niger\n\nNiger’s government has announced an overnight curfew on the sale of petrol across the country, except at designated stations.\n\nAs of this week, they are not able to sell fuel between nine at night and six in the morning to enable suppliers, including the Nigerien Petroleum Company (Sonidep), to restock them. [...] It said this temporary measure aimed to improve the smooth running of op",
+   "published": "Sat, 24 Oct 2026 07:30:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "From Import Dependency to the People’s IPO: The Dangote Refinery Paradigm",
+   "url": "https://www.fairobserver.com/economics/from-import-dependency-to-the-peoples-ipo-the-dangote-refinery-paradigm",
+   "snippet": "This dependency resulted in a crippling subsidy regime, a massive drain on foreign exchange and recurring fuel shortages. Economic necessity, systemic market failures and the private industrial vision of Aliko Dangote thus prompted the decision to construct the Dangote Refinery. [...] Prior to 2024, Nigeria imported nearly all of its refined fuel. This trend reversed by mid-2026 as regulatory repo",
+   "published": "Tue, 27 Oct 2026 13:32:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Investors Are Piling Into Dangote. But Is the Price Right? | OilPrice.com",
+   "url": "https://oilprice.com/Energy/Energy-General/Investors-Are-Piling-Into-Dangote-But-Is-the-Price-Right.amp.html",
+   "snippet": "Dangote's importance, even its political connections, cuts both ways in Nigeria. Nigeria will clearly benefit from reliable domestic fuel production. Shareholders, however, will be seeking commercially attractive margins. This can coexist, but it can also cause conflict when international prices rise. Investors should therefore allow for pressure over pricing, import competition and domestic suppl",
+   "published": "Thu, 29 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_oil",
  "_query": "Niger fuel shortage refinery",
  "_domains": [],

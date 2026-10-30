@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "New Report on Persecuted Christians Warns of Expanding Terrorism Across the Sahel and Sub-Saharan Africa",
+   "url": "https://www.aciafrica.org/news/24997/new-report-on-persecuted-christians-warns-of-expanding-terrorism-across-the-sahel-and-sub-saharan-africa",
+   "snippet": "The ACN report identifies Burkina Faso as one of the main epicentres of Islamist violence in the Sahel where jihadist groups control at least 40 percent of the country, imposing extremist Islam.\n\nHere, ACN says, Christians have been targeted “in the campaign to impose Islamist ideology.” [...] In affected African countries, Christian communities have been “disproportionately impacted” as they are ",
+   "published": "Wed, 28 Oct 2026 14:51:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
+   "snippet": "The failed attack on Niamey’s airport on June 18 was likewise supposed to be a complex operation conducted simultaneously against the airport and the presidential palace in the capital. According to local sources that spoke to the author, “a team of five JNIM jihadis was caught in the capital while they were preparing an attack on the presidential palace, and this arrest allowed security forces to",
+   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_sahel",
  "_query": "Sahel jihadist attack",
  "_domains": [],

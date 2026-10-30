@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "A diplomatic dispute is brewing between two African ...",
+   "url": "https://www.facebook.com/GlobalSouthWorld/posts/a-diplomatic-dispute-is-brewing-between-two-african-neighbors-after-niger-accuse/122315105384028907",
+   "snippet": "Niger claims the October 24 attack in Agadez killed two civilians, Mali's junta in 2022 announced the same decision to break off from defence agreements with",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Region in Focus: The Sahel – Africa Center for Strategic Studies",
+   "url": "https://africacenter.org/in-focus/the-sahel",
+   "snippet": "Spotlight\n\nAttempted Coup in Niger: Backgrounder\n\nJuly 27, 2023\n\nThe attempted military coup in Niger threatens to undermine the relative progress the country has made under its civilian democratic leaders and amplifies Niger’s risks for insecurity, economic crises, and political instability.\n\nInfographic\n\nMali Catastrophe Accelerating under Junta Rule\n\nJuly 10, 2023 [...] In addition to undermini",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

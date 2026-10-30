@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Supreme Court rejects Mahua Moitra’s plea on AIF-FPI ownership disclosure",
+   "url": "https://www.hindustantimes.com/india-news/supreme-court-rejects-mahua-moitra-s-plea-on-aif-fpi-ownership-disclosure-101793300206454.html",
+   "content": "The court said that its order will not come in the way of the Centre or the Securities Exchange Board of India (SEBI) from framing a policy as there is presently no legal or regulatory framework mandating public disclosure of beneficial owners of Alternate Investment Fund (AIF) and Foreign Portfolio Investments (FPI)",
+   "published_date": "Fri, 30 Oct 2026 07:41:30 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Rahul Gandhi rallies students for ‘Chalo Dilli’ march on November 1",
+   "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-rallies-students-for-chalo-dilli-march-delhi-protest-101793300686272.html",
+   "content": "Rahul Gandhi urged people, including students, to join a November 1 Delhi march against alleged voter roll irregularities.",
+   "published_date": "Fri, 30 Oct 2026 00:34:45 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Election Commission extends SIR timelines for Delhi and 5 states",
+   "url": "https://www.hindustantimes.com/india-news/election-commission-extends-sir-timelines-for-delhi-and-5-states-101793300386247.html",
+   "content": "Claims can now be filed until November 13 in Maharashtra and November 25 in Delhi; final rolls are scheduled for November 30 or December 22.",
+   "published_date": "Fri, 30 Oct 2026 00:29:45 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Over 275,000 Form 6 applications received as Delhi SIR deadline extended",
+   "url": "https://www.hindustantimes.com/india-news/over-275-000-form-6-applications-received-as-delhi-sir-deadline-extended-101793298615956.html",
+   "content": "West district recorded the most inclusion applications, while New Delhi district had the fewest.",
+   "published_date": "Fri, 30 Oct 2026 00:00:15 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Delhi's Jamia University agrees to students’ demands, sets timeline for union polls",
    "url": "https://www.hindustantimes.com/india-news/delhis-jamia-university-agrees-to-students-demands-sets-timeline-for-jmi-student-union-polls-101793293361136.html",
    "content": "The Jamia university administration has directed that the students' union constitution be completed by May 15, 2027.",
@@ -181,34 +209,6 @@
    "url": "https://www.hindustantimes.com/india-news/tb-alliance-fails-to-get-patent-for-six-month-treatment-regimen-101793215103983.html",
    "content": "The Indian Patent Office on Tuesday rejected a patent application for BPaL, a combination of three medicines that has cut treatment for drug-resistant tuberculosis (TB) to six months, according to a joint statement by the groups that opposed it",
    "published_date": "Thu, 29 Oct 2026 07:55:00 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Industrial output growth hits four-month low of 6.7% in Sept",
-   "url": "https://www.hindustantimes.com/india-news/industrial-output-growth-hits-four-month-low-of-6-7-in-sept-101793214983533.html",
-   "content": "India’s industrial activity, as measured by the Index of Industrial Production (IIP), moderated to 6",
-   "published_date": "Thu, 29 Oct 2026 07:54:10 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Apex court asks Law Commission to review award execution rules",
-   "url": "https://www.hindustantimes.com/india-news/apex-court-asks-law-commission-to-review-award-execution-rules-101793214923659.html",
-   "content": "The Supreme Court on Wednesday said that delay in execution of arbitral awards strikes at the very rationale of adopting arbitration over conventional litigation and asked the Law Commission of India to make legislative and procedural recommendations to strengthen the execution regime",
-   "published_date": "Thu, 29 Oct 2026 07:53:30 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Quad nations renew push for Indo-Pacific security on ASEAN sidelines",
-   "url": "https://www.hindustantimes.com/india-news/quad-nations-renew-push-for-indo-pacific-security-on-asean-sidelines-101793240309174.html",
-   "content": "India has consistently called for free and open order in the Indo-Pacific region, pivoting on respect for sovereignty and territorial integrity of nations",
-   "published_date": "Thu, 29 Oct 2026 07:48:28 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Charging points in trains to remain off 11 pm-5 am",
-   "url": "https://www.hindustantimes.com/india-news/charging-points-in-trains-to-remain-off-11-pm-5-am-101793212943446.html",
-   "content": "The Railway Board has reiterated its instructions to switch off electricity supply to power sockets in train between 11pm and 5am after a passenger’s power bank exploded while charging aboard the Mumbai-Howrah Mail in Odisha on October 24, disrupting train operations.",
-   "published_date": "Thu, 29 Oct 2026 07:42:20 +0530",
    "score": 0.6
   }
  ],

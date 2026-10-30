@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Germany And South Korea Upgrade Ties In Defence And Technology Deal | APT",
+   "url": "https://www.youtube.com/watch?v=XHcK0_m8RSg",
+   "snippet": "The partnership covers defence cooperation, artificial intelligence, robotics, electric vehicle batteries, advanced energy systems and industrial collaboration. The two countries also agreed to update their double taxation agreement and expand energy cooperation, including efforts to reduce carbon emissions.\n\nThe talks come amid heightened concerns over Russia-North Korea military cooperation and ",
+   "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea Moves Weapons Production to Europe as EU ...",
+   "url": "https://www.facebook.com/IndoPacificReportIPR/posts/south-korea-moves-weapons-production-to-europe-as-eu-defence-rules-challenge-seo/1075472618829117",
+   "snippet": "With European military spending reaching $864 billion in 2025, Seoul has gained a major market by delivering weapons faster than European manufacturers.",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_kr",
  "_query": "Europe South Korea defence",
  "_domains": [],

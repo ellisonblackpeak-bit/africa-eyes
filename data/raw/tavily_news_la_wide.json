@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China's Belt and Road hasn't lived up to Xi's promise - Asia Times",
+   "url": "https://asiatimes.com/2026/10/chinas-belt-and-road-hasnt-lived-up-to-xis-promise",
+   "snippet": "Laos, already one of Asia’s poorest countries, accumulated enormous external debt under the BRI to pay for large-scale infrastructure projects, including power plants and a high-speed railway linking the capital, Vientiane, to Boten on the Chinese border and onward into China. [...] Faced with a debt crisis caused by its inability to repay BRI loans on their original terms, the government agreed t",
+   "published": "Thu, 29 Oct 2026 10:03:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pinglu Canal: Deepening ASEAN-China Connectivity - Lucio Blanco Pitlo III - CHINA US Focus",
+   "url": "https://www.chinausfocus.com/finance-economy/pinglu-canal-deepening-asean-china-connectivity",
+   "snippet": "Geographic proximity positions southern Chinese provinces as gateways to ASEAN, with infrastructure being a crucial piece. The China-Myanmar oil and gas pipeline, Laos-China railway, and the upgrading of the Haiphong-Kunming railway raise Yunnan’s profile. So does the linking of the Bangkok-Nong Khai high-speed rail, currently under construction, to the Laos-China railway via the Lao capital, Vien",
+   "published": "Fri, 23 Oct 2026 09:19:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "North Korea - China passenger service resumes",
+   "url": "https://www.railjournal.com/regions/asia/north-korea-china-passenger-service-resumes",
+   "snippet": "Cross-border services between Ji'an in Jilin province, China, and Manp'o Chongyong in Chagang province, North Korea, have resumed.",
+   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "la_wide",
  "_query": "Laos China railway",
  "_domains": [],

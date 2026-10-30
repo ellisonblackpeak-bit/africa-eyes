@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU Plans to Hit China With More Import Curbs in Early 2027 - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/eu-plans-to-hit-china-with-more-import-curbs-in-early-2027",
+   "snippet": "EXCLUSIVE\n\nTrade\n\n# EU Plans to Hit China With More Import Curbs in Early 2027\n\nThe European Union is planning to use safeguard measures to cut imports of products from sectors including chemicals, furniture and machinery from China, according to people familiar with the matter.\n\nThe measures, which could take the form of either import caps or tariffs, may be presented as soon as the first quarter",
+   "published": "Mon, 26 Oct 2026 08:31:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The View | EU-China hybrid car deal won’t really help European carmakers | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers",
+   "snippet": "Earlier this month, simmering trade tensions between the EU and China ease as the two sides reached an agreement in Beijing limiting hybrid car exports from China to an annual quota of 350,000 units. After the European Union imposed tariffs on fully electric cars from China in 2024, hybrid imports surged. The quota would result in more than a halving of the 800,000 hybrid cars expected to be sold ",
+   "published": "Tue, 27 Oct 2026 08:30:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Explainer: How can EU limit impact of China Shock 2.0?",
+   "url": "https://www.reuters.com/world/china/how-can-eu-limit-impact-china-shock-20-2026-10-23",
+   "snippet": "European Union ministers said on Friday the bloc should press ahead with its discussions with Beijing and expand a deal struck to limit imports of hybrid",
+   "published": "Sat, 24 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_policy",
  "_query": "EU China tariffs",
  "_domains": [],

@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Financing Europe's defence build-up: National budgets and beyond | European Union Institute for Security Studies",
+   "url": "https://www.iss.europa.eu/publications/analysis/financing-europes-defence-build-national-budgets-and-beyond",
+   "snippet": "Raising ‘core’ defence spending to 3.5% of GDP would mean increasing annual spending to around €658 billion. That means Europeans will need to find an additional €204 billion a year (in today’s money) by 2035. This will put public finances across most of Europe under strain.\n\n## Beyond national budgets: Four priorities to sustain Europe’s defence surge [...] ## The core: National spending\n\nEU Memb",
+   "published": "Thu, 29 Oct 2026 09:45:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s Defence Surge Will Squeeze Social Spending Once the Escape Clause Expires - Social Europe",
+   "url": "https://www.socialeurope.eu/europes-defence-surge-will-squeeze-social-spending-once-the-escape-clause-expires",
+   "snippet": "Defence expenditure is set to rise further over 2025 to 2028. Official data for defence spending in 2025 and 2026 using Eurostat’s statistical classification relevant for the NEC were not yet available at the time of writing. However, a recent analysis by the European Central Bank (ECB) using that classification points to an increase in military expenditure in the euro area from 1.4 per cent of GD",
+   "published": "Thu, 29 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s Defense Dilemma | Council on Foreign Relations",
+   "url": "https://www.cfr.org/reports/europes-defense-dilemma",
+   "snippet": "preserves American nuclear leadership, and sustains the alliance as Washington’s principal vehicle for political and military influence in Europe and as a basis to project power globally. There are also clear economic incentives. European commitments to spend 5 percent of GDP on defense by 2035 expand the transatlantic defense market, as Europeans will continue to rely in some measure on American ",
+   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

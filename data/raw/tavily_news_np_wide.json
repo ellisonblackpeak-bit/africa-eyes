@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese envoy recently forwarded a draft agreement ...",
+   "url": "https://www.facebook.com/kathmandupost/posts/chinese-envoy-recently-forwarded-a-draft-agreement-proposing-better-customs-clea/1560946329399949",
+   "snippet": "#Kathmandu and #Beijing have finalised a transit protocol that will give Nepal access to Chinese ports for trade with China and beyond.",
+   "published": "Thu, 29 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De_wT7ZDuND",
+   "snippet": "Officials also say the DPR should consider risks from the Bhotekoshi River flood, including natural hazards, safety measures and risk reduction. Once completed, the railway is expected to improve connectivity between Nepal and China.  \n  \n#sharesanskar #explore #fyp [...] The study estimates construction costs at around Rs 355 million per kilometer due to the difficult terrain, with about 98% of t",
+   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "np_wide",
  "_query": "Nepal China project",
  "_domains": [],

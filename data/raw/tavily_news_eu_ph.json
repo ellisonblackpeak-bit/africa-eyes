@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Philippines seeks deeper ties with Italy, says Foreign Secretary Lazaro – Decode39",
+   "url": "https://decode39.com/17111/philippines-seeks-deeper-ties-with-italy-says-foreign-secretary-lazaro",
+   "snippet": "For Italy, the strengthening of EU–Philippines relations could provide a favorable setting for deeper bilateral cooperation, from maritime security and investment to infrastructure and supply chains. [...] Indo-Pacific security and the prospect of an agreement with Italy. The Philippines regards Europe’s growing presence in the Indo-Pacific as a positive contribution to regional security. Asked by",
+   "published": "Tue, 27 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Prilenia, Ferrer secure EU authorisation for Phase III HD trial",
+   "url": "https://www.clinicaltrialsarena.com/news/prilenia-ferrer-eu-authorisation-hd-trial",
+   "snippet": "Experience unmatched clarity with a single platform that combines unique data, AI, and human expertise.\n\nFind out more\n\n \n\n#### Sign up for our daily news round-up!\n\nGive your business an edge with our leading industry insights.\n\nGive your business an edge with our leading industry insights.\n\nclose\n\nclose\n\n#### Sign up to the newsletter: In Brief\n\n## Thank you for subscribing\n\nView all newsletters",
+   "published": "Fri, 23 Oct 2026 09:35:17 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

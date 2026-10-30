@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China's $213.5 Billion Global Infrastructure Gamble",
+   "url": "https://www.youtube.com/watch?v=IYfmDdG0QRA&vl=es",
+   "snippet": "[3:45] has silenced doubts about China's overseas investment. China's overseas infrastructure investment is not\n[3:53] charity. It is a winwin strategy. The China Laos railway, for instance, didn't just improve Laos's transportation, it\n[4:02] boosted bilateral trade. The Guinea iron ore project secured China's resource supply while driving local economic\n[4:10] development. These successes have d",
+   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How does one of the poorest countries in Asia have a ...",
+   "url": "https://www.facebook.com/61568696398323/posts/how-does-one-of-the-poorest-countries-in-asia-have-a-bullet-train-but-the-us-doe/122191122560623213",
+   "snippet": "This post provides a detailed guide for tourists on the new China-Laos Railway, a high-speed passenger train that operates in Laos, China, and Thailand. The",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_la",
  "_query": "Chinese company Laos railway investment",
  "_domains": [],

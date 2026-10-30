@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "BPC in a JV with 3 major Chinese companies for Hydropower Development (नेपाली )",
+   "url": "https://www.bpc.com.np/news/bpc-in-the-news/103-bpc-in-a-jv-with-3-major-chinese-companies-for",
+   "snippet": "+ Audio & Video\n  + BPC in the news\n  + Newsletter\n  + Press Releases\n  + Publications\n Group Companies\n  + Associates\n    - Himal Power limited\n    - Hydro Lab Private Limited (HLPL)\n    - Jhimruk Industrial Development Centre (P) Limited\n  + Subsidiaries\n    - Nyadi Hydropower Limited (NHL)\n    - Nepal Hydro & Electric Limited (NHE)\n    - Khudi Hydropower Limited (KHL)\n    - Kabeli ‘A’ Hydro Ele",
+   "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China denies cancellation of Nepal hydro project deal with ...",
+   "url": "https://www.ednews.net/en/china-denies-cancellation-of-nepal-hydro-project-deal-with-chinese-firm",
+   "snippet": "China today dismissed reports that the Nepalese government has cancelled its agreement with Chinese companies on the West Seti hydropower project,",
+   "published": "Thu, 29 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ADB Signs $60 Million Private Sector Deal to Build ...",
+   "url": "https://www.adb.org/news/adb-signs-60-million-private-sector-deal-build-hydropower-plant-nepal",
+   "snippet": "ADB has signed a $60 million financing package with NWEDC to help build and operate a 216-megawatt run-of-the-river hydropower plant on the Trishuli River",
+   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_np",
  "_query": "Chinese company Nepal investment hydropower",
  "_domains": [],
