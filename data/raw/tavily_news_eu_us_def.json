@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Europe Prepares for a Future Without America's Security ...",
-   "url": "https://www.facebook.com/IndoPacificReportIPR/posts/europe-prepares-for-a-future-without-americas-security-guaranteeeuropes-defense-/1076407075402338",
-   "snippet": "This year European nato will spend about $380bn on defence. Adjusted for purchasing power, that is roughly the same as Russia, but Europe gets less bazooka for",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "You realise Europe could have had a European Defence ...",
-   "url": "https://www.facebook.com/european.federalist/posts/pov-you-realise-europe-could-have-had-a-european-defence-community-in-1954-and-w/1466115135623574",
-   "snippet": "The EU already spends over €240 billion a year on defence, more than Russia! Yet we struggle to act fast and autonomously. Why? Because fragmentation costs us €",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe’s Defense Dilemma | Council on Foreign Relations",
-   "url": "https://www.cfr.org/reports/europes-defense-dilemma",
-   "snippet": "preserves American nuclear leadership, and sustains the alliance as Washington’s principal vehicle for political and military influence in Europe and as a basis to project power globally. There are also clear economic incentives. European commitments to spend 5 percent of GDP on defense by 2035 expand the transatlantic defense market, as Europeans will continue to rely in some measure on American ",
-   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

@@ -2,17 +2,31 @@
  "success": true,
  "results": [
   {
+   "title": "Abubuwa biyar kan Sheikh Yahaya Masussuka",
+   "url": "https://www.bbc.com/hausa/articles/c6z982j0n4k3o?at_medium=RSS&at_campaign=rss",
+   "content": "Mutuwar Sheikh Yahaya Masussuka bayan harin da aka kai masa a gaban gidansa ta sa ana cigaba da tattaunawa kan rayuwarsa, tare da tafka muhawara kan fahimtarsa ta Qur'ani zalla.",
+   "published_date": "Fri, 30 Oct 2026 16:07:15 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Na samu gamsuwa bayan kammala ibadar Umrah - Tinubu",
+   "url": "https://www.bbc.co.uk/hausa/live/crq5npzv2n4wt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 30/10/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Mourinho da rikici - shin ana yi wa kocin Real Madrid mummunar fahimta?",
+   "url": "https://www.bbc.com/hausa/articles/c5j9k4x8zdlvo?at_medium=RSS&at_campaign=rss",
+   "content": "Jose Mourinho ya shafe kusan shekara goma yana kallon yadda ake yabon wasu kociyoyi a matsayin hazikai, amma shin nasarar da Real Madrid ta samu a gidan Barcelona ta nuna cewa ba a fahimci dabarunsa yadda ya kamata ba?",
+   "published_date": "Fri, 30 Oct 2026 16:10:43 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Me INEC ta ce kan mayar da sunayen Pantami da Gwarzo?",
    "url": "https://www.bbc.com/hausa/articles/c3ewepg0742xo?at_medium=RSS&at_campaign=rss",
    "content": "Har yanzu INEC dai INEC ba ta fitar da jerin sunayen ƴantarar da ta tantance ɗin ba, kuma ba ta tuntuɓi ƴantakarar ba, kamar yadda wasu daga cikinsu suka shaida wa BBC.",
    "published_date": "Fri, 30 Oct 2026 09:57:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Netanyahu ya gaza samun rinjayen kafa gwamnati a zaɓen Isra'ila",
-   "url": "https://www.bbc.co.uk/hausa/live/crq5npzv2n4wt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 30/10/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -27,13 +41,6 @@
    "url": "https://www.bbc.com/hausa/articles/cm74pvyevd32o?at_medium=RSS&at_campaign=rss",
    "content": "A yayin da shirye-shiryen ƴanhamayyar Najeriya na dunƙulewa wuri ɗaya don tunkarar Tinubu a zaɓen 2027 ke fuskantar koma-baya, wasu ƴanƙasar sun fara tunanin ko ƴan adawar za su iya kai kunyarsu a zaɓen mai zuwa.",
    "published_date": "Fri, 30 Oct 2026 03:56:45 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Chelsea na zawarcin Alexander-Arnold, Man United na harin Calvert-Lewin",
-   "url": "https://www.bbc.com/hausa/articles/c9p8gp1djgypo?at_medium=RSS&at_campaign=rss",
-   "content": "Trent Alexander-Arnold na iya zama ɗan wasan da Chelsea za ta yi zawarci, Alex Scott na Bournemouth shi ma yana iya komawa Stamford Bridge, yayin da Manchester United ke duba yiwuwar ɗaukar dan wasan gaba na Leeds United, Dominic Calvert-Lewin.",
-   "published_date": "Fri, 30 Oct 2026 03:55:50 GMT",
    "score": 0.6
   },
   {
@@ -58,17 +65,24 @@
    "score": 0.6
   },
   {
-   "title": "Wace irin rayuwa ƴaƴan shugabannin Afirka ke yi?",
-   "url": "https://www.bbc.com/hausa/articles/ck20wjdllwz5o?at_medium=RSS&at_campaign=rss",
-   "content": "Wasu daga cikin ƴaƴa mata na fitattun shugabannin Afirka da suka daɗe suna mulki sun taso ne cikin jin daɗi da walwala, kuma su ma sun zama shahararrun mutane masu tasiri a cikin al'umma.",
-   "published_date": "Thu, 29 Oct 2026 17:41:21 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
    "published_date": "Tue, 29 Sep 2026 13:46:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Cristiano Ronaldo ya kusan cika burinsa na cin kwallo 1,000",
+   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Chelsea na zawarcin Alexander-Arnold, Man United na harin Calvert-Lewin",
+   "url": "https://www.bbc.com/hausa/articles/c9p8gp1djgypo?at_medium=RSS&at_campaign=rss",
+   "content": "Trent Alexander-Arnold na iya zama ɗan wasan da Chelsea za ta yi zawarci, Alex Scott na Bournemouth shi ma yana iya komawa Stamford Bridge, yayin da Manchester United ke duba yiwuwar ɗaukar dan wasan gaba na Leeds United, Dominic Calvert-Lewin.",
+   "published_date": "Fri, 30 Oct 2026 03:55:50 GMT",
    "score": 0.6
   },
   {
@@ -93,24 +107,10 @@
    "score": 0.6
   },
   {
-   "title": "Carrick da Fernandes sun yi ganawar sulhu",
-   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Ƴan wasan da suka samu kyautuka a bikin Ballon d'Or na 2026",
-   "url": "https://www.bbc.com/hausa/articles/cmx23lg04zn5o?at_medium=RSS&at_campaign=rss",
-   "content": "Kyaftin ɗin tawagar Ingila Harry Kane ne ya lashe kyautar gwarzon ɗan kwallon na wannan shekara, yayin da abokan takararsa, Kylian Mbappe da Lamine Yamal suka zo na biyu da na uku.",
-   "published_date": "Tue, 27 Oct 2026 11:24:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Arsenal da Tottenham da Newcastle na sanya ido kan Tresoldi, Liverpool na son Jeltsch",
-   "url": "https://www.bbc.com/hausa/articles/c5zjx1zgjplzo?at_medium=RSS&at_campaign=rss",
-   "content": "Arsenal da Tottenham da Newcastle na daga cikin ƙungiyoyin da ke sanya ido kan ɗan wasan gaba na ƙasar Jamus, Nicolo Tresoldi; yayin da matashin ɗan wasan baya na Stuttgart Finn Jeltsch, ke ɗaukar hankalin Liverpool.",
-   "published_date": "Wed, 28 Oct 2026 03:58:00 GMT",
+   "title": "Wace irin rayuwa ƴaƴan shugabannin Afirka ke yi?",
+   "url": "https://www.bbc.com/hausa/articles/ck20wjdllwz5o?at_medium=RSS&at_campaign=rss",
+   "content": "Wasu daga cikin ƴaƴa mata na fitattun shugabannin Afirka da suka daɗe suna mulki sun taso ne cikin jin daɗi da walwala, kuma su ma sun zama shahararrun mutane masu tasiri a cikin al'umma.",
+   "published_date": "Thu, 29 Oct 2026 17:41:21 GMT",
    "score": 0.6
   },
   {

@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Editors’ Choice: What did Putin really say on that call?",
+   "url": "https://www.rapporteur.com/news/editors-choice-what-did-putin-really-say-on-that-call/",
+   "content": "The Friday edition of our PM newsletter looks at the week that was in European politics and policy",
+   "published_date": "Fri, 30 Oct 2026 16:57:23 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "German demands shape latest EU Space Act compromise",
+   "url": "https://www.rapporteur.com/news/german-demands-shape-latest-eu-space-act-compromise/",
+   "content": "The latest compromise also tightens conditions for US companies seeking access to the EU market",
+   "published_date": "Fri, 30 Oct 2026 16:39:37 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Dutch government warns of privacy risks in EU Kids Act",
+   "url": "https://www.rapporteur.com/news/dutch-government-warns-of-privacy-risks-in-eu-kids-act/",
+   "content": "Excessive reliance on parents could also create inequalities between kids, government paper warns",
+   "published_date": "Fri, 30 Oct 2026 16:05:59 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "A combustion engine running on renewables: is that possible? [Promoted Content]",
+   "url": "https://www.rapporteur.com/opinion/a-combustion-engine-running-on-renewables-is-that-possible/",
+   "content": "VEEFs, vehicles running exclusively on eligible fuels, combine existing engine technology with verified eligible fuels. Monitoring and physical or mass-balanced supply make this feasible now. The automotive and fuel industries have delivered. Europe's policymakers must now turn this readiness into implementation.",
+   "published_date": "Fri, 30 Oct 2026 15:35:38 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Irish drug watchdog backs Wegovy funding but flags €4.4bn bill [Partner Content]",
+   "url": "https://www.rapporteur.com/news/irish-drug-watchdog-backs-wegovy-funding-but-flags-e4-4bn-bill/",
+   "content": "Recommendation lands as PwC finds one in five Irish consumers open to using weight-loss drugs",
+   "published_date": "Fri, 30 Oct 2026 15:02:53 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Spain’s transport minister refuses to step down over deadly train crash",
    "url": "https://www.rapporteur.com/news/spains-transport-minister-refuses-to-step-down-over-deadly-train-crash/",
    "content": "More than 100 people have died in two high-speed rail disasters in Spain this year",
@@ -53,7 +88,7 @@
   {
    "title": "European Defence Week: connecting Europe’s defence ecosystem [Promoted Content]",
    "url": "https://www.rapporteur.com/opinion/european-defence-week/",
-   "content": "Europe is investing heavily in defence, but the real challenge is to enable stakeholders that have historically operated in silos to work together. This is the ambition of the European Defence Alliance, which brings together armed forces, startups, industrial companies and investors, with partners such as Bpifrance, France’s public investment bank, to accelerate innovation and […]",
+   "content": "Europe’s defence technological and industrial base (EDTIB) is a major strategic priority, but a complex one: it cannot simply be decreed; it must be built.",
    "published_date": "Fri, 30 Oct 2026 11:00:41 +0000",
    "score": 0.6
   },
@@ -174,41 +209,6 @@
    "url": "https://www.rapporteur.com/news/canadians-weigh-ever-closer-ties-to-the-eu/",
    "content": "European or American first? What do the Canadians think of a future close to EU?",
    "published_date": "Fri, 30 Oct 2026 03:00:15 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Greek neo-fascism is ‘rising political force’",
-   "url": "https://www.rapporteur.com/news/greek-neo-fascism-is-rising-political-force/",
-   "content": "Hundreds of supporters attended a rally of convicted neo-fascist Ilias Kasidiaris in Thessaloniki",
-   "published_date": "Fri, 30 Oct 2026 03:00:07 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU fast-tracks promising pancreatic cancer drug",
-   "url": "https://www.rapporteur.com/news/eu-fast-tracks-promising-pancreatic-cancer-drug/",
-   "content": "Germany's medicines regulator took the initiative after promising trial results",
-   "published_date": "Fri, 30 Oct 2026 03:00:05 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EXCLUSIVE: Tobacco tax forecast plunges amid EU budget debate",
-   "url": "https://www.rapporteur.com/news/exclusive-tobacco-tax-forecast-plunges-amid-eu-budget-debate/",
-   "content": "Five EU countries rejected the latest tobacco tax compromise at Wednesday’s meeting of ambassadors",
-   "published_date": "Fri, 30 Oct 2026 03:00:02 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Lagarde runs for the mountains",
-   "url": "https://www.rapporteur.com/news/lagarde-runs-for-the-mountains/",
-   "content": "Also, in tonight’s edition: Ireland braces for upcoming EU leaders summit",
-   "published_date": "Thu, 29 Oct 2026 17:00:26 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Capitals stonewall Brussels over electricity bill reform",
-   "url": "https://www.rapporteur.com/news/capitals-stonewall-brussels-over-electricity-bill-reform/",
-   "content": "National governments are keen to limit EU powers over network fees, taxes",
-   "published_date": "Thu, 29 Oct 2026 16:20:16 +0000",
    "score": 0.6
   }
  ],
