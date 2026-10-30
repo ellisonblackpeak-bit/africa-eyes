@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Brazil claims it questioned Argentina over Bolsonaro's escape, Buenos Aires denies it",
+   "url": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
+   "content": "According to Argentina's migration authorities, Bolsonaro boarded a private plane in the northeastern city of Puerto Iguazú on Tuesday evening, just 40 minutes after crossing into the country by land.",
+   "published_date": "Fri, 30 Oct 2026 21:07:10 +0100",
+   "score": 0.6
+  },
+  {
    "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
    "url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
    "content": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/10/29/kazakhstans-tokayev-calls-for-faster-construction-of-nuclear-power-plants",
    "content": "President Tokayev outlined the country's priorities for the coming year in his annual address, urging the government to accelerate energy and construction projects, while criticising inefficiencies in public policy.",
    "published_date": "Thu, 29 Oct 2026 19:29:09 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 29th, 2026 – Evening",
-   "url": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-evening",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Thu, 29 Oct 2026 18:00:26 +0100",
    "score": 0.6
   }
  ],

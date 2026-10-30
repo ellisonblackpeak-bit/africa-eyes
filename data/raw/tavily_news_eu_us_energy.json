@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EU and Canada explore LNG deal as Europe grapples with gas crisis  | Euronews",
-   "url": "https://www.euronews.com/2026/10/28/eu-and-canada-explore-lng-deal-as-europe-grapples-with-gas-crisis",
-   "snippet": "Since Russia's full-scale invasion of Ukraine, the US has become the EU's largest LNG supplier, replacing much of the cheaper gas previously imported from Russia.\n\nAt the same time, continued disruption in production and shipping of Qatari gas has also dented the EU's energy supply security.\n\nHowever, the draft leaves unanswered key questions about how much LNG Canada could supply, at what cost an",
-   "published": "Wed, 28 Oct 2026 14:57:04 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US LNG Exporters Find Few Takers in Europe for New Supply",
-   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply",
-   "snippet": "By Priscila Azevedo Rocha and Ruth Liao US liquefied natural gas developers expected Europe to…",
-   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Equinor warns Europe is vulnerable to winter gas price spike if cold weather hits",
-   "url": "https://www.reuters.com/business/energy/equinor-warns-europe-is-vulnerable-winter-gas-price-spike-if-cold-weather-hits-2026-10-28",
-   "snippet": "Europe could face another spike in gas prices if ‌cold weather boosts demand later this winter, when stocks are depleted and the region depends more on",
-   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],

@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Closer EU-Canada ties face critical minerals test",
-   "url": "https://www.theparliamentmagazine.eu/news/article/closer-eucanada-ties-face-critical-minerals-test",
-   "snippet": "Canada’s mineral trade is geared towards the U.S., meaning shifting supplies to Europe will require new commercial ties and infrastructure. Transport costs and EU regulatory requirements also pose challenges for Canadian suppliers.\n\nInvestors also need clarity on which minerals the EU wants. Of Canada’s 34 critical minerals, 24 are considered critical by the EU, including 13 classified as strategi",
-   "published": "Wed, 28 Oct 2026 07:41:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ending China’s 60-Year Grip on Critical Minerals - CEPA",
-   "url": "https://cepa.org/article/ending-chinas-60-year-grip-on-critical-minerals",
-   "snippet": "Insights & Analysis\n\nEurope's Edge\n\n# Ending China’s 60-Year Grip on Critical Minerals\n\nThe US and Europe allowed China to corner the market in critical minerals that enable modern life. Now, they must work together to secure a supply chain.\n\nBy Sharon Hudson-Dean\n\nThis is part of a series examining the central importance of critical minerals and the race to ensure Western supply. [...] The US and",
-   "published": "Thu, 29 Oct 2026 15:23:53 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "India’s Critical Minerals Industrial Policy Balances Domestic Ambitions and Transnational Challenges - Center on Global Energy Policy at Columbia University SIPA | CGEP",
-   "url": "https://www.energypolicy.columbia.edu/publications/https-www-energypolicy-columbia-edu-indias-critical-minerals-industrial-policy-balancesdomestic-ambitions-and-transnational-challenges",
-   "snippet": "Western Europe. By articulating India’s position in the global critical minerals ecosystem, the country could more effectively secure the minerals, technology, and finance needed to advance its domestic industrial ambitions while credibly supporting the value-addition goals of LMICs and the security and manufacturing priorities of advanced economies. [...] And US bilateral critical minerals trade ",
-   "published": "Wed, 28 Oct 2026 19:52:35 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],

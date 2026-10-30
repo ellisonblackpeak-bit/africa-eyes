@@ -1,0 +1,116 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/tribunephl/status/2115644562534261194",
+     "title": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID The Philippine government owns the country's electricity transmission infrastructure, b",
+     "description": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID\n\nThe Philippine government owns the country's electricity transmission infrastructure, but the private company operating it, the National Grid Corporation of the Philippines (#NGCP), is 40 percent owned by China's state-owned State Grid Corporation.\n\nThat means the Chinese government holds a substantial stake in the company responsible for transmitting electricity across the Philippines, even as tensions between Manila and Beijing persist in the West Philippine Sea.\n\nNGCP maintains that Filipino engineers operate the grid, and there is no established evidence that China possesses a secret mechanism to shut it down.\n\nBut the ownership arrangement raises a national security question: Should a foreign government with which the Philippines has an ongoing territorial dispute own part of the company operating its electricity transmission network?\n\n#dailytribune",
+     "snippet": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID\n\nThe Philippine government owns the country's electricity transmission infrastructure, but the private company operating it, the National Grid Corporation of the Philippines (#NGCP), is 40 percent owned by China's state-owned State Grid Corporation.\n\nThat means the Chinese government holds a substantial stake in the company responsible for transmitting electricity across the Philippines, even as tensions between Manila and Beijing persist in the West Philippine Sea.\n\nNGCP maintains that Filipino engineers operate the grid, and there is no established evidence that China possesses a secret mechanism to shut it down.\n\nBut the ownership arrangement raises a national security question: Should a foreign government with which the Philippines has an ongoing territorial dispute own part of the company operating its electricity transmission network?\n\n#dailytribune",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Daily Tribune",
+     "handle": "@tribunephl"
+    },
+    {
+     "url": "https://x.com/jaytaryela/status/2115209835642044438",
+     "title": "PCG, BFAR deliver fuel support to Filipino fishermen at Bajo de Masinloc On 27 October 2026, the Philippine Coast Guard (PCG) and the Bureau",
+     "description": "PCG, BFAR deliver fuel support to Filipino fishermen at Bajo de Masinloc\n\nOn 27 October 2026, the Philippine Coast Guard (PCG) and the Bureau of Fisheries and Aquatic Resources (BFAR) successfully conducted a fuel distribution mission for Filipino fishermen in the vicinity of Bajo de Masinloc under the Kadiwa ng Bagong Bayaning Mangingisda (KBBM) Program. The mission was carried out by the BFAR vessel MV Mamalakaya with the support of the PCG vessel BRP Malapascua (MRRV-4403) and the PCG Islander 251 aircraft, which conducted a maritime domain awareness flight over the area to ensure the safety of the fishermen and the BFAR vessel.\n\nUpon the arrival of MV Mamalakaya, Filipino fishing boats already operating in the traditional fishing ground, numbering 40 to 50, approached the vessel and lined up to receive fuel. The fishermen interviewed during the activity expressed their appreciation for the government's effort to deliver fuel support directly to them at sea, which allows them to stay longer in the fishing ground and reduce the cost of their expeditions amid high fuel prices.\n\nThe KBBM Program is a government initiative that purchases the fresh catch of Filipino fishermen directly at sea and provides them with fuel and ice to lower their operational costs and sustain their presence in the West Philippine Sea. The strong turnout of fishing boats at Bajo de Masinloc shows that Filipino fishermen continue to exercise their traditional fishing rights in the area, as affirmed by the 2016 Arbitral Award, and that the government's support is reaching them where they need it most.\n\nPCG Commandant Vice Admiral Rommel Supangan directed the deployment of PCG surface and air assets to secure the mission, underscoring that the protection of Filipino fishermen and the delivery of government support to them at sea remain among the priorities of the Coast Guard in the West Philippine Sea. The Commandant also commended the crews of BRP Malapascua, PCG Islander 251, and MV Mamalakaya for the safe and successful conduct of the activity.\n\nThe mission was completed without any untoward incident. During its flight, the PCG aircraft also monitored the presence of China Coast Guard and People's Liberation Army Navy vessels in the approaches to Bajo de Masinloc, as well as a Chinese research vessel operating near the shoal, which the PCG continues to monitor and document.\n\nThe PCG and BFAR will continue to support Filipino fishermen and maintain a lawful presence in the West Philippine Sea. This mission was conducted in accordance with the guidance of President Ferdinand R. Marcos Jr. to promote food security and maritime development in the West Philippine Sea, and in line with his commitment to continue supporting Filipino fishermen who make a living in these fishing grounds despite the challenges they face at sea.",
+     "snippet": "PCG, BFAR deliver fuel support to Filipino fishermen at Bajo de Masinloc\n\nOn 27 October 2026, the Philippine Coast Guard (PCG) and the Bureau of Fisheries and Aquatic Resources (BFAR) successfully conducted a fuel distribution mission for Filipino fishermen in the vicinity of Bajo de Masinloc under the Kadiwa ng Bagong Bayaning Mangingisda (KBBM) Program. The mission was carried out by the BFAR vessel MV Mamalakaya with the support of the PCG vessel BRP Malapascua (MRRV-4403) and the PCG Islander 251 aircraft, which conducted a maritime domain awareness flight over the area to ensure the safety of the fishermen and the BFAR vessel.\n\nUpon the arrival of MV Mamalakaya, Filipino fishing boats already operating in the traditional fishing ground, numbering 40 to 50, approached the vessel and lined up to receive fuel. The fishermen interviewed during the activity expressed their appreciation for the government's effort to deliver fuel support directly to them at sea, which allows them to stay longer in the fishing ground and reduce the cost of their expeditions amid high fuel prices.\n\nThe KBBM Program is a government initiative that purchases the fresh catch of Filipino fishermen directly at sea and provides them with fuel and ice to lower their operational costs and sustain their presence in the West Philippine Sea. The strong turnout of fishing boats at Bajo de Masinloc shows that Filipino fishermen continue to exercise their traditional fishing rights in the area, as affirmed by the 2016 Arbitral Award, and that the government's support is reaching them where they need it most.\n\nPCG Commandant Vice Admiral Rommel Supangan directed the deployment of PCG surface and air assets to secure the mission, underscoring that the protection of Filipino fishermen and the delivery of government support to them at sea remain among the priorities of the Coast Guard in the West Philippine Sea. The Commandant also commended the crews of BRP Malapascua, PCG Islander 251, and MV Mamalakaya for the safe and successful conduct of the activity.\n\nThe mission was completed without any untoward incident. During its flight, the PCG aircraft also monitored the presence of China Coast Guard and People's Liberation Army Navy vessels in the approaches to Bajo de Masinloc, as well as a Chinese research vessel operating near the shoal, which the PCG continues to monitor and document.\n\nThe PCG and BFAR will continue to support Filipino fishermen and maintain a lawful presence in the West Philippine Sea. This mission was conducted in accordance with the guidance of President Ferdinand R. Marcos Jr. to promote food security and maritime development in the West Philippine Sea, and in line with his commitment to continue supporting Filipino fishermen who make a living in these fishing grounds despite the challenges they face at sea.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jay Tarriela",
+     "handle": "@jaytaryela"
+    },
+    {
+     "url": "https://x.com/jaytaryela/status/2115433931264991428",
+     "title": "It was China's own decision to keep its Defense Minister away from the ADMM-Plus in Cebu and send only an embassy defense attaché, its lowes",
+     "description": "It was China's own decision to keep its Defense Minister away from the ADMM-Plus in Cebu and send only an embassy defense attaché, its lowest level of representation since the forum began in 2010.\n\nYet Beijing now says the Philippines is to blame for the downgrade. 🤔\n\nChina never tires of claiming it is open to dialogue and consultation. If that were true, why would it belittle ASEAN's highest defense consultative mechanism, in the very year the Philippines holds the chair?\n\nLet me be clear: this is not a snub of the Philippines alone. It is a snub of ASEAN!\n\nYou cannot claim to support ASEAN centrality while walking away from the ASEAN defense ministers' table simply because you were embarrassed by our exposure of your illegal, coercive, aggressive, and deceptive actions in the West Philippine Sea!",
+     "snippet": "It was China's own decision to keep its Defense Minister away from the ADMM-Plus in Cebu and send only an embassy defense attaché, its lowest level of representation since the forum began in 2010.\n\nYet Beijing now says the Philippines is to blame for the downgrade. 🤔\n\nChina never tires of claiming it is open to dialogue and consultation. If that were true, why would it belittle ASEAN's highest defense consultative mechanism, in the very year the Philippines holds the chair?\n\nLet me be clear: this is not a snub of the Philippines alone. It is a snub of ASEAN!\n\nYou cannot claim to support ASEAN centrality while walking away from the ASEAN defense ministers' table simply because you were embarrassed by our exposure of your illegal, coercive, aggressive, and deceptive actions in the West Philippine Sea!",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jay Tarriela",
+     "handle": "@jaytaryela"
+    },
+    {
+     "url": "https://x.com/SteveYates/status/2115590831541215352",
+     "title": "Beijing's gray-zone squeeze on Manila keeps tightening.",
+     "description": "Beijing's gray-zone squeeze on Manila keeps tightening.\n\n54 Chinese navy and coast guard ships around the Philippines Oct 20-26, up from 31. Seventeen at Scarborough Shoal.\n\nPressure by attrition, the same playbook Taiwan lives with daily.\n\nhttps://www.gmanetwork.com/news/topstories/nation/1007291/chinese-vessels-in-wps-rise-to-54-in-past-week-afp/story/",
+     "snippet": "Beijing's gray-zone squeeze on Manila keeps tightening.\n\n54 Chinese navy and coast guard ships around the Philippines Oct 20-26, up from 31. Seventeen at Scarborough Shoal.\n\nPressure by attrition, the same playbook Taiwan lives with daily.\n\nhttps://www.gmanetwork.com/news/topstories/nation/1007291/chinese-vessels-in-wps-rise-to-54-in-past-week-afp/story/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Steve Yates (葉望輝)",
+     "handle": "@SteveYates"
+    },
+    {
+     "url": "https://x.com/ThomasHuffman79/status/2115557679943008392",
+     "title": "🛰️ Scarborough Shoal, 27 Oct: The Philippine Coast Guard and Bureau of Fisheries and Aquatic Resources (MV Mamalakaya and BRP Malapascua) su",
+     "description": "🛰️ Scarborough Shoal, 27 Oct: The Philippine Coast Guard and Bureau of Fisheries and Aquatic Resources (MV Mamalakaya and BRP Malapascua) supplied fuel to about 40 to 50 Filipino fishing boats today. \n\nTheir aircraft spotted vessels from the Chinese Coast Guard and the People’s Liberation Army Navy nearby, along with a Chinese research ship lurking around. But there was no fuss—everything went smoothly, and the mission was wrapped up without any issues. This spot has been effectively controlled by China since 2012, and the 2016 ruling that favored fishing access? Well, Beijing’s not on board with that. Here's a real photo from the PCG.  \n@PhilCoastGuard @PhilippineNavy @USPacificFleet #WestPhilippineSea #Scarborough #OSINT",
+     "snippet": "🛰️ Scarborough Shoal, 27 Oct: The Philippine Coast Guard and Bureau of Fisheries and Aquatic Resources (MV Mamalakaya and BRP Malapascua) supplied fuel to about 40 to 50 Filipino fishing boats today. \n\nTheir aircraft spotted vessels from the Chinese Coast Guard and the People’s Liberation Army Navy nearby, along with a Chinese research ship lurking around. But there was no fuss—everything went smoothly, and the mission was wrapped up without any issues. This spot has been effectively controlled by China since 2012, and the 2016 ruling that favored fishing access? Well, Beijing’s not on board with that. Here's a real photo from the PCG.  \n@PhilCoastGuard @PhilippineNavy @USPacificFleet #WestPhilippineSea #Scarborough #OSINT",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Thomas Huffman",
+     "handle": "@ThomasHuffman79"
+    },
+    {
+     "url": "https://x.com/RadioFreeAsia/status/2115292168495722534",
+     "title": "South China Sea tensions are turning Chinese-language education into a security issue in the Philippines, straining civilian ties and exposi",
+     "description": "South China Sea tensions are turning Chinese-language education into a security issue in the Philippines, straining civilian ties and exposing schools’ dependence on foreign teaching support, analysts told Radio Free Asia.\n\nhttps://www.rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
+     "snippet": "South China Sea tensions are turning Chinese-language education into a security issue in the Philippines, straining civilian ties and exposing schools’ dependence on foreign teaching support, analysts told Radio Free Asia.\n\nhttps://www.rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Radio Free Asia",
+     "handle": "@RadioFreeAsia"
+    },
+    {
+     "url": "https://x.com/erika_snking/status/2115326300537893270",
+     "title": "THE Philippines will not impose trade restrictions on China despite tensions in the South China Sea, with the Marcos administration opting t",
+     "description": "THE Philippines will not impose trade restrictions on China despite tensions in the South China Sea, with the Marcos administration opting to keep economic ties separate from maritime disputes.\nhttps://bworldonline.com/the-nation/2026/10/27/789633/marcos-rules-out-china-trade-curbs-amid-maritime-dispute/",
+     "snippet": "THE Philippines will not impose trade restrictions on China despite tensions in the South China Sea, with the Marcos administration opting to keep economic ties separate from maritime disputes.\nhttps://bworldonline.com/the-nation/2026/10/27/789633/marcos-rules-out-china-trade-curbs-amid-maritime-dispute/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Erika Sinaking",
+     "handle": "@erika_snking"
+    },
+    {
+     "url": "https://x.com/dlcampbell05/status/2115241161132552468",
+     "title": "Wow, America’s own intelligence agency just put China’s space buildup in black and white.",
+     "description": "Wow, America’s own intelligence agency just put China’s space buildup in black and white.\n\nThe Defense Intelligence Agency released its 2026 “Challenges to Security in Space” report on Monday, its third unclassified look at threats in orbit. According to Breaking Defense, the report finds China has roughly tripled its fleet of intelligence, surveillance and reconnaissance satellites since 2018, to more than 510 as of July, counting both government and Chinese commercial satellites. The report says that network can help China’s military watch and target U.S. and allied forces, especially around Taiwan, Korea, the Philippines and the South China Sea.\n\n“China employs a robust space-based ISR capability designed to enhance its worldwide situational awareness and enable long-range strikes,” the report states, as quoted by Breaking Defense. It also includes the clearest public image yet of China’s secretive reusable spaceplane, widely identified as Shenlong, which Popular Science reports has flown four missions since 2020, the latest launched in February and still in orbit. The U.S. Space Force says China is targeting 140 launches this year.\n\nNot everyone reads the numbers the same way. Todd Harrison of the American Enterprise Institute told Breaking Defense the growth has leveled off in recent years and the DIA count lacks context.\n\nBottom line, those satellites aren’t up there to sightsee. Space is a front line now, and Washington needs to fund and act like it. Thoughts?\n\nSources: Defense Intelligence Agency, Breaking Defense, Popular Science, U.S. Space Force\nPhoto: MSgt Ken Hammond / U.S. Dept. of Defense (public domain)",
+     "snippet": "Wow, America’s own intelligence agency just put China’s space buildup in black and white.\n\nThe Defense Intelligence Agency released its 2026 “Challenges to Security in Space” report on Monday, its third unclassified look at threats in orbit. According to Breaking Defense, the report finds China has roughly tripled its fleet of intelligence, surveillance and reconnaissance satellites since 2018, to more than 510 as of July, counting both government and Chinese commercial satellites. The report says that network can help China’s military watch and target U.S. and allied forces, especially around Taiwan, Korea, the Philippines and the South China Sea.\n\n“China employs a robust space-based ISR capability designed to enhance its worldwide situational awareness and enable long-range strikes,” the report states, as quoted by Breaking Defense. It also includes the clearest public image yet of China’s secretive reusable spaceplane, widely identified as Shenlong, which Popular Science reports has flown four missions since 2020, the latest launched in February and still in orbit. The U.S. Space Force says China is targeting 140 launches this year.\n\nNot everyone reads the numbers the same way. Todd Harrison of the American Enterprise Institute told Breaking Defense the growth has leveled off in recent years and the DIA count lacks context.\n\nBottom line, those satellites aren’t up there to sightsee. Space is a front line now, and Washington needs to fund and act like it. Thoughts?\n\nSources: Defense Intelligence Agency, Breaking Defense, Popular Science, U.S. Space Force\nPhoto: MSgt Ken Hammond / U.S. Dept. of Defense (public domain)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Words Have Meaning | Word Files",
+     "handle": "@dlcampbell05"
+    },
+    {
+     "url": "https://x.com/interaksyon/status/2116213546757591111",
+     "title": "“While the People’s Republic of China can send armed vessels and powerful ships through the West Philippine Sea, our humble fishermen can on",
+     "description": "“While the People’s Republic of China can send armed vessels and powerful ships through the West Philippine Sea, our humble fishermen can only ride the waves on small and flimsy bancas,” the archbishop said.\n\nhttps://interaksyon.philstar.com/politics-issues/2026/10/26/321010/archbishop-urges-firm-but-peaceful-defense-of-west-philippine-sea/",
+     "snippet": "“While the People’s Republic of China can send armed vessels and powerful ships through the West Philippine Sea, our humble fishermen can only ride the waves on small and flimsy bancas,” the archbishop said.\n\nhttps://interaksyon.philstar.com/politics-issues/2026/10/26/321010/archbishop-urges-firm-but-peaceful-defense-of-west-philippine-sea/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Interaksyon",
+     "handle": "@interaksyon"
+    },
+    {
+     "url": "https://x.com/GordianKnotRay/status/2115505906779902214",
+     "title": "@RadioFreeAsia: In a report on the SeaLight webpage, the maritime transparency project’s executive director Ray Powell characterized the exo",
+     "description": "@RadioFreeAsia: In a report on the SeaLight webpage, the maritime transparency project’s executive director Ray Powell characterized the exodus as an organized recall by Beijing that uses “Filipinos of Chinese heritage” as “a card to be played.” 🃏🇨🇳🇵🇭",
+     "snippet": "@RadioFreeAsia: In a report on the SeaLight webpage, the maritime transparency project’s executive director Ray Powell characterized the exodus as an organized recall by Beijing that uses “Filipinos of Chinese heritage” as “a card to be played.” 🃏🇨🇳🇵🇭",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ray Powell",
+     "handle": "@GordianKnotRay"
+    }
+   ]
+  }
+ ]
+}
