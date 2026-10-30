@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Japan’s Defense Industry Enters Europe’s Industrial Partnerships: From Technology Supplier to Strategic Co-Developer | Strategy Review — The Economy",
+   "url": "https://economy.ac/review/2026/10/202610295882",
+   "snippet": "Four days before the Japanese revision, on 17 April 2026, the EU Commissioner for Defence and Space and Japan’s State Minister of Economy, Trade and Industry attended the first meeting of the EU-Japan Defence Industry Dialogue, launched by the European industry association ASD and Japan’s SJAC in the framework of the EU-Japan Competitiveness Alliance of July 2025 and with reference to the Security",
+   "published": "Tue, 27 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Courtesy Call on State Minister NAKASONE by the European Parliament Committee on Security and Defence | Ministry of Foreign Affairs of Japan",
+   "url": "https://www.mofa.go.jp/press/release/pressite_000001_02794.html",
+   "snippet": "On October 27, commencing at 5:15 p.m. for approximately 30 minutes, Mr. NAKASONE Yasutaka, State Minister for Foreign Affairs of Japan, received a courtesy call from a delegation of six members of the European Parliament Committee on Security and Defence, led by Ms. Marie-Agnes Strack-Zimmermann, Chair of the Committee.\n\n## Related Links\n\nCopyright © Ministry of Foreign Affairs of Japan [...] The",
+   "published": "Wed, 28 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The outer rim: on closer collaboration between Eastern Europe and East Asia",
+   "url": "https://neweasterneurope.eu/2026/10/30/the-outer-rim-on-closer-collaboration-between-eastern-europe-and-east-asia",
+   "snippet": "Separated by great distances, the democracies of Eastern Europe and East Asia are overcoming geography and associating based on affinity.",
+   "published": "Fri, 30 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_jp",
  "_query": "EU Japan defence cooperation",
  "_domains": [],

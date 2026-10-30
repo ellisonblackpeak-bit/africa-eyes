@@ -1,0 +1,116 @@
+{
+ "query": "Ghana China Chinese company investment mining embassy",
+ "_tag": "soc_cn_gh",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/theclemeast/status/2116053796312793302",
+     "title": "1/ A Chinese mining company has offered about $210 million in cash to buy Atlantic Lithium, the firm trying to open Ghana's first lithium mi",
+     "description": "1/ A Chinese mining company has offered about $210 million in cash to buy Atlantic Lithium, the firm trying to open Ghana's first lithium mine.\nBut if you hold its shares on the GSE, there's a catch. 🧵\n\n2/ Atlantic Lithium (GSE: ALLGH) is developing the Ewoyaa lithium project in Ghana, about 100km from Accra.\n\nOn May 7, 2026, a company called Huayou agreed to buy ALL of Atlantic Lithium's shares for cash. The latest quarterly report (Oct 27) updates the deal.\n3/ The offer: US$0.25486 per share.\n\nThat's roughly GH₵3.00 at about GH₵11.7 per dollar (my conversion). It's also A$0.354 or £0.188.\n\nIt values the whole company at about US$210 million. That's a 26.6% premium over its Australian price the day before the deal was announced.\n\n4/ Here's the catch.\n\nThe last GSE price I found for ALLGH was GH₵5.30 (Oct 2). That's nearly 80% HIGHER than the offer in cedis.\n\nIt also barely trades. The price sat unchanged for days, on a few thousand shares at most.\n\n5/ If GSE shareholders are paid the same per share as everyone else, the payout would be about 44% below that GSE price (my calculation).\n\nCheck with your broker, and read the Scheme Booklet, to see how GSE-held shares are treated. I couldn't confirm that.\n\n6/ Even in Australia, the shares trade below the offer: A$0.265 (Oct 16) vs A$0.354. That's about 25% under.\n\nMy reading: the market isn't sure the deal will close.\n\n7/ What still has to happen:\n• Court hearing: Nov 5 \n• A shareholder vote \n• Court approval in Western Australia \n• Other regulatory approvals\n\nAustralia's foreign-investment approval is already done. The board recommends voting yes, unless a better offer appears or the independent expert disagrees.\n\n8/ Huayou has already stepped in on the project.\n\nIt took over the rights of Elevra (formerly Piedmont Lithium), now holds 22.5% of the Ghana lithium projects, and will fund US$66 million of development costs to reach 50%.\n\nSo the mine project keeps moving while the takeover is pending.\n\n9/ The money side:\n• Cash: A$7.7M, no debt \n• Spent A$6.0M this quarter \n• Cash alone covers only about 1 to 1.5 quarters (my calculation)\n\nThe company can also tap a £20M equity facility, and Huayou now pays project costs.\n\n10/ The lesson: when a takeover offer is on the table, compare it with the market price. Check how thinly the stock trades.\n\nWant to learn how to read announcements like this and invest on the GSE? Get First Steps: https://t.co/PwwFyuz7LH\n\nSource: Atlantic Lithium quarterly report, 27 Oct 2026; ALLGH price: MarketScreener; ASX price: ListCorp. \n\n⚠️ Educational only, not financial advice. You can lose money.",
+     "snippet": "1/ A Chinese mining company has offered about $210 million in cash to buy Atlantic Lithium, the firm trying to open Ghana's first lithium mine.\nBut if you hold its shares on the GSE, there's a catch. 🧵\n\n2/ Atlantic Lithium (GSE: ALLGH) is developing the Ewoyaa lithium project in Ghana, about 100km from Accra.\n\nOn May 7, 2026, a company called Huayou agreed to buy ALL of Atlantic Lithium's shares for cash. The latest quarterly report (Oct 27) updates the deal.\n3/ The offer: US$0.25486 per share.\n\nThat's roughly GH₵3.00 at about GH₵11.7 per dollar (my conversion). It's also A$0.354 or £0.188.\n\nIt values the whole company at about US$210 million. That's a 26.6% premium over its Australian price the day before the deal was announced.\n\n4/ Here's the catch.\n\nThe last GSE price I found for ALLGH was GH₵5.30 (Oct 2). That's nearly 80% HIGHER than the offer in cedis.\n\nIt also barely trades. The price sat unchanged for days, on a few thousand shares at most.\n\n5/ If GSE shareholders are paid the same per share as everyone else, the payout would be about 44% below that GSE price (my calculation).\n\nCheck with your broker, and read the Scheme Booklet, to see how GSE-held shares are treated. I couldn't confirm that.\n\n6/ Even in Australia, the shares trade below the offer: A$0.265 (Oct 16) vs A$0.354. That's about 25% under.\n\nMy reading: the market isn't sure the deal will close.\n\n7/ What still has to happen:\n• Court hearing: Nov 5 \n• A shareholder vote \n• Court approval in Western Australia \n• Other regulatory approvals\n\nAustralia's foreign-investment approval is already done. The board recommends voting yes, unless a better offer appears or the independent expert disagrees.\n\n8/ Huayou has already stepped in on the project.\n\nIt took over the rights of Elevra (formerly Piedmont Lithium), now holds 22.5% of the Ghana lithium projects, and will fund US$66 million of development costs to reach 50%.\n\nSo the mine project keeps moving while the takeover is pending.\n\n9/ The money side:\n• Cash: A$7.7M, no debt \n• Spent A$6.0M this quarter \n• Cash alone covers only about 1 to 1.5 quarters (my calculation)\n\nThe company can also tap a £20M equity facility, and Huayou now pays project costs.\n\n10/ The lesson: when a takeover offer is on the table, compare it with the market price. Check how thinly the stock trades.\n\nWant to learn how to read announcements like this and invest on the GSE? Get First Steps: https://t.co/PwwFyuz7LH\n\nSource: Atlantic Lithium quarterly report, 27 Oct 2026; ALLGH price: MarketScreener; ASX price: ListCorp. \n\n⚠️ Educational only, not financial advice. You can lose money.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CLEM EAST",
+     "handle": "@theclemeast"
+    },
+    {
+     "url": "https://x.com/mrhgovgh/status/2115730990375018966",
+     "title": "Hon. Agbodza Explores Stronger Ghana-China Partnership in Road Infrastructure Development The Minister of Roads and Highways, Hon. Kwame Gov",
+     "description": "Hon. Agbodza Explores Stronger Ghana-China Partnership in Road Infrastructure Development\n\nThe Minister of Roads and Highways, Hon. Kwame Governs Agbodza, has reaffirmed Government’s commitment to strengthen bilateral relations between Ghana and China while exploring opportunities for further collaboration in road infrastructure development. \n\nHe made this known when a joint delegation from the Jiangxi Provincial State-owned Assets Supervision and Administration Commission (Jiangxi Provincial SASAC) and China Jiangxi International Economic and Technical Cooperation Company Ltd. paid a courtesy call on him to discuss existing relations and prospects for future partnerships with the Ministry.\n\nHon. Agbodza underscored government’s commitment to maintaining a mutually beneficial relationship between the two countries. “President Mahama has arguably made the largest scale of infrastructure investment within the road sector under the Big Push Programme and Chinese companies are participating significantly.  The relationship between Ghana and China is very important to us and we promise to do what we can to sustain it,” he said. \n\nHe noted that cooperation with international institutions and development partners remains important in mobilising investment, technical expertise and other resources to support the country’s road infrastructure priorities.\n\nThe delegation was led by Mr. Xiao Yun, Director-General of Jiangxi Provincial SASAC, together with Mr. Xu Zhenghua, Vice President of CJIC.",
+     "snippet": "Hon. Agbodza Explores Stronger Ghana-China Partnership in Road Infrastructure Development\n\nThe Minister of Roads and Highways, Hon. Kwame Governs Agbodza, has reaffirmed Government’s commitment to strengthen bilateral relations between Ghana and China while exploring opportunities for further collaboration in road infrastructure development. \n\nHe made this known when a joint delegation from the Jiangxi Provincial State-owned Assets Supervision and Administration Commission (Jiangxi Provincial SASAC) and China Jiangxi International Economic and Technical Cooperation Company Ltd. paid a courtesy call on him to discuss existing relations and prospects for future partnerships with the Ministry.\n\nHon. Agbodza underscored government’s commitment to maintaining a mutually beneficial relationship between the two countries. “President Mahama has arguably made the largest scale of infrastructure investment within the road sector under the Big Push Programme and Chinese companies are participating significantly.  The relationship between Ghana and China is very important to us and we promise to do what we can to sustain it,” he said. \n\nHe noted that cooperation with international institutions and development partners remains important in mobilising investment, technical expertise and other resources to support the country’s road infrastructure priorities.\n\nThe delegation was led by Mr. Xiao Yun, Director-General of Jiangxi Provincial SASAC, together with Mr. Xu Zhenghua, Vice President of CJIC.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ministry of Roads & Highways - Ghana",
+     "handle": "@mrhgovgh"
+    },
+    {
+     "url": "https://x.com/GhanaTechInfra/status/2115480013814505947",
+     "title": "🚨 Update China’s 🇨🇳 biggest battery-materials company, Huayou has secured the rights to a 22.5% interest in Atlantic Lithium’s Ghanaian port",
+     "description": "🚨 Update\n\nChina’s 🇨🇳 biggest battery-materials company, Huayou has secured the rights to a 22.5% interest in Atlantic Lithium’s Ghanaian portfolio and committed a further US$66 million towards the Ewoyaa project, bringing the lithium mine closer to development.",
+     "snippet": "🚨 Update\n\nChina’s 🇨🇳 biggest battery-materials company, Huayou has secured the rights to a 22.5% interest in Atlantic Lithium’s Ghanaian portfolio and committed a further US$66 million towards the Ewoyaa project, bringing the lithium mine closer to development.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ghana Tech & Infra",
+     "handle": "@GhanaTechInfra"
+    },
+    {
+     "url": "https://x.com/nyamekye_e2612/status/2116156298496520442",
+     "title": "These were those smuggling our gold to China, Dubai and India It's good their licence has been withdrawn.",
+     "description": "These were those smuggling our gold to China, Dubai and India \nIt's good their licence has been withdrawn.\nGive it to a better Ghanaian mining company which will bring cost and effect to our economy. \nPeople have taken Ghana for granted for a long while.",
+     "snippet": "These were those smuggling our gold to China, Dubai and India \nIt's good their licence has been withdrawn.\nGive it to a better Ghanaian mining company which will bring cost and effect to our economy. \nPeople have taken Ghana for granted for a long while.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Daniel Edmund Nyamekye",
+     "handle": "@nyamekye_e2612"
+    },
+    {
+     "url": "https://x.com/RidwanSackey/status/2115908377423585518",
+     "title": "We wouldn't have to worry about how much money is wasted on dealing with the consequences of galamsey.",
+     "description": "We wouldn't have to worry about how much money is wasted on dealing with the consequences of galamsey. If we just stopped the Chinese from illegally mining in Ghana then we would have extra money for everything",
+     "snippet": "We wouldn't have to worry about how much money is wasted on dealing with the consequences of galamsey. If we just stopped the Chinese from illegally mining in Ghana then we would have extra money for everything",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ridwan Sackey",
+     "handle": "@RidwanSackey"
+    },
+    {
+     "url": "https://x.com/womiv/status/2115539003407802653",
+     "title": "lol, for decades Ghana complained about unfair returns from western mining firms, in > 5 years Chinese mercenary miners came into the indust",
+     "description": "lol, for decades Ghana complained about unfair returns from western mining firms, in > 5 years Chinese mercenary miners came into the industry and Rivers turned from Blue to Brown.",
+     "snippet": "lol, for decades Ghana complained about unfair returns from western mining firms, in > 5 years Chinese mercenary miners came into the industry and Rivers turned from Blue to Brown.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ewoma Vese",
+     "handle": "@womiv"
+    },
+    {
+     "url": "https://x.com/Derrymisa/status/2115717199692489015",
+     "title": "The Chinese are the ones who are enabling themselves to take advantage of everyone.",
+     "description": "The Chinese are the ones who are enabling themselves to take advantage of everyone. They are the definition of neocolonial. That’s why they are in Zimbabwe illegally mining and why they are in Ghana stealing our gold",
+     "snippet": "The Chinese are the ones who are enabling themselves to take advantage of everyone. They are the definition of neocolonial. That’s why they are in Zimbabwe illegally mining and why they are in Ghana stealing our gold",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Derry misa",
+     "handle": "@Derrymisa"
+    },
+    {
+     "url": "https://x.com/deeplyuncut/status/2116110469941366874",
+     "title": "Ghana has its own corruption issues and we need to work on them.",
+     "description": "Ghana has its own corruption issues and we need to work on them. Galamsey isn't going to get solved by itself. We need to demand accountability from the chinese companies who are profiting off of it",
+     "snippet": "Ghana has its own corruption issues and we need to work on them. Galamsey isn't going to get solved by itself. We need to demand accountability from the chinese companies who are profiting off of it",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "tagged uncut✌🏽",
+     "handle": "@deeplyuncut"
+    },
+    {
+     "url": "https://x.com/Cruickshankjkj/status/2116057914146181501",
+     "title": "ghana will never be relevant if we allow ourselves to be so easily taken advantage of.",
+     "description": "ghana will never be relevant if we allow ourselves to be so easily taken advantage of. That's why we need to stand up against galamsey and all the chinese companies that are taking advantage of us",
+     "snippet": "ghana will never be relevant if we allow ourselves to be so easily taken advantage of. That's why we need to stand up against galamsey and all the chinese companies that are taking advantage of us",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CruickshankMaye",
+     "handle": "@Cruickshankjkj"
+    },
+    {
+     "url": "https://x.com/Derrymisa/status/2116115395228631393",
+     "title": "Good. Hopefully this will deter galamseyers from trying to mine in Ghana. We don't need any more destruction of our cocoa farms or poisoning",
+     "description": "Good. Hopefully this will deter galamseyers from trying to mine in Ghana. We don't need any more destruction of our cocoa farms or poisoning of our water https://www.aspistrategist.org.au/as-chinese-organised-crime-expands-in-africa-so-does-chinas-policing-footprint/",
+     "snippet": "Good. Hopefully this will deter galamseyers from trying to mine in Ghana. We don't need any more destruction of our cocoa farms or poisoning of our water https://www.aspistrategist.org.au/as-chinese-organised-crime-expands-in-africa-so-does-chinas-policing-footprint/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Derry misa",
+     "handle": "@Derrymisa"
+    }
+   ]
+  }
+ ]
+}

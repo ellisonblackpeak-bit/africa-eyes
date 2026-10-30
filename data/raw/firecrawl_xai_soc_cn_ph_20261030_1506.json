@@ -1,0 +1,76 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/tribunephl/status/2115644562534261194",
+     "title": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID The Philippine government owns the country's electricity transmission infrastructure, b",
+     "description": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID\n\nThe Philippine government owns the country's electricity transmission infrastructure, but the private company operating it, the National Grid Corporation of the Philippines (#NGCP), is 40 percent owned by China's state-owned State Grid Corporation.\n\nThat means the Chinese government holds a substantial stake in the company responsible for transmitting electricity across the Philippines, even as tensions between Manila and Beijing persist in the West Philippine Sea.\n\nNGCP maintains that Filipino engineers operate the grid, and there is no established evidence that China possesses a secret mechanism to shut it down.\n\nBut the ownership arrangement raises a national security question: Should a foreign government with which the Philippines has an ongoing territorial dispute own part of the company operating its electricity transmission network?\n\n#dailytribune",
+     "snippet": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID\n\nThe Philippine government owns the country's electricity transmission infrastructure, but the private company operating it, the National Grid Corporation of the Philippines (#NGCP), is 40 percent owned by China's state-owned State Grid Corporation.\n\nThat means the Chinese government holds a substantial stake in the company responsible for transmitting electricity across the Philippines, even as tensions between Manila and Beijing persist in the West Philippine Sea.\n\nNGCP maintains that Filipino engineers operate the grid, and there is no established evidence that China possesses a secret mechanism to shut it down.\n\nBut the ownership arrangement raises a national security question: Should a foreign government with which the Philippines has an ongoing territorial dispute own part of the company operating its electricity transmission network?\n\n#dailytribune",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Daily Tribune",
+     "handle": "@tribunephl"
+    },
+    {
+     "url": "https://x.com/BrandonHall1977/status/2116155208992473564",
+     "title": "AWSOME MORE STRONG BRAVE PRESIDENTS LIKE THIS IN THE PACIFIC.",
+     "description": "AWSOME MORE STRONG BRAVE PRESIDENTS LIKE THIS IN THE PACIFIC. TO HELP TAIWAN N KEEP THE CCP AT BAY\nPhilippine Defense Secretary Gilberto Teodoro said October 30 he was open to running for president in 2028, telling Bloomberg, “If I have the opportunity, maybe.”\n\nHe urged the next government to scrutinize Chinese investment in critical infrastructure, citing the Philippines’ disputes with an “aggressive neighbor.”\nhttps://t.co/JpNJrprepL",
+     "snippet": "AWSOME MORE STRONG BRAVE PRESIDENTS LIKE THIS IN THE PACIFIC. TO HELP TAIWAN N KEEP THE CCP AT BAY\nPhilippine Defense Secretary Gilberto Teodoro said October 30 he was open to running for president in 2028, telling Bloomberg, “If I have the opportunity, maybe.”\n\nHe urged the next government to scrutinize Chinese investment in critical infrastructure, citing the Philippines’ disputes with an “aggressive neighbor.”\nhttps://t.co/JpNJrprepL",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Brandon Hall",
+     "handle": "@BrandonHall1977"
+    },
+    {
+     "url": "https://x.com/ManiRanShinbun/status/2116138771855085649",
+     "title": "フィリピンの政府系ファンドを運用するマハルリカ投資公社(MIC)は、Synergy Grid & Development Philippines(SGP)の株式20%を取得する計画を棚上げした。",
+     "description": "フィリピンの政府系ファンドを運用するマハルリカ投資公社(MIC)は、Synergy Grid & Development Philippines(SGP)の株式20%を取得する計画を棚上げした。戦略上の優先順位が変わったためという。\n\nSGPは開示で「MICは現在の戦略方針を理由に、当面は取引を進めないと決め、SGPの株主に伝えた」と明らかにし、先に報じられていた内容を認めた。そのうえで、今回の決定はSGPの資本構成や財務状況、事業・業務に影響せず、全国の送電網を運営するフィリピン送電公社(NGCP)の業務やサービス提供にも影響はないと説明した。\n\nMICは2025年1月に、SGP株20%の取得計画を発表していた。SGPは子会社を通じてNGCPの議決権の計60%を握り、残る40%はState Grid Corporation of Chinaが持つ。\n\n出資が実現していれば、MICはSGPとNGCPでそれぞれ取締役2人を出し、政府が送電網に関わる取締役会レベルの意思決定に加わることになっていた。",
+     "snippet": "フィリピンの政府系ファンドを運用するマハルリカ投資公社(MIC)は、Synergy Grid & Development Philippines(SGP)の株式20%を取得する計画を棚上げした。戦略上の優先順位が変わったためという。\n\nSGPは開示で「MICは現在の戦略方針を理由に、当面は取引を進めないと決め、SGPの株主に伝えた」と明らかにし、先に報じられていた内容を認めた。そのうえで、今回の決定はSGPの資本構成や財務状況、事業・業務に影響せず、全国の送電網を運営するフィリピン送電公社(NGCP)の業務やサービス提供にも影響はないと説明した。\n\nMICは2025年1月に、SGP株20%の取得計画を発表していた。SGPは子会社を通じてNGCPの議決権の計60%を握り、残る40%はState Grid Corporation of Chinaが持つ。\n\n出資が実現していれば、MICはSGPとNGCPでそれぞれ取締役2人を出し、政府が送電網に関わる取締役会レベルの意思決定に加わることになっていた。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "まにらン新聞",
+     "handle": "@ManiRanShinbun"
+    },
+    {
+     "url": "https://x.com/contextdotph/status/2115619627640205811",
+     "title": "Mingyang Group is weighing investments in Philippine ports, floating platforms and wind turbine manufacturing as it looks to turn the countr",
+     "description": "Mingyang Group is weighing investments in Philippine ports, floating platforms and wind turbine manufacturing as it looks to turn the country from an equipment market into a potential offshore wind production base.\n\nhttps://context.ph/2026/10/29/mingyang-weighs-philippine-base-for-offshore-wind/",
+     "snippet": "Mingyang Group is weighing investments in Philippine ports, floating platforms and wind turbine manufacturing as it looks to turn the country from an equipment market into a potential offshore wind production base.\n\nhttps://context.ph/2026/10/29/mingyang-weighs-philippine-base-for-offshore-wind/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Context.ph",
+     "handle": "@contextdotph"
+    },
+    {
+     "url": "https://x.com/PortCalls/status/2115401263357813083",
+     "title": "𝐂𝐇𝐈𝐍𝐀’𝐒 𝐌𝐈𝐍𝐆𝐘𝐀𝐍𝐆 𝐄𝐘𝐄𝐒 𝐏𝐇 𝐏𝐎𝐑𝐓, 𝐓𝐔𝐑𝐁𝐈𝐍𝐄 𝐏𝐋𝐀𝐍𝐓 𝐅𝐎𝐑 𝐎𝐅𝐅𝐒𝐇𝐎𝐑𝐄 𝐖𝐈𝐍𝐃 China’s Mingyang eyes Philippine #ports and a turbine plant for offshore wind.",
+     "description": "𝐂𝐇𝐈𝐍𝐀’𝐒 𝐌𝐈𝐍𝐆𝐘𝐀𝐍𝐆 𝐄𝐘𝐄𝐒 𝐏𝐇 𝐏𝐎𝐑𝐓, 𝐓𝐔𝐑𝐁𝐈𝐍𝐄 𝐏𝐋𝐀𝐍𝐓 𝐅𝐎𝐑 𝐎𝐅𝐅𝐒𝐇𝐎𝐑𝐄 𝐖𝐈𝐍𝐃\n\nChina’s Mingyang eyes Philippine #ports and a turbine plant for offshore wind.\n\nhttps://portcalls.com/chinas-mingyang-eyes-ph-port-turbine-plant-for-offshore-wind/",
+     "snippet": "𝐂𝐇𝐈𝐍𝐀’𝐒 𝐌𝐈𝐍𝐆𝐘𝐀𝐍𝐆 𝐄𝐘𝐄𝐒 𝐏𝐇 𝐏𝐎𝐑𝐓, 𝐓𝐔𝐑𝐁𝐈𝐍𝐄 𝐏𝐋𝐀𝐍𝐓 𝐅𝐎𝐑 𝐎𝐅𝐅𝐒𝐇𝐎𝐑𝐄 𝐖𝐈𝐍𝐃\n\nChina’s Mingyang eyes Philippine #ports and a turbine plant for offshore wind.\n\nhttps://portcalls.com/chinas-mingyang-eyes-ph-port-turbine-plant-for-offshore-wind/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "PortCalls",
+     "handle": "@PortCalls"
+    },
+    {
+     "url": "https://x.com/jdtabile/status/2115304137055465573",
+     "title": "China’s Mingyang Group is exploring investments in port development and offshore wind turbine manufacturing in the Philippines, the Departme",
+     "description": "China’s Mingyang Group is exploring investments in port development and offshore wind turbine manufacturing in the Philippines, the Department of Finance said. │ @bworldph \n📷: @dofgovph",
+     "snippet": "China’s Mingyang Group is exploring investments in port development and offshore wind turbine manufacturing in the Philippines, the Department of Finance said. │ @bworldph \n📷: @dofgovph",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Justine Irish Tabile",
+     "handle": "@jdtabile"
+    }
+   ]
+  }
+ ]
+}

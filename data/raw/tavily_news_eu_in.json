@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "India and Europe accelerate trade ties - Brussels Signal",
+   "url": "https://brusselssignal.eu/2026/10/india-and-europe-accelerate-trade-ties-but-investment-remains-the-big-unknown",
+   "snippet": "The economic figures explain the interest.\n\nAccording to Eurostat data published by the Council of the EU, merchandise trade between India and the EU-27 reached €118 billion in 2025. Europe imported €69.5 billion worth of Indian goods and exported €48.9 billion, resulting in a trade deficit of €20.6 billion. That made the EU India’s second-largest trading partner in goods, behind the United States",
+   "published": "Thu, 29 Oct 2026 08:14:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India's Modi to sign EU trade deal in Brussels in December - Latest News",
+   "url": "https://www.hurriyetdailynews.com/indias-modi-to-sign-eu-trade-deal-in-brussels-in-december-228792",
+   "snippet": "The EU and India closed negotiations for a huge trade pact to create a market of two billion people earlier this year, but the accord is yet to be formally signed.\n\n\"Prime Minister Modi will come in December to sign the deal,\" European Council President Costa told an event on Oct. 29organised by the Montreal Council on Foreign Relations in the Canadian city.\n\nModi's visit is expected to take place",
+   "published": "Fri, 30 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tusk's visit to India: a new opening in the country's relationship with Central and Eastern Europe - New Eastern Europe",
+   "url": "https://neweasterneurope.eu/2026/10/28/tusks-visit-to-india-a-new-opening-in-the-countrys-relationship-with-central-and-eastern-europe",
+   "snippet": "Tusk’s visit builds on the strategic partnership established in August 2024 during Narendra Modi’s trip to Warsaw, which produced a mix of concrete and symbolic results. The two sides set a target to double bilateral trade by 2030. It currently stands at about 6 billion dollars. The two agreed to launch a dialogue about their defence industry, and discussed cooperation in artificial intelligence, ",
+   "published": "Wed, 28 Oct 2026 12:27:37 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_in",
  "_query": "EU India trade",
  "_domains": [],
