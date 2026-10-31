@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SahelAlerte/status/2116510945178533961",
+     "title": "🔴 MALI 🇲🇱 | 💥 SIKASSO FRAPPÉE DEUX FOIS EN TROIS JOURS : LE JNIM INSTALLE LA GUERRE DES AXES JUSQU'AU SUD DU PAYS Entre le 23 et le 30 octob",
+     "description": "🔴 MALI 🇲🇱 | 💥 SIKASSO FRAPPÉE DEUX FOIS EN TROIS JOURS : LE JNIM INSTALLE LA GUERRE DES AXES JUSQU'AU SUD DU PAYS\n\nEntre le 23 et le 30 octobre 2026, sept incidents distincts ont visé les FAMa et leurs partenaires d'Africa Corps. Le 23 : embuscade du JNIM contre une patrouille à Sikasso, dans la soirée. Le 24 : embuscade contre une patrouille à Diabaly. Le 25 : attaque à l'engin explosif improvisé contre un convoi entre Héremakono et Sikasso. Le 28 : attaque à l'IED du JNIM contre un poste de l'armée à Nampala. Le 29 : IED contre un véhicule FAMa et Africa Corps entre Mourdiah et Kwala, et revendication du FLA contre le camp FAMa et Africa Corps de Léré, dans la région de Tombouctou. Le 30 : IED contre un véhicule des FAMa entre Zangossou et Bourasso. [1]\n\nTrois constats ressortent de cette séquence. Le premier est le mode opératoire : quatre incidents sur sept sont des attaques à l'IED, deux sont des embuscades, un est une revendication d'attaque de camp. Le JNIM et le FLA frappent ici les déplacements, bien plus que les garnisons. Le deuxième est la géographie. Sikasso est touché deux fois en trois jours (23 et 25 octobre), alors que le sud du Mali restait à l'écart des principaux fronts. Les autres incidents se répartissent entre le centre-ouest (Diabaly, Nampala, Mourdiah-Kwala) et le nord-ouest (Léré). Le troisième est la présence de deux acteurs : le JNIM est mis en cause pour Sikasso et Nampala, le FLA revendique Léré, un mois après le repli de Kidal.\n\nLes sources ne donnent aucun bilan humain pour ces sept incidents. Ce vide a lui-même un sens : après Dioura, Sévaré et le silence de l'État-Major sur ses pertes, l'absence de chiffres ne permet pas de conclure à l'absence de victimes. Pour les familles des soldats, les convois se déplacent désormais sur des axes où chaque trajet comporte un risque d'IED. L'État-Major avait annoncé, après Kidal, la reprise du contrôle du nord. Ces incidents montrent que la route entre les villes reste, elle, contestée.\n\nPar Djabire Marwan Ouédraogo | Dans l'œil de DMO©",
+     "snippet": "🔴 MALI 🇲🇱 | 💥 SIKASSO FRAPPÉE DEUX FOIS EN TROIS JOURS : LE JNIM INSTALLE LA GUERRE DES AXES JUSQU'AU SUD DU PAYS\n\nEntre le 23 et le 30 octobre 2026, sept incidents distincts ont visé les FAMa et leurs partenaires d'Africa Corps. Le 23 : embuscade du JNIM contre une patrouille à Sikasso, dans la soirée. Le 24 : embuscade contre une patrouille à Diabaly. Le 25 : attaque à l'engin explosif improvisé contre un convoi entre Héremakono et Sikasso. Le 28 : attaque à l'IED du JNIM contre un poste de l'armée à Nampala. Le 29 : IED contre un véhicule FAMa et Africa Corps entre Mourdiah et Kwala, et revendication du FLA contre le camp FAMa et Africa Corps de Léré, dans la région de Tombouctou. Le 30 : IED contre un véhicule des FAMa entre Zangossou et Bourasso. [1]\n\nTrois constats ressortent de cette séquence. Le premier est le mode opératoire : quatre incidents sur sept sont des attaques à l'IED, deux sont des embuscades, un est une revendication d'attaque de camp. Le JNIM et le FLA frappent ici les déplacements, bien plus que les garnisons. Le deuxième est la géographie. Sikasso est touché deux fois en trois jours (23 et 25 octobre), alors que le sud du Mali restait à l'écart des principaux fronts. Les autres incidents se répartissent entre le centre-ouest (Diabaly, Nampala, Mourdiah-Kwala) et le nord-ouest (Léré). Le troisième est la présence de deux acteurs : le JNIM est mis en cause pour Sikasso et Nampala, le FLA revendique Léré, un mois après le repli de Kidal.\n\nLes sources ne donnent aucun bilan humain pour ces sept incidents. Ce vide a lui-même un sens : après Dioura, Sévaré et le silence de l'État-Major sur ses pertes, l'absence de chiffres ne permet pas de conclure à l'absence de victimes. Pour les familles des soldats, les convois se déplacent désormais sur des axes où chaque trajet comporte un risque d'IED. L'État-Major avait annoncé, après Kidal, la reprise du contrôle du nord. Ces incidents montrent que la route entre les villes reste, elle, contestée.\n\nPar Djabire Marwan Ouédraogo | Dans l'œil de DMO©",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/Wamaps_news/status/2115825484479254957",
+     "title": "BURKINA FASO 🇧🇫 | Après avoir revendiqué hier matin une attaque contre un poste de VDP à Niamana (voir post en citation), le JNIM a revendiq",
+     "description": "BURKINA FASO 🇧🇫 |\nAprès avoir revendiqué hier matin une attaque contre un poste de VDP à Niamana (voir post en citation), le JNIM a revendiqué 4 autres attaques dans le pays (voir carte 🗺️ ci-dessous) :\n\n- La prise de contrôle d’un poste VDP à Namsiguia (Région de Kaya), le matin du 28/10.\n\n- La prise de contrôle d’un poste de l’armée burkinabè à Bilanga (région de Fada N’Gourma), le matin du 28/10.\n\n- La prise de contrôle d’un poste VDP à Mantou (région de Fada N’Gourma), le soir du 28/10.\n\n- La prise de contrôle d’un poste de l’armée burkinabè et VDP à Boussougo (Près de Ouahigouya), le soir du 28/10.\n\nℹ️ Ces 5 revendications en 24 heures illustrent la pression que le JNIM cherche à exercer sur les forces de sécurité burkinabè, malgré les violents affrontements récemment signalés avec l’EIS dans le pays.\n\n⚠️ Au Mali, le JNIM a également revendiqué 2 attaques ce 29 octobre :\n- Un engin explosif visant un poste des FAMa à Nampala (Région de Ségou)\n- Un IED visant l’Africa Corps 🇷🇺et les FAMa entre Mourdia et Kouala (Région de Koulikoro)",
+     "snippet": "BURKINA FASO 🇧🇫 |\nAprès avoir revendiqué hier matin une attaque contre un poste de VDP à Niamana (voir post en citation), le JNIM a revendiqué 4 autres attaques dans le pays (voir carte 🗺️ ci-dessous) :\n\n- La prise de contrôle d’un poste VDP à Namsiguia (Région de Kaya), le matin du 28/10.\n\n- La prise de contrôle d’un poste de l’armée burkinabè à Bilanga (région de Fada N’Gourma), le matin du 28/10.\n\n- La prise de contrôle d’un poste VDP à Mantou (région de Fada N’Gourma), le soir du 28/10.\n\n- La prise de contrôle d’un poste de l’armée burkinabè et VDP à Boussougo (Près de Ouahigouya), le soir du 28/10.\n\nℹ️ Ces 5 revendications en 24 heures illustrent la pression que le JNIM cherche à exercer sur les forces de sécurité burkinabè, malgré les violents affrontements récemment signalés avec l’EIS dans le pays.\n\n⚠️ Au Mali, le JNIM a également revendiqué 2 attaques ce 29 octobre :\n- Un engin explosif visant un poste des FAMa à Nampala (Région de Ségou)\n- Un IED visant l’Africa Corps 🇷🇺et les FAMa entre Mourdia et Kouala (Région de Koulikoro)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wamaps",
+     "handle": "@Wamaps_news"
+    },
+    {
+     "url": "https://x.com/sputnik_afrique/status/2116511094545973384",
+     "title": "Moscou alerte régulièrement l’Onu sur le soutien extérieur aux groupes terroristes en Afrique de l'Ouest Dans un entretien avec Sputnik, Ann",
+     "description": "Moscou alerte régulièrement l’Onu sur le soutien extérieur aux groupes terroristes en Afrique de l'Ouest\n \nDans un entretien avec Sputnik, Anna Evstigneïeva, représentante russe à l'Onu, pointe directement une coopération de la France et de l'Ukraine avec les groupes armés au Sahel:\n \n\"Grâce à leur aide, les terroristes du Groupe de soutien à l'islam et aux musulmans (JNIM, lié à Al-Qaïda*) et du Front de libération de l'Azawad ont mené, en avril, une attaque contre Bamako et les plus grandes villes du Mali.\"\n \n📹 Vidéo tirée des réseaux sociaux: des camions attaqués par le JNIM* près de Bamako.\n\n*Organisation terroriste interdite en Russie",
+     "snippet": "Moscou alerte régulièrement l’Onu sur le soutien extérieur aux groupes terroristes en Afrique de l'Ouest\n \nDans un entretien avec Sputnik, Anna Evstigneïeva, représentante russe à l'Onu, pointe directement une coopération de la France et de l'Ukraine avec les groupes armés au Sahel:\n \n\"Grâce à leur aide, les terroristes du Groupe de soutien à l'islam et aux musulmans (JNIM, lié à Al-Qaïda*) et du Front de libération de l'Azawad ont mené, en avril, une attaque contre Bamako et les plus grandes villes du Mali.\"\n \n📹 Vidéo tirée des réseaux sociaux: des camions attaqués par le JNIM* près de Bamako.\n\n*Organisation terroriste interdite en Russie",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sputnik Afrique",
+     "handle": "@sputnik_afrique"
+    },
+    {
+     "url": "https://x.com/SahelAlerte/status/2116112316542439607",
+     "title": "🚨 URGENT | MALI 🇲🇱 Le JNIM affirme avoir ciblé, à l’aide d’un engin explosif improvisé (EEI), un véhicule de l’armée malienne entre les loca",
+     "description": "🚨 URGENT | MALI 🇲🇱\n\nLe JNIM affirme avoir ciblé, à l’aide d’un engin explosif improvisé (EEI), un véhicule de l’armée malienne entre les localités de Parasi et Zangasso, dans la région de Koutiala, ce vendredi 30 octobre 2026 au matin.\n\nIl s’agit de la première fois que le groupe mentionne Koutiala comme une région distincte, alors qu’il la rattachait auparavant à la région de Sikasso.",
+     "snippet": "🚨 URGENT | MALI 🇲🇱\n\nLe JNIM affirme avoir ciblé, à l’aide d’un engin explosif improvisé (EEI), un véhicule de l’armée malienne entre les localités de Parasi et Zangasso, dans la région de Koutiala, ce vendredi 30 octobre 2026 au matin.\n\nIl s’agit de la première fois que le groupe mentionne Koutiala comme une région distincte, alors qu’il la rattachait auparavant à la région de Sikasso.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2116476169415540949",
+     "title": "Samedi noir au Mali : Des terroristes neutralisés dans la région de Mopti Plusieurs terroristes membres de milices pro-Goita, ont été neutra",
+     "description": "Samedi noir au Mali : Des terroristes neutralisés dans la région de Mopti\n\nPlusieurs terroristes membres de milices pro-Goita, ont été neutralisés dans la matinée de ce Samedi 31 Octobre à Bayman, dans la région de Mopti au Mali lors d'une attaque revendiquée par le JNIM.\n\nLe mouvement djihadiste affirme par ailleurs, avoir pris le contrôle de la position millions qu'occupait ces miliciens Russafricains.",
+     "snippet": "Samedi noir au Mali : Des terroristes neutralisés dans la région de Mopti\n\nPlusieurs terroristes membres de milices pro-Goita, ont été neutralisés dans la matinée de ce Samedi 31 Octobre à Bayman, dans la région de Mopti au Mali lors d'une attaque revendiquée par le JNIM.\n\nLe mouvement djihadiste affirme par ailleurs, avoir pris le contrôle de la position millions qu'occupait ces miliciens Russafricains.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2115861481296183547",
+     "title": "Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) Militants Target a Vehicle of the FAMa/Africa Corps Forces with an Improvised Explosive Device",
+     "description": "Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) Militants Target a Vehicle of the FAMa/Africa Corps Forces with an Improvised Explosive Device (IED) Between Kwala and #Mourdiah, #Koulikoro Region, #Mali  \nhttps://trackingterrorism.org/chatter/jnim-fama-africa-corps-ied-kwala-mourdiah-koulikoro-mali-trac/",
+     "snippet": "Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) Militants Target a Vehicle of the FAMa/Africa Corps Forces with an Improvised Explosive Device (IED) Between Kwala and #Mourdiah, #Koulikoro Region, #Mali  \nhttps://trackingterrorism.org/chatter/jnim-fama-africa-corps-ied-kwala-mourdiah-koulikoro-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2115947428847272028",
+     "title": "Jama’at Nusrat al-Islam wa al-Muslimin (JNIM) Militants Target a Malian Army Post with an Improvised Explosive Device (IEDs), #Nampala, #Ség",
+     "description": "Jama’at Nusrat al-Islam wa al-Muslimin (JNIM) Militants Target a Malian Army Post with an Improvised Explosive Device (IEDs), #Nampala, #Ségou Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-malian-army-post-ied-nampala-segou-region-mali-trac/",
+     "snippet": "Jama’at Nusrat al-Islam wa al-Muslimin (JNIM) Militants Target a Malian Army Post with an Improvised Explosive Device (IEDs), #Nampala, #Ségou Region, #Mali \nhttps://trackingterrorism.org/chatter/jnim-malian-army-post-ied-nampala-segou-region-mali-trac/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/RFIAfrique/status/2115871600000053248",
+     "title": "Au Mali, le village de Sounga, qui appartient à la commune de Mougna, près de Djenné dans la région de Mopti, continue de résister aux jihad",
+     "description": "Au Mali, le village de Sounga, qui appartient à la commune de Mougna, près de Djenné dans la région de Mopti, continue de résister aux jihadistes du Jnim, liés à al-Qaïda. Alors que les villages alentour se sont pliés à la domination des jihadistes, Sounga refuse de se soumettre, provoquant de violents affrontements la semaine dernière entre les jihadistes du Jnim et les chasseurs traditionnels dozos, qui s'efforcent de protéger les populations dans cette partie du territoire où l'armée malienne n'est pas présente.",
+     "snippet": "Au Mali, le village de Sounga, qui appartient à la commune de Mougna, près de Djenné dans la région de Mopti, continue de résister aux jihadistes du Jnim, liés à al-Qaïda. Alors que les villages alentour se sont pliés à la domination des jihadistes, Sounga refuse de se soumettre, provoquant de violents affrontements la semaine dernière entre les jihadistes du Jnim et les chasseurs traditionnels dozos, qui s'efforcent de protéger les populations dans cette partie du territoire où l'armée malienne n'est pas présente.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "RFI Afrique",
+     "handle": "@RFIAfrique"
+    },
+    {
+     "url": "https://x.com/WagnerAmb1W9/status/2115687086674084321",
+     "title": "🌴🇲🇱 The situation on the front lines in Mali is relatively calm.",
+     "description": "🌴🇲🇱 The situation on the front lines in Mali is relatively calm. Everyone is waiting for the government forces to advance on Tine-Zaouatine and Tessalit, but the FAMa (Malian Armed Forces) and its allies are quietly and methodically targeting terrorists from the air. Azawad pastoralists from the FLA (Front for the Liberation of Azawad) are licking their wounds and remain silent, possibly preparing a counter-offensive against Kidal. JNIM* is carrying out its usual disruptive activities on the roads, with no major attacks.\n\n📸 FLA militants at a watering hole somewhere in northern Mali.\n\n*banned\n\nWhite guys in Africa🌴",
+     "snippet": "🌴🇲🇱 The situation on the front lines in Mali is relatively calm. Everyone is waiting for the government forces to advance on Tine-Zaouatine and Tessalit, but the FAMa (Malian Armed Forces) and its allies are quietly and methodically targeting terrorists from the air. Azawad pastoralists from the FLA (Front for the Liberation of Azawad) are licking their wounds and remain silent, possibly preparing a counter-offensive against Kidal. JNIM* is carrying out its usual disruptive activities on the roads, with no major attacks.\n\n📸 FLA militants at a watering hole somewhere in northern Mali.\n\n*banned\n\nWhite guys in Africa🌴",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🎼♠️ Wagner Truth 1W9 🏴‍☠️🇷🇺",
+     "handle": "@WagnerAmb1W9"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2116182726600806510",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 30 October, #JNIM claimed an IED strike on a Malian army vehicle between Barasi and Zangasso, in the #Koutiala",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 30 October, #JNIM claimed an IED strike on a Malian army vehicle between Barasi and Zangasso, in the #Koutiala region, in the morning.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 30 October, #JNIM claimed an IED strike on a Malian army vehicle between Barasi and Zangasso, in the #Koutiala region, in the morning.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    }
+   ]
+  }
+ ]
+}

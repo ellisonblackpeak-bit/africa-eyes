@@ -1,0 +1,76 @@
+{
+ "query": "China Vietnam Chinese company railway South China Sea",
+ "_tag": "soc_cn_vn",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/grok/status/2116440719409790996",
+     "title": "China’s neighborhood ties mix disputes with deep economic links.",
+     "description": "China’s neighborhood ties mix disputes with deep economic links. ASEAN is its top trading partner (over $1T). Vietnam expands party and rail cooperation despite South China Sea frictions. South Korea’s relations are warming with high-level visits and strong trade. Japan remains a major partner amid Taiwan tensions. India engages via BRICS while border talks continue. Russia is a close strategic partner; North Korea a traditional ally. Relations are pragmatic, not uniform hostility.",
+     "snippet": "China’s neighborhood ties mix disputes with deep economic links. ASEAN is its top trading partner (over $1T). Vietnam expands party and rail cooperation despite South China Sea frictions. South Korea’s relations are warming with high-level visits and strong trade. Japan remains a major partner amid Taiwan tensions. India engages via BRICS while border talks continue. Russia is a close strategic partner; North Korea a traditional ally. Relations are pragmatic, not uniform hostility.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/qjkkll/status/2116606205095542908",
+     "title": "从越南建高铁要求中国低息贷款并无偿转让技术可以得出结论，没戏，因为越南连基本的道理都不懂，竟然会提出这么无礼的要求。",
+     "description": "从越南建高铁要求中国低息贷款并无偿转让技术可以得出结论，没戏，因为越南连基本的道理都不懂，竟然会提出这么无礼的要求。这就好比中国要求美国无偿把半导体技术全给中国并且要求美国提供资金建立中国的半导体产业一样。能提出这种要求，甚至连小偷都不如，小偷都知道期待别人把关键技术白送是妄想。",
+     "snippet": "从越南建高铁要求中国低息贷款并无偿转让技术可以得出结论，没戏，因为越南连基本的道理都不懂，竟然会提出这么无礼的要求。这就好比中国要求美国无偿把半导体技术全给中国并且要求美国提供资金建立中国的半导体产业一样。能提出这种要求，甚至连小偷都不如，小偷都知道期待别人把关键技术白送是妄想。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "qjkkll",
+     "handle": "@qjkkll"
+    },
+    {
+     "url": "https://x.com/Vince202508/status/2116141510790086854",
+     "title": "中国现在高铁网络把大家紧密连接在一起。越南也应该尽快把南北的高速铁路修通。",
+     "description": "中国现在高铁网络把大家紧密连接在一起。越南也应该尽快把南北的高速铁路修通。",
+     "snippet": "中国现在高铁网络把大家紧密连接在一起。越南也应该尽快把南北的高速铁路修通。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kai | China 🇨🇳",
+     "handle": "@Vince202508"
+    },
+    {
+     "url": "https://x.com/grok/status/2116088525128872279",
+     "title": "中国2026年10月19日公布对盾构机等实施出口管制，11月18日生效。",
+     "description": "中国2026年10月19日公布对盾构机等实施出口管制，11月18日生效。敏感争议地区需许可，其他地区登记并承诺不转售即可。\n\n对印度影响较大：地铁、高铁及边境隧道项目依赖进口设备，可能面临供应延迟或成本上升。印方内部正与业界商讨，加速推进国产化激励计划，暂无正式官方抗议声明。\n\n对越南：河内地铁项目需求大，但非敏感地区，合规出口仍可进行。目前未见越南官方回应。",
+     "snippet": "中国2026年10月19日公布对盾构机等实施出口管制，11月18日生效。敏感争议地区需许可，其他地区登记并承诺不转售即可。\n\n对印度影响较大：地铁、高铁及边境隧道项目依赖进口设备，可能面临供应延迟或成本上升。印方内部正与业界商讨，加速推进国产化激励计划，暂无正式官方抗议声明。\n\n对越南：河内地铁项目需求大，但非敏感地区，合规出口仍可进行。目前未见越南官方回应。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/trustgoodthing/status/2115974735024787472",
+     "title": "Vấn đề đường sắt gọi là tốc độ cao thì tiền đâu xây và ai xây???",
+     "description": "Vấn đề đường sắt gọi là tốc độ cao thì tiền đâu xây và ai xây???\nTiền thuế dân: tiêu không lo, hết thì tăng thuế, phạt cho chết dân\nCty xây là cty trung quốc, nó làm sai nhưng nó lót tay nhiều và kiện nó không được. Cha chú ní bắt đám pắc pí phải chọn nó",
+     "snippet": "Vấn đề đường sắt gọi là tốc độ cao thì tiền đâu xây và ai xây???\nTiền thuế dân: tiêu không lo, hết thì tăng thuế, phạt cho chết dân\nCty xây là cty trung quốc, nó làm sai nhưng nó lót tay nhiều và kiện nó không được. Cha chú ní bắt đám pắc pí phải chọn nó",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "chthuan",
+     "handle": "@trustgoodthing"
+    },
+    {
+     "url": "https://x.com/grok/status/2116219314911010963",
+     "title": "The difference is the two dashes the PRC removed from the 1947 ROC 11-dash line in the early 1950s.",
+     "description": "The difference is the two dashes the PRC removed from the 1947 ROC 11-dash line in the early 1950s. Those segments were in the Gulf of Tonkin. \n\nThat area is now delimited by the 2000 China-Vietnam maritime boundary agreement (in force 2004). Control is split roughly 47% China / 53% Vietnam under the treaty; neither side claims exclusive control of the whole difference, and Taiwan has no presence there.",
+     "snippet": "The difference is the two dashes the PRC removed from the 1947 ROC 11-dash line in the early 1950s. Those segments were in the Gulf of Tonkin. \n\nThat area is now delimited by the 2000 China-Vietnam maritime boundary agreement (in force 2004). Control is split roughly 47% China / 53% Vietnam under the treaty; neither side claims exclusive control of the whole difference, and Taiwan has no presence there.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
+   "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
+   "content": "Around 320,000 protesters took part in a third mass protest over living costs across France on Saturday, the interior ministry estimated, while organizers counted nearly half a million. Tensions flared ​at the end of marches in ​some cities but authorities reported that most demonstrations were largely peaceful.",
+   "published_date": "Sat, 31 Oct 2026 21:34:15 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Gen Z' demonstrations across Germany demand more education funding",
+   "url": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos",
+   "content": "Police and protesters clashed Saturday in Germany, where tens of thousands of young people took to the streets, inspired by similar movements in other European countries. At the call of a collective called \"GenZ regelt!\" (\"Gen Z has got this!\"), protesters formed marches across the country to demand more funding for education and to protest the high cost of living.",
+   "published_date": "Sat, 31 Oct 2026 20:07:52 GMT",
+   "score": 0.6
+  },
+  {
    "title": "🔴Senegal kicks off Africa's first ever Olympics with Youth Games",
    "url": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
    "content": "",
@@ -135,9 +149,9 @@
    "score": 0.6
   },
   {
-   "title": "Live: Interior minister says protests across France went well despite clashes with police",
+   "title": "Interior minister says protests across France went well despite clashes with police",
    "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "content": "France's Interior Minister Laurent Nuñez said on Saturday that demonstrations across the country were largely peaceful, despite what he called an \"extraordinary\" level of violence from some groups of rioters, blaming far-left extremist groups for attacks on security forces. Around 320,000 protesters took part in demonstrations across France on Saturday, the interior ministry estimated, while youth unions counted nearly half a million. Follow our live blog for all the latest updates.",
+   "content": "France's Interior Minister Laurent Nuñez said on Saturday that demonstrations across the country were largely peaceful, despite what he called an \"extraordinary\" level of violence from some groups of rioters. Around 320,000 protesters took part in demonstrations across France on Saturday, the interior ministry estimated, while youth unions counted nearly half a million. Read about the day’s events as they unfolded on our liveblog.",
    "published_date": "Sat, 31 Oct 2026 05:53:27 GMT",
    "score": 0.6
   },
@@ -153,20 +167,6 @@
    "url": "https://www.france24.com/en/americas/20261030-trump-admin-approves-potential-patriot-missiles-sale-to-ukraine",
    "content": "",
    "published_date": "Fri, 30 Oct 2026 23:19:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "First Youth Olympic Games in Africa",
-   "url": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
-   "content": "In tonight's show, the Senegalese capital is hosting the first Olympic event ever held in Africa, welcoming nearly 2,700 athletes for the 2026 Youth Olympic Games. Also, South Africa’s local elections are set for November 4, with the African National Congress facing growing pressure over its record in local government. And finally we are joined by Muse L'Artiste who's reconnecting to her roots with her latest EP Heritage bringing her father's compositions back to life.",
-   "published_date": "Fri, 30 Oct 2026 21:48:20 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Residents leave Russian-occupied Oleshky in evacuation operation",
-   "url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
-   "content": "Residents evacuated from the Russian-occupied Ukrainian town of Oleshky have left for Russia's Anapa city with a Ukrainian delegation, senior official David Arakhamia said Friday. They are expected to fly to Belarus before returning to Ukraine by bus, during a rare ceasefire brokered by the United States.",
-   "published_date": "Fri, 30 Oct 2026 21:46:29 GMT",
    "score": 0.6
   }
  ],
