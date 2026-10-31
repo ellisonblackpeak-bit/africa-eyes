@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Ghanaian teenager, 15, shot dead near New York school | Africanews",
+   "url": "https://www.africanews.com/2026/10/30/ghanaian-teenager-15-shot-dead-near-new-york-school",
+   "snippet": "### Fuel shortages push Malawians into endless queues and rising costs\n\n### Senegal gears up for a historic Dakar 2026 Youth Olympics\n\n### France and Chad resume military cooperation as they mend ties\n\n### Indonesia: nine orangutans rescued from wildfires return to the forest\n\n### Advertising\n\n#### News\n\nnews\n\n# Ghanaian teenager, 15, shot dead near New York school\n\nGhanaian teenager, 15, shot dea",
+   "published": "Fri, 30 Oct 2026 13:37:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Teen boy from Ghana chased and fatally shot on way to school in New York City",
+   "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
+   "snippet": "Javits Frimpong, 15, was being bullied at school before he was shot and killed in the Bronx on Thursday, his father says.",
+   "published": "Fri, 30 Oct 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "New film reveals unseen footage of Ghana’s independence – NBC4 Washington",
+   "url": "https://www.nbcwashington.com/video/news/local/new-film-reveals-unseen-footage-of-ghanas-independence/4172974",
+   "snippet": "Skip to content\n\nNBC4 Washington\n\nWatch 24/7 \n\nCreate profile / Log in\n\nDashboard\n\nEmail preferences\n\nSign out\n\nTrending\n🗳️ Early voting 🏈 Commanders 🌡️ Forecast 🔍 4 More Context 👂 All Ears Find Help 📨 NBC4 Newsletters 📺 Watch 24/7 Our News Standards\n\n### News\n\nNews updates for Washington, D.C., Maryland and Virginia\n\n# New film reveals unseen footage of Ghana's independence\n\nNBC4 Washington\n\nCrea",
+   "published": "Wed, 28 Oct 2026 00:06:12 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gh_extra",
  "_query": "Ghana latest news",
  "_domains": [],

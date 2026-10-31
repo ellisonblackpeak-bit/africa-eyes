@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Trump admin approves potential Patriot missiles sale to Ukraine",
+   "url": "https://www.rapporteur.com/news/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/",
+   "content": "Zelenskyy warns deliveries could take years despite US approval of 500 Patriot missiles",
+   "published_date": "Sat, 31 Oct 2026 07:13:16 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Why Europe is becoming more Belgian",
+   "url": "https://www.rapporteur.com/news/why-europe-is-becoming-more-belgian/",
+   "content": "Surprisingly, this might be more of a blessing than a curse",
+   "published_date": "Sat, 31 Oct 2026 06:55:56 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Polish riot police deployed after court chief suspended",
    "url": "https://www.rapporteur.com/news/polish-riot-police-deployed-after-court-chief-suspended/",
    "content": "The court frequently ruled in favour of Polish legislation over European Union law",
@@ -195,20 +209,6 @@
    "url": "https://www.rapporteur.com/news/big-tech-main-target-of-koboskos-2-traffic-rule/",
    "content": "Lead Digital Networks Act lawmaker's plan for network interconnection terms could also hit France's Canal+",
    "published_date": "Fri, 30 Oct 2026 03:00:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "INTERVIEW: Austria keen for more EU defence cooperation, procurement",
-   "url": "https://www.rapporteur.com/news/interview-austria-keen-for-more-eu-defence-cooperation-procurement/",
-   "content": "The neutral country however called for a more practical rather than institutional approach",
-   "published_date": "Fri, 30 Oct 2026 03:00:48 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "INTERVIEW: GEOSAT chief warns of Europe’s space dependencies",
-   "url": "https://www.rapporteur.com/news/interview-geosat-chief-warns-of-europes-space-dependencies/",
-   "content": "From Starlink disruptions to GPS jamming, Ukraine's war has exposed Europe's space vulnerabilities",
-   "published_date": "Fri, 30 Oct 2026 03:00:18 +0000",
    "score": 0.6
   }
  ],

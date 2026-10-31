@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
+   "snippet": "The growing presence of Chinese investors is already visible in Vietnam's industrial parks, where Chinese manufacturers are bringing businesses that lie along their supply chains.  \n  \nBui The Long, general manager of Vietnam's Green i-Park Corp, told the Global Times at Tuesday's event that the company's industrial park has 36 Chinese investors, mainly operating in electronics and electrical appl",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "“Eroding Tariff Advantages and Manufacturing Constraints”: China Diversification Through Southeast Asia Under Strain, With Key Manufacturing Hubs’ Capabilities a Decisive Factor | Policy News — The Economy",
+   "url": "https://economy.ac/news/2026/10/202610295763",
+   "snippet": "China rose, Vietnam absorbed demand for expanded production facilities from Samsung Electronics and Apple suppliers Foxconn and Luxshare, emerging as one of the biggest beneficiaries of the “China plus one” (China+1) strategy. According to the Vietnamese government, registered foreign direct investment (FDI) reached $38.23 billion in 2024, with manufacturing and processing accounting for $25.58 bi",
+   "published": "Wed, 28 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Solidigm Seeks US Approval to Upgrade China Plant Before $45 Billion Investment - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/solidigm-dangles-new-45-billion-us-plant-to-upgrade-china-site",
+   "snippet": "EXCLUSIVE\n\n# Solidigm Dangles New $45 Billion US Plant to Upgrade China Site\n\n## Takeaways by Bloomberg AI\n\nSolidigm Inc., an American subsidiary of the South Korean memory-chip maker SK Hynix Inc., is in talks with the US Commerce Department to invest $45 billion in a new US chip plant, according to people familiar with the negotiations. [...] Before it decides to move ahead with what would be th",
+   "published": "Tue, 27 Oct 2026 15:18:29 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],

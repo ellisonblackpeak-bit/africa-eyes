@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Me ya rage wa Najeriya wajen kafa ƴansandan jihohi?",
-   "url": "https://www.bbc.com/hausa/articles/cm3wv2n7dvwyo?at_medium=RSS&at_campaign=rss",
-   "content": "A wannan mako ne shugaban majalisar dattawan ƙasar, Sanata Godswill Akpabio ya ce majalisun dokokin jihohi 30 ne suka amince da ƙudirin.",
-   "published_date": "Sat, 31 Oct 2026 03:52:59 GMT",
+   "title": "Tsohon shugaban leƙen asirin Isra’ila ya bayyana dabarun da aka yi amfani da su a Iran",
+   "url": "https://www.bbc.com/hausa/articles/cmy0e2qvzxr2o?at_medium=RSS&at_campaign=rss",
+   "content": "A safiyar ranar 13 ga watan Yuni, 2025, yayin da Isra'ila ta fara kai hare-hare kan Iran a yakin kwanaki 12, an fitar da wani bidiyo mai ɗauke da tambarin hukuma na Mossad, wanda ya nuna jami'an hukumar leƙen asirin suna shirin amfani da kayan aikin soji tare da tura su cikin ƙasar Iran.",
+   "published_date": "Sat, 31 Oct 2026 03:53:42 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Idan Amurka ta kai mana hari, yaƙin zai faɗaɗa zuwa wasu yankuna - Iran",
+   "url": "https://www.bbc.co.uk/hausa/live/cmn8wpe75p6gt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 31/10/2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -16,14 +23,14 @@
    "score": 0.6
   },
   {
-   "title": "Tsohon shugaban Mossad ya bayyana dabarun da Isra'ila ta yi amfani da su a Iran",
-   "url": "https://www.bbc.com/hausa/articles/cmy0e2qvzxr2o?at_medium=RSS&at_campaign=rss",
-   "content": "A safiyar ranar 13 ga watan Yuni, 2025, yayin da Isra'ila ta fara kai hare-hare kan Iran a yakin kwanaki 12, an fitar da wani bidiyo mai ɗauke da tambarin hukuma na Mossad, wanda ya nuna jami'an hukumar leƙen asirin suna shirin amfani da kayan aikin soji tare da tura su cikin ƙasar Iran.",
-   "published_date": "Sat, 31 Oct 2026 03:53:42 GMT",
+   "title": "Me ya rage wa Najeriya wajen kafa ƴansandan jihohi?",
+   "url": "https://www.bbc.com/hausa/articles/cm3wv2n7dvwyo?at_medium=RSS&at_campaign=rss",
+   "content": "A wannan mako ne shugaban majalisar dattawan ƙasar, Sanata Godswill Akpabio ya ce majalisun dokokin jihohi 30 ne suka amince da ƙudirin.",
+   "published_date": "Sat, 31 Oct 2026 03:52:59 GMT",
    "score": 0.6
   },
   {
-   "title": "Munanan haɗurran jiragen sama 7 da suka fi girgiza duniya",
+   "title": "Munanan haɗurran jiragen ƙasa 7 da suka fi girgiza duniya",
    "url": "https://www.bbc.com/hausa/articles/cjr4yp32yez1o?at_medium=RSS&at_campaign=rss",
    "content": "Lokacin da ka hau jirgin ƙasa, abin da kake fata shi ne ka isa inda za ka cikin ƙoshin lafiya. Wataƙila ka jingina a kujerarka kana kallon kyawawan abubuwan da ke wucewa ta taga, ko kuma kana gudanar da harkokinka, ba tare da tunanin cewa tafiyar na iya rikidewa zuwa bala'i cikin daƙiƙu kaɗan ba.",
    "published_date": "Sat, 31 Oct 2026 03:54:25 GMT",
@@ -55,13 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/c3ewepg0742xo?at_medium=RSS&at_campaign=rss",
    "content": "Har yanzu INEC dai INEC ba ta fitar da jerin sunayen ƴantarar da ta tantance ɗin ba, kuma ba ta tuntuɓi ƴantakarar ba, kamar yadda wasu daga cikinsu suka shaida wa BBC.",
    "published_date": "Fri, 30 Oct 2026 09:57:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda damfarar Crypto mafi girma a duniya za ta shafi kwastomi",
-   "url": "https://www.bbc.com/hausa/articles/c9zrd2v0d40lo?at_medium=RSS&at_campaign=rss",
-   "content": "Kamfanonin bincike guda biyu sun danganta lamarin da wani sashin kutse na Koriya ta Arewa mai suna TraderTraitor.",
-   "published_date": "Fri, 30 Oct 2026 11:31:49 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.com/hausa/articles/cqkgjexnyj1xo?at_medium=RSS&at_campaign=rss",
    "content": "Bayan da matsin lamba ke kan kociyan Manchester United, Michael Carrick, BBC Sport ta yi duba na tsanaki kan yaushe ne za a fara korar kociyon Premier League kamar yadda aka saba a duk kaka.",
    "published_date": "Wed, 28 Oct 2026 15:37:11 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda damfarar Crypto mafi girma a duniya za ta shafi kwastomi",
+   "url": "https://www.bbc.com/hausa/articles/c9zrd2v0d40lo?at_medium=RSS&at_campaign=rss",
+   "content": "Kamfanonin bincike guda biyu sun danganta lamarin da wani sashin kutse na Koriya ta Arewa mai suna TraderTraitor.",
+   "published_date": "Fri, 30 Oct 2026 11:31:49 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cx5ynr0dr3j8o?at_medium=RSS&at_campaign=rss",
    "content": "Kisan gillar da aka yi wa fitaccen malamin addinin Musulunci, Sheikh Yahaya Masussuka, a jihar Katsina ya girgiza al'ummar Musulmi da masu ruwa da tsaki a harkokin addini a Najeriya, tare da sake jawo hankalin jama'a kan matsalar tsaro da kariyar malaman addini a ƙasar.",
    "published_date": "Wed, 28 Oct 2026 03:57:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Matan AI da aka yi amfani da su don samun kuɗi a zaɓen shugaban ƙasa",
-   "url": "https://www.bbc.com/hausa/articles/c6kg7zq41vg4o?at_medium=RSS&at_campaign=rss",
-   "content": "Mata da aka samar da fasahar zamani ta AI suna kamfe a zagaye na biyu na zaben Brazil, suna goyon bayan 'yan takara da kuma jawo hankalin masu amfani da su ga abubuwan da suka shafi manya.",
-   "published_date": "Wed, 28 Oct 2026 03:57:32 GMT",
    "score": 0.6
   }
  ],

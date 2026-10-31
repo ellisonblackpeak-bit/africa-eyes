@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Laos Revokes Import Licences of Six Vehicle Companies",
-   "url": "https://laotiantimes.com/2026/10/30/laos-revokes-import-licences-of-six-vehicle-companies/",
-   "content": "The Ministry of Industry and Commerce has revoked the import licences of six vehicle-importing companies, immediately barring them from importing four-wheel vehicles. A notice issued on 14 October did not give a reason for the decision. The ministry named GMS Trading, Shacman Truck Laos, Zaha Trust Trading & Service, PA Trading Import-Export Sole Co., Ltd, […]",
-   "published_date": "Fri, 30 Oct 2026 04:36:28 +0000",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",

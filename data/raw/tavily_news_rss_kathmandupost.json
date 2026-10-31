@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Bad weather disrupts domestic flights from Kathmandu",
+   "url": "https://kathmandupost.com/national/2026/10/31/bad-weather-disrupts-domestic-flights-from-kathmandu",
+   "content": "Rain and poor visibility in Kathmandu and at several destinations have affected flights, with Lukla remaining inaccessible by air for a second consecutive day. International services remain unaffected.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Rain triggers landslides, washes away roads and disrupts travel across Nepal",
+   "url": "https://kathmandupost.com/national/2026/10/31/rain-triggers-landslides-washes-away-roads-and-disrupts-travel-across-nepal",
+   "content": "Landslides have disrupted the Prithvi Highway, washed away a road diversion in Gorkha and buried a house in Kavre, while heavy snow has hit the Kanchenjunga region.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "What’s on in Kathmandu Valley this week",
    "url": "https://kathmandupost.com/art-culture/2026/10/31/what-s-on-in-kathmandu-valley-this-week-1793413738",
    "content": "From Halloween celebrations and live music to community runs, here’s what’s happening around Kathmandu Valley this week.",
@@ -103,13 +117,6 @@
    "title": "‘Rahul, Rahul, Rahul’: Janakpur’s 16-year-old pacer is the NPL’s newest sensation",
    "url": "https://kathmandupost.com/cricket/2026/10/29/rahul-rahul-rahul-janakpur-s-17-year-old-pacer-is-the-npl-s-newest-sensation",
    "content": "The talent-hunt find took four wickets against Kathmandu Gorkhas, striking with the first ball of two separate overs, and the stadium has already adopted him.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Small countries must defend multilateral trade system, says WTO chief",
-   "url": "https://kathmandupost.com/money/2026/10/29/small-countries-must-defend-multilateral-trade-system-says-wto-chief-1793283506",
-   "content": "Ngozi Okonjo-Iweala urges developing economies, including Nepal, to push for reforms and use WTO tools to help local businesses access global markets.",
    "published_date": "",
    "score": 0.6
   }

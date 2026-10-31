@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "FPT Play giành hai giải thưởng tại MMA SMARTIES™ Vietnam 2026",
+   "url": "https://tuoitre.vn/fpt-play-gianh-hai-giai-thuong-tai-mma-smarties-vietnam-2026-100261031095440836.htm",
+   "content": "FPT Play nhận một giải Bạc và một giải Đồng tại MMA SMARTIES™ Vietnam 2026 với dự án marketing “Tiến lên Việt Nam”, triển khai nhân dịp SEA Games 33.",
+   "published_date": "10/31/2026 1:00:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

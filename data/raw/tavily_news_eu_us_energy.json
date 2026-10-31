@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EU and Canada explore LNG deal as Europe grapples with gas crisis  | Euronews",
-   "url": "https://www.euronews.com/2026/10/28/eu-and-canada-explore-lng-deal-as-europe-grapples-with-gas-crisis",
-   "snippet": "Since Russia's full-scale invasion of Ukraine, the US has become the EU's largest LNG supplier, replacing much of the cheaper gas previously imported from Russia.\n\nAt the same time, continued disruption in production and shipping of Qatari gas has also dented the EU's energy supply security.\n\nHowever, the draft leaves unanswered key questions about how much LNG Canada could supply, at what cost an",
-   "published": "Wed, 28 Oct 2026 14:57:04 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US LNG Exporters Find Few Takers in Europe for New ...",
-   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply",
-   "snippet": "US liquefied natural gas developers expected Europe to become the cornerstone market for the next generation of export projects.",
-   "published": "Fri, 30 Oct 2026 18:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Opinion: The United States should be prepared to supply ...",
-   "url": "https://www.facebook.com/pressconnects/posts/opinion-the-united-states-should-be-prepared-to-supply-europe-facing-an-energy-c/1770355475091789",
-   "snippet": "The U.S has the natural gas resources to support Europe's energy security - but global demand is increasing. We must accelerate the buildout of critical",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],
