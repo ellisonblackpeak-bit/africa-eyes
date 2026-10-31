@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Used Phone in Nigeria: 5 Checks to Avoid Scams [2026]",
+   "url": "https://tech-insider.org/used-phone-nigeria-5-security-checks-before-you-pay-2026",
+   "snippet": "Skip to content\n\nLatest news\n\n1. [Fire Point: Starlink-Free Strikes at 15-20% Power ](\n2. [Starship’s 10K Launches: FAA Cap or Pad Limit? ](\n3. [Tesla Roadster History: 2,450 Built, Next in 2028 ](\n\nTech Insider\n\nTech Insider\n\nTech Insider\n\nTech Insider\n\n# Used Phone in Nigeria: 5 Checks Before You Pay \n\n Sofia LindströmSofia Lindström\n Hardware\n\nSofia Lindström\n\nOctober 31, 2026\n\n12 min read [...",
+   "published": "Sat, 31 Oct 2026 04:22:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "TotalEnergies farms out partial interest in operated block offshore Nigeria ahead of appraisal | Oil & Gas Journal",
+   "url": "https://www.ogj.com/general-interest/companies/news/55415576/totalenergies-farms-out-partial-interest-in-operated-block-offshore-nigeria-ahead-of-appraisal",
+   "snippet": "farmout (2027300)\",\"id\":2027300},{\"type\":\"Tag\",\"name\":\"Nigeria\",\"fullName\":\"Tag: Nigeria (2026965)\",\"id\":2026965},{\"type\":\"Tag\",\"name\":\"news\",\"fullName\":\"Tag: news (2026892)\",\"id\":2026892}],\"authors\":[{\"id\":17303954,\"name\":\"Mikaila Adams\"}]}\" name=\"BlueConic\"> [...] Sign up for our eNewsletters\n\nGet the latest news and updates\n\n# Related\n\n10031414 © Farmer | Dreamstime.jpg\n\nFlag of Nigeria on a ba",
+   "published": "Fri, 30 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Havelsan signs defense cooperation deal in Nigeria",
+   "url": "https://www.hurriyetdailynews.com/havelsan-signs-defense-cooperation-deal-in-nigeria-228822",
+   "snippet": "Turkish defense company Havelsan has signed a memorandum of understanding with the Defence Industries Corporation of Nigeria to explore joint technology",
+   "published": "Sat, 31 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],

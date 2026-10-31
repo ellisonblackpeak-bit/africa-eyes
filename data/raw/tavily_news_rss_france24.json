@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
+   "url": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
+   "content": "Turkey has nominated its former foreign minister and UN ambassador Feridun Hadi Sinirlioglu for the position of UN secretary-general, state-media reported on Saturday. The submission was officially backed by Turkish President Recep Tayyip Erdogan who has been particularly vocal in calling for reform of the UN Security Council.",
+   "published_date": "Sat, 31 Oct 2026 14:28:10 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Binance hit by 6.3 billion dollar crypto theft",
    "url": "https://www.france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
    "content": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit.",
@@ -93,9 +100,9 @@
    "score": 0.6
   },
   {
-   "title": "Live: France’s top court bans Halloween protest in the heart of Paris, permits route on outskirts",
+   "title": "Live: Some 15,000 demonstrators taking part in protests across France",
    "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "content": "France's top court on Saturday overturned a Paris court’s decision authorising a protest route from Bastille to Place de la Nation in the heart of the French captial, which was proposed by rally organisers. The approved route now runs through the outskirts of Paris. Security has been tightened as authorities warn of rioters using Halloween masks to conceal their identities. Follow our live blog for all the latest updates.",
+   "content": "Around 15,000 protesters were taking part in demonstrations across France on Saturday, according to the interior ministry, as the country braced for a third weekend of protests which Interior Minister Laurent Nuñez deemed as “high risk”. Around 70,000 security personnel were deployed, as authorities sought to avert a repeat of the unrest that swept the country two weeks ago. Follow our live blog for all the latest updates.",
    "published_date": "Sat, 31 Oct 2026 05:53:27 GMT",
    "score": 0.6
   },
@@ -160,13 +167,6 @@
    "url": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
    "content": "Russia’s most renowned independent newspaper, Novaya Gazeta, announced on Friday that it was ceasing publication after more than three decades. Known for its courageous investigative journalism, the flagship newspaper said the Kremlin’s crackdown and ban on the media outlet had made it impossible to continue its work.",
    "published_date": "Fri, 30 Oct 2026 16:58:51 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'The International Criminal Court deserves the Sakharov Prize': CJEU President Koen Lenaerts",
-   "url": "https://www.france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts",
-   "content": "We speak to the influential and long-serving president of the Court of Justice of the European Union (CJEU), Koen Lenaerts. The court is the EU's supreme judicial authority, responsible for ensuring that European law is interpreted and applied across all 27 member states.",
-   "published_date": "Fri, 30 Oct 2026 16:51:42 GMT",
    "score": 0.6
   }
  ],

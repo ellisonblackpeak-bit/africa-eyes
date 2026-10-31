@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "I'm not convinced. I still think we should have gone with ...",
-   "url": "https://www.facebook.com/groups/MalaysiaHomeschoolingInfo/posts/29928052840128923",
-   "snippet": "German cabinet effectively rejected America intense pressure to impose a global ban on Huawei. Huawei will delay 5G in Europe by probably two years-it will",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Why India Is Unlikely to Ban Huawei",
-   "url": "https://www.lightreading.com/regulatory-politics/why-india-is-unlikely-to-ban-huawei",
-   "snippet": "The latest developments follow media reports last month suggesting the DoT would ban Huawei from participating in 5G trials. Yet while it was conspicuously absent from a list of vendors approved for those trials, Huawei was later invited to be a part of the initiative and is likely to start work this month. The Chinese vendor has also offered to share source code used in its products to allay any ",
-   "published": "Thu, 29 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Huawei Gains Through 5G Patents Despite Trump Ban – BusinessuiteOnline",
-   "url": "https://businessuiteonline.com/huawei-gains-through-5g-patents-despite-trump-ban",
-   "snippet": "Share  Tweet\n\nWhile the Trump’s administration has helped curtail Huawei’s growth outside China by launching a global ban to erase the Telecom Giant from its supply chain, it remains a player because of its global footprint and advanced technology. According to a new study by two research firms, Huawei Technologies Co. owns the most patents on next-generation 5G technology, ensuring the Chinese co",
-   "published": "Sun, 25 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_cn_5g",
  "_query": "Europe Huawei 5G ban",
  "_domains": [],

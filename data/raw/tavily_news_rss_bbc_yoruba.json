@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Wo àwọn gbankọgbì ìlérí tí àwọn olóṣèlú ti ṣe fáráàlú ní Naijiria",
+   "url": "https://www.bbc.com/yoruba/articles/cn45wdgjqw1o?at_medium=RSS&at_campaign=rss",
+   "content": "Lọpọ igba lawọn ileri naa maa n waye lati jẹ ki araalu dibo fun wọn, nigba mii, wọn maa n ṣe awọn ileri bẹẹ lati fi han pe wọn nifẹ araalu lọkan ju awọn alatako wọn lọ.",
+   "published_date": "Sat, 31 Oct 2026 12:54:57 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Olọ́pàá ṣàlàyé lórí ikú Tolufe, gbajúmọ̀ oníṣòwò tí wọ́n ló pa ara rẹ̀ l'Ondo",
    "url": "https://www.bbc.com/yoruba/articles/ck62yde0yee4o?at_medium=RSS&at_campaign=rss",
    "content": "Ohun to n lọ kari ayelujara ni pe Tolufe pa ara rẹ ni.",
    "published_date": "Sat, 31 Oct 2026 06:36:33 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ìjọba àpapọ̀ fẹ́ máa fún àwọn ọmọ Naijiria tí ìṣẹ́ ń ṣẹ́ ní 50,000 lóṣù",
+   "url": "https://www.bbc.com/yoruba/watch/cqde8p8gkrkwo?at_medium=RSS&at_campaign=rss",
+   "content": "Minisita fun eto iboju aanu wo ọmọniyan, Bernard Doro, ṣalaye pe say ijọba apapọ gbe eto yii kalẹ lati tete ran ọpọ ọmọ Naijiria lọwọ ni.",
+   "published_date": "Sat, 31 Oct 2026 13:02:46 GMT",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.com/yoruba/articles/c3dxwzdn7l4yo?at_medium=RSS&at_campaign=rss",
    "content": "Igbakeji Alaga igbimọ oluwadii naa, tii tun se igbakeji oludari tẹlẹ fun ileesẹ ọtẹlẹmuyẹ DSS, Jonathan Kure, lo sisọ loju eleyi lọjọ Aje lasiko to n gbe abọ iwadii rẹ kalẹ fun Minisita fọrọ abẹle, Olubunmi Tunji-Ojo, nilu Abuja.",
    "published_date": "Tue, 27 Oct 2026 13:55:57 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Níbo ni N10b nairà, owó ìrànwọ́ láti kojú àrùn Ebola tí Ààrẹ Tinubu kéde nínú oṣù Kẹfà wà?",
-   "url": "https://www.bbc.com/yoruba/articles/c5y43wgnxz82o?at_medium=RSS&at_campaign=rss",
-   "content": "Oludije naa to tun ti figba kan ri jẹ igbakeji aarẹ lo sọrọ yii ninu atẹjade to fi soju opo 'X' rẹ laipẹ yii.",
-   "published_date": "Tue, 27 Oct 2026 10:01:23 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Báwo ni wọ́n ṣe pa Masussuka, gbajúmọ̀ Ìmáàmù arọwààsí ní Katsina?",
-   "url": "https://www.bbc.com/yoruba/articles/cvkgk39221epo?at_medium=RSS&at_campaign=rss",
-   "content": "Ọga ọlọpaa naa, CSP Auwalu Gwadabe sọ pe ẹnu ọna ile Masussuka ni wọn yinbọn pa a si, ti awọn dokita si fidi rẹ mulẹ pe o ti ku, nigba ti wọn gbe e dele iwosan.",
-   "published_date": "Tue, 27 Oct 2026 09:22:54 GMT",
    "score": 0.6
   }
  ],

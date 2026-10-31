@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Europe’s Defense Dilemma | Council on Foreign Relations",
-   "url": "https://www.cfr.org/reports/europes-defense-dilemma",
-   "snippet": "preserves American nuclear leadership, and sustains the alliance as Washington’s principal vehicle for political and military influence in Europe and as a basis to project power globally. There are also clear economic incentives. European commitments to spend 5 percent of GDP on defense by 2035 expand the transatlantic defense market, as Europeans will continue to rely in some measure on American ",
-   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe's question? Whether US is still an ally or not",
-   "url": "https://euperspectives.eu/2026/10/europes-question-us-still-ally",
-   "snippet": "EU Perspectives\n\nWednesday - October 28 2026\n\n Competitiveness\n Digital agenda\n Energy\n Environment\n Population health\n Security\n Updates\n\nContact us\n\nFor advertisers\n\nFollow us\n\n# Europe’s question? Whether US is still an ally or not\n\n28. 10. 2026\n\nSecurity\n\nUS flags on lawn \n\nThe former ally / Photo: pexels.com\n\nEuropean governments keep debating how much to spend on defence. A panel in Warsaw s",
-   "published": "Wed, 28 Oct 2026 06:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe cannot defend itself through the budget alone - OMFIF",
-   "url": "https://www.omfif.org/2026/10/europe-cannot-defend-itself-through-the-budget-alone",
-   "snippet": "Europe therefore arrives at the present crisis with a widening economic gap with the US and continued military dependence on it. The obvious response is higher defence spending, but if every additional requirement must be met through higher taxes, borrowing or cuts elsewhere, the political and fiscal limits will quickly become apparent. Europe is trying to solve a balance-sheet problem through the",
-   "published": "Thu, 29 Oct 2026 15:56:40 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

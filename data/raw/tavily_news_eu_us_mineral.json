@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Closer EU-Canada ties face critical minerals test",
-   "url": "https://www.theparliamentmagazine.eu/news/article/closer-eucanada-ties-face-critical-minerals-test",
-   "snippet": "Canada’s mineral trade is geared towards the U.S., meaning shifting supplies to Europe will require new commercial ties and infrastructure. Transport costs and EU regulatory requirements also pose challenges for Canadian suppliers.\n\nInvestors also need clarity on which minerals the EU wants. Of Canada’s 34 critical minerals, 24 are considered critical by the EU, including 13 classified as strategi",
-   "published": "Wed, 28 Oct 2026 07:41:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU Backs Canadian Critical-Mineral Development Projects",
-   "url": "https://www.youtube.com/watch?v=CYOy-YZY5uM",
-   "snippet": "The European Union and Canada have signed a new Framework Agreement enabling the European Investment Bank (EIB) to finance and support critical mineral",
-   "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Subscribe to read",
-   "url": "https://www.ft.com/content/cfb2e934-0000-42e6-93a4-4dffa56f11a8?syn-25a6b1a6=1",
-   "snippet": "# EU weighs mirroring Donald Trump in securing critical minerals\n\n## Try unlimited access\n\nOnly $1 for 4 weeks\n\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\n\n## Explore more offers.\n\n### FT Edit [...] Complete digital access with exclusive insights and industry deep dives on any device.\n\nCheck whether you already have free ac",
-   "published": "Mon, 26 Oct 2026 05:16:50 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],

@@ -1,0 +1,56 @@
+{
+ "query": "Mali China Chinese company agreement Bamako",
+ "_tag": "soc_cn_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/sergedanielinfo/status/2115578496579731679",
+     "title": "#Mali-Chine/D’après mes informations, 21 ressortissants chinois ont été déférés ce 28/10/ dans la prison de Bamako pour « une infraction lou",
+     "description": "#Mali-Chine/D’après mes informations, 21 ressortissants chinois ont été déférés ce 28/10/ dans la prison de Bamako  pour «  une infraction lourde »\nLa semaine dernière , 4 autres chinois avaient été déférés dans une prison pour «  importations et ventes illégales de téléphones »",
+     "snippet": "#Mali-Chine/D’après mes informations, 21 ressortissants chinois ont été déférés ce 28/10/ dans la prison de Bamako  pour «  une infraction lourde »\nLa semaine dernière , 4 autres chinois avaient été déférés dans une prison pour «  importations et ventes illégales de téléphones »",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Serge Daniel",
+     "handle": "@sergedanielinfo"
+    },
+    {
+     "url": "https://x.com/Cn_Bone/status/2115600900509290822",
+     "title": "Bamako Central Prison has long been severely overcrowded, with reported occupancy exceeding 1,000%.Claims that around 28 October, 21 Chinese",
+     "description": "Bamako Central Prison has long been severely overcrowded, with reported occupancy exceeding 1,000%.Claims that around 28 October, 21 Chinese nationals were sent there for “serious illegal activities” and another four for illegal mobile phone trade remain unverified—no official statements or credible reporting confirm this.",
+     "snippet": "Bamako Central Prison has long been severely overcrowded, with reported occupancy exceeding 1,000%.Claims that around 28 October, 21 Chinese nationals were sent there for “serious illegal activities” and another four for illegal mobile phone trade remain unverified—no official statements or credible reporting confirm this.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BoneAlpha",
+     "handle": "@Cn_Bone"
+    },
+    {
+     "url": "https://x.com/TGeopolitique/status/2115836561850016095",
+     "title": "4/ La présence chinoise dans le secteur minier s'observe particulièrement dans le Sahel.",
+     "description": "4/ La présence chinoise dans le secteur minier s'observe particulièrement dans le Sahel. Au #Mali, deux des principales mines de lithium, essentiel à la fabrication d'appareils électroniques, sont contrôlées par des entreprises chinoises.\n\nhttps://www.ecofinagency.com/news/2408-58258-russia-new-investors-position-themselves-in-mali-s-china-dominated-lithium-sector",
+     "snippet": "4/ La présence chinoise dans le secteur minier s'observe particulièrement dans le Sahel. Au #Mali, deux des principales mines de lithium, essentiel à la fabrication d'appareils électroniques, sont contrôlées par des entreprises chinoises.\n\nhttps://www.ecofinagency.com/news/2408-58258-russia-new-investors-position-themselves-in-mali-s-china-dominated-lithium-sector",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tribune Géopolitique",
+     "handle": "@TGeopolitique"
+    },
+    {
+     "url": "https://x.com/TGeopolitique/status/2115836572843303147",
+     "title": "7/ Dans la région malienne des #Kayes comme dans la zone nigérienne du champ pétrolier d' #Agadem, des ressortissants chinois ont été enlevé",
+     "description": "7/ Dans la région malienne des #Kayes comme dans la zone nigérienne du champ pétrolier d' #Agadem, des ressortissants chinois ont été enlevés en raison de la complicité de Pékin avec les juntes sahéliennes.\n\nhttps://www.rfi.fr/fr/afrique/20251114-mali-record-d-enl%C3%A8vements-d-%C3%A9trangers-par-les-jihadistes",
+     "snippet": "7/ Dans la région malienne des #Kayes comme dans la zone nigérienne du champ pétrolier d' #Agadem, des ressortissants chinois ont été enlevés en raison de la complicité de Pékin avec les juntes sahéliennes.\n\nhttps://www.rfi.fr/fr/afrique/20251114-mali-record-d-enl%C3%A8vements-d-%C3%A9trangers-par-les-jihadistes",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tribune Géopolitique",
+     "handle": "@TGeopolitique"
+    }
+   ]
+  }
+ ]
+}

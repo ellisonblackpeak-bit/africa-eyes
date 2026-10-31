@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria China Chinese company project investment embassy",
+ "_tag": "soc_cn_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/NaijaContext_/status/2116195262855086372",
+     "title": "NIGERIA SIGNS $30M DEVELOPMENT GRANT AGREEMENT WITH CHINA.",
+     "description": "NIGERIA SIGNS $30M DEVELOPMENT GRANT AGREEMENT WITH CHINA.\n\nNigeria and China have signed a 200-million-yuan agreement, worth approximately US$30 million, to finance small-scale development projects across Nigeria.\n\nChinese Ambassador Yu Dunhai described the proposed interventions as “small but beautiful” projects designed to deliver practical results and improve people's livelihoods.\n\nMinister of Budget and Economic Planning Abubakar Bagudu said:\n\n• State governments have submitted project proposals.\n• The proposals will be reviewed and consolidated.\n• Nigeria and China will jointly identify projects for funding.\n• The initiative is intended to address local development needs.\nImportantly, the $30 million is a grant, not a commercial loan.\nHowever, the specific projects, beneficiary communities and implementation timetable have not yet been announced.\nThe real measure of success will be whether the money translates into completed projects that Nigerians can see and benefit from.\n\nWhich communities and projects should receive priority?\n\n#NaijaContext #Nigeria #China #Development #Economy",
+     "snippet": "NIGERIA SIGNS $30M DEVELOPMENT GRANT AGREEMENT WITH CHINA.\n\nNigeria and China have signed a 200-million-yuan agreement, worth approximately US$30 million, to finance small-scale development projects across Nigeria.\n\nChinese Ambassador Yu Dunhai described the proposed interventions as “small but beautiful” projects designed to deliver practical results and improve people's livelihoods.\n\nMinister of Budget and Economic Planning Abubakar Bagudu said:\n\n• State governments have submitted project proposals.\n• The proposals will be reviewed and consolidated.\n• Nigeria and China will jointly identify projects for funding.\n• The initiative is intended to address local development needs.\nImportantly, the $30 million is a grant, not a commercial loan.\nHowever, the specific projects, beneficiary communities and implementation timetable have not yet been announced.\nThe real measure of success will be whether the money translates into completed projects that Nigerians can see and benefit from.\n\nWhich communities and projects should receive priority?\n\n#NaijaContext #Nigeria #China #Development #Economy",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Naija Context",
+     "handle": "@NaijaContext_"
+    },
+    {
+     "url": "https://x.com/DrDorisAnite/status/2116157651968995746",
+     "title": "Development is driven by purposeful partnerships and the commitment to turn promises into progress.",
+     "description": "Development is driven by purposeful partnerships and the commitment to turn promises into progress.\n\nI was honoured to participate in the signing ceremony for the implementation of projects under the Nigeria-China Development Cooperation Agreement, hosted by the Chinese Embassy.\n\nOur focus must remain on partnerships that deliver tangible results, create opportunities and improve the lives of Nigerians.\n\nTogether, we are building pathways to shared prosperity.\n\n#NigeriaChinaRelations #DevelopmentCooperation #NigeriaRising",
+     "snippet": "Development is driven by purposeful partnerships and the commitment to turn promises into progress.\n\nI was honoured to participate in the signing ceremony for the implementation of projects under the Nigeria-China Development Cooperation Agreement, hosted by the Chinese Embassy.\n\nOur focus must remain on partnerships that deliver tangible results, create opportunities and improve the lives of Nigerians.\n\nTogether, we are building pathways to shared prosperity.\n\n#NigeriaChinaRelations #DevelopmentCooperation #NigeriaRising",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Hon (Dr) Doris Nkiruka Uzoka-Anite MD,CFA",
+     "handle": "@DrDorisAnite"
+    },
+    {
+     "url": "https://x.com/GuardianNigeria/status/2115893935138861544",
+     "title": "CHINA and Nigeria yesterday signed a RMB 200 million (about $30 million) in grant assistance agreement to finance local development projects",
+     "description": "CHINA and Nigeria yesterday signed a RMB 200 million (about $30 million) in grant assistance agreement to finance local development projects designed to deliver quick, tangible results that will directly benefit citizens.\nhttps://guardian.ng/news/china-nigeria-sign-30m-deal-to-fund-local-projects/",
+     "snippet": "CHINA and Nigeria yesterday signed a RMB 200 million (about $30 million) in grant assistance agreement to finance local development projects designed to deliver quick, tangible results that will directly benefit citizens.\nhttps://guardian.ng/news/china-nigeria-sign-30m-deal-to-fund-local-projects/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Guardian Nigeria",
+     "handle": "@GuardianNigeria"
+    },
+    {
+     "url": "https://x.com/radionigeriahq/status/2116164817513759059",
+     "title": "China has signed a Development Cooperation Agreement with Nigeria, providing a grant of 200 million yuan (about $30m) to support livelihood",
+     "description": "China has signed a Development Cooperation Agreement with Nigeria, providing a grant of 200 million yuan (about $30m) to support livelihood projects and other development initiatives.\n\nRead full story:https://radionigeria.gov.ng/2026/10/30/china-to-fund-development-projects-in-nigeria-with-30-million-grant/\n\n#ChinaNigeria #DevelopmentGrant #NigeriaDevelopment",
+     "snippet": "China has signed a Development Cooperation Agreement with Nigeria, providing a grant of 200 million yuan (about $30m) to support livelihood projects and other development initiatives.\n\nRead full story:https://radionigeria.gov.ng/2026/10/30/china-to-fund-development-projects-in-nigeria-with-30-million-grant/\n\n#ChinaNigeria #DevelopmentGrant #NigeriaDevelopment",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Radio Nigeria",
+     "handle": "@radionigeriahq"
+    },
+    {
+     "url": "https://x.com/chinafrica1/status/2116455122272420163",
+     "title": "China grants 30 mln USD to support small-scale development project in #Nigeria https://english.news.cn/africa//20261030/1c017c3a68eb446b8f2a",
+     "description": "China grants 30 mln USD to support small-scale development project in #Nigeria https://english.news.cn/africa//20261030/1c017c3a68eb446b8f2a283acbe2593e/c.html",
+     "snippet": "China grants 30 mln USD to support small-scale development project in #Nigeria https://english.news.cn/africa//20261030/1c017c3a68eb446b8f2a283acbe2593e/c.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ChinAfrica magazine",
+     "handle": "@chinafrica1"
+    },
+    {
+     "url": "https://x.com/suleiman_qasim/status/2116120130060996618",
+     "title": "🇳🇬🤝🇨🇳 Nigeria–China Strategic Partnership! Nigeria’s Ambassador to China, Lt.",
+     "description": "🇳🇬🤝🇨🇳 Nigeria–China Strategic Partnership!\nNigeria’s Ambassador to China, Lt. Gen. Abdulrahman Bello Dambazau, has engaged the Chairman of the World High-Tech Industrialization Cooperation Organisation, Mr Huang Chunxiao, to explore opportunities in technology transfer, industrial development and investment. \n\nThe engagement aims to attract Chinese technological expertise, strengthen local industries, build Nigerian capacity and create investment opportunities for sustainable economic growth.\n\nDiplomacy that goes beyond relationships to creating practical opportunities for Nigeria and Nigerians. 🇳🇬🇨🇳 ©\n\nMay PBAT succeed ❤️ 🇳🇬 🤲 \n\n@woye1\n\n#Arewa4Asiwaju",
+     "snippet": "🇳🇬🤝🇨🇳 Nigeria–China Strategic Partnership!\nNigeria’s Ambassador to China, Lt. Gen. Abdulrahman Bello Dambazau, has engaged the Chairman of the World High-Tech Industrialization Cooperation Organisation, Mr Huang Chunxiao, to explore opportunities in technology transfer, industrial development and investment. \n\nThe engagement aims to attract Chinese technological expertise, strengthen local industries, build Nigerian capacity and create investment opportunities for sustainable economic growth.\n\nDiplomacy that goes beyond relationships to creating practical opportunities for Nigeria and Nigerians. 🇳🇬🇨🇳 ©\n\nMay PBAT succeed ❤️ 🇳🇬 🤲 \n\n@woye1\n\n#Arewa4Asiwaju",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sarki Yaƙin na Baba Buhari 🇳🇬",
+     "handle": "@suleiman_qasim"
+    },
+    {
+     "url": "https://x.com/_chiefagbabiaka/status/2116083940897243340",
+     "title": "3 days to go! We are counting down to an event that promises new opportunities and fresh perspectives.",
+     "description": "3 days to go!\n\nWe are counting down to an event that promises new opportunities and fresh perspectives.\n\n@NACCIMA30 is taking Nigeria-China trade relations to a higher level.\n\nAt the NACCIMA-China B2B Investment Exchange 3.0 in Guanghzou, the Nigerian delegates will meet with several Chinese investors and business leaders to explore business and partnership opportunities.\n\nPriority sectors include:\n\n✅Agribusiness\n✅Mining and mineral processing\n✅Renewable energy\n✅Pharmaceuticals\n✅Automobiles\n✅Industrial park development \n✅ Among others",
+     "snippet": "3 days to go!\n\nWe are counting down to an event that promises new opportunities and fresh perspectives.\n\n@NACCIMA30 is taking Nigeria-China trade relations to a higher level.\n\nAt the NACCIMA-China B2B Investment Exchange 3.0 in Guanghzou, the Nigerian delegates will meet with several Chinese investors and business leaders to explore business and partnership opportunities.\n\nPriority sectors include:\n\n✅Agribusiness\n✅Mining and mineral processing\n✅Renewable energy\n✅Pharmaceuticals\n✅Automobiles\n✅Industrial park development \n✅ Among others",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Lagos Landlord & Osun, Kwara Tenant🇳🇬 🇺🇬 🇬🇭",
+     "handle": "@_chiefagbabiaka"
+    },
+    {
+     "url": "https://x.com/khaleeffah/status/2116485708315512939",
+     "title": "His Highness, the Emir of Kano, Khalifa Muhammad Sanusi II CON, yesterday, Friday, 30th October 2026, paid a courtesy visit to Nigeria’s Amb",
+     "description": "His Highness, the Emir of Kano, Khalifa Muhammad Sanusi II CON, yesterday, Friday, 30th October 2026, paid a courtesy visit to Nigeria’s Ambassador to #china Lt. General Dambazau (Baraden Kano) at the Nigerian Embassy in Beijing, where he was warmly received by embassy officials.",
+     "snippet": "His Highness, the Emir of Kano, Khalifa Muhammad Sanusi II CON, yesterday, Friday, 30th October 2026, paid a courtesy visit to Nigeria’s Ambassador to #china Lt. General Dambazau (Baraden Kano) at the Nigerian Embassy in Beijing, where he was warmly received by embassy officials.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "®️Kʜᴀʟ¡ғᴀʜ👑",
+     "handle": "@khaleeffah"
+    },
+    {
+     "url": "https://x.com/PaulYou27788675/status/2116282591632384347",
+     "title": "The guy doesn’t deserve your response and reasoning.",
+     "description": "The guy doesn’t deserve your response and reasoning. Actually he doesn’t need to worry about China. Many Chinese companies are now advised to take extra caution when considering investing in Nigeria. The risks are too high in every dimension.",
+     "snippet": "The guy doesn’t deserve your response and reasoning. Actually he doesn’t need to worry about China. Many Chinese companies are now advised to take extra caution when considering investing in Nigeria. The risks are too high in every dimension.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "蛟龙",
+     "handle": "@PaulYou27788675"
+    },
+    {
+     "url": "https://x.com/iamchrisani/status/2115841612844560584",
+     "title": "You don’t even have correct statistics You are talking about transcorp Your hotels In lagos have a large ownership with Lebanese Eko hotel E",
+     "description": "You don’t even have correct statistics \nYou are talking about transcorp\nYour hotels In lagos have a large ownership with Lebanese \nEko hotel \nEven part of your sea port  owned by Chinese \nChinese-linked companies registered in Lagos — 2018\nApproximately 1,727\n52% of the 3,321 Nigerian companies identified as having at least one Chinese shareholder.\nYou want o banter Ghana for what is happening in your back yard \nGo and use data before you talk \nShioor",
+     "snippet": "You don’t even have correct statistics \nYou are talking about transcorp\nYour hotels In lagos have a large ownership with Lebanese \nEko hotel \nEven part of your sea port  owned by Chinese \nChinese-linked companies registered in Lagos — 2018\nApproximately 1,727\n52% of the 3,321 Nigerian companies identified as having at least one Chinese shareholder.\nYou want o banter Ghana for what is happening in your back yard \nGo and use data before you talk \nShioor",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Chris Ani",
+     "handle": "@iamchrisani"
+    }
+   ]
+  }
+ ]
+}

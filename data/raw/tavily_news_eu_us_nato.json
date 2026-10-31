@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
-   "url": "https://www.militarytimes.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
-   "snippet": "The Pentagon has already begun reducing its footprint in Europe. About 80,000 U.S. troops were stationed there across roughly 30 bases as of 2025, according to congressional testimony from the head of U.S. European Command cited in the report.\n\nIn May, the Pentagon announced it would pull about 5,000 troops out of Germany. Then in June, the U.S. cut the forces it would make available to NATO in a ",
-   "published": "Thu, 29 Oct 2026 22:25:10 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US, Georgia military planners prepare for Agile Spirit 2027 | Article | The United States Army",
-   "url": "https://www.army.mil/article/296331/us_georgia_military_planners_prepare_for_agile_spirit_2027",
-   "snippet": "Agile Spirit is a U.S. European Command-scheduled, U.S. Army Europe and Africa-directed biennial exercise designed to enhance interoperability and readiness for collective defense operations. Conducted in Georgia, training typically brings together 2,000 to 3,000 U.S. forces, NATO allies and partner nations to focus on maneuver training, logistics coordination and multinational command and control",
-   "published": "Mon, 26 Oct 2026 16:40:41 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Pentagon urges NATO allies to tone down warnings about Russia, report says | Stars and Stripes",
-   "url": "https://www.stripes.com/theaters/europe/2026-10-30/baltics-russia-rhetoric-pentagon-23308598.html",
-   "snippet": "Colby is a driving force of the Pentagon initiative to put European allies at the forefront of responsibility for collective defense of the Continent.\n\nThe aim is to take that burden off the United States so its troops can concentrate on the Indo-Pacific and the Western Hemisphere. Colby has dubbed the new arrangement NATO 3.0.\n\nThe reported requests come as President Donald Trump renews efforts t",
-   "published": "Fri, 30 Oct 2026 15:39:05 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

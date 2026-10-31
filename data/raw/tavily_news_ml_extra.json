@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Mali drone strike kills 13 civilians, activists say; army says it targeted militants - Newsday",
+   "url": "https://www.newsday.com/news/nation/mali-violence-human-rights-army-drone-attack-k66224",
+   "snippet": "Skip to contentToday's paper\n\nNewsday\n\n# Mali drone strike kills 13 civilians, activists say; army says it targeted militants\n\nBy The Associated Press\n\nBAMAKO, Mali — At least 13 civilians were killed in an overnight drone strike by Mali's military earlier this week near the border with Mauritania, local human rights activists and a separatist armed group said Wednesday.\n\nThe Malian military said ",
+   "published": "Wed, 28 Oct 2026 15:07:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Military and Armed Groups in Mali Committing Human Rights Abuses Against Civilians",
+   "url": "https://www.humanrightsresearch.org/post/military-and-armed-groups-in-mali-committing-human-rights-abuses-against-civilians",
+   "snippet": "The country has been ruled by a military government since back-to-backcoups in 2020 and 2021. In August 2020, a group of Malian soldiers arrested their senior leaders, seized weaponry, and detained then-President Aboubakar Keita. This coup took place after protests against the Keita for alleged corruption and failing to suppress an armed rebellion in the north of the country. After the 2020 coup, ",
+   "published": "Thu, 29 Oct 2026 19:00:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "mali",
+   "url": "https://www.arabnews.com/tag/mali",
+   "snippet": "Attack by Daesh-affiliated group in Mali kills 48 people · 20 October 2026 ; UN says four million displaced in central Sahel · 9 October 2026 ; What changes with",
+   "published": "Fri, 30 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ml_extra",
  "_query": "Mali latest news",
  "_domains": [],

@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Chinese Investment in the EU | FTI Consulting",
-   "url": "https://www.fticonsulting.com/insights/articles/chinese-investment-eu-managing-fsr-fdi-screening-risk",
-   "snippet": "# Chinese Investment in the EU: Managing FSR and FDI Screening Risk\n\n October 27, 2026\n Share\n\n  Back to top\n\nAs Europe expands its scrutiny of foreign investment, outbound capital and state-linked support, Chinese companies pursuing transactions in the region increasingly need to navigate two overlapping regulatory frameworks: the European Union’s (“EU”) Foreign Subsidies Regulation (“FSR”) and t",
-   "published": "Wed, 28 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese Investment in EU: Resilient Deal Strategy | FTI",
-   "url": "https://www.fticonsulting.com/insights/articles/chinese-investment-eu-building-resilient-deal-strategy",
-   "snippet": "For Chinese investors, the issue should not be reduced to the abstract question of whether the EU welcomes Chinese investment. The EU continues to state publicly that it remains open to foreign investment, and the revised foreign direct investment (“FDI”) regulation itself also makes clear that foreign investment is welcome and that investment screening should balance security and public order con",
-   "published": "Fri, 30 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Comments to the European Commission Regarding Its ‘Diversify EU’ Proposal | Testimonies & Filings | Oct 27, 2026 | ITIF",
-   "url": "https://itif.org/publications/2026/10/27/comments-to-the-european-commission-regarding-its-diversify-eu-proposal",
-   "snippet": "ITIF recommends organizing Diversify EU around allied production capacity and a coordinated response to Chinese mercantilism. Drawing on ITIF’s proposed framework for a new class of Strategic Techno-Economic Agreements (STEAs), ITIF recommends stronger rules of origin, development finance for alternative suppliers, joint trade investigations, reciprocal market access, and support for firms’ switch",
-   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_cn_screen",
  "_query": "EU foreign investment screening China",
  "_domains": [],

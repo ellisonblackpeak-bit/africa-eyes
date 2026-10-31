@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Economics Meets Art, and a Marathon, in Rural Ghana",
+   "url": "https://www.nyu.edu/about/news-publications/news/2026/october/economics-meets-art--and-a-marathon--in-rural-ghana.html",
+   "snippet": "## Related\n\n /about/news-publications/news/2015/november/beforeafter-jewish-lives-in-berlin-dec-1/_jcr_content/_cq_featuredimage.coreimg.82.1250.jpeg/332409199769/Shlomit_Lehavi_Addressbuch_Proposal_2015_DE-mailnew.jpeg\n\n  Before/After: Jewish Lives in Berlin – Dec. 1 [...] When November comes around, Nyarko celebrates student creativity and academic achievement with an annual “Prize-Giving Day.” ",
+   "published": "Thu, 29 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Teen boy from Ghana chased and fatally shot on way to school in New York City",
+   "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
+   "snippet": "Javits Frimpong, 15, was being bullied at school before he was shot and killed in the Bronx on Thursday, his father says.",
+   "published": "Fri, 30 Oct 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Bronx community mourns slain 15-year-old student Javits Frimpong - ABC7 New York",
+   "url": "https://abc7ny.com/post/bronx-community-mourns-slain-15-year-old-student-javits-frimpong/20000687",
+   "snippet": "Frimpong's father said he brought his son from Ghana to live with him about a year ago in hopes of a better life. The teen's mother is trying to travel to New York to see her son's body.\n\nThe shooting comes as city officials report that major crime in the Bronx declined by nearly 12% through Sept. 30 compared with the same period last year. Community members said those statistics do not reflect wh",
+   "published": "Fri, 30 Oct 2026 19:29:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gh_extra",
  "_query": "Ghana latest news",
  "_domains": [],

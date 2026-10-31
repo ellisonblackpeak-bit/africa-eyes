@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "IndoPacific Report",
-   "url": "https://www.facebook.com/IndoPacificReportIPR/posts/south-korea-moves-weapons-production-to-europe-as-eu-defence-rules-challenge-seo/1075472618829117",
-   "snippet": "Europe’s push for defence self-reliance is changing the strategic terms of South Korea’s rise as an arms exporter. With European military spending reaching $864 billion in 2025, Seoul has gained a major market by delivering weapons faster than European manufacturers. But EU funding rules increasingly require local production, European control, and greater technological independence. Hanwha Aerospa",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Germany, South Korea deepen security partnership amid Russia-North Korea concerns",
-   "url": "https://www.reuters.com/business/aerospace-defense/germany-south-korea-deepen-security-partnership-amid-russia-north-korea-concerns-2026-10-29",
-   "snippet": "At a summit in Seoul the two governments agreed to expand cooperation in defence and security, South Korean President Lee Jae-myung said, adding that they ​planned to conclude an agreement on the protection of classified ​military information.\n\nThe Misinformation Monitor newsletter rounds up international misinformation narratives, with a \"Real or Fake?\" quiz in every edition. Sign up here. [...] ",
-   "published": "Thu, 29 Oct 2026 11:33:38 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Germany and South Korea set out an enhanced security ...",
-   "url": "https://www.facebook.com/freshnewsenglish/posts/germany-and-south-korea-set-out-an-enhanced-security-partnership-on-thursday-arg/1564598399027972",
-   "snippet": "Germany and South Korea set out an enhanced security partnership on Thursday, arguing that growing cooperation between Moscow and Pyongyang showed that European",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_kr",
  "_query": "Europe South Korea defence",
  "_domains": [],

@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Vietnam, China seek deeper ties in global supply chains - VnExpress International",
+   "url": "https://e.vnexpress.net/news/business/vietnam-china-seek-deeper-ties-in-global-supply-chains-5138893.html",
+   "snippet": "China is Vietnam's largest trading partner, with bilateral trade exceeding US$256 billion in 2025. Trade reached more than $253 billion in the first nine months of 2026, up 37.6% year-on-year.\n\nDuring the same period, investors from China, including Hong Kong, received licenses for 1,104 new projects in Vietnam, with registered capital of $4.5 billion, up 31.35%. China ranked fourth among Vietnam'",
+   "published": "Sat, 31 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Deputy Finance Minister meets Chinese State Council research delegation",
+   "url": "https://vir.com.vn/deputy-finance-minister-meets-chinese-state-council-research-delegation-163836.html",
+   "snippet": "Fan Bi noted that investment and trade cooperation between China and Vietnam was expanding rapidly, with Chinese businesses showing growing interest in Vietnam's investment environment.\n\nDuring the visit, the delegation hoped to hold in-depth discussions with Vietnam's MoF on the development of production chains and supply chains, as well as models for establishing cross-border economic cooperatio",
+   "published": "Thu, 29 Oct 2026 07:25:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnamese cooperatives promote trade in China",
+   "url": "https://vietnamnews.vn/economy/1802996/vietnamese-cooperatives-promote-trade-in-china.html",
+   "snippet": "HÀ NỘI — A 33-member delegation from the Vietnam Cooperative Alliance (VCA), representing 25 cooperatives, is attending the China International Agricultural Machinery Exhibition 2026 to showcase Vietnamese agricultural products and explore trade opportunities in the Chinese market. [...] Through its participation, the VCA aims to help Vietnamese cooperatives expand trade ties in China while gainin",
+   "published": "Tue, 27 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "vn_wide",
  "_query": "Vietnam China trade",
  "_domains": [],

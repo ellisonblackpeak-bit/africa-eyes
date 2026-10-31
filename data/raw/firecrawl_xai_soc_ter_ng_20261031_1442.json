@@ -1,0 +1,116 @@
+{
+ "query": "Nigeria Lakurawa ISWAP bandit Sokoto Kebbi Zamfara",
+ "_tag": "soc_ter_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/NaijaContext_/status/2116368246651633746",
+     "title": "12 PEOPLE KILLED IN KEBBI — POLICE INSPECTOR AMONG THE DEAD.",
+     "description": "12 PEOPLE KILLED IN KEBBI — POLICE INSPECTOR AMONG THE DEAD.\n\nA series of attacks and reprisal violence has left at least 12 people dead in communities across Kebbi State, according to the state police command.\n\nThe affected areas include Karwa, Kestu and Waiwayi in Koko-Besse LGA.\n\nPolice say five people were killed on October 26, while seven more, including a police inspector, died in attacks on October 28.\n\nThe command also says the violence followed an earlier incident at Samanaji Market on October 22, when local vigilantes allegedly attacked Fulani traders, leaving three people dead.\n\nHomes and motorcycles were reportedly burnt, shops looted and residents displaced.\n\nThe police commissioner has ordered further security operations and investigations.\n\nBut beyond the death toll, a critical question remains: how did tensions escalate into repeated violence against communities, and what protection do residents now have?\n\n#NaijaContext #Kebbi #NigeriaSecurity #Lakurawa #KokoBesse #Insecurity #NorthernNigeria #Police #HumanSecurity #MoreThanTheHeadline",
+     "snippet": "12 PEOPLE KILLED IN KEBBI — POLICE INSPECTOR AMONG THE DEAD.\n\nA series of attacks and reprisal violence has left at least 12 people dead in communities across Kebbi State, according to the state police command.\n\nThe affected areas include Karwa, Kestu and Waiwayi in Koko-Besse LGA.\n\nPolice say five people were killed on October 26, while seven more, including a police inspector, died in attacks on October 28.\n\nThe command also says the violence followed an earlier incident at Samanaji Market on October 22, when local vigilantes allegedly attacked Fulani traders, leaving three people dead.\n\nHomes and motorcycles were reportedly burnt, shops looted and residents displaced.\n\nThe police commissioner has ordered further security operations and investigations.\n\nBut beyond the death toll, a critical question remains: how did tensions escalate into repeated violence against communities, and what protection do residents now have?\n\n#NaijaContext #Kebbi #NigeriaSecurity #Lakurawa #KokoBesse #Insecurity #NorthernNigeria #Police #HumanSecurity #MoreThanTheHeadline",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Naija Context",
+     "handle": "@NaijaContext_"
+    },
+    {
+     "url": "https://x.com/ankaboy/status/2116055879569248718",
+     "title": "Since the start of the year, I have closely monitored internal communications between ISSP elements in Zamfara and bandit groups.",
+     "description": "Since the start of the year, I have closely monitored internal communications between ISSP elements in Zamfara and bandit groups. Here are a few things I have found: Islamic State Woos Bandits, Communities in Nigeria’s Northwest\nhttps://medium.com/@YusufAnka/islamic-state-woos-bandits-communities-in-nigerias-northwest-a2bdee28564e",
+     "snippet": "Since the start of the year, I have closely monitored internal communications between ISSP elements in Zamfara and bandit groups. Here are a few things I have found: Islamic State Woos Bandits, Communities in Nigeria’s Northwest\nhttps://medium.com/@YusufAnka/islamic-state-woos-bandits-communities-in-nigerias-northwest-a2bdee28564e",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Yusuf Anka",
+     "handle": "@ankaboy"
+    },
+    {
+     "url": "https://x.com/GKxyz01/status/2116187892468879790",
+     "title": "Gunmen Kill Police Inspector, 11 Others in Kebbi Residents of Karwa, Kestu and Waiwayi in Besse/Shanga riverine areas of Kebbi State have fl",
+     "description": "Gunmen Kill Police Inspector, 11 Others in Kebbi \n\nResidents of Karwa, Kestu and Waiwayi in Besse/Shanga riverine areas of Kebbi State have fled their communities as suspected members of the Lakurawa and Mamudawa terror groups killed 11 residents and a police inspector in a series of attacks they have launched on the communities.\n\nThe terrorists carried out a series of attacks on the communities in Besse and Shanga from the 22nd to 28 October, this year, Daily Trust gathered. During the attacks, they burnt houses and looted property as they moved along the River Niger bank from Kaoje to Besse.\n\nA local who spoke to our corespondent, Aminu Usman, said the attack on the communities was devastating as the gunmen burnt houses and property before retreating to their hideouts.\n\nKeep up with the latest headlines on WhatsApp | LinkedIn\nHe said, \"the attack took many of the villagers unawares. No one expected that the Lakurawa terrorists would attack us. The attack was carried out in a coordinated manner. They burnt our houses and looted our property. Many people have been rendered homeless and they have fled the communities,\" he said.",
+     "snippet": "Gunmen Kill Police Inspector, 11 Others in Kebbi \n\nResidents of Karwa, Kestu and Waiwayi in Besse/Shanga riverine areas of Kebbi State have fled their communities as suspected members of the Lakurawa and Mamudawa terror groups killed 11 residents and a police inspector in a series of attacks they have launched on the communities.\n\nThe terrorists carried out a series of attacks on the communities in Besse and Shanga from the 22nd to 28 October, this year, Daily Trust gathered. During the attacks, they burnt houses and looted property as they moved along the River Niger bank from Kaoje to Besse.\n\nA local who spoke to our corespondent, Aminu Usman, said the attack on the communities was devastating as the gunmen burnt houses and property before retreating to their hideouts.\n\nKeep up with the latest headlines on WhatsApp | LinkedIn\nHe said, \"the attack took many of the villagers unawares. No one expected that the Lakurawa terrorists would attack us. The attack was carried out in a coordinated manner. They burnt our houses and looted our property. Many people have been rendered homeless and they have fled the communities,\" he said.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GK",
+     "handle": "@GKxyz01"
+    },
+    {
+     "url": "https://x.com/CONDITION1NEWS/status/2116176614849712456",
+     "title": "CONFIRMED ATTACK: Koko-Besse, Nigeria Date: OCT 28 Time: Unknown Kebbi State police say gunmen killed a police inspector and 11 others in ra",
+     "description": "CONFIRMED ATTACK: Koko-Besse, Nigeria\nDate: OCT 28 Time: Unknown\n\nKebbi State police say gunmen killed a police inspector and 11 others in raids on Waiwayi, Kestu and Karwa on Oct 26 and 28.\n\nPolice blame suspected Lakurawa militants.\n\nResidents say 20+ died.\n\n📍 ≈ Koko-Besse",
+     "snippet": "CONFIRMED ATTACK: Koko-Besse, Nigeria\nDate: OCT 28 Time: Unknown\n\nKebbi State police say gunmen killed a police inspector and 11 others in raids on Waiwayi, Kestu and Karwa on Oct 26 and 28.\n\nPolice blame suspected Lakurawa militants.\n\nResidents say 20+ died.\n\n📍 ≈ Koko-Besse",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Condition One",
+     "handle": "@CONDITION1NEWS"
+    },
+    {
+     "url": "https://x.com/cbinewstv/status/2116061830934089827",
+     "title": "Residents of Waiwayi village in Koko Local Government Area of Kebbi State were seen running for their lives as suspected Lakurawa militants",
+     "description": "Residents of Waiwayi village in Koko Local Government Area of Kebbi State were seen running for their lives as suspected Lakurawa militants launched a deadly broad daylight attack on civilians. The militants raided Waiwayi, Karwa and Kestu villages around October 26 and 28, burning homes, looting shops and forcing residents to flee toward Koko town. Police confirmed 12 deaths across the attacks, including a police inspector, after joint security teams repelled the assailants.\n\nVideos and local accounts, however, claim up to 20 people were killed in Waiwayi alone, with widespread destruction. The attacks highlight the continuing threat from the group, which is active in Kebbi and Sokoto and carries out raids and cattle rustling, leaving communities gripped by fear.\n\n#CBINewsTV #Lakurawa #Kebbi #Security #Nigeria",
+     "snippet": "Residents of Waiwayi village in Koko Local Government Area of Kebbi State were seen running for their lives as suspected Lakurawa militants launched a deadly broad daylight attack on civilians. The militants raided Waiwayi, Karwa and Kestu villages around October 26 and 28, burning homes, looting shops and forcing residents to flee toward Koko town. Police confirmed 12 deaths across the attacks, including a police inspector, after joint security teams repelled the assailants.\n\nVideos and local accounts, however, claim up to 20 people were killed in Waiwayi alone, with widespread destruction. The attacks highlight the continuing threat from the group, which is active in Kebbi and Sokoto and carries out raids and cattle rustling, leaving communities gripped by fear.\n\n#CBINewsTV #Lakurawa #Kebbi #Security #Nigeria",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CBI News",
+     "handle": "@cbinewstv"
+    },
+    {
+     "url": "https://x.com/AUC31/status/2116132873593917699",
+     "title": "HIGH briefing: africa AllAfrica/Daily Trust reports that suspected Lakurawa and Mamudawa gunmen killed 11 residents and a police inspector i",
+     "description": "HIGH briefing: africa\n\nAllAfrica/Daily Trust reports that suspected Lakurawa and Mamudawa gunmen killed 11 residents and a police inspector in the Besse/Shanga riverine areas of Kebbi State between 22 and 28 October, burning houses, looting property, and displacing residents from Karwa, Kestu, and Waiwayi. The casualty figures and group attribution are single-source and require police/state corroboration. Separately, RFI reports the WTO Aid for Trade review on 29–30 October 2026, noting Africa receives nearly 40% of roughly $800 billion mobilized over 20 years, but argues attracting investment alone is insufficient. The two messages are unrelated; only the Nigeria item has immediate security relevance.\n\nSources: AllAfrica (1), RFI (1)\nMessages analyzed: 2 | 2026-10-30 11:39 UTC",
+     "snippet": "HIGH briefing: africa\n\nAllAfrica/Daily Trust reports that suspected Lakurawa and Mamudawa gunmen killed 11 residents and a police inspector in the Besse/Shanga riverine areas of Kebbi State between 22 and 28 October, burning houses, looting property, and displacing residents from Karwa, Kestu, and Waiwayi. The casualty figures and group attribution are single-source and require police/state corroboration. Separately, RFI reports the WTO Aid for Trade review on 29–30 October 2026, noting Africa receives nearly 40% of roughly $800 billion mobilized over 20 years, but argues attracting investment alone is insufficient. The two messages are unrelated; only the Nigeria item has immediate security relevance.\n\nSources: AllAfrica (1), RFI (1)\nMessages analyzed: 2 | 2026-10-30 11:39 UTC",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "AUC3I",
+     "handle": "@AUC31"
+    },
+    {
+     "url": "https://x.com/openwatchng/status/2116214130134634769",
+     "title": "Daily brief, Fri 30 Oct: 28 incidents reported, 158 killed across Nigeria.",
+     "description": "Daily brief, Fri 30 Oct: 28 incidents reported, 158 killed across Nigeria.\n\nISWAP assaults in Yobe leave 48+ dead as Plateau unrest and Ekiti candidate attack mark busy day.\n\nHotspots: Yobe, Plateau, Ekiti, Zamfara\n#OpenWatchNG",
+     "snippet": "Daily brief, Fri 30 Oct: 28 incidents reported, 158 killed across Nigeria.\n\nISWAP assaults in Yobe leave 48+ dead as Plateau unrest and Ekiti candidate attack mark busy day.\n\nHotspots: Yobe, Plateau, Ekiti, Zamfara\n#OpenWatchNG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "OpenWatch",
+     "handle": "@openwatchng"
+    },
+    {
+     "url": "https://x.com/openwatchng/status/2115851572009746842",
+     "title": "Daily brief, Thu 29 Oct: 16 incidents reported, 37 killed across Nigeria.",
+     "description": "Daily brief, Thu 29 Oct: 16 incidents reported, 37 killed across Nigeria.\n\nLakurawa kills 20 in Kebbi village as OPHK air strikes kill 15 ISWAP fighters in Borno.\n\nHotspots: Kebbi, Borno, Taraba, Zamfara\n#OpenWatchNG",
+     "snippet": "Daily brief, Thu 29 Oct: 16 incidents reported, 37 killed across Nigeria.\n\nLakurawa kills 20 in Kebbi village as OPHK air strikes kill 15 ISWAP fighters in Borno.\n\nHotspots: Kebbi, Borno, Taraba, Zamfara\n#OpenWatchNG",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "OpenWatch",
+     "handle": "@openwatchng"
+    },
+    {
+     "url": "https://x.com/TracTerrorism/status/2115839578695426485",
+     "title": "Suspected #Lakurawa Militants Commit Reprisal Assault on Marketplace, Killing Up to 20 Following Vigilante Cattle Rustling Incident, in Koko",
+     "description": "Suspected #Lakurawa Militants Commit Reprisal Assault on Marketplace, Killing Up to 20 Following Vigilante Cattle Rustling Incident, in Koko-Besse Area, Kebbi State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/lakurawa-militants-commit-reprisal-assault-trac-2/",
+     "snippet": "Suspected #Lakurawa Militants Commit Reprisal Assault on Marketplace, Killing Up to 20 Following Vigilante Cattle Rustling Incident, in Koko-Besse Area, Kebbi State, #Nigeria\nRead more: https://trackingterrorism.org/chatter/lakurawa-militants-commit-reprisal-assault-trac-2/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TRACTerrorism",
+     "handle": "@TracTerrorism"
+    },
+    {
+     "url": "https://x.com/rskwewum/status/2115439108331835678",
+     "title": "ZAMFARA — Oct 21–23 59+ bandits.",
+     "description": "ZAMFARA — Oct 21–23\n\n59+ bandits. Three-day siege on Birnin Tudu, Gummi LGA.\n\n5 civilians killed returning from farms.\n~1,000 cattle stolen.\n\nCommunity vigilantes held the town. Without adequate military backup.",
+     "snippet": "ZAMFARA — Oct 21–23\n\n59+ bandits. Three-day siege on Birnin Tudu, Gummi LGA.\n\n5 civilians killed returning from farms.\n~1,000 cattle stolen.\n\nCommunity vigilantes held the town. Without adequate military backup.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Rimamnde Shawulu Kwewum",
+     "handle": "@rskwewum"
+    }
+   ]
+  }
+ ]
+}

@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Europe’s Africa Policy Overlooks China’s Economic Influence",
+   "url": "https://chinaglobalsouth.com/analysis/europe-africa-policy-overlooks-china-growing-economic-influence",
+   "snippet": "Key Takeaways\n\n Distinct roles: China is economically transformative in Africa; Russia is increasingly nihilistic, focused on disinformation and trafficking.\n Chinese investment is shifting to manufacturing: estimated $8 billion by 2025; firms and joint ventures, like Volkswagen in Morocco, build export-focused factories.\n Europe’s bandwidth for Africa is squeezed by focus on Ukraine and the Middl",
+   "published": "Fri, 30 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Investment in EU: Resilient Deal Strategy | FTI",
+   "url": "https://www.fticonsulting.com/insights/articles/chinese-investment-eu-building-resilient-deal-strategy",
+   "snippet": "For Chinese investors, the issue should not be reduced to the abstract question of whether the EU welcomes Chinese investment. The EU continues to state publicly that it remains open to foreign investment, and the revised foreign direct investment (“FDI”) regulation itself also makes clear that foreign investment is welcome and that investment screening should balance security and public order con",
+   "published": "Fri, 30 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+   "snippet": "The proposed plant in Ferrol embodies the trade-off between short-term economic opportunity and long-term risk that these Chinese investments present to Europe.\n\n## Related Content\n\nAdvertisement [...] vehicle investments have grown faster over the past year than anywhere else in Europe. [...] Now the city, long since marred by industrial decay, unemployment and declining population, is becoming k",
+   "published": "Wed, 28 Oct 2026 04:01:08 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_invest",
  "_query": "Chinese investment Europe",
  "_domains": [],

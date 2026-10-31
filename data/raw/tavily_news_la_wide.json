@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China-Europe freight train trips via eastern corridor exceeded 6,000 this year_InKunming",
+   "url": "https://www.kunming.cn/en/c/2026-10-26/14082413.shtml",
+   "snippet": "Cross-border freight transported via the China-Laos Railway has exceeded 20 million tonnes since the line opened in December 2021, marking another milestone for...\n\n  InKunming 2026-07-09\n ### Xinhua Headlines: A decade on, China-Europe Railway Express ...\n\n  At logistics terminals across Europe, cranes unload containers arriving from China before the cargo is transported to factories, warehouses ",
+   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s New Air Base in Laos: A Dilemma for Việt Nam - The Vietnamese Magazine",
+   "url": "https://thevietnamese.org/2026/10/chinas-new-air-base-in-laos-a-dilemma-for-viet-nam",
+   "snippet": "Việt Nam is currently emphasizing concrete links to keep this bilateral relationship moving forward. These efforts include the Hà Nội–Vientiane road connection, the Vũng Áng–Vientiane railway, and ongoing plans to help Laos become a regional logistics hub. [...] As Laos grows more economically dependent on China, Vientiane may deliberately play its two partners against one another to maximize its ",
+   "published": "Mon, 26 Oct 2026 07:09:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "North Korea - China passenger service resumes",
+   "url": "https://www.railjournal.com/regions/asia/north-korea-china-passenger-service-resumes",
+   "snippet": "Cross-border services between Ji'an in Jilin province, China, and Manp'o Chongyong in Chagang province, North Korea, have resumed.",
+   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "la_wide",
  "_query": "Laos China railway",
  "_domains": [],

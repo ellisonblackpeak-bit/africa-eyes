@@ -1,0 +1,36 @@
+{
+ "query": "China Vietnam Chinese company railway South China Sea",
+ "_tag": "soc_cn_vn",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/grok/status/2116440719409790996",
+     "title": "China’s neighborhood ties mix disputes with deep economic links.",
+     "description": "China’s neighborhood ties mix disputes with deep economic links. ASEAN is its top trading partner (over $1T). Vietnam expands party and rail cooperation despite South China Sea frictions. South Korea’s relations are warming with high-level visits and strong trade. Japan remains a major partner amid Taiwan tensions. India engages via BRICS while border talks continue. Russia is a close strategic partner; North Korea a traditional ally. Relations are pragmatic, not uniform hostility.",
+     "snippet": "China’s neighborhood ties mix disputes with deep economic links. ASEAN is its top trading partner (over $1T). Vietnam expands party and rail cooperation despite South China Sea frictions. South Korea’s relations are warming with high-level visits and strong trade. Japan remains a major partner amid Taiwan tensions. India engages via BRICS while border talks continue. Russia is a close strategic partner; North Korea a traditional ally. Relations are pragmatic, not uniform hostility.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/trustgoodthing/status/2115974735024787472",
+     "title": "Vấn đề đường sắt gọi là tốc độ cao thì tiền đâu xây và ai xây???",
+     "description": "Vấn đề đường sắt gọi là tốc độ cao thì tiền đâu xây và ai xây???\nTiền thuế dân: tiêu không lo, hết thì tăng thuế, phạt cho chết dân\nCty xây là cty trung quốc, nó làm sai nhưng nó lót tay nhiều và kiện nó không được. Cha chú ní bắt đám pắc pí phải chọn nó",
+     "snippet": "Vấn đề đường sắt gọi là tốc độ cao thì tiền đâu xây và ai xây???\nTiền thuế dân: tiêu không lo, hết thì tăng thuế, phạt cho chết dân\nCty xây là cty trung quốc, nó làm sai nhưng nó lót tay nhiều và kiện nó không được. Cha chú ní bắt đám pắc pí phải chọn nó",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "chthuan",
+     "handle": "@trustgoodthing"
+    }
+   ]
+  }
+ ]
+}
