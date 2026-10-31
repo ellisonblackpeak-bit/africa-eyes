@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China's Belt and Road hasn't lived up to Xi's promise - Asia Times",
-   "url": "https://asiatimes.com/2026/10/chinas-belt-and-road-hasnt-lived-up-to-xis-promise",
-   "snippet": "Laos, already one of Asia’s poorest countries, accumulated enormous external debt under the BRI to pay for large-scale infrastructure projects, including power plants and a high-speed railway linking the capital, Vientiane, to Boten on the Chinese border and onward into China. [...] Faced with a debt crisis caused by its inability to repay BRI loans on their original terms, the government agreed t",
-   "published": "Thu, 29 Oct 2026 10:03:41 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China's economic growth offers global opportunities - Chinadaily.com.cn",
-   "url": "https://www.chinadaily.com.cn/a/202610/26/WS6adea7d0e4b06d4aa0564b7b.html",
-   "snippet": "Chinese companies have established more than 120 overseas economic and trade cooperation zones in economies participating in the Belt and Road Initiative, attracting over 7,000 businesses and creating 550,000 direct jobs.\n\nInfrastructure projects — including the Mombasa-Nairobi Standard Gauge Railway, the Ethiopia-Djibouti Standard Gauge Railway and the China-Laos Railway — have supported the deve",
-   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "North Korea - China passenger service resumes",
-   "url": "https://www.railjournal.com/regions/asia/north-korea-china-passenger-service-resumes",
-   "snippet": "Cross-border services between Ji'an in Jilin province, China, and Manp'o Chongyong in Chagang province, North Korea, have resumed.",
-   "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "la_wide",
  "_query": "Laos China railway",
  "_domains": [],

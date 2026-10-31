@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China co-financing Vietnam railways and industrial corridors",
-   "url": "https://www.facebook.com/viettonkin/posts/china-is-co-financing-vietnams-railways-and-industrial-corridors-the-infrastruct/1789492939850761",
-   "snippet": "The Lao Cai- Hanoi-Hai Phong railway, spanning approximately 419 km through nine provinces with a total investment of $8.37 billion (per National Assembly",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "China's $213.5 Billion Global Infrastructure Gamble",
-   "url": "https://www.youtube.com/watch?v=IYfmDdG0QRA",
-   "snippet": "China is investing enormous sums in railways, ports, mining infrastructure ... The first is the China-Laos Railway, which opened in December 2021. The",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "How does one of the poorest countries in Asia have a ...",
-   "url": "https://www.facebook.com/61568696398323/posts/how-does-one-of-the-poorest-countries-in-asia-have-a-bullet-train-but-the-us-doe/122191122560623213",
-   "snippet": "This post provides a detailed guide for tourists on the new China-Laos Railway, a high-speed passenger train that operates in Laos, China, and Thailand. The",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_la",
  "_query": "Chinese company Laos railway investment",
  "_domains": [],

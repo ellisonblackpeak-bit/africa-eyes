@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Iceland and China Discuss Trade, Energy and Ukraine in Beijing",
-   "url": "https://www.icelandreview.com/news/iceland-china-foreign-ministers-beijing-trade-energy-ukraine-2026",
-   "snippet": "Iceland and China discussed expanding trade and cooperation in geothermal energy and green technology.\n Icelandic exports to China exceeded ISK 23 billion in 2025, while imports from China topped ISK 166 billion.\n Þorgerður Katrín raised Ukraine directly and urged China to exert positive influence on Russia.\n\n## Trade Reached Record Levels in 2025 [...] Energy cooperation was also prominent. Nearl",
-   "published": "Fri, 30 Oct 2026 07:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Arctic shipping: China and Russia expand grip, can Europe fight back?",
-   "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-   "snippet": "For Moscow, the route offers an opportunity to redirect energy exports toward Asia as Western sanctions constrain its access to European markets, said industry watchers whom CNBC spoke to.\n\nOn the other hand, it provides Beijing another trade artery that could reduce reliance on traditional maritime chokepoints. [...] David Roche, a veteran strategist at Quantum Strategy & Geonomics, said the Arct",
-   "published": "Tue, 27 Oct 2026 00:16:21 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Russian and Chinese Experts Outline Their Views on China-Russia Relations",
-   "url": "https://russiapost.info/articles/russian-and-chinese-experts-outline-their-views-on-china-russia-relations",
-   "snippet": "China-Russia contacts have significantly strengthened since 2022, but the limits of the alliance are now increasingly coming into view.",
-   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],

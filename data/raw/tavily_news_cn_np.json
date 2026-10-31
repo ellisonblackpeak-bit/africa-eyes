@@ -1,14 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Him Parbat Hydropower Announces Rs 591.5 Million IPO | NEPSE Trading",
-   "url": "https://nepsetrading.com/blog/him-parbat-hydropower-announces-rs-5915-million-ipo-for-locals-and-migrant",
-   "snippet": "directly into Nepal's growing energy infrastructure. [...] Furthermore, aligning with the regulatory mandate introduced by the government to channel remittance into productive sectors, the company has secured 422,500 shares for Nepali migrant workers. This allocation represents exactly 10 percent of the total quota that will eventually be offered to the general public. Financial analysts note that",
-   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_np",
  "_query": "Chinese company Nepal investment hydropower",
  "_domains": [],

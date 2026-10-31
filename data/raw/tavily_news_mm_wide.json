@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Myanmar students explore Chinese culture through language training program - People's Daily Online",
-   "url": "https://en.people.cn/n3/2026/1026/c90000-20512178.html",
-   "snippet": "Students perform during the launch ceremony of a new batch of Chinese-language classes under the Kyaukphyu Anargat (future) Chinese Language Training Project at the China Cultural Center in Yangon, Myanmar, Oct. 24, 2026. (Xinhua/Myo Kyaw Soe) [...] Participants pose for a group photo during the launch ceremony of a new batch of Chinese-language classes under the Kyaukphyu Anargat (future) Chinese",
-   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China’s Monroe Doctrine and Its Strategic Blunder in Myanmar",
-   "url": "https://www.irrawaddy.com/opinion/guest-column/chinas-monroe-doctrine-and-its-strategic-blunder-in-myanmar.html",
-   "snippet": "Since the 2021 military coup, Myanmar has become increasingly unstable, while ethnic resistance organizations (EROs) have expanded their territorial control. Ironically, many resources and infrastructure projects China hopes to develop now lie in territories controlled by EROs and People’s Defense Forces (PDFs). Rare earth deposits are concentrated in Kachin State, where the Kachin Independence Or",
-   "published": "Wed, 28 Oct 2026 09:58:35 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Pulls Out of Logistics Hub Project at Colombo Port – The Diplomat",
-   "url": "https://thediplomat.com/2026/10/china-pulls-out-of-logistics-hub-project-at-colombo-port",
-   "snippet": "##### Society\n\n#### ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge\n\n##### Diplomacy\n\n#### China’s Advance in the Bahamas\n\n##### Security\n\n#### Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula\n\n### The Pulse | Economy | South Asia\n\n# China Pulls Out of Logistics Hub Project at Colombo Port [...] Lomé’s maritime ambitions, deepening ti",
-   "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "mm_wide",
  "_query": "Myanmar China project",
  "_domains": [],

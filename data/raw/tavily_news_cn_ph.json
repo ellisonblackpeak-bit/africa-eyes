@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Does Gibo want this Chinese company out of the PH?",
-   "url": "https://www.facebook.com/RigobertoTiglao/posts/does-gibo-want-this-chinese-company-out-of-the-ph/1718346152986319",
-   "snippet": "The Philippines and China have agreed on $15 billion or P789 billion worth of infrastructure projects when President Rodrigo Duterte visited Beijing last year.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "US Offers Philippines $5B Nuclear Financing: Bataan Plant ...",
-   "url": "https://www.facebook.com/IndoPacificReportIPR/videos/us-offers-philippines-5-billion-for-nuclear-power-china-is-watchingthe-united-st/1431285748512650",
-   "snippet": "Philippines still has no committed first nuclear power project. China is rapidly constructing a military base and a three-kilometer runway on Antelope Reef in",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],

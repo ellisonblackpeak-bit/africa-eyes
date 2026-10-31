@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "As the US resumes direct engagement with Myanmar's ...",
-   "url": "https://www.facebook.com/theirrawaddy/posts/as-the-us-resumes-direct-engagement-with-myanmars-regime-china-is-scrambling-to/1590512809770537",
-   "snippet": "China can only continue its projects and investments if Myanmar is at peace.China wants a peaceful Myanmar because it benefits economically from it. The Mee",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese investment overseas - Business and Human Rights Centre",
-   "url": "https://www.business-humanrights.org/en/big-issues/global-spotlight/chinese-investment-overseas",
-   "snippet": "## Further reading\n\nHeader photo: \"Maputo–Katembe bridge\" by Jcornelius, licensed under CC BY-SA 4.0\n\n## Related Items\n\nSatya Bumi\n\n### Indonesia Pomalaa Industrial Park (IPIP): Social and environmental concerns\n\n### Dominican Republic: 24 Chinese-owned businesses suspended over safety, wage, and rest day violations\n\nArticle 21 Oct 2026\n\n### Myanmar: KIA-facilitated Chinese business visit to propo",
-   "published": "Sun, 25 Oct 2026 03:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Facebook",
-   "url": "https://www.facebook.com/NewsContent.CCTVPLUS/posts/china-myanmar-crude-oil-pipeline-delivers-over-100-mln-tonnes-of-oilthe-china-my/1555038763327558",
-   "snippet": "Explore the things you love.\n\nLog into Facebook\n\n---\n\nEnglish (US)\n\nEspañol\n\nFrançais (France)\n\n中文(简体)\n\nالعربية\n\nPortuguês (Brasil)\n\nItaliano\n\nMore languages…\n\nSign Up\n\nLog In\n\nMessenger\n\nFacebook Lite\n\nVideo\n\nMeta Pay\n\nMeta Store\n\nMeta Quest\n\nRay-Ban Meta\n\nMeta AI\n\nMuse\n\nInstagram\n\nThreads\n\nPrivacy Policy\n\nConsumer Health Privacy\n\nPrivacy Center\n\nAbout\n\nCreate ad\n\nCreate Page\n\nAd choices\n\nContact",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_mm",
  "_query": "Chinese company Myanmar investment project",
  "_domains": [],

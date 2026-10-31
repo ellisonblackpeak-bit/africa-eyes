@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China smart-factory and EV production trends: OEM consolidation, automation and global competitiveness",
+   "url": "https://www.automotivemanufacturingsolutions.com/strategy/chinas-car-industry-consolidation-begins-who-will-survive/2759287",
+   "snippet": "The successful domestic brands, BYD, Geely and Chery, are also increasing exports, especially of HEVs and PHEVs to Europe. But the increased tariffs on Chinese-made EVs which have already been applied in Europe may well be extended to HEVs and PHEVs, hitting exports. Europe’s tariff policy has already led to Chinese companies accelerating manufacturing plans for Europe: BYD’s plant in Hungary has ",
+   "published": "Wed, 28 Oct 2026 17:03:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s Africa Policy Overlooks China’s Economic Influence",
+   "url": "https://chinaglobalsouth.com/analysis/europe-africa-policy-overlooks-china-growing-economic-influence",
+   "snippet": "As a recent Financial Times article showed, Chinese companies are rushing to build factories in African countries, manufacturing and assembling a wide range of products from Chinese inputs for export to Europe, the U.S., the Middle East, and, of course, Africa itself. [...] Key Takeaways\n\n Distinct roles: China is economically transformative in Africa; Russia is increasingly nihilistic, focused on",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Volkswagen considers using Chinese software for Europe, report says | Reuters",
+   "url": "https://www.reuters.com/business/autos-transportation/volkswagen-considers-using-chinese-software-europe-report-says-2026-10-26",
+   "snippet": "The company has so far kept software separate, using the architecture co-developed with Xpeng for ​the Chinese market ​while developing ⁠a separate technology for the Western world with Rivian, in a $5.8 billion ​investment at the heart of CEO Oliver ​Blume's ⁠software strategy. [...] Volkswagen's 'China Electronic ​Architecture', a system developed for Chinese models ​in cooperation with local EV",
+   "published": "Mon, 26 Oct 2026 16:45:22 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

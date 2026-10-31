@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+   "snippet": "Now the city, long since marred by industrial decay, unemployment and declining population, is becoming known for its warm welcome of Chinese industry into Spain and Western Europe.\n\nIn June SAIC Motor, one of China’s largest electronic vehicle manufacturers, chose a sleepy port just outside Ferrol as the site for a major plant. The project, which is expected to provide more than 1,000 jobs, has p",
+   "published": "Wed, 28 Oct 2026 04:01:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Arctic shipping: China and Russia expand grip, can Europe fight back?",
+   "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+   "snippet": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.\n\nMoscow and Beijing last week have agreed to expand freight traffic along Arctic shipping corridors, increase services between their ports and deepen cooperation on building polar vessels.\n\nThe agreement came after the EU unveiled a new Arctic s",
+   "published": "Tue, 27 Oct 2026 00:16:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism | Reuters",
+   "url": "https://www.reuters.com/world/asia-pacific/china-trade-accord-with-swiss-bucks-wider-trend-towards-protectionism-2026-10-29",
+   "snippet": "After coping with 39% US tariffs for months, Switzerland last November struck a provisional deal with ​Trump that cut those duties to 15%. Bern ​has been working to ensure its agreements ⁠hold and that it does not face new US tariffs.\n\nThe Swiss-China deal set off some alarm bells that the improved trading terms could make Switzerland a Chinese bridgehead in Europe just as many European firms are ",
+   "published": "Fri, 30 Oct 2026 02:54:38 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_port",
  "_query": "Chinese port Europe",
  "_domains": [],
