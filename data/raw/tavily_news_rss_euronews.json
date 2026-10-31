@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | October 31st, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this October 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sat, 31 Oct 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
    "url": "https://www.euronews.com/2026/10/31/karcher-boss-less-regulation-more-action-to-get-europe-and-germany-fit-again",
    "content": "Kärcher, best known for its pressure washers, recorded €3.5 billion in sales in 2025 and employs 17,000 people worldwide. Its CEO warns of a 'perfect storm' and calls for a fitness plan for Germany and Europe.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/10/30/netanyahu-bloc-emerges-ahead-in-israeli-election-but-fails-to-secure-majority",
    "content": "The result means Israel is now set to face a lengthy and likely tricky period of negotiations as party leaders work to form a government.",
    "published_date": "Fri, 30 Oct 2026 08:31:44 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Europe Today: Rare Oleshky truce holds in Ukraine, Albania imposes heavy fines on protesters",
-   "url": "https://www.euronews.com/2026/10/30/europe-today-rare-oleshky-truce-holds-in-ukraine-albania-imposes-heavy-fines-on-protesters",
-   "content": "A rare ceasefire in Russian-occupied Oleshky enters its fourth day as aid is expected to arrive, after a Russian drone killed at least 14 at Dnipro's station. In Albania, protesters face fines up to €5,500. We also look at Israel's deadlock and the Ebola epidemic in Congo.",
-   "published_date": "Fri, 30 Oct 2026 08:01:54 +0100",
    "score": 0.6
   }
  ],

@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China’s Monroe Doctrine and Its Strategic Blunder in Myanmar",
-   "url": "https://www.irrawaddy.com/opinion/guest-column/chinas-monroe-doctrine-and-its-strategic-blunder-in-myanmar.html",
-   "snippet": "Since the 2021 military coup, Myanmar has become increasingly unstable, while ethnic resistance organizations (EROs) have expanded their territorial control. Ironically, many resources and infrastructure projects China hopes to develop now lie in territories controlled by EROs and People’s Defense Forces (PDFs). Rare earth deposits are concentrated in Kachin State, where the Kachin Independence Or",
-   "published": "Wed, 28 Oct 2026 09:58:35 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Pulls Out of Logistics Hub Project at Colombo Port – The Diplomat",
-   "url": "https://thediplomat.com/2026/10/china-pulls-out-of-logistics-hub-project-at-colombo-port",
-   "snippet": "##### Society\n\n#### ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge\n\n##### Diplomacy\n\n#### China’s Advance in the Bahamas\n\n##### Security\n\n#### Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula\n\n### The Pulse | Economy | South Asia\n\n# China Pulls Out of Logistics Hub Project at Colombo Port [...] Lomé’s maritime ambitions, deepening ti",
-   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Myanmar is waging the world’s second most intense drone war | International | EL PAÍS English",
-   "url": "https://english.elpais.com/international/2026-10-31/myanmar-is-waging-the-worlds-second-most-intense-drone-war.html",
-   "snippet": "The junta asked Beijing to block the sale of drone parts to the resistance. And the price of an agricultural drone for the guerrillas doubled to around $6,000, according to the ACLED project. China also closed the supply routes of two of the opposition groups that had spearheaded the 2023 offensive and pressured them to sign ceasefire agreements that forced them to withdraw from captured cities. [",
-   "published": "Sat, 31 Oct 2026 04:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "mm_wide",
  "_query": "Myanmar China project",
  "_domains": [],

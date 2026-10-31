@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "How Beijing's Africa ambitions, financed by China's mega banks, triggered a crisis in Zambia - ICIJ",
-   "url": "https://www.icij.org/investigations/china-capital/how-beijings-africa-ambitions-financed-by-chinas-mega-banks-triggered-a-crisis-in-zambia",
-   "snippet": "In Zambia in the 2010s, Chinese companies seeking work on infrastructure projects helped drive the frenzied acquisition of government-backed loans to fund projects they then profited from. In the case of the $285 million ICBC loan, TBEA, a Chinese firm based in the Xinjiang region specializing in power transmission and renewable energy projects, arranged the financing for a project it was contract",
-   "published": "Mon, 26 Oct 2026 04:01:17 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Africa’s atomic suitors – Foreign and security policy | IPS Journal",
    "url": "https://www.ips-journal.eu/topics/foreign-and-security-policy/africas-atomic-suitors-9389",
    "snippet": "Then there is the upstream, or sourcing, story, which gets less attention but matters equally. Namibia is one of the world’s top uranium producers, and Chinese state firms now control its two largest mines. CGN owns and operates the Husab mine, and a CNNC subsidiary bought Rössing Uranium from British-Australian Rio Tinto in 2019. Owning the ore, not just the reactor, lets China capture value at b",
@@ -19,7 +12,14 @@
    "title": "Europe’s Africa Policy Overlooks China’s Economic Influence",
    "url": "https://chinaglobalsouth.com/analysis/europe-africa-policy-overlooks-china-growing-economic-influence",
    "snippet": "As a recent Financial Times article showed, Chinese companies are rushing to build factories in African countries, manufacturing and assembling a wide range of products from Chinese inputs for export to Europe, the U.S., the Middle East, and, of course, Africa itself. [...] Key Takeaways\n\n Distinct roles: China is economically transformative in Africa; Russia is increasingly nihilistic, focused on",
-   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "published": "Fri, 30 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese AI Can Learn to Love the West",
+   "url": "https://www.lawfaremedia.org/article/chinese-ai-can-learn-to-love-the-west",
+   "snippet": "Last week, AI firm Hirundo released a case study detailing its experiments with the open-weight Qwen3-Coder model from Chinese firm Alibaba. Hirundo prompted Qwen3-Coder to build a secrets storage app for different hypothetical customers and compared how secure the agent’s code was. The code's security was then benchmarked against BaxBench. [...] 1.   Operation Serengeti III arrests thousands in A",
+   "published": "Fri, 30 Oct 2026 12:44:08 GMT",
    "source": "tavily"
   }
  ],

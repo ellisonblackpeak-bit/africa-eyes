@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Polish president calls crisis talks after court standoff",
+   "url": "https://www.rapporteur.com/news/polish-president-calls-crisis-talks-after-court-standoff/",
+   "content": "Karol Nawrocki cut short a trip to Senegal and returned to Warsaw",
+   "published_date": "Sat, 31 Oct 2026 09:32:45 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Trump admin approves potential Patriot missiles sale to Ukraine",
    "url": "https://www.rapporteur.com/news/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/",
    "content": "Zelenskyy warns deliveries could take years despite US approval of 500 Patriot missiles",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/eu-canada-trade-deal-is-stuck-in-the-cheese-aisle/",
    "content": "Closer ties and growing exports could soften longstanding objections to CETA",
    "published_date": "Fri, 30 Oct 2026 03:00:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Big Tech main target of Kobosko’s 2% traffic rule",
-   "url": "https://www.rapporteur.com/news/big-tech-main-target-of-koboskos-2-traffic-rule/",
-   "content": "Lead Digital Networks Act lawmaker's plan for network interconnection terms could also hit France's Canal+",
-   "published_date": "Fri, 30 Oct 2026 03:00:52 +0000",
    "score": 0.6
   }
  ],

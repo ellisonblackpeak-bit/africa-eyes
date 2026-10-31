@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "1st confirmed Ebola patient in Nigeria evacuated to Switzerland | PBS News",
-   "url": "https://www.pbs.org/newshour/world/1st-confirmed-ebola-patient-in-nigeria-evacuated-to-switzerland",
-   "snippet": "Nigerian Health Minister Muhammad Pate said the woman, the country's first case in the current outbreak, left the capital, Abuja, early Monday with his approval. Her condition had improved significantly, and she was stable, conscious and able to communicate, he said.\n\n## Grow your mind\n\nSubscribe to our Science Newsletter to explore the\nwide worlds of science, health and technology.\n\nThank you. Pl",
-   "published": "Mon, 26 Oct 2026 20:46:14 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Kenya reports 2nd Ebola death as Nigeria races to understand transmission of index patient | CIDRAP",
-   "url": "https://www.cidrap.umn.edu/ebola/kenya-reports-2nd-ebola-death-nigeria-races-understand-transmission-index-patient",
-   "snippet": "Nigeria’s index Ebola case-patient returned to Switzerland today in stable condition via air ambulance, according to a post on X. “The index patient was clinically much improved, stable, conscious, communicating, and her clinical laboratory test results closing towards baseline,” said Muhammad Ali Pate, the coordinating minister of health and social welfare for Nigeria. “This does not mean she is ",
-   "published": "Mon, 26 Oct 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers - The New York Times",
-   "url": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
-   "snippet": "The first case was a 42-year-old Ugandan woman living in Abuja, Nigeria’s capital, with her husband, a Swiss diplomat. She tested positive for the virus last week and was evacuated to Switzerland on Monday in stable condition.\n\nIt remains unclear where and how the patient was infected with Ebola. But she was in the Nigerian capital for 17 days before she tested positive for the virus. [...] Suppor",
-   "published": "Wed, 28 Oct 2026 18:16:55 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],

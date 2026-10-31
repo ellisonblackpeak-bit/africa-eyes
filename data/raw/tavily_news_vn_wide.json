@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Chinese investment in Vietnam expands into AI, other high-tech sectors, as businesses eye deeper cooperation - Global Times",
-   "url": "https://www.globaltimes.cn/page/202610/1373083.shtml",
-   "snippet": "\"Bilateral economic cooperation is characterized by expanding trade, diversified investment, and a clear shift toward high-quality, technology-intensive sectors,\" Do Quang Tung, counselor at the Vietnamese Embassy in Beijing, told the Global Times on Tuesday.  \n  \nChina remains Vietnam's largest trading partner, with bilateral trade reaching about $256.5 billion in 2025 and exceeding $253 billion ",
-   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Vietnamese cooperatives promote trade in China",
-   "url": "https://vietnamnews.vn/economy/1802996/vietnamese-cooperatives-promote-trade-in-china.html",
-   "snippet": "HÀ NỘI — A 33-member delegation from the Vietnam Cooperative Alliance (VCA), representing 25 cooperatives, is attending the China International Agricultural Machinery Exhibition 2026 to showcase Vietnamese agricultural products and explore trade opportunities in the Chinese market. [...] Through its participation, the VCA aims to help Vietnamese cooperatives expand trade ties in China while gainin",
-   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Asia braces for Europe’s turn on Chinese overcapacity | East Asia Forum",
-   "url": "https://eastasiaforum.org/2026/10/25/asia-braces-for-europes-turn-on-chinese-overcapacity",
-   "snippet": "This process is already underway. Chinese exports to ASEAN rose 52 per cent year-on-year in September 2026, twice the pace of shipments to the EU. According to Chinese customs data, Vietnam alone bought more than US$72 billion of Chinese goods in the first four months of 2026, with Thailand and Malaysia buying around US$40 billion each. The flow is largely one-way — ASEAN’s exports to China have f",
-   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "vn_wide",
  "_query": "Vietnam China trade",
  "_domains": [],

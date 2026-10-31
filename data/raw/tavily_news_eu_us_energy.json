@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "US LNG Exporters Find Few Takers in Europe for New Supply",
+   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply",
+   "snippet": "By Priscila Azevedo Rocha and Ruth Liao US liquefied natural gas developers expected Europe to…",
+   "published": "Fri, 30 Oct 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EXCLUSIVE: QatarEnergy buys US, other LNG to hedge future Hormuz disruptions | Reuters",
+   "url": "https://www.reuters.com/business/energy/qatarenergy-buys-us-other-lng-hedge-future-hormuz-disruptions-2026-10-29",
+   "snippet": "QatarEnergy can profit from the gap between lower US gas prices and higher European prices, Kaabi said.\n\n\"You can imagine the arbitrage you can make, and that would make up some of the loss.\"\n\n## MORE DEALS TO COME\n\nKaabi said he expects QatarEnergy to sign more 20- to 25-year supply agreements with US and other producers this year. [...] The company signed a 20-year agreement on Thursday to buy 3",
+   "published": "Thu, 29 Oct 2026 15:39:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Next Risk For U.S. LNG Is Demand, Not Supply",
+   "url": "https://www.forbes.com/sites/rrapier/2026/10/24/the-next-risk-for-us-lng-is-demand-not-supply",
+   "snippet": "U.S. LNG export capacity is surging, but the next challenge may be whether global demand can grow fast enough to keep new terminals fully utilized.",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],

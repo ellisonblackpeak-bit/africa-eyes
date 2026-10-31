@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Google, Apple Fined By South Korea Media Commission 10/29/2026 - MediaPost",
+   "url": "https://www.mediapost.com/publications/article/419052/google-apple-fined-by-south-korea-media-commissio.html",
+   "snippet": "Subscribe today to gain access to every *Research Intelligencer* article we publish as well as the exclusive daily newsletter, full access to *The MediaPost Cases*, first-look research and daily insights from Joe Mandese, Editor in Chief. # Google, Apple Fined By South Korea Media Commission. South Korea fined Google and Apple on. The South Korea Media and Communications Commission (KMCC), the cou",
+   "published": "Wed, 28 Oct 2026 21:20:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US bans imports from 3 Chinese biotech companies over forced labor allegations - Greenwich Time",
+   "url": "https://www.greenwichtime.com/business/article/us-bans-imports-from-3-chinese-biotech-companies-22499559.php",
+   "snippet": "WASHINGTON (AP) — The Trump administration said Wednesday that it is blocking shipments by the Chinese biotech company BGI Group and its affiliates, alleging ties to forced labor in China's far-west ethnic region of Xinjiang. Starting Thursday, U.S. Customs and Border Protection will bar goods by BGI Group, a major biotech company known for its genetic sequencing technologies, as well as BGI Genom",
+   "published": "Wed, 28 Oct 2026 22:41:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US bans imports from 3 Chinese biotech companies over forced labor allegations - Houston Chronicle",
+   "url": "https://www.houstonchronicle.com/business/article/us-bans-imports-from-3-chinese-biotech-companies-22499559.php",
+   "snippet": "WASHINGTON (AP) — The Trump administration said Wednesday that it is blocking shipments by the Chinese biotech company BGI Group and its affiliates, alleging ties to forced labor in China's far-west ethnic region of Xinjiang. Starting Thursday, U.S. Customs and Border Protection will bar goods by BGI Group, a major biotech company known for its genetic sequencing technologies, as well as BGI Genom",
+   "published": "Thu, 29 Oct 2026 05:45:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kadena Air Force Base In Japan Bans Vehicles Made by Chinese Company BYD: 'Unacceptable and Unmitigable Risk' - Military.com",
+   "url": "https://www.military.com/us-air-force-base-japan-bans-vehicles-made-by-chinese-company",
+   "snippet": "# US Air Force Base in Japan Bans Vehicles Made by Chinese Company. “These vehicles present an unacceptable and unmitigable risk to our personnel and our mission,” a U.S. spokesperson said about BYD. A U.S. military base in Japan has banned vehicles made by the Chinese company BYD, citing security concerns. Kadena Air Force Base on the southern Japanese island of Okinawa enforced the ban this past",
+   "published": "Thu, 29 Oct 2026 15:09:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US bans imports from 3 Chinese biotech companies over forced labor allegations - AP News",
+   "url": "https://apnews.com/article/china-trump-biotech-forced-labor-bgi-genomics-92531b29092332a680fd7abff55a0f27",
+   "snippet": "WASHINGTON (AP) — The Trump administration said Wednesday that it is blocking shipments by the Chinese biotech company BGI Group and its affiliates, alleging ties to forced labor in China’s far-west ethnic region of Xinjiang. Starting Thursday, U.S. Customs and Border Protection will bar goods by BGI Group, a major biotech company known for its genetic sequencing technologies, as well as BGI Genom",
+   "published": "Wed, 28 Oct 2026 22:41:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Google and Apple fined in South Korea over in-app payment rules - The Next Web",
+   "url": "https://thenextweb.com/news/google-apple-fined-south-korea-in-app-payments",
+   "snippet": "The regulator says they forced app developers onto their own payment systems and delayed app reviews without explanation. Both must now let Korean developers link to outside payment options inside their apps. The Korea Media and Communications Commission (KMCC) fined Google 42.9bn won ($32m) and Apple 20.8bn won ($15.5m) on Wednesday. It is the first penalty under a 2021 law that bans app stores f",
+   "published": "Fri, 30 Oct 2026 14:54:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang - Reuters",
+   "url": "https://www.reuters.com/world/china/us-bans-imports-three-chinese-genomics-companies-citing-forced-labor-2026-10-28/",
+   "snippet": "WASHINGTON, Oct 28 (Reuters) - The United States on Wednesday ​banned imports from three Chinese genomics companies over their alleged roles in enabling the forced labor of Uyghurs ‌and other ethnic minorities in China's Xinjiang region. BGI Genomics Co Ltd, MGI Tech Co Ltd (688114.SS) and Shenzhen BGI Technology Co Ltd, which the US says is also known as the BGI Group, were added to the Uyghur Fo",
+   "published": "Wed, 28 Oct 2026 16:38:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Caleb Williams hasn’t been fined for Week 7, despite wearing unauthorized shoes - NBC Sports",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-hasnt-been-fined-for-week-7-despite-wearing-unauthorized-shoes",
+   "snippet": "# Caleb Williams hasn’t been fined for Week 7, despite wearing unauthorized shoes. The NFL fined Bears quarterback Caleb Williams $11,941 for wearing an “unauthorized logo” on his shoes in Week 6, at Atlanta. In Week 7, he wore the same brand of shoe — Caddix, which doesn’t have a licensing deal with the NFL. Williams explained on Wednesday his reasons for wearing shoes made by a company that does",
+   "published": "Wed, 28 Oct 2026 23:40:30 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_fined",
  "_query": "Chinese company fined",
  "_domains": [],

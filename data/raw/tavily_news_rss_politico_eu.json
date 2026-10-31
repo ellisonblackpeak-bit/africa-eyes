@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Zelenskyy urges US to speed up Patriot deliveries",
+   "url": "https://www.politico.eu/article/volodymyr-zelenskyy-urges-us-speed-up-patriot-deliveries/",
+   "content": "Washington approved the sale of 500 interceptors to counter Russian ballistic missile attacks.",
+   "published_date": "Sat, 31 Oct 2026 10:41:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Polish president Nawrocki pushes his way into top court amid rule-of-law tussle",
+   "url": "https://www.politico.eu/article/poland-president-karol-nawrocki-rule-of-law-crisis/",
+   "content": "Karol Nawrocki made his way through protesters around midnight in the latest escalation of his conflict with Prime Minister Donald Tusk.",
+   "published_date": "Sat, 31 Oct 2026 10:03:04 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Eralps Tag der Entscheidung und die Suche nach dem Staatsoberhaupt mit Rasmus Buchsteiner",
    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/eralps-tag-der-entscheidung-und-die-suche-nach-dem-staatsoberhaupt-mit-rasmus-buchsteiner/",
    "content": "Präsentiert von YouTube.",
@@ -37,38 +51,24 @@
    "score": 0.6
   },
   {
+   "title": "EU und Kanada erzielen Einigung über kritische Mineralien und LNG",
+   "url": "https://www.politico.eu/article/eu-und-kanada-erzielen-einigung-ueber-kritische-mineralien-und-lng/",
+   "content": "Das Abkommen zielt darauf ab, den Handel mit Ressourcen zu fördern, die für die Energiewende benötigt werden.",
+   "published_date": "Fri, 30 Oct 2026 16:51:58 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU and Canada reach agreement on critical minerals and LNG",
+   "url": "https://www.politico.eu/article/eu-and-canada-reach-agreement-on-critical-minerals-and-lng/",
+   "content": "Deal aims to boost trade of resources needed in the energy transition.",
+   "published_date": "Fri, 30 Oct 2026 16:15:40 +0000",
+   "score": 0.6
+  },
+  {
    "title": "The Rutte way or the Carney method? Scaramucci says Europe’s Trump strategy is off the Mark",
    "url": "https://www.politico.eu/article/mark-rutte-mark-carney-donald-trump-anthony-scaramucci-white-house-strategy-europe/",
    "content": "The former White House comms chief described two models of behavior displayed by the NATO secretary-general and the Canadian prime minister.",
    "published_date": "Fri, 30 Oct 2026 14:32:19 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Russian citizen faces spying charges in Poland after photographing railways",
-   "url": "https://www.politico.eu/article/russian-citizen-detained-in-poland-over-espionage/",
-   "content": "The suspect was arrested while taking pictures at an unguarded railway crossing.",
-   "published_date": "Fri, 30 Oct 2026 13:35:45 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Unrest in France is nightmare fuel for Macron’s heirs",
-   "url": "https://www.politico.eu/article/unrest-in-france-is-nightmare-fuel-for-emmanuel-macron-heirs/",
-   "content": "Center-right presidential candidates are struggling to get across their message amid a wave of protests in France.",
-   "published_date": "Fri, 30 Oct 2026 12:48:37 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Former US ambassadors: America must stand with Ukraine",
-   "url": "https://www.politico.eu/article/former-united-states-ambassadors-say-america-must-stand-with-ukraine/",
-   "content": "Current U.S. policy raises the fundamental question of whether Washington understand what is at stake.",
-   "published_date": "Fri, 30 Oct 2026 11:28:44 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Streeting insists Burnham won’t make ‘arbitrary’ welfare cuts",
-   "url": "https://www.politico.eu/article/uk-budget-streeting-insists-burnham-will-not-make-arbitrary-welfare-cuts/",
-   "content": "U.K. Cabinet minister says PM's predecessor didn’t have a “thought-through plan” to bring down welfare bill.",
-   "published_date": "Fri, 30 Oct 2026 10:43:30 +0000",
    "score": 0.6
   }
  ],
