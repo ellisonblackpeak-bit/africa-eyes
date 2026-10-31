@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Europe’s Push for an “EU Version of Section 301”: Darkening Prospects for Chinese Exports as Trade Restrictions Expand | Policy News — The Economy",
+   "url": "https://economy.ac/news/2026/10/202610295761",
+   "snippet": "The EU has also moved to strengthen coordination with neighboring trading partners on China in the automotive sector. According to electric vehicle publication CnEVPost, the EU called on the United Kingdom to raise tariffs on Chinese EVs and closely align its trade policy toward China with the bloc’s. Britain did not join the EU when it introduced additional tariffs on Chinese EVs in 2024. Concern",
+   "published": "Thu, 29 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Plans to Hit China With More Import Curbs in Early 2027 - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/eu-plans-to-hit-china-with-more-import-curbs-in-early-2027",
+   "snippet": "EXCLUSIVE\n\nTrade\n\n# EU Plans to Hit China With More Import Curbs in Early 2027\n\nThe European Union is planning to use safeguard measures to cut imports of products from sectors including chemicals, furniture and machinery from China, according to people familiar with the matter.\n\nThe measures, which could take the form of either import caps or tariffs, may be presented as soon as the first quarter",
+   "published": "Mon, 26 Oct 2026 08:31:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Beijing softens on EU curbs to avoid blame for Europe’s unrest - Asia Times",
+   "url": "https://asiatimes.com/2026/10/beijing-softens-on-eu-curbs-to-avoid-blame-for-europes-unrest",
+   "snippet": "The European Commission plans to use safeguard measures to cut imports of chemicals, furniture and machinery from China, Bloomberg reported on Monday, citing people familiar with the matter. The measures, which could take the form of import caps or tariffs, may be presented as soon as the first quarter of 2027. They would comply with World Trade Organization (WTO) rules and apply to all countries ",
+   "published": "Mon, 26 Oct 2026 20:22:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Cheap Chinese EVs Are Sneaking Around Europe's Tariffs",
+   "url": "https://insideevs.com/news/813426/chinese-evs-western-markets-used",
+   "snippet": "BYD Denza Z9S\n\nChina EV Marketplace, a company that exports Chinese vehicles and parts abroad, told CarNewsChina that the number of used cars it sold to Europe increased by more than 280% year-over-year. Throughout the end of September, it managed to export 7,900 cars to the EU. Those vehicles enabled buyers to navigate around Europe's import duties of up to 45.3% on Chinese EVs. Vehicles with ove",
+   "published": "Tue, 27 Oct 2026 22:51:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Morocco Could Help China Sidestep Europe's EV Tariffs",
+   "url": "https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy",
+   "snippet": "Brussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies. To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead. [...] Bruss",
+   "published": "Tue, 27 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia braces for Europe’s turn on Chinese overcapacity | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/25/asia-braces-for-europes-turn-on-chinese-overcapacity",
+   "snippet": "The trade imbalance is stark. The EU’s goods deficit with China reached around €360 billion (US$407 billion) in 2025 and has run at roughly €1 billion a day since mid-2026, while Chinese customs data show exports to the EU up 25 per cent year-on-year in September. Every EU member now runs a deficit with China, most of which sits in machinery, chemicals, metals, batteries, solar panels and informat",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The View | EU-China hybrid car deal won’t really help European carmakers | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers",
+   "snippet": "Earlier this month, simmering trade tensions between the EU and China ease as the two sides reached an agreement in Beijing limiting hybrid car exports from China to an annual quota of 350,000 units. After the European Union imposed tariffs on fully electric cars from China in 2024, hybrid imports surged. The quota would result in more than a halving of the 800,000 hybrid cars expected to be sold ",
+   "published": "Tue, 27 Oct 2026 08:30:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why is it easier for China to reach an agreement with Bern than with Brussels?",
+   "url": "https://tomorrowsaffairs.com/why-is-it-easier-for-china-to-reach-an-agreement-with-bern-than-with-brussels",
+   "snippet": "Different industry standards, product registration procedures and import permits may still limit use of the new benefits. Senior Swiss trade official Roger Gschwend said that the Chinese offer shows Beijing’s willingness to further open its market.\n\n### Brussels seeks far more from China than lower tariffs\n\nIn 2025, the European Union imported goods worth 559.5 billion euros from China and exporte",
+   "published": "Fri, 30 Oct 2026 19:09:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese expert debates on EU-China economic frictions + Gotion-PowerCo deal + Electric car exports | Merics",
+   "url": "https://merics.org/en/merics-briefs/chinese-expert-debates-eu-china-economic-frictions-gotion-powerco-deal-electric-car",
+   "snippet": "China’s high-level engagement was limited in recent months\n\nThe EU’s share of China’s fully electric car exports is steady so far in 2026 despite tariffs\n\nShort takes\n\nChina Update Newsletter\n\nMERICS Update\n\nSign up for our newsletters, event invitations and publication alerts.\n\nSubscribe\n\n## Become a member\n\nAs a member, you can rely on us to deepen your organization's China expertise and to help",
+   "published": "Thu, 29 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Understanding Trump's tariff reversals | PIIE",
+   "url": "https://www.piie.com/blogs/realtime-economics/2026/understanding-trumps-tariff-reversals",
+   "snippet": "According to these estimates, by far the biggest effect of these tariff threats and reversals was to deliver negotiating coin for concessions by foreign partners. Trump's biggest threatened tariff was on Chinese imports, worth some $496 billion on an annualized basis. Other reversals, with respect to the United Kingdom, European Union, and Japan, brought the total threats under this heading to $50",
+   "published": "Tue, 27 Oct 2026 15:51:41 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_policy",
  "_query": "EU China tariffs",
  "_domains": [],

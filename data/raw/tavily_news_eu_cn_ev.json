@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Used Chinese EV sales skyrocket 280% in Europe as buyers take advantage of tariff exemption",
+   "url": "https://www.thecooldown.com/green-business/used-chinese-evs-europe-tariff-exemptions",
+   "snippet": "EU trade measures that made many new Chinese models harder to purchase helped fuel the rise, as Car News China reported.\n\nOver that same span, China EV Marketplace said new-vehicle sales to EU customers dropped 44%.\n\nThe change in demand followed a 2024 decision to place countervailing duties of up to 45.3% on battery electric vehicles imported from China. [...] by James Nanzo\n\n share\n Facebook\n T",
+   "published": "Wed, 28 Oct 2026 12:51:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Morocco Could Help China Sidestep Europe's EV Tariffs",
+   "url": "https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy",
+   "snippet": "In short, if Chinese EV companies succeed in establishing vehicle assembly factories and fully integrating supply chains in Morocco, they will be able to sell vehicles to Europe under a “Made in Morocco” label, avoiding both the 10 percent EU standard automobile tariff and the additional punitive tariff on Chinese-made EVs—reducing the total tariff effect from as much as 45 percent to zero. This w",
+   "published": "Tue, 27 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BYD Says It Won't Let EU Tariff Hikes Sway Europeans' Choice of Its Cars",
+   "url": "https://eletric-vehicles.com/byd/byd-says-it-wont-let-eu-tariff-hikes-sway-europeans-choice-of-its-cars",
+   "snippet": "## Squeeze at home\n\nThe pressure is also coming from Beijing. China’s Ministry of Finance and State Taxation Administration said on October 12 that the export VAT rebate for new energy vehicles, covering battery electric and plug-in hybrid cars, will fall to 9% from 13% from April 1, 2027.\n\nChina also reintroduced a 2% consumption tax on lithium-ion batteries on September 1, ending an 11-year exem",
+   "published": "Mon, 26 Oct 2026 09:07:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The View | EU-China hybrid car deal won’t really help European carmakers | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers",
+   "snippet": "Earlier this month, simmering trade tensions between the EU and China ease as the two sides reached an agreement in Beijing limiting hybrid car exports from China to an annual quota of 350,000 units. After the European Union imposed tariffs on fully electric cars from China in 2024, hybrid imports surged. The quota would result in more than a halving of the 800,000 hybrid cars expected to be sold ",
+   "published": "Tue, 27 Oct 2026 08:30:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia braces for Europe’s turn on Chinese overcapacity | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/25/asia-braces-for-europes-turn-on-chinese-overcapacity",
+   "snippet": "Beijing offered Berlin a sweet deal days before the 15–16 October 2026 European Council summit: a ‘shared understanding’ to curb Chinese exports of hybrid and plug-in hybrid vehicles to the European Union, the segment in which Chinese brands had gained ground fastest since the EU’s 2024 duties on battery electric. The package also included Chinese tariff cuts on almost €4 billion of European expor",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese expert debates on EU-China economic frictions + Gotion-PowerCo deal + Electric car exports | Merics",
+   "url": "https://merics.org/en/merics-briefs/chinese-expert-debates-eu-china-economic-frictions-gotion-powerco-deal-electric-car",
+   "snippet": "China’s high-level engagement was limited in recent months\n\nThe EU’s share of China’s fully electric car exports is steady so far in 2026 despite tariffs\n\nShort takes\n\nChina Update Newsletter\n\nMERICS Update\n\nSign up for our newsletters, event invitations and publication alerts.\n\nSubscribe\n\n## Become a member\n\nAs a member, you can rely on us to deepen your organization's China expertise and to help",
+   "published": "Thu, 29 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Carmakers Overtake Japan in Europe for First Time - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/chinese-carmakers-overtake-japan-europe-byd-chery-toyota-nissan",
+   "snippet": "Registrations of Chinese-branded cars roughly doubled from a year earlier in the three months through September to make up 12.7% of total sales across the region, led by hybrids, according to market researcher Dataforce. That’s put them ahead of Japanese manufacturers including Toyota Motor Corp. at 11.9%. [...] # Chinese Carmakers Overtake Japan in Europe for First Time\n\nChinese automakers outsol",
+   "published": "Mon, 26 Oct 2026 08:00:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's Great Wall Motor to build Ora 5 compact SUV in Bulgaria",
+   "url": "https://www.reuters.com/business/autos-transportation/great-wall-motor-build-ora-5-compact-suv-bulgaria-2026-10-27",
+   "snippet": "China's Great Wall ​Motor will build its Ora 5 compact SUV in Bulgaria from early 2027 under a manufacturing agreement ‌with a local partner,",
+   "published": "Tue, 27 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_ev",
  "_query": "EU electric vehicle tariff China",
  "_domains": [],

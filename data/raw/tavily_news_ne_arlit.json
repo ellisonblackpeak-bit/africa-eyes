@@ -1,42 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Algerian troops arrive in Niger in first foreign deployment in decades - TRT Afrika",
-   "url": "https://www.trtafrika.com/article/2d88923ba21b",
-   "snippet": "|  English\n\n|  English\n\nPOLITICSAFRICATÜRKİYEOPINIONFEATURESSPORTS\n\nAFRICA\n\n1 min read\n\nAlgerian troops arrive in Niger in first foreign deployment in decades\n\nThe first Algerian military convoy had reached Arlit, a uranium mining town in the country's northwest, according to reports.\n\nAlgerian troops arrive in Niger in first foreign deployment in decades\n\nFILE PHOTO: The military units will prote",
-   "published": "Fri, 30 Oct 2026 19:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "First Algerian troops arrive in Niger where jihadists threaten stability - Internazionale",
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/30/first-algerian-troops-arrive-in-niger-where-jihadists-threaten-stability",
-   "snippet": "• Energy is an important focus for Algeria in Niger, where Algerian state-run oil and gas firm Sonatrach has investments\n\n• One major project, the Trans-Saharan Gas Pipeline with Niger and Nigeria, aims to deliver African gas to Europe and other international markets\n\n• Reuters spoke to 10 people who said the first Algerian military convoy had reached Arlit, a uranium mining town in the country’s ",
-   "published": "Fri, 30 Oct 2026 17:00:55 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Yango, Rosatom, Nordgold: The Russian firms thriving in Africa despite sanctions",
-   "url": "https://www.theafricareport.com/434820/yango-rosatom-nordgold-the-russian-firms-thriving-in-africa-despite-sanctions",
-   "snippet": "In Arlit, uranium is no longer French, but nor is it Russian. After nationalising Somaïr, a subsidiary of Orano, then reallocating its permits to state-owned companies in August, Niamey has made a series of overtures to Moscow — notably through a memorandum between its company Timersoi and Rosatom subsidiary Uranium One.\n\nAnalysis   Vladimir Putin   Africa   Business   Economy   Economy news\n\nadve",
-   "published": "Thu, 29 Oct 2026 05:37:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "First Algerian Troops Arrive in Niger Amid Jihadist Threat to Regional Stability",
-   "url": "https://pukmedia.com/EN/Details/83269",
-   "snippet": "An Algerian military convoy has arrived in Niger, marking Algeria's first deployment of troops abroad since it sent forces to support Egypt during the 1973",
-   "published": "Fri, 30 Oct 2026 18:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "First Algerian troops arrive in Niger where jihadists threaten stability",
-   "url": "https://www.reuters.com/world/africa/first-algerian-troops-arrive-niger-where-jihadists-threaten-stability-2026-10-30",
-   "snippet": "An Algerian army convoy has arrived in Niger in Algeria's first foreign troop deployment since it sent ​forces to support Egypt during the 1973 Arab-Israeli",
-   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "ne_arlit",
  "_query": "Arlit uranium",
  "_domains": [],

@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "New US China Investment Proposal Could Reshape AI, Biotech and Chip Funding",
+   "url": "https://www.techrepublic.com/article/news-us-treasury-china-investment-rules-ai-biotech-chips",
+   "snippet": "The requirement to investigate transactions carefully also means companies could face compliance questions even before deciding whether an investment is permitted. Treasury previously fined a US-based company $200,000 for failing to report a subsidiary’s $92,500 investment in a Chinese AI and robotics company, the Associated Press reported. [...] For US investors, venture capital firms, and techno",
+   "published": "Tue, 27 Oct 2026 10:38:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "90 Face Chinese Legal Action After $1 Billion Tax Fraud",
+   "url": "https://www.sixthtone.com/news/1019191/90-face-chinese-legal-action-after-%241-billion-tax-fraud",
+   "snippet": "Similar cases involving companies that obtained invoices through intermediaries have made national headlines in recent years. Last year, a group allegedly used 15 shell companies to falsely issue almost 3,500 special VAT invoices totaling 300 million yuan, domestic media reported. The defendant, surnamed Li, was sentenced to 13 years and six months in prison and fined 500,000 yuan. [...] Chinese t",
+   "published": "Thu, 29 Oct 2026 02:57:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Temu falls into line as EU backs its action plan after €200m fine | Euronews",
+   "url": "https://www.euronews.com/2026/10/26/temu-falls-into-line-as-eu-backs-its-action-plan-after-200m-fine",
+   "snippet": "Source: AP Photo\nClose Button\nfacebook\nfacebook\ntwitter\ntwitter\nflipboard\nflipboard\nsend\nsend\nreddit\nreddit\nlinkedin\nlinkedin\nmessenger\nmessenger\ntelegram\ntelegram\nvk\nvk\nbluesky\nbluesky\nthreads\nthreads\nwhatsapp\nwhatsapp\n\n## The Chinese-owned online retailer has promised stronger action to address several violations of the EU’s Digital Services Act, the European Commission said on Monday, following",
+   "published": "Mon, 26 Oct 2026 14:11:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Dominates This Food-Tech Industry, And It's Not Even Close",
+   "url": "https://www.bgr.com/2292002/how-chinese-food-delivery-industry-largest-in-world",
+   "snippet": "The reason is simple: Meituan wanted to remain the market leader and invested heavily in subsidies, hoping to draw in new customers. Its rivals followed suit, ultimately spending billions of dollars and fanning the flames of a price war that regulators called \"irrational competition.\" While good for consumers, this ultimately led to the top seven food delivery platforms being fined a collective 3.",
+   "published": "Sun, 25 Oct 2026 15:47:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Law enforcement alerted to firm offering LGBTQ surrogacy services in Hong Kong | South China Morning Post",
+   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372052/law-enforcement-alerted-about-firm-offering-lgbtq-surrogacy-services-hong-kong",
+   "snippet": "Tan and his foreign husband, who have two children through surrogacy, were deported from Taiwan’s Kaohsiung last Thursday after being fined NT$200,000 (HK$48,109) for breaching Taiwan’s Medical Care Act by offering assisted-reproductive services. [...] Simpson Cheung\n\nHong Kong’s regulator for in vitro fertilisation (IVF) has referred a case to law enforcement agencies after a mainland Chinese inf",
+   "published": "Sun, 25 Oct 2026 04:49:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Company fined £300k after worker hit by tonne of metal",
+   "url": "https://www.bbc.com/news/articles/cqgkv27704vyo",
+   "snippet": "The type of load - including its weight, size, centre of gravity and lifting points - had not been suitably assessed, and there was not a safe system of work in place.\n\nHSE guidance states that it is important to properly plan and organise lifting operations so that they can be carried out in a safe manner. [...] Gary Taylor, who was 63 at the time, suffered fractures to his skull, neck and spine,",
+   "published": "Mon, 26 Oct 2026 13:30:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European Commission accepts Temu action plan over DSA breach",
+   "url": "https://finance.yahoo.com/news/european-commission-accepts-temu-action-112109579.html",
+   "snippet": "Temu submitted the plan in August following the EC's May 2026 non-compliance decision, which found the company had not met its obligations and imposed a €200m ($233m) fine.\n\nThe EC had previously issued preliminary findings in July 2025, raising concerns about a potential DSA breach.\n\nThe plan includes five corrective measures. [...] 1. Crypto\n\n   Crypto\n2. AI\n\n   AI\n\nRetail Insight Network\n\n# Eur",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Meta Fined $25 billion to New Mexico in Data Privacy Case",
+   "url": "https://www.genocidewatch.com/single-post/meta-fined-25-billion-to-new-mexico-in-data-privacy-case",
+   "snippet": "Oct 21 (Reuters) - A judge in New Mexico ordered Meta Platforms (META.O), opens new tab on Wednesday to pay the state $25 billion after a jury found the ​company had misled consumers about the privacy of their data, hitting the company with one of the largest financial penalties in US history. [...] Jurors in September had ⁠found that the company and its leadership made 26 misleading statements on",
+   "published": "Wed, 28 Oct 2026 16:20:24 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_fined",
  "_query": "Chinese company fined",
  "_domains": [],

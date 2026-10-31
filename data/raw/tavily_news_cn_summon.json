@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "SGX-listed firms respond to haze investigations: Wilmar and others cooperate with NEA | Lianhe Zaobao",
-   "url": "https://www.zaobao.com.sg/en/finance/singapore/all-seven-singapore-listed-firms-back-independent-investigations-indonesian-fires-and-haze",
-   "snippet": "Apart from these companies, the Singapore-registered companies summoned by the government included Asia Pulp & Paper and Asia Pulp & Paper (China), neither of which is listed on SGX.\n\nAI\n\nThis is an AI-translated article and some names may be transliterated. The original Chinese text remains authoritative, and SPH Media is not responsible for translation errors.\n\ntag icon\n\nHazeInvestigationNationa",
-   "published": "Sat, 31 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "‘Not to find scapegoats’: Singapore ministers summon bosses of 10 firms over haze | South China Morning Post",
-   "url": "https://www.scmp.com/week-asia/health-environment/article/3372479/not-find-scapegoats-singapore-ministers-summon-bosses-10-firms-over-haze",
-   "snippet": "Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Minister for Sustainability and the Environment Grace Fu laid out expectations by the government, including its plan to strengthen laws targeting polluters.\n\nSelect Voice\n\nSelect Speed\n\nAI-generated voice [...] Kolette Limin Singapore\n\nIn a rare move, Singapore on Wednesday summoned top executives from 10 locally registered compan",
-   "published": "Wed, 28 Oct 2026 14:51:30 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Singapore summons 10 companies linked to haze fires | Indonesia Business Post",
-   "url": "https://indonesiabusinesspost.com/7691/environment/singapore-summons-10-companies-linked-to-haze-fires",
-   "snippet": "The eight corporate groups identified in the report are Bumitama Agri, First Resources, Golden Agri-Resources, Indofood Agri Resources, Kencana Agri, TSH Resources, Wilmar International and Sinar Mas Group. Sinar Mas was also represented by senior adviser Bernard Tan on behalf of Asia Pulp & Paper Company and Asia Pulp & Paper Company (China).\n\nSingapore to strengthen haze law [...] ### Prabowo ga",
-   "published": "Thu, 29 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Haze probe adds pressure on plantation stocks as regulatory risks rise | Lianhe Zaobao",
-   "url": "https://www.zaobao.com.sg/en/finance/singapore/haze-probe-adds-pressure-plantation-stocks-cost-and-regulatory-risks-persist?ref=previous-article",
-   "snippet": "Singapore-listed plantation stocks have fallen for several days over haze concerns. Wilmar International closed sharply lower on Thursday, falling 4.89%, while First Resources lost 2.99% and Bumitama Agri declined 2.44%. （Photo: Chan Bin Kan）\n\nShares in some Singapore companies fell after the government summoned their senior executives to a meeting over their possible involvement in the haze. The ",
-   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes - CNA",
-   "url": "https://www.channelnewsasia.com/singapore/transboundary-haze-pollution-act-companies-meeting-shanmugam-grace-fu-6498811",
-   "snippet": "#### Trending Topics\n\nCNA Explains   China   artificial intelligence   Indonesia   Malaysia   podcasts   Wellness   Thailand   Japan\n\nAdvertisement\n\nAdvertisement\n\nSingapore\n\n# Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes [...] Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Minister for Sustainability and the Environm",
-   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Drone injures commuter at Mumbai’s Churchgate station: Railway police summons event company staff for questioning | Mumbai News - The Times of India",
-   "url": "https://timesofindia.indiatimes.com/city/mumbai/drone-injures-commuter-at-mumbais-churchgate-station-railway-police-summons-event-company-staff-for-questioning/articleshow/135371541.cms",
-   "snippet": "Mumbai: Government Railway Police (GRP), probing the incident where two drones crashed inside Churchgate station and injured a commuter on the night of Oct 28, have summoned employees of the event management company responsible for operating them.GRP have seized both drones, which were among 150 used for a private telecom company’s show at Wankhede stadium and Marine Drive. “It appears the two dro",
-   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Indonesia Probes 22 Foreign Firms Over Forest Fires",
-   "url": "https://jakartaglobe.id/news/indonesia-probes-22-foreign-firms-over-forest-fires",
-   "snippet": "Singapore has expanded its investigation into haze pollution linked to fires in Indonesia, requesting documents from 10 locally registered companies and summoning senior executives to meet government ministers as authorities seek to establish responsibility for the regional environmental crisis. [...] All 10 companies operate in the palm oil or forestry sectors. They include Wilmar International, ",
-   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Singapore summons, warns leaders of 10 firms probed for haze links  - Asia & Pacific - The Jakarta Post",
-   "url": "https://www.thejakartapost.com/world/2026/10/28/singapore-summons-warns-leaders-of-10-firms-probed-for-haze-links-",
-   "snippet": "He said many of the companies had expressed a commitment to cooperate fully, a sentiment the government welcomes.\n\nHe pointed out that if the companies were not involved in any way in the fires and their supply chains are clean, the assessment by the government’s panel of assessors would establish that fact and address the government’s concerns. [...] His remarks to the companies were provided to ",
-   "published": "Wed, 28 Oct 2026 12:34:12 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

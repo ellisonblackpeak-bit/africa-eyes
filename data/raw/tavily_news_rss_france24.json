@@ -2,9 +2,16 @@
  "success": true,
  "results": [
   {
+   "title": "🔴Senegal kicks off Africa's first ever Olympics with Youth Games",
+   "url": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
+   "content": "",
+   "published_date": "Sat, 31 Oct 2026 19:15:21 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Iran's Khamenei warns US and Israel against new attacks",
    "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
-   "content": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened fresh military action on the Islamic republic.",
+   "content": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes.",
    "published_date": "Sat, 31 Oct 2026 17:00:36 GMT",
    "score": 0.6
   },
@@ -79,9 +86,9 @@
    "score": 0.6
   },
   {
-   "title": "Senegal hosts Africa’s first ever Youth Olympic Games",
+   "title": "Senegal kicks off Africa's first ever Olympics with Youth Games",
    "url": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
-   "content": "The 2026 Youth Olympic Games opens with a spectacular ceremony Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in international sporting competitions.",
+   "content": "The 2026 Youth Olympic Games opened on Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in international sporting competitions.",
    "published_date": "Sat, 31 Oct 2026 09:37:07 GMT",
    "score": 0.6
   },
@@ -128,9 +135,9 @@
    "score": 0.6
   },
   {
-   "title": "Live: Interior ministry says some 320,000 people protest across France as unrest flares",
+   "title": "Live: Interior minister says protests across France went well despite clashes with police",
    "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "content": "Around 320,000 protesters took part in demonstrations across France on Saturday, the interior ministry estimated, while youth unions counted nearly half a million. Tension flared at the end of the marches in Paris, Marseille, Lyon and other French cities, with tear gas being fired at some people on the sidelines of the demonstrations. Follow our live blog for all the latest updates.",
+   "content": "France's Interior Minister Laurent Nuñez said on Saturday that demonstrations across the country were largely peaceful, despite what he called an \"extraordinary\" level of violence from some groups of rioters, blaming far-left extremist groups for attacks on security forces. Around 320,000 protesters took part in demonstrations across France on Saturday, the interior ministry estimated, while youth unions counted nearly half a million. Follow our live blog for all the latest updates.",
    "published_date": "Sat, 31 Oct 2026 05:53:27 GMT",
    "score": 0.6
   },
@@ -160,13 +167,6 @@
    "url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
    "content": "Residents evacuated from the Russian-occupied Ukrainian town of Oleshky have left for Russia's Anapa city with a Ukrainian delegation, senior official David Arakhamia said Friday. They are expected to fly to Belarus before returning to Ukraine by bus, during a rare ceasefire brokered by the United States.",
    "published_date": "Fri, 30 Oct 2026 21:46:29 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "UN nature summit approves two key agreements after marathon negotiations",
-   "url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations",
-   "content": "Almost 200 nations approved two agreements on Friday to halt biodiversity loss by 2030, following almost two weeks of negotiations that ran into extra time on the final day.",
-   "published_date": "Fri, 30 Oct 2026 20:52:22 GMT",
    "score": 0.6
   }
  ],

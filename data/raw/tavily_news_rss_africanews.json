@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+   "url": "http://www.africanews.com/2026/10/31/ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts/",
+   "content": "Deaths in Congo’s Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government data on Saturday shows",
+   "published_date": "Sat, 31 Oct 2026 16:36:47 +0000",
+   "score": 0.6
+  },
+  {
    "title": "2,000 Salvadoran troops take quarters in Haiti to help fight gangs",
    "url": "http://www.africanews.com/2026/10/31/2000-salvadoran-troops-take-quarters-in-haiti-to-help-fight-gangs/",
    "content": "The deployment followed a gang attack on four Salvadoran members of the Gang Suppression Force who went missing",
@@ -202,13 +209,6 @@
    "url": "http://www.africanews.com/2026/10/30/south-africas-selects-durban-as-preferred-candidate-for-olympic-bid/",
    "content": "The SA Sports Confederation and Olympic Committee says, however, it will likely be a \"multi-city\" bid that would propose some events are held in other cities.",
    "published_date": "Fri, 30 Oct 2026 09:22:19 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Haiti announces new election dates as El Salvador sends troops to rescue missing soldiers",
-   "url": "http://www.africanews.com/2026/10/30/haiti-announces-new-election-dates-as-el-salvador-sends-troops-to-rescue-missing-soldiers/",
-   "content": "Haiti’s government has announced new election dates as the armed gangs who terrorize the country continue to fight against Haitian police and soldiers, who are now backed by the recent arrival of more than 2,000 troops from El Salvador.",
-   "published_date": "Fri, 30 Oct 2026 09:10:49 +0000",
    "score": 0.6
   }
  ],

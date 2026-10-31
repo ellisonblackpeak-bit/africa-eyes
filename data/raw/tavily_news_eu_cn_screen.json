@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese Investment in EU: Resilient Deal Strategy | FTI",
+   "url": "https://www.fticonsulting.com/insights/articles/chinese-investment-eu-building-resilient-deal-strategy",
+   "snippet": "For Chinese investors, the issue should not be reduced to the abstract question of whether the EU welcomes Chinese investment. The EU continues to state publicly that it remains open to foreign investment, and the revised foreign direct investment (“FDI”) regulation itself also makes clear that foreign investment is welcome and that investment screening should balance security and public order con",
+   "published": "Fri, 30 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "MEPs to focus on thorny trade issues in trip to China - EU Reporter",
+   "url": "https://www.eureporter.co/world/china-2/2026/10/28/meps-to-focus-on-thorny-trade-issues-in-trip-to-china",
+   "snippet": "It calls for closer scrutiny of sectors vital to Europe’s economic security, including advanced technologies and critical infrastructure, alongside stronger coordination among Member States on export controls and foreign investment screening. It also insists on granting better access to the Chinese market for European companies and stronger EU trade tools. [...] The EPP says it has put forward man",
+   "published": "Wed, 28 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Comments to the European Commission Regarding Its ‘Diversify EU’ Proposal | Testimonies & Filings | Oct 27, 2026 | ITIF",
+   "url": "https://itif.org/publications/2026/10/27/comments-to-the-european-commission-regarding-its-diversify-eu-proposal",
+   "snippet": "ITIF recommends organizing Diversify EU around allied production capacity and a coordinated response to Chinese mercantilism. Drawing on ITIF’s proposed framework for a new class of Strategic Techno-Economic Agreements (STEAs), ITIF recommends stronger rules of origin, development finance for alternative suppliers, joint trade investigations, reciprocal market access, and support for firms’ switch",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe's textile M&A surges: 58 deals through Q3 amid weak output - Textile Fashion News Fibre2Fashion",
+   "url": "https://www.fibre2fashion.com/news/prime-content/textile-news/europe-s-textile-m-a-surges-58-deals-through-q3-amid-weak-output-314630-newsdetails.htm?amp=true",
+   "snippet": "29 Oct 26 6 min read     \\\\\\\\/\\\\\\\\, the EU Foreign Investment Screening Regulation, applies from January \\\\, \\\\\\\\. Buyer’s sourcing knitting machinery, filtration media and synthetic filaments should assess supplier financial health and continuity plans during insolvency proceedings or ownership changes. For defence and protective-wear sourcing, Arclin plans to expand Nomex capacity at its Asturia",
+   "published": "Thu, 29 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "MNCs tap China for global scale - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202610/26/WS6adea4d7e4b06d4aa0564b4f.html",
+   "snippet": "Tighter investment screening and broader national security considerations are increasing uncertainty for companies, she warned, making cooperation between investment policymakers more important. [...] Pan Yuanyuan, a researcher at the Chinese Academy of Social Sciences' Institute of World Economics and Politics, said the value of FDI in China extends beyond capital injections to R&D, technology, s",
+   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Building a China-resilient battery chain by 2035 – GIS Reports",
+   "url": "https://www.gisreportsonline.com/r/china-resilient-battery-chain",
+   "snippet": "Extending the Five Eyes intelligence-sharing arrangement – comprising the U.S., UK, Canada, Australia and New Zealand – to critical minerals could support early-warning systems and coordinated investment screening. However, the Five Eyes countries lack the industrial capacity to offset China’s dominance. [...] Bob Savic\n\nBob Savic is head of international trade and sanctions consulting at the Glob",
+   "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Bypassing the Pharma Chokepoint | Council on Foreign Relations",
+   "url": "https://www.cfr.org/reports/bypassing-the-pharma-chokepoint",
+   "snippet": "Over the last twenty years, China has emerged as the United States and Europe’s [PDF] most important foreign source of upstream inputs of critical medicines—namely, key starting materials (KSMs) and active pharmaceutical ingredients (APIs). As U.S. and EU regulators and media more heavily scrutinized API and KSM production, a process that often involves chemical reactions with toxic by-products, C",
+   "published": "Wed, 28 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Finland bids to join growing cohort of greenfield FDI screeners",
+   "url": "https://www.fdiintelligence.com/content/919de2c5-efb8-4bf5-8e2f-ff4bad8b24c9",
+   "snippet": "Finland is seeking to join a small but growing group of EU member states that screen greenfield foreign direct investment as part of a proposed overhaul of",
+   "published": "Tue, 27 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BMWE publishes draft bill: Germany is reorganising its investment controls",
+   "url": "https://www.fieldfisher.com/en/locations/germany/insights/bmwe-publishes-draft-bill-germany-is-reorganising-its-investment-controls",
+   "snippet": "Germany's investment controls are set to undergo a fundamental reorganisation. With the draft bill for a standalone Investment Screening Act (IPG) published",
+   "published": "Tue, 27 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Industrial Accelerator Act needs clear Guidelines",
+   "url": "https://bdi.eu/en/articles/europe/industrial-accelerator-act-needs-clear-guidelines",
+   "snippet": "Investment in industrial value creation is under pressure in Europe. With the Industrial Accelerator Act (IAA), the European Commission aims to strengthen",
+   "published": "Mon, 26 Oct 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_screen",
  "_query": "EU foreign investment screening China",
  "_domains": [],

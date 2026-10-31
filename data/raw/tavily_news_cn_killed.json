@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "At least 68 killed in high-speed train collision in Spain - World - Chinadaily.com.cn",
-   "url": "https://www.chinadaily.com.cn/a/202610/29/WS6ae262ece4b06d4aa0565b7c.html",
-   "snippet": "Search\n HOME\n CHINA\n WORLD\n BUSINESS\n CULTURE\n TRAVEL\n VIDEO\n SPORTS\n OPINION\n REGIONAL\n NEWSPAPER)\n MOBILE\n\n\n\nGlobal EditionASIA 中文双语Français\n\n\n  + China Daily PDF\n  + China Daily E-paper\n MOBILE\n\nWorld\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n China-US\n China-Europe\n China-Japan\n China-Africa\n\n1. Home\n2. World\n/ Europe Share to ...\n\nHome / World / Europe\n\n# At least 68 killed in hig",
-   "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "At least 50 killed, 179 injured in high-speed train collision in Spain - World - Chinadaily.com.cn",
-   "url": "https://www.chinadaily.com.cn/a/202610/28/WS6ae1c6d5e4b06d4aa0565ad8.html",
-   "snippet": "Search\n HOME\n CHINA\n WORLD\n BUSINESS\n CULTURE\n TRAVEL\n VIDEO\n SPORTS\n OPINION\n REGIONAL\n NEWSPAPER)\n MOBILE\n\n\n\nGlobal EditionASIA 中文双语Français\n\n\n  + China Daily PDF\n  + China Daily E-paper\n MOBILE\n\nWorld\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n China-US\n China-Europe\n China-Japan\n China-Africa\n\n1. Home\n2. World\n/ Europe Share to ...\n\nHome / World / Europe\n\n# At least 50 killed, 179 i",
-   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence - The New York Times",
-   "url": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
-   "snippet": "The police in Durban have launched a murder investigation into the foreign national who was killed during the protest last week. A police account of the attack said that two men appeared to break away from a group of protesters and approached the victim, who was then assaulted by about 50 people. [...] The nation’s Human Rights Commission has condemned the killing, stressing that “disagreements ab",
-   "published": "Tue, 27 Oct 2026 18:28:59 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
-   "url": "https://www.bbc.com/news/articles/cmd7qjq13prpo",
-   "snippet": "A man was killed and seven people including a child were injured last Friday when an attacker opened fire as he drove through two western suburbs.\n\nOn Thursday the suspect was charged with murder and attempted murder in connection with a terrorist enterprise, the national anti-terrorism prosecutor's office (PNAT) said.\n\nPresident Emmanuel Macron called it a \"racist terrorist attack\" and anti-racis",
-   "published": "Thu, 29 Oct 2026 19:19:23 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-   "url": "https://www.bbc.com/news/articles/cv62yg0erp8zo",
-   "snippet": "Mao founded Communist China in 1949 and ruled through tumultuous decades in the 1960s and 1970s. His attempt at rapid industrialisation, which he called the Great Leap Forward, led to a famine that killed tens of millions. Then came the Cultural Revolution: a violent purge of anyone seen as a threat to Communism, which included Chinese intellectuals, landowners, artists and often rivals within the",
-   "published": "Tue, 27 Oct 2026 07:15:08 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "India-China border face-offs test Modi six years after deadly clash | Border Disputes News | Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash",
-   "snippet": "Those differences were never bridged in the following years, keeping the disputed frontier a persistent flashpoint in relations between the two nuclear-armed neighbours.\n\nThe dispute erupted into a deadly confrontation in June 2020, when Indian and Chinese troops clashed in the Galwan Valley in eastern Ladakh, with both sides accusing the other of crossing the LAC. At least 20 Indian soldiers were",
-   "published": "Tue, 27 Oct 2026 13:15:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Japanese manga artist Tetsuya Chiba, known for his boxing masterpiece 'Ashita no Joe,' dies at 87 - The Washington Post",
-   "url": "https://www.washingtonpost.com/world/2026/10/27/japan-tetsuya-chiba-obit-manga-book-boxing/7c3d91a0-d1ea-11f1-9931-2a41b76fc976_story.html",
-   "snippet": "Democracy Dies in Darkness\n\n# Japanese manga artist Tetsuya Chiba, known for his boxing masterpiece 'Ashita no Joe,' dies at 87\n\nTetsuya Chiba, a legendary Japanese manga artist best known for his boxing series “Ashita no Joe,” or “Fighting for Tomorrow,” has died\n\nJapanese manga artist Tetsuya Chiba, poses for a photo in front of his boxing manga character in “Ashita no Joe,” in Tokyo on June 18,",
-   "published": "Tue, 27 Oct 2026 09:46:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],
