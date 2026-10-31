@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Everywhere, all at once: The year of Nour Hooshmand",
+   "url": "https://www.rappler.com/people/actors/nour-hooshmand-profile/",
+   "content": "A former theater stand-in, Filipino-Iranian actress Nour Hooshmand wants to ‘pave a new path’ for herself, opting for purposeful roles, no matter the screen time",
+   "published_date": "Sat, 31 Oct 2026 10:00:00 +0800",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

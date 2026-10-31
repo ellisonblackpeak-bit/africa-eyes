@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese EVs win over some in South Korea, but Japan is proving to",
+   "url": "https://www.globalbankingandfinance.com/chinese-evs-win-over-south-korea-japan-proving-rougher-road",
+   "snippet": "BYD has been able to take advantage of South Korea's growing appetite for cheap EVs, said Lee Jae-il, a senior analyst at Eugene Investment & Securities. Petrol prices have surged almost 10% since the US-Israeli war on Iran started, but Hyundai and Kia focus mainly on premium EVs, offering only a few for under $30,000.\n\n\"The timing has worked particularly well for BYD,\" Lee said.\n\n#### Other Chine",
+   "published": "Thu, 29 Oct 2026 23:18:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korea Investment Management enters Hong Kong ETF market with chip fund - The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10914975",
+   "snippet": "The CUAM Solactive China & Global Semiconductor ETF, with a net asset value of 15.85 million Hong Kong dollars ($2.06 million), was listed Friday. The fund tracks the Solactive Ace ETF Connect China & Global Semiconductor Top 30 Index, developed by German index provider Solactive.\n\nIt offers diversified exposure to major semiconductor companies worldwide, including Nvidia, TSMC, Samsung Electronic",
+   "published": "Mon, 26 Oct 2026 05:38:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Solidigm Seeks US Approval to Upgrade China Plant Before $45 Billion Investment - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/solidigm-dangles-new-45-billion-us-plant-to-upgrade-china-site",
+   "snippet": "EXCLUSIVE\n\n# Solidigm Dangles New $45 Billion US Plant to Upgrade China Site\n\n## Takeaways by Bloomberg AI\n\nSolidigm Inc., an American subsidiary of the South Korean memory-chip maker SK Hynix Inc., is in talks with the US Commerce Department to invest $45 billion in a new US chip plant, according to people familiar with the negotiations. [...] Before it decides to move ahead with what would be th",
+   "published": "Tue, 27 Oct 2026 15:18:29 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_kr",
  "_query": "Chinese company South Korea investment",
  "_domains": [],

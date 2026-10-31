@@ -1,0 +1,116 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/tribunephl/status/2115644562534261194",
+     "title": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID The Philippine government owns the country's electricity transmission infrastructure, b",
+     "description": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID\n\nThe Philippine government owns the country's electricity transmission infrastructure, but the private company operating it, the National Grid Corporation of the Philippines (#NGCP), is 40 percent owned by China's state-owned State Grid Corporation.\n\nThat means the Chinese government holds a substantial stake in the company responsible for transmitting electricity across the Philippines, even as tensions between Manila and Beijing persist in the West Philippine Sea.\n\nNGCP maintains that Filipino engineers operate the grid, and there is no established evidence that China possesses a secret mechanism to shut it down.\n\nBut the ownership arrangement raises a national security question: Should a foreign government with which the Philippines has an ongoing territorial dispute own part of the company operating its electricity transmission network?\n\n#dailytribune",
+     "snippet": "CHINA OWNS 40% OF THE COMPANY RUNNING OUR POWER GRID\n\nThe Philippine government owns the country's electricity transmission infrastructure, but the private company operating it, the National Grid Corporation of the Philippines (#NGCP), is 40 percent owned by China's state-owned State Grid Corporation.\n\nThat means the Chinese government holds a substantial stake in the company responsible for transmitting electricity across the Philippines, even as tensions between Manila and Beijing persist in the West Philippine Sea.\n\nNGCP maintains that Filipino engineers operate the grid, and there is no established evidence that China possesses a secret mechanism to shut it down.\n\nBut the ownership arrangement raises a national security question: Should a foreign government with which the Philippines has an ongoing territorial dispute own part of the company operating its electricity transmission network?\n\n#dailytribune",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Daily Tribune",
+     "handle": "@tribunephl"
+    },
+    {
+     "url": "https://x.com/SteveYates/status/2115590831541215352",
+     "title": "Beijing's gray-zone squeeze on Manila keeps tightening.",
+     "description": "Beijing's gray-zone squeeze on Manila keeps tightening.\n\n54 Chinese navy and coast guard ships around the Philippines Oct 20-26, up from 31. Seventeen at Scarborough Shoal.\n\nPressure by attrition, the same playbook Taiwan lives with daily.\n\nhttps://www.gmanetwork.com/news/topstories/nation/1007291/chinese-vessels-in-wps-rise-to-54-in-past-week-afp/story/",
+     "snippet": "Beijing's gray-zone squeeze on Manila keeps tightening.\n\n54 Chinese navy and coast guard ships around the Philippines Oct 20-26, up from 31. Seventeen at Scarborough Shoal.\n\nPressure by attrition, the same playbook Taiwan lives with daily.\n\nhttps://www.gmanetwork.com/news/topstories/nation/1007291/chinese-vessels-in-wps-rise-to-54-in-past-week-afp/story/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Steve Yates (葉望輝)",
+     "handle": "@SteveYates"
+    },
+    {
+     "url": "https://x.com/ThomasHuffman79/status/2115557679943008392",
+     "title": "🛰️ Scarborough Shoal, 27 Oct: The Philippine Coast Guard and Bureau of Fisheries and Aquatic Resources (MV Mamalakaya and BRP Malapascua) su",
+     "description": "🛰️ Scarborough Shoal, 27 Oct: The Philippine Coast Guard and Bureau of Fisheries and Aquatic Resources (MV Mamalakaya and BRP Malapascua) supplied fuel to about 40 to 50 Filipino fishing boats today. \n\nTheir aircraft spotted vessels from the Chinese Coast Guard and the People’s Liberation Army Navy nearby, along with a Chinese research ship lurking around. But there was no fuss—everything went smoothly, and the mission was wrapped up without any issues. This spot has been effectively controlled by China since 2012, and the 2016 ruling that favored fishing access? Well, Beijing’s not on board with that. Here's a real photo from the PCG.  \n@PhilCoastGuard @PhilippineNavy @USPacificFleet #WestPhilippineSea #Scarborough #OSINT",
+     "snippet": "🛰️ Scarborough Shoal, 27 Oct: The Philippine Coast Guard and Bureau of Fisheries and Aquatic Resources (MV Mamalakaya and BRP Malapascua) supplied fuel to about 40 to 50 Filipino fishing boats today. \n\nTheir aircraft spotted vessels from the Chinese Coast Guard and the People’s Liberation Army Navy nearby, along with a Chinese research ship lurking around. But there was no fuss—everything went smoothly, and the mission was wrapped up without any issues. This spot has been effectively controlled by China since 2012, and the 2016 ruling that favored fishing access? Well, Beijing’s not on board with that. Here's a real photo from the PCG.  \n@PhilCoastGuard @PhilippineNavy @USPacificFleet #WestPhilippineSea #Scarborough #OSINT",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Thomas Huffman",
+     "handle": "@ThomasHuffman79"
+    },
+    {
+     "url": "https://x.com/erika_snking/status/2115326300537893270",
+     "title": "THE Philippines will not impose trade restrictions on China despite tensions in the South China Sea, with the Marcos administration opting t",
+     "description": "THE Philippines will not impose trade restrictions on China despite tensions in the South China Sea, with the Marcos administration opting to keep economic ties separate from maritime disputes.\nhttps://bworldonline.com/the-nation/2026/10/27/789633/marcos-rules-out-china-trade-curbs-amid-maritime-dispute/",
+     "snippet": "THE Philippines will not impose trade restrictions on China despite tensions in the South China Sea, with the Marcos administration opting to keep economic ties separate from maritime disputes.\nhttps://bworldonline.com/the-nation/2026/10/27/789633/marcos-rules-out-china-trade-curbs-amid-maritime-dispute/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Erika Sinaking",
+     "handle": "@erika_snking"
+    },
+    {
+     "url": "https://x.com/SeaLightFound/status/2116192729021731186",
+     "title": "🚨NEW from @GordianKnotRay on WPS Dispatch Sea of Pacification: 🇨🇳#China’s political war for the West Philippine Sea 🇵🇭 Ambassador Jing Quan:",
+     "description": "🚨NEW from @GordianKnotRay on WPS Dispatch \nSea of Pacification: 🇨🇳#China’s political war for the West Philippine Sea 🇵🇭\n\nAmbassador Jing Quan: China \"may easily win\" if it chose force. \"But no, we will not choose force and we love peace,\" so Filipinos should \"feel fortunate that you have a neighbor like China.\"\n\nColonial 🇪🇸Spain had a word for this kind of \"peace\". In 1573, Philip II ordered that conquests be called \"pacifications\". Even 🇺🇸America had ran its own pacification campaign when it replaced Spain as the #Philippines' colonial government in 1898. \n\nIn a new piece for WPS Dispatch, Ray looks at how Beijing is now running its own pacification play in Manila focused on consolidating its control over the West Philippine Sea.\n\nUnderstanding Beijing's rhetoric and how it seeks to reward sympathizers, discredit critics and bring Filipinos to accept the new imperial order is key to building a long-term resistance to China's attempted conquest of the West Philippine Sea. 👇",
+     "snippet": "🚨NEW from @GordianKnotRay on WPS Dispatch \nSea of Pacification: 🇨🇳#China’s political war for the West Philippine Sea 🇵🇭\n\nAmbassador Jing Quan: China \"may easily win\" if it chose force. \"But no, we will not choose force and we love peace,\" so Filipinos should \"feel fortunate that you have a neighbor like China.\"\n\nColonial 🇪🇸Spain had a word for this kind of \"peace\". In 1573, Philip II ordered that conquests be called \"pacifications\". Even 🇺🇸America had ran its own pacification campaign when it replaced Spain as the #Philippines' colonial government in 1898. \n\nIn a new piece for WPS Dispatch, Ray looks at how Beijing is now running its own pacification play in Manila focused on consolidating its control over the West Philippine Sea.\n\nUnderstanding Beijing's rhetoric and how it seeks to reward sympathizers, discredit critics and bring Filipinos to accept the new imperial order is key to building a long-term resistance to China's attempted conquest of the West Philippine Sea. 👇",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SeaLight",
+     "handle": "@SeaLightFound"
+    },
+    {
+     "url": "https://x.com/globaltimesnews/status/2116154777591783491",
+     "title": "The #PLA Southern Theater Command (#STC) and China Coast Guard (#CCG) announced patrols around China’s Huangyan Dao on Friday, sending a cle",
+     "description": "The #PLA Southern Theater Command (#STC) and China Coast Guard (#CCG) announced patrols around China’s Huangyan Dao on Friday, sending a clear warning against #Philippine provocations and attempts to draw external forces into the South China Sea. An expert said the highly targeted moves reflect China’s continuously improving coordination capabilities in safeguarding territorial sovereignty and maintaining peace and stability in the #SouthChinaSea.",
+     "snippet": "The #PLA Southern Theater Command (#STC) and China Coast Guard (#CCG) announced patrols around China’s Huangyan Dao on Friday, sending a clear warning against #Philippine provocations and attempts to draw external forces into the South China Sea. An expert said the highly targeted moves reflect China’s continuously improving coordination capabilities in safeguarding territorial sovereignty and maintaining peace and stability in the #SouthChinaSea.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Times",
+     "handle": "@globaltimesnews"
+    },
+    {
+     "url": "https://x.com/ChinaGSProject/status/2116206223926100199",
+     "title": "China’s diplomatic rift with the Philippines is spilling into ASEAN’s top defense forum, exposing how South China Sea disputes are undermini",
+     "description": "China’s diplomatic rift with the Philippines is spilling into ASEAN’s top defense forum, exposing how South China Sea disputes are undermining regional security cooperation and turning diplomacy into another front in the power struggle.\n\nhttps://chinaglobalsouth.com/2026/10/29/china-philippines-asean-defense-meeting-dispute/",
+     "snippet": "China’s diplomatic rift with the Philippines is spilling into ASEAN’s top defense forum, exposing how South China Sea disputes are undermining regional security cooperation and turning diplomacy into another front in the power struggle.\n\nhttps://chinaglobalsouth.com/2026/10/29/china-philippines-asean-defense-meeting-dispute/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The China-Global South Project",
+     "handle": "@ChinaGSProject"
+    },
+    {
+     "url": "https://x.com/interaksyon/status/2116213546757591111",
+     "title": "“While the People’s Republic of China can send armed vessels and powerful ships through the West Philippine Sea, our humble fishermen can on",
+     "description": "“While the People’s Republic of China can send armed vessels and powerful ships through the West Philippine Sea, our humble fishermen can only ride the waves on small and flimsy bancas,” the archbishop said.\n\nhttps://interaksyon.philstar.com/politics-issues/2026/10/26/321010/archbishop-urges-firm-but-peaceful-defense-of-west-philippine-sea/",
+     "snippet": "“While the People’s Republic of China can send armed vessels and powerful ships through the West Philippine Sea, our humble fishermen can only ride the waves on small and flimsy bancas,” the archbishop said.\n\nhttps://interaksyon.philstar.com/politics-issues/2026/10/26/321010/archbishop-urges-firm-but-peaceful-defense-of-west-philippine-sea/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Interaksyon",
+     "handle": "@interaksyon"
+    },
+    {
+     "url": "https://x.com/BRPSierraMadre/status/2116285323215057210",
+     "title": "CHINA WANTS PIECE — NOT PEACE.",
+     "description": "CHINA WANTS PIECE — NOT PEACE.\n\nA piece of land. A piece of sea. A piece of territory.\n\nAcross the West Philippine Sea, China’s expansive maritime claims and coercive actions raise serious questions about respect for Philippine sovereignty and international law.\n\nThe issue is bigger than disputed waters. It concerns maritime rights, regional stability, and the principle that a nation’s territory and lawful entitlements cannot simply be claimed through pressure or force.\n\nThe Philippines must continue to stand firm through documented evidence, diplomacy, and the rule of international law.\nPeace requires respect—not the endless pursuit of someone else’s territory.\n\n#BRPSierraMadre #WPS #WestPhilippineSea #PhilippineSovereignty #MaritimeSecurity #UNCLOS #StandWithThePhilippines #RuleOfLaw #NotOneMore",
+     "snippet": "CHINA WANTS PIECE — NOT PEACE.\n\nA piece of land. A piece of sea. A piece of territory.\n\nAcross the West Philippine Sea, China’s expansive maritime claims and coercive actions raise serious questions about respect for Philippine sovereignty and international law.\n\nThe issue is bigger than disputed waters. It concerns maritime rights, regional stability, and the principle that a nation’s territory and lawful entitlements cannot simply be claimed through pressure or force.\n\nThe Philippines must continue to stand firm through documented evidence, diplomacy, and the rule of international law.\nPeace requires respect—not the endless pursuit of someone else’s territory.\n\n#BRPSierraMadre #WPS #WestPhilippineSea #PhilippineSovereignty #MaritimeSecurity #UNCLOS #StandWithThePhilippines #RuleOfLaw #NotOneMore",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BRP Sierra Madre",
+     "handle": "@BRPSierraMadre"
+    },
+    {
+     "url": "https://x.com/China_V7/status/2116164295813669376",
+     "title": "🇨🇳🇵🇭⚓ SOUTH CHINA SEA | China’s military has conducted combat-readiness patrols around Scarborough Shoal, escalating tensions with the Phili",
+     "description": "🇨🇳🇵🇭⚓ SOUTH CHINA SEA | China’s military has conducted combat-readiness patrols around Scarborough Shoal, escalating tensions with the Philippines. 🌊",
+     "snippet": "🇨🇳🇵🇭⚓ SOUTH CHINA SEA | China’s military has conducted combat-readiness patrols around Scarborough Shoal, escalating tensions with the Philippines. 🌊",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "China V",
+     "handle": "@China_V7"
+    }
+   ]
+  }
+ ]
+}

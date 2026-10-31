@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EU, Philippines conduct second security and defense dialogue | Business Mirror - newspaper - Read this story on Magzter.com",
-   "url": "https://www.magzter.com/stories/newspaper/Business-Mirror/EU-PHILIPPINES-CONDUCT-SECOND-SECURITY-AND-DEFENSE-DIALOGUE-811670",
-   "snippet": "October 29, 2026\n\nTHE European Union and the Philippines recently held their second Security and Defense Dialogue in Manila.\n\n-\n\nDuring the dialogue on October 8, both parties reaffirmed their shared commitment to enhancing alignment on multilateral fora to uphold the rules-based international order.\n\nBusiness Mirror Magzter Gold Title\n\nThis story is from the October 29, 2026 edition of Business M",
-   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chair of EU Military Committee visits Romania to discuss regional security and European defence readiness | EEAS",
-   "url": "https://www.eeas.europa.eu/eeas/chair-eu-military-committee-visits-romania-discuss-regional-security-and-european-defence-readiness_en",
-   "snippet": "The engagements also addressed the importance of continued cooperation between the EU and NATO, recognising that both organisations draw on the same national forces and have complementary roles in strengthening European security. [...] The meetings provided an opportunity to hear Romania's assessment of the evolving security situation, particularly in the Black Sea, and its implications for Europe",
-   "published": "Thu, 29 Oct 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Merz Pitches Closer Ties With Asia, Warns on Pressure From China - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/merz-pitches-closer-ties-with-asia-warns-on-pressure-from-china",
-   "snippet": "# Merz Pitches Closer Ties With Asia, Warns on Pressure From China\n\nGerman Chancellor Friedrich Merz said Europe and Asia can benefit from closer ties across trade and security issues as both regions face pressures from great powers, particularly China.\n\n“Together, we will be more successful if we respond in a coordinated manner to violations of free and fair trade,” he said Tuesday in Singapore, ",
-   "published": "Tue, 27 Oct 2026 07:31:11 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

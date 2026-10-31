@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Junta Strips 5 More Exiled Critics of Nationality",
+   "url": "https://www.genocidewatch.com/single-post/niger-junta-strips-5-more-exiled-critics-of-nationality",
+   "snippet": "According to Niger’s press agency, the junta’s latest action brings the number of people provisionally deprived of Nigerien nationality under the 2024 order to 25. In October 2024, the junta provisionally stripped nine people linked to former President Bazoum of their nationality. In June, authorities revoked the citizenship of Mariama Djibrine, an opposition figure living in exile. [...] The poli",
+   "published": "Thu, 29 Oct 2026 00:08:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years | AP News",
+   "url": "https://apnews.com/article/algeria-niger-troops-economic-interests-d44b4d7a17cfc4a355376f2fffab0349",
+   "snippet": "The western Sahel region comprising Niger, Mali and Burkina Faso, has been shaken by violent extremism due to deadly attacks by armed groups linked to al-Qaida and the Islamic State group and the governments fighting them. All three countries have seen coups in recent years and struggled with overstretched security forces.\n\nThe move on Sunday emphasizes the thawing relations between Algeria and Ni",
+   "published": "Sun, 25 Oct 2026 23:49:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "url": "https://www.reuters.com/world/africa/algeria-send-troops-niger-first-foreign-deployment-since-1973-2026-10-25",
+   "snippet": "Algeria's parliament approved a resolution on Sunday authorising the deployment of army units to Niger, a parliamentary statement said, in what would mark",
+   "published": "Mon, 26 Oct 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_extra",
  "_query": "Niger latest news",
  "_domains": [],

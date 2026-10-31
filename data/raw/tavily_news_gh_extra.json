@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Teen boy from Ghana chased and fatally shot on way to school in New York City",
+   "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
+   "snippet": "Javits Frimpong, 15, was being bullied at school before he was shot and killed in the Bronx on Thursday, his father says.",
+   "published": "Fri, 30 Oct 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "New film reveals unseen footage of Ghana’s independence – NBC4 Washington",
+   "url": "https://www.nbcwashington.com/video/news/local/new-film-reveals-unseen-footage-of-ghanas-independence/4172974",
+   "snippet": "Skip to content\n\nNBC4 Washington\n\nWatch 24/7 \n\nCreate profile / Log in\n\nDashboard\n\nEmail preferences\n\nSign out\n\nTrending\n🗳️ Early voting 🏈 Commanders 🌡️ Forecast 🔍 4 More Context 👂 All Ears Find Help 📨 NBC4 Newsletters 📺 Watch 24/7 Our News Standards\n\n### News\n\nNews updates for Washington, D.C., Maryland and Virginia\n\n# New film reveals unseen footage of Ghana's independence\n\nNBC4 Washington\n\nCrea",
+   "published": "Wed, 28 Oct 2026 00:06:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Bronx community mourns slain 15-year-old student Javits Frimpong - ABC7 New York",
+   "url": "https://abc7ny.com/post/bronx-community-mourns-slain-15-year-old-student-javits-frimpong/20000687",
+   "snippet": "Frimpong's father said he brought his son from Ghana to live with him about a year ago in hopes of a better life. The teen's mother is trying to travel to New York to see her son's body.\n\nThe shooting comes as city officials report that major crime in the Bronx declined by nearly 12% through Sept. 30 compared with the same period last year. Community members said those statistics do not reflect wh",
+   "published": "Fri, 30 Oct 2026 19:29:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gh_extra",
  "_query": "Ghana latest news",
  "_domains": [],
