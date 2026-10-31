@@ -1,0 +1,116 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/JohnWBrenndf/status/2115776560934375662",
+     "title": "US Army Lieutenant General John Brennan, deputy commander of United States Africa Command since April 2024, poses during a portrait session",
+     "description": "US Army Lieutenant General John Brennan, deputy commander of United States Africa Command since April 2024, poses during a portrait session in Abuja on October 24, 2026. The US military is increasing materiel deliveries and intelligence sharing with Nigeria, a top general told AFP, as part of a broader American push to work with African militaries to go after Islamic State linked militants.The Pentagon has also kept open lines of communication with militaries in the junta-led Sahel countries of Burkina Faso, Niger and Mali.The increased cooperation with Abuja follows Washington's diplomatic pressure on Nigeria over jihadist violence in the country, but also as the US military is becoming \"more aggressive\" in pursuing Islamic State linked targets on the continent, Lieutenant General John Brennan told AFP. (Photo by Light Oriye Tamunotonye / AFP via Getty Images)",
+     "snippet": "US Army Lieutenant General John Brennan, deputy commander of United States Africa Command since April 2024, poses during a portrait session in Abuja on October 24, 2026. The US military is increasing materiel deliveries and intelligence sharing with Nigeria, a top general told AFP, as part of a broader American push to work with African militaries to go after Islamic State linked militants.The Pentagon has also kept open lines of communication with militaries in the junta-led Sahel countries of Burkina Faso, Niger and Mali.The increased cooperation with Abuja follows Washington's diplomatic pressure on Nigeria over jihadist violence in the country, but also as the US military is becoming \"more aggressive\" in pursuing Islamic State linked targets on the continent, Lieutenant General John Brennan told AFP. (Photo by Light Oriye Tamunotonye / AFP via Getty Images)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "John W Brennan",
+     "handle": "@JohnWBrenndf"
+    },
+    {
+     "url": "https://x.com/Akanni0104/status/2116053636413374628",
+     "title": "The number of Islamic State (ISIS) members defecting in Nigeria has increased by more than 200 percent following a joint US-Nigerian militar",
+     "description": "The number of Islamic State (ISIS) members defecting in Nigeria has increased by more than 200 percent following a joint US-Nigerian military operation in May 2026.\nGeneral Dagvin Anderson, the commander of the U.S. Africa Command (AFRICOM), announced the figures on the sidelines of the Africa International Defence Exhibition (AFRIDEX) in Lagos",
+     "snippet": "The number of Islamic State (ISIS) members defecting in Nigeria has increased by more than 200 percent following a joint US-Nigerian military operation in May 2026.\nGeneral Dagvin Anderson, the commander of the U.S. Africa Command (AFRICOM), announced the figures on the sidelines of the Africa International Defence Exhibition (AFRIDEX) in Lagos",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Akanni",
+     "handle": "@Akanni0104"
+    },
+    {
+     "url": "https://x.com/GuardianNigeria/status/2115534071887724913",
+     "title": "General Dagvin R.M. Anderson, Commander of U.S. Africa Command, opened the second day of the Africa International Defence Exhibition (AFRIDE",
+     "description": "General Dagvin R.M. Anderson, Commander of U.S. Africa Command, opened the second day of the Africa International Defence Exhibition (AFRIDEX) 2026 in Lagos on Tuesday, with a keynote on strengthening military cooperation and Africa’s security readiness.\nhttps://guardian.ng/news/afridex-2026-anderson-opens-talks-on-africas-security-readiness-in-lagos/",
+     "snippet": "General Dagvin R.M. Anderson, Commander of U.S. Africa Command, opened the second day of the Africa International Defence Exhibition (AFRIDEX) 2026 in Lagos on Tuesday, with a keynote on strengthening military cooperation and Africa’s security readiness.\nhttps://guardian.ng/news/afridex-2026-anderson-opens-talks-on-africas-security-readiness-in-lagos/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Guardian Nigeria",
+     "handle": "@GuardianNigeria"
+    },
+    {
+     "url": "https://x.com/mintelworld/status/2115390870899831214",
+     "title": "AFRICOM’s participation in the Africa International Defence Exhibition underscores the ongoing U.S.–Nigeria defense partnership.",
+     "description": "AFRICOM’s participation in the Africa International Defence Exhibition underscores the ongoing U.S.–Nigeria defense partnership. Engagement at the exhibition focuses on intelligence sharing, operational coordination, and African-led approaches to counterterrorism.",
+     "snippet": "AFRICOM’s participation in the Africa International Defence Exhibition underscores the ongoing U.S.–Nigeria defense partnership. Engagement at the exhibition focuses on intelligence sharing, operational coordination, and African-led approaches to counterterrorism.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mintel World",
+     "handle": "@mintelworld"
+    },
+    {
+     "url": "https://x.com/TojuWes/status/2116188481370091817",
+     "title": "Nigeria Navy Marine Commandos joint counterterrorism operations with United States (AFRICOM) Special Forces operators, either the US Army 3r",
+     "description": "Nigeria Navy Marine Commandos joint counterterrorism operations with United States (AFRICOM) Special Forces operators, either the US Army 3rd SFG (Green berets) or US Navy SEAL.",
+     "snippet": "Nigeria Navy Marine Commandos joint counterterrorism operations with United States (AFRICOM) Special Forces operators, either the US Army 3rd SFG (Green berets) or US Navy SEAL.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Toju weston",
+     "handle": "@TojuWes"
+    },
+    {
+     "url": "https://x.com/DefenseNigeria/status/2115340060933459993",
+     "title": "General Dagvin Anderson, Commander of U.S.",
+     "description": "General Dagvin Anderson, Commander of U.S. AFRICOM, alongside Todd Steifler, Director of Commercial, and Ikenna Nnaji, Director of Marketing, at the Terra Industries exhibition booth during the ongoing Africa International Defence Exhibition (AFRIDEX) in Lagos.",
+     "snippet": "General Dagvin Anderson, Commander of U.S. AFRICOM, alongside Todd Steifler, Director of Commercial, and Ikenna Nnaji, Director of Marketing, at the Terra Industries exhibition booth during the ongoing Africa International Defence Exhibition (AFRIDEX) in Lagos.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Defense News Nigeria",
+     "handle": "@DefenseNigeria"
+    },
+    {
+     "url": "https://x.com/terraindustries/status/2115370671056547956",
+     "title": "We had the honour of hosting Gen.",
+     "description": "We had the honour of hosting Gen. Dagvin Anderson, commander of @USAfricaCommand, at our stand during the Africa International Defence Exhibition in Lagos, Nigeria.",
+     "snippet": "We had the honour of hosting Gen. Dagvin Anderson, commander of @USAfricaCommand, at our stand during the Africa International Defence Exhibition in Lagos, Nigeria.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Terra Industries",
+     "handle": "@terraindustries"
+    },
+    {
+     "url": "https://x.com/THISDAYLIVE/status/2115997447923060907",
+     "title": "General Dagvin Anderson: Advancing Nigeria-US Counterterrorism Cooperation through AFRICOM General Dagvin R.M.",
+     "description": "General Dagvin Anderson: Advancing Nigeria-US Counterterrorism Cooperation through AFRICOM\n\nGeneral Dagvin R.M. Anderson, the seventh commander of U.S.",
+     "snippet": "General Dagvin Anderson: Advancing Nigeria-US Counterterrorism Cooperation through AFRICOM\n\nGeneral Dagvin R.M. Anderson, the seventh commander of U.S.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "THISDAY LIVE",
+     "handle": "@THISDAYLIVE"
+    },
+    {
+     "url": "https://x.com/THISDAYLIVE/status/2115579667444891792",
+     "title": "US–Nigeria Strategic Partnership Forum Harps on Bilateral Cooperation The American Business Council Nigeria partnered with The Heritage Foun",
+     "description": "US–Nigeria Strategic Partnership Forum Harps on Bilateral Cooperation\n\nThe American Business Council Nigeria partnered with The Heritage Foundation to convene a high-level US–Nigeria Strategic Partnership Forum in Lagos, bringing together senior US policy experts, Nigerian…",
+     "snippet": "US–Nigeria Strategic Partnership Forum Harps on Bilateral Cooperation\n\nThe American Business Council Nigeria partnered with The Heritage Foundation to convene a high-level US–Nigeria Strategic Partnership Forum in Lagos, bringing together senior US policy experts, Nigerian…",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "THISDAY LIVE",
+     "handle": "@THISDAYLIVE"
+    },
+    {
+     "url": "https://x.com/Arise4freedom/status/2116118853940064711",
+     "title": "During the 6th International Month of Action Against AFRICOM organized by the Black Alliance for Peace (BAP) we analyze the horrendous role",
+     "description": "During the 6th International Month of Action Against AFRICOM organized by the Black Alliance for Peace (BAP) we analyze the horrendous role of AFRICOM in Africa and Nigeria and the necessity of forcing ita withdrawal to safeguard our sovereignty.\n\n@Blacks4Peace",
+     "snippet": "During the 6th International Month of Action Against AFRICOM organized by the Black Alliance for Peace (BAP) we analyze the horrendous role of AFRICOM in Africa and Nigeria and the necessity of forcing ita withdrawal to safeguard our sovereignty.\n\n@Blacks4Peace",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Movement for African Emancipation",
+     "handle": "@Arise4freedom"
+    }
+   ]
+  }
+ ]
+}

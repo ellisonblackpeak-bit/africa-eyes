@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Health Alert: U.S. Embassy Abuja, Nigeria (October 27, 2026) - U.S. Embassy and Consulate in Nigeria",
+   "url": "https://ng.usembassy.gov/health-alert-u-s-embassy-abuja-nigeria-october-27-2026",
+   "snippet": "In Abuja, please call: +234 209 461 4000\n\nOutside of Office Hours in Abuja, contact: +234 209 461 4000 (and press 0)\n\nIn Lagos, please call: +234 201 460 3400\n\nOutside of Office Hours in Lagos, contact: +234 201 460 3400\n\nOutside of Nigeria: +234 209 461 4000\n\nIf you are a U.S. citizen with an after-hours emergency and cannot reach us at the above numbers, please call +234-803-408-6000. [...] Assi",
+   "published": "Tue, 27 Oct 2026 15:31:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "bne IntelliNews - Nigeria launches US minerals cooperation committee, rejects $700bn asset-sale claims",
+   "url": "https://www.intellinews.com/nigeria-launches-us-minerals-cooperation-committee-rejects-700bn-asset-sale-claims-480247",
+   "snippet": "Solid Minerals Development Minister Dele Alake inaugurated the Nigeria-United States Committee on Strategic Cooperation in the Solid Minerals Sector in Abuja on October 27. The committee follows a framework signed with US Deputy Secretary of State Christopher Landau in New York on September 23, during the 81st United Nations General Assembly. [...] “There is no sale of any Nigerian asset,” Alake s",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Shifting U.S. Support is Testing Nigerian Democracy Ahead of 2027",
+   "url": "https://thefulcrum.us/elections/nigeria-2027-elections-us-democracy-support",
+   "snippet": "“The funding cuts and changing U.S. foreign policy priorities have affected not only the resources available to Nigerian organisations but also opportunities for technical cooperation, institutional learning and cross-border collaboration,” he said. [...] The relationship extends beyond Washington’s dealings with the Nigerian government. American nongovernmental institutions—including the National",
+   "published": "Fri, 30 Oct 2026 06:03:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria, other countries demand end to US blockade of Cuba | Premium Times Nigeria",
+   "url": "https://www.premiumtimesng.com/news/headlines/921226-nigeria-other-countries-demand-end-to-us-blockade-of-cuba.html",
+   "snippet": "Meanwhile, US Ambassador to the UN Mike Waltz celebrated the votes of states that opposed the resolution or abstained. \n\n### ALSO READ: Russia has the duty to militarily defend Cuba, By Owei Lakemfa\n\nHe told reporters after the vote that he was pleased to see a shift in some countries’ stance on US actions against Cuba.\n\nHe said, “I’m satisfied that so many countries now, including major economies",
+   "published": "Thu, 29 Oct 2026 07:32:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Elon Musk and Madagascar’s richest man turn to the same sector with $1 billion US media bet and $450 million Nigeria deal | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/elon-musk-and-madagascars-richest-man-turn-to-the-same-sector-with-dollar1-billion-us/gzh5sjr",
+   "snippet": "According to reports from Nairametrics and Africa Intelligence, the proposed modernization project targets major state media organizations, including the Nigerian Television Authority (NTA), the Federal Radio Corporation of Nigeria (FRCN), Voice of Nigeria (VON), and the National Broadcasting Commission (NBC). [...] As reported by Nairametrics, having previously completed broadcasting infrastructu",
+   "published": "Sat, 24 Oct 2026 18:59:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Congresswoman Concerned Over Media Silence after Over 52,000 Killed in Religious-Based Violence in Nigeria",
+   "url": "https://www.aciafrica.org/news/25041/us-congresswoman-concerned-over-media-silence-after-over-52000-killed-in-religious-based-violence-in-nigeria",
+   "snippet": "U.S. lawmaker Nancy Mace has lamented what she describes as the silence of major media outlets amid the ongoing persecution of Christians in Nigeria that",
+   "published": "Thu, 29 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+   "url": "https://www.bbc.com/news/articles/cmgel8pqj5rwo",
+   "snippet": "## 'They sent a letter asking to preach. Then they massacred us' - Nigerians on jihadist attack\n\n## Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky\n\nTo the right of the banner a woman with sunglasses on her head and wearing a denim jacket and yellow T-shirt looks down at her mobile phone. A graphic for BBC News Africa in black and red is on the left of the image w",
+   "published": "Tue, 27 Oct 2026 19:01:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian Families and Survivors Seek Justice Over Miners' Deaths",
+   "url": "https://www.usnews.com/news/world/articles/2026-10-30/nigerian-families-and-survivors-seek-justice-over-miners-deaths",
+   "snippet": "Have the parent playbook for applying to college delivered to your inbox each Thursday.\n\nBy Signing Up, you will receive the latest updates, including emails, from U.S. News & World Report and our trusted partners and sponsors, and you agree to ourTerms and Conditions & Privacy Policy.\n\nGet the Admissions Edge With Getting In!\n\nHave the parent playbook for applying to college delivered to your inb",
+   "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "OPay IPO Withdrawal and Regulatory Inquiry Explained - The China-Global South Project",
+   "url": "https://chinaglobalsouth.com/2026/10/31/chinese-founded-opay-withdraws-us-ipo-regulatory-probe",
+   "snippet": "Key Takeaways\n\n OPay withdrew a U.S. IPO priced at $304 million due to an unnamed foreign regulatory inquiry.\n OPay says the inquiry is immaterial to core operations, expects quick resolution, and claims no impact on Nigeria operations or regulatory standing.\n Backed by SoftBank, OPay was valued at about $4 billion; founder Yahui Zhou and roughly 50 million monthly users. [...] Donate Log In\n\n Eng",
+   "published": "Sat, 31 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "SoftBank-backed OPay withdraws $304 million US IPO after regulatory inquiry",
+   "url": "https://www.reuters.com/legal/transactional/softbank-backed-opay-raises-304-million-us-ipo-2026-10-30",
+   "snippet": "SoftBank-backed digital-payments company OPay withdrew a planned $304 million US initial public offering on Friday, citing a ​regulatory inquiry by a",
+   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ng",
  "_query": "US Nigeria",
  "_domains": [],

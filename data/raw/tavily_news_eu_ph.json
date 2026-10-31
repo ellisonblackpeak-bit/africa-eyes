@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU-Philippines holds second security and defense dialogue",
+   "url": "https://www.manilatimes.net/2026/10/26/expats-diplomats/eu-philippines-holds-second-security-and-defense-dialogue/2453416",
+   "snippet": "The European Union and the Philippines held their second Security and Defense Dialogue on Oct. 8 in Manila.",
+   "published": "Sun, 25 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Philippines seeks deeper ties with Italy, says Foreign Secretary Lazaro – Decode39",
+   "url": "https://decode39.com/17111/philippines-seeks-deeper-ties-with-italy-says-foreign-secretary-lazaro",
+   "snippet": "For Italy, the strengthening of EU–Philippines relations could provide a favorable setting for deeper bilateral cooperation, from maritime security and investment to infrastructure and supply chains. [...] Indo-Pacific security and the prospect of an agreement with Italy. The Philippines regards Europe’s growing presence in the Indo-Pacific as a positive contribution to regional security. Asked by",
+   "published": "Tue, 27 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU mobilizes $5.4B in military support for Ukraine | Philippine News Agency",
+   "url": "https://www.pna.gov.ph/article/eu-mobilizes-54b-in-military-support-for-ukraine",
+   "snippet": "Of that funding, more than €1.5 billion worth of military equipment was procured directly from Ukraine’s defense industry.\n\nEstablished in March 2021, the EPF finances actions under the EU’s common foreign and security policy to prevent conflicts, preserve peace and strengthen international security, including military and defense assistance to partner countries. (Anadolu)\n\nOct 27, 2026\n\n7:31 PM G",
+   "published": "Tue, 27 Oct 2026 11:31:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe to Philippines: Why Flights Are So Expensive",
+   "url": "https://www.airtraveler.club/flights/europe/to-philippines",
+   "snippet": "## Travel hacks and insights for Europe — Philippines flights\n\nVerified strategies to save money and avoid friction on routes to Philippines.\n\n### Mindanao travel advisory warnings\n\nMost Western governments (UK, US, EU) maintain “Do Not Travel” advisories for western and central Mindanao and the Sulu Archipelago due to kidnapping and terrorism risks. Travel insurance is void in these specific zone",
+   "published": "Sun, 25 Oct 2026 20:02:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and the Gulf Cooperation Council agreed the need to step up security cooperation | EEAS",
+   "url": "https://www.eeas.europa.eu/eeas/eu-and-gulf-cooperation-council-agreed-need-step-security-cooperation_en",
+   "snippet": "Video file\n\nEEAS Deputy Secretary General for Peace, Security and Defence David Cvach\n\n \n\nBoth sides exchanged on regional security issues as well as reviewed progress and identified next steps to deepen cooperation in key areas, including maritime security, counter-terrorism, cyber issues, non-proliferation and disarmament, disaster preparedness and emergency management, and combating drug traffi",
+   "published": "Thu, 29 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chair of EU Military Committee visits Romania to discuss regional security and European defence readiness | EEAS",
+   "url": "https://www.eeas.europa.eu/eeas/chair-eu-military-committee-visits-romania-discuss-regional-security-and-european-defence-readiness_en",
+   "snippet": "The engagements also addressed the importance of continued cooperation between the EU and NATO, recognising that both organisations draw on the same national forces and have complementary roles in strengthening European security. [...] The meetings provided an opportunity to hear Romania's assessment of the evolving security situation, particularly in the Black Sea, and its implications for Europe",
+   "published": "Thu, 29 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ISAAA, Inc. and DA-BPO Release Fifth Issue of Pinoy Biotek Magazine  | Science Speaks - ISAAA.org",
+   "url": "https://www.isaaa.org/blog/entry/default.asp?BlogDate=10%2F28%2F2026",
+   "snippet": "contribute to food security, sustainability, and a more resilient Philippines,” she said. [...] This issue also featured the CasDro Project (Philippine Cassava Adaptability, Drought Screening, and Genetic Diversification), led by researchers from Central Luzon State University (CLSU). The project combines plant breeding and modern biotechnology to identify cassava varieties that could survive drou",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Thousands protest in Italy under heavy security",
+   "url": "https://globalnation.inquirer.net/343690/thousands-protest-in-italy-under-heavy-security",
+   "snippet": "ROME, Italy — Security forces were deployed in large numbers across Italy on Saturday as thousands rallied despite a sweeping crackdown following violent",
+   "published": "Sun, 25 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

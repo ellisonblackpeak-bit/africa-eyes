@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Africa’s atomic suitors – Foreign and security policy | IPS Journal",
+   "url": "https://www.ips-journal.eu/topics/foreign-and-security-policy/africas-atomic-suitors-9389",
+   "snippet": "firm NuScale even as it simultaneously is negotiating with the CNNC for a Hualong One, and has recently returned to Niger to ink a $414 million nuclear deal. South Korea is trading on its credibility from the UAE’s Barakah plant. France and the EU remain influential upstream, though Orano’s uranium operations in Niger have been disrupted by political upheaval. The result is not a Chinese monopoly ",
+   "published": "Fri, 30 Oct 2026 08:19:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Uranium: Chinese giant CNNC finds new partners for the Zhonghe project",
+   "url": "https://www.africabusinessplus.com/en/841349/uranium-chinese-giant-cnnc-finds-new-partners-for-the-zhonghe-project",
+   "snippet": "In Namibia, the shareholding structure of the uranium project led by China National Nuclear Company—which already operates the Rössing mine in the",
+   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_uranium",
  "_query": "Chinese uranium Niger",
  "_domains": [],

@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China Dominates This Food-Tech Industry, And It's Not Even Close",
-   "url": "https://www.bgr.com/2292002/how-chinese-food-delivery-industry-largest-in-world",
-   "snippet": "The reason is simple: Meituan wanted to remain the market leader and invested heavily in subsidies, hoping to draw in new customers. Its rivals followed suit, ultimately spending billions of dollars and fanning the flames of a price war that regulators called \"irrational competition.\" While good for consumers, this ultimately led to the top seven food delivery platforms being fined a collective 3.",
-   "published": "Sun, 25 Oct 2026 15:47:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Temu pledges changes after €200 million EU fine",
-   "url": "https://finance.yahoo.com/media-advertising/articles/temu-pledges-changes-200-million-141939705.html",
-   "snippet": "Temu must also disclose where automatic and manual checks of merchants' offers on the online marketplace reach their limits.\n\nFinally, the group must examine how merchants deliberately exploit the platform's functions to spread illegal offers.\n\nIf the European Commission decides that Temu is not doing enough to comply with EU rules, it could also impose daily penalty payments on the Chinese compan",
-   "published": "Mon, 26 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Meta Fined $25 billion to New Mexico in Data Privacy Case",
-   "url": "https://www.genocidewatch.com/single-post/meta-fined-25-billion-to-new-mexico-in-data-privacy-case",
-   "snippet": "Oct 21 (Reuters) - A judge in New Mexico ordered Meta Platforms (META.O), opens new tab on Wednesday to pay the state $25 billion after a jury found the ​company had misled consumers about the privacy of their data, hitting the company with one of the largest financial penalties in US history. [...] Jurors in September had ⁠found that the company and its leadership made 26 misleading statements on",
-   "published": "Wed, 28 Oct 2026 16:20:24 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "cn_fined",
  "_query": "Chinese company fined",
  "_domains": [],

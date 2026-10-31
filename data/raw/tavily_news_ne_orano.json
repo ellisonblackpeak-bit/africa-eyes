@@ -1,7 +1,35 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Washington’s Uranium Bet in Niger Could Come at a Steep Price | WPR",
+   "url": "https://www.worldpoliticsreview.com/niger-us-uranium-dfc-dasa-project",
+   "snippet": "Investors have already seen how fragile agreements in Niger can be. In August, the military government awarded the permit for the Somaïr uranium mine, seized from France’s Orano in June 2025, to a newly established state-owned company. Orano held 63 percent of the operation and is contesting the takeover in several tribunals. For investors, the warning is clear: an agreement is only as reliable as",
+   "published": "Tue, 27 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The new scramble For Africa (2): Revolt, restraint and the price of sovereignty",
+   "url": "https://businessday.ng/columnist/article/the-new-scramble-for-africa-2-revolt-restraint-and-the-price-of-sovereignty?amp=",
+   "snippet": "In June 2025, Niger's military government nationalised Somair, the uranium enterprise long controlled by France's Orano. With that decision, a.",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa’s atomic suitors – Foreign and security policy | IPS Journal",
+   "url": "https://www.ips-journal.eu/topics/foreign-and-security-policy/africas-atomic-suitors-9389",
+   "snippet": "firm NuScale even as it simultaneously is negotiating with the CNNC for a Hualong One, and has recently returned to Niger to ink a $414 million nuclear deal. South Korea is trading on its credibility from the UAE’s Barakah plant. France and the EU remain influential upstream, though Orano’s uranium operations in Niger have been disrupted by political upheaval. The result is not a Chinese monopoly ",
+   "published": "Fri, 30 Oct 2026 08:19:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria sends troops to Niger: a warning for Morocco and Israel",
+   "url": "https://www.ynetnews.com/opinions-analysis/article/bkik0uq6me",
+   "snippet": "Analysis: Algeria's first overseas ground deployment since the 1973 Yom Kippur War, Russia's veto over Western Sahara and competing gas pipelines are",
+   "published": "Sat, 31 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_orano",
  "_query": "Orano Niger uranium",
  "_domains": [],

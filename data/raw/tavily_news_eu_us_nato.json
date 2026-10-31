@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+   "url": "https://www.militarytimes.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
+   "snippet": "The Pentagon has already begun reducing its footprint in Europe. About 80,000 U.S. troops were stationed there across roughly 30 bases as of 2025, according to congressional testimony from the head of U.S. European Command cited in the report.\n\nIn May, the Pentagon announced it would pull about 5,000 troops out of Germany. Then in June, the U.S. cut the forces it would make available to NATO in a ",
+   "published": "Thu, 29 Oct 2026 22:25:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Drone warfare could save NATO",
+   "url": "https://thehill.com/opinion/national-security/6169598-unmanned-systems-prevent-russia-aggression",
+   "snippet": "President Donald Trump’s administration has made several unambiguously clear demands on NATO. First, European members must assume greater, if not virtually all, responsibility for the defense of Europe. This will allow the U.S. to focus on its main priorities of homeland defense and averting a Chinese invasion or assault on Taiwan. The Pentagon is also finalizing plans for redeployment of U.S. tro",
+   "published": "Mon, 26 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pentagon quietly muzzles NATO allies on Moscow threat as Trump prepares major European troop drawdown: report",
+   "url": "https://www.independent.co.uk/news/world/americas/us-politics/pentagon-nato-russia-baltic-rhetoric-b3076239.html",
+   "snippet": "Elbridge Colby, the Pentagon's policy chief and a key figure in an ongoing review of U.S. troop levels in Europe, was one of the U.S. officials delivering the message, the people said.\n\nWhat other officials were involved could not be determined by Reuters.\n\nNone of the people, who include three European officials and a U.S. official, suggested the advice was communicated in a confrontational manne",
+   "published": "Fri, 30 Oct 2026 09:57:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Is the Pentagon Asking European Allies to Tone Down Their Warnings About Russia? - Modern Diplomacy",
+   "url": "https://moderndiplomacy.eu/2026/10/30/why-is-the-pentagon-asking-european-allies-to-tone-down-their-warnings-about-russia",
+   "snippet": "Pentagon planners are assessing Washington’s force posture, a process that could result in a significant reduction in US troops stationed on the continent. American officials have repeatedly argued that European NATO members must take greater responsibility for their own defence.\n\nThe administration’s wider strategic priorities also include the Middle East, Latin America and East Asia, potentially",
+   "published": "Fri, 30 Oct 2026 05:26:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How the United States Retrenches Matters: Key NATO Allies’ Likely Responses to Alternative U.S. Approaches | RAND",
+   "url": "https://www.rand.org/pubs/research_briefs/RBA5006-1.html",
+   "snippet": "Encourage deeper regional cooperation. NATO 3.0 envisions a self-sufficient Europe that reduces the burden on U.S. forces. Because no one ally is prepared to fill the U.S. role, allies will need to work together to increase their collective strength.\n Avoid leveraging U.S. presence and commitments for secondary U.S. priorities. Policymakers need to weigh the downside of U.S. pressure—undermining r",
+   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US, Georgia military planners prepare for Agile Spirit 2027 | Article | The United States Army",
+   "url": "https://www.army.mil/article/296331/us_georgia_military_planners_prepare_for_agile_spirit_2027",
+   "snippet": "Agile Spirit is a U.S. European Command-scheduled, U.S. Army Europe and Africa-directed biennial exercise designed to enhance interoperability and readiness for collective defense operations. Conducted in Georgia, training typically brings together 2,000 to 3,000 U.S. forces, NATO allies and partner nations to focus on maneuver training, logistics coordination and multinational command and control",
+   "published": "Mon, 26 Oct 2026 16:40:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pentagon urges NATO allies to tone down warnings about Russia, report says | Stars and Stripes",
+   "url": "https://www.stripes.com/theaters/europe/2026-10-30/baltics-russia-rhetoric-pentagon-23308598.html",
+   "snippet": "Colby is a driving force of the Pentagon initiative to put European allies at the forefront of responsibility for collective defense of the Continent.\n\nThe aim is to take that burden off the United States so its troops can concentrate on the Indo-Pacific and the Western Hemisphere. Colby has dubbed the new arrangement NATO 3.0.\n\nThe reported requests come as President Donald Trump renews efforts t",
+   "published": "Fri, 30 Oct 2026 15:39:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump Told the Pentagon to Give Poland More Troops. They're Still Not There.",
+   "url": "https://foreignpolicy.com/2026/10/30/trump-poland-troops-deployment-delay-europe-review",
+   "snippet": "Within days, Trump seemingly offered good news for Warsaw: “I am pleased to announce that the United States will be sending an additional 5,000 Troops to Poland,” Trump wrote on Truth Social, framing the decision as inspired by the 2025 election of Polish President Karol Nawrocki, a Trump ally.\n\nIn a surprise decision this May, the U.S. Defense Department canceled a planned deployment of thousands",
+   "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "North Atlantic Treaty Organization (NATO) | Countries, Founders, Article 5, History, Headquarters, & Purpose | Britannica",
+   "url": "https://www.britannica.com/topic/North-Atlantic-Treaty-Organization",
+   "snippet": "Spurred by the North Korean invasion of South Korea in June 1950 (see Korean War), the United States took steps to demonstrate that it would resist any Soviet military expansion or pressures in Europe. Gen. Dwight D. Eisenhower, the leader of the Allied forces in western Europe in World War II, was named Supreme Allied Commander Europe (SACEUR) by the North Atlantic Council (NATO’s governing body)",
+   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Pullback From NATO Could Trigger Russia’s Use Of Nuclear Weapons",
+   "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/10/25/us-pullback-from-nato-could-trigger-russias-use-of-nuclear-weapons",
+   "snippet": "If the U.S. pulls back from NATO, that could dramatically increase the chances Vladimir Putin launches atomic attacks to reconquer territories once part of",
+   "published": "Sun, 25 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

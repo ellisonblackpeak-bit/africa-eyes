@@ -1,7 +1,14 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "U15 World Cup: Benin defeated by Italy, Morocco continues perfect run - BENIN WEB TV",
+   "url": "https://beninwebtv.bj/en/u15-world-cup-benin-defeated-by-italy-morocco-continues-perfect-run",
+   "snippet": "pLXVucHJvY2Vzc2VkIik7Yy5jbGFzc0xpc3QucmVtb3ZlKCJhaS10aW1lciIpfSl9ZWxzZXtpZighYi5jbGFzc0xpc3QuY29udGFpbnMoImFpLXVucHJvY2Vzc2VkIikmJiFiLmNsYXNzTGlzdC5jb250YWlucygiYWktdGltZXIiKSlyZXR1cm47CmIuY2xhc3NMaXN0LnJlbW92ZSgiYWktdW5wcm9jZXNzZWQiKTtiLmNsYXNzTGlzdC5yZW1vdmUoImFpLXRpbWVyIil9dmFyIGE9ITE7aWYoZD9iWzBdLmhhc0F0dHJpYnV0ZSgiZGF0YS1pbmZvIik6Yi5oYXNBdHRyaWJ1dGUoImRhdGEtaW5mbyIpKXt2YXIgZj0iZGl2LmFpLXJvdGF",
+   "published": "Mon, 26 Oct 2026 13:23:42 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_pipe",
  "_query": "Niger Benin pipeline",
  "_domains": [],

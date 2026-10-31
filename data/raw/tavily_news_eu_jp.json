@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU Agenda: Week Ahead - 25-30 October 2026 - EUbusiness.com | EU news, business and politics",
+   "url": "https://www.eubusiness.com/politics/eucalendar",
+   "snippet": "Japan/defence and health: MEPs from Security and Defence and Public Health committees will visit Japan. The Defence committee MEPs will be exploring closer EU-Japan defence-industrial cooperation, joint procurements and technology transfer, while the Public Health committee MEPs will look into EU-Japan cooperation on pharmaceuticals, biotech and healthy aging, and discuss ways to address mental he",
+   "published": "Sun, 25 Oct 2026 14:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan’s Defense Industry Enters Europe’s Industrial Partnerships: From Technology Supplier to Strategic Co-Developer | Strategy Review — The Economy",
+   "url": "https://economy.ac/review/2026/10/202610295882",
+   "snippet": "Four days before the Japanese revision, on 17 April 2026, the EU Commissioner for Defence and Space and Japan’s State Minister of Economy, Trade and Industry attended the first meeting of the EU-Japan Defence Industry Dialogue, launched by the European industry association ASD and Japan’s SJAC in the framework of the EU-Japan Competitiveness Alliance of July 2025 and with reference to the Security",
+   "published": "Tue, 27 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The outer rim: on closer collaboration between Eastern Europe and East Asia - New Eastern Europe",
+   "url": "https://neweasterneurope.eu/2026/10/30/the-outer-rim-on-closer-collaboration-between-eastern-europe-and-east-asia",
+   "snippet": "Japan too should be better integrated within SAFE. Although it has a distinctive self-restraining constitutional framework that governs its defence and security policies, Japan has developed an advanced space industry, alongside a broader high-end technology defence sector with capabilities in precision manufacturing, radars, sensors, and communication relays. Russia has recently increased its pre",
+   "published": "Fri, 30 Oct 2026 11:58:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Finland and Japan sign defence equipment and technology transfer agreement",
+   "url": "https://nordicdefencesector.com/en/article/finland-and-japan-sign-defence-equipment-and-technology-transfer-agreement",
+   "snippet": "The agreement sets out principles for transferring defence materiel and technology. According to the ministry, it will make joint research, development and production projects between the two countries possible. A joint committee will coordinate the cooperation.\n\nJapanese Foreign Minister Toshimitsu Motegi signed for Japan. The two countries’ leaders agreed to speed up talks on the agreement in a ",
+   "published": "Mon, 26 Oct 2026 11:30:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "German startups are betting big on Japan. Should the rest of Europe follow? | EU-Startups",
+   "url": "https://www.eu-startups.com/2026/10/german-startups-are-betting-big-on-japan-should-the-rest-of-europe-follow",
+   "snippet": "Sven Kruck, co-CEO of Quantum Systems, said: “Japan has understood where defence is heading: unmanned systems, rapid innovation and the industrial capacity to deliver at scale. Ukraine has shown why this matters. When personnel are scarce and threats evolve fast, technological advantage is decisive. Japan’s manufacturing strength and our operational experience are a powerful combination. We are pr",
+   "published": "Wed, 28 Oct 2026 15:44:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Germany and Japan strengthen economic ties as global tensions rise | Euronews",
+   "url": "https://www.euronews.com/2026/10/28/germany-and-japan-strengthen-economic-ties-as-global-tensions-rise",
+   "snippet": "Military cooperation in the Indo-Pacific is also to be further expanded. One example is the first-ever participation of German armed forces in the Japanese-American military exercise \"Keen Sword\" this year. The drills, which run until Thursday, are taking place at several locations in Japan, particularly in the sea and airspace around Okinawa, where China has stepped up its military activities in ",
+   "published": "Wed, 28 Oct 2026 14:16:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "SANT Mission to Tokyo, Japan | Missions | Events | SANT | Committees | European Parliament",
+   "url": "https://www.europarl.europa.eu/committees/en/sant-mission-to-tokyo-japan/product-details/20261023MIS04301",
+   "snippet": "Members will visit Keio University hospital to learn about the use of AI in the hospital, care. They will also discuss EU–Japan cooperation in pharmaceuticals and biotechnology with Japan’s House of Representatives Committee on Health, Labour and Welfare, the Japan Agency for Medical Research, the Pharmaceuticals and Medical Devices Agency and with an industry roundtable. A visit to National Cance",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Courtesy Call on State Minister NAKASONE by the European Parliament Committee on Security and Defence | Ministry of Foreign Affairs of Japan",
+   "url": "https://www.mofa.go.jp/press/release/pressite_000001_02794.html",
+   "snippet": "On October 27, commencing at 5:15 p.m. for approximately 30 minutes, Mr. NAKASONE Yasutaka, State Minister for Foreign Affairs of Japan, received a courtesy call from a delegation of six members of the European Parliament Committee on Security and Defence, led by Ms. Marie-Agnes Strack-Zimmermann, Chair of the Committee.\n\n## Related Links\n\nCopyright © Ministry of Foreign Affairs of Japan [...] The",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Canada–EU Summit 2026: Trade, Defence and Strategic Partnership | Nation Path India",
+   "url": "https://nationpathindia.com/international/canada-eu-summit-2026-strategic-partnership-trade-defence",
+   "snippet": "International\n\n### Japan’s Nuclear Disarmament Draft Wins Support from 150 Countries at UN Committee\n\nJapan’s proposal for advancing international nuclear disarmament has received broad support at the United Nations, marking a significant diplomatic development amid continuing divisions over nuclear weapons and global security.According to Japan’s Ministry of Foreign Affairs,...\n\n28 Oct 2026\n\nRead",
+   "published": "Thu, 29 Oct 2026 16:45:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and Canada to launch ‘Alliance for the Future’ at Montreal summit – INSIGHT EU MONITORING",
+   "url": "https://ieu-monitoring.com/editorial/eu-and-canada-to-launch-alliance-for-the-future-at-montreal-summit/1253272",
+   "snippet": "Leaders will also take stock of progress made since the last EU-Canada summit in 2025, which launched the Security and Defence Partnership. Since then, Canada and the EU have deepened their economic and defence cooperation, including through CETA, Canada’s participation in SAFE and reciprocal investment in strategic industries. They have also strengthened dialogue on competitiveness, economic secu",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_jp",
  "_query": "EU Japan defence cooperation",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Post",
+   "url": "https://x.com/AlternatNews/status/2115353421997850721",
+   "snippet": "Huawei was assaulted by Europe and the US like no other company before. Their products were banned and ripped out of 5G networks. Google sanctioned them by",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "I'm not convinced. I still think we should have gone with ...",
+   "url": "https://www.facebook.com/groups/MalaysiaHomeschoolingInfo/posts/29928052840128923",
+   "snippet": "Vodafone: “…barring Huawei will delay 5G in Europe by probably two years－it will structurally disadvantage Europe\". One should also know the reasons why US is",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Why India Is Unlikely to Ban Huawei",
+   "url": "https://www.lightreading.com/regulatory-politics/why-india-is-unlikely-to-ban-huawei",
+   "snippet": "The latest developments follow media reports last month suggesting the DoT would ban Huawei from participating in 5G trials. Yet while it was conspicuously absent from a list of vendors approved for those trials, Huawei was later invited to be a part of the initiative and is likely to start work this month. The Chinese vendor has also offered to share source code used in its products to allay any ",
+   "published": "Thu, 29 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US 'abusing state power' in planned Chinese telecom ban",
+   "url": "https://www.facebook.com/cgtneuropeofficial/videos/us-abusing-state-power-in-planned-chinese-telecom-ban/2225907948265449",
+   "snippet": "Washington has banned Huawei, the world's largest provider of telecoms equipment and a leader in the new 5G technology, from supplying US government systems",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Huawei Gains Through 5G Patents Despite Trump Ban – BusinessuiteOnline",
+   "url": "https://businessuiteonline.com/huawei-gains-through-5g-patents-despite-trump-ban",
+   "snippet": "Share  Tweet\n\nWhile the Trump’s administration has helped curtail Huawei’s growth outside China by launching a global ban to erase the Telecom Giant from its supply chain, it remains a player because of its global footprint and advanced technology. According to a new study by two research firms, Huawei Technologies Co. owns the most patents on next-generation 5G technology, ensuring the Chinese co",
+   "published": "Sun, 25 Oct 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Network Kit Removal: 2026 trend briefing",
+   "url": "https://www.311institute.com/starburst-centre/trend/forced-removal-of-chinese-network-equipment",
+   "snippet": "The United Kingdom ordered Huawei equipment out of its 5G networks by the end of 2027 (The Register, January 2026).",
+   "published": "Sat, 31 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FCC Takes First Covered List Enforcement Action Under New Ban on Devices Incorporating Prohibited “Logic-Bearing Hardware Components” | Global Policy Watch",
+   "url": "https://www.globalpolicywatch.com/2026/10/fcc-takes-first-covered-list-enforcement-action-under-new-ban-on-devices-incorporating-prohibited-logic-bearing-hardware-components",
+   "snippet": "The new logic-bearing-component prohibition is distinct from those place-of-production-based Covered List entries: the FCC’s July order applies the component restriction to producer/provider-based Covered List determinations, such as the listing applicable to Huawei, rather than to equipment categories listed solely because they are produced in a particular location.  This first-of-its-kind enforc",
+   "published": "Sat, 31 Oct 2026 02:48:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Canadians/Americans using Huawei",
+   "url": "https://www.reddit.com/r/Huawei/comments/1xhwnjx/canadiansamericans_using_huawei",
+   "snippet": "Hey, I currently use an iPhone 15 Pro Max and want to switch over to Huawei, with Canadian companies getting rid of 3G soon is there a work around so…",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DfHWlTxk_OA",
+   "snippet": "📱 Will Restricting Chinese Telecom Firms Make US Networks Safer?  \n  \nThe US is considering tighter restrictions on Chinese telecom companies’ direct access to American phone numbers, bringing national security and global connectivity into focus. But could stronger safeguards also reshape competition across the telecom industry?  \n  \n💬 What’s your take? Should national security concerns outweigh t",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_5g",
  "_query": "Europe Huawei 5G ban",
  "_domains": [],

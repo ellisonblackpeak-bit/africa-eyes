@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Europe Entering the Winter with Historically Low Storage Levels",
+   "url": "https://energyindustryreview.com/analysis/europe-entering-the-winter-with-historically-low-storage-levels",
+   "snippet": "EU reliance on US LNG continued to grow, as Qatari and Russian supplies fell. US LNG now accounts for around 30% of total EU gas supply, and total Russian gas around 11%. Russian LNG imports are 2% lower than in summer 2025, while Russian pipeline imports fell by 3%. The total EU LNG imports fell by 14%. No significant volumes of Qatari LNG reached the EU in summer 2026. [...] The EU’s winter pros",
+   "published": "Wed, 28 Oct 2026 16:27:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Iran War Adds $20B-Plus to EU Natural Gas Bill, Increases Reliance on US LNG",
+   "url": "https://naturalgasintel.com/news/iran-war-adds-20b-plus-to-eu-natural-gas-bill-increases-reliance-on-us-lng",
+   "snippet": "Sign In\n\n# Iran War Adds $20B-Plus to EU Natural Gas Bill, Increases Reliance on US LNG\n\n Jamison Cocklin photo\n\nBy Jamison Cocklin\n\n on\n\nPublished in: Daily Gas Price Index Filed under:\n\nEurope LNG Natural Gas Prices\n\nShare:\n\nThe Iran war has added tens of billions of dollars to the European Union’s (EU) natural gas import bill, boosted its reliance on US LNG and left the continent’s storage inve",
+   "published": "Tue, 27 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and Canada explore LNG deal as Europe grapples with gas crisis - AOL",
+   "url": "https://www.aol.com/articles/eu-canada-explore-lng-deal-145704000.html",
+   "snippet": "Since Russia's full-scale invasion of Ukraine, the US has become the EU's largest LNG supplier, replacing much of the cheaper gas previously imported from Russia.\n\nAt the same time, continued disruption in production and shipping of Qatari gas has also dented the EU's energy supply security.\n\nRelated\n\n European natural gas prices soar: What it means for your winter bills\n EU paid €7.9bn for Russia",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "3 LNG Stocks For Europe’s Gas Squeeze",
+   "url": "https://finance.yahoo.com/energy/articles/3-lng-stocks-europe-gas-231403122.html",
+   "snippet": "La Française de l'Energie is a carbon negative energy producer linked to the LNG theme through its European gas activities, generating about €32 million from gas reserve exploration and supported by gas purification and liquefaction know how, with a market cap of roughly €85 million. [...] La Française de l'Energie provides pure play exposure to European gas pricing at a smaller scale, with all re",
+   "published": "Sat, 24 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US LNG Exporters Find Few Takers in Europe for New Supply",
+   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply",
+   "snippet": "By Priscila Azevedo Rocha and Ruth Liao US liquefied natural gas developers expected Europe to…",
+   "published": "Fri, 30 Oct 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "QatarEnergy signs 20-year deal to buy US LNG from Woodside",
+   "url": "https://www.aa.com.tr/en/energy/general/qatarenergy-signs-20-year-deal-to-buy-us-lng-from-woodside/60593",
+   "snippet": "- Europe needs to adapt its power system to hotter future with more frequent heat waves and greater demand for flexibility and storage\n\n02.09.2026 Electricity , General\n\n### Iran says it agreed with Oman on Hormuz passage route, links reopening to US commitments\n\n- President Masoud Pezeshkian says agreed route has been communicated to supreme leader\n\n29.08.2026 General\n\n### Chile, Argentina, Boliv",
+   "published": "Thu, 29 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EXCLUSIVE: QatarEnergy buys US, other LNG to hedge future Hormuz disruptions | Reuters",
+   "url": "https://www.reuters.com/business/energy/qatarenergy-buys-us-other-lng-hedge-future-hormuz-disruptions-2026-10-29",
+   "snippet": "QatarEnergy can profit from the gap between lower US gas prices and higher European prices, Kaabi said.\n\n\"You can imagine the arbitrage you can make, and that would make up some of the loss.\"\n\n## MORE DEALS TO COME\n\nKaabi said he expects QatarEnergy to sign more 20- to 25-year supply agreements with US and other producers this year. [...] The company signed a 20-year agreement on Thursday to buy 3",
+   "published": "Thu, 29 Oct 2026 15:39:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Qatar to Buy LNG From Woodside as It Scours for US Supply",
+   "url": "https://gcaptain.com/qatar-to-buy-lng-from-woodside-as-it-scours-for-us-supply",
+   "snippet": "President Donald Trump said Taiwan had agreed to buy 30% of the liquefied natural gas from a planned project in Alaska for 20 years, even as Taipei indicated that no binding commitments have been finalized.\n\nOctober 14, 2026\n\nTotal Views: 602\n\nEU Imports Record 12.18 Million Tonnes of Russian Arctic LNG\n\nEnergy ### EU Imports Record 12.18 Million Tonnes of Russian Arctic LNG [...] Europe's estimat",
+   "published": "Thu, 29 Oct 2026 11:17:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia’s LNG Imports Recover, Drawing Cargoes From Needy Europe: Russell",
+   "url": "https://energynow.com/2026/07/asias-lng-imports-recover-drawing-cargoes-from-needy-europe-russell",
+   "snippet": "(Reuters) – Asia's imports of liquefied natural gas (LNG) are poised to hit a six-month high in July while Europe's imports plunge to their lowest in nearly",
+   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Several Natural Gas Stocks Near Buy Points",
+   "url": "https://www.investors.com/news/natural-gas-lng-europe",
+   "snippet": "European natural gas prices rose to a nearly four-year high. Several liquefied natural gas stocks are near buy points.",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],

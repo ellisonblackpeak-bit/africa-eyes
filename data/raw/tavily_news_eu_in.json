@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "India and Europe accelerate trade ties - Brussels Signal",
+   "url": "https://brusselssignal.eu/2026/10/india-and-europe-accelerate-trade-ties-but-investment-remains-the-big-unknown",
+   "snippet": "The economic figures explain the interest.\n\nAccording to Eurostat data published by the Council of the EU, merchandise trade between India and the EU-27 reached €118 billion in 2025. Europe imported €69.5 billion worth of Indian goods and exported €48.9 billion, resulting in a trade deficit of €20.6 billion. That made the EU India’s second-largest trading partner in goods, behind the United States",
+   "published": "Thu, 29 Oct 2026 08:14:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India, EU race to finalise FTA before December deadline to coincide with PM Modi's Brussels visit | India News",
+   "url": "https://www.hindustantimes.com/india-news/india-eu-race-to-finalise-fta-before-december-deadline-to-coincide-with-pm-modis-brussels-visit-101792926809767.html",
+   "snippet": "According to the EC, India is the bloc’s ninth largest trading partner for goods globally and the sixth for trade in services. Their bilateral trade in goods amounted to EUR 118 billion in 2025. India’s main exports to the EU include machinery and appliances, chemicals, textiles, metals and petroleum products. The EU’s exports to India are largely dominated by industrial products, including machin",
+   "published": "Sun, 25 Oct 2026 11:37:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU FTA signing expected by year-end: German Ambassador - The Tribune",
+   "url": "https://www.tribuneindia.com/news/india/india-eu-fta-signing-expected-by-year-end-german-ambassador",
+   "snippet": "Advertisement\n\nThe pact follows the conclusion of negotiations at the 16th India-EU Summit in New Delhi on January 27, 2026, and is seen as a major opportunity to expand trade and investment between India and the 27-member European Union.\n\nGermany, India’s largest trading partner within the EU, has more than 2,000 companies operating in India across sectors, including automotive manufacturing, eng",
+   "published": "Wed, 28 Oct 2026 10:02:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU's Foreign Affairs Committee chair expects India trade deal to take effect in 2027; sees Delhi playing constructive role on Ukraine",
+   "url": "https://www.wionews.com/india-news/eu-s-foreign-affairs-committee-chair-expects-india-trade-deal-to-take-effect-in-2027-sees-delhi-playing-constructive-role-on-ukraine-1793195244014",
+   "snippet": "A free trade agreement between the European Union and India is expected to be formally signed by the middle of December, with parliamentary scrutiny likely to clear the way for it to enter into force in 2027, according to the chairman of the European Parliament’s Foreign Affairs Committee. [...] The deal, widely dubbed the “mother of all trade agreements,” would link India’s market of 1.5 billion ",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU FTA On Fast Track: Deal To Be Signed By Year-End, Operational Rollout Slated For Q1 Next Year",
+   "url": "https://www.ndtvprofit.com/economy/india-eu-fta-to-operationalise-by-end-of-year-says-piyush-goyal-in-amsterdam-12234714",
+   "snippet": "Commerce and Industry Minister Piyush Goyal has said the India-European Union Free Trade Agreement (FTA) is expected to be operationalised by the end of 2026, with the pact coming into effect in the first quarter of 2027.\n\nSpeaking during an interaction with the Indian diaspora in Amsterdam on October 25, Goyal outlined the expected timeline for implementing the agreement, which is anticipated to ",
+   "published": "Sun, 25 Oct 2026 17:55:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "McAllister: EU-India deal hoped to be signed in December 2026 | UA.NEWS",
+   "url": "https://ua.news/en/money/makallister-ugodu-es-z-indiieiu-spodivaiutsia-pidpisati-v-grudni-2026-roku-ndtv-world",
+   "snippet": "David McAllister, Chair of the European Parliament’s Committee on Foreign Affairs, said during a visit to India that a free trade agreement between the European Union and India is hoped to be signed by the end of 2026. He said this in an interview with NDTV World as head of a European Parliament delegation visiting the country.\n\n## Expected timeline [...] Negotiations on a trade agreement between ",
+   "published": "Thu, 29 Oct 2026 04:12:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India's Modi to sign EU trade deal in Brussels in December - Latest News",
+   "url": "https://www.hurriyetdailynews.com/indias-modi-to-sign-eu-trade-deal-in-brussels-in-december-228792",
+   "snippet": "The EU and India closed negotiations for a huge trade pact to create a market of two billion people earlier this year, but the accord is yet to be formally signed.\n\n\"Prime Minister Modi will come in December to sign the deal,\" European Council President Costa told an event on Oct. 29organised by the Montreal Council on Foreign Relations in the Canadian city.\n\nModi's visit is expected to take place",
+   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pakistan textile exporters warn EU-India trade deal could erode market advantage",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-textile-exporters-warn-eu-india-trade-deal-could-erode-market-advantage-3005196",
+   "snippet": "European Commission President Ursula von der Leyen and India's Prime Minister Narendra Modi shake hands in front of a hydrogen-powered bus during a photo",
+   "published": "Sun, 25 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU, Canada Seal Digital Trade Deal Amid Closer Partnership - Law360 Tax Authority",
+   "url": "https://www.law360.com/tax-authority/federal/articles/2544512/eu-canada-seal-digital-trade-deal-amid-closer-partnership",
+   "snippet": "Next Tariff Refund Phase To Deploy Next Month, CBP Says\n September 14, 2026\n\n  Trump Says He Will Remove Tariffs On Irish Whiskey\n September 11, 2026\n\n  European Commission Sends India Trade Deal To EU Council\n September 09, 2026\n\n  Economists Tell Fed. Circ. Float Rates Bar Temporary Tariff\n\n#### Already have access? Click here to login\n\n## Get instant access to the one-stop news source for busin",
+   "published": "Fri, 30 Oct 2026 21:51:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tusk's visit to India: a new opening in the country's relationship with Central and Eastern Europe - New Eastern Europe",
+   "url": "https://neweasterneurope.eu/2026/10/28/tusks-visit-to-india-a-new-opening-in-the-countrys-relationship-with-central-and-eastern-europe",
+   "snippet": "Tusk’s visit builds on the strategic partnership established in August 2024 during Narendra Modi’s trip to Warsaw, which produced a mix of concrete and symbolic results. The two sides set a target to double bilateral trade by 2030. It currently stands at about 6 billion dollars. The two agreed to launch a dialogue about their defence industry, and discussed cooperation in artificial intelligence, ",
+   "published": "Wed, 28 Oct 2026 12:27:37 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_in",
  "_query": "EU India trade",
  "_domains": [],

@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Europe’s Africa Policy Overlooks China’s Economic Influence",
-   "url": "https://chinaglobalsouth.com/analysis/europe-africa-policy-overlooks-china-growing-economic-influence",
-   "snippet": "As a recent Financial Times article showed, Chinese companies are rushing to build factories in African countries, manufacturing and assembling a wide range of products from Chinese inputs for export to Europe, the U.S., the Middle East, and, of course, Africa itself. [...] Key Takeaways\n\n Distinct roles: China is economically transformative in Africa; Russia is increasingly nihilistic, focused on",
-   "published": "Fri, 30 Oct 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Beyond exports: China's automakers dig deeper into Europe - The Korea Herald",
-   "url": "https://www.koreaherald.com/article/10915036",
-   "snippet": "Beyond building factories, Chinese automakers are increasingly forming alliances with established manufacturers that are struggling with sluggish demand, costly electrification investments and underused production capacity.\n\nFor European companies, the partnerships offer opportunities to sustain factory operations and share development costs. For Chinese manufacturers, they provide access to exist",
-   "published": "Mon, 26 Oct 2026 05:57:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Volkswagen considers using Chinese software for Europe, report says | Reuters",
-   "url": "https://www.reuters.com/business/autos-transportation/volkswagen-considers-using-chinese-software-europe-report-says-2026-10-26",
-   "snippet": "The company has so far kept software separate, using the architecture co-developed with Xpeng for ​the Chinese market ​while developing ⁠a separate technology for the Western world with Rivian, in a $5.8 billion ​investment at the heart of CEO Oliver ​Blume's ⁠software strategy. [...] Volkswagen's 'China Electronic ​Architecture', a system developed for Chinese models ​in cooperation with local EV",
-   "published": "Mon, 26 Oct 2026 16:45:22 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

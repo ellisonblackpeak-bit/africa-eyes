@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "How China’s Himalayan Megadam Could Put South Asia at Risk - The National Interest",
-   "url": "https://nationalinterest.org/feature/how-chinas-himalayan-megadam-could-put-south-asia-at-risk",
-   "snippet": "None of this proves that China’s Yarlung Tsangpo project will fail. Nor does it establish that construction caused the August disaster in Nepal. But it shows why assessing individual dams’ safety isn’t enough. The entire mountain-river-infrastructure system must be evaluated together. [...] China’s project, launched in July 2025, is among the most ambitious hydropower undertakings in history. With",
-   "published": "Mon, 26 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "New Everest film hopes to nudge US-China relations into a higher altitude | South China Morning Post",
-   "url": "https://www.scmp.com/news/us/society-culture/article/3372803/new-everest-film-hopes-nudge-us-china-relations-higher-altitude",
-   "snippet": "The film Everest: The Other Side, a collaborative US-China project that opened on Friday in 515 US cinemas and that will premiere at 700 IMAX theatres in China on November 6, starts with a majestic shot of the world’s tallest mountain. Then the music builds and more challenging weather rolls in, foreshadowing what is at stake. [...] Advertisement\n\nUS-China relations\n\nUSSociety & Culture\n\n# New Eve",
-   "published": "Sat, 31 Oct 2026 00:02:46 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "np_wide",
  "_query": "Nepal China project",
  "_domains": [],

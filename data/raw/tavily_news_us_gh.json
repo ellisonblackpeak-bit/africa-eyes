@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "DVIDS - News - US, Morocco mark delivery of Apache helicopters to Royal Moroccan Air Force",
+   "url": "https://www.dvidshub.net/news/577972/us-morocco-mark-delivery-apache-helicopters-royal-moroccan-air-force",
+   "snippet": "AL26 is U.S. Africa Command's largest annual joint exercise, designed to strengthen collective security capabilities of the U.S., African nations and global allies. Led by U.S. Army Southern European Task Force, Africa (SETAF-AF) from April 20 to May 8, 2026, and hosted in Ghana, Morocco, Senegal and Tunisia, AL26 involves over 5,600 personnel from more than 40 nations, using innovation to drive p",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Columbus Ghana nursing deal: Sen. Moreno demands end to foreign recruitment funding - cleveland.com",
+   "url": "https://www.cleveland.com/news/2026/10/us-sen-bernie-moreno-is-furious-columbus-is-recruiting-nurses-in-ghana.html",
+   "snippet": "Skip to Article\n\nWeather in -\n\nCurrent -Mostly Sunny\n\nTonightLow -Mostly Sunny\n\nTomorrowHigh -Mostly Sunny\n\n# U.S. Sen. Bernie Moreno is furious Columbus is recruiting nurses in Ghana\n\n |\n\nBernie Moreno\n\nSen. Bernie Moreno, R-Ohio, arrives before President Donald Trump speaks during a campaign rally at the Shoemaker Center at Ohio University Chillicothe in Chillicothe, Ohio, Wednesday, Oct. 28, 20",
+   "published": "Thu, 29 Oct 2026 16:36:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
+   "snippet": "US military says it carried out an airstrike on an alleged drug-trafficking boat in latest attack in region.",
+   "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nuclear reactors, 90-day survival plan: How US is preparing for a global war - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/world/us/nuclear-reactors-90-day-survival-plan-how-us-is-preparing-for-a-global-war/articleshow/135193116.cms",
+   "snippet": "Melania Right There WatchingFlorida Homecoming Party Erupts Into Gunfire, 12 Injured Including Six Children In Shooting HorrorPM Modi Watches IAF Air Show In Varanasi, Inaugurates Garment Unit Amid Border RowAlive & Kicking, North Korea's Kim Jong Sends Chilling Military Warning In China After Death RumoursAlive & Kicking, North Korea's Kim Jong Sends Chilling Military Warning In China After Death",
+   "published": "Sun, 25 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US, ROK defense chiefs agree to delay top-level military talks on OPCON transfer | NK News",
+   "url": "https://www.nknews.org?p=981450",
+   "snippet": "|  |\n|  | [...] NK News Logo\n\nGet behind the headlines\n\n|  | [...] | NK News Banner    News  US, ROK defense chiefs agree to delay top-level military talks on OPCON transfer  Allies to convene Security Consultative Meeting early next year in setback to Seoul’s push for early transfer  Joon Ha Park October 29, 2026  Share Icon SHARE Copy Icon COPY LINK;)  FACEBOOK X Icon X  LINKEDIN Mastodon Icon M",
+   "published": "Thu, 29 Oct 2026 03:20:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Iran Will Expand Its List of U.S. and Israeli Targets Amid the Threat | UA.NEWS",
+   "url": "https://ua.news/en/world/iran-rozshirit-perelik-tsilei-ssha-ta-izrayiliu-na-tli-zagrozi-novoyi-eskalatsiyi",
+   "snippet": "The U.S. may resume large-scale strikes against Iran as early as after the midterm congressional elections, which will take place on November 3. According to U.S. media reports, the Air Force is preparing for possible combat operations, and Washington has warned Gulf states of a likely short but intense military campaign. At the same time, President Donald Trump has not yet made a final decision o",
+   "published": "Sat, 31 Oct 2026 16:17:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Electromagnetic spectrum contract signed between CACI, U.S. Navy - Military Embedded Systems",
+   "url": "https://militaryembedded.com/comms/spectrum-management/electromagnetic-spectrum-contract-signed-between-caci-us-navy",
+   "snippet": "October 12, 2026\n GUEST BLOG: Hiring for aerospace and defense – How security clearance complicates talent acquisition\n\n  October 12, 2026\n EXHIBITOR PROFILE: GMS unveils rugged mission computers, smart displays, and plug-and-play expansion modules\n\n  October 09, 2026\n\nMore Comms [...] News\n\n###### F-35 multiyear production framework proposed for 850 U.S. aircraft\n\nOctober 23, 2026\n\n AI-enabled EO",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia’s growing ties with ECOWAS + Outsourcing: Nigeria aims to become a pioneer • Table.Briefings",
+   "url": "https://table.media/en/africa/professional-briefing/358-russias-growing-ties-with-ecowas-outsourcing-nigeria-aims-to-become-a-pioneer",
+   "snippet": "Documents: Sea Guardian mandate extension motion + Policy brief: South Africa’s police budget under pressure\n Must Reads: Zvilo Group expands its business in sub-Saharan Africa\n Dessert: Nigerien wins Africa’s leading engineering prize [...] Talk of the Town: Russia’s growing ties with ECOWAS\n Outsourcing: How Nigeria aims to become a pioneer\n Graphic of the Day: City of Berlin’s leading trading p",
+   "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Djibouti Plan: A military base for the world | DW News",
+   "url": "https://www.modernghana.com/videonews/0/1/743590",
+   "snippet": "The Djibouti Plan: A military base for the world | DW News. BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV Net2TV. TV3 UTV DelayTV KofiTV",
+   "published": "Thu, 29 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Abbas Araghchi Says Iran Reviews 7-Day Plan With US Via Qatari Mediators: 9 outlets compared | NewsCord",
+   "url": "https://newscord.org/article/abbas-araghchi-says-iran-reviews-7-day-plan-with-us-via-qatari-mediators--Story_20261028_Irantomaintainclosec93ec71ca",
+   "snippet": "Shafaq News said the United States and Israel were preparing for a possible week-long military campaign against Iran after the November 3 US midterm elections, even as regional mediators intensified efforts to prevent renewed fighting. Shafaq News reported that Iranian Foreign Minister Abbas Araghchi reaffirmed Tehran’s commitment to diplomacy and said the country remained in close contact with me",
+   "published": "Wed, 28 Oct 2026 23:21:17 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_gh",
  "_query": "US Ghana military",
  "_domains": [],
