@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "UK’s future lies in EU, says Rachel Reeves",
+   "url": "https://www.politico.eu/article/uk-future-eu-says-rachel-reeves/",
+   "content": "The intervention by the former British chancellor comes ahead of a UK-EU summit later this month.",
+   "published_date": "Sun, 01 Nov 2026 10:45:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "How Merz’s five-day Asia trip ended up being mostly about Europe",
+   "url": "https://www.politico.eu/article/friedrich-merz-asia-trip-europe-security-cooperation/",
+   "content": "Security concerns are following the German Chancellor to Singapore, Japan and Korea. And his proposal for a new trade alliance is already facing hurdles.",
+   "published_date": "Sun, 01 Nov 2026 09:07:45 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Security Sunday: Wie real ist die Kriegsgefahr? – mit General Alexander Sollfrank",
    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-wie-real-ist-die-kriegsgefahr-mit-general-alexander-sollfrank/",
    "content": "Präsentiert von YouTube.",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/funding-deadlock-derails-global-effort-to-save-nature/",
    "content": "U.N. biodiversity talks ended with renewed promises to speed up efforts to protect nature — but little clarity on how to pay for it.",
    "published_date": "Sat, 31 Oct 2026 07:35:24 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Eralps Tag der Entscheidung und die Suche nach dem Staatsoberhaupt mit Rasmus Buchsteiner",
-   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/eralps-tag-der-entscheidung-und-die-suche-nach-dem-staatsoberhaupt-mit-rasmus-buchsteiner/",
-   "content": "Präsentiert von YouTube.",
-   "published_date": "Sat, 31 Oct 2026 05:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Special episode: An exclusive interview with Canadian PM Mark Carney",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/special-episode-an-exclusive-interview-with-canadian-pm-mark-carney/",
-   "content": "In this special edition, Canadian Prime Minister Mark Carney sits down with POLITICO’s chief EU correspondent Zoya and Ottawa bureau chief Nick Taylor-Vaisey for an exclusive interview. With Canada and the European Union exploring a much closer partnership, Carney discusses his vision for Canada’s place in a changing world, the future of transatlantic relations and […]",
-   "published_date": "Sat, 31 Oct 2026 04:00:00 +0000",
    "score": 0.6
   }
  ],

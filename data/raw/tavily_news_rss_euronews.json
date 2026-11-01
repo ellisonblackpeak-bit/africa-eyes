@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 1st, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sun, 01 Nov 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "UN demands urgent investigation after death of staff member held in Houthi custody",
+   "url": "https://www.euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen",
+   "content": "Yemeni Prime Minister Shaya al-Zindani said more than 70 UN staff members and dozens of humanitarian workers remain in Houthi custody.",
+   "published_date": "Sun, 01 Nov 2026 11:23:05 +0100",
+   "score": 0.6
+  },
+  {
    "title": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court",
    "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
    "content": "The statement comes after a confrontation outside the Constitutional Tribunal building on Friday night, broadcast live on television, that has pushed a decade-old dispute into the wider European political debate.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/2026/10/30/you-look-like-hell-trump-berates-reporter-who-asks-if-he-is-tired-of-campaigning",
    "content": "US President Donald Trump berated a Reuters reporter who questioned whether he had cancelled a planned Kansas rally because he was tired of campaigning ahead of the midterm elections.",
    "published_date": "Fri, 30 Oct 2026 10:51:43 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "US: Trump hands out sweets as Air Force One soars overhead",
-   "url": "https://www.euronews.com/video/2026/10/30/us-trump-hands-out-sweets-as-air-force-one-soars-overhead",
-   "content": "Donald and Melania Trump welcomed children in Halloween costumes to the White House on Thursday. The couple handed out sweets, posed for photographs and watched Air Force One fly overhead.",
-   "published_date": "Fri, 30 Oct 2026 10:49:09 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "What happens to the brain when you eat peanuts daily? New study reveals striking results",
-   "url": "https://www.euronews.com/2026/10/30/what-happens-to-the-brain-when-you-eat-peanuts-daily-new-study-reveals-striking-results",
-   "content": "Does eating peanuts every day help to maintain memory as we get older?",
-   "published_date": "Fri, 30 Oct 2026 09:53:25 +0100",
    "score": 0.6
   }
  ],
