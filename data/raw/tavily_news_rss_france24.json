@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Indian opposition stage mega rally seeking election chief’s resignation",
+   "url": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
+   "content": "Thousands of demonstrators on Sunday joined a protest in New Delhi called by Indian opposition leader Rahul Gandhi and backed by the youth “Cockroach” movement amid tight security. Protesters are demanding the resignation of the country's election chief over voter list revisions that critics say favour Prime Minister Narendra Modi's party.",
+   "published_date": "Sun, 01 Nov 2026 06:24:17 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Testimonies from Oleshky",
    "url": "https://www.france24.com/en/tv-shows/spotlight/20261031-testimonies-from-oleshky",
    "content": "American Filmmaker Zarina Zabrisky has lived and reported across the Dnipro River in Ukrainian controlled Kherson for the past three years. She’s been speaking to France 24’s Gavin Lee about the events of the past 24 hours.",
@@ -160,13 +167,6 @@
    "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
    "content": "France's Interior Minister Laurent Nuñez said on Saturday that demonstrations across the country were largely peaceful, despite what he called an \"extraordinary\" level of violence from some groups of rioters. Around 320,000 protesters took part in demonstrations across France on Saturday, the interior ministry estimated, while youth unions counted nearly half a million. Read about the day’s events as they unfolded on our liveblog.",
    "published_date": "Sat, 31 Oct 2026 05:53:27 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
-   "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
-   "content": "France braces for another weekend of unrest as the Yellow Vests return to the streets under the rallying cry of ‘Act III – Halloween’, with 70,000 police and security forces deployed after the riots and looting of recent weeks. A cash-strapped government faces mounting grievances, a rolling protest movement and little room for manoeuvre ahead of elections, as it struggles to restore order while grappling with crippling debt.",
-   "published_date": "Sat, 31 Oct 2026 00:30:13 GMT",
    "score": 0.6
   }
  ],

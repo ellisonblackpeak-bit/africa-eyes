@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "With historic deployment in Niger, Algeria eyes regaining Sahel influence",
+   "url": "https://www.modernghana.com/news/1540067/with-historic-deployment-in-niger-algeria-eyes.html",
+   "snippet": "Mali's junta leader General Assimi Goita is expected to visit Algeria in the coming weeks, after the two countries' prime ministers have also exchanged visits to Algiers and Bamako.\n\nAnother sign of a thaw came earlier this month, when Malian forces seized the strategic northern city of Kidal from rebel forces with mediation from Algiers, according to diplomatic sources and analysts. [...] Niger, ",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tafouk TV, the new media arm of Moscow-backed Sahelian juntas",
+   "url": "https://www.theafricareport.com/434646/tafouk-tv-the-new-media-arm-of-moscow-backed-sahelian-juntas",
+   "snippet": "Since 16 September, television sets in Mali, Burkina Faso and Niger have been receiving a new channel broadcasting locally produced programmes with a patriotic, sovereignty-focused tone.\n\nAn initiative of the three juntas that make up the Alliance of Sahel States (AES), Tafouk TV aims to give a voice to the military authorities who seized power by force and counter what they describe as an informa",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years - myMotherLode.com",
+   "url": "https://mymotherlode.com/news/africa/11252926/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years.html",
+   "snippet": "Last April, the countries of the Alliance of Sahel States — Niger, Mali and Burkina Faso — recalled their ambassadors from Algeria following an incident in which a Malian drone was shot down by Algeria’s army near the border.\n\nAlgeria’s foreign ministry also condemned the 2023 coup which brought Niger’s junta leader Tchiani to power.\n\n## Make Us Your Home Page Today\n\nfollow social mediaFollow us o",
+   "published": "Mon, 26 Oct 2026 01:34:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger: Prominent Journalist ‘Disappeared’ for 2 Months | Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/10/28/niger-prominent-journalist-disappeared-for-2-months",
+   "snippet": "Kaka’s case highlights growing concerns about media freedom and political repression in Niger, Human Rights Watch said. Since seizing power in a 2023 coup, Niger’s military junta has solidified its rule, dismantled democratic institutions, and intensified repression of dissidents. They have dissolved political parties, suspended dozens of civil society organizations, detained journalists under a b",
+   "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Gas pipelines and the Sahel border: why Algeria is sending its troops to Niger - Il Sole 24 ORE",
+   "url": "https://en.ilsole24ore.com/art/gas-pipelines-and-the-sahel-border-why-is-algeria-sending-its-troops-to-niger-AJhT4HxB",
+   "snippet": "Parliament’s approval of the deployment of troops undermines a foreign policy dogma that has been in place for over a decade in Algeria, but its premises were already implicit in the latest manoeuvres by Africa’s largest country. Algiers began a rapprochement with the Malian junta in July following the severing of relations in 2025 and effectively stepped in to support Niger at the end of the foll",
+   "published": "Thu, 29 Oct 2026 13:02:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Key of seethe: I.Coast row with Sahel juntas spills into concert halls",
+   "url": "https://www.modernghana.com/news/1540181/key-of-seethe-icoast-row-with-sahel-juntas-spill.amp",
+   "snippet": "Ivorian reggae star Alpha Blondy abruptly interrupted his concert's chilled-out vibes to wade into a far less laid-back subject -- the coups in his",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Moscow courts both sides of the Sahel divide | Article Preview | Africa Confidential",
+   "url": "https://www.africa-confidential.com/article/id/16225/moscow-courts-both-sides-of-the-sahel-divide",
+   "snippet": "## Africa Confidential\n\nReporting Africa Since 1960\n\n  Jump to navigation \n\n---",
+   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Putin seeks to expand ties with African countries at Russia-Africa summit",
+   "url": "https://www.abc4.com/news/business/ap-business/ap-putin-seeks-to-expand-ties-with-african-countries-at-russia-africa-summit/amp",
+   "snippet": "MOSCOW (AP) — Russian President Vladimir Putin on Wednesday hosted dozens of African leaders at a Russia-Africa summit, part of Moscow's efforts to expand",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

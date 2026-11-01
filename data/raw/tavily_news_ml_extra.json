@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Mali drone strike kills 13 civilians, activists say; army says it targeted militants",
+   "url": "https://apnews.com/article/mali-violence-human-rights-army-drone-attack-d1b0f42ac8e884bd6c927614370801ed",
+   "snippet": "Local human rights activists and a separatist group say Mali's military killed at least 13 civilians in a drone strike earlier this week near the Mauritania",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Military and Armed Groups in Mali Committing Human Rights Abuses Against Civilians",
+   "url": "https://www.humanrightsresearch.org/post/military-and-armed-groups-in-mali-committing-human-rights-abuses-against-civilians",
+   "snippet": "The country has been ruled by a military government since back-to-backcoups in 2020 and 2021. In August 2020, a group of Malian soldiers arrested their senior leaders, seized weaponry, and detained then-President Aboubakar Keita. This coup took place after protests against the Keita for alleged corruption and failing to suppress an armed rebellion in the north of the country. After the 2020 coup, ",
+   "published": "Thu, 29 Oct 2026 19:00:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Salient Motion CEO plans ‘many more’ factories for defense components | Manufacturing Dive",
+   "url": "https://www.manufacturingdive.com/news/reshoring-precision-ball-and-roller-screw-manufacturing-vishaal-mali/833926",
+   "snippet": "VISHAAL MALI: There is such a big push right now in defense tech and an aerospace resurgence happening, but I sort of felt like there’s a missing asset class in the manufacturing supply chain. It was pretty evident that everyone is building all these incredible platforms that that the country needs, whether it’s aerospace or traditional airplanes and rethinking commercial flight, all the way to mi",
+   "published": "Mon, 26 Oct 2026 10:57:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Conversation with Interim President of the Republic of Mali Assimi Goita • President of Russia",
+   "url": "http://en.kremlin.ru/events/president/news/81125",
+   "snippet": "We also provide humanitarian assistance. Given the growing interest among young people in Mali in receiving higher education in Russia, we have increased the quota for Malian students to 300 scholarships for the 2026–2027 academic year, as you know. [...] We continue to develop cooperation in this area more broadly. The Russian language is becoming increasingly popular in Mali, and we are grateful",
+   "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "Following successive coups and deteriorating diplomatic relations, France withdrew its troops from Mali in August 2022, Burkina Faso in February 2023 and Niger in December 2023.\n\nThe withdrawals were accompanied by growing anti-French sentiment and demands from military governments for greater control over their security policies.\n\nNiger demanded the departure of approximately 1,500 French soldier",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DHS told ’60 Minutes’ weeks before segment aired that deported Malian national had once claimed to be gay",
+   "url": "https://www.wfmd.com/2026/10/29/dhs-told-60-minutes-weeks-before-segment-aired-that-deported-malian-national-had-once-claimed-to-be-gay",
+   "snippet": "DHS emailed the network on Oct 6 about Moussa Diawara's sexual orientation claim, but the segment omitted it.",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Texas dad deported by ICE to Ghana was then forced to go to Mali, a country that's unsafe for him, he says - CBS News",
+   "url": "https://www.cbsnews.com/news/moussa-diawara-third-country-deportation-ghana-mali-60-minutes",
+   "snippet": "Last month, a federal appeals court upheld a ruling in a class action lawsuit that found the Trump administration's third-country policy was unlawful because it denied deportees due process. But the Supreme Court has allowed these deportations to continue until it hears the case in December.\n\n## Diawara fighting to get back to his family in the U.S.\n\nMoussa Diawara's attorney, Reuben S. Kerben, ha",
+   "published": "Sun, 25 Oct 2026 23:17:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "'60 Minutes' was told Mali father's gay asylum claim before segment aired: DHS | Fox News",
+   "url": "https://www.foxnews.com/media/dhs-told-60-minutes-weeks-before-segment-aired-deported-malian-national-had-once-claimed-gay",
+   "snippet": "A \"60 Minutes\" insider previously defended the integrity of the report, pointing to how Diawara's claim that \"part of the reason he didn't feel safe\" was for religious reasons did make the broadcast. According to the report, he had converted to Christianity, and Mali is a Muslim-majority nation.\n\n\"The broadcast acknowledged DHS questioned the credibility of Moussa Diawara's fear of persecution, wh",
+   "published": "Wed, 28 Oct 2026 22:24:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali vs. Rwanda (Nov 13, 2026) Live Score - ESPN",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401927185/rwanda-mali",
+   "snippet": "| Team | GP | W | D | L | GD | P |\n ---  ---  --- \n| Rwanda | 2 | 2 | 0 | 0 | +3 | 6 |\n| Mali | 2 | 2 | 0 | 0 | +3 | 6 |\n| Cape Verde | 2 | 0 | 0 | 2 | -3 | 0 |\n| Liberia | 2 | 0 | 0 | 2 | -3 | 0 |\n\n## Head-To-Head\n\nMLI\nRWA\n\n## AFCON Qualifying News\n\nBafana boss Pitso Mosimane's latest South Africa squad shows favouritism fears were unfounded\n\n## Bafana boss Pitso Mosimane's latest South Africa sq",
+   "published": "Sat, 31 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russian state firm to create geological map of Mali, build mining data system",
+   "url": "https://www.reuters.com/world/africa/russian-state-firm-create-geological-map-mali-build-mining-data-system-2026-10-28",
+   "snippet": "Russian state-owned company Rosgeologiya (RusGeology) has signed agreements with Mali to develop a digital geological map and ​an information system to",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ml_extra",
  "_query": "Mali latest news",
  "_domains": [],

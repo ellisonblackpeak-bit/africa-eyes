@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria Approves ₦45.8bn Biosecurity Systems At Five Airports To Detect Ebola, Other Diseases – Arise News",
+   "url": "https://www.arise.tv/nigeria-approves-%E2%82%A645-8bn-biosecurity-systems-at-five-airports-to-detect-ebola-other-diseases",
+   "snippet": "AFRICA\n\nNigeria approves ₦45.8 billion airport biosecurity project featuring advanced laboratories, pathogen surveillance and real-time disease monitoring.\n\nThe Federal Government has approved a ₦45.8 billion biosecurity and disease surveillance project for five international airports to strengthen Nigeria’s capacity to detect Ebola and other infectious diseases before they spread across the count",
+   "published": "Wed, 28 Oct 2026 22:52:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian govt approves N70,000 monthly transport allowance for workers",
+   "url": "https://www.premiumtimesng.com/news/top-news/920896-nigerian-govt-approves-n70000-monthly-transport-allowance-for-workers.html",
+   "snippet": "Premium Times Nigeria\n\nBUA Group Ad  BUA Group Ad  BUA Group Ad\n\nPresident Tinubu\n\nPresident Tinubu (CREDIT: Bola Ahmed Facebook page)\n\n# Nigerian govt approves N70,000 monthly transport allowance for workers\n\n## The approval was one of the resolutions reached at a meeting between government officials and the NLC leadership in Abuja on Tuesday, as both parties discussed workers’ welfare, the natio",
+   "published": "Wed, 28 Oct 2026 05:42:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ebola: Nigerian Government Approves N45.08 Billion For Airport Biosecurity - Voice of Nigeria",
+   "url": "https://von.gov.ng/ebola-nigerian-government-approves-n45-08-billion-for-airport-biosecurity",
+   "snippet": "Business and Tech\n Sports\n Languages\n  + Yoruba\n  + Igbo\n  + Hausa\n  + French\n  + Arabic\n  + Fulfulde\n  + Kiswahili\n  + Mandarin\n connect\n\nHomeNigeriaEbola: Nigerian Government Approves N45.08 Billion For Airport Biosecurity\n\nNigeria\n\n# Ebola: Nigerian Government Approves N45.08 Billion For Airport Biosecurity\n\nTemitope Mustapha, Abuja\n\nShare\n\nFacebookXPinterestWhatsApp\n\n meeting presided over by ",
+   "published": "Wed, 28 Oct 2026 18:15:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG Approves Six-Month ₦70,000 Transport Support For Workers • Channels Television",
+   "url": "https://www.channelstv.com/2026/10/27/fg-approves-six-month-%E2%82%A670000-transport-support-for-workers",
+   "snippet": "The Federal Government has approved a ₦70,000 transport intervention for workers across all levels for six months, beginning in November 2026, following a conciliation meeting with the leadership of the Nigeria Labour Congress (NLC).\n\nAdvertisement\n\nThe agreement was reached at a meeting convened by the Federal Ministry of Labour and Employment in Abuja on Tuesday, October 27, to address issues ra",
+   "published": "Tue, 27 Oct 2026 22:04:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG approves N70,000 monthly transport allowance for workers for six months | TheCable",
+   "url": "https://www.thecable.ng/fg-approves-n70000-monthly-transport-allowance-for-workers-for-six-months",
+   "snippet": "The federal government has approved a monthly transport allowance of N70,000 for public service workers across all levels for six months, beginning in November 2026, to cushion the impact of rising living costs.\n\nThe approval was announced in a memorandum of understanding (MoU) issued at the end of a conciliation meeting between government representatives and leaders of the Nigeria Labour Congress",
+   "published": "Tue, 27 Oct 2026 21:42:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG approves N70,000 monthly transport support for workers",
+   "url": "https://punchng.com/fg-approves-n70000-monthly-transport-support-for-workers-for-six-months",
+   "snippet": "The approval was one of the resolutions reached at a conciliation meeting between the Federal Government and the leadership of the Nigeria Labour Congress in Abuja on Tuesday, following renewed pressure from organised labour over the cost of living, workers’ welfare and outstanding agreements.\n\nThe government also approved the payment of peculiar allowance arrears, effective from May 1, 2026, in t",
+   "published": "Tue, 27 Oct 2026 19:43:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Federal Government Approves N70,000 Monthly Transport Allowance For Public Servants",
+   "url": "https://crossriverwatch.com/2026/10/federal-government-approves-n70000-monthly-transport-allowance-for-public-servants",
+   "snippet": "By Blessing Francis. The Federal Government of Nigeria has approved seventy thousand (70,000) Naira monthly transport intervention for public service",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG approves unified framework to tackle poverty, humanitarian crises",
+   "url": "https://guardian.ng/news/fg-approves-unified-framework-to-tackle-poverty-humanitarian-crises",
+   "snippet": "### GDN DESKTOP 1\n\nAdvertisement\n\n# FG approves unified framework to tackle poverty, humanitarian crises\n\nBy : Tina Abeku\n\nDate:  29 October 2026 3:14pm WAT\n\nShare :\n\nFollow Us on Google Discover\n\n Federal Government Of Nigeria (FGN) \n\nFederal Government Of Nigeria (FGN)\n\n  \n\nFederal Government Of Nigeria (FGN) [...] The Federal Executive Council (FEC) has approved the One Humanitarian One Poverty",
+   "published": "Thu, 29 Oct 2026 14:14:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ebola: Why Nigeria approved patient’s evacuation to Switzerland — NCDC boss",
+   "url": "https://thenationonlineng.net/ebola-why-nigeria-approved-patients-evacuation-to-switzerland-ncdc-boss",
+   "snippet": "The Nigeria Centre for Disease Control and Prevention (NCDC) has explained why the Federal Government approved the medical evacuation of Nigeria's confirmed",
+   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria's president seeks parliament approval for about $21.7 billion borrowing",
+   "url": "https://www.reuters.com/world/africa/nigerias-president-seeks-parliament-approval-about-217-billion-borrowing-2026-10-27",
+   "snippet": "Nigerian President Bola Tinubu has asked the ​National Assembly to approve a ‌supplementary external borrowing plan worth $20.52 billion and €1.05 billion",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ng",
  "_query": "Nigeria government approves",
  "_domains": [],

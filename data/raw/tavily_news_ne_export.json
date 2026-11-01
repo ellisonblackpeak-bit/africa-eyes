@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Brent crude surges 13% in October as Middle East attacks threaten oil supplies - Nairametrics",
+   "url": "https://nairametrics.com/2026/10/30/brent-crude-surges-13-in-october-as-middle-east-attacks-threaten-oil-supplies",
+   "snippet": "In October 2026, Niger banned petrol and diesel exports to prioritise domestic consumption, although specially authorised exports of surplus supplies by state-owned SONIDEP and refinery operator SORAZ remain permitted.\n The measure reflects the pressure on governments to secure adequate domestic supplies amid uncertainty in international energy markets. [...] ## Related Stories\n\nDangote’s fuel exp",
+   "published": "Fri, 30 Oct 2026 10:17:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Botswana seeks Dangote supply deal to shield against fuel shocks - Nairametrics",
+   "url": "https://nairametrics.com/2026/10/28/botswana-seeks-dangote-supply-deal-to-shield-against-fuel-shocks",
+   "snippet": "In October 2026, Niger banned petrol and diesel exports to prioritise domestic consumption, although specially authorised exports of surplus supplies by SONIDEP and SORAZ remain permitted.\n A September 2026 United Nations Development Programme policy brief indicated that global fossil-fuel subsidies could exceed $1 trillion in 2026 as governments absorb part of the energy-price shock. [...] The me",
+   "published": "Wed, 28 Oct 2026 17:49:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Globus Bank Pushes to Boost Non-Oil Exports Through Financing and Local Manufacturing - Nairametrics",
+   "url": "https://nairametrics.com/2026/10/28/globus-bank-pushes-to-boost-non-oil-exports-through-financing-and-local-manufacturing",
+   "snippet": "Tarun Kumar Das, managing director of Springfield Agro Limited, said Nigeria loses about $360 million through export bans, primarily affecting cocoa.\n\nHe warned that stricter sustainability requirements could create additional costs for smallholder farmers and exporters who lack the resources to maintain detailed production records. [...] Nonye Ayeni, executive director and chief executive officer",
+   "published": "Wed, 28 Oct 2026 10:46:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria - Economy, Oil, Agriculture | Britannica",
+   "url": "https://www.britannica.com/place/Nigeria/Finance",
+   "snippet": "The main markets for Nigerian exports—consisting mostly of crude oil, cocoa beans, and rubber—include India, the United States, and the countries of the European Union (EU). The main imports are machinery and transport equipment, manufactured goods (iron and steel products, textiles, and paper products), chemicals, and food, most of which come from the EU, China, and the United States. [...] Creek",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria must break oil-rent model to unlock growth, jobs — Oxford Professor – Businessday NG",
+   "url": "https://businessday.ng/news/article/nigeria-must-break-oil-rent-model-to-unlock-growth-jobs-oxford-professor",
+   "snippet": "“Fundamentally, it’s been that. So if you think about it, even today oil is about 85 percent of exports. In 2010, the value per Nigerian from this oil, the amount of money that’s taken in the country, was about $255 per person.\n\n“That’s not that much. It’s only $255 per person. But if you can divide this amount of money across about 100,000 people that matter, that’s $400,000 or more. [...] Accord",
+   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Seeks More Investments, Higher Exports, Sustainable Jobs - Voice of Nigeria",
+   "url": "https://von.gov.ng/nigeria-seeks-more-investments-higher-exports-sustainable-jobs",
+   "snippet": "DR Congo Bans Gatherings Over Ebola Fears - Voice of Nigeria on Ebola Outbreak in DRC Outpaces Response Efforts – WHO\n\nGombe Governor Swears in 24 Council Chairmen - Voice of Nigeria on Lagos Governor Swears In 57 Elected Council Chairmen, Deputies\n\nAkwa Ibom Expands Regional Connectivity Through Ibom Air - Voice of Nigeria on Akwa Ibom Government Deepens Security Plans, Integrates Youths [...] At",
+   "published": "Thu, 29 Oct 2026 12:25:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trade Pathways launches Nigeria coverage as US tariffs weigh on small business exporters",
+   "url": "https://www.vanguardngr.com/2026/10/trade-pathways-launches-nigeria-coverage-as-us-tariffs-weigh-on-small-business-exporters",
+   "snippet": "New US import tax falls hardest on processed goods, the core of Nigeria's small-business export economy. For Nigeria's small businesses, selling to the",
+   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_export",
  "_query": "Niger bans petrol exports",
  "_domains": [],

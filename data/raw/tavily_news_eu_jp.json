@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DfGYtwtKKQc",
+   "snippet": "🇪🇺🇵🇱🇯🇵 🛡️ European Parliament Delegation Visits Japan to Strengthen Security and Defence Cooperation (27–30 October 2026)  \n  \n🇪🇺🇯🇵 A delegation of the European Parliament’s Security and Defence (SEDE) Committee, led by Chair Marie-Agnes Strack-Zimmermann, visited Tokyo and Gifu to strengthen the EU-Japan security and defence partnership and explore opportunities for closer defence-industrial coop",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "State Minister for Foreign Affairs NAKASONE received a ...",
+   "url": "https://www.facebook.com/Mofa.Japan.en/posts/state-minister-for-foreign-affairs-nakasone-received-a-courtesy-call-from-a-dele/1632137995613626",
+   "snippet": "Japan and the EU discussed how to advance security and defence cooperation in areas such as maritime security, cybersecurity, countering disinformation,",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan’s Defense Industry Enters Europe’s Industrial Partnerships: From Technology Supplier to Strategic Co-Developer | Strategy Review — The Economy",
+   "url": "https://economy.ac/review/2026/10/202610295882",
+   "snippet": "Four days before the Japanese revision, on 17 April 2026, the EU Commissioner for Defence and Space and Japan’s State Minister of Economy, Trade and Industry attended the first meeting of the EU-Japan Defence Industry Dialogue, launched by the European industry association ASD and Japan’s SJAC in the framework of the EU-Japan Competitiveness Alliance of July 2025 and with reference to the Security",
+   "published": "Tue, 27 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "SEDE Committee Press",
+   "url": "https://x.com/EP_Defence/status/2116107083452178894",
+   "snippet": "Delegation of the Security and Defence Committee concluded its visit to Japan calling for a new era in EU-Japan defence cooperation",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "MOFA of Japan",
+   "url": "https://x.com/MofaJapan_en/status/2115307830114975782",
+   "snippet": "Both sides concurred on strengthening cooperation—including in the defence industry and technology and innovation fields—based on the Japan-EU Security and",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan-Germany Joint Leaders' Statement - Bundesregierung",
+   "url": "https://www.bundesregierung.de/resource/blob/975228/2458850/f8df7cd25c44e51829148867a181326b/2026-10-28-japan-germany-joint-leaders-statement-data.pdf?download=1",
+   "snippet": "defence cooperation ecosystem on the basis of the Japan-Germany Acquisition and Cross-Servicing Agreement, Security of Information Agreement, and Defence Equipment and Technology Transfer Agreement. In this spirit, they will further explore opportunities and frameworks to enhance and facilitate operational cooperation, such as joint exercises between the Japan Self-Defense Forces and the German Bu",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Germany and Japan plan closer security and technology ties",
+   "url": "https://www.reddit.com/r/LessCredibleDefence/comments/1xicpuv/germany_and_japan_plan_closer_security_and",
+   "snippet": "Germany and Japan have agreed to deepen cooperation on economic security, advanced technologies and defence during German Chancellor Friedrich Merz's visit",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Finland and Japan sign a new defence agreement",
+   "url": "https://valtioneuvosto.fi/en/-/236553176/finland-and-japan-sign-a-new-defence-agreement",
+   "snippet": "Finland and Japan have signed an agreement concerning the transfer of defence equipment and technology.",
+   "published": "Mon, 26 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_jp",
  "_query": "EU Japan defence cooperation",
  "_domains": [],

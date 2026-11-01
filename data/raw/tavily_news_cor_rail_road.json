@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Opeifa Targets 10,000km Railway Network in Five Years, Sees Integrated Transport as Key to Economic Growth – Independent Newspaper Nigeria",
+   "url": "https://independent.ng/opeifa-targets-10000km-railway-network-in-five-years-sees-integrated-transport-as-key-to-economic-growth",
+   "snippet": "Highlighting railway infrastructure projects under President Bola Tinubu’s administration, Opeifa disclosed that efforts were ongoing to extend the standard-gauge railway to Apapa Port and establish a connection to Tin Can Island Port in Lagos.\n\nThe proposed connections are expected to strengthen the relationship between railway and maritime transportation, particularly in the movement of containe",
+   "published": "Fri, 30 Oct 2026 15:48:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EBID Approves $100m for Kano-Maradi Rail Project",
+   "url": "https://www.thisdaylive.com/2026/10/01/ebid-approves-100m-for-kano-maradi-rail-project",
+   "snippet": "Nume Ekeghe. The ECOWAS Bank for Investment and Development (EBID) has approved a $100 million facility for Nigeria's Kano-Maradi Standard Gauge Railway",
+   "published": "Sun, 01 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Delayed $3bn Lekki–Marina rail groundbreaking expected by December – Businessday NG",
+   "url": "https://businessday.ng/news/article/delayed-3bn-lekki-marina-rail-groundbreaking-expected-by-december",
+   "snippet": "The Federal Executive Council approved contracts worth $2.99 billion for three rail projects in April 2026, including Phase 1A of the Lagos Green Line, the Kano Metro City rail project and the Kaduna light rail system.\n\nTaiwo Oyedele, minister of finance said the projects would be financed through the Ministry of Finance Incorporated (MOFI), alongside counterpart funding arrangements. [...] Opeifa",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s Infrastructure Drive: What Major Road Projects Could Mean for Property Markets",
+   "url": "https://www.nigeriahousingmarket.com/news/nigeria-infrastructure-projects-property-development",
+   "snippet": "President Bola Tinubu’s administration says it will intensify infrastructure development across Nigeria, highlighting road construction, railway projects, electricity initiatives and regional development programmes as priorities for economic growth.\n\n/ You Might Also Like /\n\nFeatured\n\nPropTech in Nigeria: An Investor’s Introductory Guide\n\nPropTech in Nigeria: An Investor’s Introductory Guide\n\nRead",
+   "published": "Wed, 28 Oct 2026 17:16:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Track Stiffness Control Pads Market in Africa: Size, Trends and Forecast to 2035 | IndexBox",
+   "url": "https://www.indexbox.io/store/africa-track-stiffness-control-pads-market-analysis-forecast-size-trends-and-insights",
+   "snippet": "Demand centers are associated with rail investment, mining and bulk logistics, and urban transport expansion rather than population alone. South Africa has a large legacy rail network and mining-linked freight requirements; Egypt, Morocco, and Algeria have significant passenger and urban rail development; and Kenya, Tanzania, Ethiopia, and other East African markets are associated with corridor an",
+   "published": "Thu, 29 Oct 2026 15:04:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "AFC selects two consortia for Zambia Lobito Railway project",
+   "url": "https://www.railjournal.com/freight/afc-selects-two-consortia-for-zambia-lobito-railway-project",
+   "snippet": "AFRICA Finance Corporation (AFC), lead sponsor and developer of the Zambia Lobito Railway project, has selected two consortia as preferred bidders for the",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Federal, state moves advance South Florida rail projects",
+   "url": "https://www.yahoo.com/news/us/articles/federal-state-moves-advance-south-112459033.html",
+   "snippet": "MIAMI - Two commuter rail projects in South Florida that would use the Florida East Coast Railway main line received positive funding news this week, although Miami-Dade's mayor expressed some reservations about one of those plans. [...] David Lassen\n\n3 min read\n\nAdd Yahoo as a preferred source to see more of our stories on Google.\n\nMap of the Broward Commuter Rail project\n\nBroward County's commut",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Managing Railway Cyber Risks: From Compliance to Resilience | Metro",
+   "url": "https://www.metro-magazine.com/articles/managing-railway-cyber-risks-from-compliance-to-resilience",
+   "snippet": "Ad Loading...\n\n## An Interconnected Risk Ecosystem\n\nDenver RTD commuter rail train on tracks\n\nRail cybersecurity extends beyond traditional IT networks to include signaling systems, trackside equipment, control centers, and other operational technologies essential to safe and reliable service.\n\nCredit:\n\nDenver RTD\n\nCybersecurity within a railway project does not operate as a standalone technical f",
+   "published": "Wed, 28 Oct 2026 15:05:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NS Wraps Six Major Projects in 26 Hours",
+   "url": "https://www.rtands.com/freight/class-1/ns-wraps-six-major-projects-in-26-hours",
+   "snippet": "Three bridge replacements in Indiana and Kentucky. Track and ballast renewal through the English Tunnel in Indiana. New track installation in Bretzville,",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cor_rail_road",
  "_query": "railway project Nigeria",
  "_domains": [],

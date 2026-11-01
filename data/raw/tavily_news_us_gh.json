@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "US and Ghana Join Forces for Maritime Security",
+   "url": "https://www.defencecircle.co.za/2026/10/28/us-and-ghana-join-forces-for-maritime-security",
+   "snippet": "The US Marine Corps has worked closely with Ghanaian military forces through bilateral training programmes, multinational exercises and professional exchanges.",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Armed Forces is one of the most respected military ...",
+   "url": "https://www.facebook.com/ghanaarmedforcesfanpage/posts/ghana-armed-forces-is-one-of-the-most-respected-military-in-the-world-check-the-/1407653811572905",
+   "snippet": "US Soldiers were trained by Ghana army in learn series of situational training exercises designed to train participants in counter-insurgency and security",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana and Russia have agreed on a new defence pact ...",
+   "url": "https://www.facebook.com/dailygraphicghana/posts/ghana-and-russia-have-agreed-on-a-new-defence-pact-where-russia-will-provide-the/1171557808863007",
+   "snippet": "The United States has donated $4 million worth of military equipment to the Ghana Armed Forces to strengthen the country's defence and security capabilities.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Group protests Ghana-US Military Pact #GHOneNews",
+   "url": "https://www.facebook.com/ghonetv/videos/ghana-first-demo/1633303420057484",
+   "snippet": "GHANA FIRST DEMO: Group protests Ghana-US Military Pact. Scenes from Sarkodie's Rapperholic concert in Kumas... Live Performance Highlights on GHOne",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana army Stock Photos and Images",
+   "url": "https://www.alamy.com/stock-photo/ghana-army.html",
+   "snippet": "Find the perfect ghana army stock photo, image, vector, illustration or 360 image. Available for both RF and RM licensing.",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "GAFCSC SCSC 48 CLIMAXES COMBAT POWER WEEKS ...",
+   "url": "https://gafcscmil.edu.gh/about/blog/gafcsc-scsc-48-climaxes-combat-power-weeks-with-land-combat-power-demonstration",
+   "snippet": "The Ghana Armed Forces Command and Staff College (GAFCSC) was established in 1963 with the mandate to train officers of the Ghana Armed Forces and allied",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Armed Forces Quarter Guard Prepares to Receive ...",
+   "url": "https://www.youtube.com/watch?v=D84sdqgFNWY",
+   "snippet": "The quarter guard stands ready to receive the Special Guest of Honour at the Ghana Armed Forces' 2026 Land Combat Fire Power Demonstration in Bundase.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Says Russia to Back 2,000 MW Nuclear Plant, Deepen Ties",
+   "url": "https://www.usnews.com/news/world/articles/2026-10-31/ghana-says-russia-to-back-2-000-mw-nuclear-plant-deepen-ties",
+   "snippet": "• The announcement came a ​day after Russia's state nuclear corporation, Rosatom, ⁠said it ⁠was in talks ⁠with ​four African countries, including Ghana, on large nuclear ​power projects.\n\n• ⁠First held in 2019, the Russia-Africa Summit is part of a concerted push by Moscow to deepen economic ⁠ties with Africa through energy cooperation.\n\n• The two countries ⁠also agreed to deepen defense ties thro",
+   "published": "Sat, 31 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "“Ghana Is a No-Go Area!” – Peter Toobu Warns Potential ...",
+   "url": "https://www.youtube.com/watch?v=wcPrW_qbUHE",
+   "snippet": "“Ghana is a no-go area!” That is the strong message from Peter Lanchene Toobu, who says the Ghana Armed Forces are well prepared to defend the country",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_gh",
  "_query": "US Ghana military",
  "_domains": [],

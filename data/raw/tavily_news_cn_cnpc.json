@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Agadem oil field is located in: |ForumIAS",
+   "url": "https://forumias.com/blog/question/agadem-oil-field-is-located-in",
+   "snippet": "Skip to content\n\nOctober 30, 2026 Academy Philosophy Events\n\nForumIAS Blog\n\nJoin Academy\n\n### Q. Agadem oil field is located in:\n\n[A] South Africa\n\n[B] Venezuela\n\n[C] Niger\n\n[D] Chad\n\nAnswer: C\n\nNotes:  \n\nExplanation – Agadem oil field is located in Niger. China and Niger have singed a deal for exporting the oil form this field. It is a 1,930-km pipeline intended to export oil from Niger’s Agadem ",
+   "published": "Thu, 29 Oct 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Benin Oil Export Set for 330000 Barrels",
+   "url": "https://www.facebook.com/RioTimes/posts/benin-oil-export-set-for-330000-barrelsbenin-energykey-factsthe-country-benin-is/1562671852546392",
+   "snippet": "Production immediately started in Niger's oilfield Agadem and its first loading is planned for May 2024, reports say.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger schedules Goumeri relief-well drilling through December 26 · Alama Report – Niger",
+   "url": "https://www.alamareport.com/stories/niger-schedules-goumeri-relief-well-drilling-through-december-26",
+   "snippet": "26\n\nDrilling of a relief well to stop the crude oil eruption at the Goumeri W-8 well in Niger's Agadem field is scheduled from October 24 to December 26, the petroleum and environment ministers said on October 20, state news agency ANP reported. The drilling platform is 100% complete and the equipment is on site, but the timetable does not guarantee control of the eruption within that period, the ",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BENIN | Shell Trading has secured the rights to the Sèmè ...",
+   "url": "https://www.facebook.com/africaintelligence/posts/benin-shell-trading-has-secured-the-rights-to-the-s%C3%A8m%C3%A8-field-where-production-re/1170471175552066",
+   "snippet": "Benin has resumed drilling at the Sèmè offshore oil field for the first time since 1998. ... A ceremony was held at the Agadem oil site, located more than 1,700",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Breaking News: Explos!on reported at oil, gas and power ...",
+   "url": "https://www.facebook.com/NzemaToday/posts/breaking-news-exploson-reported-at-oil-gas-and-power-infrastructure-in-vridi-c%C3%B4t/1129827896675463",
+   "snippet": "The incident began on September 25, 2026, at the Agadem oil block, approximately 1,700 kilometres from the capital, Niamey. Large quantities of crude oil",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Dispatches Technical Mission and ANP Units to ...",
+   "url": "https://www.instagram.com/p/DfF2ubPljT8",
+   "snippet": "Protect energy investments by state-owned Sonatrach, including Kafra oil field in Agadez region 85km from Algerian border",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Cookie declaration | Savannah Energy",
+   "url": "https://savannah-energy.com/cookie-declaration",
+   "snippet": "You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information generally on cookies, including how to disable them, please refer to aboutcookies.org. You will also find details on how to delete coo",
+   "published": "Wed, 28 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_cnpc",
  "_query": "Agadem oil field",
  "_domains": [],

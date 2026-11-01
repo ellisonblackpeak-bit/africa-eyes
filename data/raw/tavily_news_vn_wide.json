@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Vietnam, China seek deeper ties in global supply chains - VnExpress International",
+   "url": "https://e.vnexpress.net/news/business/vietnam-china-seek-deeper-ties-in-global-supply-chains-5138893.html",
+   "snippet": "China is Vietnam's largest trading partner, with bilateral trade exceeding US$256 billion in 2025. Trade reached more than $253 billion in the first nine months of 2026, up 37.6% year-on-year.\n\nDuring the same period, investors from China, including Hong Kong, received licenses for 1,104 new projects in Vietnam, with registered capital of $4.5 billion, up 31.35%. China ranked fourth among Vietnam'",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam, China explore cooperation potential in AI, digital economy",
+   "url": "https://en.vietnamplus.vn/vietnam-china-explore-cooperation-potential-in-ai-digital-economy-post354398.vnp",
+   "snippet": "According to Vietnam Customs statistics, bilateral trade reached approximately 256.5 billion USD in 2025, up nearly 25% year on year. The figure exceeded 253 billion USD in the first nine months of 2026, reflecting the considerable potential and room for cooperation between the two economies. [...] Beijing (VNA) – The Vietnamese Embassy in China, in coordination with the China Overseas Development",
+   "published": "Tue, 27 Oct 2026 11:00:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "AEF 2026: Vietnam, China step up supply chain cooperation",
+   "url": "https://news.tuoitre.vn/aef-2026-vietnam-china-step-up-supply-chain-cooperation-103261029183218765.htm",
+   "snippet": "With two-way trade reaching USD 256.4 billion in 2025 and the two economies having complementary strengths, Vietnamese and Chinese businesses have ample opportunities to become more deeply involved in regional and global production networks, he said. [...] According to Nguyen Loc Ha, Standing Vice Chairman of the municipal People's Committee, economic competitiveness increasingly depends on seamle",
+   "published": "Thu, 29 Oct 2026 11:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam, China seek to boost economic, investment and financial cooperation",
+   "url": "https://english.vov.vn/en/economy/vietnam-china-seek-to-boost-economic-investment-and-financial-cooperation-post1345203.vov",
+   "snippet": "The 2026 Vietnam–China international trade fair opened in Vietnam’s Tuyen Quang province on October 24, as part of the national trade promotion programme, aiming to boost bilateral trade, expand markets and strengthen cooperation between businesses of the two countries.\n\n> Báo điện tử VOV [...] The 2026 Vietnam–China international trade fair opened in Vietnam’s Tuyen Quang province on October 24, ",
+   "published": "Wed, 28 Oct 2026 02:02:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Deputy Finance Minister meets Chinese State Council research delegation",
+   "url": "https://vir.com.vn/deputy-finance-minister-meets-chinese-state-council-research-delegation-163836.html",
+   "snippet": "Fan Bi noted that investment and trade cooperation between China and Vietnam was expanding rapidly, with Chinese businesses showing growing interest in Vietnam's investment environment.\n\nDuring the visit, the delegation hoped to hold in-depth discussions with Vietnam's MoF on the development of production chains and supply chains, as well as models for establishing cross-border economic cooperatio",
+   "published": "Thu, 29 Oct 2026 07:25:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam, China explore greater scope for high-tech cooperation",
+   "url": "https://en.vietnamplus.vn/vietnam-china-explore-greater-scope-for-high-tech-cooperation-post354440.vnp",
+   "snippet": "Vietnam is attracting growing interest from Chinese businesses, not only in trade and traditional manufacturing but also in high-tech sectors such as",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnamese cooperatives promote trade in China",
+   "url": "https://vietnamnews.vn/economy/1802996/vietnamese-cooperatives-promote-trade-in-china.html",
+   "snippet": "HÀ NỘI — A 33-member delegation from the Vietnam Cooperative Alliance (VCA), representing 25 cooperatives, is attending the China International Agricultural Machinery Exhibition 2026 to showcase Vietnamese agricultural products and explore trade opportunities in the Chinese market. [...] Through its participation, the VCA aims to help Vietnamese cooperatives expand trade ties in China while gainin",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Promoting economic, trade, and investment cooperation between Vietnam and China.",
+   "url": "https://www.vietnam.vn/en/thuc-day-hop-tac-kinh-te-thuong-mai-va-dau-tu-viet-nam-trung-quoc",
+   "snippet": "On October 27th, the Vietnamese Embassy in China, in collaboration with the China Overseas Industrial Development Association, organized a seminar on",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Wan Hai CI8 Service to Connect Vietnam and South China with West India",
+   "url": "https://www.maritimegateway.com/wan-hai-ci8-service-to-connect-vietnam-and-south-china-with-west-india",
+   "snippet": "Wan Hai Lines plans to introduce its CI8 container service in late November 2026, linking Haiphong and South China with Mundra and Nhava Sheva through.",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "vn_wide",
  "_query": "Vietnam China trade",
  "_domains": [],

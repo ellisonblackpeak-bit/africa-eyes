@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Xi says China views EU as partner, develops ...",
+   "url": "https://www.bignewsnetwork.com/news/279404539/xi-says-china-views-eu-as-partner-develops-china-eu-relations-with-sincerity-goodwill",
+   "snippet": "China has always viewed the European Union (EU) as a partner, and is committed to developing China-EU relations with sincerity and goodwill,",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China stresses dialogue, opposes discriminatory EU trade curbs – Asia News Network",
+   "url": "https://asianews.network/china-stresses-dialogue-opposes-discriminatory-eu-trade-curbs",
+   "snippet": "Thematic image: This illustration photograph shows the flags of the European Union and China displayed on screens, in Brussels on June 2, 2026. PHOTO: AFP\n\nOctober 30, 2026\n\nBEIJING – China reaffirmed its willingness to resolve trade differences with the European Union through dialogue, while stressing that it will take all necessary measures if the bloc imposes discriminatory restrictions on Chin",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Plans to Hit China With More Import Curbs in Early 2027 (1)",
+   "url": "https://news.bloomberglaw.com/international-trade/eu-plans-to-hit-china-with-more-import-curbs-in-early-2027",
+   "snippet": "Bloomberg News\n\nThe European Union is planning to use safeguard measures to cut imports of products from sectors including chemicals, furniture and machinery from China, according to people familiar with the matter.\n\nThe measures, which could take the form of either import caps or tariffs, may be presented as soon as the first quarter of 2027, said the people, who spoke on the condition of anonymi",
+   "published": "Mon, 26 Oct 2026 10:30:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia braces for Europe’s turn on Chinese overcapacity | East Asia Forum",
+   "url": "https://eastasiaforum.org/2026/10/25/asia-braces-for-europes-turn-on-chinese-overcapacity",
+   "snippet": "While the EU and China have so far patched their differences at the last minute, first on battery electric vehicles and now on hybrids, each patch has left Chinese exporters facing tighter limits in Europe. For Asia, the timing matters less than the redirection an EU diversification instrument would bring about. With the US market already narrowed by tariffs on China, the EU is the largest market ",
+   "published": "Sun, 25 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Tells EU It’s a Trade Partner, Not the Source of Problems",
+   "url": "https://news.bloombergtax.com/financial-accounting/china-tells-eu-its-a-trade-partner-not-the-source-of-problems",
+   "snippet": "Bloomberg Tax\n\nFinancial Accounting\n\nEmail\n\nShare To:Facebook\n\nLinkedIn\n\n[](\n\n# China Tells EU It’s a Trade Partner, Not the Source of Problems\n\nOct. 28, 2026, 9:47 AM UTC\n\nQianwei Zhang\n\nQianwei Zhang\n\nChinese Commerce Minister Wang Wentao says the EU’s recent push to introduce a series of trade restrictions has negatively affected China-EU supply chains and business cooperation, according to a s",
+   "published": "Wed, 28 Oct 2026 09:47:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Regime Influence on Siliguri Corridor States: The Cases of Bangladesh, Bhutan, and Nepal - Institute for Security and Development Policy",
+   "url": "https://www.isdp.eu/publication/chinas-regime-influence-on-siliguri-corridor-states-the-cases-of-bangladesh-bhutan-and-nepal",
+   "snippet": "China’s growing influence in South Asia extends beyond its global maritime ambitions to the political, economic, and strategic dynamics of its immediate neighborhood. This paper examines how Beijing shapes policy choices and political outcomes in Bangladesh, Bhutan, and Nepal, three countries whose geopolitical significance is heightened by their proximity to the strategically vital Siliguri Corri",
+   "published": "Wed, 28 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Search | EEAS Website",
+   "url": "https://www.eeas.europa.eu/search_en?page=1",
+   "snippet": "Southern African Development Community (SADC)  (1)\n Security, Defence & Crisis Response (1)\n Samoa (1)\n Brunei Darussalam (1)\n Nuclear Safety (1)\n Maritime Security (1)\n Military and civilian missions and operations (1)\n Environment and climate change (1)\n EU NAVFOR Somalia (1)\n EOM Zambia 2016 (1)\n EOM Nepal 2017 (1)\n EU Enlargement & Neighbourhood (1)\n EOM Pakistan 2018 (1)\n EOM Bolivia 2020 (1)",
+   "published": "Fri, 30 Oct 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese President Xi Jinping noted to Swiss ...",
+   "url": "https://www.facebook.com/cgtneuropeofficial/videos/chinas-president-xi-welcomes-swiss-president-guy-parmelin-in-beijing/1113735891471527",
+   "snippet": "Chinese President Xi Jinping noted to Swiss President Guy Parmelin on Friday (October 30) that their upgraded trade agreement demonstrates political courage",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],

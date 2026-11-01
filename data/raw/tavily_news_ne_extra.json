@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Junta Strips 5 More Exiled Critics of Nationality",
+   "url": "https://www.genocidewatch.com/single-post/niger-junta-strips-5-more-exiled-critics-of-nationality",
+   "snippet": "According to Niger’s press agency, the junta’s latest action brings the number of people provisionally deprived of Nigerien nationality under the 2024 order to 25. In October 2024, the junta provisionally stripped nine people linked to former President Bazoum of their nationality. In June, authorities revoked the citizenship of Mariama Djibrine, an opposition figure living in exile. [...] The poli",
+   "published": "Thu, 29 Oct 2026 00:08:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Arab News | Algeria senate approves sending troops to Niger",
+   "url": "https://www.arabnews.com/middle-east/algeria-senate-approves-sending-troops-to-niger-3008233",
+   "snippet": "The incident triggered a diplomatic row, with Niger joining fellow junta-led allies Mali and Burkina Faso in recalling its ambassador from Algiers.\n\nAlgeria and Mali have since resumed diplomatic ties.\n\nNiger has been run by General Tiani since a coup in July 2023 that toppled the elected president Mohamed Bazoum, who has been detained ever since.\n\nFollow\n\nTopics:NigerAlgeria\n\n## Related\n\nIsrael’s",
+   "published": "Sun, 25 Oct 2026 19:54:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger: 60 days after Moussa Kaka’s disappearance, Niamey continues to flout its international obligations | RSF",
+   "url": "https://rsf.org/en/niger-60-days-after-moussa-kaka-s-disappearance-niamey-continues-flout-its-international",
+   "snippet": "On 25 September, during Niger’sUniversal Periodic Review (UPR) before the United Nations Human Rights Council in Geneva, Nigerien Minister of Justice and Human Rights Alio Daouda stated that the journalist was “in detention”, that he had allegedly “committed an offence” and that he would “answer before the courts”. To date, the authorities have not announced any legal proceedings against Moussa Ka",
+   "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s military deployment to Niger: What’s behind the move? | Explainer News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
+   "snippet": "The United States has also seen its military footprint shrink.\n\nIn 2024, Washington withdrew approximately 1,000 soldiers from Niger after the military government terminated their security cooperation agreement. The withdrawal included personnel stationed at an important US drone base near Agadez.\n\nThe result has been a significant realignment of the Sahel’s security partnerships, with Western mil",
+   "published": "Mon, 26 Oct 2026 09:52:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years | AP News",
+   "url": "https://apnews.com/article/algeria-niger-troops-economic-interests-d44b4d7a17cfc4a355376f2fffab0349",
+   "snippet": "The western Sahel region comprising Niger, Mali and Burkina Faso, has been shaken by violent extremism due to deadly attacks by armed groups linked to al-Qaida and the Islamic State group and the governments fighting them. All three countries have seen coups in recent years and struggled with overstretched security forces.\n\nThe move on Sunday emphasizes the thawing relations between Algeria and Ni",
+   "published": "Sun, 25 Oct 2026 23:49:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Approves Troop Deployment to Niger, Its First Abroad Since 1973",
+   "url": "https://www.moroccoworldnews.com/2026/10/343845/algeria-approves-troop-deployment-to-niger-its-first-abroad-since-1973",
+   "snippet": "The vote caps months of rapid military build-up. On August 30, President Abdelmadjid Tebboune ordered an air detachment to Niamey a day after an aborted mutiny targeted the ruling junta, which seized power in a July 2023 coup.\n\nFour Sukhoi Su-30 fighters, a transport plane, and an aerial-refueling aircraft landed at Diori-Hamani International Airport during a formal ceremony attended by Nigerien a",
+   "published": "Mon, 26 Oct 2026 12:38:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Upper house of Algerian parliament approves deployment of army unit to Niger",
+   "url": "https://www.aa.com.tr/en/middle-east/upper-house-of-algerian-parliament-approves-deployment-of-army-unit-to-niger/4100216",
+   "snippet": "Upper house of Algerian parliament approves deployment of army unit to Niger\n\nlogo\n\nlogo\n\nMiddle East\n\n# Upper house of Algerian parliament approves deployment of army unit to Niger\n\nCouncil of the Nation votes in favor of presidential decision to send military unit to Niger\n\nAbbas Mimouni and Serdar Dincel\n\n25 October 2026•Update: 25 October 2026\n\nContent media\n\nALGIERS, Algeria / ISTANBUL [...] ",
+   "published": "Sun, 25 Oct 2026 15:13:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Video. Algiers to send troops to Niger in first foreign deployment in decades | Euronews",
+   "url": "https://www.euronews.com/video/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
+   "snippet": "Euronews logo\nKing Felipe VI and Queen Letizia of Spain arrive to visit people injured in a rail collision in Toledo, Spain, on Thursday, 29 October 2026.\nLatest news bulletin | October 29th, 2026 – Evening\nItalian riot police look on as anti-war activists protest against rearmament and Italy's role in wars outside the Colosseum in Rome, Saturday 24 Oct 2026.\nPrime Minister Pedro Sánchez speaks du",
+   "published": "Mon, 26 Oct 2026 13:09:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria’s upper house approves troop deployment to Niger — Al Jazeera",
+   "url": "https://ua.news/en/dovkolo-svitu/verkhnia-palata-alzhiru-skhvalila-vidpravlennia-viisk-do-nigeru-al-jazeera",
+   "snippet": "Algeria's upper house unanimously approved deploying military units to neighboring Niger, according to Al Jazeera.",
+   "published": "Mon, 26 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "First Algerian troops arrive in Niger where jihadists threaten stability",
+   "url": "https://www.reuters.com/world/africa/first-algerian-troops-arrive-niger-where-jihadists-threaten-stability-2026-10-30",
+   "snippet": "An Algerian army convoy has arrived in Niger in Algeria's first foreign troop deployment since it sent ​forces to support Egypt during the 1973 Arab-Israeli",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_extra",
  "_query": "Niger latest news",
  "_domains": [],

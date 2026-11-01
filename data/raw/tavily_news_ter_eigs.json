@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Ụmụnwanyị na ụmụagbọghọ na-ata ahụhụ kachasị njọ ...",
+   "url": "https://ig.globalvoices.org/2026/10/29/3141",
+   "snippet": "in the Islamic Maghreb ・ na Islamic State Sahel Province (EIGS). ebutela ọgbaaghara ・ ọzọ dị na Central Sahel. nke si na Economic Community of West African",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State West Africa Province (ISWAP) claims its ...",
+   "url": "https://www.facebook.com/groups/2143436992383421/posts/29137925269174561",
+   "snippet": "In Niger, the Islamic State is primarily represented by two groups: Islamic State West Africa Province (ISWAP) and Islamic State Sahel Province (ISSP).",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "I was away from the internet for soooo long,.didn't know ...",
+   "url": "https://www.facebook.com/61593834445678/videos/i-was-away-from-the-internet-for-soooo-longdidnt-know-the-gusu-clan-had-converte/1767927064440939",
+   "snippet": "ISIS and its affiliates grew out of real ideological extremism, local grievances, and regional instability (Sahel spill-over, banditry fusion, etc.)—not",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Burkina Faso (NPC) cultists. What do you notice on the table?",
+   "url": "https://www.facebook.com/naija.confra.2025/posts/burkina-faso-npc-cultistswhat-do-you-notice-on-the-table/122321143922194958",
+   "snippet": "Burkina Faso and that area of the Sahel much in the news these days, for wrong reasons. Here are a few pics from a calmer time. 1) Some guys coming into",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Dakar (AFP) - Las fuerzas armadas de Mali informaron el ...",
+   "url": "https://www.instagram.com/p/De7P2Y-l9lO",
+   "snippet": "Militants kill more than 40 civilians in northeastern Mali Community leaders in the north-eastern Menaka region have blamed the killings on the Islamic State",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/De-k8shGRae",
+   "snippet": "peaceandlight2001\n\nThis the type of brown they talking about not that other stuff they try to claim is brown is\n\nReply\n\n191\n\nLog in to like or comment.\n\nMore posts from sahel\\_nile\\_valley\n\nVideo by SAHEL Aswan - N’Djamena - Khartoum on September 05, 2026. May be an image of one or more people, headscarf, shawl, turban, head covering and text.\n\nPhoto by SAHEL Aswan - N’Djamena - Khartoum on Septem",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "PRESIDENT TRAORE LEADS NATION AMID SECURITY ...",
+   "url": "https://www.facebook.com/100088897278858/posts/-president-traore-leads-nation-amid-security-challenges-oct-26-2026what-happened/1151026557870576",
+   "snippet": "The Solenzo operation, according to government sources, was a counterinsurgency effort against jihadist groups linked to al-Qaeda and Islamic State, which",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "QUEEN TIYE 18th dynasty",
+   "url": "https://www.facebook.com/groups/827611048652074/posts/1593868915359613",
+   "snippet": "These southern African nations are constitutional monarchies—the kings are the official heads of state, but they follow the country's laws as set forth in a",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Issuu",
+   "url": "https://issuu.com/thisdaylive/docs/tuesday_27th_october_2026",
+   "snippet": "Turn static files into dynamic content formats.\n\nCreate a flipbook\n\nIssuu converts static files into:\n\n digital portfolios\n online yearbooks\n online catalogs\n digital photo albums\n\nand more. Sign up and create your flipbook.\n\nTUESDAY 27TH OCTOBER 2026 by THISDAY Newspapers Ltd - Issuu",
+   "published": "Mon, 26 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_eigs",
  "_query": "EIGS Islamic State Sahel",
  "_domains": [],

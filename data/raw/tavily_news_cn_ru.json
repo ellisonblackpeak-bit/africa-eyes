@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Li Qiang strengthens ties across Eurasia - Friends of Socialist China",
+   "url": "https://socialistchina.org/2026/10/29/li-qiang-strengthens-ties-across-eurasia",
+   "snippet": "practical cooperation in energy and resources, trade and investment, transportation and other areas, deliver more positive outcomes and promote common prosperity in both countries. Noting that unilateralism and hegemonism are rampant in today’s world, Li said China is ready to strengthen communication and coordination with Russia on major issues, enhance coordination within multilateral platforms ",
+   "published": "Thu, 29 Oct 2026 15:09:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Li Qiang and Russian Prime Minister Mikhail Mishustin Co-Chair the 31st Regular Meeting Between Chinese and Russian Heads of Government",
+   "url": "https://www.einpresswire.com/article/953640856/li-qiang-and-russian-prime-minister-mikhail-mishustin-co-chair-the-31st-regular-meeting-between-chinese-and-russian-heads-of-government",
+   "snippet": "Li Qiang and Mikhail Mishustin heard reports from representatives of both sides on the work of the China-Russia Investment Cooperation Committee, the China-Russia Energy Cooperation Committee, the China-Russia Committee on Humanities Cooperation, the Committee for Regular Meetings between Chinese and Russian Heads of Government, and the China-Russia Intergovernmental Commission on Cooperation and ",
+   "published": "Sat, 31 Oct 2026 17:10:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2026 Russia Energy Week Forum: A Wider Energy Trade Network Across Asia, Eurasia, Africa And The West: Analysis - RUSSIA'S PIVOT TO ASIA",
+   "url": "https://russiaspivottoasia.com/2026-russia-energy-week-forum-a-wider-energy-trade-network-across-asia-eurasia-africa-and-the-west-analysis",
+   "snippet": "Exports of coal (energy and coking) from Russia to China in September 2026 increased by 39% compared to last September and reached 9.4 million tonnes, according to China customs. The volume of deliveries in September was the maximum monthly figure for more than two years. In monetary terms, coal exports doubled to US$1.2 billion in September. The volume of Russian coal exports to China in January-",
+   "published": "Mon, 26 Oct 2026 11:09:20 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Iceland and China Discuss Trade, Energy and Ukraine in Beijing",
+   "url": "https://www.icelandreview.com/news/iceland-china-foreign-ministers-beijing-trade-energy-ukraine-2026",
+   "snippet": "Iceland and China discussed expanding trade and cooperation in geothermal energy and green technology.\n Icelandic exports to China exceeded ISK 23 billion in 2025, while imports from China topped ISK 166 billion.\n Þorgerður Katrín raised Ukraine directly and urged China to exert positive influence on Russia.\n\n## Trade Reached Record Levels in 2025 [...] Energy cooperation was also prominent. Nearl",
+   "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia and Africa: from commodity trade to industrial cooperation | TV BRICS, 27.10.26",
+   "url": "https://tvbrics.com/en/news/russia-and-africa-which-sectors-could-become-growth-points-for-cooperation-in-coming-years",
+   "snippet": "The country’s authorities also intend to develop medical tourism\n\nTechnology\n\n30.10.26\n\nIndonesia plans to select site for its first nuclear power station by 2027\n\nThe 250 MW plant is scheduled to begin commercial operation in 2032\n\nEconomy\n\n29.10.26\n\nRussia’s pork exports to China reach 79,000 tonnes in nine months\n\nThe country ranked fifth on the list of the largest exporters of the product to C",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Arctic shipping: China and Russia expand grip, can Europe fight back?",
+   "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+   "snippet": "For Moscow, the route offers an opportunity to redirect energy exports toward Asia as Western sanctions constrain its access to European markets, said industry watchers whom CNBC spoke to.\n\nOn the other hand, it provides Beijing another trade artery that could reduce reliance on traditional maritime chokepoints. [...] David Roche, a veteran strategist at Quantum Strategy & Geonomics, said the Arct",
+   "published": "Tue, 27 Oct 2026 00:16:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What messages did the 2026 Russian Energy Week forum convey to the world about global energy security?",
+   "url": "https://www.modernghana.com/news/1539942/what-messages-did-the-2026-russian-energy-week.amp",
+   "snippet": "Coal exports further illustrated the eastward shift. Russia’s coal shipments to Asian markets were projected to reach 123–125 million tonnes in 2026, compared with 118.2 million tonnes in 2025, while total exports were forecast at 211 million tonnes. Chinese customs data cited in the report showed Russian coal exports to China reaching 9.4 million tonnes in September 2026, up 39% year on year and ",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russian and Chinese Experts Outline Their Views on China-Russia Relations",
+   "url": "https://russiapost.info/articles/russian-and-chinese-experts-outline-their-views-on-china-russia-relations",
+   "snippet": "China-Russia contacts have significantly strengthened since 2022, but the limits of the alliance are now increasingly coming into view.",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rifts over wars in Ukraine, Middle East loom over G20 meeting in US | Reuters",
+   "url": "https://www.reuters.com/world/china/rifts-over-wars-ukraine-middle-east-loom-over-g20-meeting-us-2026-10-30",
+   "snippet": "With G20 members Russia, China and many middle powers such as Brazil ​and India trying to navigate US-China strategic competition, you have “much more of a split than we’ve ever had,” said Heidi Crebo-Rediker, who was chief ⁠economist at the State Department during the Obama administration.\n\nOver the past decade or so, G7 countries would at least “have agreed a coordinated platform before they cam",
+   "published": "Fri, 30 Oct 2026 11:57:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia–Africa Summit: Moscow is engaging more with Africa, but its delivery is limited",
+   "url": "https://www.chathamhouse.org/2026/10/russia-africa-summit-moscow-engaging-more-africa-its-delivery-limited",
+   "snippet": "Russia's footprint in Africa has expanded in recent years, but engagement beyond security remains uneven. The summit alone is unlikely to change this.",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],

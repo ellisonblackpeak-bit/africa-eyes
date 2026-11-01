@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "I'm not convinced. I still think we should have gone with ...",
+   "url": "https://www.facebook.com/groups/MalaysiaHomeschoolingInfo/posts/29928052840128923",
+   "snippet": "Huawei will delay 5G in Europe by probably two years-it will structurally disadvantage Europe\". Huawei expects to secure 5G contracts in Germany. Bans alone",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "China to Sweden: drop Huawei ban, or face fallout | ロイター",
+   "url": "https://www.reuters.com/jp/video/watch/idOVD12TXFV",
+   "snippet": "China has told Sweden to reconsider its move to ban Huawei and ZTE from the country's 5G phone networks, warning that the move could have consequences for",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why India Is Unlikely to Ban Huawei",
+   "url": "https://www.lightreading.com/regulatory-politics/why-india-is-unlikely-to-ban-huawei",
+   "snippet": "The latest developments follow media reports last month suggesting the DoT would ban Huawei from participating in 5G trials. Yet while it was conspicuously absent from a list of vendors approved for those trials, Huawei was later invited to be a part of the initiative and is likely to start work this month. The Chinese vendor has also offered to share source code used in its products to allay any ",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US 'abusing state power' in planned Chinese telecom ban",
+   "url": "https://www.facebook.com/cgtneuropeofficial/videos/us-abusing-state-power-in-planned-chinese-telecom-ban/2225907948265449",
+   "snippet": "Washington has banned Huawei, the world's largest provider of telecoms equipment and a leader in the new 5G technology, from supplying US government systems",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Network Kit Removal: 2026 trend briefing | 311 Institute",
+   "url": "https://www.311institute.com/starburst-centre/trend/forced-removal-of-chinese-network-equipment",
+   "snippet": "Western security agencies worry that equipment made by companies subject to Chinese law could be used for spying or sabotage. The United States was among the first to restrict the two firms. The United Kingdom ordered Huawei equipment out of its 5G networks by the end of 2027 (The Register, January 2026). Most of the EU relied on a voluntary 2020 toolbox of security measures that many member state",
+   "published": "Sat, 31 Oct 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese labs banned from testing electronics in U.S.",
+   "url": "https://www.ctvnews.ca/world/article/us-regulator-bans-chinese-labs-from-electronics-testing",
+   "snippet": "World\n\n# U.S. regulator bans Chinese labs from electronics testing\n\nByAFP\n\nOpens in new window\n\nPublished:\n\nSigns promoting 5G wireless technology from Chinese technology firm Huawei are displayed at the PT Expo in Beijing on Sept. 26, 2018. (AP Photo/Mark Schiefelbein, )\n\nCTV News went to Kentucky to see if Canada’s bourbon bans are hurting them. Their response was blunt\n\nVideo\n\n## CTV News went ",
+   "published": "Fri, 30 Oct 2026 13:52:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The United States plans to soon ban Chinese telecom firms ...",
+   "url": "https://www.instagram.com/reel/DfGwjFaCQnq",
+   "snippet": "EU governments have proposed replacing a fixed 36-month deadline with timelines based on security risks, equipment lifecycles, interoperability, and the",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "FCC Takes First Covered List Enforcement Action Under New Ban on Devices Incorporating Prohibited “Logic-Bearing Hardware Components” | Global Policy Watch",
+   "url": "https://www.globalpolicywatch.com/2026/10/fcc-takes-first-covered-list-enforcement-action-under-new-ban-on-devices-incorporating-prohibited-logic-bearing-hardware-components",
+   "snippet": "The new logic-bearing-component prohibition is distinct from those place-of-production-based Covered List entries: the FCC’s July order applies the component restriction to producer/provider-based Covered List determinations, such as the listing applicable to Huawei, rather than to equipment categories listed solely because they are produced in a particular location.  This first-of-its-kind enforc",
+   "published": "Sat, 31 Oct 2026 02:48:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DfHWlTxk_OA",
+   "snippet": "📱 Will Restricting Chinese Telecom Firms Make US Networks Safer?  \n  \nThe US is considering tighter restrictions on Chinese telecom companies’ direct access to American phone numbers, bringing national security and global connectivity into focus. But could stronger safeguards also reshape competition across the telecom industry?  \n  \n💬 What’s your take? Should national security concerns outweigh t",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_5g",
  "_query": "Europe Huawei 5G ban",
  "_domains": [],

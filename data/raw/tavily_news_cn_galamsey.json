@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Takeover of Indigenous Mines: \"The government is taking ...",
+   "url": "https://www.facebook.com/TV3GH/posts/takeover-of-indigenous-mines-the-government-is-taking-over-local-mines-and-givin/1620806016747873",
+   "snippet": "Galamsey, as it's known locally, can also include large mining firms operating against the law. It is carried out by Ghanaians and foreigners, including Chinese",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Galamsey fight: NAIMOS intensifies crackdown on illegal ...",
+   "url": "https://www.facebook.com/JoyNewsOnTV/posts/galamsey-fight-naimos-intensifies-crackdown-on-illegal-mining-in-wassa-akropongj/1485264197131308",
+   "snippet": "This news clip from GBC News documents a crackdown on illegal mining, locally known as galamsey, in Ghana. The video captures the tactical apprehension of",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "26K views · 685 reactions | Watch: NAIMOS arrests illegal miners and burns changfans and other equipment used in illegal mining activities.\n\n#NoToGalamsey | #JoyNews | JoyNews",
+   "url": "https://www.facebook.com/JoyNewsOnTV/posts/watch-naimos-arrests-illegal-miners-and-burns-changfans-and-other-equipment-used/1484056763918718",
+   "snippet": "· \n\n2h ago\n\nImage 29: Video thumbnail 1:47:31\n\n[](\n\nPrime Insight || 31-10-2026\n\nJoyNews\n\n3h ago\n\nImage 30: Video thumbnail 0:25\n\n[](\n\nSet-up is almost done! 🔥🌊 Today, we are going outside! The beach, the music and the vibes are waiting. 🏖️ 🎟️ Dial 7253404# now. GH¢100! 📍 Rehab Beach Club | 2 PM #Hitz1039FM #JoyDigital #HitzJoyFMBeachRave\n\nJoyNews\n\n2.2K views\n\n · \n\n4h ago\n\nImage 31: Video thumbnai",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "🌍 Proud to be featured in Le Temps Our Regional Manager ...",
+   "url": "https://www.facebook.com/gcerf/posts/-proud-to-be-featured-in-le-tempsour-regional-manager-ms-alessia-polidoro-shares/1434460078895730",
+   "snippet": "Known locally as galamsey (“gather them and sell”), the illicit sector now generates billions of dollars, supports extensive criminal and smuggling networks,",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana is looking like a failed state; ...",
+   "url": "https://www.instagram.com/reel/DfJ59bbAUC7",
+   "snippet": "Takeover of Indigenous Mines: \"The government is taking over local mines and giving them to the Chinese; Ghana is looking like a failed state;",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Ten suspected illegal sand miners arrested at Battor",
+   "url": "https://www.facebook.com/100045479929505/posts/ten-suspected-illegal-sand-winners-including-chinese-nationals-have-been-arreste/1837095414483105",
+   "snippet": "Ten suspected illegal sand winners, including Chinese nationals, have been arrested at Battor in the North Tongu District of the Volta Region. The arrests were",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "NAIMOS officials destroy mining machines abandoned ...",
+   "url": "https://www.facebook.com/JoyNewsOnTV/posts/watch-naimos-officials-destroy-mining-machines-abandoned-at-illegal-mining-sites/1484591287198599",
+   "snippet": "WATCH: NAIMOS officials destroy mining machines abandoned at illegal mining sites along the Tano River as part of efforts to clamp down on galamsey. #JoyNews.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "“You Take Over Their Mines and Give Them to the Chinese”",
+   "url": "https://www.youtube.com/watch?v=jwZsW9dQ8SA",
+   "snippet": "Private legal practitioner Kofi Bentil has criticised the government's approach to local mining operations, alleging that authorities are taking over mines",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_galamsey",
  "_query": "Chinese galamsey Ghana",
  "_domains": [],

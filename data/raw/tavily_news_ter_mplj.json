@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Al Shabaab Ambush in South West State; Algeria Deploys to Niger: Africa File, October 29, 2026",
+   "url": "https://www.criticalthreats.org/analysis/al-shabaab-somalia-algeria-niger-libya-morocco-haftar",
+   "snippet": "Image 8\n\nNote: CFLN stands for Coordination des forces libres du Niger (Coordination of Free Forces of Niger). FPJ stands for Front Patriotique pour la Justice (Patriotic Front for Justice). FPL stands for Front Patriotique de Libération (Patriotic Liberation Front). GNS stands for Government of National Stability. MPLJ stands for Mouvement Patriotique pour la Liberté et la Justice (Patriotic Move",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Le Niger accuse le Tchad et la France d’une action hostile",
+   "url": "https://www.dw.com/fr/niger-tchad-pourquoi-leurs-relations-se-d%C3%A9t%C3%A9riorent/a-79781272",
+   "snippet": "rébellion qui lui est hostile, notamment le Mouvement patriotique pour la liberté et la justice (MPLJ) de Moussa Kounaï. Et Niamey, en revanche, offre son espace aux rebelles du Fact (Front pour l'alternance et la concorde au Tchad) dirigé par Mahamat Mahadi, qui constitue aussi une menace importante pour le Tchad. Donc c'est de bonne guerre.\" [...] Le chef du CNSP au Niger a invoqué la mauvaise g",
+   "published": "Tue, 27 Oct 2026 18:00:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger Tschad Spannungen - Yahoo! Actualités",
+   "url": "https://fr.news.yahoo.com/niger-tschad-spannungen-180000523.html",
+   "snippet": "rébellion qui lui est hostile, notamment le Mouvement patriotique pour la liberté et la justice (MPLJ) de Moussa Kounaï. Et Niamey, en revanche, offre son espace aux rebelles du Fact (Front pour l'alternance et la concorde au Tchad) dirigé par Mahamat Mahadi, qui constitue aussi une menace importante pour le Tchad. Donc c'est de bonne guerre.\" [...] \"Le gouvernement n'a aucunement ordonné, conduit",
+   "published": "Tue, 27 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria sends its army to Niger: for the oil... or to save Tiani?",
+   "url": "https://www.youtube.com/watch?v=mLybTZPSH7g",
+   "snippet": "Northern Niger is a corridor for armed groups hostile to the government in Niamey:\n🔸 The Patriotic Liberation Front (PLF) of Mahmoud Salah. This Toubou leader supports former President Bazoum. According to Le Monde, his movement has ties to Saddam Haftar.\n\n🔸 The MPLJ of Moussa Kounaï, another anti-Tiani armed movement.\n\n💣 These groups have been associated with attacks against Nigerien energy infra",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "À la Une: des troupes algériennes au Niger - Revue de presse Afrique - RFI",
+   "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-afrique/20261026-%C3%A0-la-une-des-troupes-alg%C3%A9riennes-au-niger",
+   "snippet": "D’après un expert cité par le journal, « l’Algérie veut surtout neutraliser cette menace en provenance du nord du Niger et qui risque de renverser la junte de Niamey ».\n\nCommentaire du Monde Afrique : « Cet impératif s’impose d’autant plus que certains de ces groupes repliés dans cette zone – le FPL de Mahmoud Salah ou le MPLJ de Moussa Kounaï – se sont illustrés à partir de 2025 par des attaques ",
+   "published": "Mon, 26 Oct 2026 09:28:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "1Million de Nigérien",
+   "url": "https://www.facebook.com/groups/1milliondenigerien/posts/5226692277557185",
+   "snippet": "Niger Depuis une semaine, la presse française est en colère contre l ... #Niger #Algérie #Lybie #Tchad #FPL #MPLJ #militaires Cheffou Souleymane Niamey, le",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "1Million de Nigérien",
+   "url": "https://www.facebook.com/groups/1milliondenigerien/posts/5224963577730055",
+   "snippet": "Nous reviendrons prochainement sur cette question avec une autre lecture de la situation. #Niger #Algérie #Lybie #Tchad #FPL #MPLJ #militaires Cheffou",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "En Algérie, le Parlement autorise l’envoi d’unités militaires au Niger",
+   "url": "https://www.lemonde.fr/afrique/article/2026/10/25/en-algerie-le-parlement-autorise-l-envoi-d-unites-militaires-au-niger_6800111_3212.html",
+   "snippet": "Avec ce vote du 25 octobre, Alger franchit un nouveau seuil dans l’aggiornamento doctrinal de sa politique de sécurité, jusque-là caractérisée par la tradition non-interventionniste, héritage de son tiers-mondisme militant des années 1960. La révision de la Constitution de 2020, prévoyant « l’envoi d’unités de l’armée nationale populaire à l’étranger » sous réserve de l’aval des deux chambres, ava",
+   "published": "Sun, 25 Oct 2026 18:42:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger : Manifestation contre la présence d'armées étrangères",
+   "url": "https://www.tiktok.com/@danhausa.227/photo/7700638335202610464",
+   "snippet": "Des manifestants au Niger expriment leur rejet de la présence d'armées étrangères, réclamant la souveraineté totale et demandant où se trouve l'Armée de l'AES.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger #Algérie #Lybie #Géopolitique Que se passe-t-il aux ...",
+   "url": "https://www.facebook.com/groups/1milliondenigerien/posts/5226251797601233",
+   "snippet": "Tchad - Libye (Niger) : urgent, nouvel accord de coopération militaire de défense mutuelle entre les milices du général Haftar et la République du Tchad. Ayant",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

@@ -1,7 +1,14 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "U15 World Cup: Benin defeated by Italy, Morocco continues perfect run",
+   "url": "https://beninwebtv.bj/en/u15-world-cup-benin-defeated-by-italy-morocco-continues-perfect-run",
+   "snippet": "The Cheetahs remain on four points after their 6-1 defeat in Baku. Morocco secured its fourth win, while DR Congo achieved its first victory.",
+   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_pipe",
  "_query": "Niger Benin pipeline",
  "_domains": [],

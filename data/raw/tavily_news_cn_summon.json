@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China government got angry they summoned all private ...",
+   "url": "https://www.facebook.com/basta.jimane.5/posts/china-government-got-angry-they-summoned-all-private-companies-in-china-to-termi/10244220339826010",
+   "snippet": "China government got angry they summoned all private companies in China to terminate Mbappe and La Liga contracts.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Glass Company Uses French Riot Footage to ...",
+   "url": "https://www.facebook.com/61566591803412/videos/chinese-businessman-rocks/2005808336757700",
+   "snippet": "China summons U.S. ambassador, urging the U.S. to correct its mistake and stop meddling in Hong Kong affairs and China's other internal affairs",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Drone firm raided over Chinese chips - Taipei Times",
+   "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/01/2003866957",
+   "snippet": "Prosecutors searched locations connected to the company and summoned six people for questioning, including Tu and his wife, they said.\n\n  Investigators found that Tu allegedly used chips manufactured by Chinese companies in at least two batches of military drone procurement contracts and directed Align Corp to assemble the drones before delivering them to the military, they said.\n\n  The contracts ",
+   "published": "Sat, 31 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘Not to find scapegoats’: Singapore ministers summon bosses of 10 firms over haze | South China Morning Post",
+   "url": "https://www.scmp.com/week-asia/health-environment/article/3372479/not-find-scapegoats-singapore-ministers-summon-bosses-10-firms-over-haze",
+   "snippet": "Deputy Prime Minister Gan Kim Yong, Senior Minister K Shanmugam and Minister for Sustainability and the Environment Grace Fu laid out expectations by the government, including its plan to strengthen laws targeting polluters.\n\nSelect Voice\n\nSelect Speed\n\nAI-generated voice [...] Kolette Limin Singapore\n\nIn a rare move, Singapore on Wednesday summoned top executives from 10 locally registered compan",
+   "published": "Wed, 28 Oct 2026 14:51:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Our grid has a China problem | Daily Tribune",
+   "url": "https://tribune.net.ph/2026/10/28/our-grid-has-a-china-problem",
+   "snippet": "But the group with China won. Not some Chinese billionaire. Not a private Chinese company. A company owned by the Chinese government itself!\n\nWe wanted private companies running our electricity grid. So, naturally, we ended up with another government owning part of the operator.\n\nChina’s!\n\nSan Miguel isn’t exactly everybody’s favorite company. We have our complaints. Lots of them. But at least whe",
+   "published": "Wed, 28 Oct 2026 18:43:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DfCG6sdINZ8",
+   "snippet": "Executives from 10 Singapore-based companies that were issued notices under the Transboundary Haze Pollution Act were summoned for a closed-door meeting with Senior Minister K. Shanmugam, Deputy Prime Minister Gan Kim Yong and Minister for Sustainability and the Environment Grace Fu.  \n  \nAll 10 Singapore companies linked to the haze-causing fires in Indonesia were represented at the meeting.  \n  ",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "18K views · 123 reactions | China's Hong Kong Special Administrative Region (HKSAR) government on Thursday released a report on the investigation into a major fire at the residential complex Wang Fuk Court, announcing accountability measures and follow-up reforms. #XinhuaNews | China Xinhua News",
+   "url": "https://www.facebook.com/XinhuaNewsAgency/videos/xinhua-news-hong-kong-reveals-findings-of-probe-into-deadly-residential-fire/1383631163569946",
+   "snippet": "· \n\n15h ago\n\nImage 20: Video thumbnail 0:30\n\n[](\n\n110 humanoid robots set dance world record\n\nChina Xinhua News\n\n10.2K views\n\n · \n\n17h ago\n\nPages\n\nBusinesses\n\nMedia/news company\n\nChina Xinhua News\n\nVideos\n\nXinhua News | Hong Kong reveals findings of probe into deadly residential fire\n\nView Transcript\n\nHome\n\nLive\n\nExplore\n\n   Privacy · \n   Terms · \n   Advertising · \n   Ad Choices · \n   Cookies · \n ",
+   "published": "Thu, 29 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

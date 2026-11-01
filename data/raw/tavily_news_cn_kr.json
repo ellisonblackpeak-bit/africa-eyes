@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Korea Investment Management Makes First Foray into Hong Kong ETF Market with Joint Product Holding 60% Chinese Semiconductors — BigGo Finance",
+   "url": "https://finance.biggo.com/news/7592c681-6c39-4807-b055-84b120cb0650",
+   "snippet": "planning and investment advisory, while CUAM HK managed the listing and operations, and the South Korean firm plans to invest about $5 million of its own capital to secure initial assets under management. The two firms aim to qualify the product for ETF Connect, which allows mainland Chinese investors to trade Hong Kong-listed ETFs, with a review expected after April next year. [...] The product t",
+   "published": "Mon, 26 Oct 2026 08:25:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea's LS Cable to invest $262M in rare earth magnets - UPI.com",
+   "url": "https://www.upi.com/Top_News/World-News/2026/10/30/ls-cable-system-rare-earth-magnets-gumi/2251793389161",
+   "snippet": "Oct. 30 (Asia Today) -- South Korea's LS Cable & System plans to invest approximately 350 billion won (about $262 million) to establish the country's largest rare earth permanent magnet production facility in Gumi, North Gyeongsang Province, as part of efforts to reduce dependence on China for critical industrial materials.\n\nThe investment is intended to secure a stable supply of materials used in",
+   "published": "Fri, 30 Oct 2026 19:44:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "[AsiaNet] Industrial Park Investment Promotion Conference Held in Seoul",
+   "url": "https://en.yna.co.kr/view/RPR20261030007600353",
+   "snippet": "AsiaNet 0201969. SEOUL Oct. 30, 2026 /AsiaNet=YONHAP/-- The China-South Korea (Yancheng) Industrial Park Economic and Trade Cooperation and Investment",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese EVs win over some in South Korea, but Japan is proving to",
+   "url": "https://www.globalbankingandfinance.com/chinese-evs-win-over-south-korea-japan-proving-rougher-road",
+   "snippet": "BYD has been able to take advantage of South Korea's growing appetite for cheap EVs, said Lee Jae-il, a senior analyst at Eugene Investment & Securities. Petrol prices have surged almost 10% since the US-Israeli war on Iran started, but Hyundai and Kia focus mainly on premium EVs, offering only a few for under $30,000.\n\n\"The timing has worked particularly well for BYD,\" Lee said.\n\n#### Other Chine",
+   "published": "Thu, 29 Oct 2026 23:18:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What Taiwan can teach South Korea about China's chip tech theft - Asia Times",
+   "url": "https://asiatimes.com/2026/10/what-taiwan-can-teach-south-korea-about-chinas-chip-tech-theft",
+   "snippet": "Police figures show the scale of the concern. Of 33 overseas technology-leak cases detected in 2025, 18 involved China, or 54.5%. The cases extended beyond semiconductors to displays, batteries and other strategic industries.\n\nChina also sought technology through acquisitions. But foreign-investment scrutiny narrowed that route. In 2021, Chinese-backed Wise Road Capital’s proposed $1.4 billion acq",
+   "published": "Fri, 30 Oct 2026 09:04:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korea Investment Management enters Hong Kong ETF market with chip fund - The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10914975",
+   "snippet": "The CUAM Solactive China & Global Semiconductor ETF, with a net asset value of 15.85 million Hong Kong dollars ($2.06 million), was listed Friday. The fund tracks the Solactive Ace ETF Connect China & Global Semiconductor Top 30 Index, developed by German index provider Solactive.\n\nIt offers diversified exposure to major semiconductor companies worldwide, including Nvidia, TSMC, Samsung Electronic",
+   "published": "Mon, 26 Oct 2026 05:38:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Solidigm Seeks US Approval to Upgrade China Plant Before $45 Billion Investment - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/solidigm-dangles-new-45-billion-us-plant-to-upgrade-china-site",
+   "snippet": "EXCLUSIVE\n\n# Solidigm Dangles New $45 Billion US Plant to Upgrade China Site\n\n## Takeaways by Bloomberg AI\n\nSolidigm Inc., an American subsidiary of the South Korean memory-chip maker SK Hynix Inc., is in talks with the US Commerce Department to invest $45 billion in a new US chip plant, according to people familiar with the negotiations. [...] Before it decides to move ahead with what would be th",
+   "published": "Tue, 27 Oct 2026 15:18:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India’s China+1 Dilemma: It May Need China to Depend Less on China – The Diplomat",
+   "url": "https://thediplomat.com/2026/10/indias-china1-dilemma-it-may-need-china-to-depend-less-on-china",
+   "snippet": "Yet restrictions have a price. Chinese equity investment into India fell from about $229 million in 2018-19 to $2.67 million in 2024-25. Several interviewees argued that investment screening, together with visa restrictions and political uncertainty, had put off Chinese component and equipment suppliers from setting up in India. One described restricting Chinese investment while carrying on import",
+   "published": "Fri, 30 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Three South Korean financial firms including Bithumb report data breaches, Yonhap says | Reuters",
+   "url": "https://www.reuters.com/legal/government/three-south-korean-financial-firms-including-bithumb-report-data-breaches-yonhap-2026-10-28",
+   "snippet": "Crypto exchange Bithumb said its in-house mobile system had been hacked and personal information leaked, ​Yonhap reported. It was investigating whether ​member data was included.\n Brokerage Daishin Securities said ⁠about 38,000 pieces of customer information ​had been leaked and that it had ​taken emergency measures, according to Yonhap.\n Asset manager Mirae Asset Global Investments had also confi",
+   "published": "Wed, 28 Oct 2026 01:04:09 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_kr",
  "_query": "Chinese company South Korea investment",
  "_domains": [],

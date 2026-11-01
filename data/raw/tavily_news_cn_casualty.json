@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "At least 68 killed in high-speed train collision in Spain - World - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202610/29/WS6ae262ece4b06d4aa0565b7c.html",
+   "snippet": "Search\n HOME\n CHINA\n WORLD\n BUSINESS\n CULTURE\n TRAVEL\n VIDEO\n SPORTS\n OPINION\n REGIONAL\n NEWSPAPER)\n MOBILE\n\n\n\nGlobal EditionASIA 中文双语Français\n\n\n  + China Daily PDF\n  + China Daily E-paper\n MOBILE\n\nWorld\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n China-US\n China-Europe\n China-Japan\n China-Africa\n\n1. Home\n2. World\n/ Europe Share to ...\n\nHome / World / Europe\n\n# At least 68 killed in hig",
+   "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 50 killed, 179 injured in high-speed train collision in Spain - World - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202610/28/WS6ae1c6d5e4b06d4aa0565ad8.html",
+   "snippet": "Search\n HOME\n CHINA\n WORLD\n BUSINESS\n CULTURE\n TRAVEL\n VIDEO\n SPORTS\n OPINION\n REGIONAL\n NEWSPAPER)\n MOBILE\n\n\n\nGlobal EditionASIA 中文双语Français\n\n\n  + China Daily PDF\n  + China Daily E-paper\n MOBILE\n\nWorld\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n China-US\n China-Europe\n China-Japan\n China-Africa\n\n1. Home\n2. World\n/ Europe Share to ...\n\nHome / World / Europe\n\n# At least 50 killed, 179 i",
+   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Spain’s 4 deadly train crashes this year, at a glance - The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/28/spain-train-crash-deadly/f17285ac-d2df-11f1-9931-2a41b76fc976_story.html",
+   "snippet": "PARIS — Wednesday’s deadly collision between two high-speed trains in central Spain was the second fatal crash in nine months on a network that has long been a source of national pride.\n\nSpain has spent decades building Europe’s largest high-speed rail network, second only to China’s.\n\npixel [...] Democracy Dies in Darkness\n\n# Spain’s 4 deadly train crashes this year, at a glance\n\nWednesday’s coll",
+   "published": "Wed, 28 Oct 2026 15:01:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dozens dead in Spain after high-speed train slams into another stopped on tracks | PBS News",
+   "url": "https://www.pbs.org/newshour/world/dozens-dead-in-spain-after-high-speed-train-slams-into-another-stopped-on-tracks",
+   "snippet": "The regional government for Castilla La Mancha confirmed the death toll and said another 58 people needed medical treatment in hospital. Rescue workers continue to search in the wreckage for survivors and bodies.\n\nREAD MORE: Barcelona commuter train crash kills 1, days after deadly train collision in Spain\n\nThe accident comes with memories still fresh of another crash between high-speed trains in ",
+   "published": "Wed, 28 Oct 2026 15:41:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims | Infrastructure News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims",
+   "snippet": "Fighting back tears, he told Al Jazeera: “I held this woman in my arms and tried to comfort her, but she stopped breathing. She died, she died.”\n\n## Recommended Stories\n\nlist of 4 items\n\n list 1 of 4Deadly high-speed train collision in Spain\n list 2 of 4Photos: Spain high-speed train crash kills 30\n list 3 of 4Spanish football postpones 24 Copa del Rey games after train crash\n list 4 of 4Spain dem",
+   "published": "Thu, 29 Oct 2026 08:20:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Spain's deadliest train disasters",
+   "url": "https://www.reuters.com/world/spains-deadliest-train-disasters-2026-10-28",
+   "snippet": "At least 69 people were killed when two high-speed trains collided in Spain on Wednesday, regional authorities said.",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+   "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+   "snippet": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40%",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_casualty",
  "_query": "Chinese killed Africa accident",
  "_domains": [],

@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU continues rejecting Myanmar's junta despite its leader ...",
+   "url": "https://www.facebook.com/DhakaTribune/posts/eu-continues-rejecting-myanmars-junta-despite-its-leader-becoming-presidentdhaka/1601108212057896",
+   "snippet": "The European Union expanded its sanctions against leaders of Myanmar's junta and army-controlled companies as Southeast Asian countries prepare for a summit",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "News",
+   "url": "https://europe.hss.de/en/news/russias-supported-conflict-in-myanmar-and-why-it-matters-for-europe-news14651",
+   "snippet": "This is a blind spot in Europe's sanctions policy. The EU's 20th sanctions package, introduced in April 2026, included entities in Thailand and a bank in Laos for assisting Russia in evading restrictions (Greenberg Traurig). By contrast, Myanmar is dealt with under a separate regime aimed at the junta, despite its arms, oil and payment ties to Moscow being closely linked to Russia's war economy.\n\n",
+   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
+   "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eus-diplomatic-blockade/a-79778863",
+   "snippet": "Its sanctions currently cover 105 individuals and 22 entities connected to the military. In April, the EU extended these measures for another 12 months.\n\nAt the same time, Brussels is providing humanitarian assistance to displaced communities and Rohingya refugees and is supporting civil society organizations.\n\n## Thailand-Myanmar border clinic helps people fleeing war [...] One possibility is for",
+   "published": "Tue, 27 Oct 2026 15:16:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Sentry calls for coordinated sanctions and enforcement following a Justice For Myanmar investigation and Reuters reporting on the junta’s aviation fuel network and its ties to Iran - The Sentry",
+   "url": "https://thesentry.org/2026/10/30/81066/the-sentry-calls-for-coordinated-sanctions-and-enforcement-following-a-justice-for-myanmar-investigation-and-reuters-reporting-on-the-juntas-aviation-fuel-network-and-its-ties-to-iran",
+   "snippet": "1) Expand and coordinate sanctions.The US, EU, UK, Canada, and Australia should target the junta, its leaders, and its full aviation fuel procurement network, including key junta-controlled entities and individuals such as the FESC Chair Nyo Saw, NEPAS and its junta shareholder, Myanma Petrochemical Enterprise, intermediaries, and related individuals and entities. They should also consider designa",
+   "published": "Fri, 30 Oct 2026 17:53:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "sanctions must be enforced, and the loopholes enabling ...",
+   "url": "https://www.facebook.com/ChinHumanRightsOrganization/posts/to-the-eu-united-states-united-kingdom-canada-and-australia-sanctions-must-be-en/1135715755636612",
+   "snippet": "Canada, the United Kingdom, the European Union, the United States, and Australia have all adopted sanctions against key Myanmar individuals and companies",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Shield or Sanction? The EU’s Diverging Approaches to Economic Sanctions Targeting Cuba and Venezuela  | Morgan Lewis - JDSupra",
+   "url": "https://www.jdsupra.com/legalnews/shield-or-sanction-the-eu-s-diverging-9225290",
+   "snippet": "This approach reflects the EU’s longstanding preference for more limited restrictive measures aimed at influencing the conduct of political leaders, while limiting unintended consequences for the civilian population and preserving legitimate commercial relations wherever possible. This approach has also been applied in the context of other EU sanctions regimes, including those targeting Zimbabwe a",
+   "published": "Fri, 30 Oct 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Than Win",
+   "url": "https://www.opensanctions.org/entities/Q114269112",
+   "snippet": "Than Win is a citizen of Myanmar, who is sanctioned. Consolidated information about individuals who have been banned from traveling to the European Union,",
+   "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Did Myanmar Hide Iranian Jet Fuel Imports to Evade US Sanctions? - Modern Diplomacy",
+   "url": "https://moderndiplomacy.eu/2026/10/26/how-did-myanmar-hide-iranian-jet-fuel-imports-to-evade-us-sanctions",
+   "snippet": "Myanmar’s military-linked companies and Iranian suppliers have continued to operate despite these restrictions. Reuters reported in October that Iranian jet fuel shipments to Myanmar were still taking place in 2026.\n\nThe case therefore illustrates a central challenge for sanctions enforcement: restricting access to strategic supplies requires not only targeting suppliers and buyers but also detect",
+   "published": "Mon, 26 Oct 2026 04:39:25 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_mm",
  "_query": "EU Myanmar sanctions",
  "_domains": [],

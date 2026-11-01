@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "CHRISTIAN FARMERS REPORT LARGE NUMBERS OF BOKO HARAM FIGHTERS NEAR HONG COMMUNITIES AFTER DEADLY ATTACK - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/christian-farmers-report-large-numbers-of-boko-haram-fighters-near-hong-communities-after-deadly-attack",
+   "snippet": "Christian farmers have told TruthNigeria that large numbers of Boko Haram insurgents were seen moving through a neighbouring village following a reported deadly attack on Christian communities in Garstanu and Sikalmi, raising fears of further violence in Hong Local Government Area, Adamawa State. TruthNigeria independently verified the attack from Christian Association of Nigeria Secretary of Hong",
+   "published": "Thu, 29 Oct 2026 12:34:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria says troops kill 48 Islamist fighters after attacks in Borno, Yobe bases - Internazionale",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/30/nigeria-says-troops-kill-48-islamist-fighters-after-attacks-in-borno-yobe-bases",
+   "snippet": "Gli attacchi sferrati dai gruppi islamisti Boko Haram e dalla sua fazione scissionista, la Provincia dell’Africa Occidentale dello Stato islamico (ISWAP), contro le postazioni militari nella regione sono aumentati vertiginosamente nelle ultime settimane, nonostante anni di operazioni militari volte a contenere l’insurrezione che da 17 anni affligge la Nigeria nord-orientale. [...] Attacks by Islam",
+   "published": "Fri, 30 Oct 2026 13:37:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Over 200 Boko Haram Terrorists Are Moving To Attack Military Camp In Buni Yadi As Rockets Target Troops; IED Threat Raises Travel Concerns - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/over-200-boko-haram-terrorists-are-moving-to-attack-military-camp-in-buni-yadi-as-rockets-target-troops-ied-threat-raises-travel-concerns",
+   "snippet": "\")\n\nSecurity Alert: Buni Yadi , Yobe State , Nigeria | October 29, 2026\n\nIntelligence sources report that more than 200 Boko Haram terrorists are movinf to attack  military camp in Buni Yadi Gujba Local Government Area, Yobe State, with reports that the attackers have begun firing rockets in an apparent attempt to overwhelm Nigerian military personnel and members of the Civilian Joint Task Force (",
+   "published": "Fri, 30 Oct 2026 01:03:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State in Iraq and Syria - Expansion, Terror, Insurgency | Britannica",
+   "url": "https://www.britannica.com/topic/Islamic-State-in-Iraq-and-Syria/ISIS-outside-of-Iraq-and-Syria",
+   "snippet": "on Christmas Eve that year. In August 2011 a suicide bomber associated with Boko Haram crashed a car into a United Nations building in Abuja, marking its first major attack on an international target, albeit located within Nigeria. In 2013, after Boko Haram rejected a proposal for amnesty by Nigerian Pres. Goodluck Jonathan if they disarmed, Jonathan declared the group a terrorist organization and",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62 | Armed Groups News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62",
+   "snippet": "“We still have men on the ground, and the more we recover bodies, we will put them in account,” Victor Mshelizah, Taraba police spokesperson, told The Associated Press.\n\n## Atrocities, ‘impunity’\n\nNigeria is in the midst of a security crisis that began more than 15 years ago when the Boko Haram armed group launched a rebellion against the government. Civilians are regularly attacked and kidnapped ",
+   "published": "Tue, 27 Oct 2026 15:53:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 62 people killed in attack on a community in northeastern Nigeria - ABC News",
+   "url": "https://abcnews.com/International/wireStory/62-people-killed-attack-community-northeastern-nigeria-137597495",
+   "snippet": "Nigeria faces a very complex security crisis where civilians are regularly attacked by bandits who carry out large-scale kidnapping for ransom and control illegal mine sites, and also by Islamist groups such as Boko Haram and the Islamic State West Africa Province.\n\nABC News\n\n## Sponsored Content by Taboola\n\n## Popular Reads\n\n## Judge rules Trump DOJ 'unlawfully' fired Maurene Comey\n\n## Britt McHe",
+   "published": "Tue, 27 Oct 2026 12:43:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "“Tell me how to make a bomb” Terrorist use of conversational AI: evidence and prospects | International Centre for Counter-Terrorism - ICCT",
+   "url": "https://icct.nl/publication/tell-me-how-make-bomb-terrorist-use-conversational-ai-evidence-and-prospects",
+   "snippet": "A recent research project from Cambridge University, based on interviews with Boko Haram militants, demonstrated how terrorist groups are already using AI chatbots to improve their operations, for instance by increasing the power of their explosive devices or by perfecting their tactical and technical attack skills. In their own words: “[they] use it a lot”. The same research also shows how jihadi",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ACN report: 220 million Christians face persecution worldwide - Vatican News",
+   "url": "https://www.vaticannews.va/en/church/news/2026-10/acn-report-persecution-christians-africa-asia-displacement.html",
+   "snippet": "Programs Podcast\n\nFile photo of Catholic bishops in Nigeria gathered to pray for security and denounce the killings of Christians by Boko Haram terrorists   File photo of Catholic bishops in Nigeria gathered to pray for security and denounce the killings of Christians by Boko Haram terrorists (AFP or licensors) \n\nChurch\n\n religious persecution\n Africa\n Asia\n migrants and refugees\n Nicaragua\n chris",
+   "published": "Wed, 28 Oct 2026 14:48:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "A Deadly Week for Christians in Jordan, Ethiopia and Nigeria - Daily Citizen",
+   "url": "https://dailycitizen.focusonthefamily.com/a-deadly-week-for-christians-in-jordan-ethiopia-and-nigeria",
+   "snippet": "The longstanding nature of Christian persecution in Nigeria provides a clear picture of the groups responsible for the violence. According to Equipping the Persecuted, the main groups involved in Nigeria are Fulani-linked militants, Boko Haram and ISWAP (Islamic State West Africa Province).\n\nThe Fulani are a predominantly Muslim ethnic group concentrated in northern Nigeria and other parts of West",
+   "published": "Thu, 29 Oct 2026 22:53:09 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

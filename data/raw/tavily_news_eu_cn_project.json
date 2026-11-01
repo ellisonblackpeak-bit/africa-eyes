@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "China smart-factory and EV production trends: OEM consolidation, automation and global competitiveness",
+   "url": "https://www.automotivemanufacturingsolutions.com/strategy/chinas-car-industry-consolidation-begins-who-will-survive/2759287",
+   "snippet": "The successful domestic brands, BYD, Geely and Chery, are also increasing exports, especially of HEVs and PHEVs to Europe. But the increased tariffs on Chinese-made EVs which have already been applied in Europe may well be extended to HEVs and PHEVs, hitting exports. Europe’s tariff policy has already led to Chinese companies accelerating manufacturing plans for Europe: BYD’s plant in Hungary has ",
+   "published": "Wed, 28 Oct 2026 17:03:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s Africa Policy Overlooks China’s Economic Influence",
+   "url": "https://chinaglobalsouth.com/analysis/europe-africa-policy-overlooks-china-growing-economic-influence",
+   "snippet": "As a recent Financial Times article showed, Chinese companies are rushing to build factories in African countries, manufacturing and assembling a wide range of products from Chinese inputs for export to Europe, the U.S., the Middle East, and, of course, Africa itself. [...] Key Takeaways\n\n Distinct roles: China is economically transformative in Africa; Russia is increasingly nihilistic, focused on",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Beyond exports: China's automakers dig deeper into Europe - The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10915036",
+   "snippet": "Beyond building factories, Chinese automakers are increasingly forming alliances with established manufacturers that are struggling with sluggish demand, costly electrification investments and underused production capacity.\n\nFor European companies, the partnerships offer opportunities to sustain factory operations and share development costs. For Chinese manufacturers, they provide access to exist",
+   "published": "Mon, 26 Oct 2026 05:57:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Morocco Could Help China Sidestep Europe's EV Tariffs",
+   "url": "https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy",
+   "snippet": "In short, if Chinese EV companies succeed in establishing vehicle assembly factories and fully integrating supply chains in Morocco, they will be able to sell vehicles to Europe under a “Made in Morocco” label, avoiding both the 10 percent EU standard automobile tariff and the additional punitive tariff on Chinese-made EVs—reducing the total tariff effect from as much as 45 percent to zero. This w",
+   "published": "Tue, 27 Oct 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s hybrid car exports to EU up 200%; response to Tesla’s ‘flying car’: 7 EV reads | South China Morning Post",
+   "url": "https://www.scmp.com/business/china-evs/article/3372399/chinas-hybrid-car-exports-eu-200-response-teslas-flying-car-7-ev-reads",
+   "snippet": "China’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback at home and rising trade barriers overseas, according to an executive.\n\nSelect Voice\n\nSelect Speed\n\nAI-generated voice [...] SCMP\n\nWe have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help",
+   "published": "Wed, 28 Oct 2026 07:30:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat - The New York Times",
+   "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+   "snippet": "Now the city, long since marred by industrial decay, unemployment and declining population, is becoming known for its warm welcome of Chinese industry into Spain and Western Europe.\n\nIn June SAIC Motor, one of China’s largest electronic vehicle manufacturers, chose a sleepy port just outside Ferrol as the site for a major plant. The project, which is expected to provide more than 1,000 jobs, has p",
+   "published": "Wed, 28 Oct 2026 04:01:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's factory activity slips as new export orders weaken - Newsday",
+   "url": "https://www.newsday.com/business/china-manufacturing-economy-pmi-exports-h66513",
+   "snippet": "The 27-nation European Union has been highlighting what it says is an unsustainable trade deficit with China that hit $1.1 billion a day in 2025. The EU has taken measures to rebalance trade including striking a deal with Beijing to cap the imports of Chinese hybrid vehicles.\n\nChina has been exporting more to trading partners in Europe, Southeast Asia and Latin America since the U.S. imposed highe",
+   "published": "Sat, 31 Oct 2026 04:17:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Bypassing the Pharma Chokepoint | Council on Foreign Relations",
+   "url": "https://www.cfr.org/reports/bypassing-the-pharma-chokepoint",
+   "snippet": "Skip to content\n\nMember Login\n\nCouncil on Foreign Relations\n\n# Bypassing the Pharma Chokepoint\n\nHow the United States and Europe Can Secure Their Medicine Supply\n\nFILE PHOTO: Workers are seen at a production line manufacturing solar photovoltaic components at a factory in Huzhou, Zhejiang province, China February 12, 2019. Picture taken February 12, 2019. Lin Yunlong/Zhejiang Daily via REUTERS ATT",
+   "published": "Wed, 28 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Volkswagen considers using Chinese software for Europe, report says | Reuters",
+   "url": "https://www.reuters.com/business/autos-transportation/volkswagen-considers-using-chinese-software-europe-report-says-2026-10-26",
+   "snippet": "The company has so far kept software separate, using the architecture co-developed with Xpeng for ​the Chinese market ​while developing ⁠a separate technology for the Western world with Rivian, in a $5.8 billion ​investment at the heart of CEO Oliver ​Blume's ⁠software strategy. [...] Volkswagen's 'China Electronic ​Architecture', a system developed for Chinese models ​in cooperation with local EV",
+   "published": "Mon, 26 Oct 2026 16:45:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "“Eroding Tariff Advantages and Manufacturing Constraints”: China Diversification Through Southeast Asia Under Strain, With Key Manufacturing Hubs’ Capabilities a Decisive Factor | Policy News — The Economy",
+   "url": "https://economy.ac/news/2026/10/202610295763",
+   "snippet": "China’s distinctive manufacturing ecosystem is also cited as a constraint on diversification strategies. Reuters reported last month that “companies that moved production outside China have retained or restored parts of their Chinese supply chains after encountering shortages of skilled workers, underdeveloped supplier networks and unreliable power supplies at overseas factories.” Major manufactur",
+   "published": "Wed, 28 Oct 2026 03:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

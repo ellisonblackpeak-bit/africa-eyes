@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
+   "snippet": "The retaking of Mali’s northern desert town of Kidal from Tuareg separatists and al-Qaeda-linked Jama’at Nusrat al-Islam wal-Muslimin (JNIM) represents a moderate gain for the Malian government, but one with limited strategic value.\n Sustained operations by JNIM in both Mali and Burkina Faso aim not at territorial control but at waging a war of attrition against the juntas.\n Since September 2026, ",
+   "published": "Wed, 28 Oct 2026 04:01:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kidal security: JNIM, Islamic State and Sahel landscape",
+   "url": "https://www.facebook.com/TheSoufanCenter/posts/intelbrief-what-kidal-portends-jnim-islamic-state-and-the-sahelian-security-land/1622776613209325",
+   "snippet": "JNIM is a transnational terrorist group- it has attacked Benin , Togo , Nigeria and Côte d'Ivoire in addition to Burkina Faso , Mali",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Régner autrement: Comprendre la stratégie des blocus du ...",
+   "url": "https://www.clingendael.org/publication/regner-autrement-comprendre-la-strategie-des-blocus-du-jnim",
+   "snippet": "The al-Qaeda-linked Group for the Support of Islam and Muslims (JNIM) extensively uses blockades around villages, towns, and even cities in Mali and across its",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "JNIM’s war of attrition in the Sahel - Sawab Center",
+   "url": "https://sawabcenter.org/briefs-jnims-war-of-attrition-in-the-sahel",
+   "snippet": "According to ACLED, JNIM attacks on mining operations in southern Mali have increased, and eastern Guinea’s mining areas, transport corridors, and commercial networks face a growing risk of infiltration. It also stresses that evidence of sustained extremist operations inside Guinea is limited. Suspected recruitment, reconnaissance, and financial activity point to an emerging threat, not to territo",
+   "published": "Mon, 26 Oct 2026 00:00:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Renewed Jihadist Rivalry Threatens to Reshape the Eastern Sahel | African Security Analysis",
+   "url": "https://www.africansecurityanalysis.com/updates/renewed-jihadist-rivalry-threatens-to-reshape-the-eastern-sahel",
+   "snippet": "Executive Summary\n\nRenewed fighting between al-Qaeda-affiliated Jama'at Nusrat al-Islam wal-Muslimin (JNIM) and Islamic State Sahel Province (ISSP) around Tessit in eastern Mali and Oudalan province in northern Burkina Faso signals a potentially significant escalation in the struggle for control of the tri-border region. [...] A decisive victory for either organisation would potentially alter the ",
+   "published": "Mon, 26 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algorithms at War: Generative AI as a Hybrid Threat Multiplier in Mali's Conflict – ACCORD",
+   "url": "https://www.accord.org.za/analysis/algorithms-at-war-generative-ai-as-a-hybrid-threat-multiplier-in-malis-conflict",
+   "snippet": "a supposed Tuareg fighter critical of Africa Corps. JNIM remains at the rudimentary end: its media arm released AI-generated posters in June 2026. [...] in warfare. On 25 April 2026, coordinated attacks by the al-Qaeda-linked Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and the Tuareg-led Azawad Liberation Front (FLA) killed Mali’s defence minister, Sadio Camara, and forced Malian forces and their ",
+   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "SawabCenter",
+   "url": "https://x.com/SawabCenter/status/2116159823029194863",
+   "snippet": "JNIM & Tuareg rebels in Mali are combining battlefield attacks with use of AI for online propaganda. Extremist supporters are employing AI-generated",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Guinea: Announced Extremist Arrests Highlight Transit, Recruitment, and Radicalisation Risks in Upper Guinea | African Security Analysis",
+   "url": "https://www.africansecurityanalysis.org/updates/announced-extremist-arrests-highlight-transit-recruitment-and-radicalisation-risks-in-upper-guinea",
+   "snippet": "JNIM must balance opportunity against cost. Opening an active Guinean front would invite a stronger Guinean security response, risk disrupting criminal and logistical channels, and potentially reduce the value of Guinea as a quieter support environment. It would also require manpower, networks, and resources at a time when JNIM remains heavily engaged in Mali and is expanding pressure in other coa",
+   "published": "Sun, 25 Oct 2026 22:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ml2",
  "_query": "JNIM Mali",
  "_domains": [],

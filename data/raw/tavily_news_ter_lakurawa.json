@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Police inspector, 11 civilians killed in terror attacks on Nigerian villages",
+   "url": "https://www.trtafrika.com/english/article/909cb4be6ce3",
+   "snippet": "The Lakurawa group has been linked to attacks across northwestern Nigeria, particularly in communities near the country's borders.",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Gunmen kill 12, injure several in attack on northwestern Nigeria - [İLKHA] Ilke News Agency",
+   "url": "https://ilkha.com/english/world/gunmen-kill-12-injure-several-in-attack-on-northwestern-nigeria-572643",
+   "snippet": "According to reports in the national media, members of the Lakurawa group attacked communities in the Besse-Shanga axis of Kebbi State, targeting several villages and leaving a trail of destruction.\n\nThe attack claimed the lives of 12 people, including a police inspector, while many others sustained injuries.\n\nArmed assailants also abducted an unspecified number of residents, set numerous houses a",
+   "published": "Sat, 31 Oct 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "INTELLIGENCE SOURCES WARN OF PLANNED MULTIPLE TERROR ATTACKS AS LUKURAWA MILITANTS REPORTEDLY CAMP IN NIGER STATE - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/10/intelligence-sources-warn-of-planned-multiple-terror-attacks-as-lukurawa-militants-reportedly-camp-in-niger-state",
+   "snippet": "Lakurawa terrorists have reportedly been moving since Monday night and establishing camps in Kuimo and Kalgo communities in Mariga Local Government Area of Niger State, with movements reportedly observed around 3 a.m., according to an intelligence source who spoke to TruthNigeria. [...] A photo of what a source claims are Lukurawa terrorists moving on motorcycles. Picture Credit residents of Marig",
+   "published": "Tue, 27 Oct 2026 12:37:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Army Denies Withdrawal As Residents Raise Alarm Over Lakurawa Return To Sokoto Forest",
+   "url": "https://leadership.ng/army-denies-withdrawal-as-residents-raise-alarm-over-lakurawa-return-to-sokoto-forest",
+   "snippet": "Waria Forest is considered strategic as it serves as headquarters of the Lakurawa group, a heavily armed jihadist cell that infiltrated Sokoto from Niger and Mali axis and has established enclaves in Tangaza, Gudu, Illela LGAs of Sokoto and Augie in Kebbi State.\n\nBefore the October 15, 2026 bombardment under Operation FANSAN YAMMA, the group had imposed levies, rustled cattle and sacked farming co",
+   "published": "Sun, 01 Nov 2026 04:01:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria: Gunmen Kill Police Inspector, 11 Others in Kebbi",
+   "url": "https://allafrica.com/stories/202610300338.html",
+   "snippet": "Daily Trust gathered that a few days before the Karwa, Kestu and Waiwayi attacks, suspected members of the Lakurawa group also attacked Lafagu and other communities in Boya area of Kaoje, killing the village head, Alhaji Saidu Mujeli, and six others before leaving the area through the River Niger bank to attack other communities in Besse and Shanga.\n\nIt was gathered that despite the establishment ",
+   "published": "Fri, 30 Oct 2026 11:10:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lakurawa kills police inspector, 11 civilians in Kebbi",
+   "url": "https://punchng.com/lakurawa-kills-police-inspector-11-civilians-in-kebbi?amp=",
+   "snippet": "Suspected Mamudawa/Lakurawa terrorists have killed a police inspector and 11 civilians in an attack on two villages in Koko/Besse LGA of Kebbi State.",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lakurawa Unleash Terror On Kebbi Riverine Communities, Kill 12",
+   "url": "https://thewhistler.ng/lakurawa-unleash-terror-on-kebbi-riverine-communities-kill-12",
+   "snippet": "Suspected Lakurawa and Mamudawa terrorists have killed a police inspector and 11 residents in a series of attacks on riverine communities in Kebbi State,",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lakurawa Terrorists Exploiting Porous Borders, Forest Reserves In N/West – NSA",
+   "url": "https://leadership.ng/lakurawa-terrorists-exploiting-porous-borders-forest-reserves-in-n-west-nsa",
+   "snippet": "This is just as the NSA unveiled a five point crisis response framework to curtail banditry and other criminal elements in Sokoto State.",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "50 ARMED MEN REPORTEDLY APPROACH WAIWAYI AS RESIDENTS FLEE",
+   "url": "https://truthnigeria.com/2026/10/50-armed-men-reportedly-approach-waiwayi-as-residents-flee",
+   "snippet": "SECURITY ALERT: WAIWAYI VILLAGE, KOKO/BESSE LGA, KEBBI STATE, NIGERIA | OCTOBER 29, 2026 Residents of Waiwayi Village in Koko/Besse Local Government Area of",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "From static to strategic offensive: General Shaibu’s one year in office",
+   "url": "https://thenationonlineng.net/from-static-to-strategic-offensive-general-shaibus-one-year-in-office",
+   "snippet": "By Michael Msuaan On October 30, 2025, when Lt. Gen. Waidi Shaibu assumed office as the 25th Chief of Army Staff, Nigeria's military establishment was at.",
+   "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_lakurawa",
  "_query": "Lakurawa Nigeria",
  "_domains": [],

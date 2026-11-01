@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
+ "success": true,
+ "results": [
+  {
+   "title": "Eni sells Nigerian subsidiary to local energy firm",
+   "url": "https://www.aa.com.tr/en/energy/general/eni-sells-nigerian-subsidiary-to-local-energy-firm/60572",
+   "snippet": "Italian energy company Eni has completed the sale of its wholly owned subsidiary Agip Energy and Natural Resources (Nigeria) Limited (AENR) to Apex Global Energy Limited (APEX), the company announced Monday.\n\nAPEX is wholly owned by Sterling Oil Exploration and Energy Production Company Ltd (Sterling), one of Nigeria's leading onshore oil and gas operators. [...] AENR operates in Nigeria's onshore",
+   "published": "Wed, 28 Oct 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Speaker urges US investors to explore Nigeria’s opportunitie",
+   "url": "https://punchng.com/speaker-urges-us-investors-to-explore-nigerias-opportunities",
+   "snippet": "Abbas urged American companies to look beyond oil and gas and consider investment opportunities in agriculture, healthcare, education, tourism, hospitality, construction, sports, fashion and solid minerals.\n\nHe identified agribusiness as a promising area, while pointing to growing demand for hospitality services and the need for world-class medical facilities as opportunities for investors.\n\nRelat",
+   "published": "Mon, 26 Oct 2026 11:07:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "INFRAGORA Plans $1bn AI Data Centres, Power Plant in Nigeria by 2027 - Techeconomy",
+   "url": "https://techeconomy.ng/infragora-ai-data-centres-nigeria-2027",
+   "snippet": "The US Trade and Development Agency (USTDA) is funding a feasibility study for the project. According to Odiogo, the study covers technical and financial assessments, including the facilities’ ability to support AI workloads.\n\nUSTDA also expects its support to create opportunities for American companies supplying AI software, computing hardware, networking equipment, cloud infrastructure and cyber",
+   "published": "Mon, 26 Oct 2026 11:47:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Alake denies sale of Nigerian mineral assets to the US | UA.NEWS",
+   "url": "https://ua.news/en/money/ministr-alake-zaperechiv-prodazh-mineralnikh-aktiviv-ssha-premium-times-nigeria",
+   "snippet": "US Embassy representative Jonathan Baas said that Washington gives priority to energy, artificial intelligence and critical minerals in international economic engagement. Martins Imoniti, head of the Nigeria Solid Minerals Company, said that the newly established committee would coordinate the implementation of the framework agreement, facilitate investment and monitor the fulfilment of its object",
+   "published": "Thu, 29 Oct 2026 10:53:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Approves Local Issuer Of Renewable Energy Certificates, Replacing UK Firm – Arise News",
+   "url": "https://www.arise.tv/nigeria-approves-local-issuer-of-renewable-energy-certificates-replacing-uk-firm",
+   "snippet": "The accreditation by the Netherlands-based I-TRACK Foundation makes EFMS the first and only Nigerian company authorised to issue International Renewable Energy Certificates (I-REC(E)) in the country, creating an opportunity for local renewable energy operators to earn additional revenue in foreign currency from the electricity they generate. [...] AFRICA\n\nEF Market Solutions Nigeria becomes the co",
+   "published": "Fri, 30 Oct 2026 12:01:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "₦4.5tn IT Investment Puts Nigeria’s Digital Infrastructure Plans Under Scrutiny",
+   "url": "https://www.nigeriahousingmarket.com/news/fg-n4-5tn-it-investment-digital-infrastructure-nigeria",
+   "snippet": "The delegation included representatives of Microsoft, Citi, Cavista Holdings, Flutterwave, Tolaram Group, the American Business Council and the US Chamber of Commerce. Discussions centred on opportunities for commercial cooperation and investment in Nigeria’s digital economy. [...] Read more →\n\nThe Director-General of the National Information Technology Development Agency (NITDA), Kashifu Inuwa Ab",
+   "published": "Thu, 29 Oct 2026 13:48:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tech Armageddon is here!, By Osmund Agbo",
+   "url": "https://www.premiumtimesng.com/opinion/921740-tech-armageddon-is-here-by-osmund-agbo.html",
+   "snippet": "### Stalled wind farm project in Katsina typifies Nigeria’s struggle to build renewable-energy industry\n\n  Gas Flare at Obagi flare stack 1\n\n  ### PREMIUM TIMES investigates TotalEnergies’ ‘zero routine flaring’ claim\n\n  Atiku, Ribadu, Fintiri, Binani, Haske, and Ishaku Abbo\n\n  ### 2027: Fintiri’s exit, Atiku, Ribadu’s interests set stage for tight Adamawa governorship race\n\n  Anthony Kila [...] #",
+   "published": "Sat, 31 Oct 2026 15:47:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "RANKED: If U.S. States Were Countries, Texas Would Rank #4 in Oil Production - Visual Capitalist - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+   "url": "https://energynow.com/2026/08/ranked-if-u-s-states-were-countries-texas-would-rank-4-in-oil-production-visual-capitalist",
+   "snippet": "### New Mexico Also Ranks Among Global Oil Heavyweights\n\nNew Mexico produced an average of 2.24 million barrels per day, enough to rank 12th in this comparison.\n\nThat puts the state ahead of major producers including Kazakhstan, Norway, Mexico, and Nigeria. Like Texas, New Mexico has benefited from rapid development in the Permian Basin. [...] #### Big Oil’s Spending Caution Speaks Louder than its",
+   "published": "Thu, 29 Oct 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Ends Solar Tariff Dodges, But Building Own Sector Is Tough",
+   "url": "https://energynow.com/2026/08/us-ends-solar-tariff-dodges-but-building-own-sector-is-tough",
+   "snippet": "By Dan Murtaugh Chinese solar companies will go to great lengths to reach the US…",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "SoftBank-backed OPay withdraws $304 million US IPO after regulatory inquiry",
+   "url": "https://www.reuters.com/legal/transactional/softbank-backed-opay-raises-304-million-us-ipo-2026-10-30",
+   "snippet": "SoftBank-backed digital-payments company OPay withdrew a planned $304 million US initial public offering on Friday, citing a ​regulatory inquiry by a",
+   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],
