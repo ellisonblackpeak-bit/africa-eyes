@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Data centres on the ballot: could the AI infrastructure shape US midterms?",
+   "url": "https://www.france24.com/en/data-centres-on-the-ballot-could-the-ai-infrastructure-shape-us-midterms",
+   "content": "Voters from Ohio to Illinois decide dozens of local measures on Tuesday, as opposition to the giant buildings powering AI cuts across party lines.",
+   "published_date": "Sun, 01 Nov 2026 15:11:28 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Oleshky residents return to Ukraine",
+   "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
+   "content": "Residents evacuated from Russian-occupied Oleshky have reached Ukrainian-held territory following a rare local truce. They described years of isolation, food shortages and regular shelling, with some saying they were forced to eat grass and dogs to survive. Seized by Russian forces in the early days of the 2022 invasion, the city remains cut off by the Dnipro River on one side and Russian troops on the other.",
+   "published_date": "Sun, 01 Nov 2026 14:56:05 GMT",
+   "score": 0.6
+  },
+  {
    "title": "French high school blockades to restart on Monday, student unions say",
    "url": "https://www.france24.com/en/france/20261101-french-high-school-blockades-to-restart-on-monday-student-unions-say",
    "content": "The head of a student union said Sunday that high school blockades throughout France would restart on Monday. French President Emmanuel Macron has called for classes to resume after the government announced new measures to address the ongoing education crisis which student groups found insufficient.",
@@ -153,20 +167,6 @@
    "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
    "content": "Iran's supreme leader warned the United States and Israel on Saturday against further strikes as tensions mount over a possible return to fighting. US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have threatened new military action on Tehran but US Secretary of State Marco Rubio said Trump had not yet made a decision on fresh strikes.",
    "published_date": "Sat, 31 Oct 2026 17:00:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "🔴 Live: Interior ministry says some 320,000 people protest across France as unrest flares",
-   "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "content": "",
-   "published_date": "Sat, 31 Oct 2026 16:45:06 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
-   "url": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
-   "content": "Turkey has nominated its former foreign minister and UN ambassador Feridun Hadi Sinirlioglu for the position of UN secretary-general, state-media reported on Saturday. The submission was officially backed by Turkish President Recep Tayyip Erdogan who has been particularly vocal in calling for reform of the UN Security Council.",
-   "published_date": "Sat, 31 Oct 2026 14:28:10 GMT",
    "score": 0.6
   }
  ],

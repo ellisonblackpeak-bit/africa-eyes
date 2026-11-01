@@ -2,10 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Me ya sa INEC ta ƙi sanya Aminu Abdulsalam a jerin ƴantakarar gwamnan Kano?",
-   "url": "https://www.bbc.com/hausa/articles/c6r7yxnegylzo?at_medium=RSS&at_campaign=rss",
-   "content": "Ana ci gaba da tafka muhawara kan rashin ganin sunan ɗan takarar jam'iyyar NDC a zaɓen gwamnan jihar Kano, Kwamrade Aminu Abdulsalam Gwarzo wanda hukumar INEC ta fitar.",
-   "published_date": "Sun, 01 Nov 2026 03:58:08 GMT",
+   "title": "Shin AI na riƙe sirrinku?",
+   "url": "https://www.bbc.com/hausa/articles/cvlydp1kk7j9o?at_medium=RSS&at_campaign=rss",
+   "content": "Sayar da bayanan masu amfani lokacin da kamfani ya durƙushe ba sabon abu ba ne, amma AI ya ƙara girman wannan haɗarin.",
+   "published_date": "Sun, 01 Nov 2026 17:05:49 GMT",
    "score": 0.6
   },
   {
@@ -13,6 +13,20 @@
    "url": "https://www.bbc.co.uk/hausa/live/cjp3g6e6p5ket?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 1/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Ta yaya za a warware rikicin siyasar Isra'ila? Ga wasu yanayi guda huɗu",
+   "url": "https://www.bbc.com/hausa/articles/c6lylp0yeqg9o?at_medium=RSS&at_campaign=rss",
+   "content": "Da aka ƙidaya sama da kashi 90% na ƙuri'un, dukkan alamu sun nuna cewa akwai matsala. Mafi yuwuwar sakamakon zai iya zama sabbin zaɓe.",
+   "published_date": "Sun, 01 Nov 2026 17:01:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa INEC ta ƙi sanya Aminu Abdulsalam a jerin ƴantakarar gwamnan Kano?",
+   "url": "https://www.bbc.com/hausa/articles/c6r7yxnegylzo?at_medium=RSS&at_campaign=rss",
+   "content": "Ana ci gaba da tafka muhawara kan rashin ganin sunan ɗan takarar jam'iyyar NDC a zaɓen gwamnan jihar Kano, Kwamrade Aminu Abdulsalam Gwarzo wanda hukumar INEC ta fitar.",
+   "published_date": "Sun, 01 Nov 2026 03:58:08 GMT",
    "score": 0.6
   },
   {
@@ -44,20 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Abubuwa biyar da Cristiano Ronaldo ke buri kafin yin ritaya",
-   "url": "https://www.bbc.com/hausa/articles/c3dxwd77gd59o?at_medium=RSS&at_campaign=rss",
-   "content": "Sai dai duk da wadannan nasarori, akwai wasu manyan abubuwa da lambobin yabop da suka kuɓuce masa.",
-   "published_date": "Sat, 31 Oct 2026 16:58:12 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Tsohon shugaban leƙen asirin Isra’ila ya bayyana dabarun da aka yi amfani da su a Iran",
-   "url": "https://www.bbc.com/hausa/articles/cmy0e2qvzxr2o?at_medium=RSS&at_campaign=rss",
-   "content": "A safiyar ranar 13 ga watan Yuni, 2025, yayin da Isra'ila ta fara kai hare-hare kan Iran a yakin kwanaki 12, an fitar da wani bidiyo mai ɗauke da tambarin hukuma na Mossad, wanda ya nuna jami'an hukumar leƙen asirin suna shirin amfani da kayan aikin soji tare da tura su cikin ƙasar Iran.",
-   "published_date": "Sat, 31 Oct 2026 03:53:42 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Yadda ɗaga nauyi ke taimakawa jiki zama cikin ƙoshin lafiya yayin tsufa",
    "url": "https://www.bbc.com/hausa/articles/cw62y5grjvy2o?at_medium=RSS&at_campaign=rss",
    "content": "Yayin da kuke ƙara sabawa da waɗannan atisaye, za ku iya ƙara tsawon lokacin da kuke yi domin samun ƙarin amfani.",
@@ -72,6 +72,13 @@
    "score": 0.6
   },
   {
+   "title": "Me ya rage wa Carrick a Manchester United?",
+   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Litinin 01 ga Nuwamba 2026.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Man United na tuntuɓa kan Toney, Barcelona na sa ido kan Willian",
    "url": "https://www.bbc.com/hausa/articles/cw3djy5j83e8o?at_medium=RSS&at_campaign=rss",
    "content": "Manchester United na ci gaba da tuntuɓa kan yiwuwar dauko Ivan Toney, sai Barcelona da ke son daukar ɗan wasan Chelsea Estevao Willian, yayin da Jean-Philippe Mateta ke son barin Crystal Palace a watan Janairu. Da ƙarin wasu labaran",
@@ -79,10 +86,10 @@
    "score": 0.6
   },
   {
-   "title": "Me ya rage wa Carrick a Manchester United?",
-   "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Asabar 31 ga Oktoban 2026.",
-   "published_date": "",
+   "title": "Abubuwa biyar da Cristiano Ronaldo ke buri kafin yin ritaya",
+   "url": "https://www.bbc.com/hausa/articles/c3dxwd77gd59o?at_medium=RSS&at_campaign=rss",
+   "content": "Sai dai duk da wadannan nasarori, akwai wasu manyan abubuwa da lambobin yabop da suka kuɓuce masa.",
+   "published_date": "Sat, 31 Oct 2026 16:58:12 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +111,13 @@
    "url": "https://www.bbc.com/hausa/articles/c820v37de6vgo?at_medium=RSS&at_campaign=rss",
    "content": "Kylian Mbappe yana fuskantar koma baya a kasar Sin bayan kalamansa game da shugaba, Mao Zedong, lamarin da ya bi sahun katse huldar kasuwanci tsakaninsa da wasu kamfanonin kasar.",
    "published_date": "Thu, 29 Oct 2026 17:43:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Tsohon shugaban leƙen asirin Isra’ila ya bayyana dabarun da aka yi amfani da su a Iran",
+   "url": "https://www.bbc.com/hausa/articles/cmy0e2qvzxr2o?at_medium=RSS&at_campaign=rss",
+   "content": "A safiyar ranar 13 ga watan Yuni, 2025, yayin da Isra'ila ta fara kai hare-hare kan Iran a yakin kwanaki 12, an fitar da wani bidiyo mai ɗauke da tambarin hukuma na Mossad, wanda ya nuna jami'an hukumar leƙen asirin suna shirin amfani da kayan aikin soji tare da tura su cikin ƙasar Iran.",
+   "published_date": "Sat, 31 Oct 2026 03:53:42 GMT",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/ck20wjdllwz5o?at_medium=RSS&at_campaign=rss",
    "content": "Wasu daga cikin ƴaƴa mata na fitattun shugabannin Afirka da suka daɗe suna mulki sun taso ne cikin jin daɗi da walwala, kuma su ma sun zama shahararrun mutane masu tasiri a cikin al'umma.",
    "published_date": "Thu, 29 Oct 2026 17:41:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wane mataki INEC za ta ɗauka kan Pantami da Gwarzo?",
-   "url": "https://www.bbc.com/hausa/articles/cq5ynxe59kgjo?at_medium=RSS&at_campaign=rss",
-   "content": "Daga cikin fitattun sunayen da ake sa ran ganin makomarsu a yau ɗin har da ɗantakarar gwamnan PDP a jihar Gombe, Farfesa Ali Isa Pantami, da ɗantakarar gwamnan Kano na NDC Comdr. Aminu Abdussalam gwarzo.",
-   "published_date": "Thu, 29 Oct 2026 09:22:39 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yankuna 4 da babu mai su a duniya",
-   "url": "https://www.bbc.com/hausa/articles/cmkgkx6zjrx4o?at_medium=RSS&at_campaign=rss",
-   "content": "Wasu lokuta, manyan abubuwan da ke tasiri a rayuwarmu ta yau da kullum kan sa mu yi tunani a kan tambayoyin da wataƙila ba su da wani muhimmanci na gaggawa, amma suna da matuƙar jan hankali.",
-   "published_date": "Thu, 29 Oct 2026 13:31:34 GMT",
    "score": 0.6
   }
  ],

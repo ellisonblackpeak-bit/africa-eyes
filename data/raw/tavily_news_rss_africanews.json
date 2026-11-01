@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "In Lome, a soviet-era sport celebrates Togo-Russia ties",
+   "url": "http://www.africanews.com/2026/11/01/in-lome-a-soviet-era-sport-celebrates-togo-russia-ties/",
+   "content": "Sambo began in the USSR and takes its name from a Russian expression meaning \"unarmed self-defense\"",
+   "published_date": "Sun, 01 Nov 2026 16:34:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Hundreds march in Johannesburg to celebrate LGBTQ+ pride in South Africa",
+   "url": "http://www.africanews.com/2026/11/01/hundreds-march-in-johannesburg-to-celebrate-lgbtq-pride-in-south-africa/",
+   "content": "Hundreds of people took to the streets of Sandton on Saturday to celebrate South Africa’s Pride parade, one of Africa’s largest annual celebrations of inclusivity",
+   "published_date": "Sun, 01 Nov 2026 15:01:28 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Africa suffering in 'strongmen' era: governance watchdog Mo Ibrahim",
    "url": "http://www.africanews.com/2026/11/01/africa-suffering-in-strongmen-era-governance-watchdog-mo-ibrahim/",
    "content": "The Mo Ibrahim Foundation's latest report, finds broad progress on economic opportunity and human development over the past decade, but also steep declines in security, human rights and public participation",
-   "published_date": "Sun, 01 Nov 2026 13:54:20 +0000",
+   "published_date": "Sun, 01 Nov 2026 14:02:27 +0000",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "http://www.africanews.com/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest/",
    "content": "Nine orangutans rescued from devastating wildfires in Indonesian Borneo have returned to the forest after weeks of rehabilitation. Among them are four mothers with their young, including three females expecting another baby.",
    "published_date": "Fri, 30 Oct 2026 11:17:50 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "King Charles’ visit to Guyana reignites calls for a British apology and reparations for slavery",
-   "url": "http://www.africanews.com/2026/10/30/king-charles-visit-to-guyana-reignites-calls-for-a-british-apology-and-reparations-for-sla/",
-   "content": "King Charles the Third’s visit to Guyana is bringing renewed attention to Britain’s colonial past and growing calls for an apology over slavery.",
-   "published_date": "Fri, 30 Oct 2026 11:21:04 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "US: flowers laid at Patrick Stewart's Hollywood star after his death",
-   "url": "http://www.africanews.com/2026/10/30/us-flowers-laid-at-patrick-stewarts-hollywood-star-after-his-death/",
-   "content": "Flowers have been placed at Patrick Stewart's Hollywood Walk of Fame star following reports of the British actor's death at 86. Visitors gather in Los Angeles to remember his celebrated screen roles.",
-   "published_date": "Fri, 30 Oct 2026 10:22:07 +0000",
    "score": 0.6
   }
  ],
