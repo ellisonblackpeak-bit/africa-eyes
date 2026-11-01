@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Bulgarian president wins runoff election, according to exit polls",
+   "url": "https://www.rapporteur.com/news/bulgarian-president-wins-runoff-election-according-to-exit-polls/",
+   "content": "Iotova is projected to receive between 50.7% and 52.5% of the vote, compared to between 43.4% and 44% for Gyurov, according to three different exit polls",
+   "published_date": "Sun, 01 Nov 2026 19:15:26 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Brussels sides with Donald Tusk in Poland’s court crisis",
    "url": "https://www.rapporteur.com/news/brussels-sides-with-donald-tusk-in-polands-court-crisis/",
    "content": "The confrontation has attracted a response from France's Marine Le Pen and Slovenia's Janez Janša",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/first-aid-first-fast-tracked-eu-drug/",
    "content": "In today's edition: tobacco, US midterms, China",
    "published_date": "Fri, 30 Oct 2026 08:37:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "HARVEST: Brussels and Ottawa get cheesy",
-   "url": "https://www.rapporteur.com/news/harvest-brussels-and-ottawa-get-cheesy/",
-   "content": "In today's edition: CAP, fisheries, energy costs",
-   "published_date": "Fri, 30 Oct 2026 08:29:18 +0000",
    "score": 0.6
   }
  ],

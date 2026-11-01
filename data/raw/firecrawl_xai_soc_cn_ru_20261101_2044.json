@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/BayStreetBulls/status/2116472646116442264",
+     "title": "Russia is selling gas to China at half price — because it has to.",
+     "description": "Russia is selling gas to China at half price — because it has to.\n\nDuma documents show Beijing pays about $248 per 1,000 cubic metres for Gazprom pipeline gas in 2026, vs $562 for other foreign buyers. A 56% discount.\n\nThat is what losing your best customer looks like.",
+     "snippet": "Russia is selling gas to China at half price — because it has to.\n\nDuma documents show Beijing pays about $248 per 1,000 cubic metres for Gazprom pipeline gas in 2026, vs $562 for other foreign buyers. A 56% discount.\n\nThat is what losing your best customer looks like.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bay Street Finance",
+     "handle": "@BayStreetBulls"
+    },
+    {
+     "url": "https://x.com/ApexWireApp/status/2116367078286360848",
+     "title": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.",
+     "description": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.\n\nThe renewed contraction complicates China's growth target. Russia's projections put China's 2026 pipeline gas price at about $248 per thousand cubic meters, against $562 for Gazprom's other non-former-Soviet buyers.",
+     "snippet": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.\n\nThe renewed contraction complicates China's growth target. Russia's projections put China's 2026 pipeline gas price at about $248 per thousand cubic meters, against $562 for Gazprom's other non-former-Soviet buyers.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Apex Wire",
+     "handle": "@ApexWireApp"
+    },
+    {
+     "url": "https://x.com/zerohedge/status/2116358356042482095",
+     "title": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-r",
+     "description": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
+     "snippet": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "zerohedge",
+     "handle": "@zerohedge"
+    },
+    {
+     "url": "https://x.com/bears_with/status/2115657695466295323",
+     "title": "Vzglyad reports Dmitriev has persuaded Putin to play Trump standover tactic against China to finalize Baikal Power Project (aka Power of Sib",
+     "description": "Vzglyad reports Dmitriev has persuaded Putin to play Trump standover tactic against China to finalize Baikal Power Project (aka Power of Siberia-2) gas pipeline which is still delayed in disputes over price & delivery volume terms. https://vz.ru/economy/2026/10/28/1468600.html",
+     "snippet": "Vzglyad reports Dmitriev has persuaded Putin to play Trump standover tactic against China to finalize Baikal Power Project (aka Power of Siberia-2) gas pipeline which is still delayed in disputes over price & delivery volume terms. https://vz.ru/economy/2026/10/28/1468600.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dances_with_Bears",
+     "handle": "@bears_with"
+    },
+    {
+     "url": "https://x.com/RusOilGasExpert/status/2115810534326984816",
+     "title": "➡️ Chinese gas production jumps in August after an uncharacteristically slow first 7 months.👇 ➡️ This lowers the odds of both higher LNG imp",
+     "description": "➡️ Chinese gas production jumps in August after an uncharacteristically slow first 7 months.👇\n➡️ This lowers the odds of both higher LNG imports and the near-term signing Power of Siberia-2* contract with Russia. \n*Recently re-named to the \"Power of Baikal\"\n#LNG #Russia #China #gas",
+     "snippet": "➡️ Chinese gas production jumps in August after an uncharacteristically slow first 7 months.👇\n➡️ This lowers the odds of both higher LNG imports and the near-term signing Power of Siberia-2* contract with Russia. \n*Recently re-named to the \"Power of Baikal\"\n#LNG #Russia #China #gas",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Russian Oil & Gas Monitor",
+     "handle": "@RusOilGasExpert"
+    },
+    {
+     "url": "https://x.com/matthewl_cn/status/2115961580798235055",
+     "title": "Domestic supply growth at this scale directly displaces spot LNG purchases.",
+     "description": "Domestic supply growth at this scale directly displaces spot LNG purchases. CNPC holds pipeline contract optionality, so Beijing can wait on PoS-2 pricing. Gazprom's position weakens with every incremental bcm from Tarim or Ordos.",
+     "snippet": "Domestic supply growth at this scale directly displaces spot LNG purchases. CNPC holds pipeline contract optionality, so Beijing can wait on PoS-2 pricing. Gazprom's position weakens with every incremental bcm from Tarim or Ordos.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "China Chase Matt",
+     "handle": "@matthewl_cn"
+    },
+    {
+     "url": "https://x.com/seala_ai/status/2116967254814290431",
+     "title": "In October, shipments of Russian oil from Baltic and Arctic seas ports to China via Northern Sea Route continued Launch of Vostok‑Oil became",
+     "description": "In October,  shipments of Russian oil from Baltic and Arctic seas ports to China via Northern Sea Route continued\n\nLaunch of Vostok‑Oil became a key factor in the growth of shipments along the eastern route of Northern Sea Route this year.\n\nUsing the Arctic route for supplies from the Baltic reduces the voyage time to China by half (from 51 days from Ust‑Luga to Qingdao around the Cape of Good Hope to 27 days via the Northern Sea Route). \n\nEven seasonal use of NSR helps to improve economy of Russian crude oil exports. At the same time, navigation through the Bering Strait will be closed in November and flows will be reset.\n\n#NothernSeaRoute #Arctic #oil #SealaTerminal\n @seala_ai",
+     "snippet": "In October,  shipments of Russian oil from Baltic and Arctic seas ports to China via Northern Sea Route continued\n\nLaunch of Vostok‑Oil became a key factor in the growth of shipments along the eastern route of Northern Sea Route this year.\n\nUsing the Arctic route for supplies from the Baltic reduces the voyage time to China by half (from 51 days from Ust‑Luga to Qingdao around the Cape of Good Hope to 27 days via the Northern Sea Route). \n\nEven seasonal use of NSR helps to improve economy of Russian crude oil exports. At the same time, navigation through the Bering Strait will be closed in November and flows will be reset.\n\n#NothernSeaRoute #Arctic #oil #SealaTerminal\n @seala_ai",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Seala AI",
+     "handle": "@seala_ai"
+    },
+    {
+     "url": "https://x.com/WillRobinsonINT/status/2116791023741579678",
+     "title": "When Russia cannot refine its own oil, it has to sell more raw crude abroad, and China is the biggest buyer at a discount.",
+     "description": "When Russia cannot refine its own oil, it has to sell more raw crude abroad, and China is the biggest buyer at a discount. Every burning refinery makes Moscow more dependent on Beijing. Second, both sides fly drones built with Chinese motors, batteries and cameras, according to widely reported investigations. China gets paid & smarter texh no matter whose drone flys.",
+     "snippet": "When Russia cannot refine its own oil, it has to sell more raw crude abroad, and China is the biggest buyer at a discount. Every burning refinery makes Moscow more dependent on Beijing. Second, both sides fly drones built with Chinese motors, batteries and cameras, according to widely reported investigations. China gets paid & smarter texh no matter whose drone flys.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Will Robinson",
+     "handle": "@WillRobinsonINT"
+    },
+    {
+     "url": "https://x.com/JoseAlNino/status/2116665639603519835",
+     "title": "6/ Russia signed a 10-year strategic partnership covering over 350 defense and tech pacts.",
+     "description": "6/ Russia signed a 10-year strategic partnership covering over 350 defense and tech pacts. \n\nBeijing extended roughly $68 billion in oil for loans financing. \n\nTehran provided drone technology and sanctions busting logistics. US economic warfare created this counter bloc.",
+     "snippet": "6/ Russia signed a 10-year strategic partnership covering over 350 defense and tech pacts. \n\nBeijing extended roughly $68 billion in oil for loans financing. \n\nTehran provided drone technology and sanctions busting logistics. US economic warfare created this counter bloc.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "José Niño | Unfiltered Politics",
+     "handle": "@JoseAlNino"
+    },
+    {
+     "url": "https://x.com/jamie_saris/status/2116407780420583862",
+     "title": "You give China waaay too much credit.",
+     "description": "You give China waaay too much credit. Putin handed Russia to China as a client state, after the his Ukrainian aggression faltered. Xi is simply watching while Putin sells him oil at cost, while the Russia weakens and her Far East becomes his de facto economic appendage.",
+     "snippet": "You give China waaay too much credit. Putin handed Russia to China as a client state, after the his Ukrainian aggression faltered. Xi is simply watching while Putin sells him oil at cost, while the Russia weakens and her Far East becomes his de facto economic appendage.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "A. Jamie Saris",
+     "handle": "@jamie_saris"
+    }
+   ]
+  }
+ ]
+}
