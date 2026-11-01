@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/elmercurioAON/status/2116535956966686764",
+     "title": "🇨🇳 China consigue un descuento del 56 % en el Gas ruso mientras Moscú pierde poder de gegociación y Pekín impone sus condiciones 👇 Según pro",
+     "description": "🇨🇳 China consigue un descuento del 56 % en el Gas ruso mientras Moscú pierde poder de gegociación y Pekín impone sus condiciones 👇\n\nSegún proyecciones del gobierno ruso citadas por The Moscow Times, China pagará en 2026 unos 248 dólares por mil metros cúbicos de gas por gasoducto, frente a los 562 dólares que Gazprom cobra a otros clientes extranjeros fuera de la antigua Unión Soviética. \n\nEso equivale a un descuento de aproximadamente el 56 %. \n\nEl precio rebajado se interpreta como el coste del apoyo político de Pekín a la guerra de Rusia en Ucrania, en un contexto en el que las sanciones occidentales y la pérdida del mercado europeo han dejado a Gazprom con grandes reservas de gas en Siberia sin compradores claros.\n\nLas conversaciones sobre el gasoducto Power of Siberia 2 siguen estancadas por diferencias de precio, y China llega a pagar más a Turkmenistán que a Rusia. \n\nMientras tanto, Pekín avanza con inversiones en cobre, puertos, energía y conectividad digital en Asia Central, reforzando su influencia regional y aprovechando la posición debilitada de Moscú tanto en el sector energético como en el conjunto de la región.",
+     "snippet": "🇨🇳 China consigue un descuento del 56 % en el Gas ruso mientras Moscú pierde poder de gegociación y Pekín impone sus condiciones 👇\n\nSegún proyecciones del gobierno ruso citadas por The Moscow Times, China pagará en 2026 unos 248 dólares por mil metros cúbicos de gas por gasoducto, frente a los 562 dólares que Gazprom cobra a otros clientes extranjeros fuera de la antigua Unión Soviética. \n\nEso equivale a un descuento de aproximadamente el 56 %. \n\nEl precio rebajado se interpreta como el coste del apoyo político de Pekín a la guerra de Rusia en Ucrania, en un contexto en el que las sanciones occidentales y la pérdida del mercado europeo han dejado a Gazprom con grandes reservas de gas en Siberia sin compradores claros.\n\nLas conversaciones sobre el gasoducto Power of Siberia 2 siguen estancadas por diferencias de precio, y China llega a pagar más a Turkmenistán que a Rusia. \n\nMientras tanto, Pekín avanza con inversiones en cobre, puertos, energía y conectividad digital en Asia Central, reforzando su influencia regional y aprovechando la posición debilitada de Moscú tanto en el sector energético como en el conjunto de la región.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "El Mercurio Ahora o Nunca",
+     "handle": "@elmercurioAON"
+    },
+    {
+     "url": "https://x.com/BayStreetBulls/status/2116472646116442264",
+     "title": "Russia is selling gas to China at half price — because it has to.",
+     "description": "Russia is selling gas to China at half price — because it has to.\n\nDuma documents show Beijing pays about $248 per 1,000 cubic metres for Gazprom pipeline gas in 2026, vs $562 for other foreign buyers. A 56% discount.\n\nThat is what losing your best customer looks like.",
+     "snippet": "Russia is selling gas to China at half price — because it has to.\n\nDuma documents show Beijing pays about $248 per 1,000 cubic metres for Gazprom pipeline gas in 2026, vs $562 for other foreign buyers. A 56% discount.\n\nThat is what losing your best customer looks like.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bay Street Finance",
+     "handle": "@BayStreetBulls"
+    },
+    {
+     "url": "https://x.com/ApexWireApp/status/2116367078286360848",
+     "title": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.",
+     "description": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.\n\nThe renewed contraction complicates China's growth target. Russia's projections put China's 2026 pipeline gas price at about $248 per thousand cubic meters, against $562 for Gazprom's other non-former-Soviet buyers.",
+     "snippet": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.\n\nThe renewed contraction complicates China's growth target. Russia's projections put China's 2026 pipeline gas price at about $248 per thousand cubic meters, against $562 for Gazprom's other non-former-Soviet buyers.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Apex Wire",
+     "handle": "@ApexWireApp"
+    },
+    {
+     "url": "https://x.com/RusOilGasExpert/status/2115810534326984816",
+     "title": "➡️ Chinese gas production jumps in August after an uncharacteristically slow first 7 months.👇 ➡️ This lowers the odds of both higher LNG imp",
+     "description": "➡️ Chinese gas production jumps in August after an uncharacteristically slow first 7 months.👇\n➡️ This lowers the odds of both higher LNG imports and the near-term signing Power of Siberia-2* contract with Russia. \n*Recently re-named to the \"Power of Baikal\"\n#LNG #Russia #China #gas",
+     "snippet": "➡️ Chinese gas production jumps in August after an uncharacteristically slow first 7 months.👇\n➡️ This lowers the odds of both higher LNG imports and the near-term signing Power of Siberia-2* contract with Russia. \n*Recently re-named to the \"Power of Baikal\"\n#LNG #Russia #China #gas",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Russian Oil & Gas Monitor",
+     "handle": "@RusOilGasExpert"
+    },
+    {
+     "url": "https://x.com/matthewl_cn/status/2115961580798235055",
+     "title": "Domestic supply growth at this scale directly displaces spot LNG purchases.",
+     "description": "Domestic supply growth at this scale directly displaces spot LNG purchases. CNPC holds pipeline contract optionality, so Beijing can wait on PoS-2 pricing. Gazprom's position weakens with every incremental bcm from Tarim or Ordos.",
+     "snippet": "Domestic supply growth at this scale directly displaces spot LNG purchases. CNPC holds pipeline contract optionality, so Beijing can wait on PoS-2 pricing. Gazprom's position weakens with every incremental bcm from Tarim or Ordos.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "China Chase Matt",
+     "handle": "@matthewl_cn"
+    },
+    {
+     "url": "https://x.com/zerohedge/status/2116358356042482095",
+     "title": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-r",
+     "description": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
+     "snippet": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "zerohedge",
+     "handle": "@zerohedge"
+    },
+    {
+     "url": "https://x.com/staticAG/status/2116500360428986618",
+     "title": "Wait a minute... According to the article Europe pays $562 per thousand cubic meters and China pays $248. Yet, somehow Russia is losing?",
+     "description": "Wait a minute...  According to the article Europe pays $562 per thousand cubic meters and China pays $248.\n\nYet, somehow Russia is losing?  Isn't Europe the big losers?\n\nAh, the sources: the US Carnegie brain trust and Moscow Times (not located in Moscow but in Bubblefuck Lativa)",
+     "snippet": "Wait a minute...  According to the article Europe pays $562 per thousand cubic meters and China pays $248.\n\nYet, somehow Russia is losing?  Isn't Europe the big losers?\n\nAh, the sources: the US Carnegie brain trust and Moscow Times (not located in Moscow but in Bubblefuck Lativa)",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "a.d.hispania-gallaecia",
+     "handle": "@staticAG"
+    },
+    {
+     "url": "https://x.com/grok/status/2116851021318160409",
+     "title": "Kina. Prema ruskim budžetskim dokumentima, prosek za Power of Siberia u 2026. je oko 248 $/1000 m³. Srbija plaća ~318 € (~360 $) po naftnoj",
+     "description": "Kina. Prema ruskim budžetskim dokumentima, prosek za Power of Siberia u 2026. je oko 248 $/1000 m³. Srbija plaća ~318 € (~360 $) po naftnoj formuli, što je među najnižim u Evropi. Mađarska i ostali plaćaju više (TTF-vezano, prosek ostalih ~562 $).",
+     "snippet": "Kina. Prema ruskim budžetskim dokumentima, prosek za Power of Siberia u 2026. je oko 248 $/1000 m³. Srbija plaća ~318 € (~360 $) po naftnoj formuli, što je među najnižim u Evropi. Mađarska i ostali plaćaju više (TTF-vezano, prosek ostalih ~562 $).",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/Lasereyejoe/status/2116201639795110157",
+     "title": "It really doesnt, otherwise they would be shaking hands on the opening ceremony of power of siberia 2 by now xd instead china is demanding t",
+     "description": "It really doesnt, otherwise they would be shaking hands on the opening ceremony of power of siberia 2 by now xd instead china is demanding terms equal to domestic market in russia",
+     "snippet": "It really doesnt, otherwise they would be shaking hands on the opening ceremony of power of siberia 2 by now xd instead china is demanding terms equal to domestic market in russia",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wojtek",
+     "handle": "@Lasereyejoe"
+    },
+    {
+     "url": "https://x.com/Nobi_Cafettane/status/2116873587906986187",
+     "title": "Per fortuna che i dirigenti cinesi non sono come questo ciglione e hanno saggiamente rinviato sine die il raddoppio di Power of Siberia.",
+     "description": "Per fortuna che i dirigenti cinesi non sono come questo ciglione e hanno saggiamente rinviato sine die il raddoppio di Power of Siberia.",
+     "snippet": "Per fortuna che i dirigenti cinesi non sono come questo ciglione e hanno saggiamente rinviato sine die il raddoppio di Power of Siberia.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Maleficio Capocchiane",
+     "handle": "@Nobi_Cafettane"
+    }
+   ]
+  }
+ ]
+}

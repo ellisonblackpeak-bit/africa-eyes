@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Commission backs Tusk as he vows no compromise in court showdown",
+   "url": "https://www.politico.eu/article/european-commission-backs-donald-tusk-over-poland-constitutional-court-judges/",
+   "content": "\"Appointing the new judges lies within the power of the Sejm,\" Commissioner Michael McGrath told POLITICO.",
+   "published_date": "Sun, 01 Nov 2026 11:52:15 +0000",
+   "score": 0.6
+  },
+  {
    "title": "UK’s future lies in EU, says Rachel Reeves",
    "url": "https://www.politico.eu/article/uk-future-eu-says-rachel-reeves/",
    "content": "The intervention by the former British chancellor comes ahead of a UK-EU summit later this month.",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/poland-president-karol-nawrocki-rule-of-law-crisis/",
    "content": "Karol Nawrocki made his way through protesters around midnight in the latest escalation of his conflict with Prime Minister Donald Tusk.",
    "published_date": "Sat, 31 Oct 2026 10:03:04 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Funding deadlock derails global effort to save nature",
-   "url": "https://www.politico.eu/article/funding-deadlock-derails-global-effort-to-save-nature/",
-   "content": "U.N. biodiversity talks ended with renewed promises to speed up efforts to protect nature — but little clarity on how to pay for it.",
-   "published_date": "Sat, 31 Oct 2026 07:35:24 +0000",
    "score": 0.6
   }
  ],

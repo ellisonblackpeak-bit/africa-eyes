@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/karmawangchukzz/status/2116860028720419278",
+     "title": "Looking at the map of the Himalayas these days is sobering.",
+     "description": "Looking at the map of the Himalayas these days is sobering.\n\n China has quietly constructed military-linked infrastructure and entire villages deep inside Bhutanese-claimed land, while applying political and economic pressure in Nepal through BRI projects & encroachment on land.",
+     "snippet": "Looking at the map of the Himalayas these days is sobering.\n\n China has quietly constructed military-linked infrastructure and entire villages deep inside Bhutanese-claimed land, while applying political and economic pressure in Nepal through BRI projects & encroachment on land.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Karma Wangchuk",
+     "handle": "@karmawangchukzz"
+    },
+    {
+     "url": "https://x.com/kathmandupost/status/2116715599430840550",
+     "title": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream The decision comes after three Chinese companies qualified for the fina",
+     "description": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream\n\nThe decision comes after three Chinese companies qualified for the final round, raising fresh uncertainty over a project meant to irrigate 122,000 hectares across five districts.\n\nhttps://kathmandupost.com/money/2026/11/01/sunkoshi-marin-contract-cancellation-defers-madhesh-irrigation-dream —by @Bimaltirpali",
+     "snippet": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream\n\nThe decision comes after three Chinese companies qualified for the final round, raising fresh uncertainty over a project meant to irrigate 122,000 hectares across five districts.\n\nhttps://kathmandupost.com/money/2026/11/01/sunkoshi-marin-contract-cancellation-defers-madhesh-irrigation-dream —by @Bimaltirpali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Kathmandu Post",
+     "handle": "@kathmandupost"
+    },
+    {
+     "url": "https://x.com/kathmandupost/status/2116015989523718475",
+     "title": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing Authorities aim to restore road access to the Chinese border b",
+     "description": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing\n\nAuthorities aim to restore road access to the Chinese border before rebuilding permanently, while also considering an expressway to Kerung in place of a proposed railway.\n\nhttps://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing — by @Bimaltirpali",
+     "snippet": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing\n\nAuthorities aim to restore road access to the Chinese border before rebuilding permanently, while also considering an expressway to Kerung in place of a proposed railway.\n\nhttps://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing — by @Bimaltirpali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Kathmandu Post",
+     "handle": "@kathmandupost"
+    },
+    {
+     "url": "https://x.com/NoOnefcoy0/status/2116507940219965618",
+     "title": "Absolutely Angelo. Nepal needs three more years of trade preferences because 50 years of Western aid didn't build functional economy. China",
+     "description": "Absolutely Angelo. Nepal needs three more years of trade preferences because 50 years of Western aid didn't build functional economy. China builds roads. West builds dependency. The contrast is whole story of 21st century.",
+     "snippet": "Absolutely Angelo. Nepal needs three more years of trade preferences because 50 years of Western aid didn't build functional economy. China builds roads. West builds dependency. The contrast is whole story of 21st century.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NoOne",
+     "handle": "@NoOnefcoy0"
+    },
+    {
+     "url": "https://x.com/FrancisClete/status/2116604330459672789",
+     "title": "👹 CHINESE BELT & ROAD PROJECTS KILL COUNTRIES 👹 ⚠️ SERBIA = Belgrade latest example = The People Rebel ⚠️ ⚠️ KENYA / NEPAL / PERUS / INDONES",
+     "description": "👹 CHINESE BELT & ROAD \nPROJECTS KILL COUNTRIES 👹\n\n⚠️ SERBIA  = Belgrade latest \nexample = The People Rebel ⚠️\n\n⚠️ KENYA / NEPAL / PERUS / \nINDONESIA ⚠️\n\n🥵 CRIPPLING CORRUPTION+\nDEBT TRAP = DESTRUCTION 🥵\n\n👺 CHINA LOSING GRIP 👺\n\nhttps://www.youtube.com/watch?v=bCzouT41kzg",
+     "snippet": "👹 CHINESE BELT & ROAD \nPROJECTS KILL COUNTRIES 👹\n\n⚠️ SERBIA  = Belgrade latest \nexample = The People Rebel ⚠️\n\n⚠️ KENYA / NEPAL / PERUS / \nINDONESIA ⚠️\n\n🥵 CRIPPLING CORRUPTION+\nDEBT TRAP = DESTRUCTION 🥵\n\n👺 CHINA LOSING GRIP 👺\n\nhttps://www.youtube.com/watch?v=bCzouT41kzg",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tarot Lumination",
+     "handle": "@FrancisClete"
+    },
+    {
+     "url": "https://x.com/PrinceSajnani/status/2116501734130631044",
+     "title": "🇧🇹 #Bhutan’s glacial lake outburst triggered flood alerts across Assam & West Bengal, while #Nepal has suffered devastating floods.",
+     "description": "🇧🇹 #Bhutan’s glacial lake outburst triggered flood alerts across Assam & West Bengal, while #Nepal has suffered devastating floods.\nWith #China expanding infrastructure across occupied #Tibet, upstream transparency is non-negotiable. @JackKornfield 1/",
+     "snippet": "🇧🇹 #Bhutan’s glacial lake outburst triggered flood alerts across Assam & West Bengal, while #Nepal has suffered devastating floods.\nWith #China expanding infrastructure across occupied #Tibet, upstream transparency is non-negotiable. @JackKornfield 1/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Prince Sajnani",
+     "handle": "@PrinceSajnani"
+    },
+    {
+     "url": "https://x.com/RitvikRana208/status/2116491869576155272",
+     "title": "1st #Nepal faced devastating consequences of floods; now #Bhutan confronts GLOF dangers amid growing Chinese infrastructure activity in #Tib",
+     "description": "1st #Nepal faced devastating consequences of floods; now #Bhutan confronts GLOF dangers amid growing Chinese infrastructure activity in #Tibet.\n#BalenShah must stop romanticising #Beijing.\nNational security & Himalayan ecology matter more than political friendships. @jonkabatzinn",
+     "snippet": "1st #Nepal faced devastating consequences of floods; now #Bhutan confronts GLOF dangers amid growing Chinese infrastructure activity in #Tibet.\n#BalenShah must stop romanticising #Beijing.\nNational security & Himalayan ecology matter more than political friendships. @jonkabatzinn",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ritvik Rana",
+     "handle": "@RitvikRana208"
+    },
+    {
+     "url": "https://x.com/engnepalviews/status/2115668384432222432",
+     "title": "The southern section passes through Nepalgunj, Kohalpur, and Surkhet before extending north through the hilly and mountainous areas of Karna",
+     "description": "The southern section passes through Nepalgunj, Kohalpur, and Surkhet before extending north through the hilly and mountainous areas of Karnali to Hilsa in Humla.\n\n🔗: https://english.nepalviews.com/2026/10/29/karnali-corridor-envisioned-as-north-south-trade-route-linking-india-and-china\n\n#nepalviews #nepalviewsenglish #IndiaChina #karnalicorridor",
+     "snippet": "The southern section passes through Nepalgunj, Kohalpur, and Surkhet before extending north through the hilly and mountainous areas of Karnali to Hilsa in Humla.\n\n🔗: https://english.nepalviews.com/2026/10/29/karnali-corridor-envisioned-as-north-south-trade-route-linking-india-and-china\n\n#nepalviews #nepalviewsenglish #IndiaChina #karnalicorridor",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nepal Views English",
+     "handle": "@engnepalviews"
+    },
+    {
+     "url": "https://x.com/Udumbara_net/status/2116364490841424123",
+     "title": "https://udumbara.net/fury-at-chinas-belt-and-road-nationwide-protests-sweep-serbia-hungary-nepal-and-kenya",
+     "description": "https://udumbara.net/fury-at-chinas-belt-and-road-nationwide-protests-sweep-serbia-hungary-nepal-and-kenya",
+     "snippet": "https://udumbara.net/fury-at-chinas-belt-and-road-nationwide-protests-sweep-serbia-hungary-nepal-and-kenya",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Udumbara.net",
+     "handle": "@Udumbara_net"
+    },
+    {
+     "url": "https://x.com/grok/status/2116889227958812809",
+     "title": "Yes, primarily at Korala. Rasuwagadhi and Tatopani (the usual main routes for Chinese EVs) have been closed or heavily disrupted by floods a",
+     "description": "Yes, primarily at Korala. Rasuwagadhi and Tatopani (the usual main routes for Chinese EVs) have been closed or heavily disrupted by floods and landslides since late August. Trade was diverted there, so Korala cleared 6,501 EVs (mid-July–Oct 30). National Q1 total was ~6,636 EVs overall; China supplied most, nearly all via Korala. Limited activity has resumed at Rasuwagadhi but remains minor.",
+     "snippet": "Yes, primarily at Korala. Rasuwagadhi and Tatopani (the usual main routes for Chinese EVs) have been closed or heavily disrupted by floods and landslides since late August. Trade was diverted there, so Korala cleared 6,501 EVs (mid-July–Oct 30). National Q1 total was ~6,636 EVs overall; China supplied most, nearly all via Korala. Limited activity has resumed at Rasuwagadhi but remains minor.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

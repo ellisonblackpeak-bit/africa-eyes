@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Máy bay Vietnam Airlines hạ cánh xuống Pakistan vì hành khách co giật",
-   "url": "https://tuoitre.vn/may-bay-vietnam-airlines-ha-canh-xuong-pakistan-vi-hanh-khach-co-giat-100261101120623368.htm",
-   "content": "Chuyến bay từ TP.HCM đi Munich (Đức) của Vietnam Airlines phải chuyển hướng hạ cánh xuống sân bay Islamabad (Pakistan) sau khi một hành khách quốc tịch Đức bất ngờ lên cơn co giật.",
-   "published_date": "11/1/2026 12:49:00 PM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
