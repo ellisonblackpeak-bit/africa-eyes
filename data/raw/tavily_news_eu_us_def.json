@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Europe's Top NATO Powers Pledge to Commit More to Defence, Reaffirm U.S. Alliance",
-   "url": "https://www.breitbart.com/europe/2026/10/27/trump-effect-top-nato-powers-pledge-to-commit-more-to-defence-reaffirm-u-s-alliance",
-   "snippet": "The United States is, by far, the country that has the highest military spending of NATO countries, accounting for over one trillion U.S. dollars of the combined NATO military defense spending of 1.8 trillion dollars.\n\nBy contrast, the other 31 member states of NATO combined spent approximately $777 billion on defense, highlighting the key position the U.S. holds in the alliance.\n\n##### Follow Sim",
-   "published": "Tue, 27 Oct 2026 09:59:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe’s Defense Dilemma | Council on Foreign Relations",
-   "url": "https://www.cfr.org/reports/europes-defense-dilemma",
-   "snippet": "preserves American nuclear leadership, and sustains the alliance as Washington’s principal vehicle for political and military influence in Europe and as a basis to project power globally. There are also clear economic incentives. European commitments to spend 5 percent of GDP on defense by 2035 expand the transatlantic defense market, as Europeans will continue to rely in some measure on American ",
-   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Sir Keir Starmer: Europe can't rely on US to 'bankroll' defence, Dublin event told - BBC News",
-   "url": "http://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo",
-   "snippet": "But he said Europe must be enabled to \"take on far more responsibility for its own defence and security\".\n\nTrump says Nato's new 5% defence spending pledge a 'big win'\n\n\"Europe has twice been caught asleep – failing to anticipate and prepare for predictable events,\" he said. [...] Sir Keir was at the dinner to be awarded an honorary life membership from the BICC.\n\nUK Prime Minister Keir Starmer an",
-   "published": "Sat, 31 Oct 2026 13:19:56 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Britain told to plan for war without Trump’s America",
-   "url": "https://ukdefencejournal.org.uk/britain-told-to-plan-for-war-without-trumps-america",
-   "snippet": "The issue is Europe isn’t a single country and so it deciding to do something without a serious threat to individual countries is zero. Just have to go back to start of ww2 and how far Hitler managed to push things before countries actually did anything.\n\n     Reply\n3. Europe and canada spending 3% on core defence well is sufficient to deal with Russia. Key is ‘well’. [...] Sadly, Europe, includin",
-   "published": "Mon, 26 Oct 2026 20:25:26 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Starmer: Change in Europe-US defence ties is ‘permanent, not Trump aberration’",
-   "url": "https://nation.cymru/news/starmer-change-in-europe-us-defence-ties-is-permanent-not-trump-aberration",
-   "snippet": "“That doesn’t mean the US relationship is no longer important. On the contrary, the military, security and intelligence alliance is far too strong for that.\n\n“But it does mean enabling Europe to take on far more responsibility for its own defence and security.”\n\nSir Keir said increased defence spending was part of the picture, but that the challenge “goes far beyond that”. [...] “First when Russia",
-   "published": "Sat, 31 Oct 2026 15:32:34 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe cannot defend itself through the budget alone - OMFIF",
-   "url": "https://www.omfif.org/2026/10/europe-cannot-defend-itself-through-the-budget-alone",
-   "snippet": "Europe therefore arrives at the present crisis with a widening economic gap with the US and continued military dependence on it. The obvious response is higher defence spending, but if every additional requirement must be met through higher taxes, borrowing or cuts elsewhere, the political and fiscal limits will quickly become apparent. Europe is trying to solve a balance-sheet problem through the",
-   "published": "Thu, 29 Oct 2026 15:56:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How Recent Starlink Restrictions Expose Europe’s Dependence on US Military Space Services — Bloomsbury Intelligence and Security Institute (BISI)",
-   "url": "https://bisi.org.uk/reports/how-recent-starlink-restrictions-expose-europes-dependence-on-us-military-space-services",
-   "snippet": "These tensions sit within a broader rush by the EU to spend on satellite-related capabilities. European military space investment is expected to exceed USD 109b by 2030, with Germany committing EUR 35b (USD 39b) over five years and France EUR 10.2b (USD 11.4b) for 2026-2030. However, without coordination, this spending may amount to “an aggregation of national systems, rather than an integrated op",
-   "published": "Tue, 27 Oct 2026 06:00:58 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Sir Kier Starmer: Europe can't rely on US bankroll for defence",
-   "url": "https://www.bbc.com/news/articles/cxnv0p4l7rjlo",
-   "snippet": "Sir Keir was at the dinner to be awarded an honorary life membership from the BICC.\n\nGetty Images UK Prime Minister Keir Starmer and US President Donald Trump shake hands at a joint press conference in the East Room at the White House in February 2025\n\nSir Keir said increased defence spending was part of the picture, but that the challenge \"goes far beyond that.\" [...] \"First when Russia's attack ",
-   "published": "Sat, 31 Oct 2026 13:19:56 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Baltics, Nordics, Poland and Ukraine are 'Europe's shield' / Article",
-   "url": "https://eng.lsm.lv/article/society/defence/17.02.2026-baltics-nordics-poland-and-ukraine-are-europes-shield.a635056",
-   "snippet": "Poland allocated 4.5% to defense, Lithuania – 4%, Latvia – 3.7%, Estonia and Norway – 3.4%, Denmark – 3.2%, and Finland and Sweden – just under 3%.",
-   "published": "Fri, 30 Oct 2026 23:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

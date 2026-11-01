@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Testimonies from Oleshky",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261031-testimonies-from-oleshky",
+   "content": "American Filmmaker Zarina Zabrisky has lived and reported across the Dnipro River in Ukrainian controlled Kherson for the past three years. She’s been speaking to France 24’s Gavin Lee about the events of the past 24 hours.",
+   "published_date": "Sat, 31 Oct 2026 23:54:21 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
    "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
    "content": "Around 320,000 protesters took part in a third mass protest over living costs across France on Saturday, the interior ministry estimated, while organizers counted nearly half a million. Tensions flared ​at the end of marches in ​some cities but authorities reported that most demonstrations were largely peaceful.",
@@ -160,13 +167,6 @@
    "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
    "content": "France braces for another weekend of unrest as the Yellow Vests return to the streets under the rallying cry of ‘Act III – Halloween’, with 70,000 police and security forces deployed after the riots and looting of recent weeks. A cash-strapped government faces mounting grievances, a rolling protest movement and little room for manoeuvre ahead of elections, as it struggles to restore order while grappling with crippling debt.",
    "published_date": "Sat, 31 Oct 2026 00:30:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Trump admin approves potential Patriot missiles sale to Ukraine",
-   "url": "https://www.france24.com/en/americas/20261030-trump-admin-approves-potential-patriot-missiles-sale-to-ukraine",
-   "content": "",
-   "published_date": "Fri, 30 Oct 2026 23:19:47 GMT",
    "score": 0.6
   }
  ],

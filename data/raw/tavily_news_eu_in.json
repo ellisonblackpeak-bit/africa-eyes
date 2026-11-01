@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "India and Europe accelerate trade ties - Brussels Signal",
-   "url": "https://brusselssignal.eu/2026/10/india-and-europe-accelerate-trade-ties-but-investment-remains-the-big-unknown",
-   "snippet": "The economic figures explain the interest.\n\nAccording to Eurostat data published by the Council of the EU, merchandise trade between India and the EU-27 reached €118 billion in 2025. Europe imported €69.5 billion worth of Indian goods and exported €48.9 billion, resulting in a trade deficit of €20.6 billion. That made the EU India’s second-largest trading partner in goods, behind the United States",
-   "published": "Thu, 29 Oct 2026 08:14:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "PM Modi to sign India-EU trade deal in December",
-   "url": "https://www.facebook.com/WIONews/posts/wionworlddna-pm-modi-to-sign-india-eu-trade-deal-in-december-india-and-the-eu-re/1491134713125698",
-   "snippet": "For the year ended March 2025, India's goods trade with EU stood at $136 billion. India is the ninth largest trading partner of the EU, accounting for 2.4% of",
-   "published": "Fri, 30 Oct 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "India-EU trade deal could take effect by mid-2027",
-   "url": "https://www.facebook.com/EconomicTimes/posts/india-eu-trade-deal-could-take-effect-by-mid-2027-the-european-parliaments-forei/1635245115298057",
-   "snippet": "The proposed EU–India trade agreement aims to reduce tariffs, improve market access, and strengthen cooperation across key sectors such as pharmaceuticals,",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "PM Modi To Sign India-EU Trade Deal In December | WION World DNA",
-   "url": "https://www.youtube.com/watch?v=S4BG4Y_zftY",
-   "snippet": "[1:45] India EU bilateral goods trade reached around $136.5 billion in the 202425\n[1:51] financial year. India exported about 75.85 billion worth of goods to the EU while imports stood at around $60.68\n[2:01] billion. Trade and services added another $83.1 billion in 2024. The\n[2:08] European Commission estimates that the agreement could save European exporters around $4.47 47 million annually in ",
-   "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "🇪🇺 🇮🇳 The EU–India trade agreement is moving towards ...",
-   "url": "https://www.reddit.com/r/EU_Economics/comments/1xj86g4/the_euindia_trade_agreement_is_moving_towards",
-   "snippet": "If approved, the agreement will eliminate or reduce tariffs on more than 96% of EU goods exports to India and is expected to save European exporters around €4",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/DfHPU6gmr6I",
-   "snippet": "#LinkInBio | India-EU trade deal could take effect by mid-2027 | The European Parliament’s Foreign Affairs Committee Chair, David McAllister, said the India-EU FTA is expected to be signed by mid-December 2026 and a consent vote is expected by spring next year, paving the way for the trade agreement to officially enter into force by mid-2027, TOI reported. PM Modi is expected to travel to Brussels",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "'Win-Win For All': Piyush Goyal Said On India-EU Free Trade Deal",
-   "url": "https://www.ndtv.com/world-news/win-win-for-all-piyush-goyal-said-on-india-eu-free-trade-deal-12241723",
-   "snippet": "The India-European Union Free Trade Agreement (FTA) is a 'win-win' for all parties, making Europe critical in New Delhi's journey towards 'Viksit Bharat (developed India) by 2047, said Commerce Minister Piyush Goyal, who is on a five-day bilateral visit to Germany and the Netherlands. Talking to NDTV, Goyal said the trade deal with the EU is on course to become the fastest agreement the bloc has e",
-   "published": "Tue, 27 Oct 2026 07:46:04 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "'Mother Of All Deals' Between India And Europe Ready For ...",
-   "url": "https://www.eij.news/post/india-eu-free-trade-agreement-mother-of-all-deals-ready-for-december-2026",
-   "snippet": "India and the European Union are working quickly to sign a major India-EU Free Trade Agreement by mid-December 2026.",
-   "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "India's Modi to sign EU trade deal in Brussels in December",
-   "url": "https://bilaterals.org/india-s-modi-to-sign-eu-trade-deal-in-brussels-in-december",
-   "snippet": "The EU and India closed negotiations for a huge trade pact earlier this year, but the accord is yet to be formally signed.",
-   "published": "Fri, 30 Oct 2026 23:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_in",
  "_query": "EU India trade",
  "_domains": [],

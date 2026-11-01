@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
-   "url": "https://www.militarytimes.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
-   "snippet": "The Pentagon has already begun reducing its footprint in Europe. About 80,000 U.S. troops were stationed there across roughly 30 bases as of 2025, according to congressional testimony from the head of U.S. European Command cited in the report.\n\nIn May, the Pentagon announced it would pull about 5,000 troops out of Germany. Then in June, the U.S. cut the forces it would make available to NATO in a ",
-   "published": "Thu, 29 Oct 2026 22:25:10 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says - Defense News",
-   "url": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
-   "snippet": "The Pentagon has already begun reducing its footprint in Europe. About 80,000 U.S. troops were stationed there across roughly 30 bases as of 2025, according to congressional testimony from the head of U.S. European Command cited in the report.\n\nIn May, the Pentagon announced it would pull about 5,000 troops out of Germany. Then in June, the U.S. cut the forces it would make available to NATO in a ",
-   "published": "Thu, 29 Oct 2026 22:25:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How Would a War With Russia Unfold?",
-   "url": "https://www.youtube.com/watch?v=kp0jkUqVuok",
-   "snippet": "[4:12] 800,000 soldiers across the entirety of mainland Europe. Many of them will come from the US. Around 86,000 American\n[4:19] soldiers are already stationed [music] across the continent. When the Sakur was informed about Russia's imminent attack, he decided to bring in additional troops\n[4:26] from overseas. But currently, moving hundreds of thousands of NATO troops from Europe's Atlantic coas",
-   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe’s Defense Dilemma | Council on Foreign Relations",
-   "url": "https://www.cfr.org/reports/europes-defense-dilemma",
-   "snippet": "NATO 3.0, in which Europeans take on primary (although not exclusive) responsibility for Europe’s conventional defense.1 In 2026, the U.S. government undertook steps to reduce its force levels in Europe, as well as the capabilities it assigns to NATO in case of a crisis, and ordered a force posture review to analyze what U.S. military assets might be further removed from Europe.2 European NATO all",
-   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Rubio to Al Jazeera: There Is No NATO Without the U.S",
-   "url": "https://www.facebook.com/RealTrishRegan/videos/there-is-no-nato-without-the-us/985538117942375",
-   "snippet": "She presents a clip of Senator Marco Rubio arguing that NATO would not exist without U.S. troops and weaponry stationed in Europe. Regan concludes by",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "How the United States Retrenches Matters: Key NATO Allies’ Likely Responses to Alternative U.S. Approaches | RAND",
-   "url": "https://www.rand.org/pubs/research_briefs/RBA5006-1.html",
-   "snippet": "Encourage deeper regional cooperation. NATO 3.0 envisions a self-sufficient Europe that reduces the burden on U.S. forces. Because no one ally is prepared to fill the U.S. role, allies will need to work together to increase their collective strength.\n Avoid leveraging U.S. presence and commitments for secondary U.S. priorities. Policymakers need to weigh the downside of U.S. pressure—undermining r",
-   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US military pullback from NATO: Europe quickly fills the gap",
-   "url": "https://www.facebook.com/groups/1074810956909032/posts/1783838612672926",
-   "snippet": "On June 3, the Pentagon informed its NATO allies it would no longer commit as much to the continent's defense, including an aircraft carrier and support ships,",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

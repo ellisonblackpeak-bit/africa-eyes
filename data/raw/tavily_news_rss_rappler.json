@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "How chefs Kevin Uy and Gabriel Ong steered FLOW to one Michelin star",
+   "url": "https://www.rappler.com/people/newsmakers/kevin-uy-gabriel-ong-flow-michelin-star/",
+   "content": "For Filipino chefs Kevin Uy and Gabriel Ong, returning home isn't just a culinary homecoming — it’s a humbling, emotional rediscovery of the country they thought they knew",
+   "published_date": "Sun, 01 Nov 2026 10:00:00 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "[Time Trowel] Ube is taking over the world. So why are Filipinos still obsessed with rice?",
+   "url": "https://www.rappler.com/voices/thought-leaders/time-trowel-philippines-invest-alternative-crops-ube-taro/",
+   "content": "While the Philippines remains heavily reliant on rice despite being a major importer, recognizing and investing in alternative root crops like ube and taro can enhance food security and agricultural diversity",
+   "published_date": "Sun, 01 Nov 2026 09:00:00 +0800",
+   "score": 0.6
+  },
+  {
    "title": "‘Hope and help’: How the Philippines fights to lower breast cancer deaths",
    "url": "https://www.rappler.com/people/human-interest/philippines-fights-lower-breast-cancer-deaths/",
    "content": "While treatments for late-stage breast cancer have reached the Philippines, medical professionals point out that making them available is vastly different from making them affordable and accessible",
    "published_date": "Sat, 31 Oct 2026 17:00:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "EXPLAINER: Is going solar affordable now?",
-   "url": "https://www.rappler.com/philippines/rooftop-solar-affordable-financing-options/",
-   "content": "Solar financing options have come a long way in the past year. Here’s a look at the current possibilities — and constraints — for ordinary Filipino households that want to go solar.",
-   "published_date": "Sat, 31 Oct 2026 13:30:00 +0800",
    "score": 0.6
   }
  ],

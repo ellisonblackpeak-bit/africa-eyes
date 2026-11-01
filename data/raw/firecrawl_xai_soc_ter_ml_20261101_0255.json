@@ -1,0 +1,116 @@
+{
+ "query": "Mali JNIM EIGS Bamako Gao Kidal jihadist attack",
+ "_tag": "soc_ter_ml",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/SahelAlerte/status/2116510945178533961",
+     "title": "🔴 MALI 🇲🇱 | 💥 SIKASSO FRAPPÉE DEUX FOIS EN TROIS JOURS : LE JNIM INSTALLE LA GUERRE DES AXES JUSQU'AU SUD DU PAYS Entre le 23 et le 30 octob",
+     "description": "🔴 MALI 🇲🇱 | 💥 SIKASSO FRAPPÉE DEUX FOIS EN TROIS JOURS : LE JNIM INSTALLE LA GUERRE DES AXES JUSQU'AU SUD DU PAYS\n\nEntre le 23 et le 30 octobre 2026, sept incidents distincts ont visé les FAMa et leurs partenaires d'Africa Corps. Le 23 : embuscade du JNIM contre une patrouille à Sikasso, dans la soirée. Le 24 : embuscade contre une patrouille à Diabaly. Le 25 : attaque à l'engin explosif improvisé contre un convoi entre Héremakono et Sikasso. Le 28 : attaque à l'IED du JNIM contre un poste de l'armée à Nampala. Le 29 : IED contre un véhicule FAMa et Africa Corps entre Mourdiah et Kwala, et revendication du FLA contre le camp FAMa et Africa Corps de Léré, dans la région de Tombouctou. Le 30 : IED contre un véhicule des FAMa entre Zangossou et Bourasso. [1]\n\nTrois constats ressortent de cette séquence. Le premier est le mode opératoire : quatre incidents sur sept sont des attaques à l'IED, deux sont des embuscades, un est une revendication d'attaque de camp. Le JNIM et le FLA frappent ici les déplacements, bien plus que les garnisons. Le deuxième est la géographie. Sikasso est touché deux fois en trois jours (23 et 25 octobre), alors que le sud du Mali restait à l'écart des principaux fronts. Les autres incidents se répartissent entre le centre-ouest (Diabaly, Nampala, Mourdiah-Kwala) et le nord-ouest (Léré). Le troisième est la présence de deux acteurs : le JNIM est mis en cause pour Sikasso et Nampala, le FLA revendique Léré, un mois après le repli de Kidal.\n\nLes sources ne donnent aucun bilan humain pour ces sept incidents. Ce vide a lui-même un sens : après Dioura, Sévaré et le silence de l'État-Major sur ses pertes, l'absence de chiffres ne permet pas de conclure à l'absence de victimes. Pour les familles des soldats, les convois se déplacent désormais sur des axes où chaque trajet comporte un risque d'IED. L'État-Major avait annoncé, après Kidal, la reprise du contrôle du nord. Ces incidents montrent que la route entre les villes reste, elle, contestée.\n\nPar Djabire Marwan Ouédraogo | Dans l'œil de DMO©",
+     "snippet": "🔴 MALI 🇲🇱 | 💥 SIKASSO FRAPPÉE DEUX FOIS EN TROIS JOURS : LE JNIM INSTALLE LA GUERRE DES AXES JUSQU'AU SUD DU PAYS\n\nEntre le 23 et le 30 octobre 2026, sept incidents distincts ont visé les FAMa et leurs partenaires d'Africa Corps. Le 23 : embuscade du JNIM contre une patrouille à Sikasso, dans la soirée. Le 24 : embuscade contre une patrouille à Diabaly. Le 25 : attaque à l'engin explosif improvisé contre un convoi entre Héremakono et Sikasso. Le 28 : attaque à l'IED du JNIM contre un poste de l'armée à Nampala. Le 29 : IED contre un véhicule FAMa et Africa Corps entre Mourdiah et Kwala, et revendication du FLA contre le camp FAMa et Africa Corps de Léré, dans la région de Tombouctou. Le 30 : IED contre un véhicule des FAMa entre Zangossou et Bourasso. [1]\n\nTrois constats ressortent de cette séquence. Le premier est le mode opératoire : quatre incidents sur sept sont des attaques à l'IED, deux sont des embuscades, un est une revendication d'attaque de camp. Le JNIM et le FLA frappent ici les déplacements, bien plus que les garnisons. Le deuxième est la géographie. Sikasso est touché deux fois en trois jours (23 et 25 octobre), alors que le sud du Mali restait à l'écart des principaux fronts. Les autres incidents se répartissent entre le centre-ouest (Diabaly, Nampala, Mourdiah-Kwala) et le nord-ouest (Léré). Le troisième est la présence de deux acteurs : le JNIM est mis en cause pour Sikasso et Nampala, le FLA revendique Léré, un mois après le repli de Kidal.\n\nLes sources ne donnent aucun bilan humain pour ces sept incidents. Ce vide a lui-même un sens : après Dioura, Sévaré et le silence de l'État-Major sur ses pertes, l'absence de chiffres ne permet pas de conclure à l'absence de victimes. Pour les familles des soldats, les convois se déplacent désormais sur des axes où chaque trajet comporte un risque d'IED. L'État-Major avait annoncé, après Kidal, la reprise du contrôle du nord. Ces incidents montrent que la route entre les villes reste, elle, contestée.\n\nPar Djabire Marwan Ouédraogo | Dans l'œil de DMO©",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sahel Alerte",
+     "handle": "@SahelAlerte"
+    },
+    {
+     "url": "https://x.com/SimNasr/status/2116226885705167258",
+     "title": "Mutaraka’ — an undeclared informal truce — appears to be the dominant strategy of the moment of the juntas in Mali and Burkina Faso vis-à-vi",
+     "description": "Mutaraka’ — an undeclared informal truce — appears to be the dominant strategy of the moment of the juntas in Mali and Burkina Faso vis-à-vis ISSP. ISSP’s vital expansion space lies in JNIM territory, not in government-held territories, and the most important threat to governments comes from JNIM, not ISSP. For the three Sahel juntas, JNIM is a major security and political threat, while ISSP poses a real security challenge but offers no viable or appetizing political horizon. Local juntas, their backers, and even some decision-makers could see this as a way to weaken JNIM, with the aim of tackling ISSP later. This, however, is an extremely hazardous strategy since the Sahel dynamics are moving fast and are mostly dictated by the two main warring jihadi groups @TheSoufanCenter",
+     "snippet": "Mutaraka’ — an undeclared informal truce — appears to be the dominant strategy of the moment of the juntas in Mali and Burkina Faso vis-à-vis ISSP. ISSP’s vital expansion space lies in JNIM territory, not in government-held territories, and the most important threat to governments comes from JNIM, not ISSP. For the three Sahel juntas, JNIM is a major security and political threat, while ISSP poses a real security challenge but offers no viable or appetizing political horizon. Local juntas, their backers, and even some decision-makers could see this as a way to weaken JNIM, with the aim of tackling ISSP later. This, however, is an extremely hazardous strategy since the Sahel dynamics are moving fast and are mostly dictated by the two main warring jihadi groups @TheSoufanCenter",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Wassim Nasr",
+     "handle": "@SimNasr"
+    },
+    {
+     "url": "https://x.com/sputnik_afrique/status/2116511094545973384",
+     "title": "Moscou alerte régulièrement l’Onu sur le soutien extérieur aux groupes terroristes en Afrique de l'Ouest Dans un entretien avec Sputnik, Ann",
+     "description": "Moscou alerte régulièrement l’Onu sur le soutien extérieur aux groupes terroristes en Afrique de l'Ouest\n \nDans un entretien avec Sputnik, Anna Evstigneïeva, représentante russe à l'Onu, pointe directement une coopération de la France et de l'Ukraine avec les groupes armés au Sahel:\n \n\"Grâce à leur aide, les terroristes du Groupe de soutien à l'islam et aux musulmans (JNIM, lié à Al-Qaïda*) et du Front de libération de l'Azawad ont mené, en avril, une attaque contre Bamako et les plus grandes villes du Mali.\"\n \n📹 Vidéo tirée des réseaux sociaux: des camions attaqués par le JNIM* près de Bamako.\n\n*Organisation terroriste interdite en Russie",
+     "snippet": "Moscou alerte régulièrement l’Onu sur le soutien extérieur aux groupes terroristes en Afrique de l'Ouest\n \nDans un entretien avec Sputnik, Anna Evstigneïeva, représentante russe à l'Onu, pointe directement une coopération de la France et de l'Ukraine avec les groupes armés au Sahel:\n \n\"Grâce à leur aide, les terroristes du Groupe de soutien à l'islam et aux musulmans (JNIM, lié à Al-Qaïda*) et du Front de libération de l'Azawad ont mené, en avril, une attaque contre Bamako et les plus grandes villes du Mali.\"\n \n📹 Vidéo tirée des réseaux sociaux: des camions attaqués par le JNIM* près de Bamako.\n\n*Organisation terroriste interdite en Russie",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sputnik Afrique",
+     "handle": "@sputnik_afrique"
+    },
+    {
+     "url": "https://x.com/AlerteSahel/status/2116476169415540949",
+     "title": "Samedi noir au Mali : Des terroristes neutralisés dans la région de Mopti Plusieurs terroristes membres de milices pro-Goita, ont été neutra",
+     "description": "Samedi noir au Mali : Des terroristes neutralisés dans la région de Mopti\n\nPlusieurs terroristes membres de milices pro-Goita, ont été neutralisés dans la matinée de ce Samedi 31 Octobre à Bayman, dans la région de Mopti au Mali lors d'une attaque revendiquée par le JNIM.\n\nLe mouvement djihadiste affirme par ailleurs, avoir pris le contrôle de la position millions qu'occupait ces miliciens Russafricains.",
+     "snippet": "Samedi noir au Mali : Des terroristes neutralisés dans la région de Mopti\n\nPlusieurs terroristes membres de milices pro-Goita, ont été neutralisés dans la matinée de ce Samedi 31 Octobre à Bayman, dans la région de Mopti au Mali lors d'une attaque revendiquée par le JNIM.\n\nLe mouvement djihadiste affirme par ailleurs, avoir pris le contrôle de la position millions qu'occupait ces miliciens Russafricains.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alerte Sahel",
+     "handle": "@AlerteSahel"
+    },
+    {
+     "url": "https://x.com/sahara_rebelle/status/2115919194135118253",
+     "title": "On parle d un affrontements entre l EIGS et l armée malienne et AC dans la soirée au sud de Gao",
+     "description": "On parle d un affrontements entre l EIGS et l armée malienne et AC dans la soirée au sud de Gao",
+     "snippet": "On parle d un affrontements entre l EIGS et l armée malienne et AC dans la soirée au sud de Gao",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "sahara Rebelle",
+     "handle": "@sahara_rebelle"
+    },
+    {
+     "url": "https://x.com/Cn_Bone/status/2115798432975892767",
+     "title": "#JNIM has once again released three “combat achievement announcements.” On the Mali side, the IED attack targeting FAMa + Russian-related fo",
+     "description": "#JNIM has once again released three “combat achievement announcements.” On the Mali side, the IED attack targeting FAMa + Russian-related forces constitutes a war of attrition against core transportation routes and foreign support. In Burkina Faso, the focus is on striking VDP militia positions (two cases of “complete control”), which represents an ongoing effort to expand control vacuums and weaken the government’s grassroots presence. Simultaneous operations on the eastern axis (Fada N’Gourma/Bilanga) and the north-central axis (Kaya/Namsigya) demonstrate cross-regional coordination capabilities.",
+     "snippet": "#JNIM has once again released three “combat achievement announcements.” On the Mali side, the IED attack targeting FAMa + Russian-related forces constitutes a war of attrition against core transportation routes and foreign support. In Burkina Faso, the focus is on striking VDP militia positions (two cases of “complete control”), which represents an ongoing effort to expand control vacuums and weaken the government’s grassroots presence. Simultaneous operations on the eastern axis (Fada N’Gourma/Bilanga) and the north-central axis (Kaya/Namsigya) demonstrate cross-regional coordination capabilities.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "BoneAlpha",
+     "handle": "@Cn_Bone"
+    },
+    {
+     "url": "https://x.com/Africansessence/status/2116174570516623662",
+     "title": "Russian Africa Corps and Malian army medics provided aid to residents of liberated Kidal.",
+     "description": "Russian Africa Corps and Malian army medics provided aid to residents of liberated Kidal. GATIA fighters, who took part in the liberation operation, also participated.\n\nEarlier on Oct 7, Malian forces and Africa Corps liberated Kidal from FLA and JNIM (Al-Qaeda-linked) militants.",
+     "snippet": "Russian Africa Corps and Malian army medics provided aid to residents of liberated Kidal. GATIA fighters, who took part in the liberation operation, also participated.\n\nEarlier on Oct 7, Malian forces and Africa Corps liberated Kidal from FLA and JNIM (Al-Qaeda-linked) militants.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Joseph Macaulay",
+     "handle": "@Africansessence"
+    },
+    {
+     "url": "https://x.com/TOTO123AFRICA/status/2116233850552782964",
+     "title": "🚨 ALERTE : LE JNIM AUX PORTES DE LA GUINÉE 🇬🇳 ?! Le groupe revendique de nouvelles attaques contre l’armée malienne 🇲🇱 à Sikasso et Ségou.",
+     "description": "🚨 ALERTE : LE JNIM AUX PORTES DE LA GUINÉE 🇬🇳 ?!\n\nLe groupe  revendique de nouvelles attaques contre l’armée malienne 🇲🇱 à Sikasso et Ségou. Bamako riposte par des frappes aériennes. LA MENACE S’ÉTEND ET INQUIÈTE TOUTE LA RÉGION.",
+     "snippet": "🚨 ALERTE : LE JNIM AUX PORTES DE LA GUINÉE 🇬🇳 ?!\n\nLe groupe  revendique de nouvelles attaques contre l’armée malienne 🇲🇱 à Sikasso et Ségou. Bamako riposte par des frappes aériennes. LA MENACE S’ÉTEND ET INQUIÈTE TOUTE LA RÉGION.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TOTO AFRICA",
+     "handle": "@TOTO123AFRICA"
+    },
+    {
+     "url": "https://x.com/CEENASA396971/status/2115857053973352492",
+     "title": "🇲🇱 #Info #MALI #Urgent 🇲🇱 On 29 October, #JNIM claimed an IED strike on a Malian army and Russian corps armored vehicle between Mourdiah and",
+     "description": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 29 October, #JNIM claimed an IED strike on a Malian army and Russian corps armored vehicle between Mourdiah and Koula, in the #Koulikoro region, in the morning.",
+     "snippet": "🇲🇱 #Info #MALI #Urgent 🇲🇱\n\nOn 29 October, #JNIM claimed an IED strike on a Malian army and Russian corps armored vehicle between Mourdiah and Koula, in the #Koulikoro region, in the morning.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "CEENASA",
+     "handle": "@CEENASA396971"
+    },
+    {
+     "url": "https://x.com/WagnerAmb1W9/status/2115687086674084321",
+     "title": "🌴🇲🇱 The situation on the front lines in Mali is relatively calm.",
+     "description": "🌴🇲🇱 The situation on the front lines in Mali is relatively calm. Everyone is waiting for the government forces to advance on Tine-Zaouatine and Tessalit, but the FAMa (Malian Armed Forces) and its allies are quietly and methodically targeting terrorists from the air. Azawad pastoralists from the FLA (Front for the Liberation of Azawad) are licking their wounds and remain silent, possibly preparing a counter-offensive against Kidal. JNIM* is carrying out its usual disruptive activities on the roads, with no major attacks.\n\n📸 FLA militants at a watering hole somewhere in northern Mali.\n\n*banned\n\nWhite guys in Africa🌴",
+     "snippet": "🌴🇲🇱 The situation on the front lines in Mali is relatively calm. Everyone is waiting for the government forces to advance on Tine-Zaouatine and Tessalit, but the FAMa (Malian Armed Forces) and its allies are quietly and methodically targeting terrorists from the air. Azawad pastoralists from the FLA (Front for the Liberation of Azawad) are licking their wounds and remain silent, possibly preparing a counter-offensive against Kidal. JNIM* is carrying out its usual disruptive activities on the roads, with no major attacks.\n\n📸 FLA militants at a watering hole somewhere in northern Mali.\n\n*banned\n\nWhite guys in Africa🌴",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "🎼♠️ Wagner Truth 1W9 🏴‍☠️🇷🇺",
+     "handle": "@WagnerAmb1W9"
+    }
+   ]
+  }
+ ]
+}
