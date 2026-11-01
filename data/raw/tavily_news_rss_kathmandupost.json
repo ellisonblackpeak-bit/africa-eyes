@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Bad weather disrupts flights at several airports; two international flights diverted",
+   "url": "https://kathmandupost.com/national/2026/11/01/bad-weather-disrupts-flights-at-several-airports-two-international-flights-diverted",
+   "content": "Bharatpur, Surkhet and Bhairahawa airports remain closed, while poor visibility and low cloud cover affect operations at Kathmandu airport.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Nepali players take the lead in NPL’s Player of the Match awards",
+   "url": "https://kathmandupost.com/cricket/2026/11/01/nepali-players-take-the-lead-in-npl-s-player-of-the-match-awards",
+   "content": "After two seasons of an even split, Nepali cricketers have edged ahead of overseas players, winning 38 of the 70 awards handed out so far.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Nepal and Bhutan propose dedicated COP31 agenda on 1.5°C warming in mountain regions",
    "url": "https://kathmandupost.com/climate-environment/2026/11/01/nepal-and-bhutan-propose-dedicated-cop31-agenda-on-1-5-c-warming-in-mountain-regions",
    "content": "In a formal submission addressed to the UNFCCC, the Himalayan nations urge the inclusion of the proposed agenda item in the supplementary provisional agenda of COP31.",
@@ -89,27 +103,6 @@
    "title": "Dhangadhi FC partners with Kathmandu Sports Development Ventures to form Sudurpashchim Sports Ventures",
    "url": "https://kathmandupost.com/sports/2026/10/30/dhangadhi-fc-partners-with-kathmandu-sports-development-ventures-to-form-sudurpashchim-sports-ventures",
    "content": "The new joint venture, chaired by Upendra Mahoto, aims to expand into football, grassroots development, and women's sports.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Police barge into newsrooms of Naya Patrika and Diyo Post looking for journalists",
-   "url": "https://kathmandupost.com/national/2026/10/30/police-visit-newsrooms-of-naya-patrika-and-diyo-post-looking-for-journalists",
-   "content": "Plainclothes officers went to the offices of two media outlets seeking five journalists, while Nepal Press journo Bishwamani Subedi has already been taken to the Cyber Bureau for questioning.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Journalist Bishwamani Subedi taken into police custody from newsroom",
-   "url": "https://kathmandupost.com/national/2026/10/30/journalist-bishwamani-subedi-taken-into-police-custody-from-newsroom",
-   "content": "Plainclothes officers took the Nepal Press journalist from his workplace on Friday and were bringing him to the Cyber Bureau for questioning, an official said.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Nepal seeks recognition for six more 8,000-metre peaks",
-   "url": "https://kathmandupost.com/money/2026/10/30/nepal-seeks-recognition-for-six-more-8-000-metre-peaks",
-   "content": "The proposal would increase the number of internationally recognised peaks above 8,000 metres in Nepal from eight to 14, giving the country 14 of the world's 20 highest mountains.",
    "published_date": "",
    "score": 0.6
   }

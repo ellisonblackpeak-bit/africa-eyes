@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "JOJ Dakar 2026: une cérémonie d'ouverture sous les acclamations de plus de 30 000 spectateurs, revivez le direct",
-   "url": "https://www.rfi.fr/fr/sports/20261031-en-direct-jeux-olympiques-de-la-jeunesse-2026-suivez-la-c%C3%A9r%C3%A9monie-d-ouverture",
-   "content": "Le Sénégal accueille ce samedi 31 octobre la 4e édition des Jeux de la jeunesse (JOJ) d’été, le tout premier événement olympique organisé sur le continent africain. Quinze jours de compétition et 2700 athlètes qui vont s’affronter à Dakar, Saly et Diamniado. C’est dans cette ville que la cérémonie d’ouverture se déroule, au stade Abdoulaye Wade. Revivez la cérémonie.",
-   "published_date": "Sat, 31 Oct 2026 17:59:06 GMT",
+   "title": "«Incroyable, géniale, magique», la cérémonie d’ouverture des JOJ a marqué les esprits",
+   "url": "https://www.rfi.fr/fr/sports/20261101-incroyable-g%C3%A9niale-magique-la-c%C3%A9r%C3%A9monie-d-ouverture-des-joj-a-marqu%C3%A9-les-esprits",
+   "content": "La cérémonie d’ouverture des JOJ au stade Abdoulaye Wade, mêlant cultures sénégalaise et africaine, et symboles olympiques, a enthousiasmé spectateurs, athlètes et volontaires, tous unanimes pour la qualifier d’« incroyable » et de « magique ».",
+   "published_date": "Sun, 01 Nov 2026 01:43:19 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "La météorite retrouvée en 2022 au Mali livre ses premiers secrets",
+   "url": "https://www.rfi.fr/fr/afrique/20261101-la-m%C3%A9t%C3%A9orite-retrouv%C3%A9e-en-2022-au-mali-livre-ses-premiers-secrets",
+   "content": "Une météorite échappée de la planète rouge a terminé son voyage dans le désert du Sahara, au Mali. Elle a été retrouvée il y a 4 ans, en 2022, mais les scientifiques viennent de publier des résultats de son étude dans la prestigieuse revue Science.",
+   "published_date": "Sun, 01 Nov 2026 02:08:07 GMT",
    "score": 0.6
   },
   {
@@ -23,6 +30,13 @@
    "score": 0.6
   },
   {
+   "title": "Certaines anciennes pièces de Francs CFA retirées de la circulation à partir de lundi",
+   "url": "https://www.rfi.fr/fr/afrique/20261101-certaines-anciennes-pi%C3%A8ces-de-francs-cfa-retir%C3%A9es-de-la-circulation-%C3%A0-partir-de-lundi",
+   "content": "À partir de demain, les consommateurs de la zone Cemac ne pourront plus payer leurs achats avec certaines anciennes pièces de francs CFA. Les commerçants seront en mesure de les refuser.",
+   "published_date": "Sun, 01 Nov 2026 02:24:17 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Guinée: l'orpaillage artisanal suspendu dans la région de Siguiri",
    "url": "https://www.rfi.fr/fr/afrique/20261031-guin%C3%A9e-l-orpaillage-artisanal-suspendu-dans-la-r%C3%A9gion-de-siguiri",
    "content": "L’orpaillage artisanal est suspendu jusqu’à nouvel ordre à Siguiri, la principale région aurifère du pays, dans le nord-est de la Guinée.",
@@ -34,6 +48,13 @@
    "url": "https://www.rfi.fr/fr/afrique/20261031-bras-de-fer-contre-la-vie-ch%C3%A8re-en-centrafrique-le-brdc-r%C3%A9clame-la-lib%C3%A9ration-de-cinq-activistes",
    "content": "En Centrafrique, le bras de fer politique se poursuit sur fond de vie chère. Le Bloc républicain pour la défense de la Constitution (BRDC) annonce une marche pacifique, le 13 novembre prochain, pour protester contre la hausse des prix du carburant et réclamer la libération de cinq responsables de la société civile détenus depuis une quinzaine de jours.",
    "published_date": "Sat, 31 Oct 2026 17:44:53 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Gabon: le président reçoit les dirigeants du Parti démocratique gabonais",
+   "url": "https://www.rfi.fr/fr/afrique/20261101-gabon-le-pr%C3%A9sident-re%C3%A7oit-les-dirigeants-du-parti-d%C3%A9mocratique-gabonais",
+   "content": "Au Gabon, le président Brice Clotaire Oligui Nguema a reçu ce vendredi en audience les dirigeants du Parti démocratique gabonais (PDG), une rencontre qui relance la lutte pour le contrôle de ce parti fondé par Omar Bongo qui a dirigé le pays pendant 56 ans.",
+   "published_date": "Sun, 01 Nov 2026 02:42:39 GMT",
    "score": 0.6
   },
   {
@@ -160,20 +181,6 @@
    "url": "https://www.rfi.fr/fr/culture/20261030-le-grand-merci-du-cin%C3%A9ma-fran%C3%A7ais-aux-h%C3%A9ritages-maghr%C3%A9bins-acquis-de-haute-lutte-par-les-immigr%C3%A9s",
    "content": "Ali Ghalem, Roschdy Zem, Jamel Debbouze, Hafsia Herzi… Le cinéma français et l’immigration maghrébine sont intimement et intensément entrelacés. Malgré des films bascule comme La Haine ou Indigènes qui ont bouleversé et enrichi le 7e art français, cette histoire reste largement méconnue. Un héritage et une influence pour lesquels des générations d’immigrés se sont battus. Entretien avec Clémentine Deroudille, commissaire de l’exposition « Une histoire du cinéma français. Héritages maghrébins » qui ouvre ce 30 octobre au Musée national de l’histoire de l’immigration à Paris.",
    "published_date": "Fri, 30 Oct 2026 08:00:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Togo: la Cédéao adresse une lettre de relance au ministre de la Justice portant sur la réforme constitutionnelle",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-togo-la-c%C3%A9d%C3%A9ao-adresse-une-lettre-de-relance-au-ministre-de-la-justice-portant-sur-la-r%C3%A9forme-constitutionnelle",
-   "content": "La Cour de justice de la Communauté économique des États d'Afrique de l'Ouest a adressé une lettre de relance au ministre de la Justice du Togo concernant son arrêt du 29 janvier 2026. La juridiction régionale avait estimé que la réforme constitutionnelle adoptée en mars 2024 constituait un « changement de gouvernement inconstitutionnel », contraire à l'article 23 de la Charte africaine de la démocratie, des élections et de la gouvernance. Dans sa lettre de suivi, la Cour de justice de la Cédéao demande au gouvernement togolais de l'informer des mesures prises pour exécuter sa décision.",
-   "published_date": "Sat, 31 Oct 2026 02:49:01 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Côte d'Ivoire: l'héritage du photographe Paul Kodjo dans son pays d'origine",
-   "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261030-c%C3%B4te-d-ivoire-l-h%C3%A9ritage-du-photographe-paul-kodjo-dans-son-pays-d-origine",
-   "content": "Le père de la photographie ivoirienne est exposé à Paris : après un passage à Arles cet été, les photos de Paul Kodjo arrivent au palais de Tokyo. Elles racontent la Côte d'Ivoire d'autrefois, le miracle économique et les soirées dansantes d'Abidjan, entre autres. L'exposition s'appelle « Photo-romance » et commence le 21 octobre. L'occasion de revenir sur l'héritage que Paul Kodjo a laissé dans son pays d'origine.",
-   "published_date": "Fri, 30 Oct 2026 23:25:29 GMT",
    "score": 0.6
   }
  ],

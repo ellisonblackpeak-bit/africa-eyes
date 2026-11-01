@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Me ya sa INEC ta ƙi sanya Aminu Abdulsalam a jerin ƴantakarar gwamnan Kano?",
+   "url": "https://www.bbc.com/hausa/articles/c6r7yxnegylzo?at_medium=RSS&at_campaign=rss",
+   "content": "Ana ci gaba da tafka muhawara kan rashin ganin sunan ɗan takarar jam'iyyar NDC a zaɓen gwamnan jihar Kano, Kwamrade Aminu Abdulsalam Gwarzo wanda hukumar INEC ta fitar.",
+   "published_date": "Sun, 01 Nov 2026 03:58:08 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Man United na tuntuɓa kan Toney, Barcelona na sa ido kan Willian",
+   "url": "https://www.bbc.com/hausa/articles/cw3djy5j83e8o?at_medium=RSS&at_campaign=rss",
+   "content": "Manchester United na ci gaba da tuntuɓa kan yiwuwar dauko Ivan Toney, sai Barcelona da ke son daukar ɗan wasan Chelsea Estevao Willian, yayin da Jean-Philippe Mateta ke son barin Crystal Palace a watan Janairu. Da ƙarin wasu labaran",
+   "published_date": "Sun, 01 Nov 2026 03:57:34 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda goyon bayan Amurka ga Isra'ila ya zama abin tayar da hankali a zaɓe",
+   "url": "https://www.bbc.com/hausa/articles/cw5yn7d3mvd9o?at_medium=RSS&at_campaign=rss",
+   "content": "Damuwa kan goyon bayan da Amurka ke bai wa Isra'ila yanzu haka yana kara wa masu kada kuri'a kwarin gwiwa a bangarorin biyu na wannan batu, a daya daga cikin zabukan da suka fi samun karbuwa a zaben tsakiyar wa'adi na Amurka.",
+   "published_date": "Sun, 01 Nov 2026 03:59:30 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Yan uwan da aka zubar a jaka suna jarirai sun sake haɗuwa bayan shekaru",
+   "url": "https://www.bbc.com/hausa/articles/cm8xzw1lz8w8o?at_medium=RSS&at_campaign=rss",
+   "content": "David McBride ya shafe shekaru da dama yana neman mahaifiyarsa bayan an yi watsi da ita tun yana jariri. Madadin haka, ya sami 'yar'uwa da ɗan'uwa.",
+   "published_date": "Sun, 01 Nov 2026 04:00:25 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Najeriya na bincika mutum biyu da ake zargin sun kamu da Ebola",
    "url": "https://www.bbc.co.uk/hausa/live/cmn8wpe75p6gt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 31/10/2026",
@@ -34,34 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/c6wydgklw4g7o?at_medium=RSS&at_campaign=rss",
    "content": "Ƴan Najeriya na ci gaba da tsokaci kan sunayen ƴantakarar gwamna da hukumar zaɓen ƙasar INEc ta fitar domin fafatawa a zaɓen 2027.",
    "published_date": "Sat, 31 Oct 2026 11:22:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya rage wa Najeriya wajen kafa ƴansandan jihohi?",
-   "url": "https://www.bbc.com/hausa/articles/cm3wv2n7dvwyo?at_medium=RSS&at_campaign=rss",
-   "content": "A wannan mako ne shugaban majalisar dattawan ƙasar, Sanata Godswill Akpabio ya ce majalisun dokokin jihohi 30 ne suka amince da ƙudirin.",
-   "published_date": "Sat, 31 Oct 2026 03:52:59 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Munanan haɗurran jiragen ƙasa 7 da suka fi girgiza duniya",
-   "url": "https://www.bbc.com/hausa/articles/cjr4yp32yez1o?at_medium=RSS&at_campaign=rss",
-   "content": "Lokacin da ka hau jirgin ƙasa, abin da kake fata shi ne ka isa inda za ka cikin ƙoshin lafiya. Wataƙila ka jingina a kujerarka kana kallon kyawawan abubuwan da ke wucewa ta taga, ko kuma kana gudanar da harkokinka, ba tare da tunanin cewa tafiyar na iya rikidewa zuwa bala'i cikin daƙiƙu kaɗan ba.",
-   "published_date": "Sat, 31 Oct 2026 03:54:25 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abubuwa biyar kan Sheikh Yahaya Masussuka",
-   "url": "https://www.bbc.com/hausa/articles/c6z982j0n4k3o?at_medium=RSS&at_campaign=rss",
-   "content": "Mutuwar Sheikh Yahaya Masussuka bayan harin da aka kai masa a gaban gidansa ta sa ana cigaba da tattaunawa kan rayuwarsa, tare da tafka muhawara kan fahimtarsa ta Qur'ani zalla.",
-   "published_date": "Fri, 30 Oct 2026 16:07:15 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Limami a Iran ya nemi a sauya manufar nukiliyar ƙasar ta dace da buƙatar jama'a",
-   "url": "https://www.bbc.co.uk/hausa/live/crq5npzv2n4wt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 30/10/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -104,6 +104,34 @@
    "url": "https://www.bbc.com/hausa/articles/cmewe7nkdyq7o?at_medium=RSS&at_campaign=rss",
    "content": "Jadon Sancho ya ƙi amincewa da komawa gasar La Liga, Desire Doue yana tattaunawa da Paris St-Germain kan tsawaita kwantiraginsa, yayin da Everton ke duba yiwuwar ɗaukar Marcus Rashford.",
    "published_date": "Thu, 29 Oct 2026 03:56:26 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya rage wa Najeriya wajen kafa ƴansandan jihohi?",
+   "url": "https://www.bbc.com/hausa/articles/cm3wv2n7dvwyo?at_medium=RSS&at_campaign=rss",
+   "content": "A wannan mako ne shugaban majalisar dattawan ƙasar, Sanata Godswill Akpabio ya ce majalisun dokokin jihohi 30 ne suka amince da ƙudirin.",
+   "published_date": "Sat, 31 Oct 2026 03:52:59 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Munanan haɗurran jiragen ƙasa 7 da suka fi girgiza duniya",
+   "url": "https://www.bbc.com/hausa/articles/cjr4yp32yez1o?at_medium=RSS&at_campaign=rss",
+   "content": "Lokacin da ka hau jirgin ƙasa, abin da kake fata shi ne ka isa inda za ka cikin ƙoshin lafiya. Wataƙila ka jingina a kujerarka kana kallon kyawawan abubuwan da ke wucewa ta taga, ko kuma kana gudanar da harkokinka, ba tare da tunanin cewa tafiyar na iya rikidewa zuwa bala'i cikin daƙiƙu kaɗan ba.",
+   "published_date": "Sat, 31 Oct 2026 03:54:25 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Abubuwa biyar kan Sheikh Yahaya Masussuka",
+   "url": "https://www.bbc.com/hausa/articles/c6z982j0n4k3o?at_medium=RSS&at_campaign=rss",
+   "content": "Mutuwar Sheikh Yahaya Masussuka bayan harin da aka kai masa a gaban gidansa ta sa ana cigaba da tattaunawa kan rayuwarsa, tare da tafka muhawara kan fahimtarsa ta Qur'ani zalla.",
+   "published_date": "Fri, 30 Oct 2026 16:07:15 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Limami a Iran ya nemi a sauya manufar nukiliyar ƙasar ta dace da buƙatar jama'a",
+   "url": "https://www.bbc.co.uk/hausa/live/crq5npzv2n4wt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 30/10/2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/crq5n92e03ynt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 28/10/2026",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Ko matakan Tinubu na rage raɗaɗi na da alaƙa da siyasa?",
-   "url": "https://www.bbc.com/hausa/articles/cwjdm83jmm4do?at_medium=RSS&at_campaign=rss",
-   "content": "A daidai lokacin da mutanen Najeriya ke ƙara bayyana ra'ayoyinsu mabambanta kan yanayin tattalin arzikin ƙasar, shugaban ƙasar ya ɓullo da wasu hanyoyi da matakai da ya ce za su rage raɗaɗin da ƴan ƙasar ke ciki.",
-   "published_date": "Thu, 29 Oct 2026 03:57:22 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ko Afirka ta fara ɗaura ɗambar tsayawa da ƙafarta ne?",
-   "url": "https://www.bbc.com/hausa/articles/ckwy4g13n972o?at_medium=RSS&at_campaign=rss",
-   "content": "Daga sabuwar matatar tsaftace zinari da aka gina a Habasha zuwa wani katafaren aikin matatar mai da ake shirin aiwatarwa a Kenya wanda zai lakume biliyoyin daloli, ƙasashen Afirka da ke ƙaruwa suna ƙoƙarin samun ƙarin riba daga albarkatun ƙasashensu ta hanyar sarrafa su a cikin gida maimakon fitar da su a matsayin ɗanyen kaya.",
-   "published_date": "Thu, 29 Oct 2026 03:56:57 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda sauyin yanayi na El Niño ka iya shafar jihohin Arewacin Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/cvj6j07p0ne5o?at_medium=RSS&at_campaign=rss",
-   "content": "Masana yanayi na gargadin cewa Najeriya na iya fuskantar matsanancin zafi a watanni masu zuwa sakamakon tasirin yanayin El Niño, lamarin da ka iya haifar da matsalolin lafiya da muhalli ga miliyoyin mutane.",
-   "published_date": "Thu, 29 Oct 2026 03:57:49 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Mene ne tallafin 70,000 da gwamnatin Tinubu ta amince ga ma'aikata duk wata?",
-   "url": "https://www.bbc.com/hausa/articles/ckly4dj2g187o?at_medium=RSS&at_campaign=rss",
-   "content": "Shirin gwamnatin Najeriya na bai wa ma'aikatan gwamnati tallafin kuɗin sufuri na naira 70,000 ya sake tayar da muhawara kan yadda ake ƙoƙarin rage raɗaɗin matsin tattalin arzikin da jama'a ke fama da shi a faɗin ƙasar.",
-   "published_date": "Wed, 28 Oct 2026 11:39:39 GMT",
    "score": 0.6
   }
  ],
