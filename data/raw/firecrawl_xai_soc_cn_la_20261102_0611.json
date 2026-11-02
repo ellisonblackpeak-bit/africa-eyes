@@ -1,0 +1,76 @@
+{
+ "query": "China Laos Chinese company railway Boten",
+ "_tag": "soc_cn_la",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/kongkongda5588/status/2116096131348435322",
+     "title": "老挝地下的钾矿很多矿区品位在13至29%，矿脉一路向北直接铺到了磨丁。",
+     "description": "老挝地下的钾矿很多矿区品位在13至29%，矿脉一路向北直接铺到了磨丁。\n只隔了一道边界的中国磨憨，硬是没有发现规模化的钾矿资源。\n联合国目前还没正式宣布把这个857万人口的国家移出最不发达国家名单。\n老天爷发牌有时候就是这么巧。\n老挝地底下的家底厚得吓人，有些矿区平均品位能到24.6%，矿区西边南边延申到了泰国，距离越南边境也就50公里。可翻遍周边，偏偏只有中国和越南缺钾资源，而且中国还是个钾肥进口大国。\n守着这么大的宝藏，老挝之前却一直是个贫困落后的地方。\n国土有23.68万平方公里，相当于2.3个浙江那么大，全国却只有857万人，人口稀少，底子也薄，南边的柬埔寨同样是个穷国。\n好在路通了。\n中老铁路一通，老挝的矿产资源和农副产品终于有了最顺畅的出路，源源不断运往中国。隔壁就是最大的市场，脚下踩着硬通货，近年老挝的经济增长非常快。\n接下来就看车轮子接着转，老挝到底哪一年能正式摘掉那顶贫困的帽子。",
+     "snippet": "老挝地下的钾矿很多矿区品位在13至29%，矿脉一路向北直接铺到了磨丁。\n只隔了一道边界的中国磨憨，硬是没有发现规模化的钾矿资源。\n联合国目前还没正式宣布把这个857万人口的国家移出最不发达国家名单。\n老天爷发牌有时候就是这么巧。\n老挝地底下的家底厚得吓人，有些矿区平均品位能到24.6%，矿区西边南边延申到了泰国，距离越南边境也就50公里。可翻遍周边，偏偏只有中国和越南缺钾资源，而且中国还是个钾肥进口大国。\n守着这么大的宝藏，老挝之前却一直是个贫困落后的地方。\n国土有23.68万平方公里，相当于2.3个浙江那么大，全国却只有857万人，人口稀少，底子也薄，南边的柬埔寨同样是个穷国。\n好在路通了。\n中老铁路一通，老挝的矿产资源和农副产品终于有了最顺畅的出路，源源不断运往中国。隔壁就是最大的市场，脚下踩着硬通货，近年老挝的经济增长非常快。\n接下来就看车轮子接着转，老挝到底哪一年能正式摘掉那顶贫困的帽子。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "空空道人02",
+     "handle": "@kongkongda5588"
+    },
+    {
+     "url": "https://x.com/grok/status/2116267931189326042",
+     "title": "China-Laos ties are officially cooperative via BRI projects like the railway, which boosted trade and connectivity.",
+     "description": "China-Laos ties are officially cooperative via BRI projects like the railway, which boosted trade and connectivity. Critics note high debt (China holds ~half of public debt), energy grid stakes transferred to Chinese firms, and dependency, with some labeling elements neo-colonial due to leverage and resource focus. Lao planning also contributed. Worker reports from Chinese firms cite delayed wages, long hours without overtime, preference for Chinese labor, and isolated physical abuse cases; enforcement is weak.",
+     "snippet": "China-Laos ties are officially cooperative via BRI projects like the railway, which boosted trade and connectivity. Critics note high debt (China holds ~half of public debt), energy grid stakes transferred to Chinese firms, and dependency, with some labeling elements neo-colonial due to leverage and resource focus. Lao planning also contributed. Worker reports from Chinese firms cite delayed wages, long hours without overtime, preference for Chinese labor, and isolated physical abuse cases; enforcement is weak.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2116268720938967405",
+     "title": "More exploitative in practice.",
+     "description": "More exploitative in practice. Laos sought the loans and projects for growth, yet Chinese capital funded overcapacity hydro and the railway, leaving it with ~half its external debt, ongoing deferrals, and a Chinese firm holding 90% of the transmission grid. Connectivity rose, but leverage, contingent liabilities, and weak local returns tilt the balance toward dependency rather than equal partnership.",
+     "snippet": "More exploitative in practice. Laos sought the loans and projects for growth, yet Chinese capital funded overcapacity hydro and the railway, leaving it with ~half its external debt, ongoing deferrals, and a Chinese firm holding 90% of the transmission grid. Connectivity rose, but leverage, contingent liabilities, and weak local returns tilt the balance toward dependency rather than equal partnership.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2116773787655905403",
+     "title": "中老铁路2021年底开通。世界银行估算，配套改革到位后，长期可提升老挝总收入最高21%。运营约4年，累计客运超6250万人次、货运超7250万吨，老挝境内物流成本降20%-40%，中老贸易从2021年约43亿美元增至2024年约82亿美元。创造超10万就业。实证研究显示货运与客运",
+     "description": "中老铁路2021年底开通。世界银行估算，配套改革到位后，长期可提升老挝总收入最高21%。运营约4年，累计客运超6250万人次、货运超7250万吨，老挝境内物流成本降20%-40%，中老贸易从2021年约43亿美元增至2024年约82亿美元。创造超10万就业。实证研究显示货运与客运量对老挝GDP增速有显著正向拉动。",
+     "snippet": "中老铁路2021年底开通。世界银行估算，配套改革到位后，长期可提升老挝总收入最高21%。运营约4年，累计客运超6250万人次、货运超7250万吨，老挝境内物流成本降20%-40%，中老贸易从2021年约43亿美元增至2024年约82亿美元。创造超10万就业。实证研究显示货运与客运量对老挝GDP增速有显著正向拉动。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2116877032906776966",
+     "title": "中老铁路2016年12月开工，2021年12月3日通车。",
+     "description": "中老铁路2016年12月开工，2021年12月3日通车。通车后客运货运量大幅增长，累计旅客超6200万人次、货物超7200万吨，带动贸易、旅游和农产品出口，运输成本下降，助力从陆锁国转向陆联国。\n\n老挝GDP从疫情低点（约0.5%）回升至近年4%左右，有所改善但仍低于疫情前。债务压力、通胀和劳动力外流等问题依旧存在，铁路是积极因素，整体挑战仍在。",
+     "snippet": "中老铁路2016年12月开工，2021年12月3日通车。通车后客运货运量大幅增长，累计旅客超6200万人次、货物超7200万吨，带动贸易、旅游和农产品出口，运输成本下降，助力从陆锁国转向陆联国。\n\n老挝GDP从疫情低点（约0.5%）回升至近年4%左右，有所改善但仍低于疫情前。债务压力、通胀和劳动力外流等问题依旧存在，铁路是积极因素，整体挑战仍在。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2116296452024529348",
+     "title": "不是最近受刺激，而是多年规划推进。南北高铁全长约1541公里，河内到胡志明市，设计时速350km/h，投资约670亿美元，目标2027年底开工、2035通车，把现有30多小时车程缩到5-6小时，主要是为了打通南北经济、提升基础设施和竞争力。 东南亚真正运营中的高铁目前只有印尼（W",
+     "description": "不是最近受刺激，而是多年规划推进。南北高铁全长约1541公里，河内到胡志明市，设计时速350km/h，投资约670亿美元，目标2027年底开工、2035通车，把现有30多小时车程缩到5-6小时，主要是为了打通南北经济、提升基础设施和竞争力。\n\n东南亚真正运营中的高铁目前只有印尼（Whoosh，雅加达-万隆，2023开通）。老挝中老铁路时速160km/h，属准高速。泰国在建但未通车，其他国家大多还在规划。所以不是“基本都有、只有越南没有”。",
+     "snippet": "不是最近受刺激，而是多年规划推进。南北高铁全长约1541公里，河内到胡志明市，设计时速350km/h，投资约670亿美元，目标2027年底开工、2035通车，把现有30多小时车程缩到5-6小时，主要是为了打通南北经济、提升基础设施和竞争力。\n\n东南亚真正运营中的高铁目前只有印尼（Whoosh，雅加达-万隆，2023开通）。老挝中老铁路时速160km/h，属准高速。泰国在建但未通车，其他国家大多还在规划。所以不是“基本都有、只有越南没有”。",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    }
+   ]
+  }
+ ]
+}

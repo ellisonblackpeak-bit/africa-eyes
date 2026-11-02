@@ -2,10 +2,73 @@
  "success": true,
  "results": [
   {
+   "title": "Tchad: 25 morts dans des affrontements entre éleveurs et agriculteurs liés à l'eau",
+   "url": "https://www.rfi.fr/fr/afrique/20261102-tchad-25-morts-dans-des-affrontements-entre-%C3%A9leveurs-et-agriculteurs-li%C3%A9s-%C3%A0-l-eau",
+   "content": "Au moins 25 personnes ont été tuées et 22 autres blessées vendredi 30 octobre 2026 dans des affrontements intercommunautaires dans le sud-ouest du Tchad. Le pays est fréquemment affecté par ce type de violences dans certaines zones rurales, où les conflits liés à l'accès aux ressources peuvent prendre une tournure meurtrière.",
+   "published_date": "Mon, 02 Nov 2026 04:08:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Niger: arrivée d'un premier convoi de militaires algériens avec des camions-citernes à Agadez",
+   "url": "https://www.rfi.fr/fr/afrique/20261102-niger-arriv%C3%A9e-d-un-premier-convoi-de-militaires-alg%C3%A9riens-avec-des-camions-citernes-%C3%A0-agadez",
+   "content": "Une semaine après la résolution du Parlement algérien autorisant l’envoi de troupes au Niger voisin, des militaires algériens ont franchi la frontière pour rallier ce week-end le nord du Niger. Les forces armées algériennes ont convoyé plusieurs dizaines de camions transportant du carburant dans le cadre de la coopération entre les deux pays.",
+   "published_date": "Mon, 02 Nov 2026 04:09:23 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Violences contre les journalistes: «La situation s'aggrave surtout pour les journalistes en zone de combat»",
+   "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261102-violences-contre-les-journalistes-la-situation-s-aggrave-surtout-pour-les-journalistes-en-zone-de-combat",
+   "content": "Voilà treize ans, jour pour jour, que les deux reporters de RFI Ghislaine Dupont et Claude Verlon ont été assassinés par des jihadistes à Kidal, au nord du Mali. À la suite de ce double meurtre, l’Assemblée générale de l’ONU a voté une résolution qui proclame le 2 novembre « Journée internationale de la fin de l’impunité pour les crimes commis contre les journalistes ». Face à la violence, quelle est la situation des journalistes aujourd’hui ? Est-ce qu’elle s’améliore ou est-ce qu’elle s’aggrave ? Stéphane Dujarric est le porte-parole du secrétaire général de l’ONU, Antonio Guterres. En ligne de New York, il répond aux questions de Christophe Boisbouvier.",
+   "published_date": "Mon, 02 Nov 2026 05:10:50 GMT",
+   "score": 0.6
+  },
+  {
    "title": "JOJ Dakar 2026: l’Égyptien Ali Zain offre à l’Afrique sa première médaille d’or",
    "url": "https://www.rfi.fr/fr/sports/20261101-joj-dakar-2026-l-%C3%A9gyptien-ali-zain-offre-%C3%A0-l-afrique-sa-premi%C3%A8re-m%C3%A9daille-d-or",
    "content": "À 17 ans, Ali Zain a remporté, ce dimanche 1er novembre au complexe Tour de l’Œuf, la première médaille d’or africaine des Jeux olympiques de la jeunesse organisée à Dakar. L’Égyptien, qui a connu une ascension fulgurante, s’est imposé avec autorité sur le 100 m papillon.",
    "published_date": "Sun, 01 Nov 2026 20:51:37 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Afrique du Sud: avant les élections locales, les anti-xénophobes tentent de se faire entendre",
+   "url": "https://www.rfi.fr/fr/afrique/20261102-afrique-du-sud-avant-les-%C3%A9lections-locales-les-anti-x%C3%A9nophobes-tentent-de-se-faire-entendre",
+   "content": "En Afrique du Sud, la campagne pour les élections locales touche à sa fin : les citoyens sont appelés aux urnes ce mercredi 4 novembre pour renouveler les conseils municipaux du pays. Et la question migratoire est au centre des débats, bien que le sujet ne relève pas directement des pouvoirs locaux. Des manifestations contre les migrants en situation irrégulière se sont multipliées ces derniers mois. Face à cela, de petits groupes essaient de prôner un message anti-xénophobie.",
+   "published_date": "Mon, 02 Nov 2026 04:07:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Burkina Faso: l'imam Mohamed Kindo libéré après plusieurs mois en détention",
+   "url": "https://www.rfi.fr/fr/afrique/20261102-burkina-faso-l-imam-mohamed-kindo-lib%C3%A9r%C3%A9-apr%C3%A8s-plusieurs-mois-en-d%C3%A9tention",
+   "content": "Au Burkina Faso, l'imam Mohamed Ishaq Kindo a été remis en liberté, selon plusieurs sources, au sein de la communauté sunnite. Soutien du régime dans un premier temps, il a été arrêté fin mai après avoir dénoncé un projet de loi visant à encadrer les libertés religieuses et les pratiques des cultes dans le pays. Son arrestation avait provoqué des manifestations à Ouagadougou pour réclamer sa libération.",
+   "published_date": "Mon, 02 Nov 2026 04:04:43 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "RDC: l'opposition s'insurge après des propos de Félix Tshisekedi sur la mort de Manassé Lomboto",
+   "url": "https://www.rfi.fr/fr/afrique/20261102-rdc-l-opposition-s-insurge-apr%C3%A8s-des-propos-de-f%C3%A9lix-tshisekedi-sur-la-mort-de-manass%C3%A9-lomboto",
+   "content": "Profitant de la fin du sommet Russie – Afrique à Moscou, Félix Tshisekedi a saisi l'occasion, devant la diaspora congolaise, pour commenter l’arrestation de l’opposant Prince Epenge, aujourd’hui détenu dans la prison centrale Makala, accusé de propagation des faux bruits. Des déclarations qui provoquent une levée de boucliers dans l’opposition.",
+   "published_date": "Mon, 02 Nov 2026 04:57:52 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Maroc: un dessinateur condamné à 4 ans de prison ferme pour avoir caricaturé le roi Mohammed VI",
+   "url": "https://www.rfi.fr/fr/afrique/20261102-maroc-un-dessinateur-condamn%C3%A9-%C3%A0-4-ans-de-prison-ferme-pour-avoir-caricatur%C3%A9-le-roi-mohammed-vi",
+   "content": "Yasser Mounbir, dessinateur de 22 ans et figure de la scène graffiti marocaine, a été condamné à 4 ans de prison ferme vendredi 30 octobre 2026 pour avoir dessiné et caricaturé le roi. Il a été jugé pour « insulte à l'encontre du roi ». Cela faisait déjà plus de cinq mois qu'il était en détention provisoire dans une prison de Casablanca.",
+   "published_date": "Mon, 02 Nov 2026 03:52:38 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "La Guinée inaugure sa première raffinerie d’or pour transformer la filière aurifère",
+   "url": "https://www.rfi.fr/fr/afrique/20261102-la-guin%C3%A9e-inaugure-sa-premi%C3%A8re-raffinerie-d-or-pour-transformer-la-fili%C3%A8re-aurif%C3%A8re",
+   "content": "Les autorités guinéennes ont inauguré ce dimanche la première raffinerie d’or du pays : la Nimba Gold Refinery, située à Conakry. La Guinée, l’un des principaux producteurs d’or en Afrique, pourra désormais capter davantage de valeur ajoutée, puisqu’elle exportait jusque-là son or brut, qu’il soit issu de mines industrielles ou artisanales.",
+   "published_date": "Mon, 02 Nov 2026 03:40:50 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Cameroun: un rapport alerte sur la montée des centres d'arnaques en ligne",
+   "url": "https://www.rfi.fr/fr/afrique/20261102-cameroun-un-rapport-alerte-sur-la-mont%C3%A9e-des-centres-d-arnaques-en-ligne",
+   "content": "Au-delà du phénomène des arnaques en ligne qui plongent parfois des familles entières dans de graves difficultés économiques, les escroqueries numériques sont régulièrement aussi la porte d'entrée vers une véritable traite d'êtres humains au Cameroun, rappelle l'Institute for Security Studies dans un nouveau rapport paru ce mois d'octobre 2026.",
+   "published_date": "Mon, 02 Nov 2026 03:39:57 GMT",
    "score": 0.6
   },
   {
@@ -86,27 +149,6 @@
    "score": 0.6
   },
   {
-   "title": "La météorite retrouvée en 2022 au Mali livre ses premiers secrets",
-   "url": "https://www.rfi.fr/fr/afrique/20261101-la-m%C3%A9t%C3%A9orite-retrouv%C3%A9e-en-2022-au-mali-livre-ses-premiers-secrets",
-   "content": "Une météorite échappée de la planète rouge a terminé son voyage dans le désert du Sahara, au Mali. Elle a été retrouvée il y a 4 ans, en 2022, mais les scientifiques viennent de publier des résultats de son étude dans la prestigieuse revue Science.",
-   "published_date": "Sun, 01 Nov 2026 02:08:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Burkina Faso: l'apprentissage en langues nationales renforcé dans les écoles",
-   "url": "https://www.rfi.fr/fr/afrique/20261101-burkina-faso-l-apprentissage-en-langues-nationales-renforc%C3%A9-dans-les-%C3%A9coles",
-   "content": "Au Burkina Faso, les autorités militaires à la tête du pays veulent lancer la généralisation de l’enseignement bilingue dans tout le pays. Désormais, durant les premières années de cours, l’apprentissage se fera dans une langue nationale majoritaire choisie, le français étant relégué au second plan.",
-   "published_date": "Sun, 01 Nov 2026 09:16:14 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Mauritanie: fin de la grève des étudiants après un accord avec le gouvernement",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-mauritanie-fin-de-la-gr%C3%A8ve-des-%C3%A9tudiants-apr%C3%A8s-un-accord-avec-le-gouvernement",
-   "content": "Un accord a été trouvé ce vendredi 30 octobre entre le ministère de l'Enseignement supérieur et les quatre syndicats d'étudiants, mettant fin à plusieurs semaines de grève et de perturbations des cours.",
-   "published_date": "Sat, 31 Oct 2026 23:00:37 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Certaines anciennes pièces de francs CFA retirées de la circulation dans la zone Cemac à partir de lundi",
    "url": "https://www.rfi.fr/fr/afrique/20261101-certaines-anciennes-pi%C3%A8ces-de-francs-cfa-retir%C3%A9es-de-la-circulation-%C3%A0-partir-de-lundi",
    "content": "À partir de demain, les consommateurs de la zone Cemac ne pourront plus payer leurs achats avec certaines anciennes pièces de francs CFA. Les commerçants seront en mesure de les refuser.",
@@ -114,66 +156,10 @@
    "score": 0.6
   },
   {
-   "title": "Guinée: l'orpaillage artisanal suspendu dans la région de Siguiri",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-guin%C3%A9e-l-orpaillage-artisanal-suspendu-dans-la-r%C3%A9gion-de-siguiri",
-   "content": "L’orpaillage artisanal est suspendu jusqu’à nouvel ordre à Siguiri, la principale région aurifère du pays, dans le nord-est de la Guinée.",
-   "published_date": "Sat, 31 Oct 2026 23:09:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Bras de fer contre la vie chère en Centrafrique: le BRDC réclame la libération de cinq activistes",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-bras-de-fer-contre-la-vie-ch%C3%A8re-en-centrafrique-le-brdc-r%C3%A9clame-la-lib%C3%A9ration-de-cinq-activistes",
-   "content": "En Centrafrique, le bras de fer politique se poursuit sur fond de vie chère. Le Bloc républicain pour la défense de la Constitution (BRDC) annonce une marche pacifique, le 13 novembre prochain, pour protester contre la hausse des prix du carburant et réclamer la libération de cinq responsables de la société civile détenus depuis une quinzaine de jours.",
-   "published_date": "Sat, 31 Oct 2026 17:44:53 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Gabon: le président reçoit les dirigeants du Parti démocratique gabonais",
-   "url": "https://www.rfi.fr/fr/afrique/20261101-gabon-le-pr%C3%A9sident-re%C3%A7oit-les-dirigeants-du-parti-d%C3%A9mocratique-gabonais",
-   "content": "Au Gabon, le président Brice Clotaire Oligui Nguema a reçu ce vendredi en audience les dirigeants du Parti démocratique gabonais (PDG), une rencontre qui relance la lutte pour le contrôle de ce parti fondé par Omar Bongo qui a dirigé le pays pendant 56 ans.",
-   "published_date": "Sun, 01 Nov 2026 02:42:39 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Algérie: inauguration du deuxième plus grand parc photovoltaïque d’Afrique",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-alg%C3%A9rie-inauguration-du-deuxi%C3%A8me-plus-grand-parc-photovolta%C3%AFque-d-afrique",
-   "content": "Le complexe d'El Foulia, situé dans le sud-est de l'Algérie, est mis en route depuis cette semaine pour répondre aux problématiques énergétiques de la région tout en diversifiant la production électrique nationale. Ce projet majeur s'inscrit dans une volonté du gouvernement d'augmenter massivement la production d'énergie solaire, alors que le système dépend encore largement du gaz naturel.",
-   "published_date": "Sat, 31 Oct 2026 17:49:28 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Deux mois de détention de Moussa Kaka au Niger: «Sa place est devant un micro»",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-deux-mois-de-d%C3%A9tention-de-moussa-kaka-au-niger-sa-place-est-devant-un-micro",
-   "content": "Le 31 août, Moussa Kaka quittait les locaux de son média à Niamey pour regagner son domicile. Mais il n'y est jamais arrivé. Début octobre, après plusieurs semaines de silence, le ministre nigérien de la Justice avait affirmé à Reporters sans frontières (RSF) que le journaliste, que vous avez entendu raconter l'actualité nigérienne pendant des années sur notre antenne, était détenu et en vie. Deux mois après cette disparition, organisations de défenses des droits humains, confrères et consœurs, tous réitèrent leurs appels à sa libération. À ce jour, notre confrère n'a toujours pas pu voir sa famille, ni son avocat.",
-   "published_date": "Sat, 31 Oct 2026 05:00:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Sadibou Marong (RSF): deux mois de détention au secret pour Moussa Kaka au Niger",
-   "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261031-sadibou-marong-rsf-deux-mois-de-d%C3%A9tention-au-secret-pour-moussa-kaka-au-niger",
-   "content": "C'était il y a tout juste deux mois au Niger. Le 31 août, notre confrère Moussa Kaka a quitté les locaux de son média à Niamey (la radio télévision Saraounia) pour regagner son domicile, mais il n'y est jamais arrivé. Après plusieurs semaines de silence, début octobre, le ministre nigérien de la Justice Alio Daouda a affirmé à Reporters sans frontières que Moussa Kaka, que vous avez entendu raconter l'actualité nigérienne pendant des années sur notre antenne, était détenu et est en vie. À ce jour, notre confrère n'a toujours pas pu voir sa famille ni son avocat. RSF demande des informations et appelle à sa libération immédiate. L'organisation estime que le Niger « piétine ses engagements internationaux ». Sadibou Marong est le directeur du bureau de RSF pour l'Afrique subsaharienne. En ligne de Dakar, il répond aux questions de Magali Lagrange.",
-   "published_date": "Sat, 31 Oct 2026 06:50:02 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Sahara occidental: non-renouvelé au Conseil de sécurité de l'ONU, le mandat de la Minurso va prendre fin",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-sahara-occidental-non-renouvel%C3%A9-au-conseil-de-s%C3%A9curit%C3%A9-de-l-onu-le-mandat-de-la-minurso-va-prendre-fin",
-   "content": "Alors que son mandat expire ce samedi, deux résolutions successives n'ont pas trouvé les voix nécessaires pour que la Mission des Nations unies pour l'organisation d'un référendum au Sahara occidental (Minurso) soit renouvelée. Une négociation qui a mal tournée entre les États-Unis et le Maroc d’une part, et la Russie et le Front Polisario de l’autre.",
-   "published_date": "Sat, 31 Oct 2026 06:25:08 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "RDC: la Première ministre Judith Suminwa présente un budget en hausse, à 24,8 milliards de dollars",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-rdc-la-premi%C3%A8re-ministre-judith-suminwa-pr%C3%A9sente-un-budget-en-hausse-%C3%A0-24-8-milliards-de-dollars",
-   "content": "En République démocratique du Congo, la Première ministre, Judith Suminwa a présenté jeudi 29 octobre 2026 le projet de budget pour l'année 2027. La République démocratique du Congo se projette vers un budget record de 24,8 milliards de dollars pour 2027. Une enveloppe en hausse axée sur la sécurité, l’emploi et les services sociaux. Un budget d’action et de souveraineté dont les promesses attendent désormais d’être traduites en résultats concrets.",
-   "published_date": "Sat, 31 Oct 2026 08:22:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Madagascar: les États-Unis vont financer une usine d’extraction de terres rares à Ampasindava",
-   "url": "https://www.rfi.fr/fr/afrique/20261031-madagascar-les-%C3%A9tats-unis-vont-financer-une-usine-d-extraction-de-terres-rares-%C3%A0-ampasindava",
-   "content": "Madagascar est au cœur de la compétition mondiale pour l’accès aux minerais critiques. Le sous-secrétaire d’État américain aux Affaires économiques a confirmé, il y a deux jours, que les États-Unis allaient financer une usine pilote d’extraction de terres rares à Ampasindava, dans le nord-ouest de Madagascar.",
-   "published_date": "Sat, 31 Oct 2026 11:49:35 GMT",
+   "title": "Burkina Faso: l'apprentissage en langues nationales renforcé dans les écoles",
+   "url": "https://www.rfi.fr/fr/afrique/20261101-burkina-faso-l-apprentissage-en-langues-nationales-renforc%C3%A9-dans-les-%C3%A9coles",
+   "content": "Au Burkina Faso, les autorités militaires à la tête du pays veulent lancer la généralisation de l’enseignement bilingue dans tout le pays. Désormais, durant les premières années de cours, l’apprentissage se fera dans une langue nationale majoritaire choisie, le français étant relégué au second plan.",
+   "published_date": "Sun, 01 Nov 2026 09:16:14 GMT",
    "score": 0.6
   }
  ],

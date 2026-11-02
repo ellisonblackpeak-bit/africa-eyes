@@ -1,0 +1,86 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/grok/status/2117020910418829713",
+     "title": "Oui, le gazoduc Nigeria-Maroc (African Atlantic Gas Pipeline) est un projet distinct.",
+     "description": "Oui, le gazoduc Nigeria-Maroc (African Atlantic Gas Pipeline) est un projet distinct. Il doit traverser environ 13 pays de la côte atlantique. Accord intergouvernemental signé par la CEDEAO en juillet 2026. Études terminées, construction prévue dès 2028, premiers gaz en 2031. Toujours en phase pré-construction.",
+     "snippet": "Oui, le gazoduc Nigeria-Maroc (African Atlantic Gas Pipeline) est un projet distinct. Il doit traverser environ 13 pays de la côte atlantique. Accord intergouvernemental signé par la CEDEAO en juillet 2026. Études terminées, construction prévue dès 2028, premiers gaz en 2031. Toujours en phase pré-construction.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/zriboua/status/2116284037950050568",
+     "title": "On Morocco, Russia, and Western Sahara: Russia no longer has the strategic foothold in Syria that it once enjoyed, its old friend Gaddafi is",
+     "description": "On Morocco, Russia, and Western Sahara: \n\nRussia no longer has the strategic foothold in Syria that it once enjoyed, its old friend Gaddafi is long gone, and the fallout from Wagner has complicated Moscow's ability to pursue a coherent strategy across Africa. So yes, of course that keeping the Western Sahara conflict alive serves a larger Russian objective of obstructing U.S. influence and preventing the emergence of stronger regional partnerships that could challenge Moscow's interests.\n\nMore importantly, the Russians have also failed to appreciate how much Morocco's position has changed. The kingdom isn't simply an American ally in North Africa anymore. Morocco has become a major economic and financial power in West Africa, with Moroccan banks controlling nearly 30% of the West African banking market, and Moroccan investments spanning telecommunications, fertilizers, infrastructure, and industry. The proposed $25 billion Nigeria-Morocco Atlantic Gas Pipeline, stretching approximately 6,900 kilometers across 13 countries, could further transform the kingdom's strategic importance by connecting West African energy markets to Europe, which will inevitably make Russian gas irrelevant. \n\nIt's safe to say that Moscow has certainly noticed this transformation, which explains why Russian diplomatic rhetoric has become increasingly accommodating toward Rabat (as I pointed out in their draft). But the underlying calculation hasn't changed since Russia still treats an abstention, rather than a favorable vote, as a diplomatic concession for which Morocco should offer something in return. That approach may have worked when Moscow enjoyed greater leverage, but Morocco's growing strategic weight has fundamentally changed the equation.\n\nBy vetoing today's resolution, Moscow apparently believed it could reaffirm its commitment to Algeria, one of its principal regional partners, while preserving its ability to bargain with Morocco. But the Russians have misread the room. Rabat now has much less reason to believe that engagement with Moscow produces meaningful diplomatic returns.\n\nIn many ways, this could be a blessing in disguise for Morocco, exposing Russia's priorities and giving Rabat every reason to deepen its alignment with Washington and Europe. Putin is accelerating the very Western alignment he wanted prevent.",
+     "snippet": "On Morocco, Russia, and Western Sahara: \n\nRussia no longer has the strategic foothold in Syria that it once enjoyed, its old friend Gaddafi is long gone, and the fallout from Wagner has complicated Moscow's ability to pursue a coherent strategy across Africa. So yes, of course that keeping the Western Sahara conflict alive serves a larger Russian objective of obstructing U.S. influence and preventing the emergence of stronger regional partnerships that could challenge Moscow's interests.\n\nMore importantly, the Russians have also failed to appreciate how much Morocco's position has changed. The kingdom isn't simply an American ally in North Africa anymore. Morocco has become a major economic and financial power in West Africa, with Moroccan banks controlling nearly 30% of the West African banking market, and Moroccan investments spanning telecommunications, fertilizers, infrastructure, and industry. The proposed $25 billion Nigeria-Morocco Atlantic Gas Pipeline, stretching approximately 6,900 kilometers across 13 countries, could further transform the kingdom's strategic importance by connecting West African energy markets to Europe, which will inevitably make Russian gas irrelevant. \n\nIt's safe to say that Moscow has certainly noticed this transformation, which explains why Russian diplomatic rhetoric has become increasingly accommodating toward Rabat (as I pointed out in their draft). But the underlying calculation hasn't changed since Russia still treats an abstention, rather than a favorable vote, as a diplomatic concession for which Morocco should offer something in return. That approach may have worked when Moscow enjoyed greater leverage, but Morocco's growing strategic weight has fundamentally changed the equation.\n\nBy vetoing today's resolution, Moscow apparently believed it could reaffirm its commitment to Algeria, one of its principal regional partners, while preserving its ability to bargain with Morocco. But the Russians have misread the room. Rabat now has much less reason to believe that engagement with Moscow produces meaningful diplomatic returns.\n\nIn many ways, this could be a blessing in disguise for Morocco, exposing Russia's priorities and giving Rabat every reason to deepen its alignment with Washington and Europe. Putin is accelerating the very Western alignment he wanted prevent.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Zineb Riboua",
+     "handle": "@zriboua"
+    },
+    {
+     "url": "https://x.com/mouadus_ksm/status/2116164429121282420",
+     "title": "Ce n’est pas de la charité, c’est de la géoéconomie.",
+     "description": "Ce n’est pas de la charité, c’est de la géoéconomie. Le gazoduc Nigeria–Maroc prévoit de desservir plusieurs pays d’Afrique de l’Ouest, de soutenir leur approvisionnement énergétique et leur industrialisation. Ce sont les objectifs officiels du projet. Quel fait précis contesté?",
+     "snippet": "Ce n’est pas de la charité, c’est de la géoéconomie. Le gazoduc Nigeria–Maroc prévoit de desservir plusieurs pays d’Afrique de l’Ouest, de soutenir leur approvisionnement énergétique et leur industrialisation. Ce sont les objectifs officiels du projet. Quel fait précis contesté?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "ksm",
+     "handle": "@mouadus_ksm"
+    },
+    {
+     "url": "https://x.com/grok/status/2116913438156845234",
+     "title": "Le souci marocain vient de la rivalité régionale de longue date avec l’Algérie et des projets énergétiques concurrents.",
+     "description": "Le souci marocain vient de la rivalité régionale de longue date avec l’Algérie et des projets énergétiques concurrents. Alger protège son gazoduc transsaharien (Nigeria-Niger-Algérie) et ses investissements Sonatrach, face au corridor atlantique Nigeria-Maroc. Ce déploiement marque aussi une projection militaire algérienne dans le Sahel, zone d’influence disputée. C’est une question de positions stratégiques et économiques, pas seulement bilatérale.",
+     "snippet": "Le souci marocain vient de la rivalité régionale de longue date avec l’Algérie et des projets énergétiques concurrents. Alger protège son gazoduc transsaharien (Nigeria-Niger-Algérie) et ses investissements Sonatrach, face au corridor atlantique Nigeria-Maroc. Ce déploiement marque aussi une projection militaire algérienne dans le Sahel, zone d’influence disputée. C’est une question de positions stratégiques et économiques, pas seulement bilatérale.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/Mashy_26/status/2116652017305227717",
+     "title": "Consider the infrastructure investments in Western Sahara, particularly the Dakhla Atlantic Port, the proposed Nigeria-Morocco gas pipeline",
+     "description": "Consider the infrastructure investments in Western Sahara, particularly the Dakhla Atlantic Port, the proposed Nigeria-Morocco gas pipeline and the transport corridors connecting Morocco to the Sahel.",
+     "snippet": "Consider the infrastructure investments in Western Sahara, particularly the Dakhla Atlantic Port, the proposed Nigeria-Morocco gas pipeline and the transport corridors connecting Morocco to the Sahel.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mashy",
+     "handle": "@Mashy_26"
+    },
+    {
+     "url": "https://x.com/Didblox/status/2117020731024482407",
+     "title": "Et le gazoduc du Nigeria vers le Maroc en passant par 11 pays africain ?",
+     "description": "Et le gazoduc du Nigeria vers le Maroc en passant par 11 pays africain ?",
+     "snippet": "Et le gazoduc du Nigeria vers le Maroc en passant par 11 pays africain ?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Didblox",
+     "handle": "@Didblox"
+    },
+    {
+     "url": "https://x.com/xx14207418/status/2116217466325983253",
+     "title": "Le gazoduc devrait être proposé et devrais s'appeler \"projet Nigeria\" pourquoi le maroc qui n'a pas de gaz ce la ramène ?",
+     "description": "Le gazoduc devrait être proposé et devrais s'appeler \"projet Nigeria\" pourquoi le maroc qui n'a pas de gaz ce la ramène ? on lui a rien demandé, pourquoi c'est le petit maroc qui fait du bruit et s'excite pour un gazoduc qui ne verra jamais le jour ?",
+     "snippet": "Le gazoduc devrait être proposé et devrais s'appeler \"projet Nigeria\" pourquoi le maroc qui n'a pas de gaz ce la ramène ? on lui a rien demandé, pourquoi c'est le petit maroc qui fait du bruit et s'excite pour un gazoduc qui ne verra jamais le jour ?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Veritetoujours2",
+     "handle": "@xx14207418"
+    }
+   ]
+  }
+ ]
+}

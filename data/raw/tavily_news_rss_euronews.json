@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Trump rallies in Iowa and Kansas in final push as Democratic divisions shake up Michigan",
+   "url": "https://www.euronews.com/2026/11/02/trump-wraps-up-campaign-rallies-in-final-push-as-democratic-divisions-shake-up-michigan",
+   "content": "US President Donald Trump wrapped up his campaign in Iowa and Kansas with a final push to rally support, as Democrats seek to regain control of Congress.",
+   "published_date": "Mon, 02 Nov 2026 06:51:30 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Kimi Antonelli becomes youngest F1 champion as Max Verstappen wins race",
+   "url": "https://www.euronews.com/2026/11/02/kimi-antonelli-becomes-youngest-f1-champion-as-max-verstappen-wins-race",
+   "content": "Mercedes driver Kimi Antonelli made history and become the youngest Formula 1 world champion. The 20-year-old driver finished third in the Mexico City Grand Prix race behind Max Verstappen and Lewis Hamilton.",
+   "published_date": "Mon, 02 Nov 2026 05:54:49 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Latest news bulletin | November 1st, 2026 – Evening",
    "url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-evening",
    "content": "Catch up with the most important stories from around Europe and beyond this November 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/video/2026/10/30/czech-republic-meerkats-and-cheetah-cubs-play-with-halloween-pumpkins",
    "content": "Halloween has arrived at Prague Zoo, where meerkats are exploring pumpkins stuffed with worms and cheetah cubs are discovering seasonal toys. Four days of activities will bring treats to 14 animal species.",
    "published_date": "Fri, 30 Oct 2026 14:50:45 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Italy: Thousands protest rising living costs and defence spending in general strike",
-   "url": "https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike",
-   "content": "Thousands of protesters marched through Rome, Italy, on Friday, 30 October, during a general strike called by the left-wing Unione Sindacale di Base (USB) trade union.",
-   "published_date": "Fri, 30 Oct 2026 14:26:01 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "North Korea warns South Korea with ballistic missiles as Seoul calls for talks to ease border tensions",
-   "url": "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor",
-   "content": "Missile launches and a dispute over a landmine incident have heightened tensions between the two Koreas. Seoul is seeking military talks to prevent accidental clashes, but Pyongyang has yet to respond.",
-   "published_date": "Fri, 30 Oct 2026 13:32:29 +0100",
    "score": 0.6
   }
  ],
