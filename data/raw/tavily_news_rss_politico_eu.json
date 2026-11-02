@@ -2,7 +2,14 @@
  "success": true,
  "results": [
   {
-   "title": "De Wever poised to offer his resignation as Belgian budget talks fail",
+   "title": "Hackers attack supermarket fridges in Belgium, Sweden and Luxembourg",
+   "url": "https://www.politico.eu/article/new-supermarket-hack-in-belgium-sweden-luxembourg/",
+   "content": "Store fridges heated up to 50 degrees Celsius, mimicking similar incidents that plagued France last month.",
+   "published_date": "Mon, 02 Nov 2026 11:19:32 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "King mulls De Wever’s resignation as Belgian budget talks fail",
    "url": "https://www.politico.eu/article/belgian-government-in-crisis-over-failed-budget-talks/",
    "content": "The prime minister's coalition is in crisis over stalled attempts to reach a deal for next year's budget.",
    "published_date": "Mon, 02 Nov 2026 08:58:14 +0000",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/european-commission-backs-donald-tusk-over-poland-constitutional-court-judges/",
    "content": "\"Appointing the new judges lies within the power of the Sejm,\" Commissioner Michael McGrath told POLITICO.",
    "published_date": "Sun, 01 Nov 2026 11:52:15 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UK’s future lies in EU, says Rachel Reeves",
-   "url": "https://www.politico.eu/article/uk-future-eu-says-rachel-reeves/",
-   "content": "The intervention by the former British chancellor comes ahead of a UK-EU summit later this month.",
-   "published_date": "Sun, 01 Nov 2026 10:45:36 +0000",
    "score": 0.6
   }
  ],

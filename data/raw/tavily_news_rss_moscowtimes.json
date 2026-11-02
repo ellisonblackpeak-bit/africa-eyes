@@ -2,8 +2,22 @@
  "success": true,
  "results": [
   {
-   "title": "Russia's FSB Says Minor Detained Over Moscow Park Attack Threat After U.S. Tip-Off",
-   "url": "https://www.themoscowtimes.com/2026/11/01/russias-fsb-says-minor-detained-over-moscow-park-attack-threat-after-us-tip-off-a94148",
+   "title": "Kremlin Downplays Prospect of Resuming Gas Shipments to Europe via Ukraine",
+   "url": "https://www.themoscowtimes.com/2026/11/02/kremlin-downplays-prospect-of-resuming-gas-shipments-to-europe-via-ukraine-a94151",
+   "content": "U.S. officials reportedly suggested the idea during talks in September as an incentive for Russia to halt strikes on Ukraine’s energy grid.",
+   "published_date": "Mon, 02 Nov 2026 14:17:44 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Ukrainian Drones Hit Major Oil Transport Hub in Samara Region",
+   "url": "https://www.themoscowtimes.com/2026/11/02/ukrainian-drones-hit-major-oil-transport-hub-in-samara-region-a94149",
+   "content": "The Transneft-owned facility, which moves crude toward refineries and pipelines in western Russia, has been repeatedly attacked this month.",
+   "published_date": "Mon, 02 Nov 2026 12:24:00 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "FSB Arrests Minor Over Moscow Park Attack Threat After U.S. Tip-Off",
+   "url": "https://www.themoscowtimes.com/2026/11/01/fsb-arrests-minor-over-moscow-park-attack-threat-after-us-tip-off-a94148",
    "content": "The U.S. Embassy in Moscow had issued an urgent security alert warning of a credible threat of a mass casualty event.",
    "published_date": "Sun, 01 Nov 2026 17:18:00 +0300",
    "score": 0.6
@@ -195,20 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/27/it-worker-jailed-13-years-in-russia-after-binance-revealed-he-donated-money-to-ukraine-a94098",
    "content": "Binance provided Russian investigators with Yury Belenky's transaction history last year, including records of transfers to Ukrainian fundraising campaigns.",
    "published_date": "Tue, 27 Oct 2026 19:07:25 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Kremlin-Linked Businessman Joined Donald Trump Jr. on Mongolian Hunting Trip This Summer – FT",
-   "url": "https://www.themoscowtimes.com/2026/10/27/kremlin-linked-businessman-joined-donald-trump-jr-on-mongolian-hunting-trip-this-summer-ft-a94096",
-   "content": "Businessman Umar Kremlev was previously revealed to have partly funded Trump Jr.’s wedding on a private Caribbean island in May.",
-   "published_date": "Tue, 27 Oct 2026 18:51:59 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Putin Warns Against Attempts to Exclude Russia From Global Natural Gas Market",
-   "url": "https://www.themoscowtimes.com/2026/10/27/putin-warns-against-attempts-to-exclude-russia-from-global-natural-gas-market-a94095",
-   "content": "The Russian president also confirmed potential joint energy projects with the United States in the Arctic.",
-   "published_date": "Tue, 27 Oct 2026 17:28:24 +0300",
    "score": 0.6
   }
  ],

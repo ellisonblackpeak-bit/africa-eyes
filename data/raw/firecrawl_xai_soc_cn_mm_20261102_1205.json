@@ -1,0 +1,116 @@
+{
+ "query": "China Myanmar Chinese company Kachin Rakhine investment",
+ "_tag": "soc_cn_mm",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/EvanderKnoxley/status/2117142900341625172",
+     "title": "China's answer to the Malacca problem was a pipeline from Myanmar to Yunnan.",
+     "description": "China's answer to the Malacca problem was a pipeline from Myanmar to Yunnan.\n\nCapacity: about 440,000 barrels a day. China imports more than 10 million.\n\nHere is the catch. The pipeline starts at a port. The oil gets there by tanker, from the Middle East and Africa. ⬇️",
+     "snippet": "China's answer to the Malacca problem was a pipeline from Myanmar to Yunnan.\n\nCapacity: about 440,000 barrels a day. China imports more than 10 million.\n\nHere is the catch. The pipeline starts at a port. The oil gets there by tanker, from the Middle East and Africa. ⬇️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Evander Knoxley",
+     "handle": "@EvanderKnoxley"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2116869760843665794",
+     "title": "PipeChina just celebrated moving over 100M tons of crude through Myanmar.",
+     "description": "PipeChina just celebrated moving over 100M tons of crude through Myanmar. 771 km of steel cutting right through Shan, Mandalay, Magwe & Rakhine. China gets its Malacca bypass & energy security & our country is literally burning around their pipeline\n\n#WhatsHappeningInMyanmar",
+     "snippet": "PipeChina just celebrated moving over 100M tons of crude through Myanmar. 771 km of steel cutting right through Shan, Mandalay, Magwe & Rakhine. China gets its Malacca bypass & energy security & our country is literally burning around their pipeline\n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/SarahAdams35763/status/2116883024973271543",
+     "title": "Myanmar’s junta is now trying to restart the Myitsone Dam, paused in 2011 over environmental risks It is a China-backed dam, with China hold",
+     "description": "Myanmar’s junta is now trying to restart the Myitsone Dam, paused in 2011 over environmental risks\n\nIt is a China-backed dam, with China holding an 80% share & with China taking 90% of the electricity!\n\nThe junta is destroying Myanmar for China!  \n\n#WhatsHappeningInMyanmar",
+     "snippet": "Myanmar’s junta is now trying to restart the Myitsone Dam, paused in 2011 over environmental risks\n\nIt is a China-backed dam, with China holding an 80% share & with China taking 90% of the electricity!\n\nThe junta is destroying Myanmar for China!  \n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sarah Adams",
+     "handle": "@SarahAdams35763"
+    },
+    {
+     "url": "https://x.com/SarahAdams35763/status/2116883962748383610",
+     "title": "Why is Min Aung Hlaing pushing so hard to revive Myitsone Dam?",
+     "description": "Why is Min Aung Hlaing pushing so hard to revive Myitsone Dam?\n\nHe claims it’ll fix chronic blackouts, but under the contract, almost all the power gets exported straight to China. And how on earth does a bankrupt regime plan to repay massive debt for it?\n\nhttps://www.irrawaddy.com/news/burma/cartoon-campaign-boosts-myanmar-regimes-hydropower-dreams.html",
+     "snippet": "Why is Min Aung Hlaing pushing so hard to revive Myitsone Dam?\n\nHe claims it’ll fix chronic blackouts, but under the contract, almost all the power gets exported straight to China. And how on earth does a bankrupt regime plan to repay massive debt for it?\n\nhttps://www.irrawaddy.com/news/burma/cartoon-campaign-boosts-myanmar-regimes-hydropower-dreams.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sarah Adams",
+     "handle": "@SarahAdams35763"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2116870716180066810",
+     "title": "The irony is that the ethnic armed groups like Arakan Army, KIA, and TNLA control major sections of the pipeline route right now.",
+     "description": "The irony is that the ethnic armed groups like Arakan Army, KIA, and TNLA control major sections of the pipeline route right now. These valves could literally cut off the junta’s financial lifeline overnight if someone turned them.\n\n#WhatsHappeningInMyanmar",
+     "snippet": "The irony is that the ethnic armed groups like Arakan Army, KIA, and TNLA control major sections of the pipeline route right now. These valves could literally cut off the junta’s financial lifeline overnight if someone turned them.\n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2116870711079755845",
+     "title": "But Beijing plays both sides to protect its corridor.",
+     "description": "But Beijing plays both sides to protect its corridor. They do deals with EAOs on the ground and bankroll the junta in Naypyidaw, purely to keep their oil flowing to Yunnan. Our people are dying, and Myanmar is being treated like a giant gas station.\n\n#WhatsHappeningInMyanmar",
+     "snippet": "But Beijing plays both sides to protect its corridor. They do deals with EAOs on the ground and bankroll the junta in Naypyidaw, purely to keep their oil flowing to Yunnan. Our people are dying, and Myanmar is being treated like a giant gas station.\n\n#WhatsHappeningInMyanmar",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2116872007044280360",
+     "title": "The absolute joke is that under the original contract, most of the power was meant for export to China anyway.",
+     "description": "The absolute joke is that under the original contract, most of the power was meant for export to China anyway. And there are risks of delta saltwater intrusion and flash floods, but the junta cares more about serving China than our lives",
+     "snippet": "The absolute joke is that under the original contract, most of the power was meant for export to China anyway. And there are risks of delta saltwater intrusion and flash floods, but the junta cares more about serving China than our lives",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2116872002397168081",
+     "title": "But this is entirely China’s agenda.",
+     "description": "But this is entirely China’s agenda. Beijing wants this mega-dam back on the table to secure resources and political leverage, treating Myanmar like a colony while the cash-strapped junta acts as its puppet to force it through.",
+     "snippet": "But this is entirely China’s agenda. Beijing wants this mega-dam back on the table to secure resources and political leverage, treating Myanmar like a colony while the cash-strapped junta acts as its puppet to force it through.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/WinKaung41/status/2116871997552758848",
+     "title": "Myanmar junta is desperately pushing to revive disastrous Myitsone Dam, dragging locals into 50+ staged public meetings and strong-arming co",
+     "description": "Myanmar junta is desperately pushing to revive disastrous Myitsone Dam, dragging locals into 50+ staged public meetings and strong-arming communities to manufacture fake support for a project our country already rejected- a thread\n\n@KenRoth @benedictrogers @volker_turk",
+     "snippet": "Myanmar junta is desperately pushing to revive disastrous Myitsone Dam, dragging locals into 50+ staged public meetings and strong-arming communities to manufacture fake support for a project our country already rejected- a thread\n\n@KenRoth @benedictrogers @volker_turk",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Win Kaung Min",
+     "handle": "@WinKaung41"
+    },
+    {
+     "url": "https://x.com/LagetaD97805/status/2117142301067927673",
+     "title": "Everyday we have American, Russians, Ukrainians infiltrate NE to train local militias.",
+     "description": "Everyday we have American, Russians, Ukrainians infiltrate NE to train local militias. In Burma there are thousands of Foreign mercenaries and the entire world will turn their focus on SEA now. After China banned export of REMs which they freely extract from Kachin...",
+     "snippet": "Everyday we have American, Russians, Ukrainians infiltrate NE to train local militias. In Burma there are thousands of Foreign mercenaries and the entire world will turn their focus on SEA now. After China banned export of REMs which they freely extract from Kachin...",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Fabrizio Romanov",
+     "handle": "@LagetaD97805"
+    }
+   ]
+  }
+ ]
+}

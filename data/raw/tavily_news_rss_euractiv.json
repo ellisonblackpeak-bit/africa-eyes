@@ -2,10 +2,66 @@
  "success": true,
  "results": [
   {
+   "title": "FIREPOWER: UK’s Streeting in Brussels",
+   "url": "https://www.rapporteur.com/news/firepower-uks-streeting-in-brussels/",
+   "content": "In today's edition: Patria, CSG, DiBaX 2026",
+   "published_date": "Mon, 02 Nov 2026 09:14:48 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "THE HACK: Cloud industry’s CAIDA gripes",
+   "url": "https://www.rapporteur.com/news/the-hack-cloud-industrys-caida-gripes/",
+   "content": "In today's edition: Kids Act, Frontex, AI stocks",
+   "published_date": "Mon, 02 Nov 2026 09:10:45 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "VOLTAGE: A tale of two COPs",
+   "url": "https://www.rapporteur.com/news/voltage-a-tale-of-two-cops/",
+   "content": "In today's edition: gas storage, ice loss, Russian energy",
+   "published_date": "Mon, 02 Nov 2026 09:06:09 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIRST AID: Dublin eyes clinical trials deal",
+   "url": "https://www.rapporteur.com/news/first-aid-dublin-eyes-clinical-trials-deal/",
+   "content": "In today's edition: week ahead, drug pricing, radiation poisoning",
+   "published_date": "Mon, 02 Nov 2026 09:01:54 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "HARVEST: Navigating discontent",
+   "url": "https://www.rapporteur.com/news/harvest-navigating-discontent/",
+   "content": "In today's edition: animal transport, promotion policy, trawling ban",
+   "published_date": "Mon, 02 Nov 2026 08:49:20 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Belgian PM offers resignation after budget talks collapse",
+   "url": "https://www.rapporteur.com/news/belgian-pm-offers-resignation-after-budget-talks-collapse/",
+   "content": "King Phillipe will consider de Wever's resignation and starts consultations with majority party leaders tomorrow",
+   "published_date": "Mon, 02 Nov 2026 08:48:46 +0000",
+   "score": 0.6
+  },
+  {
    "title": "‘Institutional inertia’",
    "url": "https://www.rapporteur.com/news/rapporteur-am-institutional-inertia/",
    "content": "Also, in Monday’s edition: the AfD’s pro-Ukraine dissenter",
    "published_date": "Mon, 02 Nov 2026 06:18:08 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "A combustion engine running on renewables: is that possible? [Promoted Content]",
+   "url": "https://www.rapporteur.com/opinion/a-combustion-engine-running-on-renewables-is-that-possible/",
+   "content": "VEEFs, vehicles running exclusively on eligible fuels, combine existing engine technology with verified eligible fuels. Monitoring and physical or mass-balanced supply make this feasible now. The automotive and fuel industries have delivered. Europe's policymakers must now turn this readiness into implementation.",
+   "published_date": "Mon, 02 Nov 2026 06:00:38 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "INTERVIEW: The AfD’s pro-Ukraine dissenter",
+   "url": "https://www.rapporteur.com/news/interview-the-afds-pro-ukraine-dissenter/",
+   "content": "Rainer Kraft, an AfD MP, is pushing his far-right party to distance itself from Moscow",
+   "published_date": "Mon, 02 Nov 2026 05:00:16 +0000",
    "score": 0.6
   },
   {
@@ -153,62 +209,6 @@
    "url": "https://www.rapporteur.com/news/german-demands-shape-latest-eu-space-act-compromise/",
    "content": "The latest compromise also tightens conditions for US companies seeking access to the EU market",
    "published_date": "Fri, 30 Oct 2026 16:39:37 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Dutch government warns of privacy risks in EU Kids Act",
-   "url": "https://www.rapporteur.com/news/dutch-government-warns-of-privacy-risks-in-eu-kids-act/",
-   "content": "Excessive reliance on parents could also create inequalities between kids, government paper warns",
-   "published_date": "Fri, 30 Oct 2026 16:05:59 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "A combustion engine running on renewables: is that possible? [Promoted Content]",
-   "url": "https://www.rapporteur.com/opinion/a-combustion-engine-running-on-renewables-is-that-possible/",
-   "content": "VEEFs, vehicles running exclusively on eligible fuels, combine existing engine technology with verified eligible fuels. Monitoring and physical or mass-balanced supply make this feasible now. The automotive and fuel industries have delivered. Europe's policymakers must now turn this readiness into implementation.",
-   "published_date": "Fri, 30 Oct 2026 15:35:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Irish drug watchdog backs Wegovy funding but flags €4.4bn bill [Partner Content]",
-   "url": "https://www.rapporteur.com/news/irish-drug-watchdog-backs-wegovy-funding-but-flags-e4-4bn-bill/",
-   "content": "Recommendation lands as PwC finds one in five Irish consumers open to using weight-loss drugs",
-   "published_date": "Fri, 30 Oct 2026 15:02:53 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Spain’s transport minister refuses to step down over deadly train crash",
-   "url": "https://www.rapporteur.com/news/spains-transport-minister-refuses-to-step-down-over-deadly-train-crash/",
-   "content": "More than 100 people have died in two high-speed rail disasters in Spain this year",
-   "published_date": "Fri, 30 Oct 2026 13:42:28 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Latvia, the Netherlands to host new European Drone Technology Hubs",
-   "url": "https://www.rapporteur.com/news/latvia-the-netherlands-to-host-new-european-drone-technology-hubs/",
-   "content": "The Latvian centre will focus on air and land drones, the one in the Netherlands on maritime assets",
-   "published_date": "Fri, 30 Oct 2026 13:34:11 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "New handling fee set to hit non-EU parcels",
-   "url": "https://www.rapporteur.com/news/new-handling-fee-set-to-hit-non-eu-parcels/",
-   "content": "The levy could also help fund the EU’s long-term budget",
-   "published_date": "Fri, 30 Oct 2026 12:48:34 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UK probes Meta’s AI business terms after press publisher outcry",
-   "url": "https://www.rapporteur.com/news/uk-probes-metas-ai-business-terms-after-press-publisher-outcry/",
-   "content": "Watchdog to consider whether T&Cs update imposes unfair trading conditions",
-   "published_date": "Fri, 30 Oct 2026 12:18:24 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "French presidential candidate questioned in funds probe",
-   "url": "https://www.rapporteur.com/news/french-presidential-candidate-questioned-in-funds-probe/",
-   "content": "Investigative judges placed him under \"assisted witness\" status",
-   "published_date": "Fri, 30 Oct 2026 12:14:44 +0000",
    "score": 0.6
   }
  ],
