@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "‘Institutional inertia’",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-institutional-inertia/",
+   "content": "Also, in Monday’s edition: the AfD’s pro-Ukraine dissenter",
+   "published_date": "Mon, 02 Nov 2026 06:18:08 +0000",
+   "score": 0.6
+  },
+  {
    "title": "EU cloud providers baulk at Brussels’ sovereignty demands",
    "url": "https://www.rapporteur.com/news/the-eu-sovereign-cloud-criteria-that-european-providers-dislike/",
    "content": "European and US cloud providers both gripe about some CAIDA requirements",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/french-presidential-candidate-questioned-in-funds-probe/",
    "content": "Investigative judges placed him under \"assisted witness\" status",
    "published_date": "Fri, 30 Oct 2026 12:14:44 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU mourns four Italians killed in EUFOR Bosnia mission crash",
-   "url": "https://www.rapporteur.com/news/eu-mourns-four-italians-killed-in-eufor-bosnia-mission-crash/",
-   "content": "Four Italian nationals serving with the EUFOR Althea mission died in a helicopter crash in Bosnia on Thursday.",
-   "published_date": "Fri, 30 Oct 2026 11:50:21 +0000",
    "score": 0.6
   }
  ],

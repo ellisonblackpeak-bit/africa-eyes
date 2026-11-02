@@ -2,9 +2,51 @@
  "success": true,
  "results": [
   {
+   "title": "Michigan Democrat stuns party to back Republican candidate in critical Senate race",
+   "url": "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+   "content": "A high-profile Democratic defection shook Michigan's Senate race on the eve of US midterm elections as Representative Haley Stevens threw her support behind Republican Mike Rogers rather than backing the Democratic candidate, Abdul Al-Sayed, who beat her in the primary race. The move exposed divisions within the party as control of Congress hangs in the balance.",
+   "published_date": "Mon, 02 Nov 2026 08:20:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Michigan Democrat's endorsement of Republican ruffles critical Senate race",
+   "url": "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race",
+   "content": "A prominent Michigan Democrat endorsed Republican Mike Rogers on Sunday, giving President Donald Trump's Republicans an unexpected boost in a critical US Senate race two days before midterm elections that will decide control of Congress. FRANCE 24's Caroline Baum brings us more with this report.",
+   "published_date": "Mon, 02 Nov 2026 07:55:44 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Taliban voices 'serious concern' over US plan to deport Afghan migrants via Pakistan",
+   "url": "https://www.france24.com/en/asia-pacific/20261102-taliban-voice-alarm-over-us-plan-to-deport-afghan-migrants-via-pakistan",
+   "content": "Afghanistan's Taliban government expressed concern on Monday over reported US plans to deport more than 150 Afghans from the US to Pakistan for an eventual return home, with advocacy groups warning the removal could endanger their lives.",
+   "published_date": "Mon, 02 Nov 2026 07:26:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Liga: Yan Diomandé and Kylian Mbappé score again for Real Madrid",
+   "url": "https://www.france24.com/en/tv-shows/sports/20261102-liga-yan-diomand%C3%A9-and-kylian-mbapp%C3%A9-score-again-for-real-madrid",
+   "content": "Kylian Mbappé and Yan Diomandé have once again scored for Real Madrid against Santander (3-0). After a difficult start to the season, Real Madrid have now won 9 of their last 10 games.",
+   "published_date": "Mon, 02 Nov 2026 06:28:22 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
+   "url": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
+   "content": "Russia and Ukraine on Monday traded accusations over cyberattacks, with Moscow reporting a hack of its emergency alerts app hours after Kyiv said its own air raid warning system had been compromised. The incidents came as a fragile ceasefire in Ukraine's Kherson region expired, raising fears of renewed fighting. Follow our liveblog for all the latest updates.",
+   "published_date": "Mon, 02 Nov 2026 06:19:40 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Midterms 2026: Georgians on the front lines of the people’s war against data centres",
+   "url": "https://www.france24.com/en/americas/20261102-midterms-2026-georgians-front-lines-people-war-against-data-centres",
+   "content": "Artificial intelligence emerged as a major issue on the 2026 US midterm campaign trail, with opposition to data centres drawing supporters across partisan divides united over ecological worries, increased utility bills and business interests outweighing citizen concerns. Georgia, the top US market for data centre construction, has been on the front line of the struggle.",
+   "published_date": "Mon, 02 Nov 2026 06:11:55 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Russia and Ukraine accuse each other of hacking emergency alert apps",
    "url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
-   "content": "Russia and Ukraine accused each other of hacking their emergency alert applications as a local ceasefire in the war's eastern Kherson region expired on Sunday. The cyberattacks came as both sides warned of renewed fighting and Kyiv signalled it could halt strikes on Russian oil refineries in exchange for US Patriot missiles.",
+   "content": "Russia and Ukraine accused each other of hacking their emergency alert applications after a local ceasefire in the war's eastern Kherson region expired on Sunday. The cyberattacks came as both sides warned of renewed fighting and Kyiv signalled it could halt strikes on Russian oil refineries in exchange for US Patriot missiles.",
    "published_date": "Mon, 02 Nov 2026 01:20:44 GMT",
    "score": 0.6
   },
@@ -18,7 +60,7 @@
   {
    "title": "Iran warns renewed war with US could outlast previous conflict",
    "url": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
-   "content": "Iran warned on Sunday that a renewed war with the United States could last longer than the previous conflict, as President Donald Trump suggested Washington still had targets to strike. Tehran threatened retaliation without geographical limits while diplomatic efforts continued to avert a fresh escalation ahead of Tuesday's US midterm elections.",
+   "content": "Iran on Sunday said that a renewed war with the United States could last longer than the previous round of fighting, as President Donald Trump suggested that Washington still had targets to strike. Tehran threatened retaliation without geographical limits while diplomatic efforts continued to avert a fresh escalation ahead of Tuesday's US midterm elections.",
    "published_date": "Mon, 02 Nov 2026 00:23:23 GMT",
    "score": 0.6
   },
@@ -125,48 +167,6 @@
    "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
    "content": "The longest truce of the war in Ukraine, localised in the region of Kherson, ended on Sunday after Russia refused to extend the ceasefire. The temporary pause in fighting, which began on Tuesday, enabled a humanitarian mission to the Russian-occupied town of Olechky.",
    "published_date": "Sun, 01 Nov 2026 12:41:48 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "The week in pictures: Lula's victory, Israeli elections and Spain train crash",
-   "url": "https://www.france24.com/en/europe/20261101-the-week-in-pictures-lula-s-victory-israeli-elections-and-spain-train-crash",
-   "content": "From Luiz Inacio Lula da Silva's reelection in Brazil's presidential polls, to razor-sharp margins in the Israeli general elections, to a deadly high-speed train collision in Spain, FRANCE 24 looks back at some of the most striking images from the past week.",
-   "published_date": "Sun, 01 Nov 2026 11:14:42 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "A day of celebration in Senegal as the Youth Olympic Games get underway",
-   "url": "https://www.france24.com/en/tv-shows/sports/20261101-a-day-of-celebration-in-senegal-as-the-youth-olympic-games-get-underway",
-   "content": "It is a historic day for Africa and Senegal. For the first time ever, an Olympic competition is being held on African soil. The Youth Olympic Games officially got underway in Senegal in the Dakar region on Saturday, with an opening ceremony attended by 30,000 people. The competition, which brings together 2,700 athletes aged between 14 and 17, will take place across three Senegalese cities, with 25 sports on the programme.",
-   "published_date": "Sun, 01 Nov 2026 11:14:31 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Senegal hosts first Olympic event on African continent",
-   "url": "https://www.france24.com/en/senegal-hosts-first-olympic-event-on-african-continent",
-   "content": "Youth Olympics make history with first African Games in over 130 years, opened by Senegal’s president in Dakar. 136 Senegalese athletes are competing, supported by 6,000 local volunteers.",
-   "published_date": "Sun, 01 Nov 2026 09:58:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Youth Olympic Games kick off in Dakar",
-   "url": "https://www.france24.com/en/youth-olympic-games-kick-off-in-dakar",
-   "content": "The 2026 Youth Olympic Games have officially kicked off in Senegal. Crowds gathered for Saturday's opening ceremony, featuring hundreds of drummers and dancers celebrating Senegalese and wider African culture, in keeping with the Games' motto: “Africa welcomes, Dakar celebrates”. It is the first-ever Olympic sporting event to be held on the African continent, but comes as Senegal faces an economic crisis. The country's president has said he wants to turn sport into an “economic and social engine”. The Games also come amid a government crackdown on LGBTQ+ people. Nearly 3,000 teenagers from more than 200 countries are competing in around a dozen sports, including athletics, beach wrestling and a five-a-side version of baseball. Jean-Loup Chappelet, Professor at Lausanne University and Olympics specialist, shares further insights.",
-   "published_date": "Sun, 01 Nov 2026 09:49:04 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "The World celebrates Halloween: Traditions, costumes and pumpkins",
-   "url": "https://www.france24.com/en/video/20261101-the-world-celebrates-halloween-traditions-costumes-and-pumpkins",
-   "content": "Halloween celebrations have been embraced in many countries around the world. Charlotte Hughes brings us this round-up.",
-   "published_date": "Sun, 01 Nov 2026 09:43:06 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "France: 115 yachts will sail out of Sain-Malo for Route du Rhum race",
-   "url": "https://www.france24.com/en/france-115-yachts-will-sail-out-of-sain-malo-for-route-du-rhum-race",
-   "content": "In Saint-Malo, in France's Brittany region, the legendary Route du Rhum is preparing to set sail. Billed as the world's biggest solo transatlantic race, it sees skippers sail alone from France's northern coast to the Caribbean island of Guadeloupe. It's a high-speed, high-risk crossing that takes place every four years.",
-   "published_date": "Sun, 01 Nov 2026 09:40:42 GMT",
    "score": 0.6
   }
  ],

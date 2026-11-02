@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Iran ta yi wa Amurka sabon barazanar yaƙi",
+   "url": "https://www.bbc.co.uk/hausa/live/c98rznxjyxz2t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 02/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Hanyoyi uku da masu tsattsauran ra'ayi ke bi wajen jan hankalin matasa a Najeriya",
    "url": "https://www.bbc.com/hausa/articles/cxvgdm01205jo?at_medium=RSS&at_campaign=rss",
    "content": "A Najeriya, miliyoyin matasa ne ke amfani da kafafen sada zumunta da sauran ɓangarorin intanet a kullum.",
@@ -51,13 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Shin AI barazana ne ga ayyukan mata?",
-   "url": "https://www.bbc.com/hausa/articles/cr1ex2deqq2no?at_medium=RSS&at_campaign=rss",
-   "content": "Ta yaya basirar wucin gadi ke tasiri kan damar da mata ke da ita a kasuwar aiki? Tsoron ganin wasu ayyukan yi sun ɓace na tafiya kafada da kafada da bullowar sabbin damarmaki; ta hanyar horo da kuma ƙwarewar fasahar dijital, mata na iya cin gajiyar waɗannan sauye-sauye.",
-   "published_date": "Sun, 01 Nov 2026 14:03:00 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.com/hausa/articles/c820v37de6vgo?at_medium=RSS&at_campaign=rss",
    "content": "Kylian Mbappe yana fuskantar koma baya a kasar Sin bayan kalamansa game da shugaba, Mao Zedong, lamarin da ya bi sahun katse huldar kasuwanci tsakaninsa da wasu kamfanonin kasar.",
    "published_date": "Thu, 29 Oct 2026 17:43:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Shin AI barazana ne ga ayyukan mata?",
+   "url": "https://www.bbc.com/hausa/articles/cr1ex2deqq2no?at_medium=RSS&at_campaign=rss",
+   "content": "Ta yaya basirar wucin gadi ke tasiri kan damar da mata ke da ita a kasuwar aiki? Tsoron ganin wasu ayyukan yi sun ɓace na tafiya kafada da kafada da bullowar sabbin damarmaki; ta hanyar horo da kuma ƙwarewar fasahar dijital, mata na iya cin gajiyar waɗannan sauye-sauye.",
+   "published_date": "Sun, 01 Nov 2026 14:03:00 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cm74pvyevd32o?at_medium=RSS&at_campaign=rss",
    "content": "A yayin da shirye-shiryen ƴanhamayyar Najeriya na dunƙulewa wuri ɗaya don tunkarar Tinubu a zaɓen 2027 ke fuskantar koma-baya, wasu ƴanƙasar sun fara tunanin ko ƴan adawar za su iya kai kunyarsu a zaɓen mai zuwa.",
    "published_date": "Fri, 30 Oct 2026 03:56:45 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Qur'ani zalla: Asalinsu, aƙidarsu da tasirinsu a Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/cm3vq62d7zlro?at_medium=RSS&at_campaign=rss",
-   "content": "\"Fitowar wannan sabon salo na Qur'ani zalla a Arewacin Najeriya na wakiltar wani muhimmin sauyi a tunanin addinin Musulunci, domin yana ƙalubalantar tsarin ilimin Musulunci da aka gina tun ƙarni da ƙarnuka.\"",
-   "published_date": "Fri, 30 Oct 2026 03:56:22 GMT",
    "score": 0.6
   }
  ],

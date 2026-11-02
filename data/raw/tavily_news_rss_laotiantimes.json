@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Laos Eyes 500MW Renewable Electricity Export to Singapore",
+   "url": "https://laotiantimes.com/2026/11/02/laos-eyes-500mw-renewable-electricity-export-to-singapore/",
+   "content": "Laos is eyeing a major expansion of its clean energy exports following a proposed agreement to supply up to 500 megawatts (MW) of renewable electricity to Singapore. On 30 October, Électricité du Laos (EDL), the Lao Phongsupthavy Group, and Singapore’s Tuas Power agreed to explore a long-term power supply arrangement lasting between five and 15 […]",
+   "published_date": "Mon, 02 Nov 2026 05:02:25 +0000",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",
