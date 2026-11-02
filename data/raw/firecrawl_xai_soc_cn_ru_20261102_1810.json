@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/GazpromEN/status/2117270565362815213",
+     "title": "Gazprom tops its all-time maximum for daily gas supplies to China via Power of Siberia pipeline https://www.gazprom.com/press/news/2026/nove",
+     "description": "Gazprom tops its all-time maximum for daily gas supplies to China via Power of Siberia pipeline\n\nhttps://www.gazprom.com/press/news/2026/november/article585799/",
+     "snippet": "Gazprom tops its all-time maximum for daily gas supplies to China via Power of Siberia pipeline\n\nhttps://www.gazprom.com/press/news/2026/november/article585799/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gazprom",
+     "handle": "@GazpromEN"
+    },
+    {
+     "url": "https://x.com/BayStreetBulls/status/2116472646116442264",
+     "title": "Russia is selling gas to China at half price — because it has to.",
+     "description": "Russia is selling gas to China at half price — because it has to.\n\nDuma documents show Beijing pays about $248 per 1,000 cubic metres for Gazprom pipeline gas in 2026, vs $562 for other foreign buyers. A 56% discount.\n\nThat is what losing your best customer looks like.",
+     "snippet": "Russia is selling gas to China at half price — because it has to.\n\nDuma documents show Beijing pays about $248 per 1,000 cubic metres for Gazprom pipeline gas in 2026, vs $562 for other foreign buyers. A 56% discount.\n\nThat is what losing your best customer looks like.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bay Street Finance",
+     "handle": "@BayStreetBulls"
+    },
+    {
+     "url": "https://x.com/ApexWireApp/status/2116367078286360848",
+     "title": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.",
+     "description": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.\n\nThe renewed contraction complicates China's growth target. Russia's projections put China's 2026 pipeline gas price at about $248 per thousand cubic meters, against $562 for Gazprom's other non-former-Soviet buyers.",
+     "snippet": "China's factories shrank again in October, as Russian projections show Beijing paying 56% less than others for its gas.\n\nThe renewed contraction complicates China's growth target. Russia's projections put China's 2026 pipeline gas price at about $248 per thousand cubic meters, against $562 for Gazprom's other non-former-Soviet buyers.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Apex Wire",
+     "handle": "@ApexWireApp"
+    },
+    {
+     "url": "https://x.com/zerohedge/status/2116358356042482095",
+     "title": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-r",
+     "description": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
+     "snippet": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "zerohedge",
+     "handle": "@zerohedge"
+    },
+    {
+     "url": "https://x.com/matthewl_cn/status/2115961580798235055",
+     "title": "Domestic supply growth at this scale directly displaces spot LNG purchases.",
+     "description": "Domestic supply growth at this scale directly displaces spot LNG purchases. CNPC holds pipeline contract optionality, so Beijing can wait on PoS-2 pricing. Gazprom's position weakens with every incremental bcm from Tarim or Ordos.",
+     "snippet": "Domestic supply growth at this scale directly displaces spot LNG purchases. CNPC holds pipeline contract optionality, so Beijing can wait on PoS-2 pricing. Gazprom's position weakens with every incremental bcm from Tarim or Ordos.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "China Chase Matt",
+     "handle": "@matthewl_cn"
+    },
+    {
+     "url": "https://x.com/grok/status/2117260964626088231",
+     "title": "Russia currently sells Urals crude to India and China at FOB discounts typically $15-25/bbl below Brent (now ~$107), though high Asia freigh",
+     "description": "Russia currently sells Urals crude to India and China at FOB discounts typically $15-25/bbl below Brent (now ~$107), though high Asia freight (~$25-30/bbl) often brings delivered prices near parity or a small premium. China also takes ESPO at narrower discounts. Pipeline gas via Power of Siberia averages ~$248 per 1,000 m³, a 50-56% discount versus other Russian export prices.",
+     "snippet": "Russia currently sells Urals crude to India and China at FOB discounts typically $15-25/bbl below Brent (now ~$107), though high Asia freight (~$25-30/bbl) often brings delivered prices near parity or a small premium. China also takes ESPO at narrower discounts. Pipeline gas via Power of Siberia averages ~$248 per 1,000 m³, a 50-56% discount versus other Russian export prices.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/_ooo0OOOO0ooo_/status/2117313239394443618",
+     "title": "\"Russian gas supplies to Turkey decreased by 17%...",
+     "description": "\"Russian gas supplies to Turkey decreased by 17%...\nGazprom's share decreased from 39% to 33%...\nTurkey is the second largest customer of Gazprom after China...\nIran supplies to Turkey increased by almost 40% to 6.37 billion cubic meters\"\nhttps://eadaily.com/en/news/2026/10/23/turkey-underestimated-russian-gas-supplies-decreased-and-prices-rose",
+     "snippet": "\"Russian gas supplies to Turkey decreased by 17%...\nGazprom's share decreased from 39% to 33%...\nTurkey is the second largest customer of Gazprom after China...\nIran supplies to Turkey increased by almost 40% to 6.37 billion cubic meters\"\nhttps://eadaily.com/en/news/2026/10/23/turkey-underestimated-russian-gas-supplies-decreased-and-prices-rose",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "LїckLїck🐈fellacat",
+     "handle": "@_ooo0OOOO0ooo_"
+    },
+    {
+     "url": "https://x.com/WillRobinsonINT/status/2116791023741579678",
+     "title": "When Russia cannot refine its own oil, it has to sell more raw crude abroad, and China is the biggest buyer at a discount.",
+     "description": "When Russia cannot refine its own oil, it has to sell more raw crude abroad, and China is the biggest buyer at a discount. Every burning refinery makes Moscow more dependent on Beijing. Second, both sides fly drones built with Chinese motors, batteries and cameras, according to widely reported investigations. China gets paid & smarter texh no matter whose drone flys.",
+     "snippet": "When Russia cannot refine its own oil, it has to sell more raw crude abroad, and China is the biggest buyer at a discount. Every burning refinery makes Moscow more dependent on Beijing. Second, both sides fly drones built with Chinese motors, batteries and cameras, according to widely reported investigations. China gets paid & smarter texh no matter whose drone flys.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Will Robinson",
+     "handle": "@WillRobinsonINT"
+    },
+    {
+     "url": "https://x.com/JoseAlNino/status/2116665639603519835",
+     "title": "6/ Russia signed a 10-year strategic partnership covering over 350 defense and tech pacts.",
+     "description": "6/ Russia signed a 10-year strategic partnership covering over 350 defense and tech pacts. \n\nBeijing extended roughly $68 billion in oil for loans financing. \n\nTehran provided drone technology and sanctions busting logistics. US economic warfare created this counter bloc.",
+     "snippet": "6/ Russia signed a 10-year strategic partnership covering over 350 defense and tech pacts. \n\nBeijing extended roughly $68 billion in oil for loans financing. \n\nTehran provided drone technology and sanctions busting logistics. US economic warfare created this counter bloc.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "José Niño | Unfiltered Politics",
+     "handle": "@JoseAlNino"
+    },
+    {
+     "url": "https://x.com/TheEconomist/status/2116122998948147623",
+     "title": "Russia and China have been growing closer.",
+     "description": "Russia and China have been growing closer. Since Vladimir Putin annexed Crimea, Russia’s president has leaned on Beijing to fund the war in Ukraine and blunt the effect of Western sanctions. But their friendship has limits. Arkady Ostrovsky, The Economist’s Russia editor, explains why Russia may have become too dependent on China. Watch the full show:",
+     "snippet": "Russia and China have been growing closer. Since Vladimir Putin annexed Crimea, Russia’s president has leaned on Beijing to fund the war in Ukraine and blunt the effect of Western sanctions. But their friendship has limits. Arkady Ostrovsky, The Economist’s Russia editor, explains why Russia may have become too dependent on China. Watch the full show:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Economist",
+     "handle": "@TheEconomist"
+    }
+   ]
+  }
+ ]
+}

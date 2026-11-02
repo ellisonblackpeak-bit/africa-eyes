@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 2nd, 2026 – Evening",
+   "url": "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-evening",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Mon, 02 Nov 2026 18:00:26 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine’s ‘Stargate’ drone carries wounded troops from frontline",
+   "url": "https://www.euronews.com/video/2026/11/02/ukraines-stargate-drone-carries-wounded-troops-from-frontline",
+   "content": "Ukraine’s Skyfall says its Stargate drone has evacuated two wounded soldiers from the front line, flying 15 km each way at up to 105 km/h.",
+   "published_date": "Mon, 02 Nov 2026 17:26:59 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Fridges stand empty in Belgian supermarkets after cyberattack",
    "url": "https://www.euronews.com/video/2026/11/02/fridges-stand-empty-in-belgian-supermarkets-after-cyberattack",
    "content": "Supermarkets in several European countries have reported cyberattacks targeting refrigeration systems, causing food to spoil and forcing some stores to close off their fridges and freezers.",
@@ -90,6 +104,13 @@
    "url": "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-morning",
    "content": "Catch up with the most important stories from around Europe and beyond this November 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
    "published_date": "Mon, 02 Nov 2026 07:00:32 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US midterms: Democrat Haley Stevens backs Republican Mike Rogers in Michigan Senate race",
+   "url": "https://www.euronews.com/2026/11/02/us-midterms-democrat-haley-stevens-backs-republican-mike-rogers-in-michigan-senate-race",
+   "content": "A Democratic congresswoman has broken with her party to endorse Republican Mike Rogers in Michigan, just two days before the US midterm elections.",
+   "published_date": "Mon, 02 Nov 2026 06:56:35 +0100",
    "score": 0.6
   },
   {
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday",
    "content": "Catch up with the most important stories from around Europe and beyond this October 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
    "published_date": "Sat, 31 Oct 2026 12:00:15 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
-   "url": "https://www.euronews.com/2026/10/31/karcher-boss-less-regulation-more-action-to-get-europe-and-germany-fit-again",
-   "content": "Kärcher, best known for its pressure washers, recorded €3.5 billion in sales in 2025 and employs 17,000 people worldwide. Its CEO warns of a 'perfect storm' and calls for a fitness plan for Germany and Europe.",
-   "published_date": "Sat, 31 Oct 2026 09:30:30 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years",
-   "url": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years",
-   "content": "Kyiv has long called for more interceptors to help its forces fend off Russian missile and drone attacks. The rapidly approaching winter is pressing home that need.",
-   "published_date": "Sat, 31 Oct 2026 08:46:21 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Syrian curriculum changes spark debate over removal of images and historical figures",
-   "url": "https://www.euronews.com/2026/10/31/syrian-curriculum-changes-spark-debate-over-removal-of-images-and-historical-figures",
-   "content": "Changes were not limited to the texts; images and illustrations were also edited in Photoshop, adding hijabs or long robes to female figures, deleting women's photos, and covering or replacing statues, sculptures and artworks.",
-   "published_date": "Sat, 31 Oct 2026 08:00:17 +0100",
    "score": 0.6
   }
  ],
