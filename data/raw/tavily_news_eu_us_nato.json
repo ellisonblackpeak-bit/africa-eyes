@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "North Atlantic Treaty Organization (NATO) | Countries, Founders, Article 5, History, Headquarters, & Purpose | Britannica",
-   "url": "https://www.britannica.com/topic/North-Atlantic-Treaty-Organization",
-   "snippet": "the time the Cold War ended, some 900,000 troops—nearly half of them from six countries (United States, United Kingdom, France, Belgium, Canada, and the Netherlands)—were stationed in West Germany. [...] Spurred by the North Korean invasion of South Korea in June 1950 (see Korean War), the United States took steps to demonstrate that it would resist any Soviet military expansion or pressures in Eu",
-   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
    "url": "https://www.militarytimes.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
    "snippet": "The Pentagon has already begun reducing its footprint in Europe. About 80,000 U.S. troops were stationed there across roughly 30 bases as of 2025, according to congressional testimony from the head of U.S. European Command cited in the report.\n\nIn May, the Pentagon announced it would pull about 5,000 troops out of Germany. Then in June, the U.S. cut the forces it would make available to NATO in a ",
@@ -17,8 +10,8 @@
   },
   {
    "title": "NATO allies fear Trump could pull more US troops from Europe after midterm losses - Politico",
-   "url": "https://hromadske.ua/en/world/273659-nato-allies-fear-trump-could-pull-more-us-troops-from-europe-after-midterm-losses-politico",
-   "snippet": "European NATO allies fear that a Republican defeat in Tuesday's US midterm elections could prompt President Donald Trump to intensify pressure on the alliance, potentially withdrawing thousands more American troops from Europe or cutting NATO funding, Politico reported, citing five NATO diplomats.\n\nThe concern is that a Democratic-controlled Congress could constrain Trump's domestic agenda, pushin",
+   "url": "https://hromadske.ua/en/amp/world/273659-nato-allies-fear-trump-could-pull-more-us-troops-from-europe-after-midterm-losses-politico",
+   "snippet": "Diplomats also raised concerns that Trump could reduce US contributions to NATO's common funding, restrict the NATO-backed Prioritized Ukraine Requirements List (PURL) program for purchasing American weapons for Ukraine, or further deepen ties with Russia.\n\nUS law currently sets a minimum troop presence of 76,000 in Europe, although analysts questioned how effectively such restrictions could const",
    "published": "Mon, 02 Nov 2026 17:18:00 GMT",
    "source": "tavily"
   },
@@ -58,10 +51,10 @@
    "source": "tavily"
   },
   {
-   "title": "After the midterms: What a volatile US and an embattled Democratic Party mean for Europe – European Council on Foreign Relations",
-   "url": "https://ecfr.eu/article/after-the-midterms-what-a-volatile-us-and-an-embattled-democratic-party-mean-for-europe",
-   "snippet": "The US may also have to replenish domestic munitions stock by diverting orders intended for allies, given doubts that it could sufficiently confront China in the Pacific. As a result, the Pentagon’s pending review of US force posture in Europe will likely reflect efforts to shift conventional military responsibility in NATO towards European ownership, reduce European dependence on American capabil",
-   "published": "Wed, 28 Oct 2026 11:26:22 GMT",
+   "title": "How the United States Retrenches Matters: Key NATO Allies’ Likely Responses to Alternative U.S. Approaches | RAND",
+   "url": "https://www.rand.org/pubs/research_briefs/RBA5006-1.html",
+   "snippet": "Encourage deeper regional cooperation. NATO 3.0 envisions a self-sufficient Europe that reduces the burden on U.S. forces. Because no one ally is prepared to fill the U.S. role, allies will need to work together to increase their collective strength.\n Avoid leveraging U.S. presence and commitments for secondary U.S. priorities. Policymakers need to weigh the downside of U.S. pressure—undermining r",
+   "published": "Wed, 28 Oct 2026 00:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -69,6 +62,13 @@
    "url": "https://tavily.com/knowledge/company/DEPWNLzwKnuO",
    "snippet": "# NATO\nID: DEPWNLzwKnuO\nWebsite: www.nato.int\nHeadquarters: Brussels, Belgium\nLinkedIn: www.linkedin.com/company/nato · 918,359 followers\nIndustry: International Affairs\nCompany type: Government Agency\nSocial profiles: www.facebook.com/nato, www.twitter.com/nato, www.crunchbase.com/organization/nato\nPhone: 32-2-707-41-11, +32 2 707 5041 [...] Description: Working for peace, security and freedom fo",
    "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Multinational capability delivery | NATO Topic",
+   "url": "https://www.nato.int/en/what-we-do/deterrence-and-defence/multinational-capability-cooperation",
+   "snippet": "to the maximum extent possible. The establishment of the NFTE is significantly decreasing the reliance on US training facilities by making European Allies capable of training their own flight crews in a multinational context. As such, the NFTE serves as an excellent example of transatlantic burden-sharing among NATO Allies from Europe and North America. It is also contributing to NATO’s efforts to",
+   "published": "Thu, 29 Oct 2026 04:00:00 GMT",
    "source": "tavily"
   }
  ],

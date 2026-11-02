@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "British adventurer returns home after 28-year journey around the world",
+   "url": "https://www.euronews.com/video/2026/11/02/british-adventurer-returns-home-after-28-year-journey-around-the-world",
+   "content": "British adventurer Karl Bushby returns to his mother’s home in Hull after completing a 28-year, 50,000-kilometre journey from Chile.",
+   "published_date": "Mon, 02 Nov 2026 22:25:52 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Britain’s 'oldest cars' hit the road for annual London to Brighton run",
    "url": "https://www.euronews.com/video/2026/11/02/britains-oldest-cars-hit-the-road-for-annual-london-to-brighton-run",
    "content": "The UK celebrates 140 years of the motor car as pre-1905 vehicles parade through London's historic streets before heading to Brighton.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
    "content": "The statement comes after a confrontation outside the Constitutional Tribunal building on Friday night, broadcast live on television, that has pushed a decade-old dispute into the wider European political debate.",
    "published_date": "Sun, 01 Nov 2026 07:04:26 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 1st, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sun, 01 Nov 2026 07:00:32 +0100",
    "score": 0.6
   }
  ],
