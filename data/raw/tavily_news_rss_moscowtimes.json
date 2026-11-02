@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Russian Discount Retailer Fix Price Exits Mongolia",
+   "url": "https://www.themoscowtimes.com/2026/11/02/russian-discount-retailer-fix-price-exits-mongolia-a94155",
+   "content": "Industry analysts said Mongolia’s small market size and logistical challenges in the country likely made it difficult for Fix Price to run a sustainable business there.",
+   "published_date": "Mon, 02 Nov 2026 17:48:03 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "FSB Claims Ukraine Sent Drone Goggles Rigged With Explosives to Russian Volunteers",
+   "url": "https://www.themoscowtimes.com/2026/11/02/fsb-claims-ukraine-sent-drone-goggles-rigged-with-explosives-to-russian-volunteers-a94154",
+   "content": "The devices were allegedly wired to detonate immediately upon being turned on, killing or injuring the operators, the FSB said.",
+   "published_date": "Mon, 02 Nov 2026 17:26:22 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Oleshky Ceasefire and Aid Operation End Without Any Violations, Lantratova Says",
+   "url": "https://www.themoscowtimes.com/2026/11/02/oleshky-ceasefire-and-aid-operation-end-without-any-violations-lantratova-says-a94152",
+   "content": "Moscow called the humanitarian operation in Oleshky a success, praising the “level of coordination achieved among participants from all sides.”",
+   "published_date": "Mon, 02 Nov 2026 15:31:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Kremlin Downplays Prospect of Resuming Gas Shipments to Europe via Ukraine",
    "url": "https://www.themoscowtimes.com/2026/11/02/kremlin-downplays-prospect-of-resuming-gas-shipments-to-europe-via-ukraine-a94151",
    "content": "U.S. officials reportedly suggested the idea during talks in September as an incentive for Russia to halt strikes on Ukraine’s energy grid.",
@@ -23,10 +44,10 @@
    "score": 0.6
   },
   {
-   "title": "Russia’s Statistics Agency Hit by Cyberattack as Hackers Claim Massive Data Theft",
-   "url": "https://www.themoscowtimes.com/2026/11/01/russias-statistics-agency-hit-by-cyberattack-as-hackers-claim-massive-data-theft-a94146",
+   "title": "Cyberattack Hits Rosstat as Hackers Claim Huge Data Theft",
+   "url": "https://www.themoscowtimes.com/2026/11/01/cyberattack-hits-rosstat-as-hackers-claim-huge-data-theft-a94146",
    "content": "Hackers claimed to have stolen 23 terabytes of data, including information on Russian losses in the war in Ukraine.",
-   "published_date": "Sun, 01 Nov 2026 17:06:17 +0300",
+   "published_date": "Sun, 01 Nov 2026 17:06:00 +0300",
    "score": 0.6
   },
   {
@@ -188,27 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/28/rosatom-says-it-is-in-advanced-talks-to-supply-floating-nuclear-power-plants-to-african-countries-a94107",
    "content": "At present, only one floating nuclear power plant is in operation globally, in Russia's remote Chukotka region.",
    "published_date": "Wed, 28 Oct 2026 16:39:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russian Spy Satellites Helping Iran’s Allies Target Sites in Saudi Arabia – AP",
-   "url": "https://www.themoscowtimes.com/2026/10/28/russian-spy-satellites-helping-irans-allies-target-sites-in-saudi-arabia-ap-a94102",
-   "content": "Dozens of Russian satellites have been tracked orbiting above facilities in Saudi Arabia before and after Iran-backed groups attacked them.",
-   "published_date": "Wed, 28 Oct 2026 15:18:59 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Norwegian Prime Minister Defends Phone Call With Vladimir Putin",
-   "url": "https://www.themoscowtimes.com/2026/10/28/norwegian-prime-minister-defends-phone-call-with-vladimir-putin-a94104",
-   "content": "Some officials in Europe have criticized Støre and Finnish President Alexander Stubb for their decision to reach out to the Russian leader.",
-   "published_date": "Wed, 28 Oct 2026 14:22:14 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "IT Worker Jailed 13 Years in Russia After Binance Revealed He Donated Money to Ukraine",
-   "url": "https://www.themoscowtimes.com/2026/10/27/it-worker-jailed-13-years-in-russia-after-binance-revealed-he-donated-money-to-ukraine-a94098",
-   "content": "Binance provided Russian investigators with Yury Belenky's transaction history last year, including records of transfers to Ukrainian fundraising campaigns.",
-   "published_date": "Tue, 27 Oct 2026 19:07:25 +0300",
    "score": 0.6
   }
  ],

@@ -1,0 +1,66 @@
+{
+ "query": "Nigeria Morocco gas pipeline West Africa corridor project",
+ "_tag": "soc_corridor",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/zriboua/status/2116284037950050568",
+     "title": "On Morocco, Russia, and Western Sahara: Russia no longer has the strategic foothold in Syria that it once enjoyed, its old friend Gaddafi is",
+     "description": "On Morocco, Russia, and Western Sahara: \n\nRussia no longer has the strategic foothold in Syria that it once enjoyed, its old friend Gaddafi is long gone, and the fallout from Wagner has complicated Moscow's ability to pursue a coherent strategy across Africa. So yes, of course that keeping the Western Sahara conflict alive serves a larger Russian objective of obstructing U.S. influence and preventing the emergence of stronger regional partnerships that could challenge Moscow's interests.\n\nMore importantly, the Russians have also failed to appreciate how much Morocco's position has changed. The kingdom isn't simply an American ally in North Africa anymore. Morocco has become a major economic and financial power in West Africa, with Moroccan banks controlling nearly 30% of the West African banking market, and Moroccan investments spanning telecommunications, fertilizers, infrastructure, and industry. The proposed $25 billion Nigeria-Morocco Atlantic Gas Pipeline, stretching approximately 6,900 kilometers across 13 countries, could further transform the kingdom's strategic importance by connecting West African energy markets to Europe, which will inevitably make Russian gas irrelevant. \n\nIt's safe to say that Moscow has certainly noticed this transformation, which explains why Russian diplomatic rhetoric has become increasingly accommodating toward Rabat (as I pointed out in their draft). But the underlying calculation hasn't changed since Russia still treats an abstention, rather than a favorable vote, as a diplomatic concession for which Morocco should offer something in return. That approach may have worked when Moscow enjoyed greater leverage, but Morocco's growing strategic weight has fundamentally changed the equation.\n\nBy vetoing today's resolution, Moscow apparently believed it could reaffirm its commitment to Algeria, one of its principal regional partners, while preserving its ability to bargain with Morocco. But the Russians have misread the room. Rabat now has much less reason to believe that engagement with Moscow produces meaningful diplomatic returns.\n\nIn many ways, this could be a blessing in disguise for Morocco, exposing Russia's priorities and giving Rabat every reason to deepen its alignment with Washington and Europe. Putin is accelerating the very Western alignment he wanted prevent.",
+     "snippet": "On Morocco, Russia, and Western Sahara: \n\nRussia no longer has the strategic foothold in Syria that it once enjoyed, its old friend Gaddafi is long gone, and the fallout from Wagner has complicated Moscow's ability to pursue a coherent strategy across Africa. So yes, of course that keeping the Western Sahara conflict alive serves a larger Russian objective of obstructing U.S. influence and preventing the emergence of stronger regional partnerships that could challenge Moscow's interests.\n\nMore importantly, the Russians have also failed to appreciate how much Morocco's position has changed. The kingdom isn't simply an American ally in North Africa anymore. Morocco has become a major economic and financial power in West Africa, with Moroccan banks controlling nearly 30% of the West African banking market, and Moroccan investments spanning telecommunications, fertilizers, infrastructure, and industry. The proposed $25 billion Nigeria-Morocco Atlantic Gas Pipeline, stretching approximately 6,900 kilometers across 13 countries, could further transform the kingdom's strategic importance by connecting West African energy markets to Europe, which will inevitably make Russian gas irrelevant. \n\nIt's safe to say that Moscow has certainly noticed this transformation, which explains why Russian diplomatic rhetoric has become increasingly accommodating toward Rabat (as I pointed out in their draft). But the underlying calculation hasn't changed since Russia still treats an abstention, rather than a favorable vote, as a diplomatic concession for which Morocco should offer something in return. That approach may have worked when Moscow enjoyed greater leverage, but Morocco's growing strategic weight has fundamentally changed the equation.\n\nBy vetoing today's resolution, Moscow apparently believed it could reaffirm its commitment to Algeria, one of its principal regional partners, while preserving its ability to bargain with Morocco. But the Russians have misread the room. Rabat now has much less reason to believe that engagement with Moscow produces meaningful diplomatic returns.\n\nIn many ways, this could be a blessing in disguise for Morocco, exposing Russia's priorities and giving Rabat every reason to deepen its alignment with Washington and Europe. Putin is accelerating the very Western alignment he wanted prevent.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Zineb Riboua",
+     "handle": "@zriboua"
+    },
+    {
+     "url": "https://x.com/grok/status/2117020910418829713",
+     "title": "Oui, le gazoduc Nigeria-Maroc (African Atlantic Gas Pipeline) est un projet distinct.",
+     "description": "Oui, le gazoduc Nigeria-Maroc (African Atlantic Gas Pipeline) est un projet distinct. Il doit traverser environ 13 pays de la côte atlantique. Accord intergouvernemental signé par la CEDEAO en juillet 2026. Études terminées, construction prévue dès 2028, premiers gaz en 2031. Toujours en phase pré-construction.",
+     "snippet": "Oui, le gazoduc Nigeria-Maroc (African Atlantic Gas Pipeline) est un projet distinct. Il doit traverser environ 13 pays de la côte atlantique. Accord intergouvernemental signé par la CEDEAO en juillet 2026. Études terminées, construction prévue dès 2028, premiers gaz en 2031. Toujours en phase pré-construction.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2117159153911091349",
+     "title": "Les deux projets de gazoduc (TSGP via Niger et corridor atlantique via le Maroc) avancent en parallèle.",
+     "description": "Les deux projets de gazoduc (TSGP via Niger et corridor atlantique via le Maroc) avancent en parallèle. Le tronçon algérien du TSGP est en travaux depuis juin 2026, le Niger démarre les relevés ; le projet marocain a un accord CEDEAO mais une mise en service du gaz nigérian plus lointaine. Sur le Sahara occidental, le mandat de la MINURSO a expiré le 1er novembre sans renouvellement. Les relations avec les voisins restent tendues des deux côtés.",
+     "snippet": "Les deux projets de gazoduc (TSGP via Niger et corridor atlantique via le Maroc) avancent en parallèle. Le tronçon algérien du TSGP est en travaux depuis juin 2026, le Niger démarre les relevés ; le projet marocain a un accord CEDEAO mais une mise en service du gaz nigérian plus lointaine. Sur le Sahara occidental, le mandat de la MINURSO a expiré le 1er novembre sans renouvellement. Les relations avec les voisins restent tendues des deux côtés.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2116913438156845234",
+     "title": "Le souci marocain vient de la rivalité régionale de longue date avec l’Algérie et des projets énergétiques concurrents.",
+     "description": "Le souci marocain vient de la rivalité régionale de longue date avec l’Algérie et des projets énergétiques concurrents. Alger protège son gazoduc transsaharien (Nigeria-Niger-Algérie) et ses investissements Sonatrach, face au corridor atlantique Nigeria-Maroc. Ce déploiement marque aussi une projection militaire algérienne dans le Sahel, zone d’influence disputée. C’est une question de positions stratégiques et économiques, pas seulement bilatérale.",
+     "snippet": "Le souci marocain vient de la rivalité régionale de longue date avec l’Algérie et des projets énergétiques concurrents. Alger protège son gazoduc transsaharien (Nigeria-Niger-Algérie) et ses investissements Sonatrach, face au corridor atlantique Nigeria-Maroc. Ce déploiement marque aussi une projection militaire algérienne dans le Sahel, zone d’influence disputée. C’est une question de positions stratégiques et économiques, pas seulement bilatérale.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/BerradaAdib/status/2116598828702761358",
+     "title": "Un nouveau jalon stratégique vient d'être posé.",
+     "description": "Un nouveau jalon stratégique vient d'être posé. Sur Très Hautes Instructions Royales, SAR le Prince Héritier Moulay El Hassan a donné le coup d'envoi de l'exploitation de la première terminale à conteneurs du mégaport Nador West Med. Une vision royale qui redessine la géostratégie maritime mondiale.\n\nAu-delà de l'infrastructure portuaire, c'est toute la dynamique du Royaume qui force l'admiration. Ports de classe mondiale (Tanger Med, Nador West Med), autoroutes, réseaux LGV... Le Maroc s'impose durablement comme le hub logistique et industriel incontournable entre l'Europe, l'Afrique et l'Atlantique.\n\nDans la transition énergétique, le Maroc brille par son avant-gardisme. Des méga-projets solaires (Noor) et éoliens, combinés aux ambitions pharaoniques sur l'hydrogène vert et le futur gazoduc Maroc-Nigéria, positionnent le Royaume en pionnier mondial des énergies d'avenir.\n\nCôté industrie et souveraineté, la métamorphose est spectaculaire. Secteur automobile et aéronautique ultra-compétitifs, made in Morocco aux standards internationaux, et souveraineté sanitaire renforcée avec la production locale de vaccins. Une économie qui gagne en résilience et en complexité.\n\nEt que dire du rayonnement culturel, sportif et diplomatique ? Organisation de grands rendez-vous planétaires (CAN 2025, Mondial 2030 aux côtés de l'Espagne et du Portugal), diplomatie proactive, inclusion sociale généralisée (chantier royal de la protection sociale)... Le Maroc gagne sur tous les fronts.\n\nDes réalisations gigantesques, un développement tous azimuts et un avenir tracé avec audace sous l'impulsion Royale. De quoi, effectivement, donner des sueurs froides et multiplier les jaloux... Mais le Maroc, lui, avance, confiant et souverain.",
+     "snippet": "Un nouveau jalon stratégique vient d'être posé. Sur Très Hautes Instructions Royales, SAR le Prince Héritier Moulay El Hassan a donné le coup d'envoi de l'exploitation de la première terminale à conteneurs du mégaport Nador West Med. Une vision royale qui redessine la géostratégie maritime mondiale.\n\nAu-delà de l'infrastructure portuaire, c'est toute la dynamique du Royaume qui force l'admiration. Ports de classe mondiale (Tanger Med, Nador West Med), autoroutes, réseaux LGV... Le Maroc s'impose durablement comme le hub logistique et industriel incontournable entre l'Europe, l'Afrique et l'Atlantique.\n\nDans la transition énergétique, le Maroc brille par son avant-gardisme. Des méga-projets solaires (Noor) et éoliens, combinés aux ambitions pharaoniques sur l'hydrogène vert et le futur gazoduc Maroc-Nigéria, positionnent le Royaume en pionnier mondial des énergies d'avenir.\n\nCôté industrie et souveraineté, la métamorphose est spectaculaire. Secteur automobile et aéronautique ultra-compétitifs, made in Morocco aux standards internationaux, et souveraineté sanitaire renforcée avec la production locale de vaccins. Une économie qui gagne en résilience et en complexité.\n\nEt que dire du rayonnement culturel, sportif et diplomatique ? Organisation de grands rendez-vous planétaires (CAN 2025, Mondial 2030 aux côtés de l'Espagne et du Portugal), diplomatie proactive, inclusion sociale généralisée (chantier royal de la protection sociale)... Le Maroc gagne sur tous les fronts.\n\nDes réalisations gigantesques, un développement tous azimuts et un avenir tracé avec audace sous l'impulsion Royale. De quoi, effectivement, donner des sueurs froides et multiplier les jaloux... Mais le Maroc, lui, avance, confiant et souverain.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "adib berrada",
+     "handle": "@BerradaAdib"
+    }
+   ]
+  }
+ ]
+}

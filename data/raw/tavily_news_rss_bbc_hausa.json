@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Ko lantarkin Najeriya ya bunƙasa a lokacin Tinubu?",
+   "url": "https://www.bbc.com/hausa/articles/cqwy7l9jdg14o?at_medium=RSS&at_campaign=rss",
+   "content": "A lokuta da dama shugabanni da ƴansiyasa kan yi alƙawuran magance matsalar a lokutan yaƙin neman zaɓe daban-daban.",
+   "published_date": "Mon, 02 Nov 2026 13:14:32 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Na gode wa hukumomin Saudiyya da suka ba ni damar shiga Ka'aba - Tinubu",
    "url": "https://www.bbc.co.uk/hausa/live/c98rznxjyxz2t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 02/11/2026",
@@ -51,17 +58,17 @@
    "score": 0.6
   },
   {
-   "title": "Me ya sa INEC ta ƙi sanya Aminu Abdulsalam a jerin ƴantakarar gwamnan Kano?",
-   "url": "https://www.bbc.com/hausa/articles/c6r7yxnegylzo?at_medium=RSS&at_campaign=rss",
-   "content": "Ana ci gaba da tafka muhawara kan rashin ganin sunan ɗan takarar jam'iyyar NDC a zaɓen gwamnan jihar Kano, Kwamrade Aminu Abdulsalam Gwarzo wanda hukumar INEC ta fitar.",
-   "published_date": "Sun, 01 Nov 2026 03:58:08 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
    "published_date": "Tue, 29 Sep 2026 13:46:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Doke Liverpool ya kara mana kwarin gwiwar lashe Premier - Rice",
+   "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -93,17 +100,10 @@
    "score": 0.6
   },
   {
-   "title": "Chelsea na zawarcin Alexander-Arnold, Man United na harin Calvert-Lewin",
-   "url": "https://www.bbc.com/hausa/articles/c9p8gp1djgypo?at_medium=RSS&at_campaign=rss",
-   "content": "Trent Alexander-Arnold na iya zama ɗan wasan da Chelsea za ta yi zawarci, Alex Scott na Bournemouth shi ma yana iya komawa Stamford Bridge, yayin da Manchester United ke duba yiwuwar ɗaukar dan wasan gaba na Leeds United, Dominic Calvert-Lewin.",
-   "published_date": "Fri, 30 Oct 2026 03:55:50 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Darajar Mbappe ta zube a China, bisa barkwanci kan shugaba Mao Zedong",
-   "url": "https://www.bbc.com/hausa/articles/c820v37de6vgo?at_medium=RSS&at_campaign=rss",
-   "content": "Kylian Mbappe yana fuskantar koma baya a kasar Sin bayan kalamansa game da shugaba, Mao Zedong, lamarin da ya bi sahun katse huldar kasuwanci tsakaninsa da wasu kamfanonin kasar.",
-   "published_date": "Thu, 29 Oct 2026 17:43:31 GMT",
+   "title": "Me ya sa INEC ta ƙi sanya Aminu Abdulsalam a jerin ƴantakarar gwamnan Kano?",
+   "url": "https://www.bbc.com/hausa/articles/c6r7yxnegylzo?at_medium=RSS&at_campaign=rss",
+   "content": "Ana ci gaba da tafka muhawara kan rashin ganin sunan ɗan takarar jam'iyyar NDC a zaɓen gwamnan jihar Kano, Kwamrade Aminu Abdulsalam Gwarzo wanda hukumar INEC ta fitar.",
+   "published_date": "Sun, 01 Nov 2026 03:58:08 GMT",
    "score": 0.6
   },
   {

@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Régner autrement: Comprendre la stratégie des blocus du JNIM | Clingendael",
-   "url": "https://www.clingendael.org/publication/regner-autrement-comprendre-la-strategie-des-blocus-du-jnim",
-   "snippet": "The al-Qaeda-linked Group for the Support of Islam and Muslims (JNIM) extensively uses blockades around villages, towns, and even cities in Mali and across its areas of operations in the Sahel.\n While this tactic is not new in the region, it has emerged as a central part of JNIM's approach to regional governments as well as local communities. [...] Alerts\n\n### The Idaksahak in the Malian Peace Pro",
-   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "What Kidal Portends: JNIM, Islamic State, and the Sahelian Security Landscape - The Soufan Center",
    "url": "https://thesoufancenter.org/intelbrief-2026-october-28",
    "snippet": "The retaking of Mali’s northern desert town of Kidal from Tuareg separatists and al-Qaeda-linked Jama’at Nusrat al-Islam wal-Muslimin (JNIM) represents a moderate gain for the Malian government, but one with limited strategic value.\n Sustained operations by JNIM in both Mali and Burkina Faso aim not at territorial control but at waging a war of attrition against the juntas.\n Since September 2026, ",
@@ -26,7 +19,7 @@
    "title": "Algorithms at War: Generative AI as a Hybrid Threat Multiplier in Mali's Conflict – ACCORD",
    "url": "https://www.accord.org.za/analysis/algorithms-at-war-generative-ai-as-a-hybrid-threat-multiplier-in-malis-conflict",
    "snippet": "a supposed Tuareg fighter critical of Africa Corps. JNIM remains at the rudimentary end: its media arm released AI-generated posters in June 2026. [...] in warfare. On 25 April 2026, coordinated attacks by the al-Qaeda-linked Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and the Tuareg-led Azawad Liberation Front (FLA) killed Mali’s defence minister, Sadio Camara, and forced Malian forces and their ",
-   "published": "Fri, 30 Oct 2026 11:00:00 GMT",
+   "published": "Thu, 29 Oct 2026 14:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -48,6 +41,13 @@
    "url": "https://www.modernghana.com/news/1540643/west-africas-defence-spending-climbs-but-insecur.amp",
    "snippet": "Russian International Affairs Council, on the Koufouno attack; corroborated by Africanews (6 March 2026).  and \n\nFolahanmi Aina, \"Nigeria's new terror threat: JNIM is spreading.\" \n\nACLED 2026 Conflict Watchlist, via Africa Insider. \n\nCounter Extremism Project, \"Sahel Monitoring, August 2025.\" \n\nEU Gulf of Guinea maritime security programmes map (Nov 2025). \n\nMali's April 2026 attacks: a secondary ",
    "published": "Fri, 30 Oct 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ukraine Allegedly Supporting Mali Militia",
+   "url": "https://allafrica.com/view/group/main/main/id/00098600.html",
+   "snippet": "Ukraine is facing questions over its alleged involvement in supporting Tuareg fighters in northern Mali, a development that could extend its rivalry with",
+   "published": "Tue, 27 Oct 2026 14:00:00 GMT",
    "source": "tavily"
   }
  ],

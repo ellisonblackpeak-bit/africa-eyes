@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Fridges stand empty in Belgian supermarkets after cyberattack",
+   "url": "https://www.euronews.com/video/2026/11/02/fridges-stand-empty-in-belgian-supermarkets-after-cyberattack",
+   "content": "Supermarkets in several European countries have reported cyberattacks targeting refrigeration systems, causing food to spoil and forcing some stores to close off their fridges and freezers.",
+   "published_date": "Mon, 02 Nov 2026 15:27:23 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Humanoid robots climb China’s Mount Tai in unusual challenge",
+   "url": "https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge",
+   "content": "China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path.",
+   "published_date": "Mon, 02 Nov 2026 14:33:32 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US midterm elections 2026: What are they and when will we know the results?",
+   "url": "https://www.euronews.com/2026/11/02/us-midterm-elections-2026-what-are-they-and-when-will-we-know-the-results",
+   "content": "Americans head to the polls on 3 November for midterm elections that will determine control of Congress for the next two years.",
+   "published_date": "Mon, 02 Nov 2026 14:20:08 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Taliban voices 'serious concern' over US plans to deport Afghans via Pakistan",
+   "url": "https://www.euronews.com/2026/11/02/taliban-voices-serious-concern-over-us-plans-to-deport-afghans-via-pakistan",
+   "content": "Advocacy groups have warned that the removal of former allies and their families could endanger their lives.",
+   "published_date": "Mon, 02 Nov 2026 13:52:08 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Skeleton puppets and zombies fill New York’s Halloween parade",
+   "url": "https://www.euronews.com/video/2026/11/02/skeleton-puppets-and-zombies-fill-new-yorks-halloween-parade",
+   "content": "Skeleton puppets, zombies and film characters take over Greenwich Village. Thousands join the 53rd New York Halloween parade, dancing through Manhattan.",
+   "published_date": "Mon, 02 Nov 2026 13:51:30 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Iran says it can reopen Hormuz in two days if US meets conditions",
    "url": "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions",
    "content": "Foreign ministry spokesman Esmaeil Baghaei said the timeline shortened from the seven days first proposed in September was “another indication of Iran’s good-faith approach” but that “everything depends” on Washington.",
@@ -174,41 +209,6 @@
    "url": "https://www.euronews.com/2026/10/31/syrian-curriculum-changes-spark-debate-over-removal-of-images-and-historical-figures",
    "content": "Changes were not limited to the texts; images and illustrations were also edited in Photoshop, adding hijabs or long robes to female figures, deleting women's photos, and covering or replacing statues, sculptures and artworks.",
    "published_date": "Sat, 31 Oct 2026 08:00:17 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Travelling beyond the borders of Baku through fiction",
-   "url": "https://www.euronews.com/2026/10/31/travelling-beyond-the-borders-of-baku-through-fiction",
-   "content": "What connects an Iranian novelist exploring women's lives, a British children's author creating imaginary worlds and an Azerbaijani writer preserving her country's cultural identity? The answer is stories that cross borders, connect continents, and blend cultures through books.",
-   "published_date": "Sat, 31 Oct 2026 07:45:07 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 31st, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sat, 31 Oct 2026 07:00:33 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Brazil claims it questioned Argentina over Bolsonaro's escape, Buenos Aires denies it",
-   "url": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
-   "content": "According to Argentina's migration authorities, Bolsonaro boarded a private plane in the northeastern city of Puerto Iguazú on Tuesday evening, just 40 minutes after crossing into the country by land.",
-   "published_date": "Fri, 30 Oct 2026 21:07:10 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
-   "url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
-   "content": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
-   "published_date": "Fri, 30 Oct 2026 18:03:13 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | October 30th, 2026 – Evening",
-   "url": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-evening",
-   "content": "Catch up with the most important stories from around Europe and beyond this October 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Fri, 30 Oct 2026 18:00:26 +0100",
    "score": 0.6
   }
  ],
