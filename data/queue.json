@@ -1,14 +1,20 @@
 [
  {
-  "key": "13db546a8c9b7225",
-  "group": "social",
-  "field": "snippet",
-  "en": "BREAKING: Residents of Waiwayi Village in Koko LGA, Kebbi State, are reportedly fleeing for their lives as Lakurawa terrorists launch a deadly broad-daylight attack on the community."
+  "key": "5d209384cdfcadb4",
+  "group": "news",
+  "field": "body",
+  "en": "President Bola Ahmed Tinubu has concluded his visit to the Kingdom of Saudi Arabia, declaring that he prayed for peace, unity and prosperity for all Nigerians. The President, disclosed this on Monday in a post on his verified X handle, @officialABAT. The President also described the visit and experience as a demonstration of the enduring […]"
  },
  {
-  "key": "273dbd0095ff606e",
-  "group": "social",
+  "key": "cdd5aad04466461e",
+  "group": "news",
+  "field": "summary",
+  "en": "President Bola Ahmed Tinubu has concluded his visit to the Kingdom of Saudi Arabia, declaring that he prayed for peace, unity and prosperity for all Nigerians. The President also described the visit and experience as a demonstration of the enduring […]"
+ },
+ {
+  "key": "d4ff0842daf32fe4",
+  "group": "news",
   "field": "title",
-  "en": "BREAKING: Residents of Waiwayi Village in Koko LGA, Kebbi State, are reportedly fleeing for their lives as Lakurawa terrorists launch a dead"
+  "en": "‘I prayed for all Nigerians’, Tinubu ends Saudi visit"
  }
 ]

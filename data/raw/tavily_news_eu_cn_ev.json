@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "The European Union will cap Chinese hybrid car imports ...",
-   "url": "https://www.facebook.com/seastats/posts/the-european-union-will-cap-chinese-hybrid-car-imports-at-350000-units-annually-/1164638352574681",
-   "snippet": "Chinese carmakers switched to hybrids after the EU put tariffs of up to 45% on their electric cars in 2024. Hybrids paid only the standard 10% duty, and",
-   "published": "Mon, 02 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Europe’s China Auto Deal | Council on Foreign Relations",
    "url": "https://www.cfr.org/articles/europes-china-auto-deal",
    "snippet": "Hybrid imports are capped at 350,000, down from a projected 800,000 in 2026—and then rising to 370,000 and 390,000 in subsequent years.\n Battery electric vehicles face a tariff from 25 percent (Telsa, 10 percent base + 15 percent) to 45 percent (10 percent base plus 35 percent). BYD’s total tariff is at 27 percent, which isn’t prohibitive. Even with these tariffs, battery electric imports will tot",
@@ -16,10 +9,10 @@
    "source": "tavily"
   },
   {
-   "title": "How Cheap Chinese EVs Are Sneaking Around Europe's Tariffs",
-   "url": "https://insideevs.com/news/813426/chinese-evs-western-markets-used",
-   "snippet": "BYD Denza Z9S\n\nChina EV Marketplace, a company that exports Chinese vehicles and parts abroad, told CarNewsChina that the number of used cars it sold to Europe increased by more than 280% year-over-year. Throughout the end of September, it managed to export 7,900 cars to the EU. Those vehicles enabled buyers to navigate around Europe's import duties of up to 45.3% on Chinese EVs. Vehicles with ove",
-   "published": "Tue, 27 Oct 2026 22:51:51 GMT",
+   "title": "Used Chinese EV sales skyrocket 280% in Europe as buyers take advantage of tariff exemption",
+   "url": "https://www.thecooldown.com/green-business/used-chinese-evs-europe-tariff-exemptions",
+   "snippet": "EU trade measures that made many new Chinese models harder to purchase helped fuel the rise, as Car News China reported.\n\nOver that same span, China EV Marketplace said new-vehicle sales to EU customers dropped 44%.\n\nThe change in demand followed a 2024 decision to place countervailing duties of up to 45.3% on battery electric vehicles imported from China. [...] by James Nanzo\n\n share\n Facebook\n T",
+   "published": "Wed, 28 Oct 2026 12:51:00 GMT",
    "source": "tavily"
   },
   {
@@ -30,13 +23,6 @@
    "source": "tavily"
   },
   {
-   "title": "Used Chinese EV sales skyrocket 280% in Europe as buyers take advantage of tariff exemption",
-   "url": "https://finance.yahoo.com/economy/policy/articles/used-chinese-ev-sales-skyrocket-125100345.html",
-   "snippet": "The change in demand followed a 2024 decision to place countervailing duties of up to 45.3% on battery electric vehicles imported from China.\n\nThat pushed some buyers toward new plug-in hybrid electric vehicles and used battery EVs since neither category was covered by the extra duties.\n\nBuying patterns shifted again after the EU introduced a separate annual cap of 350,000 hybrid imports from Chin",
-   "published": "Wed, 28 Oct 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "The View | EU-China hybrid car deal won’t really help European carmakers | South China Morning Post",
    "url": "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers",
    "snippet": "Earlier this month, simmering trade tensions between the EU and China ease as the two sides reached an agreement in Beijing limiting hybrid car exports from China to an annual quota of 350,000 units. After the European Union imposed tariffs on fully electric cars from China in 2024, hybrid imports surged. The quota would result in more than a halving of the 800,000 hybrid cars expected to be sold ",
@@ -44,24 +30,24 @@
    "source": "tavily"
   },
   {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/DfPORY5FG4X",
-   "snippet": "The European Union will cap Chinese hybrid car imports at 350,000 units annually, down from an expected 800,000 without limits. This four-year agreement aims to reduce China’s market share from 6% to 3%. Brussels views this measure as cutting imports by over half, whereas Beijing sees room for growth against 2025 levels.  \n  \nEnforced via a WTO safeguard, the quota will increase by 6% each year. V",
-   "published": "Mon, 02 Nov 2026 11:00:00 GMT",
+   "title": "‘It’s only when you see 49-ton trucks in China running on batteries that you realize how serious electrification is’: Octopus Energy CEO Greg Jackson on Europe’s incumbency problem | Fortune",
+   "url": "https://fortune.com/2026/10/30/greg-jackson-octopus-energy-electrification-europe-incumbency",
+   "snippet": "top of the standard 10% import tariff. Chinese cars are still over 20% cheaper to buy. [...] Chinese electric vehicle sales in Europe are growing rapidly. Chery has tripled sales in Europe in the past year; BYD has doubled; Geely is up a third; and SAIC is up 23%. Taking the four leading Chinese carmakers together, their EV market share is now at 14.6%, up from 9.6%, according to the latest figure",
+   "published": "Fri, 30 Oct 2026 18:45:13 GMT",
    "source": "tavily"
   },
   {
-   "title": "In the face of EU pressure on Chinese electric vehicles, it is ...",
-   "url": "https://www.facebook.com/ChathamHouse/posts/in-the-face-of-eu-pressure-on-chinese-electric-vehicles-it-is-less-a-question-of/1547444690753216",
-   "snippet": "'The European Commission has made it plain that they see Chinese EVs as an economic threat comparable to Chinese solar panels flooding Europe's' markets a",
-   "published": "",
+   "title": "Chinese expert debates on EU-China economic frictions + Gotion-PowerCo deal + Electric car exports | Merics",
+   "url": "https://merics.org/en/merics-briefs/chinese-expert-debates-eu-china-economic-frictions-gotion-powerco-deal-electric-car",
+   "snippet": "China’s high-level engagement was limited in recent months\n\nThe EU’s share of China’s fully electric car exports is steady so far in 2026 despite tariffs\n\nShort takes\n\nChina Update Newsletter\n\nMERICS Update\n\nSign up for our newsletters, event invitations and publication alerts.\n\nSubscribe\n\n## Become a member\n\nAs a member, you can rely on us to deepen your organization's China expertise and to help",
+   "published": "Thu, 29 Oct 2026 20:00:00 GMT",
    "source": "tavily"
   },
   {
-   "title": "EU",
-   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
-   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
-   "published": "",
+   "title": "China's 212 challenges Jeep, Land Rover in Europe with cheap SUVs - Automotive News",
+   "url": "https://www.autonews.com/manufacturing/automakers/ane-212-undercuts-rivals-europe-1028",
+   "snippet": "Audi\n\nWith Audi plant in Georgia, VW Group will lean on U.S. more than ever\n\nAudi’s move to invest $4 billion in a Georgia assembly plant signals VW Group is determined to reverse its U.S. fortunes to counter a slump in China and growing competition across Europe.\n\nJW\n\nBy\n\nJack Walsworth\n\nWith Audi plant in Georgia, VW Group will lean on U.S. more than ever\n\nRivian\n\nRivian’s bet on pricey R2 cross",
+   "published": "Wed, 28 Oct 2026 12:26:26 GMT",
    "source": "tavily"
   }
  ],
