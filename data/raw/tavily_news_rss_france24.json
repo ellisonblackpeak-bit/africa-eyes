@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Russia and Ukraine accuse each other of hacking emergency alert apps",
+   "url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+   "content": "Russia and Ukraine accused each other of hacking their emergency alert applications as a local ceasefire in the war's eastern Kherson region expired on Sunday. The cyberattacks came as both sides warned of renewed fighting and Kyiv signalled it could halt strikes on Russian oil refineries in exchange for US Patriot missiles.",
+   "published_date": "Mon, 02 Nov 2026 01:20:44 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+   "url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
+   "content": "A spate of shootings in nightlife districts and near university campuses across the United States over Halloween weekend left at least six people dead and dozens wounded, with Dallas recording the highest toll. Police were investigating multiple incidents in several states, while some suspects remained at large.",
+   "published_date": "Mon, 02 Nov 2026 00:49:01 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Iran warns renewed war with US could outlast previous conflict",
+   "url": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+   "content": "Iran warned on Sunday that a renewed war with the United States could last longer than the previous conflict, as President Donald Trump suggested Washington still had targets to strike. Tehran threatened retaliation without geographical limits while diplomatic efforts continued to avert a fresh escalation ahead of Tuesday's US midterm elections.",
+   "published_date": "Mon, 02 Nov 2026 00:23:23 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Nine killed as business jet crashes into South Florida neighbourhood",
+   "url": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
+   "content": "A business jet plunged into a South Florida neighbourhood on Sunday, killing all nine people aboard and exploding into a fireball near homes and a busy road. The pilot had reported icing, precipitation and severe turbulence before the Learjet entered a steep dive, according to air traffic control recordings.",
+   "published_date": "Sun, 01 Nov 2026 23:45:08 GMT",
+   "score": 0.6
+  },
+  {
    "title": "French presidential candidate Édouard Philippe rejects centre-right primary",
    "url": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary",
    "content": "French presidential candidate and former Prime Minister Édouard Philippe ruled out competing in a primary Sunday, following a proposal made last week by his rival Gabriel Attal to organize a vote to select a single centre-right candidate.",
@@ -139,34 +167,6 @@
    "url": "https://www.france24.com/en/france-115-yachts-will-sail-out-of-sain-malo-for-route-du-rhum-race",
    "content": "In Saint-Malo, in France's Brittany region, the legendary Route du Rhum is preparing to set sail. Billed as the world's biggest solo transatlantic race, it sees skippers sail alone from France's northern coast to the Caribbean island of Guadeloupe. It's a high-speed, high-risk crossing that takes place every four years.",
    "published_date": "Sun, 01 Nov 2026 09:40:42 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US Midterms: Affordability at heart of Michigan race",
-   "url": "https://www.france24.com/en/us-midterms-affordability-at-heart-of-michigan-race",
-   "content": "For many voters, the cost of living is the single biggest issue. Our reporters Jessica Le Masurier and Sarah Andersen travelled to Michigan to meet voters, where, according to one NGO, around 40% of the population struggle to afford basic necessities.",
-   "published_date": "Sun, 01 Nov 2026 09:39:11 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Youth-led rallies sweep Europe",
-   "url": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
-   "content": "Protests in France have helped inspire youth demonstrations elsewhere in Europe, from Portugal and Italy to Germany. Germany saw particularly large rallies on Saturday, led by a youth initiative whose name roughly translates as “Gen Z has got this”. Demonstrators called for better education and healthcare, stronger climate protection and a more affordable cost of living, while also opposing any return to compulsory military service. However, protests in several major German cities turned violent towards the end of the day, particularly in the financial hub of Frankfurt. Charlotte Hughes reports on the demonstrations across Europe.",
-   "published_date": "Sun, 01 Nov 2026 09:38:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "How social media are central to protests",
-   "url": "https://www.france24.com/en/how-social-media-are-central-to-protests",
-   "content": "As we saw in that report, protesters were frustrated at being kept on the outskirts of the French capital. There are also reports of social media posts about the demonstrations being suppressed. Daniel Quinlan has more.",
-   "published_date": "Sun, 01 Nov 2026 09:36:20 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Hundreds of thousands protest in France for \"Act III\"",
-   "url": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
-   "content": "A heavy police presence was hard to miss on the streets of Paris on Saturday, as the capital saw demonstrations for a third consecutive weekend over the rising cost of living and deteriorating conditions in schools. But the increased security failed to prevent clashes in several parts of the city. Riot police fired tear gas to push back protesters, while small fires broke out in several areas. Similar scenes unfolded across the country, including in Bordeaux, Toulouse and Marseille. Still, the demonstrations were largely less violent than the chaos witnessed on October 17. Caroline Baum has this round-up of the day's events.",
-   "published_date": "Sun, 01 Nov 2026 09:35:02 GMT",
    "score": 0.6
   }
  ],

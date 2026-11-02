@@ -1,0 +1,116 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/THISDAYLIVE/status/2115997447923060907",
+     "title": "General Dagvin Anderson: Advancing Nigeria-US Counterterrorism Cooperation through AFRICOM General Dagvin R.M.",
+     "description": "General Dagvin Anderson: Advancing Nigeria-US Counterterrorism Cooperation through AFRICOM\n\nGeneral Dagvin R.M. Anderson, the seventh commander of U.S.",
+     "snippet": "General Dagvin Anderson: Advancing Nigeria-US Counterterrorism Cooperation through AFRICOM\n\nGeneral Dagvin R.M. Anderson, the seventh commander of U.S.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "THISDAY LIVE",
+     "handle": "@THISDAYLIVE"
+    },
+    {
+     "url": "https://x.com/Akanni0104/status/2116053636413374628",
+     "title": "The number of Islamic State (ISIS) members defecting in Nigeria has increased by more than 200 percent following a joint US-Nigerian militar",
+     "description": "The number of Islamic State (ISIS) members defecting in Nigeria has increased by more than 200 percent following a joint US-Nigerian military operation in May 2026.\nGeneral Dagvin Anderson, the commander of the U.S. Africa Command (AFRICOM), announced the figures on the sidelines of the Africa International Defence Exhibition (AFRIDEX) in Lagos",
+     "snippet": "The number of Islamic State (ISIS) members defecting in Nigeria has increased by more than 200 percent following a joint US-Nigerian military operation in May 2026.\nGeneral Dagvin Anderson, the commander of the U.S. Africa Command (AFRICOM), announced the figures on the sidelines of the Africa International Defence Exhibition (AFRIDEX) in Lagos",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Akanni",
+     "handle": "@Akanni0104"
+    },
+    {
+     "url": "https://x.com/TojuWes/status/2116188481370091817",
+     "title": "Nigeria Navy Marine Commandos joint counterterrorism operations with United States (AFRICOM) Special Forces operators, either the US Army 3r",
+     "description": "Nigeria Navy Marine Commandos joint counterterrorism operations with United States (AFRICOM) Special Forces operators, either the US Army 3rd SFG (Green berets) or US Navy SEAL.",
+     "snippet": "Nigeria Navy Marine Commandos joint counterterrorism operations with United States (AFRICOM) Special Forces operators, either the US Army 3rd SFG (Green berets) or US Navy SEAL.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Toju weston",
+     "handle": "@TojuWes"
+    },
+    {
+     "url": "https://x.com/abdulmalik14x/status/2116825654587244961",
+     "title": "General Atomics opening a control site for MQ-9A operations supporting AFRICOM is a game-changer.",
+     "description": "General Atomics opening a control site for MQ-9A operations supporting AFRICOM is a game-changer. With remote crews cutting overseas staffing, we're getting closer to terrorists every day. Nigeria needs more US support to keep attacking ISIS",
+     "snippet": "General Atomics opening a control site for MQ-9A operations supporting AFRICOM is a game-changer. With remote crews cutting overseas staffing, we're getting closer to terrorists every day. Nigeria needs more US support to keep attacking ISIS",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "abdulmalik",
+     "handle": "@abdulmalik14x"
+    },
+    {
+     "url": "https://x.com/Arise4freedom/status/2116118853940064711",
+     "title": "During the 6th International Month of Action Against AFRICOM organized by the Black Alliance for Peace (BAP) we analyze the horrendous role",
+     "description": "During the 6th International Month of Action Against AFRICOM organized by the Black Alliance for Peace (BAP) we analyze the horrendous role of AFRICOM in Africa and Nigeria and the necessity of forcing ita withdrawal to safeguard our sovereignty.\n\n@Blacks4Peace",
+     "snippet": "During the 6th International Month of Action Against AFRICOM organized by the Black Alliance for Peace (BAP) we analyze the horrendous role of AFRICOM in Africa and Nigeria and the necessity of forcing ita withdrawal to safeguard our sovereignty.\n\n@Blacks4Peace",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Movement for African Emancipation",
+     "handle": "@Arise4freedom"
+    },
+    {
+     "url": "https://x.com/grok/status/2116378508851077528",
+     "title": "The most feasible path is sustained US support for Nigerian forces: intel sharing, training, equipment, and AFRICOM advising focused on Boko",
+     "description": "The most feasible path is sustained US support for Nigerian forces: intel sharing, training, equipment, and AFRICOM advising focused on Boko Haram/ISWAP and militant Fulani networks that target Christian communities. Add diplomatic pressure plus targeted sanctions on negligent officials. Full occupation is unnecessary, logistically impractical in a nation of 200+ million, and would likely worsen instability.",
+     "snippet": "The most feasible path is sustained US support for Nigerian forces: intel sharing, training, equipment, and AFRICOM advising focused on Boko Haram/ISWAP and militant Fulani networks that target Christian communities. Add diplomatic pressure plus targeted sanctions on negligent officials. Full occupation is unnecessary, logistically impractical in a nation of 200+ million, and would likely worsen instability.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/harveydreylo/status/2116189167231414306",
+     "title": "We can't amplify success if it doesn't exist.",
+     "description": "We can't amplify success if it doesn't exist. Our military needs real support from partners who actually know how to fight terrorism https://www.thecable.ng/dhq-us-military-assistance-at-no-cost-to-nigeria-sovereignty-not-compromised/",
+     "snippet": "We can't amplify success if it doesn't exist. Our military needs real support from partners who actually know how to fight terrorism https://www.thecable.ng/dhq-us-military-assistance-at-no-cost-to-nigeria-sovereignty-not-compromised/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Trade with Harvey",
+     "handle": "@harveydreylo"
+    },
+    {
+     "url": "https://x.com/AtlanticCouncil/status/2116152487581507813",
+     "title": "LIVE NOW | General Dagvin R.",
+     "description": "LIVE NOW | General Dagvin R. M. Anderson on US strategy and security in Africa https://x.com/i/broadcasts/1nxnRBPONQXxO",
+     "snippet": "LIVE NOW | General Dagvin R. M. Anderson on US strategy and security in Africa https://x.com/i/broadcasts/1nxnRBPONQXxO",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Atlantic Council",
+     "handle": "@AtlanticCouncil"
+    },
+    {
+     "url": "https://x.com/ChiemelaChimao1/status/2116761937790836762",
+     "title": "One by one all Nigerians will see the light.",
+     "description": "One by one all Nigerians will see the light. \nUSA doesn’t care about Nigeria or Nigerians. \nThey never have and never will. \nEven the cooperation he commended the Nigerian government for has to do with the mineral deal USA signed this year not with seriousness in tackling any insecurity. \nGo and read the terms of the minerals deal worth $700b you will understand the game USA is playing. They used the Christian’s massacre(an insecurity the USA is indirectly sponsoring) story to cajole our govt into signing it, this doesn’t mean that if we have a serious govt we can’t defeat insecurity. We can. \nNigerians We are the only ones who can save ourselves. And it can only be done through a revolution.",
+     "snippet": "One by one all Nigerians will see the light. \nUSA doesn’t care about Nigeria or Nigerians. \nThey never have and never will. \nEven the cooperation he commended the Nigerian government for has to do with the mineral deal USA signed this year not with seriousness in tackling any insecurity. \nGo and read the terms of the minerals deal worth $700b you will understand the game USA is playing. They used the Christian’s massacre(an insecurity the USA is indirectly sponsoring) story to cajole our govt into signing it, this doesn’t mean that if we have a serious govt we can’t defeat insecurity. We can. \nNigerians We are the only ones who can save ourselves. And it can only be done through a revolution.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ebenezer",
+     "handle": "@ChiemelaChimao1"
+    },
+    {
+     "url": "https://x.com/rvrnciado/status/2116202207406096664",
+     "title": "Its more likely that those are 3rdSFG guys....since they specialize in training and advising allied forces",
+     "description": "Its more likely that those are 3rdSFG guys....since they specialize in training and advising allied forces",
+     "snippet": "Its more likely that those are 3rdSFG guys....since they specialize in training and advising allied forces",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Hodinns🩺🪶",
+     "handle": "@rvrnciado"
+    }
+   ]
+  }
+ ]
+}

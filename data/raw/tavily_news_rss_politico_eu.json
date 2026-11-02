@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Allies fear Trump will target NATO in case of midterm loss",
+   "url": "https://www.politico.eu/article/allies-fear-donald-trump-could-target-nato-after-midterm-loss/",
+   "content": "The U.S. president could move thousands more troops out of Europe or cut NATO funding as he seeks to cement his legacy, diplomats say.",
+   "published_date": "Sun, 01 Nov 2026 17:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU and Canada’s 6-month test of commitment",
+   "url": "https://www.politico.eu/article/canada-eu-partnership-6-month-test/",
+   "content": "The Montreal summit launched work on a deeper partnership. Now 27 EU governments and Ottawa have to agree what that will mean.",
+   "published_date": "Sun, 01 Nov 2026 16:00:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Russian strikes leave thousands without power in Ukraine, says Zelenskyy",
    "url": "https://www.politico.eu/article/russia-strikes-leave-thousands-without-power-ukraine-volodymyr-zelenskyy/",
    "content": "The Ukrainian president's remarks came as Moscow reported \"significant damage\" to an industrial facility in Russia's Nizhny Novgorod region.",
@@ -30,6 +44,20 @@
    "score": 0.6
   },
   {
+   "title": "Robert F. Kennedy Jr.’s food fight is coming to Brussels",
+   "url": "https://www.politico.eu/article/robert-f-kennedy-jr-food-fight-coming-to-brussels/",
+   "content": "Ultra-processed foods are the new target in the global fight against obesity, thanks in part to the MAHA movement.",
+   "published_date": "Sun, 01 Nov 2026 09:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Britain and Germany’s defense cooperation plans face tough choices",
+   "url": "https://www.politico.eu/article/britain-and-germany-defense-cooperation-plans-face-tough-choices/",
+   "content": "U.K. Defence Secretary Wes Streeting visits Berlin as the two countries advance plans for long-range missiles and Germany weighs joining Britain’s fighter jet program.",
+   "published_date": "Sun, 01 Nov 2026 05:00:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Security Sunday: Wie real ist die Kriegsgefahr? – mit General Alexander Sollfrank",
    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-wie-real-ist-die-kriegsgefahr-mit-general-alexander-sollfrank/",
    "content": "Präsentiert von YouTube.",
@@ -41,34 +69,6 @@
    "url": "https://www.politico.eu/article/france-youth-protests-cost-of-living-spread-europe/",
    "content": "Cities across Europe faced wave of protests against rising cost of living.",
    "published_date": "Sat, 31 Oct 2026 17:33:31 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Putin’s potential G20 comeback risks normalizing Russian war crimes, says Kallas",
-   "url": "https://www.politico.eu/article/kaja-kallas-vladimir-putin-g20-return-risks-normalizing-russian-war-crimes/",
-   "content": "The EU's foreign policy chief also rebuffed reported calls from the Pentagon for allies to tone done their criticism of the Kremlin.",
-   "published_date": "Sat, 31 Oct 2026 16:41:12 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Forget AI, Europe has a plan to win the next tech revolution",
-   "url": "https://www.politico.eu/article/eu-quantum-act-boost-europe-tech-competitiveness/",
-   "content": "Draft strategy on quantum computing obtained by POLITICO shows Europe won’t repeat its AI regulatory playbook.",
-   "published_date": "Sat, 31 Oct 2026 16:05:11 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Merz ‘surprised’ by Asian pushback to ‘Made in Europe’ plan for car industry",
-   "url": "https://www.politico.eu/article/friedrich-merz-surprised-by-asian-pushback-over-made-in-europe-car-industry/",
-   "content": "The German chancellor said the Franco-German plan to restrict car subsidies \"sparked considerable concern\" among East Asian capitals.",
-   "published_date": "Sat, 31 Oct 2026 14:19:53 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Burnham ‘open’ to formal apology for Britain’s slave trade",
-   "url": "https://www.politico.eu/article/andy-burnham-open-to-formal-apology-for-britain-slave-trade/",
-   "content": "The U.K. prime minister however rejected calls for Britain to pay financial reparations.",
-   "published_date": "Sat, 31 Oct 2026 12:55:45 +0000",
    "score": 0.6
   }
  ],

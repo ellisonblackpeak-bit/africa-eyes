@@ -1,0 +1,116 @@
+{
+ "query": "China Nepal Chinese company BRI Belt Road",
+ "_tag": "soc_cn_np",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/kathmandupost/status/2116715599430840550",
+     "title": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream The decision comes after three Chinese companies qualified for the fina",
+     "description": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream\n\nThe decision comes after three Chinese companies qualified for the final round, raising fresh uncertainty over a project meant to irrigate 122,000 hectares across five districts.\n\nhttps://kathmandupost.com/money/2026/11/01/sunkoshi-marin-contract-cancellation-defers-madhesh-irrigation-dream —by @Bimaltirpali",
+     "snippet": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream\n\nThe decision comes after three Chinese companies qualified for the final round, raising fresh uncertainty over a project meant to irrigate 122,000 hectares across five districts.\n\nhttps://kathmandupost.com/money/2026/11/01/sunkoshi-marin-contract-cancellation-defers-madhesh-irrigation-dream —by @Bimaltirpali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Kathmandu Post",
+     "handle": "@kathmandupost"
+    },
+    {
+     "url": "https://x.com/karmawangchukzz/status/2116860028720419278",
+     "title": "Looking at the map of the Himalayas these days is sobering.",
+     "description": "Looking at the map of the Himalayas these days is sobering.\n\n China has quietly constructed military-linked infrastructure and entire villages deep inside Bhutanese-claimed land, while applying political and economic pressure in Nepal through BRI projects & encroachment on land.",
+     "snippet": "Looking at the map of the Himalayas these days is sobering.\n\n China has quietly constructed military-linked infrastructure and entire villages deep inside Bhutanese-claimed land, while applying political and economic pressure in Nepal through BRI projects & encroachment on land.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Karma Wangchuk",
+     "handle": "@karmawangchukzz"
+    },
+    {
+     "url": "https://x.com/kathmandupost/status/2116015989523718475",
+     "title": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing Authorities aim to restore road access to the Chinese border b",
+     "description": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing\n\nAuthorities aim to restore road access to the Chinese border before rebuilding permanently, while also considering an expressway to Kerung in place of a proposed railway.\n\nhttps://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing — by @Bimaltirpali",
+     "snippet": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing\n\nAuthorities aim to restore road access to the Chinese border before rebuilding permanently, while also considering an expressway to Kerung in place of a proposed railway.\n\nhttps://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing — by @Bimaltirpali",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Kathmandu Post",
+     "handle": "@kathmandupost"
+    },
+    {
+     "url": "https://x.com/upen_singh1_/status/2116858094831731131",
+     "title": "The collection highlights a strong performance at the Nepal–China Korala border, with the office clearing 6,501 electric vehicles (EVs) impo",
+     "description": "The collection highlights a strong performance at the Nepal–China Korala border, with the office clearing 6,501 electric vehicles (EVs) imported from China during the period. \n\nTotal imports from China reached Rs 26.01 arba, while exports stood at Rs 28.63 crore.\n2/2",
+     "snippet": "The collection highlights a strong performance at the Nepal–China Korala border, with the office clearing 6,501 electric vehicles (EVs) imported from China during the period. \n\nTotal imports from China reached Rs 26.01 arba, while exports stood at Rs 28.63 crore.\n2/2",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Upen Singh",
+     "handle": "@upen_singh1_"
+    },
+    {
+     "url": "https://x.com/grok/status/2116889227958812809",
+     "title": "Yes, primarily at Korala. Rasuwagadhi and Tatopani (the usual main routes for Chinese EVs) have been closed or heavily disrupted by floods a",
+     "description": "Yes, primarily at Korala. Rasuwagadhi and Tatopani (the usual main routes for Chinese EVs) have been closed or heavily disrupted by floods and landslides since late August. Trade was diverted there, so Korala cleared 6,501 EVs (mid-July–Oct 30). National Q1 total was ~6,636 EVs overall; China supplied most, nearly all via Korala. Limited activity has resumed at Rasuwagadhi but remains minor.",
+     "snippet": "Yes, primarily at Korala. Rasuwagadhi and Tatopani (the usual main routes for Chinese EVs) have been closed or heavily disrupted by floods and landslides since late August. Trade was diverted there, so Korala cleared 6,501 EVs (mid-July–Oct 30). National Q1 total was ~6,636 EVs overall; China supplied most, nearly all via Korala. Limited activity has resumed at Rasuwagadhi but remains minor.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2116963834728497286",
+     "title": "Trade volume with China has increased overall, driven by rising imports.",
+     "description": "Trade volume with China has increased overall, driven by rising imports.\n\nNepal imported Rs 425 bn from China in FY 2025/26, up 24.7% from Rs 341 bn the prior year. Exports stayed tiny at ~Rs 1.9 bn (often declining). \n\nCurrent FY 2026/27 shows continued growth; Mustang alone cleared Rs 26 bn in imports (incl. 6501 EVs) in 3.5 months—already far above its full prior-year total—amid border shifts.",
+     "snippet": "Trade volume with China has increased overall, driven by rising imports.\n\nNepal imported Rs 425 bn from China in FY 2025/26, up 24.7% from Rs 341 bn the prior year. Exports stayed tiny at ~Rs 1.9 bn (often declining). \n\nCurrent FY 2026/27 shows continued growth; Mustang alone cleared Rs 26 bn in imports (incl. 6501 EVs) in 3.5 months—already far above its full prior-year total—amid border shifts.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/FrancisClete/status/2116604330459672789",
+     "title": "👹 CHINESE BELT & ROAD PROJECTS KILL COUNTRIES 👹 ⚠️ SERBIA = Belgrade latest example = The People Rebel ⚠️ ⚠️ KENYA / NEPAL / PERUS / INDONES",
+     "description": "👹 CHINESE BELT & ROAD \nPROJECTS KILL COUNTRIES 👹\n\n⚠️ SERBIA  = Belgrade latest \nexample = The People Rebel ⚠️\n\n⚠️ KENYA / NEPAL / PERUS / \nINDONESIA ⚠️\n\n🥵 CRIPPLING CORRUPTION+\nDEBT TRAP = DESTRUCTION 🥵\n\n👺 CHINA LOSING GRIP 👺\n\nhttps://www.youtube.com/watch?v=bCzouT41kzg",
+     "snippet": "👹 CHINESE BELT & ROAD \nPROJECTS KILL COUNTRIES 👹\n\n⚠️ SERBIA  = Belgrade latest \nexample = The People Rebel ⚠️\n\n⚠️ KENYA / NEPAL / PERUS / \nINDONESIA ⚠️\n\n🥵 CRIPPLING CORRUPTION+\nDEBT TRAP = DESTRUCTION 🥵\n\n👺 CHINA LOSING GRIP 👺\n\nhttps://www.youtube.com/watch?v=bCzouT41kzg",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tarot Lumination",
+     "handle": "@FrancisClete"
+    },
+    {
+     "url": "https://x.com/mohankatarki/status/2116962373923987597",
+     "title": "Two Floods, Two Outcomes Nepal's August 26, 2026 flood in the Bhote Koshi–Trishuli river system killed about 1,453 people.",
+     "description": "Two Floods, Two Outcomes\n\nNepal's August 26, 2026 flood in the Bhote Koshi–Trishuli river system killed about 1,453 people. It struck Timure, Rasuwagadhi and Syabrubesiin Rasuwa first around 9 am, in broad daylight, without warning since there were no automated sirens. The failure to instal warning system proved fatal in Nepal. \n\nBhutan's October 29 Shintaphu GLOF, in the Mo Chhu–Punatsangchhu / Sankosh basin struck at night. Yet within 10–15 minutes, people were alerted since lake sensors triggered sirens across the valley. Gasa Tshachu was evacuated before destruction.\n\nDaylight did not save Nepal; darkness did not doom Bhutan. Early warning, not time of day, decided who lived.#Bhutanfloods",
+     "snippet": "Two Floods, Two Outcomes\n\nNepal's August 26, 2026 flood in the Bhote Koshi–Trishuli river system killed about 1,453 people. It struck Timure, Rasuwagadhi and Syabrubesiin Rasuwa first around 9 am, in broad daylight, without warning since there were no automated sirens. The failure to instal warning system proved fatal in Nepal. \n\nBhutan's October 29 Shintaphu GLOF, in the Mo Chhu–Punatsangchhu / Sankosh basin struck at night. Yet within 10–15 minutes, people were alerted since lake sensors triggered sirens across the valley. Gasa Tshachu was evacuated before destruction.\n\nDaylight did not save Nepal; darkness did not doom Bhutan. Early warning, not time of day, decided who lived.#Bhutanfloods",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mohan Katarki",
+     "handle": "@mohankatarki"
+    },
+    {
+     "url": "https://x.com/NoOnefcoy0/status/2116507940219965618",
+     "title": "Absolutely Angelo. Nepal needs three more years of trade preferences because 50 years of Western aid didn't build functional economy. China",
+     "description": "Absolutely Angelo. Nepal needs three more years of trade preferences because 50 years of Western aid didn't build functional economy. China builds roads. West builds dependency. The contrast is whole story of 21st century.",
+     "snippet": "Absolutely Angelo. Nepal needs three more years of trade preferences because 50 years of Western aid didn't build functional economy. China builds roads. West builds dependency. The contrast is whole story of 21st century.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "NoOne",
+     "handle": "@NoOnefcoy0"
+    },
+    {
+     "url": "https://x.com/powerplantworld/status/2117016849514672518",
+     "title": "Nepal cancels tender for Sunkoshi Marin dam and power plant https://ua.news/en/energetika/u-nepali-skasuvali-tender-na-dambu-i-elektrostants",
+     "description": "Nepal cancels tender for Sunkoshi Marin dam and power plant\nhttps://ua.news/en/energetika/u-nepali-skasuvali-tender-na-dambu-i-elektrostantsiiu-sunkoshi-marin-kathmandu-post \n#Nepal #SunkoshiMarin #bagmati #hydropower",
+     "snippet": "Nepal cancels tender for Sunkoshi Marin dam and power plant\nhttps://ua.news/en/energetika/u-nepali-skasuvali-tender-na-dambu-i-elektrostantsiiu-sunkoshi-marin-kathmandu-post \n#Nepal #SunkoshiMarin #bagmati #hydropower",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Power Plant World",
+     "handle": "@powerplantworld"
+    }
+   ]
+  }
+ ]
+}
