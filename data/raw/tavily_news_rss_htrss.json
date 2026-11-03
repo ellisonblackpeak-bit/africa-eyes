@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Two government-backed startups release sovereign AI models that can run in airgapped environment",
+   "url": "https://www.hindustantimes.com/india-news/two-startups-release-sovereign-ai-models-that-can-run-in-airgapped-environment-101793732689316.html",
+   "content": "India AI Mission-backed startups Soket AI and ZenteiQ unveiled sovereign, offline models for secure use in coding, maths, science and research.",
+   "published_date": "Wed, 04 Nov 2026 00:34:48 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Delhi sees massive traffic snarls as festive rush, vehicle breakdowns disrupt peak-hour movement",
    "url": "https://www.hindustantimes.com/india-news/delhi-sees-massive-traffic-snarls-as-festival-rush-vehicle-breakdowns-disrupt-peak-hour-movement-101793719619278.html",
    "content": "Severe traffic congestion brought several parts of central, south, and north Delhi to a standstill on Tuesday.",
@@ -146,13 +153,6 @@
    "url": "https://www.hindustantimes.com/india-news/navy-rescues-20-crew-members-from-hijacked-iranian-vessel-101793645270343.html",
    "content": "The operation was carried out 3,000 km from Mumbai in the Arabian Sea, the officials said.",
    "published_date": "Tue, 03 Nov 2026 00:35:03 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "‘India’s green-energy shift shielded it from global crises’: Prime Minister Narendra Modi",
-   "url": "https://www.hindustantimes.com/india-news/indias-green-energy-shift-shielded-it-from-global-crises-prime-minister-narendra-modi-101793646143454.html",
-   "content": "At the renewable energy summit, Modi outlined plans for 500 GW of additional non-fossil capacity and stronger transmission links.",
-   "published_date": "Tue, 03 Nov 2026 00:32:22 +0530",
    "score": 0.6
   }
  ],

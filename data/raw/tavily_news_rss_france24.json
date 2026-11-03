@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Trickle or tsunami? Democrats eye gains in US midterm elections",
+   "url": "https://www.france24.com/en/tv-shows/the-debate/20261103-trickle-or-tsunami-democrats-eye-gains-in-us-midterm-elections",
+   "content": "Will it be a trickle, a wave, or a tsunami? Election Day in the United States with Democrats hoping to take back one or both houses of Congress. We’ll track the turnout, gauge the mood and raise the curtain ahead of Midterms results that are sure to shape the last two years of Donald Trump’s second and final term. Will a US president who’s already broken norms with his maximum use of executive powers be affected by the results a little, a lot, or not at all?",
+   "published_date": "Tue, 03 Nov 2026 19:18:13 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "🔴 Midterms live: Voting under way to determine control of Congress and the future of Trump's agenda",
+   "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+   "content": "",
+   "published_date": "Tue, 03 Nov 2026 18:42:49 GMT",
+   "score": 0.6
+  },
+  {
    "title": "France's dermatology crisis: Patients desperate for appointments",
    "url": "https://www.france24.com/en/tv-shows/france-in-focus/20261103-france-s-dermatology-crisis-patients-desperate-for-appointments",
    "content": "Around 200,000 cases of skin cancer are diagnosed in France every year. Yet as more and more patients seek medical advice, getting an appointment with a dermatologist is becoming increasingly difficult. Half the country's dermatologists are nearing retirement, and only around 100 new specialists are trained up each year. Faced with this growing shortage, some are coming up with innovative solutions. FRANCE 24's Aurore Dupuis and Sonia Baritello report.",
@@ -51,6 +65,13 @@
    "score": 0.6
   },
   {
+   "title": "Election officials brace for possible Trump interference in the midterms",
+   "url": "https://www.france24.com/en/americas/20261103-how-state-officials-prepared-for-possible-trump-interference-in-the-midterms",
+   "content": "State officials who run US elections braced for possible intervention by President Donald Trump's administration in Tuesday's midterms, fearing federal authorities loyal to the president could disrupt voting, challenge ballot counts or try to block the certification of unfavorable results.",
+   "published_date": "Tue, 03 Nov 2026 16:41:47 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Brazil keeps a close eye on US midterm elections",
    "url": "https://www.france24.com/en/video/20261103-brazil-keeps-a-close-eye-on-us-midterm-elections",
    "content": "Brazil is keeping a close eye on the US midterm elections. Since Donald Trump's return to the White House, relations between Brasilia and Washington have grown increasingly tense. On the economic front, aggressive trade policies have subjected Brazilian imports to some of the steepest tariffs globally, exacerbating friction with the Trump administration. FRANCE 24's correspondent in Rio de Janeiro Jan Onoszko has more.",
@@ -83,6 +104,13 @@
    "url": "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
    "content": "In the US midterm elections, Democrat Abdul El-Sayed and Republican Mike Rogers are testing two sharply different strategies to win over voters in one of the nation's premier swing states on Tuesday, November 3, in a closely watched race that could determine control of the Senate. Progressive candidate El-Sayed has so far outpolled his Republican rival and is emerging as one of the Democratic Party's rising stars.",
    "published_date": "Tue, 03 Nov 2026 15:41:59 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Bomb threats against European airlines force Warsaw airport closure, affect several flights",
+   "url": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights",
+   "content": "Bomb threats targeted at least 10 European airlines on Tuesday, forcing the temporary closure of a Warsaw airport and affecting at least four Ryanair flights. No explosives were found after the planes all took off and landed safely in different European cities.",
+   "published_date": "Tue, 03 Nov 2026 15:41:48 GMT",
    "score": 0.6
   },
   {
@@ -128,9 +156,9 @@
    "score": 0.6
   },
   {
-   "title": "Trump says US will halt $4 billion in aid to Israel after end of the year",
+   "title": "Trump says US will halt $4 billion in aid to Israel at the end of the year",
    "url": "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
-   "content": "President Donald Trump on Tuesday said that the United States will stop $4 billion in funding to Israel after the end of this year. While speaking to Fox News' Fox and Friends, the US president added that Israel no longer needed the aid from Washington, and that some politicians were using the funding to criticise Republicans.",
+   "content": "President Donald Trump on Tuesday said the United States will halt its $4 billion in annual funding to Israel at the end of the year. Speaking to Fox News, the US president added that Israel no longer needed the aid from Washington, and that some politicians were using the funding package to criticise Republicans.",
    "published_date": "Tue, 03 Nov 2026 14:35:19 GMT",
    "score": 0.6
   },
@@ -139,34 +167,6 @@
    "url": "https://www.france24.com/en/video/20261103-2026-prix-goncourt-france-s-prestigious-literary-prize-awarded-to-philippe-jaenada",
    "content": "France’s prestigious literary prize “The Goncourt” was awarded on Monday to writer Philippe Jaenada. The prize carries a symbolic reward of only 10 euros, but results in considerable recognition and book sales for the winning author. FRANCE 24’s Culture reporter Olivia Salazar-Winspear reports from the Parisian restaurant where the jury made the call.",
    "published_date": "Tue, 03 Nov 2026 14:21:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Americans vote in key midterms set to upend Trump presidency",
-   "url": "https://www.france24.com/en/video/20261103-americans-vote-in-key-midterms-set-to-upend-trump-presidency",
-   "content": "Americans voted on Tuesday in pivotal midterm elections with Democrats hoping to seize control of Congress and impose the first significant checks on Donald Trump's chaotic second term in the White House. Republicans losing the House would give Democrats the power to stall Trump's legislative agenda and launch sweeping investigations of his administration. FRANCE 24's Fraser Jackson reports from Washington, DC.",
-   "published_date": "Tue, 03 Nov 2026 14:18:43 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Israeli opposition leaders vow to remove Netanyahu quickly but path unclear",
-   "url": "https://www.france24.com/en/video/20261103-israeli-opposition-leaders-vow-to-remove-netanyahu-quickly-but-path-unclear",
-   "content": "The Israeli opposition bloc led by Gadi Eisenkot pledged Tuesday to form a government quickly to oust Prime Minister Benjamin Netanyahu but remained unclear on how, with divisions over whether to ally with Arab lawmakers. Arab-majority parties last week won 19 seats in the 120-member parliament. Eisenkot's diverse opposition bloc won 48 seats while Netanyahu's camp secured 53, of which 27 are from his Likud party.",
-   "published_date": "Tue, 03 Nov 2026 14:17:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US midterm elections: A referendum on President Donald Trump?",
-   "url": "https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump",
-   "content": "Americans deliver their verdict on Donald Trump's tumultuous first term in midterm elections that threaten to shatter his grip on Washington, with Democrats poised to seize the House and within striking distance of the Senate.",
-   "published_date": "Tue, 03 Nov 2026 13:56:59 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Californians vote on ballot initiative to impose one-time tax on billionaires",
-   "url": "https://www.france24.com/en/tv-shows/business/20261103-californians-vote-on-ballot-initiative-to-impose-one-time-tax-on-billionaires",
-   "content": "This Tuesday, Californians are voting on a landmark plan to impose a one-time tax on billionaires to fund the state's healthcare system. We take a closer look. Also on the show: global oil prices fell sharply on the eve of the US midterm elections. This came after Iran said it was holding intensive talks through mediators towards negotiating peace and signalled that it was ready to reopen the Strait of Hormuz if the US accepted its conditions. Both Brent and WTI fell by around 8 percent.",
-   "published_date": "Tue, 03 Nov 2026 13:51:40 GMT",
    "score": 0.6
   }
  ],
