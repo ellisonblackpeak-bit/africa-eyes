@@ -2,20 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "US / Desk — 30 Oct 2026",
-   "url": "https://www.cyberverso.net/desk/us/us-desk-30-oct-2026",
-   "snippet": "For Europe. European device makers that test in China for the US market have two years to move that work. EU labs should stay eligible: Carr ties reciprocity to mutual recognition agreements, and the 1998 EU–US agreement covers telecom and EMC testing. The order's own list of reciprocal economies was not available to us. The component ban is the bigger shift: one Huawei chip inside a camera now bl",
-   "published": "Fri, 30 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe's 5G to cost $62 bln more if Chinese vendors banned",
-   "url": "https://www.reuters.com/jp/video/watch/idOVAICC3GR",
-   "snippet": "A ban on buying telecoms equipment from Chinese firms would add about 55 billion euros ($62 billion) to the cost of 5G networks in Europe and delay the",
-   "published": "Mon, 02 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Android 16 : r/Huawei",
    "url": "https://www.reddit.com/r/Huawei/comments/1xhhkuk/android_16",
    "snippet": "... Europe, do not take the risk and switch to Huawei. Middle-Effort7495 ... London's poor 5G blamed on spectrum, investment, and timing of Huawei ban · r",
@@ -26,14 +12,7 @@
    "title": "Why India Is Unlikely to Ban Huawei",
    "url": "https://www.lightreading.com/regulatory-politics/why-india-is-unlikely-to-ban-huawei",
    "snippet": "The latest developments follow media reports last month suggesting the DoT would ban Huawei from participating in 5G trials. Yet while it was conspicuously absent from a list of vendors approved for those trials, Huawei was later invited to be a part of the initiative and is likely to start work this month. The Chinese vendor has also offered to share source code used in its products to allay any ",
-   "published": "Fri, 30 Oct 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU espionage risks grow around China-linked assets | Adalytica",
-   "url": "https://adalytica.com/news/eu-espionage-china-linked-assets-a92e35d7",
-   "snippet": "The concern extends beyond classic intelligence gathering into influence operations and coercive pressure on Europe’s political and commercial system. In Belgium, police raided Huawei offices and lobbyists’ homes in a probe tied to efforts to prevent restrictions on Chinese 5G technology, while prosecutors sought the lifting of immunity for five members of the European Parliament. That kind of scr",
-   "published": "Sun, 01 Nov 2026 20:10:03 GMT",
+   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -44,10 +23,17 @@
    "source": "tavily"
   },
   {
-   "title": "China’s chip war: Huawei, export controls and the push for self-reliance – China Factor",
-   "url": "https://chinafactor.news/china-chips",
-   "snippet": "Huawei fails to chip away at Nvidia’s dominance\n Pig-headed Huawei heads for hog heaven amid US-China row\n Huawei strangled by United States sanctions as tech ban bites\n ‘Wolf culture’ and ‘Rommel’ loom large at Huawei\n US pulls the plug on China’s leading chipmaker SMIC\n Huawei’s 5G force triggers a global pushback against China\n Huawei ban and China backlash lifts profits for Samsung Electronics",
-   "published": "Mon, 02 Nov 2026 07:00:00 GMT",
+   "title": "China and Limits to the European Union's Geoeconomic Turn",
+   "url": "https://discovery.dundee.ac.uk/files/178608529/J_of_Common_Market_Studies_-_2026_-_Young_-_China_and_Limits_to_the_European_Union_s_Geoeconomic_Turn.pdf",
+   "snippet": "Whilst some governments have explicitly announced that Huawei will remain involved in the develop- ment of national 5G networks, others have adopted legislation",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese labs banned from testing electronics in U.S.",
+   "url": "https://www.ctvnews.ca/world/article/us-regulator-bans-chinese-labs-from-electronics-testing",
+   "snippet": "World\n\n# U.S. regulator bans Chinese labs from electronics testing\n\nByAFP\n\nOpens in new window\n\nPublished:\n\nSigns promoting 5G wireless technology from Chinese technology firm Huawei are displayed at the PT Expo in Beijing on Sept. 26, 2018. (AP Photo/Mark Schiefelbein, )\n\nThousands pack Toronto’s Gay Village for Halloween on Church festivities\n\nVideo\n\n## Thousands pack Toronto’s Gay Village for H",
+   "published": "Fri, 30 Oct 2026 13:52:46 GMT",
    "source": "tavily"
   },
   {
@@ -55,6 +41,13 @@
    "url": "https://tavily.com/knowledge/company/HJhEDlCVdmjm",
    "snippet": "# Huawei\nID: HJhEDlCVdmjm\nWebsite: www.huawei.com\nLegal name: Huawei Technologies Co. Ltd\nHeadquarters: Shenzhen, Guangdong, China\nLinkedIn: www.linkedin.com/company/huawei · 5,479,060 followers\nIndustry: Telecommunications\nCompany type: Privately Held\nSocial profiles: www.facebook.com/huawei, www.twitter.com/huawei, www.crunchbase.com/organization/huawei, www.instagram.com/huawei, www.youtube.com",
    "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Huawei, CelcomDigi join forces to upskill workforce in AI, 5G",
+   "url": "https://www.nst.com.my/business/corporate/2026/11/1569744/huawei-celcomdigi-join-forces-upskill-workforce-ai-5g",
+   "snippet": "The collaboration aims to equip employees with the skills needed to support innovation, business transformation and the adoption of emerging technologies as",
+   "published": "Tue, 03 Nov 2026 05:00:00 GMT",
    "source": "tavily"
   },
   {

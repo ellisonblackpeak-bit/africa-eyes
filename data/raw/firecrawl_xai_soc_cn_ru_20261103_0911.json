@@ -1,0 +1,116 @@
+{
+ "query": "China Russia Chinese company energy cooperation",
+ "_tag": "soc_cn_ru",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/BayStreetBulls/status/2116472646116442264",
+     "title": "Russia is selling gas to China at half price — because it has to.",
+     "description": "Russia is selling gas to China at half price — because it has to.\n\nDuma documents show Beijing pays about $248 per 1,000 cubic metres for Gazprom pipeline gas in 2026, vs $562 for other foreign buyers. A 56% discount.\n\nThat is what losing your best customer looks like.",
+     "snippet": "Russia is selling gas to China at half price — because it has to.\n\nDuma documents show Beijing pays about $248 per 1,000 cubic metres for Gazprom pipeline gas in 2026, vs $562 for other foreign buyers. A 56% discount.\n\nThat is what losing your best customer looks like.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Bay Street Finance",
+     "handle": "@BayStreetBulls"
+    },
+    {
+     "url": "https://x.com/zerohedge/status/2116358356042482095",
+     "title": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-r",
+     "description": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
+     "snippet": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "zerohedge",
+     "handle": "@zerohedge"
+    },
+    {
+     "url": "https://x.com/TimN1984/status/2117214260959076353",
+     "title": "Power of Siberia 2 (\"Low-Balling\") when your a ccp vassal xd • China: Exploits Russia's lost European market and lack of buyers—demands heav",
+     "description": "Power of Siberia 2 (\"Low-Balling\") when your a ccp vassal xd\n• China: Exploits Russia's lost European market and lack of buyers—demands heavily discounted rates (~$50–130/tcm).\n• Russia: Wants closer to market/European-era prices (~$250–300+/tcm), which Beijing refuses.",
+     "snippet": "Power of Siberia 2 (\"Low-Balling\") when your a ccp vassal xd\n• China: Exploits Russia's lost European market and lack of buyers—demands heavily discounted rates (~$50–130/tcm).\n• Russia: Wants closer to market/European-era prices (~$250–300+/tcm), which Beijing refuses.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "TN",
+     "handle": "@TimN1984"
+    },
+    {
+     "url": "https://x.com/grok/status/2117260964626088231",
+     "title": "Russia currently sells Urals crude to India and China at FOB discounts typically $15-25/bbl below Brent (now ~$107), though high Asia freigh",
+     "description": "Russia currently sells Urals crude to India and China at FOB discounts typically $15-25/bbl below Brent (now ~$107), though high Asia freight (~$25-30/bbl) often brings delivered prices near parity or a small premium. China also takes ESPO at narrower discounts. Pipeline gas via Power of Siberia averages ~$248 per 1,000 m³, a 50-56% discount versus other Russian export prices.",
+     "snippet": "Russia currently sells Urals crude to India and China at FOB discounts typically $15-25/bbl below Brent (now ~$107), though high Asia freight (~$25-30/bbl) often brings delivered prices near parity or a small premium. China also takes ESPO at narrower discounts. Pipeline gas via Power of Siberia averages ~$248 per 1,000 m³, a 50-56% discount versus other Russian export prices.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2117365274500366512",
+     "title": "The map satirizes EU policy: direct Russian pipeline gas labeled \"bad,\" while the same resource flows to China as \"good.\" Logic is geopoliti",
+     "description": "The map satirizes EU policy: direct Russian pipeline gas labeled \"bad,\" while the same resource flows to China as \"good.\"\n\nLogic is geopolitical. After 2022 cutoffs weaponized dependence, EU cut pipeline imports ~90% (share from ~40% to ~10-15%). Remaining LNG under old contracts is being phased out fully by Jan 2027, pipeline by late 2027, to deny Russia leverage and war revenue without instant market shock.\n\nChina takes Power of Siberia at capacity (~39 bcm) at steep discounts; long-haul LNG routes are costly and tanker-limited, so volumes stay lower. Costly for EU industry, but deliberate decoupling rather than pure idiocy.",
+     "snippet": "The map satirizes EU policy: direct Russian pipeline gas labeled \"bad,\" while the same resource flows to China as \"good.\"\n\nLogic is geopolitical. After 2022 cutoffs weaponized dependence, EU cut pipeline imports ~90% (share from ~40% to ~10-15%). Remaining LNG under old contracts is being phased out fully by Jan 2027, pipeline by late 2027, to deny Russia leverage and war revenue without instant market shock.\n\nChina takes Power of Siberia at capacity (~39 bcm) at steep discounts; long-haul LNG routes are costly and tanker-limited, so volumes stay lower. Costly for EU industry, but deliberate decoupling rather than pure idiocy.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/_ooo0OOOO0ooo_/status/2117313239394443618",
+     "title": "\"Russian gas supplies to Turkey decreased by 17%...",
+     "description": "\"Russian gas supplies to Turkey decreased by 17%...\nGazprom's share decreased from 39% to 33%...\nTurkey is the second largest customer of Gazprom after China...\nIran supplies to Turkey increased by almost 40% to 6.37 billion cubic meters\"\nhttps://eadaily.com/en/news/2026/10/23/turkey-underestimated-russian-gas-supplies-decreased-and-prices-rose",
+     "snippet": "\"Russian gas supplies to Turkey decreased by 17%...\nGazprom's share decreased from 39% to 33%...\nTurkey is the second largest customer of Gazprom after China...\nIran supplies to Turkey increased by almost 40% to 6.37 billion cubic meters\"\nhttps://eadaily.com/en/news/2026/10/23/turkey-underestimated-russian-gas-supplies-decreased-and-prices-rose",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "LїckLїck🐈fellacat",
+     "handle": "@_ooo0OOOO0ooo_"
+    },
+    {
+     "url": "https://x.com/grok/status/2117397844470493398",
+     "title": "Yes, China is by far Russia’s largest oil buyer and a key supplier of dual-use machinery, electronics and components that keep Russian indus",
+     "description": "Yes, China is by far Russia’s largest oil buyer and a key supplier of dual-use machinery, electronics and components that keep Russian industry running. Official policy still stops short of direct lethal arms transfers.",
+     "snippet": "Yes, China is by far Russia’s largest oil buyer and a key supplier of dual-use machinery, electronics and components that keep Russian industry running. Official policy still stops short of direct lethal arms transfers.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/grok/status/2117393156161323137",
+     "title": "China buys large volumes of Russian oil and supplies dual-use goods (machine tools, electronics, components) that help sustain Russia's defe",
+     "description": "China buys large volumes of Russian oil and supplies dual-use goods (machine tools, electronics, components) that help sustain Russia's defense industry, per multiple reports. Beijing still claims neutrality and rejects lethal arms transfers. Xi's reported stance treats Ukraine as a European issue requiring European involvement.",
+     "snippet": "China buys large volumes of Russian oil and supplies dual-use goods (machine tools, electronics, components) that help sustain Russia's defense industry, per multiple reports. Beijing still claims neutrality and rejects lethal arms transfers. Xi's reported stance treats Ukraine as a European issue requiring European involvement.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Grok",
+     "handle": "@grok"
+    },
+    {
+     "url": "https://x.com/Wanderer89711/status/2117282481384653140",
+     "title": "Die günstige Energie aus Russland war ein Hoax.",
+     "description": "Die günstige Energie aus Russland war ein Hoax. China bezahlt bis zu 35% weniger für russisches Gas. Auch hier hat Putin uns beschissen.",
+     "snippet": "Die günstige Energie aus Russland war ein Hoax. China bezahlt bis zu 35% weniger für russisches Gas. Auch hier hat Putin uns beschissen.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Tom Hark",
+     "handle": "@Wanderer89711"
+    },
+    {
+     "url": "https://x.com/dodenstein/status/2117241404871045390",
+     "title": "NEW YORK, August 31, 2021 Genoil has proposed to the Russian Government to build new pipelines to Asia which would enable all Russian natura",
+     "description": "NEW YORK, August 31, 2021  Genoil has proposed to the Russian Government to build new pipelines to Asia which would enable all Russian natural gas and oil production currently be supplied to the EU to be supplied to much needed markets in  China.\n\nhttps://genoil.ca/genoil-in-discussions-with-top-putin-aide-for-700-billion-energy-infrastructure-plan/",
+     "snippet": "NEW YORK, August 31, 2021  Genoil has proposed to the Russian Government to build new pipelines to Asia which would enable all Russian natural gas and oil production currently be supplied to the EU to be supplied to much needed markets in  China.\n\nhttps://genoil.ca/genoil-in-discussions-with-top-putin-aide-for-700-billion-energy-infrastructure-plan/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Dodenstein 🇩🇪",
+     "handle": "@dodenstein"
+    }
+   ]
+  }
+ ]
+}

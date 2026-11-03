@@ -1,21 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Filipino embalmers – last caretakers of the dead, seldom cared for",
-   "url": "https://www.rappler.com/philippines/filipino-embalmers-last-caretakers-dead-seldom-cared-for/",
-   "content": "Part 2: Trainers say a decade of reforms professionalized the embalming industry, but regulation, data, and pay have not kept pace",
-   "published_date": "Mon, 02 Nov 2026 19:30:00 +0800",
-   "score": 0.6
-  },
-  {
-   "title": "[New Rx] What if the Philippines leased an island for 100 years?",
-   "url": "https://www.rappler.com/voices/thought-leaders/new-rx-philippines-lease-island-international-investors/",
-   "content": "Hong Kong can be a model. Singapore and South Korea might bring in long-term capital, drive regional economic growth, and spark broader national governance reforms in the Philippines",
-   "published_date": "Mon, 02 Nov 2026 18:05:00 +0800",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

@@ -2,10 +2,52 @@
  "success": true,
  "results": [
   {
-   "title": "INTERVIEW: Solvay CEO says chemicals industry can’t afford to lose free CO2 allowances",
-   "url": "https://www.rapporteur.com/news/interview-solvay-ceo-says-chemicals-industry-cant-afford-to-lose-free-co2-allowances/",
-   "content": "Unconditional free allocations essential to compete with US, China, Philippe Kehren claims",
-   "published_date": "Tue, 03 Nov 2026 03:01:02 +0000",
+   "title": "VOLTAGE: Dublin’s opening move on ETS reform",
+   "url": "https://www.rapporteur.com/news/voltage-dublins-opening-move-on-ets-reform/",
+   "content": "In today's edition: gas storage, fuel price cap, firefighters",
+   "published_date": "Tue, 03 Nov 2026 08:48:16 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Bulgaria records EU’s highest rate of last-resort antibiotic resistance [Partner Content]",
+   "url": "https://www.rapporteur.com/news/bulgaria-records-eus-highest-rate-of-last-resort-antibiotic-resistance/",
+   "content": "Resistance to carbapenems in a leading hospital bacterium hit 69% in 2025, as lawyers report a rise in malpractice cases linked to drug-resistant infections",
+   "published_date": "Tue, 03 Nov 2026 08:30:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "THE HACK: Copenhagen’s disappointment",
+   "url": "https://www.rapporteur.com/news/the-hack-copenhagens-disappointment/",
+   "content": "In today's edition: French data tax, ITU, supermarket cyberattacks",
+   "published_date": "Tue, 03 Nov 2026 06:55:29 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIRST AID: Italy’s counter-MFN plan raises questions",
+   "url": "https://www.rapporteur.com/news/first-aid-italys-counter-mfn-plan-raises-questions/",
+   "content": "In today's edition: firefighters, medtech, medical deserts",
+   "published_date": "Tue, 03 Nov 2026 06:48:28 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "HARVEST: Social conditionality’s not dead",
+   "url": "https://www.rapporteur.com/news/harvest-social-conditionalitys-not-dead/",
+   "content": "In today's edition: US midterms, cyberattacks, Polish chocolate",
+   "published_date": "Tue, 03 Nov 2026 06:35:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Brussels braces for a defeated Trump",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-brussels-braces-for-a-defeated-trump/",
+   "content": "Also, in Tuesday’s edition: Ukraine sets new EU membership goal",
+   "published_date": "Tue, 03 Nov 2026 06:11:37 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU stockpile shortfall could inflate global gas prices, IEA warns",
+   "url": "https://www.rapporteur.com/news/eu-stockpile-shortfall-could-inflate-global-gas-prices-iea-warns/",
+   "content": "Low reserves could mean tight market well into 2027, when EU countries will need to refill",
+   "published_date": "Tue, 03 Nov 2026 06:00:53 +0000",
    "score": 0.6
   },
   {
@@ -44,6 +86,13 @@
    "score": 0.6
   },
   {
+   "title": "INTERVIEW: Solvay CEO says chemicals industry can’t afford to lose free CO2 allowances",
+   "url": "https://www.rapporteur.com/news/interview-solvay-ceo-says-chemicals-industry-cant-afford-to-lose-free-co2-allowances/",
+   "content": "Unconditional free allocations essential to compete with US, China, Philippe Kehren claims",
+   "published_date": "Tue, 03 Nov 2026 03:00:02 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Why EU foie gras producers will keep an eye on US midterms",
    "url": "https://www.rapporteur.com/news/why-eu-foie-gras-producers-will-keep-an-eye-on-us-midterms/",
    "content": "Voters in two cities will vote to ban the luxury product",
@@ -58,17 +107,17 @@
    "score": 0.6
   },
   {
-   "title": "Witkoff announces Abu Dhabi talks with Ukraine, US, Russia",
-   "url": "https://www.rapporteur.com/news/witkoff-announces-abu-dhabi-talks-with-ukraine-us-russia/",
-   "content": "As talks are due to recommence, Russia has continued with deadly strikes",
-   "published_date": "Tue, 03 Nov 2026 00:08:40 +0000",
-   "score": 0.6
-  },
-  {
    "title": "UK, France to lead first-ever Coalition of the Willing exercise in Poland",
    "url": "https://www.rapporteur.com/news/uk-france-to-lead-first-ever-coalition-of-the-willing-exercise-in-poland/",
    "content": "The drill will involve 11 nations and 2,800 troops",
-   "published_date": "Tue, 03 Nov 2026 00:01:13 +0000",
+   "published_date": "Tue, 03 Nov 2026 00:10:13 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Witkoff announces Abu Dhabi talks with Ukraine, US, Russia",
+   "url": "https://www.rapporteur.com/news/witkoff-announces-abu-dhabi-talks-with-ukraine-us-russia/",
+   "content": "As talks are due to recommence, Russia has continued with deadly strikes",
+   "published_date": "Tue, 03 Nov 2026 00:00:40 +0000",
    "score": 0.6
   },
   {
@@ -160,55 +209,6 @@
    "url": "https://www.rapporteur.com/news/chocolate-gives-sweet-boost-to-polands-agri-food-industry/",
    "content": "From confectionery to pet food, Warsaw is becoming a major European exporter of processed food products",
    "published_date": "Mon, 02 Nov 2026 11:22:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIREPOWER: UK’s Streeting in Brussels",
-   "url": "https://www.rapporteur.com/news/firepower-uks-streeting-in-brussels/",
-   "content": "In today's edition: Patria, CSG, DiBaX 2026",
-   "published_date": "Mon, 02 Nov 2026 09:14:48 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "THE HACK: Cloud industry’s CAIDA gripes",
-   "url": "https://www.rapporteur.com/news/the-hack-cloud-industrys-caida-gripes/",
-   "content": "In today's edition: Kids Act, Frontex, AI stocks",
-   "published_date": "Mon, 02 Nov 2026 09:10:45 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "VOLTAGE: A tale of two COPs",
-   "url": "https://www.rapporteur.com/news/voltage-a-tale-of-two-cops/",
-   "content": "In today's edition: gas storage, ice loss, Russian energy",
-   "published_date": "Mon, 02 Nov 2026 09:06:09 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIRST AID: Dublin eyes clinical trials deal",
-   "url": "https://www.rapporteur.com/news/first-aid-dublin-eyes-clinical-trials-deal/",
-   "content": "In today's edition: week ahead, drug pricing, radiation poisoning",
-   "published_date": "Mon, 02 Nov 2026 09:01:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "HARVEST: Navigating discontent",
-   "url": "https://www.rapporteur.com/news/harvest-navigating-discontent/",
-   "content": "In today's edition: animal transport, promotion policy, trawling ban",
-   "published_date": "Mon, 02 Nov 2026 08:49:20 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Belgian PM offers resignation after budget talks collapse",
-   "url": "https://www.rapporteur.com/news/belgian-pm-offers-resignation-after-budget-talks-collapse/",
-   "content": "King Phillipe will consider de Wever's resignation and starts consultations with majority party leaders tomorrow",
-   "published_date": "Mon, 02 Nov 2026 08:48:46 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "‘Institutional inertia’",
-   "url": "https://www.rapporteur.com/news/rapporteur-am-institutional-inertia/",
-   "content": "Also, in Monday’s edition: the AfD’s pro-Ukraine dissenter",
-   "published_date": "Mon, 02 Nov 2026 06:18:08 +0000",
    "score": 0.6
   }
  ],
