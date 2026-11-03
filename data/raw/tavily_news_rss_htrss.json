@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Delhi sees massive traffic snarls as festive rush, vehicle breakdowns disrupt peak-hour movement",
+   "url": "https://www.hindustantimes.com/india-news/delhi-sees-massive-traffic-snarls-as-festival-rush-vehicle-breakdowns-disrupt-peak-hour-movement-101793719619278.html",
+   "content": "Severe traffic congestion brought several parts of central, south, and north Delhi to a standstill on Tuesday.",
+   "published_date": "Tue, 03 Nov 2026 21:37:19 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Danish minister visits India to advance green energy, trade partnership, maritime ties",
+   "url": "https://www.hindustantimes.com/india-news/danish-minister-visits-india-to-advance-green-energy-trade-partnership-maritime-ties-101793718886827.html",
+   "content": "Lidegaard, who visited Mumbai and New Delhi during November 2-3, described India as an increasingly important partner for Denmark",
+   "published_date": "Tue, 03 Nov 2026 20:44:46 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Vantara brings the world's wildlife community to Jamnagar for EARAZA Annual Conference 2026",
+   "url": "https://www.hindustantimes.com/india-news/vantara-brings-the-worlds-wildlife-community-to-jamnagar-for-earaza-annual-conference-2026-101793714533175.html",
+   "content": "Held at Vantara in Jamnagar, the four-day conference gathered representatives from 98 institutions across 30 countries and 29 Indian zoological institutions.",
+   "published_date": "Tue, 03 Nov 2026 20:33:46 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Chennai man killed in chopper crash was based in Canada, had visited India before ill-fated Nepal trip",
    "url": "https://www.hindustantimes.com/india-news/chennai-man-vasanth-kumar-balaramudu-killed-in-nepal-helicopter-collision-had-moved-to-canada-for-work-visited-india-before-fatal-crash-101793713447568.html",
    "content": "Vasanth Kumar Balaramudu was from North Chennai and was married to Anila Chauhan, who is from Gujarat.",
@@ -132,20 +153,6 @@
    "url": "https://www.hindustantimes.com/india-news/indias-green-energy-shift-shielded-it-from-global-crises-prime-minister-narendra-modi-101793646143454.html",
    "content": "At the renewable energy summit, Modi outlined plans for 500 GW of additional non-fossil capacity and stronger transmission links.",
    "published_date": "Tue, 03 Nov 2026 00:32:22 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Delhi's smog came from farm fires lit after NASA's satellite passed",
-   "url": "https://www.hindustantimes.com/india-news/delhi-smog-came-from-farm-fires-lit-after-nasa-satellite-passed-punjab-haryana-stubble-burning-air-quality-101793628039130.html",
-   "content": "On two Oct nights with the same weather, Delhi's air was far cleaner. India's weather satellite shows surge in evening crop burning in the 4 days before Nov 1.",
-   "published_date": "Mon, 02 Nov 2026 19:50:52 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "HT Evening News Brief Nov 2: GRAP-II curbs imposed in Delhi; Cyclone Murasu landfall and US midterm elections",
-   "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-november-2-grap-ii-curbs-imposed-in-delhi-ncr-cyclone-murasu-landfall-and-us-midterm-elections-top-news-101793625097663.html",
-   "content": "Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.",
-   "published_date": "Mon, 02 Nov 2026 19:16:05 +0530",
    "score": 0.6
   }
  ],

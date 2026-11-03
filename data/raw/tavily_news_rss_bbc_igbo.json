@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "E jidela onye na-ebipụta dọla adịgboroja n'Ondo State",
+   "url": "https://www.bbc.com/igbo/articles/cqkgj334dpezo?at_medium=RSS&at_campaign=rss",
+   "content": "Akụkọ a bụ maka onye na-ebipụta akatamkpo ego 'US Dollar' nke adịgboroja n'Ondo State.",
+   "published_date": "Tue, 03 Nov 2026 16:08:26 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Lee iwu ọhụrụ e wepụtara maka ndị mbịarambịa chọrọ ibi na UK ruo ebighi ebi",
    "url": "https://www.bbc.com/igbo/articles/c65ynew2zn3do?at_medium=RSS&at_campaign=rss",
    "content": "Gọọmenti UK ekwuola na ndị mbịarambịa agaghịzi enweta ikike ibi na UK ruo mgbe ebighị ebi naanị n'ihi na ha biri afọ ise. Ugbu a, mmadụ ga-enweta ikike ahụ dabere n'ọrụ ọma ya, ego ọ na-akpata, na àgwà ya.",
    "published_date": "Tue, 03 Nov 2026 11:03:55 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Enweghi ihe na-esere mụ na Peter Obi, ihe anyị na-eme bụ ndọrọndọrọ ọchịchị - Gọvanọ Soludo",
+   "url": "https://www.bbc.com/igbo/articles/c6m24gvm79lzo?at_medium=RSS&at_campaign=rss",
+   "content": "Gọvanọ Soludo kwuru nke a na mkparịtaụka ya na BBC News Igbo nwere n'Awka isiobodo state ahụ ma kọwaa na ọ bụ naanị n'ihe gbasara ọchịchị na ndọrọndọrọ ka ya na Peter Obi na-enwe nghọtahie.",
+   "published_date": "Mon, 02 Nov 2026 14:14:58 GMT",
    "score": 0.6
   },
   {
@@ -23,31 +37,17 @@
    "score": 0.6
   },
   {
-   "title": "America atụọla ogbunigwe ọzọ n'agwaetiti mba Iran dị na Strait of Hormuz dịka ntuliaka oge etiti ha na-amalite",
-   "url": "https://www.bbc.com/igbo/articles/ckvg7lp8gyxlo?at_medium=RSS&at_campaign=rss",
-   "content": "Ndịagha America kwuru na mwakpo ha mere n'agwaetiti Qeshm pere mbe ma bụrụ nke nchekwa onwe dịka ụlọọrụ ntaakụkọ CBS si kwuo.",
-   "published_date": "Tue, 03 Nov 2026 07:11:35 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Enweghi ihe na-esere mụ na Peter Obi, ihe anyị na-eme bụ ndọrọndọrọ ọchịchị - Gọvanọ Soludo",
-   "url": "https://www.bbc.com/igbo/articles/c6m24gvm79lzo?at_medium=RSS&at_campaign=rss",
-   "content": "Gọvanọ Soludo kwuru nke a na mkparịtaụka ya na BBC News Igbo nwere n'Awka isiobodo state ahụ ma kọwaa na ọ bụ naanị n'ihe gbasara ọchịchị na ndọrọndọrọ ka ya na Peter Obi na-enwe nghọtahie.",
-   "published_date": "Mon, 02 Nov 2026 14:14:58 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Tinubu emezuola nkwa ya n'afọ 2023 inye ụmụafọ Nigeria ọkụ latrik?",
-   "url": "https://www.bbc.com/igbo/articles/ckvg7l84yg9vo?at_medium=RSS&at_campaign=rss",
-   "content": "Pati All Progressive Congress (APC) kwuru na e kwesịrị iji ihe ndị Onyeisiala Tinubu mere na ngalaba ọkụ latrik kemgbe ọ malitere ọrụ n'afọ 2023, atụle ya.",
-   "published_date": "Mon, 02 Nov 2026 15:01:43 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Akụkọ dị mkpa - Nọvemba 3, 2026",
    "url": "https://www.bbc.com/igbo/articles/c5yk0k4y23qo?at_medium=RSS&at_campaign=rss",
    "content": "Akụkọ ndị kachasị mkpa n'ụwa taa bụ Tuzde, Nọvemba 3, 2026.",
    "published_date": "Tue, 03 Nov 2026 12:59:38 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "America atụọla ogbunigwe ọzọ n'agwaetiti mba Iran dị na Strait of Hormuz dịka ntuliaka oge etiti ha na-amalite",
+   "url": "https://www.bbc.com/igbo/articles/ckvg7lp8gyxlo?at_medium=RSS&at_campaign=rss",
+   "content": "Ndịagha America kwuru na mwakpo ha mere n'agwaetiti Qeshm pere mbe ma bụrụ nke nchekwa onwe dịka ụlọọrụ ntaakụkọ CBS si kwuo.",
+   "published_date": "Tue, 03 Nov 2026 07:11:35 GMT",
    "score": 0.6
   },
   {

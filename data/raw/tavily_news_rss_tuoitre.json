@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Chip bảo mật 'Make in Vietnam' đầu tiên ra mắt",
-   "url": "https://tuoitre.vn/chip-bao-mat-make-in-vietnam-dau-tien-ra-mat-10026110310180152.htm",
-   "content": "Chiều 3-11, tại trụ sở Bộ Quốc phòng, Ban Cơ yếu Chính phủ và Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) đã tổ chức lễ công bố ra mắt chip bảo mật VGC v1.0 cùng nền tảng bán dẫn bảo mật đầu tiên do Việt Nam làm chủ thiết kế.",
-   "published_date": "11/3/2026 5:58:00 PM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
