@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Lee iwu ọhụrụ e wepụtara maka ndị mbịarambịa chọrọ ibi na UK ruo ebighi ebi",
+   "url": "https://www.bbc.com/igbo/articles/c65ynew2zn3do?at_medium=RSS&at_campaign=rss",
+   "content": "Gọọmenti UK ekwuola na ndị mbịarambịa agaghịzi enweta ikike ibi na UK ruo mgbe ebighị ebi naanị n'ihi na ha biri afọ ise. Ugbu a, mmadụ ga-enweta ikike ahụ dabere n'ọrụ ọma ya, ego ọ na-akpata, na àgwà ya.",
+   "published_date": "Tue, 03 Nov 2026 11:03:55 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Trump chọrọ iwepụ South Africa na Rwanda na nkwekorịta azụmahia ha na America",
+   "url": "https://www.bbc.com/igbo/articles/c574pg3wgepno?at_medium=RSS&at_campaign=rss",
+   "content": "Trump chọrọ iwepụ South Africa na Rwanda nkwekọrịta azụmaahịa ha na America.",
+   "published_date": "Tue, 03 Nov 2026 09:54:14 GMT",
+   "score": 0.6
+  },
+  {
    "title": "America atụọla ogbunigwe ọzọ n'agwaetiti mba Iran dị na Strait of Hormuz dịka ntuliaka oge etiti ha na-amalite",
    "url": "https://www.bbc.com/igbo/articles/ckvg7lp8gyxlo?at_medium=RSS&at_campaign=rss",
    "content": "Ndịagha America kwuru na mwakpo ha mere n'agwaetiti Qeshm pere mbe ma bụrụ nke nchekwa onwe dịka ụlọọrụ ntaakụkọ CBS si kwuo.",
@@ -23,17 +37,17 @@
    "score": 0.6
   },
   {
+   "title": "Akụkọ dị Mkpa - Nọvemba 2, 2026",
+   "url": "https://www.bbc.com/igbo/articles/c5yk0k4y23qo?at_medium=RSS&at_campaign=rss",
+   "content": "Akụkọ ndị kachasị mkpa n'ụwa taa bụ Mọnde, Nọvemba 2, 2026.",
+   "published_date": "Mon, 02 Nov 2026 12:58:56 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ifeanyichukwu Joseph: Ihe anyị ma maka nwokorobia a sị si n'ụlọelu tụtuo nwanne enyi ya nwaanyị n'Imo state",
    "url": "https://www.bbc.com/igbo/articles/cm8eznww81g3o?at_medium=RSS&at_campaign=rss",
    "content": "Ndị uweojii anwụchiela nwoke a sị si n'ụlọelu tụtuo nwanne enyi ya nwaanyị.",
    "published_date": "Mon, 02 Nov 2026 13:44:55 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Nnyocha e mere n'ahụ mmadụ abụọ a na-enyo bu ọrịa Ebola na Nigeria gosiri na ha ebughi ọrịa a -NCDC",
-   "url": "https://www.bbc.com/igbo/articles/cqy7l36y6x81o?at_medium=RSS&at_campaign=rss",
-   "content": "Akụkọ na-eru anyị ntụ na-ekwu na mmadụ abụọ eburu ọrịa a na-enyo na ọ bụ Ebola.",
-   "published_date": "Mon, 02 Nov 2026 07:21:32 GMT",
    "score": 0.6
   },
   {
@@ -44,13 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Akụkọ dị Mkpa - Nọvemba 2, 2026",
-   "url": "https://www.bbc.com/igbo/articles/c5yk0k4y23qo?at_medium=RSS&at_campaign=rss",
-   "content": "Akụkọ ndị kachasị mkpa n'ụwa taa bụ Mọnde, Nọvemba 2, 2026.",
-   "published_date": "Mon, 02 Nov 2026 12:58:56 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Onye bụdị Pastọ Jimmy Odukoya na-ewu na soshal midịa dịka o gosiri ọha nwunye ọhụrụ ya?",
    "url": "https://www.bbc.com/igbo/articles/c820vepk36x1o?at_medium=RSS&at_campaign=rss",
    "content": "Pastor Jimmy Odukoya na-ewu na soshal midia dịka o gosiri ndị ụka ya nwaanyị ọhụrụ ya.",
@@ -58,45 +65,17 @@
    "score": 0.6
   },
   {
+   "title": "Nnyocha e mere n'ahụ mmadụ abụọ a na-enyo bu ọrịa Ebola na Nigeria gosiri na ha ebughi ọrịa a -NCDC",
+   "url": "https://www.bbc.com/igbo/articles/cqy7l36y6x81o?at_medium=RSS&at_campaign=rss",
+   "content": "Akụkọ na-eru anyị ntụ na-ekwu na mmadụ abụọ eburu ọrịa a na-enyo na ọ bụ Ebola.",
+   "published_date": "Mon, 02 Nov 2026 07:21:32 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ngagharịiwe maka ọnụ ahịa na-arị elu etiwapụla na mba Germany",
    "url": "https://www.bbc.com/igbo/articles/c6vg7dp8dq11o?at_medium=RSS&at_campaign=rss",
    "content": "Akụkọ maka ndị 'Gen Z regelt' na-eme ngagharịiwe na Germany",
    "published_date": "Sun, 01 Nov 2026 14:22:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Donald Trump enyela nne Javits Frimpong bụ nwafọ mba Ghana e gburu na Bronx akwụkwọ ikike njem Visa",
-   "url": "https://www.bbc.com/igbo/articles/c699z2gj12xxo?at_medium=RSS&at_campaign=rss",
-   "content": "Akụkọ maka Javits Frimpong dị afọ 15 bụ nwafọ mba Ghana e gburu na mpaghara Bronx dị n'America nakwa etu e si nye nne ya bụ Doris Adu Gyamfi akwụkwọ ikike njem Visa.",
-   "published_date": "Sun, 01 Nov 2026 09:43:04 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kenneth Okonkwo: Ahụhụ eruola na Nigeria nke na ụmụnne Tinubu agaghị atụnyere ya",
-   "url": "https://www.bbc.com/igbo/articles/c64g14vnn11no?at_medium=RSS&at_campaign=rss",
-   "content": "Kenneth Okonkwo sị na ahụhụ eruola na Nigeria nke na ụmụnne Tinubu agaghị atụnyere ya na 2027.",
-   "published_date": "Sat, 31 Oct 2026 08:41:01 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ihe i kwesịrị ịma maka egwuregwu Dakar 2026 Youth Olympics",
-   "url": "https://www.bbc.com/igbo/articles/crq5n9pq95v8o?at_medium=RSS&at_campaign=rss",
-   "content": "N'ụbọchị Satọde 31 Ọktoba a ga-eweli mgbanaka egwuregwu Olympic n'oge mbụ a na-achịkọba ya n'Africa dịka mba Senegal ga-achịkọba egwuregwu Youth Olympic Games.",
-   "published_date": "Sat, 31 Oct 2026 08:58:43 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "INEC sị ha achọpụtala ndị tinyere foto AI n'ime akwụkwọ ndekọ ndị ga-atụ vootu",
-   "url": "https://www.bbc.com/igbo/articles/c6ly0p1r4gqyo?at_medium=RSS&at_campaign=rss",
-   "content": "Akụkọ maka etu foto AI si banye na ndekọ aha ndị ga-atụ vootu na Nigeria na ntuliaka 2027.",
-   "published_date": "Fri, 30 Oct 2026 15:44:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Inec agbanweela ndekọ aha ndị ga-azọ ọkwa gọvanọ na ntuliaka 2027",
-   "url": "https://www.bbc.com/igbo/articles/cm70pvn78g58o?at_medium=RSS&at_campaign=rss",
-   "content": "Ụlọọrụ Inec kwuru na ha etinyela aha ụfọdụ ndị ha wepụrụ n’akwụkwọ ndekọ aha ikpeazụ nke ndị ga-azọ ọkwa gọvanọ na state dị iche iche bụ nke ha wepụtara na abalị 10 Ọktoba 2026",
-   "published_date": "Fri, 30 Oct 2026 10:15:20 GMT",
    "score": 0.6
   }
  ],

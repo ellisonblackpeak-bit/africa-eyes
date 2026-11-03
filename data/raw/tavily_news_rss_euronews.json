@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 3rd, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 3rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Tue, 03 Nov 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Asian Cup in Saudi Arabia postponed to December over regional security",
+   "url": "https://www.euronews.com/2026/11/03/asian-cup-in-saudi-arabia-postponed-to-december-over-regional-security",
+   "content": "The Asian Football Confederation cited “exceptional circumstances” and travel disruptions in moving the tournament from January 2027 to late December, after Houthi attacks on Saudi Arabia forced the Dakar Rally and the WTA Finals to be cancelled or relocated.",
+   "published_date": "Tue, 03 Nov 2026 11:43:41 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Iran warns of ‘new battlefield’ after reported US strike on Qeshm",
+   "url": "https://www.euronews.com/2026/11/03/iran-warns-of-new-battlefield-after-reported-us-strike-on-qeshm",
+   "content": "Parliament speaker Ghalibaf said “the ball is in America’s court to prevent war” as Iran reached its highest defensive readiness and Iranian outlets reported Tehran had updated its target bank to include US support bases in Europe under a “response without geographical limits”.",
+   "published_date": "Tue, 03 Nov 2026 11:19:19 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US midterm elections results 2026: Live updates in maps and charts",
+   "url": "https://www.euronews.com/2026/11/03/us-midterm-elections-results-2026-live-updates-in-maps-and-charts",
+   "content": "Follow the 2026 US midterm election results live as votes are counted, with real-time updates on the races that will determine control of Congress.",
+   "published_date": "Tue, 03 Nov 2026 10:51:21 +0100",
+   "score": 0.6
+  },
+  {
    "title": "King Charles and Queen Camilla caught in heavy rain during Antigua celebrations",
    "url": "https://www.euronews.com/2026/11/03/king-charles-and-queen-camilla-caught-in-heavy-rain-during-antigua-celebrations",
    "content": "King Charles III and Queen Camilla were caught in a downpour while attending Antigua and Barbuda’s Independence Day celebrations at Sir Vivian Richards Stadium.",
@@ -181,34 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/01/clashes-in-paris-as-frances-youth-protests-over-cost-of-living",
    "content": "France faces a third weekend of mass youth protests over living costs, education and public services, with clashes erupting in Paris.",
    "published_date": "Sun, 01 Nov 2026 18:41:44 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 1st, 2026 – Evening",
-   "url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-evening",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sun, 01 Nov 2026 18:00:26 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Swiss foreign minister makes first North Korea visit since 2003 as diplomatic office reopens",
-   "url": "https://www.euronews.com/2026/11/01/swiss-foreign-minister-makes-first-north-korea-visit-since-2003-as-diplomatic-office-reope",
-   "content": "Switzerland is renewing direct talks with North Korea as tensions rise on the peninsula. Seoul hopes the Swiss office will help it engage with Pyongyang.",
-   "published_date": "Sun, 01 Nov 2026 15:03:21 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Looted shops, burning barricades as riots erupt in Frankfurt",
-   "url": "https://www.euronews.com/video/2026/11/01/looted-shops-burning-barricades-as-riots-erupt-in-frankfurt",
-   "content": "Police remained on the streets of Frankfurt on Sunday after rioting and looting broke out following youth demonstrations, leaving shopfronts smashed, fires burning and several people injured.",
-   "published_date": "Sun, 01 Nov 2026 14:37:08 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Heidi Klum turns herself into a giant severed hand for Halloween",
-   "url": "https://www.euronews.com/video/2026/11/01/heidi-klum-turns-herself-into-a-giant-severed-hand-for-halloween",
-   "content": "Celebrities gathered in New York for Heidi Klum’s 25th annual Halloween party, with the host transforming herself into a gruesome severed hand and guests arriving in an array of elaborate costumes.",
-   "published_date": "Sun, 01 Nov 2026 14:11:00 +0100",
    "score": 0.6
   }
  ],

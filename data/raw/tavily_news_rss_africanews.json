@@ -2,10 +2,38 @@
  "success": true,
  "results": [
   {
-   "title": "US strikes Iran's Qeshm island on eve of midterm elections",
+   "title": "UNESCO warns that most crimes against journalists go unpunished",
+   "url": "http://www.africanews.com/2026/11/03/unesco-warns-that-most-crimes-against-journalists-go-unpunished/",
+   "content": "It said 189 journalists and other media workers lost their lives in 2024 to 2025, 20 per cent more than during the previous 2-year period.",
+   "published_date": "Tue, 03 Nov 2026 10:54:40 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "NGOs urge Malian authorities for transparency on abduction of Mountaga Tall",
+   "url": "http://www.africanews.com/2026/11/03/ngos-urge-malian-authorities-for-transparency-on-abduction-of-mountaga-tall/",
+   "content": "Amnesty International and Human Rights Watch have urged Malian authorities for transparency on the whereabouts of prominent lawyer and politician Mountaga Tall, six months after his abduction.",
+   "published_date": "Tue, 03 Nov 2026 10:15:39 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Two found guilty in theft from South African president's farmhouse",
+   "url": "http://www.africanews.com/2026/11/03/two-found-guilty-in-theft-from-south-african-presidents-farmhouse/",
+   "content": "The break-in at President Cyril Ramaphosa's Phala Phala game farm and theft of $580,000 in 2020 nearly cost his him job.",
+   "published_date": "Tue, 03 Nov 2026 10:47:34 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ethiopia suspends leading independent newspaper The Reporter",
+   "url": "http://www.africanews.com/2026/11/03/ethiopia-suspends-leading-independent-newspaper-the-reporter/",
+   "content": "Ethiopian authorities on Monday indefinitely suspended the licence of independent print and online newspaper The Reporter, accusing the outlet of carrying \"unbalanced and biased\" reports.",
+   "published_date": "Tue, 03 Nov 2026 08:42:30 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "US strikes Iran's Qeshm Island on eve of midterm elections",
    "url": "http://www.africanews.com/2026/11/03/us-strikes-irans-qeshm-island-on-eve-of-midterm-elections/",
    "content": "The United States on Monday launched strikes on Iran's Queshm Island, on the eve of crucial midterm elections, the Wall Street Journal reported.",
-   "published_date": "Tue, 03 Nov 2026 07:06:39 +0000",
+   "published_date": "Tue, 03 Nov 2026 09:16:55 +0000",
    "score": 0.6
   },
   {
@@ -16,17 +44,17 @@
    "score": 0.6
   },
   {
-   "title": "At least 4 dead and 16 injured following explosion at Cameroon steel plant",
-   "url": "http://www.africanews.com/2026/11/02/at-least-4-dead-and-16-injured-following-explosion-at-cameroon-steel-plant/",
+   "title": "Cameroon steel plant explosion kills at least four, injures 16",
+   "url": "http://www.africanews.com/2026/11/02/cameroon-steel-plant-explosion-kills-at-least-four-injures-16/",
    "content": "An explosion followed by a fire at a metallurgical plant in Cameroon has left at least 4 people dead and 16 others seriously injured. The incident took place in Douala on Monday morning on the premises of Metafrique Steel in the Bassa industrial zone.",
-   "published_date": "Mon, 02 Nov 2026 21:30:37 +0000",
+   "published_date": "Tue, 03 Nov 2026 09:18:21 +0000",
    "score": 0.6
   },
   {
-   "title": "South Africa and Rwanda to be excluded from US-Africa trade deal",
+   "title": "South Africa and Rwanda face exclusion from US-Africa trade deal",
    "url": "http://www.africanews.com/2026/11/02/south-africa-and-rwanda-to-be-excluded-from-us-africa-trade-deal/",
    "content": "South Africa and Rwanda will be excluded from a major US-Africa duty free trade deal, Washington said on Monday. It blamed “practices inconsistent with the deal’s eligibility criteria,\" including barriers that undermine US trade and practices that pose a threat to US national security.",
-   "published_date": "Mon, 02 Nov 2026 20:17:03 +0000",
+   "published_date": "Tue, 03 Nov 2026 09:46:17 +0000",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "http://www.africanews.com/2026/11/01/migrants-find-shelter-in-cyprus-as-eu-slows-admissions/",
    "content": "Most migrants arrived from Somalia, Sudan, Yemen, Cameroon, Congo, Syria and Burundi, according to center officials",
    "published_date": "Sun, 01 Nov 2026 11:13:21 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Youth Olympics open in Senegal marking the first Olympic event in Africa",
-   "url": "http://www.africanews.com/2026/11/01/youth-olympics-open-in-senegal-marking-the-first-olympic-event-in-africa/",
-   "content": "The Youth Olympic Games opened in Senegal on Saturday, marking the first Olympic event in Africa as the continent seeks a bigger role in international sports competitions",
-   "published_date": "Sun, 01 Nov 2026 09:55:34 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Cape Verde president rallies supporters as election campaign begins",
-   "url": "http://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-election-campaign-begins/",
-   "content": "Hundreds of Supporters of Cape Verde President Jose Maria Neves cheered him on at a rally in Sao Vicente, as campaigning in the country's presidential election kicked off on Saturday",
-   "published_date": "Mon, 02 Nov 2026 14:16:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ebola deaths top 5,000 as fear of continent-wide spread mounts",
-   "url": "http://www.africanews.com/2026/10/31/ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts/",
-   "content": "Deaths in Congo’s Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government data on Saturday shows",
-   "published_date": "Sat, 31 Oct 2026 16:36:47 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "2,000 Salvadoran troops deploy to Haiti to help fight gangs",
-   "url": "http://www.africanews.com/2026/10/31/2000-salvadoran-troops-deploy-to-haiti-to-help-fight-gangs/",
-   "content": "The deployment followed a gang attack on four Salvadoran members of the Gang Suppression Force who went missing",
-   "published_date": "Mon, 02 Nov 2026 11:57:18 +0000",
    "score": 0.6
   }
  ],
