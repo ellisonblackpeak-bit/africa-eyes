@@ -2,6 +2,48 @@
  "success": true,
  "results": [
   {
+   "title": "Germany’s Merz warns Europe must have seat at the table on Ukraine peace talks",
+   "url": "https://www.politico.eu/article/germany-friedrich-merz-europe-ukraine-peace-deal-donald-trump/",
+   "content": "The German chancellor also called the U.S. move to invite Putin to the G20 “completely unacceptable,” saying Ukraine’s fate must not be discussed without Ukraine.",
+   "published_date": "Tue, 03 Nov 2026 14:48:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The 5 most brutal political moggings of 2026",
+   "url": "https://www.politico.eu/article/the-5-most-brutal-political-moggings-of-2026/",
+   "content": "From Vladimir Putin to Donald Trump, some of the world’s most powerful leaders have been outshone this year.",
+   "published_date": "Tue, 03 Nov 2026 14:34:49 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Moscow in talks to arrange Trump, Xi and Putin meeting, Kremlin says",
+   "url": "https://www.politico.eu/article/moscow-is-helping-arrange-us-russia-china-meeting-spokesperson-peskov-says/",
+   "content": "The trilateral meeting would take place during the APEC summit in two weeks.",
+   "published_date": "Tue, 03 Nov 2026 14:01:03 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Point taken",
+   "url": "https://www.politico.eu/sponsored-content/point-taken/",
+   "content": "",
+   "published_date": "Tue, 03 Nov 2026 13:40:59 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Poll: Brits want the Democrats to win the midterms",
+   "url": "https://www.politico.eu/article/brits-want-the-democrats-to-win-the-us-midterms/",
+   "content": "Polling for POLITICO by PF Global finds the U.K. public believes a Republican victory would be riskier for the world.",
+   "published_date": "Tue, 03 Nov 2026 13:22:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU to host Ukraine reconstruction talks with US and UK",
+   "url": "https://www.politico.eu/article/eu-to-host-ukraine-reconstruction-talks-with-us-and-uk/",
+   "content": "France, Germany, the U.K., NATO and the World Bank will join representatives from Washington, Kyiv and the EU in Brussels.",
+   "published_date": "Tue, 03 Nov 2026 12:07:22 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Eurozone countries to nominate Lagarde replacement by Nov. 6",
    "url": "https://www.politico.eu/article/eurozone-countries-to-nominate-lagarde-replacement-by-nov-6/",
    "content": "Eurozone finance ministers will discuss the candidates at their gathering next Monday.",
@@ -27,48 +69,6 @@
    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/barbel-bas-legt-nach/",
    "content": "Nach ihrem Rücktritt als Arbeitsministerin und SPD-Co-Chefin bricht Bärbel Bas ihr Schweigen und rechnet mit der unerbittlichen Härte des Berliner Politikbetriebs ab. Ihre offenen Worte über fehlende Menschlichkeit, den Druck aus der Koalition und Enttäuschung über Friedrich Merz bergen neue Sprengkraft für die Koalition. Maximilian Stascheit beleuchtet, warum dieser Auftritt eine Debatte über den Umgang […]",
    "published_date": "Tue, 03 Nov 2026 04:30:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Why financial empowerment is the UK’s next great economic opportunity",
-   "url": "https://www.politico.eu/sponsored-content/why-financial-empowerment-is-the-uks-next-great-economic-opportunity/",
-   "content": "Digital technologies have changed how people think about and interact with their finances. It is up to banks to ensure people feel confident in doing so.",
-   "published_date": "Tue, 03 Nov 2026 04:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Crisis over top court shapes Poland’s battle lines before 2027 election",
-   "url": "https://www.politico.eu/article/crisis-over-top-court-shapes-polands-battle-lines-before-2027-election/",
-   "content": "PM Tusk's government frames the battle over the Constitutional Tribunal as an effort to restore the rule of law, his enemies call it a coup.",
-   "published_date": "Tue, 03 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Why Europe shouldn’t celebrate a Democratic midterm victory",
-   "url": "https://www.politico.eu/article/why-europe-shouldnt-celebrate-democratic-us-midterm-victory/",
-   "content": "Congress has few ways to constrain presidents on foreign policy, leaving Trump room to press his agenda abroad.",
-   "published_date": "Tue, 03 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Les lobbies du tabac mettent le paquet à Bruxelles, alors que l’UE se penche sur le secteur",
-   "url": "https://www.politico.eu/article/le-lobby-du-tabac-met-le-paquet-a-bruxelles-alors-que-lue-se-penche-sur-le-secteur/",
-   "content": "Le nombre de réunions entre des représentants de cette industrie et des eurodéputés a déjà quadruplé par rapport à la législature précédente.",
-   "published_date": "Mon, 02 Nov 2026 20:57:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Streeting: Burnham is better than Blair at talking to the public",
-   "url": "https://www.politico.eu/article/wes-streeting-andy-burnham-better-tony-blair-talk-public-brexit/",
-   "content": "Britain's defense secretary — who had hoped to be PM himself — credits his boss with the political skill to navigate difficult public conversations about Europe.",
-   "published_date": "Mon, 02 Nov 2026 19:34:16 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU Commission to probe supermarket cyberattacks",
-   "url": "https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/",
-   "content": "Europe’s food security is not at risk, but a wave of cyberattacks is raising concerns about supply chain resilience, Agriculture Commissioner Christophe Hansen warned.",
-   "published_date": "Mon, 02 Nov 2026 19:20:11 +0000",
    "score": 0.6
   }
  ],

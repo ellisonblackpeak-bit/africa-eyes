@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Melania Trump to Host Russian and Ukrainian Delegations at White House",
+   "url": "https://www.themoscowtimes.com/2026/11/03/melania-trump-to-host-russian-and-ukrainian-delegations-at-white-house-a94165",
+   "content": "The U.S. first lady is expected to deliver remarks on the recent ceasefire in the Ukrainian town of Oleshky on Thursday.",
+   "published_date": "Tue, 03 Nov 2026 17:25:00 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "‘Soft Power in a Cardboard Box’: Pro-Kremlin Activist Calls for Pizza Ban",
+   "url": "https://www.themoscowtimes.com/2026/11/03/soft-power-in-a-cardboard-box-pro-kremlin-activist-calls-for-pizza-ban-a94164",
+   "content": "Vitaly Borodin urged Russian schools and universities to remove pizza from their cafeteria menus due to Italy’s support for Ukraine.",
+   "published_date": "Tue, 03 Nov 2026 17:04:26 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Russia, China and U.S. Summit Under Discussion, Kremlin Says",
+   "url": "https://www.themoscowtimes.com/2026/11/03/russia-china-and-us-summit-under-discussion-kremlin-says-a94163",
+   "content": "Moscow is hoping that plans for a meeting between Putin, Trump and Xi in China will be finalized in the coming days.",
+   "published_date": "Tue, 03 Nov 2026 14:50:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "At Least 31 Killed in Russian Bomb Attack in Zaporizhzhia",
    "url": "https://www.themoscowtimes.com/2026/11/03/at-least-31-killed-in-russian-bomb-attack-in-zaporizhzhia-a94161",
    "content": "Ukrainian officials said Russia bombed a school being used as an aid distribution point in a village in the village of Komyshuvakha.",
@@ -46,7 +67,7 @@
   {
    "title": "Oleshky Ceasefire and Aid Operation End Without Any Violations, Lantratova Says",
    "url": "https://www.themoscowtimes.com/2026/11/02/oleshky-ceasefire-and-aid-operation-end-without-any-violations-lantratova-says-a94152",
-   "content": "Moscow called the humanitarian operation in Oleshky a success, praising the “level of coordination achieved among participants from all sides.”",
+   "content": "The Kremlin called the humanitarian operation a success, praising the “level of coordination achieved among participants from all sides.”",
    "published_date": "Mon, 02 Nov 2026 15:31:00 +0300",
    "score": 0.6
   },
@@ -188,27 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/10/29/kremlin-human-rights-chief-takes-us-journalists-into-besieged-ukrainian-town-ahead-of-evacuations-a94119",
    "content": "Human Rights Commissioner Yana Lantratova said the four journalists were from the U.S. conservative outlet Newsmax.",
    "published_date": "Thu, 29 Oct 2026 13:15:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russia’s Krasnodar Region Declares High Alert as Landfills Reach Capacity",
-   "url": "https://www.themoscowtimes.com/2026/10/28/russias-krasnodar-region-declares-high-alert-as-landfills-reach-capacity-a94116",
-   "content": "The governor’s decree warned of a potential regional emergency, with disruptions to garbage collection threatening to leave waste piling up in towns and villages.",
-   "published_date": "Wed, 28 Oct 2026 20:27:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "French Protests Show Need for State Control Over Social Media, Putin Says",
-   "url": "https://www.themoscowtimes.com/2026/10/28/french-protests-show-need-for-state-control-over-social-media-putin-says-a94114",
-   "content": "Russia-linked disinformation networks have themselves been accused of exploiting the French protests.",
-   "published_date": "Wed, 28 Oct 2026 20:06:10 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russia Issues Permits for First Grain Vessels to Leave Sea of Azov Since July",
-   "url": "https://www.themoscowtimes.com/2026/10/28/russia-issues-permits-for-first-grain-vessels-to-leave-sea-of-azov-since-july-a94112",
-   "content": "Maritime traffic in the area had been closed since July due to Ukrainian drone attacks.",
-   "published_date": "Wed, 28 Oct 2026 19:26:54 +0300",
    "score": 0.6
   }
  ],
