@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Spanish transport minister offers resignation after deadly train crash",
+   "url": "https://www.rapporteur.com/news/spanish-transport-minister-offers-resignation-after-deadly-train-crash/",
+   "content": "Puente had ruled out resigning on several occasions since the accident",
+   "published_date": "Tue, 03 Nov 2026 20:54:10 +0000",
+   "score": 0.6
+  },
+  {
    "title": "EXCLUSIVE: Berlin, Madrid, Paris warn Commission to leave EU nature laws alone",
    "url": "https://www.rapporteur.com/news/exclusive-berlin-madrid-paris-warn-commission-to-leave-eu-nature-laws-alone/",
    "content": "Leaked draft suggests 'legislative or non-legislative' review due next autumn",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/budget-brief-handle-with-care/",
    "content": "Tobacco tax decrease, busy week for European Parliament, farmers and more",
    "published_date": "Tue, 03 Nov 2026 10:58:41 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "AI faces limits in reusing news articles, says top EU court advisor",
-   "url": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
-   "content": "But influential opinion also states that chatbots may be trained on copyrighted data",
-   "published_date": "Tue, 03 Nov 2026 10:44:07 +0000",
    "score": 0.6
   }
  ],

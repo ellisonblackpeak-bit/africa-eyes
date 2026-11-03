@@ -2,17 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Algeria sends troops to Niger: a warning for Morocco and Israel",
-   "url": "https://www.ynetnews.com/opinions-analysis/article/bkik0uq6me",
-   "snippet": "Arlit also has a uranium dimension. Niger nationalized the SOMAÏR mine, formerly operated by France’s Orano, in 2025. Potential buyers for its stockpile reportedly included Russian interests. On September 23, 2025, an ICSID tribunal ordered Niger not to sell or transfer uranium held in violation of Orano’s rights. Orano later condemned a shipment from the site as contrary to that order. No evidenc",
-   "published": "Sat, 31 Oct 2026 14:44:55 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "First Algerian Troops Arrive in Niger Amid Jihadist Threat to Regional Stability",
    "url": "https://www.pukmedia.com/EN/Details/83269",
    "snippet": "One of the region’s major infrastructure projects, the Trans-Saharan Gas Pipeline, involving Algeria, Niger and Nigeria, aims to transport African gas to Europe and other international markets.  \n   \n According to 10 sources who spoke to Reuters, the first Algerian military convoy has reached Arlit, a uranium-mining town in north-western Niger. [...] Algeria has said the deployment was intended to",
-   "published": "Fri, 30 Oct 2026 20:00:00 GMT",
+   "published": "Fri, 30 Oct 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Sends Troops to Niger: A Warning for Morocco and Israel - Middle East Forum",
+   "url": "https://www.meforum.org/mef-online/algeria-sends-troops-to-niger-a-warning-for-morocco-and-israel",
+   "snippet": "Arlit also has a uranium dimension. Niger nationalized the SOMAÏR mine, formerly operated by France’s Orano, in 2025. Potential buyers for its stockpile reportedly included Russian interests. On September 23, 2025, an ICSID tribunal ordered Niger not to sell or transfer uranium held in violation of Orano’s rights. Orano later condemned a shipment from the site as contrary to that order. No evidenc",
+   "published": "Tue, 03 Nov 2026 21:32:50 GMT",
    "source": "tavily"
   },
   {
@@ -54,7 +54,7 @@
    "title": "First Algerian troops arrive in Niger where jihadists threaten stability",
    "url": "https://www.reuters.com/world/africa/first-algerian-troops-arrive-niger-where-jihadists-threaten-stability-2026-10-30",
    "snippet": "An Algerian army convoy has arrived in Niger in Algeria's first foreign troop deployment since it sent ​forces to support Egypt during the 1973 Arab-Israeli",
-   "published": "Fri, 30 Oct 2026 20:00:00 GMT",
+   "published": "Fri, 30 Oct 2026 23:00:00 GMT",
    "source": "tavily"
   }
  ],
