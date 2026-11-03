@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "US strikes Iran's Qeshm Island ahead of midterm elections",
+   "url": "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections",
+   "content": "The strikes on Iran come on the eve of US midterm elections, and just hours after Trump signalled progress in negotiations with Tehran.",
+   "published_date": "Tue, 03 Nov 2026 05:27:32 +0100",
+   "score": 0.6
+  },
+  {
    "title": "British adventurer returns home after 28-year journey around the world",
    "url": "https://www.euronews.com/video/2026/11/02/british-adventurer-returns-home-after-28-year-journey-around-the-world",
    "content": "British adventurer Karl Bushby returns to his mother’s home in Hull after completing a 28-year, 50,000-kilometre journey from Chile.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen",
    "content": "Yemeni Prime Minister Shaya al-Zindani said more than 70 UN staff members and dozens of humanitarian workers remain in Houthi custody.",
    "published_date": "Sun, 01 Nov 2026 11:23:05 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court",
-   "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
-   "content": "The statement comes after a confrontation outside the Constitutional Tribunal building on Friday night, broadcast live on television, that has pushed a decade-old dispute into the wider European political debate.",
-   "published_date": "Sun, 01 Nov 2026 07:04:26 +0100",
    "score": 0.6
   }
  ],

@@ -1,0 +1,116 @@
+{
+ "query": "China Philippines Chinese company South China Sea",
+ "_tag": "soc_cn_ph",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/jaytaryela/status/2117383549531959329",
+     "title": "Mr. Senator, tama po kayo, dalawang administrasyon ang nagtulak ng joint exploration. Pero hindi po ang ating Constitution ang may sala, kun",
+     "description": "Mr. Senator, tama po kayo, dalawang administrasyon ang nagtulak ng joint exploration. Pero hindi po ang ating Constitution ang may sala, kundi ang China. As a matter of fact, ang Constitution pa nga ang pumigil para hindi unfairly ma-exploit ang ating likas na yaman!\n\nItama lang po natin ang sharing arrangements na binanggit ninyo:\n\n1. JMSU, 2005 (President Gloria Macapagal Arroyo)\n\nHindi po ang Pangulo ang pumirma kundi ang PNOC, kasama ang CNOOC ng China at PetroVietnam. Pantay ang karapatan ng tatlong partido, kaya one-third lang ang boses ng Pilipinas sa 142,886 sq km na Agreement Area, na karamihan ay nasa loob ng ating EEZ at continental shelf. Pati ang seismic data ay jointly owned, at kailangan pa ng written consent ng CNOOC at PetroVietnam bago ito ma-disclose ng ating gobyerno. \n\nKaya sa botong 12-2-1, idineklara ng Supreme Court na unconstitutional at void ang JMSU (Bayan Muna v. Macapagal-Arroyo, G.R. No. 182734, 10 Enero 2023). Ibinasura nang may finality ang Motion for Reconsideration noong 27 Hunyo 2023. Sabi pa ng Korte, dahil nasa loob ng ating EEZ at continental shelf ang lugar, ang anumang likas na yaman doon ay pag-aari ng Republika.\n\n2. MOU on Oil and Gas Development, 2018 (President Duterte)\n\nWalang 60-40 na nakasulat sa MOU. Framework lang ito para magbukas ng negosasyon. Ang \"60-40\" ay hango sa Constitution at sa Oil Exploration and Development Act ng Pilipinas, na siyang nagtatakda ng Service Contract system.\nBakit natigil ang usapan noong Hunyo 2022? Dahil ayaw ng China na pumasok sa ilalim ng ating Service Contract system, na kumikilalang atin ang langis at gas sa ating EEZ at continental shelf. Si dating Pangulong Duterte mismo ang nagsabing hindi ito puwedeng kapalit ng soberanya, kahit katiting.\n\nKaya hindi po Constitution ang humaharang. Pwede po tayong mag-enter into joint development sa foreign corporations, private man o state-owned, pero subject sa requirements ng Constitution at ng ating Service Contract system. Ang tunay na humaharang ay ang pagtanggi ng China na kilalanin na atin ang langis, gas at mineral sa ating EEZ at continental shelf.\n\nHindi rin Constitution ang humarang sa survey ng M/V Veritas Voyager sa Recto Bank noong Marso 2011. Mga barko ng China Marine Surveillance iyon, at ayon sa 2016 Arbitral Award, nilabag ng China ang ating sovereign rights sa non-living resources ng ating continental shelf sa Recto Bank (UNCLOS Art. 77; Award ¶716, ¶1203.B(8)).\n\nKung may dapat sisihin kung bakit hindi natin mapakinabangan ang sarili nating langis at gas, hindi ang ating Constitution kundi ang China. \n\nAgree din po ako sa sinabi ninyo maging bulldog tayo para sa mamamayang Pilipino at hindi maging tuta para sa iisang pamilya!",
+     "snippet": "Mr. Senator, tama po kayo, dalawang administrasyon ang nagtulak ng joint exploration. Pero hindi po ang ating Constitution ang may sala, kundi ang China. As a matter of fact, ang Constitution pa nga ang pumigil para hindi unfairly ma-exploit ang ating likas na yaman!\n\nItama lang po natin ang sharing arrangements na binanggit ninyo:\n\n1. JMSU, 2005 (President Gloria Macapagal Arroyo)\n\nHindi po ang Pangulo ang pumirma kundi ang PNOC, kasama ang CNOOC ng China at PetroVietnam. Pantay ang karapatan ng tatlong partido, kaya one-third lang ang boses ng Pilipinas sa 142,886 sq km na Agreement Area, na karamihan ay nasa loob ng ating EEZ at continental shelf. Pati ang seismic data ay jointly owned, at kailangan pa ng written consent ng CNOOC at PetroVietnam bago ito ma-disclose ng ating gobyerno. \n\nKaya sa botong 12-2-1, idineklara ng Supreme Court na unconstitutional at void ang JMSU (Bayan Muna v. Macapagal-Arroyo, G.R. No. 182734, 10 Enero 2023). Ibinasura nang may finality ang Motion for Reconsideration noong 27 Hunyo 2023. Sabi pa ng Korte, dahil nasa loob ng ating EEZ at continental shelf ang lugar, ang anumang likas na yaman doon ay pag-aari ng Republika.\n\n2. MOU on Oil and Gas Development, 2018 (President Duterte)\n\nWalang 60-40 na nakasulat sa MOU. Framework lang ito para magbukas ng negosasyon. Ang \"60-40\" ay hango sa Constitution at sa Oil Exploration and Development Act ng Pilipinas, na siyang nagtatakda ng Service Contract system.\nBakit natigil ang usapan noong Hunyo 2022? Dahil ayaw ng China na pumasok sa ilalim ng ating Service Contract system, na kumikilalang atin ang langis at gas sa ating EEZ at continental shelf. Si dating Pangulong Duterte mismo ang nagsabing hindi ito puwedeng kapalit ng soberanya, kahit katiting.\n\nKaya hindi po Constitution ang humaharang. Pwede po tayong mag-enter into joint development sa foreign corporations, private man o state-owned, pero subject sa requirements ng Constitution at ng ating Service Contract system. Ang tunay na humaharang ay ang pagtanggi ng China na kilalanin na atin ang langis, gas at mineral sa ating EEZ at continental shelf.\n\nHindi rin Constitution ang humarang sa survey ng M/V Veritas Voyager sa Recto Bank noong Marso 2011. Mga barko ng China Marine Surveillance iyon, at ayon sa 2016 Arbitral Award, nilabag ng China ang ating sovereign rights sa non-living resources ng ating continental shelf sa Recto Bank (UNCLOS Art. 77; Award ¶716, ¶1203.B(8)).\n\nKung may dapat sisihin kung bakit hindi natin mapakinabangan ang sarili nating langis at gas, hindi ang ating Constitution kundi ang China. \n\nAgree din po ako sa sinabi ninyo maging bulldog tayo para sa mamamayang Pilipino at hindi maging tuta para sa iisang pamilya!",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jay Tarriela",
+     "handle": "@jaytaryela"
+    },
+    {
+     "url": "https://x.com/Byron_Wan/status/2116954840433881569",
+     "title": "🚨 Chinese vessels suspected of surveying undersea cables have been spotted near Japan, Taiwan and the Philippines, all situated along the Fi",
+     "description": "🚨 Chinese vessels suspected of surveying undersea cables have been spotted near Japan, Taiwan and the Philippines, all situated along the First Island Chain.\n\nStarting in late Sep, the Chinese research vessel Jia Hai Ke 7 engaged in survey activities for several days without Manila’s permission inside the exclusive economic zone around the Batanes Islands, the Philippine’s northernmost territory, which also faces Taiwan. Manila expressed deep concern, noting that vital undersea cables run through the area.\n\nAlthough the vessel is reportedly owned by a private Chinese firm, two China Coast Guard ships moved in to escort it when Philippine patrol vessels and aircraft approached. The survey was clearly not an independent operation.\n\nSurveillance data suggests similar activity near Japan. Analysis of tracking data from AIS found Chinese research vessels suspected of mapping undersea cables off Japan.\n\nSince 2024, research vessels affiliated with a Chinese university have repeatedly slowed, stopped and executed sharp turns in international waters east of Hokkaido and within Japan’s EEZ off Nagoya. These abnormal maneuvers directly overlapped with identified undersea cables.",
+     "snippet": "🚨 Chinese vessels suspected of surveying undersea cables have been spotted near Japan, Taiwan and the Philippines, all situated along the First Island Chain.\n\nStarting in late Sep, the Chinese research vessel Jia Hai Ke 7 engaged in survey activities for several days without Manila’s permission inside the exclusive economic zone around the Batanes Islands, the Philippine’s northernmost territory, which also faces Taiwan. Manila expressed deep concern, noting that vital undersea cables run through the area.\n\nAlthough the vessel is reportedly owned by a private Chinese firm, two China Coast Guard ships moved in to escort it when Philippine patrol vessels and aircraft approached. The survey was clearly not an independent operation.\n\nSurveillance data suggests similar activity near Japan. Analysis of tracking data from AIS found Chinese research vessels suspected of mapping undersea cables off Japan.\n\nSince 2024, research vessels affiliated with a Chinese university have repeatedly slowed, stopped and executed sharp turns in international waters east of Hokkaido and within Japan’s EEZ off Nagoya. These abnormal maneuvers directly overlapped with identified undersea cables.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Byron Wan",
+     "handle": "@Byron_Wan"
+    },
+    {
+     "url": "https://x.com/sun_jun69301/status/2117462402409300234",
+     "title": "Tarriela, you seem obsessed with blaming China for every problem the Philippines faces, using legal jargon to disguise your government’s fai",
+     "description": "Tarriela, you seem obsessed with blaming China for every problem the Philippines faces, using legal jargon to disguise your government’s failures and justify its anti-China agenda.\n\nLet’s be clear: China is not responsible for the Philippine government’s repeated policy failures.\n\nThe 2005 JMSU was declared unconstitutional by the Philippine Supreme Court because of problems within the Philippines’ own constitutional and decision-making framework. China did not write your Constitution.\n\nThe 2018 oil and gas cooperation MOU preserved both sides’ legal positions and created no binding obligation for joint development. After years of negotiations, the Philippine side terminated the talks. You cannot rewrite that history simply to make China the villain.\n\nAnd stop waving the 2016 arbitration ruling as though it gave the Philippines sovereignty over the South China Sea. It did not settle territorial sovereignty or maritime boundaries. You cannot turn a limited arbitration ruling into a political weapon to justify your country’s ambitions.\n\nWhat is even more revealing is that the Philippines continues to pursue confrontation with China while failing to secure broad support among ASEAN members for its hardline anti-China agenda.\n\nASEAN does not belong to Manila, and the South China Sea is not your personal political stage.\n\nChina has every right to defend its sovereignty, territorial integrity, maritime rights and national interests. No amount of political grandstanding by Philippine officials will change that.\n\nThe Filipino people deserve affordable energy, investment, jobs and economic development. They do not need politicians manufacturing hostility toward their largest neighbors to cover up domestic failures.\n\nTarriela, stop exploiting the South China Sea issue for political attention and personal advancement.\n\nChina is not the enemy of the Filipino people. The real disservice to the Philippines is a political establishment that would rather manufacture an enemy than pursue genuine development and regional cooperation.\n\nChina will not surrender its legitimate rights and interests simply to satisfy the political ambitions of anti-China politicians.",
+     "snippet": "Tarriela, you seem obsessed with blaming China for every problem the Philippines faces, using legal jargon to disguise your government’s failures and justify its anti-China agenda.\n\nLet’s be clear: China is not responsible for the Philippine government’s repeated policy failures.\n\nThe 2005 JMSU was declared unconstitutional by the Philippine Supreme Court because of problems within the Philippines’ own constitutional and decision-making framework. China did not write your Constitution.\n\nThe 2018 oil and gas cooperation MOU preserved both sides’ legal positions and created no binding obligation for joint development. After years of negotiations, the Philippine side terminated the talks. You cannot rewrite that history simply to make China the villain.\n\nAnd stop waving the 2016 arbitration ruling as though it gave the Philippines sovereignty over the South China Sea. It did not settle territorial sovereignty or maritime boundaries. You cannot turn a limited arbitration ruling into a political weapon to justify your country’s ambitions.\n\nWhat is even more revealing is that the Philippines continues to pursue confrontation with China while failing to secure broad support among ASEAN members for its hardline anti-China agenda.\n\nASEAN does not belong to Manila, and the South China Sea is not your personal political stage.\n\nChina has every right to defend its sovereignty, territorial integrity, maritime rights and national interests. No amount of political grandstanding by Philippine officials will change that.\n\nThe Filipino people deserve affordable energy, investment, jobs and economic development. They do not need politicians manufacturing hostility toward their largest neighbors to cover up domestic failures.\n\nTarriela, stop exploiting the South China Sea issue for political attention and personal advancement.\n\nChina is not the enemy of the Filipino people. The real disservice to the Philippines is a political establishment that would rather manufacture an enemy than pursue genuine development and regional cooperation.\n\nChina will not surrender its legitimate rights and interests simply to satisfy the political ambitions of anti-China politicians.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Shenzhen 老孙",
+     "handle": "@sun_jun69301"
+    },
+    {
+     "url": "https://x.com/ShadowsOverPH/status/2117436655892382148",
+     "title": "Well said, Admiral. Two details that strengthen your point. When he announced the end of the talks in June 2022, then-Foreign Secretary Locs",
+     "description": "Well said, Admiral. Two details that strengthen your point. When he announced the end of the talks in June 2022, then-Foreign Secretary Locsin said the Philippines wanted those resources \"but not at the price of sovereignty; not even a particle of it.\" And former Justice Carpio said China tried to delete the Service Contract provisions stating that the oil and gas belong to the Philippines and that Philippine law governs, then walked away. The stakes are real: estimates for the Sampaguita gas field at Recto Bank range from 2.6 to as much as 4.6 trillion cubic feet, putting it in the same league as Malampaya. The Constitution isn't what's keeping that gas in the ground - it is 🇨🇳 - Stay strong 🇵🇭",
+     "snippet": "Well said, Admiral. Two details that strengthen your point. When he announced the end of the talks in June 2022, then-Foreign Secretary Locsin said the Philippines wanted those resources \"but not at the price of sovereignty; not even a particle of it.\" And former Justice Carpio said China tried to delete the Service Contract provisions stating that the oil and gas belong to the Philippines and that Philippine law governs, then walked away. The stakes are real: estimates for the Sampaguita gas field at Recto Bank range from 2.6 to as much as 4.6 trillion cubic feet, putting it in the same league as Malampaya. The Constitution isn't what's keeping that gas in the ground - it is 🇨🇳 - Stay strong 🇵🇭",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Shadows Over The Archipelago",
+     "handle": "@ShadowsOverPH"
+    },
+    {
+     "url": "https://x.com/GloriaRosa202/status/2117173627011649994",
+     "title": "Although the vessel is reportedly owned by a private Chinese firm, two China Coast Guard ships moved in to escort it when Philippine patrol",
+     "description": "Although the vessel is reportedly owned by a private Chinese firm, two China Coast Guard ships moved in to escort it when Philippine patrol vessels and aircraft approached. The survey was clearly not an independent operation",
+     "snippet": "Although the vessel is reportedly owned by a private Chinese firm, two China Coast Guard ships moved in to escort it when Philippine patrol vessels and aircraft approached. The survey was clearly not an independent operation",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gloria Rosario",
+     "handle": "@GloriaRosa202"
+    },
+    {
+     "url": "https://x.com/GloriaRosa202/status/2117173624738312346",
+     "title": "Starting in late Sep, the Chinese research vessel Jia Hai Ke 7 engaged in survey activities for several days without Manila’s permission ins",
+     "description": "Starting in late Sep, the Chinese research vessel Jia Hai Ke 7 engaged in survey activities for several days without Manila’s permission inside the exclusive economic zone around the Batanes Islands.",
+     "snippet": "Starting in late Sep, the Chinese research vessel Jia Hai Ke 7 engaged in survey activities for several days without Manila’s permission inside the exclusive economic zone around the Batanes Islands.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Gloria Rosario",
+     "handle": "@GloriaRosa202"
+    },
+    {
+     "url": "https://x.com/SouthChinase/status/2116886132252393733",
+     "title": "Ungrateful🇵🇭 1. During the Russia-Ukraine war, China generously provided energy and fertilizer aid to the Philippines, yet this fool and his",
+     "description": "Ungrateful🇵🇭\n1. During the Russia-Ukraine war, China generously provided energy and fertilizer aid to the Philippines, yet this fool and his master Teodoro slandered it as politically motivated and hypocritical. \n2. As for the oil and gas resources in the South China Sea—even if China didn't obstruct them—does the Philippines actually have the capability to exploit them? It's laughable. The Philippines would simply sell them cheaply to its master, the United States, just like Alaska was sold so cheaply in the past. \n3. A country as corrupt as the Philippines, if it ever gained control of the South China Sea, would turn it into a tool for domestic corruption networks. A nation that even embezzles funds meant for drainage and flood prevention systems would only make the ocean a new playground for dirty deals—just like the black hole currently devouring the Philippines' defense budget.",
+     "snippet": "Ungrateful🇵🇭\n1. During the Russia-Ukraine war, China generously provided energy and fertilizer aid to the Philippines, yet this fool and his master Teodoro slandered it as politically motivated and hypocritical. \n2. As for the oil and gas resources in the South China Sea—even if China didn't obstruct them—does the Philippines actually have the capability to exploit them? It's laughable. The Philippines would simply sell them cheaply to its master, the United States, just like Alaska was sold so cheaply in the past. \n3. A country as corrupt as the Philippines, if it ever gained control of the South China Sea, would turn it into a tool for domestic corruption networks. A nation that even embezzles funds meant for drainage and flood prevention systems would only make the ocean a new playground for dirty deals—just like the black hole currently devouring the Philippines' defense budget.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SouthChinase",
+     "handle": "@SouthChinase"
+    },
+    {
+     "url": "https://x.com/globaltimesnews/status/2117470881845063895",
+     "title": "More than 20 Philippine business & civil society groups are calling for de escalation as #China #Philippines ties worsen — a sign of deep do",
+     "description": "More than 20 Philippine business & civil society groups are calling for de escalation as #China #Philippines ties worsen — a sign of deep domestic anxiety at home. But these appeals may fall on deaf ears. Some Philippine politicians, military and coast guard figures are weaponizing South China Sea disputes for political gain, holding bilateral relations hostage, said a Chinese expert. #ChinaPhilippines #SouthChinaSea",
+     "snippet": "More than 20 Philippine business & civil society groups are calling for de escalation as #China #Philippines ties worsen — a sign of deep domestic anxiety at home. But these appeals may fall on deaf ears. Some Philippine politicians, military and coast guard figures are weaponizing South China Sea disputes for political gain, holding bilateral relations hostage, said a Chinese expert. #ChinaPhilippines #SouthChinaSea",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Global Times",
+     "handle": "@globaltimesnews"
+    },
+    {
+     "url": "https://x.com/TheManilaTimes/status/2117024316399272264",
+     "title": "THE Chinese Embassy in Manila described as “utterly wrong” the claim that China avoids conflict in the South China Sea because of the 1951 M",
+     "description": "THE Chinese Embassy in Manila described as “utterly wrong” the claim that China avoids conflict in the South China Sea because of the 1951 Mutual Defense Treaty between the United States and the Philippines.\n\nRead more: https://www.manilatimes.net/2026/11/02/news/china-denies-ex-ambassadors-claim-in-column/2459001?utm_campaign=mrf-twitter-TheManilaTimes&utm_source=twitter&utm_medium=social&mrfcid=202611016ae7c023aedd08555f21dbcc",
+     "snippet": "THE Chinese Embassy in Manila described as “utterly wrong” the claim that China avoids conflict in the South China Sea because of the 1951 Mutual Defense Treaty between the United States and the Philippines.\n\nRead more: https://www.manilatimes.net/2026/11/02/news/china-denies-ex-ambassadors-claim-in-column/2459001?utm_campaign=mrf-twitter-TheManilaTimes&utm_source=twitter&utm_medium=social&mrfcid=202611016ae7c023aedd08555f21dbcc",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Manila Times",
+     "handle": "@TheManilaTimes"
+    },
+    {
+     "url": "https://x.com/TheMilitaryShow/status/2117025139174834588",
+     "title": "Philippine military: 54 Chinese navy and coast guard vessels tracked in the West Philippine Sea Oct.",
+     "description": "Philippine military: 54 Chinese navy and coast guard vessels tracked in the West Philippine Sea Oct. 20-26, up from 31 a week earlier. It called the carrier Liaoning's passage routine, 'not a cause for alarm.'\n\nSource: AFP via Daily Tribune\n#Philippines #SouthChinaSea",
+     "snippet": "Philippine military: 54 Chinese navy and coast guard vessels tracked in the West Philippine Sea Oct. 20-26, up from 31 a week earlier. It called the carrier Liaoning's passage routine, 'not a cause for alarm.'\n\nSource: AFP via Daily Tribune\n#Philippines #SouthChinaSea",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Military Show",
+     "handle": "@TheMilitaryShow"
+    }
+   ]
+  }
+ ]
+}
