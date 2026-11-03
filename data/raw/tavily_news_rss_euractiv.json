@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Witkoff announces Abu Dhabi talks with Ukraine, US, Russia",
+   "url": "https://www.rapporteur.com/news/witkoff-announces-abu-dhabi-talks-with-ukraine-us-russia/",
+   "content": "As talks are due to recommence, Russia has continued with deadly strikes",
+   "published_date": "Tue, 03 Nov 2026 00:08:40 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "UK, France to lead first-ever Coalition of the Willing exercise in Poland",
+   "url": "https://www.rapporteur.com/news/uk-france-to-lead-first-ever-coalition-of-the-willing-exercise-in-poland/",
+   "content": "The drill will involve 11 nations and 2,800 troops",
+   "published_date": "Tue, 03 Nov 2026 00:01:13 +0000",
+   "score": 0.6
+  },
+  {
    "title": "EXCLUSIVE: Ireland makes pro-US Big Tech amendments to EU sovereign cloud law",
    "url": "https://www.rapporteur.com/news/exclusive-ireland-makes-pro-us-big-tech-amendments-to-eu-sovereign-cloud-law/",
    "content": "It also allowed the German military to continue using Google Cloud",
@@ -195,20 +209,6 @@
    "url": "https://www.rapporteur.com/news/ireland-nears-biotech-clinical-trials-deal/",
    "content": "Smaller EU countries expected to benefit from the new rules broadly back Ireland’s approach",
    "published_date": "Mon, 02 Nov 2026 03:00:28 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Europe’s farmers are ready to revolt again",
-   "url": "https://www.rapporteur.com/news/new-grievances-fuel-europes-next-wave-of-farmer-protests/",
-   "content": "Farmers’ concerns have not gone away since the last major round of protests",
-   "published_date": "Mon, 02 Nov 2026 03:00:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Climate scientists paint devastating picture of ice loss worldwide",
-   "url": "https://www.rapporteur.com/news/climate-scientists-paint-devastating-picture-of-ice-loss-worldwide/",
-   "content": "Much of the damage is already irreversible but could worsen catastrophically, warns a report on the eve of the COP31 climate summit",
-   "published_date": "Mon, 02 Nov 2026 03:00:20 +0000",
    "score": 0.6
   }
  ],

@@ -1,0 +1,116 @@
+{
+ "query": "Ghana China Chinese company investment mining embassy",
+ "_tag": "soc_cn_gh",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/MrIrish3/status/2117152776669089870",
+     "title": "@DiscoverNewsGH Top Stories: Looks like the government is not interested in protecting the image of the country..",
+     "description": "@DiscoverNewsGH Top Stories:\n\nLooks like the government is not interested in protecting the image of the country.. another seizure of cocaine traced from Ghana. Disgraceful.\n\nKpebu alleges that about 3 people have been killed and others injured due to the President’s brother; Alfred Mahama forcibly trying to take over NAMLC\n\nThe prime suspect in the sakumono murder case has been arrested according to Ghana Police.\n\nMinerals Commission’s attempt to handover NAMLC concession to some Chinese nationals EXPOSED\n\nVisit https://t.co/Ni1PCbwcKn for all the stories. Have a wonderful week ahead🥂",
+     "snippet": "@DiscoverNewsGH Top Stories:\n\nLooks like the government is not interested in protecting the image of the country.. another seizure of cocaine traced from Ghana. Disgraceful.\n\nKpebu alleges that about 3 people have been killed and others injured due to the President’s brother; Alfred Mahama forcibly trying to take over NAMLC\n\nThe prime suspect in the sakumono murder case has been arrested according to Ghana Police.\n\nMinerals Commission’s attempt to handover NAMLC concession to some Chinese nationals EXPOSED\n\nVisit https://t.co/Ni1PCbwcKn for all the stories. Have a wonderful week ahead🥂",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Mr Irish",
+     "handle": "@MrIrish3"
+    },
+    {
+     "url": "https://x.com/DeLaw_Platform/status/2116952451827823034",
+     "title": "JUST IN from Vint & Aletheia on Northern Ashanti Mines 🚨 1.",
+     "description": "JUST IN from Vint & Aletheia on Northern Ashanti Mines 🚨\n\n1. Evidence shows after NAIMOS unlawfully invading Northern Ashanti Mines’ concession, Minerals Commission has unlawfully handed over concession to Chinese.\n2. Legal proceedings are pending against revocation of leases and licenses of Northern Ashanti Mines \n3. Injunction pends against the Minerals Commission and the Minister for Lands and Natural Resources\n4. NAIMOS should cease and desist from switching of CCTV cameras at Konongo site of Northern Ashanti Mines",
+     "snippet": "JUST IN from Vint & Aletheia on Northern Ashanti Mines 🚨\n\n1. Evidence shows after NAIMOS unlawfully invading Northern Ashanti Mines’ concession, Minerals Commission has unlawfully handed over concession to Chinese.\n2. Legal proceedings are pending against revocation of leases and licenses of Northern Ashanti Mines \n3. Injunction pends against the Minerals Commission and the Minister for Lands and Natural Resources\n4. NAIMOS should cease and desist from switching of CCTV cameras at Konongo site of Northern Ashanti Mines",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "The Law Platform",
+     "handle": "@DeLaw_Platform"
+    },
+    {
+     "url": "https://x.com/_GhChronicles/status/2117015738246398288",
+     "title": "🚨Northern Ashanti Mines Ltd (NAMLC) has warned NAIMOS against switching off CCTV cameras or touching the server room at its Konongo site.",
+     "description": "🚨Northern Ashanti Mines Ltd (NAMLC) has warned NAIMOS against switching off CCTV cameras or touching the server room at its Konongo site. Its lawyers, Vint & Aletheia, claim the footage shows Chinese nationals being introduced by NAIMOS and Minerals Commission officials in a bid to hand over its concession.",
+     "snippet": "🚨Northern Ashanti Mines Ltd (NAMLC) has warned NAIMOS against switching off CCTV cameras or touching the server room at its Konongo site. Its lawyers, Vint & Aletheia, claim the footage shows Chinese nationals being introduced by NAIMOS and Minerals Commission officials in a bid to hand over its concession.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GHANA CHRONICLES",
+     "handle": "@_GhChronicles"
+    },
+    {
+     "url": "https://x.com/SelormFynn/status/2116828998785249662",
+     "title": "GoG: \"we are actively pursuing an indigenization agenda to ensure fair agreements and greater benefits for citizens\".",
+     "description": "GoG: \"we are actively pursuing an indigenization agenda to ensure fair agreements and greater benefits for citizens\". But Angela List $200M Investment in Konongo Mines is being handed to Chinese. Reported led by Alfred Mahama (The Prez Brother) \n\nThe Reset Agenda this😂💔?",
+     "snippet": "GoG: \"we are actively pursuing an indigenization agenda to ensure fair agreements and greater benefits for citizens\". But Angela List $200M Investment in Konongo Mines is being handed to Chinese. Reported led by Alfred Mahama (The Prez Brother) \n\nThe Reset Agenda this😂💔?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Selorm💙❤️",
+     "handle": "@SelormFynn"
+    },
+    {
+     "url": "https://x.com/Shac_man_/status/2116849085114171666",
+     "title": "Felix Kwakye is evil than Satan .",
+     "description": "Felix Kwakye is evil than Satan . He’s talking about lawlessness ? Watch this video on how he acted lawlessly by allowing president Mahama’s brother( Alfred Mahama) & Chinese people kill & take over an indigenous mining firms .",
+     "snippet": "Felix Kwakye is evil than Satan . He’s talking about lawlessness ? Watch this video on how he acted lawlessly by allowing president Mahama’s brother( Alfred Mahama) & Chinese people kill & take over an indigenous mining firms .",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "𝗦𝗵𝗮𝗰𝗺𝗮𝗻",
+     "handle": "@Shac_man_"
+    },
+    {
+     "url": "https://x.com/Shac_man_/status/2116647663987032214",
+     "title": "I watched this video & I am extremely sad & angry at the same time.",
+     "description": "I watched this video & I am extremely sad & angry at the same time. This is pure evil & state capture. 3 indigenous mines including Adamus, Narawa & Northern Ashanti have all been taken over by the government & given to Alfred Mahama (president Mahama’s brother) & Chinese.",
+     "snippet": "I watched this video & I am extremely sad & angry at the same time. This is pure evil & state capture. 3 indigenous mines including Adamus, Narawa & Northern Ashanti have all been taken over by the government & given to Alfred Mahama (president Mahama’s brother) & Chinese.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "𝗦𝗵𝗮𝗰𝗺𝗮𝗻",
+     "handle": "@Shac_man_"
+    },
+    {
+     "url": "https://x.com/tv3_ghana/status/2116618689407856929",
+     "title": "Takeover of Indigenous Mines: \"It is worse for that government to claim they are not aware of Chinese nationals claiming to be working on be",
+     "description": "Takeover of Indigenous Mines: \"It is worse for that government to claim they are not aware of Chinese nationals claiming to be working on behalf of the government in the Narawa Mines takeover.\"\n\n- John Darko, MP, Suame Constituency, claims the President does not believe in 'indigenousisation' unless it benefits him.\n\n#TheKeyPoints #TV3GH",
+     "snippet": "Takeover of Indigenous Mines: \"It is worse for that government to claim they are not aware of Chinese nationals claiming to be working on behalf of the government in the Narawa Mines takeover.\"\n\n- John Darko, MP, Suame Constituency, claims the President does not believe in 'indigenousisation' unless it benefits him.\n\n#TheKeyPoints #TV3GH",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#TV3GH",
+     "handle": "@tv3_ghana"
+    },
+    {
+     "url": "https://x.com/tv3_ghana/status/2116524263440064590",
+     "title": "Takeover of Indigenous Mines: \"The Chinese national claiming to be working for the government [in the Narawa mines takeover] does not mean i",
+     "description": "Takeover of Indigenous Mines: \"The Chinese national claiming to be working for the government [in the Narawa mines takeover] does not mean it is true.\"\n\nFelix Kwakye Ofosu, Minister of Government Communications, has cast doubt on claims by a Chinese national involved in the Narawa Mines takeover that he was acting on behalf of the government.\n\n#TheKeyPoints #TV3GH",
+     "snippet": "Takeover of Indigenous Mines: \"The Chinese national claiming to be working for the government [in the Narawa mines takeover] does not mean it is true.\"\n\nFelix Kwakye Ofosu, Minister of Government Communications, has cast doubt on claims by a Chinese national involved in the Narawa Mines takeover that he was acting on behalf of the government.\n\n#TheKeyPoints #TV3GH",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#TV3GH",
+     "handle": "@tv3_ghana"
+    },
+    {
+     "url": "https://x.com/tv3_ghana/status/2116472843231768842",
+     "title": "Takeover of Indigenous Mines: \"The government is taking over local mines and giving them to the Chinese; Ghana is looking like a failed stat",
+     "description": "Takeover of Indigenous Mines: \"The government is taking over local mines and giving them to the Chinese; Ghana is looking like a failed state; you go like bandits, shoot people, take over their mines and give them to the Chinese.\" \n\n- Kofi Bentil, Private legal practitioner\n\n#TheKeyPoints #TV3GH",
+     "snippet": "Takeover of Indigenous Mines: \"The government is taking over local mines and giving them to the Chinese; Ghana is looking like a failed state; you go like bandits, shoot people, take over their mines and give them to the Chinese.\" \n\n- Kofi Bentil, Private legal practitioner\n\n#TheKeyPoints #TV3GH",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#TV3GH",
+     "handle": "@tv3_ghana"
+    },
+    {
+     "url": "https://x.com/discussghana_/status/2116458852396720206",
+     "title": "Private legal practitioner and anti-corruption campaigner Lawyer Martin Kpebu has directly brought businessman Alfred Mahama into the center",
+     "description": "Private legal practitioner and anti-corruption campaigner Lawyer Martin Kpebu has directly brought businessman Alfred Mahama into the center of the unfolding extractive sector scandal, citing his alleged involvement in the disputed revocation of licenses and armed takeovers of concessions belonging to indigenous mining firms Narawa Company Limited and Northern Ashanti Mines Limited.\n\nSpeaking live during the Saturday, October 31, 2026 edition of TV3’s frontline political affairs programme, The KeyPoints, Kpebu scrutinized the regulatory decisions of the Minerals Commission, asserting that state security apparatus and administrative revocations are being weaponized to dispossess Ghanaian investors and transfer viable concessions to foreign Chinese syndicates.",
+     "snippet": "Private legal practitioner and anti-corruption campaigner Lawyer Martin Kpebu has directly brought businessman Alfred Mahama into the center of the unfolding extractive sector scandal, citing his alleged involvement in the disputed revocation of licenses and armed takeovers of concessions belonging to indigenous mining firms Narawa Company Limited and Northern Ashanti Mines Limited.\n\nSpeaking live during the Saturday, October 31, 2026 edition of TV3’s frontline political affairs programme, The KeyPoints, Kpebu scrutinized the regulatory decisions of the Minerals Commission, asserting that state security apparatus and administrative revocations are being weaponized to dispossess Ghanaian investors and transfer viable concessions to foreign Chinese syndicates.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Discuss Ghana",
+     "handle": "@discussghana_"
+    }
+   ]
+  }
+ ]
+}

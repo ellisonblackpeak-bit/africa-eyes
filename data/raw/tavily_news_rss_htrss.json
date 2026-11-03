@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "India’s manufacturing growth momentum eases in Oct",
+   "url": "https://www.hindustantimes.com/india-news/indias-manufacturing-growth-momentum-eases-in-oct-101793647160292.html",
+   "content": "India’s manufacturing sector activity lost some growth momentum in October compared to September as output and new orders increased only marginally, according to HSBC India Manufacturing Purchasing Managers’ Index (PMI) data released by S&P Global on Monday",
+   "published_date": "Tue, 03 Nov 2026 07:50:20 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Indian Navy rescues 20 crew members from hijacked Iranian vessel after 48-hour operation",
    "url": "https://www.hindustantimes.com/india-news/navy-rescues-20-crew-members-from-hijacked-iranian-vessel-101793645270343.html",
    "content": "The operation was carried out 3,000 km from Mumbai in the Arabian Sea, the officials said.",
    "published_date": "Tue, 03 Nov 2026 00:35:03 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "‘India’s green-energy shift shielded it from global crises’: Prime Minister Narendra Modi",
+   "url": "https://www.hindustantimes.com/india-news/indias-green-energy-shift-shielded-it-from-global-crises-prime-minister-narendra-modi-101793646143454.html",
+   "content": "At the renewable energy summit, Modi outlined plans for 500 GW of additional non-fossil capacity and stronger transmission links.",
+   "published_date": "Tue, 03 Nov 2026 00:32:22 +0530",
    "score": 0.6
   },
   {
@@ -188,27 +202,6 @@
    "url": "https://www.hindustantimes.com/india-news/sc-hcs-not-competing-destinations-for-justice-cji-101793560268442.html",
    "content": "Chief Justice of India Surya Kant on Sunday said the Supreme Court and High Courts were not “competing destinations for justice”, stressing the need to strengthen public confidence in High Courts as the first forum for constitutional remedies",
    "published_date": "Mon, 02 Nov 2026 07:51:30 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "A fine balance: Reconciling large crowds and legacy lanes in Kolkata stampede aftermath",
-   "url": "https://www.hindustantimes.com/india-news/a-fine-balance-reconciling-large-crowds-and-legacy-lanes-in-kolkata-stampede-aftermath-101793583653340.html",
-   "content": "India’s fast-densifying cities are compressing more people into the same old streets, squares and festival routes.",
-   "published_date": "Mon, 02 Nov 2026 07:40:18 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "INDIA bloc marches together from Delhi's Ramlila Maidan in display of force against CEC",
-   "url": "https://www.hindustantimes.com/india-news/oppnmarches-together-in-display-of-force-against-cec-protest-101793577052312.html",
-   "content": "Rahul Gandhi warned that legal proceedings could follow, while the BJP accused the opposition of attempting to destabilise the country.",
-   "published_date": "Mon, 02 Nov 2026 05:41:49 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "‘Orchestrated drama’: BJP slams INDIA bloc’s rally against CEC Gyanesh Kumar",
-   "url": "https://www.hindustantimes.com/india-news/bjp-bharatiya-janata-party-sambit-patra-jp-nadda-nitin-nabin-rahul-gandhi-mallikarjun-kharge-congress-india-bloc-opposition-rally-ramlila-maidan-101793559949088.html",
-   "content": "The rally was held against the backdrop of the opposition’s campaign against the special intensive revision of electoral rolls by the Election Commission.",
-   "published_date": "Mon, 02 Nov 2026 00:35:48 +0530",
    "score": 0.6
   }
  ],

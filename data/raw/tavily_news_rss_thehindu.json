@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Cyclone Murasu nears A.P. coast, heavy rain alert issued",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-nears-ap-coast-heavy-rain-alert-issued/article71657418.ece",
+   "content": "The India Meteorological Department (IMD) said the storm is likely to move with a “wind speed of 100 to 110 kmph (and) gusting up to 120 kmph between Nellore and Narasapur”.",
+   "published_date": "Tue, 03 Nov 2026 07:51:39 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Foreigners’ registration offices in all State Capitals by 2027: MHA",
+   "url": "https://www.thehindu.com/news/national/foreigners-registration-offices-in-all-state-capitals-by-2027-mha/article71657218.ece",
+   "content": "Ministry says the expansion is intended to improve access to immigration and consular services, strengthen regulatory compliance, and support India’s efforts to attract international visitors",
+   "published_date": "Tue, 03 Nov 2026 06:31:16 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Clean energy investments helped India soften West Asia crisis impact: PM Modi",
+   "url": "https://www.thehindu.com/news/national/clean-energy-investments-helped-india-soften-west-asia-crisis-impact-pm-modi/article71657883.ece",
+   "content": "Inaugurating Bharat Renewable Energy Summit & Expo, Narendra Modi says India’s economy continued to grow despite the crisis; warns that excess dependence on fossil fuels could risk increased exposure to global disruptions",
+   "published_date": "Tue, 03 Nov 2026 06:30:02 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Chandra’s reappointment has sullied Tata Sons’ image: Darius Khambata",
+   "url": "https://www.thehindu.com/business/Industry/chandras-reappointment-has-sullied-tata-sons-image-says-darius-khambata/article71658028.ece",
+   "content": "‘The sad events of September 17, 2026, a day that will live in infamy, have sullied Tata Sons’ reputation and imperilled the image of corporate India. No amount of spin doctoring can mask what happened,’ said the outgoing Tata Trusts board member",
+   "published_date": "Tue, 03 Nov 2026 04:22:17 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "IND-A vs NZ-A Test: New Zealand’s gritty lower-order puts the team in front",
+   "url": "https://www.thehindu.com/sport/cricket/ind-a-vs-nz-a-test-new-zealands-gritty-lower-order-puts-theteam-in-front/article71658508.ece",
+   "content": "Replying to India-A’s first innings score of 346, New Zealand-A, which was reduced to 338 for eight, finished its first innings at 424; the last two wickets added 86 runs to provide the hosts a handy lead",
+   "published_date": "Tue, 03 Nov 2026 04:20:22 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Delhi High Court stays JNU order dismissing professor and Congress MP Akoijam from services",
    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-stays-jnu-order-dismissing-professor-and-congress-mp-akoijam-from-services/article71657830.ece",
    "content": "Justice Anup Jairam Bhambhani passed an interim order while hearing a petition filed by Mr. Akoijam challenging his dismissal. The court also issued notice to the university and listed the matter for further hearing in January 2027",
@@ -20,27 +55,6 @@
    "url": "https://www.thehindu.com/news/cities/mumbai/many-hospitalised-after-eating-at-mumbai-wedding-food-poisoning-suspected/article71656459.ece",
    "content": "The Maharashtra food safety body, led by Commissioner Tukaram Mundhe, was alerted after the guests, including four children, fell ill.",
    "published_date": "Tue, 03 Nov 2026 00:27:25 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "IPL retention deadline extended to November 17",
-   "url": "https://www.thehindu.com/sport/cricket/ipl-retention-deadline-extended-till-november-17/article71657755.ece",
-   "content": "The extension is understood to have been prompted by the India-New Zealand ODI series, with the fifth and final match scheduled to be played on November 15",
-   "published_date": "Mon, 02 Nov 2026 23:51:25 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Clean energy investments helped India soften West Asia crisis impact: PM Modi",
-   "url": "https://www.thehindu.com/news/national/clean-energy-investments-helped-india-soften-west-asia-crisis-impact-pm-modi/article71657883.ece",
-   "content": "Inaugurating Bharat Renewable Energy Summit & Expo, Narendra Modi says India’s economy continued to grow despite the crisis; warns that excess dependence on fossil fuels could risk increased exposure to global disruptions",
-   "published_date": "Mon, 02 Nov 2026 23:26:10 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "HPCL Visakh Refinery supports Educational initiative on India’s Freedom movement",
-   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/hpcl-visakh-refinery-supports-educational-initiative-on-indias-freedom-movement/article71657848.ece",
-   "content": "",
-   "published_date": "Mon, 02 Nov 2026 23:23:35 +0530",
    "score": 0.6
   }
  ],

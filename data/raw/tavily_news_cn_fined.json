@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "China's Guangdong securities regulator warns BDO and Dahua after all five years of annual report audits found deficient at *ST Xiangxue — BigGo Finance",
-   "url": "https://finance.biggo.com/news/923112f1-00de-45de-8a34-098260390645",
-   "snippet": "| Penalized party | Penalty |\n --- |\n| Xiangxue Pharmaceutical | Ordered to correct, warned, fined 6 million yuan (approximately $900,000) |\n| Actual controller Wang Yonghui | Fined 10 million yuan (approximately $1.5 million), five-year market ban |\n| Five other responsible individuals | Fined 150,000 yuan (approximately $23,000) to 2 million yuan (approximately $300,000) each |\n| Total for the c",
-   "published": "Fri, 30 Oct 2026 15:55:16 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "90 Face Chinese Legal Action After $1 Billion Tax Fraud",
    "url": "https://www.sixthtone.com/news/1019191/90-face-chinese-legal-action-after-%241-billion-tax-fraud",
    "snippet": "Similar cases involving companies that obtained invoices through intermediaries have made national headlines in recent years. Last year, a group allegedly used 15 shell companies to falsely issue almost 3,500 special VAT invoices totaling 300 million yuan, domestic media reported. The defendant, surnamed Li, was sentenced to 13 years and six months in prison and fined 500,000 yuan. [...] Chinese t",
@@ -16,17 +9,24 @@
    "source": "tavily"
   },
   {
-   "title": "Star Casino given monster fine for money laundering breaches | The Nightly",
-   "url": "https://thenightly.com.au/business/the-star-entertainment-group-judge-to-set-fate-of-casino-giant-after-400m-lawsuit-c-23080963",
-   "snippet": "“I didn’t come here to say ‘mission accomplished’,” Mr Kim said.\n\n“I came here to say, the fire is out, and now the rebuilding starts.”\n\nThe vast majority of customers weren’t involved in malfeasance or unwanted behaviour and the company should welcome them, Mr Kim added.\n\nStar’s ex-head Matthias Beikir was fined $700,000 in June for failing to inform the company’s board of suspicious conduct comm",
-   "published": "Tue, 27 Oct 2026 19:49:56 GMT",
+   "title": "PCC fines MVP-linked firms P5.8M for late merger reports",
+   "url": "https://business.inquirer.net/618872/pcc-fines-mvp-linked-firms-p5-8m-for-late-merger-reports",
+   "snippet": "Additionally, the company delayed the first-quarter report by 215 days, the second-quarter report by 126 days, and the third-quarter report by 34 days in 2025.\n\nOn one hand, PEMHI and MGen attributed the delays to oversight, human error, and a misunderstanding of reporting requirements. But the PCC rejected these explanations and ultimately fined them for the lapses.\n\nArticle continues after this ",
+   "published": "Fri, 30 Oct 2026 18:05:23 GMT",
    "source": "tavily"
   },
   {
-   "title": "Semcorp plant in Hungary shut for fifth month after soil toxins | UA.NEWS",
-   "url": "https://ua.news/en/avtosvit/v-ugorshchini-zavod-semcorp-piatii-misiats-ne-pratsiuie-pislia-viiavlennia-toksiniv-u-grunti-the-japan-times",
-   "snippet": "In Debrecen, eastern Hungary, a plant operated by Chinese company Semcorp that produces battery separators has remained shut down for a fifth month after tests detected toxins in the soil near the facility. Separators are thin membranes that divide the positive and negative poles of a battery. The Japan Times reports. [...] Hungarian authorities have already fined two plants of South Korean compan",
-   "published": "Thu, 29 Oct 2026 09:26:01 GMT",
+   "title": "FCC plans ban on Chinese access to US phone numbers",
+   "url": "https://www.irishsun.com/news/279404896/fcc-plans-ban-on-chinese-access-to-us-phone-numbers",
+   "snippet": "The United States has already taken several steps against Chinese telecommunications companies. The FCC previously banned China Mobile, China Telecom and China Unicom from providing international telecommunications services to the country.\n\nOther possible restrictions include preventing these companies from connecting to U.S. telecommunications networks and operating their data centers in the Unit",
+   "published": "Sun, 01 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea fined Google and Apple a combined $47.6 million over app payment rules | Fortune",
+   "url": "https://fortune.com/2026/10/28/south-korea-fined-google-and-apple-a-combined-47-6-million-for-pushing-their-app-payment-systems-on-local-developers",
+   "snippet": "The commission fined Google 42.9 billion won ($32 million) and Apple 20.8 billion won ($15.5 million) and ordered both companies to let South Korean developers use external payment links within their apps and to improve their app review procedures.\n\nGoogle and Apple did not immediately respond to requests for comment. [...] South Korea on Wednesday fined Alphabet’s Google and Apple a combined 63.7",
+   "published": "Wed, 28 Oct 2026 15:52:05 GMT",
    "source": "tavily"
   },
   {
@@ -51,10 +51,10 @@
    "source": "tavily"
   },
   {
-   "title": "Government is ‘making up China policy as it goes’, MPs have warned in new report | Oxford Mail",
-   "url": "https://www.oxfordmail.co.uk/news/national/26688549.government-making-china-policy-goes-mps-warned-new-report",
-   "snippet": "The report said the Government’s track record of decisions regarding Beijing – such as the last-minute blocking of plans by Chinese firm Ming Yang to build a wind turbine factory in Scotland over security concerns – was characterised by “reactivity, inconsistency, and opacity”. [...] Public notices\n Newsletters\n Jobs\n Book an ad\n Cars\n Homes\n Local listings\n Local info\n\n More\n\n  + - Public notices",
-   "published": "Mon, 02 Nov 2026 00:11:08 GMT",
+   "title": "Peterhead fish firm fined £245,000 after worker dragged into machine",
+   "url": "https://www.bbc.com/news/articles/c6eq3wd475n5o",
+   "snippet": "An investigation by the HSE found that a section of fixed guarding next to the production line had been removed during maintenance about two weeks before the incident and had not been put back.\n\nWithout the guard, workers were able to access the production line without the power being isolated.\n\nNormally, they would have to pass through an interlocked gate which would have switched off the machine",
+   "published": "Thu, 29 Oct 2026 12:33:58 GMT",
    "source": "tavily"
   }
  ],
