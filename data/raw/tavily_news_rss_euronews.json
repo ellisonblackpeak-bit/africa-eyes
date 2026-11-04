@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "‘We will take back the House in 2028’: US House Speaker Johnson promises Republican comeback",
+   "url": "https://www.euronews.com/2026/11/04/we-will-take-back-the-house-in-2028-us-house-speaker-johnson-promises-republican-comeback",
+   "content": "US House Speaker Mike Johnson has urged Republicans not to lose hope after Democrats made major gains in the 2026 midterm elections. Johnson vowed that Republicans would double down on their agenda and seek to retake the House in 2028.",
+   "published_date": "Wed, 04 Nov 2026 08:48:54 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "‘Democrats did a good job’: Trump congratulates Democrats on midterm wins",
+   "url": "https://www.euronews.com/2026/11/04/democrats-did-a-good-job-trump-congratulates-democrats-on-midterm-wins",
+   "content": "US President Donald Trump has acknowledged that rising petrol prices linked to the war in Iran contributed to his Republican Party's defeat in the midterm elections. He said voters supported his actions against Iran but were reluctant to pay more at the pump. Trump also praised Democrats.",
+   "published_date": "Wed, 04 Nov 2026 08:25:10 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Israel's election commission says no fraud found in last week's vote",
+   "url": "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote",
+   "content": "Prime Minister Benjamin Netanyahu and his supporters have repeatedly made unsubstantiated claims that Arab-led parties had “stolen” the election, possibly with foreign assistance.",
+   "published_date": "Wed, 04 Nov 2026 08:21:16 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Europe Today: Democrats win Senate in rebuke of Trump as Poland’s constitutional crisis drags on",
    "url": "https://www.euronews.com/2026/11/04/europe-today-democrats-win-senate-in-rebuke-of-trump-as-polands-crisis-drags-on",
    "content": "A blue wave has swept the US in the midterm elections, with Democrats winning the Senate and heading for a big House majority as votes are still being counted on the West Coast. We bring live analysis from Philadelphia and Brussels, plus Poland’s crisis, Ukraine talks and the EU enlargement race.",
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/02/britains-oldest-cars-hit-the-road-for-annual-london-to-brighton-run",
    "content": "The UK celebrates 140 years of the motor car as pre-1905 vehicles parade through London's historic streets before heading to Brighton.",
    "published_date": "Mon, 02 Nov 2026 19:40:11 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 2nd, 2026 – Evening",
-   "url": "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-evening",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Mon, 02 Nov 2026 18:00:26 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine’s ‘Stargate’ drone carries wounded troops from frontline",
-   "url": "https://www.euronews.com/video/2026/11/02/ukraines-stargate-drone-carries-wounded-troops-from-frontline",
-   "content": "Ukraine’s Skyfall says its Stargate drone has evacuated two wounded soldiers from the front line, flying 15 km each way at up to 105 km/h.",
-   "published_date": "Mon, 02 Nov 2026 17:26:59 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Fridges stand empty in Belgian supermarkets after cyberattack",
-   "url": "https://www.euronews.com/video/2026/11/02/fridges-stand-empty-in-belgian-supermarkets-after-cyberattack",
-   "content": "Supermarkets in several European countries have reported cyberattacks targeting refrigeration systems, causing food to spoil and forcing some stores to close off their fridges and freezers.",
-   "published_date": "Mon, 02 Nov 2026 15:27:23 +0100",
    "score": 0.6
   }
  ],
