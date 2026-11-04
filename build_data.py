@@ -2098,7 +2098,10 @@ MASTHEAD_RX = re.compile(r"""(
  \bafricanews\b|\ballafrica\b|\bthe\s+africa\s+report\b|\breuters\b|\bbbc\b|
  \becofin\s+agency\b|\bactuniger\b|\ble\s+sahel\b|\bair\s+info\b|\bmalijet\b|\bmaliweb\b|
  \bnigeria\s+and\s+world\s+news\b|\bworld\s+news\b|\blatest\s+news\b|
- \bnews\s+agency\b|\bnews\s+online\b|\bnews\s+paper\b|\bnewspaper\b
+ \bnews\s+agency\b|\bnews\s+online\b|\bnews\s+paper\b|\bnewspaper\b|
+ \bdaily\s+champion\b|\bnational\s+voice\b|\btruth\s+guardian\b|
+ 国家之声|真相守护者|独家报道|滚动新闻|要闻播报|电子报|新闻网|日报|晚报|
+ 电视台|广播电台|新闻频道|门户网站
 )""", re.I | re.X)
 
 # Separators a CMS puts between the headline and the masthead. Captured, so a
@@ -2312,6 +2315,17 @@ def polish_title(title, body="", url=""):
     * remove the leading zero-width/bidi marks the index sometimes injects.
     """
     t = strip_links(clean(title))
+    if not t:
+        return t
+
+    # 0. 文章 ID 前缀。Premium Times 的标题是从 URL slug 生成的，slug 开头带着
+    #    文章号，于是标题变成 "922573 us midterms democrats take control of
+    #    senate lead in house seats"，翻译后成了「922573.us中期选举：……」——
+    #    一个域名形状的数字串挂在了标题最前面。这不是网址，是 slug 里的 ID。
+    #    只认 5 位以上的数字：4 位基本是年份，「2026 Budget: …」这种标题必须原样
+    #    保留，不能为了修一个 ID 把正经年份一起摘掉。
+    t = re.sub(r"^\s*\d{5,}\s*[.\-_·|]\s*", "", t)
+    t = re.sub(r"^\s*\d{5,}\s+(?=[A-Za-z\u4e00-\u9fff])", "", t)
     if not t:
         return t
 
@@ -2708,12 +2722,42 @@ def parse_pub(s):
         return None
 
 
+# ── URL 里的年份 vs 声称的发布日期 ────────────────────────────────────────
+# 线上抓到过一条：citinewsroom.com/2020/01/amansie-central-three-chinese-
+# nationals-arrested-… 被标成 "Tue, 03 Nov 2026 10:00:00 GMT"——正文是 2020 年
+# 1 月的旧闻，日期却整整齐齐落在构建当天上午十点。来源没给日期时上游塞了个
+# 占位时间，于是它堂堂正正进了「近 3 日」，标题还是从 URL 尾巴抠出来的
+# "galamsey chinese"。读者投诉「有的内容已经超过了 3 天」，这类假日期是最难
+# 自查的一种：它的 _dt 明明在窗口内。
+#
+# URL 路径里带 20xx 年份的（/2020/01/、/2026-11-04/、/news/2025/）是很强的
+# 旁证：它比正文任何地方都难伪造。只要 URL 年份早于声称年份，就判定日期不可信。
+_URL_YEAR_RX = re.compile(r"/(20\d\d)(?=[/\-_.]|$)")
+
+
+def url_year_conflict(url, dt):
+    """URL 里写的年份早于声称的发布年份 → 日期不可信，返回 True。"""
+    if not url or dt is None:
+        return False
+    m = _URL_YEAR_RX.search(url)
+    if not m:
+        return False
+    try:
+        y = int(m.group(1))
+    except ValueError:
+        return False
+    # 只认「更早」这一种。URL 年份比声称的还新（页面被重新挂到新路径上）
+    # 不算矛盾，交给正常的 3 天窗口去判。
+    return y < dt.year
+
+
 now_utc = datetime.now(timezone.utc)
 CUTOFF = now_utc - timedelta(days=WINDOW_DAYS)
 
 # ─────────────── collect news ───────────────
 news, seen, dropped_old, dropped_offtopic = [], set(), 0, 0
 dropped_scope = 0
+dropped_fake_date = 0
 news_files = sorted(glob.glob(os.path.join(RAW, "tavily_news_*.json")))
 news_files += sorted(glob.glob(os.path.join(RAW, "gdelt_news_*.json")))
 for fn in news_files:
@@ -2770,6 +2814,12 @@ for fn in news_files:
         # current, and a stale piece presented as fresh is worse than a gap.
         if dt is None or dt < CUTOFF:
             dropped_old += 1
+            continue
+        # 日期可能整条是假的：来源没给时间时上游会补一个当天上午的时间戳，
+        # 于是一条 2020 年的旧闻带着「今天」的日期混进近 3 日。URL 里的年份
+        # 是它无法掩饰的旁证，冲突就整条丢掉——宁可少一条，不可骗一次。
+        if url_year_conflict(u, dt):
+            dropped_fake_date += 1
             continue
         seen.add(norm_url(u))
         # Prefer the fetched article body over the search index's `content`,
@@ -3012,6 +3062,11 @@ for _k, _item in _pool_in.items():
     # One window, no exceptions (2026-11-04). The oil/risk extensions that used
     # to live here put 15-day-old cards into a feed labelled 近 3 日.
     if _dt < now_utc - timedelta(days=WINDOW_DAYS):
+        expired_from_pool += 1
+        continue
+    # 池里结转的条目也要过 URL 年份闸门：老版本的假日期条目已经躺在池子里，
+    # 不在这里拦一道，它们会一直结转下去。
+    if url_year_conflict(_item.get("url"), _dt):
         expired_from_pool += 1
         continue
     # Re-age against THIS run's clock; the stored value came from an older one.
@@ -4654,6 +4709,11 @@ for _n in news:
     if _t is None or _t < _age_cut.timestamp():
         _age_drop_n += 1
         continue
+    # 假日期最后一道：去重合并可能把一条 2020 年的旧闻和一条新稿并在一起，
+    # 并保留了旧的时间戳。URL 年份对不上就不发。
+    if url_year_conflict(_n.get("url"), datetime.fromtimestamp(_t, timezone.utc)):
+        _age_drop_n += 1
+        continue
     _n["ageDays"] = round(max(0.0, (now_utc.timestamp() - _t) / 86400.0), 2)
     _n_keep.append(_n)
 news = _n_keep
@@ -5069,8 +5129,9 @@ with io.open(os.path.join(ROOT, "data.js"), "w", encoding="utf-8") as fh:
     json.dump(data, fh, ensure_ascii=False, indent=1)
     fh.write(";\n")
 
-print("news=%d (cn=%d us=%d gov=%d other=%d) | dropped: older-than-window-or-undated=%d off-topic=%d out-of-scope=%d"
-      % (len(news), tc[1], tc[2], tc[3], tc[4], dropped_old, dropped_offtopic, dropped_scope))
+print("news=%d (cn=%d us=%d gov=%d other=%d) | dropped: older-than-window-or-undated=%d off-topic=%d out-of-scope=%d fake-date=%d"
+      % (len(news), tc[1], tc[2], tc[3], tc[4], dropped_old, dropped_offtopic, dropped_scope,
+         dropped_fake_date))
 print("volume cap: dropped %d oldest tier-4 item(s) (cap %d)" % (capped_off, TIER4_CAP))
 print("social=%d | dropped: older-than-window=%d undated=%d | outlets=%d | people=%d"
       % (len(social), dropped_old_s, dropped_undated_s, len(out_counts), len(people_out)))

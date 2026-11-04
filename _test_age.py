@@ -8,7 +8,9 @@
 
 用法： python _test_age.py     期望：全部 PASS，退出码 0。
 """
+import ast
 import io
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -16,6 +18,17 @@ src = io.open("build_data.py", encoding="utf-8").read()
 _a = src.index("# ─────────────── final age gate")
 _b = src.index("# ─────────────── persist the carry-over pool")
 GATE = src[_a:_b]
+
+# 闸门里现在还会调 url_year_conflict()（假日期），所以把那个函数也按源码抽出来，
+# 不另写一份替身——替身测不出真实现的 bug。
+_tree = ast.parse(src)
+_keep = [n for n in _tree.body
+         if (isinstance(n, ast.FunctionDef) and n.name == "url_year_conflict")
+         or (isinstance(n, ast.Assign) and isinstance(n.targets[0], ast.Name)
+             and n.targets[0].id == "_URL_YEAR_RX")]
+_helper = {"re": re}
+exec(compile(ast.Module(body=_keep, type_ignores=[]), "<helper>", "exec"), _helper)
+url_year_conflict = _helper["url_year_conflict"]
 
 NOW = datetime(2026, 11, 4, 12, 0, 0, tzinfo=timezone.utc)
 D = 86400.0
@@ -42,6 +55,8 @@ def check(label, got, want):
 def run(news, social, days=3):
     ns = {
         "now_utc": NOW, "WINDOW_DAYS": days, "timedelta": timedelta,
+        "datetime": datetime, "timezone": timezone,
+        "url_year_conflict": url_year_conflict,
         "news": news, "social": social,
         "print": lambda *a, **k: None,
     }
@@ -102,6 +117,23 @@ check("新闻不串到社交", k2[0]["url"], "s")
 print("\n── ⑤ WINDOW_DAYS 生效 ──")
 k3, _ = run([{"url": "x", "_dt": ts(2.5)}], [], days=1)
 check("窗口 1 天时 2.5 天条目剔除", len(k3), 0)
+
+# ── ⑥ 假日期：URL 年份与声称日期冲突 → 剔除 ────────────────────────────
+# 线上实例：citinewsroom 2020 年 1 月的稿子被标成 2026-11-03 10:00，
+# _dt 落在窗口内，3 天闸门拦不住，只能靠 URL 年份旁证。
+print("\n── ⑥ 假日期 ──")
+news_fd = [
+    {"url": "https://www.citinewsroom.com/2020/01/three-chinese-arrested/",
+     "_dt": ts(0.2)},
+    {"url": "https://example.com/2026/11/04/real-story", "_dt": ts(0.2)},
+    {"url": "https://punchng.com/no-year-in-url/", "_dt": ts(0.2)},
+]
+kept_fd, _ = run(list(news_fd), [])
+fn = [n["url"] for n in kept_fd]
+check("2020 URL + 今天的日期 → 剔除", "https://www.citinewsroom.com/2020/01/three-chinese-arrested/" in fn, False)
+check("同年 URL → 保留", "https://example.com/2026/11/04/real-story" in fn, True)
+check("URL 无年份 → 保留", "https://punchng.com/no-year-in-url/" in fn, True)
+check("保留条数", len(kept_fd), 2)
 
 print("\n%d 项，%d 失败" % (total, fail))
 sys.exit(1 if fail else 0)

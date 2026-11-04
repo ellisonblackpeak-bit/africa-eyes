@@ -9,56 +9,49 @@ build_data.py 只是自测，线上是快照，不触发就永远是上一期。
     python _dispatch.py                 # 只触发，不等
     python _dispatch.py --wait          # 触发后轮询到结束，打印结论
     python _dispatch.py --wait --wf translate-topup.yml
+    python _dispatch.py --watch         # 不触发，只盯最新一轮（会误触发的场合用）
 令牌：环境变量 GH_TOKEN，或第一个非选项参数。
 退出码：0 表示触发成功（--wait 时表示作业成功），非 0 表示失败。
+
+网络重试复用 gh_push.req：本机到 api.github.com 会随机断在 TLS 握手上
+（`UNEXPECTED_EOF_WHILE_READING`），2026-11-04 一次推送 6 个文件就在第 4 个
+断掉。重试逻辑只写一份，两个脚本共用。
 """
-import json
 import os
 import sys
 import time
-import urllib.error
-import urllib.request
 
-API = "https://api.github.com"
-REPO = "ellisonblackpeak-bit/africa-eyes"
+from gh_push import REPO, req
+
 DEFAULT_WF = "refresh-and-deploy.yml"
-
-
-def req(token, path, method="GET", payload=None):
-    data = json.dumps(payload).encode() if payload is not None else None
-    r = urllib.request.Request(API + path, data=data, method=method)
-    r.add_header("Authorization", "token " + token)
-    r.add_header("Accept", "application/vnd.github+json")
-    if data:
-        r.add_header("Content-Type", "application/json")
-    with urllib.request.urlopen(r, timeout=60) as fh:
-        body = fh.read().decode()
-        return fh.status, (json.loads(body) if body.strip() else {})
 
 
 def main():
     argv = sys.argv[1:]
     wait = "--wait" in argv
+    watch = "--watch" in argv
     wf = DEFAULT_WF
     if "--wf" in argv:
         wf = argv[argv.index("--wf") + 1]
     rest = [a for i, a in enumerate(argv)
-            if a not in ("--wait", "--wf") and (i == 0 or argv[i - 1] != "--wf")]
+            if a not in ("--wait", "--watch", "--wf")
+            and (i == 0 or argv[i - 1] != "--wf")]
     token = os.environ.get("GH_TOKEN") or (rest[0] if rest else "")
     if not token:
         sys.exit("no token: set GH_TOKEN or pass it as the first argument")
 
-    status, _ = req(token, "/repos/%s/actions/workflows/%s/dispatches" % (REPO, wf),
-                    "POST", {"ref": "main"})
-    print("dispatch %s -> HTTP %s" % (wf, status))
-    if not wait:
+    if not watch:
+        req(token, "/repos/%s/actions/workflows/%s/dispatches" % (REPO, wf),
+            "POST", {"ref": "main"})
+        print("dispatch %s -> ok" % wf)
+    if not (wait or watch):
         return 0
 
     # 触发后要等它出现在 runs 列表里，否则拿到的还是上一轮
     run_id = None
     for _ in range(20):
         time.sleep(6)
-        _, data = req(token, "/repos/%s/actions/workflows/%s/runs?per_page=1" % (REPO, wf))
+        data = req(token, "/repos/%s/actions/workflows/%s/runs?per_page=1" % (REPO, wf))
         runs = data.get("workflow_runs") or []
         if runs and runs[0].get("status") in ("queued", "in_progress"):
             run_id = runs[0]["id"]
@@ -72,7 +65,7 @@ def main():
     last = None
     while time.time() < deadline:
         time.sleep(45)
-        _, data = req(token, "/repos/%s/actions/runs/%s" % (REPO, run_id))
+        data = req(token, "/repos/%s/actions/runs/%s" % (REPO, run_id))
         st = data.get("status")
         if st != last:
             print("  %s  status=%s  conclusion=%s"
