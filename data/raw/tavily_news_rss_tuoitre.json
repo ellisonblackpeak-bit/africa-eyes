@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Cầu vượt cửa biển dài nhất miền Trung có tên Cửa Thuận",
+   "url": "https://tuoitre.vn/cau-vuot-cua-bien-dai-nhat-mien-trung-co-ten-cua-thuan-100261104143501043.htm",
+   "content": "HĐND TP Huế đã thông qua nghị quyết đặt tên cầu qua cửa biển Thuận An là cầu Cửa Thuận, sau khi phương án này nhận được 56,4% lượt bình chọn của người dân trên ứng dụng Hue-S.",
+   "published_date": "11/4/2026 2:58:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
