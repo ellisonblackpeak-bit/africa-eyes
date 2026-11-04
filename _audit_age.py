@@ -70,14 +70,22 @@ for key in ("news", "social"):
         age = (ref.timestamp() - float(ts)) / 86400.0
         rows.append((age, it))
     rows.sort(key=lambda t: -t[0])
-    over = [r for r in rows if r[0] > days]
+    # 边界容差：闸门在构建时按 now_utc 卡 _t >= cut，而 generatedAt 是几秒之后
+    # 才写进文件的，于是正好压线的条目会算成 3.0004 天。这是时钟差，不是超期。
+    TOL = 0.02  # ≈29 分钟
+    edge = [r for r in rows if days < r[0] <= days + TOL]
+    over = [r for r in rows if r[0] > days + TOL]
     bad_total += len(over) + len(no_ts)
     print("\n=== %s: %d 条 ===" % (key, len(arr)))
     print("  最旧 %.2f 天 / 最新 %.2f 天" % (rows[0][0], rows[-1][0]) if rows
           else "  (无带时间戳条目)")
-    print("  超 %d 天: %d 条 | 无时间戳: %d 条" % (days, len(over), len(no_ts)))
+    print("  超 %d 天: %d 条 | 压线(容差内): %d 条 | 无时间戳: %d 条"
+          % (days, len(over), len(edge), len(no_ts)))
     for age, it in over[:10]:
-        print("   ✗ %5.1f 天 | %s" % (age, (it.get("title_zh") or it.get("title") or "")[:60]))
+        print("   ✗ %5.2f 天 | %s" % (age, (it.get("title_zh") or it.get("title") or "")[:60]))
+    for age, it in edge[:5]:
+        print("   ~ %5.3f 天（压线，合格）| %s"
+              % (age, (it.get("title_zh") or it.get("title") or "")[:52]))
     for it in no_ts[:5]:
         print("   ✗ 无时间 | %s" % (it.get("title_zh") or it.get("title") or "")[:60])
 

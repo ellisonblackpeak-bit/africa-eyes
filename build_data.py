@@ -316,7 +316,9 @@ US_RX = re.compile(r"""(
  \busaid\b|\bafricom\b|\bexxon\b|\bchevron\b|\boccidental\b|
  \bunited\s+states\b|\bwashington\b|\bstate\s+department\b|\bwhite\s+house\b|
  \bwall\s+street\b|\bsilicon\s+valley\b|\bmillennium\s+challenge\b|
- \bu\.?s\.?\s+(?:aid|troops|military|sanctions|embassy|dollar|firms|companies)\b
+ \bu\.?s\.?\s+(?:aid|troops|military|sanctions|embassy|dollar|firms|companies)\b|
+ \bam[eé]ricain\w*|\b[eé]tats-?unis\b|\bmaison\s+blanche\b|
+ \bamurka\b|\bba'?amurke\b|\bam[ẹe]r[iị]ka\b|\bamerika\b
 )""", re.I | re.X)
 
 
@@ -490,7 +492,24 @@ TERROR_RX = re.compile(
     # 肮脏环境」被新加的社会危安规则误删——它命中 IDP（流离失所），但讲的
     # 是美方反恐观察名单与安全形势，是安全议题，不是民生稿。
     r"恐怖主义|反恐|terrorism|terrorist\s+(?:groups?|attacks?|threat)|"
-    r"counter-?terror\w*", re.I)
+    r"counter-?terror\w*|"
+    # ── 法语写法（尼日尔、马里、布基纳法索的通讯社多用这套）──────────────
+    # 读者 2026-11-04：「你要讲这些组织翻译成英语、法语和非洲四国本地语言
+    # 进行关键词检索」。同一条马里战报，英文写 JNIM、法文写 GSIM，只认前者
+    # 就会整条漏掉。
+    r"\bgsim\b|\baqmi\b|\bdaesh\b|\bdaech\b|"
+    r"\bétat\s+islamique\b|\betat\s+islamique\b|"
+    r"\bétat\s+islamique\s+(?:au\s+)?grand\s+sahara\b|"
+    r"\bétat\s+islamique\s+(?:en|au)\s+(?:afrique|sahel)\b|"
+    r"\bgroupe\s+de\s+soutien\s+à\s+l'?islam\b|"
+    r"\bfront\s+de\s+libération\s+du\s+macina\b|"
+    r"\bjam[a']?at[ae]?\s+nusrat\s+al-?islam\b|"
+    r"\bjam[a']?atu\s+ahlis\s+sunna\b|"
+    # ── 本地语言与变体 ────────────────────────────────────────────────────
+    # Lakurawa 在豪萨语报道里常写成 Lukarawa / Lakurawan；阿拉伯语报道路透
+    # 转引时会出现 داعش（Daesh）和 القاعدة（al-Qaeda）。
+    r"\blukarawa\b|\blakurawan\b|"
+    r"داعش|القاعدة", re.I)
 # "FLA" is kept out of TERROR_RX because "Fla." is the US postal abbreviation for
 # Florida, and a Miami court story would otherwise be counted as Azawad activity.
 FLA_RX = re.compile(r"\bfla\b(?!\.)", re.I)
@@ -1591,12 +1610,41 @@ FLUFF_EN_RX = re.compile(
 # stop a stray animal word or crime word from deleting a head-of-state story.
 POLICY_ANCHOR_RX = re.compile(
     r"\b(president|prime minister|premier|minister|parliament|senate|"
-    r"legislature|cabinet|governor|mayor|maire|municipal|election|referendum|poll\w*|"
+    r"legislature|cabinet|governor|mayor|maire|municipal|election|referendum|"
+    # ⚠ 原来是 poll\w*，那会匹配 pollution——一条"拉各斯查封排污房产"的
+    # 环境执法稿会被当成政治新闻保住。收窄成 polls / polling / pollster。
+    r"polls?|polling|pollsters?|"
     r"votes?|voted|voting|political|politician|opposition|diplomat\w*|embassy|"
     r"ambassador|treaty|summit|bilateral|trilateral|negotiat\w*|"
-    r"peace talks|sanctions?|sovereignty|junta|putin|kremlin|lukashenko)\b"
+    r"peace talks|sanctions?|sovereignty|junta|putin|kremlin|lukashenko|"
+    # ── 选举全过程（2026-11-04 补）──────────────────────────────────────
+    # 审计发现大量 2027 大选稿被误删：尼日利亚媒体的标题写的是"竞选"
+    # "候选人""ADC 与索科托州政府分歧"，一个 presidential 都没有。
+    r"campaign\w*|candidates?|political parties|ruling party|opposition party|"
+    r"coalition|ballot\w*|constituenc\w*|lawmakers?|senators?|"
+    r"house of assembly|state assembly|primary election|party primary|"
+    r"defect\w*|decamp\w*|impeach\w*|constitution\w*|"
+    # 只认选举法庭。裸 tribunal 会把「un divorce devant le tribunal de
+    # Niamey」这种民事案保下来——法语里 tribunal 就是普通法院。
+    r"(?:electoral|election)\s+tribunal|tribunal\s+[ée]lectoral|"
+    r"federal government|state government|ministry of|appointment of|"
+    r"inec|"
+    # ── 政坛核心人物（2026-11-04 补）────────────────────────────────────
+    # 审计里「2027年：克罗斯河州支持蒂努布、奥图」「所有迹象都表明蒂努布将
+    # 获胜」这类稿子被删了——尼日利亚大选报道的标题通常只写人名，不写
+    # president / election。这批人变化很慢，写死比漏掉划算。
+    r"tinubu|atiku|peter obi|kwankwaso|shettima|sanusi|uzodimma|"
+    r"go[iï]ta|cnsp|cnrd)\b"
+    r"|(?<![A-Za-z])(?:APC|PDP|NNPP|ADC|SDP)(?![A-Za-z])"
     r"|(总统|总理|首相|部长|议会|参议院|大选|选举|外交|使馆|大使|条约|"
-    r"峰会|双边|三方|会谈|谈判|内阁|州长|制裁|主权|军政府)", re.I)
+    r"峰会|双边|三方|会谈|谈判|内阁|州长|制裁|主权|军政府|"
+    # 选举与政局的常见中文写法
+    r"竞选|候选人|政党|执政党|反对党|在野党|选情|投票|选民|选区|"
+    r"议员|参议员|众议员|选举委员会|初选|造势|弹劾|宪法|任命|"
+    r"政权|执政|反对派|政治|"
+    # 上述人名与军政机构的中文音译
+    r"蒂努布|提努布|阿提库|奥比|夸恩夸索|谢蒂马|桑努西|乌佐迪马|卡卢|"
+    r"戈伊塔|尼日尔保卫祖国国家委员会)", re.I)
 
 
 def is_fluff(title, title_zh=""):
@@ -1751,67 +1799,10 @@ ARMED_ACTOR_RX = re.compile(
 # ⚠ 中文词一律不加 \b（汉字属 \w，\b 在中文里永不匹配，本项目已踩过三次）。
 AFR4_CTYS = {"ng", "ne", "ml", "gh"}
 
-SOCIAL_HARDSHIP_RX = re.compile(
-    # 事故
-    r"\b(road (?:crash|accident)|auto crash|car crash|collision|overturn\w*|"
-    r"capsiz\w*|drown\w*|stampede|building collapse|collapse[ds]?|"
-    r"fire outbreak|inferno|electrocut\w*|"
-    r"(?:tanker|gas|fuel|petrol|diesel)\s+(?:truck\s+)?explosion|"
-    r"explosion at (?:a )?(?:filling station|petrol station|market)|"
-    r"tanker explosion)\b"
-    # 灾害
-    r"|\b(flood\w*|landslides?|mudslides?|earthquakes?|windstorm|rainstorm|"
-    r"heatwave|heat wave|drought|famine|desertification)\b"
-    # 治安个案（不含武装袭击——那是安全事件）
-    r"|\b(armed robbery|robbery|burglary|housebreaking|pickpocket\w*|"
-    r"cult clash|cultists?|ritual kill\w*|mob justice|jungle justice|lynch\w*)\b"
-    # 民生
-    r"|\b(cost of living|food prices?|food inflation|price (?:hike|increase|surge)|"
-    r"fuel queues?|fuel scarcity|petrol queues?|blackout|power outage|"
-    r"electricity (?:shortage|cuts?|rationing)|water shortage|water scarcity|"
-    r"unemployment|jobless\w*|labou?r strike|workers'? strike|"
-    r"subsidy (?:removal|cut)|poverty|hunger|malnutrition|"
-    r"hospital (?:shortage|closure)|school (?:closure|shutdown)|"
-    r"IDP camps?)\b"
-    # 法语（尼日尔、马里的工作语言）。读者 2026-11-04 要求"涉华词汇翻译成
-    # 英语、法语和四国本土语言"，反向也成立：判定"社会危安"同样要看懂法语，
-    # 否则一条 "Un camion citerne explose à Niamey" 会从英文表底下溜过去。
-    r"|\b(accidents?|explos\w*|incendi\w*|inondations?|crues?|sécheresse|"
-    r"camion\s+citerne|effondrement|naufrage|noyade|bousculade|"
-    r"pénurie\s+d['’]eau|coupure\s+d['’]électricité|"
-    r"pénurie\s+de\s+carburant|cherté\s+de\s+la\s+vie|hausse\s+des\s+prix|"
-    r"chômage|grèves?|pauvreté|famine|"
-    r"braquage|vol\s+à\s+main\s+armée|meurtres?|assassinats?)\b"
-    # 中文
-    r"|(车祸|交通事故|撞车|相撞|翻车|侧翻|翻船|沉船|溺水|触电|踩踏|"
-    r"火灾|失火|坍塌|倒塌|楼房倒塌|建筑倒塌|"
-    r"油罐车爆炸|加油站爆炸|燃气爆炸|"
-    r"洪水|洪灾|水灾|山体滑坡|泥石流|地震|干旱|饥荒|沙尘暴|"
-    r"抢劫|入室盗窃|邪教|私刑|祭品|"
-    r"物价|粮价|食品价格|生活成本|"
-    r"停电|断电|限电|电力短缺|停水|缺水|供水不足|"
-    r"失业|罢工|补贴取消|贫困|饥饿|营养不良|"
-    r"医院缺药|停课|流离失所|难民营)", re.I)
-
-# 国防/军事：命中即豁免（需求二要）。刻意**不含**裸 army / military / troops
-# ——"军队协助洪灾救援"是民生，不该因为它写了 army 就变成国防新闻。
-DEFENSE_RX = re.compile(
-    r"\b(defen[cs]e (?:policy|budget|ministry|minister|forces?|spending)|"
-    r"military (?:budget|spending|cooperation|deal|pact|exercise|drill|junta)|"
-    r"arms? (?:deal|purchase|procurement|import|export|sales?)|"
-    r"weapons? (?:deal|purchase|procurement|shipment)|"
-    r"procure\w* (?:fighter|jet|drone|missile|warship|aircraft)|"
-    r"fighter jets?|warplanes?|warships?|missiles?|air defence|air defense|"
-    r"border (?:clash|skirmish|security|patrol|tension)|"
-    r"coup|junta|military (?:coup|takeover|rule)|"
-    r"counter-?insurgen\w*|military (?:operation|offensive|strikes?)|"
-    r"airstrikes?|air strikes?|drone strikes?|"
-    r"security forces|armed forces|chief of (?:army|defence|staff))\b"
-    r"|(国防|军费|军购|军售|军演|武器采购|战机|战斗机|军舰|导弹|防空|"
-    r"边境冲突|边境安全|政变|军政府|反恐行动|军事行动|军事合作|"
-    r"空袭|无人机袭击|安全部队|武装部队|总参谋长)", re.I)
-
-# 经济/能源/矿产/通道：命中即豁免（需求二要）。
+# 经济 / 能源 / 矿产 / 通道（读者三类里的第三类）。
+# 注意：这一张表现在只用于 is_africa_off_topic() 的白名单判断，不再是
+# "命中即豁免"。早先那版黑名单用 SOCIAL_HARDSHIP_RX 反着判，管不住词表
+# 之外的题材，已删除（2026-11-04）。
 ECON_RX = re.compile(
     r"\b(econom\w*|trade|exports?|imports?|tariffs?|investment|investors?|"
     r"fiscal|budget|revenue|tax(?:es|ation)?|debt|Eurobond|"
@@ -1821,19 +1812,80 @@ ECON_RX = re.compile(
     r"mining|minerals?|lithium|cobalt|uranium|bauxite|manganese|iron ore|"
     r"gold mine|concession|"
     r"railway|rail line|port|harbour|harbor|highway|expressway|"
-    r"infrastructure|tender|contract award)\b"
+    r"infrastructure|tender|contract award|"
+    # ── 投资与产能（2026-11-04 补）──────────────────────────────────────
+    # 审计发现「卡诺州新建 11 座水坝」「拉各斯建 100 家食品加工厂」
+    # 「英国与尼日利亚动员私人资本建三个水电项目」都被误删——它们是投资与
+    # 基础设施，正是读者要的"经济"，只是没有一个 economy/trade 之类的词。
+    r"factories|factory|power plants?|dams?|irrigation|agricultur\w*|"
+    r"farming|hydropower|solar|electricity generation|manufactur\w*|"
+    r"cement|steel plant|fertilis?er|smelt\w*|refining|processing plant|"
+    # ── 企业与市场（2026-11-04 补）──────────────────────────────────────
+    # 「NNPC 首席执行官称首次上市」「加纳黄金局终止与 Goldstream 的 10 亿美元
+    # 交易」「加纳机场公司首次派发股息」「尼日利亚寻求扩大进入西非市场」——
+    # 全是经济与矿产，但一个 economy / mining 都没有。
+    r"nnpc|gold\s*board|goldbod|mining compan\w*|mines?\s+ltd|"
+    r"markets?|dividends?|outsourc\w*|borrowing|local content|"
+    r"electric vehicles?|shares?|IPO|listing|"
+    # 裸 bank 会命中 river bank（河岸），只认银行业务写法。
+    r"banking|bank employees|commercial banks?|bank workers?)\b"
     r"|(经济|贸易|出口|进口|关税|投资|财政|预算|税收|债务|货币|奈拉|塞地|"
     r"央行|货币政策|利率|通胀率|GDP|经济增长|"
     r"能源|石油|天然气|炼油|管道|"
     r"矿产|矿业|锂|钴|铀|铝土|锰|铁矿|金矿|特许经营|"
-    r"铁路|港口|公路|高速公路|基础设施|招标|中标)", re.I)
+    r"铁路|港口|公路|高速公路|基础设施|招标|中标|"
+    r"工厂|加工厂|水坝|灌溉|农业|水电|光伏|发电|制造业|水泥|钢铁|化肥|冶炼|"
+    r"市场|股息|分红|外包|借款|本地化|电动汽车|矿区|黄金局|"
+    r"国家石油公司|上市|股份)", re.I)
 
 
-def is_africa_social_only(title, title_zh="", summary="", countries=None):
-    """非洲四国的社会危安 / 民生题材，只要不涉中国因素的，一律不收。
+# ── 非法黄金开采 ────────────────────────────────────────────────────────
+# 读者 2026-11-04 单列的一项。加纳的 galamsey 是本地专有词，法语区的
+# orpaillage（手工淘金）同理——不写这两个词，加纳、马里的非法采金稿一条
+# 都进不来，而它们恰恰是中国矿企在当地最常被卷入的争议。
+ILLEGAL_MINING_RX = re.compile(
+    r"\b(illegal (?:gold )?mining|unlicensed mining|artisanal mining|"
+    r"artisanal and small-scale mining|\bASM\b|small-scale miners?|"
+    r"galamsey\w*|gold panners?|illegal miners?|mining pits?|"
+    r"orpaillage|orpailleurs?|exploitation minière illégale|mines? artisanales?|"
+    r"chercheurs? d'or|mercury (?:use|pollution|poisoning)|cyanide)\b"
+    r"|(非法采金|非法采矿|非法开采|盗采|私采|淘金|手工采矿|手工采金|小规模采矿|"
+    r"矿难|矿坑|水银|汞污染|氰化物)", re.I)
 
-    只在条目属于 ng / ne / ml / gh 时生效。周边国家模块保持全量——那是读者
-    2026-10-26 明确要求过的，不能顺手一起收紧。
+# 政治性国防：政变、军政府、军购、国防预算、军事合作、边境安全。
+# 刻意**不含**纯战术动作（空袭、进攻、清剿）——那是安全事件，读者这一轮
+# 只列了恐怖组织、中石油、政治经济能源矿产三类，没有"国防"。
+# 但政变/军政府/军购本身就是政治与经济，必须留下，否则尼日尔、马里的
+# 政局新闻会被整片删掉。
+DEFENSE_POLICY_RX = re.compile(
+    r"\b(coup|junta|military (?:coup|takeover|rule|government)|"
+    r"defen[cs]e (?:budget|spending|ministry|minister|policy|cooperation)|"
+    r"military (?:budget|spending|cooperation|deal|pact|exercise|drill)|"
+    r"arms? (?:deal|purchase|procurement|import|export|sales?)|"
+    r"weapons? (?:deal|purchase|procurement|shipment)|"
+    r"fighter jets?|warplanes?|warships?|air defen[cs]e|"
+    r"border (?:clash|skirmish|security|patrol|tension)|"
+    r"security forces|armed forces|chief of (?:army|defence|staff))\b"
+    r"|(政变|军政府|国防预算|国防部|军购|军售|军演|军事合作|武器采购|"
+    r"战机|战斗机|军舰|防空|边境冲突|边境安全|安全部队|武装部队|总参谋长)", re.I)
+
+
+def is_africa_off_topic(title, title_zh="", summary="", countries=None):
+    """非洲四国里，非涉华条目只留读者指定的三类，其余一律不收。
+
+    读者 2026-11-04 原话：
+      「非洲四国除了涉及中国的因素外的新闻、动态，我只关心
+        一是涉及 MPLJ、JNIM、ISIS、Lakurawa、EIGS 等组织的新闻、动态；
+        二是涉及中石油在尼日尔项目，比如 CNPC、SORAZ、尼日尔-贝宁石油管道项目；
+        三是涉及非洲四国政治、经济、能源、矿产、非法黄金开采等」
+
+    这是**白名单**，不是黑名单：先看涉华和这三类，都不中才删。
+    上一版（同一天早些时候）用的是"命中社会危安词表才删"，那种写法管不住
+    没被词表覆盖的题材——教师罢工删得掉，一场地方选举的家长里短删不掉。
+    白名单的方向正好相反：不在这三类里，就不属于这个平台该收的东西。
+
+    只在 ng / ne / ml / gh 生效。周边国家模块保持全量——那是读者 2026-10-26
+    明确要求过的，不能顺手一起收紧。
     """
     if not (set(countries or []) & AFR4_CTYS):
         return False
@@ -1841,19 +1893,27 @@ def is_africa_social_only(title, title_zh="", summary="", countries=None):
     if not ttl.strip():
         return False
     blob = ttl + " " + (summary or "")[:200]
-    if CN_RX.search(blob):                 # 涉华：读者的第一优先级
+    if CN_RX.search(blob):                 # 涉华：第一优先级，且已含中石油资产
         return False
-    if TERROR_RX.search(blob):             # 需求三：13 个组织
+    # 涉美（读者 2026-11-04 追加）：「我也关心美国在非洲四国涉及政治、经济、
+    # 能源、矿产、军事等的活动情况」。has_us 只认 U.S./United States/
+    # Washington/Pentagon/White House 这类**指美国的写法**，US_ABBR 已排除
+    # "US$" 金额，US_RX 是大小写敏感的词表（英文代词 "us" 不会命中）。
+    if has_us(blob):
         return False
-    if NIGER_OIL_RX.search(ttl):           # 需求二：尼日尔石油/燃油题材
+    if TERROR_RX.search(blob):             # 一、恐怖组织（英/法/阿/本地语）
         return False
-    if DEFENSE_RX.search(ttl):             # 需求二：国防
+    if NIGER_OIL_RX.search(ttl):           # 二、中石油尼日尔项目
         return False
-    if POLICY_ANCHOR_RX.search(ttl):       # 需求二：政治
+    if POLICY_ANCHOR_RX.search(ttl):       # 三、政治
         return False
-    if ECON_RX.search(ttl):                # 需求二：经济/能源/矿产/通道
+    if ECON_RX.search(ttl):                # 三、经济 / 能源 / 矿产
         return False
-    return bool(SOCIAL_HARDSHIP_RX.search(ttl))
+    if ILLEGAL_MINING_RX.search(ttl):      # 三、非法黄金开采
+        return False
+    if DEFENSE_POLICY_RX.search(ttl):      # 三、政治（政变 / 军政府 / 军购）
+        return False
+    return True
 
 
 def is_off_scope(title, title_zh="", summary=""):
@@ -4461,19 +4521,18 @@ if _crime:
     for _x in _crime[:10]:
         print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
 
-# 社会危安 / 民生：非洲四国只留涉华的（读者 2026-11-04 新口径）。
+# 非洲四国：非涉华条目只留三类（读者 2026-11-04 白名单）。
 # 与 is_off_scope 分开两段，是因为范围不同：这一段只作用于 ng/ne/ml/gh，
-# 周边国家模块保持全量。同一条条目可能同时被两段命中，后一段会自己跳过
-# 已经不在列表里的对象（按 id 过滤，幂等）。
-_afr_social = [x for x in news + social
-               if is_africa_social_only(x.get("title"), x.get("title_zh"),
-                                        x.get("summary"), x.get("country"))]
-if _afr_social:
-    _sd = {id(x) for x in _afr_social}
-    news = [n for n in news if id(n) not in _sd]
-    social = [s for s in social if id(s) not in _sd]
-    print("africa social/hardship dropped (no China): %d" % len(_afr_social))
-    for _x in _afr_social[:10]:
+# 周边国家模块保持全量。两段按 id 过滤，幂等，同一条被两段命中也没关系。
+_afr_off = [x for x in news + social
+            if is_africa_off_topic(x.get("title"), x.get("title_zh"),
+                                   x.get("summary"), x.get("country"))]
+if _afr_off:
+    _od = {id(x) for x in _afr_off}
+    news = [n for n in news if id(n) not in _od]
+    social = [s for s in social if id(s) not in _od]
+    print("africa off-topic dropped (not China / not the 3 beats): %d" % len(_afr_off))
+    for _x in _afr_off[:12]:
         print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
 
 # Third-country sweep, applied at the END for the same reason: the entry-point
