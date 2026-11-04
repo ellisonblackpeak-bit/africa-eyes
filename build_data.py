@@ -57,14 +57,20 @@ CST = timezone(timedelta(hours=8))
 # aged out at WINDOW_DAYS. Without the pool the page would empty out every run.
 FETCH_DAYS = 3
 WINDOW_DAYS = 3
-# Two narrow exceptions to WINDOW_DAYS, both requested by name (2026-10-22).
-# The Niger oil complex and China-interest risk events are RARE — the whole
-# Niger oil beat produced two usable items in the 3-day window, and the fuel
-# shortage cluster (export ban, queues in Niamey) was 10-18, four days back.
-# A strict 3-day window therefore showed an empty beat most days, which is what
-# the reader was seeing. These assets and events keep a longer history; every
-# card still carries its real date, so nothing is passed off as current.
-OIL_DAYS = 21        # Niger oil complex: CNPC / SORAZ / Agadem / pipeline / fuel
+# NO exceptions to WINDOW_DAYS (revised 2026-11-04).
+#
+# Two longer windows used to exist here, both added 2026-10-22 so that the rare
+# Niger oil and China-risk beats would not show empty: OIL_DAYS = 21 for the
+# CNPC / SORAZ / Agadem / pipeline cluster, RISK_DAYS = 14 for Chinese nationals
+# kidnapped or arrested. The reader has now ruled them out by name —
+# "新闻实效性没有在三天以内，有的内容已经超过了3天有效期" — and he is right:
+# on the 2026-11-04 build, 43 of 399 news cards were past three days and the
+# oldest was 15.8 days old (the Niger fuel-shortage cluster). A card dated two
+# weeks back sitting in a feed labelled 近 3 日 is exactly the mismatch he saw.
+#
+# An empty beat is the honest outcome when nothing happened in three days. The
+# page already explains an empty layer in words, which is better than padding it
+# with a fortnight-old story presented as current.
 
 # Some tier-4 items bypass the cap entirely.
 #
@@ -95,7 +101,8 @@ NIGER_OIL_RX = re.compile(
     r"\brefiner(?:y|ies)\b|\bcrude\b|"
     r"中石油|中石化|津德尔|索拉兹|阿加德姆|尼贝管道|尼日尔-贝宁|"
     r"炼油厂|输油管道|油井|井喷|燃油|汽油|柴油|燃料短缺|石油部|油气", re.I)
-RISK_DAYS = 14       # Chinese nationals kidnapped, arrested, killed, fined
+# RISK_DAYS used to give Chinese-national kidnap/arrest stories a 14-day window.
+# Removed with OIL_DAYS on 2026-11-04 — see the note at the top of this block.
 
 # Ceiling for the unfoldable article body, in characters. 4000 cut long-form
 # stories roughly in half, so the 展开全文 panel ended mid-article; 12000 holds a
@@ -2733,8 +2740,8 @@ for fn in news_files:
         })
 
 # ─────────────── carry-over pool ───────────────
-# Items collected on an earlier run are re-admitted here, so the page shows a
-# 5-day archive while each fetch only reaches 3 days back. The pool stores the
+# Items collected on an earlier run are re-admitted here, so the page keeps a
+# rolling archive while each fetch only reaches 3 days back. The pool stores the
 # fully processed record (including its Chinese fields), so re-admitting an item
 # costs nothing — its translations are already attached and the translation
 # queue skips anything that carries a _zh slot.
@@ -2782,15 +2789,10 @@ for _k, _item in _pool_in.items():
         _dt = datetime.fromtimestamp(_item["_dt"], timezone.utc)
     except Exception:
         continue
-    # Extended window for the two narrow exceptions. Everything else still
-    # ages out at WINDOW_DAYS.
-    _keep_days = WINDOW_DAYS
-    _probe = (_item.get("title") or "") + " " + (_item.get("title_zh") or "")
-    if NIGER_OIL_RX.search(_probe) and "ne" in (_item.get("country") or []):
-        _keep_days = OIL_DAYS
-    elif _item.get("riskHit"):
-        _keep_days = RISK_DAYS
-    if _dt < now_utc - timedelta(days=_keep_days):
+    # One window, no exceptions (2026-11-04). The oil/risk extensions that used
+    # to live here put 15-day-old cards into a feed labelled 近 3 日.
+    if _dt < now_utc - timedelta(days=WINDOW_DAYS):
+        expired_from_pool += 1
         continue
     # Re-age against THIS run's clock; the stored value came from an older one.
     _item["ageDays"] = round(max(0.0, (now_utc - _dt).total_seconds() / 86400.0), 2)
@@ -3169,8 +3171,7 @@ if _gate_dropped:
 print("relevance gate: kept %d, dropped %d (%.1f%%) | %s"
       % (len(news), len(_gate_dropped),
          100.0 * len(_gate_dropped) / max(1, len(news) + len(_gate_dropped)),
-         " ".join("%s=%d" % (k, _gate_reasons[k])
-                  for k in ("G1", "G2", "G3", "G4", "G5", "G6", "G7", "DROP"))))
+         " ".join("%s=%d" % (k, v) for k, v in sorted(_gate_reasons.items()))))
 
 # ─────────────── volume cap ───────────────
 # A WordPress RSS feed publishes everything its newsroom writes, so a free-source
@@ -4385,10 +4386,70 @@ with io.open(QUEUE_PATH, "w", encoding="utf-8") as fh:
     json.dump(sorted(queue.values(), key=lambda x: (x["group"], x["field"], x["key"])),
               fh, ensure_ascii=False, indent=1)
 
+# ─────────────── final age gate: nothing past WINDOW_DAYS leaves this file ──
+# The reader's two complaints on 2026-11-04 are the same bug seen from two sides:
+#   "新闻实效性没有在三天以内，有的内容已经超过了3天有效期"
+#   "抓取到的新闻、动态在这个平台上展示三天后不会自动删除"
+# Both say one thing — age must be enforced at the point of publication, not
+# only at the point of collection.
+#
+# Every earlier check is upstream of a filter that can re-admit an item: the
+# carry-over pool, the second news.sort(), the dedup collapse (which merges a
+# stale copy with a fresh one and can keep the stale timestamp), and the social
+# pool all run after the entry-point window test. So this gate is deliberately
+# the LAST thing before the pool write and the data.js write. Whatever route an
+# item took, if it is older than WINDOW_DAYS right now, it does not ship.
+#
+# Items with no usable timestamp are dropped rather than guessed at: without a
+# date there is no way to show the reader the piece is current, and a stale
+# story presented as fresh is worse than a gap.
+_age_cut = now_utc - timedelta(days=WINDOW_DAYS)
+_age_drop_n = _age_drop_s = 0
+
+
+def _item_ts(x, key):
+    try:
+        return float(x.get(key))
+    except (TypeError, ValueError):
+        return None
+
+
+_n_keep = []
+for _n in news:
+    _t = _item_ts(_n, "_dt")
+    if _t is None or _t < _age_cut.timestamp():
+        _age_drop_n += 1
+        continue
+    _n["ageDays"] = round(max(0.0, (now_utc.timestamp() - _t) / 86400.0), 2)
+    _n_keep.append(_n)
+news = _n_keep
+
+_s_keep = []
+for _s in social:
+    _t = _item_ts(_s, "_ts")
+    if _t is None or _t < _age_cut.timestamp():
+        _age_drop_s += 1
+        continue
+    _s["ageDays"] = round(max(0.0, (now_utc.timestamp() - _t) / 86400.0), 2)
+    _s_keep.append(_s)
+social = _s_keep
+if _age_drop_n or _age_drop_s:
+    print("age gate (>%dd): dropped %d news, %d social"
+          % (WINDOW_DAYS, _age_drop_n, _age_drop_s))
+_over = [x for x in news + social if (x.get("ageDays") or 0) > WINDOW_DAYS]
+if _over:
+    # Should be unreachable. Re-filter instead of asserting: a crash here would
+    # leave the whole site on yesterday's snapshot, which is a worse failure than
+    # dropping the stragglers.
+    print("WARNING age gate missed %d item(s); re-filtering" % len(_over))
+    _bad = {id(x) for x in _over}
+    news = [x for x in news if id(x) not in _bad]
+    social = [x for x in social if id(x) not in _bad]
+
 # ─────────────── persist the carry-over pool ───────────────
 # Written here, after the translation step, so every stored record already
 # carries its Chinese fields — re-admitting it next run costs no translation.
-# Nothing older than WINDOW_DAYS is kept: the pool is the 5-day archive, not an
+# Nothing older than WINDOW_DAYS is kept: the pool is a rolling archive, not an
 # ever-growing store.
 _pool_new = {"news": {}, "social": {}}
 for _n in news:

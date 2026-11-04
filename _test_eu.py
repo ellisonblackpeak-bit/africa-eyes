@@ -39,10 +39,12 @@ CTY = ns["CTY_RX"]; ZH = ns["zh_cty_hits"]; TOPIC = ns["EU_TOPIC_RX"]
 TERROR = ns["terror_hit"]; DOM = ns["DOMAIN_CTY"]
 
 fail = 0
+total = 0
 
 
 def check(label, got, want, text):
-    global fail
+    global fail, total
+    total += 1
     ok = got == want
     if not ok:
         fail += 1
@@ -132,5 +134,5 @@ for t in [
 ]:
     check("CN_ASSET(负)", bool(ASSET.search(t)), False, t)
 
-print("\n%d 项，%d 失败" % (0, fail) if not fail else "\n%d 失败" % fail)
+print("\n%d 项，%d 失败" % (total, fail))
 sys.exit(1 if fail else 0)

@@ -809,6 +809,41 @@ if("serviceWorker" in navigator){
 (function(){
   var D = window.SITE_DATA || null;
   var PAGE = 12;
+
+  /* ── age gate, client side ───────────────────────────────────────────────
+     build_data.py already refuses to ship anything past windowDays and that is
+     the authoritative cut. This is the second lock, for the one case the build
+     cannot cover: the page is a snapshot. A phone left open keeps whatever it
+     loaded, and the poll only swaps the payload when the build stamp moves — so
+     a card could sit on screen into its fourth day purely because nobody
+     reloaded. The reader saw exactly that ("展示三天后不会自动删除").
+     Age is therefore re-tested against the DEVICE clock every time a payload
+     arrives AND on every poll tick, so expiry is time-driven, not reload-driven.
+     Items with no usable timestamp are dropped, not guessed at. */
+  var WDAYS = 3;
+  function tsOf(it){
+    if(typeof it._dt==='number') return it._dt;
+    if(typeof it._ts==='number') return it._ts;
+    var t = new Date(it.published||it.postedAt||0).getTime()/1000;
+    return isNaN(t) ? 0 : t;
+  }
+  function trimAged(obj){
+    if(!obj) return obj;
+    if(typeof obj.windowDays==='number' && obj.windowDays>0) WDAYS = obj.windowDays;
+    var nowS = Date.now()/1000, cut = nowS - WDAYS*86400;
+    ['news','social'].forEach(function(k){
+      if(!obj[k] || !obj[k].length) return;
+      obj[k] = obj[k].filter(function(it){
+        var t = tsOf(it);
+        if(!(t > 0) || t < cut) return false;
+        it.ageDays = Math.round(Math.max(0, (nowS - t)/86400)*10)/10;
+        return true;
+      });
+    });
+    return obj;
+  }
+  trimAged(D);
+
   /* Static snapshot mode. The library-hosted build inlines the data and has no
      backend, so the poll loop and the two live-search tabs are switched off
      instead of firing requests that can only 404. */
@@ -1854,6 +1889,15 @@ if("serviceWorker" in navigator){
   function refreshFresh(){
     var el=document.querySelector('.fresh');
     if(el) el.textContent=freshText();
+    /* Re-apply the age gate on every tick, not only when a new build lands:
+       an app left open overnight has to lose yesterday's cards by itself. Only
+       repaint when something actually expired, so reading position survives. */
+    if(D){
+      var before=(D.news||[]).length+(D.social||[]).length;
+      trimAged(D);
+      var after=(D.news||[]).length+(D.social||[]).length;
+      if(after<before){ var _k=anchorKey(); render(); restoreAnchor(_k); }
+    }
   }
 
   /* Cheap check first: /version returns a few dozen bytes, so a minute-by-minute
@@ -1903,6 +1947,7 @@ if("serviceWorker" in navigator){
         if(m[1]===lastGen){ refreshFresh(); return; }   // same build: just re-age the stamp
         var nd=parseData(t);
         if(!nd) return;
+        trimAged(nd);
         var wasTop=window.pageYOffset<80, key=anchorKey();
         D=nd; lastGen=m[1];
         chrome(); render();
