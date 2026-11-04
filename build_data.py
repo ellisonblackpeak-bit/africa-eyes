@@ -231,8 +231,36 @@ CN_RX = re.compile(r"""(
 # francophone story about a Chinese project in Niger was neither 涉华 nor
 # exempt from the local-crime filter, so it was dropped twice over.
 CN_RX_INTL = re.compile(
-    r"(chinois|chinoise|chinoises|pékin|pekin|"
-    r"ƙasar\s*sin|\bsin\b(?!\s*-)|"                 # Hausa: Ƙasar Sin
+    # ── 中文 ──────────────────────────────────────────────────────────────
+    # 2026-11-04 补：CN_RX 的英文表里没有任何中文词，所以「中资企业工地发生
+    # 火灾」这类标题在 CN_RX 上是**不命中**的——它当时能留下来，靠的是没被
+    # 社会危安词表命中，纯属侥幸。一旦标题里出现"火灾/事故"，就会被当成
+    # 不涉华的民生新闻删掉。中文涉华词必须进这张表。
+    r"(中国|中方|中企|中国企业|中国公司|华人|华侨|中资|北京|"
+    r"中石油|中石化|中海油|中铁|中交|中电建|中国港湾|中国路桥|"
+    r"孔子学院|中国公民|中国工人|中国工程|中国项目|中国投资|中国贷款|"
+    # ── 法语 ──────────────────────────────────────────────────────────────
+    # 尼日尔、马里、加纳部分媒体的工作语言。chinois/chinoise 覆盖形容词，
+    # franco-chinois / sino-malien 这类复合词由连字符前的部分命中。
+    r"chinois|chinoise|chinoises|chinoiserie|pékin|pekin|"
+    # ── 豪萨语 Hausa（尼日利亚北部 + 尼日尔）──────────────────────────────
+    # Ƙasar Sin = 中国；Sin 单独用也指中国。⚠ \bsin\b 会误伤英语的 "sin"
+    # （宗教语境），但那方向是"多保留"——一条宗教稿被当成涉华，最多是没被
+    # 社会危安过滤器删掉，不会错杀真新闻。
+    r"ƙasar\s*sin|\bsin\b(?!\s*[-'])|"
+    # ── 约鲁巴语 Yoruba（尼日利亚西南）────────────────────────────────────
+    r"ṣáínà|ṣaina|saina|"
+    # ── 伊博语 Igbo（尼日利亚东南）────────────────────────────────────────
+    r"chaịna|chaina|"
+    # ── 契维语 Twi / 阿肯语 Akan（加纳）──────────────────────────────────
+    r"kyina|"
+    # ── 埃维语 Ewe（加纳东南）─────────────────────────────────────────────
+    r"tsina|"
+    # ── 班巴拉语 Bambara（马里）──────────────────────────────────────────
+    r"\bsini\b|"
+    # ── 阿拉伯语（萨赫勒北部通用书写）─────────────────────────────────────
+    r"الصين|"
+    # ── 其他既有语种 ──────────────────────────────────────────────────────
     r"중국|중국인|베이징|"                            # Korean
     r"တရုတ်|"                                       # Burmese
     r"चीन|चीनी|"                                     # Hindi / Nepali
@@ -456,7 +484,13 @@ TERROR_RX = re.compile(
     r"\bmouvement\s+arabe\s+de\s+l'?azawad|"
     r"\bislamic\s+state\s+(?:sahel|sahara)\s+province|"
     r"支持伊斯兰与穆斯林组织|伊斯兰国西非省|伊斯兰国萨赫勒省|伊斯兰国|博科圣地|"
-    r"基地组织马格里布|马格里布基地组织|阿扎瓦德|图阿雷格|恐怖组织|圣战", re.I)
+    r"基地组织马格里布|马格里布基地组织|阿扎瓦德|图阿雷格|恐怖组织|圣战|"
+    # "terrorism" 本身也要算。2026-11-04 的审计里有一条
+    # 「美国列入观察名单一年后，恐怖主义仍然存在，流离失所的尼日利亚人仍困于
+    # 肮脏环境」被新加的社会危安规则误删——它命中 IDP（流离失所），但讲的
+    # 是美方反恐观察名单与安全形势，是安全议题，不是民生稿。
+    r"恐怖主义|反恐|terrorism|terrorist\s+(?:groups?|attacks?|threat)|"
+    r"counter-?terror\w*", re.I)
 # "FLA" is kept out of TERROR_RX because "Fla." is the US postal abbreviation for
 # Florida, and a Miami court story would otherwise be counted as Azawad activity.
 FLA_RX = re.compile(r"\bfla\b(?!\.)", re.I)
@@ -1617,7 +1651,12 @@ CN_ANCHOR_RX = re.compile(
     r"|(中国|中方|中企|中国企业|中国公司|华人|华侨|中资|北京|华为|中石油|"
     r"中石化|中海油|中铁|中交|中电建|中国港湾|中国路桥|孔子学院|中国公民|"
     r"中国工人|中国工程|中国项目|中国投资|中国贷款)"
-    r"|(chinois|chinoise|chinoises|pékin|중국|တရုတ်|चीन|китай|китая)", re.I)
+    # 非中英文本的涉华写法，直接复用 CN_RX_INTL（法语 / 豪萨语 / 约鲁巴语 /
+    # 伊博语 / 契维语 / 埃维语 / 班巴拉语 / 阿拉伯语 / 韩 / 缅 / 印 / 俄）。
+    # 这一段是 2026-11-04 加的：读者要求涉华判定必须覆盖英语、法语和四国本土
+    # 语言。少了它，一条豪萨语写的"中资矿场遇袭"会被 is_off_scope 当成普通
+    # 本地犯罪删掉——那是错杀，比漏删严重。
+    r"|(?:%s)" % CN_RX_INTL.pattern, re.I)
 SEC_EVENT_RX = re.compile(
     r"\b(Boko Haram|ISWAP|JNIM|ISGS|ISIS|al-?Qaeda|bandits?|gunmen|militants?|"
     r"insurgents?|terroris\w*|jihadis\w*|soldiers?|troops|army|military|navy|"
@@ -1694,6 +1733,127 @@ ARMED_ACTOR_RX = re.compile(
     r"\b(Boko Haram|ISWAP|JNIM|ISGS|ISIS|al-?Qaeda|bandits?|gunmen|militants?|"
     r"insurgents?|attack\w*|ambush|airstrike|bomb\w*|massacre)\b"
     r"|(博科圣地|伊斯兰国|武装分子|枪手|匪徒|绑匪|袭击|空袭|伏击|爆炸|屠杀)", re.I)
+
+
+# ── 社会危安 / 民生：非洲四国只要涉华的 ──────────────────────────────────
+# 读者 2026-11-04 原话：「非洲四国发生不涉及中国因素的社会危安事件、民生问题等
+# 新闻、动态我不需要。我只需要涉及中国因素的发生在非洲四国的社会危安等新闻」。
+#
+# 这条不是"再删一点犯罪新闻"——犯罪类已经由 LOCAL_CRIME_RX 处理掉了。它要删的
+# 是**剩下那一半**：事故、灾害、停电停水、物价粮价、罢工失业、医院学校。这些
+# 既不犯罪也不民事，以前的 SEC_EVENT_RX 反而会放过它们（一个 "explosion" 就把
+# 油罐车爆炸豁免成了安全事件）。
+#
+# 但需求二仍然要"国防、安全、能源、矿产、通道、政治、经济"，需求三仍然要那
+# 13 个恐怖组织。所以判定顺序是：先看是不是涉华/涉恐/国防/政治/经济/能源，
+# 都不是，才按社会危安删。宁可漏删，不可错杀。
+#
+# ⚠ 中文词一律不加 \b（汉字属 \w，\b 在中文里永不匹配，本项目已踩过三次）。
+AFR4_CTYS = {"ng", "ne", "ml", "gh"}
+
+SOCIAL_HARDSHIP_RX = re.compile(
+    # 事故
+    r"\b(road (?:crash|accident)|auto crash|car crash|collision|overturn\w*|"
+    r"capsiz\w*|drown\w*|stampede|building collapse|collapse[ds]?|"
+    r"fire outbreak|inferno|electrocut\w*|"
+    r"(?:tanker|gas|fuel|petrol|diesel)\s+(?:truck\s+)?explosion|"
+    r"explosion at (?:a )?(?:filling station|petrol station|market)|"
+    r"tanker explosion)\b"
+    # 灾害
+    r"|\b(flood\w*|landslides?|mudslides?|earthquakes?|windstorm|rainstorm|"
+    r"heatwave|heat wave|drought|famine|desertification)\b"
+    # 治安个案（不含武装袭击——那是安全事件）
+    r"|\b(armed robbery|robbery|burglary|housebreaking|pickpocket\w*|"
+    r"cult clash|cultists?|ritual kill\w*|mob justice|jungle justice|lynch\w*)\b"
+    # 民生
+    r"|\b(cost of living|food prices?|food inflation|price (?:hike|increase|surge)|"
+    r"fuel queues?|fuel scarcity|petrol queues?|blackout|power outage|"
+    r"electricity (?:shortage|cuts?|rationing)|water shortage|water scarcity|"
+    r"unemployment|jobless\w*|labou?r strike|workers'? strike|"
+    r"subsidy (?:removal|cut)|poverty|hunger|malnutrition|"
+    r"hospital (?:shortage|closure)|school (?:closure|shutdown)|"
+    r"IDP camps?)\b"
+    # 法语（尼日尔、马里的工作语言）。读者 2026-11-04 要求"涉华词汇翻译成
+    # 英语、法语和四国本土语言"，反向也成立：判定"社会危安"同样要看懂法语，
+    # 否则一条 "Un camion citerne explose à Niamey" 会从英文表底下溜过去。
+    r"|\b(accidents?|explos\w*|incendi\w*|inondations?|crues?|sécheresse|"
+    r"camion\s+citerne|effondrement|naufrage|noyade|bousculade|"
+    r"pénurie\s+d['’]eau|coupure\s+d['’]électricité|"
+    r"pénurie\s+de\s+carburant|cherté\s+de\s+la\s+vie|hausse\s+des\s+prix|"
+    r"chômage|grèves?|pauvreté|famine|"
+    r"braquage|vol\s+à\s+main\s+armée|meurtres?|assassinats?)\b"
+    # 中文
+    r"|(车祸|交通事故|撞车|相撞|翻车|侧翻|翻船|沉船|溺水|触电|踩踏|"
+    r"火灾|失火|坍塌|倒塌|楼房倒塌|建筑倒塌|"
+    r"油罐车爆炸|加油站爆炸|燃气爆炸|"
+    r"洪水|洪灾|水灾|山体滑坡|泥石流|地震|干旱|饥荒|沙尘暴|"
+    r"抢劫|入室盗窃|邪教|私刑|祭品|"
+    r"物价|粮价|食品价格|生活成本|"
+    r"停电|断电|限电|电力短缺|停水|缺水|供水不足|"
+    r"失业|罢工|补贴取消|贫困|饥饿|营养不良|"
+    r"医院缺药|停课|流离失所|难民营)", re.I)
+
+# 国防/军事：命中即豁免（需求二要）。刻意**不含**裸 army / military / troops
+# ——"军队协助洪灾救援"是民生，不该因为它写了 army 就变成国防新闻。
+DEFENSE_RX = re.compile(
+    r"\b(defen[cs]e (?:policy|budget|ministry|minister|forces?|spending)|"
+    r"military (?:budget|spending|cooperation|deal|pact|exercise|drill|junta)|"
+    r"arms? (?:deal|purchase|procurement|import|export|sales?)|"
+    r"weapons? (?:deal|purchase|procurement|shipment)|"
+    r"procure\w* (?:fighter|jet|drone|missile|warship|aircraft)|"
+    r"fighter jets?|warplanes?|warships?|missiles?|air defence|air defense|"
+    r"border (?:clash|skirmish|security|patrol|tension)|"
+    r"coup|junta|military (?:coup|takeover|rule)|"
+    r"counter-?insurgen\w*|military (?:operation|offensive|strikes?)|"
+    r"airstrikes?|air strikes?|drone strikes?|"
+    r"security forces|armed forces|chief of (?:army|defence|staff))\b"
+    r"|(国防|军费|军购|军售|军演|武器采购|战机|战斗机|军舰|导弹|防空|"
+    r"边境冲突|边境安全|政变|军政府|反恐行动|军事行动|军事合作|"
+    r"空袭|无人机袭击|安全部队|武装部队|总参谋长)", re.I)
+
+# 经济/能源/矿产/通道：命中即豁免（需求二要）。
+ECON_RX = re.compile(
+    r"\b(econom\w*|trade|exports?|imports?|tariffs?|investment|investors?|"
+    r"fiscal|budget|revenue|tax(?:es|ation)?|debt|Eurobond|"
+    r"currency|naira|cedi|CFA franc|central bank|monetary policy|interest rate|"
+    r"inflation rate|GDP|economic growth|"
+    r"energy|oil|petroleum|gas|LNG|refinery|pipeline|"
+    r"mining|minerals?|lithium|cobalt|uranium|bauxite|manganese|iron ore|"
+    r"gold mine|concession|"
+    r"railway|rail line|port|harbour|harbor|highway|expressway|"
+    r"infrastructure|tender|contract award)\b"
+    r"|(经济|贸易|出口|进口|关税|投资|财政|预算|税收|债务|货币|奈拉|塞地|"
+    r"央行|货币政策|利率|通胀率|GDP|经济增长|"
+    r"能源|石油|天然气|炼油|管道|"
+    r"矿产|矿业|锂|钴|铀|铝土|锰|铁矿|金矿|特许经营|"
+    r"铁路|港口|公路|高速公路|基础设施|招标|中标)", re.I)
+
+
+def is_africa_social_only(title, title_zh="", summary="", countries=None):
+    """非洲四国的社会危安 / 民生题材，只要不涉中国因素的，一律不收。
+
+    只在条目属于 ng / ne / ml / gh 时生效。周边国家模块保持全量——那是读者
+    2026-10-26 明确要求过的，不能顺手一起收紧。
+    """
+    if not (set(countries or []) & AFR4_CTYS):
+        return False
+    ttl = (title or "") + " " + (title_zh or "")
+    if not ttl.strip():
+        return False
+    blob = ttl + " " + (summary or "")[:200]
+    if CN_RX.search(blob):                 # 涉华：读者的第一优先级
+        return False
+    if TERROR_RX.search(blob):             # 需求三：13 个组织
+        return False
+    if NIGER_OIL_RX.search(ttl):           # 需求二：尼日尔石油/燃油题材
+        return False
+    if DEFENSE_RX.search(ttl):             # 需求二：国防
+        return False
+    if POLICY_ANCHOR_RX.search(ttl):       # 需求二：政治
+        return False
+    if ECON_RX.search(ttl):                # 需求二：经济/能源/矿产/通道
+        return False
+    return bool(SOCIAL_HARDSHIP_RX.search(ttl))
 
 
 def is_off_scope(title, title_zh="", summary=""):
@@ -4299,6 +4459,21 @@ if _crime:
     social = [s for s in social if id(s) not in _cd]
     print("off-scope local dropped: %d" % len(_crime))
     for _x in _crime[:10]:
+        print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
+
+# 社会危安 / 民生：非洲四国只留涉华的（读者 2026-11-04 新口径）。
+# 与 is_off_scope 分开两段，是因为范围不同：这一段只作用于 ng/ne/ml/gh，
+# 周边国家模块保持全量。同一条条目可能同时被两段命中，后一段会自己跳过
+# 已经不在列表里的对象（按 id 过滤，幂等）。
+_afr_social = [x for x in news + social
+               if is_africa_social_only(x.get("title"), x.get("title_zh"),
+                                        x.get("summary"), x.get("country"))]
+if _afr_social:
+    _sd = {id(x) for x in _afr_social}
+    news = [n for n in news if id(n) not in _sd]
+    social = [s for s in social if id(s) not in _sd]
+    print("africa social/hardship dropped (no China): %d" % len(_afr_social))
+    for _x in _afr_social[:10]:
         print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
 
 # Third-country sweep, applied at the END for the same reason: the entry-point
