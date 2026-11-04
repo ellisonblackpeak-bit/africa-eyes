@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Ba ni da burin kai wa Iran hari a nan kusa - Trump",
+   "title": "Yaƙin Iran ne dalilin mummunar asara da muka yi a zaɓen rabin wa'adi - Trump",
    "url": "https://www.bbc.co.uk/hausa/live/c8kge73gvd4nt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku abubuwan da ke faruwa a Najeriya da sauran sassan duniya na ranar Laraba 4 ga watan Nuwamba, 2026.",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Lalurar da ke hana mutum barcin sama da awa huɗu a rana",
+   "url": "https://www.bbc.com/hausa/articles/cqp8gd2y75xjo?at_medium=RSS&at_campaign=rss",
+   "content": "Wasu na buƙatar sa'o'i bakwai zuwa tara na barci, amma duk da haka akwai wasu mutane da suke kasancewa cikin ƙoshin lafiya ko da ba sa samun isasshen barci.",
+   "published_date": "Wed, 04 Nov 2026 18:33:10 GMT",
    "score": 0.6
   },
   {
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Garin da mutane ke girmama kaji",
-   "url": "https://www.bbc.com/hausa/articles/cr78pgg6ev05o?at_medium=RSS&at_campaign=rss",
-   "content": "A wannan gari kaji ne ke watayawa yadda suka ga dama, suna yawo har zuwa bankuna da kuma haifar da cunkoson ababen hawa a kan tituna.",
-   "published_date": "Tue, 03 Nov 2026 15:42:10 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/c9rky8d5r821t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 26 zuwa Litinin 01 ga Nuwamba 2026.",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Garin da mutane ke girmama kaji",
+   "url": "https://www.bbc.com/hausa/articles/cr78pgg6ev05o?at_medium=RSS&at_campaign=rss",
+   "content": "A wannan gari kaji ne ke watayawa yadda suka ga dama, suna yawo har zuwa bankuna da kuma haifar da cunkoson ababen hawa a kan tituna.",
+   "published_date": "Tue, 03 Nov 2026 15:42:10 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cw5yn7d3mvd9o?at_medium=RSS&at_campaign=rss",
    "content": "Damuwa kan goyon bayan da Amurka ke bai wa Isra'ila yanzu haka yana kara wa masu kada kuri'a kwarin gwiwa a bangarorin biyu na wannan batu, a daya daga cikin zabukan da suka fi samun karbuwa a zaben tsakiyar wa'adi na Amurka.",
    "published_date": "Sun, 01 Nov 2026 03:59:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Yan uwan da aka zubar a jaka suna jarirai sun sake haɗuwa bayan shekaru",
-   "url": "https://www.bbc.com/hausa/articles/cm8xzw1lz8w8o?at_medium=RSS&at_campaign=rss",
-   "content": "David McBride ya shafe shekaru da dama yana neman mahaifiyarsa bayan an yi watsi da ita tun yana jariri. Madadin haka, ya sami 'yar'uwa da ɗan'uwa.",
-   "published_date": "Sun, 01 Nov 2026 04:00:25 GMT",
    "score": 0.6
   }
  ],

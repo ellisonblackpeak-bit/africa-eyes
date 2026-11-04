@@ -2,17 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "South Korea exports nearly double in October on AI investment boom | The Asahi Shimbun: Breaking News, Japan News and Analysis",
-   "url": "https://www.asahi.com/ajw/articles/17016463",
-   "snippet": "South Korea’s exports for the January-October period totaled $930 ​billion. Annual exports of more than $1 trillion will make South Korea the fourth country in the world to reach the ⁠milestone, after the US, China and Germany.\n\nOverseas sales of semiconductors jumped 259.4% in October to $56.44 billion, as prices ⁠and volume remained high on continued facility investment by global big tech firms ",
-   "published": "Mon, 02 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Restrictive policy destabilizes industry and supply chains - Chinadaily.com.cn",
-   "url": "https://global.chinadaily.com.cn/a/202611/04/WS6aeb261ce4b0aac4cf1ee378.html",
-   "snippet": "Washington wants the investment, the jobs and the technological capacity that SK Hynix could bring to New York. But it is reluctant to permit the company to generate the resources needed to make that investment commercially viable. New York officials are understandably anxious, particularly with an investment tax credit due to expire at the end of the year. For the ROK company, the uncertainty rai",
-   "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+   "title": "GT Voice: Why resisting US pressure matters for South Korean chipmakers - Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1373651.shtml",
+   "snippet": "China's value also lies in its mature industrial ecosystem. Its extensive supplier networks and manufacturing capabilities have long supported South Korean chipmakers' global operations. This has been a mutually beneficial arrangement, with South Korean companies drawing on China's industrial base while contributing investment to the wider supply chain. [...] Why are these Chinese factories so imp",
+   "published": "Wed, 04 Nov 2026 14:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -26,7 +19,7 @@
    "title": "SK Hynix’s US expansion plans hit snag over China license delays - report",
    "url": "https://au.finance.yahoo.com/news/sk-hynix-us-expansion-plans-192611109.html",
    "snippet": "Vlad Schepkov\n\n2 min read\n\n 000660.KS\n SKHY\n\nInvesting.com -- US officials have delayed approval for American chipmaking equipment that SK Hynix needs to expand production in China, creating obstacles for the South Korean company's plans to build new memory-chip plants in New York, Reuters reported Tuesday citing people familiar with the matter. [...] SK Hynix's Solidigm unit reportedly plans to i",
-   "published": "Tue, 03 Nov 2026 19:00:00 GMT",
+   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -47,14 +40,14 @@
    "title": "EXCLUSIVE: SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
    "url": "https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03",
    "snippet": "US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China, complicating the South Korean",
-   "published": "Tue, 03 Nov 2026 18:00:00 GMT",
+   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "Korea’s Stock Market Crashed $1 Trillion. What Does That Mean for the Global AI Race?",
    "url": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
    "snippet": "Throughout the first half of 2026, foreign investments have flowed out of Asian equities at a record pace — with Korea among the hardest hit. In line with the KOSPI’s crash, in May and June, South Korea’s capital flight (in equities) exceeded $35 billion. On July 28, Korea’s stock market dropped more than 8% during intraday trading, the eighth instance that year. There have been at least 33 days o",
-   "published": "Sun, 01 Nov 2026 17:00:00 GMT",
+   "published": "Sun, 01 Nov 2026 20:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -62,6 +55,13 @@
    "url": "https://www.fdiintelligence.com/content/e0498698-efcb-4778-b60c-d160bd179269",
    "snippet": "Political upheaval in some of Europe's largest destinations for Chinese greenfield investments threatens to change relationships that helped secure",
    "published": "Wed, 04 Nov 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
+   "snippet": "That total is less than half the nearly 24 billion yuan raised in August and down 67% from an all-time-high of 32.8 billion yuan in June, according to data compiled by local investment tracker ITjuzi. The research firm counts deals involving humanoid developers like Unitree and AgiBot, companies that create AI models for robots and the suppliers of components from sensors to dexterous hands. [...]",
+   "published": "Wed, 04 Nov 2026 06:07:48 GMT",
    "source": "tavily"
   }
  ],
