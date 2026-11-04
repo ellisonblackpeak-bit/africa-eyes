@@ -2,7 +2,21 @@
  "success": true,
  "results": [
   {
-   "title": "Democrats projected to flip House of Representatives",
+   "title": "Latest news bulletin | November 4th, 2026 – Morning",
+   "url": "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-morning",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Wed, 04 Nov 2026 07:00:32 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Democrats set to seize control of Congress after long night for Republican party",
+   "url": "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party",
+   "content": "It would give the Democrats a significant check on Trump, potentially allowing the party to investigate his administration and to increase pressure on the White House over its policies.",
+   "published_date": "Wed, 04 Nov 2026 06:57:47 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US midterm elections: Democrats flip US Senate, projected to win Congress",
    "url": "https://www.euronews.com/2026/11/04/live-updates-on-the-2026-midterm-elections-in-the-us",
    "content": "Millions of Americans have cast their votes to elect representatives in the US Senate and the US House of Representatives.",
    "published_date": "Wed, 04 Nov 2026 00:35:24 +0100",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/2026/11/02/taliban-voices-serious-concern-over-us-plans-to-deport-afghans-via-pakistan",
    "content": "Advocacy groups have warned that the removal of former allies and their families could endanger their lives.",
    "published_date": "Mon, 02 Nov 2026 13:52:08 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Skeleton puppets and zombies fill New York’s Halloween parade",
-   "url": "https://www.euronews.com/video/2026/11/02/skeleton-puppets-and-zombies-fill-new-yorks-halloween-parade",
-   "content": "Skeleton puppets, zombies and film characters take over Greenwich Village. Thousands join the 53rd New York Halloween parade, dancing through Manhattan.",
-   "published_date": "Mon, 02 Nov 2026 13:51:30 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Iran says it can reopen Hormuz in two days if US meets conditions",
-   "url": "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions",
-   "content": "Foreign ministry spokesman Esmaeil Baghaei said the timeline shortened from the seven days first proposed in September was “another indication of Iran’s good-faith approach” but that “everything depends” on Washington.",
-   "published_date": "Mon, 02 Nov 2026 12:48:15 +0100",
    "score": 0.6
   }
  ],

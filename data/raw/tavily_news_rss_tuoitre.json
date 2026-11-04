@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Saigontourist Group quảng bá du lịch Việt Nam tại WTM London 2026",
-   "url": "https://tuoitre.vn/saigontourist-group-quang-ba-du-lich-viet-nam-tai-wtm-london-2026-10026110406405813.htm",
-   "content": "Ngày 3-11, Tổng Công ty Du lịch Sài Gòn (Saigontourist Group) phối hợp cùng Vietnam Airlines tổ chức gian hàng chung tại Hội chợ Du lịch Thế giới WTM London 2026, nhằm quảng bá điểm đến Việt Nam, kết nối đối tác và mở rộng nguồn khách quốc tế, đặc biệt từ Anh và châu Âu.",
-   "published_date": "11/4/2026 8:10:00 AM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

@@ -2,10 +2,31 @@
  "success": true,
  "results": [
   {
-   "title": "An ceto wasu mutum takwas da aka yi garkuwa da su a Kaduna",
-   "url": "https://www.bbc.co.uk/hausa/live/c63elkddexj8t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 03/11/2026",
-   "published_date": "",
+   "title": "Abubuwa 6 da za su iya haramta maka yin zaɓe a Najeriya",
+   "url": "https://www.bbc.com/hausa/articles/c6y93w29dxx9o?at_medium=RSS&at_campaign=rss",
+   "content": "Yayin da babban zaɓen Najeriya na 2027 ke ƙara karatowa, masu kaɗa kuri'a na ta ribibi wajen ganin sun karɓi katunan zaɓensu domin samun damar zaɓar ɗan takarar da suke so.",
+   "published_date": "Wed, 04 Nov 2026 04:23:27 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Man United na zawarcin Ait Nouri, Barcelona na harin Hincapie",
+   "url": "https://www.bbc.com/hausa/articles/cxyvrldl8r99o?at_medium=RSS&at_campaign=rss",
+   "content": "Ɗan wasan baya na Manchester City, Rayan Ait-Nouri, ya kasance ɗan wasan da Manchester United ke zawarci, yayin da Barcelona ke nuna sha'awar ɗaukar ɗan wasan baya na Arsenal, Piero Hincapie.",
+   "published_date": "Wed, 04 Nov 2026 04:21:25 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Musulmi na farko da zai iya zama sanata a Amurka",
+   "url": "https://www.bbc.com/hausa/articles/ck1wv1r5gq5lo?at_medium=RSS&at_campaign=rss",
+   "content": "El-Sayed, wanda likita ne wanda bai taa rike mukamin siyasa ba na a tsakiyar wani yakin neman zabe wanda ya haifar da rarrabuwar kawuna saboda bambancin launin fata.",
+   "published_date": "Wed, 04 Nov 2026 05:02:34 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Wani sabon makamin linzami na Rasha da zai iya zama barazana",
+   "url": "https://www.bbc.com/hausa/articles/cqe8lkprxdego?at_medium=RSS&at_campaign=rss",
+   "content": "Makamin linzamin ɗan ƙarami ne kuma mai yiwuwa ba shi da tsada sosai, amma yana da ƙarfin aiki wanda, bisa ga ƙayyadaddun bayanansa da aka sanar, suka sa ya zama makami mai matuƙar hatsari.",
+   "published_date": "Wed, 04 Nov 2026 04:27:28 GMT",
    "score": 0.6
   },
   {
@@ -13,6 +34,13 @@
    "url": "https://www.bbc.com/hausa/articles/cwly0x7mx60vo?at_medium=RSS&at_campaign=rss",
    "content": "Baya ga Tinubu, waɗanne mashahuran ƴan Najeriya ne suka samu damar shiga ɗakin na Ka'aba?",
    "published_date": "Tue, 03 Nov 2026 03:43:20 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "An ceto wasu mutum takwas da aka yi garkuwa da su a Kaduna",
+   "url": "https://www.bbc.co.uk/hausa/live/c63elkddexj8t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 03/11/2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -34,34 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cx240mgrjdzro?at_medium=RSS&at_campaign=rss",
    "content": "Sanarwar wannan kisa na kwamandan za ta iya zama wata babbar koma-baya ga ISWAP, wadda take cikin ƙungiyoyin masu ɗauke da bindiga waɗanda suka fi kai hare-hare a yankin Tafkin Chadi.",
    "published_date": "Tue, 03 Nov 2026 08:16:17 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa 'yan Syria ke ƙara talaucewa tun bayan faɗuwar gwamnatin Assad?",
-   "url": "https://www.bbc.com/hausa/articles/cmly0qe6e5zeo?at_medium=RSS&at_campaign=rss",
-   "content": "Bei za karibu kila kitu, ikiwemo huduma za kijamii na bidhaa muhimu za kila siku, zimepanda. Ongezeko la ghafla la bei za mafuta limechukuliwa na wengi kama ishara kuwa serikali haifahamu hali halisi ya maisha ya wananchi.",
-   "published_date": "Tue, 03 Nov 2026 03:41:31 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Na yi imanin Allah ya amsa addu'ata - Tinubu",
-   "url": "https://www.bbc.co.uk/hausa/live/c98rznxjyxz2t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 02/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa Aljeriya ke tura sojoji zuwa Nijar?",
-   "url": "https://www.bbc.com/hausa/articles/cr89znxl82ewo?at_medium=RSS&at_campaign=rss",
-   "content": "Kasa da wata uku bayan ta miƙa jiragen yaƙi masu saukar ungulu da jiragen saman yaƙi ga Nijar, yanzu Aljeriya na shirin tura sojojinta zuwa ƙasar, wadda mamba ce ta ƙungiyar AES kuma tana da iyaka da ita mai tsawon kusan kilomita 956.",
-   "published_date": "Mon, 02 Nov 2026 17:51:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ko wutar lantarkin Najeriya ta bunƙasa a lokacin Tinubu?",
-   "url": "https://www.bbc.com/hausa/articles/cqwy7l9jdg14o?at_medium=RSS&at_campaign=rss",
-   "content": "A lokuta da dama shugabanni da ƴansiyasa kan yi alƙawuran magance matsalar a lokutan yaƙin neman zaɓe daban-daban.",
-   "published_date": "Mon, 02 Nov 2026 13:14:32 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,34 @@
    "url": "https://www.bbc.com/hausa/articles/c3dxwd77gd59o?at_medium=RSS&at_campaign=rss",
    "content": "Sai dai duk da wadannan nasarori, akwai wasu manyan abubuwa da lambobin yabop da suka kuɓuce masa.",
    "published_date": "Sat, 31 Oct 2026 16:58:12 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa Aljeriya ke tura sojoji zuwa Nijar?",
+   "url": "https://www.bbc.com/hausa/articles/cr89znxl82ewo?at_medium=RSS&at_campaign=rss",
+   "content": "Kasa da wata uku bayan ta miƙa jiragen yaƙi masu saukar ungulu da jiragen saman yaƙi ga Nijar, yanzu Aljeriya na shirin tura sojojinta zuwa ƙasar, wadda mamba ce ta ƙungiyar AES kuma tana da iyaka da ita mai tsawon kusan kilomita 956.",
+   "published_date": "Mon, 02 Nov 2026 17:51:47 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa 'yan Syria ke ƙara talaucewa tun bayan faɗuwar gwamnatin Assad?",
+   "url": "https://www.bbc.com/hausa/articles/cmly0qe6e5zeo?at_medium=RSS&at_campaign=rss",
+   "content": "Bei za karibu kila kitu, ikiwemo huduma za kijamii na bidhaa muhimu za kila siku, zimepanda. Ongezeko la ghafla la bei za mafuta limechukuliwa na wengi kama ishara kuwa serikali haifahamu hali halisi ya maisha ya wananchi.",
+   "published_date": "Tue, 03 Nov 2026 03:41:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Na yi imanin Allah ya amsa addu'ata - Tinubu",
+   "url": "https://www.bbc.co.uk/hausa/live/c98rznxjyxz2t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 02/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Ko wutar lantarkin Najeriya ta bunƙasa a lokacin Tinubu?",
+   "url": "https://www.bbc.com/hausa/articles/cqwy7l9jdg14o?at_medium=RSS&at_campaign=rss",
+   "content": "A lokuta da dama shugabanni da ƴansiyasa kan yi alƙawuran magance matsalar a lokutan yaƙin neman zaɓe daban-daban.",
+   "published_date": "Mon, 02 Nov 2026 13:14:32 GMT",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cw62y5grjvy2o?at_medium=RSS&at_campaign=rss",
    "content": "Yayin da kuke ƙara sabawa da waɗannan atisaye, za ku iya ƙara tsawon lokacin da kuke yi domin samun ƙarin amfani.",
    "published_date": "Sat, 31 Oct 2026 14:04:09 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Tsohon shugaban leƙen asirin Isra’ila ya bayyana dabarun da aka yi amfani da su a Iran",
-   "url": "https://www.bbc.com/hausa/articles/cmy0e2qvzxr2o?at_medium=RSS&at_campaign=rss",
-   "content": "A safiyar ranar 13 ga watan Yuni, 2025, yayin da Isra'ila ta fara kai hare-hare kan Iran a yakin kwanaki 12, an fitar da wani bidiyo mai ɗauke da tambarin hukuma na Mossad, wanda ya nuna jami'an hukumar leƙen asirin suna shirin amfani da kayan aikin soji tare da tura su cikin ƙasar Iran.",
-   "published_date": "Sat, 31 Oct 2026 03:53:42 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Cikakkun sunayen ƴantakarar gwamna na 2027 da INEC ta fitar",
-   "url": "https://www.bbc.com/hausa/articles/c6wydgklw4g7o?at_medium=RSS&at_campaign=rss",
-   "content": "Ƴan Najeriya na ci gaba da tsokaci kan sunayen ƴantakarar gwamna da hukumar zaɓen ƙasar INEc ta fitar domin fafatawa a zaɓen 2027.",
-   "published_date": "Sat, 31 Oct 2026 11:22:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya rage wa Najeriya wajen kafa ƴansandan jihohi?",
-   "url": "https://www.bbc.com/hausa/articles/cm3wv2n7dvwyo?at_medium=RSS&at_campaign=rss",
-   "content": "A wannan mako ne shugaban majalisar dattawan ƙasar, Sanata Godswill Akpabio ya ce majalisun dokokin jihohi 30 ne suka amince da ƙudirin.",
-   "published_date": "Sat, 31 Oct 2026 03:52:59 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Munanan haɗurran jiragen ƙasa 7 da suka fi girgiza duniya",
-   "url": "https://www.bbc.com/hausa/articles/cjr4yp32yez1o?at_medium=RSS&at_campaign=rss",
-   "content": "Lokacin da ka hau jirgin ƙasa, abin da kake fata shi ne ka isa inda za ka cikin ƙoshin lafiya. Wataƙila ka jingina a kujerarka kana kallon kyawawan abubuwan da ke wucewa ta taga, ko kuma kana gudanar da harkokinka, ba tare da tunanin cewa tafiyar na iya rikidewa zuwa bala'i cikin daƙiƙu kaɗan ba.",
-   "published_date": "Sat, 31 Oct 2026 03:54:25 GMT",
    "score": 0.6
   }
  ],

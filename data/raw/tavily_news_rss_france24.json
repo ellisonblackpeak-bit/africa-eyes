@@ -2,6 +2,76 @@
  "success": true,
  "results": [
   {
+   "title": "Midterms: Why is California slower at counting its votes?",
+   "url": "https://www.france24.com/en/video/20261104-midterms-why-is-california-slower-at-counting-its-votes",
+   "content": "California polls have just closed, but results will take longer to come in. Why does the state take longer to count its votes? We discuss this with our guest, Guy Marzorati, political correspondent at KQED in the Bay Area.",
+   "published_date": "Wed, 04 Nov 2026 05:20:17 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US midterms: \"Keeping our fingers crossed\" (Leila Meresman)",
+   "url": "https://www.france24.com/en/video/20261104-us-midterms-keeping-our-fingers-crossed-leila-meresman",
+   "content": "Democrats who once saw the political map as an almost impossible lift are now hopeful that a Senate majority is within reach, even though their path runs through several more conservative states. We discuss this with our guest Leila Meresman, spokesperson of Democrats Abroad France says.",
+   "published_date": "Wed, 04 Nov 2026 05:15:46 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US midterms: Democrats celebrate early victories at a watch party in Los Angeles",
+   "url": "https://www.france24.com/en/video/20261104-us-midterms-democrats-celebrate-early-victories-at-a-watch-party-in-los-angeles",
+   "content": "Our correspondent Wassim Cornet reports from a Democratic watch party in Los Angeles where \"people are opening bottles of champagne\" following the Democrats' first victories in these midterm elections. We also speak with France 24's Jessica Le Masurier, reporting from Detroit, Michigan.",
+   "published_date": "Wed, 04 Nov 2026 05:12:37 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "🔴 Midterms live : Democrats take control of Senate, ending Republican dominance in Washington",
+   "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+   "content": "",
+   "published_date": "Wed, 04 Nov 2026 04:37:39 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "🔴 Midterms live: Texas, Ohio, North and South Carolina... Democrats have already flipped 4 Senate seats",
+   "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+   "content": "",
+   "published_date": "Wed, 04 Nov 2026 04:18:53 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Key US Senate results: Democrats win upper chamber with victories in Texas and Iowa",
+   "url": "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans",
+   "content": "Democrats won control of the Senate in the US midterm elections Tuesday, with initial results showing the party securing shock victories in Texas, Ohio, North and South Carolina, Kansas and Iowa.",
+   "published_date": "Wed, 04 Nov 2026 03:52:19 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US midterms: \"Voters have become increasingly frustrated with President Trump\"",
+   "url": "https://www.france24.com/en/video/20261104-us-midterms-voters-have-become-increasingly-frustrated-with-president-trump",
+   "content": "The polls in these midterm elections suggest that \"this will either be a good night or a historic night for Democrats\". But what is driving this momentum? We discuss this with our guest, Mallory Newall, Senior Vice President at Ipsos. \"We've seen in our polling at Ipsos in recent weeks and months that voters have become increasingly frustrated with President Trump,\" she says.",
+   "published_date": "Wed, 04 Nov 2026 03:50:01 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US: \"Even in places where the Democrats haven't won, the swing towards them has been significant\"",
+   "url": "https://www.france24.com/en/video/20261104-us-even-in-places-where-the-democrats-haven-t-won-the-swing-towards-them-has-been-significant",
+   "content": "Tens of millions of Americans cast their vote in the crucial polls that have been pitched as a referendum on Donald Trump's presidency amid anger at surging petrol prices, tariffs and the Iran war. We discuss the first results with France 24's Kethevane Gorjestani and Fraser Jackson. \"Even in places where the Democrats haven't won, the swing towards them has been significant\", he says.",
+   "published_date": "Wed, 04 Nov 2026 03:48:11 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Democratic gains mount in US midterms as Trump faces bruising verdict",
+   "url": "https://www.france24.com/en/video/20261104-democratic-gains-mount-in-us-midterms-as-trump-faces-bruising-verdict",
+   "content": "Democrats notched a string of early victories in US midterm elections Tuesday, flipping a Republican-held Senate seat and making inroads in conservative House districts as President Donald Trump faced the prospect of a bruising election setback. France 24's Douglas Herbert gives us his analysis.",
+   "published_date": "Wed, 04 Nov 2026 03:41:58 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "REPLAY: Georgia Senator Jon Ossoff wins reelection",
+   "url": "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection",
+   "content": "Georgia Senator Jon Ossoff was reelected Tuesday to a second term, holding a key seat for Democrats by defeating Republican Representative Mike Collins in a race that catapulted the Senate’s youngest member to the forefront of his party’s national stars as it looks to stymie President Donald Trump in his final years in the White House.",
+   "published_date": "Wed, 04 Nov 2026 03:36:09 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Midterms: Abdul El-Sayed, Mike Rogers face off for Michigan Senate seat",
    "url": "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
    "content": "With New Hampshire and Georgia staying in Democratic hands, Republicans now look to Michigan for a pickup, where Democrat Abdul El-Sayed is competing with Republican Mike Rogers. France 24's Jessica Le Masurier reports from a Democratic watch party in Detroit.",
@@ -97,76 +167,6 @@
    "url": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
    "content": "Ukrainian President Volodymyr Zelensky last week heralded the success of Operation Veles, during which Kyiv sent troops deep into a disused gas pipeline in the Kupiansk region to confront Russian troops. These underground tactics, which Russian forces have been using for more than two years to slip past Ukrainian lines, are giving Kyiv a new strategy on the battlefield.",
    "published_date": "Tue, 03 Nov 2026 16:52:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US Midterms: Texas Democrat Talarico holds last rally ahead of vote",
-   "url": "https://www.france24.com/en/video/20261103-us-midterms-texas-democrat-talarico-holds-last-rally-ahead-of-vote",
-   "content": "Texas Democratic nominee James Talarico held a final rally Monday ahead of US midterm elections on November 3. His race against Republican Ken Paxton could determine which party holds a majority in the Senate. If Talarico wins, it will be the first time a Texas Senate seat's turned blue since 1988.",
-   "published_date": "Tue, 03 Nov 2026 16:50:55 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US midterm elections: Over 58 million Americans cast early ballots",
-   "url": "https://www.france24.com/en/video/20261103-us-midterm-elections-over-58-million-americans-cast-early-ballots",
-   "content": "How powerful is US President Donald Trump? That’s the question pollsters have been asking in the lead-up to the midterm elections. Polls have opened in dozens of US states in what is widely considered a referendum on Donald Trump. Most polls suggest Democrats will take back the House of Representatives, but could they also take the Senate and stymie Trump’s agenda during his final two years in office?",
-   "published_date": "Tue, 03 Nov 2026 16:46:29 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US midterms: Talarico seeks to break Democrats' 30-year losing streak in Texas",
-   "url": "https://www.france24.com/en/video/20261103-us-midterms-talarico-seeks-to-break-democrats-30-year-losing-streak-in-texas",
-   "content": "In Texas, Democratic candidate James Talarico is leading the polls ahead of a high-stakes US Senate race against Republican Ken Paxton. The contest is one of the most closely watched battles of the midterm elections, with Democrats hoping to end a 30-year losing streak in the state. FRANCE 24's Andrés Espinal reports from Austin, Texas.",
-   "published_date": "Tue, 03 Nov 2026 16:45:33 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Election officials brace for possible Trump interference in the midterms",
-   "url": "https://www.france24.com/en/americas/20261103-how-state-officials-prepared-for-possible-trump-interference-in-the-midterms",
-   "content": "State officials who run US elections braced for possible intervention by President Donald Trump's administration in Tuesday's midterms, fearing federal authorities loyal to the president could disrupt voting, challenge ballot counts or try to block the certification of unfavorable results.",
-   "published_date": "Tue, 03 Nov 2026 16:41:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Brazil keeps a close eye on US midterm elections",
-   "url": "https://www.france24.com/en/video/20261103-brazil-keeps-a-close-eye-on-us-midterm-elections",
-   "content": "Brazil is keeping a close eye on the US midterm elections. Since Donald Trump's return to the White House, relations between Brasilia and Washington have grown increasingly tense. On the economic front, aggressive trade policies have subjected Brazilian imports to some of the steepest tariffs globally, exacerbating friction with the Trump administration. FRANCE 24's correspondent in Rio de Janeiro Jan Onoszko has more.",
-   "published_date": "Tue, 03 Nov 2026 16:36:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
-   "url": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre",
-   "content": "A Russian “double tap” strike on a Ukrainian school being used as an aid distribution has killed at least 31 people, according to local authorities, with Ukrainian President Volodymyr Zelensky dubbing it a “vile terrorist attack”.",
-   "published_date": "Tue, 03 Nov 2026 16:30:08 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Trump focused on 'what's important to him': 'Tone-deaf for a normally shrewd populist operator'",
-   "url": "https://www.france24.com/en/trump-focused-on-what-s-important-to-him-tone-deaf-for-a-normally-shrewd-populist-operator",
-   "content": "Erin Ogunkeye is pleased to welcome Doug Heye, Republican strategist, founder of Douglas Media, and former Communications Director for the Republican National Committee (RNC). As Americans head to the polls, Republicans face a challenge that goes beyond the familiar electoral backlash against an incumbent president. For Heye, Donald Trump's greatest political vulnerability may lie in the widening gap between his rhetoric of economic success and voters' everyday financial anxieties. \"For a lot of voters, they see him focused on what's important to him, not what's important to them,\" Heye explains. Yet he also cautions against interpreting Democratic gains as a sign of renewed confidence in the opposition. Rather than a resurgence of partisan enthusiasm, the elections may expose an electorate increasingly disillusioned with both parties.",
-   "published_date": "Tue, 03 Nov 2026 16:05:32 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Trump cuts Israeli military aid: $3.8 billion in security assistance slashed",
-   "url": "https://www.france24.com/en/video/20261103-trump-cuts-israeli-military-aid-3-8-billion-in-security-assistance-slashed",
-   "content": "US President Donald Trump on Tuesday, November 3, said he made a deal with Israeli Prime Minister Benjamin Netanyahu for Washington to stop providing $3.8 billion in funding to Israel after the end of this year. FRANCE 24's Jerusalem correspondent, Noga Tarnopolsky, has more.",
-   "published_date": "Tue, 03 Nov 2026 16:01:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US midterms: Michigan Senate candidate El-Sayed becomes Democrats' rising star",
-   "url": "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
-   "content": "In the US midterm elections, Democrat Abdul El-Sayed and Republican Mike Rogers are testing two sharply different strategies to win over voters in one of the nation's premier swing states on Tuesday, November 3, in a closely watched race that could determine control of the Senate. Progressive candidate El-Sayed has so far outpolled his Republican rival and is emerging as one of the Democratic Party's rising stars.",
-   "published_date": "Tue, 03 Nov 2026 15:41:59 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Bomb threats against European airlines force Warsaw airport closure, affect several flights",
-   "url": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights",
-   "content": "Bomb threats targeted at least 10 European airlines on Tuesday, forcing the temporary closure of a Warsaw airport and affecting at least four Ryanair flights. No explosives were found after the planes all took off and landed safely in different European cities.",
-   "published_date": "Tue, 03 Nov 2026 15:41:48 GMT",
    "score": 0.6
   }
  ],

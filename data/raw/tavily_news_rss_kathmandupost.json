@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "A butterfly haven on Kathmandu’s doorstep",
+   "url": "https://kathmandupost.com/visual-stories/2026/11/04/a-butterfly-haven-on-kathmandu-s-doorstep",
+   "content": "Home to 124 of Nepal’s approximately 630 butterfly species, Shivapuri Nagarjun National Park offers a rich mix of biodiversity, forest trails and tranquil escapes from the bustle of the capital.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Indian Foreign Secretary Misri arrives in Kathmandu ahead of Shah’s India visit",
+   "url": "https://kathmandupost.com/national/2026/11/04/indian-foreign-secretary-misri-arrives-in-kathmandu-ahead-of-shah-s-india-visit",
+   "content": "Talks with Nepali officials will cover a proposed economic package, Indian-funded projects and preparations for the prime minister’s visit to New Delhi.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Kathmandu Film Festival puts Nepali cinema’s past, present and future in focus",
    "url": "https://kathmandupost.com/art-culture/2026/11/04/kathmandu-film-festival-puts-nepali-cinema-s-past-present-and-future-in-focus",
    "content": "The festival screened new titles and restored classics, and brought together filmmakers to discuss the industry’s evolution and creative challenges.",
@@ -96,20 +110,6 @@
    "title": "Nepal and India agree to step up cooperation on border security",
    "url": "https://kathmandupost.com/province-no-5/2026/11/03/nepal-and-india-agree-to-step-up-cooperation-on-border-security",
    "content": "The two security forces will share intelligence and coordinate efforts to curb smuggling, human trafficking, counterfeit currency and drug trafficking.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "In ‘Bhag Bheda Bhag’, a flock of sheep holds up a mirror to Nepali society",
-   "url": "https://kathmandupost.com/theater/2026/11/03/in-bhag-bheda-bhag-a-flock-of-sheep-holds-up-a-mirror-to-nepali-society",
-   "content": "Samyog Guragain’s absurdist play satirises the contradictions and herd mentality of contemporary Nepali society with a generous dose of humour.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Nepali film ‘Panch Pandav’ faces boycott calls over perceived religious insults",
-   "url": "https://kathmandupost.com/art-culture/2026/11/03/nepali-film-panch-pandav-faces-boycott-calls-over-perceived-religious-insults",
-   "content": "Filmmakers say social media campaigns based on trailers and short clips threaten creative freedom, while critics insist they have the right to question religious representations.",
    "published_date": "",
    "score": 0.6
   }
