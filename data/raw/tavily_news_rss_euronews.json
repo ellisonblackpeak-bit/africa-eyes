@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Spain: Madrid hosts 30th Ibero-American Summit with 22-nation bloc",
+   "url": "https://www.euronews.com/video/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc",
+   "content": "Spain is hosting the 30th Ibero-American Summit in Madrid, bringing together leaders from Spanish- and Portuguese-speaking nations. The gathering aims to strengthen cooperation across Europe and Latin America.",
+   "published_date": "Wed, 04 Nov 2026 23:08:08 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Zelenski makes surprise visit to Madrid for talks with Sánchez and Latin American leaders",
+   "url": "https://www.euronews.com/2026/11/04/zelenski-makes-surprise-visit-to-madrid-for-talks-with-sanchez-and-latin-american-leaders",
+   "content": "Zelensky visits Madrid to meet Sánchez, Felipe VI and Latin American leaders at the Ibero-American Summit, aiming to boost support for Ukraine and closer ties with Latin America.",
+   "published_date": "Wed, 04 Nov 2026 22:33:02 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Brazil: Santa Claus School celebrates graduation at Christ the Redeemer",
    "url": "https://www.euronews.com/video/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer",
    "content": "Dozens of Santas gathered at Rio de Janeiro's iconic Christ the Redeemer statue to celebrate their graduation. The 55 new recruits are preparing to spread Christmas cheer across Brazil.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/03/americans-head-to-the-polls-for-us-midterm-elections",
    "content": "Voters cast their ballots in Fairfax, Virginia, and New York as Americans head to the polls in midterm elections that will determine control of Congress for the final two years of President Donald Trump’s term.",
    "published_date": "Tue, 03 Nov 2026 16:25:21 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "South Korea and Turkey sign financing pact as Seoul seeks role in planned nuclear power plant",
-   "url": "https://www.euronews.com/2026/11/03/south-korea-and-turkey-sign-financing-pact-as-seoul-seeks-role-in-planned-nuclear-power-pl",
-   "content": "Turkey and South Korea are expanding nuclear, defence and trade ties. Their latest agreement explores funding for nuclear projects, while Ankara weighs potential partners for its planned Sinop plant.",
-   "published_date": "Tue, 03 Nov 2026 16:21:21 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Flash floods devastate US Southwest, sweeping away homes and cars",
-   "url": "https://www.euronews.com/video/2026/11/03/flash-floods-devastate-us-southwest-sweeping-away-homes-and-cars",
-   "content": "Flash floods sweep across the United States Southwest, destroying homes, stranding residents and forcing hundreds to evacuate.",
-   "published_date": "Tue, 03 Nov 2026 15:43:27 +0100",
    "score": 0.6
   }
  ],
