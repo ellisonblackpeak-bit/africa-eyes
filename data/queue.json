@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "key": "103b8cc4a038d31f",
+  "group": "news",
+  "field": "body",
+  "en": "“When I first arrived in the United States as a young man, I drove a taxi to earn money for my education. I even had to postpone starting school for several months to save enough,” he said. The post appeared first on Vanguard News"
+ },
+ {
+  "key": "529c2afb22887f93",
+  "group": "news",
+  "field": "summary",
+  "en": "“When I first arrived in the United States as a young man, I drove a taxi to earn money for my education."
+ },
+ {
+  "key": "9c876157f85933d2",
+  "group": "news",
+  "field": "title",
+  "en": "I drove taxi to fund my education in US"
+ }
+]

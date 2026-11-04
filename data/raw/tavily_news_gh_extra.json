@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026",
-   "url": "https://www.modernghana.com/videonews/cititv/1/743672",
-   "snippet": "Naana Opoku-Agyemang Stresses Public Safety in Community Sentencing\n\n31.10.2026 | CitiTV\n\nNaana Opoku-Agyemang Calls for Skills Training for Ex-Convicts\n\nNaana Opoku-Agyemang Calls for Skills Training for Ex-Convicts\n\n31.10.2026 | CitiTV\n\nMTN Ghana and MoMo Fintech Record GH¢7.75bn Profit in Nine Months\n\nMTN Ghana and MoMo Fintech Record GH¢7.75bn Profit in Nine Months\n\n31.10.2026 | CitiTV\n\nJulius",
-   "published": "Fri, 30 Oct 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
    "url": "https://www.nbcnews.com/news/us-news/mamdani-says-trump-agrees-grant-visa-mother-ghanian-teen-killed-bronx-rcna606988",
    "snippet": "00:0000:00\n\nA vigil Saturday in the Bronx for 15-year-old Javits Frimpong. Kyle Mazza / NurPhoto via AP\n\nAdd NBC News to Google\n\n/ Source: The Associated Press\n\nBy The Associated Press\n\nNEW YORK — New York City Mayor Zohran Mamdani said on Saturday in a social media post that after talking to President Donald Trump, he has agreed to grant a visa to the mother of a 15-year-old immigrant from Ghana ",
@@ -23,10 +16,17 @@
    "source": "tavily"
   },
   {
-   "title": "Mother of slain Ghanaian teen to receive visa to attend son'...",
-   "url": "https://www.afro.com/national-news/mother-of-slain-ghanaian-teen-to-receive-visa-to-attend-sons-funeral-mamdani-says-f4638168",
-   "snippet": "NEW YORK (AP) — New York City Mayor Zohran Mamdani said on Oct. 31 in a social media post that after talking to President Donald Trump, he has agreed to grant a visa to the mother of a 15-year-old immigrant from Ghana who was shot to death earlier this week.\n\nThe White House did not immediately respond to an email from The Associated Press confirming the administration would be issuing the visa. [",
-   "published": "Mon, 02 Nov 2026 03:00:00 GMT",
+   "title": "Ghana says Russia to back 2,000 MW nuclear plant, deepen ties",
+   "url": "https://www.reuters.com/world/africa/ghana-says-russia-back-2000-mw-nuclear-plant-deepen-ties-2026-10-31",
+   "snippet": "Russia has agreed to work with Ghana on developing a 2000-megawatt ​nuclear power plant following talks at ‌the Russia-Africa Summit, Ghanaian Foreign",
+   "published": "Sun, 01 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mamdani says Trump agreed to visa for Ghanaian mom whose son was killed in NYC - The Washington Post",
+   "url": "https://www.washingtonpost.com/immigration/2026/10/31/mamdani-says-trump-agreed-visa-ghanaian-mom-whose-son-was-killed-nyc",
+   "snippet": "By Maegan Vazquez\n\nPresident Donald Trump has agreed to grant a visa to the mother of a 15-year-old boy who was fatally shot on his way to school, allowing her to travel to New York from Ghana to mourn her son in person, New York Mayor Zohran Mamdani said Saturday.\n\npixel [...] Democracy Dies in Darkness\n\nImmigration\n\n# Mamdani says Trump agreed to visa for Ghanaian mom whose son was killed in NYC",
+   "published": "Sat, 31 Oct 2026 20:04:06 GMT",
    "source": "tavily"
   },
   {
@@ -34,6 +34,13 @@
    "url": "https://www.nydailynews.com/2026/10/29/teenager-wounded-broad-daylight-shooting-bronx",
    "snippet": "### Share this:\n\nPolice investigate after Javits Frimpong (inset) was fatally shot near E. 171st St. and Crotona Place in the Bronx on Thursday, Oct. 29, 2026. (Theodore Parisienne / New York Daily News; Courtesy of Thomas Frimprong)\n\nA 15-year-old boy from Ghana with dreams of being a physician was fatally shot in the Bronx Thursday morning just steps from his home, police said. [...] “Even when ",
    "published": "Fri, 30 Oct 2026 01:54:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia Halts Recruitment of Ghanaians for Ukraine War After Ghana’s Appeal - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-01/russia-agrees-to-halt-recruitment-of-ghanaians-for-ukraine-war",
+   "snippet": "Russia's President Vladimir Putin and Ghana's President John Dramani Mahama talk on the sidelines of the Russia-Africa summit in Moscow on Oct.30.\n\nPhotographer: Anastasia Baraskova/AFP/Getty Images\n\nGift this article\n\nContact us: Provide news feedback or report an error\n\nConfidential tip? Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Moses Mozart Dzawu\n\nNovember 1, 2026 at 2:27 ",
+   "published": "Sun, 01 Nov 2026 14:27:46 GMT",
    "source": "tavily"
   },
   {
@@ -47,14 +54,14 @@
    "title": "Teen boy from Ghana chased and fatally shot on way to school in New York City",
    "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
    "snippet": "Javits Frimpong, 15, was being bullied at school before he was shot and killed in the Bronx on Thursday, his father says.",
-   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "published": "Sat, 31 Oct 2026 11:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "Ghanaian teenager, 15, shot dead near New York school",
    "url": "https://www.africanews.com/2026/10/30/ghanaian-teenager-15-shot-dead-near-new-york-school",
    "snippet": "A 15-year-old boy originally from Ghana has died after being shot near his school in New York City, as police search for three teenagers in connection with",
-   "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "published": "Sat, 31 Oct 2026 11:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -62,13 +69,6 @@
    "url": "https://www.hola.com/us/royals/20261103932834/queen-maxima-ghana-travel-shoes-new-label",
    "snippet": "Queen Maxima showed off a simple yet striking outfit made up of a white shirt and a denim skirt\n\nBy this morning, Máxima had moved on to something completely new. During a visit to PharmAccess in Accra, where she was photographed playfully holding a pineapple, she debuted the denim skirt her wardrobe had been missing. [...] King Willem-Alexander’s latest palace meeting reveals a surprising connect",
    "published": "Tue, 03 Nov 2026 16:11:45 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Ghana cocoa farmers hope for March recovery after season starts poorly",
-   "url": "https://www.reuters.com/world/africa/ghana-cocoa-farmers-hope-march-recovery-after-season-starts-poorly-2026-11-03",
-   "snippet": "Ghanaian cocoa farmers are hoping for a recovery in March harvests after a poor start to the season caused by a combination of heavy rains in some areas and",
-   "published": "Tue, 03 Nov 2026 13:00:00 GMT",
    "source": "tavily"
   }
  ],

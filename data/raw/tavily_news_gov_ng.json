@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Nigerian Government Approves ₦70,000 Wage Award for Workers - Voice of Nigeria",
-   "url": "https://von.gov.ng/nigerian-government-approves-%E2%82%A670000-wage-award-for-workers",
-   "snippet": "\")\n\nThe Nigerian Government has approved a ₦70,000 wage award for workers, following an agreement reached with organised labour to cushion the effects of rising inflation, particularly transport costs.\n\nThe Nigeria Labour Congress (NLC), in a statement on Tuesday, said it had reached an agreement with the Federal Government on the wage award, which will take effect in November 2026 and last for si",
-   "published": "Wed, 28 Oct 2026 09:01:19 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Nigeria approves procurement of East and West transmission super grids | Enerdata",
    "url": "https://www.enerdata.net/publications/daily-energy-news/nigeria-approves-procurement-east-and-west-transmission-super-grids.html",
    "snippet": "The Nigerian Government has approved the start of procurement for the proposed East and West Super Grids, which are intended to strengthen the national grid and increase transmission capacity from around 5 GW to 19 GW within two years (The Guardian, 28/10/2026). It also approved three transmission projects: a new 33 kV line connected to the Katampe substation near Abuja, three 300 MVA transformers",
@@ -27,6 +20,13 @@
    "url": "https://von.gov.ng/ebola-nigerian-government-approves-n45bn-biosecurity-system-for-airports",
    "snippet": "Nigerian Government Approves Establishment of Snakebite Treatment Centre - Voice of Nigeria on Anambra Approves N640 Million for Healthcare, Education Projects\n\nNSITF Calls for Tripartite Economic Cooperation - Voice of Nigeria on NSITF, South Africa Firm Forge Social Protection Alliance\n\nNigerian Government Defends Reforms as Necessary for Economic Stability - Voice of Nigeria on President Tinubu",
    "published": "Wed, 28 Oct 2026 18:15:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG Approves New Policies On Child Abuse, Menstrual Health – The Whistler Newspaper",
+   "url": "https://thewhistler.ng/fg-approves-new-policies-on-child-abuse-menstrual-health",
+   "snippet": "The Federal Government has approved three national instruments to strengthen protection for women and children, as Nigeria grapples with only 52 sexual assault referral centres serving more than 200 million people.\n\nHajiya Imaan Sulaiman-Ibrahim, Minister of Women Affairs and Social Development, said this on Thursday in Abuja during a news conference marking the 26th anniversary of United Nations ",
+   "published": "Thu, 29 Oct 2026 15:57:32 GMT",
    "source": "tavily"
   },
   {
@@ -61,7 +61,7 @@
    "title": "FG approves East, West super grids to raise transmission capacity to 19,000MW",
    "url": "https://www.vanguardngr.com/2026/10/fg-approves-east-west-super-grids-to-raise-transmission-capacity-to-19000mw",
    "snippet": "The Federal Government on Wednesday said it has approved the commencement of procurement for the proposed East and West Super Grids as part of efforts to",
-   "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "published": "Thu, 29 Oct 2026 11:00:00 GMT",
    "source": "tavily"
   }
  ],

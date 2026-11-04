@@ -1,0 +1,116 @@
+{
+ "query": "United States Nigeria AFRICOM ambassador cooperation",
+ "_tag": "soc_us_ng",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/voiceofnigeria/status/2117522807609303227",
+     "title": "Nigeria and the United States have pledged stronger intelligence sharing and law enforcement cooperation against cybercrime, sextortion and",
+     "description": "Nigeria and the United States have pledged stronger intelligence sharing and law enforcement cooperation against cybercrime, sextortion and romance scams. During Nigeria’s Cybercrime Awareness Week in Abuja, US Deputy Assistant Secretary of State Michael Gonzales met officials from @officialEFCC, the National Security Adviser’s office, @ndlea_nigeria and @PoliceNG, urging closer coordination to tackle criminals operating across borders.\n\nGonzales said cooperation must move beyond arrests to dismantle criminal networks and trace their finances. FBI’s Abuja office and Nigerian authorities have secured 41 extraditions since 2022, including five in 2026. In August, Nigeria extradited two alleged cybercriminals in separate sextortion cases involving US minors.\n\n#Nigeria #UnitedStates #Cybercrime #Sextortion #RomanceScams",
+     "snippet": "Nigeria and the United States have pledged stronger intelligence sharing and law enforcement cooperation against cybercrime, sextortion and romance scams. During Nigeria’s Cybercrime Awareness Week in Abuja, US Deputy Assistant Secretary of State Michael Gonzales met officials from @officialEFCC, the National Security Adviser’s office, @ndlea_nigeria and @PoliceNG, urging closer coordination to tackle criminals operating across borders.\n\nGonzales said cooperation must move beyond arrests to dismantle criminal networks and trace their finances. FBI’s Abuja office and Nigerian authorities have secured 41 extraditions since 2022, including five in 2026. In August, Nigeria extradited two alleged cybercriminals in separate sextortion cases involving US minors.\n\n#Nigeria #UnitedStates #Cybercrime #Sextortion #RomanceScams",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Voice of Nigeria",
+     "handle": "@voiceofnigeria"
+    },
+    {
+     "url": "https://x.com/NaijaContext_/status/2117476783125660159",
+     "title": "Nigeria and the United States are intensifying their fight against cross-border cybercrime, romance scams and financially motivated sextorti",
+     "description": "Nigeria and the United States are intensifying their fight against cross-border cybercrime, romance scams and financially motivated sextortion.\n\nThe EFCC and FBI have facilitated 41 extraditions since 2022, including five completed in 2026, according to the US Mission.\n\nBut authorities say the next phase must go beyond arresting individual suspects.\n\nThe focus is now on dismantling the wider criminal networks, tracing their financial channels and targeting those who enable these operations.\n\nFor Nigerians, the challenge is clear: online fraud is increasingly international, and fighting it requires cooperation across borders.\n\nThe real measure of success should be fewer victims, disrupted criminal networks and successful prosecutions.\n\n#Cybercrime #EFCC #NigeriaUSRelations #OnlineScams #CyberSecurity",
+     "snippet": "Nigeria and the United States are intensifying their fight against cross-border cybercrime, romance scams and financially motivated sextortion.\n\nThe EFCC and FBI have facilitated 41 extraditions since 2022, including five completed in 2026, according to the US Mission.\n\nBut authorities say the next phase must go beyond arresting individual suspects.\n\nThe focus is now on dismantling the wider criminal networks, tracing their financial channels and targeting those who enable these operations.\n\nFor Nigerians, the challenge is clear: online fraud is increasingly international, and fighting it requires cooperation across borders.\n\nThe real measure of success should be fewer victims, disrupted criminal networks and successful prosecutions.\n\n#Cybercrime #EFCC #NigeriaUSRelations #OnlineScams #CyberSecurity",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Naija Context",
+     "handle": "@NaijaContext_"
+    },
+    {
+     "url": "https://x.com/Abusadeeq1968/status/2117903997453426983",
+     "title": "Why Nigerians Are Watching the U.S.",
+     "description": "Why Nigerians Are Watching the U.S. Midterms So Closely\n\nAs Americans voted in the 2026 midterm elections, the results are being followed with unusual intensity in Nigeria, where global conflict, fuel costs, and immigration policy have turned U.S. congressional races into a matter of direct national concern. The war involving Iran has pushed Brent crude above $100 a barrel, and President Trump has said elevated energy prices are unlikely to fall until after the November midterms. For Nigeria, where petrol prices remain tightly linked to international crude and refined product costs, that directly affects transport, food, and household living expenses, and analysts warn a sustained oil shock could undermine recent economic progress just as Nigeria enters its own 2027 election season. Because U.S. congressional control can influence the trajectory of the conflict and broader energy policy, many Nigerians see the midterms as a factor in whether fuel prices will eventually ease.\nImmigration is the second major driver of interest. The United States is home to a large Nigerian diaspora, and recent immigration restrictions have made U.S. visa and green card policies a live issue for families, students, and professionals. The midterms could influence congressional scrutiny of immigration restrictions, visa policies, and arrangements requiring African countries to accept deportees all of which carry implications for Nigerian students, workers, and diaspora communities. The diaspora is also heavily invested in U.S. domestic issues such as immigration reform, healthcare, and inflation, meaning the results will directly alter their daily economic and legal landscape. Beyond these immediate concerns, the elections will shape congressional oversight of U.S. foreign assistance and security cooperation with Nigeria, a key counterterrorism partner and major aid recipient, while the next Congress will also have a role in the future implementation and potential reform of the African Growth and Opportunity Act, which provides duty free access to the U.S. market for Nigerian exports. With Nigeria ranking as the United States’ second largest trade partner in sub Saharan Africa, decisions made in Washington carry tangible consequences for Nigerian businesses and jobs. For many Nigerians, the midterms are no longer a distant American ritual but a referendum on the forces that shape the price of fuel at the pump, the fate of relatives abroad, and the economic ties that bind Africa’s most populous nation to Washington.",
+     "snippet": "Why Nigerians Are Watching the U.S. Midterms So Closely\n\nAs Americans voted in the 2026 midterm elections, the results are being followed with unusual intensity in Nigeria, where global conflict, fuel costs, and immigration policy have turned U.S. congressional races into a matter of direct national concern. The war involving Iran has pushed Brent crude above $100 a barrel, and President Trump has said elevated energy prices are unlikely to fall until after the November midterms. For Nigeria, where petrol prices remain tightly linked to international crude and refined product costs, that directly affects transport, food, and household living expenses, and analysts warn a sustained oil shock could undermine recent economic progress just as Nigeria enters its own 2027 election season. Because U.S. congressional control can influence the trajectory of the conflict and broader energy policy, many Nigerians see the midterms as a factor in whether fuel prices will eventually ease.\nImmigration is the second major driver of interest. The United States is home to a large Nigerian diaspora, and recent immigration restrictions have made U.S. visa and green card policies a live issue for families, students, and professionals. The midterms could influence congressional scrutiny of immigration restrictions, visa policies, and arrangements requiring African countries to accept deportees all of which carry implications for Nigerian students, workers, and diaspora communities. The diaspora is also heavily invested in U.S. domestic issues such as immigration reform, healthcare, and inflation, meaning the results will directly alter their daily economic and legal landscape. Beyond these immediate concerns, the elections will shape congressional oversight of U.S. foreign assistance and security cooperation with Nigeria, a key counterterrorism partner and major aid recipient, while the next Congress will also have a role in the future implementation and potential reform of the African Growth and Opportunity Act, which provides duty free access to the U.S. market for Nigerian exports. With Nigeria ranking as the United States’ second largest trade partner in sub Saharan Africa, decisions made in Washington carry tangible consequences for Nigerian businesses and jobs. For many Nigerians, the midterms are no longer a distant American ritual but a referendum on the forces that shape the price of fuel at the pump, the fate of relatives abroad, and the economic ties that bind Africa’s most populous nation to Washington.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Sadeeq Oluwole Ogunronbi",
+     "handle": "@Abusadeeq1968"
+    },
+    {
+     "url": "https://x.com/realabamake/status/2117366171746062363",
+     "title": "“THE NIGERIAN GOVERNMENT IS BEHIND THE KILLINGS” - @ezekieldachomo0 Rev.",
+     "description": "“THE NIGERIAN GOVERNMENT IS BEHIND THE KILLINGS” - @ezekieldachomo0 Rev. Ezekiel Dachomo\n\nEvidence Cited for Declaring Nigeria a State Sponsor of Terrorism Over Video of Uniformed Youths Chanting Attacks on Infidels\n\nA video of Nigerian military-uniformed youths has been presented as clear evidence for the United States and #Finland to declare Nigeria a state sponsor of terrorism. \n\nThe footage shows a marching group in cadet uniforms reciting aggressive lyrics that call for AK47s to attack “infidels” in Enugu and Jos on a Sunday while “spraying fire” during what appear to be church activities. \n\nThe group is described as wearing Nigerian pro-jihadist Cadet uniforms and referencing intentions to carry out Christian Genocide in Jos, Enugu, and targeting non-Muslims more broadly. This is a clear evidence of persistent threats amid reported violence against Christians.\n\nThe people of #Biafra question Rep. Riley Moore’s @RepRileyMoore support for ongoing US-Nigeria security cooperation in light of the video. Rep. R.Moore has repeatedly stated that the US-Nigeria security partnership remains ongoing, including activities of the kind shown in the footage. This raises the question of whether such cooperation is connected to the persistence of the Christian Genocide.\n\nRep. Moore has advocated for bilateral security frameworks while recommending the reintegration of Boko Haram, ISIS, and Fulani militants—who carry out attacks on Christian communities in Nigeria’s Middle Belt and Northeast—back into society. This has included meetings with Nigerian jihadist officials.\n\nThe video is not presented as a mistake or isolated incident. \n\nThe man training the young militants was himself trained as a young militant with this jihadist ideology. \n\nThe lyrics of the song they are chanting are not his own; the lyrics come from the Nigerian Ministry of Defense. \n\nThe confidence with which he and his colleagues capture and broadcast the exercise is cited as evidence that the song is institutionalized. \n\nThe exercise, however horrific, is described as authorized by the Nigerian jihadist Chief of Defense Staff and the jihadist Minister of Defense Christopher Musa.\n\nOn this basis, the call is made US and Finland for Nigeria to be declared a state sponsor of terrorism.\n\nWe are calling @SecRubio, @alexstubb, @nayibbukele, @POTUS, @WalidPhares, and @RepNancyMace , @RepBarryMoore in connection with the demand.",
+     "snippet": "“THE NIGERIAN GOVERNMENT IS BEHIND THE KILLINGS” - @ezekieldachomo0 Rev. Ezekiel Dachomo\n\nEvidence Cited for Declaring Nigeria a State Sponsor of Terrorism Over Video of Uniformed Youths Chanting Attacks on Infidels\n\nA video of Nigerian military-uniformed youths has been presented as clear evidence for the United States and #Finland to declare Nigeria a state sponsor of terrorism. \n\nThe footage shows a marching group in cadet uniforms reciting aggressive lyrics that call for AK47s to attack “infidels” in Enugu and Jos on a Sunday while “spraying fire” during what appear to be church activities. \n\nThe group is described as wearing Nigerian pro-jihadist Cadet uniforms and referencing intentions to carry out Christian Genocide in Jos, Enugu, and targeting non-Muslims more broadly. This is a clear evidence of persistent threats amid reported violence against Christians.\n\nThe people of #Biafra question Rep. Riley Moore’s @RepRileyMoore support for ongoing US-Nigeria security cooperation in light of the video. Rep. R.Moore has repeatedly stated that the US-Nigeria security partnership remains ongoing, including activities of the kind shown in the footage. This raises the question of whether such cooperation is connected to the persistence of the Christian Genocide.\n\nRep. Moore has advocated for bilateral security frameworks while recommending the reintegration of Boko Haram, ISIS, and Fulani militants—who carry out attacks on Christian communities in Nigeria’s Middle Belt and Northeast—back into society. This has included meetings with Nigerian jihadist officials.\n\nThe video is not presented as a mistake or isolated incident. \n\nThe man training the young militants was himself trained as a young militant with this jihadist ideology. \n\nThe lyrics of the song they are chanting are not his own; the lyrics come from the Nigerian Ministry of Defense. \n\nThe confidence with which he and his colleagues capture and broadcast the exercise is cited as evidence that the song is institutionalized. \n\nThe exercise, however horrific, is described as authorized by the Nigerian jihadist Chief of Defense Staff and the jihadist Minister of Defense Christopher Musa.\n\nOn this basis, the call is made US and Finland for Nigeria to be declared a state sponsor of terrorism.\n\nWe are calling @SecRubio, @alexstubb, @nayibbukele, @POTUS, @WalidPhares, and @RepNancyMace , @RepBarryMoore in connection with the demand.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Alliance of Biafran Americans",
+     "handle": "@realabamake"
+    },
+    {
+     "url": "https://x.com/geopolitiki/status/2117223216280109223",
+     "title": "📍AFRICOM commander Gen. Anderson tells Nigeria’s AFRIDEX defence show the U.S. stands ready to help “willing and able partners” https://geop",
+     "description": "📍AFRICOM commander Gen. Anderson tells Nigeria’s AFRIDEX defence show the U.S. stands ready to help “willing and able partners”  https://geopolitiki.com/military/africom-anderson-afridex-lagos-nigeria/",
+     "snippet": "📍AFRICOM commander Gen. Anderson tells Nigeria’s AFRIDEX defence show the U.S. stands ready to help “willing and able partners”  https://geopolitiki.com/military/africom-anderson-afridex-lagos-nigeria/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GEOPOLITIKI",
+     "handle": "@geopolitiki"
+    },
+    {
+     "url": "https://x.com/gong_news/status/2117516564983423098",
+     "title": "Nigeria and the United States have strengthened their fight against cybercrime, with joint operations between the EFCC and the FBI facilitat",
+     "description": "Nigeria and the United States have strengthened their fight against cybercrime, with joint operations between the EFCC and the FBI facilitating 41 extraditions since 2022\n\nRead more on https://gongnews.org",
+     "snippet": "Nigeria and the United States have strengthened their fight against cybercrime, with joint operations between the EFCC and the FBI facilitating 41 extraditions since 2022\n\nRead more on https://gongnews.org",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "gong-news",
+     "handle": "@gong_news"
+    },
+    {
+     "url": "https://x.com/AIT_Online/status/2117578433832296753",
+     "title": "U.S, Nigeria Strengthen Cooperation Against Sextortion, Transnational Cybercrime, Others https://ait.live/u-s-nigeria-strengthen-cooperation",
+     "description": "U.S, Nigeria Strengthen Cooperation Against Sextortion, Transnational Cybercrime, Others https://ait.live/u-s-nigeria-strengthen-cooperation-against-sextortion-transnational-cybercrime-others/",
+     "snippet": "U.S, Nigeria Strengthen Cooperation Against Sextortion, Transnational Cybercrime, Others https://ait.live/u-s-nigeria-strengthen-cooperation-against-sextortion-transnational-cybercrime-others/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Africa Independent Television",
+     "handle": "@AIT_Online"
+    },
+    {
+     "url": "https://x.com/NigeriaNewsdesk/status/2117274482708504991",
+     "title": "US, Nigeria Deepen Cooperation Against Sextortion, Romance Scams, Cybercrime - https://news.xtra.net/p/39fb7d55",
+     "description": "US, Nigeria Deepen Cooperation Against Sextortion, Romance Scams, Cybercrime - https://news.xtra.net/p/39fb7d55",
+     "snippet": "US, Nigeria Deepen Cooperation Against Sextortion, Romance Scams, Cybercrime - https://news.xtra.net/p/39fb7d55",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Nigeria Newsdesk",
+     "handle": "@NigeriaNewsdesk"
+    },
+    {
+     "url": "https://x.com/_dinomelaye/status/2117646809027760590",
+     "title": "With the American Ambassador to Nigeria today.",
+     "description": "With the American Ambassador to Nigeria today. Elections must be free and fair in 2027",
+     "snippet": "With the American Ambassador to Nigeria today. Elections must be free and fair in 2027",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Senator Dino Melaye. (SDM)",
+     "handle": "@_dinomelaye"
+    },
+    {
+     "url": "https://x.com/ChiemelaChimao1/status/2116761937790836762",
+     "title": "One by one all Nigerians will see the light.",
+     "description": "One by one all Nigerians will see the light. \nUSA doesn’t care about Nigeria or Nigerians. \nThey never have and never will. \nEven the cooperation he commended the Nigerian government for has to do with the mineral deal USA signed this year not with seriousness in tackling any insecurity. \nGo and read the terms of the minerals deal worth $700b you will understand the game USA is playing. They used the Christian’s massacre(an insecurity the USA is indirectly sponsoring) story to cajole our govt into signing it, this doesn’t mean that if we have a serious govt we can’t defeat insecurity. We can. \nNigerians We are the only ones who can save ourselves. And it can only be done through a revolution.",
+     "snippet": "One by one all Nigerians will see the light. \nUSA doesn’t care about Nigeria or Nigerians. \nThey never have and never will. \nEven the cooperation he commended the Nigerian government for has to do with the mineral deal USA signed this year not with seriousness in tackling any insecurity. \nGo and read the terms of the minerals deal worth $700b you will understand the game USA is playing. They used the Christian’s massacre(an insecurity the USA is indirectly sponsoring) story to cajole our govt into signing it, this doesn’t mean that if we have a serious govt we can’t defeat insecurity. We can. \nNigerians We are the only ones who can save ourselves. And it can only be done through a revolution.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ebenezer",
+     "handle": "@ChiemelaChimao1"
+    }
+   ]
+  }
+ ]
+}
