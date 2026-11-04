@@ -39,7 +39,12 @@ WANT = {"_URL_YEAR_RX", "url_year_conflict", "polish_title",
         # clean() 的依赖，不带上会 NameError
         "_INVIS", "_MD_IMG", "_MD_LINK", "_MD_BOLD",
         # strip_links() 的依赖
-        "_LINK_IN_TITLE_RX", "_BARE_URL_RX"}
+        "_LINK_IN_TITLE_RX", "_BARE_URL_RX",
+        # 中文标题侧：缓存译文回填后也要整理，线上漏过一次
+        "tidy_zh_title", "_strip_masthead_tail", "_strip_pipe_tail",
+        "_TRUNC_MASTHEAD_RX", "_ZH_TAIL_RX", "_ZH_DANGLING_RX",
+        "_ZH_OUTLET_TAIL_RX", "_ZH_OUTLET_NAMES", "_TAIL_SEP_RX",
+        "_PIPE_RX", "_CLAUSE_RX", "_LATIN_TAIL_RX"}
 keep = []
 _kept_names = set()
 for node in tree.body:
@@ -164,6 +169,32 @@ chk("路透后缀",
 chk("破折号后的真从句要留住",
     POLISH("Nigeria - Ghana trade hits record high"),
     "Nigeria - Ghana trade hits record high")
+
+print("\n── F. 中文标题侧（缓存译文回填后要再整理一遍）──")
+ZH = ns["tidy_zh_title"]
+# 线上 15:31 那期漏掉的就是这几条：英文侧已经修好，中文侧还挂着旧译文。
+chk("中文标题·中英双段站名",
+    ZH("尼日利亚与中国签署3000万美元基层发展项目协议 | Daily Champion | 国家之声，真相守护者"),
+    "尼日利亚与中国签署3000万美元基层发展项目协议")
+chk("中文标题·单段站名",
+    ZH("尼日利亚参议院通过法案 | 国防新闻"), "尼日利亚参议院通过法案")
+chk("中文标题·英文站名",
+    ZH("尼日利亚与中国签署协议 | Daily Champion"), "尼日利亚与中国签署协议")
+chk("中文标题·真从句不剥",
+    ZH("尼日利亚 - 加纳贸易额创新高"), "尼日利亚 - 加纳贸易额创新高")
+chk("中文标题·正常长标题不动",
+    ZH("联邦政府计划到2028年每年发放5000笔住房按揭贷款"),
+    "联邦政府计划到2028年每年发放5000笔住房按揭贷款")
+
+print("\n── G. 文章号前缀：5 位以上才摘，真数字不碰 ──")
+chk("中文·点号分隔",
+    ZH("922573.us中期选举：民主党掌控参议院").lstrip("us"),
+    "中期选举：民主党掌控参议院")
+chk("中文·空格分隔",
+    ZH("922088 恩奥任命幕僚长"), "恩奥任命幕僚长")
+chk("中文·921909 个组织是真数字，不能摘",
+    ZH("921909个民间社会组织敦促司法机关避免尴尬"),
+    "921909个民间社会组织敦促司法机关避免尴尬")
 
 print("\n%d 项，%d 失败" % (total, fail))
 sys.exit(1 if fail else 0)

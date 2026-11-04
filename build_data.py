@@ -2188,7 +2188,10 @@ _TAIL_SEP_RX = re.compile(r"\s+(?:[|｜•·ᐉ]|[-–—])\s+")
 # is ending in a masthead; a headline ending in 报道 is not.
 _ZH_OUTLET_TAIL_RX = re.compile(
     r"(新闻|日报|晚报|时报|周报|晨报|商报|邮报|先驱报|都市报|导报|观察者|"
-    r"通讯社|电视台|广播|在线|网|网站|报|杂志|周刊|月刊|社)$")
+    r"通讯社|电视台|广播|在线|网|网站|报|杂志|周刊|月刊|社|"
+    # 「Daily Champion | 国家之声，真相守护者」——站名本身是一句标语，
+    # 不以「报/社/网」结尾，光靠上面那串词永远认不出来。
+    r"之声|守护者|传媒|融媒体|新媒体)$")
 _ZH_OUTLET_NAMES = {
     "南华早报", "真相尼日利亚", "商业内幕非洲", "中国-全球南方项目",
     "埃尔克福德区", "国防新闻", "伊拉克新闻", "南亚先驱报", "半岛电视台",
@@ -2208,15 +2211,24 @@ def _strip_masthead_tail(t):
         return t
     s = t.strip()
     for _ in range(3):                   # "… - 世界 - Fakti.bg" has two
-        parts = _TAIL_SEP_RX.split(s)
-        if len(parts) < 2:
+        # 按最后一个分隔符的位置切，而不是 split 再 join。
+        #
+        # 原来是 `" ".join(parts[:-1])`：切掉一段站名后，剩下的几段被空格粘起来，
+        # 原本的 " | " 没了，下一轮 `_TAIL_SEP_RX` 再也切不开，于是
+        # 「…协议 | Daily Champion | 国家之声，真相守护者」剥掉中文站名后
+        # 变成「…协议 Daily Champion」，英文站名永远留在标题里。
+        # 改成定位切割，前面的原文一个字都不动。
+        sep = None
+        for sep in _TAIL_SEP_RX.finditer(s):
+            pass
+        if sep is None:
             break
-        last = parts[-1].strip(" .·•")
+        last = s[sep.end():].strip(" .·•")
+        rest = s[:sep.start()].strip()
         if not last or len(last) > 26:
             break
         if re.search(r"[。！？!?；;：:，,]$", last):
             break
-        rest = " ".join(parts[:-1]).strip()
         if len(rest) < 14:               # never reduce a headline to a stub
             break
         cjk = bool(re.search(r"[\u4e00-\u9fa5]", last))
@@ -2287,6 +2299,12 @@ def tidy_zh_title(t):
     if not t:
         return t
     s = strip_links(t)
+    # 文章号前缀。Premium Times 这类把 URL slug 里的文章号当成了标题开头，
+    # 译完就成了「922573.us中期选举：民主党掌控参议院」——一个域名形状的数字串。
+    # 只认 5 位以上，且后面必须跟分隔符或空格：「921909个民间社会组织」里的
+    # 921909 是真数字（92 万个组织），不能动。
+    s = re.sub(r"^\s*\d{5,}\s*[.\-_·|]\s*", "", s)
+    s = re.sub(r"^\s*\d{5,}\s+(?=[A-Za-z\u4e00-\u9fff])", "", s)
     s = re.sub(r"(?<![A-Za-z])U\.\s*(?:…|\.{2,})", "U.S.", s)
     s = _TRUNC_MASTHEAD_RX.sub("", s)
     s = _strip_masthead_tail(_strip_pipe_tail(s))
@@ -4487,6 +4505,12 @@ for coll, fields, group in ((news, ("title", "summary", "body"), "news"),
             ck = tkey(en)
             zh = cache.get(ck)
             it[field + "_zh"] = zh if zh_ok(en, zh) else ""
+            # 从缓存里取回来的译文必须再整理一遍。上面的 tidy 循环（3869 行附近）
+            # 跑在缓存填充之前，所以缓存命中的条目整轮都躲过了整理——15:31 那期
+            # 线上就是这样：英文标题已经修好，中文标题还挂着
+            # 「… | Daily Champion | 国家之声，真相守护者」。
+            if it[field + "_zh"] and field == "title":
+                it[field + "_zh"] = tidy_zh_title(it[field + "_zh"])
             if not it[field + "_zh"]:
                 queue.setdefault(ck, {"key": ck, "group": group, "field": field, "en": en})
 
@@ -4694,6 +4718,16 @@ with io.open(QUEUE_PATH, "w", encoding="utf-8") as fh:
 # story presented as fresh is worse than a gap.
 _age_cut = now_utc - timedelta(days=WINDOW_DAYS)
 _age_drop_n = _age_drop_s = 0
+
+# 标题文章号的最后一道。放在这里而不是只放在 tidy_zh_title：上游直接给中文的
+# 条目（付费墙兜底、社交帖自带中文）根本不走翻译缓存那条路，只有这个位置是
+# 所有条目都必须经过的。纯正则，幂等，重复执行无副作用。
+_TITLE_ID_RX = re.compile(r"^\s*\d{5,}\s*[.\-_·|]\s*|^\s*\d{5,}\s+(?=[A-Za-z\u4e00-\u9fff])")
+for _x in news + social:
+    for _f in ("title", "title_zh"):
+        _v = _x.get(_f)
+        if _v:
+            _x[_f] = _TITLE_ID_RX.sub("", _v)
 
 
 def _item_ts(x, key):

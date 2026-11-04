@@ -25,10 +25,11 @@ _tree = ast.parse(src)
 _keep = [n for n in _tree.body
          if (isinstance(n, ast.FunctionDef) and n.name == "url_year_conflict")
          or (isinstance(n, ast.Assign) and isinstance(n.targets[0], ast.Name)
-             and n.targets[0].id == "_URL_YEAR_RX")]
+             and n.targets[0].id in ("_URL_YEAR_RX", "_TITLE_ID_RX"))]
 _helper = {"re": re}
 exec(compile(ast.Module(body=_keep, type_ignores=[]), "<helper>", "exec"), _helper)
 url_year_conflict = _helper["url_year_conflict"]
+_TITLE_ID_RX = _helper["_TITLE_ID_RX"]
 
 NOW = datetime(2026, 11, 4, 12, 0, 0, tzinfo=timezone.utc)
 D = 86400.0
@@ -55,8 +56,9 @@ def check(label, got, want):
 def run(news, social, days=3):
     ns = {
         "now_utc": NOW, "WINDOW_DAYS": days, "timedelta": timedelta,
-        "datetime": datetime, "timezone": timezone,
+        "datetime": datetime, "timezone": timezone, "re": re,
         "url_year_conflict": url_year_conflict,
+        "_TITLE_ID_RX": _TITLE_ID_RX,
         "news": news, "social": social,
         "print": lambda *a, **k: None,
     }
