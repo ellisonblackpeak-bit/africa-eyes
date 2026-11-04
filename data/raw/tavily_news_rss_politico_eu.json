@@ -2,10 +2,38 @@
  "success": true,
  "results": [
   {
+   "title": "Burnham revives hopes UK’s crumbling parliament will get a fix",
+   "url": "https://www.politico.eu/article/andy-burnham-revive-hope-uk-parliament-fix/",
+   "content": "Successive governments have been reluctant to touch the costly overhaul needed to the seat of British democracy.",
+   "published_date": "Wed, 04 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "2026 Midterm Elections Live: Early results point to Democratic ‘blue wave’",
+   "url": "https://www.politico.com/storyline/live/2026/11/03/midterm-election-results",
+   "content": "",
+   "published_date": "Wed, 04 Nov 2026 02:48:30 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "What Europe hopes to see in the US midterms",
+   "url": "https://www.politico.eu/article/what-europe-hopes-to-see-in-the-us-midterms/",
+   "content": "Capitals are watching keenly for any hint that Washington's approach to foreign policy and free trade might change in 2028.",
+   "published_date": "Wed, 04 Nov 2026 01:51:06 +0000",
+   "score": 0.6
+  },
+  {
    "title": "EU tells Ukraine to hasten reforms, sets out more cautious path for accession",
    "url": "https://www.politico.eu/article/ukraine-accession-path-eu-membership-wobbles-european-commission-brussels-caution/",
    "content": "Brussels has set out a far more ambitious membership roadmap for Moldova than it has for Ukraine.",
    "published_date": "Tue, 03 Nov 2026 23:26:22 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Guillaume Cerutti choisi pour présider le château de Versailles",
+   "url": "https://www.politico.eu/article/guillaume-cerutti-choisi-pour-presider-le-chateau-de-versailles/",
+   "content": "PARIS — Après huit mois d’intérim, Versailles s’apprête à accueillir un nouveau président. Guillaume Cerutti, ancien président de la Pinault Collection et ex-patron mondial de Christie’s, devrait prendre la tête du prestigieux château, a appris POLITICO – l’Elysée n’a pas répondu à nos messages. Sa nomination doit être validée en Conseil des ministres mercredi, selon […]",
+   "published_date": "Tue, 03 Nov 2026 21:48:35 +0000",
    "score": 0.6
   },
   {
@@ -23,52 +51,24 @@
    "score": 0.6
   },
   {
-   "title": "Trump says Europe gave Greenland to US as ‘greatest gift’ ever",
-   "url": "https://www.politico.eu/article/greenland-greatest-gift-ever-donald-trump-us-europe/",
-   "content": "Earlier this year, the U.S. president refused to rule out using military force to gain control of the mineral-rich island.",
-   "published_date": "Tue, 03 Nov 2026 17:10:42 +0000",
+   "title": "Supermarket Chain Thaw Massacre: Russia suspected in Europe’s fridge attacks",
+   "url": "https://www.politico.eu/article/supermarket-chain-thaw-massacre-ii-russia-suspected-in-europe-fridge-attacks/",
+   "content": "Nobody knows who hacked Europe's supermarkets. But many are looking to Moscow.",
+   "published_date": "Tue, 03 Nov 2026 18:20:55 +0000",
    "score": 0.6
   },
   {
-   "title": "Edouard Philippe dos au mur",
-   "url": "https://www.politico.eu/podcast/playbook-paris-podcast/edouard-philippe-dos-au-mur/",
-   "content": "Toussaint morose pour la droite et le centre. Aucun de ses représentants n’est en mesure de se qualifier pour le second tour de la présidentielle dans les derniers sondages, y compris Edouard Philippe désormais doublé par Jean-Luc Mélenchon. Le candidat Horizons réitère son refus de participer à une primaire mais les lignes bougent : Gabriel […]",
-   "published_date": "Tue, 03 Nov 2026 16:16:42 +0000",
+   "title": "Montenegro, Albania seek NATO support to tackle Russian disinformation",
+   "url": "https://www.politico.eu/article/montenegro-albania-nato-support-russia-disinformation/",
+   "content": "As both countries race to join the EU, their defense ministers warn they are facing rising Russian online interference campaigns.",
+   "published_date": "Tue, 03 Nov 2026 18:17:57 +0000",
    "score": 0.6
   },
   {
-   "title": "Germany’s Merz warns Europe needs seat at the table as Trump renews Ukraine talks",
-   "url": "https://www.politico.eu/article/germany-friedrich-merz-europe-ukraine-peace-deal-donald-trump/",
-   "content": "The German chancellor also called the U.S. move to invite Putin to the G20 “completely unacceptable,” saying Ukraine’s fate must not be discussed without Ukraine.",
-   "published_date": "Tue, 03 Nov 2026 14:48:47 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "The 5 most brutal political moggings of 2026",
-   "url": "https://www.politico.eu/article/the-5-most-brutal-political-moggings-of-2026/",
-   "content": "From Vladimir Putin to Donald Trump, some of the world’s most powerful leaders have been outshone this year.",
-   "published_date": "Tue, 03 Nov 2026 14:34:49 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Moscow in talks to arrange Trump, Xi and Putin meeting, Kremlin says",
-   "url": "https://www.politico.eu/article/moscow-is-helping-arrange-us-russia-china-meeting-spokesperson-peskov-says/",
-   "content": "The trilateral meeting would take place during the APEC summit in two weeks.",
-   "published_date": "Tue, 03 Nov 2026 14:01:03 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Point taken",
-   "url": "https://www.politico.eu/sponsored-content/point-taken/",
-   "content": "",
-   "published_date": "Tue, 03 Nov 2026 13:40:59 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Poll: Brits want the Democrats to win the midterms",
-   "url": "https://www.politico.eu/article/brits-want-the-democrats-to-win-the-us-midterms/",
-   "content": "Polling for POLITICO by PF Global finds the U.K. public believes a Republican victory would be riskier for the world.",
-   "published_date": "Tue, 03 Nov 2026 13:22:07 +0000",
+   "title": "Brussels sets slimline legislative agenda for 2027",
+   "url": "https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/",
+   "content": "Brussels prioritizes competitiveness and deregulation while withdrawing stalled proposals and scrapping obsolete rules.",
+   "published_date": "Tue, 03 Nov 2026 18:11:55 +0000",
    "score": 0.6
   }
  ],

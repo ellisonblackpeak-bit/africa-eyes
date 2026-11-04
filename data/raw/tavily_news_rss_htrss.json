@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "No respite for Delhiites as pollution levels surge; AQI at 373, 21 stations in ‘severe’ category",
+   "url": "https://www.hindustantimes.com/india-news/no-respite-for-delhiites-as-pollution-levels-surge-aqi-at-373-21-stations-in-severe-category-101793760757784.html",
+   "content": "Delhi's AQI stood at 373 at 7:05 am, in the very poor category on Wednesday, compared with Tuesday’s 24-hour average of 350.",
+   "published_date": "Wed, 04 Nov 2026 08:30:51 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "New Slum Rehab policy: Delhi govt lays out plan for redeveloping 17 slum clusters",
+   "url": "https://www.hindustantimes.com/india-news/new-slum-rehab-policy-delhi-govt-lays-out-plan-for-redeveloping-17-slum-clusters-101793754897650.html",
+   "content": "The policy seeks to make redevelopment financially viable through mixed-use development and greater private-sector participation",
+   "published_date": "Wed, 04 Nov 2026 06:44:57 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India reiterates dialogue to halt hostilities in West Asia",
+   "url": "https://www.hindustantimes.com/india-news/india-external-affairs-ministry-west-asia-war-us-iran-war-randhir-jaiswal-israel-seafarer-death-101793750885662.html",
+   "content": "India has been hit hard by the disruption of fuel and fertiliser flows since the start of the West Asia conflict with strikes on Iran by the US and Israel.",
+   "published_date": "Wed, 04 Nov 2026 05:46:52 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Indian Navy begins court-martial proceedings against two officers over INS Brahmaputra’s partial capsizing in 2024",
+   "url": "https://www.hindustantimes.com/india-news/navy-acts-against-two-over-warship-mishap-101793750281743.html",
+   "content": "The commanding officer faces charges of hazarding a naval ship and negligence, while the officer of the day has been charged with negligence.",
+   "published_date": "Wed, 04 Nov 2026 05:37:39 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Previously enrolled voters can submit Form 6 for inclusion: Election Commission",
+   "url": "https://www.hindustantimes.com/india-news/ec-previously-enrolled-voters-can-submit-form-6-for-inclusion-101793733109189.html",
+   "content": "The clarification came days after the Supreme Court asked ECI not to make nearly 4.3 million Delhi residents reapply as new voters.",
+   "published_date": "Wed, 04 Nov 2026 00:41:48 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Two government-backed startups release sovereign AI models that can run in airgapped environment",
    "url": "https://www.hindustantimes.com/india-news/two-startups-release-sovereign-ai-models-that-can-run-in-airgapped-environment-101793732689316.html",
    "content": "India AI Mission-backed startups Soket AI and ZenteiQ unveiled sovereign, offline models for secure use in coding, maths, science and research.",
@@ -132,27 +167,6 @@
    "url": "https://www.hindustantimes.com/india-news/delhi-aqi-remains-very-poor-amid-thick-haze-bawana-narela-punjabi-bagh-among-8-areas-in-severe-category-101793673998413.html",
    "content": "Delhi’s air quality index (AQI) stood at 334 at 10am on Tuesday. Data from 58 of the 59 monitoring stations showed that eight were in the severe category.",
    "published_date": "Tue, 03 Nov 2026 08:31:03 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Permanent holding area, no platform tickets: Northern Railway prepares for Diwali rush in Delhi",
-   "url": "https://www.hindustantimes.com/india-news/permanent-holding-area-no-platform-tickets-northern-railway-prepares-for-diwali-rush-in-delhi-101793672305230.html",
-   "content": "Northern Railway has started putting in place crowd control measures to manage the festive rush and prevent overcrowding on platforms at the stations in Delhi.",
-   "published_date": "Tue, 03 Nov 2026 08:16:58 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India’s manufacturing growth momentum eases in Oct",
-   "url": "https://www.hindustantimes.com/india-news/indias-manufacturing-growth-momentum-eases-in-oct-101793647160292.html",
-   "content": "India’s manufacturing sector activity lost some growth momentum in October compared to September as output and new orders increased only marginally, according to HSBC India Manufacturing Purchasing Managers’ Index (PMI) data released by S&P Global on Monday",
-   "published_date": "Tue, 03 Nov 2026 07:50:20 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Indian Navy rescues 20 crew members from hijacked Iranian vessel after 48-hour operation",
-   "url": "https://www.hindustantimes.com/india-news/navy-rescues-20-crew-members-from-hijacked-iranian-vessel-101793645270343.html",
-   "content": "The operation was carried out 3,000 km from Mumbai in the Arabian Sea, the officials said.",
-   "published_date": "Tue, 03 Nov 2026 00:35:03 +0530",
    "score": 0.6
   }
  ],
