@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Delhi Police to reimburse full tuition fee of children of personnel killed in line of duty",
+   "url": "https://www.hindustantimes.com/india-news/delhi-police-to-reimburse-full-tuition-fee-of-children-of-personnel-killed-in-line-of-duty-101793807884392.html",
+   "content": "The scholarship amount for students pursuing higher education has also been increased from ₹15,000 to ₹20,000.",
+   "published_date": "Wed, 04 Nov 2026 22:59:48 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Sharad Pawar hospitalised in Mumbai hours after discharge in Pune",
+   "url": "https://www.hindustantimes.com/india-news/sharad-pawar-hospitalised-in-mumbai-hours-after-discharge-in-pune-daughter-supriya-confirms-101793804301210.html",
+   "content": "Sharad Pawar was discharged from the Ruby Hall Clinic after two days under medical observation following complaints of pleuritic pain, in Pune on Wednesday.",
+   "published_date": "Wed, 04 Nov 2026 20:34:28 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Ex-India hockey captain MM Somaya says 1980 Olympic Gold stolen in Bengaluru home burglary",
    "url": "https://www.hindustantimes.com/india-news/1980-olympic-gold-medal-stolen-from-former-india-hockey-captain-m-m-somaya-s-bengaluru-home-police-101793799306777.html",
    "content": "The gold medal, which MM Somaya won as part of the Indian team at the Moscow Olympics, was stolen along with three other international sporting medals.",
@@ -16,7 +30,7 @@
    "score": 0.6
   },
   {
-   "title": "Agnipath rejig: Decoding the new rules",
+   "title": "2-year service extension to 75% Agniveers after tenure ends: Decoding new rules",
    "url": "https://www.hindustantimes.com/india-news/agnipath-rejig-decoding-the-new-rules-101793794567435.html",
    "content": "India’s Agnipath reset gives 75% of Agniveers two extra years, higher pay and a chance to join the armed forces after selection.",
    "published_date": "Wed, 04 Nov 2026 17:46:06 +0530",
@@ -153,34 +167,6 @@
    "url": "https://www.hindustantimes.com/india-news/no-respite-for-delhiites-as-pollution-levels-surge-aqi-at-373-21-stations-in-severe-category-101793760757784.html",
    "content": "Delhi's AQI stood at 373 at 7:05 am, in the very poor category on Wednesday, compared with Tuesday’s 24-hour average of 350.",
    "published_date": "Wed, 04 Nov 2026 08:30:51 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "New Slum Rehab policy: Delhi govt lays out plan for redeveloping 17 slum clusters",
-   "url": "https://www.hindustantimes.com/india-news/new-slum-rehab-policy-delhi-govt-lays-out-plan-for-redeveloping-17-slum-clusters-101793754897650.html",
-   "content": "The policy seeks to make redevelopment financially viable through mixed-use development and greater private-sector participation",
-   "published_date": "Wed, 04 Nov 2026 06:44:57 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India reiterates dialogue to halt hostilities in West Asia",
-   "url": "https://www.hindustantimes.com/india-news/india-external-affairs-ministry-west-asia-war-us-iran-war-randhir-jaiswal-israel-seafarer-death-101793750885662.html",
-   "content": "India has been hit hard by the disruption of fuel and fertiliser flows since the start of the West Asia conflict with strikes on Iran by the US and Israel.",
-   "published_date": "Wed, 04 Nov 2026 05:46:52 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Previously enrolled voters can submit Form 6 for inclusion: Election Commission",
-   "url": "https://www.hindustantimes.com/india-news/ec-previously-enrolled-voters-can-submit-form-6-for-inclusion-101793733109189.html",
-   "content": "The clarification came days after the Supreme Court asked ECI not to make nearly 4.3 million Delhi residents reapply as new voters.",
-   "published_date": "Wed, 04 Nov 2026 00:41:48 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Two government-backed startups release sovereign AI models that can run in airgapped environment",
-   "url": "https://www.hindustantimes.com/india-news/two-startups-release-sovereign-ai-models-that-can-run-in-airgapped-environment-101793732689316.html",
-   "content": "India AI Mission-backed startups Soket AI and ZenteiQ unveiled sovereign, offline models for secure use in coding, maths, science and research.",
-   "published_date": "Wed, 04 Nov 2026 00:34:48 +0530",
    "score": 0.6
   }
  ],

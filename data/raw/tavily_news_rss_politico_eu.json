@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Mélenchon a-t-il déjà son ticket pour le second tour ?",
+   "url": "https://www.politico.eu/podcast/playbook-paris-podcast/melenchon-a-t-il-deja-son-ticket-pour-le-second-tour/",
+   "content": "La France insoumise s’est réjouie de la défaite de Donald Trump lors des élections de mi-mandat aux Etats-Unis, y voyant la possibilité de “faire reculer l’extrême droite”. Toute coïncidence avec la situation française n’est pas fortuite, alors que le scénario d’un second tour opposant Marine Le Pen à Jean-Luc Mélenchon devient de plus en plus […]",
+   "published_date": "Wed, 04 Nov 2026 16:21:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Prince Harry and Meghan Markle to visit EU Parliament",
+   "url": "https://www.politico.eu/article/prince-harry-and-meghan-markle-to-visit-eu-parliament/",
+   "content": "Couple will be in Brussels to talk about online child safety.",
+   "published_date": "Wed, 04 Nov 2026 16:21:14 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Metsola tells MEPs not to rely on AI when drafting laws",
    "url": "https://www.politico.eu/article/roberta-metsola-tells-meps-not-to-rely-on-ai-when-drafting-laws/",
    "content": "European Parliament prepares guidelines for lawmakers on the use of AI.",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/spanish-economy-minister-takes-over-transport-ministry-after-deadly-crash/",
    "content": "Carlos Cuerpo will run the Transport Ministry following Óscar Puente's resignation",
    "published_date": "Wed, 04 Nov 2026 10:11:36 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Defense chief rejects claims Germany puts its own arms industry ahead of Europe",
-   "url": "https://www.politico.eu/article/pistorius-rejects-claims-germany-puts-its-own-arms-industry-ahead-of-europe/",
-   "content": "Boris Pistorius says protecting national weapons manufacturers is a problem common to all EU countries.",
-   "published_date": "Wed, 04 Nov 2026 10:05:02 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Elon Musk suffers major blow in US midterms",
-   "url": "https://www.politico.eu/article/elon-musk-dealt-major-blow-in-midterm-elections-2026/",
-   "content": "Plans for buildout of data centers across Texas in doubt after Democrats won a surprise sweep.",
-   "published_date": "Wed, 04 Nov 2026 09:43:13 +0000",
    "score": 0.6
   }
  ],
