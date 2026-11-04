@@ -1,21 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Salavan United Terminates National Football Player Over ‘Unexcused Absence’ Amid Match-Fixing Allegations",
-   "url": "https://laotiantimes.com/2026/11/03/salavan-united-terminates-national-football-player-over-unexcused-absence-amid-match-fixing-allegations/",
-   "content": "Salavan United Football Club, based in Salavan in southern Laos, has terminated the contract of Lao national team winger Soukphachan Lueanthala amid match-fixing allegations, citing his “unexcused absences” from training. The club announced the decision in a notice dated 2 November. It said Soukphachan, 24, skipped training from 24 August to 30 September without valid […]",
-   "published_date": "Tue, 03 Nov 2026 04:11:41 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Miss Universe Laos 2026 Told to Stop Activities Over Brand Rights",
-   "url": "https://laotiantimes.com/2026/11/03/miss-universe-laos-2026-told-to-stop-activities-over-brand-rights/",
-   "content": "Miss Grand International Public Company Limited (MGI) has demanded that organizers of Miss Universe Laos 2026 immediately stop all activities, saying they lack permission to hold the pageant or use the Miss Universe trademarks. In a statement, MGI and Miss Universe Eastern Pte. Ltd. said they had not authorized the 2026 competition or granted permission […]",
-   "published_date": "Tue, 03 Nov 2026 02:24:41 +0000",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",
