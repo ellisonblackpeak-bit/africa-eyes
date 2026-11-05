@@ -2,17 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "New Times Newspaper | Latest Nigeria News, Breaking News, Top News",
-   "url": "https://www.newtimes.com.ng?p=33913",
-   "snippet": "Nigerian soldiers killed them. Blood of the victims soaked the earth and snaked through the villages. The sun stood still. The heavens witnessed it, and the tragedy reverberated across the universe. [...] act highlights the incredible human capacity for forgiveness, true closure cannot rely entirely on individual nobility. As the Asagba rightly noted, a community can forgive, but a formal public a",
-   "published": "Thu, 29 Oct 2026 10:34:28 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "ZAWYA: Nigeria: Tinubu seeks approval for new $7.7bln loan, withdraws earlier requests — TradingView News",
    "url": "https://www.tradingview.com/news/reuters.com,2026-11-05:newsml_Zaw9d4PQZ:0-zawya-nigeria-tinubu-seeks-approval-for-new-7-7bln-loan-withdraws-earlier-requests",
    "snippet": "Zawya\nZawya\n\n# ZAWYA: Nigeria: Tinubu seeks approval for new $7.7bln loan, withdraws earlier requests\n\nBy Staff Writer\n\nPresident Bola Tinubu has formally withdrawn his earlier request seeking legislative approval to process external borrowings of $20.5 billion and €1.05 billion, replacing it with a fresh $7.7 billion loan proposal to partly finance the 2026 budget deficit. [...] Under the revised",
    "published": "Thu, 05 Nov 2026 07:46:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Delta State University ‘killed’ The Glitterer (1)",
+   "url": "https://www.newtimes.com.ng/delta-state-university-killed-the-glitterer-1",
+   "snippet": "Get the latest Nigeria news, daily news in Africa, Nigerian politics, African business, Lifestyle and Entertainment, Tech and Analysis of African news.",
+   "published": "Thu, 05 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -30,10 +30,10 @@
    "source": "tavily"
   },
   {
-   "title": "Nigeria's Oil and Gas Output Rises to 3.04 Million Boepd | OilPrice.com",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Nigerias-Oil-and-Gas-Output-Rises-to-304-Million-Boepd.html",
-   "snippet": "Nigeria’s NNPC raised its oil and gas production in September from a month earlier as output was restarted at some oilfields, the state-owned oil and gas company said in its latest monthly report this week.\n\nNNPC’s total oil and gas production rose to 3.04 million barrels of oil equivalent per day (boepd), up from 3.01 million boepd in the previous month, amid slightly higher crude oil and natural",
-   "published": "Wed, 04 Nov 2026 12:00:00 GMT",
+   "title": "Nigeria’s Tinubu seeks new $7.7 billion borrowing, replaces earlier $20.5 billion request | CNBC Africa",
+   "url": "https://www.cnbcafrica.com/2026/nigerias-tinubu-seeks-new-7-7-billion-borrowing-replaces-earlier-20-5-billion-request",
+   "snippet": "Nigeria’s President Bola Tinubu looks on, on the day he meets Brazil’s President Luiz Inacio Lula da Silva at Planalto Palace, in Brasilia, Brazil, August 25, 2025. REUTERS/Adriano Machado/File Photo\n\nABUJA (Reuters) – Nigerian President Bola Tinubu has asked lawmakers to approve a new $7.7 billion external borrowing plan to help fund projects and programmes in the 2026 budget and support the gove",
+   "published": "Thu, 05 Nov 2026 08:57:01 GMT",
    "source": "tavily"
   },
   {
@@ -44,17 +44,24 @@
    "source": "tavily"
   },
   {
-   "title": "Nigeria's 'godfathers' pull the strings ahead of elections",
-   "url": "https://www.france24.com/en/live-news/20261105-nigeria-s-godfathers-pull-the-strings-ahead-of-elections",
-   "snippet": "Nigerian President Bola Tinubu's ruling party is backing a new candidate for governor in Rivers state  \n\nNigerian President Bola Tinubu's ruling party is backing a new candidate for governor in Rivers state © Light Oriye Tamunotonye / AFP\n\nOther lowlights include a mysterious fire that gutted the state legislature and attacks on oil infrastructure, the latter of which Tinubu cited as a reason for ",
-   "published": "Thu, 05 Nov 2026 06:21:50 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Tycoon Atedo Peterside says Tinubu's reforms favour the rich",
    "url": "https://www.billionaires.africa/2026/11/05/nigerian-businessman-atedo-peterside-says-president-tinubus-reforms-make-the-rich-richer",
    "snippet": "Muhammadu Sanusi II, the Emir of Kano and a former governor of the Central Bank of Nigeria, told the same conference that growth of about 4.5% can hide worsening conditions for households. Nigeria's output per person has fallen since 2023, he said, because the economy has not grown fast enough to keep up with the population and the naira has lost value. He said removing subsidies and adjusting the",
    "published": "Thu, 05 Nov 2026 06:38:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria's Tinubu seeks new $7.7 billion borrowing, replaces earlier $20.5 billion request",
+   "url": "https://www.reuters.com/world/africa/nigerias-tinubu-seeks-new-77-billion-borrowing-replaces-earlier-205-billion-2026-11-04",
+   "snippet": "Nigerian President Bola Tinubu has asked ​lawmakers to approve a new $7.7 ‌billion external borrowing plan to help fund projects and programmes in the ​2026",
+   "published": "Wed, 04 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s ‘godfathers’ pull the strings ahead of elections - The Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/nigeria-godfathers-elections",
+   "snippet": "PORT HARCOURT, NIGERIA – As Nigeria heads toward elections in just over two months, political battles will be waged over the airwaves and at rallies — and, perhaps more importantly, behind the scenes, by the country’s “godfathers.”\n\nThe Nigerian political scene is dominated by a caste of competing kingmakers stretching all the way to the very top — with President Bola Tinubu, who is seeking reelec",
+   "published": "Thu, 05 Nov 2026 09:06:22 GMT",
    "source": "tavily"
   }
  ],

@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "World No. 1 pickleball star Anna Leigh Waters sets December Manila showcase",
+   "url": "https://www.rappler.com/people/athletes/world-pickleball-star-anna-leigh-waters-manila-return-december-2026/",
+   "content": "For the second time in three months, world No. 1 pickleball player Anna Leigh Waters returns to Manila for another exhibition showcase, this time at the famed Araneta Coliseum",
+   "published_date": "Thu, 05 Nov 2026 19:22:32 +0800",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",
