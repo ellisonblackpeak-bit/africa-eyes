@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Canada’s Mark Carney to attend ASEAN Summit in Manila",
-   "url": "https://www.rappler.com/philippines/mark-carney-visit-2026-asean-summit/",
-   "content": "Manila is the second leg in the Canadian leader's four-country sojourn across Europe and Asia",
-   "published_date": "Thu, 05 Nov 2026 12:10:26 +0800",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",
