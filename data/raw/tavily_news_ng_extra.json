@@ -2,10 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "ZAWYA: Nigeria: Tinubu seeks approval for new $7.7bln loan, withdraws earlier requests — TradingView News",
-   "url": "https://www.tradingview.com/news/reuters.com,2026-11-05:newsml_Zaw9d4PQZ:0-zawya-nigeria-tinubu-seeks-approval-for-new-7-7bln-loan-withdraws-earlier-requests",
-   "snippet": "Zawya\nZawya\n\n# ZAWYA: Nigeria: Tinubu seeks approval for new $7.7bln loan, withdraws earlier requests\n\nBy Staff Writer\n\nPresident Bola Tinubu has formally withdrawn his earlier request seeking legislative approval to process external borrowings of $20.5 billion and €1.05 billion, replacing it with a fresh $7.7 billion loan proposal to partly finance the 2026 budget deficit. [...] Under the revised",
-   "published": "Thu, 05 Nov 2026 07:46:49 GMT",
+   "title": "Arab News | Nigeria court strikes down candidacy of opposition leader Abubakar: party",
+   "url": "https://www.arabnews.com/world/nigeria-court-strikes-down-candidacy-of-opposition-leader-abubakar-party-3009981",
+   "snippet": "afp\n\nFollow\n\nLAGOS: A Nigerian court Thursday declared invalid the nomination of Atiku Abubakar as the presidential candidate for the opposition African Democratic Congress, the party said, two months before the country’s elections.\n\nThe ADC, one of the main opposition parties trying to oust President Bola Tinubu, has been mired in lawsuits around its leadership.\n\nEarlier this year, the federal go",
+   "published": "Thu, 05 Nov 2026 14:38:22 GMT",
    "source": "tavily"
   },
   {
@@ -13,6 +13,13 @@
    "url": "https://ua.news/en/world/sud-ssha-vidkhiliv-zapit-aktivista-postaviti-zapitannia-prezidentu-tinubu-premium-times-nigeria",
    "snippet": "A US federal court in the District of Columbia has denied a motion by US transparency activist Aaron Greenspan, who sought permission to question Nigerian President Bola Tinubu and the lobbying firm DCI Group. The request concerned alleged cyberattacks on the PlainSite legal research website in a case involving access to government records under the US Freedom of Information Act (FOIA). [...] At t",
    "published": "Sat, 31 Oct 2026 22:32:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria reports two suspected Ebola cases in northeast region | Reuters",
+   "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/nigeria-reports-two-suspected-ebola-cases-northeast-region-2026-10-31",
+   "snippet": "Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up here.\n\nThe cases remain suspected and confirmation ⁠is subject to laboratory results, the post added.\n\nNigeria ​confirmed its first Ebola case in more than a ​decade last week in a Swiss woman who had travelled to Uganda and then returned to the capital Abuja in ​cen",
+   "published": "Sat, 31 Oct 2026 17:54:27 GMT",
    "source": "tavily"
   },
   {
@@ -37,6 +44,13 @@
    "source": "tavily"
   },
   {
+   "title": "Nigeria Telcos Sue House of Reps: 3 Key Facts [2026]",
+   "url": "https://shattered.io/nigeria-telecom-operators-sue-house-of-reps-network-quality-probe-2026",
+   "snippet": "Nigeria’s biggest mobile operators have taken their fight with lawmakers to court. According to The Sun Nigeria and UrduPoint, a group of Nigeria telecom operators filed an originating summons on November 4, 2026, asking the Federal High Court in Abuja to stop a House of Representatives probe into network quality. The case lands at the point where telecom hardware, regulation and politics collide,",
+   "published": "Thu, 05 Nov 2026 17:12:39 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Nigeria’s ‘godfathers’ pull the strings ahead of elections - The Japan Times",
    "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/nigeria-godfathers-elections",
    "snippet": "PORT HARCOURT, NIGERIA – As Nigeria heads toward elections in just over two months, political battles will be waged over the airwaves and at rallies — and, perhaps more importantly, behind the scenes, by the country’s “godfathers.”\n\nThe Nigerian political scene is dominated by a caste of competing kingmakers stretching all the way to the very top — with President Bola Tinubu, who is seeking reelec",
@@ -44,24 +58,10 @@
    "source": "tavily"
   },
   {
-   "title": "Nigerian court nullifies presidential contender’s candidacy 2 months before election",
-   "url": "https://apnews.com/article/nigeria-election-atiku-abubakar-court-e37403f0930a889b9e48b4e93eca2fd3",
-   "snippet": "A Nigerian court has disqualified a leading presidential candidate, complicating the electoral process two months before the election.",
-   "published": "Thu, 05 Nov 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria seeks digital ID project extension to roll out MOSIP-based infrastructure",
-   "url": "https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure",
-   "snippet": "The World Bank says Nigerian authorities have solicited a 12-month extension for the Nigeria Digital Identification for Development Project (ID4D),",
+   "title": "Nigeria ranks 15th in Commonwealth youth AI readiness index",
+   "url": "https://www.environewsnigeria.com/nigeria-ranks-15th-in-commonwealth-youth-ai-readiness-index",
+   "snippet": "Nigeria has ranked 15th out of 56 Commonwealth countries in a new assessment of young people's readiness to benefit from artificial intelligence (AI),",
    "published": "Thu, 05 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria Telcos Sue House of Reps: 3 Key Facts [2026]",
-   "url": "https://shattered.io/nigeria-telecom-operators-sue-house-of-reps-network-quality-probe-2026",
-   "snippet": "Nigeria's biggest mobile operators have taken their fight with lawmakers to court. According to The Sun Nigeria and UrduPoint, a group of Nigeria telecom",
-   "published": "Thu, 05 Nov 2026 17:00:00 GMT",
    "source": "tavily"
   }
  ],

@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "EU targets large firms to unlock budget deal",
+   "url": "https://www.politico.eu/article/eu-targets-large-firms-to-unlock-budget-deal/",
+   "content": "European Council President António Costa hopes the concessions will facilitate an agreement on the bloc's next long-term budget.",
+   "published_date": "Thu, 05 Nov 2026 18:22:33 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Farage criticizes Trump’s ‘broken promise’ on foreign wars after midterms kicking",
+   "url": "https://www.politico.eu/article/nigel-farage-criticizes-donald-trump-broken-promise-foreign-wars-after-midterms-kicking/",
+   "content": "The Reform UK leader is increasingly distancing himself from the U.S. president as cost-of-living pressures hit Britons.",
+   "published_date": "Thu, 05 Nov 2026 18:02:24 +0000",
+   "score": 0.6
+  },
+  {
    "title": "CBD edibles can’t be labeled organic, says EU court",
    "url": "https://www.politico.eu/article/cbd-edibles-cant-be-labeled-organic-says-eu-court/",
    "content": "Luxembourg’s judges tell the hemp lobby the label comes after the paperwork.",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/andy-burnham-donald-trump-invite-vladimir-putin-g20/",
    "content": "Britain has been one of Ukraine's staunchest allies since Russia's full-scale invasion of the country in 2022.",
    "published_date": "Thu, 05 Nov 2026 13:32:21 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Former Brexit negotiator Barnier: UK should get flexibility on euro and Schengen if it rejoins EU",
-   "url": "https://www.politico.eu/article/former-brexit-negotiator-michel-barnier-uk-flexibility-schengen-rejoin-eu/",
-   "content": "\"The door is open,\" Barnier said.",
-   "published_date": "Thu, 05 Nov 2026 13:11:18 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UK hikes rates with eye on Trump’s next Middle East move",
-   "url": "https://www.politico.eu/article/uk-hikes-rates-with-eye-on-us-donald-trumps-next-middle-east-move-bank-of-england-andrew-bailey/",
-   "content": "Thursday's increase is unlikely to be the last unless Middle East conflict resolved, said Andrew Bailey.",
-   "published_date": "Thu, 05 Nov 2026 12:42:11 +0000",
    "score": 0.6
   }
  ],

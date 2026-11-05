@@ -2,38 +2,108 @@
  "success": true,
  "results": [
   {
-   "title": "CBG blending at 1.7% in H1; pipeline connectivity key to achieving 3% target",
-   "url": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
-   "content": "India has a target of blending 3% CBG into D-PNG and CNG by the end of current fiscal, 4% in 2027-28 and 5% in the subsequent year.",
-   "published_date": "Thu, 05 Nov 2026 23:12:17 +0530",
+   "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+   "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+   "content": "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, a joint press release stated",
+   "published_date": "Fri, 06 Nov 2026 02:04:58 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Danger in the sewer: On India’s sewer cleaning deaths",
+   "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
+   "content": "India must eliminate situations that lead to sewer cleaning deaths",
+   "published_date": "Fri, 06 Nov 2026 01:36:26 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi building collapse: AAP alleges rampant corruption; BJP MP blames builder greed",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-building-collapse-aapalleges-rampant-corruptionbjpmp-blames-builder-greed/article71671080.ece",
+   "content": "",
+   "published_date": "Fri, 06 Nov 2026 01:20:52 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Satya Niketan collapse: Delhi police file 638-page chargesheet against six",
+   "url": "https://www.thehindu.com/news/cities/Delhi/satya-niketan-collapse-delhi-police-file-638-page-chargesheet-against-six/article71671143.ece",
+   "content": "Chargesheet filed on the day another building collapse in Chawri Bazar killed two; police allege construction and repair work was carried out while students continued to live inside the Satya Niketan building",
+   "published_date": "Fri, 06 Nov 2026 01:17:36 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Are lower MRPs on cancer drugs translating into affordable care? | In Focus Podcast",
+   "url": "https://www.thehindu.com/podcast/are-lower-mrps-on-cancer-drugs-translating-into-affordable-care-in-focus-podcast/article71669899.ece",
+   "content": "In this episode, we examine whether reduced prices of cancer medicines are making treatment more affordable, and why India needs stronger price regulation, transparent pricing and comprehensive public healthcare.",
+   "published_date": "Fri, 06 Nov 2026 01:11:02 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Bodies of five fishermen from Tamil Nadu found near Kothapatnam beach in Andhra Pradesh",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/bodies-of-four-fishermen-from-tn-found-near-kothapatnam-beach-in-ap/article71670219.ece",
+   "content": "Indian Coast Guard staff on search for four other missing fishermen who were sailing on the same boat which sank 2 km off the shore",
+   "published_date": "Fri, 06 Nov 2026 00:40:39 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Hyderabad startup opens India’s first private space debris recovery facility",
+   "url": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece",
+   "content": "",
+   "published_date": "Fri, 06 Nov 2026 00:30:11 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "‘Felt like an earthquake’: Neighbours recount after building collapse in Old Delhi’s Chawri Bazar",
+   "url": "https://www.thehindu.com/news/cities/Delhi/neighbours-recount-moments-after-building-collapse-in-old-delhi-chawri-bazar/article71669289.ece",
+   "content": "While one resident felt violent tremors and rushed out of her home, others learnt of the collapse from blaring ambulance sirens and frantic cries for help in Chawri Bazaar",
+   "published_date": "Fri, 06 Nov 2026 00:29:16 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Visa must for undocumented six non-Muslim communities who entered India before December 31, 2024: Home Ministry",
+   "url": "https://www.thehindu.com/news/national/visa-must-for-undocumented-six-non-muslim-communities-who-entered-india-before-december-31-2024-home-ministry/article71671369.ece",
+   "content": "The amendment applies to members of six non-Muslim communities from Afghanistan, Bangladesh and Pakistan who, fearing “religious persecution”, entered India without valid travel documents, or whose documents have since expired",
+   "published_date": "Fri, 06 Nov 2026 00:27:40 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "WTA Chennai Open: Zakharova wards off Vaishnavi’s challenge",
+   "url": "https://www.thehindu.com/sport/tennis/wta-chennai-open-zakharova-wards-off-vaishnavis-challenge/article71671555.ece",
+   "content": "The Russian, with her lithe movement and lethal backhand, puts the Indian under pressure consistently before the latter gets injured",
+   "published_date": "Fri, 06 Nov 2026 00:23:10 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Visakhapatnam to host India-Sri Lanka ODI on December 13",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-to-host-india-sri-lanka-odi-on-december-13/article71670582.ece",
+   "content": "",
+   "published_date": "Fri, 06 Nov 2026 00:12:20 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Young India Police School to begin full-fledged classes in new block next academic year",
+   "url": "https://www.thehindu.com/news/national/telangana/young-india-police-school-to-begin-full-fledged-classes-in-new-block-next-academic-year/article71670177.ece",
+   "content": "",
+   "published_date": "Fri, 06 Nov 2026 00:11:35 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Asian Champions Trophy: India retains crown with a late surge",
+   "url": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-india-retains-crown-with-a-late-surge/article71671356.ece",
+   "content": "The host pumps in four goal in the last 18 minutes to get the better of Japan; Malaysia finishes third",
+   "published_date": "Fri, 06 Nov 2026 00:07:42 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Umar, Sharjeel move Supreme Court seeking bail in 2020 Delhi riots conspiracy case",
+   "url": "https://www.thehindu.com/news/cities/Delhi/sharjeel-imam-moves-supreme-court-seeking-bail-in-uapa-case-over-2020-delhi-riots/article71669640.ece",
+   "content": "In their petitions, the two have contended that their continued incarceration for over six years, with the trial yet to commence, violates the Constitutional guarantee of personal liberty under Article 21",
+   "published_date": "Fri, 06 Nov 2026 00:02:18 +0530",
    "score": 0.6
   },
   {
    "title": "Bharti Airtel net profit rises 24% to ₹10,710 crore in September quarter",
    "url": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
    "content": "Bharti Airtel's India revenue grew by 9.4% to ₹42,308 crore",
-   "published_date": "Thu, 05 Nov 2026 23:04:50 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "INDIA bloc demands scrapping of SIR, seeks use of pre-SIR 2025 electoral rolls for next local polls",
-   "url": "https://www.thehindu.com/news/national/karnataka/india-bloc-demands-scrapping-of-sir-seeks-use-of-pre-sir-2025-electoral-rolls-for-next-local-polls/article71670610.ece",
-   "content": "The declaration urged the State government to conduct next taluk and zilla panchayat elections using the pre-SIR 2025 electoral rolls",
-   "published_date": "Thu, 05 Nov 2026 23:03:34 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Cabinet approves 30-year lease of four acres in High Grounds to Bangalore Turf Club",
-   "url": "https://www.thehindu.com/news/national/karnataka/cabinet-approves-30-year-lease-of-four-acres-in-high-grounds-to-bangalore-turf-club/article71671266.ece",
-   "content": "",
-   "published_date": "Thu, 05 Nov 2026 23:01:55 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Delhi HC asks ED to respond to Al Falah University chairman’s interim bail plea",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-asks-ed-to-respond-to-al-falah-university-chairmans-interim-bail-plea/article71669922.ece",
-   "content": "Al Falah University group chairman Siddiqui sought interim bail or custody parole to care for his ailing wife",
-   "published_date": "Thu, 05 Nov 2026 22:59:04 +0530",
+   "published_date": "Fri, 06 Nov 2026 00:01:10 +0530",
    "score": 0.6
   }
  ],
