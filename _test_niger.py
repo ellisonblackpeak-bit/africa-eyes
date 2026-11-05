@@ -140,10 +140,25 @@ ck("两国并列仍然保留两个（清单规则不能吃掉它）",
    classify_cty("Nigeria, Niger, Benin and Togo meet on pipeline security", ""),
    ["ng", "ne"])
 
+# ── ⑦ 社交帖里的裸 "Niger"：查询 tag 指向别国时不算尼日尔 ────────────────
+_e0 = src.index("def _evidence_for")
+exec(src[_e0:src.index("\n\n\n", _e0)], ns)
+ev = ns["_evidence_for"]
+ck("社交帖·tag=ng + 裸 Niger → 不挂 ne",
+   ev("ne", "The $30 million grant agreement with China presents an opportunity "
+      "to improve livelihoods and accelerate grassroots development across Niger",
+      "", "", "soc_cn_ng", False, "social"), False)
+ck("社交帖·有 Niamey 时仍挂 ne",
+   ev("ne", "Niger fuel shortage worsens, Niamey says imports will resume",
+      "", "", "soc_cn_ng", False, "social"), True)
+ck("新闻·裸 Niger 仍是强证据（规则只对社交帖生效）",
+   ev("ne", "Niger bans fuel exports to Nigeria", "", "", "cn_ng", False, "news"),
+   True)
+
 print()
 if FAIL:
-    print("FAILED %d / %d" % (len(FAIL), 31))
+    print("FAILED %d / %d" % (len(FAIL), 34))
     for f in FAIL:
         print("   ", f[0], "got", repr(f[1]), "want", repr(f[2]))
     sys.exit(1)
-print("ALL PASS (31)")
+print("ALL PASS (34)")

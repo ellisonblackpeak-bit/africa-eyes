@@ -4804,7 +4804,7 @@ def _substance_hit(it, out):
 # ("koreatimes.co.kr published it, so it must be Korea"). Re-checking every
 # record before it is written is the only way corrections reach carry-overs as
 # well as fresh items.
-def _evidence_for(c, title, body, summary, tag, strict=False):
+def _evidence_for(c, title, body, summary, tag, strict=False, kind="news"):
     """Does the copy support country `c`? `strict` requires the TITLE to say it.
 
     Strict is used when the record also carries "af" — that means the classifier
@@ -4829,7 +4829,16 @@ def _evidence_for(c, title, body, summary, tag, strict=False):
             # 同一篇里另有一处裸 "Niger" 不能当成尼日尔共和国的证据——否则一张
             # 尼日尔州的卡片会同时挂着两个国家的徽标（2026-11-05 读者反馈）。
             if not (niger_is_state(_nb) and not NE_STRONG_RX.search(_nb)):
-                return True
+                # 社交帖更弱一层：帖子短，裸 "Niger" 常常只是句尾带过。查询 tag
+                # 指向别的国家、全文又没有尼日尔专有标记时，不足以挂 ne。
+                # 实例：soc_cn_ng 抓到的「$30m grant … across Niger」，实际是
+                # 尼日利亚与中国签的基层发展协议，卡片却同时挂两国徽标。
+                # 只对社交帖生效：新闻标题写 "Niger bans …" 是强证据，不能动。
+                _tc = SOC_TAG_CTY.get(tag or "") or TAG_CTY.get(tag or "")
+                _tc = _tc if isinstance(_tc, str) else ""
+                if not (kind == "social" and _tc and _tc not in ("ne", "af", "wa")
+                        and not NE_STRONG_RX.search(_nb)):
+                    return True
     for tbl in (TAG_CTY, SOC_TAG_CTY):
         v = tbl.get(tag or "")
         v = v if isinstance(v, (list, tuple)) else ([v] if v else [])
@@ -4863,7 +4872,7 @@ def revalidate_ctry(items, kind="news"):
         tag = it.get("tag") or it.get("_tag")
         _strict = "af" in cur and len(cur) > 1
         keep = [c for c in cur
-                if _evidence_for(c, title, body, summary, tag, _strict)]
+                if _evidence_for(c, title, body, summary, tag, _strict, kind)]
         if keep == cur:
             continue
         fixed += 1
