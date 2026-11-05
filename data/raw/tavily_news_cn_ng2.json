@@ -2,17 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "👨🏿‍🚀TechCabal Daily – A Chinese plot twist - TechCabal",
-   "url": "https://techcabal.com/2026/11/05/techcabal-daily-a-chinese-plot-twist",
-   "snippet": "Explain like I’m new here. OPay, founded by Chinese businessman Zhou Yahui, operates one of Nigeria’s largest digital payments platforms, serving more than 50 million customers who use it to transfer money, pay bills, and access financial services. The company also operates in other emerging markets, but has no business operations or revenue in China. Yet, its founder’s Chinese connection has now ",
-   "published": "Thu, 05 Nov 2026 06:14:09 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Yoyei signs $115m China partnership to deploy 5,000 electric vehicles in Nigeria",
    "url": "https://www.vanguardngr.com/2026/10/yoyei-signs-115m-china-partnership-to-deploy-5000-electric-vehicles-in-nigeria",
    "snippet": "Nigerian mobility technology company Yoyei Technologies Limited has signed a five-year strategic agreement with Chinese electric vehicle supply partner ZMEV",
-   "published": "Fri, 30 Oct 2026 14:00:00 GMT",
+   "published": "Fri, 30 Oct 2026 17:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -26,7 +19,14 @@
    "title": "Yoyei Signs $115 Million China EV Partnership, Targets 5,000 Electric Vehicles for Nigeria",
    "url": "https://techpoint.africa/brandpress/yoyei-signs-115-million-china-ev-partnershiptargets-5000-electric-vehicles-for-nigeria",
    "snippet": "Nigerian electric mobility company signs a five-year strategic framework with China's ZMEV Limited, targeting 5000 vehicles alongside charging",
-   "published": "Sat, 31 Oct 2026 14:00:00 GMT",
+   "published": "Sat, 31 Oct 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese regulatory scrutiny forces Nigeria payments firm OPay to pause listing plans",
+   "url": "https://businessday.ng/news/article/chinese-regulatory-scrutiny-forces-nigeria-payments-firm-opay-to-pause-listing-plans",
+   "snippet": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd to halt its $300m US initial public offering just hours",
+   "published": "Thu, 05 Nov 2026 15:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -37,17 +37,17 @@
    "source": "tavily"
   },
   {
-   "title": "Edo Signs Deal with Chinese Aviation Firms to Establish Proposed State Airline",
-   "url": "https://www.nigeriahousingmarket.com/news/edo-state-airline-china-express-kdn-aero-mou",
-   "snippet": "Read more →\n\nEdo StateEdo AirChina Express AirlineKDN AeroNigerian AviationState-Owned AirlinesBenin CityInfrastructure DevelopmentBusiness InvestmentTourismCommercial PropertyNigeria Real Estate\n\n  Ayomide Fiyinfunoluwa \n\nWritten by Ayomide Fiyinfunoluwa, Housing Journalist & Daily News Reporter [...] During the visit, officials inspected the operations of China Express Airline and the facilities",
-   "published": "Thu, 05 Nov 2026 08:33:46 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry - Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
    "snippet": "EXCLUSIVE\n\n# Africa-Focused OPay Is Said to Halt US IPO After China Inquiry\n\nChina made eleventh-hour inquiries into OPay Ltd., prompting the Nigeria-focused payments company to halt its $300 million initial public offering in New York hours after pricing it, according to people familiar with the matter. [...] OPay has no operations in China and generates no revenue there, said the people, who ask",
    "published": "Wed, 04 Nov 2026 14:07:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Billionaire Yahui Zhou's OPay IPO halted by China regulator",
+   "url": "https://www.billionaires.africa/2026/11/05/chinese-billionaire-yahui-zhous-opay-halted-its-304-million-ipo-over-beijing-inquiry",
+   "snippet": "Carbacid Investments, 49.9% owned by Kenyan investor Baloobhai Patel, raised annual profit 12.2% to Sh1.13 billion and held its dividend at Sh2 a share.\n\n,   and  Ikeoluwa Ogungbangbe\n\nPaid Members Public\n\nNigerian-Greek star Giannis Antetokounmpo is the NBA's second-highest earner at $108.5 million \n\nWest & Central Africa\n\n### Nigerian-Greek star Giannis Antetokounmpo is the NBA's second-highest ",
+   "published": "Thu, 05 Nov 2026 15:18:46 GMT",
    "source": "tavily"
   },
   {
@@ -61,14 +61,14 @@
    "title": "EXCLUSIVE: NNPC IPO will likely start with 5% to 10% listing, CEO says",
    "url": "https://www.reuters.com/business/energy/nnpc-ipo-will-likely-start-with-5-10-listing-ceo-says-2026-11-03",
    "snippet": "Nigeria's ‌state oil company NNPC is likely to float a 5% to 10% stake in an initial public offering, focused primarily on the domestic market, with a",
-   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "published": "Tue, 03 Nov 2026 17:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "The lithium rush: Nigeria’s bid to avoid the resource curse",
    "url": "https://www.thenewhumanitarian.org/feature/2026/11/02/lithium-rush-nigerias-bid-avoid-resource-curse",
    "snippet": "Editor's note: The first in a series of articles exploring the humanitarian and environmental challenges of Nigeria's lithium boom. KADUNA, Nigeria.",
-   "published": "Mon, 02 Nov 2026 14:00:00 GMT",
+   "published": "Mon, 02 Nov 2026 17:00:00 GMT",
    "source": "tavily"
   }
  ],

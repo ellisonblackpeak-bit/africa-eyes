@@ -2,9 +2,51 @@
  "success": true,
  "results": [
   {
-   "title": "Israel's main Arab list backs Eisenkot to form government after election",
+   "title": "🔴 Live: Interior ministry says 600,000 protest across France as unions claim 'close to 1.6 million'",
+   "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
+   "content": "",
+   "published_date": "Thu, 05 Nov 2026 17:05:44 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Navi Pillay: Fighting violence with justice",
+   "url": "https://www.france24.com/en/navi-pillay-fighting-violence-with-justice",
+   "content": "From the International Criminal Court to Africa’s place in the global justice system, the stakes are high. In an exclusive interview, Nobel Peace Prize winner, Navi Pillay will discuss international justice . She says it it must not be held hostage to political power, as Donald Trump targets the ICC. What does this showdown mean for Africa?",
+   "published_date": "Thu, 05 Nov 2026 16:12:59 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US midterms: 'Donald Trump's wings have been more than clipped'",
+   "url": "https://www.france24.com/en/video/20261105-us-midterms-donald-trump-s-wings-have-been-more-than-clipped",
+   "content": "US President Donald Trump faced a radically transformed and hostile political landscape after Democrats seized both the House of Representatives and the Senate in Tuesday's (November 3) midterms. The result was a personal humiliation for the 80-year-old Trump, leaving him as a lame duck president for the remaining two years of his term. FRANCE 24's International Affairs Commentator Douglas Herbert has more.",
+   "published_date": "Thu, 05 Nov 2026 15:46:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Global travel sector grows despite headwinds",
+   "url": "https://www.france24.com/en/tv-shows/people-profit/20261105-global-travel-sector-grows-despite-headwinds",
+   "content": "The global tourism sector is growing, despite conflicts and economic uncertainty. That's the finding of a new report by World Travel Market, which says the number of international arrivals is set to hit a record 1.57 billion in 2026.",
+   "published_date": "Thu, 05 Nov 2026 15:43:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Europe: Dozens of flights diverted following bomb threats",
+   "url": "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats",
+   "content": "Hoax bomb threats hit at least 27 affected flights around Europe this week.",
+   "published_date": "Thu, 05 Nov 2026 15:40:50 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Identity crisis': Can Democrats 'deliver' following their 'historic', once in a generation victory?",
+   "url": "https://www.france24.com/en/identity-crisis-can-democrats-deliver-following-their-historic-once-in-a-generation-victory",
+   "content": "A historic Democratic electoral breakthrough has transformed the American political landscape. For Laurie Dundon, Senior Associate Fellow at the European Leadership Network and former US diplomat, the central question is whether the Democratic Party can convert electoral momentum into coherent governance. \"Can they deliver?\" Dunden examines the apparent disintegration of Donald Trump's 2024 MAGA coalition alongside the Democratic Party's continuing ideological struggle between its progressive and centrist wings. Ahead of 2028, Dunden cautions against seeing Trump as a lame duck: \"Trump is never going to stop being Trump.\" The resulting struggle over congressional spending powers, presidential vetoes, tariffs and investigations promises to be a delicate dance to watch\".",
+   "published_date": "Thu, 05 Nov 2026 15:27:11 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
    "url": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
-   "content": "Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election.",
+   "content": "Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election and Prime Minister Benjamin Netanyahu lost the support of an allied religious party.",
    "published_date": "Thu, 05 Nov 2026 14:43:59 GMT",
    "score": 0.6
   },
@@ -25,14 +67,14 @@
   {
    "title": "France faces new protests as government seeks to prevent violence",
    "url": "https://www.france24.com/en/france-faces-new-protests-as-government-seeks-to-prevent-violence",
-   "content": "France faces new protests as the government seeks to prevent a repeat of October unrest. Protesters demand better public services, including education, and also critique the cost-of-living. FRANCE 24's Claire Paccalin reports from the ground.",
+   "content": "France faces new protests as the government seeks to prevent a repeat of October unrest. Protesters demand better public services, including education, and also critique the rising cost-of-living. FRANCE 24's Claire Paccalin reports from the ground.",
    "published_date": "Thu, 05 Nov 2026 14:19:53 GMT",
    "score": 0.6
   },
   {
-   "title": "Cyberattack: French bank says online hacking stole around $100 million",
+   "title": "French bank hit by cyberattack, hackers steal $100 million",
    "url": "https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million",
-   "content": "French regional bank Credit Mutuel Arkea said Wednesday it had been the victim of a cyberattack that allowed fraudulent transactions amounting to around 100 million euros ($112 million). It said in the attack, which had now been \"contained\", hackers gained access to Arkea's account to make transfers to other banks, not the accounts of clients, who did not suffer any losses.",
+   "content": "French regional bank Crédit Mutuel Arkéa said Wednesday it had been hit by a cyberattack that led to fraudulent transfers worth around 100 million euros ($112 million). The bank said the attack, which has since been \"contained\", allowed hackers to access its own accounts and transfer funds to other banks. Customer accounts were not affected, and no losses were reported by clients.",
    "published_date": "Thu, 05 Nov 2026 14:09:56 GMT",
    "score": 0.6
   },
@@ -125,48 +167,6 @@
    "url": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says",
    "content": "A ballistic missile fired at the Saudi city of Medina, one of Islam's holiest cities, was intercepted Thursday, a spokesman for the Saudi-led coalition fighting Yemen's Houthi rebels said. The announcement came shortly after the kingdom's civil defence agency warned of potential danger around the strategic port of Yanbu.",
    "published_date": "Thu, 05 Nov 2026 11:07:22 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Football legend Cristiano Ronaldo announces international retirement",
-   "url": "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement",
-   "content": "",
-   "published_date": "Thu, 05 Nov 2026 10:48:42 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "South Africans eager to vote as local elections put failing services in focus",
-   "url": "https://www.france24.com/en/video/20261105-south-africans-eager-to-vote-as-local-elections-put-failing-services-in-focus",
-   "content": "South Africans voted on Wednesday, November 4, in local elections. Nearly 30 million people were eligible to cast their ballots, with corruption, failing infrastructure and the deterioration of essential services among the key issues shaping the vote. FRANCE 24's correspondent Eunice Masson reports from the ground.",
-   "published_date": "Thu, 05 Nov 2026 10:48:38 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Football legend Cristiano Ronaldo announces international retirement",
-   "url": "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement",
-   "content": "Cristiano Ronaldo announced Thursday that he is retiring from international football at the age of 41, bringing to an end a record-breaking 23-year career with Portugal. The five-time Ballon d'Or winner made 234 appearances for his country, scoring 146 goals. His retirement from the international stage follows that of his long-time rival, Argentine's Lionel Messi, last month.",
-   "published_date": "Thu, 05 Nov 2026 10:45:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
-   "url": "https://www.france24.com/en/video/20261105-sudan-accuses-ethiopia-of-allowing-rsf-drone-launches-from-its-territory",
-   "content": "Sudan accused Ethiopia of allowing the paramilitary Rapid Support Forces (RSF) to launch drones from its territory. What does this allegation reveal about the RSF's military capabilities and foreign backing? FRANCE 24 spoke to Ali Mahmoud Ali, a Sudan researcher at ACLED, the Armed Conflict Location & Event Data Project, which monitors conflicts worldwide.",
-   "published_date": "Thu, 05 Nov 2026 10:42:55 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ethiopian families fleeing conflict face difficulties with food access",
-   "url": "https://www.france24.com/en/video/20261105-ethiopian-families-fleeing-conflict-face-difficulties-with-food-access",
-   "content": "A renewed conflict in Ethiopia has led to the displacement of thousands of civilians. But after years of war in the country and heavy budget cuts, humanitarian organisations have all but left many of the camps for internally displaced people, leaving many without food or health care. FRANCE 24's correspondent Tom Canetti reports.",
-   "published_date": "Thu, 05 Nov 2026 10:38:41 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Dozens dead and missing after Russian strike on Ukrainian aid centre",
-   "url": "https://www.france24.com/en/video/20261105-dozens-dead-and-missing-after-russian-strike-on-ukrainian-aid-centre",
-   "content": "The death toll from a Russian bombing of an aid distribution point in Ukraine's southeastern Zaporizhzhia region on Monday has risen to 42, with dozens still missing, officials said, in one of the deadliest strikes on civilians this year. The attack came a day ​after a brief ‌US-brokered local ceasefire expired and less than a week before the United States is due to bring together Ukrainian and Russian delegations ⁠in Abu Dhabi for talks on ending the war, now in its fifth year.",
-   "published_date": "Thu, 05 Nov 2026 10:34:55 GMT",
    "score": 0.6
   }
  ],

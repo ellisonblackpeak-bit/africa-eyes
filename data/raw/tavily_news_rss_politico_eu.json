@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "CBD edibles can’t be labeled organic, says EU court",
+   "url": "https://www.politico.eu/article/cbd-edibles-cant-be-labeled-organic-says-eu-court/",
+   "content": "Luxembourg’s judges tell the hemp lobby the label comes after the paperwork.",
+   "published_date": "Thu, 05 Nov 2026 16:53:32 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Farage says he’ll meet Le Pen ‘at some point in time’",
+   "url": "https://www.politico.eu/article/nigel-farage-says-hell-meet-france-marine-le-pen-at-some-point-in-time/",
+   "content": "The Reform leader's comments came after POLITICO reported that the French far-right leader was keeping Farage hanging on a desired Paris rendezvous.",
+   "published_date": "Thu, 05 Nov 2026 16:38:35 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "La fin accélérée du macronisme au Parlement",
+   "url": "https://www.politico.eu/podcast/playbook-paris-podcast/la-fin-acceleree-du-macronisme-au-parlement/",
+   "content": "Scène inédite à l’Assemblée mercredi soir : la première partie du budget de l’Etat a été rejetée à l’unanimité. Comment expliquer qu’aucun député n’ait approuvé le texte issu des débats. Pourquoi les députés du centre et de la droite sont agacés par Sébastien Lecornu ? Quels sont les scénarios qui se dessinent pour la suite […]",
+   "published_date": "Thu, 05 Nov 2026 16:33:37 +0000",
+   "score": 0.6
+  },
+  {
    "title": "France, US clash over G7 effort on AI safety",
    "url": "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/",
    "content": "White House slams proposal by France for G7 oversight as “unnecessary bureaucracy.”",
@@ -48,27 +69,6 @@
    "url": "https://www.politico.eu/article/uk-hikes-rates-with-eye-on-us-donald-trumps-next-middle-east-move-bank-of-england-andrew-bailey/",
    "content": "Thursday's increase is unlikely to be the last unless Middle East conflict resolved, said Andrew Bailey.",
    "published_date": "Thu, 05 Nov 2026 12:42:11 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Russia denies involvement in fridge hacks across Europe",
-   "url": "https://www.politico.eu/article/russia-denies-involvement-in-fridge-hacks-across-europe/",
-   "content": "Experts see Moscow as one of the main suspects behind the cyberattacks, but national authorities have yet to point to a specific culprit.",
-   "published_date": "Thu, 05 Nov 2026 12:23:15 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Bomb threats target at least 15 more European flights",
-   "url": "https://www.politico.eu/article/more-european-flights-targeted-by-bomb-threats/",
-   "content": "Aircraft across Europe were diverted after a spate of security threats.",
-   "published_date": "Thu, 05 Nov 2026 11:21:42 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "‘Skip the TED talk’: Iran trolls Vance over midterm defeat analysis",
-   "url": "https://www.politico.eu/article/skip-the-ted-talk-iran-mohammad-bagher-ghalibaf-trolls-us-jd-vance-over-midterm-defeat-analysis/",
-   "content": "The speaker of Tehran's parliament jabbed the U.S. vice president for his 614-word missive on X.",
-   "published_date": "Thu, 05 Nov 2026 11:14:06 +0000",
    "score": 0.6
   }
  ],
