@@ -2,6 +2,69 @@
  "success": true,
  "results": [
   {
+   "title": "Mumbai’s Byculla Zoo closer to getting four Asiatic lions from Gujarat",
+   "url": "https://www.thehindu.com/news/cities/mumbai/mumbais-byculla-zoo-closer-to-getting-four-asiatic-lions-from-gujarat/article71667153.ece",
+   "content": "Under the proposed exchange, the Mumbai zoo will transfer three pairs of tufted capuchin monkeys to Sakkarbaug. Both zoos have already agreed to the exchange, the BMC said",
+   "published_date": "Thu, 05 Nov 2026 08:03:10 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+   "url": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece",
+   "content": "With U.S. President Donald Trump’s Republicans facing a major loss, the results could affect India’s position on the Iran war, Russian oil, the trade deal, immigration and China policy",
+   "published_date": "Thu, 05 Nov 2026 07:48:26 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "U.S. slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+   "url": "https://www.thehindu.com/news/international/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran/article71668431.ece",
+   "content": "The sanctions are part of the Trump administration’s “Operation Economic Outcast,” which aims to cut off Iran’s ability to sell oil to fund the war with the U.S. and Israel",
+   "published_date": "Thu, 05 Nov 2026 07:42:02 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi Police arrest man with 312 kg of illegal firecrackers in Shahdara",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-arrest-man-with-312-kg-of-illegal-firecrackers-in-shahdara/article71666852.ece",
+   "content": "The 26-year-old was allegedly storing and selling firecrackers from his Balbir Nagar residence; police have registered a case and are verifying his criminal antecedents",
+   "published_date": "Thu, 05 Nov 2026 07:39:09 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Mahadev app co-promoter Ravi Uppal arrested in UAE, India moves for his extradition",
+   "url": "https://www.thehindu.com/news/national/mahadev-app-co-promoter-ravi-uppal-arrested-in-uae-india-moves-for-his-extradition/article71668416.ece",
+   "content": "Authorities in Dubai arrested a 46-year-old Ravi Uppal based on an Interpol Red Notice issued by Indian probe agencies, officials told PTI",
+   "published_date": "Thu, 05 Nov 2026 07:24:13 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
+   "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
+   "content": "‘The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades’, says Bench",
+   "published_date": "Thu, 05 Nov 2026 07:09:57 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Every rooftop in Delhi will become source of solar energy: CM",
+   "url": "https://www.thehindu.com/news/cities/Delhi/every-rooftop-in-delhi-will-become-source-of-solar-energy-cm/article71666943.ece",
+   "content": "The CM said that the Delhi government is encouraging people to install rooftop solar systems",
+   "published_date": "Thu, 05 Nov 2026 06:37:51 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Indian shooters miss medal targets",
+   "url": "https://www.thehindu.com/sport/indian-shooters-miss-medal-targets/article71668406.ece",
+   "content": "The 10m air rifle mixed team pair of Sonam Uttam Maskar and Himanshu Dhillon failed to qualify for the four-team final, finishing seventh with an aggregate of 632.4. Sonam shot 316.6, while Himanshu returned 315.8",
+   "published_date": "Thu, 05 Nov 2026 06:28:18 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Raipur court grants CBI eight days custody of Sourabh Chandrakar; to be interrogated in Delhi",
+   "url": "https://www.thehindu.com/news/national/chhattisgarh/mahadev-betting-app-case-cbi-gets-8-day-custody-of-kingpin-saurabh-chandrakar/article71665795.ece",
+   "content": "The development follows the recent extradition of Chandrakar from Oman to Delhi, after which he was brought to Raipur on a private flight on November 3 evening.",
+   "published_date": "Thu, 05 Nov 2026 05:56:48 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Mumbai woman arrested for hacking demat account, selling shares worth ₹4.58 crore",
    "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-woman-arrested-for-hacking-demat-account-selling-shares-worth-458-crore/article71666523.ece",
    "content": "During the investigation, police found that the one-time passwords (OTPs) required to access the Demat account had been received at the complainant’s registered email address",
@@ -20,48 +83,6 @@
    "url": "https://www.thehindu.com/news/national/spend-more-time-in-india-rijiju-takes-jibe-at-rahul-list-conditions-for-congress-to-win-more-mps/article71667420.ece",
    "content": "Kiren Rijiju has been taking on Rahul Gandhi and other Congress leaders for demanding an open debate with the Prime Minister",
    "published_date": "Thu, 05 Nov 2026 03:07:22 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "After a decade, Chikkajala Fort near Bengaluru to get a new lease of life using CSR funds",
-   "url": "https://www.thehindu.com/news/national/karnataka/chikkajala-fort-to-get-a-new-lease-of-life-after-a-decade-under-csr-funds/article71666178.ece",
-   "content": "In 2016, the National Highways Authority of India (NHAI), which implemented the road widening project of NH 44, demolished the northern side of the fort",
-   "published_date": "Thu, 05 Nov 2026 00:58:30 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "MSME training programme held at VIT in Vellore",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/msme-training-programme-held-at-vit-in-vellore/article71665636.ece",
-   "content": "In his presidential address, Mr. Viswanathan said that the MSME sector forms the backbone of the Indian economy",
-   "published_date": "Thu, 05 Nov 2026 00:50:56 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Subroto Bagchi calls for immediate overhaul of India’s vocational ecosystem",
-   "url": "https://www.thehindu.com/news/national/karnataka/subroto-bagchi-calls-for-immediate-overhaul-of-indias-vocational-ecosystem/article71667023.ece",
-   "content": "Subroto Bagchi condemns the pervasive middle-class habit of labelling household helps as ‘servant maids’ and laments the persistent stigmas that treat vocational institutions as destinations only for youth who have ‘gone astray’",
-   "published_date": "Thu, 05 Nov 2026 00:50:31 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Toll plazas on Chennai-Tiruchi national highway gear up for Deepavali rush",
-   "url": "https://www.thehindu.com/news/cities/chennai/toll-plazas-on-chennai-tiruchi-national-highway-gear-up-for-deepavali-rush/article71666789.ece",
-   "content": "A source in the National Highways Authority of India says that the contractors ensure that the toll operators and security guards do not go on leave. Boom barriers are positioned vertically so that no time is wasted in moving them up and down. However, Paranur plaza has a barrier-free toll system",
-   "published_date": "Thu, 05 Nov 2026 00:46:10 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Anaemia burden — iron alone is no solution",
-   "url": "https://www.thehindu.com/opinion/lead/anaemia-burden-iron-alone-is-no-solution/article71666828.ece",
-   "content": "India must tackle its anaemia burden through targeted nutrition, better diagnostics and comprehensive public health measures, not salt fortification alone",
-   "published_date": "Thu, 05 Nov 2026 00:42:56 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Science should move past ‘top 2%’ label",
-   "url": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
-   "content": "India needs both fundamental research and practical solutions without making inclusion in the ‘top 2% scientists’ database’ the primary goal",
-   "published_date": "Thu, 05 Nov 2026 00:28:48 +0530",
    "score": 0.6
   }
  ],
