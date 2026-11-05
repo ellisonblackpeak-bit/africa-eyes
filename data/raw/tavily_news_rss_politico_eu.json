@@ -2,7 +2,63 @@
  "success": true,
  "results": [
   {
-   "title": "Bomb threats target at least 12 more European flights",
+   "title": "France, US clash over G7 effort on AI safety",
+   "url": "https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/",
+   "content": "White House slams proposal by France for G7 oversight as “unnecessary bureaucracy.”",
+   "published_date": "Thu, 05 Nov 2026 14:37:21 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Meloni urges ‘disorganized’ EU to speak with one voice on Ukraine",
+   "url": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/",
+   "content": "The Italian prime minister slammed Europe's engagement with Ukraine peace talks as \"all over the place.\"",
+   "published_date": "Thu, 05 Nov 2026 14:20:56 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Mélenchon’s mission for his young fans: Debate boomers on Facebook",
+   "url": "https://www.politico.eu/article/france-jean-luc-melenchon-mission-for-his-young-fans-debate-boomers-on-facebook/",
+   "content": "The leftist presidential candidate is betting that his young supporters can win over their parents on the old-school social network.",
+   "published_date": "Thu, 05 Nov 2026 14:08:20 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "How NATO can turn data into defense advantage",
+   "url": "https://www.politico.eu/sponsored-content/how-nato-can-turn-data-into-defense-advantage/",
+   "content": "In a world where conflict outcomes are increasingly defined by information advantage, military leaders must treat data as a primary combat asset.",
+   "published_date": "Thu, 05 Nov 2026 13:36:20 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Burnham won’t follow Trump in actively inviting Putin to G20",
+   "url": "https://www.politico.eu/article/andy-burnham-donald-trump-invite-vladimir-putin-g20/",
+   "content": "Britain has been one of Ukraine's staunchest allies since Russia's full-scale invasion of the country in 2022.",
+   "published_date": "Thu, 05 Nov 2026 13:32:21 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Former Brexit negotiator Barnier: UK should get flexibility on euro and Schengen if it rejoins EU",
+   "url": "https://www.politico.eu/article/former-brexit-negotiator-michel-barnier-uk-flexibility-schengen-rejoin-eu/",
+   "content": "\"The door is open,\" Barnier said.",
+   "published_date": "Thu, 05 Nov 2026 13:11:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "UK hikes rates with eye on Trump’s next Middle East move",
+   "url": "https://www.politico.eu/article/uk-hikes-rates-with-eye-on-us-donald-trumps-next-middle-east-move-bank-of-england-andrew-bailey/",
+   "content": "Thursday's increase is unlikely to be the last unless Middle East conflict resolved, said Andrew Bailey.",
+   "published_date": "Thu, 05 Nov 2026 12:42:11 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Russia denies involvement in fridge hacks across Europe",
+   "url": "https://www.politico.eu/article/russia-denies-involvement-in-fridge-hacks-across-europe/",
+   "content": "Experts see Moscow as one of the main suspects behind the cyberattacks, but national authorities have yet to point to a specific culprit.",
+   "published_date": "Thu, 05 Nov 2026 12:23:15 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Bomb threats target at least 15 more European flights",
    "url": "https://www.politico.eu/article/more-european-flights-targeted-by-bomb-threats/",
    "content": "Aircraft across Europe were diverted after a spate of security threats.",
    "published_date": "Thu, 05 Nov 2026 11:21:42 +0000",
@@ -13,62 +69,6 @@
    "url": "https://www.politico.eu/article/skip-the-ted-talk-iran-mohammad-bagher-ghalibaf-trolls-us-jd-vance-over-midterm-defeat-analysis/",
    "content": "The speaker of Tehran's parliament jabbed the U.S. vice president for his 614-word missive on X.",
    "published_date": "Thu, 05 Nov 2026 11:14:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "‘Stop using US tech’: EU lawmaker says Starlink service cutoff led to deaths",
-   "url": "https://www.politico.eu/article/stop-using-u-s-tech-eu-lawmaker-warns-over-starlink-risks/",
-   "content": "The MEP pushed back on calls for Europe to forego building homegrown frontier AI models.",
-   "published_date": "Thu, 05 Nov 2026 10:49:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UN experts warn of Big Tech influence over Ireland’s digital oversight",
-   "url": "https://www.politico.eu/article/un-experts-warn-for-big-tech-influence-over-irelands-tech-oversight/",
-   "content": "Two top legal voices warned of risks of a \"revolving door\" between regulators and the industries Ireland regulates.",
-   "published_date": "Thu, 05 Nov 2026 10:38:53 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "French National Assembly unanimously rejects budget bill",
-   "url": "https://www.politico.eu/article/french-national-assembly-unanimously-rejects-budget-bill/",
-   "content": "The government looks increasingly likely to force through its €43 billion budget squeeze without a parliamentary vote.",
-   "published_date": "Thu, 05 Nov 2026 10:13:43 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Farage’s Reform gets serious on defense",
-   "url": "https://www.politico.eu/article/nigel-farage-reform-uk-gets-serious-on-defense/",
-   "content": "Reform UK unveiled its dedicated spokesperson for the armed forces on Thursday.",
-   "published_date": "Thu, 05 Nov 2026 10:02:08 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "German prosecutors investigate hotel death of Bavarian minister",
-   "url": "https://www.politico.eu/article/german-prosecutors-investigate-hotel-death-of-55-year-old-bavarian-minister/",
-   "content": "Hubert Aiwanger had led the Free Voters conservative party since 2018.",
-   "published_date": "Thu, 05 Nov 2026 09:37:39 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "How to find a job in the age of AI",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-to-find-a-job-in-the-age-of-ai/",
-   "content": "Artificial intelligence is fundamentally reshaping Europe’s job market. The Commission is hoping to do something about that. Today on the show, Zoya Sheftalovich and Sarah Wheaton discuss the unveiling of Commissioner Roxana Mînzatu’s Education and Skills Package. In it, the EU executive sets out plans to boost vocational education and training for jobs that require […]",
-   "published_date": "Thu, 05 Nov 2026 05:05:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Donald Trump: Von allmächtig zu ohnmächtig?",
-   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/donald-trump-von-allmachtig-zu-ohnmachtig/",
-   "content": "Die blaue Welle lässt Donald Trump politisch stark geschwächt aus den Midterms hervorgehen. Während bei den Republikanern die Loyalitätsfront bröckelt, stehen die siegreichen Demokraten vor weiteren Diskussionen um ihre künftige Ausrichtung. Die Vize-Chefredakteurin von POLITICO Deutschland, Annett Meiritz, analysiert im Gespräch mit Maximilian Stascheit, warum der Richtungsstreit ein Kulturkampf ist und wie Trump seinen Fokus […]",
-   "published_date": "Thu, 05 Nov 2026 04:30:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Beyond crisis management: a new policy agenda for schizophrenia",
-   "url": "https://www.politico.eu/sponsored-content/beyond-crisis-management-a-new-policy-agenda-for-schizophrenia/",
-   "content": "POLITICAL ADVERTISEMENT More information here.",
-   "published_date": "Thu, 05 Nov 2026 04:00:00 +0000",
    "score": 0.6
   }
  ],

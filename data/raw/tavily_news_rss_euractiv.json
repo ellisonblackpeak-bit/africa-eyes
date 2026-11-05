@@ -2,6 +2,55 @@
  "success": true,
  "results": [
   {
+   "title": "Kremlin denies Russia role in fridge cyberattacks",
+   "url": "https://www.rapporteur.com/news/kremlin-denies-russia-role-in-fridge-cyberattacks/",
+   "content": "Grocery stores in at least nine European countries face hundreds of millions in food losses",
+   "published_date": "Thu, 05 Nov 2026 14:48:31 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU ‘closely monitoring’ aircraft bomb hoaxes",
+   "url": "https://www.rapporteur.com/news/eu-closely-monitoring-aircraft-bomb-hoaxes/",
+   "content": "Brussels has activated EU-level aviation security information sharing mechanism",
+   "published_date": "Thu, 05 Nov 2026 14:05:42 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Talks ‘well underway’ for partial German takeover of tank maker KNDS: source",
+   "url": "https://www.rapporteur.com/news/talks-well-underway-for-partial-german-takeover-of-tank-maker-knds-source/",
+   "content": "The move would jettison previous plans to float a share of KNDS on financial markets via an initial public offering",
+   "published_date": "Thu, 05 Nov 2026 13:59:46 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Democrats’ midterm victory unlikely to sway Trump on Ukraine",
+   "url": "https://www.rapporteur.com/news/democrats-midterm-victory-unlikely-to-sway-trump-on-ukraine/",
+   "content": "Presidential veto powers and limited weapons stocks could hamper additional deliveries to Kyiv, analysts warn",
+   "published_date": "Thu, 05 Nov 2026 13:32:04 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Meloni protests EU disarray as Brussels hosts Ukraine talks",
+   "url": "https://www.rapporteur.com/news/meloni-protests-eu-disarray-as-brussels-hosts-ukraine-talks/",
+   "content": "Italian leader protests that the lack of a single EU voice at the table ‘is unacceptable’",
+   "published_date": "Thu, 05 Nov 2026 13:13:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Dublin seeks to rein in Franco-German car emissions deal",
+   "url": "https://www.rapporteur.com/news/dublin-seeks-to-rein-in-franco-german-car-emissions-deal/",
+   "content": "Irish proposal would deny zero-emission status to cars running on clean fuels",
+   "published_date": "Thu, 05 Nov 2026 12:57:09 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Parliament’s two biggest groups to co-lead EU Kids Act",
+   "url": "https://www.rapporteur.com/news/parliaments-two-biggest-groups-to-co-lead-eu-kids-act/",
+   "content": "EPP and S&D will share rapporteurship of Commission's online child safety law",
+   "published_date": "Thu, 05 Nov 2026 11:59:16 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Beijing warns EU against deploying anti-China trade weapons",
    "url": "https://www.rapporteur.com/news/beijing-warns-eu-against-deploying-anti-china-trade-weapons/",
    "content": "Brussels is preparing an armoury of new trade tools to potentially wield against Beijing",
@@ -160,55 +209,6 @@
    "url": "https://www.rapporteur.com/news/eu-nato-split-roles-in-brussels-talks-on-ukraine/",
    "content": "A two-track structure emerges for EU-US-NATO ahead of next week's Abu Dhabi summit",
    "published_date": "Wed, 04 Nov 2026 17:20:20 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "CAP cuts would hit smaller farms, livestock producers hardest",
-   "url": "https://www.rapporteur.com/news/cap-cuts-would-hit-smaller-farms-livestock-producers-hardest/",
-   "content": "New study warns proposed EU farm funding cuts would hit beef and sheep producers particularly hard",
-   "published_date": "Wed, 04 Nov 2026 17:18:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Conscious uncoupling",
-   "url": "https://www.rapporteur.com/news/conscious-uncoupling/",
-   "content": "Tonight's edition also includes: Stalling Ukraine-Europe talks on alternatives to Starlink",
-   "published_date": "Wed, 04 Nov 2026 16:57:25 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine’s IMF loan hinges on new EU funding, Brussels warns",
-   "url": "https://www.rapporteur.com/news/ukraines-imf-loan-hinges-on-new-eu-funding-brussels-warns/",
-   "content": "Divided EU leaders are scrambling to secure €45 billion in additional funding for Kyiv",
-   "published_date": "Wed, 04 Nov 2026 16:55:59 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "MEPs push to overhaul EU cross-border healthcare rules",
-   "url": "https://www.rapporteur.com/news/meps-push-to-overhaul-eu-cross-border-healthcare-rules/",
-   "content": "Rare disease patients face financial and bureaucratic barriers to accessing treatment abroad",
-   "published_date": "Wed, 04 Nov 2026 16:05:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Centrist MEPs agree on reversal of petrol, diesel car ban",
-   "url": "https://www.rapporteur.com/news/centrist-meps-agree-on-reversal-of-petrol-diesel-car-ban/",
-   "content": "Greens' negotiator warns of investment risk from \"political flip-flopping\"",
-   "published_date": "Wed, 04 Nov 2026 15:41:56 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "No date for Ukraine’s EU entry",
-   "url": "https://www.rapporteur.com/news/no-date-for-ukraines-eu-entry/",
-   "content": "War-torn Ukraine is behind Moldova in the race to finish EU membership negotiations",
-   "published_date": "Wed, 04 Nov 2026 14:52:37 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "First EU-wide space regulation gets handshake deal in Parliament",
-   "url": "https://www.rapporteur.com/news/first-eu-wide-space-regulation-gets-handshake-deal-in-parliament/",
-   "content": "The final text still needs to be written before going to a full vote",
-   "published_date": "Wed, 04 Nov 2026 14:47:46 +0000",
    "score": 0.6
   }
  ],

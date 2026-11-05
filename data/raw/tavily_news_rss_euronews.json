@@ -2,9 +2,37 @@
  "success": true,
  "results": [
   {
-   "title": "France: Workers and students unite in nationwide protests over living costs",
+   "title": "Ueno Bank liquidation triggers Paraguay political turmoil and impeachment move against Peña",
+   "url": "https://www.euronews.com/2026/11/05/ueno-bank-liquidation-triggers-paraguay-political-turmoil-and-impeachment-move-against-pen",
+   "content": "The accounting black hole at Ueno Bank is wiping out public funds, leaving thousands without access to their deposits and pushing Paraguay into its worst institutional crisis in years.",
+   "published_date": "Thu, 05 Nov 2026 15:38:17 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "France: Up to 55,000 march in Lyon amid clashes and tear gas",
+   "url": "https://www.euronews.com/video/2026/11/05/france-up-to-55000-march-in-lyon-amid-clashes-and-tear-gas",
+   "content": "Tens of thousands marched through Lyon area during a nationwide strike over wages and purchasing power. Police charged demonstrators and used tear gas as clashes erupted along the protest route.",
+   "published_date": "Thu, 05 Nov 2026 15:08:48 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "South Korea plans to extend anti-piracy patrols closer to Strait of Hormuz",
+   "url": "https://www.euronews.com/2026/11/05/south-korea-plans-to-extend-anti-piracy-patrols-closer-to-strait-of-hormuz",
+   "content": "Seoul said pirates have recently ventured further from the Somali coast and added that it wanted to send a patrol aircraft to protect merchant ships off Oman while keeping its forces out of the ongoing Iran war.",
+   "published_date": "Thu, 05 Nov 2026 13:07:23 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Milei and Sánchez exchange a cold greeting at Ibero-American Summit",
+   "url": "https://www.euronews.com/2026/11/05/milei-and-sanchez-exchange-a-cold-greeting-at-ibero-american-summit",
+   "content": "Argentine President Javier Milei and Spanish Prime Minister Pedro Sánchez exchanged a brief and frosty greeting at the Ibero-American Summit in Madrid on Wednesday. Their encounter comes two weeks after Milei called Sánchez an “unpresentable dictator”.",
+   "published_date": "Thu, 05 Nov 2026 13:00:08 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "France: Mass protests and school blockades mark fourth national strike",
    "url": "https://www.euronews.com/video/2026/11/05/france-workers-and-students-unite-in-nationwide-protests-over-living-costs",
-   "content": "Thousands of people are taking part in nationwide strikes and demonstrations across France, demanding higher wages and stronger public services. Authorities have imposed restrictions on protest routes in Paris, Lyon and at least half a dozen major cities.",
+   "content": "Hundreds of thousands joined a fourth nationwide day of protests across France. Police used tear gas outside a Paris school, while major demonstrations disrupted Marseille and Nantes.",
    "published_date": "Thu, 05 Nov 2026 12:55:12 +0100",
    "score": 0.6
   },
@@ -181,34 +209,6 @@
    "url": "https://www.euronews.com/2026/11/04/after-us-midterms-a-weakened-trump-may-pose-a-greater-threat-to-europe",
    "content": "After the midterms, Europe will not get a weaker Trump but one who turns even more to global politics, warns US expert Josef Braml. Europe cannot wait this Trump out.",
    "published_date": "Wed, 04 Nov 2026 14:27:02 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "'A feeling of redemption': Young voters in Maine hail Democratic victory",
-   "url": "https://www.euronews.com/2026/11/04/a-feeling-of-redemption-young-voters-in-maine-hail-democratic-victory",
-   "content": "Young voters in Portland, Maine, have welcomed the Democrats' sweeping victories in the 2026 midterm elections, with celebrations breaking out as results came in. Some described the outcome as a moment of redemption after years of political disappointment.",
-   "published_date": "Wed, 04 Nov 2026 14:12:11 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 4th, 2026 – Midday",
-   "url": "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-midday",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Wed, 04 Nov 2026 12:00:15 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Hockey nations refuse to play Russia as Germany weighs pulling out as host",
-   "url": "https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host",
-   "content": "Finland, Norway, the Czech Republic, Latvia, Denmark and Sweden have said they will not face Russia at the 2027 championship, after a court ruling overturned a four-year ban on Russian national teams. Germany’s federation said the ruling “fundamentally changes the situation” for it as host nation.",
-   "published_date": "Wed, 04 Nov 2026 11:57:32 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Portugal: Housing protesters return to Lisbon square after court ruling",
-   "url": "https://www.euronews.com/video/2026/11/04/portugal-housing-protesters-return-to-lisbon-square-after-court-ruling",
-   "content": "Housing protesters have returned to Lisbon's historic Rossio Square, setting up around 100 tents following a court ruling. The demonstration comes as Portugal's government faces growing pressure over housing.",
-   "published_date": "Wed, 04 Nov 2026 11:19:36 +0100",
    "score": 0.6
   }
  ],
