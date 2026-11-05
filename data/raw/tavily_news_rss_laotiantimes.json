@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Laos Turns to Community Support as Young People Face Rising Mental Health Pressures",
+   "url": "https://laotiantimes.com/2026/11/05/laos-turns-to-community-support-as-young-people-face-rising-mental-health-pressures/",
+   "content": "Mental health challenges often go unnoticed in Laos, where people experiencing anxiety and emotional distress may seek help for physical symptoms instead. Stigma, cultural beliefs, and a shortage of specialists make it harder for locals to get the care they need. According to the World Health Organization (WHO), the suicide mortality rate in Laos was […]",
+   "published_date": "Thu, 05 Nov 2026 03:14:16 +0000",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",

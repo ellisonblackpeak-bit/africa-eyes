@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Philippines and EU conclude Free Trade Agreement | RÖDL",
-   "url": "https://www.roedl.com/en/insights/philippines-eu-free-trade-agreement",
-   "snippet": "### An agreement with landmark significance\n\nAs stated in a joint announcement by Philippine Trade Secretary Cristina Roque and EU Commissioner for Trade and Economic Security Maroš Šefčovič: “The agreement also sends a clear signal of reinforced engagement between the EU and the Philippines, anchored in their common interest in an open, inclusive, and rules-based international order in the curren",
-   "published": "Tue, 03 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Commission unveils 2027 work programme for a stronger and sovereign Europe and reports on simplification efforts - PubAffairs Bruxelles",
-   "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/commission-unveils-2027-work-programme-for-a-stronger-and-sovereign-europe-and-reports-on-simplification-efforts",
-   "snippet": "Leveraging our power and partnerships abroad:The EU will continue building trusted partnerships to reduce vulnerabilities and strengthen supply chains. It will deepen strategic cooperation with key partners, such as Canada, and cement our trade and economic ties abroad, notably with Indonesia, India, Australia, the Philippines and Thailand. The EU will build new tools against economic risks abroad",
-   "published": "Wed, 04 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU Maritime Security Strategy: joint report highlights progress | EEAS",
-   "url": "https://www.eeas.europa.eu/eeas/eu-maritime-security-strategy-joint-report-highlights-progress_en?s=62",
-   "snippet": "Since 2023, maritime security threats have intensified, ranging from sabotage of critical maritime infrastructure, drone attacks against merchant vessels and shadow fleet activities, to piracy, cyberattacks and drug trafficking.\n\nIn response, the EU and its Member States have stepped up naval operations, maritime exercises, cooperation with international partners, information sharing, and efforts ",
-   "published": "Tue, 03 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU-UK Security and Defence dialogue: Joint doorstep by High Representative/Vice-President Kaja Kallas and UK Secretary of State for Defence Wes Streeting | EEAS",
-   "url": "https://www.eeas.europa.eu/eeas/eu-uk-security-and-defence-dialogue-joint-doorstep-high-representativevice-president-kaja-kallas-and_en",
-   "snippet": "EU-UK Security and Defence dialogue: Joint doorstep by High Representative/Vice-President Kaja Kalla\n\n© European Union 2026\n\nCheck against delivery!\n\nGood morning everybody,\n\nI am very happy to welcome you here in the External Action Service for our dialogue on defence. There is so much more we can do together. We are very like-minded partners. We have the Security and Defence Partnership, and now",
-   "published": "Tue, 03 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Malaysia to hold meetings on security threats, PM says | Raleigh News & Observer",
-   "url": "https://www.newsobserver.com/news/nation-world/world/article317894509.html",
-   "snippet": "Malaysia Prime Minister Anwar Ibrahim leads his delegation during the Special Brunei Darussalam-Indonesia-Malaysia-Philippines East ASEAN Growth Area (BIMP-EAGA) Summit on the sidelines of the 48th ASEAN Summit and Related Meetings, in Cebu, Philippines, May 7, 2026. Rolex Dela Pena/Pool via REUTERS/File Photo  Rolex Dela Pena  Reuters [...] By Reuters Reuters\n\nMalaysia Prime Minister Anwar Ibrahi",
-   "published": "Tue, 03 Nov 2026 03:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU",
-   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
-   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Lavrov says EU ceasefire calls aim to give Kyiv time to rebuild combat capabilities",
-   "url": "https://www.aa.com.tr/en/world/lavrov-says-eu-calls-for-ukraine-ceasefire-seek-to-give-kyiv-breather-to-restore-combat-potential-/4109928",
-   "snippet": "logo\n\nlogo\n\nLavrov says EU ceasefire calls aim to give Kyiv time to rebuild combat capabilities",
-   "published": "Tue, 03 Nov 2026 14:40:15 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\n  \"detail\": {\n    \"error\": \"Your request has been blocked due to excessive requests. Please reduce the rate of requests. Verify you are using production API keys.\"\n  }\n}",
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

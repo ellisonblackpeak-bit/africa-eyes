@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Live: France braces for nationwide strikes in fresh test for Macron’s policies",
+   "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
+   "content": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide protests follow weeks of social unrest. Follow our liveblog for the latest updates.",
+   "published_date": "Thu, 05 Nov 2026 07:10:32 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "France braces for fresh protests in test for Macron's policies",
+   "url": "https://www.france24.com/en/france-braces-for-fresh-protests-in-test-for-macron-s-policies",
+   "content": "Hundreds of thousands of protesters are expected to march through French cities and public workers to strike on Thursday, in a fresh test for President Emmanuel Macron after weeks of ​unrest that have rattled ‌his government and dominated the agenda five months ahead of a presidential election.",
+   "published_date": "Thu, 05 Nov 2026 06:24:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Live: France braces for nationwide strikes in fresh test for Macron’s policies",
+   "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
+   "content": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide action follows weeks of social unrest. Follow our liveblog for the latest updates.",
+   "published_date": "Thu, 05 Nov 2026 05:53:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Melania Trump to host Ukrainian, Russian officials at White House",
+   "url": "https://www.france24.com/en/americas/20261105-melania-trump-to-host-ukrainian-russian-officials-at-white-house",
+   "content": "Russian and Ukrainian officials, including human rights chiefs, are set to meet US First Lady Melania Trump at the White House Thursday ahead of Abu Dhabi talks aimed at ending the Ukraine war. It comes weeks after Melania Trump helped broker a partial ceasefire enabling the evacuation of civilians from the Russian-occupied Ukrainian town of Oleshky.",
+   "published_date": "Thu, 05 Nov 2026 05:23:48 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
    "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
    "content": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security law, having spent nearly six years imprisoned.",
@@ -139,34 +167,6 @@
    "url": "https://www.france24.com/en/us-midterm-elections-maybe-the-best-colour-for-texas-is-purple",
    "content": "Texas flipped blue following the US midterm elections, marking a historic shift for a state that hasn't been led by Democrats in decades. The legacy of prolonged Republican leadership has left a lasting mark, but as Democrat James Talarico said with this election, 'maybe the best colour for Texas is purple.' FRANCE 24's Texas correspondent Andres Espinal reports.",
    "published_date": "Wed, 04 Nov 2026 15:45:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Is Republican Party able to pivot away from MAGA movement, or will it sputter forward leaderless?'",
-   "url": "https://www.france24.com/en/is-republican-party-able-to-pivot-away-from-maga-movement-or-will-it-sputter-forward-leaderless",
-   "content": "Does an electoral repudiation of Donald Trump also mark the beginning of MAGA’s decline? Delano D'Souza is pleased to welcome Ian Reifowitz, SUNY Distinguished Professor of Historical Studies at Empire State University, who describes the Republican defeat as “an absolute and complete repudiation” of the president. He connects voters’ economic frustrations with resentment over presidential enrichment, while questioning whether ideological differences between progressive and moderate Democrats proved decisive. Looking towards 2028, Reifowitz identifies a central Republican dilemma: “If JD Vance is the nominee, he can’t run against Donald Trump”, yet Trump himself may refuse to relinquish control of the party.",
-   "published_date": "Wed, 04 Nov 2026 15:16:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "French blood banks foil new cyberattack targeting refrigerators",
-   "url": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators",
-   "content": "A cyberattack in France targeted three cold stores containing donated blood samples and plasma, authorities said on Wednesday. The incident – which was unsuccessful due to the facilities' alarm systems – is the latest in a series of suspected attacks that have targeted refrigerators in European supermarkets, as well as French cooperative bank, Credit Mutuel Arkea, which was also affected Wednesday.",
-   "published_date": "Wed, 04 Nov 2026 15:10:17 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US midterm elections: Gen Z gives Democrats their strongest support",
-   "url": "https://www.france24.com/en/video/20261104-us-midterm-elections-gen-z-gives-democrats-their-strongest-support",
-   "content": "In the US midterm elections, 50 million members of Gen Z were eligible to vote. Young voters gave Democrats the strongest support, with 75% of them voting for the party. This generation will be the biggest voting bloc in the United States in the coming years. FRANCE 24's Ophelie Jacobson has more.",
-   "published_date": "Wed, 04 Nov 2026 15:10:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "How Trump's broken promises on war, inflation handed Democrats the midterms",
-   "url": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
-   "content": "Speaking to Fox News following the midterm elections, US President Donald Trump admitted that inflation was likely one reason Republicans did poorly. Many Americans have been frustrated with how the Iran war has pushed up prices, including at the gasoline pump, especially given that Trump had campaigned for his second term on a pledge of “no new wars”, as Ellen Gainsford explains.",
-   "published_date": "Wed, 04 Nov 2026 15:02:07 GMT",
    "score": 0.6
   }
  ],

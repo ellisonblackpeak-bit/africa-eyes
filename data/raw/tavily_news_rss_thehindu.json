@@ -2,17 +2,73 @@
  "success": true,
  "results": [
   {
-   "title": "U.S. midterm elections 2026 LIVE: Donald Trump’s midterm defeat dims hopes of North Korea meeting",
+   "title": "Threat emails to Ayushmann Khurrana, Tusshar Kapoor: Mumbai Crime branch arrests techie from Bengaluru",
+   "url": "https://www.thehindu.com/news/cities/mumbai/threat-emails-to-ayushmann-khurrana-tusshar-kapoor-mumbai-crime-branch-arrests-techie-from-bengaluru/article71668622.ece",
+   "content": "The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days",
+   "published_date": "Thu, 05 Nov 2026 12:48:37 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "At least two bodies recovered, several feared trapped after building collapses in Old Delhi",
+   "url": "https://www.thehindu.com/news/cities/Delhi/chawri-bazaar-delhi-building-collapse/article71668798.ece",
+   "content": "At least six fire units, including water tenders and rescue vehicles, have been rushed to the spot with senior officers supervising the rescue operation, the officials said",
+   "published_date": "Thu, 05 Nov 2026 12:44:53 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Tanvi Patri becomes first Indian badminton player to reach Youth Olympic badminton final",
+   "url": "https://www.thehindu.com/sport/tanvi-patri-becomes-first-indian-badminton-player-to-reach-youth-olympic-badminton-final/article71668839.ece",
+   "content": "The 15-year-old from Odisha continued her impressive run, stunning Japan’s second seed, Yuzuno Watanabe, 21-14, 11-21, 21-19, in a hard-fought 54-minute semifinal to book her place in the title clash",
+   "published_date": "Thu, 05 Nov 2026 12:42:56 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Markets on spree after crude tumbles 9% following Trump’s midterm fallout",
+   "url": "https://www.thehindu.com/business/markets/stock-markets-on-november-5-2026-sensex-and-nifty-oil-prices/article71668596.ece",
+   "content": "Analysts suggest that the sharp decline in oil prices and the opening up of the Strait of Hormuz are anchoring the Indian markets",
+   "published_date": "Thu, 05 Nov 2026 12:41:47 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Fire breaks out at factory in Delhi’s Narela Industrial Area",
+   "url": "https://www.thehindu.com/news/cities/Delhi/fire-breaks-out-at-factory-in-delhis-narela-industrial-area/article71668788.ece",
+   "content": "The fire prompted the deployment of 10 fire tenders",
+   "published_date": "Thu, 05 Nov 2026 12:12:27 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "U.S. midterm elections 2026 LIVE: After midterm loss, Trump left to weigh his next move in Iran war",
    "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
    "content": "Indian-American physician Amish Shah has made history after becoming the first from the community to represent Arizona in Congress",
-   "published_date": "Thu, 05 Nov 2026 11:11:30 +0530",
+   "published_date": "Thu, 05 Nov 2026 12:04:59 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Who filed 77% of Form 7s in Delhi’s Mustafabad? BJP BLAs named as ‘objectors’ deny them",
+   "url": "https://www.thehindu.com/news/cities/Delhi/who-filed-77-of-form-7s-in-delhis-mustafabad-bjp-blas-named-as-objectors-deny-them/article71666702.ece",
+   "content": "Of the 20 BJP-appointed Booth Level Agents named in 787 deletion applications, 16 deny submitting or signing the forms, while one says he filed “over 500”",
+   "published_date": "Thu, 05 Nov 2026 12:03:48 +0530",
    "score": 0.6
   },
   {
    "title": "Amish Shah claims victory in Arizona, sixth Indian-American in U.S. House",
    "url": "https://www.thehindu.com/news/international/amish-shah-claims-victory-in-arizona-sixth-indian-american-in-us-house/article71668702.ece",
    "content": "Amish Shah made history as he became the first Indian-American to represent Arizona in Congress. By defeating Feely, Mr. Shah flipped a Republican-held seat",
-   "published_date": "Thu, 05 Nov 2026 10:53:48 +0530",
+   "published_date": "Thu, 05 Nov 2026 11:58:55 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "US midterm election results 2026: Key Indian-origin winners",
+   "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece",
+   "content": "Indian-Americans Suhas Subramanyam and Pia Dandiya won their seats in the US House of Representatives, while Vivek ‌Ramaswamy‌ was defeated in ⁠the ⁠race to become Ohio’s ‌next governor",
+   "published_date": "Thu, 05 Nov 2026 11:50:47 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Manasvi Vashishta: From IIT Kharagpur graduate, former VP Dhankhar’s PSO and ACP at centre of Delhi Police protest",
+   "url": "https://www.thehindu.com/news/cities/Delhi/manasvi-vashishta-from-iit-kharagpur-graduate-former-vp-dhankhars-pso-and-acp-at-centre-of-delhi-police-protest/article71668611.ece",
+   "content": "A 2019-batch DANIPS officer, Vashishta has served with the Sashastra Seema Bal and in the Andaman and Nicobar Islands. He was suspended hours after police personnel protested his transfer.",
+   "published_date": "Thu, 05 Nov 2026 11:30:34 +0530",
    "score": 0.6
   },
   {
@@ -34,55 +90,6 @@
    "url": "https://www.thehindu.com/news/cities/Delhi/how-is-delhi-implementing-restrictions-to-reduce-air-pollution/article71668565.ece",
    "content": "From Automatic Number Plate Recognition cameras to AI-enabled Integrated Control and Command Centres ICCC and manual checking, the authorities have adopted a mixed approach to impose the restrictions with varying degrees of success",
    "published_date": "Thu, 05 Nov 2026 10:09:58 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
-   "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
-   "content": "‘The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades’, says Bench",
-   "published_date": "Thu, 05 Nov 2026 10:08:08 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Anaemia burden — iron alone is no solution",
-   "url": "https://www.thehindu.com/opinion/lead/anaemia-burden-iron-alone-is-no-solution/article71666828.ece",
-   "content": "India must tackle its anaemia burden through targeted nutrition, better diagnostics and comprehensive public health measures, not salt fortification alone",
-   "published_date": "Thu, 05 Nov 2026 09:41:19 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Delhi High Court refuses to entertain PIL to stay release of Sunny Deol-starrer ‘Suryaa’",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-refuses-to-entertain-pil-to-stay-release-of-sunny-deol-starrer-suryaa/article71665823.ece",
-   "content": "A Bench of Acting Chief Justice Nitin Wasudeo Sambre and Justice Sanjay Sharma said there was no reason to entertain a separate petition when the issue was already being examined by a single judge bench",
-   "published_date": "Thu, 05 Nov 2026 09:31:51 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "From poverty alleviation to prosperity",
-   "url": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
-   "content": "India has reduced extreme poverty, but its high prosperity gap shows that millions remain far from a comfortable standard of living; informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility",
-   "published_date": "Thu, 05 Nov 2026 09:02:46 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "DRI seizes 7.85 kg of hashish smuggled from U.S. to Mumbai in mirror frame; one arrested",
-   "url": "https://www.thehindu.com/news/cities/mumbai/dri-seizes-785-kg-of-hashish-smuggled-from-us-to-mumbai-in-mirror-frame-one-arrested/article71666672.ece",
-   "content": "Following the seizure, DRI officials traced the consignee of the parcel and arrested the person on November 2 under the provisions of the NDPS Act, 1985. The agency has not disclosed the identity of the arrested person",
-   "published_date": "Thu, 05 Nov 2026 08:53:29 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Sharad Pawar admitted to Mumbai hospital after Pune discharge",
-   "url": "https://www.thehindu.com/news/cities/mumbai/sharad-pawar-hospital-mumbai/article71668500.ece",
-   "content": "Earlier in the day, the 85-year-old Sharad Pawar was discharged from Ruby Hall Clinic in Pune, where he was admitted on November 2, following complaints of cough and pleuritic (chest) pain",
-   "published_date": "Thu, 05 Nov 2026 08:52:33 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "East Delhi Police to hold weekly grievance meetings every Friday at 4 p.m. after ACP Manasvi Vashishta’s suspension over parking row",
-   "url": "https://www.thehindu.com/news/cities/Delhi/east-delhi-parking-dispute-that-snowballed-into-a-police-lawyers-face-off-acp-manasvi-vashishtas-suspension/article71666115.ece",
-   "content": "The move follows the Shahdara parking dispute that escalated into a lawyers-police face-off and a protest by over 100 police personnel outside Delhi Police headquarters, prompting the suspension of the ACP",
-   "published_date": "Thu, 05 Nov 2026 08:49:07 +0530",
    "score": 0.6
   }
  ],
