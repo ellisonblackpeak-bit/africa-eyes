@@ -1095,8 +1095,13 @@ if("serviceWorker" in navigator){
   function host(u){try{return new URL(u).hostname.replace(/^www\./,'');}catch(e){return '';}}
   function badge(t){var nm={pol:'政治',eco:'经济',sec:'安全',ene:'能源',min:'矿产'}[t]||t;
     return '<span class="badge b-'+t+'">'+nm+'</span>';}
-  function ctys(list){return (list||[]).map(function(c){
-    return '<span class="cty">'+(CNAMES[c]||c)+'</span>';}).join('');}
+  /* 国别徽标。尼日利亚与尼日尔在中文里只差一个字，尼日利亚还有一个州叫
+     尼日尔州 —— 读者 2026-11-05 明确说「没分清」。build_data 把卡片实际
+     指向的尼日利亚一级行政区放在 it.place 里（尼日尔州 / 尼日尔河三角洲），
+     这里直接接在国名后面写成「尼日利亚·尼日尔州」，不用再猜。 */
+  function ctys(list,place){return (list||[]).map(function(c){
+    return '<span class="cty">'+(CNAMES[c]||c)
+      +(c==='ng'&&place?'·'+place:'')+'</span>';}).join('');}
   function fmtDate(s){if(!s)return '';var d=new Date(s);if(isNaN(d))return s;
     return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
 
@@ -1441,7 +1446,7 @@ if("serviceWorker" in navigator){
   function cardNews(it){
     return '<div class="card" data-k="'+keyOf(it.url)+'">'+head(it,'title','title_zh')
       +'<div class="meta">'+tb(it.tier)+(it.actor?'<span class="cty">'+esc(it.actor)+'</span>':'')
-      +(it.topic||[]).map(badge).join('')+ctys(it.country)
+      +(it.topic||[]).map(badge).join('')+ctys(it.country,it.place)
       +'<span>'+(fmtDate(it.published)||'日期未标注')+'</span>'
       +'<span>距今 '+it.ageDays+' 天</span></div>'
       +body(it,'summary','summary_zh')
@@ -1457,7 +1462,7 @@ if("serviceWorker" in navigator){
       +'<span class="pf '+pf+'">'+(PNAMES[it.platform]||it.platform)+'</span>'
       +(it.grokSummary?'<span class="pf" style="background:#fef0e6;color:#a55a17">Grok 摘要</span>':'')
       +tb(it.tier)+(it.actor?'<span class="cty">'+esc(it.actor)+'</span>':'')
-      +(it.topic||[]).map(badge).join('')+ctys(it.country)
+      +(it.topic||[]).map(badge).join('')+ctys(it.country,it.place)
       +(it.postedAt?'<span>'+esc(it.postedAt)+'</span>':'')
       +(typeof it.ageDays==='number'?'<span>距今 '+it.ageDays+' 天</span>':'')+'</div>'
       +head(it,'title','title_zh')

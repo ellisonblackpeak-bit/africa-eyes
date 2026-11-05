@@ -37,7 +37,8 @@ tree = ast.parse(src)
 WANT = {
     "CN_RX", "CN_RX_INTL", "CN_ASSET_RX", "TERROR_RX", "NIGER_OIL_RX",
     "POLICY_ANCHOR_RX", "ECON_RX", "ILLEGAL_MINING_RX", "DEFENSE_POLICY_RX",
-    "AFR4_CTYS", "US_RX", "US_ABBR", "has_us", "is_africa_off_topic",
+    "HARDSHIP_RX", "AFR4_CTYS", "US_RX", "US_ABBR", "has_us",
+    "is_africa_off_topic",
 }
 keep = []
 for node in tree.body:

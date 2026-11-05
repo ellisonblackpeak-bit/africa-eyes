@@ -824,6 +824,11 @@ CTY_MARKERS = {
            "夸拉", "奥约", "埃基蒂", "埃多州", "三角洲州", "巴耶尔萨",
            "河流州", "阿夸伊博姆", "十字河", "阿比亚", "埃努古", "埃博尼",
            "伊莫州", "吉加瓦", "尼日尔州", "联邦首都特区",
+           # 「尼日尔河三角洲」是尼日利亚的产油区，不是尼日尔共和国的领土。
+           # 少了这两条，`zh_cty_hits` 在「尼日尔河三角洲青年」里只匹配到
+           # 「尼日尔」（最长优先表里它比「尼日尔」长，所以必须先登记），
+           # 整条三角洲新闻就被判成尼日尔。
+           "尼日尔河三角洲", "尼日尔三角洲",
            # French and Hausa forms. "nigérian" (Nigerian) and "nigérien"
            # (Nigerien) differ by one letter and are NOT interchangeable — both
            # spellings are listed, on their own country, deliberately.
@@ -991,6 +996,48 @@ CTY_MARKERS = {
 NE_ONLY = re.compile(r"\bniger\b(?!\s*(?:state|delta|river|basin|company|insurance))", re.I)
 NG_RE = re.compile(r"\bnigeri", re.I)
 
+# ── 尼日利亚 / 尼日尔 / 尼日利亚的尼日尔州：三个东西，一个词根 ──────────────
+# 2026-11-05 读者指出页面「没分清尼日利亚、尼日尔、以及尼日利亚的尼日尔州」。
+# 英文里它们都长着 "Niger" 的样子，中文里更是只差一个字：
+#     尼日利亚   = Nigeria（国家，首都阿布贾）
+#     尼日尔     = Niger（国家，首都尼亚美）
+#     尼日尔州   = Niger State（尼日利亚 36 州之一，首府明纳 Minna）
+#     尼日尔河三角洲 = Niger Delta（尼日利亚产油区，不是尼日尔共和国的领土）
+#
+# 两层故障，两层都要修：
+#   ① 国别判定：`NE_ONLY` 已经把 "Niger State"/"Niger Delta" 排除在 ne 之外，
+#      但正文里另有一处裸 "Niger"（"across Niger"、"…in Niger."）时，
+#      一张尼日利亚州政府的卡片仍会同时挂上「尼日利亚」「尼日尔」两个标签。
+#   ② 译文：同一个 "Niger State" 在一轮构建里被译成三种写法 —— 尼日利亚州
+#      （根本不存在这个词）、尼日尔（读起来就是那个国家）、偶尔才对成尼日尔州。
+#      实测 2026-11-05 线上：「LAKURAWA…21 COMMUNITIES FLEE ATTACKS IN NIGER
+#      STATE」→「…尼日利亚州21个社区逃离袭击」。读者看到的就是这句。
+NIGER_STATE_EN = re.compile(
+    # "Niger state-owned uranium company" 里的 state 是形容词，不是州名。
+    r"\bniger\s+state\b(?!\s*[-–—]\s*owned)", re.I)
+NIGER_DELTA_EN = re.compile(r"\bniger\s+delta\b", re.I)
+_NIGER_STATE_OWNED_RX = re.compile(
+    r"\bniger\s+state\s*[-–—]?\s*owned\b", re.I)
+NIGER_STATE_RX = re.compile(
+    NIGER_STATE_EN.pattern + "|" + NIGER_DELTA_EN.pattern + "|"
+    r"尼日尔州|尼日尔河三角洲|尼日尔三角洲|"
+    # 尼日尔州的城市与地方政府区：标题常只写 Minna / Suleja / Kontagora，
+    # 不写州名（和 Arlit 之于尼日尔是同一个问题）。
+    r"\bminna\b|\bbida\b|\bsuleja\b|\bkontagora\b|\bnew\s+bussa\b|"
+    r"\bchanchaga\b|\blapai\b|\bwushishi\b|\bmokwa\b|\bgurara\b|\bmariga\b",
+    re.I)
+
+# 只有尼日尔共和国才有的地名、机构、族群写法。出现其一，说明这篇文案确实
+# 在讲尼日尔（"尼日利亚与尼日尔签署…"、"TSGP 经尼日尔"），ne 标签才留得住。
+# 刻意不收裸 "Niger"：那正是要被排除的东西。
+NE_STRONG_RX = re.compile(
+    r"\bniamey\b|\bcnsp\b|\btiani\b|\bagadez\b|\barlit\b|\bakouta\b|"
+    r"\bimouraren\b|\bsomair\b|\bcominak\b|\bsoraz\b|\bzinder\b|"
+    r"\btahoua\b|\bmaradi\b|\bdiffa\b|\bdosso\b|\btillaberi\b|\bbazoum\b|"
+    r"\bnigeri[eé]n|\bnijar\b|"
+    r"尼亚美|奇亚尼|阿加德兹|阿尔利特|津德尔|阿加德姆|索拉兹|尼日尔共和国",
+    re.I)
+
 # Domain-based country attribution (added 2026-10-20). The eight-neighbour RSS
 # feeds come back in the local language (Vietnamese / Korean / Hindi / Burmese
 # etc.) — the language-specific keyword list cannot match the title. Mapping
@@ -1117,6 +1164,12 @@ for _code, _words in CTY_MARKERS.items():
     for _w in _words:
         if _CJK_RX.search(_w):
             _ZH_CTY_MAP.setdefault(_w, set()).add(_code)
+# 「尼日尔州」是尼日利亚的州，但「尼日尔州长」是尼日尔的州长 —— 最长优先
+# 会把后者切成「尼日尔州」+「长」，于是一篇尼日尔政府的稿子被算成尼日利亚。
+# 用一个更长的键把它抢回来，比在调用处写 if 更省事，也不会漏掉任何调用点。
+# 只加「州长」这一条：「尼日尔州政府」是尼日利亚那个州的正常写法，
+# 中文里若指尼日尔共和国的州级政府，会写「尼日尔某州政府」，不能一概而论。
+_ZH_CTY_MAP["尼日尔州长"] = {"ne"}
 _ZH_CTY_KEYS = sorted(_ZH_CTY_MAP, key=len, reverse=True)
 _ZH_CTY_RX = re.compile("|".join(re.escape(w) for w in _ZH_CTY_KEYS))
 
@@ -1359,6 +1412,11 @@ def _tag_anchor_ok(c, dom, text):
 
 
 def classify_cty(title, body, dom="", url=""):
+    # "Niger state-owned uranium company" 里的 state 是形容词，不是州名。
+    # ng 的标记词表里有 "niger state"，不先摘掉这一句，尼日尔国家铀矿公司
+    # 就会被判成尼日利亚的尼日尔州（2026-11-05 加尼日尔州规则时一并处理）。
+    title = _NIGER_STATE_OWNED_RX.sub("Niger-owned", title or "")
+    body = _NIGER_STATE_OWNED_RX.sub("Niger-owned", body or "")
     out = [c for c, rx in CTY_RX.items()
            if 3 * len(rx.findall(title)) + len(rx.findall(body))]
     # Chinese names, matched once over the whole string so "尼日利亚" cannot also
@@ -1371,6 +1429,18 @@ def classify_cty(title, body, dom="", url=""):
         out.append("ng")
     if NE_ONLY.search(blob) and "ne" not in out:
         out.append("ne")
+    # ── Niger State / Niger Delta are Nigerian, full stop ──
+    # `NE_ONLY` already refuses "Niger State"/"Niger Delta" itself, but a bare
+    # "Niger" elsewhere in the same copy ("…across Niger", "…in Niger.") still
+    # added `ne`, so a Niger State government story carried BOTH 尼日利亚 and
+    # 尼日尔 on its card — the exact confusion the reader reported on 2026-11-05.
+    # Once the copy names the state or the delta, `ne` survives only on evidence
+    # that belongs to the republic alone (Niamey, CNSP, Agadez, Zinder…).
+    if NIGER_STATE_RX.search(blob):
+        if "ng" not in out:
+            out.append("ng")
+        if "ne" in out and not NE_STRONG_RX.search(blob):
+            out.remove("ne")
     # "EU imposes tariffs on Chinese EVs" names the bloc with a two-letter
     # abbreviation that no name list can carry (see EU_ABBR_RX).
     if EU_ABBR_RX.search(blob) and "eu" not in out:
@@ -2450,6 +2520,61 @@ def tidy_zh_title(t):
         if cut >= 10:
             s = s[:cut].rstrip("，、；：")
     return s or t
+
+
+# ── 国名归一：尼日利亚 / 尼日尔 / 尼日利亚的尼日尔州 ──────────────────────
+# 译名不能靠模型一次译对。2026-11-05 线上同一轮构建里，同一个 "Niger State"
+# 出现三种译法：
+#     「尼日利亚州」 —— 不存在的行政区划，读者无从理解；
+#     「尼日尔」     —— 读起来就是尼日尔共和国（另一个国家）；
+#     「尼日尔州」   —— 正确。
+# 英文原文是唯一可靠的事实来源，所以修复以英文为判据，绝不去猜中文：
+#   · 英文写了 Niger State  → 中文里的「尼日利亚州」和裸「尼日尔」都改成「尼日尔州」；
+#   · 英文写了 Niger Delta  → 「尼日尔三角洲」补成「尼日尔河三角洲」；
+#   · 英文只有 Nigeria/Nigerian、完全没有尼日尔线索 → 中文里的「尼日尔」是
+#     把 Nigeria 译错了，改成「尼日利亚」。最后这条只在英文里搜不到任何
+#     裸 "Niger" 时才触发，因为「尼日利亚与尼日尔签署…」两个名字都该出现。
+_ZH_NE_PLAIN = r"尼日尔(?!州|河|亚|三角洲)"
+
+
+def fix_geo_zh(en, zh):
+    """Repair the Nigeria / Niger / Niger-State confusion using the source text."""
+    if not zh:
+        return zh
+    en = en or ""
+    state = bool(NIGER_STATE_EN.search(en))
+    delta = bool(NIGER_DELTA_EN.search(en))
+    if state:
+        zh = zh.replace("尼日利亚州", "尼日尔州")
+        # 一篇长文里既有 "Niger State" 又提到尼亚美/阿加德兹时，裸「尼日尔」
+        # 多半真的是那个国家，不能一律改成「尼日尔州」。只在英文通篇没有
+        # 尼日尔共和国专有地名时才做整体替换。
+        if not NE_STRONG_RX.search(en):
+            zh = re.sub(_ZH_NE_PLAIN, "尼日尔州", zh)
+    if delta:
+        zh = zh.replace("尼日尔三角洲", "尼日尔河三角洲")
+        zh = re.sub(_ZH_NE_PLAIN, "尼日尔河三角洲", zh)
+    if not state and not delta and re.search(r"\bnigeri", en, re.I) \
+            and not NE_ONLY.search(en):
+        zh = re.sub(_ZH_NE_PLAIN, "尼日利亚", zh)
+    return zh
+
+
+def geo_place(en, zh, countries=None):
+    """The Nigerian sub-national unit a card is about, if it names one.
+
+    Shown next to the country badge so the reader never has to work out whether
+    a headline saying 尼日尔州 means Nigeria's Niger State or the republic.
+    """
+    if countries and "ng" not in countries:
+        return ""
+    en, zh = en or "", zh or ""
+    if NIGER_DELTA_EN.search(en) \
+            or "尼日尔河三角洲" in zh or "尼日尔三角洲" in zh:
+        return "尼日尔河三角洲"
+    if NIGER_STATE_EN.search(en) or "尼日尔州" in zh:
+        return "尼日尔州"
+    return ""
 
 
 def polish_title(title, body="", url=""):
@@ -4669,8 +4794,14 @@ def _evidence_for(c, title, body, summary, tag, strict=False):
         return True
     if c == "ng" and NG_RE.search(title + ("" if strict else " " + body)):
         return True
-    if c == "ne" and NE_ONLY.search(title + ("" if strict else " " + body)):
-        return True
+    if c == "ne":
+        _nb = title + ("" if strict else " " + body)
+        if NE_ONLY.search(_nb):
+            # 「Niger State」/「Niger Delta」是尼日利亚的，同一篇里另有一处裸
+            # "Niger" 不能当成尼日尔共和国的证据——否则一张尼日尔州的卡片
+            # 会同时挂着两个国家的徽标（2026-11-05 读者反馈）。
+            if not (NIGER_STATE_RX.search(_nb) and not NE_STRONG_RX.search(_nb)):
+                return True
     for tbl in (TAG_CTY, SOC_TAG_CTY):
         v = tbl.get(tag or "")
         v = v if isinstance(v, (list, tuple)) else ([v] if v else [])
@@ -5068,6 +5199,22 @@ for _x in news + social:
         _x["snippet_zh"] = ""
     if not zh_ok(_x.get("body"), _x.get("body_zh")):
         _x["body_zh"] = ""
+    # ── 国名归一（尼日利亚 / 尼日尔 / 尼日利亚的尼日尔州）──
+    # 放在这里而不是翻译那一侧，是因为中文有三个来源：xAI 翻译缓存、池结转、
+    # 上游直接给的中文稿。只修其中一条，另外两条照旧把「尼日利亚州」送上页面。
+    # 2026-11-04 的 tidy_zh_title 已经因为同样的原因吃过一次亏。
+    for _f, _g in (("title", "title_zh"), ("summary", "summary_zh"),
+                   ("snippet", "snippet_zh"), ("body", "body_zh")):
+        if _x.get(_g):
+            _x[_g] = fix_geo_zh(_x.get(_f), _x[_g])
+    # 无正文来源的兜底摘要里嵌着英文标题：它生成时 title_zh 还没回填，于是
+    # 「据 truthnigeria.com 报道：LAKURAWA…FLEE ATTACKS IN NIGER STATE。」
+    # 一路留在线上。title_zh 此刻已是终稿，用它重写一遍。
+    if _x.get("summary_zh") and "该来源未开放正文与摘要" in _x["summary_zh"]:
+        _x["summary_zh"] = _fallback_summary(_x)
+    _pl = geo_place(_x.get("title"), _x.get("title_zh"), _x.get("country"))
+    if _pl:
+        _x["place"] = _pl
 
 
 # ─────────────── publisher classification ───────────────
