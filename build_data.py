@@ -1513,7 +1513,12 @@ SPORT_ZH_RX = re.compile(
 ENT_ZH_RX = re.compile(
     r"(演唱会|单曲|专辑|歌手|演员|明星|综艺|真人秀|选美|电影|影片|票房|"
     r"首映|电视剧|网红|八卦|恋情|绯闻|韩流|偶像团体|女团|男团|组合回归|"
-    r"预告片|杀青|开机|红毯|颁奖礼|音乐奖|电影节|票房榜|热播|收视率)")
+    r"预告片|杀青|开机|红毯|颁奖礼|音乐奖|电影节|票房榜|热播|收视率|"
+    # 2026-11-05 补：四国模块里仍有「土耳其艺术家在阿布贾揭幕艺术展」
+    # 「蒂努布祝贺某银行创始人 75 岁生日」这类稿子——政治人物出现在标题里，
+    # POLICY_ANCHOR_RX 就把它们当政治放行了。
+    r"艺术展|画展|摄影展|雕塑展|文化节|音乐节|时装秀|寿辰|生日|"
+    r"音乐会|话剧|舞台剧|文学作品|新书发布)")
 # A sports-ground bombing or an entertainer's shooting is a security story, not
 # a soft one. Anything carrying these stays.
 HARD_NEWS_RX = re.compile(
@@ -1590,6 +1595,39 @@ def is_soft(title, title_zh=""):
     return bool(SPORT_RX.search(title or "") or ENT_RX.search(title or "")
                 or SPORT_ZH_RX.search(blob) or ENT_ZH_RX.search(blob)
                 or FR_SPORT_RX.search(blob) or FR_ENT_RX.search(blob))
+
+
+# ── 标题本身是否可用 ────────────────────────────────────────────────────
+# 不是题材问题，是这条记录根本不该成为一张卡：
+#   · 网页导航页被抓成新闻：「关于我们——加纳中国商业峰会」
+#     「中华人民共和国驻加纳共和国大使馆」
+#   · 摘要首句被当成标题，脱离上下文后没有主语：「此举旨在稳定塞地并加强
+#     加纳的黄金储备。」「该协议将允许双方总共交换 150 亿人民币（2。」
+#   · 只有机构名，没有事件：「加纳黄金局」
+#   · 抓取时截断：「第一项：已落实资金：尼日利亚与中国签署了一份价值 30」
+# 这些在 2026-11-05 的四国审计里各占一到两条，页面上却都是完整卡片。
+#
+# ⚠ 长度门槛 8 字是量出来的：最短的合格标题是「恩奥任命幕僚长」（7 字，
+# 已在 HARDSHIP_RX 里删掉），而「加纳黄金局」5 字、「尼日利亚原油」6 字
+# 都没有事件。8 字以下一律视为没有信息量。
+_NAV_TITLE_RX = re.compile(
+    r"^(?:关于我们|联系我们|首页|网站地图|版权声明|隐私政策|订阅|登录|注册)"
+    r"|关于我们\s*[—\-–]|中华人民共和国驻.+大使馆|驻.+大使馆$")
+_DANGLING_TITLE_RX = re.compile(
+    r"^(?:此举|该协议|该计划|该项目|这项|上述|同时|此外|另外)"
+    r"|^第[一二三四五六七八九十\d]+项\s*[：:]")
+
+
+def title_usable(t):
+    """这条记录能不能当成一张卡。见上面 _NAV_TITLE_RX 的说明。"""
+    s = (t or "").strip()
+    if len(s) < 8:
+        return False
+    if _NAV_TITLE_RX.search(s):
+        return False
+    if _DANGLING_TITLE_RX.search(s):
+        return False
+    return True
 
 
 # ── human-interest fluff ──
@@ -2399,7 +2437,7 @@ def tidy_zh_title(t):
     # 译完就成了「922573.us中期选举：民主党掌控参议院」——一个域名形状的数字串。
     # 只认 5 位以上，且后面必须跟分隔符或空格：「921909个民间社会组织」里的
     # 921909 是真数字（92 万个组织），不能动。
-    s = re.sub(r"^\s*\d{5,}\s*[.\-_·|]\s*", "", s)
+    s = re.sub(r"^\s*\d{5,}\s*[.\-_·|:：]\s*", "", s)
     s = re.sub(r"^\s*\d{5,}\s+(?=[A-Za-z\u4e00-\u9fff])", "", s)
     s = re.sub(r"(?<![A-Za-z])U\.\s*(?:…|\.{2,})", "U.S.", s)
     s = _TRUNC_MASTHEAD_RX.sub("", s)
@@ -2438,7 +2476,7 @@ def polish_title(title, body="", url=""):
     #    一个域名形状的数字串挂在了标题最前面。这不是网址，是 slug 里的 ID。
     #    只认 5 位以上的数字：4 位基本是年份，「2026 Budget: …」这种标题必须原样
     #    保留，不能为了修一个 ID 把正经年份一起摘掉。
-    t = re.sub(r"^\s*\d{5,}\s*[.\-_·|]\s*", "", t)
+    t = re.sub(r"^\s*\d{5,}\s*[.\-_·|:：]\s*", "", t)
     t = re.sub(r"^\s*\d{5,}\s+(?=[A-Za-z\u4e00-\u9fff])", "", t)
     if not t:
         return t
@@ -4230,6 +4268,36 @@ def _ents(t):
     return {k for k, rx in _ENT_RX if rx.search(t or "")}
 
 
+# ── 动作类别指纹 ──────────────────────────────────────────────────────
+# "两个实体"能挡住 NNPC 那种大机构误合并，但也挡住了真重复：
+# 「参议院否决重启 Nigeria Air」五家媒体只共享 nigeria_air 一个实体，
+# 因为它们的区别全在动词上——否决/拒绝/重振/恢复/呼吁。
+#
+# 同一主体 + 同一动作类别，才是一件事。NNPC 那七件事（出书、利润、品牌奖、
+# IPO、产量、燃油运出、追缴收入）一个动作类都不共享，所以仍然分开。
+#
+# 只收语义明确、不易串味的高频类。刻意不收"宣布/表示/称"这类几乎每条都有
+# 的动词——它们共享了等于没共享。
+_ACT_RX = [
+    ("deny", re.compile(
+        r"否决|拒绝|驳回|抵制|\breject\w*|\bden(?:y|ies|ied)\b|"
+        r"\bturn(?:s|ed)?\s+down\b|\bturned\s+down\b", re.I)),
+    ("approve", re.compile(
+        r"批准|通过|签署|敲定|达成|放行|核准|"
+        r"\bapprov\w*|\bpass(?:es|ed)?\b|\bsign(?:s|ed)?\b|\bratif\w*", re.I)),
+    ("urge", re.compile(
+        r"呼吁|敦促|要求|催促|促请|责令|"
+        r"\burge\w*|\bcall(?:s|ed)?\s+(?:for|on)\b|\bdemand\w*", re.I)),
+    ("attack", re.compile(
+        r"袭击|击毙|打死|伏击|爆炸|恐袭|"
+        r"\battack\w*|\bkill(?:s|ed)?\b|\bambush\w*|\bblast\w*", re.I)),
+]
+
+
+def _act(t):
+    return {k for k, rx in _ACT_RX if rx.search(t or "")}
+
+
 def same_event_strong(a_title, a_body, b_title, b_body):
     """True when two records report the same incident, judged on substance.
 
@@ -4267,6 +4335,10 @@ def same_event_strong(a_title, a_body, b_title, b_body):
     if len(shared_ents) >= 2:
         return True
     if shared_nums:
+        return True
+    # 一个实体 + 同一动作类别（否决/批准/呼吁/袭击）。「参议院否决 Nigeria Air」
+    # 五家媒体只共享 nigeria_air，区别全在动词上，靠这条才能收进一张卡。
+    if shared_ents and (_act(at) & _act(bt)):
         return True
     # 原来这里还有一条"一个实体 + 同一个下级地名"，用来收 EFCC 查奥贡州
     # 炼油厂那组（efcc + ogun）。但它把「州警察法案提交总统」和「蒂努布
@@ -4736,6 +4808,18 @@ news = [n for n in news if not is_soft(n.get("title"), n.get("title_zh"))]
 social = [s for s in social if not is_soft(s.get("title"), s.get("title_zh"))]
 print("sport/showbiz dropped: news %d, social %d" % (len(_soft_n), len(_soft_s)))
 
+# 标题不可用（导航页 / 无主语的摘要首句 / 只有机构名 / 抓取截断）。
+# 同样放在这里而不是入口：池结转和翻译缓存回填都会把这类记录带回来。
+_bad_ttl = [x for x in news + social
+            if not title_usable(x.get("title_zh") or x.get("title"))]
+if _bad_ttl:
+    _bd = {id(x) for x in _bad_ttl}
+    news = [n for n in news if id(n) not in _bd]
+    social = [s for s in social if id(s) not in _bd]
+    print("unusable headline dropped: %d" % len(_bad_ttl))
+    for _x in _bad_ttl[:6]:
+        print("   ·", (_x.get("title_zh") or _x.get("title") or "")[:56])
+
 # Human-interest fluff, same placement and same reason as above: it has to run
 # on the final lists, not at the fetch entry point, or carry-overs slip through.
 _fluff = [x for x in news + social if is_fluff(x.get("title"), x.get("title_zh"))]
@@ -4884,7 +4968,7 @@ _age_drop_n = _age_drop_s = 0
 # 标题文章号的最后一道。放在这里而不是只放在 tidy_zh_title：上游直接给中文的
 # 条目（付费墙兜底、社交帖自带中文）根本不走翻译缓存那条路，只有这个位置是
 # 所有条目都必须经过的。纯正则，幂等，重复执行无副作用。
-_TITLE_ID_RX = re.compile(r"^\s*\d{5,}\s*[.\-_·|]\s*|^\s*\d{5,}\s+(?=[A-Za-z\u4e00-\u9fff])")
+_TITLE_ID_RX = re.compile(r"^\s*\d{5,}\s*[.\-_·|:：]\s*|^\s*\d{5,}\s+(?=[A-Za-z\u4e00-\u9fff])")
 for _x in news + social:
     for _f in ("title", "title_zh"):
         _v = _x.get(_f)
