@@ -121,10 +121,29 @@ ck("同篇有 Niamey 时只修「尼日利亚州」，不动「尼日尔」",
               "尼日利亚州代表团会见尼日尔官员"),
    "尼日尔州代表团会见尼日尔官员")
 
+# ── ⑥ 裸 "Niger" 夹在州名清单里 = 尼日利亚的州 ──────────────────────────
+# 线上原卡（2026-11-05）：「The affected states are Kano, Benue, Niger, Abia,
+# Oyo and Cross Rivers.」——参议院警务法案稿，同时挂了两个国家徽标。
+ck("州名清单里的 Niger 不算尼日尔",
+   classify_cty("Police bill: Senate sets Nov 15 deadline for 6 states",
+                "The affected states are Kano, Benue, Niger, Abia, Oyo and "
+                "Cross Rivers."),
+   ["ng"])
+ck("另一种写法（Niger, and Benue）同样处理",
+   classify_cty("State Police: Senate sets deadline",
+                "…are Kano, Oyo, Cross River, Abia, Niger, and Benue."),
+   ["ng"])
+ck("只有一个州名时不触发（不能过度推断）",
+   classify_cty("Kano and Niger discuss border trade", ""),
+   ["ng", "ne"])
+ck("两国并列仍然保留两个（清单规则不能吃掉它）",
+   classify_cty("Nigeria, Niger, Benin and Togo meet on pipeline security", ""),
+   ["ng", "ne"])
+
 print()
 if FAIL:
-    print("FAILED %d / %d" % (len(FAIL), 27))
+    print("FAILED %d / %d" % (len(FAIL), 31))
     for f in FAIL:
         print("   ", f[0], "got", repr(f[1]), "want", repr(f[2]))
     sys.exit(1)
-print("ALL PASS (27)")
+print("ALL PASS (31)")

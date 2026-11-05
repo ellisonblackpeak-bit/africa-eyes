@@ -1038,6 +1038,34 @@ NE_STRONG_RX = re.compile(
     r"尼亚美|奇亚尼|阿加德兹|阿尔利特|津德尔|阿加德姆|索拉兹|尼日尔共和国",
     re.I)
 
+# ── 裸 "Niger" 夹在州名清单里，是尼日利亚的州 ────────────────────────────
+# 线上实例（2026-11-05）：
+#   "The affected states are Kano, Benue, Niger, Abia, Oyo and Cross Rivers."
+#   "…are Kano, Oyo, Cross River, Abia, Niger, and Benue."
+# 这两条参议院警务法案的稿子因此同时挂了「尼日利亚」「尼日尔」。
+# 判据不是"提到 Niger"，而是"Niger 以列表项的形式出现，且同一篇里还有至少
+# 两个别的尼日利亚州名"——清单语境是州，句子主语是国。
+_NG_STATE_RX = re.compile(
+    r"\b(?:kano|benue|abia|oyo|cross\s+rivers?|kaduna|katsina|borno|zamfara|"
+    r"sokoto|plateau|nasarawa|kogi|kwara|taraba|adamawa|bauchi|gombe|yobe|"
+    r"jigawa|kebbi|ondo|ekiti|edo|bayelsa|rivers|akwa\s+ibom|anambra|enugu|"
+    r"ebonyi|imo|ogun|lagos|osun|delta\s+state)\b", re.I)
+_NIGER_AS_LIST_ITEM_RX = re.compile(
+    r"(?:,\s*|\band\s+)niger\s*(?=,|\band\b|\.|$)", re.I)
+
+
+def niger_is_state(blob):
+    """文案里的 "Niger" 指的是尼日利亚的尼日尔州（而不是尼日尔共和国）吗？"""
+    if not blob:
+        return False
+    if NIGER_STATE_RX.search(blob):
+        return True
+    if _NIGER_AS_LIST_ITEM_RX.search(blob):
+        names = {m.group(0).lower() for m in _NG_STATE_RX.finditer(blob)}
+        if len(names) >= 2:
+            return True
+    return False
+
 # Domain-based country attribution (added 2026-10-20). The eight-neighbour RSS
 # feeds come back in the local language (Vietnamese / Korean / Hindi / Burmese
 # etc.) — the language-specific keyword list cannot match the title. Mapping
@@ -1436,7 +1464,7 @@ def classify_cty(title, body, dom="", url=""):
     # 尼日尔 on its card — the exact confusion the reader reported on 2026-11-05.
     # Once the copy names the state or the delta, `ne` survives only on evidence
     # that belongs to the republic alone (Niamey, CNSP, Agadez, Zinder…).
-    if NIGER_STATE_RX.search(blob):
+    if niger_is_state(blob):
         if "ng" not in out:
             out.append("ng")
         if "ne" in out and not NE_STRONG_RX.search(blob):
@@ -4797,10 +4825,10 @@ def _evidence_for(c, title, body, summary, tag, strict=False):
     if c == "ne":
         _nb = title + ("" if strict else " " + body)
         if NE_ONLY.search(_nb):
-            # 「Niger State」/「Niger Delta」是尼日利亚的，同一篇里另有一处裸
-            # "Niger" 不能当成尼日尔共和国的证据——否则一张尼日尔州的卡片
-            # 会同时挂着两个国家的徽标（2026-11-05 读者反馈）。
-            if not (NIGER_STATE_RX.search(_nb) and not NE_STRONG_RX.search(_nb)):
+            # 「Niger State」/「Niger Delta」/州名清单里的 "Niger" 都是尼日利亚的，
+            # 同一篇里另有一处裸 "Niger" 不能当成尼日尔共和国的证据——否则一张
+            # 尼日尔州的卡片会同时挂着两个国家的徽标（2026-11-05 读者反馈）。
+            if not (niger_is_state(_nb) and not NE_STRONG_RX.search(_nb)):
                 return True
     for tbl in (TAG_CTY, SOC_TAG_CTY):
         v = tbl.get(tag or "")
