@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "VOLTAGE: Industry over nature",
+   "url": "https://www.rapporteur.com/news/voltage-industry-over-nature/",
+   "content": "In today's edition: SF6 ban, ship recycling, CO₂ cars",
+   "published_date": "Thu, 05 Nov 2026 07:45:23 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIRST AID: MEPs seek cross-border healthcare overhaul",
+   "url": "https://www.rapporteur.com/news/first-aid-meps-seek-cross-border-healthcare-overhaul/",
+   "content": "In today's edition: Chinese prostheses, airport malaria, PFAS",
+   "published_date": "Thu, 05 Nov 2026 07:41:38 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "HARVEST: A tougher watchdog for looser common rules?",
+   "url": "https://www.rapporteur.com/news/harvest-a-tougher-watchdog-for-looser-common-rules/",
+   "content": "In today's edition: CAP budget, pesticides, simplification",
+   "published_date": "Thu, 05 Nov 2026 07:36:33 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "French bank says cyberattack stole around €100 million",
+   "url": "https://www.rapporteur.com/news/french-bank-says-cyberattack-stole-around-e100-million/",
+   "content": "The Paris public prosecutor's office said it had opened an official investigation",
+   "published_date": "Thu, 05 Nov 2026 07:23:45 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Serbia arrests police officers accused of student abuse",
+   "url": "https://www.rapporteur.com/news/serbia-arrests-police-officers-accused-of-student-abuse/",
+   "content": "According to state broadcaster RTS, those arrested include Igor Zmiric, commander of Serbia’s special anti-terrorist unit",
+   "published_date": "Thu, 05 Nov 2026 07:04:19 +0000",
+   "score": 0.6
+  },
+  {
    "title": "The big Ukraine-MFF battle to come",
    "url": "https://www.rapporteur.com/news/rapporteur-am-the-big-ukraine-mff-battle-to-come/",
    "content": "Also, in Thursday’s edition: capitals uneasy about ‘associate membership’ precedent",
@@ -174,41 +209,6 @@
    "url": "https://www.rapporteur.com/news/sanchez-appoints-economy-minister-to-manage-rail-crisis/",
    "content": "Carlos Cuerpo, a technocrat seen as neutral, might throw Pedro Sánchez a political lifeline",
    "published_date": "Wed, 04 Nov 2026 10:46:13 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIREPOWER: Norway, France bolster industrial ties with Ukraine",
-   "url": "https://www.rapporteur.com/news/firepower-norway-france-bolster-industrial-ties-with-ukraine/",
-   "content": "In today's edition: work programme, Ukraine talks, Slovenia",
-   "published_date": "Wed, 04 Nov 2026 08:48:34 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "THE HACK: Commission’s AI-heavy 2027 work plan",
-   "url": "https://www.rapporteur.com/news/the-hack-commissions-ai-heavy-2027-work-plan/",
-   "content": "In today's edition: AI copyright, JD–Ceconomy, Digital Networks Act",
-   "published_date": "Wed, 04 Nov 2026 08:43:57 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "VOLTAGE: Is the EU poised to tear up nature laws?",
-   "url": "https://www.rapporteur.com/news/voltage-is-the-eu-poised-to-tear-up-nature-laws/",
-   "content": "In today's edition: energy tax, supergrid, Hormuz",
-   "published_date": "Wed, 04 Nov 2026 08:39:22 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "AI regulatory sandboxes must reflect real-world healthcare, HealthAI chief warns [Partner Content]",
-   "url": "https://www.rapporteur.com/interview/ai-regulatory-sandboxes-must-reflect-real-world-healthcare-healthai-chief-warns/",
-   "content": "HealthAI's Ricardo Baptista Leite tells Rapporteur that regulatory sandboxes could help assess high-risk AI in healthcare, but warns about the consequences of poor-quality data and inadequate oversight",
-   "published_date": "Wed, 04 Nov 2026 08:35:57 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIRST AID: The price of preparedness",
-   "url": "https://www.rapporteur.com/news/first-aid-the-price-of-preparedness/",
-   "content": "In today's edition: heart health, fertility, nicotine toothpicks",
-   "published_date": "Wed, 04 Nov 2026 08:34:37 +0000",
    "score": 0.6
   }
  ],

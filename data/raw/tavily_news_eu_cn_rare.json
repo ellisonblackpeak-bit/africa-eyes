@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "New Processes for Recovering Rare Earth Elements from Magnets - The EU’s NEO-CYCLE project aims to reduce Europe’s dependence on Chinese rare earths",
-   "url": "https://www.chemeurope.com/en/news/1190249/new-processes-for-recovering-rare-earth-elements-from-magnets.html",
-   "snippet": "magnets are essential components in electric vehicles, wind turbines and electronics. However, their production depends on rare earth elements such as neodymium, about 90 percent of which is imported from China. Researchers at the Fraunhofer Institute for Ceramic Technologies and Systems IKTS are working with project partner TU Bergakademie Freiberg to develop a technology to recover these valuabl",
-   "published": "Wed, 04 Nov 2026 07:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Old Battlefield or New Center of Power? Europe’s China Choice Amid Cold War 2.0 - CIRSD",
    "url": "https://cirsd.org/horizon-article/old-battlefield-or-new-center-of-power-europes-china-choice-amid-cold-war-2-0",
    "snippet": "The deficit is only the visible half of the problem; the other half lies in what Europe buys. The Union sources nearly all of its rare-earth permanent magnets from China and relies on China for a substantial share of other critical raw materials. Beijing introduced export controls on heavy rare earths in April 2025, followed that October by a wider, extraterritorial package, which is suspended unt",
@@ -68,7 +61,14 @@
    "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
    "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
    "snippet": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
-   "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+   "published": "Thu, 05 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opinion | U.S.-China Relations Will Never Be the Same in the Age of A.I. - The New York Times",
+   "url": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
+   "snippet": "Both countries are just beginning to wrestle with the mind shift this requires in how they relate to each other — even as they continue to reflexively take the opposite sides on wars from Gaza to Ukraine to Iran. A Chinese blogger friend put it to me candidly over dinner in Beijing last week: “We still have real differences over issues like Taiwan. But sometimes the U.S. and China don’t know what ",
+   "published": "Mon, 02 Nov 2026 06:00:05 GMT",
    "source": "tavily"
   }
  ],

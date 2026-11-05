@@ -2,17 +2,45 @@
  "success": true,
  "results": [
   {
+   "title": "Nine nights of Navaratri: The festival that carries multiple mythological threads",
+   "url": "https://www.thehindu.com/society/history-and-culture/all-you-need-to-know-about-navaratri-across-india/article71578893.ece",
+   "content": "Navaratri, observed across India with a diversity that reflects the country’s cultural breadth.",
+   "published_date": "Thu, 05 Nov 2026 13:05:38 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Mobile phone retailers expect 10% price hike post Diwali even as sales drop",
+   "url": "https://www.thehindu.com/sci-tech/technology/mobile-phone-retailers-expect-10-price-hike-post-diwali-even-as-sales-drop/article71668987.ece",
+   "content": "All India Mobile Retail Association projects a staggering 50% volume drop after mid-Novmber that could persist over an extended period",
+   "published_date": "Thu, 05 Nov 2026 13:05:17 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi Police registers FIR over alleged circulation of child sexual abuse material on Meta platforms",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-registers-fir-over-alleged-circulation-of-child-sexual-abuse-material-on-meta-platforms/article71668968.ece",
+   "content": "Approximately 10 links were flagged in a complaint alleging the circulation of such material, following which the police initiated an investigation to verify the allegations, says an official",
+   "published_date": "Thu, 05 Nov 2026 13:02:06 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Threat emails to Ayushmann Khurrana, Tusshar Kapoor: Mumbai Crime branch arrests techie from Bengaluru",
    "url": "https://www.thehindu.com/news/cities/mumbai/threat-emails-to-ayushmann-khurrana-tusshar-kapoor-mumbai-crime-branch-arrests-techie-from-bengaluru/article71668622.ece",
    "content": "The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days",
-   "published_date": "Thu, 05 Nov 2026 12:48:37 +0530",
+   "published_date": "Thu, 05 Nov 2026 12:56:57 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "U.S. midterm elections 2026 LIVE: After midterm loss, Trump left to weigh his next move in Iran war",
+   "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
+   "content": "Indian-American physician Amish Shah has made history after becoming the first from the community to represent Arizona in Congress",
+   "published_date": "Thu, 05 Nov 2026 12:56:03 +0530",
    "score": 0.6
   },
   {
    "title": "At least two bodies recovered, several feared trapped after building collapses in Old Delhi",
    "url": "https://www.thehindu.com/news/cities/Delhi/chawri-bazaar-delhi-building-collapse/article71668798.ece",
    "content": "At least six fire units, including water tenders and rescue vehicles, have been rushed to the spot with senior officers supervising the rescue operation, the officials said",
-   "published_date": "Thu, 05 Nov 2026 12:44:53 +0530",
+   "published_date": "Thu, 05 Nov 2026 12:51:39 +0530",
    "score": 0.6
   },
   {
@@ -34,13 +62,6 @@
    "url": "https://www.thehindu.com/news/cities/Delhi/fire-breaks-out-at-factory-in-delhis-narela-industrial-area/article71668788.ece",
    "content": "The fire prompted the deployment of 10 fire tenders",
    "published_date": "Thu, 05 Nov 2026 12:12:27 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "U.S. midterm elections 2026 LIVE: After midterm loss, Trump left to weigh his next move in Iran war",
-   "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
-   "content": "Indian-American physician Amish Shah has made history after becoming the first from the community to represent Arizona in Congress",
-   "published_date": "Thu, 05 Nov 2026 12:04:59 +0530",
    "score": 0.6
   },
   {
@@ -76,20 +97,6 @@
    "url": "https://www.thehindu.com/news/national/the-purpose-of-history-is-not-to-construct-statements-for-contemporary-political-use-prof-romila-thapar/article71665888.ece",
    "content": "Professor Romila Thapar says a Hindutva reading of Indian history cannot be ‘single and fixed’ and argues that historical inquiry must explain the evolution of Indian society rather than construct statements for contemporary political use",
    "published_date": "Thu, 05 Nov 2026 10:46:41 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Science should move past ‘top 2%’ label",
-   "url": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
-   "content": "India needs both fundamental research and practical solutions without making inclusion in the ‘top 2% scientists’ database’ the primary goal",
-   "published_date": "Thu, 05 Nov 2026 10:16:29 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "How is Delhi implementing restrictions to reduce air pollution?",
-   "url": "https://www.thehindu.com/news/cities/Delhi/how-is-delhi-implementing-restrictions-to-reduce-air-pollution/article71668565.ece",
-   "content": "From Automatic Number Plate Recognition cameras to AI-enabled Integrated Control and Command Centres ICCC and manual checking, the authorities have adopted a mixed approach to impose the restrictions with varying degrees of success",
-   "published_date": "Thu, 05 Nov 2026 10:09:58 +0530",
    "score": 0.6
   }
  ],
