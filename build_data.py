@@ -88,7 +88,11 @@ WINDOW_DAYS = 3
 # Niger–Benin pipeline) is therefore never capped, and neither is any
 # China-interest risk event.
 NIGER_OIL_RX = re.compile(
-    r"\bcnpc\b|\bsoraz\b|\bagadem\b|\bzinder\b|"
+    # ⚠ 不要放裸地名。2026-11-05 审计发现 \bzinder\b（津德尔，尼日尔第二
+    # 大城市）与「津德尔」两个词把「国际移民组织向返乡移民发放安置包」
+    # 这条纯民生稿当成了中石油项目。SORAZ 炼油厂确实在津德尔大区，但真正
+    # 的石油稿标题里必然出现 refinery / 炼油厂 / 管道，用那些词就够。
+    r"\bcnpc\b|\bsoraz\b|\bagadem\b|"
     r"\bniger[-\s]benin\b|\bpetrolin\b|\bsonidep\b|"
     r"oil\s+well|\bblowout\b|\bwell\s+(?:eruption|blow-?out)\b|"
     # The fuel-shortage cluster. Every Niger oil story in the 2026-10-18 window
@@ -99,7 +103,7 @@ NIGER_OIL_RX = re.compile(
     r"\bpetrol\b|\bdiesel\b|\bgasoline\b|\bgasoil\b|"
     r"\b(?:export|exports)\s+ban\b|\bbans?\s+(?:petrol|diesel|fuel)\b|"
     r"\brefiner(?:y|ies)\b|\bcrude\b|"
-    r"中石油|中石化|津德尔|索拉兹|阿加德姆|尼贝管道|尼日尔-贝宁|"
+    r"中石油|中石化|索拉兹|阿加德姆|尼贝管道|尼日尔-贝宁|"
     r"炼油厂|输油管道|油井|井喷|燃油|汽油|柴油|燃料短缺|石油部|油气", re.I)
 # RISK_DAYS used to give Chinese-national kidnap/arrest stories a 14-day window.
 # Removed with OIL_DAYS on 2026-11-04 — see the note at the top of this block.
@@ -244,10 +248,10 @@ CN_RX_INTL = re.compile(
     # franco-chinois / sino-malien 这类复合词由连字符前的部分命中。
     r"chinois|chinoise|chinoises|chinoiserie|pékin|pekin|"
     # ── 豪萨语 Hausa（尼日利亚北部 + 尼日尔）──────────────────────────────
-    # Ƙasar Sin = 中国；Sin 单独用也指中国。⚠ \bsin\b 会误伤英语的 "sin"
-    # （宗教语境），但那方向是"多保留"——一条宗教稿被当成涉华，最多是没被
-    # 社会危安过滤器删掉，不会错杀真新闻。
-    r"ƙasar\s*sin|\bsin\b(?!\s*[-'])|"
+    # Ƙasar Sin = 中国。⚠ 不能用裸 \bsin\b：英语的 "sin"（宗教语境）会命中，
+    # 而且 Hausa 里 sin 单独出现也多半是别的词根。只认 Ƙasar Sin 这个固定搭配，
+    # 外加 "Sin" 后跟 Hausa 语法词（ɗin / ta / na）的写法。
+    r"ƙasar\s*sin|\b(?:ƙasa[rt]?|kasar)\s+sin\b|\bsin\s+(?:ya|ta|na|da|ɗin|din)\b|"
     # ── 约鲁巴语 Yoruba（尼日利亚西南）────────────────────────────────────
     r"ṣáínà|ṣaina|saina|"
     # ── 伊博语 Igbo（尼日利亚东南）────────────────────────────────────────
@@ -255,7 +259,11 @@ CN_RX_INTL = re.compile(
     # ── 契维语 Twi / 阿肯语 Akan（加纳）──────────────────────────────────
     r"kyina|"
     # ── 埃维语 Ewe（加纳东南）─────────────────────────────────────────────
-    r"tsina|"
+    # ⚠ 必须带词边界。裸 "tsina" 是 Ka·tsina（卡齐纳州，尼日利亚北部）的
+    # 后半截，2026-11-05 审计发现「卡齐纳的传统制度」「卡蒂纳警方逮捕3人」
+    # 两条本地稿就是这样被当成涉华保留下来的。这类"地名里藏着国名"的假阳性
+    # 与当年 \bus\b 命中代词 "us" 是同一个家族。
+    r"(?<![A-Za-z])tsina(?![A-Za-z])|"
     # ── 班巴拉语 Bambara（马里）──────────────────────────────────────────
     r"\bsini\b|"
     # ── 阿拉伯语（萨赫勒北部通用书写）─────────────────────────────────────
@@ -1839,6 +1847,88 @@ ECON_RX = re.compile(
     r"国家石油公司|上市|股份)", re.I)
 
 
+# ── 本地民生（一律不收）──────────────────────────────────────────────────
+# 读者 2026-11-05：「还有很多非洲四国本地民生新闻、动态，这些我不关心」。
+# 这是他 2026-11-04 那句「不涉及中国因素的社会危安事件、民生问题我不需要」
+# 的再次确认——白名单上线后仍有大量漏网。
+#
+# 漏网的原因不是白名单方向错了，而是**放行条件的粒度太粗**：
+#   「联邦政府向脆弱国民发放 5 万奈拉救助金」——出现 naira → 判为经济 → 放行
+#   「赞法拉州在预算中优先发展基层医疗」——出现 budget → 判为经济 → 放行
+#   「议员提议对延误急诊的医护处以监禁」——出现 lawmakers → 判为政治 → 放行
+#   「参议员为学校配备笔记本电脑」——出现 Senate → 判为政治 → 放行
+# 一个词就能开一道门，而民生稿恰恰满地都是这类词。
+#
+# 所以这里加一道**硬否决**：命中民生就删，且位置在涉华/涉美/恐袭/石油之后、
+# 政治/经济之前。这样「中资企业向洪灾灾民捐赠物资」仍因涉华保留（CN 先判），
+# 而「州长视察洪灾区」会被删——两者都含 flood，区别只在于中国是不是主体。
+#
+# ⚠ 刻意不写进去的几组词，都是踩过的坑：
+#   · 裸「补贴」——「ADC 候选人支持恢复燃油补贴」是政治+能源，不是民生
+#   · 裸「任命」——「央行任命八名原油出口代理」是能源新闻
+#   · 「就业岗位」——「业务流程外包创造 10 万个岗位」是投资，属经济
+#   · 裸「医疗」「教育」——会让医疗/教育领域的产业投资稿被误杀
+HARDSHIP_RX = re.compile(
+    r"\b(cash\s+(?:transfer|grant|support|assistance)s?|conditional\s+cash|"
+    r"palliative\w*|relief\s+(?:materials?|items?|packages?|fund|assistance)|"
+    r"stipends?|scholarships?|bursar\w*|student\s+loans?|school\s+fees|tuition|"
+    r"pension\w*|retirees?|gratuit(?:y|ies)|"
+    r"widows?|orphans?|vulnerable\s+(?:persons?|people|groups?|citizens?)|"
+    r"persons?\s+with\s+disabilit\w*|physically\s+challenged|"
+    r"free\s+(?:medical|health)\s+(?:care|outreach|surgery|treatment)|"
+    r"medical\s+outreach|health\s+insurance\s+scheme|"
+    r"wheel\s?chairs?|grinding\s+machines?|sewing\s+machines?|"
+    r"donat\w+|distribut\w+\s+(?:food|relief|items|materials)|"
+    r"empowerment\s+(?:programme|program|scheme|items)|"
+    # 医疗与教育设施。放在这里而不是留给「经济」放行，是因为
+    # 「预算中优先发展基层医疗」「明确联邦大学所在地」「议员提议惩戒急诊延误」
+    # 都会因为 budget / Senate / lawmakers 这些词被判成政治或经济。
+    # 只认**设施与受众**，不认 bare health/education——后者会误杀医疗产业投资。
+    r"hospitals?|clinics?|nurses?|medical\s+doctors?|"
+    r"primary\s+health\w*|health\s?care|aged\s+care|elderly|"
+    r"schools?|universit\w*|polytechnic\w*|classrooms?|pupils?|teachers?|"
+    r"laptops?|textbooks?|school\s+bags?|"
+    r"disabled|persons?\s+living\s+with\s+disabilit\w*|"
+    # 人事任命与议会程序。读者要的是"政治"，不是"谁当了委员"。这类稿的
+    # 共同特征是标题里只有 Senate / Assembly / Governor 加一个动词，正文
+    # 没有任何政策内容。⚠ 不写裸 appointment ——「央行任命八名原油出口代理」
+    # 是能源新闻，靠 NIGER_OIL_RX 在更前面已经放行；但没写 appointment 就
+    # 不会误伤其它行业的人事。
+    r"commissioners?\b|sworn\s+in|takes?\s+oath|"
+    r"chief\s+of\s+staff|spokesperson|"
+    r"suspension\s+of\s+(?:three|two|\d+)|"
+    # 软新闻与本地琐事。读者要的是可研判的信息，不是"某某荣获年度品牌奖"。
+    # ⚠ arrest 只在这里出现一次即可——「警方逮捕恐怖嫌疑人」会先命中
+    # TERROR_RX 放行，「EFCC 逮捕中国公民」会先命中 CN_RX 放行。
+    r"wins?\s+awards?|bags?\s+awards?|award\s+ceremony|brand\s+of\s+the\s+year|"
+    r"book\s+launch|launch\w*\s+(?:a\s+)?book|rescue\s+competition|tournament|"
+    r"round-?up|arrest\w*\s+(?:of\s+)?(?:three|two|\d+)|"
+    r"floods?|flooding|heat\s?waves?|drought|famine|"
+    r"food\s+(?:shortage|crisis|insecurity)|"
+    r"blackouts?|power\s+outages?|water\s+(?:shortage|scarcity)|"
+    r"cholera|measles|malaria\s+outbreak|diphtheria|"
+    r"road\s+(?:crash|accident)|auto\s+crash|boat\s+mishap|drown\w*|"
+    r"fire\s+outbreak|gas\s+leak\w*)"
+    r"|(救助金|救济金|救济|现金转移|现金补助|现金支持|抚恤金|"
+    r"养老金|退休金|退休人员|"
+    r"奖学金|助学金|助学贷款|学生贷款|学费|书本费|"
+    r"免费医疗|义诊|白内障|医疗救助|健康保险计划|"
+    r"急诊|基层医疗|老年照护|医疗保障|医院|诊所|病床|护士|医生|医护人员|"
+    r"学校|大学|中学|小学|学院|校舍|课桌|教科书|课本|笔记本电脑|学生|教师|"
+    r"残障|残疾|老年人|孤儿|寡妇|"
+    r"出任委员|出任|停职|宣誓就职|幕僚长|新闻发言人|"
+    r"荣获|获奖|颁奖|品牌奖|比赛|锦标赛|出版著作|新书|"
+    r"直播|开播|综述|逮捕|拆迁|房产纠纷|"
+    r"轮椅|磨粉机|缝纫机|发放物资|发放救济|捐助|捐赠|"
+    r"赋能|技能培训|就业培训|职业培训|"
+    r"洪灾|洪水|水灾|热浪|干旱|饥荒|粮食短缺|粮食不安全|"
+    r"停电|断电|停水|供水短缺|"
+    r"霍乱|麻疹|疟疾|白喉|"
+    r"车祸|交通事故|沉船|溺水|火灾|燃气泄漏|煤气泄漏|"
+    r"摄政委员会|传统制度|加冕|酋长|"
+    r"大学所在地|教育惩戒|校舍|课桌|教科书)", re.I)
+
+
 # ── 非法黄金开采 ────────────────────────────────────────────────────────
 # 读者 2026-11-04 单列的一项。加纳的 galamsey 是本地专有词，法语区的
 # orpaillage（手工淘金）同理——不写这两个词，加纳、马里的非法采金稿一条
@@ -1905,6 +1995,12 @@ def is_africa_off_topic(title, title_zh="", summary="", countries=None):
         return False
     if NIGER_OIL_RX.search(ttl):           # 二、中石油尼日尔项目
         return False
+    # 硬否决：本地民生一律不收（读者 2026-11-05 追加）。
+    # 位置很关键——必须在涉华/涉美/恐袭/石油**之后**，否则「中资企业向洪灾
+    # 灾民捐赠物资」会被 flood 一词删掉；也必须在政治/经济**之前**，否则
+    # 「5 万奈拉救助金」会被 naira 一词放行。
+    if HARDSHIP_RX.search(ttl):
+        return True
     if POLICY_ANCHOR_RX.search(ttl):       # 三、政治
         return False
     if ECON_RX.search(ttl):                # 三、经济 / 能源 / 矿产
@@ -3908,6 +4004,8 @@ def _title_key(it):
 # The difference is always an entity — a place, a figure, an amount — so two
 # headlines may only be treated as the same event when their entities agree.
 _NUM_RX = re.compile(r"\d[\d,.]*")
+# 金额/数量单位，紧跟在数字后面时并入 token。见 _rare_nums 的说明。
+_UNIT_RX = re.compile(r"(亿|万|千|billion|million|trillion|bn|mn)", re.I)
 _EVENT_WORDS = sorted({w for _ws in CTY_MARKERS.values() for w in _ws},
                       key=len, reverse=True)
 
@@ -4045,6 +4143,29 @@ _ENT_RX = [
     ("diphtheria", _abbr_rx("diphtheria", "白喉")),
     ("lassa", _abbr_rx("lassa", "拉沙热")),
     ("bandits", _abbr_rx("bandit", "bandits", "匪患", "土匪")),
+    # ── 反复出现的事件主体（2026-11-05 补）──────────────────────────────
+    # 恐怖组织之外，同一件事被拆成 5—11 张卡的多是这类"项目/机构"主体。
+    # 实测：参议院否决 Nigeria Air 这件事被 11 家媒体各写一遍，标题字面
+    # 3-gram 相似度只有 0.3（否决/拒绝/重振/复兴/呼吁 各不相同），靠标题
+    # 比对永远抓不到；中尼 3000 万美元协议 7 条、EFCC 查奥贡州炼油厂 6 条
+    # 同理。它们共享的不是措辞，是"Nigeria Air"这个主体本身。
+    ("nigeria_air", _abbr_rx(r"nigeria\s*air", r"national\s+carrier",
+                             "尼日利亚航空", "国有航空", "国家航空")),
+    ("nnpc", _abbr_rx("nnpc", "尼日利亚国家石油公司")),
+    ("efcc", _abbr_rx("efcc", "经济和金融犯罪委员会", "经济与金融犯罪委员会")),
+    ("inec", _abbr_rx("inec", "独立国家选举委员会")),
+    ("us_midterm", _abbr_rx(r"midterms?", r"mid-?term\s+elections?", "中期选举")),
+    ("state_police", _abbr_rx(r"state\s+police", "州警察", "州级警察")),
+    ("female_seats", _abbr_rx(r"female\s+(?:seats?|lawmakers?|representation)",
+                              "女性席位", "女性议席", "女性名额", "特别议席")),
+    ("nat_assembly", _abbr_rx(r"national\s+assembly", "国民议会")),
+    ("ng_cn_air", _abbr_rx(r"direct\s+flights?\s+(?:to|from)\s+china",
+                           "直飞中国", "飞往中国", "直航中国", "中尼航空",
+                           "航空服务协定", "双边航空", "直航航班", "直飞航班")),
+    # 同一处窝点被六家媒体各写一遍（EFCC 查奥贡州由中国人运营的非法炼油厂）。
+    # 它们共享 efcc + 这个主体；不同州的不同窝点会因地点冲突被 _event_marks
+    # 拦住，所以两个实体就够。
+    ("illegal_refinery", _abbr_rx(r"illegal\s+refiner", "非法炼油厂", "非法炼油")),
 ]
 # A number only fingerprints an event when it is specific: a toll, a ransom, an
 # amount. Years, small ordinals and round figures are excluded because they
@@ -4061,6 +4182,12 @@ def _rare_nums(t):
     headline that repeats a figure is repeating it for a reason.
 
     Years, day-of-month and anything under 10 are dropped for the same reason.
+
+    A trailing unit is folded into the token ("3000万美元" → "3000万",
+    "77亿美元" → "77亿"). Without it "10%" and "10件事" and "10万个" all
+    collapse to "10" — which, once shared numbers were allowed to stand as a
+    fingerprint on their own, merged an NNPC book launch, a brand award, a US
+    midterm explainer and an outsourcing deal into one card.
     """
     out = set()
     s = t or ""
@@ -4079,8 +4206,24 @@ def _rare_nums(t):
             continue
         if len(raw) < 2 or v < 10:        # "5 家", "2 名" say nothing
             continue
-        out.add(raw)
+        um = _UNIT_RX.match(s[m.end():m.end() + 10])
+        out.add(raw + (um.group(1).lower() if um else ""))
     return out
+
+
+def _num_strong(tok):
+    """Is this figure specific enough to identify an event on its own?
+
+    Two-digit counts are everywhere in a headline — "10 things", "25%",
+    "30 states", "20 companies" — so they need an entity to corroborate them.
+    Three or more digits, or a two-digit figure in the hundreds-of-millions
+    range ("77亿"), do not recur by accident.
+    """
+    digits = re.sub(r"\D", "", tok or "")
+    unit = re.sub(r"[\d,.]", "", tok or "")
+    if len(digits) >= 3:
+        return True
+    return len(digits) >= 2 and unit in ("亿", "billion", "trillion", "bn")
 
 
 def _ents(t):
@@ -4101,17 +4244,36 @@ def same_event_strong(a_title, a_body, b_title, b_body):
     """
     at, bt = a_title or "", b_title or ""
     ea, eb = _ents(at), _ents(bt)
-    # An entity must be shared. Without this the test degenerated into "do these
-    # two long summaries share a number", which merged unrelated stories.
-    if not (ea & eb):
+    na, nb = _rare_nums(at), _rare_nums(bt)
+    # 只有"够具体"的数字才能单独当指纹。"10%" / "10 件事" / "10 万个岗位"
+    # 共有的 "10" 会把四件不相干的事并成一张卡（实测合并过 NNPC 出书、
+    # 品牌奖、美国中期选举解读、外包就业四件事）。
+    shared_nums = {x for x in (na & nb) if _num_strong(x)}
+    shared_ents = ea & eb
+    if not shared_ents and not shared_nums:
         return False
-    pa = _event_marks(at)[0]
-    pb = _event_marks(bt)[0]
+    # ⚠ 机构名会同时出现在"地点"集合里：_SUB_WORDS 收了 NNPC 当尼日利亚的
+    # marker，于是「NNPC 前董事出书」和「NNPC 荣获品牌奖」被判成"共享地点"，
+    # 进而当成同一件事。实体名不算地点，先减掉再比。
+    pa = _event_marks(at)[0] - shared_ents
+    pb = _event_marks(bt)[0] - shared_ents
     if pa and pb and not (pa & pb):
         return False
-    if _rare_nums(at) & _rare_nums(bt):
+    # ⚠ 一个实体不够。NNPC、INEC、国民议会这类大机构三天之内必然有多条
+    # 互不相干的新闻——实测把「NNPC 前董事出书」「9 个月利润 3.49 万亿」
+    # 「荣获品牌奖」「IPO 出售 10% 股份」「原油日增 60 万桶」「每天 600 名
+    # 燃油运出」「法拉纳追缴石油收入」七件事并成了一张卡，INEC 的四件事
+    # 也被并成一张。两个实体、或一个强数字，才是"同一件事"的量级。
+    if len(shared_ents) >= 2:
         return True
-    return bool(pa & pb)
+    if shared_nums:
+        return True
+    # 原来这里还有一条"一个实体 + 同一个下级地名"，用来收 EFCC 查奥贡州
+    # 炼油厂那组（efcc + ogun）。但它把「州警察法案提交总统」和「蒂努布
+    # 申请 77 亿美元贷款」也并成了一张卡——两件事都提阿布贾，而首都名在
+    # 联邦新闻里遍地都是。那组 EFCC 稿子是同一篇通稿的转载，摘要相似度
+    # 本来就够，走 collapse_same_event 的第一条路径即可。
+    return False
 
 
 def _marks_ok(a, b):

@@ -23,6 +23,7 @@ tree = ast.parse(src)
 
 WANT = {
     "CN_RX", "CN_RX_INTL", "CN_ASSET_RX", "TERROR_RX", "NIGER_OIL_RX",
+    "HARDSHIP_RX",
     "POLICY_ANCHOR_RX", "ECON_RX", "ILLEGAL_MINING_RX", "DEFENSE_POLICY_RX",
     "AFR4_CTYS", "US_RX", "US_ABBR", "has_us", "is_africa_off_topic",
 }
@@ -160,7 +161,65 @@ chk("缅甸洪灾", "Floods displace thousands in Myanmar",
 chk("越南选美", "Miss Vietnam final held in Ho Chi Minh City",
     "越南小姐决赛在胡志明市举行", ["vn"], False)
 
-print("\n── F. 词表自身：多语种恐怖组织写法 ──")
+print("\n── F. 本地民生一律不收（读者 2026-11-05）──")
+# 这批用例全部来自线上真实漏网条目。它们的共同点是**都带一个政治或经济
+# 关键词**——naira / budget / lawmakers / Senate——所以白名单第一版全部
+# 放行了。HARDSHIP_RX 必须在政治经济之前判，否则一个"奈拉"就能开门。
+chk("现金救助金", "FG begins payment of N50,000 cash grant to vulnerable citizens",
+    "尼日利亚联邦政府开始向处境脆弱的国民发放5万奈拉救助金", ["ng"], True)
+chk("救济金科普稿", "What you should know about FG's N50,000 relief",
+    "关于联邦政府发放5万奈拉救济金，您应该了解什么", ["ng"], True)
+chk("养老金欠款", "FG pays N13.87bn pension arrears to 18,822 retirees",
+    "尼日利亚联邦政府向18,822名退休人员支付138.7亿奈拉养老金欠款", ["ng"], True)
+chk("学生贷款", "APC credits Tinubu for N372bn student loan and education reform",
+    "全进步大会党将3720亿奈拉学生贷款和教育改革归功于蒂努布", ["ng"], True)
+chk("基层医疗", "Zamfara prioritises primary healthcare in 2027 budget",
+    "赞法拉州在2027年预算中优先发展基层医疗", ["ng"], True)
+chk("老年照护", "Lagos extends financial aid and healthcare to aged caregivers",
+    "拉各斯延长对老年照护者的财政援助和医疗保障", ["ng"], True)
+chk("学校捐赠", "Senator donates laptops to schools in Kogi",
+    "娜塔莎参议员任职三周年，为科吉州学校配备笔记本电脑", ["ng"], True)
+chk("残障福利", "APC candidate promises welfare support for persons with disability",
+    "拉各斯全进步大会党大会候选人承诺为残障人士提供福利支持", ["ng"], True)
+chk("教育惩戒", "Parliament committee calls for safe discipline in secondary schools",
+    "议会人权委员会呼吁在中学重新推行安全的惩戒措施", ["ng"], True)
+chk("燃气泄漏", "Ogun and FG probe repeated gas leaks in Ijebu-Ode",
+    "奥贡州与联邦政府调查伊杰布奥德反复发生的燃气泄漏事件", ["ng"], True)
+chk("人事任命·委员", "Kano Assembly confirms two commissioner nominees",
+    "卡诺州议会将于星期二审查两名州务委员候选人", ["ng"], True)
+chk("人事任命·发言人", "Governor Yusuf appoints spokesperson, commissioner",
+    "州长 Yusuf 任命新闻发言人兼委员", ["ng"], True)
+chk("品牌奖软新闻", "Big Bull Rice, Chicken Republic, Gino and NNPC win Brand of the Year",
+    "Big Bull Rice、Chicken Republic、Gino 和 NNPC 荣获世界品牌奖", ["ng"], True)
+chk("英文洪灾", "Flood displaces 3,000 residents in Benue",
+    "贝努埃州洪灾致 3000 名居民流离失所", ["ng"], True)
+
+print("\n── G. 民生词不能盖过涉华：中国是主体就要留 ──")
+chk("中资企业捐物资给洪灾灾民",
+    "Chinese firm donates relief materials to flood victims in Benue",
+    "中资企业向贝努埃州洪灾灾民捐赠物资", ["ng"], False)
+chk("中国援建医院",
+    "China-funded hospital opens in Abuja",
+    "中国援建医院在阿布贾落成", ["ng"], False)
+chk("中资矿企与非法采金",
+    "Chinese nationals arrested over illegal mining in Ghana",
+    "加纳逮捕涉嫌非法采金的中国公民", ["gh"], False)
+chk("中石油炼油厂",
+    "SORAZ refinery resumes operations in Zinder",
+    "SORAZ 炼油厂在津德尔恢复运营", ["ne"], False)
+
+print("\n── H. 地名里藏着国名／石油词的假阳性 ──")
+# 2026-11-05 实测：「卡齐纳」的 Ka·tsina 命中了埃维语的 tsina（中国），
+# 「津德尔」命中了 NIGER_OIL_RX 的 \bzinder\b。两条本地稿因此被当成
+# 涉华／石油留下。与当年 \bus\b 命中代词 us 是同一个家族。
+chk("卡齐纳传统制度不得判为涉华", "Katsina: we restored dignity of traditional institution",
+    "拉达：我们恢复了尊严，并加强了卡齐纳的传统制度", ["ng"], True)
+chk("津德尔移民安置不得判为石油", "IOM hands reintegration packages to returning migrants in Zinder",
+    "津德尔：国际移民组织向返乡的尼日利亚移民发放重返社会安置包", ["ne"], True)
+chk("卡齐纳警方不得判为涉华", "Police arrest three over political violence in Katsina",
+    "卡蒂纳警方因政治暴力逮捕3人", ["ng"], True)
+
+print("\n── I. 词表自身：多语种恐怖组织写法 ──")
 TER = ns["TERROR_RX"]
 POS = ["JNIM", "GSIM", "MPLJ", "EIGS", "ISGS", "ISSP", "ISIS", "Daesh", "Daech",
        "Lakurawa", "Lukarawa", "ISWAP", "AQIM", "AQMI", "Boko Haram",
