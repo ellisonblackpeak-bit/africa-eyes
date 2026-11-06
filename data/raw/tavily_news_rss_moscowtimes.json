@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Kremlin Accuses Europe of Struggling to Decide Who Will Represent It in Future Security Talks",
+   "url": "https://www.themoscowtimes.com/2026/11/06/kremlin-accuses-europe-of-struggling-to-decide-who-will-represent-it-in-future-security-talks-a94191",
+   "content": "Spokesman Dmitry Peskov said messaging from officials in Brussels suggests that Europe is still unwilling to engage with Russia in serious discussions.",
+   "published_date": "Fri, 06 Nov 2026 14:04:31 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine and Russia Trade Volley of Strikes Against Each Other’s Energy Infrastructure",
+   "url": "https://www.themoscowtimes.com/2026/11/06/ukraine-and-russia-trade-volley-of-strikes-against-each-others-energy-infrastructure-a94189",
+   "content": "In the southern Krasnodar region, drone debris was reported to have crashed into the Afipsky oil refinery and sparked a fire.",
+   "published_date": "Fri, 06 Nov 2026 12:59:16 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Pro-War Blogger Vanishes From Public After Telegram Post About Oleshky Evacuation",
    "url": "https://www.themoscowtimes.com/2026/11/05/pro-war-blogger-vanishes-from-public-after-telegram-post-about-oleshky-evacuation-a94187",
    "content": "Vladimir Romanov posted and then later deleted a message on his channel that said only four buses filled with residents from Oleshky had departed for Russia during the ceasefire, as opposed to 17 buses that carried evacuees to Ukrainian territory.",
-   "published_date": "Thu, 05 Nov 2026 19:47:20 +0300",
+   "published_date": "Thu, 05 Nov 2026 19:47:00 +0300",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/02/ukrainian-drones-hit-major-oil-transport-hub-in-samara-region-a94149",
    "content": "The Transneft-owned facility, which moves crude toward refineries and pipelines in western Russia, has been repeatedly attacked this month.",
    "published_date": "Mon, 02 Nov 2026 12:24:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "FSB Arrests Minor Over Moscow Park Attack Threat After U.S. Tip-Off",
-   "url": "https://www.themoscowtimes.com/2026/11/01/fsb-arrests-minor-over-moscow-park-attack-threat-after-us-tip-off-a94148",
-   "content": "The U.S. Embassy in Moscow had issued an urgent security alert warning of a credible threat of a mass casualty event.",
-   "published_date": "Sun, 01 Nov 2026 17:18:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Cyberattack Hits Rosstat as Hackers Claim Huge Data Theft",
-   "url": "https://www.themoscowtimes.com/2026/11/01/cyberattack-hits-rosstat-as-hackers-claim-huge-data-theft-a94146",
-   "content": "Hackers claimed to have stolen 23 terabytes of data, including information on Russian losses in the war in Ukraine.",
-   "published_date": "Sun, 01 Nov 2026 17:06:00 +0300",
    "score": 0.6
   }
  ],

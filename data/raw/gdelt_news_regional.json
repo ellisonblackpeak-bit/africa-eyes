@@ -1,0 +1,36 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Nigerian Military Denies Ceasefire Deal With Boko Haram",
+   "url": "https://allafrica.com/stories/202611060084.html",
+   "content": "",
+   "published_date": "2026-11-06T06:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Nigeria : Military - Alleged Secret Ceasefire With Boko Haram Terrorists Is False , Misleading",
+   "url": "https://allafrica.com/stories/202611060182.html",
+   "content": "",
+   "published_date": "2026-11-06T11:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Nigeria : No Ceasefire With Boko Haram , Others - Military",
+   "url": "https://allafrica.com/stories/202611060208.html",
+   "content": "",
+   "published_date": "2026-11-06T11:30:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "regional",
+ "_query": "Sahel OR ECOWAS OR JNIM OR ISWAP",
+ "_domains": [
+  "reuters.com",
+  "africanews.com",
+  "allafrica.com",
+  "bbc.com"
+ ],
+ "_days": 3
+}

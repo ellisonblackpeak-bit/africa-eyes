@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Belgian king refuses Bart De Wever’s resignation",
+   "url": "https://www.politico.eu/article/king-philippe-refuses-prime-minister-bart-de-wever-resignation/",
+   "content": "Instead, the monarch asked the prime minister to restart budget negotiations with his fractious coalition partners.",
+   "published_date": "Fri, 06 Nov 2026 11:43:58 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Von der Leyen to visit Black Sea amid deadly drone attacks",
+   "url": "https://www.politico.eu/article/ursula-von-der-leyen-to-visit-black-sea-amid-wave-of-deadly-drone-attacks/",
+   "content": "The trip comes after at least seven commercial vessels were reportedly struck by drones that many have linked to Russia.",
+   "published_date": "Fri, 06 Nov 2026 11:05:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU accuses TikTok of designing algorithm that creates ‘rabbit holes’",
+   "url": "https://www.politico.eu/article/eu-accuses-tiktok-of-breaching-digital-rules-because-algorithm-creates-rabbit-holes/",
+   "content": "The preliminary findings mark the first time the Commission has focused on a social media platform's recommender systems as a breach of its powerful Digital Services Act.",
+   "published_date": "Fri, 06 Nov 2026 10:59:43 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Trump teases ‘beautiful’ deal covering ‘all of Europe’ after meeting Putin’s envoy",
+   "url": "https://www.politico.eu/article/donald-trump-europe-ukraine-deal-vladimir-putin-envoy-kirill-dmitriev/",
+   "content": "An agreement is \"going to involve more than Ukraine,\" the U.S. president said after a meeting with Kirill Dmitriev.",
+   "published_date": "Fri, 06 Nov 2026 10:04:57 +0000",
+   "score": 0.6
+  },
+  {
    "title": "‘I don’t trust them’: Lithuanian president warns Putin’s provocations will continue",
    "url": "https://www.politico.eu/article/lithuania-president-gitanas-nauseda-vladimir-putin-provocation/",
    "content": "“The Russians will only pretend to negotiate\" over Ukraine, Gitanas Nausėda warned in an interview.",
@@ -41,34 +69,6 @@
    "url": "https://www.politico.eu/article/curse-liz-truss-maga-movement/",
    "content": "The former British PM was at Mar-a-Lago the night before the midterms. Coincidence? Yes, probably.",
    "published_date": "Fri, 06 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "From Madrid to MAGA: How Spain’s Vox forged a right-wing network with global reach",
-   "url": "https://www.politico.eu/article/from-madrid-to-maga-how-spains-vox-forged-a-right-wing-network-with-global-reach/",
-   "content": "The Spanish party has forged strong links among far-right groups stretching from Buenos Aires to Washington — and is wielding growing influence in Brussels.",
-   "published_date": "Fri, 06 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Don’t try to ‘please the dictator,’ Estonian leader urges Europe about Putin",
-   "url": "https://www.politico.eu/article/estonia-prime-minister-kristen-michal-europe-vladimir-putin-russia/",
-   "content": "Prime Minister Kristen Michal tells POLITICO that Europe needs to suffocate Moscow with sanctions instead of attempting to negotiate with the Kremlin.",
-   "published_date": "Fri, 06 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Andy Burnham’s cost-of-living COP",
-   "url": "https://www.politico.eu/article/andy-burnham-cost-of-living-cop/",
-   "content": "The British leader will arrive at the COP climate summit wrestling with the political risks of doing too little — or too much — to go green.",
-   "published_date": "Thu, 05 Nov 2026 19:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU targets large firms to unlock budget deal",
-   "url": "https://www.politico.eu/article/eu-targets-large-firms-to-unlock-budget-deal/",
-   "content": "European Council President António Costa hopes the concessions will facilitate an agreement on the bloc's next long-term budget.",
-   "published_date": "Thu, 05 Nov 2026 18:22:33 +0000",
    "score": 0.6
   }
  ],
