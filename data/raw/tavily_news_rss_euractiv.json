@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "FIRST AID: Parliament floats ideas about clinical trials",
+   "url": "https://www.rapporteur.com/news/first-aid-parliament-floats-ideas-about-clinical-trials/",
+   "content": "In today's edition: tobacco taxes, artificial wombs, dying places",
+   "published_date": "Fri, 06 Nov 2026 08:30:21 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "HARVEST: Pressure on budget summit",
+   "url": "https://www.rapporteur.com/news/harvest-pressure-on-budget-summit/",
+   "content": "In today's edition: Biotech Act, promotion funds, fishing quotas",
+   "published_date": "Fri, 06 Nov 2026 08:20:11 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU leaders seek one Ukraine voice",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-eu-leaders-seek-one-ukraine-voice/",
+   "content": "Also, in Friday’s edition: Costa gathers final budget offers from capitals",
+   "published_date": "Fri, 06 Nov 2026 06:16:23 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Europe set to miss 2030 renewable energy targets, IEA projects",
+   "url": "https://www.rapporteur.com/news/europe-set-to-miss-2030-renewable-energy-targets-iea-warns/",
+   "content": "Developing countries match rich world amid Iran energy shock that fails to stir EU into action",
+   "published_date": "Fri, 06 Nov 2026 05:01:13 +0000",
+   "score": 0.6
+  },
+  {
    "title": "EPP scrambles to close ranks on farm budget overhaul",
    "url": "https://www.rapporteur.com/news/epp-scrambles-to-close-ranks-on-farm-budget-overhaul/",
    "content": "EPP chief Weber was consulted before farm negotiators broke ranks",
@@ -181,34 +209,6 @@
    "url": "https://www.rapporteur.com/news/firepower-zelenskyy-heads-to-spain-for-air-defence/",
    "content": "In today's edition: European preference, military mobility, Baltic Sentry",
    "published_date": "Thu, 05 Nov 2026 07:54:58 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "THE HACK: Social media ban freeze has fans",
-   "url": "https://www.rapporteur.com/news/the-hack-social-media-ban-freeze-has-fans/",
-   "content": "In today's edition: Amazon ads, Space Act, Ukraine satcoms",
-   "published_date": "Thu, 05 Nov 2026 07:51:32 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "VOLTAGE: Industry over nature",
-   "url": "https://www.rapporteur.com/news/voltage-industry-over-nature/",
-   "content": "In today's edition: SF6 ban, ship recycling, CO₂ cars",
-   "published_date": "Thu, 05 Nov 2026 07:45:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIRST AID: MEPs seek cross-border healthcare overhaul",
-   "url": "https://www.rapporteur.com/news/first-aid-meps-seek-cross-border-healthcare-overhaul/",
-   "content": "In today's edition: Chinese prostheses, airport malaria, PFAS",
-   "published_date": "Thu, 05 Nov 2026 07:41:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "HARVEST: A tougher watchdog for looser common rules?",
-   "url": "https://www.rapporteur.com/news/harvest-a-tougher-watchdog-for-looser-common-rules/",
-   "content": "In today's edition: CAP budget, pesticides, simplification",
-   "published_date": "Thu, 05 Nov 2026 07:36:33 +0000",
    "score": 0.6
   }
  ],
