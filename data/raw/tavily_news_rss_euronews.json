@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
+   "url": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+   "content": "Miller, one of the driving forces behind US president Donald Trump's mass deportation policy, is set to succeed Susie Wiles as White House chief of staff next week.",
+   "published_date": "Fri, 06 Nov 2026 20:52:20 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Switzerland: Giant banner targets Big Tech outside data centre site",
    "url": "https://www.euronews.com/video/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site",
    "content": "Greenpeace activists unfurled a giant 26-by-26-metre banner outside a data centre construction site in Beringen, northeastern Switzerland, on Friday 6 November, protesting against the growing environmental impact of major technology companies.",
@@ -23,7 +30,7 @@
    "score": 0.6
   },
   {
-   "title": "Meghan Markle's father reportedly arrested in Florida over alleged child porn possession",
+   "title": "Meghan Markle's father arrested over child sex abuse images",
    "url": "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession",
    "content": "Markle Sr's arrest follows an investigation launched after his son, Thomas Markle Jr, reportedly discovered boxes containing hundreds or potentially thousands of images at his father's former home in the Philippines.",
    "published_date": "Fri, 06 Nov 2026 17:10:18 +0100",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/11/05/south-korea-plans-to-extend-anti-piracy-patrols-closer-to-strait-of-hormuz",
    "content": "Seoul said pirates have recently ventured further from the Somali coast and added that it wanted to send a patrol aircraft to protect merchant ships off Oman while keeping its forces out of the ongoing Iran war.",
    "published_date": "Thu, 05 Nov 2026 13:07:23 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Milei and Sánchez exchange a cold greeting at Ibero-American Summit",
-   "url": "https://www.euronews.com/2026/11/05/milei-and-sanchez-exchange-a-cold-greeting-at-ibero-american-summit",
-   "content": "Argentine President Javier Milei and Spanish Prime Minister Pedro Sánchez exchanged a brief and frosty greeting at the Ibero-American Summit in Madrid on Wednesday. Their encounter comes two weeks after Milei called Sánchez an “unpresentable dictator”.",
-   "published_date": "Thu, 05 Nov 2026 13:00:08 +0100",
    "score": 0.6
   }
  ],

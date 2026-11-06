@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Critical Minerals Diplomacy: What over 200 agreements reveal | International Institute for Sustainable Development",
+   "url": "https://www.iisd.org/articles/deep-dive/critical-minerals-diplomacy-what-over-200-agreements-reveal",
+   "snippet": "public consultation on the possible plurilateral Agreement on Trade in Critical Minerals. The EU and the United States together announced the Action Plan for Critical Minerals Supply Chain Resilience on April 24, 2026, following similar announcements with Mexico and Japan earlier in the year, which together could lay the building blocks for a possible plurilateral agreement. [...] ​Demand for crit",
+   "published": "Tue, 03 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The US and the EU Bet on the Wrong Race in Zambia | German Marshall Fund of the United States",
+   "url": "https://www.gmfus.org/news/us-and-eu-bet-wrong-race-zambia",
+   "snippet": "On top of energy partnerships, new partnerships should be built through market access clauses. To send clearer signals to private investors, both should extend friend-shoring through critical mineral agreements that define eligibility by stage of transformation rather than by mine of origin, so that African-processed materials, such as Zambian refined copper cathode or battery precursors from the ",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+   "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+   "snippet": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],

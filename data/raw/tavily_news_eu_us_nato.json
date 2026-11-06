@@ -1,7 +1,35 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Allies fear Trump will target NATO in case of midterm loss",
+   "url": "https://www.politico.eu/article/allies-fear-donald-trump-could-target-nato-after-midterm-loss",
+   "snippet": "If Hegseth does move on, there would be a transition period in the Pentagon which could push any decisions about moving U.S. troops out of Europe back by weeks or months.\n\nIn theory, a Democrat majority in the House and Senate would restrain Trump’s maneuverability even on foreign and defense issues, even if U.S. law currently imposes a minimum limit of 76,000 on troop presence in Europe. [...] Lo",
+   "published": "Sun, 01 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NATO’s military chief tells Poland to keep wary eye on area near Russian border | Stars and Stripes",
+   "url": "https://www.stripes.com/theaters/europe/2026-11-04/poland-russia-border-threat-eucom-23360076.html",
+   "snippet": "Meanwhile, a top German military commander said Sunday that security at bases across the country has been stepped up.\n\nNATO\n\nJohn Vandiver headshot\n\nJohn Vandiver covers U.S. military activities across Europe and Africa. Based in Stuttgart, Germany, he previously worked for newspapers in New Jersey, North Carolina and Maryland. He is a graduate of the University of Delaware.\n\n  \n\nPREVIOUS COVERAGE",
+   "published": "Wed, 04 Nov 2026 11:32:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NATO",
+   "url": "https://tavily.com/knowledge/company/DEPWNLzwKnuO",
+   "snippet": "# NATO\nID: DEPWNLzwKnuO\nWebsite: www.nato.int\nHeadquarters: Brussels, Belgium\nLinkedIn: www.linkedin.com/company/nato · 918,359 followers\nIndustry: International Affairs\nCompany type: Government Agency\nSocial profiles: www.facebook.com/nato, www.twitter.com/nato, www.crunchbase.com/organization/nato\nPhone: 32-2-707-41-11, +32 2 707 5041 [...] Description: Working for peace, security and freedom fo",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Like it or not, the White House needs NATO to keep fighting in Iran : NPR",
+   "url": "https://www.npr.org/2026/11/02/nx-s1-6019627/like-it-or-not-the-white-house-needs-nato-to-keep-fighting-in-iran",
+   "snippet": "Accessibility links\n\n Keyboard shortcuts for audio player\n\nLike it or not, the White House needs NATO to keep fighting in Iran President Trump has had harsh words for NATO since the beginning of the war with Iran. Eight months later, the situation may be settling down, as NATO allies look for ways to take on a greater role.\n\n### International Politics\n\n# Like it or not, the White House needs NATO ",
+   "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

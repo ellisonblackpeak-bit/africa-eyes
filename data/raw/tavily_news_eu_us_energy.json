@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "IEA sees gas market pressure extending into 2027 despite new LNG capacity - Oil & Gas 360",
+   "url": "https://www.oilandgas360.com/iea-sees-gas-market-pressure-extending-into-2027-despite-new-lng-capacity/",
+   "snippet": "* Europe, IEA, LNG exports, Natural gas prices. (Oil & Gas 360) – Global natural gas markets could remain constrained well into 2027 as disruptions to Middle Eastern LNG exports and historically low European storage inventories intensify competition for available supplies, according to a new report from the International Energy Agency. In its Global Gas Security Review 2026, released November 3, t",
+   "published": "Tue, 03 Nov 2026 22:30:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe hails Democrats’ US midterm victory as a rebuke of Trumpism - Financial Times",
+   "url": "https://www.ft.com/content/97070d8f-ce2d-4873-8c70-cc8338f7ce1c?syn-25a6b1a6=1",
+   "snippet": "Accessibility helpSkip to navigationSkip to main contentSkip to footer. *   Live US midterm elections results — in charts and maps. *   Trump’s slapdown by America is one for the ages. *   Qatar set to become world’s biggest buyer of US LNG. *   Memo to AI: lessons from the rise and fall of secretarial skills. # > Europe hails Democrats’ US midterm victory as a rebuke of Trumpism. Complete digital",
+   "published": "Wed, 04 Nov 2026 10:48:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. election fallout exposes new risks for AI infrastructure and energy markets - Oil & Gas 360",
+   "url": "https://www.oilandgas360.com/u-s-election-fallout-exposes-new-risks-for-ai-infrastructure-and-energy-markets/",
+   "snippet": "# U.S. election fallout exposes new risks for AI infrastructure and energy markets. * AI infrastructure, energy markets, selloff, U.S. election. (Oil & Gas 360) – Technology stocks fell sharply Thursday as investors reassessed the outlook for artificial intelligence infrastructure following Democratic victories in the U.S. midterm elections, while crude oil prices recovered from a steep selloff dr",
+   "published": "Thu, 05 Nov 2026 20:30:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. upstream M&A hits $12.6 billion in Q3, Enverus reports - World Oil",
+   "url": "https://www.worldoil.com/news/2026/11/5/u-s-upstream-m-a-hits-12-6-billion-in-q3-enverus-reports/",
+   "snippet": "(WO) – U.S. upstream M&A reached **$12.6 billion** in the third quarter, up from $11.5 billion in the second quarter, according to **Enverus Intelligence Research (EIR)**. Deal activity then accelerated in October with two large public-to-public transactions: EQT’s $13.8-billion all-stock acquisition of Range Resources and Crescent Energy’s $4.2-billion purchase of Devon Energy’s Eagle Ford assets",
+   "published": "Thu, 05 Nov 2026 22:56:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Great Lakes Limestone Trade Decreases In October 2026 - MarineLink",
+   "url": "https://www.marinelink.com/news/great-lakes-limestone-trade-decreases-544144",
+   "snippet": "# Great Lakes Limestone Trade Decreases in October 2026. U.S. shipments of limestone on the Great Lakes decreased 7.8 percent from 2025 to 2.95 million tons. Limestone cargos were below the month’s 5-year average by 17.3 percent. Year-to-date, the limestone trade stands at 18.8 million tons, a decrease of 17.7 percent compared to last year and 22.4 percent below the month’s 5-year average. **GREAT",
+   "published": "Wed, 04 Nov 2026 09:05:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Woodside Energy to cut at least 10% of workforce, targets $400M in cost savings (WDS:NYSE) - Seeking Alpha",
+   "url": "https://seekingalpha.com/news/4665993-woodside-energy-to-cut-at-least-10-percent-of-workforce-targets-400m-in-cost-savings",
+   "snippet": "Australia's Woodside Energy (WDS) said Thursday it expects to cut more ​than 500 jobs, or at least 10% ​of its global workforce of 4,693 ⁠employees at year-end 2025, and ‌raised its annual cost savings target by US$50M to US$400M. Woodside (WDS) also said it is now targeting a return on average capital employed of 12%-15% across its portfolio by the mid-2030s, supported by ​a new capital framework",
+   "published": "Thu, 05 Nov 2026 00:00:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Winter is coming: Europe's 5 year energy crisis - CNBC",
+   "url": "https://www.cnbc.com/video/2026/11/05/winter-is-coming-europes-5-year-energy-crisis.html",
+   "snippet": "Winter is coming: Europe's 5 year energy crisis. CNBC's Brian Sullivan joins 'Squawk Box' to discuss the energy crisis in Europe. Compute scarcity favors Big Tech after midterms, says The Information's Jessica Lessin. Ed Yardeni on his 7,900 S&P 500 year-end target: 'Santa is coming'. Wall Street reacts to the midterm election results. President Trump: Defense Secretary Pete Hegseth is doing a ver",
+   "published": "Thu, 05 Nov 2026 12:42:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "INEOS Energy says UK North Sea ban “chooses campaign promises over the country’s future” - World Oil",
+   "url": "https://www.worldoil.com/news/2026/11/4/ineos-energy-says-uk-north-sea-ban-chooses-campaign-promises-over-the-country-s-future/",
+   "snippet": "World Oil Events Gulf Energy Information Excellence Awards Women's Global Leadership Conference World Oil Forecast Breakfast Deepwater Development Conference (MCEDD) Pumps and Valves Innovation Conference Middle East Gas Conference. # INEOS Energy says UK North Sea ban “chooses campaign promises over the country’s future”. The company said the bill’s ban on new drilling in the North Sea would weak",
+   "published": "Thu, 05 Nov 2026 03:51:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ADNOC signs 10-year LNG deal with India’s Gujarat Energy - World Oil",
+   "url": "https://www.worldoil.com/news/2026/11/6/adnoc-signs-10-year-lng-deal-with-india-s-gujarat-energy/",
+   "snippet": "# ADNOC signs 10-year LNG deal with India’s Gujarat Energy. (WO) – **ADNOC** has signed a long-term LNG sales and purchase agreement (SPA) with **India’s Gujarat Energy Ltd. It is the first sale of gas from the international portfolio of XRG, ADNOC’s international investment company. Under the 10-year deal, GEL will receive up to 4 million tonnes of LNG starting in 2028. It is ADNOC’s fifth LNG su",
+   "published": "Fri, 06 Nov 2026 17:36:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe must stockpile critical raw materials, Germany’s Merz says - Mining.com",
+   "url": "https://www.mining.com/web/europe-must-stockpile-critical-raw-materials-germanys-merz-says/",
+   "snippet": "Brent Crude Oil $ 97.17 / bbl  2.73%. Crude Oil $ 90.57 / bbl  2.86%. Silver Futures $ 52.16 / ozt  4.69%. Micro Gold Futures $ 4113.6 / ozt  4.40%. Micro Silver Futures $ 52.175 / ozt  4.80%. Gold Futures $ 4114 / ozt  0.95%. Reuters | November 5, 2026 | 9:51 am  Critical Minerals China Europe Copper Nickel Rare Earth Rare Earths. Europe must build up stocks of critical raw materials to reduce it",
+   "published": "Thu, 05 Nov 2026 16:55:58 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],
