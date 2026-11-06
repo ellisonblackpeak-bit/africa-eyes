@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EU and Canada reach agreement on critical minerals and LNG – POLITICO",
-   "url": "https://www.politico.eu/article/eu-and-canada-reach-agreement-on-critical-minerals-and-lng",
-   "snippet": "# EU and Canada reach agreement on critical minerals and LNG\n\nDeal aims to boost trade of resources needed in the energy transition.\n\nAI generated Text-to-speech\n\nThis article is also available in: German\n\nBRUSSELS — The European Union and Canada have agreed a framework to invest more European money in Canadian critical minerals, as part of a broader agreement to boost raw material and energy trad",
-   "published": "Fri, 30 Oct 2026 16:15:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The US and the EU Bet on the Wrong Race in Zambia | German Marshall Fund of the United States",
-   "url": "https://www.gmfus.org/news/us-and-eu-bet-wrong-race-zambia",
-   "snippet": "On top of energy partnerships, new partnerships should be built through market access clauses. To send clearer signals to private investors, both should extend friend-shoring through critical mineral agreements that define eligibility by stage of transformation rather than by mine of origin, so that African-processed materials, such as Zambian refined copper cathode or battery precursors from the ",
-   "published": "Thu, 05 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-   "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-   "snippet": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
-   "published": "Thu, 05 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],

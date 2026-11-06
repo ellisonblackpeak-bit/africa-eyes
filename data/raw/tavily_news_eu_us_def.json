@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "The Leadership Trap in European Defense",
-   "url": "https://smallwarsjournal.com/2026/11/03/the-leadership-trap-in-european-defense",
-   "snippet": "This strategic dependency is further exacerbated by an over reliance on off-the-shelf American defense platforms, as evidenced by European states directing the vast majority of their capability investment budgets toward U.S. military hardware, specifically high-tier acquisitions such as F-35 fighter aircraft, Patriot missile defense batteries, and Tomahawk missiles, rather than sovereign European ",
-   "published": "Tue, 03 Nov 2026 06:00:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "After the midterms: Europe's three-pronged strategy for dealing with America | European Union Institute for Security Studies",
-   "url": "https://www.iss.europa.eu/publications/commentary/after-midterms-europes-three-pronged-strategy-dealing-america",
-   "snippet": "Europe should broaden its engagement across the US political spectrum, going beyond Washington D.C. and engaging with state legislatures, governors, businesses and local communities. It has more to offer than in previous years, thanks to increased defence spending, economic power and investments in US states. It should use these assets to shape Americans’ perceptions of Europe and challenge the no",
-   "published": "Wed, 04 Nov 2026 09:31:51 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Democrats’ Sweep Drives Decline in European Defense Shares - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-defense-stocks-slide-as-democrats-sweep-dents-optimism",
-   "snippet": "# European Defense Stocks Slide as Democrats’ Sweep Dents Optimism\n\nEuropean defense stocks slid as the Democrats’ landslide midterm-elections win dented expectations of a further ramp-up in US military spending.\n\nA Goldman Sachs Group Inc. basket of Europe’s military names fell as much as 4.1% on Wednesday, its steepest decline in more than four months. The UK’s BAE Systems Plc, which gets nearly",
-   "published": "Wed, 04 Nov 2026 11:27:31 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],
