@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Yadda Iran ta fara aikin sake gina cibiyoyin makamanta da aka lalata",
-   "url": "https://www.bbc.com/hausa/articles/c68jzzp1grr9o?at_medium=RSS&at_campaign=rss",
-   "content": "Shaidar na tonon ƙasa da kuma sabbin gine-gine na bayyana a hotunan tauraron ɗan'dam da aka ɗauka a watan Nuwamba a sansanin soja na Garmdareh da ke Karaj kusa da babban birnin ƙasar, Tehran, da kuma sansanin Shahroud da ke arewacin ƙasar.",
-   "published_date": "Fri, 06 Nov 2026 10:31:28 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Kan ƴan Demokrats ya rabu a yunƙurin tsige Trump",
    "url": "https://www.bbc.co.uk/hausa/live/cmpwgg7l0y2jt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 06/11/2026",
@@ -16,10 +9,24 @@
    "score": 0.6
   },
   {
+   "title": "An yanke wa Paul Mackenzie hukuncin shekara 200 saboda kashe mutum 191",
+   "url": "https://www.bbc.com/hausa/articles/crgqwwlz33k8o?at_medium=RSS&at_campaign=rss",
+   "content": "Babbar Kotun Mombasa ce ta yanke hukuncin a ranar Juma'a, matakin da ake kallon a matsayin wani muhimmin hukunci a shari'ar da ta shafi ɗaya daga cikin munanan misalan tsattsauran ra'ayin addini da aka taɓa gani a Kenya.",
+   "published_date": "Fri, 06 Nov 2026 14:09:51 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Zaɓi biyu da suka rage wa Atiku bayan soke takararsa",
    "url": "https://www.bbc.com/hausa/articles/c6pqg0g59z2wo?at_medium=RSS&at_campaign=rss",
    "content": "Matakin na zuwa ne a daidai lokacin da jam'iyyar ADC da ɗan takararta suke kaddamar da yaƙin neman zaɓe a jihar Sokoto.",
    "published_date": "Fri, 06 Nov 2026 03:56:30 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda Iran ta fara aikin sake gina cibiyoyin makamanta da aka lalata",
+   "url": "https://www.bbc.com/hausa/articles/c68jzzp1grr9o?at_medium=RSS&at_campaign=rss",
+   "content": "Shaidar na tonon ƙasa da kuma sabbin gine-gine na bayyana a hotunan tauraron ɗan'dam da aka ɗauka a watan Nuwamba a sansanin soja na Garmdareh da ke Karaj kusa da babban birnin ƙasar, Tehran, da kuma sansanin Shahroud da ke arewacin ƙasar.",
+   "published_date": "Fri, 06 Nov 2026 10:31:28 GMT",
    "score": 0.6
   },
   {
@@ -58,17 +65,17 @@
    "score": 0.6
   },
   {
-   "title": "Matasa 'yan Afirka da suka lashe zaɓen Amurka",
-   "url": "https://www.bbc.com/hausa/articles/c8qlnwnnr0qwo?at_medium=RSS&at_campaign=rss",
-   "content": "A lokacin yaƙin neman zaɓensa, El-Sayed ya yi amfani da kafafen sada zumunta sosai wajen isa ga masu zaɓe, musamman matasa. A bidiyoyinsa da yake wallafawa a dandalin TikTok, ana ganinsa yana magana kai tsaye da matasan Gen Z, inda yake amfani da barkwanci da matasan ke so, har ma da sanya mundayen abota a hannunsa.",
-   "published_date": "Thu, 05 Nov 2026 16:13:19 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
    "published_date": "Tue, 29 Sep 2026 13:46:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Palmer ya barar da damarmakin da zai burge ni - Tuchel.",
+   "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -97,6 +104,13 @@
    "url": "https://www.bbc.com/hausa/articles/cjqlnw2yveq0o?at_medium=RSS&at_campaign=rss",
    "content": "Kifo cha hivi karibuni cha mshambuliaji wa Tenerife, Jesus de Miguel, kimeibua tena kumbukumbu za matukio mengine ya kusikitisha yaliyowahi kutokea katika viwanja vya soka duniani.",
    "published_date": "Wed, 04 Nov 2026 16:48:24 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Matasa 'yan Afirka da suka lashe zaɓen Amurka",
+   "url": "https://www.bbc.com/hausa/articles/c8qlnwnnr0qwo?at_medium=RSS&at_campaign=rss",
+   "content": "A lokacin yaƙin neman zaɓensa, El-Sayed ya yi amfani da kafafen sada zumunta sosai wajen isa ga masu zaɓe, musamman matasa. A bidiyoyinsa da yake wallafawa a dandalin TikTok, ana ganinsa yana magana kai tsaye da matasan Gen Z, inda yake amfani da barkwanci da matasan ke so, har ma da sanya mundayen abota a hannunsa.",
+   "published_date": "Thu, 05 Nov 2026 16:13:19 GMT",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cx240mgrjdzro?at_medium=RSS&at_campaign=rss",
    "content": "Sanarwar wannan kisa na kwamandan za ta iya zama wata babbar koma-baya ga ISWAP, wadda take cikin ƙungiyoyin masu ɗauke da bindiga waɗanda suka fi kai hare-hare a yankin Tafkin Chadi.",
    "published_date": "Tue, 03 Nov 2026 08:16:17 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa Aljeriya ke tura sojoji zuwa Nijar?",
-   "url": "https://www.bbc.com/hausa/articles/cr89znxl82ewo?at_medium=RSS&at_campaign=rss",
-   "content": "Kasa da wata uku bayan ta miƙa jiragen yaƙi masu saukar ungulu da jiragen saman yaƙi ga Nijar, yanzu Aljeriya na shirin tura sojojinta zuwa ƙasar, wadda mamba ce ta ƙungiyar AES kuma tana da iyaka da ita mai tsawon kusan kilomita 956.",
-   "published_date": "Mon, 02 Nov 2026 17:51:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa 'yan Syria ke ƙara talaucewa tun bayan faɗuwar gwamnatin Assad?",
-   "url": "https://www.bbc.com/hausa/articles/cmly0qe6e5zeo?at_medium=RSS&at_campaign=rss",
-   "content": "Bei za karibu kila kitu, ikiwemo huduma za kijamii na bidhaa muhimu za kila siku, zimepanda. Ongezeko la ghafla la bei za mafuta limechukuliwa na wengi kama ishara kuwa serikali haifahamu hali halisi ya maisha ya wananchi.",
-   "published_date": "Tue, 03 Nov 2026 03:41:31 GMT",
    "score": 0.6
   }
  ],

@@ -2,17 +2,87 @@
  "success": true,
  "results": [
   {
-   "title": "Democratic gains unlikely to derail Korea-US investment deal - The Korea Herald",
-   "url": "https://www.koreaherald.com/article/10925899",
-   "snippet": "Bipartisan efforts to reduce US dependence on China could also benefit Korean companies supplying American manufacturers, although restrictions on Chinese materials may increase production costs.\n\nAI investment faces new uncertainty\n\nThe growing US artificial intelligence industry presents another challenge for Korean technology companies. [...] For South Korea, the biggest concern is not necessar",
-   "published": "Wed, 04 Nov 2026 06:58:54 GMT",
+   "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals - CNBC",
+   "url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+   "snippet": "A former Samsung Electronics employee who later joined Chinese memory chipmaker ChangXin Memory Technologies, or CXMT, was reportedly sentenced by the Seoul High Court on Oct. 22 to five years in prison for leaking Samsung's technology. The case highlights an intensifying battle over semiconductor know-how as Chinese chipmakers narrow the gap with established rivals, putting the race for top engin",
+   "published": "Thu, 05 Nov 2026 03:44:05 GMT",
    "source": "tavily"
   },
   {
-   "title": "Korea’s Stock Market Crashed $1 Trillion. What Does That Mean for the Global AI Race?",
-   "url": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
-   "snippet": "Throughout the first half of 2026, foreign investments have flowed out of Asian equities at a record pace — with Korea among the hardest hit. In line with the KOSPI’s crash, in May and June, South Korea’s capital flight (in equities) exceeded $35 billion. On July 28, Korea’s stock market dropped more than 8% during intraday trading, the eighth instance that year. There have been at least 33 days o",
-   "published": "Mon, 02 Nov 2026 11:00:00 GMT",
+   "title": "Asia stocks mixed as chip rout triggers KOSPI trading halt; China outperforms - Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-chip-rout-042442281.html",
+   "snippet": "2. Best 0% APR Cards. Investing.com-- Asian stocks were mixed on Thursday, as a sharp selloff in semiconductor shares triggered a trading curb in South Korea, offsetting support from a steep decline in oil prices after Democrats' victories in the U.S. midterm elections. South Korea's KOSPI closed 5.3% lower, after triggering a sell-side trading curb earlier in the day, as a sharp selloff in semico",
+   "published": "Thu, 05 Nov 2026 07:00:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia stocks mixed as chip rout triggers KOSPI trading halt; China outperforms - Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-chip-rout-triggers-kospi-trading-halt-china-outperforms-5002134",
+   "snippet": "🎁 2 minutes, 5 questions, 3 AI-picked stocks. Investing.com-- Asian stocks were mixed on Thursday, as a sharp selloff in semiconductor shares triggered a trading curb in South Korea, offsetting support from a steep decline in oil prices after Democrats' victories in the U.S. midterm elections. U.S. stock futures were also mixed during Asian hours by 03:48 GMT, with tech-heavy Nasdaq 100 Futures le",
+   "published": "Thu, 05 Nov 2026 03:54:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘We will invest 21.3 trillion won’: South Korea’s AI budget plan - The Next Web",
+   "url": "https://thenextweb.com/news/south-korea-2027-budget-ai-chips-data-centres-21-trillion-won",
+   "snippet": "South Korea will spend 21.3 trillion won (about $16 billion) on AI, chips and AI data centres next year. President Lee Jae Myung set out the plan in his budget speech to the National Assembly on Monday. > “We will invest 21.3 trillion won, nearly twice this year’s amount, in AI and the three megaprojects of semiconductors, physical AI and AI data centres,” Lee said. The money sits inside a record ",
+   "published": "Wed, 04 Nov 2026 12:43:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tesla reportedly faces Korean complaint over Full Self-Driving sales - The Next Web",
+   "url": "https://thenextweb.com/news/tesla-full-self-driving-south-korea-complaint",
+   "snippet": "The group says most of Tesla’s cars in the country cannot legally use it, according to Reuters, which has seen the complaint. Citizens United for Consumer Sovereignty will file the complaint on Thursday with the Korea Fair Trade Commission (KFTC), which handles consumer and competition cases. FSD (Supervised), which Tesla has renamed in Europe, is a driver-assistance system that needs a human to w",
+   "published": "Wed, 04 Nov 2026 11:33:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tesla misled South Korean buyers over Full Self-Driving, consumer group alleges - investingLive",
+   "url": "https://investinglive.com/stocks/tesla-misled-south-korean-buyers-over-full-self-driving-consumer-group-alleges/",
+   "snippet": "# Tesla misled South Korean buyers over Full Self-Driving, consumer group alleges. * Tesla misled tens of thousands of South Korean buyers by selling Full Self-Driving software most of its cars there cannot legally use, a consumer group alleges in a complaint to the Fair Trade Commission seen by Reuters, seeking a marketing halt. Tesla’s South Korean boom was built on China-made cars, and a consum",
+   "published": "Wed, 04 Nov 2026 00:43:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China accelerates overseas mining investment to secure critical minerals - Mining.com.au",
+   "url": "https://mining.com.au/china-accelerates-overseas-mining-investment-to-secure-critical-minerals/",
+   "snippet": "* China accelerates overseas mining investment to secure critical minerals. China is stepping up its acquisitions of overseas mining assets to strengthen its control over global mineral supply chains, with analysts expecting investment to accelerate in the coming years. A report by Rhodium Group cited by CNBC estimates that Chinese overseas mineral acquisitions reached US$8.8 billion ($12.52 billi",
+   "published": "Wed, 04 Nov 2026 19:33:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test - CNBC",
+   "url": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
+   "snippet": "But that rally has given way to a sharp sell-off, with shares of several major South Korean defense companies plunging this year. The combined market value of the top four Korean defense companies — Hanwha Aerospace, LIG D&A, Hyundai Rotem, and Korea Aerospace — had plunged to about 62 trillion won ($46.18 billion) as of end-October from their 52-week peak of 170 trillion won, according to South K",
+   "published": "Thu, 05 Nov 2026 08:02:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tesla Allegedly Misled Thousands Of South Korean Customers About 'Full Self-Driving' - Jalopnik",
+   "url": "https://www.jalopnik.com/2307060/tesla-allegedly-misled-thousands-of-south-korean-customers-about-full-self-driving/",
+   "snippet": "That's not the case in South Korea, though, where the Texas-based automaker has allegedly vastly overstated the *legality* of FSD usage and charged customers for it nonetheless. Tesla apparently markets FSD in South Korea despite the fact that it knows the majority of its cars can't legally use the program in the country, the complaint from an advocacy group alleges. Right now, it's not totally cl",
+   "published": "Wed, 04 Nov 2026 19:54:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China expands overseas mining stakes, tightening grip on critical minerals - CNBC",
+   "url": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
+   "snippet": "The state-led push could give Beijing greater leverage over global supplies of critical minerals and who gets access to them, analysts say. \"China is rolling out a state-coordinated global mining strategy\" to replace firm-level decision-making, said Dan Wang, China director at Eurasia, adding that the model would allow for larger, better-aligned global mining investments. Later in July, a mining i",
+   "published": "Wed, 04 Nov 2026 13:00:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia's tech giants are getting crushed in the AI trade rout - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/markets/asias-tech-giants-are-getting-crushed-in-the-ai-trade-rout/lnjdldr",
+   "snippet": "* Asia's tech giants are getting hammered as the global AI trade suffers another brutal sell-off. * Chip heavyweights in South Korea, Japan, and Taiwan are bearing the brunt of the rout. * The AI boom isn't over, but investors are demanding proof that massive spending will pay off, an analyst says. Some of the chipmakers and technology companies that powered this year's stock-market rally were amo",
+   "published": "Fri, 06 Nov 2026 02:09:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia's tech stocks slump, prompting officials to signal support - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/markets/asias-tech-stocks-slump-prompting-officials-to-signal-support/lnjdldr",
+   "snippet": "* Asia's tech giants are getting hammered as the global AI trade suffers another brutal sell-off. * Chip heavyweights in South Korea, Japan, and Taiwan are bearing the brunt of the rout. Some of the chipmakers and technology companies that powered this year's stock-market rally were among the hardest hit. Shares of Taiwan Semiconductor Manufacturing Company, a key supplier to Nvidia and Apple, fel",
+   "published": "Fri, 06 Nov 2026 04:10:57 GMT",
    "source": "tavily"
   }
  ],
