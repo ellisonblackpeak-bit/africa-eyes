@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "RDC: nouvelle attaque meurtrière dans la province du Nord-Kivu attribuée aux ADF",
+   "url": "https://www.rfi.fr/fr/afrique/20261107-rdc-nouvelle-attaque-meurtri%C3%A8re-dans-la-province-du-nord-kivu-attribu%C3%A9e-aux-adf",
+   "content": "Dans l’est de la RDC, un nouveau massacre a été attribué aux Forces démocratiques alliées (ADF), un groupe armé affilié à l’État islamique. Au moins 37 civils ont été tués, selon l'armée congolaise (FARDC Nord-Kivu). L’attaque a eu lieu jeudi 5 novembre au soir à une soixantaine de kilomètres à l’ouest de Beni, dans la province du Nord-Kivu.",
+   "published_date": "Sat, 07 Nov 2026 06:20:04 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Sénégal: crise sanitaire dans le nord du pays",
+   "url": "https://www.rfi.fr/fr/afrique/20261107-s%C3%A9n%C3%A9gal-crise-sanitaire-dans-le-nord-du-pays",
+   "content": "Au Sénégal, depuis le 30 octobre 2026, 548 personnes dans la zone de Kebemer - à près de 200 km au nord de Dakar - ont été recensées, toutes affectées par les mêmes symptômes de douleurs abdominales, vomissements et diarrhée sans qu’aucune explication de l’origine exacte de leur maladie ou toxi-infection n’ait encore pu être donnée.",
+   "published_date": "Sat, 07 Nov 2026 07:37:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Mozambique: Forbidden Stories, enquête sur la mort d'un blogueur",
+   "url": "https://www.rfi.fr/fr/podcasts/menaces-sur-l-information/20261107-mozambique-forbidden-stories-enqu%C3%AAte-sur-la-mort-d-un-blogueur",
+   "content": "Menaces sur l'information revient ce matin sur une mort en direct, celle de Mano Shottas, fin 2024, au cours d'une manifestation contre la pollution au minerai de chrome. Dans ce volet d'une enquête plus large sur les entraves à la liberté des journalistes au Mozambique, Forbidden Stories, organisation qui poursuit le travail de journalistes assassinés, s'est penchée sur la mort de ce jeune blogueur et a poursuivi son travail.",
+   "published_date": "Sat, 07 Nov 2026 07:43:27 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "La Chine va construire une usine de vaccins contre le choléra en Zambie",
+   "url": "https://www.rfi.fr/fr/afrique/20261107-la-chine-va-construire-une-usine-de-vaccins-contre-le-chol%C3%A9ra-en-zambie",
+   "content": "La lutte contre le choléra prend un nouveau tournant en Zambie. Le pays et une entreprise chinoise vont construire une usine de vaccins, un projet d’environ 190 millions d’euros. L’objectif est de réduire les dépendances aux importations, puis à terme, d'approvisionner d’autres pays du continent.",
+   "published_date": "Sat, 07 Nov 2026 08:21:05 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Guinée: l'opposant Aliou Bah libéré après presque deux années de détention",
    "url": "https://www.rfi.fr/fr/afrique/20261106-guin%C3%A9e-l-opposant-aliou-bah-lib%C3%A9r%C3%A9-apr%C3%A8s-presque-deux-ann%C3%A9es-de-d%C3%A9tention",
    "content": "L'opposant guinéen Aliou Bah a recouvré la liberté, vendredi 6 novembre, après près de 23 mois de détention. Le président du Mouvement démocratique libéral (MoDeL) avait bénéficié d'une grâce présidentielle début octobre, mais devait encore effectuer un stage obligatoire de réinsertion de 45 jours. Son parti annonce sa libération et réaffirme son engagement en faveur des libertés démocratiques.",
@@ -16,10 +44,31 @@
    "score": 0.6
   },
   {
+   "title": "Tunisie: la consommation des drogues augmente et se banalise",
+   "url": "https://www.rfi.fr/fr/afrique/20261107-tunisie-la-consommation-des-drogues-augmente-et-se-banalise",
+   "content": "En Tunisie, les saisies de drogues en tout genre font la Une quotidienne des médias, notamment avec une hausse des saisies de cocaïne. Au total, 101 kilos saisis au cours des neuf premiers mois de 2026 contre 94 kilos en 2025 et 33 kilos en 2024, selon les chiffres de la douane tunisienne. Cette hausse est due en partie à la recrudescence du trafic avec la frontière libyenne selon les autorités. Sur le plan local, ce trafic se traduit aussi par une disponibilité de nombreuses substances sur le marché local et une augmentation de la consommation de stupéfiants chez les jeunes.",
+   "published_date": "Sat, 07 Nov 2026 07:08:58 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Maroc: face à l'évolution des mœurs, «la famille marocaine a définitivement changé»",
+   "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261107-maroc-face-%C3%A0-l-%C3%A9volution-des-m%C5%93urs-la-famille-marocaine-a-d%C3%A9finitivement-chang%C3%A9",
+   "content": "Souvent reportée et reléguée au second plan ces dernières années, la réforme du Code de la famille marocain (que l'on appelle aussi la Moudawana), sera l'un des chantiers importants du nouveau gouvernement dirigé par Fatima Ezzahra El Mansouri. Interrogé par les parlementaires en début de semaine, le ministre marocain de la Justice, Abdellatif Ouahbi, a tenté d'apporter des précisions sur les nouveaux dispositifs que le gouvernement prévoit d'inscrire dans son projet de réforme (alors que les réticences du monde politique sur la question de la famille sont encore fortes et que les mœurs de la société marocaine évoluent). Le sociologue Mehdi Alioua, professeur associé à l'université internationale de Rabat, répond aux questions de Sophiane Amazian.",
+   "published_date": "Sat, 07 Nov 2026 05:59:56 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Élections locales en Afrique du Sud: l'ANC signe le pire résultat électoral de son histoire",
    "url": "https://www.rfi.fr/fr/afrique/20261107-%C3%A9lections-locales-en-afrique-du-sud-l-anc-signe-le-pire-r%C3%A9sultat-%C3%A9lectoral-de-son-histoire",
    "content": "Alors que plus de 95% des bulletins de vote des élections locales organisées mercredi 4 novembre en Afrique du Sud ont été dépouillés, le parti au pouvoir recueille à peine plus de 30% des voix, selon la Commission électorale. Un net recul par rapport aux scrutins précédents qui traduit la déception et la frustration des électeurs face au manque de services de base et à la corruption généralisée à l’échelle locale dans le pays.",
    "published_date": "Sat, 07 Nov 2026 03:54:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "À la Une: prison pour tout opposant qui rencontrera Kabila",
+   "url": "https://www.rfi.fr/fr/podcasts/la-une-de-la-presse-cette-semaine-%C3%A0-kinshasa/20261107-%C3%A0-la-une-prison-pour-tout-opposant-qui-rencontrera-kabila",
+   "content": "",
+   "published_date": "Sat, 07 Nov 2026 06:22:22 GMT",
    "score": 0.6
   },
   {
@@ -111,55 +160,6 @@
    "url": "https://www.rfi.fr/fr/afrique/20261106-la-chine-va-envoyer-des-%C3%A9missaires-dans-la-corne-de-l-afrique-r%C3%A9gion-strat%C3%A9gique-min%C3%A9e-par-plusieurs-crises",
    "content": "La Chine a annoncé, le 4 novembre 2026, envoyer durant les prochaines semaines plusieurs émissaires dans la Corne de l’Afrique, notamment en Éthiopie et en Érythrée, dont les relations se sont fortement dégradées ces dernières semaines. L'objectif est d'apaiser les tensions en jouant les médiateurs. La Chine cherche aussi à renforcer son influence dans une région stratégique.",
    "published_date": "Fri, 06 Nov 2026 13:20:44 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "AES, Russie, Algérie: ce que l’on sait des échanges du président de transition du Mali au Niger et au Burkina",
-   "url": "https://www.rfi.fr/fr/afrique/20261106-aes-russie-alg%C3%A9rie-ce-que-l-on-sait-des-%C3%A9changes-du-pr%C3%A9sident-de-transition-du-mali-au-niger-et-au-burkina",
-   "content": "Jeudi 5 novembre, aucun communiqué officiel n’avait sanctionné les visites du président de transition du Mali chez ses voisins de l’Alliance des États du Sahel (AES). Mais de sources proches des rencontres, la situation au sein de l’AES, au plan régional et international, a été abordée.",
-   "published_date": "Fri, 06 Nov 2026 08:26:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Bénin: «Le Conseil économique et social n'est ni une instance de la mouvance ni de l'opposition»",
-   "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261106-b%C3%A9nin-le-conseil-%C3%A9conomique-et-social-n-est-ni-une-instance-de-la-mouvance-ni-de-l-opposition",
-   "content": "À quoi sert le Conseil économique et social dans un pays comme le Bénin ? Concrètement, que peut-il faire contre la vie chère ? Et quelle est sa marge de manœuvre face au gouvernement ? Conrad Gbaguidi, qui est aujourd’hui médiateur de la République du Bénin, raconte son expérience à la tête du Conseil économique et social, basé à Cotonou. Il témoigne dans le livre intitulé La troisième voix paru chez L’Harmattan. Il répond aux questions de Christophe Boisbouvier.",
-   "published_date": "Fri, 06 Nov 2026 06:33:15 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kolwezi: des communautés trainent en justice la société minière COMMUS",
-   "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261106-kolwezi-des-communaut%C3%A9s-trainent-en-justice-la-soci%C3%A9t%C3%A9-mini%C3%A8re-commus",
-   "content": "À Kolwezi, dans le sud-est de la RDC, 29 riverains de la mine de cuivre et de cobalt de COMMUS, dont sept enfants, poursuivent en justice cette entreprise chinoise pour pollution de l’air et de l’eau. Ils dénoncent des effets sur leur santé et réclament près de 1,3 million de dollars d’indemnisation, ainsi que 5 millions pour la restauration de l’environnement. Le procès s’est ouvert mardi 3 novembre au tribunal de commerce de Kolwezi. Denise Maheho a assisté à la première audience.",
-   "published_date": "Fri, 06 Nov 2026 09:53:06 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "En Somalie, la crise du Moyen-Orient menace les pêcheurs",
-   "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261106-en-somalie-la-crise-du-moyen-orient-menace-les-p%C3%AAcheurs",
-   "content": "La crise au Moyen-Orient continue d’affecter les économies de la Corne de l’Afrique. L’un des pays les plus vulnérables reste la Somalie, qui importe la totalité de son carburant et une grande partie de ses denrées alimentaires. Selon la FAO, le prix de l’essence a en moyenne plus que doublé, celui des céréales a augmenté de 10 à 40%, et celui de l’eau a bondi de 200%. Dans l'État du Jubaland, dans le sud du pays, le secteur de la pêche notamment est menacé.",
-   "published_date": "Fri, 06 Nov 2026 09:56:04 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "RDC: comment le ministre de l’Intérieur justifie sa mise en garde sur une rencontre entre l’opposition et Kabila",
-   "url": "https://www.rfi.fr/fr/afrique/20261106-rdc-comment-le-ministre-de-l-int%C3%A9rieur-justifie-sa-mise-en-garde-sur-une-rencontre-entre-l-opposition-et-kabila",
-   "content": "En RDC, le projet de la plateforme C64 de rencontrer l'ex-chef de l'État Joseph Kabila à Goma, dans l'est du pays, suscite une réaction du ministre de l’Intérieur. Les opposants présentent cette démarche, précédée d’une rencontre souhaitée avec le président Félix Tshisekedi, comme une préparation au dialogue national. Or, le vice-Premier ministre la conteste. Quel cadre impose Jacquemain Shabani et quelles suites envisage-t-il si les responsables de la coalition passent outre ?",
-   "published_date": "Fri, 06 Nov 2026 07:57:05 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Mauritanie: le ministre espagnol de l’Intérieur salue un «effort conjoint en matière de migration»",
-   "url": "https://www.rfi.fr/fr/afrique/20261106-mauritanie-le-ministre-espagnol-de-l-int%C3%A9rieur-salue-un-effort-conjoint-en-mati%C3%A8re-de-migration",
-   "content": "La Mauritanie, rempart contre la migration vers les Canaries ? C'est le message délivré lors de la visite le 3 novembre à Nouakchott par le ministre de l'Intérieur de l’Espagne. Reçu par le président mauritanien, après des entretiens avec les ministres de l'Intérieur, de la Défense et de la Pêche, Fernando Grande-Marlaska Gómez a vivement salué la coopération des deux pays. Sur 52 bateaux arrivés dans cet archipel espagnol en octobre, un seul était parti de Mauritanie, contre 39 du Sénégal et de Gambie. Mais Nouakchott veut désormais transformer ce verrou sécuritaire en aide au développement.",
-   "published_date": "Fri, 06 Nov 2026 09:49:55 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Guinée: l'orpaillage «anarchique» interdit dans le nord-est, Ouagadougou dénonce l’expulsion de Burkinabè",
-   "url": "https://www.rfi.fr/fr/afrique/20261106-guin%C3%A9e-l-orpaillage-anarchique-interdit-dans-le-nord-est-ouagadougou-d%C3%A9nonce-l-expulsion-de-burkinab%C3%A8",
-   "content": "Ces derniers jours, des milliers d’orpailleurs ont quitté la région de Siguiri, dans le nord-est de la Guinée, zone riche en or qui attire de nombreux ressortissants ouest-africains. Ces départs massifs interviennent après les mesures prises le 2 novembre par les autorités guinéennes pour mettre fin à l’orpaillage illégal. Ces orpailleurs, principalement burkinabè, ont trouvé refuge au Mali voisin, d’où leur gouvernement organise leur rapatriement. Si Conakry justifie sa démarche par la nécessité de préserver l’environnement, Ouagadougou dénonce une opération d’expulsion regrettable.",
-   "published_date": "Fri, 06 Nov 2026 09:07:25 GMT",
    "score": 0.6
   }
  ],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Shadow War in the Central Sahel: The Escalating Niger–Chad Crisis | Afroangle",
+   "url": "https://www.afroangle.com/articles/central-sahel-the-escalating-Niger-Chad-crisis",
+   "snippet": "Lastly, the Niger–Chad frontier has increasingly become a mutual proxy arena. Niger regularly accuses Chad of allowing its territory to serve as a rear base for hostile Nigerien insurgents, notably the Patriotic Movement for Liberty and Justice (MPLJ), led by Moussa Kounaï. In response, Niger is accused of offering sanctuary to Chadian rebel factions. Prominent among these is the Front for Change ",
+   "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Forces de défense et de sécurité du Niger : qui fait quoi en 2026 ? – Sahel Watch",
+   "url": "https://sahel.watch/forces-defense-securite-niger-fds-2026",
+   "snippet": "Elle conserve des unités méharistes et un Groupement d’intervention et de sécurité (GIS). Sa présence dans les postes isolés du nord l’expose directement. Le 15 août 2026, le Mouvement patriotique pour la liberté et la justice (MPLJ), qui réclame la libération de l’ancien président Mohamed Bazoum, a revendiqué l’attaque du camp de la Garde nationale de Séguédine et d’un poste mixte police-gendarme",
+   "published": "Sun, 01 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ActuNiger | Niger-Libye : Niamey et Benghazi signent un accord de coopération stratégique - ActuNiger",
+   "url": "https://www.actuniger.com/politique/22535-niger-libye-niamey-et-benghazi-signent-un-accord-de-cooperation-strategique",
+   "snippet": "contre ses intérêts stratégiques situés dans cette zone du nord-est du Niger, marquée ces derniers temps par l’amplification des risques sécuritaires qui ont poussé les autorités militaires nigériennes à appeler Alger à la rescousse. Des soldats algériens sont ainsi attendus pour se déployer dans une base située à Madama, dans cette zone où les groupes rebelles (FPL, MPLJ, FPJ) continuent de menac",
+   "published": "Mon, 02 Nov 2026 13:20:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "L’intervention au Niger, un test de crédibilité grandeur nature pour l’armée algérienne",
+   "url": "https://www.jeuneafrique.com/1857411/politique/lintervention-au-niger-un-test-de-credibilite-grandeur-nature-pour-larmee-algerienne",
+   "snippet": "### La rédaction vous recommande\n\nNiger, le Premier Ministre du Niger Ali Mahaman Lamine Zeine salue les militaires algériens, à l’aéroport de Niamey, le 30 août 2026. Le Niger a réceptionné quatre avions de chasse Soukhoï Su-30 en provenance d’Algérie. \n\n#### Le Parlement algérien convoqué en urgence : s’achemine-t-on vers une intervention au Niger ? [...] Abonnez-vous pour lire la suite et accéd",
+   "published": "Sun, 01 Nov 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "3.1K views | 🗣️ Fethi Ghares, coordinateur national du MDS : «L’armée algérienne risque de devenir la gardienne des intérêts étrangers au Niger»\n\n🔸 «Ni le peuple algérien ni le peuple nigérien n’ont été associés à cette décision, qui servirait les intérêts de régimes autoritaires et de puissances étrangères.»\n\n#Algérie #Niger #Sahel #NorthAfricaTV | NATV قناة شمال أفريقيا",
+   "url": "https://www.facebook.com/NorthAfricaTVChannel/posts/%EF%B8%8F-fethi-ghares-coordinateur-national-du-mds-larm%C3%A9e-alg%C3%A9rienne-risque-de-devenir-/122182763384705434",
+   "snippet": "Image 11 NATV قناة شمال أفريقيا 6.1K\n\nImage 12 NATV قناة شمال أفريقيا 61K\n\nImage 13 NATV قناة شمال أفريقيا 4.5K\n\nImage 14 NATV قناة شمال أفريقيا 44K\n\nImage 15 NATV قناة شمال أفريقيا 92K\n\n## Related videos\n\nImage 16: Video thumbnail 1:34\n\n[](\n\n🟠 Déficits et pénuries : l’économie algérienne sous pression 🔸 Entre réserves en baisse et flambée des prix, l’Algérie reste dépendante des hydrocarbures. #A",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger – Algérie – Libye : Niamey renforce sa coopération militaire ...",
+   "url": "https://www.facebook.com/anadoluagencyfr/posts/niger-alg%C3%A9rie-libye-niamey-renforce-sa-coop%C3%A9ration-militaire-avec-alger-et-ses-c/1446714584215739",
+   "snippet": "Niger – Algérie – Libye : Niamey renforce sa coopération militaire avec Alger et ses contacts diplomatiques avec les forces de Khalifa Haftar dans l'est",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger #Algérie #Lybie #Géopolitique Que se passe-t-il aux frontières du # ...",
+   "url": "https://www.facebook.com/groups/1milliondenigerien/posts/5226251797601233",
+   "snippet": "Tchad - Libye (Niger) : urgent, nouvel accord de coopération militaire de défense mutuelle entre les milices du général Haftar et la République du Tchad. Ayant",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical Threats on X: \"Algeria authorized a troop deployment to northern Niger, likely to advance several shared economic and security objectives in Niger. The deployments are part of Algeria’s new, more assertive approach to its Sahel strategy, which aims to outcompete its North African neighbor… / X",
+   "url": "https://x.com/criticalthreats/status/2117621035541442947",
+   "snippet": "Nov 3\n\n  3/ This decision comes amid rekindling relations between Algeria and its Sahelian neighbors in recent months, after a diplomatic rupture following Algeria’s downing of a Malian drone near their shared border in April 2025. The improved relations between Algeria and Niger likely\n\n  1\n\n  @criticalthreats\n\n  Critical Threats@criticalthreats\n\n  Nov 3 [...] Algeria authorized a troop deploymen",
+   "published": "Tue, 03 Nov 2026 14:12:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "🎙️ Abdelaziz Mounde - analyste géopolitique 📌 L'accord Haftar- ...",
+   "url": "https://www.facebook.com/NorthAfricaTVChannel/posts/%EF%B8%8F-abdelaziz-mounde-analyste-g%C3%A9opolitique-laccord-haftar-niger-met-%C3%A0-l%C3%A9preuve-les/122182913198705434",
+   "snippet": "Abdelaziz Mounde - analyste géopolitique L'accord Haftar-Niger met à l'épreuve les relations entre Alger et Niamey!",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

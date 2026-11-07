@@ -1,7 +1,42 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "First Algerian troops arrive in Niger, in rare intervention abroad",
+   "url": "https://thearabweekly.com/first-algerian-troops-arrive-niger-rare-intervention-abroad",
+   "snippet": "The first Algerian military convoy is said to have reached Arlit, a uranium mining town in the country's northwest.",
+   "published": "Sun, 01 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Sends Troops to Niger: A Warning for Morocco and Israel - Middle East Forum",
+   "url": "https://www.meforum.org/mef-online/algeria-sends-troops-to-niger-a-warning-for-morocco-and-israel",
+   "snippet": "Arlit also has a uranium dimension. Niger nationalized the SOMAÏR mine, formerly operated by France’s Orano, in 2025. Potential buyers for its stockpile reportedly included Russian interests. On September 23, 2025, an ICSID tribunal ordered Niger not to sell or transfer uranium held in violation of Orano’s rights. Orano later condemned a shipment from the site as contrary to that order. No evidenc",
+   "published": "Tue, 03 Nov 2026 21:32:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Licensable picture: Boys ride on donkey-led cart after retrieving mud bricks near Areva's Cominak uranium mine in Arlit",
+   "url": "https://www.reutersconnect.com/item/boys-ride-on-donkey-led-cart-after-retrieving-mud-bricks-near-arevas-cominak-uranium-mine-in-arlit/dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBMjUxUjlPMDE?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBMjQwQjJJMDE&position=1",
+   "snippet": "Boys ride on a donkey-led cart after retrieving mud bricks near Areva's Cominak uranium mine in Arlit, September 25, 2013. Picture taken September 25, 2013.",
+   "published": "Sun, 01 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Arlit",
+   "url": "https://tavily.com/knowledge/company/CXPZB3qNGbEM",
+   "snippet": "# arlit.es\nID: CXPZB3qNGbEM\nWebsite: www.arlit.es\nLegal name: Arlit Diseño e Impresión S.L.\nHeadquarters: Silleda, Galicia / Galiza, Spain\nLinkedIn: www.linkedin.com/company/arlitdisenoeimpresion · 555 followers\nIndustry: Printing Services\nCompany type: Privately Held\nFounded: 2016\nSocial profiles: www.facebook.com/arlitdisenoeimpresion, www.crunchbase.com/organization/arlit-artes-graficas-slne, w",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Arlit",
+   "url": "https://tavily.com/knowledge/company/VtLrfNrqzeAx",
+   "snippet": "# ARLIT DISEÑO E IMPRESION SL\nID: VtLrfNrqzeAx\nHeadquarters: SILLEDA, Spain\nLinkedIn: www.linkedin.com/company/arlit-dise%C3%B1o-e-impresion-sl · 3 followers\nIndustry: Printing Services\n\n## Headcount\n- Now: 0 · 0 yearly · 0 quarterly · 0 monthly\n\n## Reputation\n- Open roles: 0",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_arlit",
  "_query": "Arlit uranium",
  "_domains": [],

@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Laos, Russian Region of Tatarstan Discuss New Trade Opportunities",
-   "url": "https://laotiantimes.com/2026/11/06/laos-russian-region-of-tatarstan-discuss-new-trade-opportunities/",
-   "content": "Russia’s Republic of Tatarstan wants to expand trade and investment with Laos, with the region’s official media describing current economic ties as “practically absent” during a two-day visit by its head to Vientiane on 4 and 5 November. Tatarstan’s head Rustam Minnikhanov met Lao Prime Minister Saleumxay Kommasith on 5 November, with both sides pledging […]",
-   "published_date": "Fri, 06 Nov 2026 03:51:30 +0000",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",

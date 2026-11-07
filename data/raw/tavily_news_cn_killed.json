@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese man killed in downtown Melbourne stabbing",
+   "url": "https://www.chinadaily.com.cn/a/202611/07/WS6aeeade9e4b03ebf8519b03a.html",
+   "snippet": "A Chinese national was killed and another man wounded following a stabbing in downtown Melbourne on Friday, with the police arresting a male suspect after",
+   "published": "Sat, 07 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opposition party organiser killed in South Africa, election violence fears mount",
+   "url": "https://www.reuters.com/world/africa/opposition-party-organiser-killed-south-africa-election-violence-fears-mount-2026-11-03",
+   "snippet": "An opposition party organiser was killed in South Africa's KwaZulu-Natal province late on ​Monday, heightening fears of political violence ‌before",
+   "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos - The New York Times",
+   "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
+   "snippet": "The outbreak at Virunga National Park — Africa’s oldest national park — has killed 30 hippopotamuses since September, when observers first started noticing suspicious carcasses, Laura Parker, who leads the park’s conservation programs, said in an email on Tuesday. The cause of the animals’ deaths, and the outbreak, has since been confirmed by laboratory analyses, she noted. [...] Supported by\n\n# A",
+   "published": "Wed, 04 Nov 2026 00:48:09 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

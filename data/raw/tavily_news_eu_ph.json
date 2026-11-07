@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Philippines and EU conclude Free Trade Agreement | RÖDL",
+   "url": "https://www.roedl.com/en/insights/philippines-eu-free-trade-agreement",
+   "snippet": "### An agreement with landmark significance\n\nAs stated in a joint announcement by Philippine Trade Secretary Cristina Roque and EU Commissioner for Trade and Economic Security Maroš Šefčovič: “The agreement also sends a clear signal of reinforced engagement between the EU and the Philippines, anchored in their common interest in an open, inclusive, and rules-based international order in the curren",
+   "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Inside the EU’s battle to bar Russian war veterans from Europe | Euronews",
+   "url": "https://www.euronews.com/2026/11/06/inside-the-eus-battle-to-bar-russian-war-veterans-from-europe",
+   "snippet": "In recent months, officials in these countries have been painstakingly entering the names into SIS, the EU's main shared database for security, border management and law enforcement.\n\nBorder guards routinely consult it when checking travellers at the external borders, and police can use it for law-enforcement purposes. [...] Originally conceived as a security measure to compensate for the abolitio",
+   "published": "Fri, 06 Nov 2026 10:01:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

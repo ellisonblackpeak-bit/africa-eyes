@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Iran sends warning to neighbors hosting US military bases",
+   "url": "https://www.modernghana.com/videonews/cgtn/2/746434",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 03.11.2026 | CGTN Iran sends warning to neighbors hosting US military bases |\n\n|\n\nHe learned to smuggle migrants at age 12\n\nHe learned to smuggle migrants at age 12\n\n05.11.2026 | CGTN\n\nLos Angeles voters take on robots ",
+   "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia-Ghana Bilateral Relations: October 2026 Update  - RUSSIA'S PIVOT TO ASIA",
+   "url": "https://russiaspivottoasia.com/russia-ghana-bilateral-relations-october-2026-update",
+   "snippet": "The two governments also discussed advancing the ratification of the 2016 memorandum on defence cooperation, while Ghana raised concerns over the illegal recruitment of Ghanaian citizens into the Russia-Ukraine conflict. Lavrov subsequently stated that Ghana’s forthcoming ratification of the intergovernmental agreement on military-technical cooperation would provide additional momentum to bilatera",
+   "published": "Sun, 01 Nov 2026 11:50:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Abdul El-Sayed, Melat Kiros, Adrian Boafo: The politicians with African roots making history in the US midterms",
+   "url": "https://www.bbc.com/news/articles/cmrly6j6lpydo",
+   "snippet": "## This Is Africa\n\n## Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral\n\n## ANC under pressure to reverse South Africa decline\n\n## Rwanda's army team removed from Africa league after US sanctions, NBA says\n\nScott Colom, poses for a portrait for his campaign for Mississippi Senate \n\n## Democrat leads by fewer than 50 votes in surprisingly tight Mississippi Senate race [..",
+   "published": "Wed, 04 Nov 2026 16:27:41 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_gh",
  "_query": "US Ghana military",
  "_domains": [],

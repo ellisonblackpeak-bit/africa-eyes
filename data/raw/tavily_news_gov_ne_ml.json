@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "They found a chunk of Mars in the Sahara Desert. A recent re... - Kottke.org",
+   "url": "https://kottke.org/26/11/0049945-they-found-a-chunk-of-mar",
+   "snippet": "This site is made possible by member support. Big thanks to Arcustech for hosting the site and offering amazing tech support. Thanks for supporting the site! They found a chunk of Mars in the Sahara Desert. A recent reveals that a rock found a few years ago in Mali is more than 4.1 billion years old and “has a mix of igneous minerals that tells a story about how [Mars’] crust formed”. When a rose-",
+   "published": "Fri, 06 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Best Countries for Gold Mining Investment, Ranked - Farmonaut",
+   "url": "https://farmonaut.com/mining/best-countries-for-gold-mining-investment",
+   "snippet": "# Best Countries for Gold Mining Investment, Ranked. Nevada, Ontario and Saskatchewan top the Fraser Institute’s 2025 index, while Australia holds the most gold (13,000 tonnes of reserves). *   Nevada, Ontario and Saskatchewan took the top three places among 68 jurisdictions in the Fraser Institute’s 2025 survey (256 executive responses). *   Australia holds 13,000 tonnes of gold reserves, China p",
+   "published": "Thu, 05 Nov 2026 06:40:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BHP and Rio shares face test as copper prices stumble - Mining.com.au",
+   "url": "https://mining.com.au/bhp-rio-tinto-shares-copper-price-outlook/",
+   "snippet": "Congo says China’s Huayou unit must pay compensation despite halt•BHP and Rio shares face test as copper prices stumble•Brazil names 27 critical minerals amid domestic processing push•Purecore sharpens uranium-copper hunt with geophysicist•Column: Tin price hit by AI stock rout despite physical market tightness•Congo says US minerals deals should be judged by projects•MP Materials rare earth opera",
+   "published": "Fri, 06 Nov 2026 21:29:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese-backed cobalt mine faces $6.3 million lawsuit in Africa's largest cobalt-producing country as residents demand compensation over alleged pollution - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/chinese-backed-cobalt-mine-faces-dollar63-million-lawsuit-in-africas-largest-cobalt/f9zy1ew",
+   "snippet": "* Twenty-seven Congolese residents have filed a $6.3 million lawsuit against COMMUS, a Chinese-controlled mining company. * Scientific studies conducted by UK-based RAID and Congolese nonprofit AFREWATCH revealed high levels of particulate and water pollution around the mine site. * The claimants, including eight children, are seeking $1.3 million for damages and $5 million for environmental resto",
+   "published": "Fri, 06 Nov 2026 10:05:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa’s wealthiest monarch-linked fund leads $12 million round in San Francisco AI company targeting America’s $295 billion advertising market - CediRates",
+   "url": "https://cedirates.com/news/africa-s-wealthiest-monarch-linked-fund-leads-12-million-round-in-san-francisco-ai-company-targeting-america-s-295-billion-advertising-market?ref=cedirates",
+   "snippet": "Africa’s wealthiest monarch-linked fund leads $12 million round in San Francisco AI company targeting America’s $295 billion advertising market | CediRates.",
+   "published": "Sat, 07 Nov 2026 01:02:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Sanctions False Flag Network Run from India Used for Iranian Shipping - The Maritime Executive",
+   "url": "https://maritime-executive.com/article/us-sanctions-false-flag-network-run-from-india-used-for-iranian-shipping",
+   "snippet": "Continuing its efforts to shut down all the avenues supporting Iran’s shadow fleet, the U.S. Treasury announced new sanctions targeting a network that it says is behind a broad range of false flag operations. Treasury accuses an Indian husband and wife, Suniel Kumar Sharma and Jaspreet Preeti Shahid, of running a web of maritime fraud that provided false flags and certifications to sanctioned vess",
+   "published": "Wed, 04 Nov 2026 22:15:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Côte d’Ivoire: The sleeping giant of West African mining - Mining.com.au",
+   "url": "https://mining.com.au/cote-divoire-the-sleeping-giant-of-west-african-mining/",
+   "snippet": "Côte d’Ivoire is seeing a revival in its mining and resources industry following years of underinvestment.",
+   "published": "Sat, 07 Nov 2026 04:03:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Minaurum wraps Alamos drilling with Africa find - Mining.com.au",
+   "url": "https://mining.com.au/minaurum-wraps-alamos-drilling-with-africa-find/",
+   "snippet": "Minaurum wraps Alamos drilling with Africa find•US backs 6K with $361 million commitment for cathode plant•Queensland Government agrees to remove Indigenous heritage zone for mining company with LNP ties•Honey Badger finds germanium at Nanisivik•Hudbay takes stake in Pecoy Copper•ASX rumbles with almost 1% decline but junior explorers push on•Can blockchain transform the uranium market?•Gold jewel",
+   "published": "Fri, 06 Nov 2026 04:23:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China, Gabon elevate ties, pledge deeper mining, security cooperation - Kitco",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-11-06/china-gabon-elevate-ties-pledge-deeper-mining-security-cooperation",
+   "snippet": "# China, Gabon elevate ties, pledge deeper mining, security cooperation. China and Gabon elevated their diplomatic ties during a state visit by the Central African nation’s president to China, and are looking to deepen cooperation in the areas of mining and security, they said in a joint statement on Friday. China and Gabon agreed to pursue closer high-level political, governmental, party, legisla",
+   "published": "Fri, 06 Nov 2026 17:29:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trafigura-led creditors take 70% loss on Congo miner’s debt - Mining.com",
+   "url": "https://www.mining.com/web/trafigura-led-creditors-take-70-loss-on-congo-miners-debt/",
+   "snippet": "Silver Futures $ 52.285 / ozt  4.94%. Micro Gold Futures $ 4075.1 / ozt  3.42%. Gold Futures $ 4075.4 / ozt  3.42%. Bloomberg News | November 4, 2026 | 11:04 am  Critical Minerals Africa Cobalt Copper. Creditors led by Trafigura Group have taken a haircut of about 70% on the debt of a troubled Congolese copper-cobalt miner at the heart of nascent US efforts to vie with China on critical minerals, ",
+   "published": "Wed, 04 Nov 2026 18:05:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Appian and World Bank arm say 70% of $100 million mining commitment deployed - Mining.com",
+   "url": "https://www.mining.com/web/appian-and-world-bank-arm-say-70-of-100-million-mining-commitment-deployed/",
+   "snippet": "Crude Oil $ 88.52 / bbl  -8.56%. Silver Futures $ 52.365 / ozt  5.10%. Micro Gold Futures $ 4075.1 / ozt  3.42%. Micro Silver Futures $ 52.36 / ozt  5.17%. Gold Futures $ 4075.5 / ozt  3.42%. # Appian and World Bank arm say 70% of $100 million mining commitment deployed. Appian Capital Advisory has deployed about 70% of the International Finance Corporation’s (IFC) initial $100 million commitment ",
+   "published": "Wed, 04 Nov 2026 17:51:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Congo tells Trump's US to turn privileged access to the world’s largest cobalt supply into real investment as $1.26 billion Lobito railway and Grand Inga dominate talks - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/congo-tells-trumps-us-to-turn-privileged-access-to-the-worlds-largest-cobalt-supply/yr9180p",
+   "snippet": "* Washington receives preferential opportunities in strategic mineral projects. Congolese Economy Minister Daniel Mukoko Samba said the success of the strategic partnership between the countries should be assessed by projects delivered on the ground rather than the number of agreements signed. His remarks followed the second meeting of the partnership’s joint steering committee in Paris on Thursda",
+   "published": "Fri, 06 Nov 2026 19:19:17 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

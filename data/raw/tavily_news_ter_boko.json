@@ -1,7 +1,35 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria - Boko Haram, Insurgency, Terrorism | Britannica",
+   "url": "https://www.britannica.com/place/Nigeria/Rise-of-Boko-Haram",
+   "snippet": "Boko Haram’s attacks grew in intensity and frequency, occurring primarily in northeastern and central Nigeria and typically targeting government buildings, military barracks, the police, and Christian churches and schools. Extrajudicial violence and killings by the police and military while in the pursuit of the group’s members were not uncommon and further heightened tensions in the country; the ",
+   "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘An Absolute Human Tragedy’: Christian Genocide in Nigeria",
+   "url": "https://billygraham.org/decision-magazine/articles/an-absolute-human-tragedy-christian-genocide-in-nigeria",
+   "snippet": "The attack was a shocking precursor to what’s transpired in the years since as Boko Haram, which aims to implement strict Sharia law across all of Nigeria—including in the Christian South—began to spread its murderous ideology.\n\nMore than a decade later, terrorists struck the same church, which had rebuilt and continued to meet. This time, machete-wielding jihadists beheaded the widow of the late ",
+   "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 60 Christians killed in Ethiopia, but the motive remains unclear - Mission Network News",
+   "url": "https://www.mnnonline.org/news/at-least-60-christians-killed-in-ethiopia-but-the-motive-remains-unclear",
+   "snippet": "“[Rebel groups] look for institutions that are creating stability within the region — educational institutions, religious institutions, other mission groups, possibly, or other government agencies,” says Brobbel.\n\n“When Boko Haram had attacked, they weren’t just attacking Christians or groups; they were attacking other groups. They would attack UN offices. They would attack government offices to c",
+   "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Boko Haram",
+   "url": "https://tavily.com/knowledge/company/hLrKUpGR17Rd",
+   "snippet": "# BOKO HARAM\nID: hLrKUpGR17Rd\nHeadquarters: KLERKSDORP, North West, South Africa\nLinkedIn: www.linkedin.com/company/boko-haram · 13 followers\n\n## Headcount\n- Now: 2 · 0 yearly (0%) · 0 quarterly · 0 monthly\n\n## Reputation\n- Open roles: 0",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

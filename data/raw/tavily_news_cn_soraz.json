@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger Imports Algerian Fuel by Tanker Truck to Ease Gasoline Shortage | energynews.pro",
+   "url": "https://energynews.pro/en/niger-imports-algerian-fuel-by-tanker-truck-to-ease-gasoline-shortage",
+   "snippet": "Niger has produced crude oil for several years and exports part of it by pipeline. Its refining capacity nonetheless remains limited: the Zinder refinery, operated by Société de raffinage de Zinder (SORAZ), supplies most of the finished products consumed in the country. Its installed capacity does not equate to permanent daily availability. In Agadez, the oil minister summed up the paradox: produc",
+   "published": "Tue, 03 Nov 2026 22:32:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Top 10 African countries with the lowest petrol prices in October - Nairametrics",
+   "url": "https://nairametrics.com/2026/11/03/top-10-african-countries-with-the-lowest-petrol-prices-in-october",
+   "snippet": "The country’s petroleum industry is supported by two major state-backed institutions. The Société Nigérienne de Pétrole (SONIDEP), the state-owned petroleum company, is responsible for purchasing, storing, distributing and marketing petroleum products, while the Société de Raffinage de Zinder (SORAZ) operates the Zinder refinery, which has a processing capacity of approximately 20,000 barrels per ",
+   "published": "Tue, 03 Nov 2026 11:15:40 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_soraz",
  "_query": "Zinder refinery Niger",
  "_domains": [],
