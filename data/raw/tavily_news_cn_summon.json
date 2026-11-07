@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "US lawmakers summon Jensen Huang over Chinese spying concerns",
-   "url": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
-   "snippet": "CompaniesShow more Companies \n       Energy\n       Financials\n       Health\n       Industrials\n       Media\n       Professional Services\n       Retail & Consumer\n       Tech Sector\n       Telecoms\n       Transport\n\n   TechShow more Tech \n       Artificial intelligence\n       Semiconductors\n       Cyber Security\n       Social Media [...] Sections \n\n       Companies Home\n       Energy\n       Financi",
-   "published": "Fri, 06 Nov 2026 00:59:03 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Drone firm raided over Chinese chips - Taipei Times",
-   "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/01/2003866957",
-   "snippet": "Prosecutors searched locations connected to the company and summoned six people for questioning, including Tu and his wife, they said.\n\n  Investigators found that Tu allegedly used chips manufactured by Chinese companies in at least two batches of military drone procurement contracts and directed Align Corp to assemble the drones before delivering them to the military, they said.\n\n  The contracts ",
-   "published": "Sat, 31 Oct 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
-   "url": "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china",
-   "snippet": "The Wall Street Journal subsequently reported that officials in at least three countries had concerns that Alice Huang was passing information to the Chinese government, potentially including sensitive details on Nvidia chips. \n   Nvidia has denied the allegations, saying Jensen Huang and Alice Huang's contacts were just routine business interactions. The Chinese government previously called the a",
-   "published": "Thu, 05 Nov 2026 23:39:19 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

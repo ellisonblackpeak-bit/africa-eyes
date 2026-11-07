@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 7th, 2026 – Evening",
+   "url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sat, 07 Nov 2026 18:00:26 +0100",
+   "score": 0.6
+  },
+  {
    "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
    "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
    "content": "The US military carried out new airstrikes on Iranian defence systems, sending ripples across the Gulf, but Trump insists they are “minor strikes” while intense diplomatic efforts continue to avert an all-out war.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/05/west-bank-palestinians-harvest-olives-under-israeli-military-restrictions",
    "content": "Palestinian farmers in the occupied West Bank have been allowed limited access to their olive groves under Israeli military restrictions. Many found damaged trees, while soldiers fired tear gas near the harvest.",
    "published_date": "Thu, 05 Nov 2026 23:42:54 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Spain: Zelensky urges Latin America to help repair Ukraine's power grid",
-   "url": "https://www.euronews.com/video/2026/11/05/spain-zelensky-urges-latin-america-to-help-repair-ukraines-power-grid",
-   "content": "Ukrainian President Volodymyr Zelensky has appealed to Spain and Latin American countries for urgent help repairing Ukraine's damaged energy infrastructure. He also met King Felipe VI during the Ibero-American Summit in Madrid.",
-   "published_date": "Thu, 05 Nov 2026 22:53:57 +0100",
    "score": 0.6
   }
  ],

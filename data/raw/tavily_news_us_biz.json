@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Hakim Ali Sees Major Shift in Nigeria’s Institutional Solar Energy Market. - The Des Moines Register",
-   "url": "https://www.desmoinesregister.com/press-release/story/147211/hakim-ali-sees-major-shift-in-nigerias-institutional-solar-energy-market",
-   "snippet": "That is the outlook of Hakim Ali, an American-born Nigerian entrepreneur who relocated from Houston, Texas, to pursue opportunities in Nigeria’s renewable-energy and electric mobility industries. [...] Sora Green reports an existing agreement with Jaiz Bank that provides financing facilities for eligible customers purchasing vehicles through the company.\n\nAccording to management, Jaiz Bank has als",
-   "published": "Tue, 03 Nov 2026 15:56:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US commits first $125 million of five-year, $625 million pact to bring American companies into Egypt’s energy, AI and infrastructure sectors | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/us-commits-first-dollar125-million-of-five-year-dollar625-million-pact-to-bring/2deh4zc",
-   "snippet": "It will also support the modernisation of education, healthcare and government services, while promoting food security through science-based agriculture.\n\nFor Washington, the agreement is also explicitly commercial. The US Embassy said it was intended to expand opportunities for American businesses and support private-sector growth in both countries. [...] The agreement could give American compani",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "COMMENTARY: Qatar's US LNG bet signals a new energy order",
-   "url": "https://www.reuters.com/commentary/reuters-open-interest/qatars-us-lng-bet-signals-new-energy-order-2026-11-03",
-   "snippet": "Turning to your biggest rival is rarely a sign of confidence. Yet Qatar's decision to sign long-term contracts for US supplies suggests the world's",
-   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],

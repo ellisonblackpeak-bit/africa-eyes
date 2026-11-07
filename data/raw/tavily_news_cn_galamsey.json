@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Galamsey threatening  EU-Ghana partnership; EU pledges support to fight it- Deputy EU ambassador",
-   "url": "https://www.gbcghanaonline.com/general-news/galamsey-threatening-eu-ghana-partnership-eu-pledges-support-to-fight-it-deputy-eu-ambassador/2026",
-   "snippet": "The Deputy European Union Ambassador to Ghana, Jonas Claes, says illegal mining, popularly known as galamsey, remains a pervasive and destructive challenge posing severe environmental, economic and social threats to Ghana. [...] “We commend the government on these important steps forward. Progress will ultimately be evaluated however on the curbing of Galamsey activity, and — above all — the quali",
-   "published": "Thu, 05 Nov 2026 20:19:17 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Galamsey money funding terrorism in the Sahel? Environment Minister warns Ghana risks complicity",
-   "url": "https://www.modernghana.com/videonews/joynews/1/748122",
-   "snippet": "4 arrested in Aveyime for illegal sand winning, including 3 Chinese nationals and a Ghanaian.\n\n4 arrested in Aveyime for illegal sand winning, including 3 Chinese nationals and a Ghanaian.\n\n06.11.2026 | JoyNews\n\n2027 Budget: Businesses want government to prioritise tax compliance over tax rate reviews\n\n2027 Budget: Businesses want government to prioritise tax compliance over tax rate reviews\n\n06.1",
-   "published": "Thu, 05 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "NAIMOS Akango raid: 28 arrested, 29 chanfangs destroyed | 3News",
-   "url": "https://3news.com/news/naimos-akango-raid-28-arrested-chanfangs",
-   "snippet": "### EU study finds cadmium in 100% and mercury in 94% of Savannah galamsey soil samples\n ### Galamsey could leave Ghana complicit in Sahel terrorism – Zanetor\n ### Galamsey: NDC, NPP members both involved, stop politicising it – House of Chiefs President\n ### Sand and stone truck operators accuse security personnel of assaults, truck seizures\n ### Police in Eastern Region arrest 38 illegal miners\n",
-   "published": "Wed, 04 Nov 2026 13:59:44 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_galamsey",
  "_query": "Chinese galamsey Ghana",
  "_domains": [],

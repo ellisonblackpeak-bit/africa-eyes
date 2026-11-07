@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Niger Imports Algerian Fuel by Tanker Truck to Ease Gasoline Shortage | energynews.pro",
-   "url": "https://energynews.pro/en/niger-imports-algerian-fuel-by-tanker-truck-to-ease-gasoline-shortage",
-   "snippet": "Niger received a convoy of tanker trucks from Algeria in Agadez on Sunday, November 1, 2026. The country is seeking to contain a gasoline shortage after banning exports of super gasoline and diesel. Fuel prices and availability are closely watched in other markets, as shown by the trend in the average gasoline price in the United States. Hamadou Tini, the oil minister, took delivery of the convoy ",
-   "published": "Tue, 03 Nov 2026 22:32:24 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Dabafinance - Niger Receives 1.65M Liters of Algerian Fuel as Shortages Persist",
-   "url": "https://dabafinance.com/en/news/niger-receives-1-65M-liters-of-algerian-fuel-as-shortages-persist",
-   "snippet": "Niger has received its first shipment of fuel from Algeria, with 53 tanker trucks delivering 1.65 million liters of petroleum products to the northern city of Agadez as the country seeks to ease fuel shortages and strengthen energy cooperation with its northern neighbor. The convoy arrived on October 31, 2026, under military escort from both countries, according to Niger's state broadcaster RTN. P",
-   "published": "Thu, 05 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger Gets First Algerian Fuel Shipment, Escorted by Troops - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-02/niger-gets-first-algerian-fuel-shipment-escorted-by-troops",
-   "snippet": "Niger received its first fuel shipment from Algeria, with 53 trucks escorted by troops from both countries arriving in the northern city of Agadez, as the two African neighbors deepen energy and security ties.\n\nThe convoy, carrying about 1.65 million liters of petroleum products, arrived over the weekend, Niger’s state broadcaster RTN reported. [...] ### Products\n\n### Industry Products\n\n### Media\n",
-   "published": "Mon, 02 Nov 2026 10:28:31 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ne_ministry",
  "_query": "Niger petrol minister oil",
  "_domains": [],

@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Mother of Javits Frimpong travels to NYC from Ghana seeking justice - ABC7 New York",
+   "url": "https://abc7ny.com/post/mother-javits-frimpong-travels-nyc-ghana-seeking-justice/20015777",
+   "snippet": "Video released Wednesday morning by Ghana's Ministry of Foreign Affairs showed Gyamfi and relatives praying before boarding a flight to New York. A person in the video said, \"She wants to thank everyone for their prayers from around the world.\"\n\nMeanwhile, a memorial has grown near the site of the shooting on East 173rd Street near Crotona Park. The tribute includes candles and dozens of handwritt",
+   "published": "Wed, 04 Nov 2026 21:02:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Ghana’s new license to sell sustainable timber improves institutions & collaboration (analysis)",
+   "url": "https://news.mongabay.com/2026/11/how-ghanas-new-license-to-sell-sustainable-timber-improves-institutions-collaboration-analysis",
+   "snippet": "The resulting Ghana Legality Assurance System, or GhLAS, has value beyond the issuance of a FLEGT license, because it strengthens the way legality is applied and verified throughout the timber supply chain.\n\nMinister Osah Mills and EU Head of Delegation Ambassador William Hanna, August 2016. Photo courtesy of Chris Beeko.\n\nMinister of Land and Natural Resources, Osah Mills (left), with the EU’s de",
+   "published": "Thu, 05 Nov 2026 14:16:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mother of Ghanaian teen killed in New York heads to US funeral after Trump grants visa",
+   "url": "https://www.reuters.com/world/us/mother-ghanaian-teen-killed-new-york-heads-us-funeral-after-trump-grants-visa-2026-11-04",
+   "snippet": "The mother of a Ghanaian teenager who was fatally shot in New York departed for ​the United States on Wednesday after President ‌Donald Trump intervened to",
+   "published": "Wed, 04 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gh_extra",
  "_query": "Ghana latest news",
  "_domains": [],

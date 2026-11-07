@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "How the UAE-Israel-Morocco threat pushed Algiers to send troops to Niger | Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/uae-israel-morocco-threat-pushed-algiers-send-troops-niger",
+   "snippet": "An Algerian military convoy arrived in Niger last Friday, marking the country's first deployment of forces abroad since 1973, when it supported Egypt in its war against the Israeli occupation of the Sinai peninsula.\n\nThe deployment marks a major departure from Algeria’s longstanding policy of principled non-intervention. It follows Algiers’ decision to send four fighter jets to Niger on 30 August ",
+   "published": "Wed, 04 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria is sending troops to Niger for the first time in decades – what’s at stake",
+   "url": "https://www.modernghana.com/news/1541053/algeria-is-sending-troops-to-niger-for-the-first.html",
+   "snippet": "- Source:- Source:\n\nAlgeria recently announced it would deploy its army into neighbouring Niger. This marks a departure from its long-standing reluctance to deploy its military outside its borders. It last sent forces to support Egypt during the 1973 Arab-Israeli war. [...] On 25 October 2026, both chambers of Algeria's parliament approved the deployment of army units to Niger. The following day, ",
+   "published": "Sun, 01 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Two European women freed after Niger kidnapping return home",
+   "url": "https://thesun.my/news/two-european-women-freed-niger-kidnapping-return",
+   "snippet": "A Swiss and an Austrian woman kidnapped in Niger are back home after nearly two years, with Libya reportedly intervening for their release.",
+   "published": "Tue, 03 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_extra",
  "_query": "Niger latest news",
  "_domains": [],

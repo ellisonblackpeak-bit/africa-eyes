@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Chinese mining giant suspends DR Congo operations, but government insists it must pay $6 million to three communities poisoned by industrial wastewater - Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/chinese-mining-giant-huayou-suspends-dr-congo-operations-but-government-insists-it/zl7frg5",
-   "snippet": "* Chinese mining company CDM has been ordered to pay $6 million in compensation to three Congolese communities following a toxic wastewater spill in Lubumbashi. * The spill, which occurred in November 2025, released lead, arsenic, and other harmful substances into local waterways, causing biodiversity loss and health concerns. * Despite suspending operations, CDM must still fulfil its compensation",
-   "published": "Sat, 07 Nov 2026 07:26:50 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese-backed cobalt mine faces $6.3 million lawsuit in Africa's largest cobalt-producing country as residents demand compensation over alleged pollution - Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/chinese-backed-cobalt-mine-faces-dollar63-million-lawsuit-in-africas-largest-cobalt/f9zy1ew",
-   "snippet": "* Twenty-seven Congolese residents have filed a $6.3 million lawsuit against COMMUS, a Chinese-controlled mining company. * Scientific studies conducted by UK-based RAID and Congolese nonprofit AFREWATCH revealed high levels of particulate and water pollution around the mine site. * The claimants, including eight children, are seeking $1.3 million for damages and $5 million for environmental resto",
-   "published": "Fri, 06 Nov 2026 10:05:23 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Congo says China’s Huayou unit must pay compensation despite halt - Mining.com.au",
-   "url": "https://mining.com.au/congo-says-chinas-huayou-unit-must-pay-compensation-despite-halt/",
-   "snippet": "Chinese-owned miner CDM must still pay US$6 million ($8.54 million) to Congolese communities hit by last year’s industrial wastewater spill even though it has suspended operations, the Democratic Republic of Congo’s mines ministry said on Friday. Congo Dongfang International Mining (CDM) is a unit of China’s Zhejiang Huayou Cobalt (SSE:603799), one of the world’s largest battery materials producer",
-   "published": "Fri, 06 Nov 2026 21:37:09 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Death toll rises to 5 in Nairobi collapsed building tragedy after 3 bodies are found - Greenwich Time",
-   "url": "https://www.greenwichtime.com/news/world/article/death-toll-rises-to-5-in-nairobi-collapsed-22513512.php",
-   "snippet": "# Death toll rises to 5 in Nairobi collapsed building tragedy after 3 bodies are found. NAIROBI, Kenya (AP) — Three bodies were retrieved from the debris of a collapsed building in Kenya’s capital on Thursday morning, two weeks after the deadly collapse, bringing the confirmed death toll to five as police said recovery operations were nearing completion. Sixteen people are still believed to be mis",
-   "published": "Thu, 05 Nov 2026 09:01:18 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "2 killed after helicopter hits power lines, bursts into flames in northern New York - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://abcnews.com/US/killed-helicopter-hits-power-lines-bursts-flames-northern/story?id=58869014",
-   "snippet": "Updated:Nov. 5, 11:07 AM ET. Peltola | DDemocrat party | 48.2% | 102,962 |. ### Election 2026 live results: Democrat Colom leads Republican Hyde-Smith by about 1,000 votes in Mississippi Senate Race. Mississippi Senate race: Democrat Colom leads Republican Hyde-Smith by about 1,000 votes. # 2 killed after helicopter hits power lines, bursts into flames in northern New York. The accident took place",
-   "published": "Thu, 05 Nov 2026 10:41:02 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EFCC secures final forfeiture of $163,592 stolen from US law firm - Peoples Gazette Nigeria",
-   "url": "https://gazettengr.com/efcc-secures-final-forfeiture-of-163592-stolen-from-us-law-firm/",
-   "snippet": "In a statement on Friday, the Economic and Financial Crimes Commission (EFCC) said the judge, M.S. Liman, granted the non-conviction-based forfeiture after Mr Oziegbe failed to establish ownership of the funds. The Federal High Court, Abuja Division, has ordered the final forfeiture of $163,592 fraudulently obtained by a suspect, Akpasi Michael Oziegbe, in an international fraud involving a United",
-   "published": "Sat, 07 Nov 2026 09:11:59 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Congo residents sue Chinese copper mine over alleged pollution, statement says - Kitco",
-   "url": "https://www.kitco.com/news/off-the-wire/2026-11-05/congo-residents-sue-chinese-copper-mine-over-alleged-pollution",
-   "snippet": "# Congo residents sue Chinese copper mine over alleged pollution, statement says. Residents living near a major Chinese-controlled cobalt mine in the Democratic Republic of Congo have sued the mine’s operator for $6.3 million, alleging that pollution harmed their health, according to UK-based corporate watchdog RAID and Congo-based nonprofit AFREWATCH. The 27 residents’ lawsuit alleges that the Zi",
-   "published": "Thu, 05 Nov 2026 21:03:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Authorities pinpoint likely cause of 2 students' deaths after plunge off mountainside - Fox News",
-   "url": "https://www.foxnews.com/travel/authorities-pinpoint-likely-cause-2-students-deaths-plunge-off-mountainside",
-   "snippet": "* #### Ancient discovery from time of Jesus emerges near Jerusalem's Temple Mount. Authorities have identified the likely cause of a deadly fall that killed two Colorado college students during a weekend mountain climbing trip, despite finding no obvious mistakes in their preparation. Authorities have identified the likely cause of a fatal fall that killed two college students in the Colorado moun",
-   "published": "Thu, 05 Nov 2026 18:28:03 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_casualty",
  "_query": "Chinese killed Africa accident",
  "_domains": [],

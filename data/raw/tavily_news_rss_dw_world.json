@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Journalism and AI: Who owns the news?",
+   "url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-world-4025-rdf",
+   "content": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
+   "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-world-4025-rdf",
+   "content": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself from his father's rule.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "After victory in the midterms, what next for US Democrats?",
    "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-world-4025-rdf",
    "content": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.",
@@ -65,8 +79,8 @@
    "score": 0.6
   },
   {
-   "title": "People in Iran have little idea about the course of the US-led war and the progress of peace talks. DW asks Iranians about living in constant fear.",
-   "url": "https://www.dw.com/en/people-in-iran-have-little-idea-about-the-course-of-the-us-led-war-and-the-progress-of-peace-talks-dw-asks-iranians-about-living-in-constant-fear/a-79875438?maca=en-rss-en-world-4025-rdf",
+   "title": "For people in Iran, a constant threat of war and dearth of information",
+   "url": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-world-4025-rdf",
    "content": "Most people in Iran have little idea of the course of the US-led war and peace talks on the global stage. With few sources of information, the population must navigate conflicting rumors and fears of a nuclear attack.",
    "published_date": "",
    "score": 0.6
@@ -75,13 +89,6 @@
    "title": "Tanzania: Opposition leader Tundu Lissu jailed for four years",
    "url": "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-world-4025-rdf",
    "content": "Tanzanian opposition leader Tundu Lissu has been sentenced to four years in prison after being cleared of treason. Lissu condemned his conviction for incitement, which had not been among the charges he faced.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "'No choice but to bear it': Delhi's unrelenting air pollution crisis",
-   "url": "https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124?maca=en-rss-en-world-4025-rdf",
-   "content": "Despite years of government interventions, emergency restrictions and public outrage, Delhi continues to battle dangerously polluted air every winter. Why isn't there a lasting solution to a predictable crisis?",
    "published_date": "",
    "score": 0.6
   }
