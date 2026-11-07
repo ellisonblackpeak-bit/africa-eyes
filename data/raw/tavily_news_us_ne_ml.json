@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Sub-Saharan Africa's the Sahel: the latest battleground between CRINK authoritarianism and Western democracy | George W. Bush Presidential Center",
+   "url": "https://www.bushcenter.org/publications/sub-saharan-africas-the-sahel-the-latest-battleground-between-crink-authoritarianism-and-western-democracy",
+   "snippet": "Niger, Mali, and Burkina Faso have consistently limited impartial, independent media – blocking international broadcasters and targeting local journalists. The Russian ambassador, of course, visited Tafouk TV before its soft launch in June. \n\nAnd just days ago, in October, Russian forces joined with the Malian military to move on the town of Kidal, seizing it back from the local Tuareg militia und",
+   "published": "Fri, 06 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Washington Should Embrace Morocco’s Atlantic Strategy - Middle East Forum",
+   "url": "https://www.meforum.org/mef-observer/washington-should-embrace-moroccos-atlantic-strategy",
+   "snippet": "Russia presents another challenge. Moscow is strengthening its military ties with Mali, Niger, and Burkina Faso. Russia’s October 30 veto on Western Sahara also showed that Moscow can challenge Washington on an issue central to Moroccan foreign policy. Morocco may therefore become an even more valuable bridge into the Sahel, where Western influence has waned. [...] These are not isolated commercia",
+   "published": "Fri, 06 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Burkina Faso, Mali and Western Niger - Humanitarian Overview – 2026 (as of 23 October 2026) - Burkina Faso | ReliefWeb",
+   "url": "https://reliefweb.int/report/burkina-faso/burkina-faso-mali-and-western-niger-humanitarian-overview-2026-23-october-2026",
+   "snippet": "ReliefWeb logo\n\n## Content Search\n\nBurkina Faso\n+ 2 more\n\n# Burkina Faso, Mali and Western Niger - Humanitarian Overview – 2026 (as of 23 October 2026)\n\n## Attachments\n\nPreview of Central Sahel_october 2026.pdf\n\n## Disclaimer\n\n## Report details\n\n## Share\n\n## Latest Updates\n\nTürkiye\n+ 1 more\n\n### UNHCR Türkiye Monthly Operational Update (September 2026)\n\nVenezuela\n\n### Reporte de Diagnósticos Comun",
+   "published": "Tue, 03 Nov 2026 14:10:33 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ne_ml",
  "_query": "US Niger Mali",
  "_domains": [],

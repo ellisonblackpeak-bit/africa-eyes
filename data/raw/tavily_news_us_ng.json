@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "United States Africa Command",
+   "url": "https://www.africom.mil/article/37080/us-africa-command-leadership-attends-afridex-in-lagos",
+   "snippet": "U.S. Air Force Gen. Dagvin Anderson, commander of U.S. Africa Command, Amb. Peter Vrooman, deputy to the commander for civil-military engagement, retired Nigerian Gen. Christopher Gwabin Musa, Nigeria’s minister of defence, and other AFRICOM and Nigerian military leadership meet during the Africa International Defence Exhibition in Lagos, Nigeria, Oct. 26, 2026. Through forums like AFRIDEX, the U.",
+   "published": "Mon, 02 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Who be di 14 Nigerian-Americans wey get positions afta US midterm elections - BBC News Pidgin",
+   "url": "https://www.bbc.com/pidgin/articles/ckx2qzq41nl3o",
+   "snippet": "Democrat Rep Solomon Adesanya na di Georgia state house representative for District 43 wey involve Marietta and Northwest Atlanta regions. Solomon bin win im 2022 primary race for di Georgia House of Representatives for di 43RD District wit 57% of di vote. Im later win di general election wit 56% of di vote, for 2024, im run unopposed. Im papa enta di US from Nigeria for 1970 to pursue education. ",
+   "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+   "snippet": "EXCLUSIVE\n\n# Africa-Focused OPay Is Said to Halt US IPO After China Inquiry\n\nChina made eleventh-hour inquiries into OPay Ltd., prompting the Nigeria-focused payments company to halt its $300 million initial public offering in New York hours after pricing it, according to people familiar with the matter. [...] OPay has no operations in China and generates no revenue there, said the people, who ask",
+   "published": "Wed, 04 Nov 2026 14:07:27 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ng",
  "_query": "US Nigeria",
  "_domains": [],

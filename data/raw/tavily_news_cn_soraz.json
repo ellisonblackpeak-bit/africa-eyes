@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DfOsSX1oEGv",
+   "snippet": "Niger is an oil-producing country, which started commercial production of petroleum in 2011.The state-owned SORAZ refinery, located in the Zinder region, has a capacity of about 20,000 barrels per day – barely enough to meet local demand. [...] \"Being a crude oil-producing country does not automatically guarantee self-sufficiency in finished products. Access to fuel at the pump requires a complete",
+   "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger Imports Algerian Fuel by Tanker Truck to Ease Gasoline Shortage | energynews.pro",
+   "url": "https://energynews.pro/en/niger-imports-algerian-fuel-by-tanker-truck-to-ease-gasoline-shortage",
+   "snippet": "Niger has produced crude oil for several years and exports part of it by pipeline. Its refining capacity nonetheless remains limited: the Zinder refinery, operated by Société de raffinage de Zinder (SORAZ), supplies most of the finished products consumed in the country. Its installed capacity does not equate to permanent daily availability. In Agadez, the oil minister summed up the paradox: produc",
+   "published": "Tue, 03 Nov 2026 22:32:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DfQb_VZl6rL",
+   "snippet": "Niger has faced severe petrol and diesel shortages tied to global energy instability and rising prices. The Zinder refinery, the country's only one, produces about 1.6 million litres per day against domestic demand estimated at 3 million litres. The scarcity has been worsened by the reduced availability of smuggled fuel from Nigeria, which previously accounted for as much as half of national consu",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger has received its first fuel shipment from Algeria, with a convoy ...",
+   "url": "https://www.facebook.com/MimiMefoInfo/posts/niger-has-received-its-first-fuel-shipment-from-algeria-with-a-convoy-of-53-tank/1706601084155989",
+   "snippet": "The Zinder refinery, the country's only one, produces about 1.6 million litres per day against domestic demand estimated at 3 million litres.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger has received its first fuel shipment from Algeria, with a convoy ...",
+   "url": "https://x.com/MimiMefoInfo/status/2117391388304187526",
+   "snippet": "The Zinder refinery, the country's only one, produces about 1.6 million litres per day against domestic demand estimated at 3 million litres.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "ALGERIA SENDS 53 FUEL TANKERS TO NIGER! A Major Shift for the AES?",
+   "url": "https://www.youtube.com/watch?v=AYY6LKMhQE4",
+   "snippet": "Niger has been experiencing fuel supply difficulties, with shortages affecting several cities, including Agadez, Maradi, Zinder, and even the capital, Niamey.\n\nAnd this is where the story becomes particularly interesting.\n\nNiger is an oil-producing country. It began producing oil in 2011, operates a domestic refinery at Zinder, and has expanded its crude oil export capacity through the Niger-Benin",
+   "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger Imports 1.65 Million Liters of Fuel From Algeria Amid Domestic Shortages - Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-industry/0311-60407-niger-imports-1-65-million-liters-of-fuel-from-algeria-amid-domestic-shortages",
+   "snippet": "However, Niger's supply challenges extend beyond distribution. On October 5, Petroleum Minister Hamadou Tini presented figures to the Consultative Council for Refoundation highlighting discrepancies between fuel deliveries from the Zinder Refining Company (SORAZ) to SONIDEP and the volumes that SONIDEP subsequently dispatched. For premium gasoline, the discrepancy reached 196.62 million liters dur",
+   "published": "Tue, 03 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria 🇩🇿 has sent about 60 fuel tanker trucks to Agadez in norther...",
+   "url": "https://www.tiktok.com/@powerofafrica/video/7704467378351901966",
+   "snippet": "# Algeria 🇩🇿 has sent about 60 fuel tanker trucks to Agadez in northern Niger 🇳🇪 to help ease fuel shortages. The convoy arrived under a joint military escort from both countries and was received by Nigerien officials, including the petroleum minister. The delivery comes as Algeria reportedly begins deploying troops to Niger for the first time in decades. The move aims to protect shared energy and",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_soraz",
  "_query": "Zinder refinery Niger",
  "_domains": [],

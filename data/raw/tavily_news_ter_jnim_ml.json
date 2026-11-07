@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
+   "url": "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html",
+   "snippet": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. [...] Sévaré, beside Mopti, is a key military and logistics hub in central",
+   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "HRW Demands Burkina Faso Govt Probe Civilian Killings - allAfrica.com",
+   "url": "https://allafrica.com/view/group/main/main/id/00098702.html",
+   "snippet": "According to HRW, fighters from the Group for the Support of Islam and Muslims (JNIM) attacked a gold mining site on September 1, killing 24 people. Days later, on September 5, an explosive device believed to have been planted by JNIM killed three civilians on a motorcycle, including a child. [...] \"JNIM forces should immediately cease unlawful attacks against civilians and appropriately punish re",
+   "published": "Wed, 04 Nov 2026 13:56:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "COLUMN: The Terrorism Map Has Changed. Has Washington’s Counterterrorism Strategy Kept Pace?",
+   "url": "https://www.hstoday.us/subject-matter-areas/counterterrorism/the-terrorism-map-has-changed-has-washingtons-counterterrorism-strategy-kept-pace",
+   "snippet": "For more than two decades after September 11, 2001, American counterterrorism strategy was largely shaped by threats originating in Afghanistan, Pakistan,",
+   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ml",
  "_query": "JNIM Mali attack",
  "_domains": [],

@@ -2,24 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Me ya sa ake kai wa tarukan jam’iyyun hamayya hari a Najeriya?",
-   "url": "https://www.bbc.com/hausa/articles/cme3xxyqjj12o?at_medium=RSS&at_campaign=rss",
-   "content": "Gabanin zaɓen Najeriya na 2027, ana samun yanayi na rashin tabbas inda ake kai wa jam'iyyun adawa hari a lokacin yaƙin neman zaɓe.",
-   "published_date": "Sat, 07 Nov 2026 03:56:43 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "An tsige shugaban Paraguay tare da tsare shi a gida",
+   "title": "Amurka ta sa ladan dala miliyan 20 ga wanda ya ba da bayanan nukiliyar Iran",
    "url": "https://www.bbc.co.uk/hausa/live/cq78pp2jxzevt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku muhimman abubuwan da ke faruwa a Najeriya da sauran sassan duniya na ranar Asabar 7 ga watan Nuwamban 2026.",
    "published_date": "",
    "score": 0.6
   },
   {
-   "title": "Real Madrid da PSG na hamayya kan Suzuki, Bayern na son tsawaita zaman Olise",
-   "url": "https://www.bbc.com/hausa/articles/cmlykk950z95o?at_medium=RSS&at_campaign=rss",
-   "content": "PSG da Real Madrid na nuna sha'awar ɗaukar golan Aston Villa, Zion Suzuki, yayin da Bayern Munich ke shirin tsawaita kwangilar ɗan wasan gefe na Faransa, Michael Olise.",
-   "published_date": "Sat, 07 Nov 2026 03:55:19 GMT",
+   "title": "Me ya sa wasu ke ganin fatalwa?",
+   "url": "https://www.bbc.com/hausa/articles/cmq5nx40j8vpo?at_medium=RSS&at_campaign=rss",
+   "content": "Tun daga tsoffin tatsuniyoyin al'ummar Mesofotamiya da ke ba da labarin fatalwowi da ke buƙatar kulawa daga danginsu da suka rage a raye, har zuwa littafin Charles Dickens mai suna A Christmas Carol, ɗan'adam yana da dogon tarihi na bayar da labaran fatalwowi.",
+   "published_date": "Sat, 07 Nov 2026 13:40:46 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa ake kai wa tarukan jam’iyyun hamayya hari a Najeriya?",
+   "url": "https://www.bbc.com/hausa/articles/cme3xxyqjj12o?at_medium=RSS&at_campaign=rss",
+   "content": "Gabanin zaɓen Najeriya na 2027, ana samun yanayi na rashin tabbas inda ake kai wa jam'iyyun adawa hari a lokacin yaƙin neman zaɓe.",
+   "published_date": "Sat, 07 Nov 2026 03:56:43 GMT",
    "score": 0.6
   },
   {
@@ -69,6 +69,13 @@
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
    "published_date": "Tue, 29 Sep 2026 13:46:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Real Madrid da PSG na hamayya kan Suzuki, Bayern na son tsawaita zaman Olise",
+   "url": "https://www.bbc.com/hausa/articles/cmlykk950z95o?at_medium=RSS&at_campaign=rss",
+   "content": "PSG da Real Madrid na nuna sha'awar ɗaukar golan Aston Villa, Zion Suzuki, yayin da Bayern Munich ke shirin tsawaita kwangilar ɗan wasan gefe na Faransa, Michael Olise.",
+   "published_date": "Sat, 07 Nov 2026 03:55:19 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cqp8gd2y75xjo?at_medium=RSS&at_campaign=rss",
    "content": "Wasu na buƙatar sa'o'i bakwai zuwa tara na barci, amma duk da haka akwai wasu mutane da suke kasancewa cikin ƙoshin lafiya ko da ba sa samun isasshen barci.",
    "published_date": "Wed, 04 Nov 2026 18:33:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abubuwa 6 da za su iya haramta maka yin zaɓe a Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/c6y93w29dxx9o?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da babban zaɓen Najeriya na 2027 ke ƙara karatowa, masu kaɗa kuri'a na ta ribibi wajen ganin sun karɓi katunan zaɓensu domin samun damar zaɓar ɗan takarar da suke so.",
-   "published_date": "Wed, 04 Nov 2026 04:23:27 GMT",
    "score": 0.6
   }
  ],

@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Algeria Sends Troops into Niger to Protect Energy Interests – Sri Lanka Guardian",
+   "url": "https://slguardian.org/algeria-sends-troops-into-niger-to-protect-energy-interests",
+   "snippet": "On 13 October, Niger’s authorities gave Chinese companies CNPC, WAPCO and SORAZ 45 days to repatriate oil export revenues and fulfil their contractual obligations. The dispute could further complicate the country’s relationships with external economic partners as Algeria expands its involvement. [...] ##\n\n### Suggestions\n\n, an approximately 4,000-kilometre infrastructure project intended to transp",
+   "published": "Wed, 04 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "CNPC",
+   "url": "https://tavily.com/knowledge/company/y2EBumzKW4mA",
+   "snippet": "# CNPC-AktobeMunaiGas JSC\nID: y2EBumzKW4mA\nWebsite: www.cnpc-amg.kz\nLegal name: CNPC-Aktobemunaigas Jsc\nHeadquarters: Aktobe, Kazakhstan\nLinkedIn: www.linkedin.com/company/cnpc-amg · 1,691 followers\nIndustry: Oil and Gas\nIndustry codes: SIC 13, 138, NAICS 21, 213\nCompany type: Public Company [...] ## Products and services\nKeywords: energy, heavy_industry_and_engineering/energy_industry, kazakhstan",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_cnpc2",
  "_query": "CNPC Niger oil",
  "_domains": [],

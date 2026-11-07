@@ -1,35 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Germany–Japan Relations: Economic Security and Defence",
-   "url": "https://behorizon.org/germany-japan-relations-october-2026-summit",
-   "snippet": "⚡ Commercial Friction: Tokyo raised strong concerns over the EU’s Industrial Accelerator Act .\n\n01 / Institutional Foundations Pre-Summit Baseline\n\n## An Established Partnership Gains Depth\n\nThe October 2026 visit builds on existing legal and economic institutions that already provide practical foundations for closer bilateral cooperation.\n\nECONOMIC PILLAR Since Feb 2019\n\n### EU–Japan Economic Par",
-   "published": "Tue, 03 Nov 2026 20:04:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU Maritime Security Strategy: joint report highlights progress | EEAS",
-   "url": "https://www.eeas.europa.eu/eeas/eu-maritime-security-strategy-joint-report-highlights-progress_en?s=62",
-   "snippet": "Significant new political agreements on maritime security have been concluded with key partners, such as Australia, Canada, Ghana, Iceland, India, Japan, Republic of Korea, Norway and United Kingdom. The EU also consolidated its support for regional maritime security structures, including becoming a Friend of the Djibouti Code of Conduct. [...] #### Boost capabilities to address evolving threats\n\n",
-   "published": "Tue, 03 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Britain and Germany’s defense cooperation plans face tough choices – POLITICO",
-   "url": "https://www.politico.eu/article/britain-and-germany-defense-cooperation-plans-face-tough-choices",
-   "snippet": "For Britain, German participation would help divide the enormous costs of developing a new fighter jet. For Berlin, it offers something beyond the aircraft itself: closer post-Brexit ties with Britain, a major European military power and key NATO ally, as well as a strategic partnership with Japan.\n\nThat diplomatic appeal matters as Europe takes on more responsibility for its own security amid unc",
-   "published": "Mon, 02 Nov 2026 02:25:09 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU",
-   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
-   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_jp",
  "_query": "EU Japan defence cooperation",
  "_domains": [],

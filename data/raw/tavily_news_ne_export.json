@@ -1,7 +1,21 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger Imports Algerian Fuel by Tanker Truck to Ease Gasoline Shortage | energynews.pro",
+   "url": "https://energynews.pro/en/niger-imports-algerian-fuel-by-tanker-truck-to-ease-gasoline-shortage",
+   "snippet": "energynews.pro\n\n# Niger Imports Algerian Fuel by Tanker Truck to Ease Gasoline Shortage\n\nNiger received a convoy of tanker trucks from Algeria in Agadez after banning exports of super gasoline and diesel. The shortage highlights the limits of the Zinder refinery and turmoil at SONIDEP.\n\nNiger Imports Algerian Fuel by Tanker Truck to Ease Gasoline Shortage [...] Niger received a convoy of tanker tr",
+   "published": "Tue, 03 Nov 2026 22:32:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger: 53 tanker trucks from Algeria received in Agadez - BENIN WEB TV",
+   "url": "https://beninwebtv.bj/en/niger-53-tanker-trucks-from-algeria-received-in-agadez",
+   "snippet": "Oil exchanges between the two countries also involve crude oil. On August 14, a shipment of one million barrels of Nigerien oil sold by Sonidep to Sonatrach departed from the Benin terminal at Sèmè-Kpodji. This export of crude oil is distinct from the supply of fuels intended for the Nigerien market.\n\n## Comments [...] Une rue d’Agadez, au Niger, en novembre 2018 (archives). Photo : Vincent van Ze",
+   "published": "Sun, 01 Nov 2026 21:20:15 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_export",
  "_query": "Niger bans petrol exports",
  "_domains": [],
