@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Sub-Saharan Africa's the Sahel: the latest battleground between CRINK authoritarianism and Western democracy | George W. Bush Presidential Center",
-   "url": "https://www.bushcenter.org/publications/sub-saharan-africas-the-sahel-the-latest-battleground-between-crink-authoritarianism-and-western-democracy",
-   "snippet": "Following the May 2021 military coup in Mali, the newly established ruling junta engaged with what was then known as the Wagner Group, a Russian government-financed and -backed private military company, to send roughly 1,000 mercenaries to ostensibly train the Malian military forces. They were also supposed to fight against local extremists, including organizations aligned with the Islamic State g",
-   "published": "Fri, 06 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Direction Niamey: Algeria Attempts to Bolster Its Posture in the Sahel - The Soufan Center",
-   "url": "https://thesoufancenter.org/intelbrief-2026-november-3",
-   "snippet": "Algeria’s recent commitments to Niamey also reflect its attempt to re-establish its posture in the Sahel region after ties with the juntas of the Alliance of Sahel States (AES) frayed in April 2025 when Algerian air defense shot down a Malian drone near the border town of Tinzaouaten. In response, Mali, Niger, and Burkina Faso all recalled their ambassadors from Algiers. While Niamey recalled its ",
-   "published": "Tue, 03 Nov 2026 05:00:51 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Shadow War in the Central Sahel: The Escalating Niger–Chad Crisis",
-   "url": "https://www.afroangle.com/articles/central-sahel-the-escalating-Niger-Chad-crisis",
-   "snippet": "Niger regularly accuses Chad of allowing its territory. Nigerien insurgents, notably the Patriotic Movement for Liberty and Justice (MPLJ), led by Moussa Kouna",
-   "published": "Fri, 06 Nov 2026 21:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "2/4 🔥 Un Niger sous pression sur plusieurs fronts À l'ouest, le JNIM ...",
-   "url": "https://x.com/CapIvoire_Info/status/2116605374946304217",
-   "snippet": "Au nord et à l'est, les mouvements rebelles, notamment le FPL et le MPLJ, multiplient les actions contre les forces nigériennes et les infrastructures",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "ActuNiger | Niger-Libye : Niamey et Benghazi signent un accord de coopération stratégique - ActuNiger",
-   "url": "https://www.actuniger.com/politique/22535-niger-libye-niamey-et-benghazi-signent-un-accord-de-cooperation-strategique",
-   "snippet": "contre ses intérêts stratégiques situés dans cette zone du nord-est du Niger, marquée ces derniers temps par l’amplification des risques sécuritaires qui ont poussé les autorités militaires nigériennes à appeler Alger à la rescousse. Des soldats algériens sont ainsi attendus pour se déployer dans une base située à Madama, dans cette zone où les groupes rebelles (FPL, MPLJ, FPJ) continuent de menac",
-   "published": "Mon, 02 Nov 2026 13:20:27 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "L’intervention au Niger, un test de crédibilité grandeur nature pour l’armée algérienne",
-   "url": "https://www.jeuneafrique.com/1857411/politique/lintervention-au-niger-un-test-de-credibilite-grandeur-nature-pour-larmee-algerienne",
-   "snippet": "### La rédaction vous recommande\n\nNiger, le Premier Ministre du Niger Ali Mahaman Lamine Zeine salue les militaires algériens, à l’aéroport de Niamey, le 30 août 2026. Le Niger a réceptionné quatre avions de chasse Soukhoï Su-30 en provenance d’Algérie. \n\n#### Le Parlement algérien convoqué en urgence : s’achemine-t-on vers une intervention au Niger ? [...] Abonnez-vous pour lire la suite et accéd",
-   "published": "Sun, 01 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Après avoir décidé de déployer ses soldats en territoire nigérien, Alger ...",
-   "url": "https://www.facebook.com/courrierinternational.com/posts/apr%C3%A8s-avoir-d%C3%A9cid%C3%A9-de-d%C3%A9ployer-ses-soldats-en-territoire-nig%C3%A9rien-alger-a-envoy%C3%A9/1548853007276823",
-   "snippet": "Après avoir décidé de déployer ses soldats en territoire nigérien, Alger a envoyé une cinquantaine de camions- citernes pour pallier les pénuries d'essence",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "️ Fethi Ghares, coordinateur national du MDS : «L'armée algérienne ...",
-   "url": "https://www.facebook.com/NorthAfricaTVChannel/posts/%EF%B8%8F-fethi-ghares-coordinateur-national-du-mds-larm%C3%A9e-alg%C3%A9rienne-risque-de-devenir-/122182763384705434",
-   "snippet": "🗣️ Fethi Ghares, coordinateur national du MDS : «L'armée algérienne risque de devenir la gardienne des intérêts étrangers au Niger» «Ni le peuple algérien",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "🎙️ Abdelaziz Mounde - analyste géopolitique 📌 L'accord Haftar- ...",
-   "url": "https://www.facebook.com/NorthAfricaTVChannel/posts/%EF%B8%8F-abdelaziz-mounde-analyste-g%C3%A9opolitique-laccord-haftar-niger-met-%C3%A0-l%C3%A9preuve-les/122182913198705434",
-   "snippet": "Abdelaziz Mounde - analyste géopolitique L'accord Haftar-Niger met à l'épreuve les relations entre Alger et Niamey!",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Libyan Aid Convoy Destined for Chad and Sudan Under Haftar's Militia ...",
-   "url": "https://www.tiktok.com/@patriotedz_94_31/photo/7703218745778392353",
-   "snippet": "A convoy of food and fuel, allegedly funded by Libyan public money … is being smuggled to Chad and Sudan to aid Hamidti's militias",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

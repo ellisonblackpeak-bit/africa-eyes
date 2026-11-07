@@ -1,42 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Uranium Atlas 2026",
-   "url": "https://www.rosalux.de/fileadmin/rls_uploads/pdfs/sonst_publikationen/1105_Uranium_Atlas_2026_accessible_EN.pdf",
-   "snippet": "origi­ nally 64 % Orano, 36 % Niger, since 2024 100 % Niger Madauéla: planned; 80 % GoviEx/Canada, 20 % Niger Moradi: planned; originally Orano, now COMIREX (Niger), Expectation: 300 tons uranium/ year Akokan (Akouta): 75 ,000 tons, underground mining since 1974–2021, 34 % Orano (frz.), 31 % Niger, 25 % OURD (jap.), 10 % ENUSA (span.), closed in 2021 Azelik: open pit and under­ ground mining 2007–",
-   "published": "Thu, 05 Nov 2026 13:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria's Wake-Up Call: Africa Takes Charge of Resources",
-   "url": "https://www.facebook.com/groups/275114380263865/posts/1810967530011868",
-   "snippet": "For 50 years, France's 56 nuclear power plants which give 70% of France's electricity were fueled by uranium from Niger. ... Chinese boys are mining it",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Uranium Demand Is Effectively Doubling as New Mines Take 10 to 20 Years - Article | Crux Investor",
-   "url": "https://www.cruxinvestor.com/posts/uranium-demand-is-effectively-doubling-as-new-mines-take-10-to-20-years",
-   "snippet": "Atomic Eagle (ASX: AEU | OTCQX: AEUXF) holds a 60% interest in the Madaouela Uranium Project in Niger, alongside a 58.8 million lb JORC resource at its Muntanga Uranium Project in Zambia. Madaouela hosts a foreign estimate not compliant with the JORC Code of 116.5 million lb at 1,282 parts per million (ppm), effective July 1, 2022. It comprises 30.1 million lb measured at 1,000 ppm, 66.8 million l",
-   "published": "Wed, 04 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Junta-led Niger receives first fuel shipment from Algeria as 53-truck convoy arrives Agadez under military escort | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/junta-led-niger-receives-first-fuel-shipment-from-algeria-as-53-truck-convoy-arrives/b5smvtx",
-   "snippet": "Algiers also deployed four Russian-made Sukhoi Su-30 fighter jets and an aerial refuelling aircraft following an attempted mutiny against Niger's military government.\n\nNiger, which has significant uranium, oil and gold resources, continues to battle insurgencies linked to al-Qaeda and Islamic State across the Sahel. [...] ### Military cooperation gathers momentum\n\nThe latest delivery follows a ser",
-   "published": "Mon, 02 Nov 2026 15:47:22 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/DfR4yAaFIkJ",
-   "snippet": "Photo by Uranium Spotlight on October 27, 2026. May be an image of text.\nPhoto by Uranium Spotlight on October 20, 2026. May be an image of text.\nPhoto by Uranium Spotlight on October 13, 2026. May be an image of text.\nPhoto by Uranium Spotlight on October 06, 2026. May be an image of text.\nPhoto by Uranium Spotlight on September 29, 2026. May be a graphic of text.\nPhoto by Uranium Spotlight on Se",
-   "published": "Tue, 03 Nov 2026 12:31:11 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_uranium",
  "_query": "Chinese uranium Niger",
  "_domains": [],

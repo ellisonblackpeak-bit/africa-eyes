@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Europe’s military readiness plans at risk despite record defence spending | Euronews",
-   "url": "https://www.euronews.com/2026/11/04/europes-military-readiness-plans-at-risk-despite-record-defence-spending",
-   "snippet": "### EU defence chief warns of fuel crunch if Europe goes to war\n\n## Top stories\n\nThe sun rises behind the US Capitol on Election Day, 3 November, 2026\n\n### Democrats win control of US Congress in midterm rebuke of Trump\n\nU.S. midterms elections results 2026\n\n### Live. 2026 US midterm elections: Real-time results in maps and charts\n\nPeople at a Democratic event react during an election night event ",
-   "published": "Wed, 04 Nov 2026 10:04:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "After the midterms: Europe's three-pronged strategy for dealing with America | European Union Institute for Security Studies",
-   "url": "https://www.iss.europa.eu/publications/commentary/after-midterms-europes-three-pronged-strategy-dealing-america",
-   "snippet": "Europe should broaden its engagement across the US political spectrum, going beyond Washington D.C. and engaging with state legislatures, governors, businesses and local communities. It has more to offer than in previous years, thanks to increased defence spending, economic power and investments in US states. It should use these assets to shape Americans’ perceptions of Europe and challenge the no",
-   "published": "Wed, 04 Nov 2026 09:31:51 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Democrats’ Sweep Drives Decline in European Defense Shares - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-defense-stocks-slide-as-democrats-sweep-dents-optimism",
-   "snippet": "# European Defense Stocks Slide as Democrats’ Sweep Dents Optimism\n\nEuropean defense stocks slid as the Democrats’ landslide midterm-elections win dented expectations of a further ramp-up in US military spending.\n\nA Goldman Sachs Group Inc. basket of Europe’s military names fell as much as 4.1% on Wednesday, its steepest decline in more than four months. The UK’s BAE Systems Plc, which gets nearly",
-   "published": "Wed, 04 Nov 2026 11:27:31 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

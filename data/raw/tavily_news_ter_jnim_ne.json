@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Direction Niamey: Algeria Attempts to Bolster Its Posture in the Sahel - The Soufan Center",
-   "url": "https://thesoufancenter.org/intelbrief-2026-november-3",
-   "snippet": "sabotaged the Niger–Benin oil pipeline. Overall, this latest development suggests Algeria’s interest in protecting energy assets and supply lines rather than engaging in efforts to counter JNIM, ISSP, and other terrorist groups operating in Niger. Nonetheless, operating in Niger may provoke attacks by JNIM and ISSP. Given JNIM’s well-practiced targeting of energy infrastructure and convoys in Mali",
-   "published": "Tue, 03 Nov 2026 05:00:51 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "REPORT: Islamic State Lures Others in With Propaganda to Terrorise Nigeria's Northwest",
-   "url": "https://fij.ng/article/report-islamic-state-lures-others-in-with-propaganda-to-terrorise-nigerias-northwest",
-   "snippet": "With the existing government gaps in these communities in Zamfara, Sokoto, Katsina, Kebbi, Kaduna and parts of Niger State, the Lakuruwa have been looking to penetrate and share their ideologies with the perpetrators.\n\n> In the attached audio message, ISSP leader Abu Musa calls on bandits not attack or support JNIM in its fight against the Daula. Read more  pic.twitter.com/c8DEG627gy\n>\n> — Yusuf A",
-   "published": "Thu, 05 Nov 2026 17:40:42 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Goita, Tiani Hail AES Force As Jihadist Pressure Grows",
-   "url": "https://newsghana.com.gh/goita-tiani-hail-aes-force-as-jihadist-pressure-grows",
-   "snippet": "Mali's military leader Assimi Goita and Niger's Abdourahamane Tiani praised their joint Sahel force in Niamey on 5 November 2026, even as jihadist attacks",
-   "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ter_jnim_ne",
  "_query": "JNIM Niger",
  "_domains": [],

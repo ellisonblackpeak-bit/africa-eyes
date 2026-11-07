@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
-   "url": "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html",
-   "snippet": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. [...] Sévaré, beside Mopti, is a key military and logistics hub in central",
-   "published": "Tue, 03 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Burkina Faso's jihadist battle less deadly but unrelenting",
-   "url": "https://www.modernghana.com/news/1542417/burkina-fasos-jihadist-battle-less-deadly-but.amp",
-   "snippet": "He highlighted clashes between the JNIM and its rival, the Islamic State - Sahel Province (ISSP) group in northern Burkina -- some of the deadliest of recent years -- which required men, weapons and time.\n\n\"Added to this is the partial shift of JNIM's focus to operations in Mali,\" where it has carried out attacks on an unprecedented scale in recent months and gathered significant resources, Kargin",
-   "published": "Fri, 06 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ter_jnim_ml2",
  "_query": "JNIM Mali",
  "_domains": [],

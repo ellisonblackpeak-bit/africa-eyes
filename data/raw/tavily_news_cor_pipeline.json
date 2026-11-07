@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "NUPRC Sets November 20 For 2026 Licensing Round – The Whistler Newspaper",
-   "url": "https://thewhistler.ng/nuprc-sets-november-20-for-2026-licensing-round",
-   "snippet": "Nigeria\n\nNUPRC Plans Drone Surveillance To Strengthen Oil Asset Security\n\n“We talk about two major projects on the drawing board to move gas through the Nigeria-Morocco Atlantic Gas Pipeline and Trans-Sahara Gas Pipeline. Again, this gas will go somewhere in Europe and will also meet regional demands.  \nSo, Nigeria is positioned to meet not just domestic supply,” the CCE stated.\n\nAdvertisement [..",
-   "published": "Mon, 02 Nov 2026 19:12:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How the UAE-Israel-Morocco threat pushed Algiers to send troops to Niger | Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/uae-israel-morocco-threat-pushed-algiers-send-troops-niger",
-   "snippet": "Algeria’s national energy company Sonatrach, the Nigerien government and the Nigerian National Petroleum Corporation are jointly developing a 4,000-km pipeline to carry Nigerian gas through Niger and Algeria and onwards to Europe. [...] “The troops are meant to protect energy installations, notably Sonatrach’s oil projects and the corridor of the Trans-Saharan Gas Pipeline”, said Dr Fatiha Dazi-He",
-   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Morocco’s Strategic Mind and the Art of Sovereign Decision-Making on the Sahara Issue",
-   "url": "https://www.atalayar.com/en/opinion/berrak-chadi-abdesslam/morocco-s-strategic-mind-and-the-art-of-sovereign-decision-making-on-the-sahara-issue/20261102004647230221.html",
-   "snippet": "## The Sovereign Milestone as a Catalyst for the Atlantic Initiative and the Gas Pipeline\n\nFrom the perspective of geoeconomic realism, the shift from managing the dispute to establishing sovereign faits accomplis constitutes the security safeguard and ultimate legal protection that international partners and major investors had been awaiting to channel their capital toward far-reaching transconti",
-   "published": "Sun, 01 Nov 2026 23:46:47 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cor_pipeline",
  "_query": "Nigeria Morocco gas pipeline",
  "_domains": [],

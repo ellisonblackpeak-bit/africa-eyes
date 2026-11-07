@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Opposition party organiser killed in South Africa, election violence fears mount",
-   "url": "https://www.reuters.com/world/africa/opposition-party-organiser-killed-south-africa-election-violence-fears-mount-2026-11-03",
-   "snippet": "An opposition party organiser was killed in South Africa's KwaZulu-Natal province late on ​Monday, heightening fears of political violence ‌before",
-   "published": "Tue, 03 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Flash: 9 killed in plane crash in U.S. Florida-Xinhua",
-   "url": "https://english.news.cn/20261102/85acd2240a554fea84b3a7b5d0da9c59/c.html",
-   "snippet": "### Zimbabwean leather exporter looks to expand business in China through CIIE\n\n### Follow us on\n\nFlash: 9 killed in plane crash in U.S. Florida [...] Flash: 9 killed in plane crash in U.S. Florida-Xinhua \n\n# Flash: 9 killed in plane crash in U.S. Florida\n\nSource: Xinhua\n\nEditor: huaxia\n\n2026-11-02 05:18:15\n\nFlash: 9 killed in plane crash in U.S. Florida\n\n## Comments\n\nComments (0)\n\nSend\n\n### You m",
-   "published": "Mon, 02 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

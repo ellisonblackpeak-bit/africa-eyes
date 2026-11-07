@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "West Africa: Sahel - Limits of Mediation in the Face of Terrorist Violence - allAfrica.com",
-   "url": "https://allafrica.com/stories/202611020008.html",
-   "snippet": "Between 2019 and 2025, jihadist groups doubled the number of their attacks in the Sahel. The frequency of these attacks has surged: from 1,900 in 2019 to over 5,500 in 2024, with 3,800 recorded by October 10, 2025--a total of 28,715 attacks over nearly six years. Various factions affiliated to Al-Qaeda--most notably the Group for the Support of Islam and Muslims (JNIM)--as well as those linked to ",
-   "published": "Mon, 02 Nov 2026 05:05:19 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Burkina Faso's jihadist battle less deadly but unrelenting",
-   "url": "https://www.modernghana.com/news/1542417/burkina-fasos-jihadist-battle-less-deadly-but.amp",
-   "snippet": "FRI, 06 NOV 2026\n\nBurkina Faso's army is battling jihadists from the Sahel branches of the Islamic State and Al-Qaeda. By Issouf SANOGO (AFP/File)\n\nWhile Burkina Faso has not seen a large-scale jihadist attack since late June, analysts and data suggest the calm is deceptive: attacks are less deadly but their frequency remains high. [...] He highlighted clashes between the JNIM and its rival, the I",
-   "published": "Fri, 06 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ter_sahel",
  "_query": "Sahel jihadist attack",
  "_domains": [],

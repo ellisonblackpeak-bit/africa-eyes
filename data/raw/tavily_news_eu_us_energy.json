@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply | OilPrice.com",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Exports-Near-Record-High-as-Europe-Scrambles-for-Winter-Supply.html",
-   "snippet": "Europe has become the biggest buyer of U.S. liquefied natural gas following the loss of much of its Russian pipeline gas supply, with EU restrictions on short-term Russian LNG contracts already in effect. Next year, the bloc's ban on Russian LNG under long-term contracts takes effect on January 1, 2027, while remaining pipeline gas imports are scheduled to end in autumn 2027. In the meantime, the ",
-   "published": "Tue, 03 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US LNG exports hit second-highest monthly level on record as Europe demand surges",
-   "url": "https://www.reuters.com/business/energy/us-lng-exports-hit-second-highest-monthly-level-record-europe-demand-surges-2026-11-02",
-   "snippet": "US LNG exports climbed to their second-highest monthly ‌level on record in October as producers boosted output to capture strong European demand and",
-   "published": "Mon, 02 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US LNG Exporters Find Few Takers in Europe for New Supply - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply",
-   "snippet": "#### Diamondback Energy Beats Profit Estimates as Iran War Lifts Oil Prices\n\n#### US LNG Exports Hit Second-Highest Monthly Level on Record as Europe Demand Surges\n\n  \n\nCopper Tip Energy Services\n\nZachry Integrity Engineering\n\nCopper Tip Energy\n\nZachry Integrity Engineering\n\n  \n  \n\n\n\ndddd MMMM d, yyyy [...] Skip to content\nSkip to content\n\nCanadian Flag CDN NEWS  |US Flag US NEWS  | TIMELY. FOCUSE",
-   "published": "Mon, 02 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_us_energy",
  "_query": "Europe US LNG energy",
  "_domains": [],

@@ -1,49 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Why Nvidia boss Jensen Huang has been summoned by US lawmakers? — TradingView News",
-   "url": "https://www.tradingview.com/news/invezz:746fe7fe5094b:0-why-nvidia-boss-jensen-huang-has-been-summoned-by-us-lawmakers",
-   "snippet": "A recent New York Times report stated that US intelligence officials concluded that businesswoman Alice Huang, who had cultivated a close relationship with the Nvidia chief, was passing information to the Chinese government.\n\nHuang asked to appear on Nov 18\n\nReps. Brian Mast of Florida, John Moolenaar of Michigan and Rick Crawford of Arkansas sent a letter dated Nov. 4 requesting that Huang brief ",
-   "published": "Fri, 06 Nov 2026 12:53:02 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Congress Summons Jensen Huang Over Chinese Espionage Concerns as Moonshot AI Seeks European Nvidia Access · TechEchelon",
-   "url": "https://www.techechelon.com/post/congress-summons-jensen-huang-over-chinese-espionage-concerns-as-moonshot-ai-seeks-european-nvidia",
-   "snippet": "Republican lawmakers have summoned Nvidia CEO Jensen Huang to a closed-door congressional briefing on November 18 over U.S. intelligence concerns about a Chinese espionage operation targeting him, as a separate report reveals Chinese AI lab Moonshot AI has sought Nvidia Blackwell chip access through European data centers.\n\nTE\n\nTechEchelon Staff\n\nNOV 6, 2026· 10:03 AM ET· 3MIN READ\n\nvia Wikipedia (",
-   "published": "Fri, 06 Nov 2026 15:03:14 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US lawmakers summon Jensen Huang over Chinese spying concerns",
-   "url": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
-   "snippet": "CompaniesShow more Companies \n       Energy\n       Financials\n       Health\n       Industrials\n       Media\n       Professional Services\n       Retail & Consumer\n       Tech Sector\n       Telecoms\n       Transport\n\n   TechShow more Tech \n       Artificial intelligence\n       Semiconductors\n       Cyber Security\n       Social Media [...] Sections \n\n       Companies Home\n       Energy\n       Financi",
-   "published": "Fri, 06 Nov 2026 00:59:03 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Drone firm raided over Chinese chips - Taipei Times",
-   "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/01/2003866957",
-   "snippet": "Prosecutors searched locations connected to the company and summoned six people for questioning, including Tu and his wife, they said.\n\n  Investigators found that Tu allegedly used chips manufactured by Chinese companies in at least two batches of military drone procurement contracts and directed Align Corp to assemble the drones before delivering them to the military, they said.\n\n  The contracts ",
-   "published": "Sat, 31 Oct 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
-   "url": "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china",
-   "snippet": "The Wall Street Journal subsequently reported that officials in at least three countries had concerns that Alice Huang was passing information to the Chinese government, potentially including sensitive details on Nvidia chips. \n   Nvidia has denied the allegations, saying Jensen Huang and Alice Huang's contacts were just routine business interactions. The Chinese government previously called the a",
-   "published": "Thu, 05 Nov 2026 23:39:19 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Federal Register :: Certain Steel Nails From the People's Republic of China: Preliminary Results and Rescission, in Part of Antidumping Duty Administrative Review; 2024-2025",
-   "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22526/certain-steel-nails-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
-   "snippet": "9. Xi'an Metals and Minerals Import & Export Co., Ltd.\n\n# Footnotes\n\n1.   See Initiation of Antidumping and Countervailing Duty Administrative Reviews,90 FR 46173 (September 25, 2025) ( Initiation Notice); see also Notice of Antidumping Duty Order: Certain Steel Nails from the People's Republic of China,73 FR 44961 (August 1, 2008) ( Order).\n\n Back to Citation\n\n2.   See Memorandum, “Deadlines Affe",
-   "published": "Wed, 04 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],
