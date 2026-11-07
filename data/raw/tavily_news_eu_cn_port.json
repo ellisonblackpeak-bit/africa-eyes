@@ -1,14 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Robo Block Shows China’s Long Reach in M&A",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/robo-block-shows-china-s-long-reach-in-m-a",
-   "snippet": "Image 1: The SoftBank logo in the entrance hall inside the Tokyo Portcity Takeshiba building, which houses the company’s headquarters, in Tokyo, Japan, on Tuesday, Feb. 4, 2025.\n\nThe SoftBank logo in the entrance hall inside the Tokyo Portcity Takeshiba building, which houses the company’s headquarters, in Tokyo, Japan, on Tuesday, Feb. 4, 2025.Photographer: Toru Hanai/Bloomberg\n\nGift this article",
-   "published": "Thu, 05 Nov 2026 15:55:28 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_cn_port",
  "_query": "Chinese port Europe",
  "_domains": [],

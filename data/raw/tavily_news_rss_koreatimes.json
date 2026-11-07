@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Korea Drag Pageant to select Miss Femme Supreme 2026",
+   "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261108/korea-drag-pageant-to-select-miss-femme-supreme-2026",
+   "content": "Eight drag queens actively performing in Seoul are gearing up to compete for the inaugural title of Miss Femme Supreme 2026 at the first-ever Korea Drag Pageant. The event was created to celebrate artistic excellence in drag performance, connect Korean performers with the international drag community and contribute to the growth and visibility of drag culture in Korea. \"At the heart of it, I want someone who has dreamed of becoming a pageant queen to have a real opportunity to pursue that dream here in Korea,\" said Leah Taylor, the founder of Korea Drag Pageant, an independent organization dedicated to developing professional drag pageantry in Korea through competitions, educational initiatives and international collaboration. \"I want the contestants to feel that their work has been taken seriously and that they have a stage worthy of their preparation and ambition. For audiences, I hope",
+   "published_date": "Sat, 07 Nov 2026 20:32:03 GMT",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_koreatimes",
  "_query": "https://www.koreatimes.co.kr/www/rss/rss.xml",

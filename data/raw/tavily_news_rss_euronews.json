@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Video shows people fleeing as gunman opens fire in Kraków, Poland",
+   "url": "https://www.euronews.com/2026/11/07/video-shows-people-fleeing-as-gunman-opens-fire-in-krakow-poland",
+   "content": "UGC footage shows people running for cover as a deadly shooting unfolds in Kraków, Poland, leaving at least six people dead and around a dozen wounded, according to police.",
+   "published_date": "Sat, 07 Nov 2026 20:15:23 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "'Peace is possible and we are called to build it' Pope Leo XIV says in Uruguay",
+   "url": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
+   "content": "The Pontiff was welcomed by 40,000 people in Paysandú, Uruguay. Leo's sixth apostolic journey comes less than a month after lung adenocarcinoma surgery at Rome's Gemelli Hospital.",
+   "published_date": "Sat, 07 Nov 2026 19:15:36 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Latest news bulletin | November 7th, 2026 – Evening",
    "url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
    "content": "Catch up with the most important stories from around Europe and beyond this November 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/2026/11/06/europe-today-trump-weighs-iran-strikes-as-ukraine-talks-head-to-abu-dhabi",
    "content": "With the midterms over, attention turns to Donald Trump's next move on Iran, as US officials reportedly warn Gulf allies to prepare for new strikes. Ukraine talks head to Abu Dhabi next week. We also look at the wave of bomb threats on European flights and a new book on Emmanuel Macron.",
    "published_date": "Fri, 06 Nov 2026 08:01:47 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 6th, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Fri, 06 Nov 2026 07:00:33 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "West Bank: Palestinians harvest olives under Israeli military restrictions",
-   "url": "https://www.euronews.com/video/2026/11/05/west-bank-palestinians-harvest-olives-under-israeli-military-restrictions",
-   "content": "Palestinian farmers in the occupied West Bank have been allowed limited access to their olive groves under Israeli military restrictions. Many found damaged trees, while soldiers fired tear gas near the harvest.",
-   "published_date": "Thu, 05 Nov 2026 23:42:54 +0100",
    "score": 0.6
   }
  ],

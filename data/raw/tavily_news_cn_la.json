@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China-Laos digital payment link offers new model for cross-border transactions: AMRO - TNGlobal",
-   "url": "https://technode.global/2026/11/02/china-laos-digital-payment-link-offers-new-model-for-cross-border-transactions-amro",
-   "snippet": "The corridor is supported by growing economic ties between the two countries. China is Laos’ largest foreign investor, with cumulative investment exceeding $18 billion, while more than 1.16 million Chinese visitors travelled to Laos in 2025. The Lao-China Railway has further strengthened connectivity and tourism flows. [...] Selected enterprises are already piloting cross-border business and inves",
-   "published": "Mon, 02 Nov 2026 07:24:42 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Has China’s infrastructure investment peaked? : Global Times editorial - Global Times",
-   "url": "https://www.globaltimes.cn/page/202611/1373576.shtml",
-   "snippet": "After projects such as the China-Laos Railway and the Jakarta-Bandung High-Speed Railway entered operation, China's infrastructure know-how, equipment capacity and industry standards have increasingly been recognized as international public goods.  \n  \nOnce China's underlying infrastructure logic is understood, the \"peak\" narrative collapses of its own weight as this perception is out of touch wit",
-   "published": "Tue, 03 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Top Chinese diplomat hosts Thai, Lao, Myanmar ministers",
-   "url": "https://www.aa.com.tr/en/asia-pacific/top-chinese-diplomat-hosts-thai-lao-myanmar-ministers/4110315",
-   "snippet": "Sihasak said Thailand was willing to strengthen coordination with China on international issues, support multilateralism, and uphold the international order centered on the UN.\n\nWang told Lao Foreign Minister Thongsavanh Phomvihane that the two sides should maintain high-level exchanges, make effective use of the China-Laos Economic Corridor Cooperation Joint Committee, and accelerate the developm",
-   "published": "Tue, 03 Nov 2026 19:07:27 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_la",
  "_query": "Chinese company Laos railway investment",
  "_domains": [],

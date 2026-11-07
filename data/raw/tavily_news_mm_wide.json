@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Hurry Up With Our Investment Projects, China tells Myanmar Regime",
-   "url": "https://www.irrawaddy.com/news/myanmar-china-watch/hurry-up-with-our-investment-projects-china-tells-myanmar-regime.html",
-   "snippet": "[](  [](  [](\n\nThe planned corridor includes several flagship projects, notably the Kyaukphyu deep-sea port in Rakhine State and a railway linking Kyaukphyu through Mandalay and Muse with China’s Yunnan Province.\n\nThe Kyaukphyu Special Economic Zone and deep-sea port project is particularly important for Beijing because it would provide China with direct access to the Indian Ocean while supporting",
-   "published": "Thu, 05 Nov 2026 09:24:52 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Turning Myanmar ties into progress - Chinadaily.com.cn",
-   "url": "https://global.chinadaily.com.cn/a/202611/06/WS6aed2e4ee4b03ebf8519ab8a.html",
-   "snippet": "Regional connectivity offers another avenue for cooperation. The China-Myanmar Economic Corridor provides an important framework for strengthening bilateral economic ties and connecting markets across the region. Major projects, including the Kyaukphyu Deep-Sea Port, the Mandalay-Muse Railway and related transport and energy infrastructure, can contribute significantly to Myanmar's economic develo",
-   "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Southeast Asia Diplomacy and Regional Stability - The China-Global South Project",
-   "url": "https://chinaglobalsouth.com/2026/11/03/china-wang-yi-thailand-laos-myanmar-diplomacy",
-   "snippet": "Key Takeaways\n\n Wang Yi met separately with officials from Thailand, Laos, and Myanmar as China expands ties in Southeast Asia.\n China pledged support for Myanmar's government in achieving political reconciliation amid the ongoing civil war.\n Thailand and China agreed to boost efforts against illegal call centers, gambling and telecommunications fraud, often using trafficked workers to run phone a",
-   "published": "Tue, 03 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "mm_wide",
  "_query": "Myanmar China project",
  "_domains": [],

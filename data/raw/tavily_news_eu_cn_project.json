@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "How the EU can rescue its battery industry | Centre for European Reform",
-   "url": "https://www.cer.eu/insights/how-eu-can-rescue-its-battery-industry",
-   "snippet": "Chinese manufacturing capacity – and the speed with which it continues to expand – make it unlikely that Europe, despite its ambitions to be a clean technology leader, will be able to build enough capacity to become a net exporter of the most produced battery types in the short-term. Chinese companies such as CATL and BYD each have more manufacturing capacity than the whole of the EU combined – wi",
-   "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Why some EU and Chinese firms are keen to cooperate – even as tensions simmer | South China Morning Post",
-   "url": "https://www.scmp.com/economy/china-economy/article/3372748/why-some-eu-and-chinese-firms-are-keen-cooperate-even-tensions-simmer",
-   "snippet": "Advertisement\n\nChina-EU relations\n\nEconomyChina Economy\n\n# Why some EU and Chinese firms are keen to cooperate – even as tensions simmer\n\nSome are looking to build closer ties to offset rising American tariffs, while others simply still value EU-China trade despite growing friction\n\n4-MIN READ4-MIN\n\nListen\n\nLaszlo Botka (centre), mayor of Szeged, visits BYD’s new car factory in the Hungarian city.",
-   "published": "Sun, 01 Nov 2026 08:00:14 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China’s Push Into German Wind Sector Threatens Local Jobs and Manufacturing - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-05/german-wind-industry-seen-facing-5-6-billion-threat-from-china",
-   "snippet": "EXCLUSIVE\n\nEnergy\n\n# German Wind Industry Seen Facing €5.6 Billion Threat From China\n\n## Takeaways by Bloomberg AI\n\nChina’s push into Europe’s wind turbine sector threatens local manufacturing activity and puts regional energy systems at risk, according to a study commissioned by wind turbine maker Nordex SE. [...] In Germany alone, as much as €5.6 billion a year in manufacturing value could be lo",
-   "published": "Thu, 05 Nov 2026 12:35:21 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

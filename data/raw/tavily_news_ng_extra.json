@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "US court denies request to question Tinubu — Premium Times Nigeria | UA.NEWS",
-   "url": "https://ua.news/en/world/sud-ssha-vidkhiliv-zapit-aktivista-postaviti-zapitannia-prezidentu-tinubu-premium-times-nigeria",
-   "snippet": "A US federal court in the District of Columbia has denied a motion by US transparency activist Aaron Greenspan, who sought permission to question Nigerian President Bola Tinubu and the lobbying firm DCI Group. The request concerned alleged cyberattacks on the PlainSite legal research website in a case involving access to government records under the US Freedom of Information Act (FOIA). [...] At t",
-   "published": "Sat, 31 Oct 2026 22:32:30 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria reports two suspected Ebola cases in northeast region | Reuters",
-   "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/nigeria-reports-two-suspected-ebola-cases-northeast-region-2026-10-31",
-   "snippet": "Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up here.\n\nThe cases remain suspected and confirmation ⁠is subject to laboratory results, the post added.\n\nNigeria ​confirmed its first Ebola case in more than a ​decade last week in a Swiss woman who had travelled to Uganda and then returned to the capital Abuja in ​cen",
-   "published": "Sat, 31 Oct 2026 17:54:27 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Panel Will Weigh Nigeria's Protection of Christians | Legis1",
-   "url": "https://legis1.com/news/nigeria-christian-protection-panel-will-weigh",
-   "snippet": "In recent weeks, multiple news outlets have reported fresh violence in Nigeria. Sahara Reporters cited an Aid to the Church in Need report claiming more than 3.5 million people have been displaced in Nigeria.\n\n## The Bottom Line\n\nThe Subcommittee on Africa's hearing scheduled for November 12 will hear from five witnesses, including Frank Garcia and Riley Barnes of the U.S. Department of State.\n\nAc",
-   "published": "Fri, 06 Nov 2026 15:11:42 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],
