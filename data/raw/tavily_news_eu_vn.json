@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "EU backs Vietnam’s shift to risk-based management to unlock green investment - VnEconomy",
+   "url": "https://en.vneconomy.vn/eu-backs-vietnams-shift-to-risk-based-management-to-unlock-green-investment.htm",
+   "snippet": "VnEconomy\n\n### VnEconomy\n\nOrder Publications\n\n### Homepage\n\nNovember 05, 2026 | 10:30\n\n# EU backs Vietnam’s shift to risk-based management to unlock green investment\n\nHuyen Vy\n\n## The EU strongly supports Vietnam’s efforts to improve law enforcement and shift from pre-inspection to risk-based management, expanding opportunities for European small and medium-sized enterprises.\n\n EU backs Vietnam’s ",
+   "published": "Thu, 05 Nov 2026 10:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European firms push for stronger Vietnam trade ties",
+   "url": "https://vir.com.vn/european-firms-push-for-stronger-vietnam-trade-ties-164628.html",
+   "snippet": "EVFTA deepens Vietnam-EU relations after six years \n\n### EVFTA deepens Vietnam-EU relations after six years\n\nVietnam and Italy unlock new momentum for bilateral trade and investment \n\n### Vietnam and Italy unlock new momentum for bilateral trade and investment\n\nEuroCham Whitebook positioning Vietnam for next wave of investment \n\n### EuroCham Whitebook positioning Vietnam for next wave of investmen",
+   "published": "Fri, 06 Nov 2026 05:19:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam–EU forum to promote green growth, new value chains",
+   "url": "https://en.vietnamplus.vn/vietnameu-forum-to-explore-green-economy-new-value-chains-post354719.vnp",
+   "snippet": "The official visits by General Secretary of the Communist Party of Vietnam Central Committee and President To Lam to the European Union (EU) and Belgium reaffirmed Vietnam’s foreign policy of independence, self-reliance, multilateralisation and diversification in a new era – that of nation’s rise.\n\nBelgium’s approval of EU-Vietnam Investment Protection Agreement welcomed  \n\n## Belgium’s approval o",
+   "published": "Mon, 02 Nov 2026 23:42:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam and the EU are shaping a green economic future and new value chains.",
+   "url": "https://www.vietnam.vn/en/viet-nam-eu-dinh-hinh-tuong-lai-kinh-te-xanh-va-chuoi-gia-tri-moi",
+   "snippet": "Based on the existing cooperative relationship between the two sides, along with the leverage from the EVFTA and expectations regarding the Vietnam-EU Investment Protection Agreement (EVIPA), the Deputy Minister believes that there is still significant potential for economic, trade, and investment cooperation between Vietnam and the EU. However, to seize and realize these new opportunities, both s",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam and EU pursue new value chains",
+   "url": "https://vir.com.vn/vietnam-and-eu-pursue-new-value-chains-164424.html",
+   "snippet": "Julien Guerrier, EU Ambassador to Vietnam and Head of the EU Delegation to Vietnam, emphasised that stronger economic relations would depend on businesses translating political commitments into actual investment and commercial projects. [...] However, he also noted that significant challenges remain despite the strong foundations provided by bilateral relations and existing trade agreements, inclu",
+   "published": "Thu, 05 Nov 2026 05:02:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam, European Firms Seek to Boost Investment, Business Links",
+   "url": "https://www.ceoinsightsasia.com/news/vietnam-european-firms-seek-to-boost-investment-business-links-nwid-15020.html",
+   "snippet": "In his final comments, Dien emphasized the significant progress in Vietnam–EU relations, especially the creation of the Comprehensive Strategic Partnership and the official visit to the EU by General Secretary of the Communist Party of Vietnam Central Committee and President To Lam in October. He urged the EU–ABC, EuroCham, and their member firms to maintain their roles as facilitators for collabo",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam has the opportunity to attract high-quality investment capital from Europe.",
+   "url": "https://www.vietnam.vn/en/viet-nam-truoc-co-hoi-don-dong-von-dau-tu-chat-luong-cao-chau-au",
+   "snippet": "According to Noel Clehane, Vice President of EU-ABC, Vietnam has built a significant manufacturing and export base, creating an advantage in attracting investment from European corporations. However, in the context of restructuring global supply chains, the important goal is not only to attract more investment but also to improve the quality and value that investments bring. [...] You may also lik",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Cyprus and Vietnam explore new opportunities for trade, investment and technological cooperation",
+   "url": "https://www.cbn.com.cy/article/135738/cyprus-and-vietnam-explore-new-opportunities-for-trade-investment-and-technological-cooperation",
+   "snippet": "He referred to Vietnam's dynamic economic development and its growing role in international supply chains, while underlining Cyprus' position as a business and investment hub offering access to the European market. He also stressed the importance of making effective use of the EU–Vietnam Free Trade Agreement to translate the existing institutional framework into tangible commercial opportunities. ",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam welcomes 19.5 million international visitors in 10 months",
+   "url": "https://vir.com.vn/vietnam-welcomes-195-million-international-visitors-in-10-months-164407.html",
+   "snippet": "By Thai An\n\nWhat the stars mean:\n\n★ Poor ★ ★ Promising ★★★ Good ★★★★ Very good ★★★★★ Exceptional\n\nTagTag:\n\ninternational visitors Vietnam\n\n## Related Contents\n\nRussia and Vietnam expand cooperation on nuclear energy \n\n### Russia and Vietnam expand cooperation on nuclear energy\n\nShifting from attracting capital to building national investment platform \n\n### Shifting from attracting capital to build",
+   "published": "Wed, 04 Nov 2026 10:00:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_vn",
  "_query": "EU Vietnam investment",
  "_domains": [],

@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "PH-EU trade agreement: What’s in it for the Philippines? | Metrobank Wealth Insights",
+   "url": "https://wealthinsights.metrobank.com.ph/analysis/ph-eu-fta-economic-impact",
+   "snippet": "It has been about a decade since the Philippines (PH) and the European Union (EU) began talks for a Free Trade Agreement (FTA) to ease barriers to trade and investment.    \n  \nIn late September 2026, European Commissioner for Trade and Economic Security Maroš Šefčovič and Philippine Trade Secretary Ma. Christina Roque announced that both parties reached “substantial progress” in negotiations.\n\nOne",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "bne IntelliNews - Italy's Meloni says EU \"all over the place\" on Ukraine as US, Russia talk security",
+   "url": "https://www.intellinews.com/italy-s-meloni-says-eu-all-over-the-place-on-ukraine-as-us-russia-talk-security-482791",
+   "snippet": "img\n\nChina tightens the noose around Taiwan\n\nimg\n\nEl Niño threatens inflation more than growth with the Philippines most exposed - Capital Economics\n\nimg\n\nThailand's rice exports to ASEAN double as demand rises\n\nimg\n\nPhilippines, Pakistan, Japan fight energy-driven inflation - IntelliNews Lambda\n\nimg\n\nSingapore's OCBC lifts 2026 outlook as profit beats forecasts\n\nimg\n\nSingapore firms' overseas inv",
+   "published": "Sat, 07 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU-UK Security and Defence dialogue | EEAS",
+   "url": "https://www.eeas.europa.eu/eeas/eu-uk-security-and-defence-dialogue_en",
+   "snippet": "8/8 Pictures\n\nEU-UK Security and Defence dialogue: Joint doorstep by High Representative/Vice-President Kaja Kallas and UK Secretary of State for Defence Wes Streeting\n\nFor more information, read here: EU-UK Security and Defence dialogue [...] EEAS \n\nThe Diplomatic Service of the European Union\n\n## Breadcrumb\n\n1. EEAS\n2. EU-UK Security and Defence dialogue\n\n# EU-UK Security and Defence dialogue\n\n0",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and Energy Community ministerial meeting: Regional cooperation on energy security urgently needed",
+   "url": "https://balkangreenenergynews.com/eu-and-energy-community-ministerial-meeting-regional-cooperation-on-energy-security-urgently-needed",
+   "snippet": "European Commissioner for Energy and Housing Dan Jørgensen said that high energy prices were a clear signal of the financial, security, and strategic cost of EU dependence on polluting fossil fuel imports. [...] Published November 6, 2026\n\nUpdate November 6, 2026\n\nCountry\n\nRegion/EU\n\nAuthor Balkan Green Energy News\n\nComments\n\n0\n\nShare\n\n## Tags:\n\nAdmir Šahmanović Ante Šušnjar Artur Lorkowski Dan Jø",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU tying enlargement to strategic alignment puts Serbia, Georgia and Turkey in a tight spot | Euronews",
+   "url": "https://www.euronews.com/2026/11/04/eu-tying-enlargement-to-strategic-alignment-puts-serbia-georgia-and-turkey-in-a-tight-spot",
+   "snippet": "“Common security and defence policy has become an increasingly important dimension in the accession process,” a senior EU official told reporters. “Particularly in the context we are at the moment, we believe that candidate countries already contribute to the Union's security.” [...] ## Turkey\n\nFor the Commission, Turkey is another clear case of democratic backsliding, and the only candidate where",
+   "published": "Wed, 04 Nov 2026 13:56:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy | Politics | kten.com",
+   "url": "https://www.kten.com/news/politics/trump-teases-big-beautiful-european-security-deal-after-meeting-putin-envoy/article_7d5bed22-df1d-5c1d-b8f5-f72c4089623c.html",
+   "snippet": "Trump’s son-in-law Jared Kushner also on Thursday posted a statement on X, arguing that “a broader European security architecture” was needed in order to ” address the security concerns of all sides, reduce the risk of future conflict, and create a more stable and predictable security environment.” [...] It is unclear if Trump spoke to any other European leaders.\n\nMeanwhile, NATO Spokesperson Alli",
+   "published": "Fri, 06 Nov 2026 14:35:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

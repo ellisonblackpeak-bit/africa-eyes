@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Ebola: Why is there still no vaccine?",
+   "url": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-world-4025-rdf",
+   "content": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New research raises hopes of protection against the various types of Ebola.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Armenia's selective prosecution: A threat to EU relations?",
    "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-world-4025-rdf",
    "content": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU's pragmatic stance risk repeating past mistakes?",
@@ -82,13 +89,6 @@
    "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
    "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf",
    "content": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Zambia's opposition criticizes government restructuring and layoffs",
-   "url": "https://www.dw.com/en/zambia-s-opposition-criticizes-government-restructuring-and-layoffs/a-79875892?maca=en-rss-en-world-4025-rdf",
-   "content": "Government-backed dismissals and restructuring are fueling debate in Zambia. Opposition politicians are questioning the transparency of the plans; officials say the changes are necessary.",
    "published_date": "",
    "score": 0.6
   }

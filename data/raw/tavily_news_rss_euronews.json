@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+   "url": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
+   "content": "Footage shows people fleeing as cars speed away during a deadly shooting at Krakow's Main Market Square, which left six people dead and about 15 injured.",
+   "published_date": "Sat, 07 Nov 2026 23:10:08 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+   "url": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+   "content": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
+   "published_date": "Sat, 07 Nov 2026 22:45:27 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Video shows people fleeing as gunman opens fire in Kraków, Poland",
    "url": "https://www.euronews.com/2026/11/07/video-shows-people-fleeing-as-gunman-opens-fire-in-krakow-poland",
    "content": "UGC footage shows people running for cover as a deadly shooting unfolds in Kraków, Poland, leaving at least six people dead and around a dozen wounded, according to police.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/2026/11/06/grizzly-bear-hunt-underway-after-mother-and-daughter-killed-in-canada",
    "content": "A mother and her daughter have been found dead following a suspected bear attack near Bella Coola, in British Columbia. Conservation officers say multiple grizzlies may have been involved, with trapping efforts underway. Authorities have imposed a curfew as the investigation continues.",
    "published_date": "Fri, 06 Nov 2026 10:00:15 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Paraguay: Thousands protest banking scandal as president faces impeachment",
-   "url": "https://www.euronews.com/video/2026/11/06/paraguay-thousands-protest-banking-scandal-as-president-faces-impeachment",
-   "content": "Thousands of Paraguayans have taken to the streets over a banking scandal that has left nearly half the population without access to their savings. Protesters are demanding President Santiago Peña face impeachment despite his offer to resign.",
-   "published_date": "Fri, 06 Nov 2026 09:06:58 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Europe Today: Trump weighs Iran strikes as Ukraine talks head to Abu Dhabi",
-   "url": "https://www.euronews.com/2026/11/06/europe-today-trump-weighs-iran-strikes-as-ukraine-talks-head-to-abu-dhabi",
-   "content": "With the midterms over, attention turns to Donald Trump's next move on Iran, as US officials reportedly warn Gulf allies to prepare for new strikes. Ukraine talks head to Abu Dhabi next week. We also look at the wave of bomb threats on European flights and a new book on Emmanuel Macron.",
-   "published_date": "Fri, 06 Nov 2026 08:01:47 +0100",
    "score": 0.6
   }
  ],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "India, EU Discuss FTA Implementation & Trade Facilitation: Rediff Moneynews",
+   "url": "https://money.rediff.com/news/market/india-eu-discuss-fta-implementation-trade-facilitation/57340020261102",
+   "snippet": "Nov 02, 2026 11:57\n\nIndia and the EU discussed key implementation issues for their Free Trade Agreement, focusing on customs cooperation, trade facilitation, and the diamond industry.\n\nIndia, EU Discuss FTA Implementation & Trade Facilitation\n\nPhotograph: DPR PMO/ANI Photo\n\n### Key Points [...] SEE: 'Varun is a big threat in the game'\n\nIndia, New Zealand Expedite Free Trade Agreement Implementatio",
+   "published": "Mon, 02 Nov 2026 11:57:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Making the India-EU trade deal work for Tiruppur and Moradabad | Hindustan Times",
+   "url": "https://www.hindustantimes.com/ht-insight/international-affairs/making-the-india-eu-trade-deal-work-for-tiruppur-and-moradabad-101793965820163.html",
+   "snippet": "This article is authored by Komal Karwa, public policy researcher, Policy, Politics and Governance Foundation (PPGF) and South Asia Monitor.\n\nrecommendedIcon\n\n Ursula Von Der Leyen\n Narendra Modi\n India Eu Trade Deal\n\nHome/Ht Insight/International Affairs/Making The India-EU Trade Deal Work For Tiruppur And Moradabad\n\nHome/Ht Insight/International Affairs/Making The India-EU Trade Deal Work For Ti",
+   "published": "Fri, 06 Nov 2026 11:53:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU trade deal could add €119 billion by 2035. Can Indian exporters seize the opportunity?",
+   "url": "https://www.firstpost.com/business/india-eu-trade-deal-119-billion-by-2035-indian-exporters-europe-14058339.html",
+   "snippet": "India's free trade agreement (FTA) with the European Union could generate up to €119 billion in additional trade by 2035. For Indian exporters, the agreement offers an opportunity to enter new markets, compete with established suppliers and become a bigger part of European manufacturing and supply chains. [...] ## What does the €119 billion estimate mean?\n\nThe €119 billion estimate comes from a Ma",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India, EU discuss free trade agreement implementation issues - The Tribune",
+   "url": "https://www.tribuneindia.com/news/india/india-eu-discuss-free-trade-agreement-implementation-issues",
+   "snippet": "Advertisement\n\nAgrawal met with Ditte Juul Jorgensen from the Directorate-General for Trade and Economic Security; Koen Doens from the Directorate-General for International Partnerships; and Gerassimos Thomas from the Directorate-General for Taxation and Customs Union, European Commission.\n\nAdvertisement\n\nThe meetings, according to the commerce ministry, focused on customs cooperation, trade facil",
+   "published": "Mon, 02 Nov 2026 06:37:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU Free Trade Agreement: A Game Changer for Lithuanian Companies, ETBFSI",
+   "url": "https://bfsi.economictimes.indiatimes.com/articles/india-eu-fta-to-be-game-changer-lithuanian-firms-eye-opportunities-in-electronics-lasers-fintech-envoy-mickeviien/135490755",
+   "snippet": "ANI\n\n Published On Nov 3, 2026 at 02:50 PM IST\n\n See more on:\n India-EU Free Trade Agreement,\n Lithuanian Ambassador to India,\n Diana Mickevičienė,\n Smart manufacturing in India,\n India EU Trade and Technology Council,\n industry\n\n + Telegram\n  + Facebook\n  + Copy Link\n\n## Comments\n\ncomment\n\nWhat are your thoughts?\n\nComment Now Read Comment (1)\n\n## All Comments\n\nBy commenting, you agree to the Proh",
+   "published": "Tue, 03 Nov 2026 09:20:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe's climate tax risks opening a new trade war with India at COP31 | Euronews",
+   "url": "https://www.euronews.com/2026/11/06/europes-climate-tax-risks-opening-a-new-trade-war-with-india-at-cop31",
+   "snippet": "The COP31 kicks off on 9 November in Antalya, jointly hosted by Turkey and Australia.\n\n## Read more\n\n### Canadian minister stops short of endorsing EU carbon tax as energy alliance deepens\n\n### US probes EU carbon border tax over potential trade barriers\n\n### EU's carbon border tax on heavy industry goods goes into effect risking trade escalation\n\n## Top stories [...] “To reduce barriers to trade,",
+   "published": "Fri, 06 Nov 2026 09:58:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and India conclude negotiations on association to Horizon Europe to push innovation ties - The Economic Times",
+   "url": "https://m.economictimes.com/news/economy/foreign-trade/eu-and-india-conclude-negotiations-on-association-to-horizon-europe-to-push-innovation-ties/articleshow/135611805.cms",
+   "snippet": "The problem with lab grown diamonds\n Why a falling rupee is a better option for the economy\n\n  Why a falling rupee is a better option for the economy\n\n  A list of top 20 momentum stocks that have delivered massive returns in one year\n\n  A list of top 20 momentum stocks that have delivered massive returns in one year\n\n## 2Invest Wisely With Smart Market Tools & Investment Ideas\n\nAlpha Trade\n\nAlpha ",
+   "published": "Fri, 06 Nov 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India-EU trade pact to deepen corporate cooperation: Menander",
+   "url": "https://www.awazthevoice.in/business-news/india-eu-trade-pact-to-deepen-corporate-cooperation-menander-70379.html",
+   "snippet": "Speaking to ANI on the sidelines of the Bharat RE Summit and Expo 2026, Menander stated that the trade pact will provide institutional backing to ongoing commercial and scientific engagements between Indian and Swedish enterprises.\n\n\"India–EU FTA, I think it will help in all different ways because it will simplify cooperation between our companies,\" Menander said.\n\nShe noted that the framework wil",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The EU and India have finalized negotiations on the Horizon Europe program.",
+   "url": "https://www.vietnam.vn/en/eu-va-an-do-hoan-tat-dam-phan-ve-chuong-trinh-horizon-europe",
+   "snippet": "Bangladesh and Russia sign agreement to boost trade.\n\n### Bangladesh and Russia sign agreement to boost trade.\n\nBáo Giáo dục và Thời đại\nmột giờ trước\n\nVelayati's advisor: Iran will break the US President's legs.\n\n### Velayati's advisor: Iran will break the US President's legs.\n\nBáo Giáo dục và Thời đại\nmột giờ trước\n\nPresident Putin confirmed the date for trilateral talks on Ukraine.\n\n### Preside",
+   "published": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and India conclude Horizon Europe association talks, targeting January 2027 – INSIGHT EU MONITORING",
+   "url": "https://ieu-monitoring.com/editorial/eu-and-india-conclude-horizon-europe-association-talks-targeting-january-2027/1254096",
+   "snippet": "The partnership has been strengthened through the EU–India Trade and Technology Council, which facilitates collaboration on key digital areas such as artificial intelligence, digital public infrastructure, semiconductors, high-performance computing, digital skills and the sixth generation of wireless telecommunications. [...] The European Commission and India have successfully concluded negotiatio",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_in",
  "_query": "EU India trade",
  "_domains": [],
