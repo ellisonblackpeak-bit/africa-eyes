@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China’s Rare Earth Appetite Could Leave the Rest of Us Hungry - InvestorNews",
-   "url": "https://investornews.com/critical-minerals-rare-earths/chinas-rare-earth-appetite-could-leave-the-rest-of-us-hungry",
-   "snippet": "We must also distinguish China’s domestic consumption of rare earth materials from its domestic consumption of the finished products containing them. A magnet manufactured in China for installation in an electric vehicle exported to Europe represents Chinese industrial demand for rare earth materials, even though the vehicle is ultimately purchased and used outside China. [...] The economic conseq",
-   "published": "Fri, 06 Nov 2026 14:53:57 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe’s China Auto Deal | Council on Foreign Relations",
-   "url": "https://www.cfr.org/articles/europes-china-auto-deal",
-   "snippet": "China appears to have concluded that it prefers a guaranteed market for a limited number of cars (and more or less guaranteed profits) to the risk of a prohibitive tariff that would cut off all its exports.\n\nAnd Europe preferred a negotiated deal to the risk of retaliation and a slowdown in licensing rare earth and magnet exports.\n\nThe Commission also thinks of this as a bit of a model—more on tha",
-   "published": "Mon, 02 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-   "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-   "snippet": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_cn_rare",
  "_query": "Europe rare earth China",
  "_domains": [],

@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Normalisation Without Trust: The Security Limits of India’s China Reset",
+   "url": "https://www.orfonline.org/expert-speak/normalisation-without-trust-the-security-limits-of-india-s-china-reset",
+   "snippet": "behind it allows automatic-route investment where land-border shareholders hold up to 10 percent without control, and sets a 60-day timeline for specified manufacturing sectors, such as capital goods, electronic components, and polysilicon. Entities incorporated in China or Hong Kong remain excluded, and the press note itself says an entity or citizen of a land-border country “can invest only unde",
+   "published": "Thu, 05 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BOOSTING INDIA-CHINA RELATIONS Uday Kotak ...",
+   "url": "https://www.facebook.com/cnbctv18india/posts/boosting-india-china-relationsuday-kotak-founder-director-of-kotak-mahindra-bank/1640648291429263",
+   "snippet": "Many foreign companies, including those from the US, investing in India packed up after a few years after encountering all sorts of hurdles, irritants and",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "China Daily's post",
+   "url": "https://www.facebook.com/chinadaily/posts/chinese-enterprises-operating-across-borders-are-expected-to-face-more-regulated/1602192275271678",
+   "snippet": "Chinese enterprises operating across borders are expected to face more regulated management, with a draft law requiring them to establish integrity",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_in",
  "_query": "Chinese company India investment border",
  "_domains": [],
