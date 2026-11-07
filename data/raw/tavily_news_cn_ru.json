@@ -1,21 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "China, Canada eye deeper energy, trade cooperation - Chinadaily.com.cn",
-   "url": "https://global.chinadaily.com.cn/a/202611/05/WS6aebf490e4b03ebf8519a7b5.html",
-   "snippet": "During the 29th meeting of the China-Canada Joint Economic and Trade Commission in Beijing on Tuesday, co-chaired by Wang and Canadian Minister of International Trade Maninder Sidhu, the Chinese commerce minister also called for expanding cooperation in emerging sectors, including new materials, advanced manufacturing, clean energy and smart agriculture. [...] China is willing to deepen cooperatio",
-   "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How China Accidentally Broke the West’s Monopoly Over the Weapons Trade - CounterPunch.org",
-   "url": "https://www.counterpunch.org?p=439628",
-   "snippet": "China’s centrality in the global arms market has created issues for US security interests elsewhere. North Korea, for example, has expanded arms cooperation with Russia while maintaining extensive trade with China, offering Pyongyang the means to sustain and upgrade its own weapons production. [...] As Russia has intensified its attacks on Ukraine’s energy infrastructure in recent months, the depl",
-   "published": "Fri, 06 Nov 2026 06:49:59 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],

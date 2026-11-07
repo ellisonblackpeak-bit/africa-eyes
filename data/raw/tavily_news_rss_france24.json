@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
+   "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
+   "content": "Far-left presidential candidate Jean-Luc Mélenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonetheless beloved among France's youth, who are drawn to his progressive policy proposals and say he empowers them to get more involved in politics.",
+   "published_date": "Sat, 07 Nov 2026 10:44:34 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Pope urges healthcare for all in Uruguay",
+   "url": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
+   "content": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the continent’s most secular country. Jack Pownall reports.",
+   "published_date": "Sat, 07 Nov 2026 09:41:23 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "AI Data centres face growing backlash",
+   "url": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
+   "content": "Democrats are also calling for tighter regulation of AI data centres, a concern shared across Europe. In Amsterdam, several hundred activists occupied the site of a planned Microsoft data centre as part of a two-day protest taking place across the continent. Jennie Shin reports.",
+   "published_date": "Sat, 07 Nov 2026 09:39:55 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yemen: 30 dead in strikes on Taiz market",
+   "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+   "content": "At least 30 people have reportedly been killed in an attack on a market in Yemen’s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authorities have disputed the claim, instead accusing the Houthis of indiscriminate fire. The province has witnessed intense clashes in recent weeks and is home to around half of the more than 300,000 people displaced by the latest fighting. Caroline Baum reports.",
+   "published_date": "Sat, 07 Nov 2026 09:37:16 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "USA: Democrats vow to investigate Donald Trump",
+   "url": "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
+   "content": "In this new era of divided government, Democratic lawmakers say their priorities will be tackling the rising cost of living, investigating alleged corruption and tightening oversight of ICE agents. Antonia Kerrigan reports.",
+   "published_date": "Sat, 07 Nov 2026 09:36:25 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
    "url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
    "content": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a ban by authorities. The demonstrations follow weeks of youth-led unrest and nationwide strikes that drew hundreds of thousands of workers protesting over the rising cost of living. Follow our liveblog for the latest updates.",
@@ -9,17 +44,24 @@
    "score": 0.6
   },
   {
-   "title": "Russia strikes Kyiv and surrounding region in massive overnight strike",
+   "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
    "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
-   "content": "Moscow ⁠carried out missile ​strikes on Kyiv overnight Friday to Saturday, targeting energy infrastructure and killing at least one person while injuring eight, authorities said. A trilateral meeting between Russia, Ukraine and the US is scheduled to ⁠take place next week in Abu Dhabi for a new round of negotiations aimed at ending the war.",
+   "content": "Moscow ⁠carried out missile ​and drone attacks on Kyiv and the surrounding region overnight Friday to Saturday, targeting energy infrastructure and killing at least one person while wounding eight, authorities said. Russia recently stepped up air strikes on ​Ukraine, worsening living conditions for residents who have limited access to power and water.",
    "published_date": "Sat, 07 Nov 2026 08:08:44 GMT",
    "score": 0.6
   },
   {
-   "title": "Ousted Paraguay president under house arrest after bank collapse",
+   "title": "Paraguay places ousted president Peña under house arrest after bank collapse",
    "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
    "content": "Paraguayan authorities placed ousted president Santiago Peña under house arrest on Friday, shortly after the Senate unanimously removed him from office over a massive banking crisis that locked nearly half of Paraguayans out of their savings. Peña offered his resignation over the scandal, but lawmakers pressed ahead with impeachment proceedings that stripped him of political immunity.",
    "published_date": "Sat, 07 Nov 2026 06:18:38 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Giant pandas loaned by China make their public debut at US zoo",
+   "url": "https://www.france24.com/en/americas/20261107-giant-pandas-loaned-by-china-make-public-debut-at-us-zoo",
+   "content": "Zoo-goers watched two giant pandas loaned by China make their public debut Friday in Atlanta, where they will be hosted for the next 10 years. The pair joins the many pandas shipped to zoos around the world as part of Beijing's \"panda diplomacy\" program aimed at cultivating foreign ties.",
+   "published_date": "Sat, 07 Nov 2026 02:45:56 GMT",
    "score": 0.6
   },
   {
@@ -37,9 +79,9 @@
    "score": 0.6
   },
   {
-   "title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
+   "title": "Pope Leo calls for healthcare to be 'accessible for all' during Uruguay visit",
    "url": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
-   "content": "Pope Leo touched down in Uruguay on Friday to begin a 12-day tour of South America that will also see him visit Argentina and Peru. The tour is seen as something of a homecoming for the pontiff who lived in Peru for almost two decades and holds joint US and Peruvian citizenship.",
+   "content": "Pope Leo XIV on Friday called for healthcare to be \"accessible to all\" as he began a visit to Uruguay just three weeks after having undergone lung surgery. The 12-day tour of South America, which will also include stops in Argentina and Peru, is seen as something of a homecoming for the pontiff, who lived in Peru for almost two decades and holds joint US and Peruvian citizenship.",
    "published_date": "Fri, 06 Nov 2026 21:14:49 GMT",
    "score": 0.6
   },
@@ -125,48 +167,6 @@
    "url": "https://www.france24.com/en/environment/20261106-turkey-to-push-for-electrification-drive-at-cop31-as-climate-threats-mount",
    "content": "COP31 host Turkey is set to push for a \"electrification\" drive to help meet global elergy demand as the UN climate conference kicks off in Antalya on Monday. The annual summit takes place this year under the shadow of a cost-of-living crisis fuelled by the war in the Middle East.",
    "published_date": "Fri, 06 Nov 2026 15:36:34 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "China keeps a close eye on US midterm shake-up",
-   "url": "https://www.france24.com/en/tv-shows/access-asia/20261106-china-keeps-a-close-eye-on-us-midterm-shake-up",
-   "content": "The US midterm elections have resulted in the Democratic Party taking control of both chambers of the US Congress, leaving Donald Trump as a lame duck president for the remainder of his term. Professor Steve Tsang of the SOAS China Institute tells FRANCE 24 that, while a weakened Trump could strengthen Beijing's negotiating position, the Chinese leadership is aware that Congress has relatively little sway over foreign policy and is keen to maintain warm personal ties between the two presidents.",
-   "published_date": "Fri, 06 Nov 2026 15:03:23 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Pope Leo embarks on Latin America trip with a first stop in Uruguay",
-   "url": "https://www.france24.com/en/video/20261106-pope-leo-embarks-on-latin-america-trip-with-a-first-stop-in-uruguay",
-   "content": "Pope Leo XIV is kicking off a three-nation tour of Latin America on Friday, November 6, with a visit to Uruguay, the region’s least Catholic and most secular country, three weeks after undergoing lung cancer surgery that had put the entire trip into question. After Uruguay, he will then go to Argentina and Peru. FRANCE 24's Hanna Roberts has more.",
-   "published_date": "Fri, 06 Nov 2026 14:58:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "California governor to grant clemency to all 548 death row inmates in state",
-   "url": "https://www.france24.com/en/video/20261106-california-governor-to-grant-clemency-to-all-548-death-row-inmates-in-state",
-   "content": "California's governor Gavy Newsom announced Thursday that he will commute all death sentences in the state to life without the possibility of parole. He said that \"capital punishment is morally wrong.\" The state Supreme Court will have the final say in hundreds of those cases.",
-   "published_date": "Fri, 06 Nov 2026 14:54:44 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "The women who rode the blue wave",
-   "url": "https://www.france24.com/en/tv-shows/the-51/20261106-the-women-who-rode-the-blue-wave",
-   "content": "In this edition, we report on how the US midterms, which saw the Democrats make massive gains, also marked a series of historic firsts for women. Also the dark side to Bangkok's booming fertility industry, which attracts thousands of foreign patients seeking assistance from the Thai capital's state-of-the-art private clinics. Plus how an impoverished neighbourhood in El Salvador, once a no-go zone plagued by gang violence, is being transformed by women into a vibrant canvas for street art.",
-   "published_date": "Fri, 06 Nov 2026 14:15:28 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Too early to draw conclusions' as bomb threat hoaxes target European countries",
-   "url": "https://www.france24.com/en/video/20261106-too-early-to-draw-conclusions-as-bomb-threat-hoaxes-target-european-countries",
-   "content": "Several Irish media outlets reported receiving bomb threats on Friday as a wave of hoax alerts that had so far mainly targeted airlines continued across Europe, with more than a dozen new flights affected. No explosives have been found in any of the incidents so far. European authorities are scrambling to identify the sources of the threats, as FRANCE 24's Brussels correspondent Dave Keating reports.",
-   "published_date": "Fri, 06 Nov 2026 13:48:11 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Paraguay's Peña offers resignation amid banking scandal, protests",
-   "url": "https://www.france24.com/en/video/20261106-paraguay-s-pe%C3%B1a-offers-resignation-amid-banking-scandal-protests",
-   "content": "Paraguayan President Santiago Peña submitted his resignation on Thursday, but Congress put it on hold as impeachment proceedings against him move forward. Peña is facing impeachment over a banking scandal that has affected millions of people and sparked protests, with thousands taking to the streets in recent days.",
-   "published_date": "Fri, 06 Nov 2026 13:45:58 GMT",
    "score": 0.6
   }
  ],

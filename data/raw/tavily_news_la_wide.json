@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Thailand pushes Laos-China rail connections as regional trade expands",
-   "url": "https://www.nationthailand.com/news/asean/40073218",
-   "snippet": "The Ministry of Transport intends to expand the double-track railway network and Thai-Chinese high-speed rail system alongside freight transfer facilities and a new railway bridge across the Mekong River.\n\nThe projects are intended to connect freight movements from Laem Chabang and Map Ta Phut ports through northeastern Thailand to Laos and China, reducing logistics costs and improving the country",
-   "published": "Sat, 07 Nov 2026 02:56:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Strategic Implications of the New China-Laos Military Facility - The China-Global South Project",
-   "url": "https://chinaglobalsouth.com/analysis/the-strategic-implications-of-the-new-china-laos-military-facility",
-   "snippet": "Over the past two decades, Laos’ economic dependence on China has also deepened, and due to the construction of several Chinese-funded infrastructure projects, most notably a high-speed railway, Vientiane now finds itself deeply in debt to Beijing. The Ban Keun facility suggests that China may be leveraging its economic power to advance its security interests in Laos. [...] Aside from the prospect",
-   "published": "Mon, 02 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China’s Slow Trains: A Journey Through Its “Moving Markets”",
-   "url": "https://www.theworldofchinese.com/2026/11/slow-ride-china-moving-markets",
-   "snippet": "Huang had visited the day before, only to find the station closed. She later learned that heavy rains had limited the train to just three days of operation in June. Monday marked its first run in July.\n\nRead more about train travel in China and beyond:\n\n Green Train Blues\n All Aboard the Yunnan Express\n Riding the Laos-China Railway [...] In recent years, railway authorities have also upgraded the",
-   "published": "Mon, 02 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "la_wide",
  "_query": "Laos China railway",
  "_domains": [],

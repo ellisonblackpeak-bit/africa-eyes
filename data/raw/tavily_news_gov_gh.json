@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Ghana Reaffirms Commitment to Press Freedom as MFWA Launches Journalist Safety Policy - TechAfrica News",
-   "url": "https://techafricanews.com/2026/11/03/ghana-press-freedom-mfwa-launches-journalist-safety-policy",
-   "snippet": "F\n\n E\n\nThe policy is designed to provide media organisations with a framework for protecting journalists against physical, digital, legal and psychological threats.\n\nGhana’s Minister for Communication, Digital Technology and Innovations, Samuel Nartey George, has reaffirmed the government’s commitment to protecting press freedom and holding individuals accountable for attacks against journalists, ",
-   "published": "Tue, 03 Nov 2026 07:30:23 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How Ghana’s new license to sell sustainable timber improves institutions & collaboration (analysis)",
-   "url": "https://news.mongabay.com/2026/11/how-ghanas-new-license-to-sell-sustainable-timber-improves-institutions-collaboration-analysis",
-   "snippet": "Whether or not other nations follow Ghana’s lead to their own FLEGT licenses, the process changed the way the nation’s forest sector makes policy, regulates timber, verifies legality and brings government, industry and civil society into the same governance system. Those changes now exist within Ghana’s national institutions, and in my view, this represents the most important legacy of the process",
-   "published": "Thu, 05 Nov 2026 14:16:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "2027 Budget: What Ghanaian Businesses Want from Government | PM Business with George Wiafe (5-11-26)",
-   "url": "https://www.modernghana.com/videonews/joynews/2/748658",
-   "snippet": "2027 Budget: What Ghanaian Businesses Want from Government | PM Business with George Wiafe (5-11-26)",
-   "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "gov_gh",
  "_query": "Ghana government policy",
  "_domains": [],

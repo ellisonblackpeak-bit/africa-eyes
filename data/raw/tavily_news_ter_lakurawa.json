@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "LAKURAWA TERRORISTS REPORTEDLY MOVING TOWARD MABURYA VILLAGE AS 21 COMMUNITIES FLEE ATTACKS IN NIGER STATE - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/11/lakurawa-terrorists-reportedly-moving-toward-maburya-village-as-21-communities-flee-attacks-in-niger-state",
-   "snippet": "X\n\nVimeo\n\nYoutube\n\nTruth NigeriaDiscover the Truth about Nigeria\n\n Home\n Breaking\n Featured\n Finance\n In-Depth\n Opinion\n Politics\n Arts and Culture\n About Us\n\nHomeSecurity AlertsLAKURAWA TERRORISTS REPORTEDLY MOVING TOWARD MABURYA VILLAGE AS 21 COMMUNITIES FLEE ATTACKS...\n\nSecurity Alerts\n\n# LAKURAWA TERRORISTS REPORTEDLY MOVING TOWARD MABURYA VILLAGE AS 21 COMMUNITIES FLEE ATTACKS IN NIGER STATE\n",
-   "published": "Wed, 04 Nov 2026 23:48:43 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nearly 100 Police Officers Lost in Ten Months: Nigeria's Frontline Is Bleeding ‎",
-   "url": "https://www.modernghana.com/news/1541874/nearly-100-police-officers-lost-in-ten-months.html",
-   "snippet": "At least 98 police officers were killed in 21 states between January and October 2026. Bandits, gunmen and terrorists caused most of the deaths.\n\nWho is killing them  \nBandits killed 35 officers, gunmen 29 and Boko Haram insurgents 22, while Lakurawa terrorists killed two. Other deaths came from road accidents, hit-and-run incidents, kidnappers and thugs. A few officers were also shot dead by coll",
-   "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Troops kill two Arab fighters, ISWAP leaders in Borno – Businessday NG",
-   "url": "https://businessday.ng/news/article/troops-kill-two-arab-fighters-iswap-leaders-in-borno",
-   "snippet": "NCDC targets November 13 to complete monitoring of 62 Ebola contacts\n\n### NCDC targets November 13 to complete monitoring of 62 Ebola contacts\n\nTelcos face 110 percent diesel cost surge, invest N4trn in two years –  ALTON\n\n### Telcos face 110 percent diesel cost surge, invest N4trn in two years – ALTON\n\nAdvertisement\n\n## Download the BusinessDay App\n\nQR code to download the BusinessDay app\n\nScan t",
-   "published": "Tue, 03 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ter_lakurawa",
  "_query": "Lakurawa Nigeria",
  "_domains": [],

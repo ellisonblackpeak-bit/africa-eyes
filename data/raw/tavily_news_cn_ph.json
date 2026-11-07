@@ -1,28 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "India Philippines BrahMos Missile Deal Expands - The China-Global South Project",
-   "url": "https://chinaglobalsouth.com/2026/11/07/india-philippines-brahmos-missile-deal-china-south-china-sea",
-   "snippet": "As India and the Philippines held their first-ever joint naval exercise in the South China Sea on August 3–4, Chinese social media lit up not with surprise, but with sarcasm. The timing was key: ...\n\n## What is The China-Global South Project?\n\n#### Independent\n\nThe China-Global South Project is passionately independent, non-partisan and does not advocate for any country, company or culture.\n\n#### ",
-   "published": "Sat, 07 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Philippines’ project budget allocations spur accusations of pork barrel politics | South China Morning Post",
-   "url": "https://www.scmp.com/week-asia/politics/article/3373450/philippines-project-budget-allocations-spur-accusations-pork-barrel-politics",
-   "snippet": "A road project with coordinates pointing to Nigeria. A government building apparently located in the Sahara Desert. Another road mapped to a sea near Brunei.\n\nThese are among the unlikely locations listed for infrastructure projects in the Philippines’ proposed 2027 national budget, according to independent watchdogs that have discovered the discrepancies, highlighting problems with government tra",
-   "published": "Fri, 06 Nov 2026 02:30:08 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Construction of Chinese HTGR begins - World Nuclear News",
-   "url": "https://www.world-nuclear-news.org/articles/construction-of-chinese-htgr-begins",
-   "snippet": "CNNC said the project is planned to be implemented through direct procurement, with specialised nuclear power engineering subsidiary CNNC Energy Technology Company Ltd entrusted with the high-temperature reactor design, equipment and material procurement and delivery, certification support, construction technical support, commissioning support, equipment training, and related project management. C",
-   "published": "Fri, 06 Nov 2026 12:47:01 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],
