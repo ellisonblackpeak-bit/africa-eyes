@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+   "url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+   "content": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its attacks as winter approaches, leaving residents in Kyiv and other parts of the country struggling with power cuts as temperatures continue to drop. Clemence Waller reports.",
+   "published_date": "Sun, 08 Nov 2026 16:59:42 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Gadi Eisenkot receives mandate to form government",
+   "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+   "content": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now has up to six weeks to negotiate with potential coalition partners and secure a parliamentary majority. While an alliance with Arab Israeli parties appears to be the easiest option mathematically, it remains politically sensitive. Eisenkot must now navigate difficult negotiations to build a coalition capable of replacing Benjamin Netanyahu. Noga Tarnopolsky reports from Jerusalem.",
+   "published_date": "Sun, 08 Nov 2026 16:58:11 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+   "url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+   "content": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks back at some of the week's most striking images.",
+   "published_date": "Sun, 08 Nov 2026 16:21:34 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US voters reject AI data centres: could the backlash spread to France?",
+   "url": "https://www.france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france",
+   "content": "In Tuesday’s US midterm elections, voters weighed in on more than 40 local measures on data centres, and sided against them in all but one. With Democrats taking control of Congress in January and new governors in Texas and Georgia calling for moratoriums, the AI building boom faces its toughest political test yet.",
+   "published_date": "Sun, 08 Nov 2026 14:36:25 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Yemen's humanitarian crisis worsens",
    "url": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
    "content": "One month into the Yemeni government's offensive against the Iran-aligned Houthis, fighting continues to escalate along the Red Sea coast. Meanwhile, the humanitarian crisis is worsening, with hundreds of thousands of people displaced and the country facing the threat of catastrophe. Rula Amin, Senior Communications Advisor and spokesperson at UNHCR at Amman, in Jordan, shares further details.",
@@ -11,7 +39,7 @@
   {
    "title": "Poland in shock after 6 killed in Krakow far-right shooting",
    "url": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
-   "content": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the 24-year-old suspect, who used a semi-automatic rifle in his killing spree, was “fascinated by far-right ideologies”. He is currently in critical condition in hospital. France 24 journalist Adrien Sariat reports from Poland.",
+   "content": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the 24-year-old suspect, who used a semi-automatic rifle in his killing spree, was “fascinated by far-right ideologies”. He is currently in critical condition in hospital. FRANCE 24 journalist Adrien Sariat reports from Poland.",
    "published_date": "Sun, 08 Nov 2026 14:21:18 GMT",
    "score": 0.6
   },
@@ -37,9 +65,9 @@
    "score": 0.6
   },
   {
-   "title": "In Lat Am, Pope urges husbands to respect wives amid femicide crisis",
-   "url": "https://www.france24.com/en/live-news/20261108-in-lat-am-pope-urges-husbands-to-respect-wives-amid-femicide-crisis",
-   "content": "Pope Leo XIV told men to treat their wives with respect Sunday, as he concluded the first leg of his tour of Latin America, which is plagued by gender-based violence.",
+   "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+   "url": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
+   "content": "Pope Leo XIV urged men to respect their wives as he wrapped up the first leg of his 12-day tour of Latin America. The region recorded nearly 20,000 instances of women being killed over the past five years alone, most of them murdered by a current or former partner.",
    "published_date": "Sun, 08 Nov 2026 14:15:54 GMT",
    "score": 0.6
   },
@@ -72,9 +100,9 @@
    "score": 0.6
   },
   {
-   "title": "Middle East live: Yemen’s Houthis claim attack on Riyadh financial district",
+   "title": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
    "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-   "content": "Riyadh’s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen’s Houthi rebels intercepted two ballistic missiles headed for the capital’s financial district. The attack comes a day after Saudi ​air strikes killed at least 33 people near Sanaa. Follow our liveblog for the latest developments from the Middle East.",
+   "content": "Israeli President Isaac Herzog on Sunday officially tasked ex-military chief Gadi Eisenkot with trying to form a government after neither Eisenkot's bloc nor that or incumbent Prime Minister Benjamin Netanyahu won a clear majority in Israel's October 28 elections. Eisenkot now has up to six weeks to form a coalition government. Follow our liveblog for the latest developments from the Middle East.",
    "published_date": "Sun, 08 Nov 2026 09:47:36 GMT",
    "score": 0.6
   },
@@ -107,6 +135,13 @@
    "score": 0.6
   },
   {
+   "title": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
+   "url": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
+   "content": "A skyscraper belonging to Saudi oil giant Aramco was hit by a Houthi-claimed attack on Sunday, blowing out windows across several floors but causing no casualties. The Iran-aligned group has repeatedly targeted Aramco facilities and infrastructure.",
+   "published_date": "Sun, 08 Nov 2026 08:11:54 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Tenerife honour teammate Jesus De Miguel with tearful tribute",
    "url": "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain",
    "content": "Tenerife’s stadium filled up with thousands of mourners on Saturday where they held a tearful tribute to striker Jesus De Miguel, who passed away after colliding with a goalkeeper during a match, subsequently suffering a cardiac arrest. \"To speak of you in the past tense ​is tremendously unfair,\" team captain Enric Gallego said.",
@@ -132,41 +167,6 @@
    "url": "https://www.france24.com/en/sport/20261107-france-beat-fiji-to-reclaim-top-spot-in-nations-championship",
    "content": "France trashed Fiji 54-17 on Saturday to return to the top of the northern hemisphere Nations Championship standings.",
    "published_date": "Sat, 07 Nov 2026 22:05:54 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
-   "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
-   "content": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his MAGA brand of politics to White's enormously successful Ultimate Fighting Championship.",
-   "published_date": "Sat, 07 Nov 2026 20:45:45 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
-   "url": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
-   "content": "“We are facing a crisis of human civilisation. And we are going to win.” A defiant Jean-Luc Mélenchon was in fighting mood today as he presented his presidential manifesto at Le Bourget, north of Paris. It is his fourth bid for the French presidency, and he has chosen a venue steeped in left-wing campaign history: the site of François Hollande's famous 2012 rally.",
-   "published_date": "Sat, 07 Nov 2026 19:58:43 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
-   "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
-   "content": "",
-   "published_date": "Sat, 07 Nov 2026 19:38:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
-   "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
-   "content": "Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither Eisenkot nor Prime Minister Benjamin Netanyahu with a clear path to building a majority.",
-   "published_date": "Sat, 07 Nov 2026 19:37:14 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
-   "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
-   "content": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left wing's strongest contender against far-right candidate Marine Le Pen.",
-   "published_date": "Sat, 07 Nov 2026 17:30:04 GMT",
    "score": 0.6
   }
  ],

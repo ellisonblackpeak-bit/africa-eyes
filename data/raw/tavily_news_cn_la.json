@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Thailand pushes Laos-China rail connections as regional trade expands",
+   "url": "https://www.nationthailand.com/news/asean/40073218",
+   "snippet": "The plans include double-track and high-speed rail projects, a new railway bridge across the Mekong River and a freight transfer centre in Nong Khai, while Indonesia is exploring Chinese investment in a proposed 2,772-kilometre railway network across Kalimantan. [...] ### Laos highlights economic benefits of China railway\n\nLaos has pointed to the Laos-China Railway as an example of how improved in",
+   "published": "Sat, 07 Nov 2026 02:56:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Laos, China agree to strengthen rail links, economic corridor and AI cooperation | The Star",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/05/laos-china-agree-to-strengthen-rail-links-economic-corridor-and-ai-cooperation",
+   "snippet": "The existing Laos-China Railway, which connects Vientiane with Kunming in China’s Yunnan province, began operations in December 2021 and has become an important trade route between China and Southeast Asia and beyond.\n\nAccording to figures provided by the China Railway Kunming Group in August 2026, the railway has carried more than 90 million tonnes of freight since it became operational, includin",
+   "published": "Thu, 05 Nov 2026 04:33:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Laos-China Railway exemplifies BRI success at Fujian ...",
+   "url": "https://www.facebook.com/vientianetimesonline/posts/laos-china-railway-exemplifies-bri-success-at-fujian-forumfuzhou-fujian-province/1746518734145019",
+   "snippet": "Through Chinese investment in capital and advanced technologies and equipment under the BRI, it has seen its annual cargo throughput increase to above 5",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Laos, China push rail links, economic corridor, AI ...",
+   "url": "https://www.facebook.com/vientianetimesonline/posts/laos-china-push-rail-links-economic-corridor-ai-cooperationlao-and-chinese-minis/1747517794045113",
+   "snippet": "The China-Laos economic corridor centers on the China-Laos Railway, a $5.9 billion Belt and Road project linking Kunming to Vientiane that's boosting trade,",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "China Is Building Southeast Asia’s Infrastructure. The Bigger Prize Comes Next",
+   "url": "https://www.youtube.com/watch?v=4p4yp_IZD84&vl=fr",
+   "snippet": "[8:50] into Southeast Asia and achieved localized production. Liugong headquartered in Guangshi also has many\n[8:58] moves in the Southeast Asian market thanks to its geographic advantage with significant influence in Vietnam,\n[9:06] Thailand and Myanmar. It has participated in key projects such as the China Laos railway, the Jakarta Bandong\n[9:16] High Speed Railway, the Panama Pen Sihanakville E",
+   "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/p/DfbioyNjdou",
+   "snippet": "Thailand is accelerating the development of railway and logistics infrastructure connecting the country with Laos and China, aiming to reduce transport costs and strengthen regional trade links as neighbouring countries expand their rail networks. [...] The plans include double-track and high-speed rail projects, a new railway bridge across the Mekong River and a freight transfer centre in Nong Kh",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "NONG KHAI SET TO BECOME KEY INTERNATIONAL ...",
+   "url": "https://www.facebook.com/nbtworld/posts/nong-khai-set-to-become-key-international-logistics-gatewaynong-khai-province-is/1549909143839877",
+   "snippet": "Laos, China's dry ports form partnership for efficient rail transport The operator of the Thanaleng Dry Port, Laos' integrated logistics centre, and the",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Autos and Materials Strong, Real Estate Rebounds: Q3 2026 Update – Rhodium Group",
+   "url": "https://rhg.com/research/autos-and-materials-strong-real-estate-making-a-comeback-q3-2026-update",
+   "snippet": "in a subsidiary running its US unit. Chixia Laos suspended its Mengkang rare earth project in Laos estimated at $25 million, to comply with rare earth policy requirements. Outside of regulatory action, Sinopec’s estimated $4 billion Amur Gas Chemical complex in Russia experienced a major fire that killed 15 workers; and Metallurgical Corporation of China, which operates the Saindak copper-gold pro",
+   "published": "Thu, 05 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nong Khai Set to Become Key International Logistics ...",
+   "url": "https://www.facebook.com/nbtworld/videos/nong-khai-set-to-become-key-international-logistics-gatewaynong-khai-province-is/1180284127898806",
+   "snippet": "The new \"double-track\" network aims to boost cross-border trade with Laos and China by providing more efficient and competitively priced access to agricultural",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/DfQvGluB8PJ",
+   "snippet": "ntdplus\n\nChinese money built this port, with cargo headed straight to China.  \n  \nAnd it’s only one piece of a much larger network taking shape in America’s backyard.  \n  \nNTD Insight unpacks how the Chinese Communist Party uses trade, digital infrastructure, and China-linked projects in Latin America to create dependency and rival the U.S.\n\n## No comments yet.\n\nStart the conversation.\n\n14\n\nLog in",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_la",
  "_query": "Chinese company Laos railway investment",
  "_domains": [],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Hurry Up With Our Investment Projects, China tells Myanmar Regime",
+   "url": "https://www.irrawaddy.com/news/myanmar-china-watch/hurry-up-with-our-investment-projects-china-tells-myanmar-regime.html",
+   "snippet": "[](  [](  [](\n\nThe planned corridor includes several flagship projects, notably the Kyaukphyu deep-sea port in Rakhine State and a railway linking Kyaukphyu through Mandalay and Muse with China’s Yunnan Province.\n\nThe Kyaukphyu Special Economic Zone and deep-sea port project is particularly important for Beijing because it would provide China with direct access to the Indian Ocean while supporting",
+   "published": "Thu, 05 Nov 2026 09:24:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Turning Myanmar ties into progress - Chinadaily.com.cn",
+   "url": "https://global.chinadaily.com.cn/a/202611/06/WS6aed2e4ee4b03ebf8519ab8a.html",
+   "snippet": "Regional connectivity offers another avenue for cooperation. The China-Myanmar Economic Corridor provides an important framework for strengthening bilateral economic ties and connecting markets across the region. Major projects, including the Kyaukphyu Deep-Sea Port, the Mandalay-Muse Railway and related transport and energy infrastructure, can contribute significantly to Myanmar's economic develo",
+   "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Wang Yi reaffirms China's support for Myanmar's development",
+   "url": "https://www.bastillepost.com/global/article/6321854-wang-yi-reaffirms-chinas-support-for-myanmars-development",
+   "snippet": "Wang called on both sides to advance key projects under the China-Myanmar Economic Corridor, deepen cooperation in energy and resources, and step up efforts to combat online gambling and telecom fraud. He urged Myanmar to take concrete measures to protect Chinese personnel, institutions and projects.\n\nAung Kyaw Hoe said Myanmar upholds the Five Principles of Peaceful Coexistence to carry forward M",
+   "published": "Tue, 03 Nov 2026 14:05:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The FE - Projects like Teesta, Mongla, economic corridor to boost both economies",
+   "url": "https://thefinancialexpress.com.bd/trade/projects-like-teesta-mongla-economic-corridor-to-boost-both-economies",
+   "snippet": "Published:\n\nChina's engagement in projects like China-Myanmar-Bangladesh economic corridor, Teesta River management and Mongla EPZ will contribute to overall development and to higher living standards of the two peoples.\n\nAdvertisementAdvertisement\n\nSuch note of optimism came from visiting Minister of the International Department of the CPC Central Committee (IDCPC) of China Liu Haixing on Wednesd",
+   "published": "Thu, 05 Nov 2026 03:14:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Myanmar Policy at Crossroads After 5 Years of Failure",
+   "url": "https://www.irrawaddy.com/opinion/analysis/chinas-myanmar-policy-at-crossroads-after-5-years-of-failure.html",
+   "snippet": "### China Pouring in Billions to Prop Up Myanmar’s Military Regime\n\nby The Irrawaddy\n\nAugust 22, 2023\n\n2.6k\n\nBeijing appears to be stepping up investment, along with diplomatic aid and arms shipments.\n\nRead moreDetails\n\nJunta Pushes Revival of China-Backed Myitsone Dam Project\n\nMyanmar-China Watch\n\n### Junta Pushes Revival of China-Backed Myitsone Dam Project\n\nby Maung Kavi\n\nDecember 17, 2025\n\n2k ",
+   "published": "Tue, 03 Nov 2026 12:40:59 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese FM meets Thailand, Laos, Myanmar senior officials attending 11th Lancang-Mekong Cooperation Foreign Ministers' Meeting - People's Daily Online",
+   "url": "https://en.people.cn/n3/2026/1104/c90000-20515414.html",
+   "snippet": "China supports Myanmar in achieving political reconciliation and has always been a strategic partner that Myanmar can rely on, Wang said, adding that China is willing to make joint efforts with Myanmar to promote the in-depth and solid development of the China-Myanmar community with a shared future. [...] When meeting with Myanmar's Minister for the Ministry of National Planning, Investment and Fo",
+   "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ex-China Rare Earth Supply Chain Acceleration Gains Pace, with Supply Disruptions and Capacity Rollouts in Parallel [SMM Rare Earth Ex-China Weekly Review] - Shanghai Metals Market (SMM)",
+   "url": "https://news.metal.com/newscontent/104210265-ex-china-rare-earth-supply-chain-acceleration-gains-pace-with-supply-disruptions-and-capacity-rollouts-in-parallel-smm-rare-earth-ex-china-weekly-review",
+   "snippet": "The US Mission to Myanmar's Integrated Country Strategy was approved on August 31 and released on October 16, proposing to advance ceasefires, pursue durable peace by 2030, and plan to facilitate at least three multi-party forums on fiscal federalism and territorial demarcation. Listed output opportunities include developing Myanmar's rare earths and cracking down on scam compounds. The document d",
+   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China-built Mongla Port expansion project breaks ground in Bangladesh, to boost the country’s economic competitiveness, opening-up - Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1373711.shtml",
+   "snippet": "for mutually beneficial China-Bangladesh cooperation. [...] Global Times [...] The Mongla Port modernization and expansion project—a landmark Belt and Road Initiative (BRI) infrastructure cooperation project in Mongla, southwestern Bangladesh—broke ground on Thursday, with a Chinese company serving as the main constructor.   \n  \nThe inauguration marked an important outcome of deeper China-Banglade",
+   "published": "Thu, 05 Nov 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Myanmar’s Civil War and the Neo-Authoritarian Bloc",
+   "url": "https://www.e-ir.org/p/myanmars-civil-war-and-the-neo-authoritarian-bloc",
+   "snippet": "Like Ukraine, the conflict in Myanmar has no end in sight, as the support provided to the junta by the neo-authoritarian bloc continues to increase and",
+   "published": "Sun, 08 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s new wind, solar project registrations slow down in Sept",
+   "url": "https://renewablesnow.com/news/chinas-new-wind-solar-project-registrations-slow-down-in-sept-1304484",
+   "snippet": "China registered 3551 new wind and solar power projects in September, down 11.2% from August, as fewer distributed solar and wind projects offset an",
+   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "mm_wide",
  "_query": "Myanmar China project",
  "_domains": [],
