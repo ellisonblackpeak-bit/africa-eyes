@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Chinese national killed in Melbourne stabbing, suspect arrested-Xinhua",
-   "url": "https://english.news.cn/asiapacific/20261107/199d47d446154f05a20e4604029fe0ad/c.html",
-   "snippet": "Chinese national killed in Melbourne stabbing, suspect arrested-Xinhua \n\n# Chinese national killed in Melbourne stabbing, suspect arrested\n\nSource: Xinhua| 2026-11-07 13:30:15|Editor: huaxia\n\nMELBOURNE, Nov. 7 (Xinhua) -- A Chinese national was killed in a stabbing in central Melbourne on Friday night, and a suspect has been arrested, the Chinese Consulate-General in Melbourne said on Saturday. [.",
-   "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Quanzhou creates $1m fund for Africa’s UNESCO heritage | UA.NEWS",
-   "url": "https://ua.news/en/dovkolo-svitu/u-tsiuanchzhou-stvorili-fond-na-1-mln-dlia-spadshchini-afriki-south-china-morning-post",
-   "snippet": "Du Xiaohui, director general of the Department of African Affairs at China’s Ministry of Foreign Affairs, said the programme is intended to share China’s experience in heritage protection and strengthen China’s cultural ties with Africa. Qin Changwei, secretary-general of the Chinese National Commission for UNESCO, said Africa’s geographical representation on the list is insufficient and that some",
-   "published": "Sun, 08 Nov 2026 06:10:33 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on November 6, 2026_Ministry of Foreign Affairs of the People's Republic of China",
-   "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202611/t20261106_12055022.html",
-   "snippet": "No matter how the international landscape might evolve, China is always the most trustworthy and reliable partner for African countries. China-Africa high-quality cooperation will continue boosting both sides’ modernization drive.\n\nAFP: In Macao today, a court sentenced former lawmaker Au Kam San to 12.5 years in prison after he was found guilty of working with foreign forces to subvert state auth",
-   "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Only a fraction of World Heritage sites are in Africa. China wants to fix that | South China Morning Post",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3373662/only-fraction-world-heritage-sites-are-africa-china-wants-fix",
-   "snippet": "But as Beijing seeks closer cultural ties with the continent, it is offering help to change this through funding, guidance on how to navigate the nomination process and training in conservation. [...] Jevans Nyabiage\n\nAfrica is home to ancient cities, rock art and striking natural landscapes, yet its sites are sorely under-represented on Unesco’s World Heritage List.\n\nAccording to data released by",
-   "published": "Sun, 08 Nov 2026 04:00:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Africa CDC",
-   "url": "https://www.facebook.com/africacdc/posts/the-next-outbreak-will-not-wait-for-us-to-be-ready-in-guangzhou-africa-and-china/1547326790759023",
-   "snippet": "CDC received the Government of China's second emergency contribution of USD 2.5 million to support the response to the Bundibugyo Ebola Virus Disease outbreak",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Pan-African Parliament",
-   "url": "https://x.com/AfrikParliament/status/2118920263127429461/photo/1",
-   "snippet": "The Pan-African Parliament has called for stronger, structured cooperation between African and Chinese legislative institutions to help translate Africa–China",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Pakistani astronaut to join China’s next space station mission | Space News | Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission",
-   "snippet": "list of 4 items\n\n list 1 of 4Which countries have sent people to space?\n list 2 of 4Japan launches historic mission to bring back Mars moon samples\n list 3 of 4Why are US, Russia and China racing to put nuclear reactors on the moon?\n list 4 of 4‘Alien-cortical’ mice: Can human brain cells grow inside animals?\n\nend of list\n\nChina has not identified the astronaut nor given a date of departure, but t",
-   "published": "Sat, 07 Nov 2026 10:17:53 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

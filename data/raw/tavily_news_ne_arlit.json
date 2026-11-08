@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EU seeks clarification from Algeria over military deployment in Niger",
-   "url": "https://en.hespress.com/148683-eu-seeks-clarification-from-algeria-over-military-deployment-in-niger.html",
-   "snippet": "The EU’s request follows the reported arrival of an Algerian military convoy in the Nigerien city of Arlit late last month. Located in northwestern Niger, Arlit is known for its uranium mining industry. The deployment has been described in reports as the first time Algerian troops have operated outside the country since Algeria supported Egypt during the 1973 Arab-Israeli War. [...] Friday 6 Novem",
-   "published": "Fri, 06 Nov 2026 23:00:14 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algerian troops arrive in Niger, first deployment since 1973",
-   "url": "https://www.newarab.com/news/algerian-troops-arrive-niger-first-deployment-1973",
-   "snippet": "One major project, the Trans-Saharan Gas Pipeline with Niger and Nigeria, aims to deliver African gas to Europe and other international markets.\n\nReuters spoke to 10 people who said the first Algerian military convoy had reached Arlit, a uranium mining town in the country's northwest.\n\nAlgeria has said the decision to deploy troops was taken to protect the country's energy and economic interests, ",
-   "published": "Mon, 02 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Is Algeria Breaking From Its Historic Nonintervention by Sending Troops to Niger? | RANE Worldview",
-   "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-05/does-algeria-s-troop-deployment-in-niger-signal-a-break-from-its-historic-nonintervention/68c09e58b4837531",
-   "snippet": "deployment during an Oct. 25-26 emergency session. According to a Reuters report citing local sources, the first Algerian convoy reached Arlit, a uranium mining town in northwestern Niger. Meanwhile, Algerian and Nigerien forces secured a 53-truck fuel shipment to Agadez in northern Niger, though a statement from the Nigerien Prime Minister's office claimed that the Algerian forces were present so",
-   "published": "Thu, 05 Nov 2026 21:57:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria Sends Troops to Niger: A Warning for Morocco and Israel - Middle East Forum",
-   "url": "https://www.meforum.org/mef-online/algeria-sends-troops-to-niger-a-warning-for-morocco-and-israel",
-   "snippet": "Arlit also has a uranium dimension. Niger nationalized the SOMAÏR mine, formerly operated by France’s Orano, in 2025. Potential buyers for its stockpile reportedly included Russian interests. On September 23, 2025, an ICSID tribunal ordered Niger not to sell or transfer uranium held in violation of Orano’s rights. Orano later condemned a shipment from the site as contrary to that order. No evidenc",
-   "published": "Tue, 03 Nov 2026 21:32:50 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Arlit",
-   "url": "https://tavily.com/knowledge/company/CXPZB3qNGbEM",
-   "snippet": "# arlit.es\nID: CXPZB3qNGbEM\nWebsite: www.arlit.es\nLegal name: Arlit Diseño e Impresión S.L.\nHeadquarters: Silleda, Galicia / Galiza, Spain\nLinkedIn: www.linkedin.com/company/arlitdisenoeimpresion · 555 followers\nIndustry: Printing Services\nCompany type: Privately Held\nFounded: 2016\nSocial profiles: www.facebook.com/arlitdisenoeimpresion, www.crunchbase.com/organization/arlit-artes-graficas-slne, w",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Arlit",
-   "url": "https://tavily.com/knowledge/company/VtLrfNrqzeAx",
-   "snippet": "# ARLIT DISEÑO E IMPRESION SL\nID: VtLrfNrqzeAx\nHeadquarters: SILLEDA, Spain\nLinkedIn: www.linkedin.com/company/arlit-dise%C3%B1o-e-impresion-sl · 3 followers\nIndustry: Printing Services\n\n## Headcount\n- Now: 0 · 0 yearly · 0 quarterly · 0 monthly\n\n## Reputation\n- Open roles: 0",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria Sends Troops into Niger to Protect Energy Interests – Sri Lanka Guardian",
-   "url": "https://slguardian.org/algeria-sends-troops-into-niger-to-protect-energy-interests",
-   "snippet": "Share this\n\n Facebook\n Messenger\n Twitter\n Pinterest\n Linkedin\n Whatsapp\n Reddit\n Email\n\n### Tags:\n\n Africa\n Algeria\n Niger\n\n### You might be interested in\n\n has accused former presidential press secretary Yulia Mendel of treason, alleging that\n\n[](\n\n## Sri Lanka Risks Losing EU GSP+ Trade Benefits Over Proposed Security Laws\n\nSri Lanka faces a serious risk of losing the European Union’s GSP+ trad",
-   "published": "Wed, 04 Nov 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria sent troops abroad after half a century! The reason drew attention",
-   "url": "https://en.haberler.com/algeria-sent-troops-abroad-after-half-a-century-2330279",
-   "snippet": "Algeria has deployed military units to its neighbor Niger, sending troops abroad for the first time in 53 years. It was announced that the shipment,",
-   "published": "Fri, 06 Nov 2026 20:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ne_arlit",
  "_query": "Arlit uranium",
  "_domains": [],

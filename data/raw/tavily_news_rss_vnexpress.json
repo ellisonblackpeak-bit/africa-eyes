@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Dàn âm thanh triệu USD tại Vietnam High-End Show 2026",
+   "url": "https://vnexpress.net/dan-am-thanh-trieu-usd-tai-vietnam-high-end-show-2026-5142130.html",
+   "content": "Vietnam Hi-End Show 2026 quy tụ nhiều hệ thống âm thanh tỷ đồng, trong đó cao nhất là bộ dàn trị giá một triệu USD (26 tỷ đồng).",
+   "published_date": "Sun, 08 Nov 2026 12:14:20 +0700",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Kaduna–Kano Railway Reaches 90% Completion, Outstanding Land Issues Delay Final Connection",
+   "url": "https://www.railwaysafrica.com/news/kaduna-kano-railway-reaches-90-completion-outstanding-land-issues-delay-final-connection",
+   "snippet": "Nigeria’s Kaduna–Zaria–Kano standard gauge railway project has reached approximately 90% completion, according to the Permanent Secretary of the Federal Ministry of Transportation, Engr. Funso Adebiyi.\n\nAdebiyi provided the update during an inspection of the project on 23 October 2026, which included a train journey from Jaji to Kano to assess construction progress and the quality of completed wor",
+   "published": "Wed, 04 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "President Tinubu Fast-Tracks Northern Rail Projects",
+   "url": "https://von.gov.ng/president-tinubu-accelerates-northern-rail-projects",
+   "snippet": "President Bola Ahmed Tinubu is accelerating the completion of major railway infrastructure projects in Northern Nigeria, with the Kaduna–Kano Standard Gauge",
+   "published": "Sun, 08 Nov 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu fast-tracks northern rail projects, Kaduna-Kano line set for December 3 commissioning – Alake",
+   "url": "https://businessday.ng?p=1217063",
+   "snippet": "President Bola Tinubu has accelerated the completion of major railway projects in Northern Nigeria, with the 203-kilometre Kaduna-Kano Standard Gauge.",
+   "published": "Sun, 08 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu ramps up completion of rail projects in Northern Nigeria - Tribune Online",
+   "url": "https://tribuneonlineng.com/tinubu-ramps-up-completion-of-rail-projects-in-northern-nigeria",
+   "snippet": "The inauguration of the Kaduna–Kano Standard Gauge Railway has been scheduled for December 3, 2026. Meanwhile, the 203-kilometre.",
+   "published": "Sun, 08 Nov 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kaduna-Kano rail line to be inaugurated 3 December - APC Campaign Council",
+   "url": "https://www.premiumtimesng.com/news/top-news/923741-kaduna-kano-rail-line-to-be-inaugurated-3-december-apc-campaign-council.html",
+   "snippet": "The Kano-Katsina-Maradi railway, on the other hand, is expected to improve cross-border transportation and trade between Nigeria and neighbouring Niger Republic.\n\nThe council said the projects reflected the Tinubu administration’s commitment to expanding railway infrastructure and delivering ongoing infrastructure projects across the country as scheduled.\n\n### Share this: [...] 0\n\nGoogle Logo  Add",
+   "published": "Sun, 08 Nov 2026 15:09:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why railway system is the mainstay of Nigeria’s economy",
+   "url": "https://thesun.ng/why-railway-system-is-the-mainstay-of-nigerias-economy",
+   "snippet": "Nigeria has spent over $2.5 billion on railway modernisation in the last 10 years, largely from Chinese EXIM Bank loans and Federal Government counterpart funding. The Lagos-Ibadan Standard Gauge (157km) cost $1.6 billion. The Abuja-Kaduna Standard Gauge (187km) cost $876 million. The Itakpe-Warri (Ajaokuta) line, after 30 years of abandonment, was completed for $200 million. [...] Despite years o",
+   "published": "Tue, 03 Nov 2026 17:18:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kaduna-Kano rail project reaches 90% completion",
+   "url": "https://www.galaxytvonline.com/news/local-news/kaduna-kano-railway-hits-90-completion-set-for-dec-3-inauguration",
+   "snippet": "The Kaduna-Kano Standard Gauge Railway has reached 90 per cent completion and is scheduled for inauguration on December 3, 2026,",
+   "published": "Sun, 08 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rail cargo plunges 24.7% in September as Q3 freight hits 169,060",
+   "url": "https://guardian.ng/business-services/rail-cargo-plunges-24-7-in-september-as-q3-freight-hits-169060",
+   "snippet": "### GDN DESKTOP 1\n\nThe Guardian \n\nTue, 3 Nov, 2026\n\n Read Life Mag\n\nBusiness\n\n# Rail cargo plunges 24.7% in September as Q3 freight hits 169,060\n\n  Kaduna-Kano railway project \n\nKaduna-Kano railway project\n\n \n\nAdaku Onyenucheya\n\n4:00 AM WAT 2 min read\n\n Get Guardian on Google [...] Port users reduced their patronage of the railway to move cargo as the Nigerian Railway Corporation (NRC) recorded a ",
+   "published": "Tue, 03 Nov 2026 03:00:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FCT residents seek update on Gwagwa-Airport rail project",
+   "url": "https://www.vanguardngr.com/2026/11/fct-residents-seek-update-on-gwagwa-airport-rail-project",
+   "snippet": "By Gabriel Ewepu. ABUJA — Residents along the Gwagwa-Airport railway corridor in the Federal Capital Territory (FCT) have called on the relevant authorities",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Zambia-Lobito Railway advances towards 2027 financial close",
+   "url": "https://www.financialnigeria.com/zambia-lobito-railway-advances-towards-2027-financial-close-sustainable-photovideo-details-1880.html",
+   "snippet": "By substituting peat for diesel in the power generation mix, the proposed project is expected to reduce Rwanda’s ...\n\nNigeria ranks 70th out of a group of 85 countries, globally, and 13th out a group of 25 African countries.\n\nThe company said pre-tax profit rose to N14.2 billion from N2.6 billion posted in a similar period of last year.\n\nTiger Brands reported that its profit rose by 19 per cent fo",
+   "published": "Fri, 06 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cor_rail_road",
  "_query": "railway project Nigeria",
  "_domains": [],

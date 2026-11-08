@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "🗣️ Ukraine dismisses as 'baseless' allegations by Mali ...",
+   "url": "https://www.facebook.com/anadoluagencyenglish/posts/%EF%B8%8F-ukraine-dismisses-as-baseless-allegations-by-mali-and-niger-that-kyiv-supports/1465830599069285",
+   "snippet": "Mali Niger's junta cuts diplomatic ties with Ukraine over remarks from officials it said showed Ukraine's support for groups involved in fighting",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "PISM",
+   "url": "https://pism.pl/publications/algeria-returns-to-the-sahel",
+   "snippet": "Over the past few months, Algeria has re-established diplomatic relations with junta-ruled Mali and launched its first overseas military mission since 1973—dispatching forces to Niger. This return to an active presence in the Sahel region is aimed at rebuilding its influence, which has been weakened in recent years. It is also a sign of the intensifying rivalry in the Sahel with the Haftar family,",
+   "published": "Thu, 05 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PISM",
+   "url": "https://x.com/PISM_Poland/status/2118373021404594600",
+   "snippet": "Algeria🇩🇿 has re-established diplomatic relations with junta-ruled Mali and launched its first overseas military mission since 1973—dispatching forces to Niger.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "The New EU Approach to the Sahel: Strategic Value for Estonia - International Centre for Defence and Security",
+   "url": "https://icds.ee/en/the-new-eu-approach-to-the-sahel-strategic-value-for-estonia",
+   "snippet": "Estonia was present in the Sahel for nearly a decade. From 2013 to 2022, it participated in three military missions in Mali under EU, UN, and French frameworks. About 100 Estonian troops trained the Malian army and helped restore state control and rebuild services across the country.(#_edn1) Between 2020 and 2023, juntas gained power in the Central Sahel states of Mali, Niger, and Burkina Faso. Ad",
+   "published": "Mon, 02 Nov 2026 15:28:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Sahel's new dependency - The Sahelian juntas ...",
+   "url": "https://www.ips-journal.eu/topics/foreign-and-security-policy/the-sahels-new-dependency-9293?tx_web2pdf_pi1%5Baction%5D=&tx_web2pdf_pi1%5Bargument%5D=printPage&tx_web2pdf_pi1%5Bcontroller%5D=Pdf&cHash=416808eb36cbf72ab41709ee240c01cb4f6a3b91b1785eeaafed4ebf5c810520",
+   "snippet": "Nigerien junta, which frames itself as a sovereigntist regime, had to call on a foreign army to rescue it by turning its guns on its own soldiers.",
+   "published": "Sun, 08 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Sub-Saharan Africa's the Sahel: the latest battleground between CRINK authoritarianism and Western democracy | George W. Bush Presidential Center",
+   "url": "https://www.bushcenter.org/publications/sub-saharan-africas-the-sahel-the-latest-battleground-between-crink-authoritarianism-and-western-democracy",
+   "snippet": "Following the May 2021 military coup in Mali, the newly established ruling junta engaged with what was then known as the Wagner Group, a Russian government-financed and -backed private military company, to send roughly 1,000 mercenaries to ostensibly train the Malian military forces. They were also supposed to fight against local extremists, including organizations aligned with the Islamic State g",
+   "published": "Fri, 06 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "MALI AND NIGER STRENGTHEN TIES IN FIGHT AGAINST ...",
+   "url": "https://www.facebook.com/GlobalSouthWorld/posts/mali-and-niger-strengthen-ties-in-fight-against-terrorismmalis-assimi-go%C3%AFta-and-/122316735200028907",
+   "snippet": "This news report details a security alliance between the military leaders of Mali, Burkina Faso, and Niger, established in Bamako, Mali.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria and Sahel states seek renewed security ...",
+   "url": "https://www.facebook.com/cgtnafrica/posts/nigeria-and-sahel-states-seek-renewed-security-cooperationnigeria-is-seeking-clo/1634685755364469",
+   "snippet": "Nigeria is seeking closer military cooperation with Mali, Niger and Burkina Faso to strengthen regional efforts against terrorism.",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],

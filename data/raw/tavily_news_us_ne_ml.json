@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "MNJTF Without Diplomatic Cover",
-   "url": "https://leadership.ng/mnjtf-without-diplomatic-cover",
-   "snippet": "There was also a shared understanding among the Lake Chad Basin countries that defeating the insurgency required coordinated cross-border operations and Western support. That consensus has since deteriorated considerably.\n\nFrance has been forced out of Mali, Niger, and Chad, while the United States has also lost its military foothold in Niger and Chad. [...] Share on WhatsAppShare on FacebookShare",
-   "published": "Sun, 08 Nov 2026 07:28:41 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc",
-   "url": "https://www.modernghana.com/videonews/france24/5/738144",
-   "snippet": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc. BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV Net2TV. TV3 UTV DelayTV",
-   "published": "Fri, 06 Nov 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Burkina Faso and Mali citizens arrest: Why Guinea arrest and repatriate thousands of foreign gold miners  - BBC News Pidgin",
-   "url": "https://www.bbc.com/pidgin/articles/cwdr88klkjkjo.amp",
-   "snippet": "### Why Nigeria lawmakers dey propose jail term for health workers wey delay emergency treatment\n\n## Informate me\n\n### Who be di 14 Nigerian-Americans win political positions for US midterm elections\n\n### Young politicians wit African roots wey make history for di US midterm elections\n\n### US strike Iran island bifor midterm elections\n\n### 29 undocumented foreign nationals land inside South Africa",
-   "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Western Africa - Colonization, Trade, Empires | Britannica",
-   "url": "https://www.britannica.com/place/western-Africa/Colonization",
-   "snippet": "## News •\n\nEcowas, Burkina Faso, Mali, Niger meeting: Wetin Alliance of Sahel States proposed cooperation wit Ecowas mean for West Africa\n\n• Oct. 18, 2026, 1:28 PM ET (BBC)\n\nAn East English Village restaurant brings West African flavors\n\n• Oct. 11, 2026, 6:10 AM ET (Detroit Free Press)\n\n## Effect of local conditions [...] T.C. McCaskie\n\nSenior Research Fellow, Department of African Studies and Ant",
-   "published": "Wed, 04 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Tinubu condoles with Niger junta leader over father's death - Punch Newspapers",
-   "url": "https://punchng.com/tinubu-condoles-with-niger-junta-leader-over-fathers-death",
-   "snippet": "The move exacerbated the already strained ties between the two countries, even as Niger joined Burkina Faso and Mali in withdrawing from ECOWAS and forming the Alliance of Sahel States.\n\nStephen Angbulu\n\nWith three years of experience, Stephen, The PUNCH correspondent, has been covering Nigeria’s presidency, politics, security, immigration and trafficking in persons\n\nKindly share this story: [...]",
-   "published": "Sat, 07 Nov 2026 15:03:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Tinubu offers condolences to Niger leader over father's death | UA.NEWS",
-   "url": "https://ua.news/en/dovkolo-svitu/prezident-tinubu-visloviv-spivchuttia-lideru-nigeru-cherez-smert-batka-premium-times-nigeria",
-   "snippet": "## Strained relations between the countries\n\nThe condolences came amid strained diplomatic relations between Nigeria and Niger following the military coup in Niger in July 2023, which removed the civilian government. In January 2025, Niger, Mali and Burkina Faso withdrew from the Economic Community of West African States. [...] Tiani has repeatedly accused Nigeria of conspiring with France to dest",
-   "published": "Sun, 08 Nov 2026 08:53:02 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nine out of ten crimes against journalists go unpunished: Unesco report - RFI",
-   "url": "https://www.rfi.fr/en/international/20261102-nine-out-of-ten-crimes-against-journalists-go-unpunished-unesco-report",
-   "snippet": "\"In the Sahel, journalists are being taken to the front line, supposedly to fight terrorists. Others are accused of being terrorists themselves. In 2026, Burkina Faso slipped to 110th place, Mali to 121st and Niger to 120th, having fallen 37 places,\" Yao Noël, president of the Union of African Free Press Journalists (UJPLA) told RFI.\n\nGlobal press freedom in 'deplorable' state, journalism federati",
-   "published": "Mon, 02 Nov 2026 15:33:46 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "us_ne_ml",
  "_query": "US Niger Mali",
  "_domains": [],

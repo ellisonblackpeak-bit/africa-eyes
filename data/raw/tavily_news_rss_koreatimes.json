@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Hoban's rise gives Delta more leverage in Hanjin KAL power battle",
+   "url": "https://www.koreatimes.co.kr/business/companies/20261109/hobans-rise-gives-delta-more-leverage-in-hanjin-kal-power-battle",
+   "content": "Hoban Group’s rise as Hanjin KAL’s largest shareholder is giving Delta Air Lines greater leverage in the power struggle over Korean Air’s holding company as Chairman Cho Won-tae seeks to retain control. Hoban and its affiliates held a 20.69 percent stake in Hanjin KAL as of Wednesday, narrowly surpassing Cho and related parties at 20.58 percent. Cho has agreed to purchase another 325,000 shares for 37.05 billion won ($27 million), which could lift his side’s stake to 21.06 percent and restore its position as the largest shareholder. The increasingly close shareholding structure, however, has heightened the importance of major shareholders outside the two rival camps. Delta owns 14.9 percent of Hanjin KAL, while the state-run Korea Development Bank (KDB) holds 10.58 percent. Together with Cho’s stake, the three parties account for about 46 percent of Hanjin KAL. Excluding KDB from conside",
+   "published_date": "Sun, 08 Nov 2026 23:32:03 GMT",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_koreatimes",
  "_query": "https://www.koreatimes.co.kr/www/rss/rss.xml",

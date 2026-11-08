@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Hakim Ali Sees Major Shift in Nigeria’s Institutional Solar Energy Market. - The Des Moines Register",
-   "url": "https://www.desmoinesregister.com/press-release/story/147211/hakim-ali-sees-major-shift-in-nigerias-institutional-solar-energy-market",
-   "snippet": "That is the outlook of Hakim Ali, an American-born Nigerian entrepreneur who relocated from Houston, Texas, to pursue opportunities in Nigeria’s renewable-energy and electric mobility industries. [...] Sora Green reports an existing agreement with Jaiz Bank that provides financing facilities for eligible customers purchasing vehicles through the company.\n\nAccording to management, Jaiz Bank has als",
-   "published": "Tue, 03 Nov 2026 15:56:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Omar Bolori Sees Surprising Shift in Nigeria’s Electric Vehicle Market. - South Bend Tribune",
-   "url": "https://www.southbendtribune.com/press-release/story/136902/omar-bolori-sees-surprising-shift-in-nigerias-electric-vehicle-market",
-   "snippet": "He later returned to Nigeria to work alongside his uncle, Hakim Ali, an American-born Nigerian entrepreneur who had relocated from Houston, Texas, to pursue opportunities in renewable energy and electric mobility.\n\nAli serves as a Director of Sora Green, while Bolori manages the company’s operations.\n\nChanging Economics Are Reshaping Consumer Interest\n\nNigeria’s electric vehicle market remains at ",
-   "published": "Tue, 03 Nov 2026 13:36:18 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Hakim Ali Sees Solar Energy Shift in Nigeria as Jaiz Bank Financing Supports Expansion",
-   "url": "https://www.einnews.com/pr_news/954042347/hakim-ali-sees-solar-energy-shift-in-nigeria-as-jaiz-bank-financing-supports-expansion",
-   "snippet": "American-born entrepreneur who relocated to Nigeria sees growing opportunities in electric vehicles, solar power and institutional energy savings.",
-   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria ramps up oil and gas production as it works towards new IPC status",
-   "url": "https://www.energyconnects.com/opinion/features/2026/november/nigeria-ramps-up-oil-and-gas-production-as-it-works-towards-new-ipc-status",
-   "snippet": "Recent reforms to Nigeria’s energy sector were outlined yesterday by Bashir Bayo Ojulari, Group CEO of the Nigerian National Petroleum Company (NNPC).\n\nModerator John Defterios, Chairman of the MENA region for APCO and APCO board member, opened the session by noting that Nigeria's oil production has increased from 1.2 million barrels a day to 1.8 million, with Ojulari explaining that this was main",
-   "published": "Tue, 03 Nov 2026 10:00:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US commits first $125 million of five-year, $625 million pact to bring American companies into Egypt’s energy, AI and infrastructure sectors | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/us-commits-first-dollar125-million-of-five-year-dollar625-million-pact-to-bring/2deh4zc",
-   "snippet": "It will also support the modernisation of education, healthcare and government services, while promoting food security through science-based agriculture.\n\nFor Washington, the agreement is also explicitly commercial. The US Embassy said it was intended to expand opportunities for American businesses and support private-sector growth in both countries. [...] The agreement could give American compani",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "America’s Rare Earth Reckoning Is Less Than 60 Days Away | OilPrice.com",
-   "url": "https://oilprice.com/Energy/Energy-General/Americas-Rare-Earth-Reckoning-Is-Less-Than-60-Days-Away.html",
-   "snippet": "1 day Dangote Breaks Ground on $2.5 Billion Namibia Fuel Hub for Southern Africa\n 1 day Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal\n 1 day UAE-Controlled Moeve Sells Algerian Upstream Assets\n 2 days European Gas Prices Fall 2% as Traders Wait on Trump’s Next Move in Iran\n 2 days Nigeria's Oil and Gas Output Rises to 3.04 Million Boepd\n 2 days Renewables Stocks Soar as Democrats Sweep U.",
-   "published": "Fri, 06 Nov 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Trump’s African policy faces new scrutiny as midterm polls balance power - Businessday NG",
-   "url": "https://businessday.ng/world/article/trumps-african-policy-faces-new-scrutiny-as-midterm-polls-balance-power",
-   "snippet": "Ngozi Ekugo\n\nNgozi Ekugo holds an MSc in Management from the University of Hertfordshire. She is also an alumna of University of…\n\nShare\n\nAdd BusinessDay as a preferred source on Google   Follow BusinessDay on Google News\n\n## You Might Also Like\n\nUI ASUU disburses N1.1m scholarship to 11 indigent students\n\n### Nigeria edges towards new security architecture as Tinubu  set to sign State Police bill",
-   "published": "Thu, 05 Nov 2026 03:00:34 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US Ends Solar Tariff Dodges, But Building Own Sector Is Tough - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-   "url": "https://energynow.com/2026/08/us-ends-solar-tariff-dodges-but-building-own-sector-is-tough",
-   "snippet": "#### Soaring Diesel Prices Helped Usher in Democratic Sweep\n\n#### ConocoPhillips Announces Third-Quarter 2026 Results and Increases Quarterly Ordinary Dividend by 11%\n\n#### Tankers Hit in Hormuz as Iran Keeps Up Pressure After US Vote\n\n#### AI Stocks Fall, Oil Bounces Back After ‘Blue Wave’ Drop\n\n#### PERSPECTIVE: Trump’s Midterm Trouncing Underscores Inflation’s Political Poison: McGeever\n\n#### E",
-   "published": "Wed, 04 Nov 2026 22:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "us_biz",
  "_query": "American company Nigeria energy",
  "_domains": [],
