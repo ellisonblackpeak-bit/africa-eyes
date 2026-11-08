@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Lawmakers respond to China Business women protest",
-   "url": "https://www.facebook.com/STLLIB/videos/lawmakers-respond-to-china-business-women-protest/3619818811503693",
-   "snippet": "Lawmakers respond to China Business women protest. investors become discouraged, LAGOS TRADERS' PROTEST AGAINST CHINESE BUSINESSES : A THREAT TO NIGERIA -CHINA",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "On September 15, 2026, traders at the Lagos Trade Fair ...",
-   "url": "https://www.facebook.com/TheICIR/posts/on-september-15-2026-traders-at-the-lagos-trade-fair-complex-staged-a-protest-al/1585115306991565",
-   "snippet": "On September 15, 2026, traders at the Lagos Trade Fair Complex staged a protest, alleging that Chinese merchants were selling goods at retail prices,",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Lagos traders protest over China goods",
-   "url": "https://www.facebook.com/PeoplesDailyNG/posts/lagos-traders-protest-china-goods-association-calls-for-calm/1799939678805989",
-   "snippet": "Lagos traders' protest: China goods association calls for calm. Lagos Traders' Protest: Made in China Goods Traders Association Condemns Action, Appeals for.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "bne IntelliNews - Chinese regulatory inquiry derails Nigeria-focused OPay’s $304mn New York IPO",
-   "url": "https://www.intellinews.com/chinese-regulatory-inquiry-derails-nigeria-focused-opay-s-304mn-new-york-ipo-482293?source=sub-sahara-africa",
-   "snippet": "A Chinese regulatory inquiry prompted Nigeria-focused fintech OPay to abandon its planned $304mn New York initial public offering (IPO) hours after pricing its shares, Bloomberg reported on November 4, citing people familiar with the matter. [...] OPay has no operations or revenue in China, although its founder and non-executive chairman, Zhou Yahui, is a Chinese businessman who also founded Shenz",
-   "published": "Thu, 05 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "breaking news 🚨 what happened in nigeria, watch till the",
-   "url": "https://www.facebook.com/groups/651919153150786/posts/1442689934073700",
-   "snippet": "the federal government of Nigeria has signed a 200 million Chinese yuan grant agreements, equivalent to approximately $30 million, with the Chinese government",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/reel/DfWq4-jRUhL",
-   "snippet": "📰🚨HEADLINE NEWS🚨📰  \n  \n• Nigeria and China have signed a $30 million grant agreement, equivalent to 200 million Chinese Yuan, to support grassroots community development projects across Nigeria.  \n• The Edo State government has empowered petty traders across Oba and Ekiosa markets in Benin City with cash grants and business equipment to support their businesses. [...] • Google has introduced a fre",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Foreigners in Nigeria's retail market, what the law says",
-   "url": "https://www.icirnigeria.org/foreigners-in-nigerias-retail-market-what-the-law-says",
-   "snippet": "One of the items sold in a Chinese-owned store in Abuja is a toilet and bathroom cleaner, a product also manufactured locally in Nigeria. Picture used for illustrative purposes.\n\nSimilarly, the Federal Competition and Consumer Protection Act (FCCPA) 2018 regulates anti-competitive behaviour and abuse of market dominance but does not reserve retail trade exclusively for Nigerian citizens. [...] ###",
-   "published": "Sun, 08 Nov 2026 05:30:41 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_protest",
  "_query": "Chinese investment protest Nigeria",
  "_domains": [],

@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Russian strikes cut power to hundreds of thousands in Ukraine",
+   "url": "https://www.rapporteur.com/news/russian-strikes-cut-power-to-hundreds-of-thousands-in-ukraine/",
+   "content": "The night-time strikes have triggered widespread power outages across the country",
+   "published_date": "Sun, 08 Nov 2026 12:32:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Mélenchon fires up his base for Le Pen runoff",
+   "url": "https://www.rapporteur.com/news/melenchon-fires-up-his-base-for-le-pen-runoff/",
+   "content": "The far-left sets stage for confrontation with 'Macronists and their far-right allies'",
+   "published_date": "Sun, 08 Nov 2026 12:18:52 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Serbia’s student victory leaves Kosovo Serbs facing uncertainty",
    "url": "https://www.rapporteur.com/news/serbias-student-victory-leaves-kosovo-serbs-facing-uncertainty/",
    "content": "Belgrade funds healthcare, education, pensions and social assistance for Kosovo's Serbs",
@@ -195,20 +209,6 @@
    "url": "https://www.rapporteur.com/news/rapporteur-am-eu-leaders-seek-one-ukraine-voice/",
    "content": "Also, in Friday’s edition: Costa gathers final budget offers from capitals",
    "published_date": "Fri, 06 Nov 2026 06:16:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Europe set to miss 2030 renewable energy targets, IEA projects",
-   "url": "https://www.rapporteur.com/news/europe-set-to-miss-2030-renewable-energy-targets-iea-warns/",
-   "content": "Developing countries match rich world amid Iran energy shock that fails to stir EU into action",
-   "published_date": "Fri, 06 Nov 2026 05:01:13 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EPP scrambles to close ranks on farm budget overhaul",
-   "url": "https://www.rapporteur.com/news/epp-scrambles-to-close-ranks-on-farm-budget-overhaul/",
-   "content": "EPP chief Weber was consulted before farm negotiators broke ranks",
-   "published_date": "Fri, 06 Nov 2026 03:05:47 +0000",
    "score": 0.6
   }
  ],

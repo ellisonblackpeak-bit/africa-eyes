@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Will China Shock 2.0 trigger an EU-China trade war? | ABN AMRO",
+   "url": "https://www.abnamro.com/research/en/our-research/will-china-shock-2-0-trigger-an-eu-china-trade-war",
+   "snippet": "The EU responded in various ways to rising trade imbalances with China and the large dependence on China for certain critical inputs. Without being exhaustive: on the trade imbalances front, the EU decided in late 2024 to implement tariffs of up to 45% (on top of the standard 10%) on imports of Chinese electric vehicles (EVs). China responded, amongst other things, with import tariffs on European ",
+   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Behind ACEA's CIIE Debut: Unstoppable Chinese Cars, Inescapable China | Gasgoo",
+   "url": "https://autonews.gasgoo.com/articles/news/behind-aceas-ciie-debut-unstoppable-chinese-cars-inescapable-china-2118712997454974976",
+   "snippet": "In October 2024, the EU officially imposed anti-subsidy tariffs on Chinese-made pure electric passenger vehicles. While the extra duties raised the entry cost for some EVs, Chinese car exports to Europe continued to climb.\n\nData from Cui Dongshu shows that in the first three quarters of 2026, China's exports of plug-in hybrids to the EU jumped 372% year-on-year, while regular hybrid exports rose 9",
+   "published": "Fri, 06 Nov 2026 14:31:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s China Auto Deal | Council on Foreign Relations",
+   "url": "https://www.cfr.org/articles/europes-china-auto-deal",
+   "snippet": "Hybrid imports are capped at 350,000, down from a projected 800,000 in 2026—and then rising to 370,000 and 390,000 in subsequent years.\n Battery electric vehicles face a tariff from 25 percent (Telsa, 10 percent base + 15 percent) to 45 percent (10 percent base plus 35 percent). BYD’s total tariff is at 27 percent, which isn’t prohibitive. Even with these tariffs, battery electric imports will tot",
+   "published": "Mon, 02 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why EU-China Trade Relations Have Deteriorated - The National Interest",
+   "url": "https://nationalinterest.org/feature/why-eu-china-trade-relations-have-deteriorated",
+   "snippet": "But this year, Beijing has become much more accommodating. When earlier this year the Europeans imposed tariffs on Chinese-made electric vehicles (EVs), Beijing rather meekly agreed to cap its European sales of plug-in and hybrid vehicles at 350,000 and only increase them by 6 percent a year going forward. [...] This is but one example. There is talk in EU circles of building on the EV export cap ",
+   "published": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Lawmakers Seek Security Review of BYD Cars",
+   "url": "https://www.technology.org/2026/11/08/byd-cars-security-threat-meps-eu-public-procurement",
+   "snippet": "Europe has so far leaned on trade tools rather than data rules. The EU imposed extra tariffs on Chinese-made electric cars in 2024, and building cars locally helps BYD avoid them, one reason its Hungarian plant began trial production early this year. European carmakers are also weighing Chinese-developed software for their own models, so a security review of BYD could raise questions well beyond o",
+   "published": "Sun, 08 Nov 2026 08:47:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Seres, Li Auto join Chinese EVs' charge into Europe - Nikkei Asia",
+   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe",
+   "snippet": "Automobiles#### Toyota ready to 'regain market share' in China on expanded local sourcing\n\n  Toyota ready to 'regain market share' in China on expanded local sourcing\n\n Electric vehicles#### Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground\n\n  Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground\n\n Electric vehicles#### Takaichi presses Merz not to lea",
+   "published": "Fri, 06 Nov 2026 22:34:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's Near-Record Trade Surplus Conceals a Front-Loaded Export Boom Already Fading",
+   "url": "https://www.latintimes.com/china-september-trade-surplus-tariff-front-loading-ai-demand-600837",
+   "snippet": "China's trade surplus reached $133.53 billion in September 2026 — its second-largest monthly figure on record — powered by a rush of front-loaded orders ahead of tariff deadlines and a global surge in demand for AI-linked semiconductors\n On October 9, the EU and China struck a deal to halve Chinese hybrid vehicle exports to the bloc, with Germany backing broader defensive trade measures for the fi",
+   "published": "Tue, 03 Nov 2026 15:26:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Like Canada, Africa’s largest car producer braces for job and export losses in 2027 while hoping China and Europe can come to their rescue. | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/like-canada-africas-largest-car-producer-braces-for-job-and-export-losses-in-2027/7knh6e3",
+   "snippet": "As a result, Prime Minister Mark Carney is also turning to China for further relief, securing an agreement in January 2026 to allow 49,000 Chinese electric vehicles into the country annually, hoping to attract investment and strengthen domestic manufacturing.\n\n\"For Canada to build its own competitive EV sector, we will need to learn from innovative partners, access their supply chains, and increas",
+   "published": "Sun, 08 Nov 2026 11:30:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Geely chairman sees China's car market shrinking again in 2027 - Automotive News",
+   "url": "https://www.autonews.com/geely/an-geely-forecasts-china-sales-decline-1105",
+   "snippet": "Stellantis\n\nStellantis asks parts makers for deeper visibility into supply chain\n\nBy\n\nKurt Nagl\n\nStellantis asks parts makers for deeper visibility into supply chain [...] From food drives to technician training, Best Dealerships make philanthropy part of doing business\n\nGK\n\nBy\n\nGail Kachadourian Howe\n\nFrom food drives to technician training, Best Dealerships make philanthropy part of doing busine",
+   "published": "Thu, 05 Nov 2026 14:46:08 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_ev",
  "_query": "EU electric vehicle tariff China",
  "_domains": [],
