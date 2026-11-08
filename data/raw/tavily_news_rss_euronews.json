@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 8th, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 8th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sun, 08 Nov 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "At least 21 dead after migrant boat capsizes off Senegal, authorities say",
+   "url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
+   "content": "The United Nations' International Organization for Migration (IOM) says the dangerous Atlantic Route is a key pathway for West African migrants travelling to Europe.",
+   "published_date": "Sun, 08 Nov 2026 11:01:49 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Netanyahu rival Eisenkot to be tasked with forming new government following Israeli elections",
+   "url": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
+   "content": "In Israel, a candidate tasked with forming a new government has 28 days to carry out the job. The president is able to extend this by a maximum of 14 days before giving the mandate to someone else.",
+   "published_date": "Sun, 08 Nov 2026 09:51:38 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Trump offers UFC boss White House press secretary role: 'Dana, please take the job!'",
    "url": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
    "content": "Trump and White have forged a close relationship over the years, with Trump a regular attendee at UFC events and White having spoken at a number of the president's rallies.",
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/2026/11/06/five-people-rescued-off-kiribati-after-months-drifting-at-sea",
    "content": "In a statement shared on Sunday, the governor of Micronesia's Chuuk state, Alexander Narruhn, said he was in talks with the Kiribati government to bring the survivors home.",
    "published_date": "Fri, 06 Nov 2026 12:29:33 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Japan: Commuters flock to see two goats grazing at Tokyo station",
-   "url": "https://www.euronews.com/video/2026/11/06/japan-commuters-flock-to-see-two-goats-grazing-at-tokyo-station",
-   "content": "Two white goats have become unlikely celebrities in central Tokyo after being recruited to clear overgrown vegetation near Yotsuya railway station. Their eco-friendly gardening duties are attracting crowds of delighted onlookers.",
-   "published_date": "Fri, 06 Nov 2026 12:03:47 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Hormuz standoff ‘not sustainable’, senior Iranian lawmaker tells Euronews",
-   "url": "https://www.euronews.com/2026/11/06/hormuz-standoff-not-sustainable-senior-iranian-lawmaker-tells-euronews",
-   "content": "MP and foreign minister under Ahmadinejad, Manouchehr Mottaki, told Euronews that multiple ships a day were being disabled as the IRGC Navy worked to bring unauthorised transit to zero. He called on Washington to lift its naval blockade strangling the Iranian economy before talks resume.",
-   "published_date": "Fri, 06 Nov 2026 12:02:35 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 6th, 2026 – Midday",
-   "url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-midday",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Fri, 06 Nov 2026 12:00:15 +0100",
    "score": 0.6
   }
  ],

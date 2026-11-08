@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Russian strikes leave 600,000 in the dark in eastern Ukraine",
+   "url": "https://www.politico.eu/article/russian-strikes-leave-600000-in-the-dark-in-eastern-ukraine-dnipropetrovsk/",
+   "content": "Ukrainian President Volodymyr Zelenskyy called for further sanctions on Russia ahead of talks in Abu Dhabi.",
+   "published_date": "Sun, 08 Nov 2026 11:09:52 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Security Sunday: Die neue Front der Bundeswehr in Litauen – mit Robertas Kaunas",
+   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-die-neue-front-der-bundeswehr-in-litauen-mit-robertas-kaunas/",
+   "content": "Eingeklemmt zwischen Kaliningrad und Belarus liegt die verwundbarste Stelle der NATO. Genau hier entsteht mit der Panzerbrigade 45 das wohl wichtigste Projekt der deutschen Zeitenwende. Bis 2027 sollen fast 5.000 deutsche Soldaten dauerhaft in Litauen stationiert werden. Doch die Bedrohung durch Russland ist längst nicht mehr nur theoretisch: Drohnen, Desinformation und brennende Infrastruktur zeigen, dass […]",
+   "published_date": "Sun, 08 Nov 2026 09:30:58 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Ein Spaziergang mit Bodo Ramelow",
    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-bodo-ramelow/",
    "content": "Die Welt spielt verrückt, doch im Präsidium des Bundestages herrscht überraschende Einigkeit. Bundestagsvizepräsident Bodo Ramelow (Die Linke) gibt im Gespräch mit Gordon Repinski einen seltenen Einblick in die überparteiliche Zusammenarbeit, auch bei Nachtschichten. Dabei wird deutlich, mit welcher Strategie das Gremium den Provokationen der AfD begegnet. In seiner eigenen Partei brodelt es derweil gewaltig. Ramelow […]",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/marine-le-pen-european-ambassadors-france-eu-agenda/",
    "content": "The far-right candidate briefed ambassadors from France’s neighboring countries about her EU agenda.",
    "published_date": "Fri, 06 Nov 2026 15:50:34 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "US officials head to Berlin for drug pricing talks",
-   "url": "https://www.politico.eu/article/us-germany-talks-drug-pricing/",
-   "content": "Talks come as Germany scrambles to avoid U.S. tariffs over the way it prices new drugs.",
-   "published_date": "Fri, 06 Nov 2026 15:15:37 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Election favorite says Spain should quit as World Cup co-host if Morocco stages the final",
-   "url": "https://www.politico.eu/article/alberto-nunez-feijoo-spain-withdraw-host-world-cup-2030-morocco-final/",
-   "content": "Alberto Núñez Feijóo, the conservative front-runner to become Spain's next prime minister, said it is “fair, fitting and unquestionable” that his country hosts the 2030 showpiece fixture.",
-   "published_date": "Fri, 06 Nov 2026 14:31:22 +0000",
    "score": 0.6
   }
  ],

@@ -2,6 +2,62 @@
  "success": true,
  "results": [
   {
+   "title": "2026 Dakar Youth Olympic Games: Golden Double for Senegal",
+   "url": "https://www.france24.com/en/tv-shows/sports/20261108-2026-dakar-youth-olympic-games-golden-double-for-senegal",
+   "content": "Senegal won two gold medals in beach wrestling at the Youth Olympic Games in Dakar. Elisabeth Diatta won gold in the -55 kg category, the host country’s first gold medal at the Youth Olympic Games. Her compatriot Maguette Diop followed suit, taking gold in the -80 kg category.",
+   "published_date": "Sun, 08 Nov 2026 10:56:56 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Diwali: Over one billion people mark victory of light over darkness",
+   "url": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
+   "content": "Diwali celebrations began on Sunday, with people across India and the global diaspora gathering to mark one of the most important festivals in the Hindu tradition. In Ayodhya, believed to be the birthplace of Lord Rama, the deity celebrated during the festival, festivities included performances based on the Hindu epic Ramayana, laser and light shows, live music, fireworks and drone displays.",
+   "published_date": "Sun, 08 Nov 2026 10:46:37 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
+   "url": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
+   "content": "Paraguay's ousted president, Santiago Peña, has been charged over the collapse of Ueno Bank. Initially placed under house arrest, he has since been transferred to a military facility for his own safety. Nearly three million customers were locked out of their accounts after regulators seized control of the online bank. Repayments are now under way, but protests continue as customers demand access to their money. Peña denies any wrongdoing. Jack Pownall reports.",
+   "published_date": "Sun, 08 Nov 2026 10:42:59 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
+   "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+   "content": "Riyadh’s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen’s Houthi rebels intercepted two ballistic missiles headed for the capital’s financial district. The attack comes a day after Saudi ​air strikes killed at least 33 people near Sanaa. Follow our liveblog for the latest developments from the Middle East.",
+   "published_date": "Sun, 08 Nov 2026 09:47:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Donald Trump wants UFC fighters as assistants",
+   "url": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
+   "content": "After a series of combative press briefings between the Trump administration and journalists, the US president surprised many by reportedly offering Dana White, the head of the Ultimate Fighting Championship (UFC) and a longtime friend, the role of White House press secretary. Trump praised White as a “violent fighter and warrior”, but US media reports say he has already turned down the offer. Was it a punchy choice by the president or simply a punchline? Jack Pownall takes a closer look.",
+   "published_date": "Sun, 08 Nov 2026 09:44:28 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Israel's Arab-led parties gain influence",
+   "url": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
+   "content": "Arab-led parties have endorsed Gadi Eisenkot despite his ruling out a coalition with them. Their support is driven by a shared goal: removing Benjamin Netanyahu from power. But could these parties ultimately hold the balance of power in forming Israel's next government? Antonia Kerrigan reports.",
+   "published_date": "Sun, 08 Nov 2026 09:43:26 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Gaza: Heavy rain inundates thousands of tents",
+   "url": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+   "content": "Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with the floodwater, further worsening already dire living conditions. Families are struggling to salvage their belongings, building makeshift earthen barriers and trying to drain the water by hand. Many have seen essential items soaked and rendered unusable, adding to the hardship faced by those already displaced.",
+   "published_date": "Sun, 08 Nov 2026 09:42:03 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Poland launches terrorism probe into mass shooting in Krakow",
+   "url": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting",
+   "content": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the 24-year-old suspect, who used a semi-automatic rifle in his killing spree, was “fascinated by far-right ideologies”. He is currently in critical condition in hospital.",
+   "published_date": "Sun, 08 Nov 2026 08:59:56 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Tenerife honour teammate Jesus De Miguel with tearful tribute",
    "url": "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain",
    "content": "Tenerife’s stadium filled up with thousands of mourners on Saturday where they held a tearful tribute to striker Jesus De Miguel, who passed away after colliding with a goalkeeper during a match, subsequently suffering a cardiac arrest. \"To speak of you in the past tense ​is tremendously unfair,\" team captain Enric Gallego said.",
@@ -65,9 +121,9 @@
    "score": 0.6
   },
   {
-   "title": "Paraguay’s impeached president charged over bank collapse",
+   "title": "Paraguay’s impeached president charged over business links to bank collapse",
    "url": "https://www.france24.com/en/americas/20261107-paraguay-s-impeached-president-charged-over-bank-collapse",
-   "content": "Paraguay’s impeached president Santiago Pena was on Saturday charged over his business links to a major online bank whose sudden collapse has locked millions of people out of their money and sparked angry protests.",
+   "content": "Paraguay’s impeached president Santiago Peña was on Saturday charged over his business links to a major online bank whose sudden collapse locked millions of people out of their money and sparked angry protests.",
    "published_date": "Sat, 07 Nov 2026 15:49:53 GMT",
    "score": 0.6
   },
@@ -81,7 +137,7 @@
   {
    "title": "Gunman who killed at least six in Krakow ‘fascinated’ by far-right ideologies, government says",
    "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-   "content": "A gunman reportedly \"fascinated by far-right ideologies\" shot and killed at least six people and wounded more than a dozen more in Krakow’s main market square on Saturday, Polish authorities said. Three more bodies were later found at the home of the gunman, who was wounded and taken into custody.",
+   "content": "A gunman reportedly \"fascinated by far-right ideologies\" shot and killed at least six people and wounded more than a dozen in Krakow’s main market square on Saturday, Polish authorities said. Three more bodies were later found at the home of the gunman, who was wounded and taken into custody.",
    "published_date": "Sat, 07 Nov 2026 15:23:48 GMT",
    "score": 0.6
   },
@@ -111,62 +167,6 @@
    "url": "https://www.france24.com/en/nations-league-zinedine-zidane-balances-surprise-and-continuity-in-his-second-roster",
    "content": "Zinedine Zidane has unveiled his France squad for the upcoming Nations League clashes against Italy and Turkey. Pablo Pagis earns a surprise first call-up, while Kylian Mbappé and several other key players return from injury",
    "published_date": "Sat, 07 Nov 2026 13:27:01 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Banking scandal topples Paraguay leader",
-   "url": "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
-   "content": "Paraguay’s ousted president Santiago Peña has been placed under house arrest after senators unanimously voted to remove him over a banking scandal. The collapse of Ueno Bank left nearly three million customers unable to access their savings. Peña denies any wrongdoing, while his successor, Pedro Alliana, has pledged to compensate those affected.",
-   "published_date": "Sat, 07 Nov 2026 12:16:45 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Russia launches massive strike on Kyiv",
-   "url": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
-   "content": "As Ukraine prepares for another round of talks with Russia and the United States next week, Moscow has launched a massive overnight strike. At least five people were injured in Kyiv, where Russian missiles damaged residential and commercial buildings, forced the closure of a bridge over the Dnipro River and caused fresh power and water outages. Ophélie Jacobson reports.",
-   "published_date": "Sat, 07 Nov 2026 12:15:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Stephen Miller named White House Chief of Staff",
-   "url": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
-   "content": "Following historic Republican losses in the midterm elections, Donald Trump has replaced his chief of staff, Susie Wiles, with her deputy Stephen Miller, the architect of his administration’s immigration crackdown. Wiles had been seen by some as a stabilising force in the White House, but with Democrats now controlling both chambers of Congress, Trump is reportedly seeking a more aggressive approach to pushing his agenda. Caroline Baum reports.",
-   "published_date": "Sat, 07 Nov 2026 12:14:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Israel coalition talks gain momentum",
-   "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
-   "content": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot says he is confident of securing the mandate to form a government, as President Isaac Herzog prepares to nominate the first candidate. Eisenkot claims he is making progress in efforts to oust long-serving Prime Minister Benjamin Netanyahu. Noga Tarnopolsky reports from Jerusalem.",
-   "published_date": "Sat, 07 Nov 2026 12:12:06 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kenyan cult leader sentenced to 200 years in prison",
-   "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1",
-   "content": "Kenyan cult leader Paul Mackenzie has been sentenced to 200 years in prison for the deaths of 190 children who were starved to death on his orders in Shakahola Forest. Prosecutors said he had convinced followers to fast to reach heaven before the apocalypse, with some victims beaten, buried alive or dumped in latrines. Twenty-eight accomplices have also been jailed. The case has raised serious questions about the authorities' failure to act on repeated warning signs dating back to 2017, with the death toll from the wider investigation reaching 448 confirmed bodies and around 500 suspected victims.",
-   "published_date": "Sat, 07 Nov 2026 12:10:34 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Retired tennis star Gaël Monfils named captain of France's Davis Cup team",
-   "url": "https://www.france24.com/en/france/20261107-retired-tennis-star-ga%C3%ABl-monfils-named-captain-of-france-s-davis-cup-team",
-   "content": "Recently retired tennis player Gaël Monfils was named captain of the French Davis Cup team, the country's tennis federation announced Saturday. France will next take part in the Davis Cup in February 2027 after having failed to qualify for this year's finals in Bologna.",
-   "published_date": "Sat, 07 Nov 2026 12:07:56 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
-   "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
-   "content": "Far-left presidential candidate Jean-Luc Mélenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonetheless beloved among France's youth, who are drawn to his progressive policy proposals and say he empowers them to get more involved in politics.",
-   "published_date": "Sat, 07 Nov 2026 10:44:34 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Pope urges healthcare for all in Uruguay",
-   "url": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
-   "content": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the continent’s most secular country. Jack Pownall reports.",
-   "published_date": "Sat, 07 Nov 2026 09:41:23 GMT",
    "score": 0.6
   }
  ],
