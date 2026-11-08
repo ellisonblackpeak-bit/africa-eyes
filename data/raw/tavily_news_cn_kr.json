@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "South Korea's $350 Billion U.S. Investment Faces Uncertainty, With Tariff Policy Holding Firm - Businesskorea",
-   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280563",
-   "snippet": "Expanding semiconductor production in the United States and reducing supply-chain dependence on China remain shared policy goals of both parties, suggesting that pressure on South Korean companies to make additional U.S. investments will continue. At the same time, changes in regulations governing AI data center construction and policies related to electricity and water supply could affect major t",
-   "published": "Thu, 05 Nov 2026 03:57:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Korea Investment, SBI Holdings plan 10 trillion won fund to build AI data centers in Japan - KED Global",
-   "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202611010002",
-   "snippet": "(Courtesy of Getty Images) South Korea’s venture capital industry has staged a sharp earnings recovery, with leading firms posting a V-shaped rebound as buoyant equity markets boosted exits and portfolio valuations.Korea Investment Partners Co. and Mirae Asset Venture Investment Co. ranke ## Korea Investment & Securities signs strategic MOU with China’s No. 1 brokerage Guotai Haitong\n\nKorea Invest",
-   "published": "Sun, 01 Nov 2026 12:37:10 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Democratic gains unlikely to derail Korea-US investment deal - The Korea Herald",
-   "url": "https://www.koreaherald.com/article/10925899",
-   "snippet": "Bipartisan efforts to reduce US dependence on China could also benefit Korean companies supplying American manufacturers, although restrictions on Chinese materials may increase production costs.\n\nAI investment faces new uncertainty\n\nThe growing US artificial intelligence industry presents another challenge for Korean technology companies. [...] For South Korea, the biggest concern is not necessar",
-   "published": "Wed, 04 Nov 2026 06:58:54 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html",
-   "snippet": "The rotation follows a sharp decline in semiconductor-heavy markets after the U.S. midterm elections, with investors reassessing their exposure to companies supplying the global AI expansion.\n\nSouth Korea's Samsung Electronics and SK Hynix, alongside Taiwan Semiconductor Manufacturing, have faced selling pressure as doubts grow over whether AI investment will deliver sufficient profits. [...] Inve",
-   "published": "Sun, 08 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Korea’s Stock Market Crashed $1 Trillion. What Does That Mean for the Global AI Race?",
-   "url": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
-   "snippet": "Throughout the first half of 2026, foreign investments have flowed out of Asian equities at a record pace — with Korea among the hardest hit. In line with the KOSPI’s crash, in May and June, South Korea’s capital flight (in equities) exceeded $35 billion. On July 28, Korea’s stock market dropped more than 8% during intraday trading, the eighth instance that year. There have been at least 33 days o",
-   "published": "Mon, 02 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea investigates 580 finance firms over data leaks, issues warning | South China Morning Post",
-   "url": "https://www.scmp.com/week-asia/economics/article/3373363/south-korea-investigates-580-finance-firms-over-data-leaks-issues-warning",
-   "snippet": "Advertisement\n\nSouth Korea\n\nThis Week in AsiaEconomics\n\n# South Korea investigates 580 finance firms over data leaks, issues warning\n\nThe Financial Services Commission warns banks against ignoring known security risks and unsafe practices\n\n2-MIN READ2-MIN\n\nListen\n\nA stack of 50,000 South Korea won cash bills. A total of 1 billion won (US$745,000) in funds held by various financial firms have been ",
-   "published": "Thu, 05 Nov 2026 07:08:53 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "AI Slump Revives Asia’s Forgotten Trades From China to India - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
-   "snippet": "Aberdeen Investments favors markets powered by stronger domestic growth, including India and Vietnam, and sees upside in Chinese technology firms. Hedge fund Lotus Asset Management is long Hong Kong equity futures, while Allianz Global Investors is looking at healthcare and consumer companies. [...] # AI Slump Revives Asia’s Forgotten Trades From China to India\n\n## Takeaways by Bloomberg AI\n\nThe u",
-   "published": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say",
-   "url": "https://www.reuters.com/world/china/chinese-chipmaker-ymtc-puts-ipo-hold-weaker-markets-weigh-sources-say-2026-11-04",
-   "snippet": "Flash-memory chipmaker Yangtze Memory Technologies Co has put its Shanghai IPO ​on hold, according to a company memo and three people with knowledge of the",
-   "published": "Thu, 05 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_kr",
  "_query": "Chinese company South Korea investment",
  "_domains": [],

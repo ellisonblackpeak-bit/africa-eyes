@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Gunmen kills six in Krakow, three more bodies found at his house",
+   "title": "Tenerife honour teammate Jesus De Miguel with tearful tribute",
+   "url": "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain",
+   "content": "Tenerife’s stadium filled up with thousands of mourners on Saturday where they held a tearful tribute to striker Jesus De Miguel, who passed away after colliding with a goalkeeper during a match, subsequently suffering a cardiac arrest. \"To speak of you in the past tense ​is tremendously unfair,\" team captain Enric Gallego said.",
+   "published_date": "Sun, 08 Nov 2026 07:08:28 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Gunman kills six in Krakow, three more bodies found at his house",
    "url": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
    "content": "A chilling new discovery in Poland, where three bodies have reportedly been found inside the Krakow gunman's home. That's in addition to six people killed and sixteen wounded when the attacker opened fire in the city's historic square. Prime Minister Donald Tusk has now declared the shooting an act of terrorism, saying Poland has never experienced anything quite like it. The 25-year-old suspect, described by authorities as holding radical far-right views, was shot by police.",
    "published_date": "Sat, 07 Nov 2026 22:47:06 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "France beat Fiji to reclaim top spot in Nations Championship",
+   "url": "https://www.france24.com/en/sport/20261107-france-beat-fiji-to-reclaim-top-spot-in-nations-championship",
+   "content": "France trashed Fiji 54-17 on Saturday to return to the top of the northern hemisphere Nations Championship standings.",
+   "published_date": "Sat, 07 Nov 2026 22:05:54 GMT",
    "score": 0.6
   },
   {
@@ -51,6 +65,13 @@
    "score": 0.6
   },
   {
+   "title": "Paraguay’s impeached president charged over bank collapse",
+   "url": "https://www.france24.com/en/americas/20261107-paraguay-s-impeached-president-charged-over-bank-collapse",
+   "content": "Paraguay’s impeached president Santiago Pena was on Saturday charged over his business links to a major online bank whose sudden collapse has locked millions of people out of their money and sparked angry protests.",
+   "published_date": "Sat, 07 Nov 2026 15:49:53 GMT",
+   "score": 0.6
+  },
+  {
    "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
    "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
    "content": "",
@@ -58,7 +79,7 @@
    "score": 0.6
   },
   {
-   "title": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says",
+   "title": "Gunman who killed at least six in Krakow ‘fascinated’ by far-right ideologies, government says",
    "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
    "content": "A gunman reportedly \"fascinated by far-right ideologies\" shot and killed at least six people and wounded more than a dozen more in Krakow’s main market square on Saturday, Polish authorities said. Three more bodies were later found at the home of the gunman, who was wounded and taken into custody.",
    "published_date": "Sat, 07 Nov 2026 15:23:48 GMT",
@@ -146,27 +167,6 @@
    "url": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
    "content": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the continent’s most secular country. Jack Pownall reports.",
    "published_date": "Sat, 07 Nov 2026 09:41:23 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "AI Data centres face growing backlash",
-   "url": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
-   "content": "Democrats are also calling for tighter regulation of AI data centres, a concern shared across Europe. In Amsterdam, several hundred activists occupied the site of a planned Microsoft data centre as part of a two-day protest taking place across the continent. Jennie Shin reports.",
-   "published_date": "Sat, 07 Nov 2026 09:39:55 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yemen: 30 dead in strikes on Taiz market",
-   "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
-   "content": "At least 30 people have reportedly been killed in an attack on a market in Yemen’s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authorities have disputed the claim, instead accusing the Houthis of indiscriminate fire. The province has witnessed intense clashes in recent weeks and is home to around half of the more than 300,000 people displaced by the latest fighting. Caroline Baum reports.",
-   "published_date": "Sat, 07 Nov 2026 09:37:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "USA: Democrats vow to investigate Donald Trump",
-   "url": "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
-   "content": "In this new era of divided government, Democratic lawmakers say their priorities will be tackling the rising cost of living, investigating alleged corruption and tightening oversight of ICE agents. Antonia Kerrigan reports.",
-   "published_date": "Sat, 07 Nov 2026 09:36:25 GMT",
    "score": 0.6
   }
  ],
