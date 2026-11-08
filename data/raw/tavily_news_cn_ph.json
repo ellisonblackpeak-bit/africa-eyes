@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "India Philippines BrahMos Missile Deal Expands - The China-Global South Project",
+   "url": "https://chinaglobalsouth.com/2026/11/07/india-philippines-brahmos-missile-deal-china-south-china-sea",
+   "snippet": "As India and the Philippines held their first-ever joint naval exercise in the South China Sea on August 3–4, Chinese social media lit up not with surprise, but with sarcasm. The timing was key: ...\n\n## What is The China-Global South Project?\n\n#### Independent\n\nThe China-Global South Project is passionately independent, non-partisan and does not advocate for any country, company or culture.\n\n#### ",
+   "published": "Sat, 07 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Biz groups to PH, China: ‘Lower the temperature",
+   "url": "https://business.inquirer.net/619374/biz-groups-to-ph-china-lower-the-temperature",
+   "snippet": "The Philippines and China signed a 2018 memorandum of understanding on joint offshore energy exploration. Locsin signed it; then President Rodrigo Duterte ordered the talks terminated in June 2022.\n\n“What China and the Philippines signed in 2018 was a Memorandum of Understanding, not a framework agreement. It only committed both governments to negotiate,” Tarriela said.\n\n Your subscription could n",
+   "published": "Tue, 03 Nov 2026 05:46:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China, South Korea, and Japan looking into ASEAN’s clean energy market amid US scale-back | Singapore EDB",
+   "url": "https://www.edb.gov.sg/en/news-and-insights/china-south-korea-and-japan-looking-into-aseans-clean-energy-market-amid-us-scale-back",
+   "snippet": "On the heels of the LTMS project, the Brunei-Indonesia-Malaysia-Philippines power integration project was announced in August 2023. It aims to create multiple interconnections across the grids of the four countries, drawing on key lessons from the LTMS project.\n\nFeasibility studies on the interconnections must be done before financing support can be sought for the subsea cables, said Ms Seah, who ",
+   "published": "Sun, 01 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Philippines’ project budget allocations spur accusations of pork barrel politics | South China Morning Post",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373450/philippines-project-budget-allocations-spur-accusations-pork-barrel-politics",
+   "snippet": "A road project with coordinates pointing to Nigeria. A government building apparently located in the Sahara Desert. Another road mapped to a sea near Brunei.\n\nThese are among the unlikely locations listed for infrastructure projects in the Philippines’ proposed 2027 national budget, according to independent watchdogs that have discovered the discrepancies, highlighting problems with government tra",
+   "published": "Fri, 06 Nov 2026 02:30:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China dependence leaves Phl firms exposed | Daily Tribune",
+   "url": "https://tribune.net.ph/2026/11/02/china-dependence-leaves-phl-firms-exposed",
+   "snippet": "PHILIPPINES business organizations called on officials to keep to established diplomatic channels and maintain careful economic statecraft rather than resort to inflammatory public recriminations in addressing issues with Chinese bureaucrats.They warn that harsh diplomatic sanctions and escalating rhetoric risk severe economic fallout. China remains a primary trading partner, a major source of imp",
+   "published": "Mon, 02 Nov 2026 16:19:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Construction of Chinese HTGR begins - World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/construction-of-chinese-htgr-begins",
+   "snippet": "CNNC said the project is planned to be implemented through direct procurement, with specialised nuclear power engineering subsidiary CNNC Energy Technology Company Ltd entrusted with the high-temperature reactor design, equipment and material procurement and delivery, certification support, construction technical support, commissioning support, equipment training, and related project management. C",
+   "published": "Fri, 06 Nov 2026 12:47:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Jereh ADNOC Onshore Awards: Chinese Firm Wins $2.7B Abu Dhabi Projects",
+   "url": "https://constructionreviewonline.com/jereh-adnoc-onshore-awards-chinese-firm-wins-2-7b-abu-dhabi-projects",
+   "snippet": "European Energy FeaturedEuropean Energy is a renewable energy company developing, constructing, and operating wind, solar, and Power-to-X projects across Europe and internationally.…\n Port of Long Beach FeaturedThe Port of Long Beach is building the Port of the FutureTM, guided by its 2050…\n Tokamak Energy FeaturedTokamak Energy is a leading fusion and superconducting technology company, founded i",
+   "published": "Thu, 05 Nov 2026 19:58:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Hainan Free Trade Port's Role in Linking China and ASEAN Strengthens – Thailand Business News",
+   "url": "https://www.thailand-business-news.com/pr-news/hainan-free-trade-ports-role-in-linking-china-and-asean-strengthens",
+   "snippet": "Asean\n  + Cambodia\n  + Indonesia\n  + Malaysia\n  + Myanmar\n  + Philippines\n  + Singapore\n  + Vietnam\n Banking\n  + Cryptocurrencies\n Business\n  + Companies\n  + Investment\n China\n Economics\n Investment\n  + SET\n  + Markets\n Tech\n Tourism\n  + Travel\n  + Visa\n Trade\n video\n |\n PR News\n  + Media OutReach Newswire\n  + PR Newswire\n  + MarketersMEDIA Newswire\n\nNo Result\n\nView All Result\n\nThailand Business N",
+   "published": "Thu, 05 Nov 2026 10:03:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Grab rival Tada joins Singapore's self-driving minibus project - Nikkei Asia",
+   "url": "https://asia.nikkei.com/business/transportation/grab-rival-tada-joins-singapore-s-self-driving-minibus-project",
+   "snippet": "## Latest on Transportation\n\n- Transportation#### China's slumping state airlines pin hopes on overseas demand like exporters\n\n  China's slumping state airlines pin hopes on overseas demand like exporters\n\n- Transportation#### Toyota and Waymo to roll out driverless robotaxis in Japan in 2027\n\n  Toyota and Waymo to roll out driverless robotaxis in Japan in 2027\n\n- Transportation#### Japan bullet t",
+   "published": "Sun, 08 Nov 2026 01:04:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ulanqab signs 109 computing center projects — Channel NewsAsia | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/ulanchab-u-kitayi-pidpisav-109-proiektiv-obchisliuvalnikh-tsentriv-channel-newsasia",
+   "snippet": "The expansion of data centers is already changing the lives of residents in surrounding villages. Farmer Zhang Zhiyong said he received more than 200,000 yuan in compensation for transferring about 0.7 hectares of his more than 1.3 hectares of land for development. He now grows potatoes on only one mu — approximately 670 square meters — and leases most of his remaining plots to other farmers.\n\n## ",
+   "published": "Sun, 08 Nov 2026 00:29:18 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],

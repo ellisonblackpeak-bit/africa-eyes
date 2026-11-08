@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "A bridge between past and present",
+   "url": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
+   "content": "A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contribution to the development of Indian civilization",
+   "published_date": "Sun, 08 Nov 2026 04:42:10 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Providing clean air govt’s responsibility, citizen’s participation important: Delhi CM Rekha Gupta",
    "url": "https://www.thehindu.com/news/cities/Delhi/providing-clean-air-govts-responsibility-citizens-participation-important-delhi-cm-rekha-gupta/article71679206.ece",
    "content": "Ms. Gupta urges Delhi people to use green crackers and celebrate the festival with diyas, rangoli, sweets and mutual harmony",
@@ -41,27 +48,6 @@
    "url": "https://www.thehindu.com/news/national/karnataka/bangalore-university-to-establish-placement-cells-in-all-affiliated-colleges/article71678576.ece",
    "content": "",
    "published_date": "Sun, 08 Nov 2026 00:03:53 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
-   "content": "The book, Amerikka-Israel Aneethiyum Makkal Samuga Kadamaiyum, features articles examining the trajectory of hostilities between the United States and Iran and the Israel-Lebanon conflict",
-   "published_date": "Sun, 08 Nov 2026 00:00:38 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Delhi traffic congestion rose 12.6% in a year; Qutab Road, Chirag Delhi among worst hotspots",
-   "url": "https://www.thehindu.com/news/cities/Delhi/qutab-road-chirag-delhi-iit-flyover-among-delhis-10-worst-congestion-hotspots-7-pm-is-peak-traffic-hour/article71677395.ece",
-   "content": "Analysis by traffic management platform identifies commercial activity, roadside parking, freight movement and poorly designed junctions as major causes of bottlenecks; average daily congestion length increased from 2,405 km in September 2025 to 2,708 km in September 2026, with traffic pressure peaking around 7 p.m.",
-   "published_date": "Sat, 07 Nov 2026 23:32:37 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Students urged to dream big, prepare for a self-reliant India",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
-   "content": "",
-   "published_date": "Sat, 07 Nov 2026 23:17:05 +0530",
    "score": 0.6
   }
  ],

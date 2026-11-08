@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Today's headlines : 28 states approve State Police Bill as ...",
+   "url": "https://www.facebook.com/vanguardngr/videos/todays-headlines-28-states-approve-state-police-bill-as-nass-moves-to-transmit-t/1145124318268700",
+   "snippet": "The Nigerian National Assembly (NASS) has approved the State Police Bill to be transmitted to President Bola Tinubu for assent.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Ibom Deep Seaport Approval Announced at Akwa ...",
+   "url": "https://www.facebook.com/aksgovt/videos/when-i-arrived-here-this-afternoon-i-was-wondering-what-message-i-would-convey-t/2597609074071338",
+   "snippet": "President Tinubu approves the Ibom Deep Seaport during his visit to Akwa Ibom today. ... Ibom deep sea port have been approved by the president of Nigeria today,",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria took a step closer to a major overhaul of its security ...",
+   "url": "https://www.facebook.com/RFI.English/posts/nigeria-took-a-step-closer-to-a-major-overhaul-of-its-security-system-after-28-o/1574735298015843",
+   "snippet": "The Nigerian Senate has approved a bill that would allow the country's 36 states to create their own police forces, in what could become one of the biggest",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu Approves Ibom Deep Seaport, International Airport ...",
+   "url": "https://www.youtube.com/watch?v=CcV7tqHBk8s",
+   "snippet": "President Bola Tinubu approved the proposed Ibom Deep Seaport and reaffirmed Victor Attah International Airport's status as an international airport during",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu asks NASS to approve new $7.7bn loan, withdraws previous external borrowing request",
+   "url": "https://www.premiumtimesng.com/news/headlines/922690-tinubu-asks-nass-to-approve-new-7-7bn-loan-withdraws-previous-external-borrowing-request.html",
+   "snippet": "The International Monetary Fund and the World Bank have repeatedly urged Nigeria to strengthen revenue mobilisation, improve tax collection and ensure that borrowed funds support productive investments capable of generating economic returns.\n\nThe federal government has maintained that external borrowing is necessary to address the country’s infrastructure deficit, finance development projects and ",
+   "published": "Wed, 04 Nov 2026 14:34:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria state police bill clears constitutional hurdle after 28 ...",
+   "url": "https://www.reuters.com/world/africa/nigeria-state-police-bill-clears-constitutional-hurdle-after-28-states-approve-2026-11-03",
+   "snippet": "A constitutional amendment to create state police forces in Nigeria won approval from 28 state legislatures, surpassing the threshold needed",
+   "published": "Wed, 04 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria - Politics, Economy, Society | Britannica",
+   "url": "https://www.britannica.com/place/Nigeria/Government-and-society",
+   "snippet": "1970s and ’80s the government attempted to found a university in every state, but, with the ever-increasing number of states, this practice was abandoned. Numerous federal and state universities have since been established, especially during the 21st century. Attempts by individuals and private organizations, including various Christian churches, to establish universities did not receive the appro",
+   "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PARLIAMENT NEWS ROUND UP | NTA",
+   "url": "https://www.youtube.com/watch?v=4BS8Zdl7oc8",
+   "snippet": "Nigerian Television Authority Abuja, Ready to Transmit State Police Bill to Pres. Tinubu for Assent After Approval by 28 States",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "President Tinubu Seeks Approval For Fresh $7.7bn ...",
+   "url": "https://www.facebook.com/AfricaIndependentTelevision/videos/president-tinubu-seeks-approval-for-fresh-77bn-foreign-loan/1049792801452643",
+   "snippet": "$21.543 billion USD. President Bola Tinubu has asked the Senate to approve a new external borrowing plan worth $20.52 billion and €1.05 billion euros.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Ogun State Government",
+   "url": "https://ogunstate.gov.ng",
+   "snippet": "Prince Adedapo Oluseun Abiodun, MFR, Governor of Ogun State, Nigeria, was born on Sunday, 29th May, 1960 into the family of Dr. Emmanuel and Mrs. Victoria",
+   "published": "Sat, 07 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ng",
  "_query": "Nigeria government approves",
  "_domains": [],

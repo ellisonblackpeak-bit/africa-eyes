@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Boway Alloy to invest $51 mln in northern Vietnam plant expansion",
+   "url": "https://theinvestor.vn/boway-alloy-to-invest-51-mln-in-northern-vietnam-plant-expansion-d20392.html",
+   "snippet": "The Chinese company said capital would be deployed in stages and linked to construction milestones. The investment figures are based on internal financial estimates, with final spending subject to actual project implementation. [...] The bedra brand is associated with German precision-wire manufacturer Berkenhoff, founded in 1889. China's Boway Group acquired the German company in 2015 from invest",
+   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Hyundai, POSCO Future M Collaborate on Vietnam Graphite Supply",
+   "url": "https://www.chosun.com/english/industry-en/2026/11/03/X3WSNCSQT5HW5GKAZHQOOSG5QU",
+   "snippet": "English\nIndustry\n\n# Hyundai, POSCO Future M Collaborate on Vietnam Graphite Supply\n\nHyundai reviews 100 billion won investment in Vietnam factory to secure non-Chinese graphite supply\n\nBy Choi Eun-kyung\n\nPublished 2026.11.03. 16:21\nUpdated 2026.11.03. 16:34\n\n포항 영일만 4산단에 위치한 포스코퓨처엠 포항 양극재 공장 전경(자료사진. 포스코퓨처엠 제공)\n\nExterior view of POSCO Future M's Pohang cathode material factory located in Pohang Yeo",
+   "published": "Tue, 03 Nov 2026 07:34:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Indonesia’s Factories Lag as Vietnam Races Ahead",
+   "url": "https://jakartaglobe.id/business/indonesias-factories-lag-as-vietnam-races-ahead",
+   "snippet": "The challenge is evident at Chinese electric vehicle maker BYD's planned factory in Subang, West Java. The facility $887 million is designed to produce as many as 150,000 vehicles annually, but has faced pressure from local groups demanding more employment opportunities for nearby residents. [...] The country has capitalized on companies' efforts to diversify production away from China amid US tra",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "“China’s manufacturers are moving out of China ... Korea, too, must reduce its overreliance on Vietnam” - MK",
+   "url": "https://www.mk.co.kr/en/business/12192884",
+   "snippet": "Choi, the managing partner, noted that Korean companies in particular need to move away from concentrating their manufacturing hubs in Vietnam. According to BCG, the concentration in Vietnam is pronounced, with 35% of foreign direct investment (FDI) going there. Northern Vietnam is expected to become more competitive by 2031 than China’s southern Pearl River Delta (Shenzhen and Dongguan). However,",
+   "published": "Sun, 01 Nov 2026 08:26:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "POSCO Future M Seeks 100 Billion Won Equity Investment from Hyundai Motor Group in Vietnam Anode Materials Alliance — BigGo Finance",
+   "url": "https://finance.biggo.com/news/14549041-35a0-43f8-ab24-f5a40971c7b0",
+   "snippet": "materials. Hyundai Motor Group will secure a non-Chinese production base for materials procurement that affects electric vehicle costs and supply chain risks. [...] Synthetic graphite anode materials are advantageous for improving fast-charging performance and lifespan of batteries, and demand is rising as electric vehicle performance advances. On top of this, as supply chain regulations tighten —",
+   "published": "Tue, 03 Nov 2026 06:55:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Hyundai Motor Group Weighs 100 Billion Won Investment in POSCO Future M’s Vietnam Anode Project < Battery < 기사본문 - The Elec Inc.",
+   "url": "https://www.thelec.net/news/articleView.html?idxno=15246",
+   "snippet": "Artificial graphite anode materials help improve battery fast-charging performance and lifespan. POSCO Future M is expanding its production base outside China to address supply-chain regulations, including the U.S. Prohibited Foreign Entity (PFE) requirements.\n\nPOSCO Group and Hyundai Motor Group previously signed a memorandum of understanding in April last year to expand cooperation in steel and ",
+   "published": "Tue, 03 Nov 2026 23:28:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's overcapacity is 'a fact of life,' SCG's CEO says | Fortune",
+   "url": "https://fortune.com/2026/11/03/scg-china-overcapacity-southeast-asia",
+   "snippet": "Individual Southeast Asian markets are too small to absorb that shock alone, Thammasak argues. “The scale that produces only for Vietnam may not be enough,” he said. “You need to build the scale that produces for the whole ASEAN.”\n\n“Over the past year, we are scrapping the old small factory and building a big one,” he said, citing a new ceramic plant in Vietnam “much bigger than the one in the pas",
+   "published": "Wed, 04 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Hyundai weighs $75M investment in POSCO's Vietnam battery plant",
+   "url": "https://www.upi.com/Top_News/World-News/2026/11/03/vietnam-hyundai-motor-group-posco-future-m/3401793744644",
+   "snippet": "Hyundai Motor Group is considering a $74.7 million investment in POSCO Future M's Vietnam battery materials plant to diversify its supply chain.",
+   "published": "Wed, 04 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korean conglomerates shift overseas operations from China to US",
+   "url": "https://english.hani.co.kr/arti/english_edition/e_business/1285928.html",
+   "snippet": "After the US and China, the most common bases for large Korean companies’ overseas operations were Vietnam (221 affiliates), Japan (197), France (189) and Singapore (181). The number of affiliates in Vietnam nearly doubled over the past decade, rising from 114 to 221. The increase appears to reflect Korean companies relocating production from China to Southeast Asia and other regions with lower la",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Shifting ground: Human rights, Chinese investment and the rush for transition minerals - Business and Human Rights Centre",
+   "url": "https://www.business-humanrights.org/en/from-us/briefings/shifting-ground-human-rights-chinese-investment-and-the-rush-for-transition-minerals",
+   "snippet": "Between 2023 and 2025, 326 allegations of abuse were linked to Chinese companies' overseas investments in transition minerals, bringing the total to 434 allegations from 2021-2025 – with increases every year since 2021. Ten Chinese companies alone accounted for nearly two-thirds (65%) of all allegations of abuse.\n\nThere has been a steady year-on-year increase in allegations of abuse since 2021 [..",
+   "published": "Mon, 02 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],

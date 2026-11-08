@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Kaduna–Kano Railway Reaches 90% Completion, Outstanding Land Issues Delay Final Connection",
+   "url": "https://www.railwaysafrica.com/news/kaduna-kano-railway-reaches-90-completion-outstanding-land-issues-delay-final-connection",
+   "snippet": "Nigeria’s Kaduna–Zaria–Kano standard gauge railway project has reached approximately 90% completion, according to the Permanent Secretary of the Federal Ministry of Transportation, Engr. Funso Adebiyi.\n\nAdebiyi provided the update during an inspection of the project on 23 October 2026, which included a train journey from Jaji to Kano to assess construction progress and the quality of completed wor",
+   "published": "Wed, 04 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FCT Residents Raise Concerns Over Stalled Gwagwa-Airport Rail Project",
+   "url": "https://leadership.ng/fct-residents-raise-concerns-over-stalled-gwagwa-airport-rail-project",
+   "snippet": "Share on WhatsAppShare on FacebookShare on XTelegram\n\nResidents along the Gwagwa-Airport railway corridor in the Federal Capital Territory (FCT) have decried the alleged abandonment of critical components of the Abuja rail project by the China Civil Engineering Construction Corporation (CCECC) Nigeria Limited.\n\nThey said the prolonged delay has exposed public installations to vandalism. [...] On o",
+   "published": "Tue, 03 Nov 2026 08:26:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why railway system is the mainstay of Nigeria’s economy",
+   "url": "https://thesun.ng/why-railway-system-is-the-mainstay-of-nigerias-economy",
+   "snippet": "Nigeria has spent over $2.5 billion on railway modernisation in the last 10 years, largely from Chinese EXIM Bank loans and Federal Government counterpart funding. The Lagos-Ibadan Standard Gauge (157km) cost $1.6 billion. The Abuja-Kaduna Standard Gauge (187km) cost $876 million. The Itakpe-Warri (Ajaokuta) line, after 30 years of abandonment, was completed for $200 million. [...] Despite years o",
+   "published": "Tue, 03 Nov 2026 17:18:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rail cargo plunges 24.7% in September as Q3 freight hits 169,060",
+   "url": "https://guardian.ng/business-services/rail-cargo-plunges-24-7-in-september-as-q3-freight-hits-169060",
+   "snippet": "### GDN DESKTOP 1\n\nThe Guardian \n\nTue, 3 Nov, 2026\n\n Read Life Mag\n\nBusiness\n\n# Rail cargo plunges 24.7% in September as Q3 freight hits 169,060\n\n  Kaduna-Kano railway project \n\nKaduna-Kano railway project\n\n \n\nAdaku Onyenucheya\n\n4:00 AM WAT 2 min read\n\n Get Guardian on Google [...] Port users reduced their patronage of the railway to move cargo as the Nigerian Railway Corporation (NRC) recorded a ",
+   "published": "Tue, 03 Nov 2026 03:00:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FCT residents seek update on Gwagwa-Airport rail project",
+   "url": "https://www.vanguardngr.com/2026/11/fct-residents-seek-update-on-gwagwa-airport-rail-project",
+   "snippet": "By Gabriel Ewepu. ABUJA — Residents along the Gwagwa-Airport railway corridor in the Federal Capital Territory (FCT) have called on the relevant authorities",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tanzania: African Development Bank, Tanzania close landmark $1.2 billion commercial financing for the Standard Gauge Railway",
+   "url": "https://www.afdb.org/en/news-and-events/press-releases/tanzania-african-development-bank-tanzania-close-98246",
+   "snippet": "2.   \nWest Africa\n            1.   Benin\n            2.   Burkina Faso\n            3.   Cabo Verde\n            4.   Côte d’Ivoire\n            5.   Gambia\n            6.   Ghana\n            7.   Guinea\n            8.   Guinea-Bissau\n            9.   Liberia\n            10.   Mali\n            11.   Niger\n            12.   Nigeria\n            13.   Senegal\n            14.   Sierra Leone\n            1",
+   "published": "Wed, 04 Nov 2026 17:33:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pittsfield Track Capacity Project Breaks Ground - Railway Track and Structures",
+   "url": "https://www.rtands.com/track-construction/pittsfield-track-capacity-project-breaks-ground",
+   "snippet": "supporting local businesses and creating new opportunities for economic growth throughout the region. We thank to our local, state and federal partners for their collaboration and support to advancing passenger rail and delivering transportation investments that make a meaningful difference for the communities we serve.” [...] “This project demonstrates what strong public-private partnership and t",
+   "published": "Tue, 03 Nov 2026 14:18:59 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Zambia-Lobito Railway advances towards 2027 financial close",
+   "url": "https://www.financialnigeria.com/zambia-lobito-railway-advances-towards-2027-financial-close-news-3141.html",
+   "snippet": "The Zambia-Lobito Railway project is set to create a new Atlantic trade route for Zambia's minerals, agricultural products and industrial goods.",
+   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FRA Awards $1.24B for Rail Crossing Safety Projects - Railway Age",
+   "url": "https://www.railwayage.com/regulatory/fra-awards-1-24b-for-rail-crossing-safety-projects",
+   "snippet": "Among the awards is $35.8 million for the North Carolina Department of Transportation (NCDOT) to advance development, final design and construction work aimed at restoring passenger rail service to western North Carolina. The project includes upgrading more than 40 highway-rail crossing signal systems along the corridor between Salisbury and Hickory. [...] Skip to main content\nSkip to footer\nOpens",
+   "published": "Mon, 02 Nov 2026 14:15:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Turkey prepares $US 1.34bn modernisation project",
+   "url": "https://www.railjournal.com/freight/turkey-prepares-us-1-34bn-modernisation-project",
+   "snippet": "Turkey is preparing a tender for the modernisation of the 667km Divriği - Kars - Georgian border railway to increase freight capacity.",
+   "published": "Thu, 05 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cor_rail_road",
  "_query": "railway project Nigeria",
  "_domains": [],

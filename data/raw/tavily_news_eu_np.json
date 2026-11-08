@@ -1,49 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Nepal lobbying EU to lift ban on Nepali airlines - myRepublica - The New York Times Partner, Latest news of Nepal in English, Latest News Articles | Republica",
-   "url": "https://myrepublica.nagariknetwork.com/news/nepal-lobbying-eu-to-lift-ban-on-nepali-airlines-86-99.html",
-   "snippet": "BLOG, OPINION\n\n### Chitwan Through a Child’s Eyes\n\n### Chitwan Through a Child’s Eyes\n\n#Kid’s Corner  Chitwan-1789521254.webp\nBLOG\n\n### The Day We Forgot the Load-Shedding Schedule\n\n### The Day We Forgot the Load-Shedding Schedule\n\n#BLOG  Education-1783471352.webp\nBLOG\n\n### What China's Energy Experience Can Teach Nepal\n\n### What China's Energy Experience Can Teach Nepal\n\n#BLOG  Hydro-1782867537.w",
-   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nepal records 132,814 foreign visitors in October, up 3.4 percent | The Tourism Times | Breaking tourism-related news from Nepal and beyond",
-   "url": "https://www.thetourismtimes.com/news/travel-leisure/nepal-records-132814-foreign-visitors-in-october-up-34-percent",
-   "snippet": "The United States emerged as Nepal's largest source market during the month, contributing 17,437 visitors, or 13.13 percent of total arrivals. India ranked second with 12,097 visitors (9.11 percent), followed by China with 11,695 visitors (8.81 percent).\n\nThe United Kingdom contributed 9,385 visitors, accounting for 7.07 percent of arrivals, while Australia sent 9,352 visitors, or 7.04 percent of ",
-   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Rich nations tell citizens to stockpile for crises. Why not China? | ThinkChina",
-   "url": "https://www.thinkchina.sg/society/rich-nations-tell-citizens-stockpile-crises-why-not-china",
-   "snippet": "People look at a house, damaged during the 26 August flash flood, at Trishuli in Nepal’s Nuwakot district on 22 September 2026. (Prakash Mathema/AFP) [...] On a similar note, the UK government launched its “Be Ready” emergency preparedness campaign, asking households to store enough essential supplies for 72 hours. The EU introduced its European Preparedness Union Strategy, while Germany has raise",
-   "published": "Tue, 03 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China becomes the EU’s second-largest motorcycle supplier — Dawn | UA.NEWS",
-   "url": "https://ua.news/en/dovkolo-svitu/kitai-stav-drugim-postachalnikom-mototsikliv-do-es-dawn",
-   "snippet": "+2° Kyiv   +3° Warsaw   +13° Washington\n\nNews   Around the World\n\n# China becomes the EU’s second-largest motorcycle supplier — Dawn\n\nUA.NEWS   07 November 2026 07:43\n\nChina becomes the EU’s second-largest motorcycle supplier — Dawn [...] At the EICMA motorcycle show in Milan, Italy, it was reported that Chinese manufacturers have strengthened their positions on the European market. In 2025, China",
-   "published": "Sat, 07 Nov 2026 07:43:54 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU",
-   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
-   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Kylian Mbappe puts European soccer's China bet to the test - Nikkei Asia",
-   "url": "https://asia.nikkei.com/spotlight/sports/kylian-mbappe-puts-european-soccer-s-china-bet-to-the-test",
-   "snippet": "50 years after Mao's death, Xi still draws power from 'barrel of a gun'\n\n Sports#### Indonesia's Como, Thailand's Leicester: two very different football bets\n\n  Indonesia's Como, Thailand's Leicester: two very different football bets\n\n Travel & Leisure#### China's 'red tourism' boom draws families to Communist Party landmarks\n\n  China's 'red tourism' boom draws families to Communist Party landmark",
-   "published": "Sat, 07 Nov 2026 00:24:43 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],

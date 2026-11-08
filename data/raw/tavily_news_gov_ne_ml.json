@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Le Monde: Fear of a Morocco-UAE-Libya Axis Drives Algeria’s Return to Niger",
+   "url": "https://www.moroccoworldnews.com/2026/11/345408/le-monde-fear-of-a-morocco-uae-libya-axis-drives-algerias-return-to-niger",
+   "snippet": "Niger also brokered Algeria’s reconciliation with Mali. In early July, Algiers and Bamako resumed dialogue after a 15-month crisis, a thaw encouraged by Russia, which protects the Malian junta and keeps some 2,000 Africa Corps troops in the country. When the Malian army and its Russian auxiliaries retook Kidal on October 6 without a fight, many saw Algiers behind it. [...] The Tuareg separatist Az",
+   "published": "Sat, 07 Nov 2026 17:56:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PISM",
+   "url": "https://pism.pl/publications/algeria-returns-to-the-sahel",
+   "snippet": "Over the past few months, Algeria has re-established diplomatic relations with junta-ruled Mali and launched its first overseas military mission since 1973—dispatching forces to Niger. This return to an active presence in the Sahel region is aimed at rebuilding its influence, which has been weakened in recent years. It is also a sign of the intensifying rivalry in the Sahel with the Haftar family,",
+   "published": "Thu, 05 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu condoles with Niger junta leader over father's death - Punch Newspapers",
+   "url": "https://punchng.com/tinubu-condoles-with-niger-junta-leader-over-fathers-death",
+   "snippet": "The move exacerbated the already strained ties between the two countries, even as Niger joined Burkina Faso and Mali in withdrawing from ECOWAS and forming the Alliance of Sahel States.\n\nStephen Angbulu\n\nWith three years of experience, Stephen, The PUNCH correspondent, has been covering Nigeria’s presidency, politics, security, immigration and trafficking in persons\n\nKindly share this story: [...]",
+   "published": "Sat, 07 Nov 2026 15:03:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Sub-Saharan Africa's the Sahel: the latest battleground between CRINK authoritarianism and Western democracy | George W. Bush Presidential Center",
+   "url": "https://www.bushcenter.org/publications/sub-saharan-africas-the-sahel-the-latest-battleground-between-crink-authoritarianism-and-western-democracy",
+   "snippet": "Following the May 2021 military coup in Mali, the newly established ruling junta engaged with what was then known as the Wagner Group, a Russian government-financed and -backed private military company, to send roughly 1,000 mercenaries to ostensibly train the Malian military forces. They were also supposed to fight against local extremists, including organizations aligned with the Islamic State g",
+   "published": "Fri, 06 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Direction Niamey: Algeria Attempts to Bolster Its Posture in the Sahel - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-november-3",
+   "snippet": "Algeria’s recent commitments to Niamey also reflect its attempt to re-establish its posture in the Sahel region after ties with the juntas of the Alliance of Sahel States (AES) frayed in April 2025 when Algerian air defense shot down a Malian drone near the border town of Tinzaouaten. In response, Mali, Niger, and Burkina Faso all recalled their ambassadors from Algiers. While Niamey recalled its ",
+   "published": "Tue, 03 Nov 2026 05:00:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria to partner with AES countries to reposition MNJTF | Military Africa",
+   "url": "https://www.military.africa/2026/11/nigeria-to-partner-with-aes-countries-to-reposition-mnjtf",
+   "snippet": "The withdrawal of three ECOWAS member states, Niger, Mali and Burkina Faso, following military coups, has raised questions about regional cooperation and diplomatic engagement in tackling shared security challenges. The three countries left ECOWAS, formed the AES and have so far rejected overtures to return. They have since built their own military structures, with the AES launching a unified forc",
+   "published": "Fri, 06 Nov 2026 07:31:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia helps foil Niger coup",
+   "url": "https://ddnews.gov.in/en/russia-helps-foil-niger-coup",
+   "snippet": "Putin's Africa Corps cements its role as the ultimate guarantor of regime survival in the Sahel and beyond. https://youtu.be/V6Ww3qI6vVk.",
+   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Is Algeria Breaking From Its Historic Nonintervention by Sending Troops to Niger? | RANE Worldview",
+   "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-05/does-algeria-s-troop-deployment-in-niger-signal-a-break-from-its-historic-nonintervention/68c09e58b4837531",
+   "snippet": "Algeria's military deployment to Niger suggests a growing willingness to launch limited interventions in its near abroad, but Algiers is likely to do so with coordination from foreign governments; however, if Algeria becomes more assertive, it would mark a shift from nonintervention and likely fuel regional rivalries with Morocco and the United Arab Emirates. The first Algerian forces were reporte",
+   "published": "Thu, 05 Nov 2026 21:57:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_ne_ml",
  "_query": "Niger Mali junta",
  "_domains": [],
