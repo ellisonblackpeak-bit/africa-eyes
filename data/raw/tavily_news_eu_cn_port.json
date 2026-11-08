@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Drewry WCI further down, congestion eased on Chinese ports - Fibre2Fashion",
+   "url": "https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-down-congestion-eased-on-chinese-ports-314860-newsdetails.htm",
+   "snippet": "On the Asia–Europe trade route, rates from Shanghai to Rotterdam decreased by 2 per cent to $3,615 per 40-foot container, while rates from Shanghai to Genoa remained stable at $4,166 per 40-foot container. Carriers are pushing through FAK increases in mid-November as they look to strengthen their position ahead of next year’s contract negotiations. However, effective capacity continues to increase",
+   "published": "Sat, 07 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The West Loved Free Trade Until China Started Winning | Countercurrents",
+   "url": "https://countercurrents.org/2026/11/the-west-loved-free-trade-until-china-started-winning",
+   "snippet": "Imagine China becoming powerful enough to send warships to European ports and demand that Europeans purchase more Chinese products to correct its trade imbalance. The West would rightly condemn it as barbaric aggression. Yet Western powers did precisely this to China. [...] Follow us\n\nIn October, the European Union and China agreed to limit Chinese hybrid vehicle exports to Europe. According to Re",
+   "published": "Sat, 07 Nov 2026 03:30:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "From refugee capital to maritime hub: Busan's South China Sea gateway - UPI.com",
+   "url": "https://www.upi.com/Voices/2026/11/04/refugee-capital-to-maritime-hub-busan/5601793806542",
+   "snippet": "An aerial view of a container pier in South Korea's southeastern port city of Busan in 2023. File Photo by Yonhap/EPA\n\nThe South China Sea may lie hundreds of miles from South Korea's shores, but the contested waterway is central to the country's economic security, carrying maritime trade from Busan, one of the world's busiest container ports, that connects its industrial heartland with Southeast ",
+   "published": "Wed, 04 Nov 2026 15:42:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Slovenia eyes deeper China ties as gateway to Europe",
+   "url": "https://news.cgtn.com/news/2026-11-08/Slovenia-eyes-deeper-China-ties-as-gateway-to-Europe-1RTGhWMvQe4/share_amp.html",
+   "snippet": "Slovenia is at the China International Import Expo (CIIE) this year with a clear message: this small European economy is a gateway to the continent.",
+   "published": "Sun, 08 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Georgia and China and Han Zheng's Visit to Tbilisi",
+   "url": "https://www.specialeurasia.com/2026/11/07/georgia-china-han-zheng-visit",
+   "snippet": "3. In the third scenario, Chinese capital enters Black Sea ports or other strategic infrastructure on a significant scale. This would raise Western scrutiny of Georgia’s choices and could harden the EU and US response. [...] We should monitor the following indicators to assess these scenarios:\n\n Rising Chinese investment in strategic infrastructure or Black Sea ports\n Beijing’s reconsideration of ",
+   "published": "Sat, 07 Nov 2026 20:02:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Taiwan to close representative office in Papua New Guinea, blames China | Politics News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china",
+   "snippet": "Taiwan’s Ministry of Foreign Affairs said on Friday that Papua New Guinea had repeated previous demands that staff leave its office in the capital, Port Moresby, within a set deadline and had pushed for ⁠its closure.\n\n## Recommended Stories\n\nlist of 3 items\n\n list 1 of 3Trump praises US-China friendship at state dinner with Xi Jinping\n list 2 of 3‘Hybrid warfare’: Taiwan drives away 16 Chinese shi",
+   "published": "Fri, 06 Nov 2026 16:40:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Robo Block Shows China’s Long Reach in M&A",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/robo-block-shows-china-s-long-reach-in-m-a",
+   "snippet": "Image 1: The SoftBank logo in the entrance hall inside the Tokyo Portcity Takeshiba building, which houses the company’s headquarters, in Tokyo, Japan, on Tuesday, Feb. 4, 2025.\n\nThe SoftBank logo in the entrance hall inside the Tokyo Portcity Takeshiba building, which houses the company’s headquarters, in Tokyo, Japan, on Tuesday, Feb. 4, 2025.Photographer: Toru Hanai/Bloomberg\n\nGift this article",
+   "published": "Thu, 05 Nov 2026 15:55:28 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_port",
  "_query": "Chinese port Europe",
  "_domains": [],

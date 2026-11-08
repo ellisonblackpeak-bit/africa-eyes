@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Ghana: New electronic health declaration now mandatory for travelers - VisasNews",
+   "url": "https://visasnews.com/en/ghana-new-electronic-health-declaration-now-mandatory-for-travelers",
+   "snippet": "In a statement issued on November 3, 2026, Ghana’s Ministry of Health announced new screening and monitoring measures aimed at preventing the Ebola virus from entering the country.\n\nImplemented by the Ghana Health Service (GHS), the measures apply to all passengers arriving at Ghana’s international airports, regardless of nationality or country of departure.\n\nOne of the key requirements is a healt",
+   "published": "Thu, 05 Nov 2026 08:11:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Channel One TV Live | Latest News Updates from Ghana",
+   "url": "https://www.modernghana.com/videonews/cititv/2/747649",
+   "snippet": "Channel One TV Live | Latest News Updates from Ghana. BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV Net2TV. TV3 UTV DelayTV KofiTV MagrahebTV",
+   "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Learn about 6 new and 11 reorganized stakes from Ghana to Tonga – Church News",
+   "url": "https://www.thechurchnews.com/leaders/2026/11/01/new-stakes-haiti-ghana-idaho-utah-wyoming-11-reorganized-stakes-brazil-canada-mexico-peru-tonga-us",
+   "snippet": "KPONG GHANA STAKE: (July 12, 2026) President — Isaac Nii Ayikwei Martey, 35, Ensign Global University special assistant to the president; wife, Edemamwen Omoayasueniomwon Osagie Martey. Counselors — Kabu Ebenezer Nyamedor, 50; wife, Justine Sefakor Gbewordo Nyamedor. Joshua Denteh Afriyie, 45, Buck Press Ltd. head chef; wife, Anita Abreatwi Essel. [...] A new stake has been created from the Kpong ",
+   "published": "Sun, 01 Nov 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Community continues to mourn, call for justice after teen fatally shot in the Bronx - CBS New York",
+   "url": "https://www.cbsnews.com/newyork/news/javits-frimpong-vigil-suspect-search-bronx-teen-shot",
+   "snippet": "Frimpong's mother arrived in New York on Wednesday after receiving an emergency visa to travel from Ghana thanks to a request Mayor Zohran Mamdani made to President Trump.\n\nShe has said she wants justice for her only child. [...] \"She's managing. She knows there's a lot of people here that she can call her family, but we're all calling for justice,\" said Catherine Kabuki Cudjoe, president of the N",
+   "published": "Fri, 06 Nov 2026 01:26:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mother of Javits Frimpong travels to NYC from Ghana seeking justice - ABC7 New York",
+   "url": "https://abc7ny.com/post/mother-javits-frimpong-travels-nyc-ghana-seeking-justice/20015777",
+   "snippet": "Video released Wednesday morning by Ghana's Ministry of Foreign Affairs showed Gyamfi and relatives praying before boarding a flight to New York. A person in the video said, \"She wants to thank everyone for their prayers from around the world.\"\n\nMeanwhile, a memorial has grown near the site of the shooting on East 173rd Street near Crotona Park. The tribute includes candles and dozens of handwritt",
+   "published": "Wed, 04 Nov 2026 21:02:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Man found dead in trash bag in NYC was 'devout' churchgoer, pianist from Ghana",
+   "url": "https://nypost.com/2026/11/06/us-news/man-found-dead-in-trash-bag-in-nyc-was-devout-churchgoer-pianist-from-ghana",
+   "snippet": "The man who was found dead in a trash bag in Brooklyn last week was a “devout” churchgoer from Ghana who played gospel music on the piano, according to his neighbors.\n\nJoseph Owusu, 24, was found lifeless in a garbage bag around 9:20 a.m. Oct. 30 outside a church at East 93rd Street and Avenue L in Canarsie, according to the Embassy of Ghana. [...] Joseph Owusu, 24, was found lifeless in a trash b",
+   "published": "Fri, 06 Nov 2026 22:56:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Ghana’s new license to sell sustainable timber improves institutions & collaboration (analysis)",
+   "url": "https://news.mongabay.com/2026/11/how-ghanas-new-license-to-sell-sustainable-timber-improves-institutions-collaboration-analysis",
+   "snippet": "The resulting Ghana Legality Assurance System, or GhLAS, has value beyond the issuance of a FLEGT license, because it strengthens the way legality is applied and verified throughout the timber supply chain.\n\nMinister Osah Mills and EU Head of Delegation Ambassador William Hanna, August 2016. Photo courtesy of Chris Beeko.\n\nMinister of Land and Natural Resources, Osah Mills (left), with the EU’s de",
+   "published": "Thu, 05 Nov 2026 14:16:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Advancing information integrity: MFC, Ghana and IFPIM co-host side event at UNGA - Media Freedom Coalition",
+   "url": "https://mediafreedomcoalition.org/news/2026/advancing-information-integrity-mfc-ghana-and-ifpim-co-host-side-event-at-unga",
+   "snippet": "“If we want societies that are resilient, informed, and free, we must stand up for the journalists and media organisations that make them possible.”\n\nWatch the event in full here.\n\nShare\n\n## Latest News\n\n[](\n\n### “The underlying principle is solidarity”: Why MFC action matters on international days\n\nOctober 8, 2026\n\nInternational days offer an important opportunity for governments, embassies and c",
+   "published": "Sat, 07 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mother of Ghanaian teen killed in New York heads to US funeral after Trump grants visa",
+   "url": "https://www.reuters.com/world/us/mother-ghanaian-teen-killed-new-york-heads-us-funeral-after-trump-grants-visa-2026-11-04",
+   "snippet": "The mother of a Ghanaian teenager who was fatally shot in New York departed for ​the United States on Wednesday after President ‌Donald Trump intervened to",
+   "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "New Yorkers rally against gun violence after Ghanaian teen’s killing | Black Lives Matter News | Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing",
+   "snippet": "Live\n\nLive\n\nNew Yorkers rally against gun violence after Ghanaian teen’s killing\n\nNew Yorkers rally against gun violence after Ghanaian teen’s killing\n\n## NewsFeed\n\n# New Yorkers rally against gun violence after Ghanaian teen’s killing\n\nNew Yorkers marched to demand justice for Ghanaian teenager Javits Frimpong, who was shot and killed on his way to school in the Bronx last month. We spoke to his ",
+   "published": "Thu, 05 Nov 2026 12:25:28 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gh_extra",
  "_query": "Ghana latest news",
  "_domains": [],

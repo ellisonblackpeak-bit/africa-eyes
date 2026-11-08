@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Police rescue six abducted farmers in Niger, recover two AK-47 rifles",
+   "url": "https://guardian.ng/news/nigeria/metro/police-rescue-six-abducted-farmers-in-niger-recover-two-ak-47-rifles",
+   "snippet": "The victims were reportedly kidnapped by armed hoodlums on October 28, 2026, at about noon and taken to Hanawanka Forest.  \n The police said the farmers were rescued unhurt on October 29 during a joint security operation around Pandogari.  \n In a statement issued in Minna, the command’s spokesperson, SP Wasiu Abiodun, said the victims were taken to Kagara Police Division for briefing and medical a",
+   "published": "Mon, 02 Nov 2026 02:36:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger and Mali pledge stronger cooperation in fight against terrorism | News.az",
+   "url": "https://news.az/news/niger-and-mali-pledge-stronger-cooperation-in-fight-against-terrorism",
+   "snippet": "Source: Xinhua\n\nNiger and Mali have reaffirmed their commitment to strengthening cooperation within the Confederation of Sahel States (AES) and intensifying joint efforts to combat terrorism across the region, according to a joint statement issued on Thursday, November 5.\n\nThe statement followed a working and friendship visit to Niger by Malian transitional President Assimi Goita, who held talks w",
+   "published": "Sat, 07 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU seeks clarification from Algeria over military deployment in Niger",
+   "url": "https://en.hespress.com/148683-eu-seeks-clarification-from-algeria-over-military-deployment-in-niger.html",
+   "snippet": "The operation may also entail higher costs for protecting investments and strategic infrastructure, alongside the military and logistical resources required to maintain a presence across a vast and challenging region.\n\nAlgeria-Niger relations have fluctuated since the July 2023 coup that ousted President Mohamed Bazoum. Ties have shown signs of improvement in recent months, with Tebboune saying in",
+   "published": "Fri, 06 Nov 2026 23:00:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How the UAE-Israel-Morocco threat pushed Algiers to send troops to Niger | Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/uae-israel-morocco-threat-pushed-algiers-send-troops-niger",
+   "snippet": "An Algerian military convoy arrived in Niger last Friday, marking the country's first deployment of forces abroad since 1973, when it supported Egypt in its war against the Israeli occupation of the Sinai peninsula.\n\nThe deployment marks a major departure from Algeria’s longstanding policy of principled non-intervention. It follows Algiers’ decision to send four fighter jets to Niger on 30 August ",
+   "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria is sending troops to Niger for the first time in decades – what’s at stake",
+   "url": "https://www.modernghana.com/news/1541053/algeria-is-sending-troops-to-niger-for-the-first.html",
+   "snippet": "- Source:- Source:\n\nAlgeria recently announced it would deploy its army into neighbouring Niger. This marks a departure from its long-standing reluctance to deploy its military outside its borders. It last sent forces to support Egypt during the 1973 Arab-Israeli war. [...] On 25 October 2026, both chambers of Algeria's parliament approved the deployment of army units to Niger. The following day, ",
+   "published": "Sun, 01 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Morocco recall En-Nesyri and hand Oufkir first call-up for Niger qualifiers",
+   "url": "https://www.cafonline.com/afcon2025/news/morocco-recall-en-nesyri-and-hand-oufkir-first-call-up-for-niger-qualifiers",
+   "snippet": "Published:\n\nMorocco coach Mohamed Ouahbi has named a 26-man squad for the TotalEnergies CAF Africa Cup of Nations PAMOJA 2027 qualifying double-header against Niger, with Youssef En-Nesyri returning and Ayoub Oufkir earning his first senior call-up.\n\nThe Atlas Lions face Niger on 13 and 17 November as they look to maintain their perfect start to Group A, having collected six points from victories ",
+   "published": "Fri, 06 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Two European women freed after Niger kidnapping return home",
+   "url": "https://thesun.my/news/two-european-women-freed-niger-kidnapping-return",
+   "snippet": "A Swiss and an Austrian woman kidnapped in Niger are back home after nearly two years, with Libya reportedly intervening for their release.",
+   "published": "Tue, 03 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mohamed Ouahbi Names Morocco Squad for Niger AFCON Qualifiers",
+   "url": "https://www.moroccoworldnews.com/2026/11/345003/mohamed-ouahbi-names-morocco-squad-for-niger-afcon-qualifiers",
+   "snippet": "The Atlas Lions enter the November international break at the top of Group A after winning their first two qualifying matches.\n\nMorocco opened the campaign with a 2-0 victory over Gabon in Rabat before recording another 2-0 win against Lesotho in September.\n\nAccording to the Royal Moroccan Football Federation (FRMF), the first encounter against Niger will take place at the Mohammed V Stadium in Ca",
+   "published": "Wed, 04 Nov 2026 11:12:49 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_extra",
  "_query": "Niger latest news",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "New Times Newspaper | Latest Nigeria News, Breaking News, Top News",
+   "url": "https://www.newtimes.com.ng?p=33935",
+   "snippet": "Emeka: It is because you have not been visited by any of your dead ones that your tongue is sharp like a new blade razor. Just pray that your father’s spirit does not come knocking on your door tonight. [...] Have big houses, private jets.  \n Stealing from others and calling it great.  \n Africa, please open your eyes.  \n There is no such thing as a God that sells people. If your shepherd feeds off",
+   "published": "Mon, 02 Nov 2026 04:20:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Qstorm Cards: Towards Gamification Of Critical Thinking/Philosophy For Children In Nigeria",
+   "url": "https://www.newtimes.com.ng/qstorm-cards-towards-gamification-of-critical-thinking-philosophy-for-children-in-nigeria",
+   "snippet": "Get the latest Nigeria news, daily news in Africa, Nigerian politics, African business, Lifestyle and Entertainment, Tech and Analysis of African news.",
+   "published": "Sat, 07 Nov 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan vs Nigeria LIVE UPDATES: Flamingos chase historic U-17 World Cup title",
+   "url": "https://www.premiumtimesng.com/news/headlines/923517-japan-vs-nigeria-live-updates-flamingos-chase-historic-u-17-world-cup-title.html",
+   "snippet": "PT Insider\n #EndSARS Dashboard\n PT Hausa\n About Us\n PT Jobs\n Advert Rates\n Contact Us\n Digital Store\n\nSaturday, November 7, 2026\n\nPremium Times Nigeria\n\n Home\n News\n  + Headline Stories\n  + Top News\n  + More News\n  + Foreign\n Gender\n Investigations\n\n  + All\n  + Alabuga Reports\n  + Blood on Uniforms\n\n  TELA maize from cultivation to consumption. (PHOTO CREDIT: Mariya Shuaibu Suleiman)\n\n  ### SPECIA",
+   "published": "Sat, 07 Nov 2026 16:43:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Sets New Stablecoin Licensing Rules and Capital Requirements — TradingView News",
+   "url": "https://www.tradingview.com/news/newsbtc:3d5d8e5ba094b:0-nigeria-sets-new-stablecoin-licensing-rules-and-capital-requirements",
+   "snippet": "Nigeria is moving from broad policy debates over digital assets toward detailed rules for the businesses that issue and move them. In a November 5 circular and accompanying regulations, the Central Bank of Nigeria set out a licensing framework covering stablecoins, payment services, custody, transfers and remittances involving non-security virtual assets. [...] NewsBTC\nNewsBTC\n\n# Nigeria Sets New ",
+   "published": "Sat, 07 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s culture of violence",
+   "url": "https://guardian.ng/opinion/columnists/nigerias-culture-of-violence",
+   "snippet": "In November 2024, Amnesty International reported that at least 24 people were killed between 1 and 10 August 2024 during the #EndBadGovernance protests, in Kano, Jigawa, Katsina, Borno, Niger and Kaduna states. The Nigeria Police Force rejected the report. On the first anniversary, on 1 August 2025, Amnesty said no member of the security forces had been prosecuted. [...] Professor Uba is a Nigeria",
+   "published": "Fri, 06 Nov 2026 03:25:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria beats Europe, US, Asia to retain global PR award",
+   "url": "https://guardian.ng/news/nigeria-beats-europe-us-asia-to-retain-global-pr-award",
+   "snippet": "ATIKU \n\nFeatured \n\n### 2027 Elections: Court ruling puts opposition’s plans at risk as ADC fights back\n\n 2 days ago\n\nINEC Chairman, Joash Amupitan \n\nFeatured \n\n### INEC faces scrutiny over voter register, Electoral Act ‘breaches’\n\n 3 days ago\n\nAdvertisement\n\n## More from News\n\nFemale Ministers Conference \n\nGuardian Woman \n\n### Female Ministers Conference: Udom-Emmanuel, Poju-Oyemade Challenge Wome",
+   "published": "Sat, 07 Nov 2026 09:03:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Oyo Governor Makinde urges voters to take politicians’ money — Premium Times Nigeria",
+   "url": "https://ua.news/en/dovkolo-svitu/gubernator-oio-makinde-zaklikav-brati-groshi-politikiv-premium-times-nigeria",
+   "snippet": "APM presidential candidate Seyi Makinde urged Nigerian voters to accept campaign money from politicians but vote according to their convictions in the 2027",
+   "published": "Sun, 08 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NNPC says there are no constraints in gas transmission network — Premium Times Nigeria",
+   "url": "https://ua.news/en/dovkolo-svitu/nnpc-zaiavila-pro-vidsutnist-obmezhen-u-gazotransportnii-merezhi-premium-times-nigeria",
+   "snippet": "NNPC said its gas transportation network has no constraints and is not responsible for Nigeria's reduced electricity generation.",
+   "published": "Sat, 07 Nov 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s Christian persecution need more than one day of prayer a year",
+   "url": "https://www.christianpost.com/voices/nigerias-christian-persecution-need-more-than-one-day-of-prayer.html",
+   "snippet": "Nearly 3 in 4 Christians killed for their faith died in Nigeria. One ministry leader asks why we pray for them only one day a year.",
+   "published": "Sun, 08 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],
