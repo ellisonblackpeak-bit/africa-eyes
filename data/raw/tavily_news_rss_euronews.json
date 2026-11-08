@@ -2,9 +2,16 @@
  "success": true,
  "results": [
   {
+   "title": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
+   "url": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
+   "content": "The Rio de Janeiro government confirmed ten dead, including five children. Brazilian media say a baby was among the victims.",
+   "published_date": "Sun, 08 Nov 2026 18:52:18 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
    "url": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
-   "content": "Azerbaijan celebrated on Sunday its sixth Victory Day, marking the end of the Karabakh war. Turkey's Erdoğan joined the commemorations in Baku to underscore the strength of bilateral ties despite recent differences, with Aliyev declaring that \"this unity will last forever\".",
+   "content": "Azerbaijan celebrated on Sunday its sixth Victory Day, marking the end of the Karabakh war. Turkey's Erdoğan joined the commemorations to underscore the strength of bilateral ties despite recent differences, with Aliyev declaring that \"this unity will last forever\".",
    "published_date": "Sun, 08 Nov 2026 18:11:05 +0100",
    "score": 0.6
   },
@@ -30,7 +37,7 @@
    "score": 0.6
   },
   {
-   "title": "At least four dead, 88 injured as two trains collide south of Cairo",
+   "title": "At least seven dead, more than 100 injured as two trains collide south of Cairo",
    "url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo",
    "content": "The accident occurred about 52 kilometres south of Cairo, when one train hit the rear of another and one derailed. Egyptian President Abdelfatah al-Sisi has ordered an investigation to determine the causes and responsibility.",
    "published_date": "Sun, 08 Nov 2026 16:48:20 +0100",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-evening",
    "content": "Catch up with the most important stories from around Europe and beyond this November 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
    "published_date": "Fri, 06 Nov 2026 18:00:26 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Spain: Vintage cars hit the streets of Almería for annual rally",
-   "url": "https://www.euronews.com/video/2026/11/06/spain-vintage-cars-hit-the-streets-of-almeria-for-annual-rally",
-   "content": "Around 40 vintage and classic cars have taken to the streets of Almería for the 36th edition of an annual rally. From a rare 1905 Vermorel to a DeLorean, the event celebrates more than a century of motoring history.",
-   "published_date": "Fri, 06 Nov 2026 17:38:26 +0100",
    "score": 0.6
   }
  ],

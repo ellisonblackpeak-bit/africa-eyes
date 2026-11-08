@@ -1,7 +1,42 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Algeria’s Niger deployment comes with serious risks | Al Majalla",
+   "url": "https://en.majalla.com/node/333962/politics/algeria%E2%80%99s-niger-deployment-comes-serious-risks",
+   "snippet": "A further source of concern is the growing tendency of insurgent groups to target energy infrastructure. For instance, the Patriotic Liberation Front, led by Mahmoud Salah, has attacked the oil pipeline linking Niger to Benin. It shows how energy corridors and joint regional projects across the Sahara are now being targeted by insurgent movements. Al-Ansari noted \"the evolving combat tactics\" of t",
+   "published": "Mon, 02 Nov 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Direction Niamey: Algeria Attempts to Bolster Its Posture in the Sahel - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-november-3",
+   "snippet": "sabotaged the Niger–Benin oil pipeline. Overall, this latest development suggests Algeria’s interest in protecting energy assets and supply lines rather than engaging in efforts to counter JNIM, ISSP, and other terrorist groups operating in Niger. Nonetheless, operating in Niger may provoke attacks by JNIM and ISSP. Given JNIM’s well-practiced targeting of energy infrastructure and convoys in Mali",
+   "published": "Tue, 03 Nov 2026 05:00:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Sends Troops into Niger to Protect Energy Interests – Sri Lanka Guardian",
+   "url": "https://slguardian.org/algeria-sends-troops-into-niger-to-protect-energy-interests",
+   "snippet": "Other potential threats include armed groups supporting Bazoum, particularly the Patriotic Liberation Front, which has previously sabotaged the Niger–Benin oil pipeline. Algeria’s military presence could therefore expose its personnel and supply convoys to attacks from multiple armed actors, as well as create friction with other external powers operating in the country. [...] Morocco’s competing i",
+   "published": "Wed, 04 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algerian Soldiers in Niger: European Union Seeks Clarifications - BENIN WEB TV",
+   "url": "https://beninwebtv.bj/en/algerian-soldiers-in-niger-european-union-seeks-clarifications",
+   "snippet": "A first Algerian military convoy has arrived in Arlit, northern Niger, Reuters reported on October 30, citing ten local sources. The number of soldiers and the timeline for their deployment have not been disclosed.\n\nAlgeria has interests in Niger’s energy sector through its state-owned company Sonatrach. It is also participating, along with Niger and Nigeria, in the Trans-Saharan Gas Pipeline proj",
+   "published": "Fri, 06 Nov 2026 16:46:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Benin: Trader to sell first Sèmè crude cargoes in decades | African Energy",
+   "url": "https://www.africa-energy.com/news-centre/article/benin-trader-sell-first-seme-crude-cargoes-decades",
+   "snippet": "Home\n News \n  + Latest news\n  + Hot topics\n  + Countries\n  + Power\n  + Resources\n  + Strategy & risk\n  + Atlas\n  + Reports\n  + Events\n  + Subscribe\n Data \n  + Search the database\n  + Data Tool\n  + Data Trends\n  + Project updates\n  + News and insights\n  + Demo & pricing\n Consultancy \n  + Market evaluation\n  + Deal support\n  + Data modelling & insights\n  + Monitoring & managing risk\n  + Showcase you",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_pipe",
  "_query": "Niger Benin pipeline",
  "_domains": [],

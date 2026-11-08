@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Da gaske duniya za ta tashi ranar 13 ga watan Nuwamba?",
+   "url": "https://www.bbc.com/hausa/articles/cv62yyz4d676o?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan ranar na da alaƙa da wani binciken kimiyya da aka wallafa shekaru 66 da suka gabata, wanda ya yi nazari kan makomar yawan al'ummar duniya.",
+   "published_date": "Sun, 08 Nov 2026 18:24:33 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Za mu iya aiki da Netanyahu a sabuwar gwamnatin Isra’ila",
    "url": "https://www.bbc.co.uk/hausa/live/cqz0vknnvr45t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku muhimman abubuwan da ke faruwa a Najeriya da sauran sassan duniya na ranar Lahadi 8 ga watan Nuwamban 2026.",
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Me ya sa ake kai wa tarukan jam’iyyun hamayya hari a Najeriya?",
-   "url": "https://www.bbc.com/hausa/articles/cme3xxyqjj12o?at_medium=RSS&at_campaign=rss",
-   "content": "Gabanin zaɓen Najeriya na 2027, ana samun yanayi na rashin tabbas inda ake kai wa jam'iyyun adawa hari a lokacin yaƙin neman zaɓe.",
-   "published_date": "Sat, 07 Nov 2026 03:56:43 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -111,6 +111,13 @@
    "url": "https://www.bbc.com/hausa/articles/cm1ex55ydx3qo?at_medium=RSS&at_campaign=rss",
    "content": "Ronaldo mai shekara 41 a duniya ya ci wa ƙasarsa ƙwallo 146 kuma ya buga wa ƙasar wasa sau 234 - tun bayan fara buga wa ƙasar wasa a shekarar 2003.",
    "published_date": "Thu, 05 Nov 2026 11:27:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa ake kai wa tarukan jam’iyyun hamayya hari a Najeriya?",
+   "url": "https://www.bbc.com/hausa/articles/cme3xxyqjj12o?at_medium=RSS&at_campaign=rss",
+   "content": "Gabanin zaɓen Najeriya na 2027, ana samun yanayi na rashin tabbas inda ake kai wa jam'iyyun adawa hari a lokacin yaƙin neman zaɓe.",
+   "published_date": "Sat, 07 Nov 2026 03:56:43 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/c8qlnwnnr0qwo?at_medium=RSS&at_campaign=rss",
    "content": "A lokacin yaƙin neman zaɓensa, El-Sayed ya yi amfani da kafafen sada zumunta sosai wajen isa ga masu zaɓe, musamman matasa. A bidiyoyinsa da yake wallafawa a dandalin TikTok, ana ganinsa yana magana kai tsaye da matasan Gen Z, inda yake amfani da barkwanci da matasan ke so, har ma da sanya mundayen abota a hannunsa.",
    "published_date": "Thu, 05 Nov 2026 16:13:19 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Su wane ne jagororin yaƙin neman zaɓen Tinubu, Atiku da Obi?",
-   "url": "https://www.bbc.com/hausa/articles/c6vg0ydn58g3o?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da aka kaɗa gangamin siyasa a Najeriya gabanin babban zaɓen Najeriya na 2027, jam'iyyun siyasa daban-daban sun duƙufa wajen samun goyon bayan jama'a.",
-   "published_date": "Thu, 05 Nov 2026 03:56:59 GMT",
    "score": 0.6
   }
  ],

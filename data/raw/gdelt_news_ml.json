@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "VISITE DU PREMIER MINISTRE DU SITE DES DÉPLACÉS DE KOUREMALÉ",
+   "url": "https://malijet.com/a_la_une_du_mali/312729-visite-du-premier-ministre-du-site-des-deplaces-de-kouremale.html",
+   "content": "",
+   "published_date": "2026-11-08T18:30:00Z",
+   "score": 0.5
+  }
+ ],
  "engine": "gdelt",
  "_tag": "ml",
  "_query": "Mali OR Bamako OR jihadist OR orpaillage",

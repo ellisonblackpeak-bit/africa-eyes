@@ -1,7 +1,42 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Western Uranium Stocks Gaining Attention As Nuclear Fuel Supply Tightens - Simply Wall St News",
+   "url": "https://simplywall.st/stocks/us/materials/nasdaq-aspi/asp-isotopes/news/western-uranium-stocks-gaining-attention-as-nuclear-fuel-sup",
+   "snippet": "Global Atomic provides direct upstream uranium exposure from a Western listed company at a time when utilities are looking beyond Russian and Chinese supply. The stock connects that theme to a financed Niger project and a modest but established zinc recycling cash engine. Future uranium margins depend on how one unresolved geopolitical and permitting pressure is ultimately addressed. [...] If that",
+   "published": "Sat, 07 Nov 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "It would shock you to know that we used to have uranium ...",
+   "url": "https://www.facebook.com/Safwanalghazal/posts/it-would-shock-you-to-know-that-we-used-to-have-uranium-enrichment-traces-in-nig/4885893028353217",
+   "snippet": "It would shock you to know that we used to have uranium enrichment traces in Nigeria but fear of dem senior men in the west made us move it to China It",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "BREAKING: NIGER MOVES TO SCRAP FAKE COLONIAL ...",
+   "url": "https://www.facebook.com/groups/275114380263865/posts/1812685666506721",
+   "snippet": "No colonial contracts, no foreign gatekeepers — uranium will be sold to whoever pays fair market value. “This is about dignity and independence,” says Gen.",
+   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "State stakes in Chinese-backed African mineral projects run from 5% to a possible 25%, report finds, with no published technology-transfer terms - Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news/0311-60417-state-stakes-in-chinese-backed-african-mineral-projects-run-from-5-to-a-possible-25-report-finds-with-no-published-technology-transfer-terms",
+   "snippet": "The report recommends that African governments establish minimum state ownership requirements, agree on ownership and revenue-sharing terms before projects begin, and tie export permits to local processing. It also calls on Chinese investors to disclose the terms of their investments.\n\nDevelopment Reimagined recommends that African governments agree on common positions ahead of the tenth Forum on ",
+   "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/DfY57dVFpio",
+   "snippet": "cnpc_news's profile picture\nVideo by CNPC on November 05, 2026. May be an image of one or more people, terminal and text.\ncnpc_news's profile picture\ncnpc_news's profile picture\n\n## No comments yet. [...] Photo by CNPC on November 05, 2026. May be an image of segway and text.\nPhoto by CNPC on November 05, 2026. May be an image of one or more people, plant and text.\nPhoto by CNPC on November 05, 20",
+   "published": "Fri, 06 Nov 2026 05:56:33 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_uranium",
  "_query": "Chinese uranium Niger",
  "_domains": [],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Shadow War in the Central Sahel: The Escalating Niger–Chad Crisis | Afroangle",
+   "url": "https://www.afroangle.com/articles/central-sahel-the-escalating-Niger-Chad-crisis",
+   "snippet": "Lastly, the Niger–Chad frontier has increasingly become a mutual proxy arena. Niger regularly accuses Chad of allowing its territory to serve as a rear base for hostile Nigerien insurgents, notably the Patriotic Movement for Liberty and Justice (MPLJ), led by Moussa Kounaï. In response, Niger is accused of offering sanctuary to Chadian rebel factions. Prominent among these is the Front for Change ",
+   "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger-Libye : Niamey et Benghazi signent un accord de coopération stratégique",
+   "url": "https://www.actuniger.com/politique/22535-niger-libye-niamey-et-benghazi-signent-un-accord-de-cooperation-strategique",
+   "snippet": "contre ses intérêts stratégiques situés dans cette zone du nord-est du Niger, marquée ces derniers temps par l’amplification des risques sécuritaires qui ont poussé les autorités militaires nigériennes à appeler Alger à la rescousse. Des soldats algériens sont ainsi attendus pour se déployer dans une base située à Madama, dans cette zone où les groupes rebelles (FPL, MPLJ, FPJ) continuent de menac",
+   "published": "Mon, 02 Nov 2026 13:20:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger (The) Breaking News Headlines Today | Ground News",
+   "url": "https://ground.news/interest/niger",
+   "snippet": "Niger Has Strengthened Military Cooperation with Algeria and Increased Its Contacts with Haftar in Libya.\n\n#### Niger Has Strengthened Military Cooperation with Algeria and Increased Its Contacts with Haftar in Libya.\n\nNiger · NigerSee the Story\n\nNiger-Algeria, a Marriage of Reason Full of Promises\n\n#### Niger-Algeria, a Marriage of Reason Full of Promises\n\nRelationships · NiameyRead Article\n\nAfri",
+   "published": "Wed, 04 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "🟠 L'armée algérienne déployée au Niger 🔸 «Un premier ...",
+   "url": "https://www.facebook.com/NorthAfricaTVChannel/posts/-larm%C3%A9e-alg%C3%A9rienne-d%C3%A9ploy%C3%A9e-au-niger-un-premier-convoi-a-atteint-arlit-selon-reu/122182768346705434",
+   "snippet": "Le Parlement a approuvé, ce 25 octobre 2026, l'envoi de troupes militaires au Niger, recueillant 148 voix favorables au Conseil de la Nation. Il s'agit du tout",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "3.1K views | 🗣️ Fethi Ghares, coordinateur national du MDS : «L’armée algérienne risque de devenir la gardienne des intérêts étrangers au Niger»\n\n🔸 «Ni le peuple algérien ni le peuple nigérien n’ont été associés à cette décision, qui servirait les intérêts de régimes autoritaires et de puissances étrangères.»\n\n#Algérie #Niger #Sahel #NorthAfricaTV | NATV قناة شمال أفريقيا",
+   "url": "https://www.facebook.com/NorthAfricaTVChannel/posts/%EF%B8%8F-fethi-ghares-coordinateur-national-du-mds-larm%C3%A9e-alg%C3%A9rienne-risque-de-devenir-/122182763384705434",
+   "snippet": "Image 11 NATV قناة شمال أفريقيا 6.1K\n\nImage 12 NATV قناة شمال أفريقيا 61K\n\nImage 13 NATV قناة شمال أفريقيا 4.5K\n\nImage 14 NATV قناة شمال أفريقيا 44K\n\nImage 15 NATV قناة شمال أفريقيا 92K\n\n## Related videos\n\nImage 16: Video thumbnail 1:34\n\n[](\n\n🟠 Déficits et pénuries : l’économie algérienne sous pression 🔸 Entre réserves en baisse et flambée des prix, l’Algérie reste dépendante des hydrocarbures. #A",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical Threats on X: \"Algeria authorized a troop deployment to northern Niger, likely to advance several shared economic and security objectives in Niger. The deployments are part of Algeria’s new, more assertive approach to its Sahel strategy, which aims to outcompete its North African neighbor… / X",
+   "url": "https://x.com/criticalthreats/status/2117621035541442947",
+   "snippet": "Nov 3\n\n  3/ This decision comes amid rekindling relations between Algeria and its Sahelian neighbors in recent months, after a diplomatic rupture following Algeria’s downing of a Malian drone near their shared border in April 2025. The improved relations between Algeria and Niger likely\n\n  1\n\n  @criticalthreats\n\n  Critical Threats@criticalthreats\n\n  Nov 3 [...] Algeria authorized a troop deploymen",
+   "published": "Tue, 03 Nov 2026 14:12:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical Threats on X: \"Algeria authorized a troop deployment to northern Niger, likely to advance several shared economic and security objectives in Niger. The deployments are part of Algeria’s new, more assertive approach to its Sahel strategy, which aims to outcompete its North African neighbor… / X",
+   "url": "https://x.com/criticalthreats/status/2117621035541442947/photo/2",
+   "snippet": "Nov 3\n\n  3/ This decision comes amid rekindling relations between Algeria and its Sahelian neighbors in recent months, after a diplomatic rupture following Algeria’s downing of a Malian drone near their shared border in April 2025. The improved relations between Algeria and Niger likely\n\n  1\n\n  @criticalthreats\n\n  Critical Threats@criticalthreats\n\n  Nov 3 [...] Algeria authorized a troop deploymen",
+   "published": "Tue, 03 Nov 2026 14:12:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger – Algérie – Libye : Niamey renforce sa coopération ...",
+   "url": "https://www.facebook.com/anadoluagencyfr/posts/niger-alg%C3%A9rie-libye-niamey-renforce-sa-coop%C3%A9ration-militaire-avec-alger-et-ses-c/1446714584215739",
+   "snippet": "Niger – Algérie – Libye : Niamey renforce sa coopération militaire avec Alger et ses contacts diplomatiques avec les forces de Khalifa Haftar dans l'est",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "🎙️ Abdelaziz Mounde - analyste géopolitique 📌 L'accord ...",
+   "url": "https://www.facebook.com/NorthAfricaTVChannel/posts/%EF%B8%8F-abdelaziz-mounde-analyste-g%C3%A9opolitique-laccord-haftar-niger-met-%C3%A0-l%C3%A9preuve-les/122182913198705434",
+   "snippet": "Abdelaziz Mounde - analyste géopolitique L'accord Haftar-Niger met à l'épreuve les relations entre Alger et Niamey!",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "WTAE-TV Pittsburgh on TikTok",
+   "url": "https://www.tiktok.com/@wtae4/video/7704534455775497485",
+   "snippet": "Video 1\n\nWTAE-TV Pittsburgh · 2d ago \n\nThe murder-suicide in Mount Lebanon, where a father and his two children died, is leaving the community grieving and seeking ways to cope, creating a vigil for the victims of the shooting. FULL STORY ⬇️\n\nmore\n\n00:04 / 00:29\n\nImage 2: wtae4\n\n746\n\n31\n\n18\n\n10\n\n[](\n\nComments\n\nYou may like\n\nLog in\n\nLog in\n\nScroll, use the ↑ ↓ keys, or click the arrows on the right",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

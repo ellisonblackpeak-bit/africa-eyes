@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Egypt: 4 dead and dozens injured after two trains collide south of Cairo",
+   "title": "Coalition building begins as ANC suffers major blow in South Africa local elections",
+   "url": "http://www.africanews.com/2026/11/08/coalition-building-begins-as-anc-suffers-major-blow-in-south-africa-local-elections/",
+   "content": "The African National Congress came in first place in South Africa's local elections but suffered its worst-ever electoral setback, according to final results on Sunday.",
+   "published_date": "Sun, 08 Nov 2026 18:27:54 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Egypt: 7 dead and dozens injured after two trains collide south of Cairo",
    "url": "http://www.africanews.com/2026/11/08/egypt-4-dead-and-dozens-injured-after-two-trains-collide-south-of-cairo/",
    "content": "Four people are dead and dozens injured after two trains collided south of Cairo on Sunday. Egypt’s railway authority said a train traveling to Giza from Fayoum crashed into the rear of another service heading south from Cairo to Aswan.",
-   "published_date": "Sun, 08 Nov 2026 15:45:12 +0000",
+   "published_date": "Sun, 08 Nov 2026 19:07:33 +0000",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "http://www.africanews.com/2026/11/06/pix-of-the-day-6th-november-2026-across-the-world/",
    "content": "Pix of the Day, 6th November, 2026 - Across the world",
    "published_date": "Fri, 06 Nov 2026 13:45:19 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Tanzania opposition leader jailed for four years after treason acquittal",
-   "url": "http://www.africanews.com/2026/11/06/tanzania-opposition-leader-jailed-for-four-years-after-treason-acquittal/",
-   "content": "Tanzanian opposition leader Tundu Lissu was sentenced to four years in prison on Friday for inciting unrest, avoiding the heavier charge of treason that carries the death penalty",
-   "published_date": "Fri, 06 Nov 2026 13:19:13 +0000",
    "score": 0.6
   }
  ],

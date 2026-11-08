@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "China's Pinduoduo, JD.com among 5 summoned over false advertising",
+   "url": "https://www.thestandard.com.hk/china/article/334385/Chinas-Pinduoduo-JDcom-among-5-summoned-over-false-advertising",
+   "snippet": "Chinese e-commerce giants Pinduoduo and JD.com were among five major platforms summoned for talks over misleading advertising on Thursday, Beijing's market watchdog said.\n\nADVERTISEMENT\n\nSCROLL TO CONTINUE WITH CONTENT\n\nThe talks with company representatives, held by the Beijing Municipal Administration for Market Regulation, come as local and national authorities crack down on excessive \"involuti",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nvidia's China ties under scrutiny: CEO Jensen Huang summoned over alleged spy links - BusinessToday",
+   "url": "https://www.businesstoday.in/technology/news/story/nvidias-china-ties-under-scrutiny-ceo-jensen-huang-summoned-over-alleged-spy-links-566118-2026-11-06",
+   "snippet": "Advertisement\n\nAccording to The New York Times and The Wall Street Journal reports, Jensen Huang and Alice Huang shared a close relationship. Intelligence officials in at least three countries suspected that Alice Huang was passing information about Nvidia's chips and technology to the Chinese government. It was reported that US President Donald Trump has already been briefed by the Intelligence o",
+   "published": "Fri, 06 Nov 2026 06:33:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Congress Summons Jensen Huang Over Alleged Ties to Woman Suspected of Chinese Espionage",
+   "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008834050",
+   "snippet": "However, Nvidia has denied the allegations, stating that Jensen Huang's contact with Alice Huang was merely routine business interaction and that no national security-related information was leaked.\n\nNvidia has not released a statement regarding the House's summons.\n\nThe Chinese government previously dismissed allegations of Chinese espionage targeting Nvidia as \"groundless speculation.\"\n\n(Photo: ",
+   "published": "Fri, 06 Nov 2026 04:48:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Nvidia boss Jensen Huang has been summoned by US lawmakers? — TradingView News",
+   "url": "https://www.tradingview.com/news/invezz:746fe7fe5094b:0-why-nvidia-boss-jensen-huang-has-been-summoned-by-us-lawmakers",
+   "snippet": "A recent New York Times report stated that US intelligence officials concluded that businesswoman Alice Huang, who had cultivated a close relationship with the Nvidia chief, was passing information to the Chinese government.\n\nHuang asked to appear on Nov 18\n\nReps. Brian Mast of Florida, John Moolenaar of Michigan and Rick Crawford of Arkansas sent a letter dated Nov. 4 requesting that Huang brief ",
+   "published": "Fri, 06 Nov 2026 12:53:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NVIDIA’s Jensen Huang Summoned By U.S. Congress For A Closed Door Briefing To Address His Interactions With An Executive That’s In The Federal Spy Probe’s Crosshairs",
+   "url": "https://wccftech.com/nvidia-ceo-jensen-huang-congress-closed-door-briefing-china-spying-national-security",
+   "snippet": "A letter addressed to NVIDIA CEO Jensen Huang from the House committees on Foreign Affairs, the CCP, and Intelligence, requesting a briefing on November 18, 2026, regarding security protocols and interactions with PRC intelligence.\n\nThis document is an official letter dated November 4, 2026, sent by three United States House committee chairmen summoning NVIDIA founder and CEO Jensen Huang to appea",
+   "published": "Fri, 06 Nov 2026 10:43:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US lawmakers summon Jensen Huang over Chinese spying concerns",
+   "url": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
+   "snippet": "CompaniesShow more Companies \n       Energy\n       Financials\n       Health\n       Industrials\n       Media\n       Professional Services\n       Retail & Consumer\n       Tech Sector\n       Telecoms\n       Transport\n\n   TechShow more Tech \n       Artificial intelligence\n       Semiconductors\n       Cyber Security\n       Social Media [...] Sections \n\n       Companies Home\n       Energy\n       Financi",
+   "published": "Fri, 06 Nov 2026 00:59:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "House Republicans Summon Nvidia's Jensen Huang for Closed-Door Briefing on Alleged China Spy Ties — BigGo Finance",
+   "url": "https://finance.biggo.com/news/06290ae7-590a-4414-8dc3-ef94371f1d99",
+   "snippet": "The summons follows press disclosures about the relationship. The New York Times reported that Jensen Huang and Alice Huang had a close relationship and that President Trump was briefed by intelligence officials on the allegations but declined to act. The Wall Street Journal later reported that officials in at least three countries were concerned she was passing information to the Chinese governme",
+   "published": "Fri, 06 Nov 2026 11:05:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Lawmakers Summon Jensen Huang Over Alleged Chinese Spy Ties - Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/11/06/us-lawmakers-summon-jensen-huang-over-alleged-chinese-spy",
+   "snippet": "Nvidia CEO Jensen Huang (right) sits alongside Alice Huang, suspected of spying for the Chinese government, at a bar in Taipei, Taiwan, in 2024. Net Thunder, the company that posted the photo on social media, identified her as [...] The U.S. Congress has summoned Nvidia Chief Executive Jensen Huang to explain in person his relationship with a woman suspected of spying for China. [...] In the lette",
+   "published": "Fri, 06 Nov 2026 09:19:40 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
+   "url": "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html",
+   "snippet": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. [...] Sévaré, beside Mopti, is a key military and logistics hub in central",
+   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Footage Shows Russian Su-24M2 Strike Fighters Providing Close Air Support in Central Africa",
+   "url": "https://militarywatchmagazine.com/article/footage-russian-su24m2-close-air-support-africa",
+   "snippet": "Russian Africa Corps Mi-24 Attack Helicopter in Mali\n\nRussian Africa Corps Mi-24 Attack Helicopter in Mali [...] Footage has shown large scale strikes launched by Russian Aerospace Forces Su-24M2strike fighters against armed groups across Mali, primarily the Al-Qaeda-linked Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and the Tuareg-led Azawad Liberation Front (FLA). The aircraft have provided Russ",
+   "published": "Tue, 03 Nov 2026 03:50:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PISM",
+   "url": "https://pism.pl/publications/algeria-returns-to-the-sahel",
+   "snippet": "Algeria’s position in Mali was compromised in 2023, when the Malian junta, with the support of the Russian Wagner Group, resumed the conflict with Tuareg separatists—now operating under the banner of the Azawad Liberation Front (FLA). This renewed offensive brought the fighting, as well as drone attacks, right up to the Algerian border. In April 2025, following the downing of a Malian reconnaissan",
+   "published": "Thu, 05 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Burkina Faso's jihadist battle less deadly but unrelenting",
+   "url": "https://www.modernghana.com/news/1542417/burkina-fasos-jihadist-battle-less-deadly-but.html",
+   "snippet": "He highlighted clashes between the JNIM and its rival, the Islamic State - Sahel Province (ISSP) group in northern Burkina -- some of the deadliest of recent years -- which required men, weapons and time.\n\n\"Added to this is the partial shift of JNIM's focus to operations in Mali,\" where it has carried out attacks on an unprecedented scale in recent months and gathered significant resources, Kargin",
+   "published": "Fri, 06 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "HRW Demands Burkina Faso Govt Probe Civilian Killings - allAfrica.com",
+   "url": "https://allafrica.com/view/group/main/main/id/00098702.html",
+   "snippet": "Deadly Attack on Mining Site; Apparent Use of Banned Explosive Devices in Northern Province Read more »\n\nWest Africa: \nSahel - Limits of Mediation in the Face of Terrorist Violence\n\nCentre 4s, 31 October 2026\n\nSince the rise of jihadists in Mali, 2012, numerous mediation efforts have been undertaken by various individuals and organizations--both legal entities and private persons--aimed… Read more",
+   "published": "Wed, 04 Nov 2026 13:56:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Le Monde: Fear of a Morocco-UAE-Libya Axis Drives Algeria’s Return to Niger",
+   "url": "https://www.moroccoworldnews.com/2026/11/345408/le-monde-fear-of-a-morocco-uae-libya-axis-drives-algerias-return-to-niger",
+   "snippet": "Niger also brokered Algeria’s reconciliation with Mali. In early July, Algiers and Bamako resumed dialogue after a 15-month crisis, a thaw encouraged by Russia, which protects the Malian junta and keeps some 2,000 Africa Corps troops in the country. When the Malian army and its Russian auxiliaries retook Kidal on October 6 without a fight, many saw Algiers behind it. [...] Its past restraint was n",
+   "published": "Sat, 07 Nov 2026 17:56:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why West Africa’s arms imports are rising as Africa’s fall - Military Africa",
+   "url": "https://www.military.africa/2026/11/why-west-africas-arms-imports-are-rising-as-africas-fall",
+   "snippet": "Nigeria’s share will likely stay high as current programmes deliver. The first of its 24 Leonardo M-346FA fighter-attack aircraft were cleared for delivery in August 2026, and Nigerian Air Force technicians are training in Italy to maintain them. Senegal continues to build its navy around missile-armed OPV 58S patrol vessels, while Mali and Burkina Faso rely increasingly on Russian, Chinese and Tu",
+   "published": "Wed, 04 Nov 2026 15:05:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NGOs urge Malian authorities for transparency on abduction of Mountaga Tall",
+   "url": "https://www.africanews.com/2026/11/03/ngos-urge-malian-authorities-for-transparency-on-abduction-of-mountaga-tall",
+   "snippet": "Amnesty International and Human Rights Watch have urged Malian authorities for transparency on the whereabouts of prominent lawyer and politician Mountaga",
+   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Colombia: three soldiers killed in a drone attack on a military base",
+   "url": "https://beninwebtv.com/en/colombia-three-soldiers-killed-in-a-drone-attack-on-a-military-base",
+   "snippet": "The attack targeted Santa Rosa del Sur, in a region contested by several armed groups. The Defensoría warns of the deterioration of the humanitarian",
+   "published": "Sun, 08 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mali_atk",
  "_query": "Mali army attack",
  "_domains": [],
