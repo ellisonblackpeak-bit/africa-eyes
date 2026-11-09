@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Direction Niamey: Algeria Attempts to Bolster Its Posture in the Sahel - The Soufan Center",
+   "url": "https://thesoufancenter.org/intelbrief-2026-november-3",
+   "snippet": "Departing from its long-standing doctrine of non-intervention, Algeria has sent army units to Niger to protect “shared energy and economic interests.”\n Algiers’ decision to send army units appears to be driven by Niamey’s acute fuel shortage, its implications for the country’s stability, and its downstream effects on shared energy projects under development. [...] Base 101. In the country’s southe",
+   "published": "Tue, 03 Nov 2026 05:00:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria sent troops abroad after half a century! The reason drew attention",
+   "url": "https://en.haberler.com/algeria-sent-troops-abroad-after-half-a-century-2330279",
+   "snippet": "Algeria's military support for Niger began in August. Algeria took action after a failed coup attempt targeting the military administration in Niger's capital, Niamey, on August 29.\n\nIn a statement on August 30, the Algerian Ministry of Defense announced that, at the request of the Nigerien authorities, four Su-30 fighter jets had been sent to Niamey on a support mission. A refueling aircraft also",
+   "published": "Fri, 06 Nov 2026 11:02:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Sends Troops into Niger to Protect Energy Interests – Sri Lanka Guardian",
+   "url": "https://slguardian.org/algeria-sends-troops-into-niger-to-protect-energy-interests",
+   "snippet": "Relations between Niamey and Algiers have since improved. Niger recalled its ambassador in February 2026, and Tiani subsequently made a state visit to Algeria. The two governments also agreed to revive joint energy projects. Relations with Mali remained strained for longer, although the two countries reinstated ambassadors and reopened their airspace to one another in July 2026. [...] The security",
+   "published": "Wed, 04 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria Moves to Ease Niger’s Fuel Shortage with 1.6 Million-Litre Petrol Shipment - دزاير توب",
+   "url": "https://www.dzair-tube.dz/en/algeria-moves-to-ease-nigers-fuel-shortage-with-1-6-million-litre-petrol-shipment",
+   "snippet": "Ahmed revealed that Tebboune had ordered the shipment as soon as he learned of Niger’s supply difficulties, without waiting for a request from the Nigerien authorities. He described the swift intervention as a reflection of the positive momentum in bilateral relations. [...] The ambassador also commended Nigerien President General Abdourahamane Tiani for his commitment to strengthening the partner",
+   "published": "Tue, 03 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dabafinance - Niger Receives 1.65M Liters of Algerian Fuel as Shortages Persist",
+   "url": "https://dabafinance.com/en/news/niger-receives-1-65M-liters-of-algerian-fuel-as-shortages-persist",
+   "snippet": "The partnership extends to the proposed Trans-Saharan Gas Pipeline, which would transport Nigerian natural gas through Niger to Algeria for export to European markets. Sonatrach is involved in the project, which remains under development. The fuel shipment adds to cooperation between Algeria and Niger as both countries seek to strengthen trade and energy infrastructure across the Sahara. Further d",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Is Algeria Breaking From Its Historic Nonintervention by Sending Troops to Niger? | RANE Worldview",
+   "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-05/does-algeria-s-troop-deployment-in-niger-signal-a-break-from-its-historic-nonintervention/68c09e58b4837531",
+   "snippet": "deployment during an Oct. 25-26 emergency session. According to a Reuters report citing local sources, the first Algerian convoy reached Arlit, a uranium mining town in northwestern Niger. Meanwhile, Algerian and Nigerien forces secured a 53-truck fuel shipment to Agadez in northern Niger, though a statement from the Nigerien Prime Minister's office claimed that the Algerian forces were present so",
+   "published": "Thu, 05 Nov 2026 21:57:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "First convoy of Algerian troops and tankers reaches northern Niger",
+   "url": "https://www.africanews.com/2026/11/02/first-convoy-of-algerian-troops-and-tankers-reaches-northern-niger",
+   "snippet": "A first convoy of Algerian soldiers was seen in northern Niger this weekend, a week after Algerian lawmakers approved the deployment of troops to the",
+   "published": "Tue, 03 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_fuel",
  "_query": "Niamey fuel",
  "_domains": [],

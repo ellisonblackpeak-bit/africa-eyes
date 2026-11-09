@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Sanctions, AI Boom Cut Global Semiconductor Sales to China",
+   "url": "https://www.chosun.com/english/industry-en/2026/11/09/DMSEY3XR6NBF5EOD2OK7AGZKPY",
+   "snippet": "A key factor in the reduced Chinese share is the surge in AI semiconductor investments in South Korea and Taiwan. In ASML’s third-quarter equipment sales, Taiwan and South Korea accounted for 32% and 31%, respectively, surpassing China’s 23%. Lam Research’s sales to South Korea more than doubled year-on-year. This growth stems from Samsung Electronics and SK Hynix expanding investments in high-ban",
+   "published": "Sun, 08 Nov 2026 21:00:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Doosan to Expand CCL Production in China with 550 Billion Won Investment < Supply Chain < 기사본문 - The Elec Inc.",
+   "url": "https://www.thelec.net/news/articleView.html?idxno=15382",
+   "snippet": "“Our expansion plans are progressing smoothly in Changshu, China, following Gimje, South Korea,” Yoo said. “With our differentiated technology and advanced production capabilities, we will supply the volumes our customers need on time and solidify our leadership in high-end CCL.”\n\nSelye Moon의 프로필 이미지\n\nSelye Moon selyesel@thelec.kr\n\nView other news\n\nCopyright © The Elec Inc. No unauthorized transfe",
+   "published": "Sun, 08 Nov 2026 14:28:10 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "South Korea's $350 Billion U.S. Investment Faces Uncertainty, With Tariff Policy Holding Firm - Businesskorea",
    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280563",
    "snippet": "Expanding semiconductor production in the United States and reducing supply-chain dependence on China remain shared policy goals of both parties, suggesting that pressure on South Korean companies to make additional U.S. investments will continue. At the same time, changes in regulations governing AI data center construction and policies related to electricity and water supply could affect major t",
@@ -12,21 +26,7 @@
    "title": "SK hynix faces dilemma between Solidigm investment, Chinese plant expansion - The Korea Times",
    "url": "https://www.koreatimes.co.kr/business/companies/20261104/sk-hynix-faces-dilemma-between-solidigm-investment-chinese-plant-expansion",
    "snippet": "According to Reuters, Commerce Under Secretary Jeffrey Kessler maintained his position during a meeting last week that the U.S. did not want to allow additional American chipmaking equipment into China for capacity upgrades or expansion, though SK hynix argues that the investment should be permitted because it would involve installing equipment in an existing empty cleanroom rather than constructi",
-   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Multinational companies deepen investment and localization efforts - Chinadaily.com.cn",
-   "url": "https://www.chinadaily.com.cn/a/202611/06/WS6aedd47de4b03ebf8519aeee.html",
-   "snippet": "\"As a global product innovation center, it not only develops products for the Chinese market, but also provides R&D support for markets in the Asia-Pacific and Europe, including Malaysia, Indonesia, South Korea, and Russia,\" Yang Lan, head of public affairs for Herbalife China, said.\n\nThe value of the CIIE has evolved from being a showcase to becoming a significant opportunity for promoting locali",
-   "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea exports nearly double in October on AI investment boom | The Asahi Shimbun: Breaking News, Japan News and Analysis",
-   "url": "https://www.asahi.com/ajw/articles/17016463",
-   "snippet": "South Korea’s exports for the January-October period totaled $930 ​billion. Annual exports of more than $1 trillion will make South Korea the fourth country in the world to reach the ⁠milestone, after the US, China and Germany.\n\nOverseas sales of semiconductors jumped 259.4% in October to $56.44 billion, as prices ⁠and volume remained high on continued facility investment by global big tech firms ",
-   "published": "Mon, 02 Nov 2026 02:00:00 GMT",
+   "published": "Thu, 05 Nov 2026 02:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -44,17 +44,24 @@
    "source": "tavily"
   },
   {
+   "title": "EXCLUSIVE: SK Hynix's New York chip plans hit snag over US restrictions on China, sources say | Reuters",
+   "url": "https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03",
+   "snippet": "Nov 3 (Reuters) - US officials have held up approval for American chipmaking equipment needed by SK Hynix (000660.KS) to expand production in China, complicating the South Korean ​chipmaker's plans for new memory-chip plants in New York, according to people familiar with the matter. [...] Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people s",
+   "published": "Wed, 04 Nov 2026 06:55:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea investigates 580 finance firms over data leaks, issues warning | South China Morning Post",
+   "url": "https://www.scmp.com/week-asia/economics/article/3373363/south-korea-investigates-580-finance-firms-over-data-leaks-issues-warning",
+   "snippet": "Advertisement\n\nSouth Korea\n\nThis Week in AsiaEconomics\n\n# South Korea investigates 580 finance firms over data leaks, issues warning\n\nThe Financial Services Commission warns banks against ignoring known security risks and unsafe practices\n\n2-MIN READ2-MIN\n\nListen\n\nA stack of 50,000 South Korea won cash bills. A total of 1 billion won (US$745,000) in funds held by various financial firms have been ",
+   "published": "Thu, 05 Nov 2026 07:08:53 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "AI Slump Revives Asia’s Forgotten Trades From China to India - Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
    "snippet": "Aberdeen Investments favors markets powered by stronger domestic growth, including India and Vietnam, and sees upside in Chinese technology firms. Hedge fund Lotus Asset Management is long Hong Kong equity futures, while Allianz Global Investors is looking at healthcare and consumer companies. [...] # AI Slump Revives Asia’s Forgotten Trades From China to India\n\n## Takeaways by Bloomberg AI\n\nThe u",
    "published": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say",
-   "url": "https://www.reuters.com/world/china/chinese-chipmaker-ymtc-puts-ipo-hold-weaker-markets-weigh-sources-say-2026-11-04",
-   "snippet": "Flash-memory chipmaker Yangtze Memory Technologies Co has put its Shanghai IPO ​on hold, according to a company memo and three people with knowledge of the",
-   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
    "source": "tavily"
   }
  ],

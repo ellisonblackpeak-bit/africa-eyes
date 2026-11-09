@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "ADIPEC 2026: Lokpobiri targets global partners to boost Nigeria's oil sector",
+   "url": "https://thesun.ng/adipec-2026-lokpobiri-targets-global-partners-to-boost-nigerias-oil-sector",
+   "snippet": "The Minister of State for Petroleum Resources (Oil), Sen. Heineken Lokpobiri, made the call while contributing to the Ministerial Leadership Roundtable at the 2026 Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC), which focused on energy supply and industrial competitiveness. [...] He emphasised that stronger global cooperation was essential to addressing emerging challenges in",
+   "published": "Thu, 05 Nov 2026 05:35:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dabafinance - Niger Receives 1.65M Liters of Algerian Fuel as Shortages Persist",
+   "url": "https://dabafinance.com/en/news/niger-receives-1-65M-liters-of-algerian-fuel-as-shortages-persist",
+   "snippet": "Niger has received its first shipment of fuel from Algeria, with 53 tanker trucks delivering 1.65 million liters of petroleum products to the northern city of Agadez as the country seeks to ease fuel shortages and strengthen energy cooperation with its northern neighbor. The convoy arrived on October 31, 2026, under military escort from both countries, according to Niger's state broadcaster RTN. P",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa creates US$5bn energy bank as foreign lending retreats  | Global Trade Review (GTR)",
+   "url": "https://www.gtreview.com/news/africa/africa-creates-us5bn-energy-bank-as-foreign-lending-retreats",
+   "snippet": "Attendees included Heineken Lokpobiri, Nigeria’s minister of state for petroleum resources (oil), George Elombi, president and chairman of the board of directors at Afreximbank and Mamadou Sangafowa-Coulibaly, Côte d’Ivoire’s minister of mines, petroleum and energy. [...] Tags: African Export-Import Bank (Afreximbank), African Petroleum Producers’ Organization (APPO), ESG and sustainability, fossi",
+   "published": "Mon, 02 Nov 2026 17:34:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria looks to ease fuel prices as election looms",
+   "url": "https://www.ewn.co.za/nigeria-looks-to-ease-fuel-prices-as-election-looms",
+   "snippet": "Finance Minister Taiwo Oyedele said the measures were aimed at easing pressure on households and businesses while avoiding a return to fuel subsidies.\n\n\"We are offering a discount on petrol dispensed by NNPC Limited for the next 30 days, in the first instance, with priority for public transporters nationwide,\" Oyedele told journalists in Abuja.\n\nNNPC, Nigeria's state oil company, runs a vast netwo",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "OpenAI signs raft of UAE deals, including ADNOC partnership | Kuwait Times Newspaper",
+   "url": "https://kuwaittimes.com/article/52852/business/openai-signs-raft-of-uae-deals-including-adnoc-partnership",
+   "snippet": "desk search\n\nclose\n\nABU DHABI: UAE Minister of Energy and Infrastructure Suhail Mohamed Al-Mazrouei (center) and Nigeria’s Minister of State for Petroleum Resources Ekperikpe Ekpo (right) attend a talk at the Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC) on November 2, 2026. — AFP [...] ABU DHABI: UAE Minister of Energy and Infrastructure Suhail Mohamed Al-Mazrouei (center) ",
+   "published": "Mon, 02 Nov 2026 11:58:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Oyedele Warns Nigeria Against Repeating Oil Economy Mistakes In Digital Sector – Arise News",
+   "url": "https://www.arise.tv/oyedele-warns-nigeria-against-repeating-oil-economy-mistakes-in-digital-sector",
+   "snippet": "The minister maintained that the scale of the opportunity was already evident, citing figures by the Nigerian Communications Commission (NCC) showing that Nigeria had more than 157 million active internet subscriptions as at May 2026.\n\nHowever, he pointed to an estimate by the Nigeria Data Protection Commission showing that over 90 per cent of the country’s data is hosted abroad. [...] Business\n\nF",
+   "published": "Sat, 07 Nov 2026 13:39:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s Dangote Group Explores Investment Opportunities in Egypt | Egypt Oil & Gas",
+   "url": "https://egyptoil-gas.com/news/nigerias-dangote-group-explores-investment-opportunities-in-egypt",
+   "snippet": "The minister also clarified that potential cooperation would not be limited to establishing an oil refinery, pointing to several sectors in which Egyptian and Nigerian companies could combine their capabilities, expand industrial production, and generate economic value. [...] Representatives of the Ministry of Petroleum and Mineral Resources highlighted Egypt’s potential as a destination for inves",
+   "published": "Sun, 08 Nov 2026 11:28:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger Gets First Algerian Fuel Shipment, Escorted by Troops - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/niger-gets-first-algerian-fuel-shipment-escorted-by-troops",
+   "snippet": "Niger received its first fuel shipment from Algeria, with 53 trucks escorted by troops from both countries arriving in the northern city of Agadez, as the two African neighbors deepen energy and security ties.\n\nThe convoy, carrying about 1.65 million liters of petroleum products, arrived over the weekend, Niger’s state broadcaster RTN reported. [...] ### Products\n\n### Industry Products\n\n### Media\n",
+   "published": "Mon, 02 Nov 2026 10:28:31 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_ministry",
  "_query": "Niger petrol minister oil",
  "_domains": [],

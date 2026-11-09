@@ -2,17 +2,38 @@
  "success": true,
  "results": [
   {
-   "title": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
-   "url": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
-   "content": "The overall air quality of Delhi continued to be in the “very poor” category while many parts of the city continued to reel under “severe” air quality",
-   "published_date": "Mon, 09 Nov 2026 01:01:12 +0530",
+   "title": "Major fire breaks out in Mumbai's Dongri, dousing ops on; one dead in November 7 highrise blaze",
+   "url": "https://www.thehindu.com/news/cities/mumbai/major-fire-breaks-out-in-mumbais-dongri-dousing-ops-on-one-dead-in-november-7-highrise-blaze/article71681271.ece",
+   "content": "The Mumbai Fire Brigade (MFB) declared it a Level-I fire call at 10.11 p.m., deploying a large number of its personnel along with those from the police, BEST, ward and 108 ambulance service for dousing operations",
+   "published_date": "Mon, 09 Nov 2026 08:02:13 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi's air quality slips into 'severe' category morning after Deepavali, AQI at 404",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhis-air-quality-slips-into-severe-category-morning-after-deepavali-aqi-at-404/article71681305.ece",
+   "content": "Meanwhile, several other key areas in the capital continued to reel under the 'Very Poor' air quality bracket. Rajiv Chowk clocked an AQI of 381 at 1:30 a.m., while the area surrounding South Extension registered an AQI of 360 at 4:00 a.m.",
+   "published_date": "Mon, 09 Nov 2026 08:00:02 +0530",
    "score": 0.6
   },
   {
    "title": "19 Indian seafarers stranded in Yemen evacuated, Embassy says",
    "url": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece",
    "content": "The evacuation comes days after India said 14 Indian nationals aboard a yacht involved in an incident off the Yemeni coast were safe",
-   "published_date": "Mon, 09 Nov 2026 00:43:45 +0530",
+   "published_date": "Mon, 09 Nov 2026 07:39:49 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+   "url": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
+   "content": "The overall air quality of Delhi continued to be in the “very poor” category while many parts of the city continued to reel under “severe” air quality",
+   "published_date": "Mon, 09 Nov 2026 07:31:28 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Morning Digest: Delhi air quality worsens as people defy firecrackers ban on Deepavali; 19 Indian seafarers stranded in Yemen evacuated, and more",
+   "url": "https://www.thehindu.com/news/morning-digest-on-november-9-2026/article71681255.ece",
+   "content": "Here is a select list of stories to start the day",
+   "published_date": "Mon, 09 Nov 2026 07:30:24 +0530",
    "score": 0.6
   },
   {
@@ -69,27 +90,6 @@
    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece",
    "content": "Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.",
    "published_date": "Sun, 08 Nov 2026 18:48:13 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
-   "url": "https://www.thehindu.com/news/national/maharashtra/portion-of-false-ceiling-collapses-outside-mumbai-airport-terminal-one-hurt/article71680978.ece",
-   "content": "The airport's emergency medical team rushed to the spot immediately after the incident outside the terminal building and provided first aid to the injured individual",
-   "published_date": "Sun, 08 Nov 2026 18:39:19 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Watch: Delhi air pollution: Capital sees ‘very poor’ AQI on Deepavali as GRAP 3 curbs continue",
-   "url": "https://www.thehindu.com/videos/watch-delhi-air-pollution-capital-sees-very-poor-aqi-on-deepavali-as-grap-3-curbs-continue/article71680939.ece",
-   "content": "Delhi recorded ‘very poor’ air quality on Deepavali, with the overall AQI at 383 in the morning and improving marginally to 378 by 3:00 PM. However, several monitoring stations continued to log ‘severe’ pollution levels, led by Jahangirpuri at 461 and Rohini at 447.",
-   "published_date": "Sun, 08 Nov 2026 18:25:13 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Deepavali 2026: How ready-to-drink cocktails are changing India’s festive drinking scene",
-   "url": "https://www.thehindu.com/food/features/deepavali-2026-how-ready-to-drink-cocktails-are-changing-indias-festive-drinking-scene/article71648305.ece",
-   "content": "From rasmalai-inspired cocktails to jamun mint and guava chilli, ready-to-drink beverages are bringing Indian flavours to Deepavali parties, reflecting changing tastes and a growing market for convenient cocktails",
-   "published_date": "Sun, 08 Nov 2026 17:51:40 +0530",
    "score": 0.6
   }
  ],

@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "China-Laos digital payment link offers new model for cross-border transactions: AMRO - TNGlobal",
+   "url": "https://technode.global/2026/11/02/china-laos-digital-payment-link-offers-new-model-for-cross-border-transactions-amro",
+   "snippet": "The corridor is supported by growing economic ties between the two countries. China is Laos’ largest foreign investor, with cumulative investment exceeding $18 billion, while more than 1.16 million Chinese visitors travelled to Laos in 2025. The Lao-China Railway has further strengthened connectivity and tourism flows. [...] Selected enterprises are already piloting cross-border business and inves",
+   "published": "Mon, 02 Nov 2026 07:24:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Thailand pushes Laos-China rail connections as regional trade expands",
+   "url": "https://www.nationthailand.com/news/asean/40073218",
+   "snippet": "The plans include double-track and high-speed rail projects, a new railway bridge across the Mekong River and a freight transfer centre in Nong Khai, while Indonesia is exploring Chinese investment in a proposed 2,772-kilometre railway network across Kalimantan. [...] ### Laos highlights economic benefits of China railway\n\nLaos has pointed to the Laos-China Railway as an example of how improved in",
+   "published": "Sat, 07 Nov 2026 02:56:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Laos, China agree to strengthen rail links, economic corridor and AI cooperation | The Star",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/05/laos-china-agree-to-strengthen-rail-links-economic-corridor-and-ai-cooperation",
+   "snippet": "The existing Laos-China Railway, which connects Vientiane with Kunming in China’s Yunnan province, began operations in December 2021 and has become an important trade route between China and Southeast Asia and beyond.\n\nAccording to figures provided by the China Railway Kunming Group in August 2026, the railway has carried more than 90 million tonnes of freight since it became operational, includin",
+   "published": "Thu, 05 Nov 2026 04:33:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Huaxin Brazil Cement Acquisition Update - The China-Global South Project",
+   "url": "https://chinaglobalsouth.com/2026/11/09/china-huaxin-brazil-csn-cement-acquisition",
+   "snippet": "By Luciana Magalhaes Chinese automaker BYD is launching its first Brazilian-made plug-in hybrid flex-fuel car on Tuesday after a two-year investment of 100 million reais ($19.6 million), the company’s top executive in the country told ...\n\nChina, Thailand, and Laos speed up a new Nong Khai–Vientiane rail bridge to expand Belt and Road links and boost regional trade across Southeast Asia.\n\n### Chin",
+   "published": "Mon, 09 Nov 2026 01:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Laos' Pasaxon Newspaper editor-in-chief calls for building consensus, establishing cross-sector, cross-border media cooperation network - Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1373700.shtml",
+   "snippet": "To meet our development needs and drive growth, Laos and China have jointly pushed forward infrastructure projects. Representative examples include the China-Laos Railway, which was completed and opened to traffic in December 2021, and the Vientiane-Vang Vieng Expressway, which opened to traffic in December 2020. [...] The Belt and Road Initiative, or BRI, is a global infrastructure drive launched",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Has China’s infrastructure investment peaked? : Global Times editorial - Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1373576.shtml",
+   "snippet": "After projects such as the China-Laos Railway and the Jakarta-Bandung High-Speed Railway entered operation, China's infrastructure know-how, equipment capacity and industry standards have increasingly been recognized as international public goods.  \n  \nOnce China's underlying infrastructure logic is understood, the \"peak\" narrative collapses of its own weight as this perception is out of touch wit",
+   "published": "Wed, 04 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese foreign minister meets Lao deputy prime minister on relations",
+   "url": "https://www.bastillepost.com/global/article/6321305-chinese-foreign-minister-meets-lao-deputy-prime-minister-on-relations",
+   "snippet": "He urged efforts from both sides to make full use of the Joint Committee for China-Laos Economic Corridor Cooperation, accelerate development of the China-Laos Railway, and expand cooperation in trade and mineral resources.\n\nThongsavanh said Laos is committed to advancing the building of a Laos-China community with a shared future, and strengthening cooperation with China in connectivity, energy, ",
+   "published": "Tue, 03 Nov 2026 14:13:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Top Chinese diplomat hosts Thai, Lao, Myanmar ministers",
+   "url": "https://www.aa.com.tr/en/asia-pacific/top-chinese-diplomat-hosts-thai-lao-myanmar-ministers/4110315",
+   "snippet": "Sihasak said Thailand was willing to strengthen coordination with China on international issues, support multilateralism, and uphold the international order centered on the UN.\n\nWang told Lao Foreign Minister Thongsavanh Phomvihane that the two sides should maintain high-level exchanges, make effective use of the China-Laos Economic Corridor Cooperation Joint Committee, and accelerate the developm",
+   "published": "Tue, 03 Nov 2026 19:07:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "bne IntelliNews - China-Kyrgyzstan-Uzbekistan railway construction making progress",
+   "url": "https://www.intellinews.com/china-kyrgyzstan-uzbekistan-railway-construction-making-progress-482033",
+   "snippet": "Representatives from a Chinese company, Ganfeng Lithium Group, the world’s largest lithium producer that manages the full cycle from lithium extraction to battery production and recycling, met with top officials of Kyrgyzstan’s National Investment Agency to discuss potential investments in the Central Asian state. While no agreements have been signed yet, such a major player’s interest in mining l",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Investing in Tourism is Lifting Incomes and Growth in Lao PDR",
+   "url": "https://www.adb.org/news/features/investing-tourism-lifting-incomes-and-growth-lao-pdr",
+   "snippet": "### Investing in Bangladesh's Missing Railway Link\n\nCox’s Bazar had never been connected to Bangladesh’s railway network. Financing from Asian Development Fund helped close that gap while protecting wildlife and improving mobility for communities.\n\nImage 13: ADB e-Alerts\n\n## Subscriber Services\n\nSubscribe to ADB's Newsletters, Alerts and RSS feeds.\n\n## Connect with Us: [...] ## Key Takeaways\n\n    ",
+   "published": "Wed, 04 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_la",
  "_query": "Chinese company Laos railway investment",
  "_domains": [],

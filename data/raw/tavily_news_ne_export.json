@@ -1,7 +1,35 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Oil prices plunge over 4% as hopes of US-Iran war deal rise - Nairametrics",
+   "url": "https://nairametrics.com/2026/11/02/oil-prices-plunge-over-4-as-hopes-of-us-iran-war-deal-rise",
+   "snippet": "The development highlights the pressure that rising energy costs continue to place on households and businesses, even as governments in other markets introduce measures to protect domestic supplies.\n In October 2026, Niger banned petrol and diesel exports to prioritise domestic consumption. However, specially authorised exports of surplus supplies by state-owned SONIDEP and refinery operator SORAZ",
+   "published": "Mon, 02 Nov 2026 10:23:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Ports Authority accused of stalling exports with manual approvals - Businessday NG",
+   "url": "https://businessday.ng/real-sector/article/nigeria-ports-authority-accused-of-stalling-exports-with-manual-approvals",
+   "snippet": "He said exporters who miss their shipping window are subject to penalties, while the targeted buyer may cancel the contract. The result is uncompetitive Nigerian exports and reduced foreign exchange earnings for the government.\n\n### Non-oil exports at risk\n\nOladunjoye said the disruption threatens Nigeria’s diversification drive. Non-oil exports are key to earning foreign exchange and reducing dep",
+   "published": "Fri, 06 Nov 2026 12:31:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Non-Oil Exports Surpass $6.1 Billion as Government Urges Shift to Production",
+   "url": "https://ng.headtopics.com/news/nigeria-non-oil-exports-surpass-6-1-billion-as-government-89633365",
+   "snippet": "The Federal Government calls for a shift from trading to production following Nigeria's non-oil exports surpassing $6.1 billion in 2025.",
+   "published": "Sun, 08 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Oil reforms raised Nigeria’s output by 600,000bpd — NNPC",
+   "url": "https://punchng.com/oil-reforms-raised-nigerias-output-by-600000bpd-nnpc",
+   "snippet": "The Nigerian National Petroleum Company Limited says reforms in the oil and gas industry have increased Nigeria’s crude oil production by 600,000 barrels per day, from about 1.2 million barrels to 1.8 million barrels daily, as the country steps up efforts to attract international investment into the sector. [...] Related News\n\n State police: N’Assembly moves to transmit bill to Tinubu\n Northern el",
+   "published": "Tue, 03 Nov 2026 14:14:34 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_export",
  "_query": "Niger bans petrol exports",
  "_domains": [],

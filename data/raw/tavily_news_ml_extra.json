@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "First Lithium Secures Three-Year Renewal of Mali Licenses | MarketScreener",
+   "url": "https://www.marketscreener.com/news/first-lithium-secures-three-year-renewal-of-mali-licenses-ce785fdfd98cf225",
+   "snippet": "or by email Create an account  For unlimited access, Check out our subscriptions.    Latest news about First Lithium Limited  |  |  |  |  ---  | Nov. 04 | First Lithium Secures Three-Year Renewal of Mali Licenses | MT | | Sep. 30 | First Lithium Limited Reports Earnings Results for the Full Year Ended June 30, 2026 | CI | | Sep. 29 | First Lithium Limited Auditor Raises 'Going Concern' Doubt | CI ",
+   "published": "Wed, 04 Nov 2026 09:47:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali: Still no accountability after abduction of Mountaga Tall",
+   "url": "https://www.amnesty.org/en/latest/news/2026/11/mali-mountaga-son",
+   "snippet": "On the night of 3 May 2026, just days after a series of attacks by armed groups across Mali, Mountaga Tall, leader of the National Congress for the Democratic Initiative (Congrès national pour l’initiative démocratique), was abducted from his home in the capital, Bamako, by armed and hooded men driving vehicles without registration plates. [...] After several months without information about their",
+   "published": "Tue, 03 Nov 2026 01:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali’s ‘Moringa Queen’ wins UN recognition for restoring degraded land",
+   "url": "https://news.mongabay.com/short-article/malis-moringa-queen-wins-un-recognition-for-restoring-degraded-land",
+   "snippet": "The Herou Alliance has set a target of restoring 10 million hectares (25 million acres) of degraded land in Mali by 2040. Land degradation affected 11.5 million hectares (28.4 acres) in the country in 2019, impacting more than 6.5 million people, according to the United Nations Convention to Combat Desertification (UNCCD). [...] # Mali’s ‘Moringa Queen’ wins UN recognition for restoring degraded l",
+   "published": "Thu, 05 Nov 2026 18:25:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Gold put Mali on the map but a new lithium dawn is rising on the horizon | Stockhead",
+   "url": "https://stockhead.com.au/resources/gold-put-mali-on-the-map-but-a-new-lithium-dawn-is-rising-on-the-horizon",
+   "snippet": "Elsewhere, Toubani is targeting first production at Kobada in the third quarter of next year.\n\nA recent DFS outlined a 9.2-year operation with annual production of about 162,000 ounces.\n\nThe project currently holds a 2.2Moz resource with further exploration potential.\n\n## New mining chapter\n\nMali’s lithium-bearing pegmatites have also been attracting investor interest over the past few years.\n\nGan",
+   "published": "Sun, 08 Nov 2026 19:30:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali meteorite preserves traces of water on early Mars | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/meteorit-iz-mali-zberig-slidi-vzaiemodiyi-vodi-z-koroiu-marsa-space-com",
+   "snippet": "The meteorite, weighing about 800 grams, was found in 2022 on the Teghaza salt flat in Mali, after which it was named. According to researchers, Teghaza 001 is one of the three oldest Martian meteorites discovered on Earth. The rock was ejected from Mars as a result of an impact and later reached Earth. [...] +1° Kyiv   +2° Warsaw   +15° Washington\n\nNews   Around the World\n\n# Meteorite from Mali p",
+   "published": "Fri, 06 Nov 2026 13:06:22 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
+   "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
+   "snippet": "Brentford's Mali midfielder stood out when he was six and has shone in the Premier League since his £39m transfer.",
+   "published": "Sun, 08 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Noi's Bright Stars smash Mali in AfroBasket Qualifier | Sydney Kings",
+   "url": "https://www.sydneykings.com/news/nois-bright-stars-smash-mali-in-afrobasket-qualifier?d6ef7251_page=113",
+   "snippet": "Atem Kuany Kuany led the way for South Sudan, finishing with a game-high 17 points; Dhieu Deing added 13 points and Junior Madut contributed 12 points to help Luol Deng's men improve to 2-0 in Group A - after defeating Morocco in game one.\n\nTamandjan Konate and Fousseyni Drame, the only two Malians to score in double digits, finished with 15 and 10 points, respectively. [...] Home\n\nNews\n\n# Noi's B",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Internationals | Kanté called up to senior Mali squad for first time - West Ham United FC",
+   "url": "https://www.whufc.com/en/news/internationals-or-kante-called-up-to-senior-mali-squad-for-first-time",
+   "snippet": "Tickets\n\nChristmas 16x9 lock-up\n\n---\n\n### Christmas at West Ham United\n\nFind the perfect gift for every Hammer\n\nShop Now",
+   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "B2Gold Corp. (BTG) Stock Price, News, Quote & History - Yahoo Finance",
+   "url": "https://ca.finance.yahoo.com/quote/BTG",
+   "snippet": "### Summary profile\n\nB2Gold Corp. operates as a gold producer company in Canada. The company operates the Fekola Mine in Mali; the Masbate Mine in the Philippines; the Otjikoto Mine in Namibia; the Goose Mine in Canada. It also owns 100% interest in the Gramalote gold project in Colombia. In addition, the company has a portfolio of other evaluation and exploration assets in Mali, Canada and Finlan",
+   "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Palestinian Embassy in Mali Commemorates Balfour Declaration Anniversary with Screening of Returning to Haifa",
+   "url": "https://yaffaps.com/en/page-140409.html",
+   "snippet": "شبكة يافا الإخبارية، هي وسيلة إعلامية فلسطينية مستقلة، تعمل على تغطية أخبار فلسطين المحتلة على مدار الساعة.",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ml_extra",
  "_query": "Mali latest news",
  "_domains": [],

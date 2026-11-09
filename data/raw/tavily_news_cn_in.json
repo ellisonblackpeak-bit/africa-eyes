@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Govt pushes industries to deepen business ties with China, especially for strategic sector investments",
+   "url": "https://www.newindianexpress.com/business/2026/Nov/05/govt-pushes-industries-to-deepen-business-ties-with-china-especially-for-strategic-sector-investments-2",
+   "snippet": "Under Press Note 3 (PN3), introduced in 2020, foreign investments involving beneficial ownership from countries sharing a land border with India, including China, required prior government approval even when such ownership was small. [...] While some Indian companies faced challenges in getting Chinese visa in the recent past, MEA assured that India has already taken up the issue of business visa ",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Normalisation Without Trust: The Security Limits of India’s China Reset",
+   "url": "https://www.orfonline.org/expert-speak/normalisation-without-trust-the-security-limits-of-india-s-china-reset",
+   "snippet": "behind it allows automatic-route investment where land-border shareholders hold up to 10 percent without control, and sets a 60-day timeline for specified manufacturing sectors, such as capital goods, electronic components, and polysilicon. Entities incorporated in China or Hong Kong remain excluded, and the press note itself says an entity or citizen of a land-border country “can invest only unde",
+   "published": "Thu, 05 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China–India relations improve, but strategic rivalry remains - Economist Intelligence Unit",
+   "url": "https://www.eiu.com/n/global-themes/blog/china-india-relations-improve-but-strategic-rivalry-remains",
+   "snippet": "EIU’s China–India Bilateral Relations Index shows a steady recovery in relations since the deterioration following the 2020 Galwan border clashes. Recent progress includes the resumption of direct flights, easing of selected investment restrictions and renewed high-level dialogue. [...] However, improving diplomatic relations do not signal an end to strategic competition. Unresolved border dispute",
+   "published": "Thu, 05 Nov 2026 15:58:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What's behind new India-China border tensions?",
+   "url": "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273",
+   "snippet": "\"In the past few days, a situation arose where a face-off happened (with Chinese troops) at various locations in Arunachal and it still continues,\" he told reporters last month.\n\n\"It may be difficult to counter China by conventional means because their PLA and BDR (Border Defense Regiment) have gone way ahead with investment and modernization,\" he said.\n\nThe disputed China-India border runs throug",
+   "published": "Tue, 03 Nov 2026 14:48:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Taking Stock of India-China Relations: Structural Divergences and the Limits of Diplomacy – The Diplomat",
+   "url": "https://thediplomat.com/2026/11/taking-stock-of-india-china-relations-structural-divergences-and-the-limits-of-diplomacy",
+   "snippet": "of assuring Chinese businesses that “incidents” at the border do not have the potential to derail economic investments. New Delhi’s view, on the other hand, is that such a de-linking will further remove any remaining constraint on PLA aggression at the border. India needs cards with which to respond to violations, and the threat of reversion in overall relations theoretically provides some form of",
+   "published": "Wed, 04 Nov 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What is Driving the Pragmatic Re-engagement in the Sino-Indian Relationship? | Asia Society",
+   "url": "https://asiasociety.org/policy-institute/what-driving-pragmatic-re-engagement-sino-indian-relationship",
+   "snippet": "The revision of Press Note 3 arrived on March 10, 2026,40 when the Union Cabinet approved amendments enabling investors from China and other land-border countries holding up to 10% noncontrolling stakes to invest through the automatic route, alongside introducing a 60-day timeline for processing proposals in select manufacturing sectors such as electronic components, polysilicon, and ingot-wafer, ",
+   "published": "Thu, 05 Nov 2026 21:07:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s outbound investment and AI implications | Law.asia",
+   "url": "https://law.asia/china-outbound-investment-compliance",
+   "snippet": "The regulation applies to outbound investment by Chinese investors. It sets out approval and filing procedures for capital outflows, establishes a security review regime for investments that affect or may affect national security, and restricts cross-border transfers of technology, data and other resources.\n\nAs Chinese AI companies move beyond product exports to establish overseas production and r",
+   "published": "Wed, 04 Nov 2026 09:57:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Anti-Cross-Border Corruption Law gives Beijing new powers to pursue corruption abroad, putting its $348 billion Africa trade relationship under scrutiny | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/leaders/chinas-anti-cross-border-corruption-law-gives-beijing-new-powers-to-pursue-corruption/kwvsvpz",
+   "snippet": "China-Africa trade has reached a record $348 billion, with significant Chinese investment in African infrastructure and resources. [...] China's economic interests also extend beyond merchandise trade. Its companies have invested heavily in African mining, construction, energy and transport infrastructure, while Chinese policy banks have financed major projects across the continent. [...] China ha",
+   "published": "Fri, 06 Nov 2026 10:45:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Beyond Borders YouTube Series | Roland Berger",
+   "url": "https://www.rolandberger.com/en/Insights/Publications/Beyond-Borders-How-to-navigate-growth-markets.html",
+   "snippet": "Simultaneously, Chinese companies are initiating a \"new era of globalization\"—moving beyond merely exporting goods to establish extensive, localized global production, R&D, and supply chain footprints across Southeast Asia, Europe, and the Americas to mitigate trade barriers and secure necessary market access for long-term growth.\n\nFind more information on China here: Navigating disruption:  China",
+   "published": "Tue, 03 Nov 2026 01:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_in",
  "_query": "Chinese company India investment border",
  "_domains": [],

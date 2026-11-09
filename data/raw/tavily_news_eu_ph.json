@@ -1,7 +1,49 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "bne IntelliNews - Italy's Meloni says EU \"all over the place\" on Ukraine as US, Russia talk security",
+   "url": "https://www.intellinews.com/italy-s-meloni-says-eu-all-over-the-place-on-ukraine-as-us-russia-talk-security-482791",
+   "snippet": "img\n\nEl Niño threatens inflation more than growth with the Philippines most exposed - Capital Economics\n\nimg\n\nCyber war fears grip Malaysia as global stockpiling warnings spread\n\nimg\n\nBangladesh's BNP courts Hindu goodwill as Islamist violence lurks\n\nimg\n\nPakistan pins its Afghan border war on India\n\nimg\n\nThe spy scandal tearing Indonesia apart\n\nimg\n\nJapan's Nippon Steel to cut Osaka Steel stake t",
+   "published": "Sun, 08 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Video. EU rejects Trump’s 'big beautiful' security deal with Russia | Euronews",
+   "url": "https://www.euronews.com/video/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe",
+   "snippet": "Between 2025-2050, 39 million deaths are projected to be directly attributable to bacterial AMR.\n\n### When antibiotics stop working: Europe's growing superbug threat\n\nAlicante in Spain's Region of Valencia\n\n### From gastronomy to sports: What to discover in Spain's Region of Valencia\n\nDanjugan Island, Negros Occidental in the Philippines\n\n### A trip to the Philippines offers hidden gems, slow food",
+   "published": "Fri, 06 Nov 2026 18:26:43 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Anticipated EU CBAM Expansion to Downstream Products: Philippines exporter workshop",
+   "url": "https://www.iisd.org/events/anticipated-eu-cbam-expansion-downstream-products-philippines-exporter-workshop",
+   "snippet": "Sign up\n\nClose\n\nThis website utilizes cookies to enable essential site functionality and for analytics to improve user experience on the website.  \nTo learn more, view our Privacy Policy.\n\n Manage preferences \n\n- [x] Essential \n\nCookies that are required for core site functionality and security.\n\n- [x] Analytics \n\nOptional cookies used to understand site performance and improve content.\n\n Save pre",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU-UK Security and Defence dialogue | EEAS",
+   "url": "https://www.eeas.europa.eu/eeas/eu-uk-security-and-defence-dialogue_en",
+   "snippet": "8/8 Pictures\n\nEU-UK Security and Defence dialogue: Joint doorstep by High Representative/Vice-President Kaja Kallas and UK Secretary of State for Defence Wes Streeting\n\nFor more information, read here: EU-UK Security and Defence dialogue [...] EEAS \n\nThe Diplomatic Service of the European Union\n\n## Breadcrumb\n\n1. EEAS\n2. EU-UK Security and Defence dialogue\n\n# EU-UK Security and Defence dialogue\n\n0",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy | Politics | kten.com",
+   "url": "https://www.kten.com/news/politics/trump-teases-big-beautiful-european-security-deal-after-meeting-putin-envoy/article_7d5bed22-df1d-5c1d-b8f5-f72c4089623c.html",
+   "snippet": "(CNN) — US President Donald Trump has promised a new security deal for Ukraine that “might involve all of Europe,” after meeting a top Russian envoy on Thursday – but the proposal has few details and left European capitals puzzled. [...] It is unclear if Trump spoke to any other European leaders.\n\nMeanwhile, NATO Spokesperson Allison Hart confirmed talks between NATO, the US, Ukraine, and EU and E",
+   "published": "Fri, 06 Nov 2026 14:35:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

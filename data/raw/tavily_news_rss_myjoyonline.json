@@ -2,10 +2,59 @@
  "success": true,
  "results": [
   {
+   "title": "Oil falls as Trump says new Iran attacks ‘unlikely’",
+   "url": "https://www.myjoyonline.com/oil-falls-as-trump-says-new-iran-attacks-unlikely/",
+   "content": "Oil prices fell at Monday's open after US President Donald Trump said he was highly unlikely to order new Iran ​attacks while talks to end the conflict make progress, despite both nations' reports of attacks on ships in or near ‌the Strait of Hormuz.",
+   "published_date": "Mon, 09 Nov 2026 02:19:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Trump says after midterms defeat his immigration crackdown was ‘too tough’",
+   "url": "https://www.myjoyonline.com/trump-says-after-midterms-defeat-his-immigration-crackdown-was-too-tough/",
+   "content": "US President Donald Trump has said his immigration crackdown was \"too tough\", marking one of his clearest public retreats from a defining plank of his political agenda, following his party's drubbing in the midterm elections.",
+   "published_date": "Mon, 09 Nov 2026 02:08:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "GPL 2025/2026 : Port City beat Basake Holy Stars to return to winning ways",
+   "url": "https://www.myjoyonline.com/gpl-2025-2026-port-city-beat-basake-holy-stars-to-return-to-winning-ways/",
+   "content": "Port City returned to winning ways with a 1-0 victory over Basake Holy Stars at the Daasebre Boamah Darko II Park on Sunday.",
+   "published_date": "Mon, 09 Nov 2026 00:12:41 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "url": "https://www.myjoyonline.com/aramco-tower-hit-in-heart-of-saudi-capital-as-houthis-launch-fresh-strikes/",
+   "content": "The Aramco Tower, a skyscraper in the Saudi Arabian capital's central financial district, had been hit by an air attack.",
+   "published_date": "Sun, 08 Nov 2026 23:49:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
    "url": "https://www.myjoyonline.com/seven-dead-and-more-than-100-injured-after-trains-collide-in-egypt/",
    "content": "At least seven people have died in a train crash near the Egyptian city At least seven people have died in a train crash near the Egyptian city of Giza, with more than 100 injured.",
-   "published_date": "Sun, 08 Nov 2026 23:14:47 +0000",
+   "published_date": "Sun, 08 Nov 2026 23:40:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "South Africa’s ANC records worst-ever results in local elections",
+   "url": "https://www.myjoyonline.com/south-africas-anc-records-worst-ever-results-in-local-elections/",
+   "content": "South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid and into democracy more than 30 years ago, a result the party has called \"catastrophic\".",
+   "published_date": "Sun, 08 Nov 2026 23:31:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Top House Democrat ‘a hard yes’ on impeaching Hegseth",
+   "url": "https://www.myjoyonline.com/top-house-democrat-a-hard-yes-on-impeaching-hegseth/",
+   "content": "The frontrunner to lead the US House of Representatives after Democrats take control of Congress in January has said he is \"a hard yes\" for impeaching Defence Secretary Pete Hegseth.",
+   "published_date": "Sun, 08 Nov 2026 23:22:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "King Charles leads solemn Remembrance Sunday service at Cenotaph",
+   "url": "https://www.myjoyonline.com/king-charles-leads-solemn-remembrance-sunday-service-at-cenotaph/",
+   "content": "King Charles III led the nation in a solemn two-minute silence on Remembrance Sunday in London to honour veterans who had died in conflict.",
+   "published_date": "Sun, 08 Nov 2026 23:13:00 +0000",
    "score": 0.6
   },
   {
@@ -16,52 +65,31 @@
    "score": 0.6
   },
   {
-   "title": "South Africa’s ANC records worst-ever results in local elections",
-   "url": "https://www.myjoyonline.com/south-africas-anc-records-worst-ever-results-in-local-elections/",
-   "content": "South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid and into democracy more than 30 years ago, a result the party has called \"catastrophic\".",
-   "published_date": "Sun, 08 Nov 2026 23:07:05 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Top House Democrat ‘a hard yes’ on impeaching Hegseth",
-   "url": "https://www.myjoyonline.com/top-house-democrat-a-hard-yes-on-impeaching-hegseth/",
-   "content": "The frontrunner to lead the US House of Representatives after Democrats take control of Congress in January has said he is \"a hard yes\" for impeaching Defence Secretary Pete Hegseth.",
-   "published_date": "Sun, 08 Nov 2026 23:02:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "King Charles leads solemn Remembrance Sunday service at Cenotaph",
-   "url": "https://www.myjoyonline.com/king-charles-leads-solemn-remembrance-sunday-service-at-cenotaph/",
-   "content": "King Charles III led the nation in a solemn two-minute silence on Remembrance Sunday in London to honour veterans who had died in conflict.",
-   "published_date": "Sun, 08 Nov 2026 22:54:46 +0000",
-   "score": 0.6
-  },
-  {
    "title": "White House vows to keep up immigration crackdown after midterms defeat",
    "url": "https://www.myjoyonline.com/white-house-vows-to-keep-up-immigration-crackdown-after-midterms-defeat/",
    "content": "US President Donald Trump's administration has vowed not to change course on its mass deportation plans after last week's midterm elections defeat.",
-   "published_date": "Sun, 08 Nov 2026 22:45:59 +0000",
+   "published_date": "Sun, 08 Nov 2026 23:04:00 +0000",
    "score": 0.6
   },
   {
    "title": "Nvidia launches investigation into CEO’s affair with suspected Chinese spy",
    "url": "https://www.myjoyonline.com/nvidia-launches-investigation-into-ceos-affair-with-suspected-chinese-spy/",
    "content": "US tech giant Nvidia has opened an independent investigation following reports that its CEO, Jensen Huang, had a relationship with a suspected Chinese spy.",
-   "published_date": "Sun, 08 Nov 2026 22:40:46 +0000",
+   "published_date": "Sun, 08 Nov 2026 22:56:00 +0000",
    "score": 0.6
   },
   {
    "title": "England await Guehi scan results after injury concern",
    "url": "https://www.myjoyonline.com/england-await-guehi-scan-results-after-injury-concern/",
    "content": "Manchester City defender Marc Guehi will undergo a scan for a hip complaint on Sunday to determine whether he can report for England duty this week.",
-   "published_date": "Sun, 08 Nov 2026 22:37:08 +0000",
+   "published_date": "Sun, 08 Nov 2026 22:47:00 +0000",
    "score": 0.6
   },
   {
    "title": "Leeds condemn racist abuse of Bogle after Tel incident",
    "url": "https://www.myjoyonline.com/leeds-condemn-racist-abuse-of-bogle-after-tel-incident/",
    "content": "Leeds United have condemned the \"disgusting\" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham.",
-   "published_date": "Sun, 08 Nov 2026 22:33:45 +0000",
+   "published_date": "Sun, 08 Nov 2026 22:37:00 +0000",
    "score": 0.6
   },
   {
@@ -177,38 +205,10 @@
    "score": 0.6
   },
   {
-   "title": "Sammy Binfoh Darkwa makes third bid for NPP ticket in Adansi Asokwa",
-   "url": "https://www.myjoyonline.com/sammy-binfoh-darkwa-makes-third-bid-for-npp-ticket-in-adansi-asokwa/",
-   "content": "Sammy Binfoh Darkwa is making a third attempt to secure the New Patriotic Party’s (NPP) parliamentary ticket for Adansi Asokwa as the party begins its process for selecting candidates ahead of the 2028 General Election. His latest bid comes as the NPP opens its process for prospective parliamentary candidates to declare their interest in contesting the party’s primaries. Mr Binfoh previously contested the Adansi Asokwa parliamentary primaries in 2020 and 2024, both times against the constituency’s then-incumbent Member of Parliament, Kobina Tahir Hammond. He lost the 2024 primary to Mr Hammond, who secured 311 votes against his 125.",
+   "title": "Sammy Binfoh Dakwa makes third bid for NPP ticket in Adansi Asokwa",
+   "url": "https://www.myjoyonline.com/sammy-binfoh-dakwa-makes-third-bid-for-npp-ticket-in-adansi-asokwa/",
+   "content": "Sammy Binfoh Dakwa is making a third attempt to secure the New Patriotic Party’s (NPP) parliamentary ticket for Adansi Asokwa as the party begins its process for selecting candidates ahead of the 2028 General Election. His latest bid comes as the NPP opens its process for prospective parliamentary candidates to declare their interest in contesting the party’s primaries. Mr Binfoh previously contested the Adansi Asokwa parliamentary primaries in 2020 and 2024, both times against the constituency’s then-incumbent Member of Parliament, Kobina Tahir Hammond. He lost the 2024 primary to Mr Hammon",
    "published_date": "Sun, 08 Nov 2026 20:39:49 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ghana loses landmark human rights case over menstruation taboo that denies girls education",
-   "url": "https://www.myjoyonline.com/ghana-loses-landmark-human-rights-case-over-menstruation-taboo-that-denies-girls-education/",
-   "content": "Ghana has been found guilty of violating the rights of schoolgirls who are forbidden from crossing the River Offin on Tuesdays and during menstruation, a cultural practice that forces some girls to miss up to 12 school days every month. In a landmark decision, the African Committee of Experts on the Rights and Welfare of […]",
-   "published_date": "Sun, 08 Nov 2026 20:22:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Bechem United snatch late winner to beat Samartex and maintain perfect home record",
-   "url": "https://www.myjoyonline.com/bechem-united-snatch-late-winner-to-beat-samartex-and-maintain-perfect-home-record/",
-   "content": "Bechem United secured a dramatic 2-1 victory over FC Samartex 1996 at the Nana Fosu Gyeabour Park on Sunday to maintain their perfect home record in the 2026/27 Ghana Premier League.",
-   "published_date": "Sun, 08 Nov 2026 19:53:21 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "KNUST student dies after diving from 17.6-foot platform into swimming pool",
-   "url": "https://www.myjoyonline.com/knust-student-dies-after-diving-from-17-6-foot-platform-into-swimming-pool/",
-   "content": "A student of the Kwame Nkrumah University of Science and Technology (KNUST) in Kumasi has died after diving from a 17.6-foot-high platform into a swimming pool on campus. The deceased, identified as David Osei Oppong, was said to have gone swimming with some friends when he attempted a dive from the highest platform at the […]",
-   "published_date": "Sun, 08 Nov 2026 19:10:40 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "MMFL selects five teams for Fintech Lab finals",
-   "url": "https://www.myjoyonline.com/mmfl-selects-five-teams-for-fintech-lab-finals/",
-   "content": "MobileMoney Fintech LTD (MMFL) has selected five teams from the Accra Zonal Hackathon Pitch Competition of the 2026 MoMo Fintech Lab to advance to the National Mentorship Programme.",
-   "published_date": "Sun, 08 Nov 2026 18:48:54 +0000",
    "score": 0.6
   }
  ],
