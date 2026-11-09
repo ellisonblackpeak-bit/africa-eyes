@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Europe needs Nvidia. It’ll take more than a spy scandal to change that.",
+   "url": "https://www.politico.eu/article/europe-needs-nvidia-spy-scandal-ai-microchips-germany-jensen-huang/",
+   "content": "Though the U.S. chipmaker's boss Jensen Huang may have been caught up in a Chinese espionage operation, Europe has no homegrown alternative to Nvidia.",
+   "published_date": "Mon, 09 Nov 2026 22:20:06 +0000",
+   "score": 0.6
+  },
+  {
    "title": "EU offers cash for Black Sea attack response",
    "url": "https://www.politico.eu/article/eu-offers-cash-for-black-sea-attack-response/",
    "content": "Washington is pursuing a diplomatic effort on safe passage, weighing proposals from Turkey and India.",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/french-far-left-presidential-hopeful-jean-luc-melenchon-sparks-backlash-ukraine/",
    "content": "The French politician said territorial concessions should be decided with votes, sparking backlash in Kyiv and Paris.",
    "published_date": "Mon, 09 Nov 2026 15:32:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Don’t do the Norway model, Norway tells Britain",
-   "url": "https://www.politico.eu/article/norway-model-uk-jonas-gahr-store-andy-burnham/",
-   "content": "In a POLITICO interview, Norwegian leader Jonas Gahr Støre advises Andy Burnham to look for other solutions in his Brexit reset.",
-   "published_date": "Mon, 09 Nov 2026 14:49:04 +0000",
    "score": 0.6
   }
  ],

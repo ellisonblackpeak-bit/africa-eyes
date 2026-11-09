@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Turkey: Steel plant explosion kills 17 in Izmir province",
+   "url": "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
+   "content": "A devastating explosion at the Habaş iron and steelworks in Aliağa, in western Turkey has killed 17 people. Witnesses described an earthquake-like blast, while footage shows flames, thick smoke and distressed relatives outside the factory.",
+   "published_date": "Mon, 09 Nov 2026 23:02:16 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Poland: Tusk and Nawrocki honour six victims of Kraków shooting",
+   "url": "https://www.euronews.com/video/2026/11/09/poland-tusk-and-nawrocki-honour-six-victims-of-krakow-shooting",
+   "content": "Poland's President and Prime Minister set aside their political differences to honour the six victims of a deadly shooting in Kraków. The two leaders laid candles and knelt together at a vigil in the historic city centre.",
+   "published_date": "Mon, 09 Nov 2026 22:34:14 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
+   "url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
+   "content": "The United Nations COP31 climate summit has opened in Antalya after a year marked by deadly heatwaves and devastating floods. Delegates face fresh challenges as the war in Iran disrupts global energy supplies.",
+   "published_date": "Mon, 09 Nov 2026 22:23:15 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Argentina: Pope Leo XIV urges Milei's government to protect the most vulnerable",
    "url": "https://www.euronews.com/2026/11/09/argentina-pope-leo-xiv-urges-mileis-government-to-protect-the-most-vulnerable",
    "content": "The Pontiff visited the Cottolengo Don Orione, which cares for over 400 people and has been hit by Javier Milei's cuts, and said a nation's progress should be judged by how it treats those most in need.",
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/2026/11/08/gbu-57-mop-what-to-know-about-the-us-bunker-buster-bomb",
    "content": "The GBU-57, also known as the Massive Ordnance Penetrator, is a 13.6-tonne US bomb designed to destroy deeply buried underground facilities.",
    "published_date": "Sun, 08 Nov 2026 17:27:24 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Watch: Spectacular double waterspout forms off Italy's Capri island",
-   "url": "https://www.euronews.com/2026/11/08/watch-spectacular-double-waterspout-forms-off-italys-capri-island",
-   "content": "A rare double waterspout formed over Capri's iconic Faraglioni rock formations on Saturday, as heavy clouds gathered above the Italian island.",
-   "published_date": "Sun, 08 Nov 2026 17:19:16 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "At least seven dead, more than 100 injured as two trains collide south of Cairo",
-   "url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo",
-   "content": "The accident occurred about 52 kilometres south of Cairo, when one train hit the rear of another and one derailed. Egyptian President Abdelfatah al-Sisi has ordered an investigation to determine the causes and responsibility.",
-   "published_date": "Sun, 08 Nov 2026 16:48:20 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Egypt reopens Tripoli embassy after 12 years and raises concerns over Turkey-Libya maritime deal",
-   "url": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
-   "content": "Egypt is seeking closer ties with Libya’s western government after years of backing its eastern rival. Talks in Tripoli covered energy projects and Egypt’s objections to Libya’s maritime deal with Turkey.",
-   "published_date": "Sun, 08 Nov 2026 13:50:28 +0100",
    "score": 0.6
   }
  ],
