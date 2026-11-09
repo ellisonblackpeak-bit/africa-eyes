@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Yadda ƴanbindiga suka kashe mutum 13 ƴangida ɗaya a Zamfara",
+   "url": "https://www.bbc.com/hausa/articles/c6q8n8qdd8pno?at_medium=RSS&at_campaign=rss",
+   "content": "Rundunar yansandan jihar Zamfara ta yi ƙarin haske kan kisan wasu mutum 13 ƴan gida ɗaya da ƴanbindiga suka yi a jihar a ƙarshen mako.",
+   "published_date": "Mon, 09 Nov 2026 11:52:44 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ba don ni ba da yanzu an shafe Isra'ila - Trump",
+   "url": "https://www.bbc.co.uk/hausa/live/cqvg0g7em2z2t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin, 09/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Manyan ƴan fashin daji 5 da suka fi addabar arewacin Najeriya",
    "url": "https://www.bbc.com/hausa/articles/c5gm0023yjmno?at_medium=RSS&at_campaign=rss",
    "content": "Hare-hare kan ƙauyuka, satar mutane domin neman kuɗin fansa, kashe-kashe da tilasta wa al'ummomi barin gidajensu sun zama ruwan dare a wasu yankunan ƙasar da dama.",
    "published_date": "Mon, 09 Nov 2026 04:12:59 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Sabuwar rundunar killace Iran ta ƙasa ta fara aiki - Trump",
-   "url": "https://www.bbc.co.uk/hausa/live/cqvg0g7em2z2t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin, 09/11/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -48,13 +55,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/cqz0vknnvr45t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku muhimman abubuwan da ke faruwa a Najeriya da sauran sassan duniya na ranar Lahadi 8 ga watan Nuwamban 2026.",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Ƴan Najeriya 5 da suka samu kujeru a majalisar dokokin Amurka",
-   "url": "https://www.bbc.com/hausa/articles/cq5ynn8753n5o?at_medium=RSS&at_campaign=rss",
-   "content": "Sakamakon zaɓen ya nuna cewa jam'iyyar Democrat ta samu kujeru fiye da jam'iyyar Republican, wadda Shugaba Donald Trump yake wakilta. A yayin zaɓen, an samu wasu abubuwa da ba a yi tsammani ba, ciki har da nasarar 'yan Najeriya da sauran Baƙaƙen fata da suka samu kujeru a majalisun dokokin Amurka.",
-   "published_date": "Sun, 08 Nov 2026 03:56:52 GMT",
    "score": 0.6
   },
   {
@@ -111,6 +111,13 @@
    "url": "https://www.bbc.com/hausa/articles/cm1ex55ydx3qo?at_medium=RSS&at_campaign=rss",
    "content": "Ronaldo mai shekara 41 a duniya ya ci wa ƙasarsa ƙwallo 146 kuma ya buga wa ƙasar wasa sau 234 - tun bayan fara buga wa ƙasar wasa a shekarar 2003.",
    "published_date": "Thu, 05 Nov 2026 11:27:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ƴan Najeriya 5 da suka samu kujeru a majalisar dokokin Amurka",
+   "url": "https://www.bbc.com/hausa/articles/cq5ynn8753n5o?at_medium=RSS&at_campaign=rss",
+   "content": "Sakamakon zaɓen ya nuna cewa jam'iyyar Democrat ta samu kujeru fiye da jam'iyyar Republican, wadda Shugaba Donald Trump yake wakilta. A yayin zaɓen, an samu wasu abubuwa da ba a yi tsammani ba, ciki har da nasarar 'yan Najeriya da sauran Baƙaƙen fata da suka samu kujeru a majalisun dokokin Amurka.",
+   "published_date": "Sun, 08 Nov 2026 03:56:52 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cq203v1lpv0ko?at_medium=RSS&at_campaign=rss",
    "content": "Duk da shahararta da kuma yadda miliyoyin mahajjata da masu Umara ke zagaye ta a kowace shekara, mutane ƙalilan ne suka samu alfarmar gane wa idanunsu abin da ke cikin wannan ɗaki mai tsarki.",
    "published_date": "Fri, 06 Nov 2026 03:57:42 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Zaɓi biyu da suka rage wa Atiku bayan soke takararsa",
-   "url": "https://www.bbc.com/hausa/articles/c6pqg0g59z2wo?at_medium=RSS&at_campaign=rss",
-   "content": "Matakin na zuwa ne a daidai lokacin da jam'iyyar ADC da ɗan takararta suke kaddamar da yaƙin neman zaɓe a jihar Sokoto.",
-   "published_date": "Fri, 06 Nov 2026 03:56:30 GMT",
    "score": 0.6
   }
  ],

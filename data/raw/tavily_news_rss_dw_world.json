@@ -2,9 +2,16 @@
  "success": true,
  "results": [
   {
+   "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+   "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-world-4025-rdf",
+   "content": "The alleged gunman who killed six people in a shooting spree in the Polish city of Krakow has died of injuries sustained in a shootout with police, authorities say.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "South Africa elections: ANC marks its worst-ever performance",
    "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf",
-   "content": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
+   "content": "The African National Congress, the party of late liberation icon Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. Voters blame the ANC for water and electricity shortages.",
    "published_date": "",
    "score": 0.6
   },
@@ -51,6 +58,13 @@
    "score": 0.6
   },
   {
+   "title": "New Zealand election too close to call with over 95% of votes counted",
+   "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-world-4025-rdf",
+   "content": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
    "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
    "content": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
@@ -61,20 +75,6 @@
    "title": "Amid protests, France's rising debt costs threaten stability",
    "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
    "content": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "US: Giant pandas from China make public debut at Atlanta zoo",
-   "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-world-4025-rdf",
-   "content": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "US asks China to uphold Busan trade deal commitments",
-   "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-world-4025-rdf",
-   "content": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
    "published_date": "",
    "score": 0.6
   }

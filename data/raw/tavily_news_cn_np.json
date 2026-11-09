@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Economic Digest: A Snapshot of Nepal’s Business News - Khabarhub",
+   "url": "https://english.khabarhub.com/2026/09/574955/",
+   "snippet": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Foreign grant receipts rose to Rs 7.985 billion in the first quarter of fiscal year 2026/27, reaching 12.93 percent of the annual target and significantly outperforming the corresponding period last year. Similarly, Prabhu Mahalaxmi Life Insura",
+   "published": "Mon, 09 Nov 2026 02:17:26 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "IEA sees renewable power approaching 45% of global electricity generation by 2031 - Oil & Gas 360",
+   "url": "https://www.oilandgas360.com/iea-sees-renewable-power-approaching-45-of-global-electricity-generation-by-2031/",
+   "snippet": "# IEA sees renewable power approaching 45% of global electricity generation by 2031. * EA, electricity capacity 2031, global electricity, renewable power. (Oil & Gas 360) – Global renewable electricity capacity is projected to increase by nearly 4,800 gigawatts between 2026 and 2031, according to the International Energy Agency, as concerns about energy security and volatile fossil fuel prices acc",
+   "published": "Fri, 06 Nov 2026 21:00:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s central bank extends gold-buying streak to 24th month - Mining.com.au",
+   "url": "https://mining.com.au/chinas-central-bank-extends-gold-buying-streak-to-24th-month/",
+   "snippet": "China’s central bank extends gold-buying streak to 24th month•Governments bet big on critical minerals supply•Gold’s price tells one story, ETF flows tell another•Lithium’s tale of two markets: What’s driving volatility•Topaz as November’s gift from the Sun God: A Taste of Birthstones•Côte d’Ivoire: The sleeping giant of West African mining•Nornickel linked to Rostelecom underground data centre pl",
+   "published": "Sun, 08 Nov 2026 18:22:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BHP and Rio shares face test as copper prices stumble - Mining.com.au",
+   "url": "https://mining.com.au/bhp-rio-tinto-shares-copper-price-outlook/",
+   "snippet": "Congo says China’s Huayou unit must pay compensation despite halt•BHP and Rio shares face test as copper prices stumble•Brazil names 27 critical minerals amid domestic processing push•Purecore sharpens uranium-copper hunt with geophysicist•Column: Tin price hit by AI stock rout despite physical market tightness•Congo says US minerals deals should be judged by projects•MP Materials rare earth opera",
+   "published": "Fri, 06 Nov 2026 21:29:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Doosan to Expand CCL Production in China with 550 Billion Won Investment - THE ELEC, Korea Electronics Industry Media",
+   "url": "https://www.thelec.net/news/articleView.html?idxno=15382",
+   "snippet": "* UPDATE : 2026-11-08 23:29 (Sun). Doosan to Expand CCL Production in China with 550 Billion Won Investment. * Published 2026.11.08 23:28. Doosan is expanding its copper-clad laminate (CCL) production capacity in China to meet growing demand for printed circuit boards (PCBs). The company signed a memorandum of understanding (MOU) with Changshu City to expand CCL production lines, with an investmen",
+   "published": "Sun, 08 Nov 2026 14:28:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "AI vs experience: Is technology changing mineral exploration forever? - Mining.com.au",
+   "url": "https://mining.com.au/ai-vs-experience-is-technology-changing-mineral-exploration-forever/",
+   "snippet": "China’s central bank extends gold-buying streak to 24th month•Governments bet big on critical minerals supply•Gold’s price tells one story, ETF flows tell another•Lithium’s tale of two markets: What’s driving volatility•Topaz as November’s gift from the Sun God: A Taste of Birthstones•Côte d’Ivoire: The sleeping giant of West African mining•Nornickel linked to Rostelecom underground data centre pl",
+   "published": "Sun, 08 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese-owned mine accused of abusing Malawian workers - Malawi24",
+   "url": "https://malawi24.com/2026/11/07/chinese-owned-mine-accused-of-abusing-malawian-workers/",
+   "snippet": "* Featured   Maternal and Newborn Health Project Manager. A Chinese-owned mining company in Karonga is facing serious allegations of exploiting Malawian workers, exposing employees to dangerous working conditions and mistreating children in surrounding communities. The complaints emerged on Friday when Karonga Police Station Officer-in-Charge, Deputy Commissioner of Police (DCP) Morgan Dzonzi, mad",
+   "published": "Sat, 07 Nov 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Gabon turns to UAE-backed investors and Chinese engineering giant to revive $2 billion rare earth project and develop one of the world's largest niobium deposits - Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/gabon-turns-to-uae-backed-investors-and-chinese-engineering-giant-to-revive-dollar2/p1rkg72",
+   "snippet": "* Gabon is pushing to revive its long-delayed Mabounié niobium and rare-earth project with a $2 billion investment from Emirati-backed New Energy Metals and China's ENFI. * The new development aims to create over 2,500 direct jobs and includes plans for mineral processing facilities inside Gabon, boosting local economic value. * The Mabounié initiative is a cornerstone of Gabon's broader push to a",
+   "published": "Mon, 09 Nov 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Digital tools help hydropower plants respect nature while generating energy - Cyprus Mail",
+   "url": "https://cyprus-mail.com/2026/11/09/digital-tools-help-hydropower-plants-respect-nature-while-generating-energy",
+   "snippet": "**Hydropower can back up wind and solar, but changing weather, water levels and environmental needs make its operation increasingly complex. Researchers are turning to AI, digital twins and sensors to help operators make smarter decisions.**. When the wind drops or clouds block the sun, Europe’s electricity system needs other sources of energy that can respond to changing demand. Hydropower plants",
+   "published": "Mon, 09 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Congo says China’s Huayou unit must pay compensation despite halt - Mining.com.au",
+   "url": "https://mining.com.au/congo-says-chinas-huayou-unit-must-pay-compensation-despite-halt/",
+   "snippet": "Chinese-owned miner CDM must still pay US$6 million ($8.54 million) to Congolese communities hit by last year’s industrial wastewater spill even though it has suspended operations, the Democratic Republic of Congo’s mines ministry said on Friday. Congo Dongfang International Mining (CDM) is a unit of China’s Zhejiang Huayou Cobalt (SSE:603799), one of the world’s largest battery materials producer",
+   "published": "Fri, 06 Nov 2026 21:37:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "East Coast Cluster enablers pledge £2.5m social investment plan - Energy Voice",
+   "url": "https://www.energyvoice.com/renewables-energy-transition/ccs/606591/2-5m-social-investment-plan/",
+   "snippet": "CloseImage 1: The first word in energy - App Image. ###### Be the first to know with in-app alerts and exclusive reporting. NZT Power and the Northern Endurance Partnership (NEP) have unveiled a social investment plan for the Tees Valley in a bid to deliver “lasting benefits”. The two key enablers of the East Coast Cluster (ECC) will distribute £ 2.5 million in cash across four main areas, includi",
+   "published": "Fri, 06 Nov 2026 14:00:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Congo says US minerals deal should be judged by projects, not signed deals - Mining.com",
+   "url": "https://www.mining.com/web/congo-says-us-minerals-deal-should-be-judged-by-projects-not-signed-deals/",
+   "snippet": "Democratic Republic of Congo called on the United States on Friday to deliver concrete investments under their strategic minerals partnership, saying the success of the agreement should be measured by completed projects rather than signed deals, Economy Minister Daniel Mukoko Samba said. Washington and Kinshasa signed the strategic minerals partnership in 2025, aiming to expand US access to Congo’",
+   "published": "Fri, 06 Nov 2026 16:09:44 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_np",
  "_query": "Chinese company Nepal investment hydropower",
  "_domains": [],

@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Phát động Giải thưởng Tinh hoa pháp lý Việt Nam năm 2027",
+   "url": "https://tuoitre.vn/phat-dong-giai-thuong-tinh-hoa-phap-ly-viet-nam-nam-2027-100261109154549852.htm",
+   "content": "Chiều 9-11, Trường Đại học Luật TP.HCM (ULaw) phối hợp với Báo Sài Gòn Giải Phóng tổ chức Lễ công bố và phát động Giải thưởng Tinh hoa pháp lý Việt Nam - Vietnam Legal Elite Award lần thứ hai, năm 2027.",
+   "published_date": "11/9/2026 4:02:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

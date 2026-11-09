@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "👨🏿‍🚀TechCabal Daily – A Chinese plot twist - TechCabal",
-   "url": "https://techcabal.com/2026/11/05/techcabal-daily-a-chinese-plot-twist",
-   "snippet": "Explain like I’m new here. OPay, founded by Chinese businessman Zhou Yahui, operates one of Nigeria’s largest digital payments platforms, serving more than 50 million customers who use it to transfer money, pay bills, and access financial services. The company also operates in other emerging markets, but has no business operations or revenue in China. Yet, its founder’s Chinese connection has now ",
-   "published": "Thu, 05 Nov 2026 06:14:09 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Chinese regulatory scrutiny forces Nigeria payments firm OPay to pause listing plans - Businessday NG",
    "url": "https://businessday.ng/news/article/chinese-regulatory-scrutiny-forces-nigeria-payments-firm-opay-to-pause-listing-plans",
    "snippet": "Share\n\nInquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd to halt its $300m US initial public offering just hours after setting the price, according to people familiar with the matter.\n\nOPay has no operations in China and does not generate revenue in the country, the people said, asking not to be identified because the information is private. Its only connection is",
@@ -27,6 +20,13 @@
    "url": "https://www.reuters.com/business/energy/nnpc-ipo-will-likely-start-with-5-10-listing-ceo-says-2026-11-03",
    "snippet": "## CHINESE INTEREST IN SMALLER REFINERIES\n\nOjulari also said that Chinese companies had shown interest in buying stakes — rather than just ​contracting work — in some ​of Nigeria's smaller ⁠oil refineries that need big repairs, such as Port Harcourt and Warri.\n\nHe has previously said NNPC was in talks ​with a Chinese engineering company to refurbish at least ​one of ⁠its refineries, which have not",
    "published": "Tue, 03 Nov 2026 14:09:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The 2023 Chinese rule that may have stalled OPay's US listing",
+   "url": "https://techcabal.com/2026/11/05/opay-china-overseas-listing-rules-us-ipo",
+   "snippet": "OPay’s connection to China is largely through Zhou Yahui, its Chinese founder. The fintech is incorporated in the Cayman Islands and headquartered in Singapore, while Nigeria accounts for most of its business. According to its prospectus, Nigeria generated 88.1% of its revenue in 2025 and 89.5% in the first half of 2026. [...] On Wednesday, Bloomberg reported that a Chinese regulator’s inquiry pro",
+   "published": "Thu, 05 Nov 2026 17:22:52 GMT",
    "source": "tavily"
   },
   {
@@ -68,7 +68,7 @@
    "title": "The lithium rush: Nigeria’s bid to avoid the resource curse",
    "url": "https://www.thenewhumanitarian.org/feature/2026/11/02/lithium-rush-nigerias-bid-avoid-resource-curse",
    "snippet": "Editor's note: The first in a series of articles exploring the humanitarian and environmental challenges of Nigeria's lithium boom. KADUNA, Nigeria.",
-   "published": "Tue, 03 Nov 2026 09:00:00 GMT",
+   "published": "Tue, 03 Nov 2026 11:00:00 GMT",
    "source": "tavily"
   }
  ],

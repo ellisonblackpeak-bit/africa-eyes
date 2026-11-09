@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Typhoon Samuel now inside PAR, but no impact expected",
-   "url": "https://www.rappler.com/philippines/weather/typhoon-samuel-northeast-monsoon-update-pagasa-forecast-november-9-2026-11am/",
-   "content": "Typhoon Samuel (Cempaka) will only stay briefly inside the Philippine Area of Responsibility",
-   "published_date": "Mon, 09 Nov 2026 12:50:54 +0800",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

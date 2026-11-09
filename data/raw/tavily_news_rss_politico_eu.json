@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "EU sends 2 senior officials to Ukraine talks in Abu Dhabi",
+   "url": "https://www.politico.eu/article/ukraine-europe-abu-dhabi-talks-officials-russia/",
+   "content": "Officials from the European Commission and Council will go to the talks between Ukraine, Russia and the U.S.",
+   "published_date": "Mon, 09 Nov 2026 11:38:06 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "French Olympic legend Teddy Riner announces presidential bid",
+   "url": "https://www.politico.eu/article/french-olympian-teddy-riner-announces-presidential-bid/",
+   "content": "The gold medal-winning judoka wants to \"show that we can turn France around.\"",
+   "published_date": "Mon, 09 Nov 2026 11:09:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ground war",
+   "url": "https://www.politico.eu/sponsored-content/ground-war/",
+   "content": "",
+   "published_date": "Mon, 09 Nov 2026 10:47:44 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Kraków shooter dies in hospital",
    "url": "https://www.politico.eu/article/krakow-shooter-dies-in-hospital/",
    "content": "Authorities are still investigating the 24-year-old's motive for the mass shooting that killed at least 6 people.",
@@ -48,27 +69,6 @@
    "url": "https://www.politico.eu/article/uk-green-party-zack-polanski-internal-democracy-crisis/",
    "content": "A controversial conference motion is costing the leftist party local power — but a resolution to the row looks far from easy.",
    "published_date": "Mon, 09 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "The Kremlin call: How talking to Putin exposed Europe’s deepest rift over Ukraine",
-   "url": "https://www.politico.eu/article/vladimir-putin-europe-rift-russia-ukraine-war/",
-   "content": "The leaders of Finland and Norway were slammed for reaching out to Russia — but Europe still can’t find a better way to influence Donald Trump’s peace talks.",
-   "published_date": "Mon, 09 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Putin may not want peace, warns Norwegian leader who spoke to him",
-   "url": "https://www.politico.eu/article/vladimir-putin-peace-norway-jonas-gahr-store-russia-ukraine-war/",
-   "content": "In an exclusive POLITICO interview, Norway’s Jonas Gahr Støre warns he does not expect Abu Dhabi talks to deliver a major breakthrough.",
-   "published_date": "Mon, 09 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Wirecard fugitive claimed he toppled Sebastian Kurz in messages to Russian spy",
-   "url": "https://www.politico.eu/article/wirecard-fugitive-jan-marsalek-claimed-he-toppled-sebastian-kurz-in-messages-to-russian-spy/",
-   "content": "Jan Marsalek said he was involved in an operation that had \"successfully toppled\" Sebastian Kurz in 2021, in messages to a convicted Russian spy.",
-   "published_date": "Sun, 08 Nov 2026 16:57:23 +0000",
    "score": 0.6
   }
  ],

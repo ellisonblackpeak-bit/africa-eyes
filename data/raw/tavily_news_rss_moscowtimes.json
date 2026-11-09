@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Ukrainian Drone Attack Kills Woman, Sparks Fire at Leningrad Region Refinery",
+   "url": "https://www.themoscowtimes.com/2026/11/09/ukrainian-drone-attack-kills-woman-sparks-fire-at-leningrad-region-refinery-a94204",
+   "content": "Officials said unmanned aircraft targeted an industrial area that is home to the Kirishinefteorgsintez oil refinery, Russia’s second-largest.",
+   "published_date": "Mon, 09 Nov 2026 12:39:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Russia Says Hit Power Substations in Ukraine and 3 Ships in Black Sea",
    "url": "https://www.themoscowtimes.com/2026/11/08/russia-says-hit-power-substations-in-ukraine-and-3-ships-in-black-sea-a94203",
    "content": "",
@@ -9,8 +16,8 @@
    "score": 0.6
   },
   {
-   "title": "Official Data Shows 450,000 Russians Killed in War, Death Rate Accelerating – Rosstat Leaks",
-   "url": "https://www.themoscowtimes.com/2026/11/08/official-data-shows-450000-russians-killed-in-war-death-rate-accelerating-leaks-a94200",
+   "title": "Official Data Shows 450K Russians Killed in War, Death Rate Accelerating – Rosstat Leaks",
+   "url": "https://www.themoscowtimes.com/2026/11/08/official-data-shows-450k-russians-killed-in-war-death-rate-accelerating-rosstat-leaks-a94200",
    "content": "The war in Ukraine has become the fourth most common cause of death in Russia since 2022, according to official statistics released by hackers.",
    "published_date": "Sun, 08 Nov 2026 02:32:00 +0300",
    "score": 0.6
@@ -202,13 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/03/russia-china-and-us-summit-under-discussion-kremlin-says-a94163",
    "content": "Moscow is hoping that plans for a meeting between Putin, Trump and Xi in China will be finalized in the coming days.",
    "published_date": "Tue, 03 Nov 2026 14:50:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "At Least 31 Killed in Russian Bomb Attack in Zaporizhzhia",
-   "url": "https://www.themoscowtimes.com/2026/11/03/at-least-31-killed-in-russian-bomb-attack-in-zaporizhzhia-a94161",
-   "content": "Ukrainian officials said Russia bombed a school being used as an aid distribution point in a village in the village of Komyshuvakha.",
-   "published_date": "Tue, 03 Nov 2026 12:06:00 +0300",
    "score": 0.6
   }
  ],

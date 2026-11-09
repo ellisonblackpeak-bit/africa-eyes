@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Mali News | Mali Latest News - NewsNow",
-   "url": "https://www.newsnow.com/ng/World/Africa/Mali",
-   "snippet": "Since military coups in 2020 and 2021 brought General Assimi Goïta to power, Mali has experienced profound political shifts. All political parties were dissolved in 2025, and elections have been indefinitely postponed. The country left ECOWAS and formed the Confederation of Sahel States with Burkina Faso and Niger. A severe insurgency by JNIM, an Al-Qaeda-affiliated group, has intensified since 20",
-   "published": "Mon, 09 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Updates | African Security Analysis",
-   "url": "https://www.africansecurityanalysis.org/updates",
-   "snippet": "As of early September 2025, Mali faces an intensifying insurgency led by JNIM, an al-Qaeda affiliate. Recent events in central and western Mali highlight a coordinated strategy by JNIM to weaken the Malian state on multiple fronts. This analysis focuses on three key developments: the seizure and continued occupation of Farabougou, the assassination of a local mayor amidst internal rivalries, and t",
-   "published": "Wed, 04 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Mali: JNIM claims IED attack on Malian Army and Africa Corps vehicle in Mopti region - Counter-IED Report",
-   "url": "https://counteriedreport.com/mali-jnim-claims-ied-attack-on-malian-army-and-africa-corps-vehicle-in-mopti-region",
-   "snippet": "April 27, 2026\n\n  Mali ‘s defense minister was killed in a sweeping attack by jihadis and rebels who seized several towns and military bases, authorities said Sunday. The Malian government confirmed the death of the defense chief, Gen. Sadio Camara, in a post on the defense ministry’s Facebook page, and expressed its condolences to his family. State-run television also ...\n Mali: Insurgents hit mi",
-   "published": "Tue, 03 Nov 2026 07:30:36 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Mali: Still no accountability after abduction of Mountaga Tall",
-   "url": "https://www.amnesty.org/en/latest/news/2026/11/mali-mountaga-son",
-   "snippet": "On the night of 3 May 2026, just days after a series of attacks by armed groups across Mali, Mountaga Tall, leader of the National Congress for the Democratic Initiative (Congrès national pour l’initiative démocratique), was abducted from his home in the capital, Bamako, by armed and hooded men driving vehicles without registration plates. [...] After several months without information about their",
-   "published": "Tue, 03 Nov 2026 01:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Mali Just Dropped A Bombshell: Assimi Goïta Latest ...",
-   "url": "https://www.youtube.com/watch?v=gdTydmnhfTg",
-   "snippet": "General Assimi Goïta has issued one of the strongest diplomatic warnings in recent West African history, and the implications are sparking intense debate",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "🇲🇱 Mali's Gendarmerie and Police forces receive new ...",
-   "url": "https://www.facebook.com/61552420807255/posts/-malis-gendarmerie-and-police-forces-receive-new-vehicles-to-strengthen-their-op/122282687390080693",
-   "snippet": "Mali has strengthened its security forces with 20 new vehicles funded through the national budget. The vehicles will be allocated to the Police, Civil",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "mali-attack-menaka-deaths-sahel-tuareg-issp",
-   "url": "https://www.audacy.com/1010wins/topic/mali-attack-menaka-deaths-sahel-tuareg-issp",
-   "snippet": "MALI-ATTACK-MENAKA-DEATHS-SAHEL-TUAREG-ISSP · Attack by Islamic State-affiliated group in Mali kills 48 people, official says · Recent Stories · Recent · Customize",
-   "published": "Tue, 03 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "MALI AND NIGER STRENGTHEN TIES IN FIGHT AGAINST ...",
-   "url": "https://www.facebook.com/GlobalSouthWorld/posts/mali-and-niger-strengthen-ties-in-fight-against-terrorismmalis-assimi-go%C3%AFta-and-/122316735200028907",
-   "snippet": "This news report details a security alliance between the military leaders of Mali, Burkina Faso, and Niger, established in Bamako, Mali.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Ukraine rejects Mali, Niger allegations of supporting armed groups, interfering in Sahel’s internal affairs",
-   "url": "https://www.aa.com.tr/en/world/ukraine-rejects-mali-niger-allegations-of-supporting-armed-groups-interfering-in-sahel-s-internal-affairs/4108999",
-   "snippet": "subscription\n\ncontact\\_the\\_ombudsman\n\nis\\_there\\_an\\_error\\_in\\_this\\_story\n\nombudsman\\_apply\\_button\n\n## LATEST NEWS\n\n### El-Sayed raises $1.2M after Democratic rival backs Republican in US Senate race: Report\n\n### Zelenskyy says 18 killed, 5 injured in Russian airstrikes on Ukraine’s Zaporizhzhia region\n\n### Poland deploys counterterrorism police near Russian border over sabotage threats\n\n### B",
-   "published": "Mon, 02 Nov 2026 19:03:17 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ml_extra",
  "_query": "Mali latest news",
  "_domains": [],
