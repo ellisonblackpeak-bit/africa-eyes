@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Pakistan’s balancing act in a fragmenting world | Al Majalla",
-   "url": "https://en.majalla.com/node/334036/politics/pakistan%E2%80%99s-balancing-act-fragmenting-world",
-   "snippet": "Moscow adds another layer, with expanded contacts in energy, trade, security and diplomacy, despite the constraints of sanctions. Pakistan's relationship with Russia is secondary to its partnership with China, but working ties offer additional options. The objective is practical cooperation, not bloc alignment. [...] Pakistan's location offers potential as a connector between South Asia, Central A",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Heidelberg mayor urges pragmatic China-Germany cooperation amid EV trade tensions - Global Times",
-   "url": "https://www.globaltimes.cn/page/202611/1373884.shtml",
-   "snippet": "For Würzner, China's growing competitiveness does not eliminate Germany's legitimate concerns about economic resilience. He pointed to Germany's previous dependence on Russian natural gas and supply-chain disruptions during the COVID-19 pandemic as examples of the vulnerabilities created by excessive dependence on a single partner. [...] Cao Siqi\n\nin Heidelberg, Germany Published: Nov 08, 2026 08:",
-   "published": "Sun, 08 Nov 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Gas-rich Iran turns to Russia for an energy lifeline | Iran International",
-   "url": "https://www.iranintl.com/en/202611067757",
-   "snippet": "Restoring damaged gas-processing equipment could help recover domestic supplies. It would not, however, create a competitive LNG export industry, which requires specialised liquefaction technology, financing, shipping arrangements and long-term customers.\n\nMoscow and Beijing to the rescue?\n\nChina and Russia offer potential alternatives to Western suppliers, but neither can be assumed to finance or",
-   "published": "Fri, 06 Nov 2026 15:50:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "U.S. faces a double challenge in Africa as China dominates and Russia expands its influence by more than a quarter | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/us-faces-a-double-challenge-in-africa-as-china-dominates-and-russia-expands-its/r9vwq93",
-   "snippet": "In addition, Business Insider Africa reported that Russian state nuclear corporation Rosatom is financing 85% of the $29 billion El Dabaa nuclear power plant in Egypt, while pursuing further nuclear energy contracts across West and East Africa.\n\n## The U.S. and France face shifting global alliances from Egypt to the Sahel region\n\nThe dual rise of Chinese trade dominance and Russian security integr",
-   "published": "Tue, 03 Nov 2026 13:35:56 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Fallacy of Energy Deals With Russia | Carnegie Endowment for International Peace",
-   "url": "https://carnegieendowment.org/russia-eurasia/politika/2026/11/russia-energy-deals",
-   "snippet": "Energy insiders understand they operate in an industry that depends on stable long-term investment conditions, as major projects take a long time to execute and generate meaningful return on capital. This is not like real estate, where one can flip a property before generating real economic value. Project timelines are measured in decades and do not fit well with political calendars. Investor conf",
-   "published": "Mon, 02 Nov 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Russia Africa Summit; Sudan’s Drone War Intensifies: Africa File, November 5, 2026 | Critical Threats",
-   "url": "https://www.criticalthreats.org/analysis/russia-rsf-saf-sudan-tplf-eritrea-ethiopia",
-   "snippet": "are also heavily concentrated in North Africa, where 70 percent of Russian trade takes place and where the majority of Russian FDI is tied to the el Dabaa nuclear power plant in Egypt.(#_edn9489c5381568314b8393429cc50375f431) European Union (EU), Chinese, and US FDI in Africa is substantially higher than Russian investment, and Russian trade figures represent roughly a tenth of Chinese and Europea",
-   "published": "Thu, 05 Nov 2026 22:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "MFAEthiopia BlogThe Official Blog of the Ministry of Foreign Affairs of EthiopiaA Week in the Horn",
-   "url": "https://mfaethiopia.blog/2026/11/06/a-week-in-the-horn-128",
-   "snippet": "On energy cooperation, he highlighted Ethiopia’s engagement with Russia towards the development of the country’s first nuclear power plant, emphasizing the importance of diversifying the national energy mix, strengthening local technical expertise, and adhering to the safety standards of the International Atomic Energy Agency (IAEA). He also pointed to the broader applications of nuclear science i",
-   "published": "Fri, 06 Nov 2026 13:58:21 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Analysis: Russia’s Turkic States Ambitions Threaten Bloc’s Future",
-   "url": "https://www.kyivpost.com/analysis/89416",
-   "snippet": "China maintains deep economic ties with Central Asia and closely monitors Turkic cooperation, particularly given its repression of the Uyghurs, a predominantly Turkic Muslim population in Xinjiang.\n\nRussian participation could indirectly benefit Beijing by providing another channel to monitor the bloc’s activities. [...] It remains to be seen whether Ankara will back the AKP official’s objections ",
-   "published": "Sat, 07 Nov 2026 08:02:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t | Politics News | Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt",
-   "snippet": "China's President Xi Jinping and US President Donald Trump visit the Temple of Heaven in Beijing, China [File: Brendan Smialowski/Pool/Getty]\n\n\n\nBy Nils Adler\n\nPublished On 6 Nov 20266 Nov 2026\n\nOn the sidelines of this month’s Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, China, an unprecedented three-way meeting between United States President Donald Trump, Chinese President Xi Ji",
-   "published": "Fri, 06 Nov 2026 13:49:07 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],

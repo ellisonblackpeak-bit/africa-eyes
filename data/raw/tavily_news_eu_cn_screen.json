@@ -1,56 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Opening New Space for China-EU Cooperation in a Changing Landscape-紫荊網",
-   "url": "https://bau.com.hk/web/article/1568268254766628864/web/content_1568268254766628864.html",
-   "snippet": "fair competition and investment screening increasingly becoming important considerations in corporate decision-making. The EU's approach of \"de-risking\" rather than full-scale \"decoupling\" reflects its effort to reduce reliance in key sectors while maintaining economic and trade ties. For Europe, while \"de-risking\" is a pragmatic consideration based on political and economic security, an overinter",
-   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Andy Burnham’s EU ambitions could force him to confront China",
-   "url": "https://www.thetimes.com/business/economics/article/andy-burnhams-eu-ambitions-could-force-him-to-confront-china-x8d827fnt",
-   "snippet": "The Commons reports that the UK risks having its China position dictated to it by the US or Beijing. It ignores that Brussels has become the new vanguard of global trade protectionism — over and above a distracted Trump. Jonathan Reynolds, the business secretary, has baulked at Brussels’ demands to hit Chinese cars with tariffs and impose stricter investment screening on Beijing. He says all trade",
-   "published": "Mon, 02 Nov 2026 20:49:57 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe’s China Auto Deal | Council on Foreign Relations",
-   "url": "https://www.cfr.org/articles/europes-china-auto-deal",
-   "snippet": "The EU has shied away from developing its own 301 tool out of concern about preserving a “rules-based system.” I still think a European 301 would allow a more fulsome response, but understand that European isn’t as willing as the United States to use tools that at least appear to be outside those authorized by the WTO. In reality the EU no longer really wants to trade with China on the same (MFN) ",
-   "published": "Mon, 02 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe to invest €525 million in chip startups to catch up with US and China | Reuters",
-   "url": "https://www.reuters.com/world/china/europe-invest-525-million-chip-startups-catch-up-with-us-china-2026-11-04",
-   "snippet": "BRUSSELS, Nov 4 (Reuters) - The European Union will invest €525 million ($590 million) in chip startups ​to help them scale up faster, EU ‌tech chief Henna Virkkunen said on Wednesday, part of a push to help Europe catch up with the ​United States and China.\n\nThe European Commission and ​EU countries will provide €440 million in grants to ⁠startups to help them meet the cost ​of developing chips f",
-   "published": "Wed, 04 Nov 2026 17:43:40 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "BSA | A more dangerous world | National Centre for Social Research",
-   "url": "https://natcen.ac.uk/publications/bsa-more-dangerous-world",
-   "snippet": "dialogue (Garton Ash et al. 2026). Discussions increasingly focused on achieving a balance between economic and trade engagement and addressing national security concerns, particularly in relation to critical infrastructure, advanced technologies, supply chains and investment screening. Meanwhile, China's continued support for Russia’s invasion of Ukraine, its distortive and coercive trade practic",
-   "published": "Thu, 05 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Syria’s Ahmed al-Sharaa signs reconstruction, military deals with Saudi Arabia | The Jerusalem Post",
-   "url": "https://www.jpost.com/international/article-914008",
-   "snippet": "Taken together, these developments illustrate a Syrian government attempting to reposition itself within the Middle East. Saudi Arabia is providing a route on the way to reconstruction, financing, and renewed Arab economic integration. Europe offers potential institutional cooperation, investment, and diplomatic engagement. China represents another possible source of infrastructure investment, whi",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU",
-   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
-   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_cn_screen",
  "_query": "EU foreign investment screening China",
  "_domains": [],

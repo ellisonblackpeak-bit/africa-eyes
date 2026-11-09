@@ -1,49 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Niger has received its first shipment of petroleum products ...",
-   "url": "https://www.facebook.com/groups/ProfessorLumumba/posts/4333610616771368",
-   "snippet": "However, the petroleum industry in Niger was born only recently, in 2011, with the opening of the Agadem oilfield and the Soraz refinery near Zinder. The Agadem",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Benin Neighbours in West Africa Explained 2026",
-   "url": "https://www.riotimesonline.com/benin-in-west-africa-explained-2026",
-   "snippet": "The crude pipeline runs from the Agadem field in Niger to the Sèmè-Kpodji terminal in Benin. It is described as 1,980 km long and is operated by China National Petroleum Corp. (CNPC), with exports starting in 2024. [...] 2.19%   EUR/BRL6.04▲ 0.49%   BRENT 109.58 ▼ 5.38%   WTI 100.12 ▼ 1.61%   IRON ORE 161.91 — —   COPPER 6.65 ▲ 2.24%   GOLD 4,073 ▲ 0.85%   SILVER 54.49 ▲ 0.70%   SOY 1,250 ▲ 0.70% ",
-   "published": "Mon, 02 Nov 2026 09:15:54 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "niger just bought its fuel from algeria, not the west",
-   "url": "https://www.facebook.com/groups/682481722264634/posts/2599706733875447",
-   "snippet": "The majority of Niger's identified reserves are in the Agadem region, which currently supplies approximately 20,000 barrels of oil per day to the SORAZ refinery",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/p/DfZ_CJyIXtB",
-   "snippet": "Did you know?  \n  \nThe longest crude oil pipeline in Africa spans across 2 countries at approximately 1,950 meters. The Niger-Benin Oil Pipeline connects the Agadem oilfields in eastern Niger to the Sémé-Kraké terminal on the Atlantic coast of the Republic of Benin.  \n  \n#pipeline #africanfacts #friday #funfacts #oilfieldsolutions #tgif\n\n## No comments yet.\n\nStart the conversation.\n\n1\n\nLog in to l",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/reel/DfY57dVFpio",
-   "snippet": "Photo by CNPC on November 05, 2026. May be an image of segway and text.\nPhoto by CNPC on November 05, 2026. May be an image of one or more people, plant and text.\nPhoto by CNPC on November 05, 2026. May be an image of one or more people, lego, newsroom, office and text.\nPhoto by CNPC on November 04, 2026. May be an image of magazine and text.\nPhoto by CNPC on November 04, 2026. May be an image of ",
-   "published": "Fri, 06 Nov 2026 05:56:33 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Asset | GINC Infrastructure",
-   "url": "https://infra.ginc.org/asset?nation=NER&id=agadem-to-zinder-crude-oil-pipeline",
-   "snippet": "Reading the register…\n\nGlobal Institute for National Capability\nGlobal Institute for National Capability\n\nThe Global Institute for National Capability (GINC) is an independent non-profit research network and data laboratory that studies the foundation of long-term power, prosperity and resilience.\n\n### GINC Infrastructure\n\n### GINC Indices\n\n### Social\n\n### GINC\n\n© 2026 Global Institute for Nationa",
-   "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_cnpc",
  "_query": "Agadem oil field",
  "_domains": [],

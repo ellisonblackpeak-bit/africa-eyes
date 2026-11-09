@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Dabafinance - Niger Receives 1.65M Liters of Algerian Fuel as Shortages Persist",
-   "url": "https://dabafinance.com/en/news/niger-receives-1-65M-liters-of-algerian-fuel-as-shortages-persist",
-   "snippet": "Algeria and Niger signed 3 agreements in June to expand cooperation in the petroleum sector, including fuel supply, oil exploration and technical services. The agreements involve subsidiaries of Sonatrach and Niger's Sonidep. The companies have also cooperated on aviation fuel deliveries and other petroleum transactions. Niger, which produces crude oil, continues to face difficulties ensuring suff",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Direction Niamey: Algeria Attempts to Bolster Its Posture in the Sahel - The Soufan Center",
-   "url": "https://thesoufancenter.org/intelbrief-2026-november-3",
-   "snippet": "Base 101. In the country’s southeast, Boko Haram and the Islamic State West Africa Province (ISWAP) remain active. Nonetheless, the more immediate trigger for Algiers’ decision appears not to have been these insurgencies but rather an acute fuel shortage that has plagued the country since mid-October. Although Niger exports crude petroleum, its singular refinery cannot adequately meet domestic dem",
-   "published": "Tue, 03 Nov 2026 05:00:51 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria Moves to Ease Niger’s Fuel Shortage with 1.6 Million-Litre Petrol Shipment - دزاير توب",
-   "url": "https://www.dzair-tube.dz/en/algeria-moves-to-ease-nigers-fuel-shortage-with-1-6-million-litre-petrol-shipment",
-   "snippet": "Further recognized with the Media Leadership Award by former Minister of Communication Mohamed Lagab and celebrated at the Hilals of Television awards, Dzair Tube continues to set benchmarks in innovation, influence, and public engagement, serving as a key forum for civic discourse, critical analysis, and public affairs.\n\nOfficial website: www.dzair-tube.dz | English: www.dzair-tube.dz/en\n\n    Who",
-   "published": "Tue, 03 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria's grid operator blames gas shortages, low water for power slump - Businessday NG",
-   "url": "https://businessday.ng/energy/article/nigerias-grid-operator-blames-gas-shortages-low-water-for-power-slump",
-   "snippet": "Gas dependence is the central weakness of Nigeria’s power system. Most of the country’s grid capacity comes from gas-fired plants, so any disruption to fuel deliveries, whether from pipeline problems, supply shortfalls or payment disputes, quickly shows up in the amount of power available.\n\nRead also: NMDPRA, EFCC seal illegal refinery with 90,000-litre underground tank in Ogun [...] #### Related ",
-   "published": "Thu, 05 Nov 2026 14:28:49 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Nigeria's Aliko Dangote steps in to boost Cameroon's oil supply",
-   "url": "https://citizen.digital/article/nigerias-aliko-dangote-steps-in-to-boost-cameroons-oil-supply-n393492",
-   "snippet": "Audio By Vocalize\n\nAfrica's richest man, Nigerian tycoon Aliko Dangote, has agreed to step in and bolster Cameroon's supply of refined petroleum products, the West African nation's refinery company Sonara has announced.\n\nSonara, whose local plant was wrecked in a 2019 fire that forced Cameroon to become a net importer, said the deal would help the country keep prices down and avoid the risk of fue",
-   "published": "Sat, 07 Nov 2026 18:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Dangote Begins Construction of $2.5 Billion Fuel Storage in Namibia After Kenya Refinery - Legit.ng",
-   "url": "https://www.legit.ng/business-economy/energy/1739568-dangote-begins-construction-25-billion-fuel-storage-namibia-kenya-refinery",
-   "snippet": "The development follows Dangote’s announcement of plans to construct a $16 billion refinery in Kenya, as the Nigerian industrialist seeks to establish a stronger presence in Africa’s energy market.\n\nRead also\n\nNNPC moves to sell shares to Nigerians after Dangote Refinery’s historic ₦2.15tn IPO\n\nPAY ATTENTION: From breaking news to viral moments. Follow Legit.ng on Instagram!\n\n## Dangote Targets Si",
-   "published": "Wed, 04 Nov 2026 15:36:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "U.S. Refineries Make Dramatic Shift Away From Gasoline | OilPrice.com",
-   "url": "https://oilprice.com/Energy/Energy-General/US-Refineries-Make-Dramatic-Shift-Away-From-Gasoline.html",
-   "snippet": "ADVERTISEMENT\n\nDiesel prices reached their highest nominal levels on record in September.\n\nFor U.S. refiners, the opportunity extends beyond processing more crude. The shortage has changed which fuels deliver the greatest returns, encouraging refiners to maximize middle distillates even at the expense of gasoline yields.\n\nThe result is a domestic refining system increasingly oriented toward supply",
-   "published": "Thu, 05 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Algeria Sends Troops into Niger to Protect Energy Interests – Sri Lanka Guardian",
-   "url": "https://slguardian.org/algeria-sends-troops-into-niger-to-protect-energy-interests",
-   "snippet": "On 13 October, Niger’s authorities gave Chinese companies CNPC, WAPCO and SORAZ 45 days to repatriate oil export revenues and fulfil their contractual obligations. The dispute could further complicate the country’s relationships with external economic partners as Algeria expands its involvement. [...] oil industry, although relations have recently come under pressure. [...] Niger has also become a",
-   "published": "Wed, 04 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ne_oil",
  "_query": "Niger fuel shortage refinery",
  "_domains": [],

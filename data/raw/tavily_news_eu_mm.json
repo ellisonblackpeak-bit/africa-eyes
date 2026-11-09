@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "As Singapore has expressed its intention to speed up negotiations on a free trade agreement (FTA) be.. - MK",
-   "url": "https://www.mk.co.kr/en/world/12194803",
-   "snippet": "Accordingly, the EU has maintained sanctions on Myanmar's military officials since March 2021 for democratic damage and human rights violations, and the deadline has been extended from April 2026 to the end of April 2027. It also does not recognize the results of the military-led general election. [...] Although there is a movement to re-promote free trade agreement (FTA) negotiations between the ",
-   "published": "Tue, 03 Nov 2026 06:05:51 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU Sends €16M in Aid to Myanmar, Rohingya Refugees in Bangladesh | Mirage News",
-   "url": "https://www.miragenews.com/eu-sends-e16m-in-aid-to-myanmar-rohingya-1773256",
-   "snippet": "The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar, as well as Rohingya refugees and their host communities in Bangladesh. These new funds come as escalating conflict in Myanmar continues to increase the needs of the population and to drive displacement within and beyond its borders. [...] EU support in Mya",
-   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Asean seeks to sign FTA with EU. Can Singapore help resolve the Myanmar hurdle? | South China Morning Post",
-   "url": "https://www.scmp.com/week-asia/economics/article/3373027/asean-seeks-sign-fta-eu-can-singapore-help-resolve-myanmar-hurdle",
-   "snippet": "Singapore is pitching itself as a bridge between the European Union (EU) and Asean, as the two blocs continue their protracted discussions to seal a free trade agreement (FTA).\n\nHowever, Myanmar’s political uncertainty is a major hurdle towards an EU-Asean FTA, and Singapore will have to play a key role to break the deadlock when it assumes the chairmanship of the Association of Southeast Asian Na",
-   "published": "Mon, 02 Nov 2026 13:30:14 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU Advances Sanctions Plan Against Smugglers – The European Times",
-   "url": "https://europeantimes.news/2026/11/eu-advances-sanctions-plan-against-smugglers",
-   "snippet": "The European Union is advancing a sanctions regime that could impose asset freezes and travel bans on migrant smugglers, human traffickers and associated organised-crime figures. The initiative emerged as a central outcome of the home affairs session at this week’s EU–Western Balkans ministerial forum in Budva, Montenegro. [...] According to the joint statement from the home affairs session, work ",
-   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU urges immediate lifting of sanctions against ICC, warns of 'chilling effect'",
-   "url": "https://www.brusselstimes.com/eu-affairs/2389957/eu-urges-immediate-lifting-of-sanctions-against-icc-warns-of-chilling-effect",
-   "snippet": "The EU has condemned actions against the ICC, warning they threaten investigations and justice for victims. The bloc urged the lifting of sanctions and",
-   "published": "Wed, 04 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Non-EU countries align with EU sanctions, pile up pressure on Russia over Ukraine",
-   "url": "https://www.brusselstimes.com/eu-affairs/2391716/non-eu-countries-align-with-eu-sanctions-pile-up-pressure-on-russia-over-ukraine",
-   "snippet": "With new EU sanctions extended, non-EU countries signal solidarity by adopting stricter measures targeting Russia's destabilising actions in Ukraine.",
-   "published": "Thu, 05 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How Russian Developers Manage Western Sanctions and why - EU Reporter",
-   "url": "https://www.eureporter.co/economy/2026/11/07/how-russian-developers-manage-western-sanctions-and-why",
-   "snippet": "Sanctions do not, by themselves, mean that construction must stop, apartment sales must cease or projects cannot be completed. PIK continued operating in the domestic market despite US and EU sanctions, and Samolet said it would continue normal operations after the EU restrictions.\n\nRisks remain. Sanctioned companies may face additional difficulties with international payments, the purchase of som",
-   "published": "Sat, 07 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU",
-   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
-   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_mm",
  "_query": "EU Myanmar sanctions",
  "_domains": [],

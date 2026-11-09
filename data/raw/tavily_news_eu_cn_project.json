@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Lithuania builds world’s biggest ultra-fast laser factory amid China tensions | South China Morning Post",
+   "url": "https://www.scmp.com/news/china/science/article/3373418/lithuania-builds-worlds-biggest-ultra-fast-laser-factory-amid-china-tensions",
+   "snippet": "The latest sign of Lithuania’s growing footprint in the sector came last month, when laser maker Litilit launched a new factory in the capital, Vilnius. The company’s expansion unfolds as the Baltic nation of fewer than 3 million people navigates fraught ties with Beijing, which has targeted Lithuania with a slew of informal trade restrictions over its Taiwan stance. [...] Advertisement\n\nScience\n\n",
+   "published": "Thu, 05 Nov 2026 13:00:10 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "How the EU can rescue its battery industry | Centre for European Reform",
    "url": "https://www.cer.eu/insights/how-eu-can-rescue-its-battery-industry",
-   "snippet": "Chinese manufacturing capacity – and the speed with which it continues to expand – make it unlikely that Europe, despite its ambitions to be a clean technology leader, will be able to build enough capacity to become a net exporter of the most produced battery types in the short-term. Chinese companies such as CATL and BYD each have more manufacturing capacity than the whole of the EU combined – wi",
+   "snippet": "largest battery factory. Europe’s battery sector now risks following the same trajectory as its solar panel manufacturers, which went from having 40 per cent of the global solar module manufacturing capacity in 2008 to being almost wiped out by cheaper Chinese competitors, possessing about one per cent of global production capacity in 2025. Europe is in danger of ceding another strategic sector to",
    "published": "Fri, 06 Nov 2026 08:00:00 GMT",
    "source": "tavily"
   },
   {
-   "title": "Industry Pushes Back Against EU-Specific Battery Rules, Criticizing Simultaneous Cost and Supply Pressures Amid Dependence on Chinese Supply Chains | Policy News — The Economy",
-   "url": "https://economy.ac/news/2026/11/202611300490",
-   "snippet": "increase European battery supplies. Meanwhile, Chinese companies are expanding their production footprint in Europe and partnering with local automakers, increasingly gaining control over the battery supply chain. [...] Chinese companies' growing presence in Europe is also reflected in actual battery usage. According to market research firm SNE Research, EV battery usage in Europe reached 180 GWh ",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "title": "CHOOSING CHINA: US Battery Startup That Ditched Kentucky for China Opens Factory as Trump and Xi Meet",
+   "url": "https://energynow.com/2026/09/choosing-china-us-battery-startup-that-ditched-kentucky-for-china-opens-factory-as-trump-and-xi-meet",
+   "snippet": "By David Kirton and Nicoco Chan Summary EnerVenue picked Changzhou due to skills, supply chain,…",
+   "published": "Sat, 07 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -23,13 +30,6 @@
    "source": "tavily"
   },
   {
-   "title": "Lithuania builds world’s biggest ultra-fast laser factory amid China tensions | South China Morning Post",
-   "url": "https://www.scmp.com/news/china/science/article/3373418/lithuania-builds-worlds-biggest-ultra-fast-laser-factory-amid-china-tensions",
-   "snippet": "The latest sign of Lithuania’s growing footprint in the sector came last month, when laser maker Litilit launched a new factory in the capital, Vilnius. The company’s expansion unfolds as the Baltic nation of fewer than 3 million people navigates fraught ties with Beijing, which has targeted Lithuania with a slew of informal trade restrictions over its Taiwan stance. [...] Advertisement\n\nScience\n\n",
-   "published": "Thu, 05 Nov 2026 13:00:10 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "China’s Push Into German Wind Sector Threatens Local Jobs and Manufacturing - Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-05/german-wind-industry-seen-facing-5-6-billion-threat-from-china",
    "snippet": "EXCLUSIVE\n\nEnergy\n\n# German Wind Industry Seen Facing €5.6 Billion Threat From China\n\n## Takeaways by Bloomberg AI\n\nChina’s push into Europe’s wind turbine sector threatens local manufacturing activity and puts regional energy systems at risk, according to a study commissioned by wind turbine maker Nordex SE. [...] In Germany alone, as much as €5.6 billion a year in manufacturing value could be lo",
@@ -37,24 +37,17 @@
    "source": "tavily"
   },
   {
-   "title": "CHOOSING CHINA: US Battery Startup That Ditched Kentucky for China Opens Factory as Trump and Xi Meet",
-   "url": "https://energynow.com/2026/09/choosing-china-us-battery-startup-that-ditched-kentucky-for-china-opens-factory-as-trump-and-xi-meet",
-   "snippet": "By David Kirton and Nicoco Chan Summary EnerVenue picked Changzhou due to skills, supply chain,…",
-   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China’s Message to Its Rivals: You Need What We Make - The New York Times",
-   "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-   "snippet": "The machines are part of a broader effort by China to control what leaves Chinese factories and laboratories for foreign lands. In the past month, Beijing has moved to control the exports of dozens of technologies, including drones, artificial intelligence models and agents, and certain processes used to develop advanced medicines and to make solar panels. [...] They are among the biggest machines",
-   "published": "Mon, 02 Nov 2026 05:00:08 GMT",
+   "title": "How to stop \"securonomics\" from killing growth",
+   "url": "https://www.breakingviews.com/columns/big-view/how-stop-securonomics-killing-growth-2026-11-09",
+   "snippet": "Trade policies increasingly discriminate ⁠based on ​firms' nationality, rather ​than where products are made. The US and ​EU hope ​this will shrink China's",
+   "published": "Mon, 09 Nov 2026 05:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "Manufacturing solid but strain of energy costs, supply disruptions starts to show",
    "url": "https://www.reuters.com/world/china/global-economy-manufacturing-solid-strain-energy-costs-supply-disruptions-starts-2026-11-02",
    "snippet": "Global manufacturing activity remained solid in October but ​factories are increasingly showing strain from rising energy costs while supply-chain",
-   "published": "Tue, 03 Nov 2026 02:00:00 GMT",
+   "published": "Tue, 03 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   }
  ],

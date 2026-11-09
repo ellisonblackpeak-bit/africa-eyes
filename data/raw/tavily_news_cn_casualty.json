@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Death toll from Egypt's train collision rises to 7, with 112 injured",
-   "url": "https://www.bastillepost.com/global/article/6338384-death-toll-from-egypts-train-collision-rises-to-7-with-112-injured",
-   "snippet": "The Chinese embassy in Egypt said no Chinese casualties have been reported so far.\n\nEarlier in the day, the ministry said in another statement that 72 ambulances took part in rescue and evacuation operations, with the injured transferred to multiple hospitals in Giza and nearby Beni Suef governorate. [...] Skip to Content Facebook Feature Image\n\n# Death toll from Egypt's train collision rises to 7",
-   "published": "Sun, 08 Nov 2026 19:35:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Train collision in Egypt kills 4, injures 88 | South China Morning Post",
-   "url": "https://www.scmp.com/news/world/africa/article/3373713/train-collision-egypt-kills-4-injures-88?module=latest&pgtype=homepage",
-   "snippet": "Advertisement\n\nEgypt\n\nWorldAfrica\n\n# Train collision in Egypt kills 4, injures 88\n\nEgypt’s 110 million people depend heavily on rail transport, but the network has suffered repeated deadly accidents\n\n1-MIN READ1-MIN\n\nListen\n\nPeople gather at the site where a passenger train derailed in Al-Ayyat, Giza, Egypt, on Sunday. Photo: AP\n\nAgence France-Presse [...] Two trains collided south of the Egyptian",
-   "published": "Sun, 08 Nov 2026 14:56:42 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Train collision kills at leas 7, injures over 100 in Egypt",
-   "url": "https://katu.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
-   "snippet": "President Abdel-Fattah el-Sissi said in a social media post that he ordered a prompt investigation into the crash.\n\nThe Egyptian railway system, the oldest in Africa and the Middle East, has a long history of deadly accidents, including when a train lost control while approaching the main station in Ramses, which ignited a fire that killed 25 people.\n\nAnother occurred in 2017 on the way to Alexand",
-   "published": "Sun, 08 Nov 2026 18:07:38 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Two trains collide in Egypt, killing four people and injuring dozens more, authorities say | CNN",
-   "url": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl",
-   "snippet": "The Egyptian railway system, the oldest in Africa and the Middle East, has a long history of deadly accidents, including when a train lost control while approaching the main station in Ramses, igniting a fire that killed 25 people.\n\nAnother in 2017 occurred on the way to Alexandria, when a train derailed and collided head-on with another train, killing more than 40 people.\n\nThis story has been upd",
-   "published": "Sun, 08 Nov 2026 15:19:10 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese man killed in downtown Melbourne stabbing - Chinadaily.com.cn",
-   "url": "https://www.chinadaily.com.cn/a/202611/07/WS6aeeade9e4b03ebf8519b03a.html",
-   "snippet": "China Daily PDF\n China Daily E-Paper\n China Daily Global PDF\n China Daily Global E-Paper\n\nMobile\n\n#### World\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n Diplomacy\n City Dance\n Video\n\n\n\n##### Branching across the Pacific\n\n\n\n##### A slower walkabout into Australia's heart\n\n\n\n##### Kenya's HIV fight at risk after US aid cuts\n\n[](\n\nCopyright 1994 -\n\n HOME\n CHINA\n BUSINESS\n OPINION\n WORLD\n C",
-   "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese dad whose daughter died in crash visits junction daily to catch traffic violators | South China Morning Post",
-   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373688/chinese-dad-whose-daughter-died-crash-visits-junction-daily-catch-traffic-violators",
-   "snippet": "Listen\n\nDevastated by the loss of his nine-year-old daughter in a truck collision, a Chinese father has turned his grief into activism, staking out local intersections daily to expose traffic violators. Photo: SCMP composite/QQ.com\n\nZoey Zhang\n\nA grieving father in southeastern China became a citizen watchdog after a collision killed his nine-year-old daughter. [...] On August 1, Wu Zhisheng’s wif",
-   "published": "Sun, 08 Nov 2026 10:00:37 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "2 killed, 33 injured in Croatia bus crash-Xinhua",
-   "url": "https://english.news.cn/20261109/dc18cf4e412e4161964ab454f769e85a/c.html",
-   "snippet": "Emergency services, including 15 firefighters and a rescue helicopter, rushed to the scene. Eyewitnesses reported seeing many victims on the grass covered with blankets before being transported to hospitals in the Zagreb area.\n\nAn investigation into the cause of the accident is underway.  ■\n\n## Comments\n\nComments (0)\n\nSend\n\n### You may like\n\n \n\n  ### Chinese motorcycle brands rev up European marke",
-   "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-   "url": "https://www.bbc.com/news/videos/cw78p2km7d94o",
-   "snippet": "# Footage shows derailed carriages after fatal train crash in Egypt\n\nA train collision has killed at least four people and injured dozens in northern Egypt.\n\nFootage showed multiple overturned carriages and dozens of people surrounding them.\n\nOne train was travelling from Giza to the Fayoum oasis, south west of Cairo, while the other was heading from Cairo to Aswan in the south. [...] The police h",
-   "published": "Sun, 08 Nov 2026 16:05:57 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_casualty",
  "_query": "Chinese killed Africa accident",
  "_domains": [],
