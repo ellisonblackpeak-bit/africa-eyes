@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "EFCC uncovers Chinese-operated illegal oil refinery in Ogun",
-   "url": "https://www.icirnigeria.org/efcc-uncovers-chinese-operated-illegal-oil-refinery-in-ogun",
-   "snippet": "The latest discovery adds to a series of cases in which Chinese nationals have been arrested, prosecuted and, in some instances, convicted over illegal mining activities in Nigeria.\n\nIn May 2025, the EFCC arrested two Chinese nationals and six Nigerians in Ogere over alleged illegal mining activities.\n\nThe suspects were reportedly found with three trucks carrying substances suspected to be ground ",
-   "published": "Tue, 03 Nov 2026 18:00:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Cops, MGB personnel seize P45-M gear of ‘Chinese-backed' illegal mine",
-   "url": "https://newsinfo.inquirer.net/2337807/cops-mgb-personnel-seize-p45-m-gear-of-chinese-backed-illegal-mine",
-   "snippet": "CAGAYAN DE ORO CITY — Authorities swooped down on a suspected illegal mining operation masquerading as a quarry in the hinterlands of this city before dawn on Friday, November 6, seizing some P45 million worth of heavy machinery.\n\nThe 4 a.m. raid in Sitio Pin-as, Barangay Tuburan, also resulted in the arrest of six workers and the rescue of a minor. Initial police investigations revealed that the ",
-   "published": "Sun, 08 Nov 2026 01:41:35 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Congo seizes copper, cobalt in illegal mining crackdown - MINING.COM",
-   "url": "https://www.mining.com/congo-seizes-copper-cobalt-in-illegal-mining-crackdown",
-   "snippet": "Last week, Mines Minister Louis Kabamba Watum suspended the head of state artisanal mining agency SAEMAPE, accusing him of failing to prevent illegal operations on licensed concessions.\n\n## Wider crackdown\n\nAuthorities have also detained more than 300 foreign nationals, mainly Chinese citizens, in operations concentrated around Kolwezi, a major mining hub in Lualaba province. Congolese civilians a",
-   "published": "Tue, 03 Nov 2026 12:03:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "P45-M mining equipment seized | Daily Tribune",
-   "url": "https://tribune.net.ph/2026/11/07/p45-m-mining-equipment-seized",
-   "snippet": "Authorities initially seized 12 excavators, three dump trucks, two trommels, two tow trucks, two generators and one crawler truck, with an estimated combined value of P45 million.\n\nInitial investigation disclosed that the suspected illegal mining activity was allegedly being conducted under the guise of a quarrying operation and was reportedly facilitated and financed by a Chinese national. [...] ",
-   "published": "Sat, 07 Nov 2026 17:34:37 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "DRC launches probe into illegal mining following massive copper and cobalt seizures",
-   "url": "https://miningmx.com/2026-11-03-congo-orders-illegal-mining-probe-after-copper-cobalt-seizures",
-   "snippet": "Congo has intensified action against illegal mining in recent weeks, including suspending a key artisanal mining regulator and detaining hundreds of Chinese miners.\n\nChinese groups including CMOC and Zijin Mining account for much of Congo’s copper and cobalt production.\n\nNewsletters\n\n## Stay informed. Get the MiningMX newsletter.\n\nThe latest mining news, insight and analysis from MiningMX, deliver",
-   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "4 arrested in Aveyime for illegal sand winning, including 3 Chinese nationals and a Ghanaian.",
-   "url": "https://www.modernghana.com/videonews/joynews/2/748996",
-   "snippet": "Mahama attends GMA AGM amid growing concerns over No Bed Syndrome in Ghana\n\n06.11.2026 | JoyNews\n\n“Justice for Our Girls” demo: Protester calls for proper vetting of teachers\n\n“Justice for Our Girls” demo: Protester calls for proper vetting of teachers\n\n06.11.2026 | JoyNews\n\nZijin Mining: GMWU Workers Protest Over Contract Mining Directive and Job Security | News Desk\n\nZijin Mining: GMWU Workers P",
-   "published": "Fri, 06 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EFCC Uncovers Illegal Industrial Complex In Ogun, Arrests Foreigners, Police Officers – Arise News",
-   "url": "https://www.arise.tv/efcc-uncovers-illegal-industrial-complex-in-ogun-arrests-foreigners-police-officers",
-   "snippet": "The complex, reportedly operated by foreign nationals believed to be Chinese citizens, houses a petroleum processing plant, a lithium processing factory, a specialised wood processing facility and a power generation plant.\n\nAd [...] Arise News\n\n Home\n Breaking\n Global\n AFRICA\n Business\n Politics\n Entertainment\n Sports\n Tech\n Health\n Videos\n Contact\n More\n\n en ▼\n\n  ar Arabiczh-CN Chinese (Simplifie",
-   "published": "Sun, 08 Nov 2026 08:19:39 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Cruel Death of 33 Detainees In Civil Defence Corps’ Custody: Report - Truth Nigeria",
-   "url": "https://truthnigeria.com/2026/11/cruel-death-of-33-detainees-in-civil-defence-corps-custody-report",
-   "snippet": "The victims were among suspected illegal miners arrested during NSCDC operations in Minna, the Niger State capital, on September 15 and 16, 2026. Their deaths were discovered on September 17, triggering public outrage and demands for an independent investigation as reported in several Nigerian news media, including Channels Television.\n\nInitial reports gave the death toll as 37. The Federal Govern",
-   "published": "Thu, 05 Nov 2026 05:54:10 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_illegal",
  "_query": "Chinese illegal mining arrested",
  "_domains": [],

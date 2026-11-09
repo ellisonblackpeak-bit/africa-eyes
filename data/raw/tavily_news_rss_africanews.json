@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Argentina: Pope Leo XIV receives warm welcome in Claypole",
+   "url": "http://www.africanews.com/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole/",
+   "content": "Pope Leo XIV was welcomed by crowds in Claypole, near Buenos Aires, as he visited the Don Orione care home. The pontiff greeted the faithful and unveiled a plaque during his 12-day South American tour.",
+   "published_date": "Mon, 09 Nov 2026 17:03:44 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Thousands of Ethiopian Jews mark holy day of Sigd in Jerusalem",
+   "url": "http://www.africanews.com/2026/11/09/thousands-of-ethiopian-jews-mark-holy-day-of-sigd-in-jerusalem/",
+   "content": "Thousands of Ethiopian Jews gathered in Jersualem on Monday to mark the holy day of Sigd. Religious leaders known as Kessim led the community in prayer. Sigd is one of the few holidays unique to the Ethiopian Jewish community.",
+   "published_date": "Mon, 09 Nov 2026 17:05:49 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Kenyan authorities seize 454kg of crystal meth worth $27 million",
+   "url": "http://www.africanews.com/2026/11/09/kenyan-authorities-seize-454kg-of-crystal-meth-worth-27-million/",
+   "content": "Kenyan authorities have seized 454 kilograms of crystal methamphetamine worth $27 million in a multi-agency operation, the police said Monday.",
+   "published_date": "Mon, 09 Nov 2026 15:43:58 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Senegalese surfer uses the waves to give children hope",
+   "url": "http://www.africanews.com/2026/11/09/senegalese-surfer-uses-the-waves-to-give-children-hope/",
+   "content": "The country's hosting of the Youth Olympic Games is also shining a spotlight on its surfing potential, as the first Olympic event ever held on African soil brings global attention to Senegal.",
+   "published_date": "Mon, 09 Nov 2026 15:29:13 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Deadly train crash reignites calls for overhaul of Egypt's railway network",
+   "url": "http://www.africanews.com/2026/11/09/deadly-train-crash-reignites-calls-for-overhaul-of-egypts-railway-network/",
+   "content": "Sunday's deadly train crash that killed seven people and injured dozens more has reignited calls for an overhaul of Egypt's ageing railway system. The accident happened when a train travelling from Giza to Fayoum rear-ended another on the Cairo-Aswan route.",
+   "published_date": "Mon, 09 Nov 2026 14:53:54 +0000",
+   "score": 0.6
+  },
+  {
    "title": "At least 39 killed in migrant boat sinking off Senegal",
    "url": "http://www.africanews.com/2026/11/09/at-least-39-killed-in-migrant-boat-sinking-off-senegal/",
    "content": "Regional governor Ndeye Nguenar Mbodj says four more bodies were found this morning, raising the death toll from 35. Twenty-three victims have been identified by their families.",
@@ -174,41 +209,6 @@
    "url": "http://www.africanews.com/2026/11/08/ancient-meets-modern-as-art-exhibition-opens-at-egypts-pyramids/",
    "content": "The sixth edition of the ‘Forever Is Now’ art exhibition is set against the Pyramids of Giza. The Egyptian landscape and its ancient monuments are more than just a backdrop, they also provide the works’ conceptual anchor, creating a dialogue between past and present.",
    "published_date": "Mon, 09 Nov 2026 09:22:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Egypt reopens embassy in Libya as it seeks to rebuild energy ties with Tripoli",
-   "url": "http://www.africanews.com/2026/11/08/egypt-reopens-embassy-in-libya-as-it-seeks-to-rebuild-energy-ties-with-tripoli/",
-   "content": "Egypt’s foreign minister Badr Abdelatty was in Tripoli on Saturday to reopen his country’s embassy. The mission has been closed since 2012, when chaos swept Libya following the ouster of long-time leader Muammar Gaddafi.",
-   "published_date": "Sun, 08 Nov 2026 08:52:33 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Gambia opposition leader Bensouda seeks presidency amid abuse allegations",
-   "url": "http://www.africanews.com/2026/11/08/gambia-opposition-leader-bensouda-seeks-presidency-amid-abuse-allegations/",
-   "content": "Supporters of Gambia’s UNITE-led coalition celebrated on Friday as their party leader Talib Ahmed Bensouda filed his candidacy papers for next month’s presidential election. The move comes despite a government report last week accusing the popular former mayor of financial improprieties.",
-   "published_date": "Mon, 09 Nov 2026 08:49:42 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
-   "url": "http://www.africanews.com/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow/",
-   "content": "Footage shows people fleeing as cars speed away during a deadly shooting at Krakow's Main Market Square, which left six people dead and about 15 injured.",
-   "published_date": "Sat, 07 Nov 2026 22:10:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
-   "url": "http://www.africanews.com/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure/",
-   "content": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
-   "published_date": "Sat, 07 Nov 2026 21:45:36 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Heavy rains leave tens of thousands without shelter in Gaza",
-   "url": "http://www.africanews.com/2026/11/07/heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza/",
-   "content": "Tens of thousands of displaced families in the Gaza Strip spent a sleepless night on Saturday, as heavy rain flooded their fragile tents, and soaked their mattresses and belongings.",
-   "published_date": "Sat, 07 Nov 2026 14:53:34 +0000",
    "score": 0.6
   }
  ],

@@ -2,6 +2,62 @@
  "success": true,
  "results": [
   {
+   "title": "Abu Dhabi sideshow",
+   "url": "https://www.rapporteur.com/news/abu-dhabi-sideshow/",
+   "content": "Also, in tonight’s edition: Investigating Orbán, and the Ukraine MFF-link",
+   "published_date": "Mon, 09 Nov 2026 16:59:48 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The Data Act, tested in practice",
+   "url": "https://www.rapporteur.com/video/the-data-act-tested-in-practice/",
+   "content": "The EU Data Act gives drivers more control over the data their car produces. But what does that mean in practice? A new study prepared for FIA Region I by SBD Automotive looked at how ten carmakers apply the rules and at twelve digital services that could benefit drivers. Its central finding is that being […]",
+   "published_date": "Mon, 09 Nov 2026 16:32:44 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU presses OpenAI, Anthropic for more details on AI safety incidents",
+   "url": "https://www.rapporteur.com/news/eu-presses-openai-anthropic-for-more-details-on-ai-safety-incidents/",
+   "content": "AI giants must hand over information about their models under EU rules",
+   "published_date": "Mon, 09 Nov 2026 16:31:03 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU to fast-track Black Sea Maritime Security Hub with €50 million",
+   "url": "https://www.rapporteur.com/news/eu-to-fast-track-black-sea-maritime-security-hub-with-e50-million/",
+   "content": "Commission president pledges extra €10 million for sea rescues and urges Romania to request further SAFE loans",
+   "published_date": "Mon, 09 Nov 2026 16:13:10 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Merz ties EU budget deal to new Ukraine loans",
+   "url": "https://www.rapporteur.com/news/merz-ties-eu-budget-deal-to-new-ukraine-loans/",
+   "content": "German chancellor wants a deal to secure long-term support for Kyiv's war effort",
+   "published_date": "Mon, 09 Nov 2026 16:05:03 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Romanian villagers reject €400m magnesium mine",
+   "url": "https://www.rapporteur.com/news/romanian-villagers-reject-e400m-magnesium-mine/",
+   "content": "MPI Magnesium is the latest mining company to come up against local resistance in Europe",
+   "published_date": "Mon, 09 Nov 2026 15:53:50 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Capitals plan to reject EU say on electricity grid tariffs",
+   "url": "https://www.rapporteur.com/news/capitals-plan-to-reject-eu-say-on-electricity-grid-tariffs/",
+   "content": "Harmonisation of network fees across the EU is a no-go, Council draft shows",
+   "published_date": "Mon, 09 Nov 2026 15:45:41 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "From standalone CCS projects to a thriving European market for CO₂ [Promoted Content]",
+   "url": "https://www.rapporteur.com/opinion/from-standalone-ccs-projects-to-a-thriving-european-market-for-co2/",
+   "content": "Europe is moving beyond CCS ambition into delivery. Across the continent, projects are entering operation, construction or advanced development, demonstrating that carbon management can support both industrial competitiveness and climate goals. The next challenge is to connect standalone projects into viable value chains, using industrial clusters, infrastructure, pragmatic regulation and targeted de-risking to turn Europe’s project pipeline into a thriving CO₂ market.",
+   "published_date": "Mon, 09 Nov 2026 15:00:44 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Brussels warns richer EU members not to miss climate targets",
    "url": "https://www.rapporteur.com/news/brussels-warns-richer-eu-members-not-to-miss-climate-targets/",
    "content": "Europe's wealthier countries are not delivering required emission cuts in transport, housing, and farming",
@@ -153,62 +209,6 @@
    "url": "https://www.rapporteur.com/news/swedens-svekon-turns-civilian-industry-into-defence-capability/",
    "content": "The engineering company aims to double its turnover by 2030",
    "published_date": "Mon, 09 Nov 2026 03:00:24 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Finns stand ready to fight Russia",
-   "url": "https://www.rapporteur.com/news/finns-stand-ready-to-fight-russia/",
-   "content": "Unlike most other Europeans, Finns are trained and willing to take on the Russians",
-   "published_date": "Mon, 09 Nov 2026 03:00:18 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "INTERVIEW: Swiss pharma industry warns US tariff threat still looms",
-   "url": "https://www.rapporteur.com/news/interview-swiss-pharma-industry-warns-us-tariff-threat-still-looms/",
-   "content": "Tariffs on medicines could soon be back on the table, with or without Trump.",
-   "published_date": "Mon, 09 Nov 2026 03:00:13 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Merz to name Aigner as Germany’s first woman president",
-   "url": "https://www.rapporteur.com/news/merz-to-name-aigner-as-germanys-first-woman-president/",
-   "content": "Aigner previously served as agriculture minister, winning the respect of politicians outside her own party",
-   "published_date": "Sun, 08 Nov 2026 23:03:57 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Russian strikes cut power to hundreds of thousands in Ukraine",
-   "url": "https://www.rapporteur.com/news/russian-strikes-cut-power-to-hundreds-of-thousands-in-ukraine/",
-   "content": "The night-time strikes have triggered widespread power outages across the country",
-   "published_date": "Sun, 08 Nov 2026 12:32:07 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Mélenchon fires up his base for Le Pen runoff",
-   "url": "https://www.rapporteur.com/news/melenchon-fires-up-his-base-for-le-pen-runoff/",
-   "content": "The far left sets stage for confrontation with ‘Macronists and their far-right allies'",
-   "published_date": "Sun, 08 Nov 2026 12:18:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Serbia’s student victory leaves Kosovo Serbs facing uncertainty",
-   "url": "https://www.rapporteur.com/news/serbias-student-victory-leaves-kosovo-serbs-facing-uncertainty/",
-   "content": "Belgrade funds healthcare, education, pensions and social assistance for Kosovo's Serbs",
-   "published_date": "Sun, 08 Nov 2026 07:00:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Gunman ‘fascinated by far right’ kills six in Krakow, Poland",
-   "url": "https://www.rapporteur.com/news/five-killed-dozen-wounded-in-krakow-mass-shooting/",
-   "content": "Tusk called the shooting an act of \"terrorism\"",
-   "published_date": "Sat, 07 Nov 2026 16:49:31 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Commission opens roaming talks with Western Balkans countries",
-   "url": "https://www.rapporteur.com/news/commission-opens-roaming-talks-with-western-balkans-countries/",
-   "content": "Move welcomed by travellers also carries political significance",
-   "published_date": "Sat, 07 Nov 2026 10:33:28 +0000",
    "score": 0.6
   }
  ],

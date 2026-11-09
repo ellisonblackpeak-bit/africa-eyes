@@ -1,7 +1,14 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Huawei",
+   "url": "https://tavily.com/knowledge/company/HJhEDlCVdmjm",
+   "snippet": "# Huawei\nID: HJhEDlCVdmjm\nWebsite: www.huawei.com\nLegal name: Huawei Technologies Co. Ltd\nHeadquarters: Shenzhen, Guangdong, China\nLinkedIn: www.linkedin.com/company/huawei · 5,479,060 followers\nIndustry: Telecommunications\nCompany type: Privately Held\nSocial profiles: www.facebook.com/huawei, www.twitter.com/huawei, www.crunchbase.com/organization/huawei, www.instagram.com/huawei, www.youtube.com",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_5g",
  "_query": "Europe Huawei 5G ban",
  "_domains": [],

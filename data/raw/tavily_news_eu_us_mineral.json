@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Germany’s Rearmament Is a Warning for America’s Critical Minerals Strategy - InvestorNews",
+   "url": "https://investornews.com/market-opinion/germanys-rearmament-is-a-warning-for-americas-critical-minerals-strategy",
+   "snippet": "Note from the Publisher: The 13 critical mineral commodities for which the United States had 100% net import reliance in 2025 were:\n\n1. Arsenic\n2. Cesium\n3. Fluorspar\n4. Gallium\n5. Graphite — natural\n6. Indium\n7. Manganese\n8. Niobium\n9. Rubidium\n10. Scandium\n11. Tantalum\n12. Titanium — sponge metal\n13. Yttrium [...] In this respect, Germany’s position is worse than America’s. The United States ret",
+   "published": "Fri, 06 Nov 2026 14:12:18 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe looks to Central Asia to break China's grip on critical minerals",
+   "url": "https://www.azernews.az/analysis/266890.html",
+   "snippet": "It should be noted that critical minerals are essential to a wide range of industries, from electric vehicle manufacturing and renewable energy to electronics, aerospace and defence. Lithium, graphite, copper, tungsten and rare earth elements are among the materials needed to manufacture batteries, wind turbines, semiconductors and other advanced technologies. [...] Recognizing the strategic imper",
+   "published": "Fri, 06 Nov 2026 17:09:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Critical minerals agreements boom amid AI buildout and energy transition  | Global Trade Review (GTR)",
+   "url": "https://www.gtreview.com/news/global/critical-minerals-agreements-boom-amid-ai-buildout-and-energy-transition",
+   "snippet": "The EU and the US used “different vehicles” to secure their critical minerals supplies, Pedro Espaillat, policy advisor at IISD, told GTR. The EU “more often commits to building value chains in producing countries, such as local processing, along with ESG standards”, while the US “leans more towards tools that secure supply for its own industries”, he said. [...] The EU has recently been ramping u",
+   "published": "Thu, 05 Nov 2026 16:55:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Critical Minerals Stockpile Pilot Faces a Buyer Test | E+E Leader",
+   "url": "https://www.environmentenergyleader.com/articles/45507-eu-critical-minerals-stockpile-buyer-access",
+   "snippet": "The first shared critical minerals reserve in the European Union (EU) is starting as a $15.7 million (€14 million) pilot built around rare earths and tungsten, and the Commission's own rulebook shows how much has to be settled before a single factory could draw on it. Applications to run the pilot closed Oct. 9, the Commission planned to inform applicants in October, and as of Nov. 2 it had not pu",
+   "published": "Wed, 04 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pentagon plans for sabotage on US soil as China keeps American companies short of rare earths | Fortune",
+   "url": "https://fortune.com/2026/11/08/pentagon-fortress-critical-minerals-stockpile-tungsten-rare-earth",
+   "snippet": "Building stockpiles on the scale Clark described runs into a stark industrial reality: America’s defense industry remains deeply reliant on foreign supply chains for its raw materials.\n\nIn 2025, the U.S. imported about $60 billion worth of critical minerals other than rare earths, including nickel, lithium, cobalt, graphite, and tungsten, according to the Peterson Institute for International Econo",
+   "published": "Sun, 08 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Securing The Supply Chain: A Survey Of Contrasting Global Approaches To Critical Minerals Strategic Reserves | Ashurst Perkins Coie - JDSupra",
+   "url": "https://www.jdsupra.com/legalnews/securing-the-supply-chain-a-survey-of-9203091",
+   "snippet": "including lithium, nickel, cobalt, manganese and graphite – all of which support the EU battery value chain. [...] A European Critical Raw Materials Centre is expected to be set up in 2026. It is intended to oversee investment, stockpiling and joint purchasing. Alongside it, a financing hub is to mobilize €3 billion. Working with the European Investment Bank, Member States and private investors, i",
+   "published": "Wed, 04 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The US and the EU Bet on the Wrong Race in Zambia | German Marshall Fund of the United States",
+   "url": "https://www.gmfus.org/news/us-and-eu-bet-wrong-race-zambia",
+   "snippet": "On top of energy partnerships, new partnerships should be built through market access clauses. To send clearer signals to private investors, both should extend friend-shoring through critical mineral agreements that define eligibility by stage of transformation rather than by mine of origin, so that African-processed materials, such as Zambian refined copper cathode or battery precursors from the ",
+   "published": "Thu, 05 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Submission to Request for Comments on the Effect of the European Union's Carbon Border Adjustment Mechanism, Office of the United States Trade Representative • Bipartisan Policy Center",
+   "url": "https://bipartisanpolicy.org/testimony-letter/submission-to-request-for-comments-on-the-effect-of-the-european-unions-carbon-border-adjustment-mechanism-office-of-the-united-states-trade-representative",
+   "snippet": "About Us\n  + About Us\n  + Leadership\n  + Board of Directors\n  + Founders\n  + Enterprise Staff\n  + Careers\n  + Success Stories\n  + Our History\n  + Reports & Financials\n  + For Media\n Policy Areas\n  + All Policy Areas\n  + Economics\n    - All Economics\n    - Debt Limit\n    - Fiscal Policy\n    - Government Operations\n    - Retirement Security\n    - Social Security\n    - Tax Policy\n  + Energy\n    - All",
+   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+   "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+   "snippet": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
+   "published": "Thu, 05 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Exclusive | US and EU’s China talks channel comes back to life after stalling since Trump’s return | South China Morning Post",
+   "url": "https://amp.scmp.com/news/china/diplomacy/article/3373614/us-and-eus-china-talks-channel-comes-back-life-after-stalling-trumps-return",
+   "snippet": "The European Union and the United States plan to revive talks about China after a two-year hiatus, according to multiple people familiar with the planning.\n\nThe dialogue had stalled since Donald Trump’s return to the White House, but after being approached by Washington, talks are expected in the first week of December, despite the deterioration in transatlantic relations in the meantime. [...] Ad",
+   "published": "Fri, 06 Nov 2026 16:05:58 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],

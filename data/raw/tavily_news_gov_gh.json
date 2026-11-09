@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Government rules out Eurobond issuance from 2027 to 2030  | Ghana News Agency",
+   "url": "https://gna.org.gh/2026/11/government-rules-out-eurobond-issuance-from-2027-to-2030",
+   "snippet": "The policy is contained in the 2027-Fiscal-Strategy-Document which outlines the fiscal framework and debt management priorities that will guide economic policy over the next four years.\n\nAccording to the document, Government would rely primarily on domestic financing, project loan disbursements from development partners, and prudent debt management measures instead of raising funds from the intern",
+   "published": "Fri, 06 Nov 2026 11:51:55 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "TraffiTech one of Ghana’s best policies – Dr Mireku",
+   "url": "https://www.citinewsroom.com/2026/11/traffitech-one-of-ghanas-best-policies-dr-mireku",
+   "snippet": "International Relations expert Dr Nana Yaw Mireku has described Ghana’s electronic traffic enforcement system, TraffiTech, as one of the most impactful policies introduced by the government, citing its potential to save lives and improve road safety.\n\nHe said policies that directly improve people’s lives and address critical societal needs are more significant in defining a government’s legacy tha",
+   "published": "Sat, 07 Nov 2026 10:58:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Reaffirms Commitment to Press Freedom as MFWA Launches Journalist Safety Policy - TechAfrica News",
+   "url": "https://techafricanews.com/2026/11/03/ghana-press-freedom-mfwa-launches-journalist-safety-policy",
+   "snippet": "George described a free and independent press as essential to a functioning democracy, while highlighting Ghana’s improvement in the 2026 World Press Freedom Index. The country ranked 39th out of 180 countries, up from 52nd in 2025, placing fourth in Africa.\n\nHe attributed the improvement to what he described as the government’s commitment to openness, engagement and accountability under President",
+   "published": "Tue, 03 Nov 2026 07:30:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Banks in Ghana urged to increase investment in biodiversity protection  - Ghana Business News",
+   "url": "https://www.ghanabusinessnews.com/2026/11/08/banks-in-ghana-urged-to-increase-investment-in-biodiversity-protection",
+   "snippet": "Mr Raymond Ohene Ofori, Deputy Director, Ministry of Environment, Science and Technology, said the Government was pursuing a unified governance framework to ensure that sector players worked towards a common goal of safeguarding nature and the environment.\n\nHe said the Government’s policy direction, including the Environmental Protection Authority Act, 2025 (Act 1124), and Ghana’s Green Taxonomy, ",
+   "published": "Sun, 08 Nov 2026 04:02:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Ghana’s new license to sell sustainable timber improves institutions & collaboration (analysis)",
+   "url": "https://news.mongabay.com/2026/11/how-ghanas-new-license-to-sell-sustainable-timber-improves-institutions-collaboration-analysis",
+   "snippet": "Ghana’s license is an important milestone, but the deeper achievement is the governance journey that made it possible. In documenting that journey in a seven-part series, I’ve been examining why Ghana entered the VPA process, how it changed multi-stakeholder policymaking, how commitment was sustained over all those years, and how the national legality-assurance system was eventually built. [...] P",
+   "published": "Thu, 05 Nov 2026 14:16:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2027 Budget: Government prepares to reshape Ghana’s economy with new policy direction | 09-11-2026",
+   "url": "https://www.modernghana.com/videonews/joynews/1/750335",
+   "snippet": "Rural development: Education, security and agriculture top Lawra Assembly's 2027 development agenda\n\nRural development: Education, security and agriculture top Lawra Assembly's 2027 development agenda\n\n09.11.2026 | JoyNews\n\n Latest Photo Reports\n\n  Latest Photo Reports\n\n  Catch up with all political quotes from our politicians.\n\nAdvertise Here\n\nTop Stories\n\n30 minutes ago [...] Traffitech: Speed C",
+   "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Seeks USD-100 Million",
+   "url": "https://www.sphericalinsights.com/blogs/ghana-seeks-usd-100-million-for-domestic-vaccine-manufacturing-as-new-policy-targets-pharmaceutical-investment-expert-view-by-spherical-insights",
+   "snippet": "Ghana imports about 70% of its pharmaceutical needs, and its first locally made vaccine is still a 2027 target. On 28 October 2026, the government launched the Ghana Pharmaceutical Manufacturing Policy at the premises of Ghana Exim Bank, aiming to make the country a continental hub for medicine and vaccine manufacturing. At the launch, National Vaccine Institute (NVI) Chief Executive Dr Sodzi Sodz",
+   "published": "Tue, 03 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "IEA backs Ghana's BRICS move, urges gov't to maximise economic benefits",
+   "url": "https://www.citinewsroom.com/2026/11/iea-backs-ghanas-brics-move-urges-govt-to-maximise-economic-benefits",
+   "snippet": "However, it cautioned that the benefits would depend on deliberate government policies, improved export competitiveness and effective mechanisms to help Ghanaian businesses take advantage of the opportunities.\n\nThe IEA further maintained that Ghana’s decision to pursue the partnership is an exercise of its sovereign right to determine its foreign policy direction without being dictated to by exter",
+   "published": "Mon, 09 Nov 2026 11:28:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "2027 Budget: What Ghanaian Businesses Want from Government | PM Business with George Wiafe (5-11-26)",
+   "url": "https://www.modernghana.com/videonews/joynews/1/748658",
+   "snippet": "6 hours ago\n\nParaguayan President Santiago Pena took office in 2023 -  EITAN ABRAMOVICH / AFP/File Paraguay president resigns amid banking scandal\n\n7 hours ago\n\nAkufo-Addo’s govt initiated Ghana’s BRICS partnership idea – Mahama Akufo-Addo’s govt initiated Ghana’s BRICS partnership idea – Mahama\n\n7 hours ago [...] TraffiTech-GH: Motorists Demand Better Roads, Signs and Traffic Lights| The Pulse (5",
+   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "IEA backs Ghana’s move to pursue BRICS partner-country status",
+   "url": "https://asaaseradio.com/iea-backs-ghanas-move-to-pursue-brics-partner-country-status",
+   "snippet": "The Institute of Economic Affairs (IEA) has backed Ghana's decision to pursue partner-country status in BRICS, describing it as an opportunity to expand the",
+   "published": "Mon, 09 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "gov_gh",
  "_query": "Ghana government policy",
  "_domains": [],

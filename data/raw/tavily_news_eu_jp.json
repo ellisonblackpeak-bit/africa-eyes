@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Germany–Japan Relations: Economic Security and Defence",
+   "url": "https://behorizon.org/germany-japan-relations-october-2026-summit",
+   "snippet": "⚡ Commercial Friction: Tokyo raised strong concerns over the EU’s Industrial Accelerator Act .\n\n01 / Institutional Foundations Pre-Summit Baseline\n\n## An Established Partnership Gains Depth\n\nThe October 2026 visit builds on existing legal and economic institutions that already provide practical foundations for closer bilateral cooperation.\n\nECONOMIC PILLAR Since Feb 2019\n\n### EU–Japan Economic Par",
+   "published": "Tue, 03 Nov 2026 20:04:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan and U.S. complete Keen Sword 27 with eight live-fire drills and about 200 aircraft - Defence Industry Europe",
+   "url": "https://defence-industry.eu/japan-and-u-s-complete-keen-sword-27-with-eight-live-fire-drills-and-about-200-aircraft",
+   "snippet": "“One of the purposes of Keen Sword is to train and test how Japan and the United States respond together under realistic conditions,” said Col. Mikio Kobayashi of the Japan Self-Defense Forces, the Japan-U.S. bilateral exercise director. “Through practical joint training, we are continuously strengthening Japan-U.S. coordination, interoperability, and joint response capabilities.” [...] Japan and ",
+   "published": "Sat, 07 Nov 2026 09:37:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "An era of confrontation and cooperation: Japan's crisis response in a new security landscape | United States Studies Centre",
+   "url": "https://www.ussc.edu.au/an-era-of-confrontation-and-cooperation-japan-s-crisis-response-in-a-new-security-landscape",
+   "snippet": "The NSC has also bridged the gap between diplomatic and defence strategy.155 As a result, cooperation between diplomacy and defence has strengthened — leading to achievements such as the formulation of three security-related documents at the end of 2022. This alignment was seen during the Kishida administration. Prime Minister Kishida was the first Japanese prime minister to attend a NATO summit, ",
+   "published": "Tue, 03 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Maritime Security Strategy: joint report highlights progress | EEAS",
+   "url": "https://www.eeas.europa.eu/eeas/eu-maritime-security-strategy-joint-report-highlights-progress_en?s=62",
+   "snippet": "Significant new political agreements on maritime security have been concluded with key partners, such as Australia, Canada, Ghana, Iceland, India, Japan, Republic of Korea, Norway and United Kingdom. The EU also consolidated its support for regional maritime security structures, including becoming a Friend of the Djibouti Code of Conduct. [...] #### Boost capabilities to address evolving threats\n\n",
+   "published": "Tue, 03 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "After the midterms: Europe's three-pronged strategy for dealing with America | European Union Institute for Security Studies",
+   "url": "https://www.iss.europa.eu/publications/commentary/after-midterms-europes-three-pronged-strategy-dealing-america",
+   "snippet": "could carry greater weight if delivered alongside partners such as Canada and Japan, which have also faced the fallout from unpredictable US foreign policies. [...] The new Congress could nevertheless offer Europe opportunities to influence US policy. Democrats are already challenging the president’s diesel deal with Russia, threatening legal action against companies transporting the fuel. They ha",
+   "published": "Wed, 04 Nov 2026 09:31:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s military readiness plans at risk despite record defence spending | Euronews",
+   "url": "https://www.euronews.com/2026/11/04/europes-military-readiness-plans-at-risk-despite-record-defence-spending",
+   "snippet": "“We will set up a new European Instrument for Strategic Enablers such as critical support assets and force multipliers ranging from strategic transport and air-to-air refuelling to space and cyber defence, in cooperation with member states,” the document states.\n\nThe Commission will also pursue proposals put forward by its president, Ursula von der Leyen, as part of her agenda-setting State of the",
+   "published": "Wed, 04 Nov 2026 10:04:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Canada and the European Union: Variable Geometry with a Purpose - Policy Magazine",
+   "url": "https://www.policymagazine.ca/canada-and-the-european-union-variable-geometry-with-a-purpose",
+   "snippet": "Canada can help build coalitions of democracies able to defend their interests when great powers weaponize dependence. Europe can develop forms of association beyond full membership, becoming a stronger centre of attraction in a fractured world. Arrangements developed with Canada could offer a model for Britain, Australia, Japan and others.\n\nThis is variable geometry with a purpose: partners contr",
+   "published": "Fri, 06 Nov 2026 15:24:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa’s most strategic foreign military hub hosting US, Chinese and Japanese bases, secures an $85 million annual deal with France | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/africas-most-strategic-foreign-military-hub-hosting-us-chinese-and-japanese-bases/j1gewb6",
+   "snippet": "According to Djibouti’s national news agency, Agence Djiboutienne d’Information (ADI), the handover was completed on November 2, 2026. Acting Defence Minister Omar Abdi Said received the keys to the returned facilities from French ambassador Jérôme Bresson during a ceremony attended by officials from both countries.\n\nThe transfer follows a renewed defence cooperation agreement signed in July 2024,",
+   "published": "Wed, 04 Nov 2026 21:54:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_jp",
  "_query": "EU Japan defence cooperation",
  "_domains": [],

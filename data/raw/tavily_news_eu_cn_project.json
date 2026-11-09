@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Chinese Automakers Drive Record Presence at Paris Motor Show, Deepening Europe Ties",
+   "url": "https://www.alwihdainfo.com/chinese-automakers-drive-record-presence-at-paris-motor-show-deepening-europe-ties",
+   "snippet": "XPENG, a Chinese new energy vehicle manufacturer, has begun production at a Magna plant in Austria. Chinese auto giant BYD announced during the show that it would build two additional plants in Europe, following the establishment of its factory in Hungary. [...] Chery, another Chinese automaker, said it would reopen an idle vehicle assembly plant in Barcelona, a project expected to create more tha",
+   "published": "Tue, 03 Nov 2026 23:55:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How the EU can rescue its battery industry | Centre for European Reform",
+   "url": "https://www.cer.eu/insights/how-eu-can-rescue-its-battery-industry",
+   "snippet": "Chinese manufacturing capacity – and the speed with which it continues to expand – make it unlikely that Europe, despite its ambitions to be a clean technology leader, will be able to build enough capacity to become a net exporter of the most produced battery types in the short-term. Chinese companies such as CATL and BYD each have more manufacturing capacity than the whole of the EU combined – wi",
+   "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "TV Costs Rise and Auto Production Halts as China's Supply Chain Dominance Shakes Global Manufacturing | Tech News — The Economy",
+   "url": "https://economy.ac/news/2026/11/202611300495",
+   "snippet": "In Europe, raw material shortages at component manufacturers also disrupted automotive supply chains. The European Association of Automotive Suppliers (CLEPA) said in early June last year that several factories and production lines in the region had stopped operating because of shortages of rare earths and magnets. At the time, only about 25% of the hundreds of export license applications submitte",
+   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lithuania builds world’s biggest ultra-fast laser factory amid China tensions | South China Morning Post",
+   "url": "https://www.scmp.com/news/china/science/article/3373418/lithuania-builds-worlds-biggest-ultra-fast-laser-factory-amid-china-tensions",
+   "snippet": "The latest sign of Lithuania’s growing footprint in the sector came last month, when laser maker Litilit launched a new factory in the capital, Vilnius. The company’s expansion unfolds as the Baltic nation of fewer than 3 million people navigates fraught ties with Beijing, which has targeted Lithuania with a slew of informal trade restrictions over its Taiwan stance. [...] Advertisement\n\nScience\n\n",
+   "published": "Thu, 05 Nov 2026 13:00:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Push Into German Wind Sector Threatens Local Jobs and Manufacturing - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-05/german-wind-industry-seen-facing-5-6-billion-threat-from-china",
+   "snippet": "EXCLUSIVE\n\nEnergy\n\n# German Wind Industry Seen Facing €5.6 Billion Threat From China\n\n## Takeaways by Bloomberg AI\n\nChina’s push into Europe’s wind turbine sector threatens local manufacturing activity and puts regional energy systems at risk, according to a study commissioned by wind turbine maker Nordex SE. [...] In Germany alone, as much as €5.6 billion a year in manufacturing value could be lo",
+   "published": "Thu, 05 Nov 2026 12:35:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "CHOOSING CHINA: US Battery Startup That Ditched Kentucky for China Opens Factory as Trump and Xi Meet",
+   "url": "https://energynow.com/2026/09/choosing-china-us-battery-startup-that-ditched-kentucky-for-china-opens-factory-as-trump-and-xi-meet",
+   "snippet": "By David Kirton and Nicoco Chan Summary EnerVenue picked Changzhou due to skills, supply chain,…",
+   "published": "Sat, 07 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why Volkswagen is exporting more vehicles from China - Automotive News",
+   "url": "https://www.autonews.com/volkswagen/ane-vw-china-restructuring-exports-over-jvs-1102",
+   "snippet": "Volkswagen\n\n# Volkswagen targets 300,000 exports from China amid fierce competition\n\nAdd as a preferred source on Google\n\nSAIC-VW has begun exports of the redesigned Volkswagen Lamando L, a gasoline sedan currently available only in China, to Mexico.\n\nSAIC-VW has begun exporting the Lamando L gasoline sedan to Mexico from China. (SAIC-VW)\n\nWB\n\nBy\n\nWilliam Boston\n\nNovember 03, 2026 06:13 AM EST\n\n##",
+   "published": "Tue, 03 Nov 2026 11:13:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth",
+   "url": "https://www.reuters.com/commentary/breakingviews/how-stop-securonomics-killing-growth-2026-11-09",
+   "snippet": "Trade policies increasingly discriminate ⁠based on ​firms' nationality, rather ​than where products are made. The US and ​EU hope ​this will shrink China's",
+   "published": "Mon, 09 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

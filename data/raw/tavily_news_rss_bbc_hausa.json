@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Tinubu zai ƙaddamar da titin jirgin ƙasan Kaduna zuwa Kano a watan gobe",
+   "title": "Wurare 5 da Aljanu ke zama a cikin gidajenmu",
+   "url": "https://www.bbc.com/hausa/articles/cme8r8yw8rpgo?at_medium=RSS&at_campaign=rss",
+   "content": "A cikin hadisai an ambaci wasu wurare da aljanu ko shaiɗanu suke yawan zama ko taruwa, wanda a dalilinsu malaman addini ke cewa ana fama da matsaloli.",
+   "published_date": "Mon, 09 Nov 2026 14:59:23 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kotu ta wanke mutumin da ake zargi da kashe matarsa a Kano",
    "url": "https://www.bbc.co.uk/hausa/live/cqvg0g7em2z2t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin, 09/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa ake yawan sumbata a ƙasar Sifaniya?",
+   "url": "https://www.bbc.com/hausa/articles/cmwydynp57j7o?at_medium=RSS&at_campaign=rss",
+   "content": "A ƙasar Sifaniya, sumbata a bainar jama'a abu ne da aka saba gani. Ba wai sumbatar gaisuwa ta kumatu biyu kawai ba, har da ta masoya a wurare daban-daban.",
+   "published_date": "Mon, 09 Nov 2026 16:53:50 GMT",
    "score": 0.6
   },
   {
@@ -51,20 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Yadda za ku yi amfani da wayarku wajen neman rancen kuɗi daga Gwamnatin Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/ckz7xz19j45lo?at_medium=RSS&at_campaign=rss",
-   "content": "Gwamnatin Tarayya ta ƙaddamar da wani shiri da zai bai wa 'yan Najeriya damar tara kuɗi domin sayen muhimman kayayyaki kamar abinci da biyan wutar lantarki da sauran ƙananan buƙatu ta hanyar wayoyinsu.",
-   "published_date": "Sun, 08 Nov 2026 03:58:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ƴan Najeriya 5 da suka samu kujeru a majalisar dokokin Amurka",
-   "url": "https://www.bbc.com/hausa/articles/cq5ynn8753n5o?at_medium=RSS&at_campaign=rss",
-   "content": "Sakamakon zaɓen ya nuna cewa jam'iyyar Democrat ta samu kujeru fiye da jam'iyyar Republican, wadda Shugaba Donald Trump yake wakilta. A yayin zaɓen, an samu wasu abubuwa da ba a yi tsammani ba, ciki har da nasarar 'yan Najeriya da sauran Baƙaƙen fata da suka samu kujeru a majalisun dokokin Amurka.",
-   "published_date": "Sun, 08 Nov 2026 03:56:52 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -104,6 +104,20 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda za ku yi amfani da wayarku wajen neman rancen kuɗi daga Gwamnatin Najeriya",
+   "url": "https://www.bbc.com/hausa/articles/ckz7xz19j45lo?at_medium=RSS&at_campaign=rss",
+   "content": "Gwamnatin Tarayya ta ƙaddamar da wani shiri da zai bai wa 'yan Najeriya damar tara kuɗi domin sayen muhimman kayayyaki kamar abinci da biyan wutar lantarki da sauran ƙananan buƙatu ta hanyar wayoyinsu.",
+   "published_date": "Sun, 08 Nov 2026 03:58:10 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ƴan Najeriya 5 da suka samu kujeru a majalisar dokokin Amurka",
+   "url": "https://www.bbc.com/hausa/articles/cq5ynn8753n5o?at_medium=RSS&at_campaign=rss",
+   "content": "Sakamakon zaɓen ya nuna cewa jam'iyyar Democrat ta samu kujeru fiye da jam'iyyar Republican, wadda Shugaba Donald Trump yake wakilta. A yayin zaɓen, an samu wasu abubuwa da ba a yi tsammani ba, ciki har da nasarar 'yan Najeriya da sauran Baƙaƙen fata da suka samu kujeru a majalisun dokokin Amurka.",
+   "published_date": "Sun, 08 Nov 2026 03:56:52 GMT",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cq203v1lpv0ko?at_medium=RSS&at_campaign=rss",
    "content": "Duk da shahararta da kuma yadda miliyoyin mahajjata da masu Umara ke zagaye ta a kowace shekara, mutane ƙalilan ne suka samu alfarmar gane wa idanunsu abin da ke cikin wannan ɗaki mai tsarki.",
    "published_date": "Fri, 06 Nov 2026 03:57:42 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Zaɓi biyu da suka rage wa Atiku bayan soke takararsa",
-   "url": "https://www.bbc.com/hausa/articles/c6pqg0g59z2wo?at_medium=RSS&at_campaign=rss",
-   "content": "Matakin na zuwa ne a daidai lokacin da jam'iyyar ADC da ɗan takararta suke kaddamar da yaƙin neman zaɓe a jihar Sokoto.",
-   "published_date": "Fri, 06 Nov 2026 03:56:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Za mu fara yakin neman zabe gadan-gadan - Nafi'u",
-   "url": "https://www.bbc.co.uk/hausa/live/cqjdmvgymzz7t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Alhamis 05/11/2026",
-   "published_date": "",
    "score": 0.6
   }
  ],

@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "VietinBank kết nối doanh nghiệp FDI: Tìm đối tác, đón cơ hội đầu tư",
-   "url": "https://tuoitre.vn/vietinbank-ket-noi-doanh-nghiep-fdi-tim-doi-tac-don-co-hoi-dau-tu-100261109182910452.htm",
-   "content": "Vietnam Connect Forum 2026 do VietinBank tổ chức ngày 17-11 tại TP.HCM dự kiến quy tụ gần 300 đại biểu, giúp doanh nghiệp FDI cập nhật chính sách, tìm đối tác và mở rộng cơ hội hợp tác.",
-   "published_date": "11/9/2026 6:38:00 PM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
