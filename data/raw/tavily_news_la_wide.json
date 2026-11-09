@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Laos, China agree to strengthen rail links, economic corridor and AI cooperation | The Star",
-   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/05/laos-china-agree-to-strengthen-rail-links-economic-corridor-and-ai-cooperation",
-   "snippet": "The existing Laos-China Railway, which connects Vientiane with Kunming in China’s Yunnan province, began operations in December 2021 and has become an important trade route between China and Southeast Asia and beyond.\n\nAccording to figures provided by the China Railway Kunming Group in August 2026, the railway has carried more than 90 million tonnes of freight since it became operational, includin",
-   "published": "Thu, 05 Nov 2026 04:33:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Thailand pushes Laos-China rail connections as regional trade expands",
-   "url": "https://www.nationthailand.com/news/asean/40073218",
-   "snippet": "The Ministry of Transport intends to expand the double-track railway network and Thai-Chinese high-speed rail system alongside freight transfer facilities and a new railway bridge across the Mekong River.\n\nThe projects are intended to connect freight movements from Laem Chabang and Map Ta Phut ports through northeastern Thailand to Laos and China, reducing logistics costs and improving the country",
-   "published": "Sat, 07 Nov 2026 02:56:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The emerging shape of China's military reach in SE Asia - Asia Times",
-   "url": "https://asiatimes.com/2026/11/the-emerging-shape-of-chinas-military-reach-in-se-asia",
-   "snippet": "The military development has piggybacked on China’s Belt and Road Initiative (BRI). The China-Laos Railway, backed by the infrastructure-building scheme and opened in December 2021, has grown from a bilateral project into a regional logistics corridor. [...] The railway is not a military project, and insinuating as much would be hard to substantiate. But as roads, railways, energy links, commercia",
-   "published": "Tue, 03 Nov 2026 06:30:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Huaxin Brazil Cement Acquisition Update - The China-Global South Project",
-   "url": "https://chinaglobalsouth.com/2026/11/09/china-huaxin-brazil-csn-cement-acquisition",
-   "snippet": "According to Chinese state media, the new Chinese-built and funded railway between China and Laos, which was launched two months ago, is a huge success already. Rail authorities in China’s southwestern Yunnan province report ...\n\n\n\n### Brazil’s Central Bank Quadruples Yuan Holdings, Raising Chinese Hopes for Greater RMB Acceptance [...] By Luciana Magalhaes Chinese automaker BYD is launching its f",
-   "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Wang Yi Meets with Lao Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane_Ministry of Foreign Affairs of the People's Republic of China",
-   "url": "https://www.fmprc.gov.cn/mfa_eng/wjbzhd/202611/t20261108_12055562.html",
-   "snippet": "Laos is ready to unswervingly advance the building of a Laos-China community with a shared future in accordance with the consensus reached by the top leaders of the two parties and countries. Laos looks forward to making good use of the strategic dialogue mechanism between the two countries, advancing the implementation of the framework for Laos-China Economic Corridor cooperation, facilitating tr",
-   "published": "Tue, 03 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Top Chinese diplomat hosts Thai, Lao, Myanmar ministers",
-   "url": "https://www.aa.com.tr/en/asia-pacific/top-chinese-diplomat-hosts-thai-lao-myanmar-ministers/4110315",
-   "snippet": "Sihasak said Thailand was willing to strengthen coordination with China on international issues, support multilateralism, and uphold the international order centered on the UN.\n\nWang told Lao Foreign Minister Thongsavanh Phomvihane that the two sides should maintain high-level exchanges, make effective use of the China-Laos Economic Corridor Cooperation Joint Committee, and accelerate the developm",
-   "published": "Tue, 03 Nov 2026 19:07:27 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Has China’s infrastructure investment peaked? : Global Times editorial - Global Times",
-   "url": "https://www.globaltimes.cn/page/202611/1373576.shtml",
-   "snippet": "After projects such as the China-Laos Railway and the Jakarta-Bandung High-Speed Railway entered operation, China's infrastructure know-how, equipment capacity and industry standards have increasingly been recognized as international public goods.  \n  \nOnce China's underlying infrastructure logic is understood, the \"peak\" narrative collapses of its own weight as this perception is out of touch wit",
-   "published": "Wed, 04 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Attack aircraft, military vehicles visible at new China-Laos base, satellite images show | The Asahi Shimbun: Breaking News, Japan News and Analysis",
-   "url": "https://www.asahi.com/ajw/articles/photo/85937181",
-   "snippet": ">\n\narticle\n\n# Attack aircraft, military vehicles visible at new China-Laos base, satellite images show\n\nREUTERS\n\nOctober 7, 2026 at 14:22 JST\n\n Share;)\n Tweet\n\n Print;)\n\nHide Tools)\n\n Back to Article\n Zoom\n\n Photo/Illustration \n\nA satellite image shows a new China-Laos joint training facility, with a runway that is being expanded, in Ban Keun, Vientiane Province, Laos, on Sept. 30. (Vantor/Handout",
-   "published": "Thu, 05 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Diplomacy: Chinese FM Wang Yi meets Lao Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane",
-   "url": "https://news.cgtn.com/news/2026-11-03/VHJhbnNjcmlwdDkzMDk5/index.html",
-   "snippet": "Chinese Foreign Minister Wang Yi has met with Lao Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane in Beijing. Thongsavanh is in China to",
-   "published": "Wed, 04 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "la_wide",
  "_query": "Laos China railway",
  "_domains": [],

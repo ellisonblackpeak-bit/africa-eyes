@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Hon. Dr. Kisembo Ronex Tendo",
+   "url": "https://x.com/RonexKisembo/status/2119488293251559646",
+   "snippet": "Chinese companies build it, often with Chinese workers. Deals for gold, diamonds, uranium in CAR, Mali, Niger.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Western Uranium Stocks Gaining Attention As Nuclear Fuel Supply Tightens - Simply Wall St News",
+   "url": "https://simplywall.st/stocks/us/materials/nasdaq-aspi/asp-isotopes/news/western-uranium-stocks-gaining-attention-as-nuclear-fuel-sup",
+   "snippet": "Global Atomic provides direct upstream uranium exposure from a Western listed company at a time when utilities are looking beyond Russian and Chinese supply. The stock connects that theme to a financed Niger project and a modest but established zinc recycling cash engine. Future uranium margins depend on how one unresolved geopolitical and permitting pressure is ultimately addressed. [...] If that",
+   "published": "Sat, 07 Nov 2026 03:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Uranium Demand Is Effectively Doubling as New Mines Take 10 to 20 Years - Article | Crux Investor",
+   "url": "https://www.cruxinvestor.com/posts/uranium-demand-is-effectively-doubling-as-new-mines-take-10-to-20-years",
+   "snippet": "Atomic Eagle (ASX: AEU | OTCQX: AEUXF) holds a 60% interest in the Madaouela Uranium Project in Niger, alongside a 58.8 million lb JORC resource at its Muntanga Uranium Project in Zambia. Madaouela hosts a foreign estimate not compliant with the JORC Code of 116.5 million lb at 1,282 parts per million (ppm), effective July 1, 2022. It comprises 30.1 million lb measured at 1,000 ppm, 66.8 million l",
+   "published": "Wed, 04 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "It would shock you to know that we used to have uranium ...",
+   "url": "https://www.facebook.com/Safwanalghazal/posts/it-would-shock-you-to-know-that-we-used-to-have-uranium-enrichment-traces-in-nig/4885893028353217",
+   "snippet": "NIRR-1, which was built by the Chinese, was commissioned in 2004 during President Olusegun Obasanjo's administration. ... Many died of radioactive poisoning,",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Updates | African Security Analysis",
+   "url": "https://www.africansecurityanalysis.org/updates",
+   "snippet": "The ongoing confrontation between Niger and French nuclear giant Orano has escalated from a commercial dispute into a broader geopolitical battle over sovereignty and resource control. On 23 September 2025, the International Centre for Settlement of Investment Disputes (ICSID) ruled in favour of Orano, prohibiting Niger from selling uranium from the recently nationalized Somaïr mine.\n\nRead more\n\nC",
+   "published": "Wed, 04 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BREAKING: NIGER MOVES TO SCRAP FAKE COLONIAL ...",
+   "url": "https://www.facebook.com/groups/275114380263865/posts/1812685666506721",
+   "snippet": "After decades of French dominance over its uranium, Niger has declared full sovereignty over its resources. No colonial contracts, no foreign gatekeepers.",
+   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/DfY57dVFpio",
+   "snippet": "cnpc_news's profile picture\nVideo by CNPC on November 05, 2026. May be an image of one or more people, terminal and text.\ncnpc_news's profile picture\ncnpc_news's profile picture\n\n## No comments yet. [...] Photo by CNPC on November 05, 2026. May be an image of segway and text.\nPhoto by CNPC on November 05, 2026. May be an image of one or more people, plant and text.\nPhoto by CNPC on November 05, 20",
+   "published": "Fri, 06 Nov 2026 05:56:33 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_uranium",
  "_query": "Chinese uranium Niger",
  "_domains": [],

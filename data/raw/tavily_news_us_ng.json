@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "US, Nigeria Deepen Cooperation Against Sextortion, Romance Scams, Cybercrime - Trending News",
+   "url": "https://www.tvcnews.tv/us-nigeria-deepen-cooperation-against-sextortion-romance-scams-cybercrime",
+   "snippet": "Cybercrime \n\nThe United States and Nigeria have agreed to strengthen cooperation in tackling financially motivated sextortion, romance scams and other forms of transnational cybercrime following a visit by US Deputy Assistant Secretary of State for International Narcotics and Law Enforcement Affairs, Michael Gonzales, to Abuja. [...] Looking ahead, the United States and Nigeria identified stronger",
+   "published": "Mon, 02 Nov 2026 15:13:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US trade, security partnership could create opportunities in Nigeria",
+   "url": "https://www.premiumtimesng.com/features-and-interviews/923906-us-trade-security-partnership-could-create-opportunities-in-nigeria.html",
+   "snippet": "The US–Nigeria Commercial and Investment Partnership was established through a five-year memorandum signed in July 2024. Its working groups began meeting in June 2025 across agriculture, the digital economy, and infrastructure, bringing government and private-sector participants together to identify obstacles to trade and investment.\n\nThose activities predate the latest AFRICOM dialogue. The bilat",
+   "published": "Mon, 09 Nov 2026 12:52:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US, Nigeria step up war against sextortion, romance scams",
+   "url": "https://punchng.com/us-nigeria-step-up-war-against-sextortion-romance-scams",
+   "snippet": "US Deputy Assistant Secretary of State for International Narcotics and Law Enforcement Affairs, Michael Gonzales with senior officials of Nigeria's Law Enforcement Agents\n\nBy  Deborah Musa\n\nKindly share this story:\n\nThe United States and Nigeria have intensified efforts to combat sextortion, romance scams and other transnational cybercrimes.\n\nBoth countries are seeking to strengthen intelligence s",
+   "published": "Mon, 02 Nov 2026 20:27:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Consulate General Highlights Fashion’s Role in Expanding U.S.-Nigeria Commercial Ties During Lagos Fashion Week | BellaNaija",
+   "url": "https://www.bellanaija.com/2026/11/us-consulate-nigeria-lagos-fashionweek",
+   "snippet": "The U.S. Mission will continue to champion commercial ties across Nigeria’s fashion, film, music, gaming, and other creative industries, supporting U.S. businesses and augmenting bilateral trade.\n\nU.S. Consul General (right) with American-born actress and producer Osas Ighodaro at the event.\n\nU.S. Consul General (left) with founder of Maliyo Games Hugo Obi checking out fashion-themed game Kewas Bo",
+   "published": "Thu, 05 Nov 2026 09:40:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "United States (U.S.) and Nigeria Deepen Collaboration Against Sextortion, Romance Scams, and Transnational Cybercrime | africa.com",
+   "url": "https://africa.com/apo/us-and-nigeria-deepen-collaboration-against-sextortion-romance-scams-and-transnational-cybercrime",
+   "snippet": "In August, Nigeria extradited two alleged cybercriminals to the United States.  They face charges in separate financially motivated sextortion cases involving American minors who died by suicide.  Since 2022, the FBI Legal Attaché Office at U.S. Embassy Abuja has worked with the EFCC on 41 extraditions, including five completed in 2026.  That marks a sharp increase from 2012 to 2021, when our two ",
+   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S., Nigeria deepen collaboration against sextortion, cybercrime, others",
+   "url": "https://guardian.ng/news/u-s-nigeria-deepen-collaboration-against-sextortion-cybercrime-others",
+   "snippet": "Going forward, Gonzales said that the U.S. and Nigeria have opportunities for deeper law enforcement cooperation through Information-sharing, faster advancement of cyber and financial intelligence into investigations, wider public awareness of sextortion and romance scams and continued growth of Nigeria’s investigative, prosecutorial and cybercrime-reporting capabilities. [...] ### GDN DESKTOP 1\n\n",
+   "published": "Tue, 03 Nov 2026 03:00:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Who be di 14 Nigerian-Americans wey get positions afta US midterm elections - BBC News Pidgin",
+   "url": "https://www.bbc.com/pidgin/articles/ckx2qzq41nl3o",
+   "snippet": "Democrat Rep Solomon Adesanya na di Georgia state house representative for District 43 wey involve Marietta and Northwest Atlanta regions. Solomon bin win im 2022 primary race for di Georgia House of Representatives for di 43RD District wit 57% of di vote. Im later win di general election wit 56% of di vote, for 2024, im run unopposed. Im papa enta di US from Nigeria for 1970 to pursue education. ",
+   "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Erects Strict Stablecoin Wall, Demanding $11M Local Subsidiaries for US Dollar Tokens — Noticias de TradingView",
+   "url": "https://es.tradingview.com/news/financemagnates:cb59dedad094b:0-nigeria-erects-strict-stablecoin-wall-demanding-11m-local-subsidiaries-for-us-dollar-tokens",
+   "snippet": "Chainalysis estimated that Nigeria recorded $38.1 billion in crypto activity between July 2025 and June 2026, slightly below South Africa’s $39.3 billion. Nigeria also ranked third in the company’s global grassroots adoption index, which measures patterns of everyday use rather than absolute transaction volume. [...] Finance MagnatesFinance Magnates\n\n# Nigeria Erects Strict Stablecoin Wall, Demand",
+   "published": "Fri, 06 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+   "snippet": "Save\n\nTranslate\n\nChina made eleventh-hour inquiries into OPay Ltd., prompting the Nigeria-focused payments company to halt its $300 million initial public offering in New York hours after pricing it, according to people familiar with the matter. [...] Bloomberg Law\n       Bloomberg Tax\n       Bloomberg Government\n       BloombergNEF\n\n   ### Media\n\n       Bloomberg Markets\n       Bloomberg Technolo",
+   "published": "Wed, 04 Nov 2026 14:07:27 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ng",
  "_query": "US Nigeria",
  "_domains": [],

@@ -1,7 +1,49 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Africa looks to China for search, rescue know-how - Chinadaily.com.cn",
+   "url": "https://global.chinadaily.com.cn/a/202611/09/WS6af121fae4b03ebf8519b364.html",
+   "snippet": "Some people reported missing during the extreme floods between October and December 2023 in Kenya, which killed at least 174 people, have still not been found, he said.\n\nA major obstacle to effective rescue during emergencies in Kenya is the lack of research and rescue equipment, he said at the International Conference on Strengthening Search and Rescue Services in the African Region, which conclu",
+   "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese man killed in downtown Melbourne stabbing - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202611/07/WS6aeeade9e4b03ebf8519b03a.html",
+   "snippet": "China Daily PDF\n China Daily E-Paper\n China Daily Global PDF\n China Daily Global E-Paper\n\nMobile\n\n#### World\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n Diplomacy\n City Dance\n Video\n\n\n\n##### Branching across the Pacific\n\n\n\n##### A slower walkabout into Australia's heart\n\n\n\n##### Kenya's HIV fight at risk after US aid cuts\n\n[](\n\nCopyright 1994 -\n\n HOME\n CHINA\n BUSINESS\n OPINION\n WORLD\n C",
+   "published": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opposition party organiser killed in South Africa, election violence fears mount",
+   "url": "https://www.reuters.com/world/africa/opposition-party-organiser-killed-south-africa-election-violence-fears-mount-2026-11-03",
+   "snippet": "An opposition party organiser was killed in South Africa's KwaZulu-Natal province late on ​Monday, heightening fears of political violence ‌before",
+   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Anthrax outbreak in Africa's oldest national park kills dozens of hippos",
+   "url": "https://www.yahoo.com/news/world/articles/anthrax-outbreak-africas-oldest-national-151203457.html",
+   "snippet": "ABC News\n\nABC News\n\n# Anthrax outbreak in Africa's oldest national park kills dozens of hippos\n\nMORGAN WINSOR\n\n2 min read\n\nAdd Yahoo as a preferred source to see more of our stories on Google.\n\nAnthrax outbreak in Africa's oldest national park kills dozens of hippos\n\nAnthrax outbreak in Africa's oldest national park kills dozens of hippos\n\nAn anthrax outbreak in Africa's oldest national park has k",
+   "published": "Thu, 05 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Train collision kills at leas 7, injures over 100 in Egypt",
+   "url": "https://news3lv.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
+   "snippet": "President Abdel-Fattah el-Sissi said in a social media post that he ordered a prompt investigation into the crash.\n\nThe Egyptian railway system, the oldest in Africa and the Middle East, has a long history of deadly accidents, including when a train lost control while approaching the main station in Ramses, which ignited a fire that killed 25 people.\n\nAnother occurred in 2017 on the way to Alexand",
+   "published": "Sun, 08 Nov 2026 18:07:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Casualties reported after shooting in Poland’s Krakow | Gun Violence News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow",
+   "snippet": "list of 3 items\n\n list 1 of 3Three injured in third school attack in Poland in less than a week\n list 2 of 3Polish police deployed to top court after head judge suspended\n list 3 of 3Poland’s president joins protest amid constitutional crisis at top court\n\nend of list\n\nPolish police said that several people were wounded and a suspected gunman arrested following the incident.\n\nPoland’s TVN24, citin",
+   "published": "Sat, 07 Nov 2026 15:22:55 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

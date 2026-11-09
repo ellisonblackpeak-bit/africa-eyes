@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Ghana Armed Forces retool with new vehicles, ships and helicopters - Military Africa",
+   "url": "https://www.military.africa/2026/11/ghana-armed-forces-retool-with-new-vehicles-ships-and-helicopters",
+   "snippet": "The Ghana Armed Forces are considered among the most professional, experienced and capable in sub-Saharan Africa. Unlike many of its regional counterparts, Ghana has largely avoided military interference in the country’s politics since the early 1990s. As a result, the GAF has emerged as one of West Africa’s more dependable forces, perhaps best known for its substantial commitment to international",
+   "published": "Wed, 04 Nov 2026 17:55:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump says U.S. will stop sending $4 billion yearly military assistance to Israel by end of year",
+   "url": "https://www.modernghana.com/videonews/cbs/1/746804",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 03.11.2026 | CBS Trump says U.S. will stop sending $4 billion yearly military assistance to Israel by end of year |\n\n|\n\nRep.-elect Angela Gonzales-Torres on her California election win, working with moderate Democrats\n\n",
+   "published": "Wed, 04 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Iran sends warning to neighbors hosting US military bases",
+   "url": "https://www.modernghana.com/videonews/cgtn/2/746079",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 02.11.2026 | CGTN Iran sends warning to neighbors hosting US military bases |\n\n|\n\nChina's Lijian-2 rocket launches new group of satellites #coolchina\n\nChina's Lijian-2 rocket launches new group of satellites #coolchina\n",
+   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pulling the Funding: Trump, Israel and US Military Assistance",
+   "url": "https://www.modernghana.com/news/1542195/pulling-the-funding-trump-israel-and-us-military.html",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n More\n Blog\n Columnists\n Articles\n Features\n Opinions\n Editorial\n Polls\n Comments\n Hot Stories\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n# Pulling the Funding: Trump, Israel and US Military Assistance\n\nBy Binoy Kampmark\n\nFeature Article Israeli Prime Minister Benjamin Netanyahu and President Donald Trump\n\nTHU, 05 NOV 2026\n\nIsrael",
+   "published": "Thu, 05 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Law of the Streets vs. The Rule of the Gun—Why the Afienya Standoff Is Ghana’s Darkest Warning",
+   "url": "https://www.modernghana.com/news/1542180/the-law-of-the-streets-vs-the-rule-of-the-gunwhy.html",
+   "snippet": "Mandatory Body Cameras for Internal Security: All military personnel deployed on necessary domestic joint tasks (such as anti-galamsey operations) must wear operational body cameras to guarantee transparency and provide objective evidence during civilian complaints. [...] End Internal Resource Deployments: The Military High Command must systematically withdraw soldiers from civil and commercial mo",
+   "published": "Thu, 05 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Chamber of Mines donates $400K to Burma Camp redevelopment",
+   "url": "https://www.citinewsroom.com/2026/11/ghana-chamber-of-mines-donates-400k-to-burma-camp-redevelopment",
+   "snippet": "The Ghana Chamber of Mines has donated US$400000 towards the ongoing redevelopment of Burma Camp to improve accommodation for personnel of the Ghana Armed.",
+   "published": "Sun, 08 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia Rejects Claims of Deceptive Recruitment of Ghanaians",
+   "url": "https://punchng.com/russia-dismisses-military-recruitment-claims-as-ukrainian-propaganda",
+   "snippet": "By  Tosin Oyediran\n\nKindly share this story:\n\nThe Russian Embassy in Ghana has rejected allegations that Africans, including Ghanaians, are being deceptively recruited into its military, describing a billboard campaign in Accra warning against such recruitment as Ukrainian state propaganda. [...] Related News\n\n Russian drone strike kills 13 at Ukraine train station\n Time for good-faith peace deal ",
+   "published": "Fri, 06 Nov 2026 11:52:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "'I Want Justice for My Son': Ghana Mother Flies to US After Trump's Help | Firstpost Africa",
+   "url": "https://www.firstpost.com/web-show/firstpost-africa/i-want-justice-for-my-son-ghana-mother-flies-to-us-after-trumps-help-firstpost-africa-vd2283165/amp",
+   "snippet": "of becoming a medical doctor, was chased down and killed by unidentified assailants, sparking widespread outrage and intense debates over gun violence, youth safety, and immigrant welfare. As the police hunt three teenage suspects captured on surveillance footage, the Ghanaian government, led by Foreign Minister Samuel Okudzeto Ablakwa, has stepped in with vital consular and legal support. With Gy",
+   "published": "Fri, 06 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US military attacks cargo ship in the Gulf of Oman",
+   "url": "https://www.modernghana.com/amp/videonews/749901",
+   "snippet": "US military attacks cargo ship in the Gulf of Oman. ALJazeera › 08 Nov 2026. Loading video. Tap to unmute. Your browser can't play this video.",
+   "published": "Sun, 08 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US-Iran war: Diplomatic efforts continue as both sides maintain military readiness",
+   "url": "https://www.modernghana.com/videonews/aljazeera/2/746490",
+   "snippet": "US-Iran war: Diplomatic efforts continue as both sides maintain military readiness. BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV Net2TV",
+   "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_gh",
  "_query": "US Ghana military",
  "_domains": [],

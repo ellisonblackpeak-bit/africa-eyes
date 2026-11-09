@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Member states of NATO - Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Member_states_of_NATO",
-   "snippet": "The North Atlantic Treaty Organization (NATO) is an international military alliance consisting of 32 member states from Europe and North America. It was established at the signing of the North Atlantic Treaty on 4 April 1949. Of the 32 member countries, 30 are in Europe and 2 are in North America. Between 1994 and 1997, wider forums for regional cooperation between NATO and its neighbours were set",
-   "published": "Sun, 08 Nov 2026 01:37:49 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US troops return to Estonia. NATO's eastern flank is getting stronger",
-   "url": "https://defence24.com/defence-policy/us-troops-return-to-estonia-natos-eastern-flank-is-getting-stronger",
-   "snippet": "American troops have returned to Estonia following a months-long interruption in regular US military rotations. The new unit will remain in the country for nine months, ending uncertainty over Washington’s military presence on NATO’s north-eastern flank. The deployment comes after the Pentagon’s review of US forces in Europe and sends an important message: despite concerns about possible American ",
-   "published": "Fri, 06 Nov 2026 14:30:02 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "NATO allies fear Trump could pull more US troops from Europe after midterm losses - Politico",
-   "url": "https://hromadske.ua/en/world/273659-nato-allies-fear-trump-could-pull-more-us-troops-from-europe-after-midterm-losses-politico",
-   "snippet": "European NATO allies fear that a Republican defeat in Tuesday's US midterm elections could prompt President Donald Trump to intensify pressure on the alliance, potentially withdrawing thousands more American troops from Europe or cutting NATO funding, Politico reported, citing five NATO diplomats.\n\nThe concern is that a Democratic-controlled Congress could constrain Trump's domestic agenda, pushin",
-   "published": "Mon, 02 Nov 2026 17:18:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Donald Trump might be lukewarm about US forces helping ...",
-   "url": "https://www.facebook.com/skynews/posts/donald-trump-might-be-lukewarm-about-us-forces-helping-to-defend-europe-from-rus/1629586832545973",
-   "snippet": "Recon Marines support NATO U.S. Marines have deployed to Finland for NATO's Baltic Sentry enhanced vigilance activity following suspected sabotage to the Baltic",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Should we encourage the US military to withdraw from ...",
-   "url": "https://www.reddit.com/r/AskConservatives/comments/1xqqejj/should_we_encourage_the_us_military_to_withdraw",
-   "snippet": "NATO, and the US forces stationed in Europe represent 750 million Europeans being so afraid of 140 million Russians",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "European troops prepare for a postwar Ukraine mission that's fraught with challenges - ABC News",
-   "url": "https://abcnews.com/International/wireStory/european-troops-prepare-postwar-ukraine-mission-fraught-challenges-137797096",
-   "snippet": "Denmark’s Defense Intelligence Service said Putin may carry out military attacks against NATO only if he assesses NATO will not respond collectively and “especially if Russia assesses that the United  States cannot or will not support the European NATO countries in a potential war against Russia.” [...] But the European deployment will not be a NATO force, peacekeeping or ceasefire monitoring miss",
-   "published": "Tue, 03 Nov 2026 06:49:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Should Europe reduce US security dependence",
-   "url": "https://www.facebook.com/EUPerspectives/posts/for-decades-nato-and-the-united-states-military-presence-have-served-as-the-core/122202719678948910",
-   "snippet": "For decades, NATO and the United States military presence have served as the core foundation of European collective defense. Shifts in American political",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "NATO",
-   "url": "https://tavily.com/knowledge/company/DEPWNLzwKnuO",
-   "snippet": "# NATO\nID: DEPWNLzwKnuO\nWebsite: www.nato.int\nHeadquarters: Brussels, Belgium\nLinkedIn: www.linkedin.com/company/nato · 918,359 followers\nIndustry: International Affairs\nCompany type: Government Agency\nSocial profiles: www.facebook.com/nato, www.twitter.com/nato, www.crunchbase.com/organization/nato\nPhone: 32-2-707-41-11, +32 2 707 5041 [...] Description: Working for peace, security and freedom fo",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Instagram",
-   "url": "https://www.instagram.com/reel/Dfe3EBlp3Yi",
-   "snippet": "The US is a key security and defense partner for Sweden.  \n🇸🇪🇺🇸  \n  \nThis week, Swedish military leaders gathered in Washington, D.C. to strengthen our bilateral defense cooperation, advance NATO collaboration, and deepen the relationship regarding shared security challenges, from the Arctic to the transatlantic arena.  \n  \nHear from @overbefalhavaren Michael Claesson, Chief of Defense and Supreme",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

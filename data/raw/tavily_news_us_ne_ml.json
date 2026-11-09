@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc",
+   "url": "https://www.modernghana.com/videonews/france24/5/738144",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 20.10.2026 | France24 Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc |\n\n|\n\nUS midterms: Trump reacts to the Democrats’ sweeping victory\n\nUS midterms: Trump reacts to the Democrats’ sweeping victo",
+   "published": "Fri, 06 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "MNJTF Without Diplomatic Cover",
+   "url": "https://leadership.ng/mnjtf-without-diplomatic-cover",
+   "snippet": "There was also a shared understanding among the Lake Chad Basin countries that defeating the insurgency required coordinated cross-border operations and Western support. That consensus has since deteriorated considerably.\n\nFrance has been forced out of Mali, Niger, and Chad, while the United States has also lost its military foothold in Niger and Chad. [...] Share on WhatsAppShare on FacebookShare",
+   "published": "Sun, 08 Nov 2026 07:28:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Washington Should Embrace Morocco’s Atlantic Strategy - Middle East Forum",
+   "url": "https://www.meforum.org/mef-observer/washington-should-embrace-moroccos-atlantic-strategy",
+   "snippet": "Russia presents another challenge. Moscow is strengthening its military ties with Mali, Niger, and Burkina Faso. Russia’s October 30 veto on Western Sahara also showed that Moscow can challenge Washington on an issue central to Moroccan foreign policy. Morocco may therefore become an even more valuable bridge into the Sahel, where Western influence has waned. [...] These are not isolated commercia",
+   "published": "Fri, 06 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Arms fair in Mali: Why representatives from Russia, the US and Türkiye are coming to Bamex in Bamako • Table.Briefings",
+   "url": "https://table.media/en/security/feature/arms-fair-in-mali-why-representatives-from-russia-the-us-and-turkey-are-coming-to-bamex-in-bamako",
+   "snippet": "Sahel Turkey USA Arms exports Mali Iran Russia Defense industry Armor Military Defense industry Geopolitics Security Foreign policy Security policy Trade The company Defense Exports Export Drones Diplomacy Defense policy\n\nShare article:\n\nRecipients need a subscription to read\n\nShare on Bluesky   Share on X   Share via email\n\nThe recording could not be played. Please try again.\n\nAI-generated voice\n",
+   "published": "Mon, 09 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu offers condolences to Niger leader over father's death | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/prezident-tinubu-visloviv-spivchuttia-lideru-nigeru-cherez-smert-batka-premium-times-nigeria",
+   "snippet": "## Strained relations between the countries\n\nThe condolences came amid strained diplomatic relations between Nigeria and Niger following the military coup in Niger in July 2023, which removed the civilian government. In January 2025, Niger, Mali and Burkina Faso withdrew from the Economic Community of West African States. [...] Tiani has repeatedly accused Nigeria of conspiring with France to dest",
+   "published": "Sun, 08 Nov 2026 08:53:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nine out of ten crimes against journalists go unpunished: Unesco report - RFI",
+   "url": "https://www.rfi.fr/en/international/20261102-nine-out-of-ten-crimes-against-journalists-go-unpunished-unesco-report",
+   "snippet": "\"In the Sahel, journalists are being taken to the front line, supposedly to fight terrorists. Others are accused of being terrorists themselves. In 2026, Burkina Faso slipped to 110th place, Mali to 121st and Niger to 120th, having fallen 37 places,\" Yao Noël, president of the Union of African Free Press Journalists (UJPLA) told RFI.\n\nGlobal press freedom in 'deplorable' state, journalism federati",
+   "published": "Mon, 02 Nov 2026 15:33:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Police Rescue Nigerian Woman Sold For N770,000 In Mali",
+   "url": "https://newtelegraphng.com/police-rescue-nigerian-woman-sold-for-n770000-in-mali",
+   "snippet": "The Nigeria Police Force has rescued a 21-yearold woman trafficked from Nasarawa State to Mali, where she was allegedly sold for N770,000.",
+   "published": "Thu, 05 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ne_ml",
  "_query": "US Niger Mali",
  "_domains": [],

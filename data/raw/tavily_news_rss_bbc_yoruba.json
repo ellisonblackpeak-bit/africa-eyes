@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Wo ọkùnrin ọmọ ijọ́ Ajẹ́rìí-Jehofa tó kú torí ó kọ̀ láti gba ẹ̀jẹ̀ àmọ́ lẹ́yìn ọjọ́ díẹ̀, ìjọ́ yí òfin mágbẹ̀jẹ̀ padà",
+   "url": "https://www.bbc.com/yoruba/articles/cmqjnjz7nyr9o?at_medium=RSS&at_campaign=rss",
+   "content": "Ofin ijọ Ajẹrii- Jehofa ti yipada lori ilana gbigba ẹjẹ, amọṣa o ti pẹju fun arakunrin naa. Lẹyin ọjọ mẹtalelogun to ku nitori aifẹgbẹjẹ nitori ofin ijọ naa ni ijọ yi ofin ọ̀hun pada",
+   "published_date": "Mon, 09 Nov 2026 13:00:53 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ètò ìsìnkú Toluwanisings ń lọ lọ́wọ́ nílùú Ibadan",
    "url": "https://www.bbc.com/yoruba/articles/c39wzwl8ke0ko?at_medium=RSS&at_campaign=rss",
    "content": "Bi ẹ ko ba gbagbe, ọjọ kẹrinla, oṣu Kẹwaa, ọdun 2026 ni Toluwanisings jade laye, nigba ti awọn mọlẹbi rẹ sọ pe niṣe lo deedee ṣubu lulẹ.",
    "published_date": "Mon, 09 Nov 2026 09:23:25 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kò ṣe é má gbọ̀ ọ́",
+   "url": "https://www.bbc.com/yoruba/articles/c87e81lzqqvo?at_medium=RSS&at_campaign=rss",
+   "content": "Àkójọpọ̀ ìròyìn káàkiri àgbáyé tí kò ṣe è má gbọ̀ ọ́",
+   "published_date": "Mon, 09 Nov 2026 13:10:45 GMT",
    "score": 0.6
   },
   {
@@ -97,13 +111,6 @@
    "url": "https://www.bbc.com/yoruba/articles/c6y433ezreyno?at_medium=RSS&at_campaign=rss",
    "content": "Adajọ Joyce Abdulmalik, kọ alaye tawọn eeyan naa ṣe pe awọn ologun fipa mu awọn jẹwọ ẹṣẹ ninu fidio ti won ti gba ohùn ẹnu awọn kalẹ lori ẹsun naa ni.",
    "published_date": "Fri, 06 Nov 2026 13:50:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kò ṣe é má gbọ̀ ọ́",
-   "url": "https://www.bbc.com/yoruba/articles/c87e81lzqqvo?at_medium=RSS&at_campaign=rss",
-   "content": "Àkójọpọ̀ ìròyìn káàkiri àgbáyé tí kò ṣe è má gbọ̀ ọ́",
-   "published_date": "Fri, 06 Nov 2026 13:08:26 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/yoruba/articles/cm86znjqp8ddo?at_medium=RSS&at_campaign=rss",
    "content": "Yatọ si ibẹru ajakalẹ arun, awọn araalu naa ni awọn ko ri iṣẹ ṣe mọ lagbegbe ti baaluu naa jabọ si .",
    "published_date": "Tue, 03 Nov 2026 07:53:09 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Lẹ́yìn wákàtì díẹ̀ tí ọkọ kú nípìńlẹ̀ Ogun, ìyàwó rẹ̀ náà jáde láyé",
-   "url": "https://www.bbc.com/yoruba/articles/c933x0nngxddo?at_medium=RSS&at_campaign=rss",
-   "content": "Iṣẹlẹ yii waye lọjọ Ẹti, ọgbọnjọ oṣu Kẹwaa ọdun 2026, niluu Ikosa, Odogbolu, nipinlẹ Ogun.",
-   "published_date": "Tue, 03 Nov 2026 06:49:29 GMT",
    "score": 0.6
   }
  ],

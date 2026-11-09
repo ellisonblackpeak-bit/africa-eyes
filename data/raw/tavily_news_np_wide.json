@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "India secures 4,700MW in Nepal, but little progress on projects",
-   "url": "https://kathmandupost.com/money/2026/11/05/india-secures-4-700mw-in-nepal-but-little-progress-on-projects",
-   "snippet": "After the agreement with China Three Gorges International was terminated, the government had presented both projects for investment at the Investment Summit in March 2019. NHPC has already submitted the detailed project reports, which are currently being studied by the Investment Board.\n\nBoard spokesperson Thapa said negotiations for project development agreements were underway. [...] The provisio",
-   "published": "Thu, 05 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Case for a Chinese Debt-Pause Initiative - The China-Global South Project",
-   "url": "https://chinaglobalsouth.com/analysis/china-climate-debt-relief-global-south",
-   "snippet": "The recent floods in Nepal are the latest reminder of the growing human and economic toll of climate-related disasters. Beyond Nepal, there have been numerous such incidents of climate shocks experienced by China’s partners in the Global South across Africa and Latin America as well. [...] China has become a major provider of debt relief to developing countries, most often by extending the maturit",
-   "published": "Thu, 05 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Remarks by Hon. Mr Shisir Khanal Minister for Foreign Affairs of Nepal- Brand Nepal: National Assets, Global Narratives and Strategic Opportunities Project Report Dissemination and Policy Dialogue | Ministry Of Foreign Affairs",
-   "url": "https://mofa.gov.np/content/1917/remarks-by-hon--mr-shisir-khanal-minister",
-   "snippet": "### Response by the Spokesperson of the Ministry of Foreign Affairs on the celebration of the 70th anniversary of Nepal–China diplomatic relations and Nepal’s commitment to the One China Principle\n\n### २०८२ मंसिर महिनामा परराष्ट्र मन्त्रालय र अन्तर्गतका विभागबाट सम्पादित प्रमुख कार्यहरू\n\n### Press Release: Nepal Expresses Gratitude to Qatar for Amiri Amnesty\n\n### Press Release: Handover of Two Ele",
-   "published": "Thu, 05 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "AMDA Emergency Relief #2: Flash Floods in Nepal (2 November 2026) - Nepal | ReliefWeb",
-   "url": "https://reliefweb.int/report/nepal/amda-emergency-relief-2-flash-floods-nepal-2-november-2026",
-   "snippet": "Following severe flooding and landslides near the Nepal-China border on 26 August 2026, AMDA launched emergency relief activities in Nepal. AMDA Nepal took the lead in assessing local needs and providing medical assistance. Although the project had to overcome challenges in logistics due to the severity of the disaster, AMDA has been constantly trying to meet humanitarian needs on the ground. [...",
-   "published": "Tue, 03 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Other Asian Giant: How India Could Build an Alternative to Chinese Power - Australian Institute of International Affairs",
-   "url": "https://www.internationalaffairs.org.au/australianoutlook/the-other-asian-giant-how-india-could-build-an-alternative-to-chinese-power",
-   "snippet": "India’s alternative to Chinese power remains a proposition under construction. It will be persuasive if neighbours gain reliable access to markets and industries gain credible options when supplies are disrupted. The Nepal–Bangladesh transaction shows what this can look like on a small scale. Expanding that logic would allow India to shape Asia’s future while giving other countries greater control",
-   "published": "Tue, 03 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China’s new wind, solar project registrations slow down in Sept | Solar Power News | Renewables Now",
-   "url": "https://renewablesnow.com/news/chinas-new-wind-solar-project-registrations-slow-down-in-sept-1304484",
-   "snippet": "arrow\n\n1304503\n\n###### RWE brings live 60-MW wind farm at German open-cast mine\n\naddedNov 6, 2026\n\n1304498\n\n###### RadianX raises USD 9m to make perovskite modules for sensors, devices\n\naddedNov 6, 2026\n\n1304470\n\n###### SolaX, Avik Energy Tech to partner on 100 MWh of Croatian BESS\n\naddedNov 6, 2026\n\nlogo ren\n\n###### Latest in China\n\narrow\n\n1304468\n\n###### China Datang files USD 2bn green methanol",
-   "published": "Fri, 06 Nov 2026 10:53:11 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese investors back $16.3bn African processing projects — SCMP | UA.NEWS",
-   "url": "https://ua.news/en/dovkolo-svitu/kitaiski-investori-pidtrimali-pererobni-proiekti-v-afritsi-na-16-3-mlrd-south-china-morning-post",
-   "snippet": "The study covers China’s commitments under an action plan agreed following the 2024 Forum on China-Africa Cooperation summit. As of June, 32 mining, exploration and deposit development projects with total investment of $41.2 billion had been recorded in 15 African countries. [...] Chinese investors have backed 19 processing, refining and mineral-based manufacturing projects in Africa with a total ",
-   "published": "Sat, 07 Nov 2026 10:07:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Inside Xi’s boring war: high in Himalayas, Beijing and Delhi dig in",
-   "url": "https://www.thetimes.com/world/asia/article/india-china-border-railways-roads-tunnels-nq9509lg9",
-   "snippet": "India is building railways and roads in a region where the countries have often clashed, but China has an advantage: it makes the crucial tunnel machines.",
-   "published": "Fri, 06 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "np_wide",
  "_query": "Nepal China project",
  "_domains": [],

@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "South Korean defense stocks rode a wave of global ...",
-   "url": "https://www.facebook.com/cnbc/posts/south-korean-defense-stocks-rode-a-wave-of-global-rearmament-over-the-past-two-y/1530857785582276",
-   "snippet": "After Russia launched its full-scale invasion of Ukraine, South Korea unexpectedly emerged as one of the key players in Europe's defense market. According",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea and Türkiye. Two defence powers join forces",
-   "url": "https://defence24.com/defence-policy/south-korea-and-turkiye-two-defence-powers-join-forces",
-   "snippet": "South Korea also maintains extensive military cooperation with the United States, while Türkiye possesses one of NATO’s largest armed forces. Both countries have experience in producing military equipment on a large scale, developing domestic technologies and adapting weapons systems to the requirements of international customers. At the same time, they can not only cooperate but also compete in t",
-   "published": "Sat, 07 Nov 2026 09:00:01 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Poland’s 180 South Korean-Made K2 Black Panthers Bolster NATO’s Eastern Flank - Defence Security Asia",
-   "url": "https://defencesecurityasia.com/en/poland-k2-black-panther-nato-eastern-flank",
-   "snippet": "For Indo-Pacific security observers, the Polish case demonstrates how South Korean defence production can influence European force posture through export availability and industrial cooperation, connecting an Asian manufacturing base to NATO deterrence without implying that procurement automatically changes formal alliance commitments. [...] The K2’s breakthrough therefore exposes a wider defence ",
-   "published": "Thu, 05 Nov 2026 14:42:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Should European countries keep buying South Korean ...",
-   "url": "https://www.quora.com/Should-European-countries-keep-buying-South-Korean-tanks-and-artillery-as-drones-become-more-common-on-the-battlefield",
-   "snippet": "European countries increasingly buying military equipment from South Korea? For frontline combat drones artillery and air defenses are priority targets. Their",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Korean arms makers face mounting challenges as Ukraine ...",
-   "url": "https://www.reddit.com/r/worldnews/comments/1xmjpma/korean_arms_makers_face_mounting_challenges_as",
-   "snippet": "South Korea's defense industry faces slowing profits and mounting risks as EU SAFE rules favor local suppliers, LIG D&A confronts a bribery case and Hanwha",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Nordic Defence Alliance Pushes for Unified Regional ...",
-   "url": "https://www.instagram.com/p/Dfgp5qFFBJn",
-   "snippet": "This research examines the opportunities and vulnerabilities surrounding a potential “Korea–NATO Defense Industry Partnership 2.0”, as South Korean defence",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Türkiye and South Korea are expanding co-operation in ...",
-   "url": "https://www.facebook.com/trtworld/posts/t%C3%BCrkiye-and-south-korea-are-expanding-co-operation-in-defence-clean-energy-and-t/1629872335841668",
-   "snippet": "Türkiye and South Korea are expanding co-operation in defence, clean energy and technology. Agreements signed in Seoul include plans for a joint energy",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "south korea, turkey to pursue joint defence exports to third ...",
-   "url": "https://x.com/CGTNEurope/status/2117544157702922288",
-   "snippet": "SOUTH KOREA PRESIDENT LEE: SOUTH KOREA, TURKEY TO PURSUE JOINT DEFENCE EXPORTS TO THIRD COUNTRIES.",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea: Export Nation or Ecosystem Power?",
-   "url": "https://www.csis.org/analysis/south-korea-export-nation-or-ecosystem-power",
-   "snippet": "Because of their intertwined relationship, the effectiveness of U.S. and South Korean economic defense tools, such as export controls, depends on close alignment and coordination. Importantly, this report argues that the United States has a stake in South Korea’s evolution as a technology partner and an ecosystem power. [...] assets in all three areas. The challenge is to connect domestic economic",
-   "published": "Thu, 05 Nov 2026 12:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_kr",
  "_query": "Europe South Korea defence",
  "_domains": [],

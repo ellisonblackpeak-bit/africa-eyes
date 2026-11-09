@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nov 5, 2021 At least 69 dead in west Niger jihadist attack.",
+   "url": "https://www.facebook.com/munchie.keeton/posts/nov-5-2021at-least-69-dead-in-west-niger-jihadist-attack/4577447912471142",
+   "snippet": "The defence ministry of Niger Republic blamed the attåck on the EIGS group, an Islamic State affiliate, in a statement late on Friday. Heavily armed jihadists",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State",
+   "url": "https://tavily.com/knowledge/company/XEqUY5eSkFNa",
+   "snippet": "# Syarif Hidayatullah Islamic State University Jakarta\nID: XEqUY5eSkFNa\nWebsite: www.uinjkt.ac.id/id\nLinkedIn: www.linkedin.com/company/syarif-hidayatullah-islamic-state-university-jakarta · 17 followers\nIndustry: Human Resources Services\nCompany type: Educational\nSocial profiles: www.facebook.com/uinjktofficial, www.twitter.com/uinjktofficial, www.instagram.com/uinjktofficial, www.youtube.com/@ui",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "JNIM is major al-Qaeda aligned militant umbrella coalition ...",
+   "url": "https://www.facebook.com/61565445220260/videos/-jnim-is-major-al-qaeda-aligned-militant-umbrella-coalition-that-exerts-a-domina/1651233140027361",
+   "snippet": "JNIM is engaged in a bitter turf and ideological war with its main jihadist rival, the Islamic State – Sahel Province (ISGS/ISSP), which also operates across",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "EIGS",
+   "url": "https://tavily.com/knowledge/company/vFZhEUhC6gnQ",
+   "snippet": "# eiGS\nID: vFZhEUhC6gnQ\nWebsite: www.eigs.biz\nHeadquarters: Marseille, France\nLinkedIn: www.linkedin.com/company/eigs · 0 followers\nIndustry: IT Services and IT Consulting\nDescription: eiGS is a company that provides virtual office services, infogérance, site creation, and software development. They offer customized software solutions.\n\n## Products and services\nKeywords: technology/software develo",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State",
+   "url": "https://tavily.com/knowledge/company/uqHoEivpFWAO",
+   "snippet": "# SUPERMUN Club Sunan Ampel Islamic State University\nID: uqHoEivpFWAO\nHeadquarters: Surabaya, Jawa Timur, Indonesia\nLinkedIn: www.linkedin.com/company/supermun-club-uinsa · 48 followers\nIndustry: Community Services\nCompany type: Partnership\nFounded: 2022 [...] ## Headcount\n- Now: 8 · +4 yearly (100%) · +1 quarterly · 0 monthly\n  - South Eastern Asia: 4\n  - Eastern Europe: 0\n  - Latin America: 0\n  ",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State",
+   "url": "https://tavily.com/knowledge/company/l4YsiQYbu1Wm",
+   "snippet": "# Islamic State University of Ar-Raniry\nID: l4YsiQYbu1Wm\nWebsite: www.ar-raniry.ac.id\nHeadquarters: Banda Aceh, Aceh, Indonesia\nLinkedIn: www.linkedin.com/company/islamic-state-university-of-ar-raniry · 40 followers\nIndustry: Higher Education\nIndustry codes: SIC 82, 822, NAICS 61, 611\nCompany type: Educational\nFounded: 1960 [...] ## Products and services\nKeywords: science_and_education/education\n\n",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Kontaktstudium - ZFW Uni Hamburg",
+   "url": "https://www.zfw.uni-hamburg.de/kontaktstudium/veranstaltungsverzeichnis-wintersemester/veranstaltungsverzeichnis-kontaktstudium-web.pdf",
+   "snippet": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106 Asien-Afrika-Wissenschaften . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118 Religionen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134 Fakultät für Mathematik, Informatik und Naturwissenschaften B",
+   "published": "Thu, 05 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Issuu",
+   "url": "https://issuu.com/thisdaylive/docs/tuesday_3rd_november_2026",
+   "snippet": "Resources\n\nDive into our extensive resources on the topic that interests you. It's like a masterclass to be explored at your own pace.\n\nTurn static files into dynamic content formats.\n\n# TUESDAY 3RD NOVEMBER 2026\n\nCreate once,share everywhere.\n\nIssuu turns PDFs and other files into interactive flipbooks and engaging content for every channel.\n\n### Company\n\n### Issuu Platform\n\n### Resources [...] C",
+   "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Campus Tournament Series featuring Fortnite : Office of Student Life",
+   "url": "https://studentlife.osu.edu/Events.aspx?y=2026&mo=11&day=15&e=83943&title=campus-tournament-series-featuring-fortnite",
+   "snippet": "### Accommodations\n\nIf you require an accommodation such as live captioning or interpretation to participate in this event,\nplease contact Esports at esports@osu.edu or 614-688-2485.\nRequests made one week in advance of the event will generally allow us to provide seamless access, but\nthe university will make every effort to meet requests made after this date.\n\n### Sensory Notice\n\n## Brought to yo",
+   "published": "Sat, 07 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_eigs",
  "_query": "EIGS Islamic State Sahel",
  "_domains": [],

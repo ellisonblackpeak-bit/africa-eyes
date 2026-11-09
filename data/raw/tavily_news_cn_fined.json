@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Indonesian court fines Chinese smelter over illegal Caesium-137 waste disposal | Indonesia Business Post",
+   "url": "https://indonesiabusinesspost.com/7766/environment/indonesian-court-fines-chinese-smelter-over-illegal-caesium-137-waste-disposal",
+   "snippet": "Indonesia's Serang District Court has fined PT Peter Metal Technology (PMT), a Chinese-owned metal smelting company, Rp2 billion (US$110,400) for illegally transferring hazardous industrial waste containing radioactive Caesium-137 (Cs-137) to an unauthorized third party in Banten. [...] The ruling followed a separate verdict on November 3, 2026 in which the court sentenced the company's Chinese di",
+   "published": "Fri, 06 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's Breo founder Ma Xuejun fined 11.84 million yuan for stock manipulation, resigns all posts same day — BigGo Finance",
+   "url": "https://finance.biggo.com/news/333a8be6-16e4-4e74-9c95-a418bfcab280",
+   "snippet": "In its announcements, Breo said the penalty concerns the personal conduct of the controlling shareholder and actual controller and is unrelated to the company's production, operations or business activities, and that its operations remain normal. [...] root cause of the company's losses lies more in its asset-heavy direct-sales model and rigid cost structure: with demand fluctuating and traffic sh",
+   "published": "Thu, 05 Nov 2026 12:05:40 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ex-China Eastern Chairman Sentenced to 14 Years for Bribery - Caixin Global",
+   "url": "https://www.caixinglobal.com/2026-11-04/ex-china-eastern-chairman-sentenced-to-14-years-for-bribery-102500972.html",
+   "snippet": "The Shenyang Intermediate People’s Court on Tuesday handed down the sentence and fined Liu 4 million yuan, according to a statement published on the Supreme People’s Court website. The court also ordered confiscation of all illicit gains.\n\nloadingImg\n\nYou've accessed an article available only to subscribers\n\nSubscribe today for just $.99.\n\nVIEW OPTIONS\n\nUnlock exclusive discounts   with a Caixin g",
+   "published": "Wed, 04 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korean banks fined record $277 million over Hong Kong-linked ELS mis-selling",
+   "url": "https://www.koreajoongangdaily.com/business/banks-brokerages-hit-with-record-277-million-in-fines-over-hong-kongtied-equitylinked-securities/12955961",
+   "snippet": "The ELS products are structured derivatives linked to the H-index, which tracks major Chinese companies listed on the Hong Kong Stock Exchange. They promise investors predetermined returns as long as the underlying index does not fall below a certain threshold before maturity. However, a sharp decline in the H-index after its surge in 2021 left many investors facing substantial losses. [...] YONHA",
+   "published": "Wed, 04 Nov 2026 10:14:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's Temu, JD.com revamp business models amid tariff headwinds - Nikkei Asia",
+   "url": "https://asia.nikkei.com/business/retail/china-s-temu-jd.com-revamp-business-models-amid-tariff-headwinds",
+   "snippet": "Trade war#### Chinese door-to-door logistics networks grow in US to counter trade war\n\n  Chinese door-to-door logistics networks grow in US to counter trade war\n\n Technology#### EU fines Temu $230m over illegal product sales\n\n  EU fines Temu $230m over illegal product sales\n\n Retail#### Temu, Shein suspend sales as Turkey scraps online duty-free trade\n\n  Temu, Shein suspend sales as Turkey scraps ",
+   "published": "Tue, 03 Nov 2026 21:38:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tiger Brokers targets Hong Kong growth as Beijing curbs overseas stock trading | South China Morning Post",
+   "url": "https://www.scmp.com/business/companies/article/3373556/tiger-brokers-targets-hong-kong-growth-beijing-curbs-overseas-stock-trading",
+   "snippet": "Advertisement\n\nFinancial regulation\n\nBusinessCompanies\n\n# Tiger Brokers targets Hong Kong growth as Beijing curbs overseas stock trading\n\nThe brokerage plans to build on strong client growth in the city after mainland regulators fined it US$61 million earlier this year\n\n2-MIN READ2-MIN\n\nListen\n\nTiger Brokers (Hong Kong) promotional event at iSquare, in Tsim Sha Tsui, Hong Kong. Photo: Handout\n\nZoe",
+   "published": "Sat, 07 Nov 2026 01:00:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FINRA Fines Webull $4.2M Over AML, Compliance Failures",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/finra-fines-webull-4-2m-170721114.html",
+   "snippet": "The firm is also under increased scrutiny from Congress; last month, the House Select Committee on China released a report alleging the firm posed a national security threat to U.S. investors. [...] Khanna said that \"custodians of Americans' financial data and savings should strive for transparency with the customers they serve. Webull should be forthright about its connections to the (People's Re",
+   "published": "Fri, 06 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China calls Nvidia CEO Jensen Huang spy plot claims a smear",
+   "url": "https://spectrumlocalnews.com/us/snplus/international/2026/11/09/nvidia-jensen-huang-china-spy-plot",
+   "snippet": "Nvidia is one of the world's most valuable publicly traded companies, alongside Apple and Microsoft. Its sales of computer chips to China have at times been targeted by U.S. regulators seeking to limit Beijing's access to such technology. [...] Beijing earlier had dismissed The New York Times report saying Huang had developed a close relationship with a Chinese citizen named Alice Huang, who ran a",
+   "published": "Mon, 09 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_fined",
  "_query": "Chinese company fined",
  "_domains": [],

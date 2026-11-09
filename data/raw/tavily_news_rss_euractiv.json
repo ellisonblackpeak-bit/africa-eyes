@@ -2,9 +2,37 @@
  "success": true,
  "results": [
   {
+   "title": "Brussels warns richer EU members not to miss climate targets",
+   "url": "https://www.rapporteur.com/news/brussels-warns-richer-eu-members-not-to-miss-climate-targets/",
+   "content": "Europe's wealthier countries are not delivering required emission cuts in transport, housing, and farming",
+   "published_date": "Mon, 09 Nov 2026 13:15:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Germany on track for first female president",
+   "url": "https://www.rapporteur.com/news/germany-set-to-get-first-female-federal-president/",
+   "content": "After weeks of growing pressure within his own party, Merz backs CSU politician Ilse Aigner",
+   "published_date": "Mon, 09 Nov 2026 12:12:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU cracks down on dark patterns in digital fairness push",
+   "url": "https://www.rapporteur.com/news/eu-cracks-down-on-dark-patterns-in-digital-fairness-push/",
+   "content": "Draft of Digital Fairness Act targets deceptive online features that trick consumers",
+   "published_date": "Mon, 09 Nov 2026 12:10:25 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Orbán’s brother reportedly linked to Hungarian police raids",
+   "url": "https://www.rapporteur.com/news/orbans-brother-reportedly-linked-to-hungarian-police-raids/",
+   "content": "Péter Magyar, Hungary's prime minister, said Áron Orbán had been detained",
+   "published_date": "Mon, 09 Nov 2026 11:35:46 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Ireland: Ukraine and EU budget debates are linked",
    "url": "https://www.rapporteur.com/news/ireland-ukraine-and-eu-budget-debates-are-linked/",
-   "content": "Dublin says ‘likely landing zone’ to plug Kyiv's budget hole would involve issuance of more common debt",
+   "content": "Dublin says ‘likely landing zone’ to plug Kyiv's budget hole will involve issuance of more common debt",
    "published_date": "Mon, 09 Nov 2026 11:06:09 +0000",
    "score": 0.6
   },
@@ -181,34 +209,6 @@
    "url": "https://www.rapporteur.com/news/commission-opens-roaming-talks-with-western-balkans-countries/",
    "content": "Move welcomed by travellers also carries political significance",
    "published_date": "Sat, 07 Nov 2026 10:33:28 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "A tale of two bubbles",
-   "url": "https://www.rapporteur.com/news/a-tale-of-two-bubbles/",
-   "content": "The AI bubble will devastate Europe when it bursts. Why is Brussels inflating it?",
-   "published_date": "Sat, 07 Nov 2026 07:00:12 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Dutch, Spanish candidates will vie to succeed ECB’s Lagarde",
-   "url": "https://www.rapporteur.com/news/dutch-spanish-candidates-will-vie-to-succeed-ecbs-lagarde/",
-   "content": "EU leaders are aiming to agree on Lagarde's successor by December, potentially as part of a wider ECB leadership shake-up",
-   "published_date": "Fri, 06 Nov 2026 17:53:12 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Editors’ Choice: Less is now more",
-   "url": "https://www.rapporteur.com/news/editors-choice-less-is-now-more/",
-   "content": "The Friday edition of our PM newsletter looks at the week that was in European politics and policy",
-   "published_date": "Fri, 06 Nov 2026 16:58:46 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ireland suspects ‘coordinated’ campaign as Europe bomb hoaxes widen",
-   "url": "https://www.rapporteur.com/news/ireland-suspects-co-ordinated-campaign-as-europe-bomb-hoaxes-widen/",
-   "content": "Dozens of flights disrupted across Europe as authorities struggle to trace those behind the false alarms",
-   "published_date": "Fri, 06 Nov 2026 16:42:40 +0000",
    "score": 0.6
   }
  ],
