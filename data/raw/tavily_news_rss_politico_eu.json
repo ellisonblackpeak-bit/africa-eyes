@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Kraków shooter dies in hospital",
+   "url": "https://www.politico.eu/article/krakow-shooter-dies-in-hospital/",
+   "content": "Authorities are still investigating the 24-year-old's motive for the mass shooting that killed at least 6 people.",
+   "published_date": "Mon, 09 Nov 2026 08:47:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Can Andy Burnham deliver his vision?",
+   "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-andy-burnham-deliver-his-vision/",
+   "content": "Andy Burnham has a vision but with a mountain to climb – where is his premiership heading? With the 10-year plan, controversial welfare reforms and a UK-EU summit on the horizon, can the prime minister turn his political ambition into real change? In a special episode, Sam Coates and Anne McElvoy are joined by Paul […]",
+   "published_date": "Mon, 09 Nov 2026 08:19:01 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Le Pen’s plan to end EU diplomacy",
    "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/le-pens-plan-to-end-eu-diplomacy/",
    "content": "All eyes are once again on Ukraine this week, as a fresh round of diplomatic talks puts Europe’s future in the balance. The continent’s focus will largely be on Ukraine as trilateral talks among the U.S., Kyiv and Moscow happen in Abu Dhabi. The stakes are high, as President Donald Trump’s promise of a “big, […]",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/wirecard-fugitive-jan-marsalek-claimed-he-toppled-sebastian-kurz-in-messages-to-russian-spy/",
    "content": "Jan Marsalek said he was involved in an operation that had \"successfully toppled\" Sebastian Kurz in 2021, in messages to a convicted Russian spy.",
    "published_date": "Sun, 08 Nov 2026 16:57:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU countries still can’t get it together on AI",
-   "url": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
-   "content": "Sixteen countries haven’t yet appointed AI safety captains, and many missed an important deadline on data centers.",
-   "published_date": "Sun, 08 Nov 2026 15:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Europe will be represented in Abu Dhabi talks on Ukraine, French foreign minister says",
-   "url": "https://www.politico.eu/article/europe-will-be-represented-in-abu-dhabi-talks-on-ukraine-french-foreign-minister-jean-noel-barrot-says/",
-   "content": "Jean-Noël Barrot said \"Europeans will be well represented\" in the U.S.-brokered talks, but did not say who would make the trip to Abu Dhabi.",
-   "published_date": "Sun, 08 Nov 2026 14:03:28 +0000",
    "score": 0.6
   }
  ],

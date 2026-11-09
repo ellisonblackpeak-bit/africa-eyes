@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Website quảng bá du lịch Việt Nam vượt Thái Lan về số lượt truy cập",
-   "url": "https://tuoitre.vn/website-quang-ba-du-lich-viet-nam-vuot-thai-lan-ve-so-luot-truy-cap-100261109102349631.htm",
-   "content": "Với lượng truy cập trong tháng 10-2026 tăng 19,4% so với tháng trước, website quảng bá du lịch quốc gia vietnam.travel đã vượt qua website du lịch Thái Lan, vươn lên vị trí thứ 2 Đông Nam Á.",
-   "published_date": "11/9/2026 10:55:00 AM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

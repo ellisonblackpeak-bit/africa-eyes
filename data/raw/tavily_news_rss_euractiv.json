@@ -2,6 +2,48 @@
  "success": true,
  "results": [
   {
+   "title": "FIREPOWER: Defence Equity Facility 2.0 incoming",
+   "url": "https://www.rapporteur.com/news/firepower-defence-equity-facility-2-0-incoming/",
+   "content": "In today's edition: Swedish industry, Finland, Mélenchon",
+   "published_date": "Mon, 09 Nov 2026 07:53:41 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "THE HACK: EU leaders to talk AI challenges",
+   "url": "https://www.rapporteur.com/news/the-hack-eu-leaders-to-talk-ai-challenges/",
+   "content": "In today's edition: CAIDA, TikTok algorithm, Polish Kids Act",
+   "published_date": "Mon, 09 Nov 2026 07:47:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "VOLTAGE: COP31 kick-off",
+   "url": "https://www.rapporteur.com/news/voltage-cop31-kick-off/",
+   "content": "In today's edition: ETS, High Seas Treaty, UK–EU linkage",
+   "published_date": "Mon, 09 Nov 2026 07:42:38 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIRST AID: Swiss pharma warns over US tariff threat",
+   "url": "https://www.rapporteur.com/news/first-aid-swiss-pharma-warns-over-us-tariff-threat/",
+   "content": "In today's edition: week ahead, critical medicines, COP31",
+   "published_date": "Mon, 09 Nov 2026 07:34:38 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "HARVEST: GI plan gathers pace",
+   "url": "https://www.rapporteur.com/news/harvest-gi-plan-gathers-pace/",
+   "content": "In today's edition: olive oil, EU budget, week ahead",
+   "published_date": "Mon, 09 Nov 2026 07:29:19 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU budget Plan B",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-eu-budget-plan-b/",
+   "content": "Also, in Monday’s edition: Abu Dhabi, E-who?",
+   "published_date": "Mon, 09 Nov 2026 07:00:41 +0000",
+   "score": 0.6
+  },
+  {
    "title": "INTERVIEW: Why shipping lines are threatening to shun EU ports",
    "url": "https://www.rapporteur.com/news/interview-why-shipping-lines-are-threatening-to-shun-eu-ports/",
    "content": "Cargo lines want to exempt transhipments from EU carbon pricing, World Shipping Council lobbyist Simon Bergulf explained",
@@ -135,7 +177,7 @@
    "score": 0.6
   },
   {
-   "title": "Ireland suspects ‘co-ordinated’ campaign as Europe bomb hoaxes widen",
+   "title": "Ireland suspects ‘coordinated’ campaign as Europe bomb hoaxes widen",
    "url": "https://www.rapporteur.com/news/ireland-suspects-co-ordinated-campaign-as-europe-bomb-hoaxes-widen/",
    "content": "Dozens of flights disrupted across Europe as authorities struggle to trace those behind the false alarms",
    "published_date": "Fri, 06 Nov 2026 16:42:40 +0000",
@@ -167,48 +209,6 @@
    "url": "https://www.rapporteur.com/interview/eus-animal-testing-phase-out-hinges-on-regulators-not-labs-says-tsiodras/",
    "content": "Parliament’s rapporteur on chemicals assessment reform says the bottleneck is no longer the science but the rulebook – and warns of a new patchwork across agencies and borders",
    "published_date": "Fri, 06 Nov 2026 14:30:16 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "No ‘revolutions’ – EU aims to hold line at COP31",
-   "url": "https://www.rapporteur.com/news/no-revolutions-eu-aims-to-hold-line-at-cop31/",
-   "content": "Beyond electrification, Brussels aims to keep existing climate commitments alive in Antalya",
-   "published_date": "Fri, 06 Nov 2026 13:52:56 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Kushner invokes Cold War diplomacy for European security deal",
-   "url": "https://www.rapporteur.com/news/kushner-invokes-cold-war-diplomacy-for-european-security-deal/",
-   "content": "Ahead of Abu Dhabi talks, Washington proposes a new security architecture for Europe",
-   "published_date": "Fri, 06 Nov 2026 13:16:12 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Spain to pull olive oil from market as glut looms",
-   "url": "https://www.rapporteur.com/news/spain-to-pull-olive-oil-from-market-as-glut-looms/",
-   "content": "Madrid orders mills to withhold 12% of production, angering exporters",
-   "published_date": "Fri, 06 Nov 2026 12:02:40 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "New probe by EU prosecutors into Spain’s fatal high-speed line",
-   "url": "https://www.rapporteur.com/news/new-probe-by-eu-prosecutors-into-spains-fatal-high-speed-line/",
-   "content": "A second deadly accident in a year has ramped up scrutiny over the management of Spain's railway system",
-   "published_date": "Fri, 06 Nov 2026 11:21:09 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Capitals agree minimum one-year delay for EU methane law",
-   "url": "https://www.rapporteur.com/news/capitals-agree-minimum-one-year-delay-for-eu-methane-law/",
-   "content": "Countries backing European Parliament demand for three years secure a review in 2027",
-   "published_date": "Fri, 06 Nov 2026 11:09:33 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "TikTok’s personalised feeds under fire for EU online safety breaches",
-   "url": "https://www.rapporteur.com/news/tiktoks-personalised-feeds-under-fire-for-eu-online-safety-breaches/",
-   "content": "Preliminary findings reflect Commission's first in-depth look at recommender systems",
-   "published_date": "Fri, 06 Nov 2026 11:02:18 +0000",
    "score": 0.6
   }
  ],

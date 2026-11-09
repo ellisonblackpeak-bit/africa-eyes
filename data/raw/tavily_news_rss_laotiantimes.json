@@ -1,6 +1,21 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Laos Joins 13-Market Asian Communications Network",
+   "url": "https://laotiantimes.com/2026/11/09/laos-joins-13-market-asian-communications-network-through-rdk-group/",
+   "content": "By RDK Group Vientiane-based agency joins One Asia Communications as regional leaders examine how artificial intelligence is reshaping brand discovery, reputation and trust. Laos has joined One Asia Communications (OAC), a regional network of independent communications agencies spanning 13 Asian markets, with Vientiane-based RDK Group representing the country. The membership was introduced at the inaugural […]",
+   "published_date": "Mon, 09 Nov 2026 06:12:26 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Laos Requires Approval for Foreign Singers, Sets Midnight Closing Time",
+   "url": "https://laotiantimes.com/2026/11/09/laos-requires-approval-for-foreign-singers-sets-midnight-closing-time/",
+   "content": "Vientiane Province authorities have banned bars, restaurants and other entertainment venues from bringing in foreign singers to perform without permission. The provincial Department of Culture and Tourism issued the notice on 6 November. It applies to all entertainment businesses, restaurants, bars and tour boat operators across the province. Businesses and event organizers can still invite […]",
+   "published_date": "Mon, 09 Nov 2026 05:01:48 +0000",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",

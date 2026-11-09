@@ -2,9 +2,30 @@
  "success": true,
  "results": [
   {
+   "title": "Trump says deportation crackdown was 'too tough' after midterm setback",
+   "url": "https://www.france24.com/en/americas/20261109-trump-says-deportation-crackdown-was-too-tough-after-midterm-setback",
+   "content": "US President Donald Trump said his administration's mass deportation campaign may have been \"too tough\" in a television interview aired Sunday, days after Republicans suffered heavy losses in midterm elections.",
+   "published_date": "Mon, 09 Nov 2026 08:02:00 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Poland braces for tense week after deadly shooting deepens political divisions",
+   "url": "https://www.france24.com/en/europe/20261109-poland-braces-for-tense-week-after-deadly-shooting-deepens-political-divisions",
+   "content": "Poland faces a week of political tensions after its deadliest shooting in decades left six people dead and dozens wounded in Krakow on Saturday. The attack has heightened concerns over rising far-right extremism ahead of a major nationalist march.",
+   "published_date": "Mon, 09 Nov 2026 07:43:11 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Marseille defeat RC Lens as they win five in a row in Ligue 1",
+   "url": "https://www.france24.com/en/tv-shows/sports/20261109-marseille-defeat-rc-lens-as-they-win-five-in-a-row-in-ligue-1",
+   "content": "Marseille beat Lens (2-1) in the final game of Ligue 1 Matchday 10. Thanks to this result, OM are now fourth in the table.",
+   "published_date": "Mon, 09 Nov 2026 06:14:33 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
    "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
-   "content": "G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open since Republicans lost the midterm elections. Rubio is due to attend both days, compared with one in March.",
+   "content": "G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris on Monday. Washington has kept the option of new strikes open since Republicans lost the midterm elections. US Secretary of State Marco Rubio is due to attend both days, unlike the March meeting where he only came for one.",
    "published_date": "Mon, 09 Nov 2026 02:05:00 GMT",
    "score": 0.6
   },
@@ -25,7 +46,7 @@
   {
    "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
    "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
-   "content": "Pope Leo XIV arrived in Argentina on Sunday from Uruguay, where his tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope Francis’ homeland in nearly four decades.",
+   "content": "Pope Leo XIV arrived in Argentina on Sunday from Uruguay, where his Latin America tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope Francis’s homeland in nearly four decades.",
    "published_date": "Sun, 08 Nov 2026 22:23:19 GMT",
    "score": 0.6
   },
@@ -146,27 +167,6 @@
    "url": "https://www.france24.com/en/tv-shows/sports/20261108-2026-dakar-youth-olympic-games-golden-double-for-senegal",
    "content": "Senegal won two gold medals in beach wrestling at the Youth Olympic Games in Dakar. Elisabeth Diatta won gold in the -55 kg category, the host country’s first gold medal at the Youth Olympic Games. Her compatriot Maguette Diop followed suit, taking gold in the -80 kg category.",
    "published_date": "Sun, 08 Nov 2026 10:56:56 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Diwali: Over one billion people mark victory of light over darkness",
-   "url": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
-   "content": "Diwali celebrations began on Sunday, with people across India and the global diaspora gathering to mark one of the most important festivals in the Hindu tradition. In Ayodhya, believed to be the birthplace of Lord Rama, the deity celebrated during the festival, festivities included performances based on the Hindu epic Ramayana, laser and light shows, live music, fireworks and drone displays.",
-   "published_date": "Sun, 08 Nov 2026 10:46:37 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
-   "url": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
-   "content": "Paraguay's ousted president, Santiago Peña, has been charged over the collapse of Ueno Bank. Initially placed under house arrest, he has since been transferred to a military facility for his own safety. Nearly three million customers were locked out of their accounts after regulators seized control of the online bank. Repayments are now under way, but protests continue as customers demand access to their money. Peña denies any wrongdoing. Jack Pownall reports.",
-   "published_date": "Sun, 08 Nov 2026 10:42:59 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Israeli president officially tasks Eisenkot with forming government",
-   "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-   "content": "Israeli President Isaac Herzog on Sunday officially tasked ex-military chief Gadi Eisenkot with trying to form a government after neither Eisenkot's bloc nor that or incumbent Prime Minister Benjamin Netanyahu won a clear majority in Israel's October 27 elections. Eisenkot now has up to six weeks to form a coalition government. Follow our liveblog to see how the day's events unfolded.",
-   "published_date": "Sun, 08 Nov 2026 09:47:36 GMT",
    "score": 0.6
   }
  ],
