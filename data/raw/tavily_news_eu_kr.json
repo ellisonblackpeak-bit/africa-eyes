@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
-   "url": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
-   "snippet": "\"South Korean defense companies have continued to expand cooperation with partners in Western Europe and the Middle East, including in air-defense systems, while additional K9 howitzer orders suggest that supply constraints and the continued importance of deterrence remain supportive of demand for conventional platforms,\" BofA's Hwang said. [...] South Korean defense stocks rode a wave of global r",
-   "published": "Thu, 05 Nov 2026 08:02:41 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Lockheed Martin’s Sikorsky to supply S-92A+ helicopters for South Korea’s presidential fleet",
-   "url": "https://defence-industry.eu/lockheed-martins-sikorsky-to-supply-s-92a-helicopters-for-south-koreas-presidential-fleet",
-   "snippet": "Skip to content\n\nDefence Industry Europe - HomepageDefence Industry Europe - Homepage link\n\nDefence Industry Europe\n\nDefence Industry Europe - HomepageDefence Industry Europe - Homepage link\n\nDefence Industry Europe\n\n\n\nAir  |\n\nLockheed Martin’s Sikorsky to supply S-92A+ helicopters for South Korea’s presidential fleet\n\nImage: Lockheed Martin. [...] Germany has delivered a batch of unspecified numb",
-   "published": "Fri, 06 Nov 2026 14:24:17 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Korea defense industry faces EU SAFE barriers, bribery case and plant blast",
-   "url": "https://www.koreajoongangdaily.com/business/korean-arms-makers-face-mounting-challenges-as-ukraine-war-windfall-fades/12949401",
-   "snippet": "Europe poses two separate problems for Korean defense companies. The first is a series of recent contest losses as buyers weigh supply chains alongside price and performance.\n\nIn Romania's infantry fighting vehicle program, Hanwha Aerospace offered its Redback with 80 percent local production, but Bucharest chose a 5.7 billion euro ($6.4 billion) package from Germany's Rheinmetall in May, includin",
-   "published": "Mon, 02 Nov 2026 22:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea's Hanwha breaks ground on rocket factory in Poland - UPI.com",
-   "url": "https://www.upi.com/Top_News/World-News/2026/11/05/hanwha-aerospace-poland-defense-industry/3831793919368",
-   "snippet": "Poland's defense ministry has identified potential opportunities for jointly developing next-generation ammunition and exporting products to allied countries.\n\nThe facility is expected to create more than 200 local jobs.\n\nSouth Korea expands defense industry presence in Europe\n\nHanwha Aerospace has already established a significant position in the European defense market through sales of K9 self-p",
-   "published": "Thu, 05 Nov 2026 23:01:07 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Poland’s 180 South Korean-Made K2 Black Panthers Bolster NATO’s Eastern Flank - Defence Security Asia",
-   "url": "https://defencesecurityasia.com/en/poland-k2-black-panther-nato-eastern-flank",
-   "snippet": "For Indo-Pacific security observers, the Polish case demonstrates how South Korean defence production can influence European force posture through export availability and industrial cooperation, connecting an Asian manufacturing base to NATO deterrence without implying that procurement automatically changes formal alliance commitments. [...] The K2’s breakthrough therefore exposes a wider defence ",
-   "published": "Thu, 05 Nov 2026 14:42:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea plans to extend anti-piracy patrols closer to Strait of Hormuz | Euronews",
-   "url": "https://www.euronews.com/2026/11/05/south-korea-plans-to-extend-anti-piracy-patrols-closer-to-strait-of-hormuz",
-   "snippet": "Seoul has backed a British and French-led plan to protect merchant ships and clear mines in the strait once conditions allow. Its defence ministry said sending mine-clearing equipment to waters off Oman would give South Korean crews experience they could use in a future mission. [...] South Korea’s defence ministry said 36 piracy incidents had been reported off Somalia so far this year, up from 11",
-   "published": "Thu, 05 Nov 2026 12:07:23 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea to deploy military mission to help keep Hormuz open - World News",
-   "url": "https://www.hurriyetdailynews.com/amp/south-korea-to-deploy-military-mission-to-help-keep-hormuz-open-229033",
-   "snippet": "South Korea’s Defense Ministry on Nov. 5 said that it would deploy maritime patrol aircraft and an explosive ordnance disposal team to waters near the Strait of Hormuz as part of a mission to help keep the waterway open.\n\nThe announcement comes as Seoul maintains it will not deploy troops to intervene militarily in the Iran war, while seeking to protect commercial shipping and energy supplies thro",
-   "published": "Thu, 05 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "North Korea fires unidentified projectile off eastern coast, South’s military says | Stars and Stripes",
-   "url": "https://www.stripes.com/theaters/asia_pacific/2026-11-03/north-korea-launch-sea-of-japan-23354973.html",
-   "snippet": "Middle East\n\n  US quietly strikes Iranian island in Strait of Hormuz as Trump weighs next steps\n A U.S. service member in combat uniform carries a coil of concertina wire along a dirt road during a field security exercise, with a rifle slung across his chest and rural terrain in the background.\n\n  Europe\n\n  EUCOM urges troops, families to vary routines amid base threats\n An orange town sign reads ",
-   "published": "Wed, 04 Nov 2026 01:17:46 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_kr",
  "_query": "Europe South Korea defence",
  "_domains": [],

@@ -1,14 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "NATO",
-   "url": "https://tavily.com/knowledge/company/DEPWNLzwKnuO",
-   "snippet": "# NATO\nID: DEPWNLzwKnuO\nWebsite: www.nato.int\nHeadquarters: Brussels, Belgium\nLinkedIn: www.linkedin.com/company/nato · 918,359 followers\nIndustry: International Affairs\nCompany type: Government Agency\nSocial profiles: www.facebook.com/nato, www.twitter.com/nato, www.crunchbase.com/organization/nato\nPhone: 32-2-707-41-11, +32 2 707 5041 [...] Description: Working for peace, security and freedom fo",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

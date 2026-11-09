@@ -1,35 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Direction Niamey: Algeria Attempts to Bolster Its Posture in the Sahel - The Soufan Center",
-   "url": "https://thesoufancenter.org/intelbrief-2026-november-3",
-   "snippet": "sabotaged the Niger–Benin oil pipeline. Overall, this latest development suggests Algeria’s interest in protecting energy assets and supply lines rather than engaging in efforts to counter JNIM, ISSP, and other terrorist groups operating in Niger. Nonetheless, operating in Niger may provoke attacks by JNIM and ISSP. Given JNIM’s well-practiced targeting of energy infrastructure and convoys in Mali",
-   "published": "Tue, 03 Nov 2026 05:00:51 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "'Terror Has No Borders': Nigeria's Military Push With Niger, Mali, Burkina Faso | Firstpost Africa",
-   "url": "https://www.firstpost.com/web-show/firstpost-africa/terror-has-no-borders-nigerias-military-push-with-niger-mali-burkina-faso-firstpost-africa--vd2291942/amp",
-   "snippet": "Watch as Firstpost examines Nigeria’s major strategic shift as President Bola Tinubu reaches out to Ibrahim Traoré, Assimi Goïta, and Abdourahamane Tchiani of the Alliance of Sahel States to rebuild military cooperation and overhaul the Multinational Joint Task Force. Following the Sahel bloc's exit from ECOWAS, severe cross-border security vulnerabilities around the Lake Chad basin have allowed r",
-   "published": "Mon, 09 Nov 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "How the Sahel's Demographic Surge Is Impacting Jihadist Recruitment | RANE Worldview",
-   "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-03/how-the-sahel-s-demographic-surge-is-impacting-jihadist-recruitment/4e8c4a56406344d0",
-   "snippet": "The Sahel's rapidly growing youth population, disrupted education, weak livelihoods and heavy-handed counterinsurgency efforts will likely sustain jihadists' ability to exploit grievances, recruit personnel and broaden support networks, limiting the durability of military gains. Over the past decade, al Qaeda-affiliated Jamaat Nusrat al-Islam wal-Muslimin, or JNIM, and Islamic State Sahel Province",
-   "published": "Mon, 09 Nov 2026 04:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Goita, Tiani Hail AES Force As Jihadist Pressure Grows",
-   "url": "https://newsghana.com.gh/goita-tiani-hail-aes-force-as-jihadist-pressure-grows",
-   "snippet": "Mali's military leader Assimi Goita and Niger's Abdourahamane Tiani praised their joint Sahel force in Niamey on 5 November 2026, even as jihadist attacks",
-   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ter_jnim_ne",
  "_query": "JNIM Niger",
  "_domains": [],

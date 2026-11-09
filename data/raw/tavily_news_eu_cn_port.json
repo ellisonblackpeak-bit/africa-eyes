@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Drewry WCI further down, congestion eased on Chinese ports - Fibre2Fashion",
-   "url": "https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-down-congestion-eased-on-chinese-ports-314860-newsdetails.htm",
-   "snippet": "On the Asia–Europe trade route, rates from Shanghai to Rotterdam decreased by 2 per cent to $3,615 per 40-foot container, while rates from Shanghai to Genoa remained stable at $4,166 per 40-foot container. Carriers are pushing through FAK increases in mid-November as they look to strengthen their position ahead of next year’s contract negotiations. However, effective capacity continues to increase",
-   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Valenciaport's China container trade rises 15% as port meets SIPG clients in Shanghai | Container Management",
-   "url": "https://container-mag.com/update/valenciaport-s-china-container-trade-rises-15-as-port-meets--mw91scrb",
-   "snippet": "\"China is one of Valenciaport's most important trading partners, and we want to continue strengthening a relationship that is already strategic for our port,\" said Chao, who added that there was still great potential for collaboration between the two regions. \"Our strategic location in the Western Mediterranean makes us one of the main gateways for goods moving between Asia, Spain and the rest of ",
-   "published": "Mon, 09 Nov 2026 09:17:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Slovenia eyes deeper China ties as gateway to Europe",
-   "url": "https://news.cgtn.com/news/2026-11-08/Slovenia-eyes-deeper-China-ties-as-gateway-to-Europe-1RTGhWMvQe4/share_amp.html",
-   "snippet": "its high concentration of industrial robots in manufacturing and the Port of Koper as a key entry point for goods into Europe. \"At the end, it's all about relationships and partnership,\" he said, adding that a Slovenian-Chinese business forum held on the sidelines provided a direct platform for companies to meet potential clients. [...] Slovenia is at the China International Import Expo (CIIE) thi",
-   "published": "Sun, 08 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China extends rare earth export lifeline to the US, India, Japan and Europe by two months amid global supply concerns | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/china-extends-rare-earth-export-lifeline-to-the-us-india-japan-and-europe-by-two/jnhyhjb",
-   "snippet": "China also prolonged the suspension of special port fees targeting US-linked vessels until January 10, 2027, as negotiations continued over tariffs, technology restrictions and a longer-term trade agreement.\n\nThe announcements precede Trump's expected visit to Shenzhen later in November for the Asia-Pacific Economic Cooperation leaders' summit, where he is expected to meet Xi. [...] Earlier export",
-   "published": "Mon, 09 Nov 2026 15:24:04 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Georgia and China and Han Zheng's Visit to Tbilisi",
-   "url": "https://www.specialeurasia.com/2026/11/07/georgia-china-han-zheng-visit",
-   "snippet": "3. In the third scenario, Chinese capital enters Black Sea ports or other strategic infrastructure on a significant scale. This would raise Western scrutiny of Georgia’s choices and could harden the EU and US response. [...] We should monitor the following indicators to assess these scenarios:\n\n Rising Chinese investment in strategic infrastructure or Black Sea ports\n Beijing’s reconsideration of ",
-   "published": "Sat, 07 Nov 2026 20:02:13 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China extends suspension of special port fees on US-linked vessels - Chinadaily.com.cn",
-   "url": "https://global.chinadaily.com.cn/a/202611/09/WS6af17adae4b03ebf8519b4c0.html",
-   "snippet": "Under the original rules, vessels owned or operated by US entities, those flying the US flag, and those built in the United States were among those subject to additional charges when calling at Chinese ports. The fees took effect on Oct 14, 2025, at an initial rate of 400 yuan ($60) per net ton, with increases scheduled in subsequent years. [...] China initially introduced the port fees in respons",
-   "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU staffing crunch hinders response to Chinese trade pressure – POLITICO",
-   "url": "https://www.politico.eu/article/staff-shortage-prevent-eu-china-trade-pressure",
-   "snippet": "French President Emmanuel Macron has warned that Europe’s trade defenses can work too slowly to save companies undercut by subsidized Chinese competitors.\n\n“When you have a Chinese challenger based on all those subsidies, marking a price at 20% to 30% under yours, if two years later the Commission says: ‘You were right.’ But you are dead — I mean, thank you, happy I was right, [but] it’s over,” Ma",
-   "published": "Fri, 06 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Tesla's monthly registrations rise across Europe as Chinese rivals gain ground | Reuters",
-   "url": "https://www.reuters.com/business/tesla-registrations-surge-across-northern-europe-october-2026-11-02",
-   "snippet": "Italy ⁠showed a similar trend. Tesla's market share rose to 0.38%, but remained below that of BYD, Leapmotor and MG, whose shares ranged from 1.21% to 4.55%.\n\n\"Northern Europe is quite open to the new players as long as they ⁠are efficient ​EVs. That's what allowed Tesla to get to a leading position ​and it's what is allowing the Chinese to gain ground fast,\" industry analyst Felipe Munoz, who run",
-   "published": "Mon, 02 Nov 2026 18:02:50 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Robo Block Shows China’s Long Reach in M&A",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/robo-block-shows-china-s-long-reach-in-m-a",
-   "snippet": "Image 1: The SoftBank logo in the entrance hall inside the Tokyo Portcity Takeshiba building, which houses the company’s headquarters, in Tokyo, Japan, on Tuesday, Feb. 4, 2025.\n\nThe SoftBank logo in the entrance hall inside the Tokyo Portcity Takeshiba building, which houses the company’s headquarters, in Tokyo, Japan, on Tuesday, Feb. 4, 2025.Photographer: Toru Hanai/Bloomberg\n\nGift this article",
-   "published": "Thu, 05 Nov 2026 15:55:28 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_cn_port",
  "_query": "Chinese port Europe",
  "_domains": [],

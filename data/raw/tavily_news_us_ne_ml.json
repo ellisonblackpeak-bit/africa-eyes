@@ -1,49 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc",
-   "url": "https://www.modernghana.com/videonews/france24/5/738144",
-   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n TV\n Clips\n Oldies\n Releases\n Albums\n Movies\n News\n Galleries\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n|  |\n\n| 20.10.2026 | France24 Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc |\n\n|\n\nUS midterms: Trump reacts to the Democrats’ sweeping victory\n\nUS midterms: Trump reacts to the Democrats’ sweeping victo",
-   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The New Epicenter of Global Terror: How Africa’s Weak States and Rare Earths Drive Transnational Extremism",
-   "url": "https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror",
-   "snippet": "In theory, international engagement in African security should help contain the rising terrorism threat. But the record thus far is not promising. During the war on terrorism, the United States, the EU, the United Nations, and international security organizations provided support for numerous counterterrorism campaigns on the continent. These efforts included backing the G5 Sahel—a counterterroris",
-   "published": "Mon, 09 Nov 2026 09:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "'Terror Has No Borders': Nigeria's Military Push With Niger, Mali, Burkina Faso | Firstpost Africa",
-   "url": "https://www.firstpost.com/web-show/firstpost-africa/terror-has-no-borders-nigerias-military-push-with-niger-mali-burkina-faso-firstpost-africa--vd2291942/amp",
-   "snippet": "Watch as Firstpost examines Nigeria's major strategic shift as President Bola Tinubu reaches out to Ibrahim Traoré, Assimi Goïta, and Abdourahamane Tchiani",
-   "published": "Mon, 09 Nov 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Arms fair in Mali: Why representatives from Russia, the US and Türkiye are coming to Bamex in Bamako • Table.Briefings",
-   "url": "https://table.media/en/security/feature/arms-fair-in-mali-why-representatives-from-russia-the-us-and-turkey-are-coming-to-bamex-in-bamako",
-   "snippet": "Sahel Turkey USA Arms exports Mali Iran Russia Defense industry Armor Military Defense industry Geopolitics Security Foreign policy Security policy Trade The company Defense Exports Export Drones Diplomacy Defense policy\n\nShare article:\n\nRecipients need a subscription to read\n\nShare on Bluesky   Share on X   Share via email\n\nThe recording could not be played. Please try again.\n\nAI-generated voice\n",
-   "published": "Mon, 09 Nov 2026 04:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Tinubu offers condolences to Niger leader over father's death | UA.NEWS",
-   "url": "https://ua.news/en/dovkolo-svitu/prezident-tinubu-visloviv-spivchuttia-lideru-nigeru-cherez-smert-batka-premium-times-nigeria",
-   "snippet": "## Strained relations between the countries\n\nThe condolences came amid strained diplomatic relations between Nigeria and Niger following the military coup in Niger in July 2023, which removed the civilian government. In January 2025, Niger, Mali and Burkina Faso withdrew from the Economic Community of West African States. [...] Tiani has repeatedly accused Nigeria of conspiring with France to dest",
-   "published": "Sun, 08 Nov 2026 08:53:02 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Police Rescue Nigerian Woman Sold For N770,000 In Mali",
-   "url": "https://newtelegraphng.com/police-rescue-nigerian-woman-sold-for-n770000-in-mali",
-   "snippet": "The Commander of the Force Intelligence Department Special Tactical Squad, ACP Victor Ogbiede Godfrey, who disclosed this during a press briefing in Abuja on Tuesday, said the victim, identified as Godiya Amos (not her real name), was rescued during an intelligence-led operation conducted between October 1 and 27, 2026. [...] Join New Telegraph WhatsApp Channel [...] Godfrey said the operation fol",
-   "published": "Thu, 05 Nov 2026 06:43:11 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "us_ne_ml",
  "_query": "US Niger Mali",
  "_domains": [],

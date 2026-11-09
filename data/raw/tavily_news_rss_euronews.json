@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Argentina: Pope Leo XIV urges Milei's government to protect the most vulnerable",
+   "url": "https://www.euronews.com/2026/11/09/argentina-pope-leo-xiv-urges-mileis-government-to-protect-the-most-vulnerable",
+   "content": "The Pontiff visited the Cottolengo Don Orione, which cares for over 400 people and has been hit by Javier Milei's cuts, and said a nation's progress should be judged by how it treats those most in need.",
+   "published_date": "Mon, 09 Nov 2026 19:54:15 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Argentina: Pope Leo XIV receives warm welcome in Claypole",
    "url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole",
    "content": "Pope Leo XIV was welcomed by crowds in Claypole, near Buenos Aires, as he visited the Don Orione care home. The pontiff greeted the faithful and unveiled a plaque during his 12-day South American tour.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
    "content": "Egypt is seeking closer ties with Libya’s western government after years of backing its eastern rival. Talks in Tripoli covered energy projects and Egypt’s objections to Libya’s maritime deal with Turkey.",
    "published_date": "Sun, 08 Nov 2026 13:50:28 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
-   "url": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet",
-   "content": "The Ministry of Petroleum attributed the positive results to higher investment and exploration activity, noting a better investment climate and progress in settling overdue payments to foreign companies in the energy sector.",
-   "published_date": "Sun, 08 Nov 2026 13:23:43 +0100",
    "score": 0.6
   }
  ],

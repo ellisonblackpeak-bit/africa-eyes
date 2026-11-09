@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Nigeria Rules Out Ceasefire With Boko Haram, ISWAP, Vows Sustained Military | Business Post Nigeria",
-   "url": "https://businesspost.ng/general/nigeria-rules-out-ceasefire-with-boko-haram-iswap-vows-sustained-military-offensive",
-   "snippet": "His remarks come amid renewed attacks by Boko Haram and ISWAP on military positions in Borno and Yobe states in recent weeks, despite years of counter-insurgency operations.\n\nThe insurgency, which has lasted for about 17 years, has caused widespread displacement, destruction of communities and loss of lives across Nigeria’s North-East.\n\nThe military’s position signals its determination to sustain ",
-   "published": "Fri, 06 Nov 2026 09:15:02 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Islamic State in Iraq and Syria - Expansion, Terror, Insurgency | Britannica",
-   "url": "https://www.britannica.com/topic/Islamic-State-in-Iraq-and-Syria/ISIS-outside-of-Iraq-and-Syria",
-   "snippet": "on Christmas Eve that year. In August 2011 a suicide bomber associated with Boko Haram crashed a car into a United Nations building in Abuja, marking its first major attack on an international target, albeit located within Nigeria. In 2013, after Boko Haram rejected a proposal for amnesty by Nigerian Pres. Goodluck Jonathan if they disarmed, Jonathan declared the group a terrorist organization and",
-   "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Christian Solidarity International CSI launches campaign to mobilize support for persecuted Christians in Nigeria",
-   "url": "https://www.thenigerianvoice.com/news/376167/christian-solidarity-international-csi-launches-campaign-to.html",
-   "snippet": "A survivor of a Boko Haram attack on a village in Gwoza, Borno State. photo: csi\n\nZurich, November 5, 2026 – Christian Solidarity International (CSI) has launched a new campaign – Christians in Nigeria: Under Siege – to draw attention to the ongoing suffering of Christian communities in Nigeria, especially in the central region known as the Middle Belt. [...] Home\n Facebook\n Twitter\n LinkedIn\n\ntnv",
-   "published": "Thu, 05 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "At least 60 Christians killed in Ethiopia, but the motive remains unclear - Mission Network News",
-   "url": "https://www.mnnonline.org/news/at-least-60-christians-killed-in-ethiopia-but-the-motive-remains-unclear",
-   "snippet": "“[Rebel groups] look for institutions that are creating stability within the region — educational institutions, religious institutions, other mission groups, possibly, or other government agencies,” says Brobbel.\n\n“When Boko Haram had attacked, they weren’t just attacking Christians or groups; they were attacking other groups. They would attack UN offices. They would attack government offices to c",
-   "published": "Wed, 04 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Terrorists kill 2, abduct 20 in fresh Kaduna attack | Daily Champion | Voice of the Nation, Champion of the Truth.",
-   "url": "https://championnews.com.ng/terrorists-kill-2-abduct-20-in-fresh-kaduna-attack",
-   "snippet": "The denial comes amid a report that the Federal Government had entered into a secret ceasefire agreement with the Boko Haram faction led by Bakura Doro, which reportedly contributed to relative calm in parts of the North-East for about three months.\n\nThe report, citing three people with contacts among senior Boko Haram members, said the truce had been in effect since June and was expected to be ex",
-   "published": "Fri, 06 Nov 2026 04:20:22 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "No secret ceasefire deal with Boko Haram - Military",
-   "url": "https://guardian.ng/news/nigeria/metro/no-secret-ceasefire-deal-with-boko-haram-military",
-   "snippet": "Advertisement\n\nCiting three sources with contacts among Boko Haram members, the report claimed that the ceasefire had been in effect since June, with attacks reportedly reducing in some communities around Ngoshe.\n\nAt the time, the Director of Defence Media Operations, Maj.-Gen. Mike Onoja, declined to comment when The Guardian sought the military’s position. [...] Advertisement\n\nUna said there was",
-   "published": "Fri, 06 Nov 2026 15:26:53 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "DHQ denies ceasefire deal with Boko Haram, ISWAP",
-   "url": "https://thesun.ng/dhq-denies-ceasefire-deal-with-boko-haram-iswap",
-   "snippet": "## Other News\n\n Army crushes ISWAP attack, rescues 11 abductees in Kebbi\n Military neutralises 15 terrorists, destroys IED logistics hideout in Borno\n Troops destroy ISWAP enclave, neutralise 16 terrorists\n\n“Anyone involved in criminal activities that threaten the lives and security of Nigerians will either be eliminated through lawful military operations or brought to justice.” [...] The Defence ",
-   "published": "Thu, 05 Nov 2026 16:59:16 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Gunmen kill 34 more Orthodox Christians in Ethiopia, raising death toll to 94",
-   "url": "https://www.aa.com.tr/en/africa/gunmen-kill-34-more-orthodox-christians-in-ethiopia-raising-death-toll-to-94/4113812",
-   "snippet": "### Qatari foreign minister proposes 'Thriving States' bloc to build 'supply chain of peace'\n\nSee All\n\nPrevious\n\nNigerian military rules out truce with Boko Haram, vows intensified counterterrorism operations### Nigerian military rules out truce with Boko Haram, vows intensified counterterrorism operations\n\nNext [...] ## LATEST NEWS\n\n### Zelenskyy says ‘big agreement’ voiced by Trump could be 'dan",
-   "published": "Fri, 06 Nov 2026 12:27:16 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Boko Haram",
-   "url": "https://tavily.com/knowledge/company/hLrKUpGR17Rd",
-   "snippet": "# BOKO HARAM\nID: hLrKUpGR17Rd\nHeadquarters: KLERKSDORP, North West, South Africa\nLinkedIn: www.linkedin.com/company/boko-haram · 13 followers\n\n## Headcount\n- Now: 2 · 0 yearly (0%) · 0 quarterly · 0 monthly\n\n## Reputation\n- Open roles: 0",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

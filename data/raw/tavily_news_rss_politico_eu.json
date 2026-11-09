@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "EU offers cash for Black Sea attack response",
+   "url": "https://www.politico.eu/article/eu-offers-cash-for-black-sea-attack-response/",
+   "content": "Washington is pursuing a diplomatic effort on safe passage, weighing proposals from Turkey and India.",
+   "published_date": "Mon, 09 Nov 2026 18:55:24 +0000",
+   "score": 0.6
+  },
+  {
    "title": "La France accuse l’Iran d’être à l’origine des cyberattaques visant les supermarchés",
    "url": "https://www.politico.eu/article/la-france-accuse-liran-detre-a-lorigine-de-cyberattaques-visant-les-refrigerateurs-des-supermarches/",
    "content": "Selon le gouvernement français, 700 points de distribution alimentaire ont été touchés.",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/norway-model-uk-jonas-gahr-store-andy-burnham/",
    "content": "In a POLITICO interview, Norwegian leader Jonas Gahr Støre advises Andy Burnham to look for other solutions in his Brexit reset.",
    "published_date": "Mon, 09 Nov 2026 14:49:04 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Financing the foundations of stability",
-   "url": "https://www.politico.eu/sponsored-content/financing-the-foundations-of-stability/",
-   "content": "Britain’s economic security is only as resilient as the infrastructure on which it is built",
-   "published_date": "Mon, 09 Nov 2026 14:29:17 +0000",
    "score": 0.6
   }
  ],
