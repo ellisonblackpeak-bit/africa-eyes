@@ -2,6 +2,62 @@
  "success": true,
  "results": [
   {
+   "title": "FIREPOWER: FCAS lessons from Vautrin, Pistorius",
+   "url": "https://www.rapporteur.com/news/firepower-fcas-lessons-from-vautrin-pistorius/",
+   "content": "In today's edition: start-ups, Black Sea hub, investment",
+   "published_date": "Tue, 10 Nov 2026 08:00:24 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "THE HACK: Commission targets ‘dark patterns’",
+   "url": "https://www.rapporteur.com/news/the-hack-commission-targets-dark-patterns/",
+   "content": "In today's edition: AI safety, 2027 tech plans, CAIDA",
+   "published_date": "Tue, 10 Nov 2026 07:44:59 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "VOLTAGE: EU grid tariff push hits resistance",
+   "url": "https://www.rapporteur.com/news/voltage-eu-grid-tariff-push-hits-resistance/",
+   "content": "In today's edition: magnesium mining, nature laws, data centres",
+   "published_date": "Tue, 10 Nov 2026 07:26:15 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIRST AID: Tobacco tax talks ends with no deal",
+   "url": "https://www.rapporteur.com/news/first-aid-tobacco-tax-talks-ends-with-no-deal/",
+   "content": "In today's edition: Biotech Act, diabetes, vaccines",
+   "published_date": "Tue, 10 Nov 2026 07:21:46 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "HARVEST: Fertiliser price talks",
+   "url": "https://www.rapporteur.com/news/harvest-fertiliser-price-talks/",
+   "content": "In today's edition: plant-based, cyberattacks, farmworkers",
+   "published_date": "Tue, 10 Nov 2026 07:17:06 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Merz says no MFF without Ukraine",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-merz-says-no-mff-without-ukraine/",
+   "content": "Also, in Tuesday’s edition: Malta smokes Ireland on tobacco tax",
+   "published_date": "Tue, 10 Nov 2026 06:33:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Baltic energy cooperation: from ambition to delivery [Promoted Content]",
+   "url": "https://www.rapporteur.com/opinion/baltic-energy-cooperation-from-ambition-to-delivery/",
+   "content": "The Baltic Sea region has resources, infrastructure and industrial expertise to become a cornerstone of Europe’s changing energy system. Turning that potential into secure, competitive and affordable energy will now require more than a new terminal, interconnector or wind farm: the ability to make national investments work as one resilient regional system. Over the past […]",
+   "published_date": "Tue, 10 Nov 2026 06:00:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Taxing tofu: EU countries diverge on levies for veggie foods",
+   "url": "https://www.rapporteur.com/news/taxing-tofu-eu-countries-diverge-on-levies-for-veggie-foods/",
+   "content": "A new report puts Hungary, Croatia in the spotlight",
+   "published_date": "Tue, 10 Nov 2026 05:50:34 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Green groups decry exclusion from EU nature hearing",
    "url": "https://www.rapporteur.com/news/green-groups-decry-exclusion-from-eu-nature-hearing/",
    "content": "EPP hearing on Birds and Habitats Directives will feature no environmental NGOs or independent scientists",
@@ -153,62 +209,6 @@
    "url": "https://www.rapporteur.com/news/orbans-brother-reportedly-linked-to-hungarian-police-raids/",
    "content": "Péter Magyar, Hungary's prime minister, said Áron Orbán had been detained",
    "published_date": "Mon, 09 Nov 2026 11:35:46 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ireland: Ukraine and EU budget debates are linked",
-   "url": "https://www.rapporteur.com/news/ireland-ukraine-and-eu-budget-debates-are-linked/",
-   "content": "Dublin says ‘likely landing zone’ to plug Kyiv's budget hole will involve issuance of more common debt",
-   "published_date": "Mon, 09 Nov 2026 11:06:09 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Europe risks confusing more data centres with greater digital sovereignty [Promoted Content]",
-   "url": "https://www.rapporteur.com/opinion/europe-risks-confusing-more-data-centres-with-greater-digital-sovereignty/",
-   "content": "Building more data centres will not secure Europe’s digital sovereignty. Greater control over cloud and AI infrastructure requires stronger demand for European providers, credible financing and community benefits, including better use of energy and water, and heating for nearby homes.",
-   "published_date": "Mon, 09 Nov 2026 11:00:11 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "G7 to press Rubio on Iran and Ukraine in Paris",
-   "url": "https://www.rapporteur.com/news/g7-to-press-rubio-on-iran-and-ukraine-in-paris/",
-   "content": "Britain, France, Germany and Italy are concerned over US intentions – especially on security",
-   "published_date": "Mon, 09 Nov 2026 10:34:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Norway suspends electricity grid access for new data centres",
-   "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
-   "content": "Oslo's move reflects growing concern across Europe over impact of AI industry's hunger for power",
-   "published_date": "Mon, 09 Nov 2026 10:33:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIREPOWER: Defence Equity Facility 2.0 incoming",
-   "url": "https://www.rapporteur.com/news/firepower-defence-equity-facility-2-0-incoming/",
-   "content": "In today's edition: Swedish industry, Finland, Mélenchon",
-   "published_date": "Mon, 09 Nov 2026 07:53:41 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "THE HACK: EU leaders to talk AI challenges",
-   "url": "https://www.rapporteur.com/news/the-hack-eu-leaders-to-talk-ai-challenges/",
-   "content": "In today's edition: CAIDA, TikTok algorithm, Polish Kids Act",
-   "published_date": "Mon, 09 Nov 2026 07:47:47 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "VOLTAGE: COP31 kick-off",
-   "url": "https://www.rapporteur.com/news/voltage-cop31-kick-off/",
-   "content": "In today's edition: ETS, High Seas Treaty, UK–EU linkage",
-   "published_date": "Mon, 09 Nov 2026 07:42:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "HARVEST: GI plan gathers pace",
-   "url": "https://www.rapporteur.com/news/harvest-gi-plan-gathers-pace/",
-   "content": "In today's edition: olive oil, EU budget, week ahead",
-   "published_date": "Mon, 09 Nov 2026 07:29:19 +0000",
    "score": 0.6
   }
  ],

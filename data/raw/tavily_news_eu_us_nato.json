@@ -1,70 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Member states of NATO - Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Member_states_of_NATO",
-   "snippet": "The North Atlantic Treaty Organization (NATO) is an international military alliance consisting of 32 member states from Europe and North America. It was established at the signing of the North Atlantic Treaty on 4 April 1949. Of the 32 member countries, 30 are in Europe and 2 are in North America. Between 1994 and 1997, wider forums for regional cooperation between NATO and its neighbours were set",
-   "published": "Sun, 08 Nov 2026 01:37:49 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Support group for the Ukrainian people. | Five European NATO diplomats warned that a Republican defeat in the November 3 US midterms could prompt Donald Trump to intensify pressure on the alli... | Facebook",
-   "url": "https://www.facebook.com/groups/260143242947443/posts/1439236678371421",
-   "snippet": "There is already a separate troop reduction underway. In May, the Pentagon announced that 5,000 personnel would leave Germany over six to 12 months. Germany hosts around 36,000 active-duty US troops, while approximately 80,000 American military personnel are stationed across Europe. White House spokeswoman Olivia Wales defended Trump's NATO record, citing pressure on allies to increase defense spe",
-   "published": "Wed, 04 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "European troops train in Poland for possible Ukraine ...",
-   "url": "https://www.facebook.com/FRANCE24.English/videos/european-troops-train-in-poland-for-possible-ukraine-deployment/1843227480018814",
-   "snippet": "This post discusses whether Poland is emerging as a new military superpower within NATO. ... Poland hopes for 15,000 US troops as it seeks permanent base Warsaw",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "European troops prepare for a postwar Ukraine mission that's fraught with challenges - ABC News",
-   "url": "https://abcnews.com/International/wireStory/european-troops-prepare-postwar-ukraine-mission-fraught-challenges-137797096",
-   "snippet": "Denmark’s Defense Intelligence Service said Putin may carry out military attacks against NATO only if he assesses NATO will not respond collectively and “especially if Russia assesses that the United  States cannot or will not support the European NATO countries in a potential war against Russia.” [...] But the European deployment will not be a NATO force, peacekeeping or ceasefire monitoring miss",
-   "published": "Tue, 03 Nov 2026 06:49:32 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "NATO faces €7B shortfall on military aid pledge to Ukraine  – POLITICO",
-   "url": "https://www.politico.eu/article/nato-faces-7b-euro-shortfall-military-aid-pledge-ukraine",
-   "snippet": "## Montenegro, Albania seek NATO support to tackle Russian disinformation\n\nAs both countries race to join the EU, their defense ministers warn they are facing rising Russian online interference campaigns.\n\nAllies fear Trump will target NATO in case of midterm loss\n\n## Allies fear Trump will target NATO in case of midterm loss\n\nThe U.S. president could move thousands more troops out of Europe or cu",
-   "published": "Sun, 08 Nov 2026 05:50:48 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "14K views · 99 reactions | Donald Trump might be lukewarm about US forces helping to defend Europe from Russian attacks, but a group of US Marines are doing just that, as they join an alliance mission to detect and deter hostile activity by Russia in the Baltic Sea.\n\nSky's Deborah Haynes reports from the island of Utö.\n\nJoin Sky News Defence Insider to watch more from Deborah.\n\nTap the link to sign up today and get your first three-months free ➡️ https://trib.al/nKEU1m0\n\n📱£14.99 a month thereafter unless cancelled. New customers only. Terms apply. | Sky News",
-   "url": "https://www.facebook.com/skynews/posts/donald-trump-might-be-lukewarm-about-us-forces-helping-to-defend-europe-from-rus/1629586832545973",
-   "snippet": "Password\n\n \n\nLog In\n\nForgot password?\n\nor\n\nCreate new account [...] Donald Trump might be lukewarm about US forces helping to defend Europe from Russian attacks, but a group of US Marines are doing just that, as they join an alliance mission to detect and deter hostile activity by Russia in the Baltic Sea. Sky's Deborah Haynes reports from the island of Utö. Join Sky News Defence Insider to watch ",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Should we encourage the US military to withdraw from ...",
-   "url": "https://www.reddit.com/r/AskConservatives/comments/1xqqejj/should_we_encourage_the_us_military_to_withdraw",
-   "snippet": "Russia is arguably not a serious threat to Europe's conventional forces, but the US provides most of NATO's nuclear and chemical deterrent. Withdrawing all",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Couple From Europe Shocked by “What If U.S. Gun ...",
-   "url": "https://www.youtube.com/watch?v=QV4-11C8F54",
-   "snippet": "Couple From Europe Shocked by “What If U.S. Gun Owners Fought NATO?” s Ukrainian reacts to How Strong is The United States Military?",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "NATO",
-   "url": "https://tavily.com/knowledge/company/DEPWNLzwKnuO",
-   "snippet": "# NATO\nID: DEPWNLzwKnuO\nWebsite: www.nato.int\nHeadquarters: Brussels, Belgium\nLinkedIn: www.linkedin.com/company/nato · 918,359 followers\nIndustry: International Affairs\nCompany type: Government Agency\nSocial profiles: www.facebook.com/nato, www.twitter.com/nato, www.crunchbase.com/organization/nato\nPhone: 32-2-707-41-11, +32 2 707 5041 [...] Description: Working for peace, security and freedom fo",
-   "published": "",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

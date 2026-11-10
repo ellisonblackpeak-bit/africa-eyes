@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Is Burnham’s No 10 North working out?",
+   "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-burnhams-no-10-north-working-out/",
+   "content": "Is the battle over welfare reforms about to intensify? With the Milburn Report on youth unemployment just a week away, Sam Coates and Anne McElvoy examine the growing pressure on Labour to tackle the issue. And with the head of the civil service, Antonia Romeo, preparing Whitehall for a spending squeeze, the Conservatives are planning […]",
+   "published_date": "Tue, 10 Nov 2026 08:35:33 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Can the EU’s climate strategy survive election season?",
    "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/",
    "content": "The EU wants to be a heavyweight at U.N. climate summits. But upcoming elections across the bloc could upend those efforts. As COP31 kicks off this week, Zoya Sheftalovich and Ian Wishart discuss how the populist surge across the continent could undermine the EU’s efforts to take a stronger leadership role in climate talks like […]",
@@ -46,7 +53,7 @@
   {
    "title": "Return of Spanish right risks reigniting Catalan separatist flame",
    "url": "https://www.politico.eu/article/elections-return-of-spanish-right-risks-reigniting-catalan-separatist-flame/",
-   "content": "The independence movement has been largely dormant since 2017-2018, but could revive if the People's Party and Vox win the election on Nov. 29.",
+   "content": "The independence movement has been largely dormant since 2017–2018, but could revive if the People's Party and Vox win the election on Nov. 29.",
    "published_date": "Tue, 10 Nov 2026 03:00:00 +0000",
    "score": 0.6
   },
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/europe-needs-nvidia-spy-scandal-ai-microchips-germany-jensen-huang/",
    "content": "Though the U.S. chipmaker's boss Jensen Huang may have been caught up in a Chinese espionage operation, Europe has no homegrown alternative to Nvidia.",
    "published_date": "Mon, 09 Nov 2026 22:20:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU offers cash for Black Sea attack response",
-   "url": "https://www.politico.eu/article/eu-offers-cash-for-black-sea-attack-response/",
-   "content": "Washington is pursuing a diplomatic effort on safe passage, weighing proposals from Turkey and India.",
-   "published_date": "Mon, 09 Nov 2026 18:55:24 +0000",
    "score": 0.6
   }
  ],
