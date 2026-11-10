@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Rival Terror Groups Devastate the Sahel - Africa Defense Forum",
+   "url": "https://adf-magazine.com/2026/11/rival-terror-groups-devastate-the-sahel",
+   "snippet": "JNIM and ISSP began fighting in mid-2019 and have engaged in around 320 battles that have killed more than 2,200 fighters, according to ACLED’s West Africa senior analyst Héni Nsaibia. Territorial battles had been confined to Burkina Faso and Mali but have expanded into Niger’s Tillaberi and Dosso regions and Nigeria’s Kebbi state since April 2026. [...] “These efforts come as ISSP vies for contro",
+   "published": "Tue, 10 Nov 2026 18:07:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "'Terror Has No Borders': Nigeria's Military Push With Niger, Mali, Burkina Faso | Firstpost Africa",
+   "url": "https://www.firstpost.com/web-show/firstpost-africa/terror-has-no-borders-nigerias-military-push-with-niger-mali-burkina-faso-firstpost-africa--vd2291942/amp",
+   "snippet": "Watch as Firstpost examines Nigeria’s major strategic shift as President Bola Tinubu reaches out to Ibrahim Traoré, Assimi Goïta, and Abdourahamane Tchiani of the Alliance of Sahel States to rebuild military cooperation and overhaul the Multinational Joint Task Force. Following the Sahel bloc's exit from ECOWAS, severe cross-border security vulnerabilities around the Lake Chad basin have allowed r",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How the Sahel's Demographic Surge Is Impacting Jihadist Recruitment | RANE Worldview",
+   "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-03/how-the-sahel-s-demographic-surge-is-impacting-jihadist-recruitment/4e8c4a56406344d0",
+   "snippet": "The Sahel's rapidly growing youth population, disrupted education, weak livelihoods and heavy-handed counterinsurgency efforts will likely sustain jihadists' ability to exploit grievances, recruit personnel and broaden support networks, limiting the durability of military gains. Over the past decade, al Qaeda-affiliated Jamaat Nusrat al-Islam wal-Muslimin, or JNIM, and Islamic State Sahel Province",
+   "published": "Mon, 09 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_jnim_ne",
  "_query": "JNIM Niger",
  "_domains": [],

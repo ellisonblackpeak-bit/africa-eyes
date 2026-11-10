@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Dabafinance - Niger Receives 1.65M Liters of Algerian Fuel as Shortages Persist",
+   "url": "https://dabafinance.com/en/news/niger-receives-1-65M-liters-of-algerian-fuel-as-shortages-persist",
+   "snippet": "Niger has received its first shipment of fuel from Algeria, with 53 tanker trucks delivering 1.65 million liters of petroleum products to the northern city of Agadez as the country seeks to ease fuel shortages and strengthen energy cooperation with its northern neighbor. The convoy arrived on October 31, 2026, under military escort from both countries, according to Niger's state broadcaster RTN. P",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s Oil Production Rises to 1.8m Barrels Per Day, Says Petroleum Minister – Energy Focus Report",
+   "url": "https://www.energyfocusreport.com/nigerias-oil-production-rises-to-1-8m-barrels-per-day-says-petroleum-minister",
+   "snippet": "According to Lokpobiri, available industry records now indicate production of more than 1.8 million barrels per day, representing significant progress, although he acknowledged that the country had yet to reach its desired production level. [...] He recalled that during his early years in Warri, he was familiar with an industry training institution that served as an incubation centre for young pro",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG secures $21bn oil and gas investment commitments | Galaxy Television",
+   "url": "https://www.galaxytvonline.com/news/business/fg-secures-21bn-investment-commitments-for-nigerias-oil-gas-sector",
+   "snippet": "The minister said Nigeria could potentially add another 18 billion barrels to its reserves through deepwater exploration, although the additional resources were yet to be certified.\n\nMinister warns of skills shortage\n\nLokpobiri also warned that Nigeria's petroleum industry could face a shortage of skilled professionals if efforts were not made to train a new generation of geoscientists and petrole",
+   "published": "Tue, 10 Nov 2026 09:17:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Five Years of Nigeria’s Complex Petroleum Industry Act - Global News Network Liberia",
+   "url": "https://gnnliberia.com/amp/five-years-of-nigerias-complex-petroleum-industry-act",
+   "snippet": "First, when the country created the NNPC in 1977, it was on the cusp of a generational energy crisis and economic bust that accompanied the Arab-Israeli war in 1973. Muhammadu Buhari, then an army colonel, was the Petroleum Minister. Nigeria’s management of petroleum earnings over the half-century of the existence of the NNPC since then has been notoriously beset by tales of what London’s Guardian",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG: Foreign Firms Mobilise $21bn to Invest in Nigeria’s Oil, Gas Sector – THISDAYLIVE",
+   "url": "https://www.thisdaylive.com/2026/11/10/fg-foreign-firms-mobilise-21bn-to-invest-in-nigerias-oil-gas-sector",
+   "snippet": "# FG: Foreign Firms Mobilise $21bn to Invest in Nigeria’s Oil, Gas Sector\n\nBreaking  |  7 hours ago\n\n• Lokpobiri says two non-binding MoUs sealed with foreign investor groups\n\n•Calls for more exploration campaigns to discover more barrels\n\nPeter Uzoho\n\nThe federal government has secured commitments from foreign investor groups to mobilise $21 billion in fresh capital for Nigeria’s oil and gas sect",
+   "published": "Tue, 10 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria emerges as alternative destination for $21 billion oil deal amid Hormuz disruption - Businessfront",
+   "url": "https://businessfront.com/energy/news/nigeria-emerges-21-billion-oil-hormuz-risks",
+   "snippet": "The Minister of State for Petroleum Resources (Oil), Heineken Lokpobiri, disclosed this on Monday in Lagos at the opening of the 44th annual international conference of the Nigerian Association of Petroleum Explorationists (NAPE). [...] The minister’s disclosure comes as Nigeria seeks to attract more capital into its petroleum industry, particularly for exploration and production, amid funding con",
+   "published": "Tue, 10 Nov 2026 07:05:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ADIPEC 2026: Lokpobiri woos global investors, seeks stronger partnerships to unlock Nigeria’s petroleum potential",
+   "url": "https://thesun.ng/adipec-2026-lokpobiri-woos-global-investors-seeks-stronger-partnerships-to-unlock-nigerias-petroleum-potential",
+   "snippet": "Nigeria has called for stronger international partnerships and increased investment in its petroleum industry as part of efforts to strengthen.",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s Dangote Group Explores Investment Opportunities in Egypt | Egypt Oil & Gas",
+   "url": "https://egyptoil-gas.com/news/nigerias-dangote-group-explores-investment-opportunities-in-egypt",
+   "snippet": "The minister also clarified that potential cooperation would not be limited to establishing an oil refinery, pointing to several sectors in which Egyptian and Nigerian companies could combine their capabilities, expand industrial production, and generate economic value. [...] Representatives of the Ministry of Petroleum and Mineral Resources highlighted Egypt’s potential as a destination for inves",
+   "published": "Sun, 08 Nov 2026 11:28:52 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_ministry",
  "_query": "Niger petrol minister oil",
  "_domains": [],

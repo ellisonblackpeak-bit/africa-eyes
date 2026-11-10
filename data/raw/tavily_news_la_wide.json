@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Laos, China agree to strengthen rail links, economic corridor and AI cooperation | The Star",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/05/laos-china-agree-to-strengthen-rail-links-economic-corridor-and-ai-cooperation",
+   "snippet": "The existing Laos-China Railway, which connects Vientiane with Kunming in China’s Yunnan province, began operations in December 2021 and has become an important trade route between China and Southeast Asia and beyond.\n\nAccording to figures provided by the China Railway Kunming Group in August 2026, the railway has carried more than 90 million tonnes of freight since it became operational, includin",
+   "published": "Thu, 05 Nov 2026 04:33:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Road Into Laos - FEE",
+   "url": "https://fee.org/articles/chinas-road-into-laos",
+   "snippet": "It’s exactly this approach that China is pursuing in Laos and Thailand. As Kuik and Rosli put it, “of all the Southeast Asian countries, the Lao People’s Democratic Republic (PDR) has been one of the most enthusiastic in engaging with and embracing China’s Belt and Road Initiative (BRI),” and the flagship project in this effort is the Laos–China railway project. With construction inaugurated in De",
+   "published": "Tue, 10 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Thailand pushes Laos-China rail connections as regional trade expands",
+   "url": "https://www.nationthailand.com/news/asean/40073218",
+   "snippet": "The Ministry of Transport intends to expand the double-track railway network and Thai-Chinese high-speed rail system alongside freight transfer facilities and a new railway bridge across the Mekong River.\n\nThe projects are intended to connect freight movements from Laem Chabang and Map Ta Phut ports through northeastern Thailand to Laos and China, reducing logistics costs and improving the country",
+   "published": "Sat, 07 Nov 2026 02:56:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "'Little Leaves,' the Vibrant Youthful Energy on CIIE's Bridge of Mutual Cooperation - City News Service",
+   "url": "https://www.citynewsservice.cn/articles/cns/city-news/inside-ciie/zmz80b3m",
+   "snippet": "Porjoua came to China under a China-Laos Railway partnership program and is part of a joint railway talent training academy that supports the development of railway professionals in Laos.\n\n\"The China-Laos Railway closely connects Laos and China, making travel and trade much easier. Youth communication and mutual learning are indispensable in this process,\" he pointed out. [...] \"After graduation, ",
+   "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Laos' Pasaxon Newspaper editor-in-chief calls for building consensus, establishing cross-sector, cross-border media cooperation network - Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1373700.shtml",
+   "snippet": "To meet our development needs and drive growth, Laos and China have jointly pushed forward infrastructure projects. Representative examples include the China-Laos Railway, which was completed and opened to traffic in December 2021, and the Vientiane-Vang Vieng Expressway, which opened to traffic in December 2020. [...] These major infrastructure projects have greatly facilitated the movement of pe",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘Mekong Six’ meet in Beijing - Friends of Socialist China",
+   "url": "https://socialistchina.org/2026/11/10/mekong-six-meet-in-beijing",
+   "snippet": "Laos is ready to unswervingly advance the building of a Laos-China community with a shared future in accordance with the consensus reached by the top leaders of the two parties and countries. Laos looks forward to making good use of the strategic dialogue mechanism between the two countries, advancing the implementation of the framework for Laos-China Economic Corridor cooperation, facilitating tr",
+   "published": "Tue, 10 Nov 2026 15:40:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Huaxin Brazil Cement Acquisition Update - The China-Global South Project",
+   "url": "https://chinaglobalsouth.com/2026/11/09/china-huaxin-brazil-csn-cement-acquisition",
+   "snippet": "According to Chinese state media, the new Chinese-built and funded railway between China and Laos, which was launched two months ago, is a huge success already. Rail authorities in China’s southwestern Yunnan province report ...\n\n\n\n### Brazil’s Central Bank Quadruples Yuan Holdings, Raising Chinese Hopes for Greater RMB Acceptance [...] By Luciana Magalhaes Chinese automaker BYD is launching its f",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China–Lao PDR Launch Cross-Border e-CNY Payment Connect – Thailand Business News",
+   "url": "https://www.thailand-business-news.com/asean/laos/338268-china-lao-pdr-launch-cross-border-e-cny-payment-connect",
+   "snippet": "The economic rationale behind this corridor is substantial, given the strong trade, investment, and tourism ties between China and Lao PDR. China remains Lao PDR’s top foreign investor, with investments exceeding USD 18 billion, while the Lao-China Railway strengthens connectivity. The Connect allows Chinese tourists and businesses to make payments to Lao merchants using e-CNY apps, offering an al",
+   "published": "Fri, 06 Nov 2026 17:35:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Marriott Opens First Hotel in Laos, Reaching 800 Properties in Asia-Pacific",
+   "url": "https://www.rustourismnews.com/2026/11/05/marriott-opens-first-hotel-in-laos-reaching-800-properties-in-asia-pacific",
+   "snippet": "For international travelers, joining Marriott’s portfolio makes the property accessible through the company’s reservation network and Marriott Bonvoy programme, subject to applicable participation rules.\n\nThe hotel is approximately four kilometres from Luang Prabang International Airport and 11 kilometres from the local China–Laos railway station.\n\nMarriott’s 800-property milestone applies specifi",
+   "published": "Thu, 05 Nov 2026 09:34:27 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China Diplomacy: Chinese FM Wang Yi meets Lao Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane",
+   "url": "https://news.cgtn.com/news/2026-11-03/VHJhbnNjcmlwdDkzMDk5/index.html",
+   "snippet": "Chinese Foreign Minister Wang Yi has met with Lao Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane in Beijing. Thongsavanh is in China to",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "la_wide",
  "_query": "Laos China railway",
  "_domains": [],

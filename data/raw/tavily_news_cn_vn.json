@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Boway Alloy to invest $51 mln in northern Vietnam plant expansion",
+   "url": "https://theinvestor.vn/boway-alloy-to-invest-51-mln-in-northern-vietnam-plant-expansion-d20392.html",
+   "snippet": "The Chinese company said capital would be deployed in stages and linked to construction milestones. The investment figures are based on internal financial estimates, with final spending subject to actual project implementation. [...] China's Ningbo Boway Alloy Materials Co. plans to invest CNY335 million ($50.9 million) to expand its functional materials manufacturing facility in northern Vietnam,",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam positions itself in the global AI supply chain",
+   "url": "https://english.vov.vn/en/economy/vietnam-positions-itself-in-global-ai-supply-chain-post1347285.vov",
+   "snippet": "Foreign manufacturers have helped power that surge. Korean firms, such as Samsung and LG, built large industrial clusters and supplier ecosystems. More recently, mainland Chinese outbound direct investment (ODI) has added fresh momentum: over the past three years, mainland Chinese ODI flows into Vietnam totaled US$9 billion, making it one of Southeast Asia’s largest recipients. [...] Vietnam is be",
+   "published": "Wed, 04 Nov 2026 11:13:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Indonesian newspaper highlights Vietnam’s lead in investment attraction, industrial development",
+   "url": "https://en.vietnamplus.vn/indonesian-newspaper-highlights-vietnams-lead-in-investment-attraction-industrial-development-post355059.vnp",
+   "snippet": "Vietnam has also benefited from global manufacturers diversifying production away from China amid US trade tensions, attracting major companies such as Samsung and Foxconn. Its industrial structure is gradually shifting towards higher-value electronics and technology manufacturing. [...] The Jakarta Globe, also highlighted difficulties surrounding Chinese automaker BYD’s 887-million-USD electric v",
+   "published": "Mon, 09 Nov 2026 16:43:04 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opinion | In Vietnam, ‘China plus one’ still needs Chinese input | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/asia-opinion/article/3373495/vietnam-china-plus-one-still-needs-chinese-input",
+   "snippet": "Advertisement\n\nVietnam\n\nOpinionAsia Opinion\n\nBilly Huang\n\nOpinion\n\nBilly Huang\n\n# In Vietnam, ‘China plus one’ still needs Chinese input\n\nAs global companies try to move production outside China, Chinese businesses and components often move with it\n\n3-MIN READ3-MIN\n\nListen\n\nWorkers assemble electric cars at a factory in Hai Phong, Vietnam, on September 29, 2023. Photo: AP\n\nBilly Huang [...] Growth",
+   "published": "Mon, 09 Nov 2026 21:30:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Indonesia’s Factories Lag as Vietnam Races Ahead",
+   "url": "https://jakartaglobe.id/business/indonesias-factories-lag-as-vietnam-races-ahead",
+   "snippet": "The challenge is evident at Chinese electric vehicle maker BYD's planned factory in Subang, West Java. The facility $887 million is designed to produce as many as 150,000 vehicles annually, but has faced pressure from local groups demanding more employment opportunities for nearby residents. [...] The country has capitalized on companies' efforts to diversify production away from China amid US tra",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan leads foreign investment in Hung Yen with $6.82 billion",
+   "url": "https://vir.com.vn/japan-leads-foreign-investment-in-hung-yen-with-682-billion-164845.html",
+   "snippet": "Japanese investment in the province has also continued through large-scale projects with high-tech content. One example is the new factory of Nitto Vietnam Co., Ltd. at Thang Long II IP, which was inaugurated on September 11, with total investment of $160 million. [...] |  |  |\n --- |\n| Foreign direct investment expands across Hung Yen industrial zones | Foreign direct investment expands across Hu",
+   "published": "Tue, 10 Nov 2026 11:38:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan–Việt Nam ties: Moving from investment to co-creation",
+   "url": "https://vietnamnews.vn/economy/1803615/japan-viet-nam-ties-moving-from-investment-to-co-creation.html",
+   "snippet": "Sukegawa noted that the use of Chinese-made intermediate goods does not, by itself, mean that a product is being transshipped to evade trade measures. For certain US trade measures, origin determinations are made case by case, taking into account factors such as the origin of components and the extent of processing carried out in Việt Nam.\n\n\"What matters is that companies can demonstrate what prod",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam's T&A sector: Making business case for going green - Fibre2Fashion",
+   "url": "https://www.fibre2fashion.com/news/sustainability-news/vietnam-s-t-a-sector-making-business-case-for-going-green-314872-newsdetails.htm",
+   "snippet": "A recent $30 million investment by Danish garment manufacturer Spectre in a new factory in northern Vietnam offers a particularly striking example. Inaugurated in October 2026, the facility has achieved LEED Gold certification and incorporates solar power, energy-efficient design, rainwater harvesting and advanced manufacturing technologies. It is expected to reduce annual CO₂ emissions by approxi",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam's future growth depends on developing high-value companies - Nikkei Asia",
+   "url": "https://asia.nikkei.com/opinion/vietnam-s-future-growth-depends-on-developing-high-value-companies",
+   "snippet": "Opinion\n\n# Vietnam's future growth depends on developing high-value companies\n\nOverreliance on exports to US, huge imports from China underscore economic weaknesses\n\nAvatar\n\nAnthony Tan\n\nNovember 11, 2026 05:05 JST\n\nVIETNAM-VINFAST-VINGROUP (1).JPG\n\nSeen in Hanoi are houses built by Vinhomes, the most profitable unit of Vingroup, which also owns EV maker VinFast. Few of Vietnam's small companies a",
+   "published": "Tue, 10 Nov 2026 20:05:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia not riding but building the AI boom – GIS Reports",
+   "url": "https://www.gisreportsonline.com/r/asia-building-ai-boom",
+   "snippet": "Asia is at the heart of the global buildout in AI. One data center can hold as many as 45 million chips – with much of the semiconductor manufacturing process, server boards and rack assembly happening across Taiwan, Malaysia, the Philippines, South Korea and Vietnam. Asia is fully integrated into the AI component chain: While servers and graphics processing units are largely designed by American ",
+   "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_vn",
  "_query": "Chinese company Vietnam factory investment",
  "_domains": [],

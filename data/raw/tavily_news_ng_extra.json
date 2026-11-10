@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "New Times Newspaper | Latest Nigeria News, Breaking News, Top News",
+   "url": "https://www.newtimes.com.ng/delta-state-university-killed-the-glitterer-1",
+   "snippet": "BREAKING: 36 Military Officers Killed In Niger State – DHQ   \n\n  Gunmen Kill University Of Ibadan Professor  At Meeting With Stakeholders, Uzodinma Fails To Mention Masterminds Of Insecurity At Meeting With Stakeholders, Uzodinma Fails To Mention Masterminds Of Insecurity\n\n  BREAKING: Five Policemen, Couple Killed In Gunmen’s Attacks\n\nClick to comment\n\n### Opinion\n\n# The Death Penalty For Fakers A",
+   "published": "Thu, 05 Nov 2026 06:28:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s external debt rose to $145bn in 2025 | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/zovnishnii-borg-nigeriyi-zris-do-145-mlrd-u-2025-rotsi-premium-times-nigeria",
+   "snippet": "+5° Kyiv   -2° Warsaw   +11° Washington\n\nNews   Around the World\n\n# Nigeria’s external debt rose to $145 billion in 2025 — Premium Times Nigeria\n\nFedir Kryshtovskyi   07 November 2026 13:50\n\nNigeria’s external debt rose to $145 billion in 2025 — Premium Times Nigeria \n\nIn Nigeria, the total volume of external debt reached $145.02 billion in 2025, up 6.6% from a year earlier. The data were provided",
+   "published": "Sat, 07 Nov 2026 13:50:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria approves 145 new oil wells so far this year, regulator says",
+   "url": "https://www.reuters.com/business/energy/nigeria-approves-145-new-oil-wells-so-far-this-year-regulator-says-2026-11-10",
+   "snippet": "Nigeria's upstream oil regulator has approved ​145 new well-drilling operations, 595 well re-entries and ‌39 field development plans (FDPs) so far this year",
+   "published": "Tue, 10 Nov 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Will Nigeria's Atiku Abubakar be on the presidential ballot after ADC court ruling? - BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o",
+   "snippet": "# Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?\n\nAtiku Abubakar in a glasses and a match black and white design top and hat.\n\nThis is Atiku Abubakar's seventh attempt to become Nigeria's president\n\nNigeria's Federal High Court has sacked the leadership of the opposition African Democratic Congress (ADC) party - and also ruled that the nomination of its presidential ca",
+   "published": "Thu, 05 Nov 2026 22:00:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening | UN News",
+   "url": "https://news.un.org/en/story/2026/11/1168779",
+   "snippet": "Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since the start of the year, as host countries struggle to cope, the UN’s refugee agency (UNHCR) said on Tuesday. [...] Northern Nigeria has been experiencing multiple, overlapping security crises involving jihadist insurgenci",
+   "published": "Tue, 10 Nov 2026 18:48:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US congressman to lead hearing on Christian persecution in Nigeria",
+   "url": "https://guardian.ng/news/us-congressman-to-lead-hearing-on-christian-persecution-in-nigeria",
+   "snippet": "11 hrs ago\n\nJoseph Tegbe with Tinubu \n\nEnergy \n\n### Seasonal relief masks power sector crisis as supply slumps, debts mount\n\n yesterday\n\nFlamingos \n\nFeatured \n\n### Tinubu hails Flamingos’ historic World Cup triumph\n\n 2 days ago\n\nAdvertisement\n\n## More from News\n\nNNPC \n\nNews \n\n### CPASJ Seeks Clarification on NNPCL’s ₦7.2trn Profit Despite Revenue Decline\n\n just now\n\nOjajuni \n\nNews \n\n### Police tra",
+   "published": "Tue, 10 Nov 2026 11:35:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria approves 145 new oil wells so far his year, regulator says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R0YV:0-nigeria-approves-145-new-oil-wells-so-far-his-year-regulator-says",
+   "snippet": "By Camillus EbohNigeria's upstream oil regulator has approved 145 new well-drilling operations, 595 well re-entries and 39 field development plans (FDPs) so",
+   "published": "Tue, 10 Nov 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nearly 64,000 flee violence in northern Nigeria for Niger | News.az",
+   "url": "https://news.az/news/nearly-64-000-flee-violence-in-northern-nigeria-for-niger",
+   "snippet": "Source: Reuters\n\nNearly 64,000 people have fled northern Nigeria for neighbouring Niger since the beginning of this year to escape attacks by Islamist militants and armed gangs, the UN refugee agency (UNHCR) said.\n\nThe agency warned that the influx is straining Niger's resources. The country already hosts more than 500,000 refugees and asylum-seekers, including approximately 327,500 Nigerians. Sev",
+   "published": "Tue, 10 Nov 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria digital finance platform OPay reaches stock exchange milestone | ATM Marketplace",
+   "url": "https://www.atmmarketplace.com/news/nigeria-digital-finance-platform-opay-reaches-stock-exchange-milestone",
+   "snippet": "OPay Ltd., a digital finance platform based in Nigeria, has announced it is now trading on the New York Stock Exchange under the ticker OPAY. This finance app aims to reach underserved populations, such as the more than 60% of underserved Nigerians, according to a press release.\n\nOPay has seen significant growth since its launch in 2018, expanding services to more than 50 million customers in Egyp",
+   "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria: Transcorp earnings down year-on-year",
+   "url": "https://www.africa-energy.com/news-centre/article/nigeria-transcorp-earnings-down-year-year",
+   "snippet": "One of Nigeria's largest IPPs has posted reduced earnings, largely as a result of external factors.",
+   "published": "Tue, 10 Nov 2026 18:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ng_extra",
  "_query": "Nigeria latest news",
  "_domains": [],

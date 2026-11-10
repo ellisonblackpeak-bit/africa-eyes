@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Minerals Commission warns Chinese nationals against illegal mining, threatens 25-year jail term",
+   "url": "https://www.modernghana.com/news/1543410/minerals-commission-warns-chinese-nationals-agains.html",
+   "snippet": "The Commission has also called on the Chinese Government to strengthen collaboration with Ghanaian security and regulatory agencies to tackle illegal mining, popularly known as galamsey, and dismantle the financial and logistical networks supporting the practice.\n\nThe warning was delivered by Isaac Tandoh in a keynote address at the China-Ghana Mining Cooperation Conference held at the Kempinski H",
+   "published": "Tue, 10 Nov 2026 21:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Illegal mining by Chinese threatens Ghana-China friendship - Minerals Commission CEO | 3News",
+   "url": "https://3news.com/news/crime/illegal-mining-by-chinese-threatens-ghana-china-friendship-minerals-commission-ceo",
+   "snippet": "\"This dual-enforcement pathway must be operationalised without delay, so that deportation is not a soft landing but a prelude to accountability,\" he said.\n\nSecond, that China work with Ghana to dismantle the financing and logistics networks that enable illegal mining, noting that galamsey is organised, financed and equipped, with equipment, capital and supply chains sometimes originating outside G",
+   "published": "Tue, 10 Nov 2026 17:35:56 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Minerals Commission CEO calls for prosecution of Chinese nationals involved in illegal mining - MyJoyOnline",
+   "url": "https://www.myjoyonline.com/minerals-commission-ceo-calls-for-prosecution-of-chinese-nationals-involved-in-illegal-mining",
+   "snippet": "We need to hold political actors in galamsey-affected areas accountable – Awula Serwah\n\n Christian Council of Ghana questions government’s conflicting stance on galamsey\n\n Galamsey has evolved into transnational organised crime – Prof. Appiagyei-Tua\n\n Jema-Asemkrom residents allege threats over efforts to expose illegal mining\n\n NAIMOS expands crackdown on illegal mining equipment supply network\n\n",
+   "published": "Tue, 10 Nov 2026 18:34:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU says galamsey is eroding gains from development projects in Ghana - MyJoyOnline",
+   "url": "https://www.myjoyonline.com/eu-says-galamsey-is-eroding-gains-from-development-projects-in-ghana",
+   "snippet": "Car dealers block Kwashieman footbridge walkway, exposing pedestrians to danger  \n  35 minutes\n\n Chinese malls taking 60% of Ghana’s retail market – GUTA laments  \n  59 minutes\n\n EU says galamsey is eroding gains from development projects in Ghana  \n  1 hour\n\n Mahama briefs diaspora Ghanaians on $1 billion housing mortgage scheme  \n  1 hour\n\n Finance Minister applauds Nyakrom Community Bank for pi",
+   "published": "Fri, 06 Nov 2026 04:39:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Galamsey threatening  EU-Ghana partnership; EU pledges support to fight it- Deputy EU ambassador",
+   "url": "https://www.gbcghanaonline.com/general-news/galamsey-threatening-eu-ghana-partnership-eu-pledges-support-to-fight-it-deputy-eu-ambassador/2026",
+   "snippet": "The Deputy European Union Ambassador to Ghana, Jonas Claes, says illegal mining, popularly known as galamsey, remains a pervasive and destructive challenge posing severe environmental, economic and social threats to Ghana. [...] “We commend the government on these important steps forward. Progress will ultimately be evaluated however on the curbing of Galamsey activity, and — above all — the quali",
+   "published": "Thu, 05 Nov 2026 20:19:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana Gold Deposits: Belts, Mines and Galamsey",
+   "url": "https://farmonaut.com/mining/ghana-gold-deposits",
+   "snippet": "Ghana gold deposits by belt, the main mines and their 2025 output, galamsey rules and damage, plus a royalty and ounces calculator.",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PURC urges chiefs to help fight galamsey polluting water bodies - MyJoyOnline",
+   "url": "https://www.myjoyonline.com/purc-urges-chiefs-to-help-fight-galamsey-polluting-water-bodies",
+   "snippet": "EU says galamsey is eroding gains from development projects in Ghana\n\n Anaesthetists call on Mahama to take decisive action against galamsey\n\n Ghana risks complicity in Sahel terrorism if galamsey persists – Zanetor warns\n\n Armah-Kofi Buah challenges KNUST engineering students to lead the fight against galamsey\n\n Dr Bawumia explores Japanese technology to tackle galamsey pollution\n\n Minority to su",
+   "published": "Tue, 10 Nov 2026 05:17:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Cocaine Busts, Ablakwa & Galamsey: Mike Oquaye Jnr Fires Salvo at the Government",
+   "url": "https://www.modernghana.com/videonews/joynews/6/747340",
+   "snippet": "Cocaine Busts, Ablakwa & Galamsey: Mike Oquaye Jnr Fires Salvo at the Government. BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV Net2TV",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_galamsey",
  "_query": "Chinese galamsey Ghana",
  "_domains": [],

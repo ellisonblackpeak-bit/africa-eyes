@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "China's Pinduoduo, JD.com among 5 summoned over false advertising",
+   "url": "https://www.thestandard.com.hk/china/article/334385/Chinas-Pinduoduo-JDcom-among-5-summoned-over-false-advertising",
+   "snippet": "Chinese e-commerce giants Pinduoduo and JD.com were among five major platforms summoned for talks over misleading advertising on Thursday, Beijing's market watchdog said.\n\nADVERTISEMENT\n\nSCROLL TO CONTINUE WITH CONTENT\n\nThe talks with company representatives, held by the Beijing Municipal Administration for Market Regulation, come as local and national authorities crack down on excessive \"involuti",
+   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Congress Summons Nvidia CEO Jensen Huang Over Ties to Woman Alleged to Be Chinese Spy",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008834050",
+   "snippet": "Nvidia has not released a statement regarding the House's summons.   \n   \n The Chinese government previously dismissed allegations of Chinese espionage targeting Nvidia as \"groundless speculation.\"   \n   \n (Photo: Capture of a LinkedIn post by NetThunder, Yonhap News)   \n※ Please note: This article was translated by AI and may contain errors. [...] The U.S. Congress has summoned Nvidia CEO Jensen ",
+   "published": "Tue, 10 Nov 2026 09:09:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Troubles mount for Jensen Huang? Nvidia CEO summoned by US lawmakers over affair with Chinese ‘spy’ Alice Huang | Company Business News",
+   "url": "https://www.livemint.com/companies/news/troubles-mount-for-jensen-huang-nvidia-ceo-summoned-by-us-lawmakers-over-affair-with-chinese-spy-alice-huang-11794317474830.html",
+   "snippet": "Three top lawmakers in the House of Representatives from the Republican Party have sent a letter to Nvidia CEO Jensen Huang asking him to appear before their committees about a news report that has alleged that he had a close relationship with a Chinese businesswoman who had passed on information to the country's government. [...] Catch all the Business News ,  Corporate news , Breaking News Event",
+   "published": "Tue, 10 Nov 2026 14:07:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nvidia boss summoned by Congress over ‘interactions’ with suspected Chinese spy | Runcorn and Widnes World",
+   "url": "https://www.runcornandwidnesworld.co.uk/news/national/26713759.nvidia-boss-summoned-congress-interactions-suspected-chinese-spy",
+   "snippet": "Runcorn and Widnes World\n\n#### Featured newsletters\n\n### News\n\n### Vikings\n\n### Sport\n\n### What's On\n\n### Events\n\n### Notices\n\n# Nvidia boss summoned by Congress over ‘interactions’ with suspected Chinese spy\n\nShare\n\nShare\n\nUSA Today logo\n\nNvidia boss Jensen Huang has been summoned to appear before the US Congress amid “significant national security concerns” over claims he had an affair with a Ch",
+   "published": "Mon, 09 Nov 2026 22:52:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Philippines summons Chinese ambassador to protest remarks it says threatened force | The Asahi Shimbun: Breaking News, Japan News and Analysis",
+   "url": "https://www.asahi.com/ajw/articles/photo/86359471",
+   "snippet": "Photo/Illutration\n\nMANILA, Philippines—The Philippine government summoned the Chinese ambassador Monday to protest remarks it considered a threat to use force, saying it will not accept attempts to intimidate Philippine officials critical of Beijing’s actions in the disputed South China Sea. (/ajw/articles/16976980)\n\nNo reproduction or republication without written permission.\n\n## Trending Now [..",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US lawmakers summon Jensen Huang over Chinese spying concerns",
+   "url": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
+   "snippet": "CompaniesShow more Companies \n       Energy\n       Financials\n       Health\n       Industrials\n       Media\n       Professional Services\n       Retail & Consumer\n       Tech Sector\n       Telecoms\n       Transport\n\n   TechShow more Tech \n       Artificial intelligence\n       Semiconductors\n       Cyber Security\n       Social Media [...] Sections \n\n       Companies Home\n       Energy\n       Financi",
+   "published": "Fri, 06 Nov 2026 00:59:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "House Republicans Summon Nvidia's Jensen Huang for Closed-Door Briefing on Alleged China Spy Ties — BigGo Finance",
+   "url": "https://finance.biggo.com/news/06290ae7-590a-4414-8dc3-ef94371f1d99",
+   "snippet": "The summons follows press disclosures about the relationship. The New York Times reported that Jensen Huang and Alice Huang had a close relationship and that President Trump was briefed by intelligence officials on the allegations but declined to act. The Wall Street Journal later reported that officials in at least three countries were concerned she was passing information to the Chinese governme",
+   "published": "Fri, 06 Nov 2026 11:05:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "GOP lawmakers summon Jensen Huang to Congress over alleged Chinese spy links, chip sales at risk",
+   "url": "https://news.meaww.com/gop-lawmakers-summon-jensen-huang-to-congress-over-alleged-chinese-spy-links-chip-sales-at-risk",
+   "snippet": "The proposal would cancel existing export licenses to countries such as China until the government submits a detailed strategy explaining how the chips could affect military and intelligence operations.\n\nMegaspeed has also come under investigation over allegations that it helped smuggle advanced Nvidia graphics processing units into China to bypass US export restrictions.\n\nUnder a deal with the Tr",
+   "published": "Tue, 10 Nov 2026 02:39:19 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_summon",
  "_query": "Chinese company summoned government",
  "_domains": [],

@@ -1,7 +1,28 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria Non-Oil Exports Surpass $6.1 Billion as Government Urges Shift to Production | Economy",
+   "url": "https://ng.headtopics.com/news/nigeria-non-oil-exports-surpass-6-1-billion-as-government-89633365",
+   "snippet": "He said, “Trade without production is merely buying and selling other people’s work. True growth will only come when we make things, add value and employ people at home. ”CBN Bans Interest On Stablecoins, Demands Form M For Import Payments The minister disclosed that non-oil exports exceeded $6.1 billion in 2025, while capital importation reached approximately $21 billion within the same period, d",
+   "published": "Sat, 07 Nov 2026 05:50:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Targets Export Growth, Jobs Through Creative Industries",
+   "url": "https://von.gov.ng/nigeria-targets-export-growth-jobs-through-creative-industries",
+   "snippet": "Nigeria is seeking to leverage the growing strength of its creative industries and export-ready businesses to expand non-oil exports, attract foreign",
+   "published": "Sat, 07 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Billionaire industrialist Dangote launches $2.5 billion Namibia fuel storage project",
+   "url": "https://www.reuters.com/world/africa/billionaire-industrialist-dangote-launches-25-billion-namibia-fuel-storage-2026-11-04",
+   "snippet": "Nigerian billionaire Aliko Dangote launched a $2.5 billion fuel storage and ‌regional pipeline project in Namibia's Walvis Bay on Wednesday that could",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_export",
  "_query": "Niger bans petrol exports",
  "_domains": [],

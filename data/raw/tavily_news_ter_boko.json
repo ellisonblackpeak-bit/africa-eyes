@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Soldiers repelled another coordinated attack targeting Nigerian Christians - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/11/soldiers-repelled-another-coordinated-attack-targeting-nigerian-christians",
+   "snippet": "In August 2026 suspected Boko Haram fighters attacked Gaya-Dlang in Hong LGA, killing a police inspector and seven civilians, abducting four girls , looting shops and burning houses. Hong LGA Chairman Aliyu Saad Yerima confirmed the eight deaths. [...] In mid-October  Reverend Manasseh Mbafe, CAN Secretary for Hong Local Government Area, told TruthNigeria that Boko Haram had destroyed more than 10",
+   "published": "Tue, 10 Nov 2026 17:28:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Islamic State in Iraq and Syria - Expansion, Terror, Insurgency | Britannica",
+   "url": "https://www.britannica.com/topic/Islamic-State-in-Iraq-and-Syria/ISIS-outside-of-Iraq-and-Syria",
+   "snippet": "on Christmas Eve that year. In August 2011 a suicide bomber associated with Boko Haram crashed a car into a United Nations building in Abuja, marking its first major attack on an international target, albeit located within Nigeria. In 2013, after Boko Haram rejected a proposal for amnesty by Nigerian Pres. Goodluck Jonathan if they disarmed, Jonathan declared the group a terrorist organization and",
+   "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Troops Foil Boko Haram Attack, Rescue Three Kidnap Victims in Adamawa",
+   "url": "https://therealmediang.com/news/troops-foil-boko-haram-attack-rescue-three-kidnap-victims-in-adamawa",
+   "snippet": "Troops of the Nigerian Army under Operation Hadin Kai have foiled a terrorist attack, rescued…",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Christian Solidarity International CSI launches campaign to mobilize support for persecuted Christians in Nigeria",
+   "url": "https://www.thenigerianvoice.com/news/376167/christian-solidarity-international-csi-launches-campaign-to.html",
+   "snippet": "A survivor of a Boko Haram attack on a village in Gwoza, Borno State. photo: csi\n\nZurich, November 5, 2026 – Christian Solidarity International (CSI) has launched a new campaign – Christians in Nigeria: Under Siege – to draw attention to the ongoing suffering of Christian communities in Nigeria, especially in the central region known as the Middle Belt. [...] Home\n Facebook\n Twitter\n LinkedIn\n\ntnv",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "No secret ceasefire deal with Boko Haram - Military",
+   "url": "https://guardian.ng/news/nigeria/metro/no-secret-ceasefire-deal-with-boko-haram-military",
+   "snippet": "Advertisement\n\nCiting three sources with contacts among Boko Haram members, the report claimed that the ceasefire had been in effect since June, with attacks reportedly reducing in some communities around Ngoshe.\n\nAt the time, the Director of Defence Media Operations, Maj.-Gen. Mike Onoja, declined to comment when The Guardian sought the military’s position. [...] Earlier, while presenting the mil",
+   "published": "Fri, 06 Nov 2026 15:26:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "At least 60 Christians killed in Ethiopia, but the motive remains unclear - Mission Network News",
+   "url": "https://www.mnnonline.org/news/at-least-60-christians-killed-in-ethiopia-but-the-motive-remains-unclear",
+   "snippet": "“[Rebel groups] look for institutions that are creating stability within the region — educational institutions, religious institutions, other mission groups, possibly, or other government agencies,” says Brobbel.\n\n“When Boko Haram had attacked, they weren’t just attacking Christians or groups; they were attacking other groups. They would attack UN offices. They would attack government offices to c",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "No Arrests After Muslim Gunmen Kill 6 in Plateau Attacks - International Christian Concern",
+   "url": "https://persecution.org/2026/11/10/no-arrests-after-muslim-gunmen-kill-6-in-plateau-attacks",
+   "snippet": "According to a six-year study conducted by the Observatory for Religious Freedom in Africa (ORFA), Islamic Fulani militias are by far the deadliest persecutorsof Christians in Nigeria. The network of militias is responsible for four times more civilian deaths than the two prominent Islamic terror organizations, Boko Haram and Islamic State West Africa Province (ISWAP), combined. [...] These violen",
+   "published": "Tue, 10 Nov 2026 00:04:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Troops Repel Terrorist Attack, Rescue Three Kidnap Victims - Voice of Nigeria",
+   "url": "https://von.gov.ng/troops-repel-terrorist-attack-rescue-three-kidnap-victims",
+   "snippet": "Business and Tech\n Politics\n Sports\n Languages\n  + Yoruba\n  + Igbo\n  + Hausa\n  + French\n  + Arabic\n  + Fulfulde\n  + Kiswahili\n  + Mandarin\n connect\n\nHomeNigeriaTroops Repel Terrorist Attack, Rescue Three Kidnap Victims\n\nNigeria\n\n# Troops Repel Terrorist Attack, Rescue Three Kidnap Victims\n\nBy Nokai Origin, Abuja\n\nShare\n\nFacebookXPinterestWhatsApp [...] XX\n\nYoutubeYoutube\n\n© VOICE OF NIGERIA 2026\n\n",
+   "published": "Tue, 10 Nov 2026 13:00:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Boko Haram",
+   "url": "https://tavily.com/knowledge/company/hLrKUpGR17Rd",
+   "snippet": "# BOKO HARAM\nID: hLrKUpGR17Rd\nHeadquarters: KLERKSDORP, North West, South Africa\nLinkedIn: www.linkedin.com/company/boko-haram · 13 followers\n\n## Headcount\n- Now: 2 · 0 yearly (0%) · 0 quarterly · 0 monthly\n\n## Reputation\n- Open roles: 0",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_boko",
  "_query": "Boko Haram attack",
  "_domains": [],

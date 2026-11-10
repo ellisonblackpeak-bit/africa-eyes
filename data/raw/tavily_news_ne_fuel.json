@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "After Algerian Military Deployment in Niger, Niamey Signs Strategic Cooperation Deal with Haftar – The North Africa Post",
+   "url": "https://northafricapost.com/101461-after-algerian-military-deployment-in-niger-niamey-signs-strategic-cooperation-deal-with-haftar.html",
+   "snippet": "The new agreement sealed with Haftar clan comes few days after Algerian regime delivered about 1,600 tons of gasoline and petroleum products to Agadez, Niger. The Algerian donation is seen as a sweetener to gain the support of Nigerien authorities. However, Niamey reached out to Haftar accused by Algeria of being an ally of the UAE, Israel and Morocco. [...] Energy Europe Headlines International M",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dabafinance - Niger Receives 1.65M Liters of Algerian Fuel as Shortages Persist",
+   "url": "https://dabafinance.com/en/news/niger-receives-1-65M-liters-of-algerian-fuel-as-shortages-persist",
+   "snippet": "The partnership extends to the proposed Trans-Saharan Gas Pipeline, which would transport Nigerian natural gas through Niger to Algeria for export to European markets. Sonatrach is involved in the project, which remains under development. The fuel shipment adds to cooperation between Algeria and Niger as both countries seek to strengthen trade and energy infrastructure across the Sahara. Further d",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Algeria sent troops abroad after half a century! The reason drew attention",
+   "url": "https://en.haberler.com/algeria-sent-troops-abroad-after-half-a-century-2330279",
+   "snippet": "Algeria's military support for Niger began in August. Algeria took action after a failed coup attempt targeting the military administration in Niger's capital, Niamey, on August 29.\n\nIn a statement on August 30, the Algerian Ministry of Defense announced that, at the request of the Nigerien authorities, four Su-30 fighter jets had been sent to Niamey on a support mission. A refueling aircraft also",
+   "published": "Fri, 06 Nov 2026 11:02:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PISM",
+   "url": "https://pism.pl/publications/algeria-returns-to-the-sahel",
+   "snippet": "began operating, supplying electricity to the capital, Niamey. [...] Alongside the restoration of economic relations, the two countries also resumed military cooperation. In August, Algeria handed over four attack helicopters to the Nigerien army, and in response to an attempted coup against General Tiani’s junta at the end of that month, it sent four Su-30 fighter jets as a deterrent against the ",
+   "published": "Thu, 05 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Is Algeria Breaking From Its Historic Nonintervention by Sending Troops to Niger? | RANE Worldview",
+   "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-05/does-algeria-s-troop-deployment-in-niger-signal-a-break-from-its-historic-nonintervention/68c09e58b4837531",
+   "snippet": "deployment during an Oct. 25-26 emergency session. According to a Reuters report citing local sources, the first Algerian convoy reached Arlit, a uranium mining town in northwestern Niger. Meanwhile, Algerian and Nigerien forces secured a 53-truck fuel shipment to Agadez in northern Niger, though a statement from the Nigerien Prime Minister's office claimed that the Algerian forces were present so",
+   "published": "Thu, 05 Nov 2026 21:57:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Le Monde: Fear of a Morocco-UAE-Libya Axis Drives Algeria’s Return to Niger",
+   "url": "https://www.moroccoworldnews.com/2026/11/345408/le-monde-fear-of-a-morocco-uae-libya-axis-drives-algerias-return-to-niger",
+   "snippet": "President Abdelmadjid Tebboune then revised the justification, invoking “common energy and economic interests” and dropping any mention of the military cooperation accord signed with Niamey on October 21. [...] “It is likely that air elements will be deployed more permanently at Niamey,” a Nigerien officer told Le Monde, with troops to guard them, “because the Algerians know the airport is vulnera",
+   "published": "Sat, 07 Nov 2026 17:56:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Presses for Answers as Algerian Troops Arrive in Niger",
+   "url": "https://www.modernghana.com/news/1542984/eu-presses-for-answers-as-algerian-troops-arrive.amp",
+   "snippet": "The arrival of Algerian soldiers in Niger has opened a diplomatic fault line between Brussels and Algiers, with Niamey in the middle.",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Russians are investing in the gas pipeline through which the EU had hoped to free itself from the Russians.",
+   "url": "https://www.ilfoglio.it/en/world/2026/11/05/news/the-russians-are-investing-in-the-gas-pipeline-through-which-the-eu-had-hoped-to-free-itself-from-the-russians--412658",
+   "snippet": "Algeria is asking the Kremlin to join the Trans-Saharan project, which is intended to transport gas from Nigeria to Europe. Moscow's message to the EU is:",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ne_fuel",
  "_query": "Niamey fuel",
  "_domains": [],

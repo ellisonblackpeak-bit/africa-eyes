@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "The Transatlantic Alliance Needs a Capital Pillar | Hudson Institute",
+   "url": "https://www.hudson.org/economics/transatlantic-alliance-needs-capital-pillar-peter-rough-jan-ruzicka",
+   "snippet": "Chinese money is not waiting at the door—it is already inside. China’s foreign direct investment in Europe rose 67 percent to €16.8 billion in 2025, its highest level since 2018.(#endnote-1) In aggregate, these sums are relatively modest compared to the size of the European economy. Chinese capital, however, has increasingly targeted sectors and assets of outsized strategic importance relative to ",
+   "published": "Mon, 09 Nov 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU-China trade tensions to deepen in 2027 despite hybrid deal",
+   "url": "https://www.theparliamentmagazine.eu/news/article/opinion-essay-the-hybrid-car-deal-wont-stop-the-euchina-slide",
+   "snippet": "New cybersecurity legislation would phase out equipment from high-risk suppliers in critical sectors, from telecom networks to connected vehicles, with Chinese manufacturers the principal targets. Tougher screening rules will further limit Chinese investment in sensitive European industries.\n\nThese measures are formally country-agnostic. In practice, they are overwhelmingly China-facing. And the p",
+   "published": "Mon, 09 Nov 2026 11:41:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese FDI hotspots in Europe face political shifts",
+   "url": "https://www.fdiintelligence.com/content/e0498698-efcb-4778-b60c-d160bd179269",
+   "snippet": "Political upheaval in some of Europe's largest destinations for Chinese greenfield investments threatens to change relationships that helped secure",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s China Dilemma is Central Asia’s Opportunity - The Astana Times",
+   "url": "https://astanatimes.com/2026/11/europes-china-dilemma-is-central-asias-opportunity",
+   "snippet": "European companies operate factories and research and development centers in China, while Chinese manufacturers have established strong positions in several industrial sectors. The more realistic prospect, Gałecki notes, is managed strategic rivalry, with cooperation continuing where interests overlap while restrictions tighten in areas considered important for Europe’s economic security. [...] Fo",
+   "published": "Tue, 10 Nov 2026 04:56:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "It’s not a shock, it’s an ocean: reframing the EU’s strategic response to China",
+   "url": "https://www.realinstitutoelcano.org/en/commentaries/its-not-a-shock-its-an-ocean-reframing-the-eus-strategic-response-to-china",
+   "snippet": "and create new opportunities for European firms. The EU should therefore reflect on a new type of investment and services agreement with China that incorporates discipline on a level playing field and assurances against disruption of supply chains. [...] Secondly, in sectors where Europe already enjoys a competitive advantage, it must continue investing to maintain and extend its lead. Existing in",
+   "published": "Tue, 10 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘Flying blind’: Why experts fear Treasury’s China biotech investment crackdown will backfire | Fierce Biotech",
+   "url": "https://www.fiercebiotech.com/biotech/treasury-coins-act-proposal-pharmaceuticals-china-newco-legal-maze-biotech-vc-warnings",
+   "snippet": "With China running clinical trials at a fraction of the time and cost required in the U.S., the thousands of Chinese biotechs may easily find partners in European pharmas and investors, who face no such restrictions on co-commercialization or equity-based deal structures, Kolchinsky suggested. As a result, European players would maintain full visibility into Chinese pipelines while Americans would",
+   "published": "Tue, 10 Nov 2026 14:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Could new U.S. rules on China biotech investments give Europe an edge?",
+   "url": "https://www.pharmavoice.com/news/coins-act-china-biotech-investment-europe-newco/874095",
+   "snippet": "Treasury's proposed COINS Act regulations could complicate U.S.-backed NewCos, potentially giving European drugmakers more room to pursue Chinese assets.",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe returns to Latin America: Is it too late? - Latinoamérica 21",
+   "url": "https://latinoamerica21.com/en/europe-returns-to-latin-america-is-it-too-late",
+   "snippet": "In another conversation, Tangelson expressed his frustration with the negotiations with the European Union. In his view, while China arrived with proposals for investment, financing, and infrastructure, Brussels kept piling on demands and conditions. He was particularly uncomfortable with Europe’s attempt to impose its regulatory frameworks on economies with very different realities. [...] That im",
+   "published": "Mon, 09 Nov 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opinion | Europe urgently needs solidarity on China | South China Morning Post",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3373738/europe-urgently-needs-solidarity-china",
+   "snippet": "Beijing sees something else. Ding Chun, head of the Centre for European Studies at Shanghai’s Fudan University, has warned that the European Union’s China policy could prove “strong at the top but weak at the bottom”. Chinese analysts sort the bloc into protectionists, nervous exporters and governments hunting for Chinese factories. On that reading, Steinmeier’s visit confirmed that German de-risk",
+   "published": "Tue, 10 Nov 2026 12:30:21 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_invest",
  "_query": "Chinese investment Europe",
  "_domains": [],

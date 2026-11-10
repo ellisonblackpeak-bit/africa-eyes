@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Niger-Tchiani dénonce \"l'axe du mal\" Bénin-France-Côte d'ivoire et scelle une alliance énergétique vitale avec l'Algérie - Cameroun24.net infos actus news - Cameroun24.net infos actus news",
+   "url": "https://cameroun24.net/article/72810-niger-tchiani-denonce-l-axe-du-mal-benin-france-cote-d-ivoire-et-scelle-une-alliance-energetique-vitale-avec-l-algerie.html",
+   "snippet": "However, internally, Niger faces a severe economic threat. According to Africa Defense Forum, the Patriotic Movement for Freedom and Justice (MPLJ) has intensified attacks on the country's vital oil pipeline. The 2,000 km pipeline, which connects Niger's oil fields to the Benin coast, is a prime target. The goal is to cripple the military government financially. [...] ## Sabotage et pression polit",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kungiyar MPLJ Waddan Idrissa Madaki Ke Jagoranta Ada ...",
+   "url": "https://www.facebook.com/100064016461329/videos/kungiyar-mplj-waddan-idrissa-madaki-ke-jagoranta-ada-sun-kara-ajiye-makamansu-ka/985632724092435",
+   "snippet": "The tone is serious and informational, focused on Nigerien politics, with no music, violence, or other entertainment elements.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Idris Madaki yayi sanadin aje makaman wasu yan ta adda ...",
+   "url": "https://www.youtube.com/watch?v=tSAV83wM8Xk",
+   "snippet": "Yan niger ku tsaya ku saurari wannan jawabin na gaskiya Idris Madaki yayi sanadin aje makaman wasu yan ta adda a niger.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Niger (The) Breaking News Headlines Today | Ground News",
+   "url": "https://ground.news/interest/niger",
+   "snippet": "Trending InternationallyJensen HuangSonia GandhiDiwaliArtificial IntelligenceRussell Brand\n\nTrending in U.S.Jensen HuangVeterans DayWall Street2026 Midterm ElectionsUS Politics\n\nTrending in U.K.Manchester UnitedPremier LeagueRussell BrandRemembrance DayCeltic\n\nViolence in Northern Nigeria Drives Tens of Thousands Into Niger\n\n#### Violence in Northern Nigeria Drives Tens of Thousands Into Niger\n\n10",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "🎙️ Abdelaziz Mounde - analyste géopolitique\n\n📌 L’accord Haftar-Niger met à l’épreuve les relations entre Alger et Niamey! | NATV قناة شمال أفريقيا",
+   "url": "https://www.facebook.com/NorthAfricaTVChannel/posts/%EF%B8%8F-abdelaziz-mounde-analyste-g%C3%A9opolitique-laccord-haftar-niger-met-%C3%A0-l%C3%A9preuve-les/122182913198705434",
+   "snippet": "أبرز عناوين الصحف الجزائرية: والانتخابات وأزمات المعيشة تطغى على المشهد الداخلي #الغد: 54% من المترشحين للمحليات دون الأربعين.. الشباب صانعو قرار وليسوا هامشاً / سوناطراك تعزز استثماراتها في قطاع الطاقة / فرنسا في مخطط إنقاذ الإليزيه.. احتجاجات الشارع وهجمة إلكترونية وتهديدات خارجية #الاتحاد: الجزائر تطلق مبادرة الإنذارات المبكرة للجميع لتعزيز الجاهزية والاستجابة للكوارث / قرارات مجلس الوزراء في ق",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Yan niger ku tsaya ku saurari wannan jawabin na gaskiya",
+   "url": "https://www.youtube.com/watch?v=U-SUDWVyA-s",
+   "snippet": "Tofah malan yayi magana game da yakin da ya barke tsakanin Fulani da hausawa Yan niger ku tsaya ku saurari wannan jawabin na gaskiya.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Anadolu Agency-FR",
+   "url": "https://www.facebook.com/anadoluagencyfr/posts/niger-alg%C3%A9rie-libye-niamey-renforce-sa-coop%C3%A9ration-militaire-avec-alger-et-ses-c/1446714584215739",
+   "snippet": "Image 1: 🛡️ Sécurité : Le Niger cherche à renforcer la sécurité de ses frontières et ses capacités de lutte contre le terrorisme, tout en maintenant des relations avec les deux camps en Libye.\n\nImage 2: May be an image of suit\n\nImage 3\n\nAll reactions:\n\n7\n\nLike\n\nComment\n\nImage 4\n\nSee more from Anadolu Agency-FR\n\nSee more from Anadolu Agency-FR\n\nEmail address or phone number\n\n \n\nPassword\n\n \n\nLog in\n",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "LESINUN TCHAD - L'actrice Svivie Testud part à la rencontr...",
+   "url": "https://www.tiktok.com/@tchaditude/video/7705042338455850273",
+   "snippet": "L'actrice Sylvie Testud se rend à la rencontre des Goranes, un peuple nomade qui vit au cœur des paysages grandioses du Sahara, plus précisément dans la région",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_mplj",
  "_query": "MPLJ Niger",
  "_domains": [],

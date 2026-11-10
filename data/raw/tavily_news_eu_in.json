@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "India-EU trade deal could add €119 billion by 2035. Can Indian exporters seize the opportunity?",
+   "url": "https://www.firstpost.com/business/india-eu-trade-deal-119-billion-by-2035-indian-exporters-europe-14058339.html",
+   "snippet": "The agreement provides immediate duty elimination for 70.4 per cent of the EU's tariff lines covering 90.7 per cent of India's export value. Another 20.3 per cent of tariff lines, covering 2.9 per cent of India's exports, will receive zero-duty access over three or five years.\n\nThe government expects these concessions to improve the competitiveness of Indian products in the European market. [...] ",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Making the India-EU trade deal work for Tiruppur and Moradabad | Hindustan Times",
+   "url": "https://www.hindustantimes.com/ht-insight/international-affairs/making-the-india-eu-trade-deal-work-for-tiruppur-and-moradabad-101793965820163.html",
+   "snippet": "On January 27, 2026, at the 16th India–EU Summit in New Delhi, Prime Minister (PM) Narendra Modi and European Commission President Ursula von der Leyen announced the conclusion of the India–EU free trade agreement, nearly two decades after talks first began. It is a landmark achievement. Under the deal, more than 99% of India's exports to the EU by value will receive preferential entry, while the ",
+   "published": "Fri, 06 Nov 2026 11:53:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India and EU step up cooperation on trade, AI and connectivity",
+   "url": "https://qazinform.com/news/india-and-eu-step-up-cooperation-on-trade-ai-and-connectivity-b72ab7",
+   "snippet": "Trade and investment discussions covered the timely signing and implementation of the India-EU Free Trade Agreement, as well as continued efforts to conclude the Investment Protection Agreement and the Agreement on Geographical Indications. The two sides also discussed supply chain resilience and economic security through engagement under the Trade and Technology Council and the Blue Valleys initi",
+   "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India EU Trade Relations: India and EU Set to Strengthen Trade and Technology Relations Ahead of Landmark Agreement, ETGovernment",
+   "url": "http://government.economictimes.indiatimes.com/news/economy/india-eu-agree-to-boost-trade-investment-and-technology-ties-ahead-of-landmark-trade-deal/135685266",
+   "snippet": "Weeks ahead of inking of a mega trade pact, India and European Union (EU) on Monday vowed to boost their ties in trade and investment, quantum technologies, semiconductors and biotechnology to deliver \"mutually beneficial and transformative\" outcomes.\nThe two sides also agreed to work towards conclusion of the proposed investment protection agreement and the pact on geographical indications. [...]",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India, EU resolve to boost tech and investment ties ahead of sealing of landmark trade deal",
+   "url": "https://www.newindianexpress.com/business/2026/Nov/09/india-eu-resolve-to-boost-tech-and-investment-ties-ahead-of-sealing-of-landmark-trade-deal-2",
+   "snippet": "\"Both sides reviewed engagements towards boosting trade and investment cooperation, including the timely signing and implementation of the India-EU free trade agreement, and to continue work towards conclusion of the investment protection agreement and the agreement on geographical indications,\" according to a joint press statement. [...] Copied\n\nNEW DELHI: Weeks ahead of inking of a mega trade pa",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Poland and India aim to double trade by 2030 - RankiaPro",
+   "url": "https://rankiapro.com/en/news/poland-and-india-aim-to-double-trade-by-2030-as-tusk-pitches-poland-as-indias-gateway-to-europe",
+   "snippet": "The pitch is timed around the EU-India free trade agreement, expected to be signed in December. The deal is designed to remove or reduce tariffs on goods worth 96.6% of the value of EU exports to India. Domański called it a \"milestone\" and said he hoped it would take effect in the first half of 2027. [...] For investors, the visit signals that Poland intends to use the EU-India agreement to positi",
+   "published": "Mon, 09 Nov 2026 15:56:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and India conclude Horizon Europe association talks, targeting January 2027 – INSIGHT EU MONITORING",
+   "url": "https://ieu-monitoring.com/editorial/eu-and-india-conclude-horizon-europe-association-talks-targeting-january-2027/1254096",
+   "snippet": "The partnership has been strengthened through the EU–India Trade and Technology Council, which facilitates collaboration on key digital areas such as artificial intelligence, digital public infrastructure, semiconductors, high-performance computing, digital skills and the sixth generation of wireless telecommunications. [...] ##### Next steps\n\nThe successful conclusion of negotiations clears the w",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU and India conclude negotiations on association to Horizon Europe - The European Sting - Critical News & Insights on European Politics, Economy, Foreign Affairs, Business & Technology - europeansting.com European Union News -",
+   "url": "https://europeansting.com/2026/11/10/eu-and-india-conclude-negotiations-on-association-to-horizon-europe",
+   "snippet": "The partnership has been strengthened through the EU–India Trade and Technology Council, which facilitates collaboration on key digital areas such as artificial intelligence, digital public infrastructure, semiconductors, high-performance computing, digital skills and the sixth generation of wireless telecommunications. [...] Next steps\n\nThe successful conclusion of negotiations clears the way for",
+   "published": "Tue, 10 Nov 2026 11:46:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India strengthens partnership with EU as it prepares to join Horizon Europe | News | Chemistry World",
+   "url": "https://www.chemistryworld.com/news/india-strengthens-partnership-with-eu-as-it-prepares-to-join-horizon-europe/4024490.article",
+   "snippet": "India’s association to Horizon Europe also complements the India–European Union Free Trade Agreement signed earlier this year, which eliminated various trade barriers, including tariffs on certain chemicals and pharmaceuticals. [...] 2026-10-16T10:26:00Z\n\nBy Rebecca Trager\n\nThe EU and Japan flags fluttering in the wind\n\n### Japan finalises joining the EU’s flagship research programme Horizon Europ",
+   "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_in",
  "_query": "EU India trade",
  "_domains": [],

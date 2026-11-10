@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "US Defense Secretary Pete Hegseth has declared that the ...",
+   "url": "https://www.facebook.com/OffTrendingNews/posts/us-defense-secretary-pete-hegseth-has-declared-that-the-era-of-america-subsidisi/1581252874207535",
+   "snippet": "NATO Secretary-General Mark Rutte noted on Thursday that they spent $90 billion more on defence last year, a 20 percent increase compared with 2024.",
+   "published": "Tue, 10 Nov 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BSA | A more dangerous world | National Centre for Social Research",
+   "url": "https://natcen.ac.uk/publications/bsa-more-dangerous-world",
+   "snippet": "support for more defence spending has continued to rise, why willingness to serve in defence of the nation has come to be regarded as more important, and why public opinion now favours a diversified alliance structure spanning both Europe and the United States. At the same time, these findings reveal a level of nuance that is often absent from public debate, which frequently reduces the funding of",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Higher defence spending, tighter budgets. EU urges governments to prepare",
+   "url": "https://euperspectives.eu/2026/11/eu-defence-spending-budget-flexibility-2028",
+   "snippet": "NATO Secretary General Mark Rutte joined ministers to discuss defence financing. “We need to spend more, we need to spend better, and we need to spend together,” Mr Dombrovskis said. Governments still buy much of their equipment separately, limiting the savings and industrial capacity that larger shared orders could support. He pointed to the €150bn Security Action for Europe (SAFE) loan programme",
+   "published": "Mon, 09 Nov 2026 15:19:31 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe must federalise defense spending – Joint ...",
+   "url": "https://www.reddit.com/r/europe/comments/1xsjyhh/europe_must_federalise_defense_spending_joint",
+   "snippet": "According to the European Defence Agency's July 2026 report, EU defence expenditure reached €418 billion in 2025 and is projected to reach €454 billion in 2026.",
+   "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "24 reactions · 4 comments | 🇪🇺 Higher Defence Spending Is Here to Stay!\nEurope must prepare for substantially higher defence spending without creating permanently larger public deficits and debt.\nValdis Dombrovskis European Commissioner for Economy and Productivity, outlines the European Commission's approach to long-term defence financing during the Eurogroup press conference Q&A in Brussels.\nTemporary flexibility provides governments with time to adjust, but permanent increases in defence expenditure will require difficult budgetary decisions.\n- Can EU countries significantly increase defence spending without creating unsustainable deficits or cutting other essential public services?\n#Dombrovskis #EuropeanDefence #EUDefenceSpending #Eurogroup #eudebates | EU debates - eudebates.tv",
+   "url": "https://www.facebook.com/eudebates.tv/posts/-higher-defence-spending-is-here-to-stayeurope-must-prepare-for-substantially-hi/1926466344992598",
+   "snippet": "will require difficult budgetary decisions. - Can EU countries significantly increase defence spending without creating unsustainable deficits or cutting other essential public services? #Dombrovskis #EuropeanDefence #EUDefenceSpending #Eurogroup #eudebates [...] 🇪🇺 Higher Defence Spending Is Here to Stay! Europe must prepare for substantially higher defence spending without creating permanently l",
+   "published": "Tue, 10 Nov 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s military readiness plans at risk despite record defence spending",
+   "url": "https://www.youtube.com/watch?v=h_xJIj-p-Ys",
+   "snippet": "### Transcript\n[0:02] Europe's ambition to be military ready by 2030 is at risk despite unprecedented political will and a surge in defense\n[0:10] spending according to a leaked draft of the European Commission's work program seen by Euros. Our external borders\n[0:18] critical infrastructure and the values underpinning our European way are increasingly coming under threat the [...] [0:25] paper sa",
+   "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Guns, butter and the Russian threat: how European peace ...",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/09662839.2026.2743741",
+   "snippet": "EU member states' defence spending rose by 62.8% between 2020 and 2025. Public concern about Europe's defence and security is also high, according to recent",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "4.5K views · 23 reactions | “Europe has understood that a stronger Europe also builds a stronger alliance.”\n\nHensoldt CEO Oliver Doerre tells Anna Edwards he doesn’t believe the continent will trim defense investments after the Democrats’ midterms victory  bloom.bg/4sX3dCM | Bloomberg",
+   "url": "https://www.facebook.com/bloombergbusiness/videos/europe-has-understood-that-a-stronger-europe-also-builds-a-stronger-alliancehens/1523491842923321",
+   "snippet": "[](\n\nFederal Reserve Governor Christopher Waller says he supports an interest-rate hike in December, warning that if inflation continues to accelerate he would support a half-percentage-point increase to protect the central bank’s credibility bloom.bg/4zyPFQ7\n\nBloomberg\n\n4K views\n\n · \n\n5h ago\n\nImage 17: Video thumbnail 0:39\n\n[]( [...] [](\n\nPresident Donald Trump said the FBI is looking into Nvidia",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/DfhOHZzs-lx",
+   "snippet": "Defence financing stands at the center of today’s #Eurogroup.   \n  \nWe need to unlock the maximum impact of every euro we spend. The national escape clause already enables EU countries to spend more on defence.  \n  \nEuropean cooperation, joint procurement and economies of scale are key.  \n  \nWe have received two excellent candidacies for the succession of Christine Lagarde.  \n  \nI will meet with @",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

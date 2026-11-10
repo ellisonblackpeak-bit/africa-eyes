@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "More US troops for Poland. US Ambassador to NATO: “We will carry out Trump's decision”",
+   "url": "https://defence24.com/geopolitics/more-us-troops-for-poland-us-ambassador-to-nato-we-will-carry-out-trumps-decision",
+   "snippet": "The American military presence in Europe is changing, and not every country will retain its existing troop contingents. Poland, Estonia and Lithuania nevertheless demonstrate that reductions in certain US forces on the continent do not necessarily mean their withdrawal from NATO’s eastern flank. For Warsaw, the key questions now concern how many additional American soldiers will actually arrive, w",
+   "published": "Tue, 10 Nov 2026 09:10:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NATO faces €7B shortfall on military aid pledge to Ukraine  – POLITICO",
+   "url": "https://www.politico.eu/article/nato-faces-7b-euro-shortfall-military-aid-pledge-ukraine",
+   "snippet": "## Montenegro, Albania seek NATO support to tackle Russian disinformation\n\nAs both countries race to join the EU, their defense ministers warn they are facing rising Russian online interference campaigns.\n\nAllies fear Trump will target NATO in case of midterm loss\n\n## Allies fear Trump will target NATO in case of midterm loss\n\nThe U.S. president could move thousands more troops out of Europe or cu",
+   "published": "Sun, 08 Nov 2026 05:50:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NATO’s military chief tells Poland to keep wary eye on area near Russian border | Stars and Stripes",
+   "url": "https://www.stripes.com/theaters/europe/2026-11-04/poland-russia-border-threat-eucom-23360076.html",
+   "snippet": "STUTTGART, Germany — The U.S. military’s top commander in Europe warned Poland of possible Russian provocations along its northeastern border, Prime Minister Donald Tusk said Tuesday, as Polish authorities reinforced security in the area.\n\nGen. Alexus Grynkewich, NATO’s supreme allied commander Europe and head of U.S. European Command, recently raised concerns about possible hostile activity, Tusk",
+   "published": "Wed, 04 Nov 2026 11:32:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nevada Guard Prepares to Support Forces Across Europe > National Guard > Overseas Operations News - The National Guard",
+   "url": "https://www.nationalguard.mil/News/Overseas-Operations/Article/4646215/nevada-guard-prepares-to-support-forces-across-europe",
+   "snippet": "The company will support U.S. European Command through Operation European Assure, Deter and Reinforce, a U.S. Army Europe and Africa initiative that strengthens NATO’s eastern flank and deters threats across the region. Its transportation mission will help keep supplies and equipment moving to troops supporting those efforts.\n\nBrig. Gen. Randy Lau, land component commander of the Nevada Army Natio",
+   "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
+   "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+   "snippet": "A U.S. Army unit in Germany is not sure what's next as the Pentagon considers a major drawdown of forces in Europe.",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "After the midterms: Europe's three-pronged strategy for dealing with America | European Union Institute for Security Studies",
+   "url": "https://www.iss.europa.eu/publications/commentary/after-midterms-europes-three-pronged-strategy-dealing-america",
+   "snippet": "Trump’s decision to withdraw US troops and cancel missile deployments to Germany creates new gaps in European security. Europe must strengthen its long-range strike capabilities, prepare for further US retrenchment and build support for stronger deterrence.\n\n  Commentary\n\n  By: Giuseppe Spatafora\n\nThere is no available data. [...] EU–NATO cooperation has intensified amid growing security threats, ",
+   "published": "Wed, 04 Nov 2026 09:31:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "COMMENTARY: NATO’s plans come up against messy US, French and German politics",
+   "url": "https://www.reuters.com/commentary/natos-plans-come-up-against-messy-us-french-german-politics-2026-11-06",
+   "snippet": "At the Warsaw Security Forum last month, NATO's top commander, US Air Force General Alexus Grynkewich, took to the podium to reassure US allies that NATO",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trump's peace plan puts NATO's eastern flank into play [ANALYSIS]",
+   "url": "https://tvpworld.com/96341822/trumps-ukraine-peace-talks-put-natos-eastern-flank-in-play",
+   "snippet": "Politics\n\n# Trump's 'big, beautiful agreement' puts eastern flank on negotiating table [ANALYSIS]\n\nStuart Dowell \n\n06.11.2026, 16:35\n\nUS President Donald Trump is exploring a wider European security agreement as part of his efforts to end Russia's war in Ukraine. (Photo by Andrew Harnik/Getty Images)    \n\nUS President Donald Trump is exploring a wider European security agreement as part of his eff",
+   "published": "Fri, 06 Nov 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NATO",
+   "url": "https://tavily.com/knowledge/company/DEPWNLzwKnuO",
+   "snippet": "# NATO\nID: DEPWNLzwKnuO\nWebsite: www.nato.int\nHeadquarters: Brussels, Belgium\nLinkedIn: www.linkedin.com/company/nato · 918,359 followers\nIndustry: International Affairs\nCompany type: Government Agency\nSocial profiles: www.facebook.com/nato, www.twitter.com/nato, www.crunchbase.com/organization/nato\nPhone: 32-2-707-41-11, +32 2 707 5041 [...] ## Headcount\n- Now: 6,793 · -2,095 yearly (-23.6%) · +3",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_nato",
  "_query": "NATO Europe US troops",
  "_domains": [],

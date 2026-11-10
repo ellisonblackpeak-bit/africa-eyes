@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Zelenskyy tells Europe to hurry up and pick a rep for peace talks with Russia",
+   "url": "https://www.politico.eu/article/zelenskyy-tells-europe-pick-negotiator-peace-talks-russia-ukraine/",
+   "content": "Ukraine's leader wants to be consulted on Europe's choice.",
+   "published_date": "Tue, 10 Nov 2026 22:09:28 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Nvidia hires Wachtell Lipton for Jensen Huang investigation",
+   "url": "https://www.politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation/",
+   "content": "The independent investigation follows reports that the CEO had a romantic relationship with an alleged Chinese spy.",
+   "published_date": "Tue, 10 Nov 2026 20:58:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Poland says Pentagon backs permanent US base, with Trump decision due in December",
    "url": "https://www.politico.eu/article/poland-says-pentagon-backs-permanent-us-base-with-trump-decision-due-in-december/",
    "content": "Warsaw is seeking a lasting American military commitment as NATO allies fear further U.S. troop withdrawals from Europe.",
@@ -30,9 +44,16 @@
    "score": 0.6
   },
   {
+   "title": "Portugal slams Rutte for ‘regrettable’ claim that Lisbon downplays Russian threat",
+   "url": "https://www.politico.eu/article/portugal-slams-rutte-for-regrettable-claim-that-lisbon-downplays-russian-threat/",
+   "content": "Portugal’s foreign ministry on Tuesday slammed Mark Rutte after the NATO chief said that for Lisbon, Russia was a distant and less relevant threat. “Portugal, its Government and its people have never been in any doubt about which side of history they stand on,” the ministry said on X. “It is regrettable that the NATO […]",
+   "published_date": "Tue, 10 Nov 2026 18:02:26 +0000",
+   "score": 0.6
+  },
+  {
    "title": "L’Europe a besoin de Nvidia et il faudra plus qu’un scandale d’espionnage pour que ça change",
    "url": "https://www.politico.eu/article/leurope-a-besoin-de-nvidia-et-il-faudra-plus-quun-scandale-despionnage-pour-que-ca-change/",
-   "content": "Jensen Huang, le PDG du fabricant américain de puces, a peut-être était la cible d’une opération d’espionnage chinoise. Même si c’était avéré, il n’existe aucune alternative européenne à Nvidia.",
+   "content": "Jensen Huang, le PDG du fabricant américain de puces, a peut-être été la cible d’une opération d’espionnage chinoise. Même si c’était avéré, il n’existe aucune alternative européenne à Nvidia.",
    "published_date": "Tue, 10 Nov 2026 17:41:35 +0000",
    "score": 0.6
   },
@@ -44,31 +65,10 @@
    "score": 0.6
   },
   {
-   "title": "Surge in EV demand blows past German government’s subsidy forecasts",
-   "url": "https://www.politico.eu/article/germany-electric-vehicle-subsidy-funding-2027/",
-   "content": "The government expected its EV subsidy scheme to run through 2029 — it may be out of cash by the end of next year.",
-   "published_date": "Tue, 10 Nov 2026 16:25:33 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU watchdog probes Commission’s AI pick over conflict of interest concerns",
-   "url": "https://www.politico.eu/article/eu-watchdog-commission-ai-pick-conflict-of-interest-concerns/",
-   "content": "Jim Hagemann Snabe was named AI envoy in June, but the choice has proved controversial.",
-   "published_date": "Tue, 10 Nov 2026 16:02:55 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Iran denies role in cyberattacks on French supermarket refrigerators",
-   "url": "https://www.politico.eu/article/iran-denies-role-in-cyberattacks-on-supermarket-refrigerators/",
-   "content": "Paris pointed the finger at Tehran for the attacks on Monday.",
-   "published_date": "Tue, 10 Nov 2026 15:54:16 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU needs only ‘very trusted partners’ on AI chips, tech chief says amid Nvidia crisis",
-   "url": "https://www.politico.eu/article/eu-trusted-partners-ai-chips-henna-virkkunen-nvidia-crisis/",
-   "content": "“We want to really keep the business secrets in Europe,” Henna Virkkunen says about EU efforts to protect sensitive industries.",
-   "published_date": "Tue, 10 Nov 2026 14:57:49 +0000",
+   "title": "Countries on the fence over COP31’s flagship target",
+   "url": "https://www.politico.eu/article/countries-on-the-fence-over-cop31s-flagship-target/",
+   "content": "Electrification pledge only has a handful of explicit endorsements so far.",
+   "published_date": "Tue, 10 Nov 2026 17:13:41 +0000",
    "score": 0.6
   }
  ],

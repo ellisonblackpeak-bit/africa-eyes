@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Europe adopts China’s playbook to tackle $1.5T rare earth",
+   "url": "https://www.youtube.com/watch?v=T5hzFtnn1eA",
+   "snippet": "[1:17] of that manufacturing. So indeed if Europe wants to make sure that its exposure to China is limited it's the\n[1:26] whole value chain that Europe has to invest on and so far the EU critical raw materials act uh which targets 10%\n[1:35] domestic extraction uh by 2030 40% domestic processing and 25% recycling capacity by 2030. Uh these are strategic\n[1:43] benchmarks but they're not guarantee",
+   "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "As China extends rare earth controls pause, pricing and financing hold back EU supply push | South China Morning Post",
+   "url": "https://www.scmp.com/economy/china-economy/article/3373924/china-extends-rare-earth-controls-pause-pricing-and-financing-hold-back-eu-supply-push",
+   "snippet": "While European companies welcomed the extension, because it would give them some breathing space, it further highlighted the need for Europe to diversify its rare earth supply to ensure predictable and continued access, said Bernd Schaefer, CEO of EIT RawMaterials, a European Union-funded group of companies, universities and research institutes in the raw materials sector. [...] Xiaofei Xuin Paris",
+   "published": "Tue, 10 Nov 2026 08:30:12 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Reducing Europe's dependence on rare earth imports ...",
+   "url": "https://www.facebook.com/bloombergbusiness/posts/reducing-europes-dependence-on-rare-earth-imports-particularly-from-china-has-be/1555008686485219",
+   "snippet": "In some heavy rare earths, Chinese output is 60–70% cheaper than potential European production. China also holds 58% of rare earth patents and has restricted",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rare Earths: EU Taps China Playbook to Cut Dependence on Imports - Bloomberg",
+   "url": "https://www.bloomberg.com/news/features/2026-11-09/rare-earths-eu-taps-china-playbook-to-cut-dependence-on-imports",
+   "snippet": "# Europe Taps China Playbook to Cut $1.5 Trillion Rare Earth Risk\n\nThe EU is trying to reduce its heavy dependence on Chinese imports.\n\nDeep inside the Arctic Circle, more than 1,000 meters underground, the smell of ammonia lingers in the tunnels of the Malmberget mine in Northern Sweden after nightly explosions that loosen 50,000 tons of rock. [...] For more than a century, it’s churned out iron ",
+   "published": "Mon, 09 Nov 2026 05:00:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China accounts for more than 90% of global rare earth ...",
+   "url": "https://x.com/mining/status/2119819471040745743",
+   "snippet": "China accounts for more than 90% of global rare earth refining. Europe is now trying to build its own supply chain, from mining to processing and refining.",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Rare Earth Appetite Could Leave the Rest of Us Hungry - InvestorNews",
+   "url": "https://investornews.com/critical-minerals-rare-earths/chinas-rare-earth-appetite-could-leave-the-rest-of-us-hungry",
+   "snippet": "The economic consequences have become visible in prices. The IEA’s 2026 Global Critical Minerals Outlook reported that European prices for dysprosium and terbium were approximately five times Chinese domestic prices during the period examined. This price difference shows that no single, freely accessible international market remains for these materials. [...] We must also distinguish China’s domes",
+   "published": "Fri, 06 Nov 2026 14:53:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rare Earth export controls: China extends pause to January 10 ahead of Trump-Xi talks - The Oregon Group",
+   "url": "https://theoregongroup.com/latest-news/china-rare-earth-export-controls-pause-extended-january-10",
+   "snippet": "China’s April 2025 licences on seven medium and heavy rare earths (samarium, gadolinium, terbium, dysprosium, lutetium, scandium and yttrium) were never part of the pause and still require a permit for every shipment — helping to drive up prices heavy rare-earth prices outside China far above those inside it; for example, on November 5, spot dysprosium oxide in Europe was quoted at US$3,300-4,200 ",
+   "published": "Mon, 09 Nov 2026 14:51:28 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "From global rare earth resources to the EU supply security",
+   "url": "https://www.researchgate.net/publication/417349626_From_global_rare_earth_resources_to_the_EU_supply_security_An_overview_on_primary_and_alternative_resources_and_strategic_pathways",
+   "snippet": "Relevance. Rising demand for rare earth elements (REE), coupled with China's dominance in reserves and processing, is driving Western countries to seek al-",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mining Weekly",
+   "url": "https://www.facebook.com/miningweekly/posts/europe-taps-china-playbook-to-cut-15trn-rare-earth-risk/1636424518503326",
+   "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n## Mining Weekly's Post\n\n  \n\n[](\n\n### Mining Weekly\n\na day ago\n\nMonday, November 9, 2026 at 10:27 AM\n\n1d · \n\nEurope taps China playbook to cut $1.5trn rare earth risk \n\nImage 1: Europe taps China playbook to cut $1.5trn rare earth risk\n\nminingweekly.com Europe taps China playbook to cut $1.5trn rare earth risk\n\nImage 2\n\nAll reactions:\n\n2\n\nLike\n\nComment\n\nImage 3\n\nAl",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Solvay strikes rare earths deal that will reduce global dependence on China",
+   "url": "https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3?syn-25a6b1a6=1",
+   "snippet": "Sections \n\n       World Home\n       Middle East war\n       Global Economy\n       UK\n       US\n       China\n       Africa\n       Asia Pacific\n       Emerging Markets\n       Europe\n       War in Ukraine\n       Americas\n       Middle East & North Africa\n\nMost Read [...] Sections \n\n       Opinion Home\n       Columnists\n       The FT View\n       The Big Read\n       Lex\n       Obituaries\n       Letters\n",
+   "published": "Wed, 04 Nov 2026 13:05:30 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_rare",
  "_query": "Europe rare earth China",
  "_domains": [],

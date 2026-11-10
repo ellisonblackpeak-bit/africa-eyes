@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Global Semiconductor Sales to China Decline Sharply",
+   "url": "https://www.chosun.com/english/industry-en/2026/11/10/YQAX6QTB7RH45AV5LOG5EGZIRE",
+   "snippet": "One major reason for the reduced share of China is the expansion of AI semiconductor investments in South Korea and Taiwan. In ASML’s third-quarter equipment sales this year, Taiwan and South Korea accounted for 32% and 31%, respectively, surpassing China’s 23%. Lam Research’s sales in South Korea also more than doubled compared to the same period last year. This growth is driven by Samsung Electr",
+   "published": "Mon, 09 Nov 2026 15:35:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea's $350 Billion U.S. Investment Faces Uncertainty, With Tariff Policy Holding Firm - Businesskorea",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280563",
+   "snippet": "based on ownership links to entities from countries of concern, including China, and the sourcing of raw materials. Managing dependence on Chinese materials will therefore remain important for South Korean battery makers. [...] Expanding semiconductor production in the United States and reducing supply-chain dependence on China remain shared policy goals of both parties, suggesting that pressure o",
+   "published": "Thu, 05 Nov 2026 03:57:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
+   "url": "https://uk.finance.yahoo.com/news/ai-stock-selloff-drives-investors-013410190.html",
+   "snippet": "In South Korea, investors are looking beyond major chipmakers toward cosmetics, entertainment, retail and food companies, whose revenues are less directly tied to AI infrastructure spending.\n\nElsewhere, healthcare and consumer staples are gaining attention, alongside manufacturers that could benefit from reduced U.S. trade barriers. [...] The rotation follows a sharp decline in semiconductor-heavy",
+   "published": "Sun, 08 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Democratic gains unlikely to derail Korea-US investment deal - The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10925899",
+   "snippet": "Samsung Electronics has committed more than $37 billion to its Texas semiconductor operations, while SK hynix is developing a chip packaging facility in Indiana worth more than $4 billion.\n\nHyundai Motor Group has pledged $26 billion in US investment through 2028, LG Energy Solution is building a $5.5 billion battery complex in Arizona, and Hanwha is pursuing a $5 billion expansion of its Philly S",
+   "published": "Wed, 04 Nov 2026 06:58:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "MNCs use CIIE to boost growth opportunities - Chinadaily.com.cn",
+   "url": "https://global.chinadaily.com.cn/a/202611/10/WS6af26ec2e4b03ebf8519b6e1.html",
+   "snippet": "\"As a global product innovation center, it not only develops products for the Chinese market, but also provides R&D support for markets in the Asia-Pacific region and Europe, including Malaysia, Indonesia, South Korea and Russia,\" Yang Lan, head of public affairs for Herbalife China, said.\n\nThe value of the CIIE has evolved from being a showcase to becoming a significant opportunity for promoting ",
+   "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia not riding but building the AI boom – GIS Reports",
+   "url": "https://www.gisreportsonline.com/r/asia-building-ai-boom",
+   "snippet": "Like many of these government-led initiatives, Seoul’s plan is not just state-funded AI developments; it also encourages greater private sector investment, aiming for an additional $22 billion worth of private investment. Samsung and SK Hynix, the world’s leaders in high-bandwidth memory chip production, have agreed to invest $520 billion over the next five years for new chip production across the",
+   "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
+   "url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense",
+   "snippet": "FuriosaAI: Seoul-based chip developer FuriosaAI raised $610 million in Series D funding at a $2.9 billion value anchored by South Korea’s state-backed National Growth Fund. Investors included Cisco Investments, Korea Development Bank, Korea Investment Partners, Naver Ventures and other firms. The 9-year-old company develops energy-efficient AI chips and data center accelerators for advanced AI mod",
+   "published": "Tue, 10 Nov 2026 12:00:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea investigates 580 finance firms over data leaks, issues warning | South China Morning Post",
+   "url": "https://www.scmp.com/week-asia/economics/article/3373363/south-korea-investigates-580-finance-firms-over-data-leaks-issues-warning",
+   "snippet": "Advertisement\n\nSouth Korea\n\nThis Week in AsiaEconomics\n\n# South Korea investigates 580 finance firms over data leaks, issues warning\n\nThe Financial Services Commission warns banks against ignoring known security risks and unsafe practices\n\n2-MIN READ2-MIN\n\nListen\n\nA stack of 50,000 South Korea won cash bills. A total of 1 billion won (US$745,000) in funds held by various financial firms have been ",
+   "published": "Thu, 05 Nov 2026 07:08:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Weekly market commentary | BlackRock",
+   "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary",
+   "snippet": "The Forum came at a consequential juncture. After four years of an AI-driven bull market, markets have largely priced in the new regime of structurally higher interest rates we’ve talked about for five years. That makes the investment outlook less directional and more nuanced. Discussions ranged from shifting global capital flows and changing relationships between stocks, bonds and currencies to i",
+   "published": "Mon, 09 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth",
+   "url": "https://www.reuters.com/commentary/breakingviews/how-stop-securonomics-killing-growth-2026-11-09",
+   "snippet": "Trade policies increasingly discriminate ⁠based on ​firms' nationality, rather ​than where products are made. The US and ​EU hope ​this will shrink China's",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_kr",
  "_query": "Chinese company South Korea investment",
  "_domains": [],

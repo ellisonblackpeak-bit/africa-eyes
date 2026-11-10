@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Balancing the Books: Achievements and Challenges in Russian-Chinese Trade and Economic Relations — Valdai Club",
+   "url": "https://valdaiclub.com/a/highlights/balancing-the-books-achievements-and-challenges",
+   "snippet": "A degree of cautious optimism is also warranted regarding the prospects for Russian-Chinese energy cooperation, which currently serves as the cornerstone of the two countries' trade and economic ties. China intends to reduce its dependence on oil and gas imports, viewing this reliance as a major vulnerability. Its energy strategy emphasises the desirability of energy self-sufficiency; indeed, Xi J",
+   "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Amanpour and Company | How Climate Change Is Turning the Arctic Into a Trade Pathway | Season 2027 | PBS",
+   "url": "https://www.pbs.org/video/how-climate-change-is-turning-the-arctic-into-a-trade-pathway-c2cnvq",
+   "snippet": "YOU OFTEN HEAR THAT THE CHINA/RUSSIA RELATIONSHIP IS FRAGILE.\n\nIT'S NOT BASED ON MUTUALITY.\n\nI WOULD AGREE WITH THAT.\n\nI THINK RUSSIA IS BASICALLY A VESSEL STATE TO CHINA, BUT CHINA HAS A VERY STRONG LONG-TERM PLAN TO CONTROL GLOBAL LOGISTICS, GLOBAL SUPPLY CHAINS, AND ALSO TO BE ENERGY INDEPENDENT.\n\nTHAT'S AN IMPORTANT PART OF THE RELATIONSHIP WITH RUSSIA. [...] AND THE ARCTIC IS BECOMING A MAJOR",
+   "published": "Fri, 06 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia's Growing Economic Dependence On China Amid ...",
+   "url": "https://www.facebook.com/100064920212876/posts/read-memri-analysis-an-essential-bond-russias-growing-economic-dependence-on-chi/1558886542952005",
+   "snippet": "For Beijing, Russia is an important supplier of energy and raw materials. For Moscow, China has become an essential economic lifeline. Critics of Russia's",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "'Kill the chicken to scare the monkey': the China–Russia ...",
+   "url": "https://academic.oup.com/ia/article/102/6/2103/9015857",
+   "snippet": "China is now the indispensable technological and military supply 'rear area' for Russia's defence-industrial base and engaged forces, providing a 'shadow",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese exports to Russia slow in October, imports gain pace",
+   "url": "https://www.reuters.com/world/asia-pacific/chinese-exports-russia-slow-october-imports-gain-pace-2026-11-10",
+   "snippet": "Growth in China's exports to Russia slowed in October while imports from Russia picked up pace, data ​from Chinese customs showed on Tuesday.",
+   "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China exports stay brisk as annual trade surplus tops $1tn - Nikkei Asia",
+   "url": "https://asia.nikkei.com/economy/trade/china-exports-stay-brisk-as-annual-trade-surplus-tops-1tn",
+   "snippet": "China producer inflation hits 4-year high as oil costs bite\n\n Economy#### North Korea leans on China and Russia to drive 3% economic growth\n\n  North Korea leans on China and Russia to drive 3% economic growth\n\n Opinion#### China is emerging as a key testing ground for healthcare innovations\n\n  China is emerging as a key testing ground for healthcare innovations\n\n Food & Beverage#### With China hav",
+   "published": "Tue, 10 Nov 2026 06:12:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China says its trade surplus exceeded $1 trillion for a 2nd straight year, as exports in October surged 35% - ABC News",
+   "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+   "snippet": "## Popular Reads\n\n## Dad arrested after allegedly leaving 6-year-old daughter in line for Pokémon cards\n\n## Wisconsin state trooper detained by ICE\n\n## Teacher's aide arrested in connection with NYC jogger's murder: Police\n\n## Russell Brand sentenced to 10 years, 6 months in prison for rape, sexual assault\n\n### ABC News Live\n\nABC News Live\n\n24/7 coverage of breaking news and live events [...] ## L",
+   "published": "Tue, 10 Nov 2026 06:22:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Economic Development and Prosperity Program | Global Development | CSIS",
+   "url": "https://www.csis.org/programs/economic-development-and-prosperity-program",
+   "snippet": "Africa Program\n Americas Program\n Asia Maritime Transparency Initiative\n Australia Chair\n China Power Project\n Europe, Russia, and Eurasia Program\n Freeman Chair in China Studies\n Hidden Reach\n Japan Chair\n Kissinger Chair\n Korea Chair\n Middle East Program\n Powering Forward Initiative\n Southeast Asia Program\n\n All Regions\n Africa\n Americas\n Arctic and Antarctica\n Asia\n Australia, New Zealand & Pac",
+   "published": "Tue, 10 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's Trade Surplus Passes $1 Trillion at Record Pace",
+   "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+   "snippet": "China's trade surplus surged past $1 trillion in the first 10 months of this year, eclipsing last year's record-setting pace as overseas demand for Chinese",
+   "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],

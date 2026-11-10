@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria Rules Out Ceasefire With Boko Haram, ISWAP, Vows Sustained Military Offensive -",
+   "url": "https://www.tvcnews.tv/nigeria-rules-out-ceasefire-with-boko-haram-iswap-vows-sustained-military-offensive",
+   "snippet": "HWVU8uFWIAAxkf8 \n\nNigeria’s military has ruled out any ceasefire agreement with Boko Haram and the Islamic State West Africa Province (ISWAP), insisting that military operations against insurgents and other armed groups will continue.\n\nMilitary spokesperson, Major-General Samaila Uba, gave the position on Thursday during an intelligence briefing in Abuja, saying the armed forces would sustain pres",
+   "published": "Fri, 06 Nov 2026 08:36:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria rules out ceasefire with Islamists, vows sustained military offensive - Internazionale",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/05/nigeria-rules-out-ceasefire-with-islamists-vows-sustained-military-offensive",
+   "snippet": "Gli attacchi di Boko Haram e dell’ISWAP contro postazioni militari nel nord-est della Nigeria sono aumentati nelle ultime settimane, nonostante anni di operazioni militari volte a contenere l’insurrezione che dura ormai da 17 anni nella regione. [...] Di Camillus Eboh\n\nABUJA, 5 novembre (Reuters) - Giovedì l’esercito nigeriano ha escluso qualsiasi cessate il fuoco con i gruppi islamisti Boko Haram",
+   "published": "Thu, 05 Nov 2026 17:35:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Military Dismisses Boko Haram Ceasefire Report, Says Terrorists Are Being Hunted Nationwide – Arise News",
+   "url": "https://www.arise.tv/military-dismisses-boko-haram-ceasefire-report-says-terrorists-are-being-hunted-nationwide",
+   "snippet": "Addressing concerns over the reported movement of ISWAP commanders and fighters into forests in southern Nigeria, Uba said the development was evidence of the military’s operational successes, insisting that the terrorists would not find safe havens in any part of the country.\n\nHe said, “I want to emphasise that the fact that some of these terrorists are abandoning their former locations is a test",
+   "published": "Fri, 06 Nov 2026 07:41:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria rules out ceasefire with Islamists, vows sustained military offensive | The Straits Times",
+   "url": "https://www.straitstimes.com/world/nigeria-rules-out-ceasefire-with-islamists-vows-sustained-military-offensive",
+   "snippet": "Updated Nov 06, 2026, 01:37 AM\n\nABUJA, Nov 5 - Nigeria's military on Thursday ruled out any ceasefire with Islamist groups Boko Haram and Islamic State West Africa Province, adding it would press ahead with operations against insurgent and other armed groups.\n\nAttacks by Boko Haram and ISWAP on military positions in northeastern Nigeria have surged in recent weeks despite years of military operati",
+   "published": "Thu, 05 Nov 2026 17:37:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigerian military denies truce with Boko Haram — Anadolu Agency | UA.NEWS",
+   "url": "https://ua.news/en/dovkolo-svitu/viiskovi-nigeriyi-zaperechili-peremiria-z-boko-kharam-anadolu-agency",
+   "snippet": "The Nigerian military said it had not entered into a ceasefire agreement with Boko Haram, the Islamic State West Africa Province (ISWAP), or other armed groups. Major General Samaila Uba, a spokesperson for the Defence Headquarters, said at a briefing in Abuja that there is no ceasefire. [...] Uba said that the military conducted 588 security operations in September and October. According to him, ",
+   "published": "Fri, 06 Nov 2026 02:01:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria’s Operation Safe Corridor: Community Resistance and Reintegration Challenges",
+   "url": "https://www.cddwestafrica.org/blog/community-resistance-and-reintegration-gaps-in-nigeria-s-operation-safe-corridor-programme",
+   "snippet": "More than 300,000 people linked to Boko Haram and its ISWAP faction surrendered or exited the bush between 2016 and 2025, according to Borno State security officials. Not everyone in this total passed through the federal government's Operation Safe Corridor (OSC). Many surrendered through Borno State's own Borno Model, a parallel track running lighter screening and processing far larger numbers, a",
+   "published": "Sun, 08 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Violence in northern Nigeria drives tens of thousands into Niger",
+   "url": "https://www.businessday.co.za/world/africa/2026-11-10-11112026wop5-filler",
+   "snippet": "The growing exodus underscores the wider regional impact of violence in northern Nigeria, where attacks by Boko Haram, Islamic State West Africa Province (ISWAP) fighters and criminal gangs have uprooted millions of people over the past decade.\n\nAid agencies have reported rising malnutrition, respiratory infections and poor sanitation among new arrivals. [...] Nearly 64,000 people have fled northe",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria rules out ceasefire with Islamists, vows sustained military offensive | International",
+   "url": "https://www.devdiscourse.com/article/international/4002267-nigeria-rules-out-ceasefire-with-islamists-vows-sustained-military-offensive",
+   "snippet": "Attacks by Boko Haram and ISWAP on ‌military positions in northeastern Nigeria have surged in recent ‌weeks despite years of military operations aimed at containing the 17-year-old insurgency in the region.\n\n(This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)\n\n## TRENDING\n\n1\n\nTanzania Secures $1.2 Billion Railway Deal to Boost Trade, Jobs and Region",
+   "published": "Thu, 05 Nov 2026 17:33:16 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "DHQ denies ceasefire with Boko Haram, ISWAP, others",
+   "url": "https://www.vanguardngr.com/2026/11/dhq-denies-ceasefire-with-boko-haram-iswap-others",
+   "snippet": "“Our operations are not limited to Boko Haram or ISWAP. They also target kidnappers and other criminal elements who take up arms against innocent citizens,” he said.\n\nUba warned that individuals involved in criminal activities threatening the lives and security of Nigerians would either be neutralised through lawful military operations or brought to justice. [...] “Anyone involved in criminal acti",
+   "published": "Thu, 05 Nov 2026 16:34:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "ISWAP",
+   "url": "https://tavily.com/knowledge/company/3lVnC6LS3JNt",
+   "snippet": "# ISWAP LIMITED\nID: 3lVnC6LS3JNt\nHeadquarters: LONDON, United Kingdom\nLinkedIn: www.linkedin.com/company/iswap-limited · 6 followers\nIndustry: Financial Services [...] ## Headcount\n- Now: 5 · 0 yearly (0%) · +1 quarterly · 0 monthly\n  - Northern Europe: 2\n  - Eastern Europe: 0\n  - Latin America: 0\n  - Southern Europe: 0\n  - Sub Saharan Africa: 0\n  - Central Asia: 0\n  - Northern America: 0\n  - Aust",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "ter_iswap",
  "_query": "ISWAP Nigeria",
  "_domains": [],

@@ -1,7 +1,49 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "At least 35 killed in migrant boat sinking off Senegal - Taipei Times",
+   "url": "https://www.taipeitimes.com/News/world/archives/2026/11/10/2003867489",
+   "snippet": "to areas from data to computing power, Wang Ruomeng (汪若夢), deputy director-general of the Department of Innovation and High-Tech Development at China’s National Development and Reform Commission, told a briefing in [...] China plans to roll out a broad set of standards governing the safety of artificial intelligence (AI) from development through deployment, representing some of the most comprehens",
+   "published": "Mon, 09 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese man killed in downtown Melbourne stabbing - Chinadaily.com.cn",
+   "url": "https://www.chinadaily.com.cn/a/202611/07/WS6aeeade9e4b03ebf8519b03a.html",
+   "snippet": "China Daily PDF\n China Daily E-Paper\n China Daily Global PDF\n China Daily Global E-Paper\n\nMobile\n\n#### World\n\n Asia-Pacific\n Americas\n Europe\n Middle East\n Africa\n Diplomacy\n City Dance\n Video\n\n\n\n##### Branching across the Pacific\n\n\n\n##### A slower walkabout into Australia's heart\n\n\n\n##### Kenya's HIV fight at risk after US aid cuts\n\n[](\n\nCopyright 1994 -\n\n HOME\n CHINA\n BUSINESS\n OPINION\n WORLD\n C",
+   "published": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Man charged over fatal Melbourne stabbing of Chinese national-Xinhua",
+   "url": "https://english.news.cn/20261109/e6b446e86ef641318a7bfbf7b1e10685/c.html",
+   "snippet": "Man charged over fatal Melbourne stabbing of Chinese national-Xinhua \n\n# Man charged over fatal Melbourne stabbing of Chinese national\n\nSource: Xinhua\n\nEditor: huaxia\n\n2026-11-09 10:18:45\n\nMELBOURNE, Nov. 9 (Xinhua) -- A man has been charged over the fatal stabbing of a Chinese national in central Melbourne on Friday night, Victoria Police said on Monday.\n\nA 47-year-old Chinese national died after",
+   "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos - The New York Times",
+   "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
+   "snippet": "The outbreak at Virunga National Park — Africa’s oldest national park — has killed 30 hippopotamuses since September, when observers first started noticing suspicious carcasses, Laura Parker, who leads the park’s conservation programs, said in an email on Tuesday. The cause of the animals’ deaths, and the outbreak, has since been confirmed by laboratory analyses, she noted. [...] Supported by\n\n# A",
+   "published": "Wed, 04 Nov 2026 00:48:09 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Train collision kills at leas 7, injures over 100 in Egypt",
+   "url": "https://news3lv.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
+   "snippet": "President Abdel-Fattah el-Sissi said in a social media post that he ordered a prompt investigation into the crash.\n\nThe Egyptian railway system, the oldest in Africa and the Middle East, has a long history of deadly accidents, including when a train lost control while approaching the main station in Ramses, which ignited a fire that killed 25 people.\n\nAnother occurred in 2017 on the way to Alexand",
+   "published": "Sun, 08 Nov 2026 18:07:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Suspect in 1994 Rwandan genocide deported from US | South China Morning Post",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3373849/suspect-1994-rwandan-genocide-deported-us",
+   "snippet": "A Rwandan man jailed in the United States for lying about his involvement in the 1994 genocide has been deported to his home country, the state prosecutor said on Monday.\n\nThe Rwandan genocide began in April 1994, and over approximately 100 days some 800,000 people, mostly minority Tutsis, were murdered. [...] Jean Leonard Teganya, 55, was convicted in April 2019 of two counts of immigration fraud",
+   "published": "Mon, 09 Nov 2026 20:04:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_killed",
  "_query": "Chinese national killed Africa",
  "_domains": [],

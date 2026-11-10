@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Japan and U.S. complete Keen Sword 27 with eight live-fire drills and about 200 aircraft - Defence Industry Europe",
+   "url": "https://defence-industry.eu/japan-and-u-s-complete-keen-sword-27-with-eight-live-fire-drills-and-about-200-aircraft",
+   "snippet": "Training took place in and around Okinawa, the Sakishima Islands and Tanegashima, as well as in the Sea of Japan, the East China Sea and nearby waters and airspace. Australia, Canada, France, Germany, the Netherlands, New Zealand and the Philippines also took part. [...] “This exercise demonstrated our capability to provide the critical infrastructure required to support all partner nations collab",
+   "published": "Sat, 07 Nov 2026 09:37:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Canada and the European Union: Variable Geometry with a Purpose - Policy Magazine",
+   "url": "https://www.policymagazine.ca/canada-and-the-european-union-variable-geometry-with-a-purpose",
+   "snippet": "Canada can help build coalitions of democracies able to defend their interests when great powers weaponize dependence. Europe can develop forms of association beyond full membership, becoming a stronger centre of attraction in a fractured world. Arrangements developed with Canada could offer a model for Britain, Australia, Japan and others.\n\nThis is variable geometry with a purpose: partners contr",
+   "published": "Fri, 06 Nov 2026 15:24:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "After the midterms: Europe's three-pronged strategy for dealing with America | European Union Institute for Security Studies",
+   "url": "https://www.iss.europa.eu/publications/commentary/after-midterms-europes-three-pronged-strategy-dealing-america",
+   "snippet": "could carry greater weight if delivered alongside partners such as Canada and Japan, which have also faced the fallout from unpredictable US foreign policies. [...] The new Congress could nevertheless offer Europe opportunities to influence US policy. Democrats are already challenging the president’s diesel deal with Russia, threatening legal action against companies transporting the fuel. They ha",
+   "published": "Wed, 04 Nov 2026 09:31:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s military readiness plans at risk despite record defence spending | Euronews",
+   "url": "https://www.euronews.com/2026/11/04/europes-military-readiness-plans-at-risk-despite-record-defence-spending",
+   "snippet": "“We will set up a new European Instrument for Strategic Enablers such as critical support assets and force multipliers ranging from strategic transport and air-to-air refuelling to space and cyber defence, in cooperation with member states,” the document states.\n\nThe Commission will also pursue proposals put forward by its president, Ursula von der Leyen, as part of her agenda-setting State of the",
+   "published": "Wed, 04 Nov 2026 10:04:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s strategic bet on US technology for air superiority is unravelling",
+   "url": "https://www.bruegel.org/analysis/europes-strategic-bet-us-technology-air-superiority-unravelling",
+   "snippet": "Macdonald Amoah, Morgan D. Bazilian and Jahara Matisek, ‘Scaling Patriot Production: The Industrial Base Crisis Explained’, Analysis, 18 May 2026, Foreign Policy Research Institute, .\n12. 12\n\n    Nobuhiro Kubo and Tim Kelly, ‘US-Japan Patriot missile production plan hits Boeing component roadblock’, Reuters, 20 July 2024, ; Clement Charpentreau, ‘Lockheed Martin outlines integrated firepower visio",
+   "published": "Tue, 10 Nov 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Merz and Magyar seek fresh start in relations amid EU budget disagreements – INSIGHT EU MONITORING",
+   "url": "https://ieu-monitoring.com/editorial/merz-and-magyar-seek-fresh-start-in-relations-amid-eu-budget-disagreements/1254435",
+   "snippet": "Finally, we will further expand our defence industry cooperation. Above all, we want to make use of the existing potential in air defence. SAFE loans and the modernisation of our armed forces, accompanied by an intensive dialogue on defence policy, offer good opportunities to strengthen cooperation. [...] Skip to content\n\nTue. Nov 10th, 2026\n\nInsight EU Logo 300\n\n# Merz and Magyar seek fresh start",
+   "published": "Tue, 10 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India, Japan sign maritime security pact, deepen defence cooperation",
+   "url": "https://ddnews.gov.in/en/india-japan-sign-maritime-security-pact-deepen-defence-cooperation",
+   "snippet": "India and Japan on Thursday agreed to further deepen defence and maritime security cooperation, with Defence Minister Rajnath Singh and his Japanese",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Sri Lanka and Japan seek deeper defence cooperation",
+   "url": "https://www.myanmaritv.com/news/sri-lanka-and-japan-seek-deeper-defence-cooperation",
+   "snippet": "The Embassy of Japan in Sri Lanka hosted a reception in Colombo to mark the 72nd anniversary of the Japan Self-Defence Forces, attended by senior diplomatic",
+   "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_jp",
  "_query": "EU Japan defence cooperation",
  "_domains": [],

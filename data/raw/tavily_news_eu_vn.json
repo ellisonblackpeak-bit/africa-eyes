@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Vietnam-EU trade shifts to high-value goods under EVFTA",
+   "url": "https://english.vov.vn/en/economy/vietnam-eu-trade-shifts-to-high-value-goods-under-evfta-post1348438.vov",
+   "snippet": "Vietnam is currently the EU’s third-largest goods supplier outside the bloc, its largest trading partner in ASEAN, and ranks ninth globally among exporters to the EU market.\n\nAccording to the Ministry of Industry and Trade, the EVFTA has expanded bilateral trade and foreign investment. EU direct investment in Vietnam rose 44% from US$22.7 billion in 2020 to US$32.7 billion in 2025. Total two-way t",
+   "published": "Sun, 08 Nov 2026 17:21:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU-ABC delegation visits Vietnam to deepen trade and investment ties",
+   "url": "https://vir.com.vn/eu-abc-delegation-visits-vietnam-to-deepen-trade-and-investment-ties-164547.html",
+   "snippet": "Since the EVFTA came into force more than six years ago, trade between Vietnam and the EU has continued to expand steadily. Bilateral trade exceeded $65 billion in the first nine months of 2026, representing an almost 20 per cent increase on-year.\n\nThe EU ranks as Vietnam’s fourth-largest trading partner, third-largest export market, and sixth-largest import market. Meanwhile, Vietnam is the EU’s ",
+   "published": "Wed, 04 Nov 2026 01:00:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam has the opportunity to attract high-quality investment capital from Europe.",
+   "url": "https://www.vietnam.vn/en/viet-nam-truoc-co-hoi-don-dong-von-dau-tu-chat-luong-cao-chau-au",
+   "snippet": "He also mentioned the EU's Global Gateway initiative, which can support infrastructure projects such as bridges, roads, and airports, thereby creating more favorable conditions to attract investment to Vietnam.\n\nMeanwhile, Torben Minko, Vice President of EuroCham, assessed that European investors' confidence in Vietnam's short-term and long-term prospects is at a high level. [...] According to Noe",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam and EU pursue new value chains",
+   "url": "https://vir.com.vn/vietnam-and-eu-pursue-new-value-chains-164424.html",
+   "snippet": "Vietnam hopes the EU, as a key member and coordinator of the International Partners Group, will continue to translate its commitments into concrete financial support and technology transfers.\n\nIn particular, JETP should be further developed into a channel for mobilising long-term investment on commercially attractive terms, with participation from a wider range of stakeholders, Thai said. [...] He",
+   "published": "Thu, 05 Nov 2026 05:02:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam seeks deeper EU trade ties to support green transition | SGGP English Edition",
+   "url": "https://en.sggp.org.vn/vietnam-seeks-deeper-eu-trade-ties-to-support-green-transition-post130767.html",
+   "snippet": "Vietnam-EU relations have gained additional momentum after the two sides upgraded ties to a Comprehensive Strategic Partnership in 2026.\n\nVietnam has set a target of achieving double-digit economic growth during the 2026-2030 period, with the goal of becoming one of the world's 30 largest economies by 2030. To achieve this objective, the country must continue expanding markets, improving growth qu",
+   "published": "Thu, 05 Nov 2026 01:23:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam well-positioned to attract high-quality European investment: insiders",
+   "url": "https://vietnamnet.vn/en/vietnam-well-positioned-to-attract-high-quality-european-investment-insiders-2572030.html",
+   "snippet": "Vietnam has strong potential to attract high-quality European investment in renewable energy and high-tech industries,",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European industrial real estate developer CTP to acquire SLP Vietnam portfolio for $500 mln",
+   "url": "https://theinvestor.vn/european-industrial-real-estate-developer-ctp-to-acquire-slp-vietnam-portfolio-for-500-mln-d20416.html",
+   "snippet": "CTP CEO Remon Vos said Vietnam's manufacturing base, competitive labor and energy costs, infrastructure development, and political stability shared several characteristics with the Central and Eastern European markets that have driven the company's growth.\n\nHe added that international manufacturers were increasingly looking beyond China to diversify supply chains under their China+1 strategies, ma",
+   "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PM Pledges Optimal Conditions for Airbus to Expand Operations",
+   "url": "https://vietnam.vnanet.vn/english/long-form/pm-pledges-optimal-conditions-for-airbus-to-expand-operations-475545.html",
+   "snippet": ", thereby supporting European businesses, including Airbus, to expand cooperation and operations in Vietnam.  \n  \nHe expressed his confidence that building upon the fruitful 40-year partnership, the cooperation between Vietnam and Airbus will enter a new phase of development that is more substantive and effective for the mutual benefit of both sides.  \n  \nFor his part, van Wersch commended Vietnam",
+   "published": "Thu, 05 Nov 2026 04:23:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam, Spain seek to deepen Strategic Partnership",
+   "url": "https://en.vietnamplus.vn/vietnam-spain-seek-to-deepen-strategic-partnership-post354999.vnp",
+   "snippet": "Vietnam asked Spain to continue voicing its support for and urging the European Commission (EC) to swiftly lift the IUU “yellow card” imposed on Vietnamese",
+   "published": "Sat, 07 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_vn",
  "_query": "EU Vietnam investment",
  "_domains": [],

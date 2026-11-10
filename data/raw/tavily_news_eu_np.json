@@ -1,7 +1,49 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Drop in China-Europe volumes but global tonnages up 6 percent in October - Air Cargo Week",
+   "url": "https://aircargoweek.com/drop-in-china-europe-volumes-but-global-tonnages-up-6-percent-in-october",
+   "snippet": "China to Europe demand remained depressed in October\n\nThe strong growth in overall worldwide tonnages in October comes despite continuing steep declines in China-to-Europe volumes since the 1 July ending of ‘de minimis’ exemptions for lower-value cargo imports into the European Union (EU), with wider Asia Pacific demand and rates continuing to rise in October. [...] Overall volumes from China & Ho",
+   "published": "Mon, 09 Nov 2026 09:52:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s burgeoning novel medicines success presents opportunity for Europe   - Pharmaceutical Technology",
+   "url": "https://www.pharmaceutical-technology.com/news/bio-europe-2026-china-novel-medicines-success-presents-opportunity-for-europe",
+   "snippet": "Europe must change its legacy approach to enhance its competitiveness on the global innovative medicines development stage. Credit: GlobalData.\n\nIn recent years, China has positioned itself as a key hub for innovative medicines development, with the country having flourished from its roots in active pharmaceutical ingredient (API) manufacturing to become a go-to partner for novel drug assets. [...",
+   "published": "Tue, 10 Nov 2026 10:41:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Seres, Li Auto join Chinese EVs' charge into Europe - Nikkei Asia",
+   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe",
+   "snippet": "## Read Next\n\n China's automaking rise spurs German industry's turn to arms\n\n  Big in Asia#### China's automaking rise spurs German industry's turn to arms\n\n Automobiles#### BYD, Geely lean on global growth as China market enters 'harshest winter'\n\n  BYD, Geely lean on global growth as China market enters 'harshest winter'\n\n Politics#### UK under pressure to align with EU duties on Chinese EVs\n\n  ",
+   "published": "Fri, 06 Nov 2026 22:34:17 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Weekly market commentary | BlackRock",
+   "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary",
+   "snippet": "Read our past weekly market commentaries here\n\n## Intersecting mega forces\n\nSince we launched our mega forces framework, it has become clearer how their intersection shapes almost all our investment views and opens up alpha opportunities. They cut across asset class labels, spurring a rethink of portfolio construction. Investors need to be deliberate about the economic or thematic exposures they o",
+   "published": "Mon, 09 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "CHINA-SHAANXI-XI'AN-MEDIA REPRESENTATIVES-VISIT (CN)",
+   "url": "https://www.malaysiasun.com/news/279423525/china-shaanxi-xian-media-representatives-visit-cn",
+   "snippet": "(261110) -- XI'AN, Nov. 10, 2026 (Xinhua) -- Media representatives make flour-based foods at Xi'an Aiju Grain and Oil Industrial Group in Xi'an, north..",
+   "published": "Tue, 10 Nov 2026 04:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_np",
  "_query": "EU Nepal China",
  "_domains": [],

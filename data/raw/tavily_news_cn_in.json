@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Xi's India visit to help diplomatic thaw, but business ties bound ...",
+   "url": "https://international.astroawani.com/global-news/xis-india-visit-help-diplomatic-thaw-business-ties-bound-suspicion",
+   "snippet": "Chinese companies' proposed investments in India are facing more scrutiny from Beijing itself, including in sectors where sophisticated manufacturing and high-",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "BOOSTING INDIA-CHINA RELATIONS Uday Kotak ...",
+   "url": "https://www.facebook.com/cnbctv18india/posts/boosting-india-china-relationsuday-kotak-founder-director-of-kotak-mahindra-bank/1640648291429263",
+   "snippet": "Kotak said that in a world where tariffs are a weapon, strategic Chinese firms may be more open to investing in India. $48B worth of electronics imported from",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "China Bulletin: November 10, 2026 | U.S.- CHINA | ECONOMIC and SECURITY REVIEW COMMISSION",
+   "url": "https://www.uscc.gov/trade-bulletins/china-bulletin-november-10-2026",
+   "snippet": "(#_ednref8) “India-China Border Tensions: Face-Offs Continue at Multiple Sites in Arunachal Pradesh, Says ITBP Chief,” Outlook India, October 23, 2026. . [...] (#_ednref9) Anbarasan Ethirajan, “India and China Were Easing Tensions—Then a Border Official Spoke Out,” BBC News, October 28, 2026. ; Sudha Ramachandran, “Face-Offs at India-China Border Are Continuing at Multiple Points, ITBP Chief Confi",
+   "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Jean Lu's Post",
+   "url": "https://www.linkedin.com/posts/jean-lujing_india-chinaindiacorridor-crossborderbanking-activity-7523923035322535937-bVUz",
+   "snippet": "At Invest India, the country's national investment promotion agency, we explored opportunities for closer collaboration to support Chinese businesses entering",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "India’s TBM self-reliance after China export curbs | The Straits Times",
+   "url": "https://www.straitstimes.com/asia/south-asia/boring-war-china-cuts-tbm-exports-india-digs-in",
+   "snippet": "India and China have a longstanding border dispute that led to a war between the twoin 1962 and, more recently, alimited but fatal clash in 2020.\n\nExports to other destinations are subject to a simpler registration and information reporting process. [...] Scholars say the move – first announced on Oct 19 – may be aimed at slowing down India’s strategic infrastructure development along the Himalaya",
+   "published": "Fri, 06 Nov 2026 10:15:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Instagram",
+   "url": "https://www.instagram.com/reel/Dfjivt0t3wm",
+   "snippet": "From lithium-ion batteries to polysilicon, India remains dependent on Chinese intermediate goods. Chinoy argues that carefully considered Chinese FDI, particularly where it brings technology transfer and domestic value creation, could help strengthen India's manufacturing capabilities.  \n  \nWatch the full conversation DeKoder and follow for more.  \n  \n#IndiaEconomy #China #FDI #GlobalMarkets #Indi",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s outbound investment and AI implications | Law.asia",
+   "url": "https://law.asia/china-outbound-investment-compliance",
+   "snippet": "The regulation applies to outbound investment by Chinese investors. It sets out approval and filing procedures for capital outflows, establishes a security review regime for investments that affect or may affect national security, and restricts cross-border transfers of technology, data and other resources.\n\nAs Chinese AI companies move beyond product exports to establish overseas production and r",
+   "published": "Wed, 04 Nov 2026 09:57:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Global Times",
+   "url": "https://www.facebook.com/globaltimesnews/posts/editorial-chinas-export-controls-on-tunnel-boring-machines-tbms-have-recently-dr/1698103039028563",
+   "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n## Global Times's Post\n\n  \n\n have recently drawn considerable attention in India. A single TBM should not become a source of friction between #China and #India. India’s ambition to develop its domestic manufacturing industry and China’s right to safeguard its national security are not inherently at odds. In fact, legitimate civilian projects have little reason for ",
+   "published": "Fri, 06 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "12K views · 131 reactions | India Takes Tough Action Against China | 9 Indian Companies Face Major Trade Ban!\n\nIndia has sent a strong message to China! Nine Indian companies are reportedly facing major action amid rising trade tensions. What is behind this decision, and how could it impact India-China relations? Watch till the end!\n\n#IndiaChina #IndiaVsChina #NarendraModi #China #TradeWar #TradeBan #IndianCompanies #Geopolitics #WorldPolitics #BreakingNews #InternationalNews #IndiaNews #GlobalTrade #FacebookReels #trendingreels | Soch Kuch Alag",
+   "url": "https://www.facebook.com/100045265412745/posts/india-takes-tough-action-against-china-9-indian-companies-face-major-trade-banin/1677776900407808",
+   "snippet": "Soch Kuch Alag\n\n18.4K views\n\n · \n\n2d ago\n\nImage 9: Video thumbnail 5:05\n\n[](\n\nRussia-Iran’s BIG Decision: India Gets a Historic INSTC Corridor, America Stunned! #INSTC #IndiaRussia #IndiaIran #InternationalTrade #NarendraModi #VladimirPutin #Iran #Russia #DonaldTrump #Geopolitics #GlobalPolitics #IndiaNews #WorldNews #TradeCorridor #InternationalRelations #BreakingNews\n\nSoch Kuch Alag\n\n11.8K views",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_in",
  "_query": "Chinese company India investment border",
  "_domains": [],

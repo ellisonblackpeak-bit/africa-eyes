@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria: U.S. Trade, Security Partnership Could Create Opportunities in Nigeria - allAfrica.com",
+   "url": "https://allafrica.com/stories/202611090763.html",
+   "snippet": "The US-Nigeria Commercial and Investment Partnership was established through a five-year memorandum signed in July 2024. Its working groups began meeting in June 2025 across agriculture, the digital economy, and infrastructure, bringing government and private-sector participants together to identify obstacles to trade and investment.\n\nThose activities predate the latest AFRICOM dialogue. The bilat",
+   "published": "Mon, 09 Nov 2026 20:17:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US reps to hold hearing on 'persecution of Christians in Nigeria' | TheCable",
+   "url": "https://www.thecable.ng/us-rep-to-hold-hearing-on-persecution-of-christians-in-nigeria",
+   "snippet": "Chris Smith, chairman of the US house foreign affairs Africa sub-committee, will lead a congressional hearing on Nigeria’s efforts to protect Christians and address insecurity in the middle belt.\n\nThe hearing, scheduled for Thursday, November 12, 2026, will examine religious violence by extremist groups, including Boko Haram, and the Nigerian government’s response to attacks on vulnerable communit",
+   "published": "Tue, 10 Nov 2026 10:11:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Mid-Terms Elections: Nigeria Christians Leaders React - Truth Nigeria",
+   "url": "https://truthnigeria.com/2026/11/us-mid-terms-elections-nigeria-christians-leaders-react",
+   "snippet": "“It was under Trump’s first administration that the genocide against the Christians of the north by Islamic badits and terrorists was taken very seriously by an American Government,” he said.\n\n“It was during that time that Nigeria was placed as a Country of Particular Concern’ (CPC) and it got the attention of the world,” he added.\n\nAccording to him, when Joe Biden of the Democrats defeated Donald",
+   "published": "Tue, 10 Nov 2026 17:11:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US Congress revisits Nigeria's Christian killings one year after Trump's religious freedom intervention",
+   "url": "https://africa.businessinsider.com/local/lifestyle/us-congress-revisits-nigerias-christian-killings-one-year-after-trumps-religious/44m8rkf",
+   "snippet": "The United States Congress is preparing another examination of Nigeria's handling of religious violence and insecurity, with lawmakers set to assess the",
+   "published": "Tue, 10 Nov 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "UPDATED: 14 Nigerian-Americans secure victories in US midterm elections",
+   "url": "https://www.premiumtimesng.com/foreign/world-foreign/922855-updated-14-nigerian-americans-secure-victories-in-us-midterm-elections.html",
+   "snippet": "Tuesday’s US midterm elections saw Nigerian-Americans win state legislative seats in many states.\n\n### Join the Premium Times WhatsApp Community For Quick Access To News and Happenings Around You.  Open in WhatsApp\n\nSome Nigerians also won local government positions.\n\n|  |  |\n --- |\n| FIRST BANK AD | Do you live in Ogijo |\n\nNigerians in Diaspora Commission chairperson Abike Dabiri-Erewa identified",
+   "published": "Thu, 05 Nov 2026 06:26:24 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Model Citizens | Council on Foreign Relations",
+   "url": "https://www.cfr.org/articles/model-citizens",
+   "snippet": "forget, sports and entertainment. Recent African immigrants from Cameroon, Egypt, Ethiopia, Ghana, Kenya, Nigeria, and South Africa rank among the most educated and highest paid immigrant groups across the United States. The average Nigerian-born immigrant (immigration to the United States from Nigeria is heavily dominated by Yorubas and Igbos from the southern region of the country, but still) bo",
+   "published": "Mon, 09 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Who be di 14 Nigerian-Americans wey get positions afta US midterm elections - BBC News Pidgin",
+   "url": "https://www.bbc.com/pidgin/articles/ckx2qzq41nl3o",
+   "snippet": "# Who be di 14 Nigerian-Americans win political positions for US midterm elections\n\nup to 14 people with nigerian heritage won various elected positions \n\nWia dis foto come from, UKEME JETER/ODUS EVBAGHARU/OLALEYE ONIKUYIDE/ESTHER AGBAJE/FACEBOOK/WEBSITE\n\nDi US midterm election don confam majority win for di Democrats for both di house of representatives and di senate.\n\nPresident Donald Trump bin ",
+   "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria Erects Strict Stablecoin Wall, Demanding $11M Local Subsidiaries for US Dollar Tokens — Noticias de TradingView",
+   "url": "https://es.tradingview.com/news/financemagnates:cb59dedad094b:0-nigeria-erects-strict-stablecoin-wall-demanding-11m-local-subsidiaries-for-us-dollar-tokens",
+   "snippet": "Stablecoin activity through peer-to-peer channels increased more than sixfold between 2022 and 2026, from $2.3 billion to $14.6 billion, according to the same study. This combination of dollar demand, cross-border use and growing domestic distribution helps explain the structure of the CBN regime.\n\nThe regulator is permitting stablecoins, but wants their issuance, conversion and payment functions ",
+   "published": "Fri, 06 Nov 2026 22:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+   "snippet": "Save\n\nTranslate\n\nChina made eleventh-hour inquiries into OPay Ltd., prompting the Nigeria-focused payments company to halt its $300 million initial public offering in New York hours after pricing it, according to people familiar with the matter. [...] Technology\n\nEXCLUSIVE\n# Africa-Focused OPay Is Said to Halt US IPO After China Inquiry\n\nImage 1: Opay branding on the floor of the New York Stock Ex",
+   "published": "Wed, 04 Nov 2026 14:07:27 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "us_ng",
  "_query": "US Nigeria",
  "_domains": [],

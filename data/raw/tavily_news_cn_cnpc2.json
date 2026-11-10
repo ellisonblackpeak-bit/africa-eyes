@@ -1,7 +1,14 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "CNPC",
+   "url": "https://tavily.com/knowledge/company/y2EBumzKW4mA",
+   "snippet": "# CNPC-AktobeMunaiGas JSC\nID: y2EBumzKW4mA\nWebsite: www.cnpc-amg.kz\nLegal name: CNPC-Aktobemunaigas Jsc\nHeadquarters: Aktobe, Kazakhstan\nLinkedIn: www.linkedin.com/company/cnpc-amg · 1,691 followers\nIndustry: Oil and Gas\nIndustry codes: SIC 13, 138, NAICS 21, 213\nCompany type: Public Company [...] ## Products and services\nKeywords: energy, heavy_industry_and_engineering/energy_industry, kazakhstan",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_cnpc2",
  "_query": "CNPC Niger oil",
  "_domains": [],

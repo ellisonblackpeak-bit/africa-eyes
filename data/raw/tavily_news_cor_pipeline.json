@@ -1,7 +1,91 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria, Barbados partner on $32m pharmaceutical plant, target 12m IV fluid units annually - The Nation Newspaper",
+   "url": "https://thenationonlineng.net/nigeria-barbados-partner-on-32m-pharmaceutical-plant-target-12m-iv-fluid-units-annually/",
+   "snippet": "## ***… Akume says project will strengthen Africa-Caribbean industrial cooperation***. Nigeria and Barbados are advancing a $32 million pharmaceutical manufacturing project that will establish a major intravenous (IV) fluids production facility in the Caribbean nation, with an initial annual capacity of 12 million units. (BPI)and the African Export-Import Bank (Afreximbank), is expected to begin p",
+   "published": "Sun, 08 Nov 2026 20:09:39 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PPL increases capital plan to $25B with proposed Kentucky gas plant - Utility Dive",
+   "url": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
+   "snippet": "Let Utility Dive’s free newsletter keep you informed, straight from your inbox. - [x]  By signing up to receive our newsletter, you agree to our Terms of Use and Privacy Policy. PPL has a robust pipeline of data center projects in Pennsylvania,where projects in “advanced stages increased for the 11th consecutive quarter to 35.3 GW, up 3.5 GW from the second quarter,” CEO Vincent Sorgi said during ",
+   "published": "Mon, 09 Nov 2026 11:38:05 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "$1.6B South Mississippi gas pipeline gets greenlight - The Black Chronicle",
+   "url": "https://blackchronicle.com/southeast/louisiana-southeast/1-6b-south-mississippi-gas-pipeline-gets-greenlight/",
+   "snippet": "By Black Chronicle News Service. (The Center Square) – Energy Transfer announced Tuesday it will build a 215-mile pipeline crossing parts of eastern Louisiana and southern Mississippi that will supply natural gas to electric utilities, liquefied natural gas export terminals […]. Continue reading with a Black Chronicle subscription. Purchase The Black Chronicle Newspaper Subscription – Now with the",
+   "published": "Mon, 09 Nov 2026 05:44:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nigeria, Barbados partner on $32m pharmaceutical plant - The Nation Newspaper",
+   "url": "https://thenationonlineng.net/nigeria-barbados-partner-on-32m-pharmaceutical-plant/",
+   "snippet": "Nigeria and Barbados are working to establish a $32 million intravenous (IV) fluids production facility in the Caribbean nation. The initial yearly capacity of the  project, which is expected to  strengthen  pharmaceutical supply chains, regional health security and industrial cooperation between Africa and the Caribbean, is 12 million units. The partnership is being championed by the governments ",
+   "published": "Mon, 09 Nov 2026 02:08:30 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Wenger May Challenge Infantino in FIFA Presidential Elections - Telecom Asia Sport",
+   "url": "https://www.telecomasia.net/news/football/wenger-challenge-infantino-fifa-presidential-elections/",
+   "snippet": "*   Promo Codes for HollywoodBets South Africa. # Wenger May Challenge Infantino in FIFA Presidential Elections. **Former Arsenal manager Arsène Wenger is seriously considering running for the FIFA presidency, according to The Athletic.**. The experienced coach plans to make a final decision on his potential candidacy by the end of the week. The election for the new head of world football is sched",
+   "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia - World Oil",
+   "url": "https://www.worldoil.com/news/2026/11/10/qatarenergy-to-take-25-of-chevron-operated-pel-82-offshore-namibia/",
+   "snippet": "# QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia. (WO) - **QatarEnergy** has agreed to acquire a 25% participating interest in Petroleum Exploration License 82 (**PEL 82**) in the Walvis basin offshore Namibia from a Chevron affiliate, according to license partner Custos Energy. QatarEnergy will hold 25%, while the National Petroleum Corporation of Namibia (NAMCOR) and Custos ",
+   "published": "Tue, 10 Nov 2026 14:43:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "[PRNewswire] NABEP Replaces Decades-Old Steel Lines with 1,149 Km - Yonhap News Agency",
+   "url": "https://en.yna.co.kr/view/RPR20261110000400353?section=press-release/index",
+   "snippet": "**[PRNewswire] NABEP Replaces Decades-Old Steel Lines with 1,149 Km**. BACHAQUERO, Venezuela Nov. 10, 2026 /PRNewswire=YONHAP/ -- North American Blue Energy Partners (NABEP) has installed 1,149 kilometers of new flexible pipe on the eastern shore of Lake Maracaibo since beginning operations there in 2024. The pipe replaces aging steel lines, which have been a main source of leaks that have damaged",
+   "published": "Tue, 10 Nov 2026 02:11:11 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Saudi Arabia Confirms Strike on East-West Pipeline - The Maritime Executive",
+   "url": "https://maritime-executive.com/article/saudi-arabia-confirms-strike-on-east-west-pipeline",
+   "snippet": "# Saudi Arabia Confirms Strike on East-West Pipeline. Saudi Arabia's energy ministry has confirmed another strike on the East-West Pipeline, which carries crude from the production hubs of the Arabian Gulf coast to export and refining centers on the Red Sea. In a statement, the ministry said that the pipeline was targeted on Monday morning, and that the damage resulted in a \"limited fire,\" which h",
+   "published": "Tue, 10 Nov 2026 01:39:13 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Permitting proving time - Politico",
+   "url": "https://www.politico.com/newsletters/weekly-new-york-new-jersey-energy/2026/11/09/permitting-proving-time-01155755",
+   "snippet": "Good morning and welcome to the weekly Monday edition of the New York & New Jersey Energy newsletter. ALL EYES ON WASHINGTON (VIA BROOKLYN): Dozens of demonstrators posted up outside Senate Minority Leader Chuck Schumer’s Brooklyn apartment building Friday to urge him to block a bill that would speed up the build-out of energy projects, in part by weakening environmental reviews. “It’s a giveaway ",
+   "published": "Mon, 09 Nov 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘Walk to Stop the SERPent Pipeline’: Connecticut Groups Protest Proposed Eversource Pipeline - CleanTechnica",
+   "url": "https://cleantechnica.com/2026/11/09/walk-to-stop-the-serpent-pipeline-connecticut-groups-protest-proposed-eversource-pipeline/",
+   "snippet": "# ‘Walk to Stop the SERPent Pipeline’: Connecticut Groups Protest Proposed Eversource Pipeline. *EAST HAMPTON, Connecticut —* On Saturday, November 7, Sierra Club Connecticut supporters, other community groups, and allies walked for four hours across seven miles from Hurd State Park to Eversource Headquarters in East Hampton to protest the utility’s proposed Southeast Resilience Pipeline. Sierra C",
+   "published": "Tue, 10 Nov 2026 01:56:36 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Israel, Morocco deepen defense cooperation as def. min. director-general Baram visits Rabat - The Jerusalem Post",
+   "url": "https://www.jpost.com/israel-news/defense-news/article-914438",
+   "snippet": "director-general Baram visits Rabat. ## Baram's visit to Morocco reflects the Defense Ministry's strategy to deepen defense cooperation with friendly nations and expand defense exports to strengthen the IDF. Defense Ministry Director-General Amir Baram (L) visits Morocco, November 2026. Defense Ministry Director-General Amir Baram is meeting with senior Moroccan defense officials this week, the mi",
+   "published": "Tue, 10 Nov 2026 09:37:45 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Iraq secures Hormuz shipping arrangement as crude exports recover - Oil & Gas 360",
+   "url": "https://www.oilandgas360.com/iraq-secures-hormuz-shipping-arrangement-as-crude-exports-recover/",
+   "snippet": "# Iraq secures Hormuz shipping arrangement as crude exports recover. * Crude oil exports, insurance costs, iraq, Oman, Strait of Hormuz, U.S. (Oil & Gas 360) – Iraq has reached an understanding with the United States to facilitate crude oil exports through the Strait of Hormuz using a shipping corridor near Oman, potentially improving access to international markets following months of disruptions",
+   "published": "Mon, 09 Nov 2026 21:30:42 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cor_pipeline",
  "_query": "Nigeria Morocco gas pipeline",
  "_domains": [],

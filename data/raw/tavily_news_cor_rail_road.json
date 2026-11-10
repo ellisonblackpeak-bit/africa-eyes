@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Africa's Biggest Rail Projects in 2026, Ranked by Kilometers Under Construction",
+   "url": "https://www.africanexponent.com/africas-biggest-rail-projects-in-2026-ranked-by-kilometers-under-construction",
+   "snippet": "Nigeria's second entry is a cross-border line. The 400-kilometre railway runs from Kano through Katsina to Maradi in Niger, opening a new trade route between northern Nigeria and its neighbour. It is 70 percent complete. The government says a 250-kilometre section, from Dawanu through Kano, Kazaure and Daura to Katsina, will be inaugurated on December 3, 2026. The line was barely 5 percent complet",
+   "published": "Mon, 09 Nov 2026 18:28:58 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "President Tinubu Fast-Tracks Northern Rail Projects - Voice of Nigeria",
+   "url": "https://von.gov.ng/president-tinubu-accelerates-northern-rail-projects",
+   "snippet": "When operational, the Kaduna–Kano railway will improve passenger transportation, facilitate commercial activities and provide an alternative to road travel along one of Northern Nigeria’s busiest commercial corridors.\n\nSimilarly, the Kano–Katsina–Maradi railway, which has attained 70 per cent completion, is expected to strengthen cross-border transportation and facilitate trade between Nigeria and",
+   "published": "Sun, 08 Nov 2026 15:23:34 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu ramps up completion of rail projects in Northern Nigeria - Tribune Online",
+   "url": "https://tribuneonlineng.com/tinubu-ramps-up-completion-of-rail-projects-in-northern-nigeria",
+   "snippet": "“The completed 190-kilometre Jaji–Kano section out of the entire 205-kilometre stretch of the Kaduna–Kano rail project and the 250-kilometre Dawanu–Kano–Kazaure–Daura–Katsina section of the Kano–Maradi project will be inaugurated by December 3, 2026.\n\n“When operational, the Kaduna–Kano railway will improve passenger transportation, facilitate commercial activities and provide an alternative to roa",
+   "published": "Sun, 08 Nov 2026 15:23:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kaduna-Kano rail project reaches 90% completion | Galaxy Television",
+   "url": "https://www.galaxytvonline.com/news/local-news/kaduna-kano-railway-hits-90-completion-set-for-dec-3-inauguration",
+   "snippet": "When operational, the Kaduna-Kano railway is expected to provide an alternative to road transport along one of Northern Nigeria’s busiest commercial corridors.\n\nThe Kano-Katsina-Maradi railway, on the other hand, is expected to strengthen cross-border transportation and trade between Nigeria and Niger Republic.\n\nThe APC Presidential Campaign Council said the projects reflected the Tinubu administr",
+   "published": "Sun, 08 Nov 2026 14:49:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Tinubu Accelerates Northern Rail Projects, Targets December Inauguration – THISDAYLIVE",
+   "url": "https://www.thisdaylive.com/2026/11/09/tinubu-accelerates-northern-rail-projects-targets-december-inauguration",
+   "snippet": "# Tinubu Accelerates Northern Rail Projects, Targets December Inauguration\n\nNigeria  |  3 seconds ago\n\n Kano-Katsina-Maradi rail project reaches 70% completion\n Keyamo: Aviation reforms to generate $25.7bn annual revenue by 2029\n\nChinedu Eze in Lagos and Adedayo Akinwale in Abuja\n\nPresident Bola Ahmed Tinubu is accelerating the completion of major railway projects in Northern Nigeria, with the Kad",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kaduna–Kano Railway Reaches 90% Completion, Outstanding Land Issues Delay Final Connection",
+   "url": "https://www.railwaysafrica.com/news/kaduna-kano-railway-reaches-90-completion-outstanding-land-issues-delay-final-connection",
+   "snippet": "Nigeria’s Kaduna–Zaria–Kano standard gauge railway project has reached approximately 90% completion, according to the Permanent Secretary of the Federal Ministry of Transportation, Engr. Funso Adebiyi.\n\nAdebiyi provided the update during an inspection of the project on 23 October 2026, which included a train journey from Jaji to Kano to assess construction progress and the quality of completed wor",
+   "published": "Wed, 04 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FG to inaugurate finished section of two Northern rail projects in December",
+   "url": "https://businessday.ng/transport/article/fg-to-inaugurate-finished-section-of-two-northern-rail-projects-in-december",
+   "snippet": "The federal government is set to inaugurate the finished sections of two major railway projects in Northern Nigeria, the Kaduna–Kano Standard.",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kaduna-Kano rail line to be inaugurated 3 December - APC Campaign Council",
+   "url": "https://www.premiumtimesng.com/news/top-news/923741-kaduna-kano-rail-line-to-be-inaugurated-3-december-apc-campaign-council.html",
+   "snippet": "The Kano-Katsina-Maradi railway, on the other hand, is expected to improve cross-border transportation and trade between Nigeria and neighbouring Niger Republic.\n\nThe council said the projects reflected the Tinubu administration’s commitment to expanding railway infrastructure and delivering ongoing infrastructure projects across the country as scheduled.\n\n### Share this: [...] The statement said ",
+   "published": "Sun, 08 Nov 2026 15:09:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "FCT residents seek update on Gwagwa-Airport rail project",
+   "url": "https://www.vanguardngr.com/2026/11/fct-residents-seek-update-on-gwagwa-airport-rail-project",
+   "snippet": "By Gabriel Ewepu. ABUJA — Residents along the Gwagwa-Airport railway corridor in the Federal Capital Territory (FCT) have called on the relevant authorities",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Zambia-Lobito Railway advances towards 2027 financial close",
+   "url": "https://www.financialnigeria.com/zambia-lobito-railway-advances-towards-2027-financial-close-sustainable-photovideo-details-1880.html",
+   "snippet": "The International Monetary Fund (IMF) estimates Nigeria's infrastructure stock at 25 per cent of GDP. This is below the ...\n\nThe transaction is the first non-sovereign bond issuance in Africa this year.\n\nWe want teams that will build real systems that can make a measurable impact and scale to a gigaton level -- Musk.\n\nThe bootcamp is designed as an eight-session workshop to be hosted in Nigeria, G",
+   "published": "Fri, 06 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cor_rail_road",
  "_query": "railway project Nigeria",
  "_domains": [],

@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Japan to supply Philippine military with coastal radar and drones | Euronews",
+   "url": "https://www.euronews.com/2026/11/10/japan-to-supply-philippine-military-with-coastal-radar-and-drones",
+   "snippet": "Their defence ministers said in October that they wanted the handover to take place as soon as possible after Japan retires the ship, which it expects to do in the coming years. Philippine crews would receive training first.\n\nThe EU approved a separate €15 million package in July to help Philippine forces monitor the country’s waters.\n\nIts first grant to the Philippines under the European Peace Fa",
+   "published": "Tue, 10 Nov 2026 10:48:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan Gives Philippines Coastal Radar, Surveillance Drones Under EUR24M Grant - News and Statistics - IndexBox",
+   "url": "https://www.indexbox.io/blog/japan-grants-philippines-coastal-radar-and-drones-worth-eur24-million",
+   "snippet": "In July, the EU approved a separate EUR15 million package aimed at assisting Philippine forces in monitoring the country's waters. This first grant to the Philippines under the European Peace Facility will finance coastal radar, infrared surveillance equipment and training.\n\n1. ## 1. INTRODUCTION\n\n   Making Data-Driven Decisions to Grow Your Business [...] Japan said on Monday it would supply the ",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "bne IntelliNews - Italy's Meloni says EU \"all over the place\" on Ukraine as US, Russia talk security",
+   "url": "https://www.intellinews.com/italy-s-meloni-says-eu-all-over-the-place-on-ukraine-as-us-russia-talk-security-482791",
+   "snippet": "img\n\nEl Niño threatens inflation more than growth with the Philippines most exposed - Capital Economics\n\nimg\n\nCyber war fears grip Malaysia as global stockpiling warnings spread\n\nimg\n\nBangladesh's BNP courts Hindu goodwill as Islamist violence lurks\n\nimg\n\nPakistan pins its Afghan border war on India\n\nimg\n\nThe spy scandal tearing Indonesia apart\n\nimg\n\nJapan's Nippon Steel to cut Osaka Steel stake t",
+   "published": "Sat, 07 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Video. EU pledges €50m for Black Sea maritime security in Romania, Bulgaria | Euronews",
+   "url": "https://www.euronews.com/video/2026/11/10/eu-announces-50-million-for-black-sea-maritime-security-hub-in-romania-and-bulgaria",
+   "snippet": "Women activists shout slogans as they protest the anticipated visit of U.S. President Donald Trump in the upcoming ASEAN summit\n\n## Philippines: 'Trump out!' Women rally ahead of ASEAN summit\n\nPhoto\n\n## Who is Alice Huang, the alleged Chinese spy linked to Nvidia's Jensen Huang?\n\nPalestinians inspect tents buried under rocks and earth a day after a large sandstone slab collapsed at a displacement ",
+   "published": "Tue, 10 Nov 2026 10:54:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Russia wants Ukraine peace talks to focus on Europe's post-war security framework - The Times of India",
+   "url": "https://timesofindia.indiatimes.com/world/europe/russia-wants-ukraine-peace-talks-to-focus-on-europes-post-war-security-framework/articleshow/135704327.cms",
+   "snippet": "Edition\n\nIN\n\n IN\n US\n UK\n GCC\n\nEnglish\n\n English\n हिन्दी\n मराठी\n ಕನ್ನಡ\n தமிழ்\n বাংলা\n മലയാളം\n తెలుగు\n ગુજરાતી\n\nTOI logo\n\nSign In\n\nToday's ePaper\n\nLive\n\n News\n World News\n Europe News\n Russia wants Ukraine peace talks to focus on Europe's post-war security framework\n\nUS Aircraft Evacuation\n\nBangladesh Arson Attack\n\nPhilippines Plane Crash\n\nCharlie Kirk Murder\n\nPete Hegseth\n\nNovaya Gazeta\n\nUS Iran W",
+   "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Meghan Markle will no longer deliver joint EU speech with Prince Harry - ABC News",
+   "url": "https://abcnews.com/amp/GMA/News/meghan-markle-longer-deliver-joint-speech-eu-parliament/story?id=137979832",
+   "snippet": "The Philippine Department of Justice later told ABC News the matter involving Markle Sr. was under investigation by an anti-trafficking task force in Cebu.\n\nMeghan has not commented publicly on her father's arrest. She previously released a statement following publication of The Sun's report in October, saying she was \"deeply distressed\" at the news and that her \"thoughts are with any children who",
+   "published": "Mon, 09 Nov 2026 20:30:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks | European Union News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks",
+   "snippet": "Danfoss, a Danish maker of refrigeration controls whose systems were again among those targeted, said it had been in close contact with customers for the past three weeks. It recommended that the systems not be directly accessible from the internet.\n\nFrank Groenewegen, a cybersecurity expert at Deloitte in The Hague, urged retailers to check whether their refrigeration controllers were connected t",
+   "published": "Wed, 04 Nov 2026 03:16:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Iran threatens missile strikes on Europe if US uses bases there for attack | The Jerusalem Post",
+   "url": "https://www.jpost.com/international/article-913985",
+   "snippet": "Nusbacher insisted that, while Europeans had already been aware of the threat posed by Iranian subversion and the violence it sponsors, it must now take into account “the threat of Iranian ballistic missile attack, because European states are to a greater or lesser extent supporting operations against Iran and Russia.”\n\n“However, I think we do a good job in Europe of putting that risk into perspec",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_ph",
  "_query": "EU Philippines security",
  "_domains": [],

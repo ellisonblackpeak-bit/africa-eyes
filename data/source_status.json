@@ -1,8 +1,8 @@
 {
  "tavily": {
-  "ok": false,
-  "detail": "HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
-  "at": "2026-11-10T20:41:09+00:00"
+  "ok": true,
+  "detail": "ok",
+  "at": "2026-11-10T23:34:48+00:00"
  },
  "gdelt": {
   "ok": false,
@@ -12,6 +12,6 @@
  "xai": {
   "ok": false,
   "detail": "HTTP Error 402: Payment Required",
-  "at": "2026-11-10T20:53:29+00:00"
+  "at": "2026-11-10T23:46:56+00:00"
  }
 }

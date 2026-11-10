@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Myanmar’s Civil War and the Neo-Authoritarian Bloc",
+   "url": "https://www.e-ir.org/p/myanmars-civil-war-and-the-neo-authoritarian-bloc",
+   "snippet": "China’s balancing act in Myanmar can be explained by examining its wider stakes in the country. The China-Myanmar Economic Corridor (CMEC), a component of the Belt and Road Initiative (BRI), was established in 2018 to connect China’s landlocked southern provinces to the Indian Ocean through infrastructural projects built across Myanmar. This planned corridor would become an economic lifeline for C",
+   "published": "Sun, 08 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Turning Myanmar ties into progress - Chinadaily.com.cn",
+   "url": "https://global.chinadaily.com.cn/a/202611/06/WS6aed2e4ee4b03ebf8519ab8a.html",
+   "snippet": "Regional connectivity offers another avenue for cooperation. The China-Myanmar Economic Corridor provides an important framework for strengthening bilateral economic ties and connecting markets across the region. Major projects, including the Kyaukphyu Deep-Sea Port, the Mandalay-Muse Railway and related transport and energy infrastructure, can contribute significantly to Myanmar's economic develo",
+   "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Hurry Up With Our Investment Projects, China tells Myanmar Regime",
+   "url": "https://www.irrawaddy.com/news/myanmar-china-watch/hurry-up-with-our-investment-projects-china-tells-myanmar-regime.html",
+   "snippet": "[](  [](  [](\n\nThe planned corridor includes several flagship projects, notably the Kyaukphyu deep-sea port in Rakhine State and a railway linking Kyaukphyu through Mandalay and Muse with China’s Yunnan Province.\n\nThe Kyaukphyu Special Economic Zone and deep-sea port project is particularly important for Beijing because it would provide China with direct access to the Indian Ocean while supporting",
+   "published": "Thu, 05 Nov 2026 09:24:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "‘Mekong Six’ meet in Beijing - Friends of Socialist China",
+   "url": "https://socialistchina.org/2026/11/10/mekong-six-meet-in-beijing",
+   "snippet": "implementation of projects under the Myanmar-China Economic Corridor and continuously enhance the level of mutually beneficial cooperation between the two countries. Myanmar will step up efforts to combat telecom fraud in cooperation with China and other countries in the region. Myanmar welcomes more Chinese companies to invest and do business in the country. Myanmar also thanked China for upholdi",
+   "published": "Tue, 10 Nov 2026 15:40:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The role of China and Russia in Myanmar | Revolutionary Communist International",
+   "url": "https://marxist.com/the-role-of-china-and-russia-in-myanmar",
+   "snippet": "Over time, China’s needs from Myanmar went well beyond extraction. Kyaukphyu in Rakhine State, which began as a small fishing village, is a strategic node in the Belt and Road. Oil and gas pipelines already run from there into Yunnan. Now, the plan is to add a deep-sea port and a railway to Kunming, connecting China directly to the Indian Ocean. China would thus be able to bypass the Malacca Strai",
+   "published": "Mon, 09 Nov 2026 17:26:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Myanmar Foreign Debt Falls to $10.8b but Experts Warn of Collapse",
+   "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/myanmar-foreign-debt-falls-to-10-8b-but-experts-warn-of-collapse.html",
+   "snippet": "Meanwhile, Chinese loans have financed key infrastructure, energy, pipelines, and Belt and Road projects across Myanmar. Regular regime payments halved Chinese debt from $3 billion to around 1.5 billion between 2021 and 2025.  \n However, analysts warn that the heavy burden of foreign currency repayments amid an international aid freeze and deepening economic crisis are fuelling kyat depreciation a",
+   "published": "Mon, 09 Nov 2026 13:04:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The FE - Projects like Teesta, Mongla, economic corridor to boost both economies",
+   "url": "https://thefinancialexpress.com.bd/trade/projects-like-teesta-mongla-economic-corridor-to-boost-both-economies",
+   "snippet": "Published:\n\nChina's engagement in projects like China-Myanmar-Bangladesh economic corridor, Teesta River management and Mongla EPZ will contribute to overall development and to higher living standards of the two peoples.\n\nAdvertisementAdvertisement\n\nSuch note of optimism came from visiting Minister of the International Department of the CPC Central Committee (IDCPC) of China Liu Haixing on Wednesd",
+   "published": "Thu, 05 Nov 2026 03:14:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "India’s Anti-China Mega-Dam Triggers A Crisis At Home - OpEd - Eurasia Review",
+   "url": "https://www.eurasiareview.com/09112026-indias-anti-china-mega-dam-triggers-a-crisis-at-home-oped",
+   "snippet": "On July 19, 2025, China formally launched construction of a massive hydropower complex on the lower Yarlung Tsangpo. Comprising five cascade hydropower stations, the project carries an estimated investment of 1.2 trillion yuan, approximately $168 billion.\n\nIts upstream location has heightened Indian concerns about river-flow regulation, flood risks and limited hydrological information.\n\nNew Delhi ",
+   "published": "Sun, 08 Nov 2026 23:15:49 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China connects 7.2 MW centralised rooftop solar project in Jiangsu | Solar Power News | Renewables Now",
+   "url": "https://renewablesnow.com/news/china-connects-7-2-mw-centralised-rooftop-solar-project-in-jiangsu-1304595",
+   "snippet": "arrow\n1304628\n\n###### Yakadam JV to build 100-MW solar park in Ghana\n\nadded\nlogo ren\n\n###### Latest in China\n\narrow\n1304484\n\n###### China’s new wind, solar project registrations slow down in Sept\n\nadded\nlogo ren\n\n###### Latest in ASIA & PACIFIC\n\narrow\n1304609\n\n###### Druk Green, EGATi mull up to USD 2bn investment in Bhutan renewables\n\nadded\n\n###### Most read stories\n\n1304489\n\n###### ORIX to suppl",
+   "published": "Mon, 09 Nov 2026 14:16:14 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "President for stronger Bangladesh-China ties",
+   "url": "https://www.bssnews.net/news-flash/441953",
+   "snippet": "DHAKA, Nov 4, 2026 (BSS) - President Mirza Fakhrul Islam Alamgir today called for further strengthening Bangladesh-China bilateral relations, with",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "mm_wide",
  "_query": "Myanmar China project",
  "_domains": [],

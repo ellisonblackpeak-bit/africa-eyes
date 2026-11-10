@@ -1,7 +1,35 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Algerian Soldiers in Niger: European Union Seeks Clarifications - BENIN WEB TV",
+   "url": "https://beninwebtv.bj/en/algerian-soldiers-in-niger-european-union-seeks-clarifications",
+   "snippet": "A first Algerian military convoy has arrived in Arlit, northern Niger, Reuters reported on October 30, citing ten local sources. The number of soldiers and the timeline for their deployment have not been disclosed.\n\nAlgeria has interests in Niger’s energy sector through its state-owned company Sonatrach. It is also participating, along with Niger and Nigeria, in the Trans-Saharan Gas Pipeline proj",
+   "published": "Fri, 06 Nov 2026 16:46:54 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Benin: Trader to sell first Sèmè crude cargoes in decades | African Energy",
+   "url": "https://www.africa-energy.com/news-centre/article/benin-trader-sell-first-seme-crude-cargoes-decades",
+   "snippet": "Home\n News \n  + Latest news\n  + Hot topics\n  + Countries\n  + Power\n  + Resources\n  + Strategy & risk\n  + Atlas\n  + Reports\n  + Events\n  + Subscribe\n Data \n  + Search the database\n  + Data Tool\n  + Data Trends\n  + Project updates\n  + News and insights\n  + Demo & pricing\n Consultancy \n  + Market evaluation\n  + Deal support\n  + Data modelling & insights\n  + Monitoring & managing risk\n  + Showcase you",
+   "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NNPC posts N3.49trn profit in nine months",
+   "url": "https://www.vanguardngr.com/2026/11/nnpc-posts-n3-49trn-profit-in-nine-months",
+   "snippet": "By Obas Esiedesa, Abuja. ABUJA — The Nigerian National Petroleum Company Limited (NNPC) recorded a cumulative Profit After Tax (PAT) of N3.494 trillion",
+   "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "31 Companies Emerge Winners Of NUPRC’s Oil Bid Round",
+   "url": "https://thefact.ng/31-companies-emerge-winners-of-nuprcs-oil-bid-round",
+   "snippet": "After a keenly contested bidding process, 31 companies emerged winners of 37 oil and gas blocks at the 2025 Licensing Round, held at the Transcorp Event",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_pipe",
  "_query": "Niger Benin pipeline",
  "_domains": [],

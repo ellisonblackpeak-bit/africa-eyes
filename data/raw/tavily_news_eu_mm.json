@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Slovakia files lawsuit to challenge EU ban on Russian energy | Myanmar International TV",
+   "url": "https://www.myanmaritv.com/news/slovakia-files-lawsuit-challenge-eu-ban-russian-energy",
+   "snippet": "Slovak officials argue that the energy ban functions as a foreign policy and sanctions measure, which legally requires unanimous approval from all EU member states rather than a qualified-majority vote. Slovakia remains heavily reliant on Russian fossil fuels, with the nation's current gas contract with Gazprom running through 2034.\n\nPrime Minister Robert Fico has also warned that his country will",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh",
+   "url": "https://www.eureporter.co/world/myanmar/2026/11/10/eu-releases-e16-million-in-humanitarian-aid-for-myanmar-and-rohingya-refugees-in-bangladesh",
+   "snippet": "The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar,",
+   "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Advances Sanctions Plan Against Smugglers – The European Times",
+   "url": "https://europeantimes.news/2026/11/eu-advances-sanctions-plan-against-smugglers",
+   "snippet": "According to the joint statement from the home affairs session, work is under way on a new EU sanctions framework covering migrant smuggling, trafficking in human beings and other serious forms of organised crime. The proposed measures would allow the bloc to freeze assets and prohibit designated individuals from entering or travelling through the EU. [...] The two-day meeting, which continues on ",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Non-EU countries align with EU sanctions, pile up pressure on Russia over Ukraine",
+   "url": "https://www.brusselstimes.com/eu-affairs/2391716/non-eu-countries-align-with-eu-sanctions-pile-up-pressure-on-russia-over-ukraine",
+   "snippet": "Friday, 6 November 2026\n\nImage 1: The Brussels Times Magazine 2026/2258 on 8 October, renewing restrictive measures originally set out in Decision (CFSP) 2024/2643 until 9 October 2027.\n\nAs part of that decision, the EU amended entries concerning eight individuals on a list of sanctioned people and organisations and removed one individual from the same list. [...] Albania, Bosnia and Herzegovina, ",
+   "published": "Fri, 06 Nov 2026 05:35:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU expands Ukraine sanctions push with new office and crypto task force",
+   "url": "https://www.yahoo.com/news/politics/articles/eu-expands-ukraine-sanctions-push-131045148.html",
+   "snippet": "Advertisement\n\nAdvertisement\n\nAlbuquerque's announcements followed two sanctions meetings that same day: one for EU countries and institutions to address sanctions loopholes, which Albuquerque hosted, and another bringing together sanctions coordinators from allied countries, hosted by the EU's sanctions envoy, David O'Sullivan.\n\nRead also: Finland defense minister calls for burden sharing on defe",
+   "published": "Fri, 06 Nov 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Russian Developers Manage Western Sanctions and why - EU Reporter",
+   "url": "https://www.eureporter.co/economy/2026/11/07/how-russian-developers-manage-western-sanctions-and-why",
+   "snippet": "Sanctions do not, by themselves, mean that construction must stop, apartment sales must cease or projects cannot be completed. PIK continued operating in the domestic market despite US and EU sanctions, and Samolet said it would continue normal operations after the EU restrictions.\n\nRisks remain. Sanctioned companies may face additional difficulties with international payments, the purchase of som",
+   "published": "Sat, 07 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_mm",
  "_query": "EU Myanmar sanctions",
  "_domains": [],

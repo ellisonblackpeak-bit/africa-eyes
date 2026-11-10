@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "How the EU can rescue its battery industry | Centre for European Reform",
+   "url": "https://www.cer.eu/insights/how-eu-can-rescue-its-battery-industry",
+   "snippet": "Chinese manufacturing capacity – and the speed with which it continues to expand – make it unlikely that Europe, despite its ambitions to be a clean technology leader, will be able to build enough capacity to become a net exporter of the most produced battery types in the short-term. Chinese companies such as CATL and BYD each have more manufacturing capacity than the whole of the EU combined – wi",
+   "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Renault Twingo: Can China Speed Help Europe Build Affordable EVs? | Gasgoo",
+   "url": "https://autonews.gasgoo.com/articles/ev/renault-twingo-can-china-speed-help-europe-build-affordable-evs-2120077662785282048",
+   "snippet": "Twingo illustrates this approach. Renault has retained the identity of a familiar European city car while drawing on engineering resources and development methods in China. European manufacturing remains part of the equation.\n\nBut there is an important distinction between reducing development time and achieving sustainable profitability. [...] The vehicle was designed in France, developed with sig",
+   "published": "Tue, 10 Nov 2026 08:58:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lithuania builds world’s biggest ultra-fast laser factory amid China tensions | South China Morning Post",
+   "url": "https://www.scmp.com/news/china/science/article/3373418/lithuania-builds-worlds-biggest-ultra-fast-laser-factory-amid-china-tensions",
+   "snippet": "Advertisement\n\nScience\n\nChinaScience\n\n# Lithuania builds world’s biggest ultra-fast laser factory amid China tensions\n\nTies between Beijing and Vilnius remain strained over Taiwan, but Litilit CEO says supply chain realities can override political posturing\n\n4-MIN READ4-MIN\n\nLitilit’s new factory in Vilnius, Lithuania will be able to produce 3,000 femtosecond lasers per year. Photo: Litilit\n\nHolly",
+   "published": "Thu, 05 Nov 2026 13:00:10 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Dispute between Wingtech and Nexperia widens",
+   "url": "https://www.chinadailyasia.com/article/642503",
+   "snippet": "Before the dispute, Nexperia operated a globally integrated manufacturing model, with front-end wafer production mainly in Germany and the United Kingdom, and major back-end assembly and testing facilities in Dongguan, Guangdong province, according to the company. [...] Jian Junbo, director of the Center for China-Europe Relations at Fudan University, warned that the dispute could undermine Chines",
+   "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China’s Push Into German Wind Sector Threatens Local Jobs and Manufacturing - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-05/german-wind-industry-seen-facing-5-6-billion-threat-from-china",
+   "snippet": "EXCLUSIVE\n\nEnergy\n\n# German Wind Industry Seen Facing €5.6 Billion Threat From China\n\n## Takeaways by Bloomberg AI\n\nChina’s push into Europe’s wind turbine sector threatens local manufacturing activity and puts regional energy systems at risk, according to a study commissioned by wind turbine maker Nordex SE. [...] In Germany alone, as much as €5.6 billion a year in manufacturing value could be lo",
+   "published": "Thu, 05 Nov 2026 12:35:21 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What Europe’s Carmakers Get Wrong About Chinese EVs",
+   "url": "https://emag.directindustry.com/2026/11/10/what-europe-carmakers-get-wrong-about-chinese-ev-electric-vehicles",
+   "snippet": "Chinese EVs cost less to build largely because of decisions made at the design stage, not on the factory floor.",
+   "published": "Tue, 10 Nov 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth",
+   "url": "https://www.reuters.com/commentary/breakingviews/how-stop-securonomics-killing-growth-2026-11-09",
+   "snippet": "Trade policies increasingly discriminate ⁠based on ​firms' nationality, rather ​than where products are made. The US and ​EU hope ​this will shrink China's",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "CHOOSING CHINA: US Battery Startup That Ditched Kentucky for China Opens Factory as Trump and Xi Meet",
+   "url": "https://energynow.com/2026/09/choosing-china-us-battery-startup-that-ditched-kentucky-for-china-opens-factory-as-trump-and-xi-meet",
+   "snippet": "By David Kirton and Nicoco Chan Summary EnerVenue picked Changzhou due to skills, supply chain,…",
+   "published": "Sat, 07 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Valeo learns from China as it cuts costs and expands beyond cars - Automotive News",
+   "url": "https://www.autonews.com/manufacturing/suppliers/ane-valeo-adopts-china-strategy-1105",
+   "snippet": "Suppliers\n\n# Valeo adopts China-inspired strategy to reshape auto-parts operations\n\nAdd as a preferred source on Google\n\nPERILLAT-MAIN_i.jpg\n\nValeo CEO Christophe Perillat says he is looking to China to streamline the supplier. (VALEO)\n\nB\n\nBy\n\nBloomberg\n\nNovember 05, 2026 06:12 AM EST\n\n## Featured Stories\n\nGM\n\nGM wagers $750 million on hybrids because it can’t afford to keep sitting out [...] Mazd",
+   "published": "Thu, 05 Nov 2026 11:12:10 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_cn_project",
  "_query": "Chinese company Europe factory",
  "_domains": [],

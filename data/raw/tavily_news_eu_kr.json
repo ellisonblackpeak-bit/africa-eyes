@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "South Korea's Hanwha breaks ground on rocket factory in Poland - UPI.com",
+   "url": "https://www.upi.com/Top_News/World-News/2026/11/05/hanwha-aerospace-poland-defense-industry/3831793919368",
+   "snippet": "Poland's defense ministry has identified potential opportunities for jointly developing next-generation ammunition and exporting products to allied countries.\n\nThe facility is expected to create more than 200 local jobs.\n\nSouth Korea expands defense industry presence in Europe\n\nHanwha Aerospace has already established a significant position in the European defense market through sales of K9 self-p",
+   "published": "Thu, 05 Nov 2026 23:01:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Poland’s 180 South Korean-Made K2 Black Panthers Bolster NATO’s Eastern Flank - Defence Security Asia",
+   "url": "https://defencesecurityasia.com/en/poland-k2-black-panther-nato-eastern-flank",
+   "snippet": "For Indo-Pacific security observers, the Polish case demonstrates how South Korean defence production can influence European force posture through export availability and industrial cooperation, connecting an Asian manufacturing base to NATO deterrence without implying that procurement automatically changes formal alliance commitments. [...] The first ten K2 tanks arrived in December 2022, approxi",
+   "published": "Thu, 05 Nov 2026 14:42:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
+   "url": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
+   "snippet": "\"South Korean defense companies have continued to expand cooperation with partners in Western Europe and the Middle East, including in air-defense systems, while additional K9 howitzer orders suggest that supply constraints and the continued importance of deterrence remain supportive of demand for conventional platforms,\" BofA's Hwang said. [...] South Korean defense stocks rode a wave of global r",
+   "published": "Thu, 05 Nov 2026 08:02:41 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korean firms eligible to supply EU satellite network - Aju Press AMP",
+   "url": "https://m.ajupress.com/amp/20261110041002839",
+   "snippet": "The potential opening would extend Korea’s growing defense business in Europe into space communications. Korean manufacturers have already secured major contracts in Poland for K2 tanks, K9 self-propelled howitzers and combat aircraft. Winning satellite work would depend on meeting a separate set of technical and security requirements. [...] On September 17, EU Defense and Space Commissioner Andri",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Hanwha Ocean develops submarine torpedo launcher after decade of work with South Korean defence agency",
+   "url": "https://defence-industry.eu/hanwha-ocean-develops-submarine-torpedo-launcher-after-decade-of-work-with-south-korean-defence-agency",
+   "snippet": "Skip to content\n\nDefence Industry Europe - HomepageDefence Industry Europe - Homepage link\n\nDefence Industry Europe\n\nDefence Industry Europe - HomepageDefence Industry Europe - Homepage link\n\nDefence Industry Europe\n\n\n\nSea  |\n\nHanwha Ocean develops submarine torpedo launcher after decade of work with South Korean defence agency\n\nImage: Hanwha Ocean. [...] Sea   Naval Group is offering to build and",
+   "published": "Thu, 05 Nov 2026 22:05:44 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea plans to extend anti-piracy patrols closer to Strait of Hormuz | Euronews",
+   "url": "https://www.euronews.com/2026/11/05/south-korea-plans-to-extend-anti-piracy-patrols-closer-to-strait-of-hormuz",
+   "snippet": "Seoul has backed a British and French-led plan to protect merchant ships and clear mines in the strait once conditions allow. Its defence ministry said sending mine-clearing equipment to waters off Oman would give South Korean crews experience they could use in a future mission. [...] South Korea’s defence ministry said 36 piracy incidents had been reported off Somalia so far this year, up from 11",
+   "published": "Thu, 05 Nov 2026 12:07:23 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
+   "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+   "snippet": "When a specialized U.S. Army unit in Germany was told it might move to South Korea this fall, soldiers started packing their cutting-edge equipment.",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Canada-EU alliance could offer blueprint for Japan, South Korea and Australia",
+   "url": "https://www.brusselstimes.com/2392595/canada-eu-alliance-could-offer-blueprint-for-japan-south-korea-and-australia",
+   "snippet": "The EU and Canada are creating an ambitious new partnership for economic security, but upcoming EU elections could narrow the window for a deeper",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "North Korea claims new missile technology as Trump-Kim diplomacy remains in doubt | Stars and Stripes",
+   "url": "https://www.stripes.com/theaters/asia_pacific/2026-11-05/north-korea-missile-technology-diplomacy-23369224.html",
+   "snippet": "South Korea’s military detected several missiles fired Wednesday morning from the Sondok area, about 105 miles northeast of Pyongyang, toward the East Sea, also known as the Sea of Japan.\n\nThe South’s Ministry of National Defense did not specify the number or type of missiles detected.\n\nSouth Korean navy Capt. Jang Do-young, a spokesman for the Joint Chiefs of Staff, said Thursday that U.S. and So",
+   "published": "Thu, 05 Nov 2026 07:49:46 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Why an ‘Article 5-Style Guarantee’ for Ukraine Makes Little Sense",
+   "url": "https://my.rusi.org/resource/why-an-article-5-style-guarantee-for-ukraine-makes-little-sense.html",
+   "snippet": "Ukraine should ditch the idea and focus on getting its partners to commit to a structured programme of long-term support for its armed forces.",
+   "published": "Tue, 10 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_kr",
  "_query": "Europe South Korea defence",
  "_domains": [],
