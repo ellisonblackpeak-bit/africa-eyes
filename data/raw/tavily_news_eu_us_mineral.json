@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "$1.5 trillion rare earth risk leads Europe to tap China playbook - MINING.COM",
+   "url": "https://www.mining.com/web/1-5-trillion-rare-earth-risk-leads-europe-to-tap-china-playbook",
+   "snippet": "Nordic governments are beginning to put money behind the emerging supply chain, using grants and research funding to support projects stretching from exploration to processing and separation. The EU has a €3 billion fund for critical mineral projects, including rare earths. However, the numbers so far are much less than the spending by China — as well as the US, which has also been pushing to redu",
+   "published": "Mon, 09 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The US and the EU Bet on the Wrong Race in Zambia | German Marshall Fund of the United States",
+   "url": "https://www.gmfus.org/news/us-and-eu-bet-wrong-race-zambia",
+   "snippet": "From increasing domestic processing to extending bilateral critical mineral agreements, both are looking to de-risk. [...] At the same time, the domestic policies of the United States and the EU focus on bringing mineral processing back within their borders or closer to home, which sidesteps the urgent need for deeper partnerships with African producers. While the EU signed a strategic partnership",
+   "published": "Fri, 06 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe looks to Central Asia to break China's grip on critical minerals",
+   "url": "https://www.azernews.az/analysis/266890.html",
+   "snippet": "Currently, Central Asia is becoming increasingly well-known as a promising alternative supplier of crucial minerals with significant reserves that could support Europe's quest for technological independence. The US Geological Survey's 2024 report estimates the reserves of rare earth metals in Central Asia at about 1.2 million tons. Countries such as Kazakhstan and Uzbekistan also have significant ",
+   "published": "Fri, 06 Nov 2026 17:09:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Critical Minerals Stockpile Pilot Faces a Buyer Test | E+E Leader",
+   "url": "https://www.environmentenergyleader.com/articles/45507-eu-critical-minerals-stockpile-buyer-access",
+   "snippet": "Europe is also trying to connect buyers with alternative suppliers. On Oct. 9 the Commission reported that its Raw Materials Mechanism had produced more than 30 matches across 10 materials, and it selected 46 new Strategic Projects in 16 member states, including three tungsten projects and four rare earth projects. \"Europe is stepping up its efforts like never before to reclaim its sovereignty ove",
+   "published": "Wed, 04 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
+   "url": "https://finance.yahoo.com/energy/articles/europe-raw-material-future-lies-200000419.html",
+   "snippet": "Ukraine is frequently described as a mineral treasure chest. Its government says the country contains deposits of 22 of the 34 materials classified as critical by the EU. The EU Institute for Security Studies highlights graphite, titanium and manganese in particular, alongside lithium, cobalt, nickel, magnesium, baryte and rare earth elements. [...] But part of Europe's raw-material future may be ",
+   "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Pentagon plans for sabotage on US soil as China keeps American companies short of rare earths | Fortune",
+   "url": "https://fortune.com/2026/11/08/pentagon-fortress-critical-minerals-stockpile-tungsten-rare-earth",
+   "snippet": "Building stockpiles on the scale Clark described runs into a stark industrial reality: America’s defense industry remains deeply reliant on foreign supply chains for its raw materials.\n\nIn 2025, the U.S. imported about $60 billion worth of critical minerals other than rare earths, including nickel, lithium, cobalt, graphite, and tungsten, according to the Peterson Institute for International Econo",
+   "published": "Sun, 08 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe must stockpile critical raw materials, Germany's Merz says",
+   "url": "https://www.reuters.com/world/china/europe-must-stockpile-critical-raw-materials-germanys-merz-says-2026-11-05",
+   "snippet": "Europe must build up stocks of critical raw materials to reduce its ​dependence on countries that dominate their ‌extraction and processing,",
+   "published": "Fri, 06 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+   "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+   "snippet": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
+   "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Exclusive | US and EU’s China talks channel comes back to life after stalling since Trump’s return | South China Morning Post",
+   "url": "https://amp.scmp.com/news/china/diplomacy/article/3373614/us-and-eus-china-talks-channel-comes-back-life-after-stalling-trumps-return",
+   "snippet": "The European Union and the United States plan to revive talks about China after a two-year hiatus, according to multiple people familiar with the planning.\n\nThe dialogue had stalled since Donald Trump’s return to the White House, but after being approached by Washington, talks are expected in the first week of December, despite the deterioration in transatlantic relations in the meantime. [...] Ad",
+   "published": "Fri, 06 Nov 2026 16:05:58 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_mineral",
  "_query": "Europe US critical minerals",
  "_domains": [],

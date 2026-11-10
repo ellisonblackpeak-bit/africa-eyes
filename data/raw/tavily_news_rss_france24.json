@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "California voters reject proposed one-time tax on billionaires' wealth",
+   "url": "https://www.france24.com/en/americas/20261110-california-voters-reject-proposed-one-time-tax-on-billionaires-wealth",
+   "content": "California voters have rejected a proposed 5% tax on the net worth of billionaires, handing a victory to tech leaders who poured hundreds of millions of dollars into defeating the measure. The defeat of Proposition 40 also marks a setback for progressives seeking to tax the wealth of the ultra-rich.",
+   "published_date": "Tue, 10 Nov 2026 03:19:56 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
    "url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
    "content": "Amnesty International has called on El Salvador and Haiti to make public the agreement governing the deployment of around 2,000 Salvadoran troops to the gang-plagued Caribbean nation, warning of risks to human rights and accountability.",
@@ -160,13 +167,6 @@
    "url": "https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced",
    "content": "Shares of artificial intelligence leader Nvidia tumbled early Monday after the chip company said it launched an investigation of CEO Jensen Huang following reports he was targeted by Chinese intelligence. Nvidia shares were down more than eight percent in opening trading after its board announced that a committee of independent directors assisted by outside counsel would undertake the probe.",
    "published_date": "Mon, 09 Nov 2026 16:47:19 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "🔴 Iran's Revolutionary Guards behind cyberattacks on supermarket fridges, says French FM",
-   "url": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
-   "content": "",
-   "published_date": "Mon, 09 Nov 2026 16:44:44 GMT",
    "score": 0.6
   }
  ],

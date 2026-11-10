@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Vietnam-EU trade shifts to high-value goods under EVFTA",
+   "url": "https://english.vov.vn/en/economy/vietnam-eu-trade-shifts-to-high-value-goods-under-evfta-post1348438.vov",
+   "snippet": "Vietnam is currently the EU’s third-largest goods supplier outside the bloc, its largest trading partner in ASEAN, and ranks ninth globally among exporters to the EU market.\n\nAccording to the Ministry of Industry and Trade, the EVFTA has expanded bilateral trade and foreign investment. EU direct investment in Vietnam rose 44% from US$22.7 billion in 2020 to US$32.7 billion in 2025. Total two-way t",
+   "published": "Sun, 08 Nov 2026 17:21:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European firms push for stronger Vietnam trade ties",
+   "url": "https://vir.com.vn/european-firms-push-for-stronger-vietnam-trade-ties-164628.html",
+   "snippet": "Chris Humphrey, executive director of the EU-ABC, said, “European businesses have been investing in Vietnam for decades, but with the EVFTA in place, trade and investment between the European Union and Vietnam has soared over the past few years. We would like that growth to continue through greater European investment along with deeper cooperation in research and development, capacity building, an",
+   "published": "Fri, 06 Nov 2026 05:19:35 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European businesses seek stronger investment conditions, deeper trade ties with Việt Nam",
+   "url": "https://vietnamnews.vn/economy/1803705/european-businesses-seek-stronger-investment-conditions-deeper-trade-ties-with-viet-nam.html",
+   "snippet": "HÀ NỘI — European business leaders called for stronger trade and investment cooperation with Việt Nam during a series of high-level meetings with senior Government officials in Hà Nội led by the EU-ASEAN Business Council (EU-ABC).\n\nBusiness leaders said Việt Nam remains a top growth market for European companies, highlighting opportunities for further investment in high-value sectors as the Southe",
+   "published": "Fri, 06 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam, European Firms Seek to Boost Investment, Business Links",
+   "url": "https://www.ceoinsightsasia.com/news/vietnam-european-firms-seek-to-boost-investment-business-links-nwid-15020.html",
+   "snippet": "European business officials lauded Vietnam's socio-economic progress, portraying the nation as a vibrant economy and an appealing, trustworthy investment hub. They regarded the advancement of Vietnam–EU relations to a Comprehensive Strategic Partnership as a significant landmark that creates new avenues for collaboration, and emphasized their enduring dedication to investing and conducting busines",
+   "published": "Sat, 07 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU backs Vietnam’s shift to risk-based management to unlock green investment - VnEconomy",
+   "url": "https://en.vneconomy.vn/eu-backs-vietnams-shift-to-risk-based-management-to-unlock-green-investment.htm",
+   "snippet": "### A gateway partner to enter the EU market\n\n20 Apr 2026\n\nThe EU to invest €560 million in Vietnam with new focus on modern transport  \n\n### The EU to invest €560 million in Vietnam with new focus on modern transport\n\n24 Mar 2026\n\n## Most viewed\n\nDigital Biz\n\n### VNet and Quantropi join forces to prepare Vietnamese enterprises and organizations for the Post-Quantum Cryptography era\n\nDigital Biz [",
+   "published": "Thu, 05 Nov 2026 10:30:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam well-positioned to attract high-quality European investment: insiders",
+   "url": "https://english.vov.vn/en/economy/vietnam-well-positioned-to-attract-high-quality-european-investment-insiders-post1347502.vov",
+   "snippet": "According to Vice Chairman of EU-ABC Noel Clehane, Vietnam has established a considerable manufacturing and export base, giving it an advantage in attracting investment from European corporations. However, amid the restructuring of global supply chains, the key objective is not merely to attract more investment, but also to enhance the quality of investment and the value it generates. [...] He als",
+   "published": "Thu, 05 Nov 2026 05:21:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam and EU pursue new value chains",
+   "url": "https://vir.com.vn/vietnam-and-eu-pursue-new-value-chains-164424.html",
+   "snippet": "Vietnam hopes the EU, as a key member and coordinator of the International Partners Group, will continue to translate its commitments into concrete financial support and technology transfers.\n\nIn particular, JETP should be further developed into a channel for mobilising long-term investment on commercially attractive terms, with participation from a wider range of stakeholders, Thai said. [...] He",
+   "published": "Thu, 05 Nov 2026 05:02:52 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam, Spain seek to deepen Strategic Partnership",
+   "url": "https://en.vietnamplus.vn/vietnam-spain-seek-to-deepen-strategic-partnership-post354999.vnp",
+   "snippet": "She asked Spain to continue voicing its support for and urging the European Commission (EC) to swiftly lift the IUU “yellow card” imposed on Vietnamese seafood, while actively encouraging EU member states to ratify the EU-Vietnam Investment Protection Agreement (EVIPA) at an early date, thereby establishing a solid and favourable legal framework for businesses from both countries to expand investm",
+   "published": "Sat, 07 Nov 2026 08:38:32 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "PM Pledges Optimal Conditions for Airbus to Expand Operations",
+   "url": "https://vietnam.vnanet.vn/english/long-form/pm-pledges-optimal-conditions-for-airbus-to-expand-operations-475545.html",
+   "snippet": ", thereby supporting European businesses, including Airbus, to expand cooperation and operations in Vietnam.  \n  \nHe expressed his confidence that building upon the fruitful 40-year partnership, the cooperation between Vietnam and Airbus will enter a new phase of development that is more substantive and effective for the mutual benefit of both sides.  \n  \nFor his part, van Wersch commended Vietnam",
+   "published": "Thu, 05 Nov 2026 04:23:29 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_vn",
  "_query": "EU Vietnam investment",
  "_domains": [],

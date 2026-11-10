@@ -1,7 +1,77 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "\"Blue Congress\" Shockwaves Hit Defense Deals! European Defense Stocks Plunge as Military Expansion Narrative Faces Major Test",
+   "url": "https://www.moomoo.com/news/post/1003498653/blue-congress-shockwaves-hit-defense-deals-european-defense-stocks-plunge",
+   "snippet": "Last year, under U.S. President Donald Trump, the United States scaled back its security commitments to Europe, prompting European governments to begin significantly increasing defense spending, and European defense stocks thus rose sharply.\n\nAs shown in the chart above, European defense stocks have pulled back since hitting a record high in January—valuation concerns and order cancellations have ",
+   "published": "Wed, 04 Nov 2026 12:52:50 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "European defense stocks slip as Democratic midterm win raises spending worries",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/european-defense-stocks-slip-democratic-102610840.html",
+   "snippet": "Defense stocks rallied in January after President Donald Trump called for a $1.5 trillion military budget, well above the approved $901 billion, but have since given back most of those gains.\n\nElsewhere in Europe, markets rose as banks and clean energy stocks led. STOXX futures had fallen as much as 1.4% earlier before recovering as Democrats secured both chambers, and as investors reacted to Trum",
+   "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s military readiness plans at risk despite record defence spending | Euronews",
+   "url": "https://www.euronews.com/2026/11/04/europes-military-readiness-plans-at-risk-despite-record-defence-spending",
+   "snippet": "The Commission’s work programme underscores the challenge. “We therefore need to do more to achieve these goals and to strengthen our resilience, preparedness and capacity to respond rapidly to crises, or worse,” it states.\n\nEurope’s defence challenges have also been exacerbated by US President Donald Trump’s decision to reduce the American military presence in Europe, which includes withdrawing s",
+   "published": "Wed, 04 Nov 2026 10:04:01 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe’s defense readiness by 2030 is under threat despite record military spending - media | УНН",
+   "url": "https://unn.ua/en/news/europes-defense-readiness-by-2030-is-under-threat-despite-record-military-spending-media",
+   "snippet": "An additional challenge came from U.S. President Donald Trump’s decision to reduce the American military presence in Europe, including withdrawing strategic enablers.\n\nEuropean Commissioner for Defence Andrius Kubilius stressed that the European Union needs to develop its own strategic capabilities that enable troops to deploy and operate effectively. These include strategic transport, aerial refu",
+   "published": "Wed, 04 Nov 2026 10:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "NATO 3.0. US Ambassador to NATO: “The factory reset of the Alliance”",
+   "url": "https://defence24.com/geopolitics/nato-30-us-ambassador-to-nato-the-factory-reset-of-the-alliance",
+   "snippet": "NATO must focus on deterrence and the defence of Europe, abandoning operations outside its treaty area. The United States also expects all allies to increase defence spending to 5% of GDP and translate those commitments into real military capabilities. „We cannot have backsliding,” Matthew G. Whitaker, US Permanent Representative to NATO, stressed in an interview with Defence24, outlining the prin",
+   "published": "Mon, 09 Nov 2026 11:35:38 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "After the midterms: Europe's three-pronged strategy for dealing with America | European Union Institute for Security Studies",
+   "url": "https://www.iss.europa.eu/publications/commentary/after-midterms-europes-three-pronged-strategy-dealing-america",
+   "snippet": "Europe should broaden its engagement across the US political spectrum, going beyond Washington D.C. and engaging with state legislatures, governors, businesses and local communities. It has more to offer than in previous years, thanks to increased defence spending, economic power and investments in US states. It should use these assets to shape Americans’ perceptions of Europe and challenge the no",
+   "published": "Wed, 04 Nov 2026 09:31:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU defense chief warns Russian military spending nears European levels",
+   "url": "https://en.yenisafak.com/world/eu-defense-chief-warns-russian-military-spending-nears-european-levels-3725168",
+   "snippet": "He noted that Europeans must invest in addressing capability gaps to ensure continental security remains robust amid the US pivot. The commissioner emphasized that new investments should focus on areas where allies currently lack sufficient capacity.\n\n## EU-NATO relationship [...] ## Transatlantic priorities\n\nKubilius stressed the need to strengthen the European pillar within NATO as Washington sh",
+   "published": "Wed, 04 Nov 2026 04:38:59 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Bad to worse? Europe’s relief over US midterms tempered by prospect of Trump backlash | South China Morning Post",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373298/bad-worse-europes-relief-over-us-midterms-tempered-prospect-trump-backlash",
+   "snippet": "Advertisement\n\nUS midterm elections 2026\n\nChinaDiplomacy\n\n# Bad to worse? Europe’s relief over US midterms tempered by prospect of Trump backlash\n\nEurope welcomes Democratic landslide, but fears over Ukraine, trade disputes and defence spending mute optimism\n\n3-MIN READ3-MIN\n\n1\n\nListen [...] After almost two years in which the transatlantic alliance verged on collapse, a Democratic landslide in th",
+   "published": "Wed, 04 Nov 2026 13:14:06 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Planet e Evropës për gatishmëri ushtarake në rrezik, pavarësisht shpenzimeve rekord për mbrojtjen",
+   "url": "https://reporteri.net/en/NEWS/boat/Europe%27s-military-readiness-plans-at-risk-despite-record-defense-spending",
+   "snippet": "Europe's ambition to achieve full military readiness by 2030 is \"at risk\" despite unprecedented political will and a huge increase in defence spending,",
+   "published": "Fri, 06 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Defense Stocks in US, Europe Drop After Democrats Sweep Midterms",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-defense-stocks-slide-as-democrats-sweep-dents-optimism",
+   "snippet": "Defense stocks slid on both sides of the Atlantic as Democrats' landslide win in US midterm elections dented expectations of a further ramp-up in the",
+   "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_us_def",
  "_query": "Europe US defence spending",
  "_domains": [],

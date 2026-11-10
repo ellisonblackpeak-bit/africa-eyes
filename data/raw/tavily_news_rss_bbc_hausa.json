@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Shugabannin Afrika 11 da suka yi zaman gidan yari kafin hawa mulki",
+   "url": "https://www.bbc.com/hausa/articles/cjn5v526elero?at_medium=RSS&at_campaign=rss",
+   "content": "An ɗaure yawancinsu ne saboda adawa da mulkin mallaka, yaƙi da kama ƙarya da kuma neman sauyi.",
+   "published_date": "Tue, 10 Nov 2026 04:17:21 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Atletico na harin Martin Zubimendi, Leeds na son Dominic Calvert-Lewin",
+   "url": "https://www.bbc.com/hausa/articles/cjzxlx0v1gqno?at_medium=RSS&at_campaign=rss",
+   "content": "Atlentico na harin ɗan wasan Arsenal Martin Zubimendi daga Atletico Madrid, Leeds United na zawarcin Dominic Calvert-Lewin , sai Barcelona da ta dage kan ɗan wasan Bayern Munich Jonathan Tah.",
+   "published_date": "Tue, 10 Nov 2026 04:13:54 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Fitattun ƴansiyasar Najeriya 6 da ke takara tun 2003",
+   "url": "https://www.bbc.com/hausa/articles/cm4g1gk8k415o?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan rahoton ya yi nazari kan wasu daga cikin fitattun ƴan siyasar da suka daɗe suna neman takara ko kuma neman wani muƙamin zaɓe tun shekarar 2003.",
+   "published_date": "Tue, 10 Nov 2026 04:14:30 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Dalilan da ke haddasa katsewar wutar lantarki a Najeriya?",
+   "url": "https://www.bbc.com/hausa/articles/cvlydywee8w1o?at_medium=RSS&at_campaign=rss",
+   "content": "A wasu jihohi da yankuna ana samun lantarki fiye da wasu, yayin da wasu wuraren ke fama da ƙarancin wuta ko rashin wutar gaba ɗaya.",
+   "published_date": "Tue, 10 Nov 2026 04:16:13 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Wurare 5 da Aljanu ke zama a cikin gidajenmu",
    "url": "https://www.bbc.com/hausa/articles/cme8r8yw8rpgo?at_medium=RSS&at_campaign=rss",
    "content": "A cikin hadisai an ambaci wasu wurare da aljanu ko shaiɗanu suke yawan zama ko taruwa, wanda a dalilinsu malaman addini ke cewa ana fama da matsaloli.",
@@ -34,34 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/c5gm0023yjmno?at_medium=RSS&at_campaign=rss",
    "content": "Hare-hare kan ƙauyuka, satar mutane domin neman kuɗin fansa, kashe-kashe da tilasta wa al'ummomi barin gidajensu sun zama ruwan dare a wasu yankunan ƙasar da dama.",
    "published_date": "Mon, 09 Nov 2026 04:12:59 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Mece ce makomar Netanyahu bayan gaza samun rinjaye a zaɓen Isra'ila?",
-   "url": "https://www.bbc.com/hausa/articles/c6je5qny8d3ko?at_medium=RSS&at_campaign=rss",
-   "content": "Kowacce gwamnatin Isra'ila ba tana neman hadin kan jam'iyyun adawa don kafa gwamnatin haɗaka",
-   "published_date": "Mon, 09 Nov 2026 04:11:56 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda za ku kare kanku daga ƴan damfara a intanet",
-   "url": "https://www.bbc.com/hausa/articles/cw80z8j502gmo?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da yawan na'urorin da ke amfani da intanet ke ƙaruwa haka masu satar bayanai da ƴan damfara ke daɗa samun giɓin aikata laifuka a internet.",
-   "published_date": "Mon, 09 Nov 2026 04:13:31 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Da gaske duniya za ta tashi ranar Juma'a 13 ga watan Nuwamba?",
-   "url": "https://www.bbc.com/hausa/articles/cv62yyz4d676o?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan ranar na da alaƙa da wani binciken kimiyya da aka wallafa shekaru 66 da suka gabata, wanda ya yi nazari kan makomar yawan al'ummar duniya.",
-   "published_date": "Sun, 08 Nov 2026 18:24:33 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Za mu iya aiki da Netanyahu a sabuwar gwamnatin Isra’ila",
-   "url": "https://www.bbc.co.uk/hausa/live/cqz0vknnvr45t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku muhimman abubuwan da ke faruwa a Najeriya da sauran sassan duniya na ranar Lahadi 8 ga watan Nuwamban 2026.",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -103,6 +103,34 @@
    "title": "Kocin Portugal ya ce bai san Ronaldo ya sanar da yin ritaya ba",
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Mece ce makomar Netanyahu bayan gaza samun rinjaye a zaɓen Isra'ila?",
+   "url": "https://www.bbc.com/hausa/articles/c6je5qny8d3ko?at_medium=RSS&at_campaign=rss",
+   "content": "Kowacce gwamnatin Isra'ila ba tana neman hadin kan jam'iyyun adawa don kafa gwamnatin haɗaka",
+   "published_date": "Mon, 09 Nov 2026 04:11:56 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda za ku kare kanku daga ƴan damfara a intanet",
+   "url": "https://www.bbc.com/hausa/articles/cw80z8j502gmo?at_medium=RSS&at_campaign=rss",
+   "content": "Yayin da yawan na'urorin da ke amfani da intanet ke ƙaruwa haka masu satar bayanai da ƴan damfara ke daɗa samun giɓin aikata laifuka a internet.",
+   "published_date": "Mon, 09 Nov 2026 04:13:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Da gaske duniya za ta tashi ranar Juma'a 13 ga watan Nuwamba?",
+   "url": "https://www.bbc.com/hausa/articles/cv62yyz4d676o?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan ranar na da alaƙa da wani binciken kimiyya da aka wallafa shekaru 66 da suka gabata, wanda ya yi nazari kan makomar yawan al'ummar duniya.",
+   "published_date": "Sun, 08 Nov 2026 18:24:33 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Za mu iya aiki da Netanyahu a sabuwar gwamnatin Isra’ila",
+   "url": "https://www.bbc.co.uk/hausa/live/cqz0vknnvr45t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku muhimman abubuwan da ke faruwa a Najeriya da sauran sassan duniya na ranar Lahadi 8 ga watan Nuwamban 2026.",
    "published_date": "",
    "score": 0.6
   },
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/cmpwgg7l0y2jt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 06/11/2026",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Wane ne matashin da zai jagoranci yaƙin neman zaɓen Obi da Kwankwaso?",
-   "url": "https://www.bbc.com/hausa/articles/cq203v633d6ro?at_medium=RSS&at_campaign=rss",
-   "content": "Duk da cewa shekaru kaɗai ba su isa su tabbatar da nasara ba, masana na ganin ƙwarewa, nagartar tsari da ikon haɗa mutane su zaɓi jam'iyya ne manyan ayyukan darakta-janar na kamfen.",
-   "published_date": "Fri, 06 Nov 2026 16:21:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "An yanke wa Paul Mackenzie hukuncin shekara 200 saboda kashe mutum 191",
-   "url": "https://www.bbc.com/hausa/articles/crgqwwlz33k8o?at_medium=RSS&at_campaign=rss",
-   "content": "Babbar Kotun Mombasa ce ta yanke hukuncin a ranar Juma'a, matakin da ake kallon a matsayin wani muhimmin hukunci a shari'ar da ta shafi ɗaya daga cikin munanan misalan tsattsauran ra'ayin addini da aka taɓa gani a Kenya.",
-   "published_date": "Fri, 06 Nov 2026 14:09:51 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda Iran ta fara aikin sake gina cibiyoyin makamanta da aka lalata",
-   "url": "https://www.bbc.com/hausa/articles/c68jzzp1grr9o?at_medium=RSS&at_campaign=rss",
-   "content": "Shaidar na tonon ƙasa da kuma sabbin gine-gine na bayyana a hotunan tauraron ɗan'dam da aka ɗauka a watan Nuwamba a sansanin soja na Garmdareh da ke Karaj kusa da babban birnin ƙasar, Tehran, da kuma sansanin Shahroud da ke arewacin ƙasar.",
-   "published_date": "Fri, 06 Nov 2026 10:31:28 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Waɗanne abubuwa ne a cikin ɗakin Ka'abah?",
-   "url": "https://www.bbc.com/hausa/articles/cq203v1lpv0ko?at_medium=RSS&at_campaign=rss",
-   "content": "Duk da shahararta da kuma yadda miliyoyin mahajjata da masu Umara ke zagaye ta a kowace shekara, mutane ƙalilan ne suka samu alfarmar gane wa idanunsu abin da ke cikin wannan ɗaki mai tsarki.",
-   "published_date": "Fri, 06 Nov 2026 03:57:42 GMT",
    "score": 0.6
   }
  ],
