@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+   "url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
+   "content": "Amnesty International has called on El Salvador and Haiti to make public the agreement governing the deployment of around 2,000 Salvadoran troops to the gang-plagued Caribbean nation, warning of risks to human rights and accountability.",
+   "published_date": "Tue, 10 Nov 2026 02:24:22 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy",
+   "url": "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy",
+   "content": "Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. The controversy has rattled investors, sending Nvidia shares tumbling.",
+   "published_date": "Tue, 10 Nov 2026 00:22:00 GMT",
+   "score": 0.6
+  },
+  {
    "title": "US Defense Secretary Hegseth faces expected impeachment vote this week",
    "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
    "content": "A Republican lawmaker moved Monday to impeach US Defense Secretary Pete Hegseth over the war in Iran, setting up a potentially explosive vote in Congress days after President Donald Trump's party suffered a crushing midterm defeat. Kentucky congressman Thomas Massie introduced eight articles of impeachment accusing Hegseth of illegally waging war without congressional authorization and abusing his powers as Pentagon chief. FRANCE 24's Fraser Jackson reports from Washington.",
@@ -153,20 +167,6 @@
    "url": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
    "content": "",
    "published_date": "Mon, 09 Nov 2026 16:44:44 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault",
-   "url": "https://www.france24.com/en/video/20261109-russell-brand-sentenced-to-10-and-a-half-years-in-jail-for-rape-sexual-assault",
-   "content": "British comedian Russell Brand, once one of the country's most high-profile broadcasters and a Hollywood star, was jailed for 10-and-a-half years on Monday after he was convicted of raping one woman and sexually assaulting three others around two decades ago. The judge said ‌Brand was a sexual predator who believed \"fame meant you could act how you liked, when you liked, unhindered by the rules ⁠by which decent people live\".",
-   "published_date": "Mon, 09 Nov 2026 16:43:39 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "France accuses Iran of hacking supermarket fridges",
-   "url": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
-   "content": "French Foreign Minister Jean-Noël Barrot on Monday accused Iran's Revolutionary Guards of being behind a recent cyberattack on French supermarket fridges, saying there would be consequences for the country. The Paris prosecutor's office said it had opened an investigation into an Iranian cyber unit affiliated with the Guards over the cyberattacks.",
-   "published_date": "Mon, 09 Nov 2026 16:42:07 GMT",
    "score": 0.6
   }
  ],

@@ -1,7 +1,56 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "As Singapore has expressed its intention to speed up negotiations on a free trade agreement (FTA) be.. - MK",
+   "url": "https://www.mk.co.kr/en/world/12194803",
+   "snippet": "Accordingly, the EU has maintained sanctions on Myanmar's military officials since March 2021 for democratic damage and human rights violations, and the deadline has been extended from April 2026 to the end of April 2027. It also does not recognize the results of the military-led general election. [...] Although there is a movement to re-promote free trade agreement (FTA) negotiations between the ",
+   "published": "Tue, 03 Nov 2026 06:05:51 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Sends €16M in Aid to Myanmar, Rohingya Refugees in Bangladesh | Mirage News",
+   "url": "https://www.miragenews.com/eu-sends-e16m-in-aid-to-myanmar-rohingya-1773256",
+   "snippet": "The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar, as well as Rohingya refugees and their host communities in Bangladesh. These new funds come as escalating conflict in Myanmar continues to increase the needs of the population and to drive displacement within and beyond its borders. [...] EU support in Mya",
+   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU Advances Sanctions Plan Against Smugglers – The European Times",
+   "url": "https://europeantimes.news/2026/11/eu-advances-sanctions-plan-against-smugglers",
+   "snippet": "The European Union is advancing a sanctions regime that could impose asset freezes and travel bans on migrant smugglers, human traffickers and associated organised-crime figures. The initiative emerged as a central outcome of the home affairs session at this week’s EU–Western Balkans ministerial forum in Budva, Montenegro. [...] According to the joint statement from the home affairs session, work ",
+   "published": "Sat, 07 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How Russian Developers Manage Western Sanctions and why - EU Reporter",
+   "url": "https://www.eureporter.co/economy/2026/11/07/how-russian-developers-manage-western-sanctions-and-why",
+   "snippet": "Sanctions do not, by themselves, mean that construction must stop, apartment sales must cease or projects cannot be completed. PIK continued operating in the domestic market despite US and EU sanctions, and Samolet said it would continue normal operations after the EU restrictions.\n\nRisks remain. Sanctioned companies may face additional difficulties with international payments, the purchase of som",
+   "published": "Sat, 07 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "France blames Iran for \"unprecedented\" cyberattack on supermarket refrigerators, vows EU sanctions",
+   "url": "https://www.bignewsnetwork.com/news/279422611/france-blames-iran-for-unprecedented-cyberattack-on-supermarket-refrigerators-vows-eu-sanctions",
+   "snippet": "The cyber operation, which took place last month, targeted around 700 retail locations-including major chains like Intermarche, Cooperative U, and E. Leclerc-resulting in massive food spoilage and equipment fires after hackers deliberately caused commercial cooling units to defrost. [...] The cyber operation, which took place last month, targeted around 700 retail locations-including major chains ",
+   "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU",
+   "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
+   "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,477 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Slovakia files lawsuit to challenge EU ban on Russian energy",
+   "url": "https://www.myanmaritv.com/news/slovakia-files-lawsuit-challenge-eu-ban-russian-energy",
+   "snippet": "Slovakia has filed a lawsuit at the Court of Justice of the European Union to challenge the EU's ban on Russian natural gas imports under the REPowerEU",
+   "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "eu_mm",
  "_query": "EU Myanmar sanctions",
  "_domains": [],
