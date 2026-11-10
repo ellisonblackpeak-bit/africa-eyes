@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Japan watches for signs of change in Trump's foreign policy priorities",
+   "url": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-world-4025-rdf",
+   "content": "Tokyo fears the drubbing US President Donald Trump suffered in last week's midterm elections may push him to pursue a diplomatic quick win at the expense of Washington's allies in the Indo-Pacific.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Bulgaria highway pileup kills 12, dozens injured: PM",
+   "url": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-world-4025-rdf",
+   "content": "At least 12 people were killed and dozens injured in a series of crashes caused by thick fog in Bulgaria. Police, firefighters and paramedics were dispatched to the scene for the rescue operation.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Fact check: Online disinformation rife after Krakow mass shooting",
    "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-world-4025-rdf",
    "content": "Fake and AI-manipulated images spread online in the hours after the Krakow attack, fueling false narratives about the mass shooting. DW Fact Check examined what's real, and what isn't.",
@@ -23,8 +37,8 @@
    "score": 0.6
   },
   {
-   "title": "India's demonetization: 10 years on, promises remain unfulfilled",
-   "url": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-world-4025-rdf",
+   "title": "India's demonetization: 10 years on, economic benefits still disputed",
+   "url": "https://www.dw.com/en/india-s-demonetization-10-years-on-economic-benefits-still-disputed/a-79903331?maca=en-rss-en-world-4025-rdf",
    "content": "A decade after the 2016 currency ban, its impact on India's economy and the fight against black money remains contested.",
    "published_date": "",
    "score": 0.6
@@ -75,20 +89,6 @@
    "title": "Israeli president tasks Gadi Eisenkot with forming government",
    "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf",
    "content": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government. Tricky coalition talks are expected.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Armenia's selective prosecution: A threat to EU relations?",
-   "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-world-4025-rdf",
-   "content": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU's pragmatic stance risk repeating past mistakes?",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Should AI companies pay for the journalism they use?",
-   "url": "https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-world-4025-rdf",
-   "content": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
    "published_date": "",
    "score": 0.6
   }

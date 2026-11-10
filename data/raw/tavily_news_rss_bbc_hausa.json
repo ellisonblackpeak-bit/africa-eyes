@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Me ya sa ake samun rikicin manoma da makiyayan Najeriya a ƙarshen damina?",
+   "title": "Abubuwa 5 da ke iza wutar rikicin manoma da makiyaya a ƙarshen damina",
    "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
    "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
    "published_date": "Tue, 10 Nov 2026 11:33:44 GMT",
    "score": 0.6
   },
   {
-   "title": "An rantsar da alƙalan da za su saurari ƙorafin zaɓen 2027",
+   "title": "'Duk kansilan da ya kawo wa Tinubu mazaɓa zai samu naira miliyan 10'",
    "url": "https://www.bbc.co.uk/hausa/live/cqdr8rmndx06t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 10/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Michael Carrick: Akwai yiwuwar Manchester United za ta sallami kocinta",
+   "url": "https://www.bbc.com/hausa/articles/cmy0r0j04x9jo?at_medium=RSS&at_campaign=rss",
+   "content": "Ko da yike wasu majiyoyi da dama sun shaida wa BBC Sport cewa har yanzu mahukuntan Manchester United ba su amince da matakin sallamar Carrick ba.",
+   "published_date": "Tue, 10 Nov 2026 13:49:33 GMT",
    "score": 0.6
   },
   {
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Yadda ƴanbindiga suka ƙone mutum 13 ƴangida ɗaya a Zamfara",
-   "url": "https://www.bbc.com/hausa/articles/c6q8n8qdd8pno?at_medium=RSS&at_campaign=rss",
-   "content": "Rundunar yansandan jihar Zamfara ta yi ƙarin haske kan kisan wasu mutum 13 ƴan gida ɗaya da ƴanbindiga suka yi a jihar a ƙarshen mako.",
-   "published_date": "Mon, 09 Nov 2026 11:52:44 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -72,7 +72,7 @@
    "score": 0.6
   },
   {
-   "title": "Alisson Becker na son tsawaita kwantiransa da Liverpool",
+   "title": "Za a yanke makomar Carrick a Man United ranar Laraba",
    "url": "https://www.bbc.co.uk/hausa/live/c6pvgv474vxet?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 9 zuwa 14 ga watan Nuwambar 2026",
    "published_date": "",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda ƴanbindiga suka ƙone mutum 13 ƴangida ɗaya a Zamfara",
+   "url": "https://www.bbc.com/hausa/articles/c6q8n8qdd8pno?at_medium=RSS&at_campaign=rss",
+   "content": "Rundunar yansandan jihar Zamfara ta yi ƙarin haske kan kisan wasu mutum 13 ƴan gida ɗaya da ƴanbindiga suka yi a jihar a ƙarshen mako.",
+   "published_date": "Mon, 09 Nov 2026 11:52:44 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/ckz7xz49yy2no?at_medium=RSS&at_campaign=rss",
    "content": "Sakamakon zaɓen ya haɗa da zaɓen Sanata Musulmi na farko a tarihin Amurka, wani likitan tiyata Ba'amurke mai asalin Masar wanda ya kula da Falasɗinawa da suka jikkata a Gaza, da kuma 'yan takara da dama masu asalin Falasɗinu.",
    "published_date": "Sat, 07 Nov 2026 03:58:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Fa'az: Sabon makami mai linzami na zamani da Pakistan ta ƙera",
-   "url": "https://www.bbc.com/hausa/articles/c60733nzkr49o?at_medium=RSS&at_campaign=rss",
-   "content": "A baya-bayan nan, Pakistan ta yi nasarar gwajin wani makamin linzami mai suna Fa'az, wanda sojojin ƙasar suka bayyana a matsayin na farko irinsa da aka ƙera a cikin gida.",
-   "published_date": "Sat, 07 Nov 2026 03:55:00 GMT",
    "score": 0.6
   }
  ],
