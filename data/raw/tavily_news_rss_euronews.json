@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 10th, 2026 – Evening",
+   "url": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-evening",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Tue, 10 Nov 2026 18:00:26 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Russia’s ‘unfriendly countries’ list now targets property, child custody and debts",
+   "url": "https://www.euronews.com/2026/11/10/russias-unfriendly-countries-list-now-targets-property-child-custody-and-debts",
+   "content": "Moscow’s list of states it deems unfriendly was set in March 2022 for foreign economic policy, but decrees and court rulings now apply it to child custody, vehicle registration and debt repayment.",
+   "published_date": "Tue, 10 Nov 2026 16:40:07 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Belgium: Prince Harry and Meghan visit EU Parliament for child safety event",
+   "url": "https://www.euronews.com/video/2026/11/10/belgium-prince-harry-and-meghan-visit-eu-parliament-for-child-safety-event",
+   "content": "Prince Harry and his wife Meghan visited the European Parliament in Brussels, on Tuesday 10 November, to discuss the dangers children face online. The couple met families affected by online abuse before Harry addressed the gathering.",
+   "published_date": "Tue, 10 Nov 2026 16:37:43 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "GCC members agree to station forces at new military command post in Kuwait",
+   "url": "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
+   "content": "The new post in Kuwait will be part of the six Gulf countries’ joint military command, based in Riyadh, GCC announced on Tuesday.",
+   "published_date": "Tue, 10 Nov 2026 16:19:03 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Qatar sees 'progress' in US-Iran talks after White House meeting",
    "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting",
    "content": "A day after Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani met Trump at the White House, a Qatari foreign ministry spokesman said both sides were making positive statements about a diplomatic solution but that “we cannot say how close or how far away an agreement is.”",
@@ -181,34 +209,6 @@
    "url": "https://www.euronews.com/2026/11/09/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang",
    "content": "Footage shows Nvidia CEO Jensen Huang alongside Alice Huang, a Chinese businesswoman at the centre of an alleged Chinese intelligence operation targeting him.",
    "published_date": "Mon, 09 Nov 2026 11:53:22 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
-   "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks",
-   "content": "The US president said that renewed strikes were unlikely unless Tehran failed to reach a deal, as US forces struck Qeshm Island in the Strait of Hormuz. Iran said Washington must end sanctions and the blockade before any talks, while Rubio reported no progress.",
-   "published_date": "Mon, 09 Nov 2026 11:42:38 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Gaza storm kills five and leaves 70,000 displaced people's tents flooded",
-   "url": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
-   "content": "Gaza's rescue service reported five people dead, including three children and two women, in an incident linked to Saturday's storm and heavy rains.",
-   "published_date": "Mon, 09 Nov 2026 11:27:03 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Russia: HIV spreads beyond risk groups in 27 regions, epidemiologists say",
-   "url": "https://www.euronews.com/2026/11/09/russia-hiv-spreads-beyond-risk-groups-in-27-regions-epidemiologists-say",
-   "content": "In 27 regions of the Russian Federation, the immunodeficiency virus is spreading among the entire population, not only risk groups, according to the latest Rospotrebnadzor data. People increasingly pass the virus to one another, often unaware they are infected.",
-   "published_date": "Mon, 09 Nov 2026 10:39:39 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Trump calls Nvidia chief Jensen Huang an 'honorable guy' amid spy allegations",
-   "url": "https://www.euronews.com/2026/11/09/trump-calls-nvidia-chief-jensen-huang-an-honorable-guy-amid-spy-allegations",
-   "content": "US President Donald Trump has defended Nvidia CEO Jensen Huang after reports that he had an intimate relationship with a businesswoman suspected of working for Chinese intelligence. Trump said Huang was an \"honorable guy\".",
-   "published_date": "Mon, 09 Nov 2026 09:38:42 +0100",
    "score": 0.6
   }
  ],

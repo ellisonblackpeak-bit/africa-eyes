@@ -1,7 +1,70 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Techcombank connects financial solutions and accompanies businesses in Vietnam-China border trade.",
+   "url": "https://www.vietnam.vn/en/techcombank-ket-noi-giai-phap-tai-chinh-dong-hanh-cung-doanh-nghiep-bien-mau-viet-trung",
+   "snippet": "According to Mr. Tran Thanh Hai, Deputy Director of the Import-Export Department (Ministry of Industry and Trade), Vietnam- China trade turnover in 2025 is expected to reach approximately US$256.4 billion, an increase of 17.9% compared to the previous year.\n\nTechcombank connects financial solutions and accompanies businesses in Vietnam-China border trade - Photo 2. [...] For Vietnam-China trade, p",
+   "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ready to participate in the Vietnam-China Border Economic, Trade and Tourism Fair (Hong Ha) in 2026.",
+   "url": "https://www.vietnam.vn/en/san-sang-tham-gia-hoi-cho-kinh-te-thuong-mai-va-du-lich-bien-gioi-viet-trung-hong-ha-nam-2026",
+   "snippet": "The Vietnam-China Border Economic, Trade and Tourism Fair (Hong Ha) in 2026 is an opportunity for Vietnamese businesses to promote their products, seek partners, and expand into the Chinese market. Currently, preparations are being urgently carried out by the Organizing Committee of the Fair in Lao Cai province and businesses, aiming to strengthen trade connections and seek substantive cooperation",
+   "published": "Sat, 07 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Trade fair on China-Vietnam border highlights growing economic ties",
+   "url": "https://news.cgtn.com/news/2026-11-10/Trade-fair-on-China-Vietnam-border-highlights-growing-economic-ties-1RXBI1xF67e/p.html",
+   "snippet": "A border trade fair in southwest China is bringing together businesses from China and Vietnam, offering a platform to explore new opportunities in trade and",
+   "published": "Tue, 10 Nov 2026 13:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China's trade surplus surpasses $1 trillion.",
+   "url": "https://www.vietnam.vn/en/thang-du-thuong-mai-cua-trung-quoc-vuot-moc-1-000-ty-usd",
+   "snippet": "Vietnam.vn - Nền tảng quảng bá Việt Nam\n\n# China's trade surplus surpasses $1 trillion.\n\nChina's trade surplus in the first 10 months of 2026 reached $1.04 trillion, according to data released on November 10 by the General Administration of Customs of China. This marks the second consecutive year that the world's second-largest economy has surpassed the $1 trillion mark, and it reached this milest",
+   "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "APEC 2026-2027: Opportunity for Vietnam and China to advance continuous agenda",
+   "url": "https://en.vietnamplus.vn/apec-2026-2027-opportunity-for-vietnam-and-china-to-advance-continuous-agenda-post355124.vnp",
+   "snippet": "In trade, Vietnam is well positioned to continue advancing the Free Trade Area of the Asia-Pacific (FTAAP), coordinate approaches to trade liberalisation and strengthen its capacity to participate in high-standard regional economic and trade agreements. As one of the few developing economies that are members of both the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) ",
+   "published": "Tue, 10 Nov 2026 03:25:37 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnamese Consul General in Shanghai: Vietnam is a favorable investment destination for Chinese businesses.",
+   "url": "https://www.vietnam.vn/en/tong-lanh-su-viet-nam-tai-thuong-hai-viet-nam-la-diem-den-dau-tu-thuan-loi-cho-doanh-nghiep-trung-quoc",
+   "snippet": "In the short term, geoeconomic shifts and competition among major powers may create opportunities for trade redirection for some emerging economies. However, in the long term, the weakening of the multilateral trading system and the fragmentation of global supply chains will pose serious challenges. Therefore, Southern Hemisphere countries need to strengthen cooperation to protect the multilateral",
+   "published": "Sun, 08 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Lang Son hosts Vietnam-China international trade and tourism fair",
+   "url": "https://dtinews.dantri.com.vn/lifestyle/lang-son-hosts-vietnam-china-international-trade-and-tourism-fair-20261109153135093.htm",
+   "snippet": "More than 100 domestic and international organisations and businesses are expected to take part in the Vietnam-China International Trade and Tourism Fair in",
+   "published": "Mon, 09 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam and China upgrade key border crossing to international status",
+   "url": "https://dtinews.dantri.com.vn/vietnam-today/vietnam-and-china-upgrade-key-border-crossing-to-international-status-20261110214328100.htm",
+   "snippet": "Vietnam and China have upgraded the Ma Lu Thang-Jinshuihe border-gate pair to international status, aiming to boost trade, logistics and cross-border",
+   "published": "Tue, 10 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Opinion | In Vietnam, ‘China plus one’ still needs Chinese input | South China Morning Post",
+   "url": "https://amp.scmp.com/opinion/asia-opinion/article/3373495/vietnam-china-plus-one-still-needs-chinese-input",
+   "snippet": "Vietnam has set itself an extraordinary ambition. Its five-year plan, approved in April, targets average annual gross domestic product growth of at least 10 per cent from 2026 to 2030. Developing Vietnamese suppliers should be one test of that ambition. [...] Growth is welcome, but different kinds of growth leave different inheritances. A factory creates jobs and exports. Its longer contribution d",
+   "published": "Mon, 09 Nov 2026 21:30:05 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "vn_wide",
  "_query": "Vietnam China trade",
  "_domains": [],

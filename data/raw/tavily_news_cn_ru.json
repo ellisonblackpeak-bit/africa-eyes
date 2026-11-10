@@ -1,7 +1,63 @@
 {
- "success": false,
- "results": [],
- "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
+ "success": true,
+ "results": [
+  {
+   "title": "Gas-rich Iran turns to Russia for an energy lifeline | Iran International",
+   "url": "https://www.iranintl.com/en/202611067757",
+   "snippet": "Restoring damaged gas-processing equipment could help recover domestic supplies. It would not, however, create a competitive LNG export industry, which requires specialised liquefaction technology, financing, shipping arrangements and long-term customers.\n\nMoscow and Beijing to the rescue?\n\nChina and Russia offer potential alternatives to Western suppliers, but neither can be assumed to finance or",
+   "published": "Fri, 06 Nov 2026 15:50:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t | Politics News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt",
+   "snippet": "A three-way meeting would allow Trump to present himself as “the indispensable deal-maker”, Parmar said, talking up potential deals on Ukraine, trade, energy or arms control.\n\n“After the midterms the domestic political need for a foreign policy ‘win’ is real,” he said.\n\nAny image of Trump sitting with Xi and Putin could be spun as evidence that American power still commands the table, he said, “ev",
+   "published": "Fri, 06 Nov 2026 13:49:07 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Heidelberg mayor urges pragmatic China-Germany cooperation amid EV trade tensions - Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1373884.shtml",
+   "snippet": "For Würzner, China's growing competitiveness does not eliminate Germany's legitimate concerns about economic resilience. He pointed to Germany's previous dependence on Russian natural gas and supply-chain disruptions during the COVID-19 pandemic as examples of the vulnerabilities created by excessive dependence on a single partner. [...] However, he emphasized that diversification should not becom",
+   "published": "Sun, 08 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Japan, Vietnam agree to deepen critical minerals cooperation amid China supply concerns",
+   "url": "https://www.aa.com.tr/en/energy/electricity/japan-vietnam-agree-to-deepen-critical-minerals-cooperation-amid-china-supply-concerns/60829",
+   "snippet": "### Turkey's daily power consumption down 0.77% on Oct. 23\n\nRussian Lukoil starts Chashkino gas-turbine power plant\nRussian Lukoil starts Chashkino gas-turbine power plant\n\n### Russian Lukoil starts Chashkino gas-turbine power plant\n\nGazprom posts 26% loss in 1H20\nGazprom posts 26% loss in 1H20\n\n### Gazprom posts 26% loss in 1H20\n\nTürkiye targets $500B investment under 'National Energy 2040' visio",
+   "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Vietnam seeks Russia’s help for its nuclear ambition. Will sanctions stall it? | South China Morning Post",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373424/vietnam-seeks-russias-help-its-nuclear-ambition-will-sanctions-stall-it",
+   "snippet": "Advertisement\n\nVietnam\n\nThis Week in AsiaPolitics\n\n# Vietnam seeks Russia’s help for its nuclear ambition. Will sanctions stall it?\n\nThe two countries have agreed to let Vietnamese experts gain access to a Russian nuclear reactor under construction\n\n3-MIN READ3-MIN\n\nListen\n\nAn illustration of nuclear energy. Vietnam is seeking Russia’s help to grow its nuclear energy sector. Photo: Shutterstock\n\nS",
+   "published": "Thu, 05 Nov 2026 10:59:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Kazakhstan Offers Tajikistan Cooperation, Not a Substitute for Russia – The Diplomat",
+   "url": "https://thediplomat.com/2026/11/kazakhstan-offers-tajikistan-cooperation-not-a-substitute-for-russia",
+   "snippet": "vegetable exports went to Kazakhstan as of 2024. In January-May 2025, Tajik exports to Kazakhstan totaled just $31.3 million against $450.1 million in imports. In January-September 2026, Kazakhstan supplied 12.5 percent of Tajikistan’s imports, behind China and Russia. [...] The challenge is not simply how to regulate Chinese platforms, but how to preserve an open and fair market as cross-border c",
+   "published": "Mon, 09 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China improving air connectivity with Central Asia, aiding trade and tourism",
+   "url": "https://eurasianet.org/china-improving-air-connectivity-with-central-asia-aiding-trade-and-tourism",
+   "snippet": "China and Central Asia are acting fast to expand air links. Chinese and Central Asian aviation officials gathered in Tashkent on November 3-5 for a Working",
+   "published": "Tue, 10 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "THE ENERGY CRISIS – Welcome to the Age of Global Energy Shocks: Bousso",
+   "url": "https://energynow.com/2026/04/welcome-to-the-age-of-energy-shocks-bousso",
+   "snippet": "The past decade has brought a rapid succession of global energy crises, driven by military conflict, extreme weather and supply-chain snarls.",
+   "published": "Mon, 09 Nov 2026 21:00:00 GMT",
+   "source": "tavily"
+  }
+ ],
  "_tag": "cn_ru",
  "_query": "China Russia trade energy cooperation",
  "_domains": [],

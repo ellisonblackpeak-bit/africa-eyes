@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Jiragen sojin Amurka sun fice daga sansanin Sojin Bitaniya",
+   "url": "https://www.bbc.co.uk/hausa/live/cqdr8rmndx06t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 10/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Abubuwa 5 da ke iza wutar rikicin manoma da makiyaya a ƙarshen damina",
    "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
    "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
@@ -9,10 +16,10 @@
    "score": 0.6
   },
   {
-   "title": "'Duk kansilan da ya kawo wa Tinubu mazaɓa zai samu naira miliyan 10'",
-   "url": "https://www.bbc.co.uk/hausa/live/cqdr8rmndx06t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 10/11/2026",
-   "published_date": "",
+   "title": "Masana sun gano yadda za a haihu ba tare da saduwa ko dashe ba",
+   "url": "https://www.bbc.com/hausa/articles/cmz6564qe09xo?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan ba yana nufin cewa mutane za su daina haihuwa gaba ɗaya ba. Sai dai hanyoyin samun yara zai sauya sakamakon cigaban kimiyya.",
+   "published_date": "Tue, 10 Nov 2026 16:11:12 GMT",
    "score": 0.6
   },
   {
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Me ya sa ƴan Spain ke yawan yin ‘kiss’?",
-   "url": "https://www.bbc.com/hausa/articles/cmwydynp57j7o?at_medium=RSS&at_campaign=rss",
-   "content": "A ƙasar Sifaniya, sumbata a bainar jama'a abu ne da aka saba gani. Ba wai sumbatar gaisuwa ta kumatu biyu kawai ba, har da ta masoya a wurare daban-daban.",
-   "published_date": "Mon, 09 Nov 2026 16:53:50 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa ƴan Spain ke yawan yin ‘kiss’?",
+   "url": "https://www.bbc.com/hausa/articles/cmwydynp57j7o?at_medium=RSS&at_campaign=rss",
+   "content": "A ƙasar Sifaniya, sumbata a bainar jama'a abu ne da aka saba gani. Ba wai sumbatar gaisuwa ta kumatu biyu kawai ba, har da ta masoya a wurare daban-daban.",
+   "published_date": "Mon, 09 Nov 2026 16:53:50 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cme3xxyqjj12o?at_medium=RSS&at_campaign=rss",
    "content": "Gabanin zaɓen Najeriya na 2027, ana samun yanayi na rashin tabbas inda ake kai wa jam'iyyun adawa hari a lokacin yaƙin neman zaɓe.",
    "published_date": "Sat, 07 Nov 2026 03:56:43 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Musulmai 9 da suka lashe zaɓen rabin wa'adi a Amurka",
-   "url": "https://www.bbc.com/hausa/articles/ckz7xz49yy2no?at_medium=RSS&at_campaign=rss",
-   "content": "Sakamakon zaɓen ya haɗa da zaɓen Sanata Musulmi na farko a tarihin Amurka, wani likitan tiyata Ba'amurke mai asalin Masar wanda ya kula da Falasɗinawa da suka jikkata a Gaza, da kuma 'yan takara da dama masu asalin Falasɗinu.",
-   "published_date": "Sat, 07 Nov 2026 03:58:16 GMT",
    "score": 0.6
   }
  ],

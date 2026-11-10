@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Foreigners in Nigeria's retail market, what the law says",
-   "url": "https://www.icirnigeria.org/foreigners-in-nigerias-retail-market-what-the-law-says",
-   "snippet": "One of the items sold in a Chinese-owned store in Abuja is a toilet and bathroom cleaner, a product also manufactured locally in Nigeria. Picture used for illustrative purposes.\n\nSimilarly, the Federal Competition and Consumer Protection Act (FCCPA) 2018 regulates anti-competitive behaviour and abuse of market dominance but does not reserve retail trade exclusively for Nigerian citizens. [...] Ony",
-   "published": "Sun, 08 Nov 2026 05:30:41 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Stanbic IBTC Launches Naira-RMB Payment Platform To Fast-Track Nigeria-China Trade – Arise News",
-   "url": "https://www.arise.tv/stanbic-ibtc-launches-naira-rmb-payment-platform-to-fast-track-nigeria-china-trade",
-   "snippet": "The CIPS will drastically cut transaction processing times from several days down to a matter of hours, minimise exchange-rate exposure risks for local businesses, and inject predictability into the bilateral trade corridor between Nigeria and China.\n\nCIPS was launched on Monday in Lagos by Chief Executive Officer of Stanbic IBTC Bank, Mr. Wole Adeniyi, in an event, titled, “CIPS Go-Live Ceremony.",
-   "published": "Tue, 10 Nov 2026 09:28:58 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China links discipline to economic growth, urges stronger governance in Nigeria - Businessday NG",
-   "url": "https://businessday.ng/news/article/china-links-discipline-to-economic-growth-urges-stronger-governance-in-nigeria",
-   "snippet": "According to him, the measure further reinforces China’s position as Africa’s largest trading partner while creating opportunities for African countries to increase exports to the Chinese market.\n\nDunhai added that the CPC was also expanding exchanges on party governance and state administration with political parties across Africa, describing the engagements as part of efforts to deepen mutual un",
-   "published": "Thu, 05 Nov 2026 05:01:58 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Senate demands equal China flight rights for Nigerian airlin",
-   "url": "https://punchng.com/senate-debates-national-carrier-demands-equal-china-flight-rights",
-   "snippet": "Monguno said bilateral trade between Nigeria and China reached $18bn in the first half of 2025, representing a 25 per cent increase year-on-year, compared with a total trade volume of $28bn in 2024.\n\nHe also highlighted the growing population and economic ties between both countries as reasons for improving direct air connectivity. [...] Following deliberations, the Senate urged the Federal Minist",
-   "published": "Wed, 04 Nov 2026 04:38:05 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Senate seeks renegotiation of Nigeria-China BASA to allow direct flights into China - Tribune Online",
-   "url": "https://tribuneonlineng.com/senate-seeks-renegotiation-of-nigeria-china-basa-to-allow-direct-flights-into-china",
-   "snippet": "In a resolution passed in Abuja on Tuesday, the Senate called on the Federal Government to renegotiate the BASA to allow Nigerian airlines to operate direct flights to China.\n\nIt also urged the Federal Ministry of Foreign Affairs to initiate diplomatic talks with China on business visa facilitation for Nigerian traders and reciprocal slot allocations at Chinese airports.\n\n### ALSO READ:Reps probe ",
-   "published": "Tue, 03 Nov 2026 15:54:25 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Senate Threatens BASA Review Over China’s Flight Restrictions – The Whistler Newspaper",
-   "url": "https://thewhistler.ng/senate-threatens-basa-review-over-chinas-flight-restrictions",
-   "snippet": "He insisted that Nigeria should not continue granting Chinese airlines access to its aviation market without equivalent opportunities for Nigerian operators, calling for a review of the agreement if Beijing failed to guarantee reciprocity.\n\nAdvertisement\n\nSupporting the position, Senate President Godswill Akpabio renewed calls for a national carrier, arguing that Nigeria needed a strong indigenous",
-   "published": "Tue, 03 Nov 2026 15:14:17 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese regulatory shadow hangs over Nigeria's OPay IPO failure - Asia Times",
-   "url": "https://asiatimes.com/2026/11/chinese-regulatory-shadow-hangs-over-nigerias-opay-ipo-failure",
-   "snippet": "A Nigerian secondary listing was meant to follow New York. It would have let local investors own part of a company whose strongest market is their own, and with the primary listing withdrawn it has no confirmed date.\n\nHad both gone ahead, complications would remain, since OPay itself warned that shares traded in Nigeria might not be freely exchangeable with the American depositary shares, so price",
-   "published": "Mon, 09 Nov 2026 07:40:57 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "OPay’s $4 billion New York listing stalls after China inquiry, putting its US IPO and planned Standard Bank investment on hold | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/opays-dollar4-billion-new-york-listing-stalls-after-china-inquiry-putting-its-us-ipo/tez1zj4",
-   "snippet": "In its filing with the US Securities and Exchange Commission (SEC), OPay said the inquiry related to a jurisdiction it considered immaterial to its business operations. It did not name the jurisdiction, regulator or subject of the inquiry.\n\nOPay said it expected the matter to be resolved and that it would not affect its operations or customer service in Nigeria and other markets.",
-   "published": "Wed, 04 Nov 2026 17:17:09 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_trader",
  "_query": "Nigerian traders Chinese market",
  "_domains": [],
