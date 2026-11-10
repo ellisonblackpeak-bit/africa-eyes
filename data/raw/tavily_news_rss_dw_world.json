@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Fact check: Online disinformation rife after Krakow mass shooting",
+   "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-world-4025-rdf",
+   "content": "Fake and AI-manipulated images spread online in the hours after the Krakow attack, fueling false narratives about the mass shooting. DW Fact Check examined what's real, and what isn't.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
    "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-world-4025-rdf",
    "content": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
@@ -23,8 +30,8 @@
    "score": 0.6
   },
   {
-   "title": "Fake news in Africa: In an age of disinformation, who decides what's true?",
-   "url": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-world-4025-rdf",
+   "title": "Africa's fight against fake news: Who decides what's true?",
+   "url": "https://www.dw.com/en/africa-s-fight-against-fake-news-who-decides-what-s-true/a-79874039?maca=en-rss-en-world-4025-rdf",
    "content": "From Ghana to Mozambique, the fight against fake news keeps gaining momentum. But combating disinformation also requires safeguards for free speech, leaving some governments in an inconvenient position.",
    "published_date": "",
    "score": 0.6
@@ -82,13 +89,6 @@
    "title": "Should AI companies pay for the journalism they use?",
    "url": "https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-world-4025-rdf",
    "content": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-   "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-world-4025-rdf",
-   "content": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself from his father's rule.",
    "published_date": "",
    "score": 0.6
   }

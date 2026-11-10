@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Cross-party interest in Australian nuclear future, poll suggests",
-   "url": "https://www.world-nuclear-news.org/articles/cross-party-interest-in-australian-nuclear-future-poll-suggests",
-   "content": "A YouGov poll commissioned by grassroots organisation Nuclear for Australia suggests that almost two-thirds of Australians believe nuclear should be considered as part of the nation's energy future.",
-   "published_date": "Tue, 27 Oct 2026 08:59:46 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Floating nuclear power plant 'has boosted air quality'",
    "url": "https://www.world-nuclear-news.org/articles/floating-nuclear-power-plant-has-boosted-air-quality",
    "content": "An environmental monitoring report for Russia's floating nuclear power plant suggests that emissions have fallen almost 80% since it started supplying heating in the area in 2022.",
@@ -202,6 +195,13 @@
    "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-return-to-operation-after-three-months",
    "content": "Nuclearelectrica and the Romanian government are working on long-term solutions to avoid a repeat of the Cernavodă units being shut down because of drought causing abnormally low water levels in the Danube.",
    "published_date": "Mon, 09 Nov 2026 14:13:35 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US issues landmark construction permit for Texas SMR plant",
+   "url": "https://www.world-nuclear-news.org/articles/us-issues-landmark-construction-permit-for-texas-smr-plant",
+   "content": "The US Nuclear Regulatory Commission has issued a construction permit for the proposed plant featuring four Xe-100 small modular reactor units at Dow's Seadrift site - the first construction permit for a high-temperature gas-cooled reactor issued in the USA in nearly 60 years.",
+   "published_date": "Tue, 10 Nov 2026 15:56:26 GMT",
    "score": 0.6
   },
   {
