@@ -1,63 +1,7 @@
 {
- "success": true,
- "results": [
-  {
-   "title": "Yuchengcos, Chinese firm forge offshore wind tie-up | Philstar.com",
-   "url": "https://www.philstar.com/business/2026/11/10/2569024/yuchengcos-chinese-firm-forge-offshore-wind-tie-up",
-   "snippet": "TELECOMS\n\nBIZ MEMOS\n\n^\n\n# Yuchengcos, Chinese firm forge offshore wind tie-up\n\nBrix Lelis - The Philippine Star\n\nNovember 10, 2026 | 12:00am\n\nYuchengcos, Chinese firm forge offshore wind tie-up\n\nNabas Wind Power Project, Aklan\n\nBusinessworld / PETROENERGY.COM.PH\n\nMANILA, Philippines — The Yuchengco Group has joined forces with China’s Ming Yang Smart Energy Group Ltd. to advance offshore wind deve",
-   "published": "Mon, 09 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Huawei says it’s made a 100 percent Chinese PC",
-   "url": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
-   "snippet": "Apple last week quietly announced it has won its biggest-ever sale of Macs into the education market in the Philippines.\n\nSpeaking on the company’s Q4 earnings call, CEO John Ternus said Apple sold 172,000 MacBook Neos to the Department of Education in the Philippines, which will deploy them to teachers and staff. ® [...] systems\n\n# Huawei says it’s made a 100 percent Chinese PC\n\nPLUS: Japan decla",
-   "published": "Mon, 09 Nov 2026 02:14:17 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Philippines’ project budget allocations spur accusations of pork barrel politics | South China Morning Post",
-   "url": "https://www.scmp.com/week-asia/politics/article/3373450/philippines-project-budget-allocations-spur-accusations-pork-barrel-politics",
-   "snippet": "A road project with coordinates pointing to Nigeria. A government building apparently located in the Sahara Desert. Another road mapped to a sea near Brunei.\n\nThese are among the unlikely locations listed for infrastructure projects in the Philippines’ proposed 2027 national budget, according to independent watchdogs that have discovered the discrepancies, highlighting problems with government tra",
-   "published": "Fri, 06 Nov 2026 02:30:08 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Media Influence in Indonesia's News Landscape - The China-Global South Project",
-   "url": "https://chinaglobalsouth.com/analysis/china-media-influence-indonesia-antara-xinhua-ai",
-   "snippet": "By By Ara Eugenio, Jan Cuyco, Lucille Sodipe, Nattakorn Ploddee Violent confrontations between Chinese and Philippine vessels in the South China Sea are being manipulated online by disinformation networks for profit, posing risks ...\n\n\n\n### ASEAN Must Strike a Balanced AI Relationship With China [...] 6  U.S. ‘Engages’ With PNG Probe Into Suspected Artillery Shell\n\n## You Might Like\n\n\n\n### China’s",
-   "published": "Mon, 09 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Fresh challenges facing Chinese private enterprises in Africa | AsiaNews",
-   "url": "https://www.asianews.it/en/east-asia/china/fresh-challenges-facing-chinese-private-enterprises-in-africa",
-   "snippet": "Beijing (AsiaNews) – Chinese companies that have built major infrastructure projects in many parts of Africa are sending fewer and fewer Chinese workers to the continent, whilst the presence of small private entrepreneurs – such as traders and industrialists moving there on their own initiative – is growing. However, those who arrive face problems such as high costs and inadequate infrastructure, ",
-   "published": "Mon, 09 Nov 2026 12:33:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Five Leading Whole-House Custom Cabinetry Solutions Suppliers in China 2026: Driving Smart Home Integration",
-   "url": "https://www.einnews.com/pr_news/955539590/five-leading-whole-house-custom-cabinetry-solutions-suppliers-in-china-2026-driving-smart-home-integration",
-   "snippet": "North Korea\n           North Macedonia\n           Norway\n           Ohio (US)\n           Oklahoma (US)\n           Oman\n           Oregon (US)\n           Pakistan\n           Palestine\n           Panama\n           Papua New Guinea\n           Paraguay\n           Pennsylvania (US)\n           Peru\n           Philippines\n           Poland\n           Portugal\n           Puerto Rico\n           Qatar\n     ",
-   "published": "Mon, 09 Nov 2026 09:29:06 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Mannai IT KSA Wins Riyadh Development Contract for MEP and Technology Works - News and Statistics",
-   "url": "https://www.indexbox.io/blog/mannai-it-ksa-secures-major-riyadh-development-contract-from-china-harbour-engineering-company",
-   "snippet": "Mannai IT KSA has won a major contract from China Harbour Engineering Company to deliver MEP and technology works for a prominent Riyadh urban development",
-   "published": "Tue, 10 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Top 5 DP Cable Manufacturers in China for Engineering Projects and E-commerce Sellers",
-   "url": "https://www.einpresswire.com/article/955730236/top-5-dp-cable-manufacturers-in-china-for-engineering-projects-and-e-commerce-sellers",
-   "snippet": "Top 5 DP Cable Manufacturers in China: A Sourcing Guide for Engineering Projects and E-commerce Sellers For buyers sourcing DisplayPort (DP) cables from",
-   "published": "Tue, 10 Nov 2026 07:00:00 GMT",
-   "source": "tavily"
-  }
- ],
+ "success": false,
+ "results": [],
+ "error": "Tavily failed: HTTP 429 {\"detail\":{\"error\":\"Your request has been blocked due to excessive requests. Please reduce the rate of requests.\"}}",
  "_tag": "cn_ph",
  "_query": "Chinese company Philippines project",
  "_domains": [],

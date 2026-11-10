@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Huy chương VnExpress Marathon Hanoi Midnight 2026 khắc họa Cột Cờ Hà Nội",
+   "url": "https://vnexpress.net/huy-chuong-vnexpress-marathon-hanoi-midnight-2026-cot-co-ha-noi-5142840.html",
+   "content": "Giải chạy đêm Hà Nội mùa 6 đặt Cột Cờ thủ đô lên nền khảm xanh, tái hiện diện mạo thành phố trong đêm thi đấu 29/11.",
+   "published_date": "Tue, 10 Nov 2026 12:00:01 +0700",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

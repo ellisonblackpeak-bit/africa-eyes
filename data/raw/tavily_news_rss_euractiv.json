@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "EU official rejects anonymous corruption allegations",
+   "url": "https://www.rapporteur.com/news/eu-official-rejects-anonymous-corruption-allegations/",
+   "content": "Isabelle Le Galo Flores firmly denies any wrongdoing",
+   "published_date": "Tue, 10 Nov 2026 18:37:29 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Military mobility solidarity pool to be set up in a year, new draft says",
+   "url": "https://www.rapporteur.com/news/military-mobility-solidarity-pool-to-be-set-up-in-a-year-new-draft-says/",
+   "content": "Military mobility solidarity pool to be set up within a year, new draft shows",
+   "published_date": "Tue, 10 Nov 2026 17:34:04 +0000",
+   "score": 0.6
+  },
+  {
    "title": "The trilateral no one’s talking about",
    "url": "https://www.rapporteur.com/news/the-trilateral-no-ones-talking-about/",
    "content": "Also, in tonight’s edition: EU and US close ranks behind NATO ahead of Abu Dhabi",
@@ -195,20 +209,6 @@
    "url": "https://www.rapporteur.com/news/first-aid-tobacco-tax-talks-ends-with-no-deal/",
    "content": "In today's edition: Biotech Act, diabetes, vaccines",
    "published_date": "Tue, 10 Nov 2026 07:21:46 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "HARVEST: Fertiliser price talks",
-   "url": "https://www.rapporteur.com/news/harvest-fertiliser-price-talks/",
-   "content": "In today's edition: plant-based, cyberattacks, farmworkers",
-   "published_date": "Tue, 10 Nov 2026 07:17:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Merz says no MFF without Ukraine",
-   "url": "https://www.rapporteur.com/news/rapporteur-am-merz-says-no-mff-without-ukraine/",
-   "content": "Also, in Tuesday’s edition: Malta smokes Ireland on tobacco tax",
-   "published_date": "Tue, 10 Nov 2026 06:33:36 +0000",
    "score": 0.6
   }
  ],

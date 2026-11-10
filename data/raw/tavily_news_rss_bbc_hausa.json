@@ -2,17 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Jiragen sojin Amurka sun fice daga sansanin Sojin Bitaniya",
+   "title": "Duk wanda ya ce tallafin mai zai dawo ƙarya yake yi - Tinubu",
    "url": "https://www.bbc.co.uk/hausa/live/cqdr8rmndx06t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 10/11/2026",
    "published_date": "",
    "score": 0.6
   },
   {
-   "title": "Abubuwa 5 da ke iza wutar rikicin manoma da makiyaya a ƙarshen damina",
-   "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
-   "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
-   "published_date": "Tue, 10 Nov 2026 11:33:44 GMT",
+   "title": "Ko alƙawarin miliyan 10 da Wike ya yi wa kansilolin APC ya saɓa dokar Najeriya?",
+   "url": "https://www.bbc.com/hausa/articles/ckjrwrx7e3n9o?at_medium=RSS&at_campaign=rss",
+   "content": "'Yan Najeriya da dama sun ce ya kamata hukumar yaƙi da cin hanci da rashawa ta gwamnati ta binciki kalaman Nyesom Wike, saboda suna ganin sun saɓa wa doka.",
+   "published_date": "Tue, 10 Nov 2026 18:12:11 GMT",
    "score": 0.6
   },
   {
@@ -20,6 +20,13 @@
    "url": "https://www.bbc.com/hausa/articles/cmz6564qe09xo?at_medium=RSS&at_campaign=rss",
    "content": "Wannan ba yana nufin cewa mutane za su daina haihuwa gaba ɗaya ba. Sai dai hanyoyin samun yara zai sauya sakamakon cigaban kimiyya.",
    "published_date": "Tue, 10 Nov 2026 16:11:12 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Abubuwa 5 da ke iza wutar rikicin manoma da makiyaya a ƙarshen damina",
+   "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
+   "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
+   "published_date": "Tue, 10 Nov 2026 11:33:44 GMT",
    "score": 0.6
   },
   {
@@ -55,13 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cme8r8yw8rpgo?at_medium=RSS&at_campaign=rss",
    "content": "A cikin hadisai an ambaci wasu wurare da aljanu ko shaiɗanu suke yawan zama ko taruwa, wanda a dalilinsu malaman addini ke cewa ana fama da matsaloli.",
    "published_date": "Mon, 09 Nov 2026 14:59:23 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kotu ta wanke mutumin da ake zargi da kashe matarsa a Kano",
-   "url": "https://www.bbc.co.uk/hausa/live/cqvg0g7em2z2t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin, 09/11/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -103,6 +103,13 @@
    "title": "Kocin Portugal ya ce bai san Ronaldo ya sanar da yin ritaya ba",
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Kotu ta wanke mutumin da ake zargi da kashe matarsa a Kano",
+   "url": "https://www.bbc.co.uk/hausa/live/cqvg0g7em2z2t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin, 09/11/2026",
    "published_date": "",
    "score": 0.6
   },
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmq5nx40j8vpo?at_medium=RSS&at_campaign=rss",
    "content": "Tun daga tsoffin tatsuniyoyin al'ummar Mesofotamiya da ke ba da labarin fatalwowi da ke buƙatar kulawa daga danginsu da suka rage a raye, har zuwa littafin Charles Dickens mai suna A Christmas Carol, ɗan'adam yana da dogon tarihi na bayar da labaran fatalwowi.",
    "published_date": "Sat, 07 Nov 2026 13:40:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa ake kai wa tarukan jam’iyyun hamayya hari a Najeriya?",
-   "url": "https://www.bbc.com/hausa/articles/cme3xxyqjj12o?at_medium=RSS&at_campaign=rss",
-   "content": "Gabanin zaɓen Najeriya na 2027, ana samun yanayi na rashin tabbas inda ake kai wa jam'iyyun adawa hari a lokacin yaƙin neman zaɓe.",
-   "published_date": "Sat, 07 Nov 2026 03:56:43 GMT",
    "score": 0.6
   }
  ],

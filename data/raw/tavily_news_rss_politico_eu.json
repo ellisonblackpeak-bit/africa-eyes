@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Poland says Pentagon backs permanent US base, with Trump decision due in December",
+   "url": "https://www.politico.eu/article/poland-says-pentagon-backs-permanent-us-base-with-trump-decision-due-in-december/",
+   "content": "Warsaw is seeking a lasting American military commitment as NATO allies fear further U.S. troop withdrawals from Europe.",
+   "published_date": "Tue, 10 Nov 2026 20:18:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Brussels takes on the evils of online commerce",
+   "url": "https://www.politico.eu/article/brussels-takes-on-the-evils-of-online-commerce-digital-fairness-act-commission/",
+   "content": "The EU is proposing new rules that would fine companies that use manipulative online tactics like \"dynamic pricing\" and \"addictive design\" to lure consumers to buy and pay more.",
+   "published_date": "Tue, 10 Nov 2026 19:45:24 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine and Russia discuss prisoner swap deal during ‘constructive’ talks",
+   "url": "https://www.politico.eu/article/ukraine-russia-discuss-prisoner-swap-deal-constructive-talks/",
+   "content": "Ukraine's Volodymyr Zelenskyy welcomed a positive day of direct negotiations with Russia in Abu Dhabi.",
+   "published_date": "Tue, 10 Nov 2026 19:31:46 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine : Mélenchon embarrassé",
+   "url": "https://www.politico.eu/podcast/playbook-paris-podcast/ukraine-melenchon-embarrasse/",
+   "content": "Voilà trois jours que Jean-Luc Mélenchon vitupère contre ses adversaires, le gouvernement, et les médias, qui caricaturent, d’après lui, ses propositions pour mettre fin à la guerre en Ukraine. Le candidat Insoumis cherche à s’extirper des accusations formulées contre lui selon lesquelles il s’alignerait en partie sur les positions de Moscou. Pourquoi cette réaction épidermique […]",
+   "published_date": "Tue, 10 Nov 2026 18:02:30 +0000",
+   "score": 0.6
+  },
+  {
    "title": "L’Europe a besoin de Nvidia et il faudra plus qu’un scandale d’espionnage pour que ça change",
    "url": "https://www.politico.eu/article/leurope-a-besoin-de-nvidia-et-il-faudra-plus-quun-scandale-despionnage-pour-que-ca-change/",
    "content": "Jensen Huang, le PDG du fabricant américain de puces, a peut-être était la cible d’une opération d’espionnage chinoise. Même si c’était avéré, il n’existe aucune alternative européenne à Nvidia.",
@@ -41,34 +69,6 @@
    "url": "https://www.politico.eu/article/eu-trusted-partners-ai-chips-henna-virkkunen-nvidia-crisis/",
    "content": "“We want to really keep the business secrets in Europe,” Henna Virkkunen says about EU efforts to protect sensitive industries.",
    "published_date": "Tue, 10 Nov 2026 14:57:49 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Merz clashes with Fico over German bid to link EU budget and Ukraine loan",
-   "url": "https://www.politico.eu/article/merz-clashes-with-fico-over-german-bid-to-link-eu-budget-and-ukraine-loan/",
-   "content": "The Slovak prime minister lambasted the German chancellor's proposal as \"blackmail.\"",
-   "published_date": "Tue, 10 Nov 2026 14:44:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Europe and US agree to review postwar continental security as Ukraine talks begin",
-   "url": "https://www.politico.eu/article/europe-and-u-s-agree-to-review-post-war-continental-security-as-ukraine-peace-talks-begin/",
-   "content": "The Abu Dhabi meetings open with an agreement between the U.S. and EU to look at a new security structure for Europe when Russia's war on Ukraine ends.",
-   "published_date": "Tue, 10 Nov 2026 12:13:04 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "US military aircraft pulled from second UK base after ‘Iran threat’",
-   "url": "https://www.politico.eu/article/us-military-aircraft-pulled-from-second-uk-base-after-iran-threat/",
-   "content": "Bombers were withdrawn from RAF Fairford in October after an Iran-linked security incident.",
-   "published_date": "Tue, 10 Nov 2026 11:48:31 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Prince Harry slams ‘lawless’ social media’s impact on children",
-   "url": "https://www.politico.eu/article/prince-harry-doesnt-want-a-social-media-world/",
-   "content": "Duke and Duchess of Sussex visit the European Parliament.",
-   "published_date": "Tue, 10 Nov 2026 11:44:24 +0000",
    "score": 0.6
   }
  ],
