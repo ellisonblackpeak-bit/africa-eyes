@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "How AI worsens online violence against Middle East women",
+   "url": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-world-4025-rdf",
+   "content": "Women in the Middle East already have to deal with an above-average share of online harassment and violence. The proliferation of AI-enabled tools is making it worse.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
    "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-world-4025-rdf",
    "content": "A member of the US Army has been arrested near Gloucester in England. Police said he was suspected of espionage activity in connection with Russia. Investigators from the US and UK are involved in the probe.",
@@ -75,13 +82,6 @@
    "title": "India's demonetization: 10 years on, economic benefits still disputed",
    "url": "https://www.dw.com/en/india-s-demonetization-10-years-on-economic-benefits-still-disputed/a-79903331?maca=en-rss-en-world-4025-rdf",
    "content": "A decade after the 2016 currency ban, its impact on India's economy and the fight against black money remains contested.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Africa's fight against fake news: Who decides what's true?",
-   "url": "https://www.dw.com/en/africa-s-fight-against-fake-news-who-decides-what-s-true/a-79874039?maca=en-rss-en-world-4025-rdf",
-   "content": "From Ghana to Mozambique, the fight against fake news keeps gaining momentum. But combating disinformation also requires safeguards for free speech, leaving some governments in an inconvenient position.",
    "published_date": "",
    "score": 0.6
   }
