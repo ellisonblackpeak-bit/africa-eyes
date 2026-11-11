@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Burnham: Good COP or bad COP?",
+   "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/burnham-good-cop-or-bad-cop/",
+   "content": "As the prime minister heads to COP, the UN’s annual climate change conference, does the government have a coherent message? With the cost of the green transition starting to bite, the government faces tough questions on its policy decisions and delays around oil, gas, and electric cars. Are Labour’s climate ambitions slipping because of hard […]",
+   "published_date": "Wed, 11 Nov 2026 11:03:59 +0000",
+   "score": 0.6
+  },
+  {
    "title": "How to bypass unruly MEPs",
    "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-to-bypass-unruly-meps/",
    "content": "The European Parliament has figured out how to pass controversial legislation … just bypass the full vote of all 720 MEPs. Today on the show, Zoya Sheftalovich and Ian Wishart discuss how cross-party leaders are worried that the plenary’s shifting alliances — particularly with the rise of the far right — could blow up legislation […]",
@@ -30,9 +37,9 @@
    "score": 0.6
   },
   {
-   "title": "Turkey-Greece maritime spat threatens to spill into EU summit",
+   "title": "Turkey-Greece maritime spat threatens to intrude on EU summit",
    "url": "https://www.politico.eu/article/turkey-libya-maritime-deal-raises-greece-tensions-eu-leaders-summit/",
-   "content": "ATHENS — A controversial maritime border deal between Libya and Turkey has riled Greece, annoyed the European Union — and could intrude on Friday’s EU leaders’ summit. Greek Prime Minister Kyriakos Mitsotakis will raise the issue during the informal meeting of EU leaders in Dublin, according to a senior official in Athens who spoke on condition […]",
+   "content": "The dispute centers on a Turkey-Libya agreement that claims a corridor in the eastern Mediterranean between Greece and Cyprus.",
    "published_date": "Wed, 11 Nov 2026 03:00:00 +0000",
    "score": 0.6
   },
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/poland-says-pentagon-backs-permanent-us-base-with-trump-decision-due-in-december/",
    "content": "Warsaw is seeking a lasting American military commitment as NATO allies fear further U.S. troop withdrawals from Europe.",
    "published_date": "Tue, 10 Nov 2026 20:18:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Brussels takes on the evils of online commerce",
-   "url": "https://www.politico.eu/article/brussels-takes-on-the-evils-of-online-commerce-digital-fairness-act-commission/",
-   "content": "The EU is proposing new rules that would fine companies that use manipulative online tactics like \"dynamic pricing\" and \"addictive design\" to lure consumers to buy and pay more.",
-   "published_date": "Tue, 10 Nov 2026 19:45:24 +0000",
    "score": 0.6
   }
  ],

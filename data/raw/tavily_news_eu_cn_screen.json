@@ -2,17 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "The Transatlantic Alliance Needs a Capital Pillar | Hudson Institute",
-   "url": "https://www.hudson.org/economics/transatlantic-alliance-needs-capital-pillar-peter-rough-jan-ruzicka",
-   "snippet": "Europe has started building bulwarks against Chinese economic power. The European Union screens foreign takeovers, investigates distortive foreign subsidies, provides a common framework for controlling sensitive technology exports, and is seeking to reduce excessive dependencies in critical supply chains. The continent therefore monitors who owns its assets. It does not adequately screen who may f",
-   "published": "Mon, 09 Nov 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "EU-China trade tensions to deepen in 2027 despite hybrid deal",
    "url": "https://www.theparliamentmagazine.eu/news/article/opinion-essay-the-hybrid-car-deal-wont-stop-the-euchina-slide",
    "snippet": "New cybersecurity legislation would phase out equipment from high-risk suppliers in critical sectors, from telecom networks to connected vehicles, with Chinese manufacturers the principal targets. Tougher screening rules will further limit Chinese investment in sensitive European industries.\n\nThese measures are formally country-agnostic. In practice, they are overwhelmingly China-facing. And the p",
    "published": "Mon, 09 Nov 2026 11:41:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Transatlantic Alliance Needs a Capital Pillar | Hudson Institute",
+   "url": "https://www.hudson.org/economics/transatlantic-alliance-needs-capital-pillar-peter-rough-jan-ruzicka",
+   "snippet": "Europe has started building bulwarks against Chinese economic power. The European Union screens foreign takeovers, investigates distortive foreign subsidies, provides a common framework for controlling sensitive technology exports, and is seeking to reduce excessive dependencies in critical supply chains. The continent therefore monitors who owns its assets. It does not adequately screen who may f",
+   "published": "Mon, 09 Nov 2026 15:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -32,8 +32,15 @@
   {
    "title": "Trade survives, but the battle for control intensifies: 3 calls for global trade | ING THINK",
    "url": "https://think.ing.com/articles/trade-survives-but-the-battle-for-control-intensifies-3-calls-for-global-trade",
-   "snippet": "## Our bold call: EU-China trade war\n\nThe EU and China enter an outright trade conflict. Europe abandons its largely open-market approach and increasingly applies reciprocity principles to market access and investment. Chinese firms investing in strategic sectors face mandatory 50:50 joint ventures, local ownership requirements and growing restrictions on acquisitions. [...] # Trade survives, but ",
+   "snippet": "## Our bold call: EU-China trade war\n\nThe EU and China enter an outright trade conflict. Europe abandons its largely open-market approach and increasingly applies reciprocity principles to market access and investment. Chinese firms investing in strategic sectors face mandatory 50:50 joint ventures, local ownership requirements and growing restrictions on acquisitions. [...] At the same time, the ",
    "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "COMMENTARY: Europe’s trade walls cannot keep China out",
+   "url": "https://www.reuters.com/commentary/reuters-open-interest/europes-trade-walls-cannot-keep-china-out-martin-vladimirov-2026-11-11",
+   "snippet": "SOFIA, Nov 11 (Reuters) - China doesn't need to clear Europe's trade barriers. It can build inside them. Chinese companies are establishing production and",
+   "published": "Wed, 11 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -41,13 +48,6 @@
    "url": "https://globalcompetitionreview.com/market-review/market-review-merger-control/2026/article/ukraine-merger-control-intensifies-scrutiny-of-strategic-sectors-and-digital-deals",
    "snippet": "Ukraine’s merger control regime is shifting from procedural review towards deeper scrutiny of defence, critical infrastructure, digital markets and strategically important transactions. Recent Kyivstar and MHP cases highlight the AMCU’s growing focus on data, vertical integration, market access and behavioural remedies, alongside stricter gun-jumping enforcement. EU accession and proposed foreign ",
    "published": "Tue, 10 Nov 2026 14:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth",
-   "url": "https://www.reuters.com/commentary/breakingviews/how-stop-securonomics-killing-growth-2026-11-09",
-   "snippet": "Trade policies increasingly discriminate ⁠based on ​firms' nationality, rather ​than where products are made. The US and ​EU hope ​this will shrink China's",
-   "published": "Mon, 09 Nov 2026 08:00:00 GMT",
    "source": "tavily"
   },
   {

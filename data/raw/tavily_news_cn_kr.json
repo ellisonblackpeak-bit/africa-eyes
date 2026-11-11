@@ -2,66 +2,73 @@
  "success": true,
  "results": [
   {
-   "title": "Global Semiconductor Sales to China Decline Sharply",
-   "url": "https://www.chosun.com/english/industry-en/2026/11/10/YQAX6QTB7RH45AV5LOG5EGZIRE",
-   "snippet": "One major reason for the reduced share of China is the expansion of AI semiconductor investments in South Korea and Taiwan. In ASML’s third-quarter equipment sales this year, Taiwan and South Korea accounted for 32% and 31%, respectively, surpassing China’s 23%. Lam Research’s sales in South Korea also more than doubled compared to the same period last year. This growth is driven by Samsung Electr",
-   "published": "Mon, 09 Nov 2026 15:35:03 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea expands consumer goods exports to China through new trade deals | Retail Asia",
-   "url": "https://retailasia.com/news/south-korea-expands-consumer-goods-exports-china-through-new-trade-deals",
-   "snippet": "The consultations resulted in three export agreements covering products such as Kwangcheonkim seaweed and microbiome-based health foods.\n\nThey also led to 18 cooperation memoranda of understanding (MOUs) between Korean and Chinese companies and institutions.\n\nThe Korea Trade-Investment Promotion Agency (KOTRA) also signed an MOU with Atomy to help small and medium-sized Korean cosmetics companies ",
+   "title": "South Korea expands consumer goods exports to China through new trade deals | Asian Business Review",
+   "url": "https://asianbusinessreview.com/news/south-korea-expands-consumer-goods-exports-china-through-new-trade-deals",
+   "snippet": "Shandong recorded US$38.9b in trade with South Korea in 2025. It is home to 8,763 Korean companies, the highest number among China's provincial-level regions and around 30% of all Korean companies operating in the country.\n\nSouth Korean Minister of Trade, Industry and Resources JK (Jung-Kwan) Kim said both sides should expand cooperation in consumer goods and emerging industries. He added that the",
    "published": "Wed, 11 Nov 2026 02:52:33 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Mainland Chinese overseas funds find winners in oil, US stocks as Hong Kong bets struggle | South China Morning Post",
-   "url": "https://www.scmp.com/business/china-business/article/3373949/mainland-chinese-overseas-funds-find-winners-oil-us-stocks-hong-kong-bets-struggle",
-   "snippet": "Mainland Chinese QDII funds targeting stocks in the US, South Korea and Japan also ranked among the best performers, highlighting gains across the three markets supported by strong economic growth and the boom in artificial intelligence infrastructure buildouts. Benchmark stock indices in the three countries have risen at least 10 per cent this year. [...] Advertisement\n\nChina stock market\n\nBusine",
-   "published": "Wed, 11 Nov 2026 03:00:35 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Democratic gains unlikely to derail South Korea-US investment deal – Asia News Network",
-   "url": "https://asianews.network/democratic-gains-unlikely-to-derail-south-korea-us-investment-deal",
-   "snippet": "Samsung Electronics has committed more than $37 billion to its Texas semiconductor operations, while SK hynix is developing a chip packaging facility in Indiana worth more than $4 billion.\n\nHyundai Motor Group has pledged $26 billion in US investment through 2028, LG Energy Solution is building a $5.5 billion battery complex in Arizona, and Hanwha is pursuing a $5 billion expansion of its Philly S",
-   "published": "Thu, 05 Nov 2026 01:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "South Korea's $350 Billion U.S. Investment Faces Uncertainty, With Tariff Policy Holding Firm - Businesskorea",
    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280563",
-   "snippet": "based on ownership links to entities from countries of concern, including China, and the sourcing of raw materials. Managing dependence on Chinese materials will therefore remain important for South Korean battery makers. [...] Expanding semiconductor production in the United States and reducing supply-chain dependence on China remain shared policy goals of both parties, suggesting that pressure o",
+   "snippet": "Expanding semiconductor production in the United States and reducing supply-chain dependence on China remain shared policy goals of both parties, suggesting that pressure on South Korean companies to make additional U.S. investments will continue. At the same time, changes in regulations governing AI data center construction and policies related to electricity and water supply could affect major t",
    "published": "Thu, 05 Nov 2026 03:57:44 GMT",
    "source": "tavily"
   },
   {
-   "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html",
-   "snippet": "The rotation follows a sharp decline in semiconductor-heavy markets after the U.S. midterm elections, with investors reassessing their exposure to companies supplying the global AI expansion.\n\nSouth Korea's Samsung Electronics and SK Hynix, alongside Taiwan Semiconductor Manufacturing, have faced selling pressure as doubts grow over whether AI investment will deliver sufficient profits. [...] Inve",
-   "published": "Sun, 08 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Asia not riding but building the AI boom – GIS Reports",
-   "url": "https://www.gisreportsonline.com/r/asia-building-ai-boom",
-   "snippet": "Like many of these government-led initiatives, Seoul’s plan is not just state-funded AI developments; it also encourages greater private sector investment, aiming for an additional $22 billion worth of private investment. Samsung and SK Hynix, the world’s leaders in high-bandwidth memory chip production, have agreed to invest $520 billion over the next five years for new chip production across the",
-   "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+   "title": "Democratic gains unlikely to derail South Korea-US investment deal – Asia News Network",
+   "url": "https://asianews.network/democratic-gains-unlikely-to-derail-south-korea-us-investment-deal",
+   "snippet": "Bipartisan efforts to reduce US dependence on China could also benefit Korean companies supplying American manufacturers, although restrictions on Chinese materials may increase production costs.\n\nAI investment faces new uncertainty\n\nThe growing US artificial intelligence industry presents another challenge for Korean technology companies. [...] Samsung Electronics has committed more than $37 bill",
+   "published": "Thu, 05 Nov 2026 01:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "Integration among ASEAN, China, Japan, South Korea boosted by AI boom - Nikkei Asia",
    "url": "https://asia.nikkei.com/spotlight/supply-chain/integration-among-asean-china-japan-south-korea-boosted-by-ai-boom",
-   "snippet": "BANGKOK -- The artificial intelligence boom is accelerating economic integration across Southeast Asia, China, Japan and South Korea, the head of the ASEAN+3 Macroeconomic Research Office (AMRO) said, stressing that the technology will boost intra-regional trade and investment.\n\n## Read Next\n\n ASEAN auto sales rose 13% in Q3 on EV and hybrid demand in key markets\n\n  Automobiles#### ASEAN auto sale",
+   "snippet": "- Supply Chain#### Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years\n\n  Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years\n\n- Supply Chain#### Japan's Sojitz to import rare earth yttrium from Malaysia\n\n  Japan's Sojitz to import rare earth yttrium from Malaysia\n\n## Sponsored Content\n\n### About Sponsored ContentThis content was commissioned by Nikk",
    "published": "Tue, 10 Nov 2026 01:27:21 GMT",
    "source": "tavily"
   },
   {
-   "title": "EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say",
-   "url": "https://www.reuters.com/world/china/chinese-chipmaker-ymtc-puts-ipo-hold-weaker-markets-weigh-sources-say-2026-11-04",
-   "snippet": "Flash-memory chipmaker Yangtze Memory Technologies Co has put its Shanghai IPO ​on hold, according to a company memo and three people with knowledge of the",
-   "published": "Thu, 05 Nov 2026 08:00:00 GMT",
+   "title": "Asia not riding but building the AI boom – GIS Reports",
+   "url": "https://www.gisreportsonline.com/r/asia-building-ai-boom",
+   "snippet": "In the years ahead, expect governments and industry to continue to invest heavily across Asia’s AI supply chain, including in the energy sector. As the U.S. and China rapidly develop their AI ecosystems, Asian countries will find ways to integrate into the global ecosystem, developing their own capabilities. Growth in investments and exports will continue to support regional economic growth. Event",
+   "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "28th China Hi-Tech Fair to Open November 26, Bringing Together Global Technology Leaders | Markets Insider",
+   "url": "https://markets.businessinsider.com/news/stocks/28th-china-hi-tech-fair-to-open-november-26-bringing-together-global-technology-leaders-1036742562",
+   "snippet": "South Korea's Iljin has submitted a detailed equipment list and budget, while national-level institutions from Azerbaijan and Tajikistan have issued formal procurement inquiries, reflecting increasingly specific international demand for energy equipment. [...] 2.4 International Energy and Power  \nRepresentative organizations: The State Agency on Renewable Energy Sources under Azerbaijan's Ministry",
+   "published": "Tue, 10 Nov 2026 14:32:47 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea’s Lee says Seoul must build bipartisan support in U.S. Congress | The Asahi Shimbun: Breaking News, Japan News and Analysis",
+   "url": "https://www.asahi.com/ajw/articles/17037767",
+   "snippet": "Industry Minister Kim Jung-kwan said the ⁠election result was unlikely to slow such investment.\n\nThe two allies are working through a large South Korean investment ⁠package in the U.S., while progress has been slow on the transfer of wartime operational control and Seoul’s push to acquire nuclear-powered submarines. [...] His comments come as South Korean officials assess how the changed political",
+   "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "South Korea investigates 580 finance firms over data leaks, issues warning | South China Morning Post",
+   "url": "https://www.scmp.com/week-asia/economics/article/3373363/south-korea-investigates-580-finance-firms-over-data-leaks-issues-warning",
+   "snippet": "Advertisement\n\nSouth Korea\n\nThis Week in AsiaEconomics\n\n# South Korea investigates 580 finance firms over data leaks, issues warning\n\nThe Financial Services Commission warns banks against ignoring known security risks and unsafe practices\n\n2-MIN READ2-MIN\n\nListen\n\nA stack of 50,000 South Korea won cash bills. A total of 1 billion won (US$745,000) in funds held by various financial firms have been ",
+   "published": "Thu, 05 Nov 2026 07:08:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese Flash Memory Giant YMTC Said to Target IPO in Early 2027 - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-flash-memory-giant-ymtc-said-to-target-ipo-in-early-2027",
+   "snippet": "The Wuhan-based company’s plan to list on the tech-focused Star board in Shanghai remains in progress, said the people who asked not to be identified as the discussions are private. Reuters reported last week that the IPO was on hold, citing a company memo and people familiar with the matter. The company in September moved to the next stage in the process toward a deal with a planned fundraise of ",
+   "published": "Wed, 11 Nov 2026 07:27:25 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth",
+   "url": "https://www.reuters.com/commentary/breakingviews/how-stop-securonomics-killing-growth-2026-11-09",
+   "snippet": "Trade policies increasingly discriminate ⁠based on ​firms' nationality, rather ​than where products are made. The US and ​EU hope ​this will shrink China's",
+   "published": "Mon, 09 Nov 2026 11:00:00 GMT",
    "source": "tavily"
   }
  ],

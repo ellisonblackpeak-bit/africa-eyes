@@ -1,0 +1,116 @@
+{
+ "query": "Ghana China Chinese company investment mining embassy",
+ "_tag": "soc_cn_gh",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/GhanaNewsGuide/status/2120241399463346542",
+     "title": "The Chief Executive Officer of the Minerals Commission, Isaac Tandoh, has called on the Government of China to treat illegal mining by its n",
+     "description": "The Chief Executive Officer of the Minerals Commission, Isaac Tandoh, has called on the Government of China to treat illegal mining by its nationals in Ghana as a bilateral enforcement priority, warning that the conduct of a \"lawless minority\" is undermining a friendship built over six decades.\n\nSpeaking at the China-Ghana Mining Cooperation Conference at the Kempinski Hotel in Accra on Tuesday, November 10, 2026, Mr Tandoh said the integrity of the partnership between the two countries is being tested not in boardrooms, but in Ghana's rivers, forest reserves and farmlands.\n\n\"Illegal small-scale mining has become an existential threat to our environment, our water bodies, and our national security. And in too many instances, Chinese nationals have been found at the centre of these illegal operations,\" he said.",
+     "snippet": "The Chief Executive Officer of the Minerals Commission, Isaac Tandoh, has called on the Government of China to treat illegal mining by its nationals in Ghana as a bilateral enforcement priority, warning that the conduct of a \"lawless minority\" is undermining a friendship built over six decades.\n\nSpeaking at the China-Ghana Mining Cooperation Conference at the Kempinski Hotel in Accra on Tuesday, November 10, 2026, Mr Tandoh said the integrity of the partnership between the two countries is being tested not in boardrooms, but in Ghana's rivers, forest reserves and farmlands.\n\n\"Illegal small-scale mining has become an existential threat to our environment, our water bodies, and our national security. And in too many instances, Chinese nationals have been found at the centre of these illegal operations,\" he said.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ghana News Guide",
+     "handle": "@GhanaNewsGuide"
+    },
+    {
+     "url": "https://x.com/GCBBankPLC/status/2120033784481370200",
+     "title": "GCB Bank is proud to be part of the Ghana-China Business Summit & Exhibition 2026, a platform for strengthening bilateral trade relations, f",
+     "description": "GCB Bank is proud to be part of the Ghana-China Business Summit & Exhibition 2026, a platform for strengthening bilateral trade relations, fostering partnerships and unlocking new investment opportunities.\n\nOur Managing Director, Farihan Alhassan, will join the summit as a Guest Speaker, contributing to conversations on building a stronger Ghana-China cooperation.\n\n11th November 2026\nBlack Star Square, Accra\n9:00 AM - 11:30 AM\n\nTogether, we are connecting opportunities and driving shared prosperity.\n\n#AfroAsiaBanking #GCBBank #GhanaChinaBusinessSummit #TradeAndInvestment #GhanaChinaRelations #GCBCares #YourBank4Life",
+     "snippet": "GCB Bank is proud to be part of the Ghana-China Business Summit & Exhibition 2026, a platform for strengthening bilateral trade relations, fostering partnerships and unlocking new investment opportunities.\n\nOur Managing Director, Farihan Alhassan, will join the summit as a Guest Speaker, contributing to conversations on building a stronger Ghana-China cooperation.\n\n11th November 2026\nBlack Star Square, Accra\n9:00 AM - 11:30 AM\n\nTogether, we are connecting opportunities and driving shared prosperity.\n\n#AfroAsiaBanking #GCBBank #GhanaChinaBusinessSummit #TradeAndInvestment #GhanaChinaRelations #GCBCares #YourBank4Life",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "GCB Bank PLC",
+     "handle": "@GCBBankPLC"
+    },
+    {
+     "url": "https://x.com/tv3_ghana/status/2120449914106699781",
+     "title": "Roads Minister Kwame Governs Agbodza gives China Jiangxi Engineering Ghana Limited, a construction company, two weeks to deploy new equipmen",
+     "description": "Roads Minister Kwame Governs Agbodza gives China Jiangxi Engineering Ghana Limited, a construction company, two weeks to deploy new equipment on the 50.3km Nkwanta–Oti Damanko road project.\n\n#3NewsGH #TV3GH",
+     "snippet": "Roads Minister Kwame Governs Agbodza gives China Jiangxi Engineering Ghana Limited, a construction company, two weeks to deploy new equipment on the 50.3km Nkwanta–Oti Damanko road project.\n\n#3NewsGH #TV3GH",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#TV3GH",
+     "handle": "@tv3_ghana"
+    },
+    {
+     "url": "https://x.com/sinoprise/status/2120299464565109057",
+     "title": "The 2026 China (Guangxi)-ASEAN Mining Cooperation Conference kicked off on Friday in Nanning, capital of Guangxi Zhuang autonomous region in",
+     "description": "The 2026 China (Guangxi)-ASEAN Mining Cooperation Conference kicked off on Friday in Nanning, capital of Guangxi Zhuang autonomous region in South China. The event brought together more than 300 representatives and, for the first time, included Ghanaian mining officials in its training program. \n\nDuring the conference, Ghanaian delegation explored opportunities to learn from Guangxi's mining technologies and industrial experience. Through technology sharing, skills development and stronger partnerships, the two sides aim to support a more modern and responsible mining sector in Ghana.\n#EnterprisingChina #MiningCooperation #ChinaAfrica #TechnologyTransfer #SustainableMining",
+     "snippet": "The 2026 China (Guangxi)-ASEAN Mining Cooperation Conference kicked off on Friday in Nanning, capital of Guangxi Zhuang autonomous region in South China. The event brought together more than 300 representatives and, for the first time, included Ghanaian mining officials in its training program. \n\nDuring the conference, Ghanaian delegation explored opportunities to learn from Guangxi's mining technologies and industrial experience. Through technology sharing, skills development and stronger partnerships, the two sides aim to support a more modern and responsible mining sector in Ghana.\n#EnterprisingChina #MiningCooperation #ChinaAfrica #TechnologyTransfer #SustainableMining",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Enterprising China",
+     "handle": "@sinoprise"
+    },
+    {
+     "url": "https://x.com/diplomatictimes/status/2120173437339537848",
+     "title": "The Acting US Ambassador to Ghana, Rolf Olson, has pointed to Ghana’s prosecution of Chinese national Aisha Huang and broader enforcement me",
+     "description": "The Acting US Ambassador to Ghana, Rolf Olson, has pointed to Ghana’s prosecution of Chinese national Aisha Huang and broader enforcement measures against illegal mining as demonstrations of the country’s commitment to the rule of law.\n\n#ghana #usa #China #aishahuang",
+     "snippet": "The Acting US Ambassador to Ghana, Rolf Olson, has pointed to Ghana’s prosecution of Chinese national Aisha Huang and broader enforcement measures against illegal mining as demonstrations of the country’s commitment to the rule of law.\n\n#ghana #usa #China #aishahuang",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Diplomatic Times",
+     "handle": "@diplomatictimes"
+    },
+    {
+     "url": "https://x.com/BeatriceBadu92/status/2120191307293262044",
+     "title": "The Minerals Commission has called on the Chinese Government to strengthen its cooperation with Ghanaian security and regulatory agencies to",
+     "description": "The Minerals Commission has called on the Chinese Government to strengthen its cooperation with Ghanaian security and regulatory agencies to combat illegal mining, particularly activities involving Chinese nationals operating in the country. https://loyalnewsgh.com/minerals-commission-calls-on-china-to-help-ghana-fight-illegal-mining/",
+     "snippet": "The Minerals Commission has called on the Chinese Government to strengthen its cooperation with Ghanaian security and regulatory agencies to combat illegal mining, particularly activities involving Chinese nationals operating in the country. https://loyalnewsgh.com/minerals-commission-calls-on-china-to-help-ghana-fight-illegal-mining/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Loyal News Ghana",
+     "handle": "@BeatriceBadu92"
+    },
+    {
+     "url": "https://x.com/AmaMawusiM/status/2120447236953804843",
+     "title": "“Illegal mining has no place in this partnership, and those who engage in it, whatever their nationality must face the full weight of the la",
+     "description": "“Illegal mining has no place in this partnership, and those who engage in it, whatever their nationality must face the full weight of the law.” Mr Isaac Tandoh, CEO Minerals Commission @mincommgh , as he addresses audience at the Association of China-Ghana Mining (ACGM).",
+     "snippet": "“Illegal mining has no place in this partnership, and those who engage in it, whatever their nationality must face the full weight of the law.” Mr Isaac Tandoh, CEO Minerals Commission @mincommgh , as he addresses audience at the Association of China-Ghana Mining (ACGM).",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ama Mawusi Mawuenyefia",
+     "handle": "@AmaMawusiM"
+    },
+    {
+     "url": "https://x.com/modernghanaweb/status/2120293756368715903",
+     "title": "Minerals Commission warns Chinese nationals against illegal mining, threatens 25-year jail term https://www.modernghana.com/news/1543410/min",
+     "description": "Minerals Commission warns Chinese nationals against illegal mining, threatens 25-year jail term https://www.modernghana.com/news/1543410/minerals-commission-warns-chinese-nationals-agains.html",
+     "snippet": "Minerals Commission warns Chinese nationals against illegal mining, threatens 25-year jail term https://www.modernghana.com/news/1543410/minerals-commission-warns-chinese-nationals-agains.html",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Modern Ghana",
+     "handle": "@modernghanaweb"
+    },
+    {
+     "url": "https://x.com/OnuaTV/status/2120211218120270231",
+     "title": "Illegal mining by Chinese threatens Ghana-China friendship – Minerals Commission CEO onuaonline.​com/illegal-mining-by-chinese-threatens-gha",
+     "description": "Illegal mining by Chinese threatens Ghana-China friendship – Minerals Commission CEO onuaonline.​com/illegal-mining-by-chinese-threatens-ghana-china-friendship-minerals-commission-ceo/",
+     "snippet": "Illegal mining by Chinese threatens Ghana-China friendship – Minerals Commission CEO onuaonline.​com/illegal-mining-by-chinese-threatens-ghana-china-friendship-minerals-commission-ceo/",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#OnuaTV",
+     "handle": "@OnuaTV"
+    },
+    {
+     "url": "https://x.com/CitizenVigila10/status/2120210243959586868",
+     "title": "Illegal mining must not undermine six decades of Ghana–China relations!",
+     "description": "Illegal mining must not undermine six decades of Ghana–China relations!\n\nAt the China–Ghana Mining Cooperation Conference in Accra, @mincommgh CEO urged stronger Chinese cooperation to tackle illegal mining involving some Chinese nationals and protect Ghana’s environment.",
+     "snippet": "Illegal mining must not undermine six decades of Ghana–China relations!\n\nAt the China–Ghana Mining Cooperation Conference in Accra, @mincommgh CEO urged stronger Chinese cooperation to tackle illegal mining involving some Chinese nationals and protect Ghana’s environment.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "EL Citizen Vigilante",
+     "handle": "@CitizenVigila10"
+    }
+   ]
+  }
+ ]
+}
