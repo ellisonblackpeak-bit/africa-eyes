@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Ba za mu bari a ɗauki ko da ƙwayar zarra na uranium ɗinmu ba - Iran",
+   "url": "https://www.bbc.co.uk/hausa/live/ckzd9pn6qn9mt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 11/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Me ke janyo kwaɗayin dare bayan cin abinci?",
+   "url": "https://www.bbc.com/hausa/articles/c85y13l0x5plo?at_medium=RSS&at_campaign=rss",
+   "content": "Shin ka taɓa cin abinci ka ƙoshi sosai, amma bayan awa guda ko minti talatin sai ka fara jin kwaɗayin cin wani abu, har ka nufi kicin kana neman abin da za ka saka a baki?",
+   "published_date": "Wed, 11 Nov 2026 14:26:36 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Manyan alƙawura huɗu da Tinubu zai yi kamfe da su a 2027",
    "url": "https://www.bbc.com/hausa/articles/c3x2987x275ko?at_medium=RSS&at_campaign=rss",
    "content": "Jam'iyyar ta ce manufofin nata sun ta'allaƙa ne kan abin da take ganin an cimma a shekaru huɗun farko na gwamnatin Tinubu, musamman a ɓangarorin tattalin arziki, tsaro, samar da ababen more rayuwa da kuma kirkirar ayyukan yi.",
    "published_date": "Wed, 11 Nov 2026 11:27:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda a baya ban yi APC ba yanzu ma ba zan yi ba - Lamido",
-   "url": "https://www.bbc.co.uk/hausa/live/ckzd9pn6qn9mt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 11/11/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Abubuwa 5 da ke iza wutar rikicin manoma da makiyaya a ƙarshen damina",
-   "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
-   "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
-   "published_date": "Tue, 10 Nov 2026 11:33:44 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -72,7 +72,7 @@
    "score": 0.6
   },
   {
-   "title": "Za a yanke makomar Carrick a Man United ranar Laraba",
+   "title": "An dade ana ta alakanta Pochettino da aikin Man United",
    "url": "https://www.bbc.co.uk/hausa/live/c6pvgv474vxet?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 9 zuwa 14 ga watan Nuwambar 2026",
    "published_date": "",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Abubuwa 5 da ke iza wutar rikicin manoma da makiyaya a ƙarshen damina",
+   "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
+   "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
+   "published_date": "Tue, 10 Nov 2026 11:33:44 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cq5ynn8753n5o?at_medium=RSS&at_campaign=rss",
    "content": "Sakamakon zaɓen ya nuna cewa jam'iyyar Democrat ta samu kujeru fiye da jam'iyyar Republican, wadda Shugaba Donald Trump yake wakilta. A yayin zaɓen, an samu wasu abubuwa da ba a yi tsammani ba, ciki har da nasarar 'yan Najeriya da sauran Baƙaƙen fata da suka samu kujeru a majalisun dokokin Amurka.",
    "published_date": "Sun, 08 Nov 2026 03:56:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Laika: Karen da ya riga bil'adama zuwa sararin samaniya",
-   "url": "https://www.bbc.com/hausa/articles/c64g1vywrwleo?at_medium=RSS&at_campaign=rss",
-   "content": "A watan Nuwamban shekarar 1957, masana kimiyya a Tarayyar Soviet sun aika wata karya mai suna Laika zuwa sararin samaniya da ake ganin ba za a iya dawo da ita ba, lamarin da ya mayar da ita jarumar ƙasa, amma makomarta ta kasance mai ban tausayi.",
-   "published_date": "Sun, 08 Nov 2026 12:41:41 GMT",
    "score": 0.6
   }
  ],

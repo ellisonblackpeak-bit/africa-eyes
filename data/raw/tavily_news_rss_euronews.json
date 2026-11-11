@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Storm Charles: Heavy rain and strong winds batter Portugal",
+   "url": "https://www.euronews.com/video/2026/11/11/storm-charles-heavy-rain-and-strong-winds-batter-portugal",
+   "content": "Heavy rain, rough seas and strong winds hit Costa da Caparica in Portugal, with coastal facilities closed and streets left waterlogged.",
+   "published_date": "Wed, 11 Nov 2026 14:27:43 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "EU plans Doha defence talks to strengthen security ties with Gulf countries",
+   "url": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries",
+   "content": "EU Ambassador to Qatar Antonino Maggiore tells Euronews that Europe plans to strengthen defence cooperation with Qatar and the Gulf countries, as \"every crisis brings opportunities,\" while also deepening political and economic cooperation with the region.",
+   "published_date": "Wed, 11 Nov 2026 14:13:43 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Protesters outside Israel’s Knesset oppose Arab lawmakers, call for new elections",
    "url": "https://www.euronews.com/video/2026/11/11/protesters-outside-israels-knesset-oppose-arab-lawmakers-call-for-new-elections",
    "content": "Demonstrators gathered outside Israel’s parliament in Jerusalem, calling for new elections and expressing opposition to the presence and role of Arab lawmakers in the Knesset.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/10/peru-giant-statue-of-pope-leo-xiv-unveiled-ahead-of-papal-visit",
    "content": "A giant statue of Pope Leo XIV has been unveiled in Callao, Peru, ahead of his upcoming visit. The monument honours the pontiff's close ties to the country, where he previously served as a missionary and bishop.",
    "published_date": "Tue, 10 Nov 2026 08:45:25 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "California voters reject one-off billionaire wealth tax US media predicts",
-   "url": "https://www.euronews.com/2026/11/10/california-voters-reject-one-off-billionaire-wealth-tax-us-media-predicts",
-   "content": "The measure was seen as a key test for the global campaign against inequality, but warnings that the super-rich would leave the state won out.",
-   "published_date": "Tue, 10 Nov 2026 08:11:16 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 10th, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Tue, 10 Nov 2026 07:00:32 +0100",
    "score": 0.6
   }
  ],
