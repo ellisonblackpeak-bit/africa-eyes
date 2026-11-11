@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Me ya sa INEC ta cire sunayen mutum sama da miliyan 1.6 daga kundinta?",
+   "url": "https://www.bbc.com/hausa/articles/cmy0e0zzje0vo?at_medium=RSS&at_campaign=rss",
+   "content": "Hukumar ta ce bincikenta ya nuna cewa wasu jami'anta masu yin rajista sun tafka kurarai, lamarin da ya janyo yi wa wasu rajista sau biyu.",
+   "published_date": "Wed, 11 Nov 2026 04:06:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Arsenal na harin Endrick, Newcastle da Sunderland na zawarcin Beljo",
+   "url": "https://www.bbc.com/hausa/articles/c6wy43ww32n3o?at_medium=RSS&at_campaign=rss",
+   "content": "Ɗan wasan Real Madrid Endrick na cikin ƴan wasan da Arsenal ke son ɗaukar, yayin da ɗan wasan Liverpool Jeremie Frimpong ba zai bar ƙungiyar ba, sannan Newcastle da Sunderland na zawarcin Dion Beljo.",
+   "published_date": "Wed, 11 Nov 2026 04:39:18 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda kafafen yaɗa labaran Iran ke yi wa Trump shaguɓe bayan faɗuwu zaɓe",
+   "url": "https://www.bbc.com/hausa/articles/cje363p07vk1o?at_medium=RSS&at_campaign=rss",
+   "content": "Kafafen yada labaran Iran sun riƙa bayyana sakamakon zaɓen Amurka, kuma kowacce kafa da irin yadda take bayyana ra'ayinta game da shi.",
+   "published_date": "Wed, 11 Nov 2026 04:04:32 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa ƴan cirani ke ci gaba da yunƙurin ratsa teku duk da hatsarin hakan?",
+   "url": "https://www.bbc.com/hausa/articles/ckz7x742jqlyo?at_medium=RSS&at_campaign=rss",
+   "content": "A baya-bayan nan, an samun rahotannin kifewar kwale-kwale da ke ɗauke da 'yan cirani daga Senegal a hanyarsu ta zuwa Turai, inda mutane da dama suka rasa rayukansu.",
+   "published_date": "Wed, 11 Nov 2026 04:08:08 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Duk wanda ya ce tallafin mai zai dawo ƙarya yake yi - Tinubu",
    "url": "https://www.bbc.co.uk/hausa/live/cqdr8rmndx06t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Talata 10/11/2026",
@@ -34,34 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmy0r0j04x9jo?at_medium=RSS&at_campaign=rss",
    "content": "Ko da yike wasu majiyoyi da dama sun shaida wa BBC Sport cewa har yanzu mahukuntan Manchester United ba su amince da matakin sallamar Carrick ba.",
    "published_date": "Tue, 10 Nov 2026 13:49:33 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Shugabannin Afrika 11 da suka yi zaman gidan yari kafin hawa mulki",
-   "url": "https://www.bbc.com/hausa/articles/cjn5v526elero?at_medium=RSS&at_campaign=rss",
-   "content": "An ɗaure yawancinsu ne saboda adawa da mulkin mallaka, yaƙi da kama ƙarya da kuma neman sauyi.",
-   "published_date": "Tue, 10 Nov 2026 04:17:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Fitattun ƴansiyasar Najeriya 6 da ke takara tun 2003",
-   "url": "https://www.bbc.com/hausa/articles/cm4g1gk8k415o?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan rahoton ya yi nazari kan wasu daga cikin fitattun ƴan siyasar da suka daɗe suna neman takara ko kuma neman wani muƙamin zaɓe tun shekarar 2003.",
-   "published_date": "Tue, 10 Nov 2026 04:14:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Dalilan da ke haddasa katsewar wutar lantarki a Najeriya?",
-   "url": "https://www.bbc.com/hausa/articles/cvlydywee8w1o?at_medium=RSS&at_campaign=rss",
-   "content": "A wasu jihohi da yankuna ana samun lantarki fiye da wasu, yayin da wasu wuraren ke fama da ƙarancin wuta ko rashin wutar gaba ɗaya.",
-   "published_date": "Tue, 10 Nov 2026 04:16:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wurare 5 da Aljanu ke zama a cikin gidajenmu",
-   "url": "https://www.bbc.com/hausa/articles/cme8r8yw8rpgo?at_medium=RSS&at_campaign=rss",
-   "content": "A cikin hadisai an ambaci wasu wurare da aljanu ko shaiɗanu suke yawan zama ko taruwa, wanda a dalilinsu malaman addini ke cewa ana fama da matsaloli.",
-   "published_date": "Mon, 09 Nov 2026 14:59:23 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,34 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Shugabannin Afrika 11 da suka yi zaman gidan yari kafin hawa mulki",
+   "url": "https://www.bbc.com/hausa/articles/cjn5v526elero?at_medium=RSS&at_campaign=rss",
+   "content": "An ɗaure yawancinsu ne saboda adawa da mulkin mallaka, yaƙi da kama ƙarya da kuma neman sauyi.",
+   "published_date": "Tue, 10 Nov 2026 04:17:21 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Fitattun ƴansiyasar Najeriya 6 da ke takara tun 2003",
+   "url": "https://www.bbc.com/hausa/articles/cm4g1gk8k415o?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan rahoton ya yi nazari kan wasu daga cikin fitattun ƴan siyasar da suka daɗe suna neman takara ko kuma neman wani muƙamin zaɓe tun shekarar 2003.",
+   "published_date": "Tue, 10 Nov 2026 04:14:30 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Dalilan da ke haddasa katsewar wutar lantarki a Najeriya?",
+   "url": "https://www.bbc.com/hausa/articles/cvlydywee8w1o?at_medium=RSS&at_campaign=rss",
+   "content": "A wasu jihohi da yankuna ana samun lantarki fiye da wasu, yayin da wasu wuraren ke fama da ƙarancin wuta ko rashin wutar gaba ɗaya.",
+   "published_date": "Tue, 10 Nov 2026 04:16:13 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Wurare 5 da Aljanu ke zama a cikin gidajenmu",
+   "url": "https://www.bbc.com/hausa/articles/cme8r8yw8rpgo?at_medium=RSS&at_campaign=rss",
+   "content": "A cikin hadisai an ambaci wasu wurare da aljanu ko shaiɗanu suke yawan zama ko taruwa, wanda a dalilinsu malaman addini ke cewa ana fama da matsaloli.",
+   "published_date": "Mon, 09 Nov 2026 14:59:23 GMT",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/c64g1vywrwleo?at_medium=RSS&at_campaign=rss",
    "content": "A watan Nuwamban shekarar 1957, masana kimiyya a Tarayyar Soviet sun aika wata karya mai suna Laika zuwa sararin samaniya da ake ganin ba za a iya dawo da ita ba, lamarin da ya mayar da ita jarumar ƙasa, amma makomarta ta kasance mai ban tausayi.",
    "published_date": "Sun, 08 Nov 2026 12:41:41 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Hanyoyi biyar da za a gane yara sun fara mu'amala da masu tsattsauran ra'ayi",
-   "url": "https://www.bbc.com/hausa/articles/cmjrwvx8yenro?at_medium=RSS&at_campaign=rss",
-   "content": "A cewarsa, idan matashi yana ganin yana da makoma, yana samun kulawa daga iyaye kuma yana da abin yi mai amfani, zai fi wuya ya faɗa tarkon masu tsauraran ra'ayi.",
-   "published_date": "Sun, 08 Nov 2026 03:58:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Amurka ta sa ladan dala miliyan 20 ga wanda ya ba da bayanan nukiliyar Iran",
-   "url": "https://www.bbc.co.uk/hausa/live/cq78pp2jxzevt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku muhimman abubuwan da ke faruwa a Najeriya da sauran sassan duniya na ranar Asabar 7 ga watan Nuwamban 2026.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Tafki mai mayar da dabbobi duwatsu",
-   "url": "https://www.bbc.com/hausa/articles/ckeq330wljq1o?at_medium=RSS&at_campaign=rss",
-   "content": "Yanayin tafkin Natron ya samo asali ne sakamakon wasu sinadarai da suke gangarowa cikinsa daga wani dutse mai aman wuta da ke kusa da tafkin.",
-   "published_date": "Sat, 07 Nov 2026 18:03:09 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa wasu ke ganin fatalwa?",
-   "url": "https://www.bbc.com/hausa/articles/cmq5nx40j8vpo?at_medium=RSS&at_campaign=rss",
-   "content": "Tun daga tsoffin tatsuniyoyin al'ummar Mesofotamiya da ke ba da labarin fatalwowi da ke buƙatar kulawa daga danginsu da suka rage a raye, har zuwa littafin Charles Dickens mai suna A Christmas Carol, ɗan'adam yana da dogon tarihi na bayar da labaran fatalwowi.",
-   "published_date": "Sat, 07 Nov 2026 13:40:46 GMT",
    "score": 0.6
   }
  ],
