@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "NACCIMA urges Chinese to expand Nigerian investments",
-   "url": "https://punchng.com/naccima-urges-chinese-to-expand-nigerian-investments",
-   "snippet": "In a statement issued on Wednesday by NACCIMA’s National Public Relations Officer, Mrs Madinat Adigun-Oladotun, Ibrahim made the call at the third edition of the association’s Business and Investment Forum held in Guangzhou, China, on Monday.\n\nThe forum attracted a significant turnout of Chinese investors and business executives from diverse sectors, including agribusiness, mining and mineral proc",
-   "published": "Thu, 05 Nov 2026 00:30:44 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Dr. Emi Membere-Otaji Leads Nigeria’s Investment Drive In China, Courts Shandong Business Partnerships",
    "url": "https://www.thenigerianvoice.com/news/376407/dr-emi-membere-otaji-leads-nigerias-investment-drive-in-ch.html",
    "snippet": "He also pointed to ongoing economic and regulatory reforms, improved digitalisation of government processes, investment incentives and developments in the maritime sector as factors strengthening Nigeria's investment outlook.\n\nSEVEN PRIORITY INVESTMENT SECTORS  \nDr. Membere-Otaji identified seven major sectors offering significant opportunities for Chinese investors:\n\n1. Agriculture and Agribusine",
@@ -40,7 +33,7 @@
    "title": "China in Sub-Saharan Africa: Some Facts About Investing and Building | American Enterprise Institute - AEI",
    "url": "https://www.aei.org/research-products/report/china-in-sub-saharan-africa-some-facts-about-investing-and-building",
    "snippet": "Nigeria, Angola, and Ethiopia led Chinese construction value in SSA in 2005–25, together accounting for 35 percent. Construction was concentrated in 2011–19—that period making up two-thirds of the 2005–25 total.\n Among 2023–25 recipients in SSA, Chinese investment was essentially uncorrelated with population, while construction was strongly correlated. China builds in more-populous countries, even",
-   "published": "Mon, 09 Nov 2026 14:00:00 GMT",
+   "published": "Mon, 09 Nov 2026 17:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -51,6 +44,20 @@
    "source": "tavily"
   },
   {
+   "title": "Chinese regulatory shadow hangs over Nigeria's OPay IPO failure - Asia Times",
+   "url": "https://asiatimes.com/2026/11/chinese-regulatory-shadow-hangs-over-nigerias-opay-ipo-failure",
+   "snippet": "A Chinese entrepreneur who builds a business in Africa may find the regulatory tie to home outlasting the customers and the revenue, which settle elsewhere soon enough. The address of an offshore holding company will not change that.\n\nStanbic Africa Holdings, part of South Africa’s Standard Bank Group, had agreed to buy shares worth up to $200 million, subject to the flotation and to regulatory ap",
+   "published": "Mon, 09 Nov 2026 07:40:57 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China energy investment to hit $940 billion in 2026 as grid spending rises",
+   "url": "https://www.investing.com/news/economy-news/china-energy-investment-to-hit-940-billion-in-2026-as-grid-spending-rises-5010130",
+   "snippet": "English (UK)\n   English (India)\n   English (Canada)\n   English (Australia)\n   English (South Africa)\n   English (Philippines)\n   English (Nigeria)\n   Deutsch\n   Español (España)\n   Español (México)\n   Français\n   Italiano\n   Nederlands\n   Polski\n   Português (Portugal)\n   Português (Brasil)\n   Русский\n   Türkçe\n   ‏العربية‏\n   Ελληνικά\n   Svenska\n   Suomi\n   עברית\n   日本語\n   한국어\n   简体中文\n   繁體中文\n   ",
+   "published": "Sun, 08 Nov 2026 05:23:29 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "American investors hold billions in debt from China, Saudi Arabia and South Africa as global holdings surpass $4 trillion | Business Insider Africa",
    "url": "https://africa.businessinsider.com/local/markets/american-investors-hold-billions-in-debt-from-china-saudi-arabia-and-south-africa-as/9jsr42f",
    "snippet": "Egypt followed with $9.64 billion, comprising $7.91 billion in long-term debt and $1.73 billion in short-term instruments, while Nigeria recorded $6.92 billion, including $4.73 billion in long-term debt and $2.19 billion in short-term securities.\n\nTogether, the three economies recorded an $11.29 billion increase in the value of American-held debt securities in 2025, representing growth of 42.6% fr",
@@ -58,17 +65,10 @@
    "source": "tavily"
   },
   {
-   "title": "OPay’s $4 billion New York listing stalls after China inquiry, putting its US IPO and planned Standard Bank investment on hold | Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/opays-dollar4-billion-new-york-listing-stalls-after-china-inquiry-putting-its-us-ipo/tez1zj4",
-   "snippet": "In its filing with the US Securities and Exchange Commission (SEC), OPay said the inquiry related to a jurisdiction it considered immaterial to its business operations. It did not name the jurisdiction, regulator or subject of the inquiry.\n\nOPay said it expected the matter to be resolved and that it would not affect its operations or customer service in Nigeria and other markets. [...] The listing",
-   "published": "Wed, 04 Nov 2026 17:17:09 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China Diaries: An Emperor, 8,000 Soldiers and a Lesson for Nigeria!",
-   "url": "https://dailytrust.com/china-diaries-an-emperor-8000-soldiers-and-a-lesson-for-nigeria",
-   "snippet": "I came looking for ancient soldiers and left thinking about Nigeria's tourism potential! One of the things I was particularly looking forward to during my.",
-   "published": "Tue, 10 Nov 2026 14:00:00 GMT",
+   "title": "Weekly market commentary | BlackRock",
+   "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary",
+   "snippet": "number\",\"dataType\":\"string\",\":type\":\"text/plain\",\"multiValue\":false},\"linkedinLink\":{\"title\":\"LinkedIn link\",\"dataType\":\"string\",\":type\":\"text/plain\",\"multiValue\":false},\"actionButtonLink\":{\"title\":\"Action button [...] Code\",\"dataType\":\"string\",\":type\":\"text/plain\",\"multiValue\":false},\"eMail\":{\"title\":\"E-mail\",\"dataType\":\"string\",\":type\":\"text/plain\",\"multiValue\":false},\"preferredPronouns\":{\"title",
+   "published": "Mon, 09 Nov 2026 16:00:00 GMT",
    "source": "tavily"
   }
  ],

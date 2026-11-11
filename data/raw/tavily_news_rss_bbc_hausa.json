@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Wane ne shugaban Miyetti Allah da aka kashe a Taraba?",
+   "url": "https://www.bbc.com/hausa/articles/cw053je9rm8jo?at_medium=RSS&at_campaign=rss",
+   "content": "Lamarin ya faru ne da misalin karfe 7 zuwa 8 na yammacin ranar Lahadi, inda wasu mutane kan babur suka buɗe masa wuta a kofar gidansa.",
+   "published_date": "Wed, 11 Nov 2026 16:05:28 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ba za mu bari a ɗauki ko da ƙwayar zarra na uranium ɗinmu ba - Iran",
    "url": "https://www.bbc.co.uk/hausa/live/ckzd9pn6qn9mt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 11/11/2026",
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Masana sun gano yadda za a haihu ba tare da saduwa ko dashe ba",
-   "url": "https://www.bbc.com/hausa/articles/cmz6564qe09xo?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan ba yana nufin cewa mutane za su daina haihuwa gaba ɗaya ba. Sai dai hanyoyin samun yara zai sauya sakamakon cigaban kimiyya.",
-   "published_date": "Tue, 10 Nov 2026 16:11:12 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Masana sun gano yadda za a haihu ba tare da saduwa ko dashe ba",
+   "url": "https://www.bbc.com/hausa/articles/cmz6564qe09xo?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan ba yana nufin cewa mutane za su daina haihuwa gaba ɗaya ba. Sai dai hanyoyin samun yara zai sauya sakamakon cigaban kimiyya.",
+   "published_date": "Tue, 10 Nov 2026 16:11:12 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/ckz7xz19j45lo?at_medium=RSS&at_campaign=rss",
    "content": "Gwamnatin Tarayya ta ƙaddamar da wani shiri da zai bai wa 'yan Najeriya damar tara kuɗi domin sayen muhimman kayayyaki kamar abinci da biyan wutar lantarki da sauran ƙananan buƙatu ta hanyar wayoyinsu.",
    "published_date": "Sun, 08 Nov 2026 03:58:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ƴan Najeriya 5 da suka samu kujeru a majalisar dokokin Amurka",
-   "url": "https://www.bbc.com/hausa/articles/cq5ynn8753n5o?at_medium=RSS&at_campaign=rss",
-   "content": "Sakamakon zaɓen ya nuna cewa jam'iyyar Democrat ta samu kujeru fiye da jam'iyyar Republican, wadda Shugaba Donald Trump yake wakilta. A yayin zaɓen, an samu wasu abubuwa da ba a yi tsammani ba, ciki har da nasarar 'yan Najeriya da sauran Baƙaƙen fata da suka samu kujeru a majalisun dokokin Amurka.",
-   "published_date": "Sun, 08 Nov 2026 03:56:52 GMT",
    "score": 0.6
   }
  ],

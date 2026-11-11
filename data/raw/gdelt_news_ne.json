@@ -1,0 +1,37 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "AES : les ministres maliens et burkinabè de l  Éducation à Niamey pour une conférence commune",
+   "url": "https://malijet.com/actualite-sur-aes/312755-aes-les-ministres-maliens-et-burkinabe-de-leducation-a-ni.html",
+   "content": "",
+   "published_date": "2026-11-10T01:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Orpaillage illégal en Guinée : 1 263 personnes interpellées dans la région de Siguiri",
+   "url": "https://malijet.com/actualite-sur-afrique/312754-orpaillage-illegal-en-guinee-1-263-personnes-interpellees.html",
+   "content": "",
+   "published_date": "2026-11-10T01:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Gestion des refoulés de la Guinée : Bamako et Ouagadougou à pied d  œuvre pour gérer lafflux massif des personnes expulsées par Conakry",
+   "url": "https://www.actuniger.com/international/gestion-des-refoules-de-la-guinee-bamako-et-ouagadougou-a-pied-doeuvre-pour-gerer-lafflux-massif-des-personnes-expulsees-par-conakry.html",
+   "content": "",
+   "published_date": "2026-11-11T04:00:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ne",
+ "_query": "Niger OR Niamey OR uranium OR junta",
+ "_domains": [
+  "actuniger.com",
+  "lesahel.org",
+  "airinfo.org",
+  "malijet.com",
+  "maliweb.net"
+ ],
+ "_days": 3
+}

@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 11th, 2026 – Evening",
+   "url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-evening",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Wed, 11 Nov 2026 18:00:26 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Trinidad and Tobago highest court overturns gay sex ban",
+   "url": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban",
+   "content": "The island nation's highest court overturned a 1986 law criminalising consensual sexual relations between adults of the same sex.",
+   "published_date": "Wed, 11 Nov 2026 17:27:15 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Storm Charles: Heavy rain and strong winds batter Portugal",
    "url": "https://www.euronews.com/video/2026/11/11/storm-charles-heavy-rain-and-strong-winds-batter-portugal",
    "content": "Heavy rain, rough seas and strong winds hit Costa da Caparica in Portugal, with coastal facilities closed and streets left waterlogged.",
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/10/senegal-footage-reveals-wreckage-of-deadly-migrant-boat-in-which-39-people-died",
    "content": "At least 39 people have died after a migrant boat sank off Senegal's Atlantic coast. Footage shows the shattered vessel washed ashore as rescuers continue searching for victims.",
    "published_date": "Tue, 10 Nov 2026 09:26:25 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Trump says Nvidia CEO Huang knew nothing about alleged Chinese spy",
-   "url": "https://www.euronews.com/2026/11/10/trump-says-nvidia-ceo-huang-knew-nothing-about-alleged-chinese-spy",
-   "content": "US President Donald Trump says the FBI is looking into a matter involving Nvidia CEO Jensen Huang and alleged links to a Chinese government agent. Trump said he had spoken to Huang, who denied knowing the person was a spy, and expressed confidence in the tech executive.",
-   "published_date": "Tue, 10 Nov 2026 09:19:21 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Peru: Giant statue of Pope Leo XIV unveiled ahead of papal visit",
-   "url": "https://www.euronews.com/video/2026/11/10/peru-giant-statue-of-pope-leo-xiv-unveiled-ahead-of-papal-visit",
-   "content": "A giant statue of Pope Leo XIV has been unveiled in Callao, Peru, ahead of his upcoming visit. The monument honours the pontiff's close ties to the country, where he previously served as a missionary and bishop.",
-   "published_date": "Tue, 10 Nov 2026 08:45:25 +0100",
    "score": 0.6
   }
  ],

@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "It’s official: SB19 is heading to Coachella 2027",
-   "url": "https://www.rappler.com/people/artists/sb19-perform-coachella-2027/",
-   "content": "'We're doing this to help pave the way for more Filipino talent to be represented on the global stage. And we truly believe this is only the beginning,' Josh says about the group's latest feat",
-   "published_date": "Wed, 11 Nov 2026 17:03:11 +0800",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

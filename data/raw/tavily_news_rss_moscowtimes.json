@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Russia’s AI Ambitions Take a Hit With Ukrainian Data Center Strikes",
+   "url": "https://www.themoscowtimes.com/2026/11/11/russias-ai-ambitions-take-a-hit-with-ukrainian-data-center-strikes-a94108",
+   "content": "Russia’s drive to develop “sovereign” AI was already struggling. Then came the drone strikes.",
+   "published_date": "Wed, 11 Nov 2026 20:34:00 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Spate of Deadly Bear Attacks in Russia Has Left 35 People Dead",
+   "url": "https://www.themoscowtimes.com/2026/11/11/spate-of-deadly-bear-attacks-in-russia-has-left-35-people-dead-a94234",
+   "content": "The latest victim was a security guard at a holiday camp in the Kamchatka region, state-run media reported.",
+   "published_date": "Wed, 11 Nov 2026 20:12:14 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "CSTO Strips Armenia of Voting Rights",
+   "url": "https://www.themoscowtimes.com/2026/11/11/csto-strips-armenia-of-voting-rights-a94231",
+   "content": "The Russian-led military alliance said Armenia had failed to pay membership dues over the past two years.",
+   "published_date": "Wed, 11 Nov 2026 19:33:38 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Russia’s Ambassador to the United States Dies at 66",
+   "url": "https://www.themoscowtimes.com/2026/11/11/russias-ambassador-to-the-united-states-dies-at-66-a94232",
+   "content": "The Foreign Ministry did not disclose the cause of Alexander Darchiev’s death at the age of 66.",
+   "published_date": "Wed, 11 Nov 2026 19:20:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Kremlin Denies Having Ties to American Soldier Arrested in U.K. for Spying",
    "url": "https://www.themoscowtimes.com/2026/11/11/kremlin-denies-having-ties-to-american-soldier-arrested-in-uk-for-spying-a94229",
    "content": "British counterterrorism police arrested the 41-year-old senior U.S. soldier on Tuesday near the city of Gloucester in southwestern England following a joint investigation with the FBI and U.S. Army counterintelligence.",
@@ -16,9 +44,9 @@
    "score": 0.6
   },
   {
-   "title": "Russia and Ukraine Agree to Major Prisoner Exchange After Latest Peace Talks End",
-   "url": "https://www.themoscowtimes.com/2026/11/11/russia-and-ukraine-agree-to-major-prisoner-exchange-after-latest-peace-talks-end-a94227",
-   "content": "There was no immediate sign of a breakthrough in Abu Dhabi, though hopes leading up to the two-day negotiations had been low.",
+   "title": "Abu Dhabi Talks End With Prisoner Exchange But No Peace Breakthrough",
+   "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227",
+   "content": "Russia and Ukraine agreed to carry out a major exchange of prisoners in the coming days despite persistent differences in negotiation positions.",
    "published_date": "Wed, 11 Nov 2026 12:58:00 +0300",
    "score": 0.6
   },
@@ -181,34 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/05/kremlin-seizes-japan-tobacco-internationals-russian-assets-a94186",
    "content": "The move against the Japanese tobacco giant comes amid a sharp deterioration of relations between Japan and Russia.",
    "published_date": "Thu, 05 Nov 2026 17:57:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Moscow Denies It’s Behind Freezer Attacks at European Supermarkets",
-   "url": "https://www.themoscowtimes.com/2026/11/05/moscow-denies-its-behind-freezer-attacks-at-european-supermarkets-a94184",
-   "content": "Hackers have targeted European supermarket refrigeration units in recent weeks, turning up temperatures and spoiling millions of euros worth of frozen goods.",
-   "published_date": "Thu, 05 Nov 2026 17:03:19 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Finland Jails Russian Captain and Azerbaijani Crew Member Over Baltic Sea Cable Damage",
-   "url": "https://www.themoscowtimes.com/2026/11/05/finland-jails-russian-captain-and-azerbaijani-crew-member-over-baltic-sea-cable-damage-a94185",
-   "content": "The Helsinki District Court said the two men acted intentionally when their ship dragged an anchor chain and shank along the seabed, damaging an underwater telecommunications cable.",
-   "published_date": "Thu, 05 Nov 2026 16:05:36 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Moldova Hits Kremlin-Backed Transnistria Leader With 5-Year Travel Ban After Putin Award",
-   "url": "https://www.themoscowtimes.com/2026/11/05/moldova-hits-kremlin-backed-transnistria-leader-with-5-year-travel-ban-after-putin-award-a94183",
-   "content": "Putin on Wednesday presented Vadim Krasnoselsky with Russia’s Order of Honor during a Kremlin ceremony, crediting him with “strengthening ties” with Moscow despite “external pressure.”",
-   "published_date": "Thu, 05 Nov 2026 14:43:29 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russian Diesel Tankers Bound for U.S. Change Course, Casting Doubt on Trump Deal",
-   "url": "https://www.themoscowtimes.com/2026/11/05/russian-diesel-tankers-bound-for-us-change-course-casting-doubt-on-trump-deal-a94182",
-   "content": "One ship altered its signal to “Brazil,” while another diverted to the Mediterranean and signaled “for orders” off the coast of Algeria.",
-   "published_date": "Thu, 05 Nov 2026 13:00:00 +0300",
    "score": 0.6
   }
  ],
