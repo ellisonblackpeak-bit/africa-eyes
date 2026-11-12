@@ -2,10 +2,59 @@
  "success": true,
  "results": [
   {
+   "title": "The summit Europe loves to hate",
+   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-summit-europe-loves-to-hate/",
+   "content": "Over 50 leaders are descending on Dublin today for the European Political Community summit — but it’s not a popular one. Today on the show, Zoya Sheftalovich and Kathryn Carlson discuss why insiders don’t find the forum particularly useful, and some even hope it will end once French President Emmanuel Macron — who spearheaded the […]",
+   "published_date": "Thu, 12 Nov 2026 05:05:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Last-Minute-Poker um den Haushalt",
+   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/last-minute-poker-um-den-haushalt/",
+   "content": "Präsentiert von YouTube.",
+   "published_date": "Thu, 12 Nov 2026 04:15:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU growth needs deeper markets and global capital",
+   "url": "https://www.politico.eu/sponsored-content/eu-growth-needs-deeper-markets-and-global-capital/",
+   "content": "POLITICAL ADVERTISEMENT",
+   "published_date": "Thu, 12 Nov 2026 04:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Poland turns to home-grown giant for its defense buildup",
+   "url": "https://www.politico.eu/article/poland-home-grown-giant-defense-buildup/",
+   "content": "The state-owed Polish Armaments Group is playing a key role in Poland's rearmament drive, but it's not without its own troubles.",
+   "published_date": "Thu, 12 Nov 2026 03:50:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The Kremlin can hide the death toll. It can’t hide the graves.",
+   "url": "https://www.politico.eu/article/kremlin-hide-numbers-cant-hide-graves-russia-ukraine-war/",
+   "content": "As the war in Ukraine drags on, Moscow is taking great pains to suppress casualty figures by closing databases and prosecuting those who document the dead.",
+   "published_date": "Thu, 12 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ahead of Spanish election, Sánchez takes aim at TikTok",
+   "url": "https://www.politico.eu/article/ahead-of-spanish-election-pedro-sanchez-takes-aim-at-tiktok/",
+   "content": "The Spanish government pursued a ban on TikTok after a report alleged the social media is lax about child sexual abuse material.",
+   "published_date": "Wed, 11 Nov 2026 20:47:01 +0000",
+   "score": 0.6
+  },
+  {
    "title": "‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time",
    "url": "https://www.politico.eu/article/why-the-us-wants-europe-at-ukraine-talks-next-time/",
    "content": "The truth is, it was never just about Ukraine for Putin. Washington now understands this – and that’s both good for Europe, and potentially terrifying as well.",
    "published_date": "Wed, 11 Nov 2026 19:53:57 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Former Brexit negotiator now open to scrapping Labour’s EU red lines",
+   "url": "https://www.politico.eu/article/former-brexit-negotiator-now-open-to-scrapping-labours-eu-red-lines/",
+   "content": "Nick Thomas-Symonds says there now needs to be a debate about the different options available to the U.K.",
+   "published_date": "Wed, 11 Nov 2026 17:26:41 +0000",
    "score": 0.6
   },
   {
@@ -20,55 +69,6 @@
    "url": "https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/",
    "content": "SONDAGE CLUSTER 17 x POLITICO. L'Institut Cluster 17 a testé le scénario d'une candidature à l'élection présidentielle de Christine Lagarde. La future ex-patronne de la BCE, que certains rêvent de voir entrer dans la course, fait d'ores et déjà jeu égal avec Edouard Philippe.",
    "published_date": "Wed, 11 Nov 2026 16:42:28 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Bomb threats hit hundreds of schools in Italy, Ireland and UK",
-   "url": "https://www.politico.eu/article/bomb-threats-disrupting-hundreds-schools-italy-ireland-uk/",
-   "content": "Italian authorities said it was \"likely a cyberattack\" rather a \"real threat.\"",
-   "published_date": "Wed, 11 Nov 2026 16:41:13 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU needs a system to respond to AI incidents, Finland and Estonia say",
-   "url": "https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/",
-   "content": "In a letter seen by POLITICO, Finland and Estonia call for \"EU-level arrangements for responding to serious AI incidents.\" This comes as European leaders are set to meet Friday to debate AI for the first time.",
-   "published_date": "Wed, 11 Nov 2026 16:19:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "European gaming firms say new EU consumer rules will ‘cripple’ the industry",
-   "url": "https://www.politico.eu/article/european-gaming-firms-say-new-eu-consumer-rules-will-cripple-the-industry-digital-fairness-act/",
-   "content": "The EU's Digital Fairness Act clamps down on video-game practices where players are encouraged to spend real money to keep playing.",
-   "published_date": "Wed, 11 Nov 2026 15:08:20 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "‘Systemic’ sexual misconduct in German armed forces, study finds",
-   "url": "https://www.politico.eu/article/study-finds-widespread-bundeswehr-sexual-misconduct/",
-   "content": "Some 40% of female soldiers and 20% of male soldiers said they had experienced at least one form of sexual misconduct in the past year.",
-   "published_date": "Wed, 11 Nov 2026 13:45:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Tino Chrupallas Alleingang",
-   "url": "https://www.politico.eu/podcast/inside-afd/tino-chrupallas-alleingang/",
-   "content": "Ein Video über Donald Trump bringt Tino Chrupalla in der eigenen Partei massiv unter Druck. Weil der AfD-Chef die US-Migrationspolitik als zu hart kritisiert, erntet er offenen Widerspruch von Alice Weidel und einen Richtungsstreit in der Fraktion. Exklusive Einblicke in geleakte Austritts-Mails zeigen zudem, warum einst loyale Mitglieder der Partei frustriert den Rücken kehren. Die […]",
-   "published_date": "Wed, 11 Nov 2026 13:41:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Burnham promises 10-year plan before Christmas recess",
-   "url": "https://www.politico.eu/article/burnham-promises-10-year-plan-before-christmas-recess/",
-   "content": "The British prime minister says his blueprint will be presented to the Commons by Dec. 17.",
-   "published_date": "Wed, 11 Nov 2026 12:49:21 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks",
-   "url": "https://www.politico.eu/article/u-s-to-seek-putins-blessing-for-europe-to-join-ukraine-talks/",
-   "content": "After two days of talks in Abu Dhabi, Russia and Ukraine have agreed a major prisoner swap, with final numbers to be confirmed, U.S. officials say.",
-   "published_date": "Wed, 11 Nov 2026 12:18:29 +0000",
    "score": 0.6
   }
  ],

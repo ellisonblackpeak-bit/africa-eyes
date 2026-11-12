@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "[OPINION] Beijing allies prove Chinese-language schools are political",
+   "url": "https://www.rappler.com/voices/thought-leaders/beijing-allies-prove-chinese-language-schools-philippines-political/",
+   "content": "Chinese-Filipino families, who simply want to pass on their language and heritage to their children, become primary targets of foreign influence",
+   "published_date": "Thu, 12 Nov 2026 13:00:00 +0800",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

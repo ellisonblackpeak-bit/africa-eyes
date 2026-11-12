@@ -2,24 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "China-Europe freight trains maintain 100% loaded-container rate for 50 months through October: NDRC - Global Times",
-   "url": "https://www.globaltimes.cn/page/202611/1374082.shtml",
-   "snippet": "Growth in cross-border shipments was also evident at other gateways. Exports processed through the customs cross-border e-commerce platform at the Zhuhai road port of the Hong Kong-Zhuhai-Macao Bridge reached 112 billion yuan in the first 10 months, up 33.1 percent year-on-year and already above the full-year total for 2025, CCTV News reported, citing customs data. [...] China-Europe freight train",
-   "published": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "title": "China trade surplus on track for new record as tensions with EU grow - World Socialist Web Site",
+   "url": "https://www.wsws.org/en/articles/2026/11/12/vpjj-n12.html",
+   "snippet": "Shipping containers are seen ready for transport at the Guangzhou Port in the Nansha district in southern China's Guangdong province, April 17, 2025. [AP Photo/Ng Han Guan]\n\nOne of the biggest increases was in the trade surplus with the European Union. It has already hit a record of $310 billion for the first 10 months, well above the surplus of $292 billion for the whole of last year, according t",
+   "published": "Thu, 12 Nov 2026 04:00:00 GMT",
    "source": "tavily"
   },
   {
-   "title": "Chinese vice-president's visit to Georgia/ JAMnews",
-   "url": "https://jam-news.net/chinese-vice-presidents-visit-to-georgia",
-   "snippet": "The Middle Corridor is a transport route connecting China and Europe via Central Asia and the South Caucasus. Goods travel from China to Kazakhstan, then across the Caspian Sea to Azerbaijan and Georgia, before continuing towards the Black Sea. The route allows goods to be transported between Europe and Asia while bypassing Russia.\n\n## Changes to Georgia’s Anaklia port development model bring grea",
-   "published": "Mon, 09 Nov 2026 08:09:23 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China extends suspension of special port fees on US ships to January 2027 - iMarine",
-   "url": "https://www.imarinenews.com/40745.html",
-   "snippet": "Facebook     Linkedin     Twitter\n\n News\n Regions\n  + China\n  + Korea\n  + Japan\n  + Singapore\n  + Europe\n  + Americas\n  + Asia Pacific\n Shipyards\n Offshore\n Equipment\n Regulatory\n\niMarine\n\niMarine\n\niMarine\n\n + AllChinaKoreaJapanSingaporeEuropeAmericasAsia Pacific\n\n    China\n\n    China extends suspension of special port fees on US ships to January 2027\n\n    Shipyards\n\n    Jiangmen Nanyang Ship Engi",
-   "published": "Tue, 10 Nov 2026 02:04:34 GMT",
+   "title": "Valenciaport's China container trade rises 15% as port meets SIPG clients in Shanghai | Container Management",
+   "url": "https://container-mag.com/update/valenciaport-s-china-container-trade-rises-15-as-port-meets--mw91scrb",
+   "snippet": "\"China is one of Valenciaport's most important trading partners, and we want to continue strengthening a relationship that is already strategic for our port,\" said Chao, who added that there was still great potential for collaboration between the two regions. \"Our strategic location in the Western Mediterranean makes us one of the main gateways for goods moving between Asia, Spain and the rest of ",
+   "published": "Mon, 09 Nov 2026 09:17:25 GMT",
    "source": "tavily"
   },
   {
@@ -54,7 +47,14 @@
    "title": "US extends suspension of China port fees to January 2027",
    "url": "https://www.porttechnology.org/news/policy-and-regulation/us-extends-suspension-of-china-port-fees-to-january-2027",
    "snippet": "USTR has suspended its Section 301 port fees and crane duties targeting China for two more months as talks with Beijing continue.",
-   "published": "Wed, 11 Nov 2026 02:00:00 GMT",
+   "published": "Wed, 11 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+   "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+   "snippet": "SilentDelivery (Beginning in early 2026), which conducts highly selective watering hole attacks targeting Europe and Asia that distribute a backdoor called SquadC (aka SquawkDoor) through trojanized MSI installers masquerading as certificate repair utilities\n OceanGate (2025-2026), which primarily focuses on Asian organizations with a variant of SparrowDoor after obtaining initial access via inter",
+   "published": "Tue, 10 Nov 2026 17:43:00 GMT",
    "source": "tavily"
   },
   {
@@ -65,10 +65,10 @@
    "source": "tavily"
   },
   {
-   "title": "Global electric vehicle sales return to growth in October",
-   "url": "https://www.reuters.com/business/autos-transportation/global-electric-vehicle-sales-return-growth-october-2026-11-12",
-   "snippet": "Global demand for electrified cars returned to growth in October, reflecting a very low ​US comparison base coupled with continued growth in ‌Europe,",
-   "published": "Wed, 11 Nov 2026 23:00:00 GMT",
+   "title": "Venezuela’s Oil Exports Fell 6.5% in February With Loss of Chinese Market, Data Shows",
+   "url": "https://energynow.com/2026/03/venezuelas-oil-exports-fell-6-5-in-february-with-loss-of-chinese-market-data-shows",
+   "snippet": "(Reuters) - Venezuela's oil exports fell 6.5% in February from a month earlier to some…",
+   "published": "Wed, 11 Nov 2026 19:00:00 GMT",
    "source": "tavily"
   }
  ],

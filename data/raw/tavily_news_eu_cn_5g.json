@@ -4,22 +4,29 @@
   {
    "title": "Deutsche Telekom CEO to fight Huawei ban amid Nvidia scandal",
    "url": "https://www.lightreading.com/5g/deutsche-telekom-ceo-to-fight-huawei-ban-amid-nvidia-scandal",
-   "snippet": "For years, Europe's biggest telco has extended 5G coverage and added 5G capacity in Germany, the region's largest economy, by sourcing network products from Huawei, a Chinese vendor seen in European Union (EU) circles as a threat to security. The concern is that Huawei, under Chinese government orders, could use software \"backdoors\" in those network products to snoop on European communications or ",
+   "snippet": "Under forthcoming rule changes by the EU as well as Germany's government, Höttges could find that maintaining any relationship with Huawei becomes much harder. Previously, EU officials had merely advised member states to avoid \"high-risk vendors,\" interpreted as a euphemism for Chinese companies, when building 5G networks. But since the start of this year, the EU has been working on an update of t",
    "published": "Tue, 10 Nov 2026 04:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "Deutsche Telekom stock faces Huawei fight over tougher 5G rules",
    "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/deutsche-telekom-stock-faces-huawei-fight-over-tougher-5g-rules/70485204",
-   "snippet": "Light Reading reported that the European Union is working on an update to its Cybersecurity Act that could make avoiding high-risk vendors such as Huawei mandatory. The report also cited a German draft regulation that would treat all functions of a 5G base station, rather than only selected components, as critical. [...] Germany's government was also reported to be preparing a broader Huawei ban. ",
-   "published": "Wed, 11 Nov 2026 02:00:00 GMT",
+   "snippet": "Germany's government was also reported to be preparing a broader Huawei ban. Such a step could force operators to replace more equipment, increase capital requirements and complicate network planning. The financial effect for Deutsche Telekom would depend on the final rules, the timetable and the extent to which existing infrastructure could remain in service. [...] Light Reading reported that the",
+   "published": "Wed, 11 Nov 2026 05:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "German government prepares ban of Chinese network technology - report - Telecompaper",
    "url": "https://www.telecompaper.com/news/german-government-prepares-ban-of-chinese-network-technology-report--1588001",
    "snippet": "The German Federal Ministry of the Interior is preparing to ban Chinese network technology, Handelsblatt reports. The ministry plans to review the list of critical infrastructure from the Federal Network Agency (Bundesnetzagentur or BNetzA). The agency intends to classify base stations and antenna as critical infrastructure for the first time, according to Handelsblatt. This steps allows it to pro",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+   "published": "Fri, 06 Nov 2026 05:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mobile operators in the UK struggle in 5G European Awards 2026",
+   "url": "https://www.ispreview.co.uk/index.php/2026/11/mobile-operators-in-the-uk-struggle-in-5g-european-awards-2026.html",
+   "snippet": "Network benchmarking firm Opensignal, which harnesses crowdsourced testing data from users of their app on millions of devices (Smartphones etc.), has.",
+   "published": "Fri, 06 Nov 2026 05:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -27,13 +34,6 @@
    "url": "https://tavily.com/knowledge/company/HJhEDlCVdmjm",
    "snippet": "# Huawei\nID: HJhEDlCVdmjm\nWebsite: www.huawei.com\nLegal name: Huawei Technologies Co. Ltd\nHeadquarters: Shenzhen, Guangdong, China\nLinkedIn: www.linkedin.com/company/huawei · 5,479,060 followers\nIndustry: Telecommunications\nCompany type: Privately Held\nSocial profiles: www.facebook.com/huawei, www.twitter.com/huawei, www.crunchbase.com/organization/huawei, www.instagram.com/huawei, www.youtube.com",
    "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Mobile operators in the UK struggle in 5G European Awards 2026",
-   "url": "https://www.ispreview.co.uk/index.php/2026/11/mobile-operators-in-the-uk-struggle-in-5g-european-awards-2026.html",
-   "snippet": "Network benchmarking firm Opensignal, which harnesses crowdsourced testing data from users of their app on millions of devices (Smartphones etc.), has.",
-   "published": "Fri, 06 Nov 2026 02:00:00 GMT",
    "source": "tavily"
   }
  ],

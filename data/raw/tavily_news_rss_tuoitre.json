@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Vietnam Airlines chuẩn bị nguồn nhân lực chất lượng cao cho sân bay Long Thành",
-   "url": "https://tuoitre.vn/vietnam-airlines-chuan-bi-nguon-nhan-luc-chat-luong-cao-cho-san-bay-long-thanh-100261112084504631.htm",
-   "content": "Vietnam Airlines đang tuyển dụng, đào tạo nhân sự cho nhiều vị trí khai thác tại sân bay Long Thành. Công tác chuẩn bị được triển khai từ các bộ phận dịch vụ, kỹ thuật đến cung ứng suất ăn, nhằm đáp ứng kế hoạch vận hành sân bay.",
-   "published_date": "11/12/2026 8:57:00 AM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
