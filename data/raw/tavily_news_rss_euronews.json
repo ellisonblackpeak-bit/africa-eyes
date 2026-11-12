@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Russia and Iran criticise US Caspian task force as study outlines joint sanction evasion",
+   "url": "https://www.euronews.com/2026/11/12/russia-and-iran-criticise-us-caspian-task-force-as-study-outlines-joint-sanction-evasion",
+   "content": "After CENTCOM affirmed it would maintain the naval blockade of the Strait of Hormuz and block the IRGC’s land and Caspian routes, Russia called this special taskforce a 'clear violation of international law'. At the same time, the Institute for the Study of War devoted its latest assessment to Tehran-Moscow cooperation in circumventing US arms restrictions.",
+   "published_date": "Thu, 12 Nov 2026 19:53:36 +0100",
+   "score": 0.6
+  },
+  {
    "title": "“The rules-based international order is breaking down,” Thailand’s Foreign Minister warns",
    "url": "https://www.euronews.com/2026/11/12/the-rules-based-international-order-is-breaking-down-thailands-foreign-minister-warns",
    "content": "Thailand is a “geopolitically safe zone” “in a world where we see the rules based international order breaking down,” Thailand’s Deputy Prime Minister and Foreign Minister tells Euronews in a wide-ranging interview in Bangkok.",
@@ -48,6 +55,13 @@
    "url": "https://www.euronews.com/video/2026/11/12/ukraine-russian-drone-attack-sparks-major-fire-in-kyiv-residential-building",
    "content": "A Russian drone strike sparked a major fire at an apartment building in Kyiv, Ukraine, early on Thursday. Residents fled to safety as firefighters battled the flames and rescue workers helped people at the scene.",
    "published_date": "Thu, 12 Nov 2026 15:26:17 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Jensen Huang quits Nvidia after 33 years amid alleged Chinese spy scandal",
+   "url": "https://www.euronews.com/2026/11/12/nvidias-jensen-huang-resigns-over-relationship-with-suspected-chinese-spy",
+   "content": "Shareholders are suing the AI chip giant, and US lawmakers want answers about his links to Beijing.",
+   "published_date": "Thu, 12 Nov 2026 15:07:53 +0100",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-evening",
    "content": "Catch up with the most important stories from around Europe and beyond this November 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
    "published_date": "Wed, 11 Nov 2026 18:00:26 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Men and women trade punches in Bogotá's makeshift boxing ring",
-   "url": "https://www.euronews.com/video/2026/11/11/men-and-women-trade-punches-in-bogotas-makeshift-boxing-ring",
-   "content": "Amateur men and women enter makeshift boxing matches in Bogotá, Colombia, competing for cash prizes as police question the event's permits.",
-   "published_date": "Wed, 11 Nov 2026 17:56:50 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Trinidad and Tobago highest court overturns gay sex ban",
-   "url": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban",
-   "content": "The island nation's highest court overturned a 1986 law criminalising consensual sexual relations between adults of the same sex.",
-   "published_date": "Wed, 11 Nov 2026 17:27:15 +0100",
    "score": 0.6
   }
  ],

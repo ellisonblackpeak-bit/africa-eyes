@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Not even old Andalusian heartlands can save Pedro Sánchez",
+   "url": "https://www.politico.eu/article/pedro-sanchez-uphill-battle-to-win-back-the-socialists-andalusian-heartland/",
+   "content": "Spain’s most populous region powered the Socialists for decades, but the politics of the south are changing.",
+   "published_date": "Thu, 12 Nov 2026 20:45:45 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "AI and Ukraine to dominate EU leaders’ talks — live updates",
+   "url": "https://www.politico.eu/article/ai-and-ukraine-to-dominate-eu-leaders-talks-live-updates/",
+   "content": "Government chiefs meet in Dublin as arguments persist over who represents Europe in peace talks.",
+   "published_date": "Thu, 12 Nov 2026 20:29:19 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Burnham to discuss ‘problem’ Chinese imports in final days of Brexit reset talks",
+   "url": "https://www.politico.eu/article/andy-burnham-discuss-problem-chinese-imports-in-final-days-of-brexit-reset-talks/",
+   "content": "The British prime minister said there will be \"long nights ahead\" as he finalizes a reset deal with Brussels.",
+   "published_date": "Thu, 12 Nov 2026 20:27:23 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Putin open to Europe joining Ukraine peace talks, says Witkoff",
+   "url": "https://www.politico.eu/article/vladimir-putin-open-to-europe-joining-ukraine-peace-talks-steve-witkoff/",
+   "content": "Donald Trump's envoys debriefed Ukrainian leader in Dublin late Thursday after Moscow discussions.",
+   "published_date": "Thu, 12 Nov 2026 20:10:38 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Climate science says 1.5C is dead. No one wants to bury it.",
+   "url": "https://www.politico.eu/article/climate-science-1-5c-target-global-warming-dead/",
+   "content": "Leaders at COP31 want to keep the totemic goal alive, even after the U.N. declared it impossible to hit.",
+   "published_date": "Thu, 12 Nov 2026 18:27:58 +0000",
+   "score": 0.6
+  },
+  {
    "title": "De grandes villes européennes demandent à l’UE d’interdire les filtres des cigarettes",
    "url": "https://www.politico.eu/article/de-grandes-villes-europeennes-demandent-a-lue-dinterdire-les-filtres-des-cigarettes/",
    "content": "De Bruxelles à Dublin, des municipalités ont rejoint la campagne No (Plastic) Filter, qui mise sur deux lois européennes en cours de révision pour interdire les filtres, ou au moins le plastique qu’ils contiennent.",
@@ -34,41 +69,6 @@
    "url": "https://www.politico.eu/article/zelenskyy-demands-europe-become-regular-part-of-ukraine-talks/",
    "content": "EU still at odds over who should represent the bloc in any peace negotiations.",
    "published_date": "Thu, 12 Nov 2026 14:51:59 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine meldet erneut Einschränkungen bei Starlink",
-   "url": "https://www.politico.eu/article/ukraine-meldet-erneut-einschraenkungen-bei-starlink/",
-   "content": "Militäreinheiten hätten „erhebliche Beeinträchtigungen“ verzeichnet, ähnlich wie bei den im Oktober durchgesetzten Geschwindigkeitsbegrenzungen, sagte der ukrainische Präsident.",
-   "published_date": "Thu, 12 Nov 2026 14:42:12 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Feijóo wants to run Spain like a CEO. Not easy with far-right Vox on the board.",
-   "url": "https://www.politico.eu/article/alberto-nunez-feijoo-wants-to-run-spain-like-a-ceo-not-easy-with-far-right-vox-on-the-board/",
-   "content": "The center-right People's Party is casting itself as a business-like national manager, but a partnership with Vox threatens to push the PP in a more radical direction.",
-   "published_date": "Thu, 12 Nov 2026 14:19:16 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU will examine Israel association agreement after massive public petition",
-   "url": "https://www.politico.eu/article/eu-examine-israel-association-agreement-public-petition/",
-   "content": "Organizers say the EU should suspend its trade and political dialogue with Israel.",
-   "published_date": "Thu, 12 Nov 2026 14:04:24 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine Starlink speed restrictions in effect again, Zelenskyy says",
-   "url": "https://www.politico.eu/article/starlink-slowed-down-for-ukraine-again/",
-   "content": "Military units have recorded \"significant disruptions\" similar to the speed limits enforced in October, Ukraine's president said.",
-   "published_date": "Thu, 12 Nov 2026 13:26:43 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU court rejects Poland’s bid to overturn 7 major climate laws",
-   "url": "https://www.politico.eu/article/eu-court-rejects-poland-bid-overturn-7-climate-laws/",
-   "content": "Lawsuits launched by the previous nationalist government were kept alive under pro-EU Prime Minister Donald Tusk.",
-   "published_date": "Thu, 12 Nov 2026 11:25:35 +0000",
    "score": 0.6
   }
  ],
