@@ -2,17 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Drewry WCI further down, congestion eased on Chinese ports - Fibre2Fashion",
-   "url": "https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-down-congestion-eased-on-chinese-ports-314860-newsdetails.htm",
-   "snippet": "On the Asia–Europe trade route, rates from Shanghai to Rotterdam decreased by 2 per cent to $3,615 per 40-foot container, while rates from Shanghai to Genoa remained stable at $4,166 per 40-foot container. Carriers are pushing through FAK increases in mid-November as they look to strengthen their position ahead of next year’s contract negotiations. However, effective capacity continues to increase",
-   "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Valenciaport and Port of Shanghai reinforce their strategic connection",
-   "url": "https://www.ajot.com/news/valenciaport-and-port-of-shanghai-reinforce-their-strategic-connection",
-   "snippet": "The aim of this visit is to give Chinese companies a first-hand understanding of the advantages Valenciaport offers as a gateway to the Spanish and European markets. The APV’s ports benefit from extensive maritime connectivity, rail links to major logistics and industrial hubs, and a hinterland that accounts for a significant share of Spain’s economic activity. The figures speak for themselves: Va",
-   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "title": "China-Europe freight trains maintain 100% loaded-container rate for 50 months through October: NDRC - Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1374082.shtml",
+   "snippet": "Growth in cross-border shipments was also evident at other gateways. Exports processed through the customs cross-border e-commerce platform at the Zhuhai road port of the Hong Kong-Zhuhai-Macao Bridge reached 112 billion yuan in the first 10 months, up 33.1 percent year-on-year and already above the full-year total for 2025, CCTV News reported, citing customs data. [...] China-Europe freight train",
+   "published": "Wed, 11 Nov 2026 08:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -61,7 +54,7 @@
    "title": "US extends suspension of China port fees to January 2027",
    "url": "https://www.porttechnology.org/news/policy-and-regulation/us-extends-suspension-of-china-port-fees-to-january-2027",
    "snippet": "USTR has suspended its Section 301 port fees and crane duties targeting China for two more months as talks with Beijing continue.",
-   "published": "Tue, 10 Nov 2026 23:00:00 GMT",
+   "published": "Wed, 11 Nov 2026 02:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -69,6 +62,13 @@
    "url": "https://www.washingtonpost.com/business/2026/11/11/china-autos-exports-evs-hybrids-cars/08ece716-ddb4-11f1-912c-4fbb80d73f7f_story.html",
    "snippet": "Democracy Dies in Darkness\n\n# China’s passenger car exports surge in October as domestic demand remains weak\n\nIndustry data show China’s car exports have remained strong in October, with overseas shipments helping offset weak domestic demand\n\nIn this aerial photo, new Tesla electric vehicles wait for shipment to overseas markets in a port in Shanghai on Tuesday, Nov. 10, 2026. (Chinatopix Via AP) ",
    "published": "Wed, 11 Nov 2026 09:46:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Global electric vehicle sales return to growth in October",
+   "url": "https://www.reuters.com/business/autos-transportation/global-electric-vehicle-sales-return-growth-october-2026-11-12",
+   "snippet": "Global demand for electrified cars returned to growth in October, reflecting a very low ​US comparison base coupled with continued growth in ‌Europe,",
+   "published": "Wed, 11 Nov 2026 23:00:00 GMT",
    "source": "tavily"
   }
  ],

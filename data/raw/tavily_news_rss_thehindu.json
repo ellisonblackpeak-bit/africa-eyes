@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Morning Digest: Nvidia preparing to oust CEO Huang, say reports; Norwegian journalist Helle Lyng says she has been stopped from visiting India, and more",
+   "url": "https://www.thehindu.com/news/morning-digest-on-november-12-2026/article71692137.ece",
+   "content": "Here is a select list of stories to start the day",
+   "published_date": "Thu, 12 Nov 2026 07:02:20 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
+   "url": "https://www.thehindu.com/news/national/norwegian-journalist-helle-lyng-says-she-has-been-stopped-from-coming-to-hyderabad-for-bharat-summit/article71691222.ece",
+   "content": "Ms. Lyng says she has been denied entry into India despite having a visa",
+   "published_date": "Thu, 12 Nov 2026 07:00:04 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Twenty-four hours in Ahmedabad: A quick guide to India’s first UNESCO World Heritage City",
+   "url": "https://www.thehindu.com/life-and-style/travel/twenty-four-hours-in-ahmedabad-a-quick-guide-to-indias-first-unesco-world-heritage-city/article71686532.ece",
+   "content": "A delayed flight and a failed alarm cost me a heritage walk. Undeterred, I set out to explore Ahmedabad’s contemporary art spaces, historic architecture and Sabarmati Ashram. How much can I cover in 24 hours?",
+   "published_date": "Thu, 12 Nov 2026 06:47:53 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Fire breaks out at Maharashtra Minister Ganesh Naik’s official bungalow in Mumbai; no injuries reported",
    "url": "https://www.thehindu.com/news/cities/mumbai/fire-breaks-out-at-maharashtra-minister-ganesh-naiks-official-bungalow-in-mumbai-no-injuries-reported/article71689956.ece",
    "content": "Minister was not present in the house during the incident; BMC says the fire was reported in an air-conditioning unit at the bungalow",
@@ -44,24 +65,10 @@
    "score": 0.6
   },
   {
-   "title": "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
-   "url": "https://www.thehindu.com/news/national/norwegian-journalist-helle-lyng-says-she-has-been-stopped-from-coming-to-hyderabad-for-bharat-summit/article71691222.ece",
-   "content": "Ms. Lyng says she has been denied entry into India despite having a visa",
-   "published_date": "Thu, 12 Nov 2026 01:25:39 +0530",
-   "score": 0.6
-  },
-  {
    "title": "Aaryavir in focus as India face Afghanistan in U-19 Asia Cup semifinal",
    "url": "https://www.thehindu.com/sport/cricket/aaryavir-in-focus-as-india-face-afghanistan-in-u-19-asia-cup-semifinal/article71691215.ece",
    "content": "Aaryavir is the tournament’s leading run-scorer after smashing 160 off 168 balls to guide India to a 70-run win over the UAE in their final Group A match",
    "published_date": "Thu, 12 Nov 2026 00:55:52 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Delhi air pollution: Police stop students’ protest march against worsening air quality near Turkman Gate",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-pollution-police-stop-students-protest-march-against-worsening-air-quality-near-turkman-gate/article71690413.ece",
-   "content": "Protesters demand stricter enforcement of curbs on industrial emissions, construction dust and vehicular pollution; locality heavily barricaded",
-   "published_date": "Thu, 12 Nov 2026 00:33:12 +0530",
    "score": 0.6
   }
  ],
