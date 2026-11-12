@@ -2,6 +2,55 @@
  "success": true,
  "results": [
   {
+   "title": "Drugmakers to hand back €500m in rebates to Bulgaria’s health budget [Partner Content]",
+   "url": "https://www.rapporteur.com/news/drugmakers-to-hand-back-e500m-in-rebates-to-bulgarias-health-budget/",
+   "content": "The Bulgarian pharmaceutical industry is calling for a 14% funding increase in 2027, warning that the current reimbursement model is becoming increasingly difficult to sustain",
+   "published_date": "Thu, 12 Nov 2026 08:30:21 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIREPOWER: Digital sovereignty and defence",
+   "url": "https://www.rapporteur.com/news/firepower-digital-sovereignty-and-defence/",
+   "content": "In today's edition: telecoms, MFF, military mobility",
+   "published_date": "Thu, 12 Nov 2026 08:03:46 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "THE HACK: Mixed reviews for Digital Fairness Act",
+   "url": "https://www.rapporteur.com/news/the-hack-mixed-reviews-for-digital-fairness-act/",
+   "content": "In today's edition: CAIDA, sovereign telecoms, AI safety",
+   "published_date": "Thu, 12 Nov 2026 07:49:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "VOLTAGE: Merz against Visegrád",
+   "url": "https://www.rapporteur.com/news/voltage-merz-against-visegrad/",
+   "content": "In today's edition: carbon pricing, fuel costs, climate warning",
+   "published_date": "Thu, 12 Nov 2026 07:42:37 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIRST AID: Commission rebuffs Parliament on wastewater rules",
+   "url": "https://www.rapporteur.com/news/first-aid-commission-rebuffs-parliament-on-wastewater-rules/",
+   "content": "In today's edition: biotech, mushrooms, tobacco",
+   "published_date": "Thu, 12 Nov 2026 07:36:12 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "HARVEST: Hen welfare gaps",
+   "url": "https://www.rapporteur.com/news/harvest-hen-welfare-gaps/",
+   "content": "In today's edition: EFSA chief, promotion funds, CAP budget",
+   "published_date": "Thu, 12 Nov 2026 07:24:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "More meetings, no peace",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-more-meetings-no-peace/",
+   "content": "Also, in Thursday’s edition: Lithuania presidency seeks Ukraine success",
+   "published_date": "Thu, 12 Nov 2026 06:21:11 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Scientists slam EU for climate action backsliding",
    "url": "https://www.rapporteur.com/news/scientists-slam-eu-for-climate-action-backsliding/",
    "content": "World heading for 'irrecoverable overshoot', according to report released during COP31",
@@ -79,17 +128,10 @@
    "score": 0.6
   },
   {
-   "title": "Tens of thousands attend Polish nationalist march days afer shootings",
+   "title": "Tens of thousands attend Polish nationalist march days after shootings",
    "url": "https://www.rapporteur.com/news/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings/",
    "content": "The event is held each 11 November to commemorate the end in 1918 of 123 years of partition by Russia, Prussia and Austria",
    "published_date": "Wed, 11 Nov 2026 15:36:03 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "US envoys to meet Putin, Zelenskyy after war talks in Abu Dhabi",
-   "url": "https://www.rapporteur.com/news/us-envoys-to-meet-putin-zelenskyy-after-war-talks-in-abu-dhabi/",
-   "content": "Steve Witkoff and Jared Kushner will first travel to Moscow",
-   "published_date": "Wed, 11 Nov 2026 15:23:19 +0000",
    "score": 0.6
   },
   {
@@ -167,48 +209,6 @@
    "url": "https://www.rapporteur.com/news/photoshop-maker-adobe-backs-rules-against-ai-style-mimicry/",
    "content": "Artists should get recourse against money-making style copycats, company pitches",
    "published_date": "Wed, 11 Nov 2026 03:00:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Brussels explores LSD’s medical potential as US moves ahead",
-   "url": "https://www.rapporteur.com/news/brussels-explores-lsds-medical-potential-as-us-moves-ahead/",
-   "content": "European regulators have already agreed to testing LSD – but not to approving it",
-   "published_date": "Wed, 11 Nov 2026 03:00:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "How Sweden’s Ebba Busch jolted Europe’s power grid",
-   "url": "https://www.rapporteur.com/news/how-swedens-ebba-busch-jolted-europes-power-grid/",
-   "content": "As the Cassandra of European energy policy awaits her fate, all but one of the problems she called out remain",
-   "published_date": "Wed, 11 Nov 2026 03:00:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Sweden rethinks defence procurement as new threats demand speed",
-   "url": "https://www.rapporteur.com/news/sweden-rethinks-defence-procurement-as-new-threats-demand-speed/",
-   "content": "A key plank is strong engagement with startups and SMEs",
-   "published_date": "Wed, 11 Nov 2026 03:00:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU official rejects anonymous corruption allegations",
-   "url": "https://www.rapporteur.com/news/eu-official-rejects-anonymous-corruption-allegations/",
-   "content": "Isabelle Le Galo Flores firmly denies any wrongdoing",
-   "published_date": "Tue, 10 Nov 2026 18:37:29 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Military mobility solidarity pool to be set up in a year, new draft says",
-   "url": "https://www.rapporteur.com/news/military-mobility-solidarity-pool-to-be-set-up-in-a-year-new-draft-says/",
-   "content": "Military mobility solidarity pool to be set up within a year, new draft shows",
-   "published_date": "Tue, 10 Nov 2026 17:34:04 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "The trilateral no one’s talking about",
-   "url": "https://www.rapporteur.com/news/the-trilateral-no-ones-talking-about/",
-   "content": "Also, in tonight’s edition: EU and US close ranks behind NATO ahead of Abu Dhabi",
-   "published_date": "Tue, 10 Nov 2026 17:00:34 +0000",
    "score": 0.6
   }
  ],

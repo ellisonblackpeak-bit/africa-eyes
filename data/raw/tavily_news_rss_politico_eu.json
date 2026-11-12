@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Crisis engulfs Dutch government ahead of crucial tax vote",
+   "url": "https://www.politico.eu/article/dutch-coalition-government-hangs-thread-crucial-tax-vote-jetten-cda-pro-volt/",
+   "content": "The centrist D66 and center-right CDA struck a deal with opposition parties, sidelining the fiscally conservative VVD.",
+   "published_date": "Thu, 12 Nov 2026 08:55:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Is Labour facing its biggest test yet?",
+   "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-labour-facing-its-biggest-test-yet/",
+   "content": "Presented by TikTok",
+   "published_date": "Thu, 12 Nov 2026 08:29:53 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Climate action must work for ‘people on all incomes,’ Burnham tells COP31",
+   "url": "https://www.politico.eu/article/climate-action-must-work-for-people-on-all-incomes-burnham-tells-cop31/",
+   "content": "The U.K. PM used his summit speech to address cost-of-living worries at home.",
+   "published_date": "Thu, 12 Nov 2026 08:25:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Estonia wants Costa and Kallas to speak for Europe in Ukraine peace talks",
+   "url": "https://www.politico.eu/article/estonia-antonio-costa-kaja-kallas-europe-ukraine-peace-talks/",
+   "content": "“Both are clearly accountable to EU countries,” Kristen Michal said.",
+   "published_date": "Thu, 12 Nov 2026 08:23:18 +0000",
+   "score": 0.6
+  },
+  {
    "title": "The summit Europe loves to hate",
    "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-summit-europe-loves-to-hate/",
    "content": "Over 50 leaders are descending on Dublin today for the European Political Community summit — but it’s not a popular one. Today on the show, Zoya Sheftalovich and Kathryn Carlson discuss why insiders don’t find the forum particularly useful, and some even hope it will end once French President Emmanuel Macron — who spearheaded the […]",
@@ -41,34 +69,6 @@
    "url": "https://www.politico.eu/article/ahead-of-spanish-election-pedro-sanchez-takes-aim-at-tiktok/",
    "content": "The Spanish government pursued a ban on TikTok after a report alleged the social media is lax about child sexual abuse material.",
    "published_date": "Wed, 11 Nov 2026 20:47:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time",
-   "url": "https://www.politico.eu/article/why-the-us-wants-europe-at-ukraine-talks-next-time/",
-   "content": "The truth is, it was never just about Ukraine for Putin. Washington now understands this – and that’s both good for Europe, and potentially terrifying as well.",
-   "published_date": "Wed, 11 Nov 2026 19:53:57 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Former Brexit negotiator now open to scrapping Labour’s EU red lines",
-   "url": "https://www.politico.eu/article/former-brexit-negotiator-now-open-to-scrapping-labours-eu-red-lines/",
-   "content": "Nick Thomas-Symonds says there now needs to be a debate about the different options available to the U.K.",
-   "published_date": "Wed, 11 Nov 2026 17:26:41 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Lagarde would equal any other centrist in Elysée run, poll shows",
-   "url": "https://www.politico.eu/article/lagarde-would-equal-any-other-centrist-in-elysee-run-poll-shows/",
-   "content": "The departing ECB president has previously ruled out running in next year's presidential election.",
-   "published_date": "Wed, 11 Nov 2026 16:45:41 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "SONDAGE EXCLUSIF 2027. Christine Lagarde “bien accueillie” par les électeurs du centre",
-   "url": "https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/",
-   "content": "SONDAGE CLUSTER 17 x POLITICO. L'Institut Cluster 17 a testé le scénario d'une candidature à l'élection présidentielle de Christine Lagarde. La future ex-patronne de la BCE, que certains rêvent de voir entrer dans la course, fait d'ores et déjà jeu égal avec Edouard Philippe.",
-   "published_date": "Wed, 11 Nov 2026 16:42:28 +0000",
    "score": 0.6
   }
  ],
