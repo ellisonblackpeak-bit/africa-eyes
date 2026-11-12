@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Abin da muka sani kan harin da aka kai wa tawagar Pantami a Gombe",
+   "url": "https://www.bbc.com/hausa/articles/cqkg5jkr07k7o?at_medium=RSS&at_campaign=rss",
+   "content": "Lamarin na zuwa ne a lokacin da Pantami ke shirin halartar wani babban taro yaƙin neman zaɓe da aka shirya masa a unguwar Jekada fari da ke tsakiyar birnin Gombe",
+   "published_date": "Thu, 12 Nov 2026 12:18:49 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Iran ta sake yin barazanar kashe Trump da Netanyahu",
    "url": "https://www.bbc.co.uk/hausa/live/c6vg23y4wr94t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Alhamis 12/11/2026",
@@ -51,13 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Me ke janyo kwaɗayin dare bayan cin abinci?",
-   "url": "https://www.bbc.com/hausa/articles/c85y13l0x5plo?at_medium=RSS&at_campaign=rss",
-   "content": "Shin ka taɓa cin abinci ka ƙoshi sosai, amma bayan awa guda ko minti talatin sai ka fara jin kwaɗayin cin wani abu, har ka nufi kicin kana neman abin da za ka saka a baki?",
-   "published_date": "Wed, 11 Nov 2026 14:26:36 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Manyan alƙawura huɗu da Tinubu zai yi kamfe da su a 2027",
    "url": "https://www.bbc.com/hausa/articles/c3x2987x275ko?at_medium=RSS&at_campaign=rss",
    "content": "Jam'iyyar ta ce manufofin nata sun ta'allaƙa ne kan abin da take ganin an cimma a shekaru huɗun farko na gwamnatin Tinubu, musamman a ɓangarorin tattalin arziki, tsaro, samar da ababen more rayuwa da kuma kirkirar ayyukan yi.",
@@ -72,7 +72,7 @@
    "score": 0.6
   },
   {
-   "title": "An dade ana ta alakanta Pochettino da aikin Man United",
+   "title": "Crystal Palace ta kori Sage, bayan jan ragamar wasa 16",
    "url": "https://www.bbc.co.uk/hausa/live/c6pvgv474vxet?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 9 zuwa 14 ga watan Nuwambar 2026",
    "published_date": "",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Me ke janyo kwaɗayin dare bayan cin abinci?",
+   "url": "https://www.bbc.com/hausa/articles/c85y13l0x5plo?at_medium=RSS&at_campaign=rss",
+   "content": "Shin ka taɓa cin abinci ka ƙoshi sosai, amma bayan awa guda ko minti talatin sai ka fara jin kwaɗayin cin wani abu, har ka nufi kicin kana neman abin da za ka saka a baki?",
+   "published_date": "Wed, 11 Nov 2026 14:26:36 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/c6q8n8qdd8pno?at_medium=RSS&at_campaign=rss",
    "content": "Rundunar yansandan jihar Zamfara ta yi ƙarin haske kan kisan wasu mutum 13 ƴan gida ɗaya da ƴanbindiga suka yi a jihar a ƙarshen mako.",
    "published_date": "Mon, 09 Nov 2026 11:52:44 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Manyan ƴan fashin daji 5 da suka fi addabar arewacin Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/c5gm0023yjmno?at_medium=RSS&at_campaign=rss",
-   "content": "Hare-hare kan ƙauyuka, satar mutane domin neman kuɗin fansa, kashe-kashe da tilasta wa al'ummomi barin gidajensu sun zama ruwan dare a wasu yankunan ƙasar da dama.",
-   "published_date": "Mon, 09 Nov 2026 04:12:59 GMT",
    "score": 0.6
   }
  ],

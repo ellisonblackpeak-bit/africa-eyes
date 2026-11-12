@@ -1,0 +1,37 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Refoulés de Guinée : près de 49 000 personnes transférées , les arrivées ralentissent à Bamako",
+   "url": "https://malijet.com/a_la_une_du_mali/312756-refoules-de-guinee-pres-de-49-000-personnes-transferees-l.html",
+   "content": "",
+   "published_date": "2026-11-10T01:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "AES : les ministres maliens et burkinabè de l  Éducation à Niamey pour une conférence commune",
+   "url": "https://malijet.com/actualite-sur-aes/312755-aes-les-ministres-maliens-et-burkinabe-de-leducation-a-ni.html",
+   "content": "",
+   "published_date": "2026-11-10T01:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Orpaillage illégal en Guinée : 1 263 personnes interpellées dans la région de Siguiri",
+   "url": "https://malijet.com/actualite-sur-afrique/312754-orpaillage-illegal-en-guinee-1-263-personnes-interpellees.html",
+   "content": "",
+   "published_date": "2026-11-10T01:00:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ml",
+ "_query": "Mali OR Bamako OR jihadist OR orpaillage",
+ "_domains": [
+  "malijet.com",
+  "maliweb.net",
+  "reuters.com",
+  "africanews.com",
+  "allafrica.com"
+ ],
+ "_days": 3
+}

@@ -2,24 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "EU seeks clarification from Algeria over military deployment in Niger",
-   "url": "https://en.hespress.com/148683-eu-seeks-clarification-from-algeria-over-military-deployment-in-niger.html",
-   "snippet": "The EU’s request follows the reported arrival of an Algerian military convoy in the Nigerien city of Arlit late last month. Located in northwestern Niger, Arlit is known for its uranium mining industry. The deployment has been described in reports as the first time Algerian troops have operated outside the country since Algeria supported Egypt during the 1973 Arab-Israeli War. [...] Friday 6 Novem",
-   "published": "Fri, 06 Nov 2026 23:00:14 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Construction machinery is seen at the Tamgak open air uranium mine at Areva's Somair mining facility in Arlit",
-   "url": "https://www.reutersconnect.com/item/construction-machinery-is-seen-at-the-tamgak-open-air-uranium-mine-at-arevas-somair-mining-facility-in-arlit/dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBMjQwQjI0MDE?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBMjQwQjNBMDE&position=2",
-   "snippet": "The Tamgak open air uranium mine is seen at Areva's Somair uranium mining facility in Arlit, September 25, 2013. Picture taken September 25, 2013. To match.",
-   "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Niger summons EU envoy over Algeria deployment remarks",
    "url": "https://streamlinefeed.co.ke/news/niger-summons-eu-envoy-over-algeria-deployment-remarks",
    "snippet": "Hespress reports that an Algerian military convoy arrived in Arlit, a uranium mining centre in the north-west, late in October, and links the mission to protecting Sonatrach investments including the Kafra field. It describes the move as Algeria's first troop presence abroad since it supported Egypt in the 1973 Arab-Israeli war. [...] • El Anouni asked for the nature, objectives and legal basis of",
    "published": "Wed, 11 Nov 2026 09:54:33 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU seeks clarification from Algeria over military deployment in Niger",
+   "url": "https://en.hespress.com/148683-eu-seeks-clarification-from-algeria-over-military-deployment-in-niger.html",
+   "snippet": "The EU’s request follows the reported arrival of an Algerian military convoy in the Nigerien city of Arlit late last month. Located in northwestern Niger, Arlit is known for its uranium mining industry. The deployment has been described in reports as the first time Algerian troops have operated outside the country since Algeria supported Egypt during the 1973 Arab-Israeli War. [...] Algeria has li",
+   "published": "Fri, 06 Nov 2026 23:00:14 GMT",
    "source": "tavily"
   },
   {
@@ -30,16 +23,23 @@
    "source": "tavily"
   },
   {
+   "title": "Construction machinery is seen at the Tamgak open air uranium mine at Areva's Somair mining facility in Arlit",
+   "url": "https://www.reutersconnect.com/item/construction-machinery-is-seen-at-the-tamgak-open-air-uranium-mine-at-arevas-somair-mining-facility-in-arlit/dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBMjQwQjI0MDE?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBMjQwQjNBMDE&position=2",
+   "snippet": "The Tamgak open air uranium mine is seen at Areva's Somair uranium mining facility in Arlit, September 25, 2013. Picture taken September 25, 2013. To match.",
+   "published": "Mon, 09 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Licensable picture: Areva's Somair uranium mining facility is seen in Arlit",
    "url": "https://www.reutersconnect.com/item/arevas-somair-uranium-mining-facility-is-seen-in-arlit/dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBMjQwQjNBMDE?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBMjQwQjNBMDE&position=1",
    "snippet": "Areva's Somair uranium mining facility is seen in Arlit, September 25, 2013. Picture taken September 25, 2013. To match Special Report NIGER-AREVA/",
-   "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+   "published": "Tue, 10 Nov 2026 14:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "Niger summons EU envoy over sovereignty row - Daily News",
    "url": "https://dailynews.co.tz/niger-summons-eu-envoy-over-sovereignty-row",
-   "snippet": "The dispute follows Algeria’s decision last month to deploy army units to northern Niger at Niamey’s request. Algerian lawmakers approved the mission, which Algiers says is intended to protect shared energy and economic interests, marking the country’s first foreign troop deployment since 1973. Reuters reported that the first convoy reached the uranium-mining city of Arlit on October 30. [...] 269",
+   "snippet": "The dispute follows Algeria’s decision last month to deploy army units to northern Niger at Niamey’s request. Algerian lawmakers approved the mission, which Algiers says is intended to protect shared energy and economic interests, marking the country’s first foreign troop deployment since 1973. Reuters reported that the first convoy reached the uranium-mining city of Arlit on October 30. [...] El ",
    "published": "Wed, 11 Nov 2026 11:07:30 GMT",
    "source": "tavily"
   },
@@ -60,7 +60,7 @@
   {
    "title": "France's Africa Exploitation Ends, Welfare Empire Collapses",
    "url": "https://www.chosun.com/english/industry-en/2026/11/10/HBFJ5SIIS5CCXFLD6FJOXE3QP4",
-   "snippet": "2h ago\n\n|Kim Eun-jin Reporter\n\nMost Read News\n\n1\n\nBritish Boxer Zak Miller's Horrific Head Injury Sparks Controversy\n\n2\n\nAlice Huang's Network Channels NVIDIA Chips to China\n\n3\n\nAnthropic Targets $1.4 Trillion Valuation in Nasdaq Listing\n\n4\n\nJames Talarico Ends 38-Year Republican Senate Hold in Texas\n\n5\n\nKim Min-seok Slams People Power Party's Tactics, Impeachment Threats\n\n6\n\nGenesis Sales Plunge ",
+   "snippet": "7\n\nLotte Wellfood Posts 29.7% Operating Profit Surge in Q3\n\n8\n\nHanwha Eagles Sign Troy Watson for $1 Million\n\n9\n\nGovernment Inspects Rice Grades for Reserve Storage\n\n10\n\nNVIDIA CEO's Affair Partner Vanishes Amid Career Mystery\n\n6\n\nGenesis Sales Plunge 29% as Import Rivals and Tesla Gain Ground\n\n7\n\nLotte Wellfood Posts 29.7% Operating Profit Surge in Q3\n\n8\n\nHanwha Eagles Sign Troy Watson for $1 Mil",
    "published": "Tue, 10 Nov 2026 08:08:15 GMT",
    "source": "tavily"
   }

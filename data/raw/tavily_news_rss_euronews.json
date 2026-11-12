@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Who is Alice Huang, the alleged Chinese spy linked to Nvidia's Jensen Huang?",
+   "url": "https://www.euronews.com/2026/11/12/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang",
+   "content": "Footage shows Nvidia CEO Jensen Huang alongside Alice Huang, a Chinese businesswoman at the centre of an alleged Chinese intelligence operation targeting him.",
+   "published_date": "Thu, 12 Nov 2026 15:51:22 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine: Russian drone attack sparks major fire in Kyiv residential building",
+   "url": "https://www.euronews.com/video/2026/11/12/ukraine-russian-drone-attack-sparks-major-fire-in-kyiv-residential-building",
+   "content": "A Russian drone strike sparked a major fire at an apartment building in Kyiv, Ukraine, early on Thursday. Residents fled to safety as firefighters battled the flames and rescue workers helped people at the scene.",
+   "published_date": "Thu, 12 Nov 2026 15:26:17 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Nvidia founder Jensen Huang resigns as CEO after reports of two affairs",
+   "url": "https://www.euronews.com/2026/11/12/nvidias-jensen-huang-resigns-over-relationship-with-suspected-chinese-spy",
+   "content": "Finance chief Colette Kress will run the AI chip giant on an interim basis as its shares tumble.",
+   "published_date": "Thu, 12 Nov 2026 15:07:53 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Slovenia: Red Bull human catapult sets two Guinness World Records",
    "url": "https://www.euronews.com/video/2026/11/12/slovenia-red-bull-human-catapult-sets-two-guinness-world-records",
    "content": "Two BASE jumpers made history in Trbovlje, Slovenia, after being launched into the sky from a 360-metre industrial chimney using what organisers describe as the world's largest human catapult.",
@@ -107,7 +128,7 @@
    "score": 0.6
   },
   {
-   "title": "At least two dead while others are trapped in the rubble after a building collapse in New York City",
+   "title": "Eight dead while others are trapped in the rubble after a building collapse in New York City",
    "url": "https://www.euronews.com/2026/11/12/at-least-two-dead-while-others-are-trapped-in-the-rubble-after-a-building-collapse-in-new-",
    "content": "One resident of the collapsed building, Anderson Velez, recounted that he was at work when his wife phoned and said that their two children, aged 2 and 7, were among those trapped in the rubble, local media reported.",
    "published_date": "Thu, 12 Nov 2026 05:07:38 +0100",
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/2026/11/11/russias-last-openly-critical-newspaper-novaya-gazeta-shuts-its-moscow-office",
    "content": "The paper said security services and censors forced it to stop operating after they evicted it, shut down its donation system, blocked its printing, and revoked its media registration.",
    "published_date": "Wed, 11 Nov 2026 12:33:11 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 11th, 2026 – Midday",
-   "url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-midday",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Wed, 11 Nov 2026 12:00:15 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Trump’s defamation lawsuit against the BBC over Panorama edit can proceed, judge rules",
-   "url": "https://www.euronews.com/2026/11/11/trumps-defamation-lawsuit-against-the-bbc-over-panorama-edit-can-proceed-judge-rules",
-   "content": "A second claim brought under a Florida consumer protection law was thrown out, halving the original $10bn lawsuit to $5bn, but the US president has still hailed the ruling as “A Huge Victory”.",
-   "published_date": "Wed, 11 Nov 2026 11:57:02 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Ottoman marching band welcomes world leaders to COP31 in Turkey",
-   "url": "https://www.euronews.com/video/2026/11/11/ottoman-marching-band-welcomes-world-leaders-to-cop31-in-turkey",
-   "content": "An Ottoman-style military band welcomes international delegates to COP31 in Antalya, Turkey, with traditional marches and lively rhythms.",
-   "published_date": "Wed, 11 Nov 2026 11:15:33 +0100",
    "score": 0.6
   }
  ],

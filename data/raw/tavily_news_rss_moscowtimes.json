@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Russian Officer Appeals to Putin to Drop Fraud Charges Against Scammed Son",
+   "url": "https://www.themoscowtimes.com/2026/11/12/russian-officer-appeals-to-putin-to-drop-fraud-charges-against-scammed-son-a94244",
+   "content": "",
+   "published_date": "Thu, 12 Nov 2026 17:18:36 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Finland Says It Detected Strike on Russian Warship in Baltic Sea",
+   "url": "https://www.themoscowtimes.com/2026/11/12/finland-says-it-detected-strike-on-russian-warship-in-baltic-sea-a94245",
+   "content": "It was not immediately clear if there were any casualties or what had caused the strike.",
+   "published_date": "Thu, 12 Nov 2026 17:03:29 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine War Turns Black Sea Into World’s Deadliest Shipping Lane – WSJ",
+   "url": "https://www.themoscowtimes.com/2026/11/12/ukraine-war-turns-black-sea-into-worlds-deadliest-shipping-lane-wsj-a94243",
+   "content": "Maritime security firm Ambrey recorded more than 300 attacks in the Black Sea this year as Russia and Ukraine traded strikes on ships and ports.",
+   "published_date": "Thu, 12 Nov 2026 15:23:52 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "U.S. Envoys Leave Kremlin After Putin Talks",
+   "url": "https://www.themoscowtimes.com/2026/11/12/us-envoys-arrive-at-kremlin-for-talks-with-putin-on-ukraine-a94236",
+   "content": "This week's talks, which yielded no major breakthroughs, were the first direct talks between Russia and Ukraine mediated by the U.S. in nine months.",
+   "published_date": "Thu, 12 Nov 2026 14:36:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Over 11K Foreign Fighters Killed in Ukraine – Rosstat Leaks",
    "url": "https://www.themoscowtimes.com/2026/11/12/over-11k-foreign-fighters-killed-in-ukraine-rosstat-leaks-a94237",
    "content": "Of the 11,335 foreign fatalities, just over 6,000 of those killed were born outside Russia but had obtained Russian citizenship prior to their deaths.",
@@ -16,17 +44,10 @@
    "score": 0.6
   },
   {
-   "title": "U.S. Envoys Arrive in Moscow for Latest Round of Talks With Putin",
-   "url": "https://www.themoscowtimes.com/2026/11/12/us-envoys-arrive-in-moscow-for-latest-round-of-talks-with-putin-a94236",
-   "content": "This week's talks, which yielded no major breakthroughs, were the first direct talks between Russia and Ukraine mediated by the U.S. in nine months.",
-   "published_date": "Thu, 12 Nov 2026 12:48:06 +0300",
-   "score": 0.6
-  },
-  {
    "title": "St. Petersburg Car Blast Kills Russian Aerospace Forces Officer",
    "url": "https://www.themoscowtimes.com/2026/11/12/st-petersburg-car-blast-kills-russian-aerospace-forces-officer-a94235",
    "content": "The officer was the second Russian military official to be killed in a car bomb explosion in the same neighborhood this year.",
-   "published_date": "Thu, 12 Nov 2026 12:23:49 +0300",
+   "published_date": "Thu, 12 Nov 2026 12:23:00 +0300",
    "score": 0.6
   },
   {
@@ -188,27 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/06/anti-kremlin-political-parties-peaceful-russia-and-rassvet-named-foreign-agents-a94195",
    "content": "Rassvet, founded by 2024 presidential hopeful Yekaterina Duntsova, denied allegations that it received foreign funding.",
    "published_date": "Fri, 06 Nov 2026 19:33:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russian Security Council Calls for Rapid Deployment of Starlink Rival Satellites",
-   "url": "https://www.themoscowtimes.com/2026/11/06/russian-security-council-calls-for-rapid-deployment-of-starlink-rival-satellites-a94196",
-   "content": "A group of experts on the council warned that Elon Musk's satellite network could be used to destabilize countries throughout the world.",
-   "published_date": "Fri, 06 Nov 2026 18:59:10 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Father and Daughter Who Fled Russia Win Magnitsky Human Rights Award",
-   "url": "https://www.themoscowtimes.com/2026/11/06/father-and-daughter-who-fled-russia-win-magnitsky-human-rights-award-a94194",
-   "content": "The organization behind the annual honor said the Moskalyovs received the “Courage Under Fire” award for their refusal to remain silent in the face of state prosecution.",
-   "published_date": "Fri, 06 Nov 2026 18:25:32 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Communist Lawmaker Slams Culture Ministry Over Lenin Library Rave",
-   "url": "https://www.themoscowtimes.com/2026/11/06/communist-lawmaker-slams-culture-ministry-over-lenin-library-rave-a94192",
-   "content": "The Russian State Library, popularly known as “Leninka,” hosted the literary-themed rave on Halloween together with Russia’s largest publishing group.",
-   "published_date": "Fri, 06 Nov 2026 16:48:30 +0300",
    "score": 0.6
   }
  ],
