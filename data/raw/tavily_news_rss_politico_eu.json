@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "EU court rejects Poland’s bid to overturn 7 major climate laws",
+   "url": "https://www.politico.eu/article/eu-court-rejects-poland-bid-overturn-7-climate-laws/",
+   "content": "Lawsuits launched by the previous nationalist government were kept alive under pro-EU Prime Minister Donald Tusk.",
+   "published_date": "Thu, 12 Nov 2026 11:25:35 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Russia attacks Ukraine hours after Abu Dhabi peace talks end",
+   "url": "https://www.politico.eu/article/russia-and-ukraine-trade-strikes-as-peace-talks-end-with-little-progress/",
+   "content": "The mutual attacks came hours after Russia and Ukraine concluded another round of trilateral peace talks mediated by the United States.",
+   "published_date": "Thu, 12 Nov 2026 11:19:50 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "China’s diaspora crackdown reaches deep into Europe, report finds",
+   "url": "https://www.politico.eu/article/china-diaspora-crackdown-reaches-deep-into-europe-report-finds/",
+   "content": "The report alleging Beijing uses hundreds of European outposts to monitor and police diaspora communities lands as EU trade officials meet a Chinese counterpart.",
+   "published_date": "Thu, 12 Nov 2026 10:30:21 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Australia signs up to EU’s Horizon Europe research program",
+   "url": "https://www.politico.eu/article/australia-signs-up-to-eus-horizon-europe-research-program/",
+   "content": "Industry Minister Tim Ayres signed the association agreement in Brussels on Thursday.",
+   "published_date": "Thu, 12 Nov 2026 10:30:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Europäische Städte fordern ein EU-weites Verbot von Zigarettenfiltern",
+   "url": "https://www.politico.eu/article/europaeische-staedte-fordern-ein-eu-weites-verbot-von-zigarettenfiltern/",
+   "content": "Es ist an der Zeit, sich von den „kosmetischen“ Plastikresten zu verabschieden, die unsere Straßen verschmutzen, finden Stadtverwaltungen von Dublin bis München.",
+   "published_date": "Thu, 12 Nov 2026 09:49:55 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Crisis engulfs Dutch government ahead of crucial tax vote",
    "url": "https://www.politico.eu/article/dutch-coalition-government-hangs-thread-crucial-tax-vote-jetten-cda-pro-volt/",
    "content": "The centrist D66 and center-right CDA struck a deal with opposition parties, sidelining the fiscally conservative VVD.",
@@ -34,41 +69,6 @@
    "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-summit-europe-loves-to-hate/",
    "content": "Over 50 leaders are descending on Dublin today for the European Political Community summit — but it’s not a popular one. Today on the show, Zoya Sheftalovich and Kathryn Carlson discuss why insiders don’t find the forum particularly useful, and some even hope it will end once French President Emmanuel Macron — who spearheaded the […]",
    "published_date": "Thu, 12 Nov 2026 05:05:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Last-Minute-Poker um den Haushalt",
-   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/last-minute-poker-um-den-haushalt/",
-   "content": "Präsentiert von YouTube.",
-   "published_date": "Thu, 12 Nov 2026 04:15:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU growth needs deeper markets and global capital",
-   "url": "https://www.politico.eu/sponsored-content/eu-growth-needs-deeper-markets-and-global-capital/",
-   "content": "POLITICAL ADVERTISEMENT",
-   "published_date": "Thu, 12 Nov 2026 04:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Poland turns to home-grown giant for its defense buildup",
-   "url": "https://www.politico.eu/article/poland-home-grown-giant-defense-buildup/",
-   "content": "The state-owed Polish Armaments Group is playing a key role in Poland's rearmament drive, but it's not without its own troubles.",
-   "published_date": "Thu, 12 Nov 2026 03:50:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "The Kremlin can hide the death toll. It can’t hide the graves.",
-   "url": "https://www.politico.eu/article/kremlin-hide-numbers-cant-hide-graves-russia-ukraine-war/",
-   "content": "As the war in Ukraine drags on, Moscow is taking great pains to suppress casualty figures by closing databases and prosecuting those who document the dead.",
-   "published_date": "Thu, 12 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ahead of Spanish election, Sánchez takes aim at TikTok",
-   "url": "https://www.politico.eu/article/ahead-of-spanish-election-pedro-sanchez-takes-aim-at-tiktok/",
-   "content": "The Spanish government pursued a ban on TikTok after a report alleged the social media is lax about child sexual abuse material.",
-   "published_date": "Wed, 11 Nov 2026 20:47:01 +0000",
    "score": 0.6
   }
  ],

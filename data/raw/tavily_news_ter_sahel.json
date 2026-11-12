@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Burkina Faso's jihadist battle less deadly but unrelenting",
-   "url": "https://www.modernghana.com/news/1542417/burkina-fasos-jihadist-battle-less-deadly-but.html",
-   "snippet": "FRI, 06 NOV 2026\n\nBurkina Faso's army is battling jihadists from the Sahel branches of the Islamic State and Al-Qaeda. By Issouf SANOGO (AFP/File)\n\nWhile Burkina Faso has not seen a large-scale jihadist attack since late June, analysts and data suggest the calm is deceptive: attacks are less deadly but their frequency remains high. [...] He highlighted clashes between the JNIM and its rival, the I",
-   "published": "Sat, 07 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Mer Group lands €46m West African intelligence and cyber contracts | Military Africa",
    "url": "https://www.military.africa/2026/11/mer-group-lands-46m-west-african-intelligence-and-cyber-contracts",
    "snippet": "The contracts also reflect the growing weight of West Africa and the Sahel in the global fight against terrorism. Lavie noted that the Sahel has become one of the world’s most active theatres for jihadist groups, while many governments in the region still struggle with limited resources and operational capability. An AFP analysis of Armed Conflict Location and Event Data (ACLED) records found near",
    "published": "Wed, 11 Nov 2026 14:40:02 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Burkina Faso's jihadist battle less deadly but unrelenting",
+   "url": "https://www.modernghana.com/news/1542417/burkina-fasos-jihadist-battle-less-deadly-but.html",
+   "snippet": "Ruled by a junta led by Captain Ibrahim Traore since a September 2022 coup, Burkina Faso is battling the Sahel branches of the Islamic State group and Al-Qaeda across large swathes of the west African country.\n\nAFP looks at what is behind the apparent lull:\n\nFewer deaths but no fewer attacks\n\nHaving peaked at 612 deaths in June alone, the violence has decreased in intensity, with 195 people killed",
+   "published": "Fri, 06 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Rival Terror Groups Devastate the Sahel - Africa Defense Forum",
+   "url": "https://adf-magazine.com/2026/11/rival-terror-groups-devastate-the-sahel",
+   "snippet": "JNIM and ISSP began fighting in mid-2019 and have engaged in around 320 battles that have killed more than 2,200 fighters, according to ACLED’s West Africa senior analyst Héni Nsaibia. Territorial battles had been confined to Burkina Faso and Mali but have expanded into Niger’s Tillaberi and Dosso regions and Nigeria’s Kebbi state since April 2026. [...] Thousands of militants met in two separate ",
+   "published": "Tue, 10 Nov 2026 18:07:06 GMT",
    "source": "tavily"
   },
   {
@@ -23,20 +30,6 @@
    "source": "tavily"
   },
   {
-   "title": "How the Sahel's Demographic Surge Is Impacting Jihadist Recruitment | RANE Worldview",
-   "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-03/how-the-sahel-s-demographic-surge-is-impacting-jihadist-recruitment/4e8c4a56406344d0",
-   "snippet": "The Sahel's rapidly growing youth population, disrupted education, weak livelihoods and heavy-handed counterinsurgency efforts will likely sustain jihadists' ability to exploit grievances, recruit personnel and broaden support networks, limiting the durability of military gains. Over the past decade, al Qaeda-affiliated Jamaat Nusrat al-Islam wal-Muslimin, or JNIM, and Islamic State Sahel Province",
-   "published": "Mon, 09 Nov 2026 04:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "AFRICA/NIGER - Displacement and insecurity: the challenges facing the small Catholic community - Agenzia Fides",
-   "url": "http://www.fides.org/en/news/78399-AFRICA_NIGER_Displacement_and_insecurity_the_challenges_facing_the_small_Catholic_community",
-   "snippet": "Niamey (Fides News Agency) – Abandoned villages, closed churches, faithful forced to flee and priests unable to reach their communities. The advance of jihadist groups across the Sahel is placing the presence of the small Catholic Church in Niger at risk, particularly in regions most exposed to violence. [...] In recent years, the security situation has deteriorated significantly. In the western r",
-   "published": "Mon, 09 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Africanews | US cautions Madagascar over growing military ties with Russia",
    "url": "https://www.africanews.com/amp/2026/11/11/us-cautions-madagascar-over-growing-military-ties-with-russia",
    "snippet": "Lieutenant General John Brennan, deputy commander of US Africa Command, said Washington was concerned that Russia could extend its influence beyond the Sahel, where military-led governments have increasingly turned to Moscow for security assistance.\n\nMali, Burkina Faso and Niger have cut military ties with traditional Western allies and sought Russian support in their fight against jihadist groups",
@@ -44,10 +37,17 @@
    "source": "tavily"
   },
   {
-   "title": "Rival Terror Groups Devastate the Sahel - Africa Defense Forum",
-   "url": "https://adf-magazine.com/2026/11/rival-terror-groups-devastate-the-sahel",
-   "snippet": "Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and the Islamic State Sahel Province (ISSP) are waging a turf war across multiple fronts in the Sahel. The rival groups operate in similar fashion to organized crime families that fight over territories and illicit trade networks, while extorting money and resources from civilians. [...] Rival terrorist groups linked to al-Qaida and the Islamic State hav",
-   "published": "Tue, 10 Nov 2026 18:07:06 GMT",
+   "title": "AFRICA/NIGER - Displacement and insecurity: the challenges facing the small Catholic community - Agenzia Fides",
+   "url": "http://www.fides.org/en/news/78399-AFRICA_NIGER_Displacement_and_insecurity_the_challenges_facing_the_small_Catholic_community",
+   "snippet": "Niamey (Fides News Agency) – Abandoned villages, closed churches, faithful forced to flee and priests unable to reach their communities. The advance of jihadist groups across the Sahel is placing the presence of the small Catholic Church in Niger at risk, particularly in regions most exposed to violence. [...] In recent years, the security situation has deteriorated significantly. In the western r",
+   "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "How the Sahel's Demographic Surge Is Impacting Jihadist Recruitment | RANE Worldview",
+   "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-03/how-the-sahel-s-demographic-surge-is-impacting-jihadist-recruitment/4e8c4a56406344d0",
+   "snippet": "The Sahel's rapidly growing youth population, disrupted education, weak livelihoods and heavy-handed counterinsurgency efforts will likely sustain jihadists' ability to exploit grievances, recruit personnel and broaden support networks, limiting the durability of military gains. Over the past decade, al Qaeda-affiliated Jamaat Nusrat al-Islam wal-Muslimin, or JNIM, and Islamic State Sahel Province",
+   "published": "Mon, 09 Nov 2026 04:00:00 GMT",
    "source": "tavily"
   }
  ],

@@ -1,0 +1,58 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "AES : les ministres maliens et burkinabè de l  Éducation à Niamey pour une conférence commune",
+   "url": "https://malijet.com/actualite-sur-aes/312755-aes-les-ministres-maliens-et-burkinabe-de-leducation-a-ni.html",
+   "content": "",
+   "published_date": "2026-11-10T01:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Trafic de stupéfiants à Zinder : 54 000 comprimés psychotropes saisis par lOCRTIS , un homme de 32 ans interpellé",
+   "url": "https://www.actuniger.com/faits-divers/trafic-de-stupefiants-a-zinder-54-000-comprimes-psychotropes-saisis-par-locrtis-un-homme-de-32-ans-interpelle.html",
+   "content": "",
+   "published_date": "2026-11-12T04:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Orpaillage illégal en Guinée : 1 263 personnes interpellées dans la région de Siguiri",
+   "url": "https://malijet.com/actualite-sur-afrique/312754-orpaillage-illegal-en-guinee-1-263-personnes-interpellees.html",
+   "content": "",
+   "published_date": "2026-11-10T01:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Confédération AES : un conseil des ministres conjoint pour évaluer la mise en œuvre de la Feuille de route de lAn II",
+   "url": "https://www.actuniger.com/politique/confederation-aes-un-conseil-des-ministres-conjoint-pour-evaluer-la-mise-en-oeuvre-de-la-feuille-de-route-de-lan-ii.html",
+   "content": "",
+   "published_date": "2026-11-12T05:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Burkina : les autorités interdisent de filmer et de diffuser les images des bénéficiaires de dons offerts aux rapatriés de Guinée",
+   "url": "https://www.actuniger.com/international/burkina-les-autorites-interdisent-de-filmer-et-de-diffuser-les-images-des-beneficiaires-de-dons-offerts-aux-rapatries-de-guinee.html",
+   "content": "",
+   "published_date": "2026-11-12T03:00:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Gestion des refoulés de la Guinée : Bamako et Ouagadougou à pied d  œuvre pour gérer lafflux massif des personnes expulsées par Conakry",
+   "url": "https://www.actuniger.com/international/gestion-des-refoules-de-la-guinee-bamako-et-ouagadougou-a-pied-doeuvre-pour-gerer-lafflux-massif-des-personnes-expulsees-par-conakry.html",
+   "content": "",
+   "published_date": "2026-11-11T04:00:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ne",
+ "_query": "Niger OR Niamey OR uranium OR junta",
+ "_domains": [
+  "actuniger.com",
+  "lesahel.org",
+  "airinfo.org",
+  "malijet.com",
+  "maliweb.net"
+ ],
+ "_days": 3
+}
