@@ -2,6 +2,76 @@
  "success": true,
  "results": [
   {
+   "title": "No MFF, no Christmas",
+   "url": "https://www.rapporteur.com/news/no-mff-no-christmas/",
+   "content": "Also, in tonight’s edition: Europe's continued struggle over who should talk to Russia",
+   "published_date": "Thu, 12 Nov 2026 16:57:48 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Let young Europeans shape policy, not just comment on it, says EESC youth chief [Partner Content]",
+   "url": "https://www.rapporteur.com/interview/let-young-europeans-shape-policy-not-just-comment-on-it-says-eesc-youth-chief/",
+   "content": "Nicoletta Merlo, President of the EESC's Youth Group, wants youth participation to become a permanent feature of EU decision-making – from the first draft of a policy to the way Brussels spends its money",
+   "published_date": "Thu, 12 Nov 2026 16:45:08 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EXCLUSIVE: Capitals consider sweeping review of migration pact in 2027",
+   "url": "https://www.rapporteur.com/news/exclusive-capitals-consider-sweeping-review-of-migration-pact-in-2027/",
+   "content": "Next year will be dominated by elections in France, Greece, Italy and Poland",
+   "published_date": "Thu, 12 Nov 2026 16:10:01 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "France to open international defence AI centre in 2027",
+   "url": "https://www.rapporteur.com/news/france-to-open-international-defence-ai-centre-in-2027/",
+   "content": "Paris plans to seek NATO accreditation for the centre once revised rules allow it",
+   "published_date": "Thu, 12 Nov 2026 15:53:38 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "MEPs seek to hold EU firms liable over parts in Russian weapons",
+   "url": "https://www.rapporteur.com/news/meps-seek-to-hold-eu-firms-liable-over-parts-in-russian-weapons/",
+   "content": "A draft letter pushes for mandatory cryptographic tagging of sensitive EU-made components",
+   "published_date": "Thu, 12 Nov 2026 15:34:57 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "IMF: Europe risks ‘spillover’ if bond turmoil persists",
+   "url": "https://www.rapporteur.com/news/imf-europe-risks-spillover-if-bond-turmoil-persists/",
+   "content": "Fiscal consolidation must be coupled with productivity-boosting reforms, says Fund’s Europe director",
+   "published_date": "Thu, 12 Nov 2026 15:30:22 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Putin suggests no Ukraine compromise in meeting with US envoys",
+   "url": "https://www.rapporteur.com/news/putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys/",
+   "content": "The Russian president says he will not water down his demands to control parts of Ukraine",
+   "published_date": "Thu, 12 Nov 2026 15:06:32 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The EU Data Act: Vehicle data access is changing, but is it working?",
+   "url": "https://www.rapporteur.com/video/the-eu-data-act-vehicle-data-access-is-changing-but-is-it-working/",
+   "content": "The EU Data Act and the revised Annex X to the Type-Approval Regulation are reshaping the rules governing access to vehicle data and functions. But how effectively are these rules working in practice? A new study prepared for FIA Region I by SBD Automotive examines how Europe’s leading carmakers are implementing these requirements, identifying persistent […]",
+   "published_date": "Thu, 12 Nov 2026 15:00:06 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang resigns",
+   "url": "https://www.rapporteur.com/news/nvidia-ceo-jensen-huang-resigns/",
+   "content": "Chief financial officer Colette Kress will serve as interim CEO",
+   "published_date": "Thu, 12 Nov 2026 14:46:59 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "MEPs push for national branding in EU food promotion campaigns",
+   "url": "https://www.rapporteur.com/news/meps-push-for-national-branding-in-eu-food-promotion-campaigns/",
+   "content": "Parliament also called on the Commission not to discriminate against meat, dairy and wine in campaigns",
+   "published_date": "Thu, 12 Nov 2026 14:34:43 +0000",
+   "score": 0.6
+  },
+  {
    "title": "MEPs target ‘sin industries’ in EU cancer plan vote",
    "url": "https://www.rapporteur.com/news/meps-target-sin-industries-in-eu-cancer-plan-vote/",
    "content": "Right-wing attempts to water down the text were rejected",
@@ -139,76 +209,6 @@
    "url": "https://www.rapporteur.com/news/defend-incoming-fuel-carbon-price-merz-tells-von-der-leyen/",
    "content": "German chancellor takes aim at resistance to carbon pricing from eastern EU countries",
    "published_date": "Thu, 12 Nov 2026 03:30:05 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine war could end this winter, says Lithuania",
-   "url": "https://www.rapporteur.com/news/ukraine-war-could-end-this-winter-says-lithuania/",
-   "content": "Taurimas Valys tells Rapporteur that Ukraine should not be considered ‘expenditure’ but rather ‘a pure asset’ for the EU",
-   "published_date": "Thu, 12 Nov 2026 03:00:42 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Has Europe reached peak unity?",
-   "url": "https://www.rapporteur.com/opinion/has-europe-reached-peak-unity/",
-   "content": "Have we reached the high-water mark of European unity? If so, are we making the most of it?",
-   "published_date": "Thu, 12 Nov 2026 03:00:31 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU Inc set to miss 2026 deadline as Parliament talks falter again",
-   "url": "https://www.rapporteur.com/news/eu-inc-set-to-miss-2026-deadline-as-parliament-talks-falter-again/",
-   "content": "Lawmakers fail to find deal on workers’ rights for third time",
-   "published_date": "Wed, 11 Nov 2026 23:20:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Finland, Estonia push Europe to compete in frontier AI",
-   "url": "https://www.rapporteur.com/news/finland-estonia-push-europe-to-compete-in-frontier-ai/",
-   "content": "Countries urge to channel savings into funding tech growth ahead of AI meeting",
-   "published_date": "Wed, 11 Nov 2026 22:36:42 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "US envoys to meet Putin, Zelenskyy after war talks in Abu Dhabi",
-   "url": "https://www.rapporteur.com/news/us-envoys-to-meet-putin-zelenskyy-after-war-talks-in-abu-dhabi-2/",
-   "content": "Zelenskyy welcomed a \"change in tone\" from the US on the prospect of Europe's inclusion in the Washington-mediated talks",
-   "published_date": "Wed, 11 Nov 2026 22:10:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EXCLUSIVE: Commission rebuffs Parliament on wastewater rules",
-   "url": "https://www.rapporteur.com/news/exclusive-commission-rebuffs-parliament-on-wastewater-rules/",
-   "content": "MEP Oliver Schenk accuses the Commission of “regulatory stubbornness” over its refusal to revisit the rules",
-   "published_date": "Wed, 11 Nov 2026 17:37:30 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Spain probes TikTok over child sexual abuse material",
-   "url": "https://www.rapporteur.com/news/spain-probes-tiktok-over-child-sexual-abuse-material/",
-   "content": "Spanish minister calls for platform's suspension following damning investigation",
-   "published_date": "Wed, 11 Nov 2026 16:27:55 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Von der Leyen endorses Turkish push for global electrification goal",
-   "url": "https://www.rapporteur.com/news/von-der-leyen-endorses-turkish-push-for-global-electrification-goal/",
-   "content": "The European Commission chief stopped short of insisting that electrification must be ‘clean'",
-   "published_date": "Wed, 11 Nov 2026 16:15:58 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Germany must rein in debt-fuelled defence spending: experts",
-   "url": "https://www.rapporteur.com/news/germany-must-rein-in-debt-fuelled-defence-spending-experts/",
-   "content": "The top EU economy is pouring huge sums into bolstering its long-neglected armed forces to face a hostile Russia",
-   "published_date": "Wed, 11 Nov 2026 15:53:08 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Tens of thousands attend Polish nationalist march days after shootings",
-   "url": "https://www.rapporteur.com/news/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings/",
-   "content": "The event is held each 11 November to commemorate the end in 1918 of 123 years of partition by Russia, Prussia and Austria",
-   "published_date": "Wed, 11 Nov 2026 15:36:03 +0000",
    "score": 0.6
   }
  ],
