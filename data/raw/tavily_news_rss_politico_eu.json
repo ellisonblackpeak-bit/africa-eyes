@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "European citizens overwhelmingly back creation of an EU army, survey finds",
+   "url": "https://www.politico.eu/article/european-citizens-overwhelmingly-back-creation-of-an-eu-army-survey-finds/",
+   "content": "More than seven in 10 support a European army, while nearly eight in 10 want stronger European defense capabilities, according to GLOBSEC's 2026 Trends report.",
+   "published_date": "Fri, 13 Nov 2026 06:00:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Comment l’influenceuse complotiste Candace Owens a fait de l’infox sur Brigitte Macron un phénomène mondial",
    "url": "https://www.politico.eu/article/comment-linfluenceuse-complotiste-candace-owens-a-fait-de-linfox-sur-brigitte-macron-un-phenomene-mondial/",
    "content": "L’Américaine a fait de cette théorie du complot un podcast à plus de 30 millions de vues. Elle est aujourd’hui au centre d’une bataille judiciaire inédite portée par le couple Macron.",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/jensen-huang-fall-exposes-eu-leaders-ai-nvidia-european-council/",
    "content": "European leaders are meeting for their first conversation on AI with the tech world in tumult.",
    "published_date": "Thu, 12 Nov 2026 22:53:46 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Not even old Andalusian heartlands can save Pedro Sánchez",
-   "url": "https://www.politico.eu/article/pedro-sanchez-uphill-battle-to-win-back-the-socialists-andalusian-heartland/",
-   "content": "Spain’s most populous region powered the Socialists for decades, but the politics of the south are changing.",
-   "published_date": "Thu, 12 Nov 2026 20:45:45 +0000",
    "score": 0.6
   }
  ],

@@ -2,10 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Chinese Battery Firms Restructure Overseas Operations to Navigate US Restrictions < Battery < 기사본문 - The Elec Inc.",
-   "url": "https://www.thelec.net/news/articleView.html?idxno=15549",
-   "snippet": "CNGR is expanding its business through South Korean listed company Pino. Previously a telecommunications equipment company, Pino shifted to battery materials after being acquired by CNGR. It has also strengthened its position by establishing a joint venture with POSCO Future M. The company reduced Chinese ownership by attracting South Korean investors, including Samsung SDI and Cosmo Advanced Mate",
-   "published": "Thu, 12 Nov 2026 08:37:32 GMT",
+   "title": "South Korea's shrinking workforce opens factory doors to Chinese humanoid robots",
+   "url": "https://www.thecooldown.com/green-tech/south-korea-chinese-humanoid-robots-factory",
+   "snippet": "Four Chinese companies — UBTech Robotics, AgiBot, Unitree Robotics, and Anyverse Dynamics — are pursuing the South Korean market, according to The Gadgeteer. A domestic supplier that can produce humanoids at scale is missing, despite the country's capacity to invest in automation. [...] Shenzhen-based UBTech, which is listed in Hong Kong, began selling robots to South Korean buyers in 2019. The co",
+   "published": "Mon, 09 Nov 2026 04:20:00 GMT",
    "source": "tavily"
   },
   {
@@ -13,13 +13,6 @@
    "url": "https://www.koreajoongangdaily.com/business/us-push-to-tighten-chip-restrictions-on-china-could-make-korea-collateral-damage/12970540",
    "snippet": "SK hynix reportedly intends to channel earnings from its expanded Chinese operations into a new manufacturing plant in New York state.\n\nWashington is effectively blocking the very production expansion that could help finance the U.S. investments it demands. The Korean government reportedly views the restrictions as part of a broader effort to contain China and is working behind the scenes to help ",
    "published": "Thu, 12 Nov 2026 10:03:41 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "South Korea expands consumer goods exports to China through new trade deals | Asian Business Review",
-   "url": "https://asianbusinessreview.com/news/south-korea-expands-consumer-goods-exports-china-through-new-trade-deals",
-   "snippet": "During the ninth Korea–China (Shandong) Economic and Trade Cooperation Exchange in Yantai, Shandong Province, on 6 November 2026, 28 Korean consumer goods companies held more than 200 export consultations with Chinese buyers.\n\nThe consultations resulted in three export agreements covering products such as Kwangcheonkim seaweed and microbiome-based health foods.\n\nThey also led to 18 cooperation mem",
-   "published": "Wed, 11 Nov 2026 02:52:33 GMT",
    "source": "tavily"
   },
   {
@@ -37,6 +30,20 @@
    "source": "tavily"
   },
   {
+   "title": "How South Korea can curb Pyongyang’s job scams in Laos, weapons programmes",
+   "url": "https://www.scmp.com/week-asia/politics/article/3374220/how-south-korea-can-curb-pyongyangs-job-scams-laos-weapons-programmes",
+   "snippet": "“Laos sits on a large supply of rare earths, which South Korea needs for its industrial policy and defence sector. Chinese investment in Laotian critical minerals sector is quite high, and Vientiane does not want to become a Chinese dependency,” Young said. [...] With South Korea having already invested billions of dollars in Laos, along with the prospect of further investments, Seoul could wield ",
+   "published": "Thu, 12 Nov 2026 10:05:03 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Nvidia's shares slide as chip giant probes CEO over spy claims | Reuters",
+   "url": "https://www.reuters.com/world/asia-pacific/south-korea-says-nvidia-issues-wont-affect-contracted-gpu-supplies-2026-11-09",
+   "snippet": "Shares in Nvidia's key Asian chip suppliers rebounded ‌on Monday ⁠after last week's selloff of AI-related stocks, with TSMC (2330.TW) closing 4.7% higher, while Samsung Electronics (005930.KS) and SK Hynix (000660.KS) ending up 0.6% and 0.4%, respectively. [...] The fallout of the probe extended to South ​Korea, where Madison Huang, Huang's daughter and an Nvidia executive, canceled a planned visi",
+   "published": "Mon, 09 Nov 2026 15:21:35 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Weekly Global Economic Update | Deloitte Insights",
    "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
    "snippet": "On the other hand, much of that equipment was imported. In fact, real imports of goods grew at an annual rate of 26.4%, subtracting 2.6 percentage points from GDP growth. This demonstrates how the AI buildout is having a strong, positive impact on many US trading partners. Separately, we have seen strong export growth in such countries as Japan, China, Taiwan, and South Korea, partly reflecting gl",
@@ -44,17 +51,17 @@
    "source": "tavily"
   },
   {
-   "title": "Proposed Outbound Investment Rule Bans Biotech and Chinese AI | Proskauer - Regulatory & Compliance - JDSupra",
-   "url": "https://www.jdsupra.com/legalnews/proposed-outbound-investment-rule-bans-3830087",
-   "snippet": "That means any Chinese company that builds its own model or builds agentic or other layers that extend a third-party model would be off-limits. Whether simply incorporating a third-party model into a commercial product constitutes “development” is unresolved. Notably, Treasury’s first penalty under the existing program involved an unnotified investment by a U.S. company’s foreign fund in a Chinese",
-   "published": "Thu, 12 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Weekly market commentary | BlackRock",
    "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary",
    "snippet": "The Forum came at a consequential juncture. After four years of an AI-driven bull market, markets have largely priced in the new regime of structurally higher interest rates we’ve talked about for five years. That makes the investment outlook less directional and more nuanced. Discussions ranged from shifting global capital flows and changing relationships between stocks, bonds and currencies to i",
    "published": "Mon, 09 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Emerging Market Equities: A More Resilient Growth Story",
+   "url": "https://www.marketsgroup.org/strategic-insights/emerging-market-equities-a-more-resilient-growth-story",
+   "snippet": "MetLife Investment Management serves institutional investors, investment consultants, and intermediaries globally by combining deep specialist expertise",
+   "published": "Thu, 12 Nov 2026 17:00:00 GMT",
    "source": "tavily"
   }
  ],

@@ -1,21 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Laos Adopts Five-Year Plan to Protect Migrant Workers",
-   "url": "https://laotiantimes.com/2026/11/12/laos-adopts-five-year-plan-to-protect-migrant-workers/",
-   "content": "Laos has approved a five-year migration plan aimed at protecting workers’ rights, improving access to decent jobs, and expanding social protection for people moving across its borders. The framework, endorsed in Vientiane Capital on 10 November, covers people entering, leaving, and passing through Laos. It aims to improve migration management and ensure people moving across […]",
-   "published_date": "Thu, 12 Nov 2026 06:22:51 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Lao Telecom Marks 30 Years of Growth With Ceremony in Vientiane",
-   "url": "https://laotiantimes.com/2026/11/12/lao-telecom-marks-30-years-of-growth-with-ceremony-in-vientiane/",
-   "content": "On 11 November, Lao Telecom Public Company celebrated its 30th anniversary with a ceremony in Vientiane, marking three decades since its founding on 11 November 1996. Deputy Prime Minister and Defense Minister General Khamlieng Outhakaysone and Deputy Prime Minister and Finance Minister Santiphab Phomvihane, who chairs the company’s Shareholders’ Council, led the guests. More than […]",
-   "published_date": "Thu, 12 Nov 2026 04:31:45 +0000",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",

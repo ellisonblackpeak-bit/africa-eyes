@@ -2,9 +2,23 @@
  "success": true,
  "results": [
   {
-   "title": "Microsoft struggles to repair global Outlook outage",
+   "title": "Who will inherit 007's licence to thrill? 'The world is not enough' in the hunt for James Bond",
+   "url": "https://www.france24.com/en/who-will-inherit-007-s-licence-to-thrill-the-world-is-not-enough-in-the-hunt-for-james-bond",
+   "content": "More than six decades after James Bond first appeared on the big screen, the search for Daniel Craig's successor has become a revealing debate about the future of one of cinema's most enduring, and endearing, franchises. \"From the cold-blooded sexual magnetism of Sean Connery to the more tongue-in-cheek take of Roger Moore, to Daniel Craig's gritty realism, there's really a James Bond for everyone.\" But who will inherit the licence to thrill? FRANCE 24's Emerald Maxwell takes us on this exciting edge-of-your-seat adventure with a \"view to a kill\". Should Bond remain faithful to his traditional identity, or reinvent himself to reflect changing attitudes towards gender, diversity and contemporary heroism?",
+   "published_date": "Fri, 13 Nov 2026 07:04:10 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "2027 AFCON Qualifiers: Top guns Senegal, Cameroon, Ivory Coast deliver",
+   "url": "https://www.france24.com/en/tv-shows/sports/20261113-2027-afcon-qualifiers-top-guns-senegal-cameroon-ivory-coast-deliver",
+   "content": "Africa's heavyweights are delivering in the 2027 AFCON qualifiers. Senegal marked Patrick Vieira's first home game with an emphatic win over Sudan, while Cameroon and Ivory Coast took further steps towards qualification.",
+   "published_date": "Fri, 13 Nov 2026 06:59:59 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Live: Microsoft says 'not aware of any malicious activity' behind global Outlook outage",
    "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
-   "content": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled to fix issues with some servers, hitting businesses and government agencies globally that use the popular platforms. The company blamed elevated infrastructure loads and said it was working to restore services.",
+   "content": "Microsoft's Outlook email service has been disrupted since late Thursday as the tech giant struggles to fix issues with its servers, hitting businesses and government agencies that use the popular work platforms in 74 countries and territories. The company said Friday it had not found any malicious activity causing the outage and blamed elevated infrastructure loads. Follow our liveblog for the latest updates.",
    "published_date": "Fri, 13 Nov 2026 03:44:22 GMT",
    "score": 0.6
   },
@@ -25,7 +39,7 @@
   {
    "title": "Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks",
    "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks",
-   "content": "US President ​Donald Trump's envoy ​and son-in-law Jared Kushner said on Thursday Russia and ​Ukraine ‌agreed ⁠to expand the next ‌round of talks to include ⁠European nations and that Washington was ​working toward what ‌Kushner called the war's \"largest prisoner exchange.\" Follow our liveblog for the latest updates.",
+   "content": "US envoy and President ​Donald Trump's son-in-law Jared Kushner said on Thursday Russia and ​Ukraine ‌agreed ⁠to expand the next ‌round of talks to include ⁠European nations, who will debate whether their envoy should be one individual or more and who should represent them at a summit in Dublin on Friday. Follow our liveblog for the latest updates.",
    "published_date": "Fri, 13 Nov 2026 01:39:42 GMT",
    "score": 0.6
   },
@@ -128,13 +142,6 @@
    "score": 0.6
   },
   {
-   "title": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
-   "url": "https://www.france24.com/en/video/20261112-winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
-   "content": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial demands, competing visions of European security and an increasingly unpredictable and pro-Moscow American approach to mediation. For Russia expert Mark Galeotti, Executive Director of Mayak Intelligence and Honorary Professor at University College London's School of Slavonic and East European Studies, Moscow's maximalist vision conceals a more complex negotiating strategy. \"The Russian approach is always to sound incredibly bullish and then make any concessions at the very last minute,\" he explains, suggesting that the Kremlin's uncompromising rhetoric should not necessarily be mistaken for an absolute refusal to negotiate. Yet the territorial dispute over Donbas presents a particularly formidable obstacle. Puti",
-   "published_date": "Thu, 12 Nov 2026 18:45:44 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
    "url": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
    "content": "The Israeli government said Thursday that it would ban far-left French leader Jean-Luc Mélenchon from entering the country after the French presidential contender said he would use French vessels to force aid into Gaza if he were elected. The announcement comes a day after France confirmed it had refused entry to the head of a body representing settlements in the occupied West Bank.",
@@ -160,13 +167,6 @@
    "url": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
    "content": "Russia's President Vladimir Putin indicated on Thursday, November 12, that the Kremlin would not compromise on its hardline demands to end the war in Ukraine, but offered a short-term ceasefire in a key frontline city during a meeting with US envoys. FRANCE 24's International Affairs Editor Philip Turle has more.",
    "published_date": "Thu, 12 Nov 2026 16:46:14 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-   "url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
-   "content": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the devastated Palestinian territory, a nine-month-old baby died from the cold as families flee worsening flooding.",
-   "published_date": "Thu, 12 Nov 2026 16:18:24 GMT",
    "score": 0.6
   }
  ],

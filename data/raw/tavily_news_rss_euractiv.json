@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "‘The European question’",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-the-european-question/",
+   "content": "Also, in Friday’s edition: AI is ‘flooding’ the institutions",
+   "published_date": "Fri, 13 Nov 2026 06:49:15 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Commission wavers over timeline for tobacco law proposal",
    "url": "https://www.rapporteur.com/news/commission-wavers-over-timeline-for-tobacco-law-proposal/",
    "content": "Commission spokesperson says the proposal will come 'as soon as possible', but gives no December date",
@@ -184,7 +191,7 @@
    "score": 0.6
   },
   {
-   "title": "Democrat Senator eyes EU-style carbon price",
+   "title": "Democratic senator eyes EU-style carbon price",
    "url": "https://www.rapporteur.com/news/democrat-senator-sees-midterm-win-as-chance-to-push-for-a-us-carbon-price/",
    "content": "Sheldon Whitehouse sees midterms win as chance to make American firms pay for their emissions",
    "published_date": "Thu, 12 Nov 2026 12:14:47 +0000",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/opinion/europes-next-quick-win-procurement-that-rewards-impact-driven-businesses/",
    "content": "Written by Carlota de Paula Coelho. Europe’s sustainability agenda is now framed around competitiveness, resilience and simplification. For many businesses that have spent years investing in more responsible models, this shift can feel like a retreat. Whether this marks a change of course, a narrowing of political ambition or simply a shift in rhetoric remains […]",
    "published_date": "Thu, 12 Nov 2026 11:00:30 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine’s Starshield connection disrupted again, Zelenskyy says",
-   "url": "https://www.rapporteur.com/news/ukraines-starshield-connection-disrupted-again-zelenskyy-says/",
-   "content": "Similar to the first incident in October, a speed restriction has been imposed",
-   "published_date": "Thu, 12 Nov 2026 10:56:41 +0000",
    "score": 0.6
   }
  ],

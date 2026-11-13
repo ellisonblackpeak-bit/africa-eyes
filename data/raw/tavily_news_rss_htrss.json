@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Microsoft outage affects communication channels of Air India, Akasa, IndiGo airlines; advisories issued",
+   "url": "https://www.hindustantimes.com/india-news/microsoft-outage-affects-communication-channels-several-indian-airlines-indigo-air-india-advisory-issued-101794551225027.html",
+   "content": "The airlines advised passengers to use alternative customer care channels as they monitored the impact of the global technology disruption.",
+   "published_date": "Fri, 13 Nov 2026 13:44:20 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India's ethanol capacity can boost SAF production, but policy gaps a hurdle: AIDA's Bharati Balaji | HT interview",
+   "url": "https://www.hindustantimes.com/india-news/indias-ethanol-capacity-can-boost-saf-production-but-policy-gaps-a-hurdle-aidas-bharati-balaji-ht-interview-101794553280393.html",
+   "content": "In an interview with Hindustan Times, Bharati Balaji said that not feedstock availability but policy is the biggest challenge.",
+   "published_date": "Fri, 13 Nov 2026 13:15:28 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "From landscaped gardens to promenades: Hathi Ghat near Delhi's ITO set for a makeover",
+   "url": "https://www.hindustantimes.com/india-news/from-landscaped-gardens-to-promenades-hathi-ghat-near-delhis-ito-set-for-a-makeover-101794552117179.html",
+   "content": "The project will cover around 20,234 square metres, with a riverfront stretch of approximately 200-300 metres.",
+   "published_date": "Fri, 13 Nov 2026 12:28:16 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Bengaluru to have India's second-largest Metro network as Pink Line set for inauguration: Key details",
+   "url": "https://www.hindustantimes.com/india-news/bengalurus-pink-line-to-connect-bannerghatta-road-to-electronic-city-corridor-details-metro-narendra-modi-101794548671778.html",
+   "content": "Namma Metro's Pink Line will open to the public at 6 am on November 14.",
+   "published_date": "Fri, 13 Nov 2026 11:46:44 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Dubai airport operator stops SpiceJet check-in over non-payment of around ₹35.85 crore",
+   "url": "https://www.hindustantimes.com/india-news/dubai-airports-stops-spicejet-s-check-in-services-over-non-payment-of-around-35-85-crore-101794550478664.html",
+   "content": "Dubai Airports allowed check-in for flights to Ahmedabad and Delhi before the suspension took effect on November 12",
+   "published_date": "Fri, 13 Nov 2026 11:44:38 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Delhi defence firm founder receives ₹5 crore demand and death threat from Rohit Godara gang, complaint filed",
    "url": "https://www.hindustantimes.com/india-news/delhi-defence-firm-founder-receives-5-crore-demand-and-death-threat-from-rohit-gandara-gang-complaint-filed-101794543047708.html",
    "content": "The complainant is the founder and managing director of the defence company which works with central security agencies.",
@@ -146,48 +181,6 @@
    "url": "https://www.hindustantimes.com/india-news/delhi-hc-questions-eligibility-interpretations-slams-rejection-of-nursing-post-application-101794465308695.html",
    "content": "The court said the Staff Selection Commission adopted a legally unsustainable and unnecessarily myopic view",
    "published_date": "Thu, 12 Nov 2026 12:05:08 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Why rising ammonia in Yamuna threatens Delhi’s drinking water supply",
-   "url": "https://www.hindustantimes.com/india-news/why-rising-ammonia-in-yamuna-threatens-delhi-s-drinking-water-supply-101794462649799.html",
-   "content": "High ammonia concentrations indicate pollutants and make the water more difficult to treat for drinking.",
-   "published_date": "Thu, 12 Nov 2026 11:57:57 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "West Bengal hijack hoax accused held; cites ailing wife, foreign posting",
-   "url": "https://www.hindustantimes.com/india-news/passenger-held-over-hijack-threat-to-mumbai-bound-air-india-flight-at-kolkata-airport-101794459548496.html",
-   "content": "The incident involved Air India flight AI 2772, an Airbus A320 (VT-TNH), which was scheduled to depart for Mumbai on Wednesday morning.",
-   "published_date": "Thu, 12 Nov 2026 10:33:20 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "63-year-old man in Delhi gets 20-year jail term for repeatedly raping minor girl",
-   "url": "https://www.hindustantimes.com/india-news/63yearold-man-in-delhi-gets-20-year-jail-term-for-repeatedly-raping-minor-girl-101794457283822.html",
-   "content": "The court also imposed a total fine of ₹1.10 lakh on the convict under several sections of POCSO and BNS.",
-   "published_date": "Thu, 12 Nov 2026 09:54:30 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "There’ll have to be review of US-India ties: House of Representatives member-elect Amish Shah",
-   "url": "https://www.hindustantimes.com/india-news/therell-have-to-be-review-of-us-india-ties-house-of-representatives-member-elect-amish-shah-101794453607343.html",
-   "content": "Amish Shah flipped Arizona’s 1st congressional district, one of the most watched races of the US midterm elections",
-   "published_date": "Thu, 12 Nov 2026 08:51:00 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Indian-American astronaut Sunita Williams honoured as Grand Marshal of New York Veterans Parade",
-   "url": "https://www.hindustantimes.com/india-news/indian-american-astronaut-sunita-williams-honoured-as-grand-marshal-of-new-york-veterans-parade-101794452783863.html",
-   "content": "Sunita Williams previously made headlines when a scheduled eight-day space expedition transformed into an extended nine-month odyssey.",
-   "published_date": "Thu, 12 Nov 2026 08:43:08 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Sourabh Chandrakar: CBI likely to seek further custody today; ED may have to wait",
-   "url": "https://www.hindustantimes.com/india-news/sourabh-chandrakar-cbi-likely-to-seek-further-custody-today-ed-may-have-to-wait-101794452526447.html",
-   "content": "According to ED, Mahadev began its illegal operations in 2019-20 and continues to run across India, despite ban on multiple apps linked to the racket",
-   "published_date": "Thu, 12 Nov 2026 08:32:06 +0530",
    "score": 0.6
   }
  ],
