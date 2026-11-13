@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Tanker collides with New Orleans river cruise carrying 129 passengers, rescue operation underway",
+   "url": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
+   "content": "A tanker struck and partially submerged a New Orleans river cruise carrying around 129 passengers. Multiple people were rescued as search-and-rescue operations continued.",
+   "published_date": "Fri, 13 Nov 2026 22:04:32 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Russia sends major business delegation to Kabul for business talks with the Taliban",
    "url": "https://www.euronews.com/2026/11/13/russia-sends-major-business-delegation-to-kabul-for-business-talks-with-the-taliban",
    "content": "A Russian deputy prime minister led a 70-strong Russian delegation to Afghanistan, pursuing deals on transport, logistics, agriculture, and health products with the Taliban.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/12/slovenia-red-bull-human-catapult-sets-two-guinness-world-records",
    "content": "Two BASE jumpers made history in Trbovlje, Slovenia, after being launched into the sky from a 360-metre industrial chimney using what organisers describe as the world's largest human catapult.",
    "published_date": "Thu, 12 Nov 2026 12:50:32 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 12th, 2026 – Midday",
-   "url": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Thu, 12 Nov 2026 12:00:15 +0100",
    "score": 0.6
   }
  ],

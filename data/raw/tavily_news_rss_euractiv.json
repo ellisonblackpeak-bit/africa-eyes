@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "All departing US flights grounded due to communication problem",
+   "url": "https://www.rapporteur.com/news/all-departing-us-flights-grounded-due-to-communication-problem/",
+   "content": "Homeland Security chief says no indication aviation ground stop triggered by threat to US",
+   "published_date": "Fri, 13 Nov 2026 22:05:43 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Von der Leyen will present ‘ambitious proposal’ to fund tech sovereignty",
    "url": "https://www.rapporteur.com/news/von-der-leyen-will-present-ambitious-proposal-to-fund-tech-sovereignty/",
    "content": "Pitch to come at next meeting of EU leaders",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/kyiv-seeks-eu-farm-aid-as-exports-falter/",
    "content": "Millions of hectares could go unplanted in the grain powerhouse",
    "published_date": "Fri, 13 Nov 2026 03:00:17 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "AI is making the EU institutions hallucinate",
-   "url": "https://www.rapporteur.com/news/ai-is-making-the-eu-institutions-hallucinate/",
-   "content": "As European leaders discuss the revolutionary technology, institutions struggle to manage the new workload",
-   "published_date": "Fri, 13 Nov 2026 03:00:14 +0000",
    "score": 0.6
   }
  ],
