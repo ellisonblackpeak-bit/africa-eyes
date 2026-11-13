@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "EU deal on Ukraine talks overshadows AI-focused summit in Dublin",
+   "url": "https://www.politico.eu/article/eu-deal-on-ukraine-talks-overshadows-ai-focused-summit-in-dublin/",
+   "content": "EU leaders have agreed that the E5 format — Germany, France, U.K, Italy and Poland — plus the European Commission and Council will represent the bloc at any future peace negotiations.",
+   "published_date": "Fri, 13 Nov 2026 19:10:16 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Why Europe failed to find a superhero to take on Putin",
+   "url": "https://www.politico.eu/article/why-europe-failed-to-find-a-superhero-to-take-on-vladimir-putin/",
+   "content": "Europe’s seven-part team of Ukraine peace envoys must now agree their strategy for handling Russia.",
+   "published_date": "Fri, 13 Nov 2026 18:14:04 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Le Pen offers to meet Zelenskyy in Brussels",
+   "url": "https://www.politico.eu/article/france-marine-le-pen-offers-to-meet-ukraine-volodymyr-zelenskyy-in-brussels/",
+   "content": "The Ukrainian leader wants to persuade the far-right leader to continue supporting Ukraine if she becomes president of France.",
+   "published_date": "Fri, 13 Nov 2026 18:07:50 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Microsoft outage renews European calls to detox from US tech",
    "url": "https://www.politico.eu/article/microsoft-outage-renews-european-calls-to-detox-from-us-tech/",
    "content": "Lawmakers across Europe call for action to reduce reliance on a handful of foreign tech companies.",
@@ -48,27 +69,6 @@
    "url": "https://www.politico.eu/article/eu-climate-chief-wopke-hoekstra-hints-bloc-may-drop-clean-power-push-at-cop31/",
    "content": "A \"certain degree of pragmatism\" on electrification is \"probably\" needed, Wopke Hoekstra told reporters at COP31.",
    "published_date": "Fri, 13 Nov 2026 13:17:38 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Tinder owner hit with €11M privacy fine",
-   "url": "https://www.politico.eu/article/tinder-owner-hit-with-e11m-privacy-fine/",
-   "content": "The Irish Data Protection Commission ruled that Tinder's \"Download My Data\" tool is not complaint with GDPR. The company plans to appeal.",
-   "published_date": "Fri, 13 Nov 2026 11:01:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "L’objectif de 1,5° de réchauffement est mort, mais personne ne veut l’enterrer",
-   "url": "https://www.politico.eu/article/lobjectif-de-15-de-rechauffement-est-mort-mais-personne-ne-veut-lenterrer/",
-   "content": "Les dirigeants présents à la COP31 s'attachent à cet objectif emblématique, même après que l'ONU et de nombreux scientifiques ont déclaré qu'il était impossible à atteindre.",
-   "published_date": "Fri, 13 Nov 2026 10:30:09 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Spain’s Sánchez laments potential for ‘planetary annihilation’",
-   "url": "https://www.politico.eu/article/sanchez-laments-potential-for-planetary-annihilation/",
-   "content": "The Spanish leader urges major reform of the United Nations and warns that the EU's embrace of “war preparedness” is feeding “a dangerous militaristic mindset.”",
-   "published_date": "Fri, 13 Nov 2026 09:00:00 +0000",
    "score": 0.6
   }
  ],

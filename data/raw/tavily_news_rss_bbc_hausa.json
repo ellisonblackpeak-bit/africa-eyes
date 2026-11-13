@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "'Har yanzu ba a kawo ƙarshen kashe Kiristoci a Najeriya ba'",
+   "url": "https://www.bbc.co.uk/hausa/live/cmde1n300dy6t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 13/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda wani mutum ya haɗiye buroshi yayin da yake wanke baki",
+   "url": "https://www.bbc.com/hausa/articles/cvp86e473knro?at_medium=RSS&at_campaign=rss",
+   "content": "Akwai mamaki a ji cewa buroshi ya sulale daga hannun mutum yayin da yake wanke baki, har ya shiga cikinsa. To amma tabbas irin wannan lamari ya faru da wani mutum kuma har likitoci sun yi nasarar cire buroshin mai tsawon santimita 19 ba tare da yi masa tiyata ba.",
+   "published_date": "Fri, 13 Nov 2026 18:00:39 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Wane ne Faisal Maina da kotu ta yanke wa hukuncin ɗaurin shekaru bakwai?",
    "url": "https://www.bbc.com/hausa/articles/cqm259xjlr3xo?at_medium=RSS&at_campaign=rss",
    "content": "EFCC ta nemi kotun ta bayar da izinin tura Faisal zuwa hukumar kula da gidajen gyaran hali ta Najeriya domin aiwatar da hukuncin da aka yanke masa kan halatta kuɗaɗen haram da kuma rashin bayyana dukkan kadarorinsa a fom ɗin bayyana kadarori.",
    "published_date": "Fri, 13 Nov 2026 16:13:14 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Amurka ta musanta ikirarin Iran na kai hari sansaninta a Bahrain",
-   "url": "https://www.bbc.co.uk/hausa/live/cmde1n300dy6t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 13/11/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Abin da muka sani kan harin da aka kai wa tawagar Pantami a Gombe",
-   "url": "https://www.bbc.com/hausa/articles/cqkg5jkr07k7o?at_medium=RSS&at_campaign=rss",
-   "content": "Lamarin na zuwa ne a lokacin da Pantami ke shirin halartar wani babban taro yaƙin neman zaɓe da aka shirya masa a unguwar Jekada fari da ke tsakiyar birnin Gombe",
-   "published_date": "Thu, 12 Nov 2026 12:18:49 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -72,7 +72,7 @@
    "score": 0.6
   },
   {
-   "title": "Man Utd ta naɗa Pochettino a matsayin sabon mai horsawa",
+   "title": "Afcon 2027: Super Eagles ta samu gagarumar nasara a kan Tanzania",
    "url": "https://www.bbc.co.uk/hausa/live/c6pvgv474vxet?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 9 zuwa 14 ga watan Nuwambar 2026",
    "published_date": "",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Abin da muka sani kan harin da aka kai wa tawagar Pantami a Gombe",
+   "url": "https://www.bbc.com/hausa/articles/cqkg5jkr07k7o?at_medium=RSS&at_campaign=rss",
+   "content": "Lamarin na zuwa ne a lokacin da Pantami ke shirin halartar wani babban taro yaƙin neman zaɓe da aka shirya masa a unguwar Jekada fari da ke tsakiyar birnin Gombe",
+   "published_date": "Thu, 12 Nov 2026 12:18:49 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmz6564qe09xo?at_medium=RSS&at_campaign=rss",
    "content": "Wannan ba yana nufin cewa mutane za su daina haihuwa gaba ɗaya ba. Sai dai hanyoyin samun yara zai sauya sakamakon cigaban kimiyya.",
    "published_date": "Tue, 10 Nov 2026 16:11:12 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abubuwa 5 da ke iza wutar rikicin manoma da makiyaya a ƙarshen damina",
-   "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
-   "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
-   "published_date": "Tue, 10 Nov 2026 11:33:44 GMT",
    "score": 0.6
   }
  ],
