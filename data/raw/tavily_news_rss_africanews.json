@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "US: New Congress members pose for traditional photo at Capitol",
+   "url": "http://www.africanews.com/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol/",
+   "content": "Newly elected US lawmakers gathered on Capitol Hill on Thursday 12 November for a traditional group photograph ahead of the opening of the 120th Congress. The incoming House members are attending orientation following the November midterm elections.",
+   "published_date": "Thu, 12 Nov 2026 23:08:13 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The Gambia's electoral commission announces 5 candidates for presidential poll",
+   "url": "http://www.africanews.com/2026/11/12/the-gambias-electoral-commission-announces-5-candidates-for-presidential-poll/",
+   "content": "The Gambia’s electoral commission has confirmed five candidates for next month’s presidential election. They include incumbent Adama Barrow who is running for a third term despite initially promising not to do so. It’s not clear whether more candidates are still to be named.",
+   "published_date": "Thu, 12 Nov 2026 21:35:35 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "47th edition of Cairo International Film Festival gets underway in shadow of war",
+   "url": "http://www.africanews.com/2026/11/12/47th-edition-of-cairo-international-film-festival-gets-underway-in-shadow-of-war/",
+   "content": "The 47th Cairo International Film Festival got underway on Wednesday in the Egyptian capital. The event brings together filmmakers, actors and other prominent figures from around the world. This year’s festival is taking place under the shadow of the Middle East war.",
+   "published_date": "Thu, 12 Nov 2026 21:29:36 +0000",
+   "score": 0.6
+  },
+  {
    "title": "'Nothing will stop us,' Nigerian opposition leader vows after campaign event attack",
    "url": "http://www.africanews.com/2026/11/12/nothing-will-stop-us-nigerian-opposition-leader-vows-after-campaign-event-attack/",
    "content": "Violence broke out in Lagos on Thursday as members of the opposition Nigeria Democratic Congress gathered for a town hall meeting. Participants were forced to flee as suspected protesters armed with sticks, machetes and axes tried to force themselves into the event.",
@@ -188,27 +209,6 @@
    "url": "http://www.africanews.com/2026/11/11/world-leaders-face-pressure-to-act-at-cop31-as-climate-warnings-intensify/",
    "content": "World leaders are gathering in Turkey for COP31, as pressure mounts for urgent action on climate change.",
    "published_date": "Wed, 11 Nov 2026 17:18:14 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "United States warns Madagascar over growing security ties with Russia",
-   "url": "http://www.africanews.com/2026/11/11/united-states-warns-madagascar-over-growing-security-ties-with-russia/",
-   "content": "The deputy head of US Africa Command said similar partnerships with military-led governments in Africa have failed to improve security.",
-   "published_date": "Wed, 11 Nov 2026 17:20:31 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Russian and Ukrainian negotiators report some progress in peace talks",
-   "url": "http://www.africanews.com/2026/11/11/russian-and-ukrainian-negotiators-report-some-progress-in-peace-talks/",
-   "content": "They agreed to an exchange of prisoners of war, but there was no major breakthrough on ending the conflict that began with Moscow’s invasion in 2022.",
-   "published_date": "Wed, 11 Nov 2026 16:09:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Kenya discharges last Ebola patient, begins 42-day countdown to being declared Ebola-free",
-   "url": "http://www.africanews.com/2026/11/11/kenya-discharges-last-ebola-patient-begins-42-day-countdown-to-being-declared-ebola-free/",
-   "content": "Kenya has discharged its last Ebola patient, triggering a crucial 42-day countdown to being declared Ebola-free.",
-   "published_date": "Wed, 11 Nov 2026 15:44:14 +0000",
    "score": 0.6
   }
  ],
