@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "ASEAN who’s who: Regional, global leaders converge in Manila for year-end summit",
+   "url": "https://www.rappler.com/philippines/asean-summit-who-coming-manila/",
+   "content": "The Philippines wraps up chairmanship of ASEAN with a days-long summit that will see world leaders converge in Manila",
+   "published_date": "Fri, 13 Nov 2026 09:30:00 +0800",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",
