@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Floating nuclear power plant 'has boosted air quality'",
-   "url": "https://www.world-nuclear-news.org/articles/floating-nuclear-power-plant-has-boosted-air-quality",
-   "content": "An environmental monitoring report for Russia's floating nuclear power plant suggests that emissions have fallen almost 80% since it started supplying heating in the area in 2022.",
-   "published_date": "Fri, 30 Oct 2026 11:42:10 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Russia proposes carbon credits framework for SMRs",
    "url": "https://www.world-nuclear-news.org/articles/russia-proposes-carbon-credits-framework-for-smrs",
    "content": "An international methodology to allow small modular reactors to qualify for carbon credits under the terms of the Paris Agreement has been proposed to the UN's climate/COP secretariat by Russia's state nuclear corporation Rosatom.",
@@ -170,20 +163,6 @@
    "score": 0.6
   },
   {
-   "title": "Game of Thrones actor aims to highlight Chernobyl's need for international support",
-   "url": "https://www.world-nuclear-news.org/articles/game-of-thrones-actor-aims-to-highlight-chernobyls-need-for-international-support",
-   "content": "Danish actor and United Nations Goodwill Ambassador Nikolaj Coster-Waldau has visited the Chernobyl nuclear power plant site, for a project which \"aims to draw international attention to the need for support in restoring the New Safe Confinement, protecting the environment and ensuring radiation safety\".",
-   "published_date": "Fri, 30 Oct 2026 10:10:34 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Cernavoda units remain shut down due to Danube water levels",
-   "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-remain-offline-due-to-danube-water-levels",
-   "content": "Romania's Nuclearelectrica says that although there has been a recent rise in the local water level in the River Danube, current forecasts do not yet support a decision to restart the units.",
-   "published_date": "Fri, 30 Oct 2026 11:12:39 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Algae early-warning system aims to offer safety, operational benefits",
    "url": "https://www.world-nuclear-news.org/articles/algae-early-warning-system-aims-to-offer-safety-operational-benefits",
    "content": "An AI-based system has been developed to anticipate the arrival of floating vegetation masses at the cooling system of the Ascó Nuclear Power Plant in Spain, and is a significant advance on traditional visual inspection methods, say its creators, GDES and plant operator ANAV.",
@@ -209,6 +188,27 @@
    "url": "https://www.world-nuclear-news.org/articles/us-issues-landmark-construction-permit-for-texas-smr-plant",
    "content": "The US Nuclear Regulatory Commission has issued a construction permit for the proposed plant featuring four Xe-100 small modular reactor units at Dow's Seadrift site - the first construction permit for a high-temperature gas-cooled reactor issued in the USA in nearly 60 years.",
    "published_date": "Tue, 10 Nov 2026 15:56:26 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "IAEA reviews Jordan's nuclear regulatory framework",
+   "url": "https://www.world-nuclear-news.org/articles/iaea-reviews-jordans-nuclear-regulatory-framework",
+   "content": "Jordan has a \"well-established regulatory framework for nuclear and radiation safety\", an International Atomic Energy Agency mission has said, while also suggesting further enhancements in line with international safety standards.",
+   "published_date": "Wed, 11 Nov 2026 08:49:55 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US test reactor cleared for operations",
+   "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+   "content": "Oklo's Groves Isotope Test Reactor has been cleared for unrestricted operations by the US Department of Energy.",
+   "published_date": "Thu, 12 Nov 2026 07:30:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Belgian nuclear power plant negotiations extended",
+   "url": "https://www.world-nuclear-news.org/articles/belgian-nuclear-power-plant-negotiations-extended",
+   "content": "The Belgian state, Engie and Electrabel have agreed to postpone to 12 December the target date for the conclusion of the heads of terms for the potential acquisition of Belgium's seven nuclear power reactors by the state.",
+   "published_date": "Thu, 05 Nov 2026 12:24:40 GMT",
    "score": 0.6
   }
  ],

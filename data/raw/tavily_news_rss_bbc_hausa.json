@@ -2,7 +2,14 @@
  "success": true,
  "results": [
   {
-   "title": "Za mu bi umarnin kotu kan takarar Atiku - INEC",
+   "title": "Me kalaman shugaban INEC ke nufi kan takarar Atiku a 2027?",
+   "url": "https://www.bbc.com/hausa/articles/c6742902r7pro?at_medium=RSS&at_campaign=rss",
+   "content": "Da yake jawabi a cibiyar Chatham House da ke birnin Landan a ranar Alhamis, Amupitan ya amsa wasu tambayoyi da aka yi masa kan takarar Atiku a 2027 la'akari da hukuncin babbar kotun tarayya na makon da ya gabata.",
+   "published_date": "Fri, 13 Nov 2026 11:41:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Iran ta ce ta kai hari kan sansanin sojin Amurka da ke Bahrain",
    "url": "https://www.bbc.co.uk/hausa/live/cmde1n300dy6t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 13/11/2026",
    "published_date": "",
@@ -13,13 +20,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmkgk0zq194po?at_medium=RSS&at_campaign=rss",
    "content": "Dama dai Musulmai suna da masaniya daga nassi daban-daban cewa za a yi tashin duniya ne a ranar Juma'a ne, sai ga shi kuma ranar 13 ta faɗo daidai da wannan rana ta Juma'a, amma dai babu tabbas a kai.",
    "published_date": "Fri, 13 Nov 2026 03:55:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Man United da Man City na hamayya kan Gusto, Liverpool na neman Vuskovic",
-   "url": "https://www.bbc.com/hausa/articles/c8qlqvdz7904o?at_medium=RSS&at_campaign=rss",
-   "content": "Manchester United da Manchester City suna sha'awar ɗan wasan bayan Chelsea, Malo Gusto; Liverpool ta sanya Luka Vuskovic na Brighton cikin jerin ƴan wasan da take duba yiwuwar dauka, yayin da Leeds United ke son Will Lankshear na Middlesbrough.",
-   "published_date": "Fri, 13 Nov 2026 03:54:34 GMT",
    "score": 0.6
   },
   {
@@ -86,10 +86,10 @@
    "score": 0.6
   },
   {
-   "title": "Arsenal ta shiga zawarcin Scott, Manchester United na farautar ƴan wasan baya",
-   "url": "https://www.bbc.com/hausa/articles/ck3rgdz12vzyo?at_medium=RSS&at_campaign=rss",
-   "content": "Arsenal ta tuntuɓi Bournemouth game da ɗan wasan tsakiya Alex Scott, Manchester United ta ƙara sunayen masu tsaron baya biyu a jerin ƴan wasan da take son ɗauka, yayin da Aston Villa ke nazarin yiwuwar ɗaukar ɗan wasan tsakiya na Chelsea, Romeo Lavia.",
-   "published_date": "Thu, 12 Nov 2026 03:55:47 GMT",
+   "title": "Man United da Man City na hamayya kan Gusto, Liverpool na neman Vuskovic",
+   "url": "https://www.bbc.com/hausa/articles/c8qlqvdz7904o?at_medium=RSS&at_campaign=rss",
+   "content": "Manchester United da Manchester City suna sha'awar ɗan wasan bayan Chelsea, Malo Gusto; Liverpool ta sanya Luka Vuskovic na Brighton cikin jerin ƴan wasan da take duba yiwuwar dauka, yayin da Leeds United ke son Will Lankshear na Middlesbrough.",
+   "published_date": "Fri, 13 Nov 2026 03:54:34 GMT",
    "score": 0.6
   },
   {
@@ -97,13 +97,6 @@
    "url": "https://www.bbc.com/hausa/articles/c9n730xjl74xo?at_medium=RSS&at_campaign=rss",
    "content": "Najeriya wadda ta kafa tarihin zama kasar Afirka ta farko da ta kai wasan karshe a gasar, yanzu ta sake kafa tarihin zama ta farko daga Afirka da suka lashe ta.",
    "published_date": "Sat, 07 Nov 2026 22:17:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Chelsea na harin Boubacar Kamara, Liverpool na son Ronald Araujo",
-   "url": "https://www.bbc.com/hausa/articles/c6y9373d2r57o?at_medium=RSS&at_campaign=rss",
-   "content": "Ɗan wasan Aston Villa Boubacar Kamara na cikin ƴan wasan da Chelsea ke son ɗauka a kakar wasanni, sai Manchester United za ta iya sanya maƙudan kuɗaɗe wajen siyen ɗan wasan Nottingham Forest Murillo.",
-   "published_date": "Mon, 09 Nov 2026 04:06:49 GMT",
    "score": 0.6
   },
   {
@@ -209,6 +202,13 @@
    "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
    "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
    "published_date": "Tue, 10 Nov 2026 11:33:44 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Shugabannin Afrika 11 da suka yi zaman gidan yari kafin hawa mulki",
+   "url": "https://www.bbc.com/hausa/articles/cjn5v526elero?at_medium=RSS&at_campaign=rss",
+   "content": "An ɗaure yawancinsu ne saboda adawa da mulkin mallaka, yaƙi da kama ƙarya da kuma neman sauyi.",
+   "published_date": "Tue, 10 Nov 2026 04:17:21 GMT",
    "score": 0.6
   }
  ],

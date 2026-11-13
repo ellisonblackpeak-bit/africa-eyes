@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 13th, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Fri, 13 Nov 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "How a new ‘green energy corridor’ from the Caspian Sea could help Eastern Europe kick fossil fuels",
+   "url": "https://www.euronews.com/2026/11/13/how-a-new-green-energy-corridor-from-the-caspian-sea-could-help-eastern-europe-kick-fossil",
+   "content": "The partnership signed at the COP31 climate summit aims to transform Azerbaijan into an interregional electricity hub.",
+   "published_date": "Fri, 13 Nov 2026 11:56:07 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine: Russian drone attacks hit Kyiv hospital, leave two dead in Odesa",
+   "url": "https://www.euronews.com/video/2026/11/13/ukraine-russian-drone-attacks-hit-kyiv-hospital-leave-one-dead-in-odesa",
+   "content": "Russian overnight attacks on Ukraine killed at least two person in Odesa and injured another at a hospital in Kyiv. Rescuers evacuated patients, including people using wheelchairs and crutches, as firefighters battled the flames.",
+   "published_date": "Fri, 13 Nov 2026 11:46:23 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Dementia risk increases with number of cigarettes smoked per day",
+   "url": "https://www.euronews.com/2026/11/13/dementia-risk-increases-with-number-of-cigarettes-smoked-per-day",
+   "content": "Researchers found that dementia risk increases with the number of cigarettes smoked per day, rising by 16% for those who smoke 10 a day and by 34% for those who smoke 20, compared with people who have never smoked.",
+   "published_date": "Fri, 13 Nov 2026 11:11:16 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "IRGC says it destroyed US radar in Bahrain after attack on southern Iran",
+   "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran",
+   "content": "Despite rising military tensions, diplomatic efforts mediated by Qatar and Pakistan are continuing. Tehran has made any resumption of formal negotiations with Washington conditional on its demands being met.",
+   "published_date": "Fri, 13 Nov 2026 10:39:16 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Portugal: Humanoid robots take centre stage at Web Summit 2026",
    "url": "https://www.euronews.com/video/2026/11/13/portugal-humanoid-robots-take-centre-stage-at-web-summit-2026",
    "content": "Dancing humanoid robots and robotic dogs stole the show at Web Summit 2026 in Lisbon. The technology conference has generated nearly €2.5 billion for Portugal's economy over the past decade, according to a study.",
@@ -174,41 +209,6 @@
    "url": "https://www.euronews.com/2026/11/12/democrat-scott-colom-wins-mississippi-senate-seat-in-historic-upset",
    "content": "His margin of fewer than 5,000 votes caps a midterm wave that has handed Democrats control of both chambers of Congress.",
    "published_date": "Thu, 12 Nov 2026 09:42:23 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Cologne carnival season kicks off with thousands taking to the streets",
-   "url": "https://www.euronews.com/video/2026/11/12/cologne-carnival-season-kicks-off-with-thousands-taking-to-the-streets",
-   "content": "Cologne welcomes the 2026 carnival season as thousands gather for music, costumes and celebrations despite wet weather.",
-   "published_date": "Thu, 12 Nov 2026 08:50:27 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Video shows soldier reprimanding Hegseth and advisers at Tomb of the Unknown Soldier",
-   "url": "https://www.euronews.com/2026/11/12/video-shows-soldier-reprimanding-hegseth-and-advisers-at-tomb-of-the-unknown-soldier",
-   "content": "A soldier guarding the Tomb of the Unknown Soldier in Arlington tells US Defence Secretary Pete Hegseth and his group to maintain silence and respect after they take photos and are heard laughing.",
-   "published_date": "Thu, 12 Nov 2026 08:15:28 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Nvidia board weighs Jensen Huang’s future as reports emerge of second affair",
-   "url": "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair",
-   "content": "The report of a second affair follows Huang admitting to having a relationship with Alice Huang, a senior executive at Singapore-based data centre company Megaspeed.",
-   "published_date": "Thu, 12 Nov 2026 08:03:21 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Moment historic SS United States sinks off Florida’s coast",
-   "url": "https://www.euronews.com/2026/11/12/moment-historic-ss-united-states-sinks-off-floridas-coast",
-   "content": "The historic SS United States, once the fastest ship on the seas, made a slow final journey beneath the waters Wednesday.",
-   "published_date": "Thu, 12 Nov 2026 07:48:43 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 12th, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Thu, 12 Nov 2026 07:00:32 +0100",
    "score": 0.6
   }
  ],
