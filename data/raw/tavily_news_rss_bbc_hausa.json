@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Wane ne Faisal Maina da kotu ta yanke wa hukuncin ɗaurin shekaru bakwai?",
+   "url": "https://www.bbc.com/hausa/articles/cqm259xjlr3xo?at_medium=RSS&at_campaign=rss",
+   "content": "EFCC ta nemi kotun ta bayar da izinin tura Faisal zuwa hukumar kula da gidajen gyaran hali ta Najeriya domin aiwatar da hukuncin da aka yanke masa kan halatta kuɗaɗen haram da kuma rashin bayyana dukkan kadarorinsa a fom ɗin bayyana kadarori.",
+   "published_date": "Fri, 13 Nov 2026 16:13:14 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Amurka ta musanta ikirarin Iran na kai hari sansaninta a Bahrain",
    "url": "https://www.bbc.co.uk/hausa/live/cmde1n300dy6t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 13/11/2026",
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Ghana ta ƙaddamar da sabbin takardun kuɗi",
-   "url": "https://www.bbc.com/hausa/articles/c8wy5lx7znr2o?at_medium=RSS&at_campaign=rss",
-   "content": "A cewar babban bankin, sabbin takardun kuɗin na cedi sabunta fasali ne na takardun kuɗin da ake amfani da su a yanzu, waɗanda har yanzu za su ci gaba da kasancewa halastattun kuɗaɗen mu'amala.",
-   "published_date": "Thu, 12 Nov 2026 14:57:35 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Ghana ta ƙaddamar da sabbin takardun kuɗi",
+   "url": "https://www.bbc.com/hausa/articles/c8wy5lx7znr2o?at_medium=RSS&at_campaign=rss",
+   "content": "A cewar babban bankin, sabbin takardun kuɗin na cedi sabunta fasali ne na takardun kuɗin da ake amfani da su a yanzu, waɗanda har yanzu za su ci gaba da kasancewa halastattun kuɗaɗen mu'amala.",
+   "published_date": "Thu, 12 Nov 2026 14:57:35 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/c6n494p7e4n0o?at_medium=RSS&at_campaign=rss",
    "content": "Ƙarshen damina wani lokaci ne da manoma ke girbe amfanin gonakinsu, yayin da makiyaya kuma ke komawa arewacin ƙasar daga kudanci bayan watanni na zaman damina.",
    "published_date": "Tue, 10 Nov 2026 11:33:44 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Shugabannin Afrika 11 da suka yi zaman gidan yari kafin hawa mulki",
-   "url": "https://www.bbc.com/hausa/articles/cjn5v526elero?at_medium=RSS&at_campaign=rss",
-   "content": "An ɗaure yawancinsu ne saboda adawa da mulkin mallaka, yaƙi da kama ƙarya da kuma neman sauyi.",
-   "published_date": "Tue, 10 Nov 2026 04:17:21 GMT",
    "score": 0.6
   }
  ],
