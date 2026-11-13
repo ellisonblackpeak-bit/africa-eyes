@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "EU institutions survive Microsoft outage unscathed",
+   "url": "https://www.politico.eu/article/eu-institutions-survive-microsoft-outage-unscathed/",
+   "content": "Europe is working to reduce its use of big U.S. providers.",
+   "published_date": "Fri, 13 Nov 2026 13:36:35 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU climate chief hints bloc may drop clean power push at COP31",
+   "url": "https://www.politico.eu/article/eu-climate-chief-wopke-hoekstra-hints-bloc-may-drop-clean-power-push-at-cop31/",
+   "content": "A \"certain degree of pragmatism\" on electrification is \"probably\" needed, Wopke Hoekstra told reporters at COP31.",
+   "published_date": "Fri, 13 Nov 2026 13:17:38 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Tinder owner hit with €11M privacy fine",
+   "url": "https://www.politico.eu/article/tinder-owner-hit-with-e11m-privacy-fine/",
+   "content": "The Irish Data Protection Commission ruled that Tinder's \"Download My Data\" tool is not complaint with GDPR. The company plans to appeal.",
+   "published_date": "Fri, 13 Nov 2026 11:01:01 +0000",
+   "score": 0.6
+  },
+  {
    "title": "L’objectif de 1,5° de réchauffement est mort, mais personne ne veut l’enterrer",
    "url": "https://www.politico.eu/article/lobjectif-de-15-de-rechauffement-est-mort-mais-personne-ne-veut-lenterrer/",
    "content": "Les dirigeants présents à la COP31 s'attachent à cet objectif emblématique, même après que l'ONU et de nombreux scientifiques ont déclaré qu'il était impossible à atteindre.",
@@ -38,7 +59,7 @@
   },
   {
    "title": "Who is Britain’s ‘perfect’ immigrant?",
-   "url": "https://www.politico.eu/podcast/eu-confidential/who-is-britains-perfect-immigrant/",
+   "url": "https://www.politico.eu/podcast/westminster-insider/who-is-britains-perfect-immigrant/",
    "content": "Shabana Mahmood is the latest home secretary to try to reform Britain’s complex immigration policy. Her latest proposals on so-called ‘indefinite leave to remain’ are designed to assess migrants based on the extent of their contribution to the country — by taking account of their skills, salary and what kind of job they are able […]",
    "published_date": "Fri, 13 Nov 2026 04:00:00 +0000",
    "score": 0.6
@@ -47,27 +68,6 @@
    "title": "5 things to watch at the Dublin EU leaders’ summit",
    "url": "https://www.politico.eu/article/5-things-to-watch-dublin-eu-leaders-summit-european-council/",
    "content": "Leaders will discuss Europe’s AI ambitions. But who speaks for Europe in Ukraine talks, how to fund Kyiv, and who replaces Christine Lagarde are also in play.",
-   "published_date": "Fri, 13 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Dissident leader wants Europe to consider Belarus in broader Ukraine peace deal",
-   "url": "https://www.politico.eu/article/sviatlana-tsikhanouskaya-urges-europe-include-belarus-ukraine-peace-negotiations/",
-   "content": "Sviatlana Tsikhanouskaya defends Angela Merkel’s record on Russia and says Europe indulged Alexander Lukashenko as “our son of the bitch.\"",
-   "published_date": "Fri, 13 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "How to win friends and throw people: Judo’s big impact on politics",
-   "url": "https://www.politico.eu/article/how-to-win-friends-and-throw-people-judos-big-impact-on-politics/",
-   "content": "Teddy Riner wants to be president of France. If he wins, could he be the one to get through to Vladimir Putin?",
-   "published_date": "Fri, 13 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "What will a female president mean for Germany and Europe?",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/what-will-a-female-president-mean-for-germany-and-europe/",
-   "content": "A rare outbreak of cross-party unity has interrupted months of infighting surrounding Friedrich Merz’s embattled coalition in Berlin. His nomination of Ilse Aigner — a respected conservative from Bavaria — has united his own party and received support from the Social Democrats and the Greens. She is all but certain to become the country’s first […]",
    "published_date": "Fri, 13 Nov 2026 03:00:00 +0000",
    "score": 0.6
   }

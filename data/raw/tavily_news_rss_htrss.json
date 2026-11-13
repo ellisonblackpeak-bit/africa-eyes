@@ -2,7 +2,21 @@
  "success": true,
  "results": [
   {
-   "title": "Two killed, three injured as speeding 18-wheeler trailer hits several vehicles on Jaipur-Delhi highwayy",
+   "title": "Delhi Traffic Police warns of congestion on Mathura Road, Purana Qila Road during India International Trade Fair",
+   "url": "https://www.hindustantimes.com/india-news/delhi-traffic-police-warns-of-congestion-on-mathura-road-purana-qila-road-during-india-international-trade-fair-november-14-to-27-101794566725830.html",
+   "content": "The traffic police has urged visitors to plan their journeys in advance and use the metro to reach the venue.",
+   "published_date": "Fri, 13 Nov 2026 18:39:06 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "HT Evening News Brief: 23 killed in road accident in Assam; Manchester United appoints new head coach",
+   "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-23-killed-in-road-accident-in-assam-manchester-united-appoints-new-head-coach-101794573222166.html",
+   "content": "Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.",
+   "published_date": "Fri, 13 Nov 2026 18:16:13 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Two killed, three injured as speeding 18-wheeler trailer hits several vehicles on Jaipur-Delhi highway",
    "url": "https://www.hindustantimes.com/india-news/two-killed-three-injured-as-speeding-18-wheeler-trailer-hits-several-vehicles-on-jaipur-delhi-highwayy-101794568848759.html",
    "content": "The speeding trailer hit five vehicles, including three cars and two two-wheelers, before running over a pedestrian near Anaj Mandi in Jaipur.",
    "published_date": "Fri, 13 Nov 2026 16:50:48 +0530",
@@ -153,34 +167,6 @@
    "url": "https://www.hindustantimes.com/india-news/beyond-us-uk-where-indian-students-are-heading-according-to-vfs-global-ceo-htls-2026-101794482613394.html",
    "content": "Germany, Austria, Spain and France are among the countries drawing them. And the biggest shift is in who makes the decision.",
    "published_date": "Thu, 12 Nov 2026 17:30:55 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India probes website blocks based on forged court orders; police seek logs",
-   "url": "https://www.hindustantimes.com/india-news/india-probes-website-blocks-based-on-forged-court-orders-police-seek-logs-101794480692966.html",
-   "content": "INDIA-COURT/FAKE-ORDERS (PIX):India probes website blocks based on forged court orders; police seek logs",
-   "published_date": "Thu, 12 Nov 2026 16:21:32 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "HTLS 2026: India’s AI journey intersects with local languages and culture, says Caltech Professor",
-   "url": "https://www.hindustantimes.com/india-news/htls-hindustan-times-leadership-summit-live-updates-day-1-zubin-karkaria-anima-anandkumar-101794474520335.html",
-   "content": "HTLS Summit 2026: The latest edition of the Hindustan Times Leadership Summit brings together influential voices to examine changing realities across economies, geopolitics, technology, business and society as the world enters an era defined by rapid disruption and unprecedented change.",
-   "published_date": "Thu, 12 Nov 2026 16:06:24 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Bomb threat email targets Amitabh Bachchan’s bungalow, Mumbai mayor office again",
-   "url": "https://www.hindustantimes.com/india-news/bomb-threat-email-targets-amitabh-bachchan-s-bungalow-mumbai-mayor-office-again-mumbai-chhatrapati-shivaji-maharaj-international-airport-101794479320915.html",
-   "content": "The email also threatened the Chhatrapati Shivaji Maharaj International Airport in Mumbai.",
-   "published_date": "Thu, 12 Nov 2026 16:03:29 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Three killed as speeding SUV hits people changing tyre on Delhi-Mumbai Expressway in Alwar",
-   "url": "https://www.hindustantimes.com/india-news/three-killed-as-speeding-suv-hits-people-changing-tyre-on-delhi-mumbai-expressway-in-alwar-101794479530880.html",
-   "content": "An NHAI employee, a cab driver and a 26-year-old event manager were killed after a speeding MG Hector ran them over while they were changing a tyre in Alwar.",
-   "published_date": "Thu, 12 Nov 2026 16:02:10 +0530",
    "score": 0.6
   }
  ],

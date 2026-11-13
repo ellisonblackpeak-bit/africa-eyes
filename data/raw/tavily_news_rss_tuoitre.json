@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Giảng viên y khoa trở lại với âm nhạc sau 5 lần thi hát thất bại",
+   "url": "https://tuoitre.vn/giang-vien-y-khoa-tro-lai-voi-am-nhac-sau-5-lan-thi-hat-that-bai-100261113184510568.htm",
+   "content": "Từng ba lần thi Vietnam Idol, hai lần thử sức tại Giọng hát Việt nhưng không vào sâu, bác sĩ Phan Hoàng Hải gác lại giấc mơ ca hát để theo đuổi con đường y khoa.",
+   "published_date": "11/13/2026 7:22:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

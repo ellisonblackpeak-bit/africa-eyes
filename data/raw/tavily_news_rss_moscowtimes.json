@@ -2,10 +2,31 @@
  "success": true,
  "results": [
   {
+   "title": "Kremlin Says Ready for Civilian Evacuation From Ukraine’s Kostiantynivka",
+   "url": "https://www.themoscowtimes.com/2026/11/13/kremlin-says-ready-for-civilian-evacuation-from-ukraines-kostiantynivka-a94257",
+   "content": "Kyiv has expressed concerns that Moscow might wish to use ceasefires for such missions to enable its military to regroup.",
+   "published_date": "Fri, 13 Nov 2026 16:59:00 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Russian Oil Discounts Hit 3-Year High as Middle East Supplies Recover",
+   "url": "https://www.themoscowtimes.com/2026/11/13/russian-oil-discounts-hit-3-year-high-as-middle-east-supplies-recover-a94256",
+   "content": "Analysts said rising supplies from Persian Gulf producers were increasing competition for Urals.",
+   "published_date": "Fri, 13 Nov 2026 16:04:00 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Seized Western Businesses Donate $86M to Russian War Effort",
    "url": "https://www.themoscowtimes.com/2026/11/13/seized-western-businesses-donate-86m-to-russian-war-effort-a94252",
    "content": "The donations have been used to buy drones, vehicles, communications systems and other equipment for Russian troops, Bloomberg reported.",
    "published_date": "Fri, 13 Nov 2026 14:04:52 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Russia Says Europeans Can Join Ukraine Peace Talks if They Show 'Readiness to Contribute'",
+   "url": "https://www.themoscowtimes.com/2026/11/13/russia-says-europeans-can-join-ukraine-peace-talks-if-they-show-readiness-to-contribute-a94236",
+   "content": "Yet the Russian leader said Washington must work with its European allies to understand if they want peace or war in Ukraine.",
+   "published_date": "Fri, 13 Nov 2026 14:04:00 +0300",
    "score": 0.6
   },
   {
@@ -16,9 +37,9 @@
    "score": 0.6
   },
   {
-   "title": "Former Ukrainian PM’s Aide Seriously Injured in Moscow Car Blast",
-   "url": "https://www.themoscowtimes.com/2026/11/13/former-ukrainian-pms-aide-seriously-injured-in-moscow-car-blast-a94251",
-   "content": "Sergei Zavorotny, a 72-year-old journalist, moved to Russia after the 2014 Maidan Revolution that toppled Viktor Yanukovych.",
+   "title": "Former Aide to Pro-Russian Ukrainian PM Seriously Injured in Moscow Car Blast",
+   "url": "https://www.themoscowtimes.com/2026/11/13/former-aide-to-pro-russian-ukrainian-pm-seriously-injured-in-moscow-car-blast-a94251",
+   "content": "Sergei Zavorotny, 72, moved to Russia after the 2014 Maidan Revolution that toppled Viktor Yanukovych.",
    "published_date": "Fri, 13 Nov 2026 11:54:00 +0300",
    "score": 0.6
   },
@@ -27,13 +48,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/13/kushner-says-us-working-toward-largest-prisoner-exchange-of-russias-war-in-ukraine-a94249",
    "content": "The deal would potentially reunite \"thousands of people with their families,\" the White House special envoy wrote on X, without giving details.",
    "published_date": "Fri, 13 Nov 2026 11:40:28 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Putin Agrees for Europe to Join Ukraine Peace Talks, Witkoff Says",
-   "url": "https://www.themoscowtimes.com/2026/11/13/putin-agrees-for-europe-to-join-ukraine-peace-talks-witkoff-says-a94236",
-   "content": "Yet the Russian leader said Washington must work with its European allies to understand if they want peace or war in Ukraine.",
-   "published_date": "Fri, 13 Nov 2026 00:54:00 +0300",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/10/russian-soldiers-detained-in-armenia-over-alleged-assault-of-ukrainian-man-a94217",
    "content": "The alleged assault took place about a month ago in the city of Gyumri, which hosts Russia’s 102nd Military Base.",
    "published_date": "Tue, 10 Nov 2026 12:51:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russia and Ukraine Hold New Round of U.S.-Mediated Peace Talks in Abu Dhabi",
-   "url": "https://www.themoscowtimes.com/2026/11/10/russia-and-ukraine-hold-new-round-of-us-mediated-peace-talks-in-abu-dhabi-a94216",
-   "content": "The two-day negotiations mark a resumption of peace efforts that stalled earlier this year after Trump launched the war against Iran.",
-   "published_date": "Tue, 10 Nov 2026 11:35:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Tour Companies Ask for Government Support After Largest Bank in Maldives Rejects Russian Payments",
-   "url": "https://www.themoscowtimes.com/2026/11/09/tour-companies-ask-for-government-support-after-largest-bank-in-maldives-rejects-russian-payments-a94211",
-   "content": "The Bank of Maldives began returning payments made by Russian tourists on Oct. 18, with an estimated total volume of delayed or returned payments reaching $2 million.",
-   "published_date": "Mon, 09 Nov 2026 18:21:46 +0300",
    "score": 0.6
   }
  ],
