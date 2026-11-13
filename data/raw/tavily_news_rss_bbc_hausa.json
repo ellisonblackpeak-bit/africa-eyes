@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Abin da addinai suka ce kan ranar tashin duniya",
+   "url": "https://www.bbc.com/hausa/articles/cmkgk0zq194po?at_medium=RSS&at_campaign=rss",
+   "content": "Dama dai Musulmai suna da masaniya daga nassi daban-daban cewa za a yi tashin duniya ne a ranar Juma'a ne, sai ga shi kuma ranar 13 ta faɗo daidai da wannan rana ta Juma'a, amma dai babu tabbas a kai.",
+   "published_date": "Fri, 13 Nov 2026 03:55:46 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Man United da Man City na hamayya kan Gusto, Liverpool na neman Vuskovic",
+   "url": "https://www.bbc.com/hausa/articles/c8qlqvdz7904o?at_medium=RSS&at_campaign=rss",
+   "content": "Manchester United da Manchester City suna sha'awar ɗan wasan bayan Chelsea, Malo Gusto; Liverpool ta sanya Luka Vuskovic na Brighton cikin jerin ƴan wasan da take duba yiwuwar dauka, yayin da Leeds United ke son Will Lankshear na Middlesbrough.",
+   "published_date": "Fri, 13 Nov 2026 03:54:34 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa jam'iyyu masu mulki ke faɗuwa zabe a kasashen duniya?",
+   "url": "https://www.bbc.com/hausa/articles/c84gn926z6z0o?at_medium=RSS&at_campaign=rss",
+   "content": "A 'yan shekarun nan, jam'iyyun da suka daɗe suna mulki sun fuskanci babban ƙalubale daga masu zaɓe. Wasu sun rasa mulki, yayin da wasu kuma suka rasa rinjayensu a majalisun dokoki.",
+   "published_date": "Fri, 13 Nov 2026 03:55:10 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "An gano wata baƙuwar cuta a duniya har ta kama mutum 130",
+   "url": "https://www.bbc.com/hausa/articles/c9ly4lj1llnko?at_medium=RSS&at_campaign=rss",
+   "content": "An gano wata baƙuwar cuta a duniya wadda ake iya yin gadonta da ke shafar tsarin jijiyoyin jiki, tare da haddasa wa yara rashin iya afiya da magana, kuma zuwa yanzu ta shafi mutum 130 a faɗin duniya.",
+   "published_date": "Fri, 13 Nov 2026 03:55:27 GMT",
+   "score": 0.6
+  },
+  {
    "title": "An ji ƙarar harbe-harbe a kusa da fadar White House",
    "url": "https://www.bbc.co.uk/hausa/live/c6vg23y4wr94t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Alhamis 12/11/2026",
@@ -30,13 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Manchester United ta sallami kocinta Michael Carrick",
-   "url": "https://www.bbc.com/hausa/articles/cmy0r0j04x9jo?at_medium=RSS&at_campaign=rss",
-   "content": "Tun cikin kwanakin da suka gabata ne ake ta raɗe-raɗin korar kociyan yayin da ƙungiyar ta riƙa fafutikar wanda zai maye gurbinsa.",
-   "published_date": "Thu, 12 Nov 2026 10:43:46 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Ko Seyi Tinubu na 'zaƙewa' kan takarar mahaifinsa?",
    "url": "https://www.bbc.com/hausa/articles/ckvg23vr0lvpo?at_medium=RSS&at_campaign=rss",
    "content": "Daga kafa da jagorantar ƙungiyoyin matasa, zuwa ziyartar jihohi da ganawa da masu ruwa da tsaki, Seyi ya zama ɗaya daga cikin fitattun mutanen da ke fafutukar ganin Tinubu ya sake samun wa'adin mulki.",
@@ -44,31 +65,17 @@
    "score": 0.6
   },
   {
-   "title": "'Muna fargabar El Niño za ta iya kashe mu'",
-   "url": "https://www.bbc.com/hausa/articles/c6rrgljz4p24o?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da ake shiga lokacin daminar ƙarshen shekara ana fargabar yiwuwar sake samun ambaliyar ruwa sakamakon mummunan sauyin yanayi na El Niño, wanda masana ilimin yanayi ke gargaɗin cewa zai iya haddasa ruwan sama mai tsanani.",
-   "published_date": "Thu, 12 Nov 2026 03:56:02 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa Ghana ta janye dokar haramta auren jinsi?",
-   "url": "https://www.bbc.com/hausa/articles/c639gkd99zp7o?at_medium=RSS&at_campaign=rss",
-   "content": "Majalisar dokokin Ghana na shirin sake yin duba tare da soke amincewar da ta yi wa dokar da ta jawo cece-kuce kan masu auren jinsi, wadda ta amince da ita a watan Mayun bana.",
-   "published_date": "Thu, 12 Nov 2026 03:56:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Tinubu ya gaza a wajen ƴan Najeriya - ADC",
-   "url": "https://www.bbc.co.uk/hausa/live/ckzd9pn6qn9mt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 11/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
    "published_date": "Tue, 29 Sep 2026 13:46:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Manchester United ta sallami kocinta Michael Carrick",
+   "url": "https://www.bbc.com/hausa/articles/cmy0r0j04x9jo?at_medium=RSS&at_campaign=rss",
+   "content": "Tun cikin kwanakin da suka gabata ne ake ta raɗe-raɗin korar kociyan yayin da ƙungiyar ta riƙa fafutikar wanda zai maye gurbinsa.",
+   "published_date": "Thu, 12 Nov 2026 10:43:46 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +111,27 @@
    "url": "https://www.bbc.co.uk/hausa/live/cr3wv08xp8djt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 2 zuwa 8 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Tinubu ya gaza a wajen ƴan Najeriya - ADC",
+   "url": "https://www.bbc.co.uk/hausa/live/ckzd9pn6qn9mt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 11/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa Ghana ta janye dokar haramta auren jinsi?",
+   "url": "https://www.bbc.com/hausa/articles/c639gkd99zp7o?at_medium=RSS&at_campaign=rss",
+   "content": "Majalisar dokokin Ghana na shirin sake yin duba tare da soke amincewar da ta yi wa dokar da ta jawo cece-kuce kan masu auren jinsi, wadda ta amince da ita a watan Mayun bana.",
+   "published_date": "Thu, 12 Nov 2026 03:56:16 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Muna fargabar El Niño za ta iya kashe mu'",
+   "url": "https://www.bbc.com/hausa/articles/c6rrgljz4p24o?at_medium=RSS&at_campaign=rss",
+   "content": "Yayin da ake shiga lokacin daminar ƙarshen shekara ana fargabar yiwuwar sake samun ambaliyar ruwa sakamakon mummunan sauyin yanayi na El Niño, wanda masana ilimin yanayi ke gargaɗin cewa zai iya haddasa ruwan sama mai tsanani.",
+   "published_date": "Thu, 12 Nov 2026 03:56:02 GMT",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cjn5v526elero?at_medium=RSS&at_campaign=rss",
    "content": "An ɗaure yawancinsu ne saboda adawa da mulkin mallaka, yaƙi da kama ƙarya da kuma neman sauyi.",
    "published_date": "Tue, 10 Nov 2026 04:17:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Fitattun ƴansiyasar Najeriya 6 da ke takara tun 2003",
-   "url": "https://www.bbc.com/hausa/articles/cm4g1gk8k415o?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan rahoton ya yi nazari kan wasu daga cikin fitattun ƴan siyasar da suka daɗe suna neman takara ko kuma neman wani muƙamin zaɓe tun shekarar 2003.",
-   "published_date": "Tue, 10 Nov 2026 04:14:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Dalilan da ke haddasa katsewar wutar lantarki a Najeriya?",
-   "url": "https://www.bbc.com/hausa/articles/cvlydywee8w1o?at_medium=RSS&at_campaign=rss",
-   "content": "A wasu jihohi da yankuna ana samun lantarki fiye da wasu, yayin da wasu wuraren ke fama da ƙarancin wuta ko rashin wutar gaba ɗaya.",
-   "published_date": "Tue, 10 Nov 2026 04:16:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wurare 5 da Aljanu ke zama a cikin gidajenmu",
-   "url": "https://www.bbc.com/hausa/articles/cme8r8yw8rpgo?at_medium=RSS&at_campaign=rss",
-   "content": "A cikin hadisai an ambaci wasu wurare da aljanu ko shaiɗanu suke yawan zama ko taruwa, wanda a dalilinsu malaman addini ke cewa ana fama da matsaloli.",
-   "published_date": "Mon, 09 Nov 2026 14:59:23 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kotu ta wanke mutumin da ake zargi da kashe matarsa a Kano",
-   "url": "https://www.bbc.co.uk/hausa/live/cqvg0g7em2z2t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin, 09/11/2026",
-   "published_date": "",
    "score": 0.6
   }
  ],

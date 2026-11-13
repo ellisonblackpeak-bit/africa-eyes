@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "US senator Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+   "url": "https://www.euronews.com/2026/11/13/us-senator-chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader",
+   "content": "Chris Van Hollen, who has support from some of the more vocal progressives within the Democratic party, is the first to openly challenge long-term Democratic Senate leader Chuck Schumer's bid.",
+   "published_date": "Fri, 13 Nov 2026 05:16:44 +0100",
+   "score": 0.6
+  },
+  {
    "title": "US: New Congress members pose for traditional photo at Capitol",
    "url": "https://www.euronews.com/video/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol",
    "content": "Newly elected US lawmakers gathered on Capitol Hill on Thursday 12 November for a traditional group photograph ahead of the opening of the 120th Congress. The incoming House members are attending orientation following the November midterm elections.",
@@ -86,9 +93,9 @@
    "score": 0.6
   },
   {
-   "title": "Doomsday study calculated humanity's end on Friday 13 November 2026",
-   "url": "https://www.euronews.com/2026/11/12/doomsday-study-calculated-humanitys-end-on-friday-13-november-2026",
-   "content": "According to a study, the end of the world was supposed to come on 13 November. It sounds dramatic and would be quite urgent – if the study were not already \"outdated\". Still, it is fascinating.",
+   "title": "Doomsday study's prediction of the end of the world on 13 November 2026 fails",
+   "url": "https://www.euronews.com/2026/11/12/doomsday-studys-prediction-of-the-end-of-the-world-on-13-november-2026-fails",
+   "content": "According to a study, the end of the world was meant to arrive on 13 November. That sounds dramatic and would seem urgent, if the study were not already \"outdated\", yet it is still intriguing.",
    "published_date": "Thu, 12 Nov 2026 11:54:52 +0100",
    "score": 0.6
   },
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/11/11/german-tech-company-signs-60-million-contract-with-elon-musk-for-satellite-solar-cell-supp",
    "content": "SpaceX signed a €60 million deal with German mechanical engineering company Singulus Technologies for the strategic supply of solar cells, giving the German company a massive price jump.",
    "published_date": "Wed, 11 Nov 2026 20:01:03 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Russian ambassador to the US dies after a year and a half in the job",
-   "url": "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced",
-   "content": "Alexander Darchiev was apointed to the role of Russia's ambassador to the United States soon after US President Donald Trump returned to power.",
-   "published_date": "Wed, 11 Nov 2026 18:09:10 +0100",
    "score": 0.6
   }
  ],

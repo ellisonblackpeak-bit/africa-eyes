@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Vietbaby Hanoi 2026 thu hút hơn 23.000 lượt khách tham quan",
+   "url": "https://tuoitre.vn/vietbaby-hanoi-2026-thu-hut-hon-23000-luot-khach-tham-quan-100261112195538129.htm",
+   "content": "Theo ban tổ chức, triển lãm Quốc tế Sản phẩm và Dịch vụ dành cho Mẹ bầu, Mẹ và Trẻ em - Vietbaby Hanoi 2026 đã thu hút hơn 23.000 lượt khách tham quan sau bốn ngày diễn ra từ 15 đén 18-10 tại Trung tâm Triển lãm Việt Nam (VEC), Đông Anh, Hà Nội.",
+   "published_date": "11/13/2026 10:00:00 AM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

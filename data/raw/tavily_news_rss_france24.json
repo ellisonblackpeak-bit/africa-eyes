@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Microsoft struggles to repair global Outlook outage",
+   "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+   "content": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled to fix issues with some servers, hitting businesses and government agencies globally that use the popular platforms. The company blamed elevated infrastructure loads and said it was working to restore services.",
+   "published_date": "Fri, 13 Nov 2026 03:44:22 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Pope Leo XIV meets abuse victims in Peru, says Church must make 'amends'",
+   "url": "https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends",
+   "content": "Pope Leo XIV met six victims of clerical abuse in Peru on Thursday, including people linked to the disbanded Sodalitium Christianae Vitae. The US-born pontiff also urged the Catholic Church to make amends to survivors and strengthen protections against abuse as he returned to the country where he served for nearly two decades.",
+   "published_date": "Fri, 13 Nov 2026 02:58:33 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Haitian police retake national stadium from gangs after two years",
    "url": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years",
    "content": "Haitian security forces regained control of the country's main football stadium on Thursday after two years under gang control, with Salvadoran troops taking over security at the venue. The operation comes as El Salvador deploys 2,000 soldiers to Haiti following an ambush that left four of its troops missing.",
@@ -153,20 +167,6 @@
    "url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
    "content": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the devastated Palestinian territory, a nine-month-old baby died from the cold as families flee worsening flooding.",
    "published_date": "Thu, 12 Nov 2026 16:18:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
-   "url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
-   "content": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation of videos shared on social media to trace their presence.",
-   "published_date": "Thu, 12 Nov 2026 16:03:26 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "At least five people shot in DC neighbourhood near the White House",
-   "url": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
-   "content": "At least one person died after five people were shot early Thursday in a Washington, DC neighbourhood near the White House, police said. A swarm of officers responded to a nearby apartment building where a suspect was barricaded and later shot himself.",
-   "published_date": "Thu, 12 Nov 2026 16:01:57 GMT",
    "score": 0.6
   }
  ],
