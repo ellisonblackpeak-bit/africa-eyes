@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Ethanol mix: OMCs triple damaged grain allocation",
+   "url": "https://www.hindustantimes.com/india-news/ethanol-mix-omcs-triple-damaged-grain-allocation-101794652576778.html",
+   "content": "Ethanol allocation from damaged foodgrains has more than tripled for 2026-27, while maize allocation rose 8% as India shifts away from sugar-based feedstocks.",
+   "published_date": "Sat, 14 Nov 2026 16:06:16 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi-Meerut Namo Bharat corridor to get 8 new fast trains from Nov 16; cover full stretch in under 50 minutes",
+   "url": "https://www.hindustantimes.com/india-news/delhimeerut-namo-bharat-corridor-to-get-8-new-fast-trains-from-nov-16-cover-full-stretch-in-under-50-minutes-101794648799471.html",
+   "content": "The new limited-stop services will bring down the travel time between Anand Vihar and Ghaziabad to just eight minutes.",
+   "published_date": "Sat, 14 Nov 2026 16:02:43 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Sabarimala pilgrims can send prasadam home through India Post",
+   "url": "https://www.hindustantimes.com/india-news/sabarimala-pilgrims-can-send-prasadam-home-through-india-post-101794648724388.html",
+   "content": "Sabarimala pilgrims can send prasadam home through India Post",
+   "published_date": "Sat, 14 Nov 2026 15:02:04 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India-US trade deal talks almost at the finishing line: says Jaishankar at HTLS",
+   "url": "https://www.hindustantimes.com/india-news/indiaus-trade-deal-talks-almost-at-the-finishing-line-says-jaishankar-at-htls-101794647973394.html",
+   "content": "India and the US have been negotiating a bilateral trade agreement since last year, when the Trump administration imposed 50% tariffs on Indian exports",
+   "published_date": "Sat, 14 Nov 2026 14:54:03 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India should get energy first, decarbonise once richer, says Steven Koonin at HT Leadership Summit",
+   "url": "https://www.hindustantimes.com/india-news/india-should-get-energy-first-decarbonise-once-richer-says-steven-koonin-at-hindustan-times-leadership-summit-htls-climate-change-101794644004545.html",
+   "content": "The physicist says United Nations climate talks have failed to curb emissions or deliver promised finance.",
+   "published_date": "Sat, 14 Nov 2026 14:11:04 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Emerging world order will be multipolar, transactional, unstable: Jaishankar at HT Leadership Summit",
    "url": "https://www.hindustantimes.com/india-news/emerging-world-order-will-be-multipolar-transactional-unstable-jaishankar-at-ht-leadership-summit-101794643575386.html",
    "content": "Jaishankar said the world is in a mess and charting “very stormy seas” and global headwinds have consequences for India",
@@ -93,7 +128,7 @@
    "score": 0.6
   },
   {
-   "title": "HTLS 2026 LIVE: Climate is changing, and humans are influencing it, says Dr Steven Koonin",
+   "title": "HTLS 2026 LIVE: Manas AI CEO Siddhartha Mukherjee says China and India can reverse 'Eroom's Law'",
    "url": "https://www.hindustantimes.com/india-news/htls-hindustan-times-leadership-summit-2026-live-updates-geopolitics-economics-showbiz-jaishankar-akhilesh-noel-tata-101794621889757.html",
    "content": "HTLS 2026 LIVE updates: The Hindustan Times Leadership Summit 2026 kicked off with External Affairs Minister S. Jaishankar, who spoke about matters ranging from the West Asia conflict to the India-US trade deal and artificial intelligence.",
    "published_date": "Sat, 14 Nov 2026 08:09:50 +0530",
@@ -153,27 +188,6 @@
    "url": "https://www.hindustantimes.com/india-news/mumbai-woman-loses-over-rs-90-lakh-after-online-scammers-coerce-her-with-morphed-photos-101794549867255.html",
    "content": "Police said the scammers targeted multiple women in a similar manner by luring them into jobs and then coercing them to pay with morphed photopgraphs.",
    "published_date": "Fri, 13 Nov 2026 15:57:09 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Naidu backs SIR, says large-scale voter deletion allegations in Andhra Pradesh are a misconception",
-   "url": "https://www.hindustantimes.com/india-news/naidu-backs-sir-says-large-scale-voter-deletion-allegations-in-andhra-pradesh-are-a-misconception-101794563204268.html",
-   "content": "Andhra Pradesh chief minister N Chandrababu Naidu on Friday defended the Election Commission of India’s ongoing SIR of electoral rolls.",
-   "published_date": "Fri, 13 Nov 2026 15:16:43 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India's exports jump 29.9% to $89.99 billion in October, trade deficit narrows",
-   "url": "https://www.hindustantimes.com/india-news/indias-exports-jump-29-9-to-89-99-billion-in-october-trade-deficit-narrows-101794562510983.html",
-   "content": "The country's exports stood at USD 69.27 billion in the same month last year.",
-   "published_date": "Fri, 13 Nov 2026 15:08:29 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Airtel's Sunil Mittal bats for ₹350 monthly mobile tariffs per user, says current rates too low",
-   "url": "https://www.hindustantimes.com/india-news/airtels-sunil-mittal-bats-for-rs-350-monthly-mobile-tariffs-per-user-says-current-rates-too-low-101794552199603.html",
-   "content": "Mittal said a monthly average of ₹350 would still leave India with \"by far the cheapest\" mobile tariffs anywhere in the world.",
-   "published_date": "Fri, 13 Nov 2026 14:36:23 +0530",
    "score": 0.6
   }
  ],

@@ -2,7 +2,70 @@
  "success": true,
  "results": [
   {
-   "title": "Live: France mobilises in fifth wave of student protests",
+   "title": "Half a million people gather for an open-air mass by Pope Leo in Peru",
+   "url": "https://www.france24.com/en/half-a-million-people-gather-for-an-open-air-mass-by-pope-leo-in-peru",
+   "content": "Pope Leo said it was a \"joy to be back\" in his second home of Chiclayo, where he made his name as a bishop. This is the latest stop on his South America tour, the very tour that saw fears of cancellation after the Pope underwent surgery for lung cancer. Story by Vedika Bahl.",
+   "published_date": "Sat, 14 Nov 2026 11:17:58 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Microsoft's widespread outages caused global chaos, including in the healthcasre industry",
+   "url": "https://www.france24.com/en/microsoft-s-widespread-outages-caused-global-chaos-including-in-the-healthcasre-industry",
+   "content": "Microsoft says it is seeing improvements in its service availability after an hours-long disruption knocked out its platforms including Outlook and Teams. The outage has affected hundreds of millions of people across the globe. The healthcare industry was among those impacted, as Ophelie Jacobson explains.",
+   "published_date": "Sat, 14 Nov 2026 11:07:33 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "France fend off South African comeback to clinch long-awaited win in Paris",
+   "url": "https://www.france24.com/en/tv-shows/sports/20261114-france-fend-off-south-african-comeback-to-clinch-long-awaited-win-in-paris",
+   "content": "Twenty-one years after last beating the Springboks in Paris, Les Bleus held out for a 21-19 win over the world champions on Friday after a nailbiting finale. Antoine Dupont and company are now one step away from reaching the Nations Championship final in London.",
+   "published_date": "Sat, 14 Nov 2026 10:58:10 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+   "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+   "content": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and warned that the Kremlin's bid to change the continent's security architecture could lead to more wars.",
+   "published_date": "Sat, 14 Nov 2026 10:30:04 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "SpaceX's Starship encounters problems during 15th test flight",
+   "url": "https://www.france24.com/en/spacex-s-starship-encounters-problems-during-15th-test-flight",
+   "content": "Elon Musk’s SpaceX successfully launched its Starship, the world's largest spaceship, into orbit where it should release 15 satellites for its Starlink network. A few minutes after lift off however, the rocket's booster which was meant to return to the pad splashed down in the Gulf of Mexico. Details by Daniel Quinlan.",
+   "published_date": "Sat, 14 Nov 2026 10:21:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Can Nvidia survive without tech titan Jensen Huang?",
+   "url": "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang",
+   "content": "The Financial Times says computing giant Nvidia has approached Rene Haas, CEO of British chip designer Arm, in its search for a potential successor to Jensen Huang. Huang resigned after his affair with an alleged Chinese spy. Meanwhile some employees are clamouring for Huang's return – as his fellow tech leader Elon Musk. A sign of Huang's lingering star power, in an industry where so often the fate of each giant company depends on one man. Story by Peter O'Brien.",
+   "published_date": "Sat, 14 Nov 2026 10:20:11 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "France's school principals say threats and violence have become unbearable",
+   "url": "https://www.france24.com/en/france-s-school-principals-say-threats-and-violence-have-become-unbearable",
+   "content": "Headteachers gathered across France this Friday, to demonstrate their frustration after nearly two months of student protests that have blockaded high schools. Many of the teachers support the students, but say they feel exhausted and isolated as the violence has surged. They are calling the government to protect them. Story by Vedika Bahl.",
+   "published_date": "Sat, 14 Nov 2026 10:17:21 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "France protests for fifth Saturday against living costs and heavy-handed policing",
+   "url": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
+   "content": "Different causes are set to come together for one march in Paris this Saturday. Campaign groups, students and Yellow Vest protesters are due to join forces in the capital, bringing together demands on wages, education and civil liberties. But after weeks of demonstrations, union leaders warn that protest fatigue is setting in, while police officers are seeking better compensation for the risk of policing the protests. Story by Jack Pownall.",
+   "published_date": "Sat, 14 Nov 2026 10:15:42 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
+   "url": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+   "content": "On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed outdated air traffic communications equipment, and said that there was no evidence of a cyber attack. The airspace is now reopened and flights have resumed.",
+   "published_date": "Sat, 14 Nov 2026 10:14:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
    "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
    "content": "Between 50 and 60 marches are expected in France on Saturday, according to Interior Minister Laurent Nuñez, who plans to mobilise approximately 70,000 police officers and gendarmes across the country. In Paris, the march will commence at 1pm from Place de la République heading towards Place de la Nation via Bastille.",
    "published_date": "Sat, 14 Nov 2026 07:09:32 GMT",
@@ -11,8 +74,15 @@
   {
    "title": "Microsoft says all services 'fully recovered' after global outage",
    "url": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
-   "content": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed there was 'no Microsoft link' to the US air stoppage.",
+   "content": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed there was 'no Microsoft link' to the US air traffic stoppage.",
    "published_date": "Sat, 14 Nov 2026 06:07:56 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
+   "url": "https://www.france24.com/en/americas/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week",
+   "content": "The three leaders are scheduled to meet on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen on Thursday, the White House confirmed. Likely discussions will include nuclear weapons and the war in Iran, but US officials have said Ukraine is not unlikely to be on the agenda. Ukraine's President Zelensky warned the talks could prove a Yalta-like \"redistribution of spheres of influence\" for the 21st century.",
+   "published_date": "Sat, 14 Nov 2026 05:09:23 GMT",
    "score": 0.6
   },
   {
@@ -30,7 +100,7 @@
    "score": 0.6
   },
   {
-   "title": "US flights resume gradually amid further cancellations",
+   "title": "Passengers face further cancellations as US flights slowly resume after ground stop",
    "url": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop",
    "content": "While flights in the United States started resuming on Saturday following the longest nationwide ground stop in 25 years, more than 2,000 flights have been cancelled as airlines work to return to normal operations. Nearly 6,000 flights were cancelled on Friday, with the incident marking only the second time an alert to ground all flights had been issued in US airspace since the 9/11 attacks.",
    "published_date": "Fri, 13 Nov 2026 22:43:22 GMT",
@@ -39,7 +109,7 @@
   {
    "title": "France secures thrilling Nations Championship victory over South Africa",
    "url": "https://www.france24.com/en/sport/20261113-france-hold-on-for-thrilling-nations-championship-win-over-south-africa",
-   "content": "France smashed world ⁠champions South ​Africa's hopes of lifting the first Nations Championship trophy on Friday, in a ​21-19 defeat for Les Bleus.",
+   "content": "France smashed world ⁠champion South ​Africa's hopes of lifting the first Nations Championship trophy on Friday, in a ​21-19 defeat for Les Bleus.",
    "published_date": "Fri, 13 Nov 2026 22:39:21 GMT",
    "score": 0.6
   },
@@ -97,76 +167,6 @@
    "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
    "content": "China has been carrying out major military drills around Taiwan since early November. But contrary to some claims on social media, Beijing's armed forces have not actually implemented a blockade on the island; they just simulated it.",
    "published_date": "Fri, 13 Nov 2026 18:19:19 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
-   "url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
-   "content": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But four years after applying to join the EU, Kosovo has still not received candidate status. We explore Kosovo's path towards the EU, and the broader European and regional dynamics surrounding that.",
-   "published_date": "Fri, 13 Nov 2026 17:46:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
-   "url": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
-   "content": "As EU leaders meet for an AI summit in Dublin, largely overshadowed by Russia's war on Ukraine, William Hilderbrandt is pleased to welcome Fabrice Pothier, CEO of Rasmussen Global. On AI, Pothier points to Europe's limited computing capacity, estimating that it barely represents \"5% of what's available out there.\" Despite the EU's wealth of researchers and expertise, he warns that Europe is struggling to turn these resources into \"real technological and industrial scale.\" Now, turning to the war in Ukraine, Pothier argues that European governments should focus less on \"whether they have a place at the table\" and more on \"making Ukraine's hands stronger,\" particularly by providing additional air defence interceptors.",
-   "published_date": "Fri, 13 Nov 2026 17:28:54 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
-   "url": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai",
-   "content": "Jensen Huang’s departure from Nvidia exposes the vulnerabilities behind the AI boom. As equities reel in response to his resignation following extramarital affairs, alleged Chinese espionage and a summons to testify before US lawmakers, questions mount over who is really in charge of tech and whether the immense capital riding on it can survive the turmoil.",
-   "published_date": "Fri, 13 Nov 2026 17:02:40 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "November 13 Paris attacks: Eleven years later, France pays tribute to victims",
-   "url": "https://www.france24.com/en/november-13-paris-attacks-eleven-years-later-france-pays-tribute-to-victims",
-   "content": "Eleven years on, France pays tribute to the victims of the November 13 attacks. French officials, victims’ associations and families gathered this Friday to pay their respects to those killed in the attacks in Paris on November 13, 2015.",
-   "published_date": "Fri, 13 Nov 2026 16:47:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Crossing Afghanistan along the 'highway of death'",
-   "url": "https://www.france24.com/en/tv-shows/revisited/20261113-crossing-afghanistan-along-the-highway-of-death",
-   "content": "Highway 1, or the Ring Road, connects Afghanistan's major cities. After September 11, 2001, it became a hotspot for crime and fighting, particularly between the capital Kabul and Kandahar, the Taliban's birthplace. People taking it had to navigate extortions, kidnappings and suicide bombings. What has become of the road after the US-led war and five years of Taliban rule? Our former Afghanistan correspondent Claire Billet and photojournalist Sandra Calligaro returned to the country to find out.",
-   "published_date": "Fri, 13 Nov 2026 16:47:34 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Myanmar: Junta carries out double-tap airstrikes targeting civilians",
-   "url": "https://www.france24.com/en/tv-shows/the-observers/20261113-myanmar-junta-airstrikes-civilians",
-   "content": "Numerous civilian casualties have been documented in Rakhine State amid a renewed military offensive by the junta to regain control of the area. Available evidence suggests that military aircraft are deliberately targeting civilian sites and carrying out double-tap strikes.",
-   "published_date": "Fri, 13 Nov 2026 16:41:45 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "El Niño fuels climate disasters: The high price of inaction",
-   "url": "https://www.france24.com/en/tv-shows/access-asia/20261113-el-ni%C3%B1o-fuels-climate-disasters-the-high-price-of-inaction",
-   "content": "2026 is set to be one of the hottest years on record, with El Niño worsening the impact of extreme weather events. With COP31 underway in Turkey, FRANCE 24 speaks with the UNDP's climate boss about the cost of waiting in a warmer world, and with one of the student activists from Pacific Island nations who took their climate fight to the UN's highest court, and won.",
-   "published_date": "Fri, 13 Nov 2026 16:35:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "West Bank: ‘Without international trade and financial support, large settlements would not exist’",
-   "url": "https://www.france24.com/en/video/20261113-west-bank-without-international-trade-and-financial-support-large-settlements-would-not-exist-1",
-   "content": "France is considering legislation to restrict trade with Israeli settlements in the occupied Palestinian territories, namely the West Bank. Ivar Ekeland, Professor Emeritus at Paris Dauphine-PSL University and Chair of the Organization of Academics for the Respect of International Law in Palestine, discusses the proposed measures with Alison Sargent. He calls for restrictions to cover n ot only goods but also services, including financial services, insurance and tourism. \"Without the support of financial entities, of insurance, of providing goods and so on, settlements, big settlements, would not exist,\" he argues.",
-   "published_date": "Fri, 13 Nov 2026 16:15:44 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
-   "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-un-refugee-chief-barham-salih-slams-shameful-war-in-sudan-urges-political-solution",
-   "content": "In an interview with FRANCE 24, UN refugee chief Barham Salih called the war in Sudan \"shameful\" and urged the world to end it. With forced displacement at a record high, he warned that funding cuts are hurting people \"in dire need\". \"Efficiency has its limits,\" he said. Salih also defended the \"integrity of the asylum system\".",
-   "published_date": "Fri, 13 Nov 2026 15:56:30 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "France asks Brussels to examine Algeria's non-compliance of EU association agreement",
-   "url": "https://www.france24.com/en/france/20261113-france-asks-brussels-to-examine-algeria-s-non-compliance-of-eu-association-agreement",
-   "content": "France announced on Friday that it will ask the European Commission to \"examine\" Algeria's non-compliance with its EU association agreement. Earlier in July, Algiers imposed a near-blanket ban on French imports, and last month, Algeria suspended urea shipments to France.",
-   "published_date": "Fri, 13 Nov 2026 15:54:52 GMT",
    "score": 0.6
   }
  ],

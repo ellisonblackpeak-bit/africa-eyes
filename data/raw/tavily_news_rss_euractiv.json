@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "EMA tightens EU contraceptive advice for Mounjaro users",
+   "url": "https://www.rapporteur.com/news/ema-tightens-eu-contraceptive-advice-for-mounjaro-users/",
+   "content": "EU update follows UK warnings after 40 reported pregnancies among weight-loss drug users",
+   "published_date": "Sat, 14 Nov 2026 10:37:13 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Bangladesh races to stitch up an EU trade deal",
    "url": "https://www.rapporteur.com/news/needs-round-up-bangladesh-races-to-stitch-up-an-eu-trade-deal/",
    "content": "Dhaka seeks an agreement to safeguard its garment exports to Europe",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/europes-aging-leaders-talk-ai-four-years-late/",
    "content": "Dublin summit debate on fast-moving tech squeezed by Ukraine and EU budget talks",
    "published_date": "Fri, 13 Nov 2026 03:00:36 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Military mobility: How France taps private firms to prepare for war",
-   "url": "https://www.rapporteur.com/news/military-mobility-how-france-taps-private-firms-to-prepare-for-war/",
-   "content": "France is training with commercial actors to deploy troops and equipment",
-   "published_date": "Fri, 13 Nov 2026 03:00:32 +0000",
    "score": 0.6
   }
  ],

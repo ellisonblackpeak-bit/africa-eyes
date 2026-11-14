@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Jazz đừng đi qua Đà Lạt chỉ một mùa, không còn hẹn ước…",
+   "url": "https://tuoitre.vn/jazz-dung-di-qua-da-lat-chi-mot-mua-khong-con-hen-uoc-100261113204203961.htm",
+   "content": "Vietnam Jazz Heritage Festival mùa đầu tiên khép lại tại Đà Lạt sau ba đêm diễn (từ ngày 6 đến 8-11). Theo ước tính của ban tổ chức, đêm khai màn ở quảng trường Lâm Viên có khoảng 15.000 khán giả. Một du khách ngồi giữa quảng trường Lâm Viên nói với chúng tôi rằng Đà Lạt vừa đãi mình một bữa tiệc.",
+   "published_date": "11/14/2026 3:58:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

@@ -2,7 +2,7 @@
  "tavily": {
   "ok": true,
   "detail": "ok",
-  "at": "2026-11-14T08:50:08+00:00"
+  "at": "2026-11-14T11:38:08+00:00"
  },
  "gdelt": {
   "ok": false,
@@ -12,6 +12,6 @@
  "xai": {
   "ok": false,
   "detail": "HTTP Error 402: Payment Required",
-  "at": "2026-11-14T09:01:29+00:00"
+  "at": "2026-11-14T11:51:02+00:00"
  }
 }

@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 14th, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sat, 14 Nov 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy",
+   "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
+   "content": "Putin has indicated that Russia will not back down on territorial demands to control parts of Ukraine and has rejected the idea of foreign peacekeeping troops being deployed in the country.",
+   "published_date": "Sat, 14 Nov 2026 11:35:08 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Trump, Xi and Putin to meet in China, White House says",
+   "url": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
+   "content": "Trump is set to depart Washington on Monday for the Philippines, where he is due to attend a meeting of the Association of Southeast Asian Nations before making his way to Shenzhen in China.",
+   "published_date": "Sat, 14 Nov 2026 10:00:58 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Regular coffee drinking linked to changes in gut motility and microbiome",
    "url": "https://www.euronews.com/2026/11/14/regular-coffee-drinking-linked-to-changes-in-gut-motility-and-microbiome",
    "content": "The research team used a small electronic capsule that participants swallowed to monitor changes as it passed through the digestive system.",
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-evening",
    "content": "Catch up with the most important stories from around Europe and beyond this November 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
    "published_date": "Thu, 12 Nov 2026 18:00:26 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Gunman kills one and barricades himself in building after gym shooting in Washington, DC",
-   "url": "https://www.euronews.com/2026/11/12/gunman-kills-one-and-barricades-himself-in-building-after-gym-shooting-in-washington-dc",
-   "content": "The gunman first shot and killed a person in a gym, then continued firing after reaching the street. According to police, he then barricaded himself in a building.",
-   "published_date": "Thu, 12 Nov 2026 17:28:39 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Gaza: Devastation inside Nasser Hospital after deadly Israeli strike",
-   "url": "https://www.euronews.com/video/2026/11/12/gaza-devastation-inside-nasser-hospital-after-deadly-israeli-strike",
-   "content": "An Israeli airstrike hit Nasser Medical Complex in Khan Younis, southern Gaza, early on Thursday 12 November, killing six people, including a doctor, and injuring at least 27 others, according to the World Health Organization (WHO).",
-   "published_date": "Thu, 12 Nov 2026 17:10:23 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Russia: Soldier killed in car explosion in Saint Petersburg",
-   "url": "https://www.euronews.com/video/2026/11/12/russia-soldier-killed-in-car-explosion-in-saint-petersburg",
-   "content": "A Russian serviceman was killed when his car exploded in Saint Petersburg on Thursday. Investigators have opened a murder inquiry, while local media report that another person was injured.",
-   "published_date": "Thu, 12 Nov 2026 15:57:59 +0100",
    "score": 0.6
   }
  ],
