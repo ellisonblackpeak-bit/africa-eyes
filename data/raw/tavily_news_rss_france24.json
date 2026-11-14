@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "FAA lifts nationwide ground stop on all US flights",
+   "url": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
+   "content": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.",
+   "published_date": "Sat, 14 Nov 2026 02:50:21 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US flights resume after nationwide ground stop lifted",
+   "url": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
+   "content": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\" and blamed \"old hardware\" for the travel chaos.",
+   "published_date": "Sat, 14 Nov 2026 02:35:48 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Gambia's Adama Barrow seeks third term",
    "url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
    "content": "In tonight's programme, Gambia's electoral commission has announced the five official candidates for the country's upcoming presidential election. President Adama Barrow is seeking a third term. Tensions continue to rise in Ethiopia following the federal government's appointment of a new head of the Western Tigray region. And the Dakar Youth Olympic Games come to a close after two weeks of intense competition.",
@@ -153,20 +167,6 @@
    "url": "https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza",
    "content": "Pink Floyd co-founder Roger Waters has always mixed art with activism. A long-standing supporter of the Palestinian cause, the star guitarist has now released a re-imagined version of the rock anthem \"Comfortably Numb\" with Palestinian American singer Mona Miari singing in Arabic. He tells FRANCE 24's Lyana Saleh why proceeds of the record are going to the Palestine Children's Relief Fund and why he can never become \"Comfortably Numb\" with the violence and suffering in Gaza.",
    "published_date": "Fri, 13 Nov 2026 14:45:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Devastated wasteland': Haitian security forces regain control of stadium from gangs",
-   "url": "https://www.france24.com/en/video/20261113-devastated-wasteland-haitian-security-forces-regain-control-of-stadium-from-gangs",
-   "content": "Haitian security forces said they have regained control of the country's main stadium, wresting it back from the gangs that have been using it for the past two years. They were assisted by the Task Force, a private security group serving the government. The stadium is now under the guard of Salvadoran soldiers. FRANCE 24's senior reporter Catherine Norris Trent, who has covered Haiti extensively, said re-taking the stadium would be a significant step in an area of the city that had been a \"devastated wasteland\".",
-   "published_date": "Fri, 13 Nov 2026 14:37:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "The truth about Douma: How Syria covered up a chemical attack",
-   "url": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack",
-   "content": "On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, and eyewitnesses went silent. Eight years later, FRANCE 24's Jenna Le Bras tracked down survivors and witnesses of the deadly attack. She also met representatives of some of the world's most powerful institutions to understand how a massive cover-up campaign had been orchestrated by the regime, with Russian support.",
-   "published_date": "Fri, 13 Nov 2026 14:24:39 GMT",
    "score": 0.6
   }
  ],

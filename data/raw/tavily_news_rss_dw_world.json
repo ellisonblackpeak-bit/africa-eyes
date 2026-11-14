@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "SpaceX launches Starship rocket, fails to recover booster",
+   "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+   "content": "SpaceX had planned to catch and reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
    "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
    "content": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
@@ -75,13 +82,6 @@
    "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
    "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-rdf",
    "content": "A seat at the table for Europe now appears likely following comments by a US envoy who just held talks with Putin. But who will take that seat remains unclear.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Can the EU make it harder to trick consumers online?",
-   "url": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-world-4025-rdf",
-   "content": "The EU wants to curb subscription traps, misleading sales tactics and features that keep people scrolling. What would the proposed Digital Fairness Act change, and does it go far enough?",
    "published_date": "",
    "score": 0.6
   }

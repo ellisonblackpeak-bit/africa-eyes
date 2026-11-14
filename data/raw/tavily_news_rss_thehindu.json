@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Microsoft outage hits businesses worldwide; India feels impact",
+   "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece",
+   "content": "Disruption to Microsoft’s cloud-based email service affects business operations and airline customer support in India; public services in several countries also report problems",
+   "published_date": "Sat, 14 Nov 2026 07:21:27 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India-Bangladesh consular dialogue will be held on a mutually convenient date, says Ministry of External Affairs",
+   "url": "https://www.thehindu.com/news/national/india-bangladesh-consular-dialogue-will-be-held-on-a-mutually-convenient-date-says-ministry-of-external-affairs/article71698994.ece",
+   "content": "Diplomatic sources had indicated that the postponement of talks was because of the spike in tensions in view of the proposed return of former Prime Minister Sheikh Hasina to Bangladesh",
+   "published_date": "Sat, 14 Nov 2026 07:12:00 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Morning Digest: All departing U.S. flights grounded due to communication outage; Microsoft outage hits businesses worldwide, India feels impact, and more",
+   "url": "https://www.thehindu.com/news/morning-digest-on-november-14-2026/article71700687.ece",
+   "content": "Here is a select list of stories to start the day",
+   "published_date": "Sat, 14 Nov 2026 06:31:15 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Suraj Chand in Singapore Classic squash quarters",
    "url": "https://www.thehindu.com/sport/suraj-chand-in-singapore-classic-squash-quarters/article71699604.ece",
    "content": "The sixth-seeded Indian, Suraj Chand, beat his Australian opponent Benajmin Ratcliffe 11-6, 11-4, 11-4",
@@ -30,6 +51,13 @@
    "score": 0.6
   },
   {
+   "title": "Delhi HC takes suo motu cognisance of illegal construction on Sriniwaspuri drain",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-takes-suo-motu-cognisance-of-illegal-construction-on-sriniwaspuri-drain/article71698475.ece",
+   "content": "",
+   "published_date": "Sat, 14 Nov 2026 01:19:52 +0530",
+   "score": 0.6
+  },
+  {
    "title": "SIR: Digital rights researchers demand more transparency for audit of ERONET by civil society",
    "url": "https://www.thehindu.com/news/cities/chennai/sir-digital-rights-researchers-demand-more-transparency-for-audit-of-eronet-by-civil-society/article71698568.ece",
    "content": "But for greater transparency, the Election Commission of India should actually share software’s source code, demand digital rights researchers",
@@ -48,27 +76,6 @@
    "url": "https://www.thehindu.com/news/cities/chennai/indian-plumbing-association-to-partner-with-iit-madras-on-water-and-sanitation-technologies/article71698296.ece",
    "content": "The association will host its 32nd Indian Plumbing Conference at the Chennai Trade Centre in the city between December 17 and 19",
    "published_date": "Sat, 14 Nov 2026 00:57:57 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "T.N. Governor meets Home Minister Amit Shah in New Delhi",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-governor-meets-home-minister-amit-shah-in-new-delhi/article71698871.ece",
-   "content": "",
-   "published_date": "Sat, 14 Nov 2026 00:35:30 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Microsoft outage hits businesses worldwide; India feels impact",
-   "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece",
-   "content": "Disruption to Microsoft’s cloud-based email service affects business operations and airline customer support in India; public services in several countries also report problems",
-   "published_date": "Sat, 14 Nov 2026 00:12:55 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Germany open to discussing critical mineral partnerships with India, says Ambassador",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/germany-open-to-discuss-critical-mineral-partnerships-with-india-says-ambassador/article71698916.ece",
-   "content": "",
-   "published_date": "Sat, 14 Nov 2026 00:01:57 +0530",
    "score": 0.6
   }
  ],
