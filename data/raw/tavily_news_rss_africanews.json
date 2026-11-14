@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
+   "title": "Microsoft apologises for global outage and rules out cyberattack",
+   "url": "http://www.africanews.com/2026/11/14/microsoft-apologises-for-global-outage-and-rules-out-cyberattack/",
+   "content": "The tech giant said on Saturday that service has now been restored across Teams, Outlook, and its other products, ending the shutdown.",
+   "published_date": "Sat, 14 Nov 2026 14:34:21 +0000",
+   "score": 0.6
+  },
+  {
    "title": "World Diabetes Day: South African health leaders urge early action to detect the disease",
    "url": "http://www.africanews.com/2026/11/14/world-diabetes-day-south-african-health-leaders-urge-early-action-to-detect-the-disease/",
    "content": "The health minister said the condition is now the country's number one killer, taking the top spot from HIV/AIDS.",
-   "published_date": "Sat, 14 Nov 2026 14:04:55 +0000",
+   "published_date": "Sat, 14 Nov 2026 14:35:11 +0000",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "http://www.africanews.com/2026/11/13/cop31-activists-urge-leaders-to-act-on-climate-crisis/",
    "content": "Speaking at a news conference on the sidelines of the talks, Swedish climate activist Greta Thunberg warned that the world is heading towards more genocides, ecocides and the loss of basic rights.",
    "published_date": "Fri, 13 Nov 2026 07:07:16 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UN food agency chief calls for end to Sudan war as famine crisis deepens",
-   "url": "http://www.africanews.com/2026/11/13/un-food-agency-chief-calls-for-end-to-sudan-war-as-famine-crisis-deepens/",
-   "content": "The UN says around 34 million people — nearly two-thirds of Sudan’s population — need humanitarian assistance. It has also warned that drone attacks by both sides have killed civilians, including children, and disrupted essential services.",
-   "published_date": "Fri, 13 Nov 2026 06:05:42 +0000",
    "score": 0.6
   }
  ],

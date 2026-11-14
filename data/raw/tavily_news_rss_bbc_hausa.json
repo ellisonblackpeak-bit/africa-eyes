@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Tinubu ya nuna damuwa kan rikicin da ake samu wajen kamfe",
+   "title": "Mutum 50 sun mutu a wani gumurzu tsakanin ƴanbindiga da ƴan banga a Zamfara",
    "url": "https://www.bbc.co.uk/hausa/live/cqp83x144gv2t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 14/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Kareena Kapoor na shan suka kan saka sarƙa mai rubutun Qur'ani",
+   "url": "https://www.bbc.com/hausa/articles/c6m2lm9y4rjdo?at_medium=RSS&at_campaign=rss",
+   "content": "Kareena ta sanya sarkar wuyar ta zinare domin kece ado a bikin Diwali. An kuma gayyaci manyan jarumai daga masana'antar fim ta Indiya domin halarta.",
+   "published_date": "Sat, 14 Nov 2026 15:18:01 GMT",
    "score": 0.6
   },
   {
@@ -20,13 +27,6 @@
    "url": "https://www.bbc.com/hausa/articles/cm5y182w9zw0o?at_medium=RSS&at_campaign=rss",
    "content": "Bayan an sanar da naɗin Imam Rasheed a matsayin wanda zai gaji marigayin, musamman wajen ci gaba da ayyukan da suka shafi haɗin kai da zaman lafiya, ya shaidawa BBC cewa akwai manyan abubuwa uku da zai mayar da hankali a kai domin tabbatar da cewa manufofin da marigayin ya ɗora tafiyarsu kai, ba su tsaya a nan ba.",
    "published_date": "Sat, 14 Nov 2026 03:55:41 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Man United na zawarcin Nico Paz, Chelsea na harin Kounde",
-   "url": "https://www.bbc.com/hausa/articles/cwdr1jvx51n5o?at_medium=RSS&at_campaign=rss",
-   "content": "Manchester United na sha'awar ɗan wasan tsakiya na Como, Nico Paz; Chelsea ta shirya zawarcin Jules Kounde na Barcelona; yayin da Liverpool ke son Fin Jeltsch na ƙungiyar Stuttgart.",
-   "published_date": "Sat, 14 Nov 2026 03:55:57 GMT",
    "score": 0.6
   },
   {
@@ -69,6 +69,13 @@
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
    "published_date": "Tue, 29 Sep 2026 13:46:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Man United na zawarcin Nico Paz, Chelsea na harin Kounde",
+   "url": "https://www.bbc.com/hausa/articles/cwdr1jvx51n5o?at_medium=RSS&at_campaign=rss",
+   "content": "Manchester United na sha'awar ɗan wasan tsakiya na Como, Nico Paz; Chelsea ta shirya zawarcin Jules Kounde na Barcelona; yayin da Liverpool ke son Fin Jeltsch na ƙungiyar Stuttgart.",
+   "published_date": "Sat, 14 Nov 2026 03:55:57 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/c3x2987x275ko?at_medium=RSS&at_campaign=rss",
    "content": "Jam'iyyar ta ce manufofin nata sun ta'allaƙa ne kan abin da take ganin an cimma a shekaru huɗun farko na gwamnatin Tinubu, musamman a ɓangarorin tattalin arziki, tsaro, samar da ababen more rayuwa da kuma kirkirar ayyukan yi.",
    "published_date": "Wed, 11 Nov 2026 11:27:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ke janyo kwaɗayin dare bayan cin abinci?",
-   "url": "https://www.bbc.com/hausa/articles/c85y13l0x5plo?at_medium=RSS&at_campaign=rss",
-   "content": "Shin ka taɓa cin abinci ka ƙoshi sosai, amma bayan awa guda ko minti talatin sai ka fara jin kwaɗayin cin wani abu, har ka nufi kicin kana neman abin da za ka saka a baki?",
-   "published_date": "Wed, 11 Nov 2026 14:26:36 GMT",
    "score": 0.6
   }
  ],

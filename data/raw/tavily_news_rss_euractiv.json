@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Italy fines Meta €805mn over photo privacy: authority",
+   "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+   "content": "Regulators said Meta had not secured 'specific' consent",
+   "published_date": "Sat, 14 Nov 2026 15:00:34 +0000",
+   "score": 0.6
+  },
+  {
    "title": "US proposes Ukraine cede territory in exchange for joining NATO: Zelenskyy",
    "url": "https://www.rapporteur.com/news/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-zelenskyy/",
    "content": "Moscow also rejected a proposed ceasefire on energy attacks, Zelenskyy said, warning of further Russian aggression",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/rapporteur-am-the-european-question/",
    "content": "Also, in Friday’s edition: AI is ‘flooding’ the institutions",
    "published_date": "Fri, 13 Nov 2026 06:49:15 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Commission wavers over timeline for tobacco law proposal",
-   "url": "https://www.rapporteur.com/news/commission-wavers-over-timeline-for-tobacco-law-proposal/",
-   "content": "Commission spokesperson says the proposal will come 'as soon as possible', but gives no December date",
-   "published_date": "Fri, 13 Nov 2026 03:00:43 +0000",
    "score": 0.6
   }
  ],
