@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Sanctions, AI Boom Cut Global Semiconductor Sales to China",
+   "url": "https://www.chosun.com/english/industry-en/2026/11/09/DMSEY3XR6NBF5EOD2OK7AGZKPY",
+   "snippet": "A key factor in the reduced Chinese share is the surge in AI semiconductor investments in South Korea and Taiwan. In ASML’s third-quarter equipment sales, Taiwan and South Korea accounted for 32% and 31%, respectively, surpassing China’s 23%. Lam Research’s sales to South Korea more than doubled year-on-year. This growth stems from Samsung Electronics and SK Hynix expanding investments in high-ban",
+   "published": "Sun, 08 Nov 2026 21:00:48 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "South Korea faces pressure as US tightens China chip restrictions",
    "url": "https://www.koreajoongangdaily.com/business/us-push-to-tighten-chip-restrictions-on-china-could-make-korea-collateral-damage/12970540",
    "snippet": "SK hynix reportedly intends to channel earnings from its expanded Chinese operations into a new manufacturing plant in New York state.\n\nWashington is effectively blocking the very production expansion that could help finance the U.S. investments it demands. The Korean government reportedly views the restrictions as part of a broader effort to contain China and is working behind the scenes to help ",
@@ -37,10 +44,10 @@
    "source": "tavily"
   },
   {
-   "title": "Weekly Global Economic Update | Deloitte Insights",
-   "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
-   "snippet": "On the other hand, much of that equipment was imported. In fact, real imports of goods grew at an annual rate of 26.4%, subtracting 2.6 percentage points from GDP growth. This demonstrates how the AI buildout is having a strong, positive impact on many US trading partners. Separately, we have seen strong export growth in such countries as Japan, China, Taiwan, and South Korea, partly reflecting gl",
-   "published": "Mon, 09 Nov 2026 03:00:00 GMT",
+   "title": "Nvidia's Asian supply chain prepares for life after Huang",
+   "url": "https://www.reuters.com/business/media-telecom/nvidias-asian-supply-chain-prepares-life-after-huang-2026-11-12",
+   "snippet": "US chip giant Nvidia's partners and suppliers across Asia, from memory chip powerhouse South Korea to advanced chipmaking hub Taiwan, are redrawing plans",
+   "published": "Thu, 12 Nov 2026 08:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -51,17 +58,10 @@
    "source": "tavily"
   },
   {
-   "title": "Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth",
-   "url": "https://www.reuters.com/commentary/breakingviews/how-stop-securonomics-killing-growth-2026-11-09",
-   "snippet": "Trade policies increasingly discriminate ⁠based on ​firms' nationality, rather ​than where products are made. The US and ​EU hope ​this will shrink China's",
-   "published": "Mon, 09 Nov 2026 05:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Emerging Market Equities: A More Resilient Growth Story",
    "url": "https://www.marketsgroup.org/strategic-insights/emerging-market-equities-a-more-resilient-growth-story",
    "snippet": "MetLife Investment Management serves institutional investors, investment consultants, and intermediaries globally by combining deep specialist expertise",
-   "published": "Fri, 13 Nov 2026 05:00:00 GMT",
+   "published": "Fri, 13 Nov 2026 08:00:00 GMT",
    "source": "tavily"
   }
  ],

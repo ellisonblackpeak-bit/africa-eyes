@@ -2,9 +2,37 @@
  "success": true,
  "results": [
   {
-   "title": "Tanker collides with New Orleans river cruise carrying 129 passengers, rescue operation underway",
+   "title": "Regular coffee drinking linked to changes in gut motility and microbiome",
+   "url": "https://www.euronews.com/2026/11/14/regular-coffee-drinking-linked-to-changes-in-gut-motility-and-microbiome",
+   "content": "The research team used a small electronic capsule that participants swallowed to monitor changes as it passed through the digestive system.",
+   "published_date": "Sat, 14 Nov 2026 09:27:12 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Russia urges IIHF to move Canada world juniors as hockey boycotts spread",
+   "url": "https://www.euronews.com/2026/11/14/russia-urges-iihf-to-move-canada-world-juniors-as-hockey-boycotts-spread",
+   "content": "Canadian authorities said Russians will be barred from the 10-nation tournament in Alberta from 26 December. Estonia, Finland and Norway plan to exclude athletes until the war in Ukraine ends.",
+   "published_date": "Sat, 14 Nov 2026 08:30:43 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
+   "url": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
+   "content": "US Transport Secretary Sean Duffy blamed the stoppage on what he called an \"incredibly old\" air traffic control system and warned that it would take time for normal operations to resume.",
+   "published_date": "Sat, 14 Nov 2026 07:56:20 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Latest news bulletin | November 14th, 2026 – Morning",
+   "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-morning",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sat, 14 Nov 2026 07:00:32 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
    "url": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
-   "content": "A tanker struck and partially submerged a New Orleans river cruise carrying around 129 passengers. Multiple people were rescued as search-and-rescue operations continued.",
+   "content": "According to the Port of New Orleans, all 197 passengers and crew members have been accounted for. \"No critical injuries have been reported,\" it said in a post on social media.",
    "published_date": "Fri, 13 Nov 2026 22:04:32 +0100",
    "score": 0.6
   },
@@ -181,34 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/12/russia-soldier-killed-in-car-explosion-in-saint-petersburg",
    "content": "A Russian serviceman was killed when his car exploded in Saint Petersburg on Thursday. Investigators have opened a murder inquiry, while local media report that another person was injured.",
    "published_date": "Thu, 12 Nov 2026 15:57:59 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Who is Alice Huang, the alleged Chinese spy linked to Nvidia's Jensen Huang?",
-   "url": "https://www.euronews.com/2026/11/12/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang",
-   "content": "Footage shows Nvidia CEO Jensen Huang alongside Alice Huang, a Chinese businesswoman at the centre of an alleged Chinese intelligence operation targeting him.",
-   "published_date": "Thu, 12 Nov 2026 15:51:22 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine: Russian drone attack sparks major fire in Kyiv residential building",
-   "url": "https://www.euronews.com/video/2026/11/12/ukraine-russian-drone-attack-sparks-major-fire-in-kyiv-residential-building",
-   "content": "A Russian drone strike sparked a major fire at an apartment building in Kyiv, Ukraine, early on Thursday. Residents fled to safety as firefighters battled the flames and rescue workers helped people at the scene.",
-   "published_date": "Thu, 12 Nov 2026 15:26:17 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Jensen Huang quits Nvidia after 33 years amid alleged Chinese spy scandal",
-   "url": "https://www.euronews.com/2026/11/12/nvidias-jensen-huang-resigns-over-relationship-with-suspected-chinese-spy",
-   "content": "Shareholders are suing the AI chip giant, and US lawmakers want answers about his links to Beijing.",
-   "published_date": "Thu, 12 Nov 2026 15:07:53 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Slovenia: Red Bull human catapult sets two Guinness World Records",
-   "url": "https://www.euronews.com/video/2026/11/12/slovenia-red-bull-human-catapult-sets-two-guinness-world-records",
-   "content": "Two BASE jumpers made history in Trbovlje, Slovenia, after being launched into the sky from a 360-metre industrial chimney using what organisers describe as the world's largest human catapult.",
-   "published_date": "Thu, 12 Nov 2026 12:50:32 +0100",
    "score": 0.6
   }
  ],
