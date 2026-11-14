@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
+   "url": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
+   "content": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
+   "published_date": "Sat, 14 Nov 2026 20:51:24 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
+   "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+   "content": "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Gadi Eisenkot, who dismissed the appeal as a political ploy. This comes as the incoming premier is in the midst of negotiations to form a new administration.",
+   "published_date": "Sat, 14 Nov 2026 20:35:22 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
    "url": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
    "content": "French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. His statement comes as the United States pushes ahead with efforts to negotiate between Ukraine and Moscow.",
@@ -153,20 +167,6 @@
    "url": "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang",
    "content": "The Financial Times says computing giant Nvidia has approached Rene Haas, CEO of British chip designer Arm, in its search for a potential successor to Jensen Huang. Huang resigned after his affair with an alleged Chinese spy. Meanwhile some employees are clamouring for Huang's return – as his fellow tech leader Elon Musk. A sign of Huang's lingering star power, in an industry where so often the fate of each giant company depends on one man. Story by Peter O'Brien.",
    "published_date": "Sat, 14 Nov 2026 10:20:11 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "France's school principals say threats and violence have become unbearable",
-   "url": "https://www.france24.com/en/france-s-school-principals-say-threats-and-violence-have-become-unbearable",
-   "content": "Headteachers gathered across France this Friday, to demonstrate their frustration after nearly two months of student protests that have blockaded high schools. Many of the teachers support the students, but say they feel exhausted and isolated as the violence has surged. They are calling the government to protect them. Story by Vedika Bahl.",
-   "published_date": "Sat, 14 Nov 2026 10:17:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "France protests for fifth Saturday against living costs and heavy-handed policing",
-   "url": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
-   "content": "Different causes are set to come together for one march in Paris this Saturday. Campaign groups, students and Yellow Vest protesters are due to join forces in the capital, bringing together demands on wages, education and civil liberties. But after weeks of demonstrations, union leaders warn that protest fatigue is setting in, while police officers are seeking better compensation for the risk of policing the protests. Story by Jack Pownall.",
-   "published_date": "Sat, 14 Nov 2026 10:15:42 GMT",
    "score": 0.6
   }
  ],
