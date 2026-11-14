@@ -30,20 +30,6 @@
    "source": "tavily"
   },
   {
-   "title": "Africanews | US cautions Madagascar over growing military ties with Russia",
-   "url": "https://www.africanews.com/amp/2026/11/11/us-cautions-madagascar-over-growing-military-ties-with-russia",
-   "snippet": "Lieutenant General John Brennan, deputy commander of US Africa Command, said Washington was concerned that Russia could extend its influence beyond the Sahel, where military-led governments have increasingly turned to Moscow for security assistance.\n\nMali, Burkina Faso and Niger have cut military ties with traditional Western allies and sought Russian support in their fight against jihadist groups",
-   "published": "Wed, 11 Nov 2026 14:45:59 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "AFRICA/NIGER - Displacement and insecurity: the challenges facing the small Catholic community - Agenzia Fides",
-   "url": "http://www.fides.org/en/news/78399-AFRICA_NIGER_Displacement_and_insecurity_the_challenges_facing_the_small_Catholic_community",
-   "snippet": "Niamey (Fides News Agency) – Abandoned villages, closed churches, faithful forced to flee and priests unable to reach their communities. The advance of jihadist groups across the Sahel is placing the presence of the small Catholic Church in Niger at risk, particularly in regions most exposed to violence. [...] In recent years, the security situation has deteriorated significantly. In the western r",
-   "published": "Mon, 09 Nov 2026 11:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "How the Sahel's Demographic Surge Is Impacting Jihadist Recruitment | RANE Worldview",
    "url": "https://worldview.ranenetwork.com/content/analysis/2026-11-03/how-the-sahel-s-demographic-surge-is-impacting-jihadist-recruitment/4e8c4a56406344d0",
    "snippet": "The Sahel's rapidly growing youth population, disrupted education, weak livelihoods and heavy-handed counterinsurgency efforts will likely sustain jihadists' ability to exploit grievances, recruit personnel and broaden support networks, limiting the durability of military gains. Over the past decade, al Qaeda-affiliated Jamaat Nusrat al-Islam wal-Muslimin, or JNIM, and Islamic State Sahel Province",
@@ -55,6 +41,13 @@
    "url": "https://www.bbc.com/news/articles/crkgv58pknyeo",
    "snippet": "\"We are concerned about Russia wanting to \"proliferate [the Sahel model] elsewhere across the continent\", Brennan told reporters in an online briefing.\n\n\"Madagascar sits in a location that is extremely important, as is Mozambique, and we don't want to see those models be applied in those two locations,\" he said.\n\nThe three Sahel countries had blamed their former Western partners for failing to con",
    "published": "Wed, 11 Nov 2026 07:30:15 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Gunmen Kill at Least 38 in Ambush on Market Convoy in Western Niger",
+   "url": "https://theopenpress.in/article/gunmen-ambush-market-convoy-western-niger-38-killed-tillaberi",
+   "snippet": "Gunmen ambushed villagers heading to a weekly market in Niger's Tillaberi region, killing at least 38 people, including women and self-defence fighters.",
+   "published": "Sat, 14 Nov 2026 14:00:00 GMT",
    "source": "tavily"
   }
  ],

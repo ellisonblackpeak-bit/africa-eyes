@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Italy hits Meta with €805m fine over privacy law violation",
+   "url": "https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/",
+   "content": "It is the largest fine ever issued by Italy's data protection regulator.",
+   "published_date": "Sat, 14 Nov 2026 14:03:27 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Nearly €20m in cash found buried, hidden in Hungary corruption case",
+   "url": "https://www.politico.eu/article/nearly-e20m-in-cash-found-buried-hidden-in-hungary-corruption-case/",
+   "content": "Hungarian authorities investigating a former minister for corruption say they uncovered a trove of hidden cash.",
+   "published_date": "Sat, 14 Nov 2026 13:16:27 +0000",
+   "score": 0.6
+  },
+  {
    "title": "US suggested Ukraine could give up Donbas for NATO membership, Zelenskyy says",
    "url": "https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/",
    "content": "\"This was the first time this had been raised,\" the Ukrainian president told reporters.",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/microsoft-outage-renews-european-calls-to-detox-from-us-tech/",
    "content": "Lawmakers across Europe call for action to reduce reliance on a handful of foreign tech companies.",
    "published_date": "Fri, 13 Nov 2026 17:32:11 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ex-Labour MP accused of sexual harassment joins Plaid Cymru",
-   "url": "https://www.politico.eu/article/ex-labour-mp-accused-sexual-harassment-joins-plaid-cymru/",
-   "content": "Geraint Davies has joined Wales' ruling party.",
-   "published_date": "Fri, 13 Nov 2026 16:24:21 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU countries to announce deportation hub deal with Rwanda",
-   "url": "https://www.politico.eu/article/eu-countries-to-announce-deportation-hub-deal-with-rwanda/",
-   "content": "Austria, Denmark, Germany, Greece and the Netherlands aim to make the centers operational as of next year.",
-   "published_date": "Fri, 13 Nov 2026 16:23:33 +0000",
    "score": 0.6
   }
  ],
