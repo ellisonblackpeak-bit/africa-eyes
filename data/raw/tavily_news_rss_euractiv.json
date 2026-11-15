@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Estonia to close Russia border after ‘sabotage’ bid",
+   "url": "https://www.rapporteur.com/news/estonia-to-close-russia-border-after-sabotage-bid/",
+   "content": "The foiled attack happened in Viimsi, north of the capital, Tallinn",
+   "published_date": "Sun, 15 Nov 2026 17:08:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "European ships ordered out as EU-Mauritania fishing deal expires",
    "url": "https://www.rapporteur.com/news/european-ships-ordered-out-as-eu-mauritania-fishing-deal-expires/",
    "content": "The EU had warned member states the agreement was about to expire but that talks were ongoing to try to renew it",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/microsoft-battling-to-fix-global-outlook-outage/",
    "content": "Service disruption also affecting other Microsoft software, such as Teams and Copilot",
    "published_date": "Fri, 13 Nov 2026 09:18:52 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIREPOWER: Leaders hold first in-depth talks on AI",
-   "url": "https://www.rapporteur.com/news/firepower-leaders-hold-first-in-depth-talks-on-ai/",
-   "content": "In today's edition: military mobility, Ukraine, Russian supply chains",
-   "published_date": "Fri, 13 Nov 2026 08:48:52 +0000",
    "score": 0.6
   }
  ],
