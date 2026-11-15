@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 15th, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sun, 15 Nov 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Watch: SpaceX catches Starship in midair on return to launch tower",
+   "url": "https://www.euronews.com/video/2026/11/15/watch-spacex-catches-starship-in-midair-on-return-to-launch-tower",
+   "content": "SpaceX's Starship spacecraft was successfully caught by giant mechanical arms at its Texas launch tower after a 22-hour journey, marking the first successful midair capture of a Starship returning from space.",
+   "published_date": "Sun, 15 Nov 2026 11:05:49 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Cape Verde heads to the polls in presidential election",
+   "url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
+   "content": "Incumbent President José Maria Neves, who won the 2021 presidential election, is favoured to win a second term in office.",
+   "published_date": "Sun, 15 Nov 2026 10:45:23 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Latest news bulletin | November 15th, 2026 – Morning",
    "url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-morning",
    "content": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
@@ -79,9 +100,9 @@
    "score": 0.6
   },
   {
-   "title": "Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
+   "title": "Airlines expect to return to full schedules by Sunday night after US nationwide ground stop, FAA says",
    "url": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
-   "content": "US Transport Secretary Sean Duffy said operations were \"slowly returning to normal\" on Saturday but that further delays and cancellations were likely.",
+   "content": "Passengers travelling to and from the US continued to face delays and cancellations to flights on Saturday despite the FAA having lifted the ground stop.",
    "published_date": "Sat, 14 Nov 2026 07:56:20 +0100",
    "score": 0.6
   },
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran",
    "content": "Despite rising military tensions, diplomatic efforts mediated by Qatar and Pakistan are continuing. Tehran has made any resumption of formal negotiations with Washington conditional on its demands being met.",
    "published_date": "Fri, 13 Nov 2026 10:39:16 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Portugal: Humanoid robots take centre stage at Web Summit 2026",
-   "url": "https://www.euronews.com/video/2026/11/13/portugal-humanoid-robots-take-centre-stage-at-web-summit-2026",
-   "content": "Dancing humanoid robots and robotic dogs stole the show at Web Summit 2026 in Lisbon. The technology conference has generated nearly €2.5 billion for Portugal's economy over the past decade, according to a study.",
-   "published_date": "Fri, 13 Nov 2026 09:32:51 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Peru: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
-   "url": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
-   "content": "Thousands of young Catholics gathered at Peru's National Stadium in Lima on Thursday 12 November for a prayer vigil led by Pope Leo XIV, transforming the venue into a sea of lights, The stands lit up with thousands of mobile phone lights as the pontiff led an evening of songs, prayer and reflection.",
-   "published_date": "Fri, 13 Nov 2026 09:11:29 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "US pushes for European presence at Ukraine-Russia talks, which Moscow refuses to confirm",
-   "url": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks",
-   "content": "\"Both sides have now agreed to expand the next round of negotiations to include our European partners,\" US special envoy Jared Kushner said. Moscow has not confirmed whether it has agreed to include European negotiators in subsequent talks.",
-   "published_date": "Fri, 13 Nov 2026 08:41:27 +0100",
    "score": 0.6
   }
  ],

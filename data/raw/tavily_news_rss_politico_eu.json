@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Israel kills Hamas commander in Gaza strike",
+   "url": "https://www.politico.eu/article/israel-kills-hamas-commander-in-gaza-strike/",
+   "content": "Samir Abu Younis, who helped plan and oversee the Oct. 7 massacre, took control of Hamas' Rafah Brigade just two months ago.",
+   "published_date": "Sun, 15 Nov 2026 09:43:15 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
    "url": "https://www.politico.eu/article/russian-army-is-slowing-down-as-ukrainian-forces-kill-thousands-of-kremlin-troops/",
    "content": "Ukraine is countering Russia's narrative of battlefield success by blunting the Kremlin's attacks.",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/why-europe-failed-to-find-a-superhero-to-take-on-vladimir-putin/",
    "content": "Europe’s seven-part team of Ukraine peace envoys must now agree their strategy for handling Russia.",
    "published_date": "Fri, 13 Nov 2026 18:14:04 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Le Pen offers to meet Zelenskyy in Brussels",
-   "url": "https://www.politico.eu/article/france-marine-le-pen-offers-to-meet-ukraine-volodymyr-zelenskyy-in-brussels/",
-   "content": "The Ukrainian leader wants to persuade the far-right leader to continue supporting Ukraine if she becomes president of France.",
-   "published_date": "Fri, 13 Nov 2026 18:07:50 +0000",
    "score": 0.6
   }
  ],
