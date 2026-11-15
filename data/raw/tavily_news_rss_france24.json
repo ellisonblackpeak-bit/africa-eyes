@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Cape Verde could make election history with first female president",
+   "url": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
+   "content": "Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumbent José Maria Neves, who is the country's fifth president since it became independent from Portugal in 1975.",
+   "published_date": "Sun, 15 Nov 2026 07:56:14 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
+   "url": "https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears",
+   "content": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering whether the world’s increasingly interconnected technology systems are beginning to unravel.",
+   "published_date": "Sun, 15 Nov 2026 07:04:31 GMT",
+   "score": 0.6
+  },
+  {
    "title": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
    "url": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
    "content": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
@@ -79,6 +93,13 @@
    "score": 0.6
   },
   {
+   "title": "Copper wires to blame for US flight disruption, says Trump administration",
+   "url": "https://www.france24.com/en/americas/20261114-copper-wires-to-blame-for-us-flight-disruption-says-trump-administration",
+   "content": "With thousands of flights cancelled and travel disruption continuing, officials say the situation should return to normal Sunday. The Trump administration pointed to aging infrastructure – specifically \"a botched replacement of old copper wire communication lines\" – as being responsible for nationwide travel chaos.",
+   "published_date": "Sat, 14 Nov 2026 15:35:23 GMT",
+   "score": 0.6
+  },
+  {
    "title": "'Poisoned chalice': French presidential hopeful Riner rebuffs Macron's backing",
    "url": "https://www.france24.com/en/france/20261114-judo-star-and-presidential-hopeful-riner-calls-macron",
    "content": "French judo champion Teddy Riner on Saturday publicly distanced himself from President Emmanuel Macron, calling his endorsement a \"poisoned chalice\". The presidential hopeful seeks to position himself as an alternative to France's political extremes.",
@@ -146,27 +167,6 @@
    "url": "https://www.france24.com/en/tv-shows/sports/20261114-france-fend-off-south-african-comeback-to-clinch-long-awaited-win-in-paris",
    "content": "Twenty-one years after last beating the Springboks in Paris, Les Bleus held out for a 21-19 win over the world champions on Friday after a nailbiting finale. Antoine Dupont and company are now one step away from reaching the Nations Championship final in London.",
    "published_date": "Sat, 14 Nov 2026 10:58:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
-   "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
-   "content": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and warned that the Kremlin's bid to change the continent's security architecture could lead to more wars.",
-   "published_date": "Sat, 14 Nov 2026 10:30:04 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Climate action is alive': Triumphant Democrats attend COP31 summit shunned by Trump",
-   "url": "https://www.france24.com/en/environment/20261114-climate-action-is-alive-triumphant-democrats-take-on-cop31-shunned-by-trump",
-   "content": "A delegation of 18 Democratic lawmakers arrived at the COP31 climate summit in Turkey on Saturday to reaffirm the US commitment to tackling global warming following their sweeping midterm election victory.",
-   "published_date": "Sat, 14 Nov 2026 10:25:22 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "SpaceX's Starship encounters problems during 15th test flight",
-   "url": "https://www.france24.com/en/spacex-s-starship-encounters-problems-during-15th-test-flight",
-   "content": "Elon Musk’s SpaceX successfully launched its Starship, the world's largest spaceship, into orbit where it should release 15 satellites for its Starlink network. A few minutes after lift off however, the rocket's booster which was meant to return to the pad splashed down in the Gulf of Mexico. Details by Daniel Quinlan.",
-   "published_date": "Sat, 14 Nov 2026 10:21:09 GMT",
    "score": 0.6
   }
  ],

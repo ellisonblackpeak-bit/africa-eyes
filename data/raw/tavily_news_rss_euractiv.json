@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "French protesters chant against inflation and police",
+   "url": "https://www.rapporteur.com/news/french-protesters-chant-against-inflation-and-police/",
+   "content": "Unions have called for a new day of strikes on Tuesday, after rejecting a government promise to increase the minimum wage by 0.6%",
+   "published_date": "Sun, 15 Nov 2026 08:33:39 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Nations grapple with loss of 1.5°C target at UN climate summit",
+   "url": "https://www.rapporteur.com/news/nations-grapple-with-loss-of-1-5c-target-at-un-climate-summit/",
+   "content": "Some negotiators are sceptical but reluctant to abandon a target seen as essential",
+   "published_date": "Sun, 15 Nov 2026 08:20:14 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU budget: Die Rechnung, il conto – who pays?",
+   "url": "https://www.rapporteur.com/news/eu-budget-die-rechnung-il-conto-who-pays/",
+   "content": "As the MFF endgame looms, Rapporteur crunches the hard numbers behind the EU’s 2028-2034 deadlock",
+   "published_date": "Sun, 15 Nov 2026 08:00:48 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Italy fines Meta €805mn over photo privacy: authority",
    "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
    "content": "Regulators said Meta had not secured 'specific' consent",
@@ -188,27 +209,6 @@
    "url": "https://www.rapporteur.com/news/voltage-could-the-us-go-for-a-carbon-tariff/",
    "content": "In today's edition: ETS permits, Polish laws, PFAS",
    "published_date": "Fri, 13 Nov 2026 08:37:36 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIRST AID: Uncertainty over TPD timeline",
-   "url": "https://www.rapporteur.com/news/first-aid-uncertainty-over-tpd-timeline/",
-   "content": "In today's edition: preparedness, sugar tax, wastewater",
-   "published_date": "Fri, 13 Nov 2026 08:34:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "HARVEST: Wake-up call",
-   "url": "https://www.rapporteur.com/news/harvest-wake-up-call/",
-   "content": "In today's edition: Ukraine, food promotion, wine",
-   "published_date": "Fri, 13 Nov 2026 08:30:22 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "‘The European question’",
-   "url": "https://www.rapporteur.com/news/rapporteur-am-the-european-question/",
-   "content": "Also, in Friday’s edition: AI is ‘flooding’ the institutions",
-   "published_date": "Fri, 13 Nov 2026 06:49:15 +0000",
    "score": 0.6
   }
  ],
