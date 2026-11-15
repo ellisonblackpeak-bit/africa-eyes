@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Hoàng Tôn kể chuyện 2 lần ra về sớm tại Vietnam Idol",
-   "url": "https://tuoitre.vn/hoang-ton-ke-chuyen-2-lan-ra-ve-som-tai-vietnam-idol-100261115151553221.htm",
-   "content": "Trước khi nổi tiếng, Hoàng Tôn từng hoạt động âm nhạc nhỏ lẻ. Anh từng hai lần thử sức tại Vietnam Idol nhưng đều trượt từ vòng ‘gửi xe’.",
-   "published_date": "11/15/2026 4:49:00 PM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
