@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Trade war in focus at ASEAN summit ahead of Trump arrival",
+   "url": "https://www.rapporteur.com/news/trade-war-in-focus-at-asean-summit-ahead-of-trump-arrival/",
+   "content": "Lula and Carney touted new trade ties as countries seek to reduce reliance on the US amid Trump’s tariffs",
+   "published_date": "Sun, 15 Nov 2026 11:44:59 +0000",
+   "score": 0.6
+  },
+  {
    "title": "French protesters chant against inflation and police",
    "url": "https://www.rapporteur.com/news/french-protesters-chant-against-inflation-and-police/",
    "content": "Unions have called for a new day of strikes on Tuesday, after rejecting a government promise to increase the minimum wage by 0.6%",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/the-hack-dublin-hosts-ai-talks/",
    "content": "In today's edition: CAIDA report, Kids Act, Pax Silica",
    "published_date": "Fri, 13 Nov 2026 08:44:21 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "VOLTAGE: Could the US go for a carbon tariff?",
-   "url": "https://www.rapporteur.com/news/voltage-could-the-us-go-for-a-carbon-tariff/",
-   "content": "In today's edition: ETS permits, Polish laws, PFAS",
-   "published_date": "Fri, 13 Nov 2026 08:37:36 +0000",
    "score": 0.6
   }
  ],

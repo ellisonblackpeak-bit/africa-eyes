@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Estonia accuses Russia of attempted arson attack on defense firm",
+   "url": "https://www.politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker/",
+   "content": "\"Estonia is preparing for the possibility of closing its border with Russia,\" said Estonian Prime Minister Kristen Michal.",
+   "published_date": "Sun, 15 Nov 2026 14:32:13 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Romania slams ‘unacceptable’ drone strikes on Black Sea ships",
+   "url": "https://www.politico.eu/article/romanian-pm-condemns-unacceptable-drone-strikes-black-sea-ships/",
+   "content": "Three commercial vessels were hit near Romania’s coast, prompting fighter jet deployments and fresh calls for NATO support to strengthen Black Sea security.",
+   "published_date": "Sun, 15 Nov 2026 13:16:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Israel kills Hamas commander in Gaza strike",
    "url": "https://www.politico.eu/article/israel-kills-hamas-commander-in-gaza-strike/",
    "content": "Samir Abu Younis, who helped plan and oversee the Oct. 7 massacre, took control of Hamas' Rafah Brigade just two months ago.",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/die-geburtstagswoche-des-grauens-fur-merz-mit-rasmus-buchsteiner/",
    "content": "Präsentiert von YouTube.",
    "published_date": "Sat, 14 Nov 2026 04:30:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU deal on Ukraine talks overshadows AI-focused summit in Dublin",
-   "url": "https://www.politico.eu/article/eu-deal-on-ukraine-talks-overshadows-ai-focused-summit-in-dublin/",
-   "content": "EU leaders have agreed that the E5 format — Germany, France, U.K, Italy and Poland — plus the European Commission and Council will represent the bloc at any future peace negotiations.",
-   "published_date": "Fri, 13 Nov 2026 19:10:16 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Why Europe failed to find a superhero to take on Putin",
-   "url": "https://www.politico.eu/article/why-europe-failed-to-find-a-superhero-to-take-on-vladimir-putin/",
-   "content": "Europe’s seven-part team of Ukraine peace envoys must now agree their strategy for handling Russia.",
-   "published_date": "Fri, 13 Nov 2026 18:14:04 +0000",
    "score": 0.6
   }
  ],

@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "At Least 1 Killed as Ukraine Strikes Industrial Sites Across Russia",
+   "url": "https://www.themoscowtimes.com/2026/11/15/at-least-1-killed-as-ukraine-strikes-industrial-sites-across-russia-a94264",
+   "content": "Ukraine’s military claimed responsibility for strikes in Tatarstan, saying it had targeted the Nizhnekamskneftekhim petrochemical complex.",
+   "published_date": "Sun, 15 Nov 2026 15:32:23 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Zelensky Escalates Criticism of SpaceX Over Speed Caps",
    "url": "https://www.themoscowtimes.com/2026/11/14/zelensky-a94262",
    "content": "Zelensky said the speed restrictions made it more difficult for Ukrainian air defense units to intercept Russian jet-powered drones and made Ukrainian cities more vulnerable.",
@@ -16,8 +23,8 @@
    "score": 0.6
   },
   {
-   "title": "Kremlin Says Ready for Civilian Evacuation From Ukraine’s Kostiantynivka",
-   "url": "https://www.themoscowtimes.com/2026/11/13/kremlin-says-ready-for-civilian-evacuation-from-ukraines-kostiantynivka-a94257",
+   "title": "Kremlin Says It’s Ready for Civilian Evacuation From Ukraine’s Kostiantynivka",
+   "url": "https://www.themoscowtimes.com/2026/11/13/kremlin-says-its-ready-for-civilian-evacuation-from-ukraines-kostiantynivka-a94257",
    "content": "Kyiv has expressed concerns that Moscow might wish to use ceasefires for such missions to enable its military to regroup.",
    "published_date": "Fri, 13 Nov 2026 16:59:00 +0300",
    "score": 0.6
@@ -202,13 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/10/freight-train-derails-in-arkhangelsk-region-following-bridge-collapse-a94220",
    "content": "At least eight long-distance passenger trains traveling between major cities — including Moscow and St. Petersburg — were left stranded following the derailment.",
    "published_date": "Tue, 10 Nov 2026 16:57:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Major Moscow Region Gas Station Chain Closes as Russia Returns to Fuel Rationing",
-   "url": "https://www.themoscowtimes.com/2026/11/10/major-moscow-region-gas-station-chain-closes-as-russia-returns-to-fuel-rationing-a94218",
-   "content": "EuroTrans, which operated 57 Trassa locations across the Moscow region, defaulted on its bond payments in September, prompting state-owned lender Sberbank to file a bankruptcy petition against the company.",
-   "published_date": "Tue, 10 Nov 2026 15:21:00 +0300",
    "score": 0.6
   }
  ],

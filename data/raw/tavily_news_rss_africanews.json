@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Francophonie summit opens in Cambodia overshadowed by African tensions",
+   "url": "http://www.africanews.com/2026/11/15/francophonie-summit-opens-in-cambodia-overshadowed-by-african-tensions/",
+   "content": "The DR Congo objects to Rwanda's Louise Mushikiwabo seeking a third term as head of the organisation and threatens to quit if she is re-elected",
+   "published_date": "Sun, 15 Nov 2026 14:10:09 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Presidential polls open in Cape Verde with first female candidate",
+   "url": "http://www.africanews.com/2026/11/15/presidential-polls-open-in-cape-verde-with-first-female-candidate/",
+   "content": "Incumbent Jose Maria Neves is favoured to win a second term in office in a country known for its stability in a politically volatile region.",
+   "published_date": "Sun, 15 Nov 2026 13:16:38 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Haitians welcome deployment of Salvadoran troops as gang violence rages on",
    "url": "http://www.africanews.com/2026/11/15/haitians-welcome-deployment-of-salvadoran-troops-as-gang-violence-rages-on/",
    "content": "The around 2,000 soldiers in Haiti are operating outside the official framework of the UN-back Gang Suppression Force.",
-   "published_date": "Sun, 15 Nov 2026 10:57:22 +0000",
+   "published_date": "Sun, 15 Nov 2026 11:01:51 +0000",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "http://www.africanews.com/2026/11/13/south-african-town-divided-over-plan-to-fence-in-baboons/",
    "content": "Now, a plan to move around 60 animals into fenced enclosures has split the community. Some residents say enough is enough. Others say the baboons should remain free.",
    "published_date": "Fri, 13 Nov 2026 10:45:09 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UN security council extends Central African Republic peacekeeping mission until 2027",
-   "url": "http://www.africanews.com/2026/11/13/un-security-council-extends-central-african-republic-peacekeeping-mission-until-2027/",
-   "content": "The latest mandate extension underscores the Security Council's continued commitment to the country, while highlighting the importance of a carefully managed transition that ensures national institutions can sustain the gains made.",
-   "published_date": "Fri, 13 Nov 2026 09:28:57 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Outlook outage hits users in 74 countries as Microsoft seeks fix",
-   "url": "http://www.africanews.com/2026/11/13/outlook-outage-hits-users-in-74-countries-as-microsoft-seeks-fix/",
-   "content": "Microsoft said on Thursday that efforts to repair a major outage of Outlook were not going as expected and the firm was seeking alternative solutions as users around the world were left without its crucial services.",
-   "published_date": "Fri, 13 Nov 2026 10:53:46 +0000",
    "score": 0.6
   }
  ],

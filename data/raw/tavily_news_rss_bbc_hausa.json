@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Isra'ila ta kashe wani babban kwamandan Hamas a Gaza",
+   "title": "Mulki zai koma Arewa bayan Tinubu ya kammala wa'adinsa na biyu - Bichi",
    "url": "https://www.bbc.co.uk/hausa/live/cmvg2k3r347et?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 15/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Ƙungiyoyin da suka yi ƙaurin suna wajen korar kociyoyi a Ingila",
+   "url": "https://www.bbc.com/hausa/articles/cm36g12exgp6o?at_medium=RSS&at_campaign=rss",
+   "content": "Akwai kungiyoyi da dama da suka yi kaurin suna wajen sallamar kociyoyi idan aka auna tun daga shekarar 2000 zuwa yanzu. Ga jerin wadanda suka fi korar koci a Ingila da dalilan da ke haddasa sauye-sauyen.",
+   "published_date": "Sun, 15 Nov 2026 12:17:13 GMT",
    "score": 0.6
   },
   {
@@ -13,13 +20,6 @@
    "url": "https://www.bbc.com/hausa/articles/cm5y1weq4nygo?at_medium=RSS&at_campaign=rss",
    "content": "Yadda ƴan bindiga ke maye gurbin tsoffin cikinsu da fusatattun matasa marassa tausayi masu shan ƙwayoyin maye, waɗanda ke kashe mutanen da aka yi garkuwa da su bayan dangi sun biya kuɗaɗen fansa a arewa maso yammacin Najeriya",
    "published_date": "Sun, 15 Nov 2026 03:55:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Arsenal na zawarcin Nusa, Chelsea na son ɗaukar Morante daga Betis",
-   "url": "https://www.bbc.com/hausa/articles/c95y1mld07pjo?at_medium=RSS&at_campaign=rss",
-   "content": "Arsenal na iya biyan fam miliyan 66 domin sayen Antonio Nusa na RB Leipzig, yayin da Real Betis ta yi watsi da tayin da Chelsea ta gabatar kan Jose Morante.",
-   "published_date": "Sun, 15 Nov 2026 03:54:26 GMT",
    "score": 0.6
   },
   {
@@ -69,6 +69,13 @@
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
    "published_date": "Tue, 29 Sep 2026 13:46:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Arsenal na zawarcin Nusa, Chelsea na son ɗaukar Morante daga Betis",
+   "url": "https://www.bbc.com/hausa/articles/c95y1mld07pjo?at_medium=RSS&at_campaign=rss",
+   "content": "Arsenal na iya biyan fam miliyan 66 domin sayen Antonio Nusa na RB Leipzig, yayin da Real Betis ta yi watsi da tayin da Chelsea ta gabatar kan Jose Morante.",
+   "published_date": "Sun, 15 Nov 2026 03:54:26 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/ckvg23vr0lvpo?at_medium=RSS&at_campaign=rss",
    "content": "Daga kafa da jagorantar ƙungiyoyin matasa, zuwa ziyartar jihohi da ganawa da masu ruwa da tsaki, Seyi ya zama ɗaya daga cikin fitattun mutanen da ke fafutukar ganin Tinubu ya sake samun wa'adin mulki.",
    "published_date": "Thu, 12 Nov 2026 03:56:50 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Tinubu ya gaza a wajen ƴan Najeriya - ADC",
-   "url": "https://www.bbc.co.uk/hausa/live/ckzd9pn6qn9mt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Laraba 11/11/2026",
-   "published_date": "",
    "score": 0.6
   }
  ],
