@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Just Like That | A tale of two cities: Urban India’s moral and municipal abyss",
+   "url": "https://www.hindustantimes.com/india-news/just-like-that-a-tale-of-two-cities-urban-india-s-moral-and-municipal-abyss-101794720329508.html",
+   "content": "Two children died in separate Delhi-NCR tragedies, exposing stark inequalities in urban safety, civic infrastructure and governance.",
+   "published_date": "Sun, 15 Nov 2026 10:55:29 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "HT morning news brief November 15: Congress MLA vandalises stage at Uttarakhand event; Israel's Netanyahu pushes for unity government | Top updates",
+   "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-15-congress-mla-vandalises-stage-at-uttarakhand-event-israel-netanyahu-pushes-for-unity-government-top-updates-101794715415215.html",
+   "content": "Catch the key developments making headlines across India and the world, along with the latest in sports and entertainment.",
+   "published_date": "Sun, 15 Nov 2026 09:46:47 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "IPL founder Lalit Modi announces British citizenship over a decade after fleeing India: ‘A new chapter’",
+   "url": "https://www.hindustantimes.com/india-news/ipl-founder-lalit-modi-announces-british-citizenship-over-a-decade-after-leaving-india-a-new-chapter-101794715770118.html",
+   "content": "Lalit Modi fled India in 2010 and has lived in the UK since, facing investigations over alleged financial irregularities and money laundering.",
+   "published_date": "Sun, 15 Nov 2026 09:42:55 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India no longer a democracy, says Rahul Gandhi at Bharat Summit in Hyderabad",
+   "url": "https://www.hindustantimes.com/india-news/india-no-longer-a-democracy-says-rahul-gandhi-at-bharat-summit-in-hyderabad-101794708716454.html",
+   "content": "Gandhi cited Maharashtra's voter data, alleging that around 7 million additional voters were added to the rolls between the Lok Sabha and assembly elections.",
+   "published_date": "Sun, 15 Nov 2026 08:42:01 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "‘BJP betrayed people of India by breaking promises’: SP's Akhilesh Yadav at HT Leadership Summit",
+   "url": "https://www.hindustantimes.com/india-news/bjp-betrayed-people-of-india-by-breaking-promises-samajwadi-party-sp-akhilesh-yadav-at-ht-leadership-summit-2026-101794708352331.html",
+   "content": "Yadav said law-and-order had deteriorated in UP, rejecting the perception that frequent encounters and “bulldozer justice” were a sign of improved policing.",
+   "published_date": "Sun, 15 Nov 2026 08:00:54 +0530",
+   "score": 0.6
+  },
+  {
    "title": "‘Tackling inequality is key for India in age of change’: Economist Joseph E Stiglitz at HT Leadership Summit",
    "url": "https://www.hindustantimes.com/india-news/tackling-inequality-is-key-for-india-in-age-of-change-economist-joseph-e-stiglitz-at-ht-leadership-summit-nobel-laureate-101794707476613.html",
    "content": "He also warned that climate impacts will hit tropical regions hard and said national economic sovereignty may increasingly shape global policy.",
@@ -107,7 +142,7 @@
    "score": 0.6
   },
   {
-   "title": "India should get energy first, decarbonise once richer, says Steven Koonin at HT Leadership Summit",
+   "title": "India should only worry about decarbonisation when it gets richer: Steven Koonin at HT Leadership Summit",
    "url": "https://www.hindustantimes.com/india-news/india-should-get-energy-first-decarbonise-once-richer-says-steven-koonin-at-hindustan-times-leadership-summit-htls-climate-change-101794644004545.html",
    "content": "The physicist says United Nations climate talks have failed to curb emissions or deliver promised finance.",
    "published_date": "Sat, 14 Nov 2026 14:11:04 +0530",
@@ -174,41 +209,6 @@
    "url": "https://www.hindustantimes.com/india-news/border-with-china-has-become-more-alive-s-jaishankar-at-htls-leadership-summit-2026-galwan-valley-clash-beijing-101794632901312.html",
    "content": "S Jaishankar says India missed the bus on industrialisation in the 1980s while China pushed ahead with modernisation.",
    "published_date": "Sat, 14 Nov 2026 10:54:05 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "S Jaishankar on India-US trade deal: 'Bulk of issues sorted, remaining concerns more on American side'",
-   "url": "https://www.hindustantimes.com/india-news/most-remaining-issues-at-americas-end-jaishankar-on-india-us-trade-deals-status-htls-2026-101794632369661.html",
-   "content": "Jaishankar, while speaking at Hindustan Times Leadership Summit 2026, said that the aim is to have a trade deal with is mutually beneficial and balanced.",
-   "published_date": "Sat, 14 Nov 2026 10:32:05 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "'Lens of national interest' key as India navigates turbulent world: Jaishankar at HTLS",
-   "url": "https://www.hindustantimes.com/india-news/turbulence-world-is-going-through-could-last-a-few-years-s-jaishankar-at-htls-2026-hindustan-times-leadership-summit-101794628702944.html",
-   "content": "Speaking at HTLS 2026, Jaishankar said the world order today was navigating stormy seas amid multiple conflicts, frictions and uncertainties.",
-   "published_date": "Sat, 14 Nov 2026 10:22:19 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "PM Modi pays tribute to Jawaharlal Nehru on his 137th birth anniversary",
-   "url": "https://www.hindustantimes.com/india-news/pm-modi-pays-tribute-to-jawaharlal-nehru-on-his-137th-birth-anniversary-101794628458414.html",
-   "content": "Defence Minister Rajnath Singh also paid tribute to the country's first Prime Minister, recalling his contribution to India's freedom struggle.",
-   "published_date": "Sat, 14 Nov 2026 10:20:46 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "HT morning news brief November 14: US briefly grounds flights; Delhi records ‘very poor’ AQI",
-   "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-14-us-briefly-grounds-flights-delhi-records-very-poor-aqi-jensen-huang-nvidia-david-warner-top-news-101794627561257.html",
-   "content": "Here is a quick roundup of the major headlines in national and international affairs, sports, and entertainment.",
-   "published_date": "Sat, 14 Nov 2026 09:37:44 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "‘Introspect on your own prejudices’: Indian ambassador on US religious freedom body’s Sharjeel Imam post",
-   "url": "https://www.hindustantimes.com/india-news/introspect-on-your-own-prejudices-indian-ambassador-on-us-religious-freedom-body-s-sharjeel-imam-post-101794625373565.html",
-   "content": "Ambassador Vinay Kwatra said that the USCIRF has “no locus standi” to pass a judgment over the constitutional rights of Indian citizens.",
-   "published_date": "Sat, 14 Nov 2026 08:58:10 +0530",
    "score": 0.6
   }
  ],

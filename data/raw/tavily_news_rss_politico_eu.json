@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
+   "url": "https://www.politico.eu/article/russian-army-is-slowing-down-as-ukrainian-forces-kill-thousands-of-kremlin-troops/",
+   "content": "Ukraine is countering Russia's narrative of battlefield success by blunting the Kremlin's attacks.",
+   "published_date": "Sun, 15 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
    "url": "https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/",
    "content": "The bloc's foreign policy chief Kaja Kallas has called on Israel to allow more humanitarian aid into Gaza as weather worsens living conditions.",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/france-marine-le-pen-offers-to-meet-ukraine-volodymyr-zelenskyy-in-brussels/",
    "content": "The Ukrainian leader wants to persuade the far-right leader to continue supporting Ukraine if she becomes president of France.",
    "published_date": "Fri, 13 Nov 2026 18:07:50 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Cut off from Europe, Russia will have to rewire its Arctic gas trade",
-   "url": "https://www.politico.eu/article/cut-off-europe-russia-rewire-arctic-gas-trade-lng-eu-ban/",
-   "content": "From 2027, Europe will no longer buy Russian LNG from Yamal. Getting the gas to Asia means longer trips, costlier ships and contractual workarounds.",
-   "published_date": "Fri, 13 Nov 2026 17:56:13 +0000",
    "score": 0.6
   }
  ],
