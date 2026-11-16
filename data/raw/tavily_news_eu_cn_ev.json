@@ -2,20 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "China and UK Discuss EVs in Ministerial Call Weeks After Beijing's Warning",
-   "url": "https://eletric-vehicles.com/general/china-and-uk-discuss-evs-in-ministerial-call-weeks-after-beijings-warning",
-   "snippet": "London faces a second deadline. Stricter battery rules of origin under the EU-UK trade agreement take effect on the first day of 2027 and would put a 10% tariff on most electric cars traded between the two sides unless they are delayed.\n\nThe EU has applied countervailing duties on Chinese-built battery-electric cars since October 30, 2024, ranging from 7.8% for Tesla to 35.3% for SAIC, on top of t",
-   "published": "Thu, 12 Nov 2026 09:54:37 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "China, UK discuss EVs after Beijing warns against trade restrictions - CnEVPost",
-   "url": "https://cnevpost.com/2026/11/12/china-uk-discuss-evs-trade",
-   "snippet": "Britain did not follow the EU in imposing additional tariffs on Chinese EVs in 2024. In October that year, the EU introduced definitive countervailing duties on battery electric vehicles (BEVs) imported from China for a period of 5 years.\n\nThe additional duties were set at between 7.8% and 35.3%. Combined with the existing standard import tariff of 10%, the maximum total rate reached 45.3%. [...] ",
-   "published": "Thu, 12 Nov 2026 06:47:09 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Chinese Competition May Cause EV Tariff Delays In The EU And UK",
    "url": "https://www.carscoops.com/2315845/uk-eu-to-delay-ev-tariffs",
    "snippet": "The ACEA  argues that if the levy came into effect, UK- and EU-made EVs would no longer be competitive with rivals from China — themselves subject to import limitations — as the EU attempts to reduce its trade deficit. There's an element of irony there though, as most battery packs and chemicals used in these vehicles originate in Asia, with many imported from China. ACEA has proposed postponing t",
@@ -23,10 +9,24 @@
    "source": "tavily"
   },
   {
+   "title": "EU, UK weigh delay to 10% EV tariff from Jan 1 - report",
+   "url": "https://sg.finance.yahoo.com/news/eu-uk-weigh-delay-10-055530920.html",
+   "snippet": "Members of Acea, the lobby group for EU carmakers, worry the tariff is pricing them out of the UK market while Chinese producers increase their market share.\n\nAcea said about 82% of the 520,000 electric passenger vehicles and vans expected to be sold in 2027, worth about €17.9 billion, would have to pay the tariff. [...] Investing.com\n\n# EU, UK weigh delay to 10% EV tariff from Jan 1 - report\n\nNav",
+   "published": "Fri, 13 Nov 2026 02:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "EU’s start to balancing trade with China – GIS Reports",
    "url": "https://www.gisreportsonline.com/r/eu-starts-balancing-trade-china",
    "snippet": "In 2025, China accounted for 30 percent of the EU’s plug-in hybrid vehicle imports by value. In August 2026, Chinese-made hybrid vehicles accounted for about a quarter of Europe’s total sales of these cars, including those made in the EU. The surge is partly due to hybrids not being subject to the 2024 tariffs the bloc imposed on Chinese-made pure electric vehicles. [...] The EU’s plan to cap impo",
    "published": "Fri, 13 Nov 2026 07:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "EU-UK electric vehicle origin rules due in 2027 sharpen tariff tensions with China",
+   "url": "https://www.digitimes.com/news/a20261111PD227/uk-europe-market-2027-vehicle.html",
+   "snippet": "Credit: DIGITIMES\n\nTariff friction among the EU, the UK and China over electric vehicles and local supply-chain policy is intensifying as a critical 2027 deadline approaches, reshaping competition in the European car market...\n\nThe article requires paid subscription. Subscribe Now\n\nCreate your free account\n\n Select premium stories & daily editor picks.\n Leverage AI summaries for instant insights.\n",
+   "published": "Wed, 11 Nov 2026 02:03:07 GMT",
    "source": "tavily"
   },
   {
@@ -38,7 +38,7 @@
   },
   {
    "title": "Have Trump's tariffs blocked Chinese EVs from the US market?",
-   "url": "https://www.dw.com/en/have-trumps-tariffs-blocked-chinese-evs-from-the-us-market/video-79930921",
+   "url": "https://www.dw.com/en/have-trumps-tariffs-blocked-chinese-evs-from-the-us-market/svideo-79930921",
    "snippet": "Chinese EVs are transforming the global electric vehicle market, but still remain largely absent from the United States. As brands like BYD expand rapidly across Europe and Latin America, steep US tariffs, trade restrictions and new regulations have created major barriers for Chinese electric cars. Supporters argue these measures protect national security and the domestic auto industry. Critics sa",
    "published": "Fri, 13 Nov 2026 12:48:44 GMT",
    "source": "tavily"
@@ -47,7 +47,7 @@
    "title": "EU set to delay 10% tariff on electric cars from UK, FT reports",
    "url": "https://www.reuters.com/world/china/eu-set-delay-10-tariff-electric-cars-uk-ft-reports-2026-11-12",
    "snippet": "The European Union is set to delay a 10% tariff on electric cars from the UK, the Financial ​Times reported on Thursday, citing people familiar with the",
-   "published": "Thu, 12 Nov 2026 23:00:00 GMT",
+   "published": "Fri, 13 Nov 2026 02:00:00 GMT",
    "source": "tavily"
   },
   {
