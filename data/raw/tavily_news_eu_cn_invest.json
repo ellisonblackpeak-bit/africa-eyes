@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "The Transatlantic Alliance Needs a Capital Pillar | Hudson Institute",
-   "url": "https://www.hudson.org/economics/transatlantic-alliance-needs-capital-pillar-peter-rough-jan-ruzicka",
-   "snippet": "Chinese money is not waiting at the door—it is already inside. China’s foreign direct investment in Europe rose 67 percent to €16.8 billion in 2025, its highest level since 2018.(#endnote-1) In aggregate, these sums are relatively modest compared to the size of the European economy. Chinese capital, however, has increasingly targeted sectors and assets of outsized strategic importance relative to ",
-   "published": "Mon, 09 Nov 2026 15:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Europe’s China Dilemma is Central Asia’s Opportunity - The Astana Times",
    "url": "https://astanatimes.com/2026/11/europes-china-dilemma-is-central-asias-opportunity",
    "snippet": "European companies operate factories and research and development centers in China, while Chinese manufacturers have established strong positions in several industrial sectors. The more realistic prospect, Gałecki notes, is managed strategic rivalry, with cooperation continuing where interests overlap while restrictions tighten in areas considered important for Europe’s economic security. [...] Fo",
@@ -40,7 +33,7 @@
    "title": "COMMENTARY: Europe’s trade walls cannot keep China out",
    "url": "https://www.reuters.com/commentary/reuters-open-interest/europes-trade-walls-cannot-keep-china-out-martin-vladimirov-2026-11-11",
    "snippet": "SOFIA, Nov 11 (Reuters) - China doesn't need to clear Europe's trade barriers. It can build inside them. Chinese companies are establishing production and",
-   "published": "Thu, 12 Nov 2026 12:00:00 GMT",
+   "published": "Thu, 12 Nov 2026 16:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -54,7 +47,21 @@
    "title": "China’s tech transfer crackdown sets up clash with EU rules",
    "url": "https://www.fdiintelligence.com/content/b4dd4e5d-c4b4-417c-afb0-10c1c71cf835",
    "snippet": "A flurry of Chinese reforms to curb technology transfer by its companies operating abroad is set to create friction with the EU's flagship Industrial",
-   "published": "Thu, 12 Nov 2026 12:00:00 GMT",
+   "published": "Thu, 12 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Europe needs a third way on China: European scholar",
+   "url": "https://www.globaltimes.cn/page/202611/1374395.shtml",
+   "snippet": "As Asia-Pacific leaders and business executives gather in Shenzhen for the 2026 APEC Economic Leaders' Meeting, the host city Shenzhen offers more than a",
+   "published": "Mon, 16 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China chip stocks rally as U.S. weighs curbs on remote AI access",
+   "url": "https://finance.yahoo.com/technology/ai/articles/china-chip-stocks-rally-u-063831379.html",
+   "snippet": "+8.11%\n\nInvesting.com -- Chinese chip stocks rallied on Thursday, with Cambricon surging more than 11% and Moore Threads gaining around 7%, as a rebound in global semiconductor shares and the prospect of tighter U.S. controls on access to advanced AI processors renewed focus on China's domestic chip industry. [...] Investors were also assessing a potential tightening of U.S. restrictions. The Info",
+   "published": "Thu, 12 Nov 2026 16:00:00 GMT",
    "source": "tavily"
   }
  ],

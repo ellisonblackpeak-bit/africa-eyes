@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Chinese EV tariffs: US 100% vs. EU up to 45.3%",
+   "url": "https://www.netz-trends.de/us/chinese-evs-tariffs-us-vs-europe-comparison",
+   "snippet": "The European Commission has levied countervailing duties under Implementing Regulation (EU) 2024/2754 since October 30, 2024. They come on top of the EU’s regular 10% import duty and apply for five years. According to the Commission, Tesla pays 7.8% on cars from Shanghai, BYD 17.0%, Geely 18.8% and SAIC – MG’s parent – 35.3%. [...] Key points\n\n US: Since September 27, 2024, electric cars from Chin",
+   "published": "Fri, 13 Nov 2026 14:14:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "China and UK Discuss EVs in Ministerial Call Weeks After Beijing's Warning",
    "url": "https://eletric-vehicles.com/general/china-and-uk-discuss-evs-in-ministerial-call-weeks-after-beijings-warning",
    "snippet": "London faces a second deadline. Stricter battery rules of origin under the EU-UK trade agreement take effect on the first day of 2027 and would put a 10% tariff on most electric cars traded between the two sides unless they are delayed.\n\nThe EU has applied countervailing duties on Chinese-built battery-electric cars since October 30, 2024, ranging from 7.8% for Tesla to 35.3% for SAIC, on top of t",
@@ -13,13 +20,6 @@
    "url": "https://www.carscoops.com/2315845/uk-eu-to-delay-ev-tariffs",
    "snippet": "The ACEA  argues that if the levy came into effect, UK- and EU-made EVs would no longer be competitive with rivals from China — themselves subject to import limitations — as the EU attempts to reduce its trade deficit. There's an element of irony there though, as most battery packs and chemicals used in these vehicles originate in Asia, with many imported from China. ACEA has proposed postponing t",
    "published": "Sat, 14 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU, UK weigh delay to 10% EV tariff from Jan 1 - report",
-   "url": "https://sg.finance.yahoo.com/news/eu-uk-weigh-delay-10-055530920.html",
-   "snippet": "Members of Acea, the lobby group for EU carmakers, worry the tariff is pricing them out of the UK market while Chinese producers increase their market share.\n\nAcea said about 82% of the 520,000 electric passenger vehicles and vans expected to be sold in 2027, worth about €17.9 billion, would have to pay the tariff. [...] Investing.com\n\n# EU, UK weigh delay to 10% EV tariff from Jan 1 - report\n\nNav",
-   "published": "Thu, 12 Nov 2026 12:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -54,7 +54,7 @@
    "title": "EU set to delay 10% tariff on electric cars from UK, FT reports",
    "url": "https://www.reuters.com/world/china/eu-set-delay-10-tariff-electric-cars-uk-ft-reports-2026-11-12",
    "snippet": "The European Union is set to delay a 10% tariff on electric cars from the UK, the Financial ​Times reported on Thursday, citing people familiar with the",
-   "published": "Thu, 12 Nov 2026 12:00:00 GMT",
+   "published": "Thu, 12 Nov 2026 16:00:00 GMT",
    "source": "tavily"
   },
   {

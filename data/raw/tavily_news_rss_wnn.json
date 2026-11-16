@@ -16,34 +16,6 @@
    "score": 0.6
   },
   {
-   "title": "Uganda and Russia look to move ahead with nuclear project",
-   "url": "https://www.world-nuclear-news.org/articles/russia-and-uganda-look-to-move-head-with-nuclear-project",
-   "content": "A roadmap setting out cooperation in the peaceful uses of nuclear energy, as part of work towards a nuclear power plant, has been signed by Russia and Uganda.",
-   "published_date": "Mon, 02 Nov 2026 13:03:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Texas SMR plant moves to final permitting stage",
-   "url": "https://www.world-nuclear-news.org/articles/texas-smr-plant-moves-to-final-permitting-stage",
-   "content": "The US Nuclear Regulatory Commission says there will soon be a construction permit announcement after it finished its safety review for the Xe-100 reactor, which is proposed for deployment at the Long Mott Generating Station in Texas.",
-   "published_date": "Mon, 02 Nov 2026 14:18:54 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "First concrete poured for unit 5 at Haiyang plant",
-   "url": "https://www.world-nuclear-news.org/articles/first-concrete-poured-unit-5-haiyang-plant",
-   "content": "The first safety-related concrete has been poured for the reactor building of unit 5 at the Haiyang nuclear power plant. It is the fifth of six large pressurised water reactors planned for the site in China's Shandong province.",
-   "published_date": "Mon, 02 Nov 2026 14:37:39 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "PEJ applies for early works permit for nuclear power plant",
-   "url": "https://www.world-nuclear-news.org/articles/pej-applies-for-early-works-permit-for-nuclear-power-plant",
-   "content": "Polskie Elektrownie Jądrowe has applied to the head of the Pomeranian Voivodeship for a permit to start early works required for the construction of Poland's first nuclear power plant at the Lubiatowo-Kopalino site in the Choczewo municipality.",
-   "published_date": "Mon, 02 Nov 2026 15:37:01 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Singapore enlists Finnish help in bolstering nuclear expertise",
    "url": "https://www.world-nuclear-news.org/articles/singapore-enlists-finnish-help-in-bolstering-nuclear-expertise",
    "content": "The VTT Technical Research Centre of Finland and the Singapore Nuclear Research and Safety Institute have signed a five-year memorandum of understanding to deepen cooperation in nuclear safety and strengthen the capabilities required to assess emerging nuclear technologies.",
@@ -135,6 +107,13 @@
    "score": 0.6
   },
   {
+   "title": "Strength and leak tests completed for Akkuyu 1 containment",
+   "url": "https://www.world-nuclear-news.org/articles/strength-and-leak-tests-completed-for-akkuyu-1-containment",
+   "content": "The air pressure was increased during pre-launch tests, which lasted eight days, to check the strength and leak tightness of the internal containment building for Akkuyu nuclear power plant's first unit.",
+   "published_date": "Wed, 11 Nov 2026 10:33:57 GMT",
+   "score": 0.6
+  },
+  {
    "title": "OPG set to revise timeline and cost of first SMR unit",
    "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit",
    "content": "The first of four BWRX-300 small modular reactors under construction at the Darlington New Nuclear Project will not be completed within the previously planned timeline or cost, Ontario Power Generation has said.",
@@ -170,10 +149,10 @@
    "score": 0.6
   },
   {
-   "title": "Strength and leak tests completed for Akkuyu 1 containment",
-   "url": "https://www.world-nuclear-news.org/articles/strength-and-leak-tests-completed-for-akkuyu-1-containment",
-   "content": "The air pressure was increased during pre-launch tests, which lasted eight days, to check the strength and leak tightness of the internal containment building for Akkuyu nuclear power plant's first unit.",
-   "published_date": "Fri, 13 Nov 2026 10:33:57 GMT",
+   "title": "Akkuyu 1 fuel loading 'could start next month'",
+   "url": "https://www.world-nuclear-news.org/articles/akkuyu-1-fuel-loading-could-start-next-month",
+   "content": "Turkey's first nuclear power unit is preparing for hot tests - with Rosatom hoping that successful completion will allow the start of nuclear fuel loading in December.",
+   "published_date": "Mon, 16 Nov 2026 13:18:42 GMT",
    "score": 0.6
   },
   {
@@ -209,6 +188,27 @@
    "url": "https://www.world-nuclear-news.org/articles/iaea-reviews-jordans-nuclear-regulatory-framework",
    "content": "Jordan has a \"well-established regulatory framework for nuclear and radiation safety\", an International Atomic Energy Agency mission has said, while also suggesting further enhancements in line with international safety standards.",
    "published_date": "Wed, 11 Nov 2026 08:49:55 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US test reactor cleared for operations",
+   "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+   "content": "Oklo's Groves Isotope Test Reactor has been cleared for unrestricted operations by the US Department of Energy.",
+   "published_date": "Thu, 12 Nov 2026 07:30:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "NRC extends Project Ike review timetable",
+   "url": "https://www.world-nuclear-news.org/articles/nrc-extends-project-ike-review-timetable",
+   "content": "The US regulator has pushed the expected completion date for its review of Orano's application for a licence for its proposed centrifuge enrichment facility back to June 2027 after the company asked for more time to respond to the regulator's questions.",
+   "published_date": "Mon, 16 Nov 2026 14:08:05 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Belgian nuclear power plant negotiations extended",
+   "url": "https://www.world-nuclear-news.org/articles/belgian-nuclear-power-plant-negotiations-extended",
+   "content": "The Belgian state, Engie and Electrabel have agreed to postpone to 12 December the target date for the conclusion of the heads of terms for the potential acquisition of Belgium's seven nuclear power reactors by the state.",
+   "published_date": "Thu, 05 Nov 2026 12:24:40 GMT",
    "score": 0.6
   }
  ],

@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Prince William and Princess Catherine play street cricket with locals in Mumbai",
+   "url": "https://www.euronews.com/video/2026/11/16/prince-william-and-princess-catherine-play-street-cricket-with-locals-in-mumbai",
+   "content": "Prince William and Princess Catherine play street cricket with local players in Mumbai, India, during a three-day visit for the Earthshot Prize.",
+   "published_date": "Mon, 16 Nov 2026 16:57:01 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Trump says he could meet with North Korean leader Kim Jong-un in China",
+   "url": "https://www.euronews.com/2026/11/16/trump-says-he-could-meet-with-north-korean-leader-kim-jong-un-in-china",
+   "content": "Trump is planning to discuss nuclear disarmament when he meets with Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen, China this week.",
+   "published_date": "Mon, 16 Nov 2026 16:53:58 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Moulin Rouge dancers kick off Paris Christmas celebrations",
+   "url": "https://www.euronews.com/video/2026/11/16/moulin-rouge-dancers-kick-off-paris-christmas-celebrations",
+   "content": "Moulin Rouge dancers and Republican Guard musicians launch Christmas lights in Paris, France, with a French cancan performance near the Madeleine church.",
+   "published_date": "Mon, 16 Nov 2026 15:04:49 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US airports slowly return to normal after three days of disruption caused by take-off ban",
+   "url": "https://www.euronews.com/2026/11/16/us-airports-slowly-return-to-normal-after-three-days-of-disruption-caused-by-take-off-ban",
+   "content": "Throughout the weekend, stranded passengers wandered through chaotic airports and sat on floors, waiting for updates or to be rebooked.",
+   "published_date": "Mon, 16 Nov 2026 13:11:16 +0100",
+   "score": 0.6
+  },
+  {
    "title": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
    "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
    "content": "A sudden rise in Iranian attacks on ships in the Strait of Hormuz follows an increasing number of air strikes between the US and Iran, as both sides trade intensifying warning shots, bringing the region closer to a new all-out war, while a third US aircraft carrier arrives in the region.",
@@ -181,34 +209,6 @@
    "url": "https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says",
    "content": "\"This is good news for Canadians in the agriculture sector, in the aerospace sector, even in AI, and our businesses working across forest products, mining, energy, services and beyond,\" Carney told reporters.",
    "published_date": "Sat, 14 Nov 2026 16:09:25 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Qatar and Turkey sign defence agreement for “unified position” facing external attacks",
-   "url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks",
-   "content": "A fast-moving reshape of the Gulf and Middle East multilateral security landscape is underway, triggered by the Iran war and the US signals that it is adapting its long-standing security presence in the region.",
-   "published_date": "Sat, 14 Nov 2026 14:50:49 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Pope Leo XIV continues trip through South America as health authorities keep watch",
-   "url": "https://www.euronews.com/2026/11/14/pope-leo-xiv-continues-trip-through-south-america-as-health-authorities-keep-watch",
-   "content": "The huge crowds turning out to see the 71-year-old pontiff have prompted heightened fears among health authorities in Latin America, which has seen a surge in measles cases this year.",
-   "published_date": "Sat, 14 Nov 2026 13:48:19 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 14th, 2026 – Midday",
-   "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-midday",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sat, 14 Nov 2026 12:00:15 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy",
-   "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
-   "content": "Putin has indicated that Russia will not back down on territorial demands to control parts of Ukraine and has rejected the idea of foreign peacekeeping troops being deployed in the country.",
-   "published_date": "Sat, 14 Nov 2026 11:35:08 +0100",
    "score": 0.6
   }
  ],

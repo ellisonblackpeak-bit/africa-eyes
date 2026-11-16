@@ -2,9 +2,16 @@
  "success": true,
  "results": [
   {
+   "title": "Guinea's gold rush: Arrests, deportations spark outcry",
+   "url": "https://www.dw.com/en/guinea-s-gold-rush-arrests-deportations-spark-outcry/a-79922842?maca=en-rss-en-world-4025-rdf",
+   "content": "Guinea has banned illegal gold mining, citing environmental concerns. It has further charged hundreds of suspected local and foreign illegal miners amid reports of rights abuses and deportations.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Jordan bans Telegram app over 'radicalisation' claims",
    "url": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706?maca=en-rss-en-world-4025-rdf",
-   "content": "Jordan has imposed a ban on Telegram over a deadly church attack which left seven people dead. The kingdom claims that content on the messaging app poses a threat to \"national interests.\"",
+   "content": "Jordan has imposed a ban on Telegram over a deadly church attack which left seven people dead. Iraq later followed with a partial ban to compel the company to review its content.",
    "published_date": "",
    "score": 0.6
   },
@@ -68,13 +75,6 @@
    "title": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
    "url": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-world-4025-rdf",
    "content": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Microsoft says all services working again",
-   "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf",
-   "content": "US tech giant Microsoft says it has fixed problems that led to a global outage of its services. The glitch severely disrupted online communications in businesses and governments for more than 24 hours.",
    "published_date": "",
    "score": 0.6
   }
