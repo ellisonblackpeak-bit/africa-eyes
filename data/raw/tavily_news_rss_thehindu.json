@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "13-year-old boy identified as fourth Indian killed in UAE road accident",
+   "url": "https://www.thehindu.com/news/national/13-year-old-boy-identified-as-fourth-indian-killed-in-uae-road-accident/article71705974.ece",
+   "content": "The accident involved 23 vehicles, including trucks, and left 30 people injured",
+   "published_date": "Mon, 16 Nov 2026 04:42:36 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Violent protests erupt in Hasina’s hometown as tensions rise over her proposed return to Bangladesh",
+   "url": "https://www.thehindu.com/news/international/violent-protests-erupt-in-hasinas-hometown-as-tensions-rise-over-her-proposed-return-to-bangladesh/article71705960.ece",
+   "content": "The protests come amid renewed tensions over Ms. Hasina’s proposed return from India, where she has been staying since fleeing Bangladesh in August 2024 after a student-led uprising toppled her government",
+   "published_date": "Mon, 16 Nov 2026 04:08:51 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Prince William, Princess Kate to meet PM Modi in New Delhi this week",
+   "url": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
+   "content": "The couple will arrive in Mumbai today for the annual Earthshot Prize ceremony; the visit will include an event focused on gully cricket and an engagement with the film industry",
+   "published_date": "Mon, 16 Nov 2026 02:40:22 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi CM offers prayer at Chhath ghat, lauds contribution by Purvanchal community",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-cm-offers-prayer-at-chhath-ghat-lauds-contribution-by-purvanchal-community/article71705479.ece",
+   "content": "CM Rekha Gupta said that Delhi is home to people from every part of the country, and the Purvanchali community has made a significant contribution to the development and growth of the capital through its hard work and dedication",
+   "published_date": "Mon, 16 Nov 2026 02:39:35 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Chhath Puja: Despite politics over Yamuna, Delhi stretch of river continues to be polluted",
+   "url": "https://www.thehindu.com/news/cities/Delhi/chhath-puja-despite-politics-over-yamuna-delhi-stretch-of-river-continues-to-be-polluted/article71704969.ece",
+   "content": "Many projects are in the pipeline, but it will take at least 2-3 years for them to show results",
+   "published_date": "Mon, 16 Nov 2026 01:51:22 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Eight injured as building collapses during hotel construction in Delhi’s Paharganj",
    "url": "https://www.thehindu.com/news/cities/Delhi/under-construction-building-collapse-central-delhi/article71704776.ece",
    "content": "According to the police, construction work for a hotel was underway in the building when the roof slab (lanter) of the second floor was being laid",
@@ -9,10 +44,10 @@
    "score": 0.6
   },
   {
-   "title": "Prince William, Princess Kate to meet Modi in New Delhi this week",
-   "url": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
-   "content": "The couple will arrive in Mumbai today for the annual Earthshot Prize; the visit will include an event focused on gully cricket and an engagement with the film industry",
-   "published_date": "Mon, 16 Nov 2026 01:23:58 +0530",
+   "title": "Rebalancing India’s Rice economy: exports, virtual water, emissions and the groundwater challenge",
+   "url": "https://www.thehindu.com/news/national/rebalancing-indias-rice-economy-exports-virtual-water-emissions-and-the-groundwater-challenge/article71704600.ece",
+   "content": "India has proved its competitiveness in global rice markets and the next challenge is to make that competitiveness sustainable; the country’s rice policy needs a more differentiated production strategy that moves from volume to value: more crop per drop, more income per tonne, and less energy use per unit exported",
+   "published_date": "Mon, 16 Nov 2026 01:33:33 +0530",
    "score": 0.6
   },
   {
@@ -55,13 +90,6 @@
    "url": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece",
    "content": "The share of healthcare costs borne by households fell from 64.2% to 42.7% over a decade, while social security spending on health rose from 6% to 11%",
    "published_date": "Sun, 15 Nov 2026 22:53:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India, U.S. agreed on preferential market access for Indian goods in America: Goyal",
-   "url": "https://www.thehindu.com/news/national/india-us-agreed-on-preferential-market-access-for-indian-goods-in-america-goyal/article71705526.ece",
-   "content": "The deal was to be signed earlier, but changes in U.S. tariff landscape led to further negotiations on the agreement",
-   "published_date": "Sun, 15 Nov 2026 22:40:50 +0530",
    "score": 0.6
   }
  ],
