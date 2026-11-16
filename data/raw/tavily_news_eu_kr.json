@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Korean firms eligible to supply EU satellite network - Aju Press AMP",
-   "url": "https://m.ajupress.com/amp/20261110041002839",
-   "snippet": "The potential opening would extend Korea’s growing defense business in Europe into space communications. Korean manufacturers have already secured major contracts in Poland for K2 tanks, K9 self-propelled howitzers and combat aircraft. Winning satellite work would depend on meeting a separate set of technical and security requirements. [...] On September 17, EU Defense and Space Commissioner Andri",
-   "published": "Tue, 10 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "The case for a Hanwha-KAI merger, from Lockheed Martin to SpaceX - The Korea Herald",
    "url": "https://www.koreaherald.com/article/10933937",
    "snippet": "Industry observers say a more integrated Korean defense company could compete more effectively for large procurement programs.\n\n\"If Hanwha acquires KAI, it can create an end-to-end, vertically integrated defense ecosystem by combining KAI's airframes with Hanwha Aerospace's engines and Hanwha Systems' radar systems under one corporate umbrella,\" an industry source said.\n\n\"This structural alignment",
@@ -19,14 +12,14 @@
    "title": "Pentagon Troop Review Means Uncertainty for U.S. Forces in Europe",
    "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
    "snippet": "When a specialized U.S. Army unit in Germany was told it might move to South Korea this fall, soldiers started packing their cutting-edge equipment.",
-   "published": "Wed, 11 Nov 2026 02:00:00 GMT",
+   "published": "Wed, 11 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "Seadronix Debuts AI Solution in the European Defense Supply Chain",
    "url": "https://finance.yahoo.com/technology/ai/articles/seadronix-debuts-ai-solution-european-010000503.html",
    "snippet": "SEOUL, South Korea, Nov. 12, 2026 /PRNewswire/ -- Seadronix (CEO Byeolteo Park), a leading provider of AI-based maritime solutions, announced on November 12 that it has secured its first government vessel supply reference in the global defense market, with its AI ship monitoring and navigation system, NAVISS Bridge. The system will be installed on the Republic of Singapore Navy's next-generation S",
-   "published": "Thu, 12 Nov 2026 02:00:00 GMT",
+   "published": "Thu, 12 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -54,7 +47,14 @@
    "title": "Canada-EU alliance could offer blueprint for Japan, South Korea and Australia",
    "url": "https://www.brusselstimes.com/2392595/canada-eu-alliance-could-offer-blueprint-for-japan-south-korea-and-australia",
    "snippet": "The EU and Canada are creating an ambitious new partnership for economic security, but upcoming EU elections could narrow the window for a deeper",
-   "published": "Tue, 10 Nov 2026 02:00:00 GMT",
+   "published": "Tue, 10 Nov 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Korean firms eligible to supply EU satellite network",
+   "url": "https://m.ajupress.com/amp/20261110041002839",
+   "snippet": "EU Defense and Space Commissioner Andrius Kubilius, right, and Jeoung Giyoung, deputy mini",
+   "published": "Tue, 10 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -68,7 +68,7 @@
    "title": "Why an ‘Article 5-Style Guarantee’ for Ukraine Makes Little Sense",
    "url": "https://my.rusi.org/resource/why-an-article-5-style-guarantee-for-ukraine-makes-little-sense.html",
    "snippet": "Ukraine should ditch the idea and focus on getting its partners to commit to a structured programme of long-term support for its armed forces.",
-   "published": "Wed, 11 Nov 2026 02:00:00 GMT",
+   "published": "Wed, 11 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   }
  ],

@@ -2,10 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Channel One TV Live | Latest News Updates from Ghana",
-   "url": "https://www.modernghana.com/videonews/cititv/1/751104",
-   "snippet": "NDC Western Regional Executive Elections: Nana Kojo Toku Retains Chairmanship\n\n14.11.2026 | CitiTV\n\nObuasi SHS Investigation: Haruna Iddrisu Wants Those Found Culpable Prosecuted\n\nObuasi SHS Investigation: Haruna Iddrisu Wants Those Found Culpable Prosecuted\n\n14.11.2026 | CitiTV\n\nObeng Inkoom Rejects Dispute Claims After EC Declares Him Central NDC Chairman\n\nObeng Inkoom Rejects Dispute Claims Aft",
-   "published": "Wed, 11 Nov 2026 02:00:00 GMT",
+   "title": "Channel One Newsroom Live! | Latest News Updates From Ghana [09.11.2026]",
+   "url": "https://www.modernghana.com/amp/videonews/750679",
+   "snippet": "2027 Budget: Government Unveils Eight Integrated Industries to Boost Local Production\n\n2027 Budget: Government Unveils Eight Integrated Industries to Boost Local Production\n\n13.11.2026 | CitiTV\n\n2027 Budget: Ghana Targets at Least 5.2% Economic Growth\n\n2027 Budget: Ghana Targets at Least 5.2% Economic Growth\n\n13.11.2026 | CitiTV\n\nPrez Mahama: Boosting Local Production and Exports Key to Strengthen",
+   "published": "Tue, 10 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -13,6 +13,13 @@
    "url": "https://www.africanews.com/2026/11/12/ghana-unveils-new-cedi-banknotes-celebrating-national-heritage",
    "snippet": "#### Ghana\n\nGhana has unveiled a new series of banknotes featuring prominent historical figures and national landmarks, as the country moves to modernise its currency and strengthen protection against counterfeiting.\n\nThe new notes, known as the Heritage Series, were introduced by the Bank of Ghana on Thursday, 12 November, and will enter circulation on 1 December 2026. [...] Russia agrees to ban ",
    "published": "Thu, 12 Nov 2026 13:48:42 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghana announces Nya Gyidie offshore discovery in new carbonate play",
+   "url": "https://www.worldoil.com/news/2026/11/13/ghana-announces-nya-gyidie-offshore-discovery-in-new-carbonate-play",
+   "snippet": "(WO) – Planet One Oil and Gas has made a hydrocarbon discovery at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points contract area offshore Ghana, President John Dramani Mahama announced at the 2026 Local Content Conference in Takoradi. The well is Ghana’s first successful test of a Cenomanian-Turonian carbonate play, opening a new target for exploration in a country whose previ",
+   "published": "Sat, 14 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -26,7 +33,14 @@
    "title": "Ghana Unveils $10 Billion 'New Economy' Plan in 2027 Budget",
    "url": "https://money.usnews.com/investing/news/articles/2026-11-12/ghana-unveils-10-billion-new-economy-plan-in-2027-budget",
    "snippet": "By Emmanuel Bruce and Christian Akorlie. ACCRA, Nov 12 (Reuters) - ⁠Ghana ⁠will invest $10 billion over four ⁠years from 2027 in a domestically funded \"New",
-   "published": "Fri, 13 Nov 2026 02:00:00 GMT",
+   "published": "Fri, 13 Nov 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Ghanaian Cedi: Kwame Nkrumah, Kofi Annan, Theodosia Okoh and odas on Ghana new currency - BBC News Pidgin",
+   "url": "https://www.bbc.com/pidgin/articles/c8zx9dnzply3o",
+   "snippet": "### Ghana govment present $33billion budget and oda highlights for di 2027 'New Economy' plan\n\nJavits Frimpong\n\n### Police arrest boy wey allegedly murder 15-year-old Ghanaian for America\n\nPrince Adeniyi Adeyemi\n\n### Wetin be di 40 count charges wey FG refile against alleged fake agency DG, Prince Adeniyi Adeyemi\n\nTwo sojas for military uniform stand guard on one ridge for North Kivu\n\n### Wetin we",
+   "published": "Fri, 13 Nov 2026 00:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -40,7 +54,7 @@
    "title": "Ghana unveils $10 billion 'New Economy' plan in 2027 budget",
    "url": "https://www.reuters.com/world/africa/ghana-unveils-10-billion-new-economy-plan-2027-budget-2026-11-12",
    "snippet": "Ghana will invest $10 billion over four years from 2027 in a domestically funded \"New Economy\" programme to boost output, exports and ​jobs,",
-   "published": "Fri, 13 Nov 2026 02:00:00 GMT",
+   "published": "Fri, 13 Nov 2026 06:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -51,24 +65,10 @@
    "source": "tavily"
   },
   {
-   "title": "Ghana announces Nya Gyidie offshore discovery in new carbonate play",
-   "url": "https://www.worldoil.com/news/2026/11/13/ghana-announces-nya-gyidie-offshore-discovery-in-new-carbonate-play",
-   "snippet": "Planet One has made a hydrocarbon discovery at the Nya Gyidie-1X well in ultra-deep water offshore Ghana, the country's first successful test of a carbonate",
-   "published": "Sat, 14 Nov 2026 02:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Teenager arrested over killing of Ghanaian boy in New York | Africanews",
    "url": "https://www.africanews.com/2026/11/12/teenager-arrested-over-killing-of-ghanaian-boy-in-new-york",
-   "snippet": "### Advertising\n\n#### News\n\nnews\n\n# Teenager arrested over killing of Ghanaian boy in New York\n\nTeenager arrested over killing of Ghanaian boy in New York\n\nwith AP\n\n#### USA\n\nA teenager was arrested Wednesday in the fatal shooting of a 15-year-old Ghanaian immigrant on his way to school, New York City police said as the victim’s family, Ghana’s government and civil rights advocates pressed for jus",
+   "snippet": "News of the arrest came as Frimpong’s kin, civil rights lawyer Ben Crump, the Rev. Al Sharpton and Ghana’s U.N. ambassador, Samuel Yao Kumah, gathered at Sharpton’s National Action Network headquarters for a previously planned news conference.\n\nAfter leading a chant of “Justice for Javits!,” Crump noted the arrest, but added: “What we’re all wondering is: Why? Why did they kill this young man, thi",
    "published": "Thu, 12 Nov 2026 09:36:31 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "In postcolonial Ghana, a fresh start but not a blank slate | MIT News | Massachusetts Institute of Technology",
-   "url": "https://news.mit.edu/2026/postcolonial-ghana-fresh-start-not-blank-slate-1110",
-   "snippet": "Close\n\n#### Breadcrumb\n\n1. MIT News\n2. In postcolonial Ghana, a fresh start but not a blank slate\n\n# In postcolonial Ghana, a fresh start but not a blank slate\n\nA new study of the country’s bureaucracy shows the challenges of state-building at the moment of independence.\n\nPeter Dizikes | MIT News\n\nPublication Date:\n\nPress Inquiries\n\n### Press Contact:\n\nAbby\n\nAbazorius\n\nEmail: \n\nabbya@mit.edu\n\nPhon",
-   "published": "Tue, 10 Nov 2026 05:00:00 GMT",
    "source": "tavily"
   }
  ],

@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Yadda INEC za ta gudanar da zaɓen shugaban Najeriya na gwaji gabanin 2027",
+   "url": "https://www.bbc.com/hausa/articles/cqy7r8jvn42yo?at_medium=RSS&at_campaign=rss",
+   "content": "Hukumar INEC na shirin gudanar da zaɓen gwajin ne a ranar 28 ga watan Nuwamban 2026, amma mutane da dama na tambayar yadda za a gudanar da irin wannan zaɓe.",
+   "published_date": "Mon, 16 Nov 2026 03:50:47 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "United na harin Bassey da Collins, AC Milan na zawarcin Endrick",
+   "url": "https://www.bbc.com/hausa/articles/cmze7377rx8zo?at_medium=RSS&at_campaign=rss",
+   "content": "Manchester United na harin ɗan wasan Fulham Calvin Bassey, da ɗan wasan Brentford Nathan Collins, yayin da AC Milan ke son aro Endrick , sai wasu ƙungiyoyin Firimiya da ke zawarcin Nico Paz.",
+   "published_date": "Mon, 16 Nov 2026 03:50:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa mata suka fi maza iya juya jari?",
+   "url": "https://www.bbc.com/hausa/articles/c3qj5r94l51do?at_medium=RSS&at_campaign=rss",
+   "content": "Wani sabon bincike ya nuna cewa matan da ke zuba jarinsu a harkokin kasuwanci na samun riba fiye da yadda maza ke samu.",
+   "published_date": "Mon, 16 Nov 2026 03:49:17 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Duniya ta samu sabon wata a sararin samaniya",
+   "url": "https://www.bbc.com/hausa/articles/cmrrg5l8qzqdo?at_medium=RSS&at_campaign=rss",
+   "content": "An gano ƙaramin wata mai lamba 2026 QQ8 a watan Agusta, amma ba shine kaɗai abokiyar samaniya ta wucin gadi da Duniya ta taɓa samu ba.",
+   "published_date": "Mon, 16 Nov 2026 03:51:53 GMT",
+   "score": 0.6
+  },
+  {
    "title": "An ceto mutum 19 a hannun ƴanbindiga a Zamfara",
    "url": "https://www.bbc.co.uk/hausa/live/cmvg2k3r347et?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 15/11/2026",
@@ -33,34 +61,6 @@
    "title": "Diflomasiyya na neman yin tsami tsakanin Najeriya da Afrika ta Kudu",
    "url": "https://www.bbc.co.uk/hausa/live/cqp83x144gv2t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 14/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Kareena Kapoor na shan suka kan saka sarƙa mai rubutun Qur'ani",
-   "url": "https://www.bbc.com/hausa/articles/c6m2lm9y4rjdo?at_medium=RSS&at_campaign=rss",
-   "content": "Kareena ta sanya sarkar wuyar ta zinare domin kece ado a bikin Diwali. An kuma gayyaci manyan jarumai daga masana'antar fim ta Indiya domin halarta.",
-   "published_date": "Sat, 14 Nov 2026 15:18:01 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abubuwa uku da zan mayar da hankali a kai – Magajin Masussuka",
-   "url": "https://www.bbc.com/hausa/articles/cm5y182w9zw0o?at_medium=RSS&at_campaign=rss",
-   "content": "Bayan an sanar da naɗin Imam Rasheed a matsayin wanda zai gaji marigayin, musamman wajen ci gaba da ayyukan da suka shafi haɗin kai da zaman lafiya, ya shaidawa BBC cewa akwai manyan abubuwa uku da zai mayar da hankali a kai domin tabbatar da cewa manufofin da marigayin ya ɗora tafiyarsu kai, ba su tsaya a nan ba.",
-   "published_date": "Sat, 14 Nov 2026 03:55:41 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'An binne wani a cikin kabarina'",
-   "url": "https://www.bbc.com/hausa/articles/cwp80l71yn8jo?at_medium=RSS&at_campaign=rss",
-   "content": "Marie Lane ta ce ba za ta iya kallon kabarin da ta tanada kuma ta biya kuɗinsa da irin yadda take kallonsa a da ba, bayan da aka yi kuskuren binne wani mutum a cikinsa, sannan daga baya aka tono gawar aka cire.",
-   "published_date": "Sat, 14 Nov 2026 03:56:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Har yanzu ba a kawo ƙarshen kashe Kiristoci a Najeriya ba'",
-   "url": "https://www.bbc.co.uk/hausa/live/cmde1n300dy6t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 13/11/2026",
    "published_date": "",
    "score": 0.6
   },
@@ -135,6 +135,34 @@
    "score": 0.6
   },
   {
+   "title": "Kareena Kapoor na shan suka kan saka sarƙa mai rubutun Qur'ani",
+   "url": "https://www.bbc.com/hausa/articles/c6m2lm9y4rjdo?at_medium=RSS&at_campaign=rss",
+   "content": "Kareena ta sanya sarkar wuyar ta zinare domin kece ado a bikin Diwali. An kuma gayyaci manyan jarumai daga masana'antar fim ta Indiya domin halarta.",
+   "published_date": "Sat, 14 Nov 2026 15:18:01 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Abubuwa uku da zan mayar da hankali a kai – Magajin Masussuka",
+   "url": "https://www.bbc.com/hausa/articles/cm5y182w9zw0o?at_medium=RSS&at_campaign=rss",
+   "content": "Bayan an sanar da naɗin Imam Rasheed a matsayin wanda zai gaji marigayin, musamman wajen ci gaba da ayyukan da suka shafi haɗin kai da zaman lafiya, ya shaidawa BBC cewa akwai manyan abubuwa uku da zai mayar da hankali a kai domin tabbatar da cewa manufofin da marigayin ya ɗora tafiyarsu kai, ba su tsaya a nan ba.",
+   "published_date": "Sat, 14 Nov 2026 03:55:41 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'An binne wani a cikin kabarina'",
+   "url": "https://www.bbc.com/hausa/articles/cwp80l71yn8jo?at_medium=RSS&at_campaign=rss",
+   "content": "Marie Lane ta ce ba za ta iya kallon kabarin da ta tanada kuma ta biya kuɗinsa da irin yadda take kallonsa a da ba, bayan da aka yi kuskuren binne wani mutum a cikinsa, sannan daga baya aka tono gawar aka cire.",
+   "published_date": "Sat, 14 Nov 2026 03:56:13 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Har yanzu ba a kawo ƙarshen kashe Kiristoci a Najeriya ba'",
+   "url": "https://www.bbc.co.uk/hausa/live/cmde1n300dy6t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 13/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Yadda wani mutum ya haɗiye buroshi yayin da yake wanke baki",
    "url": "https://www.bbc.com/hausa/articles/cvp86e473knro?at_medium=RSS&at_campaign=rss",
    "content": "Akwai mamaki a ji cewa buroshi ya sulale daga hannun mutum yayin da yake wanke baki, har ya shiga cikinsa. To amma tabbas irin wannan lamari ya faru da wani mutum kuma har likitoci sun yi nasarar cire buroshin mai tsawon santimita 19 ba tare da yi masa tiyata ba.",
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/c6vg23y4wr94t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Alhamis 12/11/2026",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "An gano wata baƙuwar cuta a duniya har ta kama mutum 130",
-   "url": "https://www.bbc.com/hausa/articles/c9ly4lj1llnko?at_medium=RSS&at_campaign=rss",
-   "content": "An gano wata baƙuwar cuta a duniya wadda ake iya yin gadonta da ke shafar tsarin jijiyoyin jiki, tare da haddasa wa yara rashin iya afiya da magana, kuma zuwa yanzu ta shafi mutum 130 a faɗin duniya.",
-   "published_date": "Fri, 13 Nov 2026 03:55:27 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa sabon fim ɗin Salman Khan ya tayar da ƙura?",
-   "url": "https://www.bbc.com/hausa/articles/cr894w93kd9lo?at_medium=RSS&at_campaign=rss",
-   "content": "An gina labarin fim ɗin kan ƙazamin faɗan da aka yi tsakanin sojojin India da na China a shekarar 2020, kuma mutane da dama sun yaba da kamannin Salman Khan a fim ɗin da kuma yadda ya taka rawar da ke ɗauke da yanayi mai taɓa zuciya.",
-   "published_date": "Thu, 12 Nov 2026 15:56:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abin da muka sani kan harin da aka kai wa tawagar Pantami a Gombe",
-   "url": "https://www.bbc.com/hausa/articles/cqkg5jkr07k7o?at_medium=RSS&at_campaign=rss",
-   "content": "Lamarin na zuwa ne a lokacin da Pantami ke shirin halartar wani babban taro yaƙin neman zaɓe da aka shirya masa a unguwar Jekada fari da ke tsakiyar birnin Gombe",
-   "published_date": "Thu, 12 Nov 2026 12:18:49 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ghana ta ƙaddamar da sabbin takardun kuɗi",
-   "url": "https://www.bbc.com/hausa/articles/c8wy5lx7znr2o?at_medium=RSS&at_campaign=rss",
-   "content": "A cewar babban bankin, sabbin takardun kuɗin na cedi sabunta fasali ne na takardun kuɗin da ake amfani da su a yanzu, waɗanda har yanzu za su ci gaba da kasancewa halastattun kuɗaɗen mu'amala.",
-   "published_date": "Thu, 12 Nov 2026 14:57:35 GMT",
    "score": 0.6
   }
  ],
