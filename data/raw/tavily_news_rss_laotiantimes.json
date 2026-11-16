@@ -1,6 +1,21 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Laos, Thailand Set USD 12 Billion Trade Target for 2027",
+   "url": "https://laotiantimes.com/2026/11/16/laos-thailand-set-usd-12-billion-trade-target-for-2027/",
+   "content": "Laos and Thailand have set a goal of increasing bilateral trade to USD 12 billion by the end of 2027, while expanding cooperation on transport, energy and border security. Lao Prime Minister Saleumxay Kommasith and Thai Prime Minister Anutin Charnvirakul discussed the target on 15 November in Manila, on the sidelines of the 49th ASEAN […]",
+   "published_date": "Mon, 16 Nov 2026 05:06:22 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Lao Singer Thinla Finishes Fifth at Inaugural Eurovision Song Contest Asia",
+   "url": "https://laotiantimes.com/2026/11/16/lao-singer-thinla-finishes-fifth-at-inaugural-eurovision-song-contest-asia/",
+   "content": "On 14 November, Lao singer Thinla finished fifth at the first Eurovision Song Contest Asia in Bangkok, Thailand, with her entry “Bae.” Thinla, whose full name is Thinlamphone Mahavong, was among the contest’s memorable performers. Many people in Laos and other countries have praised “Bae,” her bright smile, distinctive look and dance style on social […]",
+   "published_date": "Mon, 16 Nov 2026 03:43:36 +0000",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",
