@@ -2,6 +2,76 @@
  "success": true,
  "results": [
   {
+   "title": "India’s equity market: The cost of taxation, policy uncertainty and lost investor confidence",
+   "url": "https://www.thehindu.com/opinion/lead/indias-equity-market-the-cost-of-taxation-policy-uncertainty-and-lost-investor-confidence/article71707819.ece",
+   "content": "Investor confidence, once weakened by a series of inconsistent or costly policy decisions, cannot be restored by optimism alone",
+   "published_date": "Tue, 17 Nov 2026 01:54:41 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Clear the path: On SCO Civilisational Dialogue Forum in New Delhi",
+   "url": "https://www.thehindu.com/opinion/editorial/clear-the-path-on-sco-civilisational-dialogue-forum-in-new-delhi/article71708024.ece",
+   "content": "India should use multilateral fora to advance bilateral cooperation",
+   "published_date": "Tue, 17 Nov 2026 01:32:39 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Paharganj building collapse: Police book contractor, owner for negligence, MCD says no construction work underway",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-paharganj-building-collapse-fir-filed-against-property-owner-contractor/article71706714.ece",
+   "content": "Delhi Police apprehended two people after an under-construction Paharganj hotel collapsed, injuring eight workers; MCD said no construction was underway at the time despite GRAP restrictions",
+   "published_date": "Tue, 17 Nov 2026 01:32:20 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi’s construction boom, workers’ growing risks: Safety takes a back seat as violations go unchecked",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhis-construction-boom-workers-growing-risks-safety-takes-a-back-seat-as-violations-go-unchecked/article71708381.ece",
+   "content": "Missing helmets and protective gear, unsafe structures, punishing work hours and rushed construction expose a deepening safety crisis at Delhi’s building sites, where basic safeguards are routinely ignored and accountability often comes only after tragedy strikes",
+   "published_date": "Tue, 17 Nov 2026 01:26:03 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "A poverty line that falls short",
+   "url": "https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+   "content": "Reliable poverty estimates are not just for academic purposes. India has made real progress, but without a credible benchmark, it is hard to say how much, or how much remains to be done",
+   "published_date": "Tue, 17 Nov 2026 01:07:56 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "‘ISKCON’, ‘Tantric’, ‘Gorak Nath’: 287 ‘other’ religions briefly listed on Census portal",
+   "url": "https://www.thehindu.com/news/national/census-portal-lists-iskcon-tantric-gorak-nath-among-287-other-religions-removes-menu-later/article71708303.ece",
+   "content": "The drop-down menu under the ‘Others’ category in the question pertaining to the respondent’s religion had 287 options for those not choosing from among the six major religions in India. After The Hindu raised a query about the classification, the drop-down menu was removed from the portal.",
+   "published_date": "Tue, 17 Nov 2026 00:35:20 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Sonia’s memoir ‘Belonging’ debuts with 2 lakh copies sold in under a week: HarperCollins India CEO",
+   "url": "https://www.thehindu.com/books/sonias-memoir-belonging-debuts-with-2-lakh-copies-sold-in-under-a-week-harpercollins-ceo/article71709375.ece",
+   "content": "The thunderous response to the book has clearly taken even the debut author by surprise, with Sonia Gandhi admitting that she is “overwhelmed” by the outpouring of love and affection from readers",
+   "published_date": "Tue, 17 Nov 2026 00:30:06 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Plea in SC says ghost Form 7s haunt Mustafabad constituency during Delhi SIR",
+   "url": "https://www.thehindu.com/news/national/plea-in-sc-says-ghost-form-7s-haunt-mustafabad-constituency-during-delhi-sir/article71709358.ece",
+   "content": "The petition said persons declared dead were alive, while persons said to have shifted were found at home. Thirty-seven applications examined by the authorities were found to be false or fabricated.",
+   "published_date": "Tue, 17 Nov 2026 00:02:45 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi car blast: SC allows transfer of cases to capital for joint trial",
+   "url": "https://www.thehindu.com/news/national/delhi-car-blast-sc-allows-transfer-of-cases-to-capital-for-joint-trial/article71709239.ece",
+   "content": "A powerful explosion ripped through a slow-moving car at a traffic signal near the Red Fort Metro station on November 10, 2025, killing 12 people and injuring several others.",
+   "published_date": "Mon, 16 Nov 2026 23:33:30 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "IBM investing $3 billion annually in India, plans $10 bn global quantum push: CEO",
+   "url": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+   "content": "Chairman and Chief Executive Arvind Krishna said AI could displace 10-20% of jobs over the next decade, with the BPO industry likely to face some of the biggest reductions",
+   "published_date": "Mon, 16 Nov 2026 23:29:34 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order",
    "url": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
    "content": "The RBI filed a review petition in the Supreme Court against its judgment that set aside the write-off of ₹8,415 crore of Yes Bank’s additional tier-1 bonds",
@@ -20,48 +90,6 @@
    "url": "https://www.thehindu.com/education/decline-in-number-of-indian-students-studying-in-us/article71708596.ece",
    "content": "Despite the decline, India continues to send the largest chunk of international students to the US",
    "published_date": "Mon, 16 Nov 2026 23:03:32 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
-   "url": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece",
-   "content": "Several INDIA bloc leaders, including Samajwadi Party chief Akhilesh Yadav and TMC’s Abhishek Banerjee, Tamil Nadu Chief Minister C. Joseph Vijay and BJP leader Amarinder Singh attended the launch of Sonia Gandhi’s memoir on Monday, November 16",
-   "published_date": "Mon, 16 Nov 2026 22:59:11 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Indo-ASEAN ties at the heart of India’s Act East Policy, PM says ahead of ASEAN summit in Manila",
-   "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-manila-asean-india-summit-east-asia-summit/article71706657.ece",
-   "content": "PM attends Philippines President’s gala dinner; says visit will strengthen collective commitment to peaceful, prosperous, resilient Indo-Pacific; likely Quad meeting on Tuesday to send message on South China Sea tensions, sources say",
-   "published_date": "Mon, 16 Nov 2026 22:49:54 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India and Egypt form working group to explore trade deal contours",
-   "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece",
-   "content": "During his ongoing visit to Egypt, Commerce Minister Piyush Goyal co-chaired, along with Egypt’s Minister of Investment and Foreign Trade Mohamed Farid Saleh, the 7th session of the India-Egypt Joint Trade Committee (JTC) in Egypt’s New Administrative Capital.",
-   "published_date": "Mon, 16 Nov 2026 22:46:42 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Census portal lists ‘ISKCON’, ‘Tantric’, ‘Gorak Nath’ among 287 ‘other’ religions; removes menu later",
-   "url": "https://www.thehindu.com/news/national/census-portal-lists-iskcon-tantric-gorak-nath-among-287-other-religions-removes-menu-later/article71708303.ece",
-   "content": "The drop-down menu under the ‘Others’ category in the question pertaining to the respondent’s religion had 287 options for those not choosing from among the six major religions in India. After The Hindu raised a query about the classification, the drop-down menu was removed from the portal.",
-   "published_date": "Mon, 16 Nov 2026 22:28:07 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India shows us a picture full of colour, complexity and possibilities, says Prince William",
-   "url": "https://www.thehindu.com/news/national/india-shows-us-a-picture-full-of-colour-complexity-and-possibilities-says-prince-william/article71708993.ece",
-   "content": "Prince William and Catherine arrived in Mumbai on Monday for a three-day official visit for the sixth edition of the Earthshot Prize. He said each climate solution was a breakthrough making the next goal easier ‘until what once seemed impossible becomes inevitable’",
-   "published_date": "Mon, 16 Nov 2026 22:18:05 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Britain’s Prince William, Princess Kate take Mumbai metro ride",
-   "url": "https://www.thehindu.com/videos/shorts/britains-prince-william-princess-kate-take-mumbai-metro-ride/article71709186.ece",
-   "content": "",
-   "published_date": "Mon, 16 Nov 2026 22:13:02 +0530",
    "score": 0.6
   }
  ],

@@ -2,10 +2,31 @@
  "success": true,
  "results": [
   {
+   "title": "Concurrence : l’UEFA et une fédération de grands clubs de football européens visées par une plainte",
+   "url": "https://www.politico.eu/article/concurrence-luefa-et-une-federation-de-grands-clubs-de-football-europeens-vises-par-une-plainte/",
+   "content": "L’Union des clubs européens estime que l’accord d’exclusivité conclu entre l’UEFA et une puissante organisation de clubs de football enfreint le droit européen de la concurrence.",
+   "published_date": "Mon, 16 Nov 2026 18:30:50 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Le bras de fer entre Le Pen et les constitutionnalistes",
+   "url": "https://www.politico.eu/podcast/playbook-paris-podcast/le-bras-de-fer-entre-le-pen-et-les-constitutionnalistes/",
+   "content": "L’initiative n’est pas habituelle : 110 professeurs de droit ont cosigné une tribune dans Le Monde, mercredi dernier, pour rappeler les règles prévues en matière révision de la Constitution. Leur message : modifier notre loi fondamentale via l’article 11, utilisé jadis par Charles de Gaulle, est irrégulier. Or, Marine Le Pen prévoit d’y recourir pour […]",
+   "published_date": "Mon, 16 Nov 2026 18:03:22 +0000",
+   "score": 0.6
+  },
+  {
    "title": "5 countries announce plan to deport failed asylum-seekers to Rwanda",
    "url": "https://www.politico.eu/article/5-countries-announce-plan-to-deport-failed-asylum-seekers-to-rwanda/",
    "content": "Austria, Denmark, Germany, Greece and the Netherlands plan to open the deportation hubs in 2027.",
    "published_date": "Mon, 16 Nov 2026 16:57:27 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Europeans seek to head off COP31 climate science row",
+   "url": "https://www.politico.eu/article/europe-china-talks-ipcc-climate-reports/",
+   "content": "Diplomats see China as key to breaking a deadlock holding up scientific reports.",
+   "published_date": "Mon, 16 Nov 2026 16:33:43 +0000",
    "score": 0.6
   },
   {
@@ -48,27 +69,6 @@
    "url": "https://www.politico.eu/article/draft-cop31-text-suggests-immediate-fossil-fuel-transition/",
    "content": "A draft version of the climate summit deal was published Monday.",
    "published_date": "Mon, 16 Nov 2026 14:26:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU verhängt Sanktionen gegen russische Hacker und Trolle",
-   "url": "https://www.politico.eu/article/eu-verhaengt-sanktionen-gegen-russische-hacker-und-trolle/",
-   "content": "Die EU verschärft ihr Vorgehen gegen russische Cyberangriffe und Desinformation. Neue Sanktionen treffen eine bekannte Hackergruppe sowie ein Moskauer Unternehmen, das gezielt Einfluss auf die öffentliche Meinung in Europa nimmt.",
-   "published_date": "Mon, 16 Nov 2026 13:14:58 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Twisted logic",
-   "url": "https://www.politico.eu/sponsored-content/twisted-logic/",
-   "content": "",
-   "published_date": "Mon, 16 Nov 2026 13:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU sanctions Russian trolls, hackers",
-   "url": "https://www.politico.eu/article/eu-sanctions-russian-trolls-hackers/",
-   "content": "A Moscow-based firm that carries out “large scale information manipulation and interference projects” is in the EU’s crosshairs.",
-   "published_date": "Mon, 16 Nov 2026 12:11:02 +0000",
    "score": 0.6
   }
  ],

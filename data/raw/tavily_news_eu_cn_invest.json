@@ -2,17 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Europe needs to find third way on China: European scholar - Global Times",
-   "url": "https://www.globaltimes.cn/page/202611/1374395.shtml",
-   "snippet": "The second is local investment. Chinese technology companies could establish production, assembly, research and industrial service activities in Europe through partnerships with local businesses. For three decades, much industrial technology flowed from Europe to China. In AI-driven manufacturing, knowledge and innovation can increasingly move in both directions. Rather than the relocation of exis",
-   "published": "Mon, 16 Nov 2026 12:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe's trade walls cannot keep China out as investments soar",
-   "url": "https://www.nst.com.my/opinion/columnists/2026/11/1579286/europes-trade-walls-cannot-keep-china-out-investments-soar",
-   "snippet": "CHINA doesn't need to clear Europe's trade barriers. It can build inside them. Chinese firms are establishing production and supplier networks across",
-   "published": "Mon, 16 Nov 2026 16:00:00 GMT",
+   "title": "Europe urged to see Beijing as a partner",
+   "url": "https://www.chinadailyasia.com/article/642761",
+   "snippet": "On Nov 6, Premier Li Qiang held a welcome ceremony for Stocker. During their talks, Li said that China is ready to import more high-quality Austrian goods and expand cooperation in areas such as advanced manufacturing.\n\nChina supports more Chinese companies investing in Austria and hopes that Austria will provide them with a fair and non-discriminatory business environment, Li said. [...] In socia",
+   "published": "Thu, 12 Nov 2026 20:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -47,21 +40,21 @@
    "title": "COMMENTARY: Europe’s trade walls cannot keep China out",
    "url": "https://www.reuters.com/commentary/reuters-open-interest/europes-trade-walls-cannot-keep-china-out-martin-vladimirov-2026-11-11",
    "snippet": "SOFIA, Nov 11 (Reuters) - China doesn't need to clear Europe's trade barriers. It can build inside them. Chinese companies are establishing production and",
-   "published": "Thu, 12 Nov 2026 18:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Europe urged to see Beijing as a partner",
-   "url": "https://www.chinadailyasia.com/article/642761",
-   "snippet": "Xi tells Austrian chancellor that China can help continent tackle problems. President Xi Jinping meets with Austrian Chancellor Christian Stocker,",
-   "published": "Thu, 12 Nov 2026 18:00:00 GMT",
+   "published": "Thu, 12 Nov 2026 20:00:00 GMT",
    "source": "tavily"
   },
   {
    "title": "China’s tech transfer crackdown sets up clash with EU rules",
    "url": "https://www.fdiintelligence.com/content/b4dd4e5d-c4b4-417c-afb0-10c1c71cf835",
    "snippet": "A flurry of Chinese reforms to curb technology transfer by its companies operating abroad is set to create friction with the EU's flagship Industrial",
-   "published": "Thu, 12 Nov 2026 18:00:00 GMT",
+   "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mark Carney warns Canada may turn to Chinese automakers if US trade talks fail",
+   "url": "https://thehill.com/policy/international/6223278-carney-threatens-china-auto-deal",
+   "snippet": "He suggested that Canada could pursue investment from automakers in China, Europe or Japan if negotiations with the U.S. fail to secure the future of its auto industry.\n\nAsked whether the prospect of Chinese investment was meant to give Canada an advantage in negotiations with Washington, Carney responded, “It’s not leverage. But action, reaction.” [...] “If they’re not fully utilized in a North A",
+   "published": "Mon, 16 Nov 2026 19:23:19 GMT",
    "source": "tavily"
   }
  ],

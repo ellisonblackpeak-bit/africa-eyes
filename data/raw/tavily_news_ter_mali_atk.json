@@ -2,24 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "Arab News | mali",
-   "url": "https://www.arabnews.com/tag/mali",
-   "snippet": "By Reuters ·\n\nAl-Qaeda-linked JNIM claims a deadly Mali army camp attack and releases video of captured soldiers\n\n### Al-Qaeda-linked JNIM claims a deadly Mali army camp attack and releases video of captured soldiers\n\nBy AP ·\n\nDeath toll passes 100 soldiers in Mali attack last week: sources\n\n### Death toll passes 100 soldiers in Mali attack last week: sources\n\nBy afp ·\n\nMali attack last week kille",
-   "published": "Sun, 15 Nov 2026 08:45:49 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "On Our Radar",
-   "url": "https://www.crisisgroup.org/sco/global/our-radar",
-   "snippet": "On Tuesday, the Malian army recaptured Kidal, Jamaat Nusrat al-Islam wal-Muslimin (JNIM), which killed 50 Malian soldiers in its latest attack on an army base",
-   "published": "Fri, 13 Nov 2026 17:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "The Coup Belt’s Drone Problem - Security Outlines",
-   "url": "https://securityoutlines.cz/the-coup-belts-drone-problem",
-   "snippet": "A more significant development followed in June, when JNIM overran the base at Boulkessi in central Mali on the first of the month. Reporting on the death toll varied, with figures from around thirty to at least sixty soldiers killed, and a military source indicated that of approximately two hundred and eighty personnel at the base, those who were not killed were captured.   The following day it a",
-   "published": "Tue, 10 Nov 2026 14:58:53 GMT",
+   "title": "Mali's Military Power: How Many Tanks, Aircraft and Armed Drones Are in the Inventory? (2026) - Envanter Medya",
+   "url": "https://envantermedya.com/en/en-mali-military-inventory",
+   "snippet": "In November 2023 the army retook Kidal, which had been outside central government control for years; drone support was decisive in that success. However, after coordinated nationwide attacks by JNIM and the Tuareg-led FLA on 25 April 2026, the army and Africa Corps withdrew from Kidal. The fuel blockade JNIM launched in September 2025 also complicates the supply of the capital Bamako; convoys now ",
+   "published": "Sun, 15 Nov 2026 10:37:00 GMT",
    "source": "tavily"
   },
   {
@@ -30,17 +16,31 @@
    "source": "tavily"
   },
   {
-   "title": "Jihadism in the Sahel - Danish Institute for International Studies",
-   "url": "https://research.diis.dk/files/32000096/Jihadism-in-the-Sahel_DIIS_Book_34_.pdf",
-   "snippet": "While the 1963 rebellion was short-lived and forcefully suppressed by Mali's army, it has remained a source of conflict ... 'More than 70 killed in Mali attack:",
-   "published": "Sat, 14 Nov 2026 17:00:00 GMT",
+   "title": "For the first time in over 50 years, Africa's 2nd-strongest military sends its troops outside its borders to help a Russian-backed Junta country it recently had a problem with | Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/for-the-first-time-in-over-50-years-africas-2nd-strongest-military-sends-its-troops/ysdz6x9",
+   "snippet": "Mali, which maintains close ties with Niger and Burkina Faso, accused Algeria of shooting down the drone.\n\nAlgiers, however, maintained that the drone had entered its airspace while flying on what it described as an aggressive trajectory. It said the incident was the third such airspace violation.\n\nMali rejected Algeria's account, arguing that the drone wreckage was found about 9.5 kilometres sout",
+   "published": "Tue, 10 Nov 2026 14:30:21 GMT",
    "source": "tavily"
   },
   {
-   "title": "Armed Men Kill Dozens Of Civilians In Niger Flashpoint",
-   "url": "https://www.facebook.com/tvcnewsng/posts/armed-men-kill-dozens-of-civilians-in-niger-flashpointarmed-men-have-killed-at-l/1583661727128293",
-   "snippet": "Gunmen killed 21 civilians in an attack on a goods convoy in western Niger near the borders with fellow Sahel states Mali and Burkina Faso, local sources told",
-   "published": "",
+   "title": "Armed men kill dozens of civilians in Niger flashpoint",
+   "url": "https://www.modernghana.com/news/1544399/armed-men-kill-dozens-of-civilians-in-niger-flashp.amp",
+   "snippet": "ModernGhana logo ModernGhana logo\n\nModernGhana logo\n\n Archive\n More\n Africa\n Nigeria\n Kenya\n Ivory Coast\n South Africa\n\nOnAIR\n\nModernGhana logo\n\nbody-container-line-1\n\n# Armed men kill dozens of civilians in Niger flashpoint\n\nFri, 13 Nov 2026\n\nNiger.  By Tupac POINTU, Jean-Michel CORNU (AFP)\n\nFRI, 13 NOV 2026\n\nNiger. By Tupac POINTU, Jean-Michel CORNU (AFP)\n\nArmed men have killed at least 37 civil",
+   "published": "Fri, 13 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Armed men kill at least 37 civilians in western Niger",
+   "url": "https://www.newindianexpress.com/world/2026/Nov/13/armed-men-kill-at-least-37-civilians-in-western-niger",
+   "snippet": "Copied\n\nABIDJAN: Armed men have killed at least 37 civilians in an ambush in western Niger near Burkina Faso and Mali, local sources said on Friday.\n\nNiger, ruled by a military junta since a 2023 coup, is battling violence by jihadists linked to Al-Qaeda and the Islamic State group, with thousands killed over the last decade.\n\nThe latest attack targeted villagers headed early on Thursday to a week",
+   "published": "Fri, 13 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Mali receives Mi-24 and Mi-8 helicopters and an Il-76 transport",
+   "url": "https://www.military.africa/2026/11/mali-receives-mi-24-mi-8-helicopters-and-il-76-transport",
+   "snippet": "Mali receives six Mi-24 and Mi-8 helicopters and an Il-76 transport aircraft, handed over by Assimi Goïta in Bamako after a year of heavy air losses.",
+   "published": "Mon, 16 Nov 2026 15:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -51,10 +51,24 @@
    "source": "tavily"
   },
   {
-   "title": "At least 10 people were killed in clashes between security forces and artisanal gold miners in Guinea’s Siguiri region on Wednesday, according to the Guinean government. The violence marks a further escalation in a crackdown that has forced thousands of West African workers into neighbouring Mali.\n\nSince Guinea banned unauthorised gold mining in Siguiri on 2 November, Mali has recorded approximately 160,000 arrivals, including 100,000 in Bamako and 60,000 in the border town of Kourémalé.\n\nMalian authorities separately reported 10 deaths among those expelled by 11 November. The World Health Organization says more than 60,000 people have been assisted to return to their countries of origin, but overcrowding, inadequate shelter and limited access to safe water and sanitation continue to pose serious humanitarian risks.\n\n#Guinea #Mali #Siguiri #Bamako #GoldMining #WestAfrica #HumanitarianCrisis #BurkinaFaso | Ahram Online",
-   "url": "https://www.facebook.com/ahramonline/videos/at-least-10-people-were-killed-in-clashes-between-security-forces-and-artisanal-/1793115639363953",
-   "snippet": "At least 10 people were killed in clashes between security forces and artisanal gold miners in Guinea’s Siguiri region on Wednesday, according to the Guinean government. The violence marks a further escalation in a crackdown that has forced thousands of West African workers into neighbouring Mali. Since Guinea banned unauthorised gold mining in Siguiri on 2 November, Mali has recorded approximatel",
-   "published": "",
+   "title": "9 civilians killed in RSF drone attack in Sudan's Blue Nile state: Official",
+   "url": "https://www.aa.com.tr/en/africa/9-civilians-killed-in-rsf-drone-attack-in-sudans-blue-nile-state-official/4118540",
+   "snippet": "### Mali seeks technology transfer in defense cooperation with Türkiye, eyes wider economic ties\n\nMali seeks technology transfer in defense cooperation with Türkiye, eyes wider economic ties\n\n## LATEST NEWS\n\n### US defense chief awards medal to soldier who rebuked his team at Arlington cemetery\n\n### Israel bars leaders of France Unbowed party from entry\n\n### US Senate Democrats vow to block fundin",
+   "published": "Tue, 10 Nov 2026 12:37:53 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Uganda, Somalia, South Sudan among 11 African nations on US travel warning list",
+   "url": "https://www.standardmedia.co.ke/amp/africa/article/2001561965/uganda-somalia-south-sudan-among-11-african-nations-on-us-travel-warning-list",
+   "snippet": "The other African countries on the list are Burkina Faso, the Central African Republic (CAR), Chad, the Democratic Republic of the Congo (DRC), Libya, Mali, Niger and Sudan.\n\nThe US Department of State has classified the destinations under Level 4 of its travel advisory system, the highest category, which carries a “Do Not Travel” warning.\n\n“These places are dangerous. Do not go for ANY reason,” t",
+   "published": "Tue, 10 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "On Our Radar",
+   "url": "https://www.crisisgroup.org/sco/global/our-radar",
+   "snippet": "On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group's analysts are closely watching.",
+   "published": "Fri, 13 Nov 2026 20:00:00 GMT",
    "source": "tavily"
   }
  ],
