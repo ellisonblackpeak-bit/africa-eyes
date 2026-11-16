@@ -2,10 +2,31 @@
  "success": true,
  "results": [
   {
+   "title": "French presidential rivals take aim at Le Pen in debate",
+   "url": "https://www.politico.eu/article/france-election-2027-presidential-candidates-target-marine-le-pen-tv-debate/",
+   "content": "The far-right leader and four other candidates were quizzed on cost-of-living issues.",
+   "published_date": "Mon, 16 Nov 2026 23:27:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Brexit diminished us, Burnham says as he tees up closer EU ties",
+   "url": "https://www.politico.eu/article/andy-burnham-brexit-diminished-britain-pushes-closer-eu-ties-lord-mayors-speech/",
+   "content": "The British prime minister said Brexit was \"the first domino to fall in a global move towards isolationism and protectionism.\"",
+   "published_date": "Mon, 16 Nov 2026 22:48:21 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Concurrence : l’UEFA et une fédération de grands clubs de football européens visées par une plainte",
    "url": "https://www.politico.eu/article/concurrence-luefa-et-une-federation-de-grands-clubs-de-football-europeens-vises-par-une-plainte/",
    "content": "L’Union des clubs européens estime que l’accord d’exclusivité conclu entre l’UEFA et une puissante organisation de clubs de football enfreint le droit européen de la concurrence.",
    "published_date": "Mon, 16 Nov 2026 18:30:50 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "UK hands Palantir two-year reprieve on NHS contract",
+   "url": "https://www.politico.eu/article/uk-hands-palantir-two-year-reprieve-on-nhs-contract/",
+   "content": "Health minister James Frith described the extension of Palantir's NHS contract as “a bridge, not the destination.”",
+   "published_date": "Mon, 16 Nov 2026 18:12:39 +0000",
    "score": 0.6
   },
   {
@@ -23,7 +44,7 @@
    "score": 0.6
   },
   {
-   "title": "Europeans seek to head off COP31 climate science row",
+   "title": "Europeans court China’s help to keep climate action on track",
    "url": "https://www.politico.eu/article/europe-china-talks-ipcc-climate-reports/",
    "content": "Diplomats see China as key to breaking a deadlock holding up scientific reports.",
    "published_date": "Mon, 16 Nov 2026 16:33:43 +0000",
@@ -48,27 +69,6 @@
    "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/sponsored-episode-europes-ambition-to-stop-cancer/",
    "content": "Europe is a leader in cancer research. But turning that science into treatments that reach patients is another matter. Every minute, five people in Europe are diagnosed with cancer, and the disease costs the European economy more than €100 billion a year. Five years after its launch, Europe’s Beating Cancer Plan has been scrutinized by […]",
    "published_date": "Mon, 16 Nov 2026 15:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Un brouillon de la COP31 préconise une sortie “immédiate” des énergies fossiles",
-   "url": "https://www.politico.eu/article/un-brouillon-de-la-cop31-preconise-une-sortie-immediate-des-energies-fossiles/",
-   "content": "Une version préliminaire de l'accord du sommet sur le climat a été publiée lundi.",
-   "published_date": "Mon, 16 Nov 2026 14:57:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "European Parliament would back UK rejoining the EU, says senior lawmaker",
-   "url": "https://www.politico.eu/article/european-parliament-would-back-uk-rejoining-eu/",
-   "content": "Sandro Gozi, chair of the EU delegation to the U.K. parliament, says Brexit was a \"disaster.\"",
-   "published_date": "Mon, 16 Nov 2026 14:32:21 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Draft COP31 text suggests ‘immediate’ fossil fuel transition",
-   "url": "https://www.politico.eu/article/draft-cop31-text-suggests-immediate-fossil-fuel-transition/",
-   "content": "A draft version of the climate summit deal was published Monday.",
-   "published_date": "Mon, 16 Nov 2026 14:26:35 +0000",
    "score": 0.6
   }
  ],
