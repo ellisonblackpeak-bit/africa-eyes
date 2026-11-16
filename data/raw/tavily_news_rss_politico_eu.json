@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "5 countries announce plan to deport failed asylum-seekers to Rwanda",
+   "url": "https://www.politico.eu/article/5-countries-announce-plan-to-deport-failed-asylum-seekers-to-rwanda/",
+   "content": "Austria, Denmark, Germany, Greece and the Netherlands plan to open the deportation hubs in 2027.",
+   "published_date": "Mon, 16 Nov 2026 16:57:27 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
    "url": "https://www.politico.eu/article/google-says-russian-speakers-behind-first-ever-fully-automated-ai-cyberattack/",
    "content": "The development could mark an inflection point in the use of AI for cyberattacks.",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/eu-sanctions-russian-trolls-hackers/",
    "content": "A Moscow-based firm that carries out “large scale information manipulation and interference projects” is in the EU’s crosshairs.",
    "published_date": "Mon, 16 Nov 2026 12:11:02 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Frankreich drängt nach Supermarkt-Hacks auf schnelle EU-Sanktionen gegen Iran",
-   "url": "https://www.politico.eu/article/frankreich-draengt-nach-supermarkt-hacks-auf-schnelle-eu-sanktionen-gegen-iran/",
-   "content": "Nach Cyberangriffen auf Hunderte französische Supermärkte fordert Paris EU-Sanktionen gegen die mutmaßlich Verantwortlichen im Iran. Eine Entscheidung soll bereits bis Mitte Dezember fallen.",
-   "published_date": "Mon, 16 Nov 2026 11:44:37 +0000",
    "score": 0.6
   }
  ],

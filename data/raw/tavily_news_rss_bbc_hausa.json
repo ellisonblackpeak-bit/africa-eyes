@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Me ya haifar da takun-saƙa tsakanin Najeriya da Afirka ta Kudu?",
-   "url": "https://www.bbc.com/hausa/articles/ck24en9n9ve4o?at_medium=RSS&at_campaign=rss",
-   "content": "Ofishin jakadancin Najeriya a Afirka ta Kudu ya yi Allah wadai da yadda aka yi wa Femi Fani-Kayode, yana mai cewa hakan cin mutunci ne ga jakadan da kuma ɗaukacin al'ummar Najeriya.",
-   "published_date": "Mon, 16 Nov 2026 14:13:59 GMT",
-   "score": 0.6
-  },
-  {
    "title": "'Jiragen ruwa biyu sun tarwatse a mashigar Hormuz'",
    "url": "https://www.bbc.co.uk/hausa/live/cr0qj0wzwyxet?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 16/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Birnin da gwamnati ta hana amfani da tsabar kuɗi a Pakistan",
+   "url": "https://www.bbc.com/hausa/articles/cj1dv3e4yd53o?at_medium=RSS&at_campaign=rss",
+   "content": "Gwamnatin Pakistan ta sanar da wani shiri na mayar da birnin Islamabad ya zama babban birni na farko a duniya da ba a amfani da tsabar kuɗi wajen hada-hadar kasuwanci.",
+   "published_date": "Mon, 16 Nov 2026 16:19:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya haifar da takun-saƙa tsakanin Najeriya da Afirka ta Kudu?",
+   "url": "https://www.bbc.com/hausa/articles/ck24en9n9ve4o?at_medium=RSS&at_campaign=rss",
+   "content": "Ofishin jakadancin Najeriya a Afirka ta Kudu ya yi Allah wadai da yadda aka yi wa Femi Fani-Kayode, yana mai cewa hakan cin mutunci ne ga jakadan da kuma ɗaukacin al'ummar Najeriya.",
+   "published_date": "Mon, 16 Nov 2026 14:13:59 GMT",
    "score": 0.6
   },
   {
@@ -58,13 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "An gano maganin sanƙo na har abada",
-   "url": "https://www.bbc.com/hausa/articles/cw62pm7z7n65o?at_medium=RSS&at_campaign=rss",
-   "content": "Wasu gwaje-gwajen da aka gudanar kan ɓeraye sun nuna yadda sinadarin osteopontin da ake samu cikin ƙurajen fata zasu iya zuƙo ƙwayoyin halittar da ke tsiro da gashi",
-   "published_date": "Sun, 15 Nov 2026 17:13:47 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.com/hausa/articles/cw4gnrdvjyxlo?at_medium=RSS&at_campaign=rss",
    "content": "Manchester United na ci gaba da fuskantar kalubale tun bayan ritayar Sir Alex Ferguson. Ga rahoton da Mohammed Abdu ya hada kan matsaloli biyar da suka jawo koma baya a kungiyar da jerin kociyoyin da aka sallama da abin da ke gaban Mauricio Pochettino a Old Trafford.",
    "published_date": "Sat, 14 Nov 2026 12:23:04 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "An gano maganin sanƙo na har abada",
+   "url": "https://www.bbc.com/hausa/articles/cw62pm7z7n65o?at_medium=RSS&at_campaign=rss",
+   "content": "Wasu gwaje-gwajen da aka gudanar kan ɓeraye sun nuna yadda sinadarin osteopontin da ake samu cikin ƙurajen fata zasu iya zuƙo ƙwayoyin halittar da ke tsiro da gashi",
+   "published_date": "Sun, 15 Nov 2026 17:13:47 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/c6vg23y4wr94t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Alhamis 12/11/2026",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "An gano wata baƙuwar cuta a duniya har ta kama mutum 130",
-   "url": "https://www.bbc.com/hausa/articles/c9ly4lj1llnko?at_medium=RSS&at_campaign=rss",
-   "content": "An gano wata baƙuwar cuta a duniya wadda ake iya yin gadonta da ke shafar tsarin jijiyoyin jiki, tare da haddasa wa yara rashin iya afiya da magana, kuma zuwa yanzu ta shafi mutum 130 a faɗin duniya.",
-   "published_date": "Fri, 13 Nov 2026 03:55:27 GMT",
    "score": 0.6
   }
  ],

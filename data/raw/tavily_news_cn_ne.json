@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Niger declares 'severe environmental incident' after oil blowout - TRT Afrika",
-   "url": "https://www.trtafrika.com/english/article/9ba41164dca9",
-   "snippet": "An investigation was underway with the help of \"Algerian expertise\", it added.\n\nThe site is operated by CNPC Niger Petroleum, a local subsidiary of the Chinese state-owned China National Petroleum Corporation.\n\nA junta has ruled Niger since a 2023 coup. An armed group opposed to the military government has been carrying out sporadic attacks on the 2,000-kilometre pipeline transporting Nigerien cru",
-   "published": "Tue, 10 Nov 2026 22:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Niger Says Chinese Firm Safety Lapses Preceded Oil Well Blowout - Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-11/niger-says-chinese-firm-safety-lapses-preceded-oil-well-blowout",
    "snippet": "Energy\n\n# Niger Says Chinese Firm Safety Lapses Preceded Oil Well Blowout\n\n## Takeaways by Bloomberg AI\n\nNiger said China National Petroleum Corp.’s local unit failed to follow industry standards at a well in the Agadem oil block following a 25-day blowout, citing the company’s own documents. [...] Almost 800 meters of casing at the Goumeri W8 well wasn’t cemented, while abnormal pressure — record",
@@ -51,9 +44,16 @@
    "source": "tavily"
   },
   {
+   "title": "Niger declares 'severe environmental incident' after oil blowout",
+   "url": "https://www.trtafrika.com/english/article/9ba41164dca9",
+   "snippet": "A huge blowout of oil and gas in Niger's remote eastern desert has caused an environmental incident of \"exceptional severity\", the petroleum ministry",
+   "published": "Wed, 11 Nov 2026 17:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "bne IntelliNews - Nigeria’s Stanbic IBTC launches renminbi payment route to cut China settlement times",
    "url": "https://www.intellinews.com/nigeria-s-stanbic-ibtc-launches-renminbi-payment-route-to-cut-china-settlement-times-484591?source=china",
-   "snippet": "img\n\nGulf of Guinea oil regains strategic appeal as global energy shocks mount – Carnegie\n\nimg\n\nOnly 11% of African financial institutions linked to PAPSS payment system, Deloitte-AFIS survey shows\n\nimg\n\nUK details $1.47bn infrastructure financing support for Guinea and Benin\n\nimg\n\nECOWAS and Sahel states seek new trade rules after political split\n\nimg\n\nOnly 11% of African financial institutions l",
+   "snippet": "That could reduce exposure arising from intermediary currencies, although customers may still bear naira-renminbi exchange-rate risk unless separately hedged.\n\nThe service is being introduced into a large but heavily imbalanced trading relationship. IntelliNews reported in August that Nigeria-China trade rose 35% year on year to about $18bn in the first half of 2026. Chinese customs data put impor",
    "published": "Fri, 13 Nov 2026 07:00:00 GMT",
    "source": "tavily"
   },

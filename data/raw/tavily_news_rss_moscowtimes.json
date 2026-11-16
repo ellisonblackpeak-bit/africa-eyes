@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Russia Loses UN Telecoms Agency Leadership Vote",
+   "url": "https://www.themoscowtimes.com/2026/11/16/russia-loses-un-telecoms-agency-leadership-vote-a94276",
+   "content": "Countries vie for ITU posts because winning can give them more influence on important topics such as AI standards and global radio spectrum allocation.",
+   "published_date": "Mon, 16 Nov 2026 19:22:55 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Kremlin Aide Denies Russia Agreed to Include Europe in Ukraine Peace Talks",
+   "url": "https://www.themoscowtimes.com/2026/11/16/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks-a94279",
+   "content": "\"A great deal would have to be done before that could be agreed,\" Kremlin aide Yury Ushakov said.",
+   "published_date": "Mon, 16 Nov 2026 19:18:29 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Suspect Arrested Over Moscow Car Bombing of Pro-Russian Ukrainian PM’s Ex-Aide",
+   "url": "https://www.themoscowtimes.com/2026/11/16/suspect-arrested-over-moscow-car-bombing-of-pro-russian-ukrainian-pms-ex-aide-a94278",
+   "content": "Scammers posed as bank employees before coercing the woman into planting the bomb.",
+   "published_date": "Mon, 16 Nov 2026 19:12:51 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Russia’s Indigenous Languages Are Dying. Can a New Wave of Activism Save Them?",
    "url": "https://www.themoscowtimes.com/2026/11/16/russias-indigenous-languages-are-dying-can-a-new-wave-of-activism-save-them-a94259",
    "content": "As Russia’s war in Ukraine threatens its Indigenous languages, writers, teachers and activists are fighting to keep them alive — often from exile.",
@@ -188,27 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/12/st-petersburg-car-blast-kills-russian-aerospace-forces-officer-a94235",
    "content": "The officer was the second Russian military official to be killed in a car bomb explosion in the same neighborhood this year.",
    "published_date": "Thu, 12 Nov 2026 12:23:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russia’s AI Ambitions Take a Hit With Ukrainian Data Center Strikes",
-   "url": "https://www.themoscowtimes.com/2026/11/11/russias-ai-ambitions-take-a-hit-with-ukrainian-data-center-strikes-a94108",
-   "content": "Russia’s drive to develop “sovereign” AI was already struggling. Then came the drone strikes.",
-   "published_date": "Wed, 11 Nov 2026 20:34:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Spate of Deadly Bear Attacks in Russia Has Left 35 People Dead",
-   "url": "https://www.themoscowtimes.com/2026/11/11/spate-of-deadly-bear-attacks-in-russia-has-left-35-people-dead-a94234",
-   "content": "The latest victim was a security guard at a holiday camp in the Kamchatka region, state-run media reported.",
-   "published_date": "Wed, 11 Nov 2026 20:12:14 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "CSTO Strips Armenia of Voting Rights",
-   "url": "https://www.themoscowtimes.com/2026/11/11/csto-strips-armenia-of-voting-rights-a94231",
-   "content": "The Russian-led military alliance said Armenia had failed to pay membership dues over the past two years.",
-   "published_date": "Wed, 11 Nov 2026 19:33:38 +0300",
    "score": 0.6
   }
  ],

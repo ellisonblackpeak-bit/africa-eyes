@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+   "url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf",
+   "content": "The controversy surrounding Nvidia and its former CEO Jensen Huang has put a spotlight on the intensifying AI race between the US and China.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Iran's growing exodus of young talent",
+   "url": "https://www.dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368?maca=en-rss-en-world-4025-rdf",
+   "content": "Conflict and uncertainty are driving more and more educated young Iranians to consider leaving the country.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Guinea's gold rush: Arrests, deportations spark outcry",
    "url": "https://www.dw.com/en/guinea-s-gold-rush-arrests-deportations-spark-outcry/a-79922842?maca=en-rss-en-world-4025-rdf",
    "content": "Guinea has banned illegal gold mining, citing environmental concerns. It has further charged hundreds of suspected local and foreign illegal miners amid reports of rights abuses and deportations.",
@@ -51,8 +65,8 @@
    "score": 0.6
   },
   {
-   "title": "Fact check: 'Iranian' content farms reach millions",
-   "url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-world-4025-rdf",
+   "title": "Fact check: Iranian disinformation reaches millions on social media",
+   "url": "https://www.dw.com/en/fact-check-iranian-disinformation-reaches-millions-on-social-media/a-79934190?maca=en-rss-en-world-4025-rdf",
    "content": "Several social media accounts claiming to represent the Iranian military show signs of being part of so-called content farms. DW Fact Check looks at how they operate and how users can spot them.",
    "published_date": "",
    "score": 0.6
@@ -61,20 +75,6 @@
    "title": "COP31: Protesters, UN urge swift climate deal",
    "url": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-world-4025-rdf",
    "content": "The UN climate chief has warned that \"tactical delays\" at the COP31 climate talks in Turkey could prevent a deal to slow global warming.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-   "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
-   "content": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
-   "url": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-world-4025-rdf",
-   "content": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
    "published_date": "",
    "score": 0.6
   }

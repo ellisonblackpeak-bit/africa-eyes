@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Italian schools hit by new wave of bomb and poison threats",
+   "url": "https://www.euronews.com/2026/11/16/italian-schools-hit-by-new-wave-of-bomb-and-poison-threats",
+   "content": "Under new security guidelines, Italian schools are no longer automatically evacuated in response to vague, mass-distributed threats, with the decision left to the discretion of law enforcement and security officials.",
+   "published_date": "Mon, 16 Nov 2026 18:41:21 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Latest news bulletin | November 16th, 2026 – Evening",
+   "url": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-evening",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Mon, 16 Nov 2026 18:00:26 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Prince William and Princess Catherine play street cricket with locals in Mumbai",
    "url": "https://www.euronews.com/video/2026/11/16/prince-william-and-princess-catherine-play-street-cricket-with-locals-in-mumbai",
    "content": "Prince William and Princess Catherine play street cricket with local players in Mumbai, India, during a three-day visit for the Earthshot Prize.",
@@ -32,7 +46,7 @@
   {
    "title": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
    "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
-   "content": "A sudden rise in Iranian attacks on ships in the Strait of Hormuz follows an increasing number of air strikes between the US and Iran, as both sides trade intensifying warning shots, bringing the region closer to a new all-out war, while a third US aircraft carrier arrives in the region.",
+   "content": "A sudden rise in Iranian attacks on ships in the Strait of Hormuz follows an increasing number of air strikes between the US and Iran, as both sides trade intensifying warning shots, bringing the region closer to a new all-out war. Meanwhile, a third US aircraft carrier has arrived in the region.",
    "published_date": "Mon, 16 Nov 2026 12:42:16 +0100",
    "score": 0.6
   },
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/2026/11/14/moscow-says-it-will-not-dictate-eu-delegations-participation-in-ukraine-talks",
    "content": "Moscow, which had previously insisted that European representatives had no place at the negotiating table, has now softened its stance.",
    "published_date": "Sat, 14 Nov 2026 22:05:23 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 14th, 2026 – Evening",
-   "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-evening",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sat, 14 Nov 2026 18:00:26 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Canada and the Philippines conclude talks on free trade deal, Mark Carney says",
-   "url": "https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says",
-   "content": "\"This is good news for Canadians in the agriculture sector, in the aerospace sector, even in AI, and our businesses working across forest products, mining, energy, services and beyond,\" Carney told reporters.",
-   "published_date": "Sat, 14 Nov 2026 16:09:25 +0100",
    "score": 0.6
   }
  ],
