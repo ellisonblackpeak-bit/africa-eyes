@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Matakai 5 da Tinubu ke son ɗauka don kawo ƙarshen rashin tsaro a shekara biyar",
+   "url": "https://www.bbc.com/hausa/articles/cmqx580nrljjo?at_medium=RSS&at_campaign=rss",
+   "content": "Gwamnatin Shugaba Bola Ahmed Tinubu ta amince da ɗaukar ƙarin sojoji 28,000 da jami'an 'yan sanda 50,000 a wani bangare na sabon shirin da take yi na yaƙi da matsalar tsaro a Najeriya.",
+   "published_date": "Mon, 16 Nov 2026 11:28:32 GMT",
+   "score": 0.6
+  },
+  {
    "title": "'Jiragen ruwa biyu sun tarwatse a mashigar Hormuz'",
    "url": "https://www.bbc.co.uk/hausa/live/cr0qj0wzwyxet?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 16/11/2026",
@@ -55,13 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cw62pm7z7n65o?at_medium=RSS&at_campaign=rss",
    "content": "Wasu gwaje-gwajen da aka gudanar kan ɓeraye sun nuna yadda sinadarin osteopontin da ake samu cikin ƙurajen fata zasu iya zuƙo ƙwayoyin halittar da ke tsiro da gashi",
    "published_date": "Sun, 15 Nov 2026 17:13:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "’Abin da ya sa na zama ɗan fashin daji’",
-   "url": "https://www.bbc.com/hausa/articles/cm5y1weq4nygo?at_medium=RSS&at_campaign=rss",
-   "content": "Yadda ƴan bindiga ke maye gurbin tsoffin cikinsu da fusatattun matasa marassa tausayi masu shan ƙwayoyin maye, waɗanda ke kashe mutanen da aka yi garkuwa da su bayan dangi sun biya kuɗaɗen fansa a arewa maso yammacin Najeriya",
-   "published_date": "Sun, 15 Nov 2026 03:55:07 GMT",
    "score": 0.6
   },
   {
@@ -135,6 +135,13 @@
    "score": 0.6
   },
   {
+   "title": "’Abin da ya sa na zama ɗan fashin daji’",
+   "url": "https://www.bbc.com/hausa/articles/cm5y1weq4nygo?at_medium=RSS&at_campaign=rss",
+   "content": "Yadda ƴan bindiga ke maye gurbin tsoffin cikinsu da fusatattun matasa marassa tausayi masu shan ƙwayoyin maye, waɗanda ke kashe mutanen da aka yi garkuwa da su bayan dangi sun biya kuɗaɗen fansa a arewa maso yammacin Najeriya",
+   "published_date": "Sun, 15 Nov 2026 03:55:07 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Yadda Musulmai ke tayar da ƙura a fagen siyasar Amurka",
    "url": "https://www.bbc.com/hausa/articles/crd61y7n9wd8o?at_medium=RSS&at_campaign=rss",
    "content": "Bayan hare-haren 11 ga Satumban 2001, Musulman Amurka sun fuskanci zargin wariya da shakku a wurare da dama.Sai dai fitowar sabbin shugabannin Musulmai a siyasa na nuna cewa al'ummar Musulmi na samun karɓuwa fiye da yadda lamarin yake a baya, tare da mayar da hankali kan batutuwan da suka shafi rayuwar jama'a .",
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmkgk0zq194po?at_medium=RSS&at_campaign=rss",
    "content": "Dama dai Musulmai suna da masaniya daga nassi daban-daban cewa za a yi tashin duniya ne a ranar Juma'a ne, sai ga shi kuma ranar 13 ta faɗo daidai da wannan rana ta Juma'a, amma dai babu tabbas a kai.",
    "published_date": "Fri, 13 Nov 2026 03:55:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa jam'iyyu masu mulki ke faɗuwa zabe a kasashen duniya?",
-   "url": "https://www.bbc.com/hausa/articles/c84gn926z6z0o?at_medium=RSS&at_campaign=rss",
-   "content": "A 'yan shekarun nan, jam'iyyun da suka daɗe suna mulki sun fuskanci babban ƙalubale daga masu zaɓe. Wasu sun rasa mulki, yayin da wasu kuma suka rasa rinjayensu a majalisun dokoki.",
-   "published_date": "Fri, 13 Nov 2026 03:55:10 GMT",
    "score": 0.6
   }
  ],

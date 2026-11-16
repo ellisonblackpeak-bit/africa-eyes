@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Nigeria Urges UAE To Support $25bn Nigeria-Morocco Gas Pipeline",
-   "url": "https://leadership.ng/nigeria-urges-uae-to-support-25bn-nigeria-morocco-gas-pipeline",
-   "snippet": "The 6,800-km line, led jointly with Morocco’s ONHYM, is designed to carry up to 30 billion cubic metres a year through 13 Atlantic coastal countries. The project cost is put at $25 billion (about AED 91.8 billion). The company said in June that 15 billion cubic meters (bcm) a year would go to Morocco and on to Europe. [...] Ojulari said the project would be built in phases, taking in the existing ",
-   "published": "Mon, 09 Nov 2026 12:49:22 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Nigeria To Inaugurate Governance Office To Improve Nigeria-Morocco Gas Pipeline Implementation",
    "url": "https://leadership.ng/nigeria-to-inaugurate-governance-office-to-improve-nigeria-morocco-gas-pipeline-implementation",
    "snippet": "For NNPC and ONHYM, the next challenge is to turn the project’s institutional and technical progress into firm financial commitments. The pipeline is expected to stretch approximately 6,800 to 6,900 kilometers across 13 African countries, with an annual transport capacity of 30 billion cubic meters of gas. It is designed to serve regional markets and provide access to Europe through a connection t",
@@ -26,7 +19,7 @@
    "title": "Nigeria’s NNPC Says All States Involved Have Signed Off on Africa-Atlantic Gas Pipeline – The North Africa Post",
    "url": "https://northafricapost.com/101467-nigerias-nnpc-says-all-states-involved-have-signed-off-on-africa-atlantic-gas-pipeline.html",
    "snippet": "The project is valued at nearly $25 billion, with a route of about 6,900 kilometers and a capacity of 30 billion cubic meters of natural gas a year. It is meant to serve several West African markets and Morocco, with possible later extension of deliveries to Europe.\n\nFinancial and organizational steps remain: ONHYM’s director general, Amina Benkhadra, previously told Médias24 about creating a proj",
-   "published": "Wed, 11 Nov 2026 10:00:00 GMT",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -34,6 +27,13 @@
    "url": "https://realnewsmagazine.net/2027-nog-energy-week-to-spotlight-nigerias-50bn-offshore-investment-opportunities",
    "snippet": "and the availability of 40 oil and gas blocks under the 2026 licensing round as key developments creating renewed momentum in the sector.\n\nThey also pointed to growing international interest in Nigeria’s energy industry, particularly the proposed $25bn to $26bn Nigeria-Morocco Gas Pipeline, for which the Nigerian National Petroleum Company Limited (NNPCL) is seeking international investment partne",
    "published": "Thu, 12 Nov 2026 09:56:19 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "King Mohammed VI Has Always Prioritized Africa in Morocco’s Foreign Policy – Gov’t Head Says – Medafrica Times",
+   "url": "https://medafricatimes.com/47382-king-mohammed-vi-has-always-prioritized-africa-in-moroccos-foreign-policy-govt-head-says.html",
+   "snippet": "This Royal conviction is reflected in structuring initiatives of unprecedented scale, namely the Atlantic African States Initiative, the Royal Initiative to enable Sahel countries’ access to the Atlantic Ocean, which focuses on opening up this region through modern infrastructure, and the Nigeria-Morocco African-Atlantic Gas Pipeline, which anchors integration, co-development, and stability across",
+   "published": "Sun, 15 Nov 2026 18:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -54,7 +54,14 @@
    "title": "From Guerguerat to New York: How Morocco redrew diplomatic map | Berrak Chadi Abdeslam | AW",
    "url": "https://thearabweekly.com/guerguerat-new-york-how-morocco-redrew-diplomatic-map",
    "snippet": "Through South-South cooperation and flagship infrastructure projects like the Nigeria-Morocco Gas Pipeline and the Atlantic African States Process, Morocco has transformed its southern provinces into a premier continental logistics hub. As King Mohammed VI emphasised during the 48th anniversary of the Green March in November 2023, Rabat’s overarching objective is to transform the Atlantic facade i",
-   "published": "Sat, 14 Nov 2026 10:00:00 GMT",
+   "published": "Fri, 13 Nov 2026 12:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany",
+   "url": "https://www.pv-magazine-india.com/2026/11/16/the-hydrogen-stream-uniper-and-vng-produce-first-green-hydrogen-at-30-mw-facility-in-germany",
+   "snippet": "The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies'",
+   "published": "Mon, 16 Nov 2026 11:00:00 GMT",
    "source": "tavily"
   }
  ],
