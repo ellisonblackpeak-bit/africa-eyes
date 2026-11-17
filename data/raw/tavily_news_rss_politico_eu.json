@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+   "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/",
+   "content": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a \"stupid thing.\"",
+   "published_date": "Tue, 17 Nov 2026 19:53:42 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The 5 Labour groups that matter as Burnham shows his hand on welfare",
+   "url": "https://www.politico.eu/article/5-labour-group-matter-andy-burnham-welfare-social-security/",
+   "content": "The prime minister’s proposals to alter social security will need support across his parliamentary party to succeed.",
+   "published_date": "Tue, 17 Nov 2026 18:04:31 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Uganda in talks to host EU migration hub",
    "url": "https://www.politico.eu/article/uganda-in-talks-to-host-eu-migration-hub/",
    "content": "”The discussion is at a stage of a cup of coffee,” the foreign ministry’s permanent secretary said.",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/rwanda-hit-back-return-hub-criticism/",
    "content": "NGOs say Rwanda's human rights record means deportation hub plans fail EU and international law requirements.",
    "published_date": "Tue, 17 Nov 2026 13:50:47 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU countries postpone vote to lift Brazilian chicken ban",
-   "url": "https://www.politico.eu/article/eu-countries-postpone-vote-to-lift-brazilian-chicken-ban/",
-   "content": "The vote was postponed after it became clear that enough member countries were likely to oppose the agreement, according to three EU diplomats.",
-   "published_date": "Tue, 17 Nov 2026 12:27:43 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Irish regulator stops X training AI with data gathered by agents",
-   "url": "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/",
-   "content": "Regulator says it has significant concerns about the use of personal data that is being collected by AI agents.",
-   "published_date": "Tue, 17 Nov 2026 10:54:01 +0000",
    "score": 0.6
   }
  ],

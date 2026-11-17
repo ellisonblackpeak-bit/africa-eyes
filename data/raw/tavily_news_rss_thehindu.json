@@ -2,45 +2,66 @@
  "success": true,
  "results": [
   {
+   "title": "Earthshot Prize: Climate action needs innovation, global cooperation, say leaders on green carpet in Mumbai",
+   "url": "https://www.thehindu.com/news/national/earthshot-prize-climate-action-needs-innovation-global-cooperation-say-leaders-on-green-carpet-in-mumbai/article71713406.ece",
+   "content": "Maharashtra Environment and Climate Change Minister Pankaja Munde called for global cooperation to protect the planet for future generations",
+   "published_date": "Wed, 18 Nov 2026 01:19:26 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Fearmongering around fake drugs",
+   "url": "https://www.thehindu.com/opinion/op-ed/fearmongering-around-fake-drugs/article71711560.ece",
+   "content": "As per the last National Drug Survey published in 2017, the volume of counterfeit drugs in the Indian market detected in the survey was at a negligible 0.0245%",
+   "published_date": "Wed, 18 Nov 2026 01:08:19 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India needs a comprehensive doctrine on space security",
+   "url": "https://www.thehindu.com/opinion/op-ed/india-needs-a-comprehensive-doctrine-on-space-security/article71713238.ece",
+   "content": "India’s objective should not be to turn outer space into another arena of conflict, but to ensure that disruption in space does not translate into vulnerability on Earth",
+   "published_date": "Wed, 18 Nov 2026 01:02:33 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Transgender rights, healthcare should not be compromised",
+   "url": "https://www.thehindu.com/opinion/lead/transgender-rights-healthcare-should-not-be-compromised/article71713242.ece",
+   "content": "Clinical understanding of the care needs of a transgender person remains rudimentary in India. Doctors, nurses, receptionists, security staff and hospital administrators need to be trained in basic transgender health.",
+   "published_date": "Wed, 18 Nov 2026 01:00:41 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "IIT-Madras to train teachers in AI literacy across India",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-to-train-teachers-in-ai-literacy-across-india/article71712926.ece",
+   "content": "",
+   "published_date": "Wed, 18 Nov 2026 00:51:42 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Top Indian paddlers write to adhoc panel suggesting a slew of changes",
+   "url": "https://www.thehindu.com/sport/top-indian-paddlers-write-to-adhoc-panel-suggesting-a-slew-of-changes/article71713422.ece",
+   "content": "",
+   "published_date": "Wed, 18 Nov 2026 00:20:44 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "All-too fallible: On India’s vote against moratorium on death penalty",
+   "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece",
+   "content": "Death penalty requires a near-infallible criminal justice system",
+   "published_date": "Tue, 17 Nov 2026 23:56:51 +0530",
+   "score": 0.6
+  },
+  {
    "title": "DRI searches Cipla’s Mumbai office and Bhiwandi depot over imported drug classification",
    "url": "https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece",
    "content": "The pharmaceutical company said it cooperated with authorities and that the search would have no material impact on its financials or operations",
-   "published_date": "Tue, 17 Nov 2026 23:26:26 +0530",
+   "published_date": "Tue, 17 Nov 2026 23:40:31 +0530",
    "score": 0.6
   },
   {
    "title": "Reliance plans $1.6 billion investment in 100 compressed biogas plants by 2030",
    "url": "https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece",
    "content": "The company aims to produce five million cubic metres of biogas daily using agricultural residue, as India seeks to increase gas’s share in its energy mix",
-   "published_date": "Tue, 17 Nov 2026 23:17:11 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "India vs New Zealand Test series: India faces test of character as WTC hopes hang in balance",
-   "url": "https://www.thehindu.com/videos/india-vs-new-zealand-test-series-india-faces-test-of-character-as-wtc-hopes-hang-in-balance/article71713266.ece",
-   "content": "Live from a windy Basin Reserve in Wellington, The Hindu and Sportstar preview the crucial India vs New Zealand Test series. With India’s World Test Championship (WTC) final hopes hanging in the balance—requiring at least six wins from their remaining seven Tests—captain Shubman Gill and head coach Gautam Gambhir face a major selection dilemma on a lush green pitch. In this on-ground report, The Hindu’s Amol Karhadkar break down India’s strategy.",
-   "published_date": "Tue, 17 Nov 2026 23:17:02 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "‘Record horticultural production’ shows increase of 4.36% from 2024-25: Agriculture Ministry",
-   "url": "https://www.thehindu.com/news/national/record-horticultural-production-shows-increase-of-436-from-2024-25-agriculture-ministry/article71712523.ece",
-   "content": "Significant increase in horticultural production reflects the hard work of India’s farmers and the impact of the Centre’s farmer-friendly policies, Agriculture Minister Shivraj Singh Chouhan says",
-   "published_date": "Tue, 17 Nov 2026 22:49:49 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "IPL 2027 retention highlights: Dhoni retires, teams announce lists of released and retained players as deadline ends",
-   "url": "https://www.thehindu.com/sport/cricket/ipl-2027-retention-live-updates-team-wise-full-list-of-retained-released-players-mi-csk-rcb-kkr-dc-pbks-srh-rr-gt-lsg/article71711351.ece",
-   "content": "Four trades involving 10 players across six franchises have been confirmed ahead of the IPL 2027 retention deadline, with Mumbai Indians’ Hardik Pandya moving to Punjab Kings and Rishabh Pant returning to Delhi Capitals",
-   "published_date": "Tue, 17 Nov 2026 22:48:31 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "INS Sahyadri participates in India-Japan naval exercise JAIMEX 2026",
-   "url": "https://www.thehindu.com/news/national/ins-sahyadri-participates-in-india-japan-naval-exercise-jaimex-2026/article71712622.ece",
-   "content": "According to the Indian Navy, during the exercise, INS Sahyadri operated alongside JMSDF ship JS Ise, undertaking a series of coordinated maritime engagements, including tactical manoeuvres, communication drills, and cross-deck landings",
-   "published_date": "Tue, 17 Nov 2026 22:47:59 +0530",
+   "published_date": "Tue, 17 Nov 2026 23:38:09 +0530",
    "score": 0.6
   }
  ],

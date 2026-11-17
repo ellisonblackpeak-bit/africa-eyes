@@ -2,10 +2,59 @@
  "success": true,
  "results": [
   {
+   "title": "Huawei 5G Ban: Germany's 2026 Deadline and the EU's Plan",
+   "url": "https://www.technology.org/2026/11/12/huawei-germany-5g-core-deadline-eu-cybersecurity-act",
+   "snippet": "On 31 December 2026, a rule that once looked like Germany’s toughest move against Huawei takes effect. Under public-law contracts with Deutsche Telekom, Vodafone and Telefónica, all critical components from Huawei and ZTE must be gone from the country’s 5G core networks by the end of this year, the German interior ministry announced when the deal was signed in July 2024. Critical functions of Huaw",
+   "published": "Thu, 12 Nov 2026 10:01:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China conveys serious concerns to Europe over curbs on telecom equipment - Chinadaily.com.cn",
+   "url": "https://global.chinadaily.com.cn/a/202611/12/WS6af579e1e4b03ebf8519c0d4.html",
+   "snippet": "His comments came as Germany announced plans to classify 5G base stations as critical network components, potentially paving the way for bans on Chinese equipment, according to German business daily Handelsblatt.\n\nPortugal, meanwhile, has renewed restrictions on \"high-risk\" 5G suppliers following a new security review, maintaining measures that effectively exclude Chinese telecom giant Huawei, Por",
+   "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Deutsche Telekom pushes back on Huawei ban in Europe",
+   "url": "https://www.facebook.com/Wirefly/posts/deutsche-telekom-the-german-company-that-owns-a-majority-stake-in-t-mobile-is-pu/1546842080810324",
+   "snippet": "Deutsche Telekom, the largest telecommunication company in Europe, announced to suspend all 5G network equipment purchasing deals.",
+   "published": "",
+   "source": "tavily"
+  },
+  {
    "title": "T-Mobile's parent company may have to fight for its right to party with Huawei - PhoneArena",
    "url": "https://www.phonearena.com/news/t-mobile-parent-company-may-have-to-fight-for-its-right-to-party-with-huawei_id184755",
    "snippet": "While EU officials have previously advised telcos to avoid partnering with \"high-risk vendors\" (a.k.a. Huawei) for their 5G networks, things are changing fast. The EU might update its CSA (Cybersecurity Act) in a way that makes avoiding Huawei hardware and software altogether (not just from a network's core) a mandatory requirement. [...] Now, Höttges has something to say about Huawei, the least f",
    "published": "Thu, 12 Nov 2026 10:50:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China tried to punish EU nations for Huawei bans – report",
+   "url": "https://www.lightreading.com/business-management/china-tried-to-punish-eu-nations-for-huawei-bans-report",
+   "snippet": "But Chinese officials inserted a footnote that would have denied these benefits to any country had banned or limited Huawei. This would include EU members such as Spain, Poland, Italy, the Czech Republic and France.\n\nThe Post said the insertion appeared in a draft dated December 11, just over two weeks before the pact was finalized. But the wording was struck out by EU negotiators, indicating it d",
+   "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Deutsche Telekom CEO to resist push for tougher Huawei restrictions",
+   "url": "https://www.communicationstoday.co.in/deutsche-telekom-ceo-to-resist-push-for-tougher-huawei-restrictions",
+   "snippet": "Chief Executive Timotheus Höttges would resist European and German efforts to impose tougher restrictions on Huawei equipment in mobile networks.",
+   "published": "Wed, 11 Nov 2026 20:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "China has raised serious... - Chinese Embassy in Luxembourg",
+   "url": "https://www.facebook.com/ChinaEmbLuxembourg/posts/china-has-raised-serious-concerns-with-certain-european-union-member-states-over/1472855854985543",
+   "snippet": "Log In\n\n## Chinese Embassy in Luxembourg's Post\n\n  \n\n[](\n\n### Chinese Embassy in Luxembourg\n\na day ago\n\nFriday, November 13, 2026 at 5:04 AM\n\n1d · \n\nChina has raised serious concerns with certain European Union member states over moves to ban telecom equipment supplied by Chinese companies, urging them to uphold \"technological neutrality\", the Ministry of Commerce said on Nov 12. [...] \"We firmly ",
+   "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "China conveys serious concerns to Europe over curbs on telecom ...",
+   "url": "http://www.langesteel.com/news_xq.aspx?Newsid=27618",
+   "snippet": "China has raised serious concerns with certain European Union member states over moves to ban telecom equipment supplied by Chinese companies, urging them",
+   "published": "Thu, 12 Nov 2026 20:00:00 GMT",
    "source": "tavily"
   },
   {
