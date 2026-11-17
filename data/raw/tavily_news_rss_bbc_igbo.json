@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Simon Ekpa o sila n'ụlọmkpọrọ mba Finland pụta?",
+   "title": "A tọhapụla Simon Ekpa n'ụlọmkpọrọ mba Finland mana ikpe ya ebibeghi kpamkpam",
    "url": "https://www.bbc.com/igbo/articles/cmx20pv9npdeo?at_medium=RSS&at_campaign=rss",
-   "content": "Ihe onyonyo na-efegharị na soshal midia na-egosi ebe ndị otu Simon Ekpa na-anabata ya mgbe ha si na o si n'ụlọmkpọrọ pụta mana BBC achọpụtabeghi ma ọ bụ eziokwu.",
-   "published_date": "Tue, 17 Nov 2026 09:42:52 GMT",
+   "content": "Ihe onyonyo na-efegharị na soshal midia gosiri ebe ndị otu Simon Ekpa na-anabata ya mgbe o si n'ụlọmkpọrọ pụta.",
+   "published_date": "Tue, 17 Nov 2026 12:45:58 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ụzọ ole ma ole mba America na-akwado Nigeria ịdị njikere maka ntuliaka 2027",
+   "url": "https://www.bbc.com/igbo/articles/cr3wge03jw92o?at_medium=RSS&at_campaign=rss",
+   "content": "Akụkọ etu mba America si enyere Nigeria ebuso ndị omekome na ndị na-eyi ọha egwu agha dịka Mịnịsta chekwaa bụ Christopher Musa si kwuo.",
+   "published_date": "Tue, 17 Nov 2026 12:51:51 GMT",
    "score": 0.6
   },
   {
@@ -30,17 +37,10 @@
    "score": 0.6
   },
   {
-   "title": "Robert Pattinson abụrụla James Bond ọhụrụ",
-   "url": "https://www.bbc.com/igbo/articles/ck0jx142d424o?at_medium=RSS&at_campaign=rss",
-   "content": "Robert Pattinson abụrụla James Bond ọhurụ.",
-   "published_date": "Mon, 16 Nov 2026 15:37:31 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Akụkọ dị Mkpa - Nọvemba 16, 2026",
+   "title": "Akụkọ dị Mkpa - Nọvemba 17, 2026",
    "url": "https://www.bbc.com/igbo/articles/c5yk0k4y23qo?at_medium=RSS&at_campaign=rss",
    "content": "Akụkọ ndị kachasị mkpa n'ụwa taa bụ Monde, Nọvemba 16, 2026.",
-   "published_date": "Mon, 16 Nov 2026 13:37:50 GMT",
+   "published_date": "Tue, 17 Nov 2026 13:18:47 GMT",
    "score": 0.6
   },
   {
@@ -48,6 +48,13 @@
    "url": "https://www.bbc.com/igbo/articles/cmwy4peqvz2vo?at_medium=RSS&at_campaign=rss",
    "content": "Akụkọ banyere 'Grammy Award' bụ nnukwu nkwanye ugwu a na-enye ndị otiegwu n'ụwa niile.",
    "published_date": "Mon, 16 Nov 2026 16:25:53 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Robert Pattinson abụrụla James Bond ọhụrụ",
+   "url": "https://www.bbc.com/igbo/articles/ck0jx142d424o?at_medium=RSS&at_campaign=rss",
+   "content": "Robert Pattinson abụrụla James Bond ọhurụ.",
+   "published_date": "Mon, 16 Nov 2026 15:37:31 GMT",
    "score": 0.6
   },
   {

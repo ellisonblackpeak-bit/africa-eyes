@@ -2,13 +2,14 @@
  "success": true,
  "results": [],
  "engine": "gdelt",
- "_tag": "regional",
- "_query": "Sahel OR ECOWAS OR JNIM OR ISWAP",
+ "_tag": "ml",
+ "_query": "Mali OR Bamako OR jihadist OR orpaillage",
  "_domains": [
+  "malijet.com",
+  "maliweb.net",
   "reuters.com",
   "africanews.com",
-  "allafrica.com",
-  "bbc.com"
+  "allafrica.com"
  ],
  "_days": 3
 }

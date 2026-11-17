@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Only 10 years in, China’s chip duo CXMT and YMTC close in on Korea’s Samsung and SK Hynix",
+   "url": "https://www.hani.co.kr/arti/english_edition/e_international/1287738.html",
+   "snippet": "CXMT’s revenue for the third quarter of this year came to 118.7 billion yuan, up 613% from the same period last year. After making its debut on Shanghai’s STAR market in July, the company raised approximately 58 billion yuan, enabling it to take a more aggressive approach when expanding production and investing in research and development.\n\nUnderpinning this growth are long-term investment from th",
+   "published": "Tue, 17 Nov 2026 06:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Asia-Pacific Community: China-South Korea partnership fuels regional cooperation amid APEC hosting relay - BELT AND ROAD PORTAL",
+   "url": "https://eng.yidaiyilu.gov.cn/p/0O28UR4P.html",
+   "snippet": "Kang Ho-gu, director of the Sino-Korea Economy/Society Institute, pointed to discussions between Samsung Electronics and Chinese companies on autonomous driving chips as an example of how businesses can compete in some areas while finding common ground in others. \"Competition within the same industries is increasingly going hand in hand with cooperation across the supply chain.\" [...] Ro Jae Hun, ",
+   "published": "Mon, 16 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Mainland Chinese overseas funds find winners in oil, US stocks as Hong Kong bets struggle | South China Morning Post",
    "url": "https://www.scmp.com/business/china-business/article/3373949/mainland-chinese-overseas-funds-find-winners-oil-us-stocks-hong-kong-bets-struggle",
    "snippet": "Mainland Chinese QDII funds targeting stocks in the US, South Korea and Japan also ranked among the best performers, highlighting gains across the three markets supported by strong economic growth and the boom in artificial intelligence infrastructure buildouts. Benchmark stock indices in the three countries have risen at least 10 per cent this year. [...] Advertisement\n\nChina stock market\n\nBusine",
@@ -23,20 +37,6 @@
    "source": "tavily"
   },
   {
-   "title": "US AI chip curbs threaten Southeast Asia data centre boom, shares slump | The Mighty 790 KFGO | KFGO",
-   "url": "https://kfgo.com/2026/11/16/us-ai-chip-curbs-threaten-southeast-asia-data-centre-boom-shares-tumble",
-   "snippet": "The selloff spread to data centre material suppliers and printed circuit board, thermal-management and energy stocks across China, South Korea, Japan and Taiwan. Japan’s Mitsui Kinzoku and Furukawa Electric, Taiwan’s Delta Electronics, Asia Vital Components and Auras Technology all dropped more than 5%. [...] Chinese technology stocks also fell, with Alibaba ​shedding 5% and Tencent losing 3%. How",
-   "published": "Tue, 17 Nov 2026 06:42:44 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "[KBR Forum] China's drug development surge puts pressure on Korea to speed up clinical trials, approvals",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33881",
-   "snippet": "China's rapid rise in global drug development is challenging Korea's position as a clinical trial destination, prompting calls for faster regulatory reviews",
-   "published": "Tue, 17 Nov 2026 08:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Trump Heads to the ASEAN and APEC Summits With Big Plans and Slim Prospects | Council on Foreign Relations",
    "url": "https://www.cfr.org/articles/trump-heads-to-the-asean-and-apec-summits-with-big-plans-and-slim-prospects",
    "snippet": "Japan and South Korea, disappointed by the first two years of the Trump administration and watching the congressional change, could also use the meetings to publicly or privately walk back promises made to invest in the United States, such as a possible South Korean investment in a gas deal in Alaska. Such a move would only add to Trump’s potential woes on his return flight home. [...] The White H",
@@ -44,10 +44,17 @@
    "source": "tavily"
   },
   {
-   "title": "Proposed Outbound Investment Rule Bans Biotech and Chinese AI | Proskauer - Regulatory & Compliance - JDSupra",
-   "url": "https://www.jdsupra.com/legalnews/proposed-outbound-investment-rule-bans-3830087",
-   "snippet": "That means any Chinese company that builds its own model or builds agentic or other layers that extend a third-party model would be off-limits. Whether simply incorporating a third-party model into a commercial product constitutes “development” is unresolved. Notably, Treasury’s first penalty under the existing program involved an unnotified investment by a U.S. company’s foreign fund in a Chinese",
-   "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+   "title": "The Nvidia scandal fuels tougher China chip rules as Commerce targets Singapore and Malaysia | Fortune",
+   "url": "https://fortune.com/2026/11/16/new-commerce-rule-nvidia-chip-singapore-malaysia-china",
+   "snippet": "Stopping Chinese companies from accessing chips in overseas data centers could be a problem for countries like Malaysia, which want to become data center hubs. “For Malaysia, the controls could be disastrous,” Kurlantzick said. “From what Prime Minister Anwar Ibrahim sees, their biggest potential future industry is a data center and AI hub for Chinese companies.” [...] On Monday morning, the U.S. ",
+   "published": "Mon, 16 Nov 2026 16:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-16/copper-sinks-to-four-month-low-on-tech-rout-china-growth-woes",
+   "snippet": "Commodities\n\n# Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes\n\nCopper fell for a third day to the lowest in more than four months as a selloff in technology shares and weaker Chinese economic data darkened the demand outlook and sapped appetite for risk. [...] Futures on the London Metal Exchange dropped as much as 1.4% to the lowest level since July 8, extending a decline of five ",
+   "published": "Mon, 16 Nov 2026 03:55:11 GMT",
    "source": "tavily"
   }
  ],

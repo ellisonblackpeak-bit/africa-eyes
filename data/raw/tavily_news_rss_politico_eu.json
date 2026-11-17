@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Polish far-right lawmaker Braun charged over hospital ‘citizen’s arrest’",
+   "url": "https://www.politico.eu/article/poland-grzegorz-braun-charged-over-hospital-citizens-arrest/",
+   "content": "Grzegorz Braun faces up to five years in prison for allegedly detaining a doctor who had performed an abortion.",
+   "published_date": "Tue, 17 Nov 2026 14:10:09 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Zelenskyy gives details on Ukraine’s Crimea bridge operation",
+   "url": "https://www.politico.eu/article/zelenskyy-gives-details-on-ukraine-crimea-bridge-operation/",
+   "content": "The Ukrainian president gave details of a weeks-long operation aimed at crippling a crucial Russian transport route that also has symbolic meaning for Vladimir Putin.",
+   "published_date": "Tue, 17 Nov 2026 13:52:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Rwanda hits back at asylum-seeker return hub criticism",
+   "url": "https://www.politico.eu/article/rwanda-hit-back-return-hub-criticism/",
+   "content": "NGOs say Rwanda's human rights record means deportation hub plans fail EU and international law requirements.",
+   "published_date": "Tue, 17 Nov 2026 13:50:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU countries postpone vote to lift Brazilian chicken ban",
+   "url": "https://www.politico.eu/article/eu-countries-postpone-vote-to-lift-brazilian-chicken-ban/",
+   "content": "The vote was postponed after it became clear that enough member countries were likely to oppose the agreement, according to three EU diplomats.",
+   "published_date": "Tue, 17 Nov 2026 12:27:43 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Irish regulator stops X training AI with data gathered by agents",
+   "url": "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/",
+   "content": "Regulator says it has significant concerns about the use of personal data that is being collected by AI agents.",
+   "published_date": "Tue, 17 Nov 2026 10:54:01 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Worsening public finances overshadow EU growth",
    "url": "https://www.politico.eu/article/public-finances-eu-growth-eurozone-debt/",
    "content": "Eurozone debt will rise from 89.6% of economic output this year to 91.3% in 2028.",
@@ -34,41 +69,6 @@
    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/will-burnhams-welfare-bazooka-hit-the-target/",
    "content": "Presented by TikTok",
    "published_date": "Tue, 17 Nov 2026 08:34:15 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Will the EU’s next Russia sanctions bite?",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/",
-   "content": "Europe’s sports rulebook is getting an update. EU Sports Commissioner Glenn Micallef joins us to discuss illegal sports streaming, the future of FIFA President Gianni Infantino and the controversy over Russian athletes returning to international competitions. Also on the podcast: Zoya and Ian discuss the EU’s upcoming 22nd round of sanctions against Russia and growing […]",
-   "published_date": "Tue, 17 Nov 2026 05:05:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Das Verhandlungsfinale um Strom und Sprit",
-   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-verhandlungsfinale-um-strom-und-sprit/",
-   "content": "Kommt die Einigung zur Stromsteuer.Vor dem Koalitionsausschuss zeigt sich Friedrich Merz optimistisch, doch die SPD pocht auf eine harte Gegenfinanzierung. Während der Kanzler in Rücklagen greifen will, stehen Subventionen wie das Dienstwagenprivileg auf der Kippe.Ein Kampf um Milliarden, der auch die Rente erfassen könnte, wie Maximilian Stascheit und Rasmus Buchsteiner diskutieren. Im 200-Sekunden-Interview macht Philipp […]",
-   "published_date": "Tue, 17 Nov 2026 04:30:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "What the EU can learn from Mark Carney on digital sovereignty",
-   "url": "https://www.politico.eu/sponsored-content/what-the-eu-can-learn-from-mark-carney-on-digital-sovereignty/",
-   "content": "Building autonomy does not mean countries need to isolate.",
-   "published_date": "Tue, 17 Nov 2026 04:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "5 takeaways from POLITICO’s interview with Spanish election favorite Feijóo",
-   "url": "https://www.politico.eu/article/5-takeaways-from-interview-with-spanish-election-favorite-alberto-nunez-feijoo/",
-   "content": "The conservative leader discussed Trump, Morocco, Spain’s public finances and the relationship with the far right.",
-   "published_date": "Tue, 17 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "More than cash: EU defense spending push is ‘game-changer’ for industry, says arms boss",
-   "url": "https://www.politico.eu/article/finnish-arms-company-patria-boss-keen-on-eu-defense-spending-push/",
-   "content": "Panu Routila says the bloc's next seven-year budget would give the defense industry more planning and investment stability.",
-   "published_date": "Tue, 17 Nov 2026 03:00:00 +0000",
    "score": 0.6
   }
  ],
