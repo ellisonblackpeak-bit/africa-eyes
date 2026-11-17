@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Matsaloli huɗu da zaɓen Najeriya ya fara fuskanta gabanin 2027",
+   "url": "https://www.bbc.com/hausa/articles/cmj4r987xj5qo?at_medium=RSS&at_campaign=rss",
+   "content": "Duk da cewa akwai sauran lokaci kafin gudanar da babban zaɓen, muhawarar siyasa da yadda jam'iyyu ke yaƙin neman zaɓe gami da matsalolin tsaro da ƙalubalen tattalin arziki sun fara nuna yanayin siyasar ƙasar.",
+   "published_date": "Tue, 17 Nov 2026 03:59:24 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Manchester United na son Hall, Zubimendi zai iya barin Arsenal",
+   "url": "https://www.bbc.com/hausa/articles/cqj6lzwrx44po?at_medium=RSS&at_campaign=rss",
+   "content": "Manchester United na iya fuskantar kalubale wajen daukar mai tsaron bayan Newcastle, Lewis Hall, yayin da ɗan wasan Arsenal, Martin Zubimendi, ke nazarin kan makomarsa, sannan Chelsea na shirin ɗaukar 'yan wasan Barcelona biyu a lokaci guda.",
+   "published_date": "Tue, 17 Nov 2026 03:58:43 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda auren wuri, talauci, da rashin tsaro ke hana miliyoyin yara zuwa makaranta a arewacin Najeriya",
+   "url": "https://www.bbc.com/hausa/articles/c5y4j7r0r8d2o?at_medium=RSS&at_campaign=rss",
+   "content": "BBC ta ƙaddamar da fara gabatar da shirinsu na yaran da basa zuwa makaranta a Africa ta yamma, a sashen hausa na BBC",
+   "published_date": "Tue, 17 Nov 2026 03:54:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda Iran ta gina babban rumbun makaman linzami a ƙarƙashin ƙasa",
+   "url": "https://www.bbc.com/hausa/articles/cw5y1xk4jreeo?at_medium=RSS&at_campaign=rss",
+   "content": "Rundunar juyin juya halin Iran, IRGC ta fitar da wasu hotuna a ranar 9 ga Nuwamba, inda ta ce na wani sabon wurin ajiyar makamai masu linzami da ke ƙarƙashin ƙasa mallakin rundunar.",
+   "published_date": "Tue, 17 Nov 2026 03:55:27 GMT",
+   "score": 0.6
+  },
+  {
    "title": "'Jiragen ruwa biyu sun tarwatse a mashigar Hormuz'",
    "url": "https://www.bbc.co.uk/hausa/live/cr0qj0wzwyxet?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 16/11/2026",
@@ -34,34 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cw8r7j535nm4o?at_medium=RSS&at_campaign=rss",
    "content": "An baya an samu rahotonnin saɓani tsakanin manyan jiga-jigan siyasar biyu, lamarin da ya kai ga kama manyan jami'an tsaron lafiyar gwamnan.",
    "published_date": "Mon, 16 Nov 2026 09:14:42 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda INEC za ta gudanar da zaɓen shugaban Najeriya na gwaji gabanin 2027",
-   "url": "https://www.bbc.com/hausa/articles/cqy7r8jvn42yo?at_medium=RSS&at_campaign=rss",
-   "content": "Hukumar INEC na shirin gudanar da zaɓen gwajin ne a ranar 28 ga watan Nuwamban 2026, amma mutane da dama na tambayar yadda za a gudanar da irin wannan zaɓe.",
-   "published_date": "Mon, 16 Nov 2026 03:50:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa mata suka fi maza iya juya jari?",
-   "url": "https://www.bbc.com/hausa/articles/c3qj5r94l51do?at_medium=RSS&at_campaign=rss",
-   "content": "Wani sabon bincike ya nuna cewa matan da ke zuba jarinsu a harkokin kasuwanci na samun riba fiye da yadda maza ke samu.",
-   "published_date": "Mon, 16 Nov 2026 03:49:17 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Duniya ta samu sabon wata a sararin samaniya",
-   "url": "https://www.bbc.com/hausa/articles/cmrrg5l8qzqdo?at_medium=RSS&at_campaign=rss",
-   "content": "An gano ƙaramin wata mai lamba 2026 QQ8 a watan Agusta, amma ba shine kaɗai abokiyar samaniya ta wucin gadi da Duniya ta taɓa samu ba.",
-   "published_date": "Mon, 16 Nov 2026 03:51:53 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "An ceto mutum 19 a hannun ƴanbindiga a Zamfara",
-   "url": "https://www.bbc.co.uk/hausa/live/cmvg2k3r347et?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 15/11/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -104,6 +104,34 @@
    "url": "https://www.bbc.com/hausa/articles/cw4gnrdvjyxlo?at_medium=RSS&at_campaign=rss",
    "content": "Manchester United na ci gaba da fuskantar kalubale tun bayan ritayar Sir Alex Ferguson. Ga rahoton da Mohammed Abdu ya hada kan matsaloli biyar da suka jawo koma baya a kungiyar da jerin kociyoyin da aka sallama da abin da ke gaban Mauricio Pochettino a Old Trafford.",
    "published_date": "Sat, 14 Nov 2026 12:23:04 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda INEC za ta gudanar da zaɓen shugaban Najeriya na gwaji gabanin 2027",
+   "url": "https://www.bbc.com/hausa/articles/cqy7r8jvn42yo?at_medium=RSS&at_campaign=rss",
+   "content": "Hukumar INEC na shirin gudanar da zaɓen gwajin ne a ranar 28 ga watan Nuwamban 2026, amma mutane da dama na tambayar yadda za a gudanar da irin wannan zaɓe.",
+   "published_date": "Mon, 16 Nov 2026 03:50:47 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa mata suka fi maza iya juya jari?",
+   "url": "https://www.bbc.com/hausa/articles/c3qj5r94l51do?at_medium=RSS&at_campaign=rss",
+   "content": "Wani sabon bincike ya nuna cewa matan da ke zuba jarinsu a harkokin kasuwanci na samun riba fiye da yadda maza ke samu.",
+   "published_date": "Mon, 16 Nov 2026 03:49:17 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Duniya ta samu sabon wata a sararin samaniya",
+   "url": "https://www.bbc.com/hausa/articles/cmrrg5l8qzqdo?at_medium=RSS&at_campaign=rss",
+   "content": "An gano ƙaramin wata mai lamba 2026 QQ8 a watan Agusta, amma ba shine kaɗai abokiyar samaniya ta wucin gadi da Duniya ta taɓa samu ba.",
+   "published_date": "Mon, 16 Nov 2026 03:51:53 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "An ceto mutum 19 a hannun ƴanbindiga a Zamfara",
+   "url": "https://www.bbc.co.uk/hausa/live/cmvg2k3r347et?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 15/11/2026",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cwnv4y71ql0no?at_medium=RSS&at_campaign=rss",
    "content": "Mutumin da a baya yake tattaunawa da su kan fake da cewa shi budurwa ce da ke bayyana kansa a matsayin ɗan'uwan yarinyar, sannan ya fara neman kuɗi a wurinsu.",
    "published_date": "Sat, 14 Nov 2026 03:55:26 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abin da addinai suka ce kan ranar tashin duniya",
-   "url": "https://www.bbc.com/hausa/articles/cmkgk0zq194po?at_medium=RSS&at_campaign=rss",
-   "content": "Dama dai Musulmai suna da masaniya daga nassi daban-daban cewa za a yi tashin duniya ne a ranar Juma'a ne, sai ga shi kuma ranar 13 ta faɗo daidai da wannan rana ta Juma'a, amma dai babu tabbas a kai.",
-   "published_date": "Fri, 13 Nov 2026 03:55:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa jam'iyyu masu mulki ke faɗuwa zabe a kasashen duniya?",
-   "url": "https://www.bbc.com/hausa/articles/c84gn926z6z0o?at_medium=RSS&at_campaign=rss",
-   "content": "A 'yan shekarun nan, jam'iyyun da suka daɗe suna mulki sun fuskanci babban ƙalubale daga masu zaɓe. Wasu sun rasa mulki, yayin da wasu kuma suka rasa rinjayensu a majalisun dokoki.",
-   "published_date": "Fri, 13 Nov 2026 03:55:10 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me kalaman shugaban INEC ke nufi kan takarar Atiku a 2027?",
-   "url": "https://www.bbc.com/hausa/articles/c6742902r7pro?at_medium=RSS&at_campaign=rss",
-   "content": "Da yake jawabi a cibiyar Chatham House da ke birnin Landan a ranar Alhamis, Amupitan ya amsa wasu tambayoyi da aka yi masa kan takarar Atiku a 2027 la'akari da hukuncin babbar kotun tarayya na makon da ya gabata.",
-   "published_date": "Fri, 13 Nov 2026 11:41:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "An ji ƙarar harbe-harbe a kusa da fadar White House",
-   "url": "https://www.bbc.co.uk/hausa/live/c6vg23y4wr94t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Alhamis 12/11/2026",
-   "published_date": "",
    "score": 0.6
   }
  ],
