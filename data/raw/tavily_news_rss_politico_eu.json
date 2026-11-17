@@ -2,9 +2,30 @@
  "success": true,
  "results": [
   {
-   "title": "Russia hits 2 major Kyiv bridges in overnight strikes",
+   "title": "Worsening public finances overshadow EU growth",
+   "url": "https://www.politico.eu/article/public-finances-eu-growth-eurozone-debt/",
+   "content": "Eurozone debt will rise from 89.6% of economic output this year to 91.3% in 2028.",
+   "published_date": "Tue, 17 Nov 2026 10:48:30 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Germany poised to nominate Brunnermeier as ECB chief economist",
+   "url": "https://www.politico.eu/article/germany-set-to-nominate-markus-brunnermeier-ecb-chief-economist/",
+   "content": "The chief economist’s position is one of three top jobs that European governments are aiming to fill by year-end.",
+   "published_date": "Tue, 17 Nov 2026 10:15:28 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Les Européens comptent sur la Chine pour garder les négociations climatiques sur la bonne voie",
+   "url": "https://www.politico.eu/article/les-europeens-comptent-sur-la-chine-pour-garder-les-negociations-climatiques-sur-la-bonne-voie/",
+   "content": "Des diplomates européens considèrent que le pays pourrait jouer un rôle clé pour sortir du blocage autour du Giec, bras armé scientifique des négociations.",
+   "published_date": "Tue, 17 Nov 2026 09:09:50 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine strikes Crimean bridge in ‘unprecedented operation,’ Zelenskyy says",
    "url": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/",
-   "content": "The attacks came as Ukraine carried out further strikes on a key bridge in Crimea.",
+   "content": "Kyiv says the attack on Russia’s key supply route to occupied Crimea was retaliation for Moscow’s strikes on Ukrainian infrastructure.",
    "published_date": "Tue, 17 Nov 2026 08:51:35 +0000",
    "score": 0.6
   },
@@ -37,9 +58,9 @@
    "score": 0.6
   },
   {
-   "title": "5 takeaways from interview with Spanish election favorite Feijóo",
+   "title": "5 takeaways from POLITICO’s interview with Spanish election favorite Feijóo",
    "url": "https://www.politico.eu/article/5-takeaways-from-interview-with-spanish-election-favorite-alberto-nunez-feijoo/",
-   "content": "The conservative leader discussed Trump, Morocco, Spain’s public finances and the relationship with far right",
+   "content": "The conservative leader discussed Trump, Morocco, Spain’s public finances and the relationship with the far right.",
    "published_date": "Tue, 17 Nov 2026 03:00:00 +0000",
    "score": 0.6
   },
@@ -48,27 +69,6 @@
    "url": "https://www.politico.eu/article/finnish-arms-company-patria-boss-keen-on-eu-defense-spending-push/",
    "content": "Panu Routila says the bloc's next seven-year budget would give the defense industry more planning and investment stability.",
    "published_date": "Tue, 17 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "I took the EU selection test. Here’s how it went.",
-   "url": "https://www.politico.eu/article/epso-eu-institutions-entrance-test-process/",
-   "content": "With 175,000 applicants and just 1,490 jobs, the competition to clinch a dream job in the EU has never been tougher.",
-   "published_date": "Tue, 17 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU’s Kallas fights to find a role in Ukraine peace talks",
-   "url": "https://www.politico.eu/article/eu-kaja-kallas-fights-to-find-a-role-in-ukraine-peace-talks/",
-   "content": "Bloc's top diplomat said foreign ministers want a more direct role in Ukraine peace talks after leaders selected a team of national security advisers for the job.",
-   "published_date": "Tue, 17 Nov 2026 03:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "French presidential rivals take aim at Le Pen in debate",
-   "url": "https://www.politico.eu/article/france-election-2027-presidential-candidates-target-marine-le-pen-tv-debate/",
-   "content": "The far-right leader and four other candidates were quizzed on cost-of-living issues.",
-   "published_date": "Mon, 16 Nov 2026 23:27:47 +0000",
    "score": 0.6
   }
  ],
