@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Uganda in talks to host EU migration hub",
+   "url": "https://www.politico.eu/article/uganda-in-talks-to-host-eu-migration-hub/",
+   "content": "”The discussion is at a stage of a cup of coffee,” the foreign ministry’s permanent secretary said.",
+   "published_date": "Tue, 17 Nov 2026 17:32:50 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Russia’s Lavrov says French troops in Ukraine amount to ‘direct participation’ in war",
+   "url": "https://www.politico.eu/article/sergey-lavrov-france-soldiers-ukraine-direct-participation-war-russia/",
+   "content": "The Kremlin's foreign minister seized on a French media report to warn Europe against deploying troops to Ukraine.",
+   "published_date": "Tue, 17 Nov 2026 17:22:15 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Brussels signals unwillingness to be Burnham’s EU sounding board",
+   "url": "https://www.politico.eu/article/brussels-andy-burnham-eu-options-brexit-reset/",
+   "content": "The British prime minister wants to gauge what's possible with the bloc before laying out options to voters back home. EU diplomats say it may not be so straightforward.",
+   "published_date": "Tue, 17 Nov 2026 17:05:05 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Le Pen defends retirement reform plan as opponents mock her economic credibility",
+   "url": "https://www.politico.eu/article/marine-le-pen-defends-retirement-reform-plan-as-opponents-mock-her-economic-credibility/",
+   "content": "The far-right leader says her plan to lower the retirement age would be offset by savings and employer-funded pension schemes.",
+   "published_date": "Tue, 17 Nov 2026 16:34:43 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Jusqu’où peut aller David Lisnard ?",
+   "url": "https://www.politico.eu/podcast/playbook-paris-podcast/jusquou-peut-aller-david-lisnard/",
+   "content": "Tutoyant désormais la barre des 10% dans les dernières intentions de vote pour la présidentielle, le maire de Cannes prend de vitesse ses concurrents. En quoi cette percée rebat-elle les cartes à droite et au centre ? Le fondateur de Nouvelle Energie peut-il être freiné dans son ascension par l’élection pour la présidence pour l’AMF, […]",
+   "published_date": "Tue, 17 Nov 2026 16:26:44 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Polish far-right lawmaker Braun charged over hospital ‘citizen’s arrest’",
    "url": "https://www.politico.eu/article/poland-grzegorz-braun-charged-over-hospital-citizens-arrest/",
    "content": "Grzegorz Braun faces up to five years in prison for allegedly detaining a doctor who had performed an abortion.",
@@ -9,7 +44,7 @@
    "score": 0.6
   },
   {
-   "title": "Zelenskyy gives details on Ukraine’s Crimea bridge operation",
+   "title": "Crimea bridge destruction will impair Russian supply chains, says Ukraine",
    "url": "https://www.politico.eu/article/zelenskyy-gives-details-on-ukraine-crimea-bridge-operation/",
    "content": "The Ukrainian president gave details of a weeks-long operation aimed at crippling a crucial Russian transport route that also has symbolic meaning for Vladimir Putin.",
    "published_date": "Tue, 17 Nov 2026 13:52:18 +0000",
@@ -34,41 +69,6 @@
    "url": "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/",
    "content": "Regulator says it has significant concerns about the use of personal data that is being collected by AI agents.",
    "published_date": "Tue, 17 Nov 2026 10:54:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Worsening public finances overshadow EU growth",
-   "url": "https://www.politico.eu/article/public-finances-eu-growth-eurozone-debt/",
-   "content": "Eurozone debt will rise from 89.6% of economic output this year to 91.3% in 2028.",
-   "published_date": "Tue, 17 Nov 2026 10:48:30 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Germany poised to nominate Brunnermeier as ECB chief economist",
-   "url": "https://www.politico.eu/article/germany-set-to-nominate-markus-brunnermeier-ecb-chief-economist/",
-   "content": "The chief economist’s position is one of three top jobs that European governments are aiming to fill by year-end.",
-   "published_date": "Tue, 17 Nov 2026 10:15:28 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Les Européens comptent sur la Chine pour garder les négociations climatiques sur la bonne voie",
-   "url": "https://www.politico.eu/article/les-europeens-comptent-sur-la-chine-pour-garder-les-negociations-climatiques-sur-la-bonne-voie/",
-   "content": "Des diplomates européens considèrent que le pays pourrait jouer un rôle clé pour sortir du blocage autour du Giec, bras armé scientifique des négociations.",
-   "published_date": "Tue, 17 Nov 2026 09:09:50 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine strikes Crimean bridge in ‘unprecedented operation,’ Zelenskyy says",
-   "url": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/",
-   "content": "Kyiv says the attack on Russia’s key supply route to occupied Crimea was retaliation for Moscow’s strikes on Ukrainian infrastructure.",
-   "published_date": "Tue, 17 Nov 2026 08:51:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Will Burnham’s welfare bazooka hit the target?",
-   "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/will-burnhams-welfare-bazooka-hit-the-target/",
-   "content": "Presented by TikTok",
-   "published_date": "Tue, 17 Nov 2026 08:34:15 +0000",
    "score": 0.6
   }
  ],

@@ -2,10 +2,24 @@
  "success": true,
  "results": [
   {
+   "title": "Ta yaya mace za ta iya neman saki a addinin Musulunci?",
+   "url": "https://www.bbc.com/hausa/articles/cmz6ql6wd65qo?at_medium=RSS&at_campaign=rss",
+   "content": "A addinin Musulunci, ba namiji kaɗai ne yake da damar neman a raba aure ba. Mace ma tana da wannan dama, idan ta ga cewa ba za ta iya ci gaba da rayuwar aure da mijinta ba, ko kuma tana fargabar kasa sauke haƙƙoƙin aure da Allah Ya ɗora mata.",
+   "published_date": "Tue, 17 Nov 2026 16:00:19 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Muna ɗaukar barazanar Iran da matuƙar muhimmanci - Trump",
    "url": "https://www.bbc.co.uk/hausa/live/c9j3k0g2877lt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 17/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Ya kamata mu riƙa tattauna sirrin rayuwarmu da AI?",
+   "url": "https://www.bbc.com/hausa/articles/ckn80g5vyjwzo?at_medium=RSS&at_campaign=rss",
+   "content": "Akwai wadanda har batutuwan da suka shafi soyayyarsu ko zamantakewar aure suke tattaunawa da fasahar AI, ko shawarar neman aiki da kasuwanci ko yunƙurin aikata laifi.",
+   "published_date": "Tue, 17 Nov 2026 17:18:28 GMT",
    "score": 0.6
   },
   {
@@ -51,20 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "'Jiragen ruwa biyu sun tarwatse a mashigar Hormuz'",
-   "url": "https://www.bbc.co.uk/hausa/live/cr0qj0wzwyxet?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 16/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Birnin da gwamnati ta hana amfani da tsabar kuɗi a Pakistan",
-   "url": "https://www.bbc.com/hausa/articles/cj1dv3e4yd53o?at_medium=RSS&at_campaign=rss",
-   "content": "Gwamnatin Pakistan ta sanar da wani shiri na mayar da birnin Islamabad ya zama babban birni na farko a duniya da ba a amfani da tsabar kuɗi wajen hada-hadar kasuwanci.",
-   "published_date": "Mon, 16 Nov 2026 16:19:31 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -72,7 +72,7 @@
    "score": 0.6
   },
   {
-   "title": "Lukaku ya yi ritaya daga buga wa Belgium tamaula",
+   "title": "Romario ya bukaci a kori Ancelotti, yayin ce-ce-ku-ce a tsakaninsu",
    "url": "https://www.bbc.co.uk/hausa/live/c6p9dn05777kt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 16 zuwa 22 ga watan Nuwambar 2026",
    "published_date": "",
@@ -104,6 +104,20 @@
    "url": "https://www.bbc.com/hausa/articles/cw4gnrdvjyxlo?at_medium=RSS&at_campaign=rss",
    "content": "Manchester United na ci gaba da fuskantar kalubale tun bayan ritayar Sir Alex Ferguson. Ga rahoton da Mohammed Abdu ya hada kan matsaloli biyar da suka jawo koma baya a kungiyar da jerin kociyoyin da aka sallama da abin da ke gaban Mauricio Pochettino a Old Trafford.",
    "published_date": "Sat, 14 Nov 2026 12:23:04 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Jiragen ruwa biyu sun tarwatse a mashigar Hormuz'",
+   "url": "https://www.bbc.co.uk/hausa/live/cr0qj0wzwyxet?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Litinin 16/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Birnin da gwamnati ta hana amfani da tsabar kuɗi a Pakistan",
+   "url": "https://www.bbc.com/hausa/articles/cj1dv3e4yd53o?at_medium=RSS&at_campaign=rss",
+   "content": "Gwamnatin Pakistan ta sanar da wani shiri na mayar da birnin Islamabad ya zama babban birni na farko a duniya da ba a amfani da tsabar kuɗi wajen hada-hadar kasuwanci.",
+   "published_date": "Mon, 16 Nov 2026 16:19:31 GMT",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cm5y182w9zw0o?at_medium=RSS&at_campaign=rss",
    "content": "Bayan an sanar da naɗin Imam Rasheed a matsayin wanda zai gaji marigayin, musamman wajen ci gaba da ayyukan da suka shafi haɗin kai da zaman lafiya, ya shaidawa BBC cewa akwai manyan abubuwa uku da zai mayar da hankali a kai domin tabbatar da cewa manufofin da marigayin ya ɗora tafiyarsu kai, ba su tsaya a nan ba.",
    "published_date": "Sat, 14 Nov 2026 03:55:41 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'An binne wani a cikin kabarina'",
-   "url": "https://www.bbc.com/hausa/articles/cwp80l71yn8jo?at_medium=RSS&at_campaign=rss",
-   "content": "Marie Lane ta ce ba za ta iya kallon kabarin da ta tanada kuma ta biya kuɗinsa da irin yadda take kallonsa a da ba, bayan da aka yi kuskuren binne wani mutum a cikinsa, sannan daga baya aka tono gawar aka cire.",
-   "published_date": "Sat, 14 Nov 2026 03:56:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Har yanzu ba a kawo ƙarshen kashe Kiristoci a Najeriya ba'",
-   "url": "https://www.bbc.co.uk/hausa/live/cmde1n300dy6t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 13/11/2026",
-   "published_date": "",
    "score": 0.6
   }
  ],
