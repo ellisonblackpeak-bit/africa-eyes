@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Live: Russian attacks target bridges in Kyiv, knocking out heating and water",
+   "url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
+   "content": "Russian strikes hit two major bridges in Kyiv late Monday, part of an overnight attack that damaged critical infrastructure and disrupted heating and water in parts of the capital, its mayor said. Ukraine's President Volodymyr Zelensky had warned of an attack by Russia in the coming days even as negotiators representing Kyiv as well as Europe and the United States held talks on future negotiations with Russia aimed at finding a path to end the war.",
+   "published_date": "Tue, 17 Nov 2026 01:38:38 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+   "url": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
+   "content": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Moscow launched a wider wave of drone and missile strikes across Ukraine, including in the regions of Cherkasy and Kharkiv.",
+   "published_date": "Tue, 17 Nov 2026 00:58:33 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ukraine hits key Crimea bridge with drones",
    "url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
    "content": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv.",
@@ -153,20 +167,6 @@
    "url": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise",
    "content": "French soldiers have been operating in Ukraine for several months, training Ukrainian troops and helping maintain military equipment, France 24's sister radio network Radio France Internationale (RFI) reported on Monday. While the deployment has not been confirmed, such a mission would not come as a surprise to many in Ukraine, reports France 24's correspondent in Kyiv Gulliver Cragg.",
    "published_date": "Mon, 16 Nov 2026 15:49:56 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Prague: Thousands of Czechs rally against government media funding plan",
-   "url": "https://www.france24.com/en/video/20261116-prague-thousands-of-czechs-rally-against-government-media-funding-plan",
-   "content": "Tens of thousands of Czechs rallied in Prague on Sunday, November 15, against a government plan to cut a public media fee and move funding to the state budget, a policy critics say would dent the broadcasters' independence and viability.",
-   "published_date": "Mon, 16 Nov 2026 15:49:29 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Robert Pattinson named as new James Bond",
-   "url": "https://www.france24.com/en/culture/20261116-robert-pattinson-named-as-new-james-bond",
-   "content": "British actor Robert Pattinson, star of three mega-franchises, \"The Batman\", \"Harry Potter\" and \"Twilight\", has been named as the seventh 007. The announcement ends years of speculation about who would inherit the beloved role from Daniel Craig and comes five years after the last Bond release, \"No Time to Die\".",
-   "published_date": "Mon, 16 Nov 2026 15:43:18 GMT",
    "score": 0.6
   }
  ],
