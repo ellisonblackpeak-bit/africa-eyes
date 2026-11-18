@@ -2,6 +2,55 @@
  "success": true,
  "results": [
   {
+   "title": "Deadly drug-resistant infections are surging in European hospitals",
+   "url": "https://www.politico.eu/article/drug-resistant-infections-superbug-europe-hospitals/",
+   "content": "Strains of Klebsiella pneumoniae have evolved to resist even the newest antibiotics.",
+   "published_date": "Wed, 18 Nov 2026 05:07:14 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "When EU foreign policy jobs collide",
+   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/when-eu-foreign-policy-jobs-collide/",
+   "content": "Kaja Kallas may be the EU’s top diplomat, but her role in key diplomatic discussions —whether on Ukraine or Israel — remains murky. Today on the show, Zoya Sheftalovich and Ian Wishart examine the increasingly overlapping job descriptions of Kaja Kallas and the EU’s Commissioner for the Mediterranean, Dubravka Šuica, and unpack what that says […]",
+   "published_date": "Wed, 18 Nov 2026 05:05:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Trump trifft Putin und Xi: Was bedeutet das für den Ukraine-Gipfel in Berlin?",
+   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/trump-trifft-putin-und-xi-was-bedeutet-das-fur-den-ukraine-gipfel-in-berlin/",
+   "content": "Während der Kanzler die Koalition der Willigen morgen zur Ukraine-Unterstützung in Berlin versammelt, inszeniert sich Donald Trump heute schon am anderen Ende der Welt. Beim Gipfel im chinesischen Shenzhen trifft er auf Xi Jinping und Wladimir Putin, während seine Sondergesandten Steve Witkoff und Jared Kushner im Kanzleramt weitgehend schweigen müssen. Was dieses geopolitische Schattenspiel für […]",
+   "published_date": "Wed, 18 Nov 2026 04:30:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Europe fears Putin is stringing Trump along on Ukraine",
+   "url": "https://www.politico.eu/article/europe-vladimir-putin-not-serious-about-ukraine-peace-talks/",
+   "content": "Officials worry peace talks are going nowhere. They'll take part anyway.",
+   "published_date": "Wed, 18 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The ‘bad boys of Brexit’ are getting a boost from Burnham’s EU reset",
+   "url": "https://www.politico.eu/article/andy-burnham-brexit-debate-boris-johnson-nigel-farage-eu-rejoin/",
+   "content": "Veteran anti-EU campaigners are firing up to challenge the U.K. prime minister's bid to forge new ties with the bloc — and trying to get over some historical rivalries.",
+   "published_date": "Wed, 18 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Commission takes EU’s Middle East spotlight as Kallas’ Israel channel stays frozen",
+   "url": "https://www.politico.eu/article/european-commission-middle-east-kaja-kallas-israel/",
+   "content": "Commissioner Dubravka Šuica’s expanding role is sharpening a broader contest over who speaks for the EU abroad.",
+   "published_date": "Wed, 18 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Same purchase, different protection",
+   "url": "https://www.politico.eu/sponsored-content/same-purchase-different-protection/",
+   "content": "The CCD2 has a single market problem. Consumers should receive the same treatment, no matter where they are in the bloc.",
+   "published_date": "Wed, 18 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Climate advisers warn UK ministers: Don’t meddle with electric vehicle rules",
    "url": "https://www.politico.eu/article/climate-electric-vehicles-uk-experts-emissions/",
    "content": "The government is consulting on changes to rules on vehicle emissions.",
@@ -9,66 +58,17 @@
    "score": 0.6
   },
   {
+   "title": "Ukrainian standoff: Will Le Pen visit Zelenskyy? Or will Zelenskyy visit Le Pen?",
+   "url": "https://www.politico.eu/article/marine-le-pen-volodymyr-zelenskyy-meeting-france-ukraine/",
+   "content": "Zelenskyy’s office declined to comment when asked whether he would accept Le Pen's invitation to meet in Paris or Brussels.",
+   "published_date": "Tue, 17 Nov 2026 20:55:19 +0000",
+   "score": 0.6
+  },
+  {
    "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
    "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/",
    "content": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a \"stupid thing.\"",
    "published_date": "Tue, 17 Nov 2026 19:53:42 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "The 5 Labour groups that matter as Burnham shows his hand on welfare",
-   "url": "https://www.politico.eu/article/5-labour-group-matter-andy-burnham-welfare-social-security/",
-   "content": "The prime minister’s proposals to alter social security will need support across his parliamentary party to succeed.",
-   "published_date": "Tue, 17 Nov 2026 18:04:31 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Uganda in talks to host EU migration hub",
-   "url": "https://www.politico.eu/article/uganda-in-talks-to-host-eu-migration-hub/",
-   "content": "”The discussion is at a stage of a cup of coffee,” the foreign ministry’s permanent secretary said.",
-   "published_date": "Tue, 17 Nov 2026 17:32:50 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Russia’s Lavrov says French troops in Ukraine amount to ‘direct participation’ in war",
-   "url": "https://www.politico.eu/article/sergey-lavrov-france-soldiers-ukraine-direct-participation-war-russia/",
-   "content": "The Kremlin's foreign minister seized on a French media report to warn Europe against deploying troops to Ukraine.",
-   "published_date": "Tue, 17 Nov 2026 17:22:15 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Brussels signals unwillingness to be Burnham’s EU sounding board",
-   "url": "https://www.politico.eu/article/brussels-andy-burnham-eu-options-brexit-reset/",
-   "content": "The British prime minister wants to gauge what's possible with the bloc before laying out options to voters back home. EU diplomats say it may not be so straightforward.",
-   "published_date": "Tue, 17 Nov 2026 17:05:05 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Le Pen defends retirement reform plan as opponents mock her economic credibility",
-   "url": "https://www.politico.eu/article/marine-le-pen-defends-retirement-reform-plan-as-opponents-mock-her-economic-credibility/",
-   "content": "The far-right leader says her plan to lower the retirement age would be offset by savings and employer-funded pension schemes.",
-   "published_date": "Tue, 17 Nov 2026 16:34:43 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Jusqu’où peut aller David Lisnard ?",
-   "url": "https://www.politico.eu/podcast/playbook-paris-podcast/jusquou-peut-aller-david-lisnard/",
-   "content": "Tutoyant désormais la barre des 10% dans les dernières intentions de vote pour la présidentielle, le maire de Cannes prend de vitesse ses concurrents. En quoi cette percée rebat-elle les cartes à droite et au centre ? Le fondateur de Nouvelle Energie peut-il être freiné dans son ascension par l’élection pour la présidence pour l’AMF, […]",
-   "published_date": "Tue, 17 Nov 2026 16:26:44 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Polish far-right lawmaker Braun charged over hospital ‘citizen’s arrest’",
-   "url": "https://www.politico.eu/article/poland-grzegorz-braun-charged-over-hospital-citizens-arrest/",
-   "content": "Grzegorz Braun faces up to five years in prison for allegedly detaining a doctor who had performed an abortion.",
-   "published_date": "Tue, 17 Nov 2026 14:10:09 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Crimea bridge destruction will impair Russian supply chains, says Ukraine",
-   "url": "https://www.politico.eu/article/zelenskyy-gives-details-on-ukraine-crimea-bridge-operation/",
-   "content": "The Ukrainian president gave details of a weeks-long operation aimed at crippling a crucial Russian transport route that also has symbolic meaning for Vladimir Putin.",
-   "published_date": "Tue, 17 Nov 2026 13:52:18 +0000",
    "score": 0.6
   }
  ],

@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Da me Amurka ke amfana da tallafin tsaron da take bai wa Najeriya?",
+   "url": "https://www.bbc.com/hausa/articles/cmly7grvlwk2o?at_medium=RSS&at_campaign=rss",
+   "content": "Ministan Tsaron Najeriya, Janar Christopher Musa, ya ce Amurka na taimaka wa sojojin ƙasar wajen bibiyar shugabannin ƙungiyoyin masu tayar da ƙayar baya da kuma daƙile hanyoyin sadarwarsu ta hanyar musayar bayanan sirri na lokaci-lokaci da hotunan tauraron ɗan'adam da kuma horas da jami'an soji.",
+   "published_date": "Wed, 18 Nov 2026 04:00:27 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Liverpool da Chealsea na zawarcin Camara, Barcelona ta fasa ɗauko van Dijk da Fernandes",
+   "url": "https://www.bbc.com/hausa/articles/cw20xgnl44z1o?at_medium=RSS&at_campaign=rss",
+   "content": "Liverpool ta shiga gaban Chelsea a zawacin ɗan wasan Monaco Lamine Camara, Barcelona ta yi watsi da siyen Virgil van Dijk dd Bruno Fernandes, sannan tsohon dan wasan Crystal Palace Wilfried Zaha zai iya komawa Barcelonan.",
+   "published_date": "Wed, 18 Nov 2026 03:59:37 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Manyan Musulman da suka fi tasiri a duniya",
+   "url": "https://www.bbc.com/hausa/articles/c6879dx33v7wo?at_medium=RSS&at_campaign=rss",
+   "content": "Manyan Musulman da suka fi tasiri a duniya",
+   "published_date": "Wed, 18 Nov 2026 04:01:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ta yaya Rasha ke cin moriyar yaƙin Iran?",
+   "url": "https://www.bbc.com/hausa/articles/ckj052jm5vy6o?at_medium=RSS&at_campaign=rss",
+   "content": "Ana kuma zargin cewar Rasha na ba Iran da ƙawayenta tallafin soji a ɓoye.",
+   "published_date": "Wed, 18 Nov 2026 03:56:47 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ta yaya mace za ta iya neman saki a addinin Musulunci?",
    "url": "https://www.bbc.com/hausa/articles/cmz6ql6wd65qo?at_medium=RSS&at_campaign=rss",
    "content": "A addinin Musulunci, ba namiji kaɗai ne yake da damar neman a raba aure ba. Mace ma tana da wannan dama, idan ta ga cewa ba za ta iya ci gaba da rayuwar aure da mijinta ba, ko kuma tana fargabar kasa sauke haƙƙoƙin aure da Allah Ya ɗora mata.",
@@ -34,34 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/c933gdkzjlz4o?at_medium=RSS&at_campaign=rss",
    "content": "BBC ta ƙaddamar da Dars a harshen Hausa yayin da shirin ilmantar da yara ya cimma gagarumar nasarar gabatar da darussa 700",
    "published_date": "Tue, 17 Nov 2026 10:41:49 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Matsaloli huɗu da zaɓen Najeriya ya fara fuskanta gabanin 2027",
-   "url": "https://www.bbc.com/hausa/articles/cmj4r987xj5qo?at_medium=RSS&at_campaign=rss",
-   "content": "Duk da cewa akwai sauran lokaci kafin gudanar da babban zaɓen, muhawarar siyasa da yadda jam'iyyu ke yaƙin neman zaɓe gami da matsalolin tsaro da ƙalubalen tattalin arziki sun fara nuna yanayin siyasar ƙasar.",
-   "published_date": "Tue, 17 Nov 2026 03:59:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda auren wuri, talauci, da rashin tsaro ke hana miliyoyin yara zuwa makaranta a arewacin Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/c5y4j7r0r8d2o?at_medium=RSS&at_campaign=rss",
-   "content": "BBC ta ƙaddamar da fara gabatar da shirinsu na yaran da basa zuwa makaranta a Africa ta yamma, a sashen hausa na BBC",
-   "published_date": "Tue, 17 Nov 2026 03:54:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Manchester United na son Hall, Zubimendi zai iya barin Arsenal",
-   "url": "https://www.bbc.com/hausa/articles/cqj6lzwrx44po?at_medium=RSS&at_campaign=rss",
-   "content": "Manchester United na iya fuskantar kalubale wajen daukar mai tsaron bayan Newcastle, Lewis Hall, yayin da ɗan wasan Arsenal, Martin Zubimendi, ke nazarin kan makomarsa, sannan Chelsea na shirin ɗaukar 'yan wasan Barcelona biyu a lokaci guda.",
-   "published_date": "Tue, 17 Nov 2026 03:58:43 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda Iran ta gina babban rumbun makaman linzami a ƙarƙashin ƙasa",
-   "url": "https://www.bbc.com/hausa/articles/cw5y1xk4jreeo?at_medium=RSS&at_campaign=rss",
-   "content": "Rundunar juyin juya halin Iran, IRGC ta fitar da wasu hotuna a ranar 9 ga Nuwamba, inda ta ce na wani sabon wurin ajiyar makamai masu linzami da ke ƙarƙashin ƙasa mallakin rundunar.",
-   "published_date": "Tue, 17 Nov 2026 03:55:27 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,34 @@
    "url": "https://www.bbc.com/hausa/articles/cw4gnrdvjyxlo?at_medium=RSS&at_campaign=rss",
    "content": "Manchester United na ci gaba da fuskantar kalubale tun bayan ritayar Sir Alex Ferguson. Ga rahoton da Mohammed Abdu ya hada kan matsaloli biyar da suka jawo koma baya a kungiyar da jerin kociyoyin da aka sallama da abin da ke gaban Mauricio Pochettino a Old Trafford.",
    "published_date": "Sat, 14 Nov 2026 12:23:04 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Matsaloli huɗu da zaɓen Najeriya ya fara fuskanta gabanin 2027",
+   "url": "https://www.bbc.com/hausa/articles/cmj4r987xj5qo?at_medium=RSS&at_campaign=rss",
+   "content": "Duk da cewa akwai sauran lokaci kafin gudanar da babban zaɓen, muhawarar siyasa da yadda jam'iyyu ke yaƙin neman zaɓe gami da matsalolin tsaro da ƙalubalen tattalin arziki sun fara nuna yanayin siyasar ƙasar.",
+   "published_date": "Tue, 17 Nov 2026 03:59:24 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda auren wuri, talauci, da rashin tsaro ke hana miliyoyin yara zuwa makaranta a arewacin Najeriya",
+   "url": "https://www.bbc.com/hausa/articles/c5y4j7r0r8d2o?at_medium=RSS&at_campaign=rss",
+   "content": "BBC ta ƙaddamar da fara gabatar da shirinsu na yaran da basa zuwa makaranta a Africa ta yamma, a sashen hausa na BBC",
+   "published_date": "Tue, 17 Nov 2026 03:54:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Manchester United na son Hall, Zubimendi zai iya barin Arsenal",
+   "url": "https://www.bbc.com/hausa/articles/cqj6lzwrx44po?at_medium=RSS&at_campaign=rss",
+   "content": "Manchester United na iya fuskantar kalubale wajen daukar mai tsaron bayan Newcastle, Lewis Hall, yayin da ɗan wasan Arsenal, Martin Zubimendi, ke nazarin kan makomarsa, sannan Chelsea na shirin ɗaukar 'yan wasan Barcelona biyu a lokaci guda.",
+   "published_date": "Tue, 17 Nov 2026 03:58:43 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda Iran ta gina babban rumbun makaman linzami a ƙarƙashin ƙasa",
+   "url": "https://www.bbc.com/hausa/articles/cw5y1xk4jreeo?at_medium=RSS&at_campaign=rss",
+   "content": "Rundunar juyin juya halin Iran, IRGC ta fitar da wasu hotuna a ranar 9 ga Nuwamba, inda ta ce na wani sabon wurin ajiyar makamai masu linzami da ke ƙarƙashin ƙasa mallakin rundunar.",
+   "published_date": "Tue, 17 Nov 2026 03:55:27 GMT",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cm5y1weq4nygo?at_medium=RSS&at_campaign=rss",
    "content": "Yadda ƴan bindiga ke maye gurbin tsoffin cikinsu da fusatattun matasa marassa tausayi masu shan ƙwayoyin maye, waɗanda ke kashe mutanen da aka yi garkuwa da su bayan dangi sun biya kuɗaɗen fansa a arewa maso yammacin Najeriya",
    "published_date": "Sun, 15 Nov 2026 03:55:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda Musulmai ke tayar da ƙura a fagen siyasar Amurka",
-   "url": "https://www.bbc.com/hausa/articles/crd61y7n9wd8o?at_medium=RSS&at_campaign=rss",
-   "content": "Bayan hare-haren 11 ga Satumban 2001, Musulman Amurka sun fuskanci zargin wariya da shakku a wurare da dama.Sai dai fitowar sabbin shugabannin Musulmai a siyasa na nuna cewa al'ummar Musulmi na samun karɓuwa fiye da yadda lamarin yake a baya, tare da mayar da hankali kan batutuwan da suka shafi rayuwar jama'a .",
-   "published_date": "Sun, 15 Nov 2026 03:54:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Diflomasiyya na neman yin tsami tsakanin Najeriya da Afrika ta Kudu",
-   "url": "https://www.bbc.co.uk/hausa/live/cqp83x144gv2t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 14/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Kareena Kapoor na shan suka kan saka sarƙa mai rubutun Qur'ani",
-   "url": "https://www.bbc.com/hausa/articles/c6m2lm9y4rjdo?at_medium=RSS&at_campaign=rss",
-   "content": "Kareena ta sanya sarkar wuyar ta zinare domin kece ado a bikin Diwali. An kuma gayyaci manyan jarumai daga masana'antar fim ta Indiya domin halarta.",
-   "published_date": "Sat, 14 Nov 2026 15:18:01 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abubuwa uku da zan mayar da hankali a kai – Magajin Masussuka",
-   "url": "https://www.bbc.com/hausa/articles/cm5y182w9zw0o?at_medium=RSS&at_campaign=rss",
-   "content": "Bayan an sanar da naɗin Imam Rasheed a matsayin wanda zai gaji marigayin, musamman wajen ci gaba da ayyukan da suka shafi haɗin kai da zaman lafiya, ya shaidawa BBC cewa akwai manyan abubuwa uku da zai mayar da hankali a kai domin tabbatar da cewa manufofin da marigayin ya ɗora tafiyarsu kai, ba su tsaya a nan ba.",
-   "published_date": "Sat, 14 Nov 2026 03:55:41 GMT",
    "score": 0.6
   }
  ],
