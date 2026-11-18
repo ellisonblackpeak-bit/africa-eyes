@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Miss Universe Vietnam thu hồi danh hiệu hoa hậu của Nguyễn Quỳnh Anh",
+   "url": "https://tuoitre.vn/miss-universe-vietnam-thu-hoi-danh-hieu-hoa-hau-cua-nguyen-quynh-anh-100261118195238238.htm",
+   "content": "Ban tổ chức Miss Universe Vietnam thông báo thu hồi danh hiệu hoa hậu của Nguyễn Quỳnh Anh, do cô tiếp tục tham gia các hoạt động biểu diễn, sự kiện chưa có sự thống nhất với đơn vị quản lý, ảnh hưởng đến hình ảnh cuộc thi.",
+   "published_date": "11/18/2026 8:01:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

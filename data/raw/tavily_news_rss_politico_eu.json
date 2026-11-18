@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "France’s Philippe steps up attacks on Le Pen and Mélenchon as his poll numbers slide",
+   "url": "https://www.politico.eu/article/france-edouard-philippe-steps-up-attacks-on-marine-le-pen-and-jean-luc-melenchon-as-his-poll-numbers-slide/",
+   "content": "The center-right presidential candidate accused his rivals of harboring an \"unhealthy fascination\" with Russia's Vladimir Putin.",
+   "published_date": "Wed, 18 Nov 2026 13:52:43 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Wie Björn Höcke die Geschichte umdeutet",
+   "url": "https://www.politico.eu/podcast/inside-afd/wie-bjorn-hocke-die-geschichte-umdeutet/",
+   "content": "Björn Höcke nutzt den Volkstrauertag für eine gezielte Provokation und präsentiert stark überhöhte deutsche Opferzahlen zu Flucht, Vertreibung und alliierten Luftangriffen. Die AfD fordert einen Schlussstrich unter die NS-Vergangenheit, doch wie funktioniert diese geschichtspolitische Umdeutung genau, und auf welche fragwürdigen Quellen stützt sich die Partei dabei? Mit dem ehemaligen Fußballweltmeister Thomas Berthold schickt die AfD […]",
+   "published_date": "Wed, 18 Nov 2026 13:50:58 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Moldova summons Russia’s envoy over multiple drone incursions",
+   "url": "https://www.politico.eu/article/moldova-summons-russia-envoy-over-drone-incursions/",
+   "content": "“This is what the 'peace' promoted by the Kremlin looks like,\" fumed Chișinău's foreign ministry.",
+   "published_date": "Wed, 18 Nov 2026 12:57:12 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Deutschland und Österreich fordern europäischen Eigentümer für TikTok",
+   "url": "https://www.politico.eu/article/deutschland-und-oesterreich-fordern-europaeischen-eigentuemer-fuer-tiktok/",
+   "content": "Nach dem Vorbild der USA wollen Deutschland und Österreich eine Neuordnung der Eigentumsverhältnisse bei TikTok erreichen.",
+   "published_date": "Wed, 18 Nov 2026 12:54:02 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Germany, Austria demand TikTok’s European platform be sold to owners in EU",
+   "url": "https://www.politico.eu/article/germany-and-austria-launch-bid-for-eu-tiktok-takeover/",
+   "content": "Proposal comes after President Donald Trump forced TikTok to split out U.S. app.",
+   "published_date": "Wed, 18 Nov 2026 12:27:16 +0000",
+   "score": 0.6
+  },
+  {
    "title": "From Brussels with love: How the EU used Robert Pattinson to fight deepfakes",
    "url": "https://www.politico.eu/article/robert-pattinson-eu-fight-deepfake/",
    "content": "Does the new James Bond have a connection to the EU? Sort of.",
@@ -34,41 +69,6 @@
    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-burnham-make-hard-choices/",
    "content": "With the UK-EU summit fast approaching, questions remain over everything – from fishing rights to steel tariffs. But one of the biggest sticking points is Britain’s potential financial contribution. As the government publishes its European Union reset myth-buster guide, Sam Coates and Anne McElvoy examine whether Whitehall is being completely clear about the costs. And […]",
    "published_date": "Wed, 18 Nov 2026 09:09:26 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Carney backs Trump’s nuclear talks with Xi and Putin",
-   "url": "https://www.politico.eu/article/mark-carney-backs-donald-trump-nuclear-talks-xi-jiping-vladimir-putin/",
-   "content": "Canada's prime minister also blasted the Russian president over his war in Ukraine.",
-   "published_date": "Wed, 18 Nov 2026 09:06:41 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Deadly drug-resistant infections are surging in European hospitals",
-   "url": "https://www.politico.eu/article/drug-resistant-infections-superbug-europe-hospitals/",
-   "content": "Strains of Klebsiella pneumoniae have evolved to resist even the newest antibiotics.",
-   "published_date": "Wed, 18 Nov 2026 05:07:14 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "When EU foreign policy jobs collide",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/when-eu-foreign-policy-jobs-collide/",
-   "content": "Kaja Kallas may be the EU’s top diplomat, but her role in key diplomatic discussions —whether on Ukraine or Israel — remains murky. Today on the show, Zoya Sheftalovich and Ian Wishart examine the increasingly overlapping job descriptions of Kaja Kallas and the EU’s Commissioner for the Mediterranean, Dubravka Šuica, and unpack what that says […]",
-   "published_date": "Wed, 18 Nov 2026 05:05:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Procès “femmeblancherie” : quand l’idéologie masculiniste devient une menace sécuritaire",
-   "url": "https://www.politico.eu/article/proces-femmeblancherie-quand-lideologie-masculiniste-devient-une-menace-securitaire/",
-   "content": "Des associations de lutte contre la haine en ligne veulent faire de ce procès un exemple des dangers du masculinisme pour la sécurité nationale.",
-   "published_date": "Wed, 18 Nov 2026 05:00:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Trump trifft Putin und Xi: Was bedeutet das für den Ukraine-Gipfel in Berlin?",
-   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/trump-trifft-putin-und-xi-was-bedeutet-das-fur-den-ukraine-gipfel-in-berlin/",
-   "content": "Während der Kanzler die Koalition der Willigen morgen zur Ukraine-Unterstützung in Berlin versammelt, inszeniert sich Donald Trump heute schon am anderen Ende der Welt. Beim Gipfel im chinesischen Shenzhen trifft er auf Xi Jinping und Wladimir Putin, während seine Sondergesandten Steve Witkoff und Jared Kushner im Kanzleramt weitgehend schweigen müssen. Was dieses geopolitische Schattenspiel für […]",
-   "published_date": "Wed, 18 Nov 2026 04:30:00 +0000",
    "score": 0.6
   }
  ],

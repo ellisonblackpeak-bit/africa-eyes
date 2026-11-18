@@ -2,10 +2,45 @@
  "success": true,
  "results": [
   {
+   "title": "Slovenia Halts Tourist Visas for Russian Citizens",
+   "url": "https://www.themoscowtimes.com/2026/11/18/slovenia-halts-tourist-visas-for-russian-citizens-a94301",
+   "content": "Slovenia issued 1,254 mostly single-entry Schengen visas to Russian citizens in 2025. Across the EU, 680,000 visas were issued to Russian nationals in 2025.",
+   "published_date": "Wed, 18 Nov 2026 17:16:45 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Russia Loses Nearly 1 in 5 Maternity Facilities as Births Fall",
+   "url": "https://www.themoscowtimes.com/2026/11/18/russia-loses-nearly-1-in-5-maternity-facilities-as-births-fall-a94300",
+   "content": "At least 15 regions no longer have full maternity wards at their district hospitals.",
+   "published_date": "Wed, 18 Nov 2026 16:16:11 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Saratov Court Jails Accomplice in Russian General’s Assassination for 23 Years",
+   "url": "https://www.themoscowtimes.com/2026/11/18/saratov-court-jails-accomplice-in-russian-generals-assassination-for-23-years-a94297",
+   "content": "State prosecutors accused Grafsky of tracking and targeting Moskalik on behalf of the Ukrainian special services.",
+   "published_date": "Wed, 18 Nov 2026 15:58:00 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Russia Asks if Netherlands Is Joining Ukraine War After Dutch Company's Missiles Used in Bridge Attack",
+   "url": "https://www.themoscowtimes.com/2026/11/18/russia-asks-if-netherlands-is-joining-ukraine-war-after-dutch-companys-missiles-used-in-bridge-attack-a94298",
+   "content": "Destinus, a Dutch-headquartered startup, said Tuesday that its missiles were the only foreign-made weapons used in the Ukrainian attack on the Crimean Bridge.",
+   "published_date": "Wed, 18 Nov 2026 14:56:10 +0300",
+   "score": 0.6
+  },
+  {
    "title": "Putin Hails Russia’s Economic Resilience and Touts Closer Ties With China at APEC",
    "url": "https://www.themoscowtimes.com/2026/11/18/putin-hails-russias-economic-resilience-and-touts-closer-ties-with-china-at-apec-a94296",
    "content": "Putin claimed that Russia had become Europe’s largest economy despite Western sanctions, even as his own government forecasts growth of just 0.4% this year.",
    "published_date": "Wed, 18 Nov 2026 13:57:37 +0300",
+   "score": 0.6
+  },
+  {
+   "title": "Xi and Putin Blast Western 'Protectionism,' Sanctions as Trump Lands in China",
+   "url": "https://www.themoscowtimes.com/2026/11/18/xi-and-putin-blast-western-protectionism-sanctions-as-trump-lands-in-china-a94292",
+   "content": "The three men are due to meet on Thursday and potentially discuss Russia's war with Ukraine and the U.S. war in Iran, as well as other flashpoints.",
+   "published_date": "Wed, 18 Nov 2026 13:36:00 +0300",
    "score": 0.6
   },
   {
@@ -20,13 +55,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/18/ukrainian-drones-target-krasnodar-region-refineries-a94294",
    "content": "Russia’s Defense Ministry said it intercepted 183 Ukrainian drones over Russian regions overnight.",
    "published_date": "Wed, 18 Nov 2026 12:39:56 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Xi and Putin Blast Western 'Protectionism,' Sanctions as Trump Lands in China",
-   "url": "https://www.themoscowtimes.com/2026/11/18/xi-and-putin-blast-western-protectionism-sanctions-as-trump-lands-in-china-a94292",
-   "content": "The three men are due to meet on Thursday and potentially discuss Russia's war with Ukraine and the U.S. war in Iran, as well as other flashpoints.",
-   "published_date": "Wed, 18 Nov 2026 11:02:00 +0300",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/13/kremlin-says-its-ready-for-civilian-evacuation-from-ukraines-kostiantynivka-a94257",
    "content": "Kyiv has expressed concerns that Moscow might wish to use ceasefires for such missions to enable its military to regroup.",
    "published_date": "Fri, 13 Nov 2026 16:59:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russian Oil Discounts Hit 3-Year High as Middle East Supplies Recover",
-   "url": "https://www.themoscowtimes.com/2026/11/13/russian-oil-discounts-hit-3-year-high-as-middle-east-supplies-recover-a94256",
-   "content": "Analysts said rising supplies from Persian Gulf producers were increasing competition for Urals.",
-   "published_date": "Fri, 13 Nov 2026 16:04:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Seized Western Businesses Donate $86M to Russian War Effort",
-   "url": "https://www.themoscowtimes.com/2026/11/13/seized-western-businesses-donate-86m-to-russian-war-effort-a94252",
-   "content": "The donations have been used to buy drones, vehicles, communications systems and other equipment for Russian troops, Bloomberg reported.",
-   "published_date": "Fri, 13 Nov 2026 14:04:52 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Russia Says Europeans Can Join Ukraine Peace Talks if They Show 'Readiness to Contribute'",
-   "url": "https://www.themoscowtimes.com/2026/11/13/russia-says-europeans-can-join-ukraine-peace-talks-if-they-show-readiness-to-contribute-a94236",
-   "content": "Yet the Russian leader said Washington must work with its European allies to understand if they want peace or war in Ukraine.",
-   "published_date": "Fri, 13 Nov 2026 14:04:00 +0300",
-   "score": 0.6
-  },
-  {
-   "title": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery",
-   "url": "https://www.themoscowtimes.com/2026/11/13/ukrainian-drone-attack-kills-4-workers-sparks-fire-at-volgograd-oil-refinery-a94250",
-   "content": "The exiled news outlet Astra said it identified the facility as the largest Lukoil oil refinery in southern Russia.",
-   "published_date": "Fri, 13 Nov 2026 12:26:00 +0300",
    "score": 0.6
   }
  ],

@@ -2,10 +2,45 @@
  "success": true,
  "results": [
   {
-   "title": "Helping Europe’s start-ups grow beyond their home market [Promoted Content]",
-   "url": "https://www.rapporteur.com/opinion/helping-europes-start-ups-grow-beyond-their-home-market/",
-   "content": "Fragmented banking and capital markets, and a Single Market that is still being completed, make it hard for many European start-ups to finance their growth and reach new markets on their own. Founders’ experience after acquisition offers useful lessons for policymakers.",
-   "published_date": "Wed, 18 Nov 2026 11:00:02 +0000",
+   "title": "COP31: EU battles to get climate reports out sooner",
+   "url": "https://www.rapporteur.com/news/cop31-eu-battles-to-get-climate-reports-out-sooner/",
+   "content": "Brussels is courting Beijing, whose backing would leave Saudi Arabia and India with few allies in the dispute",
+   "published_date": "Wed, 18 Nov 2026 14:39:48 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Europe’s CO2 pipeline problem: who builds first? [Partner Content]",
+   "url": "https://www.rapporteur.com/news/europes-co2-pipeline-problem-who-builds-first/",
+   "content": "The EU says carbon capture and storage should be part of the solution for tackling climate change; but monetary and regulatory barriers are getting in the way of building the necessary infrastructure",
+   "published_date": "Wed, 18 Nov 2026 14:08:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Ireland urges EU to treat prevention as investment, with heart disease still its biggest killer [Partner Content]",
+   "url": "https://www.rapporteur.com/news/ireland-urges-eu-to-treat-prevention-as-investment-with-heart-disease-still-its-biggest-killer/",
+   "content": "Dublin Castle conference under the Irish Council Presidency puts the Commission's Safe Hearts Plan centre stage, while EU tobacco reforms stall and prevention remains a sliver of health spending",
+   "published_date": "Wed, 18 Nov 2026 13:23:27 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Greece, North Macedonia uncover Iran-led terror network",
+   "url": "https://www.rapporteur.com/news/greece-north-macedonia-uncover-iran-led-terror-network/",
+   "content": "The Iranian embassy in Athens dismissed the allegations",
+   "published_date": "Wed, 18 Nov 2026 13:21:54 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Europe’s cardiovascular health agenda must not overlook kidney health [Partner Content]",
+   "url": "https://www.rapporteur.com/news/europes-cardiovascular-health-agenda-must-not-overlook-kidney-health/",
+   "content": "Europe’s cardiovascular agenda could help close gaps in the diagnosis and treatment of rare kidney diseases",
+   "published_date": "Wed, 18 Nov 2026 12:26:15 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU urges countries to swap Patriot missiles for Ukraine’s future deliveries",
+   "url": "https://www.rapporteur.com/news/eu-urges-countries-to-swap-patriot-missiles-for-ukraines-future-deliveries/",
+   "content": "Brussels also push to use SAFE leftovers to boost european production of interceptors",
+   "published_date": "Wed, 18 Nov 2026 12:24:28 +0000",
    "score": 0.6
   },
   {
@@ -174,41 +209,6 @@
    "url": "https://www.rapporteur.com/news/denmark-unveils-fossil-fuel-off-ramp-at-cop31/",
    "content": "Spain, Portugal and Luxembourg promise to follow suit",
    "published_date": "Tue, 17 Nov 2026 16:57:35 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Midterms: Controversial Slovenian MEP joins far-right Patriots",
-   "url": "https://www.rapporteur.com/news/midterms-controversial-slovenian-mep-joins-far-right-patriots/",
-   "content": "Branko Grims' arrival will help the Patriots stay ahead of the ECR",
-   "published_date": "Tue, 17 Nov 2026 16:23:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU countries push to shut Russia out of Venice Biennale",
-   "url": "https://www.rapporteur.com/news/eu-countries-push-to-shut-russia-out-of-venice-biennale/",
-   "content": "Poland leads the charge against Russia taking part in Venice Architecture Biennale",
-   "published_date": "Tue, 17 Nov 2026 15:36:24 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Hoekstra: draft COP31 deal is a ‘shopping list’ that needs changes",
-   "url": "https://www.rapporteur.com/news/hoekstra-draft-cop31-deal-is-a-shopping-list-that-needs-changes/",
-   "content": "The EU climate commissioner urged ministers not to be distracted by a plethora of demands",
-   "published_date": "Tue, 17 Nov 2026 15:20:16 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Europe has recognised the nutritional gap in cancer care. Now action must follow. [Promoted Content]",
-   "url": "https://www.rapporteur.com/opinion/europe-has-recognised-the-nutritional-gap-in-cancer-care-now-action-must-follow/",
-   "content": "Up to seven in ten people with cancer face malnutrition, yet only one in five is assessed for it. The European Parliament has called for change. Now health systems must deliver.",
-   "published_date": "Tue, 17 Nov 2026 15:00:08 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Digital ministers to discuss AI safety at December meeting",
-   "url": "https://www.rapporteur.com/news/digital-ministers-to-discuss-ai-safety-at-december-meeting/",
-   "content": "Countries were asked to weigh in on testing, cybersecurity, and international cooperation",
-   "published_date": "Tue, 17 Nov 2026 14:23:18 +0000",
    "score": 0.6
   }
  ],
