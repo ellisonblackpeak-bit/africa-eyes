@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Wo bí fífi ọmọdé lọ́kọ, ìṣẹ́ àti àìsí àbò tó péye ṣe ń ṣèdíwọ́ fún àti kẹ́kọ̀ọ́ ọ̀pọ̀lọpọ̀ ọmọdé lẹ́kùn àríwá Nàìjíríà",
+   "url": "https://www.bbc.com/yoruba/articles/c6205wrwrzldo?at_medium=RSS&at_campaign=rss",
+   "content": "Ojuṣẹ ijọba apapọ, ipinlẹ ati ibilẹ lo si yẹ ki inawo ile ẹkọ naa jẹ, amọ ọpọ ile ẹkọ ni ko ni tiṣa to, bẹẹ ni awọn ẹbi ti ko lowo lati fi ran awọn ọmọ wọn lọ sile ẹkọ aldaani naa pọ.",
+   "published_date": "Wed, 18 Nov 2026 09:19:31 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Àwọn ohun tí mo là kọjá ló tọ́ mi sọ́nà tí mò ń tọ̀ báyìí - Dieko, ọmọ Kunle Afolayan sọ̀rọ̀",
    "url": "https://www.bbc.com/yoruba/articles/c35y1vlwzyvdo?at_medium=RSS&at_campaign=rss",
    "content": "Dieko ni akọbi Kunle Afolayan lọkunrin, ti ọpọ si nigbagbọ pe iṣẹ ti baba rẹ yan laayo, lo yẹ koun naa yan laayo.",
@@ -51,13 +58,6 @@
    "score": 0.6
   },
   {
-   "title": "Kò ṣe é má gbọ̀ ọ́",
-   "url": "https://www.bbc.com/yoruba/articles/c87e81lzqqvo?at_medium=RSS&at_campaign=rss",
-   "content": "Àkójọpọ̀ ìròyìn káàkiri àgbáyé tí kò ṣe è má gbọ̀ ọ́",
-   "published_date": "Tue, 17 Nov 2026 13:24:34 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Kókó ẹ̀sùn tí ọlọ́pàá fi kan pásítọ̀ tó 'fẹ́ jí' òkú Toluwanisings ní mọ́ṣúárì",
    "url": "https://www.bbc.com/yoruba/articles/cm9d7p8lzgvvo?at_medium=RSS&at_campaign=rss",
    "content": "Pasitọ naa ti wọn pe orukọ rẹ ni, Moses Idowu, ni ọlọpaa ṣafihan rẹ pẹlu akọroyin kan, Oladapo Joshua Dunmininu lori oniruuru ẹsun.",
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.com/yoruba/articles/cwrkg02pyzxpo?at_medium=RSS&at_campaign=rss",
    "content": "Nigba to n fi idi isẹlẹ iku oloogbe Oluyemi mulẹ fun BBC News Yoruba, ọkan lara ọmọ Isola Ogunsola, Isho Senior salaye pe ana ọjọ Aiku ni obinrin naa mi kanlẹ.",
    "published_date": "Mon, 16 Nov 2026 14:25:00 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Bàbá Toluwanisings tọ́jú àwọn ọmọ rẹ̀, ó sì gbìyànjú – Ẹ̀gbọ́n Toluwani",
+   "url": "https://www.bbc.com/yoruba/watch/c893zv9x06lpo?at_medium=RSS&at_campaign=rss",
+   "content": "Abdulazeez lo sọrọ naa ninu ifọrọwerọ kan pẹlu BBC Yoruba.",
+   "published_date": "Wed, 04 Nov 2026 15:25:08 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/yoruba/articles/c6lymnyx17v0o?at_medium=RSS&at_campaign=rss",
    "content": "Oluwo sọrọ yii lasiko ti awuyewuye n lọ nipa bo ṣe n fi ipo ọba tabuku ba aṣa ati iṣe ilẹ Yoruba, leyi to jẹ ki ijọba ipinlẹ Osun kọwe ikilọ ti wọn fi ranṣẹ si i.",
    "published_date": "Thu, 12 Nov 2026 15:26:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Maa fun ijọba ibilẹ ni ominira amọ ọpọ igbesẹ lawọn asofin yoo gbe lori rẹ - Bimbo Adekanmbi",
-   "url": "https://www.bbc.com/yoruba/watch/cw8dz34e4p7ro?at_medium=RSS&at_campaign=rss",
-   "content": "BBC News Yoruba ba oludije sipo gomina fẹgbẹ oselu APM nipinlẹ Oyo sọrọ nipa erongba fawọn araalu, akojọpọ ohun to sọ ree.",
-   "published_date": "Wed, 04 Nov 2026 09:50:36 GMT",
    "score": 0.6
   }
  ],

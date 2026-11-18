@@ -1,0 +1,116 @@
+{
+ "query": "Ghana China Chinese company investment mining embassy",
+ "_tag": "soc_cn_gh",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/tv3_ghana/status/2122614805261390082",
+     "title": "Ghana's exports to China hit $290 million in June alone under Beijing's zero-tariff policy, China's ambassador says.",
+     "description": "Ghana's exports to China hit $290 million in June alone under Beijing's zero-tariff policy, China's ambassador says. https://3news.com/business/ghana-exports-china-zero-tariff-290-million",
+     "snippet": "Ghana's exports to China hit $290 million in June alone under Beijing's zero-tariff policy, China's ambassador says. https://3news.com/business/ghana-exports-china-zero-tariff-290-million",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "#TV3GH",
+     "handle": "@tv3_ghana"
+    },
+    {
+     "url": "https://x.com/StatsGH/status/2122225432896663863",
+     "title": "Ghana has saved US$42 million a year by replacing 50 Chinese engineers with local professionals at a major gas facility.",
+     "description": "Ghana has saved US$42 million a year by replacing 50 Chinese engineers with local professionals at a major gas facility. Ghana Gas reported monthly savings of US$3.5 million after the switch",
+     "snippet": "Ghana has saved US$42 million a year by replacing 50 Chinese engineers with local professionals at a major gas facility. Ghana Gas reported monthly savings of US$3.5 million after the switch",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "StatsGH",
+     "handle": "@StatsGH"
+    },
+    {
+     "url": "https://x.com/SIKAOFFICIAL1/status/2122688371684163615",
+     "title": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS), in collaboration with the Ghana Navy Special Boat Squadron, has arrested 2",
+     "description": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS), in collaboration with the Ghana Navy Special Boat Squadron, has arrested 27 illegal miners, including a Chinese national, during a dawn raid at Anyinamso No. 2 in the Ashanti Region.\n\nThe suspects were reportedly engaged in illegal mining activities at night, with two armed men providing security using pump-action guns. The security personnel disarmed the men without incident and retrieved the two firearms.\n\n[🎥: Erastus Asare Donkor]",
+     "snippet": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS), in collaboration with the Ghana Navy Special Boat Squadron, has arrested 27 illegal miners, including a Chinese national, during a dawn raid at Anyinamso No. 2 in the Ashanti Region.\n\nThe suspects were reportedly engaged in illegal mining activities at night, with two armed men providing security using pump-action guns. The security personnel disarmed the men without incident and retrieved the two firearms.\n\n[🎥: Erastus Asare Donkor]",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SIKAOFFICIAL🦍",
+     "handle": "@SIKAOFFICIAL1"
+    },
+    {
+     "url": "https://x.com/GhanaCrimes/status/2122763878220329155",
+     "title": "ARRESTED: 27 suspected illegal miners, including a Chinese national, held in a dawn raid at Anyinamso No.",
+     "description": "ARRESTED: 27 suspected illegal miners, including a Chinese national, held in a dawn raid at Anyinamso No. 2 in Ashanti. Two pump-action guns were seized after a suspected guard allegedly aimed one at the task force. Full story 👇",
+     "snippet": "ARRESTED: 27 suspected illegal miners, including a Chinese national, held in a dawn raid at Anyinamso No. 2 in Ashanti. Two pump-action guns were seized after a suspected guard allegedly aimed one at the task force. Full story 👇",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ghana Crimes Ltd.",
+     "handle": "@GhanaCrimes"
+    },
+    {
+     "url": "https://x.com/KNUSTGH/status/2122718669423698346",
+     "title": "The Vice-Chancellor of the Kwame Nkrumah University of Science and Technology, Kumasi (KNUST), Professor Christian Agyare, has led a delegat",
+     "description": "The Vice-Chancellor of the Kwame Nkrumah University of Science and Technology, Kumasi (KNUST), Professor Christian Agyare, has led a delegation to Dongfeng Special Vehicle Co. Ltd in China to discuss electric buses for campus transport and a proposed research and service centre.\n\nThe centre, to be based at KNUST in Kumasi, would serve Ghana and the wider West African market.\n\nThe visit to the company in Shiyan, Hubei Province, formed part of the delegation’s ongoing engagements in the province and was organised in partnership with Hubei University of Automotive Technology (HUAT).\n\nLearn more here⬇️",
+     "snippet": "The Vice-Chancellor of the Kwame Nkrumah University of Science and Technology, Kumasi (KNUST), Professor Christian Agyare, has led a delegation to Dongfeng Special Vehicle Co. Ltd in China to discuss electric buses for campus transport and a proposed research and service centre.\n\nThe centre, to be based at KNUST in Kumasi, would serve Ghana and the wider West African market.\n\nThe visit to the company in Shiyan, Hubei Province, formed part of the delegation’s ongoing engagements in the province and was organised in partnership with Hubei University of Automotive Technology (HUAT).\n\nLearn more here⬇️",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kwame Nkrumah University of Science and Technology",
+     "handle": "@KNUSTGH"
+    },
+    {
+     "url": "https://x.com/ChineseEmbKenya/status/2122993233261150469",
+     "title": "Buoyed by zero tariffs, African exporters eye bigger China market🥑🥑🥑 Eight years after showcasing Kenyan avocados at the China International",
+     "description": "Buoyed by zero tariffs, African exporters eye bigger China market🥑🥑🥑\n\nEight years after showcasing Kenyan avocados at the China International Import Expo (CIIE), Tiku Shah is back in Shanghai with a bigger ambition: doubling his company's avocado shipments to China next year.\n\nFor Shah, managing director of Kenyan avocado exporter Sunripe, China's latest tariff cuts have given his expansion plans a boost.\n\nOn May 1, China extended zero-tariff treatment to all 53 African countries with which it maintains diplomatic ties, benefiting another 20 countries, including Kenya, Ghana and South Africa.\n\nSix months into the expansion, the CIIE, the world's largest import-themed expo and now in its ninth edition, offers a glimpse of how African exporters are seeking to turn lower trade costs into bigger orders, new partnerships, and opportunities to expand production at home.\nRead more:",
+     "snippet": "Buoyed by zero tariffs, African exporters eye bigger China market🥑🥑🥑\n\nEight years after showcasing Kenyan avocados at the China International Import Expo (CIIE), Tiku Shah is back in Shanghai with a bigger ambition: doubling his company's avocado shipments to China next year.\n\nFor Shah, managing director of Kenyan avocado exporter Sunripe, China's latest tariff cuts have given his expansion plans a boost.\n\nOn May 1, China extended zero-tariff treatment to all 53 African countries with which it maintains diplomatic ties, benefiting another 20 countries, including Kenya, Ghana and South Africa.\n\nSix months into the expansion, the CIIE, the world's largest import-themed expo and now in its ninth edition, offers a glimpse of how African exporters are seeking to turn lower trade costs into bigger orders, new partnerships, and opportunities to expand production at home.\nRead more:",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Chinese Embassy in Kenya",
+     "handle": "@ChineseEmbKenya"
+    },
+    {
+     "url": "https://x.com/IlmariSepponen/status/2122698832685224243",
+     "title": "After challenging the U.S.",
+     "description": "After challenging the U.S. dollar with Chinese yuan payments, gold-rich Ghana reveals millions saved by sending 50 Chinese engineers packing for local talent | Business Insider Africa https://africa.businessinsider.com/local/markets/after-challenging-the-us-dollar-with-chinese-yuan-payments-gold-rich-ghana-reveals/2vrxx5w",
+     "snippet": "After challenging the U.S. dollar with Chinese yuan payments, gold-rich Ghana reveals millions saved by sending 50 Chinese engineers packing for local talent | Business Insider Africa https://africa.businessinsider.com/local/markets/after-challenging-the-us-dollar-with-chinese-yuan-payments-gold-rich-ghana-reveals/2vrxx5w",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Ilmari (Imma) Sepponen",
+     "handle": "@IlmariSepponen"
+    },
+    {
+     "url": "https://x.com/JoyNewsOnTV/status/2122656016567275637",
+     "title": "Fight against galamsey: The National Anti-Illegal Mining Operations Secretariat (NAIMOS), in collaboration with the Ghana Navy Special Boat",
+     "description": "Fight against galamsey: The National Anti-Illegal Mining Operations Secretariat (NAIMOS), in collaboration with the Ghana Navy Special Boat Squadron have arrested 27 illegal miners including one Chinese national in a dawn operation at Anyinamso No. 2, in the Ashanti region.\n\n#JoyNews",
+     "snippet": "Fight against galamsey: The National Anti-Illegal Mining Operations Secretariat (NAIMOS), in collaboration with the Ghana Navy Special Boat Squadron have arrested 27 illegal miners including one Chinese national in a dawn operation at Anyinamso No. 2, in the Ashanti region.\n\n#JoyNews",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "JoyNews",
+     "handle": "@JoyNewsOnTV"
+    },
+    {
+     "url": "https://x.com/bhrh2000/status/2122715288458391923",
+     "title": "Security at a Ghana airport opened my chocolates and broke them one by one.",
+     "description": "Security at a Ghana airport opened my chocolates and broke them one by one. Routine checks are fine; harassment is not. If Chinese travelers are being targeted or pressured for tips, Ghanaian authorities and the Chinese embassy should investigate. Travelers, stay alert.",
+     "snippet": "Security at a Ghana airport opened my chocolates and broke them one by one. Routine checks are fine; harassment is not. If Chinese travelers are being targeted or pressured for tips, Ghanaian authorities and the Chinese embassy should investigate. Travelers, stay alert.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Kevin Huang黄日涵",
+     "handle": "@bhrh2000"
+    },
+    {
+     "url": "https://x.com/thepaulfrimpong/status/2122640285159330296",
+     "title": "𝐆𝐡𝐚𝐧𝐚–𝐂𝐡𝐢𝐧𝐚 𝐙𝐞𝐫𝐨-𝐓𝐚𝐫𝐢𝐟𝐟 𝐏𝐨𝐥𝐢𝐜𝐲: 𝐀 𝐇𝐢𝐠𝐡-𝐋𝐞𝐯𝐞𝐥 𝐒𝐭𝐚𝐤𝐞𝐡𝐨𝐥𝐝𝐞𝐫 𝐑𝐨𝐮𝐧𝐝𝐭𝐚𝐛𝐥𝐞 hosted in partnership with @ceibs Africa #ACCPA #AfricaChina #SinoAfrica",
+     "description": "𝐆𝐡𝐚𝐧𝐚–𝐂𝐡𝐢𝐧𝐚 𝐙𝐞𝐫𝐨-𝐓𝐚𝐫𝐢𝐟𝐟 𝐏𝐨𝐥𝐢𝐜𝐲: 𝐀 𝐇𝐢𝐠𝐡-𝐋𝐞𝐯𝐞𝐥 𝐒𝐭𝐚𝐤𝐞𝐡𝐨𝐥𝐝𝐞𝐫 𝐑𝐨𝐮𝐧𝐝𝐭𝐚𝐛𝐥𝐞 hosted in partnership with @ceibs Africa \n#ACCPA #AfricaChina #SinoAfrica #Trade #CEIBSAfrica #ZeroTariff #ExportCompetitiveness",
+     "snippet": "𝐆𝐡𝐚𝐧𝐚–𝐂𝐡𝐢𝐧𝐚 𝐙𝐞𝐫𝐨-𝐓𝐚𝐫𝐢𝐟𝐟 𝐏𝐨𝐥𝐢𝐜𝐲: 𝐀 𝐇𝐢𝐠𝐡-𝐋𝐞𝐯𝐞𝐥 𝐒𝐭𝐚𝐤𝐞𝐡𝐨𝐥𝐝𝐞𝐫 𝐑𝐨𝐮𝐧𝐝𝐭𝐚𝐛𝐥𝐞 hosted in partnership with @ceibs Africa \n#ACCPA #AfricaChina #SinoAfrica #Trade #CEIBSAfrica #ZeroTariff #ExportCompetitiveness",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Paul Frimpong",
+     "handle": "@thepaulfrimpong"
+    }
+   ]
+  }
+ ]
+}
