@@ -9,13 +9,6 @@
    "source": "tavily"
   },
   {
-   "title": "EU drops Huawei rip-out deadline | Telco Pulse",
-   "url": "https://telcopulse.com/articles/eu-high-risk-vendors.html",
-   "snippet": "The UK settled this question years ago, and more strictly. Under a designated vendor direction issued in 2022 under the Telecommunications (Security) Act, 35 providers must remove all Huawei equipment and services from their 5G networks by 31 December 2027. Earlier deadlines restricted Huawei in the network core and in full-fibre networks. [...] The phase-out sits inside the Commission's overhaul ",
-   "published": "Thu, 12 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "China conveys serious concerns to Europe over curbs on telecom equipment - Chinadaily.com.cn",
    "url": "https://www.chinadaily.com.cn/a/202611/12/WS6af579e1e4b03ebf8519c0d4.html",
    "snippet": "His comments came as Germany announced plans to classify 5G base stations as critical network components, potentially paving the way for bans on Chinese equipment, according to German business daily Handelsblatt.\n\nPortugal, meanwhile, has renewed restrictions on \"high-risk\" 5G suppliers following a new security review, maintaining measures that effectively exclude Chinese telecom giant Huawei, Por",
@@ -34,6 +27,13 @@
    "url": "https://www.phonearena.com/news/t-mobile-parent-company-may-have-to-fight-for-its-right-to-party-with-huawei_id184755",
    "snippet": "While EU officials have previously advised telcos to avoid partnering with \"high-risk vendors\" (a.k.a. Huawei) for their 5G networks, things are changing fast. The EU might update its CSA (Cybersecurity Act) in a way that makes avoiding Huawei hardware and software altogether (not just from a network's core) a mandatory requirement. [...] Now, Höttges has something to say about Huawei, the least f",
    "published": "Thu, 12 Nov 2026 10:50:48 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Deutsche Telekom CEO to resist push for tougher Huawei restrictions",
+   "url": "https://www.communicationstoday.co.in/deutsche-telekom-ceo-to-resist-push-for-tougher-huawei-restrictions",
+   "snippet": "Deutsche Telekom has already taken steps to reduce its reliance on Huawei. According to Light Reading, the group removed Huawei from the 5G core and has",
+   "published": "Thu, 12 Nov 2026 09:00:00 GMT",
    "source": "tavily"
   },
   {

@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Iran ta ce ta kai hari sansanin sojin Amurka a Kuwait",
+   "url": "https://www.bbc.co.uk/hausa/live/cmj6l5r688e8t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 18/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Da me Amurka ke amfana da tallafin tsaron da take bai wa Najeriya?",
    "url": "https://www.bbc.com/hausa/articles/cmly7grvlwk2o?at_medium=RSS&at_campaign=rss",
    "content": "Ministan Tsaron Najeriya, Janar Christopher Musa, ya ce Amurka na taimaka wa sojojin ƙasar wajen bibiyar shugabannin ƙungiyoyin masu tayar da ƙayar baya da kuma daƙile hanyoyin sadarwarsu ta hanyar musayar bayanan sirri na lokaci-lokaci da hotunan tauraron ɗan'adam da kuma horas da jami'an soji.",
@@ -44,7 +51,7 @@
    "score": 0.6
   },
   {
-   "title": "Ya kamata mu riƙa tattauna sirrin rayuwarmu da AI?",
+   "title": "Shin ya kamata mu riƙa tattauna sirrin rayuwarmu da AI?",
    "url": "https://www.bbc.com/hausa/articles/ckn80g5vyjwzo?at_medium=RSS&at_campaign=rss",
    "content": "Akwai wadanda har batutuwan da suka shafi soyayyarsu ko zamantakewar aure suke tattaunawa da fasahar AI, ko shawarar neman aiki da kasuwanci ko yunƙurin aikata laifi.",
    "published_date": "Tue, 17 Nov 2026 17:18:28 GMT",
@@ -55,13 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/c60qj0y4zn9go?at_medium=RSS&at_campaign=rss",
    "content": "Kalaman nasa na zuwa ne a daidai lokacin da jaridar Daily Nigerian da wasu kafafen yada labarai suka ruwaito a ƙarshen mako cewa Zainab ta shigar da ƙarar neman a raba aurensu a wata kotu da ke Abuja.",
    "published_date": "Tue, 17 Nov 2026 09:18:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Dars Hausa: BBC ta ƙaddamar da shirin ilmantar da yaran da ba sa zuwa makaranta",
-   "url": "https://www.bbc.com/hausa/articles/c933gdkzjlz4o?at_medium=RSS&at_campaign=rss",
-   "content": "BBC ta ƙaddamar da Dars a harshen Hausa yayin da shirin ilmantar da yara ya cimma gagarumar nasarar gabatar da darussa 700",
-   "published_date": "Tue, 17 Nov 2026 10:41:49 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,13 @@
    "url": "https://www.bbc.com/hausa/articles/cw4gnrdvjyxlo?at_medium=RSS&at_campaign=rss",
    "content": "Manchester United na ci gaba da fuskantar kalubale tun bayan ritayar Sir Alex Ferguson. Ga rahoton da Mohammed Abdu ya hada kan matsaloli biyar da suka jawo koma baya a kungiyar da jerin kociyoyin da aka sallama da abin da ke gaban Mauricio Pochettino a Old Trafford.",
    "published_date": "Sat, 14 Nov 2026 12:23:04 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Dars Hausa: BBC ta ƙaddamar da shirin ilmantar da yaran da ba sa zuwa makaranta",
+   "url": "https://www.bbc.com/hausa/articles/c933gdkzjlz4o?at_medium=RSS&at_campaign=rss",
+   "content": "BBC ta ƙaddamar da Dars a harshen Hausa yayin da shirin ilmantar da yara ya cimma gagarumar nasarar gabatar da darussa 700",
+   "published_date": "Tue, 17 Nov 2026 10:41:49 GMT",
    "score": 0.6
   },
   {
@@ -202,13 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cw62pm7z7n65o?at_medium=RSS&at_campaign=rss",
    "content": "Wasu gwaje-gwajen da aka gudanar kan ɓeraye sun nuna yadda sinadarin osteopontin da ake samu cikin ƙurajen fata zasu iya zuƙo ƙwayoyin halittar da ke tsiro da gashi",
    "published_date": "Sun, 15 Nov 2026 17:13:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "’Abin da ya sa na zama ɗan fashin daji’",
-   "url": "https://www.bbc.com/hausa/articles/cm5y1weq4nygo?at_medium=RSS&at_campaign=rss",
-   "content": "Yadda ƴan bindiga ke maye gurbin tsoffin cikinsu da fusatattun matasa marassa tausayi masu shan ƙwayoyin maye, waɗanda ke kashe mutanen da aka yi garkuwa da su bayan dangi sun biya kuɗaɗen fansa a arewa maso yammacin Najeriya",
-   "published_date": "Sun, 15 Nov 2026 03:55:07 GMT",
    "score": 0.6
   }
  ],
