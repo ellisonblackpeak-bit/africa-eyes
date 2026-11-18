@@ -1,21 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "SKC SkinLab Vietnam ứng dụng laser Soprano Titanium trong chăm sóc da",
-   "url": "https://vnexpress.net/skc-skinlab-vietnam-ung-dung-laser-soprano-titanium-trong-cham-soc-da-5146114.html",
-   "content": "SKC SkinLab Vietnam ứng dụng công nghệ Soprano Titanium kết hợp ba bước sóng laser, hướng đến cải thiện độ săn chắc và cải thiện các đường nét trên da.",
-   "published_date": "Wed, 18 Nov 2026 14:00:00 +0700",
-   "score": 0.6
-  },
-  {
-   "title": "Còn 5 ngày bình chọn vòng chung kết Vietnam iContent Awards 2026",
-   "url": "https://vnexpress.net/con-5-ngay-binh-chon-vong-chung-ket-vietnam-icontent-awards-2026-5145073.html",
-   "content": "Cổng bình chọn chung kết Vietnam iContent Awards 2026 sẽ đóng vào 12h ngày 23/11, độc giả còn 5 ngày để bỏ phiếu cho cá nhân, tổ chức, sản phẩm yêu thích.",
-   "published_date": "Wed, 18 Nov 2026 12:00:00 +0700",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "key": "71e72d7344a12fef",
+  "group": "news",
+  "field": "summary",
+  "en": "据 GhanaWeb（加纳） 报道：China ready to support Ghana’s $10 billion New Economy Programme。该来源未开放正文与摘要，点击下方原文可查看完整内容。"
+ },
+ {
+  "key": "e3b20869bbfc8294",
+  "group": "news",
+  "field": "summary",
+  "en": "据 von.gov.ng 报道：Senate to Transmit State Police Bill to President Tinubu。该来源未开放正文与摘要，点击下方原文可查看完整内容。"
+ },
+ {
+  "key": "15f562e324bd62cb",
+  "group": "news",
+  "field": "title",
+  "en": "Senate to Transmit State Police Bill to President Tinubu"
+ },
+ {
+  "key": "b3894321b9864413",
+  "group": "news",
+  "field": "title",
+  "en": "China ready to support Ghana’s $10 billion New Economy Programme"
+ }
+]
