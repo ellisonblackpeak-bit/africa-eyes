@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Climate advisers warn UK ministers: Don’t meddle with electric vehicle rules",
+   "url": "https://www.politico.eu/article/climate-electric-vehicles-uk-experts-emissions/",
+   "content": "The government is consulting on changes to rules on vehicle emissions.",
+   "published_date": "Wed, 18 Nov 2026 00:01:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
    "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/",
    "content": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a \"stupid thing.\"",
@@ -62,13 +69,6 @@
    "url": "https://www.politico.eu/article/zelenskyy-gives-details-on-ukraine-crimea-bridge-operation/",
    "content": "The Ukrainian president gave details of a weeks-long operation aimed at crippling a crucial Russian transport route that also has symbolic meaning for Vladimir Putin.",
    "published_date": "Tue, 17 Nov 2026 13:52:18 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Rwanda hits back at asylum-seeker return hub criticism",
-   "url": "https://www.politico.eu/article/rwanda-hit-back-return-hub-criticism/",
-   "content": "NGOs say Rwanda's human rights record means deportation hub plans fail EU and international law requirements.",
-   "published_date": "Tue, 17 Nov 2026 13:50:47 +0000",
    "score": 0.6
   }
  ],
