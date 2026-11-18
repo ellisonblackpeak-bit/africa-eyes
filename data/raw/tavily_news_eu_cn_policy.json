@@ -9,10 +9,17 @@
    "source": "tavily"
   },
   {
-   "title": "Chinese EV tariffs: US 100% vs. EU up to 45.3%",
-   "url": "https://www.netz-trends.de/us/chinese-evs-tariffs-us-vs-europe-comparison",
-   "snippet": "The European Commission has levied countervailing duties under Implementing Regulation (EU) 2024/2754 since October 30, 2024. They come on top of the EU’s regular 10% import duty and apply for five years. According to the Commission, Tesla pays 7.8% on cars from Shanghai, BYD 17.0%, Geely 18.8% and SAIC – MG’s parent – 35.3%. [...] Key points\n\n US: Since September 27, 2024, electric cars from Chin",
-   "published": "Fri, 13 Nov 2026 14:14:00 GMT",
+   "title": "How EU Tariffs Backfired: China's Hybrid Boom and the New Auto Crisis",
+   "url": "https://www.youtube.com/watch?v=rU6zBatNiec",
+   "snippet": "how Europe's tariffs on Chinese battery electric vehicles inadvertently redirected Chinese imports toward plug-in hybrids, which face only a 10% standard tariff, allowing Chinese brands to capture over a third of the European PHEV market by July 2026 through a 13-fold increase from just 3,800 units in October 2024. It examines the EU's diplomatic request for a voluntary export restraint capping Ch",
+   "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "Chinese EV tariffs: US 100%, EU 45.3%, UK 10%",
+   "url": "https://www.netz-trends.de/uk/chinese-evs-tariffs-us-eu-uk-comparison",
+   "snippet": "Key points\n\n US: Since 27 September 2024, electric cars from China have faced a 100% tariff.\n EU: Since 30 October 2024, importers have paid 17.8 to 45.3% depending on the maker – BYD 27.0%, SAIC/MG 45.3%.\n UK: No extra tariff – cars from China pay the standard 10% duty.\n Impact: Chinese brands reached 15.8% of Europe’s new-car market in September 2026, VW Group lost 3.1 points. Porsche delivered ",
+   "published": "Fri, 13 Nov 2026 14:12:27 GMT",
    "source": "tavily"
   },
   {
@@ -23,6 +30,13 @@
    "source": "tavily"
   },
   {
+   "title": "EU and anti-dumping duties on steel and Chinese imports - Bloomberg",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/eu-and-anti-dumping-duties-on-steel-and-chinese-imports",
+   "snippet": "# EU Bolsters Trade Toolkit With Anti-Dumping Tariffs on Some Steel\n\nFive economies including India, Taiwan and Turkey were targeted\n\nThis article is for subscribers only.\n\nThe European Union imposed anti-dumping duties that factored in the impact of Chinese industrial overcapacity on other markets, setting a significant precedent as the bloc seeks to shield its economy from unfair trade tied indi",
+   "published": "Tue, 17 Nov 2026 12:00:01 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "EU China trade deal eases tariff and mineral risks | Adalytica",
    "url": "https://adalytica.com/news/eu-china-trade-deal-mineral-risks-cbf01085",
    "snippet": "The compromise is still fragile. It needs approval from EU leaders and leaves the core disputes untouched: Brussels still accuses China of state subsidies and excess capacity, while Beijing says Europe is hiding behind protectionism and unfair tariffs. The deal only postpones the bigger argument over how much Chinese industrial overcapacity Europe is willing to absorb. [...] For investors, the dea",
@@ -30,17 +44,17 @@
    "source": "tavily"
   },
   {
-   "title": "Europe’s struggle to compete with China ramps up",
-   "url": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
-   "snippet": "The effects on earnings and jobs of so-called “dumping” by Chinese companies are so severe that analysts have dubbed the phenomenon “China Shock 2.0”. There have been efforts to respond. In 2024, Brussels slapped tariffs on Chinese electric vehicle imports, after an investigation concluded they were heavily subsidised. [...] In fact, 2024 marked a record year for the number of EU trade defence mea",
-   "published": "Wed, 11 Nov 2026 05:13:03 GMT",
+   "title": "Commission imposes anti-dumping duties on certain cold-rolled flat steel products - Trade and Economic Security",
+   "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+   "snippet": "A Particular Market Situation exists where conditions in an exporting country’s domestic market do not permit the proper comparison of domestic sales prices and export prices. Under EU anti-dumping rules, where such a situation is established, the Commission may construct the normal value instead of using the sales prices in the domestic markets of the countries concerned, in accordance with legal",
+   "published": "Mon, 16 Nov 2026 11:00:00 GMT",
    "source": "tavily"
   },
   {
-   "title": "How EU Tariffs Backfired: China's Hybrid Boom and the New Auto Crisis",
-   "url": "https://www.youtube.com/watch?v=rU6zBatNiec",
-   "snippet": "Tariff Loophole: EU duties on BEVs push Chinese exports into PHEVs under a 10% standard tariff; Market Surge: Chinese PHEVs jump 13-fold from October 2024",
-   "published": "",
+   "title": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
+   "url": "https://www.reuters.com/sustainability/climate-energy/european-commission-imposes-anti-dumping-duties-steel-imports-2026-11-16",
+   "snippet": "The EU is imposing tariffs of up to 27.9% on cold-rolled flat steel products from India, Japan, Taiwan, ​Turkey and Vietnam after finding they were being",
+   "published": "Mon, 16 Nov 2026 23:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -48,13 +62,6 @@
    "url": "https://www.reddit.com/r/Economics/comments/1xycpr8/eu_sets_tariffs_on_steel_from_india_japan_taiwan",
    "snippet": "The EU is imposing tariffs of up to 27.9% on cold-rolled flat steel products from India, Japan, Taiwan, Turkey and Vietnam after finding they were being",
    "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "EU set to delay 10% tariff on electric cars from UK, FT reports",
-   "url": "https://www.reuters.com/world/china/eu-set-delay-10-tariff-electric-cars-uk-ft-reports-2026-11-12",
-   "snippet": "The European Union is set to delay a 10% tariff on electric cars from the UK, due to take effect from January 2027.",
-   "published": "Wed, 11 Nov 2026 20:00:00 GMT",
    "source": "tavily"
   },
   {

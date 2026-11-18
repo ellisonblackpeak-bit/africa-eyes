@@ -2,10 +2,10 @@
  "success": true,
  "results": [
   {
-   "title": "The secret war between al-Qaeda and Islamic State",
-   "url": "https://www.ft.com/content/9af1c511-4bf7-45c0-9b13-255fe3be62dd",
-   "snippet": "The aftermath of an attack for which JNIM claimed responsibility in Niamey, Niger © ORTN/Handout/Reuters. Their fight makes the Sahel one of the few places",
-   "published": "Tue, 17 Nov 2026 04:00:00 GMT",
+   "title": "JNIM: Operational Trends, Risk Assessment, and Forecast",
+   "url": "https://www.danielegarofalomonitoring.com/p/jnim-operational-trends-risk-assessment-2ae",
+   "snippet": "JNIM remains the most capable Salafi-jihadist actor in the central Sahel, though logistical and intelligence limitations constrain its operational capacity. Established in March 2017 through the merger of Ansar Dine, Katibat Macina, al-Mourabitoun, and AQIM’s Sahara branch, the group has evolved into a federated coalition rather than a rigidly hierarchical organisation. It operates primarily in Ma",
+   "published": "Fri, 13 Nov 2026 13:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -16,6 +16,13 @@
    "source": "tavily"
   },
   {
+   "title": "SawabCenter on X: \"📰 JNIM & Daesh Sahel Province (ISSP) have clashed over weeks in Liptako-Gourma tri-border region of Burkina Faso, Mali & Niger in what UN experts call the most intense direct confrontation between the two terror groups worldwide. Thousands of extremists fought in two battles in… / X",
+   "url": "https://x.com/SawabCenter/status/2121174276044939639",
+   "snippet": "## Conversation\n\n@SawabCenter\n\nSawabCenter@SawabCenter\n\n📰 JNIM & Daesh Sahel Province (ISSP) have clashed over weeks in Liptako-Gourma tri-border region of Burkina Faso, Mali & Niger in what UN experts call the most intense direct confrontation between the two terror groups worldwide. Thousands of extremists fought in two battles in northeastern Burkina Faso, each the deadliest yet, according to A",
+   "published": "Fri, 13 Nov 2026 09:32:11 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground | News | Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground",
    "snippet": "The fighting comes as JNIM continues to make gains against government forces in Burkina Faso. The International Crisis Group says the group holds extensive areas of the country, particularly in the north, north-central region, west and east. Its influence has allowed it to challenge state authority across several regions while maintaining operations in neighbouring Mali and Niger. [...] The rivalr",
@@ -23,17 +30,17 @@
    "source": "tavily"
   },
   {
-   "title": "SawabCenter",
-   "url": "https://x.com/SawabCenter/status/2121174276044939639",
-   "snippet": "JNIM & Daesh Sahel Province (ISSP) have clashed over weeks in Liptako-Gourma tri-border region of Burkina Faso, Mali & Niger in what UN experts call the",
-   "published": "",
-   "source": "tavily"
-  },
-  {
    "title": "Nigerian Armed Forces & Military News",
    "url": "https://www.facebook.com/61550479860217/posts/-burkina-faso-security-forces-raid-suspected-jnim-ied-factory-in-djiboburkina-fa/122349407834015995",
    "snippet": "JNIM's IED factory shows just how dangerous this terrorist group is, and Nigeria must stay vigilant. Strengthening our army through partnerships with the west, especially the U.S., will be key to keeping Burkina Faso and the wider region safe.JNIM's IED factory shows just how dangerous this terrorist group is, and Nigeria must stay vigilant. Strengthening our army through partnerships with the wes",
    "published": "Mon, 16 Nov 2026 18:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "The secret war between al-Qaeda and Islamic State",
+   "url": "https://www.ft.com/content/9af1c511-4bf7-45c0-9b13-255fe3be62dd",
+   "snippet": "JNIM is the more potent militant force, estimated to have thousands of men across more than seven countries. Its successes have made it enemy number one for its",
+   "published": "Tue, 17 Nov 2026 04:00:00 GMT",
    "source": "tavily"
   },
   {
