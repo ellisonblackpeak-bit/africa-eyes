@@ -1,14 +1,32 @@
 [
  {
-  "key": "a41004fda6baa912",
+  "key": "d99808e2e4de0136",
   "group": "news",
-  "field": "summary",
-  "en": "Former Vice President Atiku Abubakar has demanded to know whether President Bola Tinubu’s recorded Villa interview was part of a $4.5 million lobbying arrangement undertaken on Nigeria’s behalf. In a statement issued by his Director of Strategic Communication, Phrank Shaibu, Atiku said United States filings identify Diana London as a consultant to DCI Group AZ […]"
+  "field": "body",
+  "en": "Dare lamented that the congestion had left thousands of travellers stranded, forcing some to abandon their vehicles and walk long distances to their destinations. The post appeared first on Vanguard News"
  },
  {
-  "key": "dfdb51a4b7773932",
+  "key": "379fbb0cf75cf012",
+  "group": "news",
+  "field": "summary",
+  "en": "Dare lamented that the congestion had left thousands of travellers stranded, forcing some to abandon their vehicles and walk long distances to their destinations."
+ },
+ {
+  "key": "e104b8b4217d0893",
+  "group": "news",
+  "field": "summary",
+  "en": "Elon Musk says he feels ‘foolish’ for spending nearly $500m on Republicans after Democrats won Congress in the 2026 US midterm elections. Read More: https://punchng.com/musk-regrets-spending-500m-on-republicans-after-us-midterms/"
+ },
+ {
+  "key": "2b9b46ca731408c3",
   "group": "news",
   "field": "title",
-  "en": "‘Publicity stunt’, Atiku dismisses Tinubu’s chat with American strategist"
+  "en": "Musk regrets spending $500m on Republicans after US midterms"
+ },
+ {
+  "key": "fe5b132ce2fc3fd1",
+  "group": "news",
+  "field": "title",
+  "en": "Lagos-Ibadan gridlock: Tinubu’s aide spends five hours in traffic, faults contractor"
  }
 ]

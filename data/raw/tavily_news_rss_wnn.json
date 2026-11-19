@@ -170,13 +170,6 @@
    "score": 0.6
   },
   {
-   "title": "Algae early-warning system aims to offer safety, operational benefits",
-   "url": "https://www.world-nuclear-news.org/articles/algae-early-warning-system-aims-to-offer-safety-operational-benefits",
-   "content": "An AI-based system has been developed to anticipate the arrival of floating vegetation masses at the cooling system of the Ascó Nuclear Power Plant in Spain, and is a significant advance on traditional visual inspection methods, say its creators, GDES and plant operator ANAV.",
-   "published_date": "Thu, 05 Nov 2026 06:17:45 GMT",
-   "score": 0.6
-  },
-  {
    "title": "ASNR opens passive safety system testing facility",
    "url": "https://www.world-nuclear-news.org/articles/asnr-opens-passive-safety-system-testing-facility",
    "content": "France's nuclear safety regulator has inaugurated new research infrastructure and facilities at its Cadarache site for studying the reliability of passive safety systems. It aims to generate the scientific knowledge necessary for the independent safety assessment of innovative reactors and small modular reactors.",
@@ -209,6 +202,13 @@
    "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
    "content": "Oklo's Groves Isotope Test Reactor has been cleared for unrestricted operations by the US Department of Energy.",
    "published_date": "Thu, 12 Nov 2026 07:30:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "NRC extends Project Ike review timetable",
+   "url": "https://www.world-nuclear-news.org/articles/nrc-extends-project-ike-review-timetable",
+   "content": "The US regulator has pushed the expected completion date for its review of Orano's application for a licence for its proposed centrifuge enrichment facility back to June 2027 after the company asked for more time to respond to the regulator's questions.",
+   "published_date": "Mon, 16 Nov 2026 14:08:05 GMT",
    "score": 0.6
   }
  ],

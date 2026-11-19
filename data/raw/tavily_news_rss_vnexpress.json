@@ -1,6 +1,21 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "VnExpress Marathon Hanoi Midnight đóng cổng đăng ký hôm nay",
+   "url": "https://vnexpress.net/han-dang-ky-hanoi-midnight-2026-hom-nay-19-11-5146328.html",
+   "content": "Ba cự ly 5km, 10km và 42km của giải chạy đêm VnExpress Marathon Hanoi Midnight 2026 nhận đăng ký đến hết hôm nay 19/11.",
+   "published_date": "Thu, 19 Nov 2026 08:00:00 +0700",
+   "score": 0.6
+  },
+  {
+   "title": "14 ứng viên có cơ hội nhận danh hiệu 'MCN của năm'",
+   "url": "https://vnexpress.net/14-ung-vien-co-co-hoi-nhan-danh-hieu-mcn-cua-nam-5145079.html",
+   "content": "Yeah1, 28Entertainment, Schannel, Beat Network, Vulaci, DatViet VAC Group Holdings và 8 đơn vị tranh danh hiệu \"MCN của năm\" tại chung kết Vietnam iContent Awards 2026.",
+   "published_date": "Thu, 19 Nov 2026 08:00:00 +0700",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

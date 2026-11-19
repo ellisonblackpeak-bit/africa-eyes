@@ -2,20 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Huawei 5G Ban: Germany's 2026 Deadline and the EU's Plan",
-   "url": "https://www.technology.org/2026/11/12/huawei-germany-5g-core-deadline-eu-cybersecurity-act",
-   "snippet": "On 31 December 2026, a rule that once looked like Germany’s toughest move against Huawei takes effect. Under public-law contracts with Deutsche Telekom, Vodafone and Telefónica, all critical components from Huawei and ZTE must be gone from the country’s 5G core networks by the end of this year, the German interior ministry announced when the deal was signed in July 2024. Critical functions of Huaw",
-   "published": "Thu, 12 Nov 2026 10:01:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "EU drops Huawei rip-out deadline | Telco Pulse",
-   "url": "https://telcopulse.com/articles/eu-high-risk-vendors.html",
-   "snippet": "The UK settled this question years ago, and more strictly. Under a designated vendor direction issued in 2022 under the Telecommunications (Security) Act, 35 providers must remove all Huawei equipment and services from their 5G networks by 31 December 2027. Earlier deadlines restricted Huawei in the network core and in full-fibre networks. [...] The phase-out sits inside the Commission's overhaul ",
-   "published": "Thu, 12 Nov 2026 23:00:00 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Conference report on: The Rise of China as a Strategic Challenge for Central Europe - Andrássy Universität Budapest",
    "url": "https://aub.eu/universitaet/nachrichten/conference-report-on-the-rise-of-china-as-a-strategic-challenge-for-central-europe",
    "snippet": "Andreea Brinza (Romanian Institute for the Study of the Asia-Pacific) provided the contrast. Romania was the first country to ban Huawei from 5G and excluded Chinese firms from public infrastructure and the nuclear power plant project. She argued, however, that this was meant to signal alignment with the US and EU rather than to address security concerns. Chinese cameras still watch over public in",
@@ -23,17 +9,17 @@
    "source": "tavily"
   },
   {
+   "title": "T-Mobile's parent company may have to fight for its right to party with Huawei - PhoneArena",
+   "url": "https://www.phonearena.com/news/t-mobile-parent-company-may-have-to-fight-for-its-right-to-party-with-huawei_id184755",
+   "snippet": "While EU officials have previously advised telcos to avoid partnering with \"high-risk vendors\" (a.k.a. Huawei) for their 5G networks, things are changing fast. The EU might update its CSA (Cybersecurity Act) in a way that makes avoiding Huawei hardware and software altogether (not just from a network's core) a mandatory requirement. [...] Now, Höttges has something to say about Huawei, the least f",
+   "published": "Thu, 12 Nov 2026 10:50:48 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Wirefly on Facebook: \"Deutsche Telekom, the German company that owns a majority stake in T-Mobile, is pushing back against…\"",
    "url": "https://www.facebook.com/Wirefly/posts/deutsche-telekom-the-german-company-that-owns-a-majority-stake-in-t-mobile-is-pu/1546842080810324",
    "snippet": "# Wirefly on Facebook: \"Deutsche Telekom, the German company that owns a majority stake in T-Mobile, is pushing back against…\"\n\nDeutsche Telekom, the German company that owns a majority stake in T-Mobile, is pushing back against plans to force Huawei out of Europe’s mobile networks.\n\n- Author: Wirefly\n- Posted: 2026-11-13T06:21:03+00:00\n- Shared link: T-Mobile’s Parent Company Vows to Fight Europe",
    "published": "Fri, 13 Nov 2026 06:21:03 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US trial of Chinese tech giant Huawei nears end | AP News",
-   "url": "https://apnews.com/article/huawei-trade-secrets-china-75cd54a3a8c17717f1da4895c34e4a03",
-   "snippet": "Huawei is the world’s largest supplier of gear for wireless telecom networks, but it is not allowed to sell equipment to U.S. carriers over fears it poses a security risk. It has also been blacklisted by other Western allies, including Canada and Britain.\n\nHeberlig credited Huawei’s remarkable growth to its success in engineering, investment, innovation and competition. [...] Signs promoting 5G wi",
-   "published": "Tue, 17 Nov 2026 21:51:38 GMT",
    "source": "tavily"
   },
   {
@@ -48,6 +34,13 @@
    "url": "https://tavily.com/knowledge/company/HJhEDlCVdmjm",
    "snippet": "# Huawei\nID: HJhEDlCVdmjm\nWebsite: www.huawei.com\nLegal name: Huawei Technologies Co. Ltd\nHeadquarters: Shenzhen, Guangdong, China\nLinkedIn: www.linkedin.com/company/huawei · 5,491,486 followers\nIndustry: Telecommunications\nCompany type: Privately Held\nBusiness model: B2B, B2C\nSaaS: no\nSocial profiles: www.facebook.com/huawei, www.twitter.com/huawei, www.crunchbase.com/organization/huawei, www.ins",
    "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "Diversification through the lens of resilience",
+   "url": "https://www.iiss.org/online-analysis/online-analysis/2026/11/diversification-through-the-lens-of-resilience",
+   "snippet": "#### Functional Cookies\n\n- [x] Functional Cookies \n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\n#### Targeting Cookies\n\n- [x] Targeting Cookies [...] When you visit a",
+   "published": "Wed, 18 Nov 2026 17:00:00 GMT",
    "source": "tavily"
   }
  ],
