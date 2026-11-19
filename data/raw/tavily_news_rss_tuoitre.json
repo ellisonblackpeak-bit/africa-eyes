@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Nhìn vào thiên nhiên, soi lại mình",
+   "url": "https://tuoitre.vn/nhin-vao-thien-nhien-soi-lai-minh-100261119164627675.htm",
+   "content": "Hơn 70 bức tranh vẽ thiên nhiên vừa hoang sơ vừa hùng tráng của thung lũng Bắc Sơn (tỉnh Lạng Sơn) và Phong Nha (Quảng Bình) lấp đầy phòng tranh Hanoi Aqua Central (44 Yên Phụ, Hà Nội) một không khí thanh bình quý giá giữa đô thị ồn ã.",
+   "published_date": "11/19/2026 8:53:00 PM",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
