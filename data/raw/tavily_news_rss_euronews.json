@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Alleged Russian agent arrested for spying on Silicon Valley tech firm",
+   "url": "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm",
+   "content": "The company was not named in the indictment but was described as a large, publicly traded technology and defence firm with offices across the US, including in Palo Alto, California.",
+   "published_date": "Wed, 18 Nov 2026 23:05:07 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion",
+   "url": "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
+   "content": "The Salvadoran president welcomes the destruction of the home of Jeff Larose, one of Haiti's main crime leaders. It is not clear whether Jeff was in the building during the bombing.",
+   "published_date": "Wed, 18 Nov 2026 22:58:48 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US Defence Secretary announces military cooperation in surprise Caracas visit",
+   "url": "https://www.euronews.com/2026/11/18/us-defence-secretary-announces-military-cooperation-in-surprise-caracas-visit",
+   "content": "The US Defence Secretary met Delcy Rodríguez in Caracas ahead of a planned visit to Colombia, where he is due to discuss bilateral security cooperation.",
+   "published_date": "Wed, 18 Nov 2026 22:02:43 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
    "url": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
    "content": "The New York Democrat secured 251 votes in favour and 11 against, but faces pressure from progressive lawmakers demanding commitments on healthcare, immigration and other key issues.",
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/2026/11/18/democrat-mary-peltola-unseats-republican-and-flips-us-senate-seat-in-tight-race-in-alaska",
    "content": "Democrats will control 56 seats in the 100-seat Senate which will give them the power to block legislation, launch broad investigations into Trump's administration and thwart his judicial and senior government appointments.",
    "published_date": "Wed, 18 Nov 2026 07:18:02 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 18th, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Wed, 18 Nov 2026 07:00:32 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "China's Xi and Russia's Putin hold talks on eve of three-way summit with Trump",
-   "url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump",
-   "content": "Chinese President Xi Jinping and Russian President Vladimir Putin are holding talks in Shenzhen, a day before a first-of-its-kind trilateral summit with US President Donald Trump in the southern Chinese city.",
-   "published_date": "Wed, 18 Nov 2026 06:32:27 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "US criticises Ukraine's 'deep strike' campaign against Russia",
-   "url": "https://www.euronews.com/2026/11/17/us-criticises-ukraines-deep-strike-campaign-against-russia",
-   "content": "German Defence Minister Boris Pistorius called the US' warning \"quite a stupid thing,\" while his British counterpart Wes Streeting said there was \"no doubt\" in his mind that Ukraine's long-range strikes had \"helped to degrade Putin's war machine.\"",
-   "published_date": "Tue, 17 Nov 2026 23:34:29 +0100",
    "score": 0.6
   }
  ],
