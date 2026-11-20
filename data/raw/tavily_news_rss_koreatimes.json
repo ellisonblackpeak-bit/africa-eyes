@@ -1,0 +1,26 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Nasdaq falls as Anthropic fails to rekindle AI optimism",
+   "url": "https://www.koreatimes.co.kr/world/20261121/nasdaq-falls-as-anthropic-fails-to-rekindle-ai-optimism",
+   "content": "Tumbling technology-related shares led a global stock selloff on Friday, with U.S. traders rotating into defensive sectors and the U.S. 10-year yield dropping by the most in a month. Stock benchmarks in Japan and Korea tumbled over 5 percent overnight to close the week, while on Wall Street chipmaker shares were down close to 6 percent. Taiwanese shares were down 17 percent for the week, their biggest weekly decline since 1990. Anthropic fell as much as 12.5 percent on its first full day of trading. Consumer staples and healthcare led sector gains on the S&P 500, which was still on track to post its largest weekly loss since March 2025. \"Markets are entering a more defensive phase,\" said Daniela Hathorn, senior market analyst at Capital.com. \"Strong AI demand and successful individual listings are no longer sufficient to sustain broader risk appetite when investors are questioning valuat",
+   "published_date": "Fri, 20 Nov 2026 19:07:02 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Love, conflict and the paradox of choice: Inside Korea's dating show boom",
+   "url": "https://www.koreatimes.co.kr/entertainment/20261121/love-conflict-and-the-paradox-of-choice-inside-koreas-dating-show-boom",
+   "content": "At a park along the Skagit Riverwalk in Mount Vernon, Washington, a man in a white dress shirt sat on a bench, holding three tulips. He was waiting for his “wife.” She traveled from Busan to Incheon International Airport before embarking on an 11-hour flight to the United States, barely sleeping at all during the journey. “Are you hungry? Are you? This is so awkward.” When she finally arrived, he appeared flustered and unsure of what to say. There was a good reason for his awkwardness: It was the first time the two had ever met. The man was Sang-cheol, a contestant on the 16th season of the dating reality show “I Am Solo,” and the woman was Young-sook, a contestant from its 28th season. The two recently began living together as a married couple on “Marriage of Convenience,” a reality show released on KBS Joy, MBC every1 and Netflix. The premise is that a man and a woman first live togeth",
+   "published_date": "Fri, 20 Nov 2026 19:07:02 GMT",
+   "score": 0.6
+  }
+ ],
+ "engine": "rss",
+ "_tag": "rss_koreatimes",
+ "_query": "https://www.koreatimes.co.kr/www/rss/rss.xml",
+ "_domains": [
+  "koreatimes.co.kr"
+ ],
+ "_days": 3
+}

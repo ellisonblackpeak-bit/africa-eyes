@@ -23,34 +23,6 @@
    "score": 0.6
   },
   {
-   "title": "Reactor components completed for El Dabaa 1",
-   "url": "https://www.world-nuclear-news.org/articles/reactor-components-completed-for-el-dabaa-1",
-   "content": "All the key components have now been manufactured for the first unit’s reactor at Egypt's El Dabaa Nuclear Power Plant.",
-   "published_date": "Fri, 06 Nov 2026 11:35:39 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "X-energy selects Fluor for second Xe-100 project",
-   "url": "https://www.world-nuclear-news.org/articles/x-energy-selects-fluor-for-second-xe-100-project",
-   "content": "Fluor Corporation is to provide design and engineering services to support the second-of-a-kind US project featuring X-energy's Xe-100, at Energy Northwest's proposed Cascade Advanced Energy Facility near Richland, Washington.",
-   "published_date": "Fri, 06 Nov 2026 11:49:50 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Calogena awarded EU funding for SMR deployment",
-   "url": "https://www.world-nuclear-news.org/articles/calogena-awarded-eu-funding-for-smr-deployment",
-   "content": "French small modular reactor developer Calogena has been awarded EUR40 million (USD44.6 million) through the European Commission's Innovation Fund to support the potential construction of its first commercial nuclear reactor in Pierrelatte, in southern France.",
-   "published_date": "Fri, 06 Nov 2026 12:31:41 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Construction of Chinese HTGR begins",
-   "url": "https://www.world-nuclear-news.org/articles/construction-of-chinese-htgr-begins",
-   "content": "The first batch of concrete has been poured for the nuclear island of the high-temperature gas-cooled reactor that forms part of the initial phase of the Jiangsu Xuwei Nuclear Heating and Power Plant, China National Nuclear Corporation has announced.",
-   "published_date": "Fri, 06 Nov 2026 12:47:01 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Concrete work completed for Akkuyu 4's turbine unit",
    "url": "https://www.world-nuclear-news.org/articles/concrete-work-completed-for-akkuyu-4s-turbine-unit",
    "content": "More than 2,240 cubic metres of concrete was used to complete the turbine building foundation for Turkey's Akkuyu Nuclear Power Plant's fourth unit.",
@@ -194,7 +166,14 @@
    "title": "South Africa moving ahead on new nuclear plans",
    "url": "https://www.world-nuclear-news.org/articles/south-africa-moving-ahead-on-new-nuclear-plans",
    "content": "Energy Minister Kgosientsho Ramokgopa has said his department is preparing to put the case for an additional 5.2 GW of nuclear capacity in South Africa \"before the public and will consider submissions on their merits\".",
-   "published_date": "Fri, 20 Nov 2026 13:04:09 GMT",
+   "published_date": "Fri, 20 Nov 2026 14:11:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Partners prepare to procure next batch of equipment for Polish plant",
+   "url": "https://www.world-nuclear-news.org/articles/partners-prepare-to-procure-next-batch-of-equipment-for-polish-plant",
+   "content": "Polskie Elektrownie Jądrowe has signed a letter of intent with the Westinghouse-Bechtel consortium concerning the extension of the scope of the Engineering Development Agreement to cover activities related to the procurement of long lead items for the initial unit of Poland's planned first nuclear power plant.",
+   "published_date": "Fri, 20 Nov 2026 16:00:58 GMT",
    "score": 0.6
   },
   {
@@ -209,6 +188,27 @@
    "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-return-to-operation-after-three-months",
    "content": "Nuclearelectrica and the Romanian government are working on long-term solutions to avoid a repeat of the Cernavodă units being shut down because of drought causing abnormally low water levels in the Danube.",
    "published_date": "Mon, 09 Nov 2026 14:13:35 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US issues landmark construction permit for Texas SMR plant",
+   "url": "https://www.world-nuclear-news.org/articles/us-issues-landmark-construction-permit-for-texas-smr-plant",
+   "content": "The US Nuclear Regulatory Commission has issued a construction permit for the proposed plant featuring four Xe-100 small modular reactor units at Dow's Seadrift site - the first construction permit for a high-temperature gas-cooled reactor issued in the USA in nearly 60 years.",
+   "published_date": "Tue, 10 Nov 2026 15:56:26 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "IAEA reviews Jordan's nuclear regulatory framework",
+   "url": "https://www.world-nuclear-news.org/articles/iaea-reviews-jordans-nuclear-regulatory-framework",
+   "content": "Jordan has a \"well-established regulatory framework for nuclear and radiation safety\", an International Atomic Energy Agency mission has said, while also suggesting further enhancements in line with international safety standards.",
+   "published_date": "Wed, 11 Nov 2026 08:49:55 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "US test reactor cleared for operations",
+   "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+   "content": "Oklo's Groves Isotope Test Reactor has been cleared for unrestricted operations by the US Department of Energy.",
+   "published_date": "Thu, 12 Nov 2026 07:30:09 GMT",
    "score": 0.6
   }
  ],

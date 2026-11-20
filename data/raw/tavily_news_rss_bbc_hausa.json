@@ -2,10 +2,31 @@
  "success": true,
  "results": [
   {
-   "title": "An gina yaƙin Iran a kan ƙarya - Bernie Sanders",
+   "title": "Ƙasashe 10 da za su fi yawan Musulmai a duniya nan da 2050",
+   "url": "https://www.bbc.com/hausa/articles/cv0l3194wrrko?at_medium=RSS&at_campaign=rss",
+   "content": "Tsakanin shekarar 2020 da 2070, ana sa ran yawan Musulmi zai ƙaru da kaso 80 cikin 100, daga biliyan 2.02 zuwa biliyan 3.64.",
+   "published_date": "Fri, 20 Nov 2026 11:36:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ƴan ƙasarmu na da ra'ayin mu mallaki makamin nukiliya - Iran",
    "url": "https://www.bbc.co.uk/hausa/live/c6702w9llqg8t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 20/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa masu gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?",
+   "url": "https://www.bbc.com/hausa/articles/cqpv9488v29do?at_medium=RSS&at_campaign=rss",
+   "content": "Me ya sa maMe ya sa masu gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?su gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?",
+   "published_date": "Fri, 20 Nov 2026 17:08:53 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda aka kashe kusan mata 600 cikin watanni uku a Afirka ta Kudu",
+   "url": "https://www.bbc.com/hausa/articles/cm0evg7jj23po?at_medium=RSS&at_campaign=rss",
+   "content": "Yadda aka kashe kusan mata 600 cikin watanni uku a Afirka ta Kudu",
+   "published_date": "Fri, 20 Nov 2026 15:59:48 GMT",
    "score": 0.6
   },
   {
@@ -20,13 +41,6 @@
    "url": "https://www.bbc.com/hausa/articles/c3x29jn1qre5o?at_medium=RSS&at_campaign=rss",
    "content": "A fagen Tijjaniyya kuwa, Sheikh Ibrahim Inyass ya taka muhimmiyar rawa wajen faɗaɗa ɗarikar, inda koyarwarsa ta \"Faidha Tijjaniyya\" ta jawo miliyoyin mabiyansa a Afirka da sauran wurare.",
    "published_date": "Fri, 20 Nov 2026 03:57:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Barcelona na zawarcin Martinez, Manchester United na neman Robinson",
-   "url": "https://www.bbc.com/hausa/articles/cw99enplllexo?at_medium=RSS&at_campaign=rss",
-   "content": "Barcelona na sha'awar Lisandro Martinez, yayin da Manchester United ke zawarcin ƴan wasan baya biyu na Fulham, ita kuma Liverpool ta sanya ido kan wanda ya fi kowa zura ƙwallaye a gasar Serie A.",
-   "published_date": "Fri, 20 Nov 2026 03:57:01 GMT",
    "score": 0.6
   },
   {
@@ -51,20 +65,6 @@
    "score": 0.6
   },
   {
-   "title": "Yadda aka yi wa Musulman Rohingya kisan ƙare-dangi - ICJ",
-   "url": "https://www.bbc.com/hausa/articles/cw33g7e1jvnzo?at_medium=RSS&at_campaign=rss",
-   "content": "Babu wata jiha da kotun duniya ta taɓa samunta da laifin aikata kisan kare dangi.",
-   "published_date": "Thu, 19 Nov 2026 17:21:38 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Hanyoyi 7 da suka kamata a bi don kauce wa rikici a zaɓen Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/ck24e7664dlpo?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da Najeriya ke tunkarar babban zaɓen shekarar 2027, tambayar da ke ƙara ɗaukar hankali ita ce yadda za a gudanar da zaɓen cikin lumana, ba tare da an samu asarar rayuka ko dukiyoyi ba.",
-   "published_date": "Thu, 19 Nov 2026 03:53:58 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Sauke manhaja",
    "url": "https://www.bbc.com/hausa/articles/c68xkyvg0n81o?at_medium=RSS&at_campaign=rss",
    "content": "Mahnajar BBC World News za ta ba ku damar samun labaran duniya da na cikin gida da ɗumi-ɗumi.",
@@ -76,6 +76,20 @@
    "url": "https://www.bbc.co.uk/hausa/live/c6p9dn05777kt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 16 zuwa 22 ga watan Nuwambar 2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Barcelona na zawarcin Martinez, Manchester United na neman Robinson",
+   "url": "https://www.bbc.com/hausa/articles/cw99enplllexo?at_medium=RSS&at_campaign=rss",
+   "content": "Barcelona na sha'awar Lisandro Martinez, yayin da Manchester United ke zawarcin ƴan wasan baya biyu na Fulham, ita kuma Liverpool ta sanya ido kan wanda ya fi kowa zura ƙwallaye a gasar Serie A.",
+   "published_date": "Fri, 20 Nov 2026 03:57:01 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ƙungiyoyin da suka yi ƙaurin suna wajen korar kociyoyi a Ingila",
+   "url": "https://www.bbc.com/hausa/articles/cm36g12exgp6o?at_medium=RSS&at_campaign=rss",
+   "content": "Akwai kungiyoyi da dama da suka yi kaurin suna wajen sallamar kociyoyi idan aka auna tun daga shekarar 2000 zuwa yanzu. Ga jerin wadanda suka fi korar koci a Ingila da dalilan da ke haddasa sauye-sauyen.",
+   "published_date": "Sun, 15 Nov 2026 12:17:13 GMT",
    "score": 0.6
   },
   {
@@ -93,17 +107,17 @@
    "score": 0.6
   },
   {
-   "title": "Ƙungiyoyin da suka yi ƙaurin suna wajen korar kociyoyi a Ingila",
-   "url": "https://www.bbc.com/hausa/articles/cm36g12exgp6o?at_medium=RSS&at_campaign=rss",
-   "content": "Akwai kungiyoyi da dama da suka yi kaurin suna wajen sallamar kociyoyi idan aka auna tun daga shekarar 2000 zuwa yanzu. Ga jerin wadanda suka fi korar koci a Ingila da dalilan da ke haddasa sauye-sauyen.",
-   "published_date": "Sun, 15 Nov 2026 12:17:13 GMT",
+   "title": "Yadda aka yi wa Musulman Rohingya kisan ƙare-dangi - ICJ",
+   "url": "https://www.bbc.com/hausa/articles/cw33g7e1jvnzo?at_medium=RSS&at_campaign=rss",
+   "content": "Babu wata jiha da kotun duniya ta taɓa samunta da laifin aikata kisan kare dangi.",
+   "published_date": "Thu, 19 Nov 2026 17:21:38 GMT",
    "score": 0.6
   },
   {
-   "title": "United na harin Bassey da Collins, AC Milan na zawarcin Endrick",
-   "url": "https://www.bbc.com/hausa/articles/cmze7377rx8zo?at_medium=RSS&at_campaign=rss",
-   "content": "Manchester United na harin ɗan wasan Fulham Calvin Bassey, da ɗan wasan Brentford Nathan Collins, yayin da AC Milan ke son aro Endrick , sai wasu ƙungiyoyin Firimiya da ke zawarcin Nico Paz.",
-   "published_date": "Mon, 16 Nov 2026 03:50:07 GMT",
+   "title": "Hanyoyi 7 da suka kamata a bi don kauce wa rikici a zaɓen Najeriya",
+   "url": "https://www.bbc.com/hausa/articles/ck24e7664dlpo?at_medium=RSS&at_campaign=rss",
+   "content": "Yayin da Najeriya ke tunkarar babban zaɓen shekarar 2027, tambayar da ke ƙara ɗaukar hankali ita ce yadda za a gudanar da zaɓen cikin lumana, ba tare da an samu asarar rayuka ko dukiyoyi ba.",
+   "published_date": "Thu, 19 Nov 2026 03:53:58 GMT",
    "score": 0.6
   },
   {
@@ -195,20 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmz6ql6wd65qo?at_medium=RSS&at_campaign=rss",
    "content": "A addinin Musulunci, ba namiji kaɗai ne yake da damar neman a raba aure ba. Mace ma tana da wannan dama, idan ta ga cewa ba za ta iya ci gaba da rayuwar aure da mijinta ba, ko kuma tana fargabar kasa sauke haƙƙoƙin aure da Allah Ya ɗora mata.",
    "published_date": "Tue, 17 Nov 2026 16:00:19 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Shin ya kamata mu riƙa tattauna sirrin rayuwarmu da AI?",
-   "url": "https://www.bbc.com/hausa/articles/ckn80g5vyjwzo?at_medium=RSS&at_campaign=rss",
-   "content": "Akwai wadanda har batutuwan da suka shafi soyayyarsu ko zamantakewar aure suke tattaunawa da fasahar AI, ko shawarar neman aiki da kasuwanci ko yunƙurin aikata laifi.",
-   "published_date": "Tue, 17 Nov 2026 17:18:28 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Shin da gaske gwamnan Kano ya rabu da matarsa Zainab Kwankwaso?",
-   "url": "https://www.bbc.com/hausa/articles/c60qj0y4zn9go?at_medium=RSS&at_campaign=rss",
-   "content": "Kalaman nasa na zuwa ne a daidai lokacin da jaridar Daily Nigerian da wasu kafafen yada labarai suka ruwaito a ƙarshen mako cewa Zainab ta shigar da ƙarar neman a raba aurensu a wata kotu da ke Abuja.",
-   "published_date": "Tue, 17 Nov 2026 09:18:36 GMT",
    "score": 0.6
   }
  ],

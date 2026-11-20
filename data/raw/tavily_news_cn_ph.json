@@ -2,24 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "Chinese firm commits $87M to develop facility in Batangas",
-   "url": "https://www.facebook.com/gmanews/posts/chinese-firm-commits-87m-to-develop-facility-in-batangas/1792545626250420",
-   "snippet": "Gezhouba will be the second Chinese company to establish major presence in the Philippines … agreed on $15 billion or P789 billion worth of infrastructure",
-   "published": "",
-   "source": "tavily"
-  },
-  {
-   "title": "Chinese bearing maker commits initial $87-M investment in Batangas plant | Philippine News Agency",
-   "url": "https://www.pna.gov.ph/article/chinese-bearing-maker-commits-initial-87-m-investment-in-batangas-plant",
-   "snippet": "SHENZHEN, China – Chinese bearing manufacturer C&U Group has committed an initial USD87 million investment to establish a 20-hectare manufacturing facility in Alitagtag, Batangas.\n\nPresident Ferdinand R. Marcos Jr. met with C&U Group executives on Friday after his participation in the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting to discuss the company's plan to build a f",
-   "published": "Fri, 20 Nov 2026 07:40:23 GMT",
-   "source": "tavily"
-  },
-  {
    "title": "Pax Silica means peace. In the Philippines, it’s a fight",
    "url": "https://www.scmp.com/week-asia/economics/article/3374368/pax-silica-means-peace-philippines-its-fight",
    "snippet": "“Pax Silica” technology hub near a former American military base in Luzon, with the aim of luring chipmakers and other strategic industries away from China-centred supply chains.\n\nIts backers say the project will inject billions of dollars into the Philippine economy and create hundreds of thousands of jobs. Indigenous communities, farmers and environmental groups ask who truly benefits, as key qu",
    "published": "Sat, 14 Nov 2026 00:00:08 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "New Factory, New Jobs for Batangas as Chinese Parts Maker Plans US ...",
+   "url": "https://pco.gov.ph/news_releases/new-factory-new-jobs-for-batangas-as-chinese-parts-maker-plans-us87-million-plant-in-alitagtag",
+   "snippet": "The proposed facility could create jobs for Filipino workers in manufacturing, machine operations, equipment maintenance, quality control and other technical",
+   "published": "Fri, 20 Nov 2026 13:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -30,30 +23,30 @@
    "source": "tavily"
   },
   {
+   "title": "Philippines' First Subway Project Reaches Major Milestone | Japan Forward",
+   "url": "https://japan-forward.com/philippines-first-subway-project-reaches-major-milestone",
+   "snippet": "As China continues to expand its presence in Southeast Asia's infrastructure market, Japan is seeking to strengthen its position by leveraging its advanced technology and high construction standards. Japanese companies continue to secure major infrastructure contracts in the Philippines. [...] Rei Date of the Japan International Cooperation Agency (JICA) Philippine Office said, \"We have provided c",
+   "published": "Fri, 20 Nov 2026 01:56:42 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "Protests against planned AI hub in Philippines flare ahead of Trump's visit - CBS News",
    "url": "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub",
    "snippet": "In the opening salvo for Pax Silica, a U.S. State Department-led international initiative to secure non-Chinese supply chains for high-tech manufacturing, a more than 4,000-acre manufacturing hub is planned to be built in the Philippines.\n\nProtesters in Manila on Monday held signs reading \"Trump Out,\" drawings of him as a clown or a devil, and signs calling on the public to reject the Pax Silica i",
-   "published": "Tue, 17 Nov 2026 09:00:00 GMT",
+   "published": "Mon, 16 Nov 2026 19:00:00 GMT",
    "source": "tavily"
   },
   {
-   "title": "Filipino businesses gain more opportunities as PH and China ...",
-   "url": "https://asean2026.gov.ph/post/view?title=filipino-businesses-gain-more-opportunities-as-ph-and-china-deepen-trade-ties",
-   "snippet": "Filipino businesses stand to gain more trade and investment opportunities as the Philippines and China strengthen economic cooperation with other Southeast",
-   "published": "Tue, 17 Nov 2026 09:00:00 GMT",
+   "title": "A Trump Project Could Displace Thousands of Indigenous Filipinos. ...",
+   "url": "https://www.portlandmercury.com/news/a-trump-project-could-displace-thousands-of-indigenous-filipinos-a-portland-fossil-fuel-terminal-operator-is-part-of-it",
+   "snippet": "The Philippine government estimates that Pax Silica could bring up to $70 billion in investment and create roughly 200,000 jobs. But opponents argue the US has",
+   "published": "Tue, 17 Nov 2026 19:00:00 GMT",
    "source": "tavily"
   },
   {
-   "title": "China-linked hackers targeted PH execs ahead of summit – report",
-   "url": "https://globalnation.inquirer.net/348548/china-linked-hacking-group-targeted-ph-execs-ahead-of-summit-report",
-   "snippet": "American and French authorities have accused the Chinese government of paying and sponsoring Mustang Panda to develop and deploy malicious tools, including PlugX, to gather intelligence from other governments.\n\nIn May 2024, the Inquirer, citing information from cybersecurity company Trend Micro, reported Mustang Panda and Earth Estries, another China-based hacking group, as the “primary bad actors",
-   "published": "Wed, 18 Nov 2026 05:45:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Hello! I'm currently accepting project-based translation and interpretation ...",
-   "url": "https://www.facebook.com/groups/391268453305015/posts/1018854327213088",
-   "snippet": "I'm currently accepting project-based translation and interpretation work, especially for urgent or on-call needs. I'm fluent in Mandarin Chinese, English,",
+   "title": "Chinese manufacturing company C&U Group on Friday committed an ...",
+   "url": "https://www.facebook.com/GanireSaBatangas/posts/chinese-manufacturing-company-cu-group-on-friday-committed-an-initial-us87-milli/1586586216846268",
+   "snippet": "Chinese manufacturing company C&U Group on Friday committed an initial US$87 million to develop a 20- hectare facility for the production of bearing components",
    "published": "",
    "source": "tavily"
   }

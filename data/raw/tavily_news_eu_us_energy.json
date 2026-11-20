@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "US LNG Feedgas Hits 21.2 Bcf/d as Europe Takes Bigger Share of Cargoes",
+   "url": "https://naturalgasintel.com/news/us-lng-feedgas-hits-212-bcfd-as-europe-takes-bigger-share-of-cargoes",
+   "snippet": "- 21.2 Bcf/d: US LNG feedgas nominations climbed to 21.2 Bcf/d Sunday, the highest daily level in NGI’s Entropic Analytics data going back to January 2025. The increase has extended beyond a single day. US export terminals have drawn an average of 20.3 Bcf/d so far in November, up about 1.7 Bcf/d from the same stretch last year. Freeport LNG has contributed to the strength, with intake holding nea",
+   "published": "Thu, 19 Nov 2026 19:00:00 GMT",
+   "source": "tavily"
+  },
+  {
+   "title": "US gas exporters more comfortable signing European deals after EU delays methane regulation | live",
+   "url": "https://live.euronext.com/en/financial-news/us-gas-exporters-more-comfortable-signing-european-deals-after-eu-delays-methane",
+   "snippet": "The United States has become Europe's largest liquefied natural gas supplier, with its export capacity of roughly 160 million tons per annum expected to double over the next eight years. [...] During the P-TEC conference the US and US-based companies signed agreements and memoranda of understanding with Montenegro, Albania, Hungary's 4iG group, Poland's Orlen, and are finalising a long-term agreem",
+   "published": "Thu, 19 Nov 2026 14:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "US expands its European energy ties at P-TEC conference in Warsaw",
    "url": "https://balkangreenenergynews.com/us-expands-its-european-energy-ties-at-p-tec-conference-in-warsaw",
    "snippet": "On that note, a major highlight of the two-day meeting was the formal start of US-based Venture Global’s long-term deliveries of American LNG to Poland. The quantities are equivalent to a third of Poland’s annual natural gas demand, Wright noted. [...] ## Central and Eastern and Southeastern European nations are eager to deepen their energy links with the United States, in a continued regional shi",
@@ -9,16 +23,9 @@
    "source": "tavily"
   },
   {
-   "title": "U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Flows-Hit-Record-High-as-Global-Gas-Supply-Crisis-Deepens.html",
-   "snippet": "Increased U.S. LNG exports could be some relief to the strained European market, which faces the winter without Qatari supply, a ban on Russian LNG imports as of January 1, 2027, and the lowest level of gas in storage sites ahead of winter proper. [...] Europe remains in a vulnerable gas supply position ahead of winter as LNG flows from the Strait of Hormuz are still way below pre-war levels and Q",
-   "published": "Mon, 16 Nov 2026 12:30:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "US LNG Exporters Find Few Takers in Europe for New Supply",
-   "url": "https://energynow.com/2026/06/us-lng-exporters-find-few-takers-in-europe-for-new-supply?amp=",
-   "snippet": "US liquefied natural gas developers expected Europe to become the cornerstone market for the next generation of export projects.",
+   "title": "US gas exporters more comfortable signing European deals after EU ...",
+   "url": "https://www.reuters.com/business/energy/us-gas-exporters-more-comfortable-signing-european-deals-after-eu-delays-methane-2026-11-19",
+   "snippet": "The United States has become Europe's largest liquefied natural gas supplier, with its ​export capacity of roughly 160 million tons per annum expected",
    "published": "Thu, 19 Nov 2026 19:00:00 GMT",
    "source": "tavily"
   },
@@ -30,24 +37,17 @@
    "source": "tavily"
   },
   {
+   "title": "More U.S. LNG Cargoes Divert to Europe in Relief for Tight Market",
+   "url": "https://gcaptain.com/more-u-s-lng-cargoes-divert-to-europe-in-relief-for-tight-market",
+   "snippet": "### Russia Takes Control of Two Chinese Heavy-Lift Ships Used for Arctic LNG 2 Deliveries\n\nRussia has taken control of two modern heavy-lift carriers previously involved in transporting equipment for the sanctioned Arctic LNG 2 project, adding specialized project cargo vessels to an expanding network of shipping assets supporting the country's Arctic energy ambitions.",
+   "published": "Wed, 18 Nov 2026 17:58:30 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "European Gas Security: A Survival Guide for This Winter - Center on Global Energy Policy at Columbia University SIPA | CGEP %",
    "url": "https://www.energypolicy.columbia.edu/european-gas-security-a-survival-guide-for-this-winter",
    "snippet": "countries (besides coal) as refined products are often even more expensive. Trends in China deserve close attention given the decline in Chinese LNG imports in 2026 so far. Chinese companies resell contracted LNG cargoes – notably from the US – to other countries amid sluggish domestic gas demand, strong domestic production and tariffs on US LNG imports. However, China’s National Energy Administra",
-   "published": "Thu, 19 Nov 2026 20:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "European gas market analysis and fundamentals | Montel",
-   "url": "https://montel.energy/platforms/european-gas-market-intelligence",
-   "snippet": "Access integrated geopolitical market commentary focused on LNG markets, infrastructure developments, energy security and strategic supply risks affecting European gas markets.\n\n### Understand Europe’s competitiveness for global LNG\n\nCompare market economics to assess how attractive European markets are relative to alternative LNG destinations.\n\nProduct walkthrough\n\n## See Montel Gas in action\n\nDa",
-   "published": "Thu, 19 Nov 2026 16:00:00 GMT",
-   "source": "tavily"
-  },
-  {
-   "title": "Why Europe and Asia don't need Canadian LNG for energy security",
-   "url": "https://www.iisd.org/events/Canadas-lng-subsidies-Europe-asia-energy-security",
-   "snippet": "Boosting Canadian liquefied natural gas (LNG) will not improve energy security in East and South Asia and Western Europe. In this webinar, experts explore",
-   "published": "Tue, 17 Nov 2026 09:00:00 GMT",
+   "published": "Thu, 19 Nov 2026 21:00:00 GMT",
    "source": "tavily"
   },
   {
@@ -58,10 +58,10 @@
    "source": "tavily"
   },
   {
-   "title": "U.S. Department of Energy",
-   "url": "https://www.facebook.com/energy/posts/american-lng-is-powering-america-and-fueling-the-world-expanding-us-lng-producti/1444286264527525",
-   "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n## U.S. Department of Energy's Post\n\n  \n\n\n\n•State low-carbon fuel standards, cap-and-trade, and high fuel taxes (especially California)\n\n•EV and fuel-efficiency mandates that raise compliance costs and pressure refining investment\n\n••Electricity\n\n•Aggressive Renewable Portfolio Standards and 100% clean-energy mandates\n\nForced early retirements of coal and nuclear p",
-   "published": "",
+   "title": "Europe Should Stop Closing Power Plants, Says U.S. Energy Secretary Wright - WSJ",
+   "url": "https://www.wsj.com/world/europe/u-s-energy-chief-urges-western-europe-to-pivot-to-power-expansion-e75d8bfe",
+   "snippet": "Speaking at the U.S.-led Partnership for Transatlantic Energy Cooperation conference in Warsaw, Wright said Western European nations have done too little to grow their energy resources. Too often they have celebrated the closure of power plants as they target lower carbon-dioxide emissions while failing to expand their energy mix, he said.\n\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Rese",
+   "published": "Wed, 18 Nov 2026 10:34:00 GMT",
    "source": "tavily"
   }
  ],

@@ -1,6 +1,21 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "PBA great PJ Simon, the ‘Scoring Apostle,’ dies at 46",
+   "url": "https://www.rappler.com/people/obituary/pba-great-pj-simon-dies/",
+   "content": "Philippine basketball mourns the sudden passing of former PBA star PJ Simon, who died after collapsing during a game",
+   "published_date": "Sat, 21 Nov 2026 00:50:00 +0800",
+   "score": 0.6
+  },
+  {
+   "title": "1 in 8 Filipino students were vape users in 2024 – DOH",
+   "url": "https://www.rappler.com/philippines/filipino-students-tried-vape-doh-global-youth-tobacco-survey-2024/",
+   "content": "(1st UPDATE) Some users of e-cigarettes in the Philippines were only 7 years old when they started vaping, the 2024 Global Tobacco Survey finds",
+   "published_date": "Fri, 20 Nov 2026 23:15:41 +0800",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",
