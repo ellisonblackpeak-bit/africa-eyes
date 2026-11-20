@@ -2,9 +2,30 @@
  "success": true,
  "results": [
   {
+   "title": "China's Xi praises 'turnaround' in relationship with Australia",
+   "url": "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229?maca=en-rss-en-world-4025-rdf",
+   "content": "The leaders of Australia and China have held talks on sidelines of APEC summit. Australian PM Anthony Albanese is also slated to meet Chinese Premier Li Qiang.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "White House replaces cyber security chief after tech outages",
+   "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-world-4025-rdf",
+   "content": "Sean Cairncross is leaving his role as national cyber director after a chaotic week of tech outages. Kirsten Davies, the Pentagon's chief information officer, will assume the position in an acting capacity.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
    "url": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
    "content": "Russian President Putin has proposed an evacuation of the Ukrainian city of Kostiantynivka, like the recent operation in Oleshky. Experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Uganda minister at COP31: 'We need a just transition'",
+   "url": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-world-4025-rdf",
+   "content": "Funding from wealthy countries to help deal with the impacts of climate change hasn't materialized, says Uganda's environment minister. The East African country is hoping oil and carbon credits will help boost finances.",
    "published_date": "",
    "score": 0.6
   },
@@ -61,27 +82,6 @@
    "title": "Almost 1 in 4 children live in conflict zones — report",
    "url": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-world-4025-rdf",
    "content": "Denial of humanitarian access, abductions and sexual violence are among several violations against children that have increased dramtically over the past year, according to a new report by Save the Children.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "North Korea expanded uranium enrichment plant, says IAEA head",
-   "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf",
-   "content": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "India: Online censorship grows after 'Cockroach' protests",
-   "url": "https://www.dw.com/en/india-online-censorship-grows-after-cockroach-protests/a-79976982?maca=en-rss-en-world-4025-rdf",
-   "content": "Since anti-government Cockroach protests erupted, journalists and creators say their content is increasingly being restricted on social media in India.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
-   "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
-   "content": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
    "published_date": "",
    "score": 0.6
   }

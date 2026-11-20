@@ -2,6 +2,69 @@
  "success": true,
  "results": [
   {
+   "title": "Fiona the hippo dies after swallowing a visitor's hat",
+   "url": "https://www.euronews.com/2026/11/20/fiona-the-hippo-dies-after-swallowing-a-visitors-hat",
+   "content": "Fiona, the Cincinnati Zoo's much-loved hippopotamus, has died after swallowing a knitted hat that became stuck in her digestive system. Vets made several attempts to remove the object but were unable to save the nine-year-old animal.",
+   "published_date": "Fri, 20 Nov 2026 10:29:48 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Video shows isolated Awá Indigenous people make contact with government team in Brazil",
+   "url": "https://www.euronews.com/2026/11/20/video-shows-isolated-awa-indigenous-people-make-contact-with-government-team-in-brazil",
+   "content": "Around 20 members of Brazil’s isolated Awá Indigenous group have approached a government outpost in the Amazon, asking for yams before returning to the forest. The rare encounter has raised concerns about their health and possible food shortages.",
+   "published_date": "Fri, 20 Nov 2026 10:17:17 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US: Protesters demand human control over AI after Anthropic's IPO",
+   "url": "https://www.euronews.com/video/2026/11/20/us-protesters-demand-human-control-over-ai-after-anthropics-ipo",
+   "content": "Protesters gathered outside Anthropic’s San Francisco headquarters on 19 November 2026 to demand tighter regulation and greater human control over artificial intelligence, following the company’s $2 trillion stock market debut.",
+   "published_date": "Fri, 20 Nov 2026 09:49:48 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Japan: The dark secret behind an island paradise full of rabbits",
+   "url": "https://www.euronews.com/video/2026/11/20/japan-the-dark-secret-behind-an-island-paradise-full-of-rabbits",
+   "content": "Hundreds of rabbits roam freely on Japan's Okunoshima Island, delighting visitors from around the world. But behind its idyllic scenery lies a troubling history of secret chemical weapons production.",
+   "published_date": "Fri, 20 Nov 2026 09:28:27 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Ukraine: Kyiv metro stations become overnight shelters amid air raids",
+   "url": "https://www.euronews.com/video/2026/11/20/ukraine-kyiv-metro-stations-become-overnight-shelters-amid-air-raids",
+   "content": "Residents of Kyiv, Ukraine, sought refuge in underground metro stations overnight on Thursday 19 November 2026, as repeated air raid alerts warned of further Russian attacks on the capital. Strikes on the Ukrainian capital killed at least one person, injured five and damaged two embassies.",
+   "published_date": "Fri, 20 Nov 2026 09:06:11 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "217-day underwater patrol of UK's nuclear submarine HMS Vengeance worries experts",
+   "url": "https://www.euronews.com/2026/11/20/217-day-underwater-patrol-of-uks-nuclear-submarine-hms-vengeance-worries-experts",
+   "content": "The Royal Navy's HMS Vengeance nuclear submarine has set a new record by completing a 217-day mission. For about seven months, the crew had almost no contact with the outside world.",
+   "published_date": "Fri, 20 Nov 2026 08:42:47 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "White House national cyber director fired after wave of tech outages",
+   "url": "https://www.euronews.com/2026/11/20/white-house-national-cyber-director-fired-after-wave-of-tech-outages",
+   "content": "The national cyber director is tasked with advising the president on cybersecurity policy and strategy, including information security and data protection as well as deterrence of \"malicious\" activity.",
+   "published_date": "Fri, 20 Nov 2026 08:03:40 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Latest news bulletin | November 20th, 2026 – Morning",
+   "url": "https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-morning",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Fri, 20 Nov 2026 07:00:32 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US sells first deep-sea mining leases off American Samoa, days after court ruled against process",
+   "url": "https://www.euronews.com/2026/11/20/us-sells-first-deep-sea-mining-leases-off-american-samoa-days-after-court-ruled-against-pr",
+   "content": "The Trump administration pressed ahead with the auction despite a federal judge’s finding that regulators broke wildlife protection law and conservation groups vowed to have the leases voided.",
+   "published_date": "Fri, 20 Nov 2026 06:19:16 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Ukraine: Russian strikes damage Austrian and Dutch embassies in Kyiv",
    "url": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv",
    "content": "Russian strikes damaged the Austrian and Dutch embassies in Kyiv on Thursday. Windows were shattered and vehicles damaged, but diplomatic staff escaped unharmed.",
@@ -25,7 +88,7 @@
   {
    "title": "New regional security architecture will also benefit Europe, Pakistani FM tells Euronews",
    "url": "https://www.euronews.com/2026/11/19/new-regional-security-architecture-will-also-benefit-europe-pakistani-fm-tells-euronews",
-   "content": "In an exclusive interview for Euronews’ World Conversation show, Pakistan’s deputy prime minister revealed the backstage efforts that led to the US-Israel agreement to end the war in June. He also outlined Pakistan's strategy towards a new regional security architecture in coordination with Europe.",
+   "content": "In an exclusive interview for Euronews’ World Conversation show, Pakistan’s Deputy Prime Minister revealed the backstage mediation that brought the US and Iran to agreement in June. He also outlined Pakistan's strategy towards a new regional security architecture in coordination with Europe.",
    "published_date": "Thu, 19 Nov 2026 20:17:35 +0100",
    "score": 0.6
   },
@@ -146,69 +209,6 @@
    "url": "https://www.euronews.com/2026/11/19/north-korea-expanding-original-uranium-enrichment-facility-un-nuclear-watchdog-says",
    "content": "The IAEA has not had access to Yongbyon or other locations in North Korea since the country kicked out the agency’s inspectors in 2009.",
    "published_date": "Thu, 19 Nov 2026 08:00:42 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Europe must make the EU–UK Security and Defence Partnership work",
-   "url": "https://www.euronews.com/2026/11/19/europe-must-make-the-euuk-security-and-defence-partnership-work",
-   "content": "'Europe’s security environment will not wait for perfect alignment. Our leaders should seize the opportunities within reach. Our industry needs them to do so,' write Micael Johansson and David Lockwood, senior representatives of the European aerospace, security and defence industries, in an op-ed.",
-   "published_date": "Thu, 19 Nov 2026 07:41:46 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Trilateral summit ends with 'peace declaration' but no mention of Ukraine and Iran",
-   "url": "https://www.euronews.com/2026/11/19/us-and-china-want-to-help-end-ukraine-war-trump-says-ahead-of-trilateral-with-russia",
-   "content": "The unprecedented trilateral summit ended with the US, Russian and Chinese leaders pledging cooperation on UN reforms, fuel supplies, nuclear risks in a joint written declaration, but no major breakthroughs were announced on the wars in Ukraine and Russia.",
-   "published_date": "Thu, 19 Nov 2026 07:33:02 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "France: Hundreds raise a glass to Beaujolais Nouveau in Lyon",
-   "url": "https://www.euronews.com/video/2026/11/19/france-hundreds-raise-a-glass-to-beaujolais-nouveau-in-lyon",
-   "content": "Lyon welcomed the arrival of Beaujolais Nouveau with a lively nighttime parade of wine barrels, flaming torches and brass music. Hundreds gathered to celebrate the first tastings of this year's wine.",
-   "published_date": "Thu, 19 Nov 2026 07:29:05 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 19th, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/11/19/latest-news-bulletin-november-19th-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Thu, 19 Nov 2026 07:00:33 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "China: Xi, Trump and Putin gather ahead of trilateral summit",
-   "url": "https://www.euronews.com/video/2026/11/19/china-xi-trump-and-putin-gather-ahead-of-trilateral-summit",
-   "content": "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin appeared together in Shenzhen, on Thursday 19 November 2026, posing for a group photograph alongside other world leaders ahead of a closely watched trilateral summit.",
-   "published_date": "Thu, 19 Nov 2026 06:44:59 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Zelenskyy says he expects debrief from US envoys on Trump’s talks with Xi and Putin",
-   "url": "https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin",
-   "content": "The US envoys told Kyiv they would give a debrief on the talks being held by Trump in China during meetings in Berlin on Thursday, Zelenskyy said.",
-   "published_date": "Thu, 19 Nov 2026 06:34:11 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Hegseth in Colombia to deepen anti-drug ties after surprise Venezuela stopover",
-   "url": "https://www.euronews.com/2026/11/19/hegseth-in-colombia-to-deepen-anti-drug-ties-after-surprise-venezuela-stopover",
-   "content": "Colombian Defense Minister Jorge Eduardo Mora had told his country's parliament that the Pentagon chief would hand over a C-130 Hercules military aircraft during the visit.",
-   "published_date": "Thu, 19 Nov 2026 06:06:54 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "GTA VI launch sparks celebrations in Miami and Dublin",
-   "url": "https://www.euronews.com/video/2026/11/19/gta-vi-launch-sparks-celebrations-in-miami-and-dublin",
-   "content": "After 13 years of anticipation, Grand Theft Auto VI has finally arrived. Fans celebrated at a launch party in Dublin, while Miami Heat supporters rushed to buy limited-edition Vice City merchandise.",
-   "published_date": "Thu, 19 Nov 2026 05:28:19 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Alleged Russian agent arrested for spying on Silicon Valley tech firm",
-   "url": "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm",
-   "content": "The company was not named in the indictment but was described as a large, publicly traded technology and defence firm with offices across the US, including in Palo Alto, California.",
-   "published_date": "Wed, 18 Nov 2026 23:05:07 +0100",
    "score": 0.6
   }
  ],

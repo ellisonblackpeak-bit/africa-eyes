@@ -2,6 +2,104 @@
  "success": true,
  "results": [
   {
+   "title": "FIREPOWER: Can the EU and UK get closer on defence?",
+   "url": "https://www.rapporteur.com/news/firepower-can-the-eu-and-uk-get-closer-on-defence/",
+   "content": "In today's edition: Ukraine exercise, Lithuanian presidency, EDA",
+   "published_date": "Fri, 20 Nov 2026 08:17:32 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "THE HACK: Capitals remix satellite services law",
+   "url": "https://www.rapporteur.com/news/the-hack-capitals-remix-satellite-services-law/",
+   "content": "In today's edition: AI agents, Commission cyberattack, Kids Act",
+   "published_date": "Fri, 20 Nov 2026 08:13:42 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "VOLTAGE: COP31 to drop fossil fuel exit",
+   "url": "https://www.rapporteur.com/news/voltage-cop31-to-drop-fossil-fuel-exit/",
+   "content": "In today's edition: ETS, deforestation, nature laws",
+   "published_date": "Fri, 20 Nov 2026 07:56:34 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "HARVEST: Keep calm and carry on",
+   "url": "https://www.rapporteur.com/news/harvest-keep-calm-and-carry-on/",
+   "content": "In today's edition: deforestation, pesticide residues, nature laws",
+   "published_date": "Fri, 20 Nov 2026 07:36:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "FIRST AID: Action at the European Cancer Summit",
+   "url": "https://www.rapporteur.com/news/first-aid-action-at-the-european-cancer-summit/",
+   "content": "In today's edition: measles, wastewater, assisted suicide",
+   "published_date": "Fri, 20 Nov 2026 07:29:15 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Hammering out the EU-UK reset",
+   "url": "https://www.rapporteur.com/news/rapporteur-am-hammering-out-the-eu-uk-reset/",
+   "content": "Also, in Friday’s edition: raking through the junkheap of own resources",
+   "published_date": "Fri, 20 Nov 2026 06:51:28 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Tuition fees talks delay adoption of EU-UK deal",
+   "url": "https://www.rapporteur.com/news/tuition-fees-talks-delay-adoption-of-eu-uk-deal/",
+   "content": "EU 'adoption' of the deal's main elements will be delayed until talks on student tuition fees are concluded",
+   "published_date": "Fri, 20 Nov 2026 06:04:09 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Britain’s options all point in one direction",
+   "url": "https://www.rapporteur.com/opinion/britains-options-all-point-in-one-direction/",
+   "content": "Enlargement is now the geopolitical imperative for the Union – as much for the UK",
+   "published_date": "Fri, 20 Nov 2026 03:00:57 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Austria: Costa needs to make deeper EU budget cuts",
+   "url": "https://www.rapporteur.com/news/austria-costa-needs-to-make-deeper-eu-budget-cuts/",
+   "content": "New EU taxes to provide more revenue are no 'cure-all', Claudia Bauer tells Rapporteur",
+   "published_date": "Fri, 20 Nov 2026 03:00:47 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "At Koalicja, European armies test Ukraine war lessons",
+   "url": "https://www.rapporteur.com/news/at-koalicja-european-armies-test-ukraine-war-lessons/",
+   "content": "The drill in Poland is preparing troops for a possible deployment to Ukraine",
+   "published_date": "Fri, 20 Nov 2026 03:00:43 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Crises force a rethink of cancer care, experts warn",
+   "url": "https://www.rapporteur.com/news/crises-force-a-rethink-of-cancer-care-experts-warn/",
+   "content": "The EU’s cybersecurity agency counted 300 cyberattacks on hospitals in 2023 alone",
+   "published_date": "Fri, 20 Nov 2026 03:00:37 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "EU health watchdog reviews wastewater surveillance",
+   "url": "https://www.rapporteur.com/news/eu-health-watchdog-reviews-wastewater-surveillance/",
+   "content": "Some experts argue that the cost-effectiveness of monitoring viruses in wastewater needs to be improved",
+   "published_date": "Fri, 20 Nov 2026 03:00:35 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The EU’s taxation graveyard of new ‘own resources’",
+   "url": "https://www.rapporteur.com/news/the-eus-taxation-graveyard-of-new-own-resources/",
+   "content": "There is a long history of proposed taxes and levies to fund Brussels – many never made it",
+   "published_date": "Fri, 20 Nov 2026 03:00:34 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The EU is turning up the heat on social media ‘rabbit holes’",
+   "url": "https://www.rapporteur.com/news/the-eu-is-turning-up-the-heat-on-social-media-rabbit-holes/",
+   "content": "Researchers found TikTok's algorithm pushes self-harm and suicide content towards children",
+   "published_date": "Fri, 20 Nov 2026 03:00:10 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Miliband: EU and UK must look back to go forward",
    "url": "https://www.rapporteur.com/opinion/miliband-eu-and-uk-must-look-back-to-go-forward/",
    "content": "We need the post-war vision that rebuilt Europe, writes Ed Miliband, the British foreign secretary",
@@ -111,104 +209,6 @@
    "url": "https://www.rapporteur.com/news/activists-throw-ashes-during-eu-health-commissioners-speech/",
    "content": "Protesters disrupt European Cancer Summit in Brussels over proposed EU pesticide changes",
    "published_date": "Thu, 19 Nov 2026 12:52:14 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "European Commission confirms AI-boosted cyberattack",
-   "url": "https://www.rapporteur.com/news/european-commission-confirms-ai-boosted-cyberattack/",
-   "content": "A spokesperson on Thursday could not say whether the attacks were over",
-   "published_date": "Thu, 19 Nov 2026 12:43:34 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EU takes action against four countries over deforestation rules",
-   "url": "https://www.rapporteur.com/news/eu-takes-action-against-four-countries-over-deforestation-rules/",
-   "content": "Brussels gives the four countries two months to address shortcomings",
-   "published_date": "Thu, 19 Nov 2026 12:09:32 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "COP31: EU just ‘buying time’ with methane rules delay, Hoekstra says",
-   "url": "https://www.rapporteur.com/news/cop31-eu-just-buying-time-with-methane-rules-delay-hoekstra-says/",
-   "content": "Europe 'not wavering at all', EU climate commissioner insists while critics accuse Brussels of caving in",
-   "published_date": "Thu, 19 Nov 2026 11:00:15 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Shenzhen: Trump says ‘making history’ with Putin and Xi",
-   "url": "https://www.rapporteur.com/news/shenzhen-trump-says-making-history-with-putin-and-xi/",
-   "content": "Berlin summit of Ukraine allies will try to act as counterweight to the big three",
-   "published_date": "Thu, 19 Nov 2026 10:29:03 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIREPOWER: NATO’s next-gen comms plan released",
-   "url": "https://www.rapporteur.com/news/firepower-natos-next-gen-comms-plan-released/",
-   "content": "In today's edition: Coalition of the Willing, autonomous weapons, EU–UK",
-   "published_date": "Thu, 19 Nov 2026 06:49:58 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "THE HACK: Further privacy rule cuts not ruled out",
-   "url": "https://www.rapporteur.com/news/the-hack-further-privacy-rule-cuts-not-ruled-out/",
-   "content": "In today's edition: MSS delays, OVHcloud, Space Act",
-   "published_date": "Thu, 19 Nov 2026 06:39:56 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "VOLTAGE: Methane madness yields two year delay",
-   "url": "https://www.rapporteur.com/news/voltage-methane-madness-yields-two-year-delay/",
-   "content": "In today's edition: ETS, capacity markets, PFAS",
-   "published_date": "Thu, 19 Nov 2026 06:35:23 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "FIRST AID: Liberals put men’s mental health on agenda",
-   "url": "https://www.rapporteur.com/news/first-aid-liberals-put-mens-mental-health-on-agenda/",
-   "content": "In today's edition: cancer, MFN, cosmetic procedures",
-   "published_date": "Thu, 19 Nov 2026 06:30:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "HARVEST: GI Italian offensive",
-   "url": "https://www.rapporteur.com/news/harvest-gi-italian-offensive/",
-   "content": "In today's edition: Morocco, pesticides, ultra-processed foods",
-   "published_date": "Thu, 19 Nov 2026 06:25:15 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "INTERVIEW: French cloud CEO slams ‘dishonest’ EU sovereign criteria",
-   "url": "https://www.rapporteur.com/news/french-cloud-ceo-slams-dishonest-eu-sovereign-criteria/",
-   "content": "Klaba noted that the Commission spends €1.7 billion on US cloud annually",
-   "published_date": "Thu, 19 Nov 2026 06:01:57 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Laying hens will be freed of cages, but what of chickens raised for meat? [Promoted Content]",
-   "url": "https://www.rapporteur.com/opinion/laying-hens-will-be-freed-of-cages-but-what-of-chickens-raised-for-meat/",
-   "content": "The EU's plans to end cages for laying hens are welcome news and a significant step forward for animal welfare. However, the proposed reform risks leaving billions of chickens raised for meat behind, failing to address the root causes of their suffering, including rapid growth and overcrowding.",
-   "published_date": "Thu, 19 Nov 2026 06:00:43 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Cash CoW",
-   "url": "https://www.rapporteur.com/news/rapporteur-am-cash-cow/",
-   "content": "Also, in Thursday’s edition: Europe’s leftists lose their voice",
-   "published_date": "Thu, 19 Nov 2026 05:58:16 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "The soaring cost of shoring up Europe’s power grid",
-   "url": "https://www.rapporteur.com/news/the-soaring-cost-of-shoring-up-europes-power-grid/",
-   "content": "Subsidies to power plants cost €7 billion last year and a new German scheme will heap onto the bill further",
-   "published_date": "Thu, 19 Nov 2026 05:00:47 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "INTERVIEW: Commission isn’t closing door to further privacy rule cuts",
-   "url": "https://www.rapporteur.com/news/interview-commission-isnt-closing-door-to-further-privacy-rule-cuts/",
-   "content": "Justice Commissioner Michael McGrath defends the independence of Ireland’s privacy watchdog",
-   "published_date": "Thu, 19 Nov 2026 03:04:01 +0000",
    "score": 0.6
   }
  ],
