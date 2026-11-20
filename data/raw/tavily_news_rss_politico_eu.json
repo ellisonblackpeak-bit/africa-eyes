@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "EU-UK summit — live updates",
+   "url": "https://www.politico.eu/article/eu-uk-summit-live-updates/",
+   "content": "The British PM is in Brussels to ink a host of post-Brexit agreements — and start talking about what comes next.",
+   "published_date": "Thu, 19 Nov 2026 23:05:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "How to watch the UK-EU summit like a pro",
+   "url": "https://www.politico.eu/article/how-to-watch-the-uk-eu-summit-like-a-pro/",
+   "content": "After more than two years of talks, can London and Brussels finally agree on a reset? Here’s what to look out for as their leaders meet.",
+   "published_date": "Thu, 19 Nov 2026 19:42:27 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "The web is held together by volunteers. AI could tear it apart.",
+   "url": "https://www.politico.eu/article/ai-internet-website-shutdown-hack-cyberattack/",
+   "content": "As AI reveals deeply hidden vulnerabilities, idealist coders and non-profits say they’re running on fumes trying to maintain the web's core vitals.",
+   "published_date": "Thu, 19 Nov 2026 19:32:08 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Zucman, le retour",
    "url": "https://www.politico.eu/podcast/playbook-paris-podcast/zucman-le-retour/",
    "content": "Un manifeste publié ce vendredi, un “sommet contre l’oligarchie internationale” samedi, une proposition de taxe supplémentaire : Gabriel Zucman est de retour au premier plan. Engagé dans une démarche de plus en plus politique, l’économiste français de 40 ans veut peser sur le débat de la présidentielle. Comment compte-t-il s’y prendre ? Pèse-t-il sur les […]",
@@ -9,9 +30,9 @@
    "score": 0.6
   },
   {
-   "title": "Trump presses European leaders about Ukraine aid in call after Putin summit",
+   "title": "After Putin talks, Trump tells Europe it could save lives and cash if Ukraine war ends",
    "url": "https://www.politico.eu/article/donald-trump-presses-european-leaders-about-ukraine-aid-after-vladimir-putin-summit/",
-   "content": "In a surprise call, the U.S. president followed up his meeting with Russian and Chinese leaders by quizzing Kyiv's European allies.",
+   "content": "The U.S. president followed up his meeting with Russian and Chinese leaders with a surprise call to Berlin.",
    "published_date": "Thu, 19 Nov 2026 16:38:37 +0000",
    "score": 0.6
   },
@@ -48,27 +69,6 @@
    "url": "https://www.politico.eu/article/presidentielle-pourquoi-les-youtubeurs-ne-veulent-pas-etre-regules-comme-la-tele/",
    "content": "Dans un entretien à POLITICO, l’Umicc défend fermement ses positions face aux règles de pluralisme que veut soumettre l'Arcom aux créateurs de contenus.",
    "published_date": "Thu, 19 Nov 2026 12:11:50 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Watch: EU health chief has ‘ashes’ thrown over him in protest at pesticide rules",
-   "url": "https://www.politico.eu/article/watch-eu-health-chief-has-ashes-thrown-over-him-in-protest-at-pesticide-rules/",
-   "content": "Olivér Várhelyi was about to speak at a cancer summit when he had a grey substance thrown at him.",
-   "published_date": "Thu, 19 Nov 2026 11:29:04 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Spanish election race tightens ahead of campaign’s final week, new poll shows",
-   "url": "https://www.politico.eu/article/spanish-election-race-tightens-final-week-poll/",
-   "content": "The conservative People's Party and Socialists are neck and neck, with the far-right Vox in position to play kingmaker.",
-   "published_date": "Thu, 19 Nov 2026 10:10:24 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "UK Tory chief Badenoch blasts ‘disturbing’ Trump-Putin-Xi trilateral",
-   "url": "https://www.politico.eu/article/uk-tory-chief-badenoch-kemi-badenoch-blasts-disturbing-trump-putin-xi-trilateral/",
-   "content": "Right-wing Kemi Badenoch says Britain must now look beyond a U.S. 'administration on its way out.'",
-   "published_date": "Thu, 19 Nov 2026 10:07:51 +0000",
    "score": 0.6
   }
  ],

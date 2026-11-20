@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Ukraine: Russian strikes damage Austrian and Dutch embassies in Kyiv",
+   "url": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv",
+   "content": "Russian strikes damaged the Austrian and Dutch embassies in Kyiv on Thursday. Windows were shattered and vehicles damaged, but diplomatic staff escaped unharmed.",
+   "published_date": "Fri, 20 Nov 2026 00:21:18 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "US defence secretary Pete Hegseth lands in Ecuador on Latin America anti-narcotics tour",
+   "url": "https://www.euronews.com/2026/11/19/us-defence-secretary-pete-hegseth-lands-in-ecuador-on-latin-america-anti-narcotics-tour",
+   "content": "The US defence secretary, under fire for his role in the Iran war and illegal bombings in the Caribbean and Pacific, has announced a military pact with Venezuela. His next stop is Honduras.",
+   "published_date": "Thu, 19 Nov 2026 21:33:03 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain",
+   "url": "https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s",
+   "content": "The latest sinking comes amid a sharp rise in departures towards the Canary Islands, with more than 11,000 people reaching the Spanish archipelago in the first two weeks of November.",
+   "published_date": "Thu, 19 Nov 2026 21:21:25 +0100",
+   "score": 0.6
+  },
+  {
    "title": "New regional security architecture will also benefit Europe, Pakistani FM tells Euronews",
    "url": "https://www.euronews.com/2026/11/19/new-regional-security-architecture-will-also-benefit-europe-pakistani-fm-tells-euronews",
    "content": "In an exclusive interview for Euronews’ World Conversation show, Pakistan’s deputy prime minister revealed the backstage efforts that led to the US-Israel agreement to end the war in June. He also outlined Pakistan's strategy towards a new regional security architecture in coordination with Europe.",
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm",
    "content": "The company was not named in the indictment but was described as a large, publicly traded technology and defence firm with offices across the US, including in Palo Alto, California.",
    "published_date": "Wed, 18 Nov 2026 23:05:07 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion",
-   "url": "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
-   "content": "The Salvadoran president welcomes the destruction of the home of Jeff Larose, one of Haiti's main crime leaders. It is not clear whether Jeff was in the building during the bombing.",
-   "published_date": "Wed, 18 Nov 2026 22:58:48 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "US Defense Secretary announces military cooperation in surprise Caracas visit",
-   "url": "https://www.euronews.com/2026/11/18/us-defence-secretary-announces-military-cooperation-in-surprise-caracas-visit",
-   "content": "The US Defense Secretary met Delcy Rodríguez in Caracas ahead of a planned visit to Colombia, where he is due to discuss bilateral security cooperation.",
-   "published_date": "Wed, 18 Nov 2026 22:02:43 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
-   "url": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-   "content": "The New York Democrat secured 251 votes in favour and 11 against, but faces pressure from progressive lawmakers demanding commitments on healthcare, immigration and other key issues.",
-   "published_date": "Wed, 18 Nov 2026 18:44:05 +0100",
    "score": 0.6
   }
  ],

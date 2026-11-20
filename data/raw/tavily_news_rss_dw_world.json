@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
+   "url": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
+   "content": "Russian President Putin has proposed an evacuation of the Ukrainian city of Kostiantynivka, like the recent operation in Oleshky. Experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Iraq's risky standoff: The state vs. Iran-allied militias",
    "url": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf",
    "content": "This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.",
@@ -9,9 +16,9 @@
    "score": 0.6
   },
   {
-   "title": "Xi-Trump-Putin summit: What did it achieve?",
-   "url": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
-   "content": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful,\" and Putin called them \"open and candid.\"",
+   "title": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
+   "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
+   "content": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful\" and Putin called them \"open and candid.\"",
    "published_date": "",
    "score": 0.6
   },
@@ -75,13 +82,6 @@
    "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
    "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
    "content": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Axes and cutlasses: Violence on Nigeria's election campaign trail",
-   "url": "https://www.dw.com/en/axes-and-cutlasses-violence-on-nigeria-s-election-campaign-trail/a-79978467?maca=en-rss-en-world-4025-rdf",
-   "content": "As Nigeria's January 2027 elections approach, political violence and thuggery at campaign rallies and town hall meetings raise concerns about voter safety.",
    "published_date": "",
    "score": 0.6
   }
