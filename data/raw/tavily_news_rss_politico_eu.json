@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "UK will take its time setting out Brexit options, says minister",
+   "url": "https://www.politico.eu/article/uk-brexit-eu-summit/",
+   "content": "Hamish Falconer tells POLITICO that discussions around the topic had proved “divisive” and were important to get right.",
+   "published_date": "Fri, 20 Nov 2026 17:50:49 +0000",
+   "score": 0.6
+  },
+  {
    "title": "The biggest winners and losers of the EU-UK summit deals",
    "url": "https://www.politico.eu/article/the-winners-and-losers-of-the-eu-uk-summit-deals/",
    "content": "We take stock of who’s up and who’s down after London and Brussels sign three new deals.",
@@ -30,6 +37,13 @@
    "score": 0.6
   },
   {
+   "title": "French billionaire hunter takes fight global after California tax defeat",
+   "url": "https://www.politico.eu/article/gabriel-zucman-billionaires-california-taxes/",
+   "content": "Gabriel Zucman is rallying politicians in Paris behind his campaign to tax the super-rich. But can he overcome the billionaires and political leaders standing in his way?",
+   "published_date": "Fri, 20 Nov 2026 16:15:46 +0000",
+   "score": 0.6
+  },
+  {
    "title": "EU warns against COP31 becoming a ‘fossil fuel summit’",
    "url": "https://www.politico.eu/article/eu-warns-against-cop31-becoming-a-fossil-fuel-summit/",
    "content": "The current draft decision text discussed in Antalya would represent \"a substantive step backwards\" on climate action, European Union leaders said.",
@@ -55,20 +69,6 @@
    "url": "https://www.politico.eu/article/marine-le-pen-national-rally-party-alleged-interior-ministry-leaks/",
    "content": "A senior civil servant is under investigation for reportedly passing on confidential judicial information to the National Rally.",
    "published_date": "Fri, 20 Nov 2026 11:56:27 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Some oil giants to be labeled green under EU finance rules",
-   "url": "https://www.politico.eu/article/some-oil-giants-will-now-be-labeled-sustainable-under-eu-finance-rules/",
-   "content": "Decision came the same day the EU agreed to delay methane emission rules for fossil fuel companies.",
-   "published_date": "Fri, 20 Nov 2026 11:38:49 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "‘Staff deserve answers’ on Commission cyberattack, union says",
-   "url": "https://www.politico.eu/article/staff-deserve-answers-eu-commission-cyberattack-union-says/",
-   "content": "EU executive “yet to send a single update to all staff\" about recent cyberattack, union email says.",
-   "published_date": "Fri, 20 Nov 2026 10:04:39 +0000",
    "score": 0.6
   }
  ],

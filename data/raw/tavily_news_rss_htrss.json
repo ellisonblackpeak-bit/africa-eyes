@@ -2,6 +2,62 @@
  "success": true,
  "results": [
   {
+   "title": "India gives 10 million HPV vaccine doses, covers 87% of target girls in nine months, health ministry",
+   "url": "https://www.hindustantimes.com/india-news/india-gives-10-million-hpv-vaccine-doses-covers-87-of-target-girls-in-nine-months-health-ministry-101795245823839.html",
+   "content": "India has administered over 10 million HPV vaccine doses in nine months, covering nearly 87% of the target girls under its nationwide cervical cancer prevention drive.",
+   "published_date": "Sat, 21 Nov 2026 12:53:43 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi government formally notifies 24-member Medical Council",
+   "url": "https://www.hindustantimes.com/india-news/delhi-government-formally-notifies-24-member-medical-council-101795244807541.html",
+   "content": "The council is the regulatory body responsible for matters concerning the registration of medical practitioners and professional conduct and ethics in Delhi.",
+   "published_date": "Sat, 21 Nov 2026 12:52:22 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "15-20% pollution cut, district-level plans, accountability of officials part of CAQM’s 2027 push for Delhi-NCR",
+   "url": "https://www.hindustantimes.com/india-news/1520-pollution-cut-district-level-plans-accountability-of-officials-part-of-caqm-s-2027-push-for-delhi-ncr-101795244231635.html",
+   "content": "The weather conditions in winter worsen the air pollution impact in the Capital, with stubble burning in neighbouring states adding to the burden.",
+   "published_date": "Sat, 21 Nov 2026 12:39:08 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "NCB busts Delhi-Kashmir drug network; seizes half-a-million capsules, cough syrup bottles",
+   "url": "https://www.hindustantimes.com/india-news/ncb-busts-delhi-kashmir-drug-network-seizes-half-a-million-capsules-cough-syrup-bottles-101795236940682.html",
+   "content": "The NCB’s Jammu Zonal Unit carried out the operation in coordination with its Delhi Zonal Unit.",
+   "published_date": "Sat, 21 Nov 2026 10:35:15 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Maharashtra forms CM-led panel to suggest metro station names in Mumbai, Pune and Nagpur",
+   "url": "https://www.hindustantimes.com/india-news/maharashtra-forms-cm-led-panel-to-suggest-metro-station-names-in-mumbai-pune-and-nagpur-101795235292909.html",
+   "content": "It will assess heritage, local sentiment, pronunciation and other criteria before sending recommendations to the Centre.",
+   "published_date": "Sat, 21 Nov 2026 10:03:52 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Goa gets its first Blue Flag beaches as Mandrem, Galgibaga join 22 others in India",
+   "url": "https://www.hindustantimes.com/india-news/goa-gets-its-first-blue-flag-beaches-as-mandrem-galgibaga-join-22-others-in-india-101795232503457.html",
+   "content": "Mandrem and Galgibaga are Goa’s first Blue Flag-certified beaches, joining 22 others in India recognised for meeting international environmental and safety standards.",
+   "published_date": "Sat, 21 Nov 2026 09:11:43 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Just Like That| The myth of the global village: Why culture remains in our DNA",
+   "url": "https://www.hindustantimes.com/india-news/just-like-that-the-myth-of-the-global-village-why-culture-remains-in-our-dna-101795231235633.html",
+   "content": "Sonia Gandhi’s memoir, Belonging, offers a compelling account of her struggle to navigate India’s cultural complexities and make a foreign land her home.",
+   "published_date": "Sat, 21 Nov 2026 08:58:56 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "‘Want to return, but can’t without safety’: Rohingyas in India react to ICJ ruling on Myanmar genocide",
+   "url": "https://www.hindustantimes.com/india-news/want-to-return-but-can-t-without-safety-rohingyas-in-india-react-to-icj-ruling-on-myanmar-genocide-101795227147137.html",
+   "content": "They also called for accountability, reparations and protection, and urged India to treat them as genocide survivors rather than criminals or infiltrators.",
+   "published_date": "Sat, 21 Nov 2026 07:54:26 +0530",
+   "score": 0.6
+  },
+  {
    "title": "ICJ verdict noted; India consistently supported speedy return of Rohingya people: MEA",
    "url": "https://www.hindustantimes.com/india-news/icj-verdict-noted-india-consistently-supported-speedy-return-of-rohingya-people-mea-101795199490236.html",
    "content": "ICJ verdict noted; India consistently supported speedy return of Rohingya people: MEA",
@@ -9,7 +65,7 @@
    "score": 0.6
   },
   {
-   "title": "‘No change on Indus Waters Treaty stance’: MEA as Pak minister, who threatened India, visits Delhi",
+   "title": "‘No change on Indus Waters Treaty stance’: MEA as Pak minister, who warned India, visits Delhi",
    "url": "https://www.hindustantimes.com/india-news/no-change-indus-waters-treaty-mea-as-pak-minister-musadik-masood-malik-who-threatened-india-visits-delhi-pahalgam-operation-sindoor-sco-101795185854919.html",
    "content": "Pakistan's climate change minister Musadik Masood Malik arrived in New Delhi on Friday to lead the delegation at the SCO Civilisational Dialogue Forum.",
    "published_date": "Fri, 20 Nov 2026 21:17:25 +0530",
@@ -128,7 +184,7 @@
    "score": 0.6
   },
   {
-   "title": "7-week-old elephant calf Raja, born with fractured leg, air-lifted to Vantara for treatment",
+   "title": "Elephant calf with fractured thigh bone, multiple health issues airlifted to Vantara",
    "url": "https://www.hindustantimes.com/india-news/7-week-old-elephant-calf-raja-born-with-fractured-led-air-lifted-from-assam-to-vantara-for-life-saving-treatment-101795167296442.html",
    "content": "The airlift, being facilitated by Vantara founder Anant Ambani, will be the third such operation in India, according to a release.",
    "published_date": "Fri, 20 Nov 2026 15:43:27 +0530",
@@ -153,62 +209,6 @@
    "url": "https://www.hindustantimes.com/india-news/indias-smartphone-market-is-shrinking-and-phone-prices-have-never-been-higher-101795165106091.html",
    "content": "Growth is expected to remain constrained through 2027, with only 2028 offering a slightest chance of recovery if memory price inflation reduces",
    "published_date": "Fri, 20 Nov 2026 14:28:25 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Keralam: Ex-Indian athlete Padmini Thomas quits BJP, likely to return to Congress",
-   "url": "https://www.hindustantimes.com/india-news/keralam-ex-indian-athlete-padmini-thomas-quits-bjp-likely-to-return-to-congress-101795164866765.html",
-   "content": "Thomas, a recipient of the Arjuna award and who won medals for the country at the 1982 Asian Games, said she plans to return to the Congress",
-   "published_date": "Fri, 20 Nov 2026 14:24:26 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Terms of Trade: Poverty is dead, long-live anti-poverty programmes",
-   "url": "https://www.hindustantimes.com/india-news/terms-of-trade-poverty-is-dead-long-live-anti-poverty-programmes-101795163727003.html",
-   "content": "India’s extreme poverty fell to 2.6% in 2023, but rising dependence on cash transfers raises questions about jobs, incomes and sustainable economic growth.",
-   "published_date": "Fri, 20 Nov 2026 14:05:26 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Tiger Shroff firing case: Mumbai crime branch issues Look Out Circular against Abhishek Pandit",
-   "url": "https://www.hindustantimes.com/india-news/tiger-shroff-firing-case-mumbai-crime-branch-issues-look-out-circular-against-abhishek-pandit-101795161658325.html",
-   "content": "The city police crime branch has also arrested Abhishek's wife, Suneha Pandit, in connection with the firing case",
-   "published_date": "Fri, 20 Nov 2026 13:48:36 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "SCO meeting highlights: ‘Suffered a great deal’, says Pak minister on terrorism, seeks evidence-based talks",
-   "url": "https://www.hindustantimes.com/india-news/sco-civilisational-dialogue-forum-delhi-live-updates-purana-quila-pm-modi-inauguration-pakistan-minister-visit-row-101795160066615.html",
-   "content": "SCO meeting highlights: Prime Minister Narendra Modi inaurgurated the first Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum at the historic Purana Qila in New Delhi today.",
-   "published_date": "Fri, 20 Nov 2026 13:42:29 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "NCB busts Indian module of transnational drug trafficking network in coordination with US agency",
-   "url": "https://www.hindustantimes.com/india-news/ncb-busts-indian-module-of-transnational-drug-trafficking-network-in-coordination-with-us-agency-101795162046021.html",
-   "content": "The NCB said the transnational network allegedly handled nearly 3,000 parcels containing close to half a million tablets",
-   "published_date": "Fri, 20 Nov 2026 13:37:25 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "CJP plans pan-India initiative to promote Gandhi's legacy through humour and satire",
-   "url": "https://www.hindustantimes.com/india-news/cjp-plans-pan-india-initiative-to-promote-gandhis-legacy-through-humour-and-satire-101795160436958.html",
-   "content": "The initiative begins in Pune on November 21. Admission is free, but online registration and an official pass are required.",
-   "published_date": "Fri, 20 Nov 2026 13:17:12 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "2 killed, 47 injured as wedding guests’ bus collides with tanker on Delhi-Mumbai Expressway",
-   "url": "https://www.hindustantimes.com/india-news/2-killed-47-injured-as-wedding-guests-bus-collides-with-tanker-on-delhi-mumbai-expressway-101795160484766.html",
-   "content": "The bus was travelling from Dhoraji to Surat for a wedding when it rammed into a tanker near Derol on the Delhi-Mumbai Expressway around 5.30 am.",
-   "published_date": "Fri, 20 Nov 2026 13:11:24 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Nepal PM Balen Shah to visit India on November 22–23",
-   "url": "https://www.hindustantimes.com/india-news/nepal-pm-balen-shah-to-visit-india-on-november-2223-101795157552755.html",
-   "content": "According to the Foreign Secretary, a 34-member government delegation led by PM Shah will depart from Kathmandu for New Delhi to undertake the engagement.",
-   "published_date": "Fri, 20 Nov 2026 12:39:37 +0530",
    "score": 0.6
   }
  ],

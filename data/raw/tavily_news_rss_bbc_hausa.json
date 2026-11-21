@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Su wane ne gwanayen Alrqur'ani, kuma yaya ake samun matsayin?",
+   "url": "https://www.bbc.com/hausa/articles/cq8j40l7kgmjo?at_medium=RSS&at_campaign=rss",
+   "content": "Fari na nufin karanta Alƙur'ani gaba ɗaya daga farko zuwa ƙarshe ba tare da wani kuskure ba ko da na harafi ne.",
+   "published_date": "Sat, 21 Nov 2026 03:56:21 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ba za mu buɗe mashigar Hormuz ba sai an cika mana sharuɗɗa bakwai - Iran",
+   "url": "https://www.bbc.co.uk/hausa/live/cmj6l8k4e003t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 21/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Osimhen na sha'awar komawa Man United, Aston Villa na neman Diallo",
+   "url": "https://www.bbc.com/hausa/articles/crwy8ezzx723o?at_medium=RSS&at_campaign=rss",
+   "content": "Victor Osimhen na sha'awar komawa Manchester United, Aston Villa na zawarcin Amad Diallo, yayin da Crystal Palace ke son ɗaukar Ivan Toney.",
+   "published_date": "Sat, 21 Nov 2026 03:55:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda Putin ke yawo da akwatin makamin nukiliya a asirce",
+   "url": "https://www.bbc.com/hausa/articles/cqn70v84egdeo?at_medium=RSS&at_campaign=rss",
+   "content": "Bayyanar Putin da tawagarsa tare da wannan na'ura da ake dangantawa da makaman nukiliya ta sa wasu ke kallon hakan a matsayin nuna ƙarfin soji.",
+   "published_date": "Sat, 21 Nov 2026 03:56:06 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ƙasashe 10 da za su fi yawan Musulmai a duniya nan da 2050",
    "url": "https://www.bbc.com/hausa/articles/cv0l3194wrrko?at_medium=RSS&at_campaign=rss",
    "content": "Tsakanin shekarar 2020 da 2070, ana sa ran yawan Musulmi zai ƙaru da kaso 80 cikin 100, daga biliyan 2.02 zuwa biliyan 3.64.",
@@ -34,34 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/c69q84gg3pe0o?at_medium=RSS&at_campaign=rss",
    "content": "Majalisar Dinkin Duniya ta yi gargadin cewa Najeriya na fama da matsalar karancin gidaje, inda take a sahun kasashen da lamarinsu ya fi muni a duniya.",
    "published_date": "Fri, 20 Nov 2026 03:57:55 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Tarihin Sheikh Ibrahim Inyass da tasirinsa a ɗarikar Tijjaniya",
-   "url": "https://www.bbc.com/hausa/articles/c3x29jn1qre5o?at_medium=RSS&at_campaign=rss",
-   "content": "A fagen Tijjaniyya kuwa, Sheikh Ibrahim Inyass ya taka muhimmiyar rawa wajen faɗaɗa ɗarikar, inda koyarwarsa ta \"Faidha Tijjaniyya\" ta jawo miliyoyin mabiyansa a Afirka da sauran wurare.",
-   "published_date": "Fri, 20 Nov 2026 03:57:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Birnin ƙarƙashin ƙasa da ke ba mutane mafaka daga zafin rana da sanyin hunturu",
-   "url": "https://www.bbc.com/hausa/articles/cmwy0nn9xy64o?at_medium=RSS&at_campaign=rss",
-   "content": "Birnin ƙarƙashin ƙasa da ke ba mutane mafaka daga zafin rana da sanyin hunturu",
-   "published_date": "Fri, 20 Nov 2026 03:57:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Tinubu zai lashe zaɓen 2027 ba tare da maguɗi ba - Soludo",
-   "url": "https://www.bbc.co.uk/hausa/live/c680858kjvxkt?at_medium=RSS&at_campaign=rss",
-   "content": "Gwamnan Jihar Anambra, Chukwuma Soludo, ya yi hasashen cewa Shugaba Bola Tinubu zai lashe zaɓen shugaban ƙasar na shekarar 2027 ba tare da maguɗi ba.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Me doka ta ce kan hana jam'iyyar siyasa amfani da wuraren gwamnati wajen kamfe?",
-   "url": "https://www.bbc.com/hausa/articles/cqrlgklxj2gko?at_medium=RSS&at_campaign=rss",
-   "content": "Ƴan siyasa na ci gaba da nuna damuwa kan yadda suke fuskantar matsaloli wajen samun wuraren gudanar da yaƙin neman zaɓe a wasu jihohin Najeriya.",
-   "published_date": "Thu, 19 Nov 2026 14:56:19 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,34 @@
    "url": "https://www.bbc.com/hausa/articles/cw20xgnl44z1o?at_medium=RSS&at_campaign=rss",
    "content": "Liverpool ta shiga gaban Chelsea a zawacin ɗan wasan Monaco Lamine Camara, Barcelona ta yi watsi da siyen Virgil van Dijk dd Bruno Fernandes, sannan tsohon dan wasan Crystal Palace Wilfried Zaha zai iya komawa Barcelonan.",
    "published_date": "Wed, 18 Nov 2026 03:59:37 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Tarihin Sheikh Ibrahim Inyass da tasirinsa a ɗarikar Tijjaniya",
+   "url": "https://www.bbc.com/hausa/articles/c3x29jn1qre5o?at_medium=RSS&at_campaign=rss",
+   "content": "A fagen Tijjaniyya kuwa, Sheikh Ibrahim Inyass ya taka muhimmiyar rawa wajen faɗaɗa ɗarikar, inda koyarwarsa ta \"Faidha Tijjaniyya\" ta jawo miliyoyin mabiyansa a Afirka da sauran wurare.",
+   "published_date": "Fri, 20 Nov 2026 03:57:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me doka ta ce kan hana jam'iyyar siyasa amfani da wuraren gwamnati wajen kamfe?",
+   "url": "https://www.bbc.com/hausa/articles/cqrlgklxj2gko?at_medium=RSS&at_campaign=rss",
+   "content": "Ƴan siyasa na ci gaba da nuna damuwa kan yadda suke fuskantar matsaloli wajen samun wuraren gudanar da yaƙin neman zaɓe a wasu jihohin Najeriya.",
+   "published_date": "Thu, 19 Nov 2026 14:56:19 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Tinubu zai lashe zaɓen 2027 ba tare da maguɗi ba - Soludo",
+   "url": "https://www.bbc.co.uk/hausa/live/c680858kjvxkt?at_medium=RSS&at_campaign=rss",
+   "content": "Gwamnan Jihar Anambra, Chukwuma Soludo, ya yi hasashen cewa Shugaba Bola Tinubu zai lashe zaɓen shugaban ƙasar na shekarar 2027 ba tare da maguɗi ba.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Birnin ƙarƙashin ƙasa da ke ba mutane mafaka daga zafin rana da sanyin hunturu",
+   "url": "https://www.bbc.com/hausa/articles/cmwy0nn9xy64o?at_medium=RSS&at_campaign=rss",
+   "content": "Birnin ƙarƙashin ƙasa da ke ba mutane mafaka daga zafin rana da sanyin hunturu",
+   "published_date": "Fri, 20 Nov 2026 03:57:16 GMT",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/ckn9038y3evvo?at_medium=RSS&at_campaign=rss",
    "content": "Shirye-shiryen gudanar da ganawar farko tsakanin shugabannin China, Rasha da Amurka a lokaci guda na ci gaba da ɗaukar hankali a Turai.",
    "published_date": "Wed, 18 Nov 2026 17:32:28 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Shin yawan sanya hijabi na iya janyo zubewar gashi?",
-   "url": "https://www.bbc.com/hausa/articles/cj3vgp30vz2vo?at_medium=RSS&at_campaign=rss",
-   "content": "Akwai ra'ayoyi da dama da ba su da tushe game da abubuwan da ke haddasa zubewar gashi da kuma hanyoyin magance matsalar.",
-   "published_date": "Wed, 18 Nov 2026 13:50:40 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Manyan Musulman da suka fi tasiri a duniya",
-   "url": "https://www.bbc.com/hausa/articles/c6879dx33v7wo?at_medium=RSS&at_campaign=rss",
-   "content": "Manyan Musulman da suka fi tasiri a duniya",
-   "published_date": "Wed, 18 Nov 2026 04:01:57 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ta yaya Rasha ke cin moriyar yaƙin Iran?",
-   "url": "https://www.bbc.com/hausa/articles/ckj052jm5vy6o?at_medium=RSS&at_campaign=rss",
-   "content": "Ana kuma zargin cewar Rasha na ba Iran da ƙawayenta tallafin soji a ɓoye.",
-   "published_date": "Wed, 18 Nov 2026 03:56:47 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ta yaya mace za ta iya neman saki a addinin Musulunci?",
-   "url": "https://www.bbc.com/hausa/articles/cmz6ql6wd65qo?at_medium=RSS&at_campaign=rss",
-   "content": "A addinin Musulunci, ba namiji kaɗai ne yake da damar neman a raba aure ba. Mace ma tana da wannan dama, idan ta ga cewa ba za ta iya ci gaba da rayuwar aure da mijinta ba, ko kuma tana fargabar kasa sauke haƙƙoƙin aure da Allah Ya ɗora mata.",
-   "published_date": "Tue, 17 Nov 2026 16:00:19 GMT",
    "score": 0.6
   }
  ],

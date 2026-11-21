@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "China, EU are open to talks on plans to hike tariffs on Chinese EVs",
+   "url": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/china-eu-are-open-to-talks-on-plans-to-hike-tariffs-on-chinese-evs/111232050?next=1",
+   "snippet": "EU plans to impose provisional tariffs of 17.4% to 38.1% on EVs from China for four months starting on July 4. That's on top of the 10% dutues for all imported",
+   "published": "Fri, 20 Nov 2026 15:00:00 GMT",
+   "source": "tavily"
+  },
+  {
    "title": "UK Plans to Resist EU Call to Match China Tariffs, Including on EVs: Report",
    "url": "https://eletric-vehicles.com/general/uk-plans-to-resist-eu-call-to-match-china-tariffs-including-on-evs-report",
    "snippet": "The EU has applied countervailing duties on Chinese-built battery-electric cars since October 30, 2024. They range from 7.8% for Tesla to 35.3% for SAIC, on top of the standard 10% import duty, taking the highest combined rate to 45.3%. Britain did not follow and applies only its standard 10% duty to Chinese-built cars. [...] Britain plans to resist a European Union request to match the bloc’s tar",
@@ -30,10 +37,10 @@
    "source": "tavily"
   },
   {
-   "title": "Europe and China 3 – The Coming Showdown - CEPA",
-   "url": "https://cepa.org/article/europe-and-china-the-coming-showdown",
-   "snippet": "The proposed “second strike” capacity aimed at imposing duties on countries that retaliate when the EU imposes trade measures is an escalatory step that has uncomfortable echoes of nuclear deterrence doctrine. In Beijing, the Ministry of Commerce is unsheathing its own weapons and already talks of countries harming themselves by “wrong steps.”\n\nThe scene is set for a showdown of some kind. It is a",
-   "published": "Wed, 18 Nov 2026 20:58:39 GMT",
+   "title": "EU Commission eyes rule change to retaliate faster against China – POLITICO",
+   "url": "https://www.politico.eu/article/eu-commission-eyes-rule-change-to-retaliate-faster-against-china",
+   "snippet": "BRUSSELS — The European Commission is considering changes to its trade enforcement rules that would allow Brussels to respond more swiftly to serious economic threats as it develops a new instrument aimed primarily at China.\n\nThe EU’s Enforcement Regulation already allows the bloc to impose countermeasures when trade disputes get stuck in the World Trade Organization’s appeals court. The rule was ",
+   "published": "Tue, 17 Nov 2026 17:50:54 GMT",
    "source": "tavily"
   },
   {
@@ -62,6 +69,13 @@
    "url": "https://tavily.com/knowledge/company/2KEwphPDh8Vr",
    "snippet": "# EU\nID: 2KEwphPDh8Vr\nWebsite: www.media7.net\nLegal name: Vitos Südhessen gemeinnützigen GmbH\nHeadquarters: London, United Kingdom\nLinkedIn: www.linkedin.com/company/eu · 2,481 followers\nIndustry: Import & Export\nCompany type: Privately Held\nSocial profiles: www.facebook.com/pages/ban-public/60922189529, www.twitter.com/banpublic, www.crunchbase.com/organization/eu\nDescription: import & export con",
    "published": "",
+   "source": "tavily"
+  },
+  {
+   "title": "ZLABS | Design, Engineering and Market Development",
+   "url": "https://zerolabs.com/university/tariff-watch-what-tariffs-have-done-to-the-ev-market",
+   "snippet": "Full capabilities  ·  Physical Products + Systems  ·  About  ·  Start a project [...] # ZLABS | Design, Engineering and Market Development\n\nZLABS is a design, engineering and brand collective in Los Angeles. We take products and companies from pre-launch to rapid scale with strategy, content, platforms and press.\n\n## Our practices\n\n Brand Strategy + Identity\n PR, Press + Reputation\n Comms, Adverti",
+   "published": "Sun, 15 Nov 2026 09:00:00 GMT",
    "source": "tavily"
   }
  ],

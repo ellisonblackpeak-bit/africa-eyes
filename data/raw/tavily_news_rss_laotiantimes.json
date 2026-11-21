@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Japan Grants USD 3.6 Million for Water Monitoring, Firefighting Equipment in Laos",
-   "url": "https://laotiantimes.com/2026/11/20/japan-grants-usd-3-6-million-for-water-monitoring-firefighting-equipment-in-laos/",
-   "content": "Japan is providing new water quality monitoring systems and firefighting equipment in Vientiane Capital, alongside separate support for rural water access and rice farming. On 19 November, Japanese Ambassador to Laos Koizumi Tsutomu and Deputy Minister of Foreign Affairs Anouparb Vongnorkeo signed the Exchange of Notes for the two grant aid projects, totalling approximately USD […]",
-   "published_date": "Fri, 20 Nov 2026 06:27:38 +0000",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",
