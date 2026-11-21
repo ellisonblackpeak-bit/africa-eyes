@@ -2,9 +2,30 @@
  "success": true,
  "results": [
   {
-   "title": "Trump accuses Iran of dishonesty while defending Putin ties",
+   "title": "Germany: Berlin student protest targets rearmament and compulsory service",
+   "url": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
+   "content": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a wider wave of youth demonstrations across Europe.",
+   "published_date": "Fri, 20 Nov 2026 23:54:22 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Video shows dramatic helicopter rescue of woman trapped in flood channel",
+   "url": "https://www.euronews.com/2026/11/20/video-shows-dramatic-helicopter-rescue-of-woman-trapped-in-flood-channel",
+   "content": "Los Angeles County firefighters rescued a woman trapped in a fast-moving flood control channel using a helicopter and an airborne paramedic.",
+   "published_date": "Fri, 20 Nov 2026 22:18:14 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Germany intensifies engagement with South Caucasus as 'region of opportunities'",
+   "url": "https://www.euronews.com/2026/11/20/germany-intensifies-engagement-with-south-caucasus-as-region-of-opportunities",
+   "content": "Germany's foreign minister visited Azerbaijan and Armenia to develop projects of “strategic importance to Europe both economically and politically,\" in the context of Russia's aggression against Ukraine and the economic situation in Europe.",
+   "published_date": "Fri, 20 Nov 2026 20:24:23 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
    "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
-   "content": "Speaking at a White House press conference on Friday, Trump defended his ties with Xi and Putin, called for a \"real deal\" with Iran and claimed the Russian leader wanted to end the war in Ukraine through diplomacy.",
+   "content": "Speaking at a White House following his trip to Asia, Trump defended his ties with Xi and Putin, claiming the Russian leader wanted to end the war in Ukraine through diplomacy. He also called for a \"real deal\" with Iran.",
    "published_date": "Fri, 20 Nov 2026 19:55:06 +0100",
    "score": 0.6
   },
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv",
    "content": "Russian strikes damaged the Austrian and Dutch embassies in Kyiv on Thursday. Windows were shattered and vehicles damaged, but diplomatic staff escaped unharmed.",
    "published_date": "Fri, 20 Nov 2026 00:21:18 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "US defence secretary Pete Hegseth lands in Ecuador on Latin America anti-narcotics tour",
-   "url": "https://www.euronews.com/2026/11/19/us-defence-secretary-pete-hegseth-lands-in-ecuador-on-latin-america-anti-narcotics-tour",
-   "content": "The US defence secretary, under fire for his role in the Iran war and illegal bombings in the Caribbean and Pacific, has announced a military pact with Venezuela. His next stop is Honduras.",
-   "published_date": "Thu, 19 Nov 2026 21:33:03 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain",
-   "url": "https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s",
-   "content": "The latest sinking comes amid a sharp rise in departures towards the Canary Islands, with more than 11,000 people reaching the Spanish archipelago in the first two weeks of November.",
-   "published_date": "Thu, 19 Nov 2026 21:21:25 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "New regional security architecture will also benefit Europe, Pakistani FM tells Euronews",
-   "url": "https://www.euronews.com/2026/11/19/new-regional-security-architecture-will-also-benefit-europe-pakistani-fm-tells-euronews",
-   "content": "In an exclusive interview for Euronews’ World Conversation show, Pakistan’s Deputy Prime Minister revealed the backstage mediation that brought the US and Iran to agreement in June. He also outlined Pakistan's strategy towards a new regional security architecture in coordination with Europe.",
-   "published_date": "Thu, 19 Nov 2026 20:17:35 +0100",
    "score": 0.6
   }
  ],
