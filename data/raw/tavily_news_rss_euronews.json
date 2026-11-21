@@ -2,6 +2,48 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 21st, 2026 – Evening",
+   "url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-evening",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sat, 21 Nov 2026 18:00:26 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Jair Bolsonaro hospitalised with abdominal pain while under house arrest",
+   "url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
+   "content": "The former Brazilian president was taken to hospital with abdominal pain, accompanied by military police.",
+   "published_date": "Sat, 21 Nov 2026 15:35:56 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence",
+   "url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence",
+   "content": "Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico.",
+   "published_date": "Sat, 21 Nov 2026 15:20:35 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Strait of Hormuz: Athlete swims through war zone to expose war's environmental toll",
+   "url": "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll",
+   "content": "British endurance swimmer Lewis Pugh completed a 15-kilometre swim through the Strait of Hormuz over three days in November 2026, braving explosions and burning tankers nearby. His three-day challenge aimed to expose the environmental damage caused by the war with Iran.",
+   "published_date": "Sat, 21 Nov 2026 13:18:40 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Latest news bulletin | November 21st, 2026 – Midday",
+   "url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-midday",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Sat, 21 Nov 2026 12:00:15 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Japan: Autonomous air taxi completes passenger flight without a pilot",
+   "url": "https://www.euronews.com/video/2026/11/21/japan-autonomous-air-taxi-completes-passenger-flight-without-a-pilot",
+   "content": "A pilotless electric flying taxi has carried a passenger during a demonstration, on Friday 20 November 2026, in Japan's Yamanashi Prefecture. The Chinese-built aircraft took off vertically and flew autonomously, offering a glimpse of a possible future for urban transport.",
+   "published_date": "Sat, 21 Nov 2026 11:20:25 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Pentagon declassifies new UFO footage filmed by US military",
    "url": "https://www.euronews.com/2026/11/21/pentagon-declassifies-new-ufo-footage-filmed-by-us-military",
    "content": "The US Department of War has published its eighth release of declassified historical files on unidentified anomalous phenomena, with further documents expected to be made public.",
@@ -167,48 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/20/bhutan-traditional-wood-painting-shapes-the-kingdoms-architecture",
    "content": "In Bhutan, artisans hand-paint intricate patterns on wooden buildings, preserving a centuries-old tradition. Known as Shing Tshon, the craft remains central to the kingdom's cultural identity.",
    "published_date": "Fri, 20 Nov 2026 11:25:45 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Iran readies tanker convoy at Kharg Island to test US oil blockade",
-   "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
-   "content": "More than 14 tankers have been assigned crews and Iranian flags at the terminal that handles up to 90% of the country’s crude exports, according to satellite imagery and ship-tracking data, with a convoy expected to head toward the Sea of Oman in the coming days.",
-   "published_date": "Fri, 20 Nov 2026 11:06:49 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Fiona the hippo dies after swallowing a visitor's hat",
-   "url": "https://www.euronews.com/2026/11/20/fiona-the-hippo-dies-after-swallowing-a-visitors-hat",
-   "content": "Fiona, the Cincinnati Zoo's much-loved hippopotamus, has died after swallowing a knitted hat that became stuck in her digestive system. Vets made several attempts to remove the object but were unable to save the nine-year-old animal.",
-   "published_date": "Fri, 20 Nov 2026 10:29:48 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Video shows isolated Awá Indigenous people make contact with government team in Brazil",
-   "url": "https://www.euronews.com/2026/11/20/video-shows-isolated-awa-indigenous-people-make-contact-with-government-team-in-brazil",
-   "content": "Around 20 members of Brazil’s isolated Awá Indigenous group have approached a government outpost in the Amazon, asking for yams before returning to the forest. The rare encounter has raised concerns about their health and possible food shortages.",
-   "published_date": "Fri, 20 Nov 2026 10:17:17 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "US: Protesters demand human control over AI after Anthropic's IPO",
-   "url": "https://www.euronews.com/video/2026/11/20/us-protesters-demand-human-control-over-ai-after-anthropics-ipo",
-   "content": "Protesters gathered outside Anthropic’s San Francisco headquarters on 19 November 2026 to demand tighter regulation and greater human control over artificial intelligence, following the company’s $2 trillion stock market debut.",
-   "published_date": "Fri, 20 Nov 2026 09:49:48 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Japan: The dark secret behind an island paradise full of rabbits",
-   "url": "https://www.euronews.com/video/2026/11/20/japan-the-dark-secret-behind-an-island-paradise-full-of-rabbits",
-   "content": "Hundreds of rabbits roam freely on Japan's Okunoshima Island, delighting visitors from around the world. But behind its idyllic scenery lies a troubling history of secret chemical weapons production.",
-   "published_date": "Fri, 20 Nov 2026 09:28:27 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Ukraine: Kyiv metro stations become overnight shelters amid air raids",
-   "url": "https://www.euronews.com/video/2026/11/20/ukraine-kyiv-metro-stations-become-overnight-shelters-amid-air-raids",
-   "content": "Residents of Kyiv, Ukraine, sought refuge in underground metro stations overnight on Thursday 19 November 2026, as repeated air raid alerts warned of further Russian attacks on the capital. Strikes on the Ukrainian capital killed at least one person, injured five and damaged two embassies.",
-   "published_date": "Fri, 20 Nov 2026 09:06:11 +0100",
    "score": 0.6
   }
  ],
