@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Abin da ya haifar da saɓani tsakanina da matata - Abba Kabir",
+   "url": "https://www.bbc.com/hausa/articles/cmjwjv92v90vo?at_medium=RSS&at_campaign=rss",
+   "content": "\"Irin wannan harka ta iyali abu ne mai matuƙar wahala,\" in ji Gwamna Yusuf.",
+   "published_date": "Sun, 22 Nov 2026 04:01:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Falasɗinawa biyu sun mutu sakamakon hare-haren Isra'ila a Gaza",
+   "url": "https://www.bbc.co.uk/hausa/live/credqyep9x75t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 22/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "AC Milan na sanya ido kan Fernandez, Trabzonspor ta dawo zawarcin Richarlison",
+   "url": "https://www.bbc.com/hausa/articles/cm4gn8jgwk83o?at_medium=RSS&at_campaign=rss",
+   "content": "AC Milan na sa ido kan ɗan wasan tsakiyar Manchester United, Bruno Fernandes; ƴan wasan Arsenal biyu har yanzu ba su fara tattaunawa kan sabbin kwangiloli ba; yayin da Trabzonspor ta sake nuna sha'awarta kan ɗan wasan gaban Tottenham, Richarlison.",
+   "published_date": "Sun, 22 Nov 2026 04:00:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Su wane ne Larabawan Mahamid da aka kora daga Jamhuriyar Nijar?",
+   "url": "https://www.bbc.com/hausa/articles/cqvg2e3k1v0mo?at_medium=RSS&at_campaign=rss",
+   "content": "Hukumomi a Nijar na zargin Larabawan ne da hannu wajen tallafa wa ƙungiyoyin masu iƙirarin jihadi kamar Boko Haram da ISWAP.",
+   "published_date": "Sun, 22 Nov 2026 04:01:05 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda shugaban kamfanin fasaha ya rasa muƙaminsa saboda 'bin mata'",
+   "url": "https://www.bbc.com/hausa/articles/cqd01j727nv3o?at_medium=RSS&at_campaign=rss",
+   "content": "Shugabannin Amurka da China na neman kusantarsa, masu zuba jari na girmama shi, yayin da ake kallonsa a matsayin mutumin da ke mutunta iyalinsa.",
+   "published_date": "Sun, 22 Nov 2026 04:01:21 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Mun daƙile harin makamai masu linzami na Houthi a Riyadh - Saudiyya",
    "url": "https://www.bbc.co.uk/hausa/live/cmj6l8k4e003t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 21/11/2026",
@@ -27,41 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cq8j40l7kgmjo?at_medium=RSS&at_campaign=rss",
    "content": "Fari na nufin karanta Alƙur'ani gaba ɗaya daga farko zuwa ƙarshe ba tare da wani kuskure ba ko da na harafi ne.",
    "published_date": "Sat, 21 Nov 2026 03:56:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda Putin ke yawo da akwatin makamin nukiliya a asirce",
-   "url": "https://www.bbc.com/hausa/articles/cqn70v84egdeo?at_medium=RSS&at_campaign=rss",
-   "content": "Bayyanar Putin da tawagarsa tare da wannan na'ura da ake dangantawa da makaman nukiliya ta sa wasu ke kallon hakan a matsayin nuna ƙarfin soji.",
-   "published_date": "Sat, 21 Nov 2026 03:56:06 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ƙasashe 10 da za su fi yawan Musulmai a duniya nan da 2050",
-   "url": "https://www.bbc.com/hausa/articles/cv0l3194wrrko?at_medium=RSS&at_campaign=rss",
-   "content": "Tsakanin shekarar 2020 da 2070, ana sa ran yawan Musulmi zai ƙaru da kaso 80 cikin 100, daga biliyan 2.02 zuwa biliyan 3.64.",
-   "published_date": "Fri, 20 Nov 2026 11:36:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Amurka ta kashe dala biliyan 48 a yaƙin Iran - Pentagon",
-   "url": "https://www.bbc.co.uk/hausa/live/c6702w9llqg8t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 20/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa masu gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?",
-   "url": "https://www.bbc.com/hausa/articles/cqpv9488v29do?at_medium=RSS&at_campaign=rss",
-   "content": "Me ya sa maMe ya sa masu gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?su gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?",
-   "published_date": "Fri, 20 Nov 2026 17:08:53 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda aka kashe kusan mata 600 cikin watanni uku a Afirka ta Kudu",
-   "url": "https://www.bbc.com/hausa/articles/cm0evg7jj23po?at_medium=RSS&at_campaign=rss",
-   "content": "Yadda aka kashe kusan mata 600 cikin watanni uku a Afirka ta Kudu",
-   "published_date": "Fri, 20 Nov 2026 15:59:48 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,41 @@
    "url": "https://www.bbc.com/hausa/articles/c6rrg0vkdl1zo?at_medium=RSS&at_campaign=rss",
    "content": "Manchester United na harin Nico Paz, sai Besiktas na son ɗaukar Amad Diallo, yayin da Barcelona za ta yi watsi da tayin da za a ɗan wasanta Alejandro Balde. Da ƙarin wasu labaran",
    "published_date": "Thu, 19 Nov 2026 03:52:15 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda Putin ke yawo da akwatin makamin nukiliya a asirce",
+   "url": "https://www.bbc.com/hausa/articles/cqn70v84egdeo?at_medium=RSS&at_campaign=rss",
+   "content": "Bayyanar Putin da tawagarsa tare da wannan na'ura da ake dangantawa da makaman nukiliya ta sa wasu ke kallon hakan a matsayin nuna ƙarfin soji.",
+   "published_date": "Sat, 21 Nov 2026 03:56:06 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ƙasashe 10 da za su fi yawan Musulmai a duniya nan da 2050",
+   "url": "https://www.bbc.com/hausa/articles/cv0l3194wrrko?at_medium=RSS&at_campaign=rss",
+   "content": "Tsakanin shekarar 2020 da 2070, ana sa ran yawan Musulmi zai ƙaru da kaso 80 cikin 100, daga biliyan 2.02 zuwa biliyan 3.64.",
+   "published_date": "Fri, 20 Nov 2026 11:36:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Me ya sa masu gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?",
+   "url": "https://www.bbc.com/hausa/articles/cqpv9488v29do?at_medium=RSS&at_campaign=rss",
+   "content": "Me ya sa maMe ya sa masu gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?su gudun hijira daga Najeriya zuwa Nijar ke ƙaruwa?",
+   "published_date": "Fri, 20 Nov 2026 17:08:53 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Amurka ta kashe dala biliyan 48 a yaƙin Iran - Pentagon",
+   "url": "https://www.bbc.co.uk/hausa/live/c6702w9llqg8t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 20/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda aka kashe kusan mata 600 cikin watanni uku a Afirka ta Kudu",
+   "url": "https://www.bbc.com/hausa/articles/cm0evg7jj23po?at_medium=RSS&at_campaign=rss",
+   "content": "Yadda aka kashe kusan mata 600 cikin watanni uku a Afirka ta Kudu",
+   "published_date": "Fri, 20 Nov 2026 15:59:48 GMT",
    "score": 0.6
   },
   {
@@ -174,41 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cwdd1y4e93nlo?at_medium=RSS&at_campaign=rss",
    "content": "Yaya rundunar 'yan sandan jihohi za ta yi aiki a Najeriya idan Tinubu ya amince da ita?",
    "published_date": "Thu, 19 Nov 2026 16:06:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda Chadi ta yi watsi da shirin Nijar na korar Larabawan Mahamid",
-   "url": "https://www.bbc.com/hausa/articles/cq5y17vzr404o?at_medium=RSS&at_campaign=rss",
-   "content": "Yadda Chadi ta yi watsi da shirin Nijar na korar Larabawan Mahamid",
-   "published_date": "Thu, 19 Nov 2026 03:53:04 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Isra'ila ta ƙaddamar da sabuwar mamaya a Gaza",
-   "url": "https://www.bbc.co.uk/hausa/live/cmj6l5r688e8t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 18/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda APC ke nuna damuwa kan ihun 'Ba ma yi' a wajen kamfe",
-   "url": "https://www.bbc.com/hausa/articles/cmgrenxejgldo?at_medium=RSS&at_campaign=rss",
-   "content": "A baya-bayan nan an ga bidiyoyi da hotunan ƴansiyasar Najeriya da ake yi wa ihun 'Ba ma yi' a lokacin da suka halarci wani taron jama'a.",
-   "published_date": "Wed, 18 Nov 2026 11:59:50 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Da me Amurka ke amfana da tallafin tsaron da take bai wa Najeriya?",
-   "url": "https://www.bbc.com/hausa/articles/cmly7grvlwk2o?at_medium=RSS&at_campaign=rss",
-   "content": "Ministan Tsaron Najeriya, Janar Christopher Musa, ya ce Amurka na taimaka wa sojojin ƙasar wajen bibiyar shugabannin ƙungiyoyin masu tayar da ƙayar baya da kuma daƙile hanyoyin sadarwarsu ta hanyar musayar bayanan sirri na lokaci-lokaci da hotunan tauraron ɗan'adam da kuma horas da jami'an soji.",
-   "published_date": "Wed, 18 Nov 2026 04:00:27 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda sabon jirgin saman shugaban Ghana da ya kai dala miliyan 60 ya tayar da ƙura",
-   "url": "https://www.bbc.com/hausa/articles/cr4gnw9355zeo?at_medium=RSS&at_campaign=rss",
-   "content": "Sayen ya haifar da fushi game da tsadar sa yayin da 'yan Ghana da yawa ke fama da hauhawar farashin rayuwa.",
-   "published_date": "Wed, 18 Nov 2026 16:11:04 GMT",
    "score": 0.6
   }
  ],

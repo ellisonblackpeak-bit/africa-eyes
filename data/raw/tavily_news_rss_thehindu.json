@@ -2,38 +2,122 @@
  "success": true,
  "results": [
   {
+   "title": "IND vs NZ 1st Test Day 4: Jurel sees chance for India despite slowing Basin Reserve pitch",
+   "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-1st-test-day-4-jurel-sees-chance-for-india-despite-slowing-basin-reserve-pitch/article71731020.ece",
+   "content": "The wicket is getting slow, day by day. It is also staying a little low, so we just need to be lucky. We need to bowl eight good balls, Jurel said after the penultimate day’s play",
+   "published_date": "Sun, 22 Nov 2026 14:58:07 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Alam takes four wickets in four balls on debut as Railways beats Saurashtra",
+   "url": "https://www.thehindu.com/sport/cricket/alam-takes-four-wickets-in-four-balls-on-debut-as-railways-beats-saurashtra/article71730975.ece",
+   "content": "Alam became the third Indian to achieve the feat in the competition after Karnataka’s Abhimanyu Mithun in 2019 and Vidarbha’s Darshan Nalkande in 2021.",
+   "published_date": "Sun, 22 Nov 2026 14:19:41 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi",
+   "url": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
+   "content": "Hailing from Parbhani in Maharashtra's Marathwada region, Mr. Wadkute was elected to the Rajya Sabha in April this year",
+   "published_date": "Sun, 22 Nov 2026 13:17:32 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "How Pt. Manilal Nag put Bishnupur on India’s musical map",
+   "url": "https://www.thehindu.com/entertainment/music/how-pt-manilal-nag-put-bishnupur-on-indias-musical-map/article71728226.ece",
+   "content": "The sitar maestro, who passed away recently, effortlessly navigated the gharana’s distinctive blend of dhrupad and khayal traditions.",
+   "published_date": "Sun, 22 Nov 2026 13:10:16 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Healthcare expenditure, AMR and public health | Health Wrap Episode 60",
+   "url": "https://www.thehindu.com/videos/shows/healthcare-expenditure-amr-and-public-health-health-wrap-episode-60/article71730882.ece",
+   "content": "In Episode 60 of Health Wrap by The Hindu, Ramya Kannan, Health Editor, The Hindu, and Zubeda Hamid, Senior Assistant Editor, The Hindu, discuss healthcare expenditure in India, access to reproductive healthcare, and the growing challenge of antimicrobial resistance. The episode also covers the biological differences between egg and sperm production, the illegal human egg collection racket in Telangana and the need for regulation of fertility clinics. Other topics include women’s healthcare, phage therapy and antimicrobial resistance, India’s tuberculosis funding, extreme heat and its effects on pregnant women and newborns, and diabetes screening and community-based diabetes management.",
+   "published_date": "Sun, 22 Nov 2026 13:09:24 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Indian-origin man detained in Texas after serving sentence for visual recording conviction",
+   "url": "https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece",
+   "content": "Raghul Anandakrishnan's custody has been assumed from a Texas county jail, U.S. Immigration and Customs Enforcement (ICE) said in a post on November 22",
+   "published_date": "Sun, 22 Nov 2026 13:02:31 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "NHAI yet to act despite 300 complaints of inordinate delay at Chowlagere toll plaza on NH 75 Hassan-Sakleshpur section",
+   "url": "https://www.thehindu.com/news/national/karnataka/nhai-yet-to-act-despite-300-complaints-of-inordinate-delay-at-chowlagere-toll-plaza-on-nh-75-hassan-sakleshpur-section/article71730786.ece",
+   "content": "The Authority says it will raise the issue with Indian Highways Management Company that handles FASTag of vehicles",
+   "published_date": "Sun, 22 Nov 2026 13:00:23 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Fake MCD parking slips used to dupe motorists in Old Delhi; two rackets busted in 24 hours",
+   "url": "https://www.thehindu.com/news/cities/Delhi/fake-mcd-parking-slips-used-to-dupe-motorists-in-old-delhi-two-rackets-busted-in-24-hours/article71730789.ece",
+   "content": "The accused were arrested near Red Fort and Chandni Chowk for collecting illegal parking fees using forged MCD receipts; police say the unrelated operations had been running for some time and are assessing the total amount collected.",
+   "published_date": "Sun, 22 Nov 2026 12:09:25 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "SEBI proposals will open window to foreign funds with opaque offshore ownership structures, says Congress",
+   "url": "https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece",
+   "content": "India definitely needs foreign investors but not those with opaque and convoluted offshore ownership structures, the opposition party said",
+   "published_date": "Sun, 22 Nov 2026 12:04:21 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Health Wrap Episode 60 discusses healthcare spending, antimicrobial resistance and more",
+   "url": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-60-discusses-healthcare-spending-reproductive-health-antimicrobial-resistance-and-more/article71730685.ece",
+   "content": "The episode discuss trends in healthcare expenditure in India, concerns over the regulation of fertility services, the growing challenge of antimicrobial resistance, and the impact of environmental and social conditions on public health",
+   "published_date": "Sun, 22 Nov 2026 11:55:05 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "CAQM asks Delhi, NCR States to prepare 2027 air pollution action plans with 15-20% reduction target",
+   "url": "https://www.thehindu.com/news/cities/Delhi/caqm-asks-delhi-ncr-states-to-prepare-2027-air-pollution-action-plans-with-15-20-reduction-target/article71728720.ece",
+   "content": "The CAQM has directed Delhi and NCR States to prepare comprehensive 2027 action plans, including district-level measures, to tackle air pollution and achieve a 15%-20% reduction in annual average AQI, PM2.5 and PM10 levels compared with 2026",
+   "published_date": "Sun, 22 Nov 2026 11:49:18 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Trade Unions call for higher corporate taxes, reforms, after Modi pulls up India Inc",
+   "url": "https://www.thehindu.com/videos/trade-unions-call-for-higher-corporate-taxes-reforms-after-modi-pulls-up-india-inc/article71730769.ece",
+   "content": "",
+   "published_date": "Sun, 22 Nov 2026 11:48:38 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "One country, hundreds of dal recipes: exploring India’s diverse lentil traditions",
+   "url": "https://www.thehindu.com/society/india-nation-of-dals-diverse-lentil-traditions-recipes/article71480594.ece",
+   "content": "A look at how the humble ingredient travels through different soils, histories, cultures, climates, and kitchens",
+   "published_date": "Sun, 22 Nov 2026 11:47:18 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Rice has a partner and South India has a thousand ways to cook it",
+   "url": "https://www.thehindu.com/food/features/south-india-dal-pappu-parippu-thousand-ways-to-cook-it/article71714709.ece",
+   "content": "South India’s love affair with dal cuts across class: softened with coconut, stored in mud balls, stepping up for protein when meat is dear",
+   "published_date": "Sun, 22 Nov 2026 11:42:55 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "IND vs NZ 1st Test Day 4 Stumps: New Zealand trail by 233 after India’s mammoth 720/9 declaration",
+   "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-day-4-updates-november-22-2026/article71730494.ece",
+   "content": "India’s 720 for nine was the highest total in a Test innings in New Zealand, eclipsing the home side’s 715 for six declared against Bangladesh at Hamilton in 2019.",
+   "published_date": "Sun, 22 Nov 2026 11:31:20 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Watch: Nepal PM Balendra Shah to visit India for the fist time: what’s on the agenda?",
+   "url": "https://www.thehindu.com/videos/watch-nepal-pm-balendra-shah-to-visit-india-for-the-fist-time-whats-on-the-agenda/article71730735.ece",
+   "content": "Nepal Prime Minister Balendra Shah is going to visit India on November 22–23 for his first state visit since taking office in March. Leading a 34-member delegation, he will meet Prime Minister Narendra Modi on bilateral ties and regional cooperation, with MoUs and connectivity projects on the agenda.",
+   "published_date": "Sun, 22 Nov 2026 11:27:51 +0530",
+   "score": 0.6
+  },
+  {
    "title": "Key takeaways from the Quad, ASEAN-India, and East Asia Summits in Manila | Explained",
    "url": "https://www.thehindu.com/news/international/key-takeaways-from-the-quad-asean-india-and-east-asia-summitsin-manila-explained/article71727587.ece",
    "content": "Narendra Modi’s multilateral ASEAN engagements showed a growing desire to work more closely with the grouping at a time when global powers are working in a more unilateral manner",
-   "published_date": "Sun, 22 Nov 2026 05:23:37 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Delhi Traffic Police flags 1,421 vehicles with more than 100 pending challans to Transport Department",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-traffic-police-flags-1421-vehicles-with-more-than-100-pending-challans-to-transport-department/article71729178.ece",
-   "content": "List includes 723 commercial vehicles, 600 private cars and 85 two-wheelers; Transport Department begins issuing notices to registered owners",
-   "published_date": "Sun, 22 Nov 2026 03:03:55 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Young Indians hold child safety summit in Maduravoyal",
-   "url": "https://www.thehindu.com/news/cities/chennai/young-indians-hold-child-safety-summit-in-maduravoyal/article71728860.ece",
-   "content": "",
-   "published_date": "Sun, 22 Nov 2026 00:57:31 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Woman killed, newlywed couple critical as fire engulfs West Delhi home; neighbours break window to rescue family",
-   "url": "https://www.thehindu.com/news/cities/Delhi/house-fire-in-west-delhis-raghubir-nagar/article71727921.ece",
-   "content": "With the main entrance blocked, residents smashed a window to pull out three trapped family members from the smoke-filled first floor in Raghubir Nagar; the couple, married barely two months ago, suffered 20% and 60% burns respectively.",
-   "published_date": "Sun, 22 Nov 2026 00:42:09 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Vice President urges graduates to embrace lifelong learning, contribute to nation-building",
-   "url": "https://www.thehindu.com/news/national/maharashtra/vice-president-urges-graduates-to-embrace-lifelong-learning-contribute-to-nation-building/article71728470.ece",
-   "content": "‘Your degrees are valuable foundations, but lifelong learning will be your greatest asset,’ said Vice President of India C.P. Radhakrishnan",
-   "published_date": "Sun, 22 Nov 2026 00:30:11 +0530",
+   "published_date": "Sun, 22 Nov 2026 11:21:27 +0530",
    "score": 0.6
   }
  ],
