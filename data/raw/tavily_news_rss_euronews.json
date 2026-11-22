@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
+   "url": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
+   "content": "A dashcam captured the moment a Russian projectile struck a building directly ahead of a car in Lviv, forcing the driver to reverse. The attack killed two people and injured at least 10 others.",
+   "published_date": "Sun, 22 Nov 2026 00:05:47 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
+   "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+   "content": "The “no war, no peace” US-Iran confrontation appears to be moving towards a possible breaking point as Iran increases its military actions in the Gulf and the Strait of Hormuz, while its critical attempt to break the US military naval blockade in the Persian Gulf appears to be imminent.",
+   "published_date": "Sat, 21 Nov 2026 22:32:51 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
+   "url": "https://www.euronews.com/2026/11/21/video-shows-mexican-forces-capturing-el-chapo-isidro-fbi-most-wanted-cartel-boss",
+   "content": "Mexican special forces captured drug kingpin Fausto Isidro Meza Flores, known as “Chapo Isidro”, during a raid in Sinaloa, with footage showing soldiers escorting him into an army vehicle.",
+   "published_date": "Sat, 21 Nov 2026 21:24:17 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Latest news bulletin | November 21st, 2026 – Evening",
    "url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-evening",
    "content": "Catch up with the most important stories from around Europe and beyond this November 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
@@ -9,7 +30,7 @@
    "score": 0.6
   },
   {
-   "title": "Jair Bolsonaro hospitalised with abdominal pain while under house arrest",
+   "title": "Brazil ex-president Bolsonaro in intensive care over intestinal problem",
    "url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
    "content": "The former Brazilian president was taken to hospital with abdominal pain, accompanied by military police.",
    "published_date": "Sat, 21 Nov 2026 15:35:56 +0100",
@@ -18,7 +39,7 @@
   {
    "title": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence",
    "url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence",
-   "content": "Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico.",
+   "content": "Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico. 11 people were killed.",
    "published_date": "Sat, 21 Nov 2026 15:20:35 +0100",
    "score": 0.6
   },
@@ -188,27 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/20/vatican-giant-christmas-tree-lifted-into-place-beside-st-peters-basilica",
    "content": "A towering 25-metre Christmas tree was lifted into place in St Peter's Square, Vatican City, on Friday 20 November 2026, as preparations began for this year's Christmas celebrations. The silver fir, donated by a community in southern Italy, will be unveiled on 7 December.",
    "published_date": "Fri, 20 Nov 2026 12:21:24 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Moving my religion: Vatican Museums explore a century of Popemobiles",
-   "url": "https://www.euronews.com/2026/11/20/papal-progress-vatican-museums-explore-a-century-of-popemobiles",
-   "content": "From Pius XI's Mercedes to John Paul II's Popemobile: eight historic cars show how Popes' vehicles have changed. The Vatican Museums exhibition retraces a century of history, between technology, curiosities and safety.",
-   "published_date": "Fri, 20 Nov 2026 12:03:48 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 20th, 2026 – Midday",
-   "url": "https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-midday",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Fri, 20 Nov 2026 12:00:15 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Bhutan: Traditional wood painting shapes the kingdom's architecture",
-   "url": "https://www.euronews.com/video/2026/11/20/bhutan-traditional-wood-painting-shapes-the-kingdoms-architecture",
-   "content": "In Bhutan, artisans hand-paint intricate patterns on wooden buildings, preserving a centuries-old tradition. Known as Shing Tshon, the craft remains central to the kingdom's cultural identity.",
-   "published_date": "Fri, 20 Nov 2026 11:25:45 +0100",
    "score": 0.6
   }
  ],
