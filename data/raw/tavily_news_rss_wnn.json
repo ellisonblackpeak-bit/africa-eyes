@@ -23,20 +23,6 @@
    "score": 0.6
   },
   {
-   "title": "Concrete work completed for Akkuyu 4's turbine unit",
-   "url": "https://www.world-nuclear-news.org/articles/concrete-work-completed-for-akkuyu-4s-turbine-unit",
-   "content": "More than 2,240 cubic metres of concrete was used to complete the turbine building foundation for Turkey's Akkuyu Nuclear Power Plant's fourth unit.",
-   "published_date": "Mon, 09 Nov 2026 10:32:29 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Estonia narrows search for nuclear power plant location",
-   "url": "https://www.world-nuclear-news.org/articles/estonia-narrows-search-for-nuclear-power-plant-location",
-   "content": "The search for a site for Estonia's first nuclear power plant will now focus on three locations, all in the municipality of Viru-Nigula, about 120 kilometres east of Tallin, after three locations in Lüganuse municipality were ruled out for security reasons.",
-   "published_date": "Mon, 09 Nov 2026 15:27:23 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Fourth Hualong One under construction at San'ao site",
    "url": "https://www.world-nuclear-news.org/articles/fourth-hualong-one-under-construction-at-sanao-site",
    "content": "The first concrete has been poured for the nuclear island of unit 4 of the San'ao nuclear power plant in China's Zhejiang province, China General Nuclear has announced.",
@@ -177,20 +163,6 @@
    "score": 0.6
   },
   {
-   "title": "ASNR opens passive safety system testing facility",
-   "url": "https://www.world-nuclear-news.org/articles/asnr-opens-passive-safety-system-testing-facility",
-   "content": "France's nuclear safety regulator has inaugurated new research infrastructure and facilities at its Cadarache site for studying the reliability of passive safety systems. It aims to generate the scientific knowledge necessary for the independent safety assessment of innovative reactors and small modular reactors.",
-   "published_date": "Mon, 09 Nov 2026 11:54:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Cernavodă units returning to operation after three months",
-   "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-return-to-operation-after-three-months",
-   "content": "Nuclearelectrica and the Romanian government are working on long-term solutions to avoid a repeat of the Cernavodă units being shut down because of drought causing abnormally low water levels in the Danube.",
-   "published_date": "Mon, 09 Nov 2026 14:13:35 GMT",
-   "score": 0.6
-  },
-  {
    "title": "US issues landmark construction permit for Texas SMR plant",
    "url": "https://www.world-nuclear-news.org/articles/us-issues-landmark-construction-permit-for-texas-smr-plant",
    "content": "The US Nuclear Regulatory Commission has issued a construction permit for the proposed plant featuring four Xe-100 small modular reactor units at Dow's Seadrift site - the first construction permit for a high-temperature gas-cooled reactor issued in the USA in nearly 60 years.",
@@ -209,6 +181,34 @@
    "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
    "content": "Oklo's Groves Isotope Test Reactor has been cleared for unrestricted operations by the US Department of Energy.",
    "published_date": "Thu, 12 Nov 2026 07:30:09 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "NRC extends Project Ike review timetable",
+   "url": "https://www.world-nuclear-news.org/articles/nrc-extends-project-ike-review-timetable",
+   "content": "The US regulator has pushed the expected completion date for its review of Orano's application for a licence for its proposed centrifuge enrichment facility back to June 2027 after the company asked for more time to respond to the regulator's questions.",
+   "published_date": "Mon, 16 Nov 2026 14:08:05 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "IAEA sees commitment to safety at Kansai's Mihama unit 3",
+   "url": "https://www.world-nuclear-news.org/articles/iaea-sees-commitment-to-safety-at-kansais-mihama-unit-3",
+   "content": "An International Atomic Energy Agency team of experts has completed a review of long-term operational safety of unit 3 of Kansai Electric Power Company's Mihama nuclear power plant in Japan, which reviewed the plant's response to recommendations and suggestions made during a mission in 2024.",
+   "published_date": "Tue, 17 Nov 2026 11:59:34 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Russian regulator considers licence for Zaporizhzhia unit 3",
+   "url": "https://www.world-nuclear-news.org/articles/russian-regulator-considers-licence-for-zaporizhzhia-unit-3",
+   "content": "A Rostekhnadzor commission has begun work at the Zaporizhzhia Nuclear Power Plant to review material submitted in support of an operating licence application for unit 3.",
+   "published_date": "Wed, 18 Nov 2026 04:39:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "IAEA mission sees commitment to safety at Shin Kori 2",
+   "url": "https://www.world-nuclear-news.org/articles/iaea-mission-sees-commitment-to-safety-at-shin-kori-2",
+   "content": "There is a clear commitment to operational safety and continuous improvement at unit 2 of Korea Hydro and Nuclear Power's Shin Kori nuclear power plant, an International Atomic Energy Agency mission has found.",
+   "published_date": "Wed, 18 Nov 2026 10:26:57 GMT",
    "score": 0.6
   }
  ],
