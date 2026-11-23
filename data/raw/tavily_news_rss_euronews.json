@@ -2,9 +2,23 @@
  "success": true,
  "results": [
   {
+   "title": "Morocco: A surreal sculpture park turns the world upside down",
+   "url": "https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down",
+   "content": "An upside-down house, giant furniture and vegetable-headed figures await visitors at Ramakech, an 11-hectare sculpture park near Marrakech, where French artist Jean-François Fourtou brings childhood memories to life through extraordinary, larger-than-life installations.",
+   "published_date": "Sun, 22 Nov 2026 23:33:48 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Midterms: US Democrats secure biggest House majority in decades",
+   "url": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
+   "content": "Democrats have secured their largest US House of Representatives majority in more than three decades, dealing a crushing blow to President Donald Trump and setting the stage for two years of divided government, political confrontation and ambitious legislative battles.",
+   "published_date": "Sun, 22 Nov 2026 22:29:39 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Tanker incident “involving military forces” reported in Strait of Hormuz",
    "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
-   "content": "Amid conflicting reports that an Iranian tanker departed Iran’s Kharg Island to Sunday to force the US military blockade in the Strait of Hormuz, an incident was reported near the US navy blockade line. Iran threatened that any US attempt to stop its tankers would result in immediate attacks.",
+   "content": "Amid conflicting reports that an Iranian tanker departed Iran’s Kharg Island on Sunday to force the US military blockade in the Strait of Hormuz, an incident was reported near the US navy blockade line. Iran threatened that any US attempt to stop its tankers would result in immediate attacks.",
    "published_date": "Sun, 22 Nov 2026 19:07:13 +0100",
    "score": 0.6
   },
@@ -195,20 +209,6 @@
    "url": "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend",
    "content": "It comes after Russian forces launched a major wave of strikes against Ukraine from Thursday night into Friday morning, killing at least seven people in Kyiv and damaging key bridges across the Dnipro River.",
    "published_date": "Sat, 21 Nov 2026 08:07:09 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 21st, 2026 – Morning",
-   "url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-morning",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sat, 21 Nov 2026 07:00:32 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Germany: Berlin student protest targets rearmament and compulsory service",
-   "url": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
-   "content": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a wider wave of youth demonstrations across Europe.",
-   "published_date": "Fri, 20 Nov 2026 23:54:22 +0100",
    "score": 0.6
   }
  ],
