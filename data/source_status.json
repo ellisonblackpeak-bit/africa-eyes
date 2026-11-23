@@ -2,7 +2,7 @@
  "tavily": {
   "ok": false,
   "detail": "HTTP 432 {\"detail\":{\"error\":\"This request exceeds your plan's set usage limit. Please upgrade your plan or contact support@tavily.com\"}}",
-  "at": "2026-11-23T00:38:57+00:00"
+  "at": "2026-11-23T10:29:41+00:00"
  },
  "gdelt": {
   "ok": false,
@@ -12,6 +12,6 @@
  "xai": {
   "ok": false,
   "detail": "HTTP Error 402: Payment Required",
-  "at": "2026-11-23T00:52:15+00:00"
+  "at": "2026-11-23T10:41:11+00:00"
  }
 }

@@ -1,6 +1,21 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Laos-Malaysia Trade Rises 158 Percent to USD 60.7 Million in 2025",
+   "url": "https://laotiantimes.com/2026/11/23/laos-malaysia-trade-rises-158-percent-to-usd-60-7-million-in-2025/",
+   "content": "Trade between Laos and Malaysia rose 157.8 percent to USD 60.7 million in 2025, according to figures from Malaysia’s Ministry of Foreign Affairs, as the two countries seek to strengthen economic ties. Bilateral trade continued to grow in 2026, increasing 28.7 percent year-on-year to USD 55.9 million in the first eight months. Malaysia exported USD […]",
+   "published_date": "Mon, 23 Nov 2026 06:48:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Laos, North Korea Hold First Joint Committee Meeting in 12 Years",
+   "url": "https://laotiantimes.com/2026/11/23/laos-north-korea-hold-first-joint-committee-meeting-in-12-years/",
+   "content": "On 19 November, Laos and North Korea held the 4th Joint Committee Meeting on Economic, Trade, Scientific and Technological Cooperation in Pyongyang and signed a protocol at the end of the session, Lao state media reported. Minister of Industry and Commerce Malaythong Kommasith headed the Lao delegation, which included representatives from various sectors, at the […]",
+   "published_date": "Mon, 23 Nov 2026 05:04:57 +0000",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_laotiantimes",
  "_query": "https://laotiantimes.com/feed/",

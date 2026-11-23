@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Yadda Kwankwaso ya sa na yi rantsuwar komawa APC – Abba Kabir",
+   "url": "https://www.bbc.com/hausa/articles/ck62pgdp7vy5o?at_medium=RSS&at_campaign=rss",
+   "content": "Saboda haka, Abba ya ce duk wasu tsare-tsare da aka yi, an yi su ne da sanin Kwankwaso, kuma yarjejeniya ce suka cimma, \"shi kuma Kwankwaso bai cika ba\".",
+   "published_date": "Mon, 23 Nov 2026 03:56:25 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Tinubu ya umarci Masari ya sasanta da Dikko",
+   "url": "https://www.bbc.co.uk/hausa/live/c65y1qg3wwjwt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 23/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Manchester United na harin Toney, Fulham na neman tsawaita zaman Bassey",
+   "url": "https://www.bbc.com/hausa/articles/cm93rlp6w1ydo?at_medium=RSS&at_campaign=rss",
+   "content": "Manchester United na duba yiwuwar ɗaukar ɗan wasan gaba na Al-Ahli, Ivan Toney; Fulham na tattaunawa kan sabuwar kwangila da Calvin Bassey; yayin da Paris St-Germain za ta iya ƙara ƙaimi wajen zawarcin ɗan wasan gaba na Bournemouth, Eli Junior Kroupi.",
+   "published_date": "Mon, 23 Nov 2026 03:55:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Matasan Najeriya sun nuna ƙarfinsu a baya - me ya sa ba sa nuna ƙwanji a wannan zaɓen?",
+   "url": "https://www.bbc.com/hausa/articles/cklywqevq70zo?at_medium=RSS&at_campaign=rss",
+   "content": "Matasa ƙaƙilan ne suka yi rijista don kaɗa ƙuri'a a zaɓen shekara mai zuwa idan aka kwatanta da na 2023 - shin matasa suna rasa imanin dimokuraɗiyya?",
+   "published_date": "Mon, 23 Nov 2026 03:56:07 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Abin da ya haifar da saɓani tsakanina da matata - Abba Kabir",
    "url": "https://www.bbc.com/hausa/articles/cmjwjv92v90vo?at_medium=RSS&at_campaign=rss",
    "content": "\"Irin wannan harka ta iyali abu ne mai matuƙar wahala,\" in ji Gwamna Yusuf.",
@@ -30,38 +58,10 @@
    "score": 0.6
   },
   {
-   "title": "Su wane ne Larabawan Mahamid da aka kora daga Jamhuriyar Nijar?",
-   "url": "https://www.bbc.com/hausa/articles/cqvg2e3k1v0mo?at_medium=RSS&at_campaign=rss",
-   "content": "Hukumomi a Nijar na zargin Larabawan ne da hannu wajen tallafa wa ƙungiyoyin masu iƙirarin jihadi kamar Boko Haram da ISWAP.",
-   "published_date": "Sun, 22 Nov 2026 04:01:05 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Yadda shugaban kamfanin fasaha ya rasa muƙaminsa saboda 'bin mata'",
    "url": "https://www.bbc.com/hausa/articles/cqd01j727nv3o?at_medium=RSS&at_campaign=rss",
    "content": "Shugabannin Amurka da China na neman kusantarsa, masu zuba jari na girmama shi, yayin da ake kallonsa a matsayin mutumin da ke mutunta iyalinsa.",
    "published_date": "Sun, 22 Nov 2026 04:01:21 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Mun daƙile harin makamai masu linzami na Houthi a Riyadh - Saudiyya",
-   "url": "https://www.bbc.co.uk/hausa/live/cmj6l8k4e003t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 21/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda Musulunci zai haɓɓaka a Indiya cikin shekaru - Bincike",
-   "url": "https://www.bbc.com/hausa/articles/c3y0x80nlrk8o?at_medium=RSS&at_campaign=rss",
-   "content": "India za ta ci gaba da kasancewa ƙasar Hindu har tsawon shekaru da dama masu zuwa, amma ana hasashen cewa tsarin addininta zai canza a hankali.",
-   "published_date": "Sat, 21 Nov 2026 18:06:58 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Mijina ya riƙa gayyatar maza suna mini fyaɗe tsawon shekara 13'",
-   "url": "https://www.bbc.com/hausa/articles/cmvg2ej7q7eqo?at_medium=RSS&at_campaign=rss",
-   "content": "An samu maza hudu da laifin cin zarafin wata mata bayan mijinta ya bata ta cikin maye.",
-   "published_date": "Sat, 21 Nov 2026 11:45:33 GMT",
    "score": 0.6
   },
   {
@@ -104,6 +104,34 @@
    "url": "https://www.bbc.com/hausa/articles/cm36g12exgp6o?at_medium=RSS&at_campaign=rss",
    "content": "Akwai kungiyoyi da dama da suka yi kaurin suna wajen sallamar kociyoyi idan aka auna tun daga shekarar 2000 zuwa yanzu. Ga jerin wadanda suka fi korar koci a Ingila da dalilan da ke haddasa sauye-sauyen.",
    "published_date": "Sun, 15 Nov 2026 12:17:13 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Mun daƙile harin makamai masu linzami na Houthi a Riyadh - Saudiyya",
+   "url": "https://www.bbc.co.uk/hausa/live/cmj6l8k4e003t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Asabar 21/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Su wane ne Larabawan Mahamid da aka kora daga Jamhuriyar Nijar?",
+   "url": "https://www.bbc.com/hausa/articles/cqvg2e3k1v0mo?at_medium=RSS&at_campaign=rss",
+   "content": "Hukumomi a Nijar na zargin Larabawan ne da hannu wajen tallafa wa ƙungiyoyin masu iƙirarin jihadi kamar Boko Haram da ISWAP.",
+   "published_date": "Sun, 22 Nov 2026 04:01:05 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda Musulunci zai haɓɓaka a Indiya cikin shekaru - Bincike",
+   "url": "https://www.bbc.com/hausa/articles/c3y0x80nlrk8o?at_medium=RSS&at_campaign=rss",
+   "content": "India za ta ci gaba da kasancewa ƙasar Hindu har tsawon shekaru da dama masu zuwa, amma ana hasashen cewa tsarin addininta zai canza a hankali.",
+   "published_date": "Sat, 21 Nov 2026 18:06:58 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Mijina ya riƙa gayyatar maza suna mini fyaɗe tsawon shekara 13'",
+   "url": "https://www.bbc.com/hausa/articles/cmvg2ej7q7eqo?at_medium=RSS&at_campaign=rss",
+   "content": "An samu maza hudu da laifin cin zarafin wata mata bayan mijinta ya bata ta cikin maye.",
+   "published_date": "Sat, 21 Nov 2026 11:45:33 GMT",
    "score": 0.6
   },
   {
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmwy0nn9xy64o?at_medium=RSS&at_campaign=rss",
    "content": "Birnin ƙarƙashin ƙasa da ke ba mutane mafaka daga zafin rana da sanyin hunturu",
    "published_date": "Fri, 20 Nov 2026 03:57:16 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda aka yi wa Musulman Rohingya kisan ƙare-dangi - ICJ",
-   "url": "https://www.bbc.com/hausa/articles/cw33g7e1jvnzo?at_medium=RSS&at_campaign=rss",
-   "content": "Babu wata jiha da kotun duniya ta taɓa samunta da laifin aikata kisan kare dangi.",
-   "published_date": "Thu, 19 Nov 2026 17:21:38 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Hanyoyi 7 da suka kamata a bi don kauce wa rikici a zaɓen Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/ck24e7664dlpo?at_medium=RSS&at_campaign=rss",
-   "content": "Yayin da Najeriya ke tunkarar babban zaɓen shekarar 2027, tambayar da ke ƙara ɗaukar hankali ita ce yadda za a gudanar da zaɓen cikin lumana, ba tare da an samu asarar rayuka ko dukiyoyi ba.",
-   "published_date": "Thu, 19 Nov 2026 03:53:58 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Manyan attajiran Rasha sun fara tunanin wanda zai zama magajin Putin",
-   "url": "https://www.bbc.com/hausa/articles/cqwy41dw91n9o?at_medium=RSS&at_campaign=rss",
-   "content": "Manyan attajiran Rasha sun fara tunanin wanda zai zama magajin Putin",
-   "published_date": "Thu, 19 Nov 2026 03:52:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Su wane ne ƴanbindigar da aka ga suna ganawa da sojojin Najeriya a daji?",
-   "url": "https://www.bbc.com/hausa/articles/c6x2ek2xdx79o?at_medium=RSS&at_campaign=rss",
-   "content": "Tun bayan ɓullar bidiyon ne dai ake ta tafka muhawara a kansa musamman a shafukan sada zumunta.",
-   "published_date": "Thu, 19 Nov 2026 10:58:59 GMT",
    "score": 0.6
   }
  ],
