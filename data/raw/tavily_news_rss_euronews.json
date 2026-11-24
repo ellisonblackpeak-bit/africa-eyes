@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Latest news bulletin | November 24th, 2026 – Morning",
+   "url": "https://www.euronews.com/video/2026/11/24/latest-news-bulletin-november-24th-2026-morning",
+   "content": "Catch up with the most important stories from around Europe and beyond this November 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "published_date": "Tue, 24 Nov 2026 07:00:33 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Tanzania: Towering flames engulf beachfront hotels in Zanzibar",
    "url": "https://www.euronews.com/video/2026/11/23/tanzania-towering-flames-engulf-beachfront-hotels-in-zanzibar",
    "content": "A massive fire swept through six beachfront hotels on the island of Zanzibar, Tanzania, on Saturday 21 November 2026, forcing around 180 tourists to evacuate as flames spread rapidly along the popular Nungwi Beach.",
@@ -202,13 +209,6 @@
    "url": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security",
    "content": "A suspected drone strike on a Russian ship at Libya’s Benghazi port has raised concerns over the spread of the Russia-Ukraine conflict. Authorities are investigating the blast amid growing fears for regional security.",
    "published_date": "Sun, 22 Nov 2026 18:11:34 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Latest news bulletin | November 22nd, 2026 – Evening",
-   "url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-evening",
-   "content": "Catch up with the most important stories from around Europe and beyond this November 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "published_date": "Sun, 22 Nov 2026 18:00:26 +0100",
    "score": 0.6
   }
  ],

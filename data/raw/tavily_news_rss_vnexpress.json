@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Fudo và Hanoi Girls đăng quang tại VYB 3x3 Festival 2026",
-   "url": "https://vnexpress.net/fudo-vo-dich-pro-nu-3x3-cup-ziaja-5147736.html",
-   "content": "Fudo thắng No Name 21-12 ở chung kết Pro nữ, trong khi Hanoi Girls vượt qua Muscle Memory 17-15 tại chung kết Pro nam giải bóng rổ 3x3 tại Hà Nội ngày 22/11.",
-   "published_date": "Mon, 23 Nov 2026 09:20:00 +0700",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",

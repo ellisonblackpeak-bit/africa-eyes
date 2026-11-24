@@ -2,31 +2,101 @@
  "success": true,
  "results": [
   {
-   "title": "CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K.",
-   "url": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
-   "content": "In posts on X, Mr. Das said he was stopped at the immigration counter at the Delhi airport before boarding his 1 a.m. flight to London",
-   "published_date": "Tue, 24 Nov 2026 01:19:46 +0530",
+   "title": "SAMPADA data claims lower anaemia prevalence in India than previous surveys",
+   "url": "https://www.thehindu.com/sci-tech/health/sampada-data-claims-lower-anaemia-prevalence-in-india-than-previous-surveys/article71737352.ece",
+   "content": "India stopped collecting anaemia data as part of NFHS, after the 5th round. This is the first time anaemia data is being published, after the measure was withdrawn from the NFHS on the grounds that the government intended to conduct a gold-standard test of drawing venous blood, instead of the finger prick test",
+   "published_date": "Tue, 24 Nov 2026 12:13:10 +0530",
    "score": 0.6
   },
   {
-   "title": "Pink police booth in East Delhi to offer QR code facility for filing complaints",
-   "url": "https://www.thehindu.com/news/cities/Delhi/pink-police-booth-in-east-delhi-to-offer-qr-code-facility-for-filing-complaints/article71736211.ece",
+   "title": "Punjab Assembly polls: BJP-SAD to hold joint presser today",
+   "url": "https://www.thehindu.com/news/national/punjab-elections-bharatiya-janata-party-shiromani-akali-dal-bjp-sad-alliance-seat-sharing-november-24-2026/article71737438.ece",
+   "content": "Union Home Minister Amit Shah, BJP national president Nitin Nabin, and SAD president Sukhbir Singh Badal will address the meeting at the BJP headquarters in New Delhi at 1 p.m.",
+   "published_date": "Tue, 24 Nov 2026 12:07:22 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi | Singer Sushma Soma’s Everest tragedy becomes a stage meditation on love, loss and healing",
+   "url": "https://www.thehindu.com/entertainment/theatre/delhi-singer-sushma-somas-everest-tragedy-becomes-a-stage-meditation-on-love-loss-and-healing/article71734905.ece",
+   "content": "Sushma Soma’s husband summited Mount Everest in 2023 but never returned. The Singapore-based singer-songwriter explores love, loss and healing in foreverest, a multi-genre production, that debuts at Oddbird Theatre, Delhi, on November 27, 2026",
+   "published_date": "Tue, 24 Nov 2026 12:00:31 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16, spokesperson says",
+   "url": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
+   "content": "Ms. Hasina went into exile in India on August 5, 2024, after a student-led mass uprising forced her to end her 15-year rule",
+   "published_date": "Tue, 24 Nov 2026 11:58:36 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Asia Cup Rising Stars: UAE elects to bat against India ‘A’",
+   "url": "https://www.thehindu.com/sport/cricket/asia-cup-rising-stars-india-a-vs-uae-in-doha/article71737454.ece",
+   "content": "India A have made three changes to the playing XI, bringing in Prabhsimran Singh, Harsh Dubey and Arshad Khan in place of Ayush Badoni, Vipraj Nigam and Prince Yadav",
+   "published_date": "Tue, 24 Nov 2026 11:58:02 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "India and Israel: Cut from different cloths",
+   "url": "https://www.thehindu.com/news/international/view-from-india-newsletter-india-and-israel-cut-from-different-cloths/article71735254.ece",
    "content": "",
-   "published_date": "Tue, 24 Nov 2026 01:05:59 +0530",
+   "published_date": "Tue, 24 Nov 2026 10:50:31 +0530",
    "score": 0.6
   },
   {
-   "title": "Man stabs 9 Delhi policemen in twin knife attacks at Jama Masjid, shot eight times",
+   "title": "Delhi air quality remains ‘poor’, average AQI settles at 242",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-remains-poor-average-aqi-settles-at-242/article71737261.ece",
+   "content": "Of the 57 weather monitoring stations in Delhi, 34 were in the poor category, 15 in the moderate category and eight in the very poor category. Siri Fort recorded the worst air quality with an AQI of 330",
+   "published_date": "Tue, 24 Nov 2026 10:47:34 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi Police constable suspended over dowry demand, calling off wedding in Haryana",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-constable-suspended-over-alleged-dowry-demand-after-wedding-called-off-in-sonipat/article71735766.ece",
+   "content": "The constable allegedly demanded a ₹13-lakh compact SUV as dowry and called off his wedding in Sonipat on November 20; he has denied the allegations",
+   "published_date": "Tue, 24 Nov 2026 10:47:27 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Defending champion Gukesh starts as an underdog in World Chess Championships",
+   "url": "https://www.thehindu.com/data/defending-champion-gukesh-starts-as-an-underdog-in-world-chess-championships/article71735969.ece",
+   "content": "India’s world beater meets a fellow 20-year old challenger who is in his peak form",
+   "published_date": "Tue, 24 Nov 2026 10:13:43 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Delhi’s rural outskirts are more polluted than the megacity — and crop burning is not the culprit",
+   "url": "https://www.thehindu.com/sci-tech/science/delhis-rural-outskirts-are-more-polluted-than-the-megacity-and-crop-burning-is-not-the-culprit/article71737033.ece",
+   "content": "This counter-intuitive phenomenon is driven by the high use of wood, dung and other household fuels for cooking and heating, a study finds.",
+   "published_date": "Tue, 24 Nov 2026 09:58:35 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Invoking Bengal famine, India tells UNSC costs of conflict not shared equally",
+   "url": "https://www.thehindu.com/news/national/invoking-bengal-famine-india-tells-unsc-costs-of-conflict-not-shared-equally/article71737111.ece",
+   "content": "Ambassador Harish Parvathaneni, told a high-level briefing of the Security Council that developing countries were bearing the brunt of food, fuel, fertiliser and energy shortages caused by global conflicts",
+   "published_date": "Tue, 24 Nov 2026 09:35:09 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Training vs inference: What’s the distinction at the heart of the Sarvam AI-China models controversy? | Explained",
+   "url": "https://www.thehindu.com/business/training-vs-inference-whats-the-distinction-at-the-heart-of-the-sarvam-ai-china-models-controversy-explained/article71736231.ece",
+   "content": "Can India build an indigenous AI ecosystem while hosting models developed in China? What is Sarvam’s Token Factory? What does it mean for India’s AI ambitions?",
+   "published_date": "Tue, 24 Nov 2026 09:12:04 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Google denies rumours of large-scale layoffs in India",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece",
+   "content": "An official Google handle on X noted that “approximately 30 roles were eliminated”",
+   "published_date": "Tue, 24 Nov 2026 09:11:55 +0530",
+   "score": 0.6
+  },
+  {
+   "title": "Man stabs nine Delhi policemen in twin knife attacks at Jama Masjid, shot eight times",
    "url": "https://www.thehindu.com/news/cities/Delhi/man-stabs-9-delhi-policemen-in-twin-knife-attacks-at-jama-masjid-shot-eight-times/article71735372.ece",
    "content": "The 30-year-old attacked five personnel inside Jama Masjid police station before fleeing on a snatched scooter; he stabbed four more policemen when cornered in Chitli Qabar",
-   "published_date": "Tue, 24 Nov 2026 00:49:41 +0530",
-   "score": 0.6
-  },
-  {
-   "title": "Feasibility of retaining Krishi Bhawan mosque must be examined: Delhi Waqf Board",
-   "url": "https://www.thehindu.com/news/cities/Delhi/feasibility-of-retaining-krishi-bhawan-mosque-must-be-examined-delhi-waqf-board/article71734805.ece",
-   "content": "",
-   "published_date": "Tue, 24 Nov 2026 00:22:28 +0530",
+   "published_date": "Tue, 24 Nov 2026 08:56:08 +0530",
    "score": 0.6
   }
  ],

@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Sanatoci 8 da ba su gabatar da ƙuduri ko ɗaya ba a Majalisa ta 10",
+   "url": "https://www.bbc.com/hausa/articles/cxr5g8qll483o?at_medium=RSS&at_campaign=rss",
+   "content": "A rahoton da StatiSense ta fitar kwanan nan, ƙungiyar ta bayyana sunayen sanatoci takwas tare da mazaɓun da suke wakilta.",
+   "published_date": "Tue, 24 Nov 2026 04:04:04 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Arsenal da PSG na harin Nusa, Barnett zai tsawaita zamansa a Tottenham",
+   "url": "https://www.bbc.com/hausa/articles/c8dx1vdwln29o?at_medium=RSS&at_campaign=rss",
+   "content": "Arsenal da PSG na son ɗan wasan RB Leipzig Antonio Nusa, sai Xabi Alonso da ke ci gaba da samun goyan bayan jagororin Chelsea, yayin da Liverpool ke tattaunawa da da mai tsaron ragarta Alisson Becker don ci gaba da zama a ƙungiyar.",
+   "published_date": "Tue, 24 Nov 2026 04:17:39 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda mata ke amfani da wayoyinsu wajen fallasa maza masu cin zarafi",
+   "url": "https://www.bbc.com/hausa/articles/c6zxv004jk5go?at_medium=RSS&at_campaign=rss",
+   "content": "BBC ta tattauna da mata da dama da suka fuskanci cin zarafi, inda suka ce al'umma kan ɗora musu laifin abin da ya same su.",
+   "published_date": "Tue, 24 Nov 2026 04:05:35 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Ina iya gane mutumin da ke da aljanu ko maita da zarar mun haɗa ido'",
+   "url": "https://www.bbc.com/hausa/articles/cqj9m37evr7go?at_medium=RSS&at_campaign=rss",
+   "content": "Ruƙiyya na ɗaya daga cikin hanyoyin da ake bi wajen cire aljanu da maita inda ake karanta ayoyin Alƙur'ani a kan ruwa kafin ya yayyafa wa majinyaci.",
+   "published_date": "Tue, 24 Nov 2026 04:06:29 GMT",
+   "score": 0.6
+  },
+  {
    "title": "'Ban ga dalilin kai wa Iran harin soji ba'",
    "url": "https://www.bbc.co.uk/hausa/live/c65y1qg3wwjwt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 23/11/2026",
@@ -34,34 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cqn70zz8kxjyo?at_medium=RSS&at_campaign=rss",
    "content": "Raguwa ko kuma rashin sha'awar jima'i gaba ɗaya wata matsala ce da ke damun mutane da dama a faɗin duniya, maza da mata baki ɗaya.",
    "published_date": "Mon, 23 Nov 2026 12:53:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Matasan Najeriya sun nuna ƙarfinsu a baya - me ya sa ba sa nuna ƙwanji a wannan zaɓen?",
-   "url": "https://www.bbc.com/hausa/articles/cklywqevq70zo?at_medium=RSS&at_campaign=rss",
-   "content": "Matasa ƙaƙilan ne suka yi rijista don kaɗa ƙuri'a a zaɓen shekara mai zuwa idan aka kwatanta da na 2023 - shin matasa suna rasa imanin dimokuraɗiyya?",
-   "published_date": "Mon, 23 Nov 2026 03:56:07 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abin da ya haifar da saɓani tsakanina da matata - Abba Kabir",
-   "url": "https://www.bbc.com/hausa/articles/cmjwjv92v90vo?at_medium=RSS&at_campaign=rss",
-   "content": "\"Irin wannan harka ta iyali abu ne mai matuƙar wahala,\" in ji Gwamna Yusuf.",
-   "published_date": "Sun, 22 Nov 2026 04:01:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ko ya kamata Musulmi ya dogara da AI wajen neman fatawa ta addini?",
-   "url": "https://www.bbc.com/hausa/articles/cw24e7vgdm61o?at_medium=RSS&at_campaign=rss",
-   "content": "Taƙaddama kan hukuncin AI kan dokokin addini na ƙara yaɗuwa a shafukan sada zumunta, wanda ke nuna muhawara mai faɗi kan bambanci tsakanin tunanin ɗan adam da \"hankali\" na na'ura, gasar duniya don mamaye masana'antar fasaha, da kuma rawar da ilimin addini na tarihi ke takawa a zamanin intanet.",
-   "published_date": "Sun, 22 Nov 2026 12:54:56 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Mun harbo jirgin Amurka mara matuƙi a mashigar Hormuz - Iran",
-   "url": "https://www.bbc.co.uk/hausa/live/credqyep9x75t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 22/11/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -103,6 +103,34 @@
    "title": "Abu uku da zan mayar da hankali a kai don gyara Man Utd - Pochettino",
    "url": "https://www.bbc.co.uk/hausa/live/c6p9dn05777kt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 16 zuwa 22 ga watan Nuwambar 2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Matasan Najeriya sun nuna ƙarfinsu a baya - me ya sa ba sa nuna ƙwanji a wannan zaɓen?",
+   "url": "https://www.bbc.com/hausa/articles/cklywqevq70zo?at_medium=RSS&at_campaign=rss",
+   "content": "Matasa ƙaƙilan ne suka yi rijista don kaɗa ƙuri'a a zaɓen shekara mai zuwa idan aka kwatanta da na 2023 - shin matasa suna rasa imanin dimokuraɗiyya?",
+   "published_date": "Mon, 23 Nov 2026 03:56:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Abin da ya haifar da saɓani tsakanina da matata - Abba Kabir",
+   "url": "https://www.bbc.com/hausa/articles/cmjwjv92v90vo?at_medium=RSS&at_campaign=rss",
+   "content": "\"Irin wannan harka ta iyali abu ne mai matuƙar wahala,\" in ji Gwamna Yusuf.",
+   "published_date": "Sun, 22 Nov 2026 04:01:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ko ya kamata Musulmi ya dogara da AI wajen neman fatawa ta addini?",
+   "url": "https://www.bbc.com/hausa/articles/cw24e7vgdm61o?at_medium=RSS&at_campaign=rss",
+   "content": "Taƙaddama kan hukuncin AI kan dokokin addini na ƙara yaɗuwa a shafukan sada zumunta, wanda ke nuna muhawara mai faɗi kan bambanci tsakanin tunanin ɗan adam da \"hankali\" na na'ura, gasar duniya don mamaye masana'antar fasaha, da kuma rawar da ilimin addini na tarihi ke takawa a zamanin intanet.",
+   "published_date": "Sun, 22 Nov 2026 12:54:56 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Mun harbo jirgin Amurka mara matuƙi a mashigar Hormuz - Iran",
+   "url": "https://www.bbc.co.uk/hausa/live/credqyep9x75t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 22/11/2026",
    "published_date": "",
    "score": 0.6
   },
@@ -181,34 +209,6 @@
    "url": "https://www.bbc.co.uk/hausa/live/c6702w9llqg8t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Juma'a 20/11/2026",
    "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Yadda aka kashe kusan mata 600 cikin watanni uku a Afirka ta Kudu",
-   "url": "https://www.bbc.com/hausa/articles/cm0evg7jj23po?at_medium=RSS&at_campaign=rss",
-   "content": "Yadda aka kashe kusan mata 600 cikin watanni uku a Afirka ta Kudu",
-   "published_date": "Fri, 20 Nov 2026 15:59:48 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abin da ya kamata ku sani kan bashin gidaje na gwamnatin Najeriya",
-   "url": "https://www.bbc.com/hausa/articles/c69q84gg3pe0o?at_medium=RSS&at_campaign=rss",
-   "content": "Majalisar Dinkin Duniya ta yi gargadin cewa Najeriya na fama da matsalar karancin gidaje, inda take a sahun kasashen da lamarinsu ya fi muni a duniya.",
-   "published_date": "Fri, 20 Nov 2026 03:57:55 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Tarihin Sheikh Ibrahim Inyass da tasirinsa a ɗarikar Tijjaniya",
-   "url": "https://www.bbc.com/hausa/articles/c3x29jn1qre5o?at_medium=RSS&at_campaign=rss",
-   "content": "A fagen Tijjaniyya kuwa, Sheikh Ibrahim Inyass ya taka muhimmiyar rawa wajen faɗaɗa ɗarikar, inda koyarwarsa ta \"Faidha Tijjaniyya\" ta jawo miliyoyin mabiyansa a Afirka da sauran wurare.",
-   "published_date": "Fri, 20 Nov 2026 03:57:36 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me doka ta ce kan hana jam'iyyar siyasa amfani da wuraren gwamnati wajen kamfe?",
-   "url": "https://www.bbc.com/hausa/articles/cqrlgklxj2gko?at_medium=RSS&at_campaign=rss",
-   "content": "Ƴan siyasa na ci gaba da nuna damuwa kan yadda suke fuskantar matsaloli wajen samun wuraren gudanar da yaƙin neman zaɓe a wasu jihohin Najeriya.",
-   "published_date": "Thu, 19 Nov 2026 14:56:19 GMT",
    "score": 0.6
   }
  ],
