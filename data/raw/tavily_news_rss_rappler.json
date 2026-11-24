@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Order in the Court: Supreme Court’s good news for seafarers",
-   "url": "https://www.rappler.com/philippines/order-in-the-court-supreme-court-ruling-magna-carta-seafarers/",
-   "content": "The High Court voids a section of the Magna Carta of Filipino Seafarers that requires seafarers to pay a bond even if they already won their labor case against shipowners or agencies",
-   "published_date": "Tue, 24 Nov 2026 10:33:05 +0800",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",

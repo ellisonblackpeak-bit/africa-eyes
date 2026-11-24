@@ -2,10 +2,45 @@
  "success": true,
  "results": [
   {
-   "title": "Inú mi kò dùn nígbà tí Taiwo mi ṣe ìgbéyàwó torí ó dà bí ẹni pé wọ́n gba ìyàwó mi ni - Kehinde Afolabi",
+   "title": "Bí Olubadan ṣe rọ̀ mí lóyè lọ́wọ́ òṣèlú àti ọ̀tẹ̀ nínú - Aborisade",
+   "url": "https://www.bbc.com/yoruba/articles/cmkg54kg04lpo?at_medium=RSS&at_campaign=rss",
+   "content": "‎Aborishade ni ọdun 2022 ni Ọba Lekan Balogun fi oun joye, lẹyin ti awọn idile oun ti fa oun kalẹ gẹgẹ bi Mogaji wọn.",
+   "published_date": "Tue, 24 Nov 2026 12:42:30 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ilé ẹjọ́ CAS kéde Senegal gẹ́gẹ́ bí ẹgbẹ́ agbábọ́ọ̀lù tó gba ife ẹ̀yẹ AFCON 2025, Morocco mófo",
+   "url": "https://www.bbc.com/yoruba/articles/cqj6lrl2354ko?at_medium=RSS&at_campaign=rss",
+   "content": "Igbẹjọ naa bẹrẹ nigba ti awuyewuye su yọ lori asekagba ifẹsẹwọnsẹ ere idaraya AFCON tọdun 2025 to waye ni papa isere idaraya Ọmọọba Moulay Abdellah nilu Rabat nilẹ Morroco lọjọ kẹjidinlogun osu kinni ọdun 2026.",
+   "published_date": "Tue, 24 Nov 2026 10:20:41 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Kò ṣe é má gbọ̀ ọ́",
+   "url": "https://www.bbc.com/yoruba/articles/c87e81lzqqvo?at_medium=RSS&at_campaign=rss",
+   "content": "Àkójọpọ̀ ìròyìn káàkiri àgbáyé tí kò ṣe è má gbọ̀ ọ́",
+   "published_date": "Tue, 24 Nov 2026 12:34:21 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Tinubu buwọ́lu ₦250m fún ẹbí àwọn èèyàn tó kú sómi nínú ìjàmbá ọkọ̀ ojú omi ní Bayelsa",
+   "url": "https://www.bbc.com/yoruba/articles/cmn0dw15px60o?at_medium=RSS&at_campaign=rss",
+   "content": "Igbakeji aarẹ Naijiria, Kashim Shettima, lo kede owo naa lasiko to ṣabẹwo si Bayelsa",
+   "published_date": "Tue, 24 Nov 2026 10:20:19 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Émi àti ìkejí mi máa ń dáwọ́jọ lu ẹni tó bá fìyà jẹ wa- Taiwo àti Kehinde Afolabi",
    "url": "https://www.bbc.com/yoruba/articles/cmx2075pndyxo?at_medium=RSS&at_campaign=rss",
-   "content": "Ọgbẹni Kehinde Afolabi sọ pe oun loun buru ju nigba tawọn n dagba, amọ, baba naa ni oun ti yi pada bayii.",
+   "content": "Ìfẹ́ to lagbara lo wa laaarin awọn ibeji naa titi di asiko yii gẹgẹ bi wọn ṣe sọ",
    "published_date": "Tue, 24 Nov 2026 06:28:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Wo awọn Sẹnetọ ti wọn ko tii gbe aba kankan lọ sile igbimọ asofin Naijiria lati 2023",
+   "url": "https://www.bbc.com/yoruba/articles/cq0l31x69555o?at_medium=RSS&at_campaign=rss",
+   "content": "Akọsilẹ StatiSense ṣafihan akọsile ọhun lati ọdun 2023 titi di oṣu Kọkanla, ọdun 2026.",
+   "published_date": "Tue, 24 Nov 2026 08:34:55 GMT",
    "score": 0.6
   },
   {
@@ -20,20 +55,6 @@
    "url": "https://www.bbc.com/yoruba/articles/cm5y15gyqq4zo?at_medium=RSS&at_campaign=rss",
    "content": "Ọjọ kejilelolgun, oṣu Kọkanla ọdun 2026 yii ni iroyin kan jade wi pe Anike Sinleke ti dagbere faye.",
    "published_date": "Mon, 23 Nov 2026 16:19:02 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kò ṣe é má gbọ̀ ọ́",
-   "url": "https://www.bbc.com/yoruba/articles/c87e81lzqqvo?at_medium=RSS&at_campaign=rss",
-   "content": "Àkójọpọ̀ ìròyìn káàkiri àgbáyé tí kò ṣe è má gbọ̀ ọ́",
-   "published_date": "Mon, 23 Nov 2026 13:44:41 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wo awọn Sẹnetọ ti wọn ko tii gbe aba kankan lọ sile igbimọ asofin Naijiria lati 2023",
-   "url": "https://www.bbc.com/yoruba/articles/cq0l31x69555o?at_medium=RSS&at_campaign=rss",
-   "content": "Akọsilẹ StatiSense ṣafihan akọsile ọhun lati ọdun 2023 titi di oṣu Kọkanla, ọdun 2026.",
-   "published_date": "Mon, 23 Nov 2026 17:31:07 GMT",
    "score": 0.6
   },
   {
@@ -58,10 +79,10 @@
    "score": 0.6
   },
   {
-   "title": "MTN ṣàlàyé ìdí tí Data àwọn ọmọ Naijiria fi ń tètè tán",
-   "url": "https://www.bbc.com/yoruba/articles/cqkgjexk4mxko?at_medium=RSS&at_campaign=rss",
-   "content": "Lọpọ igba, data ọhun ki I pẹẹ tan, bii pe kinni kan wa to n fa a mu loju opo ayelujara ni.",
-   "published_date": "Mon, 23 Nov 2026 08:43:53 GMT",
+   "title": "Darapọ̀ mọ́ wa lórí WhatsApp",
+   "url": "https://whatsapp.com/channel/0029Vb18ZTM9Gv7NliClgu0M?at_medium=RSS&at_campaign=rss",
+   "content": "Má jẹ́ kí etí rẹ ó di sí gbogbo ìròyìn ohun tó ń lọ ní Naijiria àti káàkiri àgbáyé. Mọ̀ nípa wọn lórí ìkànnì Whatsapp rẹ",
+   "published_date": "Mon, 15 Apr 2024 11:20:59 GMT",
    "score": 0.6
   },
   {
@@ -79,6 +100,13 @@
    "score": 0.6
   },
   {
+   "title": "MTN ṣàlàyé ìdí tí Data àwọn ọmọ Naijiria fi ń tètè tán",
+   "url": "https://www.bbc.com/yoruba/articles/cqkgjexk4mxko?at_medium=RSS&at_campaign=rss",
+   "content": "Lọpọ igba, data ọhun ki I pẹẹ tan, bii pe kinni kan wa to n fa a mu loju opo ayelujara ni.",
+   "published_date": "Mon, 23 Nov 2026 08:43:53 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ohun tó ṣẹlẹ̀ nínú ìjọ Fountain of Life láàárọ̀ òní rèé",
    "url": "https://www.bbc.com/yoruba/articles/cv0l3022g95xo?at_medium=RSS&at_campaign=rss",
    "content": "Akọroyin wa to lọ sibẹ jabọ pe pasitọ Jimmy Odukoya ti wọn yọ nipo naa wa ninu ile ijọsin ọhun to si ji joko si aye rẹ gẹgẹ bii bi ipo adari to wa.",
@@ -93,17 +121,17 @@
    "score": 0.6
   },
   {
-   "title": "A máa ri pé iná ìjọba dúró dédé ju ti àtẹ̀yìnwá lọ tí a bá wọlé sáà kejì – Tinubu",
-   "url": "https://www.bbc.com/yoruba/articles/cq39gjx4xeplo?at_medium=RSS&at_campaign=rss",
-   "content": "Nigba to n sọrọ, Aarẹ Tinubu ni ki gbogbo awọn ero to wa gbadege Mapo ti ipolongo naa ti n waye duro isẹju kan fun gbogbo awọn ti wọn padanu ẹmi wọn ninu ijamba ọkọ ori omi to danu ni ipinlẹ Bayesa.",
-   "published_date": "Sun, 22 Nov 2026 06:18:07 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Kí ló mú kí géèmù GTA 6 máa tà wàràwàrà láàárín ọjọ́ díẹ̀ tó jáde?",
    "url": "https://www.bbc.com/yoruba/articles/cqvg2p3vv1yzo?at_medium=RSS&at_campaign=rss",
    "content": "Lati ṣagbeyẹwo si fọnran to to o, sinima Spider-Man: Brand New Day, lo pa biliọnu meji ataabọ ni gbogbo asiko to fi lọ sinima.",
    "published_date": "Sat, 21 Nov 2026 12:53:26 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "A máa ri pé iná ìjọba dúró dédé ju ti àtẹ̀yìnwá lọ tí a bá wọlé sáà kejì – Tinubu",
+   "url": "https://www.bbc.com/yoruba/articles/cq39gjx4xeplo?at_medium=RSS&at_campaign=rss",
+   "content": "Nigba to n sọrọ, Aarẹ Tinubu ni ki gbogbo awọn ero to wa gbadege Mapo ti ipolongo naa ti n waye duro isẹju kan fun gbogbo awọn ti wọn padanu ẹmi wọn ninu ijamba ọkọ ori omi to danu ni ipinlẹ Bayesa.",
+   "published_date": "Sun, 22 Nov 2026 06:18:07 GMT",
    "score": 0.6
   },
   {
@@ -114,24 +142,10 @@
    "score": 0.6
   },
   {
-   "title": "Kò ṣe é má gbọ̀ ọ́",
-   "url": "https://www.bbc.com/yoruba/articles/c87e81lzqqvo?at_medium=RSS&at_campaign=rss",
-   "content": "Àkójọpọ̀ ìròyìn káàkiri àgbáyé tí kò ṣe è má gbọ̀ ọ́",
-   "published_date": "Mon, 23 Nov 2026 13:44:41 GMT",
-   "score": 0.6
-  },
-  {
    "title": "\"O ti tẹ́ lálẹ́ yìí, màá tọrọ ìdáríjì tó bá yá!\" Ṣé lóòótọ́ ni olórí ilé aṣòfin ìpínlẹ̀ Osun ń gbé aráàlú kan ṣépè lóríi fóònù?",
    "url": "https://www.bbc.com/yoruba/articles/cmkg5z44e5pyo?at_medium=RSS&at_campaign=rss",
    "content": "Ninu ohun naa ti wọn ka silẹ laarin agbẹnusọ ọhun ati ọkunrun ti a gbọ pe orukẹ rẹ n jẹ Taofeek ni ohun ẹni to jọ ti Ọgbẹni Egbedun ti n ṣẹ epe fun ọkunrin naa.",
    "published_date": "Sat, 21 Nov 2026 07:12:48 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Darapọ̀ mọ́ wa lórí WhatsApp",
-   "url": "https://whatsapp.com/channel/0029Vb18ZTM9Gv7NliClgu0M?at_medium=RSS&at_campaign=rss",
-   "content": "Má jẹ́ kí etí rẹ ó di sí gbogbo ìròyìn ohun tó ń lọ ní Naijiria àti káàkiri àgbáyé. Mọ̀ nípa wọn lórí ìkànnì Whatsapp rẹ",
-   "published_date": "Mon, 15 Apr 2024 11:20:59 GMT",
    "score": 0.6
   },
   {
@@ -149,10 +163,10 @@
    "score": 0.6
   },
   {
-   "title": "Àwọn agbébọn wo làwọn ọmọ ogun ń bá ṣèpàdé nínú igbó ní Kwara?",
-   "url": "https://www.bbc.com/yoruba/articles/cm782e6jl971o?at_medium=RSS&at_campaign=rss",
-   "content": "Bi awọn kan ṣe n sọ pe nnkan ti awọn ọmọ naa ṣe ku diẹ kaato, awọn miran n sọ pe ọna lati koju ogun ni.",
-   "published_date": "Fri, 20 Nov 2026 12:35:04 GMT",
+   "title": "Awọn ọ̀dọ́ ní iṣẹ́ láti ṣe lórí ọ̀rọ̀ ìṣèjọba àti ìdàgbàsókè - Ashamu, olùdíje ilé aṣojúṣòfin nípínlẹ̀ Oyo",
+   "url": "https://www.bbc.com/yoruba/watch/ck5y13lmmzr2o?at_medium=RSS&at_campaign=rss",
+   "content": "BBC News Yoruba ba Temilolu Nurudeen Ashamu, tii se olùdíje ilé aṣojúṣòfin nípínlẹ̀ Oyo labẹ ẹgbẹ oselu APM sọrọ lati mọ awọn afojusun rẹ.",
+   "published_date": "Thu, 12 Nov 2026 07:02:23 GMT",
    "score": 0.6
   },
   {
@@ -177,6 +191,13 @@
    "score": 0.6
   },
   {
+   "title": "Àwọn òṣìṣẹ́fẹ̀yìntì ní BCOS n'Ibadan figbe ta lórí owó ìfẹ̀yìntì tíjọba jẹ wọ́n",
+   "url": "https://www.bbc.com/yoruba/articles/cm0evgw7gvwzo?at_medium=RSS&at_campaign=rss",
+   "content": "Nigba to n ba awọn akọroyin sọrọ, lẹyin ipade naa, alaga ẹgbẹ naa, Ọgbẹni Ayorinde Adisa sọ pe ko yẹ ki awọn ma daamu lati gba owo ifẹyinti wọn, lẹyin ọpọ ọdun ti wọn fi ṣiṣẹ sin ijọba.",
+   "published_date": "Thu, 19 Nov 2026 18:54:48 GMT",
+   "score": 0.6
+  },
+  {
    "title": "\"Ba ma yi! Ba ma yi!!\" Kí ni ìtumọ̀ ariwo táwọn kan pa lé Tinubu lórí ní mọ́ṣáláṣí Abuja tí APC ń di ẹ̀bi rẹ̀ rú ẹgbẹ́ alátakò",
    "url": "https://www.bbc.com/yoruba/articles/c6lyw49nqrl5o?at_medium=RSS&at_campaign=rss",
    "content": "Aarẹ Bola Tinubu lo lọ kirun jimọ ni Mosalasi kan nilu Abuja lọsẹ to kọja nigba ti isẹlẹ naa ti waye.",
@@ -188,27 +209,6 @@
    "url": "https://www.bbc.com/yoruba/articles/cjx2ry07nv1ko?at_medium=RSS&at_campaign=rss",
    "content": "Ninu ọrọ rẹ, adari ile igbimọ aṣofin Enugu, Họnarebu Uche Ugwu, sọ pe abadofin yii jẹ ọkan pataki ninu awọn eto ti ijọba n ṣe nipinlẹ Enugu eyi ti yoo ṣanfaani fun araalu.",
    "published_date": "Wed, 18 Nov 2026 14:29:06 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Èèyàn mẹ́tàdínlógún jáde láyé báwọn agbébon ṣe ṣíná ìbọn bolẹ̀ fáwọn èrò inú ọkọ̀",
-   "url": "https://www.bbc.com/yoruba/articles/ck62p74en1djo?at_medium=RSS&at_campaign=rss",
-   "content": "Ileeṣẹ ọlọpaa ni awọn iṣẹlẹ naa ko ni ohunkohun ṣe pẹlu ara wọn ati pe wọn ko le fidii ohun to ṣokunfa ipaniyan naa mulẹ.",
-   "published_date": "Wed, 18 Nov 2026 06:33:04 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ohun tó yẹ kí o mọ̀ nípa ètò ẹ̀yáwó iléègbé ₦100m ti Tinubu kéde fọ́mọ Naijiria",
-   "url": "https://www.bbc.com/yoruba/articles/crx20gx120zeo?at_medium=RSS&at_campaign=rss",
-   "content": "Ijọba apapọ ni igbesẹ yii wa lara akiyitiyan lati pese ileegbe si i, eyi ti akọsilẹ sọ pe orilẹede Naijiria si nilo ile miliọnu mẹẹdogun lati koju iṣoro airilegbe.",
-   "published_date": "Fri, 20 Nov 2026 06:50:01 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Kí ni ìdí tí ìjọba àpapọ̀ ṣe gbẹ́sẹ̀lé ètò ìgbaniṣíṣẹ́ lọ́dún 2027?",
-   "url": "https://www.bbc.com/yoruba/articles/ck9q87rgywl3o?at_medium=RSS&at_campaign=rss",
-   "content": "Ọrọ yii lo jẹyọ ninu atẹjade kan lati ọọfisi olori oṣiṣẹ Naijiria, eyii ti akọwe agba rẹ, Ishiyaku Musa Mohammed, buwọlu.",
-   "published_date": "Tue, 17 Nov 2026 14:17:46 GMT",
    "score": 0.6
   }
  ],
