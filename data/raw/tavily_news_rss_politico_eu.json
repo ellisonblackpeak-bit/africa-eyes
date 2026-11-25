@@ -2,10 +2,52 @@
  "success": true,
  "results": [
   {
+   "title": "Alberto Núñez Feijóo: One step away from running Spain",
+   "url": "https://www.politico.eu/article/alberto-nunez-feijoo-one-step-away-from-running-spain/",
+   "content": "The Galician styles himself as an unflashy, sober manager — in stark contrast to Socialist Prime Minister Pedro Sánchez.",
+   "published_date": "Wed, 25 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "‘Everything that concerns Libya concerns Italy’: Why Ukraine’s Med strike is a problem for Meloni",
+   "url": "https://www.politico.eu/article/ukraine-strikes-russian-ships-libya-giorgia-meloni-italy/",
+   "content": "The Italian prime minister is a strong backer of Kyiv, but there is worry in Rome that the strikes on Russian ships could destabilize Libya.",
+   "published_date": "Wed, 25 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "James Cleverly is ready to run for London mayor. Labour is still waiting on Sadiq Khan.",
+   "url": "https://www.politico.eu/article/sadiq-khan-james-cleverly-labour-conservative-mayor-london/",
+   "content": "The incumbent London mayor needs to make up his mind or risk giving opponents a head start, Labour MPs are warning.",
+   "published_date": "Wed, 25 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Efforts to free caged rabbits, calves wait on top EU court ruling",
+   "url": "https://www.politico.eu/article/eu-court-ruling-commission-cage-ban-farmed-animals/",
+   "content": "1.4 million Europeans called for a ban on keeping farm animals in cages, but the Commission has been slow to act.",
+   "published_date": "Tue, 24 Nov 2026 20:17:01 +0000",
+   "score": 0.6
+  },
+  {
    "title": "The good, the bad and the French: EU countries get fiscal report cards",
    "url": "https://www.politico.eu/article/good-bad-france-eu-countries-fiscal-report-cards/",
    "content": "The EU executive arm rapped Bulgaria and Hungary across the knuckles for ignoring the bloc’s fiscal rules.",
    "published_date": "Tue, 24 Nov 2026 18:06:06 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "5 reasons why everyone should care about Jensen Huang’s market-moving return ​",
+   "url": "https://www.politico.eu/article/5-reasons-jensen-huang-nvidia-return/",
+   "content": "When America sneezes, the rest of the world catches a cold.",
+   "published_date": "Tue, 24 Nov 2026 17:53:36 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Quantum may be a bigger security risk than AI. Europe’s got a plan.",
+   "url": "https://www.politico.eu/article/quantum-may-be-a-bigger-security-risk-than-ai-europes-got-a-plan/",
+   "content": "As the EU unveils its Quantum Act, the tech industry must begin to face the risk of encryption coming undone.",
+   "published_date": "Tue, 24 Nov 2026 17:15:40 +0000",
    "score": 0.6
   },
   {
@@ -16,59 +58,17 @@
    "score": 0.6
   },
   {
+   "title": "Dispute over bird nests threatens to derail centrist peace talks in EU Parliament",
+   "url": "https://www.politico.eu/article/dispute-over-bird-nests-threatens-to-derail-centrist-peace-talks-in-eu-parliament/",
+   "content": "Talks between the centrist forces broke down on Tuesday over a last-minute call from right-wing lawmakers to reopen the bloc’s nature laws.",
+   "published_date": "Tue, 24 Nov 2026 16:15:45 +0000",
+   "score": 0.6
+  },
+  {
    "title": "COP must change after Antalya failure, UK climate chief warns",
    "url": "https://www.politico.eu/article/rachel-kyte-cop-change-antalya-failure/",
    "content": "Rachel Kyte said it was time to “blow the whistle” on COP’s failings.",
    "published_date": "Tue, 24 Nov 2026 15:17:01 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Bulgaria faces EU fine over runaway public finances",
-   "url": "https://www.politico.eu/article/bulgaria-eu-fine-public-finances/",
-   "content": "The potential penalty emerged during Brussels’ latest round of economic oversight.",
-   "published_date": "Tue, 24 Nov 2026 14:38:22 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Snowden on steroids: AI agents in phones trigger surveillance fears",
-   "url": "https://www.politico.eu/article/ai-agents-phone-privacy-surveillance-fears/",
-   "content": "AI agents have already proven to be a cybersecurity risk. Now the privacy world is sounding the alarm.",
-   "published_date": "Tue, 24 Nov 2026 14:31:54 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Farage suggests he could appeal to Le Pen to block Britain rejoining the EU",
-   "url": "https://www.politico.eu/article/farage-le-pen-brexit-eu-accession-uk/",
-   "content": "The Reform UK leader said with a smile: “Are you suggesting that I’d interfere in overseas politics? Quite possibly, yes.”",
-   "published_date": "Tue, 24 Nov 2026 14:15:51 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Wildberger reagiert skeptisch auf Weimers TikTok-Vorstoß",
-   "url": "https://www.politico.eu/article/wildberger-reagiert-skeptisch-auf-weimers-tiktok-vorstoss/",
-   "content": "Der Digitalminister dämpft die Erwartungen an einen europäischen TikTok-Deal. Ein Verkauf allein reiche nicht – auch die Technologie dahinter müsse nach Europa kommen.",
-   "published_date": "Tue, 24 Nov 2026 13:36:11 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "MI5 warns UK defense firms they are target of Russian attacks",
-   "url": "https://www.politico.eu/article/mi5-warns-uk-defense-firms-they-are-target-of-russian-attacks/",
-   "content": "An increased threat of Russian attacks across Europe has prompted British intelligence to call on U.K. defense firms to take action to protect themselves.",
-   "published_date": "Tue, 24 Nov 2026 13:30:17 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Merz to meet Pope Leo, Meloni in Rome",
-   "url": "https://www.politico.eu/article/germany-friedrich-merz-to-meet-pope-leo-italy-giorgia-meloni-in-rome/",
-   "content": "The German chancellor and Pope Leo are expected to discuss human dignity, AI and Ukraine.",
-   "published_date": "Tue, 24 Nov 2026 13:04:25 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "7 EU countries push for ‘urgent’ visa ban on Russian and Belarusian athletes",
-   "url": "https://www.politico.eu/article/7-eu-countries-visa-ban-russia-belarus-athletes/",
-   "content": "The countries say allowing the competitors to return ”risks sending a signal of creeping acceptance of Russia’s war of aggression.”",
-   "published_date": "Tue, 24 Nov 2026 12:46:08 +0000",
    "score": 0.6
   }
  ],

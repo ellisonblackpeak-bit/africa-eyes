@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Your thesis was flagged as AI-written. Now what?",
+   "url": "https://kathmandupost.com/columns/2026/11/24/your-thesis-was-flagged-as-ai-written-now-what",
+   "content": "Nepal’s universities need clear academic integrity policies, not detection software that punishes students on guesswork.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Seven takeaways from Prime Minister Balendra Shah’s India visit",
    "url": "https://kathmandupost.com/national/2026/11/24/seven-takeaways-from-prime-minister-balendra-shah-s-india-visit",
    "content": "From a two-way air route to an eight-MoU haul, here is what Kathmandu got from Delhi, what it left on the table and what went missing altogether.",
@@ -82,41 +89,6 @@
    "title": "5.6-magnitude earthquake strikes near Nepal-Tibet border",
    "url": "https://kathmandupost.com/national/2026/11/24/5-6-magnitude-earthquake-strikes-near-nepal-tibet-border",
    "content": "The earthquake was centred near Olangchung Gola in Taplejung district and struck at 7:17am on Tuesday. The EMSC put its magnitude at 5.3 and depth at 10km.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Inside one of Nepali cinema’s most enduring partnerships",
-   "url": "https://kathmandupost.com/art-culture/2026/11/24/inside-one-of-nepali-cinema-s-most-enduring-partnerships",
-   "content": "Actress Rekha Thapa and director Shabir Shrestha have forged a rare creative partnership across eight feature films over 25 years. Ahead of their new film, the two look back on what has kept it going.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Longstanding disputes set aside, progress on development projects and economic aid",
-   "url": "https://kathmandupost.com/national/2026/11/24/longstanding-disputes-set-aside-progress-on-development-projects-and-economic-aid",
-   "content": "Nepal and India agreed on development projects and Rs240 billion in Indian assistance, while longstanding disputes remained unresolved.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Nepal, India agree to make Bhairahawa-Lucknow air route two-way",
-   "url": "https://kathmandupost.com/money/2026/11/23/nepal-india-agree-to-make-bhairahawa-lucknow-air-route-two-way",
-   "content": "The agreement marks a breakthrough after 17 years of negotiations, but its implementation hinges on technical details, particularly the flight altitude India will permit over its airspace for aircraft approaching Bhairahawa.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "When America sneezes, small economies catch a cold",
-   "url": "https://kathmandupost.com/columns/2026/11/23/when-america-sneezes-small-economies-catch-a-cold",
-   "content": "Nepal is struggling to improve its trade performance as competition intensifies and global markets remain volatile.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "PM Shah returns home after two-day state visit to India",
-   "url": "https://kathmandupost.com/national/2026/11/23/pm-shah-returns-home-after-two-day-state-visit-to-india",
-   "content": "The prime minister held high-level talks with his Indian counterpart and met Indian President Droupadi Murmu during his visit, which saw Nepal and India sign eight agreements covering various sectors.",
    "published_date": "",
    "score": 0.6
   }

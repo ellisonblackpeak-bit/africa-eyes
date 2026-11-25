@@ -2,9 +2,121 @@
  "success": true,
  "results": [
   {
-   "title": "Gunmen hold two dozen people hostage at supermarket in Colombia's Cartagena",
+   "title": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+   "url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+   "content": "Ukraine will need €115 billion in external financing next year to sustain its economy and war effort against Russia, President Volodymyr Zelensky said Tuesday, adding that Kyiv had secured commitments for about €90 billion from the European Union.",
+   "published_date": "Wed, 25 Nov 2026 01:19:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "New York jury convicts Huawei of stealing trade secrets",
+   "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+   "content": "A New York jury has found Chinese telecom giant Huawei guilty of stealing trade secrets and other criminal offences, but acquitted it of a racketeering conspiracy and obstruction of justice. The verdict followed a three-month trial in New York in a case that adds to longstanding US efforts to curb Huawei's operations over alleged threats to national security.",
+   "published_date": "Tue, 24 Nov 2026 23:31:22 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Champions League: Real Madrid thrash PSV 5-1 in comeback win as Manchester City held by Napoli",
+   "url": "https://www.france24.com/en/sport/20261124-champions-league-real-madrid-thrash-psv-5-1-in-comeback-win-as-manchester-city-held-by-napoli",
+   "content": "Real Madrid extended their winning run to 10 games in all competitions on Tuesday, overturning an early deficit to rout PSV Eindhoven 5-1 in the Champions League, with Jude Bellingham scoring a spectacular goal and Kylian Mbappé netting twice. Manchester City, meanwhile, twice came from behind to draw 2-2 with Napoli, while Arsenal were held to a 1-1 draw by Borussia Dortmund.",
+   "published_date": "Tue, 24 Nov 2026 22:59:39 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+   "url": "https://www.france24.com/en/tv-shows/a-propos/20261124-tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
+   "content": "Nvidia shares fell on Tuesday as the historic rally sparked by Jensen Huang's return as CEO quickly lost steam, with investors refocusing ​on the political ‌and governance risks surrounding his reinstatement. Speaking with FRANCE 24's Sharon Gaffney, The Hill Senior Technology Reporter Miranda Nazzaro says that the reinstatement of Jensen Huang at Nvidia represents \"the culmination of a two-year push of tech executives to get closer to President Trump and their investment in the President is clearly paying off\".",
+   "published_date": "Tue, 24 Nov 2026 22:03:43 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+   "url": "https://www.france24.com/en/tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
+   "content": "Speaking with FRANCE 24's Sharon Gaffney, The Hill Senior Technology Reporter Miranda Nazzaro says that the reinstatement of Jensen Huang at Nvidia represents \"the culmination of a two-year push of tech executives to get closer to President Trump and their investment in the President is clearly paying off\".",
+   "published_date": "Tue, 24 Nov 2026 21:57:38 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Quid pro quo’: Nvidia too big to fail or ‘too close to personal interest of people around Trump’?",
+   "url": "https://www.france24.com/en/quid-pro-quo-nvidia-too-big-to-fail-or-too-close-to-personal-interest-of-people-around-trump",
+   "content": "Angela Diffley is pleased to welcome Bernard Benhamou, Secretary General of the Institute of Digital Sovereignty and Senior Lecturer in Internet Governance at Paris 1 Panthéon-Sorbonne University. What does Jensen Huang's return to Nvidia mean for Trump, Lutnick, the US, the AI industry and China? Describing Huang as “the global banker of the AI industry”, Benhamou explains: “He is the visionary, he is the banker. He's not only the chip maker.” He also warns of the repercussions of Donald Trump's decision to reinstate the Nvidia CEO, with congressional and judicial scrutiny looming. “It's far from over. It's just the beginning.”",
+   "published_date": "Tue, 24 Nov 2026 21:43:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Jensen Huang's Nvidia comeback sends AI videos into overdrive",
+   "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261124-jensen-huang-s-nvidia-comeback-sends-ai-videos-into-overdrive",
+   "content": "Just 11 days after resigning as Nvidia CEO, Jensen Huang’s return has unleashed a fresh wave of AI-generated videos. But the internet has changed its tune: while last week’s memes mocked Huang, many now celebrate his comeback. One viral video purportedly showing him dancing is actually AI-manipulated footage of a basketball coach from 2016. From humiliation to hero worship, the technology Nvidia helped popularise is rewriting the narrative surrounding its own CEO, as Vedika Bahl explains.",
+   "published_date": "Tue, 24 Nov 2026 21:28:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Did Nvidia knowingly send chips to China 'cutout'? Was there ‘pay-to-play’ involving Trump, Lutnick?",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261124-did-nvidia-knowingly-send-chips-to-china-cutout-was-there-pay-to-play-involving-trump-lutnick",
+   "content": "François Picard is pleased to welcome Andrew Weissmann, Professor of Practice at NYU School of Law and a former federal prosecutor known for leading major Department of Justice (DOJ) and FBI investigations. “Why were they treating Nvidia so favorably? Professor Weissmann joins us to discuss the legal and ethical questions surrounding the Trump administration's dealings with the chipmaker. He examines allegations of personal financial gain, the implications for US national security, the limits of presidential immunity and what he describes as an “unholy alliance of tech bros, of Wall Street, and of politicians.\"",
+   "published_date": "Tue, 24 Nov 2026 21:20:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Senegal reinstated as AFCON 2025 winners",
+   "url": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
+   "content": "In tonight's edition, Senegal were reinstated as 2025 Africa Cup of Nations winners after the sport's highest court upheld their appeal against being stripped of the title.",
+   "published_date": "Tue, 24 Nov 2026 21:14:42 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "UN slams Iran after it flogs singer for performing without veil",
+   "url": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
+   "content": "The United Nations condemned as \"abhorrent\" the flogging of Iranian singer Parastoo Ahmadi and four members of her production team, urging Tehran to abolish the practice. The five received 74 lashes each on Monday following a performance viewed millions of times on YouTube, local media reported, citing Ahmadi's lawyer.",
+   "published_date": "Tue, 24 Nov 2026 20:53:57 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Russian nuclear satellites plan 'foolhardy', expert says",
+   "url": "https://www.france24.com/en/russian-nuclear-satellites-plan-foolhardy-expert-says",
+   "content": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite. Speaking with FRANCE 24's Jennie Shin, Dafydd Townley, Senior Teaching Fellow in International Security at the University of Portsmouth, says that the alleged plan would be \"foolhardy because the impact would be indiscriminate, they wouldn't be able to choose only Western or non-Russian satellites\".",
+   "published_date": "Tue, 24 Nov 2026 20:31:17 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "The Bukele method: will Salvadoran leader's strong-arm tactics work for Haiti?",
+   "url": "https://www.france24.com/en/tv-shows/the-debate/20261124-the-bukele-method-will-salvadoran-leader-s-strong-arm-tactics-work-for-haiti",
+   "content": "Haitians are hailing the Bukele method. Citizens of the Americas’ poorest nation cheering the Salvadoran president’s ’shoot first, ask questions later’ method of dealing with the gangs that have overrun their country the past six years. Can the police force deployed actually restore law and order? We’ll ask about the latest in a decades-long list of efforts by the international community to support Haiti.",
+   "published_date": "Tue, 24 Nov 2026 19:59:35 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Senegal AFCON ruling 'good in the books of sports law', expert says",
+   "url": "https://www.france24.com/en/senegal-afcon-ruling-good-in-the-books-of-sports-law-expert-says",
+   "content": "Speaking with FRANCE 24's Jennie Shin, sports presenter and journalist Thando Sibiya explains that the decision by the Court of Arbitration for Sport to reinstate Senegal as ⁠winner of ​the 2025 Africa Cup of Nations \"from a jurisprudence perspective or creating precedent, it is going to be good in the books of sports law, because if every single decision of a referee is taken to a court of law all the time, it really tampers with the quality, governance and legitimacy of the game\".",
+   "published_date": "Tue, 24 Nov 2026 19:54:12 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Senegal regain AFCON title on appeal at Morocco's expense",
+   "url": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
+   "content": "Senegal on Tuesday regained their Africa Cup of Nations title after winning an appeal at the Court of Arbitration for Sport (CAS) against the decision by the Confederation of African Football to declare Morocco the winners following a chaotic final in January. CAS said in a statement it had \"upheld the appeal by the Senegalese Football Federation (FSF) against the Confederation of African Football (CAF) and the Royal Moroccan Football Federation (FRMF)\" by a \"unanimous decision\". FRANCE 24's Emerald Maxwell reports.",
+   "published_date": "Tue, 24 Nov 2026 19:52:29 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Car bomb destroys buildings in central Colombian city",
+   "url": "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
+   "content": "A car bomb detonated in the central Colombian city of Villavicencio on Monday, destroying a local governor's office and surrounding buildings, President Abelardo de la Espriella said. The right-wing leader has conducted a major crackdown on the country's drug trade, in response to left-wing FARC rebels who have stepped up attacks over the past two years. FRANCE 24's Daniel Whittington reports.",
+   "published_date": "Tue, 24 Nov 2026 19:27:10 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Russian losses on Ukrainian front top 700,000 including missing",
+   "url": "https://www.france24.com/en/russian-losses-on-ukrainian-front-top-700-000-including-missing",
+   "content": "New analysis of leaked Russian government data suggests more than 700,000 Russian soldiers have died in the war against Ukraine. Independent Russian media outlets have updated their estimates of Moscow's military casualties, including soldiers missing on the frontline, after Belarusian and Ukrainian hackers obtained figures from the Russian statistics agency. FRANCE 24's Carys Garland explains.",
+   "published_date": "Tue, 24 Nov 2026 19:22:31 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Gunmen hold 30 people hostage at supermarket in Colombia's Cartagena",
    "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
-   "content": "Armed robbers took roughly two dozen people hostage at a supermarket in Colombia’s tourist city of Cartagena on Tuesday, prompting a major police operation and a temporary suspension of incoming flights, authorities said. Landings at Rafael Nunez international airport resumed about 45 minutes later, after the military used a runway during the operation.",
+   "content": "Armed robbers took some 30 people hostage at a supermarket in Colombia’s tourist city of Cartagena on Tuesday, prompting a major police operation and a temporary suspension of incoming flights, authorities said. Landings at Rafael Nunez International Airport resumed after the military used a runway during the operation.",
    "published_date": "Tue, 24 Nov 2026 17:35:48 GMT",
    "score": 0.6
   },
@@ -55,118 +167,6 @@
    "url": "https://www.france24.com/en/video/20261124-french-police-officer-who-shot-teenager-to-face-murder-trial",
    "content": "A French police officer will stand trial for murder in the killing of a teenager in 2023 that sparked violent protests across the country, the Versailles appeals court said on Tuesday. Nahel Merzouk, 17, was shot in the Paris suburb of Nanterre after he failed to comply with an order to stop his car.",
    "published_date": "Tue, 24 Nov 2026 15:54:17 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
-   "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
-   "content": "More than 500,000 Russian soldiers have been killed in the war with Ukraine, according to an estimate by a number of media organisations. The figures are based on a huge dataset that was hacked from Russia’s state statistics agency Rosstat by Belarusian activist group Cyber Partisans and a Ukrainian hacker group, Silent Crow. Two independent Russian news outlets Meduza and Mediazona say the death toll may rise to more than 700,000 once missing soldiers are included.",
-   "published_date": "Tue, 24 Nov 2026 15:53:03 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Burnham's EU reset brings back Brexit debate",
-   "url": "https://www.france24.com/en/video/20261124-burnham-s-eu-reset-brings-back-brexit-debate",
-   "content": "UK Prime Minister Andy Burnham accused predecessors who have warned him against reigniting the Brexit debate of being \"stuck in the past\", as he trumpeted his EU reset deal on Monday. Burnham has in recent weeks smashed a consensus that Britain's acrimonious departure from the European Union was done and dusted, floating the possibility that Britain could apply to rejoin. Clovis Casali takes a closer look.",
-   "published_date": "Tue, 24 Nov 2026 15:51:19 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Nina Roza' director: 'I was inspired by a real case of a child painter prodigy'",
-   "url": "https://www.france24.com/en/tv-shows/perspective/20261124-nina-roza-director-i-was-inspired-by-a-real-case-of-a-child-painter-prodigy",
-   "content": "The director of a film nominated by Canada for next year's Oscars has told FRANCE 24 she was inspired by stories of a child painter prodigy, as well as the idea of identity and what you leave behind when you change countries. The film \"Nina Roza\" tells the story of a Bulgarian man who leaves his homeland with his daughter and sets himself up as an art curator in Canada.",
-   "published_date": "Tue, 24 Nov 2026 15:33:40 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "UK’s Burnham on a mission to build public support EU reset",
-   "url": "https://www.france24.com/en/video/20261124-uk-s-burnham-on-a-mission-to-build-public-support-eu-reset",
-   "content": "While he insists it would be unthinkable to rejoin the bloc without another referendum, British PM Andy Burnham has nevertheless reopened the debate over Brexit. After striking a deal that brings the UK and the EU closer on issues including food export control standards, youth mobility and carbon emissions, he's set to discuss the future of the relationship with Brussels in the coming weeks and will present the results of the talks in December. It comes despite criticism from a host of former Conservative prime ministers.",
-   "published_date": "Tue, 24 Nov 2026 15:21:24 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "The French mayors refusing to back presidential candidates",
-   "url": "https://www.france24.com/en/video/20261124-the-french-mayors-refusing-to-back-presidential-candidates",
-   "content": "Tuesday marks the opening in Paris of the 108th Congress of French Mayors, where the presidential race is a contentious issue. Candidates need 500 mayor endorsements to run, yet nearly half of mayors this year say they refuse to endorse anyone. France 2 and Caitlin Brown have more.",
-   "published_date": "Tue, 24 Nov 2026 15:18:39 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "France's femicide orphans: The invisible victims of violence against women",
-   "url": "https://www.france24.com/en/tv-shows/france-in-focus/20261124-france-s-femicide-orphans-the-invisible-victims-of-violence-against-women",
-   "content": "In France, 111 women were killed by their current or ex-partners in 2025 alone, leaving behind dozens of children. How can they rebuild their lives without their mother? How can they seek help? In this episode of France in Focus, we meet Cloé and Eva-Louise, whose world collapsed when their father brutally murdered their mother. FRANCE 24's Natacha Vesnitch, Olivia Bizot, Clément Di Roma and Aurore Cloé Dupuis report.",
-   "published_date": "Tue, 24 Nov 2026 15:08:41 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "🔴Senegal regain AFCON title after successful appeal at sport arbitration court",
-   "url": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
-   "content": "",
-   "published_date": "Tue, 24 Nov 2026 14:25:06 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Senegal regain AFCON title after successful appeal at sport arbitration court",
-   "url": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
-   "content": "The Court of Arbitration for Sport on Tuesday unanimously ruled in favour of Senegal in the appeal to reclaim the Africa Cup of Nations title, 10 months after a chaotic final against Morocco. Senegal won the match in January but was stripped of the title in March because many of the team's players had walked off the pitch in protest over a penalty given to the opposing side. Morocco said it would contest the ruling.",
-   "published_date": "Tue, 24 Nov 2026 14:06:56 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Rwanda's malaria cases on the rise: Climate change leads to more mosquitoes",
-   "url": "https://www.france24.com/en/tv-shows/focus/20261124-rwanda-s-malaria-cases-on-the-rise-climate-change-leads-to-more-mosquitoes",
-   "content": "In Rwanda, malaria cases are on the rise due to climate change. Higher temperatures and prolonged rainfall are creating more breeding grounds for mosquitoes. According to researchers, the risk of infection could increase by as much as 20 percent by 2100 in the Rift Valley. Our correspondent Aurore Bayoud reports on Rwanda's efforts to tackle the problem.",
-   "published_date": "Tue, 24 Nov 2026 13:52:59 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Political hunting ground': French presidential candidates campaign mayors' congress",
-   "url": "https://www.france24.com/en/video/20261124-political-hunting-ground-french-presidential-candidates-campaign-mayors-congress",
-   "content": "Candidates in next year’s French presidential election descended on the 108th Congress of French Mayors in Paris on Tuesday, hoping to win endorsements for their campaigns. France 24’s Luke Shrago reports.",
-   "published_date": "Tue, 24 Nov 2026 13:51:52 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Trump's role in Huang's Nvidia return under scrutiny",
-   "url": "https://www.france24.com/en/video/20261124-trump-s-role-in-huang-s-nvidia-return-under-scrutiny",
-   "content": "Jensen Huang's return as CEO of Nvidia was greeted with triumph by US President Donald Trump, and the AI chipmaker's stock price was sent soaring. But the national security implications of Huang's extra-marital affair with an alleged Chinese spy, as well as Trump's intervention in the operations of a company in which he holds stock, have stirred anger in Congress, with members from both parties vowing to investigate.",
-   "published_date": "Tue, 24 Nov 2026 13:48:17 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "In South Africa, parents' homemade sensory room helps children with ADHD",
-   "url": "https://www.france24.com/en/video/20261124-in-south-africa-parents-homemade-sensory-room-helps-children-with-adhd",
-   "content": "Determined to help their children, parents in a South African township have transformed a discarded shipping container into an underwater-themed sensory room using recycled plastic bottles, cut-out flowers and ferns. Originally designed for children with conditions including ADHD and epilepsy, the space is now benefiting the wider community.",
-   "published_date": "Tue, 24 Nov 2026 13:44:18 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "DR Congo and Kenya agree to restore ties",
-   "url": "https://www.france24.com/en/video/20261124-dr-congo-and-kenya-agree-to-restore-ties",
-   "content": "After years of strained relations over the conflict in eastern Congo, Kinshasa and Nairobi are moving towards a diplomatic reset. DR Congo's President Felix Tshisekedi met his Kenyan counterpart William Ruto over the weekend and they agreed to to restore normal ties and deepen economic and regional cooperation. Emmet Livingstone reports.",
-   "published_date": "Tue, 24 Nov 2026 13:35:58 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say",
-   "url": "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say",
-   "content": "Israeli air strikes on the devastated Gaza Strip killed Brigadier General Naeem Abu Nahel, director-general of the Palestinian territory's Internal Security Service on Tuesday, the ministry said. Another six people, including two police officers and a 17-year-old teenager, were killed in Israeli strikes across the enclave.",
-   "published_date": "Tue, 24 Nov 2026 13:07:03 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Advances in health and medicine: From space, ‘you discover things that are hidden' back on Earth",
-   "url": "https://www.france24.com/en/tv-shows/the-interview/20261124-from-space-you-discover-things-hidden-back-on-earth-advancing-research-in-health-and-medicine",
-   "content": "When kids look up at the night sky and marvel at the moon and the stars, the mysteries of space can spark a sense of wonder and curiosity. One of France's most beloved astronauts, Thomas Pesquet, joins Eve Irvine to take us one step beyond with his new book, \"Space in 100 Questions\", offering space enthusiasts of all ages an otherworldly glimpse into the Final Frontier!",
-   "published_date": "Tue, 24 Nov 2026 12:42:25 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Huang returns as Nvidia CEO in sudden reversal after Trump intervention",
-   "url": "https://www.france24.com/en/video/20261124-huang-returns-as-nvidia-ceo-in-sudden-reversal-after-trump-intervention",
-   "content": "Nvidia reinstated Jensen Huang as CEO on Monday under pressure from US President Donald Trump, drawing approval/plaudits/cheers from Wall Street and criticism from US lawmakers. The sudden reversal was the latest twist in the fallout from Huang’s admission that he had an affair with a woman suspected of being a Chinese spy.",
-   "published_date": "Tue, 24 Nov 2026 12:19:55 GMT",
    "score": 0.6
   }
  ],

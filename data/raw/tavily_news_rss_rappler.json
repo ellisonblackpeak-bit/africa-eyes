@@ -1,6 +1,14 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Raya School brings Reggio Emilia exhibition, conference to Manila January 2027",
+   "url": "https://www.rappler.com/bulletin-board/events/raya-school-reggio-emilia-exhibition-conference-manila-january-2027/",
+   "content": "The event will bring together more than 200 educators from across the Philippines for a roving exhibition and a two-day conference exploring the Reggio Emilia Approach to early childhood education",
+   "published_date": "Wed, 25 Nov 2026 08:30:00 +0800",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_rappler",
  "_query": "https://www.rappler.com/feed/",
