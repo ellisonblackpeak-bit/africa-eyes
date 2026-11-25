@@ -1,0 +1,116 @@
+{
+ "query": "Ghana China Chinese company investment mining embassy",
+ "_tag": "soc_cn_gh",
+ "platforms": [
+  {
+   "name": "x",
+   "label": "X",
+   "kind": "social",
+   "fulltext": true,
+   "engine": "xai-xsearch",
+   "model": "grok-4.7",
+   "results": [
+    {
+     "url": "https://x.com/ghanaisnew/status/2125565683337462167",
+     "title": "The Resetting!! Government Plans to Reopen the Pwalugu Tomato Factory 🏭 The Pwalugu Tomato Factory, originally started by Dr.",
+     "description": "The Resetting!!\n\nGovernment Plans to Reopen the Pwalugu Tomato Factory 🏭\n\nThe Pwalugu Tomato Factory, originally started by Dr. Kwame Nkrumah, is set to open again after many years.\n\nThe government wants to partner with a Chinese company, Hanway International Investment Ltd, to get the factory in the Upper East Region running again.\n\nThe Upper East Regional Minister, Akamugri Donatus Atanga, took the company’s CEO, Cui Yongzhi, and his team to look at the factory and the nearby farms along the White Volta River.\n\nThe government is also thinking about using the factory to process other crops, including:\n- Onions\n- Peppers\n- Garden eggs\n- Beans",
+     "snippet": "The Resetting!!\n\nGovernment Plans to Reopen the Pwalugu Tomato Factory 🏭\n\nThe Pwalugu Tomato Factory, originally started by Dr. Kwame Nkrumah, is set to open again after many years.\n\nThe government wants to partner with a Chinese company, Hanway International Investment Ltd, to get the factory in the Upper East Region running again.\n\nThe Upper East Regional Minister, Akamugri Donatus Atanga, took the company’s CEO, Cui Yongzhi, and his team to look at the factory and the nearby farms along the White Volta River.\n\nThe government is also thinking about using the factory to process other crops, including:\n- Onions\n- Peppers\n- Garden eggs\n- Beans",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "THE NEW GHANA",
+     "handle": "@ghanaisnew"
+    },
+    {
+     "url": "https://x.com/abbaupdates_1/status/2124892114982985777",
+     "title": "China's imports from Ghana rose by 166 per cent month-on-month to $290 million in June this year, following the implementation of China's ze",
+     "description": "China's imports from Ghana rose by 166 per cent month-on-month to $290 million in June this year, following the implementation of China's zero-tariff policy on products from African countries, the Chinese Ambassador to Ghana, Cong Song, has disclosed",
+     "snippet": "China's imports from Ghana rose by 166 per cent month-on-month to $290 million in June this year, following the implementation of China's zero-tariff policy on products from African countries, the Chinese Ambassador to Ghana, Cong Song, has disclosed",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Abba Updates",
+     "handle": "@abbaupdates_1"
+    },
+    {
+     "url": "https://x.com/AfricanHub_/status/2125312302467486090",
+     "title": "A Chinese businessman named Zheng Xiangming just got a traditional chieftaincy title in Ghana for the money he’s put into the country and th",
+     "description": "A Chinese businessman named Zheng Xiangming just got a traditional chieftaincy title in Ghana for the money he’s put into the country and the jobs he’s created.\n\nOn Friday, August 28, 2026, he was enstooled as Hiowe Golaka Noryam Matse Nene Asumahtsu I at Bright International Industrial Park in Greater Accra. Before the actual ceremony, the local kingmakers even carried him around on their shoulders in celebration.\n\nHe’s been investing there since 2011, putting money into commercial hubs and a tourist amusement park that have together created thousands of jobs for local people.",
+     "snippet": "A Chinese businessman named Zheng Xiangming just got a traditional chieftaincy title in Ghana for the money he’s put into the country and the jobs he’s created.\n\nOn Friday, August 28, 2026, he was enstooled as Hiowe Golaka Noryam Matse Nene Asumahtsu I at Bright International Industrial Park in Greater Accra. Before the actual ceremony, the local kingmakers even carried him around on their shoulders in celebration.\n\nHe’s been investing there since 2011, putting money into commercial hubs and a tourist amusement park that have together created thousands of jobs for local people.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "African Hub",
+     "handle": "@AfricanHub_"
+    },
+    {
+     "url": "https://x.com/seriesaglobal/status/2124808784061100223",
+     "title": "Ghana Gas says it replaced 52 Chinese expatriate engineers with Ghanaians and now saves $3.5M a month.",
+     "description": "Ghana Gas says it replaced 52 Chinese expatriate engineers with Ghanaians and now saves $3.5M a month. Localisation is the story, and the figure is the CEO's claim.\n\nGhana Gas's CEO, Dr Ben Asante, told gas conference participants touring the Atuabo plant in the Western Region that the company had phased out 52 Chinese expatriates who ran its technical operations. It trained Ghanaian engineers to take their place, and the plant is now run by about 50 Ghanaians. Asante said the company had been paying the expatriates about $3.5M a month and that there had been no incidents at the plant. Atuabo supplies gas to the Aboadze thermal plant, a major part of the country's power supply.\n\nThis is a bigger deal than a payroll change. Gas processing is a safety-critical industry, and the usual argument for foreign operators is that local teams can't be trusted with it. Asante said the idea drew scepticism at first, partly because of an earlier accident at a state power plant. Handing the plant to local engineers and reporting no incidents is the kind of result that can change how African countries approach local content, which usually means quotas and not full takeover.\n\nThe $3.5M figure needs a closer look. Divided across 52 people, that's about $67,000 per person per month (our arithmetic), which is too high for salaries alone. It likely covers the contractor's fees and overheads too. Later versions of the claim moved around. In January 2023 the CEO said $207M had been saved since March 2017, at about $3M a month, and in November 2024 he said over $250M.",
+     "snippet": "Ghana Gas says it replaced 52 Chinese expatriate engineers with Ghanaians and now saves $3.5M a month. Localisation is the story, and the figure is the CEO's claim.\n\nGhana Gas's CEO, Dr Ben Asante, told gas conference participants touring the Atuabo plant in the Western Region that the company had phased out 52 Chinese expatriates who ran its technical operations. It trained Ghanaian engineers to take their place, and the plant is now run by about 50 Ghanaians. Asante said the company had been paying the expatriates about $3.5M a month and that there had been no incidents at the plant. Atuabo supplies gas to the Aboadze thermal plant, a major part of the country's power supply.\n\nThis is a bigger deal than a payroll change. Gas processing is a safety-critical industry, and the usual argument for foreign operators is that local teams can't be trusted with it. Asante said the idea drew scepticism at first, partly because of an earlier accident at a state power plant. Handing the plant to local engineers and reporting no incidents is the kind of result that can change how African countries approach local content, which usually means quotas and not full takeover.\n\nThe $3.5M figure needs a closer look. Divided across 52 people, that's about $67,000 per person per month (our arithmetic), which is too high for salaries alone. It likely covers the contractor's fees and overheads too. Later versions of the claim moved around. In January 2023 the CEO said $207M had been saved since March 2017, at about $3M a month, and in November 2024 he said over $250M.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "SeriesA",
+     "handle": "@seriesaglobal"
+    },
+    {
+     "url": "https://x.com/jacobincambodia/status/2124396998589878325",
+     "title": "“Send Investigators,” Says a Cambodian Casino Worker in Africa A Cambodian woman on social media who says she works in a casino in Ghana is",
+     "description": "“Send Investigators,” Says a Cambodian Casino Worker in Africa\n\nA Cambodian woman on social media who says she works in a casino in Ghana is pushing back against claims of online-scam recruitment in Africa. She says these are legitimate jobs in physical casinos run by Chinese owners, and complains that Cambodians are being stopped from leaving for work abroad.\n\nShe says thousands of Cambodians work across Africa, naming countries from Mali and Ghana to Kenya and Tanzania. She found her own job in Mali through a recruitment post shared by other Cambodians. She arrived frightened, but found a Cambodian community already there. Her employers, she says, had businesses in gold mining, imports and exports, and casinos, where the Cambodian recruits already had experience.\n\nHer reason for leaving Cambodia was financial. Without the overseas income, she says, she couldn’t repay her bank loans or support her mother and children. She puts the pay available back home at $200–$250, too little to cover those obligations. “If you want to know for sure, send investigators from Cambodia,” she says. “If you want to know, come here.”\n\nEnglish subtitles added to this excerpt.",
+     "snippet": "“Send Investigators,” Says a Cambodian Casino Worker in Africa\n\nA Cambodian woman on social media who says she works in a casino in Ghana is pushing back against claims of online-scam recruitment in Africa. She says these are legitimate jobs in physical casinos run by Chinese owners, and complains that Cambodians are being stopped from leaving for work abroad.\n\nShe says thousands of Cambodians work across Africa, naming countries from Mali and Ghana to Kenya and Tanzania. She found her own job in Mali through a recruitment post shared by other Cambodians. She arrived frightened, but found a Cambodian community already there. Her employers, she says, had businesses in gold mining, imports and exports, and casinos, where the Cambodian recruits already had experience.\n\nHer reason for leaving Cambodia was financial. Without the overseas income, she says, she couldn’t repay her bank loans or support her mother and children. She puts the pay available back home at $200–$250, too little to cover those obligations. “If you want to know for sure, send investigators from Cambodia,” she says. “If you want to know, come here.”\n\nEnglish subtitles added to this excerpt.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Jacob in Cambodia 🇺🇸 🇰🇭",
+     "handle": "@jacobincambodia"
+    },
+    {
+     "url": "https://x.com/1ThinkingAfrica/status/2125457717170938057",
+     "title": "For over a century, the world has played the same trick on Africa: dig up the rock, ship it out cheap - and sell back the finished product a",
+     "description": "For over a century, the world has played the same trick on Africa:  dig up the rock, ship it out cheap - and sell back the finished product at ten times the price.  With just weeks to go before Zimbabwe's full ban on lithium concentrate exports hits on 1 January 2027, Harare is refusing to blink.\n\nIn mid-November, mining companies lobbied for a delay, warning that enforcing the deadline could leave 1.4-million tonnes of unprocessed concentrate sitting in stockpiles.  Zim's answer was blunt - instead of backing down, Finance Minister Mthuli Ncube tightened the 10% export tax rules on raw concentrate and mandated local sourcing, while keeping processed lithium sulphate exports completely tax free.\n\nThe standoff rests on real proof of concept.  At the Arcadia mine outside Harare, a $400-million processing plant run by Prospect Lithium Zimbabwe - a subsidiary of China's Zhejiang Huayou Cobalt - began Africa's first commercial exports of lithium sulphate in April 2026.  Between April and September alone, Zimbabwe shipped 33,807 tonnes of the battery-grade precursor (worth roughly $190 million) as the 50,000-tonne facility ramps up.\n\nWhat started with Zimbabwe banning raw lithium ore exports back in 2022 - followed by a June 2025 notice to end concentrate exports and an abrupt February 2026 crackdown on illegal shipments - has forced miners to build on African soil.  Rival Chinese giants Sinomine and Sichuan Yahua are now racing to finish their own sulphate plants at Bikita and Kamativi, with industry forecasts projecting Zimbabwe's output to surge to 208,000 tonnes in 2027.\n\nZim is not acting alone.  Since 2023, roughly 14 African governments - including Burkina Faso, DRC, Gabon, Ghana, Kenya, Malawi, Namibia and Tanzania - have moved to restrict raw ore exports, suspend or overhaul mining licences, or mandate domestic refining.\n\nBut the hard sovereignty test still lies ahead.  Foreign firms still own the plants, and lithium sulphate is only the middle rung of the battery supply chain.  True economic liberation means using leverage like Harare's January deadline to capture local skills, power infrastructure and eventually African-owned refining all the way to finished batteries.\n\nIs holding the line on raw export bans the turning point for African industrialisation - or does the continent need to push even harder for local ownership?",
+     "snippet": "For over a century, the world has played the same trick on Africa:  dig up the rock, ship it out cheap - and sell back the finished product at ten times the price.  With just weeks to go before Zimbabwe's full ban on lithium concentrate exports hits on 1 January 2027, Harare is refusing to blink.\n\nIn mid-November, mining companies lobbied for a delay, warning that enforcing the deadline could leave 1.4-million tonnes of unprocessed concentrate sitting in stockpiles.  Zim's answer was blunt - instead of backing down, Finance Minister Mthuli Ncube tightened the 10% export tax rules on raw concentrate and mandated local sourcing, while keeping processed lithium sulphate exports completely tax free.\n\nThe standoff rests on real proof of concept.  At the Arcadia mine outside Harare, a $400-million processing plant run by Prospect Lithium Zimbabwe - a subsidiary of China's Zhejiang Huayou Cobalt - began Africa's first commercial exports of lithium sulphate in April 2026.  Between April and September alone, Zimbabwe shipped 33,807 tonnes of the battery-grade precursor (worth roughly $190 million) as the 50,000-tonne facility ramps up.\n\nWhat started with Zimbabwe banning raw lithium ore exports back in 2022 - followed by a June 2025 notice to end concentrate exports and an abrupt February 2026 crackdown on illegal shipments - has forced miners to build on African soil.  Rival Chinese giants Sinomine and Sichuan Yahua are now racing to finish their own sulphate plants at Bikita and Kamativi, with industry forecasts projecting Zimbabwe's output to surge to 208,000 tonnes in 2027.\n\nZim is not acting alone.  Since 2023, roughly 14 African governments - including Burkina Faso, DRC, Gabon, Ghana, Kenya, Malawi, Namibia and Tanzania - have moved to restrict raw ore exports, suspend or overhaul mining licences, or mandate domestic refining.\n\nBut the hard sovereignty test still lies ahead.  Foreign firms still own the plants, and lithium sulphate is only the middle rung of the battery supply chain.  True economic liberation means using leverage like Harare's January deadline to capture local skills, power infrastructure and eventually African-owned refining all the way to finished batteries.\n\nIs holding the line on raw export bans the turning point for African industrialisation - or does the continent need to push even harder for local ownership?",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Thinking Africa",
+     "handle": "@1ThinkingAfrica"
+    },
+    {
+     "url": "https://x.com/babahohoe/status/2124370187856331122",
+     "title": "@Stop_Galamsey just watched the JoyNews special on illegal mining, and it broke my heart.",
+     "description": "@Stop_Galamsey just watched the JoyNews special on illegal mining, and it broke my heart. How did we get to a place where our own officials, chiefs, and soldiers guard mainly Chinese illegal miners to destroy our rivers and farms? Imagine a Chinese soldier guarding a Ghanaian!!",
+     "snippet": "@Stop_Galamsey just watched the JoyNews special on illegal mining, and it broke my heart. How did we get to a place where our own officials, chiefs, and soldiers guard mainly Chinese illegal miners to destroy our rivers and farms? Imagine a Chinese soldier guarding a Ghanaian!!",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Danjuma Baba Ghana",
+     "handle": "@babahohoe"
+    },
+    {
+     "url": "https://x.com/SaneleVezi42999/status/2125529464767402044",
+     "title": "Do you have any idea what Chinese are doing in Zamfara and Kebbi?",
+     "description": "Do you have any idea what Chinese are doing in Zamfara and Kebbi? Even in parts of Ghana they are into illegal mining, you can't be denigrating Nigerians because of the criminal activities of a few. Guy get some sense. The majority of Nigerians abroad are doing legit stuff.",
+     "snippet": "Do you have any idea what Chinese are doing in Zamfara and Kebbi? Even in parts of Ghana they are into illegal mining, you can't be denigrating Nigerians because of the criminal activities of a few. Guy get some sense. The majority of Nigerians abroad are doing legit stuff.",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "odum n'egbu agu.",
+     "handle": "@SaneleVezi42999"
+    },
+    {
+     "url": "https://x.com/GEchidime/status/2125179988034949208",
+     "title": "True that trading is legally reserved for Ghanaians.",
+     "description": "True that trading is legally reserved for Ghanaians. So how come Chinese are dominating the retail trade, fishing, lumbering and even all the mines in Ghana? Sole are.even venturing into local culinary. This is how your country killed nigeria/Ghana movie collaboration to spite us",
+     "snippet": "True that trading is legally reserved for Ghanaians. So how come Chinese are dominating the retail trade, fishing, lumbering and even all the mines in Ghana? Sole are.even venturing into local culinary. This is how your country killed nigeria/Ghana movie collaboration to spite us",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "Greg Okafor",
+     "handle": "@GEchidime"
+    },
+    {
+     "url": "https://x.com/BoduaXoxo/status/2125574259942793235",
+     "title": "So why aren’t we looking to partner a local Ghanaian company to make them do this rather than a Chinese company on this particular sensitive",
+     "description": "So why aren’t we looking to partner a local Ghanaian company to make them do this rather than a Chinese company on this particular sensitive project .  PLEASE , let’s encourage the local companies to do projects with GoG on PPP basis .",
+     "snippet": "So why aren’t we looking to partner a local Ghanaian company to make them do this rather than a Chinese company on this particular sensitive project .  PLEASE , let’s encourage the local companies to do projects with GoG on PPP basis .",
+     "source": "xai-xsearch",
+     "grok_summary": false,
+     "author": "XOXO Bodua IV",
+     "handle": "@BoduaXoxo"
+    }
+   ]
+  }
+ ]
+}

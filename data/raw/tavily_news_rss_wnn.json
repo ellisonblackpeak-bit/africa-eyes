@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Russia proposes carbon credits framework for SMRs",
-   "url": "https://www.world-nuclear-news.org/articles/russia-proposes-carbon-credits-framework-for-smrs",
-   "content": "An international methodology to allow small modular reactors to qualify for carbon credits under the terms of the Paris Agreement has been proposed to the UN's climate/COP secretariat by Russia's state nuclear corporation Rosatom.",
-   "published_date": "Wed, 11 Nov 2026 12:54:41 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Industry urges nuclear recognition in COP31's 35-by-35 pledge",
    "url": "https://www.world-nuclear-news.org/articles/industry-urges-nuclear-recognition-in-cop31s-35-by-35-pledge",
    "content": "The role that nuclear can play in achieving the COP31 summit's pledge to increase electricity to 35% of energy demand by 2035 should be acknowledged, industry leaders have said, with nuclear construction at a 40-year high.",
@@ -20,13 +13,6 @@
    "url": "https://www.world-nuclear-news.org/articles/energy-crisis-reinforces-comeback-of-nuclear-power-says-iea",
    "content": "Unprecedented disruption in the energy world - primarily resulting from the war in the Middle East - is set to reinforce the comeback of nuclear power, according to the International Energy Agency's latest World Energy Outlook , which has revised its forecast for nuclear upwards.",
    "published_date": "Thu, 19 Nov 2026 16:39:51 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Strength and leak tests completed for Akkuyu 1 containment",
-   "url": "https://www.world-nuclear-news.org/articles/strength-and-leak-tests-completed-for-akkuyu-1-containment",
-   "content": "The air pressure was increased during pre-launch tests, which lasted eight days, to check the strength and leak tightness of the internal containment building for Akkuyu nuclear power plant's first unit.",
-   "published_date": "Wed, 11 Nov 2026 10:33:57 GMT",
    "score": 0.6
   },
   {
@@ -163,10 +149,10 @@
    "score": 0.6
   },
   {
-   "title": "IAEA reviews Jordan's nuclear regulatory framework",
-   "url": "https://www.world-nuclear-news.org/articles/iaea-reviews-jordans-nuclear-regulatory-framework",
-   "content": "Jordan has a \"well-established regulatory framework for nuclear and radiation safety\", an International Atomic Energy Agency mission has said, while also suggesting further enhancements in line with international safety standards.",
-   "published_date": "Wed, 11 Nov 2026 08:49:55 GMT",
+   "title": "Construction of third unit at Taishan begins",
+   "url": "https://www.world-nuclear-news.org/articles/construction-of-third-unit-at-taishan-begins",
+   "content": "The first concrete has been poured for the nuclear island of unit 3 at the Taishan nuclear power plant in Guangdong province, China General Nuclear has announced.",
+   "published_date": "Wed, 25 Nov 2026 14:50:37 GMT",
    "score": 0.6
   },
   {
@@ -209,6 +195,20 @@
    "url": "https://www.world-nuclear-news.org/articles/lloyds-register-approves-new-rules-for-nuclear-for-maritime",
    "content": "UK-based classification society and professional advisory service Lloyd's Register has approved Rules for the Classification of Ships and Offshore Units Integrated with Nuclear Power, providing a common classification framework to support the assessment of nuclear technologies for maritime use.",
    "published_date": "Fri, 20 Nov 2026 16:45:21 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Zambia planning for development of nuclear energy",
+   "url": "https://www.world-nuclear-news.org/articles/zambia-plans-for-developing-nuclear-energy-programme-reviewed-by-iaea",
+   "content": "Zambia is committed to considering building a nuclear power plant, and has made progress in developing a framework to make an informed decision, an International Atomic Energy Agency mission has said.",
+   "published_date": "Tue, 24 Nov 2026 09:33:36 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "New York unveils advanced nuclear master plan",
+   "url": "https://www.world-nuclear-news.org/articles/new-york-unveils-advanced-nuclear-master-plan",
+   "content": "Governor Kathy Hochul has announced the completion of the Master Plan for Responsible Advanced Nuclear Development in New York, which sets out a roadmap for the state to achieve its target of creating 5 GW of new nuclear power capacity.",
+   "published_date": "Mon, 23 Nov 2026 15:55:07 GMT",
    "score": 0.6
   }
  ],
