@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Finland Extends Russian Border Closure for Another 2 Years",
+   "url": "https://www.themoscowtimes.com/2026/11/26/finland-extends-russian-border-closure-for-another-2-years-a812386",
+   "content": "The Nordic country said the widely anticipated move was necessary to “combat attempts to put pressure on Finland, strengthen border security and help Finland prepare for the most serious incidents of instrumentalized migration.”",
+   "published_date": "Thu, 26 Nov 2026 15:32:26 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Russia Lost Track of a Beloved Seal. Scientists Lost a Window Into the Wild.",
+   "url": "https://www.themoscowtimes.com/2026/11/26/russia-lost-track-of-a-beloved-seal-scientists-lost-a-window-into-the-wild-a812379",
+   "content": "A French satellite operator’s cutoff left Kroshik’s rescuers unable to track him and disrupted research on everything from Lake Baikal’s seals to Arctic sea ice.",
+   "published_date": "Thu, 26 Nov 2026 14:31:00 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "PM Pashinyan Reaffirms Armenia’s EU Ambitions Ahead of Putin Meeting",
+   "url": "https://www.themoscowtimes.com/2026/11/26/pm-pashinyan-reaffirms-armenia-s-eu-ambitions-ahead-of-putin-meeting-a812383",
+   "content": "Pashinyan also repeated plans to gradually end Armenia’s decades-long reliance on Russian border guards, who patrol its border with Turkey and Iran.",
+   "published_date": "Thu, 26 Nov 2026 13:37:53 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Russian TV Star With Ties to VTB Chief Backed Telegram’s Failed Crypto Venture – Report",
+   "url": "https://www.themoscowtimes.com/2026/11/26/russian-tv-star-with-ties-to-vtb-chief-backed-telegram-s-failed-crypto-venture-a812384",
+   "content": "A 2019 report by Deutsche Bank’s financial crime unit listed Nailya Asker-Zade among investors it flagged as raising concerns.",
+   "published_date": "Thu, 26 Nov 2026 13:29:03 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Russia and Ukraine Hold First Exchange of War Dead Since Rebooted Peace Talks",
    "url": "https://www.themoscowtimes.com/2026/11/26/russia-and-ukraine-hold-first-exchange-of-war-dead-since-rebooted-peace-talks-a812378",
    "content": "Russia returned 250 bodies to Ukraine and received 22 fallen Russian soldiers in exchange, officials in Moscow said.",
@@ -9,9 +37,9 @@
    "score": 0.6
   },
   {
-   "title": "Deputy Commander of Russia’s Aerospace Forces Arrested in Moscow – Kommersant",
-   "url": "https://www.themoscowtimes.com/2026/11/26/deputy-commander-of-russia-s-aerospace-forces-arrested-in-moscow-kommersant-a812377",
-   "content": "Specific details of the case were not immediately clear, with sources familiar with the investigation saying only that the allegations “pertained to corruption.”",
+   "title": "Deputy Commander of Russia’s Aerospace Forces Arrested in Moscow – Reports",
+   "url": "https://www.themoscowtimes.com/2026/11/26/deputy-commander-of-russia-s-aerospace-forces-arrested-in-moscow-reports-a812377",
+   "content": "Law enforcement sources said Colonel General Yuri Grekhov faces charges of bribery on a particularly large scale.",
    "published_date": "Thu, 26 Nov 2026 09:14:43 GMT",
    "score": 0.6
   },
@@ -23,9 +51,9 @@
    "score": 0.6
   },
   {
-   "title": "‘Trapped in Grief’: Wife of Japanese Journalist Jailed By Russia Pleads for His Release",
+   "title": "‘Trapped in Grief’: Wife of Japanese Journalist Jailed by Russia Pleads for His Release",
    "url": "https://www.themoscowtimes.com/2026/11/26/trapped-in-grief-wife-of-japanese-journalist-jailed-by-russia-pleads-for-his-a812376",
-   "content": "The wife of a Japanese journalist arrested in Russia has made her first public comments since his detention last month, ramping up pressure on authorities to secure his release.",
+   "content": "The statement from Yuki Imai’s wife marks the first time a member of his family has spoken publicly about the case.",
    "published_date": "Thu, 26 Nov 2026 08:27:53 GMT",
    "score": 0.6
   },
@@ -181,34 +209,6 @@
    "url": "https://www.themoscowtimes.com/2026/11/23/cyprus-expels-russian-diplomats-suspected-of-espionage-reports-say-a94348",
    "content": "The two diplomats were reportedly ordered to leave the Mediterranean island early last week following an operation by the Cyprus Intelligence Service.",
    "published_date": "Mon, 23 Nov 2026 11:35:03 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Zelensky Confirms Attack Against Russian Warship in Libya",
-   "url": "https://www.themoscowtimes.com/2026/11/23/zelensky-confirms-attack-against-russian-warship-in-libya-a94346",
-   "content": "The Ukrainian president claimed that a Russian combat helicopter was also destroyed along with the corvette Merkury this weekend.",
-   "published_date": "Mon, 23 Nov 2026 09:39:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Russia Starts Towing Ship Hit by Drones in Baltic, Finland Says",
-   "url": "https://www.themoscowtimes.com/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-attack-a94343",
-   "content": "A fire onboard a Russian cargo ship struck by drones continued to burn through the night, even as efforts were made to douse the flames.",
-   "published_date": "Sun, 22 Nov 2026 16:26:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "At Least 4 Killed in Russian Drone Attacks on Kyiv Region, Officials Say",
-   "url": "https://www.themoscowtimes.com/2026/11/22/at-least-4-killed-in-russian-drone-attacks-on-kyiv-region-officials-say-a94345",
-   "content": "At least four people were killed in Russian drone attacks on Ukraine's Kyiv region on Sunday, President Volodymyr Zelensky and local officials said.",
-   "published_date": "Sun, 22 Nov 2026 16:07:14 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Libya’s Eastern Government Suspects Drone Attack Caused Explosion on Russian Ship",
-   "url": "https://www.themoscowtimes.com/2026/11/22/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port-a94344",
-   "content": "The government stressed that Libya was not a party to the war between Russia and Ukraine, saying its relations with friendly countries were a sovereign matter.",
-   "published_date": "Sun, 22 Nov 2026 15:23:00 GMT",
    "score": 0.6
   }
  ],
