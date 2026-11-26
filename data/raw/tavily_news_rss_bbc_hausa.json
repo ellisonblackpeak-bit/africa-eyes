@@ -2,10 +2,17 @@
  "success": true,
  "results": [
   {
-   "title": "El-Rufai ya musanta 'kutse' a wayar Ribadu",
+   "title": "Ƴan Kwankwasiyya na ɗaukar sanduna amma ba sa cutar da kowa - Obi",
    "url": "https://www.bbc.co.uk/hausa/live/cr0jx4qw388zt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 25/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Yadda Birtaniya ke tura masu laifin fyaɗe zuwa wasu ƙasashen Afrika",
+   "url": "https://www.bbc.com/hausa/articles/cwp8367keg6zo?at_medium=RSS&at_campaign=rss",
+   "content": "An ce wannan yarjejeniya ce ta farko da gwamnatin Birtaniya ta tilasta wa wani ɗan gudun hijira ƙaura zuwa wata ƙasa domin ya zauna a can na dindindin duk da ba shi da alaƙa da ita.",
+   "published_date": "Wed, 25 Nov 2026 17:01:07 GMT",
    "score": 0.6
   },
   {
@@ -41,13 +48,6 @@
    "url": "https://www.bbc.com/hausa/articles/cmy0ekgw2d62o?at_medium=RSS&at_campaign=rss",
    "content": "Gwamna Dikko Umaru Radda ne ya bayar da umarnin kafa kwamitin domin gudanar da bincike kan lamarin tare da ba gwamnati shawarwari kan matakin da ya kamata ta ɗauka.",
    "published_date": "Tue, 24 Nov 2026 16:48:28 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "'Na ga ƙofofin jahannama da shaiɗan har sau uku a rayuwata'",
-   "url": "https://www.bbc.co.uk/hausa/live/ck879jvy8g8dt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa da Najeriya da sauran sassan duniya, 24/11/2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -93,17 +93,24 @@
    "score": 0.6
   },
   {
-   "title": "Me ya sa kamfanin Nvidia ya kasa rabuwa da shugabansa Jensen Huang?",
-   "url": "https://www.bbc.com/hausa/articles/c60rkvwgn4x5o?at_medium=RSS&at_campaign=rss",
-   "content": "Huang mutum ne mai muhimmanci a kamfanin Nvidia har ta kai ga ba za a iya rabuwa da shi cikin sauƙi ba.",
-   "published_date": "Tue, 24 Nov 2026 14:31:13 GMT",
+   "title": "Sanatoci 8 da ba su gabatar da ƙuduri ko ɗaya ba a Majalisa ta 10",
+   "url": "https://www.bbc.com/hausa/articles/cxr5g8qll483o?at_medium=RSS&at_campaign=rss",
+   "content": "A rahoton da StatiSense ta fitar kwanan nan, ƙungiyar ta bayyana sunayen sanatoci takwas tare da mazaɓun da suke wakilta.",
+   "published_date": "Tue, 24 Nov 2026 04:04:04 GMT",
    "score": 0.6
   },
   {
-   "title": "United na son Collins, Liverpool na dab da cimma sabuwar yarjejniya da Ngumoha",
-   "url": "https://www.bbc.com/hausa/articles/cqe9kxn19zrko?at_medium=RSS&at_campaign=rss",
-   "content": "Manchester United na harin ɗan wasan Brentford Nathan Collins, sai Bournemouth da ta sanyawa Eli Junior Kroupi fam milliyan 100m, yayin da Liverpool na dab da cimma sabuwar yarjejniya da Rio Ngumoha",
-   "published_date": "Wed, 25 Nov 2026 03:38:49 GMT",
+   "title": "'Na ga ƙofofin jahannama da shaiɗan har sau uku a rayuwata'",
+   "url": "https://www.bbc.co.uk/hausa/live/ck879jvy8g8dt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa da Najeriya da sauran sassan duniya, 24/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Jihohi 7 da APC ke fama da rikicin cikin gida gabanin zaɓen 2027",
+   "url": "https://www.bbc.com/hausa/articles/c920x1140x66o?at_medium=RSS&at_campaign=rss",
+   "content": "Shugaban Najeriya, Bola Ahmed Tinubu, ya buƙaci shugabannin jam'iyyar APC mai mulki da su ajiye saɓanin da ke tsakaninsu, su yafewa juna tare da rungumar sulhu, yayin da ake shirin tunkarar babban zaɓen shekarar 2027.",
+   "published_date": "Mon, 23 Nov 2026 11:09:25 GMT",
    "score": 0.6
   },
   {
@@ -118,13 +125,6 @@
    "url": "https://www.bbc.com/hausa/articles/c35y1gy0qvyjo?at_medium=RSS&at_campaign=rss",
    "content": "Yadda aka yi wa wata mawaƙiya bulala 74 saboda ƙin sanya hijabi a Iran.",
    "published_date": "Tue, 24 Nov 2026 12:52:35 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Sanatoci 8 da ba su gabatar da ƙuduri ko ɗaya ba a Majalisa ta 10",
-   "url": "https://www.bbc.com/hausa/articles/cxr5g8qll483o?at_medium=RSS&at_campaign=rss",
-   "content": "A rahoton da StatiSense ta fitar kwanan nan, ƙungiyar ta bayyana sunayen sanatoci takwas tare da mazaɓun da suke wakilta.",
-   "published_date": "Tue, 24 Nov 2026 04:04:04 GMT",
    "score": 0.6
   },
   {
@@ -149,45 +149,10 @@
    "score": 0.6
   },
   {
-   "title": "'Ban ga dalilin kai wa Iran harin soji ba'",
-   "url": "https://www.bbc.co.uk/hausa/live/c65y1qg3wwjwt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 23/11/2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Jihohi 7 da APC ke fama da rikicin cikin gida gabanin zaɓen 2027",
-   "url": "https://www.bbc.com/hausa/articles/c920x1140x66o?at_medium=RSS&at_campaign=rss",
-   "content": "Shugaban Najeriya, Bola Ahmed Tinubu, ya buƙaci shugabannin jam'iyyar APC mai mulki da su ajiye saɓanin da ke tsakaninsu, su yafewa juna tare da rungumar sulhu, yayin da ake shirin tunkarar babban zaɓen shekarar 2027.",
-   "published_date": "Mon, 23 Nov 2026 11:09:25 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Yadda Kwankwaso ya sa na yi rantsuwar komawa APC – Abba Kabir",
    "url": "https://www.bbc.com/hausa/articles/ck62pgdp7vy5o?at_medium=RSS&at_campaign=rss",
    "content": "Saboda haka, Abba ya ce duk wasu tsare-tsare da aka yi, an yi su ne da sanin Kwankwaso, kuma yarjejeniya ce suka cimma, \"shi kuma Kwankwaso bai cika ba\".",
    "published_date": "Mon, 23 Nov 2026 03:56:25 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Me ya sa wasu mutane ke daina jin sha'awar yin jima'i?",
-   "url": "https://www.bbc.com/hausa/articles/cqn70zz8kxjyo?at_medium=RSS&at_campaign=rss",
-   "content": "Raguwa ko kuma rashin sha'awar jima'i gaba ɗaya wata matsala ce da ke damun mutane da dama a faɗin duniya, maza da mata baki ɗaya.",
-   "published_date": "Mon, 23 Nov 2026 12:53:13 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Abu uku da zan mayar da hankali a kai don gyara Man Utd - Pochettino",
-   "url": "https://www.bbc.co.uk/hausa/live/c6p9dn05777kt?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 16 zuwa 22 ga watan Nuwambar 2026",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "Matasan Najeriya sun nuna ƙarfinsu a baya - me ya sa ba sa nuna ƙwanji a wannan zaɓen?",
-   "url": "https://www.bbc.com/hausa/articles/cklywqevq70zo?at_medium=RSS&at_campaign=rss",
-   "content": "Matasa ƙaƙilan ne suka yi rijista don kaɗa ƙuri'a a zaɓen shekara mai zuwa idan aka kwatanta da na 2023 - shin matasa suna rasa imanin dimokuraɗiyya?",
-   "published_date": "Mon, 23 Nov 2026 03:56:07 GMT",
    "score": 0.6
   },
   {
@@ -198,17 +163,17 @@
    "score": 0.6
   },
   {
+   "title": "Me ya sa wasu mutane ke daina jin sha'awar yin jima'i?",
+   "url": "https://www.bbc.com/hausa/articles/cqn70zz8kxjyo?at_medium=RSS&at_campaign=rss",
+   "content": "Raguwa ko kuma rashin sha'awar jima'i gaba ɗaya wata matsala ce da ke damun mutane da dama a faɗin duniya, maza da mata baki ɗaya.",
+   "published_date": "Mon, 23 Nov 2026 12:53:13 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ko ya kamata Musulmi ya dogara da AI wajen neman fatawa ta addini?",
    "url": "https://www.bbc.com/hausa/articles/cw24e7vgdm61o?at_medium=RSS&at_campaign=rss",
    "content": "Taƙaddama kan hukuncin AI kan dokokin addini na ƙara yaɗuwa a shafukan sada zumunta, wanda ke nuna muhawara mai faɗi kan bambanci tsakanin tunanin ɗan adam da \"hankali\" na na'ura, gasar duniya don mamaye masana'antar fasaha, da kuma rawar da ilimin addini na tarihi ke takawa a zamanin intanet.",
    "published_date": "Sun, 22 Nov 2026 12:54:56 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Mun harbo jirgin Amurka mara matuƙi a mashigar Hormuz - Iran",
-   "url": "https://www.bbc.co.uk/hausa/live/credqyep9x75t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, Lahadi 22/11/2026",
-   "published_date": "",
    "score": 0.6
   }
  ],
