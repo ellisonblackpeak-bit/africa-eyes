@@ -156,13 +156,6 @@
    "score": 0.6
   },
   {
-   "title": "US test reactor cleared for operations",
-   "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
-   "content": "Oklo's Groves Isotope Test Reactor has been cleared for unrestricted operations by the US Department of Energy.",
-   "published_date": "Thu, 12 Nov 2026 07:30:09 GMT",
-   "score": 0.6
-  },
-  {
    "title": "NRC extends Project Ike review timetable",
    "url": "https://www.world-nuclear-news.org/articles/nrc-extends-project-ike-review-timetable",
    "content": "The US regulator has pushed the expected completion date for its review of Orano's application for a licence for its proposed centrifuge enrichment facility back to June 2027 after the company asked for more time to respond to the regulator's questions.",
@@ -209,6 +202,13 @@
    "url": "https://www.world-nuclear-news.org/articles/new-york-unveils-advanced-nuclear-master-plan",
    "content": "Governor Kathy Hochul has announced the completion of the Master Plan for Responsible Advanced Nuclear Development in New York, which sets out a roadmap for the state to achieve its target of creating 5 GW of new nuclear power capacity.",
    "published_date": "Mon, 23 Nov 2026 15:55:07 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "BWXT manufacturing facility expansion complete",
+   "url": "https://www.world-nuclear-news.org/articles/bwxt-manufacturing-facility-expansion-complete",
+   "content": "The CAD80 million (USD56 million) investment in the Cambridge, Ontario facility significantly expands BWX Technologies' capacity to manufacture large-scale nuclear components for both conventional and advanced reactors of all sizes.",
+   "published_date": "Fri, 13 Nov 2026 15:23:46 GMT",
    "score": 0.6
   }
  ],

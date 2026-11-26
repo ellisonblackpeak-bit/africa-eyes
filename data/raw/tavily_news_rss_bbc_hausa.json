@@ -2,6 +2,41 @@
  "success": true,
  "results": [
   {
+   "title": "Fitattun sarakunan da aka taɓa dakatarwa a arewacin Najeriya",
+   "url": "https://www.bbc.com/hausa/articles/ck4gnd7m9r4mo?at_medium=RSS&at_campaign=rss",
+   "content": "A cikin shekarun baya-bayan nan kuwa, an dakatar ko cire wasu sarakuna a sassa daban-daban na Arewacin Najeriya saboda zarge-zargen cin zarafin, karya dokoki, tsoma baki a siyasa da sauran batutuwan da suka tayar da kura.",
+   "published_date": "Thu, 26 Nov 2026 04:26:14 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Za a yi gagarumin hazo a wasu yankunan arewa - NiMet",
+   "url": "https://www.bbc.co.uk/hausa/live/cm7524nzpqxxt?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 26/11/2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Liverpool na son dawo da Quansah, Tottenham na zawarcin Pavlidis",
+   "url": "https://www.bbc.com/hausa/articles/cvwy0rzr2nx1o?at_medium=RSS&at_campaign=rss",
+   "content": "Liverpool na tunanin dawo da Jarell Quansah, yayin da Tottenham na harin Vangelis Pavlidis, sai kuma Paris St-Germain da ke zawarcin Estevao Willian.",
+   "published_date": "Thu, 26 Nov 2026 04:10:45 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "'Na tsallake mutuwa': Yadda rikicin Kamaru ya ɗaiɗaita al'umma cikin shekaru 10",
+   "url": "https://www.bbc.com/hausa/articles/cmjrelz01rlpo?at_medium=RSS&at_campaign=rss",
+   "content": "A cikin shekaru takwas da suka gabata, an yi wa Median tiyatar gyaran fuska aƙalla sau huɗu a Kamaru, Ghana da Indiya, kuma ana sa ran za a ƙara yi mata wasu tiyatar a shekara mai zuwa.",
+   "published_date": "Thu, 26 Nov 2026 04:14:21 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Mai haƙar kabarin da ya binne gawarwaki 18,000 cikin shekaru uku",
+   "url": "https://www.bbc.com/hausa/articles/cw074dxv7m84o?at_medium=RSS&at_campaign=rss",
+   "content": "\"Muna cikin mawuyacin hali. Babu likkafani da za a yi wa mamata sutura, babu ko sabulun wanka da za a yi musu tsarki, sannan babu isasshen fili da za a haƙa ƙarin ƙaburbura.",
+   "published_date": "Thu, 26 Nov 2026 04:28:00 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ƴan Kwankwasiyya na ɗaukar sanduna amma ba sa cutar da kowa - Obi",
    "url": "https://www.bbc.co.uk/hausa/live/cr0jx4qw388zt?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya, 25/11/2026",
@@ -27,27 +62,6 @@
    "url": "https://www.bbc.com/hausa/articles/cq98xweyw86xo?at_medium=RSS&at_campaign=rss",
    "content": "Iyalan shahararren ɗan fim ɗin ne suka fitar da sanarwar rasuwarsa yana da shekara 79 a duniya bayan ya yi fama da cutas kansar bakin mafitsara.",
    "published_date": "Wed, 25 Nov 2026 07:35:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Yarinya ƴar shekara 6 da ke kama da ƴar shekara 80",
-   "url": "https://www.bbc.com/hausa/articles/cqly48zkk27po?at_medium=RSS&at_campaign=rss",
-   "content": "Kutokana na ugonjwa alionao Aiza, ngozi yake imelegea na kukunjamana kiasi kwamba watu wengi humfananisha na mtu mwenye umri wa miaka 70 au 80.",
-   "published_date": "Wed, 25 Nov 2026 11:08:54 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Shugabannin Afirka 5 da suka sauya kundin tsarin mulki don ci gaba da mulki",
-   "url": "https://www.bbc.com/hausa/articles/cxyvdmvvgq2yo?at_medium=RSS&at_campaign=rss",
-   "content": "A Afirka akwai shugabannin da suka ƙirƙiri sabon kundin tsarin mulki sannan suka yi amfani da fassararsa wajen sake ƙirga wa'adin mulkinsu daga farko",
-   "published_date": "Wed, 25 Nov 2026 03:45:38 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Gwamnatin jihar Katsina ta dakatar da Sarkin Daura",
-   "url": "https://www.bbc.com/hausa/articles/cmy0ekgw2d62o?at_medium=RSS&at_campaign=rss",
-   "content": "Gwamna Dikko Umaru Radda ne ya bayar da umarnin kafa kwamitin domin gudanar da bincike kan lamarin tare da ba gwamnati shawarwari kan matakin da ya kamata ta ɗauka.",
-   "published_date": "Tue, 24 Nov 2026 16:48:28 GMT",
    "score": 0.6
   },
   {
@@ -90,6 +104,27 @@
    "url": "https://www.bbc.com/hausa/articles/cm4gn8jgwk83o?at_medium=RSS&at_campaign=rss",
    "content": "AC Milan na sa ido kan ɗan wasan tsakiyar Manchester United, Bruno Fernandes; ƴan wasan Arsenal biyu har yanzu ba su fara tattaunawa kan sabbin kwangiloli ba; yayin da Trabzonspor ta sake nuna sha'awarta kan ɗan wasan gaban Tottenham, Richarlison.",
    "published_date": "Sun, 22 Nov 2026 04:00:48 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Yarinya ƴar shekara 6 da ke kama da ƴar shekara 80",
+   "url": "https://www.bbc.com/hausa/articles/cqly48zkk27po?at_medium=RSS&at_campaign=rss",
+   "content": "Kutokana na ugonjwa alionao Aiza, ngozi yake imelegea na kukunjamana kiasi kwamba watu wengi humfananisha na mtu mwenye umri wa miaka 70 au 80.",
+   "published_date": "Wed, 25 Nov 2026 11:08:54 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Shugabannin Afirka 5 da suka sauya kundin tsarin mulki don ci gaba da mulki",
+   "url": "https://www.bbc.com/hausa/articles/cxyvdmvvgq2yo?at_medium=RSS&at_campaign=rss",
+   "content": "A Afirka akwai shugabannin da suka ƙirƙiri sabon kundin tsarin mulki sannan suka yi amfani da fassararsa wajen sake ƙirga wa'adin mulkinsu daga farko",
+   "published_date": "Wed, 25 Nov 2026 03:45:38 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Gwamnatin jihar Katsina ta dakatar da Sarkin Daura",
+   "url": "https://www.bbc.com/hausa/articles/cmy0ekgw2d62o?at_medium=RSS&at_campaign=rss",
+   "content": "Gwamna Dikko Umaru Radda ne ya bayar da umarnin kafa kwamitin domin gudanar da bincike kan lamarin tare da ba gwamnati shawarwari kan matakin da ya kamata ta ɗauka.",
+   "published_date": "Tue, 24 Nov 2026 16:48:28 GMT",
    "score": 0.6
   },
   {

@@ -2,6 +2,27 @@
  "success": true,
  "results": [
   {
+   "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+   "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf",
+   "content": "By attacking Russian vessels around the world, Kyiv is trying to up the pressure on Moscow and also sending out signals to its Western allies. What is the impact on global maritime trade?",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
+   "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-rdf",
+   "content": "High-tech AI chips are hard to get in China because of US restrictions. To get around this, Chinese companies often use offshore computing capacity, particularly in Southeast Asia. The US is also trying to stop it.",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+   "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf",
+   "content": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine in future?",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
    "url": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-rdf",
    "content": "After years of frosty and hostile relations under Hungary's Kremlin-friendly former PM Viktor Orban, his successor, Peter Magyar, and Ukrainian President Volodymyr Zelenskyy seek to reset their countries' ties.",
@@ -68,20 +89,6 @@
    "title": "How cautious investors are struggling to avoid the AI bubble",
    "url": "https://www.dw.com/en/how-cautious-investors-are-struggling-to-avoid-the-ai-bubble/a-80016412?maca=en-rss-en-world-4025-rdf",
    "content": "From Nvidia to Coreweave, AI and tech stocks have swung sharply in recent months. Some investors still see plenty of room to run, while others are trying to diversify — and finding it harder than expected.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "What happens if a nuclear weapon explodes in space?",
-   "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
-   "content": "Earth's atmosphere offers protection from a nuclear blast in space, but satellites are more exposed. We explain how radiation could damage them, why the effects can linger and what protection is possible.",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
-   "title": "After Japan's APEC snub, what's next for its China ties?",
-   "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
-   "content": "Japan has long-running concerns over Chinese military expansionism, and Beijing has bristled at Sanae Takaichi's comments on Taiwan. The frosty ties were on full display at the APEC summit.",
    "published_date": "",
    "score": 0.6
   }

@@ -1,6 +1,21 @@
 {
  "success": true,
- "results": [],
+ "results": [
+  {
+   "title": "Lotte Mall West Lake Hanoi thúc đẩy 'cuộc đua' săn sale Black Friday",
+   "url": "https://vnexpress.net/lotte-mall-west-lake-hanoi-thuc-day-cuoc-dua-san-sale-black-friday-5149025.html",
+   "content": "Lotte Mall West Lake Hanoi chuẩn bị cho mùa mua sắm cuối năm bằng loạt ưu đãi sâu từ trung tâm thương mại, hệ thống thương hiệu bán lẻ, khối Lotte Family và các đối tác thanh toán.",
+   "published_date": "Thu, 26 Nov 2026 10:00:00 +0700",
+   "score": 0.6
+  },
+  {
+   "title": "Plusssz đồng hành chăm sóc sức khỏe runner tại VM Hanoi Midnight 2026",
+   "url": "https://vnexpress.net/plusssz-dong-hanh-cham-soc-suc-khoe-runner-tai-vm-hanoi-midnight-2026-5148884.html",
+   "content": "Viên sủi Plusssz tiếp tục đồng hành VnExpress Marathon Hanoi Midnight 2026, đưa sản phẩm chăm sóc sức khỏe vào race-kit.",
+   "published_date": "Thu, 26 Nov 2026 08:15:00 +0700",
+   "score": 0.6
+  }
+ ],
  "engine": "rss",
  "_tag": "rss_vnexpress",
  "_query": "https://vnexpress.net/rss/tin-moi-nhat.rss",
