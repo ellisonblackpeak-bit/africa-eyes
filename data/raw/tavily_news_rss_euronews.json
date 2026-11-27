@@ -2,6 +2,34 @@
  "success": true,
  "results": [
   {
+   "title": "Germany: Christmas markets open across the country amid tight security",
+   "url": "https://www.euronews.com/video/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security",
+   "content": "Christmas markets across Germany are welcoming visitors with dazzling lights, traditional treats and festive attractions. Security remains a priority following deadly attacks in recent years.",
+   "published_date": "Thu, 26 Nov 2026 23:05:21 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Thanksgiving storms flood US coasts and disrupt holiday travel",
+   "url": "https://www.euronews.com/2026/11/26/thanksgiving-storms-flood-us-coasts-and-disrupt-holiday-travel",
+   "content": "Macy's has postponed its 100th parade in Manhattan as more than 600,000 homes and businesses lost power.",
+   "published_date": "Thu, 26 Nov 2026 22:57:53 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "UK: London's Gingerbread City returns with 50 edible architectural creations",
+   "url": "https://www.euronews.com/video/2026/11/26/uk-londons-gingerbread-city-returns-with-50-edible-architectural-creations",
+   "content": "London architects have created a miniature city featuring gingerbread skyscrapers, sugar rivers and iconic landmarks. The festive exhibition also explores the future of urban living.",
+   "published_date": "Thu, 26 Nov 2026 21:37:07 +0100",
+   "score": 0.6
+  },
+  {
+   "title": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
+   "url": "https://www.euronews.com/video/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies",
+   "content": "Around 200 representatives of European farming unions marched through Brussels, Belgium, on Thursday 26 November 2026 to protest against proposed cuts to the European Union's Common Agricultural Policy (CAP). The demonstration coincided with a summit on the bloc's next long-term budget.",
+   "published_date": "Thu, 26 Nov 2026 21:10:25 +0100",
+   "score": 0.6
+  },
+  {
    "title": "Son of Myanmar's Suu Kyi 'relieved' by first call in five years, questions military's motives",
    "url": "https://www.euronews.com/2026/11/26/son-of-myanmars-suu-kyi-relieved-by-first-call-in-five-years-questions-militarys-motives",
    "content": "Speaking to Euronews’ The World Conversation, Kim Aris described his relief at hearing his mother’s voice after five years, called for tougher sanctions enforcement and defended her record on the Rohingya genocide ruling.",
@@ -181,34 +209,6 @@
    "url": "https://www.euronews.com/video/2026/11/26/latest-news-bulletin-november-26th-2026-morning",
    "content": "Catch up with the most important stories from around Europe and beyond this November 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
    "published_date": "Thu, 26 Nov 2026 07:00:32 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture",
-   "url": "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
-   "content": "Kim accused Washington of encouraging its regional allies to acquire nuclear-powered submarines and of pledging to share its own nuclear weapons with them.",
-   "published_date": "Thu, 26 Nov 2026 06:55:00 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Indonesia: rescuers race to find 13 miners trapped in flooded illegal gold mine",
-   "url": "https://www.euronews.com/2026/11/26/indonesia-rescuers-race-to-find-13-miners-trapped-in-flooded-illegal-gold-mine",
-   "content": "The disaster began late on Monday, when heavy rain made the Ciseureuh River burst its banks and pour into a mine shaft, which is estimated to be around 100 metres deep.",
-   "published_date": "Thu, 26 Nov 2026 06:14:01 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Moment fuel truck fire engulfs traffic on Cairo highway",
-   "url": "https://www.euronews.com/2026/11/26/moment-fuel-truck-fire-engulfs-traffic-on-cairo-highway",
-   "content": "At least 31 people have been killed and 21 injured after a crash involving a fuel tanker triggered a massive fire on a major highway near Cairo. The blaze engulfed more than two dozen cars and motorcycles on the Ring Road in Giza on Wednesday night.",
-   "published_date": "Thu, 26 Nov 2026 05:40:55 +0100",
-   "score": 0.6
-  },
-  {
-   "title": "Wrongly deported Salvadoran arrives in Spain after US legal battle",
-   "url": "https://www.euronews.com/2026/11/25/wrongly-deported-salvadoran-arrives-in-spain-after-us-legal-battle",
-   "content": "The Salvadoran, deported \"by mistake\" to a prison in El Salvador in 2025, has brought an end to 20 months of litigation in the United States, with Madrid as the first stop in what his lawyers describe as a temporary stay abroad.",
-   "published_date": "Wed, 25 Nov 2026 21:15:17 +0100",
    "score": 0.6
   }
  ],

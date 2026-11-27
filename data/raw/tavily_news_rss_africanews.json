@@ -2,10 +2,52 @@
  "success": true,
  "results": [
   {
+   "title": "Germany: Christmas markets open across the country amid tight security",
+   "url": "http://www.africanews.com/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security/",
+   "content": "Christmas markets across Germany are welcoming visitors with dazzling lights, traditional treats and festive attractions. Security remains a priority following deadly attacks in recent years.",
+   "published_date": "Thu, 26 Nov 2026 22:05:28 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Mali top Group G as Côte d’Ivoire join them in U-17 World Cup knockouts",
+   "url": "http://www.africanews.com/2026/11/26/mali-top-group-g-as-cote-divoire-join-them-in-u-17-world-cup-knockouts/",
+   "content": "Mali finished top of Group G with a perfect record after beating Vietnam 2-0 on Thursday, completing a three-match winning run to reach the knockout rounds of the FIFA U-17 World Cup.",
+   "published_date": "Thu, 26 Nov 2026 21:34:07 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Morocco and Senegal advance to U-17 World Cup knockout stage",
+   "url": "http://www.africanews.com/2026/11/26/morocco-and-senegal-advance-to-u-17-world-cup-knockout-stage/",
+   "content": "Morocco’s Under-17 team secured a place in the round of 32 at the FIFA U-17 World Cup despite losing 2-1 to Spain in their final Group H match on Thursday. The Atlas Cubs finished second in the group with three points.",
+   "published_date": "Thu, 26 Nov 2026 21:29:05 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Nigeria: ISWAP turns to armed drones and global financing networks",
+   "url": "http://www.africanews.com/2026/11/26/nigeria-iswap-turns-to-armed-drones-and-global-financing-networks/",
+   "content": "Armed drones, satellite communications and international financing network, Islamic State militants in Nigeria are stepping up their technological capabilities to sustain their insurgency.",
+   "published_date": "Thu, 26 Nov 2026 21:19:24 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "UK: London's Gingerbread City returns with 50 edible architectural creations",
+   "url": "http://www.africanews.com/2026/11/26/uk-londons-gingerbread-city-returns-with-50-edible-architectural-creations/",
+   "content": "London architects have created a miniature city featuring gingerbread skyscrapers, sugar rivers and iconic landmarks. The festive exhibition also explores the future of urban living.",
+   "published_date": "Thu, 26 Nov 2026 20:37:18 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
+   "url": "http://www.africanews.com/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies/",
+   "content": "Around 200 representatives of European farming unions marched through Brussels, Belgium, on Thursday 26 November 2026 to protest against proposed cuts to the European Union's Common Agricultural Policy (CAP). The demonstration coincided with a summit on the bloc's next long-term budget.",
+   "published_date": "Thu, 26 Nov 2026 20:10:52 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Guinea-Bissau delays elections for two years to 2028",
    "url": "http://www.africanews.com/2026/11/26/guinea-bissau-delays-elections-for-two-years-to-2028/",
    "content": "Guinea-Bissau’s military rulers have pushed back presidential and parliamentary elections by two years, delaying the country’s promised return to civilian rule.",
-   "published_date": "Thu, 26 Nov 2026 19:51:50 +0000",
+   "published_date": "Thu, 26 Nov 2026 19:55:20 +0000",
    "score": 0.6
   },
   {
@@ -167,48 +209,6 @@
    "url": "http://www.africanews.com/2026/11/25/mozambique-advance-to-round-of-32-after-2-2-draw-with-australia/",
    "content": "Mozambique have booked their place in the Round of 32 at the FIFA Under-17 World Cup in Qatar after drawing 2-2 with Australia in Group C.",
    "published_date": "Wed, 25 Nov 2026 21:53:49 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Egypt advance to U-17 World Cup knockout stage as Haiti eliminated",
-   "url": "http://www.africanews.com/2026/11/25/egypt-advance-to-u-17-world-cup-knockout-stage-as-haiti-eliminated/",
-   "content": "Egypt secured a place in the knockout round of 32 after beating Panama 4-1 in a thrilling match in Qatar. They are the second African team to reach the next round, following Uganda, and finished second in Group A.",
-   "published_date": "Wed, 25 Nov 2026 21:18:26 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Egypt says 30 dead in Cairo fire after fuel truck crashes on highway",
-   "url": "http://www.africanews.com/2026/11/25/egypt-says-30-dead-in-cairo-fire-after-fuel-truck-crashes-on-highway/",
-   "content": "A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday, killing at least 30 people, Egyptian authorities said.",
-   "published_date": "Wed, 25 Nov 2026 21:11:06 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "South Africa's Ramaphosa wins court bid over impeachment report",
-   "url": "http://www.africanews.com/2026/11/25/south-africas-ramaphosa-wins-court-bid-over-impeachment-report/",
-   "content": "A South African court on Wednesday ruled in favour of President Cyril Ramaphosa, throwing out a report that fuelled efforts to impeach him over his handling of a cash theft at his private farm.",
-   "published_date": "Wed, 25 Nov 2026 20:07:59 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Uganda storm into U-17 World Cup round of 32 with 6-0 win",
-   "url": "http://www.africanews.com/2026/11/25/uganda-storm-into-u-17-world-cup-round-of-32-with-6-0-win/",
-   "content": "Uganda sealed qualification for the FIFA U-17 World Cup round of 32 with a commanding 6-0 win over New Caledonia.",
-   "published_date": "Wed, 25 Nov 2026 19:42:55 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Canary Islands record nearly 2,000 migrant arrivals in a single day",
-   "url": "http://www.africanews.com/2026/11/25/canary-islands-record-nearly-2000-migrant-arrivals-in-a-single-day/",
-   "content": "The Canary Islands maritime rescue service said 1,990 people reached the archipelago aboard 15 boats on Tuesday, with many departing from Senegal and Gambia.",
-   "published_date": "Thu, 26 Nov 2026 09:00:10 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Greece: 14,000 march in Athens against rising living costs",
-   "url": "http://www.africanews.com/2026/11/25/greece-14000-march-in-athens-against-rising-living-costs/",
-   "content": "Thousands demonstrated across Greece on Wednesday 25 November 2026 during a 24-hour strike against rising living costs and stagnant wages. The industrial action disrupted metro services, grounded flights and kept ferries in port.",
-   "published_date": "Wed, 25 Nov 2026 18:20:53 +0000",
    "score": 0.6
   }
  ],
