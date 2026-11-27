@@ -1,0 +1,37 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Refoulés de Guinée : il ne reste plus que 24 personnes au site daccueil de Bamako",
+   "url": "https://malijet.com/a_la_une_du_mali/312963-refoules-de-guinee-il-ne-reste-plus-que-24-personnes-au-si.html",
+   "content": "",
+   "published_date": "2026-11-24T22:15:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Egypt advance to U - 17 World Cup knockout stage as Haiti eliminated",
+   "url": "https://www.africanews.com/2026/11/25/egypt-advance-to-u-17-world-cup-knockout-stage-as-haiti-eliminated/",
+   "content": "",
+   "published_date": "2026-11-26T02:15:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Liberia : NPA Earmarks U . S . $400m Development Plans",
+   "url": "https://allafrica.com/stories/202611250039.html",
+   "content": "",
+   "published_date": "2026-11-25T05:15:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ml",
+ "_query": "Mali OR Bamako OR jihadist OR orpaillage",
+ "_domains": [
+  "malijet.com",
+  "maliweb.net",
+  "reuters.com",
+  "africanews.com",
+  "allafrica.com"
+ ],
+ "_days": 3
+}

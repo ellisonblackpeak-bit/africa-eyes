@@ -2,13 +2,6 @@
  "success": true,
  "results": [
   {
-   "title": "Industry urges nuclear recognition in COP31's 35-by-35 pledge",
-   "url": "https://www.world-nuclear-news.org/articles/industry-urges-nuclear-recognition-in-cop31s-35-by-35-pledge",
-   "content": "The role that nuclear can play in achieving the COP31 summit's pledge to increase electricity to 35% of energy demand by 2035 should be acknowledged, industry leaders have said, with nuclear construction at a 40-year high.",
-   "published_date": "Fri, 13 Nov 2026 12:51:20 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Energy crisis reinforces comeback of nuclear power, says IEA",
    "url": "https://www.world-nuclear-news.org/articles/energy-crisis-reinforces-comeback-of-nuclear-power-says-iea",
    "content": "Unprecedented disruption in the energy world - primarily resulting from the war in the Middle East - is set to reinforce the comeback of nuclear power, according to the International Energy Agency's latest World Energy Outlook , which has revised its forecast for nuclear upwards.",
@@ -209,6 +202,13 @@
    "url": "https://www.world-nuclear-news.org/articles/bwxt-manufacturing-facility-expansion-complete",
    "content": "The CAD80 million (USD56 million) investment in the Cambridge, Ontario facility significantly expands BWX Technologies' capacity to manufacture large-scale nuclear components for both conventional and advanced reactors of all sizes.",
    "published_date": "Fri, 13 Nov 2026 15:23:46 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Nuclear M&A deals total USD10.3 billion in first nine months of 2026",
+   "url": "https://www.world-nuclear-news.org/articles/nuclear-manda-deals-total-10.3-billion-in-first-nine-months-of-2026",
+   "content": "Deals totalling USD10.3 billion were completed in the first nine months of 2026, with global nuclear mergers and acquisitions well placed to beat 2025's full year USD11.2 billion, research by law firm White & Case LLP suggests.",
+   "published_date": "Wed, 18 Nov 2026 08:53:02 GMT",
    "score": 0.6
   }
  ],
