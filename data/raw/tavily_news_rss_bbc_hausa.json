@@ -2,17 +2,24 @@
  "success": true,
  "results": [
   {
-   "title": "Yadda Gwamna Abba ke ƙoƙarin amfani da EFCC don tozarta ni da iyalina - Kwankwaso",
+   "title": "Gwamna Abba na ƙoƙarin amfani da EFCC don tozarta ni - Kwankwaso",
    "url": "https://www.bbc.com/hausa/articles/c61wr84jj84po?at_medium=RSS&at_campaign=rss",
    "content": "Sanata Rabiu Kwankwaso ya kuma yi zargin cewa gwamna Abba da wasu daga cikin mambobin majalisar zartarwarsa na amfani da kafafen yaɗa labarai da nufin ɓata masa suna.",
    "published_date": "Fri, 27 Nov 2026 13:54:09 GMT",
    "score": 0.6
   },
   {
-   "title": "Najeriya da wasu ƙasashe 15 na cikin barazanar fuskantar yunwa",
+   "title": "Najeriya da wasu ƙasashe 15 na fuskantar barazanar yunwa",
    "url": "https://www.bbc.co.uk/hausa/live/c98r7ymmpne4t?at_medium=RSS&at_campaign=rss",
    "content": "Wannan shafi ne da ke kawo muku labaran abubuwan da ke faruwa a Najeriya da sauran sassan duniya a ranar Juma'a 27/11/2026",
    "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Faston da ke ƙoƙarin ganin an hana mata zaɓe a Amurka",
+   "url": "https://www.bbc.com/hausa/articles/c65y1prvjp1mo?at_medium=RSS&at_campaign=rss",
+   "content": "Yunkurin soke ƴancin mata na kaɗa ƙuri'a ya samu karɓuwa a tsakanin wasu Kiristoci masu ra'ayin mazan jiya.",
+   "published_date": "Fri, 27 Nov 2026 16:32:07 GMT",
    "score": 0.6
   },
   {
@@ -37,13 +44,6 @@
    "score": 0.6
   },
   {
-   "title": "An rufe coci huɗu a Legas kan zargin damun jama'a",
-   "url": "https://www.bbc.co.uk/hausa/live/cm7524nzpqxxt?at_medium=RSS&at_campaign=rss",
-   "content": ".",
-   "published_date": "",
-   "score": 0.6
-  },
-  {
    "title": "Shin an murƙushe ƙungiyoyi irin su al-Shabaab ne, ko kuwa sun sauya salo?",
    "url": "https://www.bbc.com/hausa/articles/cmlyed4jqjl4o?at_medium=RSS&at_campaign=rss",
    "content": "Shekaru 12 kenan bayan ƙungiyar IS ta ayyana abin da ta kira halifanci a Iraƙi da Syria, inda salon ayyukan ƙungiyoyin jihadi ya sauya matuƙa.",
@@ -65,17 +65,17 @@
    "score": 0.6
   },
   {
+   "title": "Za a tilastawa masu Manchester City su sayar da kungiyar",
+   "url": "https://www.bbc.co.uk/hausa/live/cmly7qjlxdq2t?at_medium=RSS&at_campaign=rss",
+   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 23 zuwa 29 ga watan Nuwambar 2026",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
    "title": "Haaland na iya barin Man City, Liverpool na harin Jamal Musiala",
    "url": "https://www.bbc.com/hausa/articles/ck9q8ynlql29o?at_medium=RSS&at_campaign=rss",
    "content": "Erling Haaland na duba yiuwar barin Manchester City exit, yayin da Liverpool ke harin Jamal Musiala, sai Manchester United da ke zawarcin Maxi Araujo, da arin wasu rahotannin.",
    "published_date": "Fri, 27 Nov 2026 03:51:46 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "An yi wa hukumar kwallon kafa ta duniya, Fifa kutse a yanar gizonta",
-   "url": "https://www.bbc.co.uk/hausa/live/cmly7qjlxdq2t?at_medium=RSS&at_campaign=rss",
-   "content": "Wannan shafi ne da ke kawo muku labaran wasannin kai tsaye daga BBC Hausa daga 23 zuwa 29 ga watan Nuwambar 2026",
-   "published_date": "",
    "score": 0.6
   },
   {
@@ -100,10 +100,10 @@
    "score": 0.6
   },
   {
-   "title": "'Na tsallake mutuwa': Yadda rikicin Kamaru ya ɗaiɗaita al'umma cikin shekaru 10",
-   "url": "https://www.bbc.com/hausa/articles/cmjrelz01rlpo?at_medium=RSS&at_campaign=rss",
-   "content": "A cikin shekaru takwas da suka gabata, an yi wa Median tiyatar gyaran fuska aƙalla sau huɗu a Kamaru, Ghana da Indiya, kuma ana sa ran za a ƙara yi mata wasu tiyatar a shekara mai zuwa.",
-   "published_date": "Thu, 26 Nov 2026 04:14:21 GMT",
+   "title": "Gwamnatin jihar Katsina ta dakatar da Sarkin Daura",
+   "url": "https://www.bbc.com/hausa/articles/cmy0ekgw2d62o?at_medium=RSS&at_campaign=rss",
+   "content": "Gwamna Dikko Umaru Radda ne ya bayar da umarnin kafa kwamitin domin gudanar da bincike kan lamarin tare da ba gwamnati shawarwari kan matakin da ya kamata ta ɗauka.",
+   "published_date": "Tue, 24 Nov 2026 16:48:28 GMT",
    "score": 0.6
   },
   {
@@ -111,6 +111,13 @@
    "url": "https://www.bbc.com/hausa/articles/ck4gnd7m9r4mo?at_medium=RSS&at_campaign=rss",
    "content": "A cikin shekarun baya-bayan nan kuwa, an dakatar ko cire wasu sarakuna a sassa daban-daban na Arewacin Najeriya saboda zarge-zargen cin zarafin, karya dokoki, tsoma baki a siyasa da sauran batutuwan da suka tayar da kura.",
    "published_date": "Thu, 26 Nov 2026 04:26:14 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "An rufe coci huɗu a Legas kan zargin damun jama'a",
+   "url": "https://www.bbc.co.uk/hausa/live/cm7524nzpqxxt?at_medium=RSS&at_campaign=rss",
+   "content": ".",
+   "published_date": "",
    "score": 0.6
   },
   {
@@ -149,31 +156,10 @@
    "score": 0.6
   },
   {
-   "title": "Yarinya ƴar shekara 6 da ke kama da ƴar shekara 80",
-   "url": "https://www.bbc.com/hausa/articles/cqly48zkk27po?at_medium=RSS&at_campaign=rss",
-   "content": "Kutokana na ugonjwa alionao Aiza, ngozi yake imelegea na kukunjamana kiasi kwamba watu wengi humfananisha na mtu mwenye umri wa miaka 70 au 80.",
-   "published_date": "Wed, 25 Nov 2026 11:08:54 GMT",
-   "score": 0.6
-  },
-  {
    "title": "Ɗan wasan fim Pete Edochie ya rasu",
    "url": "https://www.bbc.com/hausa/articles/cq98xweyw86xo?at_medium=RSS&at_campaign=rss",
    "content": "Iyalan shahararren ɗan fim ɗin ne suka fitar da sanarwar rasuwarsa yana da shekara 79 a duniya bayan ya yi fama da cutas kansar bakin mafitsara.",
    "published_date": "Wed, 25 Nov 2026 07:35:00 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Shugabannin Afirka 5 da suka sauya kundin tsarin mulki don ci gaba da mulki",
-   "url": "https://www.bbc.com/hausa/articles/cxyvdmvvgq2yo?at_medium=RSS&at_campaign=rss",
-   "content": "A Afirka akwai shugabannin da suka ƙirƙiri sabon kundin tsarin mulki sannan suka yi amfani da fassararsa wajen sake ƙirga wa'adin mulkinsu daga farko",
-   "published_date": "Wed, 25 Nov 2026 03:45:38 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Gwamnatin jihar Katsina ta dakatar da Sarkin Daura",
-   "url": "https://www.bbc.com/hausa/articles/cmy0ekgw2d62o?at_medium=RSS&at_campaign=rss",
-   "content": "Gwamna Dikko Umaru Radda ne ya bayar da umarnin kafa kwamitin domin gudanar da bincike kan lamarin tare da ba gwamnati shawarwari kan matakin da ya kamata ta ɗauka.",
-   "published_date": "Tue, 24 Nov 2026 16:48:28 GMT",
    "score": 0.6
   },
   {
