@@ -2,17 +2,38 @@
  "success": true,
  "results": [
   {
+   "title": "Àkójọpọ̀ ìròyìn bó ṣe ń lọ nínú ìdìbò ìgbáradì INEC ṣáájú ètò ìdìbò ọdún 2027",
+   "url": "https://www.bbc.co.uk/yoruba/live/ck4gn0lnnjgdt?at_medium=RSS&at_campaign=rss",
+   "content": "Ìròyìn àtìgbàdégbà nípa ìdìbò ìgbáradì INEC ṣáájú ètò ìdìbò ọdún 2027",
+   "published_date": "",
+   "score": 0.6
+  },
+  {
+   "title": "Ohun tó yẹ kí o mọ̀ nípa ìdìbò ìgbáradì tí INEC ń ṣe lónìí",
+   "url": "https://www.bbc.com/yoruba/articles/c8g46xvrz1r5o?at_medium=RSS&at_campaign=rss",
+   "content": "Oni ọjọ Satide, ọjọ kejidinlọgbọn oṣu Kọkanla ọdun 2026 ni eto idibo ìgbáradì náà n waye, o jẹ́ ara ìmúrasílẹ̀ fún idibo ọdún 2027.",
+   "published_date": "Sat, 28 Nov 2026 08:21:33 GMT",
+   "score": 0.6
+  },
+  {
    "title": "Ohun márùn ún ọ̀tọ̀tọ̀ tí Adeleke ní òun yóò ṣe fún ìpínlẹ̀ Osun ní sáà kejì rẹ̀ lórí oyè",
    "url": "https://www.bbc.com/yoruba/articles/cxnv47g54m40o?at_medium=RSS&at_campaign=rss",
    "content": "Adeleke lo sọrọ yii lasiko ti wọn burawọle fun fun saa keji niluu Osogbo.",
-   "published_date": "Fri, 27 Nov 2026 17:24:08 GMT",
+   "published_date": "Sat, 28 Nov 2026 07:52:06 GMT",
    "score": 0.6
   },
   {
    "title": "Mo fẹ́ di ológo nlá lágbo olórin lọ́dún méjì sí àsìkò yìí - Magixx",
    "url": "https://www.bbc.com/yoruba/watch/cme8737zpke2o?at_medium=RSS&at_campaign=rss",
    "content": "Magixx tun sọ fun BBC News Yoruba wi pe oun fẹran obinrin gan an ,amọ, o ni iwọntunwọnsi naa ni gbogbo nnkan.",
-   "published_date": "Fri, 27 Nov 2026 21:18:30 GMT",
+   "published_date": "Sat, 28 Nov 2026 07:54:59 GMT",
+   "score": 0.6
+  },
+  {
+   "title": "Ẹ gba àlàáfíà láàyè, máà fún ẹbí olóògbé kọ̀ọ̀kan ní mílíọ̀nù méjì Náírà - Gómìnà Bago ti Niger",
+   "url": "https://www.bbc.com/yoruba/articles/cqlym4ppg975o?at_medium=RSS&at_campaign=rss",
+   "content": "Yatọ si wi pe wọn pa Baalẹ Muhammad atawọn ẹbi re, awọn eeyan naa tun dana sun aafin rẹ, leyi to mu kawọn ti ori ko yọ sa asala fun ẹmi ara wọn.",
+   "published_date": "Sat, 28 Nov 2026 08:25:15 GMT",
    "score": 0.6
   },
   {
@@ -30,10 +51,10 @@
    "score": 0.6
   },
   {
-   "title": "Ohun tó yẹ kí o mọ̀ nípa ìdìbò ìgbáradì tí INEC fẹ́ ṣé lọ́jọ́ Sátidé",
+   "title": "Ohun tó yẹ kí o mọ̀ nípa ìdìbò ìgbáradì tí INEC ń ṣe lónìí",
    "url": "https://www.bbc.com/yoruba/articles/c8g46xvrz1r5o?at_medium=RSS&at_campaign=rss",
-   "content": "Inec ní ètò ìdìbò ìgbáradì náà jẹ́ ara ìmúrasílẹ̀ fún idibo ọdún 2027",
-   "published_date": "Fri, 27 Nov 2026 08:12:17 GMT",
+   "content": "Oni ọjọ Satide, ọjọ kejidinlọgbọn oṣu Kọkanla ọdun 2026 ni eto idibo ìgbáradì náà n waye, o jẹ́ ara ìmúrasílẹ̀ fún idibo ọdún 2027.",
+   "published_date": "Sat, 28 Nov 2026 08:21:33 GMT",
    "score": 0.6
   },
   {
@@ -188,27 +209,6 @@
    "url": "https://www.bbc.com/yoruba/articles/cq4gnp5001w4o?at_medium=RSS&at_campaign=rss",
    "content": "Ẹgbẹ NURTW sọ pe awọn ko fẹ wahala nitori ọrọ gareeji kaakiri ipinlẹ Oyo.",
    "published_date": "Mon, 23 Nov 2026 17:05:19 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ìjọba Nàíjíríà bẹ̀rẹ̀ ìgbésẹ̀ láti fòpin sí ìdájọ́ ẹ̀wọ̀n fáwọn tó fẹ́ẹ́ gbẹ̀mí ara wọn",
-   "url": "https://www.bbc.com/yoruba/articles/c68791rlll1wo?at_medium=RSS&at_campaign=rss",
-   "content": "Labẹ ofin Naijiria, iwa ọdaran ni ẹnikẹni to ba gbiyanju lati gba ẹmi ara rẹ, ati pe iru ẹni bẹẹ yoo lo to ọdun kan lọgba ẹwọn, tabi ko san owo itanran - iru ẹni bẹẹ si le ṣẹwọn, ko si tun san owo itanran papọ.",
-   "published_date": "Mon, 23 Nov 2026 11:16:27 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Wo ìlú tí o ti nílò láti fi BVN, NIN àti ìwé ọjọ́ ìbí rẹ̀ sílẹ̀ láti yá 'power bank' nítorí àìsí iná fún ọdún 18",
-   "url": "https://www.bbc.com/yoruba/watch/cwm25vgzjn11o?at_medium=RSS&at_campaign=rss",
-   "content": "Awọn eeyan ilu naa lo sọ bẹẹ fun BBC Yoruba lasiko ti awọn akọroyin wa ṣabẹwo sibẹ.",
-   "published_date": "Tue, 17 Nov 2026 08:42:29 GMT",
-   "score": 0.6
-  },
-  {
-   "title": "Ẹ̀rù ò bodò ló bá dé fún Seyi Makinde- Dotun Oyelade",
-   "url": "https://www.bbc.com/yoruba/articles/cwn8dnp7pkjjo?at_medium=RSS&at_campaign=rss",
-   "content": "Kọmisọna fun eto iroyin nipinlẹ Oyo, Ọmọba Dotun Oyelade, sọ pe Gomina Seyi Makinde ko mi ọkan rara lori b'awọn eeyan to n ba a ṣiṣẹ pọ kan ṣe n kọwe fipo sílẹ lera lera.",
-   "published_date": "Mon, 23 Nov 2026 08:04:42 GMT",
    "score": 0.6
   }
  ],

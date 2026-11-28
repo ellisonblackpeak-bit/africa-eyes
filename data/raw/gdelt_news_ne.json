@@ -1,0 +1,37 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Apprentissage du russe à Niamey : lONG EMMNR poursuit ses cours gratuits et ouvre ses portes à de nouveaux apprenants",
+   "url": "https://www.actuniger.com/societe/apprentissage-du-russe-a-niamey-long-emmnr-poursuit-ses-cours-gratuits-et-ouvre-ses-portes-a-de-nouveaux-apprenants-4.html",
+   "content": "",
+   "published_date": "2026-11-28T04:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Apprentissage du russe à Niamey : lONG EMMNR poursuit ses cours gratuits et ouvre ses portes à de nouveaux apprenants",
+   "url": "https://www.actuniger.com/societe/apprentissage-du-russe-a-niamey-long-emmnr-poursuit-ses-cours-gratuits-et-ouvre-ses-portes-a-de-nouveaux-apprenants-2.html",
+   "content": "",
+   "published_date": "2026-11-28T04:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Apprentissage du russe à Niamey : lONG EMMNR poursuit ses cours gratuits et ouvre ses portes à de nouveaux apprenants",
+   "url": "https://www.actuniger.com/societe/apprentissage-du-russe-a-niamey-long-emmnr-poursuit-ses-cours-gratuits-et-ouvre-ses-portes-a-de-nouveaux-apprenants-3.html",
+   "content": "",
+   "published_date": "2026-11-28T04:45:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ne",
+ "_query": "Niger OR Niamey OR uranium OR junta",
+ "_domains": [
+  "actuniger.com",
+  "lesahel.org",
+  "airinfo.org",
+  "malijet.com",
+  "maliweb.net"
+ ],
+ "_days": 3
+}

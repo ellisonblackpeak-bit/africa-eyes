@@ -1,0 +1,50 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Nigeria : ISWAP turns to armed drones and global financing networks",
+   "url": "https://www.africanews.com/2026/11/26/nigeria-iswap-turns-to-armed-drones-and-global-financing-networks/",
+   "content": "",
+   "published_date": "2026-11-27T01:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Togo : Laide européenne tient bon au Bénin et au pays",
+   "url": "https://fr.allafrica.com/stories/202611260715.html",
+   "content": "",
+   "published_date": "2026-11-27T01:30:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Afrique de lOuest : Six pays de la sous - région font front commun contre la corruption",
+   "url": "https://fr.allafrica.com/stories/202611270705.html",
+   "content": "",
+   "published_date": "2026-11-27T22:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Togo : LCT muscle son quai pour les géants des mers",
+   "url": "https://fr.allafrica.com/stories/202611270663.html",
+   "content": "",
+   "published_date": "2026-11-28T07:15:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Nigeria : Tourism Experts - With Liberalised Visa Policy , Nigeria Can Earn Additional $5bn",
+   "url": "https://allafrica.com/stories/202611270045.html",
+   "content": "",
+   "published_date": "2026-11-27T05:30:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "regional",
+ "_query": "Sahel OR ECOWAS OR JNIM OR ISWAP",
+ "_domains": [
+  "reuters.com",
+  "africanews.com",
+  "allafrica.com",
+  "bbc.com"
+ ],
+ "_days": 3
+}

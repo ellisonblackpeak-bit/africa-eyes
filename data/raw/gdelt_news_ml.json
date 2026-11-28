@@ -1,0 +1,37 @@
+{
+ "success": true,
+ "results": [
+  {
+   "title": "Mali : les pétards et les feux dartifice interdits dans tout le pays",
+   "url": "https://malijet.com/a_la_une_du_mali/313014-mali-les-petards-et-les-feux-dartifice-interdits-dans-tou.html",
+   "content": "",
+   "published_date": "2026-11-28T01:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Afrique : Mondial U17 - Huit sur dix équipes africaines qualifiées pour les seizièmes de finale",
+   "url": "https://fr.allafrica.com/stories/202611270697.html",
+   "content": "",
+   "published_date": "2026-11-27T22:45:00Z",
+   "score": 0.5
+  },
+  {
+   "title": "Egypt advance to U - 17 World Cup knockout stage as Haiti eliminated",
+   "url": "https://www.africanews.com/2026/11/25/egypt-advance-to-u-17-world-cup-knockout-stage-as-haiti-eliminated/",
+   "content": "",
+   "published_date": "2026-11-26T02:15:00Z",
+   "score": 0.5
+  }
+ ],
+ "engine": "gdelt",
+ "_tag": "ml",
+ "_query": "Mali OR Bamako OR jihadist OR orpaillage",
+ "_domains": [
+  "malijet.com",
+  "maliweb.net",
+  "reuters.com",
+  "africanews.com",
+  "allafrica.com"
+ ],
+ "_days": 3
+}

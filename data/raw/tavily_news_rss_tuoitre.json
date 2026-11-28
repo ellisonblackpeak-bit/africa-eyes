@@ -1,14 +1,6 @@
 {
  "success": true,
- "results": [
-  {
-   "title": "Chủ tịch FPT Retail chia sẻ kinh nghiệm phát triển Long Châu tại Vietnam Future Economy Summit 2026",
-   "url": "https://tuoitre.vn/chu-tich-fpt-retail-chia-se-kinh-nghiem-phat-trien-long-chau-tai-vietnam-future-economy-summit-2026-100261127192642118.htm",
-   "content": "Tại Vietnam Future Economy Summit 2026, bà Nguyễn Bạch Điệp, Chủ tịch Hội đồng Quản trị FPT Retail, chia sẻ cách doanh nghiệp đánh giá cơ hội mở rộng Long Châu dựa trên hiệu quả vận hành, dư địa thị trường và cơ hội phát triển thêm các dịch vụ chăm sóc sức khỏe.",
-   "published_date": "11/27/2026 7:47:00 PM",
-   "score": 0.6
-  }
- ],
+ "results": [],
  "engine": "rss",
  "_tag": "rss_tuoitre",
  "_query": "https://tuoitre.vn/rss/tin-moi-nhat.rss",

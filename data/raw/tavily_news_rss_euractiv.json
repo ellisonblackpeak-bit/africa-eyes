@@ -2,6 +2,13 @@
  "success": true,
  "results": [
   {
+   "title": "Europe’s deadly deadlines",
+   "url": "https://www.rapporteur.com/news/europes-deadly-deadlines/",
+   "content": "EU leaders are racing to approve a host of deals before January. Whence the rush?",
+   "published_date": "Sat, 28 Nov 2026 07:00:55 +0000",
+   "score": 0.6
+  },
+  {
    "title": "Europe’s measles vaccination rates still fall short, WHO warns",
    "url": "https://www.rapporteur.com/news/europes-measles-vaccination-rates-still-fall-short-who-warns/",
    "content": "Measles deaths in Europe fell an estimated 96% between 2000 and 2025",
@@ -202,13 +209,6 @@
    "url": "https://www.rapporteur.com/news/costas-carefully-crafted-budget-flop/",
    "content": "'Frugal' countries are keeping up the pressure for more cuts, teeing up a marathon summit in December",
    "published_date": "Fri, 27 Nov 2026 01:16:58 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "EUCO: Costa’s special EU budget summit fails",
-   "url": "https://www.rapporteur.com/news/euco-costas-special-eu-budget-summit-fails/",
-   "content": "EU leaders cancel meetings and write off any chances of a deal until December",
-   "published_date": "Thu, 26 Nov 2026 21:43:12 +0000",
    "score": 0.6
   }
  ],

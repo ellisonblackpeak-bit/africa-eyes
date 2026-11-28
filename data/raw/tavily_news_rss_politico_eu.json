@@ -2,6 +2,20 @@
  "success": true,
  "results": [
   {
+   "title": "Ein Spaziergang mit Markus Frohnmaier",
+   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-markus-frohnmaier/",
+   "content": "Präsentiert von YouTube.",
+   "published_date": "Sat, 28 Nov 2026 04:00:00 +0000",
+   "score": 0.6
+  },
+  {
+   "title": "9 things you need to read ahead of the Spanish election",
+   "url": "https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/",
+   "content": "From understanding the key players to watching Sunday’s results like a pro, here’s everything you need to know.",
+   "published_date": "Sat, 28 Nov 2026 03:00:00 +0000",
+   "score": 0.6
+  },
+  {
    "title": "‘An advocate for Russia’: Kushner’s Putin comments spark outrage in Europe",
    "url": "https://www.politico.eu/article/an-advocate-for-russia-jared-kushner-vladimir-putin-comments-spark-outrage-europe/",
    "content": "A lawmaker in Kyiv called for the U.S. president's son-in-law to be replaced as peace envoy, while a German MEP said he is repeating \"pure Kremlin propaganda.\"",
@@ -51,24 +65,10 @@
    "score": 0.6
   },
   {
-   "title": "Wie der Rentenstreit die Koalition spaltet",
-   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-der-rentenstreit-die-koalition-spaltet/",
-   "content": "Präsentiert von YouTube.",
-   "published_date": "Fri, 27 Nov 2026 04:30:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "How Costa’s budget talks sparked a new crisis",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-costas-budget-talks-sparked-a-new-crisis/",
-   "content": "Presented by Fusion for Energy.",
-   "published_date": "Fri, 27 Nov 2026 03:45:00 +0000",
-   "score": 0.6
-  },
-  {
-   "title": "Bank of England boss warns AI must benefit humans",
-   "url": "https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/",
-   "content": "Tech needs boundaries — \"a bit like rearing children,\" says Andrew Bailey.",
-   "published_date": "Fri, 27 Nov 2026 03:00:00 +0000",
+   "title": "EU dithering on packaging law threatens to hammer Christmas sales, businesses warn",
+   "url": "https://www.politico.eu/article/eu-indecision-on-packaging-law-threatens-to-hammer-christmas-sales-businesses-warn/",
+   "content": "Laws designed to clean up Europe's packaging waste are ruining the festive season for some small vendors.",
+   "published_date": "Fri, 27 Nov 2026 05:00:00 +0000",
    "score": 0.6
   }
  ],
